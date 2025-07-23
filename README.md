@@ -1,0 +1,2 @@
+# turkce-sozluk
+Türkçe Sözlük
