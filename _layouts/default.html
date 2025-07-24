@@ -4,37 +4,37 @@
   <meta charset="UTF-8">
   <title>{{ page.title }} | {{ site.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <style>
-    body {
-      font-family: sans-serif;
-      margin: 2rem auto;
-      max-width: 700px;
-      padding: 0 1rem;
-      line-height: 1.6;
-      background: #fdfdfd;
-      color: #222;
-    }
-    h1 {
-      font-size: 2rem;
-      margin-bottom: 0.5rem;
-    }
-    h2 {
-      font-size: 1.25rem;
-      margin-top: 2rem;
-    }
-  </style>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
-  <header>
-    <h1>{{ site.title }}</h1>
-  </header>
+<header class="site-header">
+  <h1>{{ site.title }}</h1>
+  {% if page.url == '/' %}
+    <input id="search" placeholder="Ara terim…" autofocus>
+    <button id="random-word" onclick="goRandom()">🎲 Rastgele Kelime</button>
+  {% endif %}
+</header>
 
   <main>
     {{ content }}
   </main>
 
   <footer>
-    <p><small>&copy; {{ site.time | date: '%Y' }}</small></p>
+    <p>&copy; {{ site.time | date: '%Y' }} · Açık Kaynak Türkçe Sözlük</p>
   </footer>
+
+  {% if page.url == '/' %}
+  <script>
+    const searchInput = document.getElementById('search');
+    const items = document.querySelectorAll('[data-title]');
+    searchInput?.addEventListener('input', () => {
+      const query = searchInput.value.toLowerCase();
+      items.forEach(el => {
+        const text = el.dataset.title;
+        el.style.display = text.includes(query) ? "" : "none";
+      });
+    });
+  </script>
+  {% endif %}
 </body>
 </html>

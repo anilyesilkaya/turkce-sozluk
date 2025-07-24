@@ -1,0 +1,132 @@
+:root {
+  --bg: #f9fafb;
+  --text: #1a1a1a;
+  --accent: #2563eb;
+  --muted: #6b7280;
+  --border: #e5e7eb;
+  --radius: 0.5rem;
+}
+
+body {
+  font-family: system-ui, sans-serif;
+  background-color: var(--bg);
+  color: var(--text);
+  line-height: 1.7;
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 2rem 1.5rem;
+}
+
+h1, h2, p {
+  margin-top: 0;
+}
+
+h1 {
+  font-size: 2.2rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+.site-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.term-title {
+  font-size: 2.5rem;
+  font-weight: 800;
+  color: var(--accent);
+  margin-bottom: 1rem;
+  letter-spacing: -0.5px;
+  border-bottom: 3px solid var(--accent);
+  padding-bottom: 0.4rem;
+}
+
+.term-subtitle {
+  font-size: 1rem;
+  color: var(--muted);
+  margin-top: -0.75rem;
+  margin-bottom: 1.5rem;
+}
+
+h2 {
+  font-size: 1.4rem;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 0.3rem;
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+ul, ol {
+  margin-left: 1.25rem;
+  margin-bottom: 1rem;
+}
+
+li {
+  margin: 0.25rem 0;
+}
+
+.term-section {
+  margin-bottom: 2rem;
+}
+
+footer {
+  margin-top: 3rem;
+  text-align: center;
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+@media (max-width: 600px) {
+  body {
+    padding: 1.5rem 1rem;
+  }
+
+  .term-title {
+    font-size: 2rem;
+  }
+
+  h2 {
+    font-size: 1.2rem;
+  }
+}
+
+#search {
+  width: 100%;
+  max-width: 600px;
+  display: block;
+  margin: 1rem auto 2rem;
+  padding: 0.8rem 1rem;
+  font-size: 1rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: white;
+}
+
+#random-word {
+  display: inline-block;
+  background: #193269;
+  color: white;
+  font-size: 1rem;
+  font-weight: 600;
+  padding: 0.75rem 1.5rem;
+  border: none;
+  border-radius: var(--radius);
+  cursor: pointer;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition:
+    background 0.3s ease,
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+#random-word:hover {
+  background: #1e40af; /* darker blue */
+  transform: translateY(-2px);
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+}
+
+#random-word:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
