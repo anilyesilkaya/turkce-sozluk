@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+
+<p><strong>Dil:</strong> {{ page.lisan }}</p>
+
+<h2>Anlamlar</h2>
+<ul>
+  {% for anlam in page.anlamlar %}
+    <li>{{ anlam }}</li>
+  {% endfor %}
+</ul>
+
+<h2>Özellikler</h2>
+<ul>
+  {% for oz in page.ozellikler %}
+    <li>{{ oz | join: ", " }}</li>
+  {% endfor %}
+</ul>
+
+<h2>Örnekler</h2>
+<ul>
+  {% for group in page.ornekler %}
+    {% for ornek in group %}
+      {% if ornek != "" %}
+        <li>{{ ornek }}</li>
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+</ul>
+
