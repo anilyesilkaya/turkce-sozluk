@@ -1,0 +1,14 @@
+---
+layout: term
+title: alpaks
+slug: alpaks
+lisan: Fransızca alpax
+anlamlar:
+- Kolayca bükülebilen alüminyum ve silisyum karışımı
+ozellikler:
+- - isim
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

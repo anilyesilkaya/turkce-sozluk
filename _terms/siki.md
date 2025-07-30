@@ -1,0 +1,95 @@
+---
+layout: term
+title: sıkı
+slug: siki
+lisan: Türkçe
+anlamlar:
+- ► dar (I)
+- İyice sıkıştırılmış, doldurulmuş; tıkız, gevşek olmayan
+- Zorlu, güçlü ve etkili
+- Dikkatli, titiz ve göz yummadan uygulanan
+- ► katı (I)
+- ► yoğun
+- Sıkıca, iyice
+- Zorlayıcı durum
+- Ağızdan dolma ateşli silahlarda, barut ve kurşunun üstünden namluya sokulup bastırılan bez ve kâğıt parçaları vb. şeylerin tümü
+- Güçlü ve çabuk, hızlı
+ozellikler:
+- - sıfat
+- - sıfat
+  - ''
+- - sıfat
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - zarf
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - zarf
+  - isim
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - zarf
+  - isim
+  - isim
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - zarf
+  - isim
+  - isim
+  - ''
+ornekler:
+- - Sıkı bir kemer.
+- - Sıkı bir denk.
+- - En sıkı ve katı bir merkeziyet sistemi, bugün diğer faaliyet merkezlerini bloke edebilir.
+- - Ankaralılarla münasebetlerinde her zaman sıkı bir ahlak ve seviye kontrolüne tabi tutuldu.
+- - ''
+- - Samsun'a geldiğimi ve kendisiyle daha sıkı temasta bulunmak istediğimi bildirdim.
+- - Ağzını da sıkı tut demeye lüzum görmüyorum.
+- - Sıkıya gelmemek. Sıkıyı görünce kaçtı.
+- - İlk sıkıyı babam attı.
+- - Karabalçıklı çiftliği, kasabadan sıkı yürüyüşle bir saat çeker.
+orneklerkaynak:
+- - ''
+- - ''
+- - Burhan Felek
+- - 'Yakup Kadri Karaosmanoğlu '
+- - ''
+- - Atatürk
+- - Samim Kocagöz
+- - ''
+- - Samim Kocagöz
+- - Reşat Nuri Güntekin
+---

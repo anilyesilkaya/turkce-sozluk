@@ -1,0 +1,14 @@
+---
+layout: term
+title: meydana düşmek
+slug: meydana-dusmek
+lisan: Türkçe
+anlamlar:
+- bir iş yapmak için kendini ortaya atmak
+ozellikler:
+- - ''
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

@@ -1,0 +1,115 @@
+---
+layout: term
+title: kabarmak
+slug: kabarmak
+lisan: Türkçe
+anlamlar:
+- Ağırlığı artmadan hacmi büyümek
+- Yağışlardan veya kaynamaktan taşmaya yüz tutmak
+- Niceliği artmak, büyümek
+- Cilt üzerinde kabarcıklar oluşmak; börtlemek
+- Hayvanların tüyleri dikilmek
+- Kumaş üzerinde pürüzler oluşmak
+- Islanıp veya ısınıp yerinden kurtulmak
+- Deniz dalgalanmak, büyük dalgalar oluşmak
+- Öfke, sevgi vb. duygular gittikçe güçlenmek
+- Kafa tutmak, öfkelenip üstüne yürüyecek gibi davranmak
+- Böbürlenmek, gururlanmak
+ozellikler:
+- - nesnesiz
+- - nesnesiz
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - -e
+  - nesnesiz
+  - mecaz
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - -e
+  - nesnesiz
+  - mecaz
+  - mecaz
+ornekler:
+- - Ekmek iyi kabardı.
+- - Çay birdenbire kabararak şosenin rampalarını aşar ve epeyce zararlara sebep olur.
+- - Masraf kabardı.
+- - İhtiyarın zayıf damarları kabarmış kıllı elleri dizlerinin üstündeydi.
+- - ''
+- - Bu kumaş çabuk kabardı.
+- - Masanın kaplaması kabardı.
+  - Dolabın boyası kabardı.
+- - ''
+- - Bu olayı duyunca delikanlının yüreği öç alma duygusuyla kabarır.
+- - ''
+- - Kumandan, atını şahlandırarak hurra hurra diye kendisini alkışlayan keyifli halka boyun kırarak kabarıyordu.
+orneklerkaynak:
+- - ''
+- - Reşat Nuri Güntekin
+- - ''
+- - Peyami Safa
+- - ''
+- - ''
+- - ''
+  - ''
+- - ''
+- - Necati Cumalı
+- - ''
+- - Ömer Seyfettin
+---

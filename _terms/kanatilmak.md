@@ -1,0 +1,14 @@
+---
+layout: term
+title: kanatılmak
+slug: kanatilmak
+lisan: Türkçe
+anlamlar:
+- Kanatma işi yapılmak
+ozellikler:
+- - -i
+ornekler:
+- - Bir sabah bembeyaz bir arabayla gelip çöpün sahibi olduğunu, söyleyen adamın ağzı burnu kanatıldı.
+orneklerkaynak:
+- - Lâtife Tekin
+---

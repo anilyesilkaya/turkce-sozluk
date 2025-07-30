@@ -1,0 +1,109 @@
+---
+layout: term
+title: yaşamak
+slug: yasamak
+lisan: Türkçe
+anlamlar:
+- Canlılığını, hayatını sürdürmek
+- Sağ olmak; durmak
+- Varlığını sürdürmek
+- Bir yerde oturmak; kalmak
+- Geçimini sağlamak
+- Herhangi bir durumda bulunmak veya olmak
+- Görüp geçirmek, başından geçmek
+- Sürmek, devam etmek
+- Varlıklı, endişesiz, sıkıntısız, hoş vakit geçirmek, keyif sürmek
+- Keyfi yerine gelmek, mutlu olmak, işleri yolunda olmak
+- Bir durumu yaşar gibi olmak, bir durumla özdeşleşmek, duymak, hissetmek
+ozellikler:
+- - nesnesiz
+- - nesnesiz
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+  - mecaz
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+ornekler:
+- - Hiçbir şey yaşarken daha önemli değildir.
+- - Deden yaşıyor mu?
+- - Balıklar suda yaşar.
+- - Köyde yaşamak. Şehirde yaşamak.
+- - Bu kazançla yaşamak kolay değil.
+- - Bekâr yaşamak. Tek başına yaşamak.
+- - Balkan Savaşı'nın bütün acılarını yaşamış bir ailenin kızıydı.
+- - Onun anısı hep yaşayacak.
+- - Tek başına manevra yapan bir lokomotif rahatlığı ile hayatını yaşıyor.
+- - Bu iş olursa yaşadık.
+- - Sen genç gibi yaşar, ihtiyar gibi ölürsün.
+orneklerkaynak:
+- - Attilâ İlhan
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Necati Cumalı
+- - ''
+- - Haldun Taner
+- - ''
+- - Ömer Seyfettin
+---

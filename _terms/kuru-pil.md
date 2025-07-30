@@ -1,0 +1,15 @@
+---
+layout: term
+title: kuru pil
+slug: kuru-pil
+lisan: Türkçe
+anlamlar:
+- Akıntı yapmaması için elektroliti soğurucu bir maddeyle kaplı pil
+ozellikler:
+- - isim
+  - fizik
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

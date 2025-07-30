@@ -1,0 +1,14 @@
+---
+layout: term
+title: süreli yayın
+slug: sureli-yayin
+lisan: Türkçe
+anlamlar:
+- Belirli aralıklarla yayımlanan dergi vb.; mevkute, periyodik
+ozellikler:
+- - isim
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

@@ -1,0 +1,15 @@
+---
+layout: term
+title: cumhuriyetperver
+slug: cumhuriyetperver
+lisan: Arapça cumhūriyyet + Farsça -perver
+anlamlar:
+- ► cumhuriyetçi
+ozellikler:
+- - sıfat
+  - eskimiş
+ornekler:
+- - Türkiye'nin münevver ve cumhuriyetperver evladı!
+orneklerkaynak:
+- - Atatürk
+---

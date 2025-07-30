@@ -1,0 +1,82 @@
+---
+layout: term
+title: yüz
+slug: yuz
+lisan: Türkçe
+anlamlar:
+- Başta, alın, göz, burun, ağız, yanak ve çenenin bulunduğu ön bölüm; beniz, duluk, didar, sima, çehre, surat, suret, vecih, faça, bet (I)
+- ► yüzey
+- Kesici araçlarda ağız
+- Bir kumaşın dikiş sırasında dışa getirilen gösterişli bölümü
+- Bir şeyin görünen bölümünde kullanılan kumaş
+- Birinin görülegelen veya umulan hoşgörürlüğüne güvenilerek gösterilen cüret
+- ► taraf
+- Bir yapının dışa bakan düşey yüzeylerinin her biri
+- ► utanma
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+ornekler:
+- - Bir güzel çocuk yüzüyle gülümsüyor.
+- - Suyun yüzünde.
+- - Bıçağın keskin yüzü.
+- - ''
+- - Yorgan yüzü. Kanepenin yüzü.
+- - Ne yüzle? Yüzü olmamak.
+- - ''
+- - Ön yüz. Yan yüz. Arka yüz.
+- - Adamda yüz yok ki!
+orneklerkaynak:
+- - Sait Faik Abasıyanık
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+---

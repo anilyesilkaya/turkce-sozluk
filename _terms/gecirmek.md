@@ -1,0 +1,304 @@
+---
+layout: term
+title: geçirmek
+slug: gecirmek
+lisan: Türkçe
+anlamlar:
+- Geçme işini yaptırmak, geçmesini sağlamak
+- Bir şeyi bir yandan öbür yana götürmek
+- Bir şeyi bir yerden başka yere taşımak, nakletmek
+- Tespit etmek, yazmak, kaydetmek
+- Bir şeyi kendisine ayrılmış olan yere yerleştirmek, takmak
+- Yola çıkan birini uğurlamaya gitmek, selametlemek, teşyi etmek
+- Bir süre yaşamak, oturmak, kalmak
+- Giymek, giyinmek
+- Bir işi birden çok kişi üzerinde uygulamak
+- Herhangi bir durumu yaşamış olmak
+- Etmek, yapmak
+- Hastalık bulaştırmak
+- Zaman harcamak
+- Bir gereksinimi eldeki imkânla karşılamak
+- ► vurmak
+- Alışverişte aldatmak, kötü mal satmak, kazıklamak
+- Birine kötü söz söylemek
+ozellikler:
+- - -i
+- - -i
+  - -e
+- - -i
+  - -e
+  - -e
+  - -i
+- - -i
+  - -e
+  - -e
+  - -i
+  - -e
+  - -i
+- - -i
+  - -e
+  - -e
+  - -i
+  - -e
+  - -i
+  - -e
+  - -i
+- - -i
+  - -e
+  - -e
+  - -i
+  - -e
+  - -i
+  - -e
+  - -i
+  - -e
+  - -i
+- - -i
+  - -e
+  - -e
+  - -i
+  - -e
+  - -i
+  - -e
+  - -i
+  - -e
+  - -i
+  - -i
+  - -de
+- - -i
+  - -e
+  - -e
+  - -i
+  - -e
+  - -i
+  - -e
+  - -i
+  - -e
+  - -i
+  - -i
+  - -de
+  - -e
+  - nesnesiz
+- - -i
+  - -e
+  - -e
+  - -i
+  - -e
+  - -i
+  - -e
+  - -i
+  - -e
+  - -i
+  - -i
+  - -de
+  - -e
+  - nesnesiz
+  - -den
+- - -i
+  - -e
+  - -e
+  - -i
+  - -e
+  - -i
+  - -e
+  - -i
+  - -e
+  - -i
+  - -i
+  - -de
+  - -e
+  - nesnesiz
+  - -den
+  - -i
+  - -den
+- - -i
+  - -e
+  - -e
+  - -i
+  - -e
+  - -i
+  - -e
+  - -i
+  - -e
+  - -i
+  - -i
+  - -de
+  - -e
+  - nesnesiz
+  - -den
+  - -i
+  - -den
+  - ''
+- - -i
+  - -e
+  - -e
+  - -i
+  - -e
+  - -i
+  - -e
+  - -i
+  - -e
+  - -i
+  - -i
+  - -de
+  - -e
+  - nesnesiz
+  - -den
+  - -i
+  - -den
+  - ''
+  - -e
+  - -i
+- - -i
+  - -e
+  - -e
+  - -i
+  - -e
+  - -i
+  - -e
+  - -i
+  - -e
+  - -i
+  - -i
+  - -de
+  - -e
+  - nesnesiz
+  - -den
+  - -i
+  - -den
+  - ''
+  - -e
+  - -i
+  - ''
+- - -i
+  - -e
+  - -e
+  - -i
+  - -e
+  - -i
+  - -e
+  - -i
+  - -e
+  - -i
+  - -i
+  - -de
+  - -e
+  - nesnesiz
+  - -den
+  - -i
+  - -den
+  - ''
+  - -e
+  - -i
+  - ''
+  - ''
+- - -i
+  - -e
+  - -e
+  - -i
+  - -e
+  - -i
+  - -e
+  - -i
+  - -e
+  - -i
+  - -i
+  - -de
+  - -e
+  - nesnesiz
+  - -den
+  - -i
+  - -den
+  - ''
+  - -e
+  - -i
+  - ''
+  - ''
+  - -e
+- - -i
+  - -e
+  - -e
+  - -i
+  - -e
+  - -i
+  - -e
+  - -i
+  - -e
+  - -i
+  - -i
+  - -de
+  - -e
+  - nesnesiz
+  - -den
+  - -i
+  - -den
+  - ''
+  - -e
+  - -i
+  - ''
+  - ''
+  - -e
+  - mecaz
+- - -i
+  - -e
+  - -e
+  - -i
+  - -e
+  - -i
+  - -e
+  - -i
+  - -e
+  - -i
+  - -i
+  - -de
+  - -e
+  - nesnesiz
+  - -den
+  - -i
+  - -den
+  - ''
+  - -e
+  - -i
+  - ''
+  - ''
+  - -e
+  - mecaz
+  - -e
+  - argo
+ornekler:
+- - ''
+- - Kalanımızı peşine takarak Murat Suyu'nun karşı kıyısına geçirdi.
+- - Odanın eşyasını öbür odaya geçirmek.
+- - Merkez, kadının dosyasına vefat kaydını geçirdi.
+- - Yem torbalarını hayvanların boyunlarına geçirdikten sonra arkadaşına sordu.
+- - Arkadaşımı geçirmeye gittim.
+- - Oralarda geçirdiğim günleri daima bir endişe, bir nevi hüzün ile derhatır ediyorum.
+- - Sırtına pembe, kolları tamamen çıplak bir bluz geçirmişti.
+- - Kılıçtan geçirmek. Dayaktan geçirmek.
+- - Ne yapar ne eder, günde iki üç saatini at üstünde geçirirdi.
+- - ''
+- - Nezleyi bana geçirdin.
+- - Benim bu işlerle geçirecek vaktim yok.
+- - ''
+- - ''
+- - ''
+- - ''
+orneklerkaynak:
+- - ''
+- - Kemal Bilbaşar
+- - ''
+- - Refik Halit Karay
+- - Osman Cemal Kaygılı
+- - ''
+- - Hamdullah Suphi Tanrıöver
+- - Sait Faik Abasıyanık
+- - ''
+- - Necati Cumalı
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+---

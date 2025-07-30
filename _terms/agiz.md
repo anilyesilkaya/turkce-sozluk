@@ -1,0 +1,136 @@
+---
+layout: term
+title: ağız
+slug: agiz
+lisan: Türkçe
+anlamlar:
+- Yüzde, avurtlarla iki çene arasında bulunan, ses çıkarmaya, soluk alıp vermeye yarayan ve besinlerin sindirilmeye başlandığı organ
+- Bu organın dudaklarla beraber dış sınırı
+- Kapların veya içi boş şeylerin açık tarafı
+- Bir akarsuyun denize veya göle döküldüğü yer
+- Koy, körfez, liman vb. yerlerin açık tarafı
+- Giriş yeri
+- ► kavşak
+- Kesici aletlerin keskin tarafı
+- Üslup, ifade biçimi
+- Top, tüfek vb. silahlarda namlunun ucu veya açık olan kısmı
+- 'Belli yerleşim bölgelerine özgü, yazı dili hâline gelmemiş dil; diyalekt: Rumeli ağzı, Konya ağzı, Muğla ağzı, Siverek ağzı vb'
+- Bir bölgenin müzik kültüründe görülen söyleyiş özelliklerinin tümü
+ozellikler:
+- - isim
+  - anatomi
+- - isim
+  - anatomi
+  - anatomi
+- - isim
+  - anatomi
+  - anatomi
+  - ''
+- - isim
+  - anatomi
+  - anatomi
+  - ''
+  - ''
+- - isim
+  - anatomi
+  - anatomi
+  - ''
+  - ''
+  - ''
+- - isim
+  - anatomi
+  - anatomi
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - anatomi
+  - anatomi
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - anatomi
+  - anatomi
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - anatomi
+  - anatomi
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - anatomi
+  - anatomi
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - anatomi
+  - anatomi
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - dil bilimi
+- - isim
+  - anatomi
+  - anatomi
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - dil bilimi
+  - müzik
+ornekler:
+- - Kös, kalkan, boru sesleri at kişnemelerine karışıyor, alınan emirler, verilen kumandalar yüzlerce ağız tarafından ayrı ayrı tekrarlanıyordu.
+- - Küçük bir ağız.
+- - Ağızları kopmuş bir çay takımının arasına gizlenmiş, koyu renkli bir cildi oradan alarak bana uzattı.
+- - Çay ağzı.
+- - Körfezin ağzı.
+- - Şimdi tünelin ağzında değilim artık.
+- - ''
+- - ''
+- - Acem ağzı
+- - Sağ elinde ağzına mermi sürülmüş bir mavzer tutuyor gibiydi tıpkı.
+- - ''
+- - ''
+orneklerkaynak:
+- - Ömer Seyfettin
+- - ''
+- - Hüseyin Rahmi Gürpınar
+- - ''
+- - ''
+- - Adalet Ağaoğlu
+- - ''
+- - ''
+- - ''
+- - Demirtaş Ceyhun
+- - ''
+- - ''
+---

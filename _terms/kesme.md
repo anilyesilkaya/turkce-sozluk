@@ -1,0 +1,97 @@
+---
+layout: term
+title: kesme
+slug: kesme
+lisan: Türkçe
+anlamlar:
+- Kesmek işi; kat (II)
+- Teneke, sac vb.ni kesmek için kullanılan makas
+- Küp biçiminde veya köşeli olarak kesilmiş olan
+- Kesin, değişmez; maktu
+- ► kesme işareti
+- Nazımda veya nesirde, bir cümleyi sonu anlaşılacak biçimde yarım bırakma sanatı; kat (II)
+- Kıyılarımızda yaygın olarak bulunan, yuvarlak tepeli, 5 metre kadar boylu, her dem yeşil, yaprakları küçük ve kenarları testere dişli, çiçekleri yeşilimsi beyaz renkli olan bir süs ağacı; akçakesme (Phillyrea latifolia)
+- Çizgisel iki doğru parçası ve bir eğri yayı ile sınırlanan düzlem yüzeyi
+- İki çekimin birbirine doğrudan doğruya bağlanmasından, iki ayrı çekimin birbirini izlemesinden doğan durum
+- ► lokum
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - sıfat
+- - isim
+  - ''
+  - sıfat
+  - sıfat
+- - isim
+  - ''
+  - sıfat
+  - sıfat
+  - dil bilgisi
+- - isim
+  - ''
+  - sıfat
+  - sıfat
+  - dil bilgisi
+  - edebiyat
+- - isim
+  - ''
+  - sıfat
+  - sıfat
+  - dil bilgisi
+  - edebiyat
+  - bitki bilimi
+- - isim
+  - ''
+  - sıfat
+  - sıfat
+  - dil bilgisi
+  - edebiyat
+  - bitki bilimi
+  - matematik
+- - isim
+  - ''
+  - sıfat
+  - sıfat
+  - dil bilgisi
+  - edebiyat
+  - bitki bilimi
+  - matematik
+  - sinema
+  - televizyon
+- - isim
+  - ''
+  - sıfat
+  - sıfat
+  - dil bilgisi
+  - edebiyat
+  - bitki bilimi
+  - matematik
+  - sinema
+  - televizyon
+  - eskimiş
+ornekler:
+- - ''
+- - ''
+- - Dört tarafı kesme billur kapaklı bir eski saat.
+- - Kesme fiyat.
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+orneklerkaynak:
+- - ''
+- - ''
+- - Refik Halit Karay
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+---

@@ -1,0 +1,140 @@
+---
+layout: term
+title: yetişmek
+slug: yetismek
+lisan: Türkçe
+anlamlar:
+- Ulaşmak, ermek, varmak, vasıl olmak
+- Vaktinde tamam olmak, bitmek, hazırlanmak, hazır olmak
+- Vaktinde varmak, vaktinde bulunmak
+- Bir işe başlamış olanlara veya gidenlere sonradan katılmak
+- Değmek, uzanıp dokunabilmek
+- Vakit bulmak, yapabilmek
+- Yetmek, yeter olmak, kâfi gelmek
+- Bir zamanda yaşamış olmak, bir zamanı veya kimseyi görmüş olmak
+- Gelişip büyümek
+- Eğitim görmüş olmak, öğrenmek, gelişmek
+- İş görebilecek yaşa gelmek, büyümek
+- Yardım etmek, yardımına koşmak
+- Ortaya çıkmak
+ozellikler:
+- - -e
+- - -e
+  - ''
+- - -e
+  - ''
+  - ''
+- - -e
+  - ''
+  - ''
+  - ''
+- - -e
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+- - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+- - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+- - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - -de
+- - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - -de
+  - ''
+- - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - -de
+  - ''
+  - ''
+- - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - -de
+  - ''
+  - ''
+  - mecaz
+ornekler:
+- - Gâvur Ali kahvedeki cemaate hiçbir şey söylemeden küçük çobanla uzaklaştı, bir nefeste ağıla yetişti.
+- - Bu giysi yarına yetişmeli.
+- - Öteki tünelle gelseler de vapura yetişeceklerini bilirlerdi.
+- - Kadınlar, derme çatma ayakkabılarıyla onlara zor yetişebiliyorlardı.
+- - Ben o dala yetişemem. Bu ip kuyunun dibine yetişmez.
+- - Ben bu kadar işe yetişemem.
+- - Bu kadar nezaket ve iltifat yetişmez miydi?
+- - Bol zamanıma yetişti de ben onu böyle şımarık büyüttüm.
+- - Şu Marmara kıyılarında o sene bol meyve yetişmişti.
+- - Akşam gazetesi, yurt aydınlarıyla konuşarak bizde niçin yazar yetişmediğinin sebeplerini araştırdı.
+- - ''
+- - Tam o sırada talih imdadıma yetişti.
+- - ''
+orneklerkaynak:
+- - Ömer Seyfettin
+- - ''
+- - Abdülhak Şinasi Hisar
+- - 'Yakup Kadri Karaosmanoğlu '
+- - ''
+- - ''
+- - Orhan Seyfi Orhon
+- - Peyami Safa
+- - Sait Faik Abasıyanık
+- - Orhan Veli Kanık
+- - ''
+- - Refik Halit Karay
+- - ''
+---

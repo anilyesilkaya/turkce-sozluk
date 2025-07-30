@@ -1,0 +1,95 @@
+---
+layout: term
+title: ince
+slug: ince
+lisan: Türkçe
+anlamlar:
+- Kendi cinsinden olanlara göre dar ve kalınlığı az olan; cılız, narin, kalın karşıtı
+- ► zayıf
+- Taneleri ufak, iri karşıtı
+- Aşırı özen gerektiren, kaba karşıtı
+- ► ayrıntılı
+- Akışkanlığı çok olan, yoğun ve koyu olmayan (sıvılar)
+- Tiz (ses), kalın karşıtı
+- Hafif, gücü az
+- İyiden iyiye, enikonu, ayrıntılı
+- Düşünce, duygu veya davranış bakımından insanın sevgi ve saygısını kazanan, zarif, kaba karşıtı
+ozellikler:
+- - sıfat
+- - sıfat
+  - ''
+- - sıfat
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+ornekler:
+- - İnce minare. İnce değnek. İnce kitap.
+- - Sarışın, kuru, ince bir kadındı.
+- - İnce un. İnce kum.
+- - İnce nakış.
+- - Bugün temizlikçi geliyor. Şöyle ince bir temizliğe...
+- - ''
+- - İnce bir çocuk sesinin hırçınlaştığı, ağladığı işitildi.
+- - Hiçbir hareket bu gülüş kadar belirsiz ve ince değildir.
+- - Aletler, uzun denemelerin, ince hesapların, birbirini tamamlayan bilgi ve diğer aletlerin mahsulüdür.
+- - Bu gülümseyişte, herkesin hemen seçemeyeceği bir ince alay gizli.
+orneklerkaynak:
+- - ''
+- - Yahya Kemal Beyatlı
+- - ''
+- - ''
+- - Tomris Uyar
+- - ''
+- - Reşat Nuri Güntekin
+- - Sait Faik Abasıyanık
+- - Mehmet Kaplan
+- - Adalet Ağaoğlu
+---

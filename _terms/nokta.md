@@ -1,0 +1,95 @@
+---
+layout: term
+title: nokta
+slug: nokta
+lisan: Arapça nuḳṭa
+anlamlar:
+- Biçimi kalemin kâğıda bir defa dokunması ile meydana gelen ben gibi ufak şekil
+- Bazı harflerin üzerine konulan ufak işaret
+- ► yer
+- Konu, konu ile ilgili önemli bölüm
+- Nöbetçi bulunan yer
+- ► nöbetçi
+- ► aşama
+- Yazıda cümlenin veya küçük harfle yapılan kısaltmaların sonunda, sıra gösteren sayılardan sonra, tarih yazarken gün, ay ve yıl bildiren rakamların arasına, sayı basamaklarını belirlemek için kullanılan noktalama işareti (.)
+- Hiçbir boyutu olmayan işaret
+- ► orta nokta
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - dil bilgisi
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - dil bilgisi
+  - matematik
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - dil bilgisi
+  - matematik
+  - spor
+ornekler:
+- - ''
+- - ''
+- - Köşkten çıktık ve bahçenin her noktasını uzun uzun durup konuşarak dolaştık.
+- - Genç adam o noktada alaka uyandırıcı bir şey keşfetmiş gibiydi.
+- - Orada polis noktası var.
+- - O yokuşun başındaki küçücük karakolun her gece çıkardığı noktayı unutuyorsunuz.
+- - Savaşın gerçekleşme noktasına yaklaştığı sırada...
+- - ''
+- - ''
+- - ''
+orneklerkaynak:
+- - ''
+- - ''
+- - Ahmet Haşim
+- - 'Yakup Kadri Karaosmanoğlu '
+- - ''
+- - Ömer Seyfettin
+- - ''
+- - ''
+- - ''
+- - ''
+---

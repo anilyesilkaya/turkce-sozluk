@@ -1,0 +1,196 @@
+---
+layout: term
+title: yanmak
+slug: yanmak
+lisan: Türkçe
+anlamlar:
+- Birleşiminde karbon bulunan maddeler, ısı ve ışık yayarak kül durumuna geçip yok olmak
+- Ateş durumuna geçmek, tutuşmak; harıldamak
+- Isı, ışık veren bir konuma geçmek
+- Bütünü veya bir bölümü ateş veya sıcaklığın etkisi ile bozulmak, kömür durumuna geçmek
+- Isı etkisiyle vücudun bir yanı yara olmak, kızarmak veya rengi koyulaşmak
+- Vücut veya nesnelerin ısısı artmak
+- Parlamak, parıldamak
+- Birtakım etmenlerin etkisiyle işe yaramaz duruma gelmek
+- Yanık acısına benzer bir acı duymak
+- Çok istemek, çabalamak
+- Çok üzülmek
+- Çok sevmek, büyük bir aşk ile sevmek
+- Hükümsüz kalmak, değerini yitirmek
+- Zarara, kötülüğe uğramak
+- Çocuk oyunlarında oyun dışı kalmak
+- Bir bir sıralamak, dile getirmek, dert dökmek, anlatmak
+ozellikler:
+- - nesnesiz
+- - nesnesiz
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+  - mecaz
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+ornekler:
+- - Yanan ormanların yerinde yeni orman yetiştirilir, bu yerlerde başka çeşit tarım ve hayvancılık yapılamaz.
+- - Kömür yandı. Ocaktaki odun yandı.
+- - Gece oldu, ışıklar yandı, yatsı vakti geldi.
+- - Yemek yandı. Ekmek yandı.
+- - Ateşe dokundu, eli yandı. Güneşten kolları yandı.
+- - Ateşler içinde, günlerce titreyerek yanar.
+  - Odamız yaz günleri çinko damın altında yanar durur.
+- - Birkaç batarya top, kızgın güneş altında pırıl pırıl yanıyor.
+- - Kumaş boyadan yanmış. Ekinler dondan yanmış.
+- - Boğazım yanıyor. Biberden ağzım yandı.
+- - Çocuklar, kendilerini beğendirmek için yanıyorlar.
+- - Bu yaz tatil yapamayacağıma yanıyorum.
+- - ''
+- - Vaktinde değiştirilmeyen kâğıt paralar yandı.
+- - Maazallah! Birimize kitaptan rastgele bir şey soracak olsa yandığımız gündü.
+- - ''
+- - Yazı yazmak, hayatımı anlatmak, kalbimi dökmek ihtiyacıyla yanıyorum.
+orneklerkaynak:
+- - Anayasa
+- - ''
+- - Memduh Şevket Esendal
+- - ''
+- - ''
+- - Yusuf Ziya Ortaç
+  - Orhan Veli Kanık
+- - Falih Rıfkı Atay
+- - ''
+- - ''
+- - Reşat Nuri Güntekin
+- - ''
+- - ''
+- - ''
+- - Haldun Taner
+- - ''
+- - Sermet Muhtar Alus
+---

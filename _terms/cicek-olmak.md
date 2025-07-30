@@ -1,0 +1,14 @@
+---
+layout: term
+title: çiçek olmak
+slug: cicek-olmak
+lisan: Türkçe
+anlamlar:
+- yaşına, durumuna uymayan aşırı davranışlarda bulunmak
+ozellikler:
+- - ''
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

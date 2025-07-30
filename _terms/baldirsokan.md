@@ -1,0 +1,15 @@
+---
+layout: term
+title: baldırsokan
+slug: baldirsokan
+lisan: Türkçe
+anlamlar:
+- Çift kanatlıların sinekgiller familyasından, karasineğe çok benzeyen, kan emen, hastalık bulaştıran, hayvan sağlığı yönünden zararlı bir tür sinek (Stomaxys calcitrans)
+ozellikler:
+- - isim
+  - hayvan bilimi
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

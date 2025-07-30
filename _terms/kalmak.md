@@ -1,0 +1,308 @@
+---
+layout: term
+title: kalmak
+slug: kalmak
+lisan: Türkçe
+anlamlar:
+- Olduğu yeri ve durumu korumak, sürdürmek
+- Zaman, uzaklık veya nicelik belirtilen miktarda bulunmak
+- ► konaklamak
+- ► yaşamak
+- ► eğleşmek
+- Hayatını sürdürmek
+- Varlığını korumak, sürdürmek
+- Oyalanmak, vakit geçirmek
+- Sınıf geçmemek
+- İşlemez, yürümez duruma gelmek
+- İleriye atılmak; ertelenmek
+- Bir şeyle kaplanmak, bir şeye bulanmak
+- Bir işi belli bir noktada bırakmak
+- Miras olarak geçmek
+- Yapamamak
+- Belli bir gelirle geçinmek zorunda bulunmak
+- ► yetinmek
+- ► sınırlanmak
+- Herhangi bir durumu sürdürmek
+- Olmak, herhangi bir durumda bulunmak
+- Kök veya gövdeleri sonuna -a (-e), -ıp (-ip) zarf-fiil eki almış fiillere gelerek süreklilik bildiren birleşik fiiller oluşturur
+ozellikler:
+- - nesnesiz
+- - nesnesiz
+  - ''
+- - nesnesiz
+  - ''
+  - -de
+- - nesnesiz
+  - ''
+  - -de
+  - -le
+- - nesnesiz
+  - ''
+  - -de
+  - -le
+  - ''
+- - nesnesiz
+  - ''
+  - -de
+  - -le
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - -de
+  - -le
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - -de
+  - -le
+  - ''
+  - ''
+  - ''
+  - -de
+- - nesnesiz
+  - ''
+  - -de
+  - -le
+  - ''
+  - ''
+  - ''
+  - -de
+  - ''
+- - nesnesiz
+  - ''
+  - -de
+  - -le
+  - ''
+  - ''
+  - ''
+  - -de
+  - ''
+  - -de
+- - nesnesiz
+  - ''
+  - -de
+  - -le
+  - ''
+  - ''
+  - ''
+  - -de
+  - ''
+  - -de
+  - -e
+- - nesnesiz
+  - ''
+  - -de
+  - -le
+  - ''
+  - ''
+  - ''
+  - -de
+  - ''
+  - -de
+  - -e
+  - -de
+- - nesnesiz
+  - ''
+  - -de
+  - -le
+  - ''
+  - ''
+  - ''
+  - -de
+  - ''
+  - -de
+  - -e
+  - -de
+  - -de
+- - nesnesiz
+  - ''
+  - -de
+  - -le
+  - ''
+  - ''
+  - ''
+  - -de
+  - ''
+  - -de
+  - -e
+  - -de
+  - -de
+  - -den
+- - nesnesiz
+  - ''
+  - -de
+  - -le
+  - ''
+  - ''
+  - ''
+  - -de
+  - ''
+  - -de
+  - -e
+  - -de
+  - -de
+  - -den
+  - -den
+- - nesnesiz
+  - ''
+  - -de
+  - -le
+  - ''
+  - ''
+  - ''
+  - -de
+  - ''
+  - -de
+  - -e
+  - -de
+  - -de
+  - -den
+  - -den
+  - ''
+- - nesnesiz
+  - ''
+  - -de
+  - -le
+  - ''
+  - ''
+  - ''
+  - -de
+  - ''
+  - -de
+  - -e
+  - -de
+  - -de
+  - -den
+  - -den
+  - ''
+  - -le
+- - nesnesiz
+  - ''
+  - -de
+  - -le
+  - ''
+  - ''
+  - ''
+  - -de
+  - ''
+  - -de
+  - -e
+  - -de
+  - -de
+  - -den
+  - -den
+  - ''
+  - -le
+  - -le
+- - nesnesiz
+  - ''
+  - -de
+  - -le
+  - ''
+  - ''
+  - ''
+  - -de
+  - ''
+  - -de
+  - -e
+  - -de
+  - -de
+  - -den
+  - -den
+  - ''
+  - -le
+  - -le
+  - ''
+- - nesnesiz
+  - ''
+  - -de
+  - -le
+  - ''
+  - ''
+  - ''
+  - -de
+  - ''
+  - -de
+  - -e
+  - -de
+  - -de
+  - -den
+  - -den
+  - ''
+  - -le
+  - -le
+  - ''
+  - yardımcı  fiil
+- - nesnesiz
+  - ''
+  - -de
+  - -le
+  - ''
+  - ''
+  - ''
+  - -de
+  - ''
+  - -de
+  - -e
+  - -de
+  - -de
+  - -den
+  - -den
+  - ''
+  - -le
+  - -le
+  - ''
+  - yardımcı  fiil
+  - yardımcı  fiil
+ornekler:
+- - Sıkı sıkı kucakladı ve öylece kaldı.
+- - Arabada yalnız dört çocuk kalmıştı.
+- - Hemen karargâha yerleşmezsem ne geri dönebilir ne de otelde kalabilirdim.
+- - Tam beş sene benimle beraber kaldı.
+- - ''
+- - O aileden bir bu çocuk kaldı.
+- - Eniştemizin iptidai kalmış huyları da vardı.
+- - Kısa bir süre tezgâhın önünde kaldı.
+- - Çocukların içinde kalanlar da var geçenler de.
+- - Araba yarı yolda kaldı.
+- - Mahkeme ayın on sekizine kaldı.
+- - Oda duman içinde kaldı.
+- - Bugün iş maddesinde kaldık.
+- - Çiftlik ana babasından kalmış.
+- - Misafir geldi, gezmeden kaldık.
+- - Refika, valide, iki kerime kaldık mı biz iki bin kuruş tekaüt maaşına.
+- - Yalnız dayak atmakla kalmadı, onu işinden de çıkardı.
+- - Amasya'da iken karşılaştığımız vaziyet yalnız Şeyh Recep Vakası ile kalmadı.
+- - ''
+- - Fatma'nın yemek çantası olmasaydı dün aç kalmıştık.
+- - Bakakalmak.
+  - Şaşakalmak.
+  - Donakalmak. Şaşırıp kalmak. Donup kalmak.
+orneklerkaynak:
+- - Tarık Buğra
+- - Osman Cemal Kaygılı
+- - Falih Rıfkı Atay
+- - Sait Faik Abasıyanık
+- - ''
+- - ''
+- - Abdülhak Şinasi Hisar
+- - Necati Cumalı
+- - ''
+- - ''
+- - Sait Faik Abasıyanık
+- - ''
+- - ''
+- - ''
+- - ''
+- - Haldun Taner
+- - ''
+- - Atatürk
+- - ''
+- - Falih Rıfkı Atay
+- - ''
+  - ''
+  - ''
+---

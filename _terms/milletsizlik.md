@@ -1,0 +1,14 @@
+---
+layout: term
+title: milletsizlik
+slug: milletsizlik
+lisan: Türkçe
+anlamlar:
+- Milletsiz olma durumu; ulussuzluk
+ozellikler:
+- - isim
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

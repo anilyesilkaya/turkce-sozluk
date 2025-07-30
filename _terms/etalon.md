@@ -1,0 +1,14 @@
+---
+layout: term
+title: etalon
+slug: etalon
+lisan: Fransızca étalon
+anlamlar:
+- Ağırlık ve uzunluk ölçüleri için kabul edilmiş yasal ölçü modeli
+ozellikler:
+- - isim
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

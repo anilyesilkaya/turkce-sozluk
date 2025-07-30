@@ -1,0 +1,14 @@
+---
+layout: term
+title: peynirli pide
+slug: peynirli-pide
+lisan: Türkçe
+anlamlar:
+- Mayalanmış ve yağ ile yumurta karıştırarak hazırlanmış hamura peynir, maydanoz, yumurta eklenmesiyle hazırlanan bir pide türü
+ozellikler:
+- - isim
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

@@ -1,0 +1,82 @@
+---
+layout: term
+title: izlemek
+slug: izlemek
+lisan: Türkçe
+anlamlar:
+- Birinin veya bir şeyin arkasından gitmek; takip etmek
+- Zaman, süre, sıra vb. bakımından gelmek, arkasından gelmek, arkasında olmak
+- Bir olayın gelişimini gözden geçirmek
+- Eğlenmek, görmek, öğrenmek için bakmak; seyretmek
+- Belirli bir yönde gitmek
+- Gözlemek, incelemek
+- Belirli bir tutum, davranış veya düşünceyi benimsemek
+- Bir şeye uymak, bağlı olmak
+- Herhangi bir olayla ilgilenmek
+ozellikler:
+- - -i
+- - -i
+  - ''
+- - -i
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+ornekler:
+- - Babam kaşları çatılmış, başını sallayarak izliyor bizi.
+- - Geceyi gündüz izler.
+- - Bu ustaca düzeni Osmanlıların her işinde izleyebilirsiniz.
+- - Televizyonu izlemek.
+- - Geç vakit hayvanla, Deliçay'ı izleyip gidiyordum.
+- - Çocuk kuşu gözleriyle izledi.
+- - Bu üretim politikasını izleyeceğiz.
+- - Modayı izlemek.
+- - Çeşitli siyasi olaylar karşısındaki tepki ve düşüncelerini dolaylı da olsa izleyebiliyordum.
+orneklerkaynak:
+- - Ahmet Ümit
+- - ''
+- - Salâh Birsel
+- - ''
+- - Halide Edip Adıvar
+- - ''
+- - ''
+- - ''
+- - Haldun Taner
+---

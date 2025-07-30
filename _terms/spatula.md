@@ -1,0 +1,15 @@
+---
+layout: term
+title: spatula
+slug: spatula
+lisan: İtalyanca spatola
+anlamlar:
+- Ev işleri, duvarcılık, boyacılık gibi alanlarda kullanılan, bir maddeyi kazımaya, yaymaya yarayan, küçük bir kürek veya ucu keskin olmayan, bükülebilen bir bıçak biçiminde metal, ağaç, kemik vb. maddelerden yapılmış araç
+ozellikler:
+- - isim
+  - teknik
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

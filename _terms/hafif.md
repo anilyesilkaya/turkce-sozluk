@@ -1,0 +1,95 @@
+---
+layout: term
+title: hafif
+slug: hafif
+lisan: Arapça ḫafīf
+anlamlar:
+- Tartıda ağırlığı az gelen; yeğni, ağır karşıtı
+- Güç veya yorucu olmayan, kolay olan
+- Ağırbaşlı olmayan, ciddi olmayan, hoppa olan
+- Miktarı az, sindirimi kolay (yiyecek)
+- Kalınlığı veya yoğunluğu az olan
+- Etkisi az olan, sert karşıtı
+- Önemli olmayan
+- Çok dik olmayan (sırt, yokuş)
+- Gücü az olan, belli belirsiz olan
+- Sıkıntısız, ferah, rahat olarak
+ozellikler:
+- - sıfat
+- - sıfat
+  - ''
+- - sıfat
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - zarf
+ornekler:
+- - Mustafa Kemal meraklıdır; dükkânın içini görmek istiyor, giriyor, raflarda birtakım hafif eşya var.
+- - Şöyle ne bileyim, kadınların yapabileceği işler arayın, hafif işler… Yoksa hademelik sizin gibi ince, hafif nahif kadınların kârı değil.
+- - Bu eserde eski konak ve köşk hayatının hesapsız, bilgisiz ve hafif insanlar elinde nasıl ve niçin yıkıldığı hikâye edilmek istenmiştir.
+- - Onlar da akşam yemeğini pek hafif yerlerdi.
+- - Dışarıda yanan lambanın aydınlığıyla burası hafif bir karanlık içindeydi.
+- - Hafif esen serin rüzgâr üşümesine neden olmuştu.
+- - Bu takdirde en hafif ceza dahi, o cezaya çarptırılmış olanı, en büyük bir cezaya maruz kalmış gibi incitir.
+- - Hafif bir meyilden indik.
+- - Yaprakların hafif iniltisi içinde, çalılıklar arasından geçerek denizaltının demir attığı koya doğru yaklaşıyoruz.
+- - Kendimi bugün çok hafif hissediyorum.
+orneklerkaynak:
+- - Afet İnan
+- - Bekir Sıtkı Kunt
+- - Şerif Aktaş
+- - Sait Faik Abasıyanık
+- - Memduh Şevket Esendal
+- - Can Güzel
+- - Refik Korkud
+- - Hüseyin Rahmi Gürpınar
+- - Esat Mahmut Karakurt
+- - ''
+---

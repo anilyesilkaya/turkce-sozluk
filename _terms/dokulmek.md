@@ -1,0 +1,128 @@
+---
+layout: term
+title: dökülmek
+slug: dokulmek
+lisan: Türkçe
+anlamlar:
+- Dökme işi yapılmak veya dökme işine konu olmak
+- Yaprak, saç, diş, sıva bağlı bulunduğu yerden veya organdan kopup düşmek
+- Kumaş dökümlü olmak
+- Bir işi, bir konuyu ele alış biçiminde değişiklik olmak
+- Bir yere düşmek
+- Çıkmak, ortaya konulmak
+- Bir şey kaplamak, yayılmak
+- Salınmak, serbest bırakılmak
+- Kır, sokak vb. yerlerde insanlar çokça birikmek
+- Çok eskimiş olmak, değerini ve güzelliğini yitirmek
+- Çok yorgun, hasta olmak
+- Akarsular, göl veya denize akmak
+ozellikler:
+- - nesnesiz
+- - nesnesiz
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - -e
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - -e
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - -e
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - -e
+  - ''
+  - ''
+  - -e
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - -e
+  - ''
+  - ''
+  - -e
+  - -e
+  - mecaz
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - -e
+  - ''
+  - ''
+  - -e
+  - -e
+  - mecaz
+  - mecaz
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - -e
+  - ''
+  - ''
+  - -e
+  - -e
+  - mecaz
+  - mecaz
+  - mecaz
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - -e
+  - ''
+  - ''
+  - -e
+  - -e
+  - mecaz
+  - mecaz
+  - mecaz
+  - coğrafya
+ornekler:
+- - Bekliyorum. Bir gül döküldü vazoda / Bekliyorum. Ses yok ölgün piyanoda
+- - ''
+- - ''
+- - ''
+- - Bizim motor ikiye bölünüp suya döküldüğümüzde dört kişiydik.
+- - Âdeta düşünmeksizin kaleminden masal sahnelerine benzeyen dağ, dere, uçurum resimleri dökülüyordu.
+- - Duvarlar bütün ışıkları yutuyor, halkın üstüne bir toprak rengi dökülüyor.
+- - Saçlarını arkaya atıp ensesine dökülen buklelerini kabarttı.
+- - Bahar o sene erken gelmiş, herkes tarlalara dökülmüştü.
+- - Yaşayan, var olan her şey eskiyip dökülecek.
+- - Erkek arıların takatleri kesilmeye başlar, bir bir dökülür, ölür giderler.
+- - ''
+orneklerkaynak:
+- - Halit Fahri Ozansoy
+- - ''
+- - ''
+- - ''
+- - Zeyyat Selimoğlu
+- - Reşat Nuri Güntekin
+- - Memduh Şevket Esendal
+- - Haldun Taner
+- - Sait Faik Abasıyanık
+- - Bedri Rahmi Eyüboğlu
+- - Tarık Buğra
+- - ''
+---

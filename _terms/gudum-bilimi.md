@@ -1,0 +1,14 @@
+---
+layout: term
+title: güdüm bilimi
+slug: gudum-bilimi
+lisan: Türkçe
+anlamlar:
+- ► sibernetik
+ozellikler:
+- - isim
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

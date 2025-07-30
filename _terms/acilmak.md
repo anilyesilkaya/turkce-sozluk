@@ -1,0 +1,178 @@
+---
+layout: term
+title: açılmak
+slug: acilmak
+lisan: Türkçe
+anlamlar:
+- Açık duruma gelmek veya getirilmek
+- Renk daha açık bir tona gelmek
+- Kendine gelmek, biraz iyileşmek
+- Sıkılması, çekinmesi, tutukluğu kalmamak
+- Kuruluş ilk kez veya yeniden işe başlamak
+- İşini gereğinden veya yapabileceğinden geniş tutmak
+- Geniş bir duruma gelmek
+- Yırtık duruma gelmek
+- Sis, karanlık, duman vb. dağılmak, yoğunluğunu yitirmek
+- Gereken güce ulaşmak
+- Kıyıdan uzaklaşmak
+- Kapı, yol vb. geçit vermek
+- Herhangi bir konuyla veya sorunla ilgili olarak düşünce ve uygulamalarda yeni koşulların gerektirdiği değişiklikleri veya yenilikleri yapmak
+- Sırrını, üzüntüsünü, sorunlarını birine anlatmak
+- Karşı cinse sevdiğini ilk kez dile getirmek
+ozellikler:
+- - nesnesiz
+- - nesnesiz
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - mecaz
+- - nesnesiz
+  - ''
+  - ''
+  - mecaz
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - mecaz
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - mecaz
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - mecaz
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - mecaz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - mecaz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+- - nesnesiz
+  - ''
+  - ''
+  - mecaz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - -den
+- - nesnesiz
+  - ''
+  - ''
+  - mecaz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - -den
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - mecaz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - -den
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - mecaz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - -den
+  - ''
+  - ''
+  - -e
+  - mecaz
+- - nesnesiz
+  - ''
+  - ''
+  - mecaz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - -den
+  - ''
+  - ''
+  - -e
+  - mecaz
+  - -e
+  - mecaz
+ornekler:
+- - ''
+- - Perdenin rengi açıldı.
+- - Ateşi düşünce hasta açıldı.
+- - ''
+- - Kasabada bir çırçır fabrikası açılmış.
+- - ''
+- - Ayakkabısı açıldı.
+- - Pantolonun dizleri açıldı.
+- - Belki hava açılıyor.
+- - Araç uzun yolda açıldı, hızı arttı.
+- - Ben yüzerken biraz fazla açıldım, kendimi Vardar'ın kuvvetli bir akıntısına kaptırdım.
+- - Yol açılmış, biriken vasıtalar sel hâlinde akmaya başlamıştı.
+- - ''
+- - Hiç kimseye açılmayarak yaşadığım bu altı ay beni bitirdi.
+- - ''
+orneklerkaynak:
+- - ''
+- - ''
+- - ''
+- - ''
+- - Ahmet Ümit
+- - ''
+- - ''
+- - ''
+- - Refik Halit Karay
+- - ''
+- - Yahya Kemal Beyatlı
+- - Haldun Taner
+- - ''
+- - Peyami Safa
+- - ''
+---

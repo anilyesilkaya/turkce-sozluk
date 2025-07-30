@@ -1,0 +1,14 @@
+---
+layout: term
+title: 'kara kovan balı '
+slug: kara-kovan-bali
+lisan: Türkçe
+anlamlar:
+- Kara kovanlarda, dışarıdan herhangi bir besleme yapılmadan ve suni bal mumu takılmadan arıların kendi mum salgıları ile yapmış oldukları doğal bal
+ozellikler:
+- - isim
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

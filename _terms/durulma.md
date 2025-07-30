@@ -1,0 +1,14 @@
+---
+layout: term
+title: durulma
+slug: durulma
+lisan: Türkçe
+anlamlar:
+- Durulmak durumu
+ozellikler:
+- - isim
+ornekler:
+- - Güneşin açması, yağmurun dinmesi, fırtınanın durulması beklenebilir.
+orneklerkaynak:
+- - Nâzım Hikmet
+---

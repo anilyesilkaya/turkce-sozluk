@@ -1,0 +1,21 @@
+---
+layout: term
+title: zor alım
+slug: zor-alim
+lisan: Türkçe
+anlamlar:
+- İşlenen bir suç karşılığı olarak suçlunun malının bütünü veya bir bölümü üstündeki mülkiyetine son verilmesi ve bu mülkiyetin bir başka kuruluşa devredilmesi; müsadere
+- Tanzimattan önce herhangi bir kişiye ait mallara padişah adına el konulması; müsadere
+ozellikler:
+- - isim
+  - hukuk
+- - isim
+  - hukuk
+  - eskimiş
+ornekler:
+- - Vergiyi bir zor alım olarak değil, kamunun ürettiği mal ve hizmetlerin fiyatı olarak tanımladığımızda iş değişir.
+- - ''
+orneklerkaynak:
+- - Ahmet İnsel
+- - ''
+---

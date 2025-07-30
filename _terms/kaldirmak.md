@@ -1,0 +1,357 @@
+---
+layout: term
+title: kaldırmak
+slug: kaldirmak
+lisan: Türkçe
+anlamlar:
+- Bulunduğu yerden almak
+- Yukarı doğru hareket ettirmek
+- ► yükseltmek
+- Ürün toplamak, taşımak
+- Çekmek, taşımak
+- Bir kuruluşun çalışmasına son vermek
+- Hastayı hastaneye götürmek
+- Tören yaparak ölüyü gömmek
+- ► toplamak
+- Alıp başka yere götürmek
+- ► uyandırmak
+- Piyasadan çekmek
+- Elin ulaşamayacağı yere koymak; saklamak
+- ► kaçırmak
+- İyi etmek, birini iyileştirmek
+- Bir şeyden çokça satın almak
+- Bir yere tayin etmek
+- Yok etmek, ortadan silmek
+- Oturur veya yatar durumdan çıkararak ayakları üzerinde doğrultmak
+- Bulunduğu yerden almak, alıp başka yere götürmek
+- Bir işi yapması için harekete geçirmek
+- Uygun gelmek
+- Bir şeyi çalmak, aşırmak
+ozellikler:
+- - -i
+- - -i
+  - ''
+- - -i
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - mecaz
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - mecaz
+  - argo
+ornekler:
+- - Az sonra yatakları, yorganları kaldırıp duvar kenarına yığar.
+- - Gözlerini yüzüme kaldırdı. İkimiz de mavi mavi baktık.
+- - Duvarı bir metre daha kaldırmalı.
+- - ''
+- - Bu araba bu yükü kaldırmaz.
+- - ''
+- - Yarasının dikişleri koptu dün öğleden sonra, Fransız Hastanesine kaldırdılar.
+- - ''
+- - Anası, kardeşi ile hep beraber sofrayı kaldırdılar.
+- - Kitapları kaldırmış, bulamıyorum.
+- - Bir gece yanında mihman olduğum / Sabah oldu deyi kaldırdın beni
+- - İstifçilerin piyasadan kaldırdığı mallar.
+- - Vazoyu ortadan kaldıralım, çocuğun eline geçmesin.
+- - ''
+- - Bu ilaç onu yataktan kaldırdı.
+- - ''
+- - Günün birinde bu müdürü başka, daha önemli bir yere kaldırdılar, buraya da bir başka müdür getirdiler.
+- - Yeryüzünden hayali kaldırın, dünya bir taş ve toprak yığınından ibaret kalır.
+- - Kızı ayağa kaldırdı.
+- - Az sonra yatakları, yorganları kaldı-rıp duvar kenarına yığar.
+- - Beni de Yahudi kızını da zorla çekip oyuna kaldırdı.
+- - Bu kumaş fazla süs kaldırmaz.
+- - ''
+orneklerkaynak:
+- - Cengiz Dağcı
+- - Sait Faik Abasıyanık
+- - ''
+- - ''
+- - ''
+- - ''
+- - Aka Gündüz
+- - ''
+- - Necati Cumalı
+- - ''
+- - Halk türküsü
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Memduh Şevket Esendal
+- - Orhan Seyfi Orhon
+- - Yaşar Kemal
+- - Cengiz Dağcı
+- - Aziz Nesin
+- - ''
+- - ''
+---

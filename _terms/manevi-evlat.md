@@ -1,0 +1,21 @@
+---
+layout: term
+title: manevi evlat
+slug: manevi-evlat
+lisan: Türkçe
+anlamlar:
+- ► evlatlık
+- Evlat yerine konularak benimsenen kimse
+ozellikler:
+- - isim
+  - hukuk
+- - isim
+  - hukuk
+  - mecaz
+ornekler:
+- - ''
+- - ''
+orneklerkaynak:
+- - ''
+- - ''
+---

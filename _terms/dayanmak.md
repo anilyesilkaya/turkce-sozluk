@@ -1,0 +1,117 @@
+---
+layout: term
+title: dayanmak
+slug: dayanmak
+lisan: Türkçe
+anlamlar:
+- Bir yere yaslanmak, kendini dayamak
+- Temelde bir şeyle ilgili olmak
+- Zarar görmemek, varlığını korumak, hasar görmemek; gitmek
+- Varmak, ulaşmak
+- Bütün gücünü kullanarak bir işi yapmak
+- Bir iş sonunda birinin veya bir şeyin üzerinde kalmak
+- Birinden, bir şeyden güç almak, güvenmek; istinat etmek
+- Uzun süre kullanılmaya uygun olmak
+- Tutunmak, karşı durmak, karşı koymak; mukavemet etmek
+- Yetişmek, yeter olmak
+- Güç bir duruma katlanmak; sabretmek, tahammül etmek
+ozellikler:
+- - -e
+- - -e
+  - ''
+- - -e
+  - ''
+  - mecaz
+- - -e
+  - ''
+  - mecaz
+  - mecaz
+- - -e
+  - ''
+  - mecaz
+  - mecaz
+  - mecaz
+- - -e
+  - ''
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+- - -e
+  - ''
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+- - -e
+  - ''
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - nesnesiz
+  - mecaz
+- - -e
+  - ''
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - nesnesiz
+  - mecaz
+  - nesnesiz
+  - mecaz
+- - -e
+  - ''
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - nesnesiz
+  - mecaz
+  - nesnesiz
+  - mecaz
+  - nesnesiz
+- - -e
+  - ''
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - nesnesiz
+  - mecaz
+  - nesnesiz
+  - mecaz
+  - nesnesiz
+  - nesnesiz
+  - mecaz
+ornekler:
+- - Odalardan birinde köşeye dayanmış bir adam, sanki sızmış gibi görünüyor.
+- - Karşılıklı bilmece sormaya dayanan seyirlik oyunlar da vardır.
+- - Bu gemi fırtınaya iyi dayanır.
+- - Bu haber ortalığa yayılır yayılmaz banknotlarını kapan bankaya dayanıyor.
+- - İki genç, kırarcasına küreklere dayandılar.
+- - Bu proje sonunda bize dayanacak.
+- - Laikliği korumak için kanun kuvvetine mi, eğitim ve telkin kuvvetine mi dayanmalıyız?
+- - Bu kumaş çok dayandı.
+- - Merkezde Akhisar'ın, Bergama'nın da henüz dayandığını öğrendiler.
+- - ''
+- - Kazılmış mezarın önüne geldiklerinde daha fazla dayanamayıp oracığa çöktü.
+orneklerkaynak:
+- - Memduh Şevket Esendal
+- - Metin And
+- - ''
+- - Yusuf Ziya Ortaç
+- - Halikarnas Balıkçısı
+- - ''
+- - Falih Rıfkı Atay
+- - ''
+- - Necati Cumalı
+- - ''
+- - İhsan Oktay Anar
+---

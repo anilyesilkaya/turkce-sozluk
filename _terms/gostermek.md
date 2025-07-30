@@ -1,0 +1,142 @@
+---
+layout: term
+title: göstermek
+slug: gostermek
+lisan: Türkçe
+anlamlar:
+- Birini veya bir şeyi işaretle belirtmek
+- Görülmesini sağlamak, görmesine yol açmak; çıkarmak
+- Belirtmek, anlatmak
+- Bir şeyin etkisi altında tutulmak
+- Kanıtla inandırmak
+- Öğretmek, açıklamak
+- Yapmasını söylemek, görevlendirmek
+- Güzelliğini ortaya çıkarmak, temsil etmek
+- Herhangi bir biçimde değerlendirmeye yol açmak
+- Görünmek, benzemek
+- Etmek
+- Sert bir biçimde karşılık vermek
+ozellikler:
+- - -i
+- - -i
+  - -e
+  - -i
+- - -i
+  - -e
+  - -i
+  - ''
+- - -i
+  - -e
+  - -i
+  - ''
+  - -e
+- - -i
+  - -e
+  - -i
+  - ''
+  - -e
+  - -e
+- - -i
+  - -e
+  - -i
+  - ''
+  - -e
+  - -e
+  - nesnesiz
+- - -i
+  - -e
+  - -i
+  - ''
+  - -e
+  - -e
+  - nesnesiz
+  - -e
+  - nesnesiz
+- - -i
+  - -e
+  - -i
+  - ''
+  - -e
+  - -e
+  - nesnesiz
+  - -e
+  - nesnesiz
+  - ''
+- - -i
+  - -e
+  - -i
+  - ''
+  - -e
+  - -e
+  - nesnesiz
+  - -e
+  - nesnesiz
+  - ''
+  - ''
+- - -i
+  - -e
+  - -i
+  - ''
+  - -e
+  - -e
+  - nesnesiz
+  - -e
+  - nesnesiz
+  - ''
+  - ''
+  - nesnesiz
+- - -i
+  - -e
+  - -i
+  - ''
+  - -e
+  - -e
+  - nesnesiz
+  - -e
+  - nesnesiz
+  - ''
+  - ''
+  - nesnesiz
+  - yardımcı  fiil
+- - -i
+  - -e
+  - -i
+  - ''
+  - -e
+  - -e
+  - nesnesiz
+  - -e
+  - nesnesiz
+  - ''
+  - ''
+  - nesnesiz
+  - yardımcı  fiil
+  - -e
+  - mecaz
+ornekler:
+- - Vitrindeki oyuncağı parmağıyla gösterdi.
+- - Size kitaplarımı göstereyim.
+- - Bu söz onun iyi niyetini gösteriyor.
+- - Güneşe göstermek. Aleve göstermek.
+- - Bunun böyle olduğunu size göstereceğim.
+- - Yol göstermek.
+- - Size ne iş gösterdiler?
+- - Bu, seni ablandan daha şirin gösteriyor, emin ol!
+- - Gerçekleri çarpıtarak gösteriyor.
+- - ''
+- - İtaat göstermek. Dayanışma göstermek.
+- - Anası da babasının küfürlerini tekrarlıyor, evde ona göstereceğini söylüyor, gözlerini açıyor, başını sallıyordu.
+orneklerkaynak:
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Reşat Nuri Güntekin
+- - ''
+- - ''
+- - ''
+- - Ömer Seyfettin
+---

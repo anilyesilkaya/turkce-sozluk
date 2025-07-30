@@ -1,0 +1,14 @@
+---
+layout: term
+title: Eflâni
+slug: eflani
+lisan: Türkçe
+anlamlar:
+- Karabük iline bağlı ilçelerden biri
+ozellikler:
+- - isim
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

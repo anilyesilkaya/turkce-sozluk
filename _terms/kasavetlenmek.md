@@ -1,0 +1,14 @@
+---
+layout: term
+title: kasavetlenmek
+slug: kasavetlenmek
+lisan: Türkçe
+anlamlar:
+- Sıkıntı içine düşmek
+ozellikler:
+- - nesnesiz
+ornekler:
+- - Bugünlerde biraz üzüntü içindeysen de kasavetlenmeyesin öyle.
+orneklerkaynak:
+- - Osman Cemal Kaygılı
+---

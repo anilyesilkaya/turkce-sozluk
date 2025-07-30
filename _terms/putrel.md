@@ -1,0 +1,14 @@
+---
+layout: term
+title: putrel
+slug: putrel
+lisan: Fransızca poutrelle
+anlamlar:
+- ► bağlama
+ozellikler:
+- - isim
+ornekler:
+- - Demir putreli bir bal mumu gibi bir vuruşta eritiveriyordu.
+orneklerkaynak:
+- - Sait Faik Abasıyanık
+---

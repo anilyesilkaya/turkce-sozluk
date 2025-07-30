@@ -1,0 +1,157 @@
+---
+layout: term
+title: durmak
+slug: durmak
+lisan: Türkçe
+anlamlar:
+- Hareketsiz durumda olmak
+- İşlemez olmak, çalışmamak
+- Bir yerde bir süre oyalanmak, eğlenmek, eğleşmek; tevakkuf etmek
+- Sona ermek; kesilmek
+- Varlığını sürdürmek
+- Var olmak
+- Beklemek, dikilmek
+- Birisinin malı olarak bulunmak veya o malla ilişkisi olmak
+- Bir yerde kalmak
+- Bir yerde olmak veya bulunmak
+- Belli bir durumda, bir görevde bulunmak
+- Ara vermek
+- ► yaşamak
+- 'Kök veya gövdeleri sonuna -a (-e) zarf-fiil eki almış fiillere gelerek süreklilik bildiren birleşik fiiller oluşturur: Çalışadurmak, bakadurmak, getiredurmak, yiyedurmak gibi'
+ozellikler:
+- - nesnesiz
+- - nesnesiz
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - yardımcı  fiil
+ornekler:
+- - Motorlu su taşıtlarından biri de kanal rıhtımının tam bizim önümüze düşen bir noktasında demir atmış duruyordu.
+- - Bileğimdeki saat durmuş.
+- - Yolda nerede çeşme gördümse durdum, elimi yüzümü yıkadım, su içtim.
+- - Yağmur durdu.
+- - Türklerin yüzlerce yıl önceki kitabeleri hâlâ duruyor.
+- - Bu kadar dersim dururken sinemaya nasıl gideyim?
+- - Oturacak değil, ayakta duracak yer yok.
+- - Yazlık eviniz hâlâ duruyor mu?
+- - Artık çok durmamış, yanındaki hanımla birlikte balodan çıkmış.
+- - Aspirin getirmeyeceğini adı gibi biliyordu çünkü çekmecesinde dokunulmamış bir kutu duruyordu.
+- - Her gelişimde ben de maçları seyreder, kaleci dururdum.
+- - Sabahtan beri hiç durmadım.
+- - Anneannen duruyor mu?
+- - ''
+orneklerkaynak:
+- - 'Yakup Kadri Karaosmanoğlu '
+- - Aka Gündüz
+- - Necati Cumalı
+- - ''
+- - ''
+- - ''
+- - Reşat Nuri Güntekin
+- - ''
+- - Mahmut Yesari
+- - Tarık Buğra
+- - Haldun Taner
+- - ''
+- - ''
+- - ''
+---

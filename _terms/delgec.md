@@ -1,0 +1,14 @@
+---
+layout: term
+title: delgeç
+slug: delgec
+lisan: Türkçe
+anlamlar:
+- Mukavva, kâğıt, kayış, maden vb.nde delik açmaya yarayan araç; delecek, zımba
+ozellikler:
+- - isim
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

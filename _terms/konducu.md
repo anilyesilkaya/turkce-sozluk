@@ -1,0 +1,14 @@
+---
+layout: term
+title: konducu
+slug: konducu
+lisan: Türkçe
+anlamlar:
+- ► gecekonducu
+ozellikler:
+- - isim
+ornekler:
+- - Belediyede çöpçü kadrosunda yer etmiş konducuların araştırmacılığına başvuruldu.
+orneklerkaynak:
+- - Lâtife Tekin
+---

@@ -1,0 +1,109 @@
+---
+layout: term
+title: gibi
+slug: gibi
+lisan: Türkçe
+anlamlar:
+- -e benzer, -e benzeyen
+- O anda, tam o sırada, hemen arkasından
+- -e benzer biçimde; imişçesine, kadar
+- -e yakışır biçimde
+- Bir başkasının dediklerine değinirken kullanılan bir söz
+- Arka arkaya gelen aynı tür örneklerin sonunda “ve benzerleri” anlamında kullanılan bir söz
+- Cümlenin sonuna gelerek yükleme “denilebilir ki, öyle sanılır ki, sanki” anlamlı kuşku veya olabilirlik ayrıntısı katan bir söz
+- Bazı sıfat-fiil eki almış kelimelerden sonra geldiğinde karşılaştırmaya dayanan denklik ve eşitlik bağlantısı kuran bir söz
+- Sıfat-fiil eki almış kelimelerden sonra “-diği biçimde” anlamıyla denklik işlevi yüklenen bir söz; üzere
+- -dık sıfat fiil eki dışında diğer sıfat-fiil eki almış kelimelerden sonra “imişçesine” anlamında varsayıma dayalı benzetme işlevi gören bir söz
+- Aynı biçimde
+ozellikler:
+- - edat
+- - edat
+  - ''
+- - edat
+  - ''
+  - ''
+- - edat
+  - ''
+  - ''
+  - ''
+- - edat
+  - ''
+  - ''
+  - ''
+  - ''
+- - edat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - edat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - edat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - edat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - edat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - edat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+ornekler:
+- - Bu göz alabildiğine düzlük, sinsi bir bataklık gibidir.
+- - Haberi aldığı gibi yola çıktı.
+- - Bu sade dekor, ölümün manzarasını ulvi bir tablo gibi güzelleştirmiştir.
+- - İnsan gibi davrandı.
+- - Hayır, büyük annemin dediği gibi ben burada sizlerle çürüyüp kalmayacağım.
+- - Elma, ayva, armut, üzüm gibi yiyecekler kışa kalabilir.
+- - Sınıfı geçtim gibi.
+- - Sana değer verdiğim gibi ona değer vermek zorundayım.
+- - Daha önce belirtildiği gibi gramerlerimizin edatlar konusu oldukça karışıktır.
+- - Her istediğin yere gidiyoruz gibi geliyor bize.
+- - Filmi çekecek olan genç kameraman, açıkça güldü onların telaşlarına ve hepsini dizdi istediği gibi koltuğun arkasına.
+orneklerkaynak:
+- - Azra Erhat
+- - ''
+- - Orhan Seyfi Orhon
+- - ''
+- - Peride Celal
+- - ''
+- - ''
+- - Zeynep Korkmaz
+- - ''
+- - Ahmet Hamdi Tanpınar
+- - Selim İleri
+---

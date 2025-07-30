@@ -1,0 +1,14 @@
+---
+layout: term
+title: kurca çıbanı
+slug: kurca-cibani
+lisan: Türkçe
+anlamlar:
+- Kaşıyıp kurcalamaktan azan çıban
+ozellikler:
+- - isim
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

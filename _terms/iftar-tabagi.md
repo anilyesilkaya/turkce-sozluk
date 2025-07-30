@@ -1,0 +1,14 @@
+---
+layout: term
+title: iftar tabağı
+slug: iftar-tabagi
+lisan: Türkçe
+anlamlar:
+- Ramazanda genellikle lokantalarda iftar açmak için bir tabağa dizilen ve yemek öncesi yenilen soğuk yiyecekler
+ozellikler:
+- - isim
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

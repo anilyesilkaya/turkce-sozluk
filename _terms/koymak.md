@@ -1,0 +1,91 @@
+---
+layout: term
+title: koymak
+slug: koymak
+lisan: Türkçe
+anlamlar:
+- Bir şeyi bir yere bırakmak, belli bir yere yerleştirmek
+- Bir kimseyi işe yerleştirmek, birine iş sağlamak
+- Gitmesine engel olmamak, gitmesine izin vermek; bırakmak
+- ► eklemek
+- İmza, tarih, adres yazmak
+- Uyulması gereken kuralları belirlemek, ortaya çıkarmak; vazetmek
+- Etkilemek, dokunmak
+- Bir şey veya kimse için kullanmayı belirlemek, ayırmak
+- Bırakmak, terk etmek
+ozellikler:
+- - -e
+  - -i
+- - -e
+  - -i
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+ornekler:
+- - Öteki elini doktorun omzuna koydu.
+- - O kadar etkilenmiş ki beni de işe koymak için onlarla tanıştırmaya götürüyordu.
+- - İçeri kimseyi koymuyorlar.
+- - Mal üstüne mal koymak için içi giden bir kişidir.
+- - ''
+- - Orduda yaşayan manevi kuvveti de meydana koyuyor.
+- - Kendisinden yakışıklı ve ünlü olan bir adam için terk edilmiş olmak koyuyor olmalı ona.
+- - Giderlerini iki ay içinde yerine koydu.
+- - ''
+orneklerkaynak:
+- - Sait Faik Abasıyanık
+- - Mehmet Emin Yeşil
+- - ''
+- - Salâh Birsel
+- - ''
+- - Ruşen Eşref Ünaydın
+- - İnci Aral
+- - Necati Cumalı
+- - ''
+---

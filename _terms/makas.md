@@ -1,0 +1,109 @@
+---
+layout: term
+title: makas
+slug: makas
+lisan: Arapça miḳaṣṣ
+anlamlar:
+- Bir eksen çevresinde dönebilecek biçimde çapraz eklemlenmiş, birbirine bakan yüzleri keskin iki çelik lamadan oluşmuş, arasına yerleştirilen herhangi bir şeyi kesmeye yarayan araç; sındı
+- Birbirine komşu iki demir yolu hattını hemen bunların uzantısındaki üçüncü hatta bağlamaya yarayan alet
+- Birbirini kesen demir yolu kavşağı
+- Bazı araçlarda üst üste konulmuş birkaç yassı çelikten yay
+- Çatı ve köprülerde genellikle ağaç veya çelikten yapılan, ağırlığı karşılıklı iki ayağa veya duvara aktaran çatılmış kiriş sistemi
+- Mobilyalarda yukarıdan aşağıya doğru açılan kapakları yatay konumda tutmak amacıyla yapılmış mafsallı, kollu kapak aracı
+- Çalma, kırpma
+- ► dirsek
+- Üst uçları birbirine bağlı, alt uçları açık olan iki direkten kurulmuş, ağırlık kaldırma düzeni
+- Bazı eklem bacaklı hayvanların ön ayaklarında bulunan, savunma ve saldırmada kullanılan kıskaç
+- Su topunda iki ayağın teker teker yarım daire biçiminde çevrilmesiyle yapılan bir hareket
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mimarlık
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mimarlık
+  - denizcilik
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mimarlık
+  - denizcilik
+  - hayvan bilimi
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mimarlık
+  - denizcilik
+  - hayvan bilimi
+  - spor
+ornekler:
+- - Her iki eliyle kullanırdı makasıyla tarağını.
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+orneklerkaynak:
+- - Necati Cumalı
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+---

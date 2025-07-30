@@ -1,0 +1,15 @@
+---
+layout: term
+title: uşak yatağı
+slug: usak-yatagi
+lisan: Türkçe
+anlamlar:
+- ► döl yatağı
+ozellikler:
+- - isim
+  - ağızlardan
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

@@ -1,0 +1,14 @@
+---
+layout: term
+title: Zambiyalı
+slug: zambiyali
+lisan: Türkçe
+anlamlar:
+- Zambiya’da yaşayan halk veya halkın soyundan olan kimse
+ozellikler:
+- - isim
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

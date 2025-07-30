@@ -1,0 +1,140 @@
+---
+layout: term
+title: askı
+slug: aski
+lisan: Türkçe
+anlamlar:
+- Üzerine herhangi bir şey asmaya yarar nesne; asacak
+- Elbise, gömlek, tişört, ceket gibi elbiselerin kırışmadan düzgün bir biçimde elbise dolabına asılması için insan omzu biçiminde tasarlanmış, bazılarının altında pantolon asmak için düz bir çıta, bazılarının her iki kenarında etek asmak için çengel bulunan alet; elbise askısı
+- Pantolon veya giysilerin düşmesini önlemek için omuzdan aşırılan bağ
+- Artırma, eksiltme vb. resmî iş ilanlarının ilgili daire duvarında belli bir zaman süresince asılı durması
+- Hastanelerde kırık kol veya bacakların asılarak tutturulduğu araç
+- Çay, kahve taşımaya yarar kahveci tepsisi; fener
+- Saklanmak için tavana asılmış dizi veya hevenk
+- Yeni yapılan yapıların çatısına, ev sahibi tarafından usta için veya düğün arabalarına düğün sahibi tarafından arabacı için armağan olarak asılan kumaş
+- Gelinin odasına asılan süs
+- Kadınların kullandığı altın dizisi veya zincirli mücevherat
+- Düğünlerde geline yakınları tarafından takılan hediye
+- İpek böceğinin kozasını sarması için yanına konulan çalı çırpı
+- Saz şairleri arasında yapılan deyiş yarışında üstün gelene verilmek için duvara asılan kumaş, tabanca vb. ödül
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+ornekler:
+- - Gülten yeniden koştu, paçasından yakaladı babasının pantolonunu ama askıdaydı indiremiyordu.
+- - Durumu hiç değilse bir süre kurtarmak için giysiyi bir askıya takıp duvardaki çiviye astım.
+- - ''
+- - ''
+- - ''
+- - ''
+- - Üzüm askısı. Ayva askısı.
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+orneklerkaynak:
+- - Fakir Baykurt
+- - Ayla Kutlu
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+---

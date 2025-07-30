@@ -1,0 +1,82 @@
+---
+layout: term
+title: üst
+slug: ust
+lisan: Türkçe
+anlamlar:
+- Bir şeyin yukarı, göğe doğru olan yanı; üzeri, fevk, alt karşıtı
+- Bir şeyin görülen yanı, yüzü
+- Bir şeyin dış yüzü; üzeri
+- ► giysi
+- Birine göre yüksek aşamada olan kimse; mafevk
+- Vücudun beden bölümü
+- Artan, geriye kalan bölüm
+- Birkaç şeyden birbirine göre yukarıda olan
+- Sınıflamalarda temel olarak alınan bir tipe göre ileri derecede olan
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - sıfat
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - sıfat
+  - sıfat
+ornekler:
+- - Köyün üst tarafında, saman, taş ve yangın arasında, üstü sazlarla örtülmüş bir kulübenin önünde ateş yanıyor.
+- - Bu sefer taşın üstünden inip yere oturdu.
+- - ''
+- - O günden sonra kapıya diktiği bir bekçiye iş çıkışları işçilerin üstlerini arattı.
+- - Sonunda, üstlerinin de onayıyla bir sınav yapmaya karar verdi.
+- - Üstüne şal al, öyle git.
+- - Bir liranın üstü olarak uşağın getirdiği yetmiş beş kuruşu masanın üstünden kaldırmaz.
+- - Kadınların beni böyle göz hapsine almaları yüzünden üst düğmelerimi gevşetemiyordum.
+- - Üst makam. Üst rütbedekiler.
+orneklerkaynak:
+- - Halide Edip Adıvar
+- - Memduh Şevket Esendal
+- - ''
+- - Lâtife Tekin
+- - İhsan Oktay Anar
+- - ''
+- - Abdülhak Şinasi Hisar
+- - Reşat Nuri Güntekin
+- - ''
+---

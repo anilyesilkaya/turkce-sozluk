@@ -1,0 +1,98 @@
+---
+layout: term
+title: kuşak
+slug: kusak
+lisan: Türkçe
+anlamlar:
+- Bele sarılan uzun ve enli kumaş
+- Sağlamlığını artırmak için bir şeyin çevresine geçirilen ağaçtan veya metalden bağ
+- Bir ürünün, bir aygıtın teknolojideki ve bilimdeki gelişmeye göre üretilen yeni biçimleri
+- Yeryüzünde veya herhangi bir gök cisminde belli şartları sağlayan bölge
+- 'Yeryüzünde benzer özellikler gösteren coğrafi sahaların oluşturduğu bölgeleri ifade etmek için kullanılan genel ad: sıcak kuşak, deprem kuşağı, orman kuşağı vb'
+- Yaklaşık olarak aynı yıllarda doğmuş, aynı çağın şartlarını, dolayısıyla birbirine benzer sıkıntıları, kaderleri paylaşmış, benzer ödevlerle yükümlü olmuş kişilerin topluluğu; batın
+- Bir küre yüzeyi, paralel iki düzlemle kesildiğinde iki kesitin arasında kalan bölüm; küre kuşağı
+- Henüz birleştirilmemiş ses ve görüntü taşıyan filmler
+- Televizyonda programlar için ayrılmış özel zaman dilimi
+- Yaklaşık yirmi beş otuz yıllık yaş kümelerini oluşturan bireyler öbeği; göbek, nesil, batın, jenerasyon
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - teknoloji
+- - isim
+  - ''
+  - teknoloji
+  - gök bilimi
+- - isim
+  - ''
+  - teknoloji
+  - gök bilimi
+  - coğrafya
+- - isim
+  - ''
+  - teknoloji
+  - gök bilimi
+  - coğrafya
+  - felsefe
+- - isim
+  - ''
+  - teknoloji
+  - gök bilimi
+  - coğrafya
+  - felsefe
+  - matematik
+- - isim
+  - ''
+  - teknoloji
+  - gök bilimi
+  - coğrafya
+  - felsefe
+  - matematik
+  - sinema
+  - televizyon
+- - isim
+  - ''
+  - teknoloji
+  - gök bilimi
+  - coğrafya
+  - felsefe
+  - matematik
+  - sinema
+  - televizyon
+  - televizyon
+- - isim
+  - ''
+  - teknoloji
+  - gök bilimi
+  - coğrafya
+  - felsefe
+  - matematik
+  - sinema
+  - televizyon
+  - televizyon
+  - toplum bilimi
+ornekler:
+- - Emin olmak için kuşağından bir ayna çıkarıp camı bile çizdi.
+- - ''
+- - ''
+- - İklim kuşakları. Zaman kuşakları.
+- - ''
+- - Sanat kuşağı.
+- - ''
+- - ''
+- - Çizgi film kuşağı.
+- - Bugünkü kuşak benim kuşağımın bir hikâyesini dinlemelidir.
+orneklerkaynak:
+- - İhsan Oktay Anar
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Falih Rıfkı Atay
+---

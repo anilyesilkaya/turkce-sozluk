@@ -1,0 +1,157 @@
+---
+layout: term
+title: işlemek
+slug: islemek
+lisan: Türkçe
+anlamlar:
+- Bir şeye emek vererek onu daha elverişli bir duruma getirmek
+- İnce ve süslü şeyler yapmak; nakışlamak
+- İçine girmek, etkilemek; nüfuz etmek
+- ► nakşetmek
+- İyi çalışmak, müşterisi bol olmak
+- Durağan durumdan hareketli duruma geçmek; çalışmak
+- Herhangi bir konuyu ele alarak incelemek, öğretmek
+- Düşüncelerini herhangi birine etki yaparak benimsetmek
+- Bir yerden girip çıkmak
+- Çıban, olgunlaşma yolunda olmak
+- Yara, kapanmamak
+- Gidip gelmek
+- Hesapları, kayıtları düzenli olarak tutmak veya gereken yere aktarmak
+- Herhangi bir ürünü satışa sunulmadan önce birtakım işlemlerden geçirmek
+ozellikler:
+- - -i
+- - -i
+  - nesnesiz
+- - -i
+  - nesnesiz
+  - -e
+- - -i
+  - nesnesiz
+  - -e
+  - -e
+- - -i
+  - nesnesiz
+  - -e
+  - -e
+  - nesnesiz
+- - -i
+  - nesnesiz
+  - -e
+  - -e
+  - nesnesiz
+  - ''
+- - -i
+  - nesnesiz
+  - -e
+  - -e
+  - nesnesiz
+  - ''
+  - ''
+- - -i
+  - nesnesiz
+  - -e
+  - -e
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+- - -i
+  - nesnesiz
+  - -e
+  - -e
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - -den
+- - -i
+  - nesnesiz
+  - -e
+  - -e
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - -den
+  - nesnesiz
+- - -i
+  - nesnesiz
+  - -e
+  - -e
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - -den
+  - nesnesiz
+  - nesnesiz
+- - -i
+  - nesnesiz
+  - -e
+  - -e
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - -den
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+- - -i
+  - nesnesiz
+  - -e
+  - -e
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - -den
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+- - -i
+  - nesnesiz
+  - -e
+  - -e
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - -den
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+ornekler:
+- - ''
+- - Para için işlemediğini iddia eden bu fakir ihtiyar şüphesiz sanatının âşığıydı.
+- - O uzun ve derin bakış genç adamın ta yüreğine kadar işlemişti.
+- - Al bayrağa narin eller işliyor zafer / Uzaklarda yaralanır kahraman nefer
+- - Rabia Hanım para sıkıntısı çekecek mi? -Dükkân işliyor. Belki çekmez.
+- - ''
+- - ''
+- - Ali Rıza Bey bu ilk çocuğu ile, bir çiçek meraklısı, bahçesiyle oynar gibi oynamış, onu ancak kendi hayalinde yaşayan mükemmel insan maddelerine göre işlemişti.
+- - Lütfügiller büyücek bahçelerinin ana yola açılan kapısından işlerlerdi.
+- - ''
+- - ''
+- - Şimdi otomobillerin, otobüslerin işledikleri asfalt caddeden bir zamanlar ne kervan ne insan geçerdi.
+- - Tayın çizelgelerini düzenliyorum, ambar defterini işliyorum.
+- - ''
+orneklerkaynak:
+- - ''
+- - Memduh Şevket Esendal
+- - 'Yakup Kadri Karaosmanoğlu '
+- - Enis Behiç Koryürek
+- - Halide Edip Adıvar
+- - ''
+- - ''
+- - Reşat Nuri Güntekin
+- - Sait Faik Abasıyanık
+- - ''
+- - ''
+- - Sermet Muhtar Alus
+- - Erhan Bener
+- - ''
+---

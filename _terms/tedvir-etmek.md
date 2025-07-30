@@ -1,0 +1,19 @@
+---
+layout: term
+title: tedvir etmek
+slug: tedvir-etmek
+lisan: Türkçe
+anlamlar:
+- çevirmek, döndürmek
+- yönetmek, çekip çevirmek
+ozellikler:
+- - ''
+- - ''
+  - mecaz
+ornekler:
+- - ''
+- - ''
+orneklerkaynak:
+- - ''
+- - ''
+---

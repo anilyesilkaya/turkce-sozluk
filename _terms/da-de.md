@@ -1,0 +1,175 @@
+---
+layout: term
+title: da / de
+slug: da-de
+lisan: Türkçe
+anlamlar:
+- Daha önce geçmiş bir cümle veya eş görevli öge ile sonraki arasında `-den başka` anlamıyla ilişki kuran bir söz
+- Azarlama, yalvarma, küçümseme, yakınma, övme anlamlarında iki cümleyi bağlayan bir söz
+- '`Dahi` anlamında kullanılan bir söz'
+- '`Üstelik` anlamında kullanılan bir söz'
+- Karşıt anlamlı cümleleri pekiştirerek bağlayan bir söz
+- Şart bildiren fiillerden sonra `bile` anlamına gelerek şartın geçerli olmadığını anlatan bir söz
+- Bazı birleşik cümleleri `ama, fakat` anlamıyla birbirine bağlayan bir söz
+- Bazı edat, bağlaç ve zarflardan sonra gelerek anlamı güçlendiren bir söz
+- Kendisinden önceki fiili zarf-fiil durumuna sokan bir söz
+- -erek, -ip ekli zarf-fiillerden sonra kullanılırsa temel fiilin oluş biçimini, önermenin nasıl oluştuğunu anlatan bir söz
+- Tekrarlanan iki ad, iki sıfat arasında kullanıldığında anlamı güçlendiren bir söz
+- Bir isteğe karşı olan fiili bağlamaya yarayan bir söz
+- Tekrarlanan fiiller arasında süreklilik bildiren bir söz
+- Bir şeyin yerine geçebilen iki cümlenin fiillerini birbirine bağlayan bir söz
+- Tekrarlanan kelimelerin arasına girerek kuvvetli istek, direnme bildiren bir söz
+ozellikler:
+- - bağlaç
+- - bağlaç
+  - ''
+- - bağlaç
+  - ''
+  - ''
+- - bağlaç
+  - ''
+  - ''
+  - ''
+- - bağlaç
+  - ''
+  - ''
+  - ''
+  - ''
+- - bağlaç
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - bağlaç
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - bağlaç
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - bağlaç
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - bağlaç
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - bağlaç
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - bağlaç
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - bağlaç
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - bağlaç
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - bağlaç
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+ornekler:
+- - ''
+- - İş bulamayanlar kahveden de dürülüp çıkarılırlarsa bilmem artık nereye giderler?
+- - İşlerim var. Sen de peşime takıl benimle in, sonra ne halt edersen et.
+- - Gazetelerde bir haber okudum. Bu haber bugüne kadar yalanlanmadı da.
+- - Bütün yıl gezmiş de şimdi iş bulmaya kalkışmış.
+- - Yatakları, yorganları bile kıt ise de hasta çocuğa yerimiz yok diyecek değiller ya.
+- - Allah'ımı sever gibi seviyorum da ... da'sı önemli çünkü daha askerlik yapacağım.
+- - Şimdi, yalnız yorgun değil, biraz da dalgın görünüyordu.
+- - Çalıştı da başardı. Evine uğramış da kendisini görmüş.
+- - Burası süpürülerek de temizlenir. Gidip de gelmemek, gelip de görmemek var.
+- - Kadın da kadınmış ha!
+- - Sınıfını geçsin de istediğini yapmaya hazırım.
+- - Bir kere ağzını açtı mı söyler de söyler. Gitmiş de gitmiş, gitmiş de gitmiş, sonunda yorulmuş.
+- - Onu almadım da bunu aldım. Sen otur da ben gideyim. Kâğıt kalacakmış da bana zarf verecekmişsiniz.
+- - Çocuk, satıcıyı görünce şeker de şeker diye tutturdu.
+orneklerkaynak:
+- - ''
+- - Reşat Nuri Güntekin
+- - Ayşe Kulin
+- - Nazım Hikmet
+- - ''
+- - Memduh Şevket Esendal
+- - Muzaffer Uyguner
+- - 'Yakup Kadri Karaosmanoğlu '
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+---

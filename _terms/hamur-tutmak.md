@@ -1,0 +1,14 @@
+---
+layout: term
+title: hamur tutmak
+slug: hamur-tutmak
+lisan: Türkçe
+anlamlar:
+- hamur hazırlamak
+ozellikler:
+- - ''
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

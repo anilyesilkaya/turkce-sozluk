@@ -1,0 +1,15 @@
+---
+layout: term
+title: babaevi
+slug: babaevi
+lisan: Türkçe
+anlamlar:
+- ► baba ocağı
+ozellikler:
+- - isim
+  - mecaz
+ornekler:
+- - Kızlar uzun süre babaevinde kalamazlardı.
+orneklerkaynak:
+- - Ayla Kutlu
+---

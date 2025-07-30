@@ -1,0 +1,124 @@
+---
+layout: term
+title: dalga
+slug: dalga
+lisan: Türkçe
+anlamlar:
+- Deniz veya göl gibi geniş su yüzeylerinde genellikle rüzgâr, deprem vb.nin etkisiyle oluşan kıvrımlı hareket
+- Hava, moda, sağlık vb. alanlarda belirli bir süre gelip etkisini gösteren geçici durum
+- ► hareketlilik
+- Bir yüzeydeki kıvrım
+- Saçların kıvrım genişliği
+- Gizli iş, dalavere
+- Esrar, eroin vb. uyuşturucu maddelerin verdiği keyif durumu
+- Dalgın olma
+- Geçici sevgili
+- Geçici aşk ilişkisi
+- Arka arkaya gelen kriz vb. olayların her biri
+- Titreşimin bir ortam içinde yayılma hareketi
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - argo
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - argo
+  - argo
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - argo
+  - argo
+  - argo
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - argo
+  - argo
+  - argo
+  - argo
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - argo
+  - argo
+  - argo
+  - argo
+  - argo
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - argo
+  - argo
+  - argo
+  - argo
+  - argo
+  - mecaz
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - argo
+  - argo
+  - argo
+  - argo
+  - argo
+  - mecaz
+  - fizik
+ornekler:
+- - Dışarıda nemli bir rüzgâr esiyordu, dalgalar durulmamış, yalnız biraz ağırlaşmıştı.
+- - Sıcak dalgası. Aerobik dalgası.
+- - ''
+- - Geniş dalgalarla uzanıp giden ovaların yüzünde ne bir köy görünüyor ne de ufacık olsun bir ağaç.
+- - ''
+- - Film çevirme dalgasıyla para kazanıyorlardı.
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Kısık sesinin her dalgası içimi korkunç bir acıyla tırmalıyor.
+orneklerkaynak:
+- - Azra Erhat
+- - ''
+- - ''
+- - Memduh Şevket Esendal
+- - ''
+- - Sait Faik Abasıyanık
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Halide Edip Adıvar
+---

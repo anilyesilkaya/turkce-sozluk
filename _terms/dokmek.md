@@ -1,0 +1,237 @@
+---
+layout: term
+title: dökmek
+slug: dokmek
+lisan: Türkçe
+anlamlar:
+- Sıvı veya tane durumunda olan şeyleri bulundukları kaptan başka bir yere boşaltmak
+- Belli bir yere boşaltmak
+- ► akıtmak
+- ► saçmak
+- Bir şeyi salmak, bırakmak
+- Üstünde bulunan bir şeyi düşürmek
+- Teninde kızamık, kızıl, suçiçeği hastalıklarında olduğu gibi kırmızı lekeler çıkmak
+- Maden, mum eriyiği veya çimento, alçı vb.ni kalıba akıtarak biçim vermek, döküm yapmak
+- Sulu hamuru kızgın yağ veya tepsinin içine akıtarak pişirmek
+- Bir yere çokça bir şey yığmak, taşımak
+- Çok söylemek
+- Bir şeyi yok etmek için atmak
+- Bir işte veya bir konuyu ele alış biçiminde değişiklik yapmak
+- Yakmak, tutuşturmak
+- Kullanmak, harcamak, sarf etmek
+- Çok sayıda öğrenciyi sınavda veya bir üst sınıfa geçirmede başarısız saymak
+- Bol bol vermek, ödemek, sarf etmek
+- Açığa vurmak, söylemek, ortaya koymak
+ozellikler:
+- - -i
+- - -i
+  - ''
+- - -i
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - -e
+- - -i
+  - ''
+  - ''
+  - -e
+  - ''
+- - -i
+  - ''
+  - ''
+  - -e
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - -e
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - -e
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+- - -i
+  - ''
+  - ''
+  - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+- - -i
+  - ''
+  - ''
+  - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - -e
+- - -i
+  - ''
+  - ''
+  - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - -e
+  - ''
+- - -i
+  - ''
+  - ''
+  - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - -e
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - -e
+  - ''
+  - ''
+  - mecaz
+- - -i
+  - ''
+  - ''
+  - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - -e
+  - ''
+  - ''
+  - mecaz
+  - nesnesiz
+  - mecaz
+- - -i
+  - ''
+  - ''
+  - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - -e
+  - ''
+  - ''
+  - mecaz
+  - nesnesiz
+  - mecaz
+  - mecaz
+ornekler:
+- - İhtiyar karısı pırıl pırıl kalaylı maşrapa ile ona su dökecek.
+- - Mebrure’nin yardımını reddederek yarım bardak suya bu kâğıdın içindeki tozu döktü, küçük bir kaşıkla karıştırarak ilacı bir hamlede içti.
+- - Annem bunu sezdiği gün, babamın arkasından döktüğü yaşları unutacak kadar bedbaht olur.
+- - Tavuklara yem döktü.
+- - ''
+- - Yapraklarını dökmüş iki söğüt ağacı...
+- - ''
+- - Heykel ilkin çamurdan yapılıyor, sonra kalıbını çıkarıp tunçtan dökecekler.
+- - Lokma dökmek. Kadayıf dökmek.
+- - Sınıra asker dökmek.
+- - Dil dökmek.
+- - Satılmayan hamsileri denize döktüler.
+- - Şimdi maşallah açılmaya başladım diye söylenirsin, işi ahbaplığa dökersin, olur gider.
+- - Sabah ve akşam kahvaltıları için mangal döktürürdü. Mangal yakmak denmezdi. Mangalı dök, tutuştur denirdi.
+- - Dimağ ve beden cevherlerini döken çocukları hesaplı bir kalori ile beslemek lazımdı.
+- - Sınıfın yarısını döktüler.
+- - Para dökmek.
+- - Acaba biraz anlatsan, derdini döksen olmaz mı?
+orneklerkaynak:
+- - Sait Faik Abasıyanık
+- - Peyami Safa
+- - Yusuf Ziya Ortaç
+- - ''
+- - ''
+- - Sait Faik Abasıyanık
+- - ''
+- - Haldun Taner
+- - ''
+- - ''
+- - ''
+- - ''
+- - Reşat Nuri Güntekin
+- - Nezih Neyzi
+- - Cahit Uçuk
+- - ''
+- - ''
+- - ''
+---

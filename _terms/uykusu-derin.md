@@ -1,0 +1,14 @@
+---
+layout: term
+title: uykusu derin
+slug: uykusu-derin
+lisan: Türkçe
+anlamlar:
+- ► uykusu ağır
+ozellikler:
+- - sıfat
+ornekler:
+- - Bu Seyit’in uykusu derin miydi acaba?
+orneklerkaynak:
+- - Talip Apaydın
+---

@@ -1,0 +1,15 @@
+---
+layout: term
+title: pazarlamacı
+slug: pazarlamaci
+lisan: Türkçe
+anlamlar:
+- Pazarlama işi ile uğraşan görevli, pazarlama uzmanı
+ozellikler:
+- - isim
+  - ticaret
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

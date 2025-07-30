@@ -1,0 +1,95 @@
+---
+layout: term
+title: kılavuz
+slug: kilavuz
+lisan: Türkçe
+anlamlar:
+- Yol gösteren kimse; rehber, delil
+- Doğru yolu gösteren kimse; mürşit
+- Herhangi bir alanda ve konuda bilgi veren, yol yöntem gösteren kitap vb
+- Evlenecek olanlara eş bulan veya onlara evlilik sürecinde yol gösteren kimse
+- Ruhsal ve zihinsel bakımdan yol gösteren, ışık tutan kimse
+- ► kılavuz gemisi
+- ► kılavuz kaptan
+- Makaradaki filmlerin başında ve sonunda yer alan, filmin alıcı, yıkama aracı, basım aracı, gösterici vb. araçlara takılıp çıkarılmasında kolaylık sağlayan, asıl film için pay bırakan çeşitli renklerde film parçası
+- Somun veya boru içine yiv açmakta kullanılan araç
+- Dar ve uzun bir yerden tel, kablo gibi bükülebilen bir şey geçirilirken bunların ucuna bağlandığı sert nesne
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - mecaz
+- - isim
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - denizcilik
+- - isim
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - denizcilik
+  - denizcilik
+- - isim
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - denizcilik
+  - denizcilik
+  - sinema
+- - isim
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - denizcilik
+  - denizcilik
+  - sinema
+  - teknik
+- - isim
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - denizcilik
+  - denizcilik
+  - sinema
+  - teknik
+  - teknik
+ornekler:
+- - Ilıca hamamından ercecik kalkın / Kılavuz seçin de Şahren'i geçin
+- - ''
+- - Öğrenci kılavuzu.
+- - ''
+- - Kılavuzumuz Atatürk'tür.
+- - ''
+- - İstanbul Boğazı'ndan kılavuz almadan geçmek yasaktır.
+- - ''
+- - ''
+- - ''
+orneklerkaynak:
+- - Halk türküsü
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+---

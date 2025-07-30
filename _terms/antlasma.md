@@ -1,0 +1,19 @@
+---
+layout: term
+title: antlaşma
+slug: antlasma
+lisan: Türkçe
+anlamlar:
+- İki veya daha çok devletin saldırmazlık, savaşta iş birliği vb. konularda kararlaştırdıkları ilkelere uygun davranmayı kabul etmeleri durumu; ahit, muahede, ahitleşme, pakt
+- Bu durumu belirten belge
+ozellikler:
+- - isim
+- - isim
+  - ''
+ornekler:
+- - '... 1928 Haziran’ında imzalanan bir protokolle 1926 antlaşması daha etkili bir hâle getirildiği gibi 23 Ocak 1932''de de bir uzlaşma, Adli Tesviye ve Hakem Antlaşması imzalandı ve sınır da kesin olarak tespit edildi.'
+- - ''
+orneklerkaynak:
+- - Fahir Armaoğlu
+- - ''
+---

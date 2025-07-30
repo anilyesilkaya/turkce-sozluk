@@ -1,0 +1,15 @@
+---
+layout: term
+title: semen
+slug: semen
+lisan: Arapça s̱emen
+anlamlar:
+- Satım sözleşmesinde alıcının borcu
+ozellikler:
+- - isim
+  - hukuk
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

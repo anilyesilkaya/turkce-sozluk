@@ -1,0 +1,155 @@
+---
+layout: term
+title: göz
+slug: goz
+lisan: Türkçe
+anlamlar:
+- Görme organı; basar, ayn, çeşm, dide
+- Bazı deyimlerde, görme ve bakma
+- ► oda
+- Bakış, görüş
+- ► kaynak (I)
+- Delik, boşluk
+- ► çekmece
+- Terazi kefesi
+- ► nazar
+- Sevgi, ilgi, gönül bağlantısı
+- Ağacın tomurcuk veren yerlerinden her biri
+- ► hane
+- Bazı yaraların uç bölümü
+ozellikler:
+- - isim
+  - anatomi
+- - isim
+  - anatomi
+  - ''
+- - isim
+  - anatomi
+  - ''
+  - ''
+- - isim
+  - anatomi
+  - ''
+  - ''
+  - ''
+- - isim
+  - anatomi
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - anatomi
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - anatomi
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - anatomi
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - anatomi
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - anatomi
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - anatomi
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - anatomi
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - anatomi
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+ornekler:
+- - ''
+- - Gözden geçirmek. Gözden kaybolmak. Göz önünde. Gözü keskin.
+- - Şu fakir mahallede bir göz evim olsaydı / Nasıl sevinç içinde çıkardım şu yokuşu
+- - Bu sefer alacaklı gözüyle baktım.
+- - Asıl felaket bu pınara sırt çevirmek, bu pınarın gözlerine taş tıkamak değil de ne olurdu?
+- - İğnenin gözü.
+  - Köprünün gözleri karış karış kazılmıştır.
+- - Masanın gözleri.
+- - ''
+- - İnsanı gözle yiyip bitirirler.
+- - Gözüm canım efendim.
+- - Göz aşısı.
+- - Dama tahtasında altmış dört göz vardır.
+- - Çıbanın gözü.
+orneklerkaynak:
+- - ''
+- - ''
+- - Ziya Osman Saba
+- - ''
+- - Tarık Buğra
+- - ''
+  - Sait Faik Abasıyanık
+- - ''
+- - ''
+- - Ömer Seyfettin
+- - ''
+- - ''
+- - ''
+- - ''
+---

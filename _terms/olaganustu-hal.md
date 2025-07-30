@@ -1,0 +1,14 @@
+---
+layout: term
+title: olağanüstü hâl
+slug: olaganustu-hal
+lisan: Türkçe
+anlamlar:
+- Doğal afet veya salgın hastalıklar karşısında felakete uğrayanların kurtarılması, meydana gelen hasar ve zararın karşılanması; ağır ekonomik bunalım karşısında ekonominin iyileştirilmesi; kamu düzenini bozan şiddet hareketlerinin karşısında güvenliğin ve asayişin sağlanması amacıyla kanunla belirlenmiş belli bir süre için devlet tarafından özel tedbirlerin alınması durumu; fevkalade hâl
+ozellikler:
+- - isim
+ornekler:
+- - Cumhurbaşkanı … yurdun tamamında veya bir bölgesinde, süresi altı ayı geçmemek üzere olağanüstü hâl ilan edebilir.
+orneklerkaynak:
+- - Anayasa
+---

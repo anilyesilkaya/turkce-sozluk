@@ -1,0 +1,15 @@
+---
+layout: term
+title: elden ele
+slug: elden-ele
+lisan: Türkçe
+anlamlar:
+- Bir kişiden ötekine
+ozellikler:
+- - zarf
+  - mecaz
+ornekler:
+- - Bebek, yaşlı ve büyüklerin odalarında gönül şenliği olarak elden ele taşınmaya başlandı.
+orneklerkaynak:
+- - Ayla Kutlu
+---

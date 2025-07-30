@@ -1,0 +1,157 @@
+---
+layout: term
+title: yer
+slug: yer
+lisan: Türkçe
+anlamlar:
+- Bir şeyin, bir kimsenin kapladığı veya kaplayabileceği boşluk; mahal, mevzi
+- Gezinilen, ayakla basılan taban
+- Bulunulan, yaşanılan, oturulan bölge; mevki
+- ► konum
+- ► ülke
+- Geçim sağlamak için çalışılan iş yeri
+- ► önem
+- ► iz
+- Üzerine yapı kurulmaya elverişli arsa
+- Ekime elverişli toprak parçası; arazi
+- Bir olayın geçtiği veya geçeceği bölüm, alan; mahal, nokta
+- Otel, motel vb.nde kalınacak oda
+- ► yerküre
+- ► durum
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - coğrafya
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - coğrafya
+  - mecaz
+ornekler:
+- - İzinsiz bir yere gitmek ne haddime?
+- - Ayıp bir şey gördü mü kulaklarına kadar kızarıyor, gözünü yerde bir noktaya dikip öylece kalakalıyordu.
+- - Anadolu'nun bazı yerlerinde eski bir kocakarı itikadı vardır.
+- - Türkiye stratejik bakımdan önemli bir yerdedir.
+- - ''
+- - Askerden gelirse bakalım bir yere yerleştirebilecek miyiz?
+- - Uçağın yurt savunmasındaki yeri.
+- - ''
+- - Deniz kıyısında bir yer aldılar, ev yapacaklar.
+- - Çorak yerde ot bitmez.
+- - Toplantı yeri. Kaza yeri.
+- - Yeriniz var mı?
+- - ''
+- - Sen benim yerimde olsan ne yapardın?
+orneklerkaynak:
+- - Memduh Şevket Esendal
+- - Haldun Taner
+- - Reşat Nuri Güntekin
+- - ''
+- - ''
+- - Memduh Şevket Esendal
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+---

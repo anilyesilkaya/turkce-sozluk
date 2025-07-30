@@ -1,0 +1,108 @@
+---
+layout: term
+title: batırmak
+slug: batirmak
+lisan: Türkçe
+anlamlar:
+- Bir şeyin sıvı veya yumuşak bir maddenin içine gömülmesine yol açmak, batmasını sağlamak
+- Sivri uçlu bir şeyi yumuşak bir yere saplamak
+- Denizde ve suda yüzen taşıtların suya gömülmesine, batmasına sebep olmak
+- Elindeki mal, para vb. varlığını kaybetmek
+- Çok kirletmek
+- ► bulamak
+- Bir şeye aşırı derecede maruz bırakmak
+- Son bulmasına sebep olmak
+- Bir kimseyi çekiştirip iyice kötülemek
+- ► mahvetmek
+ozellikler:
+- - -e
+  - -i
+- - -e
+  - -i
+  - -i
+- - -e
+  - -i
+  - -i
+  - -i
+- - -e
+  - -i
+  - -i
+  - -i
+  - -i
+- - -e
+  - -i
+  - -i
+  - -i
+  - -i
+  - -i
+- - -e
+  - -i
+  - -i
+  - -i
+  - -i
+  - -i
+  - ''
+- - -e
+  - -i
+  - -i
+  - -i
+  - -i
+  - -i
+  - ''
+  - ''
+- - -e
+  - -i
+  - -i
+  - -i
+  - -i
+  - -i
+  - ''
+  - ''
+  - -i
+- - -e
+  - -i
+  - -i
+  - -i
+  - -i
+  - -i
+  - ''
+  - ''
+  - -i
+  - -i
+  - mecaz
+- - -e
+  - -i
+  - -i
+  - -i
+  - -i
+  - -i
+  - ''
+  - ''
+  - -i
+  - -i
+  - mecaz
+  - -i
+  - mecaz
+ornekler:
+- - Yumuşak lifi alarak kurnaya batırdı.
+- - '... sonra bir iğne bulup kaba etlerine art arda batırmışlar da o bunların hiçbirine tepki göstermemiş.'
+- - ''
+- - ''
+- - Üstünü başını batırmış.
+- - ''
+- - Borca batırmak.
+- - ''
+- - ''
+- - Ne saklayayım gaflet ettiğimi / Elimle batırmışım gençliğimi
+orneklerkaynak:
+- - Cahit Uçuk
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Cahit Sıtkı Tarancı
+---

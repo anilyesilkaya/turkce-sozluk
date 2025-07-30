@@ -1,0 +1,14 @@
+---
+layout: term
+title: taaffün etmek
+slug: taaffun-etmek
+lisan: Türkçe
+anlamlar:
+- kokuşmak, pis kokmak
+ozellikler:
+- - ''
+ornekler:
+- - Ancak yarım metre kadar toprağın altında olan ceset şiddetle taaffün ediyordu.
+orneklerkaynak:
+- - Sabahattin Ali
+---

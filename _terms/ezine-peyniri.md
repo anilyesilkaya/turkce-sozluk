@@ -1,0 +1,14 @@
+---
+layout: term
+title: Ezine peyniri
+slug: ezine-peyniri
+lisan: Türkçe
+anlamlar:
+- Koyun, keçi ve inek sütlerinin mevsimine göre belirli oranlarda karıştırılmasıyla elde edilen, erime ve dağılmayı engellemek için yapımında deniz tuzu kullanılan, tam yağlı, beyaz peynir
+ozellikler:
+- - isim
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

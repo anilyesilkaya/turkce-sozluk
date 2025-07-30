@@ -1,0 +1,82 @@
+---
+layout: term
+title: oturak
+slug: oturak
+lisan: Türkçe
+anlamlar:
+- Oturulacak yer veya şey
+- Alçak iskemle
+- Bir şeyin yere gelen tarafı; taban (I)
+- ► ördek
+- İçkili, çalgılı eğlence
+- Boru mengenesinin tezgâha oturduğu ve vidalandığı bölüm
+- Bacaklarında veya başka bir yerinde, gezmesine engel olacak bir özrü olduğundan hep evde oturan (kimse); kötürüm
+- Kürekli teknelerde kürekçilerin oturduğu enli tahta
+- Konargöçer olmayan, yerleşik olan
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - sıfat
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - sıfat
+  - denizcilik
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - sıfat
+  - denizcilik
+  - sıfat
+ornekler:
+- - ''
+- - Üstüne konulan tandır oturağı çok kalın ve çok sağlam tahtadan fırınlanarak yapılmıştı.
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Seyhun boylarındaki şehirlerde ve köylerde yaşayan oturak Oğuzların da bilhassa Moğol kılıcı altında can vermemek, onlara tutsak düşmemek...
+orneklerkaynak:
+- - ''
+- - Ayla Kutlu
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Faruk Sümer
+---

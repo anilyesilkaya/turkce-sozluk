@@ -1,0 +1,235 @@
+---
+layout: term
+title: girmek
+slug: girmek
+lisan: Türkçe
+anlamlar:
+- Dışarıdan içeriye geçmek; kaçmak
+- ► sığmak
+- ► katılmak (I)
+- Almak, fethetmek
+- İncelemek, ayrıntılara inmek
+- Girişmek, başlamak
+- ► bulaşmak
+- Su dolu bir yerin içine batmak veya dalmak
+- Zaman anlamlı kavramlar için gelmek
+- Ağrı, sancı başlamak, saplanmak
+- Yeni bir duruma geçmek, dönüşmek
+- İyice anlamak, iyice bilmek
+- Kavgaya tutuşmak
+- Erişmek, ulaşmak
+- Bir şeyin yapımında, birleşiminde yer almak
+- Yazılmak, başlamak
+- ► yüklenmek
+- Tecavüz etmek, bir yere geçmek
+ozellikler:
+- - -e
+- - -e
+  - ''
+- - -e
+  - ''
+  - ''
+- - -e
+  - ''
+  - ''
+  - ''
+- - -e
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+- - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+- - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+- - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+- - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+- - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - hukuk
+ornekler:
+- - Birlikte kiliseden içeri giriyoruz, ben topallıyorum.
+- - Elim bu eldivene girmiyor.
+- - Bugün edebiyat imtihanına girdim.
+- - Ordularımız İstanbul'a girdiler.
+- - ''
+- - Kaçırdım gene ipin ucunu, bir türlü konuya giremiyorum.
+- - Koyunlara kelebek hastalığı girdi.
+- - Şimdi git, at içinden sıkıntıyı. Denize gir. Yorul.
+- - İlkbahar girdi.
+- - ''
+- - Göğün morlaşan kenarı eriyor, menekşe rengine giriyordu.
+- - ''
+- - ''
+- - Yirmisine girdi.
+- - Tuz genellikle her yemeğe girer.
+- - Okula girdi.
+- - ''
+- - Komşu, tarlamıza beş metre girdi.
+orneklerkaynak:
+- - Adalet Ağaoğlu
+- - ''
+- - Yusuf Ziya Ortaç
+- - Memduh Şevket Esendal
+- - ''
+- - Nurullah Ataç
+- - ''
+- - Necati Cumalı
+- - ''
+- - ''
+- - Ömer Seyfettin
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+---

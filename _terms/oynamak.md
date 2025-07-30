@@ -1,0 +1,242 @@
+---
+layout: term
+title: oynamak
+slug: oynamak
+lisan: Türkçe
+anlamlar:
+- Vakit geçirme, eğlenme, oyalanma vb. amaçlarla bir şeyle uğraşmak
+- Kımıldamak, hareket etmek
+- Bir şeyi sürekli evirip çevirmek veya sürekli olarak ona dokunmak
+- Bir film, oyun vb.nde rol almak
+- Film gösterilmek
+- Tiyatro eseri sahneye konmak
+- Eşyanın herhangi bir parçası kımıldamak, hareket etmek
+- Sarsılmak, yeri değişmek
+- Sporla ilgili çalışmalara katılmak
+- Müziğin gerektirdiği uyumlu hareketleri yapmak
+- Büyük bir ustalık, beceri ve kolaylıkla bir işi yapmak
+- Değişiklik göstermek
+- Tehlikeye düşürmek
+- Oyalanmak, gereği gibi yapmamak, boşuna vakit geçirmek
+- Rastgele yön vermek, aldatmak
+- Herhangi birine karşı önemsemeyici davranışlarda bulunmak
+- Tedirgin etmek, rahatsız edici davranışta bulunmak
+- Değiştirmek, bozmak, tahrif etmek
+ozellikler:
+- - nesnesiz
+- - nesnesiz
+  - ''
+- - nesnesiz
+  - ''
+  - -le
+- - nesnesiz
+  - ''
+  - -le
+  - ''
+- - nesnesiz
+  - ''
+  - -le
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - -le
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - -le
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - -le
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - -le
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - -le
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - -le
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - -le
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - -le
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -le
+- - nesnesiz
+  - ''
+  - -le
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -le
+  - ''
+- - nesnesiz
+  - ''
+  - -le
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -le
+  - ''
+  - -le
+  - mecaz
+- - nesnesiz
+  - ''
+  - -le
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -le
+  - ''
+  - -le
+  - mecaz
+  - -le
+  - mecaz
+- - nesnesiz
+  - ''
+  - -le
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -le
+  - ''
+  - -le
+  - mecaz
+  - -le
+  - mecaz
+  - mecaz
+- - nesnesiz
+  - ''
+  - -le
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -le
+  - ''
+  - -le
+  - mecaz
+  - -le
+  - mecaz
+  - mecaz
+  - mecaz
+ornekler:
+- - Çimenler üzerinde çocuklar oynuyor, kuzular otluyor.
+- - Elimde bulunan fotoğraftaki kadının eli oynadı.
+- - ''
+- - Bütün rolleri, şahısların sesleri, tavırları, mimikleriyle tek başına oynamıştı.
+- - Başka bir sinemada da çok komik bir film oynuyordu.
+- - Birisi dedi ki bu iki perdelik bir oyun imiş, bitince ötekini oynayacaklarmış.
+- - Birdenbire apartman kapısının oynadığını hissettim.
+- - Depremde yapı oynadı.
+- - Tenis oynamak.
+- - Ne oynadığı gazinonun ismini söyledi ne de danslarından bahsetti.
+- - ''
+- - Bunların fiyatı iki bin ile üç bin lira arasında oynar.
+- - Benim sağlığımla oynama.
+- - ''
+- - Talih bizimle oynuyor.
+- - Koca adamla oynamaya utanmıyor musun?
+- - ''
+- - Borsada istediği gibi oynuyordu fiyatlarla.
+orneklerkaynak:
+- - Hüseyin Rahmi Gürpınar
+- - Nazlı Eray
+- - ''
+- - Yusuf Ziya Ortaç
+- - Aziz Nesin
+- - Memduh Şevket Esendal
+- - Peyami Safa
+- - ''
+- - ''
+- - Refik Halit Karay
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Necati Cumalı
+---

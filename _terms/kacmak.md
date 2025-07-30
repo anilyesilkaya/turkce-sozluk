@@ -1,0 +1,229 @@
+---
+layout: term
+title: kaçmak
+slug: kacmak
+lisan: Türkçe
+anlamlar:
+- Hızla koşup bir yere saklanmak
+- Kimseye bildirmeden bulunduğu yerden ayrılmak; firar etmek, gazlamak
+- Kendini göstermemek, rastlaşmamaya çalışmak
+- ► kaçınmak
+- Gaz, sıvı vb. şeyler sızmak
+- İpi kopmak
+- ► girmek
+- Bir yana doğru kaymak
+- Görünmeden gitmek; savuşmak, sıvışmak
+- Hızlı koşmak
+- Yok olmak
+- Benzemek, andırmak
+- Kaçgöçe uymak
+- Kız veya kadın yasalara ve aile isteklerine karşı gelerek evlenmek için evinden ayrılmak
+- Rengi ağarmak
+- Yarışçı diğerlerinden hızla ayrılıp arayı açmak
+- Futbol ve basketbolda engelleyen adamdan kurtulmak veya pas alabilmek için boş alana koşmak
+ozellikler:
+- - -e
+- - -e
+  - nesnesiz
+- - -e
+  - nesnesiz
+  - -den
+- - -e
+  - nesnesiz
+  - -den
+  - -den
+- - -e
+  - nesnesiz
+  - -den
+  - -den
+  - -den
+- - -e
+  - nesnesiz
+  - -den
+  - -den
+  - -den
+  - nesnesiz
+- - -e
+  - nesnesiz
+  - -den
+  - -den
+  - -den
+  - nesnesiz
+  - -e
+  - nesnesiz
+- - -e
+  - nesnesiz
+  - -den
+  - -den
+  - -den
+  - nesnesiz
+  - -e
+  - nesnesiz
+  - ''
+- - -e
+  - nesnesiz
+  - -den
+  - -den
+  - -den
+  - nesnesiz
+  - -e
+  - nesnesiz
+  - ''
+  - nesnesiz
+- - -e
+  - nesnesiz
+  - -den
+  - -den
+  - -den
+  - nesnesiz
+  - -e
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+- - -e
+  - nesnesiz
+  - -den
+  - -den
+  - -den
+  - nesnesiz
+  - -e
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+- - -e
+  - nesnesiz
+  - -den
+  - -den
+  - -den
+  - nesnesiz
+  - -e
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+- - -e
+  - nesnesiz
+  - -den
+  - -den
+  - -den
+  - nesnesiz
+  - -e
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+- - -e
+  - nesnesiz
+  - -den
+  - -den
+  - -den
+  - nesnesiz
+  - -e
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - -den
+- - -e
+  - nesnesiz
+  - -den
+  - -den
+  - -den
+  - nesnesiz
+  - -e
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - -den
+  - -i
+- - -e
+  - nesnesiz
+  - -den
+  - -den
+  - -den
+  - nesnesiz
+  - -e
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - -den
+  - -i
+  - -den
+  - spor
+- - -e
+  - nesnesiz
+  - -den
+  - -den
+  - -den
+  - nesnesiz
+  - -e
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - -den
+  - -i
+  - -den
+  - spor
+  - spor
+ornekler:
+- - Bir tehlike sezdiğin anda hemen eve kaçarsın.
+- - Silahını hatta başındaki şapkasını bırakıp kaçıyor.
+- - Alacaklıdan kaçmak.
+- - Ben zahmetten kaçmam.
+- - Kazandan islim kaçıyor.
+- - Çorabım kaçtı.
+- - Kulağına su kaçmış.
+- - Odanın halısı biraz sağa kaçmış.
+- - Belki sirayet eder diye korkacaklar ve kaçacaklar.
+- - Biletlerini memurun elinden kaptı, kaçar gibi gişeden uzaklaştı.
+- - Neşesi kaçmak.
+  - Rahatı kaçmak.
+- - Bu mavi yeşile kaçıyor.
+- - Gelin bir evde kayınbabasından kaçar, güveyi, baldızının yüzünü tanımazdı.
+- - ''
+- - ''
+- - ''
+- - ''
+orneklerkaynak:
+- - Hüseyin Rahmi Gürpınar
+- - Ruşen Eşref Ünaydın
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Burhan Felek
+- - Necati Cumalı
+- - ''
+  - ''
+- - ''
+- - Refik Halit Karay
+- - ''
+- - ''
+- - ''
+- - ''
+---

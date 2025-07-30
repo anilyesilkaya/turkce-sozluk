@@ -1,0 +1,216 @@
+---
+layout: term
+title: ağırlık
+slug: agirlik
+lisan: Türkçe
+anlamlar:
+- Ağır olma durumu; tartı
+- Terazilerde tartma işi yapılırken bir kefeye konulan nesne
+- Değerlendirmelerde herhangi bir konu veya evreye, olağanın üzerinde ve belli oranda tanınan değer
+- Sıkıcı, bunaltıcı, iç karartıcı durum
+- Uykudayken gelen ve insana boğulur gibi bir duygu veren durum
+- ► takı
+- ► sorumluluk
+- Bir kimse, bir grup vb.nin toplum içinde etkisinin fazla olması durumu
+- Dikkati ve önemi bir şey üzerinde yoğunlaştırmak
+- Gelin olacak kıza erkek tarafından verilen para veya armağan; kalın (II)
+- ► sıkıntı
+- ► ağırbaşlılık
+- Değerli olma durumu
+- Uyuşukluk ve gevşeklik durumu
+- Orduda bir birliğin cephane, yiyecek ve eşya yükleri
+- Yer çekiminin, bir cismin molekülleri üzerindeki etkisinin oluşturduğu bileşke; gravite
+- Güreş, boks, halter, judo vb. spor dallarında, sporcuların kilolarına göre girdikleri kategori; sıklet
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ağızlardan
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ağızlardan
+  - mecaz
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ağızlardan
+  - mecaz
+  - mecaz
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ağızlardan
+  - mecaz
+  - mecaz
+  - mecaz
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ağızlardan
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ağızlardan
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - askerlik
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ağızlardan
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - askerlik
+  - fizik
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ağızlardan
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - askerlik
+  - fizik
+  - spor
+ornekler:
+- - Yükün ağırlığı.
+  - Taşın ağırlığı.
+- - ''
+- - ''
+- - Havanın ağırlığı.
+- - ''
+- - Kadın bütün ağırlığını takıp düğüne gitti.
+- - Bu işin ağırlığını tek başıma yüklendim.
+- - ''
+- - Şimdi bütün ağırlığı reklama vermeli.
+- - ''
+- - Göğsümden asabi bir ağırlığın yükseldiğini, nefes aldırmayacak gibi boğazıma tıkandığını duyuyordum.
+- - Çocuğa yıllar geçtikçe bir ağırlık geldi.
+- - Hediyenin ağırlığı.
+- - Beynime bir ağırlık peyda olmuştu.
+- - Akşama doğru, ağırlığın başında bezgin neferlere iş gördürmeye uğraşıyordum.
+- - ''
+- - ''
+orneklerkaynak:
+- - ''
+  - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Attilâ İlhan
+- - ''
+- - Ömer Seyfettin
+- - ''
+- - ''
+- - Aka Gündüz
+- - Falih Rıfkı Atay
+- - ''
+- - ''
+---

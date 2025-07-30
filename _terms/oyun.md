@@ -1,0 +1,124 @@
+---
+layout: term
+title: oyun
+slug: oyun
+lisan: Türkçe
+anlamlar:
+- Yetenek ve zekâ geliştirici, belli kuralları olan, iyi vakit geçirmeye yarayan eğlence; baziçe
+- Tiyatro veya sinemada sanatçının rolünü yorumlama biçimi
+- Müzik eşliğinde yapılan hareketlerin bütünü
+- Seslendirilmek veya sahnede oynanmak için hazırlanmış eser; temsil, piyes
+- Bedence ve kafaca yetenekleri geliştirmek amacıyla yapılan, çevikliğe dayanan her türlü yarışma
+- Şaşkınlık uyandırıcı hüner
+- ► kumar
+- Güreşte rakibini yenmek için yapılan türlü biçimlerde şaşırtıcı hareket
+- Teniste, tavlada taraflardan birinin belirli sayı kazanmasıyla elde edilen sonuç
+- ► entrika
+- Hareketten veya kullanılıştan gelen çeşitlilik, aldatıcı görünüş
+- ► hile
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - spor
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - spor
+  - spor
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - spor
+  - spor
+  - mecaz
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - spor
+  - spor
+  - mecaz
+  - mecaz
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - spor
+  - spor
+  - mecaz
+  - mecaz
+  - mecaz
+ornekler:
+- - ''
+- - ''
+- - Zeybek oyunu.
+- - ''
+- - Olimpiyat oyunları. Akdeniz oyunları.
+- - Hokkabazın oyunu. Cambazın oyunu.
+- - Bazıları oyun başından kalkar kalkmaz her şeyi unuturlar.
+- - ''
+- - ''
+- - Atatürk hiçbir zaman onların oyununa kanmış değildir.
+- - '... sonra iki ince bulut arasından kızıl ve mavimsi ışıkları birbirine bağlayarak odanın soyutlaşmış boşluğunu dağıtmak istermişçesine camın yüzünde garip bir renk oyunu yapıyordu.'
+- - ''
+orneklerkaynak:
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Peyami Safa
+- - ''
+- - ''
+- - Haldun Taner
+- - Cengiz Dağcı
+- - ''
+---

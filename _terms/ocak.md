@@ -1,0 +1,140 @@
+---
+layout: term
+title: ocak
+slug: ocak
+lisan: Türkçe
+anlamlar:
+- Ateş yakmaya yarayan, pişirme, ısıtma, ısınma vb. amaçlarla kullanılan yer; ocaklık
+- ► şömine
+- Isı vererek üzerine veya içine konulan maddeleri ısıtan, pişiren, kaynatan, eriten araç veya alet
+- Kahvelerde, kuruluşlarda çay, kahve vb.nin yapıldığı yer
+- Yer üstünde veya yer altında cevher çıkarılan yer
+- Bahçelerde veya bostanlarda her tür meyve ve sebze tohumu veya fidesinin dikimi için etrafı yükseltilerek ortası çukur bırakılmış yer
+- Aynı amaç ve düşünceyi paylaşanların kurdukları kuruluş veya toplandıkları, görev yaptıkları yer
+- Yılın birinci ayı; ikinci kânun, son kânun, kânunusani
+- Yeniçeri teşkilatını oluşturan ortalardan her biri
+- Ev, aile, soy
+- Halk hekimliğinde bir önceki kuşaktan el verme suretiyle aktarılan bilgileri kullanarak belirli bir şikâyeti veya hastalığı iyileştirdiğine inanılan aile
+- Bir şeyin en çok bulunduğu veya yapıldığı yer
+- Toprak altındaki su kanallarının toprak üzerine açılan ve bir kapakla örtülü bulunan deliği
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - tarih
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - tarih
+  - mecaz
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - tarih
+  - mecaz
+  - ağızlardan
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - tarih
+  - mecaz
+  - ağızlardan
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - tarih
+  - mecaz
+  - ağızlardan
+  - ''
+  - ''
+ornekler:
+- - Üç balıkçı güneş batarken kumların üzerine iki taştan bir ocak yaptılar ve ateş yaktılar.
+- - Ocağın önünde oturup acayip bir dikkatle odunların yanışına bakar.
+- - Anlaşılan çamaşırcı giderken ocağı tam söndürmemiş olacak.
+- - Konuşmalar iyice kızışmaya başladığı vakit kahve ocağının önünde görünür.
+- - Mermer ocağı. Kömür ocağı.
+- - Mustafa, arkasına güçlü kuvvetli bir kadın takmış, üç evleğine çizgiler, ocaklar açıyordu.
+- - Başlangıçtan beri burası bir vatansever ocağı idi.
+- - Ocak ayını sevmem, oldum olası.
+- - ''
+- - Henüz temelleri atılmayan kendi ocağım kurulmadan yıkılmıştı.
+- - Bugün de Anadolu’nun birçok yerleşim biriminde afsuncular, ocaklar ve muskacılar işlerine aynı sözlerle başlarlar.
+- - Bilim ocağı, hayır ocağı, fesat ocağı.
+- - ''
+orneklerkaynak:
+- - Halikarnas Balıkçısı
+- - 'Yakup Kadri Karaosmanoğlu '
+- - Haldun Taner
+- - Salâh Birsel
+- - ''
+- - Sait Faik Abasıyanık
+- - Falih Rıfkı Atay
+- - Burhan Felek
+- - ''
+- - Aka Gündüz
+- - Şakir Keçeli
+- - ''
+- - ''
+---

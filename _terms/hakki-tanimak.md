@@ -1,0 +1,14 @@
+---
+layout: term
+title: hakkı tanımak
+slug: hakki-tanimak
+lisan: Türkçe
+anlamlar:
+- izin vermek
+ozellikler:
+- - ''
+ornekler:
+- - Saliha, anneye çocuğunu haftada iki kere görme hakkı tanıyan kararı yazdırıyor.
+orneklerkaynak:
+- - Ayşe Kulin
+---

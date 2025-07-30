@@ -1,0 +1,155 @@
+---
+layout: term
+title: çalmak
+slug: calmak
+lisan: Türkçe
+anlamlar:
+- Başkasının malını gizlice almak; hırsızlamak, kaldırmak, tüydürmek, uğrulamak
+- Vurarak veya sürterek ses çıkartmak
+- Çalgı aleti ile bir müzik parçasını seslendirmek
+- Ses çıkarmak, ses vermek
+- Bir şeyi bir yere çarpmak, vurmak
+- Üzerine sürmek
+- Bozmak, zarar vermek
+- ► çelmek
+- Madeni oymak, kalemle işlemek
+- Benzemek, andırmak
+- Zamanı boşa harcatmak, ziyan edilmesine yol açmak
+- Süpürmek, temizlemek
+- Kök durumunda veya zarf-fiil eki alarak hızlı, aralıksız ve özensiz tekrarlanan anlamı veren birleşik kelimeler yapar
+ozellikler:
+- - -e
+  - -i
+- - -e
+  - -i
+  - ''
+- - -e
+  - -i
+  - ''
+  - nesnesiz
+- - -e
+  - -i
+  - ''
+  - nesnesiz
+  - nesnesiz
+- - -e
+  - -i
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+- - -e
+  - -i
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - -i
+- - -e
+  - -i
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - -i
+  - -i
+- - -e
+  - -i
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - -i
+  - -i
+  - ''
+- - -e
+  - -i
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - -i
+  - -i
+  - ''
+  - -e
+- - -e
+  - -i
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - -i
+  - -i
+  - ''
+  - -e
+  - mecaz
+- - -e
+  - -i
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - -i
+  - -i
+  - ''
+  - -e
+  - mecaz
+  - -i
+  - ağızlardan
+- - -e
+  - -i
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - -i
+  - -i
+  - ''
+  - -e
+  - mecaz
+  - -i
+  - ağızlardan
+  - dil bilgisi
+ornekler:
+- - İngiliz cephesinden at kaçırıp bize satan bedeviler dönüşlerinde bizim atlarımızı çalıp İngilizlere satarlardı.
+- - Bir yandan mızıka istiklal havasını çalıyordu.
+- - Fevkalade zekidir, iyi dans eder, piyano çalar, tenis oynar, ata biner, avcıdır, kayakçıdır.
+- - Hafif hafif ıslıklar çalan sesi eski keskinliğini kaybetmiştir.
+- - Oklavayla açtığı yufkaları başının üstünde döndürüp mermere çalar, iyice yayar ve inceltirdi.
+- - Ekmeğin üzerine yağ çaldı.
+- - ''
+- - ''
+- - ''
+- - Geniş alınlı, kırmızıya çalar, kahverengi saçlı, altın dişli tuhaf bir delikanlı gülümsedi.
+- - ''
+- - Tozu çalmak.
+- - ''
+orneklerkaynak:
+- - Falih Rıfkı Atay
+- - Ruşen Eşref Ünaydın
+- - Refik Halit Karay
+- - Reşat Nuri Güntekin
+- - Sevinç Çokum
+- - ''
+- - ''
+- - ''
+- - ''
+- - Sait Faik Abasıyanık
+- - ''
+- - ''
+- - ''
+---

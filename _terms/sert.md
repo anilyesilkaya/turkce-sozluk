@@ -1,0 +1,109 @@
+---
+layout: term
+title: sert
+slug: sert
+lisan: Farsça serd
+anlamlar:
+- Çizilmesi, kırılması, buruşması, kesilmesi veya çiğnenmesi güç olan; bek (I), berk, pek, katı (I), yumuşak karşıtı
+- Esnekliği az olan, kolayca eğilip bükülmeyen
+- Kolay dayanılmayan, zor katlanılan, etkili, yumuşak karşıtı
+- Güçlü kuvvetli
+- Etkisi şiddetli ve keskin olan, hafif karşıtı
+- Bağışlaması, hoşgörüsü olmayan
+- Gönül kırıcı, katı, ters olan
+- Gönül kırıcı, katı, ters bir biçimde
+- Hırçın, öfkeli, hiddetli olan
+- Titizlikle uygulanan; sıkı
+- ► tonsuz
+ozellikler:
+- - sıfat
+- - sıfat
+  - ''
+- - sıfat
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - zarf
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - zarf
+  - mecaz
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - zarf
+  - mecaz
+  - mecaz
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - zarf
+  - mecaz
+  - mecaz
+  - dil bilgisi
+ornekler:
+- - Sert tahta.
+- - Tabakanın sert yaylı kapağını tak diye kapatıyor.
+- - Sert iklim. Sert hava.
+- - Kapıyı kapadı, döndü, sert adımlarla ilerledi.
+- - Sert içki.
+- - Birçokları beni dik ve sert olduğum için belki sevmiyorlardı.
+- - ''
+- - Ben de ona bile bile sert çıkıştım.
+- - Zaten Atatürk'ün ne vakit öfkesine kapılarak herhangi bir kimseye karşı herhangi bir sert harekette bulunduğunu kim hatırlar?
+- - Sert bir yönetim.
+- - ''
+orneklerkaynak:
+- - ''
+- - Tarık Buğra
+- - ''
+- - Memduh Şevket Esendal
+- - ''
+- - Memduh Şevket Esendal
+- - ''
+- - Ahmet Kabaklı
+- - 'Yakup Kadri Karaosmanoğlu '
+- - ''
+- - ''
+---

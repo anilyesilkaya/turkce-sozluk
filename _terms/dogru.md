@@ -1,0 +1,132 @@
+---
+layout: term
+title: doğru
+slug: dogru
+lisan: Türkçe
+anlamlar:
+- Bir ucundan öbür ucuna kadar yönü değişmeyen, eğri ve çarpık karşıtı
+- Gerçek, yalan olmayan
+- Akla, mantığa, gerçeğe veya kurala uygun
+- Hakikat olan şey; savap
+- Başı ve sonu olmayan düz çizgi
+- Yanlışsız, eksiksiz bir biçimde
+- Hiçbir yöne sapmadan
+- Yakın, yakınlarında
+- Yer bildiren kelimelerden sonra yön kavramı veren bir söz
+- Zaman gösteren kelimelerden sonra “yaklaşırken, az kalmışken, yakınken” anlamlarında kullanılan bir söz
+- Yasa, yöntem ve ahlaka bağlı, dürüst, namuslu olan
+- “Evet” anlamında bir tasdik sözü
+ozellikler:
+- - sıfat
+- - sıfat
+  - ''
+- - sıfat
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - isim
+- - sıfat
+  - ''
+  - ''
+  - isim
+  - isim
+  - matematik
+- - sıfat
+  - ''
+  - ''
+  - isim
+  - isim
+  - matematik
+  - zarf
+- - sıfat
+  - ''
+  - ''
+  - isim
+  - isim
+  - matematik
+  - zarf
+  - zarf
+- - sıfat
+  - ''
+  - ''
+  - isim
+  - isim
+  - matematik
+  - zarf
+  - zarf
+  - edat
+- - sıfat
+  - ''
+  - ''
+  - isim
+  - isim
+  - matematik
+  - zarf
+  - zarf
+  - edat
+  - edat
+- - sıfat
+  - ''
+  - ''
+  - isim
+  - isim
+  - matematik
+  - zarf
+  - zarf
+  - edat
+  - edat
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - isim
+  - isim
+  - matematik
+  - zarf
+  - zarf
+  - edat
+  - edat
+  - ''
+  - mecaz
+- - sıfat
+  - ''
+  - ''
+  - isim
+  - isim
+  - matematik
+  - zarf
+  - zarf
+  - edat
+  - edat
+  - ''
+  - mecaz
+  - ünlem
+ornekler:
+- - ''
+- - Doğru haber.
+- - Bunları sana şimdiden söylemek daha doğrudur.
+- - Söyleyin doğrusunu, siz insanoğlunun ahlaklı olabileceğine inanmıyorsunuz.
+- - İki noktadan yalnız bir doğru geçebilir.
+- - Doğru söylüyorsun Ali, doğru söylüyorsun ama kazın ayağı öyle değil.
+- - Doğru oraya gitmiş olsaydınız herhâlde uygun olurdu.
+- - Şafağa doğru otomobil sesi duyuldu.
+- - Börekçi fırınının karşısındaki dört köşe taşlar döşeli, iki yanı ağaçlı yoldan çarşıya doğru yürüyordu.
+- - Akşama doğru bir ara gözlerini açtı.
+- - Yaşayışından rastgele bir yaprağını yazarak iyi bir adam, doğru bir adam olan Haşmet Gülkokan'ı siz okuyucularıma tanıtmak istedim…
+- - 'Kaymakam: Doğru mu? diye sordu neden sonra. Şef: Doğru ... diye mırıldandı.'
+orneklerkaynak:
+- - ''
+- - ''
+- - Aka Gündüz
+- - Nurullah Ataç
+- - ''
+- - Orhan Kemal
+- - Sait Faik Abasıyanık
+- - Falih Rıfkı Atay
+- - Yusuf Atılgan
+- - Haldun Taner
+- - Memduh Şevket Esendal
+- - Hasan Kayıhan
+---

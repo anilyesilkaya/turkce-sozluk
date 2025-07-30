@@ -1,0 +1,286 @@
+---
+layout: term
+title: yapmak
+slug: yapmak
+lisan: Türkçe
+anlamlar:
+- Ortaya koymak, gerçekleştirmek, oluşturmak, meydana getirmek
+- Olmasına yol açmak
+- Yol almak
+- Onarmak, tamir etmek
+- Bir şeyi başka bir şey durumuna getirmek
+- Bir dileği, bir isteği yerine getirmek; uygulamak, ifa etmek
+- Bir düşünceyi, bir davranışı, bir isteği işe dönüştürmek, gerçekleştirmek
+- Düzenli bir duruma getirmek
+- ► üretmek
+- Bir harekete, işe başlamak veya bir hareketle, işle uğraşmak
+- Salgılamak, çıkarmak
+- Dışkı çıkarmak
+- ► gerçekleştirmek
+- Tehdit yoluyla birini herhangi bir duruma düşürmek
+- ► evlendirmek
+- Bir durum yaratmak
+- Edinmek, sahip olmak
+- Bir kimseye bir meslek kazandırmak, birini yetiştirmek
+- Davranmak, hareket etmek
+- ► olmak
+ozellikler:
+- - -i
+- - -i
+  - nesnesiz
+- - -i
+  - nesnesiz
+  - nesnesiz
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - ''
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - -e
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - -e
+  - ''
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - -e
+  - ''
+  - ''
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - -e
+  - ''
+  - ''
+  - -e
+  - -i
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - -e
+  - ''
+  - ''
+  - -e
+  - -i
+  - yardımcı  fiil
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - -e
+  - ''
+  - ''
+  - -e
+  - -i
+  - yardımcı  fiil
+  - yardımcı  fiil
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - -e
+  - ''
+  - ''
+  - -e
+  - -i
+  - yardımcı  fiil
+  - yardımcı  fiil
+  - yardımcı  fiil
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - -e
+  - ''
+  - ''
+  - -e
+  - -i
+  - yardımcı  fiil
+  - yardımcı  fiil
+  - yardımcı  fiil
+  - nesnesiz
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - -e
+  - ''
+  - ''
+  - -e
+  - -i
+  - yardımcı  fiil
+  - yardımcı  fiil
+  - yardımcı  fiil
+  - nesnesiz
+  - nesnesiz
+ornekler:
+- - Her görevi ayrım gözetmeden aynı titizlikle yapmak başarının sırrıdır.
+- - Durgun sular sıtma yapar.
+- - ''
+- - Bozulan saatimi saatçi yaptı.
+- - Ayrıca terbiye edeceğim, onu yaman bir polis köpeği yapacağım.
+- - Şu işi yapıver diye yalvarmıştı da enişte engel olmuştu.
+- - Elimi ağzına götürerek sus işareti yaptım.
+- - Yatak yapmak. Yolu yaptılar.
+- - Ayakkabı yapmak.
+- - Koşu yapmak. Sarsıntı yapmak.
+- - Tükürük bezleri tükürük yapar.
+- - Çocuk, altına yapmış.
+- - İlk ve ortaöğrenimini Anadolu'da yapmıştır.
+- - Ben adamı ne yaparım biliyor musun?
+- - Bu kızı sana yapacağız.
+- - Fırının harlı ateşi yanaklarını pembe pembe yapmıştı.
+- - Servet yapmak. Altın yapmak.
+- - Onu da Üsküdar'daki ambar memuru yapmak suretiyle daireden uzaklaştırdı.
+- - İyi yapmıyorsunuz, çocuğu çok azarlıyorsunuz. Uyumuş gibi yapmak.
+- - Bu kış çok soğuk yaptı.
+orneklerkaynak:
+- - Çetin Altan
+- - ''
+- - ''
+- - ''
+- - Refik Halit Karay
+- - Sermet Muhtar Alus
+- - Refik Halit Karay
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Yusuf Ziya Ortaç
+- - ''
+- - ''
+- - Nezihe Araz
+- - ''
+- - Haldun Taner
+- - ''
+- - ''
+---

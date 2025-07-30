@@ -1,0 +1,19 @@
+---
+layout: term
+title: Kemalpaşa
+slug: kemalpasa
+lisan: Türkçe
+anlamlar:
+- İzmir iline bağlı ilçelerden biri
+- Artvin iline bağlı ilçelerden biri
+ozellikler:
+- - isim
+- - isim
+  - ''
+ornekler:
+- - ''
+- - ''
+orneklerkaynak:
+- - ''
+- - ''
+---

@@ -1,0 +1,124 @@
+---
+layout: term
+title: kütük
+slug: kutuk
+lisan: Türkçe
+anlamlar:
+- Kalın ağaç gövdesi
+- Kesilmiş ağaç gövdesi
+- Kesimden sonra ağaç gövdesinin toprakta kalan bölümü
+- Üzüm teveğinin gövdesi
+- Resmî kayıt defteri
+- ► nüfus kütüğü
+- Birbirleriyle ilgili olan verilerin tümü
+- Verilerin işlemci içinde yazıldığı yer
+- ► kütük demir
+- Görgüsüz, kaba kimse
+- Kum, odun, kömür vb. taşımakta kullanılan hafif tekne
+- Osmanlı'da kullanılan, mavnadan küçük, altı nispeten düz, başı kalkık ve içeriye bükük, sığ sularda ve çıkarma işlerinde kullanılan, tek kürekli yelkenli gemi
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - bilişim
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - bilişim
+  - bilişim
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - bilişim
+  - bilişim
+  - madencilik
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - bilişim
+  - bilişim
+  - madencilik
+  - mecaz
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - bilişim
+  - bilişim
+  - madencilik
+  - mecaz
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - bilişim
+  - bilişim
+  - madencilik
+  - mecaz
+  - ''
+  - tarih
+ornekler:
+- - ''
+- - Kenara iri zeytin kütükleri istif edilmişti.
+- - Çamlıkları yarıyoruz, ağaçların kütüklerinden atlıyoruz, ne bir köy ne bir ses var.
+- - Kütüklerin üstündeki koruklara otlar tırmanan bahçeyi bir daha geçiyoruz.
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Biraz sonra bizim kütük, kanepenin üstüne oturmuş, ayaklarıyla yerdeki yaprakları eziyordu.
+- - ''
+- - ''
+orneklerkaynak:
+- - ''
+- - Refik Halit Karay
+- - Memduh Şevket Esendal
+- - Falih Rıfkı Atay
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Halide Edip Adıvar
+- - ''
+- - ''
+---

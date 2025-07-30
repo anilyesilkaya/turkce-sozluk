@@ -1,0 +1,95 @@
+---
+layout: term
+title: örgü
+slug: orgu
+lisan: Türkçe
+anlamlar:
+- Örme işi veya biçimi
+- Tığ, şiş veya özel makineyle ilmiklerin yan yana getirilmesiyle örülerek yapılmış şey
+- Dokumacılıkta atkı ve çözgü ipliklerinin, dokumayı oluşturacak biçimde belli bir desene göre kesişmesi
+- ► belik
+- ► ağ (I)
+- ► yapı
+- Her türlü eylem ve olaydan oluşan akış
+- Örülerek yapılan; örme
+- Bazı sinir veya damarların birbirine geçip dolaşmasından ortaya çıkan oluşum
+- Konunun ana çizgisi, oyunun işlenişi veya çatısı
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - sıfat
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - sıfat
+  - anatomi
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - sıfat
+  - anatomi
+  - tiyatro
+ornekler:
+- - ''
+- - ''
+- - ''
+- - Kadının başına doladığı örgülerden biri, firketelerden kurtulup omzuna düşüyor eğilince.
+- - ''
+- - Batı Avrupa medeniyeti bütün dış ve iç örgüleriyle bana ilk defa orada ayan olmuştu.
+- - Yaşamın örgüsü içinde gereğinden bile çok çalışkanım.
+- - Örgü bir giysi.
+- - ''
+- - ''
+orneklerkaynak:
+- - ''
+- - ''
+- - ''
+- - Nezihe Meriç
+- - ''
+- - 'Yakup Kadri Karaosmanoğlu '
+- - Nezihe Meriç
+- - ''
+- - ''
+- - ''
+---

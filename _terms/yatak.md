@@ -1,0 +1,140 @@
+---
+layout: term
+title: yatak
+slug: yatak
+lisan: Türkçe
+anlamlar:
+- Uyuma, dinlenme vb. amaçlarla üzerine veya içine yatılan eşya; döşek
+- Yün, pamuk, kuş tüyü vb. maddelere kılıf geçirerek yapılan şilte
+- Üzerine şilte konulan karyola, somya, kerevet vb
+- Irmak, çay, dere vb.nin, içinde aktıkları yer; akak, mecra
+- Katmanlaşmış herhangi bir madde yığını
+- Bir şeyin çok bulunduğu yer
+- Maden veya fosil ocaklarında birbirini izleyen iki maden, taş veya kömür tabakası arasında uzanan damar
+- Çanak biçimindeki bir havzada veya buna benzer bir oluşumda toplanmış petrol birikintisi
+- Gizli barınak veya bir suçluyu gizlice barındıran yer
+- Makinelerde hareketli bölümleri içine alan hareketli veya sabit parça
+- Fideleri gömmek için toprakta açılan çukur
+- Turunçgilleri ve yumurta vb. ürünleri korumak üzere saman vb.nden yararlanılarak yapılan yer
+- Katmanlı bir kaya bütününde maden filizi veya taş döküntüsünden oluşan çok ince tabaka
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - coğrafya
+- - isim
+  - ''
+  - ''
+  - coğrafya
+  - ''
+- - isim
+  - ''
+  - ''
+  - coğrafya
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - coğrafya
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - coğrafya
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - coğrafya
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - coğrafya
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - coğrafya
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - coğrafya
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - coğrafya
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - hayvan bilimi
+ornekler:
+- - Sabahleyin onu aynı güzellikte bulacağım ümidiyle yatağımdan fırladım.
+- - ''
+- - ''
+- - Meyveler kızarmadan dalı üstünde soldu / Irmak yatağı kumsal, kırlar dikenlik oldu
+- - Çakıl yatağı.
+- - Yeşil sarıklı evliya yataklarının huzurunda gibiyim.
+- - ''
+- - ''
+- - Hırsız yatağı. Eşkıya yatağı.
+- - Namlu yatağı. Eksen yatağı.
+- - ''
+- - ''
+- - ''
+orneklerkaynak:
+- - Refik Halit Karay
+- - ''
+- - ''
+- - Faruk Nafiz Çamlıbel
+- - ''
+- - Refik Halit Karay
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+---

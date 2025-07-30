@@ -1,0 +1,95 @@
+---
+layout: term
+title: yakalamak
+slug: yakalamak
+lisan: Türkçe
+anlamlar:
+- Bir kimseyi veya bir şeyi elle tutmak
+- Kaçan bir kimseyi veya hayvanı ele geçirmek; derdest etmek
+- Bir kimsenin gitmesini engellemek, durdurmak
+- Bir kimseyi hoşa gitmeyecek bir durumda bulmak, bir kimsenin suçu ortaya çıkmak; sobelemek
+- Söz, bakış veya işareti fark etmek
+- Birdenbire etkisi altına almak
+- Arayarak veya rastlantı sonucu bulup bağlantı kurmak
+- Avlamak, tuzakla ele geçirmek
+- ► tutturmak
+- Aynı düzeye gelmek
+ozellikler:
+- - -i
+- - -i
+  - ''
+- - -i
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+ornekler:
+- - Üç ince dalı birleştirerek sıkıca yakaladım.
+- - ''
+- - Bu defa Tevfik'i dükkânın kapısında yakaladılar, aynı şeyi ona açtılar.
+- - Kocasını bir kadınla yakalamış.
+- - Kat hasta bakıcısının adama baygın bakışlarını yakaladı Fatma.
+- - Fırtına ile karışık fena bir yağmur yakaladı.
+- - Zehra, Yorgaki'nin müziğini herhangi bir yerinden yakalıyor.
+- - ''
+- - Sayısal Loto'da beşi yakaladım.
+- - Türkiye geçen senenin ihracat rakamlarını yakaladı.
+orneklerkaynak:
+- - Refik Halit Karay
+- - ''
+- - Halide Edip Adıvar
+- - ''
+- - Peride Celal
+- - Aka Gündüz
+- - Attilâ İlhan
+- - ''
+- - ''
+- - ''
+---

@@ -1,0 +1,141 @@
+---
+layout: term
+title: çökmek
+slug: cokmek
+lisan: Türkçe
+anlamlar:
+- Bulunduğu düzeyden aşağı inmek; çukurlaşmak, batmak, obrumak
+- Üzerinde bulunduğu yere yıkılmak
+- ► çömelmek
+- Oturmak, birdenbire oturmak
+- Birinin, bir şeyin üzerine çullanmak
+- Deve, sığır vb. olduğu yere oturmak
+- Şakak, avurt vb. içeri doğru girmek; çukurlaşmak
+- Basmak, yayılmak
+- Sis, duman vb. inerek kaplamak
+- Sarsılıp dinçliğini yitirmek
+- Tortu dibe inmek
+- Son bulmak, yıkılıp dağılmak; göçmek
+- Yoğun bir biçimde duymak
+ozellikler:
+- - nesnesiz
+- - nesnesiz
+  - ''
+- - nesnesiz
+  - ''
+  - -e
+- - nesnesiz
+  - ''
+  - -e
+  - -e
+- - nesnesiz
+  - ''
+  - -e
+  - -e
+  - ''
+- - nesnesiz
+  - ''
+  - -e
+  - -e
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - -e
+  - -e
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - -e
+  - -e
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - -e
+  - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - -e
+  - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+- - nesnesiz
+  - ''
+  - -e
+  - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - ''
+- - nesnesiz
+  - ''
+  - -e
+  - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - ''
+  - mecaz
+- - nesnesiz
+  - ''
+  - -e
+  - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - ''
+  - mecaz
+  - -e
+  - mecaz
+ornekler:
+- - Altımız oynadı, toprak çöktü üstüme. Bağırıyordum. Toprak sıkıştırıyordu.
+- - Bir, bilemedin bir buçuk kulaçlık bir tavan çöktü bana kalırsa…
+- - ''
+- - Soluk soluğa yere çöktü.
+- - ''
+- - Boz renkli bir kaya, tıpkı çökmüş bir hecin sırtını andırıyordu.
+- - Kadının yanakları daha fazla çöktü.
+- - Geceleri bazen öyle bir sessizlik çöküyor ki muharebenin bu yerlerde olduğuna insanın inanamayacağı geliyor.
+- - Alaca karanlıklar çökerken köşk bahçesinin parmaklıklarında görünmektedir.
+- - Şayet iradesiz bir adamsanız az zamanda çürüyüp çökmeniz pek mümkündür.
+- - ''
+- - Bir gün vatan çöktü ve millî mabetler istila edildi.
+- - Mustafa Kemal'in içine ilk defa bu lisede vatan kaygısı çöktü.
+orneklerkaynak:
+- - Yaşar Kemal
+- - Mustafa Necati Sepetçioğlu
+- - ''
+- - Falih Rıfkı Atay
+- - ''
+- - 'Yakup Kadri Karaosmanoğlu '
+- - Halide Edip Adıvar
+- - Necip Fazıl Kısakürek
+- - Salâh Birsel
+- - Refik Halit Karay
+- - ''
+- - Aka Gündüz
+- - Falih Rıfkı Atay
+---

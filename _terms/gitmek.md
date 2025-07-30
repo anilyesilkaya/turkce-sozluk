@@ -1,0 +1,329 @@
+---
+layout: term
+title: gitmek
+slug: gitmek
+lisan: Türkçe
+anlamlar:
+- Bir yere doğru yönelmek; gidedurmak, uzanmak
+- Bir yerden veya bir işten ayrılmak
+- Çıkmak, ulaşmak
+- Belli bir amaçla bir yere devam etmek veya bir işle uğraşmak
+- Sürmek, devam etmek
+- Yakışmak, yaraşmak
+- Tüketilmek, harcanmak
+- Götürülmek, gönderilmek
+- Yeter olmak, yetmek, yetişmek
+- Yürümek, yol almak
+- ► dayanmak
+- Sona ermek
+- Herhangi bir durumda olmak
+- Yok olmak, elden çıkmak
+- ► ölmek
+- ► başvurmak
+- Bir şey zarar görmüş olmak
+- Makine, işlemek, çalışmak
+- ► satılmak
+- ► yapmak
+- Bir duruma, bir sonuca ulaşmak, varmak; yuvarlanmak
+- Değerlendirmek, saymak, karşılamak
+ozellikler:
+- - -e
+- - -e
+  - -den
+- - -e
+  - -den
+  - ''
+- - -e
+  - -den
+  - ''
+  - ''
+- - -e
+  - -den
+  - ''
+  - ''
+  - nesnesiz
+- - -e
+  - -den
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+- - -e
+  - -den
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+- - -e
+  - -den
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - nesnesiz
+- - -e
+  - -den
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+- - -e
+  - -den
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+- - -e
+  - -den
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+- - -e
+  - -den
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+- - -e
+  - -den
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+- - -e
+  - -den
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+- - -e
+  - -den
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+- - -e
+  - -den
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+- - -e
+  - -den
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+- - -e
+  - -den
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+- - -e
+  - -den
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - -den
+- - -e
+  - -den
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - -den
+  - ''
+- - -e
+  - -den
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - -den
+  - ''
+  - mecaz
+- - -e
+  - -den
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - -den
+  - ''
+  - mecaz
+  - yardımcı  fiil
+ornekler:
+- - ''
+- - ''
+- - Bu yol nereye gider?
+- - Her gün çalışmaya gidiyor.
+- - Ama böyle giderse Allah hemen sonunu hayırlara tebdil etsin.
+- - Bu renk ona gitmedi.
+- - Eline geçen paranın çoğu da İstanbul'da çoluğa çocuğa gidiyor.
+- - Haber daha yeni gitti.
+- - İki ton kömür üç ay gider.
+- - Bu at iyi gider.
+- - Bu giysi iki yıl gider.
+- - Yaz gitti, kış geldi.
+- - Yolculuk iyi gidiyor. Bakalım bu iş nasıl gidecek?
+- - Gemiler ve saray hepsi gitti.
+- - Ben giderim adım kalır / Dostlar beni hatırlasın
+- - Mahkemeye gitmek.
+- - Duvarın boyası gitmiş.
+- - Bu saat iyi gidiyor.
+- - Altın kaçtan gidiyor?
+- - Para ayarlamasına gitmek.
+- - Bu işin sonu nereye gider.
+- - Bu iş hoşuma gitmedi, tuhafıma gitti.
+orneklerkaynak:
+- - ''
+- - ''
+- - ''
+- - ''
+- - Memduh Şevket Esendal
+- - ''
+- - Memduh Şevket Esendal
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Falih Rıfkı Atay
+- - Âşık Veysel
+- - ''
+- - ''
+- - ''
+- - Sait Faik Abasıyanık
+- - ''
+- - ''
+- - ''
+---

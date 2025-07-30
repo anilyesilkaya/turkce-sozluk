@@ -1,0 +1,95 @@
+---
+layout: term
+title: tanımak
+slug: tanimak
+lisan: Türkçe
+anlamlar:
+- Daha önce görülen, bilinen bir kimse veya şeyle karşılaşıldığında bunun kim veya ne olduğunu hatırlamak
+- Daha önce görmüş olmak, ilişkisi bulunmak
+- Bir kimse veya şeyle ilgili, doğru ve tam bilgisi bulunmak
+- Bilip ayırmak, seçmek, ayırt etmek
+- Varlığını kabul etmek
+- Boyun eğmek, yargısına uymak
+- Sorumlu bilmek
+- Bir şeyin yapılması, bitirilmesi için belli bir süre vermek
+- Namını duymak
+- Kabul ve tasdik etmek
+ozellikler:
+- - -i
+- - -i
+  - ''
+- - -i
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - hukuk
+- - -i
+  - ''
+  - ''
+  - ''
+  - hukuk
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - hukuk
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - hukuk
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - hukuk
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - hukuk
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+ornekler:
+- - Zarfın üstündeki yazıyı hemen tanıdı.
+- - Onu bir de eski polisler tanır.
+- - Sincapları yakından tanırım.
+- - Oğlan süngerlerin çeşidini zehir gibi tanıyordu.
+- - ''
+- - ''
+- - Ben arkadaşını tanımam, alacağımı senden isterim.
+- - Ona borcunu ödemesi için üç günlük bir süre tanıdım.
+- - ''
+- - ''
+orneklerkaynak:
+- - Halide Edip Adıvar
+- - Sait Faik Abasıyanık
+- - Ahmet Haşim
+- - Halikarnas Balıkçısı
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+---

@@ -1,0 +1,95 @@
+---
+layout: term
+title: patlamak
+slug: patlamak
+lisan: Türkçe
+anlamlar:
+- Nesneler, iç basıncın etkisiyle ve çoğunlukla büyük ses çıkararak dağılmak, infilak etmek
+- Yırtılıp açılmak
+- ► yarılmak
+- Görünür duruma gelmek, ortaya çıkmak, yeşermek
+- Top, taşıt lastiği vb. şeyler değişik nedenlerle havası inmek
+- Ansızın tehlikeli bir şey meydana gelmek
+- Çok sıkılmak, sıkıntı ve sabırsızlığını belli etmek
+- Aşırı tepki göstermek
+- Ansızın bir gürültü duyulmak
+- Herhangi bir durum veya bir değerin yitirilmesine yol açmak, mal olmak
+ozellikler:
+- - nesnesiz
+- - nesnesiz
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+  - mecaz
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - teklifsiz konuşmada
+ornekler:
+- - Dinamit patladı.
+- - Gözlerim gene ayakkabılarıma kaydı, yanları patlamıştı.
+- - Fukaranın hem sağ bileği çıkmış hem davulu patlamıştı.
+- - Tomurcuklar patladı.
+- - ''
+- - Harp patlıyor ve askerlere edebiyatçılık, edebiyatçılara askerlik yapmak düşüyor.
+- - Sanıyorum ki istimi fazla gelmiş kazanlar gibi hırslarından patlayacaklar.
+- - ''
+- - ''
+- - ''
+orneklerkaynak:
+- - ''
+- - Orhan Kemal
+- - Reşat Nuri Güntekin
+- - ''
+- - ''
+- - Necip Fazıl Kısakürek
+- - Osman Cemal Kaygılı
+- - ''
+- - ''
+- - ''
+---

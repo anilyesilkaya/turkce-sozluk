@@ -1,0 +1,141 @@
+---
+layout: term
+title: batmak
+slug: batmak
+lisan: Türkçe
+anlamlar:
+- Bir sıvının üstündeyken içine gömülmek
+- Güneş, Ay ve yıldız Dünya’nın dönüşü dolayısıyla ufkun altına inmek
+- İflas etmek
+- ► kirlenmek
+- Bir yere saplanmak
+- Tedirgin etmemesi gereken şeyler tedirgin etmek
+- Hoşa gitmeyen bir duruma uğramak
+- Devlet, kurum vb. yıkılmak, sona ermek
+- ► çökmek
+- ► dalamak
+- Daha kötü bir duruma uğramak
+- Yıkılmak, egemenliği sona ermek
+- ► dokunmak (I)
+ozellikler:
+- - nesnesiz
+- - nesnesiz
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - -e
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - -e
+  - -e
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - -e
+  - -e
+  - -e
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - -e
+  - -e
+  - -e
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - -e
+  - -e
+  - -e
+  - ''
+  - -e
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - -e
+  - -e
+  - -e
+  - ''
+  - -e
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - -e
+  - -e
+  - -e
+  - ''
+  - -e
+  - ''
+  - mecaz
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - -e
+  - -e
+  - -e
+  - ''
+  - -e
+  - ''
+  - mecaz
+  - mecaz
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - -e
+  - -e
+  - -e
+  - ''
+  - -e
+  - ''
+  - mecaz
+  - mecaz
+  - -e
+  - mecaz
+ornekler:
+- - Sonra hani bir gemimiz batmıştı.
+- - Güneş renksiz bulutlar altında batıyordu.
+- - ''
+- - Üstüm başım battı.
+- - Ayağına yolda diken batmıştı.
+- - Bazı kimselere para batar, sarf edecek yer ararlar.
+- - Abdi Bey'in sabırsız, çabuk parlamaya yatkın mizacına karısının tevekkülü ve sakinliği fena hâlde batıyor.
+- - ''
+- - İçeriye batmış gözleri kadına dikilmişti.
+- - ''
+- - ''
+- - Bizans kurulduğundan battığı tarihe kadar 1125 sene geçmişti.
+- - Onun her sözü bana batar.
+orneklerkaynak:
+- - Sait Faik Abasıyanık
+- - Ömer Seyfettin
+- - ''
+- - ''
+- - Osman Cemal Kaygılı
+- - ''
+- - Attilâ İlhan
+- - ''
+- - Sait Faik Abasıyanık
+- - ''
+- - ''
+- - Yahya Kemal Beyatlı
+- - ''
+---

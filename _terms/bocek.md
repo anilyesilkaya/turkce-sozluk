@@ -1,0 +1,105 @@
+---
+layout: term
+title: böcek
+slug: bocek
+lisan: Türkçe
+anlamlar:
+- Eklem bacaklıların, altı bacaklı, çoğu kanatlı ve vücutları baş, göğüs, karın olarak eklemlerden oluşmuş hayvan sınıfı; haşere, böce, böcü
+- Istakoza benzer, uzunluğu 30-40 santimetre kadar olan, sarı renkli, kısa kıskaçlı, yenilen bir deniz hayvanı
+- Istakoz ve karides sepeti çekmeye yarayan, ince demirden çapa
+- Kelebek, kurt ve tırtılın dışında kalan küçük hayvancıklar
+- ► dinleme cihazı
+- Cep telefonu, bilgisayar vb.ne yüklenen casus yazılım
+- ► gizli kamera
+- Ufak tefek, esmer kimseler için söylenen sevgi sözü
+- Yazılım ve bilgisayar sistemlerinde karşılaşılan hatalar ve işlev bozuklukları
+- Osmanlı Dönemi’nde suçluları yakalamada muhbir olarak kullanılan tövbekâr hırsız veya yankesici
+ozellikler:
+- - isim
+  - hayvan bilimi
+- - isim
+  - hayvan bilimi
+  - ''
+- - isim
+  - hayvan bilimi
+  - ''
+  - ''
+- - isim
+  - hayvan bilimi
+  - ''
+  - ''
+  - ağızlardan
+- - isim
+  - hayvan bilimi
+  - ''
+  - ''
+  - ağızlardan
+  - ''
+- - isim
+  - hayvan bilimi
+  - ''
+  - ''
+  - ağızlardan
+  - ''
+  - ''
+- - isim
+  - hayvan bilimi
+  - ''
+  - ''
+  - ağızlardan
+  - ''
+  - ''
+  - ''
+- - isim
+  - hayvan bilimi
+  - ''
+  - ''
+  - ağızlardan
+  - ''
+  - ''
+  - ''
+  - mecaz
+- - isim
+  - hayvan bilimi
+  - ''
+  - ''
+  - ağızlardan
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - bilişim
+- - isim
+  - hayvan bilimi
+  - ''
+  - ''
+  - ağızlardan
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - bilişim
+  - tarih
+ornekler:
+- - ''
+- - ''
+- - ''
+- - Artık onun yalnızca bir böcek ısırığı olduğunu düşünüyordum.
+- - ''
+- - ''
+- - '... ama o işkencecinin ilişkilerini deşifre etmek üzere odasına bir böcek yerleştirip telefonlarını dinlemeyi de...'
+- - ''
+- - ''
+- - ''
+orneklerkaynak:
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Gülen Kurt Öncel
+- - ''
+- - ''
+- - ''
+---

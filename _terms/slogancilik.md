@@ -1,0 +1,14 @@
+---
+layout: term
+title: slogancılık
+slug: slogancilik
+lisan: Türkçe
+anlamlar:
+- Slogancının işi
+ozellikler:
+- - isim
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

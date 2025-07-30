@@ -1,0 +1,220 @@
+---
+layout: term
+title: bağlamak
+slug: baglamak
+lisan: Türkçe
+anlamlar:
+- İp, bağ veya başka bir araçla bir şeyi bir yere veya birkaç şeyi birbirine tutturmak, birleştirmek
+- Kumaş, ip, tel gibi şeyleri uçlarını birbiri arasından geçirmek suretiyle düğümlemek
+- Yaraya ilaç koyup bezle sarmak
+- Denk yapmak, paket yapmak
+- Anlaşma yapmak
+- Uyulması zorunlu olmak
+- Eklemek, bir araya getirmek, birleştirmek
+- Başka bir işle uğraşamaz durumda olmak
+- Sona erdirmek, bitirmek, tamamlamak
+- Geçişi engellemek
+- Birini söz veya yazı ile bağlamak; taahhüt etmek, angaje etmek
+- Büyü, muska vb.nin aracılığıyla birinin birtakım isteklerini veya yetkinliğini engellemek, yok etmek
+- Yoğurt, yara vb. yüzey üzerinde katman oluşmak; tutmak
+- Gönlünü kazanmak
+- Birinde bir şeye karşı ilgi, istek uyandırarak o şeye ilgi, yakınlık duymasını sağlamak
+- Bütün ilgisini bir yerde yoğunlaştırmak
+ozellikler:
+- - -e
+  - -i
+- - -e
+  - -i
+  - ''
+- - -e
+  - -i
+  - ''
+  - -i
+- - -e
+  - -i
+  - ''
+  - -i
+  - -i
+- - -e
+  - -i
+  - ''
+  - -i
+  - -i
+  - ''
+- - -e
+  - -i
+  - ''
+  - -i
+  - -i
+  - ''
+  - -i
+- - -e
+  - -i
+  - ''
+  - -i
+  - -i
+  - ''
+  - -i
+  - -e
+  - -i
+- - -e
+  - -i
+  - ''
+  - -i
+  - -i
+  - ''
+  - -i
+  - -e
+  - -i
+  - ''
+- - -e
+  - -i
+  - ''
+  - -i
+  - -i
+  - ''
+  - -i
+  - -e
+  - -i
+  - ''
+  - -i
+- - -e
+  - -i
+  - ''
+  - -i
+  - -i
+  - ''
+  - -i
+  - -e
+  - -i
+  - ''
+  - -i
+  - -i
+- - -e
+  - -i
+  - ''
+  - -i
+  - -i
+  - ''
+  - -i
+  - -e
+  - -i
+  - ''
+  - -i
+  - -i
+  - -i
+- - -e
+  - -i
+  - ''
+  - -i
+  - -i
+  - ''
+  - -i
+  - -e
+  - -i
+  - ''
+  - -i
+  - -i
+  - -i
+  - -i
+- - -e
+  - -i
+  - ''
+  - -i
+  - -i
+  - ''
+  - -i
+  - -e
+  - -i
+  - ''
+  - -i
+  - -i
+  - -i
+  - -i
+  - ''
+- - -e
+  - -i
+  - ''
+  - -i
+  - -i
+  - ''
+  - -i
+  - -e
+  - -i
+  - ''
+  - -i
+  - -i
+  - -i
+  - -i
+  - ''
+  - mecaz
+- - -e
+  - -i
+  - ''
+  - -i
+  - -i
+  - ''
+  - -i
+  - -e
+  - -i
+  - ''
+  - -i
+  - -i
+  - -i
+  - -i
+  - ''
+  - mecaz
+  - mecaz
+- - -e
+  - -i
+  - ''
+  - -i
+  - -i
+  - ''
+  - -i
+  - -e
+  - -i
+  - ''
+  - -i
+  - -i
+  - -i
+  - -i
+  - ''
+  - mecaz
+  - mecaz
+  - mecaz
+ornekler:
+- - Gemiyi iskeleye bağlamak.
+- - İpi ipe bağlamak.
+- - Yarayı bağlamak.
+- - Yatakları bağlamak. Eşyayı bağlamak.
+- - İşleri bugün sözleşmeye bağladı.
+- - Anayasa hükümleri, yasama, yürütme ve yargı organlarını, idare makamlarını ve diğer kuruluş ve kişileri bağlayan temel hukuk kurallarıdır.
+- - ''
+- - Bu iş beni bağladı.
+- - ''
+- - Bütün yolları bağlamışlar.
+- - ''
+- - ''
+- - Hem öylesine bir yağmur ki toprağın yüzü kaymak bağladı ve Mehmet'le babasını ‘kaymak kıran’ tırmıklar ile bir hayli uğraştırdı.
+- - Bu davranışınız beni size bağladı.
+- - ''
+- - Kızım, ne yapsak da seni bu eve bağlayabilsek acaba?
+orneklerkaynak:
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Anayasa
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Reşat Enis Aygen
+- - ''
+- - ''
+- - Reşat Nuri Güntekin
+---

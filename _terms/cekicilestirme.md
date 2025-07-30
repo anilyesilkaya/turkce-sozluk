@@ -1,0 +1,14 @@
+---
+layout: term
+title: çekicileştirme
+slug: cekicilestirme
+lisan: Türkçe
+anlamlar:
+- Çekicileştirmek işi; cazipleştirme, cazibeleştirme
+ozellikler:
+- - isim
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

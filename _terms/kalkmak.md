@@ -1,0 +1,284 @@
+---
+layout: term
+title: kalkmak
+slug: kalkmak
+lisan: Türkçe
+anlamlar:
+- Oturmaktayken veya yatmaktayken gitmek üzere yerinden ayrılmak
+- ► doğrulmak
+- Uyanarak yataktan ayrılmak
+- Yukarı doğru yükselmek
+- Taşıtlar yola çıkmak
+- Uçak, helikopter havalanmak
+- Yerinden ayrılıp yol almaya başlamak
+- Hayvan iki art ayağı üzerinde dik durum almak
+- Kabarmak, ayrılmak
+- Derlenip götürülmek
+- Hasta iyileşip yürüyecek duruma gelmek
+- Varlığı, hayatı son bulmak
+- Yok olmak, artık bulunmamak
+- Bir şey yapmaya girişmek
+- Geçerli olmamak, geçerliğini yitirmek, geçmez olmak
+- Uygulanmaz olmak
+- Güncelliğini yitirmek
+- Bir durumdan başka bir duruma geçmek
+- Başka yere gitmek veya taşınmak
+- Ayakta beklemek
+ozellikler:
+- - nesnesiz
+- - nesnesiz
+  - -den
+- - nesnesiz
+  - -den
+  - -den
+- - nesnesiz
+  - -den
+  - -den
+  - ''
+- - nesnesiz
+  - -den
+  - -den
+  - ''
+  - ''
+- - nesnesiz
+  - -den
+  - -den
+  - ''
+  - ''
+  - -den
+- - nesnesiz
+  - -den
+  - -den
+  - ''
+  - ''
+  - -den
+  - ''
+- - nesnesiz
+  - -den
+  - -den
+  - ''
+  - ''
+  - -den
+  - ''
+  - -e
+- - nesnesiz
+  - -den
+  - -den
+  - ''
+  - ''
+  - -den
+  - ''
+  - -e
+  - ''
+- - nesnesiz
+  - -den
+  - -den
+  - ''
+  - ''
+  - -den
+  - ''
+  - -e
+  - ''
+  - ''
+- - nesnesiz
+  - -den
+  - -den
+  - ''
+  - ''
+  - -den
+  - ''
+  - -e
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - -den
+  - -den
+  - ''
+  - ''
+  - -den
+  - ''
+  - -e
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - -den
+  - -den
+  - ''
+  - ''
+  - -den
+  - ''
+  - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - -den
+- - nesnesiz
+  - -den
+  - -den
+  - ''
+  - ''
+  - -den
+  - ''
+  - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - -den
+  - -e
+- - nesnesiz
+  - -den
+  - -den
+  - ''
+  - ''
+  - -den
+  - ''
+  - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - -den
+  - -e
+  - ''
+- - nesnesiz
+  - -den
+  - -den
+  - ''
+  - ''
+  - -den
+  - ''
+  - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - -den
+  - -e
+  - ''
+  - ''
+- - nesnesiz
+  - -den
+  - -den
+  - ''
+  - ''
+  - -den
+  - ''
+  - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - -den
+  - -e
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - -den
+  - -den
+  - ''
+  - ''
+  - -den
+  - ''
+  - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - -den
+  - -e
+  - ''
+  - ''
+  - ''
+  - -e
+- - nesnesiz
+  - -den
+  - -den
+  - ''
+  - ''
+  - -den
+  - ''
+  - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - -den
+  - -e
+  - ''
+  - ''
+  - ''
+  - -e
+  - -e
+  - -den
+- - nesnesiz
+  - -den
+  - -den
+  - ''
+  - ''
+  - -den
+  - ''
+  - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - -den
+  - -e
+  - ''
+  - ''
+  - ''
+  - -e
+  - -e
+  - -den
+  - -e
+ornekler:
+- - Niye kalktınız, biraz daha otursaydınız.
+- - Annem yerinden kalktı, yanıma geldi, bir kolunu uzatarak omzuna doladı.
+- - İstemeye istemeye, altüst olmuş yataktan kalktım.
+- - Terazinin bir gözü inince öbürü kalkar.
+- - Tren saat onda kalktı.
+- - Uçak pistten kalktı.
+- - Çıkın arabaya, kalkacak şimdi, kalacaksınız buracıkta!
+- - At, art ayakları üzerine kalktı.
+- - Masanın kaplaması kalktı.
+- - Ne zaman kalkacağını, nereye gömüleceğini bilmek, bildirmek mümkün değil.
+- - Hasta bir haftaya kadar kalkar.
+- - Halifelik kalktı.
+- - Ortalıktan kar kalkınca gelebilirim.
+- - Gözlüklerini takmadan okumaya kalktı.
+- - Yasanın bu maddesi kalktı.
+- - Sıkıyönetim kalktı.
+- - Bu âdet çoktan kalktı.
+- - Dörtnala kalkmak.
+  - Tırısa kalkmak.
+- - O yıl çok geçmeden piyade taburu bizim ilçeden başka ilçeye kalktı.
+- - Mektepte cezaya kalkmış gibi duruyorsun.
+orneklerkaynak:
+- - ''
+- - Halit Ziya Uşaklıgil
+- - Ömer Seyfettin
+- - ''
+- - ''
+- - ''
+- - Osman Cemal Kaygılı
+- - ''
+- - ''
+- - Memduh Şevket Esendal
+- - ''
+- - ''
+- - ''
+- - Necati Cumalı
+- - ''
+- - ''
+- - ''
+- - ''
+  - ''
+- - Necati Cumalı
+- - Falih Rıfkı Atay
+---

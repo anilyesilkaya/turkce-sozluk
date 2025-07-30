@@ -1,0 +1,200 @@
+---
+layout: term
+title: sarmak
+slug: sarmak
+lisan: Türkçe
+anlamlar:
+- Çevresini çevirmek, çepeçevre dolanmak
+- ► kuşatmak
+- Dolayında yer almak
+- ► kaplamak
+- Bir şeyi üzerine başka bir şey koyarak kaplamak
+- ► kucaklamak
+- Yumak yapmak
+- Şerit, ip vb.ni başka bir şeyin üzerine dolamak
+- Kâğıt veya bir bitki yaprağıyla dürmek
+- Sarılıp tırmanmak
+- Bir şeyi başka bir şeyin içine koyup onunla kaplamak
+- Taşıt tırmanmak, yükseğe doğru çıkmak
+- Saldırmak, hücum etmek
+- Bir görev veya işin yerine getirilmesini başkasına yüklemek
+- Sözle saldırmak; tedirgin etmek
+- Hoşuna gitmek, zevkini okşamak
+ozellikler:
+- - -i
+- - -i
+  - ''
+- - -i
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -i
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -i
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -i
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -i
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - mecaz
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+ornekler:
+- - ''
+- - Gece, ahenk içinde divanımı/ Şenlendirse pırıl pırıl rakkaseler / Gece, gece, her yanımı / Sarsa güller, laleler, menekşeler
+- - ''
+- - Kültür düşüklüğündeki çöküş, yaygın bir hastalık gibi sarar toplumu.
+- - Ah işte tövbe ettik bütün suçlarımızdan / Bir gaflet perdesiydi gözlerimizi saran
+- - ''
+- - İpliği sarmak.
+- - ''
+- - Dolma sarıyorum diye yaprağı parmağıma doladım.
+- - Asma çardağı sardı.
+- - Kitabı kâğıda sarmak.
+- - ''
+- - Faik Efendi biliyordu ki saracaklar hem de fena saracaklar.
+- - ''
+- - Evdekilerin hepsi bana sarıyor.
+- - Bu canlılık, insanı on yıl önce görmüş olduğum muhteşem yazdan daha başka türlü sarıyordu.
+orneklerkaynak:
+- - ''
+- - Halit Fahri Ozansoy
+- - ''
+- - Necati Cumalı
+- - Enis Behiç Koryürek
+- - ''
+- - ''
+- - ''
+- - Hüseyin Rahmi Gürpınar
+- - ''
+- - ''
+- - ''
+- - Memduh Şevket Esendal
+- - ''
+- - ''
+- - Ahmet Hamdi Tanpınar
+---

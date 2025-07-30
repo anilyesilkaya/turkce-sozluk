@@ -1,0 +1,158 @@
+---
+layout: term
+title: aktarmak
+slug: aktarmak
+lisan: Türkçe
+anlamlar:
+- Bir şeyi bir yerden, bir kaptan başka bir yere veya kaba geçirmek
+- Bir şeyin yolunu, yönünü değiştirmek
+- Bir lehçeyi başka bir lehçeye uyarlamak
+- ► bellemek (II)
+- Bir konu, haber vb.ni iletmek, bildirmek
+- Bir kitabı başından sonuna kadar okumak
+- Birinin başka biriyle telefonla konuşmasını sağlamak
+- Çatı kiremitlerinin kırık ve bozuk olanlarının yerlerine sağlamlarını koymak
+- ► alıntılamak
+- Kaynak kişiden derlenen herhangi bir parçayı kitlelere duyurmak ve yaymak
+- Tür değişikliği yapmak
+- Bir veri veya programı bulunduğu yerden bir başka yere taşımak
+- Üretilmiş olan bir enerjiyi, başka organlara iletmek
+ozellikler:
+- - -e
+  - -i
+- - -e
+  - -i
+  - -i
+- - -e
+  - -i
+  - -i
+  - dil bilimi
+- - -e
+  - -i
+  - -i
+  - dil bilimi
+  - ''
+- - -e
+  - -i
+  - -i
+  - dil bilimi
+  - ''
+  - ''
+- - -e
+  - -i
+  - -i
+  - dil bilimi
+  - ''
+  - ''
+  - ''
+- - -e
+  - -i
+  - -i
+  - dil bilimi
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - -i
+  - -i
+  - dil bilimi
+  - ''
+  - ''
+  - ''
+  - ''
+  - -i
+- - -e
+  - -i
+  - -i
+  - dil bilimi
+  - ''
+  - ''
+  - ''
+  - ''
+  - -i
+  - -i
+  - edebiyat
+- - -e
+  - -i
+  - -i
+  - dil bilimi
+  - ''
+  - ''
+  - ''
+  - ''
+  - -i
+  - -i
+  - edebiyat
+  - edebiyat
+- - -e
+  - -i
+  - -i
+  - dil bilimi
+  - ''
+  - ''
+  - ''
+  - ''
+  - -i
+  - -i
+  - edebiyat
+  - edebiyat
+  - edebiyat
+- - -e
+  - -i
+  - -i
+  - dil bilimi
+  - ''
+  - ''
+  - ''
+  - ''
+  - -i
+  - -i
+  - edebiyat
+  - edebiyat
+  - edebiyat
+  - bilişim
+- - -e
+  - -i
+  - -i
+  - dil bilimi
+  - ''
+  - ''
+  - ''
+  - ''
+  - -i
+  - -i
+  - edebiyat
+  - edebiyat
+  - edebiyat
+  - bilişim
+  - teknik
+ornekler:
+- - ''
+- - ''
+- - ''
+- - ''
+- - Derdini size aktarıp arınmış, sizi zehirleyip bırakmıştır.
+- - ''
+- - ''
+- - ''
+- - Onun yerine Salâh Birsel'in bir şiirini aktaracağız.
+- - ''
+- - Romanı dizi filme aktarmak.
+- - ''
+- - ''
+orneklerkaynak:
+- - ''
+- - ''
+- - ''
+- - ''
+- - Haldun Taner
+- - ''
+- - ''
+- - ''
+- - Salâh Birsel
+- - ''
+- - ''
+- - ''
+- - ''
+---

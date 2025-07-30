@@ -1,0 +1,14 @@
+---
+layout: term
+title: şaşırtmaca
+slug: sasirtmaca
+lisan: Türkçe
+anlamlar:
+- Şaşırtmak için yapılan oyun
+ozellikler:
+- - isim
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

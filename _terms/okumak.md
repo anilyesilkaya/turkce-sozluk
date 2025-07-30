@@ -1,0 +1,128 @@
+---
+layout: term
+title: okumak
+slug: okumak
+lisan: Türkçe
+anlamlar:
+- Bir metni sadece harf ve işaretlere bakıp anlamak veya metni seslendirmek
+- Yazılmış bir metnin iletmek istediği şeyleri öğrenmek
+- Bir konuyu öğrenmek için okulda, bir öğretmenin yanında veya yazılı şeyler üzerinde çalışmak, öğrenim görmek
+- Sesli olarak söylemek
+- Şarkı, türkü vb.ni sesli olarak nağme ile söylemek
+- Bir şeyin anlamını çözmek
+- Nazarı önlemek veya gidermek, bir hastanın iyi olmasını, bir işin çözülmesini sağlamak için bazı duaları usulüne göre söylemek
+- Bazı belirtilerle bir anlamı, gizli bir duyguyu anlamak, kavramak
+- Yazı dışındaki işaret ve izleri değerlendirerek çözmek, yorumlamak
+- Sövmek, küfretmek
+- Bir yere çağırmak, davet etmek; okuntu göndermek
+- Anlatmak, ortaya dökmek
+ozellikler:
+- - -i
+- - -i
+  - nesnesiz
+- - -i
+  - nesnesiz
+  - nesnesiz
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - mecaz
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - mecaz
+  - mecaz
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - mecaz
+  - mecaz
+  - nesnesiz
+  - argo
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - mecaz
+  - mecaz
+  - nesnesiz
+  - argo
+  - ağızlardan
+- - -i
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - mecaz
+  - mecaz
+  - nesnesiz
+  - argo
+  - ağızlardan
+  - nesnesiz
+  - argo
+ornekler:
+- - Bana umutsuz bir sesle son raporları okudu.
+- - Gazete bile okumak istemiyorum.
+- - Çabuk dil öğrenmedi, okumak istemedi.
+- - Salon boşalmaya başladı, biz şiirler okuyup dinliyoruz.
+- - ''
+- - Şifre okumak.
+- - ''
+- - Yüzünü benden saklıyor. Niçin? Çehresinde, melalinde aşkının matemini okumayayım diye mi?
+- - ''
+- - ''
+- - ''
+- - 'Komiser delilleri söylemeye başlayınca hırsız bütün bildiklerini okudu. '
+orneklerkaynak:
+- - Falih Rıfkı Atay
+- - Burhan Felek
+- - Halide Edip Adıvar
+- - Refik Halit Karay
+- - ''
+- - ''
+- - ''
+- - Ömer Seyfettin
+- - ''
+- - ''
+- - ''
+- - ''
+---

@@ -1,0 +1,82 @@
+---
+layout: term
+title: parça
+slug: parca
+lisan: Farsça pārçe
+anlamlar:
+- Bir bütünden ayrılan, ayrı sayılan veya artakalan şey; pare
+- Bir bütünden kopma, kırılma, yırtılma vb. yoluyla ayrılmış bölüm; lime, şerha
+- Birkaçı bir araya geldiğinde bir bütünü oluşturan şeylerin her biri; uzuv, modül
+- ► tane
+- ► pasaj
+- Müzik eseri
+- ► nesne
+- Küçümseme ve değersiz sayma bildiren bir söz
+- Güzel, alımlı kız veya kadın
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - müzik
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - müzik
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - müzik
+  - ''
+  - mecaz
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - müzik
+  - ''
+  - mecaz
+  - argo
+ornekler:
+- - Yolun bu parçası bozuk.
+- - Alınacakları bir gece önceden küçük bir karton parçasına yazmıştır.
+- - On parçadan yapılmış bir oda takımı.
+- - Üç parça elbiselik kumaş.
+- - Hayatımın en acı ve tatlı saatleri bunun başında geçti, eserimin en güzel parçalarını onun kenarında yazdım.
+- - ''
+- - Bu defaki gidişimizde, eşyamızın arasında taç gibi değerli bir parça da vardı.
+- - Bir çoban parçasısın, olmasa bile koyun / Daima eğeceksin başkalarına boyun
+- - ''
+orneklerkaynak:
+- - ''
+- - Haldun Taner
+- - ''
+- - ''
+- - Reşat Nuri Güntekin
+- - ''
+- - Ayla Kutlu
+- - Kemalettin Kamu
+- - ''
+---

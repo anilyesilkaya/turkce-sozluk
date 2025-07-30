@@ -1,0 +1,15 @@
+---
+layout: term
+title: aparkat
+slug: aparkat
+lisan: İngilizce uppercut
+anlamlar:
+- Boksta bükük kolla aşağıdan yukarıya doğru çeneye atılan yumruk
+ozellikler:
+- - isim
+  - spor
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

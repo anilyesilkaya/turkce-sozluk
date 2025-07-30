@@ -1,0 +1,19 @@
+---
+layout: term
+title: belgelenmek
+slug: belgelenmek
+lisan: Türkçe
+anlamlar:
+- Belgeleme işine konu olmak
+- İki yıl üst üste aynı sınıfta kalan öğrenci okuldan çıkarılmak
+ozellikler:
+- - nesnesiz
+- - nesnesiz
+  - ''
+ornekler:
+- - Ankara treniyle gelen kadının o odada yattığı belgelenmeden kaldı.
+- - ''
+orneklerkaynak:
+- - Yusuf Atılgan
+- - ''
+---

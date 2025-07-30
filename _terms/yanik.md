@@ -1,0 +1,82 @@
+---
+layout: term
+title: yanık
+slug: yanik
+lisan: Türkçe
+anlamlar:
+- Yanmakta olan
+- Yanmış olan
+- Rengi koyulaşmış
+- Sıkıntı veya hastalıktan iyi gelişmemiş; kavruk
+- Verimsiz, kıraç duruma gelmiş olan
+- Bıkkın, üzüntülü, dertli olan
+- Duygulu, dokunaklı, acılı, etkili olan
+- Yanmış yer, yanmış olan yerde kalan iz
+- Herhangi bir ısıdan meydana gelen doku bozukluğu
+ozellikler:
+- - sıfat
+- - sıfat
+  - ''
+- - sıfat
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+  - isim
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+  - isim
+  - isim
+ornekler:
+- - Binada yanık lamba bırakmayın.
+- - Yanık soğan kokulu bir buhar odayı dolduruyordu.
+- - Kocaman hasır şapkalarının altında sarı saçları uçan, yanık iki genç kız.
+- - Yanık bir çocuk.
+- - ''
+- - ''
+- - Aşk söyletir en yanık türküleri / Ay buluta girdiği gecelerde
+- - Halıdaki yanığı ördürmeli.
+- - ''
+orneklerkaynak:
+- - ''
+- - Reşat Enis Aygen
+- - Sait Faik Abasıyanık
+- - ''
+- - ''
+- - ''
+- - Cahit Sıtkı Tarancı
+- - ''
+- - ''
+---

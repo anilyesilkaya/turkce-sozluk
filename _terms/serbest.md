@@ -1,0 +1,124 @@
+---
+layout: term
+title: serbest
+slug: serbest
+lisan: Farsça serbest
+anlamlar:
+- Hiçbir şarta bağlı olmayan, istediği gibi davranabilen; azade
+- Tutuklu veya bağımlı olmayan; özgür
+- Zamanını istediği gibi kullanabilen, yapacak bir işi olmayan
+- Bazı kurallara bağlı olmayan
+- Rahat hareket eden, rahat konuşan, sıkılgan ve utangaç davranmayan
+- Davranışlarında görgü kurallarını, toplumun verdiği hükümleri fazla umursamayan, rahat hareket eden (kimse)
+- Hareketi herhangi bir biçimde engellenmeyen
+- Kendisine bir şeyi yapıp yapmamakta seçenek tanınmış olan; özgür
+- Girmek için herhangi bir ücret ödemeyi veya belli bir grubun üyesi olmayı gerektirmeme, halka açık olma
+- Rahat hareket ederek, rahat konuşarak, sıkılgan ve utangaç davranmayarak
+- Hiçbir kuvvetin veya etkileşimin etkisi altında olmayan (nesne)
+- Bileşik hâlde bulunmayan (kimyasal element)
+ozellikler:
+- - sıfat
+- - sıfat
+  - ''
+- - sıfat
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - zarf
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - zarf
+  - isim
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - zarf
+  - isim
+  - zarf
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - zarf
+  - isim
+  - zarf
+  - fizik
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - zarf
+  - isim
+  - zarf
+  - fizik
+  - kimya
+ornekler:
+- - ''
+- - ''
+- - Yarın serbestim. İstersen bütün günü beraber geçirebiliriz. Sabahleyin dokuzda Kadıköy iskelesinde buluşalım.
+- - Serbest ticaret. Serbest nazım.
+- - ''
+- - ''
+- - Serbest geçiş
+- - ''
+- - Salı günleri müzeye giriş serbesttir.
+- - Ötekilere de pek serbest davranır isem de onlar benden utanırlar.
+- - ''
+- - ''
+orneklerkaynak:
+- - ''
+- - ''
+- - Refî Cevad Ulunay
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Memduh Şevket Esendal
+- - ''
+- - ''
+---

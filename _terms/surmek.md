@@ -1,0 +1,255 @@
+---
+layout: term
+title: sürmek
+slug: surmek
+lisan: Türkçe
+anlamlar:
+- At, araba vb. için yönetip yürütmek, sevk etmek
+- Başlamış bir iş veya durum devam etmek
+- Önüne katıp götürmek
+- Uzatmak, ileri doğru itmek
+- Dokundurmak, değdirmek
+- Oturduğu, bulunduğu yerden, ülkeden ceza olarak başka bir yer veya ülkeye göndermek; nefyetmek
+- Bir maddeyi bir yüzey üzerine ince bir tabaka olarak yaymak, dökmek, serpmek
+- Bir malı satışa sunmak, piyasaya çıkarmak
+- Yasal olmayan yolla piyasaya para çıkarmak
+- Herhangi bir durum içinde bulunmak
+- Pulluk veya sabanla toprağı işlemek
+- Olmaya devam etmek
+- Zaman geçmek
+- Zaman almak
+- Bitki, ot yetişip ortaya çıkmak, bitmek, yeşermek
+- Olağandan daha çok, daha sık ve sulu dışkı çıkarmak
+- Kovmak, kovalamak, uzaklaştırmak
+- Pencere, kafes kanatları bir tarafa iterek açmak veya kapamak
+ozellikler:
+- - -e
+  - -i
+- - -e
+  - -i
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ticaret
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ticaret
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ticaret
+  - ''
+  - -i
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ticaret
+  - ''
+  - -i
+  - -i
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ticaret
+  - ''
+  - -i
+  - -i
+  - nesnesiz
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ticaret
+  - ''
+  - -i
+  - -i
+  - nesnesiz
+  - nesnesiz
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ticaret
+  - ''
+  - -i
+  - -i
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ticaret
+  - ''
+  - -i
+  - -i
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - bitki bilimi
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ticaret
+  - ''
+  - -i
+  - -i
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - bitki bilimi
+  - nesnesiz
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ticaret
+  - ''
+  - -i
+  - -i
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - bitki bilimi
+  - nesnesiz
+  - -i
+  - -den
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ticaret
+  - ''
+  - -i
+  - -i
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - bitki bilimi
+  - nesnesiz
+  - -i
+  - -den
+  - ''
+ornekler:
+- - Azapların güneş görmeyen, erkeklerden saklanan güzel kızları şimdi üstlerine eski elbiselerini giymişler, başlarına yırtık şallarını örtmüşler, kimisi araba sürüyor, kimisi yerde yürüyor.
+- - ''
+- - Koyunları sürmek.
+- - Kahveyi ısıtıyor, suyu dolduruyor, cezveyi sürüyor, fincanı boşaltıyor.
+- - Yüzümü saçlarına sürmek için başımı eğdim.
+- - Mütarekede İngilizler onu Malta'ya sürdüler.
+- - Avucuna doldurup kokluyor; ensesine, şakaklarına, boynuna sürüyor.
+- - Satılamayan ne kadar bayat, bozuk mal varsa pansiyonerlere sürerler.
+- - ''
+- - Dört duvar arasında bir memur hayatı sürüyordu.
+- - Öküzünün biri ölünce tarlasını süremedi.
+- - Baygınlığım ne kadar sürdü bilmiyorum.
+- - Çok sürmez, her şey düzelir.
+- - Her odanın ziyareti bir saat sürmüştü.
+- - Bu gölgeli yerlerde otlar bütün bir yaz mevsimi yeniden yeniye sürer, rutubetli toprakta bir bir arkasına yoncalar fışkırır, çayırlar kabarırdı.
+- - ''
+- - ''
+- - ''
+orneklerkaynak:
+- - Müstecib Ülküsal
+- - ''
+- - ''
+- - Memduh Şevket Esendal
+- - Hüseyin Cahit Yalçın
+- - Yusuf Ziya Ortaç
+- - Refik Halit Karay
+- - Hüseyin Rahmi Gürpınar
+- - ''
+- - Yusuf Ziya Ortaç
+- - Ömer Seyfettin
+- - Aka Gündüz
+- - ''
+- - Ahmet Haşim
+- - Refik Halit Karay
+- - ''
+- - ''
+- - ''
+---

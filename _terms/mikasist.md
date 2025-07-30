@@ -1,0 +1,15 @@
+---
+layout: term
+title: mikaşist
+slug: mikasist
+lisan: Fransızca micaschiste
+anlamlar:
+- Küçük kuvars billurlarıyla mikadan oluşmuş, yaprak biçiminde başkalaşmış kaya
+ozellikler:
+- - isim
+  - jeoloji
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

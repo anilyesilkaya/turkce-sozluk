@@ -1,0 +1,82 @@
+---
+layout: term
+title: fitil
+slug: fitil
+lisan: Arapça fetīl
+anlamlar:
+- Lambada, kandilde ve mumda yağın, çakmakta benzinin yanmasını sağlayan, türlü biçimlerde bükülmüş veya dokunmuş pamuktan yapılan genellikle yağ çekici madde
+- Derin yaraların tedavisinde, yara içine salınan steril gazlı bez şeridi
+- Anüse konulan donmuş yağ kıvamında ve koni biçiminde ilaç
+- Eskiden topları ve şimdi lağımları ateşlemekte kullanılan kaytan biçiminde tutuşturucu madde
+- Kumaşın altına kaytan biçiminde bükülmüş bir şey koyup üstten dikerek yapılan kabartma yol
+- Koltuk, sandalye vb. oturulan eşyanın yapımında dikiş veya çivileri gizlemekte kullanılan şerit
+- Yollu bir biçimde dokunmuş kumaş
+- Elli kâğıtla oynanan ve en az sayısı olanın kazanması kuralına dayanan bir iskambil oyunu
+- 0,0125 gram olan ağırlık ölçü birimi
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - eskimiş
+ornekler:
+- - Lambanın fitili biraz daha açılmış.
+- - Fitiller işliyor azgın yarada
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Fitil oynarken kâğıtları bir müddet masaya bırakır.
+- - ''
+orneklerkaynak:
+- - Yusuf Ziya Ortaç
+- - Halk türküsü
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Sait Faik Abasıyanık
+- - ''
+---

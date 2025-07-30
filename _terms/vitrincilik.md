@@ -1,0 +1,19 @@
+---
+layout: term
+title: vitrincilik
+slug: vitrincilik
+lisan: Türkçe
+anlamlar:
+- Vitrincinin yaptığı iş
+- Vitrinci olma durumu
+ozellikler:
+- - isim
+- - isim
+  - ''
+ornekler:
+- - ''
+- - ''
+orneklerkaynak:
+- - ''
+- - ''
+---

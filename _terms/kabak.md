@@ -1,0 +1,93 @@
+---
+layout: term
+title: kabak
+slug: kabak
+lisan: Türkçe
+anlamlar:
+- Kabakgillerden, sürüngen gövdeli, sarı çiçekli, birçok türü olan bir bitki (Cucurbita)
+- Bu bitkinin türlerine göre yemeği ve tatlısı yapılan ürünü
+- Esrarkeşlerin kullandığı bir tür nargile
+- ► kabak kemane
+- Ham, tatsız (kavun, karpuz)
+- Tüysüz, dazlak olan
+- Dişleri aşınarak yüzeyi düzleşmiş olan (taşıt lastiği)
+- Bilgisiz, görgüsüz, kaba olan
+- Kısa boynuzlu hayvan
+ozellikler:
+- - isim
+  - bitki bilimi
+- - isim
+  - bitki bilimi
+  - bitki bilimi
+- - isim
+  - bitki bilimi
+  - bitki bilimi
+  - ''
+- - isim
+  - bitki bilimi
+  - bitki bilimi
+  - ''
+  - müzik
+- - isim
+  - bitki bilimi
+  - bitki bilimi
+  - ''
+  - müzik
+  - sıfat
+- - isim
+  - bitki bilimi
+  - bitki bilimi
+  - ''
+  - müzik
+  - sıfat
+  - sıfat
+- - isim
+  - bitki bilimi
+  - bitki bilimi
+  - ''
+  - müzik
+  - sıfat
+  - sıfat
+  - sıfat
+- - isim
+  - bitki bilimi
+  - bitki bilimi
+  - ''
+  - müzik
+  - sıfat
+  - sıfat
+  - sıfat
+  - sıfat
+  - mecaz
+- - isim
+  - bitki bilimi
+  - bitki bilimi
+  - ''
+  - müzik
+  - sıfat
+  - sıfat
+  - sıfat
+  - sıfat
+  - mecaz
+  - ağızlardan
+ornekler:
+- - ''
+- - ''
+- - ''
+- - Siperin içinde birkaç nefer ayakta ileriye bakıyor, öbürleri aşağı oturmuş konuşuyorlar, gülüyorlar, türkü söylüyorlar, kabak çalıyorlar.
+- - ''
+- - Kaba kabak gibi tıraşlı!
+- - ''
+- - ''
+- - ''
+orneklerkaynak:
+- - ''
+- - ''
+- - ''
+- - Ömer Seyfettin
+- - ''
+- - Halide Edip Adıvar
+- - ''
+- - ''
+- - ''
+---

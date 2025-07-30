@@ -1,0 +1,95 @@
+---
+layout: term
+title: yük
+slug: yuk
+lisan: Türkçe
+anlamlar:
+- Araba, hayvan vb.nin taşıdığı şeylerin hepsi
+- Bir şeyin ağırlığı
+- Araba, hayvan vb.nin taşıyabildiği miktar
+- ► eşya
+- Birinin üzerine almak zorunda kaldığı ağır görev; hamule
+- Tedirginlik veren şey
+- Bir cismin yüzeyinde biriken elektrik miktarı
+- Yüz bin kuruşluk mal veya tutar
+- Doğacak bebek
+- ► yüklük
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - mecaz
+- - isim
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+- - isim
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+  - fizik
+- - isim
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+  - fizik
+  - tarih
+- - isim
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+  - fizik
+  - tarih
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+  - fizik
+  - tarih
+  - ''
+  - eskimiş
+ornekler:
+- - Çölde yük götüren vasıta develer, insan taşıyan vasıta hecinlerdir.
+- - ''
+- - Bir araba yükü odun.
+- - Bütün yükü bu bavul.
+- - Ben bu yükün altına giremem. Bu yüke herkes katlanamaz.
+- - ''
+- - ''
+- - Mademki öyledir, bir yük getirip satan herkes iki akçe versin.
+- - ''
+- - Haydi şu yüke giriver!..
+orneklerkaynak:
+- - Falih Rıfkı Atay
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Tarık Buğra
+- - ''
+- - Sait Faik Abasıyanık
+---

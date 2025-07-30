@@ -1,0 +1,15 @@
+---
+layout: term
+title: dağ servisi
+slug: dag-servisi
+lisan: Türkçe
+anlamlar:
+- ► sedir (II)
+ozellikler:
+- - isim
+  - bitki bilimi
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

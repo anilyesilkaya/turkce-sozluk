@@ -1,0 +1,14 @@
+---
+layout: term
+title: tavsız
+slug: tavsiz
+lisan: Türkçe
+anlamlar:
+- Tavlanmamış, tav verilmemiş, henüz işlenecek kıvama gelmemiş
+ozellikler:
+- - sıfat
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

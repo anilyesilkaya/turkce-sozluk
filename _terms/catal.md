@@ -1,0 +1,82 @@
+---
+layout: term
+title: çatal
+slug: catal
+lisan: Türkçe
+anlamlar:
+- Yemek yerken kullanılan iki, üç veya dört uzun dişli çoğunlukla metal araç
+- İki veya daha çok kola ayrılan değnek
+- Yol, ağaç gibi kollara ayrılan şeylerin ayrılma yeri
+- Dallı olan şeylerin her kolu
+- ► dirgen
+- Bir tür olta iğnesi
+- Ucu kollara ayrılmış
+- İki taraflı
+- İki anlamlı, iki türlü anlaşılabilir
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - sıfat
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - sıfat
+  - sıfat
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - sıfat
+  - sıfat
+  - sıfat
+ornekler:
+- - Çatalı elinden düştü, ağzı açık kaldı.
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Çatal yol.
+- - Evlerinin önü çatal pınarlar / İçerler suyunu beni anarlar
+- - Çatal söz.
+orneklerkaynak:
+- - Peyami Safa
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Halk türküsü
+- - ''
+---

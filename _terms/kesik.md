@@ -1,0 +1,110 @@
+---
+layout: term
+title: kesik
+slug: kesik
+lisan: Türkçe
+anlamlar:
+- Kesilmiş olan
+- Kesilerek bozulmuş olan (süt)
+- ► kısa
+- ► çökelek
+- Gazete, dergi vb.nden kesilmiş yazı; kupür
+- Kesilmiş olan yer
+- ► aralıklı
+- Takım kadrosuna alınmamış (oyuncu)
+- Parası olmayan
+- Tutkun, hayran olan
+- Tarla, bağ ve bahçe çevresine açılan hendek
+ozellikler:
+- - sıfat
+- - sıfat
+  - ''
+- - sıfat
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - isim
+- - sıfat
+  - ''
+  - ''
+  - isim
+  - isim
+- - sıfat
+  - ''
+  - ''
+  - isim
+  - isim
+  - isim
+- - sıfat
+  - ''
+  - ''
+  - isim
+  - isim
+  - isim
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - isim
+  - isim
+  - isim
+  - ''
+  - spor
+- - sıfat
+  - ''
+  - ''
+  - isim
+  - isim
+  - isim
+  - ''
+  - spor
+  - argo
+- - sıfat
+  - ''
+  - ''
+  - isim
+  - isim
+  - isim
+  - ''
+  - spor
+  - argo
+  - argo
+- - sıfat
+  - ''
+  - ''
+  - isim
+  - isim
+  - isim
+  - ''
+  - spor
+  - argo
+  - argo
+  - isim
+  - ağızlardan
+ornekler:
+- - Biri saçları kesik, gözleri ayrık, dişleri dökük fakat çok dinç ve güzel bir nineydi.
+- - Kesik süt.
+- - ''
+- - ''
+- - İçinde bir gazete kesiği var.
+- - Parmağındaki kesikler.
+- - Derinlerden gelen kesik düdük sesleri arasında, evimin ve çocuklarımın çığlığını yakalamak için bir hayli uğraştım.
+- - ''
+- - ''
+- - ''
+- - ''
+orneklerkaynak:
+- - Halide Edip Adıvar
+- - ''
+- - ''
+- - ''
+- - Falih Rıfkı Atay
+- - ''
+- - Necip Fazıl Kısakürek
+- - ''
+- - ''
+- - ''
+- - ''
+---

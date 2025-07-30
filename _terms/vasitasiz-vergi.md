@@ -1,0 +1,15 @@
+---
+layout: term
+title: vasıtasız vergi
+slug: vasitasiz-vergi
+lisan: Türkçe
+anlamlar:
+- Vergi mükellefi önceden bilinen vergi
+ozellikler:
+- - isim
+  - hukuk
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

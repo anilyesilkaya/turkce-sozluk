@@ -1,0 +1,150 @@
+---
+layout: term
+title: çakmak
+slug: cakmak
+lisan: Türkçe
+anlamlar:
+- Vurarak sokup yerleştirmek
+- Çivi ile tutturmak
+- Kazık çakıp hayvan bağlamak
+- Bir şeyi başka bir şeye sürtmek, vurmak veya çarpmak
+- Parıldamak, ışık vermek
+- Bir şey saplamak
+- Sezinlemek, anlamak, farkına varmak
+- İçki içmek
+- Anlamak, bilmek
+- ► vurmak
+- Sınavda başarısız olmak
+- Kabul etmeyeceği bir şeyi kurnazlıkla kabul etmesini sağlamak
+ozellikler:
+- - -e
+  - -i
+- - -e
+  - -i
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - mecaz
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - mecaz
+  - teklifsiz konuşmada
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - mecaz
+  - teklifsiz konuşmada
+  - nesnesiz
+  - argo
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - mecaz
+  - teklifsiz konuşmada
+  - nesnesiz
+  - argo
+  - -den
+  - argo
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - mecaz
+  - teklifsiz konuşmada
+  - nesnesiz
+  - argo
+  - -den
+  - argo
+  - -i
+  - argo
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - mecaz
+  - teklifsiz konuşmada
+  - nesnesiz
+  - argo
+  - -den
+  - argo
+  - -i
+  - argo
+  - -den
+  - argo
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - mecaz
+  - teklifsiz konuşmada
+  - nesnesiz
+  - argo
+  - -den
+  - argo
+  - -i
+  - argo
+  - -den
+  - argo
+  - argo
+ornekler:
+- - Çiviyi tahtaya çakmak.
+- - İsa'nın ruhu eğer bugün içinden çıkmış olduğu yere inerek bu sahneyi görseydi, kim bilir patriklerini hangi oduna çakardı.
+- - Atı çayıra çakmak.
+- - Çakıyor, kenarlarından fısır fısır ışıklar dağılıp kararıyor. Çakıyor, ateş almıyor.
+- - ''
+- - ''
+- - Vallahi çaktı mı çakmadı mı anlayamadım. Parasını aldı, tüydü.
+- - ''
+- - Ay, bu kadın İngilizceden de çakıyor mu?
+- - ''
+- - ''
+- - Kalp parayı birisine çakmak.
+orneklerkaynak:
+- - ''
+- - Falih Rıfkı Atay
+- - ''
+- - Sevinç Çokum
+- - ''
+- - ''
+- - Sait Faik Abasıyanık
+- - ''
+- - Nezihe Araz
+- - ''
+- - ''
+- - ''
+---

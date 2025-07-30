@@ -1,0 +1,109 @@
+---
+layout: term
+title: yürümek
+slug: yurumek
+lisan: Türkçe
+anlamlar:
+- Adım atarak ilerlemek, gitmek
+- Karada veya suda, herhangi bir yöne doğru sürekli olarak yer değiştirmek
+- Çocuk ayakları üzerinde gezecek duruma gelmek
+- Yol almak
+- Bir yere gelmek, bir yere ulaşmak, kaplamak
+- Üzerine doğru gitmek, akın etmek, saldırmak, hücum etmek
+- Faiz, hesap edilmek, işlemek
+- Geçmek, ilerlemek, değişmek
+- Bir işte ileri gitmek
+- Gereği gibi yapılmak veya ilerlemek
+- ► ölmek
+ozellikler:
+- - nesnesiz
+- - nesnesiz
+  - -e
+- - nesnesiz
+  - -e
+  - ''
+- - nesnesiz
+  - -e
+  - ''
+  - ''
+- - nesnesiz
+  - -e
+  - ''
+  - ''
+  - -e
+- - nesnesiz
+  - -e
+  - ''
+  - ''
+  - -e
+  - -e
+- - nesnesiz
+  - -e
+  - ''
+  - ''
+  - -e
+  - -e
+  - ''
+- - nesnesiz
+  - -e
+  - ''
+  - ''
+  - -e
+  - -e
+  - ''
+  - ''
+- - nesnesiz
+  - -e
+  - ''
+  - ''
+  - -e
+  - -e
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - -e
+  - ''
+  - ''
+  - -e
+  - -e
+  - ''
+  - ''
+  - ''
+  - mecaz
+- - nesnesiz
+  - -e
+  - ''
+  - ''
+  - -e
+  - -e
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - argo
+ornekler:
+- - Kafası yerde, kamburunu çıkarmış, yürüyordu.
+- - Buz dağları güneye yürümüş.
+- - Çocuk erken yürüdü.
+- - Biraz yürüyelim, geç kaldık.
+- - Dallara su yürümek.
+- - Asker kaleye yürüdü.
+- - Bu paranın faizi yüzde beşten mi yürüyor?
+- - Doktor o hayatın dışında kalmış. Bu ne demek? Bu, o demek ki hayat yürümüş gitmiş, birlikte yürüyememiş.
+- - ''
+- - Bu evliliğin yürümeyeceği daha başından anlaşılmıştı ama belki yürütürüz, demiştim.
+- - O da yürümüş.
+orneklerkaynak:
+- - Haldun Taner
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Memduh Şevket Esendal
+- - ''
+- - Zeyyat Selimoğlu
+- - ''
+---

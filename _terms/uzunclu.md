@@ -1,0 +1,14 @@
+---
+layout: term
+title: üzünçlü
+slug: uzunclu
+lisan: Türkçe
+anlamlar:
+- ► üzüntülü
+ozellikler:
+- - sıfat
+ornekler:
+- - İçlerinden biri titrek ve üzünçlü bir sesle hicazkâr üzerinde gezinmeye başladı.
+orneklerkaynak:
+- - Salâh Birsel
+---

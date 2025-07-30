@@ -1,0 +1,95 @@
+---
+layout: term
+title: karışmak
+slug: karismak
+lisan: Türkçe
+anlamlar:
+- İki veya ikiden çok şey bir araya gelip birbirinin içinde dağılmak, birbirinin içine girmek
+- Düzensiz, dağınık olmak
+- Duruluğunu yitirmek; bulanmak
+- Açıklığını yitirmek, anlaşılması güçleşmek
+- Müdahale etmek
+- Engellemek, araya girmek
+- Bir araya gelmek, katılmak
+- İlgilenmek, el atmak
+- Yetkisinde bulunmak, bakmak, iş edinmek, işi olmak
+- ► karılmak
+ozellikler:
+- - -e
+- - -e
+  - ''
+- - -e
+  - ''
+  - nesnesiz
+- - -e
+  - ''
+  - nesnesiz
+  - nesnesiz
+- - -e
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+- - -e
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+- - -e
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+- - -e
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+ornekler:
+- - Araba sallana sallana içim bağrım birbirine karıştı.
+- - Yanıma her tarafı titreyerek sapsarı, sakal bıyığa karışmış bir hâlde geldi.
+- - Hava birden karıştı. Zihnim karıştı.
+- - Kaymakam işin karıştığını anlayarak...
+- - Sokakta herkes kadın kıyafetine karışmak hakkını kendinde görürdü.
+- - ''
+- - Bingazi'deki muharebeye karışmak için beraber yola çıktığım arkadaş Kahire'de hastalanmıştı.
+- - Ben, dedim, başkalarının soyadlarına nasıl karışabilirim?
+- - Bu işe belediye karışır.
+- - ''
+orneklerkaynak:
+- - Hüseyin Rahmi Gürpınar
+- - Refik Halit Karay
+- - ''
+- - Memduh Şevket Esendal
+- - Falih Rıfkı Atay
+- - ''
+- - Ömer Seyfettin
+- - Memduh Şevket Esendal
+- - ''
+- - ''
+---

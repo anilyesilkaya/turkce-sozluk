@@ -1,0 +1,103 @@
+---
+layout: term
+title: takmak
+slug: takmak
+lisan: Türkçe
+anlamlar:
+- Bir şeyi başka bir yere uygun bir biçimde tutturmak, iliştirmek, geçirmek
+- Düğün vb. törenlerde takı armağan etmek
+- Ad, lakap koymak
+- ► kuşanmak
+- Kendisiyle birlikte götürmek, yanına almak veya arkasından izletmek
+- Biriyle olumsuz olarak uğraşmak
+- Borç bırakmak
+- Önemsemek, önem vermek; tınmak
+- Sınavını başaramamak
+ozellikler:
+- - -i
+- - -i
+  - -e
+  - nesnesiz
+- - -i
+  - -e
+  - nesnesiz
+  - -e
+  - -i
+- - -i
+  - -e
+  - nesnesiz
+  - -e
+  - -i
+  - nesnesiz
+- - -i
+  - -e
+  - nesnesiz
+  - -e
+  - -i
+  - nesnesiz
+  - ''
+- - -i
+  - -e
+  - nesnesiz
+  - -e
+  - -i
+  - nesnesiz
+  - ''
+  - -e
+  - mecaz
+- - -i
+  - -e
+  - nesnesiz
+  - -e
+  - -i
+  - nesnesiz
+  - ''
+  - -e
+  - mecaz
+  - argo
+- - -i
+  - -e
+  - nesnesiz
+  - -e
+  - -i
+  - nesnesiz
+  - ''
+  - -e
+  - mecaz
+  - argo
+  - argo
+- - -i
+  - -e
+  - nesnesiz
+  - -e
+  - -i
+  - nesnesiz
+  - ''
+  - -e
+  - mecaz
+  - argo
+  - argo
+  - -den
+  - argo
+  - -de
+ornekler:
+- - Gözlüğünü takıp masaya eğildi.
+- - Geline pırlanta yüzük takmışlar.
+- - Ona bu adı kim takmıştır, ne zaman takmıştır, bilemiyor.
+- - Kılıç takmak.
+- - Arabaya hafiye kıyafetinde polis memurları da takıyorlar.
+- - Matematik öğretmeni ona taktığı için dersten kaldı.
+- - Bu eve asilzadelerin biri girip öteki giderdi. Giden kirayı takar, gelen ortalığı kasıp kavururdu.
+- - Dün koskoca bir mebus kızıyken, bir zamanların Şalvarlı Nuriyesi'ni takar mıyım?
+- - Bütün derslerden takarak sınıfta kaldı.
+orneklerkaynak:
+- - Refik Halit Karay
+- - ''
+- - Haldun Taner
+- - ''
+- - Yusuf Ziya Ortaç
+- - ''
+- - Peyami Safa
+- - Adalet Ağaoğlu
+- - ''
+---

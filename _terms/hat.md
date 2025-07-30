@@ -1,0 +1,82 @@
+---
+layout: term
+title: hat
+slug: hat
+lisan: Arapça ḫaṭṭ
+anlamlar:
+- ► çizgi
+- ► yazı (I)
+- Ulaşım sağlayan bir taşıtın uğradığı yerlerin bütünü
+- Elektrik akımı taşıyan tel veya kablo sistemi
+- ► kanal
+- Savunma veya saldırma amacıyla bir araya getirilmiş asker dizisi
+- Arap alfabesiyle güzel yazı yazma sanatı ve bu biçimde yazılmış yazı
+- Yüzü biçimlendiren çizgi veya kırışıklık
+- ► biçim (II)
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+ornekler:
+- - ''
+- - ''
+- - Demir yolu hattı. Otobüs hattı.
+- - Bir kablodan muhtelif hatlar çıkar.
+- - ''
+- - Dalga dalga ilerleyen hücum hatlarımız birinci düşman siperlerine girdi.
+- - ''
+- - Kumral bıyıkları ve ölçülü yüz hatlarıyla her zamanki kadar yakışıklıydı.
+- - Vücut hatlarını korumak lazım.
+orneklerkaynak:
+- - ''
+- - ''
+- - ''
+- - Sait Faik Abasıyanık
+- - ''
+- - Aka Gündüz
+- - ''
+- - İhsan Oktay Anar
+- - ''
+---

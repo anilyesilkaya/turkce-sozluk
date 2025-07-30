@@ -1,0 +1,82 @@
+---
+layout: term
+title: çatı
+slug: cati
+lisan: Türkçe
+anlamlar:
+- Bir yapının, bir evin damını kuran parçaların bütünü; sakaf
+- Birbirine çatılmış, çakılmış şeylerin bütünü
+- Yapının tavanı ile damı arasındaki kullanılan yer
+- İnsan ve hayvanda iskeletin kuruluşu
+- Barınılan, sığınılan yer
+- Belli bir maksada yönelik kimselerin oluşturduğu birlik
+- 'Fiilin, sözlük anlamı değişmeden belirli eklerle genişletilerek cümledeki özne ve nesne ile olan bağlantısında uğradığı yeni durumu; bina: sevilmek (sev-il-) yazdırmak (yaz-dır-), süslenmek (süs-le-n-), bakışmak (bak-ış-) vb'
+- Hikâye, roman, piyes vb. edebî türlerde olay örgüsü; kurgu
+- Bir yapıyı örten ve eğik yüzeyleri olan damın tahtadan iç yapısı
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - mecaz
+- - isim
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+- - isim
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+  - dil bilgisi
+- - isim
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+  - dil bilgisi
+  - edebiyat
+- - isim
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+  - dil bilgisi
+  - edebiyat
+  - mimarlık
+ornekler:
+- - Islak duvarların, rüzgâr vurdukça çatırdayan çatıların altında insanların içi geçti.
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Halit Ziya Uşaklıgil'in, Yakup Kadri Karaosmanoğlu'nun, Reşat Nuri Güntekin'in romanlarındaki sağlam çatıyı onunkilerde bulamazdınız.
+- - ''
+orneklerkaynak:
+- - Lâtife Tekin
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Haldun Taner
+- - ''
+---

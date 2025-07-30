@@ -1,0 +1,14 @@
+---
+layout: term
+title: gıcırdatılmak
+slug: gicirdatilmak
+lisan: Türkçe
+anlamlar:
+- Gıcırdatma işi yapılmak
+ozellikler:
+- - nesnesiz
+ornekler:
+- - Yumruklar kürsüyü ve rahleleri gümletiyor, yüzler kıpkırmızı kesiliyor, dişler gıcırdatılıyordu.
+orneklerkaynak:
+- - Tarık Buğra
+---

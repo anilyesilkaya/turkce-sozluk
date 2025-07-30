@@ -1,0 +1,91 @@
+---
+layout: term
+title: takılmak
+slug: takilmak
+lisan: Türkçe
+anlamlar:
+- Takma işi yapılmak
+- Bir yere iliştikten veya dokunduktan sonra oradan kurtulamamak
+- Engelle karşılaşıp geçici olarak işlemez duruma gelmek
+- Bir yerde bir süre kalmak
+- Olumsuz veya aksayan, eksik bir yanını görerek üstünde durmak
+- Kızdırmak, üzmek, şaşırtmak amacıyla şaka yollu konuşmak
+- Biriyle, bir toplulukla sık sık birlikte olmak, onlara katılmak
+- Kahvehane, meyhane vb.ne sık sık gitmek, eğlenmek
+- Birinin sürekli peşinden gitmek
+ozellikler:
+- - nesnesiz
+- - nesnesiz
+  - -e
+- - nesnesiz
+  - -e
+  - -e
+- - nesnesiz
+  - -e
+  - -e
+  - -e
+- - nesnesiz
+  - -e
+  - -e
+  - -e
+  - -e
+  - mecaz
+- - nesnesiz
+  - -e
+  - -e
+  - -e
+  - -e
+  - mecaz
+  - -e
+  - mecaz
+- - nesnesiz
+  - -e
+  - -e
+  - -e
+  - -e
+  - mecaz
+  - -e
+  - mecaz
+  - -e
+- - nesnesiz
+  - -e
+  - -e
+  - -e
+  - -e
+  - mecaz
+  - -e
+  - mecaz
+  - -e
+  - -e
+- - nesnesiz
+  - -e
+  - -e
+  - -e
+  - -e
+  - mecaz
+  - -e
+  - mecaz
+  - -e
+  - -e
+  - -e
+ornekler:
+- - O gece üst katla bizim odayı birleştiren merdivenin üstüne koca kapak takıldı.
+- - Önünü çok iyi göremeyen hayvanın ayağı bir taşa takıldı.
+- - İğne bir müddetten beri plağın bozuk yerine takılmış, ha babam ha, bir melodiyi tekrar edip duruyordu.
+- - Yolda bir arkadaşına takıldı.
+- - Son günlerde bir de usta sözüne takılır oldum.
+- - İstasyon memuru onun şehre seyrek indiğini bildiğinden her seferinde takılır.
+- - ''
+- - ''
+- - ''
+orneklerkaynak:
+- - Ayla Kutlu
+- - Osman Cemal Kaygılı
+- - Haldun Taner
+- - ''
+- - Nezihe Meriç
+- - Haldun Taner
+- - ''
+- - ''
+- - ''
+---

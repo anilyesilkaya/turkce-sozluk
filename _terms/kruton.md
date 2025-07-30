@@ -1,0 +1,14 @@
+---
+layout: term
+title: kruton
+slug: kruton
+lisan: Fransızca croûton
+anlamlar:
+- Yağda veya fırında kızartılan küçük küp biçimindeki ekmek parçası
+ozellikler:
+- - isim
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

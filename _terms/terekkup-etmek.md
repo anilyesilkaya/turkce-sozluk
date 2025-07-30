@@ -1,0 +1,14 @@
+---
+layout: term
+title: terekküp etmek
+slug: terekkup-etmek
+lisan: Türkçe
+anlamlar:
+- bileşmek
+ozellikler:
+- - ''
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

@@ -1,0 +1,304 @@
+---
+layout: term
+title: iş
+slug: is
+lisan: Türkçe
+anlamlar:
+- Bir sonuç elde etmek, herhangi bir şey ortaya koymak için güç harcayarak yapılan etkinlik, çalışma
+- Bir değer yaratan emek
+- Birinden istenen hizmet veya birine verilen görev
+- Sanayi, ticaret, tarım, maliye vb. alanlara ilişkin ekonomik etkinliklerin bütünü
+- Kamu yararına yapılan işler
+- Herhangi bir yere düzen verici, günlük yaşayışı sağlayıcı her türlü çalışma
+- Geçim sağlamak için herhangi bir alanda yapılan çalışma, meslek
+- Ticari anlaşma
+- Herhangi bir maksatla kurulan düzen
+- Bazı deyimlerde "yarar, çıkar" anlamında kullanılan bir söz
+- Yapılan şey, davranış
+- Nakış, örgü, makrome gibi elde yapılan şey
+- Emek, işçilik, ustalık
+- Bir kimsenin uğraştığı, yerine getirmeye çalıştığı şey
+- Bir kimseye özgü olan görüş, anlayış
+- Başarılı çalışma yapma yeteneği
+- Üzerinde çalışılan veya bir çalışma sonucunda ortaya çıkan şey
+- -e bağlı olan, … ile ilgili olan
+- Bir sonuca bağlanması, çözülmesi gerekli sorun
+- Gizli neden veya maksat
+- Bir kuvvetin uygulanma noktasını hareket ettirirken harcadığı güç
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - sıfat
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - sıfat
+  - mecaz
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - sıfat
+  - mecaz
+  - mecaz
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - sıfat
+  - mecaz
+  - mecaz
+  - fizik
+ornekler:
+- - Bu iş bittikten sonra hocanın çehresi ve sesi gene bir anda tatlılaştı, şoföre ‘çek evladım’ dedi.
+- - ''
+- - Şimdi Mısır'a memuru olduğum bankanın bir işi için geldim.
+- - İşler durgun.
+- - Güvenlik işleri.
+- - Bu evin işi çok.
+- - Sonunda bir iş buldum.
+- - ''
+- - İşlerini bırakmışlar, dükkânlarını kapamışlar, akın akın şehri terk edip gidiyorlardı.
+- - O, işini bilir. Bu, benim işime gelmez.
+- - Yoksullara yardım etmekle çok iyi bir iş yaptım.
+- - Komşu kadın elindeki işini dizine bırakıp geline döndü.
+- - Bu örtü, işi ağır bir örtüdür.
+- - İşimi görmediler.
+- - Bu, bir zevk işidir.
+- - Demek bende daha iş varmış ki ilin öğretmeni seçtiler.
+- - Rafta Mardin işi bakır tencereler sıralanmıştı.
+- - 'Bu para işidir, paran varsa en iyisini yaparsın. '
+- - Etrafın gülüşmeleri arasında iş anlaşıldı.
+- - Çoktandır köylünün şurada burada yayıp gezeceği ehemmiyetli bir iş, bir keramet gösterememişti.
+- - Erg, jul, kilogrammetre, vatsaat, kilovatsaat iş ve enerji birimleridir.
+orneklerkaynak:
+- - Reşat Nuri Güntekin
+- - ''
+- - Ömer Seyfettin
+- - ''
+- - ''
+- - ''
+- - Sait Faik Abasıyanık
+- - ''
+- - 'Yakup Kadri Karaosmanoğlu '
+- - ''
+- - ''
+- - Memduh Şevket Esendal
+- - ''
+- - ''
+- - ''
+- - Muzaffer İzgü
+- - ''
+- - ''
+- - Hüseyin Cahit Yalçın
+- - Refik Halit Karay
+- - ''
+---

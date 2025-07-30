@@ -1,0 +1,218 @@
+---
+layout: term
+title: bozmak
+slug: bozmak
+lisan: Türkçe
+anlamlar:
+- Bir şeyi kendisinden beklenilen işi yapamayacak duruma getirmek
+- Bir yerin, bir şeyin düzenini karıştırmak
+- Dokunmak, zarar vermek
+- Geçersiz, hükümsüz bir duruma getirmek; nakzetmek
+- Büyük parayı küçük birimlere ayırmak
+- Bozguna uğratmak
+- Altını paraya çevirmek
+- Yabancı ülke parasını Türk parasına çevirmek
+- Bağ veya bostanın son ürününü toplamak
+- Bir kızın bekâretine zarar vermek
+- Biçimini ve kullanılışını değiştirmek
+- Altüst etmek, çıkmaza sokmak
+- Bir kimseyi beklemediği bir davranış karşısında bırakarak veya bir yalanını ortaya çıkararak küçük düşürmek
+- Aklını yitirecek derecede bir şeye düşkün olmak
+- Kötü duruma getirmek
+- Mahkeme itiraz yoluyla verilen kararı değiştirmek, yeniden yargılamanın önünü açmak
+- Oruç, abdest vb.ni geçersiz duruma getirmek
+ozellikler:
+- - -i
+- - -i
+  - ''
+- - -i
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+  - -le
+  - mecaz
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+  - -le
+  - mecaz
+  - mecaz
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+  - -le
+  - mecaz
+  - mecaz
+  - hukuk
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+  - -le
+  - mecaz
+  - mecaz
+  - hukuk
+  - din bilimi
+ornekler:
+- - O kötü hayaller, güzel düşünceleri bozmaz.
+- - ''
+- - Kendisini ziyaret eden gazetecilere dedi ki İtalya’da yemekler midemi bozdu.
+- - Eğer nişanını bozduysa yazıklar olsun.
+- - Bir milyon lira bozar mısın?
+- - Düşman ordusunu bozmak.
+- - ''
+- - ''
+- - Bostanı bozduk.
+- - ''
+- - Eskileri bozuyor; beni, çocuğu giydiriyor.
+- - Tam biraz rahat edeceğim, işimi bozuyorsun.
+- - Adamcağızı fena bozdunuz.
+- - Adamcağız politika ile bozmuş.
+- - ''
+- - ''
+- - Fakat plancılar bütün bu aşağılık iftiralar ve küfürle dolayısıyla papaza kızıp oruç bozmayacak kadar olgun ve şuurlu idiler.
+orneklerkaynak:
+- - Mehmed Paksu
+- - ''
+- - Mevlüt Çelebi
+- - Memduh Şevket Esendal
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Ömer Seyfettin
+- - Sait Faik Abasıyanık
+- - ''
+- - ''
+- - ''
+- - ''
+- - Doğan Avcıoğlu
+---

@@ -1,0 +1,14 @@
+---
+layout: term
+title: çullanıvermek
+slug: cullanivermek
+lisan: Türkçe
+anlamlar:
+- Aniden çullanmak
+ozellikler:
+- - nesnesiz
+ornekler:
+- - Namussuzun üstüne çullanıvermişler. Bir, iki derken makinesini paralamışlar, kendisini de sanırsam.
+orneklerkaynak:
+- - Nâzım Hikmet
+---

@@ -1,0 +1,270 @@
+---
+layout: term
+title: görmek
+slug: gormek
+lisan: Türkçe
+anlamlar:
+- Gözle algılamak, seçmek
+- Anlamak, kavramak, sezmek
+- Yanına gidip konuşmak
+- Bir şey hakkında bir yargıya varmak, değerlendirmek
+- Belirli bir zamanın içinde bir olaya tanık olmak, yaşamak
+- Yapmak, etmek
+- Kendisine yapılmak, bir davranışla karşılaşmak, maruz kalmak
+- Bir şeye erişmek
+- Çok değer vermek
+- Bir işleme uğramak
+- Yüzü bir yöne doğru olmak, bakmak
+- Ziyaret etmek
+- Karşılaşmak, rastlaşmak
+- Gözlerin görmediği durumlarda başka duyu organlarıyla algılamak
+- Sahne olmak, geçirmek
+- Saymak, herhangi bir şey gibi görmek
+- Gezmek
+- Para vermek
+- Takım arkadaşlarından en uygun olanına pas atmak
+ozellikler:
+- - -i
+- - -i
+  - ''
+- - -i
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -i
+  - -den
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -i
+  - -den
+  - nesnesiz
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -i
+  - -den
+  - nesnesiz
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -i
+  - -den
+  - nesnesiz
+  - ''
+  - nesnesiz
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -i
+  - -den
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -i
+  - -den
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -i
+  - -den
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -i
+  - -den
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - -le
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -i
+  - -den
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - -le
+  - nesnesiz
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -i
+  - -den
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - -le
+  - nesnesiz
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -i
+  - -den
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - -le
+  - nesnesiz
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -i
+  - -den
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - -le
+  - nesnesiz
+  - ''
+  - ''
+  - teklifsiz konuşmada
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -i
+  - -den
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - -le
+  - nesnesiz
+  - ''
+  - ''
+  - teklifsiz konuşmada
+  - spor
+ornekler:
+- - ''
+- - Türk iradesinin ne demek olduğunu da sen göreceksin.
+- - Bugün müdürü göreceğim.
+- - ''
+- - Hangi memlekete gitsek resmî makamlar kadar halkın da rağbetini görürdük.
+- - İş görmek. Masraf görmek.
+- - ''
+- - Cebi para görmek.
+- - Gözü yalnız parayı görüyor.
+- - Teftiş görmek.
+- - Ev güneş görüyor.
+- - ''
+- - ''
+- - Körler parmaklarıyla görürler.
+- - Bu ova çok savaş gördü.
+- - ''
+- - Ankara'yı gördün mü?
+- - Baba hiç param yok, biraz görsen beni, dediği sabahı minnetle anımsar Ali Bey.
+- - ''
+orneklerkaynak:
+- - ''
+- - Ruşen Eşref Ünaydın
+- - ''
+- - ''
+- - Falih Rıfkı Atay
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+---

@@ -1,0 +1,15 @@
+---
+layout: term
+title: göstermeci
+slug: gostermeci
+lisan: Türkçe
+anlamlar:
+- Cinsel organlarını göstermeyi, sergilemeyi seven (ruh hastası); ut açıcı, teşhirci
+ozellikler:
+- - sıfat
+  - ruh bilimi
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

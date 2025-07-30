@@ -1,0 +1,141 @@
+---
+layout: term
+title: kırmak
+slug: kirmak
+lisan: Türkçe
+anlamlar:
+- Sert şeyleri vurarak veya ezerek parçalamak
+- İri parçalara ayırmak
+- Belirli bir biçimde katlamak
+- Öldürmek, yok olmasına neden olmak
+- Tavlada karşı oyuncunun pulunu oyun dışında bırakmak
+- Vücut kemiklerinden birini parçalamak
+- Tahılı iri ve kaba öğütmek
+- Hareket durumundaki canlının veya taşıtın yönünü değiştirmek, çevirmek, döndürmek
+- Dileğini kabul etmeyerek veya beklenmeyen bir davranış karşısında bırakarak gücendirmek; yaralamak
+- Yok etmek
+- Gücünü, etkisini azaltmak
+- Kaçmak, uzaklaşmak
+- Değerinden düşük fiyata almak
+ozellikler:
+- - -i
+- - -i
+  - ''
+- - -i
+  - ''
+  - nesnesiz
+- - -i
+  - ''
+  - nesnesiz
+  - ''
+- - -i
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+- - -i
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+- - -i
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - mecaz
+- - -i
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - mecaz
+  - mecaz
+- - -i
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - mecaz
+  - mecaz
+  - mecaz
+- - -i
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - mecaz
+  - mecaz
+  - mecaz
+  - argo
+- - -i
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - mecaz
+  - mecaz
+  - mecaz
+  - argo
+  - nesnesiz
+  - ticaret
+ornekler:
+- - Taşları kırmak. Bardağı kırmak.
+- - ''
+- - Forma kırmak.
+- - Bu yıl soğuk, hayvanları kırdı.
+- - ''
+- - Ayol, yapma, gel, düşüp bir yerini kıracaksın!
+- - ''
+- - Ne tarafa doğru meyil varsa gidonu o tarafa doğru kıracaksınız ki bisiklet doğrulsun.
+- - Bazen bir kelimenin, bir ses tonunun sevdiğimiz bir insanı kırdığını görürüz.
+- - Bir gündüz olsa belki bu derdi kıracağım / Yoksa bu sensizlikten artık çıldıracağım
+- - Birkaç gün evvel yağan yağmur sıcağı kırmamış.
+- - ''
+- - Bono kırmak. Çek kırmak.
+orneklerkaynak:
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Osman Cemal Kaygılı
+- - ''
+- - Burhan Felek
+- - Mehmet Kaplan
+- - Enis Behiç Koryürek
+- - Burhan Felek
+- - ''
+- - ''
+---

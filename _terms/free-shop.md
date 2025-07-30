@@ -1,0 +1,14 @@
+---
+layout: term
+title: free-shop
+slug: free-shop
+lisan: İngilizce free-shop
+anlamlar:
+- 343 gümrüksüz mağaza
+ozellikler:
+- - isim
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

@@ -1,0 +1,14 @@
+---
+layout: term
+title: dramatikleştirmek
+slug: dramatiklestirmek
+lisan: Türkçe
+anlamlar:
+- Dramatik duruma getirmek
+ozellikler:
+- - -i
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

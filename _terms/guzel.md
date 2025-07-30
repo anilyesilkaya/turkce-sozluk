@@ -1,0 +1,126 @@
+---
+layout: term
+title: güzel
+slug: guzel
+lisan: Türkçe
+anlamlar:
+- Göze ve kulağa hoş gelen, hayranlık uyandıran, çirkin karşıtı
+- İyi, hoş; mis (I)
+- Beklenene uygun düşen ve başarı düşüncesi uyandıran
+- Soyluluk ve ahlaki üstünlük düşüncesi uyandıran
+- Görgü kurallarına uygun olan
+- Sakin, hoş (hava)
+- Okşayıcı, aldatıcı, kandırıcı
+- Pek iyi, doğru
+- Hoş görünüşlü kız veya kadın
+- ► güzellik kraliçesi
+- Hoşa giden, beğenilen, iyi, doğru bir biçimde
+- Adamakıllı, şiddetli bir biçimde
+ozellikler:
+- - sıfat
+- - sıfat
+  - ''
+- - sıfat
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - isim
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - isim
+  - isim
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - isim
+  - isim
+  - zarf
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - isim
+  - isim
+  - zarf
+  - zarf
+ornekler:
+- - Yalının en güzel odası bizimdi.
+  - Güzel kız. Güzel çiçek.
+- - Güzel şey canım, milletvekili olmak!
+- - Buradan ayrılman için sana güzel bir fırsat sunuyorum.
+- - Turgut rolünün etkisinden henüz kendini kurtaramamış, Selim’in kollarında yatıyor, bu sırada güzel bir hareket oldu…
+- - ''
+- - Evet sadece ikimiz... Üstelik ne güzel bir yaz akşamı...
+- - Sultan, bu misafirlere iltifat etti, hilatler giydirerek güzel vaatlerde bulundu.
+- - Dili önemsemen güzel ama dil öğrenme işini biraz hafife alman lazım.
+- - Güzeller deniz kenarına geldikleri zaman âşıklar da kale burçlarına ve bedenlerine dolarlar.
+- - Türkiye güzeli Keriman Halis, Belçika’daki yarışmada dünya güzeli seçildi.
+- - Arabayı koştururken boyunlarındaki ziller güzel şıngırdıyordu atların.
+- - Karıkoca bu kuzu yüzünden güzel bir kavga ettiler.
+orneklerkaynak:
+- - ''
+  - ''
+- - Çetin Altan
+- - Ezgi Özkul
+- - Oğuz Atay
+- - ''
+- - Füruzan
+- - Nezihe Araz
+- - Salih Uyan
+- - Asaf Halet Çelebi
+- - Özhan Uluatam
+- - Reşat Enis Aygen
+- - Ömer Seyfettin
+---

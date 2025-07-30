@@ -1,0 +1,82 @@
+---
+layout: term
+title: kaplamak
+slug: kaplamak
+lisan: Türkçe
+anlamlar:
+- Her yanını örtmek; istila etmek
+- Çepeçevre sarmak; kuşatmak, örtmek
+- Bir kabın, bir kılıfın, bir örtünün içine almak
+- Yayılıp doldurmak, etkisinde bırakmak; almak, basmak, bürümek, sarmak, tutmak
+- Bir yüzeyi döşemek, başka bir nesne ile örtmek
+- Kaplama adı verilen ince ağaç levhaları, değişik yöntemlerle hazırlanmış yüzeylere yapıştırmak
+- Bir madeni bir başka madenle kimyasal bir yöntemle örtmek
+- Bir kimsenin veya bir şeyin nitelikleri herkesçe bilinir olmak
+- ► doldurmak
+ozellikler:
+- - -i
+- - -i
+  - ''
+- - -i
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+ornekler:
+- - Her tarafı sessizlik kaplamış, ovalar, biten bir günün hüznü içinde susmuştu.
+- - Evlerin bir tarafını yol, üç tarafını da yine çam ormanları kaplar.
+- - Yorgan kaplamak.
+- - ''
+- - Dudaklarının üstünü kaplayan muntazam kesilmiş sert ve koyu siyah bıyıkları...
+- - ''
+- - ''
+- - Ünü cihanı kapladı.
+- - Bulutlu düşünceler dimağını kapladığı sırada uzun siyah kirpikleri arasından iki şimşek çaktı.
+orneklerkaynak:
+- - Hamdullah Suphi Tanrıöver
+- - Sait Faik Abasıyanık
+- - ''
+- - ''
+- - Abdülhak Şinasi Hisar
+- - ''
+- - ''
+- - ''
+- - Ahmet Hikmet Müftüoğlu
+---

@@ -1,0 +1,15 @@
+---
+layout: term
+title: sivri biber
+slug: sivri-biber
+lisan: Türkçe
+anlamlar:
+- Uzunca ve ince yeşilbiber
+ozellikler:
+- - isim
+  - bitki bilimi
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

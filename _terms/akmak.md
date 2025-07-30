@@ -1,0 +1,114 @@
+---
+layout: term
+title: akmak
+slug: akmak
+lisan: Türkçe
+anlamlar:
+- Sıvı maddeler veya çok ince taneli katı maddeler bir yerden başka bir yere doğru gitmek
+- Sıvı maddeler aşağıya yönelmek
+- Sıvı madde bir yerden çıkmak; süzülmek
+- Bir kap veya bir yer içindeki veya üstündeki sıvıyı sızdırmak
+- Art arda ve toplu olarak gitmek
+- Kumaş yıpranıp iplikleri erimeye başlamak
+- Boya birbirine karışmak
+- Sürüp gitmek
+- Zaman çabuk geçmek
+- Çabucak savuşmak, ortadan kaybolmak
+- Kayıp gitmek
+ozellikler:
+- - -den
+- - -den
+  - ''
+- - -den
+  - ''
+  - ''
+- - -den
+  - ''
+  - ''
+  - nesnesiz
+- - -den
+  - ''
+  - ''
+  - nesnesiz
+  - -e
+- - -den
+  - ''
+  - ''
+  - nesnesiz
+  - -e
+  - nesnesiz
+- - -den
+  - ''
+  - ''
+  - nesnesiz
+  - -e
+  - nesnesiz
+  - nesnesiz
+- - -den
+  - ''
+  - ''
+  - nesnesiz
+  - -e
+  - nesnesiz
+  - nesnesiz
+  - -le
+- - -den
+  - ''
+  - ''
+  - nesnesiz
+  - -e
+  - nesnesiz
+  - nesnesiz
+  - -le
+  - nesnesiz
+  - mecaz
+- - -den
+  - ''
+  - ''
+  - nesnesiz
+  - -e
+  - nesnesiz
+  - nesnesiz
+  - -le
+  - nesnesiz
+  - mecaz
+  - nesnesiz
+  - argo
+- - -den
+  - ''
+  - ''
+  - nesnesiz
+  - -e
+  - nesnesiz
+  - nesnesiz
+  - -le
+  - nesnesiz
+  - mecaz
+  - nesnesiz
+  - argo
+  - ''
+ornekler:
+- - Eskiden Sakarya, bu köprünün altından akarmış.
+- - ''
+- - ''
+- - Dam akıyor.
+- - Öfkeli insanlar, el ele, omuz omuza Taksim'e doğru akıyorlardı.
+- - Çarşafın kumaşı da yer yer akmış, buruşmuştu.
+- - ''
+- - Nedim divanında bir kaside vardır, müjgân üstüne, hicran üstüne, umman üstüne kafiyeleri ve redifleriyle akar.
+- - ''
+- - ''
+- - Bir yılan aktı, yol boyunca akıyor, yolun kıyısından, önden.
+orneklerkaynak:
+- - Sait Faik Abasıyanık
+- - ''
+- - ''
+- - ''
+- - Yusuf Ziya Ortaç
+- - Refik Halit Karay
+- - ''
+- - Yahya Kemal Beyatlı
+- - ''
+- - ''
+- - Yaşar Kemal
+---
