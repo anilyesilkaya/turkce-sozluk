@@ -1,0 +1,140 @@
+---
+layout: term
+title: bulmak
+slug: bulmak
+lisan: Türkçe
+anlamlar:
+- Bir şeyle, bir kimseyle arayarak veya aramadan karşılaşmak
+- Bir şeyi elde etmek
+- Kaybedilen bir şeyi yeniden ele geçirmek
+- ► keşfetmek
+- İcat etmek
+- İstenilen şeye kavuşmak
+- Bir yere, bir noktaya erişmek, ulaşmak
+- Herhangi bir görüşe, bir yargıya varmak
+- Uygun görüp seçmek
+- Bir şeyi temin etmek
+- Cezaya uğramak
+- ► anımsamak
+- Bir şeyi belirlemek
+ozellikler:
+- - -i
+- - -i
+  - ''
+- - -i
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+ornekler:
+- - Kafam her an bir konu bulmak için binbir çeşit şeye müracaat ediyor.
+- - ''
+- - Paramı buldum.
+- - Şu kuvvetin, cevherin sırrını bulmaya çalışıyorum.
+- - ''
+- - Kadınlık namına düşündüğüm şeylerin hiçbirini karımda bulamadım.
+- - Böylece yılın ortasını bulduk.
+- - Ben de bunu akıllıca buldum.
+- - Bazen onlara yeni ve güzel kıyafetler buluyor.
+- - Sen otur ye, ben yatarken, kendim bir şeyler bulur, yerim.
+- - Eden bulur ağam, eden bulur.
+- - Bir türlü bulamadım caminin ismini dersem inanır mısınız?
+- - Süleyman bu Rum gencine bir de Müslüman isim buldu.
+orneklerkaynak:
+- - Halide Edip Adıvar
+- - ''
+- - ''
+- - Sait Faik Abasıyanık
+- - ''
+- - Ömer Seyfettin
+- - Refik Halit Karay
+- - Memduh Şevket Esendal
+- - Halide Edip Adıvar
+- - Sait Faik Abasıyanık
+- - Aka Gündüz
+- - Sait Faik Abasıyanık
+- - İsmail Metin
+---

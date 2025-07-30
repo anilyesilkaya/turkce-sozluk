@@ -1,0 +1,124 @@
+---
+layout: term
+title: başlık
+slug: baslik
+lisan: Türkçe
+anlamlar:
+- Genellikle başı korumak için giyilen şapka; dolambaç, serpuş
+- Üst giysilerinin yakalarına takılı başlık; kapüşon
+- Hayvan koşumunun başa geçirilen bölümü
+- Bir sütunun, bir direğin tepeliği
+- Kâğıt veya zarf üstüne basılmış ad ve adres; antet
+- Bir yazının, bir kitabın bölümlerinin başına konulan ve konuyu kısaca tanıtan ibare; serlevha
+- ► başlık parası
+- Tablaların veya iş parçalarının düzgün kalmasını sağlamak amacı ile baş taraflarına takılan parça
+- Tekerlek parmaklarının çakılı olduğu kısım
+- Kadınların başlarına taktıkları altın, gümüş, boncuk ve taşlarla süslü şey
+- Otomobil, dişçi, berber, kuaför vb.nde bulunan koltukların baş konan kısmı
+- Doğan, şahin gibi avcı olarak yetiştirilen kuşların gözlerini kapatmak üzere başlarına geçirilen külah
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+ornekler:
+- - İyi ki güneş açmış, sıcak basmış da başlığını sıyırınca yüzünü görmüş, tanımışlardı.
+- - ''
+- - ''
+- - Önünden yüzlerce defa geçmiş olduğumuz bin yıllık çeşme, bir sütun başlığı birden gözümüzde şahsiyet ve değer kazanırdı.
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+orneklerkaynak:
+- - Necati Cumalı
+- - ''
+- - ''
+- - Sâmiha Ayverdi
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+---

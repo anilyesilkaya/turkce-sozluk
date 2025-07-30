@@ -1,0 +1,19 @@
+---
+layout: term
+title: öksüzlük
+slug: oksuzluk
+lisan: Türkçe
+anlamlar:
+- Öksüz olma durumu
+- ► kimsesizlik
+ozellikler:
+- - isim
+- - isim
+  - mecaz
+ornekler:
+- - ''
+- - Deminki öksüzlük hâlim birden, acayip bir merakla dayanılmaz bir tecessüs hissine dönmüştü.
+orneklerkaynak:
+- - ''
+- - 'Yakup Kadri Karaosmanoğlu '
+---

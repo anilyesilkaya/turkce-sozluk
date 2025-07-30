@@ -1,0 +1,170 @@
+---
+layout: term
+title: dönmek
+slug: donmek
+lisan: Türkçe
+anlamlar:
+- Kendi ekseni üzerinde veya başka bir şeyin dolayında hareket etmek
+- Geri gelmek, geri gitmek
+- Yönünü belli bir tarafa doğru çevirmek
+- Bir tarafa sapmak
+- Bir şeyi andıracak duruma girmek, benzemek
+- Sınıfta kalmak
+- Durumdan duruma geçmek, değişmek, olduğundan daha değişik bir durum almak
+- Belirli bir yerde dolaşmak
+- Kendini bir yandan bir yana çevirmek
+- Yönetilmek, düzene konulmak, çekip çevrilmek
+- Söz konusu etmek, hatırlamak
+- Bırakılan bir konu veya işe başlamak
+- Hileyle, gizlice yapılmak
+- İnanç, din veya düşüncesini değiştirmek
+ozellikler:
+- - nesnesiz
+- - nesnesiz
+  - -e
+  - -den
+- - nesnesiz
+  - -e
+  - -den
+  - -e
+- - nesnesiz
+  - -e
+  - -den
+  - -e
+  - -i
+- - nesnesiz
+  - -e
+  - -den
+  - -e
+  - -i
+  - -e
+- - nesnesiz
+  - -e
+  - -den
+  - -e
+  - -i
+  - -e
+  - ''
+- - nesnesiz
+  - -e
+  - -den
+  - -e
+  - -i
+  - -e
+  - ''
+  - -e
+- - nesnesiz
+  - -e
+  - -den
+  - -e
+  - -i
+  - -e
+  - ''
+  - -e
+  - -de
+- - nesnesiz
+  - -e
+  - -den
+  - -e
+  - -i
+  - -e
+  - ''
+  - -e
+  - -de
+  - -de
+- - nesnesiz
+  - -e
+  - -den
+  - -e
+  - -i
+  - -e
+  - ''
+  - -e
+  - -de
+  - -de
+  - ''
+- - nesnesiz
+  - -e
+  - -den
+  - -e
+  - -i
+  - -e
+  - ''
+  - -e
+  - -de
+  - -de
+  - ''
+  - -e
+- - nesnesiz
+  - -e
+  - -den
+  - -e
+  - -i
+  - -e
+  - ''
+  - -e
+  - -de
+  - -de
+  - ''
+  - -e
+  - -e
+- - nesnesiz
+  - -e
+  - -den
+  - -e
+  - -i
+  - -e
+  - ''
+  - -e
+  - -de
+  - -de
+  - ''
+  - -e
+  - -e
+  - mecaz
+- - nesnesiz
+  - -e
+  - -den
+  - -e
+  - -i
+  - -e
+  - ''
+  - -e
+  - -de
+  - -de
+  - ''
+  - -e
+  - -e
+  - mecaz
+  - din bilimi
+ornekler:
+- - İçeride anahtarın acı bir gıcırtıyla döndüğünü duydum.
+- - Ertesi gün aynı yoldan Bodrum'a döndük.
+- - Babam birdenbire bana döndü.
+- - Gülümseyerek bir köşeyi döndü.
+- - Dikmen yolları, mabede adak için gidenlerin yollarına dönmüştü.
+- - Çocuk çalışmazsa bu yıl döner.
+- - Erkekler tekaüt olunca çocuğa dönüyorlar.
+- - ''
+- - Yatağında sabaha kadar dönüp durdu.
+- - ''
+- - Biz yine onun gençliğine, lise öğretmeni olduğu zamana dönelim.
+- - ''
+- - Burada bir şeyler oluyor, bir şeyler dönüyor ama anlayamıyorum.
+- - Annesinin İtalyan Yahudisiyken döndüğünü söylemişti.
+orneklerkaynak:
+- - Yusuf Ziya Ortaç
+- - Halikarnas Balıkçısı
+- - Sait Faik Abasıyanık
+- - Peyami Safa
+- - Aka Gündüz
+- - ''
+- - Reşat Nuri Güntekin
+- - ''
+- - ''
+- - ''
+- - Haldun Taner
+- - ''
+- - Refik Halit Karay
+- - Ömer Seyfettin
+---

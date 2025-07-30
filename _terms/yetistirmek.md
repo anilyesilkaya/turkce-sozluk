@@ -1,0 +1,126 @@
+---
+layout: term
+title: yetiştirmek
+slug: yetistirmek
+lisan: Türkçe
+anlamlar:
+- Birini, bir şeyi gitmekte veya gitmek üzere olan bir kimse veya şeye ulaştırmak, ulaşmasını sağlamak
+- Vaktinde hazır olmasını sağlamak, tamamlamak, bitirmek
+- Birini gerekli bir iş için tam zamanında bir yere götürmek
+- Geliştirip büyütmek
+- İletmek, duyurmak
+- Sağlayıp vermek
+- Yetmesini sağlamak
+- Aceleyle ulaştırmak
+- Söylenmemesi gereken bir şeyi birine hemen söylemek
+- Gelişip büyümesini sağlamak, büyümesine özen göstermek; beslemek, büyütmek
+- Eğitim, öğrenim sağlamak
+ozellikler:
+- - -e
+  - -i
+- - -e
+  - -i
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -i
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -i
+  - -i
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -i
+  - -i
+  - -e
+  - mecaz
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -i
+  - -i
+  - -e
+  - mecaz
+  - -i
+  - mecaz
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -i
+  - -i
+  - -e
+  - mecaz
+  - -i
+  - mecaz
+  - -i
+  - mecaz
+ornekler:
+- - ''
+- - Kitabı önümüzdeki aya yetiştireceğim.
+- - Hastayı doktora yetiştirmek.
+- - Evlerinin bahçesinde bir iki elma, erik ağacı yetiştirirler.
+- - ''
+- - Bir sakallı garson ahaliye boyuna su yetiştiriyor.
+- - Cephemiz susuz, kuru ekmek ve benzini güç yetiştiriyoruz.
+- - ''
+- - Hiç kalır mı? Ertesi gün valiye yetiştirdiler.
+- - Munise'yi güzel ahlaklı bir kadın olarak yetiştirecektim.
+- - ''
+orneklerkaynak:
+- - ''
+- - ''
+- - ''
+- - Necati Cumalı
+- - ''
+- - Reşat Nuri Güntekin
+- - Falih Rıfkı Atay
+- - ''
+- - Memduh Şevket Esendal
+- - Reşat Nuri Güntekin
+- - ''
+---

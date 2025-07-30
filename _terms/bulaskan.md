@@ -1,0 +1,19 @@
+---
+layout: term
+title: bulaşkan
+slug: bulaskan
+lisan: Türkçe
+anlamlar:
+- Bulaştığı yerden kolay temizlenemeyen
+- Sataşma, kavga etme alışkanlığı olan
+ozellikler:
+- - sıfat
+- - sıfat
+  - mecaz
+ornekler:
+- - ''
+- - Geçenlerde bulaşkan bir delikanlı çökkün bir beybabaya sunturlu küfretti.
+orneklerkaynak:
+- - ''
+- - ''
+---

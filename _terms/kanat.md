@@ -1,0 +1,126 @@
+---
+layout: term
+title: kanat
+slug: kanat
+lisan: Türkçe
+anlamlar:
+- Kuşlarda ve böceklerde uçmayı sağlayan organ
+- Balıklarda yüzgeç
+- Bir uçağın havada durmasını sağlayan taşıyıcı aerodinamik güçlerin etkilediği yatay yüzey
+- Kapı, pencere, dolap gibi dikine açılıp kapanan şeylerin kapağı
+- Uzunluğuna katlanmış bir kumaşın kat yerinin iki tarafında kalan parçalarından her biri
+- Yan, taraf
+- Meclis, parti vb. topluluklarda düşünce yönünden özellik gösteren taraflardan her biri
+- Fırıldak biçiminde olan şeylerde kol
+- ► angıç
+- Pişmiş bir kümes hayvanının kanat kısmından oluşan yiyecek
+- Savaş düzenindeki ordunun iki yanından her biri; kol (I), cenah
+- Topla oynanan bazı takım oyunlarında hücum hattının sağ ve sol bölümü
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - askerlik
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - askerlik
+  - spor
+ornekler:
+- - Bir daldan hızla geçip gitti bir kuş kanadı / Sessizlik bir tüy gibi bir dakika sallandı / Pırıldadı bir ateş böceği sarmaşıkta
+- - ''
+- - ''
+- - Bir müddet kapı kanatlarının kenarlarını okşarcasına yokladı.
+- - ''
+- - Perde kanadı.
+- - Partinin sol kanadı.
+- - Yel değirmeni kanadı.
+  - Pervane kanadı.
+- - ''
+- - ''
+- - Ordunun sağ kanadı.
+- - ''
+orneklerkaynak:
+- - Halit Fahri Ozansoy
+- - ''
+- - ''
+- - 'Yakup Kadri Karaosmanoğlu '
+- - ''
+- - ''
+- - ''
+- - ''
+  - ''
+- - ''
+- - ''
+- - ''
+- - ''
+---

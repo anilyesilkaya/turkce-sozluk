@@ -1,0 +1,14 @@
+---
+layout: term
+title: çekimsenmek
+slug: cekimsenmek
+lisan: Türkçe
+anlamlar:
+- Bir şeyi yapmaktan geri durmak, kaçınmak, el çekmek; istinkâf etmek
+ozellikler:
+- - -den
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

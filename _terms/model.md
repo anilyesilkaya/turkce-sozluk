@@ -1,0 +1,95 @@
+---
+layout: term
+title: model
+slug: model
+lisan: Fransızca modèle
+anlamlar:
+- Resim, heykel vb. yapılırken baka baka benzetilmeye çalışılan nesne veya kimse; örnek
+- Fotoğraf sanatçılarına poz veren kimse
+- ► örnek
+- Bir özelliği olan nesne veya kişi
+- ► biçim (II)
+- Giysi örneklerini içinde toplayan dergi
+- Otomobil vb.nde tip
+- ► benzer
+- ► manken
+- Tasarlanan ürünün tanıtım veya deneme amacıyla üretilen ilk örneği; prototip
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+ornekler:
+- - Başarılı bir yontucu için model ne ise Köy Enstitülü için de köy odur.
+- - ''
+- - ''
+- - Sadakat modeli.
+- - Bu elbisenin modelini beğenmedim.
+- - Bu biçimi modelden aldık.
+- - Eski mi eski, otuz dokuz model bir taksisi vardı.
+- - Mahalle tulumbasının bir modelini yaptırıp götürmeye karar verdiler.
+- - Paris'in en son, en pahalı modelleri gibi giyinmişler.
+- - ''
+orneklerkaynak:
+- - Adnan Binyazar
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Necati Cumalı
+- - Halide Edip Adıvar
+- - Refik Halit Karay
+- - ''
+---

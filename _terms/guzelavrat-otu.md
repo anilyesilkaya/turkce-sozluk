@@ -1,0 +1,15 @@
+---
+layout: term
+title: güzelavrat otu
+slug: guzelavrat-otu
+lisan: Türkçe
+anlamlar:
+- Patlıcangillerden, atropin denilen zehirli ilacın çıkarıldığı pis kokulu, çok yıllık ve otsu bir bitki; belladonna (Atropa belladonna)
+ozellikler:
+- - isim
+  - bitki bilimi
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

@@ -1,0 +1,21 @@
+---
+layout: term
+title: irtisam
+slug: irtisam
+lisan: Arapça irtisām
+anlamlar:
+- Resmi çıkma, resmi çizilme
+- ► iz düşümü
+ozellikler:
+- - isim
+  - eskimiş
+- - isim
+  - eskimiş
+  - matematik
+ornekler:
+- - ''
+- - ''
+orneklerkaynak:
+- - ''
+- - ''
+---

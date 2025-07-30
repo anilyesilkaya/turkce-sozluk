@@ -1,0 +1,159 @@
+---
+layout: term
+title: bilmek
+slug: bilmek
+lisan: Türkçe
+anlamlar:
+- Bir şey hakkında bilgi sahibi olmak, öğrenmiş bulunmak
+- Bir şeyi anlamak, onun farkına varmak, gerçeğine ermek
+- Bir bilim veya sanat dalında yeterli olmak
+- Beceri ve ustalık isteyen bir işten anlıyor ve o iş elinden geliyor olmak
+- Birini veya bir şeyi özelliklerinden tanıyıp çıkarmak
+- ► sanmak
+- Sorumlu kabul etmek, muhatap kabul etmek
+- Bir şeyi yapmaya yeteneği olmak
+- Birinin, bir şeyin veya bir olayın tanıtılan veya belirtilen biçimde olduğunu düşünmek
+- İşine gelmek, uygun bulmak
+- Bir dili kullanabilmek
+- Öyle olduğunu kabul etmek
+- -a / -e eki almış bir fiilin sonuna gelerek fiilin bildirdiği işi yapma gücünde bildiren birleşik fiiller oluşturur
+- Olumsuz şekli bazı mastarlardan sonra kullanıldığında iş ve hareketin geciktiğini, uzun süre yapılmadığını veya bir türlü olmadığını ifade eder
+ozellikler:
+- - nesnesiz
+- - nesnesiz
+  - -i
+- - nesnesiz
+  - -i
+  - -i
+- - nesnesiz
+  - -i
+  - -i
+  - ''
+- - nesnesiz
+  - -i
+  - -i
+  - ''
+  - ''
+- - nesnesiz
+  - -i
+  - -i
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - -i
+  - -i
+  - ''
+  - ''
+  - ''
+  - -i
+- - nesnesiz
+  - -i
+  - -i
+  - ''
+  - ''
+  - ''
+  - -i
+  - ''
+- - nesnesiz
+  - -i
+  - -i
+  - ''
+  - ''
+  - ''
+  - -i
+  - ''
+  - ''
+- - nesnesiz
+  - -i
+  - -i
+  - ''
+  - ''
+  - ''
+  - -i
+  - ''
+  - ''
+  - -i
+- - nesnesiz
+  - -i
+  - -i
+  - ''
+  - ''
+  - ''
+  - -i
+  - ''
+  - ''
+  - -i
+  - ''
+- - nesnesiz
+  - -i
+  - -i
+  - ''
+  - ''
+  - ''
+  - -i
+  - ''
+  - ''
+  - -i
+  - ''
+  - -i
+- - nesnesiz
+  - -i
+  - -i
+  - ''
+  - ''
+  - ''
+  - -i
+  - ''
+  - ''
+  - -i
+  - ''
+  - -i
+  - dil bilgisi
+- - nesnesiz
+  - -i
+  - -i
+  - ''
+  - ''
+  - ''
+  - -i
+  - ''
+  - ''
+  - -i
+  - ''
+  - -i
+  - dil bilgisi
+  - dil bilgisi
+ornekler:
+- - Bunu bilmek içimi kederle dolduruyordu.
+- - ''
+- - Yani kısacası bu mükemmel dilimizi kimse bilmez, okumaz.
+- - Dikiş ve ütü bilir, çay servisi yapabilir.
+- - Kadıncığım aç. Ben geldim. Bilemedin mi?
+- - ''
+- - Ben arkadaşını bilmem, seni bilirim.
+- - Sevmeyi bilmek, sevebilmek de bir hüner, bir mutlu Allah vergisiydi.
+- - Bilirim yaşamaz güneşte / Bilirim yaşamaz yan yana aşkla / Ne haksızlık / Ne korku
+- - Mal almasını bildi de parasını vermeyi mi bilmiyor?
+- - Müdüre İngilizce bildiğimi söyledim.
+- - Teşekkürü borç bilirim.
+  - Bütün insanları kardeş biliyorum.
+- - Anlayabilmek. Gidebilmek. Kapayabilmek. Yazabilmek.
+- - O melodram ve romantiklik bana sindi. Yılmaz Güney'in Umut (1970) filmini seyredene kadar da gitmek bilmedi.
+orneklerkaynak:
+- - Adalet Ağaoğlu
+- - ''
+- - Burhan Felek
+- - Y. Öztuna
+- - Hüseyin Rahmi Gürpınar
+- - ''
+- - ''
+- - Sâmiha Ayverdi
+- - Necati Cumalı
+- - ''
+- - ''
+- - ''
+  - Cahit Sıtkı Tarancı
+- - ''
+- - Başak Deniz Erdoğan-Ayşegül Oğuz
+---

@@ -1,0 +1,19 @@
+---
+layout: term
+title: gece kıyafeti
+slug: gece-kiyafeti
+lisan: Türkçe
+anlamlar:
+- Kadınların özel gün ve gecelerde giydikleri gösterişli, göz alıcı giysi; tuvalet, abiye
+- ► gecelik
+ozellikler:
+- - isim
+- - isim
+  - ''
+ornekler:
+- - ''
+- - ''
+orneklerkaynak:
+- - ''
+- - ''
+---

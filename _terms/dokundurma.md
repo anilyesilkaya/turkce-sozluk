@@ -1,0 +1,14 @@
+---
+layout: term
+title: dokundurma
+slug: dokundurma
+lisan: Türkçe
+anlamlar:
+- Dokundurmak işi
+ozellikler:
+- - isim
+ornekler:
+- - Zaman zaman sertleşen, acı dokundurmalara varan bir tartışmadan sonra...
+orneklerkaynak:
+- - Tarık Buğra
+---

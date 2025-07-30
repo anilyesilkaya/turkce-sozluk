@@ -1,0 +1,378 @@
+---
+layout: term
+title: vermek
+slug: vermek
+lisan: Türkçe
+anlamlar:
+- Üzerinde, elinde veya yakınında olan bir şeyi birisine eriştirmek, iletmek; lütfetmek, lütfeylemek
+- Bırakmak veya bağışlamak
+- Ondan bilmek, atfetmek
+- Düşünce veya bilgi anlatan şeyleri başkalarına bildirmek
+- Döndürmek, çevirmek, yöneltmek
+- Bir şeyi satmak
+- Kızı, kadını biriyle evlendirmek
+- ► yaymak (I)
+- Bitki ortaya çıkarmak
+- Herhangi bir şey ortaya çıkarmak, oluşturmak
+- Bir hâli bir kimse veya yerde hâkim kılmak
+- Sahip olmasını sağlamak
+- ► kazandırmak
+- ► katmak
+- Bir şey ayırmak
+- Bir şey harcamak
+- Bir yere dayamak
+- ► doğurmak
+- Bilgi edinmesi için göndermek
+- ► belirlemek
+- Cinsel yönden kendisini kullandırmak
+- Kök veya gövdeleri sonuna -ı (-i, -u, -ü) zarf-fiil eki almış fiillere gelerek tezlik bildiren birleşik fiiller oluşturur
+- Elindeki parayı kaptırmak; uçlanmak
+ozellikler:
+- - -e
+  - -i
+- - -e
+  - -i
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - argo
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - argo
+  - yardımcı  fiil
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - argo
+  - yardımcı  fiil
+  - ''
+ornekler:
+- - Okumadığım zaman tavukların bahçesindeyim, yemlerini ben veririm.
+- - ''
+- - Bilgin'in bu çekingen tavırlarını kusurlu ve zayıf oluşuna verdi.
+- - Geçenlerde bir derginin, 'Eski ünlüler ne yapıyor?' adlı bir röportajına verdiği cevapları okudum.
+- - Arabanın burnunu en tenha kahvelerden birinin önünde rıhtıma verdiler.
+- - Ucuz pahalı deme de ver gitsin; ver de kurtul.
+- - Uzun Osman, Zeynep'le Süleyman'a, ikisini birbirine vereceğini söylediği zaman şaşmadılar.
+- - Ses vermek. Işık vermek.
+- - Ağaç bu sene filiz verdi.
+- - Kendisi de muhakkak artistlerden, güzel eser veren, güzel konuşan, hayalleri işlek adamlardan hoşlanıyor.
+- - Korku vermek. Ateşe vermek. Ortalığı heyecana vermek.
+- - ''
+- - Hareket vermek. Biçim vermek.
+- - Tat, çeşni vermek.
+- - Zaman vermek.
+- - Emek vermek.
+- - Duvara sırtını verip çömeldi. Gözünü hamamcının geleceği yola çiviledi.
+- - Kezban, ona yedi evlat vermişti.
+- - Kursa vermek. Okula vermek.
+- - Derse girmeden sinema için saat ver, dedi.
+- - ''
+- - alıvermek, dizivermek, yapıvermek, görüvermek.
+- - ''
+orneklerkaynak:
+- - Ömer Seyfettin
+- - ''
+- - Falih Rıfkı Atay
+- - Haldun Taner
+- - Attilâ İlhan
+- - ''
+- - Halide Edip Adıvar
+- - ''
+- - ''
+- - Refik Halit Karay
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Abbas Sayar
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+---

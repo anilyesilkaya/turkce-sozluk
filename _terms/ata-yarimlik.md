@@ -1,0 +1,14 @@
+---
+layout: term
+title: ata yarımlık
+slug: ata-yarimlik
+lisan: Türkçe
+anlamlar:
+- Ön yüzünde ortada kûfi tarzda “Türkiye Cumhuriyeti” yazısı ve altında 1923 ile Cumhuriyet’in kaçıncı yılında basıldığı, kenar çevresinde meşe yaprakları ve buğday başakları rölyefi, arka yüzünde ortada Atatürk’ün profil rölyefi, çevresinde “Hakimiyet Milletindir” ile “Ankara” yazısı bulunan, 3,608 g ağırlığında, 22 ayar (916,6 milyem) altın sikke; yarımlık, ellilik
+ozellikler:
+- - isim
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

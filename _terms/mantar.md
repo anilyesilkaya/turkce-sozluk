@@ -1,0 +1,105 @@
+---
+layout: term
+title: mantar
+slug: mantar
+lisan: Rumca
+anlamlar:
+- Mantarlardan, içinde zehirlileri de bulunan, silindir bir gövde ve üst tarafı şapka biçiminde olan ilkel canlıların genel adı (Fungi)
+- Esnek ve sudan hafif olduğundan şişe tapası, cankurtaran simidi, cankurtaran yeleği, ayakkabı tabanı ve daha birçok şeyin yapımında kullanılan, su geçirmeyen, meşe ağacı tabakası
+- Bu tabakadan yapılan şişe tapası
+- Kaldırım vb. yerlere araçların park edilmesini engellemek amacıyla zemine konulan mantar biçimindeki beton yükselti
+- Çocukların özel tabanca ile patlattıkları barutlu madde
+- Balık ağlarını su yüzünde tutmaya veya olta sarmaya yarayan mantar parçası
+- Hayvanların burun ucu
+- Uydurma, yalan olan söz
+- ► mantar hastalığı
+- Mantar hastalığına neden olan mikroskobik canlı
+ozellikler:
+- - isim
+  - bitki bilimi
+- - isim
+  - bitki bilimi
+  - ''
+- - isim
+  - bitki bilimi
+  - ''
+  - ''
+- - isim
+  - bitki bilimi
+  - ''
+  - ''
+  - ''
+- - isim
+  - bitki bilimi
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - bitki bilimi
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - bitki bilimi
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - bitki bilimi
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - argo
+- - isim
+  - bitki bilimi
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - argo
+  - tıp
+- - isim
+  - bitki bilimi
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - argo
+  - tıp
+  - tıp
+ornekler:
+- - Sen domalan bilir misin? Patates gibi bir şeydir, mantar gibi lezzetlidir.
+- - İpek çorap ve altı mantar iskarpin giymeyen kadınlar âdeta sınıf dışı ve eski biçim insanlardır.
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+orneklerkaynak:
+- - Nezihe Meriç
+- - Halide Edip Adıvar
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+---

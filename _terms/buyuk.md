@@ -1,0 +1,83 @@
+---
+layout: term
+title: büyük
+slug: buyuk
+lisan: Türkçe
+anlamlar:
+- Boyutları, benzerlerinden daha fazla olan (somut nesne); cesim, makro, küçük karşıtı
+- Çok, ortalamayı aşan (soyut kavram)
+- Niceliği çok olan
+- Nitelikleri bakımından başkalarından ayırt edilecek kadar üstün olan; muhteşem
+- Yaşı ilerlemiş, belli bir yaşa gelmiş
+- Gücü, kudreti çok olan
+- Önemli olan
+- ► dışkı
+- Makam, rütbe, derece bakımından daha üst olan kimse
+ozellikler:
+- - sıfat
+- - sıfat
+  - ''
+- - sıfat
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - isim
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - isim
+  - isim
+  - mecaz
+ornekler:
+- - Büyük ağaçların altında, gazinoya doğru gidiyoruz.
+- - Büyük bir cevap sıkıntısı geçirdikten sonra itiraf etti.
+- - Benim büyük kalabalıklara karşı ürkekliğim vardır.
+- - Molière büyük adammış, yeryüzüne gelmiş kişilerin en büyüklerinden biri.
+- - Büyüklerin tandır sefasına ayıracak zamanları yoktu.
+- - Hangi şekil altında olursa olsun bu otoriteyi yaşattığımız müddetçe büyük devlet sahibi, büyük millet olabiliriz.
+- - Ömrünün tek ve büyük oyunu bitmişti.
+- - ''
+- - ''
+orneklerkaynak:
+- - Yusuf Ziya Ortaç
+- - Peyami Safa
+- - Reşat Nuri Güntekin
+- - Nurullah Ataç
+- - Ayla Kutlu
+- - Nurettin Topçu
+- - Tarık Buğra
+- - ''
+- - ''
+---

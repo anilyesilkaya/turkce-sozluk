@@ -1,0 +1,14 @@
+---
+layout: term
+title: iskarpela
+slug: iskarpela
+lisan: İtalyanca scarpello
+anlamlar:
+- Tahta, metal veya taşı işlemeye yarayan çelik araç
+ozellikler:
+- - isim
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

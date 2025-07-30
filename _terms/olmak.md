@@ -1,0 +1,410 @@
+---
+layout: term
+title: olmak
+slug: olmak
+lisan: Türkçe
+anlamlar:
+- Meydana gelmek, vuku bulmak
+- Gerçekleşmek veya yapılmak
+- Bir görev, makam, san veya nitelik kazanmak
+- Bir şeyi elde etmek, edinmek
+- Bir durumdan başka bir duruma geçmek
+- Herhangi bir durumda bulunmak; yapmak
+- Uygun düşmek, yerinde görülmek
+- Yetişmek, olgunlaşmak
+- Hazırlanmak, hazır duruma gelmek
+- Bir yerde bulunmak
+- Geçmek, tamamlanmak
+- Sürdürmek, yürütmek
+- Bir kuruluşla, örgütle ilgili bulunmak, mensup olmak
+- Yaklaşmak, gelip çatmak
+- Bir şey, birinin mülkiyetine geçmek
+- Ek fiilin geniş zamanı olan -dır (-dir) anlamında kullanılan bir söz
+- Sarhoş olmak
+- Uymak, tam gelmek
+- Yitirmek, elinden kaçırmak
+- Bir yerde doğmuş, yaşamış olmak
+- Bir olayla karşılaşmak, başına kötü bir şey gelmek
+- Yol açmak
+- Bir ad veya sıfatın belirttiği durumu almak
+- Sıfat-fiil eki almış kelimelerden sonra anlamı kuvvetlendirmek için kullanılır
+- Hastalığa yakalanmak, tutulmak
+ozellikler:
+- - nesnesiz
+- - nesnesiz
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - teklifsiz konuşmada
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - teklifsiz konuşmada
+  - -e
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - teklifsiz konuşmada
+  - -e
+  - -den
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - teklifsiz konuşmada
+  - -e
+  - -den
+  - -den
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - teklifsiz konuşmada
+  - -e
+  - -den
+  - -den
+  - -e
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - teklifsiz konuşmada
+  - -e
+  - -den
+  - -den
+  - -e
+  - -e
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - teklifsiz konuşmada
+  - -e
+  - -den
+  - -den
+  - -e
+  - -e
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - teklifsiz konuşmada
+  - -e
+  - -den
+  - -den
+  - -e
+  - -e
+  - ''
+  - yardımcı  fiil
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - teklifsiz konuşmada
+  - -e
+  - -den
+  - -den
+  - -e
+  - -e
+  - ''
+  - yardımcı  fiil
+  - yardımcı  fiil
+ornekler:
+- - En şiddetli münakaşa, kumpanyanın ismi için oldu.
+- - ''
+- - Okumak, eczacı olmak bu sayılı inatlarından biri ve ilkidir.
+- - Nihayet ben mal sahibi olacağıma göre rahattım.
+- - ''
+- - ''
+- - Böyle iş olmaz. Oraya gitmesek de olur.
+- - Ekinler oldu. Üzümler daha olmadı.
+- - Çay oldu.
+- - Kız da hemen olduğu yere oturdu.
+- - İki yıl oldu. Nerede ise üç yıl olacak.
+- - İlişkilerimiz dostça olsun istiyorum.
+- - Partili olmak.
+- - Sabah oldu.
+- - Pırlanta gerdanlığı da tektaş küpesi de zümrüt yüzüğü de kendinin olsun!
+- - Annesi oluyor. Yeğeni olur.
+- - Sen adamakıllı olmuşsun.
+- - Bu şapka başıma oluyor.
+- - Tembelliği yüzünden işinden oldu.
+- - Köyden, kasabadan olmayan, düveni, dirgeni nasıl bilebilir?
+- - Aman, ona bir şey olmasın! Kimseye bir şey olmadı.
+- - Bu davranışın ona çok zararı oldu.
+- - Su, buz oldu.
+- - Artık bize gelmez oldu. Bu işi yapmış olacak.
+- - Tifo olmak. Verem olmak.
+orneklerkaynak:
+- - Sait Faik Abasıyanık
+- - ''
+- - Tarık Buğra
+- - Sait Faik Abasıyanık
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Memduh Şevket Esendal
+- - ''
+- - ''
+- - ''
+- - ''
+- - Sermet Muhtar Alus
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+---

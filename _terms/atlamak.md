@@ -1,0 +1,92 @@
+---
+layout: term
+title: atlamak
+slug: atlamak
+lisan: Türkçe
+anlamlar:
+- Bir engeli sıçrayarak veya fırlayarak aşmak
+- Yüksek bir yerden alçak bir yere, ayaküstü gelecek bir biçimde kendini bırakmak
+- ► binmek
+- Basında haberi zamanında verememek veya diğer gazetelerden öğrenmek
+- Okuma, yazı yazma, sayı sayma vb. işlerde bazı bölümleri üstünkörü geçmek
+- Sınıfı okumadan geçmek
+- ► inmek
+- Yanılmak, aldanmak
+- Bir işe sonucunu düşünmeden hemen girişmek
+ozellikler:
+- - -den
+- - -den
+  - -e
+  - -den
+- - -den
+  - -e
+  - -den
+  - -e
+- - -den
+  - -e
+  - -den
+  - -e
+  - -i
+- - -den
+  - -e
+  - -den
+  - -e
+  - -i
+  - -i
+- - -den
+  - -e
+  - -den
+  - -e
+  - -i
+  - -i
+  - -i
+- - -den
+  - -e
+  - -den
+  - -e
+  - -i
+  - -i
+  - -i
+  - ''
+- - -den
+  - -e
+  - -den
+  - -e
+  - -i
+  - -i
+  - -i
+  - ''
+  - mecaz
+  - -de
+- - -den
+  - -e
+  - -den
+  - -e
+  - -i
+  - -i
+  - -i
+  - ''
+  - mecaz
+  - -de
+  - mecaz
+ornekler:
+- - Kızın fırlayıp gittiğini gören Tolga duvardan atladı, etrafı kolaçan ederek çantaya gitti.
+- - Çukura atlamak.
+- - Atlasam bir vapura, şehre insem diyorum.
+- - ''
+- - ''
+- - Birinci sınıfı atladı.
+- - Otomobilden atlayıp vapura doğru seğirten bir adama tutup sual sorulur mu?
+- - ''
+- - ''
+orneklerkaynak:
+- - ''
+- - ''
+- - Sait Faik Abasıyanık
+- - ''
+- - ''
+- - ''
+- - Sait Faik Abasıyanık
+- - ''
+- - ''
+---

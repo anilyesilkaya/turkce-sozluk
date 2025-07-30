@@ -1,0 +1,14 @@
+---
+layout: term
+title: yüreğini serinletmek
+slug: yuregini-serinletmek
+lisan: Türkçe
+anlamlar:
+- üzüntüsünü azaltmak
+ozellikler:
+- - ''
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

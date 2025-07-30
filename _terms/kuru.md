@@ -1,0 +1,124 @@
+---
+layout: term
+title: kuru
+slug: kuru
+lisan: Türkçe
+anlamlar:
+- Suyu, nemi olmayan, yaş ve nemli karşıtı
+- Yağış almayan veya üzerinde bitki olmayan (yer)
+- Daha sonra kullanılmak için kurutulmuş, taze ve yeşil karşıtı
+- Canlılığını yitirmiş (bitki)
+- Salgısı olmayan
+- Döşenmemiş, çıplak
+- Katıksız, yanında başka şey olmayan (yiyecek)
+- Etkisi ve sonucu olmayan
+- ► sıska
+- Heyecanı, tadı olmayan, tekdüze
+- Akıcı olmayan, duygudan yoksun
+- ► kuru fasulye
+ozellikler:
+- - sıfat
+- - sıfat
+  - ''
+- - sıfat
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+  - mecaz
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - isim
+ornekler:
+- - Yanakları kuruydu fakat gözleri tamamıyla siyah yaştı.
+- - Kuru çöl. Kuru tepeler.
+- - Evlerin önlerine kuru meşe dallarıyla örtülü çardaklar yapmışlar.
+- - Çiçek açmaz kuru bir ağaç, ötmeyi unutmuş bir kuş mu oldum?
+- - Kuru öksürük. Kuru egzama.
+- - Salih Reis, dört kuru duvardan ibaret fukara kapısından gördüğü mavi denize baka baka ölmek istiyordu.
+- - Kuru çayla karın doyar mı?
+- - Şahsına topluluğun isteğini emanet edenler boş bir riya, kuru bir şeref olsun diye laf etmediler.
+- - ''
+- - Kuru, zevksiz bir hayat.
+- - Kuru bir anlatım.
+- - ''
+orneklerkaynak:
+- - Halide Edip Adıvar
+- - ''
+- - Refik Halit Karay
+- - Halide Edip Adıvar
+- - ''
+- - Halikarnas Balıkçısı
+- - ''
+- - Ruşen Eşref Ünaydın
+- - ''
+- - ''
+- - ''
+- - ''
+---

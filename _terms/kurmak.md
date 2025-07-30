@@ -1,0 +1,175 @@
+---
+layout: term
+title: kurmak
+slug: kurmak
+lisan: Türkçe
+anlamlar:
+- Makine, cihaz, mobilya vb.ni oluşturan parçaları birleştirerek bütün durumuna getirmek; monte etmek
+- ► hazırlamak
+- Yaylı, zemberekli şeylerde yayı veya zembereği germek
+- Gereken şartları hazırlayıp kendi kendine olmaya bırakmak
+- Etkisi ve önemi geniş şeyler meydana getirmek; tesis etmek
+- Yapmak, inşa etmek
+- Yapmak, oluşturmak
+- Ortaklık sağlamak
+- Belli bir işte beraber çalışacak kimseleri belirlemek
+- Bir araya getirmek, toplamak
+- ► düşünmek
+- Aklına koymak
+- Zihinde büyütmek
+- Sağlamak, oluşturmak
+- Bir kimseyi dedikodu veya telkinlerle başkasına karşı öfkelendirmek
+ozellikler:
+- - -i
+- - -i
+  - ''
+- - -i
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ticaret
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ticaret
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ticaret
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ticaret
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ticaret
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ticaret
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ticaret
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ticaret
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+ornekler:
+- - Geniş çöl ufukları arasında çadırlarımızı kurduk.
+- - Kurduğu sofraya, yaptığı salataya git de bak!
+- - Çocukça bir sevinçle kurduğun çalar saatleri çalıp duruyor.
+- - Turşu kurmak.
+- - Dünyanın en büyük imparatorluklarını kuran kimlerdi?
+- - Çirkin yapıları örtecek güzel yapılar kuralım.
+- - ''
+- - ''
+- - Teşkilatı ilçede sevilip sayılan bir avukat kurmuştu.
+- - Divan kurmak.
+- - Yalnız hayalle geçiniyorum, ben yalnız hayal kuruyorum.
+- - O gitmeyi bir kez kurdu mu artık durmaz.
+- - Bayram Ağa, uşakların söylediklerini kurdukça kurdu.
+- - Dostluk kurmak. İlişki kurmak.
+- - ''
+orneklerkaynak:
+- - Falih Rıfkı Atay
+- - Refik Halit Karay
+- - Haldun Taner
+- - ''
+- - Orhan Seyfi Orhon
+- - Nurullah Ataç
+- - ''
+- - ''
+- - Tarık Buğra
+- - ''
+- - Sait Faik Abasıyanık
+- - ''
+- - Halide Edip Adıvar
+- - ''
+- - ''
+---

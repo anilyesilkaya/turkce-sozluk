@@ -1,0 +1,109 @@
+---
+layout: term
+title: parti
+slug: parti
+lisan: Fransızca partie
+anlamlar:
+- Bir bütünün parçası
+- '... kez'
+- İnsan topluluğu
+- Bir kişi, bir kuruluş veya bir topluluğun genellikle belli bir şeyi kutlamak amacıyla düzenledikleri eğlence
+- Bir araya gelinerek tavla, konken, okey vb. oynanan oyunlardan her biri
+- Bir yere bölümler hâlinde gönderilmekte olan bir malın veya bir bütünün parçası
+- Herhangi bir ürünün tek seferde bir yerden başka bir yere gönderilen bölümü
+- ► tutam (II)
+- Çok ucuza elde edilen şey; kelepir
+- Vurgun, kazanç
+- Armoniyi oluşturan ezgilerden her biri
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ekonomi
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ekonomi
+  - mecaz
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ekonomi
+  - mecaz
+  - mecaz
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ekonomi
+  - mecaz
+  - mecaz
+  - müzik
+ornekler:
+- - Yedi sekiz balyalık bir partiden bir buçuk iki kilo tütün yürütüyordu.
+- - Öğle sonları birkaç parti tavla oynamaktan hiç vazgeçmiyorduk.
+- - Toplantının olduğu salona onar kişilik partiler hâlinde geldiler.
+- - Gülümhan'ın partisinde tanışır gibi olmuştuk.
+- - ''
+- - ''
+- - Bu ayakkabıları Sultanhamam’da parti malı satan bir ucuzcudan almıştım.
+- - ''
+- - ''
+- - Kazanmakta olduğu partinin güme gitmesinden korkan terlikçi İhsan...
+- - ''
+orneklerkaynak:
+- - Necati Cumalı
+- - 'Yakup Kadri Karaosmanoğlu '
+- - ''
+- - Attilâ İlhan
+- - ''
+- - ''
+- - İnci Aral
+- - ''
+- - ''
+- - Haldun Taner
+- - ''
+---

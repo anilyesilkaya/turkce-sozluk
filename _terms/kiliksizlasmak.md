@@ -1,0 +1,14 @@
+---
+layout: term
+title: kılıksızlaşmak
+slug: kiliksizlasmak
+lisan: Türkçe
+anlamlar:
+- Kılıksız duruma gelmek
+ozellikler:
+- - nesnesiz
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

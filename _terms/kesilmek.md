@@ -1,0 +1,194 @@
+---
+layout: term
+title: kesilmek
+slug: kesilmek
+lisan: Türkçe
+anlamlar:
+- Kesme işi yapılmak; katolunmak
+- Bitkin duruma gelmek, gücü, takati kalmamak, çok yorulmak
+- Gibi olmak, benzemek, dönmek
+- Süt, ayran vb. bozulmak, ekşimek
+- Sona ermek
+- Akmamak
+- Akım gelmez olmak
+- Kendinden önceki kelimeyi "olmak" anlamıyla pekiştiren bir fiil
+- Son veya aralık verilmek
+- Kendini herhangi bir şey gibi göstermek
+- Tutulmak, kapatılmak
+- ► makaslanmak
+- ► durmak
+- Yoksun kalmak
+- Sünnet olmak
+- Çok beğenmek, çok hoşlanmak
+ozellikler:
+- - nesnesiz
+- - nesnesiz
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -den
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -den
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -den
+  - ''
+  - argo
+ornekler:
+- - ''
+- - Sonunda elleri, ayakları yorgunluktan kesilerek uzanıyorlardı yattıkları hasırlara.
+- - Senelerden beri hizmetçinin, sütninenin türlü çeşidi ile uğraşa uğraşa insan sarrafı kesilmiş.
+- - ''
+- - Tam umudumuz kesilecek gibi olup da epey üzüldükten sonra kapı tokmağı tak ederdi.
+- - Su kesilmek.
+- - Dışarıdan biri mi geldi de onları söndürdü yoksa şehir cereyanı mı kesilmiş?
+- - Acele yürümeden nefesi tıkanmış ve heyecandan yüzü kıpkırmızı kesilmiş bir hâlde ihtiyarın yanına girdi.
+- - Okulda cumartesi günleri dersler saat kaçta kesiliyor?
+- - Üçüncü gün sabahı, o bir kuzu oldu, ben bir iradeli aslan kesildim.
+- - ''
+- - ''
+- - Muazzez cevap vermedi ve münakaşa kesildi.
+- - Çocuk yiyip içmeden kesildi.
+- - Galip Baba, çeker gider diye çocuk kesilinceye dek böyle yapmayı uygun görmüştü.
+- - ''
+orneklerkaynak:
+- - ''
+- - Necati Cumalı
+- - Reşat Nuri Güntekin
+- - ''
+- - Hüseyin Rahmi Gürpınar
+- - ''
+- - Reşat Nuri Güntekin
+- - 'Yakup Kadri Karaosmanoğlu '
+- - Ayla Kutlu
+- - Aka Gündüz
+- - ''
+- - ''
+- - Peyami Safa
+- - Reşat Nuri Güntekin
+- - Muzaffer İzgü
+- - ''
+---

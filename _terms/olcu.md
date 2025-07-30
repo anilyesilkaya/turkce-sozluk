@@ -1,0 +1,82 @@
+---
+layout: term
+title: ölçü
+slug: olcu
+lisan: Türkçe
+anlamlar:
+- Bir niceliği, o nicelik için kabul edilmiş birimlerden birine göre oranlayarak değerlendirme; endaze, mizan
+- Bu değerlendirmede kullanılan birim, ölçme birimi; mezür
+- Ölçme sonucu bulunan rakam
+- Belirlenmiş boyut; numara
+- ► ölçüt
+- Değer, itibar
+- Aşırı olmama, ılımlı, uygun olma durumu
+- Bir şiirdeki dizelerin hece ve durak bakımından denk oluşu; vezin
+- Bir ezginin eşit bölümlere ayrılışı
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+  - edebiyat
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+  - edebiyat
+  - müzik
+ornekler:
+- - ''
+- - Ziyanımız, ölçülere sığmayacak kadar büyüktür.
+- - Odanın ölçüsü.
+- - Elbise ölçüsü. Bel ölçüsü.
+- - ''
+- - Şimdiki ölçülere uymaz bir biçimi vardı.
+- - Hiçbir şeyde ölçüyü aşmamalı.
+- - ''
+- - ''
+orneklerkaynak:
+- - ''
+- - Ruşen Eşref Ünaydın
+- - ''
+- - ''
+- - ''
+- - Yusuf Ziya Ortaç
+- - ''
+- - ''
+- - ''
+---

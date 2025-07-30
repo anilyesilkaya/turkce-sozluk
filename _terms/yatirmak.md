@@ -1,0 +1,130 @@
+---
+layout: term
+title: yatırmak
+slug: yatirmak
+lisan: Türkçe
+anlamlar:
+- Bir kimsenin bir yere yatmasını sağlamak
+- ► uyutmak
+- Geceyi geçirmesini sağlamak
+- Eğmek, yatık duruma getirmek
+- Konuk etmek
+- Parayı, işletmek amacıyla bir yere vermek
+- Parayı ödemek amacıyla bir kuruluşa vermek, teslim etmek
+- Bir yiyeceği korumak veya tatlandırmak amacıyla tuz, soğan, yağ vb.nde bir süre bekletmek
+- Bir şeyi düzeltmek, bastırmak, yassıltmak
+- Bir şeyi satın almak için para harcamak
+- Başarısızlığa uğramasına yol açmak
+ozellikler:
+- - -e
+  - -i
+- - -e
+  - -i
+  - -i
+  - -de
+- - -e
+  - -i
+  - -i
+  - -de
+  - ''
+- - -e
+  - -i
+  - -i
+  - -de
+  - ''
+  - -i
+- - -e
+  - -i
+  - -i
+  - -de
+  - ''
+  - -i
+  - -i
+- - -e
+  - -i
+  - -i
+  - -de
+  - ''
+  - -i
+  - -i
+  - ''
+- - -e
+  - -i
+  - -i
+  - -de
+  - ''
+  - -i
+  - -i
+  - ''
+  - ''
+- - -e
+  - -i
+  - -i
+  - -de
+  - ''
+  - -i
+  - -i
+  - ''
+  - ''
+  - ''
+- - -e
+  - -i
+  - -i
+  - -de
+  - ''
+  - -i
+  - -i
+  - ''
+  - ''
+  - ''
+  - -i
+- - -e
+  - -i
+  - -i
+  - -de
+  - ''
+  - -i
+  - -i
+  - ''
+  - ''
+  - ''
+  - -i
+  - ''
+- - -e
+  - -i
+  - -i
+  - -de
+  - ''
+  - -i
+  - -i
+  - ''
+  - ''
+  - ''
+  - -i
+  - ''
+  - argo
+ornekler:
+- - Çocuğu bir kenara yatırdım ve kadını omuzlarından tutup bir taşa dayadım.
+- - ''
+- - Gece beni en üst katta bir odada yatırdılar.
+- - Yağmur ekinleri yatırdı.
+- - ''
+- - Eline geçen serveti emlaka yatırıyordu.
+- - Telefon parasını PTT'ye yatırdım.
+- - Pastırmayı çemene yatırmak.
+- - Kemal Rıfat avucunun içiyle saçlarını yatırıyor.
+- - Sınırlı hoca aylığının yarısını her ay kitaplara yatırır.
+- - ''
+orneklerkaynak:
+- - 'Yakup Kadri Karaosmanoğlu '
+- - ''
+- - Ömer Seyfettin
+- - ''
+- - ''
+- - Ercüment Ekrem Talu
+- - ''
+- - ''
+- - Attilâ İlhan
+- - Haldun Taner
+- - ''
+---

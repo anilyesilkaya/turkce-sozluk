@@ -1,0 +1,126 @@
+---
+layout: term
+title: karşı
+slug: karsi
+lisan: Türkçe
+anlamlar:
+- Bir şeyin, bir yerin, bir kimsenin esas tutulan yüzünün ilerisi; ön
+- Yol, deniz, ırmak vb.nin öbür kıyısı veya yanı; yamaç
+- Bir şeyin esas tutulan yüzünün baktığı yer; ön
+- Bulunan yere göre önde, ileride olan
+- Ayrı şeyleri temsil edenlerin her birine göre diğeri; alternatif
+- '... için'
+- … yaklaşırken, -e doğru
+- Yüzünü bir şeye veya bir yere doğru çevirerek, yönelmiş olarak
+- Karşılık olarak; mukabil
+- “Katında, yanında, nezdinde” anlamlarında eş görevli kelimelerden sonra kullanılan bir söz
+- Tedbir olarak
+- Aykırı olarak, aykırı düşecek biçimde
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - sıfat
+- - isim
+  - ''
+  - ''
+  - sıfat
+  - sıfat
+- - isim
+  - ''
+  - ''
+  - sıfat
+  - sıfat
+  - edat
+- - isim
+  - ''
+  - ''
+  - sıfat
+  - sıfat
+  - edat
+  - edat
+- - isim
+  - ''
+  - ''
+  - sıfat
+  - sıfat
+  - edat
+  - edat
+  - edat
+- - isim
+  - ''
+  - ''
+  - sıfat
+  - sıfat
+  - edat
+  - edat
+  - edat
+  - edat
+- - isim
+  - ''
+  - ''
+  - sıfat
+  - sıfat
+  - edat
+  - edat
+  - edat
+  - edat
+  - edat
+- - isim
+  - ''
+  - ''
+  - sıfat
+  - sıfat
+  - edat
+  - edat
+  - edat
+  - edat
+  - edat
+  - zarf
+- - isim
+  - ''
+  - ''
+  - sıfat
+  - sıfat
+  - edat
+  - edat
+  - edat
+  - edat
+  - edat
+  - zarf
+  - zarf
+ornekler:
+- - Karşımdaki kitap rafında eserlerim sırayla duruyor.
+- - Karşıki kıyıda yün denkleri çıkaran gemiye haykırdık, işaretler ettik.
+- - İkisi birden müdürün karşısına çıkarlar.
+- - Karşı evin kızları. Karşı mahalle.
+- - İlkin bütün bunların bir emperyalizm numarası olduğunu söyleyerek kesin bir karşı tavır koydu.
+- - Şair Nabi’nin dünya görüşünde komşulara karşı iyi niyet beslemek, onlara kem gözle bakmamak… önemli yer tutar.
+  - ''
+- - Yaptığı, düşündüğü her şey sabaha karşı çalan telefonun, beyninde sürekli çınlayan tiz ve madenî sesinin üzerine düşüyor.
+- - Bahçeye karşı oturmak.
+- - İyiliğe karşı iyilik adalettir. İyiliğe karşı kötülük cinayettir.
+- - Ele, âleme ve eşe dosta karşı güçlü görünmek gerek.
+- - Zeytin ağaçlarını diğer meyveli ağaçlar gibi kurda kuşa, böceğe sineğe karşı ilaçlamak da gerekmez.
+- - Su yavaş akarken akıntıya karşı yüzebildim, ancak yamaçtaki hızlı akıntıya karşı yüzmeye çalışmam boşa çabaydı.
+orneklerkaynak:
+- - Halide Edip Adıvar
+- - Refik Halit Karay
+- - Yusuf Ziya Ortaç
+- - ''
+- - Murathan Mungan
+- - Nurullah Aydeniz
+  - ''
+- - Oya Baydar
+- - ''
+- - Ali Fuat Başgil
+- - Bekir Tünay
+- - Tarık Uslu
+- - Yılmaz Gürbüz
+---

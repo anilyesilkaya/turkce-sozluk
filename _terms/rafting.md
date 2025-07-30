@@ -1,0 +1,15 @@
+---
+layout: term
+title: rafting
+slug: rafting
+lisan: İngilizce rafting
+anlamlar:
+- 343 sal yarışı
+ozellikler:
+- - isim
+  - spor
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

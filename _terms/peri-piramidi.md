@@ -1,0 +1,15 @@
+---
+layout: term
+title: peri piramidi
+slug: peri-piramidi
+lisan: Türkçe
+anlamlar:
+- Bir taş yığını ile bunun altında kalmış topraktan oluşan, piramit biçiminde tümsek
+ozellikler:
+- - isim
+  - jeoloji
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

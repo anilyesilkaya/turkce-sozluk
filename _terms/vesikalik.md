@@ -1,0 +1,19 @@
+---
+layout: term
+title: vesikalık
+slug: vesikalik
+lisan: Türkçe
+anlamlar:
+- ► vesikalık fotoğraf
+- Vesika için gerekli olan
+ozellikler:
+- - isim
+- - isim
+  - sıfat
+ornekler:
+- - ''
+- - ''
+orneklerkaynak:
+- - ''
+- - ''
+---

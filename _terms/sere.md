@@ -1,0 +1,15 @@
+---
+layout: term
+title: sere
+slug: sere
+lisan: Türkçe
+anlamlar:
+- Açık duran başparmağın ucundan işaret parmağının ucuna kadar olan uzaklık; sele (III)
+ozellikler:
+- - isim
+  - ağızlardan
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

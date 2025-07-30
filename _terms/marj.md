@@ -1,0 +1,19 @@
+---
+layout: term
+title: marj
+slug: marj
+lisan: Fransızca marge
+anlamlar:
+- Yazılmış veya basılı bir kâğıdın kenarında bırakılmış boşluk
+- ► pay
+ozellikler:
+- - isim
+- - isim
+  - ekonomi
+ornekler:
+- - ''
+- - ''
+orneklerkaynak:
+- - ''
+- - ''
+---

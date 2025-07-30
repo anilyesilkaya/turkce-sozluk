@@ -1,0 +1,101 @@
+---
+layout: term
+title: söylemek
+slug: soylemek
+lisan: Türkçe
+anlamlar:
+- Düşündüğünü veya bildiğini sözle anlatmak; buyurmak
+- Bir düşünceyi ileri sürmek, ortaya atmak
+- Yapılmasını istemek; lütfetmek
+- Türkü, şarkı vb. okumak
+- Yazmak, düzmek
+- Haber vermek
+- Önceden bildirmek, tahmin etmek
+- Sipariş etmek
+- Herhangi bir şeyi bildirmek, anlatmak, demek istemek, hatırlatmak
+- Bir şey ısmarlamak
+ozellikler:
+- - -i
+- - -i
+  - ''
+- - -i
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -e
+  - -i
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -e
+  - -i
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -e
+  - -i
+  - ''
+  - nesnesiz
+  - mecaz
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -e
+  - -i
+  - ''
+  - nesnesiz
+  - mecaz
+  - ''
+ornekler:
+- - Bu konak için de yine senelerden beri aynı şeyi söylerim.
+- - Hececiler kendilerinden sonra yeni bir edebî neslin yetişmediğini söylüyorlar.
+- - ''
+- - Kanto söyler gibi hareketler ve taklitlerle söylediği şarkılar pek eğlenceli şeylerdi.
+- - Şiir söylemek.
+- - Benim burada nasıl yaşadığımı görenler gidip babama da söylerler.
+- - Bir değil iki tane olduğunu size söylemiştim.
+- - Pencere kenarında bir masa seçti, oturdu. Bir çay söyledi.
+- - Ne söyler bu türküler / Ay karanlık gecelerde yüzen gemiler
+- - Milliyet’e gittim ertesi gün. Abdi Bey bir çay söyledi bana.
+orneklerkaynak:
+- - Reşat Nuri Güntekin
+- - Sait Faik Abasıyanık
+- - ''
+- - Reşat Nuri Güntekin
+- - ''
+- - Abdülhak Şinasi Hisar
+- - Refik Halit Karay
+- - Selçuk Baran
+- - Necati Cumalı
+- - Ülkü Tamer
+---

@@ -1,0 +1,21 @@
+---
+layout: term
+title: temessül
+slug: temessul
+lisan: Arapça temes̱s̱ul
+anlamlar:
+- ► benzeşme
+- ► özümleme
+ozellikler:
+- - isim
+  - eskimiş
+- - isim
+  - eskimiş
+  - biyoloji
+ornekler:
+- - ''
+- - ''
+orneklerkaynak:
+- - ''
+- - ''
+---

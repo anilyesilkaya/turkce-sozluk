@@ -1,0 +1,82 @@
+---
+layout: term
+title: pul
+slug: pul
+lisan: Farsça pūl
+anlamlar:
+- Posta parası karşılığı mektup zarfı, kartpostallara ve damga resmine karşılık kâğıtlara yapıştırılan, basılı küçük kâğıt parçası
+- Bazı giysilerde süs olarak kullanılan parlak, incecik, genellikle metal levhacık
+- Tavla oyununda kullanılan, plastik, tahta vb.nden yapılmış yassı yuvarlak levhacık
+- Vida, cıvata vb. şeylerin boynuna geçirilen, ortası delik metal levhacık
+- Propaganda amacıyla kullanılan yazılı küçük kâğıt
+- Küçük ve ince tabakacıklar
+- Üzerinde bulunduğu organa yapışık, biçim ve yapıca çok basit yaprakların her biri
+- Balıkların, sürüngenlerin ve bazı kuşlarla memelilerin vücudunu kaplayan boynuzsu, sert levhacık
+- Akçeden küçük metal para
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - bitki bilimi
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - bitki bilimi
+  - hayvan bilimi
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - bitki bilimi
+  - hayvan bilimi
+  - ''
+ornekler:
+- - Mektuplarına kendi pullarını yapıştırırlar, kendi memurlarıyla sevk ederlerdi.
+- - Arkasında bir omzu tamamıyla açık, altın pul işlemeli bir akşam tuvaleti vardı.
+- - Bir el çabukluğu yaparak üç pul aldı ve iki pul da yek hanesine salladı.
+- - ''
+- - ''
+- - ''
+- - ''
+- - Bir adamla minimini bir kız çocuğu elleri balık pulu içinde balık avlıyordu.
+- - ''
+orneklerkaynak:
+- - Falih Rıfkı Atay
+- - Halide Edip Adıvar
+- - Cahit Sıtkı Tarancı
+- - ''
+- - ''
+- - ''
+- - ''
+- - Sait Faik Abasıyanık
+- - ''
+---

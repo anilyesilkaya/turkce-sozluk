@@ -1,0 +1,124 @@
+---
+layout: term
+title: bastırmak
+slug: bastirmak
+lisan: Türkçe
+anlamlar:
+- Basma işini yaptırmak
+- Basma işini yapmak
+- Zararlı bir olayı önlemek
+- ► durdurmak
+- Üstünlüğünü göstermek
+- Bir kumaşın kenarını kıvırıp dikmek
+- ► gidermek
+- Hemen söylemek
+- Bir yere beklenmedik bir anda kalabalık hâlde gelmek
+- Birdenbire gerçekleşmek ve pek çok etki göstermek
+- Baskı yapmak, üzerine iyice düşmek
+- Kümes hayvanlarını kuluçkaya yatırmak
+ozellikler:
+- - -i
+- - -i
+  - ''
+- - -i
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - -e
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - -e
+  - ağızlardan
+ornekler:
+- - Kitap bastırmak.
+- - Çok güçlüydü, bastırdı, omuzlarını yatağa yapıştırdı âdeta.
+- - Yangını bastırmak.
+- - Oradaki ayaklanmaları bastırdık, yığınla şehit verdik! Bulgaristan’da, Sırbistan’da, Karadağ’da bütün ayaklanmaları bastırdık.
+- - Şişman, kısa boylu bir yüzbaşı usulsüzlükte, şarlatanlıkta, inatta hepimizi bastırıyor.
+- - ''
+- - Heyecanını bir türlü bastıramıyor.
+- - Cevabı bastırdı.
+- - Ama bir evi tek başına çeviren, o evin düzeninden sorumlu kadınlar ansızın bastıran konuktan her zaman tedirgin olurlar.
+- - Kış bastırdığında bu sıcağa rahmet okursunuz.
+- - Köyün ihtiyarları da Feyziye'nin babasına bastırmışlar, onları bağışlatmışlar.
+- - ''
+orneklerkaynak:
+- - ''
+- - Tarık Dursun K
+- - ''
+- - Necati Cumalı
+- - Ömer Seyfettin
+- - ''
+- - Nezihe Araz
+- - ''
+- - Oktay Rifat
+- - Ayşe Kulin
+- - Erhan Bener
+- - ''
+---

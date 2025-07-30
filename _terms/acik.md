@@ -1,0 +1,196 @@
+---
+layout: term
+title: açık
+slug: acik
+lisan: Türkçe
+anlamlar:
+- Açılmış, kapalı olmayan, kapalı karşıtı
+- Engelsiz, serbest olan
+- Örtüsüz, çıplak olan
+- İçinde veya üstünde hiçbir şey bulunmayan
+- Görevlisi olmayan, boş (iş, görev)
+- Aralığı çok
+- Çalışır durumda olan
+- Kolay anlaşılır; vazıh
+- Gizliliği olmayan, olduğu gibi görünen
+- Her türlü düşünceyi hoşgörüyle karşılayabilen, etkisinde kalabilen
+- Rengi koyu olmayan, koyu karşıtı
+- Sevişme sahnelerini bütün çıplaklığıyla anlatan (kitap, resim, film vb.)
+- Belirgin bir biçimde
+- Bir gereksinimin karşılanamaması durumu
+- Belli bir yerin biraz uzağı
+- Denizin kıyıdan uzakça olan yeri
+ozellikler:
+- - sıfat
+- - sıfat
+  - ''
+- - sıfat
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - zarf
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - zarf
+  - isim
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - zarf
+  - isim
+  - isim
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - zarf
+  - isim
+  - isim
+  - isim
+ornekler:
+- - Açık pencereden, pastırma yazının mavi ışıkları girmekte.
+- - Açık yol.
+- - Yolcuların hepsi indikten sonra Mehmet Akif göründü, beni açık başıyla selamladı.
+- - Kâğıtta açık yer kalmadı.
+- - ''
+- - Açık adımlarla.
+- - Bazı dükkânları açık olan caddeden sola saptılar.
+- - Açık, dobra sualleriyle karşısındakinin en azından keyfini kaçırır.
+- - ''
+- - Her çeşit kafa ve gönül fırtınalarına açık bir adamdı o.
+- - Açık sarı saçlı, zayıf bir kadın keman çalıyordu.
+- - Kurnaz olan bazı sergiciler gençler için açık filmler göstermek suretiyle fazla müşteri toplama gayreti içine girerlerdi.
+- - İnsan, mağlubiyetini bu kadar açık kabul eder mi?
+- - Bütçe açığı.
+  - Ülkenin doktor açığı.
+- - Tren yolu nehrin açığından geçer.
+- - Limanda bilinen gemiler, oysa açıklardadır.
+orneklerkaynak:
+- - Erendiz Atasü
+- - ''
+- - Ahmet Kabaklı
+- - ''
+- - ''
+- - ''
+- - Ömer Seyfettin
+- - Emine Işınsu
+- - ''
+- - Tarık Buğra
+- - Ömer Seyfettin
+- - 'Temel Sönmez '
+- - Mahmut Yesari
+- - ''
+  - ''
+- - ''
+- - Behçet Necatigil
+---

@@ -1,0 +1,109 @@
+---
+layout: term
+title: güç
+slug: guc
+lisan: Türkçe
+anlamlar:
+- Fizik, düşünce ve ahlak yönünden bir etki yapabilme veya bir etkiye direnebilme yeteneği; çelim, efor
+- Bir olaya yol açan her türlü hareket; kuvvet, fer
+- Sınırsız, mutlak nitelik
+- Büyük etkinliği ve önemi olan nitelik
+- Bir cihazın, bir mekanizmanın iş yapabilme niteliği
+- Siyasi, ekonomik, askerî vb. bakımlardan etki ve önemi büyük olan devlet veya devletler topluluğu
+- Bir ulus, bir ordu vb.nin ekonomik, endüstriyel ve askerî potansiyeli
+- Bir toprağın verimlilik yeteneği
+- İktidar ve yeterliliğe sahip olan kimse
+- Bir akarsuyun aşındırma ve taşıma yeteneği
+- Birim zamanda yapılan iş
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - coğrafya
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - coğrafya
+  - fizik
+ornekler:
+- - Zihin gücü. Yaşama gücü.
+- - ''
+- - Tanrı'nın gücü.
+- - Paranın gücü.
+- - Motorun gücü.
+- - Güçler dengesi.
+- - İnsan gücü.
+- - ''
+- - ''
+- - ''
+- - ''
+orneklerkaynak:
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+---

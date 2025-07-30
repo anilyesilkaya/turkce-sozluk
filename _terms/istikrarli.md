@@ -1,0 +1,14 @@
+---
+layout: term
+title: istikrarlı
+slug: istikrarli
+lisan: Türkçe
+anlamlar:
+- İstikrarı olan; stabilize
+ozellikler:
+- - sıfat
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

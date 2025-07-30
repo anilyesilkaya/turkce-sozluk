@@ -1,0 +1,140 @@
+---
+layout: term
+title: iç
+slug: ic
+lisan: Türkçe
+anlamlar:
+- Herhangi bir durumun, cismin veya alanın sınırları arasında bulunan bir yer; dâhil, dış karşıtı
+- Oyuk şeylerin boşluğu
+- Cisimlerin yüzeyleri arasında kalan her nokta
+- Nesnelerin veya kimselerin arasında bulunan nesne veya kimse; ara
+- Ten ile dış giysiler arası
+- Kabuğu olan veya dışı kabuk durumunda bulunan yiyeceklerde kabuğun sardığı bölüm
+- Pirinç, soğan ve baharatla hazırlanan, dolmalarda kullanılan karışım
+- İnsan vücudunun mide, bağırsak, kalp, ciğer gibi organlarının bulunduğu kısım
+- Akıl, gönül, irade gibi insanın manevi varlığını oluşturan şeylerden herhangi biri; ciğer, derun, yürek
+- Bir ülke, şehir, topluluk vb.nde olan veya yapılan; domestik
+- Değişik yemeklerde kullanılmak üzere et ile sebzelerin ince kıyımının karıştırılması ve yoğrulmasıyla meydana getirilen karışım
+- Somut kavramlarda iki veya ikiden çok şeyde merkeze daha yakın olan
+- İnsanın manevi varlığıyla ilgili olan
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - sıfat
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - sıfat
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - sıfat
+  - ''
+  - sıfat
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - sıfat
+  - ''
+  - sıfat
+  - sıfat
+ornekler:
+- - Deniz gecenin içinde, gece denizin içindedir.
+- - ''
+- - Tahtanın içi çürümüş.
+- - ''
+- - Boynumda kalın yün atkı, içimde çift kat fanila, gene de titriyorum.
+- - Ekmek içi. Ceviz içi.
+- - ''
+- - ''
+- - İçimizdeki sevinçleri, kederleri paylaşacak insan nerede?
+- - Yurt içi ulaşım. Şehir içi haberleşme. Aile içi ilişkiler.
+- - ''
+- - İç kapının perdesi yanlara doğru açıldı.
+- - İç dünyamız.
+orneklerkaynak:
+- - Çetin Altan
+- - ''
+- - ''
+- - ''
+- - Erhan Bener
+- - ''
+- - ''
+- - ''
+- - Sait Faik Abasıyanık
+- - ''
+- - ''
+- - Peyami Safa
+- - ''
+---

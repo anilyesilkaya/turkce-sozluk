@@ -1,0 +1,111 @@
+---
+layout: term
+title: için
+slug: icin
+lisan: Türkçe
+anlamlar:
+- Amacıyla, maksadıyla
+- Neden ve sonuç belirten bir söz
+- -den dolayı, -den ötürü
+- -e özgü, -e ayrılmış
+- -e göre
+- ► hakkında
+- Göz önünde tutulursa, birinin adına
+- Karşılığında, karşılık olarak
+- Uğruna, yoluna
+- Zaman bildiren kelimelerden sonra süre belirten bir söz
+- Ant deyimleri yapan bir söz
+ozellikler:
+- - edat
+- - edat
+  - ''
+- - edat
+  - ''
+  - ''
+- - edat
+  - ''
+  - ''
+  - ''
+- - edat
+  - ''
+  - ''
+  - ''
+  - ''
+- - edat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - edat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - edat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - edat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - edat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - edat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+ornekler:
+- - Ukalalık yapmamak için bütün gayretine rağmen yine de o düşündüğünü yapmıştı.
+- - Hastanın uykuda olduğunu söylemesi sırf vakit kazanmak içindi.
+- - Bu büyükşehirde ona ilk hitap eden adam olduğu için ona yüreğini açmak ihtiyacını duyuyordu.
+- - Sizin için bir kitap getirdim.
+- - Bizim için çok enteresan bir şeydi bu yeni icat.
+- - Gel gör ki dilimin ucunda kağnı var. Kağnılar için de bir çift sözüm var.
+- - Senin için çok sevindim.
+  - Bu şapka senin için büyük.
+- - Bu eşyalar için kaç lira ödediniz?
+- - Neler yapmadık şu vatan için.
+- - Açık söyleyeyim, size birkaç gün için sığındım.
+- - Namusum hakkı için. Çocukların başı için.
+orneklerkaynak:
+- - Sait Faik Abasıyanık
+- - Reşat Nuri Güntekin
+- - 'Yakup Kadri Karaosmanoğlu '
+- - ''
+- - Burhan Felek
+- - Bedri Rahmi Eyüboğlu
+- - ''
+  - ''
+- - ''
+- - Orhan Veli Kanık
+- - Aka Gündüz
+- - ''
+---

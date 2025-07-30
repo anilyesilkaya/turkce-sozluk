@@ -1,0 +1,14 @@
+---
+layout: term
+title: dayandırabilmek
+slug: dayandirabilmek
+lisan: Türkçe
+anlamlar:
+- Dayandırma ihtimali veya imkânı bulunmak
+ozellikler:
+- - -e
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

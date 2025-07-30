@@ -1,0 +1,14 @@
+---
+layout: term
+title: klikleşme
+slug: kliklesme
+lisan: Türkçe
+anlamlar:
+- ► hizipleşme
+ozellikler:
+- - isim
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

@@ -1,0 +1,15 @@
+---
+layout: term
+title: turgor
+slug: turgor
+lisan: Latince
+anlamlar:
+- Hücrenin çok su çekerek şişmesi, öz suyunun kıvamının azalması
+ozellikler:
+- - isim
+  - biyoloji
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

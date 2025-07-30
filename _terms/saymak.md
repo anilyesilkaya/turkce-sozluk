@@ -1,0 +1,82 @@
+---
+layout: term
+title: saymak
+slug: saymak
+lisan: Türkçe
+anlamlar:
+- Bir şeyin kaç tane olduğunu anlamak için bunları birer birer elden veya gözden geçirmek, sayısını bulmak
+- Sayıları arka arkaya söylemek
+- Birini veya bir şeyi herhangi başka bir şey yerine koymak veya ona herhangi bir şey gözüyle bakmak; addetmek
+- … olduğunu veya olacağını varsaymak, kabul etmek
+- Arka arkaya söylemek, sıralamak
+- Ödemek, peşin vermek
+- Geçer tutmak
+- Değeri, üstünlüğü, yaşlılığı, yararlılığı dolayısıyla bir kimseye değer vermek, hürmet etmek
+- Hesaba katmak, dikkate almak
+ozellikler:
+- - -i
+- - -i
+  - ''
+- - -i
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+  - mecaz
+ornekler:
+- - 'Nara sormuşlar: -Tanelerin kaç tane? Yiyenler saysın bana ne- demiş.'
+- - Birden ona kadar saymak.
+- - Her çiçekten bal eyledik / Arıya saydılar bizi
+- - Elimi uzatsam benim olacak bir vazoya sırt çevirip başkasına kaptırınca onu benden çalınmış saymak neden?
+- - Birinin iyiliklerini saymak.
+- - İki bin lira saydı, bana bir küpe aldı.
+- - Bunu saymam, sizi bir gün erkenden beklerim.
+- - Anam babamı nasıl saydı ise ben de kocamı öyle sayacaktım.
+- - Bundan önce verdiğimi saymıyor musun?
+orneklerkaynak:
+- - Bedri Rahmi Eyüboğlu
+- - ''
+- - Pir Sultan Abdal
+- - Haldun Taner
+- - ''
+- - Memduh Şevket Esendal
+- - ''
+- - Memduh Şevket Esendal
+- - ''
+---

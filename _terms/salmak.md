@@ -1,0 +1,137 @@
+---
+layout: term
+title: salmak
+slug: salmak
+lisan: Türkçe
+anlamlar:
+- Bağımlılığına, tutukluluğuna veya baskı altındaki durumuna son vererek serbest kılmak; bırakmak
+- Yollamak, göndermek
+- Koymak, katmak
+- ► sürmek
+- ► uğratmak
+- Vergi yüklemek
+- Üzerine yürütmek
+- ► saldırmak
+- ► sarkıtmak
+- ► koyuvermek
+- Gemi demir üzerinde dört yana dönmek
+- Bakmamak, ilgilenmemek, özen göstermemek
+ozellikler:
+- - -e
+  - -i
+- - -e
+  - -i
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - ''
+  - ''
+  - denizcilik
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - ''
+  - ''
+  - denizcilik
+  - -i
+  - mecaz
+ornekler:
+- - ''
+- - Bununla beraber peşine adam salmak gerekir.
+- - Halk ruhunun benliğinizde yeniden uyanıp hararetini gönlünüze saldığını duyarsınız.
+- - Bunun içindir ki dal budak saldı, yemiş vermeye başladı.
+- - Başını derde salmak.
+- - Ona elli bin lira salmışlar.
+- - Tazıyı tavşana salmak.
+- - Aç kurt, yılana da salar, taşa da, dedi.
+- - Soğutmak için kuyuya su kabı saldı.
+- - ''
+- - ''
+- - ''
+orneklerkaynak:
+- - ''
+- - Aka Gündüz
+- - Refik Halit Karay
+- - Ruşen Eşref Ünaydın
+- - ''
+- - ''
+- - ''
+- - Memduh Şevket Esendal
+- - ''
+- - ''
+- - ''
+- - ''
+---

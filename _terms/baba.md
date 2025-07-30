@@ -1,0 +1,162 @@
+---
+layout: term
+title: baba
+slug: baba
+lisan: Türkçe
+anlamlar:
+- Çocuğu olan erkek; peder
+- Çocuğun dünyaya gelmesinde etken olan erkek
+- Kazılarda çıkarılan toprağın miktarını hesaplayabilmek için yer yer bırakılan toprak dikme
+- Çatı merteği
+- Bir ülkeye veya bir topluluğa yararlı olmuş kimse
+- Anlayışlı, iyi huylu erkek
+- Silah kaçakçılığı, kara para aklama ve uyuşturucu madde ticareti vb. kirli ve gizli işler yapan çetenin başı
+- Koruyucu, babalık duyguları ile dolu kimse
+- ► ata
+- Çok kaliteli, üstün nitelikli
+- Tarikatların bazısında tekke büyüğü
+- Bu gibi kimselere verilen ünvan
+- Gemi veya iskelede halatın takıldığı yuvarlak başlı iri demir, ağaç veya beton dikme
+- Bir merdivende, tırabzanın sahanlıkla birleştiği yerde bulunan dikey öge
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+  - mecaz
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - sıfat
+  - argo
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - sıfat
+  - argo
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - sıfat
+  - argo
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - sıfat
+  - argo
+  - ''
+  - ''
+  - denizcilik
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - sıfat
+  - argo
+  - ''
+  - ''
+  - denizcilik
+  - mimarlık
+ornekler:
+- - Baba olmak bir süreç... Yani öyle bebek doğunca baba olunmuyor.
+- - Türk babanın veya Türk ananın çocuğu Türk'tür.
+- - ''
+- - ''
+- - Atatürk Türk milletinin babasıdır.
+- - ''
+- - Bu silahlar, Türkiye’deki ünlü mafya babaları tarafından ülkeye sokuluyordu.
+- - ''
+- - Asya'daki babalarımızdan miras kalan millî şiirimizin manzum şekillerinde...
+- - ''
+- - Bektaşi babası.
+- - Gül Baba. Nur Baba. Baba İlyas.
+- - ''
+- - ''
+orneklerkaynak:
+- - Müslüm Karakuş
+- - Anayasa
+- - ''
+- - ''
+- - ''
+- - ''
+- - Ahmet Kekeç
+- - ''
+- - Yahya Kemal Beyatlı
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+---

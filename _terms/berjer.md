@@ -1,0 +1,14 @@
+---
+layout: term
+title: berjer
+slug: berjer
+lisan: Fransızca bergère
+anlamlar:
+- Arkası kabarık ve yüksek, oturacak yeri geniş, tek kişilik koltuk; berjer koltuk
+ozellikler:
+- - isim
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

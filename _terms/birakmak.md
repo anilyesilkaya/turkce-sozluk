@@ -1,0 +1,903 @@
+---
+layout: term
+title: bırakmak
+slug: birakmak
+lisan: Türkçe
+anlamlar:
+- Elde bulunan bir şeyi tutmaktan vazgeçip tutmaz olmak
+- Eldeki, sırttaki bir şeyi bir yere koymak
+- Bir işi başka bir zamana ertelemek
+- Bir şeyi bir yerde unutmuş olmak
+- Bulunduğu yeri veya durumu değiştirmemek
+- Geriye kalmasını sağlamak
+- Bir işin sorumluluğunu, yükümlülüğünü başkasına vermek, onu görevlendirmek
+- Birinin bir şeyi yapmasına engel olmamak
+- ► sarkıtmak
+- Ölen, ayrılan birinden iş, kişi, nesne vb. şeyler kalmak
+- Bir alışkanlıktan veya bir işten vazgeçmek
+- Uğraşmaz olmak, artık uğraşmamak
+- Bıyık veya sakal uzatmak
+- Özgürlük vermek, hürriyetine kavuşmasını sağlamak
+- ► boşamak
+- Kötü bir durumda terk etmek
+- Koyup gitmek
+- Sınıftan veya sınavdan geçirmemek
+- Bir malı pazarlık sonucu fiyat indirimine razı olarak satmak
+- Bakılmak, korunmak için vermek
+- Bir kimseyi beraberinde getirmemek veya götürmemek
+- Sahiplik hakkını başkasına vermek
+- Yapışık olan bir şey yapışıklıktan kurtulmak
+- Bulunduğu veya dokunduğu yerde bir şey oluşturmak, meydana getirmek
+- ► koymak
+- Bir şeyi başkasına iletilmek üzere vermek
+- Bir şeyi bir kimse veya belli bir amaç için ayırmak
+- ► götürmek
+- Kâr getirmek, yarar sağlamak
+- Birilerini koyuvermek, salıvermek
+- Bir yana itmek, önem vermemek
+- Kendi hâline terk etmek
+- Beraberinde bulunması gereken bir şeyi yanına almamak
+- Bir işi veya çalışmayı bitirmeden sona erdirmek
+- Bir şey yeni bir duruma dönüşmek
+- Geride … kalmasını sağlamış olmak
+- … durumda bulunmasına, … hâle gelmesine sebep olmak
+- Ölüm sebebiyle kaybetmiş olmak
+ozellikler:
+- - -i
+- - -i
+  - nesnesiz
+- - -i
+  - nesnesiz
+  - ''
+- - -i
+  - nesnesiz
+  - ''
+  - ''
+- - -i
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+- - -i
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+- - -i
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+- - -i
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+- - -i
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+- - -i
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+- - -i
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+- - -i
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+- - -i
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+- - -i
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+- - -i
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+- - -i
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+- - -i
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -e
+  - -i
+- - -i
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -e
+  - -i
+  - nesnesiz
+- - -i
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -e
+  - -i
+  - nesnesiz
+  - -e
+  - -i
+- - -i
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -e
+  - -i
+  - nesnesiz
+  - -e
+  - -i
+  - nesnesiz
+- - -i
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -e
+  - -i
+  - nesnesiz
+  - -e
+  - -i
+  - nesnesiz
+  - nesnesiz
+- - -i
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -e
+  - -i
+  - nesnesiz
+  - -e
+  - -i
+  - nesnesiz
+  - nesnesiz
+  - ''
+- - -i
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -e
+  - -i
+  - nesnesiz
+  - -e
+  - -i
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+- - -i
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -e
+  - -i
+  - nesnesiz
+  - -e
+  - -i
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+- - -i
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -e
+  - -i
+  - nesnesiz
+  - -e
+  - -i
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+- - -i
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -e
+  - -i
+  - nesnesiz
+  - -e
+  - -i
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+- - -i
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -e
+  - -i
+  - nesnesiz
+  - -e
+  - -i
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+- - -i
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -e
+  - -i
+  - nesnesiz
+  - -e
+  - -i
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+- - -i
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -e
+  - -i
+  - nesnesiz
+  - -e
+  - -i
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+- - -i
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -e
+  - -i
+  - nesnesiz
+  - -e
+  - -i
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -e
+  - -i
+  - nesnesiz
+  - -e
+  - -i
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -e
+  - -i
+  - nesnesiz
+  - -e
+  - -i
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -e
+  - -i
+  - nesnesiz
+  - -e
+  - -i
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -e
+  - -i
+  - nesnesiz
+  - -e
+  - -i
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -e
+  - -i
+  - nesnesiz
+  - -e
+  - -i
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+ornekler:
+- - ''
+- - Mermer masaya bir yirmi beşlik bıraktı.
+- - Gezmeyi haftaya bıraktık.
+- - Acaba eldivenlerimi nerede bıraktım?
+- - Tencereyi öylece kirli bir biçimde bıraktım.
+- - Paranın bir kısmını bırakırsan rahat edersin.
+- - Cemal Paşa'da anlamadığı işi ehline bırakmak meziyeti vardı.
+- - Bırak, burasını benim defterimden okuyayım.
+- - Saçlarını omzuna bırakmış.
+- - Hayata gözlerini kaparken ardında yedi yaşında bir oğul, on iki yaşında bir kız bırakıyordu.
+- - O da basket oynardı ama artık bıraktı.
+- - Aliye, az önce haftalığını almıştı ve patronlarına işi bırakacağını, bırakmak zorunda olduğunu nasıl söyleyeceğini bir türlü bilemiyordu.
+- - ''
+- - Bıraksam acaba beyaz bir çift güvercin gibi uçarlar mı?
+- - Bıraktıkları zevcelerini yine canları isterse tekrar alabilirler.
+- - ''
+- - Mahalle arasındaki küçük dükkânını bırakarak karısını, şehrin başka bir tarafında bir eve yerleştirdi.
+- - Öğretmen üç tembel çocuğu bıraktı.
+- - Başkalarına on ikiye veriyoruz ama sana onar kuruştan bırakayım.
+- - Eşyamı size bırakacağım.
+- - Telgrafhanede bir zabit bırakarak işinin başına gitmesini rica ettim.
+- - Bizim komşu bütün malını Kızılay'a bırakmış.
+- - Islanan zemin kaplaması zamanla kendini bıraktı.
+- - İz bırakmak. Leke bırakmak.
+- - ''
+- - Postacı bir şey bıraktı sana.
+- - Kutuyu biraz öne ittirdi ve Simay'ın tutması için pay bıraktı.
+- - Savaş, sen eğlenmene bak, ben Buğra'yı eve bırakırım kardeşim.
+- - Bu alışveriş bize fazla bir şey bırakmadı.
+- - Komiser tutukluyu bıraktı.
+- - Durum böyledir diye her işini bırakıp düşmanlar ne ederlerse etsinler biz durup bakalım mı?
+  - Neden Boğaz’ı koruyacağız da bir vakitler seyran yeri olan Kasımpaşa’yı bırakacağız.
+- - Aman beyim bana kıyma, benim de çoluk çocuğum var, mahvolurum ben, biz dost ve arkadaşız kölen olayım bırak şu adamı, diyordu.
+- - Kabanımı evde bıraktım.
+- - Okumamı bırakarak dışarı çıkmamı istiyordu.
+- - Duruşmayı açıyorum demesiyle delikanlının yüzündeki güven dolu ifade yerini endişe ve korkuya bıraktı.
+- - On yıl süren savaş büyük bir yıkım bırakarak bazılarına zenginleşmek için yeni fırsatlar yarattı.
+- - Kadını hamile bıraktı.
+- - İki oğlumu Çanakkale’de bıraktım.
+orneklerkaynak:
+- - ''
+- - Tarık Buğra
+- - ''
+- - ''
+- - ''
+- - ''
+- - Falih Rıfkı Atay
+- - Ömer Seyfettin
+- - ''
+- - Cahit Uçuk
+- - ''
+- - Murathan Mungan
+- - ''
+- - Refik Halit Karay
+- - Ömer Seyfettin
+- - ''
+- - Peyami Safa
+- - ''
+- - Memduh Şevket Esendal
+- - ''
+- - Atatürk
+- - ''
+- - ''
+- - ''
+- - ''
+- - Yusuf Ziya Ortaç
+- - Beyzanur Yılmaz
+- - Dilara Gürel
+- - ''
+- - ''
+- - Ahmet Cevdet Paşa
+  - Burhan Felek
+- - Ali Rıza Öge
+- - ''
+- - Peyami Safa
+- - ''
+- - ''
+- - ''
+- - Aka Gündüz
+---

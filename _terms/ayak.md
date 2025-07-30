@@ -1,0 +1,210 @@
+---
+layout: term
+title: ayak
+slug: ayak
+lisan: Türkçe
+anlamlar:
+- Bacakların bilekten aşağıda bulunan ve yere basan bölümü
+- Birtakım şeylerin yerden yüksekçe durmasını sağlayan dayak, destek veya bunlardan her biri; bacak
+- Vücudun belden aşağı bölümü; bacak
+- Yürüyüşün ağırlık veya çabukluk derecesi
+- ► basamak
+- Futun küpü alınarak hesaplanan değer
+- Mayalardan önce, makama uygun olarak çalınan veya söylenen beste
+- Yarım arşın veya 30,5 santimetre uzunluğundaki ölçü birimi; kadem, fit (III), fut
+- ► göl ayağı
+- Halk edebiyatında koşuklarda kısa yedekli dizeler
+- Halk edebiyatında uyak
+- Bir doğrunun başka bir doğruyu veya bir düzlemi kestiği nokta
+- Karakucak ve yağlı güreşte pehlivanların ayrıldıkları beş dereceden beşincisi
+- Altılı ganyanda yer alan her bir koşu
+- Kömür ocaklarında kömürün çıkarıldığı galeri
+- Bir düşüncenin, bir yapının olmazsa olmazı sayılan, temelini oluşturduğu düşünülen şeylerin her biri
+ozellikler:
+- - isim
+  - anatomi
+- - isim
+  - anatomi
+  - ''
+- - isim
+  - anatomi
+  - ''
+  - ''
+- - isim
+  - anatomi
+  - ''
+  - ''
+  - ''
+- - isim
+  - anatomi
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - anatomi
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - anatomi
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ağızlardan
+- - isim
+  - anatomi
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ağızlardan
+  - ''
+- - isim
+  - anatomi
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ağızlardan
+  - ''
+  - coğrafya
+- - isim
+  - anatomi
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ağızlardan
+  - ''
+  - coğrafya
+  - edebiyat
+- - isim
+  - anatomi
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ağızlardan
+  - ''
+  - coğrafya
+  - edebiyat
+  - edebiyat
+- - isim
+  - anatomi
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ağızlardan
+  - ''
+  - coğrafya
+  - edebiyat
+  - edebiyat
+  - matematik
+- - isim
+  - anatomi
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ağızlardan
+  - ''
+  - coğrafya
+  - edebiyat
+  - edebiyat
+  - matematik
+  - spor
+- - isim
+  - anatomi
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ağızlardan
+  - ''
+  - coğrafya
+  - edebiyat
+  - edebiyat
+  - matematik
+  - spor
+  - spor
+- - isim
+  - anatomi
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ağızlardan
+  - ''
+  - coğrafya
+  - edebiyat
+  - edebiyat
+  - matematik
+  - spor
+  - spor
+  - madencilik
+- - isim
+  - anatomi
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ağızlardan
+  - ''
+  - coğrafya
+  - edebiyat
+  - edebiyat
+  - matematik
+  - spor
+  - spor
+  - madencilik
+  - mecaz
+ornekler:
+- - Çimenlerin üzerindeki çiylerde güneşten düşmüş parlak elmas damlalarını inadına ayaklarıyla ezdi.
+- - Köşede duran, ayağı kırık tahta sandalyeye oturdum.
+- - Ayağına bir pantolon çekti.
+- - Senin ayağınla köye akşama kadar varamayız.
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Mânicilerin kafa yormadan buldukları ayaklar Cenap'ı şaşkınlıktan şaşkınlığa sürükler.
+- - Dikme ayağı.
+- - ''
+- - ''
+- - ''
+- - ''
+orneklerkaynak:
+- - Ömer Seyfettin
+- - Burhanettin Uysal
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Salâh Birsel
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+---

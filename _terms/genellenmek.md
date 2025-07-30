@@ -1,0 +1,14 @@
+---
+layout: term
+title: genellenmek
+slug: genellenmek
+lisan: Türkçe
+anlamlar:
+- Genelleme işine konu olmak
+ozellikler:
+- - nesnesiz
+ornekler:
+- - Bunlar genellenecek gerçekler olmayabilir, yine de var olan gerçekler.
+orneklerkaynak:
+- - Tomris Uyar
+---

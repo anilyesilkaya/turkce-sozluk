@@ -1,0 +1,95 @@
+---
+layout: term
+title: iğne
+slug: igne
+lisan: Türkçe
+anlamlar:
+- Dikiş dikmeye yarayan, ince, ucu sivri, bir ucunda iplik geçecek deliği bulunan çelik araç
+- Vücuda şırıngayla verilen sıvı ilaç
+- Toplu iğnenin süs olarak kullanılan, iri başlı, renkli bir türü
+- Genellikle kadınların süs olarak elbiselerinin göğüs, yaka vb. yerlerine taktıkları altın veya mücevherli süs eşyası
+- Bazı araçların ucu sivri parçaları
+- Bazı böceklerin kendilerini savunmak için kullandıkları organ
+- Oltanın ucundaki küçük çengel
+- Dokunaklı söz
+- Bitkilerde yumurtacıkla tepecik arasındaki sapçık
+- Kas veya damar yoluyla vücuda sıvı bir ilacı basınçla vermek amacıyla enjektör ucuna takılan, boru biçiminde, ucu keskin metal araç
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - bitki bilimi
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - bitki bilimi
+  - tıp
+ornekler:
+- - Nasıl olduğunu bir göster de usta olduğunu biz de görelim, diyerek misafirin eline, iplik geçirdiği iğneyi tutuşturuverirmiş.
+- - ''
+- - ''
+- - Aç kaldığı günler oldu, fakat şehzadesinin hediyesi olan elmaslı iğneyi satmayı düşünmedi.
+- - Pusula iğnesi.
+- - Nedir, toprağa yapışık yaşayan bu küçük hayvanın kendine özgü bir görkemi de vardır öte yandan, öleceğini anlayınca, iğnesini kendisine batırır...
+- - ''
+- - ''
+- - ''
+- - ''
+orneklerkaynak:
+- - Sâmiha Ayverdi
+- - ''
+- - ''
+- - Necip Fazıl Kısakürek
+- - ''
+- - Yıldız İncesi
+- - ''
+- - ''
+- - ''
+- - ''
+---

@@ -1,0 +1,15 @@
+---
+layout: term
+title: kramp
+slug: kramp
+lisan: Fransızca crampe
+anlamlar:
+- Bir veya birkaç kasın irade dışı, ağrılı ve geçici olarak kasılması; kasınç
+ozellikler:
+- - isim
+  - tıp
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

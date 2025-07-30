@@ -1,0 +1,182 @@
+---
+layout: term
+title: inmek
+slug: inmek
+lisan: Türkçe
+anlamlar:
+- Yüksekten veya yukarıdan aşağıya doğru gelmek
+- Bir taşıt veya binek hayvanından yere basmak; atlamak
+- Dağ, tepe vb. yüksek bir yerden gelmek
+- Bir yerden başka bir yere gitmek, varmak
+- ► konaklamak
+- Alçalıp eski durumuna dönmek
+- Fiyatı düşürmek
+- Değeri düşmek
+- ► vurmak
+- ► yıkılmak
+- İnme gelmek
+- Bir yeri kaplamak, basmak veya bir yerden akmak, kaymak
+- Uzamak, ulaşmak
+- ► ağmak
+- Sayısı azalmak
+ozellikler:
+- - -den
+- - -den
+  - ''
+- - -den
+  - ''
+  - ''
+- - -den
+  - ''
+  - ''
+  - -e
+- - -den
+  - ''
+  - ''
+  - -e
+  - -e
+- - -den
+  - ''
+  - ''
+  - -e
+  - -e
+  - nesnesiz
+- - -den
+  - ''
+  - ''
+  - -e
+  - -e
+  - nesnesiz
+  - nesnesiz
+- - -den
+  - ''
+  - ''
+  - -e
+  - -e
+  - nesnesiz
+  - nesnesiz
+  - ''
+- - -den
+  - ''
+  - ''
+  - -e
+  - -e
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - -e
+  - argo
+- - -den
+  - ''
+  - ''
+  - -e
+  - -e
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - -e
+  - argo
+  - nesnesiz
+- - -den
+  - ''
+  - ''
+  - -e
+  - -e
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - -e
+  - argo
+  - nesnesiz
+  - -e
+- - -den
+  - ''
+  - ''
+  - -e
+  - -e
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - -e
+  - argo
+  - nesnesiz
+  - -e
+  - ''
+- - -den
+  - ''
+  - ''
+  - -e
+  - -e
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - -e
+  - argo
+  - nesnesiz
+  - -e
+  - ''
+  - ''
+- - -den
+  - ''
+  - ''
+  - -e
+  - -e
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - -e
+  - argo
+  - nesnesiz
+  - -e
+  - ''
+  - ''
+  - ''
+- - -den
+  - ''
+  - ''
+  - -e
+  - -e
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - -e
+  - argo
+  - nesnesiz
+  - -e
+  - ''
+  - ''
+  - ''
+  - ''
+ornekler:
+- - ''
+- - Tramvayın ön tarafından hızla inerken, arkasından bir sesin bağırdığını gördü.
+- - Dağdan kurt indi.
+- - Bünyamin, gücünün yettiği kadar hızlı yürüyüp Haliç'e indi.
+- - Samananbarı köyünün en büyük ve gösterişli evine inmişlerdi.
+- - Sular indi. Şiş indi.
+- - Bin lira daha indim, gene almadı.
+- - Altın fiyatları indi.
+- - Şimdi kafana inerim!
+- - Yağmurdan duvar inmiş.
+- - Sağ tarafına inmiş.
+- - Gemi baş döndüren zaferli bir gürültüyle indi sulara.
+- - Beyaz taşlardan yapılmış kısa bir duvarın ötesindeki zeytinlik ta vadiye kadar iniyordu.
+- - ''
+- - Evvelden daha çok olduğumuzu zannettiğim hâlde sayımız son günlerde bu miktara inmiştir.
+orneklerkaynak:
+- - ''
+- - Peyami Safa
+- - ''
+- - İhsan Oktay Anar
+- - Halide Edip Adıvar
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Çetin Altan
+- - Ömer Seyfettin
+- - ''
+- - Reşat Nuri Güntekin
+---

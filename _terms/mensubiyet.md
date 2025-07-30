@@ -1,0 +1,15 @@
+---
+layout: term
+title: mensubiyet
+slug: mensubiyet
+lisan: Arapça mensūbiyyet
+anlamlar:
+- ► mensupluk
+ozellikler:
+- - isim
+  - eskimiş
+ornekler:
+- - Kendilerine mensubiyetimi duyup derhâl beni satın almasaydı.
+orneklerkaynak:
+- - Refik Halit Karay
+---

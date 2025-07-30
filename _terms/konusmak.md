@@ -1,0 +1,182 @@
+---
+layout: term
+title: konuşmak
+slug: konusmak
+lisan: Türkçe
+anlamlar:
+- Bir dilin kelimeleriyle düşüncesini sözlü olarak anlatmak
+- Belli bir konudan söz etmek
+- Bir konuda karşılıklı söz etmek, sohbet etmek
+- Söylev vermek, konuşma yapmak
+- Konuşma dili olarak kullanmak
+- Düşüncesini herhangi bir araç kullanarak anlatmak
+- İlişki kurmak veya ilişkiyi sürdürmek
+- Birisiyle flört etmek
+- Dargın bulunmamak
+- Oyuncak, hayvan vb. konuşmaya benzeyen birtakım sesler çıkarmak
+- Gizli bir şeyi açığa vurmak, ele vermek
+- Becermek, uzman gibi yapabilmek
+- Geçerli olmak, etkin olmak
+- Şık ve zarif görünmek
+ozellikler:
+- - nesnesiz
+- - nesnesiz
+  - -i
+  - -den
+- - nesnesiz
+  - -i
+  - -den
+  - nesnesiz
+  - -le
+- - nesnesiz
+  - -i
+  - -den
+  - nesnesiz
+  - -le
+  - ''
+- - nesnesiz
+  - -i
+  - -den
+  - nesnesiz
+  - -le
+  - ''
+  - ''
+- - nesnesiz
+  - -i
+  - -den
+  - nesnesiz
+  - -le
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - -i
+  - -den
+  - nesnesiz
+  - -le
+  - ''
+  - ''
+  - ''
+  - -le
+- - nesnesiz
+  - -i
+  - -den
+  - nesnesiz
+  - -le
+  - ''
+  - ''
+  - ''
+  - -le
+  - ''
+- - nesnesiz
+  - -i
+  - -den
+  - nesnesiz
+  - -le
+  - ''
+  - ''
+  - ''
+  - -le
+  - ''
+  - ''
+- - nesnesiz
+  - -i
+  - -den
+  - nesnesiz
+  - -le
+  - ''
+  - ''
+  - ''
+  - -le
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - -i
+  - -den
+  - nesnesiz
+  - -le
+  - ''
+  - ''
+  - ''
+  - -le
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - -i
+  - -den
+  - nesnesiz
+  - -le
+  - ''
+  - ''
+  - ''
+  - -le
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+- - nesnesiz
+  - -i
+  - -den
+  - nesnesiz
+  - -le
+  - ''
+  - ''
+  - ''
+  - -le
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+- - nesnesiz
+  - -i
+  - -den
+  - nesnesiz
+  - -le
+  - ''
+  - ''
+  - ''
+  - -le
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+  - teklifsiz konuşmada
+ornekler:
+- - Çocuk daha konuşamıyor.
+- - Mehmet yedi yaşındayken anasıyla konuştuklarından fazla bir şey konuşmazdı.
+- - İşten sonra Nuruosmaniye'deki İkbal Kahvesinde arkadaşlarla şiir ve edebiyat konuşuyoruz.
+- - ''
+- - Türkçeyi çok iyi konuşuyor.
+- - ''
+- - Üst kattakilerle konuşuyoruz.
+- - ''
+- - ''
+- - ''
+- - ''
+- - Fokstrotta uzun boylu konuşamam.
+- - Yasaların yerine yumruklar konuştu.
+- - Gömleğin konuşuyor.
+orneklerkaynak:
+- - ''
+- - Halide Edip Adıvar
+- - Falih Rıfkı Atay
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Mahmut Yesari
+- - ''
+- - ''
+---

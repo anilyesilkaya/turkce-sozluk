@@ -1,0 +1,14 @@
+---
+layout: term
+title: tasarlatma
+slug: tasarlatma
+lisan: Türkçe
+anlamlar:
+- Tasarlatmak işi
+ozellikler:
+- - isim
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

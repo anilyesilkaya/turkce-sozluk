@@ -1,0 +1,14 @@
+---
+layout: term
+title: entübe olmak
+slug: entube-olmak
+lisan: Türkçe
+anlamlar:
+- herhangi bir vücut kanalına veya boşluğuna özellikle solunum yoluna tüp yerleştirilmiş olmak
+ozellikler:
+- - ''
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

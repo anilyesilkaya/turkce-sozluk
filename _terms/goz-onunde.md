@@ -1,0 +1,15 @@
+---
+layout: term
+title: göz önünde
+slug: goz-onunde
+lisan: Türkçe
+anlamlar:
+- Apaçık, belirgin, aşikâr olarak
+ozellikler:
+- - zarf
+  - mecaz
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

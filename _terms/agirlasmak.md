@@ -1,0 +1,124 @@
+---
+layout: term
+title: ağırlaşmak
+slug: agirlasmak
+lisan: Türkçe
+anlamlar:
+- Ağır duruma gelmek
+- Sıkıcı ve bunaltıcı bir durum almak
+- Gökyüzü bulutlu, karanlık, iç karartıcı bir hâl almak
+- ► yavaşlamak
+- Yiyecek bozulmaya yüz tutmak
+- Organ görevini yapamaz duruma gelmek
+- Göz kapakları kapanmak üzere olmak
+- Artan, çoğalan
+- Gebe kadının doğurması yaklaşmak
+- Ağırbaşlı hâle gelmek
+- ► güçleşmek
+- Hasta tehlikeli duruma gelmek
+ozellikler:
+- - nesnesiz
+- - nesnesiz
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+  - mecaz
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+ornekler:
+- - Önceleri tüy gibi gelen herif, yol aldıkça bir ağırlaştı, bir ağırlaştı. Ben diyeyim beş ton, siz deyin on beş ton.
+- - ''
+- - Büsbütün ağırlaşmış bir hava içinde nerelerden geçtiğimizi artık fark etmiyorduk.
+- - Artık yavaş yavaş göçüyor, boyu kısalıyor, teni sararıyor, hareketleri ağırlaşıyordu.
+- - Bu et yarına kalırsa ağırlaşır.
+- - ''
+- - Önündeki kâğıda bir iki satır yazdıktan sonra göz kapakları ağırlaşıyor, hiçbir şey düşünemez oluyordu.
+- - Zaman geçtikçe hafifleyecek yerde daha ziyade ağırlaşan bir vicdan azabı duyarım.
+- - Haziran ayı başında Mevhibe’nin hamileliği ağırlaştı.
+- - ''
+- - İşte bundan dolayı da gençliğin sorunları daha da ağırlaşıyor, büyüyor.
+- - Pek çok insan hastalıklarının başlangıcında komşuya, eczaneye, kırık çıkıkçıya, hocaya başvurmakta, olay önlenemez hâle gelip hasta ağırlaşınca hekime gelmektedir.
+orneklerkaynak:
+- - Aziz Nesin
+- - ''
+- - Reşat Nuri Güntekin
+- - Abdülhak Şinasi Hisar
+- - ''
+- - ''
+- - Oğuz Atay
+- - Ömer Seyfettin
+- - Gülsün Bilgehan
+- - ''
+- - Yaşar Kemal
+- - Jale Baysal
+---

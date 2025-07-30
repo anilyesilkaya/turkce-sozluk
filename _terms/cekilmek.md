@@ -1,0 +1,124 @@
+---
+layout: term
+title: çekilmek
+slug: cekilmek
+lisan: Türkçe
+anlamlar:
+- Çekme işi yapılmak
+- Kendini geriye veya bir yana çekmek
+- Bir işten, bir görevden kendi isteğiyle ayrılmak; istifa etmek
+- Bir şey azalmak
+- Yok olmak
+- Bir yerden uzaklaşmak, bir yere uğramamak
+- Geri gitmek; ricat etmek
+- Katılmamak, vazgeçmek
+- Katlanmak, üstlenmek, tahammül etmek
+- ► tartılmak
+- Parça hâlindeki et kıyma biçimine getirilmek
+- Uzaklaşmak, araya mesafe koymak
+ozellikler:
+- - nesnesiz
+- - nesnesiz
+  - -e
+- - nesnesiz
+  - -e
+  - -den
+- - nesnesiz
+  - -e
+  - -den
+  - ''
+- - nesnesiz
+  - -e
+  - -den
+  - ''
+  - ''
+- - nesnesiz
+  - -e
+  - -den
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - -e
+  - -den
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - -e
+  - -den
+  - ''
+  - ''
+  - ''
+  - ''
+  - -den
+- - nesnesiz
+  - -e
+  - -den
+  - ''
+  - ''
+  - ''
+  - ''
+  - -den
+  - ''
+- - nesnesiz
+  - -e
+  - -den
+  - ''
+  - ''
+  - ''
+  - ''
+  - -den
+  - ''
+  - ''
+- - nesnesiz
+  - -e
+  - -den
+  - ''
+  - ''
+  - ''
+  - ''
+  - -den
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - -e
+  - -den
+  - ''
+  - ''
+  - ''
+  - ''
+  - -den
+  - ''
+  - ''
+  - ''
+  - mecaz
+ornekler:
+- - Ağlar çekiliyor dalyanlarda.
+- - ''
+- - Hiçbir zaman mebusluktan çekilmek niyetinde değilim.
+- - Gölün suları çekildi.
+- - İneğin sütü çekildi.
+- - Dükkân karmakarışık, mallar bayat, kibar müşteriler birer birer çekiliyor, ayaktakımı her gün artıyor.
+- - ''
+- - Yarışmadan çekildi.
+- - Tabii kuaför salonu da çekilmez oluyor, sen konuşup güldürmeyince milleti.
+- - ''
+- - ''
+- - Yalnız ben baştan boş bulundum, buna fazla sokuldum. Şimdi çekildiğimi de belli etmek istemiyorum.
+orneklerkaynak:
+- - Orhan Veli Kanık
+- - ''
+- - Tarık Buğra
+- - ''
+- - ''
+- - Halide Edip Adıvar
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Falih Rıfkı Atay
+---

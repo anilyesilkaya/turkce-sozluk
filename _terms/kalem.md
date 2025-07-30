@@ -1,0 +1,86 @@
+---
+layout: term
+title: kalem
+slug: kalem
+lisan: Arapça ḳalem
+anlamlar:
+- Yazma, çizme vb. işlerde kullanılan çeşitli biçimlerde araç
+- Resmî kuruluşlarda yazı işlerinin görüldüğü yer
+- Yontma işlerinde kullanılan ucu sivri veya keskin araç
+- Bir listede, bir hesapta sıra ile yazılmış maddelerden her biri
+- Bazı deyimlerde yazı
+- ► yazar
+- Aşı yapmak için bir ağaçtan kesilen ince çubuk
+- Kaşlara ve gözlere makyaj yapmak, dudak kenarlarını çizmek için kullanılan boyama aracı
+- Kalem biçiminde olan
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - mecaz
+- - isim
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+- - isim
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+  - ''
+  - ''
+  - sıfat
+ornekler:
+- - Kâğıt, kalem, mürekkep, hepsi masanın üstündedir.
+- - Kalemindeki odacıya aylığını kırdırırmış.
+- - Taşçı kalemi.
+  - Oymacı kalemi.
+- - Beş kalem ilaç.
+  - Üç kalem yiyecek.
+- - Kaleme almak.
+- - Peyami Safa, edebiyatımızın usta kalemlerindendir.
+- - ''
+- - ''
+- - Bizde ise pek iyi bilirim, üç kalem pirzola isteyeni kasap tersler.
+orneklerkaynak:
+- - Falih Rıfkı Atay
+- - Sermet Muhtar Alus
+- - ''
+  - ''
+- - ''
+  - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Melih Cevdet Anday
+---

@@ -1,0 +1,87 @@
+---
+layout: term
+title: ayna
+slug: ayna
+lisan: Farsça āyīne
+anlamlar:
+- Işığı yansıtan, varlıkların görüntüsünü veren, cilalı ve sırlı cam; gözgü, mirat
+- Karagöz oyununda perde
+- Doğramacılık ve yapıcılıkta çerçeve içine geçirilen tahta veya taş levha
+- Atların diz kapağı
+- İyi bir durumda
+- Bir olayı, bir durumu yansıtan, göz önünde canlandıran olay, durum, şey
+- Küreğin yassı uç bölümü
+- Gemilerde işaretçi erlerin kullandığı dürbün
+- Akıntı ve anaforun birleştiği yerde oluşan su burgacı
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - sıfat
+  - argo
+- - isim
+  - ''
+  - ''
+  - ''
+  - sıfat
+  - argo
+  - mecaz
+- - isim
+  - ''
+  - ''
+  - ''
+  - sıfat
+  - argo
+  - mecaz
+  - denizcilik
+- - isim
+  - ''
+  - ''
+  - ''
+  - sıfat
+  - argo
+  - mecaz
+  - denizcilik
+  - denizcilik
+- - isim
+  - ''
+  - ''
+  - ''
+  - sıfat
+  - argo
+  - mecaz
+  - denizcilik
+  - denizcilik
+  - denizcilik
+ornekler:
+- - Bir elinde cımbız, bir elinde ayna / Umurunda mı dünya?
+- - ''
+- - Kapı kanadının aynası. Çeşmenin aynası.
+- - ''
+- - İşimiz ayna.
+- - Bir ülkenin sanat ve kültür hayatı bir bakıma o ülkenin uygarlık aynasıdır.
+- - ''
+- - ''
+- - ''
+orneklerkaynak:
+- - Orhan Veli Kanık
+- - ''
+- - ''
+- - ''
+- - ''
+- - Haldun Taner
+- - ''
+- - ''
+- - ''
+---

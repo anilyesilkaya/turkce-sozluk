@@ -1,0 +1,14 @@
+---
+layout: term
+title: hematoloji
+slug: hematoloji
+lisan: Fransızca hématologie
+anlamlar:
+- ► kan bilimi
+ozellikler:
+- - isim
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

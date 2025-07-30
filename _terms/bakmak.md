@@ -1,0 +1,214 @@
+---
+layout: term
+title: bakmak
+slug: bakmak
+lisan: Türkçe
+anlamlar:
+- Bakışı bir şey üzerine çevirmek
+- Bir şeyin yüzü bir yöne doğru olmak
+- Bir şeyin gelişmesi veya iyi bir durumda kalması için emek vermek; esermek
+- ► geçindirmek
+- Bir iş birinden beklenmek
+- Hastayı muayene etmek
+- Tedavi etmek için ilgilenmek
+- Görüp incelemek
+- Kontrol etmek
+- Bir işi yapmak, bir işi yapmakla görevli olmak
+- İtina göstermek; ilgilenmek
+- Başka bir şeyle ilgilenmeyip elindeki veya önündeki işle uğraşır olmak
+- Yapılabilmesi bir şeye bağlı bulunmak
+- Bir şeyi gözetmek, korumak
+- -e benzemek
+- Bir şeyin farkına varmak
+- Özen göstermek
+ozellikler:
+- - -e
+- - -e
+  - ''
+- - -e
+  - ''
+  - ''
+- - -e
+  - ''
+  - ''
+  - ''
+- - -e
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+- - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+- - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+- - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+- - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+- - -e
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+ornekler:
+- - Zamanla nasıl değişiyor insan / Hangi resmime baksam ben değilim
+- - Limana bakan penceresinden deniz görünürdü.
+- - ''
+- - Üç çocuklu bir aileye bakıyor.
+- - Evin bütün işleri bana bakıyor.
+- - Tekrar yukarı çıktık, doktor baksın da bir şey desin diye beklemeye başladık.
+- - ''
+- - Git bak bakalım, evdeler mi? Şu hesaba sen de bak.
+- - Yemeğin tadına bakar mısınız?
+- - Pasaport işine polis bakar.
+- - Baktılar, ettiler; ilaç, tedavi faydası olmadı.
+- - Çocuğum, sen derslerine bak.
+- - Bu iş beş bin liraya bakar.
+- - ''
+- - Bu kumaşın rengi yeşile bakıyor.
+- - Bazı akşamlar bakarım Halil savuşur, nereye gittiğini de kimseye söylemez.
+- - Vaktini boş geçirmemeye bak!
+orneklerkaynak:
+- - Cahit Sıtkı Tarancı
+- - Orhan Veli Kanık
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Erhan Bener
+- - ''
+- - ''
+- - ''
+- - ''
+- - Memduh Şevket Esendal
+- - ''
+---

@@ -1,0 +1,187 @@
+---
+layout: term
+title: çevirmek
+slug: cevirmek
+lisan: Türkçe
+anlamlar:
+- Bir şeyin yönünü değiştirmek
+- Öteki yüzünü görünür duruma getirmek
+- Döndürerek hareket ettirmek
+- Yönetmek, idare etmek
+- ► durdurmak
+- Yolundan alıkoymak, yoldan döndürmek
+- Geri göndermek
+- Bir giyeceği söküp iç yüzünü dışa getirmek
+- Çevrilemek, tevil etmek
+- Çeviri yapmak
+- ► kuşatmak
+- Bir durumdan başka duruma getirmek, dönüştürmek
+- Bir durumdan başka duruma geçmek
+- Kâğıt oyunu oynamak
+- İşlemek, yapmak
+ozellikler:
+- - -i
+- - -i
+  - ''
+- - -i
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+- - -i
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - -den
+- - -i
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - -den
+  - -i
+  - -le
+- - -i
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - -den
+  - -i
+  - -le
+  - -e
+  - -i
+- - -i
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - -den
+  - -i
+  - -le
+  - -e
+  - -i
+  - -e
+  - -den
+- - -i
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - -den
+  - -i
+  - -le
+  - -e
+  - -i
+  - -e
+  - -den
+  - nesnesiz
+- - -i
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - -den
+  - -i
+  - -le
+  - -e
+  - -i
+  - -e
+  - -den
+  - nesnesiz
+  - nesnesiz
+ornekler:
+- - Nefes nefese koşan anneme, başını çevirmeden cevap verdi.
+- - Sermet defterinin yapraklarını çeviriyordu.
+- - Resimleri albüme yapıştırırken kocası da radyonun düğmesini çevirdi.
+- - Eteği belinde, bütün evi o çeviriyor.
+- - O hızla giderken bir taksi çevirdi ve tortop olup taksinin içine yuvarlandık.
+- - Gündelik yaşamımızda, banka memurlarının sokaklarda bile bizi çevirip kredi kartı vermek için nasıl yırtındıklarını görüyoruz.
+- - Olayı aydınlatacak her uğraşıyı geri çevirmiş, içine gömülüp tek gözyaşı dökmemişti.
+- - ''
+- - Sözü işine geldiği gibi çevirdi.
+- - Romanlar, hikâyeler yazar; yahut Fransızcadan çevirirmiş.
+- - Bağı duvarla çevirmek.
+- - Babasıyla birlikte evimi otele çevirdiler.
+- - ''
+- - ''
+- - Yine ne işler çeviriyorsun bakayım.
+orneklerkaynak:
+- - Yusuf Ziya Ortaç
+- - Ömer Seyfettin
+- - Sait Faik Abasıyanık
+- - Haldun Taner
+- - Hikmet Temel Akarsu
+- - Sina Akşin
+- - Naile Turhan
+- - ''
+- - ''
+- - Memduh Şevket Esendal
+- - ''
+- - Oğuz Atay
+- - ''
+- - ''
+- - ''
+---

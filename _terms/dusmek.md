@@ -1,0 +1,634 @@
+---
+layout: term
+title: düşmek
+slug: dusmek
+lisan: Türkçe
+anlamlar:
+- Yer çekiminin etkisiyle boşlukta, yukarıdan aşağıya inmek
+- Durduğu, bulunduğu, tutunduğu yerden ayrılarak veya dayanağını, dengesini yitirerek yukarıdan aşağıya inmek
+- Yere devrilmek, yere serilmek; boylamak (I)
+- Hava taşıtları kaza sonucu hızla yere inerek çarpmak
+- Vücuda bol gelen giysi aşağı kaymak
+- Kar, yağmur vb. yağmak
+- Vurmak, değmek, rastlamak
+- Vakti gelmeden ölü doğmak
+- Atlanmak, aradan çıkmak, eksik kalmak
+- ► eksilmek
+- Aşırı ilgi veya sevgi göstermek
+- Uğramak, kapılmak
+- Yakışmak, uygun gelmek
+- Yakışık almak
+- Ödevi veya yetkisi içinde bulunmak
+- Bir yerde bulunmak
+- Biriyle yaşama, çalışma, birlikte olma durumunda kalmak
+- Bir bölüşme sonunda payına ayrılmak
+- Kötü bir sebeple istenmeden bir yerde bulunmak
+- İşbaşından uzaklaşmak
+- Hızı, gücü, değeri azalmak
+- Isı, basınç, ateş vb. eksilmek, azalmak
+- Düşkün, fakir vb. duruma gelmek
+- Bir yere ansızın gelmek, damlamak, tesadüfen gelmek
+- Belirli zamana rastlamak
+- Fırsat çıkmak
+- Olmak, olumsuz bir duruma girmek
+- Savaşta savunulmaz duruma gelerek teslim olmak
+- Bazı deyimlerde "yürümek, birlikte gelmek" anlamlarında kullanılan bir fiil
+- Kötü yola girmek
+- Alışmak, müptela olmak
+- Telefon, sanal ağ vb. alanlarda bağlantı kurmak
+ozellikler:
+- - -e
+- - -e
+  - -den
+- - -e
+  - -den
+  - ''
+- - -e
+  - -den
+  - ''
+  - ''
+- - -e
+  - -den
+  - ''
+  - ''
+  - ''
+- - -e
+  - -den
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - -den
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - -den
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+- - -e
+  - -den
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - -den
+- - -e
+  - -den
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - -den
+  - nesnesiz
+- - -e
+  - -den
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - -den
+  - nesnesiz
+  - ''
+- - -e
+  - -den
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - -den
+  - nesnesiz
+  - ''
+  - ''
+- - -e
+  - -den
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - -den
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+- - -e
+  - -den
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - -den
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - -den
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - -den
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - -den
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - -den
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - -den
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - -den
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - -den
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - -den
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - -den
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - -den
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - -den
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - -den
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+- - -e
+  - -den
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - -den
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+- - -e
+  - -den
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - -den
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+- - -e
+  - -den
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - -den
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+- - -e
+  - -den
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - -den
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+- - -e
+  - -den
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - -den
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+- - -e
+  - -den
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - -den
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - nesnesiz
+- - -e
+  - -den
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - -den
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+- - -e
+  - -den
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - -den
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+- - -e
+  - -den
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - -den
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+- - -e
+  - -den
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - -den
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+- - -e
+  - -den
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - -den
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+- - -e
+  - -den
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - -den
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - ''
+  - teknik
+ornekler:
+- - Havada uçan kuş, vurulmuş gibi birdenbire sokağa düşüyor.
+- - Çocukken ağaçtan düşüp ayağım kırılmıştı da ağlayamamıştım.
+- - Çocuk koşarken yere düştü.
+- - ''
+- - ''
+- - Dağlara kar düştü.
+- - İnce uzun dallı badem ağaçlarının alaca gölgeleri sahile inen keçi yoluna düşüyordu.
+- - ''
+- - Kitabın yeni baskısında buradan bir kelime düşmüş.
+- - Gündelikleri yarı yarıya düşmüştü.
+- - Sen bu işin üstüne çok düştün.
+- - Kadınlar yeni baştan telaşa, heyecana, korkuya düştüler.
+- - Bu resim buraya iyi düştü.
+- - Bize düşen, medeniyetin zorlamaları karşısında bir ayıklamayı başarabilmek olmalıdır.
+- - Bana arada bir bakkaldan tuz, limon almak düşüyor, o kadar.
+- - Birlikte evden çıkmışlar, limanda iskelenin karşısına düşen kahveye doğru yürümüşlerdi.
+- - O asker, gittiğimiz yerde bir aralık benim bölüğüme düşmüştü.
+- - Mirastan ona bu ev düştü.
+- - Bu yaşta mahkemelere düşmek...
+- - Kabine düştü.
+- - Arabanın hızı düştü. Paranın değeri düştü.
+- - İki gün içinde ateş düştü; ağrılar, sızılar hafifledi.
+- - Babam balıkçı amma vaktiyle zenginmiş efendim. Sonradan düşmüş.
+- - Bir rastlantı sonucu aralarına düşmüştüm.
+- - Babasının Sütlüce'de yeni bir ev alması bu tarihlere düşer.
+- - Bir kelepir düştü.
+- - Yorgun düşmek. Zayıf düşmek. Şehit düşmek. Esir düşmek.
+- - Medine'nin düştüğünü söylemek istedim.
+- - Önüne, peşine, arkasına düşmek.
+- - Düşmüş kadınları bu dönemin yazarlarının yücelterek duygudaşlıkla çizdiklerini görüyoruz.
+- - ''
+- - ''
+orneklerkaynak:
+- - Reşat Nuri Güntekin
+- - Sait Faik Abasıyanık
+- - ''
+- - ''
+- - ''
+- - ''
+- - Ömer Seyfettin
+- - ''
+- - ''
+- - Necati Cumalı
+- - ''
+- - Aka Gündüz
+- - ''
+- - İsmet Özel
+- - Haldun Taner
+- - Necati Cumalı
+- - Reşat Nuri Güntekin
+- - ''
+- - Sait Faik Abasıyanık
+- - ''
+- - ''
+- - Reşat Nuri Güntekin
+- - Reşat Nuri Güntekin
+- - Haldun Taner
+- - Memduh Şevket Esendal
+- - ''
+- - ''
+- - Falih Rıfkı Atay
+- - ''
+- - Metin And
+- - ''
+- - ''
+---

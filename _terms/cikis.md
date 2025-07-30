@@ -1,0 +1,109 @@
+---
+layout: term
+title: çıkış
+slug: cikis
+lisan: Türkçe
+anlamlar:
+- Çıkmak işi
+- Bir yerden çıkmak için kullanılan nokta
+- ► yokuş
+- Güreşte cazgırın alana çıkardığı pehlivanların izleyicilere doğru yürüyerek çalım yapmaya başlaması
+- Mezuniyet, okul bitirme
+- ► çıkış belgesi
+- Beklenilmeyen bir sırada yapılan sert konuşma
+- Uçağın bir havaalanından başka bir havaalanına gitme süreci; sorti
+- Kuşatılmış bir bölgedeki birliklerin yaptığı saldırı
+- Verilen bir işaretle yarışa başlama; depar
+- ► çıktı
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - spor
+- - isim
+  - ''
+  - ''
+  - spor
+  - ''
+- - isim
+  - ''
+  - ''
+  - spor
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - spor
+  - ''
+  - ''
+  - mecaz
+- - isim
+  - ''
+  - ''
+  - spor
+  - ''
+  - ''
+  - mecaz
+  - askerlik
+- - isim
+  - ''
+  - ''
+  - spor
+  - ''
+  - ''
+  - mecaz
+  - askerlik
+  - askerlik
+- - isim
+  - ''
+  - ''
+  - spor
+  - ''
+  - ''
+  - mecaz
+  - askerlik
+  - askerlik
+  - spor
+- - isim
+  - ''
+  - ''
+  - spor
+  - ''
+  - ''
+  - mecaz
+  - askerlik
+  - askerlik
+  - spor
+  - bilişim
+ornekler:
+- - Pencerelerden odaya giriş çıkış kolaydı.
+- - Kaçmayı düşündüklerinde sokağın iki çıkışının da tutulduğunu gördüler.
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+orneklerkaynak:
+- - Ayla Kutlu
+- - İhsan Oktay Anar
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+---

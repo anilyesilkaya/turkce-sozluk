@@ -1,0 +1,95 @@
+---
+layout: term
+title: perde
+slug: perde
+lisan: Farsça perde
+anlamlar:
+- Görüşü, ışığı engellemek, bir şeyi gizlemek için pencereye veya bir açıklığın önüne gerilen örtü; gerelti, gergi, hicap
+- Üzerine bir cismin görüntüsü yansıtılan saydam olmayan yüzey
+- İki yeri birbirinden ayıran bölme
+- Seste pes perde
+- Doğruyu görmeye engel olan şey
+- Kaz, ördek, martı gibi hayvanların parmaklarını birbirine bitiştiren zar
+- Bir müzik parçasını oluşturan seslerden her birinin kalınlık veya incelik derecesi
+- Bu ses derecelerini sağlamak için çalgılarda bulunup parmaklarla basılan yer
+- ► katarakt
+- Bir sahne eserinin büyük bölümlerinin her biri
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - mecaz
+- - isim
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - hayvan bilimi
+- - isim
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - hayvan bilimi
+  - müzik
+- - isim
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - hayvan bilimi
+  - müzik
+  - müzik
+- - isim
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - hayvan bilimi
+  - müzik
+  - müzik
+  - tıp
+- - isim
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - hayvan bilimi
+  - müzik
+  - müzik
+  - tıp
+  - tiyatro
+ornekler:
+- - Durmadan pencere kapatıyor, perde çekiyorum.
+- - Sinema perdesi. Karagöz perdesi.
+- - ''
+- - Sonra da ince ve çok acıklı bir perdeden şarkı söylemeye başladı.
+- - Bu sözü duyunca gözlerimdeki perde kalkıverdi.
+- - ''
+- - ''
+- - ''
+- - Gözlerine perde inmiş.
+- - Oyunun üç perdesi de böyle alkışlar içinde geçti.
+orneklerkaynak:
+- - Adalet Ağaoğlu
+- - ''
+- - ''
+- - Ahmet Midhat Efendi
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Memduh Şevket Esendal
+---

@@ -1,0 +1,19 @@
+---
+layout: term
+title: ağır top
+slug: agir-top
+lisan: Türkçe
+anlamlar:
+- Namlu çapı 30 cm’den büyük, çok uzağa atış yapabilen, tahrip gücü yüksek bir tür top
+- Kendi alanında önde gelen, etkin, tanınmış kimse, ülke vb
+ozellikler:
+- - isim
+- - isim
+  - mecaz
+ornekler:
+- - Yunan ordusunda 180 dağ, 96 sahra ve 48 ağır top olmak üzere 324 (Yunan kaynaklarına göre 418) top bulunuyordu.
+- - ''
+orneklerkaynak:
+- - Muzaffer Erendil
+- - ''
+---

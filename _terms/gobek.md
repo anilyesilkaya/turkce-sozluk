@@ -1,0 +1,124 @@
+---
+layout: term
+title: göbek
+slug: gobek
+lisan: Türkçe
+anlamlar:
+- İnsan ve memeli hayvanlarda göbek bağının düşmesinden sonra karnın ortasında bulunan çukurluk
+- Yağ bağlamış şişman karın
+- Şehir, ülke vb.nin orta kısmı
+- Bazı sebze ve meyvelerin orta kısmı
+- Bahçe, halı, tavan, tepsi vb. süslü şeylerin ortalarındaki biçim
+- Hızı azaltarak trafiği yönetmek amacıyla bir kavşağın girişine yerleştirilen çember veya üçgen biçimindeki ada
+- ► poyra
+- Değirmen taşının ortası
+- Kilitleme sistemlerinde, anahtar dişlerinin tam olarak birbirine oturduğu pirinç yuva
+- Dölütte, yumurtanın dölüt dışında kalan bölümlerle ilişkisini sağlayan organların çıktığı yer
+- ► kuşak
+- Ön ve arka tekerlerin ortasına oturtulmuş mil üzerinde dönen ve teker tellerinin takılmasına yarayan parça
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - anatomi
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - anatomi
+  - toplum bilimi
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - anatomi
+  - toplum bilimi
+  - teknik
+ornekler:
+- - Düğmeleri birer birer açtı göbeğine dek.
+- - ''
+- - İsviçre'nin göbeğinde, nerede ise bilmem kaçıncı Türk Moskof muharebesi patlamak üzere idi.
+- - ''
+- - Bu halının göbeği pek zarif.
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Temiz bir isim, züğürt evlatlarda ancak bir, nihayet iki göbek dayanabilir.
+- - ''
+orneklerkaynak:
+- - Zeyyat Selimoğlu
+- - ''
+- - 'Yakup Kadri Karaosmanoğlu '
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Reşat Nuri Güntekin
+- - ''
+---

@@ -1,0 +1,402 @@
+---
+layout: term
+title: çıkarmak
+slug: cikarmak
+lisan: Türkçe
+anlamlar:
+- Birinin veya bir şeyin çıkmasını sağlamak, çıkmasına sebep olmak
+- Sonunu getirmek
+- Anlamak, ne olduğunu bilmek, sezmek
+- Bulmak, ortaya koymak
+- ► anımsamak
+- Öfke, hırs, acı vb.nin zararını çektirmek
+- Sağlamak, elde etmek
+- Gibi göstermek, bir davranış yüklemek
+- ► kusmak
+- İlgisini keserek uzaklaştırmak
+- Giysi, ayakkabı vb.ni vücuttan ayırmak, soymak
+- ► yayımlamak
+- Bir şeyi temizlemek
+- Ortaya koymak
+- İkram etmek
+- ► göstermek
+- Bir müzik parçasını notalarıyla çalmak
+- ► boşaltmak
+- Resim yapmak
+- Fotoğraf çektirmek
+- Bir şeyi açık etmek
+- Bir sayıyı başka bir sayı kadar eksiltmek; tarh etmek
+ozellikler:
+- - -den
+- - -den
+  - -i
+- - -den
+  - -i
+  - -i
+- - -den
+  - -i
+  - -i
+  - -i
+- - -den
+  - -i
+  - -i
+  - -i
+  - -i
+- - -den
+  - -i
+  - -i
+  - -i
+  - -i
+  - -i
+  - -den
+- - -den
+  - -i
+  - -i
+  - -i
+  - -i
+  - -i
+  - -den
+  - -i
+  - -den
+- - -den
+  - -i
+  - -i
+  - -i
+  - -i
+  - -i
+  - -den
+  - -i
+  - -den
+  - -i
+  - nesnesiz
+- - -den
+  - -i
+  - -i
+  - -i
+  - -i
+  - -i
+  - -den
+  - -i
+  - -den
+  - -i
+  - nesnesiz
+  - -i
+- - -den
+  - -i
+  - -i
+  - -i
+  - -i
+  - -i
+  - -den
+  - -i
+  - -den
+  - -i
+  - nesnesiz
+  - -i
+  - ''
+- - -den
+  - -i
+  - -i
+  - -i
+  - -i
+  - -i
+  - -den
+  - -i
+  - -den
+  - -i
+  - nesnesiz
+  - -i
+  - ''
+  - -i
+- - -den
+  - -i
+  - -i
+  - -i
+  - -i
+  - -i
+  - -den
+  - -i
+  - -den
+  - -i
+  - nesnesiz
+  - -i
+  - ''
+  - -i
+  - -i
+- - -den
+  - -i
+  - -i
+  - -i
+  - -i
+  - -i
+  - -den
+  - -i
+  - -den
+  - -i
+  - nesnesiz
+  - -i
+  - ''
+  - -i
+  - -i
+  - -i
+- - -den
+  - -i
+  - -i
+  - -i
+  - -i
+  - -i
+  - -den
+  - -i
+  - -den
+  - -i
+  - nesnesiz
+  - -i
+  - ''
+  - -i
+  - -i
+  - -i
+  - nesnesiz
+- - -den
+  - -i
+  - -i
+  - -i
+  - -i
+  - -i
+  - -den
+  - -i
+  - -den
+  - -i
+  - nesnesiz
+  - -i
+  - ''
+  - -i
+  - -i
+  - -i
+  - nesnesiz
+  - -e
+  - nesnesiz
+- - -den
+  - -i
+  - -i
+  - -i
+  - -i
+  - -i
+  - -den
+  - -i
+  - -den
+  - -i
+  - nesnesiz
+  - -i
+  - ''
+  - -i
+  - -i
+  - -i
+  - nesnesiz
+  - -e
+  - nesnesiz
+  - -e
+  - -i
+- - -den
+  - -i
+  - -i
+  - -i
+  - -i
+  - -i
+  - -den
+  - -i
+  - -den
+  - -i
+  - nesnesiz
+  - -i
+  - ''
+  - -i
+  - -i
+  - -i
+  - nesnesiz
+  - -e
+  - nesnesiz
+  - -e
+  - -i
+  - -i
+  - -le
+- - -den
+  - -i
+  - -i
+  - -i
+  - -i
+  - -i
+  - -den
+  - -i
+  - -den
+  - -i
+  - nesnesiz
+  - -i
+  - ''
+  - -i
+  - -i
+  - -i
+  - nesnesiz
+  - -e
+  - nesnesiz
+  - -e
+  - -i
+  - -i
+  - -le
+  - nesnesiz
+- - -den
+  - -i
+  - -i
+  - -i
+  - -i
+  - -i
+  - -den
+  - -i
+  - -den
+  - -i
+  - nesnesiz
+  - -i
+  - ''
+  - -i
+  - -i
+  - -i
+  - nesnesiz
+  - -e
+  - nesnesiz
+  - -e
+  - -i
+  - -i
+  - -le
+  - nesnesiz
+  - nesnesiz
+- - -den
+  - -i
+  - -i
+  - -i
+  - -i
+  - -i
+  - -den
+  - -i
+  - -den
+  - -i
+  - nesnesiz
+  - -i
+  - ''
+  - -i
+  - -i
+  - -i
+  - nesnesiz
+  - -e
+  - nesnesiz
+  - -e
+  - -i
+  - -i
+  - -le
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+- - -den
+  - -i
+  - -i
+  - -i
+  - -i
+  - -i
+  - -den
+  - -i
+  - -den
+  - -i
+  - nesnesiz
+  - -i
+  - ''
+  - -i
+  - -i
+  - -i
+  - nesnesiz
+  - -e
+  - nesnesiz
+  - -e
+  - -i
+  - -i
+  - -le
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - -i
+  - mecaz
+- - -den
+  - -i
+  - -i
+  - -i
+  - -i
+  - -i
+  - -den
+  - -i
+  - -den
+  - -i
+  - nesnesiz
+  - -i
+  - ''
+  - -i
+  - -i
+  - -i
+  - nesnesiz
+  - -e
+  - nesnesiz
+  - -e
+  - -i
+  - -i
+  - -le
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - -i
+  - mecaz
+  - -i
+  - -den
+  - matematik
+ornekler:
+- - ''
+- - Hacı Bey, ayazın tükürük dondurduğu bir gün, yakacak sıkıntısından konuşulurken, ‘Eee Ali Emmi, biz bu kışı zor çıkarırız' demişti de...
+- - Nereden geliyordu, akşam olunca hangi yöne gidiyordu, bir türlü çıkaramadım.
+- - Sultanahmet Camisi'nde vaaz veren hocanın bile yanlışını çıkarmış...
+- - Adamı nereden tanıdığımı tam olarak çıkarmaya çalıştım.
+- - Şimdilik bana karşı çok efendice davranıyor, beni rahat bırakıyor ama yarın ve daha sonra bu sabrının acısını benden çıkarmak istemeyecek mi?
+- - Allah adama kuvvet verirse rızkını taştan çıkarır.
+- - İçine kapanık, uysal, karşılaştığı sevindirici olayları başkalarının iyiliğiyle açıklayıp ters giden her işte kendini suçlu çıkaran bir insandı.
+- - Sonunda dayanamayıp o gece ne yediyse çıkardı.
+- - ''
+- - İhtiyar hatun, onun ayakkabılarını ve ceketini çıkarıp çekilip gitmişti.
+- - Gençlerin tenkitlerini gördü, yeni çıkardıkları edebiyat tarihlerini karıştırdı.
+- - Üstünde kahverengi bir sandık lekesi vardı. ‘Bu leke çıkar mı?’ diye sordum gömleği satan ihtiyar kadına.
+- - İşin aslı, bu hikâyenin çok daha ötesinde iyi bir iş çıkardım.
+- - Konuklara çerez çıkardı.
+- - Sosyeteye bir ustabaşıyı kocam diye çıkaracaksın.
+- - Yeni öğrendiği bir tangoyu piyanoda tek parmakla çıkarmaya çalışan İlhami...
+- - Karşıki kıyıda yün denkleri çıkaran gemiye haykırdık, işaretler ettik.
+- - ''
+- - ''
+- - Bu dedikoduyu ortaya mutlak bizim arkadaş çıkarmıştır.
+- - ''
+orneklerkaynak:
+- - ''
+- - Tarık Buğra
+- - Yaşar Kemal
+- - Aziz Nesin
+- - Necati Cumalı
+- - Muazzez Tahsin Berkand
+- - Ahmet Kutsi Tecer
+- - Necati Cumalı
+- - İhsan Oktay Anar
+- - ''
+- - Sait Faik Abasıyanık
+- - Orhan Seyfi Orhon
+- - Mina Urgan
+- - Adem Dönmez
+- - ''
+- - Memduh Şevket Esendal
+- - Haldun Taner
+- - Refik Halit Karay
+- - ''
+- - ''
+- - Osman Cemal Kaygılı
+- - ''
+---

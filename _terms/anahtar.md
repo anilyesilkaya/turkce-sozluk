@@ -1,0 +1,114 @@
+---
+layout: term
+title: anahtar
+slug: anahtar
+lisan: Rumca
+anlamlar:
+- Kilidi açıp kapamak için kullanılan araç; açacak, açar, açkı, miftah, dil (I)
+- ► kurgu
+- Şifre yazmak ve çözmek için kararlaştırılmış olan yol
+- Somunları veya vidaları çevirerek sıkıştırıp gevşetmek için kullanılan çelik saplı araç
+- Konserve kutularının kapağını keserek açmaya yarayan alet; açacak
+- Bir şeye ulaşmada veya onu elde etmede yardımcı olan şey
+- Herhangi bir olayda belirleyici olan
+- İstenilen yere veya aygıta, isteğe göre elektrik akımının geçmesini sağlamak için kullanılan düzen; çevirici, çevirgeç, şalter, komütatör
+- Notaların müzik merdivenindeki yükseklik derecelerini göstermek ve buna göre okunmasını sağlamak için portenin başına konulan işaret
+- Piyano, ut, kanun gibi çalgılarda ayar aleti
+- ► rüşvet
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - sıfat
+  - mecaz
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - sıfat
+  - mecaz
+  - fizik
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - sıfat
+  - mecaz
+  - fizik
+  - müzik
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - sıfat
+  - mecaz
+  - fizik
+  - müzik
+  - müzik
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - sıfat
+  - mecaz
+  - fizik
+  - müzik
+  - müzik
+  - argo
+ornekler:
+- - Belinde uzun gümüş halkalarla asılı gümüş anahtarları vardı.
+- - ''
+- - ''
+- - ''
+- - Sardalya kutusunu açmaya yarayan anahtarı çarçabuk temin ederdi.
+- - Biliyordu ki sabır, cennetin anahtarıdır.
+- - Anahtar parti.
+- - ''
+- - Sol, do ve fa olmak üzere üç anahtar vardır.
+- - ''
+- - ''
+orneklerkaynak:
+- - Falih Rıfkı Atay
+- - ''
+- - ''
+- - ''
+- - ''
+- - Peyami Safa
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+---

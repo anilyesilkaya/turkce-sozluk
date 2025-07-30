@@ -1,0 +1,95 @@
+---
+layout: term
+title: kullanmak
+slug: kullanmak
+lisan: Türkçe
+anlamlar:
+- Bir şeyden belli bir amaçla yararlanmak
+- Bir kimseyi bir hizmette bulundurmak, çalıştırmak
+- İşletmek, değerlendirmek
+- Giymek, takmak
+- Sigara, içki vb. şeylere alışmış olmak, içmek
+- Kelimeyi yazmak, söylemek
+- Harcamak, sarf etmek
+- Amacına ulaşmak için birinden veya bir şeyden yararlanmak, onu amacına alet etmek, sömürmek, istismar etmek
+- Araç veya aleti işletmek, yönetmek
+- Bir şeyin gereklerini yerine getirmek
+ozellikler:
+- - -i
+- - -i
+  - ''
+- - -i
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - nesnesiz
+- - -i
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+- - -i
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+- - -i
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+- - -i
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - ''
+  - ''
+  - mecaz
+ornekler:
+- - Parmaklarının arasındaki mendili eskiyinceye kadar kullandığın hiç oldu mu?
+- - Siz analarımızı nasıl esir gibi kullandınızsa biz de sizi öyle kullanacağız.
+- - Parasını ticarette kullanmak.
+- - Hiç yağmurluk kullanmazdı.
+- - ''
+- - Lakırtılarında çok kere çifter çifter kelimeler kullanırdı ki bunlar bazen manayı değiştirir.
+- - Sattıkları küpenin parasını çok idareli kullanıyorlardı.
+- - Hâlbuki onlar, işte bu saflığı istismar ediyorlar. Bütün düşünceleri seni kullanmak, o kadar!
+- - Nitekim çocuklarımın bile kullandıkları hesap makineleri, bunların küçük modelleridir.
+- - ''
+orneklerkaynak:
+- - Hüseyin Cahit Yalçın
+- - Halide Edip Adıvar
+- - ''
+- - ''
+- - ''
+- - Abdülhak Şinasi Hisar
+- - Peyami Safa
+- - Attilâ İlhan
+- - Burhan Felek
+- - ''
+---

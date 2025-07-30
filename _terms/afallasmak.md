@@ -1,0 +1,14 @@
+---
+layout: term
+title: afallaşmak
+slug: afallasmak
+lisan: Türkçe
+anlamlar:
+- Şaşkınlık içinde kalmak, şaşırıp bir şey yapamaz olmak
+ozellikler:
+- - nesnesiz
+ornekler:
+- - Bir soru ile afallaşmış, ikisini de alt etmiştim.
+orneklerkaynak:
+- - Usame Yördem
+---

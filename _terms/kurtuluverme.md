@@ -1,0 +1,14 @@
+---
+layout: term
+title: kurtuluverme
+slug: kurtuluverme
+lisan: Türkçe
+anlamlar:
+- Kurtuluvermek işi
+ozellikler:
+- - isim
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

@@ -1,0 +1,128 @@
+---
+layout: term
+title: hareket
+slug: hareket
+lisan: Arapça ḥareket
+anlamlar:
+- Vücudu oynatma, kıpırdatma veya kımıldanma
+- ► davranış
+- Yola çıkma
+- Bir cismin bütününün veya bir kısmının yerini, konumunu veya durumunu değiştirmesi; devinim, aksiyon
+- Belirli bir amaca varmak veya bir düşünceyi yerleştirmek için birbiri ardınca yapılan faaliyetler dizisi; akım
+- Toplu olarak ufak çapta başkaldırma
+- ► deprem
+- Demir yollarında katarların düzenlenmesi ve hangi saatlerde yola çıkıp hangi duraklarda karşılaşacaklarını düzenleme işleri
+- ► devinim
+- Bir parçanın yavaşlık, çabukluk derecesi
+- Kas ve eklemlerin, belli doğal şartlar içerisinde işlemeleri sonucu vücut bölümlerinde düzenli ve olumlu etkilerle oluşturdukları yer değişimi
+- Fiyat vb. sayıların, değerlerin değişmesi
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - fizik
+- - isim
+  - ''
+  - ''
+  - fizik
+  - ''
+- - isim
+  - ''
+  - ''
+  - fizik
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - fizik
+  - ''
+  - ''
+  - coğrafya
+- - isim
+  - ''
+  - ''
+  - fizik
+  - ''
+  - ''
+  - coğrafya
+  - ''
+- - isim
+  - ''
+  - ''
+  - fizik
+  - ''
+  - ''
+  - coğrafya
+  - ''
+  - felsefe
+  - fizyoloji
+- - isim
+  - ''
+  - ''
+  - fizik
+  - ''
+  - ''
+  - coğrafya
+  - ''
+  - felsefe
+  - fizyoloji
+  - müzik
+- - isim
+  - ''
+  - ''
+  - fizik
+  - ''
+  - ''
+  - coğrafya
+  - ''
+  - felsefe
+  - fizyoloji
+  - müzik
+  - spor
+- - isim
+  - ''
+  - ''
+  - fizik
+  - ''
+  - ''
+  - coğrafya
+  - ''
+  - felsefe
+  - fizyoloji
+  - müzik
+  - spor
+  - ticaret
+ornekler:
+- - Her hareketi kamera önünde rol yapıyormuşçasına hesaplı.
+- - Sakin, dürüst, kıyafeti ve hareketleriyle hiçbir ayrılık göstermeyen bir adamdır.
+- - Hareketimiz iki gün ertelendi.
+- - ''
+- - Türkçülük hareketi. Dilde özleşme hareketi.
+- - ''
+- - Ben diyor, hareket olurken Eminönü'nde idim.
+- - Hareket cetveli. Hareket memuru.
+- - ''
+- - ''
+- - ''
+- - ''
+orneklerkaynak:
+- - Refik Halit Karay
+- - Halide Edip Adıvar
+- - ''
+- - ''
+- - ''
+- - ''
+- - Memduh Şevket Esendal
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+---

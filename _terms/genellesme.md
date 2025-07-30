@@ -1,0 +1,14 @@
+---
+layout: term
+title: genelleşme
+slug: genellesme
+lisan: Türkçe
+anlamlar:
+- Genelleşmek işi; umumileşme, taammüm
+ozellikler:
+- - isim
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

@@ -1,0 +1,96 @@
+---
+layout: term
+title: getirmek
+slug: getirmek
+lisan: Türkçe
+anlamlar:
+- Gelmesini sağlamak
+- Bir şeyi yanında veya üstünde bulundurmak
+- Erişmek veya eriştiğini sanmak
+- İleri sürmek
+- Sebep olmak, ortaya çıkarmak
+- İletmek, bildirmek
+- Bir şey sağlamak
+- Bir makama atamak veya seçmek
+- Bazı kelimelerle birleşik fiil yapar
+- Bir şeyi aktarmak
+ozellikler:
+- - -e
+- - -e
+  - -de
+- - -e
+  - -de
+  - -i
+- - -e
+  - -de
+  - -i
+  - nesnesiz
+- - -e
+  - -de
+  - -i
+  - nesnesiz
+  - nesnesiz
+- - -e
+  - -de
+  - -i
+  - nesnesiz
+  - nesnesiz
+  - -i
+- - -e
+  - -de
+  - -i
+  - nesnesiz
+  - nesnesiz
+  - -i
+  - nesnesiz
+- - -e
+  - -de
+  - -i
+  - nesnesiz
+  - nesnesiz
+  - -i
+  - nesnesiz
+  - ''
+- - -e
+  - -de
+  - -i
+  - nesnesiz
+  - nesnesiz
+  - -i
+  - nesnesiz
+  - ''
+  - yardımcı  fiil
+- - -e
+  - -de
+  - -i
+  - nesnesiz
+  - nesnesiz
+  - -i
+  - nesnesiz
+  - ''
+  - yardımcı  fiil
+  - -i
+  - -den
+ornekler:
+- - Dün bir deri bir kemik hâlinde eve getirip bırakmışlar.
+- - ''
+- - Baharı getirdik.
+- - Örnek getirmek.
+- - Bu rüzgâr kar getirir.
+- - Bir zabit nefes nefese şu haberi getirdi.
+- - Haftada bir cuma günleri işleyen küçük bir kahve ayda ne kadar gelir getirirse...
+- - ''
+- - Gayrete getirmek. Nedamet getirmek.
+- - Atalarından getirdiği gelenekler.
+orneklerkaynak:
+- - Reşat Nuri Güntekin
+- - ''
+- - ''
+- - ''
+- - ''
+- - Orhan Seyfi Orhon
+- - Ömer Seyfettin
+- - ''
+- - ''
+- - ''
+---

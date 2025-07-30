@@ -1,0 +1,14 @@
+---
+layout: term
+title: elde tutmak
+slug: elde-tutmak
+lisan: Türkçe
+anlamlar:
+- sahibi olsun olmasın, bir malı mülkiyeti altında bulundurmak, zilyet olmak
+ozellikler:
+- - ''
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

@@ -1,0 +1,82 @@
+---
+layout: term
+title: kordon
+slug: kordon
+lisan: Fransızca cordon
+anlamlar:
+- Genellikle ipekten yapılmış kalın ip
+- Saat, madalyon vb.ni asmaya yarayan ince zincir
+- İnce tellerden örülen ve özellikle ütü, ızgara vb. ev araçlarında kullanılan elektrik kablosu
+- İnce uzun sıralar durumunda yapılmış oymalı duvar veya mobilya süsü
+- Teneke ve çinko eşyaların üstüne süs yapmak için kullanılan araç
+- Bir yere girip çıkmayı denetim altına almak için görevlilerden oluşturulan dizi
+- Kıyı şeridi
+- ► göbek bağı
+- ► kıyı dili
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - tıp
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - tıp
+  - coğrafya
+ornekler:
+- - Yaver kordonu.
+- - Bize defineden pay çıkaracak derken bütün urbamızı, saat kordonumuzu, para cüzdanımızı, yeni potinlerimizi üste verdik.
+- - ''
+- - ''
+- - ''
+- - Polis kordonu. Kordonu kaldırmak.
+- - ''
+- - ''
+- - ''
+orneklerkaynak:
+- - ''
+- - Hüseyin Rahmi Gürpınar
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+---

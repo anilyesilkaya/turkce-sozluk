@@ -1,0 +1,25 @@
+---
+layout: term
+title: ezebilmek
+slug: ezebilmek
+lisan: Türkçe
+anlamlar:
+- Ezme ihtimali veya imkânı bulunmak
+- Ezmeye gücü yetmek
+- Ezme becerisi bulunmak
+ozellikler:
+- - -i
+- - -i
+  - ''
+- - -i
+  - ''
+  - ''
+ornekler:
+- - ''
+- - ''
+- - ''
+orneklerkaynak:
+- - ''
+- - ''
+- - ''
+---

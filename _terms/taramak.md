@@ -1,0 +1,109 @@
+---
+layout: term
+title: taramak
+slug: taramak
+lisan: Türkçe
+anlamlar:
+- Bir şeyin tellerini birbirinden ayırıp karışıklığını gidermek
+- Bir şey veya kimseyi bulmak, denetlemek için türlü yöntemlerden yararlanarak bir yeri sıkı bir biçimde aramak
+- Bir şeyin içindeki gereksiz maddeleri tarak, tırmık vb. ile ayıklamak, taraktan geçirmek; taraklamak
+- Taşın yüzünü dişli çelik kalemle işlemek
+- Makineli tüfek vb. ateşli silahlarla sürekli olarak bir yere ateş etmek
+- Kafasından geçirmek, belli belirsiz düşünmek
+- Derleme ve araştırma yapmak için bir yayını dikkatle gözden geçirmek veya gerekli kelime, cümle ve yazıları tespit etmek
+- Dikkatle bakmak, gözden geçirmek; süzmek
+- Tarayıcı aracılığıyla kâğıt üzerindeki resimleri veya yazıları sayısal ortama aktarmak
+- Hastalıkların kişiler arasındaki seyrini takip edebilmek amacıyla düzenli aralıklarla yapılan inceleme
+- Bir resmin bir bölümü üzerine çizgilerle koyuluk vermek
+ozellikler:
+- - -i
+- - -i
+  - ''
+- - -i
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - -de
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - -de
+  - mecaz
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - -de
+  - mecaz
+  - mecaz
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - -de
+  - mecaz
+  - mecaz
+  - bilişim
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - -de
+  - mecaz
+  - mecaz
+  - bilişim
+  - tıp
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - -de
+  - mecaz
+  - mecaz
+  - bilişim
+  - tıp
+  - ''
+ornekler:
+- - Anası sabaha kadar saçlarını tarıyor, düşünüyor, ürküyordu.
+- - Birdenbire uzun bir ışık sol tarafımızdaki sırtları taradı.
+- - ''
+- - ''
+- - ''
+- - Belleğimde taradığım yazarların yarısına yakını hastalıklı idiler.
+- - Dergileri taramak.
+- - ''
+- - ''
+- - ''
+- - ''
+orneklerkaynak:
+- - Yaşar Kemal
+- - Halide Edip Adıvar
+- - ''
+- - ''
+- - ''
+- - Haldun Taner
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+---

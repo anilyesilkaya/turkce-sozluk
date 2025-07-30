@@ -1,0 +1,95 @@
+---
+layout: term
+title: çalık
+slug: calik
+lisan: Türkçe
+anlamlar:
+- ► çarpık
+- Verev kesilmiş
+- Doğal olmaktan uzaklaşmış, kendi renginden olmayan
+- Adı defterden silinmiş
+- Yüzünde çıban veya yara yeri olan
+- Yan yan giden
+- Çıban yeri
+- Koyunlarda çiçek hastalığı
+- ► çalgın
+- Benzeyen, benzer, çalan
+ozellikler:
+- - sıfat
+- - sıfat
+  - ''
+- - sıfat
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ağızlardan
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ağızlardan
+  - isim
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ağızlardan
+  - isim
+  - isim
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ağızlardan
+  - isim
+  - isim
+  - isim
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ağızlardan
+  - isim
+  - isim
+  - isim
+  - ''
+ornekler:
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Çalık at.
+- - ''
+- - ''
+- - ''
+- - Hafiften sarışına çalık bıyıklarına, berrak kahverengi gözlerine, düzgün taranmış yana yatık saçlarına bakarak güzel Türk efendisi derim ona.
+orneklerkaynak:
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Sevinç Çokum
+---

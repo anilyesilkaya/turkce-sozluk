@@ -1,0 +1,559 @@
+---
+layout: term
+title: vurmak
+slug: vurmak
+lisan: Türkçe
+anlamlar:
+- Elini veya elinde tuttuğu bir şeyi bir yere veya bir kimseye hızla çarpmak; çakmak, geçirmek, inmek
+- Ses çıkarmak için bir şeyi başka bir şey üzerine hızlıca çarpmak
+- Etkisi bir yere kadar ulaşmak
+- Duyulmak, hissedilmek
+- Üzerinde görünmek, üzerine düşmek, yansımak, aksetmek
+- Olumsuz yönde etkilemek
+- Hızla değmek, çarpmak
+- Bir yere bir şey sürmek
+- Takmak, koymak, bağlamak
+- Bağlamak, ilişkilendirmek
+- Olduğundan başka biçimde görünmek
+- Batıcı veya kesici cisimleri saplamak, kakmak
+- Uygulamak, basmak, koymak
+- Ses çıkarmak, ses vermek, çalmak
+- Amaçladığı şeye rast getirmek
+- Silahla yaralamak, öldürmek
+- Dokunmak, hasta etmek
+- Soğuk, dolu vb. ürünlere zarar vermek
+- Kalp atmak, çarpmak
+- Piyango vb. çıkmak, isabet etmek
+- Desteklemek, dayamak
+- Koymak, yerleştirmek
+- Bir şeyi başka bir şey üzerine koymak
+- Tavla oyununda pulu kırmak
+- Manevi olarak yaralamak
+- İçki içmek
+- Kadeh tokuşturmak
+- Herhangi bir biçimde haksız yoldan para almak, soymak
+- Çarpma işlemini yapmak
+ozellikler:
+- - -e
+- - -e
+  - -i
+- - -e
+  - -i
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -i
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -i
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -i
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -i
+  - ''
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - -i
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - -i
+  - -i
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - -i
+  - -i
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - -i
+  - -i
+  - ''
+  - nesnesiz
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - -i
+  - -i
+  - ''
+  - nesnesiz
+  - nesnesiz
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - -i
+  - -i
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - -i
+  - -i
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - -i
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - -i
+  - -i
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - -i
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - -i
+  - -i
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - -i
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - -i
+  - -i
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - -i
+  - ''
+  - ''
+  - ''
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - -i
+  - -i
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - -i
+  - ''
+  - ''
+  - ''
+  - mecaz
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - -i
+  - -i
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - -i
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - argo
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - -i
+  - -i
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - -i
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - argo
+  - argo
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - -i
+  - -i
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - -i
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - argo
+  - argo
+  - -i
+  - argo
+- - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - -e
+  - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - -i
+  - -i
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - -i
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - argo
+  - argo
+  - -i
+  - argo
+  - -e
+  - -i
+  - matematik
+ornekler:
+- - Masaya vurmak. Birinin başına vurmak.
+- - Kapılarını vurmadan, kartını göstermeden, kademeye aldırmadan odalara giriyor.
+- - Su dışarı vurdu.
+- - ''
+- - Yıkık damından içeriye parça parça güneş vurur.
+- - Kriz kitap dünyasını da vurdu.
+- - Arabalar aniden birbirine vurdu. Ayağını güm güm yere vurarak...
+- - Duvara boya, tahtaya cila vurmak istedi.
+- - Seni buradan ellerine kelepçe, ayaklarına zincir vurup öyle götürecekler!
+- - Bohçacı ve yazmacı kadınların tuhaflığına vurarak etrafını alırlar.
+- - Deliliğe vurmak.
+- - Bıçak vurmak.
+- - Damga vurmak.
+- - ''
+- - ''
+- - Bir gün kızı kurtarmışlar, ayıyı vurmuşlar.
+- - Bizim evin bacası çekmiyor. Bütün kış, maaile kömür vuruyor bizi bu yüzden.
+- - Dolu, bu yıl ekinlerin çoğunu vurmuş.
+- - Kalbi öylesine kopacakmış gibi vuruyordu.
+- - ''
+- - Akşam olunca kapının desteğini vurduk.
+- - Hamalın biri sırtına koca bir ayna vurmuş götürüyordu.
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Birinin on milyon lirasını vurmak.
+- - İkiyi dörde vurursak sekiz eder.
+orneklerkaynak:
+- - ''
+- - Refik Halit Karay
+- - ''
+- - ''
+- - Refik Halit Karay
+- - ''
+- - ''
+- - ''
+- - 'Yakup Kadri Karaosmanoğlu '
+- - Refik Halit Karay
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Halide Edip Adıvar
+- - Nâzım Hikmet
+- - Fikret Otyam
+- - ''
+- - ''
+- - ''
+- - Haldun Taner
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+---

@@ -1,0 +1,101 @@
+---
+layout: term
+title: boş
+slug: bos
+lisan: Türkçe
+anlamlar:
+- İçinde, üstünde hiç kimse veya hiçbir şey bulunmayan; hali, tehi, tıngır, dolu (II) karşıtı
+- Kullanıldıktan sonra içinde bir şey kalmayan, kirli bardak, çanak vb. kap
+- Sürülüp ekilmemiş toprak
+- Herhangi bir iş yapmadan, çalışmadan
+- Görevlisi olmayan (iş, görev); münhal
+- Yapılacak iş olmama durumu
+- Gerçeğe dayanmayan
+- Herhangi bir bilgisi olmayan
+- Bir işe yaramayan, yararı olmayan
+- Habersiz, hazırlıksız bir biçimde
+ozellikler:
+- - sıfat
+- - sıfat
+  - isim
+- - sıfat
+  - isim
+  - ''
+- - sıfat
+  - isim
+  - ''
+  - zarf
+- - sıfat
+  - isim
+  - ''
+  - zarf
+  - mecaz
+- - sıfat
+  - isim
+  - ''
+  - zarf
+  - mecaz
+  - isim
+  - mecaz
+- - sıfat
+  - isim
+  - ''
+  - zarf
+  - mecaz
+  - isim
+  - mecaz
+  - mecaz
+- - sıfat
+  - isim
+  - ''
+  - zarf
+  - mecaz
+  - isim
+  - mecaz
+  - mecaz
+  - mecaz
+- - sıfat
+  - isim
+  - ''
+  - zarf
+  - mecaz
+  - isim
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+- - sıfat
+  - isim
+  - ''
+  - zarf
+  - mecaz
+  - isim
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - zarf
+  - mecaz
+ornekler:
+- - Komşular bir şey anlamasın diye ateşte boş tencere kaynattığım zamanları bilirim, yine de babamın koskoca konağını terk etmemiştim.
+- - Tam bu sırada yanlarından elindeki tepside boşlarla ortalıkçı bir çocuk geçmektedir.
+- - ''
+- - Ben hiç hayatımda böyle yarım saat boş oturmadım…
+- - Boş kadro.
+- - Bugün sabah boşum, gelebilirsin.
+- - Bütün bunlar güneşli ve rüzgârlı bir günün boş vaatleri miydi?
+- - Daha meselesiz, daha cahil, daha boş, daha yakışıklıydılar.
+- - Yaşlı başlı insanlarız, dedi. Birbirimizi boş tesellilerle aldatacak değiliz.
+- - Tatar dilencinin küfürlerine işte böyle boş yakalandım.
+orneklerkaynak:
+- - Peride Celal
+- - Tarık Buğra
+- - ''
+- - Atilla Dorsay
+- - ''
+- - ''
+- - Nâzım Hikmet
+- - Sait Faik Abasıyanık
+- - Reşat Nuri Güntekin
+- - ''
+---

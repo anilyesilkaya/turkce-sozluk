@@ -1,0 +1,15 @@
+---
+layout: term
+title: eklem
+slug: eklem
+lisan: Türkçe
+anlamlar:
+- Vücut kemiklerinin uç uca veya kenar kenara gelip birleştiği yer; mafsal
+ozellikler:
+- - isim
+  - anatomi
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

@@ -1,0 +1,15 @@
+---
+layout: term
+title: dermeyan
+slug: dermeyan
+lisan: Farsça dermiyān
+anlamlar:
+- Ortada, ortaya konmuş
+ozellikler:
+- - sıfat
+  - eskimiş
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

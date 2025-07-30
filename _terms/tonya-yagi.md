@@ -1,0 +1,14 @@
+---
+layout: term
+title: Tonya yağı
+slug: tonya-yagi
+lisan: Türkçe
+anlamlar:
+- Besin değeri yüksek, hafif ve hoş kokulu, koyu sarı renkli bir tereyağı türü; Trabzon yağı
+ozellikler:
+- - isim
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

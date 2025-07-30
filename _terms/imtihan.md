@@ -1,0 +1,19 @@
+---
+layout: term
+title: imtihan
+slug: imtihan
+lisan: Arapça imtiḥān
+anlamlar:
+- ► sınav
+- Güç, direnme, dayanışma gerektiren, sonucunda deneyim kazandıran zor bir durum
+ozellikler:
+- - isim
+- - isim
+  - mecaz
+ornekler:
+- - ''
+- - ''
+orneklerkaynak:
+- - ''
+- - ''
+---

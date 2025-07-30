@@ -1,0 +1,109 @@
+---
+layout: term
+title: kapamak
+slug: kapamak
+lisan: Türkçe
+anlamlar:
+- Bir açıklığı örtmek için bir şeyi, açık yerin üzerine getirmek
+- Hava bulutlarla kaplanmak, sıkıntılı bir hâl almak
+- Bir şeyin görünmesine engel olmak; örtmek
+- Geçişi engellemek
+- Tıkamak, içini doldurmak
+- Su, elektrik gelişini kesmek
+- Çalışamaz, görev ve iş yapamaz duruma getirmek
+- Üzerinde durmamak, bir şey üzerinde konuşmayı bırakmak
+- Bir yere sokup dışarı çıkmasına engel olmak; hapsetmek
+- Ortalıktan alıp saklamak
+- Karşılamak, denk gelmek
+ozellikler:
+- - -i
+- - -i
+  - ''
+- - -i
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+ornekler:
+- - Hasan, yıldırımla vurulmuş gibi hemen kapıyı kapadı, kaçtı.
+- - ''
+- - Bu yapı manzarayı kapadı.
+- - Kar yolu kapamıştı.
+- - Çukuru kapamak.
+- - Elektriği kapadı.
+- - Fabrikayı kapamışlar. Gazeteyi kapadılar.
+- - O konuyu kapayalım.
+- - Zengin kadını tımarhaneye koymadılar, buraya, çiftliğe getirip kapadılar.
+- - Vurguncular kumaşları kapamışlar.
+- - Bu ikramiye borçlarımı kapar.
+orneklerkaynak:
+- - Halide Edip Adıvar
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Hüseyin Rahmi Gürpınar
+- - ''
+- - ''
+---

@@ -1,0 +1,95 @@
+---
+layout: term
+title: kasa
+slug: kasa
+lisan: İtalyanca cassa
+anlamlar:
+- Para veya değerli eşya saklamaya yarayan çelik dolap
+- Ticarethanelerde para alınıp verilen yer
+- Bazı oyunlarda oyunu yönetme veya para karşılığında fiş verme işi
+- Vagon, kamyon veya traktörün yük taşımak için şasiye bağlanmış üst bölümünü oluşturan parça
+- Meyve, sebze koymaya yarayan, tahta veya sentetik maddelerden yapılmış, dört köşe, sağlam ambalaj parçası; sandık
+- Basımcılıkta dizgi harflerinin konulduğu gözlerden oluşan tabla
+- Varlıklı kişinin harcamalarını yapan kimse
+- Kapı ve pencerelerin sabit olarak tutturulduğu asıl çerçeve
+- Birbiri üzerine istif edilerek yüksekliği ayarlanabilen atlama aracı
+- Ortak harcamalarda paranın toplandığı kimse
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mimarlık
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mimarlık
+  - spor
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mimarlık
+  - spor
+  - mecaz
+ornekler:
+- - Arkaya doğru bir adım atıp sırtını meyhanecinin kasasına dayadı.
+- - Çocuk dondurmasını bitirdi. Fişi kasaya ödedi.
+- - Kasa kim?
+- - ''
+- - Barın kapısı önünde bira kasaları yığılmıştı.
+- - ''
+- - Galip’in ününü İstanbul’da da duymuştu, oldukça fanatik bir tarikatın kasasıydı...
+- - ''
+- - ''
+- - Beyler, şimdi şöyle yapalım; birimiz kasa olsun, bütün harcamaları o yapsın.
+orneklerkaynak:
+- - Sait Faik Abasıyanık
+- - Halit Küçüktülü
+- - ''
+- - ''
+- - Attilâ İlhan
+- - ''
+- - Bülent Özden
+- - ''
+- - ''
+- - Cemil Kavukçu
+---

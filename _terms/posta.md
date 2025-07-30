@@ -1,0 +1,95 @@
+---
+layout: term
+title: posta
+slug: posta
+lisan: İtalyanca posta
+anlamlar:
+- Bir yere gelen veya bir yerden gönderilen mektup ve emanetlerin tümü
+- Genellikle bu emanetleri götüren taşıt
+- Bu emanetleri toplayan ve dağıtan kuruluş ve bu kuruluşun bulunduğu yer
+- Takım, kol
+- Haberci, ulak
+- Kez, defa, sefer
+- ► vardiya
+- Bir sanayi veya ticaret işletmesinde aynı süre içinde çalışanların tümü
+- Hizmet nöbetinde bulunan er
+- Vapur, tren, uçak vb. taşıtlarla yapılan yolculuk
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - askerlik
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - askerlik
+  - eskimiş
+ornekler:
+- - Ankara’nın hususi postasını gün aşırı bir kurye deri çanta içinde Sebilürreşad idarehanesine getirip bırakıyordu.
+- - Eşyalarımı ilk posta ile bir denk yapıp İstanbul’a gönderdim.
+- - Yazısı silinmiş, kâğıdı sarı / Mektubumu geri getirdi / Dünya postaları
+- - Rus jandarma yüzbaşısı böyle dedikten sonra ikişer ikişer üç posta yaptı.
+- - Sağa sola postalar çıkarıldı.
+- - Bu araba bütün eşyayı dört postada taşır.
+- - ''
+- - ''
+- - Posta, şu zarfı komutana götür.
+- - Karadeniz postası. Avrupa postası.
+orneklerkaynak:
+- - Mehmet Sılay
+- - Ömer Seyfettin
+- - Arif Nihat Asya
+- - Reşat İleri
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+---

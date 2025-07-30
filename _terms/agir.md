@@ -1,0 +1,216 @@
+---
+layout: term
+title: ağır
+slug: agir
+lisan: Türkçe
+anlamlar:
+- Tartıda çok çeken; kilolu, sakil, hafif karşıtı
+- Çapı, boyutu büyük
+- ► yavaş
+- ► yoğun
+- Çok az işiten (kulak)
+- Gösterişi fazla olmayan, ciddi olan
+- ► değerli
+- ► çetin
+- Sıkıntı veren, bunaltan; sakil
+- Dokunaklı, kırıcı, insanın gücüne giden
+- ► ağırbaşlı
+- Keskin, boğucu (koku)
+- ► kısık
+- Davranışları yavaş olan
+- Sindirimi güç (yiyecek)
+- ► ağır sıklet
+- Yavaş bir biçimde
+ozellikler:
+- - sıfat
+- - sıfat
+  - ''
+- - sıfat
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - ''
+  - mecaz
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - ''
+  - mecaz
+  - mecaz
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - ''
+  - mecaz
+  - mecaz
+  - mecaz
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - ''
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - ''
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - ''
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - ''
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - ''
+  - mecaz
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - ''
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - ''
+  - mecaz
+  - mecaz
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - ''
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - ''
+  - mecaz
+  - mecaz
+  - isim
+  - spor
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - ''
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - ''
+  - mecaz
+  - mecaz
+  - isim
+  - spor
+  - zarf
+ornekler:
+- - ''
+- - Ağır top.
+- - Adam ağır adımlarla gelip masanın başına geçiyor.
+- - Evin sofasına girer girmez kendisini ağır bir duman karşıladı.
+- - ''
+- - Ağır kıyafeti ile muhite uymayan Canan'ın yanında, ne kadar rahat ve sadeydi.
+- - Hiçbir yerden bir ses çıkmamış, kimse bir söz söylememişti. Yalnız Yumru kendi kendine taş yerinde ağırdır dedi.
+- - Denizcilik tarihinin en ağır sorumluluklarından birini üzerine alıyordu.
+- - Sanki ağır bir yükün altından kurtuldum.
+- - Kızmıştım, Keziban'a söylenecek şöyle ağır bir söz arıyordum.
+- - Bu, on dokuz yaşında ufak tefek bir kızdı fakat otuz yaşındaki bir insandan daha ağırdı.
+- - Bu koku, en hafif rüzgârla burnu kuvvetli bir adama uzaktan kendini hissettirecek kadar ağırdır.
+- - Ağaya pek duyurmak istemeyen ağır bir sesle kulağıma eğildi.
+- - ''
+- - Ağır bir yemek.
+- - Yıllarca ağırda güreşti.
+- - Cüneyt Bey sözlerini tartıyormuş gibi ağır söylüyordu.
+orneklerkaynak:
+- - ''
+- - ''
+- - Esat Mahmut Karakurt
+- - Abbas Sayar
+- - ''
+- - Mithat Cemal Kuntay
+- - Hüseyin Nihal Atsız
+- - Feridun Fazıl Tülbentçi
+- - Ömer Seyfettin
+- - Nurullah Ataç
+- - Halide Edip Adıvar
+- - Falih Rıfkı Atay
+- - Osman Cemal Kaygılı
+- - ''
+- - ''
+- - ''
+- - Etem İzzet Benice
+---

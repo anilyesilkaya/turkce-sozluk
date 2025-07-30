@@ -1,0 +1,14 @@
+---
+layout: term
+title: bet suratlı
+slug: bet-suratli
+lisan: Türkçe
+anlamlar:
+- Yüreğinin kötülüğü yüzünden belli olan
+ozellikler:
+- - sıfat
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

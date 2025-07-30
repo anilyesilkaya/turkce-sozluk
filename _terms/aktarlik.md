@@ -1,0 +1,14 @@
+---
+layout: term
+title: aktarlık
+slug: aktarlik
+lisan: Türkçe
+anlamlar:
+- Aktarın yaptığı iş
+ozellikler:
+- - isim
+ornekler:
+- - Hangi müşteriye aktarlık ettim? Her gelene gözlemeci olduğumu dilim döndüğü kadar anlatmaya çalışıyorum.
+orneklerkaynak:
+- - Cevdet Kudret
+---

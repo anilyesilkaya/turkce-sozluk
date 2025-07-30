@@ -1,0 +1,14 @@
+---
+layout: term
+title: fala bakmak
+slug: fala-bakmak
+lisan: Türkçe
+anlamlar:
+- fal açmak
+ozellikler:
+- - ''
+ornekler:
+- - Para ile fala baktığı hâlde geçim sıkıntısından kurtulamıyor.
+orneklerkaynak:
+- - Reşat Nuri Güntekin
+---

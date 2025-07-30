@@ -1,0 +1,14 @@
+---
+layout: term
+title: salto atmak
+slug: salto-atmak
+lisan: Türkçe
+anlamlar:
+- rakibe salto uygulamak
+ozellikler:
+- - ''
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

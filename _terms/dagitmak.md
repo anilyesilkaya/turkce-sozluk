@@ -1,0 +1,122 @@
+---
+layout: term
+title: dağıtmak
+slug: dagitmak
+lisan: Türkçe
+anlamlar:
+- Toplu durumda bulunanları birbirinden uzaklaştırmak veya ayırmak
+- Belli bir orana göre bölüştürmek; tevzi etmek
+- Herhangi bir şeyi ayrı ayrı kimselere vermek
+- Bir şeyin veya bir yerin düzenini bozmak
+- ► ulaştırmak
+- Yenilgiye uğratmak
+- Bir topluluğun varlığına son vermek; feshetmek
+- Kurulu bir düzeni bozmak
+- Etkisini, gücünü azaltmak, gidermek
+- Ne yaptığını bilmeyecek kadar içip kendinden geçmek
+- Değişik sebeplerle kendini koyuvermek, beklenmedik davranışlarda bulunmak
+ozellikler:
+- - -i
+- - -i
+  - -i
+  - nesnesiz
+- - -i
+  - -i
+  - nesnesiz
+  - ''
+- - -i
+  - -i
+  - nesnesiz
+  - ''
+  - ''
+- - -i
+  - -i
+  - nesnesiz
+  - ''
+  - ''
+  - nesnesiz
+- - -i
+  - -i
+  - nesnesiz
+  - ''
+  - ''
+  - nesnesiz
+  - mecaz
+- - -i
+  - -i
+  - nesnesiz
+  - ''
+  - ''
+  - nesnesiz
+  - mecaz
+  - mecaz
+- - -i
+  - -i
+  - nesnesiz
+  - ''
+  - ''
+  - nesnesiz
+  - mecaz
+  - mecaz
+  - mecaz
+- - -i
+  - -i
+  - nesnesiz
+  - ''
+  - ''
+  - nesnesiz
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+- - -i
+  - -i
+  - nesnesiz
+  - ''
+  - ''
+  - nesnesiz
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - nesnesiz
+  - mecaz
+- - -i
+  - -i
+  - nesnesiz
+  - ''
+  - ''
+  - nesnesiz
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - nesnesiz
+  - mecaz
+  - nesnesiz
+  - argo
+ornekler:
+- - Düşman ordusunu çil yavrusu gibi dağıtırlardı.
+- - Cebinden cüzdanını çıkarıp çocukları için harçlık dağıttı.
+- - Selamlar dağıtarak telaşsız ve yorgun bana doğru yürüyordu.
+- - Odayı dağıtmak. Kâğıtları dağıtmak.
+- - ''
+- - ''
+- - Kooperatifi dağıttılar.
+- - ''
+- - ''
+- - ''
+- - ''
+orneklerkaynak:
+- - Yahya Kemal Beyatlı
+- - Lâtife Tekin
+- - Refik Halit Karay
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+---

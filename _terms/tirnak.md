@@ -1,0 +1,91 @@
+---
+layout: term
+title: tırnak
+slug: tirnak
+lisan: Türkçe
+anlamlar:
+- İnsanda ve birçok omurgalı hayvanda parmak uçlarının dış bölümünü örten boynuzsu tabaka
+- Kanca gibi araçların kıvrık yeri
+- Gemi demirinin ucundaki yassı parça
+- Ciltçilikte tek yaprakları büküp cildi birleştirebilmek için bir yanında bırakılan şerit durumundaki kenar
+- Heykel dökümünde, kalıp parçalarının birleştirilmesinde kolaylık sağlamak amacı ile yapılan dişlerin her biri
+- Kanun çalmakta kullanılan mızrap
+- ► keski
+- ► tırnak işareti
+- Mermi atıldıktan sonra kovanın çıkarılmasına yarayan silah mekanizması
+ozellikler:
+- - isim
+  - anatomi
+- - isim
+  - anatomi
+  - ''
+- - isim
+  - anatomi
+  - ''
+  - denizcilik
+- - isim
+  - anatomi
+  - ''
+  - denizcilik
+  - ''
+- - isim
+  - anatomi
+  - ''
+  - denizcilik
+  - ''
+  - ''
+- - isim
+  - anatomi
+  - ''
+  - denizcilik
+  - ''
+  - ''
+  - müzik
+- - isim
+  - anatomi
+  - ''
+  - denizcilik
+  - ''
+  - ''
+  - müzik
+  - ''
+- - isim
+  - anatomi
+  - ''
+  - denizcilik
+  - ''
+  - ''
+  - müzik
+  - ''
+  - dil bilgisi
+- - isim
+  - anatomi
+  - ''
+  - denizcilik
+  - ''
+  - ''
+  - müzik
+  - ''
+  - dil bilgisi
+  - askerlik
+ornekler:
+- - Zarfın ucunu tırnağımla yırttım.
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+orneklerkaynak:
+- - Aka Gündüz
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+---

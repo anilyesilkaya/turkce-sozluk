@@ -1,0 +1,126 @@
+---
+layout: term
+title: yan
+slug: yan
+lisan: Türkçe
+anlamlar:
+- Bir şeyin ön, arka, alt ve üst dışında kalan bölümü; yamaç, kenar, profil
+- Sağ ve solun ortak adı
+- Bir kimseye yakın olan yer
+- Birlikte, beraberinde veya üstünde olma
+- Ön veya arka kabul edilen yere göre sağ veya solda bulunan
+- İkinci derece olan
+- ► ikincil
+- Bir tarafa yönelerek
+- İstekleri karşıt olan iki kişiden veya topluluktan biri
+- Savaş düzenindeki ordunun iki kanadından her biri
+- Bir denklemde "=" işaretiyle ayrılmış olan iki anlatımdan her biri
+- ► taç (II)
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - sıfat
+- - isim
+  - ''
+  - ''
+  - ''
+  - sıfat
+  - sıfat
+- - isim
+  - ''
+  - ''
+  - ''
+  - sıfat
+  - sıfat
+  - sıfat
+- - isim
+  - ''
+  - ''
+  - ''
+  - sıfat
+  - sıfat
+  - sıfat
+  - zarf
+- - isim
+  - ''
+  - ''
+  - ''
+  - sıfat
+  - sıfat
+  - sıfat
+  - zarf
+  - mecaz
+- - isim
+  - ''
+  - ''
+  - ''
+  - sıfat
+  - sıfat
+  - sıfat
+  - zarf
+  - mecaz
+  - askerlik
+- - isim
+  - ''
+  - ''
+  - ''
+  - sıfat
+  - sıfat
+  - sıfat
+  - zarf
+  - mecaz
+  - askerlik
+  - matematik
+- - isim
+  - ''
+  - ''
+  - ''
+  - sıfat
+  - sıfat
+  - sıfat
+  - zarf
+  - mecaz
+  - askerlik
+  - matematik
+  - spor
+ornekler:
+- - Yolcuların girdiği iskele yanından kendini denize attı.
+- - Yaşlı garson yanımıza geldi.
+- - ''
+- - Bir ara acıkıp yanlarında getirdikleri ekmek peyniri yediler
+  - Yolculuk hâli, yanımda hiç para kalmaz ise ne yaparım diye düşündüm.
+- - ''
+- - Çoğu kez yan uğraş olarak oyuncular filmcilikle uğraşıyordu.
+- - ''
+- - O zaman mindere yan oturup ayaklarını aşağı sallayarak karşılıklı yemeğe başlıyorlardı.
+- - ''
+- - ''
+- - ''
+- - ''
+orneklerkaynak:
+- - Memduh Şevket Esendal
+- - 'Yakup Kadri Karaosmanoğlu '
+- - ''
+- - Necati Cumalı
+  - Memduh Şevket Esendal
+- - ''
+- - Metin And
+- - ''
+- - Sabahattin Ali
+- - ''
+- - ''
+- - ''
+- - ''
+---

@@ -1,0 +1,15 @@
+---
+layout: term
+title: örümceksi zar
+slug: orumceksi-zar
+lisan: Türkçe
+anlamlar:
+- Beyni ve omuriliği örten sert zar ile ince zar arasında bulunan ağ gibi ince, seyrek dokulu zar
+ozellikler:
+- - isim
+  - anatomi
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

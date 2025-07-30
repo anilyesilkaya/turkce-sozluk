@@ -1,0 +1,163 @@
+---
+layout: term
+title: hava
+slug: hava
+lisan: Arapça hevā
+anlamlar:
+- Hava yuvarını oluşturan, bütün canlıların solunumuna yarayan, renksiz, kokusuz, akışkan gaz karışımı
+- Meteoroloji ile ilgili olayların bütünü
+- Canlılar üzerindeki etkisine göre hava yuvarının durumu
+- ► gökyüzü
+- Çevreyi kuşatan boşluk
+- ► esinti
+- Müzik parçalarında tür
+- Müzik aletlerinden çıkan ses perdesi
+- Sonuçsuz, anlamsız, boş (durum, davranış, söz)
+- Görünüş, davranış, söz vb. için bir kimsenin durumunu belirten özellik
+- ► üslup
+- İçinde yaşanılan ve etkisinde kalınan ortam; atmosfer
+- ► çekicilik
+- Keyif, âlem
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - sıfat
+  - mecaz
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - sıfat
+  - mecaz
+  - mecaz
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - sıfat
+  - mecaz
+  - mecaz
+  - mecaz
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - sıfat
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - sıfat
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - sıfat
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+  - mecaz
+ornekler:
+- - ''
+- - Hava biraz bozukçaydı, dışarıda serin bir yağmur çiseliyordu.
+- - Havanın üşütecek kadar serinlemiş olmasına göre sabah yakın.
+- - Havada bir tek bulut yok.
+- - Tozlar havada uçuşuyordu.
+- - Bugün hava olursa yelkenli kalkacak.
+- - Kâğıthane havası tutturur, bahriye çiftetellisi çalardık.
+- - ''
+- - Bu sözlerin sonu hava.
+- - Buna rağmen öyle kibar ve asil havası vardır ki bu damga bile onu çirkinleştiremez, inadına daha bir uçarı, daha bir sevimli yapar.
+- - Namık Kemal'e, Tevfik Fikret'e başarılı nazireler yazmıştır. Onların diliyle, onların sesiyle, onların havasıyla...
+- - İlk deneme dalış günü gelince, denizcilerde büyük bir coşkunluk, bir tören havası vardı.
+- - Kadın güzel değil ama havası var.
+- - Onu kendi havasına bıraksak çalışmaz.
+orneklerkaynak:
+- - ''
+- - Memduh Şevket Esendal
+- - Reşat Nuri Güntekin
+- - ''
+- - ''
+- - ''
+- - Sait Faik Abasıyanık
+- - ''
+- - ''
+- - Haldun Taner
+- - Yusuf Ziya Ortaç
+- - Halikarnas Balıkçısı
+- - ''
+- - ''
+---

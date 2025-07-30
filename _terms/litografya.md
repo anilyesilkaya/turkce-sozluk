@@ -1,0 +1,19 @@
+---
+layout: term
+title: litografya
+slug: litografya
+lisan: Yunanca
+anlamlar:
+- ► taş basması
+- Bu yöntemle basılmış (yazı, resim)
+ozellikler:
+- - isim
+- - isim
+  - sıfat
+ornekler:
+- - ''
+- - ''
+orneklerkaynak:
+- - ''
+- - ''
+---

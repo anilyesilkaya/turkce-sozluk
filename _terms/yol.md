@@ -1,0 +1,140 @@
+---
+layout: term
+title: yol
+slug: yol
+lisan: Türkçe
+anlamlar:
+- Karada, havada, suda bir yerden bir yere gitmek için aşılan uzaklık; sırat, tarik
+- Karada insanların ve hayvanların geçmesi için açılan veya kendi kendine oluşmuş, yürümeye uygun yer
+- Genellikle yerleşim alanlarını birbirine bağlamak için düzeltilerek açılmış ulaşım şeridi
+- İçinden veya üstünden bir sıvının geçtiği, aktığı yer
+- ► yolculuk
+- Gidiş çabukluğu, hız
+- Davranış, tutum, gidiş veya davranış biçimi
+- Uyulan ilke; sistem
+- Kumaşta bulunan çizgi
+- ► kez
+- Düğünde, oğlanevinin kızevine verdiği para, mal veya armağan
+- Bir sonuca, bir amaca ulaşmak için izlenen süreç
+- Bir amaca ulaşmak için başvurulması gereken çare
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ağızlardan
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ağızlardan
+  - mecaz
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ağızlardan
+  - mecaz
+  - mecaz
+ornekler:
+- - ''
+- - Bahçeleri bahçelere toprak yollar bağlardı.
+- - Yolda oynayan çocuklara ne olduğunu sordu.
+- - Su yolu. Sel yolu.
+- - Yola çıkmak. Yoldan kalmak.
+- - Bu vapurun yolu az.
+- - Celâl Bey'i sakal bırakma yolunda, kim, hangi örnek özendirdi diye çok düşünmüşümdür.
+- - Duyguların eğitimi de en iyi, sanat yoluyla olur.
+- - ''
+- - Tohumlar kimi yol, ısmarlandıktan üç dört ay sonra gelirdi.
+- - ''
+- - Bu yolda çok emek harcandı.
+- - Bu işi yapmanın bir yolu vardır.
+orneklerkaynak:
+- - ''
+- - Çetin Altan
+- - Ömer Seyfettin
+- - ''
+- - ''
+- - ''
+- - Haldun Taner
+- - ''
+- - ''
+- - Halikarnas Balıkçısı
+- - ''
+- - ''
+- - ''
+---

@@ -1,0 +1,177 @@
+---
+layout: term
+title: kaynamak
+slug: kaynamak
+lisan: Türkçe
+anlamlar:
+- Bir sıvı, sıcaklığı belli bir dereceyi bulduğunda buhar durumuna geçerek fokurdamak
+- Yiyecek, içecek fokurdayacak derecedeki suda pişmek, haşlanmak
+- Yerden çıkmak
+- Kırık, çatlak kemik veya metal parçalar eski durumunu almak, birbirine yapışmak
+- Yara kapanmak, iyileşmek
+- Mayalı bir şey kabarıp köpürmek
+- Mide ekşimek
+- Çalkantı durumunda olmak, dalgalanmak
+- Çok miktarda bulunmak
+- Gizli bir iş çevirmek, için için hazırlanmak
+- Gerektiği gibi yapılamamak
+- Artmak, çoğalmak, yoğunlaşmak
+- Coşmak, heyecanlanmak
+- Bir yerde huzursuzluk, tedirginlik olmak
+- Arada kaybolmak
+ozellikler:
+- - nesnesiz
+- - nesnesiz
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - argo
+ornekler:
+- - Su, 100 °C'de kaynar.
+- - Doktorun sade kaynamış kahvesini söylemesini bekledi ve garson gider gitmez konuştu.
+- - ''
+- - ''
+- - ''
+- - Şıra kaynamış.
+- - ''
+- - Deniz kaynıyor.
+- - Gölün kuzey kıyısında iki mil kadar yürüdükten sonra suda bir açıklığa geldik, burası tam anlamıyla av kuşu kaynıyordu.
+  - ''
+- - Burada bir iş kaynıyor.
+- - Lafa daldık, ders kaynadı.
+- - Gittikçe kaynayıp kabaran bir hiddet, taşmak raddesine gelmiş kelimelerle dudaklarına kadar çıkıp titriyordu.
+- - ''
+- - ''
+- - Değerli bir çalışma kaynadı gibi geliyor bana.
+orneklerkaynak:
+- - ''
+- - Tarık Buğra
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Mehmet Kentel
+  - ''
+- - ''
+- - ''
+- - Halit Ziya Uşaklıgil
+- - ''
+- - ''
+- - Selim İleri
+---

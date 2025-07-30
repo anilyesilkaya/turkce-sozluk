@@ -1,0 +1,113 @@
+---
+layout: term
+title: bir
+slug: bir
+lisan: Türkçe
+anlamlar:
+- Sayıların ilki; yek
+- Bu sayıyı gösteren 1 ve I rakamlarının adı
+- Bu sayı kadar olan
+- ► beraber
+- Herhangi bir varlığı belirsiz olarak gösteren (sayı)
+- Eşi bulunmayan
+- Değer, önem ve nitelik bakımlarından birbirinden farksız, birbirine eşit, birbirine benzer
+- Ortaklaşa olan
+- Bir kez
+- ► yalnızca
+- Sıfat, isim veya zarf olan bir kelimenin başına geldiğinde kelimenin anlamını güçlendirir
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - sıfat
+- - isim
+  - ''
+  - sıfat
+  - zarf
+- - isim
+  - ''
+  - sıfat
+  - zarf
+  - sıfat
+- - isim
+  - ''
+  - sıfat
+  - zarf
+  - sıfat
+  - sıfat
+- - isim
+  - ''
+  - sıfat
+  - zarf
+  - sıfat
+  - sıfat
+  - sıfat
+- - isim
+  - ''
+  - sıfat
+  - zarf
+  - sıfat
+  - sıfat
+  - sıfat
+  - sıfat
+- - isim
+  - ''
+  - sıfat
+  - zarf
+  - sıfat
+  - sıfat
+  - sıfat
+  - sıfat
+  - zarf
+- - isim
+  - ''
+  - sıfat
+  - zarf
+  - sıfat
+  - sıfat
+  - sıfat
+  - sıfat
+  - zarf
+  - zarf
+- - isim
+  - ''
+  - sıfat
+  - zarf
+  - sıfat
+  - sıfat
+  - sıfat
+  - sıfat
+  - zarf
+  - zarf
+  - ''
+ornekler:
+- - ''
+- - ''
+- - Bir kalem.
+- - Hep biriz, ayrılmayız.
+- - Aydınlık bir odada, iki duvarın kesiştiği köşede zayıf, yaşlı bir adam yatıyordu.
+- - Allah tektir ve birdir, amenna!
+- - Bu kalemlerin ikisi birdir, hangisini isterseniz alınız.
+- - Bizim kesemiz birdir.
+- - Şunu bileniniz varsa bir anlatın, dedi.
+- - İsterseniz ondan sonra bizi öldürün, yapmadığınız bir bu kaldı, onu da yapın!
+- - Feyyaz bir sabah yataklı Ankara ekspresiyle öyle bir geldi ki… Gayet şık giyinmiş.
+  - Hele de sohbeti bir tatlı, bir tatlı... Nasıl anlatsam...
+  - Abdülsabir Nuh Efendi’nin küçük kızı Zarife eve öyle bir giriş girdi ki akşam namazını kılan annesi Adalet Hanım kızın çığlıklarından şaşırıp namazı bozdu.
+orneklerkaynak:
+- - ''
+- - ''
+- - ''
+- - ''
+- - Ayla Kutlu
+- - Ahmet Kabaklı
+- - ''
+- - ''
+- - Kemal Tahir
+- - Sabahattin Ali
+- - Yılmaz Çetiner
+  - Ali Balkız
+  - Kerime Nadir
+---

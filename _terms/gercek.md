@@ -1,0 +1,96 @@
+---
+layout: term
+title: gerçek
+slug: gercek
+lisan: Türkçe
+anlamlar:
+- Yalan olmayan, doğru olan şey; çın, ciddi, hakikat
+- ► gerçeklik
+- ► doğruluk
+- Yalan olmayan
+- Bir durum, bir nesne veya bir nitelik olarak var olan, varlığı inkâr edilemeyen, olgu durumunda olan, özbeöz, hakiki, reel
+- Aslına uygun nitelikler taşıyan, sahici
+- Temel, başlıca, asıl
+- Doğadaki gibi olan, doğayı olduğu gibi yansıtan
+- Yapay olmayan
+- Düşünülen, tasarımlanan, imgelenen şeylere karşıt olarak var olan
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - sıfat
+- - isim
+  - ''
+  - ''
+  - sıfat
+  - sıfat
+- - isim
+  - ''
+  - ''
+  - sıfat
+  - sıfat
+  - sıfat
+- - isim
+  - ''
+  - ''
+  - sıfat
+  - sıfat
+  - sıfat
+  - sıfat
+- - isim
+  - ''
+  - ''
+  - sıfat
+  - sıfat
+  - sıfat
+  - sıfat
+  - sıfat
+- - isim
+  - ''
+  - ''
+  - sıfat
+  - sıfat
+  - sıfat
+  - sıfat
+  - sıfat
+  - sıfat
+- - isim
+  - ''
+  - ''
+  - sıfat
+  - sıfat
+  - sıfat
+  - sıfat
+  - sıfat
+  - sıfat
+  - sıfat
+  - felsefe
+ornekler:
+- - Esasen bizim için millî varlık ile istiklal ve hürriyet aynı gerçeğin çeşitli cepheleridir.
+- - Her hâlde o gün imparatorluğun ölümü apaçık bir gerçekti.
+- - Bu laflarda gerçek payı ne kadar çoksa duygu payı da ondan az değildir.
+- - O yürekler acısı fukara kafile, yüzlerinden gerçek acı aka aka ölü arkadaşlarının namazını kıldılar.
+- - Kâğıt paranın saymaca değeri varsa da gerçek değeri yoktur.
+- - Gerçek elmas. Gerçek hikâye.
+- - Bir kişinin ahlaklı olması için, o benim dediğim gerçek ahlaka erişebilmesi için bir iç âlemi olmalıdır.
+- - ''
+- - ''
+- - ''
+orneklerkaynak:
+- - Mehmet Kaplan
+- - Halide Edip Adıvar
+- - Burhan Felek
+- - Halikarnas Balıkçısı
+- - ''
+- - ''
+- - Nurullah Ataç
+- - ''
+- - ''
+- - ''
+---

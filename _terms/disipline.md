@@ -1,0 +1,14 @@
+---
+layout: term
+title: disipline
+slug: disipline
+lisan: Fransızca discipliné
+anlamlar:
+- '"Sıkı düzen ve denetim altına alınmak, zapturapt altına alınmak, denetim altında tutulmak" anlamlarında disipline edilmek, "sıkı düzen ve denetim altına almak, zapturapt altına almak" anlamlarında disipline etmek, "kendi kendine veya dış etkilerle düzen ve denetim altına girmek" anlamında disipline olmak birleşik fiillerinde geçen bir söz'
+ozellikler:
+- - sıfat
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

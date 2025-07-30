@@ -1,0 +1,14 @@
+---
+layout: term
+title: amaç gütmek
+slug: amac-gutmek
+lisan: Türkçe
+anlamlar:
+- bir amacı gerçekleştirmeye çalışmak
+ozellikler:
+- - ''
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

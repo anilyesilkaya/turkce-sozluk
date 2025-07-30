@@ -1,0 +1,214 @@
+---
+layout: term
+title: yatmak
+slug: yatmak
+lisan: Türkçe
+anlamlar:
+- Bir yere veya bir şeyin üzerine boylu boyunca uzanmak
+- Uyumak veya dinlenmek için yatağa girmek
+- Yatay veya yataya yakın bir duruma gelmek, eğilmek
+- Geceyi geçirmek üzere bir yerde kalmak
+- Boş yere beklemek
+- İşlemez, çalışmaz durumda kalmak
+- Bir özellik kazanmak için bir şeyin içinde beklemek
+- Belli bir süreyi cezaevinde geçirmek
+- Ölü gömülmüş olmak
+- Düz bir duruma gelmek, düzleşmek
+- Cinsel ilişkide bulunmak
+- Bir düşünceyi veya bir öneriyi benimsemek, razı olmak
+- Heves etmek, eğimli olmak, eğilmek
+- Bulunmak, var olmak
+- Olumsuz veya başarısız bir sonuç almak
+- İşsiz kalmak, çalışmamak
+- Bilerek yenilmek, şike yapmak
+ozellikler:
+- - nesnesiz
+- - nesnesiz
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -le
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -le
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -le
+  - ''
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -le
+  - ''
+  - ''
+  - mecaz
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -le
+  - ''
+  - ''
+  - mecaz
+  - teklifsiz konuşmada
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -le
+  - ''
+  - ''
+  - mecaz
+  - teklifsiz konuşmada
+  - ''
+- - nesnesiz
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - -le
+  - ''
+  - ''
+  - mecaz
+  - teklifsiz konuşmada
+  - ''
+  - argo
+ornekler:
+- - Dörtnala giden atların köpüklü boynuna bir daha yatmayacak.
+- - ''
+- - Rüzgârdan bütün ekinler yattı. Gemi sağa yattı.
+- - Bu gece nerede yatacağız?
+- - Mallar depoda yatıyor.
+- - Gemi limanda yatıyor.
+- - Turşu sirkede yatıyor.
+- - ''
+- - Mezarlık servilerinin altında ninelerim, teyzelerim yatarlardı.
+- - Kumaş iyice ütülenince yattı.
+- - ''
+- - ''
+- - Çalı süpürgelerinin kırmızı çiçeklerindeki bal kokusuna yatmışlardı.
+- - Her ayrıcalık hevesinin kökeninde bir kompleks, bir göstermecilik duygusu yattığı görülür.
+- - Takım bu sezon yattı.
+- - ''
+- - ''
+orneklerkaynak:
+- - Nâzım Hikmet
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Halikarnas Balıkçısı
+- - ''
+- - ''
+- - ''
+- - Sait Faik Abasıyanık
+- - Haldun Taner
+- - ''
+- - ''
+- - ''
+---

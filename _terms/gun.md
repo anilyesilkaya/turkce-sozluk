@@ -1,0 +1,95 @@
+---
+layout: term
+title: gün
+slug: gun
+lisan: Türkçe
+anlamlar:
+- ► güneş
+- Güneş ışığı
+- ► gündüz
+- Yer yuvarlağının kendi ekseni etrafında bir kez dönmesiyle geçen 24 saatlik süre; ruz
+- İçinde bulunulan zaman
+- Zaman, sıra
+- Çağ, devir
+- İyi yaşanmış zaman
+- Bayram niteliğinde özel gün
+- Belirli günlerde ev hanımlarının konuk ağırlamak için yaptıkları toplantı
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+ornekler:
+- - ''
+- - ''
+- - Bütün gün yanında kalırdım.
+- - Kız kardeşi üç yıl, bir gün olsun canı sıkılmadan yaşadı Tatvan'da.
+- - Aylıkları, günün ihtiyaçları karşısında devede kulak gibi kalıyordu.
+- - Ama şu son günlerde büyük bir ilerleme olmuştu kadında.
+- - ''
+- - Zavallı, gün görmedi.
+- - Bugün Fransızların günü imiş.
+- - Yarın Ayşe Hanım'ın günü.
+orneklerkaynak:
+- - ''
+- - ''
+- - Adalet Ağaoğlu
+- - ''
+- - Reşat Nuri Güntekin
+- - Ayşe Kulin
+- - ''
+- - ''
+- - ''
+- - ''
+---

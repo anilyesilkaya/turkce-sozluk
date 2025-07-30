@@ -1,0 +1,157 @@
+---
+layout: term
+title: yemek
+slug: yemek
+lisan: Türkçe
+anlamlar:
+- Ağızda çiğneyerek yutmak
+- ► kemirmek
+- ► ısırmak
+- ► dalamak
+- Hoşa gitmeyen kötü bir duruma uğramak, tutulmak
+- Hakkı olmayan ve kendisine yasak edilmiş bulunan bir şeyi kabul etmek
+- Harcayıp bitirmek
+- Yasal yoldan cezalandırılmak
+- Birine alacağını vermemek, ödememek
+- Başkasının parasını harcamak
+- ► kullanılmak
+- Sürekli üzmek, tedirgin etmek
+- Gücünü kırmak, perişan etmek, mahvetmek
+- ► kandırmak
+ozellikler:
+- - -i
+- - -i
+  - ''
+- - -i
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - mecaz
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - mecaz
+  - argo
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - mecaz
+  - argo
+  - argo
+ornekler:
+- - Adam o kadar çabuk yiyor ki hizmetçi ekmek yetiştiremiyor.
+- - Neclâ onun böyle kendinden geçercesine çalıştığını gördükçe üzüntüden tırnaklarını yiyor.
+- - Sivrisinekler çocuğun kollarını yemiş.
+- - ''
+- - Kendini topladı ama fena yerinden gagayı yedi sanırım...
+- - Haram yemek. Rüşvet yemek.
+- - Mirası sen yedin, zahmeti ben çekiyorum diye latife ediyordu.
+- - ''
+- - Bu adam benim yüz bin liramı yedi.
+- - Dalkavuklar çok parasını yemişler.
+- - Yapımına başlanan bu yapı günde 5 ton çimento yiyor.
+- - Bu dert beni yiyor.
+- - ''
+- - Bizi yemek, sana mı kaldı.
+orneklerkaynak:
+- - Burhan Felek
+- - Haldun Taner
+- - ''
+- - ''
+- - Memduh Şevket Esendal
+- - ''
+- - Memduh Şevket Esendal
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+---

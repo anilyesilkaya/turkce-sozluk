@@ -1,0 +1,16 @@
+---
+layout: term
+title: postulat
+slug: postulat
+lisan: Fransızca postulat
+anlamlar:
+- ► ön doğru
+ozellikler:
+- - isim
+  - matematik
+  - mantık
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

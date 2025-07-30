@@ -1,0 +1,124 @@
+---
+layout: term
+title: ciddi
+slug: ciddi
+lisan: Arapça ciddī
+anlamlar:
+- Şaka olmayan
+- ► ağırbaşlı
+- Titizlik gösterilen, önem verilen; önemlice, becit
+- Tehlikeli ve endişe verici olan
+- Eğlendirme amacı gütmeyen
+- Gülmeyen
+- Güvenilir, sağlam, önemli olan
+- ► gerçek
+- Önem vererek, gerçek olarak
+- Güvenilir bir biçimde
+- Gülmeden, surat asık biçimde
+- Tehlikeli hâlde, endişe verici durumda
+ozellikler:
+- - sıfat
+- - sıfat
+  - ''
+- - sıfat
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - zarf
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - zarf
+  - zarf
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - zarf
+  - zarf
+  - zarf
+- - sıfat
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - zarf
+  - zarf
+  - zarf
+  - zarf
+ornekler:
+- - İşin şakaya gelmediğini, verdiğim ciddi kararı çoktan öğrendiler şimdi...
+- - Ben onu pek ciddi bir genç olarak tanırım.
+- - Örneğin zorunlu bir mektup yazmak, sebze ayıklamak ya da ciddi bir konuşma çabucak sıkıyor beni.
+- - İstiklal Harbi sonunda ve 23 yaşında Çakırbeyli Çiftliği’ne dönen Menderes’in artık gelişme, pişme ve olgunlaşma devresine girdiği ve bu hâle, bir daha ciddi bir hastalık çekmemesi bakımından fiziğinin de iştirak ettiği bellidir.
+- - ''
+- - O, ciddi bir tavırla mühim bir şey anlatmaya hazırlanmış gibiydi.
+- - Ciddi bir gazetede liyakatli, genç bir muharririn şu sözleri beni hâlâ düşündürüyor.
+- - ''
+- - '''Ciddi mi söylüyorsun?'' dememe kalmadan telefon kapandı.'
+- - ''
+- - Çok ciddi durunca mükemmel olduklarını sanıyorlar.
+- - Hastalığımızın oldukça ciddi olduğuna işaret etmekten kendimizi alamadık.
+orneklerkaynak:
+- - Vedat Türkali
+- - Hüseyin Rahmi Gürpınar
+- - İnci Aral
+- - Necip Fazıl Kısakürek
+- - ''
+- - 'Yakup Kadri Karaosmanoğlu '
+- - Orhan Seyfi Orhon
+- - ''
+- - Pınar Kür
+- - ''
+- - Ayla Kutlu
+- - Burhan Felek
+---

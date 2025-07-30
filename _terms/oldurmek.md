@@ -1,0 +1,95 @@
+---
+layout: term
+title: öldürmek
+slug: oldurmek
+lisan: Türkçe
+anlamlar:
+- Bir canlının hayatına son vermek; gebertmek, götürmek, nallamak, tepelemek
+- Bitkinin solarak kurumasına sebep olmak
+- Çok üzmek
+- Aşırı yormak
+- Boşuna geçmek
+- Ölmesine yol açmak; götürmek
+- Sağlığını bozmak, rahatsızlık vermek
+- Yok olmasına, ortadan kalkmasına, azalmasına yol açmak
+- Etkisini ve gücünü azaltmak
+- Bazı şeylerin diriliğini, tazeliğini veya sertliğini gidermek
+ozellikler:
+- - -i
+- - -i
+  - ''
+- - -i
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - mecaz
+  - mecaz
+  - mecaz
+ornekler:
+- - Beni öldürmek için birisi fazla bile / Ancak onun elinden çıkar böyle haile
+- - Susuzluk çiçekleri öldürdü.
+- - Ölüm bir eve girince sağ kalanları da biraz öldürüyor.
+- - ''
+- - Bütün bir günü öldürdük.
+- - Bu adamı içki öldürdü.
+- - Bu hava bizi öldürüyor.
+- - Savaş birtakım sanayi kollarını öldürdü.
+- - Sırf kendi için okuyan, gezen, eğlenen bir aydın kendini yaşarken öldürmüyor mu?
+- - Soğanı tuzla ezip öldürmek.
+orneklerkaynak:
+- - Faruk Nafiz Çamlıbel
+- - ''
+- - Peyami Safa
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Haldun Taner
+- - ''
+---

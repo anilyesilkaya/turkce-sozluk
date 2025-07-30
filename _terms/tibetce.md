@@ -1,0 +1,19 @@
+---
+layout: term
+title: Tibetçe
+slug: tibetce
+lisan: Türkçe
+anlamlar:
+- Tibet dili
+- Bu dille yazılmış olan
+ozellikler:
+- - isim
+- - isim
+  - sıfat
+ornekler:
+- - ''
+- - ''
+orneklerkaynak:
+- - ''
+- - ''
+---

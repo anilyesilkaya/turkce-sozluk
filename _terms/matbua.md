@@ -1,0 +1,15 @@
+---
+layout: term
+title: matbua
+slug: matbua
+lisan: Arapça maṭbūʿa
+anlamlar:
+- ► basma
+ozellikler:
+- - isim
+  - eskimiş
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

@@ -1,0 +1,14 @@
+---
+layout: term
+title: çekişilmek
+slug: cekisilmek
+lisan: Türkçe
+anlamlar:
+- Çekişme işine konu olmak
+ozellikler:
+- - nesnesiz
+ornekler:
+- - ''
+orneklerkaynak:
+- - ''
+---

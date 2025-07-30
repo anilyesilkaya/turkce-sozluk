@@ -1,0 +1,95 @@
+---
+layout: term
+title: dolap
+slug: dolap
+lisan: Arapça dūlāb
+anlamlar:
+- Genellikle tahtadan yapılmış, bölme veya çekmelerine eşya konulan kapaklı mobilya
+- ► su dolabı
+- ► dönme dolap
+- İstanbul bedesteninde dükkân
+- Orta oyununda sahnede dükkân veya ev olarak kullanılan dekor
+- ► düzen
+- ► hile
+- Yumuşaması ve parlaması amacıyla içinde talaş, kaolin, alçı vb. ile birlikte derinin döndürüldüğü, çapı 1, 2 veya 3 metre olabilen, silindir biçiminde ağaç fıçı
+- Kenevirden ip bükmeye yarayan alet
+- Sanayide kaba yüzeyleri pürüzsüzleştirmek, pas ve kireç tabakalarını, döküm çapaklarını vb.ni temizlemek için malzemeyi sert parçalarla beraber yuvarlayıp çarptırma işleminin yapıldığı silindir biçiminde alet
+ozellikler:
+- - isim
+- - isim
+  - ''
+- - isim
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - tiyatro
+- - isim
+  - ''
+  - ''
+  - ''
+  - tiyatro
+  - mecaz
+- - isim
+  - ''
+  - ''
+  - ''
+  - tiyatro
+  - mecaz
+  - mecaz
+- - isim
+  - ''
+  - ''
+  - ''
+  - tiyatro
+  - mecaz
+  - mecaz
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - tiyatro
+  - mecaz
+  - mecaz
+  - ''
+  - ''
+- - isim
+  - ''
+  - ''
+  - ''
+  - tiyatro
+  - mecaz
+  - mecaz
+  - ''
+  - ''
+  - ''
+ornekler:
+- - ''
+- - Benim adım dertli dolap / Suyum akar yalap yalap
+- - ''
+- - Bedestende iki dolap tutuyor.
+- - ''
+- - Kendisinden önce mahpushanede dönen dolapları kulak verip ciddiyetle dinlememişti.
+- - ''
+- - ''
+- - ''
+- - ''
+orneklerkaynak:
+- - ''
+- - Yunus Emre
+- - ''
+- - ''
+- - ''
+- - Kerim Korcan
+- - ''
+- - ''
+- - ''
+- - ''
+---

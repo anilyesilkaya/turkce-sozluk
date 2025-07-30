@@ -1,0 +1,500 @@
+---
+layout: term
+title: açmak
+slug: acmak
+lisan: Türkçe
+anlamlar:
+- Bir şeyi kapalı durumdan açık duruma getirmek
+- Engeli kaldırmak
+- Sarılmış, katlanmış, örtülmüş veya iliklenmiş olan şeyleri açık duruma getirmek
+- Bir şeyi, bir yeri oyarak veya kazarak çukur, delik oluşturmak
+- Tıkalı bir şeyi bu durumdan kurtarmak
+- Alanını genişletmek
+- Birbirinden uzaklaştırmak
+- Düğümü veya dolaşmış bir şeyi bu durumdan kurtarmak
+- Bir toplantıyı, etkinliği başlatmak
+- Bir kuruluşu, bir iş yerini işler duruma getirmek
+- Bir aygıtı, bir düzeneği çalıştırmak
+- Alışverişi başlatmak
+- Rengin koyuluğunu azaltmak
+- Yakışmak, güzel göstermek
+- Ferahlık vermek
+- Geçit sağlamak
+- Bir konu ile ilgili konuşmak
+- Avunmak veya danışmak üzere söylemek, içini dökmek
+- Satranç, poker vb. oyunları başlatmak
+- Yapmak, düzenlemek
+- Ayırmak, tahsis etmek
+- Görünür duruma getirmek
+- Gökyüzü bulutların dağılmasıyla aydınlanmak
+- Bitki çiçekli duruma gelmek
+- Sıkıntısını gidermek, içine, gönlüne ferahlık vermek
+- Sıkılganlığını, utangaçlığını gidermek
+- Savaşla almak
+- ► yarmak
+ozellikler:
+- - -i
+- - -i
+  - ''
+- - -i
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - mecaz
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - mecaz
+  - mecaz
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - mecaz
+  - mecaz
+  - eskimiş
+- - -i
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - ''
+  - nesnesiz
+  - nesnesiz
+  - mecaz
+  - mecaz
+  - eskimiş
+  - tıp
+ornekler:
+- - Kapıyı açıp içeri giriyorum.
+- - Karla kapanan yolu açmak.
+- - Kadın hamalı dışarı çıkardı, sonra çantasını açıp birkaç lira çıkardı.
+- - ''
+- - Su borusunu açmak.
+- - Anıtın çevresini açmak.
+- - Kollarını açtı.
+- - Yumağı açmak.
+- - ''
+- - ''
+- - Biraz sakinleşmek için kalktı, bir bitki çayı hazırladı, sonra da radyoyu açtı.
+- - Güvenoyu başarısızlığından sonra transfer piyasasını açtı.
+- - Bu boyayı biraz daha açmalı.
+- - Bu renk odayı açtı.
+- - ''
+- - İki oda arasına kapı açtık.
+- - ''
+- - Size derdimi açmaya geldim.
+- - ''
+- - Sınav açmak.
+- - Senin için üst katta bir oda açtık.
+- - Kollarını, göğsünü açmış.
+- - Hava açtı.
+- - Hiç kurumuş ağaç yeşerir, çiçek açar mı?
+- - Burası beni açmadı, başka yere gidelim.
+- - Öğretmen sürekli konuşuyor, öğrenciyi açmak istiyordu.
+- - ''
+- - Çıbanı açmak.
+orneklerkaynak:
+- - Adalet Ağaoğlu
+- - ''
+- - Memduh Şevket Esendal
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - İlknur İnsaf Turan
+- - Kurtul Altuğ
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Falih Rıfkı Atay
+- - ''
+- - ''
+- - ''
+- - ''
+- - ''
+- - Ömer Seyfettin
+- - ''
+- - ''
+- - ''
+- - ''
+---
