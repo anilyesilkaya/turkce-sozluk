@@ -1,5 +1,7 @@
 # Büyük Dil Modelleri (LLM) Dostu Modern Türkçe Sözlük
 
+Proje demo sayfası: [wwww.sozluk.pro](sozluk.pro)
+
 Günümüzde, büyük dil modellerinin de etkisiyle dillerin önemi katbekat artmış; bu doğrultuda dillere dair araştırmalar da hız kazanmıştır. Bu bağlamda, Türkçe konuşabilen bir dil modelinin temelleri üzerine çalışırken, internette modern, kapsayıcı, kullanışlı, yazılım geliştirmeye elverişli ve estetik bir Türkçe sözlük bulamadım. Buna TDK’nın kendi sözlük sayfası da dâhil, çünkü günümüz Oxford, Cambridge, Merriam-Webster veya Thesaurus sözlüklerinin sunduğu kullanıcı deneyiminin oldukça gerisinde kalıyor. Örneğin:
 
 - Benzer ya da zıt anlamlı kelimelerin sunulmaması,
