@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug site in Chrome",
+      "type": "chrome",
+      "request": "launch",
+      "url": "http://127.0.0.1:4000",
+      "webRoot": "${workspaceFolder}",
+      "preLaunchTask": "Serve Jekyll",
+      "runtimeArgs": ["--remote-debugging-port=9222"]
+    }
+  ],
+  "compounds": [
+    {
+      "name": "Serve + Debug",
+      "configurations": ["Debug site in Chrome"]
+    }
+  ]
+}

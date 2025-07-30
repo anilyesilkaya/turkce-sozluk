@@ -33,9 +33,8 @@ collections:
     permalink: /terim/:name
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+theme: null
+incremental: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.

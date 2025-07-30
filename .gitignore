@@ -1,2 +1,4 @@
-database_sozluk/v11/
-database_sozluk/v12/
+utils/database_sozluk/
+utils/_site/database_sozluk/
+_terms/
+_site/utils/database_sozluk/v12/

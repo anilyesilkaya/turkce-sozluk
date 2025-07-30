@@ -1,132 +1,169 @@
+/* ---------- global reset / variables ---------- */
+*, *::before, *::after { box-sizing: border-box; }
+
 :root {
-  --bg: #f9fafb;
-  --text: #1a1a1a;
-  --accent: #2563eb;
-  --muted: #6b7280;
-  --border: #e5e7eb;
-  --radius: 0.5rem;
+  --accent:       #2563eb;
+  --accent-dark:  #1e40af;
+  --gray-light:   #f1f5f9;
+  --border:       #e5e7eb;
+  --radius:       .25rem;
+  --space:        .75rem;
 }
 
+/* ---------- layout ---------- */
 body {
-  font-family: system-ui, sans-serif;
-  background-color: var(--bg);
-  color: var(--text);
-  line-height: 1.7;
-  margin: 0 auto;
   max-width: 800px;
+  width: 100%;
+  margin: 0 auto;
   padding: 2rem 1.5rem;
-}
-
-h1, h2, p {
-  margin-top: 0;
-}
-
-h1 {
-  font-size: 2.2rem;
-  font-weight: 700;
-  margin-bottom: 0.5rem;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont,
+               "Segoe UI", Roboto, "Helvetica Neue", Arial,
+               "Noto Sans", sans-serif;
 }
 
 .site-header {
+  position: relative;           /* dropdown anchor */
   text-align: center;
   margin-bottom: 2rem;
 }
 
-.term-title {
-  font-size: 2.5rem;
-  font-weight: 800;
-  color: var(--accent);
-  margin-bottom: 1rem;
-  letter-spacing: -0.5px;
-  border-bottom: 3px solid var(--accent);
-  padding-bottom: 0.4rem;
+/* -------- site title -------- */
+.site-title a,
+.site-title a:visited {
+  text-decoration: none;          /* alt çizgi yok */
+  color: var(--accent-dark);      /* koyu vurgu rengi */
+  font-size: clamp(1.75rem, 5vw, 2.25rem);
+  font-weight: 700;
+  transition: color .25s ease,    /* yumuşak renk geçişi */
+              text-decoration-color .25s ease;
 }
 
-.term-subtitle {
-  font-size: 1rem;
-  color: var(--muted);
-  margin-top: -0.75rem;
-  margin-bottom: 1.5rem;
+.site-title a:hover,
+.site-title a:focus {
+  color: var(--accent);           /* açık vurgu rengine geç */
+  text-decoration: none;     /* hover’da ince alt çizgi */
+  text-underline-offset: 4px;     /* çizgiyi metinden biraz ayır */
 }
 
-h2 {
-  font-size: 1.4rem;
-  border-bottom: 1px solid var(--border);
-  padding-bottom: 0.3rem;
-  margin-top: 2rem;
-  margin-bottom: 0.5rem;
-}
-
-ul, ol {
-  margin-left: 1.25rem;
-  margin-bottom: 1rem;
-}
-
-li {
-  margin: 0.25rem 0;
-}
-
-.term-section {
-  margin-bottom: 2rem;
-}
-
-footer {
-  margin-top: 3rem;
-  text-align: center;
-  font-size: 0.85rem;
-  color: var(--muted);
-}
-
-@media (max-width: 600px) {
-  body {
-    padding: 1.5rem 1rem;
-  }
-
-  .term-title {
-    font-size: 2rem;
-  }
-
-  h2 {
-    font-size: 1.2rem;
-  }
-}
-
-#search {
-  width: 100%;
-  max-width: 600px;
-  display: block;
-  margin: 1rem auto 2rem;
-  padding: 0.8rem 1rem;
-  font-size: 1rem;
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  background: white;
-}
-
+/* ---------- buttons ---------- */
 #random-word {
-  display: inline-block;
-  background: #193269;
-  color: white;
-  font-size: 1rem;
-  font-weight: 600;
-  padding: 0.75rem 1.5rem;
-  border: none;
+  background: var(--accent-dark);
+  color: #fff;
+  border: 1;
+  padding: .5rem 1rem;
   border-radius: var(--radius);
-  cursor: pointer;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  transition:
-    background 0.3s ease,
-    transform 0.2s ease,
-    box-shadow 0.2s ease;
 }
 
 #random-word:hover {
-  background: #1e40af; /* darker blue */
-  transform: translateY(-2px);
-  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+  background: var(--accent);
 }
 
-#random-word:active {
-  transform: translateY(0);
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+/* ---------- search ---------- */
+#search {
+  margin-top: 1rem;
+  padding: .5rem var(--space);
+  width: 40%;
+  border: 2px solid var(--border);
+  border-radius: var(--radius);
+}
+
+/* dropdown */
+#results {
+  position: absolute;
+  top: calc(100% + .5rem);
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  max-height: 14rem;
+  overflow-y: auto;
+  display: none;               /* hidden until JS opens */
+}
+
+#results li {
+  padding: .5rem var(--space);
+  cursor: pointer;             /* click affordance */
+}
+
+#results li:hover,
+#results li:focus {
+  background: var(--gray-light);
+}
+
+.ozellikler {
+  font-weight: 600;
+  color: #2c596b;
+}
+
+.ornekler {
+  padding: 1rem;
+}
+
+.orneklerkaynak {
+  font-weight: 550;
+  font-style: italic;
+}
+
+/* ---------- footer ---------- */
+footer {
+  margin-top: 3rem;
+  text-align: center;
+  font-size: .875rem;
+  color: #666;
+}
+
+/* ---------- 404 page ---------- */
+body.error-404 {
+  /* centre everything in the viewport */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  /* inherits the default background colour */
+}
+
+.error-404 main { width: 100%; }
+
+.error-404 .error-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 2rem;
+}
+
+.error-404 .error-box h1 {
+  font-size: 8rem;
+  margin: 0;
+  line-height: 1;
+  color: #e63946;
+}
+
+.error-404 .error-box p {
+  font-size: 1.25rem;
+  margin: .5rem 0;
+}
+
+/* button that re-uses your accent palette */
+.btn-home {
+  display: inline-block;
+  margin-top: 1.5rem;
+  padding: .75rem 1.5rem;
+  background: #1d3557;
+  color: #fff;
+  text-decoration: none;
+  border-radius: .5rem;
+  transition: background-color .2s ease;
+  font-size: 1rem;
+}
+.btn-home:hover,
+.btn-home:focus {
+  background: #457b9d;
 }

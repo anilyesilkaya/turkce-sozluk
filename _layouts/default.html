@@ -1,40 +1,125 @@
 <!DOCTYPE html>
 <html lang="tr">
 <head>
-  <meta charset="UTF-8">
-  <title>{{ page.title }} | {{ site.title }}</title>
+  <meta charset="utf-8">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
-<header class="site-header">
-  <h1>{{ site.title }}</h1>
-  {% if page.url == '/' %}
-    <input id="search" placeholder="Ara terim…" autofocus>
-    <button id="random-word" onclick="goRandom()">🎲 Rastgele Kelime</button>
-  {% endif %}
-</header>
+  <header class="site-header" role="banner">
+    <h1 class="site-title">
+      <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+    </h1>
 
-  <main>
+    {% if page.url == '/' %}
+      <!-- toplam madde sayısı -->
+      <p class="term-count">
+        Toplam <strong>{{ site.terms | size }}</strong> kelime
+      </p>
+
+      <button id="random-word" type="button">🎲 Rastgele Kelime</button>
+
+      <input
+        type="search"
+        id="search"
+        placeholder="Ara…"
+        role="combobox"
+        aria-autocomplete="list"
+        aria-controls="results"
+        aria-expanded="false"
+        aria-label="Kelime ara"
+        autocomplete="off"
+        autofocus>
+
+      <ul id="results" role="listbox"></ul>
+    {% endif %}
+  </header>
+
+  <main role="main">
     {{ content }}
   </main>
 
-  <footer>
+  <footer role="contentinfo">
     <p>Anıl Yeşilkaya &copy; {{ site.time | date: '%Y' }}</p>
   </footer>
 
   {% if page.url == '/' %}
-  <script>
-    const searchInput = document.getElementById('search');
-    const items = document.querySelectorAll('[data-title]');
-    searchInput?.addEventListener('input', () => {
-      const query = searchInput.value.toLowerCase();
-      items.forEach(el => {
-        const text = el.dataset.title;
-        el.style.display = text.includes(query) ? "" : "none";
+    <script defer src="https://cdn.jsdelivr.net/npm/slugify@1.6.6/slugify.min.js"></script>
+
+    <!-- Terms data for search (kept inline for performance) -->
+    <script id="terms-json" type="application/json">
+    [
+    {% for term in site.terms %}
+      {"title": {{ term.title | jsonify }}, "url": {{ term.url | relative_url | jsonify }}}{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+    ]
+    </script>
+
+    <script defer>
+    (() => {
+      function safeSlug(term) {
+        return slugify(term, {
+          lower:   true,
+          strict:  true,
+          locale:  'tr',
+          remove:  /[\\/]/g
+        }) || 'unnamed';
+      }
+
+      const searchInput = document.getElementById('search');
+      const resultsEl   = document.getElementById('results');
+      const terms       = JSON.parse(document.getElementById('terms-json').textContent);
+
+      /* --- autocomplete --- */
+      function filter() {
+        const q = searchInput.value.toLowerCase().trim();
+        if (!q) {
+          resultsEl.style.display = 'none';
+          searchInput.setAttribute('aria-expanded', 'false');
+          return;
+        }
+
+        const matches = terms
+          .filter(t => t.title.toLowerCase().startsWith(q))
+          .slice(0, 15);
+
+        resultsEl.innerHTML = matches
+          .map(t => `<li role="option" data-url="${t.url}">${t.title}</li>`)
+          .join('');
+
+        const open = !!matches.length;
+        resultsEl.style.display = open ? 'block' : 'none';
+        searchInput.setAttribute('aria-expanded', open);
+      }
+
+      searchInput.addEventListener('input', filter);
+
+      resultsEl.addEventListener('click', ev => {
+        const li = ev.target.closest('li');
+        if (li) window.location.href = li.dataset.url;
       });
-    });
-  </script>
+
+      searchInput.addEventListener('keydown', ev => {
+        if (ev.key !== 'Enter') return;
+        const raw = searchInput.value.trim();
+        if (raw) window.location.href =
+          `{{ '/terim/' | relative_url }}${safeSlug(raw)}.html`;
+      });
+
+      /* --- random term --- */
+      const randomBtn = document.getElementById('random-word');
+      randomBtn.addEventListener('click', () => {
+        if (!terms.length) return;
+        const { url } = terms[Math.floor(Math.random() * terms.length)];
+        window.location.href = url;
+      });
+    })();
+    </script>
+
+    <noscript>
+      <p>Arama ve rastgele kelime özellikleri için lütfen tarayıcınızda JavaScript’i etkinleştirin.</p>
+    </noscript>
   {% endif %}
 </body>
 </html>
