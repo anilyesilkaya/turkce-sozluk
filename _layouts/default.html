@@ -12,28 +12,14 @@
       <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
     </h1>
 
-    {% if page.url == '/' %}
+    {%- if page.url == '/' -%}
       <!-- toplam madde sayısı -->
       <p class="term-count">
         Toplam <strong>{{ site.terms | size }}</strong> kelime
       </p>
+    {%- endif -%}
 
-      <button id="random-word" type="button">🎲 Rastgele Kelime</button>
-
-      <input
-        type="search"
-        id="search"
-        placeholder="Ara…"
-        role="combobox"
-        aria-autocomplete="list"
-        aria-controls="results"
-        aria-expanded="false"
-        aria-label="Kelime ara"
-        autocomplete="off"
-        autofocus>
-
-      <ul id="results" role="listbox"></ul>
-    {% endif %}
+    {%- include search_header.html -%}
   </header>
 
   <main role="main">
@@ -44,82 +30,82 @@
     <p>Anıl Yeşilkaya &copy; {{ site.time | date: '%Y' }}</p>
   </footer>
 
-  {% if page.url == '/' %}
-    <script defer src="https://cdn.jsdelivr.net/npm/slugify@1.6.6/slugify.min.js"></script>
+  <!-- JS & data needed by both the home page and every term page -->
+  <script defer src="https://cdn.jsdelivr.net/npm/slugify@1.6.6/slugify.min.js"></script>
 
-    <!-- Terms data for search (kept inline for performance) -->
-    <script id="terms-json" type="application/json">
-    [
-    {% for term in site.terms %}
-      {"title": {{ term.title | jsonify }}, "url": {{ term.url | relative_url | jsonify }}}{% unless forloop.last %},{% endunless %}
-    {% endfor %}
-    ]
-    </script>
+  <!-- Terms payload for search (kept inline for performance) -->
+  <script id="terms-json" type="application/json">
+  [
+  {% for term in site.terms %}
+    {"title": {{ term.title | jsonify }}, "url": {{ term.url | relative_url | jsonify }}}{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+  ]
+  </script>
 
-    <script defer>
-    (() => {
-      function safeSlug(term) {
-        return slugify(term, {
-          lower:   true,
-          strict:  true,
-          locale:  'tr',
-          remove:  /[\\/]/g
-        }) || 'unnamed';
+  <script defer>
+  (() => {
+    /* --- helpers --------------------------------------------------------- */
+    function safeSlug(term) {
+      return slugify(term, {
+        lower:  true,
+        strict: true,
+        locale: 'tr',
+        remove: /[\\/]/g
+      }) || 'unnamed';
+    }
+
+    /* --- DOM refs -------------------------------------------------------- */
+    const searchInput = document.getElementById('search');
+    const resultsEl   = document.getElementById('results');
+    const randomBtn   = document.getElementById('random-word');
+    const terms       = JSON.parse(document.getElementById('terms-json').textContent);
+
+    /* --- autocomplete ---------------------------------------------------- */
+    function filter() {
+      const q = searchInput.value.toLowerCase().trim();
+      if (!q) {
+        resultsEl.style.display = 'none';
+        searchInput.setAttribute('aria-expanded', 'false');
+        return;
       }
 
-      const searchInput = document.getElementById('search');
-      const resultsEl   = document.getElementById('results');
-      const terms       = JSON.parse(document.getElementById('terms-json').textContent);
+      const matches = terms.filter(t => t.title.toLowerCase().startsWith(q)).slice(0, 15);
 
-      /* --- autocomplete --- */
-      function filter() {
-        const q = searchInput.value.toLowerCase().trim();
-        if (!q) {
-          resultsEl.style.display = 'none';
-          searchInput.setAttribute('aria-expanded', 'false');
-          return;
-        }
+      resultsEl.innerHTML = matches
+        .map(t => `<li role="option" data-url="${t.url}">${t.title}</li>`)
+        .join('');
 
-        const matches = terms
-          .filter(t => t.title.toLowerCase().startsWith(q))
-          .slice(0, 15);
+      const open = !!matches.length;
+      resultsEl.style.display = open ? 'block' : 'none';
+      searchInput.setAttribute('aria-expanded', open);
+    }
 
-        resultsEl.innerHTML = matches
-          .map(t => `<li role="option" data-url="${t.url}">${t.title}</li>`)
-          .join('');
+    searchInput.addEventListener('input', filter);
 
-        const open = !!matches.length;
-        resultsEl.style.display = open ? 'block' : 'none';
-        searchInput.setAttribute('aria-expanded', open);
-      }
+    resultsEl.addEventListener('click', ev => {
+      const li = ev.target.closest('li');
+      if (li) window.location.href = li.dataset.url;
+    });
 
-      searchInput.addEventListener('input', filter);
+    /* --- “Enter” in the search box jumps directly to /terim/<slug>.html --- */
+    searchInput.addEventListener('keydown', ev => {
+      if (ev.key !== 'Enter') return;
+      const raw = searchInput.value.trim();
+      if (raw) window.location.href =
+        `{{ '/terim/' | relative_url }}${safeSlug(raw)}.html`;
+    });
 
-      resultsEl.addEventListener('click', ev => {
-        const li = ev.target.closest('li');
-        if (li) window.location.href = li.dataset.url;
-      });
+    /* --- random term ----------------------------------------------------- */
+    randomBtn.addEventListener('click', () => {
+      if (!terms.length) return;
+      const { url } = terms[Math.floor(Math.random() * terms.length)];
+      window.location.href = url;
+    });
+  })();
+  </script>
 
-      searchInput.addEventListener('keydown', ev => {
-        if (ev.key !== 'Enter') return;
-        const raw = searchInput.value.trim();
-        if (raw) window.location.href =
-          `{{ '/terim/' | relative_url }}${safeSlug(raw)}.html`;
-      });
-
-      /* --- random term --- */
-      const randomBtn = document.getElementById('random-word');
-      randomBtn.addEventListener('click', () => {
-        if (!terms.length) return;
-        const { url } = terms[Math.floor(Math.random() * terms.length)];
-        window.location.href = url;
-      });
-    })();
-    </script>
-
-    <noscript>
-      <p>Arama ve rastgele kelime özellikleri için lütfen tarayıcınızda JavaScript’i etkinleştirin.</p>
-    </noscript>
-  {% endif %}
+  <noscript>
+    <p>Arama ve rastgele kelime özellikleri için lütfen tarayıcınızda JavaScript’i etkinleştirin.</p>
+  </noscript>
 </body>
 </html>
