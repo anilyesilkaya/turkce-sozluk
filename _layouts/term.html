@@ -6,28 +6,37 @@ layout: default
 
 <p><strong>Dil:</strong> {{ page.lisan }}</p>
 
-<h2>Anlamlar</h2>
 <ul>
   {% for anlam in page.anlamlar %}
-    <li>{{ anlam }}</li>
-  {% endfor %}
-</ul>
+    {% assign i = forloop.index0 %}
 
-<h2>Özellikler</h2>
-<ul>
-  {% for oz in page.ozellikler %}
-    <li>{{ oz | join: ", " }}</li>
-  {% endfor %}
-</ul>
-
-<h2>Örnekler</h2>
-<ul>
-  {% for group in page.ornekler %}
-    {% for ornek in group %}
-      {% if ornek != "" %}
-        <li>{{ ornek }}</li>
+    <li>
+      {% if page.ozellikler[i] %}
+        <span class="ozellikler">
+          [{{ page.ozellikler[i] | join: ", " }}]
+        </span>&nbsp;
       {% endif %}
-    {% endfor %}
+
+      {{ anlam }}
+
+      {% assign examples = page.ornekler[i] %}
+      {% if examples and examples.size > 0 %}
+        <ul class="ornekler">
+          {% for ornek in examples %}
+            {% unless ornek == "" %}
+              {% assign j = forloop.index0 %}
+              <li>
+                {{ ornek }}
+                {% if page.orneklerkaynak[i] and page.orneklerkaynak[i][j] %}
+                  — <span class="orneklerkaynak">{{ page.orneklerkaynak[i][j] }}</span>
+                {% endif %}
+              </li>
+            {% endunless %}
+          {% endfor %}
+        </ul>
+      {% endif %}
+    </li>
   {% endfor %}
 </ul>
 
+<hr>
