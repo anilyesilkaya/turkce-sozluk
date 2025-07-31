@@ -8,18 +8,13 @@
 </head>
 <body>
   <header class="site-header" role="banner">
-    <h1 class="site-title">
-      <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
-    </h1>
+    <h1 class="site-title"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
 
-    {%- if page.url == '/' -%}
-      <!-- toplam madde sayısı -->
-      <p class="term-count">
-        Toplam <strong>{{ site.terms | size }}</strong> kelime
-      </p>
-    {%- endif -%}
+    {%- if page.url == '/' %}
+      <p class="term-count">Toplam <strong>{{ site.terms | size }}</strong> kelime</p>
+    {%- endif %}
 
-    {%- include search_header.html -%}
+    {% include search_banner.html %}
   </header>
 
   <main role="main">
@@ -34,75 +29,7 @@
   <script defer src="https://cdn.jsdelivr.net/npm/slugify@1.6.6/slugify.min.js"></script>
 
   <!-- Terms payload for search (kept inline for performance) -->
-  <script id="terms-json" type="application/json">
-  [
-  {% for term in site.terms %}
-    {"title": {{ term.title | jsonify }}, "url": {{ term.url | relative_url | jsonify }}}{% unless forloop.last %},{% endunless %}
-  {% endfor %}
-  ]
-  </script>
-
-  <script defer>
-  (() => {
-    /* --- helpers --------------------------------------------------------- */
-    function safeSlug(term) {
-      return slugify(term, {
-        lower:  true,
-        strict: true,
-        locale: 'tr',
-        remove: /[\\/]/g
-      }) || 'unnamed';
-    }
-
-    /* --- DOM refs -------------------------------------------------------- */
-    const searchInput = document.getElementById('search');
-    const resultsEl   = document.getElementById('results');
-    const randomBtn   = document.getElementById('random-word');
-    const terms       = JSON.parse(document.getElementById('terms-json').textContent);
-
-    /* --- autocomplete ---------------------------------------------------- */
-    function filter() {
-      const q = searchInput.value.toLowerCase().trim();
-      if (!q) {
-        resultsEl.style.display = 'none';
-        searchInput.setAttribute('aria-expanded', 'false');
-        return;
-      }
-
-      const matches = terms.filter(t => t.title.toLowerCase().startsWith(q)).slice(0, 15);
-
-      resultsEl.innerHTML = matches
-        .map(t => `<li role="option" data-url="${t.url}">${t.title}</li>`)
-        .join('');
-
-      const open = !!matches.length;
-      resultsEl.style.display = open ? 'block' : 'none';
-      searchInput.setAttribute('aria-expanded', open);
-    }
-
-    searchInput.addEventListener('input', filter);
-
-    resultsEl.addEventListener('click', ev => {
-      const li = ev.target.closest('li');
-      if (li) window.location.href = li.dataset.url;
-    });
-
-    /* --- “Enter” in the search box jumps directly to /terim/<slug>.html --- */
-    searchInput.addEventListener('keydown', ev => {
-      if (ev.key !== 'Enter') return;
-      const raw = searchInput.value.trim();
-      if (raw) window.location.href =
-        `{{ '/terim/' | relative_url }}${safeSlug(raw)}.html`;
-    });
-
-    /* --- random term ----------------------------------------------------- */
-    randomBtn.addEventListener('click', () => {
-      if (!terms.length) return;
-      const { url } = terms[Math.floor(Math.random() * terms.length)];
-      window.location.href = url;
-    });
-  })();
-  </script>
+  <script defer src="{{ '/assets/js/site.js' | relative_url }}"></script>
 
   <noscript>
     <p>Arama ve rastgele kelime özellikleri için lütfen tarayıcınızda JavaScript’i etkinleştirin.</p>
