@@ -22,8 +22,8 @@ title: Modern Türkçe Sözlük
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Modern, bağlantılı, açık kaynak Türkçe sözlük.
-baseurl: "/turkce-sozluk" # the subpath of your site, e.g. /blog
-url: "https://anilyesilkaya.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.sozluk.pro" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  
 markdown: kramdown
