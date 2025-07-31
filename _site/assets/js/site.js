@@ -18,7 +18,7 @@
   const $random = document.getElementById('random-word');
 
   /* ────────────────── load term list ────────────────── */
-  const TERMS_URL = '/turkce-sozluk/assets/terms.json';
+  const TERMS_URL = '/assets/terms.json';
 
   let terms;
   const cached = sessionStorage.getItem('terms');
@@ -79,7 +79,7 @@
     const raw = $search.value.trim();
     if (raw) {
       window.location.href =
-        `/turkce-sozluk/terim/${safeSlug(raw)}.html`;
+        `/terim/${safeSlug(raw)}.html`;
     }
   });
 
