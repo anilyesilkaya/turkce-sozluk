@@ -2,6 +2,7 @@
 layout: term
 title: şipşak
 slug: sipsak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► çabucak

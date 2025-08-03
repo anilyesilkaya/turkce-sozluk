@@ -2,6 +2,7 @@
 layout: term
 title: teşhis etmek (veya koymak)
 slug: teshis-etmek-veya-koymak
+letter: T
 lisan: Türkçe
 anlamlar:
 - kim ve ne olduğunu anlamak, tanımak, seçmek

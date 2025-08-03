@@ -2,6 +2,7 @@
 layout: term
 title: amele pazarı
 slug: amele-pazari
+letter: A
 lisan: Türkçe
 anlamlar:
 - İşçilerin iş bulmak amacıyla toplu bir biçimde bekledikleri yer

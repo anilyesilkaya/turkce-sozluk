@@ -2,6 +2,7 @@
 layout: term
 title: bölüntü
 slug: boluntu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bölünmüş parça

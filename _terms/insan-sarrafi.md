@@ -2,6 +2,7 @@
 layout: term
 title: insan sarrafı
 slug: insan-sarrafi
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► adam sarrafı

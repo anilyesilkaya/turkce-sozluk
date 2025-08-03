@@ -2,6 +2,7 @@
 layout: term
 title: çamurlukçu
 slug: camurlukcu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Araçların çamurluklarını yapan veya onaran kimse

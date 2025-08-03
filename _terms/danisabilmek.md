@@ -2,6 +2,7 @@
 layout: term
 title: danışabilmek
 slug: danisabilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Danışma ihtimali veya imkânı bulunmak

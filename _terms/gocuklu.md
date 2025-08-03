@@ -2,6 +2,7 @@
 layout: term
 title: gocuklu
 slug: gocuklu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Üzerinde gocuğu bulunan

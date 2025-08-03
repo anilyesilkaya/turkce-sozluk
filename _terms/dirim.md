@@ -2,6 +2,7 @@
 layout: term
 title: dirim
 slug: dirim
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► yaşam

@@ -2,6 +2,7 @@
 layout: term
 title: bestekârlık
 slug: bestekarlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bestecilik

@@ -2,6 +2,7 @@
 layout: term
 title: genişlik
 slug: genislik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Geniş olma durumu; genlik, vüsat

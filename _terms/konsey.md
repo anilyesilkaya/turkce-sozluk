@@ -2,6 +2,7 @@
 layout: term
 title: konsey
 slug: konsey
+letter: K
 lisan: Fransızca conseil
 anlamlar:
 - ► kurul

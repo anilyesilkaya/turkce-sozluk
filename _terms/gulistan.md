@@ -2,6 +2,7 @@
 layout: term
 title: gülistan
 slug: gulistan
+letter: G
 lisan: Farsça gulistān
 anlamlar:
 - Gül bahçesi

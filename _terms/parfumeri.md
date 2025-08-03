@@ -2,6 +2,7 @@
 layout: term
 title: parfümeri
 slug: parfumeri
+letter: P
 lisan: Fransızca parfumerie
 anlamlar:
 - Çeşitli kozmetiklerin ve kokuların yapımı ve satımı

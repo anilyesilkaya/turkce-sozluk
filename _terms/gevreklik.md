@@ -2,6 +2,7 @@
 layout: term
 title: gevreklik
 slug: gevreklik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gevrek olma durumu

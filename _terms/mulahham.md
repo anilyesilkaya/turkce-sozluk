@@ -2,6 +2,7 @@
 layout: term
 title: mülahham
 slug: mulahham
+letter: M
 lisan: Arapça mulaḥḥam
 anlamlar:
 - ► şişman

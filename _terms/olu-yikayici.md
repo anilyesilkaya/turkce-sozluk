@@ -2,6 +2,7 @@
 layout: term
 title: ölü yıkayıcı
 slug: olu-yikayici
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ölüyü cenaze namazı kılınmadan önce dinî usullere göre yıkayan kimse; gassal

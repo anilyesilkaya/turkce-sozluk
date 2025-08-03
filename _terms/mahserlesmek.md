@@ -2,6 +2,7 @@
 layout: term
 title: mahşerleşmek
 slug: mahserlesmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - Çok kalabalık olmak

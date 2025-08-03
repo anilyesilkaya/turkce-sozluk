@@ -2,6 +2,7 @@
 layout: term
 title: lirik şiir
 slug: lirik-siir
+letter: L
 lisan: Türkçe
 anlamlar:
 - Yunanlarda lir eşliğinde okunan şiir; ditiramp

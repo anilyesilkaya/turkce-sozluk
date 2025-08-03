@@ -2,6 +2,7 @@
 layout: term
 title: hummalı
 slug: hummali
+letter: H
 lisan: Türkçe
 anlamlar:
 - Humması olan

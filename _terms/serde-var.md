@@ -2,6 +2,7 @@
 layout: term
 title: serde ... var
 slug: serde-var
+letter: S
 lisan: Türkçe
 anlamlar:
 - sözü edilen kimsedeki bir niteliği anlatan söz

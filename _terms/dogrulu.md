@@ -2,6 +2,7 @@
 layout: term
 title: doğrulu
 slug: dogrulu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir doğru boyunca olan; müstakim

@@ -2,6 +2,7 @@
 layout: term
 title: çölleştirilmek
 slug: collestirilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çöl durumuna getirilmek

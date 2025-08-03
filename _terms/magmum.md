@@ -2,6 +2,7 @@
 layout: term
 title: mağmum
 slug: magmum
+letter: M
 lisan: Arapça maġmūm
 anlamlar:
 - ► kaygılı

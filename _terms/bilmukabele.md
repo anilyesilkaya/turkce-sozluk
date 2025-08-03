@@ -2,6 +2,7 @@
 layout: term
 title: bilmukabele
 slug: bilmukabele
+letter: B
 lisan: Arapça bi'l-muḳābele
 anlamlar:
 - Karşılık olarak

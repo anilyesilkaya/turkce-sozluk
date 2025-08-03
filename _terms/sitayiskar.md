@@ -2,6 +2,7 @@
 layout: term
 title: sitayişkâr
 slug: sitayiskar
+letter: S
 lisan: Farsça sitāyişkār
 anlamlar:
 - Övücü, öven

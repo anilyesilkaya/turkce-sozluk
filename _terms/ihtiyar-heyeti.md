@@ -2,6 +2,7 @@
 layout: term
 title: ihtiyar heyeti
 slug: ihtiyar-heyeti
+letter: I
 lisan: Türkçe
 anlamlar:
 - Köy tüzel kişiliğinde, muhtar başkanlığında görev yapan kişilerden oluşan yetkili organ; ihtiyar meclisi

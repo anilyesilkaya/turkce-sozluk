@@ -2,6 +2,7 @@
 layout: term
 title: arpa
 slug: arpa
+letter: A
 lisan: Türkçe
 anlamlar:
 - Buğdaygillerden bir bitki (Hordeum vulgare)

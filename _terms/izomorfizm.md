@@ -2,6 +2,7 @@
 layout: term
 title: izomorfizm
 slug: izomorfizm
+letter: I
 lisan: Fransızca isomorphisme
 anlamlar:
 - ► eş biçimlilik

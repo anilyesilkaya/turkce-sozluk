@@ -2,6 +2,7 @@
 layout: term
 title: işitilmek
 slug: isitilmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► duyulmak

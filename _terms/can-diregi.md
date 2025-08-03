@@ -2,6 +2,7 @@
 layout: term
 title: can direği
 slug: can-diregi
+letter: C
 lisan: Türkçe
 anlamlar:
 - Kemanın içinde, alt ve üst kapakları arasında dikili duran çubuk

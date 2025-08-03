@@ -2,6 +2,7 @@
 layout: term
 title: paça günü
 slug: paca-gunu
+letter: P
 lisan: Türkçe
 anlamlar:
 - Paça çorbası ziyafeti çekilen düğünden sonraki gün

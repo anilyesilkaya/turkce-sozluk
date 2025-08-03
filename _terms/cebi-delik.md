@@ -2,6 +2,7 @@
 layout: term
 title: cebi delik
 slug: cebi-delik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Tutumlu olmayan (kimse)

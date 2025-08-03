@@ -2,6 +2,7 @@
 layout: term
 title: 'paluze '
 slug: paluze
+letter: P
 lisan: Farsça pālūde
 anlamlar:
 - ► pelte

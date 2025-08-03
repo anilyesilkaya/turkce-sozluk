@@ -2,6 +2,7 @@
 layout: term
 title: karikatürist
 slug: karikaturist
+letter: K
 lisan: Fransızca caricaturiste
 anlamlar:
 - ► karikatürcü

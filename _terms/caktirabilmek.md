@@ -2,6 +2,7 @@
 layout: term
 title: çaktırabilmek
 slug: caktirabilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çaktırma ihtimali veya imkânı bulunmak

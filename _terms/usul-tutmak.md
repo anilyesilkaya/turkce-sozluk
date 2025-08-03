@@ -2,6 +2,7 @@
 layout: term
 title: usul tutmak
 slug: usul-tutmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - tempo tutarak müziğe eşlik etmek

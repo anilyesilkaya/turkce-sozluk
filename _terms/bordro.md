@@ -2,6 +2,7 @@
 layout: term
 title: bordro
 slug: bordro
+letter: B
 lisan: Fransızca bordereau
 anlamlar:
 - ► maaş bordrosu

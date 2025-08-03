@@ -2,6 +2,7 @@
 layout: term
 title: kalp aksesi
 slug: kalp-aksesi
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kalp krizi

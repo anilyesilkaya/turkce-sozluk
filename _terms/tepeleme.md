@@ -2,6 +2,7 @@
 layout: term
 title: tepeleme
 slug: tepeleme
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tepelemek işi

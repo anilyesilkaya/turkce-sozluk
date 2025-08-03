@@ -2,6 +2,7 @@
 layout: term
 title: feyezan
 slug: feyezan
+letter: F
 lisan: Arapça feyeżān
 anlamlar:
 - ► su baskını

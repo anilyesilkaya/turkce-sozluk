@@ -2,6 +2,7 @@
 layout: term
 title: çekip gitmek
 slug: cekip-gitmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - bırakıp gitmek, ayrılmak, savuşmak

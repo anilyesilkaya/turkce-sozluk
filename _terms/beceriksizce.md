@@ -2,6 +2,7 @@
 layout: term
 title: beceriksizce
 slug: beceriksizce
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beceriksiz bir biçimde; maharetsizce

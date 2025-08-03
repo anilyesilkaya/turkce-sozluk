@@ -2,6 +2,7 @@
 layout: term
 title: ocumak
 slug: ocumak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Bir şeyden soğumak

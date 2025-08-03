@@ -2,6 +2,7 @@
 layout: term
 title: yılmazlık
 slug: yilmazlik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yılmaz olma durumu

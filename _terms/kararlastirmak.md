@@ -2,6 +2,7 @@
 layout: term
 title: kararlaştırmak
 slug: kararlastirmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir konuyla veya işle ilgili yapılacakları belirlemek, karar altına almak; tayin etmek

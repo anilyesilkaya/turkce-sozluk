@@ -2,6 +2,7 @@
 layout: term
 title: kuklavari
 slug: kuklavari
+letter: K
 lisan: Rumca + Farsça -vārī
 anlamlar:
 - Kukla gibi, kuklaya benzer

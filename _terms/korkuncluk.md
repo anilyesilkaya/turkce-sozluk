@@ -2,6 +2,7 @@
 layout: term
 title: korkunçluk
 slug: korkuncluk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Korkunç olma durumu

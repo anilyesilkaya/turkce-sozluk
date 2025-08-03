@@ -2,6 +2,7 @@
 layout: term
 title: 'Acem ağzı '
 slug: acem-agzi
+letter: A
 lisan: Türkçe
 anlamlar:
 - İran'da yaşayan Türklerin veya İran'dan Türkiye'ye gelmiş Türkmen ve Azeri toplulukların geleneksel müzik icralarında kullandıkları üslup

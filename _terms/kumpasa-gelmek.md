@@ -2,6 +2,7 @@
 layout: term
 title: kumpasa gelmek
 slug: kumpasa-gelmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - hile ile kandırılmak

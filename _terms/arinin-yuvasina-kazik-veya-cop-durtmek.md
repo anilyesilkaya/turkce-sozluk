@@ -2,6 +2,7 @@
 layout: term
 title: arının yuvasına kazık (veya çöp) dürtmek
 slug: arinin-yuvasina-kazik-veya-cop-durtmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - tehlikeli kişiyi kışkırtmak

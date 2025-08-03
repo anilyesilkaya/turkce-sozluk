@@ -2,6 +2,7 @@
 layout: term
 title: bebek
 slug: bebek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Meme emen veya kucakta gezdirilme yaşlarında olan çocuk; bebe

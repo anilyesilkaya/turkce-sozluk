@@ -2,6 +2,7 @@
 layout: term
 title: yumurta sarısı
 slug: yumurta-sarisi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yumurtanın ortasında bulunan sarı bölüm

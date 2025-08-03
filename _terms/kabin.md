@@ -2,6 +2,7 @@
 layout: term
 title: kabin
 slug: kabin
+letter: K
 lisan: Fransızca cabine
 anlamlar:
 - Küçük, özel bölme; kabine

@@ -2,6 +2,7 @@
 layout: term
 title: bahar dönemi
 slug: bahar-donemi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Yılın kıştan sonra gelen ilk ayları

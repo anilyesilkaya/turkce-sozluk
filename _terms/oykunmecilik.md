@@ -2,6 +2,7 @@
 layout: term
 title: öykünmecilik
 slug: oykunmecilik
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► taklitçilik

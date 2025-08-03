@@ -2,6 +2,7 @@
 layout: term
 title: savruk
 slug: savruk
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► tutumsuz

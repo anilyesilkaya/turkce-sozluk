@@ -2,6 +2,7 @@
 layout: term
 title: bazal
 slug: bazal
+letter: B
 lisan: Fransızca basal
 anlamlar:
 - Bazı çok olan (tuz)

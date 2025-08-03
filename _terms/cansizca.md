@@ -2,6 +2,7 @@
 layout: term
 title: cansızca
 slug: cansizca
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cansız bir biçimde; cansızcasına

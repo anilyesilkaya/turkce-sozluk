@@ -2,6 +2,7 @@
 layout: term
 title: asistanlık
 slug: asistanlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Asistan, araştırma görevlisi olma durumu

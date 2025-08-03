@@ -2,6 +2,7 @@
 layout: term
 title: büyü bozulmak
 slug: buyu-bozulmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - yapılmış bir büyü etkisiz duruma getirilmek

@@ -2,6 +2,7 @@
 layout: term
 title: mantar meşesi
 slug: mantar-mesesi
+letter: M
 lisan: Türkçe
 anlamlar:
 - Batı Akdeniz Bölgesi’nde yetişen bir tür meşe; sezü  (Quercus suber)

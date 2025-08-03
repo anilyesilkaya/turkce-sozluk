@@ -2,6 +2,7 @@
 layout: term
 title: söyletebilmek
 slug: soyletebilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Söyletme ihtimali veya imkânı bulunmak

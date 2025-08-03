@@ -2,6 +2,7 @@
 layout: term
 title: yeldirme
 slug: yeldirme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yeldirmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: hayli
 slug: hayli
+letter: H
 lisan: Farsça ḫaylī
 anlamlar:
 - ► çok

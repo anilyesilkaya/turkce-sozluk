@@ -2,6 +2,7 @@
 layout: term
 title: vatansızlık
 slug: vatansizlik
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vatansız olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: ömür adam
 slug: omur-adam
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Neşeli, hoşsohbet, komik, eğlendiren ve beğenilen kimse

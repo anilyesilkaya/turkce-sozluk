@@ -2,6 +2,7 @@
 layout: term
 title: ölünmek
 slug: olunmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Kendini feda etmek

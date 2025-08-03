@@ -2,6 +2,7 @@
 layout: term
 title: komedi
 slug: komedi
+letter: K
 lisan: Fransızca comédie
 anlamlar:
 - ► güldürü

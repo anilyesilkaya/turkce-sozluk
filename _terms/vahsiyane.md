@@ -2,6 +2,7 @@
 layout: term
 title: vahşiyane
 slug: vahsiyane
+letter: V
 lisan: Arapça vaḥşī + Farsça -āne
 anlamlar:
 - ► vahşice

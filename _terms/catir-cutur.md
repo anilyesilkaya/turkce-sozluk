@@ -2,6 +2,7 @@
 layout: term
 title: çatır çutur
 slug: catir-cutur
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Belli belirsiz, anlaşılmayan

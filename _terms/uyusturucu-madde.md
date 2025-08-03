@@ -2,6 +2,7 @@
 layout: term
 title: uyuşturucu madde
 slug: uyusturucu-madde
+letter: U
 lisan: Türkçe
 anlamlar:
 - Morfin, kokain, eroin, afyon, esrar gibi duyulara uyuşukluk veren madde

@@ -2,6 +2,7 @@
 layout: term
 title: ırz ehli
 slug: irz-ehli
+letter: I
 lisan: Türkçe
 anlamlar:
 - Namuslu, iffetli, temiz (kimse)

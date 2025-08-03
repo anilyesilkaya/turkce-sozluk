@@ -2,6 +2,7 @@
 layout: term
 title: kızım sana söylüyorum (veya dedim) gelinim sen anla (veya işit)
 slug: kizim-sana-soyluyorum-veya-dedim-gelinim-sen-anla-veya-isit
+letter: K
 lisan: Türkçe
 anlamlar:
 - doğrudan doğruya kendisine söylenemeyen düşünce ve uyarıların, o kimsenin çok yakınına söylendiğinde kullanılan bir söz

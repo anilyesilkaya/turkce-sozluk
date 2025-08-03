@@ -2,6 +2,7 @@
 layout: term
 title: vuraç
 slug: vurac
+letter: V
 lisan: Türkçe
 anlamlar:
 - ► raket

@@ -2,6 +2,7 @@
 layout: term
 title: sel olup akmak
 slug: sel-olup-akmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - gitmek

@@ -2,6 +2,7 @@
 layout: term
 title: giyit
 slug: giyit
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► giysi

@@ -2,6 +2,7 @@
 layout: term
 title: parlayabilmek
 slug: parlayabilmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Parlama ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: az gelişmiş
 slug: az-gelismis
+letter: A
 lisan: Türkçe
 anlamlar:
 - Gelişmesi gecikmiş olan

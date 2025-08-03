@@ -2,6 +2,7 @@
 layout: term
 title: hurma şekeri
 slug: hurma-sekeri
+letter: H
 lisan: Türkçe
 anlamlar:
 - Akide hamuru kıvamına gelinceye kadar kaynatılmış şekerin içine bisküvi, kakao tozu, Hindistan cevizi, hurma vb. koyulup sarılarak elde edilen bir tür şekerleme

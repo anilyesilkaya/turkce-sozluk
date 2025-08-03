@@ -2,6 +2,7 @@
 layout: term
 title: kalıntı
 slug: kalinti
+letter: K
 lisan: Türkçe
 anlamlar:
 - Artıp kalan şey; bakiye

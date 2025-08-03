@@ -2,6 +2,7 @@
 layout: term
 title: tonalite
 slug: tonalite
+letter: T
 lisan: Fransızca tonalité
 anlamlar:
 - Belirli bir tonda yazılmış müzik parçasının niteliği

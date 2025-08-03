@@ -2,6 +2,7 @@
 layout: term
 title: informel
 slug: informel
+letter: I
 lisan: Fransızca informel
 anlamlar:
 - Biçimsel olmayan

@@ -2,6 +2,7 @@
 layout: term
 title: çobanlık etmek
 slug: cobanlik-etmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - çoban olarak çalışmak, hayvan gütmek

@@ -2,6 +2,7 @@
 layout: term
 title: erden
 slug: erden
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► bakire

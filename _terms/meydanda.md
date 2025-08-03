@@ -2,6 +2,7 @@
 layout: term
 title: meydanda
 slug: meydanda
+letter: M
 lisan: Türkçe
 anlamlar:
 - Ortada, ortalıkta olan

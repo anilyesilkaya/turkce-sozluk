@@ -2,6 +2,7 @@
 layout: term
 title: kopuksuz
 slug: kopuksuz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Ara vermeden, durmaksızın yapılan

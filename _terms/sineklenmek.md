@@ -2,6 +2,7 @@
 layout: term
 title: sineklenmek
 slug: sineklenmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sineği çoğalmak

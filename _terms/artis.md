@@ -2,6 +2,7 @@
 layout: term
 title: artış
 slug: artis
+letter: A
 lisan: Türkçe
 anlamlar:
 - Artmak işi; artım

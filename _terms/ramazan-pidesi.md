@@ -2,6 +2,7 @@
 layout: term
 title: ramazan pidesi
 slug: ramazan-pidesi
+letter: R
 lisan: Türkçe
 anlamlar:
 - Ramazan ayında özel olarak yaptırılan pide

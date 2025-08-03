@@ -2,6 +2,7 @@
 layout: term
 title: dirayetli
 slug: dirayetli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dirayeti olan

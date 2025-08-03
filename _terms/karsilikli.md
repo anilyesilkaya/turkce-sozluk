@@ -2,6 +2,7 @@
 layout: term
 title: karşılıklı
 slug: karsilikli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Birbirleriyle karşı karşıya bulunan

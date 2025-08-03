@@ -2,6 +2,7 @@
 layout: term
 title: bireylik
 slug: bireylik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir kimseyi dış gözlemciler gözünde benzersiz, tek kılan özellikler veya bunların tek biçimi

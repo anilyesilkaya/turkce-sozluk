@@ -2,6 +2,7 @@
 layout: term
 title: hayalperest
 slug: hayalperest
+letter: H
 lisan: Arapça ḫayāl + Farsça -perest
 anlamlar:
 - ► hayalci

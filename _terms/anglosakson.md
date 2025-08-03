@@ -2,6 +2,7 @@
 layout: term
 title: Anglosakson
 slug: anglosakson
+letter: A
 lisan: Fransızca anglo-saxon
 anlamlar:
 - V. ve VI. yüzyılda Büyük Britanya'yı ele geçiren Cermen ırkından oymaklar

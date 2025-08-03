@@ -2,6 +2,7 @@
 layout: term
 title: sakız gibi
 slug: sakiz-gibi
+letter: S
 lisan: Türkçe
 anlamlar:
 - çok temiz, çok beyaz

@@ -2,6 +2,7 @@
 layout: term
 title: kadınnine
 slug: kadinnine
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► nine

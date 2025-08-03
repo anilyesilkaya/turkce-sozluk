@@ -2,6 +2,7 @@
 layout: term
 title: hak söylemek
 slug: hak-soylemek
+letter: H
 lisan: Türkçe
 anlamlar:
 - doğru söylemek

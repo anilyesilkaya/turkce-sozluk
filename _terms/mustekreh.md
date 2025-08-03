@@ -2,6 +2,7 @@
 layout: term
 title: müstekreh
 slug: mustekreh
+letter: M
 lisan: Arapça mustekreh
 anlamlar:
 - ► iğrenç

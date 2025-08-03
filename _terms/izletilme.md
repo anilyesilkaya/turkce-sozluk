@@ -2,6 +2,7 @@
 layout: term
 title: izletilme
 slug: izletilme
+letter: I
 lisan: Türkçe
 anlamlar:
 - İzletilmek işi

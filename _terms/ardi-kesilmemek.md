@@ -2,6 +2,7 @@
 layout: term
 title: ardı kesilmemek
 slug: ardi-kesilmemek
+letter: A
 lisan: Türkçe
 anlamlar:
 - arkası gelmemek, tükenmemek

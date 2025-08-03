@@ -2,6 +2,7 @@
 layout: term
 title: yoksa
 slug: yoksa
+letter: Y
 lisan: Türkçe
 anlamlar:
 - '"Aksi takdirde" anlamında kullanılan bir söz'

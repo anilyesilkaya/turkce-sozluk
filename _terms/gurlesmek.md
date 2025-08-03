@@ -2,6 +2,7 @@
 layout: term
 title: gürleşmek
 slug: gurlesmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gür bir duruma gelmek

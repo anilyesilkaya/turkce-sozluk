@@ -2,6 +2,7 @@
 layout: term
 title: varagele
 slug: varagele
+letter: V
 lisan: Türkçe
 anlamlar:
 - Bir şeyi, bir yerden bir yere çekerek götürüp getirmeye yarayan araç

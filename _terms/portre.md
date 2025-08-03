@@ -2,6 +2,7 @@
 layout: term
 title: portre
 slug: portre
+letter: P
 lisan: Fransızca portrait
 anlamlar:
 - Bir kimsenin yağlı boya, sulu boya, kara kalem vb. bir yolla yapılmış resmi

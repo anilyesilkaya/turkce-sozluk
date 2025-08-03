@@ -2,6 +2,7 @@
 layout: term
 title: müjde
 slug: mujde
+letter: M
 lisan: Farsça mujde
 anlamlar:
 - ► muştu

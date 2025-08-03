@@ -2,6 +2,7 @@
 layout: term
 title: cırtlak
 slug: cirtlak
+letter: C
 lisan: Türkçe
 anlamlar:
 - Hoşa gitmeyen, keskin ve çiğ, tiz (ses)

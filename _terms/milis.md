@@ -2,6 +2,7 @@
 layout: term
 title: milis
 slug: milis
+letter: M
 lisan: Fransızca milice
 anlamlar:
 - Savaş sırasında orduya yardımcı olarak toplanan silahlı halk gücü

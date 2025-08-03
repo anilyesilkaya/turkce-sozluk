@@ -2,6 +2,7 @@
 layout: term
 title: karanlık basmak (veya çökmek)
 slug: karanlik-basmak-veya-cokmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - hava kararmak

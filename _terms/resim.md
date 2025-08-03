@@ -2,6 +2,7 @@
 layout: term
 title: resim
 slug: resim
+letter: R
 lisan: Arapça resm
 anlamlar:
 - Varlıkların, doğadaki görünüşlerinin kalem, fırça gibi araçlarla kâğıt, bez vb. üzerinde yapılan biçimleri

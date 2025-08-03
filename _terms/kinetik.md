@@ -2,6 +2,7 @@
 layout: term
 title: kinetik
 slug: kinetik
+letter: K
 lisan: Fransızca cinétique
 anlamlar:
 - Hareketle ilgili, hareket sebebiyle oluşan

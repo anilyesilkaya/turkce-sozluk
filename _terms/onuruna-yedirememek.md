@@ -2,6 +2,7 @@
 layout: term
 title: onuruna yedirememek
 slug: onuruna-yedirememek
+letter: O
 lisan: Türkçe
 anlamlar:
 - bir kimse, kendine duyduğu saygıyla bağdaşmayan ve onur kırıcı olay veya davranışlar karşısında tepkide bulunmak, kendine yedirememek

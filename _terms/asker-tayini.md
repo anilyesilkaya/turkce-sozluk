@@ -2,6 +2,7 @@
 layout: term
 title: asker tayını
 slug: asker-tayini
+letter: A
 lisan: Türkçe
 anlamlar:
 - Erlere verilen azık

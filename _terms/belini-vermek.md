@@ -2,6 +2,7 @@
 layout: term
 title: belini vermek
 slug: belini-vermek
+letter: B
 lisan: Türkçe
 anlamlar:
 - dayanmak, yaslanmak

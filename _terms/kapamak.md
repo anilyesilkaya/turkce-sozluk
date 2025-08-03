@@ -2,6 +2,7 @@
 layout: term
 title: kapamak
 slug: kapamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir açıklığı örtmek için bir şeyi, açık yerin üzerine getirmek

@@ -2,6 +2,7 @@
 layout: term
 title: pusulalı
 slug: pusulali
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pusulası olan

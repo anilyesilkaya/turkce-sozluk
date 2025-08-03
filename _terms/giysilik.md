@@ -2,6 +2,7 @@
 layout: term
 title: giysilik
 slug: giysilik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Giysi konulan yer; elbiselik

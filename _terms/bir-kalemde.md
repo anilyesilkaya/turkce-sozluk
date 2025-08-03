@@ -2,6 +2,7 @@
 layout: term
 title: bir kalemde
 slug: bir-kalemde
+letter: B
 lisan: Türkçe
 anlamlar:
 - Toptan olarak, bir seferde

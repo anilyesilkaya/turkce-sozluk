@@ -2,6 +2,7 @@
 layout: term
 title: başına kan çıkmak
 slug: basina-kan-cikmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - öfkelenmek, hiddete kapılmak, kontrolünü yitirmek

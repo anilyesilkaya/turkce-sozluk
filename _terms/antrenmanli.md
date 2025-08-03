@@ -2,6 +2,7 @@
 layout: term
 title: antrenmanlı
 slug: antrenmanli
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► idmanlı

@@ -2,6 +2,7 @@
 layout: term
 title: bitiverme
 slug: bitiverme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bitivermek işi

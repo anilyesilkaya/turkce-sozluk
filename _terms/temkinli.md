@@ -2,6 +2,7 @@
 layout: term
 title: temkinli
 slug: temkinli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Davranışlarında ölçülü olan

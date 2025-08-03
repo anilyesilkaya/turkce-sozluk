@@ -2,6 +2,7 @@
 layout: term
 title: aşındırma
 slug: asindirma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aşındırmak işi

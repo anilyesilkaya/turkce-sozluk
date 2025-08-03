@@ -2,6 +2,7 @@
 layout: term
 title: halvethane
 slug: halvethane
+letter: H
 lisan: Arapça ḫalvet + Farsça ḫāne
 anlamlar:
 - Başkasının giremediği, baş başa kalınan yer

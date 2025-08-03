@@ -2,6 +2,7 @@
 layout: term
 title: belediye reisi
 slug: belediye-reisi
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► belediye başkanı

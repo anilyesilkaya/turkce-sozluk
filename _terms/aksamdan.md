@@ -2,6 +2,7 @@
 layout: term
 title: akşamdan
 slug: aksamdan
+letter: A
 lisan: Türkçe
 anlamlar:
 - Henüz akşam iken

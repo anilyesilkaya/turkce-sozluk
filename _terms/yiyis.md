@@ -2,6 +2,7 @@
 layout: term
 title: yiyiş
 slug: yiyis
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yemek işi

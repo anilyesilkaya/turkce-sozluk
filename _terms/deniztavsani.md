@@ -2,6 +2,7 @@
 layout: term
 title: deniztavşanı
 slug: deniztavsani
+letter: D
 lisan: Türkçe
 anlamlar:
 - Karından ayaklılardan, kabuğu küçük ve içeride, dokunaçları kulak biçiminde, geniş ve etli olan bir deniz yumuşakçası (Cyclopterus lumpus)

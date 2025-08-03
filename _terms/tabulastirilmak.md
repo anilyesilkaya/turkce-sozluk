@@ -2,6 +2,7 @@
 layout: term
 title: tabulaştırılmak
 slug: tabulastirilmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tabu durumuna getirilmek

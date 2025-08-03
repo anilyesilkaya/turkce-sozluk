@@ -2,6 +2,7 @@
 layout: term
 title: gökçül
 slug: gokcul
+letter: G
 lisan: Türkçe
 anlamlar:
 - Maviye çalan renk

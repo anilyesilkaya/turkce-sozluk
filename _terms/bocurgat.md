@@ -2,6 +2,7 @@
 layout: term
 title: bocurgat
 slug: bocurgat
+letter: B
 lisan: Rumca
 anlamlar:
 - Ağır yükleri çekmek için manivela ile döndürülen ve döndürüldükçe çekilecek şeyin bağlı bulunduğu urganı kendi üzerine saran çıkrık

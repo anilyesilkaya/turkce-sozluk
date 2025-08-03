@@ -2,6 +2,7 @@
 layout: term
 title: çıldırmak
 slug: cildirmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Delirmek, aklını oynatmak

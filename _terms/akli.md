@@ -2,6 +2,7 @@
 layout: term
 title: akli
 slug: akli
+letter: A
 lisan: Arapça ʿaḳlī
 anlamlar:
 - Akılla ilgili, akla dayanan; akılsal, ussal

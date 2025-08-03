@@ -2,6 +2,7 @@
 layout: term
 title: tosuncuk
 slug: tosuncuk
+letter: T
 lisan: Türkçe
 anlamlar:
 - Olması gerekenden daha iri doğmuş çocuk

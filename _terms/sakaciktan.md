@@ -2,6 +2,7 @@
 layout: term
 title: şakacıktan
 slug: sakaciktan
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► şakadan

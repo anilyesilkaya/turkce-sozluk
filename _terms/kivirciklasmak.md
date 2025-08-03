@@ -2,6 +2,7 @@
 layout: term
 title: kıvırcıklaşmak
 slug: kivirciklasmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kıvırcık duruma gelmek

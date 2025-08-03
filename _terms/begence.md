@@ -2,6 +2,7 @@
 layout: term
 title: beğence
 slug: begence
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► takriz

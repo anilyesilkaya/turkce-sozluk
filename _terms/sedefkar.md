@@ -2,6 +2,7 @@
 layout: term
 title: sedefkâr
 slug: sedefkar
+letter: S
 lisan: Arapça ṣadef + Farsça -kār
 anlamlar:
 - ► sedefçi

@@ -2,6 +2,7 @@
 layout: term
 title: popüler bilim
 slug: populer-bilim
+letter: P
 lisan: Türkçe
 anlamlar:
 - Toplumun her kesiminin anlayacağı bir dille ve biçimle yapılan bilim

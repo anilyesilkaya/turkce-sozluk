@@ -2,6 +2,7 @@
 layout: term
 title: ağırlıksızlık
 slug: agirliksizlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağırlıksız olma durumu

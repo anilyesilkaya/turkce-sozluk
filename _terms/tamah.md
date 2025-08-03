@@ -2,6 +2,7 @@
 layout: term
 title: tamah
 slug: tamah
+letter: T
 lisan: Arapça ṭamaʿ
 anlamlar:
 - ► açgözlülük

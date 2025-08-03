@@ -2,6 +2,7 @@
 layout: term
 title: sütre
 slug: sutre
+letter: S
 lisan: Arapça sutre
 anlamlar:
 - Perde, örtü

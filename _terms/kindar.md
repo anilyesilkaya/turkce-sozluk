@@ -2,6 +2,7 @@
 layout: term
 title: kindar
 slug: kindar
+letter: K
 lisan: Farsça kīndār
 anlamlar:
 - Öç almak isteyen, kin tutan; kinci, kinli

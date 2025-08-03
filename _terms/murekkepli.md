@@ -2,6 +2,7 @@
 layout: term
 title: mürekkepli
 slug: murekkepli
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mürekkep (II) sürülmüş, dökülmüş veya damlatılmış olan

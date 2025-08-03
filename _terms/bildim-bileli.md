@@ -2,6 +2,7 @@
 layout: term
 title: bildim bileli
 slug: bildim-bileli
+letter: B
 lisan: Türkçe
 anlamlar:
 - öteden beri, eskiden beri

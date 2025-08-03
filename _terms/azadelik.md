@@ -2,6 +2,7 @@
 layout: term
 title: azadelik
 slug: azadelik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► serbestlik

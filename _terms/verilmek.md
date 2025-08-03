@@ -2,6 +2,7 @@
 layout: term
 title: verilmek
 slug: verilmek
+letter: V
 lisan: Türkçe
 anlamlar:
 - Verme işine konu olmak

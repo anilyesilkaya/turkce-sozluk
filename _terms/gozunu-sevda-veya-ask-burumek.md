@@ -2,6 +2,7 @@
 layout: term
 title: gözünü sevda (veya aşk) bürümek
 slug: gozunu-sevda-veya-ask-burumek
+letter: G
 lisan: Türkçe
 anlamlar:
 - ondan başka hiçbir şeyi düşünmemek, tamamen ona bağlanmak

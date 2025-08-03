@@ -2,6 +2,7 @@
 layout: term
 title: sıkma
 slug: sikma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıkmak işi

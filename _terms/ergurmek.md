@@ -2,6 +2,7 @@
 layout: term
 title: ergürmek
 slug: ergurmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ulaştırmak, eriştirmek

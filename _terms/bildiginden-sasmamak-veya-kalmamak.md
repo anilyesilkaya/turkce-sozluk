@@ -2,6 +2,7 @@
 layout: term
 title: bildiğinden şaşmamak (veya kalmamak)
 slug: bildiginden-sasmamak-veya-kalmamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - hiçbir etkiye aldırış etmeyerek doğru bildiği davranışı sürdürmek

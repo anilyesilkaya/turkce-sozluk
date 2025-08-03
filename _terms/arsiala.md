@@ -2,6 +2,7 @@
 layout: term
 title: arşıâlâ
 slug: arsiala
+letter: A
 lisan: Arapça ʿarş + aʿlā
 anlamlar:
 - Göğün dokuzuncu katı

@@ -2,6 +2,7 @@
 layout: term
 title: yorgun argın
 slug: yorgun-argin
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Çok yorulmuş, gücü kalmamış bir biçimde

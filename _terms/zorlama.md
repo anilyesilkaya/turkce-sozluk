@@ -2,6 +2,7 @@
 layout: term
 title: zorlama
 slug: zorlama
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zorlamak işi; zecir

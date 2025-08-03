@@ -2,6 +2,7 @@
 layout: term
 title: aktarılabilmek
 slug: aktarilabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aktarılma ihtimali veya imkânı bulunmak

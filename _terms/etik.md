@@ -2,6 +2,7 @@
 layout: term
 title: etik
 slug: etik
+letter: E
 lisan: Fransızca éthique
 anlamlar:
 - ► ahlak bilimi

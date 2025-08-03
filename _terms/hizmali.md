@@ -2,6 +2,7 @@
 layout: term
 title: hızmalı
 slug: hizmali
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hızması olan, hızma takmış bulunan; hırızmalı

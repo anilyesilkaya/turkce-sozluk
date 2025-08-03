@@ -2,6 +2,7 @@
 layout: term
 title: araştırılmak
 slug: arastirilmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Araştırma yapılmak, gözden geçirilmek

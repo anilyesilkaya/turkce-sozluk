@@ -2,6 +2,7 @@
 layout: term
 title: kimileyin
 slug: kimileyin
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► ara sıra

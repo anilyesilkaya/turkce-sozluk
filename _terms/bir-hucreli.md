@@ -2,6 +2,7 @@
 layout: term
 title: bir hücreli
 slug: bir-hucreli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Yapısı tek bir hücreden oluşan (hayvan veya bitki); bir gözeli, tek hücreli

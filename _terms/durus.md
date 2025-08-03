@@ -2,6 +2,7 @@
 layout: term
 title: duruş
 slug: durus
+letter: D
 lisan: Türkçe
 anlamlar:
 - Durmak işi

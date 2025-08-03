@@ -2,6 +2,7 @@
 layout: term
 title: göz açıp kapayıncaya kadar
 slug: goz-acip-kapayincaya-kadar
+letter: G
 lisan: Türkçe
 anlamlar:
 - çok kısa bir sürede

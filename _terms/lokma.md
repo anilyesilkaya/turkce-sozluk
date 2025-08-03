@@ -2,6 +2,7 @@
 layout: term
 title: lokma
 slug: lokma
+letter: L
 lisan: Arapça luḳme
 anlamlar:
 - Ağza bir defada alınıp götürülen yiyecek parçası; sokum

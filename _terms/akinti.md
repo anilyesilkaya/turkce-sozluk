@@ -2,6 +2,7 @@
 layout: term
 title: akıntı
 slug: akinti
+letter: A
 lisan: Türkçe
 anlamlar:
 - Akmak işi

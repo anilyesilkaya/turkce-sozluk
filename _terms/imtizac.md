@@ -2,6 +2,7 @@
 layout: term
 title: imtizaç
 slug: imtizac
+letter: I
 lisan: Arapça imtizāc
 anlamlar:
 - ► uyum

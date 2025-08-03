@@ -2,6 +2,7 @@
 layout: term
 title: bilinmedik
 slug: bilinmedik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Önceden bilinmeyen, tanınmayan

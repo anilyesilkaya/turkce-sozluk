@@ -2,6 +2,7 @@
 layout: term
 title: budamak
 slug: budamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Yeni filiz sürmesini sağlamak, daha çok ürün almak veya düzgün bir biçim vermek amacıyla ağaç, asma vb.nin dallarını kesmek, kısaltmak; dallamak

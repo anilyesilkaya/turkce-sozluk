@@ -2,6 +2,7 @@
 layout: term
 title: köpeksiz köyde çomaksız dolaşmak (veya gezmek)
 slug: kopeksiz-koyde-comaksiz-dolasmak-veya-gezmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - kimsenin engellemesiyle karşılaşmadan istediği hareket ve davranışta bulunmak

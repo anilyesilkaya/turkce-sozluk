@@ -2,6 +2,7 @@
 layout: term
 title: şimdiki
 slug: simdiki
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - İçinde bulunulan anda olan veya yapılan, bu andaki, bu zamandaki

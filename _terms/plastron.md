@@ -2,6 +2,7 @@
 layout: term
 title: plastron
 slug: plastron
+letter: P
 lisan: Fransızca plastron
 anlamlar:
 - Erkek giyiminde, gömleğin göğüs tarafının üzerine takılan parça

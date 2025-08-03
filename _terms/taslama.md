@@ -2,6 +2,7 @@
 layout: term
 title: taşlama
 slug: taslama
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taşlamak işi

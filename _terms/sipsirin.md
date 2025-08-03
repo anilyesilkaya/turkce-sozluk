@@ -2,6 +2,7 @@
 layout: term
 title: şipşirin
 slug: sipsirin
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Çok sevimli, çok şirin

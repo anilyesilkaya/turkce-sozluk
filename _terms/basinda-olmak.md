@@ -2,6 +2,7 @@
 layout: term
 title: başında olmak
 slug: basinda-olmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir yerin yöneticisi olmak

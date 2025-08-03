@@ -2,6 +2,7 @@
 layout: term
 title: parıltı
 slug: parilti
+letter: P
 lisan: Türkçe
 anlamlar:
 - Parıldama, göze çarpan parlaklık; balkır, ışılak, şaşaa, şimşek, şule

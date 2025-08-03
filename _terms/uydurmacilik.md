@@ -2,6 +2,7 @@
 layout: term
 title: uydurmacılık
 slug: uydurmacilik
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uydurmacının işi

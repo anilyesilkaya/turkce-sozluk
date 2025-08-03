@@ -2,6 +2,7 @@
 layout: term
 title: buhurluk
 slug: buhurluk
+letter: B
 lisan: Türkçe
 anlamlar:
 - İçinde tütsü için kullanılan maddeler yakılan kap; buhurdan, tütsülük

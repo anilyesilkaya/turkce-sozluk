@@ -2,6 +2,7 @@
 layout: term
 title: basiret
 slug: basiret
+letter: B
 lisan: Arapça baṣīret
 anlamlar:
 - Gerçekleri yanılmadan görebilme yeteneği, uzağı görüş; sağgörü, vizyon

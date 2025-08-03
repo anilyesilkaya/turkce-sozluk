@@ -2,6 +2,7 @@
 layout: term
 title: üst üste gelmek
 slug: ust-uste-gelmek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - çakışmak

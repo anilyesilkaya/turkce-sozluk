@@ -2,6 +2,7 @@
 layout: term
 title: azizlik
 slug: azizlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aziz olma durumu

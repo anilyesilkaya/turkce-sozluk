@@ -2,6 +2,7 @@
 layout: term
 title: lanetli
 slug: lanetli
+letter: L
 lisan: Türkçe
 anlamlar:
 - Tanrı tarafından lanetlenmiş olan; lain, melun

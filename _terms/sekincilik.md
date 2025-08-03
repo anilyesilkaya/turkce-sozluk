@@ -2,6 +2,7 @@
 layout: term
 title: sekincilik
 slug: sekincilik
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► dingincilik

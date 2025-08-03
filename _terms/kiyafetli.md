@@ -2,6 +2,7 @@
 layout: term
 title: kıyafetli
 slug: kiyafetli
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► giysili

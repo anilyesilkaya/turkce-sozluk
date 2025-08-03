@@ -2,6 +2,7 @@
 layout: term
 title: aşı boyalı
 slug: asi-boyali
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aşı boyası renginde boyanmış

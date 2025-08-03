@@ -2,6 +2,7 @@
 layout: term
 title: karaşın
 slug: karasin
+letter: K
 lisan: Türkçe
 anlamlar:
 - Rengi karaya çalan, esmer (kimse)

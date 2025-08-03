@@ -2,6 +2,7 @@
 layout: term
 title: veli
 slug: veli
+letter: V
 lisan: Arapça velī
 anlamlar:
 - Bir çocuğu koruyan, işlerine bakan ve her türlü davranışından sorumlu kimse; ege, iye

@@ -2,6 +2,7 @@
 layout: term
 title: örgütçü
 slug: orgutcu
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Örgütleme işleriyle uğraşan kimse; teşkilatçı

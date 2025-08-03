@@ -2,6 +2,7 @@
 layout: term
 title: temas
 slug: temas
+letter: T
 lisan: Arapça temāss
 anlamlar:
 - ► dokunma (I)

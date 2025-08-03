@@ -2,6 +2,7 @@
 layout: term
 title: kendini paralamak
 slug: kendini-paralamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - çok çaba ve özen göstermek

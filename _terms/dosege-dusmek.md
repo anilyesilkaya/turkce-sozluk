@@ -2,6 +2,7 @@
 layout: term
 title: döşeğe düşmek
 slug: dosege-dusmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - yatağa düşmek

@@ -2,6 +2,7 @@
 layout: term
 title: yudum yudum
 slug: yudum-yudum
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► azar azar

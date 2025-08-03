@@ -2,6 +2,7 @@
 layout: term
 title: kemankeş
 slug: kemankes
+letter: K
 lisan: Farsça kemānkeş
 anlamlar:
 - ► okçu

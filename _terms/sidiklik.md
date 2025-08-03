@@ -2,6 +2,7 @@
 layout: term
 title: sidiklik
 slug: sidiklik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Canlılarda sidiğin atıldığı organ

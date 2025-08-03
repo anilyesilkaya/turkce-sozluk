@@ -2,6 +2,7 @@
 layout: term
 title: dalıvermek
 slug: dalivermek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çabucak veya ansızın dalmak

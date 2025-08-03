@@ -2,6 +2,7 @@
 layout: term
 title: oluş
 slug: olus
+letter: O
 lisan: Türkçe
 anlamlar:
 - Olmak işi; vuku

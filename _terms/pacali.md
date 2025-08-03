@@ -2,6 +2,7 @@
 layout: term
 title: paçalı
 slug: pacali
+letter: P
 lisan: Türkçe
 anlamlar:
 - Herhangi bir biçimde paçası olan

@@ -2,6 +2,7 @@
 layout: term
 title: Allah aşkına
 slug: allah-askina
+letter: A
 lisan: Türkçe
 anlamlar:
 - Olması ve gerçekleşmesi çok istenilen bir durum karşısında kullanılan yalvarma sözü; Tanrı aşkına

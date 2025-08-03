@@ -2,6 +2,7 @@
 layout: term
 title: tesadüf
 slug: tesaduf
+letter: T
 lisan: Arapça teṣāduf
 anlamlar:
 - Yalnızca ihtimallere bağlı olduğu düşünülen olayların kesin olmayan, değişebilen sebebi

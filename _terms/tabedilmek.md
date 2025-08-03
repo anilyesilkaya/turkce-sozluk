@@ -2,6 +2,7 @@
 layout: term
 title: tabedilmek
 slug: tabedilmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► basılmak

@@ -2,6 +2,7 @@
 layout: term
 title: sıvanmak
 slug: sivanmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir işe girişmek

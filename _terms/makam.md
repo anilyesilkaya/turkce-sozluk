@@ -2,6 +2,7 @@
 layout: term
 title: makam
 slug: makam
+letter: M
 lisan: Arapça maḳām
 anlamlar:
 - Devlet kademesinde yüksek ve önemli memuriyet; kat (I), huzur, mansıp, mevki, post

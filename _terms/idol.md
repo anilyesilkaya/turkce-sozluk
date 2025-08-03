@@ -2,6 +2,7 @@
 layout: term
 title: idol
 slug: idol
+letter: I
 lisan: Fransızca idole
 anlamlar:
 - Çok tanrılı dinlerde tapınılacak nesne

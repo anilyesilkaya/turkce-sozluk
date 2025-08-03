@@ -2,6 +2,7 @@
 layout: term
 title: araba vapuru
 slug: araba-vapuru
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► arabalı vapur

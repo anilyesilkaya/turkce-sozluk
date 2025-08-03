@@ -2,6 +2,7 @@
 layout: term
 title: havale gelmek
 slug: havale-gelmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - postane veya banka yoluyla para gelmek

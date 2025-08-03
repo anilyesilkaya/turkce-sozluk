@@ -2,6 +2,7 @@
 layout: term
 title: literatür
 slug: literatur
+letter: L
 lisan: Fransızca littérature
 anlamlar:
 - ► edebiyat

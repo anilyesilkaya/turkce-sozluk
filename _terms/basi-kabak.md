@@ -2,6 +2,7 @@
 layout: term
 title: başı kabak
 slug: basi-kabak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Saçı dökülmüş veya dibinden kesilmiş (kimse)

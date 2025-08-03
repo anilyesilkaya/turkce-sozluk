@@ -2,6 +2,7 @@
 layout: term
 title: gözden (veya gözünden) düşmek
 slug: gozden-veya-gozunden-dusmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - bir kişi veya şey değerini yitirmek, rağbet görmemek

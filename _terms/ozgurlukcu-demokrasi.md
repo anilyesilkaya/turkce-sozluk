@@ -2,6 +2,7 @@
 layout: term
 title: özgürlükçü demokrasi
 slug: ozgurlukcu-demokrasi
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Bireylerin her türlü düşüncesine saygı gösteren, yasak koymayan demokrasi biçimi

@@ -2,6 +2,7 @@
 layout: term
 title: banal
 slug: banal
+letter: B
 lisan: Fransızca banal
 anlamlar:
 - Herkesçe kullanılan, anlaşılan

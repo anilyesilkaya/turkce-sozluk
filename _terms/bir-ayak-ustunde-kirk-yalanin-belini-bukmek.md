@@ -2,6 +2,7 @@
 layout: term
 title: bir ayak üstünde kırk yalanın belini bükmek
 slug: bir-ayak-ustunde-kirk-yalanin-belini-bukmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - çok kısa sürede pek çok yalan söylemek

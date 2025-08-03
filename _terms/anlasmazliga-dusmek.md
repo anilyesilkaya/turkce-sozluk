@@ -2,6 +2,7 @@
 layout: term
 title: anlaşmazlığa düşmek
 slug: anlasmazliga-dusmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - anlaşamamak, uyuşamamak

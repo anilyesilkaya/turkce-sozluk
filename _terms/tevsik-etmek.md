@@ -2,6 +2,7 @@
 layout: term
 title: tevsik etmek
 slug: tevsik-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - belgelemek

@@ -2,6 +2,7 @@
 layout: term
 title: züppelik etmek
 slug: zuppelik-etmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - züppece davranmak

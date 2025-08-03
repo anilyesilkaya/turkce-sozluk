@@ -2,6 +2,7 @@
 layout: term
 title: zaman kollamak
 slug: zaman-kollamak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - bir işin sırasını beklemek

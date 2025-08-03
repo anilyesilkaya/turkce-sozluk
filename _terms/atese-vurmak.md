@@ -2,6 +2,7 @@
 layout: term
 title: ateşe vurmak
 slug: atese-vurmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir yemeği pişmek üzere ocağa koymak

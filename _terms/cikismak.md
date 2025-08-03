@@ -2,6 +2,7 @@
 layout: term
 title: çıkışmak
 slug: cikismak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir kimseye hoşa gitmeyen bir davranışından dolayı sert sözler söylemek, azarlamak

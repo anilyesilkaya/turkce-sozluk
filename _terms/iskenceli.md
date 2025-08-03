@@ -2,6 +2,7 @@
 layout: term
 title: işkenceli
 slug: iskenceli
+letter: I
 lisan: Türkçe
 anlamlar:
 - İşkence ile dolu bir biçimde

@@ -2,6 +2,7 @@
 layout: term
 title: haftalığına
 slug: haftaligina
+letter: H
 lisan: Türkçe
 anlamlar:
 - … hafta süresince

@@ -2,6 +2,7 @@
 layout: term
 title: hipertansiyon
 slug: hipertansiyon
+letter: H
 lisan: Fransızca hypertension
 anlamlar:
 - Normalden yüksek olan atardamar basıncı; yüksek kan basıncı

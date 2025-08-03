@@ -2,6 +2,7 @@
 layout: term
 title: yarım ağız
 slug: yarim-agiz
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yarım ağızla

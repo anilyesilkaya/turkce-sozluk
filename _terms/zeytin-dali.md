@@ -2,6 +2,7 @@
 layout: term
 title: zeytin dalı
 slug: zeytin-dali
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zeytin ağacının dalı

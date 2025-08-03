@@ -2,6 +2,7 @@
 layout: term
 title: kaçı
 slug: kaci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Ne kadarı, kaç kişi

@@ -2,6 +2,7 @@
 layout: term
 title: engellenmek
 slug: engellenmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Engel olunmak

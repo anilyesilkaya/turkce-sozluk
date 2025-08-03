@@ -2,6 +2,7 @@
 layout: term
 title: antik
 slug: antik
+letter: A
 lisan: Fransızca antique
 anlamlar:
 - İlk Çağdaki uygarlıklarla, özellikle eski Yunan ve Roma uygarlıkları ile ilgili olan; antika

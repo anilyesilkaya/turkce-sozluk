@@ -2,6 +2,7 @@
 layout: term
 title: buzsuz
 slug: buzsuz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Buz katılmamış

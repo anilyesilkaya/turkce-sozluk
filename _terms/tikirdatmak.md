@@ -2,6 +2,7 @@
 layout: term
 title: tıkırdatmak
 slug: tikirdatmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tıkırdamasını sağlamak, tıkırdamasına sebep olmak

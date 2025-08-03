@@ -2,6 +2,7 @@
 layout: term
 title: açık alınlı
 slug: acik-alinli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alın bölgesi daha geniş olan

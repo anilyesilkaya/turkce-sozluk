@@ -2,6 +2,7 @@
 layout: term
 title: palyaçoluk
 slug: palyacoluk
+letter: P
 lisan: Türkçe
 anlamlar:
 - Palyaço olma durumu

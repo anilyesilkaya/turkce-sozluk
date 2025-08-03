@@ -2,6 +2,7 @@
 layout: term
 title: cansızlaşma
 slug: cansizlasma
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cansızlaşmak işi

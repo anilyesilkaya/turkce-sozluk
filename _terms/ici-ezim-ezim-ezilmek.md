@@ -2,6 +2,7 @@
 layout: term
 title: içi ezim ezim ezilmek
 slug: ici-ezim-ezim-ezilmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - çok üzülmek

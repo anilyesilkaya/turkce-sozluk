@@ -2,6 +2,7 @@
 layout: term
 title: kalp hastası
 slug: kalp-hastasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sürekli kalp rahatsızlığı çeken kimse

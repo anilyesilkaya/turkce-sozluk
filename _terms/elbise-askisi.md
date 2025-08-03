@@ -2,6 +2,7 @@
 layout: term
 title: elbise askısı
 slug: elbise-askisi
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► askı

@@ -2,6 +2,7 @@
 layout: term
 title: fek
 slug: fek
+letter: F
 lisan: Arapça fekk
 anlamlar:
 - Bir şeyi açma, ayırma

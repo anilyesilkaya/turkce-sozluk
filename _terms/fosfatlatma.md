@@ -2,6 +2,7 @@
 layout: term
 title: fosfatlatma
 slug: fosfatlatma
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fosfatlatmak işi

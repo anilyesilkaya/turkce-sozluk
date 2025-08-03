@@ -2,6 +2,7 @@
 layout: term
 title: yastıklama
 slug: yastiklama
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yastıklamak işi

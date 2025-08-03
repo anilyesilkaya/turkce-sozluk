@@ -2,6 +2,7 @@
 layout: term
 title: grup
 slug: grup
+letter: G
 lisan: Fransızca groupe
 anlamlar:
 - Birbirine benzer veya aynı cinsten olan şeylerin oluşturduğu bütün; küme, takım

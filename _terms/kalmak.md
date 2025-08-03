@@ -2,6 +2,7 @@
 layout: term
 title: kalmak
 slug: kalmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Olduğu yeri ve durumu korumak, sürdürmek

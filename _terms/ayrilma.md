@@ -2,6 +2,7 @@
 layout: term
 title: ayrılma
 slug: ayrilma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayrılmak işi; infirak, terk

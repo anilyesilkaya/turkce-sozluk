@@ -2,6 +2,7 @@
 layout: term
 title: deli divane
 slug: deli-divane
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çılgın, aşırı deli (kimse)

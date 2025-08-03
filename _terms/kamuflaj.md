@@ -2,6 +2,7 @@
 layout: term
 title: kamuflaj
 slug: kamuflaj
+letter: K
 lisan: Fransızca camouflage
 anlamlar:
 - ► gizleme

@@ -2,6 +2,7 @@
 layout: term
 title: ümmilik
 slug: ummilik
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Ümmi olma durumu

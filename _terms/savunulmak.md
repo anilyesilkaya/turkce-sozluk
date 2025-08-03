@@ -2,6 +2,7 @@
 layout: term
 title: savunulmak
 slug: savunulmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Savunma işi yapılmak

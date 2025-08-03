@@ -2,6 +2,7 @@
 layout: term
 title: Polak
 slug: polak
+letter: P
 lisan: Fransızca Polaque
 anlamlar:
 - ► Polonyalı

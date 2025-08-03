@@ -2,6 +2,7 @@
 layout: term
 title: baltalanmak
 slug: baltalanmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Baltalama işine konu olmak

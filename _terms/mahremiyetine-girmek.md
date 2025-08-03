@@ -2,6 +2,7 @@
 layout: term
 title: mahremiyetine girmek
 slug: mahremiyetine-girmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - bir kimsenin özel hayatını öğrenecek kadar ona yakın olmak

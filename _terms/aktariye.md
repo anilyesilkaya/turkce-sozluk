@@ -2,6 +2,7 @@
 layout: term
 title: aktariye
 slug: aktariye
+letter: A
 lisan: Arapça ʿaṭṭāriyye
 anlamlar:
 - Aktarın sattığı şeyler

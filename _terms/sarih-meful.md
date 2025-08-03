@@ -2,6 +2,7 @@
 layout: term
 title: sarih meful
 slug: sarih-meful
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► belirtili nesne

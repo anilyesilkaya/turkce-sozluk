@@ -2,6 +2,7 @@
 layout: term
 title: bedihi
 slug: bedihi
+letter: B
 lisan: Arapça bedīhī
 anlamlar:
 - İspat gerektirmeyecek şekilde açık seçik olan

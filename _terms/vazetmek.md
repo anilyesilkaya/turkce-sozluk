@@ -2,6 +2,7 @@
 layout: term
 title: vazetmek
 slug: vazetmek
+letter: V
 lisan: Arapça vażʿ + Türkçe etmek
 anlamlar:
 - ► koymak

@@ -2,6 +2,7 @@
 layout: term
 title: meze
 slug: meze
+letter: M
 lisan: Farsça meze
 anlamlar:
 - İçki içilirken yenilen yiyecek

@@ -2,6 +2,7 @@
 layout: term
 title: acınılmak
 slug: acinilmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Acınma işine konu olmak

@@ -2,6 +2,7 @@
 layout: term
 title: litrelerce
 slug: litrelerce
+letter: L
 lisan: Türkçe
 anlamlar:
 - Sıvılar için çok miktarda

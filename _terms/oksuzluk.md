@@ -2,6 +2,7 @@
 layout: term
 title: öksüzlük
 slug: oksuzluk
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öksüz olma durumu

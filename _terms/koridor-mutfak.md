@@ -2,6 +2,7 @@
 layout: term
 title: koridor mutfak
 slug: koridor-mutfak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Dolapları ve tezgâhı karşılıklı iki duvarla bağlantılı olan mutfak

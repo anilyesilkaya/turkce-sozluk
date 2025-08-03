@@ -2,6 +2,7 @@
 layout: term
 title: müşkülleşmek
 slug: muskullesmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► zorlaşmak

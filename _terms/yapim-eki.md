@@ -2,6 +2,7 @@
 layout: term
 title: yapım eki
 slug: yapim-eki
+letter: Y
 lisan: Türkçe
 anlamlar:
 - 'Yeni bir kavramı karşılamak üzere kelime sonuna getirilen ek: göz-lük, ev-li; sev-inç, sev-gi; su-la-mak, ac-ık-mak; gör-üş-mek, dön-üş-tür-mek vb'

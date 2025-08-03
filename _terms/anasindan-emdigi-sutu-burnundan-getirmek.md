@@ -2,6 +2,7 @@
 layout: term
 title: anasından emdiği sütü burnundan getirmek
 slug: anasindan-emdigi-sutu-burnundan-getirmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - birine bir iş yaptırırken çok sıkıntı çektirmek

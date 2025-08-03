@@ -2,6 +2,7 @@
 layout: term
 title: maderşahilik
 slug: madersahilik
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► anaerkillik

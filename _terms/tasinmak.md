@@ -2,6 +2,7 @@
 layout: term
 title: taşınmak
 slug: tasinmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taşıma işi yapılmak

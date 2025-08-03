@@ -2,6 +2,7 @@
 layout: term
 title: tımar etmek
 slug: timar-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - yaralara bakmak, iyileştirmek, tımarlamak

@@ -2,6 +2,7 @@
 layout: term
 title: kavranmak
 slug: kavranmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kavrama işi yapılmak; kavranılmak

@@ -2,6 +2,7 @@
 layout: term
 title: anlayışlı
 slug: anlayisli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anlayışı olan; ferasetli, izanlı

@@ -2,6 +2,7 @@
 layout: term
 title: puan cetveli
 slug: puan-cetveli
+letter: P
 lisan: Türkçe
 anlamlar:
 - Takımların aldığı sonuçlara göre sıralandığı çizelge

@@ -2,6 +2,7 @@
 layout: term
 title: kubarma
 slug: kubarma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kubarmak işi

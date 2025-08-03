@@ -2,6 +2,7 @@
 layout: term
 title: çakıldak
 slug: cakildak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir çarkın yalnız bir yöne doğru işlemesine yol verip tersine dönmesini önleyen veya değirmen, su dolabı vb. makinelerin işleyişini çıkardığı sesle kontrole yarayan parça

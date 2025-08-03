@@ -2,6 +2,7 @@
 layout: term
 title: evirtik
 slug: evirtik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Evirtime uğramış

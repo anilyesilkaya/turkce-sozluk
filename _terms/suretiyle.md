@@ -2,6 +2,7 @@
 layout: term
 title: suretiyle
 slug: suretiyle
+letter: S
 lisan: Türkçe
 anlamlar:
 - Yoluyla, biçimiyle

@@ -2,6 +2,7 @@
 layout: term
 title: afyon çekmek
 slug: afyon-cekmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - keyif için afyon yutmak

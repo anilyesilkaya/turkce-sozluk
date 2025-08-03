@@ -2,6 +2,7 @@
 layout: term
 title: tatmin etmek
 slug: tatmin-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - karşısındakinin cinsel isteklerini gidermek

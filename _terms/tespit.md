@@ -2,6 +2,7 @@
 layout: term
 title: tespit
 slug: tespit
+letter: T
 lisan: Arapça tes̱bīt
 anlamlar:
 - Bir şeyi sağlam bir biçimde yerleştirme, yerinden oynamaz duruma getirme

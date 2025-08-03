@@ -2,6 +2,7 @@
 layout: term
 title: üstüne yok
 slug: ustune-yok
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - '"bundan daha iyisi olamaz, hepsinden iyisi bu" anlamında kullanılan bir söz'

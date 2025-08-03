@@ -2,6 +2,7 @@
 layout: term
 title: dikkat toplaşımı
 slug: dikkat-toplasimi
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► konsantrasyon

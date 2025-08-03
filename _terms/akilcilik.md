@@ -2,6 +2,7 @@
 layout: term
 title: akılcılık
 slug: akilcilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Akla dayanan, doğruluğun ölçütünü duyularda değil, düşünmede ve tümdengelimli çıkarmalarda bulan öğretilerin genel adı; usçuluk, akliye, akliyecilik, rasyonalizm, deneycilik karşıtı

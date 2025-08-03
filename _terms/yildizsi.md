@@ -2,6 +2,7 @@
 layout: term
 title: yıldızsı
 slug: yildizsi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yıldızı andıran, yıldıza benzeyen, yıldız gibi; yıldızımsı

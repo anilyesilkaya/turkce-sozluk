@@ -2,6 +2,7 @@
 layout: term
 title: cukka
 slug: cukka
+letter: C
 lisan: Türkçe
 anlamlar:
 - Hayvan ve insan memesi

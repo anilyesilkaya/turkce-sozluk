@@ -2,6 +2,7 @@
 layout: term
 title: hayâsızlık
 slug: hayasizlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Utanma duygusu olmama durumu

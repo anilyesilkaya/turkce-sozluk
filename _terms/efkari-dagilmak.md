@@ -2,6 +2,7 @@
 layout: term
 title: efkârı dağılmak
 slug: efkari-dagilmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - keyifli bir şey yaparak içinde bulunulan hüzünden kurtulmak, rahatlamak, huzur bulmak

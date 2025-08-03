@@ -2,6 +2,7 @@
 layout: term
 title: lahanamsı
 slug: lahanamsi
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lahanayı andıran, lahanaya benzeyen, lahana gibi

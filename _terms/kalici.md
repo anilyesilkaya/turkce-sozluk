@@ -2,6 +2,7 @@
 layout: term
 title: kalıcı
 slug: kalici
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► sürekli, geçici karşıtı

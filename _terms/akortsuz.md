@@ -2,6 +2,7 @@
 layout: term
 title: akortsuz
 slug: akortsuz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Akordu olmayan, akort edilmemiş; akordu bozuk

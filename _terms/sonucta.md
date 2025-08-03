@@ -2,6 +2,7 @@
 layout: term
 title: sonuçta
 slug: sonucta
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sonuç olarak; son kertede, binnetice

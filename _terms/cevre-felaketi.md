@@ -2,6 +2,7 @@
 layout: term
 title: çevre felaketi
 slug: cevre-felaketi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çevre kirliliğinin aşırı boyutlara varması

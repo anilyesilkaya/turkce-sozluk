@@ -2,6 +2,7 @@
 layout: term
 title: alıcı gözüyle bakmak
 slug: alici-gozuyle-bakmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - inceden inceye gözden geçirmek

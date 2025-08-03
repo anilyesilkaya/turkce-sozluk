@@ -2,6 +2,7 @@
 layout: term
 title: kıvamsız
 slug: kivamsiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kıvamında olmayan

@@ -2,6 +2,7 @@
 layout: term
 title: çul
 slug: cul
+letter: Ç
 lisan: Arapça cull
 anlamlar:
 - Genellikle kıldan yapılmış kaba dokuma

@@ -2,6 +2,7 @@
 layout: term
 title: çarkıt
 slug: carkit
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Eski, bozuk olan

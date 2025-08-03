@@ -2,6 +2,7 @@
 layout: term
 title: perdeleme
 slug: perdeleme
+letter: P
 lisan: Türkçe
 anlamlar:
 - Perdelemek işi

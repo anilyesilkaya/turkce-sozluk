@@ -2,6 +2,7 @@
 layout: term
 title: kıvrak kıvrak
 slug: kivrak-kivrak
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kıvrakça

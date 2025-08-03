@@ -2,6 +2,7 @@
 layout: term
 title: akla ziyan
 slug: akla-ziyan
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► akla zarar

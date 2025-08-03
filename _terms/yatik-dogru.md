@@ -2,6 +2,7 @@
 layout: term
 title: yatık doğru
 slug: yatik-dogru
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yatık biçimde çizilen doğru

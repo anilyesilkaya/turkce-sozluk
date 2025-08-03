@@ -2,6 +2,7 @@
 layout: term
 title: kösteklemek
 slug: kosteklemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Hayvanın veya esirin ayağına köstek vurmak

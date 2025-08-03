@@ -2,6 +2,7 @@
 layout: term
 title: şaşkınlıkla
 slug: saskinlikla
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şaşkın hâlde

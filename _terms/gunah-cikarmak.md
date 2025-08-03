@@ -2,6 +2,7 @@
 layout: term
 title: günah çıkarmak
 slug: gunah-cikarmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - Hristiyanlar, Tanrı'nın bağışlaması için papaza gidip işlediği günahları anlatmak

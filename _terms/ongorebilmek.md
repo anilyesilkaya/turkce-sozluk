@@ -2,6 +2,7 @@
 layout: term
 title: öngörebilmek
 slug: ongorebilmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öngörme ihtimali veya imkânı bulunmak

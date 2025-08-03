@@ -2,6 +2,7 @@
 layout: term
 title: peşi sıra
 slug: pesi-sira
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► ardınca

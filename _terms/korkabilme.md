@@ -2,6 +2,7 @@
 layout: term
 title: korkabilme
 slug: korkabilme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Korkabilmek işi

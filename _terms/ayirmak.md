@@ -2,6 +2,7 @@
 layout: term
 title: ayırmak
 slug: ayirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir bütünü kendi içinde parçalara bölmek

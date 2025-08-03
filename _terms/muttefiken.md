@@ -2,6 +2,7 @@
 layout: term
 title: müttefiken
 slug: muttefiken
+letter: M
 lisan: Arapça muttefiḳan
 anlamlar:
 - El birliğiyle, hep birlikte

@@ -2,6 +2,7 @@
 layout: term
 title: karmalık
 slug: karmalik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karma olma durumu

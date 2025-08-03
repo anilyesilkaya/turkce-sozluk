@@ -2,6 +2,7 @@
 layout: term
 title: kemançe
 slug: kemance
+letter: K
 lisan: Farsça kemānçe
 anlamlar:
 - ► kemençe

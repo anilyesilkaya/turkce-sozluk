@@ -2,6 +2,7 @@
 layout: term
 title: önermek
 slug: onermek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Tavsiye etmek

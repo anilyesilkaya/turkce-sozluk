@@ -2,6 +2,7 @@
 layout: term
 title: hayatın sillesini (veya tokadını) yemek
 slug: hayatin-sillesini-veya-tokadini-yemek
+letter: H
 lisan: Türkçe
 anlamlar:
 - birçok sıkıntıyla karşılaşmak, çok zor durumlara düşmek

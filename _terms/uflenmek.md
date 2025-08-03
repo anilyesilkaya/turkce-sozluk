@@ -2,6 +2,7 @@
 layout: term
 title: üflenmek
 slug: uflenmek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üfleme işi yapılmak

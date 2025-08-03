@@ -2,6 +2,7 @@
 layout: term
 title: yara bere
 slug: yara-bere
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Vurma ve incitme sonucu vücudun herhangi bir yerinde oluşan çürük

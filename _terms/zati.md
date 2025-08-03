@@ -2,6 +2,7 @@
 layout: term
 title: zatî
 slug: zati
+letter: Z
 lisan: Arapça ẕātī
 anlamlar:
 - ► kişisel

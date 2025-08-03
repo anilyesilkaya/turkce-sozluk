@@ -2,6 +2,7 @@
 layout: term
 title: sağır
 slug: sagir
+letter: S
 lisan: Türkçe
 anlamlar:
 - İşitme ve konuşma sorunu yaşayan, iletişimi işaret dili ile kurabilen ve işiten kişilerle iletişim kurmakta zorlanan (kimse)

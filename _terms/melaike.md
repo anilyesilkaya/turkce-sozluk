@@ -2,6 +2,7 @@
 layout: term
 title: melaike
 slug: melaike
+letter: M
 lisan: Arapça melāʾike
 anlamlar:
 - Melekler

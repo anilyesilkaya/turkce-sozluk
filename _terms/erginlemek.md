@@ -2,6 +2,7 @@
 layout: term
 title: erginlemek
 slug: erginlemek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Birini bir konu üzerinde aydınlatıp onu gerekli temel bilgi ve becerilerle donatarak ergin ve yetişmiş kılmak

@@ -2,6 +2,7 @@
 layout: term
 title: çelmelemek
 slug: celmelemek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çelme takmak

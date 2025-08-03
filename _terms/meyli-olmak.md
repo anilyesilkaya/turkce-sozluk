@@ -2,6 +2,7 @@
 layout: term
 title: meyli olmak
 slug: meyli-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - beğenmek, ilgisi olmak, hoşuna gitmek

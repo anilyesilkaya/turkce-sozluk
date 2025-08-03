@@ -2,6 +2,7 @@
 layout: term
 title: assolistlik
 slug: assolistlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Assolist olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: besni
 slug: besni
+letter: B
 lisan: Türkçe
 anlamlar:
 - Güneydoğu Anadolu Bölgesi'nde genellikle kurutmalık olarak üretilen, sofralık olarak da tüketilen, ince kabuklu, beyaz renkli bir tür üzüm

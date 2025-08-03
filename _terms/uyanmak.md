@@ -2,6 +2,7 @@
 layout: term
 title: uyanmak
 slug: uyanmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyku durumundan çıkmak

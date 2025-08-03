@@ -2,6 +2,7 @@
 layout: term
 title: vatandaş
 slug: vatandas
+letter: V
 lisan: Türkçe
 anlamlar:
 - ► yurttaş

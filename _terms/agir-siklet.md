@@ -2,6 +2,7 @@
 layout: term
 title: ağır sıklet
 slug: agir-siklet
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bazı spor dallarında o sporun özelliğine göre kabul edilen belli bir kilonun üstündeki en ağır kilolu yarışmacıların bulunduğu sınıf; başağırlık, ağır

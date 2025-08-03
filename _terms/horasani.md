@@ -2,6 +2,7 @@
 layout: term
 title: horasani
 slug: horasani
+letter: H
 lisan: Farsça ḫurāsān + Arapça -į
 anlamlar:
 - Üst bölümü sarıktan taşacak biçimde yapılmış hoca kavuğu

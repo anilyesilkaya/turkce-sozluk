@@ -2,6 +2,7 @@
 layout: term
 title: iklim
 slug: iklim
+letter: I
 lisan: Arapça iḳlīm
 anlamlar:
 - Yeryüzünün herhangi bir yerinde hava olaylarına bağlı olarak gerçekleşen etkilerin uzun yılların ortalamasına dayanan durumu; abuhava

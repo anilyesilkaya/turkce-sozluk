@@ -2,6 +2,7 @@
 layout: term
 title: klorlamak
 slug: klorlamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Mikroplardan arındırmak amacıyla suya düşük oranda klor katmak

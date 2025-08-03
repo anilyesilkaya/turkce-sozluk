@@ -2,6 +2,7 @@
 layout: term
 title: cep harçlığını çıkarmak
 slug: cep-harcligini-cikarmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - günlük masrafını karşılayacak kadar kazanç sahibi olmak

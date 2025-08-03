@@ -2,6 +2,7 @@
 layout: term
 title: okşama
 slug: oksama
+letter: O
 lisan: Türkçe
 anlamlar:
 - Okşamak işi; okşantı

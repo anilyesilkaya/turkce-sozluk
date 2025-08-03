@@ -2,6 +2,7 @@
 layout: term
 title: kafadan kontak
 slug: kafadan-kontak
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kafadan sakat

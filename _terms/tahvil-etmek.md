@@ -2,6 +2,7 @@
 layout: term
 title: tahvil etmek
 slug: tahvil-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - dönüştürmek

@@ -2,6 +2,7 @@
 layout: term
 title: tükeniş
 slug: tukenis
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tükenmek işi

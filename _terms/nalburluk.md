@@ -2,6 +2,7 @@
 layout: term
 title: nalburluk
 slug: nalburluk
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nalbur olma durumu

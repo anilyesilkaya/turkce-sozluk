@@ -2,6 +2,7 @@
 layout: term
 title: neler de neler, maydanozlu köfteler
 slug: neler-de-neler-maydanozlu-kofteler
+letter: N
 lisan: Türkçe
 anlamlar:
 - '"akla gelmedik şaşılacak şeyler" anlamında kullanılan bir söz'

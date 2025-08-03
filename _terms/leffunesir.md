@@ -2,6 +2,7 @@
 layout: term
 title: leffüneşir
 slug: leffunesir
+letter: L
 lisan: Arapça leff + neşr
 anlamlar:
 - Birkaç adı bir sözün başında söyledikten sonra bunların sıfat veya fiillerini daha aşağıda sıralama

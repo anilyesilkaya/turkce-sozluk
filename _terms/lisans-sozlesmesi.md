@@ -2,6 +2,7 @@
 layout: term
 title: lisans sözleşmesi
 slug: lisans-sozlesmesi
+letter: L
 lisan: Türkçe
 anlamlar:
 - Firmanın, geliştirdiği teknolojiyi başkalarının kullanabilmesi için verdiği izin belgesi

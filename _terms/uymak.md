@@ -2,6 +2,7 @@
 layout: term
 title: uymak
 slug: uymak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ölçüleri birbirini tutmak

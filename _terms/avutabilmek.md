@@ -2,6 +2,7 @@
 layout: term
 title: avutabilmek
 slug: avutabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Avutma ihtimali veya imkânı bulunmak

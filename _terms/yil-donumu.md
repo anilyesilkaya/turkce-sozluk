@@ -2,6 +2,7 @@
 layout: term
 title: yıl dönümü
 slug: yil-donumu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Herhangi bir olayın üzerinden bir yıl geçtikten sonra yeni bir yılın başladığı gün; seneidevriye

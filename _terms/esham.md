@@ -2,6 +2,7 @@
 layout: term
 title: esham
 slug: esham
+letter: E
 lisan: Arapça eshām
 anlamlar:
 - Paylar

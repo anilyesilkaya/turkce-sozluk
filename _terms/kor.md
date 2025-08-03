@@ -2,6 +2,7 @@
 layout: term
 title: kor
 slug: kor
+letter: K
 lisan: Türkçe
 anlamlar:
 - İyice yanarak ateş durumuna gelmiş kömür veya odun parçası

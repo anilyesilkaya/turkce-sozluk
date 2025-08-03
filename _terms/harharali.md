@@ -2,6 +2,7 @@
 layout: term
 title: harharalı
 slug: harharali
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► horultulu

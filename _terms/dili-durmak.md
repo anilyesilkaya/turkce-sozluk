@@ -2,6 +2,7 @@
 layout: term
 title: dili durmak
 slug: dili-durmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - susmak, dedikodu etmemek

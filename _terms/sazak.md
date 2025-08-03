@@ -2,6 +2,7 @@
 layout: term
 title: sazak
 slug: sazak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kuvvetli esen rüzgâr

@@ -2,6 +2,7 @@
 layout: term
 title: nefeslenmek
 slug: nefeslenmek
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nefes alacak kadar duraklamak, biraz dinlenmek

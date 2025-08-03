@@ -2,6 +2,7 @@
 layout: term
 title: cuşuhuruş
 slug: cusuhurus
+letter: C
 lisan: Farsça cūş + ḫurūş
 anlamlar:
 - ► coşkunluk

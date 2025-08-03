@@ -2,6 +2,7 @@
 layout: term
 title: kaldırım kabadayısı
 slug: kaldirim-kabadayisi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Basit, seviyesiz veya ucuz kahramanlık gösterisinde bulunan kimse

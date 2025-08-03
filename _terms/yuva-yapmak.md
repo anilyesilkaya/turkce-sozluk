@@ -2,6 +2,7 @@
 layout: term
 title: yuva yapmak
 slug: yuva-yapmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yuva hazırlamak, yuva oluşturmak

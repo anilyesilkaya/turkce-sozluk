@@ -2,6 +2,7 @@
 layout: term
 title: teferruat
 slug: teferruat
+letter: T
 lisan: Arapça teferruʿāt
 anlamlar:
 - ► ayrıntı

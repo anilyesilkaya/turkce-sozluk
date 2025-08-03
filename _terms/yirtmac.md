@@ -2,6 +2,7 @@
 layout: term
 title: yırtmaç
 slug: yirtmac
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Çoğunlukla etek, paça veya kol yeninde, dikilmemiş uzunca açıklık

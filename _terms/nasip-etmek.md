@@ -2,6 +2,7 @@
 layout: term
 title: nasip etmek
 slug: nasip-etmek
+letter: N
 lisan: Türkçe
 anlamlar:
 - fırsat vermek

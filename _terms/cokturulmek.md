@@ -2,6 +2,7 @@
 layout: term
 title: çöktürülmek
 slug: cokturulmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çökmesi sağlanmak

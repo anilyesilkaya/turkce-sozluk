@@ -2,6 +2,7 @@
 layout: term
 title: alışkınlık
 slug: aliskinlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► alışkanlık

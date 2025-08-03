@@ -2,6 +2,7 @@
 layout: term
 title: maymunlaşmak
 slug: maymunlasmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - Maymuna benzemek, maymun gibi davranmak

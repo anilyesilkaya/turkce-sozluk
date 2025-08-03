@@ -2,6 +2,7 @@
 layout: term
 title: fikir vermek
 slug: fikir-vermek
+letter: F
 lisan: Türkçe
 anlamlar:
 - düşüncesini bildirmek

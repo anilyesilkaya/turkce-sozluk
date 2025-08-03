@@ -2,6 +2,7 @@
 layout: term
 title: vize sınavı
 slug: vize-sinavi
+letter: V
 lisan: Türkçe
 anlamlar:
 - ► ara sınav

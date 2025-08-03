@@ -2,6 +2,7 @@
 layout: term
 title: canı sağ olsun!
 slug: cani-sag-olsun
+letter: C
 lisan: Türkçe
 anlamlar:
 - üzülmeye gerek olmadığının karşı tarafa bildirilmesi için kullanılan iyi dilek sözü

@@ -2,6 +2,7 @@
 layout: term
 title: 'makamlı makamlı '
 slug: makamli-makamli
+letter: M
 lisan: Türkçe
 anlamlar:
 - Belli bir makamda, ahenkli biçimde

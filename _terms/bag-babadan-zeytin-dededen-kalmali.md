@@ -2,6 +2,7 @@
 layout: term
 title: bağ babadan, zeytin dededen kalmalı
 slug: bag-babadan-zeytin-dededen-kalmali
+letter: B
 lisan: Türkçe
 anlamlar:
 - '"bağ, bir kuşak geçecek kadar yaşlandıktan sonra bol ürün verir, zeytinin bol ürün verebilmesi için en azından iki kuşaklık bir zaman geçmelidir" anlamında kullanılan bir söz'

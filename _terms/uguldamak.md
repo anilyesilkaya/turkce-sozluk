@@ -2,6 +2,7 @@
 layout: term
 title: uğuldamak
 slug: uguldamak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Sürekli gürültülü, boğuk ve anlaşılmaz ses çıkmak

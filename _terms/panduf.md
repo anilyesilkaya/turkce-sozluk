@@ -2,6 +2,7 @@
 layout: term
 title: 'panduf '
 slug: panduf
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► pantufla

@@ -2,6 +2,7 @@
 layout: term
 title: ekmeğini yemek
 slug: ekmegini-yemek
+letter: E
 lisan: Türkçe
 anlamlar:
 - birisinin işinde çalışarak kendi geçimini sağlamak

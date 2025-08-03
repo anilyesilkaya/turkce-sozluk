@@ -2,6 +2,7 @@
 layout: term
 title: depreşivermek
 slug: depresivermek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çabucak nüks etmek

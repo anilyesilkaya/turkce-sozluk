@@ -2,6 +2,7 @@
 layout: term
 title: elmabaş
 slug: elmabas
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► tepeli dalgıç

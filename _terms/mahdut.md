@@ -2,6 +2,7 @@
 layout: term
 title: mahdut
 slug: mahdut
+letter: M
 lisan: Arapça maḥdūd
 anlamlar:
 - Çevrilmiş, sınırlanmış

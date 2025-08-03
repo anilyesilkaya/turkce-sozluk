@@ -2,6 +2,7 @@
 layout: term
 title: duraklama
 slug: duraklama
+letter: D
 lisan: Türkçe
 anlamlar:
 - Duraklamak işi; duralama

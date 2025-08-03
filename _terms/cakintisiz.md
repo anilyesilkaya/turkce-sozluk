@@ -2,6 +2,7 @@
 layout: term
 title: çakıntısız
 slug: cakintisiz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çakıntısı olmayan

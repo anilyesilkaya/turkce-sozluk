@@ -2,6 +2,7 @@
 layout: term
 title: gayrikanunilik
 slug: gayrikanunilik
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► yasa dışılık

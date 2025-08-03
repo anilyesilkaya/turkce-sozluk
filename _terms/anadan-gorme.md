@@ -2,6 +2,7 @@
 layout: term
 title: anadan görme
 slug: anadan-gorme
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► geleneksel

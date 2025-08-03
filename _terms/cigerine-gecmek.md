@@ -2,6 +2,7 @@
 layout: term
 title: ciğerine geçmek
 slug: cigerine-gecmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - soğuk ve rutubet içine işlemek

@@ -2,6 +2,7 @@
 layout: term
 title: inhisar etmek
 slug: inhisar-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - yalnız ... üzerine olmak, yalnız ... için olmak, -den dışarı çıkmamak, bir şeyle sınırlanmak

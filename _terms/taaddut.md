@@ -2,6 +2,7 @@
 layout: term
 title: taaddüt
 slug: taaddut
+letter: T
 lisan: Arapça taʿaddud
 anlamlar:
 - Çoğalma, sayısı artma

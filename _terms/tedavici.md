@@ -2,6 +2,7 @@
 layout: term
 title: tedavici
 slug: tedavici
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tedavi eden kimse; sağaltıcı, terapist

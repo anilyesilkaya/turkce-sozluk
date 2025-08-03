@@ -2,6 +2,7 @@
 layout: term
 title: tatsız tuzsuz
 slug: tatsiz-tuzsuz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Yavan, lezzetsiz olan

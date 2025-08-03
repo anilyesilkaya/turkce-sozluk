@@ -2,6 +2,7 @@
 layout: term
 title: buralı
 slug: burali
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bu memleketli, bu yerin halkından olan kimse

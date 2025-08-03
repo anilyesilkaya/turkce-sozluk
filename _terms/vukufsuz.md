@@ -2,6 +2,7 @@
 layout: term
 title: vukufsuz
 slug: vukufsuz
+letter: V
 lisan: Türkçe
 anlamlar:
 - ► bilgisiz

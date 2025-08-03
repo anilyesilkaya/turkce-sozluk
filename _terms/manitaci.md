@@ -2,6 +2,7 @@
 layout: term
 title: manitacı
 slug: manitaci
+letter: M
 lisan: Türkçe
 anlamlar:
 - Manitacılıkla para sızdıran dolandırıcı

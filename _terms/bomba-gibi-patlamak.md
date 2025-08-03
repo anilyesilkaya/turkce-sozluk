@@ -2,6 +2,7 @@
 layout: term
 title: bomba gibi patlamak
 slug: bomba-gibi-patlamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - öfkelenerek birdenbire ve yüksek sesle bağırıp çağırmak

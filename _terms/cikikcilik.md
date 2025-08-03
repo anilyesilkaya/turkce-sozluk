@@ -2,6 +2,7 @@
 layout: term
 title: çıkıkçılık
 slug: cikikcilik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıkıkçının yaptığı iş

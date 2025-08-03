@@ -2,6 +2,7 @@
 layout: term
 title: karşıt
 slug: karsit
+letter: K
 lisan: Türkçe
 anlamlar:
 - Nitelik ve durumları birbirine tam olarak aykırı olan; aksi, ters (I), zıt, kontrast

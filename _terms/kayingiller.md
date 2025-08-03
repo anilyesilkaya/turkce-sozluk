@@ -2,6 +2,7 @@
 layout: term
 title: kayıngiller
 slug: kayingiller
+letter: K
 lisan: Türkçe
 anlamlar:
 - İki çeneklilerden, palamut diye adlandırılan, meyveleri yüksüksü bir kadehçik içinde duran, kayın, meşe, kestane vb. kerestelik orman ağaçlarını içine alan bir familya; palamutlular

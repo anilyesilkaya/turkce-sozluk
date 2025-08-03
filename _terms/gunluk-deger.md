@@ -2,6 +2,7 @@
 layout: term
 title: günlük değer
 slug: gunluk-deger
+letter: G
 lisan: Türkçe
 anlamlar:
 - Beslenmede alınan gıdanın bir gün içindeki kullanımına ilişkin ölçü

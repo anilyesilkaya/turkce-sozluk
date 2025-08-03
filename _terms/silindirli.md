@@ -2,6 +2,7 @@
 layout: term
 title: silindirli
 slug: silindirli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Herhangi bir sayıda silindiri olan

@@ -2,6 +2,7 @@
 layout: term
 title: biçarelik
 slug: bicarelik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► çaresizlik

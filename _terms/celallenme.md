@@ -2,6 +2,7 @@
 layout: term
 title: celallenme
 slug: celallenme
+letter: C
 lisan: Türkçe
 anlamlar:
 - Celallenmek işi

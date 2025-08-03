@@ -2,6 +2,7 @@
 layout: term
 title: tereddütlü
 slug: tereddutlu
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► duraksamalı

@@ -2,6 +2,7 @@
 layout: term
 title: akılcı
 slug: akilci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Akılcılıktan yana olan (kimse); usçu, akliyeci, rasyonalist

@@ -2,6 +2,7 @@
 layout: term
 title: kaşalot
 slug: kasalot
+letter: K
 lisan: Fransızca cachalot
 anlamlar:
 - ► ispermeçet balinası

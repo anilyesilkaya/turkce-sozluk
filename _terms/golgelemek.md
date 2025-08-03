@@ -2,6 +2,7 @@
 layout: term
 title: gölgelemek
 slug: golgelemek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gölgeli duruma getirmek

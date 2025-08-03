@@ -2,6 +2,7 @@
 layout: term
 title: vahim
 slug: vahim
+letter: V
 lisan: Arapça vaḫīm
 anlamlar:
 - Ağır, korkulu, çok tehlikeli; vahametli

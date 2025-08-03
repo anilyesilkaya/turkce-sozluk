@@ -2,6 +2,7 @@
 layout: term
 title: deli saçması
 slug: deli-sacmasi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Anlamsız, tutarsız, delice söylenmiş söz

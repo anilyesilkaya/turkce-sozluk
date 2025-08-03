@@ -2,6 +2,7 @@
 layout: term
 title: bayi
 slug: bayi
+letter: B
 lisan: Arapça bāyiʿ
 anlamlar:
 - Herhangi bir ürünü ana firma adına satma yetkisi olan kimse, dükkân veya kuruluş

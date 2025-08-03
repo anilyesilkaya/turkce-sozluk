@@ -2,6 +2,7 @@
 layout: term
 title: fersah
 slug: fersah
+letter: F
 lisan: Arapça fersaḫ
 anlamlar:
 - Yaklaşık 5 kilometrelik bir uzaklık ölçüsü

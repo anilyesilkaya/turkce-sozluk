@@ -2,6 +2,7 @@
 layout: term
 title: isteri
 slug: isteri
+letter: I
 lisan: Fransızca hystérie
 anlamlar:
 - ► histeri

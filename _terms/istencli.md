@@ -2,6 +2,7 @@
 layout: term
 title: istençli
 slug: istencli
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► iradeli

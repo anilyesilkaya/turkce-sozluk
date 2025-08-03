@@ -2,6 +2,7 @@
 layout: term
 title: gedik açılmak
 slug: gedik-acilmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - giderilmesi çok güç bir eksiklik veya açık ortaya çıkmak

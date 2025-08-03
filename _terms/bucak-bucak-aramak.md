@@ -2,6 +2,7 @@
 layout: term
 title: bucak bucak aramak
 slug: bucak-bucak-aramak
+letter: B
 lisan: Türkçe
 anlamlar:
 - her yerde aramak

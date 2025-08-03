@@ -2,6 +2,7 @@
 layout: term
 title: yaşanılabilmek
 slug: yasanilabilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaşanılma ihtimali veya imkânı bulunmak

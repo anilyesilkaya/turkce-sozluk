@@ -2,6 +2,7 @@
 layout: term
 title: nedensiz
 slug: nedensiz
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► sebepsiz

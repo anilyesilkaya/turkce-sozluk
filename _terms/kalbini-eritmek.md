@@ -2,6 +2,7 @@
 layout: term
 title: kalbini eritmek
 slug: kalbini-eritmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - kabalığını, katılığını, sertliğini veya acımasızlığını ortadan kaldırmak, acımasını sağlamak, yumuşatmak

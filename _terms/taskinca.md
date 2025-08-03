@@ -2,6 +2,7 @@
 layout: term
 title: taşkınca
 slug: taskinca
+letter: T
 lisan: Türkçe
 anlamlar:
 - Biraz taşkın

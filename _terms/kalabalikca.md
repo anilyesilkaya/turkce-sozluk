@@ -2,6 +2,7 @@
 layout: term
 title: kalabalıkça
 slug: kalabalikca
+letter: K
 lisan: Türkçe
 anlamlar:
 - Biraz kalabalık

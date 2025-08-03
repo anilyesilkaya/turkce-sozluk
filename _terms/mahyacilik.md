@@ -2,6 +2,7 @@
 layout: term
 title: mahyacılık
 slug: mahyacilik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mahya yapma işi

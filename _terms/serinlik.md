@@ -2,6 +2,7 @@
 layout: term
 title: serinlik
 slug: serinlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Serin olma durumu

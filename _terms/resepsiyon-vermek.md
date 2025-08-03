@@ -2,6 +2,7 @@
 layout: term
 title: resepsiyon vermek
 slug: resepsiyon-vermek
+letter: R
 lisan: Türkçe
 anlamlar:
 - resmî makam sahipleri tarafından konukları ağırlamak için özel günlerde tören düzenlemek

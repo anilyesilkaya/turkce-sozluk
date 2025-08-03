@@ -2,6 +2,7 @@
 layout: term
 title: şakirt
 slug: sakirt
+letter: Ş
 lisan: Farsça şāgird
 anlamlar:
 - ► öğrenci

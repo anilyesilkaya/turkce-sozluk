@@ -2,6 +2,7 @@
 layout: term
 title: sulhperver
 slug: sulhperver
+letter: S
 lisan: Arapça ṣulḥ + Farsça -perver
 anlamlar:
 - ► barışsever

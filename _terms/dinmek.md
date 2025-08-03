@@ -2,6 +2,7 @@
 layout: term
 title: dinmek
 slug: dinmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Sona ermek, bitmek, durmak

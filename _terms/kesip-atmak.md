@@ -2,6 +2,7 @@
 layout: term
 title: kesip atmak
 slug: kesip-atmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - uzun uzadıya düşünmeden kesin yargıya varmak

@@ -2,6 +2,7 @@
 layout: term
 title: mütehakkim
 slug: mutehakkim
+letter: M
 lisan: Arapça muteḥakkim
 anlamlar:
 - Hâkim olan, hükmeden

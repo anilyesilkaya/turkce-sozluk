@@ -2,6 +2,7 @@
 layout: term
 title: ibdai
 slug: ibdai
+letter: I
 lisan: Arapça ibdāʿī
 anlamlar:
 - ► özgün

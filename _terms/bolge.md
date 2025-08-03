@@ -2,6 +2,7 @@
 layout: term
 title: bölge
 slug: bolge
+letter: B
 lisan: Türkçe
 anlamlar:
 - Sınırları idari, ekonomik birliğe, toprak, iklim ve bitki özelliklerinin benzerliğine veya üzerinde yaşayan insanların aynı soydan gelmiş olmalarına göre belirlenen toprak parçası; havza, mıntıka, zon

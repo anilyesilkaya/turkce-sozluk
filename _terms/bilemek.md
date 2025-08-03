@@ -2,6 +2,7 @@
 layout: term
 title: bilemek
 slug: bilemek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kesici aletlerin ağzını çark, zımpara, eğe, bileği taşı vb.ni kullanarak keskinleştirmek, keskin duruma getirmek; bileğilemek, bileylemek

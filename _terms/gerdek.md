@@ -2,6 +2,7 @@
 layout: term
 title: gerdek
 slug: gerdek
+letter: G
 lisan: Farsça girdek
 anlamlar:
 - Gelin ve damadın düğün gecesi baş başa kalmaları ve ilk kez birlikte olmaları; zifaf

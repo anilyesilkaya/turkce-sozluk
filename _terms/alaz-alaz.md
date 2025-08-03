@@ -2,6 +2,7 @@
 layout: term
 title: alaz alaz
 slug: alaz-alaz
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► alev alev

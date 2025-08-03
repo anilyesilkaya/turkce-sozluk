@@ -2,6 +2,7 @@
 layout: term
 title: son nefesini vermek
 slug: son-nefesini-vermek
+letter: S
 lisan: Türkçe
 anlamlar:
 - ölmek

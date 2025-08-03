@@ -2,6 +2,7 @@
 layout: term
 title: iyileştirme
 slug: iyilestirme
+letter: I
 lisan: Türkçe
 anlamlar:
 - İyileştirmek işi; ıslah

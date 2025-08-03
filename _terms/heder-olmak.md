@@ -2,6 +2,7 @@
 layout: term
 title: heder olmak
 slug: heder-olmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - boşa gitmek, boşuna geçmek

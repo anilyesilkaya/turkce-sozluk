@@ -2,6 +2,7 @@
 layout: term
 title: bağışlatabilmek
 slug: bagislatabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağışlatma ihtimali veya imkânı bulunmak; affettirebilmek

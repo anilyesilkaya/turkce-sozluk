@@ -2,6 +2,7 @@
 layout: term
 title: uyaroğlu
 slug: uyaroglu
+letter: U
 lisan: Türkçe
 anlamlar:
 - Bulunduğu ortama ve koşullara kolaylıkla uyum sağlayan kimse

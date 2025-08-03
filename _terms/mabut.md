@@ -2,6 +2,7 @@
 layout: term
 title: mabut
 slug: mabut
+letter: M
 lisan: Arapça maʿbūd
 anlamlar:
 - Tanrılaştırılıp tapılan varlık, kuvvet veya nesne

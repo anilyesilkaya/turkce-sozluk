@@ -2,6 +2,7 @@
 layout: term
 title: tanılama
 slug: tanilama
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tanılamak işi

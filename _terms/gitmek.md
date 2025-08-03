@@ -2,6 +2,7 @@
 layout: term
 title: gitmek
 slug: gitmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bir yere doğru yönelmek; gidedurmak, uzanmak

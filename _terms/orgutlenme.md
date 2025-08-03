@@ -2,6 +2,7 @@
 layout: term
 title: örgütlenme
 slug: orgutlenme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Örgütlenmek işi; teşkilatlanma

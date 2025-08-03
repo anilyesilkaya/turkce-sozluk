@@ -2,6 +2,7 @@
 layout: term
 title: sıla hastalığı
 slug: sila-hastaligi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Memlekete, aile ve akrabalara duyulan aşırı özlem

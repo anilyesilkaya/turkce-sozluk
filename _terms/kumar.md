@@ -2,6 +2,7 @@
 layout: term
 title: kumar
 slug: kumar
+letter: K
 lisan: Arapça ḳimār
 anlamlar:
 - Ortaya para koyarak oynanan talih oyunu; oyun, keriz (I)

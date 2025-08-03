@@ -2,6 +2,7 @@
 layout: term
 title: kurcalayış
 slug: kurcalayis
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kurcalama işi

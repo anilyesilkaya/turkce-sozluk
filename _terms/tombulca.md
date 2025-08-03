@@ -2,6 +2,7 @@
 layout: term
 title: tombulca
 slug: tombulca
+letter: T
 lisan: Türkçe
 anlamlar:
 - Biraz tombul

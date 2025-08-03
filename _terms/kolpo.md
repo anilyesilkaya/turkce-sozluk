@@ -2,6 +2,7 @@
 layout: term
 title: kolpo
 slug: kolpo
+letter: K
 lisan: Rumca
 anlamlar:
 - Bilardo oyununda vuruş

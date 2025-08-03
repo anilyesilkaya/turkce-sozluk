@@ -2,6 +2,7 @@
 layout: term
 title: elhamdülillah
 slug: elhamdulillah
+letter: E
 lisan: Arapça elḥamdulillah
 anlamlar:
 - '"Allah''a şükür" anlamında kullanılan bir söz'

@@ -2,6 +2,7 @@
 layout: term
 title: acyocu
 slug: acyocu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Borsa veya piyasada tahvil için çeşitli hileler uygulayan, dolaplar çeviren kimse

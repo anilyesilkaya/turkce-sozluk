@@ -2,6 +2,7 @@
 layout: term
 title: zenginleştirmek
 slug: zenginlestirmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zengin duruma getirmek, zenginleşmesini sağlamak

@@ -2,6 +2,7 @@
 layout: term
 title: acele ile menzil alınmaz
 slug: acele-ile-menzil-alinmaz
+letter: A
 lisan: Türkçe
 anlamlar:
 - '"ivmekle daha çabuk sonuç alınır sanılmamalıdır" anlamında kullanılan bir söz'

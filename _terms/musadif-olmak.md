@@ -2,6 +2,7 @@
 layout: term
 title: müsadif olmak
 slug: musadif-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - rastlamak

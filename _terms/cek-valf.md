@@ -2,6 +2,7 @@
 layout: term
 title: çek valf
 slug: cek-valf
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Depodaki suyun geri kaçmasını önlemek için kullanılan araç; çek vana

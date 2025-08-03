@@ -2,6 +2,7 @@
 layout: term
 title: ihtiyaçlı
 slug: ihtiyacli
+letter: I
 lisan: Türkçe
 anlamlar:
 - İhtiyacı olan

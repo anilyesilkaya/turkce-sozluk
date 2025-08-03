@@ -2,6 +2,7 @@
 layout: term
 title: onunki
 slug: onunki
+letter: O
 lisan: Türkçe
 anlamlar:
 - Onun olan, onunla ilgili olan

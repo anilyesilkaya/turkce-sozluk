@@ -2,6 +2,7 @@
 layout: term
 title: olanaklı
 slug: olanakli
+letter: O
 lisan: Türkçe
 anlamlar:
 - Olma ihtimali bulunan; kabil

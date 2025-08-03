@@ -2,6 +2,7 @@
 layout: term
 title: öbeklenmek
 slug: obeklenmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öbek durumuna gelmek, öbek öbek olmak

@@ -2,6 +2,7 @@
 layout: term
 title: komalık olmak
 slug: komalik-olmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - yediği dayaktan sonra kıpırdayamayacak duruma gelmek

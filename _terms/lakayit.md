@@ -2,6 +2,7 @@
 layout: term
 title: lakayıt
 slug: lakayit
+letter: L
 lisan: Arapça lāḳayd
 anlamlar:
 - ► ilgisiz

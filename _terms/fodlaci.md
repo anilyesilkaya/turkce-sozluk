@@ -2,6 +2,7 @@
 layout: term
 title: fodlacı
 slug: fodlaci
+letter: F
 lisan: Türkçe
 anlamlar:
 - Evlere fodla dağıtan kimse

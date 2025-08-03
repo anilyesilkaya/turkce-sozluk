@@ -2,6 +2,7 @@
 layout: term
 title: çöp
 slug: cop
+letter: Ç
 lisan: Farsça çūb
 anlamlar:
 - Saman inceliğinde herhangi bir sap, dal veya tahta parçası

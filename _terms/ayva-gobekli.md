@@ -2,6 +2,7 @@
 layout: term
 title: ayva göbekli
 slug: ayva-gobekli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Biraz tombul, göbeği çukur olan (kimse)

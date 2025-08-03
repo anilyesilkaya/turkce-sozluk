@@ -2,6 +2,7 @@
 layout: term
 title: nezaketsiz
 slug: nezaketsiz
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nazik olmayan

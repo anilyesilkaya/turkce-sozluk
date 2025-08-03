@@ -2,6 +2,7 @@
 layout: term
 title: yuva
 slug: yuva
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Kuşların ve başka hayvanların barınmak, yumurtlamak, kuluçkaya yatmak, yavrularını büyütmek veya yavrulamak için türlü şeylerden yaptıkları ve türlü biçimlerde hazırladıkları barınak

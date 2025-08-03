@@ -2,6 +2,7 @@
 layout: term
 title: Allah vergisi
 slug: allah-vergisi
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► Tanrı vergisi

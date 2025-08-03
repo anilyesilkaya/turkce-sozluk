@@ -2,6 +2,7 @@
 layout: term
 title: çalkantılı
 slug: calkantili
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çalkantısı olan

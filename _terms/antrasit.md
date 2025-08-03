@@ -2,6 +2,7 @@
 layout: term
 title: antrasit
 slug: antrasit
+letter: A
 lisan: Fransızca anthracite
 anlamlar:
 - Güçlükle tutuşan, koku, duman çıkarmadan büyük bir ısı vererek yanan bir taş kömürü türü

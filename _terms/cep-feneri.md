@@ -2,6 +2,7 @@
 layout: term
 title: cep feneri
 slug: cep-feneri
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cepte taşınabilen, pilli, küçük fener

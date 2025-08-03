@@ -2,6 +2,7 @@
 layout: term
 title: sezmek
 slug: sezmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Açık bir kanıt olmaksızın, olmuş veya olacak bir şeyi anlamak

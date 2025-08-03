@@ -2,6 +2,7 @@
 layout: term
 title: reçete gibi
 slug: recete-gibi
+letter: R
 lisan: Türkçe
 anlamlar:
 - okunaksız (yazı)

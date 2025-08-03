@@ -2,6 +2,7 @@
 layout: term
 title: esir yatmak
 slug: esir-yatmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - savaşta düşman eline düşüp uzun süre tutsak kalmak, esarette kalmak

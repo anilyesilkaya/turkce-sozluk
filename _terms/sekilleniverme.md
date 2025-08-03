@@ -2,6 +2,7 @@
 layout: term
 title: şekilleniverme
 slug: sekilleniverme
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► biçimleniverme

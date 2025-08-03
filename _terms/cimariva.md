@@ -2,6 +2,7 @@
 layout: term
 title: çımariva
 slug: cimariva
+letter: Ç
 lisan: İtalyanca ciama arriva
 anlamlar:
 - Savaş gemilerinde askerî personelin selamlama töreni için küpeşte boyunca belirli aralıklarla dizilmesi için verilen komut

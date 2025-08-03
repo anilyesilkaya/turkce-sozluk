@@ -2,6 +2,7 @@
 layout: term
 title: ferik
 slug: ferik
+letter: F
 lisan: Türkçe
 anlamlar:
 - Kümes hayvanlarının civcivlikten çıkmış yavrusu; piliç

@@ -2,6 +2,7 @@
 layout: term
 title: kısa yoldan
 slug: kisa-yoldan
+letter: K
 lisan: Türkçe
 anlamlar:
 - Uzatmadan, süreyi geçirmeden

@@ -2,6 +2,7 @@
 layout: term
 title: doyurabilmek
 slug: doyurabilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Doyurma ihtimali veya imkânı bulunmak

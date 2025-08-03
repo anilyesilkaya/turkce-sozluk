@@ -2,6 +2,7 @@
 layout: term
 title: zarf
 slug: zarf
+letter: Z
 lisan: Arapça ẓarf
 anlamlar:
 - İçine mektup veya başka kâğıtlar konulan kâğıttan kese

@@ -2,6 +2,7 @@
 layout: term
 title: alçalabilmek
 slug: alcalabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alçalma eğilimi veya ihtimali bulunmak

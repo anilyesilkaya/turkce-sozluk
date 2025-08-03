@@ -2,6 +2,7 @@
 layout: term
 title: hurdacı
 slug: hurdaci
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hurda alıp satan kimse

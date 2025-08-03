@@ -2,6 +2,7 @@
 layout: term
 title: ojeli
 slug: ojeli
+letter: O
 lisan: Türkçe
 anlamlar:
 - İçinde oje bulunan (şişe vb.)

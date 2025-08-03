@@ -2,6 +2,7 @@
 layout: term
 title: bulutlanmak
 slug: bulutlanmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bulutlarla kaplanmak

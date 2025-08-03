@@ -2,6 +2,7 @@
 layout: term
 title: yaya bırakmak
 slug: yaya-birakmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yarışma söz konusu olan durumlarda geride bırakmak

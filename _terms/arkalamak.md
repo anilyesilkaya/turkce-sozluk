@@ -2,6 +2,7 @@
 layout: term
 title: arkalamak
 slug: arkalamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► sırtlamak

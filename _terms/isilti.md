@@ -2,6 +2,7 @@
 layout: term
 title: ışıltı
 slug: isilti
+letter: I
 lisan: Türkçe
 anlamlar:
 - Hafif ışık

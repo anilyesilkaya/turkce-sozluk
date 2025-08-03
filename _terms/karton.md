@@ -2,6 +2,7 @@
 layout: term
 title: karton
 slug: karton
+letter: K
 lisan: Fransızca carton
 anlamlar:
 - Kâğıt hamuruyla yapılan, ayrıca içinde bir veya birkaç lif tabakası bulunan kalın ve sert kâğıt

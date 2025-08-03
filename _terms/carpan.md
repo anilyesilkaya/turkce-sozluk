@@ -2,6 +2,7 @@
 layout: term
 title: çarpan
 slug: carpan
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir çarpma işleminde çarpılan sayının kaç kez tekrarlanacağını gösteren sayı; çoğaltan

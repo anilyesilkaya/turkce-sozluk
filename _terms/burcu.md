@@ -2,6 +2,7 @@
 layout: term
 title: burcu
 slug: burcu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Güzel koku

@@ -2,6 +2,7 @@
 layout: term
 title: zombileşme
 slug: zombilesme
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zombileşmek durumu

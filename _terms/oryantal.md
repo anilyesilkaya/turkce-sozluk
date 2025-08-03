@@ -2,6 +2,7 @@
 layout: term
 title: oryantal
 slug: oryantal
+letter: O
 lisan: Fransızca orientale
 anlamlar:
 - Doğu medeniyeti ile ilgili, Doğu medeniyetini hatırlatan

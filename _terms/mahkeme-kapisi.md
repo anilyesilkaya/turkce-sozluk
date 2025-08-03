@@ -2,6 +2,7 @@
 layout: term
 title: mahkeme kapısı
 slug: mahkeme-kapisi
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► mahkeme

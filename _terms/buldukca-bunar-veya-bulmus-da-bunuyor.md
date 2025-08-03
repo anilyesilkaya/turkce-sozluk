@@ -2,6 +2,7 @@
 layout: term
 title: buldukça bunar (veya bulmuş da bunuyor)
 slug: buldukca-bunar-veya-bulmus-da-bunuyor
+letter: B
 lisan: Türkçe
 anlamlar:
 - '"bulduğuyla yetinmiyor da daha çoğunu istiyor" anlamında kullanılan bir söz'

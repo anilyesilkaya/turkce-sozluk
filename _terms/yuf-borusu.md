@@ -2,6 +2,7 @@
 layout: term
 title: yuf borusu
 slug: yuf-borusu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Boynuzdan yapılan bir boru türü; nefir

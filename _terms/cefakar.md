@@ -2,6 +2,7 @@
 layout: term
 title: cefakâr
 slug: cefakar
+letter: C
 lisan: Arapça cefā + Farsça -kār
 anlamlar:
 - Eziyet eden, eziyet veren

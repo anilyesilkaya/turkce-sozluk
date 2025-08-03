@@ -2,6 +2,7 @@
 layout: term
 title: pıstırmak
 slug: pistirmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► sindirmek

@@ -2,6 +2,7 @@
 layout: term
 title: karmakarışık
 slug: karmakarisik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Dağınık, düzensiz, çok karışık; karmakarış, müşevveş

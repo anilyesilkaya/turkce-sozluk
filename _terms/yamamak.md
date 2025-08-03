@@ -2,6 +2,7 @@
 layout: term
 title: yamamak
 slug: yamamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yama koyarak onarmak

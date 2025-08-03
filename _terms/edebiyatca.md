@@ -2,6 +2,7 @@
 layout: term
 title: edebiyatça
 slug: edebiyatca
+letter: E
 lisan: Türkçe
 anlamlar:
 - Edebiyata uygun, edebiyata benzer

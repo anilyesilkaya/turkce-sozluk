@@ -2,6 +2,7 @@
 layout: term
 title: hipodrom
 slug: hipodrom
+letter: H
 lisan: Fransızca hippodrome
 anlamlar:
 - At yarışları yapılan alan, koşu alanı

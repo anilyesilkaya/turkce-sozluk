@@ -2,6 +2,7 @@
 layout: term
 title: Ankaralı
 slug: ankarali
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ankara ilinden olan kimse

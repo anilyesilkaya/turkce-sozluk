@@ -2,6 +2,7 @@
 layout: term
 title: vasl
 slug: vasl
+letter: V
 lisan: Arapça vaṣl
 anlamlar:
 - ► kavuşma

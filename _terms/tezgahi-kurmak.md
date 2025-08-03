@@ -2,6 +2,7 @@
 layout: term
 title: tezgâhı kurmak
 slug: tezgahi-kurmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - işe başlamak üzere çalışma araçlarını hazırlamak, çalışmaya başlamak

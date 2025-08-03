@@ -2,6 +2,7 @@
 layout: term
 title: addolunma
 slug: addolunma
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► sayılma

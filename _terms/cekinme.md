@@ -2,6 +2,7 @@
 layout: term
 title: çekinme
 slug: cekinme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çekinmek işi; ihtiraz, imtina, taharrüs

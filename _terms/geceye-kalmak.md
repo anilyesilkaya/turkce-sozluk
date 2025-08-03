@@ -2,6 +2,7 @@
 layout: term
 title: geceye kalmak
 slug: geceye-kalmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - gecenin geç saatlerine kadar kalmak

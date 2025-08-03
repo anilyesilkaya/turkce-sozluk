@@ -2,6 +2,7 @@
 layout: term
 title: başaklama
 slug: basaklama
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başaklamak işi

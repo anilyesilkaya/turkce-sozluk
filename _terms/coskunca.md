@@ -2,6 +2,7 @@
 layout: term
 title: coşkunca
 slug: coskunca
+letter: C
 lisan: Türkçe
 anlamlar:
 - Coşkun bir biçimde

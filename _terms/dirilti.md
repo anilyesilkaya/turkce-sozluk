@@ -2,6 +2,7 @@
 layout: term
 title: dırıltı
 slug: dirilti
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► dırdır

@@ -2,6 +2,7 @@
 layout: term
 title: kuruntulu
 slug: kuruntulu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kuruntusu olan (kimse); kuruntucu, evhamlı, vehimli, vesveseci, vesveseli, mütevehhim, müvesvis

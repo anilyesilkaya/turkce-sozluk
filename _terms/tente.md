@@ -2,6 +2,7 @@
 layout: term
 title: tente
 slug: tente
+letter: T
 lisan: İtalyanca tenda
 anlamlar:
 - Genellikle güneşten korunmak için bir yerin üzerine gerilen bez, naylon vb.nden yapılmış örtü

@@ -2,6 +2,7 @@
 layout: term
 title: partici
 slug: partici
+letter: P
 lisan: Türkçe
 anlamlar:
 - Parti üyesi; fırkacı

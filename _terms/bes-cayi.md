@@ -2,6 +2,7 @@
 layout: term
 title: beş çayı
 slug: bes-cayi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Akşamüstü kek, kurabiye, sandviç vb. ile birlikte içilen çay

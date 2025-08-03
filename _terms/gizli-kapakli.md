@@ -2,6 +2,7 @@
 layout: term
 title: gizli kapaklı
 slug: gizli-kapakli
+letter: G
 lisan: Türkçe
 anlamlar:
 - Başkalarına duyurulmayan, kimseye haber verilmeyerek yapılan (iş)

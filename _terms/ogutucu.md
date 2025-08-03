@@ -2,6 +2,7 @@
 layout: term
 title: öğütücü
 slug: ogutucu
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öğütme özelliği olan

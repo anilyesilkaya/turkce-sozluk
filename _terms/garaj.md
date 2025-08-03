@@ -2,6 +2,7 @@
 layout: term
 title: garaj
 slug: garaj
+letter: G
 lisan: Fransızca garage
 anlamlar:
 - Otomobil vb. taşıtların konulduğu üstü örtülü yer; arabalık

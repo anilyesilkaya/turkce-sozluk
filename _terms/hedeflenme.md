@@ -2,6 +2,7 @@
 layout: term
 title: hedeflenme
 slug: hedeflenme
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hedeflenmek durumu

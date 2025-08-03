@@ -2,6 +2,7 @@
 layout: term
 title: dergilik
 slug: dergilik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Genel ağda zengin dergi seçenekleri sunan dergi okuma platformu

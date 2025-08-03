@@ -2,6 +2,7 @@
 layout: term
 title: tavuk ayağı yemek
 slug: tavuk-ayagi-yemek
+letter: T
 lisan: Türkçe
 anlamlar:
 - gevezelik etmek, dedikodu yapmak

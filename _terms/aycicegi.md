@@ -2,6 +2,7 @@
 layout: term
 title: ayçiçeği
 slug: aycicegi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Birleşikgillerden, sarı renkli çiçeği çok iri olan, yurdumuzda çok yetiştirilen bir bitki; gün çiçeği, günebakan, gündöndü, günâşık (Helianthus annuus)

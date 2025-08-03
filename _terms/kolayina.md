@@ -2,6 +2,7 @@
 layout: term
 title: kolayına
 slug: kolayina
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kolaylıkla

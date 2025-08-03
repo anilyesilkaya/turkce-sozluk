@@ -2,6 +2,7 @@
 layout: term
 title: kozasına çekilmek
 slug: kozasina-cekilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - çevreyle ilişkisini kesmek, hiçbir şeye karışmamak

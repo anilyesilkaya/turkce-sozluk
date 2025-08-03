@@ -2,6 +2,7 @@
 layout: term
 title: alinazik
 slug: alinazik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Közlenmiş patlıcan, sarımsaklı yoğurt ve kıyma ile yapılan bir yemek türü

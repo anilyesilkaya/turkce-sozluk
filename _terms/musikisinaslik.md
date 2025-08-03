@@ -2,6 +2,7 @@
 layout: term
 title: musikişinaslık
 slug: musikisinaslik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Musikişinas olma durumu

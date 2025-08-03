@@ -2,6 +2,7 @@
 layout: term
 title: dangalakça
 slug: dangalakca
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dangalağa yakışır

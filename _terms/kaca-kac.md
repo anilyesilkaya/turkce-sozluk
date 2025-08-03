@@ -2,6 +2,7 @@
 layout: term
 title: kaça kaç
 slug: kaca-kac
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kaç kaç

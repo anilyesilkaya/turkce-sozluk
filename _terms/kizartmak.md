@@ -2,6 +2,7 @@
 layout: term
 title: kızartmak
 slug: kizartmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kızarmasına neden olmak

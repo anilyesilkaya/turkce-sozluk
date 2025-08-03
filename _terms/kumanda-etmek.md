@@ -2,6 +2,7 @@
 layout: term
 title: kumanda etmek
 slug: kumanda-etmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - komut vermek

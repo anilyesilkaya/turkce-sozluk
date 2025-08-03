@@ -2,6 +2,7 @@
 layout: term
 title: dumağı
 slug: dumagi
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► nezle

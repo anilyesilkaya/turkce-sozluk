@@ -2,6 +2,7 @@
 layout: term
 title: tutunacak bir dal aramak
 slug: tutunacak-bir-dal-aramak
+letter: T
 lisan: Türkçe
 anlamlar:
 - güvenilecek, dayanılacak bir insana ihtiyaç duymak

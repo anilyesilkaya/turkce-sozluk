@@ -2,6 +2,7 @@
 layout: term
 title: burnundan (fitil fitil) gelmek
 slug: burnundan-fitil-fitil-gelmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - elde ettiği güzel şey, sonradan gelen üzüntüler üzerine kendisine zehir olmak

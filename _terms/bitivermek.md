@@ -2,6 +2,7 @@
 layout: term
 title: bitivermek
 slug: bitivermek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çabucak bitmek

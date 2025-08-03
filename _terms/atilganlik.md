@@ -2,6 +2,7 @@
 layout: term
 title: atılganlık
 slug: atilganlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Atılgan olma durumu; cesaret

@@ -2,6 +2,7 @@
 layout: term
 title: anlama
 slug: anlama
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anlamak işi; anlamaklık, kavrama, derk, fehim, intikal, tefehhüm, vukuf

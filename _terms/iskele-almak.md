@@ -2,6 +2,7 @@
 layout: term
 title: iskele almak
 slug: iskele-almak
+letter: I
 lisan: Türkçe
 anlamlar:
 - gemi merdivenleri kaldırılıp harekete hazırlanmak

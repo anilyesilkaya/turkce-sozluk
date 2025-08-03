@@ -2,6 +2,7 @@
 layout: term
 title: sıralı ikili
 slug: sirali-ikili
+letter: S
 lisan: Türkçe
 anlamlar:
 - a ve b gibi iki elemanı öncelik sırasına göre a, b biçiminde yazarak elde edilen a, b ikilisi

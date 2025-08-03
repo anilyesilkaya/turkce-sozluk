@@ -2,6 +2,7 @@
 layout: term
 title: çoğu
 slug: cogu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir şeyin büyük bölümü

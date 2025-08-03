@@ -2,6 +2,7 @@
 layout: term
 title: fırın boya
 slug: firin-boya
+letter: F
 lisan: Türkçe
 anlamlar:
 - Kuruma ve sertleşmesi genellikle 80 derecenin üzerinde olan boya türü

@@ -2,6 +2,7 @@
 layout: term
 title: caka satmak
 slug: caka-satmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - gösteriş yapmak

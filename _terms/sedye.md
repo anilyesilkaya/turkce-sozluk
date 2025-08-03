@@ -2,6 +2,7 @@
 layout: term
 title: sedye
 slug: sedye
+letter: S
 lisan: İtalyanca sedia
 anlamlar:
 - Hasta veya yaralı taşımaya yarayan katlanabilir hasta yatağı; teskere

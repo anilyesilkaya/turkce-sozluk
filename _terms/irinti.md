@@ -2,6 +2,7 @@
 layout: term
 title: irinti
 slug: irinti
+letter: I
 lisan: Türkçe
 anlamlar:
 - Elek ve kalbur üzerinde kalan iri taneler

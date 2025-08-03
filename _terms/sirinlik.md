@@ -2,6 +2,7 @@
 layout: term
 title: şirinlik
 slug: sirinlik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► sevimlilik

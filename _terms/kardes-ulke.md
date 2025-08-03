@@ -2,6 +2,7 @@
 layout: term
 title: 'kardeş ülke '
 slug: kardes-ulke
+letter: K
 lisan: Türkçe
 anlamlar:
 - Herhangi bir ülkeyle dostane ilişkileri bulunan diğer bir ülke

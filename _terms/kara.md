@@ -2,6 +2,7 @@
 layout: term
 title: kara
 slug: kara
+letter: K
 lisan: Türkçe
 anlamlar:
 - En koyu renk; siyah, ak, beyaz karşıtı

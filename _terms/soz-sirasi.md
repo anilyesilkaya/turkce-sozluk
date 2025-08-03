@@ -2,6 +2,7 @@
 layout: term
 title: söz sırası
 slug: soz-sirasi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir toplulukta konuşma yapma zamanı

@@ -2,6 +2,7 @@
 layout: term
 title: hatır belasına
 slug: hatir-belasina
+letter: H
 lisan: Türkçe
 anlamlar:
 - Birine duyulan sevgi ve saygı dolayısıyla

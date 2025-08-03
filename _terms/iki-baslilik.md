@@ -2,6 +2,7 @@
 layout: term
 title: iki başlılık
 slug: iki-baslilik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İki başlı olma durumu

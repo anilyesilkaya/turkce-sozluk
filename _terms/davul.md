@@ -2,6 +2,7 @@
 layout: term
 title: davul
 slug: davul
+letter: D
 lisan: Arapça ṭabl
 anlamlar:
 - Büyük ve enlice bir kasnağın iki yanına deri geçirilerek yapılan, tokmak ve değnekle çalınan çalgı; tabl

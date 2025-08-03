@@ -2,6 +2,7 @@
 layout: term
 title: dedekülahı
 slug: dedekulahi
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► turnabacağı

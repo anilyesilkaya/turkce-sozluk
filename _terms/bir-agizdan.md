@@ -2,6 +2,7 @@
 layout: term
 title: bir ağızdan
 slug: bir-agizdan
+letter: B
 lisan: Türkçe
 anlamlar:
 - Hep birlikte, hep birden

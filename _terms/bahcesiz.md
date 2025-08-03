@@ -2,6 +2,7 @@
 layout: term
 title: bahçesiz
 slug: bahcesiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bahçesi olmayan

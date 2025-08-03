@@ -2,6 +2,7 @@
 layout: term
 title: sırnaşık
 slug: sirnasik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Can sıktığına, rahatsız ettiğine aldırmadan bir kimseden sürekli, yalvarırcasına istekte bulunan ve bu isteğinde direnen (kimse)

@@ -2,6 +2,7 @@
 layout: term
 title: majeste
 slug: majeste
+letter: M
 lisan: Fransızca majesté
 anlamlar:
 - Devlet başkanları için kullanılan san

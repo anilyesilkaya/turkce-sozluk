@@ -2,6 +2,7 @@
 layout: term
 title: abiş
 slug: abis
+letter: A
 lisan: Türkçe
 anlamlar:
 - “Ağabeyciğim” anlamında kullanılan bir söz

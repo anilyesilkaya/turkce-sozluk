@@ -2,6 +2,7 @@
 layout: term
 title: ellenebilmek
 slug: ellenebilmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ellenme ihtimali veya imkânı bulunmak

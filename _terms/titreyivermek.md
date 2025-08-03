@@ -2,6 +2,7 @@
 layout: term
 title: titreyivermek
 slug: titreyivermek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Aniden titremek

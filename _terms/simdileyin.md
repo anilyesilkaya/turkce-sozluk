@@ -2,6 +2,7 @@
 layout: term
 title: şimdileyin
 slug: simdileyin
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şimdiki zamanda

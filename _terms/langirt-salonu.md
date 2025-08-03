@@ -2,6 +2,7 @@
 layout: term
 title: 'langırt salonu '
 slug: langirt-salonu
+letter: L
 lisan: Türkçe
 anlamlar:
 - Langırt oyununun oynandığı mekân

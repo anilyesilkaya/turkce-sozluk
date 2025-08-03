@@ -2,6 +2,7 @@
 layout: term
 title: topraklandırma
 slug: topraklandirma
+letter: T
 lisan: Türkçe
 anlamlar:
 - Topraklandırmak işi

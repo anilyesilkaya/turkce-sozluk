@@ -2,6 +2,7 @@
 layout: term
 title: bisikletçi
 slug: bisikletci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bisiklet sporu yapan kimse; çifttekerci

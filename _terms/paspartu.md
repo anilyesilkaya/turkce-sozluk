@@ -2,6 +2,7 @@
 layout: term
 title: paspartu
 slug: paspartu
+letter: P
 lisan: Fransızca passe-partout
 anlamlar:
 - Sergilenmek üzere hazırlanan fotoğraf veya tablonun kenarlarında fon kâğıdı ile oluşturulan, çerçeve ile konu arasındaki boşluk

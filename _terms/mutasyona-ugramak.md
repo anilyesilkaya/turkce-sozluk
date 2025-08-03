@@ -2,6 +2,7 @@
 layout: term
 title: mutasyona uğramak
 slug: mutasyona-ugramak
+letter: M
 lisan: Türkçe
 anlamlar:
 - bir organizma veya virüsün genetiğinde kalıcı değişiklik meydana gelmek

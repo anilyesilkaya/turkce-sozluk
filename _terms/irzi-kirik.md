@@ -2,6 +2,7 @@
 layout: term
 title: ırzı kırık
 slug: irzi-kirik
+letter: I
 lisan: Türkçe
 anlamlar:
 - Namussuz bir biçimde davranan

@@ -2,6 +2,7 @@
 layout: term
 title: destan
 slug: destan
+letter: D
 lisan: Farsça destān
 anlamlar:
 - Tarih öncesi tanrı, tanrıça, yarı tanrı ve kahramanlarla ilgili olağanüstü olayları konu alan şiir; epope

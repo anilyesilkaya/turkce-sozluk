@@ -2,6 +2,7 @@
 layout: term
 title: normal
 slug: normal
+letter: N
 lisan: Fransızca normal
 anlamlar:
 - Alışılmış olan; olağan

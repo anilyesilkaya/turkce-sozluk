@@ -2,6 +2,7 @@
 layout: term
 title: külhani
 slug: kulhani
+letter: K
 lisan: Farsça kulḫan + Arapça -ī
 anlamlar:
 - ► külhanbeyi

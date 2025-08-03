@@ -2,6 +2,7 @@
 layout: term
 title: kafa patlatmak
 slug: kafa-patlatmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir konu üzerinde pek çok düşünmek

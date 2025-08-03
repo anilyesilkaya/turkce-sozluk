@@ -2,6 +2,7 @@
 layout: term
 title: çimmek
 slug: cimmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Suya dalıp çıkmak

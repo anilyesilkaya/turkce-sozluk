@@ -2,6 +2,7 @@
 layout: term
 title: nezaretsiz
 slug: nezaretsiz
+letter: N
 lisan: Türkçe
 anlamlar:
 - Görüntüsü olmayan; manzarasız

@@ -2,6 +2,7 @@
 layout: term
 title: bulanıkça
 slug: bulanikca
+letter: B
 lisan: Türkçe
 anlamlar:
 - Biraz bulanık olan, çok duru olmayan

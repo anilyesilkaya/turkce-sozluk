@@ -2,6 +2,7 @@
 layout: term
 title: solidarizm
 slug: solidarizm
+letter: S
 lisan: Fransızca solidarisme
 anlamlar:
 - ► dayanışmacılık

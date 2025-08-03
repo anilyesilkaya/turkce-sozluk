@@ -2,6 +2,7 @@
 layout: term
 title: radyoculuk
 slug: radyoculuk
+letter: R
 lisan: Türkçe
 anlamlar:
 - Radyo yapma, onarma veya satma işi

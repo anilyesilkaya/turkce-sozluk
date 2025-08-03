@@ -2,6 +2,7 @@
 layout: term
 title: kibirsiz
 slug: kibirsiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kendini büyük görmeyen, büyüklenmeyen

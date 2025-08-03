@@ -2,6 +2,7 @@
 layout: term
 title: uyuşum
 slug: uyusum
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyuşma durumu; uyuşurluk

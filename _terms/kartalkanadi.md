@@ -2,6 +2,7 @@
 layout: term
 title: kartalkanadı
 slug: kartalkanadi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çapraz düğmeli, ipek veya sırma işlemeli bir tür kısa yelek

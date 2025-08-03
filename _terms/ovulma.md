@@ -2,6 +2,7 @@
 layout: term
 title: ovulma
 slug: ovulma
+letter: O
 lisan: Türkçe
 anlamlar:
 - Ovulmak işi

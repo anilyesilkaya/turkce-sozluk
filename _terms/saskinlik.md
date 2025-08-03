@@ -2,6 +2,7 @@
 layout: term
 title: şaşkınlık
 slug: saskinlik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şaşkın olma durumu

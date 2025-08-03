@@ -2,6 +2,7 @@
 layout: term
 title: karkas
 slug: karkas
+letter: K
 lisan: Fransızca carcasse
 anlamlar:
 - Demirli betonla yapılmış yapı

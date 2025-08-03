@@ -2,6 +2,7 @@
 layout: term
 title: kızıllaşmak
 slug: kizillasmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kızıl duruma gelmek

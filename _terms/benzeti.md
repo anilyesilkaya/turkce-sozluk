@@ -2,6 +2,7 @@
 layout: term
 title: benzeti
 slug: benzeti
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► benzetme

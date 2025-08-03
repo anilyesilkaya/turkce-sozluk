@@ -2,6 +2,7 @@
 layout: term
 title: donamak
 slug: donamak
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► süslemek

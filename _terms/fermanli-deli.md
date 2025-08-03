@@ -2,6 +2,7 @@
 layout: term
 title: fermanlı deli
 slug: fermanli-deli
+letter: F
 lisan: Türkçe
 anlamlar:
 - Deli olduğu herkesçe bilinen kişi

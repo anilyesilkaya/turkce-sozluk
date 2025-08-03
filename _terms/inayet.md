@@ -2,6 +2,7 @@
 layout: term
 title: inayet
 slug: inayet
+letter: I
 lisan: Arapça ʿināyet
 anlamlar:
 - ► lütuf

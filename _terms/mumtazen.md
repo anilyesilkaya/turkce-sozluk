@@ -2,6 +2,7 @@
 layout: term
 title: mümtazen
 slug: mumtazen
+letter: M
 lisan: Türkçe
 anlamlar:
 - Seçkin olarak

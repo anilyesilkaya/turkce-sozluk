@@ -2,6 +2,7 @@
 layout: term
 title: sincabi
 slug: sincabi
+letter: S
 lisan: Farsça sincāb + Arapça -ī
 anlamlar:
 - ► sincap rengi

@@ -2,6 +2,7 @@
 layout: term
 title: tumturak yapmak
 slug: tumturak-yapmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - vurgulamak, önemini belirtmek, etkili olmasını sağlamak

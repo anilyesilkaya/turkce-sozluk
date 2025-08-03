@@ -2,6 +2,7 @@
 layout: term
 title: cefa
 slug: cefa
+letter: C
 lisan: Arapça cefā
 anlamlar:
 - Bir başkasına verilen aşırı eziyet veya sıkıntı

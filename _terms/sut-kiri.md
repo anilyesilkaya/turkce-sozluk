@@ -2,6 +2,7 @@
 layout: term
 title: süt kırı
 slug: sut-kiri
+letter: S
 lisan: Türkçe
 anlamlar:
 - Beyaz renkli at donu

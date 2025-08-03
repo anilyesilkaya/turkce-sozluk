@@ -2,6 +2,7 @@
 layout: term
 title: metre
 slug: metre
+letter: M
 lisan: Fransızca mètre
 anlamlar:
 - Yer meridyen çemberinin kırk milyonda biri olarak kabul edilen, 100 cm'lik temel uzunluk ölçüsü birimi

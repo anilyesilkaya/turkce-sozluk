@@ -2,6 +2,7 @@
 layout: term
 title: kıdemli başçavuş
 slug: kidemli-bascavus
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kıdemi olan başçavuş veya rütbesi

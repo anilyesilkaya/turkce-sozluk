@@ -2,6 +2,7 @@
 layout: term
 title: bozahane
 slug: bozahane
+letter: B
 lisan: Türkçe boza + Farsça ḫāne
 anlamlar:
 - Boza yapılan yer

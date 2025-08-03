@@ -2,6 +2,7 @@
 layout: term
 title: çatır çatır etmek
 slug: catir-catir-etmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - çatır çatır ses çıkarmak

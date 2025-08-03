@@ -2,6 +2,7 @@
 layout: term
 title: tüfekhane
 slug: tufekhane
+letter: T
 lisan: Farsça tufeng + ḫāne
 anlamlar:
 - Tüfek yapılan yer

@@ -2,6 +2,7 @@
 layout: term
 title: birlemek
 slug: birlemek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir etmek, tek duruma getirmek

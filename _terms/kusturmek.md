@@ -2,6 +2,7 @@
 layout: term
 title: küstürmek
 slug: kusturmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Küsmesine yol açmak

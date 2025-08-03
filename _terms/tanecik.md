@@ -2,6 +2,7 @@
 layout: term
 title: tanecik
 slug: tanecik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Küçük tane

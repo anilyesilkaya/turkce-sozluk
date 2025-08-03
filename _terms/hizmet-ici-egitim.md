@@ -2,6 +2,7 @@
 layout: term
 title: hizmet içi eğitim
 slug: hizmet-ici-egitim
+letter: H
 lisan: Türkçe
 anlamlar:
 - Çalışanlara mesleki bilgi ve becerilerini geliştirmeleri için çalıştıkları süre içinde verilen eğitim

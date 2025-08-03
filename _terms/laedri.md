@@ -2,6 +2,7 @@
 layout: term
 title: laedri
 slug: laedri
+letter: L
 lisan: Arapça lāedrī
 anlamlar:
 - ► anonim

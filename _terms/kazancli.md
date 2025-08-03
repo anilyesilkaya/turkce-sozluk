@@ -2,6 +2,7 @@
 layout: term
 title: kazançlı
 slug: kazancli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kazanmış olan

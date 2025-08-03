@@ -2,6 +2,7 @@
 layout: term
 title: suskunluk
 slug: suskunluk
+letter: S
 lisan: Türkçe
 anlamlar:
 - Suskun olma durumu; sükûtilik

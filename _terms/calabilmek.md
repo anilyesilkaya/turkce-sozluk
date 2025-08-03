@@ -2,6 +2,7 @@
 layout: term
 title: çalabilmek
 slug: calabilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çalma ihtimali veya imkânı bulunmak

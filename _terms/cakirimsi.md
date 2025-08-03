@@ -2,6 +2,7 @@
 layout: term
 title: çakırımsı
 slug: cakirimsi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Biraz çakır olan

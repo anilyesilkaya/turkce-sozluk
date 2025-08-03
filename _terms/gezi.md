@@ -2,6 +2,7 @@
 layout: term
 title: gezi
 slug: gezi
+letter: G
 lisan: Farsça gezī
 anlamlar:
 - Pamuk ve ipekle karışık dokunmuş hareli kumaş

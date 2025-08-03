@@ -2,6 +2,7 @@
 layout: term
 title: ayak işi
 slug: ayak-isi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Birtakım getirgötür işleri

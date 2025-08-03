@@ -2,6 +2,7 @@
 layout: term
 title: sıcak bakmak
 slug: sicak-bakmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - anlayışla karşılamak, olumlu değerlendirmek, ilgi duymak

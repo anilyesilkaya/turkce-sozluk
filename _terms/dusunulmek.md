@@ -2,6 +2,7 @@
 layout: term
 title: düşünülmek
 slug: dusunulmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düşünme işine konu olmak

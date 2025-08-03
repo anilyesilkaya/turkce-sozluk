@@ -2,6 +2,7 @@
 layout: term
 title: hürmet
 slug: hurmet
+letter: H
 lisan: Arapça ḥurmet
 anlamlar:
 - ► saygı

@@ -2,6 +2,7 @@
 layout: term
 title: soğuk almak
 slug: soguk-almak
+letter: S
 lisan: Türkçe
 anlamlar:
 - üşüyerek hastalanmak, üşütmek

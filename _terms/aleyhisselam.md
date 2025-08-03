@@ -2,6 +2,7 @@
 layout: term
 title: 'aleyhisselam '
 slug: aleyhisselam
+letter: A
 lisan: Arapça ʿaleyh + selām
 anlamlar:
 - “Selam onun üzerine olsun” anlamında bir dua sözü

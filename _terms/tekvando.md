@@ -2,6 +2,7 @@
 layout: term
 title: tekvando
 slug: tekvando
+letter: T
 lisan: Korece
 anlamlar:
 - El ve kol vuruşlarından çok, ayak ve tekme tekniklerine önem veren, Uzak Doğu'ya özgü dövüş sanatı

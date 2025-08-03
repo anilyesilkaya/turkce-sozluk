@@ -2,6 +2,7 @@
 layout: term
 title: ziyadar
 slug: ziyadar
+letter: Z
 lisan: Arapça żiyāʾ + Farsça -dār
 anlamlar:
 - ► ışıklı

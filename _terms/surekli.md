@@ -2,6 +2,7 @@
 layout: term
 title: sürekli
 slug: surekli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kesintisiz olarak süren, devamlı; kalıcı, temelli, daimî, paso

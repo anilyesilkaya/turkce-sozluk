@@ -2,6 +2,7 @@
 layout: term
 title: hamletmek
 slug: hamletmek
+letter: H
 lisan: Arapça ḥaml + Türkçe etmek
 anlamlar:
 - Bir sebebe yüklemek, yormak

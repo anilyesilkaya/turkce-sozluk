@@ -2,6 +2,7 @@
 layout: term
 title: fırçacı
 slug: fircaci
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fırça yapıp satan kimse

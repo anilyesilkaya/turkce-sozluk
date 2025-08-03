@@ -2,6 +2,7 @@
 layout: term
 title: 'kedi kumu '
 slug: kedi-kumu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Ev, iş yeri vb. kapalı ortamlarda beslenen kedinin içine idrarını veya dışkısını yapması için hazırlanmış, kil içeren, emici özelliğe sahip bir tür kum

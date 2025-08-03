@@ -2,6 +2,7 @@
 layout: term
 title: kılıverme
 slug: kiliverme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kılıvermek işi

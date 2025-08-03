@@ -2,6 +2,7 @@
 layout: term
 title: müdrik
 slug: mudrik
+letter: M
 lisan: Arapça mudrik
 anlamlar:
 - Anlamış, idrak etmiş olan

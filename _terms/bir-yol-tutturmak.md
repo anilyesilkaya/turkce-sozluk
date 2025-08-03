@@ -2,6 +2,7 @@
 layout: term
 title: bir yol tutturmak
 slug: bir-yol-tutturmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir davranış, bir tutum biçimi belirlemek

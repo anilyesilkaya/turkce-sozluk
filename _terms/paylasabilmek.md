@@ -2,6 +2,7 @@
 layout: term
 title: paylaşabilmek
 slug: paylasabilmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Paylaşma ihtimali bulunmak; bölüşebilmek, üleşebilmek

@@ -2,6 +2,7 @@
 layout: term
 title: cübbe
 slug: cubbe
+letter: C
 lisan: Arapça cubbe
 anlamlar:
 - Hukukçuların, üniversite öğretim üyelerinin, din adamlarının, mezuniyet törenlerinde öğrencilerin elbise üstüne giydikleri uzun, yanları geniş, düğmesiz giysi

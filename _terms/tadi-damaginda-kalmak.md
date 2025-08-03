@@ -2,6 +2,7 @@
 layout: term
 title: tadı damağında kalmak
 slug: tadi-damaginda-kalmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - yenen bir şeyin tadını unutamamak

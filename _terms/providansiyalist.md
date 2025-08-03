@@ -2,6 +2,7 @@
 layout: term
 title: providansiyalist
 slug: providansiyalist
+letter: P
 lisan: Fransızca providentialiste
 anlamlar:
 - ► kayracı

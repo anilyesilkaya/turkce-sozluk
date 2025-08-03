@@ -2,6 +2,7 @@
 layout: term
 title: sürüklemek
 slug: suruklemek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir şeyi yerden kaldırmadan iterek veya çekerek götürmek; sürümek

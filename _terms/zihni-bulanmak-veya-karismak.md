@@ -2,6 +2,7 @@
 layout: term
 title: zihni bulanmak (veya karışmak)
 slug: zihni-bulanmak-veya-karismak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - düşünürken olaylar arasındaki bağlantıyı yitirmek

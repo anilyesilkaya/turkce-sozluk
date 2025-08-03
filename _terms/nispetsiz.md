@@ -2,6 +2,7 @@
 layout: term
 title: nispetsiz
 slug: nispetsiz
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► oransız

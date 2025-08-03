@@ -2,6 +2,7 @@
 layout: term
 title: kabullenmek
 slug: kabullenmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kabul etmek, benimsemek

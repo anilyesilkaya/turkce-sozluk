@@ -2,6 +2,7 @@
 layout: term
 title: heveskâr
 slug: heveskar
+letter: H
 lisan: Arapça heves + Farsça -kār
 anlamlar:
 - ► istekli

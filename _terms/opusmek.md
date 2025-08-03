@@ -2,6 +2,7 @@
 layout: term
 title: öpüşmek
 slug: opusmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Birbirini öpmek

@@ -2,6 +2,7 @@
 layout: term
 title: angarya
 slug: angarya
+letter: A
 lisan: Rumca
 anlamlar:
 - Bir kimseye veya bir topluluğa zorla, ücret vermeden yaptırılan iş; yüklenti

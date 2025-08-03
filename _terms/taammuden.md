@@ -2,6 +2,7 @@
 layout: term
 title: taammüden
 slug: taammuden
+letter: T
 lisan: Arapça taʿammuden
 anlamlar:
 - ► bilerek

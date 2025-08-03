@@ -2,6 +2,7 @@
 layout: term
 title: buğulama
 slug: bugulama
+letter: B
 lisan: Türkçe
 anlamlar:
 - Buğulamak işi

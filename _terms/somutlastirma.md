@@ -2,6 +2,7 @@
 layout: term
 title: somutlaştırma
 slug: somutlastirma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Somutlaştırmak işi

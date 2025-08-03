@@ -2,6 +2,7 @@
 layout: term
 title: alesta beklemek
 slug: alesta-beklemek
+letter: A
 lisan: Türkçe
 anlamlar:
 - hazır durumda beklemek

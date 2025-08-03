@@ -2,6 +2,7 @@
 layout: term
 title: bantlama
 slug: bantlama
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bantlamak işi

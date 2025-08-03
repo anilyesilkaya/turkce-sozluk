@@ -2,6 +2,7 @@
 layout: term
 title: matrakçı
 slug: matrakci
+letter: M
 lisan: Türkçe
 anlamlar:
 - Osmanlı ordusunda acemilere matrakla savaşmayı öğreten usta

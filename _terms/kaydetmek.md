@@ -2,6 +2,7 @@
 layout: term
 title: kaydetmek
 slug: kaydetmek
+letter: K
 lisan: Arapça ḳayd + Türkçe etmek
 anlamlar:
 - Bazı önemli noktaları belirleyip yazmak

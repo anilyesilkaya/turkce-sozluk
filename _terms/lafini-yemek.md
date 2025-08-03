@@ -2,6 +2,7 @@
 layout: term
 title: lafını yemek
 slug: lafini-yemek
+letter: L
 lisan: Türkçe
 anlamlar:
 - verdiği sözden, söylediği sözden vazgeçmek

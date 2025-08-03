@@ -2,6 +2,7 @@
 layout: term
 title: küçülebilmek
 slug: kuculebilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Küçülme ihtimali veya imkânı bulunmak

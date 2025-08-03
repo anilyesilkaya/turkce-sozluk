@@ -2,6 +2,7 @@
 layout: term
 title: zihin hesabı
 slug: zihin-hesabi
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Matematik işlemlerinin doğrudan doğruya akıldan yapıldığı hesap

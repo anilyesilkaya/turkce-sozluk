@@ -2,6 +2,7 @@
 layout: term
 title: yara otu
 slug: yara-otu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Halk arasında yaralara iyi geldiğine inanılan bitki

@@ -2,6 +2,7 @@
 layout: term
 title: yırtılmış
 slug: yirtilmis
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yırtık duruma gelmiş

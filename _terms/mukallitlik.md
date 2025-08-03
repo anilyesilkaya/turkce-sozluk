@@ -2,6 +2,7 @@
 layout: term
 title: mukallitlik
 slug: mukallitlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mukallit olma durumu, mukallidin işi

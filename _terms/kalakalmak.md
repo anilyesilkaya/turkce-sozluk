@@ -2,6 +2,7 @@
 layout: term
 title: kalakalmak
 slug: kalakalmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir şey veya durum karşısında şaşırmak

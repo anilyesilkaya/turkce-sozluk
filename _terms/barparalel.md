@@ -2,6 +2,7 @@
 layout: term
 title: barparalel
 slug: barparalel
+letter: B
 lisan: Fransızca barre parallèle
 anlamlar:
 - ► paralel bar

@@ -2,6 +2,7 @@
 layout: term
 title: formen
 slug: formen
+letter: F
 lisan: İngilizce foreman
 anlamlar:
 - ► ustabaşı

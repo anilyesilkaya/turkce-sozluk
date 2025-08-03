@@ -2,6 +2,7 @@
 layout: term
 title: birtakım
 slug: birtakim
+letter: B
 lisan: Türkçe
 anlamlar:
 - (nesne için) Belirsiz bir çokluk

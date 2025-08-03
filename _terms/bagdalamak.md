@@ -2,6 +2,7 @@
 layout: term
 title: bağdalamak
 slug: bagdalamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çelme atmak

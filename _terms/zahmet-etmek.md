@@ -2,6 +2,7 @@
 layout: term
 title: zahmet etmek
 slug: zahmet-etmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - biri için yorulmak veya masrafa girmek

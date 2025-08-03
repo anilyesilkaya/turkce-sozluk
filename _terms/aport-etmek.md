@@ -2,6 +2,7 @@
 layout: term
 title: aport etmek
 slug: aport-etmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - kapıp getirmek

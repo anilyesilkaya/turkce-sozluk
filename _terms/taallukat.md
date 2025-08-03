@@ -2,6 +2,7 @@
 layout: term
 title: taallukat
 slug: taallukat
+letter: T
 lisan: Arapça taʿalluḳāt
 anlamlar:
 - Hısımlar, yakınlar

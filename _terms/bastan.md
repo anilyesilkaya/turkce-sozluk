@@ -2,6 +2,7 @@
 layout: term
 title: baştan
 slug: bastan
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başından alarak, bir kez daha

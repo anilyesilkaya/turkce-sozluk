@@ -2,6 +2,7 @@
 layout: term
 title: füme
 slug: fume
+letter: F
 lisan: Fransızca fumé
 anlamlar:
 - ► duman rengi

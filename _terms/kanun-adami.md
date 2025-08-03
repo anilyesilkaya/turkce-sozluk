@@ -2,6 +2,7 @@
 layout: term
 title: kanun adamı
 slug: kanun-adami
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yöneticiliği sırasında kanunlara uymaktan vazgeçmeyen, kanunları uygulayan kimse

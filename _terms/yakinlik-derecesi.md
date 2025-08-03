@@ -2,6 +2,7 @@
 layout: term
 title: yakınlık derecesi
 slug: yakinlik-derecesi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Akrabalık ilişkisi içindeki sıra

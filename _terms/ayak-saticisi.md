@@ -2,6 +2,7 @@
 layout: term
 title: ayak satıcısı
 slug: ayak-saticisi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Gezerek satıcılık yapan kimse

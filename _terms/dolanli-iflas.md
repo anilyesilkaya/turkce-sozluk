@@ -2,6 +2,7 @@
 layout: term
 title: dolanlı iflas
 slug: dolanli-iflas
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► hileli iflas

@@ -2,6 +2,7 @@
 layout: term
 title: palazlamak
 slug: palazlamak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Kuş yavrusu irileşip semirmek

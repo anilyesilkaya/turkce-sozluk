@@ -2,6 +2,7 @@
 layout: term
 title: spontane
 slug: spontane
+letter: S
 lisan: Fransızca spontané
 anlamlar:
 - ► anlık (I)

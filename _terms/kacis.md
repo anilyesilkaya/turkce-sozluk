@@ -2,6 +2,7 @@
 layout: term
 title: kaçış
 slug: kacis
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaçmak işi

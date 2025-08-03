@@ -2,6 +2,7 @@
 layout: term
 title: hareketsizlik
 slug: hareketsizlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hareketsiz olma durumu

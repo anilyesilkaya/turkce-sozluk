@@ -2,6 +2,7 @@
 layout: term
 title: acil ihtiyaç kredisi
 slug: acil-ihtiyac-kredisi
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► artı para

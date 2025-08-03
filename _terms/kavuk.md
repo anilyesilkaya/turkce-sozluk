@@ -2,6 +2,7 @@
 layout: term
 title: kavuk
 slug: kavuk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Pamuktan yapılmış, üzerine sarık sarılan erkek başlığı

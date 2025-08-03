@@ -2,6 +2,7 @@
 layout: term
 title: burnundan yakalamak
 slug: burnundan-yakalamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - birini yönetimi altına almak, kaçamak bulamayacağı duruma getirmek

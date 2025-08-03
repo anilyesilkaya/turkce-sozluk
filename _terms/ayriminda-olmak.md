@@ -2,6 +2,7 @@
 layout: term
 title: ayrımında olmak
 slug: ayriminda-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - farkında olmak

@@ -2,6 +2,7 @@
 layout: term
 title: gözü aç
 slug: gozu-ac
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► açgözlü

@@ -2,6 +2,7 @@
 layout: term
 title: şiraze
 slug: siraze
+letter: Ş
 lisan: Farsça şīrāze
 anlamlar:
 - Ciltçilikte, kitap yapraklarını düzgün tutmaya yarayan ince örülmüş şerit

@@ -2,6 +2,7 @@
 layout: term
 title: bağ bıçağı
 slug: bag-bicagi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağ ve bahçelerde yetişen meyve fidanlarını, bitki ve özellikle üzüm kütüklerini budamaya yarayan kesici alet

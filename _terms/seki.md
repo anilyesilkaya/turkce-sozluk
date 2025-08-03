@@ -2,6 +2,7 @@
 layout: term
 title: seki
 slug: seki
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► sekil

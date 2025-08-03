@@ -2,6 +2,7 @@
 layout: term
 title: budalalaşma
 slug: budalalasma
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► aptallaşma

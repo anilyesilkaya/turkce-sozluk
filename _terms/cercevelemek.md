@@ -2,6 +2,7 @@
 layout: term
 title: çerçevelemek
 slug: cercevelemek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir şeyi çerçeve içine almak

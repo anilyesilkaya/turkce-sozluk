@@ -2,6 +2,7 @@
 layout: term
 title: tülbentçilik
 slug: tulbentcilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tülbentçinin işi

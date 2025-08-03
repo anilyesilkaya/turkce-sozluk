@@ -2,6 +2,7 @@
 layout: term
 title: anımsatabilmek
 slug: animsatabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anımsatma ihtimali veya imkânı bulunmak; hatırlatabilmek

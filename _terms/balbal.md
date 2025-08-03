@@ -2,6 +2,7 @@
 layout: term
 title: balbal
 slug: balbal
+letter: B
 lisan: Türkçe
 anlamlar:
 - Eski Türklerde kişinin anılması için mezarının veya bazı kurganların etrafına dikilen taş

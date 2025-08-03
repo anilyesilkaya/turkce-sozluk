@@ -2,6 +2,7 @@
 layout: term
 title: kopoy
 slug: kopoy
+letter: K
 lisan: Macarca kopó
 anlamlar:
 - Orta boylu, düşük kulaklı, tüyleri kısa bir tür av köpeği

@@ -2,6 +2,7 @@
 layout: term
 title: akla fenalık vermek
 slug: akla-fenalik-vermek
+letter: A
 lisan: Türkçe
 anlamlar:
 - çok şaşırtmak, çıldırtmak, zıvanadan çıkarmak

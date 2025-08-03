@@ -2,6 +2,7 @@
 layout: term
 title: verniklenmek
 slug: verniklenmek
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vernikleme işi yapılmak, vernik sürülmek

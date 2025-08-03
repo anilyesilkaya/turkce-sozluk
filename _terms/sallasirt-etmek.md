@@ -2,6 +2,7 @@
 layout: term
 title: sallasırt etmek
 slug: sallasirt-etmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - sırtına almak, yüklenmek

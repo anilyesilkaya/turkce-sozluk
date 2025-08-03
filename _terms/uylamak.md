@@ -2,6 +2,7 @@
 layout: term
 title: uylamak
 slug: uylamak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Sürekli aynı şeyi yapmak, bıktıracak kadar tekrarlamak

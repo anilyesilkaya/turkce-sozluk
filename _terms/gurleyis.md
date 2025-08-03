@@ -2,6 +2,7 @@
 layout: term
 title: gürleyiş
 slug: gurleyis
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gürlemek işi

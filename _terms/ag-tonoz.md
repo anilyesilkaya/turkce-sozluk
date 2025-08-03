@@ -2,6 +2,7 @@
 layout: term
 title: ağ tonoz
 slug: ag-tonoz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Gotik mimaride kullanılan, ağ biçiminde parçalı tonoz

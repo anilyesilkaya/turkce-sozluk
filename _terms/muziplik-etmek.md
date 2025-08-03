@@ -2,6 +2,7 @@
 layout: term
 title: muziplik etmek
 slug: muziplik-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - karşısındakini üzecek veya uğraştıracak davranışlarda bulunmak

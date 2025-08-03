@@ -2,6 +2,7 @@
 layout: term
 title: bej
 slug: bej
+letter: B
 lisan: Fransızca beige
 anlamlar:
 - Sarıya çalan açık kahverengi

@@ -2,6 +2,7 @@
 layout: term
 title: hâletiruhiye
 slug: haletiruhiye
+letter: H
 lisan: Arapça ḥālet + rūḥiyye
 anlamlar:
 - ► ruhsal durum

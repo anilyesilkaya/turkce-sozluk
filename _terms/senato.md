@@ -2,6 +2,7 @@
 layout: term
 title: senato
 slug: senato
+letter: S
 lisan: İtalyanca senato
 anlamlar:
 - Bazı ülkelerde yaş ve eğitimlerine göre seçilmiş parlamento üyelerinden oluşan meclis

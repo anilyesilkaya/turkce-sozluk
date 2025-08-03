@@ -2,6 +2,7 @@
 layout: term
 title: tepesinden kaynar sular dökülmek
 slug: tepesinden-kaynar-sular-dokulmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - başından aşağı kaynar sular dökülmek

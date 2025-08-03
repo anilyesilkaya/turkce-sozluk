@@ -2,6 +2,7 @@
 layout: term
 title: sülfürik asit
 slug: sulfurik-asit
+letter: S
 lisan: Türkçe
 anlamlar:
 - Suda çözünerek büyük bir ısı açığa çıkaran, şurup kıvamında, renksiz, kokusuz, 10 °C'de katılaşan bir sıvı; kara boya, zaç yağı

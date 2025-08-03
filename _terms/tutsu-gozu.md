@@ -2,6 +2,7 @@
 layout: term
 title: tütsü gözü
 slug: tutsu-gozu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Çadırlarda duman çıkmasını sağlayan delik

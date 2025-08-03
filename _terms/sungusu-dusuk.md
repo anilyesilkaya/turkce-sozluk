@@ -2,6 +2,7 @@
 layout: term
 title: süngüsü düşük
 slug: sungusu-dusuk
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sağlığı, esenliği bozuk

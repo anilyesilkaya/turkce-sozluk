@@ -2,6 +2,7 @@
 layout: term
 title: göze batmak
 slug: goze-batmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - aşırı derecede görünür olmak

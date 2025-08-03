@@ -2,6 +2,7 @@
 layout: term
 title: kaynamak
 slug: kaynamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir sıvı, sıcaklığı belli bir dereceyi bulduğunda buhar durumuna geçerek fokurdamak

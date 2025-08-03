@@ -2,6 +2,7 @@
 layout: term
 title: havadan
 slug: havadan
+letter: H
 lisan: Türkçe
 anlamlar:
 - Boş, değersiz

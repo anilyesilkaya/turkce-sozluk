@@ -2,6 +2,7 @@
 layout: term
 title: havasız
 slug: havasiz
+letter: H
 lisan: Türkçe
 anlamlar:
 - Havası olmayan, hava almayan

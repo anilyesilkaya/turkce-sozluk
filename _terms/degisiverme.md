@@ -2,6 +2,7 @@
 layout: term
 title: değişiverme
 slug: degisiverme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Değişivermek işi

@@ -2,6 +2,7 @@
 layout: term
 title: iri kıyım
 slug: iri-kiyim
+letter: I
 lisan: Türkçe
 anlamlar:
 - İri kıyılmış

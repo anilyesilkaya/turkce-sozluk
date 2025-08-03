@@ -2,6 +2,7 @@
 layout: term
 title: tabiat
 slug: tabiat
+letter: T
 lisan: Arapça ṭabīʿat
 anlamlar:
 - ► doğa

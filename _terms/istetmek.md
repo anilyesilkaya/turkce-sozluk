@@ -2,6 +2,7 @@
 layout: term
 title: istetmek
 slug: istetmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İstemesini sağlamak; arzulatmak

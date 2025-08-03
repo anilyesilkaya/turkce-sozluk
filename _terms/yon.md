@@ -2,6 +2,7 @@
 layout: term
 title: yön
 slug: yon
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Belli bir noktaya göre olan yer; cihet, taraf

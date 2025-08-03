@@ -2,6 +2,7 @@
 layout: term
 title: kolacı
 slug: kolaci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kola (II) seven kimse

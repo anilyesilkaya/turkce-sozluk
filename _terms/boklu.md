@@ -2,6 +2,7 @@
 layout: term
 title: boklu
 slug: boklu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boku olan

@@ -2,6 +2,7 @@
 layout: term
 title: kusayazmak
 slug: kusayazmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kusacak gibi olmak

@@ -2,6 +2,7 @@
 layout: term
 title: kılık kıyafet düşkünü
 slug: kilik-kiyafet-duskunu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kılık kıyafetine çok önem veren kimse, giyinmeyi seven kimse; kıyafet düşkünü

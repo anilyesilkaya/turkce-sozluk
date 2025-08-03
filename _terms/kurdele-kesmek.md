@@ -2,6 +2,7 @@
 layout: term
 title: kurdele kesmek
 slug: kurdele-kesmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - tesis veya kuruluşun açılış töreninde gerilen şeridi iyi dileklerle kesmek

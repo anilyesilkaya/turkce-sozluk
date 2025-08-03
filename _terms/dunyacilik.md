@@ -2,6 +2,7 @@
 layout: term
 title: dünyacılık
 slug: dunyacilik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bilimsel gelişme, rasyonelleşme ve modernleşme ile birlikte dinin bireysel alışkanlıklardan sosyal kurumlara varıncaya dek hayatın bütün boyutları üzerindeki etkisinin azalmasını savunan öğreti; sekülarizm

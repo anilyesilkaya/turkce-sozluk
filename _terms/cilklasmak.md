@@ -2,6 +2,7 @@
 layout: term
 title: cılklaşmak
 slug: cilklasmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cılk duruma gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: konsolosluk
 slug: konsolosluk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Konsolos olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: faziletli
 slug: faziletli
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► erdemli

@@ -2,6 +2,7 @@
 layout: term
 title: örtüşmek
 slug: ortusmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Aynı noktalarda ve düzlemlerde kesişmek

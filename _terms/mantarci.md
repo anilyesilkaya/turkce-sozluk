@@ -2,6 +2,7 @@
 layout: term
 title: mantarcı
 slug: mantarci
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mantar yetiştiren veya satan kimse

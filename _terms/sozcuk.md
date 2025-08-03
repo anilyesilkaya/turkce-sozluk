@@ -2,6 +2,7 @@
 layout: term
 title: sözcük
 slug: sozcuk
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► kelime

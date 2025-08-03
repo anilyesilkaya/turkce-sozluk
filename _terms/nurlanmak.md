@@ -2,6 +2,7 @@
 layout: term
 title: nurlanmak
 slug: nurlanmak
+letter: N
 lisan: Türkçe
 anlamlar:
 - Işık içinde kalmak

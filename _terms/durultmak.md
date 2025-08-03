@@ -2,6 +2,7 @@
 layout: term
 title: durultmak
 slug: durultmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Duru duruma getirmek

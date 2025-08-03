@@ -2,6 +2,7 @@
 layout: term
 title: ibik
 slug: ibik
+letter: I
 lisan: Türkçe
 anlamlar:
 - Horoz, hindi vb.nin tepesinde bulunan kırmızı deri uzantısı

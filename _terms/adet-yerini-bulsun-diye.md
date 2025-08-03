@@ -2,6 +2,7 @@
 layout: term
 title: âdet yerini bulsun diye
 slug: adet-yerini-bulsun-diye
+letter: Â
 lisan: Türkçe
 anlamlar:
 - '"gerekli görüldüğü için değil, yalnız alışılmış olduğu için" anlamında kullanılan bir söz'

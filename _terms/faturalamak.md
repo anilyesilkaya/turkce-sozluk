@@ -2,6 +2,7 @@
 layout: term
 title: faturalamak
 slug: faturalamak
+letter: F
 lisan: Türkçe
 anlamlar:
 - Satılan bir malın veya verilen bir hizmetin niteliklerini ve tutarını belirterek fatura düzenlemek

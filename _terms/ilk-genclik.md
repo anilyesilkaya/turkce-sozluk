@@ -2,6 +2,7 @@
 layout: term
 title: ilk gençlik
 slug: ilk-genclik
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► ergenlik

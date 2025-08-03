@@ -2,6 +2,7 @@
 layout: term
 title: çıkarma harekâtı
 slug: cikarma-harekati
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Düşman işgalinde olan bir kıyıya, güvenli bir köprübaşı kurmak amacıyla düzenlenen ve çeşitli birliklerin görev aldığı askerî harekât

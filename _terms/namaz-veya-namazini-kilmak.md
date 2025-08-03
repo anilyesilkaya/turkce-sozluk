@@ -2,6 +2,7 @@
 layout: term
 title: namaz (veya namazını) kılmak
 slug: namaz-veya-namazini-kilmak
+letter: N
 lisan: Türkçe
 anlamlar:
 - namaz ibadetini yerine getirmek

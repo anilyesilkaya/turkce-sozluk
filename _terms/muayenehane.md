@@ -2,6 +2,7 @@
 layout: term
 title: muayenehane
 slug: muayenehane
+letter: M
 lisan: Arapça muʿāyene + Farsça ḫāne
 anlamlar:
 - Hekimlerin hastalarını muayene ettikleri yer

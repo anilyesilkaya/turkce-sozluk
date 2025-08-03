@@ -2,6 +2,7 @@
 layout: term
 title: uyuşmak
 slug: uyusmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Her konuda birbirine uymak; imtizaç etmek

@@ -2,6 +2,7 @@
 layout: term
 title: titiz
 slug: titiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Çok dikkat ve özenle davranan veya böyle davranılmasını isteyen (kimse), memnun edilmesi güç; müşkülpesent

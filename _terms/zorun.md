@@ -2,6 +2,7 @@
 layout: term
 title: zorun
 slug: zorun
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► zorunluluk

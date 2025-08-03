@@ -2,6 +2,7 @@
 layout: term
 title: angaryacı
 slug: angaryaci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Başkasına ücretsiz iş yaptıran kimse

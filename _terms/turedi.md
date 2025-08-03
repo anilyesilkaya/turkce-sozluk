@@ -2,6 +2,7 @@
 layout: term
 title: türedi
 slug: turedi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Kendisinden umulmayan bir biçimde sivrilmiş ve hakkı olmayan bir konuma gelmiş (kimse); yerden bitme, zıpçıktı

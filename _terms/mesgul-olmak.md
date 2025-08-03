@@ -2,6 +2,7 @@
 layout: term
 title: meşgul olmak
 slug: mesgul-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - vaktini vermek, uğraşmak, oyalanmak

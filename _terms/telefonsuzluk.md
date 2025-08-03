@@ -2,6 +2,7 @@
 layout: term
 title: telefonsuzluk
 slug: telefonsuzluk
+letter: T
 lisan: Türkçe
 anlamlar:
 - Telefonsuz olma durumu

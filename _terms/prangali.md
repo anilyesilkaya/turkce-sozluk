@@ -2,6 +2,7 @@
 layout: term
 title: prangalı
 slug: prangali
+letter: P
 lisan: Türkçe
 anlamlar:
 - Prangaya vurulmuş

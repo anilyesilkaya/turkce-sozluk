@@ -2,6 +2,7 @@
 layout: term
 title: yayın
 slug: yayin
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Basılıp satışa çıkarılan kitap, gazete vb.; neşriyat

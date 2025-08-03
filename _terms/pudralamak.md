@@ -2,6 +2,7 @@
 layout: term
 title: pudralamak
 slug: pudralamak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pudra sürmek

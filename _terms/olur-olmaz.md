@@ -2,6 +2,7 @@
 layout: term
 title: olur olmaz
 slug: olur-olmaz
+letter: O
 lisan: Türkçe
 anlamlar:
 - Rastgele, sıradan, kimliği, niteliği belirsiz kişi

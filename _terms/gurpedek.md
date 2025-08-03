@@ -2,6 +2,7 @@
 layout: term
 title: gürpedek
 slug: gurpedek
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► ansızın

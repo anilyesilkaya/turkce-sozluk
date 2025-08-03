@@ -2,6 +2,7 @@
 layout: term
 title: dünyevileşmek
 slug: dunyevilesmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dünyaya ait olmak, dünya ile ilgili duruma gelmek; dünyasallaşmak

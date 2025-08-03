@@ -2,6 +2,7 @@
 layout: term
 title: sökümcü
 slug: sokumcu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sökme işini yapan (kimse)

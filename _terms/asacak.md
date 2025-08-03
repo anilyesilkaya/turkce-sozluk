@@ -2,6 +2,7 @@
 layout: term
 title: asacak
 slug: asacak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► askı

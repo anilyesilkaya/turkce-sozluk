@@ -2,6 +2,7 @@
 layout: term
 title: acısızlık
 slug: acisizlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Acısız olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: dizayncı
 slug: dizaynci
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► tasarımcı

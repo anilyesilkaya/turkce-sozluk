@@ -2,6 +2,7 @@
 layout: term
 title: asap bozukluğu
 slug: asap-bozuklugu
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► sinirlilik

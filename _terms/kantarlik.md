@@ -2,6 +2,7 @@
 layout: term
 title: kantarlık
 slug: kantarlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kantar ölçüsünde olan

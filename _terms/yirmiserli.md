@@ -2,6 +2,7 @@
 layout: term
 title: yirmişerli
 slug: yirmiserli
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yirmişer yirmişer sıralanmış olan

@@ -2,6 +2,7 @@
 layout: term
 title: fındıkçılık
 slug: findikcilik
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fındıkçının yaptığı iş

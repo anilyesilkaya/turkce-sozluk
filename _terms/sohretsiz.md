@@ -2,6 +2,7 @@
 layout: term
 title: şöhretsiz
 slug: sohretsiz
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► ünsüz

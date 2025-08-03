@@ -2,6 +2,7 @@
 layout: term
 title: nikâh düşmek
 slug: nikah-dusmek
+letter: N
 lisan: Türkçe
 anlamlar:
 - birbiriyle evlenmelerine yasal yönden veya örf bakımından engel bulunmamak

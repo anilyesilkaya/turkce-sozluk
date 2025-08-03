@@ -2,6 +2,7 @@
 layout: term
 title: kıvılcım
 slug: kivilcim
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yanmakta olan bir maddeden sıçrayan küçük ateş parçası; çakım, çakın, çıngı, şerare

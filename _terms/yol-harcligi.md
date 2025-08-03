@@ -2,6 +2,7 @@
 layout: term
 title: yol harçlığı
 slug: yol-harcligi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir kimseye yolculuk sırasında kullanması için verilen para

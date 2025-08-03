@@ -2,6 +2,7 @@
 layout: term
 title: öldürücülük
 slug: olduruculuk
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öldürücü olma durumu

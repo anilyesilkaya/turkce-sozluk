@@ -2,6 +2,7 @@
 layout: term
 title: yanıtsızlık
 slug: yanitsizlik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► cevapsızlık

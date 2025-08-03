@@ -2,6 +2,7 @@
 layout: term
 title: halt yemek
 slug: halt-yemek
+letter: H
 lisan: Türkçe
 anlamlar:
 - halt etmek

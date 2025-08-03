@@ -2,6 +2,7 @@
 layout: term
 title: ustura
 slug: ustura
+letter: U
 lisan: Farsça usture
 anlamlar:
 - Tıraş için kullanılan, açılır kapanır, çok keskin bıçak; baş bıçağı, tıraş bıçağı, yülgü

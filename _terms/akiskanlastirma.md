@@ -2,6 +2,7 @@
 layout: term
 title: akışkanlaştırma
 slug: akiskanlastirma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Akışkanlaştırmak işi

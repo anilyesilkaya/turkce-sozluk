@@ -2,6 +2,7 @@
 layout: term
 title: görünmek
 slug: gorunmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Görülür duruma gelmek, görülür olmak; gözükmek

@@ -2,6 +2,7 @@
 layout: term
 title: tür
 slug: tur
+letter: T
 lisan: Türkçe
 anlamlar:
 - Aynı çeşit varlıklar veya nesneler içinde ortak özellikleri bulunanların her biri; soy, cins, kabîl

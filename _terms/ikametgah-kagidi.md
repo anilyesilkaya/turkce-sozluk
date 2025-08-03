@@ -2,6 +2,7 @@
 layout: term
 title: ikametgâh kâğıdı
 slug: ikametgah-kagidi
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► yerleşim belgesi

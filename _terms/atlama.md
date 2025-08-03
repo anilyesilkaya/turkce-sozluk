@@ -2,6 +2,7 @@
 layout: term
 title: atlama
 slug: atlama
+letter: A
 lisan: Türkçe
 anlamlar:
 - Atlamak işi

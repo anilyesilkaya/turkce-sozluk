@@ -2,6 +2,7 @@
 layout: term
 title: iç etmek
 slug: ic-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - eline geçen bir şeyi sahibine bildirmeyerek kendine mal etmek

@@ -2,6 +2,7 @@
 layout: term
 title: mayınsız
 slug: mayinsiz
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mayını olmayan, mayınlanmamış yer

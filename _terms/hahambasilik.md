@@ -2,6 +2,7 @@
 layout: term
 title: hahambaşılık
 slug: hahambasilik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hahambaşının görevi

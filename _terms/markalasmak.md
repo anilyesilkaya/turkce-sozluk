@@ -2,6 +2,7 @@
 layout: term
 title: markalaşmak
 slug: markalasmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - Ürün marka durumuna gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: yayılım
 slug: yayilim
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yayılmak işi

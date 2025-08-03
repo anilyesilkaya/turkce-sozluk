@@ -2,6 +2,7 @@
 layout: term
 title: dolmuş
 slug: dolmus
+letter: D
 lisan: Türkçe
 anlamlar:
 - Boş yeri kalmamış; meşbu

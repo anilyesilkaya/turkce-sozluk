@@ -2,6 +2,7 @@
 layout: term
 title: bilinçlendirilebilmek
 slug: bilinclendirilebilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilinçlendirilme ihtimali veya imkânı bulunmak; şuurlandırılabilmek

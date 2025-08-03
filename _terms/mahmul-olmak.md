@@ -2,6 +2,7 @@
 layout: term
 title: mahmul olmak
 slug: mahmul-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - dolu bulunmak

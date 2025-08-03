@@ -2,6 +2,7 @@
 layout: term
 title: rölantiye almak
 slug: rolantiye-almak
+letter: R
 lisan: Türkçe
 anlamlar:
 - motorlu taşıtlarda motoru boşa almak, boşta çalıştırmak

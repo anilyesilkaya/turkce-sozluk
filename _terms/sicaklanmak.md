@@ -2,6 +2,7 @@
 layout: term
 title: sıcaklanmak
 slug: sicaklanmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıcaktan bunalmak

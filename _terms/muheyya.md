@@ -2,6 +2,7 @@
 layout: term
 title: müheyya
 slug: muheyya
+letter: M
 lisan: Arapça muheyyā
 anlamlar:
 - ► hazır

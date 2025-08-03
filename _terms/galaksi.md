@@ -2,6 +2,7 @@
 layout: term
 title: galaksi
 slug: galaksi
+letter: G
 lisan: Fransızca galaxie
 anlamlar:
 - ► gök ada

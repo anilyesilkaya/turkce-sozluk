@@ -2,6 +2,7 @@
 layout: term
 title: 'kaynaştırma eğitimi '
 slug: kaynastirma-egitimi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Özel eğitim ihtiyacı olan bireylerin her tür ve kademede diğer bireylerle karşılıklı etkileşim içinde bulunmalarını ve eğitim amaçlarını en üst düzeyde gerçekleştirmelerini sağlamak amacıyla, bu bireylere destek eğitim hizmetleri de sağlanarak akranlarıyla birlikte tam zamanlı ya da özel eğitim sınıflarında yarı zamanlı olarak verilen eğitim; bütünleştirme eğitimi

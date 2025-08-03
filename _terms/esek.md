@@ -2,6 +2,7 @@
 layout: term
 title: eşek
 slug: esek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Atgillerden, uzun kulaklı binek ve hizmet hayvanı; merkep, karakaçan, uzun kulaklı (Equus asinus)

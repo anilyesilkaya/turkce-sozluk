@@ -2,6 +2,7 @@
 layout: term
 title: hidrofil
 slug: hidrofil
+letter: H
 lisan: Fransızca hydrophile
 anlamlar:
 - ► sucul

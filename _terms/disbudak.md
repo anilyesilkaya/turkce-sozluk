@@ -2,6 +2,7 @@
 layout: term
 title: dişbudak
 slug: disbudak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Zeytingillerden, kerestesi sert ve değerli bir ağaç; demircik (Fraxinus excelsior)

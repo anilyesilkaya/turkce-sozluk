@@ -2,6 +2,7 @@
 layout: term
 title: beyaz kömür
 slug: beyaz-komur
+letter: B
 lisan: Türkçe
 anlamlar:
 - Akarsulardan elde edilen elektrik gücü

@@ -2,6 +2,7 @@
 layout: term
 title: yerinden oynamak
 slug: yerinden-oynamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yerinden ayrılmak

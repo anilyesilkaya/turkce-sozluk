@@ -2,6 +2,7 @@
 layout: term
 title: ziyafet çekmek (veya vermek)
 slug: ziyafet-cekmek-veya-vermek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - konukları yemekli ağırlamak

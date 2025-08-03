@@ -2,6 +2,7 @@
 layout: term
 title: boru hattı
 slug: boru-hatti
+letter: B
 lisan: Türkçe
 anlamlar:
 - Doğal gaz arıtma ünitesinden alınan gazın, bir veya daha fazla dağıtım veya tüketim merkezine taşınması amacıyla tesis edilen boru şebekesi; boru yolu

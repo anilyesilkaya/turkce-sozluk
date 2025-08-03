@@ -2,6 +2,7 @@
 layout: term
 title: burjuvalık
 slug: burjuvalik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Burjuva olma durumu

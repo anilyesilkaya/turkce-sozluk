@@ -2,6 +2,7 @@
 layout: term
 title: tıkmak
 slug: tikmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - İterek, zorla, aceleyle sokmak

@@ -2,6 +2,7 @@
 layout: term
 title: '... lüksü olmamak'
 slug: luksu-olmamak
+letter: .
 lisan: Türkçe
 anlamlar:
 - yapılan bir işte geri dönülemeyecek bir noktada olmak

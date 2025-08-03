@@ -2,6 +2,7 @@
 layout: term
 title: oyun kâğıdı
 slug: oyun-kagidi
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► iskambil kâğıdı

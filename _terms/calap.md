@@ -2,6 +2,7 @@
 layout: term
 title: Çalap
 slug: calap
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► Allah

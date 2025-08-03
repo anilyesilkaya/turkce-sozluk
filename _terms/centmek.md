@@ -2,6 +2,7 @@
 layout: term
 title: çentmek
 slug: centmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir şeyin kenarında çentik açmak; kertmek

@@ -2,6 +2,7 @@
 layout: term
 title: kadılık
 slug: kadilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kadı olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: iadeli
 slug: iadeli
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► iadeli taahhütlü

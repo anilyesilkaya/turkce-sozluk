@@ -2,6 +2,7 @@
 layout: term
 title: çıkış yolu
 slug: cikis-yolu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çözüm

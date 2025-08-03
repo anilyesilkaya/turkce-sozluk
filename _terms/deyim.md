@@ -2,6 +2,7 @@
 layout: term
 title: deyim
 slug: deyim
+letter: D
 lisan: Türkçe
 anlamlar:
 - Genellikle gerçek anlamından az çok ayrı, kendine özgü bir anlam taşıyan kalıplaşmış söz öbeği; tabir

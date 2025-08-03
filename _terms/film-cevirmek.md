@@ -2,6 +2,7 @@
 layout: term
 title: film çevirmek
 slug: film-cevirmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - beyaz perdede oynatılacak bir eseri filme almak veya bu eserin çekilişi sırasında rol yapmak

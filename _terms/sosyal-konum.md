@@ -2,6 +2,7 @@
 layout: term
 title: sosyal konum
 slug: sosyal-konum
+letter: S
 lisan: Türkçe
 anlamlar:
 - İnsanın toplum içindeki durumu, makamı, yeri

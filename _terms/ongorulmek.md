@@ -2,6 +2,7 @@
 layout: term
 title: öngörülmek
 slug: ongorulmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - İlerisi için kararlaştırılmak, göz önünde tutulmak

@@ -2,6 +2,7 @@
 layout: term
 title: kuş dili
 slug: kus-dili
+letter: K
 lisan: Türkçe
 anlamlar:
 - Genellikle çocukların kelimelerin başına veya hecelerin arasına başka heceler ekleyerek oluşturdukları bir konuşma türü

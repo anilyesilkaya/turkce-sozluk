@@ -2,6 +2,7 @@
 layout: term
 title: aksesuarcı
 slug: aksesuarci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aksesuar satan kimse

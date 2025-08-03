@@ -2,6 +2,7 @@
 layout: term
 title: modernleşmek
 slug: modernlesmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► çağdaşlaşmak

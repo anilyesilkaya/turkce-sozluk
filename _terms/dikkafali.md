@@ -2,6 +2,7 @@
 layout: term
 title: dikkafalı
 slug: dikkafali
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► dikbaşlı

@@ -2,6 +2,7 @@
 layout: term
 title: dilber
 slug: dilber
+letter: D
 lisan: Farsça dilber
 anlamlar:
 - Alımlı, güzel kadın

@@ -2,6 +2,7 @@
 layout: term
 title: borç bini aşmak
 slug: borc-bini-asmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - borç altından kalkılamayacak duruma gelmek

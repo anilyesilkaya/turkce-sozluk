@@ -2,6 +2,7 @@
 layout: term
 title: ayakta kalmak
 slug: ayakta-kalmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - oturacak yer bulamamak

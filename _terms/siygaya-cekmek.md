@@ -2,6 +2,7 @@
 layout: term
 title: sıygaya çekmek
 slug: siygaya-cekmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - birine sorular sorup cevaplarını istemek

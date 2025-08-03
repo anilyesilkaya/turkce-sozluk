@@ -2,6 +2,7 @@
 layout: term
 title: primadonna
 slug: primadonna
+letter: P
 lisan: İtalyanca prima donna
 anlamlar:
 - ► başoyuncu

@@ -2,6 +2,7 @@
 layout: term
 title: mahzuz
 slug: mahzuz
+letter: M
 lisan: Arapça maḥẓūẓ
 anlamlar:
 - Haz duymuş, hoşlanmış

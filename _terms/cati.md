@@ -2,6 +2,7 @@
 layout: term
 title: çatı
 slug: cati
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir yapının, bir evin damını kuran parçaların bütünü; sakaf

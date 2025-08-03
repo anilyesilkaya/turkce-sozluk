@@ -2,6 +2,7 @@
 layout: term
 title: cinaslı uyak
 slug: cinasli-uyak
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► cinaslı kafiye

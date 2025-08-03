@@ -2,6 +2,7 @@
 layout: term
 title: naçizane
 slug: nacizane
+letter: N
 lisan: Farsça nāçīzāne
 anlamlar:
 - Haddi olmayarak

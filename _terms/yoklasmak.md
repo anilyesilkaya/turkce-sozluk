@@ -2,6 +2,7 @@
 layout: term
 title: yoklaşmak
 slug: yoklasmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yok duruma gelmek

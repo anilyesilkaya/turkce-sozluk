@@ -2,6 +2,7 @@
 layout: term
 title: cesaret etmek
 slug: cesaret-etmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - korkulması gereken bir işe korkmadan girişmek, göze almak

@@ -2,6 +2,7 @@
 layout: term
 title: uzunluk
 slug: uzunluk
+letter: U
 lisan: Türkçe
 anlamlar:
 - Bir şeyin bir uçtan öbür uca kadar olan uzaklığı

@@ -2,6 +2,7 @@
 layout: term
 title: yeter ki
 slug: yeter-ki
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ancak, şu şartla

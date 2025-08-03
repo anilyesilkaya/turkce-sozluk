@@ -2,6 +2,7 @@
 layout: term
 title: komitacı
 slug: komitaci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Siyasi bir amaca ulaşmak için silahlı mücadele eden gizli topluluk veya örgüte bağlı kimse

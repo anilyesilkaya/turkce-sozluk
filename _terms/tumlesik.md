@@ -2,6 +2,7 @@
 layout: term
 title: tümleşik
 slug: tumlesik
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► bütünleşik

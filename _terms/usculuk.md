@@ -2,6 +2,7 @@
 layout: term
 title: usçuluk
 slug: usculuk
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► akılcılık

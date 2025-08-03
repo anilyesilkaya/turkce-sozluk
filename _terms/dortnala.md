@@ -2,6 +2,7 @@
 layout: term
 title: dörtnala
 slug: dortnala
+letter: D
 lisan: Türkçe
 anlamlar:
 - At dörtnal koşarak

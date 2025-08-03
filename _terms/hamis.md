@@ -2,6 +2,7 @@
 layout: term
 title: hamiş
 slug: hamis
+letter: H
 lisan: Arapça hāmiş
 anlamlar:
 - ► çıkma

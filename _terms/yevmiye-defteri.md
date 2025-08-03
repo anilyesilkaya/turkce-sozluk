@@ -2,6 +2,7 @@
 layout: term
 title: yevmiye defteri
 slug: yevmiye-defteri
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► günlük defter

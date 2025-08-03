@@ -2,6 +2,7 @@
 layout: term
 title: keşfedilme
 slug: kesfedilme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Keşfedilmek işi

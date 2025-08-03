@@ -2,6 +2,7 @@
 layout: term
 title: padişahlık
 slug: padisahlik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Padişah olma durumu

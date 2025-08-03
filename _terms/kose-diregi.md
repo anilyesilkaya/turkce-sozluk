@@ -2,6 +2,7 @@
 layout: term
 title: köşe direği
 slug: kose-diregi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Futbolda kale çizgisiyle taç çizgisinin kesiştiği köşelerde yer alan, üzerinde bayrak bulunan direk; korner direği, köşe gönderi

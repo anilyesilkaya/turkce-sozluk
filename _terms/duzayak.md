@@ -2,6 +2,7 @@
 layout: term
 title: düzayak
 slug: duzayak
+letter: D
 lisan: Türkçe
 anlamlar:
 - İçinde merdiven veya inilip çıkılacak bölüm bulunmayan (ev, yol)

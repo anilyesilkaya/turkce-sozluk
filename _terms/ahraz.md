@@ -2,6 +2,7 @@
 layout: term
 title: ahraz
 slug: ahraz
+letter: A
 lisan: Arapça aḫres
 anlamlar:
 - ► dilsiz

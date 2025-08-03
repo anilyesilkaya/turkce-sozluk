@@ -2,6 +2,7 @@
 layout: term
 title: dokuzgen
 slug: dokuzgen
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dokuz kenarı olan çokgen

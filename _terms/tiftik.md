@@ -2,6 +2,7 @@
 layout: term
 title: tiftik
 slug: tiftik
+letter: T
 lisan: Arapça teftīk
 anlamlar:
 - Tiftik keçisinin ince, yumuşak, parlak yünü; moher

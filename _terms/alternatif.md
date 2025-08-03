@@ -2,6 +2,7 @@
 layout: term
 title: alternatif
 slug: alternatif
+letter: A
 lisan: Fransızca alternatif
 anlamlar:
 - ► seçenek

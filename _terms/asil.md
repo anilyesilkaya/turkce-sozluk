@@ -2,6 +2,7 @@
 layout: term
 title: asil
 slug: asil
+letter: A
 lisan: Arapça aṣīl
 anlamlar:
 - ► soylu

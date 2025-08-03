@@ -2,6 +2,7 @@
 layout: term
 title: cüsseli
 slug: cusseli
+letter: C
 lisan: Türkçe
 anlamlar:
 - İri yapılı, iri gövdeli, iri yarı olan

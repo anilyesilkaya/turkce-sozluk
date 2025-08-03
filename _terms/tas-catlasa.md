@@ -2,6 +2,7 @@
 layout: term
 title: taş çatlasa
 slug: tas-catlasa
+letter: T
 lisan: Türkçe
 anlamlar:
 - bütün olanakların kullanılmış olmasına karşın

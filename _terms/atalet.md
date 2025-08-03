@@ -2,6 +2,7 @@
 layout: term
 title: atalet
 slug: atalet
+letter: A
 lisan: Arapça ʿaṭālet
 anlamlar:
 - ► tembellik

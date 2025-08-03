@@ -2,6 +2,7 @@
 layout: term
 title: sargısız
 slug: sargisiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sargısı olmayan

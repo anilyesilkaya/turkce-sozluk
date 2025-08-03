@@ -2,6 +2,7 @@
 layout: term
 title: ümit bırakmak
 slug: umit-birakmak
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - umut bırakmak

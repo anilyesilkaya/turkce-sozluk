@@ -2,6 +2,7 @@
 layout: term
 title: gömlekli
 slug: gomlekli
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gömleği olan

@@ -2,6 +2,7 @@
 layout: term
 title: cedelleşme
 slug: cedellesme
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cedelleşmek işi; becelleşme, cebelleşme

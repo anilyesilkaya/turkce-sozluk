@@ -2,6 +2,7 @@
 layout: term
 title: küllü
 slug: kullu
+letter: K
 lisan: Türkçe
 anlamlar:
 - İçinde veya üzerinde kül bulunan

@@ -2,6 +2,7 @@
 layout: term
 title: tarihlenebilmek
 slug: tarihlenebilmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Hangi tarihte yapıldığı veya yazıldığı belirlenebilmek

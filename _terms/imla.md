@@ -2,6 +2,7 @@
 layout: term
 title: imla
 slug: imla
+letter: I
 lisan: Arapça imlāʾ
 anlamlar:
 - Söyleyerek birine yazdırma

@@ -2,6 +2,7 @@
 layout: term
 title: iki paralık olmak
 slug: iki-paralik-olmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - rezil olmak, utanılacak duruma düşmek

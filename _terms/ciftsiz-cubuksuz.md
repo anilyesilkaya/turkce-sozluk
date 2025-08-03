@@ -2,6 +2,7 @@
 layout: term
 title: çiftsiz çubuksuz
 slug: ciftsiz-cubuksuz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çiftçilik yapabilmek için gereken araçlar olmadan

@@ -2,6 +2,7 @@
 layout: term
 title: berdelacuz
 slug: berdelacuz
+letter: B
 lisan: Arapça berd + ʿacūz
 anlamlar:
 - Halk takvimine göre 11-17 Mart arasında görülen kocakarı soğuğu

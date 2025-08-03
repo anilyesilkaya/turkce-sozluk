@@ -2,6 +2,7 @@
 layout: term
 title: ağartabilmek
 slug: agartabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► beyazlatabilmek

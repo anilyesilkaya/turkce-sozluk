@@ -2,6 +2,7 @@
 layout: term
 title: olaycılık
 slug: olaycilik
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► görüngücülük

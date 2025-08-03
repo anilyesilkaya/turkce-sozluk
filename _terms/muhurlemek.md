@@ -2,6 +2,7 @@
 layout: term
 title: mühürlemek
 slug: muhurlemek
+letter: M
 lisan: Türkçe
 anlamlar:
 - Bir yazı, belge vb.nin doğruluğunu veya kabul ve onayını belirtmek amacı ile altına mühür koymak, mühür basmak

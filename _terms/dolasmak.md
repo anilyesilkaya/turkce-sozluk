@@ -2,6 +2,7 @@
 layout: term
 title: dolaşmak
 slug: dolasmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► gezinmek

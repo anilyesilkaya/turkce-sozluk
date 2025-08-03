@@ -2,6 +2,7 @@
 layout: term
 title: ölüm döşeği
 slug: olum-dosegi
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Son nefesin verileceği yatak veya yer

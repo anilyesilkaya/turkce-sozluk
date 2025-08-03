@@ -2,6 +2,7 @@
 layout: term
 title: tutunabilmek
 slug: tutunabilmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tutunma ihtimali veya imkânı bulunmak

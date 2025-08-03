@@ -2,6 +2,7 @@
 layout: term
 title: tuzlu
 slug: tuzlu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tuzu olan

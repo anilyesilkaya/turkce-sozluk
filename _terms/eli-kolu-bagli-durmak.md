@@ -2,6 +2,7 @@
 layout: term
 title: eli kolu bağlı durmak
 slug: eli-kolu-bagli-durmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - bir şey yapmadan beklemek

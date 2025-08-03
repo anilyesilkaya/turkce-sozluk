@@ -2,6 +2,7 @@
 layout: term
 title: yakınmasız
 slug: yakinmasiz
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yakınmadan

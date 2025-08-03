@@ -2,6 +2,7 @@
 layout: term
 title: kalıp kıyafet
 slug: kalip-kiyafet
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kılık kıyafet

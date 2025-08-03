@@ -2,6 +2,7 @@
 layout: term
 title: akak
 slug: akak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► yatak

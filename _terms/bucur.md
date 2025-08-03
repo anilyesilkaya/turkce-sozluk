@@ -2,6 +2,7 @@
 layout: term
 title: bücür
 slug: bucur
+letter: B
 lisan: Türkçe
 anlamlar:
 - Ufak tefek ve kısa boylu (kimse)

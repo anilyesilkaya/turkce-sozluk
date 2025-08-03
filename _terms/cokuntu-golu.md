@@ -2,6 +2,7 @@
 layout: term
 title: çöküntü gölü
 slug: cokuntu-golu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Yer kabuğundaki çöküntü hendeklerinin sularla dolması sonucunda oluşmuş göl

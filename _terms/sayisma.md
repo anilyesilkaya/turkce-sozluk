@@ -2,6 +2,7 @@
 layout: term
 title: sayışma
 slug: sayisma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sayışmak işi; değişim

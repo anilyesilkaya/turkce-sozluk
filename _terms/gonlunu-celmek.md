@@ -2,6 +2,7 @@
 layout: term
 title: gönlünü çelmek
 slug: gonlunu-celmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - kandırmak, yola getirmek, aşkını kazanmak

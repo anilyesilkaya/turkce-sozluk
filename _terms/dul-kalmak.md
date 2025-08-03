@@ -2,6 +2,7 @@
 layout: term
 title: dul kalmak
 slug: dul-kalmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - kadın veya erkeğin eşi ölmek

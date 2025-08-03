@@ -2,6 +2,7 @@
 layout: term
 title: cazibesizlik
 slug: cazibesizlik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Çekici olmama durumu

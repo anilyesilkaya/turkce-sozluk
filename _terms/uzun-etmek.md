@@ -2,6 +2,7 @@
 layout: term
 title: uzun etmek
 slug: uzun-etmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - tartışmayı sürdürmek

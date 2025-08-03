@@ -2,6 +2,7 @@
 layout: term
 title: kültürsüz
 slug: kultursuz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kültürü olmayan

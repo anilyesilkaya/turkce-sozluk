@@ -2,6 +2,7 @@
 layout: term
 title: keçi sakallı
 slug: keci-sakalli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Keçi sakalı olan

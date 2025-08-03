@@ -2,6 +2,7 @@
 layout: term
 title: sefalet
 slug: sefalet
+letter: S
 lisan: Arapça sefālet
 anlamlar:
 - ► yoksulluk

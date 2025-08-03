@@ -2,6 +2,7 @@
 layout: term
 title: çağıl çağıl
 slug: cagil-cagil
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çağıldayarak

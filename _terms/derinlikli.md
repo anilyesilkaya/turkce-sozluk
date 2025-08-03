@@ -2,6 +2,7 @@
 layout: term
 title: derinlikli
 slug: derinlikli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Derinliği olan

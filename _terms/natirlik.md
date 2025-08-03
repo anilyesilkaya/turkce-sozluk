@@ -2,6 +2,7 @@
 layout: term
 title: natırlık
 slug: natirlik
+letter: N
 lisan: Türkçe
 anlamlar:
 - Natırın yaptığı iş

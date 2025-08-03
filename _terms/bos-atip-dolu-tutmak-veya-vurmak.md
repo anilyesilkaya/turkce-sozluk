@@ -2,6 +2,7 @@
 layout: term
 title: boş atıp dolu tutmak (veya vurmak)
 slug: bos-atip-dolu-tutmak-veya-vurmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir konuda ağız yoklayarak durumu öğrenmek

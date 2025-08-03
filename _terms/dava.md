@@ -2,6 +2,7 @@
 layout: term
 title: dava
 slug: dava
+letter: D
 lisan: Arapça daʿvā
 anlamlar:
 - Korunmanın bir hüküm ile sağlanması için yargı organlarına yapılan başvuru

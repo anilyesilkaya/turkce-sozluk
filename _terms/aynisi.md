@@ -2,6 +2,7 @@
 layout: term
 title: aynısı
 slug: aynisi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayırt edilemeyecek kadar benzerlik göstereni; tıpkısı

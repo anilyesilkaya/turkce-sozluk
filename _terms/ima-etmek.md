@@ -2,6 +2,7 @@
 layout: term
 title: ima etmek
 slug: ima-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - dolaylı anlatmak, anıştırmak, ihsas etmek

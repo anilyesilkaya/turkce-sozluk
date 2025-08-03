@@ -2,6 +2,7 @@
 layout: term
 title: parmağını aramak
 slug: parmagini-aramak
+letter: P
 lisan: Türkçe
 anlamlar:
 - ilgisini, bağlantısını aramak, kurulan düzeni araştırmak

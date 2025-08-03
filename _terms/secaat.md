@@ -2,6 +2,7 @@
 layout: term
 title: şecaat
 slug: secaat
+letter: Ş
 lisan: Arapça şecāʿat
 anlamlar:
 - ► yiğitlik

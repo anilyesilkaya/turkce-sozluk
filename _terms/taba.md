@@ -2,6 +2,7 @@
 layout: term
 title: taba
 slug: taba
+letter: T
 lisan: Fransızca tabac
 anlamlar:
 - Kuru tütün yaprağını andıran kızılımsı kahverengi; tütün rengi

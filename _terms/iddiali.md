@@ -2,6 +2,7 @@
 layout: term
 title: iddialı
 slug: iddiali
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bir iddiası olan

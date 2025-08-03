@@ -2,6 +2,7 @@
 layout: term
 title: estetikçi
 slug: estetikci
+letter: E
 lisan: Türkçe
 anlamlar:
 - Estetikle uğraşan kimse

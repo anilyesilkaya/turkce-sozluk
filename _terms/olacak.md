@@ -2,6 +2,7 @@
 layout: term
 title: olacak
 slug: olacak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Olması, yapılması uygun olan

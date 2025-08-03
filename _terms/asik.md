@@ -2,6 +2,7 @@
 layout: term
 title: aşık
 slug: asik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► aşık kemiği

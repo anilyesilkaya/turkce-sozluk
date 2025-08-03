@@ -2,6 +2,7 @@
 layout: term
 title: göreci
 slug: goreci
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► bağıntıcı

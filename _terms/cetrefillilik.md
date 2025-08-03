@@ -2,6 +2,7 @@
 layout: term
 title: çetrefillilik
 slug: cetrefillilik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çetrefilli olma durumu

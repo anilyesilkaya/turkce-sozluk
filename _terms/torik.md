@@ -2,6 +2,7 @@
 layout: term
 title: torik
 slug: torik
+letter: T
 lisan: Rumca
 anlamlar:
 - İri palamut balığı (Palemye sarda)

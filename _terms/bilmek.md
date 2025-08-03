@@ -2,6 +2,7 @@
 layout: term
 title: bilmek
 slug: bilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir şey hakkında bilgi sahibi olmak, öğrenmiş bulunmak

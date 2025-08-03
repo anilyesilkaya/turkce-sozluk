@@ -2,6 +2,7 @@
 layout: term
 title: amiyanelik
 slug: amiyanelik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Amiyane olma durumu

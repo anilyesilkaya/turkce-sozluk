@@ -2,6 +2,7 @@
 layout: term
 title: tekil
 slug: tekil
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► teklik

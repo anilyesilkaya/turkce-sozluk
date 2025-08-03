@@ -2,6 +2,7 @@
 layout: term
 title: oluşturabilmek
 slug: olusturabilmek
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oluşturma ihtimali veya imkânı bulunmak

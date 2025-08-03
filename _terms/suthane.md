@@ -2,6 +2,7 @@
 layout: term
 title: süthane
 slug: suthane
+letter: S
 lisan: Türkçe süt + Farsça ḫāne
 anlamlar:
 - Süt ve süt ürünleri üretilen ve satılan yer

@@ -2,6 +2,7 @@
 layout: term
 title: menekşe rengi
 slug: menekse-rengi
+letter: M
 lisan: Türkçe
 anlamlar:
 - Menekşe çiçeğinin mor rengi

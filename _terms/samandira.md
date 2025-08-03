@@ -2,6 +2,7 @@
 layout: term
 title: şamandıra
 slug: samandira
+letter: Ş
 lisan: Rumca
 anlamlar:
 - Halkalarına tekne bağlamak için limanda demirlenmiş olan, içi boş, her yanı kapalı, çoğunlukla metalden yapılan fıçı vb.; yüzer top

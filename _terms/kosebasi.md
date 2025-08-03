@@ -2,6 +2,7 @@
 layout: term
 title: köşebaşı
 slug: kosebasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir sokağın başka bir sokakla veya caddeyle kesiştiği yer

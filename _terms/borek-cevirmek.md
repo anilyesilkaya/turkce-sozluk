@@ -2,6 +2,7 @@
 layout: term
 title: börek çevirmek
 slug: borek-cevirmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - börek yapmak

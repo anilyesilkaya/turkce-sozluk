@@ -2,6 +2,7 @@
 layout: term
 title: yangın bombası
 slug: yangin-bombasi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yangın çıkarmak için kullanılan türlü biçimlerde bomba

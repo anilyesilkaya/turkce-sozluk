@@ -2,6 +2,7 @@
 layout: term
 title: öbür dünyayı boylamak
 slug: obur-dunyayi-boylamak
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ahireti boylamak

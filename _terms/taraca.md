@@ -2,6 +2,7 @@
 layout: term
 title: taraça
 slug: taraca
+letter: T
 lisan: İtalyanca terrazza
 anlamlar:
 - ► teras

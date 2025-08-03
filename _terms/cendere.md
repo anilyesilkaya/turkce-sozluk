@@ -2,6 +2,7 @@
 layout: term
 title: cendere
 slug: cendere
+letter: C
 lisan: Farsça cendere
 anlamlar:
 - ► pres

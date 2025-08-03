@@ -2,6 +2,7 @@
 layout: term
 title: yalazlamak
 slug: yalazlamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir şeyi alevden geçirmek

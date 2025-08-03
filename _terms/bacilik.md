@@ -2,6 +2,7 @@
 layout: term
 title: bacılık
 slug: bacilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bacı olma durumu

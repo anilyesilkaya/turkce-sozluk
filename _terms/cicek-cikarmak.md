@@ -2,6 +2,7 @@
 layout: term
 title: çiçek çıkarmak
 slug: cicek-cikarmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - çiçek hastalığına tutulmak

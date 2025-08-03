@@ -2,6 +2,7 @@
 layout: term
 title: muvaffak olmak
 slug: muvaffak-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - başarmak

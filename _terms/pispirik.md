@@ -2,6 +2,7 @@
 layout: term
 title: pişpirik
 slug: pispirik
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► pişti

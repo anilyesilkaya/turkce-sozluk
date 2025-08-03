@@ -2,6 +2,7 @@
 layout: term
 title: içini yemek
 slug: icini-yemek
+letter: I
 lisan: Türkçe
 anlamlar:
 - şüphe içinde kıvranarak çok üzülmek

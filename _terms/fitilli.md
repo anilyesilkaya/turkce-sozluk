@@ -2,6 +2,7 @@
 layout: term
 title: fitilli
 slug: fitilli
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fitili olan veya fitille ateşlenen

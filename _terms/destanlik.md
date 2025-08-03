@@ -2,6 +2,7 @@
 layout: term
 title: destanlık
 slug: destanlik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Destan olabilecek nitelikte olan

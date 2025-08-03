@@ -2,6 +2,7 @@
 layout: term
 title: münasebetsiz
 slug: munasebetsiz
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► uygunsuz

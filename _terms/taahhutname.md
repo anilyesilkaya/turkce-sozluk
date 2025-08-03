@@ -2,6 +2,7 @@
 layout: term
 title: taahhütname
 slug: taahhutname
+letter: T
 lisan: Arapça taʿahhud + Farsça nāme
 anlamlar:
 - Bir şeyi yapmayı üstüne aldığını bildiren yazılı kâğıt

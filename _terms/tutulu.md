@@ -2,6 +2,7 @@
 layout: term
 title: tutulu
 slug: tutulu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tutulmuş

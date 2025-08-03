@@ -2,6 +2,7 @@
 layout: term
 title: erim erim
 slug: erim-erim
+letter: E
 lisan: Türkçe
 anlamlar:
 - '"Zayıflamak, güçsüz bir duruma gelmek" anlamlarındaki erim erim erimek deyiminde geçen bir söz'

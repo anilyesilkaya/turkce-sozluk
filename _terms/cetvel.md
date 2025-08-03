@@ -2,6 +2,7 @@
 layout: term
 title: cetvel
 slug: cetvel
+letter: C
 lisan: Arapça cedvel
 anlamlar:
 - Doğru çizgileri çizmeye yarayan, dereceli veya derecesiz, tahtadan, plastikten, madenden yapılmış araç; çizgilik

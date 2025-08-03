@@ -2,6 +2,7 @@
 layout: term
 title: kafasının kontağı atmak
 slug: kafasinin-kontagi-atmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - çok sinirlenmek, öfke ile dolmak

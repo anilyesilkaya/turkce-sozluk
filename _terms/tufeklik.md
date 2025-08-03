@@ -2,6 +2,7 @@
 layout: term
 title: tüfeklik
 slug: tufeklik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Kışla gibi yerlerde tüfekleri düzenli bir biçimde koymak için yapılmış yer

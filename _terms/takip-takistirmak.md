@@ -2,6 +2,7 @@
 layout: term
 title: takıp takıştırmak
 slug: takip-takistirmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - özenerek süslenmek

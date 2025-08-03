@@ -2,6 +2,7 @@
 layout: term
 title: paslaşmak
 slug: paslasmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Bazı top oyunlarında oyuncular topu birbirine geçirmek

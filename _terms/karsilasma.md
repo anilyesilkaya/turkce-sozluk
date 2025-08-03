@@ -2,6 +2,7 @@
 layout: term
 title: karşılaşma
 slug: karsilasma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karşılaşmak işi

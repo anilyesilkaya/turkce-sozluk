@@ -2,6 +2,7 @@
 layout: term
 title: çarpım
 slug: carpim
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çarpma işleminin sonucu olan sayı; kerrat

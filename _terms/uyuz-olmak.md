@@ -2,6 +2,7 @@
 layout: term
 title: uyuz olmak
 slug: uyuz-olmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - uyuz hastalığına yakalanmak

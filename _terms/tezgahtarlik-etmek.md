@@ -2,6 +2,7 @@
 layout: term
 title: tezgâhtarlık etmek
 slug: tezgahtarlik-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - bir iş yerinde tezgâhtar olarak çalışmak

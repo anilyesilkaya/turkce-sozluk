@@ -2,6 +2,7 @@
 layout: term
 title: pürmüz
 slug: purmuz
+letter: P
 lisan: (Primus marka adından)
 anlamlar:
 - Metalleri lehimleme, kesme, eritme ve ısıtma işlerinde kullanılan, güçlü alev çıkaran, benzin veya gazla çalışan araç

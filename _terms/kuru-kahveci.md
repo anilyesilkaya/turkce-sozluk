@@ -2,6 +2,7 @@
 layout: term
 title: kuru kahveci
 slug: kuru-kahveci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kuru kahve hazırlayıp satan kimse; tahmisçi

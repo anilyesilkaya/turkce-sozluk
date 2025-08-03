@@ -2,6 +2,7 @@
 layout: term
 title: haytalık etmek
 slug: haytalik-etmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - serserice davranışlarda bulunmak

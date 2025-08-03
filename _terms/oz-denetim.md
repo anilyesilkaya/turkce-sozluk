@@ -2,6 +2,7 @@
 layout: term
 title: öz denetim
 slug: oz-denetim
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Daha önemli bir amaca ulaşabilmek için kişinin tepkilerini, davranışlarını veya başka amaca yönelme eğilimini denetleyip kısıtlaması; otokontrol

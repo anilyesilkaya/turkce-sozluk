@@ -2,6 +2,7 @@
 layout: term
 title: nispet vermek (veya yapmak)
 slug: nispet-vermek-veya-yapmak
+letter: N
 lisan: Türkçe
 anlamlar:
 - karşısındakini kızdırmak için ona gösteriş yapmak

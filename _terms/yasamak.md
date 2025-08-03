@@ -2,6 +2,7 @@
 layout: term
 title: yaşamak
 slug: yasamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Canlılığını, hayatını sürdürmek

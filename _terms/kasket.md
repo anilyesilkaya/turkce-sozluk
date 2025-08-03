@@ -2,6 +2,7 @@
 layout: term
 title: kasket
 slug: kasket
+letter: K
 lisan: Fransızca casquette
 anlamlar:
 - Genellikle erkeklerin giydiği, önü siperli başlık

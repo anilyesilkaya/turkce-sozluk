@@ -2,6 +2,7 @@
 layout: term
 title: tabaklanmak
 slug: tabaklanmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► sepilenmek

@@ -2,6 +2,7 @@
 layout: term
 title: başhemşirelik
 slug: bashemsirelik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başhemşire olma durumu

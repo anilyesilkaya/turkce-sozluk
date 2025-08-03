@@ -2,6 +2,7 @@
 layout: term
 title: süs
 slug: sus
+letter: S
 lisan: Türkçe
 anlamlar:
 - Süslemeye, süslenmeye yarayan şey; bezek, bezen, bezgi, cıcık, ziynet

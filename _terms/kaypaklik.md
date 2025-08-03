@@ -2,6 +2,7 @@
 layout: term
 title: kaypaklık
 slug: kaypaklik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaypak olma durumu

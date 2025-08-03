@@ -2,6 +2,7 @@
 layout: term
 title: akıl kârı
 slug: akil-kari
+letter: A
 lisan: Türkçe
 anlamlar:
 - Akla uygun olan, akla yatkın olan

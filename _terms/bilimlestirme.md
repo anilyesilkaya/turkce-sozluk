@@ -2,6 +2,7 @@
 layout: term
 title: bilimleştirme
 slug: bilimlestirme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilimleştirmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: buz sisi
 slug: buz-sisi
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► buzlu duman

@@ -2,6 +2,7 @@
 layout: term
 title: cibre
 slug: cibre
+letter: C
 lisan: Rumca
 anlamlar:
 - Sıkılıp suyu alınan üzüm vb. meyvelerin posası

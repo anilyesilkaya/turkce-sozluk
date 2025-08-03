@@ -2,6 +2,7 @@
 layout: term
 title: bela olmak
 slug: bela-olmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - aşırı güçlük, sıkıntı ve zarara sebep olmak

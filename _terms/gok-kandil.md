@@ -2,6 +2,7 @@
 layout: term
 title: gök kandil
 slug: gok-kandil
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► kör kandil

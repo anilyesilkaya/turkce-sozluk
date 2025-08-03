@@ -2,6 +2,7 @@
 layout: term
 title: yetiştirim
 slug: yetistirim
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir hayvan veya insana herhangi bir amaçla birtakım alışkanlıklar ve beceriler kazandırma işi

@@ -2,6 +2,7 @@
 layout: term
 title: tomurmak
 slug: tomurmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Ağacı dibinden kesmek

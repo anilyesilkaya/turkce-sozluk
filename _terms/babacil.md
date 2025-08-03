@@ -2,6 +2,7 @@
 layout: term
 title: babacıl
 slug: babacil
+letter: B
 lisan: Türkçe
 anlamlar:
 - Babasını çok seven, babasına çok düşkün olan

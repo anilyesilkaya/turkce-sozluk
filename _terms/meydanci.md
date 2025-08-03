@@ -2,6 +2,7 @@
 layout: term
 title: meydancı
 slug: meydanci
+letter: M
 lisan: Türkçe
 anlamlar:
 - Avlu, bahçe vb. yerleri süpürüp temizleyen hizmetli

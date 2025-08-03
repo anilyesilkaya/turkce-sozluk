@@ -2,6 +2,7 @@
 layout: term
 title: ezgince
 slug: ezgince
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ezgin bir biçimde olan

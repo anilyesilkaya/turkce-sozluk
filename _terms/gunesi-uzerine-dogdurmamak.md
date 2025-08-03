@@ -2,6 +2,7 @@
 layout: term
 title: güneşi üzerine doğdurmamak
 slug: gunesi-uzerine-dogdurmamak
+letter: G
 lisan: Türkçe
 anlamlar:
 - güneş doğmadan önce yataktan kalkmak

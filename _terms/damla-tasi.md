@@ -2,6 +2,7 @@
 layout: term
 title: damla taşı
 slug: damla-tasi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Yapılarda süs ögesi olarak kullanılan damla biçiminde taş

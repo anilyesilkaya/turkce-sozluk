@@ -2,6 +2,7 @@
 layout: term
 title: bocalatmak
 slug: bocalatmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bocalamasına yol açmak

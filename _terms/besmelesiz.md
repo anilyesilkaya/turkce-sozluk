@@ -2,6 +2,7 @@
 layout: term
 title: besmelesiz
 slug: besmelesiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Besmele çekmeden

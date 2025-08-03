@@ -2,6 +2,7 @@
 layout: term
 title: uyarlamak
 slug: uyarlamak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Birbirine herhangi bir bakımdan uyar duruma getirmek; intibak ettirmek

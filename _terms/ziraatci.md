@@ -2,6 +2,7 @@
 layout: term
 title: ziraatçı
 slug: ziraatci
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► tarımcı

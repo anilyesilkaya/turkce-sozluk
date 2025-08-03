@@ -2,6 +2,7 @@
 layout: term
 title: dulaptal otugiller
 slug: dulaptal-otugiller
+letter: D
 lisan: Türkçe
 anlamlar:
 - Örnek bitkisi dulaptal otu olan, taçsız iki çeneklilerden bir familya

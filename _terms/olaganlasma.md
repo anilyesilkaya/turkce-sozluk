@@ -2,6 +2,7 @@
 layout: term
 title: olağanlaşma
 slug: olaganlasma
+letter: O
 lisan: Türkçe
 anlamlar:
 - Olağanlaşmak durumu

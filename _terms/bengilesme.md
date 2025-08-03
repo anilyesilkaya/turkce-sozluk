@@ -2,6 +2,7 @@
 layout: term
 title: bengileşme
 slug: bengilesme
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► sonsuzlaşma

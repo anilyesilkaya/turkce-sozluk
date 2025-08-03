@@ -2,6 +2,7 @@
 layout: term
 title: sıram sıram
 slug: siram-siram
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıra durumunda veya sıralanmış olan

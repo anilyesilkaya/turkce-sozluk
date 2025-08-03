@@ -2,6 +2,7 @@
 layout: term
 title: lükse gitmek
 slug: lukse-gitmek
+letter: L
 lisan: Türkçe
 anlamlar:
 - israfa yönelmek, aşırıya gitmek

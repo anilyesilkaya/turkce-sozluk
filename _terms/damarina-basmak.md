@@ -2,6 +2,7 @@
 layout: term
 title: damarına basmak
 slug: damarina-basmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - birini, duyarlı olduğu bir konuda kızdırmak

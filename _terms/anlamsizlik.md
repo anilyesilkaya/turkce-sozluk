@@ -2,6 +2,7 @@
 layout: term
 title: anlamsızlık
 slug: anlamsizlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anlamsız olma durumu; manasızlık

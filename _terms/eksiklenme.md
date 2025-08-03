@@ -2,6 +2,7 @@
 layout: term
 title: eksiklenme
 slug: eksiklenme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eksiklenmek durumu

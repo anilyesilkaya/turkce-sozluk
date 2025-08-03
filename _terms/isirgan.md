@@ -2,6 +2,7 @@
 layout: term
 title: ısırgan
 slug: isirgan
+letter: I
 lisan: Türkçe
 anlamlar:
 - Isırgangillerden, her tarafı sert tüylerle kaplı, tüyleri kırıldığında karınca asidi denilen çok kaşındırıcı bir madde çıkartan bir ot (Urtica)

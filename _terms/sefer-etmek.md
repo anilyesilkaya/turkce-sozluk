@@ -2,6 +2,7 @@
 layout: term
 title: sefer etmek
 slug: sefer-etmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - gezmek, yolculuk etmek

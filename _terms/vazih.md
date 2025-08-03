@@ -2,6 +2,7 @@
 layout: term
 title: vazıh
 slug: vazih
+letter: V
 lisan: Arapça vāżiḥ
 anlamlar:
 - ► açık

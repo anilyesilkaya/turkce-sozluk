@@ -2,6 +2,7 @@
 layout: term
 title: sarıçalı
 slug: saricali
+letter: S
 lisan: Türkçe
 anlamlar:
 - Ayrı taç yapraklı iki çeneklilerden, çiçekleri sarı, meyvesi ekşi ve kırmızı renkte, kabuğu ve kökü solucan düşürücü ilaç olarak kullanılan bir bitki; kadıntuzluğu, çobantuzluğu, amberbaris (Berberis vulgaris)

@@ -2,6 +2,7 @@
 layout: term
 title: dokumak
 slug: dokumak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Tezgâhta ipliği, çözgü ve atkı durumunda kullanarak kumaş yapmak

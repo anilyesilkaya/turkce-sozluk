@@ -2,6 +2,7 @@
 layout: term
 title: billurumsu
 slug: billurumsu
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► billursu

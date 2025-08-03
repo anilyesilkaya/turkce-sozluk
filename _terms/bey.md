@@ -2,6 +2,7 @@
 layout: term
 title: bey
 slug: bey
+letter: B
 lisan: Arapça beyʿ
 anlamlar:
 - ► satış

@@ -2,6 +2,7 @@
 layout: term
 title: ununu elemek, eleğini asmak
 slug: ununu-elemek-elegini-asmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - '"geri kalan ömrü süresince yapacak önemli bir işi kalmamak" anlamında kullanılan bir söz'

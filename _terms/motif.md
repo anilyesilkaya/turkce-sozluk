@@ -2,6 +2,7 @@
 layout: term
 title: motif
 slug: motif
+letter: M
 lisan: Fransızca motif
 anlamlar:
 - Yan yana gelerek bir bezeme işini oluşturan ve kendi başlarına birer birlik olan ögelerden her biri

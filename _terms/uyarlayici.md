@@ -2,6 +2,7 @@
 layout: term
 title: uyarlayıcı
 slug: uyarlayici
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyarlama işini yapan kimse

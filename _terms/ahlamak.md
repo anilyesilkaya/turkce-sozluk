@@ -2,6 +2,7 @@
 layout: term
 title: ahlamak
 slug: ahlamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - İç çekmek, ah etmek, ah çeker gibi ses çıkarmak

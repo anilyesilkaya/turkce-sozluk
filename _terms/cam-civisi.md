@@ -2,6 +2,7 @@
 layout: term
 title: cam çivisi
 slug: cam-civisi
+letter: C
 lisan: Türkçe
 anlamlar:
 - Yaklaşık çapları 1 milimetre, boyları 1,5-2,5 santimetre arasında değişen ince ve başsız tel çivi

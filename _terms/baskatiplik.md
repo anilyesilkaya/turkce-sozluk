@@ -2,6 +2,7 @@
 layout: term
 title: başkâtiplik
 slug: baskatiplik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başkâtip olma durumu; başyazmanlık

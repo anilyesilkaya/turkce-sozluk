@@ -2,6 +2,7 @@
 layout: term
 title: sağlıkçı
 slug: saglikci
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sağlık işleriyle görevli kimse

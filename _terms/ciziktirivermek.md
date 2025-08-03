@@ -2,6 +2,7 @@
 layout: term
 title: çiziktirivermek
 slug: ciziktirivermek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çabucak çiziktirmek

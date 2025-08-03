@@ -2,6 +2,7 @@
 layout: term
 title: kaykılmak
 slug: kaykilmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Arkaya doğru eğilerek, yaslanarak oturmak

@@ -2,6 +2,7 @@
 layout: term
 title: hadım etmek
 slug: hadim-etmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - erkeklik bezlerini çıkarmak veya köreltmek, burmak, enemek

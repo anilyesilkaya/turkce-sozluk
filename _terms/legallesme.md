@@ -2,6 +2,7 @@
 layout: term
 title: legalleşme
 slug: legallesme
+letter: L
 lisan: Türkçe
 anlamlar:
 - Legalleşmek durumu

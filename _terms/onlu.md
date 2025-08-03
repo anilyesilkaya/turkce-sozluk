@@ -2,6 +2,7 @@
 layout: term
 title: önlü
 slug: onlu
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ön tarafı olan

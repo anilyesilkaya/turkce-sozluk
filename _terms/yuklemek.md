@@ -2,6 +2,7 @@
 layout: term
 title: yüklemek
 slug: yuklemek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir yere, taşınması için belli ağırlıkta eşya veya araç gereç koymak

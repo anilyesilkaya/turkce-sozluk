@@ -2,6 +2,7 @@
 layout: term
 title: damga pulu
 slug: damga-pulu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Resmî işlemlerde belgelere yapıştırılan pul

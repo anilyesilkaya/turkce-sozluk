@@ -2,6 +2,7 @@
 layout: term
 title: mimari
 slug: mimari
+letter: M
 lisan: Arapça miʿmārī
 anlamlar:
 - ► mimarlık

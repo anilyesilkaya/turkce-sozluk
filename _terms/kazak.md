@@ -2,6 +2,7 @@
 layout: term
 title: kazak
 slug: kazak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Rusya'da ve İran'da ayrı bir sınıf oluşturan atlı asker

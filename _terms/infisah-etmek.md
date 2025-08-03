@@ -2,6 +2,7 @@
 layout: term
 title: infisah etmek
 slug: infisah-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - bozulmak

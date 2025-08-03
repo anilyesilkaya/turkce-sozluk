@@ -2,6 +2,7 @@
 layout: term
 title: tolga
 slug: tolga
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► miğfer

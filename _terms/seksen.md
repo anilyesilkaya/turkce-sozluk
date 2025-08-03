@@ -2,6 +2,7 @@
 layout: term
 title: seksen
 slug: seksen
+letter: S
 lisan: Türkçe
 anlamlar:
 - Yetmiş dokuzdan sonra gelen sayının adı

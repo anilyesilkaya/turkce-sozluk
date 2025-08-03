@@ -2,6 +2,7 @@
 layout: term
 title: eteğinden el çekmek
 slug: eteginden-el-cekmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - etliye sütlüye karışmamak

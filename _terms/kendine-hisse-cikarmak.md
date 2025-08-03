@@ -2,6 +2,7 @@
 layout: term
 title: kendine hisse çıkarmak
 slug: kendine-hisse-cikarmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - ders almak

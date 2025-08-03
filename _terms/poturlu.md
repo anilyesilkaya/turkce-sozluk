@@ -2,6 +2,7 @@
 layout: term
 title: poturlu
 slug: poturlu
+letter: P
 lisan: Türkçe
 anlamlar:
 - Potur giymiş olan

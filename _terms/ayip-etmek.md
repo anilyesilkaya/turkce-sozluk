@@ -2,6 +2,7 @@
 layout: term
 title: ayıp etmek
 slug: ayip-etmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - yakışıksız bir biçimde davranmak

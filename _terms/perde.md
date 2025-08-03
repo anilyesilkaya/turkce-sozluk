@@ -2,6 +2,7 @@
 layout: term
 title: perde
 slug: perde
+letter: P
 lisan: Farsça perde
 anlamlar:
 - Görüşü, ışığı engellemek, bir şeyi gizlemek için pencereye veya bir açıklığın önüne gerilen örtü; gerelti, gergi, hicap

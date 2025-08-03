@@ -2,6 +2,7 @@
 layout: term
 title: kanabilme
 slug: kanabilme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kanabilmek durumu

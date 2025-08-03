@@ -2,6 +2,7 @@
 layout: term
 title: tutuklayabilme
 slug: tutuklayabilme
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tutuklayabilmek işi

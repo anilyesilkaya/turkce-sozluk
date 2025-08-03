@@ -2,6 +2,7 @@
 layout: term
 title: dibini bulmak
 slug: dibini-bulmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - içindekini tüketmek

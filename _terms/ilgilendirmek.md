@@ -2,6 +2,7 @@
 layout: term
 title: ilgilendirmek
 slug: ilgilendirmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İlgisini çekmek, önem vermek; alakalandırmak, ırgalamak

@@ -2,6 +2,7 @@
 layout: term
 title: sefasına bakmak
 slug: sefasina-bakmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - rahatına bakmak

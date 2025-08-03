@@ -2,6 +2,7 @@
 layout: term
 title: hafta başı
 slug: hafta-basi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Haftanın ilk günü

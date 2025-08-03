@@ -2,6 +2,7 @@
 layout: term
 title: yiyebilmek
 slug: yiyebilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yeme ihtimali veya imkânı bulunmak

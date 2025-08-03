@@ -2,6 +2,7 @@
 layout: term
 title: yıkıcı
 slug: yikici
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yıkmacı

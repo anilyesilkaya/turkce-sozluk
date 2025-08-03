@@ -2,6 +2,7 @@
 layout: term
 title: arşı tutmak
 slug: arsi-tutmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - göğe kadar çıkmak

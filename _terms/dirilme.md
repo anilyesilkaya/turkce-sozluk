@@ -2,6 +2,7 @@
 layout: term
 title: dirilme
 slug: dirilme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dirilmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: iblisane
 slug: iblisane
+letter: I
 lisan: Arapça iblīs + Farsça -āne
 anlamlar:
 - ► şeytanca

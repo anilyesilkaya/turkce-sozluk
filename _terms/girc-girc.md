@@ -2,6 +2,7 @@
 layout: term
 title: gırç gırç
 slug: girc-girc
+letter: G
 lisan: Türkçe
 anlamlar:
 - '"Gırç" sesi çıkararak'

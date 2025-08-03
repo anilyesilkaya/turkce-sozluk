@@ -2,6 +2,7 @@
 layout: term
 title: gıcırtı
 slug: gicirti
+letter: G
 lisan: Türkçe
 anlamlar:
 - Sert nesnelerin birbirine sürtünmesi sonucu çıkan sesin adı; gıcır gıcır

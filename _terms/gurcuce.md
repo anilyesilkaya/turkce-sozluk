@@ -2,6 +2,7 @@
 layout: term
 title: Gürcüce
 slug: gurcuce
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gürcülerin kullandığı dil

@@ -2,6 +2,7 @@
 layout: term
 title: soyutlaştırma
 slug: soyutlastirma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Soyutlaştırmak durumu

@@ -2,6 +2,7 @@
 layout: term
 title: orantılı
 slug: orantili
+letter: O
 lisan: Türkçe
 anlamlar:
 - Aralarında orantı bulunan; mütenasip

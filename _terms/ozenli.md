@@ -2,6 +2,7 @@
 layout: term
 title: özenli
 slug: ozenli
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Özen gösterilerek yapılan (iş); itinalı

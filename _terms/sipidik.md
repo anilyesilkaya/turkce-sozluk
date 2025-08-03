@@ -2,6 +2,7 @@
 layout: term
 title: şıpıdık
 slug: sipidik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Ökçesiz ve arkalıksız terlik veya pabuç; şıpşıp

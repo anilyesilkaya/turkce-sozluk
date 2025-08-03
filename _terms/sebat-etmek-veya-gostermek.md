@@ -2,6 +2,7 @@
 layout: term
 title: sebat etmek (veya göstermek)
 slug: sebat-etmek-veya-gostermek
+letter: S
 lisan: Türkçe
 anlamlar:
 - sözünden veya kararından dönmemek, direşmek

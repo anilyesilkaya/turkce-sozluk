@@ -2,6 +2,7 @@
 layout: term
 title: peştamal
 slug: pestamal
+letter: P
 lisan: Farsça puştmāl
 anlamlar:
 - Hamamda örtünmek için kullanılan ince dokuma

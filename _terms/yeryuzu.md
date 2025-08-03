@@ -2,6 +2,7 @@
 layout: term
 title: yeryüzü
 slug: yeryuzu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yer kabuğu

@@ -2,6 +2,7 @@
 layout: term
 title: bir şey yapmak
 slug: bir-sey-yapmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - birine kötülükte bulunmak

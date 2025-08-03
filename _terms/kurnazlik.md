@@ -2,6 +2,7 @@
 layout: term
 title: kurnazlık
 slug: kurnazlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kurnaz olma durumu

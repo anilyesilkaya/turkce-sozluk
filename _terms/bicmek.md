@@ -2,6 +2,7 @@
 layout: term
 title: biçmek
 slug: bicmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belli bir biçim vererek kesmek

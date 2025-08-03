@@ -2,6 +2,7 @@
 layout: term
 title: beleşten
 slug: belesten
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bedava

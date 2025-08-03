@@ -2,6 +2,7 @@
 layout: term
 title: muz
 slug: muz
+letter: M
 lisan: Arapça mūz
 anlamlar:
 - Muzgillerden, sıcak bölgelerde yetişen, bir çenekli, çok yıllık bir bitki (Musa sapientum)

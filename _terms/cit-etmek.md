@@ -2,6 +2,7 @@
 layout: term
 title: çıt etmek
 slug: cit-etmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - '"çıt" sesi çıkarmak'

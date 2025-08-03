@@ -2,6 +2,7 @@
 layout: term
 title: eğlenme
 slug: eglenme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eğlenmek işi

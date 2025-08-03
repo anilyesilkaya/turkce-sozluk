@@ -2,6 +2,7 @@
 layout: term
 title: mart martladı, tavuk yumurtladı
 slug: mart-martladi-tavuk-yumurtladi
+letter: M
 lisan: Türkçe
 anlamlar:
 - “mart ayı gelince tavuklar yumurtlaya başlar” anlamında kullanılan bir söz

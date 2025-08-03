@@ -2,6 +2,7 @@
 layout: term
 title: albümin
 slug: albumin
+letter: A
 lisan: Fransızca albumine
 anlamlar:
 - Bitkilerin, hayvanların doku ve sıvılarında bulunan, birleşimi karbon, oksijen, azot, hidrojen ve kükürt olan, suda eriyen, beyaza yakın renkte, yapışkan özellikte bir protein

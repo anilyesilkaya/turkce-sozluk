@@ -2,6 +2,7 @@
 layout: term
 title: turna kırı
 slug: turna-kiri
+letter: T
 lisan: Türkçe
 anlamlar:
 - Kırmızımtırak gri

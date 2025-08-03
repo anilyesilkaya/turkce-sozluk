@@ -2,6 +2,7 @@
 layout: term
 title: doyurma
 slug: doyurma
+letter: D
 lisan: Türkçe
 anlamlar:
 - Doyurmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: bohça
 slug: bohca
+letter: B
 lisan: Türkçe
 anlamlar:
 - İçine çamaşır, elbise vb. koyup sarılan dört köşe kumaş

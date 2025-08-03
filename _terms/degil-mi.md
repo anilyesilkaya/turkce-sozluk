@@ -2,6 +2,7 @@
 layout: term
 title: değil mi?
 slug: degil-mi
+letter: D
 lisan: Türkçe
 anlamlar:
 - bir hüküm bildiren cümlenin sonunda kullanılan ve o cümlenin belirttiği hususun onaylanmasını isteyen bir soru ifadesi

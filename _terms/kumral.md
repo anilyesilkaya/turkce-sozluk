@@ -2,6 +2,7 @@
 layout: term
 title: kumral
 slug: kumral
+letter: K
 lisan: Türkçe
 anlamlar:
 - Koyu sarı veya açık kestane rengi

@@ -2,6 +2,7 @@
 layout: term
 title: saygın
 slug: saygin
+letter: S
 lisan: Türkçe
 anlamlar:
 - Saygı gören, sayılan, hatırı sayılan, itibarı olan, sözü geçer; hatırlı, itibarlı, muteber

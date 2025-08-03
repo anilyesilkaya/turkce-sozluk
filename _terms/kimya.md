@@ -2,6 +2,7 @@
 layout: term
 title: kimya
 slug: kimya
+letter: K
 lisan: Arapça kīmyāʾ
 anlamlar:
 - Maddelerin temel yapılarını, birleşimlerini, dönüşümlerini, çözümleme, birleşim ve üretim yöntemlerini inceleyen bilim

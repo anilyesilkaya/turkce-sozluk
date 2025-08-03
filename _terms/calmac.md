@@ -2,6 +2,7 @@
 layout: term
 title: çalmaç
 slug: calmac
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Tahtadan yapılmış kap

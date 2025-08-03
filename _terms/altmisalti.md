@@ -2,6 +2,7 @@
 layout: term
 title: altmışaltı
 slug: altmisalti
+letter: A
 lisan: Türkçe
 anlamlar:
 - Altmış altı sayı almakla kazanılan bir tür iskambil oyunu

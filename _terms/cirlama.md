@@ -2,6 +2,7 @@
 layout: term
 title: cırlama
 slug: cirlama
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cırlamak işi

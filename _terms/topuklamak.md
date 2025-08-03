@@ -2,6 +2,7 @@
 layout: term
 title: topuklamak
 slug: topuklamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► mahmuzlamak

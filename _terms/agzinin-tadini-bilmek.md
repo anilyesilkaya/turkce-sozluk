@@ -2,6 +2,7 @@
 layout: term
 title: ağzının tadını bilmek
 slug: agzinin-tadini-bilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - güzel yemeklerden anlamak

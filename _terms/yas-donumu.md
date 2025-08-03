@@ -2,6 +2,7 @@
 layout: term
 title: yaş dönümü
 slug: yas-donumu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► menopoz

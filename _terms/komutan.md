@@ -2,6 +2,7 @@
 layout: term
 title: komutan
 slug: komutan
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir asker topluluğunun başı; kumandan, bey (I), mir

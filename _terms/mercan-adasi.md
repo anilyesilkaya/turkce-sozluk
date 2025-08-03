@@ -2,6 +2,7 @@
 layout: term
 title: mercan adası
 slug: mercan-adasi
+letter: M
 lisan: Türkçe
 anlamlar:
 - Su yüzüne kadar çıkan yuvarlak mercan resiflerinden oluşmuş ada; atol

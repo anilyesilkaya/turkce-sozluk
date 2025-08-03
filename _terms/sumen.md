@@ -2,6 +2,7 @@
 layout: term
 title: sümen
 slug: sumen
+letter: S
 lisan: Fransızca sous-main
 anlamlar:
 - Üzerinde yazı yazmaya, arasında evrak saklamaya yarayan deri kaplı altlık

@@ -2,6 +2,7 @@
 layout: term
 title: diyastol
 slug: diyastol
+letter: D
 lisan: Fransızca diastole
 anlamlar:
 - Sistolden sonra kulakçıkların veya karıncıkların genişlemesi

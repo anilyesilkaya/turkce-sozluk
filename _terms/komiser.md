@@ -2,6 +2,7 @@
 layout: term
 title: komiser
 slug: komiser
+letter: K
 lisan: Fransızca commissaire
 anlamlar:
 - Güvenlik teşkilatının meslek aşamaları içinde yer alan, il, ilçe veya bucaklarda bulundukları yerin emniyet ve asayişine ait işleri yöneten, üniformalı veya sivil memur

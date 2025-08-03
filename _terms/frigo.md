@@ -2,6 +2,7 @@
 layout: term
 title: frigo
 slug: frigo
+letter: F
 lisan: Fransızca frigo
 anlamlar:
 - Dondurulmuş krema

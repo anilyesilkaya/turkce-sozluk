@@ -2,6 +2,7 @@
 layout: term
 title: denizkestanesi
 slug: denizkestanesi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Hareket edebilen dikenlerle örtülü, yuvarlak kalker kabuklu, derisi dikenlilerden bir yumuşakça (Echinus esculentus)

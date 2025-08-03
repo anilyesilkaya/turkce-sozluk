@@ -2,6 +2,7 @@
 layout: term
 title: battıçıktı
 slug: batticikti
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► alt geçit

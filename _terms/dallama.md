@@ -2,6 +2,7 @@
 layout: term
 title: dallama
 slug: dallama
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dallamak işi

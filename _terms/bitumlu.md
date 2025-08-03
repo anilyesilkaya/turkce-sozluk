@@ -2,6 +2,7 @@
 layout: term
 title: bitümlü
 slug: bitumlu
+letter: B
 lisan: Türkçe
 anlamlar:
 - İçinde bitüm bulunan

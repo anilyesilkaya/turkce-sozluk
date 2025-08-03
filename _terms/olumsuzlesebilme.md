@@ -2,6 +2,7 @@
 layout: term
 title: ölümsüzleşebilme
 slug: olumsuzlesebilme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ölümsüzleşebilmek durumu

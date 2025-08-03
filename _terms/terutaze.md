@@ -2,6 +2,7 @@
 layout: term
 title: terütaze
 slug: terutaze
+letter: T
 lisan: Farsça ter + tāze
 anlamlar:
 - ► körpe

@@ -2,6 +2,7 @@
 layout: term
 title: sergilemek
 slug: sergilemek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bazı şeyleri göstermek, tanıtmak veya satmak amacıyla herhangi bir biçimde, herkesin görebileceği bir yere yerleştirmek; teşhir etmek

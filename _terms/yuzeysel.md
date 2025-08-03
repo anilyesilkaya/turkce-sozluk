@@ -2,6 +2,7 @@
 layout: term
 title: yüzeysel
 slug: yuzeysel
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yüzey ile ilgili; sathi

@@ -2,6 +2,7 @@
 layout: term
 title: deva
 slug: deva
+letter: D
 lisan: Arapça devāʾ
 anlamlar:
 - ► çare

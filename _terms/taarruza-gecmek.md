@@ -2,6 +2,7 @@
 layout: term
 title: taarruza geçmek
 slug: taarruza-gecmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - saldırmak

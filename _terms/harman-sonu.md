@@ -2,6 +2,7 @@
 layout: term
 title: harman sonu
 slug: harman-sonu
+letter: H
 lisan: Türkçe
 anlamlar:
 - Harmandan sonra kalan, toprakla karışmış tahıl

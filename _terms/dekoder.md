@@ -2,6 +2,7 @@
 layout: term
 title: dekoder
 slug: dekoder
+letter: D
 lisan: İngilizce decoder
 anlamlar:
 - ► çözücü

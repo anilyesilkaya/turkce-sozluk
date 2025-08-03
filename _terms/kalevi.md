@@ -2,6 +2,7 @@
 layout: term
 title: kalevi
 slug: kalevi
+letter: K
 lisan: Arapça ḳalevī
 anlamlar:
 - ► alkalik

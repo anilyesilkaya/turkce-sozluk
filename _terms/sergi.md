@@ -2,6 +2,7 @@
 layout: term
 title: sergi
 slug: sergi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Alıcının görmesi, seçmesi için dizilmiş şeylerin tümü ve bu nesnelerin serildiği yer

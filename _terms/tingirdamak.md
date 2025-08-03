@@ -2,6 +2,7 @@
 layout: term
 title: tıngırdamak
 slug: tingirdamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Metal nesneler kuru bir ses çıkarmak; tıngıldamak

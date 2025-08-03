@@ -2,6 +2,7 @@
 layout: term
 title: kulak kulağa
 slug: kulak-kulaga
+letter: K
 lisan: Türkçe
 anlamlar:
 - Gizlice, başkası duymaksızın

@@ -2,6 +2,7 @@
 layout: term
 title: Babagân
 slug: babagan
+letter: B
 lisan: Türkçe baba + Farsça -gān
 anlamlar:
 - ► Babayan

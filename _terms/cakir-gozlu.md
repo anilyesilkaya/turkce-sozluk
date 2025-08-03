@@ -2,6 +2,7 @@
 layout: term
 title: çakır gözlü
 slug: cakir-gozlu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Açık mavi, hareli ela gözleri olan (kimse)

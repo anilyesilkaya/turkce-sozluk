@@ -2,6 +2,7 @@
 layout: term
 title: flaş
 slug: flas
+letter: F
 lisan: Fransızca flash
 anlamlar:
 - Fotoğraf çekiminde ışık yeterli olmadığında bir görüntüyü net almak için kullanılan çok kısa süreli ve güçlü parıltı

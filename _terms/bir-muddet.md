@@ -2,6 +2,7 @@
 layout: term
 title: bir müddet
 slug: bir-muddet
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir süre

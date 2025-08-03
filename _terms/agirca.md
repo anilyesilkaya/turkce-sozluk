@@ -2,6 +2,7 @@
 layout: term
 title: ağırca
 slug: agirca
+letter: A
 lisan: Türkçe
 anlamlar:
 - Oldukça ağır

@@ -2,6 +2,7 @@
 layout: term
 title: ispatlı
 slug: ispatli
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► kanıtlı

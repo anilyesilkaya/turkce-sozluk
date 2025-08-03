@@ -2,6 +2,7 @@
 layout: term
 title: yıldızsız
 slug: yildizsiz
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bulutlu, kapalı, açık olmayan

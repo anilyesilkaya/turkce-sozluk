@@ -2,6 +2,7 @@
 layout: term
 title: kıyılama
 slug: kiyilama
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kıyılamak işi

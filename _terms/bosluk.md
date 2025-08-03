@@ -2,6 +2,7 @@
 layout: term
 title: boşluk
 slug: bosluk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Yerküre üzerinde kara ve denizler dışında göz alabildiğine uzanan mekân ve bu mekânın herhangi bir parçası

@@ -2,6 +2,7 @@
 layout: term
 title: behimi
 slug: behimi
+letter: B
 lisan: Arapça behīmī
 anlamlar:
 - Hayvanca, hayvana yakışır bir biçimde olan (duygu)

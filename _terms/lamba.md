@@ -2,6 +2,7 @@
 layout: term
 title: lamba
 slug: lamba
+letter: L
 lisan: Rumca
 anlamlar:
 - Petrol gibi yanıcı bir madde yakarak veya elektrik akımıyla içindeki teller akkor durumuna geçerek ışık veren alet

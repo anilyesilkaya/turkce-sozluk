@@ -2,6 +2,7 @@
 layout: term
 title: başlık parası
 slug: baslik-parasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bazı bölgelerde, evlenirken erkek tarafının kız tarafına ödemesi gereken para veya mal; başlık

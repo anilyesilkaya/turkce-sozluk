@@ -2,6 +2,7 @@
 layout: term
 title: çinkolu
 slug: cinkolu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - İçinde çinko bulunduran

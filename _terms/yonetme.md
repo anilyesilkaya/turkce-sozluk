@@ -2,6 +2,7 @@
 layout: term
 title: yönetme
 slug: yonetme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yönetmek işi

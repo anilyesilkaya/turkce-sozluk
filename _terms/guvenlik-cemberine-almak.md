@@ -2,6 +2,7 @@
 layout: term
 title: güvenlik çemberine almak
 slug: guvenlik-cemberine-almak
+letter: G
 lisan: Türkçe
 anlamlar:
 - güvenliği sağlamak amacıyla bir yerin etrafını şeritle çevirmek

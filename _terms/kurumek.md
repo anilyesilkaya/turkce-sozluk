@@ -2,6 +2,7 @@
 layout: term
 title: kürümek
 slug: kurumek
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► küremek

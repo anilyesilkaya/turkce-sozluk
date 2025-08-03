@@ -2,6 +2,7 @@
 layout: term
 title: cıcığı çıkmak
 slug: cicigi-cikmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - çok yorulmak

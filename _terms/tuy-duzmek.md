@@ -2,6 +2,7 @@
 layout: term
 title: tüy düzmek
 slug: tuy-duzmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - hayvanın tüyü düzelmek

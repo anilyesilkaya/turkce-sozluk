@@ -2,6 +2,7 @@
 layout: term
 title: fırçalamak
 slug: fircalamak
+letter: F
 lisan: Türkçe
 anlamlar:
 - Temizlemek veya parlatmak için fırça ile sürtmek

@@ -2,6 +2,7 @@
 layout: term
 title: gecelik entari
 slug: gecelik-entari
+letter: G
 lisan: Türkçe
 anlamlar:
 - Erkeklerin pijama yerine giydiği uzun, düz üstlük

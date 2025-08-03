@@ -2,6 +2,7 @@
 layout: term
 title: açıklayıcı
 slug: aciklayici
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir sorunu gerekli açıklığa kavuşturan

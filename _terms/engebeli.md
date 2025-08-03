@@ -2,6 +2,7 @@
 layout: term
 title: engebeli
 slug: engebeli
+letter: E
 lisan: Türkçe
 anlamlar:
 - Engebesi olan, engebesi çok olan; arızalı

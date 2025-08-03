@@ -2,6 +2,7 @@
 layout: term
 title: çağrışım
 slug: cagrisim
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir düşünce, görüntü vb.nin bir başkasını hatırlatması

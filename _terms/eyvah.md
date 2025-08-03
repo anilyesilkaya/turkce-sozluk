@@ -2,6 +2,7 @@
 layout: term
 title: eyvah
 slug: eyvah
+letter: E
 lisan: Farsça eyvāh
 anlamlar:
 - Beklenmedik, kötü, hoşa gitmeyen bir haber veya olay karşısında duyulan acınma, üzülme, telaş bildiren söz

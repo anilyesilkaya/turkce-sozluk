@@ -2,6 +2,7 @@
 layout: term
 title: zehirlemek
 slug: zehirlemek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Öldürmek amacıyla yedirme, içirme vb. yollarla zehir vermek; ağılamak

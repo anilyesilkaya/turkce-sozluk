@@ -2,6 +2,7 @@
 layout: term
 title: seğirtken
 slug: segirtken
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıçrayarak yakın bir yere doğru koşan

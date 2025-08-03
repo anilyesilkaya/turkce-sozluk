@@ -2,6 +2,7 @@
 layout: term
 title: canlandırabilme
 slug: canlandirabilme
+letter: C
 lisan: Türkçe
 anlamlar:
 - Canlandırabilmek işi

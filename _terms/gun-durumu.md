@@ -2,6 +2,7 @@
 layout: term
 title: gün durumu
 slug: gun-durumu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güneş'in dik açıklığının en büyük veya en küçük olduğu gün

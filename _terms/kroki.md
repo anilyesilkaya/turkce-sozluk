@@ -2,6 +2,7 @@
 layout: term
 title: kroki
 slug: kroki
+letter: K
 lisan: Fransızca croquis
 anlamlar:
 - Bir konu veya nesnenin başlıca özelliklerini yansıtacak biçimde hazırlanmış taslağı

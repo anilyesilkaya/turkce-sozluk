@@ -2,6 +2,7 @@
 layout: term
 title: burkulma
 slug: burkulma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Burkulmak işi

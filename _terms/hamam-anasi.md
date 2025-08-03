@@ -2,6 +2,7 @@
 layout: term
 title: hamam anası
 slug: hamam-anasi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Kadınlar hamamında natırları yöneten kadın; ana kadın

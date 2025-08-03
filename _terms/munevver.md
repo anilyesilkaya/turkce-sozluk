@@ -2,6 +2,7 @@
 layout: term
 title: münevver
 slug: munevver
+letter: M
 lisan: Arapça munevver
 anlamlar:
 - ► aydın

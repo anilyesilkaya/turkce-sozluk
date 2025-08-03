@@ -2,6 +2,7 @@
 layout: term
 title: mübalağalı
 slug: mubalagali
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► abartılı

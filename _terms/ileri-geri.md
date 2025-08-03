@@ -2,6 +2,7 @@
 layout: term
 title: ileri geri
 slug: ileri-geri
+letter: I
 lisan: Türkçe
 anlamlar:
 - Ayrıntıları düşünülmeyen

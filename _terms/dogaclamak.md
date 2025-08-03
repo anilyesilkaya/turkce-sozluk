@@ -2,6 +2,7 @@
 layout: term
 title: doğaçlamak
 slug: dogaclamak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Birdenbire ve içine doğduğu gibi söylemek, irticalen dile getirmek

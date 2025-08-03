@@ -2,6 +2,7 @@
 layout: term
 title: münteha
 slug: munteha
+letter: M
 lisan: Arapça muntehā
 anlamlar:
 - ► son

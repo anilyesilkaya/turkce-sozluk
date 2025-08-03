@@ -2,6 +2,7 @@
 layout: term
 title: açık fikirlilik
 slug: acik-fikirlilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Açık fikirli olma durumu; açık görüşlülük

@@ -2,6 +2,7 @@
 layout: term
 title: ön oda
 slug: on-oda
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Gözde saydam tabaka ile iris arasında kalan boşluk

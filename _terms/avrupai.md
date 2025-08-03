@@ -2,6 +2,7 @@
 layout: term
 title: Avrupai
 slug: avrupai
+letter: A
 lisan: İtalyanca europa + Arapça -į
 anlamlar:
 - Avrupalılara özgü, Avrupalılara benzer, Avrupalılar gibi

@@ -2,6 +2,7 @@
 layout: term
 title: Musevi
 slug: musevi
+letter: M
 lisan: Arapça mūsevī
 anlamlar:
 - ► Yahudi

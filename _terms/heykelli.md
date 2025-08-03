@@ -2,6 +2,7 @@
 layout: term
 title: heykelli
 slug: heykelli
+letter: H
 lisan: Türkçe
 anlamlar:
 - Heykeli olan

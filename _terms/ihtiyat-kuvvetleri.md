@@ -2,6 +2,7 @@
 layout: term
 title: ihtiyat kuvvetleri
 slug: ihtiyat-kuvvetleri
+letter: I
 lisan: Türkçe
 anlamlar:
 - Savaş sırasında harekâtın gelişmesine etkide bulunmak için her an savaşa girebilecek biçimde hazır bulundurulan birlikler

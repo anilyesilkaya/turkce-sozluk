@@ -2,6 +2,7 @@
 layout: term
 title: uzman
 slug: uzman
+letter: U
 lisan: Türkçe
 anlamlar:
 - Belli bir işte, belli bir konuda bilgi, görüş ve becerisi çok olan (kimse); mütehassıs, kompetan, spesiyalist

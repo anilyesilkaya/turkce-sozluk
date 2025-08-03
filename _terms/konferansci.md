@@ -2,6 +2,7 @@
 layout: term
 title: konferansçı
 slug: konferansci
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► konuşmacı

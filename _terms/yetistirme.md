@@ -2,6 +2,7 @@
 layout: term
 title: yetiştirme
 slug: yetistirme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yetiştirmek işi

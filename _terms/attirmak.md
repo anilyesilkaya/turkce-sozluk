@@ -2,6 +2,7 @@
 layout: term
 title: attırmak
 slug: attirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Atma işini yaptırmak

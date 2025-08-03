@@ -2,6 +2,7 @@
 layout: term
 title: baryum sülfat
 slug: baryum-sulfat
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► barit

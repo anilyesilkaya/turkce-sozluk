@@ -2,6 +2,7 @@
 layout: term
 title: oyma akıl
 slug: oyma-akil
+letter: O
 lisan: Türkçe
 anlamlar:
 - Yer etmiş, uzun deneyimler sonunda kabul görmüş nasihat

@@ -2,6 +2,7 @@
 layout: term
 title: manevileşmek
 slug: manevilesmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - Manevi durum almak

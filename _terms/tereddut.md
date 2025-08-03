@@ -2,6 +2,7 @@
 layout: term
 title: tereddüt
 slug: tereddut
+letter: T
 lisan: Arapça tereddud
 anlamlar:
 - ► kararsızlık

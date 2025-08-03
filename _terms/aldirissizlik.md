@@ -2,6 +2,7 @@
 layout: term
 title: aldırışsızlık
 slug: aldirissizlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aldırışsız olma durumu

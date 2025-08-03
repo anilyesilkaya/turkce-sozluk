@@ -2,6 +2,7 @@
 layout: term
 title: kepazelik
 slug: kepazelik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kepaze olma durumu

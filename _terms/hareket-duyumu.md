@@ -2,6 +2,7 @@
 layout: term
 title: hareket duyumu
 slug: hareket-duyumu
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► kinestezi

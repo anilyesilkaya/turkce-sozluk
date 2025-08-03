@@ -2,6 +2,7 @@
 layout: term
 title: öşürcü
 slug: osurcu
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öşür alan, toplayan görevli; aşarcı

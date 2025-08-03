@@ -2,6 +2,7 @@
 layout: term
 title: bambaşka
 slug: bambaska
+letter: B
 lisan: Türkçe
 anlamlar:
 - Büsbütün başka; apayrı, farklı

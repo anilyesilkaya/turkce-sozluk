@@ -2,6 +2,7 @@
 layout: term
 title: debboy
 slug: debboy
+letter: D
 lisan: Fransızca dépôt
 anlamlar:
 - ► depo

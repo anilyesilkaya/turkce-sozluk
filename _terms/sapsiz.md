@@ -2,6 +2,7 @@
 layout: term
 title: sapsız
 slug: sapsiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sapı olmayan

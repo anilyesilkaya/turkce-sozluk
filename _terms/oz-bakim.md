@@ -2,6 +2,7 @@
 layout: term
 title: 'öz bakım '
 slug: oz-bakim
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Bireyin yemek yeme, giyinme, el ve yüz yıkama gibi ihtiyaçlarını kendisinin yapabilme becerisi

@@ -2,6 +2,7 @@
 layout: term
 title: cancağız
 slug: cancagiz
+letter: C
 lisan: Türkçe
 anlamlar:
 - Yakınların, sevilen kimselerin canı için söylenen bir söz

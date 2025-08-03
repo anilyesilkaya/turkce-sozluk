@@ -2,6 +2,7 @@
 layout: term
 title: yeksan
 slug: yeksan
+letter: Y
 lisan: Farsça yeksān
 anlamlar:
 - ► düz (I)

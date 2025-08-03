@@ -2,6 +2,7 @@
 layout: term
 title: ürkütücü
 slug: urkutucu
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Ürkme, çekinme duygusu veren, ürküten

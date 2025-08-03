@@ -2,6 +2,7 @@
 layout: term
 title: alaturkacı
 slug: alaturkaci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alaturka yanlısı kimse

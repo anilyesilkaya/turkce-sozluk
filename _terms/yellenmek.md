@@ -2,6 +2,7 @@
 layout: term
 title: yellenmek
 slug: yellenmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Körük, yelpaze vb. araçların yaptığı yelin etkisinde kalmak

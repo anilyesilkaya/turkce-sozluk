@@ -2,6 +2,7 @@
 layout: term
 title: yayvanlaşmak
 slug: yayvanlasmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yayvan duruma gelmek

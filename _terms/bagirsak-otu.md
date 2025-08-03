@@ -2,6 +2,7 @@
 layout: term
 title: bağırsak otu
 slug: bagirsak-otu
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► farekulağı

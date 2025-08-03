@@ -2,6 +2,7 @@
 layout: term
 title: parayı basmak (veya bastırmak)
 slug: parayi-basmak-veya-bastirmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - para vermek

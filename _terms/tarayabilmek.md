@@ -2,6 +2,7 @@
 layout: term
 title: tarayabilmek
 slug: tarayabilmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tarama ihtimali veya imkânı bulunmak

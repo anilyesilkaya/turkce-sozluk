@@ -2,6 +2,7 @@
 layout: term
 title: zuhurat
 slug: zuhurat
+letter: Z
 lisan: Arapça ẓuhūrāt
 anlamlar:
 - Gerçekleşeceği düşünülmeyen, hesapta olmayan, umulmadık, olağan dışı olgular

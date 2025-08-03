@@ -2,6 +2,7 @@
 layout: term
 title: elmaslı
 slug: elmasli
+letter: E
 lisan: Türkçe
 anlamlar:
 - Elmas takmış olan

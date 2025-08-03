@@ -2,6 +2,7 @@
 layout: term
 title: badanacılık
 slug: badanacilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Badanacının yaptığı iş

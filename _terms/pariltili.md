@@ -2,6 +2,7 @@
 layout: term
 title: parıltılı
 slug: pariltili
+letter: P
 lisan: Türkçe
 anlamlar:
 - Parlaklığı olan, parıldayan; yalabık, şaşaalı

@@ -2,6 +2,7 @@
 layout: term
 title: seçim kampanyası
 slug: secim-kampanyasi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Seçim öncesinde adayların seçilme şansını artırabilmek amacıyla yaptığı çalışma

@@ -2,6 +2,7 @@
 layout: term
 title: kırkılmak
 slug: kirkilmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kırkma işi yapılmak

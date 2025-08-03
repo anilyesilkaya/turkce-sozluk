@@ -2,6 +2,7 @@
 layout: term
 title: maşa
 slug: masa
+letter: M
 lisan: Farsça māşe
 anlamlar:
 - Ateş veya kızgın bir şey tutmaya, korları karıştırmaya yarayan iki kollu metal araç

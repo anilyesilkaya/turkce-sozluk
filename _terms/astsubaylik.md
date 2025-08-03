@@ -2,6 +2,7 @@
 layout: term
 title: astsubaylık
 slug: astsubaylik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Astsubay olma durumu

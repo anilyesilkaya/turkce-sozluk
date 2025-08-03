@@ -2,6 +2,7 @@
 layout: term
 title: çürük sakız
 slug: curuk-sakiz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Tadı bozulmuş, çiğnenmez duruma gelmiş sakız

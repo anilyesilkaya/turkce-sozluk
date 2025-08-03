@@ -2,6 +2,7 @@
 layout: term
 title: Türklük
 slug: turkluk
+letter: T
 lisan: Türkçe
 anlamlar:
 - Türk olma durumu

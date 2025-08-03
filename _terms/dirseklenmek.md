@@ -2,6 +2,7 @@
 layout: term
 title: dirseklenmek
 slug: dirseklenmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dirsek biçiminde kıvrılmak, dirsek oluşturmak

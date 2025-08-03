@@ -2,6 +2,7 @@
 layout: term
 title: algılama
 slug: algilama
+letter: A
 lisan: Türkçe
 anlamlar:
 - Algılamak işi; idrak, idrak etme

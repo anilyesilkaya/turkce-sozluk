@@ -2,6 +2,7 @@
 layout: term
 title: homurdanış
 slug: homurdanis
+letter: H
 lisan: Türkçe
 anlamlar:
 - Homurdanmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: adsızlık
 slug: adsizlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Adsız olma durumu; isimsizlik

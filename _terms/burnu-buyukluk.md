@@ -2,6 +2,7 @@
 layout: term
 title: burnu büyüklük
 slug: burnu-buyukluk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Burnu büyük olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: sigaya çekmek
 slug: sigaya-cekmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - birine sorular sorup cevaplarını istemek

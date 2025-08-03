@@ -2,6 +2,7 @@
 layout: term
 title: risk
 slug: risk
+letter: R
 lisan: Fransızca risque
 anlamlar:
 - Zarara uğrama tehlikesi; riziko

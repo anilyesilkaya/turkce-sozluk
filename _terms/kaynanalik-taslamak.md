@@ -2,6 +2,7 @@
 layout: term
 title: kaynanalık taslamak
 slug: kaynanalik-taslamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kaynana gibi davranmak

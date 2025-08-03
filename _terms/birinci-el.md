@@ -2,6 +2,7 @@
 layout: term
 title: birinci el
 slug: birinci-el
+letter: B
 lisan: Türkçe
 anlamlar:
 - Daha önce kullanılmamış, yeni olarak satılan veya alınan (araç, eşya vb.)

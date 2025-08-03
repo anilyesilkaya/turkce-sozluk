@@ -2,6 +2,7 @@
 layout: term
 title: çıtır çıtır
 slug: citir-citir
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çok taze, gevrek

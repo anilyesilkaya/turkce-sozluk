@@ -2,6 +2,7 @@
 layout: term
 title: merasim
 slug: merasim
+letter: M
 lisan: Arapça merāsim
 anlamlar:
 - ► tören

@@ -2,6 +2,7 @@
 layout: term
 title: gölgelik
 slug: golgelik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gölge altında bulunan yer

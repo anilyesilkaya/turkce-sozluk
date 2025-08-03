@@ -2,6 +2,7 @@
 layout: term
 title: samimilik
 slug: samimilik
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► içtenlik

@@ -2,6 +2,7 @@
 layout: term
 title: metraj
 slug: metraj
+letter: M
 lisan: Fransızca métrage
 anlamlar:
 - Metre olarak uzunluk

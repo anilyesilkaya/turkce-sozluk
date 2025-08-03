@@ -2,6 +2,7 @@
 layout: term
 title: göverti
 slug: goverti
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► sebze

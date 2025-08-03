@@ -2,6 +2,7 @@
 layout: term
 title: argınlık
 slug: arginlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Argın olma durumu

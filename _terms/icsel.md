@@ -2,6 +2,7 @@
 layout: term
 title: içsel
 slug: icsel
+letter: I
 lisan: Türkçe
 anlamlar:
 - İçle ilgili, içe ilişkin; dâhilî

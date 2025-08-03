@@ -2,6 +2,7 @@
 layout: term
 title: gıcık tutmak
 slug: gicik-tutmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - bir süre boğaz gıcıklamasına yakalanmak

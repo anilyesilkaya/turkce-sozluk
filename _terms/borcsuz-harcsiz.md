@@ -2,6 +2,7 @@
 layout: term
 title: borçsuz harçsız
 slug: borcsuz-harcsiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Hiç borçlanmadan, borca girmeden

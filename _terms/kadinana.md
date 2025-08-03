@@ -2,6 +2,7 @@
 layout: term
 title: kadınana
 slug: kadinana
+letter: K
 lisan: Türkçe
 anlamlar:
 - Deneyimli, yaşlı, saygı gösterilen kadın

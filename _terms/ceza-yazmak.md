@@ -2,6 +2,7 @@
 layout: term
 title: ceza yazmak
 slug: ceza-yazmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - ceza kesmek

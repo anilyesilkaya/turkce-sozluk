@@ -2,6 +2,7 @@
 layout: term
 title: kansız
 slug: kansiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kanı olmayan

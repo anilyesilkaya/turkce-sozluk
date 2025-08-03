@@ -2,6 +2,7 @@
 layout: term
 title: kıvılcımlanmak
 slug: kivilcimlanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kıvılcım saçarak yanmak, kıvılcımlı duruma gelmek

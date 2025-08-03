@@ -2,6 +2,7 @@
 layout: term
 title: tükürük otu
 slug: tukuruk-otu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Zambakgillerden, küçük, beyaz veya sarı çiçekli, otsu ve çok yıllık bir bitki (Ornithogalum umbellatum)

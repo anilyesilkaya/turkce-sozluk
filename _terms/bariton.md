@@ -2,6 +2,7 @@
 layout: term
 title: bariton
 slug: bariton
+letter: B
 lisan: Fransızca baryton
 anlamlar:
 - Tenor ve bas arasındaki erkek sesi

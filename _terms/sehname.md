@@ -2,6 +2,7 @@
 layout: term
 title: şehname
 slug: sehname
+letter: Ş
 lisan: Farsça şeh + nāme
 anlamlar:
 - Hükümdarların niteliklerini, üstün başarılarını anlatan, mesnevi biçiminde yazılmış manzume

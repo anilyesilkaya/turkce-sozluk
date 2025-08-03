@@ -2,6 +2,7 @@
 layout: term
 title: girintisiz çıkıntısız
 slug: girintisiz-cikintisiz
+letter: G
 lisan: Türkçe
 anlamlar:
 - Girintisi çıkıntısı olmayan, düzgün, dümdüz

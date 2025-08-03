@@ -2,6 +2,7 @@
 layout: term
 title: beş parasız
 slug: bes-parasiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► yoksul

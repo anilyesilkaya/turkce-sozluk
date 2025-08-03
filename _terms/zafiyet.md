@@ -2,6 +2,7 @@
 layout: term
 title: zafiyet
 slug: zafiyet
+letter: Z
 lisan: Arapça żaʿfiyyet
 anlamlar:
 - ► zayıflık

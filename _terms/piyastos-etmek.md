@@ -2,6 +2,7 @@
 layout: term
 title: piyastos etmek
 slug: piyastos-etmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - birini yakalamak, tutuklamak, ele geçirmek, enselemek

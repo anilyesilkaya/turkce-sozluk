@@ -2,6 +2,7 @@
 layout: term
 title: erdem
 slug: erdem
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ahlakın övdüğü iyi olma, alçak gönüllülük, yiğitlik, doğruluk vb. niteliklerin genel adı; fazilet

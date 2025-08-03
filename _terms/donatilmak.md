@@ -2,6 +2,7 @@
 layout: term
 title: donatılmak
 slug: donatilmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Donatma işine konu olmak veya donatma işi yapılmak

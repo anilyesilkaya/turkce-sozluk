@@ -2,6 +2,7 @@
 layout: term
 title: bezdirmek
 slug: bezdirmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bezgin duruma getirmek

@@ -2,6 +2,7 @@
 layout: term
 title: milyarlarca
 slug: milyarlarca
+letter: M
 lisan: Türkçe
 anlamlar:
 - Pek çok, çok sayıda

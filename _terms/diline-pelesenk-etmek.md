@@ -2,6 +2,7 @@
 layout: term
 title: diline pelesenk etmek
 slug: diline-pelesenk-etmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - diline dolamak

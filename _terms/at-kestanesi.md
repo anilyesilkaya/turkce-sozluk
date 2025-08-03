@@ -2,6 +2,7 @@
 layout: term
 title: at kestanesi
 slug: at-kestanesi
+letter: A
 lisan: Türkçe
 anlamlar:
 - At kestanesigillerden, 15-30 metre yüksekliğinde, geniş yapraklı, çiçekleri kokulu bir ağaç; Hint kestanesi (Aesculus hippocastanum)

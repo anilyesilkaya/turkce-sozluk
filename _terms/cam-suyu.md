@@ -2,6 +2,7 @@
 layout: term
 title: cam suyu
 slug: cam-suyu
+letter: C
 lisan: Türkçe
 anlamlar:
 - Potas veya sodanın kuvars ile eritilmesinden elde edilen, ağacın böceklere ve ateşe direncini artıran renksiz sıvı

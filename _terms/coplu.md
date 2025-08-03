@@ -2,6 +2,7 @@
 layout: term
 title: çöplü
 slug: coplu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Sapı olan (üzüm vb.)

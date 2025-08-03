@@ -2,6 +2,7 @@
 layout: term
 title: aşçı yamağı
 slug: asci-yamagi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kendisine verilen görevleri yerine getiren, üstlerinin denetiminde çalışan, mesleğe yeni başlamış deneyimsiz mutfak elemanı

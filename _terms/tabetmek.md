@@ -2,6 +2,7 @@
 layout: term
 title: tabetmek
 slug: tabetmek
+letter: T
 lisan: Arapça ṭabʿ + Türkçe etmek
 anlamlar:
 - ► basmak

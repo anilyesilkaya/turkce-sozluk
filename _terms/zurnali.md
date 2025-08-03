@@ -2,6 +2,7 @@
 layout: term
 title: zurnalı
 slug: zurnali
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zurnası olan

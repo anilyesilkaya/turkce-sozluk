@@ -2,6 +2,7 @@
 layout: term
 title: adam etmek
 slug: adam-etmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - eğitmek, yetiştirmek, topluma yararlı duruma getirmek

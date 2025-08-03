@@ -2,6 +2,7 @@
 layout: term
 title: dinme
 slug: dinme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dinmek işi

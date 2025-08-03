@@ -2,6 +2,7 @@
 layout: term
 title: fırtına kopmak (veya patlamak)
 slug: firtina-kopmak-veya-patlamak
+letter: F
 lisan: Türkçe
 anlamlar:
 - şiddetli fırtına çıkmak

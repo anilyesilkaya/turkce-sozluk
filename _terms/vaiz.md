@@ -2,6 +2,7 @@
 layout: term
 title: vaiz
 slug: vaiz
+letter: V
 lisan: Arapça vāʿiẓ
 anlamlar:
 - İbadet yerlerinde öğüt niteliğinde dinî konuşmalar yapan kimse; öğütçü

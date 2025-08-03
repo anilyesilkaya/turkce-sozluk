@@ -2,6 +2,7 @@
 layout: term
 title: Millî Misak
 slug: milli-misak
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► Misakımillî

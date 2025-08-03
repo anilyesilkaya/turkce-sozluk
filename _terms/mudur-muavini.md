@@ -2,6 +2,7 @@
 layout: term
 title: müdür muavini
 slug: mudur-muavini
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► müdür yardımcısı

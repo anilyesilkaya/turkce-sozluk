@@ -2,6 +2,7 @@
 layout: term
 title: sayrılık
 slug: sayrilik
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► hastalık

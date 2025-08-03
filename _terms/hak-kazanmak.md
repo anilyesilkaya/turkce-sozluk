@@ -2,6 +2,7 @@
 layout: term
 title: hak kazanmak
 slug: hak-kazanmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - emeğin karşılığını alabilecek duruma gelmek

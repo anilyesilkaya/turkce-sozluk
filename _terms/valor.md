@@ -2,6 +2,7 @@
 layout: term
 title: valör
 slug: valor
+letter: V
 lisan: Fransızca valeur
 anlamlar:
 - ► değer

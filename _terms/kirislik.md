@@ -2,6 +2,7 @@
 layout: term
 title: kirişlik
 slug: kirislik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kiriş konulan yer

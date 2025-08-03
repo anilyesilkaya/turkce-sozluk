@@ -2,6 +2,7 @@
 layout: term
 title: para kırmak
 slug: para-kirmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - çok kazanmak

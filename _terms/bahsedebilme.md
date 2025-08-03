@@ -2,6 +2,7 @@
 layout: term
 title: bahşedebilme
 slug: bahsedebilme
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bağışlayabilme

@@ -2,6 +2,7 @@
 layout: term
 title: parçacı
 slug: parcaci
+letter: P
 lisan: Türkçe
 anlamlar:
 - Kumaş toplarından artmış parçaları satan kimse

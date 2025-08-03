@@ -2,6 +2,7 @@
 layout: term
 title: künde
 slug: kunde
+letter: K
 lisan: Farsça kunde
 anlamlar:
 - Güreşçinin, hasmını altına alıp bir elini önden, ötekini arkadan geçirerek ellerini kilitlemesi

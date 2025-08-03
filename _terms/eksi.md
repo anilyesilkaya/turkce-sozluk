@@ -2,6 +2,7 @@
 layout: term
 title: ekşi
 slug: eksi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Sirke veya limon tadında olan

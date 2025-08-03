@@ -2,6 +2,7 @@
 layout: term
 title: maalmemnuniye
 slug: maalmemnuniye
+letter: M
 lisan: Arapça maʿa'l-memnūniyye
 anlamlar:
 - İsteyerek

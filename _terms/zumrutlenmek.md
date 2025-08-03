@@ -2,6 +2,7 @@
 layout: term
 title: zümrütlenmek
 slug: zumrutlenmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► yeşillenmek

@@ -2,6 +2,7 @@
 layout: term
 title: bakış
 slug: bakis
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bakmak işi

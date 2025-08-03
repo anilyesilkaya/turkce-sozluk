@@ -2,6 +2,7 @@
 layout: term
 title: aksettirebilme
 slug: aksettirebilme
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► yansıtabilme

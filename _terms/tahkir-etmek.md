@@ -2,6 +2,7 @@
 layout: term
 title: tahkir etmek
 slug: tahkir-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - aşağılamak, onur kırmak

@@ -2,6 +2,7 @@
 layout: term
 title: oyun çıkarmak
 slug: oyun-cikarmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - oyunu istenilen ve planlanan şekilde oynamak

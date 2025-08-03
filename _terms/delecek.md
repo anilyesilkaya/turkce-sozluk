@@ -2,6 +2,7 @@
 layout: term
 title: delecek
 slug: delecek
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► delgeç

@@ -2,6 +2,7 @@
 layout: term
 title: provoke
 slug: provoke
+letter: P
 lisan: Fransızca provoqué
 anlamlar:
 - '"Kışkırtmak" anlamındaki provoke etmek birleşik fiilinde geçen bir söz'

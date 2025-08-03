@@ -2,6 +2,7 @@
 layout: term
 title: atıştırmak
 slug: atistirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Acele olarak yemek veya içmek

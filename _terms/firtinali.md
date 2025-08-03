@@ -2,6 +2,7 @@
 layout: term
 title: fırtınalı
 slug: firtinali
+letter: F
 lisan: Türkçe
 anlamlar:
 - Çok rüzgârlı

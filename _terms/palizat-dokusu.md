@@ -2,6 +2,7 @@
 layout: term
 title: palizat dokusu
 slug: palizat-dokusu
+letter: P
 lisan: Türkçe
 anlamlar:
 - Özümleme işini yapan yaprakların üst yüzündeki doku

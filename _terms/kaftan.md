@@ -2,6 +2,7 @@
 layout: term
 title: kaftan
 slug: kaftan
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çoğu ipekten yapılan, bir tür uzun, süslü üst giysisi

@@ -2,6 +2,7 @@
 layout: term
 title: albastı
 slug: albasti
+letter: A
 lisan: Türkçe
 anlamlar:
 - Doğum sırasında temizliğe dikkat edilmemesi yüzünden lohusanın tutulduğu ateşli hastalık; lohusa humması, albasma

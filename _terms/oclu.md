@@ -2,6 +2,7 @@
 layout: term
 title: öçlü
 slug: oclu
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Kin ve intikam dolu, öç alma isteğinde olan

@@ -2,6 +2,7 @@
 layout: term
 title: sonda
 slug: sonda
+letter: S
 lisan: İtalyanca sonda
 anlamlar:
 - Suyun herhangi bir noktadaki derinliğini ölçmek, dip tabakaların yapısını incelemek için kullanılan araç

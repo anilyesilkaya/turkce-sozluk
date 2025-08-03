@@ -2,6 +2,7 @@
 layout: term
 title: hararetlenme
 slug: hararetlenme
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hararetlenmek işi

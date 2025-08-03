@@ -2,6 +2,7 @@
 layout: term
 title: salkım
 slug: salkim
+letter: S
 lisan: Türkçe
 anlamlar:
 - Üzüm gibi, birçoğu bir sap üzerinde bir arada bulunan meyve

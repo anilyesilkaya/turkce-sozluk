@@ -2,6 +2,7 @@
 layout: term
 title: boğuk
 slug: boguk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kısılmış (ses); boğunuk

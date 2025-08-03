@@ -2,6 +2,7 @@
 layout: term
 title: öğleüzeri
 slug: ogleuzeri
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► öğleye doğru

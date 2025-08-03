@@ -2,6 +2,7 @@
 layout: term
 title: isteyiş
 slug: isteyis
+letter: I
 lisan: Türkçe
 anlamlar:
 - İstemek işi; arzulayış

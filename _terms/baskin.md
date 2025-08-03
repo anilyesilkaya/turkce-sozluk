@@ -2,6 +2,7 @@
 layout: term
 title: baskın
 slug: baskin
+letter: B
 lisan: Türkçe
 anlamlar:
 - Suç işlendiği veya suçluların bulunduğu sanılan bir yere ansızın girme

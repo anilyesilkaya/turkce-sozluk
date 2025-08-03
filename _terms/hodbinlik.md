@@ -2,6 +2,7 @@
 layout: term
 title: hodbinlik
 slug: hodbinlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► bencillik

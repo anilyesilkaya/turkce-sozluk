@@ -2,6 +2,7 @@
 layout: term
 title: çalışma ruhsatı
 slug: calisma-ruhsati
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çalışma izni

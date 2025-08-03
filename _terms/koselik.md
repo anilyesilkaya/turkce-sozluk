@@ -2,6 +2,7 @@
 layout: term
 title: köşelik
 slug: koselik
+letter: K
 lisan: Türkçe
 anlamlar:
 - İki duvarın kesiştiği yere aralarındaki açıyı doldurmak için uygulanan ahşap veya kârgir işçiliği

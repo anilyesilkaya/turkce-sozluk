@@ -2,6 +2,7 @@
 layout: term
 title: mevta
 slug: mevta
+letter: M
 lisan: Arapça mevtā
 anlamlar:
 - Ölü, ölmüş kimse

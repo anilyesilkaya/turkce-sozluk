@@ -2,6 +2,7 @@
 layout: term
 title: senfoni orkestrası
 slug: senfoni-orkestrasi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Senfonileri çalacak biçimde düzenlenmiş, üflemeli, telli, yaylı ve vurmalı çalgılardan oluşan büyük orkestra

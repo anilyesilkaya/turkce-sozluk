@@ -2,6 +2,7 @@
 layout: term
 title: salgıncı
 slug: salginci
+letter: S
 lisan: Türkçe
 anlamlar:
 - Salgın toplayan kimse

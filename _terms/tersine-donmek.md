@@ -2,6 +2,7 @@
 layout: term
 title: tersine dönmek
 slug: tersine-donmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - beklenildiği, umulduğu gibi gerçekleşmemek, aksi olmak

@@ -2,6 +2,7 @@
 layout: term
 title: fenol
 slug: fenol
+letter: F
 lisan: Fransızca phénol
 anlamlar:
 - Boyacılıkla, plastik maddelerin ve bazı ilaçların yapımında kullanılan, çoğunlukla maden kömürünün katranından çıkarılan benzinin oksijenli türevi; asit fenik

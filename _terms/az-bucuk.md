@@ -2,6 +2,7 @@
 layout: term
 title: az buçuk
 slug: az-bucuk
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► bir parça

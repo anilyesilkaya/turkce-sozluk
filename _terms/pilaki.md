@@ -2,6 +2,7 @@
 layout: term
 title: pilaki
 slug: pilaki
+letter: P
 lisan: Rumca
 anlamlar:
 - İçine soğan, sarımsak, maydanoz, havuç vb. katılarak zeytinyağıyla pişirilen ve soğuk olarak yenen yemek

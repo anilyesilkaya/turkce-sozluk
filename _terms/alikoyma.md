@@ -2,6 +2,7 @@
 layout: term
 title: alıkoyma
 slug: alikoyma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alıkoymak işi; tavik

@@ -2,6 +2,7 @@
 layout: term
 title: hamurlamak
 slug: hamurlamak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hamur sürmek

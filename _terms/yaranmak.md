@@ -2,6 +2,7 @@
 layout: term
 title: yaranmak
 slug: yaranmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir davranışla birini memnun etmek

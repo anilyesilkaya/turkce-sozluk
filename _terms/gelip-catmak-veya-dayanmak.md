@@ -2,6 +2,7 @@
 layout: term
 title: gelip çatmak (veya dayanmak)
 slug: gelip-catmak-veya-dayanmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - vakti gelmek, kaçınılmaz olmak

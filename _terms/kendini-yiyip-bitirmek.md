@@ -2,6 +2,7 @@
 layout: term
 title: kendini yiyip bitirmek
 slug: kendini-yiyip-bitirmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - kendi kendini yemek

@@ -2,6 +2,7 @@
 layout: term
 title: göz hapsine almak
 slug: goz-hapsine-almak
+letter: G
 lisan: Türkçe
 anlamlar:
 - bakışlarını üzerinden ayırmamak, gözetlemek, hiçbir davranışını gözden kaçırmamak

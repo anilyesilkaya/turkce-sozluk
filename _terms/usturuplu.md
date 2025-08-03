@@ -2,6 +2,7 @@
 layout: term
 title: usturuplu
 slug: usturuplu
+letter: U
 lisan: Türkçe
 anlamlar:
 - Yerli yerinde, işlevine uygun bir biçimde

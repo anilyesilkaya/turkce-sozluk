@@ -2,6 +2,7 @@
 layout: term
 title: sudan çıkmış balığa dönmek
 slug: sudan-cikmis-baliga-donmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - herhangi bir sebeple ne yapacağını bilememek, çok şaşırmak

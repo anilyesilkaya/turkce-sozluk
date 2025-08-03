@@ -2,6 +2,7 @@
 layout: term
 title: cehennem azabı
 slug: cehennem-azabi
+letter: C
 lisan: Türkçe
 anlamlar:
 - İşlenilen günahların karşılığı olarak cehennemde çekileceğine inanılan ceza

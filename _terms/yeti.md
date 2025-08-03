@@ -2,6 +2,7 @@
 layout: term
 title: yeti
 slug: yeti
+letter: Y
 lisan: Türkçe
 anlamlar:
 - İnsanda bulunan, bir şey yapabilme yeteneği; kuvve, meleke

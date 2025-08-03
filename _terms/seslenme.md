@@ -2,6 +2,7 @@
 layout: term
 title: seslenme
 slug: seslenme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Seslenmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: ruhçu
 slug: ruhcu
+letter: R
 lisan: Türkçe
 anlamlar:
 - Ruhçuluk öğretisini benimseyen (kimse); tinselci, ispritizmacı, spiritüalist

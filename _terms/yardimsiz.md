@@ -2,6 +2,7 @@
 layout: term
 title: yardımsız
 slug: yardimsiz
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yardım almadan

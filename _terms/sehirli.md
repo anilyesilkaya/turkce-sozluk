@@ -2,6 +2,7 @@
 layout: term
 title: şehirli
 slug: sehirli
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şehir halkından olan; kentli

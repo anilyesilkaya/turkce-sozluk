@@ -2,6 +2,7 @@
 layout: term
 title: yüklenmek
 slug: yuklenmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yükleme işi yapılmak veya yükleme işine konu olmak; yıkılmak

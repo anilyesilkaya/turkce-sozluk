@@ -2,6 +2,7 @@
 layout: term
 title: hahha
 slug: hahha
+letter: H
 lisan: Türkçe
 anlamlar:
 - Alaylı, yapmacıklı gülerken çıkan ses

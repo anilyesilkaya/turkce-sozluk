@@ -2,6 +2,7 @@
 layout: term
 title: mutabık kalmak
 slug: mutabik-kalmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - uyuşmak, karşılıklı olarak anlaşmaya varmak

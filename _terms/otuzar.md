@@ -2,6 +2,7 @@
 layout: term
 title: otuzar
 slug: otuzar
+letter: O
 lisan: Türkçe
 anlamlar:
 - Otuz sayısının üleştirme sayı sıfatı

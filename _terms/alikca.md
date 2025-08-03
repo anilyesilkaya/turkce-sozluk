@@ -2,6 +2,7 @@
 layout: term
 title: alıkça
 slug: alikca
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alık benzeri; alık alık, alık salık

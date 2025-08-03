@@ -2,6 +2,7 @@
 layout: term
 title: yıldıramak
 slug: yildiramak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► parıldamak

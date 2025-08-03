@@ -2,6 +2,7 @@
 layout: term
 title: ustalıkla
 slug: ustalikla
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► ustaca

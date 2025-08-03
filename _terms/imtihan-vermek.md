@@ -2,6 +2,7 @@
 layout: term
 title: imtihan vermek
 slug: imtihan-vermek
+letter: I
 lisan: Türkçe
 anlamlar:
 - sınanmak

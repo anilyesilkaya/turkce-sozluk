@@ -2,6 +2,7 @@
 layout: term
 title: bıyıksızlık
 slug: biyiksizlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bıyıksız olma durumu

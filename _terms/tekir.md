@@ -2,6 +2,7 @@
 layout: term
 title: tekir
 slug: tekir
+letter: T
 lisan: Türkçe
 anlamlar:
 - Barbunyaya (I) benzeyen bir balık (Mullus surmuletus)

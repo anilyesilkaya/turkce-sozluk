@@ -2,6 +2,7 @@
 layout: term
 title: ortak
 slug: ortak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Birlikte iş yapan, ortaklaşa yararlarla birbirlerine bağlı kimselerden her biri; şerik, partner

@@ -2,6 +2,7 @@
 layout: term
 title: menfaat görmek
 slug: menfaat-gormek
+letter: M
 lisan: Türkçe
 anlamlar:
 - faydalanmak, çıkar elde etmek

@@ -2,6 +2,7 @@
 layout: term
 title: tatsız
 slug: tatsiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tadı iyi olmayan, lezzetsiz olan

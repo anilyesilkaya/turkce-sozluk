@@ -2,6 +2,7 @@
 layout: term
 title: uzama katsayısı
 slug: uzama-katsayisi
+letter: U
 lisan: Türkçe
 anlamlar:
 - Birim boydaki bir cismin boyutunda birim kuvvetin etkisiyle meydana gelen artma, büyüme

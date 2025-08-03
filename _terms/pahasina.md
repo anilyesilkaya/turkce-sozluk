@@ -2,6 +2,7 @@
 layout: term
 title: pahasına
 slug: pahasina
+letter: P
 lisan: Türkçe
 anlamlar:
 - karşılığında, uğruna

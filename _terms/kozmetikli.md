@@ -2,6 +2,7 @@
 layout: term
 title: kozmetikli
 slug: kozmetikli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kozmetik içeren

@@ -2,6 +2,7 @@
 layout: term
 title: spamlatma
 slug: spamlatma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Spamlatmak işi

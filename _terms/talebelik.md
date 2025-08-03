@@ -2,6 +2,7 @@
 layout: term
 title: talebelik
 slug: talebelik
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► öğrencilik

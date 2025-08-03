@@ -2,6 +2,7 @@
 layout: term
 title: indirgemek
 slug: indirgemek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Daha kolay ve yalın duruma getirmek

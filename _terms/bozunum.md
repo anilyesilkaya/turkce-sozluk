@@ -2,6 +2,7 @@
 layout: term
 title: bozunum
 slug: bozunum
+letter: B
 lisan: Türkçe
 anlamlar:
 - Birleşik bir maddenin daha yalın bileşiklere veya bileşenlere tek yönlü olarak ayrılması; dejenerasyon

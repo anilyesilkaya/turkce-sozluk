@@ -2,6 +2,7 @@
 layout: term
 title: ihtimal
 slug: ihtimal
+letter: I
 lisan: Arapça iḥtimāl
 anlamlar:
 - Bir şeyin olabilmesi durumu, olabilirlik; olasılık

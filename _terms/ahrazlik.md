@@ -2,6 +2,7 @@
 layout: term
 title: ahrazlık
 slug: ahrazlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ahraz olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: saydam
 slug: saydam
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► şeffaf

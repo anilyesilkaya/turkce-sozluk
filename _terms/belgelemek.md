@@ -2,6 +2,7 @@
 layout: term
 title: belgelemek
 slug: belgelemek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir olgunun doğru olduğunu belge ile göstermek, ortaya çıkarmak; tevsik etmek

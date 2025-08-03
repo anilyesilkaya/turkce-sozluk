@@ -2,6 +2,7 @@
 layout: term
 title: bekleyekoymak
 slug: bekleyekoymak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beklemesini sürdürmek

@@ -2,6 +2,7 @@
 layout: term
 title: giyme
 slug: giyme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Giymek işi

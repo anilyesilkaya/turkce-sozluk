@@ -2,6 +2,7 @@
 layout: term
 title: öncesiz sonrasız
 slug: oncesiz-sonrasiz
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Başlangıcı ve sonu olmayan

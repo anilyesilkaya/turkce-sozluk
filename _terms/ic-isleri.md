@@ -2,6 +2,7 @@
 layout: term
 title: iç işleri
 slug: ic-isleri
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bir ülkenin kendine özgü işleri

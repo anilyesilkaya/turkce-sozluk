@@ -2,6 +2,7 @@
 layout: term
 title: sıkılış
 slug: sikilis
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıkılmak işi

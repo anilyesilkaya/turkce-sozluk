@@ -2,6 +2,7 @@
 layout: term
 title: savrulma
 slug: savrulma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Savrulmak işi

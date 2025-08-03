@@ -2,6 +2,7 @@
 layout: term
 title: Yahudi ebegümeci
 slug: yahudi-ebegumeci
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► mülhiye

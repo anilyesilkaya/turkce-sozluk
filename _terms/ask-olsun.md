@@ -2,6 +2,7 @@
 layout: term
 title: aşk olsun
 slug: ask-olsun
+letter: A
 lisan: Türkçe
 anlamlar:
 - beğenilmeyecek bir davranış, bir tutum karşısında kınama, sitem bildiren söz

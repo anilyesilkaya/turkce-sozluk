@@ -2,6 +2,7 @@
 layout: term
 title: kaydedilme
 slug: kaydedilme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaydedilmek işi

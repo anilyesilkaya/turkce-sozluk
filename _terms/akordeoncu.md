@@ -2,6 +2,7 @@
 layout: term
 title: akordeoncu
 slug: akordeoncu
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► akordiyoncu

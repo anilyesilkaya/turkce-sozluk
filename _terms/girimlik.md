@@ -2,6 +2,7 @@
 layout: term
 title: girimlik
 slug: girimlik
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► giriş kartı

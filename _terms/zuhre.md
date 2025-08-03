@@ -2,6 +2,7 @@
 layout: term
 title: Zühre
 slug: zuhre
+letter: Z
 lisan: Arapça zuhre
 anlamlar:
 - ► Çoban Yıldızı

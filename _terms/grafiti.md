@@ -2,6 +2,7 @@
 layout: term
 title: grafiti
 slug: grafiti
+letter: G
 lisan: İngilizce graffiti
 anlamlar:
 - ► duvar yazısı

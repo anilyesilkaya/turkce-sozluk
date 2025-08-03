@@ -2,6 +2,7 @@
 layout: term
 title: standartlaşmak
 slug: standartlasmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Standart duruma gelmek

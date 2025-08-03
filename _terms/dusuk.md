@@ -2,6 +2,7 @@
 layout: term
 title: düşük
 slug: dusuk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Yaşayabilecek duruma gelmeden doğan yavru; düşüt, ceninisakıt, bağan, sakıt

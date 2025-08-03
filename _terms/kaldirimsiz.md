@@ -2,6 +2,7 @@
 layout: term
 title: kaldırımsız
 slug: kaldirimsiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaldırımı olmayan

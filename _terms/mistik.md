@@ -2,6 +2,7 @@
 layout: term
 title: mistik
 slug: mistik
+letter: M
 lisan: Fransızca mystique
 anlamlar:
 - ► gizemci

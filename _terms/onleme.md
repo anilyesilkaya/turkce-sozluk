@@ -2,6 +2,7 @@
 layout: term
 title: önleme
 slug: onleme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Önlemek işi

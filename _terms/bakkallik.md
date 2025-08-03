@@ -2,6 +2,7 @@
 layout: term
 title: bakkallık
 slug: bakkallik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bakkalın işi

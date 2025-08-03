@@ -2,6 +2,7 @@
 layout: term
 title: utanılası
 slug: utanilasi
+letter: U
 lisan: Türkçe
 anlamlar:
 - Utanılacak bir durumda olan

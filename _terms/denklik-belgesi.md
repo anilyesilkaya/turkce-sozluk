@@ -2,6 +2,7 @@
 layout: term
 title: denklik belgesi
 slug: denklik-belgesi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir ülkedeki eğitim kurumlarından alınan belgenin başka bir ülkedeki ile eş değer olduğunu gösteren belge

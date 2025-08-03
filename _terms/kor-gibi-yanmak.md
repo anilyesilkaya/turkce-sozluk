@@ -2,6 +2,7 @@
 layout: term
 title: kor gibi yanmak
 slug: kor-gibi-yanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - çok parlamak

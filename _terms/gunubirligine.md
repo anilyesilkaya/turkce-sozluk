@@ -2,6 +2,7 @@
 layout: term
 title: günübirliğine
 slug: gunubirligine
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► günübirlik

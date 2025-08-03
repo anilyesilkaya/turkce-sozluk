@@ -2,6 +2,7 @@
 layout: term
 title: abajurlu
 slug: abajurlu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Abajuru olan

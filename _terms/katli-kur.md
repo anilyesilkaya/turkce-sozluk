@@ -2,6 +2,7 @@
 layout: term
 title: katlı kur
 slug: katli-kur
+letter: K
 lisan: Türkçe
 anlamlar:
 - Az gelişmiş ülke ekonomilerine özgü birden çok döviz kuru uygulama yöntemi

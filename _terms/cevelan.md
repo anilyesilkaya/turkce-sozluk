@@ -2,6 +2,7 @@
 layout: term
 title: cevelan
 slug: cevelan
+letter: C
 lisan: Arapça cevelān
 anlamlar:
 - ► gezinme

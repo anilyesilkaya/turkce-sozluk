@@ -2,6 +2,7 @@
 layout: term
 title: çatlama
 slug: catlama
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çatlamak işi

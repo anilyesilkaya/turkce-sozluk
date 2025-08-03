@@ -2,6 +2,7 @@
 layout: term
 title: şehadetname
 slug: sehadetname
+letter: Ş
 lisan: Arapça şehādet + Farsça nāme
 anlamlar:
 - ► diploma

@@ -2,6 +2,7 @@
 layout: term
 title: gözünün önüne gelmek
 slug: gozunun-onune-gelmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - bir şeyi zihinde canlandırmak, tasarlamak, hatırlamak

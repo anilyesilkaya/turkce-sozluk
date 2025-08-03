@@ -2,6 +2,7 @@
 layout: term
 title: kırılmak
 slug: kirilmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kırma işine konu olmak, bir veya birçok parçaya ayrılmak

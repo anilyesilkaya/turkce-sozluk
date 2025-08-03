@@ -2,6 +2,7 @@
 layout: term
 title: açgözlüce
 slug: acgozluce
+letter: A
 lisan: Türkçe
 anlamlar:
 - Açgözlüye yaraşır bir biçimde

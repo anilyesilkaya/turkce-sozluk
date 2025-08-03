@@ -2,6 +2,7 @@
 layout: term
 title: sürgün gitmek (veya olmak)
 slug: surgun-gitmek-veya-olmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - sürgüne gönderilmek, sürgün cezasına uğramak

@@ -2,6 +2,7 @@
 layout: term
 title: perlitli
 slug: perlitli
+letter: P
 lisan: Türkçe
 anlamlar:
 - Özünde perlit bulunduran

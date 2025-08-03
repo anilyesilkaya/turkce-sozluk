@@ -2,6 +2,7 @@
 layout: term
 title: bekâret
 slug: bekaret
+letter: B
 lisan: Arapça bekāret
 anlamlar:
 - ► kızlık

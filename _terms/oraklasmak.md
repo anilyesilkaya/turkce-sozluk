@@ -2,6 +2,7 @@
 layout: term
 title: oraklaşmak
 slug: oraklasmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Orak biçimini almak

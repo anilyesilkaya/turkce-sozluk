@@ -2,6 +2,7 @@
 layout: term
 title: adabımuaşeret
 slug: adabimuaseret
+letter: A
 lisan: Arapça ādāb + muʿāşeret
 anlamlar:
 - ► görgü kuralları

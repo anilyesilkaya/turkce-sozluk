@@ -2,6 +2,7 @@
 layout: term
 title: odyovizüel
 slug: odyovizuel
+letter: O
 lisan: Fransızca audio-visuel
 anlamlar:
 - ► görsel-işitsel

@@ -2,6 +2,7 @@
 layout: term
 title: elektronik beyin
 slug: elektronik-beyin
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► bilgisayar

@@ -2,6 +2,7 @@
 layout: term
 title: tabii afet
 slug: tabii-afet
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► doğal afet

@@ -2,6 +2,7 @@
 layout: term
 title: baz
 slug: baz
+letter: B
 lisan: Fransızca base
 anlamlar:
 - ► temel

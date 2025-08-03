@@ -2,6 +2,7 @@
 layout: term
 title: bir tabur
 slug: bir-tabur
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► pek çok

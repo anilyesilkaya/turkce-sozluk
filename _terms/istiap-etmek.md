@@ -2,6 +2,7 @@
 layout: term
 title: istiap etmek
 slug: istiap-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - içine almak, sığdırmak

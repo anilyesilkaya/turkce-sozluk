@@ -2,6 +2,7 @@
 layout: term
 title: hiddetlenmek
 slug: hiddetlenmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► öfkelenmek

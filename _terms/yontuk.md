@@ -2,6 +2,7 @@
 layout: term
 title: yontuk
 slug: yontuk
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yontulmuş yer

@@ -2,6 +2,7 @@
 layout: term
 title: meyve ortası
 slug: meyve-ortasi
+letter: M
 lisan: Türkçe
 anlamlar:
 - Yemişlerin meyve dışı ve meyve içi arasında bulunan sulu ve etli bölümü

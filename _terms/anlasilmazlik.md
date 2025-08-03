@@ -2,6 +2,7 @@
 layout: term
 title: anlaşılmazlık
 slug: anlasilmazlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anlaşılmaz olma durumu

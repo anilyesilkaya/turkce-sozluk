@@ -2,6 +2,7 @@
 layout: term
 title: zifos atmak
 slug: zifos-atmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - sataşmak

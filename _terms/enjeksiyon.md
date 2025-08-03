@@ -2,6 +2,7 @@
 layout: term
 title: enjeksiyon
 slug: enjeksiyon
+letter: E
 lisan: Fransızca injection
 anlamlar:
 - Vücutta damar, doku, kanal veya boşluk içine enjektör aracılığıyla sıvı veya ilaç verme

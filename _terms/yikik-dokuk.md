@@ -2,6 +2,7 @@
 layout: term
 title: yıkık dökük
 slug: yikik-dokuk
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Harabeye benzeyen, harabeye dönmüş

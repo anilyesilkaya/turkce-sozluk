@@ -2,6 +2,7 @@
 layout: term
 title: sürtünmesiz
 slug: surtunmesiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sürtünme olmadan

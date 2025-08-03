@@ -2,6 +2,7 @@
 layout: term
 title: hacet kapısı
 slug: hacet-kapisi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Dua etmek veya dilekte bulunmak için gidilen türbe, mezar vb.; hacet penceresi

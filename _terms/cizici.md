@@ -2,6 +2,7 @@
 layout: term
 title: çizici
 slug: cizici
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Tarlada haşhaş kozalaklarını afyon almak için çizen kimse

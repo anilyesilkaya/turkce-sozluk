@@ -2,6 +2,7 @@
 layout: term
 title: 'kızıltuygun '
 slug: kiziltuygun
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► saz delicesi

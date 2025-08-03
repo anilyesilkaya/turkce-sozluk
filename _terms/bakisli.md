@@ -2,6 +2,7 @@
 layout: term
 title: bakışlı
 slug: bakisli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Herhangi bir biçimde bakışı olan

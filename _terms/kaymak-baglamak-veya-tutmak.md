@@ -2,6 +2,7 @@
 layout: term
 title: kaymak bağlamak (veya tutmak)
 slug: kaymak-baglamak-veya-tutmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - sütün veya bir sıvının üzerinde kaymak oluşmak; kaymaklanmak

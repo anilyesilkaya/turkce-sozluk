@@ -2,6 +2,7 @@
 layout: term
 title: dülek
 slug: dulek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Olmamış kavun veya karpuz

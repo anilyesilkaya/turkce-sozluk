@@ -2,6 +2,7 @@
 layout: term
 title: cihat açmak
 slug: cihat-acmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - savaş için çağrı yapmak

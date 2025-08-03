@@ -2,6 +2,7 @@
 layout: term
 title: ağzını dilini bağlamak
 slug: agzini-dilini-baglamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - birini konuşamaz duruma getirmek

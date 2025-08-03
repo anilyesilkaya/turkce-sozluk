@@ -2,6 +2,7 @@
 layout: term
 title: iş olacağına varır
 slug: is-olacagina-varir
+letter: I
 lisan: Türkçe
 anlamlar:
 - bir soruna aldırmamayı, ne yapılırsa yapılsın yine aynı sonuca ulaşılacağını anlatan bir söz

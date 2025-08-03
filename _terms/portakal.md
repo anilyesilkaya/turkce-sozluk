@@ -2,6 +2,7 @@
 layout: term
 title: portakal
 slug: portakal
+letter: P
 lisan: (Portugal yer adından)
 anlamlar:
 - Turunçgillerden, Akdeniz ülkelerinde yetişen, yaprakları sert bir ağaç (Citrus aurantium)

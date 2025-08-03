@@ -2,6 +2,7 @@
 layout: term
 title: eğretilemek
 slug: egretilemek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ödünç almak

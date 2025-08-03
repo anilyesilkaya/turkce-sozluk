@@ -2,6 +2,7 @@
 layout: term
 title: gezgin
 slug: gezgin
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gezmek, tanımak, görmek, dinlenmek amacıyla geziye çıkan kimse; gezmen, seyyah

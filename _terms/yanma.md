@@ -2,6 +2,7 @@
 layout: term
 title: yanma
 slug: yanma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yanmak işi

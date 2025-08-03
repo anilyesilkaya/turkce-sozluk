@@ -2,6 +2,7 @@
 layout: term
 title: intişar
 slug: intisar
+letter: I
 lisan: Arapça intişār
 anlamlar:
 - ► yayılma

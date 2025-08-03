@@ -2,6 +2,7 @@
 layout: term
 title: bürünebilmek
 slug: burunebilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bürünme ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: bir tat, bin feryat
 slug: bir-tat-bin-feryat
+letter: B
 lisan: Türkçe
 anlamlar:
 - mutluluktan çok, sıkıntısı olan

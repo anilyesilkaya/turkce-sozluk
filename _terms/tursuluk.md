@@ -2,6 +2,7 @@
 layout: term
 title: turşuluk
 slug: tursuluk
+letter: T
 lisan: Türkçe
 anlamlar:
 - Turşu yapmaya elverişli

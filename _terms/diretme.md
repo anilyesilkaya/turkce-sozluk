@@ -2,6 +2,7 @@
 layout: term
 title: diretme
 slug: diretme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Diretmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: fena gözle bakmak
 slug: fena-gozle-bakmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - kötü niyetini anlatır biçimde bakmak

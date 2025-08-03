@@ -2,6 +2,7 @@
 layout: term
 title: zırt pırt
 slug: zirt-pirt
+letter: Z
 lisan: Türkçe
 anlamlar:
 - İkide birde, uygunsuzca, yerli yersiz, gereksiz yere; zırt fırt, zırt zırt

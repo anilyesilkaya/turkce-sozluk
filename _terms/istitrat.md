@@ -2,6 +2,7 @@
 layout: term
 title: istitrat
 slug: istitrat
+letter: I
 lisan: Arapça istiṭrād
 anlamlar:
 - Sırası gelmişken söylenen söz

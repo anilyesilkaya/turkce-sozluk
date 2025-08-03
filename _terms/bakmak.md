@@ -2,6 +2,7 @@
 layout: term
 title: bakmak
 slug: bakmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bakışı bir şey üzerine çevirmek

@@ -2,6 +2,7 @@
 layout: term
 title: fışlamak
 slug: fislamak
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► fıkramak

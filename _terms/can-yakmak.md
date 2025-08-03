@@ -2,6 +2,7 @@
 layout: term
 title: can yakmak
 slug: can-yakmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - zulmetmek, eziyet etmek

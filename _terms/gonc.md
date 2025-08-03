@@ -2,6 +2,7 @@
 layout: term
 title: gönç
 slug: gonc
+letter: G
 lisan: Türkçe
 anlamlar:
 - Zengin, varlıklı

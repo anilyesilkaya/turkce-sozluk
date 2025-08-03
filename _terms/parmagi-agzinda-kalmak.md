@@ -2,6 +2,7 @@
 layout: term
 title: parmağı ağzında kalmak
 slug: parmagi-agzinda-kalmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - şaşakalmak, şaşmak, hayret etmek

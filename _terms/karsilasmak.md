@@ -2,6 +2,7 @@
 layout: term
 title: karşılaşmak
 slug: karsilasmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir kimseyle veya bir şeyle karşı karşıya gelmek

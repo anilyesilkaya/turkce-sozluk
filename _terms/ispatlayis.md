@@ -2,6 +2,7 @@
 layout: term
 title: ispatlayış
 slug: ispatlayis
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► kanıtlayış

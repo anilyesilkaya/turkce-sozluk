@@ -2,6 +2,7 @@
 layout: term
 title: vect
 slug: vect
+letter: V
 lisan: Arapça vecd
 anlamlar:
 - Sevgi veya heyecandan doğan coşkunluk, kendinden geçme; esrime

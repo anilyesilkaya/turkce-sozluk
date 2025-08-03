@@ -2,6 +2,7 @@
 layout: term
 title: sıklaştırmak
 slug: siklastirmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sık duruma getirmek veya sıkça yapmak, sayısını artırmak

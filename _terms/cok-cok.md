@@ -2,6 +2,7 @@
 layout: term
 title: çok çok
 slug: cok-cok
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çok aşırı

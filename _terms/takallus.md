@@ -2,6 +2,7 @@
 layout: term
 title: takallüs
 slug: takallus
+letter: T
 lisan: Arapça taḳalluṣ
 anlamlar:
 - ► kasılma

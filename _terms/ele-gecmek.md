@@ -2,6 +2,7 @@
 layout: term
 title: ele geçmek
 slug: ele-gecmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - bir kimse yakalanmak

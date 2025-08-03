@@ -2,6 +2,7 @@
 layout: term
 title: tahvilat
 slug: tahvilat
+letter: T
 lisan: Arapça taḥvīlāt
 anlamlar:
 - Tahviller

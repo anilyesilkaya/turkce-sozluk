@@ -2,6 +2,7 @@
 layout: term
 title: çatallaşmak
 slug: catallasmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - İki veya daha çok ihtimal ortaya çıkarak anlaşılması güç bir duruma gelmek

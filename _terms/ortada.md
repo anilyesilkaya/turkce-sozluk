@@ -2,6 +2,7 @@
 layout: term
 title: ortada
 slug: ortada
+letter: O
 lisan: Türkçe
 anlamlar:
 - Sonucu belli olmayan (karşılaşma)

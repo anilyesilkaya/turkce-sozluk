@@ -2,6 +2,7 @@
 layout: term
 title: ivmelenmek
 slug: ivmelenmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Hareket, olay vb. hızlanmak, hızını artırmak; hız kazanmak

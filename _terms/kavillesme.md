@@ -2,6 +2,7 @@
 layout: term
 title: kavilleşme
 slug: kavillesme
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► sözleşme

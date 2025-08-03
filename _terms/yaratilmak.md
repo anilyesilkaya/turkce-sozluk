@@ -2,6 +2,7 @@
 layout: term
 title: yaratılmak
 slug: yaratilmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaratma işine konu olmak

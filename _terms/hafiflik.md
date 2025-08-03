@@ -2,6 +2,7 @@
 layout: term
 title: hafiflik
 slug: hafiflik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hafif olma durumu; yeğnilik

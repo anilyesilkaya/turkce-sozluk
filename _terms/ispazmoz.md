@@ -2,6 +2,7 @@
 layout: term
 title: ıspazmoz
 slug: ispazmoz
+letter: I
 lisan: Rumca
 anlamlar:
 - Aşırı titreme, kasılma

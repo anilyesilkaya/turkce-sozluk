@@ -2,6 +2,7 @@
 layout: term
 title: aynıyla
 slug: ayniyla
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► aynen

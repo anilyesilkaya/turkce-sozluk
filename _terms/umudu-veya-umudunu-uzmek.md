@@ -2,6 +2,7 @@
 layout: term
 title: umudu (veya umudunu) üzmek
 slug: umudu-veya-umudunu-uzmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - umudu kesmek

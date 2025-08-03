@@ -2,6 +2,7 @@
 layout: term
 title: acılanma
 slug: acilanma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Acılanmak durumu

@@ -2,6 +2,7 @@
 layout: term
 title: önceki
 slug: onceki
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Önce olan; evvelki, evveli

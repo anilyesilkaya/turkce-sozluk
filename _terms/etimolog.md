@@ -2,6 +2,7 @@
 layout: term
 title: etimolog
 slug: etimolog
+letter: E
 lisan: Fransızca étymologue
 anlamlar:
 - ► köken bilimci

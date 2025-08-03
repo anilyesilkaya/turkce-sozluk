@@ -2,6 +2,7 @@
 layout: term
 title: kalıpçı
 slug: kalipci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalıp yapan veya satan kimse

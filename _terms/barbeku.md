@@ -2,6 +2,7 @@
 layout: term
 title: barbekü
 slug: barbeku
+letter: B
 lisan: Fransızca barbecue
 anlamlar:
 - Izgara et pişirmekte kullanılan, genellikle balkonlarda duvar içerisine gömülmüş ocak

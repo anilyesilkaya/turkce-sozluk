@@ -2,6 +2,7 @@
 layout: term
 title: geri gitmek
 slug: geri-gitmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - geldiği yere dönmek

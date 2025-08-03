@@ -2,6 +2,7 @@
 layout: term
 title: üye
 slug: uye
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Herhangi bir topluluğu oluşturan bireylerden her biri; aza

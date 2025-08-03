@@ -2,6 +2,7 @@
 layout: term
 title: tek geçmek
 slug: tek-gecmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - sadece onunla ilgilenmek, sadece ona önem veya değer vermek

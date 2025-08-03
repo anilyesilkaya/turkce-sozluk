@@ -2,6 +2,7 @@
 layout: term
 title: gündüzcü
 slug: gunduzcu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gündüz çalışan görevli

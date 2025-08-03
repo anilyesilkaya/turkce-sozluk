@@ -2,6 +2,7 @@
 layout: term
 title: zehir hafiye
 slug: zehir-hafiye
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Kimseye göz açtırmayan, sert yaradılışlı kimse

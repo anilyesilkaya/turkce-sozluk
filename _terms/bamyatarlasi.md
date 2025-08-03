@@ -2,6 +2,7 @@
 layout: term
 title: bamyatarlası
 slug: bamyatarlasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► mezarlık

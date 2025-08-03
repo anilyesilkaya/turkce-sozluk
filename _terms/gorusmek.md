@@ -2,6 +2,7 @@
 layout: term
 title: görüşmek
 slug: gorusmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Buluşup konuşmak, konuşup sohbet etmek

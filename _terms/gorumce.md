@@ -2,6 +2,7 @@
 layout: term
 title: görümce
 slug: gorumce
+letter: G
 lisan: Türkçe
 anlamlar:
 - Kadına göre kocasının kız kardeşi

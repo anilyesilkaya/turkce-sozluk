@@ -2,6 +2,7 @@
 layout: term
 title: akim
 slug: akim
+letter: A
 lisan: Arapça ʿaḳīm
 anlamlar:
 - ► verimsiz

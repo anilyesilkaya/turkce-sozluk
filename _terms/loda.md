@@ -2,6 +2,7 @@
 layout: term
 title: loda
 slug: loda
+letter: L
 lisan: Türkçe
 anlamlar:
 - Taneli veya tanesiz saman yığını

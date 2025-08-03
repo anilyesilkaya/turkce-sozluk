@@ -2,6 +2,7 @@
 layout: term
 title: selametlemek
 slug: selametlemek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Yolcuyu, konuğu uğurlamak, geçirmek

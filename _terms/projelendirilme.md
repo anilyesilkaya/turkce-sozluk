@@ -2,6 +2,7 @@
 layout: term
 title: projelendirilme
 slug: projelendirilme
+letter: P
 lisan: Türkçe
 anlamlar:
 - Projelendirilmek işi

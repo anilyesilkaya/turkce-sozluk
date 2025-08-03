@@ -2,6 +2,7 @@
 layout: term
 title: kırma
 slug: kirma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kırmak işi; nakız

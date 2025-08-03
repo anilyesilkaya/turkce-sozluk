@@ -2,6 +2,7 @@
 layout: term
 title: emare
 slug: emare
+letter: E
 lisan: Arapça emāre
 anlamlar:
 - ► belirti

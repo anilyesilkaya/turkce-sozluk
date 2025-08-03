@@ -2,6 +2,7 @@
 layout: term
 title: voltajlı
 slug: voltajli
+letter: V
 lisan: Türkçe
 anlamlar:
 - Voltajı olan

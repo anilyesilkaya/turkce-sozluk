@@ -2,6 +2,7 @@
 layout: term
 title: goril
 slug: goril
+letter: G
 lisan: Fransızca gorille
 anlamlar:
 - Afrika'nın Ekvator bölgesinde ormanlarda yaşayan, iri ve güçlü bir tür maymun (Gorilla gorilla)

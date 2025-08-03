@@ -2,6 +2,7 @@
 layout: term
 title: gıyabi
 slug: giyabi
+letter: G
 lisan: Arapça ġiyābī
 anlamlar:
 - Kişinin yokluğunda o kişi hakkında verilen (iş, hüküm vb.)

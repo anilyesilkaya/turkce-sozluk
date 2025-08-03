@@ -2,6 +2,7 @@
 layout: term
 title: Brüksel lahanası
 slug: bruksel-lahanasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► Frenk lahanası

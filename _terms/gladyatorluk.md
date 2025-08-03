@@ -2,6 +2,7 @@
 layout: term
 title: gladyatörlük
 slug: gladyatorluk
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gladyatör olma durumu

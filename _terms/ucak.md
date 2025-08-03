@@ -2,6 +2,7 @@
 layout: term
 title: uçak
 slug: ucak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Kanatlarının altındaki havanın yaptığı basınç yardımıyla yükselip ilerleyebilen motorlu hava taşıtı; tayyare

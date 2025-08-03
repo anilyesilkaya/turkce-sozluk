@@ -2,6 +2,7 @@
 layout: term
 title: parkecilik
 slug: parkecilik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Parkeci olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: son görev
 slug: son-gorev
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir akraba, dost veya arkadaşın ölümünden sonra cenaze vb. törenlerine katılma; son vazife

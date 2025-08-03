@@ -2,6 +2,7 @@
 layout: term
 title: odontoklast
 slug: odontoklast
+letter: O
 lisan: Fransızca odontoclaste
 anlamlar:
 - Süt dişleri köklerinin erimesine sebep olan bir tür hücre

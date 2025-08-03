@@ -2,6 +2,7 @@
 layout: term
 title: boş ol (veya olsun)
 slug: bos-ol-veya-olsun
+letter: B
 lisan: Türkçe
 anlamlar:
 - İslam hukukuna göre erkeğin karısını boşamak için söylediği söz

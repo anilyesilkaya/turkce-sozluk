@@ -2,6 +2,7 @@
 layout: term
 title: hoşgörü
 slug: hosgoru
+letter: H
 lisan: Türkçe
 anlamlar:
 - Yapılan yanlış veya kötü davranışları anlayışla karşılayarak affetme, sert ve katı hükümlü olmama; müsamaha, tolerans

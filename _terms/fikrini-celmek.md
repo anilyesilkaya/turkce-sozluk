@@ -2,6 +2,7 @@
 layout: term
 title: fikrini çelmek
 slug: fikrini-celmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - kandırmak, düşüncesini değiştirtmek, ikna etmek

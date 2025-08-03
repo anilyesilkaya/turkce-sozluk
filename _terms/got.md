@@ -2,6 +2,7 @@
 layout: term
 title: göt
 slug: got
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► anüs

@@ -2,6 +2,7 @@
 layout: term
 title: pelerin
 slug: pelerin
+letter: P
 lisan: Fransızca pèlerine
 anlamlar:
 - Omuzlardan aşağı dökülen, geniş, kolsuz bir tür üstlük

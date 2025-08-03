@@ -2,6 +2,7 @@
 layout: term
 title: icracı
 slug: icraci
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bir buyruğu yerine getiren kimse

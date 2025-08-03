@@ -2,6 +2,7 @@
 layout: term
 title: pünez
 slug: punez
+letter: P
 lisan: Fransızca punaise
 anlamlar:
 - ► raptiye

@@ -2,6 +2,7 @@
 layout: term
 title: göçebelik
 slug: gocebelik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Göçebe olma durumu; göçerlik

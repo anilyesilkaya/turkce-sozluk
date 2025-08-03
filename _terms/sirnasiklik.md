@@ -2,6 +2,7 @@
 layout: term
 title: sırnaşıklık
 slug: sirnasiklik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sırnaşık olma durumu

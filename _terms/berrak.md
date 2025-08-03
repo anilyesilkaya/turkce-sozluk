@@ -2,6 +2,7 @@
 layout: term
 title: berrak
 slug: berrak
+letter: B
 lisan: Arapça berrāḳ
 anlamlar:
 - Bulanık, kirli olmayan

@@ -2,6 +2,7 @@
 layout: term
 title: tedhiş
 slug: tedhis
+letter: T
 lisan: Arapça tedhīş
 anlamlar:
 - ► terör

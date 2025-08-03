@@ -2,6 +2,7 @@
 layout: term
 title: süremli
 slug: suremli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Belirli bir zaman ilgisi bulunan

@@ -2,6 +2,7 @@
 layout: term
 title: argolu
 slug: argolu
+letter: A
 lisan: Türkçe
 anlamlar:
 - İçinde argo söz bulunan

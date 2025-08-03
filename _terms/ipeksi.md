@@ -2,6 +2,7 @@
 layout: term
 title: ipeksi
 slug: ipeksi
+letter: I
 lisan: Türkçe
 anlamlar:
 - İpeğe benzer, ipek gibi; ipeğimsi

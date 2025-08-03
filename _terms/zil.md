@@ -2,6 +2,7 @@
 layout: term
 title: zil
 slug: zil
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► parasız

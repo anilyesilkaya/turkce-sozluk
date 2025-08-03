@@ -2,6 +2,7 @@
 layout: term
 title: çekişte
 slug: cekiste
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Tuzla terbiye edilmiş yeşil zeytin

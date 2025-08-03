@@ -2,6 +2,7 @@
 layout: term
 title: ihtar
 slug: ihtar
+letter: I
 lisan: Arapça iḫṭār
 anlamlar:
 - ► uyarı

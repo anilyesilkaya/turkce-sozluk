@@ -2,6 +2,7 @@
 layout: term
 title: armalı
 slug: armali
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arma bulunan

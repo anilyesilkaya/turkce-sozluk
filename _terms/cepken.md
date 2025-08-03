@@ -2,6 +2,7 @@
 layout: term
 title: cepken
 slug: cepken
+letter: C
 lisan: Türkçe
 anlamlar:
 - Kolları yırtmaçlı ve uzun, harçla işlenmiş bir tür kısa, yakasız üst giysisi

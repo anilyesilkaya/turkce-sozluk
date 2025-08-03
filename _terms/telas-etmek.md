@@ -2,6 +2,7 @@
 layout: term
 title: telaş etmek
 slug: telas-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - sıkıntı duyarak acele etmek, endişelenmek, telaşlanmak

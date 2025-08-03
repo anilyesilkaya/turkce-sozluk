@@ -2,6 +2,7 @@
 layout: term
 title: bahis konusu
 slug: bahis-konusu
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► söz konusu

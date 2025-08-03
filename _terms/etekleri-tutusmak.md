@@ -2,6 +2,7 @@
 layout: term
 title: etekleri tutuşmak
 slug: etekleri-tutusmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - çok telaşlanmak

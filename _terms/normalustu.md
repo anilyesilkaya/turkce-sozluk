@@ -2,6 +2,7 @@
 layout: term
 title: normalüstü
 slug: normalustu
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► sıra dışı

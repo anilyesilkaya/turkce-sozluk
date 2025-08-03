@@ -2,6 +2,7 @@
 layout: term
 title: doğrultu
 slug: dogrultu
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► yön

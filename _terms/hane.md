@@ -2,6 +2,7 @@
 layout: term
 title: hane
 slug: hane
+letter: H
 lisan: Farsça ḫāne
 anlamlar:
 - ► ev

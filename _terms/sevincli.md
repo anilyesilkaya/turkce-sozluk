@@ -2,6 +2,7 @@
 layout: term
 title: sevinçli
 slug: sevincli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sevinci olan ve sevinç veren; mesrur

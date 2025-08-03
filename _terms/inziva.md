@@ -2,6 +2,7 @@
 layout: term
 title: inziva
 slug: inziva
+letter: I
 lisan: Arapça inzivāʾ
 anlamlar:
 - Toplum hayatından kaçıp tek başına yaşama

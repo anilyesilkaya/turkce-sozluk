@@ -2,6 +2,7 @@
 layout: term
 title: hatiften gelmek
 slug: hatiften-gelmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - gaipten ses gelmek

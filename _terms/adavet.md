@@ -2,6 +2,7 @@
 layout: term
 title: adavet
 slug: adavet
+letter: A
 lisan: Arapça ʿadāvet
 anlamlar:
 - ► düşmanlık

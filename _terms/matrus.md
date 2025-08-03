@@ -2,6 +2,7 @@
 layout: term
 title: matruş
 slug: matrus
+letter: M
 lisan: Arapça maṭrūş
 anlamlar:
 - ► tıraşlı

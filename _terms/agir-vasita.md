@@ -2,6 +2,7 @@
 layout: term
 title: ağır vasıta
 slug: agir-vasita
+letter: A
 lisan: Türkçe
 anlamlar:
 - Motoru ağır yük veya birden fazla römork taşımak amacıyla güçlendirilmiş kamyon, tır vb.; ağır araç

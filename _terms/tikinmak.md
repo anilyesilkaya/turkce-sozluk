@@ -2,6 +2,7 @@
 layout: term
 title: tıkınmak
 slug: tikinmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Eline geçen yiyeceği oburca yemek

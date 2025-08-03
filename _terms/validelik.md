@@ -2,6 +2,7 @@
 layout: term
 title: validelik
 slug: validelik
+letter: V
 lisan: Türkçe
 anlamlar:
 - ► annelik

@@ -2,6 +2,7 @@
 layout: term
 title: eşit
 slug: esit
+letter: E
 lisan: Türkçe
 anlamlar:
 - Yapı, değer, boyut, nicelik ve nitelik bakımından birbirinden ne artık ne eksik olmayan (iki veya daha çok şey); müsavi

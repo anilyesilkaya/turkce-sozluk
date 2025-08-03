@@ -2,6 +2,7 @@
 layout: term
 title: narkoz
 slug: narkoz
+letter: N
 lisan: Fransızca narcose
 anlamlar:
 - Ameliyat yapmak için duyu, hareket ve bilincin uyuşturulması için ekseriya solunum yoluyla verilen anestezik madde

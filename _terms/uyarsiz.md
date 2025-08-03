@@ -2,6 +2,7 @@
 layout: term
 title: uyarsız
 slug: uyarsiz
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uygun davranışta bulunmayan, uyumlu görünmeyen (kimse)

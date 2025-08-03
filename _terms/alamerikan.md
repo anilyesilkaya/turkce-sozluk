@@ -2,6 +2,7 @@
 layout: term
 title: alamerikan
 slug: alamerikan
+letter: A
 lisan: Fransızca à l'américain
 anlamlar:
 - Amerikan usulü

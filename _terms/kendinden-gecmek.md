@@ -2,6 +2,7 @@
 layout: term
 title: kendinden geçmek
 slug: kendinden-gecmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - bilinci işlemez olmak, kendini kaybetmek, bayılmak

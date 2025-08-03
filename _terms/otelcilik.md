@@ -2,6 +2,7 @@
 layout: term
 title: otelcilik
 slug: otelcilik
+letter: O
 lisan: Türkçe
 anlamlar:
 - Otel sahibi olma durumu

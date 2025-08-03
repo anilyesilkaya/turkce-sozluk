@@ -2,6 +2,7 @@
 layout: term
 title: engelli koşu
 slug: engelli-kosu
+letter: E
 lisan: Türkçe
 anlamlar:
 - Belirli aralıklarla konmuş, değişik yükseklikteki on çitli engelin üzerinden aşılarak sürdürülen koşu

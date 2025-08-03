@@ -2,6 +2,7 @@
 layout: term
 title: şişik
 slug: sisik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Kabarık olan

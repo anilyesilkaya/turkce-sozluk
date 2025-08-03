@@ -2,6 +2,7 @@
 layout: term
 title: hasretmek
 slug: hasretmek
+letter: H
 lisan: Arapça ḥaṣr + Türkçe etmek
 anlamlar:
 - Bir şeyin bütününü birine, bir şeye ayırmak, vermek

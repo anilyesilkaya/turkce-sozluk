@@ -2,6 +2,7 @@
 layout: term
 title: alavereci
 slug: alavereci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yalan dolanla iş gören, çıkarı için hileye başvuran kimse

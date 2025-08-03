@@ -2,6 +2,7 @@
 layout: term
 title: beşerli
 slug: beserli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beşer beşer sıralanmış

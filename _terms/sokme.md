@@ -2,6 +2,7 @@
 layout: term
 title: sökme
 slug: sokme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sökmek işi

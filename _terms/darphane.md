@@ -2,6 +2,7 @@
 layout: term
 title: darphane
 slug: darphane
+letter: D
 lisan: Arapça ḍarb + Farsça ḫāne
 anlamlar:
 - Madenî para basılan yer

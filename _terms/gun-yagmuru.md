@@ -2,6 +2,7 @@
 layout: term
 title: gün yağmuru
 slug: gun-yagmuru
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güneş çıkmışken yağan iri damlalı yağmur

@@ -2,6 +2,7 @@
 layout: term
 title: afsunlu
 slug: afsunlu
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► büyülü

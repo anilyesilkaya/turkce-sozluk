@@ -2,6 +2,7 @@
 layout: term
 title: kepeklenme
 slug: kepeklenme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kepeklenmek işi

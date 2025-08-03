@@ -2,6 +2,7 @@
 layout: term
 title: beşlik
 slug: beslik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beşi bir arada, beş taneden oluşmuş, beş tane alabilen

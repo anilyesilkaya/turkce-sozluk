@@ -2,6 +2,7 @@
 layout: term
 title: rota
 slug: rota
+letter: R
 lisan: İtalyanca rotta
 anlamlar:
 - Bir gemi veya uçağın gidiş yönü, izleyeceği yol

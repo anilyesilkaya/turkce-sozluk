@@ -2,6 +2,7 @@
 layout: term
 title: ana hat
 slug: ana-hat
+letter: A
 lisan: Türkçe
 anlamlar:
 - Asıl veya en belirgin özellik

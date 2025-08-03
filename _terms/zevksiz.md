@@ -2,6 +2,7 @@
 layout: term
 title: zevksiz
 slug: zevksiz
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Beğenilmeyen, hoşa gitmeyen

@@ -2,6 +2,7 @@
 layout: term
 title: bir lahzacık
 slug: bir-lahzacik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bir lahza

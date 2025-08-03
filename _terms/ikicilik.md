@@ -2,6 +2,7 @@
 layout: term
 title: ikicilik
 slug: ikicilik
+letter: I
 lisan: Türkçe
 anlamlar:
 - Tekçiliğe karşı olarak her şeyde ruh ve madde, iyilik ve kötülük gibi iki karşıt ilkenin varlığını kabul eden dünya görüşü; düalizm

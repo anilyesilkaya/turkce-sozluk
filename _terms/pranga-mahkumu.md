@@ -2,6 +2,7 @@
 layout: term
 title: pranga mahkûmu
 slug: pranga-mahkumu
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pranga cezası almış kimse

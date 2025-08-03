@@ -2,6 +2,7 @@
 layout: term
 title: sinek
 slug: sinek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Çift kanatlılardan, birtakım uçucu böceklerin genel adı; cibin

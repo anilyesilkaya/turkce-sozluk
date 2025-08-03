@@ -2,6 +2,7 @@
 layout: term
 title: burun buruna
 slug: burun-buruna
+letter: B
 lisan: Türkçe
 anlamlar:
 - Birbirine çok yakın ve yüz yüze bir biçimde

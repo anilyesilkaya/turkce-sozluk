@@ -2,6 +2,7 @@
 layout: term
 title: bulaşık suyu gibi
 slug: bulasik-suyu-gibi
+letter: B
 lisan: Türkçe
 anlamlar:
 - kötü hazırlanmış, tadı tuzu olmayan (sulu yiyecek ve içecek)

@@ -2,6 +2,7 @@
 layout: term
 title: kandırma
 slug: kandirma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kandırmak işi; kekleme

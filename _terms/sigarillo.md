@@ -2,6 +2,7 @@
 layout: term
 title: sigarillo
 slug: sigarillo
+letter: S
 lisan: İngilizce cigarillos
 anlamlar:
 - İnce puro

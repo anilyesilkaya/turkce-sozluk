@@ -2,6 +2,7 @@
 layout: term
 title: deyişme
 slug: deyisme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Âşıklık geleneğinde âşıkların yarışma amacı gütmeden karşılıklı saz eşliğinde şiir söylemesi

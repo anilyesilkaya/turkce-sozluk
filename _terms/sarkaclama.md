@@ -2,6 +2,7 @@
 layout: term
 title: sarkaçlama
 slug: sarkaclama
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sarkaçlamak işi

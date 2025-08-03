@@ -2,6 +2,7 @@
 layout: term
 title: homur homur
 slug: homur-homur
+letter: H
 lisan: Türkçe
 anlamlar:
 - Homurdanarak

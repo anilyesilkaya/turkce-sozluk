@@ -2,6 +2,7 @@
 layout: term
 title: kaçıkça
 slug: kacikca
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaçığa benzer, biraz deli gibi, deliye benzer

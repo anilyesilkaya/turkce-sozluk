@@ -2,6 +2,7 @@
 layout: term
 title: şans
 slug: sans
+letter: Ş
 lisan: Fransızca chance
 anlamlar:
 - Bir kimsenin bilgi ve emeğinden çok rastlantı sonucu elde ettiği elverişli durum; baht

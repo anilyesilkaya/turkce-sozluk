@@ -2,6 +2,7 @@
 layout: term
 title: yolüstü
 slug: yolustu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yolun hemen kenarı

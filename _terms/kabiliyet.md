@@ -2,6 +2,7 @@
 layout: term
 title: kabiliyet
 slug: kabiliyet
+letter: K
 lisan: Arapça ḳābiliyyet
 anlamlar:
 - ► yetenek

@@ -2,6 +2,7 @@
 layout: term
 title: örümcekli
 slug: orumcekli
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Örümcek ağlarıyla kaplanmış, örümcek bağlamış

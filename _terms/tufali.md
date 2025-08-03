@@ -2,6 +2,7 @@
 layout: term
 title: tufalı
 slug: tufali
+letter: T
 lisan: Türkçe
 anlamlar:
 - Herhangi bir emek ve çaba harcamadan elde edilen, kolayca sağlanan

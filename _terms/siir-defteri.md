@@ -2,6 +2,7 @@
 layout: term
 title: şiir defteri
 slug: siir-defteri
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Yazılmış veya derlenmiş şiirlerin içinde bulunduğu defter

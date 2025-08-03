@@ -2,6 +2,7 @@
 layout: term
 title: yoğun
 slug: yogun
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Hacmine oranla ağırlığı çok olan; kesif

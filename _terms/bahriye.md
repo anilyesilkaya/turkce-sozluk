@@ -2,6 +2,7 @@
 layout: term
 title: bahriye
 slug: bahriye
+letter: B
 lisan: Arapça baḥriyye
 anlamlar:
 - Bir devletin deniz güçlerinin ve kuruluşlarının bütünü

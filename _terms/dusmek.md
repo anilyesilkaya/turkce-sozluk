@@ -2,6 +2,7 @@
 layout: term
 title: düşmek
 slug: dusmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Yer çekiminin etkisiyle boşlukta, yukarıdan aşağıya inmek

@@ -2,6 +2,7 @@
 layout: term
 title: herifçioğlu
 slug: herifcioglu
+letter: H
 lisan: Türkçe
 anlamlar:
 - Kızılan veya beklenmeyen bir işi yapan erkek

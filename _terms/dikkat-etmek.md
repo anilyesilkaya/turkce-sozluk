@@ -2,6 +2,7 @@
 layout: term
 title: dikkat etmek
 slug: dikkat-etmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - duygularla düşünceyi bir şey üzerinde toplamak, uyanık davranmak

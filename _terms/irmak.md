@@ -2,6 +2,7 @@
 layout: term
 title: ırmak
 slug: irmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - Çoğunlukla denize dökülen, özellikle genişliği ve taşıdığı su niceliği bakımından en büyük akarsu; nehir

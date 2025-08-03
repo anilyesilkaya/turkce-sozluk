@@ -2,6 +2,7 @@
 layout: term
 title: kara kuru
 slug: kara-kuru
+letter: K
 lisan: Türkçe
 anlamlar:
 - Esmer ve zayıf (kimse)

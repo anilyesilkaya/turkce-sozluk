@@ -2,6 +2,7 @@
 layout: term
 title: bombeleşmek
 slug: bombelesmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bombelenmek

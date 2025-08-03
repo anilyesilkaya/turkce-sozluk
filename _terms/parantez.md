@@ -2,6 +2,7 @@
 layout: term
 title: parantez
 slug: parantez
+letter: P
 lisan: Fransızca parenthèse
 anlamlar:
 - ► ayraç

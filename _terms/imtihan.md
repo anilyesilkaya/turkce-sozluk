@@ -2,6 +2,7 @@
 layout: term
 title: imtihan
 slug: imtihan
+letter: I
 lisan: Arapça imtiḥān
 anlamlar:
 - ► sınav

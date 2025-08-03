@@ -2,6 +2,7 @@
 layout: term
 title: böbürleniş
 slug: boburlenis
+letter: B
 lisan: Türkçe
 anlamlar:
 - Böbürlenmek işi

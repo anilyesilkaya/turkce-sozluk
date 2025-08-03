@@ -2,6 +2,7 @@
 layout: term
 title: mayna etmek
 slug: mayna-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - herhangi bir şeyi halat ve palanga aracılığıyla denize veya yere indirmek

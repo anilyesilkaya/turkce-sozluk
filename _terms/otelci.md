@@ -2,6 +2,7 @@
 layout: term
 title: otelci
 slug: otelci
+letter: O
 lisan: Türkçe
 anlamlar:
 - Otel sahibi kimse

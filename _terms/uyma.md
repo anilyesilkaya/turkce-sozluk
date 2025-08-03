@@ -2,6 +2,7 @@
 layout: term
 title: uyma
 slug: uyma
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uymak işi

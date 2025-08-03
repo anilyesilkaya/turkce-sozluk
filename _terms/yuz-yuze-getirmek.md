@@ -2,6 +2,7 @@
 layout: term
 title: yüz yüze getirmek
 slug: yuz-yuze-getirmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - karşı karşıya getirmek

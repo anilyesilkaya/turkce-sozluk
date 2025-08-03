@@ -2,6 +2,7 @@
 layout: term
 title: bandoculuk
 slug: bandoculuk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bandocunun yaptığı iş

@@ -2,6 +2,7 @@
 layout: term
 title: beşikörtüsü
 slug: besikortusu
+letter: B
 lisan: Türkçe
 anlamlar:
 - İki yana akıntısı olan çatı; eşeksırtı

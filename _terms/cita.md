@@ -2,6 +2,7 @@
 layout: term
 title: çita
 slug: cita
+letter: Ç
 lisan: İngilizce cheetah
 anlamlar:
 - Etçil memeliler sınıfının etçiller takımının kedigiller familyasından bir hayvan

@@ -2,6 +2,7 @@
 layout: term
 title: yumurtlayıvermek
 slug: yumurtlayivermek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Aniden yumurtlamak

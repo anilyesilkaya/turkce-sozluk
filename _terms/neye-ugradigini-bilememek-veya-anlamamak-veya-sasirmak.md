@@ -2,6 +2,7 @@
 layout: term
 title: neye uğradığını bilememek (veya anlamamak veya şaşırmak)
 slug: neye-ugradigini-bilememek-veya-anlamamak-veya-sasirmak
+letter: N
 lisan: Türkçe
 anlamlar:
 - ansızın üzücü, sıkıcı, neşeli, güzel veya hoş bir durumla karşılaşmak

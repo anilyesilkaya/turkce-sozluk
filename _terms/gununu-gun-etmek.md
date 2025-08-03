@@ -2,6 +2,7 @@
 layout: term
 title: gününü gün etmek
 slug: gununu-gun-etmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - hiçbir şeyi dert edinmeyip gününü hoş geçirmek

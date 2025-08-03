@@ -2,6 +2,7 @@
 layout: term
 title: köşebaşını tutmak
 slug: kosebasini-tutmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - etkili olabilecek en önemli makamda bulunmak veya o yeri ele geçirmek

@@ -2,6 +2,7 @@
 layout: term
 title: aval aval
 slug: aval-aval
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► avalca

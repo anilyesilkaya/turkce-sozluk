@@ -2,6 +2,7 @@
 layout: term
 title: sollayış
 slug: sollayis
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sollamak işi

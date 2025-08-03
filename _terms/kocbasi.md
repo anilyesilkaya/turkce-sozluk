@@ -2,6 +2,7 @@
 layout: term
 title: koçbaşı
 slug: kocbasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir veya birkaç kişi tarafından taşınan, kol gücüyle vurularak genellikle kapıları kırmakta kullanılan demir araç

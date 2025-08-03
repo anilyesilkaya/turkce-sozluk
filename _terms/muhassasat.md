@@ -2,6 +2,7 @@
 layout: term
 title: muhassasat
 slug: muhassasat
+letter: M
 lisan: Arapça muḫaṣṣaṣāt
 anlamlar:
 - Bir kimseye maaş, tayın vb. olarak verilmiş şeyler

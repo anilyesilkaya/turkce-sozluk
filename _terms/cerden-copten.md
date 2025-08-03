@@ -2,6 +2,7 @@
 layout: term
 title: çerden çöpten
 slug: cerden-copten
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Dayanıksız, çürük malzeme kullanılarak yapılmış

@@ -2,6 +2,7 @@
 layout: term
 title: keler
 slug: keler
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kertenkele, bukalemun gibi yerde sürünerek ilerleyen, beşer parmak ve dörder ayaklı, çok uzun kuyruklu sürüngenlerin ortak adı

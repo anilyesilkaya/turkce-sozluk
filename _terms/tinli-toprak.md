@@ -2,6 +2,7 @@
 layout: term
 title: tınlı toprak
 slug: tinli-toprak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tava gelmesi ve işlenmesi kolay, tarıma elverişli bir tür toprak

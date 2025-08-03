@@ -2,6 +2,7 @@
 layout: term
 title: katmerli katmerli
 slug: katmerli-katmerli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Üst üste ve ara vermeden, aşırı bir biçimde

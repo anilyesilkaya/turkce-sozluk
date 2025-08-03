@@ -2,6 +2,7 @@
 layout: term
 title: oynaşlık
 slug: oynaslik
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oynaşın yaptığı iş; aşna fişnelik

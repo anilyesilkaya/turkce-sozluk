@@ -2,6 +2,7 @@
 layout: term
 title: seyahatname
 slug: seyahatname
+letter: S
 lisan: Arapça siyāḥat + Farsça nāme
 anlamlar:
 - Bir yazarın gezip gördüğü yerlerden edindiği bilgi ve izlenimlerini anlattığı eser

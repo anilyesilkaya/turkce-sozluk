@@ -2,6 +2,7 @@
 layout: term
 title: çekinilmek
 slug: cekinilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çekinme işine konu olmak

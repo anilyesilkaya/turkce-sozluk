@@ -2,6 +2,7 @@
 layout: term
 title: kalbi ağzına gelmek
 slug: kalbi-agzina-gelmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - yüreği ağzına gelmek

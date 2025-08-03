@@ -2,6 +2,7 @@
 layout: term
 title: fakir
 slug: fakir
+letter: F
 lisan: Arapça faḳīr
 anlamlar:
 - ► yoksul, zengin karşıtı

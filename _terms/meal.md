@@ -2,6 +2,7 @@
 layout: term
 title: meal
 slug: meal
+letter: M
 lisan: Arapça meʾāl
 anlamlar:
 - Arapçadan kelime kelime çevirmeksizin, asıl anlatılmak istenileni ifade ederek yapılan Kur’an çevirilerinin ortak adı

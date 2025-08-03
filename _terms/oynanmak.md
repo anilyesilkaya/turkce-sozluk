@@ -2,6 +2,7 @@
 layout: term
 title: oynanmak
 slug: oynanmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oynama işine konu olmak; sergilenmek

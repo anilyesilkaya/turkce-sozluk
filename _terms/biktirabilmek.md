@@ -2,6 +2,7 @@
 layout: term
 title: bıktırabilmek
 slug: biktirabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bıktırma ihtimali veya imkânı bulunmak

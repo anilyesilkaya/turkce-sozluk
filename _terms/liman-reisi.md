@@ -2,6 +2,7 @@
 layout: term
 title: liman reisi
 slug: liman-reisi
+letter: L
 lisan: Türkçe
 anlamlar:
 - Gemilerin limana girip çıkması, yük alıp vermesi işlerine bakan yetkili kimse

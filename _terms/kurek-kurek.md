@@ -2,6 +2,7 @@
 layout: term
 title: kürek kürek
 slug: kurek-kurek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kürekler dolusu

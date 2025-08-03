@@ -2,6 +2,7 @@
 layout: term
 title: öneriliş
 slug: onerilis
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Önerilmek işi

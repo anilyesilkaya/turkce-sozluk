@@ -2,6 +2,7 @@
 layout: term
 title: temize çekmek
 slug: temize-cekmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - bir yazının karalamasını temiz olarak yazmak

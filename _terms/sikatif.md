@@ -2,6 +2,7 @@
 layout: term
 title: sikatif
 slug: sikatif
+letter: S
 lisan: Fransızca siccatif
 anlamlar:
 - Yükseltgenerek polimerleşmeye uygun olan

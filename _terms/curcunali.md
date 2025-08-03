@@ -2,6 +2,7 @@
 layout: term
 title: curcunalı
 slug: curcunali
+letter: C
 lisan: Türkçe
 anlamlar:
 - Gürültülü, patırtılı, şamatalı (yer, ses, hava)

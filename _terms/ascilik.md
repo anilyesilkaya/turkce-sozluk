@@ -2,6 +2,7 @@
 layout: term
 title: aşçılık
 slug: ascilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aşçının yaptığı iş

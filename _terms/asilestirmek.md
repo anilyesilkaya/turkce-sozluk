@@ -2,6 +2,7 @@
 layout: term
 title: asileştirmek
 slug: asilestirmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Asi duruma getirmek

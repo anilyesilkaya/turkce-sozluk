@@ -2,6 +2,7 @@
 layout: term
 title: numara yapmak
 slug: numara-yapmak
+letter: N
 lisan: Türkçe
 anlamlar:
 - bir hareketi yalandan yapmak veya yapar gibi görünmek

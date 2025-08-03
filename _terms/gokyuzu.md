@@ -2,6 +2,7 @@
 layout: term
 title: gökyüzü
 slug: gokyuzu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Atmosferin gözle görünen bölümü; hava

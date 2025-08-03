@@ -2,6 +2,7 @@
 layout: term
 title: şehadet
 slug: sehadet
+letter: Ş
 lisan: Arapça şehādet
 anlamlar:
 - ► tanıklık

@@ -2,6 +2,7 @@
 layout: term
 title: bayrakaltı
 slug: bayrakalti
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► askerlik

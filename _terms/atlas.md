@@ -2,6 +2,7 @@
 layout: term
 title: atlas
 slug: atlas
+letter: A
 lisan: Latince
 anlamlar:
 - Dünyanın, bir ülkenin, bir bölgenin fiziksel ve siyasal coğrafyası ile ekonomi, tarih vb. konularda toplu bilgi vermek için bir araya getirilmiş coğrafya haritaları derlemesi

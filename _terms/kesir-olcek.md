@@ -2,6 +2,7 @@
 layout: term
 title: kesir ölçek
 slug: kesir-olcek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Plan ve haritalarda küçültme oranını basit kesirle ifade eden ölçek türü

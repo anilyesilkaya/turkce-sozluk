@@ -2,6 +2,7 @@
 layout: term
 title: siyasi
 slug: siyasi
+letter: S
 lisan: Arapça siyāsī
 anlamlar:
 - ► siyasal

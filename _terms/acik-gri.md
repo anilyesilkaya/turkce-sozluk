@@ -2,6 +2,7 @@
 layout: term
 title: açık gri
 slug: acik-gri
+letter: A
 lisan: Türkçe
 anlamlar:
 - Grinin bir veya birkaç ton açığı

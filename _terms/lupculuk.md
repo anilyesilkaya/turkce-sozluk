@@ -2,6 +2,7 @@
 layout: term
 title: lüpçülük
 slug: lupculuk
+letter: L
 lisan: Türkçe
 anlamlar:
 - ► bedavacılık

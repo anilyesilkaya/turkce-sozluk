@@ -2,6 +2,7 @@
 layout: term
 title: meşakkat
 slug: mesakkat
+letter: M
 lisan: Arapça meşaḳḳat
 anlamlar:
 - ► güçlük

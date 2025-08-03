@@ -2,6 +2,7 @@
 layout: term
 title: kayırmak
 slug: kayirmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Koruyarak başarısını sağlamak, elinden tutmak; himmet etmek

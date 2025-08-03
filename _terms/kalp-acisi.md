@@ -2,6 +2,7 @@
 layout: term
 title: kalp acısı
 slug: kalp-acisi
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► yürek acısı

@@ -2,6 +2,7 @@
 layout: term
 title: yamaç
 slug: yamac
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Dağın veya tepenin herhangi bir yanı; bögür, yalpı

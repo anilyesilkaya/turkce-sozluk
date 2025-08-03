@@ -2,6 +2,7 @@
 layout: term
 title: kült
 slug: kult
+letter: K
 lisan: Fransızca culte
 anlamlar:
 - ► din (I)

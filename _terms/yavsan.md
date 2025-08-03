@@ -2,6 +2,7 @@
 layout: term
 title: yavşan
 slug: yavsan
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yavşan otu

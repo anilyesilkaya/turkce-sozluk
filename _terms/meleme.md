@@ -2,6 +2,7 @@
 layout: term
 title: meleme
 slug: meleme
+letter: M
 lisan: Türkçe
 anlamlar:
 - Melemek işi

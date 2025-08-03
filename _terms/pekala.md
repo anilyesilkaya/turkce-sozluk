@@ -2,6 +2,7 @@
 layout: term
 title: pekâlâ
 slug: pekala
+letter: P
 lisan: Türkçe pek + Arapça aʿlā
 anlamlar:
 - Benzerlerinden aşağı olmayan

@@ -2,6 +2,7 @@
 layout: term
 title: vukuat
 slug: vukuat
+letter: V
 lisan: Arapça vuḳūʿāt
 anlamlar:
 - Polisi ilgilendiren olay veya olaylar

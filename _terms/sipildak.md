@@ -2,6 +2,7 @@
 layout: term
 title: şıpıldak
 slug: sipildak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şıpıldama sesi çıkaran

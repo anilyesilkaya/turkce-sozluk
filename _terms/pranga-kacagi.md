@@ -2,6 +2,7 @@
 layout: term
 title: pranga kaçağı
 slug: pranga-kacagi
+letter: P
 lisan: Türkçe
 anlamlar:
 - Azılı haydut

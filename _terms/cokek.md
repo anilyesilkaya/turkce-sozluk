@@ -2,6 +2,7 @@
 layout: term
 title: çökek
 slug: cokek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çukur yer

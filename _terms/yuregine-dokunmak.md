@@ -2,6 +2,7 @@
 layout: term
 title: yüreğine dokunmak
 slug: yuregine-dokunmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - üzülmek

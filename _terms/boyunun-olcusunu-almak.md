@@ -2,6 +2,7 @@
 layout: term
 title: boyunun ölçüsünü almak
 slug: boyunun-olcusunu-almak
+letter: B
 lisan: Türkçe
 anlamlar:
 - kendi yetersizliğini, beceriksizliğini anlamak

@@ -2,6 +2,7 @@
 layout: term
 title: zamanlı
 slug: zamanli
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zamanı olan

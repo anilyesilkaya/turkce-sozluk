@@ -2,6 +2,7 @@
 layout: term
 title: zalimlik
 slug: zalimlik
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zalim olma durumu

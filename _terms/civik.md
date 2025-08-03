@@ -2,6 +2,7 @@
 layout: term
 title: cıvık
 slug: civik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Fazla suyla karıştığı için biçimini koruyamayacak kadar sulanmış; cılk

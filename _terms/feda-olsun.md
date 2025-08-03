@@ -2,6 +2,7 @@
 layout: term
 title: feda olsun!
 slug: feda-olsun
+letter: F
 lisan: Türkçe
 anlamlar:
 - '"varsın gitsin, uğrunda yok olsun!" anlamında kullanılan bir söz'

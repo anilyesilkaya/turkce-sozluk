@@ -2,6 +2,7 @@
 layout: term
 title: anahtar uydurmak
 slug: anahtar-uydurmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir kilidi açmak için kendi anahtarından başka bir anahtar kullanmak

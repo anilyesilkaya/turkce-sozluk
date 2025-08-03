@@ -2,6 +2,7 @@
 layout: term
 title: bıçak silmek
 slug: bicak-silmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir işi bitirmek

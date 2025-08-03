@@ -2,6 +2,7 @@
 layout: term
 title: kaynanalık
 slug: kaynanalik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaynana olma durumu; kayınvalidelik

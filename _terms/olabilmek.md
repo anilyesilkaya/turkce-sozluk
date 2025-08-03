@@ -2,6 +2,7 @@
 layout: term
 title: olabilmek
 slug: olabilmek
+letter: O
 lisan: Türkçe
 anlamlar:
 - Olma, gerçekleşme ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: toplumsallaştırma
 slug: toplumsallastirma
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bazı imkânlardan, kuruluşlardan toplumun yararlanmasını sağlama, toplum hizmetine koyma; sosyalleştirme, sosyalizasyon

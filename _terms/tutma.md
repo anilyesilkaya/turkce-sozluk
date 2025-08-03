@@ -2,6 +2,7 @@
 layout: term
 title: tutma
 slug: tutma
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tutmak işi

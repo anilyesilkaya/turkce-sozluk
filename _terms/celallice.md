@@ -2,6 +2,7 @@
 layout: term
 title: celallice
 slug: celallice
+letter: C
 lisan: Türkçe
 anlamlar:
 - Celalli gibi, celalliye benzer

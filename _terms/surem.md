@@ -2,6 +2,7 @@
 layout: term
 title: sürem
 slug: surem
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► mevsim

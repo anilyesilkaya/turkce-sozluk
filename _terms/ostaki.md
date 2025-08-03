@@ -2,6 +2,7 @@
 layout: term
 title: östaki
 slug: ostaki
+letter: Ö
 lisan: (Eustachio özel adından)
 anlamlar:
 - ► östaki borusu

@@ -2,6 +2,7 @@
 layout: term
 title: uzuvca
 slug: uzuvca
+letter: U
 lisan: Türkçe
 anlamlar:
 - Organ bakımından

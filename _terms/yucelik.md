@@ -2,6 +2,7 @@
 layout: term
 title: yücelik
 slug: yucelik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yüce olma durumu; ulviyet

@@ -2,6 +2,7 @@
 layout: term
 title: dilce
 slug: dilce
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dil bakımından

@@ -2,6 +2,7 @@
 layout: term
 title: entelektüel
 slug: entelektuel
+letter: E
 lisan: Fransızca intellectuel
 anlamlar:
 - ► aydın

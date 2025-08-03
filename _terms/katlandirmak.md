@@ -2,6 +2,7 @@
 layout: term
 title: katlandırmak
 slug: katlandirmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Katlanmasını sağlamak

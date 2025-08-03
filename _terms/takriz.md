@@ -2,6 +2,7 @@
 layout: term
 title: takriz
 slug: takriz
+letter: T
 lisan: Arapça taḳrīż
 anlamlar:
 - Hakkında yazı yazarak bir eseri övme

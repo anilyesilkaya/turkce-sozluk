@@ -2,6 +2,7 @@
 layout: term
 title: uzayış
 slug: uzayis
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uzamak işi

@@ -2,6 +2,7 @@
 layout: term
 title: okarina
 slug: okarina
+letter: O
 lisan: Türkçe
 anlamlar:
 - Orta Doğu, Uzak Doğu, Orta Amerika ve Güney Amerika’da kullanılan, seramikten yapılmış  bir tür flüt

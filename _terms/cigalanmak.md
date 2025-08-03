@@ -2,6 +2,7 @@
 layout: term
 title: çığalanmak
 slug: cigalanmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Atın kuyruğu horoz kuyruğu gibi dikilmek

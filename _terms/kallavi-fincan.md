@@ -2,6 +2,7 @@
 layout: term
 title: kallavi fincan
 slug: kallavi-fincan
+letter: K
 lisan: Türkçe
 anlamlar:
 - İri, kulpsuz fincan

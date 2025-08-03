@@ -2,6 +2,7 @@
 layout: term
 title: lep
 slug: lep
+letter: L
 lisan: Farsça leb
 anlamlar:
 - ► dudak

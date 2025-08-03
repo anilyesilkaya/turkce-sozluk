@@ -2,6 +2,7 @@
 layout: term
 title: keten
 slug: keten
+letter: K
 lisan: Arapça kettān
 anlamlar:
 - Ketengillerden, çiçekleri mavi renkte ve beş taç yapraklı, lifleri dokumacılıkta kullanılan bir bitki (Linum usitatissimum)

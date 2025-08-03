@@ -2,6 +2,7 @@
 layout: term
 title: damarsız
 slug: damarsiz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Damarı olmayan

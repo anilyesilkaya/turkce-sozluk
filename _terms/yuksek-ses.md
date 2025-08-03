@@ -2,6 +2,7 @@
 layout: term
 title: yüksek ses
 slug: yuksek-ses
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Uzaktan işitilecek nitelikte ses

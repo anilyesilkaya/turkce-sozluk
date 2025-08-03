@@ -2,6 +2,7 @@
 layout: term
 title: çöküntü
 slug: cokuntu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çökme

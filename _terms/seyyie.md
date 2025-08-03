@@ -2,6 +2,7 @@
 layout: term
 title: seyyie
 slug: seyyie
+letter: S
 lisan: Arapça seyyiʾe
 anlamlar:
 - ► kötülük

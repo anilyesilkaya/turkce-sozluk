@@ -2,6 +2,7 @@
 layout: term
 title: façasını almak (veya al aşağı etmek)
 slug: facasini-almak-veya-al-asagi-etmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - birini mahcup etmek, bozmak

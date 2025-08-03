@@ -2,6 +2,7 @@
 layout: term
 title: afal afal
 slug: afal-afal
+letter: A
 lisan: Türkçe
 anlamlar:
 - Şaşkın bir biçimde

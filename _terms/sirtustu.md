@@ -2,6 +2,7 @@
 layout: term
 title: sırtüstü
 slug: sirtustu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sırtı yerde olmak üzere

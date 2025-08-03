@@ -2,6 +2,7 @@
 layout: term
 title: cedel
 slug: cedel
+letter: C
 lisan: Arapça cedel
 anlamlar:
 - Karşısındakini susturmak için yapılan tartışma

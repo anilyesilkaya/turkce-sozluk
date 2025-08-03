@@ -2,6 +2,7 @@
 layout: term
 title: hınk
 slug: hink
+letter: H
 lisan: Türkçe
 anlamlar:
 - Güç gerektiren bir iş yapılırken çıkarılan ses

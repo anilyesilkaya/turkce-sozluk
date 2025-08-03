@@ -2,6 +2,7 @@
 layout: term
 title: ısınma
 slug: isinma
+letter: I
 lisan: Türkçe
 anlamlar:
 - Isınmak işi

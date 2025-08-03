@@ -2,6 +2,7 @@
 layout: term
 title: adaylığını koymak
 slug: adayligini-koymak
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir iş veya göreve seçilmek için kendini ileri sürmek

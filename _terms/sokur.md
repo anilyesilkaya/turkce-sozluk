@@ -2,6 +2,7 @@
 layout: term
 title: sokur
 slug: sokur
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► köstebek

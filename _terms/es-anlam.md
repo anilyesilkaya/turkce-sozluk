@@ -2,6 +2,7 @@
 layout: term
 title: eş anlam
 slug: es-anlam
+letter: E
 lisan: Türkçe
 anlamlar:
 - Birbiriyle aynı veya yakın olan anlam

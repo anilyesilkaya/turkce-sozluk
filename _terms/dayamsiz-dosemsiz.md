@@ -2,6 +2,7 @@
 layout: term
 title: dayamsız döşemsiz
 slug: dayamsiz-dosemsiz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Yaşamak için gerekli olan nesneler olmayan (yer)

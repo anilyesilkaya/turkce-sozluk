@@ -2,6 +2,7 @@
 layout: term
 title: örklemek
 slug: orklemek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Hayvanları otlamaları için uzun bir iple çayıra bağlamak

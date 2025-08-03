@@ -2,6 +2,7 @@
 layout: term
 title: gönüllüce
 slug: gonulluce
+letter: G
 lisan: Türkçe
 anlamlar:
 - Biraz gönüllü

@@ -2,6 +2,7 @@
 layout: term
 title: nişanlık
 slug: nisanlik
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nişan töreni için

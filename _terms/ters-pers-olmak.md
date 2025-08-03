@@ -2,6 +2,7 @@
 layout: term
 title: ters pers olmak
 slug: ters-pers-olmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - yüzükoyun düşmek

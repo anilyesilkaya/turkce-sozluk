@@ -2,6 +2,7 @@
 layout: term
 title: çöğdürmek
 slug: cogdurmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► işemek

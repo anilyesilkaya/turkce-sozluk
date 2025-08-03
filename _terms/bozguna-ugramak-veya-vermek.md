@@ -2,6 +2,7 @@
 layout: term
 title: bozguna uğramak (veya vermek)
 slug: bozguna-ugramak-veya-vermek
+letter: B
 lisan: Türkçe
 anlamlar:
 - yenilip perişan olmak, dağılmak, hezimete uğramak

@@ -2,6 +2,7 @@
 layout: term
 title: yer sıçanı
 slug: yer-sicani
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► köstebek

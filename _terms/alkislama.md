@@ -2,6 +2,7 @@
 layout: term
 title: alkışlama
 slug: alkislama
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alkışlamak işi

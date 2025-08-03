@@ -2,6 +2,7 @@
 layout: term
 title: ağacık
 slug: agacik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağalara sevgiyle yaklaşıldığında söylenen bir söz

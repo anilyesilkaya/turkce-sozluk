@@ -2,6 +2,7 @@
 layout: term
 title: umarsızca
 slug: umarsizca
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► çaresizce

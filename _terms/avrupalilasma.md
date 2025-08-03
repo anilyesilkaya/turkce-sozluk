@@ -2,6 +2,7 @@
 layout: term
 title: Avrupalılaşma
 slug: avrupalilasma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Avrupalılaşmak durumu

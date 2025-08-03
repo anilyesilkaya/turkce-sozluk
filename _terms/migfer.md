@@ -2,6 +2,7 @@
 layout: term
 title: miğfer
 slug: migfer
+letter: M
 lisan: Arapça miġfer
 anlamlar:
 - Savaşçıların veya itfaiyecilerin başlarına giydikleri demir başlık; tolga

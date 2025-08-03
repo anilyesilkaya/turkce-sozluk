@@ -2,6 +2,7 @@
 layout: term
 title: diktirtmek
 slug: diktirtmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Diktirmesini sağlamak

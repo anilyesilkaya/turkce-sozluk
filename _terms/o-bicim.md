@@ -2,6 +2,7 @@
 layout: term
 title: o biçim
 slug: o-bicim
+letter: O
 lisan: Türkçe
 anlamlar:
 - (kadın için) orospu

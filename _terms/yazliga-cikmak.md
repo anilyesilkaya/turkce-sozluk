@@ -2,6 +2,7 @@
 layout: term
 title: yazlığa çıkmak
 slug: yazliga-cikmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yazı geçirecek bir yere gitmek

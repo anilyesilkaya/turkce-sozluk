@@ -2,6 +2,7 @@
 layout: term
 title: uzman çavuşluk
 slug: uzman-cavusluk
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uzman çavuş olma durumu

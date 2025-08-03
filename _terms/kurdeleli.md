@@ -2,6 +2,7 @@
 layout: term
 title: kurdeleli
 slug: kurdeleli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kurdelesi olan

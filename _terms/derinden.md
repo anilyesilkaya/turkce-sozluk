@@ -2,6 +2,7 @@
 layout: term
 title: derinden
 slug: derinden
+letter: D
 lisan: Türkçe
 anlamlar:
 - En ince ayrıntısına kadar

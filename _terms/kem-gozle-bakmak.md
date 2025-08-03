@@ -2,6 +2,7 @@
 layout: term
 title: kem gözle bakmak
 slug: kem-gozle-bakmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kötü niyetle bakmak

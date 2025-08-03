@@ -2,6 +2,7 @@
 layout: term
 title: iki gözü iki çeşme ağlamak
 slug: iki-gozu-iki-cesme-aglamak
+letter: I
 lisan: Türkçe
 anlamlar:
 - sürekli veya çok ağlamak

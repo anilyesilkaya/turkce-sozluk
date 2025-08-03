@@ -2,6 +2,7 @@
 layout: term
 title: zum yapmak
 slug: zum-yapmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - zumlamak

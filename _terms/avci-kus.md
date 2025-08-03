@@ -2,6 +2,7 @@
 layout: term
 title: avcı kuş
 slug: avci-kus
+letter: A
 lisan: Türkçe
 anlamlar:
 - Şahin, doğan, kartal, atmaca vb. gibi başka hayvanları yakalamakta usta olan kuş; alıcı kuş

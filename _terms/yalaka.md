@@ -2,6 +2,7 @@
 layout: term
 title: yalaka
 slug: yalaka
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► dalkavuk

@@ -2,6 +2,7 @@
 layout: term
 title: kasketçi
 slug: kasketci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kasket yapan veya satan kimse

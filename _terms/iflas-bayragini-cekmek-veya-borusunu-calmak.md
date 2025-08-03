@@ -2,6 +2,7 @@
 layout: term
 title: iflas bayrağını çekmek (veya borusunu çalmak)
 slug: iflas-bayragini-cekmek-veya-borusunu-calmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - ticarette batmak

@@ -2,6 +2,7 @@
 layout: term
 title: çocukça
 slug: cocukca
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çocuğa yakışan, çocuk gibi

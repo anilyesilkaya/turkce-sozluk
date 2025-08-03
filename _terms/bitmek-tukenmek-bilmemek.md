@@ -2,6 +2,7 @@
 layout: term
 title: bitmek tükenmek bilmemek
 slug: bitmek-tukenmek-bilmemek
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir türlü sonu gelmemek, eksilmemek

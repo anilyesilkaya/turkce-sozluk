@@ -2,6 +2,7 @@
 layout: term
 title: ağır aksak
 slug: agir-aksak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► yavaş

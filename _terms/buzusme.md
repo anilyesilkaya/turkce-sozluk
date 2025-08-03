@@ -2,6 +2,7 @@
 layout: term
 title: büzüşme
 slug: buzusme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Büzüşmek işi

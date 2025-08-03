@@ -2,6 +2,7 @@
 layout: term
 title: aysberg
 slug: aysberg
+letter: A
 lisan: Fransızca iceberg
 anlamlar:
 - ► buz dağı

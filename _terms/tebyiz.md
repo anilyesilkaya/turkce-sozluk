@@ -2,6 +2,7 @@
 layout: term
 title: tebyiz
 slug: tebyiz
+letter: T
 lisan: Arapça tebyīż
 anlamlar:
 - Bir yazı ile ilgili taslağı temize çekme

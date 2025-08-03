@@ -2,6 +2,7 @@
 layout: term
 title: mikyassız
 slug: mikyassiz
+letter: M
 lisan: Türkçe
 anlamlar:
 - Ölçeği veya ölçüsü olmayan

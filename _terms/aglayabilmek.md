@@ -2,6 +2,7 @@
 layout: term
 title: ağlayabilmek
 slug: aglayabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağlama ihtimali bulunmak

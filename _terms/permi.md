@@ -2,6 +2,7 @@
 layout: term
 title: permi
 slug: permi
+letter: P
 lisan: Fransızca permis
 anlamlar:
 - Yazılı izin belgesi

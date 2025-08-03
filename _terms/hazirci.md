@@ -2,6 +2,7 @@
 layout: term
 title: hazırcı
 slug: hazirci
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hazır giysi satılan (yer)

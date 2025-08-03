@@ -2,6 +2,7 @@
 layout: term
 title: çabukça
 slug: cabukca
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çabucak

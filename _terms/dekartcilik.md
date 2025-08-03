@@ -2,6 +2,7 @@
 layout: term
 title: Dekartçılık
 slug: dekartcilik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dekart'ın felsefesi

@@ -2,6 +2,7 @@
 layout: term
 title: ufunetli
 slug: ufunetli
+letter: U
 lisan: Türkçe
 anlamlar:
 - İçinde irin olan

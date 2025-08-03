@@ -2,6 +2,7 @@
 layout: term
 title: deli gibi
 slug: deli-gibi
+letter: D
 lisan: Türkçe
 anlamlar:
 - deliye yaraşır davranışta, delicesine

@@ -2,6 +2,7 @@
 layout: term
 title: bozgunluk
 slug: bozgunluk
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bozgun

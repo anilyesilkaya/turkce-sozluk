@@ -2,6 +2,7 @@
 layout: term
 title: ortakçılık etmek
 slug: ortakcilik-etmek
+letter: O
 lisan: Türkçe
 anlamlar:
 - ortakçı olmak

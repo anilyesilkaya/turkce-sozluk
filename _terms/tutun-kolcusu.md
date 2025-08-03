@@ -2,6 +2,7 @@
 layout: term
 title: tütün kolcusu
 slug: tutun-kolcusu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tekel idaresine bağlı, tütün kaçakçılığını önlemekle görevli kimse; reji kolcusu

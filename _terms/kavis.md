@@ -2,6 +2,7 @@
 layout: term
 title: kavis
 slug: kavis
+letter: K
 lisan: Arapça ḳavs
 anlamlar:
 - Bir eğrinin sınırlı bir kısmı; eğmeç

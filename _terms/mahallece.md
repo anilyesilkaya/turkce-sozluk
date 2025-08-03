@@ -2,6 +2,7 @@
 layout: term
 title: mahallece
 slug: mahallece
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mahallede oturanlar tarafından

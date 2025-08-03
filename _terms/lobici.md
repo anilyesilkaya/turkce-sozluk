@@ -2,6 +2,7 @@
 layout: term
 title: lobici
 slug: lobici
+letter: L
 lisan: Türkçe
 anlamlar:
 - Çıkarları ortak olan grupların temsilcisi; dalancı

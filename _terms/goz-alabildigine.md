@@ -2,6 +2,7 @@
 layout: term
 title: göz alabildiğine
 slug: goz-alabildigine
+letter: G
 lisan: Türkçe
 anlamlar:
 - gözün görebileceği en uzak yerlere kadar

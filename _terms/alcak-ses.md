@@ -2,6 +2,7 @@
 layout: term
 title: alçak ses
 slug: alcak-ses
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kuvvetli ve yüksek tonda olmayan, hafif ses

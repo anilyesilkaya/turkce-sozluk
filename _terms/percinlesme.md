@@ -2,6 +2,7 @@
 layout: term
 title: perçinleşme
 slug: percinlesme
+letter: P
 lisan: Türkçe
 anlamlar:
 - Perçinleşmek işi

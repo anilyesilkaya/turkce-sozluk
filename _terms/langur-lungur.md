@@ -2,6 +2,7 @@
 layout: term
 title: 'langur lungur '
 slug: langur-lungur
+letter: L
 lisan: Türkçe
 anlamlar:
 - ► langır lungur

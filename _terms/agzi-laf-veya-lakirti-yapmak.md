@@ -2,6 +2,7 @@
 layout: term
 title: ağzı laf (veya lakırtı) yapmak
 slug: agzi-laf-veya-lakirti-yapmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - kolay konuşma yeteneği olmak

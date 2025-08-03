@@ -2,6 +2,7 @@
 layout: term
 title: tarihîlik
 slug: tarihilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► tarihsellik

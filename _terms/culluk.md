@@ -2,6 +2,7 @@
 layout: term
 title: çulluk
 slug: culluk
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çullukgillerden, Avrupa, Asya ve Kuzey Afrika'da yaşayan, tüyleri kahverengi ve kül rengi, göçebe, eti için avlanan, uzun gagalı, göçmen bir kuş; bekas (Scolopax rusticola)

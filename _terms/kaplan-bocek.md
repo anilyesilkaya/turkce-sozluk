@@ -2,6 +2,7 @@
 layout: term
 title: kaplan böcek
 slug: kaplan-bocek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Başka böceklerle beslenerek en çok tarım için yarar sağlayan kaplan böcekler familyasının örnek türü; uyuz sineği (Cicindela campestris)

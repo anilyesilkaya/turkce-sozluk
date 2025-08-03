@@ -2,6 +2,7 @@
 layout: term
 title: provizyon
 slug: provizyon
+letter: P
 lisan: Fransızca provision
 anlamlar:
 - Alışverişte kredi kartları kullanıldığında ilgili karttaki limitin yeterli olup olmadığının bankadan sorgulanması

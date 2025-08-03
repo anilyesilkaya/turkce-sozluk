@@ -2,6 +2,7 @@
 layout: term
 title: hüngür hüngür
 slug: hungur-hungur
+letter: H
 lisan: Türkçe
 anlamlar:
 - Yüksek sesle ve hıçkıra hıçkıra; zarıl zarıl, zırıl zırıl, zari zari

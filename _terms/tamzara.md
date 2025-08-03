@@ -2,6 +2,7 @@
 layout: term
 title: tamzara
 slug: tamzara
+letter: T
 lisan: Türkçe
 anlamlar:
 - Doğu Anadolu'da, toplu olarak oynanan bir halk oyunu

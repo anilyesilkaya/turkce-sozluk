@@ -2,6 +2,7 @@
 layout: term
 title: bileyli
 slug: bileyli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilenmiş (bıçak, ustura vb.); bileğili

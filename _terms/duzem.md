@@ -2,6 +2,7 @@
 layout: term
 title: düzem
 slug: duzem
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► düzey

@@ -2,6 +2,7 @@
 layout: term
 title: baskın yapmak
 slug: baskin-yapmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - suç işlendiği veya suçluların bulunduğu sanılan bir yere ansızın girmek

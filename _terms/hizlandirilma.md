@@ -2,6 +2,7 @@
 layout: term
 title: hızlandırılma
 slug: hizlandirilma
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hızlandırılmak işi

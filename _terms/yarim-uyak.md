@@ -2,6 +2,7 @@
 layout: term
 title: yarım uyak
 slug: yarim-uyak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yarım kafiye

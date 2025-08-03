@@ -2,6 +2,7 @@
 layout: term
 title: öz kaynak
 slug: oz-kaynak
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Dışarıdan yardım almadan kendi imkânları kullanılarak sağlanan maddi varlık

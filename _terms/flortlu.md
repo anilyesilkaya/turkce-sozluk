@@ -2,6 +2,7 @@
 layout: term
 title: flörtlü
 slug: flortlu
+letter: F
 lisan: Türkçe
 anlamlar:
 - Flörtü olan

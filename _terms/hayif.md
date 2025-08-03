@@ -2,6 +2,7 @@
 layout: term
 title: hayıf
 slug: hayif
+letter: H
 lisan: Arapça ḥayf
 anlamlar:
 - Haksızlık yapma

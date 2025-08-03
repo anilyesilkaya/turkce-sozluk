@@ -2,6 +2,7 @@
 layout: term
 title: layık olmak
 slug: layik-olmak
+letter: L
 lisan: Türkçe
 anlamlar:
 - hak kazanmış olmak

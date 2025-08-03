@@ -2,6 +2,7 @@
 layout: term
 title: uğursuz
 slug: ugursuz
+letter: U
 lisan: Türkçe
 anlamlar:
 - Kendinde uğursuzluk bulunan; çifteli, yomsuz, kademsiz, menhus, meret, meşum, meymenetsiz, musibet, muzlim, şom

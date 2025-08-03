@@ -2,6 +2,7 @@
 layout: term
 title: ağdırmak
 slug: agdirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağmasına sebep olmak

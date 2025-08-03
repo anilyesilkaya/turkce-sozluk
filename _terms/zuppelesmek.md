@@ -2,6 +2,7 @@
 layout: term
 title: züppeleşmek
 slug: zuppelesmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Giyiniş, söz söyleyiş, düşünüş, dil vb.nde, toplumun gülünç ve aykırı saydığı yapmacıklıklara ve aşırılıklara kaçmak; züppe olmak

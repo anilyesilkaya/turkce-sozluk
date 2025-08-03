@@ -2,6 +2,7 @@
 layout: term
 title: kalıp kesilmek
 slug: kalip-kesilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - olduğu gibi kalmak

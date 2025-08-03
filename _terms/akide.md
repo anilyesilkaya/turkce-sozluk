@@ -2,6 +2,7 @@
 layout: term
 title: akide
 slug: akide
+letter: A
 lisan: Arapça ʿaḳīde
 anlamlar:
 - Şekerin kaynatılarak katılaşması yolu ile yapılan, renkli ve kokulu, ağızda güç eriyen şeker; akide şekeri

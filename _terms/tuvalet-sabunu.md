@@ -2,6 +2,7 @@
 layout: term
 title: tuvalet sabunu
 slug: tuvalet-sabunu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tuvalette temizlik için kullanılan, renkli ve kokulu sabun

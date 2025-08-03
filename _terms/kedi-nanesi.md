@@ -2,6 +2,7 @@
 layout: term
 title: kedi nanesi
 slug: kedi-nanesi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Ballıbabagillerden, kırlarda yetişen, kedilerin kokusundan çok hoşlandığı bir bitki; yaban sümbülü (Nepeta cataria)

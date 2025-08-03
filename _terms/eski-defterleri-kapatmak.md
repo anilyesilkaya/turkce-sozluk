@@ -2,6 +2,7 @@
 layout: term
 title: eski defterleri kapatmak
 slug: eski-defterleri-kapatmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - eski olayları yeniden ele almamak

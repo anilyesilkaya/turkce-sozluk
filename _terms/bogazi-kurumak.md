@@ -2,6 +2,7 @@
 layout: term
 title: boğazı kurumak
 slug: bogazi-kurumak
+letter: B
 lisan: Türkçe
 anlamlar:
 - çok susamak

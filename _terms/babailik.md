@@ -2,6 +2,7 @@
 layout: term
 title: Babailik
 slug: babailik
+letter: B
 lisan: Türkçe
 anlamlar:
 - XIII. yüzyılda Baba İshak'ın kurduğu tarikat

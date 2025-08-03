@@ -2,6 +2,7 @@
 layout: term
 title: canına yandığım (veya yandığımın)
 slug: canina-yandigim-veya-yandigimin
+letter: C
 lisan: Türkçe
 anlamlar:
 - sevgi, hayranlık, öfke vb. duygular anlatan bir söz

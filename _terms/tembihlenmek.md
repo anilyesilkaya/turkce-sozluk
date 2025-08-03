@@ -2,6 +2,7 @@
 layout: term
 title: tembihlenmek
 slug: tembihlenmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tembihleme işi yapılmak, tembih edilmek

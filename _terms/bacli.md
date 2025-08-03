@@ -2,6 +2,7 @@
 layout: term
 title: baçlı
 slug: bacli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Baç ödenen

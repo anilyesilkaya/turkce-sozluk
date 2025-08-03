@@ -2,6 +2,7 @@
 layout: term
 title: hissî
 slug: hissi
+letter: H
 lisan: Arapça ḥissī
 anlamlar:
 - ► duygusal

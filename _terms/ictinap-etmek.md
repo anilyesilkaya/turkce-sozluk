@@ -2,6 +2,7 @@
 layout: term
 title: içtinap etmek
 slug: ictinap-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - sakınmak

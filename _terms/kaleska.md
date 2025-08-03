@@ -2,6 +2,7 @@
 layout: term
 title: kaleska
 slug: kaleska
+letter: K
 lisan: Rusça
 anlamlar:
 - Dört tekerlekli, hafif, bir tür gezinti arabası

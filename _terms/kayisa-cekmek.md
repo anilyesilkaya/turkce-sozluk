@@ -2,6 +2,7 @@
 layout: term
 title: kayışa çekmek
 slug: kayisa-cekmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - aldatmak, kandırmak

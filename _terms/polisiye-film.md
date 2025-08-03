@@ -2,6 +2,7 @@
 layout: term
 title: polisiye film
 slug: polisiye-film
+letter: P
 lisan: Türkçe
 anlamlar:
 - Konusunu polisin görev alanına giren olaylardan seçen film

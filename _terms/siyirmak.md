@@ -2,6 +2,7 @@
 layout: term
 title: sıyırmak
 slug: siyirmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Hızla sürtünerek veya dokunarak geçen bir şey geçtiği yüzeyden küçük bir parça koparmak, soymak veya o yüzeyin üzerini hafifçe çizmek, yırtmak

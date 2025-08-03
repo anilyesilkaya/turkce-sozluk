@@ -2,6 +2,7 @@
 layout: term
 title: sürüştürmek
 slug: surusturmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sürekli olarak yavaş yavaş ve ovarak sürmek

@@ -2,6 +2,7 @@
 layout: term
 title: tamim
 slug: tamim
+letter: T
 lisan: Arapça taʿmīm
 anlamlar:
 - ► genelge

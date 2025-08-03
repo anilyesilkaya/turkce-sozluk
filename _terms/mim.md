@@ -2,6 +2,7 @@
 layout: term
 title: mim
 slug: mim
+letter: M
 lisan: Fransızca mime
 anlamlar:
 - Eski Yunan ve Roma'da yaşamı, töreleri taklit amacı güden komedi türü

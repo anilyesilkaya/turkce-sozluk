@@ -2,6 +2,7 @@
 layout: term
 title: gözü pek
 slug: gozu-pek
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► korkusuz

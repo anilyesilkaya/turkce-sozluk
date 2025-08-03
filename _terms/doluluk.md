@@ -2,6 +2,7 @@
 layout: term
 title: doluluk
 slug: doluluk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dolu olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: emsalsiz
 slug: emsalsiz
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eşi benzeri olmayan, bir benzeri daha bulunmayan

@@ -2,6 +2,7 @@
 layout: term
 title: bayır kuşu
 slug: bayir-kusu
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► çalı bülbülü

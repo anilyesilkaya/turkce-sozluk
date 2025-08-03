@@ -2,6 +2,7 @@
 layout: term
 title: ferahlı
 slug: ferahli
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► ferah (II)

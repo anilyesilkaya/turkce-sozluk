@@ -2,6 +2,7 @@
 layout: term
 title: takip
 slug: takip
+letter: T
 lisan: Arapça taʿḳīb
 anlamlar:
 - Yetişmek, yakalamak veya bulmak amacıyla birinin arkasından gitme; izleme

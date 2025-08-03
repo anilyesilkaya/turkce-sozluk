@@ -2,6 +2,7 @@
 layout: term
 title: yaratma
 slug: yaratma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaratmak işi; halk (II)

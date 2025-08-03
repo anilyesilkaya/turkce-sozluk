@@ -2,6 +2,7 @@
 layout: term
 title: meraka düşmek
 slug: meraka-dusmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - meraklanmak

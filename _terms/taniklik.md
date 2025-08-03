@@ -2,6 +2,7 @@
 layout: term
 title: tanıklık
 slug: taniklik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tanık olma durumu; şahitlik, şehadet

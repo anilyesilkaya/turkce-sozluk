@@ -2,6 +2,7 @@
 layout: term
 title: konyak
 slug: konyak
+letter: K
 lisan: Fransızca cognac
 anlamlar:
 - İspirto derecesi yüksek, özel kokulu, kiremit renginde bir içki türü; kanyak

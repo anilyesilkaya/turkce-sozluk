@@ -2,6 +2,7 @@
 layout: term
 title: merhabası olmak
 slug: merhabasi-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - esenleşecek kadar tanışıklığı, yakınlığı olmak

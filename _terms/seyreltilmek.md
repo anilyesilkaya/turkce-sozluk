@@ -2,6 +2,7 @@
 layout: term
 title: seyreltilmek
 slug: seyreltilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Seyreltme işi yapılmak

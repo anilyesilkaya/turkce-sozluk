@@ -2,6 +2,7 @@
 layout: term
 title: tıknaz
 slug: tiknaz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Şişmanca, toplu, kısa ve kalın yapılı; tıkız

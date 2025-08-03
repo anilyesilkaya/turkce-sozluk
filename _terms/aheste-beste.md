@@ -2,6 +2,7 @@
 layout: term
 title: aheste beste
 slug: aheste-beste
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► yavaş yavaş

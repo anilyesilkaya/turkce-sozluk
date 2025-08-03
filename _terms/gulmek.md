@@ -2,6 +2,7 @@
 layout: term
 title: gülmek
 slug: gulmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - İnsan, hoşuna veya tuhafına giden olaylar, durumlar karşısında, genellikle sesli bir biçimde duygusunu açığa vurmak

@@ -2,6 +2,7 @@
 layout: term
 title: topaltı
 slug: topalti
+letter: T
 lisan: Türkçe
 anlamlar:
 - Kale toplarının koruması altındaki yer

@@ -2,6 +2,7 @@
 layout: term
 title: dili yanmak
 slug: dili-yanmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - üzüntü ve eziyet çekmek, zarara uğramak

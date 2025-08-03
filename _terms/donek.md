@@ -2,6 +2,7 @@
 layout: term
 title: dönek
 slug: donek
+letter: D
 lisan: Türkçe
 anlamlar:
 - İnanç ve düşüncesini değiştiren, sözüne güvenilmeyen (kimse); caygın, kaypak,  kahpe

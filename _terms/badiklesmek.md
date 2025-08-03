@@ -2,6 +2,7 @@
 layout: term
 title: badikleşmek
 slug: badiklesmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Ördek gibi sağa sol yalpa vurarak yürüme eğilimi göstermek

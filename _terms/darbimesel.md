@@ -2,6 +2,7 @@
 layout: term
 title: darbımesel
 slug: darbimesel
+letter: D
 lisan: Arapça ḍarb + mes̱el
 anlamlar:
 - ► atasözü

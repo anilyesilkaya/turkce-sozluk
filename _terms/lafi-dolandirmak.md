@@ -2,6 +2,7 @@
 layout: term
 title: lafı dolandırmak
 slug: lafi-dolandirmak
+letter: L
 lisan: Türkçe
 anlamlar:
 - sözü uzatmak

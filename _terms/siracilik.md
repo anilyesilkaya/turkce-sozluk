@@ -2,6 +2,7 @@
 layout: term
 title: sıracılık
 slug: siracilik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıracının yaptığı iş

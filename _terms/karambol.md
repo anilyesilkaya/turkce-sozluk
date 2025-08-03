@@ -2,6 +2,7 @@
 layout: term
 title: karambol
 slug: karambol
+letter: K
 lisan: Fransızca carambole
 anlamlar:
 - Bilardo oyununda isteka ile vurulan bilyenin öbürlerine dokunması

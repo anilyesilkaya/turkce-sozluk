@@ -2,6 +2,7 @@
 layout: term
 title: hapşırıklı
 slug: hapsirikli
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hapşırığa tutulmuş, sık sık hapşıran; aksırıklı

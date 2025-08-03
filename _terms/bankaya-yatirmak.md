@@ -2,6 +2,7 @@
 layout: term
 title: bankaya yatırmak
 slug: bankaya-yatirmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - bankadaki hesabına para koymak, biriktirmek

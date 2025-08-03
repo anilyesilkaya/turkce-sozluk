@@ -2,6 +2,7 @@
 layout: term
 title: yabani hayvan
 slug: yabani-hayvan
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Ehlîleşmemiş, vahşi ve yırtıcı hayvan; vahşi hayvan, yırtıcı hayvan

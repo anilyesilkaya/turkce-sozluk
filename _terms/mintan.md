@@ -2,6 +2,7 @@
 layout: term
 title: mintan
 slug: mintan
+letter: M
 lisan: Farsça nīm + ten
 anlamlar:
 - Yakasız, uzun kollu erkek gömleği

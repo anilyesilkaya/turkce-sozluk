@@ -2,6 +2,7 @@
 layout: term
 title: gezen kurt aç kalmaz
 slug: gezen-kurt-ac-kalmaz
+letter: G
 lisan: Türkçe
 anlamlar:
 - '"geçimini sağlamak için gezip dolaşan, şuraya buraya başvuran kişi aç kalmaz" anlamında kullanılan bir söz'

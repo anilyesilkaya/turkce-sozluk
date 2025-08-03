@@ -2,6 +2,7 @@
 layout: term
 title: tozluksuz
 slug: tozluksuz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Üzerinde tozluk olmayan

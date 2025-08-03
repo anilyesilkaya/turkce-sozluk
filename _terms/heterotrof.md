@@ -2,6 +2,7 @@
 layout: term
 title: heterotrof
 slug: heterotrof
+letter: H
 lisan: Fransızca hétérotrophe
 anlamlar:
 - ► dışbeslenen

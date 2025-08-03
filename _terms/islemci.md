@@ -2,6 +2,7 @@
 layout: term
 title: işlemci
 slug: islemci
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bilgisayarın ve programların işletilmesini sağlayan birim; merkezî işlem birimi

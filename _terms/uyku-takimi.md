@@ -2,6 +2,7 @@
 layout: term
 title: uyku takımı
 slug: uyku-takimi
+letter: U
 lisan: Türkçe
 anlamlar:
 - Çarşaf, yastık kılıfı, nevresim ve yorgandan oluşan yatak eşyası; uyku seti

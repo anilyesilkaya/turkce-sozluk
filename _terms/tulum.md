@@ -2,6 +2,7 @@
 layout: term
 title: tulum
 slug: tulum
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bazı yiyecek ve içecekler için koruyucu kap olarak kullanılan, önü yarılmadan bütün olarak yüzülmüş hayvan derisi; tuluk

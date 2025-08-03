@@ -2,6 +2,7 @@
 layout: term
 title: aforizma
 slug: aforizma
+letter: A
 lisan: Fransızca aphorisme
 anlamlar:
 - ► özdeyiş

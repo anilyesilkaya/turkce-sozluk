@@ -2,6 +2,7 @@
 layout: term
 title: güçlük çekmek
 slug: gucluk-cekmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - maddi açıdan sıkıntı içinde olmak

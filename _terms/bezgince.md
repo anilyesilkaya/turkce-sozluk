@@ -2,6 +2,7 @@
 layout: term
 title: bezgince
 slug: bezgince
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bezgin bir biçimde

@@ -2,6 +2,7 @@
 layout: term
 title: mükerreren
 slug: mukerreren
+letter: M
 lisan: Arapça mukerreren
 anlamlar:
 - Tekrarlanarak, tekrar edilmiş olarak

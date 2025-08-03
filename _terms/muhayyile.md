@@ -2,6 +2,7 @@
 layout: term
 title: muhayyile
 slug: muhayyile
+letter: M
 lisan: Arapça muḫayyile
 anlamlar:
 - ► hayal gücü

@@ -2,6 +2,7 @@
 layout: term
 title: tebeddül
 slug: tebeddul
+letter: T
 lisan: Arapça tebeddul
 anlamlar:
 - Bir durumdan başka bir duruma geçme

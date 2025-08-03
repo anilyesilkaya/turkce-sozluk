@@ -2,6 +2,7 @@
 layout: term
 title: pütürlü
 slug: puturlu
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pütürü olan; pürüzlü, pürtüklü

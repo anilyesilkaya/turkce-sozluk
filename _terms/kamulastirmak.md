@@ -2,6 +2,7 @@
 layout: term
 title: kamulaştırmak
 slug: kamulastirmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Devlet veya kamu tüzel kişilerce, kamu yararı gerektiğinde kişinin hukukunu da koruyarak karşılığını peşin ödemek koşuluyla taşınmazların sahiplerinden izin alınmaksızın yasal yollarla tamamını veya bir kısmını almak; devletleştirmek, istimlak etmek, özelleştirmek karşıtı

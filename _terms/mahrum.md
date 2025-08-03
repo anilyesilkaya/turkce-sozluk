@@ -2,6 +2,7 @@
 layout: term
 title: mahrum
 slug: mahrum
+letter: M
 lisan: Arapça maḥrūm
 anlamlar:
 - ► yoksun

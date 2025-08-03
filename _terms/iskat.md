@@ -2,6 +2,7 @@
 layout: term
 title: ıskat
 slug: iskat
+letter: I
 lisan: Arapça isḳāṭ
 anlamlar:
 - Düşürme, aşağı atma

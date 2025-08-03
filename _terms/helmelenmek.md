@@ -2,6 +2,7 @@
 layout: term
 title: helmelenmek
 slug: helmelenmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - Helme durumuna gelmek

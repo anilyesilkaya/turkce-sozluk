@@ -2,6 +2,7 @@
 layout: term
 title: şuh
 slug: suh
+letter: Ş
 lisan: Farsça şūḫ
 anlamlar:
 - Neşeli, canlı, kıvrak olan (kadın)

@@ -2,6 +2,7 @@
 layout: term
 title: zavallı
 slug: zavalli
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Acınacak kadar kötü durumda bulunan; biçare, fukara

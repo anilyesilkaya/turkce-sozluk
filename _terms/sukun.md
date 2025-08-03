@@ -2,6 +2,7 @@
 layout: term
 title: sükûn
 slug: sukun
+letter: S
 lisan: Arapça sukūn
 anlamlar:
 - ► sükûnet

@@ -2,6 +2,7 @@
 layout: term
 title: köknar
 slug: koknar
+letter: K
 lisan: Rumca
 anlamlar:
 - Çamgillerden, yüksek bölgelerde yetişen, iğne yaprakları kısa, yassı olan, reçineli ve kozalaklı bir orman ağacı; göknar (Abies)

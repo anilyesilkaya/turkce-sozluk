@@ -2,6 +2,7 @@
 layout: term
 title: dana derisi
 slug: dana-derisi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Kesilen dananın derisi

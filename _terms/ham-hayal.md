@@ -2,6 +2,7 @@
 layout: term
 title: ham hayal
 slug: ham-hayal
+letter: H
 lisan: Türkçe
 anlamlar:
 - Gerçekleşmeyecek düşünce veya ümit

@@ -2,6 +2,7 @@
 layout: term
 title: okuryazarlaşmak
 slug: okuryazarlasmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Okuryazar hâle gelmek

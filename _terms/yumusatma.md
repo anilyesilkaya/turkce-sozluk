@@ -2,6 +2,7 @@
 layout: term
 title: yumuşatma
 slug: yumusatma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yumuşatmak işi veya durumu

@@ -2,6 +2,7 @@
 layout: term
 title: halk etmek
 slug: halk-etmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - yaratmak

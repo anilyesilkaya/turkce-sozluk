@@ -2,6 +2,7 @@
 layout: term
 title: yürek
 slug: yurek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► kalp (I)

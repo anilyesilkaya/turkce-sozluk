@@ -2,6 +2,7 @@
 layout: term
 title: meclis
 slug: meclis
+letter: M
 lisan: Arapça meclis
 anlamlar:
 - Bir konuyu konuşmak veya görüşmek için yapılan toplantı

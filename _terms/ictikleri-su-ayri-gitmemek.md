@@ -2,6 +2,7 @@
 layout: term
 title: içtikleri su ayrı gitmemek
 slug: ictikleri-su-ayri-gitmemek
+letter: I
 lisan: Türkçe
 anlamlar:
 - sıkı fıkı dost, arkadaş olmak

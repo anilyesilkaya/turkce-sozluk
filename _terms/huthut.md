@@ -2,6 +2,7 @@
 layout: term
 title: hüthüt
 slug: huthut
+letter: H
 lisan: Arapça hudhud
 anlamlar:
 - ► çavuş kuşu

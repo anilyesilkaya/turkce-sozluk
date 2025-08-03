@@ -2,6 +2,7 @@
 layout: term
 title: çilekeşlik
 slug: cilekeslik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çilekeş olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: çöz
 slug: coz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► mumbar

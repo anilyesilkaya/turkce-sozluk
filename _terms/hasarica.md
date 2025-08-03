@@ -2,6 +2,7 @@
 layout: term
 title: haşarıca
 slug: hasarica
+letter: H
 lisan: Türkçe
 anlamlar:
 - Biraz haşarı

@@ -2,6 +2,7 @@
 layout: term
 title: şarkılaştırılmak
 slug: sarkilastirilmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şarkılaştırma işi yapılmak

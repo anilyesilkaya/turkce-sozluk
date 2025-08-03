@@ -2,6 +2,7 @@
 layout: term
 title: el hareketi
 slug: el-hareketi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Duygu ve düşünceyi ifade etmek için elle yapılan hareket

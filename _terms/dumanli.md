@@ -2,6 +2,7 @@
 layout: term
 title: dumanlı
 slug: dumanli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dumanı olan, duman çıkaran

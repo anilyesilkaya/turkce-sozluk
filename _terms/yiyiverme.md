@@ -2,6 +2,7 @@
 layout: term
 title: yiyiverme
 slug: yiyiverme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yiyivermek işi

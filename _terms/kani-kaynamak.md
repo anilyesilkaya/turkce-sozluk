@@ -2,6 +2,7 @@
 layout: term
 title: kanı kaynamak
 slug: kani-kaynamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - çabucak sevgi duymak

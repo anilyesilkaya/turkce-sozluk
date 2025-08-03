@@ -2,6 +2,7 @@
 layout: term
 title: kolonyalanmak
 slug: kolonyalanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kolonya sürmek veya sürünmek

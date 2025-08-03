@@ -2,6 +2,7 @@
 layout: term
 title: fosforsuz
 slug: fosforsuz
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fosfor içermeyen

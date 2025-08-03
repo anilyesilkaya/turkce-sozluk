@@ -2,6 +2,7 @@
 layout: term
 title: ımızganmak
 slug: imizganmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - Uyku ile uyanıklık arası bir durumda bulunmak

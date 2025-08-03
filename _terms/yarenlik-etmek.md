@@ -2,6 +2,7 @@
 layout: term
 title: yârenlik etmek
 slug: yarenlik-etmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ahbapça, dostça konuşmak, sohbet etmek

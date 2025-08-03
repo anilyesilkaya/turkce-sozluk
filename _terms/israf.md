@@ -2,6 +2,7 @@
 layout: term
 title: israf
 slug: israf
+letter: I
 lisan: Arapça isrāf
 anlamlar:
 - Gereksiz yere para, zaman, emek vb.ni harcama; savurganlık

@@ -2,6 +2,7 @@
 layout: term
 title: ahını almak
 slug: ahini-almak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ah almak

@@ -2,6 +2,7 @@
 layout: term
 title: güçleşmek
 slug: guclesmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güç duruma gelmek; ağırlaşmak, daralmak

@@ -2,6 +2,7 @@
 layout: term
 title: muahede
 slug: muahede
+letter: M
 lisan: Arapça muʿāhede
 anlamlar:
 - ► antlaşma

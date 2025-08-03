@@ -2,6 +2,7 @@
 layout: term
 title: tuzsuzluk
 slug: tuzsuzluk
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tuzsuz olma durumu

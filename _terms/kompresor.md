@@ -2,6 +2,7 @@
 layout: term
 title: kompresör
 slug: kompresor
+letter: K
 lisan: Fransızca compresseur
 anlamlar:
 - Bir akışkanı veya gazı, gereken basınca göre sıkıştırmaya yarayan alet; sıkmaç

@@ -2,6 +2,7 @@
 layout: term
 title: seksüellik
 slug: seksuellik
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► cinsellik

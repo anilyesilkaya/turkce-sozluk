@@ -2,6 +2,7 @@
 layout: term
 title: bağdaşabilmek
 slug: bagdasabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağdaşma ihtimali veya imkânı bulunmak

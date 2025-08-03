@@ -2,6 +2,7 @@
 layout: term
 title: öğleyin
 slug: ogleyin
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Günün öğle saatlerinde; öğlende

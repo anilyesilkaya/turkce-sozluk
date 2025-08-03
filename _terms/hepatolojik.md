@@ -2,6 +2,7 @@
 layout: term
 title: hepatolojik
 slug: hepatolojik
+letter: H
 lisan: Fransızca hépatologique
 anlamlar:
 - Hepatoloji ile ilgili

@@ -2,6 +2,7 @@
 layout: term
 title: ölçüsüzce
 slug: olcusuzce
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ölçüsüz bir biçimde

@@ -2,6 +2,7 @@
 layout: term
 title: akıbetine uğramak
 slug: akibetine-ugramak
+letter: A
 lisan: Türkçe
 anlamlar:
 - birinin içinde bulunduğu kötü duruma benzer bir duruma düşmek

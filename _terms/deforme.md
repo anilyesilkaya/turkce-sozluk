@@ -2,6 +2,7 @@
 layout: term
 title: deforme
 slug: deforme
+letter: D
 lisan: Fransızca déformé
 anlamlar:
 - Biçimsizleşmiş

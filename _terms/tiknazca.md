@@ -2,6 +2,7 @@
 layout: term
 title: tıknazca
 slug: tiknazca
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tıknaz bir biçimde olan

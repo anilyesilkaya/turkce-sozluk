@@ -2,6 +2,7 @@
 layout: term
 title: dilendirmek
 slug: dilendirmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dilenecek duruma getirmek

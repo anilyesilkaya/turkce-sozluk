@@ -2,6 +2,7 @@
 layout: term
 title: girintili çıkıntılı
 slug: girintili-cikintili
+letter: G
 lisan: Türkçe
 anlamlar:
 - Düz veya düzgün olmayıp girinti ve çıkıntıları olan

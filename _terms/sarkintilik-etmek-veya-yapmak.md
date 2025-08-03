@@ -2,6 +2,7 @@
 layout: term
 title: sarkıntılık etmek (veya yapmak)
 slug: sarkintilik-etmek-veya-yapmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - sataşmak, laf atmak

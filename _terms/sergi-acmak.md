@@ -2,6 +2,7 @@
 layout: term
 title: sergi açmak
 slug: sergi-acmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - sergilemek

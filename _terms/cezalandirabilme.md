@@ -2,6 +2,7 @@
 layout: term
 title: cezalandırabilme
 slug: cezalandirabilme
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cezalandırabilmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: geniş çaplı
 slug: genis-capli
+letter: G
 lisan: Türkçe
 anlamlar:
 - Ayrıntılı, bütün yönleri içine alan

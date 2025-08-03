@@ -2,6 +2,7 @@
 layout: term
 title: peruka
 slug: peruka
+letter: P
 lisan: İtalyanca parrucca
 anlamlar:
 - ► takma saç

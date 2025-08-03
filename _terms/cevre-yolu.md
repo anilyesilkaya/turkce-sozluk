@@ -2,6 +2,7 @@
 layout: term
 title: çevre yolu
 slug: cevre-yolu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Şehir trafiğini aksatmamak amacıyla yerleşim yerinin dışından geçen ve şehir yollarına bağlanan ana yol

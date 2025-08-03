@@ -2,6 +2,7 @@
 layout: term
 title: güveni sarsılmak
 slug: guveni-sarsilmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - güveni kalmamak

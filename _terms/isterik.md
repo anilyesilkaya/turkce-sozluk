@@ -2,6 +2,7 @@
 layout: term
 title: isterik
 slug: isterik
+letter: I
 lisan: Fransızca hystérique
 anlamlar:
 - ► histerik

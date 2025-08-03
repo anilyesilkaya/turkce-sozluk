@@ -2,6 +2,7 @@
 layout: term
 title: baltacılık
 slug: baltacilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Baltacının yaptığı iş

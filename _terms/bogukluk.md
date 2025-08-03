@@ -2,6 +2,7 @@
 layout: term
 title: boğukluk
 slug: bogukluk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boğuk olma durumu

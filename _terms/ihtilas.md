@@ -2,6 +2,7 @@
 layout: term
 title: ihtilas
 slug: ihtilas
+letter: I
 lisan: Arapça iḫtilās
 anlamlar:
 - ► aşırma

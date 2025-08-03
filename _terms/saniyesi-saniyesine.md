@@ -2,6 +2,7 @@
 layout: term
 title: saniyesi saniyesine
 slug: saniyesi-saniyesine
+letter: S
 lisan: Türkçe
 anlamlar:
 - Tam vaktinde

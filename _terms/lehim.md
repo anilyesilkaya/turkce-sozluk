@@ -2,6 +2,7 @@
 layout: term
 title: lehim
 slug: lehim
+letter: L
 lisan: Arapça laḥm
 anlamlar:
 - Erime noktaları düşük metalleri tutturma işlemlerinde kullanılan, kalay ve kurşun alaşımlarının genel adı

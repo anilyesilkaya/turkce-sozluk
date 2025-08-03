@@ -2,6 +2,7 @@
 layout: term
 title: çapaklanmak
 slug: capaklanmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çapak oluşmak

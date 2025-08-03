@@ -2,6 +2,7 @@
 layout: term
 title: yıkık
 slug: yikik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yıkılmış olan

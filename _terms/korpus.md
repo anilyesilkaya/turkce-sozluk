@@ -2,6 +2,7 @@
 layout: term
 title: korpus
 slug: korpus
+letter: K
 lisan: Fransızca corpus
 anlamlar:
 - ► derlem

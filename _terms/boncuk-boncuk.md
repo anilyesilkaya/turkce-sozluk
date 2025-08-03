@@ -2,6 +2,7 @@
 layout: term
 title: boncuk boncuk
 slug: boncuk-boncuk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boncuk gibi yuvarlak taneleri olan

@@ -2,6 +2,7 @@
 layout: term
 title: meydana vurmak
 slug: meydana-vurmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - belli etmek, ortaya çıkarmak

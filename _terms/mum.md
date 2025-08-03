@@ -2,6 +2,7 @@
 layout: term
 title: mum
 slug: mum
+letter: M
 lisan: Farsça mūm
 anlamlar:
 - Bir fitilin etrafına erimiş bal mumu, içyağı, stearik asit veya parafin dökülerek genellikle silindir biçiminde dondurulan ince, uzun aydınlatma aracı; şem

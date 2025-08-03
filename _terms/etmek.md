@@ -2,6 +2,7 @@
 layout: term
 title: etmek
 slug: etmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Bir işi yapmak; eylemek

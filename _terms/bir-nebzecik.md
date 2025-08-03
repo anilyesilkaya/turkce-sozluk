@@ -2,6 +2,7 @@
 layout: term
 title: bir nebzecik
 slug: bir-nebzecik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Pek az

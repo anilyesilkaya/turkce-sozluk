@@ -2,6 +2,7 @@
 layout: term
 title: artık değer
 slug: artik-deger
+letter: A
 lisan: Türkçe
 anlamlar:
 - İşçinin, iş gücünün karşılığı olarak ödenen değerin üzerinde ürettiği ve işverenin, karşılığını ödemeksizin sahip olduğu ek değer

@@ -2,6 +2,7 @@
 layout: term
 title: süzüntü
 slug: suzuntu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir sıvıyı süzerek elde edilen tortu

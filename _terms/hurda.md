@@ -2,6 +2,7 @@
 layout: term
 title: hurda
 slug: hurda
+letter: H
 lisan: Farsça ḫorde
 anlamlar:
 - Eski maden parçası

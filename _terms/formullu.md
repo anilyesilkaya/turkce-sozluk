@@ -2,6 +2,7 @@
 layout: term
 title: formüllü
 slug: formullu
+letter: F
 lisan: Türkçe
 anlamlar:
 - Formülü olan

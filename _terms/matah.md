@@ -2,6 +2,7 @@
 layout: term
 title: matah
 slug: matah
+letter: M
 lisan: Arapça metāʿ
 anlamlar:
 - İnsan, mal, eşya vb. için küçümseme yollu bir söz

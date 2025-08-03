@@ -2,6 +2,7 @@
 layout: term
 title: ısınma koşusu
 slug: isinma-kosusu
+letter: I
 lisan: Türkçe
 anlamlar:
 - Vücut çalışmalarına başlamadan önce kasları ısıtmak, böylece kas kopmalarını önlemek için yapılan hazırlayıcı hafif koşu

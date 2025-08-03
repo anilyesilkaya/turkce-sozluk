@@ -2,6 +2,7 @@
 layout: term
 title: melankolik
 slug: melankolik
+letter: M
 lisan: Fransızca mélancolique
 anlamlar:
 - ► kara sevdalı

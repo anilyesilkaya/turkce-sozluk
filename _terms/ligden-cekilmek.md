@@ -2,6 +2,7 @@
 layout: term
 title: ligden çekilmek
 slug: ligden-cekilmek
+letter: L
 lisan: Türkçe
 anlamlar:
 - takımlar kendi kararıyla ligden çıkmak

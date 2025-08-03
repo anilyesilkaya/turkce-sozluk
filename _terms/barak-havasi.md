@@ -2,6 +2,7 @@
 layout: term
 title: Barak havası
 slug: barak-havasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Baraklara özgü bir uzun hava türü

@@ -2,6 +2,7 @@
 layout: term
 title: lekelemek
 slug: lekelemek
+letter: L
 lisan: Türkçe
 anlamlar:
 - Bir şeyi kirletmek, bir şey üzerinde leke oluşturmak

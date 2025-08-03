@@ -2,6 +2,7 @@
 layout: term
 title: duyargalı
 slug: duyargali
+letter: D
 lisan: Türkçe
 anlamlar:
 - Duyargası olan

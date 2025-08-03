@@ -2,6 +2,7 @@
 layout: term
 title: midye
 slug: midye
+letter: M
 lisan: Rumca
 anlamlar:
 - Yassı solungaçlı, yumuşakçalardan, kabukları birbirine eşit, denizlerin kayalık yerlerinde kümeler durumunda yaşayan eti yenir bir hayvan (Mytilus)

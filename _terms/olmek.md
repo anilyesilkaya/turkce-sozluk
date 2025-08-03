@@ -2,6 +2,7 @@
 layout: term
 title: ölmek
 slug: olmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Yaşamaz olmak, hayatı sona ermek, can vermek; cavlamak (II), gitmek, göçmek, gümbürdemek, kakırdamak, kıkırdamak, yürümek, zıbarmak, cartayı çekmek, zartayı çekmek, mortlamak

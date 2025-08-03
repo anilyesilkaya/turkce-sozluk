@@ -2,6 +2,7 @@
 layout: term
 title: andırış
 slug: andiris
+letter: A
 lisan: Türkçe
 anlamlar:
 - İki şey arasında bazı noktalardaki uygunluk, benzerlik durumu

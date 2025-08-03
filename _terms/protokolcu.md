@@ -2,6 +2,7 @@
 layout: term
 title: protokolcü
 slug: protokolcu
+letter: P
 lisan: Türkçe
 anlamlar:
 - Protokol işleriyle uğraşan kimse

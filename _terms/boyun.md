@@ -2,6 +2,7 @@
 layout: term
 title: boyun
 slug: boyun
+letter: B
 lisan: Türkçe
 anlamlar:
 - Gövdenin başla omuz arasında kalan bölgesi

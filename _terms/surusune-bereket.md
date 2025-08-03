@@ -2,6 +2,7 @@
 layout: term
 title: sürüsüne bereket!
 slug: surusune-bereket
+letter: S
 lisan: Türkçe
 anlamlar:
 - pek çok, pek bol

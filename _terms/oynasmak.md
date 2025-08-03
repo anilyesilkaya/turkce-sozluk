@@ -2,6 +2,7 @@
 layout: term
 title: oynaşmak
 slug: oynasmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Birbiriyle oynamak

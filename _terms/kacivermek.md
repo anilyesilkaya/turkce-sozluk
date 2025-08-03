@@ -2,6 +2,7 @@
 layout: term
 title: kaçıvermek
 slug: kacivermek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çabucak kaçmak

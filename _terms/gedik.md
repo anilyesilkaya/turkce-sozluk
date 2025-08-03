@@ -2,6 +2,7 @@
 layout: term
 title: gedik
 slug: gedik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bir düzey üstündeki yıkık, çatlak veya aralık; rahne

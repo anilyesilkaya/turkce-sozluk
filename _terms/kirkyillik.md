@@ -2,6 +2,7 @@
 layout: term
 title: kırkyıllık
 slug: kirkyillik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çok eski, köklü

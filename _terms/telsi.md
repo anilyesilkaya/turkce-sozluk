@@ -2,6 +2,7 @@
 layout: term
 title: telsi
 slug: telsi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Çok ince telciklerden oluşan

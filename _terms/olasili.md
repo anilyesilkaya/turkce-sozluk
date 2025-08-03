@@ -2,6 +2,7 @@
 layout: term
 title: olasılı
 slug: olasili
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► muhtemel

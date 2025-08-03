@@ -2,6 +2,7 @@
 layout: term
 title: aksettirilmek
 slug: aksettirilmek
+letter: A
 lisan: Arapça ʿaks + Türkçe ettirilmek
 anlamlar:
 - ► yansıtılmak

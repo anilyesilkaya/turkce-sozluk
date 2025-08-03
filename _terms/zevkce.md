@@ -2,6 +2,7 @@
 layout: term
 title: zevkçe
 slug: zevkce
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zevk bakımından

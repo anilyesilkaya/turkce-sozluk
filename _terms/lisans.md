@@ -2,6 +2,7 @@
 layout: term
 title: lisans
 slug: lisans
+letter: L
 lisan: Fransızca licence
 anlamlar:
 - Genellikle dört yıl süren üniversite veya yüksekokul öğrenimi

@@ -2,6 +2,7 @@
 layout: term
 title: eritilmek
 slug: eritilmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eritme işi yapılmak

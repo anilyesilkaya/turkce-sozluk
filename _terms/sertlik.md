@@ -2,6 +2,7 @@
 layout: term
 title: sertlik
 slug: sertlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sert, katı olma durumu; berklik

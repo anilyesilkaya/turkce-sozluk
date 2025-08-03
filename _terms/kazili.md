@@ -2,6 +2,7 @@
 layout: term
 title: kazılı
 slug: kazili
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kazılmış

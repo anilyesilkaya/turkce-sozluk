@@ -2,6 +2,7 @@
 layout: term
 title: seza
 slug: seza
+letter: S
 lisan: Farsça sezā
 anlamlar:
 - Uygun, yaraşır, bir şeye değer

@@ -2,6 +2,7 @@
 layout: term
 title: ufaktan ufaktan
 slug: ufaktan-ufaktan
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► ufaktan ufağa

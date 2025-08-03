@@ -2,6 +2,7 @@
 layout: term
 title: içtenlikle
 slug: ictenlikle
+letter: I
 lisan: Türkçe
 anlamlar:
 - Her türlü çıkar düşüncesinden uzak olarak, karşısındakine güvenerek, kendine yakın bularak, temiz yürekle, içten bir biçimde; açık açık, candan yürekten, canıgönülden, canıyürekten, samimiyetle, halisane

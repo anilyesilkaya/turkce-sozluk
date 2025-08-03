@@ -2,6 +2,7 @@
 layout: term
 title: uslu akıllı
 slug: uslu-akilli
+letter: U
 lisan: Türkçe
 anlamlar:
 - Olgun, ağırlığı ve değeri olan (kimse)

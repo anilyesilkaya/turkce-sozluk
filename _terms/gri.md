@@ -2,6 +2,7 @@
 layout: term
 title: gri
 slug: gri
+letter: G
 lisan: Fransızca gris
 anlamlar:
 - ► kül rengi

@@ -2,6 +2,7 @@
 layout: term
 title: bitişmek
 slug: bitismek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Birbirine dokunacak kadar yanaşmak

@@ -2,6 +2,7 @@
 layout: term
 title: mikrokozmos
 slug: mikrokozmos
+letter: M
 lisan: Fransızca microcosmos
 anlamlar:
 - Uzayda dünya ve insanın durumu

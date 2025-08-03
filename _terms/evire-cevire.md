@@ -2,6 +2,7 @@
 layout: term
 title: evire çevire
 slug: evire-cevire
+letter: E
 lisan: Türkçe
 anlamlar:
 - İyice, istediği gibi, adamakıllı bir biçimde

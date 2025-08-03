@@ -2,6 +2,7 @@
 layout: term
 title: söz almak
 slug: soz-almak
+letter: S
 lisan: Türkçe
 anlamlar:
 - konuşmak için toplantı başkanından izin almak, konuşmaya başlamak

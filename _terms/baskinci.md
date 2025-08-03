@@ -2,6 +2,7 @@
 layout: term
 title: baskıncı
 slug: baskinci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Baskın yapan kimse

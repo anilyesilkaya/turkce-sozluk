@@ -2,6 +2,7 @@
 layout: term
 title: akılsızlık
 slug: akilsizlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Akılsız olma durumu

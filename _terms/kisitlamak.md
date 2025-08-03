@@ -2,6 +2,7 @@
 layout: term
 title: kısıtlamak
 slug: kisitlamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Önceden verilmiş olan hak ve hürriyetlerin sınırlarını daraltmak

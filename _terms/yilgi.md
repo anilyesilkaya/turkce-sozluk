@@ -2,6 +2,7 @@
 layout: term
 title: yılgı
 slug: yilgi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► fobi

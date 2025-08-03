@@ -2,6 +2,7 @@
 layout: term
 title: zifirlenmek
 slug: zifirlenmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - İs, duman vb. sebeplerle siyah bir renk almak

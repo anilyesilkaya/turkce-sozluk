@@ -2,6 +2,7 @@
 layout: term
 title: sosyete
 slug: sosyete
+letter: S
 lisan: Fransızca société
 anlamlar:
 - Toplumun kibar, zevkli, zarif, gelir düzeyi yüksek olan insanlarının oluşturduğu ve kendilerine özgü yaşama biçimleri olan kesimi

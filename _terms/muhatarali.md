@@ -2,6 +2,7 @@
 layout: term
 title: muhataralı
 slug: muhatarali
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► tehlikeli

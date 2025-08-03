@@ -2,6 +2,7 @@
 layout: term
 title: ekstra
 slug: ekstra
+letter: E
 lisan: Fransızca extra
 anlamlar:
 - En iyi, üstün nitelikli

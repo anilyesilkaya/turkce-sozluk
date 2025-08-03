@@ -2,6 +2,7 @@
 layout: term
 title: yenilir yutulur değil (veya olmamak)
 slug: yenilir-yutulur-degil-veya-olmamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yenmeyecek nitelikte olan (yiyecek)

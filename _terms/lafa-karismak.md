@@ -2,6 +2,7 @@
 layout: term
 title: lafa karışmak
 slug: lafa-karismak
+letter: L
 lisan: Türkçe
 anlamlar:
 - biri veya birileri konuşurken bir başkası konuşmak, konuşmaya katılmak

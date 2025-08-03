@@ -2,6 +2,7 @@
 layout: term
 title: dair
 slug: dair
+letter: D
 lisan: Arapça dāʾir
 anlamlar:
 - ► üstüne

@@ -2,6 +2,7 @@
 layout: term
 title: selülozik
 slug: selulozik
+letter: S
 lisan: Fransızca cellulosique
 anlamlar:
 - İçinde selüloz bulunan

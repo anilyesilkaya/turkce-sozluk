@@ -2,6 +2,7 @@
 layout: term
 title: uluslaşma
 slug: uluslasma
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► milletleşme

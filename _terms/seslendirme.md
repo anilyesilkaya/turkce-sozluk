@@ -2,6 +2,7 @@
 layout: term
 title: seslendirme
 slug: seslendirme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Seslendirmek işi

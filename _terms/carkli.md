@@ -2,6 +2,7 @@
 layout: term
 title: çarklı
 slug: carkli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çarkı olan

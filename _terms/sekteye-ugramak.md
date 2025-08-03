@@ -2,6 +2,7 @@
 layout: term
 title: sekteye uğramak
 slug: sekteye-ugramak
+letter: S
 lisan: Türkçe
 anlamlar:
 - kesilmek, kesintiye uğramak

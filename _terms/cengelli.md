@@ -2,6 +2,7 @@
 layout: term
 title: çengelli
 slug: cengelli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çengeli olan veya ucu çengel biçiminde olan

@@ -2,6 +2,7 @@
 layout: term
 title: vır vır
 slug: vir-vir
+letter: V
 lisan: Türkçe
 anlamlar:
 - Usandırıcı, sinirlendirici bir biçimde durmadan konuşma

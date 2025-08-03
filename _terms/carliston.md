@@ -2,6 +2,7 @@
 layout: term
 title: çarliston
 slug: carliston
+letter: Ç
 lisan: İngilizce charleston
 anlamlar:
 - Birinci Dünya Savaşı'ndan sonra Avrupa'da yaygınlaşan dans türü

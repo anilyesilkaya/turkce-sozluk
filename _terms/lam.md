@@ -2,6 +2,7 @@
 layout: term
 title: lam
 slug: lam
+letter: L
 lisan: Fransızca lame
 anlamlar:
 - Mikroskopta incelenecek maddelerin üzerine konulduğu dar, uzun cam parçası

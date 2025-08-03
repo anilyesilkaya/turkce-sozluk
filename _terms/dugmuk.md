@@ -2,6 +2,7 @@
 layout: term
 title: düğmük
 slug: dugmuk
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► düğüm

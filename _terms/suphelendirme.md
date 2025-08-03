@@ -2,6 +2,7 @@
 layout: term
 title: şüphelendirme
 slug: suphelendirme
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► kuşkulandırma

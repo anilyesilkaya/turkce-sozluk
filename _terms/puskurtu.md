@@ -2,6 +2,7 @@
 layout: term
 title: püskürtü
 slug: puskurtu
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► lav

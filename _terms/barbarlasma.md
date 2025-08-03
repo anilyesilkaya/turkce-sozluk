@@ -2,6 +2,7 @@
 layout: term
 title: barbarlaşma
 slug: barbarlasma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Barbarlaşmak işi

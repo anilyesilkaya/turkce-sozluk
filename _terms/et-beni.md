@@ -2,6 +2,7 @@
 layout: term
 title: et beni
 slug: et-beni
+letter: E
 lisan: Türkçe
 anlamlar:
 - Deri dokusunun anormal büyüyüp yağlanmasıyla oluşan kabarcık

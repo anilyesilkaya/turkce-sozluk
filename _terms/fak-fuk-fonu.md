@@ -2,6 +2,7 @@
 layout: term
 title: Fak Fuk Fonu
 slug: fak-fuk-fonu
+letter: F
 lisan: Türkçe
 anlamlar:
 - Yardımlaşmak amacıyla Sosyal Yardımlaşma ve Dayanışmayı Teşvik Fonu adıyla 1990'lı yıllarda kurulan, halk arasında bu kısaltmayla tanınan fakir fukara fonu

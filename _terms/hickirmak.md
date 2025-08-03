@@ -2,6 +2,7 @@
 layout: term
 title: hıçkırmak
 slug: hickirmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Boğazdan hıçkırık sesi çıkarmak

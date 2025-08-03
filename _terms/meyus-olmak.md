@@ -2,6 +2,7 @@
 layout: term
 title: meyus olmak
 slug: meyus-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - üzgün ve umutsuz bir duruma düşmek

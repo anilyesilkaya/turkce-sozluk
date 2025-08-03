@@ -2,6 +2,7 @@
 layout: term
 title: mübareze
 slug: mubareze
+letter: M
 lisan: Arapça mubāreze
 anlamlar:
 - ► çekişme

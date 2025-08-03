@@ -2,6 +2,7 @@
 layout: term
 title: berraklaştırmak
 slug: berraklastirmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Berrak duruma getirmek

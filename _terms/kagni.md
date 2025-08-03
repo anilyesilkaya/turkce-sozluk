@@ -2,6 +2,7 @@
 layout: term
 title: kağnı
 slug: kagni
+letter: K
 lisan: Türkçe
 anlamlar:
 - İki veya dört tekerlekli, dingili tekerlekle birlikte dönen öküz arabası; kağnı arabası

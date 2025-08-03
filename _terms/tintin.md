@@ -2,6 +2,7 @@
 layout: term
 title: tıntın
 slug: tintin
+letter: T
 lisan: Türkçe
 anlamlar:
 - Boş, bomboş

@@ -2,6 +2,7 @@
 layout: term
 title: çeç
 slug: cec
+letter: Ç
 lisan: Farsça çeç
 anlamlar:
 - Tahıl yığını; teç

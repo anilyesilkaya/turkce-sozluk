@@ -2,6 +2,7 @@
 layout: term
 title: ikinci bahar
 slug: ikinci-bahar
+letter: I
 lisan: Türkçe
 anlamlar:
 - İleri yaşlarda gelen mutluluk

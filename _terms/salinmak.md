@@ -2,6 +2,7 @@
 layout: term
 title: salınmak
 slug: salinmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Yürürken uyumlu hareketlerle hafifçe bir yandan bir yana eğilmek

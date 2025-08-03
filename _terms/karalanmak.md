@@ -2,6 +2,7 @@
 layout: term
 title: karalanmak
 slug: karalanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karalama işi yapılmak

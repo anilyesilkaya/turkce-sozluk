@@ -2,6 +2,7 @@
 layout: term
 title: cilve
 slug: cilve
+letter: C
 lisan: Farsça cilve
 anlamlar:
 - Hoşa gitmek, ilgi çekmek için takınılan çekici, edalı davranış; işve

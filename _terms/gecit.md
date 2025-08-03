@@ -2,6 +2,7 @@
 layout: term
 title: geçit
 slug: gecit
+letter: G
 lisan: Türkçe
 anlamlar:
 - Geçmeye yarayan yer, geçecek yer

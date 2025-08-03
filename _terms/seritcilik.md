@@ -2,6 +2,7 @@
 layout: term
 title: şeritçilik
 slug: seritcilik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şeritçinin işi

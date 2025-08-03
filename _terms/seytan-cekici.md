@@ -2,6 +2,7 @@
 layout: term
 title: şeytan çekici
 slug: seytan-cekici
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Hareketli ve becerikli çocuk

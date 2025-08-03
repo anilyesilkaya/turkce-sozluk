@@ -2,6 +2,7 @@
 layout: term
 title: arsacık
 slug: arsacik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Küçük arsa

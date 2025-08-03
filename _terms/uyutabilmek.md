@@ -2,6 +2,7 @@
 layout: term
 title: uyutabilmek
 slug: uyutabilmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyutma ihtimali veya imkânı bulunmak

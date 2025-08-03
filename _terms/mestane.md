@@ -2,6 +2,7 @@
 layout: term
 title: mestane
 slug: mestane
+letter: M
 lisan: Farsça mestāne
 anlamlar:
 - Sarhoş gibi, kendinden geçmişçesine

@@ -2,6 +2,7 @@
 layout: term
 title: yatağa (veya yataklara) düşmek
 slug: yataga-veya-yataklara-dusmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yataktan kalkamayacak kadar hasta olmak

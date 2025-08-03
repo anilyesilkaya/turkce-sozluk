@@ -2,6 +2,7 @@
 layout: term
 title: şifreyi çözmek
 slug: sifreyi-cozmek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - bir şifrede kullanılan işaretlerin anlamını bulmak

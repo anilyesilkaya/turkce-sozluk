@@ -2,6 +2,7 @@
 layout: term
 title: gebertebilmek
 slug: gebertebilmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► öldürebilmek

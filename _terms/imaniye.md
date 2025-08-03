@@ -2,6 +2,7 @@
 layout: term
 title: imaniye
 slug: imaniye
+letter: I
 lisan: Arapça īmāniyye
 anlamlar:
 - ► inancılık

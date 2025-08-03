@@ -2,6 +2,7 @@
 layout: term
 title: işkence
 slug: iskence
+letter: I
 lisan: Farsça şikence
 anlamlar:
 - Bir kimseye fiziksel veya manevi olarak yapılan aşırı eziyet

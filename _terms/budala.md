@@ -2,6 +2,7 @@
 layout: term
 title: budala
 slug: budala
+letter: B
 lisan: Arapça budalā
 anlamlar:
 - Zekâca geri olan (kimse)

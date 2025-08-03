@@ -2,6 +2,7 @@
 layout: term
 title: balon barajı
 slug: balon-baraji
+letter: B
 lisan: Türkçe
 anlamlar:
 - Savaş uçaklarının faaliyetini engellemek üzere yere bağlanan ve belirli yükseklikte tutulan koruyucu balon perdesi

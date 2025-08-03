@@ -2,6 +2,7 @@
 layout: term
 title: kemik rengi
 slug: kemik-rengi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Beyaz ile krem rengi arasında olan renk

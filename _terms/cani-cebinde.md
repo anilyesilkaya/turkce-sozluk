@@ -2,6 +2,7 @@
 layout: term
 title: canı cebinde
 slug: cani-cebinde
+letter: C
 lisan: Türkçe
 anlamlar:
 - Bitkin, hasta, çok zayıf, ölümle karşı karşıya olan (kimse)

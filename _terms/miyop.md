@@ -2,6 +2,7 @@
 layout: term
 title: miyop
 slug: miyop
+letter: M
 lisan: Fransızca myope
 anlamlar:
 - Nesnelerin görüntüleri ağ tabakanın ön tarafında kaldığı için uzağı iyi göremeyen (göz)

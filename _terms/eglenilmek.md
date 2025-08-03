@@ -2,6 +2,7 @@
 layout: term
 title: eğlenilmek
 slug: eglenilmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eğlenme işi yapılmak

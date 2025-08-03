@@ -2,6 +2,7 @@
 layout: term
 title: dolamak
 slug: dolamak
+letter: D
 lisan: Türkçe
 anlamlar:
 - İplik, şerit, tel vb. nesneleri bir şeyin üzerine döndürerek sarmak

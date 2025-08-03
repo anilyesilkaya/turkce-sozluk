@@ -2,6 +2,7 @@
 layout: term
 title: kadıntuzluğu
 slug: kadintuzlugu
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► sarıçalı

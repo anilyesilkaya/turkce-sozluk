@@ -2,6 +2,7 @@
 layout: term
 title: urlaşma
 slug: urlasma
+letter: U
 lisan: Türkçe
 anlamlar:
 - Urlaşmak durumu; tümörlenme, tümörleşme

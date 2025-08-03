@@ -2,6 +2,7 @@
 layout: term
 title: tıkıştırılmak
 slug: tikistirilmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tıkıştırma işi yapılmak

@@ -2,6 +2,7 @@
 layout: term
 title: gözleri şıldır şıldır dönmek
 slug: gozleri-sildir-sildir-donmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - gözleri yaş dolu bir biçimde bakmak

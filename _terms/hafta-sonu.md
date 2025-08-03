@@ -2,6 +2,7 @@
 layout: term
 title: hafta sonu
 slug: hafta-sonu
+letter: H
 lisan: Türkçe
 anlamlar:
 - Haftanın son günleri, genellikle cumartesi ve pazar

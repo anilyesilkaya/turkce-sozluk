@@ -2,6 +2,7 @@
 layout: term
 title: şayanıhayret
 slug: sayanihayret
+letter: Ş
 lisan: Farsça şāyān + Arapça ḥayret
 anlamlar:
 - Hayret edilecek, şaşılacak nitelikte olan

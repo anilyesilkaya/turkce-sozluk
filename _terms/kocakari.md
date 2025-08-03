@@ -2,6 +2,7 @@
 layout: term
 title: kocakarı
 slug: kocakari
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yaşlı kadın

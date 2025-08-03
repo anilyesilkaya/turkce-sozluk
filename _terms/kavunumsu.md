@@ -2,6 +2,7 @@
 layout: term
 title: kavunumsu
 slug: kavunumsu
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kavunsu

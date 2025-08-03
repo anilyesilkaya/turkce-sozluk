@@ -2,6 +2,7 @@
 layout: term
 title: ısırmak
 slug: isirmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - Dişleri arasına alıp sıkmak

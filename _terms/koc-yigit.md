@@ -2,6 +2,7 @@
 layout: term
 title: koç yiğit
 slug: koc-yigit
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yakışıklı, genç ve gürbüz delikanlı

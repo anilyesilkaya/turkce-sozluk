@@ -2,6 +2,7 @@
 layout: term
 title: makas atmak
 slug: makas-atmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - kumaş, kâğıt, saç vb.ni makasla kesmek

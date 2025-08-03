@@ -2,6 +2,7 @@
 layout: term
 title: şan
 slug: san
+letter: Ş
 lisan: Fransızca chant
 anlamlar:
 - Nefesi diyaframla kontrol ederek sese hâkimiyeti ve ses alanını genişletmeyi amaçlayan teknik

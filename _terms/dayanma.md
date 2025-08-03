@@ -2,6 +2,7 @@
 layout: term
 title: dayanma
 slug: dayanma
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dayanmak işi; irtifak, istinat, metanet

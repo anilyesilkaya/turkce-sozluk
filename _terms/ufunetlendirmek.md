@@ -2,6 +2,7 @@
 layout: term
 title: ufunetlendirmek
 slug: ufunetlendirmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - İrinlenmesine neden olmak

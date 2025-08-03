@@ -2,6 +2,7 @@
 layout: term
 title: soru cümlesi
 slug: soru-cumlesi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Soru anlamı içeren cümle

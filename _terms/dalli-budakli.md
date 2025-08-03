@@ -2,6 +2,7 @@
 layout: term
 title: dallı budaklı
 slug: dalli-budakli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Karışık bir duruma girmiş olan

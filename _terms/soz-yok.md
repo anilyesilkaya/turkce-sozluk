@@ -2,6 +2,7 @@
 layout: term
 title: söz yok!
 slug: soz-yok
+letter: S
 lisan: Türkçe
 anlamlar:
 - '"mükemmel, çok güzel, kusursuz, eleştirilecek bir tarafı yok" anlamında kullanılan bir söz'

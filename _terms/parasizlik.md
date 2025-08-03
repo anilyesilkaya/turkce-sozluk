@@ -2,6 +2,7 @@
 layout: term
 title: parasızlık
 slug: parasizlik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Parasız olma durumu; yolsuzluk, uyuzluk, meccanilik, müzayaka

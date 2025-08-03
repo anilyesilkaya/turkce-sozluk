@@ -2,6 +2,7 @@
 layout: term
 title: saflık
 slug: saflik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Saf olma durumu; avanaklık, bönlük, safderunluk, safdillik, safdillilik, saffet, safiyet

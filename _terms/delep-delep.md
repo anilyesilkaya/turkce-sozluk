@@ -2,6 +2,7 @@
 layout: term
 title: delep delep
 slug: delep-delep
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► parıl parıl

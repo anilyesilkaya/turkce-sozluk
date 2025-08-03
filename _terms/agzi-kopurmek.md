@@ -2,6 +2,7 @@
 layout: term
 title: ağzı köpürmek
 slug: agzi-kopurmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - çok öfkelenmek

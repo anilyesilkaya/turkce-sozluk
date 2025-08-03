@@ -2,6 +2,7 @@
 layout: term
 title: mitil
 slug: mitil
+letter: M
 lisan: Rumca
 anlamlar:
 - İçine yün, pamuk vb. doldurulan beyaz yastık veya yorgan kılıfı

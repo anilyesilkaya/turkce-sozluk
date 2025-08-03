@@ -2,6 +2,7 @@
 layout: term
 title: müddea
 slug: muddea
+letter: M
 lisan: Arapça muddeʿā
 anlamlar:
 - İddia edilen

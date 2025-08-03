@@ -2,6 +2,7 @@
 layout: term
 title: müziç
 slug: muzic
+letter: M
 lisan: Arapça muzʿic
 anlamlar:
 - Bunaltıcı, tedirgin edici

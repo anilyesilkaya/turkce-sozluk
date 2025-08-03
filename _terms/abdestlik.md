@@ -2,6 +2,7 @@
 layout: term
 title: abdestlik
 slug: abdestlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Abdest alınacak yer

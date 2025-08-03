@@ -2,6 +2,7 @@
 layout: term
 title: ürünsüz
 slug: urunsuz
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Ürünü olmayan

@@ -2,6 +2,7 @@
 layout: term
 title: takdim etmek
 slug: takdim-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - sunmak

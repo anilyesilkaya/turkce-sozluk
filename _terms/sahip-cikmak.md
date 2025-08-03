@@ -2,6 +2,7 @@
 layout: term
 title: sahip çıkmak
 slug: sahip-cikmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - kendinin olduğunu ileri sürmek

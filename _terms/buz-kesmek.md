@@ -2,6 +2,7 @@
 layout: term
 title: buz kesmek
 slug: buz-kesmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - çok üşümek

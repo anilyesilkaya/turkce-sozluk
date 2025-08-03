@@ -2,6 +2,7 @@
 layout: term
 title: sanı
 slug: sani
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sanma durumu veya sonucu; zan, zehap

@@ -2,6 +2,7 @@
 layout: term
 title: kadifemsi
 slug: kadifemsi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kadife görünümünde olan, kadifeyi andıran, kadifeye benzeyen

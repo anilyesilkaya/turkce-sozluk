@@ -2,6 +2,7 @@
 layout: term
 title: güreştirmek
 slug: gurestirmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güreş yaptırmak

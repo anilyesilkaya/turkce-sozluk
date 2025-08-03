@@ -2,6 +2,7 @@
 layout: term
 title: erozyona uğramak
 slug: erozyona-ugramak
+letter: E
 lisan: Türkçe
 anlamlar:
 - aşınmak

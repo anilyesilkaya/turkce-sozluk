@@ -2,6 +2,7 @@
 layout: term
 title: yırtım
 slug: yirtim
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► manifatura

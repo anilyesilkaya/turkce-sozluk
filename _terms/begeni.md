@@ -2,6 +2,7 @@
 layout: term
 title: beğeni
 slug: begeni
+letter: B
 lisan: Türkçe
 anlamlar:
 - Hoşa giden, güzel olan bir şeyin insanda uyandırdığı beğenme duygusu

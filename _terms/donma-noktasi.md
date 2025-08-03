@@ -2,6 +2,7 @@
 layout: term
 title: donma noktası
 slug: donma-noktasi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Eriyik durumda bulunan bir metalin kendi özelliğine bağlı olarak donmaya başladığı andaki ısı derecesi

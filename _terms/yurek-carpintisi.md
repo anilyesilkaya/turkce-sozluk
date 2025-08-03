@@ -2,6 +2,7 @@
 layout: term
 title: yürek çarpıntısı
 slug: yurek-carpintisi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Sevgi, merak, kaygı, korku vb. duygular sebebiyle beliren tedirginlik

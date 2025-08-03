@@ -2,6 +2,7 @@
 layout: term
 title: birlik
 slug: birlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Tek, bir olma durumu

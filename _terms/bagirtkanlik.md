@@ -2,6 +2,7 @@
 layout: term
 title: bağırtkanlık
 slug: bagirtkanlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağırtkan olma durumu

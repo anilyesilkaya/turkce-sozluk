@@ -2,6 +2,7 @@
 layout: term
 title: seçkinleşmek
 slug: seckinlesmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Seçkin duruma gelmek

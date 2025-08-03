@@ -2,6 +2,7 @@
 layout: term
 title: daktilo masası
 slug: daktilo-masasi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Üzerinde daktilo ile yazı yazılan özel masa

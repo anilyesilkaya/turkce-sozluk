@@ -2,6 +2,7 @@
 layout: term
 title: gülük
 slug: guluk
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► hindi

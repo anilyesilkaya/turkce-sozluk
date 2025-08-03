@@ -2,6 +2,7 @@
 layout: term
 title: 'kaçak güreş '
 slug: kacak-gures
+letter: K
 lisan: Türkçe
 anlamlar:
 - Güreşçilerin rakibine hücum etmeden etkisiz bir biçimde yaptığı güreş

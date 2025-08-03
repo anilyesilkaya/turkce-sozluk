@@ -2,6 +2,7 @@
 layout: term
 title: çürük elma
 slug: curuk-elma
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çürümüş elma

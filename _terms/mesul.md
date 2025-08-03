@@ -2,6 +2,7 @@
 layout: term
 title: mesul
 slug: mesul
+letter: M
 lisan: Arapça mesʾūl
 anlamlar:
 - ► sorumlu

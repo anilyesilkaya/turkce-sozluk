@@ -2,6 +2,7 @@
 layout: term
 title: espiyonaj
 slug: espiyonaj
+letter: E
 lisan: Fransızca espionnage
 anlamlar:
 - ► casusluk

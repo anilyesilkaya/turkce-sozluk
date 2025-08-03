@@ -2,6 +2,7 @@
 layout: term
 title: artçı
 slug: artci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Geçmiş bir sanat veya edebiyat çığırını sürdüren sanatçı veya hareket

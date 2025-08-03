@@ -2,6 +2,7 @@
 layout: term
 title: kaktüs
 slug: kaktus
+letter: K
 lisan: Fransızca cactus
 anlamlar:
 - Kaktüsgillerden, yaprakları yayvan ve dikenli, güzel, parlak renkte çiçekler açan bir bitki; atlas çiçeği (Cactus)

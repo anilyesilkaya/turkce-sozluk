@@ -2,6 +2,7 @@
 layout: term
 title: sirayet etmek
 slug: sirayet-etmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - hastalık geçmek, bulaşmak

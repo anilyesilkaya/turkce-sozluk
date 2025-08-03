@@ -2,6 +2,7 @@
 layout: term
 title: Tm
 slug: tm
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tulyum elementinin simgesi

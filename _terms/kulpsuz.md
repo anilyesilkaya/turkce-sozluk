@@ -2,6 +2,7 @@
 layout: term
 title: kulpsuz
 slug: kulpsuz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kulpu olmayan

@@ -2,6 +2,7 @@
 layout: term
 title: 'kırıma uğramak '
 slug: kirima-ugramak
+letter: K
 lisan: Türkçe
 anlamlar:
 - uçak, helikopter vb. can kaybı olmaksızın tekrar onarılabilecek düzeyde hasar görmek

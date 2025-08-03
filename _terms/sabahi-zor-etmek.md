@@ -2,6 +2,7 @@
 layout: term
 title: sabahı zor etmek
 slug: sabahi-zor-etmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - bir türlü sabah olmamak

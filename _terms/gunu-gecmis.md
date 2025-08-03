@@ -2,6 +2,7 @@
 layout: term
 title: günü geçmiş
 slug: gunu-gecmis
+letter: G
 lisan: Türkçe
 anlamlar:
 - Eski tarihli

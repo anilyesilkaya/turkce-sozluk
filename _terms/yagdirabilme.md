@@ -2,6 +2,7 @@
 layout: term
 title: yağdırabilme
 slug: yagdirabilme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yağdırabilmek işi

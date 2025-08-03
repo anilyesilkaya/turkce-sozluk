@@ -2,6 +2,7 @@
 layout: term
 title: düşünmek
 slug: dusunmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Aklından geçirmek, göz önüne getirmek; kurmak

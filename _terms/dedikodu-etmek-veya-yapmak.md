@@ -2,6 +2,7 @@
 layout: term
 title: dedikodu etmek (veya yapmak)
 slug: dedikodu-etmek-veya-yapmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - birini çekiştirmek

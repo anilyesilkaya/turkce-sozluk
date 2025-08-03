@@ -2,6 +2,7 @@
 layout: term
 title: kızma
 slug: kizma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kızmak işi

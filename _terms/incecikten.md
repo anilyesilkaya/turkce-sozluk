@@ -2,6 +2,7 @@
 layout: term
 title: incecikten
 slug: incecikten
+letter: I
 lisan: Türkçe
 anlamlar:
 - Belli belirsiz bir biçimde

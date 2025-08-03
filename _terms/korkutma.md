@@ -2,6 +2,7 @@
 layout: term
 title: korkutma
 slug: korkutma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Korkutmak işi

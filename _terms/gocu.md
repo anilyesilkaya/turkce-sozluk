@@ -2,6 +2,7 @@
 layout: term
 title: göçü
 slug: gocu
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► toprak kayması

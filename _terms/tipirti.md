@@ -2,6 +2,7 @@
 layout: term
 title: tıpırtı
 slug: tipirti
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tıpırdayan bir şeyin çıkardığı sesin adı

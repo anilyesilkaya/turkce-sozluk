@@ -2,6 +2,7 @@
 layout: term
 title: duymak
 slug: duymak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bilgi almak, öğrenmek, haber almak

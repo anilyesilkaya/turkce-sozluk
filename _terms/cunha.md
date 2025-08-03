@@ -2,6 +2,7 @@
 layout: term
 title: cünha
 slug: cunha
+letter: C
 lisan: Arapça cunḥa
 anlamlar:
 - Kabahatten ağır ve cinayetten hafif olan suç

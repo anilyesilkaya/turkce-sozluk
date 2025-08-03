@@ -2,6 +2,7 @@
 layout: term
 title: paralel
 slug: paralel
+letter: P
 lisan: Fransızca parallèle
 anlamlar:
 - Aynı düzlem içinde ikişer ikişer bulunan ve kesişmeyen; koşut, muvazi, mütevazi

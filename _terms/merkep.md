@@ -2,6 +2,7 @@
 layout: term
 title: merkep
 slug: merkep
+letter: M
 lisan: Arapça merkeb
 anlamlar:
 - ► eşek

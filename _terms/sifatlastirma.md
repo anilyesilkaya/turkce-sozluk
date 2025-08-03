@@ -2,6 +2,7 @@
 layout: term
 title: sıfatlaştırma
 slug: sifatlastirma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıfatlaştırmak işi

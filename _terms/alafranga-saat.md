@@ -2,6 +2,7 @@
 layout: term
 title: alafranga saat
 slug: alafranga-saat
+letter: A
 lisan: Türkçe
 anlamlar:
 - Türkiye’de 1910 yılından sonra kullanılmaya başlanan, bir günü 24 saat sayarak gün başlangıcı olarak gece yarısını esas alıp 12:00’yi gösterecek biçimde ayarlanmış saat sistemi; vasati saat, alaturka saat, ezani saat karşıtı

@@ -2,6 +2,7 @@
 layout: term
 title: hezeyan etmek
 slug: hezeyan-etmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - saçmalamak

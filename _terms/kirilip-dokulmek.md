@@ -2,6 +2,7 @@
 layout: term
 title: kırılıp dökülmek
 slug: kirilip-dokulmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - kibar görünmeye çalışmak

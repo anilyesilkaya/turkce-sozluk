@@ -2,6 +2,7 @@
 layout: term
 title: itişme
 slug: itisme
+letter: I
 lisan: Türkçe
 anlamlar:
 - İtişmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: sığınmak
 slug: siginmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Tehlikelerden kaçarak güvenilir bir yere çekilmek

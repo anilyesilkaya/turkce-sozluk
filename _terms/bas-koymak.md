@@ -2,6 +2,7 @@
 layout: term
 title: baş koymak
 slug: bas-koymak
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir şey uğruna ölümü göze almak

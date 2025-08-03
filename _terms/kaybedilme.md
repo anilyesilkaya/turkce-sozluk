@@ -2,6 +2,7 @@
 layout: term
 title: kaybedilme
 slug: kaybedilme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaybedilmek işi

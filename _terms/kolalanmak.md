@@ -2,6 +2,7 @@
 layout: term
 title: kolalanmak
 slug: kolalanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kolalama işi yapılmak veya kolalama işine konu olmak

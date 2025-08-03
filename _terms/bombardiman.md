@@ -2,6 +2,7 @@
 layout: term
 title: bombardıman
 slug: bombardiman
+letter: B
 lisan: Fransızca bombardement
 anlamlar:
 - Topa tutma

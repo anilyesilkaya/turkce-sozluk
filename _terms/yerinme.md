@@ -2,6 +2,7 @@
 layout: term
 title: yerinme
 slug: yerinme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yerinmek işi; esef

@@ -2,6 +2,7 @@
 layout: term
 title: çalkalama
 slug: calkalama
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çalkalamak işi; çalkama

@@ -2,6 +2,7 @@
 layout: term
 title: ihbar
 slug: ihbar
+letter: I
 lisan: Arapça iḫbār
 anlamlar:
 - Bildirme, bildirim, haber verme

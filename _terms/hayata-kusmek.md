@@ -2,6 +2,7 @@
 layout: term
 title: hayata küsmek
 slug: hayata-kusmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - bezgin, kötümser olmak, yaşama isteğini yitirmek

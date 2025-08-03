@@ -2,6 +2,7 @@
 layout: term
 title: polimer
 slug: polimer
+letter: P
 lisan: Fransızca polymère
 anlamlar:
 - Aynı yapıda iki veya daha fazla molekülün birbirine eklenmesiyle meydana gelen (madde)

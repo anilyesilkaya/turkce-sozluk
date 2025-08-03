@@ -2,6 +2,7 @@
 layout: term
 title: teamül hukuku
 slug: teamul-hukuku
+letter: T
 lisan: Türkçe
 anlamlar:
 - Örf ve âdete dayanan hukuk

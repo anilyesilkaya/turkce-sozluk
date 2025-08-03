@@ -2,6 +2,7 @@
 layout: term
 title: bir ara
 slug: bir-ara
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kısa bir süre; bir aralık

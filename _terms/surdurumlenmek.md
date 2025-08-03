@@ -2,6 +2,7 @@
 layout: term
 title: sürdürümlenmek
 slug: surdurumlenmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Abone olmak

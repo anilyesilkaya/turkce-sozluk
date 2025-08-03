@@ -2,6 +2,7 @@
 layout: term
 title: lazımlık
 slug: lazimlik
+letter: L
 lisan: Türkçe
 anlamlar:
 - ► ördek

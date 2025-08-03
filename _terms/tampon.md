@@ -2,6 +2,7 @@
 layout: term
 title: tampon
 slug: tampon
+letter: T
 lisan: Fransızca tampon
 anlamlar:
 - Bir deliği kapamaya yarayan, herhangi bir maddeden yapılmış büyük tıkaç

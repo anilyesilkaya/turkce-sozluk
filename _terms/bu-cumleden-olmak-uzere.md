@@ -2,6 +2,7 @@
 layout: term
 title: bu cümleden olmak üzere
 slug: bu-cumleden-olmak-uzere
+letter: B
 lisan: Türkçe
 anlamlar:
 - bu cümleden hareketle, anlatılanlara dayanarak

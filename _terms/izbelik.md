@@ -2,6 +2,7 @@
 layout: term
 title: izbelik
 slug: izbelik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İzbe yer

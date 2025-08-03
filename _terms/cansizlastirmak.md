@@ -2,6 +2,7 @@
 layout: term
 title: cansızlaştırmak
 slug: cansizlastirmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cansız duruma getirmek

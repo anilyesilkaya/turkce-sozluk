@@ -2,6 +2,7 @@
 layout: term
 title: yalvar yakar olmak
 slug: yalvar-yakar-olmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - çok yalvarmak

@@ -2,6 +2,7 @@
 layout: term
 title: katışma
 slug: katisma
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► katılma

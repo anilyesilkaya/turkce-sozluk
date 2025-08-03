@@ -2,6 +2,7 @@
 layout: term
 title: çöl
 slug: col
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Kumluk, susuz ve ıssız geniş arazi; sahra, beyaban, badiye

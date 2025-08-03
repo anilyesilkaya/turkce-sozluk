@@ -2,6 +2,7 @@
 layout: term
 title: niyetsiz
 slug: niyetsiz
+letter: N
 lisan: Türkçe
 anlamlar:
 - Niyeti olmayan, niyet etmeyen

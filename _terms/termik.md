@@ -2,6 +2,7 @@
 layout: term
 title: termik
 slug: termik
+letter: T
 lisan: Fransızca thermique
 anlamlar:
 - ► ısıl

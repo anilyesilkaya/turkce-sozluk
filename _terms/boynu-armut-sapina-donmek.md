@@ -2,6 +2,7 @@
 layout: term
 title: boynu armut sapına dönmek
 slug: boynu-armut-sapina-donmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - çok zayıflamak

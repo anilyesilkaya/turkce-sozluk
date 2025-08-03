@@ -2,6 +2,7 @@
 layout: term
 title: süssüz
 slug: sussuz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Süsü olmayan, süslenmemiş; yalın (II), sade

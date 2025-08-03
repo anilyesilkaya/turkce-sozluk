@@ -2,6 +2,7 @@
 layout: term
 title: dokunum
 slug: dokunum
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çevremizdeki nesnelerin sıcaklık, soğukluk, sertlik, yumuşaklık vb. niteliklerini derimiz aracılığıyla bildiren duyarlık yeteneği; lamise

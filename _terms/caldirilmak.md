@@ -2,6 +2,7 @@
 layout: term
 title: çaldırılmak
 slug: caldirilmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çalma işi yaptırılmak

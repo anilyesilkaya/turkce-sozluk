@@ -2,6 +2,7 @@
 layout: term
 title: tarihen
 slug: tarihen
+letter: T
 lisan: Arapça tārīḫen
 anlamlar:
 - Tarih bakımından, tarihe göre

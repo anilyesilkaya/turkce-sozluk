@@ -2,6 +2,7 @@
 layout: term
 title: vizon
 slug: vizon
+letter: V
 lisan: Fransızca vison
 anlamlar:
 - Sansargillerden, kürkü çok beğenilen bir tür memeli; mink (Mustela vison)

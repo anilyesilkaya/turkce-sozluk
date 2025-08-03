@@ -2,6 +2,7 @@
 layout: term
 title: 'odontoliz '
 slug: odontoliz
+letter: O
 lisan: Fransızca odontolyse
 anlamlar:
 - Dişlerin eriyerek kaybolması

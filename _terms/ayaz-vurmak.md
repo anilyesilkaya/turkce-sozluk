@@ -2,6 +2,7 @@
 layout: term
 title: ayaz vurmak
 slug: ayaz-vurmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - sebze ve meyveler donmak

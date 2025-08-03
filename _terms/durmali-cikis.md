@@ -2,6 +2,7 @@
 layout: term
 title: durmalı çıkış
 slug: durmali-cikis
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bisiklet yarışlarında bir yardımcının kol itişiyle yapılan çıkış

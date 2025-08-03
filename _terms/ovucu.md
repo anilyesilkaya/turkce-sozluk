@@ -2,6 +2,7 @@
 layout: term
 title: övücü
 slug: ovucu
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► övgücü

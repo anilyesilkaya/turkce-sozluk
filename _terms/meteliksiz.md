@@ -2,6 +2,7 @@
 layout: term
 title: meteliksiz
 slug: meteliksiz
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► züğürt

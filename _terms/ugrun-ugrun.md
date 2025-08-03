@@ -2,6 +2,7 @@
 layout: term
 title: uğrun uğrun
 slug: ugrun-ugrun
+letter: U
 lisan: Türkçe
 anlamlar:
 - Gizli olarak

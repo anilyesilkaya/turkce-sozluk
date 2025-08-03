@@ -2,6 +2,7 @@
 layout: term
 title: tıpalamak
 slug: tipalamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► tapalamak

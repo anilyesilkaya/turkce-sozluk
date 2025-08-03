@@ -2,6 +2,7 @@
 layout: term
 title: içine çekmek
 slug: icine-cekmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - soluk almak

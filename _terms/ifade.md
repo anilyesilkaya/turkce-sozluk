@@ -2,6 +2,7 @@
 layout: term
 title: ifade
 slug: ifade
+letter: I
 lisan: Arapça ifāde
 anlamlar:
 - ► anlatım

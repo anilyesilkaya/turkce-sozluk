@@ -2,6 +2,7 @@
 layout: term
 title: aslına bakarsan
 slug: aslina-bakarsan
+letter: A
 lisan: Türkçe
 anlamlar:
 - '"doğruyu, gerçeği ararsan" anlamında kullanılan bir söz'

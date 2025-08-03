@@ -2,6 +2,7 @@
 layout: term
 title: aslı faslı olmamak
 slug: asli-fasli-olmamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - gerçekliği, doğruluğu bulunmamak

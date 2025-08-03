@@ -2,6 +2,7 @@
 layout: term
 title: asaleten atama
 slug: asaleten-atama
+letter: A
 lisan: Türkçe
 anlamlar:
 - Asaleten atamak işi

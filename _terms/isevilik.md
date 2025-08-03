@@ -2,6 +2,7 @@
 layout: term
 title: İsevilik
 slug: isevilik
+letter: İ
 lisan: Türkçe
 anlamlar:
 - ► Hristiyanlık

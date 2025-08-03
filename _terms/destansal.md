@@ -2,6 +2,7 @@
 layout: term
 title: destansal
 slug: destansal
+letter: D
 lisan: Türkçe
 anlamlar:
 - Destanla ilgili, destana özgü

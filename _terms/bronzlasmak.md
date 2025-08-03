@@ -2,6 +2,7 @@
 layout: term
 title: bronzlaşmak
 slug: bronzlasmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Güneşte yanarak bronz rengini almak

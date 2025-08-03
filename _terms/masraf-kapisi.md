@@ -2,6 +2,7 @@
 layout: term
 title: masraf kapısı
 slug: masraf-kapisi
+letter: M
 lisan: Türkçe
 anlamlar:
 - Para harcamayı gerektiren bir iş

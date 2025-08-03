@@ -2,6 +2,7 @@
 layout: term
 title: ekti
 slug: ekti
+letter: E
 lisan: Türkçe
 anlamlar:
 - Her yiyeceği canı çeken

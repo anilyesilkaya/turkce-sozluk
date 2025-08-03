@@ -2,6 +2,7 @@
 layout: term
 title: göz göz olmak
 slug: goz-goz-olmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - üzerinde birçok göz, delik oluşmak veya bulunmak

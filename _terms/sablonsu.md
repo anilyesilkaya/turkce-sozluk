@@ -2,6 +2,7 @@
 layout: term
 title: şablonsu
 slug: sablonsu
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şablona benzer, şablon gibi

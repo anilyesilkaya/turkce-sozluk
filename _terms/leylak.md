@@ -2,6 +2,7 @@
 layout: term
 title: leylak
 slug: leylak
+letter: L
 lisan: Arapça leylāḳ
 anlamlar:
 - Zeytingillerden, yaprakları karşılıklı bir ağaççık (Syringa vulgaris)

@@ -2,6 +2,7 @@
 layout: term
 title: köycülük
 slug: koyculuk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Köycü olma durumu

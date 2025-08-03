@@ -2,6 +2,7 @@
 layout: term
 title: paleozoik
 slug: paleozoik
+letter: P
 lisan: Fransızca paléozoïque
 anlamlar:
 - ► Birinci Çağ

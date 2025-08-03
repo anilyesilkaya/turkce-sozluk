@@ -2,6 +2,7 @@
 layout: term
 title: borçlu yatırmamak
 slug: borclu-yatirmamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - borçlu ölen bir kimsenin yakınları ölenin borcunu ödemek

@@ -2,6 +2,7 @@
 layout: term
 title: kesinleşmek
 slug: kesinlesmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kesin bir durum almak; katileşmek

@@ -2,6 +2,7 @@
 layout: term
 title: gölge balığı
 slug: golge-baligi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Alabalıkgillerden, uzunluğu 20-50 santimetre, sırt yüzgeci büyük, tatlı su balığı (Thymallus thymallus)

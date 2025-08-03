@@ -2,6 +2,7 @@
 layout: term
 title: kollayış
 slug: kollayis
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kollamak işi

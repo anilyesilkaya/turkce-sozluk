@@ -2,6 +2,7 @@
 layout: term
 title: unutturmak
 slug: unutturmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Unutmasına yol açmak veya unutmasını sağlamak

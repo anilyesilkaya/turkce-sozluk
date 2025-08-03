@@ -2,6 +2,7 @@
 layout: term
 title: eline almak
 slug: eline-almak
+letter: E
 lisan: Türkçe
 anlamlar:
 - bir işin veya yerin yönetimini üstlenmek

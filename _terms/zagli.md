@@ -2,6 +2,7 @@
 layout: term
 title: zağlı
 slug: zagli
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► kılağılı

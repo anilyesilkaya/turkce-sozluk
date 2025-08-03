@@ -2,6 +2,7 @@
 layout: term
 title: ihtiyaç
 slug: ihtiyac
+letter: I
 lisan: Arapça iḥtiyāc
 anlamlar:
 - ► gereksinim

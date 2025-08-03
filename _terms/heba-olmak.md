@@ -2,6 +2,7 @@
 layout: term
 title: heba olmak
 slug: heba-olmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - boşa gitmek, ziyan olmak

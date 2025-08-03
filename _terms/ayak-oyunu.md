@@ -2,6 +2,7 @@
 layout: term
 title: ayak oyunu
 slug: ayak-oyunu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Futbolda karşıdaki oyuncuyu atlatıp geçmek için ayakla yapılan aldatıcı hareket

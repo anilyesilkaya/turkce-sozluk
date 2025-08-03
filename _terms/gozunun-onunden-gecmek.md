@@ -2,6 +2,7 @@
 layout: term
 title: gözünün önünden geçmek
 slug: gozunun-onunden-gecmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - hatırlamak

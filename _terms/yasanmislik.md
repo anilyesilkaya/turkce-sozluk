@@ -2,6 +2,7 @@
 layout: term
 title: yaşanmışlık
 slug: yasanmislik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaşanmış olma durumu

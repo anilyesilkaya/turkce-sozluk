@@ -2,6 +2,7 @@
 layout: term
 title: leğençe
 slug: legence
+letter: L
 lisan: Türkçe
 anlamlar:
 - Küçük leğen

@@ -2,6 +2,7 @@
 layout: term
 title: çıraklık
 slug: ciraklik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çırak olma durumu

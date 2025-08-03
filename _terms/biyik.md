@@ -2,6 +2,7 @@
 layout: term
 title: bıyık
 slug: biyik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Üst dudak üzerinde çıkan kıllar

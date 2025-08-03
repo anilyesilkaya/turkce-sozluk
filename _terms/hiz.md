@@ -2,6 +2,7 @@
 layout: term
 title: hız
 slug: hiz
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hareketteki çabukluk; sürat

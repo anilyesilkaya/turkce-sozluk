@@ -2,6 +2,7 @@
 layout: term
 title: bitimsizlik
 slug: bitimsizlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► sonsuzluk

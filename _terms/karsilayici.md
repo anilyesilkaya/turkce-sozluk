@@ -2,6 +2,7 @@
 layout: term
 title: karşılayıcı
 slug: karsilayici
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karşılama işini yapan kimse

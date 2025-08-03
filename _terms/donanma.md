@@ -2,6 +2,7 @@
 layout: term
 title: donanma
 slug: donanma
+letter: D
 lisan: Türkçe
 anlamlar:
 - Donanmak işi

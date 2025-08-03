@@ -2,6 +2,7 @@
 layout: term
 title: vurucu güç
 slug: vurucu-guc
+letter: V
 lisan: Türkçe
 anlamlar:
 - Silah gücü yüksek, özel eğitim görmüş askerî birlik; vurucu tim

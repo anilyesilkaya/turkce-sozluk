@@ -2,6 +2,7 @@
 layout: term
 title: Eskimo
 slug: eskimo
+letter: E
 lisan: Türkçe
 anlamlar:
 - Kuzey Kutbu'nda yaşayan toplulukların adı

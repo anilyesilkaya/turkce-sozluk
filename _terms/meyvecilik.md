@@ -2,6 +2,7 @@
 layout: term
 title: meyvecilik
 slug: meyvecilik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Meyve yetiştirme işi

@@ -2,6 +2,7 @@
 layout: term
 title: sağır nun
 slug: sagir-nun
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► sağır kef

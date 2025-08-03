@@ -2,6 +2,7 @@
 layout: term
 title: alan
 slug: alan
+letter: A
 lisan: Türkçe
 anlamlar:
 - Düz, açık ve geniş yer; meydan, saha

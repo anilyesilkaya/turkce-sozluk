@@ -2,6 +2,7 @@
 layout: term
 title: ikindiüstü
 slug: ikindiustu
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► ikindiye doğru

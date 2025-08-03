@@ -2,6 +2,7 @@
 layout: term
 title: tembel teneke
 slug: tembel-teneke
+letter: T
 lisan: Türkçe
 anlamlar:
 - Çalışmakta isteksiz davranan, çok tembel kimse

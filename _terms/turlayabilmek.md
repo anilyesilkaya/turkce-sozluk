@@ -2,6 +2,7 @@
 layout: term
 title: turlayabilmek
 slug: turlayabilmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Turlama ihtimali veya imkânı bulunmak

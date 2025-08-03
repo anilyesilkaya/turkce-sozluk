@@ -2,6 +2,7 @@
 layout: term
 title: acele etmek
 slug: acele-etmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - çabuk davranmak, ivmek

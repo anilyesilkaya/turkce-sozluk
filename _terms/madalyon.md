@@ -2,6 +2,7 @@
 layout: term
 title: madalyon
 slug: madalyon
+letter: M
 lisan: Fransızca médaillon
 anlamlar:
 - Boyna zincirle takılan, genellikle değerli metalden yapılmış, içine küçük resim gibi şeyler konulan, türlü biçimde süs eşyası

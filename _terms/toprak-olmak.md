@@ -2,6 +2,7 @@
 layout: term
 title: toprak olmak
 slug: toprak-olmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - ölümünün üzerinden çok zaman geçtiği için artık çürümüş olmak, toprağa karışmış olmak

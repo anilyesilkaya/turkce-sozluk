@@ -2,6 +2,7 @@
 layout: term
 title: fersah fersah
 slug: fersah-fersah
+letter: F
 lisan: Türkçe
 anlamlar:
 - Çok, pek çok

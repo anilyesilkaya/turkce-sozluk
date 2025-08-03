@@ -2,6 +2,7 @@
 layout: term
 title: harika
 slug: harika
+letter: H
 lisan: Arapça ḫāriḳa
 anlamlar:
 - Yaradılışın ve imkânların üstünde nitelikleriyle insanda hayranlık uyandıran

@@ -2,6 +2,7 @@
 layout: term
 title: taret
 slug: taret
+letter: T
 lisan: İngilizce turret
 anlamlar:
 - Gemilerde veya kalelerde, topçu mevzilerinde topun makine bölümünü ve topçuları koruyacak biçimde yapılmış zırhlı kule

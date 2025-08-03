@@ -2,6 +2,7 @@
 layout: term
 title: arz odası
 slug: arz-odasi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Devlet ileri gelenlerinin halkla görüştüğü oda

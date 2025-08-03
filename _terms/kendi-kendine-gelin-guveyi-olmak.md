@@ -2,6 +2,7 @@
 layout: term
 title: kendi kendine gelin güveyi olmak
 slug: kendi-kendine-gelin-guveyi-olmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - ilgilinin nasıl karşılayacağını düşünmeden bir işi olmuş bitmiş sayarak sevinmek

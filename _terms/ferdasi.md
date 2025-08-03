@@ -2,6 +2,7 @@
 layout: term
 title: ferdası
 slug: ferdasi
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► ertesi

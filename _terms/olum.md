@@ -2,6 +2,7 @@
 layout: term
 title: ölüm
 slug: olum
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Bir insan hayatının tam ve kesin olarak sona ermesi; ahiret yolculuğu, son, ebedî uyku, son yolculuk, emrihak, irtihal, memat, mevt, vefat

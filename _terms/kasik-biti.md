@@ -2,6 +2,7 @@
 layout: term
 title: kasık biti
 slug: kasik-biti
+letter: K
 lisan: Türkçe
 anlamlar:
 - Genellikle üreme organları çevresindeki kıl diplerinde yerleşen bir tür bit; kırkayak (Phthirus pubis)

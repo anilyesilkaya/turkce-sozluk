@@ -2,6 +2,7 @@
 layout: term
 title: nakışlamak
 slug: nakislamak
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nakışla bezemek; işlemek

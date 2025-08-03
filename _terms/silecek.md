@@ -2,6 +2,7 @@
 layout: term
 title: silecek
 slug: silecek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Motorlu taşıtlarda ön camı silmeye, temizlemeye yarayan alet; silgeç, silgiç

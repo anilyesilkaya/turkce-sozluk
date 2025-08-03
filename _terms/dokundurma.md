@@ -2,6 +2,7 @@
 layout: term
 title: dokundurma
 slug: dokundurma
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dokundurmak işi

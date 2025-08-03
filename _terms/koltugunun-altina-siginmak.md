@@ -2,6 +2,7 @@
 layout: term
 title: koltuğunun altına sığınmak
 slug: koltugunun-altina-siginmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - birinin koruyuculuğuna sığınmak

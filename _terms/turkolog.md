@@ -2,6 +2,7 @@
 layout: term
 title: Türkolog
 slug: turkolog
+letter: T
 lisan: Fransızca turcologue
 anlamlar:
 - ► Türklük bilimci

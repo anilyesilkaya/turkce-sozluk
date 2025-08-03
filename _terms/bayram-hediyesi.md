@@ -2,6 +2,7 @@
 layout: term
 title: bayram hediyesi
 slug: bayram-hediyesi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bayram günlerinde verilen armağan

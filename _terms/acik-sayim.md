@@ -2,6 +2,7 @@
 layout: term
 title: açık sayım
 slug: acik-sayim
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir seçim sonunda verilen oyların açık olarak sayılması; aleni tadat

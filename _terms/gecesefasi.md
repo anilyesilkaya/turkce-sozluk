@@ -2,6 +2,7 @@
 layout: term
 title: gecesefası
 slug: gecesefasi
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► akşamsefası

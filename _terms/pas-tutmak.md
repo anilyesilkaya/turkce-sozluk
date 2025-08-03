@@ -2,6 +2,7 @@
 layout: term
 title: pas tutmak
 slug: pas-tutmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - paslı duruma gelmek, paslanmak

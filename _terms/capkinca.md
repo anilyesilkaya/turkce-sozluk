@@ -2,6 +2,7 @@
 layout: term
 title: çapkınca
 slug: capkinca
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çapkına benzer bir biçimde

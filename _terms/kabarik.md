@@ -2,6 +2,7 @@
 layout: term
 title: kabarık
 slug: kabarik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kabarmış olan

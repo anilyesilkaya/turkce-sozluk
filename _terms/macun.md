@@ -2,6 +2,7 @@
 layout: term
 title: macun
 slug: macun
+letter: M
 lisan: Arapça maʿcūn
 anlamlar:
 - Hamur kıvamına getirilmiş madde

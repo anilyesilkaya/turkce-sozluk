@@ -2,6 +2,7 @@
 layout: term
 title: empresyonizm
 slug: empresyonizm
+letter: E
 lisan: Fransızca impressionnisme
 anlamlar:
 - ► izlenimcilik

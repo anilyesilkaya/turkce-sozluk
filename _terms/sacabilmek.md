@@ -2,6 +2,7 @@
 layout: term
 title: saçabilmek
 slug: sacabilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Saçma ihtimali veya imkânı bulunmak

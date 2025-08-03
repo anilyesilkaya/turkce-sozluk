@@ -2,6 +2,7 @@
 layout: term
 title: allamak pullamak
 slug: allamak-pullamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir şeyi, bir yeri süslemek, donatmak

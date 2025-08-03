@@ -2,6 +2,7 @@
 layout: term
 title: hevesi kursağında (veya boğazında veya içinde) kalmak
 slug: hevesi-kursaginda-veya-bogazinda-veya-icinde-kalmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - istediği, imrendiği şeyi elde edememek

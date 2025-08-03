@@ -2,6 +2,7 @@
 layout: term
 title: kemiyet
 slug: kemiyet
+letter: K
 lisan: Arapça kemmiyyet
 anlamlar:
 - ► nicelik

@@ -2,6 +2,7 @@
 layout: term
 title: sütun
 slug: sutun
+letter: S
 lisan: Farsça sutūn
 anlamlar:
 - Herhangi bir maddeden yapılan, zaman zaman üstünde çıkıntılı bir bölüm olan, genellikle bir altlığa, bazen doğrudan doğruya yere dayalı silindir biçiminde düşey destek; direk, üstüvane, kolon (I)

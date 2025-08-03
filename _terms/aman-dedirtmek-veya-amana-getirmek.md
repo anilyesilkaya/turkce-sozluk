@@ -2,6 +2,7 @@
 layout: term
 title: aman dedirtmek (veya amana getirmek)
 slug: aman-dedirtmek-veya-amana-getirmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - karşı koyan birini boyun eğmek zorunda bırakmak, zor durumda bırakmak

@@ -2,6 +2,7 @@
 layout: term
 title: mahcup çıkarmamak
 slug: mahcup-cikarmamak
+letter: M
 lisan: Türkçe
 anlamlar:
 - utandırmamak

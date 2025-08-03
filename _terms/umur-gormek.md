@@ -2,6 +2,7 @@
 layout: term
 title: umur görmek
 slug: umur-gormek
+letter: U
 lisan: Türkçe
 anlamlar:
 - önemli görevlerde bulunmak

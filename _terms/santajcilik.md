@@ -2,6 +2,7 @@
 layout: term
 title: şantajcılık
 slug: santajcilik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şantajcı olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: özezerlik
 slug: ozezerlik
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Fiziksel acı veya aşağılatıcı davranışlarla doyuma ulaşma biçiminde beliren cinsel sapkınlık; mazoşizm

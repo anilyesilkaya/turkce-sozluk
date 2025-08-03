@@ -2,6 +2,7 @@
 layout: term
 title: kanunsuz
 slug: kanunsuz
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► yasasız

@@ -2,6 +2,7 @@
 layout: term
 title: kapalı olmak
 slug: kapali-olmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - iş yapmamak

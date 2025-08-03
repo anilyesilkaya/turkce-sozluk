@@ -2,6 +2,7 @@
 layout: term
 title: kurdunu (veya kurtlarını) dökmek (veya kırmak)
 slug: kurdunu-veya-kurtlarini-dokmek-veya-kirmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - çoktan beri özlediği bir şeyi bol bol yapıp hevesini almak

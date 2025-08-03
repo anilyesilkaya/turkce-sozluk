@@ -2,6 +2,7 @@
 layout: term
 title: şike yapmak
 slug: sike-yapmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - danışık spor karşılaşması yapmak

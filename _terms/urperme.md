@@ -2,6 +2,7 @@
 layout: term
 title: ürperme
 slug: urperme
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Ürpermek işi

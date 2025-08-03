@@ -2,6 +2,7 @@
 layout: term
 title: hazımlı
 slug: hazimli
+letter: H
 lisan: Türkçe
 anlamlar:
 - Yersiz davranışlara, dokunaklı sözlere aldırmayan, içi geniş (kimse)

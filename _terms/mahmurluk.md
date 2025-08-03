@@ -2,6 +2,7 @@
 layout: term
 title: mahmurluk
 slug: mahmurluk
+letter: M
 lisan: Türkçe
 anlamlar:
 - İçki içmiş bir kimsenin duyduğu baş ağrısı ve sersemlik; ayıltı

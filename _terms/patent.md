@@ -2,6 +2,7 @@
 layout: term
 title: patent
 slug: patent
+letter: P
 lisan: Fransızca patente
 anlamlar:
 - ► buluş belgesi

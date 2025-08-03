@@ -2,6 +2,7 @@
 layout: term
 title: göz yoklaması
 slug: goz-yoklamasi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Başkalarının dikkati birinin üzerinde olma, göz hapsinde tutulma

@@ -2,6 +2,7 @@
 layout: term
 title: ihmalcilik
 slug: ihmalcilik
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► ihmalkârlık

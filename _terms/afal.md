@@ -2,6 +2,7 @@
 layout: term
 title: afal
 slug: afal
+letter: A
 lisan: Türkçe
 anlamlar:
 - Şaşkın, dağınık, ne yapacağını bilmez

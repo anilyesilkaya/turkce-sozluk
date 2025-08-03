@@ -2,6 +2,7 @@
 layout: term
 title: yükünü almak
 slug: yukunu-almak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - taşıyabileceği en ağır yükü yüklenmiş olmak

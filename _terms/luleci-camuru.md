@@ -2,6 +2,7 @@
 layout: term
 title: lüleci çamuru
 slug: luleci-camuru
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lüle yapılan özlü ve kızıl balçık

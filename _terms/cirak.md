@@ -2,6 +2,7 @@
 layout: term
 title: çırak
 slug: cirak
+letter: Ç
 lisan: Farsça çerāġ
 anlamlar:
 - Zanaat öğrenmek için bir ustanın yanında çalışan kimse; şakirt

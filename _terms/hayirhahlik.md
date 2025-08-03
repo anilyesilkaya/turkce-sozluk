@@ -2,6 +2,7 @@
 layout: term
 title: hayırhahlık
 slug: hayirhahlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► hayırseverlik

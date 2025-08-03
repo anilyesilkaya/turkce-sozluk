@@ -2,6 +2,7 @@
 layout: term
 title: kanlı gömlek gizlenemez
 slug: kanli-gomlek-gizlenemez
+letter: K
 lisan: Türkçe
 anlamlar:
 - '"bazı kötü şeylerin gizlenmesi mümkün değildir" anlamında kullanılan bir söz'

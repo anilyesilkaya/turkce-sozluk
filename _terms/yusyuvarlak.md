@@ -2,6 +2,7 @@
 layout: term
 title: yusyuvarlak
 slug: yusyuvarlak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Çok yuvarlak

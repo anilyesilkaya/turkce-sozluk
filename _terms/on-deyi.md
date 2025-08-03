@@ -2,6 +2,7 @@
 layout: term
 title: ön deyi
 slug: on-deyi
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► ön söz

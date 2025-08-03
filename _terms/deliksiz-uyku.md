@@ -2,6 +2,7 @@
 layout: term
 title: deliksiz uyku
 slug: deliksiz-uyku
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► derin uyku

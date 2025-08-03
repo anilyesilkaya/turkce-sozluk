@@ -2,6 +2,7 @@
 layout: term
 title: çöl tavuğu
 slug: col-tavugu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çöl tavuğugillerden, çöllerde yaşayan, uzun gövdeli, çarpık bacaklı, kanatları ve kuyrukları sivri, iyi uçan bir tür kuş

@@ -2,6 +2,7 @@
 layout: term
 title: obuacı
 slug: obuaci
+letter: O
 lisan: Türkçe
 anlamlar:
 - Obua çalan kimse

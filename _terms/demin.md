@@ -2,6 +2,7 @@
 layout: term
 title: demin
 slug: demin
+letter: D
 lisan: Türkçe
 anlamlar:
 - Biraz önce; demincek, deminden

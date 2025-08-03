@@ -2,6 +2,7 @@
 layout: term
 title: mektuplaşma
 slug: mektuplasma
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mektuplaşmak işi

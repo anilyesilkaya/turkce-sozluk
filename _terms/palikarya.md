@@ -2,6 +2,7 @@
 layout: term
 title: palikarya
 slug: palikarya
+letter: P
 lisan: Rumca
 anlamlar:
 - Yunan delikanlısı

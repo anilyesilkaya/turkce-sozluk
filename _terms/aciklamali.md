@@ -2,6 +2,7 @@
 layout: term
 title: açıklamalı
 slug: aciklamali
+letter: A
 lisan: Türkçe
 anlamlar:
 - Birtakım açıklamalarla anlaşılması, öğrenilmesi kolaylaştırılmış, izahlı

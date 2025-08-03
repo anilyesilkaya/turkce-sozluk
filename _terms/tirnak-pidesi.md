@@ -2,6 +2,7 @@
 layout: term
 title: tırnak pidesi
 slug: tirnak-pidesi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Üzeri tırnakla çentiklenmiş pide

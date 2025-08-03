@@ -2,6 +2,7 @@
 layout: term
 title: tatlı bela
 slug: tatli-bela
+letter: T
 lisan: Türkçe
 anlamlar:
 - Sevildikleri için verdikleri sıkıntı ve üzüntülere katlanılan kimse; tatlı kaçık

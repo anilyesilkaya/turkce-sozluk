@@ -2,6 +2,7 @@
 layout: term
 title: hain
 slug: hain
+letter: H
 lisan: Arapça ḫāʾin
 anlamlar:
 - Hıyanet eden (kimse); çıyan, mayası bozuk

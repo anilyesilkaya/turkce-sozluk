@@ -2,6 +2,7 @@
 layout: term
 title: Allah rızası için
 slug: allah-rizasi-icin
+letter: A
 lisan: Türkçe
 anlamlar:
 - dilencilerin para isterken söyledikleri yalvarma sözü

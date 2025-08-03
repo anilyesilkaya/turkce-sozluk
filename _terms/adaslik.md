@@ -2,6 +2,7 @@
 layout: term
 title: adaşlık
 slug: adaslik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Adaş olma, aynı adı taşıma durumu

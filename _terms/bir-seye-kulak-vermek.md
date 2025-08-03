@@ -2,6 +2,7 @@
 layout: term
 title: (bir şeye) kulak vermek
 slug: bir-seye-kulak-vermek
+letter: (
 lisan: Türkçe
 anlamlar:
 - değer vermek, önemsemek

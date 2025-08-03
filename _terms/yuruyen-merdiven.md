@@ -2,6 +2,7 @@
 layout: term
 title: yürüyen merdiven
 slug: yuruyen-merdiven
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Basamakları sürekli olarak dönen bir düzenek üzerine yerleştirilmiş, elektrikle çalışan merdiven

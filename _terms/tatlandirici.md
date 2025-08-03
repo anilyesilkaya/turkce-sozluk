@@ -2,6 +2,7 @@
 layout: term
 title: tatlandırıcı
 slug: tatlandirici
+letter: T
 lisan: Türkçe
 anlamlar:
 - Yiyecek ve içeceklere tat vermek için kullanılan (madde)

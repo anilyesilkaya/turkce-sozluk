@@ -2,6 +2,7 @@
 layout: term
 title: öteki beriki
 slug: oteki-beriki
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Olur olmaz kimseler

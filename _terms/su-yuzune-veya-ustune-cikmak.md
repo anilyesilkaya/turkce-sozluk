@@ -2,6 +2,7 @@
 layout: term
 title: su yüzüne (veya üstüne) çıkmak
 slug: su-yuzune-veya-ustune-cikmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - görünür olmak

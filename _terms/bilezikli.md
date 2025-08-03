@@ -2,6 +2,7 @@
 layout: term
 title: bilezikli
 slug: bilezikli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bileziği olan

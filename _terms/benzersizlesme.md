@@ -2,6 +2,7 @@
 layout: term
 title: benzersizleşme
 slug: benzersizlesme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Benzersizleşmek işi

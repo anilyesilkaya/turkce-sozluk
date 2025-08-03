@@ -2,6 +2,7 @@
 layout: term
 title: battaniyesiz
 slug: battaniyesiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Battaniyesi olmayan

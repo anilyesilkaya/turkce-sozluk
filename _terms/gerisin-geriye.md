@@ -2,6 +2,7 @@
 layout: term
 title: gerisin geriye
 slug: gerisin-geriye
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► gerisin geri

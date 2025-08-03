@@ -2,6 +2,7 @@
 layout: term
 title: billurlanma
 slug: billurlanma
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► billurlaşma

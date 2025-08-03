@@ -2,6 +2,7 @@
 layout: term
 title: bedbaht olmak
 slug: bedbaht-olmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - mutsuz olmak

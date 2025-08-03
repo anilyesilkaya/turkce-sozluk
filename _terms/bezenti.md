@@ -2,6 +2,7 @@
 layout: term
 title: bezenti
 slug: bezenti
+letter: B
 lisan: Türkçe
 anlamlar:
 - Herhangi bir şeyi ona uygun nitelikte tamamlayan nesne; garnitür

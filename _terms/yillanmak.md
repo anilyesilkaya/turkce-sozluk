@@ -2,6 +2,7 @@
 layout: term
 title: yıllanmak
 slug: yillanmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Üzerinden bir veya daha çok yıl geçmek

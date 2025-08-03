@@ -2,6 +2,7 @@
 layout: term
 title: bir kolayını aramak
 slug: bir-kolayini-aramak
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir şeyi yapmak, çözmek için gerekli kolay ve kestirme yöntemi araştırmak

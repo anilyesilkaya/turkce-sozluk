@@ -2,6 +2,7 @@
 layout: term
 title: dolapçılık
 slug: dolapcilik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dolapçı olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: hınzırcasına
 slug: hinzircasina
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► hınzırca

@@ -2,6 +2,7 @@
 layout: term
 title: hisse
 slug: hisse
+letter: H
 lisan: Arapça ḥiṣṣe
 anlamlar:
 - ► pay

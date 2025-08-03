@@ -2,6 +2,7 @@
 layout: term
 title: hakikat
 slug: hakikat
+letter: H
 lisan: Arapça ḥaḳīḳat
 anlamlar:
 - ► gerçek

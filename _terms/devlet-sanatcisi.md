@@ -2,6 +2,7 @@
 layout: term
 title: devlet sanatçısı
 slug: devlet-sanatcisi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Sanata olan katkıları ve yaptıkları hizmetler sonucunda bazı sanatçılara devlet tarafından verilen ünvan

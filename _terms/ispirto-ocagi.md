@@ -2,6 +2,7 @@
 layout: term
 title: ispirto ocağı
 slug: ispirto-ocagi
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► ispirtoluk

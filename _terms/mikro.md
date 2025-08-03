@@ -2,6 +2,7 @@
 layout: term
 title: mikro
 slug: mikro
+letter: M
 lisan: Fransızca micro
 anlamlar:
 - Küçük, dar (I), makro karşıtı

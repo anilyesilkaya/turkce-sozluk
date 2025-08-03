@@ -2,6 +2,7 @@
 layout: term
 title: intizamsızlık
 slug: intizamsizlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► karışıklık

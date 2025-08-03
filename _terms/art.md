@@ -2,6 +2,7 @@
 layout: term
 title: art
 slug: art
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► arka

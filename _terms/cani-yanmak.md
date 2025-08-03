@@ -2,6 +2,7 @@
 layout: term
 title: canı yanmak
 slug: cani-yanmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - çok acı duymak

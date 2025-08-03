@@ -2,6 +2,7 @@
 layout: term
 title: hiçleştirme
 slug: hiclestirme
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hiçleştirmek durumu

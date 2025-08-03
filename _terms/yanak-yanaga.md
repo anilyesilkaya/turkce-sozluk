@@ -2,6 +2,7 @@
 layout: term
 title: yanak yanağa
 slug: yanak-yanaga
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yanakları birbirine değecek kadar yakın olarak

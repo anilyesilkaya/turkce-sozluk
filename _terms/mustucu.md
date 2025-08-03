@@ -2,6 +2,7 @@
 layout: term
 title: muştucu
 slug: mustucu
+letter: M
 lisan: Türkçe
 anlamlar:
 - Muştu getiren kimse; savacı, müjdeci

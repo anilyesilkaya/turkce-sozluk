@@ -2,6 +2,7 @@
 layout: term
 title: maestro
 slug: maestro
+letter: M
 lisan: İtalyanca maestro
 anlamlar:
 - ► orkestra şefi

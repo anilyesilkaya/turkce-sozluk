@@ -2,6 +2,7 @@
 layout: term
 title: ezgin
 slug: ezgin
+letter: E
 lisan: Türkçe
 anlamlar:
 - Paraca durumu bozuk olan (kimse)

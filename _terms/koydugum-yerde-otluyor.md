@@ -2,6 +2,7 @@
 layout: term
 title: koyduğum yerde otluyor
 slug: koydugum-yerde-otluyor
+letter: K
 lisan: Türkçe
 anlamlar:
 - '"benim öğrettiklerimle kalmış yeni hiçbir şey öğrenmemiş" anlamında kullanılan bir söz'

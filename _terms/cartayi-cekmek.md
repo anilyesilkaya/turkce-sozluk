@@ -2,6 +2,7 @@
 layout: term
 title: cartayı çekmek
 slug: cartayi-cekmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - ölmek

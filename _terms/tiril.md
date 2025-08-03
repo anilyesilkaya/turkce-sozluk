@@ -2,6 +2,7 @@
 layout: term
 title: tırıl
 slug: tiril
+letter: T
 lisan: Türkçe
 anlamlar:
 - Çıplak ve zayıf

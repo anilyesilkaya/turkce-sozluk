@@ -2,6 +2,7 @@
 layout: term
 title: seksen kapının ipini çekmek
 slug: seksen-kapinin-ipini-cekmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - içinde bulunduğu sorunu çözmek için kapı kapı dolaşmak, birçok yere uğramak

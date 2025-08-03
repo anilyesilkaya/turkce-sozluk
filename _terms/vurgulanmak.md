@@ -2,6 +2,7 @@
 layout: term
 title: vurgulanmak
 slug: vurgulanmak
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vurgulama işi yapılmak

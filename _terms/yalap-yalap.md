@@ -2,6 +2,7 @@
 layout: term
 title: yalap yalap
 slug: yalap-yalap
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Parıldayarak

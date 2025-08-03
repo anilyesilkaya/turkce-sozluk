@@ -2,6 +2,7 @@
 layout: term
 title: erkence
 slug: erkence
+letter: E
 lisan: Türkçe
 anlamlar:
 - Oldukça erken

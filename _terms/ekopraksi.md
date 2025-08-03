@@ -2,6 +2,7 @@
 layout: term
 title: ekopraksi
 slug: ekopraksi
+letter: E
 lisan: Fransızca échopraxie
 anlamlar:
 - ► yansıca

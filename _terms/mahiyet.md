@@ -2,6 +2,7 @@
 layout: term
 title: mahiyet
 slug: mahiyet
+letter: M
 lisan: Arapça māhiyyet
 anlamlar:
 - Nitelik, öz, asıl, esas; özlük, vasıf

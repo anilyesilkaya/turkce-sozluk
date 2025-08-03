@@ -2,6 +2,7 @@
 layout: term
 title: uğurluluk
 slug: ugurluluk
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uğurlu olma durumu; meymenetlilik

@@ -2,6 +2,7 @@
 layout: term
 title: akla hayale gelmemek
 slug: akla-hayale-gelmemek
+letter: A
 lisan: Türkçe
 anlamlar:
 - inanılmamak

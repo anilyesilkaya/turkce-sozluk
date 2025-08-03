@@ -2,6 +2,7 @@
 layout: term
 title: serilip serpilmek
 slug: serilip-serpilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - rahat bir biçimde yatmak

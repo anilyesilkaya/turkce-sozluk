@@ -2,6 +2,7 @@
 layout: term
 title: cahilce
 slug: cahilce
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► bilgisizce

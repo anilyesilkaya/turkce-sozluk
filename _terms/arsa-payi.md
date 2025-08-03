@@ -2,6 +2,7 @@
 layout: term
 title: arsa payı
 slug: arsa-payi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kat mülkiyeti söz konusu olduğu yerlerde bağımsız bölümlere tahsis edilen mülkiyet payı

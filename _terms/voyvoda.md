@@ -2,6 +2,7 @@
 layout: term
 title: voyvoda
 slug: voyvoda
+letter: V
 lisan: Sırpça
 anlamlar:
 - Osmanlı Devleti’nde Eflak, Boğdan ve Erdel beylerine verilen ünvan

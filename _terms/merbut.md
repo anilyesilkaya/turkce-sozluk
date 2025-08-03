@@ -2,6 +2,7 @@
 layout: term
 title: merbut
 slug: merbut
+letter: M
 lisan: Arapça merbūṭ
 anlamlar:
 - Bağlı, bağlanmış

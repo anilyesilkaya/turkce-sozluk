@@ -2,6 +2,7 @@
 layout: term
 title: aforozlamak
 slug: aforozlamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Hristiyanlıkta bir Hristiyan'ın kiliseyle ilgisini kesmek; aforoz etmek

@@ -2,6 +2,7 @@
 layout: term
 title: taşı toprağı altın olmak
 slug: tasi-topragi-altin-olmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - arazisi çok değerli olmak

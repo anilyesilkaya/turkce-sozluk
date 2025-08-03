@@ -2,6 +2,7 @@
 layout: term
 title: intizamsız
 slug: intizamsiz
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► karışık

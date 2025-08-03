@@ -2,6 +2,7 @@
 layout: term
 title: silkindirme
 slug: silkindirme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Silkindirmek işi

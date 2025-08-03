@@ -2,6 +2,7 @@
 layout: term
 title: çağlamak
 slug: caglamak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Su köpürerek ve ses çıkararak coşkun bir biçimde akmak

@@ -2,6 +2,7 @@
 layout: term
 title: zindan etmek
 slug: zindan-etmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - bir yeri yaşanmaz, huzursuz, rahatsız, zevk alınmaz bir duruma getirmek

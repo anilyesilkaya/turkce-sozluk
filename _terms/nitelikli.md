@@ -2,6 +2,7 @@
 layout: term
 title: nitelikli
 slug: nitelikli
+letter: N
 lisan: Türkçe
 anlamlar:
 - Bir şeye ayırt edici özellik veren; vasıflı, muttasıf

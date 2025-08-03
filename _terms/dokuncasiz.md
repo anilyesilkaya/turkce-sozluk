@@ -2,6 +2,7 @@
 layout: term
 title: dokuncasız
 slug: dokuncasiz
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► zararsız

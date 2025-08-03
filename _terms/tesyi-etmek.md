@@ -2,6 +2,7 @@
 layout: term
 title: teşyi etmek
 slug: tesyi-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - uğurlamak, geçirmek

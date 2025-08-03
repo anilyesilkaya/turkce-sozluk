@@ -2,6 +2,7 @@
 layout: term
 title: yüzükoyun
 slug: yuzukoyun
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yüzüstü

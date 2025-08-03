@@ -2,6 +2,7 @@
 layout: term
 title: nevbahar
 slug: nevbahar
+letter: N
 lisan: Farsça nev + bahār
 anlamlar:
 - ► ilkbahar

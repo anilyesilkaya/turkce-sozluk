@@ -2,6 +2,7 @@
 layout: term
 title: patavatsızca
 slug: patavatsizca
+letter: P
 lisan: Türkçe
 anlamlar:
 - Patavatsız bir biçimde

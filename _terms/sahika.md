@@ -2,6 +2,7 @@
 layout: term
 title: şahika
 slug: sahika
+letter: Ş
 lisan: Arapça şāhiḳa
 anlamlar:
 - ► doruk

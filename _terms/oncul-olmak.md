@@ -2,6 +2,7 @@
 layout: term
 title: öncül olmak
 slug: oncul-olmak
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - kılavuzluk, öncülük etmek

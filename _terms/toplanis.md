@@ -2,6 +2,7 @@
 layout: term
 title: toplanış
 slug: toplanis
+letter: T
 lisan: Türkçe
 anlamlar:
 - Toplanmak işi

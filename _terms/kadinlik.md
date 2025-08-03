@@ -2,6 +2,7 @@
 layout: term
 title: kadınlık
 slug: kadinlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kadın olma durumu

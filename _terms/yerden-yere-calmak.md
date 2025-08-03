@@ -2,6 +2,7 @@
 layout: term
 title: yerden yere çalmak
 slug: yerden-yere-calmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - çok hırpalamak

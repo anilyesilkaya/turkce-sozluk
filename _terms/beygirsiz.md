@@ -2,6 +2,7 @@
 layout: term
 title: beygirsiz
 slug: beygirsiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beygiri olmayan

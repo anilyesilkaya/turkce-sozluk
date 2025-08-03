@@ -2,6 +2,7 @@
 layout: term
 title: rehin almak
 slug: rehin-almak
+letter: R
 lisan: Türkçe
 anlamlar:
 - bir anlaşma, sözleşme veya isteğin yerine getirilmesini sağlamak için bir kimseyi alıkoymak

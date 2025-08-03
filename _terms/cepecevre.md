@@ -2,6 +2,7 @@
 layout: term
 title: çepeçevre
 slug: cepecevre
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bütün yanlarını kuşatan; çepçevre

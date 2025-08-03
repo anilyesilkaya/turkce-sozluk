@@ -2,6 +2,7 @@
 layout: term
 title: dakika
 slug: dakika
+letter: D
 lisan: Arapça daḳīḳa
 anlamlar:
 - Bir saatlik zamanın altmışta biri

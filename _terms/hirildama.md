@@ -2,6 +2,7 @@
 layout: term
 title: hırıldama
 slug: hirildama
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hırıldamak işi

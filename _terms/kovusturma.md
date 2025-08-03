@@ -2,6 +2,7 @@
 layout: term
 title: kovuşturma
 slug: kovusturma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kovuşturmak işi; takibat, takip

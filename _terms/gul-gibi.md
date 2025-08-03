@@ -2,6 +2,7 @@
 layout: term
 title: gül gibi
 slug: gul-gibi
+letter: G
 lisan: Türkçe
 anlamlar:
 - çok iyi, çok güzel

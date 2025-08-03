@@ -2,6 +2,7 @@
 layout: term
 title: şakayık
 slug: sakayik
+letter: Ş
 lisan: Arapça şaḳāʾiḳ
 anlamlar:
 - Düğün çiçeğigillerden, çiçekleri türlü renkte, çok yıllık güzel bir süs bitkisi (Paeonia mascula)

@@ -2,6 +2,7 @@
 layout: term
 title: saraka
 slug: saraka
+letter: S
 lisan: Yunanca
 anlamlar:
 - Üstü kapalı alay etme, laf dokundurma

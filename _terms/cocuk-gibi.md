@@ -2,6 +2,7 @@
 layout: term
 title: çocuk gibi
 slug: cocuk-gibi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - yetenekleri gelişmemiş, çocuk kalmış

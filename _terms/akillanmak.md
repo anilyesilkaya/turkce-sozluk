@@ -2,6 +2,7 @@
 layout: term
 title: akıllanmak
 slug: akillanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Doğruyu yanlıştan, iyiyi kötüden ayırt edebilecek durumda olmak, edindiği deneyimlerden ders alarak, gerçeği iyi görerek olması gerektiği gibi doğru ve tedbirli hareket edebilmek

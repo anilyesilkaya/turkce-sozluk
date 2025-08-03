@@ -2,6 +2,7 @@
 layout: term
 title: kirtikli
 slug: kirtikli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kenarları girintili çıkıntılı olan

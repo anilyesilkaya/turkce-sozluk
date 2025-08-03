@@ -2,6 +2,7 @@
 layout: term
 title: sakat olmak
 slug: sakat-olmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - sakatlanmak

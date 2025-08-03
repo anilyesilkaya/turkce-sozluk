@@ -2,6 +2,7 @@
 layout: term
 title: yüzünü görmemek
 slug: yuzunu-gormemek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - uzun süre görmemek

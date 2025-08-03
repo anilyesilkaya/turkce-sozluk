@@ -2,6 +2,7 @@
 layout: term
 title: bezek
 slug: bezek
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► süs

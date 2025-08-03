@@ -2,6 +2,7 @@
 layout: term
 title: piknikçi
 slug: piknikci
+letter: P
 lisan: Türkçe
 anlamlar:
 - Piknik yapan kimse

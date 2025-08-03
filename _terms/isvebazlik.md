@@ -2,6 +2,7 @@
 layout: term
 title: işvebazlık
 slug: isvebazlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► cilvelilik

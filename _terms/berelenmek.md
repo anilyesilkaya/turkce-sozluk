@@ -2,6 +2,7 @@
 layout: term
 title: berelenmek
 slug: berelenmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bereli duruma gelmek; bertilmek

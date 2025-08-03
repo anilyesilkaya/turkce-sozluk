@@ -2,6 +2,7 @@
 layout: term
 title: döllemek
 slug: dollemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Erkek gamet bir yumurtacıktaki dişi gametle kaynaşmayı sağlayarak yumurtacığı tam bir hücre durumuna getirmek; tohumlamak, ilkah etmek

@@ -2,6 +2,7 @@
 layout: term
 title: imlemek
 slug: imlemek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İm koymak, imle göstermek

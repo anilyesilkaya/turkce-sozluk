@@ -2,6 +2,7 @@
 layout: term
 title: fitillemek
 slug: fitillemek
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fişek, dinamit vb. patlayıcı maddelerin fitilini ateşlemek

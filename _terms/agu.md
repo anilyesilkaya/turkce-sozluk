@@ -2,6 +2,7 @@
 layout: term
 title: agu
 slug: agu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Süt çocuklarının neşelendikleri zaman çıkardıkları ses

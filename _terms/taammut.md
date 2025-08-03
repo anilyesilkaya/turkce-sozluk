@@ -2,6 +2,7 @@
 layout: term
 title: taammüt
 slug: taammut
+letter: T
 lisan: Arapça taʿammud
 anlamlar:
 - Bir işi veya suçu bile bile, tasarlayarak yapma

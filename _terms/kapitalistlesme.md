@@ -2,6 +2,7 @@
 layout: term
 title: kapitalistleşme
 slug: kapitalistlesme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kapitalistleşmek durumu

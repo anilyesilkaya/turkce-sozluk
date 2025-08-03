@@ -2,6 +2,7 @@
 layout: term
 title: yarma
 slug: yarma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yarmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: yarmak
 slug: yarmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Uzunlamasına bölüp ayırmak; dilmek

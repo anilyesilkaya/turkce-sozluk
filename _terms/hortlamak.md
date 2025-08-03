@@ -2,6 +2,7 @@
 layout: term
 title: hortlamak
 slug: hortlamak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Yanlış bir inanışa göre ölü mezardan çıkmak

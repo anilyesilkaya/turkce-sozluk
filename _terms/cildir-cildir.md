@@ -2,6 +2,7 @@
 layout: term
 title: çıldır çıldır
 slug: cildir-cildir
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Canlı bir biçimde

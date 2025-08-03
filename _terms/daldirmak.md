@@ -2,6 +2,7 @@
 layout: term
 title: daldırmak
 slug: daldirmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dalma işini yaptırmak, dalmasına sebep olmak

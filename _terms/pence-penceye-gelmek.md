@@ -2,6 +2,7 @@
 layout: term
 title: pençe pençeye gelmek
 slug: pence-penceye-gelmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - kıyasıya, öldürürcesine dövüşmek

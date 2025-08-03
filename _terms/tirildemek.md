@@ -2,6 +2,7 @@
 layout: term
 title: tirildemek
 slug: tirildemek
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► titremek

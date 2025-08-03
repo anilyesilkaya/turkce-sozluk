@@ -2,6 +2,7 @@
 layout: term
 title: minarecik
 slug: minarecik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Küçük minare

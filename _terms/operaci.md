@@ -2,6 +2,7 @@
 layout: term
 title: operacı
 slug: operaci
+letter: O
 lisan: Türkçe
 anlamlar:
 - Opera sanatçısı

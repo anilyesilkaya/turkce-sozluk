@@ -2,6 +2,7 @@
 layout: term
 title: balkon
 slug: balkon
+letter: B
 lisan: Fransızca balcon
 anlamlar:
 - Bir yapının genellikle dışarıya doğru çıkmış, çevresi duvar veya parmaklıkla çevrili bölümü

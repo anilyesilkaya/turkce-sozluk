@@ -2,6 +2,7 @@
 layout: term
 title: didona sakallı
 slug: didona-sakalli
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► didon sakallı

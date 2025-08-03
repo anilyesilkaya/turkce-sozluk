@@ -2,6 +2,7 @@
 layout: term
 title: şınav
 slug: sinav
+letter: Ş
 lisan: İngilizce chin-up
 anlamlar:
 - Yüzüstü yere uzanılıp eller omuz açıklığında yere dayalı bir biçimde, ayak parmakları üzerinde, bel ve dizler bükülmeden dirseklerin yukarı aşağı doğru indirilip kaldırılmasıyla yapılan bir beden hareketi

@@ -2,6 +2,7 @@
 layout: term
 title: koşullanmışlık
 slug: kosullanmislik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Koşullanmış olma durumu

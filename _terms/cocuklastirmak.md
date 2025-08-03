@@ -2,6 +2,7 @@
 layout: term
 title: çocuklaştırmak
 slug: cocuklastirmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çocuklaşmasına yol açmak

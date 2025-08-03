@@ -2,6 +2,7 @@
 layout: term
 title: karma tren
 slug: karma-tren
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yolcu vagonlarının arkasında yük vagonları bulunan, bütün istasyon ve duraklarda duran tren

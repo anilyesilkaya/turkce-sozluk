@@ -2,6 +2,7 @@
 layout: term
 title: 'kocamanlaşma '
 slug: kocamanlasma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kocamanlaşmak işi

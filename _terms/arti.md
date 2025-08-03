@@ -2,6 +2,7 @@
 layout: term
 title: artı
 slug: arti
+letter: A
 lisan: Türkçe
 anlamlar:
 - Toplama işleminde + işaretinin adı; zait

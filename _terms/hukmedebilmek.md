@@ -2,6 +2,7 @@
 layout: term
 title: hükmedebilmek
 slug: hukmedebilmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hükmetme ihtimali veya imkânı bulunmak

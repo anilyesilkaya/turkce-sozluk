@@ -2,6 +2,7 @@
 layout: term
 title: cila yağı
 slug: cila-yagi
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cila topunun, cilalanacak yüzeyde kolayca kaymasını sağlayan, asitsiz, renksiz ve reçinesiz ince yağ

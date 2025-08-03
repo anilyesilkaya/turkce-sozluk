@@ -2,6 +2,7 @@
 layout: term
 title: 'kuğurdamak '
 slug: kugurdamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Güvercin, kumru vb. dem çekmek, ötmek

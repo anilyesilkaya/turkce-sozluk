@@ -2,6 +2,7 @@
 layout: term
 title: kültürlü
 slug: kulturlu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kültürü gelişmiş olan

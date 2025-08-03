@@ -2,6 +2,7 @@
 layout: term
 title: küçümencik
 slug: kucumencik
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► küçücük

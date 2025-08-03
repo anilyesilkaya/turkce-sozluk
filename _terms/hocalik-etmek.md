@@ -2,6 +2,7 @@
 layout: term
 title: hocalık etmek
 slug: hocalik-etmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - öğretmenlik yapmak

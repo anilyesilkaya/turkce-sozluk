@@ -2,6 +2,7 @@
 layout: term
 title: şıpır şıpır
 slug: sipir-sipir
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şıpırdayarak

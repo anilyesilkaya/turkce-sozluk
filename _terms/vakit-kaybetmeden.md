@@ -2,6 +2,7 @@
 layout: term
 title: vakit kaybetmeden
 slug: vakit-kaybetmeden
+letter: V
 lisan: Türkçe
 anlamlar:
 - ► çabucak

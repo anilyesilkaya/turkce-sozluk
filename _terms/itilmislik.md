@@ -2,6 +2,7 @@
 layout: term
 title: itilmişlik
 slug: itilmislik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İtilmiş olma durumu

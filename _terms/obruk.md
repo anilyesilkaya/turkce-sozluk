@@ -2,6 +2,7 @@
 layout: term
 title: obruk
 slug: obruk
+letter: O
 lisan: Türkçe
 anlamlar:
 - Yer altı suyunun karbondioksit ile birleşimi sonucu oluşan karbonik asit nedeniyle toprağın çökmesi sonucu oluşan derin çukur

@@ -2,6 +2,7 @@
 layout: term
 title: küstahlık etmek
 slug: kustahlik-etmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - küstahça davranışlarda bulunmak

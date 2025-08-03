@@ -2,6 +2,7 @@
 layout: term
 title: Allah'tan
 slug: allah-tan
+letter: A
 lisan: Türkçe
 anlamlar:
 - iyi ki

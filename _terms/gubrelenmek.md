@@ -2,6 +2,7 @@
 layout: term
 title: gübrelenmek
 slug: gubrelenmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gübre dökülmüş olmak

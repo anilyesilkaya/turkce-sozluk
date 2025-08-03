@@ -2,6 +2,7 @@
 layout: term
 title: yaylacılık
 slug: yaylacilik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaylacı olma durumu

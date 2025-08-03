@@ -2,6 +2,7 @@
 layout: term
 title: edinmek
 slug: edinmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Kendini bir şeye sahip kılmak, bir şeyi elde etmek; iktisap etmek

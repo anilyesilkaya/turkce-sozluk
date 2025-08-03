@@ -2,6 +2,7 @@
 layout: term
 title: uygulanma
 slug: uygulanma
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uygulanmak işi

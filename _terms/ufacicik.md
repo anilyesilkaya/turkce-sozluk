@@ -2,6 +2,7 @@
 layout: term
 title: ufacıcık
 slug: ufacicik
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► küçücük

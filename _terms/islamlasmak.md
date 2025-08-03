@@ -2,6 +2,7 @@
 layout: term
 title: İslamlaşmak
 slug: islamlasmak
+letter: İ
 lisan: Türkçe
 anlamlar:
 - Müslüman olmak

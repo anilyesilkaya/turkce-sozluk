@@ -2,6 +2,7 @@
 layout: term
 title: çıkıkçı
 slug: cikikci
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıkıkları düzelten kimse

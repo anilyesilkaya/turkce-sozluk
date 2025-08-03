@@ -2,6 +2,7 @@
 layout: term
 title: hapishane kaçkını
 slug: hapishane-kackini
+letter: H
 lisan: Türkçe
 anlamlar:
 - Kılık kıyafetine dikkat etmeyen, bakımsız, perişan (kimse)

@@ -2,6 +2,7 @@
 layout: term
 title: eczacılık
 slug: eczacilik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eczacının yaptığı iş; ispençiyari

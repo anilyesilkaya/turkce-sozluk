@@ -2,6 +2,7 @@
 layout: term
 title: çıkış
 slug: cikis
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıkmak işi

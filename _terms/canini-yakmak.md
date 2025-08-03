@@ -2,6 +2,7 @@
 layout: term
 title: canını yakmak
 slug: canini-yakmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - acı verecek bir biçimde cezalandırmak

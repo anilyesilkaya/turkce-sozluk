@@ -2,6 +2,7 @@
 layout: term
 title: şeni
 slug: seni
+letter: Ş
 lisan: Arapça şenīʿ
 anlamlar:
 - Kötü, çirkin, alçakça, utanç verici

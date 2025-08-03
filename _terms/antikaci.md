@@ -2,6 +2,7 @@
 layout: term
 title: antikacı
 slug: antikaci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Antika eşya, eser alan, satan veya toplayan kimse

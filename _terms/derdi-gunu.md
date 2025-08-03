@@ -2,6 +2,7 @@
 layout: term
 title: derdi günü
 slug: derdi-gunu
+letter: D
 lisan: Türkçe
 anlamlar:
 - çok ilgilenilen, üzerinde çok düşünülen, çok önem verilen şey

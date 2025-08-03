@@ -2,6 +2,7 @@
 layout: term
 title: hazırcılık
 slug: hazircilik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hazırcı olma durumu

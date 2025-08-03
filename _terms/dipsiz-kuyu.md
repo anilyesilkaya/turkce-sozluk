@@ -2,6 +2,7 @@
 layout: term
 title: dipsiz kuyu
 slug: dipsiz-kuyu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Sonuç alınmayan

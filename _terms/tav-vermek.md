@@ -2,6 +2,7 @@
 layout: term
 title: tav vermek
 slug: tav-vermek
+letter: T
 lisan: Türkçe
 anlamlar:
 - gereken ve uygun nemi sağlamak

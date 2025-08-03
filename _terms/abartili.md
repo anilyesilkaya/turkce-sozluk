@@ -2,6 +2,7 @@
 layout: term
 title: abartılı
 slug: abartili
+letter: A
 lisan: Türkçe
 anlamlar:
 - Olduğundan fazla gösterilen; abartmalı, mübalağalı

@@ -2,6 +2,7 @@
 layout: term
 title: düdüklemek
 slug: duduklemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Aldatmak, kandırmak

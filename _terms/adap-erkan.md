@@ -2,6 +2,7 @@
 layout: term
 title: adap erkân
 slug: adap-erkan
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► yol yordam

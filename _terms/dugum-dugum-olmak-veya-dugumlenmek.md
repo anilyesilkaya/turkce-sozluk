@@ -2,6 +2,7 @@
 layout: term
 title: düğüm düğüm olmak (veya düğümlenmek)
 slug: dugum-dugum-olmak-veya-dugumlenmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - çok karışık bir duruma gelmek

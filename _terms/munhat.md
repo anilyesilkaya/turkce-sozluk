@@ -2,6 +2,7 @@
 layout: term
 title: münhat
 slug: munhat
+letter: M
 lisan: Arapça munḥaṭṭ
 anlamlar:
 - ► engin (II)

@@ -2,6 +2,7 @@
 layout: term
 title: hastamsı
 slug: hastamsi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hastaya benzer, hasta gibi

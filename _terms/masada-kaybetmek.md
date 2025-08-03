@@ -2,6 +2,7 @@
 layout: term
 title: masada kaybetmek
 slug: masada-kaybetmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - sahip olunan bir hak veya varlığı mahkeme kararı, sözleşme, diplomatik görüşme vb. aracılığıyla kaybetmek

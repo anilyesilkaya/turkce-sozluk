@@ -2,6 +2,7 @@
 layout: term
 title: zapt olunmak
 slug: zapt-olunmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ele geçirilmek

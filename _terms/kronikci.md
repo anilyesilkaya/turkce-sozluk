@@ -2,6 +2,7 @@
 layout: term
 title: kronikçi
 slug: kronikci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kronik yazan kimse

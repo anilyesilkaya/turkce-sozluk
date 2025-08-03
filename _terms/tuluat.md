@@ -2,6 +2,7 @@
 layout: term
 title: tuluat
 slug: tuluat
+letter: T
 lisan: Arapça ṭulūʿāt
 anlamlar:
 - ► doğaçlama

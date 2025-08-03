@@ -2,6 +2,7 @@
 layout: term
 title: arayıcı fişeği
 slug: arayici-fisegi
+letter: A
 lisan: Türkçe
 anlamlar:
 - İşaret vermek için atılan bir tür donanma fişeği

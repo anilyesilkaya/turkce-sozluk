@@ -2,6 +2,7 @@
 layout: term
 title: kavramak
 slug: kavramak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Elle sıkıca tutmak

@@ -2,6 +2,7 @@
 layout: term
 title: meraka sokmak
 slug: meraka-sokmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - meraklandırmak

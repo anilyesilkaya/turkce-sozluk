@@ -2,6 +2,7 @@
 layout: term
 title: hıçkırabilmek
 slug: hickirabilmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hıçkırma ihtimali bulunmak

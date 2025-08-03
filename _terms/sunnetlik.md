@@ -2,6 +2,7 @@
 layout: term
 title: sünnetlik
 slug: sunnetlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sünnet için hazırlanmış olan

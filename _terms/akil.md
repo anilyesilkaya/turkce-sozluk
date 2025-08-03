@@ -2,6 +2,7 @@
 layout: term
 title: akil
 slug: akil
+letter: A
 lisan: Arapça ʿāḳil
 anlamlar:
 - ► akıllı

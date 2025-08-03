@@ -2,6 +2,7 @@
 layout: term
 title: Çemişgezek
 slug: cemisgezek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Tunceli iline bağlı ilçelerden biri

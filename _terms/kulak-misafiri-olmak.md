@@ -2,6 +2,7 @@
 layout: term
 title: kulak misafiri olmak
 slug: kulak-misafiri-olmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - yanında konuşulanları hissettirmeden veya istemeden dinlemek

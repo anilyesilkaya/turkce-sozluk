@@ -2,6 +2,7 @@
 layout: term
 title: kendini sıkmak
 slug: kendini-sikmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kendini zorlamak, çaba göstermek

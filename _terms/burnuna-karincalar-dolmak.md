@@ -2,6 +2,7 @@
 layout: term
 title: burnuna karıncalar dolmak
 slug: burnuna-karincalar-dolmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - ölmek

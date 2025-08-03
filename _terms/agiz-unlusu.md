@@ -2,6 +2,7 @@
 layout: term
 title: ağız ünlüsü
 slug: agiz-unlusu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Boğumlanma yeri ağız olan ve akciğerlerden gelen havanın geniz yoluna kaymadan ağız boşluğundan geçmesi ile oluşan ünlü; ağızsıl ünlü

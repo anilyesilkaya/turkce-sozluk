@@ -2,6 +2,7 @@
 layout: term
 title: mest etmek
 slug: mest-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - kendinden geçirmek

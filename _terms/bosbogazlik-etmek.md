@@ -2,6 +2,7 @@
 layout: term
 title: boşboğazlık etmek
 slug: bosbogazlik-etmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - gereksiz, yersiz, düşüncesiz konuşmak

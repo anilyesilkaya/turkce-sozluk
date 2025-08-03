@@ -2,6 +2,7 @@
 layout: term
 title: ızdırapsızlık
 slug: izdirapsizlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► kedersizlik

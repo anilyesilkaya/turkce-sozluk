@@ -2,6 +2,7 @@
 layout: term
 title: titreme gelmek
 slug: titreme-gelmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - titremeye başlamak, titremeye tutulmak

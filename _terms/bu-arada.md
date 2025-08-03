@@ -2,6 +2,7 @@
 layout: term
 title: bu arada
 slug: bu-arada
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bu süre içinde

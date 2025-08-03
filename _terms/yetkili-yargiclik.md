@@ -2,6 +2,7 @@
 layout: term
 title: yetkili yargıçlık
 slug: yetkili-yargiclik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yetkili yargıç olma durumu

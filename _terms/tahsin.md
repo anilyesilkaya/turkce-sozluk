@@ -2,6 +2,7 @@
 layout: term
 title: tahsin
 slug: tahsin
+letter: T
 lisan: Arapça taḥsįn
 anlamlar:
 - Güzel bulup takdir etme

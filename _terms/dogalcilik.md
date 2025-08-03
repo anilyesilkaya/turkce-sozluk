@@ -2,6 +2,7 @@
 layout: term
 title: doğalcılık
 slug: dogalcilik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Gerçeğin doğaya uygun biçimde yansıtılmasını amaçlayan sanat akımı; natüralizm

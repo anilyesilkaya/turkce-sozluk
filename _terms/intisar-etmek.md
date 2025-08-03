@@ -2,6 +2,7 @@
 layout: term
 title: intişar etmek
 slug: intisar-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - yayılmak, dağılmak

@@ -2,6 +2,7 @@
 layout: term
 title: verici
 slug: verici
+letter: V
 lisan: Türkçe
 anlamlar:
 - Veren, verme yanlısı olan kimse

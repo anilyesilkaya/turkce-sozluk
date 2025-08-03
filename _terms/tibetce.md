@@ -2,6 +2,7 @@
 layout: term
 title: Tibetçe
 slug: tibetce
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tibet dili

@@ -2,6 +2,7 @@
 layout: term
 title: ileri (veya ileriye) gitmek
 slug: ileri-veya-ileriye-gitmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - söz ve davranışta ölçü dışına çıkmak, gereksiz, aşırı davranışta bulunmak

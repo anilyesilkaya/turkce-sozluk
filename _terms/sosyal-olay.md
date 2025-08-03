@@ -2,6 +2,7 @@
 layout: term
 title: sosyal olay
 slug: sosyal-olay
+letter: S
 lisan: Türkçe
 anlamlar:
 - İnsanlar arası ilişkilerden doğan ve bir defa olup biten sosyal oluşum

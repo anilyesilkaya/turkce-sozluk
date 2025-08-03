@@ -2,6 +2,7 @@
 layout: term
 title: tebrik
 slug: tebrik
+letter: T
 lisan: Arapça tebrīk
 anlamlar:
 - ► kutlama

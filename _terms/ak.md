@@ -2,6 +2,7 @@
 layout: term
 title: ak
 slug: ak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kar, süt vb.nin rengi; beyaz, kara ve siyah karşıtı

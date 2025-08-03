@@ -2,6 +2,7 @@
 layout: term
 title: kalburüstü
 slug: kalburustu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Seçkin, sivrilmiş, önde gelen

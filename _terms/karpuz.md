@@ -2,6 +2,7 @@
 layout: term
 title: karpuz
 slug: karpuz
+letter: K
 lisan: Farsça ḫarbūz
 anlamlar:
 - Kabakgillerden, sürüngen gövdeli parçalı sert yapraklı, sarı çiçekler açan bir bitki (Citrullus vulgaris)

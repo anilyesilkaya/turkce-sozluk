@@ -2,6 +2,7 @@
 layout: term
 title: sürçtürmek
 slug: surcturmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sürçme işini yaptırmak

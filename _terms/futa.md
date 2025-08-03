@@ -2,6 +2,7 @@
 layout: term
 title: futa
 slug: futa
+letter: F
 lisan: Rumca
 anlamlar:
 - Dar, uzun ve hafif bir yarış kayığı; kik

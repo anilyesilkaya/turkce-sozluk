@@ -2,6 +2,7 @@
 layout: term
 title: işittirebilmek
 slug: isittirebilmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İşittirme ihtimali veya imkânı bulunmak

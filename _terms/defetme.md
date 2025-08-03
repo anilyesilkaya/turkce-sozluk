@@ -2,6 +2,7 @@
 layout: term
 title: defetme
 slug: defetme
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► kovma

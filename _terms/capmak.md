@@ -2,6 +2,7 @@
 layout: term
 title: çapmak
 slug: capmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► koşturmak

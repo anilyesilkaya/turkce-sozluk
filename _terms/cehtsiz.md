@@ -2,6 +2,7 @@
 layout: term
 title: cehtsiz
 slug: cehtsiz
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► çabasız

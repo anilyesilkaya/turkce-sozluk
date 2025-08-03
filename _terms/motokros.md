@@ -2,6 +2,7 @@
 layout: term
 title: motokros
 slug: motokros
+letter: M
 lisan: İngilizce motorcross
 anlamlar:
 - Kırlarda ve engebeli arazilerde motosikletle yapılan yarış

@@ -2,6 +2,7 @@
 layout: term
 title: valide
 slug: valide
+letter: V
 lisan: Arapça vālide
 anlamlar:
 - ► anne

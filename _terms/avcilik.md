@@ -2,6 +2,7 @@
 layout: term
 title: avcılık
 slug: avcilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Avcının yaptığı iş

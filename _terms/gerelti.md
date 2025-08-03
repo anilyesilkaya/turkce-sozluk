@@ -2,6 +2,7 @@
 layout: term
 title: gerelti
 slug: gerelti
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► perde

@@ -2,6 +2,7 @@
 layout: term
 title: önüne dikilmek
 slug: onune-dikilmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - gelip karşısında durmak, karşısına dikilmek

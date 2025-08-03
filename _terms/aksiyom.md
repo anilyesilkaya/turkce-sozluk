@@ -2,6 +2,7 @@
 layout: term
 title: aksiyom
 slug: aksiyom
+letter: A
 lisan: Fransızca axiome
 anlamlar:
 - ► belit

@@ -2,6 +2,7 @@
 layout: term
 title: ikametgâh belgesi
 slug: ikametgah-belgesi
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► yerleşim belgesi

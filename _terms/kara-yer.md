@@ -2,6 +2,7 @@
 layout: term
 title: kara yer
 slug: kara-yer
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► toprak

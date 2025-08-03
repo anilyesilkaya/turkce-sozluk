@@ -2,6 +2,7 @@
 layout: term
 title: saptayıcı
 slug: saptayici
+letter: S
 lisan: Türkçe
 anlamlar:
 - Saptayan, sabit kılan, sürekli kılan

@@ -2,6 +2,7 @@
 layout: term
 title: gezdirmek
 slug: gezdirmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Birinin gezmesini sağlamak, dolaştırmak

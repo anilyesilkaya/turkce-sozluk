@@ -2,6 +2,7 @@
 layout: term
 title: şekerrenk
 slug: sekerrenk
+letter: Ş
 lisan: Farsça şeker + reng
 anlamlar:
 - Sarıya çalan renk

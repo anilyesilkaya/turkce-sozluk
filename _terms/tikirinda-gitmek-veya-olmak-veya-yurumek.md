@@ -2,6 +2,7 @@
 layout: term
 title: tıkırında gitmek (veya olmak veya yürümek)
 slug: tikirinda-gitmek-veya-olmak-veya-yurumek
+letter: T
 lisan: Türkçe
 anlamlar:
 - işler yolunda ve düzenli gitmek

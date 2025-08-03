@@ -2,6 +2,7 @@
 layout: term
 title: kubbe
 slug: kubbe
+letter: K
 lisan: Arapça ḳubbe
 anlamlar:
 - Yarım küre biçiminde olan ve yapıyı örten dam; kümbet, tak (II)

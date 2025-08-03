@@ -2,6 +2,7 @@
 layout: term
 title: komiserlik
 slug: komiserlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Komiser olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: bölünmek
 slug: bolunmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belirli bölümlere, parçalara ayrılmak

@@ -2,6 +2,7 @@
 layout: term
 title: kıymalı
 slug: kiymali
+letter: K
 lisan: Türkçe
 anlamlar:
 - İçinde kıyma bulunan (yemek)

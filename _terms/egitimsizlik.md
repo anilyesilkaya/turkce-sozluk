@@ -2,6 +2,7 @@
 layout: term
 title: eğitimsizlik
 slug: egitimsizlik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eğitimsiz olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: iş adamlığı
 slug: is-adamligi
+letter: I
 lisan: Türkçe
 anlamlar:
 - İş adamı olma durumu

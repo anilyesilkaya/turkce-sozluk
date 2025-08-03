@@ -2,6 +2,7 @@
 layout: term
 title: kıyamet kopmak
 slug: kiyamet-kopmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kıyamet günü gelmek

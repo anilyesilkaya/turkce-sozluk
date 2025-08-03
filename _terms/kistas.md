@@ -2,6 +2,7 @@
 layout: term
 title: kıstas
 slug: kistas
+letter: K
 lisan: Arapça ḳisṭās
 anlamlar:
 - ► ölçüt

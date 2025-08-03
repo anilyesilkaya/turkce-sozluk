@@ -2,6 +2,7 @@
 layout: term
 title: Ahıska Türkleri
 slug: ahiska-turkleri
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ana vatanları Gürcistan'ın Türkiye sınırlarına yakın Ahıska bölgesi olan, bugün Türkiye başta olmak üzere çeşitli ülkelerde yaşayan Türk halkı; Mesket Türkleri

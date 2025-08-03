@@ -2,6 +2,7 @@
 layout: term
 title: patriarkal
 slug: patriarkal
+letter: P
 lisan: Fransızca patriarcal
 anlamlar:
 - ► ataerkil

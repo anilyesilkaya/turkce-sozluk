@@ -2,6 +2,7 @@
 layout: term
 title: mekik
 slug: mekik
+letter: M
 lisan: Farsça mekūk
 anlamlar:
 - El veya otomatik dokuma tezgâhlarında atkı veya argaç denilen ve enine olan iplikleri, uzunlamasına olan arışların arasından geçirmeye yarayan masuralı araç

@@ -2,6 +2,7 @@
 layout: term
 title: gün almak
 slug: gun-almak
+letter: G
 lisan: Türkçe
 anlamlar:
 - bir iş görmek için ilgili kişiden bir gün ayırmasını istemek, randevu almak

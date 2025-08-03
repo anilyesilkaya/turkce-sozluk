@@ -2,6 +2,7 @@
 layout: term
 title: ağaçlamak
 slug: agaclamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► ağaçlandırmak

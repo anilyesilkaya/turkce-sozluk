@@ -2,6 +2,7 @@
 layout: term
 title: ortaklık
 slug: ortaklik
+letter: O
 lisan: Türkçe
 anlamlar:
 - Ortak olma durumu; iştirak, müşareket, şeriklik

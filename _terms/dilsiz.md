@@ -2,6 +2,7 @@
 layout: term
 title: dilsiz
 slug: dilsiz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Konuşma engeli olan, konuşamayan; ahraz

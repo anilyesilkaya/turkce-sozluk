@@ -2,6 +2,7 @@
 layout: term
 title: bütüncüllük
 slug: butunculluk
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► totaliterlik

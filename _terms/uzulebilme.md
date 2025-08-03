@@ -2,6 +2,7 @@
 layout: term
 title: üzülebilme
 slug: uzulebilme
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üzülebilmek durumu

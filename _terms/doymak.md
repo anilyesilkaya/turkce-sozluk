@@ -2,6 +2,7 @@
 layout: term
 title: doymak
 slug: doymak
+letter: D
 lisan: Türkçe
 anlamlar:
 - İsteği kalmayıncaya kadar yemek, yeteri kadar yemiş olmak, açlığı kalmamak; doyunmak

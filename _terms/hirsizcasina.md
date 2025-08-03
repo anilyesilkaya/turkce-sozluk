@@ -2,6 +2,7 @@
 layout: term
 title: hırsızcasına
 slug: hirsizcasina
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► hırsızca

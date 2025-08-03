@@ -2,6 +2,7 @@
 layout: term
 title: imale
 slug: imale
+letter: I
 lisan: Arapça imāle
 anlamlar:
 - Aruz vezninde kısa okunması gereken heceyi ölçüye uydurmak için uzun okuma, zihaf karşıtı

@@ -2,6 +2,7 @@
 layout: term
 title: şeytan geçmiş gibi
 slug: seytan-gecmis-gibi
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - birkaç kişinin konuştuğu sırada kısa bir süre sessizlik olması durumunda kullanılan bir söz

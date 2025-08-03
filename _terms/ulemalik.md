@@ -2,6 +2,7 @@
 layout: term
 title: ulemalık
 slug: ulemalik
+letter: U
 lisan: Türkçe
 anlamlar:
 - Bilginlik, âlimlik

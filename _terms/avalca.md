@@ -2,6 +2,7 @@
 layout: term
 title: avalca
 slug: avalca
+letter: A
 lisan: Türkçe
 anlamlar:
 - Avala yakışır bir biçimde; aval aval

@@ -2,6 +2,7 @@
 layout: term
 title: atılıvermek
 slug: atilivermek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ansızın, çabucak atılmak

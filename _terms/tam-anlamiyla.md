@@ -2,6 +2,7 @@
 layout: term
 title: tam anlamıyla
 slug: tam-anlamiyla
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tam olarak; tam manasıyla, halis muhlis

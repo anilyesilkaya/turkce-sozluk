@@ -2,6 +2,7 @@
 layout: term
 title: şebnem
 slug: sebnem
+letter: Ş
 lisan: Farsça şebnem
 anlamlar:
 - ► çiy

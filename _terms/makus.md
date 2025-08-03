@@ -2,6 +2,7 @@
 layout: term
 title: makûs
 slug: makus
+letter: M
 lisan: Arapça maʿkūs
 anlamlar:
 - Ters çevrilmiş, baş aşağı getirilmiş

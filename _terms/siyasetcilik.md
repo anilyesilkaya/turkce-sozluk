@@ -2,6 +2,7 @@
 layout: term
 title: siyasetçilik
 slug: siyasetcilik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Siyasetçinin işi

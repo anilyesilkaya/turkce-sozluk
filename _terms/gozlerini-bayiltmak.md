@@ -2,6 +2,7 @@
 layout: term
 title: gözlerini bayıltmak
 slug: gozlerini-bayiltmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - gözlerini yarı kapamak

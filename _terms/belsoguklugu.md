@@ -2,6 +2,7 @@
 layout: term
 title: belsoğukluğu
 slug: belsoguklugu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Üreme organlarının akıntılı ve bulaşıcı bir hastalığı

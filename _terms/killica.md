@@ -2,6 +2,7 @@
 layout: term
 title: kıllıca
 slug: killica
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kıllı bir biçimde

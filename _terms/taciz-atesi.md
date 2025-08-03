@@ -2,6 +2,7 @@
 layout: term
 title: taciz ateşi
 slug: taciz-atesi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Hasmı veya düşmanı tedirgin etmek için silahla açılan ateş

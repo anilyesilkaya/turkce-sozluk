@@ -2,6 +2,7 @@
 layout: term
 title: meteor
 slug: meteor
+letter: M
 lisan: Fransızca météore
 anlamlar:
 - Atmosfer içinde oluşan sıcaklık değişmeleri, rüzgâr, yıldırım, yağmur, dolu vb. olaylara verilen genel ad

@@ -2,6 +2,7 @@
 layout: term
 title: baş bezi
 slug: bas-bezi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Genellikle güneşten korunmak amacıyla başa sarılan mendil biçiminde kumaş parçası

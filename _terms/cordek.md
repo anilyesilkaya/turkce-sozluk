@@ -2,6 +2,7 @@
 layout: term
 title: çördek
 slug: cordek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir şeyi yukarı çekmekte kullanılan halat

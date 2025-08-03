@@ -2,6 +2,7 @@
 layout: term
 title: bağa
 slug: baga
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► kaplumbağa

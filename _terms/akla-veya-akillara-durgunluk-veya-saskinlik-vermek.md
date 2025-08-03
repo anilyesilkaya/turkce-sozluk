@@ -2,6 +2,7 @@
 layout: term
 title: akla (veya akıllara) durgunluk (veya şaşkınlık) vermek
 slug: akla-veya-akillara-durgunluk-veya-saskinlik-vermek
+letter: A
 lisan: Türkçe
 anlamlar:
 - hayranlık uyandırmak

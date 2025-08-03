@@ -2,6 +2,7 @@
 layout: term
 title: damgacı
 slug: damgaci
+letter: D
 lisan: Türkçe
 anlamlar:
 - Damga vurmakla görevli kimse

@@ -2,6 +2,7 @@
 layout: term
 title: refik
 slug: refik
+letter: R
 lisan: Arapça refīḳ
 anlamlar:
 - ► arkadaş

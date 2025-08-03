@@ -2,6 +2,7 @@
 layout: term
 title: akraba diller
 slug: akraba-diller
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aynı ana dilden gelen diller

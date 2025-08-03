@@ -2,6 +2,7 @@
 layout: term
 title: alevsiz
 slug: alevsiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alevi olmayan

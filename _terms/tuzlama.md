@@ -2,6 +2,7 @@
 layout: term
 title: tuzlama
 slug: tuzlama
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tuzlamak işi

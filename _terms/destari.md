@@ -2,6 +2,7 @@
 layout: term
 title: destari
 slug: destari
+letter: D
 lisan: Farsça destār + Arapça -ī
 anlamlar:
 - Sarıkla ilgili

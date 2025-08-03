@@ -2,6 +2,7 @@
 layout: term
 title: şantiye
 slug: santiye
+letter: Ş
 lisan: Fransızca chantier
 anlamlar:
 - Yapı gereçlerinin yığılıp saklandığı veya işlendiği yer

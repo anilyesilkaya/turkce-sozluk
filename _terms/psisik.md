@@ -2,6 +2,7 @@
 layout: term
 title: psişik
 slug: psisik
+letter: P
 lisan: Fransızca psychique
 anlamlar:
 - Başka birinin düşündüklerini veya uzakta geçen bir olayı hiçbir bağlantı olmadan algılama, geleceği görme gibi doğaüstü yeteneklere sahip

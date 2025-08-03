@@ -2,6 +2,7 @@
 layout: term
 title: nezir
 slug: nezir
+letter: N
 lisan: Arapça neẕr
 anlamlar:
 - ► adak

@@ -2,6 +2,7 @@
 layout: term
 title: yaylı araba
 slug: yayli-araba
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yaylı

@@ -2,6 +2,7 @@
 layout: term
 title: puntel
 slug: puntel
+letter: P
 lisan: İtalyanca puntello
 anlamlar:
 - Güvertenin kuvvetlendirilmesi için alttan dikine konan destek

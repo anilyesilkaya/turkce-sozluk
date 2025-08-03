@@ -2,6 +2,7 @@
 layout: term
 title: iç içe
 slug: ic-ice
+letter: I
 lisan: Türkçe
 anlamlar:
 - Biri ötekinin içinde veya birine ötekinden geçilen

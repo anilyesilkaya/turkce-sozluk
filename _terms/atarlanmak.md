@@ -2,6 +2,7 @@
 layout: term
 title: atarlanmak
 slug: atarlanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Birine karşı veya bir olaya karşında korkusuzca güç gösterisinde bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: fol yok yumurta yok
 slug: fol-yok-yumurta-yok
+letter: F
 lisan: Türkçe
 anlamlar:
 - bir konu ile ilgili ortada hiçbir belirti olmadığı hâlde varmış gibi bir kuşkuya düşüldüğünde kullanılan bir söz

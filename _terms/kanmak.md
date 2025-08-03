@@ -2,6 +2,7 @@
 layout: term
 title: kanmak
 slug: kanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Söylenilen sözün, anlatılan konunun doğruluğuna inanmak

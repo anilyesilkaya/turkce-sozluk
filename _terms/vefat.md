@@ -2,6 +2,7 @@
 layout: term
 title: vefat
 slug: vefat
+letter: V
 lisan: Arapça vefāt
 anlamlar:
 - ► ölüm

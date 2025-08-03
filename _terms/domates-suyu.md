@@ -2,6 +2,7 @@
 layout: term
 title: domates suyu
 slug: domates-suyu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Domatesin sıkılmasıyla elde edilen içecek

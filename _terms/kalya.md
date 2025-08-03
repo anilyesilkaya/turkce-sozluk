@@ -2,6 +2,7 @@
 layout: term
 title: kalya
 slug: kalya
+letter: K
 lisan: Arapça ḳalya
 anlamlar:
 - Sadeyağ ile pişirilen bir tür kabak veya patlıcan yemeği

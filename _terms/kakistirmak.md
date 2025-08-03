@@ -2,6 +2,7 @@
 layout: term
 title: kakıştırmak
 slug: kakistirmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sürekli ve hafif hafif kakmak

@@ -2,6 +2,7 @@
 layout: term
 title: bir kalem
 slug: bir-kalem
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir an için

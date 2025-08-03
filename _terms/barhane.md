@@ -2,6 +2,7 @@
 layout: term
 title: barhane
 slug: barhane
+letter: B
 lisan: Farsça bār + ḫāne
 anlamlar:
 - Küçük kervan; barhana

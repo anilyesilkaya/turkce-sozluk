@@ -2,6 +2,7 @@
 layout: term
 title: bayatlık
 slug: bayatlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bayat olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: hokka
 slug: hokka
+letter: H
 lisan: Arapça ḥuḳḳa
 anlamlar:
 - Metal, cam veya topraktan yapılmış küçük kap

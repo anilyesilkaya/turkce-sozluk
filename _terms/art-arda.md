@@ -2,6 +2,7 @@
 layout: term
 title: art arda
 slug: art-arda
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► arka arkaya

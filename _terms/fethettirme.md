@@ -2,6 +2,7 @@
 layout: term
 title: fethettirme
 slug: fethettirme
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fethettirmek işi

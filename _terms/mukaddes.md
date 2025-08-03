@@ -2,6 +2,7 @@
 layout: term
 title: mukaddes
 slug: mukaddes
+letter: M
 lisan: Arapça muḳaddes
 anlamlar:
 - ► kutsal

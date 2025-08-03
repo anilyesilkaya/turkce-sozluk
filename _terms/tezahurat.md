@@ -2,6 +2,7 @@
 layout: term
 title: tezahürat
 slug: tezahurat
+letter: T
 lisan: Arapça teẓāhurāt
 anlamlar:
 - Bağırıp çağırarak, alkışlayıp tempo tutarak yapılan gösteri

@@ -2,6 +2,7 @@
 layout: term
 title: ihram
 slug: ihram
+letter: I
 lisan: Arapça iḥrām
 anlamlar:
 - Hacca giden Müslüman erkeklerin dikişsiz, beyaz bir peştamal ve omuza atılan bir havludan, kadınların ise bolca bir elbiseden ibaret olan kıyafetleri

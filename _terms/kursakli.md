@@ -2,6 +2,7 @@
 layout: term
 title: kursaklı
 slug: kursakli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kursağı olan

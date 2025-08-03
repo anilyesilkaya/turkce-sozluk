@@ -2,6 +2,7 @@
 layout: term
 title: mağrur
 slug: magrur
+letter: M
 lisan: Arapça maġrūr
 anlamlar:
 - Kurumlu (II), gururlu, kibirli, kendini beğenmiş

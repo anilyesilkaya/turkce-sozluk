@@ -2,6 +2,7 @@
 layout: term
 title: cevap hakkı
 slug: cevap-hakki
+letter: C
 lisan: Türkçe
 anlamlar:
 - Bir kimsenin şahsıyla ilgili genellikle basın yayın organlarında çıkan haberlere karşılık olarak düzeltme veya cevap verme hakkı; yanıt hakkı

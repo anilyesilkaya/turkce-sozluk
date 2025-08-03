@@ -2,6 +2,7 @@
 layout: term
 title: çocuk bezi
 slug: cocuk-bezi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bebeklerin altına bağlanan bez; bebek bezi

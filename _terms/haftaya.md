@@ -2,6 +2,7 @@
 layout: term
 title: haftaya
 slug: haftaya
+letter: H
 lisan: Türkçe
 anlamlar:
 - Gelecek hafta

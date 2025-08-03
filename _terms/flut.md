@@ -2,6 +2,7 @@
 layout: term
 title: flüt
 slug: flut
+letter: F
 lisan: Fransızca flûte
 anlamlar:
 - Yan tutularak çalınan, orkestrada yer alan bir üflemeli çalgı; flavta

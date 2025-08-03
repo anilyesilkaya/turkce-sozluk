@@ -2,6 +2,7 @@
 layout: term
 title: yitirivermek
 slug: yitirivermek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Aniden yitirmek

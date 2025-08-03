@@ -2,6 +2,7 @@
 layout: term
 title: hasetlik
 slug: hasetlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► kıskançlık

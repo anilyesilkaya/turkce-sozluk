@@ -2,6 +2,7 @@
 layout: term
 title: atmosferik
 slug: atmosferik
+letter: A
 lisan: Fransızca atmosphérique
 anlamlar:
 - Atmosferle ilgili; cevvi

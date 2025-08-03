@@ -2,6 +2,7 @@
 layout: term
 title: canlandırma
 slug: canlandirma
+letter: C
 lisan: Türkçe
 anlamlar:
 - Canlandırmak işi

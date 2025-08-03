@@ -2,6 +2,7 @@
 layout: term
 title: fiyakacı
 slug: fiyakaci
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► gösterişçi

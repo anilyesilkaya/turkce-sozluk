@@ -2,6 +2,7 @@
 layout: term
 title: affediş
 slug: affedis
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► bağışlayış

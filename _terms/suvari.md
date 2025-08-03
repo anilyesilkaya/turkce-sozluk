@@ -2,6 +2,7 @@
 layout: term
 title: süvari
 slug: suvari
+letter: S
 lisan: Farsça sevārī
 anlamlar:
 - ► atlı

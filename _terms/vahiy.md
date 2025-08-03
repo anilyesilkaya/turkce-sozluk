@@ -2,6 +2,7 @@
 layout: term
 title: vahiy
 slug: vahiy
+letter: V
 lisan: Arapça vaḥy
 anlamlar:
 - Bir buyruk veya düşüncenin Tanrı tarafından peygamberlere bildirilmesi

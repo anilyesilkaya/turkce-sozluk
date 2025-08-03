@@ -2,6 +2,7 @@
 layout: term
 title: hayvansı
 slug: hayvansi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hayvanı andıran, hayvana benzeyen, hayvan gibi; hayvanımsı

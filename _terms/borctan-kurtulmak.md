@@ -2,6 +2,7 @@
 layout: term
 title: borçtan kurtulmak
 slug: borctan-kurtulmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - borcunu ödemek

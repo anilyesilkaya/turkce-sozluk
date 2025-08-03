@@ -2,6 +2,7 @@
 layout: term
 title: mortadella
 slug: mortadella
+letter: M
 lisan: İtalyanca mortadella
 anlamlar:
 - Bir tür İtalyan sucuğu ve böreği

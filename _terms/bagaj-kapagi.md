@@ -2,6 +2,7 @@
 layout: term
 title: bagaj kapağı
 slug: bagaj-kapagi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Otomobil bagajlarını kapatmaya veya kilitlemeye yarayan bölüm

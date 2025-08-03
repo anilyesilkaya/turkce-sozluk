@@ -2,6 +2,7 @@
 layout: term
 title: kuru ekmek
 slug: kuru-ekmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Katıksız ekmek

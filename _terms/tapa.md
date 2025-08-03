@@ -2,6 +2,7 @@
 layout: term
 title: tapa
 slug: tapa
+letter: T
 lisan: İtalyanca tappo
 anlamlar:
 - Şişe gibi dar delikleri tıkamaya yarayan mantar, cam, tahta veya plastikten tıkaç; tıpa

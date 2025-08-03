@@ -2,6 +2,7 @@
 layout: term
 title: dolma
 slug: dolma
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dolmak işi

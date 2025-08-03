@@ -2,6 +2,7 @@
 layout: term
 title: tekinsiz
 slug: tekinsiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tekin olmayan; uğursuz

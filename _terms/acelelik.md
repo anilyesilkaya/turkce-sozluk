@@ -2,6 +2,7 @@
 layout: term
 title: acelelik
 slug: acelelik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► çabukluk

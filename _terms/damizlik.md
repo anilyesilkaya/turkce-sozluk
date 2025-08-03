@@ -2,6 +2,7 @@
 layout: term
 title: damızlık
 slug: damizlik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Yalnız dölü alınmak için yetiştirilen yüksek nitelikli (hayvan)

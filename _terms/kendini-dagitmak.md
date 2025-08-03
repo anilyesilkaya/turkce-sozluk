@@ -2,6 +2,7 @@
 layout: term
 title: kendini dağıtmak
 slug: kendini-dagitmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - farklı işlerle aynı anda uğraşmaktan kötü durumda olmak

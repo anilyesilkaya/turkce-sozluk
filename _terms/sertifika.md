@@ -2,6 +2,7 @@
 layout: term
 title: sertifika
 slug: sertifika
+letter: S
 lisan: Fransızca certificat
 anlamlar:
 - ► öğrenim belgesi

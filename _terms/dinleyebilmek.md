@@ -2,6 +2,7 @@
 layout: term
 title: dinleyebilmek
 slug: dinleyebilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dinleme ihtimali veya imkânı bulunmak

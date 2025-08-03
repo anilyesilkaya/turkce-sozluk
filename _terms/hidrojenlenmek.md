@@ -2,6 +2,7 @@
 layout: term
 title: hidrojenlenmek
 slug: hidrojenlenmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hidrojenli duruma gelmek

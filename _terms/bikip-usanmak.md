@@ -2,6 +2,7 @@
 layout: term
 title: bıkıp usanmak
 slug: bikip-usanmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - çok bezmek

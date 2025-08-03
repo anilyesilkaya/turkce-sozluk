@@ -2,6 +2,7 @@
 layout: term
 title: çığırından çıkmak
 slug: cigirindan-cikmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - bir iş amacından saparak düzeltilmesi güç bir durum almak

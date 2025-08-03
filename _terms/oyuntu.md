@@ -2,6 +2,7 @@
 layout: term
 title: oyuntu
 slug: oyuntu
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oyulmuş bölüm

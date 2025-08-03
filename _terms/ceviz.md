@@ -2,6 +2,7 @@
 layout: term
 title: ceviz
 slug: ceviz
+letter: C
 lisan: Arapça cevz
 anlamlar:
 - Cevizgillerin örnek bitkisi olan, uzun ömürlü, gövdesi kalın, kerestesi değerli, yurdumuzda çok yetişen ağaç (Juglans regia)

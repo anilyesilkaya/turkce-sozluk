@@ -2,6 +2,7 @@
 layout: term
 title: yetmek
 slug: yetmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir gereksinimi karşılayacak, giderecek nicelikte olmak

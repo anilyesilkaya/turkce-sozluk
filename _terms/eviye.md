@@ -2,6 +2,7 @@
 layout: term
 title: eviye
 slug: eviye
+letter: E
 lisan: Fransızca évier
 anlamlar:
 - Mutfakta musluk altında bulaşık yıkamaya yarayan tekne

@@ -2,6 +2,7 @@
 layout: term
 title: aslanağzı
 slug: aslanagzi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Sıracagillerden, türlü renkte, güzel, kokusuz çiçekleri olan bir bitki; danaburnu

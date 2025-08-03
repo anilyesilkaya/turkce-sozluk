@@ -2,6 +2,7 @@
 layout: term
 title: yüzünü kızartmak (veya kızdırmak)
 slug: yuzunu-kizartmak-veya-kizdirmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - onuruna, gururuna önem vermeden bir şey istemek, utançla, utanarak istemek

@@ -2,6 +2,7 @@
 layout: term
 title: acı acı
 slug: aci-aci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Üzüntülü bir biçimde, dokunaklı olarak

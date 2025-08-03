@@ -2,6 +2,7 @@
 layout: term
 title: şuara
 slug: suara
+letter: Ş
 lisan: Arapça şuʿarā
 anlamlar:
 - Şairler

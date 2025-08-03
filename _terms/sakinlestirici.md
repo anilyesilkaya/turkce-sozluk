@@ -2,6 +2,7 @@
 layout: term
 title: sakinleştirici
 slug: sakinlestirici
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sakinleştiren, sakinleştirme özelliği olan

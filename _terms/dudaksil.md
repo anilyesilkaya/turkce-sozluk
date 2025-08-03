@@ -2,6 +2,7 @@
 layout: term
 title: dudaksıl
 slug: dudaksil
+letter: D
 lisan: Türkçe
 anlamlar:
 - Boğumlanma noktası dudaklarda bulunan ünlü veya ünsüz

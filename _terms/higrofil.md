@@ -2,6 +2,7 @@
 layout: term
 title: higrofil
 slug: higrofil
+letter: H
 lisan: Fransızca hygrophile
 anlamlar:
 - ► nemcil

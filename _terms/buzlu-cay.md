@@ -2,6 +2,7 @@
 layout: term
 title: buzlu çay
 slug: buzlu-cay
+letter: B
 lisan: Türkçe
 anlamlar:
 - Soğuk olarak ikram edilen bir çay türü

@@ -2,6 +2,7 @@
 layout: term
 title: abanabilmek
 slug: abanabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Abanma ihtimali veya imkânı bulunmak

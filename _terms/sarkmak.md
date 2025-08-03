@@ -2,6 +2,7 @@
 layout: term
 title: sarkmak
 slug: sarkmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Aşağıya doğru uzamak veya uzanmak

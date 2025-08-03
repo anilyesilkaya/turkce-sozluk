@@ -2,6 +2,7 @@
 layout: term
 title: bitter
 slug: bitter
+letter: B
 lisan: Almanca Bitter
 anlamlar:
 - Kakao oranı yüksek, acı çikolata

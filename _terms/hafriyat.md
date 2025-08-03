@@ -2,6 +2,7 @@
 layout: term
 title: hafriyat
 slug: hafriyat
+letter: H
 lisan: Arapça ḥafriyyāt
 anlamlar:
 - Toprağı kazma; kazı (I)

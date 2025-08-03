@@ -2,6 +2,7 @@
 layout: term
 title: dört yol ağzı
 slug: dort-yol-agzi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dört yönden gelen yolların birleştiği kavşak

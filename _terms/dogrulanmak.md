@@ -2,6 +2,7 @@
 layout: term
 title: doğrulanmak
 slug: dogrulanmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Doğrulama işine konu olmak veya doğrulama işi yapılmak; gerçeklenmek

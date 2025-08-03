@@ -2,6 +2,7 @@
 layout: term
 title: kalben
 slug: kalben
+letter: K
 lisan: Arapça ḳalben
 anlamlar:
 - ► içten

@@ -2,6 +2,7 @@
 layout: term
 title: peynir
 slug: peynir
+letter: P
 lisan: Farsça penīr
 anlamlar:
 - Maya ile katılaştırılarak sütten yapılan ve birçok türü olan besin

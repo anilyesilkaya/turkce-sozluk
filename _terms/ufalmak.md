@@ -2,6 +2,7 @@
 layout: term
 title: ufalmak
 slug: ufalmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Büyükken daha ufak duruma gelmek; küçülmek

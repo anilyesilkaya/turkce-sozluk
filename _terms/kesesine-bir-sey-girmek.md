@@ -2,6 +2,7 @@
 layout: term
 title: kesesine bir şey girmek
 slug: kesesine-bir-sey-girmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir yarar veya çıkar sağlamak

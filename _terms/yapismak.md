@@ -2,6 +2,7 @@
 layout: term
 title: yapışmak
 slug: yapismak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yapışkan bir maddeye bulanmış olan bir şey ayrılmayacak bir biçimde bir yere tutunup kalmak

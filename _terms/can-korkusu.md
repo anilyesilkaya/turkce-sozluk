@@ -2,6 +2,7 @@
 layout: term
 title: can korkusu
 slug: can-korkusu
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► ölüm korkusu

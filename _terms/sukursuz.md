@@ -2,6 +2,7 @@
 layout: term
 title: şükürsüz
 slug: sukursuz
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Allah’ın verdiklerine şükretmeyen, onlarla yetinmeyen (kimse)

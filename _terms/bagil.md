@@ -2,6 +2,7 @@
 layout: term
 title: bağıl
 slug: bagil
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bağıntılı

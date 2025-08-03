@@ -2,6 +2,7 @@
 layout: term
 title: yaşını başını almak
 slug: yasini-basini-almak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yaşı ilerlemiş olmak

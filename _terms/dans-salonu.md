@@ -2,6 +2,7 @@
 layout: term
 title: dans salonu
 slug: dans-salonu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dans etmek için gidilen, halka açık yer

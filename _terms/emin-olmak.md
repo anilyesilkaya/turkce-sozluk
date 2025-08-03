@@ -2,6 +2,7 @@
 layout: term
 title: emin olmak
 slug: emin-olmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - inanmak, güvenmek

@@ -2,6 +2,7 @@
 layout: term
 title: tarafgirlik
 slug: tarafgirlik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tarafgir olma durumu

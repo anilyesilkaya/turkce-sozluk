@@ -2,6 +2,7 @@
 layout: term
 title: korkuya kesmek
 slug: korkuya-kesmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - korkmak

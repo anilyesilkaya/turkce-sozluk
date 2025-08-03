@@ -2,6 +2,7 @@
 layout: term
 title: sünnetlemesine
 slug: sunnetlemesine
+letter: S
 lisan: Türkçe
 anlamlar:
 - Hz. Muhammed'in sünnetine uygun biçimde

@@ -2,6 +2,7 @@
 layout: term
 title: gülbahar
 slug: gulbahar
+letter: G
 lisan: Farsça gul + bahār
 anlamlar:
 - Kırmızı boya elde etmede kullanılan iyi cins bir toprak

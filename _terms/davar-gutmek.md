@@ -2,6 +2,7 @@
 layout: term
 title: davar gütmek
 slug: davar-gutmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - sürüyü otlatmak, korumak ve gerektiğinde süt sağmak

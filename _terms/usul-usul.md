@@ -2,6 +2,7 @@
 layout: term
 title: usul usul
 slug: usul-usul
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► yavaş yavaş

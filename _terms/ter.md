@@ -2,6 +2,7 @@
 layout: term
 title: ter
 slug: ter
+letter: T
 lisan: Türkçe
 anlamlar:
 - Derinin gözeneklerinden sızan, kendine özgü bir kokusu olan, yapışkan, renksiz, tuzlu sıvı; arak (I)

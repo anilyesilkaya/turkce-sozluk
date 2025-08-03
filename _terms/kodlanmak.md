@@ -2,6 +2,7 @@
 layout: term
 title: kodlanmak
 slug: kodlanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kodlamak işi yapılmak

@@ -2,6 +2,7 @@
 layout: term
 title: ariz amik
 slug: ariz-amik
+letter: A
 lisan: Arapça ʿarīż + ʿamīḳ
 anlamlar:
 - Enine boyuna, her yönü ile

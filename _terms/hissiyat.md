@@ -2,6 +2,7 @@
 layout: term
 title: hissiyat
 slug: hissiyat
+letter: H
 lisan: Arapça ḥissiyyāt
 anlamlar:
 - Duygular

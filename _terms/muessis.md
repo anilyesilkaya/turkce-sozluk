@@ -2,6 +2,7 @@
 layout: term
 title: müessis
 slug: muessis
+letter: M
 lisan: Arapça muʾessis
 anlamlar:
 - ► kurucu

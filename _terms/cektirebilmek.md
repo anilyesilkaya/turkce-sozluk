@@ -2,6 +2,7 @@
 layout: term
 title: çektirebilmek
 slug: cektirebilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çektirme ihtimali veya imkânı bulunmak

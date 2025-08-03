@@ -2,6 +2,7 @@
 layout: term
 title: getirebilmek
 slug: getirebilmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Getirme ihtimali veya imkânı bulunmak

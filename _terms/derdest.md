@@ -2,6 +2,7 @@
 layout: term
 title: derdest
 slug: derdest
+letter: D
 lisan: Farsça derdest
 anlamlar:
 - Aranan birini veya kaçma ihtimali bulunan kişiyi yakalama, ele geçirme

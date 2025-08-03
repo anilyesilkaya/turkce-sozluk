@@ -2,6 +2,7 @@
 layout: term
 title: serbest bırakmak
 slug: serbest-birakmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - tutuklu veya gözaltında bulunan birini serbest, özgür duruma getirmek, tahliye etmek

@@ -2,6 +2,7 @@
 layout: term
 title: dolap beygiri
 slug: dolap-beygiri
+letter: D
 lisan: Türkçe
 anlamlar:
 - Kuyudan su çekip bahçe ve bostanları sulamaya yarayan çarklı düzeni döndüren at, eşek veya katır; bostan beygiri

@@ -2,6 +2,7 @@
 layout: term
 title: kasalı
 slug: kasali
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kasası olan

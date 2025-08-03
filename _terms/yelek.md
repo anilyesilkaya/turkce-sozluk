@@ -2,6 +2,7 @@
 layout: term
 title: yelek
 slug: yelek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Kolsuz, önü açık veya düğmeli üst giysisi; delme

@@ -2,6 +2,7 @@
 layout: term
 title: medarımaişet motoru
 slug: medarimaiset-motoru
+letter: M
 lisan: Türkçe
 anlamlar:
 - Günlük geçim için kazanılan para

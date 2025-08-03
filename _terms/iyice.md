@@ -2,6 +2,7 @@
 layout: term
 title: iyice
 slug: iyice
+letter: I
 lisan: Türkçe
 anlamlar:
 - İyiye yakın

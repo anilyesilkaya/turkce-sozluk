@@ -2,6 +2,7 @@
 layout: term
 title: tekâsüf etmek
 slug: tekasuf-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - toplanmak

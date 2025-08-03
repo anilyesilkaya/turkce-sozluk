@@ -2,6 +2,7 @@
 layout: term
 title: akortsuzlaştırmak
 slug: akortsuzlastirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ses düzensizliği veya ayarsızlığı meydana getirmek

@@ -2,6 +2,7 @@
 layout: term
 title: duraksama
 slug: duraksama
+letter: D
 lisan: Türkçe
 anlamlar:
 - Duraksamak işi; tereddüt

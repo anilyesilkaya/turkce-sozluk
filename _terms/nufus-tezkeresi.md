@@ -2,6 +2,7 @@
 layout: term
 title: nüfus tezkeresi
 slug: nufus-tezkeresi
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► nüfus cüzdanı

@@ -2,6 +2,7 @@
 layout: term
 title: azı
 slug: azi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Köpek dişlerinden sonra içeriye doğru, alt ve üst çenenin iki yanında beşer tane bulunan ve yiyecekleri öğütmeye yarayan dişlerin ortak adı; azı dişi, öğütücü diş

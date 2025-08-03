@@ -2,6 +2,7 @@
 layout: term
 title: felsefe
 slug: felsefe
+letter: F
 lisan: Arapça felsefe
 anlamlar:
 - Varlığın ve bilginin bilimsel olarak araştırılması

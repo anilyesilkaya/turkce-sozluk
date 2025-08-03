@@ -2,6 +2,7 @@
 layout: term
 title: şavullamak
 slug: savullamak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Yoklamak veya kollamak

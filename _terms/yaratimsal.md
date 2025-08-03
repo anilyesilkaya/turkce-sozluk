@@ -2,6 +2,7 @@
 layout: term
 title: yaratımsal
 slug: yaratimsal
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaratım ile ilgili

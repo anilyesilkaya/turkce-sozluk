@@ -2,6 +2,7 @@
 layout: term
 title: safderunluk
 slug: safderunluk
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► saflık

@@ -2,6 +2,7 @@
 layout: term
 title: zaaf duymak
 slug: zaaf-duymak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - bir şeye karşı zayıflık hissetmek

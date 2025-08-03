@@ -2,6 +2,7 @@
 layout: term
 title: kavaf işi
 slug: kavaf-isi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Özensiz ve gelişigüzel yapılan

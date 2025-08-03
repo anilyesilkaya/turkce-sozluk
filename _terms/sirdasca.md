@@ -2,6 +2,7 @@
 layout: term
 title: sırdaşça
 slug: sirdasca
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sırdaşa yakışır bir biçimde

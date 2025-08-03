@@ -2,6 +2,7 @@
 layout: term
 title: kırtlama
 slug: kirtlama
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kıtlama

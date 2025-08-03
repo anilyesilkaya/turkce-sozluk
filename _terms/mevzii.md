@@ -2,6 +2,7 @@
 layout: term
 title: mevzii
 slug: mevzii
+letter: M
 lisan: Arapça mevżiʿī
 anlamlar:
 - ► bölgesel

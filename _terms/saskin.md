@@ -2,6 +2,7 @@
 layout: term
 title: şaşkın
 slug: saskin
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Düşünceleri dağılmış, karışmış, ne yapacağını bilemez duruma gelmiş

@@ -2,6 +2,7 @@
 layout: term
 title: söndürmek
 slug: sondurmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Ateş ve ışığın yanmasına, aydınlatmasına son vermek

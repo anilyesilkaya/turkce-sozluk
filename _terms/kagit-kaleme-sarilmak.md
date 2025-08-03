@@ -2,6 +2,7 @@
 layout: term
 title: kâğıt kaleme sarılmak
 slug: kagit-kaleme-sarilmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - hemen yazmaya başlamak

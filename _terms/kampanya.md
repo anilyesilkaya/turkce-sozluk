@@ -2,6 +2,7 @@
 layout: term
 title: kampanya
 slug: kampanya
+letter: K
 lisan: İtalyanca campagna
 anlamlar:
 - Politika, ekonomi, kültür vb. alanlarda belirli bir süredeki etkinlik dönemi

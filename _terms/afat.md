@@ -2,6 +2,7 @@
 layout: term
 title: afat
 slug: afat
+letter: A
 lisan: Arapça āfāt
 anlamlar:
 - Afetler

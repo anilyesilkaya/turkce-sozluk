@@ -2,6 +2,7 @@
 layout: term
 title: hâllenmek
 slug: hallenmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - Yeni bir duruma girmek, durum değiştirmek

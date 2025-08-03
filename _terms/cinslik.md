@@ -2,6 +2,7 @@
 layout: term
 title: cinslik
 slug: cinslik
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► cinsiyet

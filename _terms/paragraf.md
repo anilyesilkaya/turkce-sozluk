@@ -2,6 +2,7 @@
 layout: term
 title: paragraf
 slug: paragraf
+letter: P
 lisan: Fransızca paragraphe
 anlamlar:
 - Düzyazıların kendi içinde satır başlarıyla ayrıldıkları bölümler

@@ -2,6 +2,7 @@
 layout: term
 title: psikolojizm
 slug: psikolojizm
+letter: P
 lisan: Fransızca psychologisme
 anlamlar:
 - Psikoloji bilimiyle uğraşma; ruh bilimcilik

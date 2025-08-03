@@ -2,6 +2,7 @@
 layout: term
 title: son dakika
 slug: son-dakika
+letter: S
 lisan: Türkçe
 anlamlar:
 - Son anda gelişen

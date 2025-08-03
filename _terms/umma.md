@@ -2,6 +2,7 @@
 layout: term
 title: umma
 slug: umma
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ummak işi

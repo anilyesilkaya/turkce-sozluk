@@ -2,6 +2,7 @@
 layout: term
 title: borçlu harçlı
 slug: borclu-harcli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Borcu olan

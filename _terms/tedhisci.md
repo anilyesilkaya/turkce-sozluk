@@ -2,6 +2,7 @@
 layout: term
 title: tedhişçi
 slug: tedhisci
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► terörist

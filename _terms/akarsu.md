@@ -2,6 +2,7 @@
 layout: term
 title: akarsu
 slug: akarsu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yer altında veya dere, çay, ırmak gibi yeryüzünde belirli bir yatak içinde, eğim boyunca sürekli veya zaman zaman akan sulara verilen ad; abırevan

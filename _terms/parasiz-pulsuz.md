@@ -2,6 +2,7 @@
 layout: term
 title: parasız pulsuz
 slug: parasiz-pulsuz
+letter: P
 lisan: Türkçe
 anlamlar:
 - Parası olmayan

@@ -2,6 +2,7 @@
 layout: term
 title: dağlık
 slug: daglik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Birçok dağın bulunduğu, dağlarla kaplı (bölge)

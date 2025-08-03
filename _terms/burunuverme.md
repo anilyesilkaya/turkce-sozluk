@@ -2,6 +2,7 @@
 layout: term
 title: bürünüverme
 slug: burunuverme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bürünüvermek işi

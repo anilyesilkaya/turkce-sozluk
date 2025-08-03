@@ -2,6 +2,7 @@
 layout: term
 title: sumsuk
 slug: sumsuk
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► yumruk

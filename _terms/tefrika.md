@@ -2,6 +2,7 @@
 layout: term
 title: tefrika
 slug: tefrika
+letter: T
 lisan: Arapça tefriḳa
 anlamlar:
 - Gazete veya dergilerde çıkan, birbirini tamamlayan yazılardan oluşan dizi

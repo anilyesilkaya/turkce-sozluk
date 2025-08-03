@@ -2,6 +2,7 @@
 layout: term
 title: hınzır
 slug: hinzir
+letter: H
 lisan: Arapça ḫinzīr
 anlamlar:
 - Yaramaz, haylaz

@@ -2,6 +2,7 @@
 layout: term
 title: cetbecet
 slug: cetbecet
+letter: C
 lisan: Arapça ced + Farsça -be + Arapça ced
 anlamlar:
 - Atalardan beri, nesiller boyunca

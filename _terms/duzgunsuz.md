@@ -2,6 +2,7 @@
 layout: term
 title: düzgünsüz
 slug: duzgunsuz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Yüzüne düzgün sürmemiş olan

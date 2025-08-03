@@ -2,6 +2,7 @@
 layout: term
 title: oluşum
 slug: olusum
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oluşmak işi; teşekkül, teşkil

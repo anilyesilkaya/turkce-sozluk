@@ -2,6 +2,7 @@
 layout: term
 title: uydu
 slug: uydu
+letter: U
 lisan: Türkçe
 anlamlar:
 - Bir gezegenin çekiminde bulunarak onun çevresinde dolanan daha küçük gezegen; peyk

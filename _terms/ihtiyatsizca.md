@@ -2,6 +2,7 @@
 layout: term
 title: ihtiyatsızca
 slug: ihtiyatsizca
+letter: I
 lisan: Türkçe
 anlamlar:
 - İhtiyatsız bir biçimde

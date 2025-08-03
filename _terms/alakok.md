@@ -2,6 +2,7 @@
 layout: term
 title: alakok
 slug: alakok
+letter: A
 lisan: Fransızca à la coque
 anlamlar:
 - Rafadan yumurta

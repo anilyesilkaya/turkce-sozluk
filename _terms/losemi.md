@@ -2,6 +2,7 @@
 layout: term
 title: lösemi
 slug: losemi
+letter: L
 lisan: Fransızca leucémie
 anlamlar:
 - ► kan kanseri

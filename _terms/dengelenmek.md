@@ -2,6 +2,7 @@
 layout: term
 title: dengelenmek
 slug: dengelenmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dengesi sağlanmak; terazilenmek

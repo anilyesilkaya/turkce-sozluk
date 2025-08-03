@@ -2,6 +2,7 @@
 layout: term
 title: tepetaklak
 slug: tepetaklak
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► tepetakla

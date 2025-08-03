@@ -2,6 +2,7 @@
 layout: term
 title: açmaz
 slug: acmaz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Satranç oyununda şahı koruyan taşlardan birinin yerinden oynatılamaması durumu

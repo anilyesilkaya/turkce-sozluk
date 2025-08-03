@@ -2,6 +2,7 @@
 layout: term
 title: tezgâhçı
 slug: tezgahci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tezgâh yapıp satan kimse

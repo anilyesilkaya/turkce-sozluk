@@ -2,6 +2,7 @@
 layout: term
 title: pirpiri
 slug: pirpiri
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► pırpırı

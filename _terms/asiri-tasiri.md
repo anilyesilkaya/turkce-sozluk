@@ -2,6 +2,7 @@
 layout: term
 title: aşırı taşırı
 slug: asiri-tasiri
+letter: A
 lisan: Türkçe
 anlamlar:
 - Çok aşırı, fazla miktarda olan

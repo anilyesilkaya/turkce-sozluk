@@ -2,6 +2,7 @@
 layout: term
 title: yalıtılma
 slug: yalitilma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yalıtılmak işi

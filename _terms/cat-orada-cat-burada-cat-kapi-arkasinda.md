@@ -2,6 +2,7 @@
 layout: term
 title: çat orada çat burada çat kapı arkasında
 slug: cat-orada-cat-burada-cat-kapi-arkasinda
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - çok çabuk yer değiştiren birinin durumunu anlatan bir söz

@@ -2,6 +2,7 @@
 layout: term
 title: bastırmak
 slug: bastirmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Basma işini yaptırmak

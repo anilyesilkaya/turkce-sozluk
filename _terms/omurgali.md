@@ -2,6 +2,7 @@
 layout: term
 title: omurgalı
 slug: omurgali
+letter: O
 lisan: Türkçe
 anlamlar:
 - Omurgası bulunan

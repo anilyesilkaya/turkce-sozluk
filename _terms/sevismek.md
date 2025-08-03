@@ -2,6 +2,7 @@
 layout: term
 title: sevişmek
 slug: sevismek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Birbirini sevmek

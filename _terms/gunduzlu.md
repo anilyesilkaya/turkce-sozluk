@@ -2,6 +2,7 @@
 layout: term
 title: gündüzlü
 slug: gunduzlu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Okula gündüz giden, yatılı olmayan (öğrenci); yatısız, nehari

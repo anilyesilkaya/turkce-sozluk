@@ -2,6 +2,7 @@
 layout: term
 title: temsil etmek
 slug: temsil-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - hak ve görev bakımından bir kimse veya topluluğun adına davranmak

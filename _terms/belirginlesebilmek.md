@@ -2,6 +2,7 @@
 layout: term
 title: belirginleşebilmek
 slug: belirginlesebilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belirginleşme ihtimali veya imkânı bulunmak

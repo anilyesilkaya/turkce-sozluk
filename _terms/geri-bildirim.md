@@ -2,6 +2,7 @@
 layout: term
 title: geri bildirim
 slug: geri-bildirim
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gönderilen bilgi veya talimatın alıcıda yaptığı etkiye ilişkin edinilen bilgi; dönüt

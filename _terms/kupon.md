@@ -2,6 +2,7 @@
 layout: term
 title: kupon
 slug: kupon
+letter: K
 lisan: Fransızca coupon
 anlamlar:
 - Piyango biçiminde düzenlenmiş çekilişlerde kesilerek kullanılan basılı parça

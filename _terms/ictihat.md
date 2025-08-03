@@ -2,6 +2,7 @@
 layout: term
 title: içtihat
 slug: ictihat
+letter: I
 lisan: Arapça ictihād
 anlamlar:
 - Yasada veya örf ve âdet hukukunda uygulanacak kuralın açıkça ve tereddütsüz olarak bulunmadığı konularda, yargıcın veya hukukçunun düşüncelerinden doğan sonuç

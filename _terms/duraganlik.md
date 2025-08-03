@@ -2,6 +2,7 @@
 layout: term
 title: durağanlık
 slug: duraganlik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Durağan olma durumu

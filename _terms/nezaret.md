@@ -2,6 +2,7 @@
 layout: term
 title: nezaret
 slug: nezaret
+letter: N
 lisan: Arapça neẓāret
 anlamlar:
 - Bakma, gözetme, gözetim

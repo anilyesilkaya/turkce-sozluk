@@ -2,6 +2,7 @@
 layout: term
 title: doğruluk
 slug: dogruluk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Doğru ve dürüst olma durumu, doğru olana yakışır davranış; dürüstlük

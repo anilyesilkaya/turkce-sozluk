@@ -2,6 +2,7 @@
 layout: term
 title: mutsuzluk
 slug: mutsuzluk
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mutsuz olma durumu; bedbahtlık, saadetsizlik

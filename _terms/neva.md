@@ -2,6 +2,7 @@
 layout: term
 title: neva
 slug: neva
+letter: N
 lisan: Farsça nevā
 anlamlar:
 - Ses, ahenk, nağme

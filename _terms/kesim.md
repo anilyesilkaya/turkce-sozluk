@@ -2,6 +2,7 @@
 layout: term
 title: kesim
 slug: kesim
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kesmek işi

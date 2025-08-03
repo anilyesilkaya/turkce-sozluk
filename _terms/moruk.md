@@ -2,6 +2,7 @@
 layout: term
 title: moruk
 slug: moruk
+letter: M
 lisan: Ermenice
 anlamlar:
 - Gençlere göre yaşlı anne, baba

@@ -40,6 +40,7 @@ def to_md(term: str, fields: dict) -> str:
         "layout": "term",
         "title": term,  # keep the original Turkish spelling in the meta‑data
         "slug": safe_slug(term),
+        "letter": term[0].upper(),
         **fields,
     }
 
@@ -54,7 +55,6 @@ def to_md(term: str, fields: dict) -> str:
 
 
 # ──────────────────────────────────────────────────────────────────────────────
-
 def main(source: Path, out_dir: Path) -> None:
     with source.open(encoding="utf-8") as f:
         data: dict[str, dict] = json.load(f)

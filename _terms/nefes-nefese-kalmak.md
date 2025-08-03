@@ -2,6 +2,7 @@
 layout: term
 title: nefes nefese kalmak
 slug: nefes-nefese-kalmak
+letter: N
 lisan: Türkçe
 anlamlar:
 - soluğu tıkanacak gibi olmak

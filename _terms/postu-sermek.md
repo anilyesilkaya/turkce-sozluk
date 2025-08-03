@@ -2,6 +2,7 @@
 layout: term
 title: postu sermek
 slug: postu-sermek
+letter: P
 lisan: Türkçe
 anlamlar:
 - gittiği yerde uzun süre kalmak

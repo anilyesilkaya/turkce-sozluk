@@ -2,6 +2,7 @@
 layout: term
 title: tekeden süt çıkarmak
 slug: tekeden-sut-cikarmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - olamayacak şeyleri olur duruma getirmek

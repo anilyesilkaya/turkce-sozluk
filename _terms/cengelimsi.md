@@ -2,6 +2,7 @@
 layout: term
 title: çengelimsi
 slug: cengelimsi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çengelsi

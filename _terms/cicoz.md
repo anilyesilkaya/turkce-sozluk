@@ -2,6 +2,7 @@
 layout: term
 title: cicoz
 slug: cicoz
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cam veya toprak bilyelerle oynanan bir çocuk oyunu

@@ -2,6 +2,7 @@
 layout: term
 title: şişirebilme
 slug: sisirebilme
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şişirebilmek işi

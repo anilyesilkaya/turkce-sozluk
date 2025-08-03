@@ -2,6 +2,7 @@
 layout: term
 title: sollayabilmek
 slug: sollayabilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sollama ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: yumuşamak
 slug: yumusamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Sertliği kalmamak, yumuşak duruma gelmek

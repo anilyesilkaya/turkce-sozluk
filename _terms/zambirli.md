@@ -2,6 +2,7 @@
 layout: term
 title: zambırlı
 slug: zambirli
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► çalımlı

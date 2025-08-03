@@ -2,6 +2,7 @@
 layout: term
 title: izbandut
 slug: izbandut
+letter: I
 lisan: İtalyanca sbandato
 anlamlar:
 - Görünüşü ve davranışı ile korku veren (iri yarı adam)

@@ -2,6 +2,7 @@
 layout: term
 title: ağıtçılık
 slug: agitcilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağıtçının yaptığı iş; ağlayıcılık, saguculuk, mersiyehanlık

@@ -2,6 +2,7 @@
 layout: term
 title: Garpkâri
 slug: garpkari
+letter: G
 lisan: Türkçe
 anlamlar:
 - Batı örneklerine benzer

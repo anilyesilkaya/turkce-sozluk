@@ -2,6 +2,7 @@
 layout: term
 title: kapıştırmak
 slug: kapistirmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kapışma işini yaptırmak veya bu işin yapılmasına sebep olmak

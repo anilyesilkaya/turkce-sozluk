@@ -2,6 +2,7 @@
 layout: term
 title: yumurtlatmak
 slug: yumurtlatmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yumurtlama işini yaptırmak

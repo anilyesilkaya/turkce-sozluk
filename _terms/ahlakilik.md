@@ -2,6 +2,7 @@
 layout: term
 title: ahlakilik
 slug: ahlakilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Topluluk yaşamını, insan davranışlarını düzenleyerek insanların birbirlerine ve topluma karşı ödevlerini belirleyen kural ve ölçüler bütünü; törellik

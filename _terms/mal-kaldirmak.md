@@ -2,6 +2,7 @@
 layout: term
 title: mal kaldırmak
 slug: mal-kaldirmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - ürün elde etmek

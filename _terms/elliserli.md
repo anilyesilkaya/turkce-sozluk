@@ -2,6 +2,7 @@
 layout: term
 title: ellişerli
 slug: elliserli
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ellişer ellişer sıralanmış

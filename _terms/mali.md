@@ -2,6 +2,7 @@
 layout: term
 title: mali
 slug: mali
+letter: M
 lisan: Arapça mālī
 anlamlar:
 - Mal ile ilgili; finansal

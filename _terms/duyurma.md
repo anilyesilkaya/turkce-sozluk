@@ -2,6 +2,7 @@
 layout: term
 title: duyurma
 slug: duyurma
+letter: D
 lisan: Türkçe
 anlamlar:
 - Duyurmak işi

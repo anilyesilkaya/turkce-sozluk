@@ -2,6 +2,7 @@
 layout: term
 title: eğlenmek
 slug: eglenmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Neşeli, hoşça vakit geçirmek

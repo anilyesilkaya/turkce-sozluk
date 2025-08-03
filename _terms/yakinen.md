@@ -2,6 +2,7 @@
 layout: term
 title: yakinen
 slug: yakinen
+letter: Y
 lisan: Arapça yaḳīnen
 anlamlar:
 - Kesin olarak

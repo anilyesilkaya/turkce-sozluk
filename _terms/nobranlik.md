@@ -2,6 +2,7 @@
 layout: term
 title: nobranlık
 slug: nobranlik
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nobran olma durumu; nadanlık

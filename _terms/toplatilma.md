@@ -2,6 +2,7 @@
 layout: term
 title: toplatılma
 slug: toplatilma
+letter: T
 lisan: Türkçe
 anlamlar:
 - Toplatılmak işi

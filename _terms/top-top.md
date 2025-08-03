@@ -2,6 +2,7 @@
 layout: term
 title: top top
 slug: top-top
+letter: T
 lisan: Türkçe
 anlamlar:
 - Birçok topu bir arada bulunan (kumaş vb.)

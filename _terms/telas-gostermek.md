@@ -2,6 +2,7 @@
 layout: term
 title: telaş göstermek
 slug: telas-gostermek
+letter: T
 lisan: Türkçe
 anlamlar:
 - telaşını belli etmek

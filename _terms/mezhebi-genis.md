@@ -2,6 +2,7 @@
 layout: term
 title: mezhebi geniş
 slug: mezhebi-genis
+letter: M
 lisan: Türkçe
 anlamlar:
 - Namus konusunda aşırı hoşgörülü davranan (kimse); geniş mezhepli

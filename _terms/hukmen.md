@@ -2,6 +2,7 @@
 layout: term
 title: hükmen
 slug: hukmen
+letter: H
 lisan: Arapça ḥukmen
 anlamlar:
 - Hakem kararıyla

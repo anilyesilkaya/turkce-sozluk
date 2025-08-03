@@ -2,6 +2,7 @@
 layout: term
 title: hırsız feneri
 slug: hirsiz-feneri
+letter: H
 lisan: Türkçe
 anlamlar:
 - Karşısındakini gösterip taşıyanı göstermeyecek biçimde yapılmış önü camlı fener

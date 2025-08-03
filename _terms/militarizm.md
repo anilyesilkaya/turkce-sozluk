@@ -2,6 +2,7 @@
 layout: term
 title: militarizm
 slug: militarizm
+letter: M
 lisan: Fransızca militarisme
 anlamlar:
 - Bir ülkede ordu gücünün aşırı derecede ağır basması

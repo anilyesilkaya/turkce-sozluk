@@ -2,6 +2,7 @@
 layout: term
 title: tohumlama
 slug: tohumlama
+letter: T
 lisan: Türkçe
 anlamlar:
 - Döllemek işi

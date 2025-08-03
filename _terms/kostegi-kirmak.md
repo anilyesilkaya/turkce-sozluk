@@ -2,6 +2,7 @@
 layout: term
 title: kösteği kırmak
 slug: kostegi-kirmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - çocuk yürümeye başlamak

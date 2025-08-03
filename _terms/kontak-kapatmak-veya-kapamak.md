@@ -2,6 +2,7 @@
 layout: term
 title: kontak kapatmak (veya kapamak)
 slug: kontak-kapatmak-veya-kapamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir taşıtın çalışan motorunu durdurmak için kontak anahtarını çevirerek elektrik devresini kapamak

@@ -2,6 +2,7 @@
 layout: term
 title: havale
 slug: havale
+letter: H
 lisan: Arapça ḥavāle
 anlamlar:
 - Bir işi bir başkasının sorumluluğuna bırakma, ısmarlama, devretme

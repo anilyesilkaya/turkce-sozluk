@@ -2,6 +2,7 @@
 layout: term
 title: mazlum
 slug: mazlum
+letter: M
 lisan: Arapça maẓlūm
 anlamlar:
 - Zulüm görmüş, kendisine zulmedilmiş

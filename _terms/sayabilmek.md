@@ -2,6 +2,7 @@
 layout: term
 title: sayabilmek
 slug: sayabilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sayma ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: cennetmekân
 slug: cennetmekan
+letter: C
 lisan: Arapça cennet + mekān
 anlamlar:
 - ► cennetlik

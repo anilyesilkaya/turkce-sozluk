@@ -2,6 +2,7 @@
 layout: term
 title: mevize
 slug: mevize
+letter: M
 lisan: Arapça mevʿiẓe
 anlamlar:
 - ► vaaz

@@ -2,6 +2,7 @@
 layout: term
 title: gelip gitmek
 slug: gelip-gitmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - bir yere sık sık gitmek

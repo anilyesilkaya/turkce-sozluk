@@ -2,6 +2,7 @@
 layout: term
 title: iler tutar yeri olmamak (veya kalmamak)
 slug: iler-tutar-yeri-olmamak-veya-kalmamak
+letter: I
 lisan: Türkçe
 anlamlar:
 - çok dağınık, kötü, bozuk veya berbat bir duruma gelmek

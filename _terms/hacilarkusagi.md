@@ -2,6 +2,7 @@
 layout: term
 title: hacılarkuşağı
 slug: hacilarkusagi
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► gökkuşağı

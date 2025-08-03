@@ -2,6 +2,7 @@
 layout: term
 title: sille
 slug: sille
+letter: S
 lisan: Farsça sīlī
 anlamlar:
 - Elin iç yüzüyle vurulan tokat

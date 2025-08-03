@@ -2,6 +2,7 @@
 layout: term
 title: pışpışlayabilmek
 slug: pispislayabilmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pışpışlama ihtimali veya imkânı bulunmak

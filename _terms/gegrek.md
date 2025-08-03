@@ -2,6 +2,7 @@
 layout: term
 title: geğrek
 slug: gegrek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Kaburganın alt yanında bulunan boşluklardan her biri

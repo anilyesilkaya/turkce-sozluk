@@ -2,6 +2,7 @@
 layout: term
 title: irca etmek
 slug: irca-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - eski biçime sokmak, çevirmek, döndürmek

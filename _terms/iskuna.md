@@ -2,6 +2,7 @@
 layout: term
 title: ıskuna
 slug: iskuna
+letter: I
 lisan: İngilizce schooner
 anlamlar:
 - Brikten küçük, iki direkli bir tür yelkenli gemi

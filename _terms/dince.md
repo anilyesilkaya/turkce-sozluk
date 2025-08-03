@@ -2,6 +2,7 @@
 layout: term
 title: dince
 slug: dince
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dinî bakımdan, dine göre

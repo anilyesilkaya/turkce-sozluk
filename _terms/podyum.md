@@ -2,6 +2,7 @@
 layout: term
 title: podyum
 slug: podyum
+letter: P
 lisan: Fransızca podium
 anlamlar:
 - Mankenlerin giysileri sergilemek için çıktıkları, seyircilerin içerisine doğru uzayan, yüksekçe yer

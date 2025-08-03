@@ -2,6 +2,7 @@
 layout: term
 title: kazalı
 slug: kazali
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaza ihtimali yüksek olan

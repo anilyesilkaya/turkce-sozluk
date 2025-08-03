@@ -2,6 +2,7 @@
 layout: term
 title: yakış
 slug: yakis
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yakmak işi

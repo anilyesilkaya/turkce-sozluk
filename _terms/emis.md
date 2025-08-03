@@ -2,6 +2,7 @@
 layout: term
 title: emiş
 slug: emis
+letter: E
 lisan: Türkçe
 anlamlar:
 - Emmek işi

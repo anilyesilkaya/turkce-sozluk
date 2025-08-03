@@ -2,6 +2,7 @@
 layout: term
 title: ağaçsız
 slug: agacsiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağacı olmayan

@@ -2,6 +2,7 @@
 layout: term
 title: cinaslı
 slug: cinasli
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cinası olan, cinas sanatı bulunan; ündeşli

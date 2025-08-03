@@ -2,6 +2,7 @@
 layout: term
 title: dünyada
 slug: dunyada
+letter: D
 lisan: Türkçe
 anlamlar:
 - Hiçbir zaman, hiçbir biçimde

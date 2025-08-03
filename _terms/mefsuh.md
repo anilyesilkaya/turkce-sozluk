@@ -2,6 +2,7 @@
 layout: term
 title: mefsuh
 slug: mefsuh
+letter: M
 lisan: Arapça mefsūḫ
 anlamlar:
 - Feshedilmiş, kaldırılmış, dağıtılmış, bozulmuş

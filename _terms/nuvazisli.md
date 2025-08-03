@@ -2,6 +2,7 @@
 layout: term
 title: nüvazişli
 slug: nuvazisli
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► nevazişli

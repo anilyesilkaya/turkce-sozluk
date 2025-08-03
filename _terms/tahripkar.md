@@ -2,6 +2,7 @@
 layout: term
 title: tahripkâr
 slug: tahripkar
+letter: T
 lisan: Arapça taḥrīb + Farsça -kār
 anlamlar:
 - Yıkıcı, yıkan, zarar veren, tahrip eden

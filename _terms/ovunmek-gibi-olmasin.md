@@ -2,6 +2,7 @@
 layout: term
 title: övünmek gibi olmasın
 slug: ovunmek-gibi-olmasin
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - kendini övmeye hazırlanan kimselerce, övünmesini hoş göstermek veya alçak gönüllü görünebilmek için kullanılan bir söz

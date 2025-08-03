@@ -2,6 +2,7 @@
 layout: term
 title: rahat döşeği
 slug: rahat-dosegi
+letter: R
 lisan: Türkçe
 anlamlar:
 - Bir insanın içinde yatıp kalktığı yatak

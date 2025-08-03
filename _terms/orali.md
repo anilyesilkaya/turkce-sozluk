@@ -2,6 +2,7 @@
 layout: term
 title: oralı
 slug: orali
+letter: O
 lisan: Türkçe
 anlamlar:
 - O yerden olan

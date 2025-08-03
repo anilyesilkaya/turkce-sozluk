@@ -2,6 +2,7 @@
 layout: term
 title: arantı
 slug: aranti
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aranılan çözüm

@@ -2,6 +2,7 @@
 layout: term
 title: dallı
 slug: dalli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dalları olan

@@ -2,6 +2,7 @@
 layout: term
 title: açık maaşı
 slug: acik-maasi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Görevinden alınan birine yasaca tanınan belirli bir süre içinde ödenen aylık

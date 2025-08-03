@@ -2,6 +2,7 @@
 layout: term
 title: kıdem
 slug: kidem
+letter: K
 lisan: Arapça ḳidem
 anlamlar:
 - Bir görevde rütbece eskilik

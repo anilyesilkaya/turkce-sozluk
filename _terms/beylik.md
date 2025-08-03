@@ -2,6 +2,7 @@
 layout: term
 title: beylik
 slug: beylik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bey olma durumu

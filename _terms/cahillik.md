@@ -2,6 +2,7 @@
 layout: term
 title: cahillik
 slug: cahillik
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► bilgisizlik

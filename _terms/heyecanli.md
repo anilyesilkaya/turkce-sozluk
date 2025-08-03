@@ -2,6 +2,7 @@
 layout: term
 title: heyecanlı
 slug: heyecanli
+letter: H
 lisan: Türkçe
 anlamlar:
 - Çabuk, kolay heyecanlanan; müteheyyiç

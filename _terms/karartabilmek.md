@@ -2,6 +2,7 @@
 layout: term
 title: karartabilmek
 slug: karartabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karartma ihtimali veya imkânı bulunmak

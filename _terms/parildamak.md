@@ -2,6 +2,7 @@
 layout: term
 title: parıldamak
 slug: parildamak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Güçlü bir ışık çıkarmak, ışık  saçmak; parlamak, yalabımak, yıldıramak

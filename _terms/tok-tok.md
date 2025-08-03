@@ -2,6 +2,7 @@
 layout: term
 title: tok tok
 slug: tok-tok
+letter: T
 lisan: Türkçe
 anlamlar:
 - Kalın ve gür sesle

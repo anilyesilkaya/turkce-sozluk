@@ -2,6 +2,7 @@
 layout: term
 title: hafifleşmek
 slug: hafiflesmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hafif duruma gelmek

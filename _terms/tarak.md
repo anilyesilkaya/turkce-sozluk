@@ -2,6 +2,7 @@
 layout: term
 title: tarak
 slug: tarak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Saçların, sakalın, hayvan tüylerinin karışıklığını gidermeye veya kadınların saçlarını tutturmaya yarayan dişli araç

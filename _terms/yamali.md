@@ -2,6 +2,7 @@
 layout: term
 title: yamalı
 slug: yamali
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yama vurulmuş, yama ile onarılmış olan

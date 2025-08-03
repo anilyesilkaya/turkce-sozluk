@@ -2,6 +2,7 @@
 layout: term
 title: icazet almak
 slug: icazet-almak
+letter: I
 lisan: Türkçe
 anlamlar:
 - izin, onay almak

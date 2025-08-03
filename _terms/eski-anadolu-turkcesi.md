@@ -2,6 +2,7 @@
 layout: term
 title: Eski Anadolu Türkçesi
 slug: eski-anadolu-turkcesi
+letter: E
 lisan: Türkçe
 anlamlar:
 - XIII-XV. yüzyıllar arasında Anadolu Selçuklu, Beylikler ve Osmanlı Dönemi’nde yaşayan Oğuz Türklerinin kullandığı konuşma ve yazı dili; Eski Oğuz Türkçesi, Eski Türkiye Türkçesi

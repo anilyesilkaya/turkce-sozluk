@@ -2,6 +2,7 @@
 layout: term
 title: çetecilik
 slug: cetecilik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çetecinin yaptığı iş

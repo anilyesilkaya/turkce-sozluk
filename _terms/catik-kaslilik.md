@@ -2,6 +2,7 @@
 layout: term
 title: çatık kaşlılık
 slug: catik-kaslilik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çatık kaşlı olma durumu

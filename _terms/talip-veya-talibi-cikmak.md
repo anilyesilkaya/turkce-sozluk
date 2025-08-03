@@ -2,6 +2,7 @@
 layout: term
 title: talip (veya talibi) çıkmak
 slug: talip-veya-talibi-cikmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - kız evlenme teklifi almak

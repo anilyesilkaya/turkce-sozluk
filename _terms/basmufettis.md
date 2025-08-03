@@ -2,6 +2,7 @@
 layout: term
 title: başmüfettiş
 slug: basmufettis
+letter: B
 lisan: Türkçe baş + Arapça mufettiş
 anlamlar:
 - ► başdenetmen

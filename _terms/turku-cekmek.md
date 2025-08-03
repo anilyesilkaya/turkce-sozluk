@@ -2,6 +2,7 @@
 layout: term
 title: türkü çekmek
 slug: turku-cekmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - türkü söylemek

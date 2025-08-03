@@ -2,6 +2,7 @@
 layout: term
 title: geometrik dizi
 slug: geometrik-dizi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Ardışık terimleri arasındaki oranı değişmeyen dizi

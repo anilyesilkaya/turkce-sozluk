@@ -2,6 +2,7 @@
 layout: term
 title: zurnanın zırt dediği yer
 slug: zurnanin-zirt-dedigi-yer
+letter: Z
 lisan: Türkçe
 anlamlar:
 - sürdürülmekte olan bir işin en can alıcı noktası

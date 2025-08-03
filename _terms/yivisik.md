@@ -2,6 +2,7 @@
 layout: term
 title: yıvışık
 slug: yivisik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Islak, kaygan, yapışkan olan

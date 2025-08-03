@@ -2,6 +2,7 @@
 layout: term
 title: örtücü
 slug: ortucu
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Örtü yapan veya satan kimse

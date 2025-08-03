@@ -2,6 +2,7 @@
 layout: term
 title: boz
 slug: boz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Açık toprak rengi

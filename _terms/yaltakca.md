@@ -2,6 +2,7 @@
 layout: term
 title: yaltakça
 slug: yaltakca
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► dalkavukça

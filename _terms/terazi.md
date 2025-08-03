@@ -2,6 +2,7 @@
 layout: term
 title: terazi
 slug: terazi
+letter: T
 lisan: Farsça terāzū
 anlamlar:
 - Bir kolun iki ucuna asılı iki kefeden oluşan tartı; mizan, vezne

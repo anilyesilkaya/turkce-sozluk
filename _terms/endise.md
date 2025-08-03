@@ -2,6 +2,7 @@
 layout: term
 title: endişe
 slug: endise
+letter: E
 lisan: Farsça endīşe
 anlamlar:
 - ► kaygı

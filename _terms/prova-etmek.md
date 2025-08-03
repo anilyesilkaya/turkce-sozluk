@@ -2,6 +2,7 @@
 layout: term
 title: prova etmek
 slug: prova-etmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - bir giysiye son biçimini vermeden önce giysiyi giyecek kişinin üzerinde düzeltmek

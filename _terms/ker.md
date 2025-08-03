@@ -2,6 +2,7 @@
 layout: term
 title: ker
 slug: ker
+letter: K
 lisan: Farsça ker
 anlamlar:
 - Kuvvet, kudret

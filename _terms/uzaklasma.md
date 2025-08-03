@@ -2,6 +2,7 @@
 layout: term
 title: uzaklaşma
 slug: uzaklasma
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uzaklaşmak durumu; ıraklaşma, ırama

@@ -2,6 +2,7 @@
 layout: term
 title: on paralık etmek
 slug: on-paralik-etmek
+letter: O
 lisan: Türkçe
 anlamlar:
 - birine hakarette bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: orta hizmeti
 slug: orta-hizmeti
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► orta işi

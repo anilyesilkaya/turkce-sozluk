@@ -2,6 +2,7 @@
 layout: term
 title: coğrafyacı
 slug: cografyaci
+letter: C
 lisan: Türkçe
 anlamlar:
 - Coğrafya araştırmaları yapan kimse

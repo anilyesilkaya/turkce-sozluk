@@ -2,6 +2,7 @@
 layout: term
 title: gerginleşmek
 slug: gerginlesmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gergin duruma gelmek

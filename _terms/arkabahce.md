@@ -2,6 +2,7 @@
 layout: term
 title: arkabahçe
 slug: arkabahce
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir bölgeyi çevreleyen ve onunla ekonomik ve toplumsal etkileşim içinde bulunan bölge; hinterlant

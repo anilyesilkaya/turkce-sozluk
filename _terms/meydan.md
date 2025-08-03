@@ -2,6 +2,7 @@
 layout: term
 title: meydan
 slug: meydan
+letter: M
 lisan: Arapça meydān
 anlamlar:
 - ► alan

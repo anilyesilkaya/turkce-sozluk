@@ -2,6 +2,7 @@
 layout: term
 title: düzenleşik
 slug: duzenlesik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düzenleri birbirine uygun

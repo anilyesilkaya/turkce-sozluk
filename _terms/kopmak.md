@@ -2,6 +2,7 @@
 layout: term
 title: kopmak
 slug: kopmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Herhangi bir yerinden ikiye ayrılmak

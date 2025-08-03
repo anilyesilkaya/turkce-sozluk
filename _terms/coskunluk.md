@@ -2,6 +2,7 @@
 layout: term
 title: coşkunluk
 slug: coskunluk
+letter: C
 lisan: Türkçe
 anlamlar:
 - Coşkun olma durumu

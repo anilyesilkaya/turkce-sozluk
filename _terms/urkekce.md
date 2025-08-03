@@ -2,6 +2,7 @@
 layout: term
 title: ürkekçe
 slug: urkekce
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - ► ürkek

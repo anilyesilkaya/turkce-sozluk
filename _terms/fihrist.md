@@ -2,6 +2,7 @@
 layout: term
 title: fihrist
 slug: fihrist
+letter: F
 lisan: Farsça fihrist
 anlamlar:
 - ► içindekiler

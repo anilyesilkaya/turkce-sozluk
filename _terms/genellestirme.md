@@ -2,6 +2,7 @@
 layout: term
 title: genelleştirme
 slug: genellestirme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Genel duruma getirme; umumileştirme

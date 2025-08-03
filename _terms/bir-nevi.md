@@ -2,6 +2,7 @@
 layout: term
 title: bir nevi
 slug: bir-nevi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir çeşit

@@ -2,6 +2,7 @@
 layout: term
 title: komite
 slug: komite
+letter: K
 lisan: Fransızca comité
 anlamlar:
 - ► alt kurul

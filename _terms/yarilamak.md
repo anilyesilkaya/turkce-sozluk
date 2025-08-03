@@ -2,6 +2,7 @@
 layout: term
 title: yarılamak
 slug: yarilamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yarısını bitirmek

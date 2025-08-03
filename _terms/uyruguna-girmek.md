@@ -2,6 +2,7 @@
 layout: term
 title: uyruğuna girmek
 slug: uyruguna-girmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - bir devletin yönetimini kabul etmek

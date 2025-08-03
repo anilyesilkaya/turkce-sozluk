@@ -2,6 +2,7 @@
 layout: term
 title: Yaradan'a kurban (olayım)
 slug: yaradan-a-kurban-olayim
+letter: Y
 lisan: Türkçe
 anlamlar:
 - bir şeye hayran kalındığında söylenen bir söz

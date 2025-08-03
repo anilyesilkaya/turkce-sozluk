@@ -2,6 +2,7 @@
 layout: term
 title: bir yana dünya bir yana
 slug: bir-yana-dunya-bir-yana
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir varlığa çok değer verildiğini anlatmak için kullanılan bir söz

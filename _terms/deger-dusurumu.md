@@ -2,6 +2,7 @@
 layout: term
 title: değer düşürümü
 slug: deger-dusurumu
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► devalüasyon

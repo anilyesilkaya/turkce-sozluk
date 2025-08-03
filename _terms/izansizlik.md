@@ -2,6 +2,7 @@
 layout: term
 title: izansızlık
 slug: izansizlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► anlayışsızlık

@@ -2,6 +2,7 @@
 layout: term
 title: engin
 slug: engin
+letter: E
 lisan: Türkçe
 anlamlar:
 - Değer ve fiyatı düşük olan

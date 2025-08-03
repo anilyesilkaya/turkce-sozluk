@@ -2,6 +2,7 @@
 layout: term
 title: ihtilattan menetmek
 slug: ihtilattan-menetmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - bir hükümlünün başkasıyla görüşmesini yasaklamak

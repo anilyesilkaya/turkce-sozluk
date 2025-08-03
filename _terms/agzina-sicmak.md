@@ -2,6 +2,7 @@
 layout: term
 title: ağzına sıçmak
 slug: agzina-sicmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - birisini çok kötü duruma sokmak

@@ -2,6 +2,7 @@
 layout: term
 title: yansıma
 slug: yansima
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yansımak işi; yansınım, yansılama, aksetme

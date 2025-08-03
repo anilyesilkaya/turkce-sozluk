@@ -2,6 +2,7 @@
 layout: term
 title: şemsiye
 slug: semsiye
+letter: Ş
 lisan: Arapça şemsiyye
 anlamlar:
 - Bir sapın üzerinde esnek tellere gerilmiş, açılıp kapanabilen, yağmur ve güneşten korunmak için kullanılan, su geçirmez kumaştan yapılmış taşınabilir eşya; güncek

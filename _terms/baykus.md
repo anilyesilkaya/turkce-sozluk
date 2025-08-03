@@ -2,6 +2,7 @@
 layout: term
 title: baykuş
 slug: baykus
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başında, kulak yerinde iki sorgucu bulunan, yırtıcı gece kuşlarının genel adı

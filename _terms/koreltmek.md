@@ -2,6 +2,7 @@
 layout: term
 title: köreltmek
 slug: koreltmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Körelmesini sağlamak

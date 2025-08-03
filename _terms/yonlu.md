@@ -2,6 +2,7 @@
 layout: term
 title: yönlü
 slug: yonlu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yönü olan

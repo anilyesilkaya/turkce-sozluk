@@ -2,6 +2,7 @@
 layout: term
 title: ölüm gibi
 slug: olum-gibi
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - çok büyük sıkıntı, üzüntü

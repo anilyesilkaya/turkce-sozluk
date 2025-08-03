@@ -2,6 +2,7 @@
 layout: term
 title: zonklatma
 slug: zonklatma
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zonklatmak işi

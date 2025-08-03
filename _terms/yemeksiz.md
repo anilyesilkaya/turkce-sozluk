@@ -2,6 +2,7 @@
 layout: term
 title: yemeksiz
 slug: yemeksiz
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yemek verilmeyen

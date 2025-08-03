@@ -2,6 +2,7 @@
 layout: term
 title: belagatsiz
 slug: belagatsiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belagati olmayan

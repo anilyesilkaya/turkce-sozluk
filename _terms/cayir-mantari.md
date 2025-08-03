@@ -2,6 +2,7 @@
 layout: term
 title: çayır mantarı
 slug: cayir-mantari
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çayır ve meralarda, orman altlarında ilkbahar ve sonbahar aylarında yetişen, şapkasının üstü genellikle beyaz, altı pembe tonlarında, zehirli türleri de bulunan, bazitli mantarların ortak adı (Agaricaceae)

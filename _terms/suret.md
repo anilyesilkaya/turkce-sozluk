@@ -2,6 +2,7 @@
 layout: term
 title: suret
 slug: suret
+letter: S
 lisan: Arapça ṣūret
 anlamlar:
 - Dış görünüş

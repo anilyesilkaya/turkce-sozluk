@@ -2,6 +2,7 @@
 layout: term
 title: kibarlık
 slug: kibarlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kibar olma durumu

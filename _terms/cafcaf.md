@@ -2,6 +2,7 @@
 layout: term
 title: cafcaf
 slug: cafcaf
+letter: C
 lisan: Farsça cāfcāf
 anlamlar:
 - ► gösteriş

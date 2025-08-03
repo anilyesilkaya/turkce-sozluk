@@ -2,6 +2,7 @@
 layout: term
 title: can olmak
 slug: can-olmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - sevimli, hoş görünmek

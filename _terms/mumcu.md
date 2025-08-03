@@ -2,6 +2,7 @@
 layout: term
 title: mumcu
 slug: mumcu
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mum yapan veya satan kimse

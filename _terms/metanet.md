@@ -2,6 +2,7 @@
 layout: term
 title: metanet
 slug: metanet
+letter: M
 lisan: Arapça metānet
 anlamlar:
 - ► dayanma

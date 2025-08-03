@@ -2,6 +2,7 @@
 layout: term
 title: yuvarlamak
 slug: yuvarlamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir şeyi bir yerden kaldırmadan ekseni çevresinde döndürerek yürütmek; tekerlemek

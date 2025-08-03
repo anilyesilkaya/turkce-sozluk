@@ -2,6 +2,7 @@
 layout: term
 title: katkıda bulunmak
 slug: katkida-bulunmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir şeyin oluşmasına, gelişmesine veya gerçekleşmesine emek, bilgi, para vb. ile yardım etmek

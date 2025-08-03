@@ -2,6 +2,7 @@
 layout: term
 title: bölgesellik
 slug: bolgesellik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bölgesel olma durumu

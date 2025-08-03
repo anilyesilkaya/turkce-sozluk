@@ -2,6 +2,7 @@
 layout: term
 title: bembeyaz
 slug: bembeyaz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çok beyaz; apak, ak pak

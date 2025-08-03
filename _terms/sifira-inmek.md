@@ -2,6 +2,7 @@
 layout: term
 title: sıfıra inmek
 slug: sifira-inmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - bitmek, tükenmek, yok olmak

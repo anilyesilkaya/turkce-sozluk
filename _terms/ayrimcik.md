@@ -2,6 +2,7 @@
 layout: term
 title: ayrımcık
 slug: ayrimcik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Küçük ayrım

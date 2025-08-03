@@ -2,6 +2,7 @@
 layout: term
 title: el kapısı
 slug: el-kapisi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Geçimi sağlamak için çalışılan yer

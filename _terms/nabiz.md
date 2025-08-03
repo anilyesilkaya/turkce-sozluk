@@ -2,6 +2,7 @@
 layout: term
 title: nabız
 slug: nabiz
+letter: N
 lisan: Arapça nabż
 anlamlar:
 - Kalp atışının sağladığı kan basıncından dolayı atardamarlara parmakla basıldığında duyulan vuru

@@ -2,6 +2,7 @@
 layout: term
 title: yangın merdiveni
 slug: yangin-merdiveni
+letter: Y
 lisan: Türkçe
 anlamlar:
 - İtfaiyecilerin yangında ve kurtarma işlerinde kullandıkları merdiven

@@ -2,6 +2,7 @@
 layout: term
 title: aerodinamik
 slug: aerodinamik
+letter: A
 lisan: Fransızca aérodynamique
 anlamlar:
 - Hareket hâlinde olan bir cisim üzerinde havanın yarattığı etkiyi inceleyen bilim

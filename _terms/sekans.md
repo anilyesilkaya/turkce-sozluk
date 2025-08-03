@@ -2,6 +2,7 @@
 layout: term
 title: sekans
 slug: sekans
+letter: S
 lisan: Fransızca séquence
 anlamlar:
 - ► dizi

@@ -2,6 +2,7 @@
 layout: term
 title: adıyla sanıyla
 slug: adiyla-saniyla
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bilinen ün ve niteliğiyle; ismiyle cismiyle

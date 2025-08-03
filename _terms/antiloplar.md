@@ -2,6 +2,7 @@
 layout: term
 title: antiloplar
 slug: antiloplar
+letter: A
 lisan: Türkçe
 anlamlar:
 - Çift tırnaklı, geviş getiren, zarif ve süratli hayvanların meydana getirdiği bir alt familya

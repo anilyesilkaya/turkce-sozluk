@@ -2,6 +2,7 @@
 layout: term
 title: eşkâl
 slug: eskal
+letter: E
 lisan: Arapça eşkāl
 anlamlar:
 - Dıştan görünüş

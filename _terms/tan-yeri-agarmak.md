@@ -2,6 +2,7 @@
 layout: term
 title: tan yeri ağarmak
 slug: tan-yeri-agarmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - sabah olmaya başlamak, ufku belli belirsiz bir aydınlık kaplamak

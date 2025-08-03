@@ -2,6 +2,7 @@
 layout: term
 title: garazlı
 slug: garazli
+letter: G
 lisan: Türkçe
 anlamlar:
 - Kin güden, garazı olan; garazkâr

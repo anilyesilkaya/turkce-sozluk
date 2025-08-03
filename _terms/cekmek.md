@@ -2,6 +2,7 @@
 layout: term
 title: çekmek
 slug: cekmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir şeyi tutup kendine veya başka bir yöne doğru yürütmek

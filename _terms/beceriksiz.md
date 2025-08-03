@@ -2,6 +2,7 @@
 layout: term
 title: beceriksiz
 slug: beceriksiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Becerisi olmayan, usta olmayan; becerisiz, maharetsiz, gıygıycı

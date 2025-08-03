@@ -2,6 +2,7 @@
 layout: term
 title: vur patlasın, çal oynasın
 slug: vur-patlasin-cal-oynasin
+letter: V
 lisan: Türkçe
 anlamlar:
 - aşırı zevk ve eğlenceyi anlatan bir söz

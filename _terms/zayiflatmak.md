@@ -2,6 +2,7 @@
 layout: term
 title: zayıflatmak
 slug: zayiflatmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zayıf olmasına yol açmak; eritmek

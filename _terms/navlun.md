@@ -2,6 +2,7 @@
 layout: term
 title: navlun
 slug: navlun
+letter: N
 lisan: Rumca
 anlamlar:
 - Bir yerden başka yere ulaştırmak için gemiye alınan eşyanın bütünü

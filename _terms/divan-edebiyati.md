@@ -2,6 +2,7 @@
 layout: term
 title: divan edebiyatı
 slug: divan-edebiyati
+letter: D
 lisan: Türkçe
 anlamlar:
 - XIII-XIX. yüzyıllar arasında dil, konu, işleniş bakımından Arap, Fars etkisi altında gelişmiş Türk edebiyatı

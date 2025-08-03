@@ -2,6 +2,7 @@
 layout: term
 title: müsteşar
 slug: mustesar
+letter: M
 lisan: Arapça musteşār
 anlamlar:
 - Kendisinden bilgi alınan, kendisine danışılan kimse

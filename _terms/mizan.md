@@ -2,6 +2,7 @@
 layout: term
 title: mizan
 slug: mizan
+letter: M
 lisan: Arapça mīzān
 anlamlar:
 - ► terazi

@@ -2,6 +2,7 @@
 layout: term
 title: arkası kesilmek
 slug: arkasi-kesilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - tükenmek, son bulmak

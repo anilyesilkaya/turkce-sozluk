@@ -2,6 +2,7 @@
 layout: term
 title: kabaklaşmak
 slug: kabaklasmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Saçları dökülmek

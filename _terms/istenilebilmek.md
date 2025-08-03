@@ -2,6 +2,7 @@
 layout: term
 title: istenilebilmek
 slug: istenilebilmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İstenme ihtimali veya imkânı bulunmak

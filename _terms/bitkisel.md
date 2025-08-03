@@ -2,6 +2,7 @@
 layout: term
 title: bitkisel
 slug: bitkisel
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bitki ile ilgili, bitki cinsinden olan

@@ -2,6 +2,7 @@
 layout: term
 title: serkeş
 slug: serkes
+letter: S
 lisan: Farsça serkeş
 anlamlar:
 - Kafa tutan, başkaldıran

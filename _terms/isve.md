@@ -2,6 +2,7 @@
 layout: term
 title: işve
 slug: isve
+letter: I
 lisan: Arapça ʿişve
 anlamlar:
 - ► cilve

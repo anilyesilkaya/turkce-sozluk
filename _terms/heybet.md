@@ -2,6 +2,7 @@
 layout: term
 title: heybet
 slug: heybet
+letter: H
 lisan: Arapça heybet
 anlamlar:
 - Korku ve saygı uyandıran görünüş

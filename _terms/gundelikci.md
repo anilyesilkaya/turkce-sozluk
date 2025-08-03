@@ -2,6 +2,7 @@
 layout: term
 title: gündelikçi
 slug: gundelikci
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gündelikle çalışan kimse; günlükçü, yevmiyeci

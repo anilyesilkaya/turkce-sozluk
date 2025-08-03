@@ -2,6 +2,7 @@
 layout: term
 title: biçem
 slug: bicem
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► üslup

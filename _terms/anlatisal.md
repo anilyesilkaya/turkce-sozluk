@@ -2,6 +2,7 @@
 layout: term
 title: anlatısal
 slug: anlatisal
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anlatı özelliği taşıyan, anlatıyla ilgili

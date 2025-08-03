@@ -2,6 +2,7 @@
 layout: term
 title: bademsiz
 slug: bademsiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - İçinde badem bulunmayan

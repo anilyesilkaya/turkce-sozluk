@@ -2,6 +2,7 @@
 layout: term
 title: açık
 slug: acik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Açılmış, kapalı olmayan, kapalı karşıtı

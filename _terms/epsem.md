@@ -2,6 +2,7 @@
 layout: term
 title: epsem
 slug: epsem
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ses çıkarmayan, susan

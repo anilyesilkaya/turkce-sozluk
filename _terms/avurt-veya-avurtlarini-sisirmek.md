@@ -2,6 +2,7 @@
 layout: term
 title: avurt (veya avurtlarını) şişirmek
 slug: avurt-veya-avurtlarini-sisirmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - yanağın iç tarafındaki boşluğu su veya havayla doldurup şişkin duruma getirmek

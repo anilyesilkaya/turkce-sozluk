@@ -2,6 +2,7 @@
 layout: term
 title: akarı kokarı olmamak
 slug: akari-kokari-olmamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - bilinen herhangi bir eksiği, kusuru bulunmamak

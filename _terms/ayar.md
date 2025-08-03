@@ -2,6 +2,7 @@
 layout: term
 title: ayar
 slug: ayar
+letter: A
 lisan: Arapça ʿiyār
 anlamlar:
 - Bir aygıtın gereken işi yapabilmesi durumu

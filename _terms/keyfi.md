@@ -2,6 +2,7 @@
 layout: term
 title: keyfî
 slug: keyfi
+letter: K
 lisan: Arapça keyfī
 anlamlar:
 - İsteğe bağlı olan

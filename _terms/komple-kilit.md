@@ -2,6 +2,7 @@
 layout: term
 title: komple kilit
 slug: komple-kilit
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir mobilyanın sadece bir çekmece veya kapağına takılan, kilitlendiğinde mobilyanın bütün kapak ve çekmecelerini kilitleyebilen özel bir kilit türü

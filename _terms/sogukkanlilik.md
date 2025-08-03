@@ -2,6 +2,7 @@
 layout: term
 title: soğukkanlılık
 slug: sogukkanlilik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Soğukkanlı olma durumu; serinkanlılık, itidal

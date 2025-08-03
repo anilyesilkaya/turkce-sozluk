@@ -2,6 +2,7 @@
 layout: term
 title: voyvodalık
 slug: voyvodalik
+letter: V
 lisan: Türkçe
 anlamlar:
 - Voyvoda olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: sükût
 slug: sukut
+letter: S
 lisan: Arapça sukūt
 anlamlar:
 - Susma, konuşmama, söz söylememe

@@ -2,6 +2,7 @@
 layout: term
 title: sözleşmeli
 slug: sozlesmeli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sözleşmeye dayanan, sözleşme yapılan; mukaveleli, kontratlı

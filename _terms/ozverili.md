@@ -2,6 +2,7 @@
 layout: term
 title: özverili
 slug: ozverili
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Özveri ile davranan, özverisi olan; özveren, fedakâr

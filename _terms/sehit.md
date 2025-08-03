@@ -2,6 +2,7 @@
 layout: term
 title: şehit
 slug: sehit
+letter: Ş
 lisan: Arapça şehīd
 anlamlar:
 - Kutsal bir ülkü veya inanç uğrunda ölen kimse

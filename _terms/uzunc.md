@@ -2,6 +2,7 @@
 layout: term
 title: üzünç
 slug: uzunc
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - ► üzüntü

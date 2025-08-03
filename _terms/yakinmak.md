@@ -2,6 +2,7 @@
 layout: term
 title: yakınmak
 slug: yakinmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Sızlanarak anlatmak; sızlamak

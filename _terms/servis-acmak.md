@@ -2,6 +2,7 @@
 layout: term
 title: servis açmak
 slug: servis-acmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - lokantalarda yeni gelen müşterinin masasına tabak, çatal, bıçak, bardak vb. koymak

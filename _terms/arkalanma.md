@@ -2,6 +2,7 @@
 layout: term
 title: arkalanma
 slug: arkalanma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arkalanmak durumu

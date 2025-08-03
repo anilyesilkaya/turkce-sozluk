@@ -2,6 +2,7 @@
 layout: term
 title: bağlantı
 slug: baglanti
+letter: B
 lisan: Türkçe
 anlamlar:
 - İki veya daha çok şeyin birbiriyle bağlı bulunması; ilişki, irtibat, bağlanak

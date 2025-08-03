@@ -2,6 +2,7 @@
 layout: term
 title: kuvvetsiz
 slug: kuvvetsiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Fiziksel gücü olmayan

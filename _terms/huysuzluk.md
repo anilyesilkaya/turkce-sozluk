@@ -2,6 +2,7 @@
 layout: term
 title: huysuzluk
 slug: huysuzluk
+letter: H
 lisan: Türkçe
 anlamlar:
 - Huysuz olma durumu; aksilik

@@ -2,6 +2,7 @@
 layout: term
 title: malik olmak
 slug: malik-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - sahip olmak

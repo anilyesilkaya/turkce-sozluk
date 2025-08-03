@@ -2,6 +2,7 @@
 layout: term
 title: Çinli
 slug: cinli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çin’de yaşayan halk veya bu halkın soyundan olan kimse

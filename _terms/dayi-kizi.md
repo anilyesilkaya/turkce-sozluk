@@ -2,6 +2,7 @@
 layout: term
 title: dayı kızı
 slug: dayi-kizi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dayının kızı

@@ -2,6 +2,7 @@
 layout: term
 title: acıma hissi
 slug: acima-hissi
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► acıma duygusu

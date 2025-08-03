@@ -2,6 +2,7 @@
 layout: term
 title: muhal
 slug: muhal
+letter: M
 lisan: Arapça muḥāl
 anlamlar:
 - Olması, gerçekleşmesi olanaksız

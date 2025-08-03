@@ -2,6 +2,7 @@
 layout: term
 title: kolonizatörlük
 slug: kolonizatorluk
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► sömürgecilik

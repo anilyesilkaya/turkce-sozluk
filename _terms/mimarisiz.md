@@ -2,6 +2,7 @@
 layout: term
 title: mimarisiz
 slug: mimarisiz
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mimarlığa uygun olarak yapılmayan (kaba yapı)

@@ -2,6 +2,7 @@
 layout: term
 title: afacan
 slug: afacan
+letter: A
 lisan: Türkçe
 anlamlar:
 - Zeki ve yaramaz (çocuk)

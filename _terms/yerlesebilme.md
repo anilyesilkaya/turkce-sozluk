@@ -2,6 +2,7 @@
 layout: term
 title: yerleşebilme
 slug: yerlesebilme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yerleşebilmek işi

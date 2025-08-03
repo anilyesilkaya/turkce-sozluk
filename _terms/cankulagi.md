@@ -2,6 +2,7 @@
 layout: term
 title: cankulağı
 slug: cankulagi
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► sırdaş

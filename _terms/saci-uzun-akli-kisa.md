@@ -2,6 +2,7 @@
 layout: term
 title: saçı uzun aklı kısa
 slug: saci-uzun-akli-kisa
+letter: S
 lisan: Türkçe
 anlamlar:
 - kadınlar için kullanılan bir söz

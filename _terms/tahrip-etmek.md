@@ -2,6 +2,7 @@
 layout: term
 title: tahrip etmek
 slug: tahrip-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - yıkmak, kırıp dökmek, bozmak

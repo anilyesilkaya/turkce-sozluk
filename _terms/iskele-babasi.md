@@ -2,6 +2,7 @@
 layout: term
 title: iskele babası
 slug: iskele-babasi
+letter: I
 lisan: Türkçe
 anlamlar:
 - Yanaşan gemileri bağlamak için rıhtıma konmuş dökme demir veya betondan silindir

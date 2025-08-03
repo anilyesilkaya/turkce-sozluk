@@ -2,6 +2,7 @@
 layout: term
 title: profesör
 slug: profesor
+letter: P
 lisan: Fransızca professeur
 anlamlar:
 - Yükseköğretim kuruluşlarında en üst aşamada olan öğretim üyesi

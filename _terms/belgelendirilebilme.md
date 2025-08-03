@@ -2,6 +2,7 @@
 layout: term
 title: belgelendirilebilme
 slug: belgelendirilebilme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belgelendirilebilmek işi

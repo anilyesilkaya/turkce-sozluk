@@ -2,6 +2,7 @@
 layout: term
 title: taat
 slug: taat
+letter: T
 lisan: Arapça ṭāʿat
 anlamlar:
 - Allah'ın buyruklarını yerine getirme, ibadet etme

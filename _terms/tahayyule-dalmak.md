@@ -2,6 +2,7 @@
 layout: term
 title: tahayyüle dalmak
 slug: tahayyule-dalmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - tahayyül etmek

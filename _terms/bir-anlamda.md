@@ -2,6 +2,7 @@
 layout: term
 title: bir anlamda
 slug: bir-anlamda
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başka bir deyişle, diğer bir söyleyişle

@@ -2,6 +2,7 @@
 layout: term
 title: evdemonist
 slug: evdemonist
+letter: E
 lisan: Fransızca eudémoniste
 anlamlar:
 - ► mutçu

@@ -2,6 +2,7 @@
 layout: term
 title: kabız
 slug: kabiz
+letter: K
 lisan: Arapça ḳabż
 anlamlar:
 - Dışkılama sıklığının azalması veya zor ve ağrılı dışkılama; peklik, kabızlık, ishal karşıtı

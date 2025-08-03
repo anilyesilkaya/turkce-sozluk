@@ -2,6 +2,7 @@
 layout: term
 title: Hak dini
 slug: hak-dini
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► Müslümanlık

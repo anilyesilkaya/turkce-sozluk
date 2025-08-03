@@ -2,6 +2,7 @@
 layout: term
 title: güneş yağı
 slug: gunes-yagi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güneşin zararlı ışınlarının etkisinden korumak için vücuda sürülen bir tür yağlı sıvı

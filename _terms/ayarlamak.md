@@ -2,6 +2,7 @@
 layout: term
 title: ayarlamak
 slug: ayarlamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir ölçünün doğruluğunu belli bir örneğe göre düzeltmek, doğrulamak

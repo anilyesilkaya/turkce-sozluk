@@ -2,6 +2,7 @@
 layout: term
 title: zihnini altüst etmek
 slug: zihnini-altust-etmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - düşüncelerini karmakarışık duruma getirmek

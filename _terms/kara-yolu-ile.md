@@ -2,6 +2,7 @@
 layout: term
 title: kara yolu ile
 slug: kara-yolu-ile
+letter: K
 lisan: Türkçe
 anlamlar:
 - otomobil, otobüs vb. taşıtlar ile

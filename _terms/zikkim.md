@@ -2,6 +2,7 @@
 layout: term
 title: zıkkım
 slug: zikkim
+letter: Z
 lisan: Arapça zaḳḳūm
 anlamlar:
 - ► zehir

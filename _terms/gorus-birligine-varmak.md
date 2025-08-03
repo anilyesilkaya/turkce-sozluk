@@ -2,6 +2,7 @@
 layout: term
 title: görüş birliğine varmak
 slug: gorus-birligine-varmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - farklı görüş ve düşüncelerden sonra aynı görüş ve düşünceye ulaşmak

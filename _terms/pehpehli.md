@@ -2,6 +2,7 @@
 layout: term
 title: pehpehli
 slug: pehpehli
+letter: P
 lisan: Türkçe
 anlamlar:
 - Çok beğenilen, gösterişli olan

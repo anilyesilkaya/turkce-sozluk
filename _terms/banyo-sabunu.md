@@ -2,6 +2,7 @@
 layout: term
 title: banyo sabunu
 slug: banyo-sabunu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Banyo yaparken vücudu yıkamak için kullanılan sabun

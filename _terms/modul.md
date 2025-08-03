@@ -2,6 +2,7 @@
 layout: term
 title: modül
 slug: modul
+letter: M
 lisan: Fransızca module
 anlamlar:
 - Bir uzay taşıtının yapısı içinde yer alan ve kendi başına hareket edebilen bağımsız bölüm

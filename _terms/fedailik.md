@@ -2,6 +2,7 @@
 layout: term
 title: fedailik
 slug: fedailik
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fedaice davranış; serdengeçtilik

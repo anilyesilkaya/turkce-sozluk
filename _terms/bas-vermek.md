@@ -2,6 +2,7 @@
 layout: term
 title: baş vermek
 slug: bas-vermek
+letter: B
 lisan: Türkçe
 anlamlar:
 - çıban olgunlaşmak

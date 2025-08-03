@@ -2,6 +2,7 @@
 layout: term
 title: sembolik
 slug: sembolik
+letter: S
 lisan: Fransızca symbolique
 anlamlar:
 - ► simgesel

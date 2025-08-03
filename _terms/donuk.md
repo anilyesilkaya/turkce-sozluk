@@ -2,6 +2,7 @@
 layout: term
 title: dönük
 slug: donuk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dönmüş, çevrilmiş (kimse)

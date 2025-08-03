@@ -2,6 +2,7 @@
 layout: term
 title: bölünüş
 slug: bolunus
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bölünmek işi

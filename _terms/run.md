@@ -2,6 +2,7 @@
 layout: term
 title: run
 slug: run
+letter: R
 lisan: Fransızca run
 anlamlar:
 - III-XIII. yüzyıllarda İngiliz İskandinav dillerinde kullanılan alfabenin harflerinin her biri

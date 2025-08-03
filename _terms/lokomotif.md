@@ -2,6 +2,7 @@
 layout: term
 title: lokomotif
 slug: lokomotif
+letter: L
 lisan: Fransızca locomotive
 anlamlar:
 - Tren vagonlarını çeken, tekerlekli, buharlı, elektrikli, termik motorlu veya sıkıştırılmış havalı makine

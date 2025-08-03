@@ -2,6 +2,7 @@
 layout: term
 title: merkezî
 slug: merkezi
+letter: M
 lisan: Arapça merkezī
 anlamlar:
 - Merkezde olan, merkezi oluşturan

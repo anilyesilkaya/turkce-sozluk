@@ -2,6 +2,7 @@
 layout: term
 title: basbayağı
 slug: basbayagi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Alışılandan, bilinenden hiçbir farkı olmayan, bilindiği gibi

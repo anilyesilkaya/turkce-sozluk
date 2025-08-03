@@ -2,6 +2,7 @@
 layout: term
 title: serinkanlı
 slug: serinkanli
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► soğukkanlı

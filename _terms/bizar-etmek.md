@@ -2,6 +2,7 @@
 layout: term
 title: bizar etmek
 slug: bizar-etmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - tedirgin etmek, usandırmak

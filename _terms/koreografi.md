@@ -2,6 +2,7 @@
 layout: term
 title: koreografi
 slug: koreografi
+letter: K
 lisan: Fransızca choréographie
 anlamlar:
 - Dans adımlarının kâğıda geçirilmesi

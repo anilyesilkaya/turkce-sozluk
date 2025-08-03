@@ -2,6 +2,7 @@
 layout: term
 title: subasar
 slug: subasar
+letter: S
 lisan: Türkçe
 anlamlar:
 - Basınç uygulayarak suyu binanın üst katlarına çıkaran düzenek; hidrofor

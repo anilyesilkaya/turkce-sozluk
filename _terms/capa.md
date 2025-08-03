@@ -2,6 +2,7 @@
 layout: term
 title: çapa
 slug: capa
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Tarlalarda toprağı işlemek için kullanılan ağaç veya demir saplı kazı aracı

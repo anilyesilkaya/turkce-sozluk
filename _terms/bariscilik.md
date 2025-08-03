@@ -2,6 +2,7 @@
 layout: term
 title: barışçılık
 slug: bariscilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► barışseverlik

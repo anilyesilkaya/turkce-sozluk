@@ -2,6 +2,7 @@
 layout: term
 title: kırnak
 slug: kirnak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çalımlı, süslü olan (kimse)

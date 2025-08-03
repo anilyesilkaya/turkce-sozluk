@@ -2,6 +2,7 @@
 layout: term
 title: kıvrık
 slug: kivrik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Eğrilip bükülmüş, yuvarlak bir biçim verilmiş

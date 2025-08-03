@@ -2,6 +2,7 @@
 layout: term
 title: ardak
 slug: ardak
+letter: A
 lisan: Türkçe
 anlamlar:
 - İçten çürümeye yüz tutmuş ağaç

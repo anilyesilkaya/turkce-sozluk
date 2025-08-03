@@ -2,6 +2,7 @@
 layout: term
 title: kaygılandırmak
 slug: kaygilandirmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaygılanmasına sebep olmak; tasalandırmak, endişelendirmek, gamlandırmak

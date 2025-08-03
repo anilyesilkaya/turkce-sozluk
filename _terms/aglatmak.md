@@ -2,6 +2,7 @@
 layout: term
 title: ağlatmak
 slug: aglatmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağlamasına yol açmak

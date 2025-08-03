@@ -2,6 +2,7 @@
 layout: term
 title: güçlendirilme
 slug: guclendirilme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güçlendirilmek işi

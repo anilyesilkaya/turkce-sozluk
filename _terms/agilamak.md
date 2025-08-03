@@ -2,6 +2,7 @@
 layout: term
 title: ağılamak
 slug: agilamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► zehirlemek

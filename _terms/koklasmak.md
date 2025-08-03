@@ -2,6 +2,7 @@
 layout: term
 title: koklaşmak
 slug: koklasmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Birbirini koklamak

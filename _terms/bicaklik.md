@@ -2,6 +2,7 @@
 layout: term
 title: bıçaklık
 slug: bicaklik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bıçak koyacak yer

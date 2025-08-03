@@ -2,6 +2,7 @@
 layout: term
 title: ketum olmak
 slug: ketum-olmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - sır saklamak, ağzı sıkı olmak

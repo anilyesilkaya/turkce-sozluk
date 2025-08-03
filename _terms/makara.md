@@ -2,6 +2,7 @@
 layout: term
 title: makara
 slug: makara
+letter: M
 lisan: Arapça bekere
 anlamlar:
 - Üzerine iplik, tel, şerit vb. sarılan, kenarları çıkıntılı, ekseni boyunca delik silindir; bobin

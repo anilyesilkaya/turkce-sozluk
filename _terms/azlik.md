@@ -2,6 +2,7 @@
 layout: term
 title: azlık
 slug: azlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Az olma durumu

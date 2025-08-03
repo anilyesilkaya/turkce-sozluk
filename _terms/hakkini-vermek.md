@@ -2,6 +2,7 @@
 layout: term
 title: hakkını vermek
 slug: hakkini-vermek
+letter: H
 lisan: Türkçe
 anlamlar:
 - gereğini bütün olarak yerine getirmek

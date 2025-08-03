@@ -2,6 +2,7 @@
 layout: term
 title: insancıl
 slug: insancil
+letter: I
 lisan: Türkçe
 anlamlar:
 - İnsan seven; insancı

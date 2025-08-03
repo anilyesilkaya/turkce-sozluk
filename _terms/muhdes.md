@@ -2,6 +2,7 @@
 layout: term
 title: muhdes
 slug: muhdes
+letter: M
 lisan: Arapça muḥdes̱
 anlamlar:
 - Yeni kurulan, sonradan oluşturulan

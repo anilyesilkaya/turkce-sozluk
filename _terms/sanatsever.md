@@ -2,6 +2,7 @@
 layout: term
 title: sanatsever
 slug: sanatsever
+letter: S
 lisan: Arapça ṣanʿat + Türkçe sever
 anlamlar:
 - Sanatla iç içe olmaktan zevk alan, sanatı koruyan ve yaşatan (kimse)

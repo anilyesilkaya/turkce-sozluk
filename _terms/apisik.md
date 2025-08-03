@@ -2,6 +2,7 @@
 layout: term
 title: apışık
 slug: apisik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yorgun ve güçsüz olan

@@ -2,6 +2,7 @@
 layout: term
 title: uykusu başına sıçramak
 slug: uykusu-basina-sicramak
+letter: U
 lisan: Türkçe
 anlamlar:
 - uyuyamadığı için sersemleşmek

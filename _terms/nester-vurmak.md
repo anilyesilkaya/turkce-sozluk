@@ -2,6 +2,7 @@
 layout: term
 title: neşter vurmak
 slug: nester-vurmak
+letter: N
 lisan: Türkçe
 anlamlar:
 - ameliyat yapmak

@@ -2,6 +2,7 @@
 layout: term
 title: tanıtmak
 slug: tanitmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir kimsenin veya bir şeyin tanınmasını sağlamak

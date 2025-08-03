@@ -2,6 +2,7 @@
 layout: term
 title: kör kaya
 slug: kor-kaya
+letter: K
 lisan: Türkçe
 anlamlar:
 - Deniz yüzüne çok yakın olan tehlikeli kaya veya sığlık

@@ -2,6 +2,7 @@
 layout: term
 title: kıyaklık
 slug: kiyaklik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kıyak olma durumu

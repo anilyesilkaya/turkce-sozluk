@@ -2,6 +2,7 @@
 layout: term
 title: tempo
 slug: tempo
+letter: T
 lisan: İtalyanca tempo
 anlamlar:
 - Bir müzik parçasındaki bölümlerin hızı

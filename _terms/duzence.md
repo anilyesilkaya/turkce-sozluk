@@ -2,6 +2,7 @@
 layout: term
 title: düzence
 slug: duzence
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► disiplin

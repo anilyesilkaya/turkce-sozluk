@@ -2,6 +2,7 @@
 layout: term
 title: potansiyel suçlu
 slug: potansiyel-suclu
+letter: P
 lisan: Türkçe
 anlamlar:
 - Suç işleme ihtimali olan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: cin çalığı
 slug: cin-caligi
+letter: C
 lisan: Türkçe
 anlamlar:
 - Dış görünüşü çirkin olan kimse

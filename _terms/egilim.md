@@ -2,6 +2,7 @@
 layout: term
 title: eğilim
 slug: egilim
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eğilmek işi

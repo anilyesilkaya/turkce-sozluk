@@ -2,6 +2,7 @@
 layout: term
 title: boğazlatmak
 slug: bogazlatmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boğazlama işini yaptırmak

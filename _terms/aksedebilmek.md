@@ -2,6 +2,7 @@
 layout: term
 title: aksedebilmek
 slug: aksedebilmek
+letter: A
 lisan: Arapça ʿaks + Türkçe edebilmek
 anlamlar:
 - ► yansıyabilmek

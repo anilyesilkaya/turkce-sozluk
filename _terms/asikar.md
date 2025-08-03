@@ -2,6 +2,7 @@
 layout: term
 title: aşikâr
 slug: asikar
+letter: A
 lisan: Farsça āşikār
 anlamlar:
 - ► belli (II)

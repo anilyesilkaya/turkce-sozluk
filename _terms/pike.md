@@ -2,6 +2,7 @@
 layout: term
 title: pike
 slug: pike
+letter: P
 lisan: Türkçe
 anlamlar:
 - İyi ayrılamama sebebiyle un veya irmik içerisinde kalmış olan, gözle görülebilen, iri ve koyu renkli kepek vb. parçacık

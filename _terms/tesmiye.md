@@ -2,6 +2,7 @@
 layout: term
 title: tesmiye
 slug: tesmiye
+letter: T
 lisan: Arapça tesmiye
 anlamlar:
 - Adlandırma, ad koyma, ad verme

@@ -2,6 +2,7 @@
 layout: term
 title: mütenevvi
 slug: mutenevvi
+letter: M
 lisan: Arapça mutenevviʿ
 anlamlar:
 - ► çeşitli

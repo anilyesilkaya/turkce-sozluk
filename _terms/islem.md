@@ -2,6 +2,7 @@
 layout: term
 title: işlem
 slug: islem
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bir işi sonuçlandırmak için yapılan iş veya uygulamaların hepsi; muamele

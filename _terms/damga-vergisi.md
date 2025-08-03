@@ -2,6 +2,7 @@
 layout: term
 title: damga vergisi
 slug: damga-vergisi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Kişiler veya kuruluşlar arası hukuki işlemlerin geçerliliğini belgeleyen kâğıtlardan alınan vergi

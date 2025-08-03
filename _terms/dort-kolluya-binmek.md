@@ -2,6 +2,7 @@
 layout: term
 title: dört kolluya binmek
 slug: dort-kolluya-binmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - ölmek

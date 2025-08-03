@@ -2,6 +2,7 @@
 layout: term
 title: of çekmek
 slug: of-cekmek
+letter: O
 lisan: Türkçe
 anlamlar:
 - oflamak

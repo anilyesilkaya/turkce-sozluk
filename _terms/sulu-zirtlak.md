@@ -2,6 +2,7 @@
 layout: term
 title: sulu zırtlak
 slug: sulu-zirtlak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Gereğinden fazla sulu

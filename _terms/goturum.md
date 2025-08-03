@@ -2,6 +2,7 @@
 layout: term
 title: götürüm
 slug: goturum
+letter: G
 lisan: Türkçe
 anlamlar:
 - Kötü ve güç durumlara karşı koyabilme gücü

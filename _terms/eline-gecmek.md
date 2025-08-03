@@ -2,6 +2,7 @@
 layout: term
 title: eline geçmek
 slug: eline-gecmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - kazanmak, edinmek, elde etmek

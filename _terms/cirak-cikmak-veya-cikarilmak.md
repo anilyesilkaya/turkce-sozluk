@@ -2,6 +2,7 @@
 layout: term
 title: çırak çıkmak (veya çıkarılmak)
 slug: cirak-cikmak-veya-cikarilmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - öğrendiği sanatı tek başına yapmak

@@ -2,6 +2,7 @@
 layout: term
 title: kalp
 slug: kalp
+letter: K
 lisan: Arapça ḳalb
 anlamlar:
 - Düzme, sahte, geçmez (para)

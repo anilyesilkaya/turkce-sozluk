@@ -2,6 +2,7 @@
 layout: term
 title: teneffüs
 slug: teneffus
+letter: T
 lisan: Arapça teneffus
 anlamlar:
 - ► solunum

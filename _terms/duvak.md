@@ -2,6 +2,7 @@
 layout: term
 title: duvak
 slug: duvak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Gelinin başını, bazen de yüzünü örten dantel veya tülden örtü; bürük

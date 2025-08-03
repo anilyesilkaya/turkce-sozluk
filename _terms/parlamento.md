@@ -2,6 +2,7 @@
 layout: term
 title: parlamento
 slug: parlamento
+letter: P
 lisan: İtalyanca parlamento
 anlamlar:
 - Başlıca görevi yasama, devlet bütçesini çıkarma, hükûmeti denetleme olan ve üyeleri halkoyu ile belirli bir süre için seçilen meclis veya meclisler; yasama kurulu, yasama meclisi, yasama organı

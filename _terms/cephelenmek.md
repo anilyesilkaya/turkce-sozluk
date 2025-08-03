@@ -2,6 +2,7 @@
 layout: term
 title: cephelenmek
 slug: cephelenmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cephe oluşturmak

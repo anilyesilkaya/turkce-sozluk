@@ -2,6 +2,7 @@
 layout: term
 title: kar kuyusu
 slug: kar-kuyusu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yazın kullanılmak üzere içinde kar saklanan kuyu; karlık

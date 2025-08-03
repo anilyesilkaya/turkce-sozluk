@@ -2,6 +2,7 @@
 layout: term
 title: çırpma
 slug: cirpma
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çırpmak işi

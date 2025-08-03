@@ -2,6 +2,7 @@
 layout: term
 title: tabut
 slug: tabut
+letter: T
 lisan: Arapça tābūt
 anlamlar:
 - Ölünün içine konulduğu sandık biçiminde araç; sal (II), ölü salı, dört kollu, imamkayığı

@@ -2,6 +2,7 @@
 layout: term
 title: marsık
 slug: marsik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Üretilirken gerektiği kadar yakılmadığından tüterek ve koku vererek yanan, niteliksiz odun kömürü

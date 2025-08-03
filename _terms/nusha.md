@@ -2,6 +2,7 @@
 layout: term
 title: nüsha
 slug: nusha
+letter: N
 lisan: Arapça nusḫa
 anlamlar:
 - Birbirinin tıpkısı olan yazılı şeylerin her biri

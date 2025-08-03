@@ -2,6 +2,7 @@
 layout: term
 title: aut
 slug: aut
+letter: A
 lisan: İngilizce out
 anlamlar:
 - Takımla oynanan top oyunlarında, karşı takım oyuncularının vuruşuyla topun kalenin bulunduğu taraftan dışarı çıkması

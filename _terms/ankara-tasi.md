@@ -2,6 +2,7 @@
 layout: term
 title: Ankara taşı
 slug: ankara-tasi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Plajiyoklazlı bir yanardağ kültesi; andezit

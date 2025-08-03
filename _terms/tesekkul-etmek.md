@@ -2,6 +2,7 @@
 layout: term
 title: teşekkül etmek
 slug: tesekkul-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - belirmek, belli bir biçim almak

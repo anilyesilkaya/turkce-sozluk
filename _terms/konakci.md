@@ -2,6 +2,7 @@
 layout: term
 title: konakçı
 slug: konakci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Asalağın erginini veya gelişim evrelerinden herhangi birini taşıyan canlı; konak (I)

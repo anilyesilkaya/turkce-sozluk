@@ -2,6 +2,7 @@
 layout: term
 title: bukağılanmak
 slug: bukagilanmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Hayvanın veya ağır cezalının ayağına bukağı takılmak

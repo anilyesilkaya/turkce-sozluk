@@ -2,6 +2,7 @@
 layout: term
 title: dolandırabilmek
 slug: dolandirabilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dolandırma ihtimali veya imkânı bulunmak

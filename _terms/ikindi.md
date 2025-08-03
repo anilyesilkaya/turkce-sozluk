@@ -2,6 +2,7 @@
 layout: term
 title: ikindi
 slug: ikindi
+letter: I
 lisan: Türkçe
 anlamlar:
 - İnsanın gölgesinin iki katına çıktığı andan güneşin batışına kadar geçen zaman dilimi

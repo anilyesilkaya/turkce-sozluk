@@ -2,6 +2,7 @@
 layout: term
 title: töre
 slug: tore
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir toplulukta benimsenmiş, yerleşmiş davranış ve yaşama biçimlerinin, kuralların, görenek ve geleneklerin, ortaklaşa alışkanlıkların, tutulan yolların bütünü; âdet, ayin

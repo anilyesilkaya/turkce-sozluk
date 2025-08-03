@@ -2,6 +2,7 @@
 layout: term
 title: işkembesiz
 slug: iskembesiz
+letter: I
 lisan: Türkçe
 anlamlar:
 - İşkembesi olmayan

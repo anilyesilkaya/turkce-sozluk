@@ -2,6 +2,7 @@
 layout: term
 title: ortalık kararmak
 slug: ortalik-kararmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - akşam olmak

@@ -2,6 +2,7 @@
 layout: term
 title: fırınlama
 slug: firinlama
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fırınlamak işi

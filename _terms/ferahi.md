@@ -2,6 +2,7 @@
 layout: term
 title: ferahi
 slug: ferahi
+letter: F
 lisan: Farsça ferāḫ + Arapça -ī
 anlamlar:
 - Bol ve geniş olma durumu

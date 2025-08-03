@@ -2,6 +2,7 @@
 layout: term
 title: nefesi kesilmek (veya daralmak veya tutulmak)
 slug: nefesi-kesilmek-veya-daralmak-veya-tutulmak
+letter: N
 lisan: Türkçe
 anlamlar:
 - güç soluk alacak duruma gelmek veya soluğu büsbütün durmak

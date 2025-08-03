@@ -2,6 +2,7 @@
 layout: term
 title: piçlik
 slug: piclik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Piç olma durumu

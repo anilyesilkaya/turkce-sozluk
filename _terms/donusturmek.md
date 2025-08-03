@@ -2,6 +2,7 @@
 layout: term
 title: dönüştürmek
 slug: donusturmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dönüşmesini sağlamak; tahvil etmek

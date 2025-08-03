@@ -2,6 +2,7 @@
 layout: term
 title: hafifleyebilme
 slug: hafifleyebilme
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hafifleyebilmek işi

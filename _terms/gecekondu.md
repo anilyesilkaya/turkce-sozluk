@@ -2,6 +2,7 @@
 layout: term
 title: gecekondu
 slug: gecekondu
+letter: G
 lisan: Türkçe
 anlamlar:
 - İmar ve yapı kanunlarına aykırı olarak başkalarına veya kamuya ait arazi veya arsalar üzerinde toprak sahibinin bilgisi ve rızası olmaksızın acele yapılmış konut; kondu

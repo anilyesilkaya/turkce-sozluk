@@ -2,6 +2,7 @@
 layout: term
 title: keyfini yapmak
 slug: keyfini-yapmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - her türlü istek ve dileği yerine getirmek

@@ -2,6 +2,7 @@
 layout: term
 title: gecelemek
 slug: gecelemek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Geceyi bir yerde geçirmek

@@ -2,6 +2,7 @@
 layout: term
 title: falso
 slug: falso
+letter: F
 lisan: İtalyanca falso
 anlamlar:
 - Yanlış davranış

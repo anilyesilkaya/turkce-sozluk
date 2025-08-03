@@ -2,6 +2,7 @@
 layout: term
 title: denetmen
 slug: denetmen
+letter: D
 lisan: Türkçe
 anlamlar:
 - Belli firmaların, kuruluşların kendi talepleri üzerine gidip yapılan iş ve ürünlerin mevzuata uygun olup olmadığını denetleyerek ihracat, ithalat veya uygunluk izni veren kimse

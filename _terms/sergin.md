@@ -2,6 +2,7 @@
 layout: term
 title: sergin
 slug: sergin
+letter: S
 lisan: Türkçe
 anlamlar:
 - Serilmiş olan

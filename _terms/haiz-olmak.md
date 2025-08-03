@@ -2,6 +2,7 @@
 layout: term
 title: haiz olmak
 slug: haiz-olmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - (bir şeyi) elinde bulundurmak, taşımak

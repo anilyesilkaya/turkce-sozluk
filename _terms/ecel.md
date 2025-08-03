@@ -2,6 +2,7 @@
 layout: term
 title: ecel
 slug: ecel
+letter: E
 lisan: Arapça ecel
 anlamlar:
 - Hayatın sonu, ölüm zamanı

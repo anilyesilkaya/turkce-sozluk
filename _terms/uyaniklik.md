@@ -2,6 +2,7 @@
 layout: term
 title: uyanıklık
 slug: uyaniklik
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyanık olma durumu; anıklık, saklık, yakaza

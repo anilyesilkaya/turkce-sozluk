@@ -2,6 +2,7 @@
 layout: term
 title: medeni
 slug: medeni
+letter: M
 lisan: Arapça medenī
 anlamlar:
 - Kentlileşmiş, kırsallıktan kurtulmuş

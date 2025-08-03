@@ -2,6 +2,7 @@
 layout: term
 title: kombine
 slug: kombine
+letter: K
 lisan: Fransızca combiné
 anlamlar:
 - ► toplu

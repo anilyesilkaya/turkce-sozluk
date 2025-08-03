@@ -2,6 +2,7 @@
 layout: term
 title: süzgeç
 slug: suzgec
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıvıları süzmeye yarayan araç; süzek

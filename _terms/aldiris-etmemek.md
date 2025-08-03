@@ -2,6 +2,7 @@
 layout: term
 title: aldırış etmemek
 slug: aldiris-etmemek
+letter: A
 lisan: Türkçe
 anlamlar:
 - ilgi göstermemek, ilgilenmemek, ilgisiz kalmak

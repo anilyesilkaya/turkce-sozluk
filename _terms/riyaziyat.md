@@ -2,6 +2,7 @@
 layout: term
 title: riyaziyat
 slug: riyaziyat
+letter: R
 lisan: Arapça riyāżiyāt
 anlamlar:
 - Matematik bilgisi

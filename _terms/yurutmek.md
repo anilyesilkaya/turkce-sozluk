@@ -2,6 +2,7 @@
 layout: term
 title: yürütmek
 slug: yurutmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yürüme işini yaptırmak, yürümesini sağlamak

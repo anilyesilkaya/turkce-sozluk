@@ -2,6 +2,7 @@
 layout: term
 title: sahipleniş
 slug: sahiplenis
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sahiplenmek işi

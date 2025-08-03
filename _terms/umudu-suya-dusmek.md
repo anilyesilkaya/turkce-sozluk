@@ -2,6 +2,7 @@
 layout: term
 title: umudu suya düşmek
 slug: umudu-suya-dusmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - beklentisi kalmamak, umudu tükenmek

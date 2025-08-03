@@ -2,6 +2,7 @@
 layout: term
 title: töresel
 slug: toresel
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► törel

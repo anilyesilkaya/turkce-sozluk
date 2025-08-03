@@ -2,6 +2,7 @@
 layout: term
 title: çarpı
 slug: carpi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Kaba sıva, çarpma sıva

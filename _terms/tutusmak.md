@@ -2,6 +2,7 @@
 layout: term
 title: tutuşmak
 slug: tutusmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Birbirini tutmak, birbirine ilişip dokunmak

@@ -2,6 +2,7 @@
 layout: term
 title: yeniçerilik
 slug: yenicerilik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yeniçeri olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: can çabası
 slug: can-cabasi
+letter: C
 lisan: Türkçe
 anlamlar:
 - Varlığını kanıtlamak amacıyla gösterilen aşırı gayret

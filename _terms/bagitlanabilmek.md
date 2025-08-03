@@ -2,6 +2,7 @@
 layout: term
 title: bağıtlanabilmek
 slug: bagitlanabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağıtlanma ihtimali veya imkânı bulunmak

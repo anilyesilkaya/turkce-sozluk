@@ -2,6 +2,7 @@
 layout: term
 title: cinsiyet ayrımı
 slug: cinsiyet-ayrimi
+letter: C
 lisan: Türkçe
 anlamlar:
 - Herhangi bir alanda veya konuda kadın ve erkek cinsiyetini birbirinden ayırma

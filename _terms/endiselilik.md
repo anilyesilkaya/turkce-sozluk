@@ -2,6 +2,7 @@
 layout: term
 title: endişelilik
 slug: endiselilik
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► kaygılılık

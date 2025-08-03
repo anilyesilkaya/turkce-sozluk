@@ -2,6 +2,7 @@
 layout: term
 title: 'katı sabun '
 slug: kati-sabun
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kalıp sabun

@@ -2,6 +2,7 @@
 layout: term
 title: burnundan kıl aldırmamak
 slug: burnundan-kil-aldirmamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - kendisine söz söyletmemek, çok huysuz ve kibirli olmak

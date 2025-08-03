@@ -2,6 +2,7 @@
 layout: term
 title: kolağası
 slug: kolagasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Osmanlı ordusunda yüzbaşı ile binbaşı arasında yer alan rütbe

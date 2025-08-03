@@ -2,6 +2,7 @@
 layout: term
 title: alnını karışlamak
 slug: alnini-karislamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - küçümseyerek meydan okumak

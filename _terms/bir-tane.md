@@ -2,6 +2,7 @@
 layout: term
 title: bir tane
 slug: bir-tane
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir adet

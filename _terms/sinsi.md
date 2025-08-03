@@ -2,6 +2,7 @@
 layout: term
 title: sinsi
 slug: sinsi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Gizli ve kurnazca kötülük yapan

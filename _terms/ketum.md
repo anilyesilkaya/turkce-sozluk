@@ -2,6 +2,7 @@
 layout: term
 title: ketum
 slug: ketum
+letter: K
 lisan: Arapça ketūm
 anlamlar:
 - ► ağzı sıkı

@@ -2,6 +2,7 @@
 layout: term
 title: kontör
 slug: kontor
+letter: K
 lisan: Fransızca compteur
 anlamlar:
 - Belirli bir sürenin bir birim olarak kabul edildiği ve telefonda toplam konuşma süresinin kaç birim olduğunu sayısal olarak gösteren araç

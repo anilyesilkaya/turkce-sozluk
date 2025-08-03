@@ -2,6 +2,7 @@
 layout: term
 title: yaygı
 slug: yaygi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yere veya döşeme üzerine serilen örtü; savan

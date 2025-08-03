@@ -2,6 +2,7 @@
 layout: term
 title: dünyevi
 slug: dunyevi
+letter: D
 lisan: Arapça dunyevī
 anlamlar:
 - Bu dünya ile ilgili; dünyasal, uhrevi karşıtı

@@ -2,6 +2,7 @@
 layout: term
 title: kıvılcımlı
 slug: kivilcimli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kıvılcımı olan, kıvılcım saçan

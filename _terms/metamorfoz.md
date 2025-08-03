@@ -2,6 +2,7 @@
 layout: term
 title: metamorfoz
 slug: metamorfoz
+letter: M
 lisan: Fransızca métamorphose
 anlamlar:
 - ► başkalaşma

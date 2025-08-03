@@ -2,6 +2,7 @@
 layout: term
 title: çabuklaştırmak
 slug: cabuklastirmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir işin yapılmasını hızlandırmak; aceleleştirmek, tesri etmek

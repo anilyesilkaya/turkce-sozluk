@@ -2,6 +2,7 @@
 layout: term
 title: terek
 slug: terek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Evlerin veya dükkânların yüksekçe yerinde bulunan raf

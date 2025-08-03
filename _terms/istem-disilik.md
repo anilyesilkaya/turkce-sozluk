@@ -2,6 +2,7 @@
 layout: term
 title: istem dışılık
 slug: istem-disilik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İstem dışı olma durumu; gayriihtiyarilik

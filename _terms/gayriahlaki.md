@@ -2,6 +2,7 @@
 layout: term
 title: gayriahlaki
 slug: gayriahlaki
+letter: G
 lisan: Arapça ġayr + aḫlāḳī
 anlamlar:
 - ► ahlak dışı

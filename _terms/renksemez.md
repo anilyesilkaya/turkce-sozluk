@@ -2,6 +2,7 @@
 layout: term
 title: renksemez
 slug: renksemez
+letter: R
 lisan: Türkçe
 anlamlar:
 - Beyaz ışığı çözümlemeden veren; akromatik

@@ -2,6 +2,7 @@
 layout: term
 title: bekleyedurma
 slug: bekleyedurma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bekleyedurmak işi

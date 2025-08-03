@@ -2,6 +2,7 @@
 layout: term
 title: tüylerini diken diken etmek
 slug: tuylerini-diken-diken-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - korkutmak, tiksindirmek

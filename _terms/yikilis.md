@@ -2,6 +2,7 @@
 layout: term
 title: yıkılış
 slug: yikilis
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yıkılmak işi

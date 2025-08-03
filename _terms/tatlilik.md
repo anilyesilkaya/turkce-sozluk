@@ -2,6 +2,7 @@
 layout: term
 title: tatlılık
 slug: tatlilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tatlı olma durumu; tat

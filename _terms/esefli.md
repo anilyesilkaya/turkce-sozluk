@@ -2,6 +2,7 @@
 layout: term
 title: esefli
 slug: esefli
+letter: E
 lisan: Türkçe
 anlamlar:
 - Üzüntülü olan

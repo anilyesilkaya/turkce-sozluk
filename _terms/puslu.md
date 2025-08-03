@@ -2,6 +2,7 @@
 layout: term
 title: puslu
 slug: puslu
+letter: P
 lisan: Türkçe
 anlamlar:
 - Puslanmış, pusarık, hafif sisli

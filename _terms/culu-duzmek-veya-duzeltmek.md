@@ -2,6 +2,7 @@
 layout: term
 title: çulu düzmek (veya düzeltmek)
 slug: culu-duzmek-veya-duzeltmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - giyimi kuşamı yenilemek

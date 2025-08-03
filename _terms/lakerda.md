@@ -2,6 +2,7 @@
 layout: term
 title: lakerda
 slug: lakerda
+letter: L
 lisan: Rumca
 anlamlar:
 - Palamut, torik vb. balıklardan dilim dilim kesilerek yapılan salamura

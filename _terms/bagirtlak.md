@@ -2,6 +2,7 @@
 layout: term
 title: bağırtlak
 slug: bagirtlak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Orta büyüklükte, eti sevilen bir cins göçebe ördek; bozkır tavuğu (Querquedula)

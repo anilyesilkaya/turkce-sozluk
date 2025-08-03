@@ -2,6 +2,7 @@
 layout: term
 title: perestiş etmek
 slug: perestis-etmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - tapınmak

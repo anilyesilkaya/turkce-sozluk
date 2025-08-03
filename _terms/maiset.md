@@ -2,6 +2,7 @@
 layout: term
 title: maişet
 slug: maiset
+letter: M
 lisan: Arapça maʿīşet
 anlamlar:
 - ► geçim

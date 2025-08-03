@@ -2,6 +2,7 @@
 layout: term
 title: su yosunları
 slug: su-yosunlari
+letter: S
 lisan: Türkçe
 anlamlar:
 - Denizlerde, tatlı ve durgun sularda, genellikle su yüzeyinde yaşayan, yaprak veya tel biçiminde tallı bitkiler alt şubesi; algler

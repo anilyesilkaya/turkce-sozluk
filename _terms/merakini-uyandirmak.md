@@ -2,6 +2,7 @@
 layout: term
 title: merakını uyandırmak
 slug: merakini-uyandirmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - merak etmesine sebep olmak, meraklandırmak

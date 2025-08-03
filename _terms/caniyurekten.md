@@ -2,6 +2,7 @@
 layout: term
 title: canıyürekten
 slug: caniyurekten
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► içtenlikle

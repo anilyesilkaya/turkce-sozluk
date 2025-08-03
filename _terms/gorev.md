@@ -2,6 +2,7 @@
 layout: term
 title: görev
 slug: gorev
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bir nesne veya bir kimsenin yaptığı iş

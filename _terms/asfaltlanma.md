@@ -2,6 +2,7 @@
 layout: term
 title: asfaltlanma
 slug: asfaltlanma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Asfaltlanmak işi

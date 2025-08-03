@@ -2,6 +2,7 @@
 layout: term
 title: matris
 slug: matris
+letter: M
 lisan: Fransızca matrice
 anlamlar:
 - ► baskı kalıbı

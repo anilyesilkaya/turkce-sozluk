@@ -2,6 +2,7 @@
 layout: term
 title: çalma
 slug: calma
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çalmak işi

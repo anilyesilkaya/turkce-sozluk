@@ -2,6 +2,7 @@
 layout: term
 title: çizgi çekmek
 slug: cizgi-cekmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - bir noktayı hat biçiminde çeşitli yönde uzatmak

@@ -2,6 +2,7 @@
 layout: term
 title: tomak
 slug: tomak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Ağaçtan yapılmış top

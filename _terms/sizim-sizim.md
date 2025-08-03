@@ -2,6 +2,7 @@
 layout: term
 title: sızım sızım
 slug: sizim-sizim
+letter: S
 lisan: Türkçe
 anlamlar:
 - '"Aşırı derecede sızlamak, çok sızlamak" anlamındaki sızım sızım sızlamak, "çok sızlanmak" anlamındaki sızım sızım sızlanmak deyimlerinde geçen bir söz'

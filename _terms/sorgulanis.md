@@ -2,6 +2,7 @@
 layout: term
 title: sorgulanış
 slug: sorgulanis
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sorgulanmak işi

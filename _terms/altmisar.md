@@ -2,6 +2,7 @@
 layout: term
 title: altmışar
 slug: altmisar
+letter: A
 lisan: Türkçe
 anlamlar:
 - Altmış sıfatının üleştirme sayı sıfatı

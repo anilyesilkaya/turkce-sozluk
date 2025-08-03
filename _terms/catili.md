@@ -2,6 +2,7 @@
 layout: term
 title: çatılı
 slug: catili
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çatısı olan (yapı)

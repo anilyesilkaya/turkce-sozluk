@@ -2,6 +2,7 @@
 layout: term
 title: gicişme
 slug: gicisme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gicişmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: gerekli
 slug: gerekli
+letter: G
 lisan: Türkçe
 anlamlar:
 - Yapılması, olması veya bulunması uygun olan, yerinde olan; lüzumlu, mukteza, muktezi, zaruri

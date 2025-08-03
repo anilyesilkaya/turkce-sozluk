@@ -2,6 +2,7 @@
 layout: term
 title: güdücü
 slug: guducu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gütme işini yapan kimse

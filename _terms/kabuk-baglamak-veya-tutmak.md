@@ -2,6 +2,7 @@
 layout: term
 title: kabuk bağlamak (veya tutmak)
 slug: kabuk-baglamak-veya-tutmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - üstünde kabuk oluşturmak, kabuklanmak

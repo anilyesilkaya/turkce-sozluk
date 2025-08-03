@@ -2,6 +2,7 @@
 layout: term
 title: öncelleme
 slug: oncelleme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öncellemek işi

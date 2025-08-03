@@ -2,6 +2,7 @@
 layout: term
 title: aşılayış
 slug: asilayis
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aşılamak işi

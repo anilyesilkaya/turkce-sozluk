@@ -2,6 +2,7 @@
 layout: term
 title: çalgıcı
 slug: calgici
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çalgı çalmayı kendine meslek edinmiş kimse; kerizci

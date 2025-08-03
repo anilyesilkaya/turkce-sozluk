@@ -2,6 +2,7 @@
 layout: term
 title: hücumcu
 slug: hucumcu
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hücum eden, saldıran

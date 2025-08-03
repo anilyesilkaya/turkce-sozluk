@@ -2,6 +2,7 @@
 layout: term
 title: poşulu
 slug: posulu
+letter: P
 lisan: Türkçe
 anlamlar:
 - Poşusu olan

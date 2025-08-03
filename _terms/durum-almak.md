@@ -2,6 +2,7 @@
 layout: term
 title: durum almak
 slug: durum-almak
+letter: D
 lisan: Türkçe
 anlamlar:
 - belli bir duruş biçimine geçmek

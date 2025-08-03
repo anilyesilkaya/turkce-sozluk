@@ -2,6 +2,7 @@
 layout: term
 title: arka planda
 slug: arka-planda
+letter: A
 lisan: Türkçe
 anlamlar:
 - Geride olan

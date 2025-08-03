@@ -2,6 +2,7 @@
 layout: term
 title: bağdaş kurmak
 slug: bagdas-kurmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - sağ ayağı sol uyluğun, sol ayağı sağ uyluğun altına alarak oturmak

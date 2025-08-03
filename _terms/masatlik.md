@@ -2,6 +2,7 @@
 layout: term
 title: maşatlık
 slug: masatlik
+letter: M
 lisan: Arapça meşhed + Türkçe -lık
 anlamlar:
 - Müslüman olmayanların, özellikle Yahudilerin mezarlığı

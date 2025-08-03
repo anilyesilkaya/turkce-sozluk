@@ -2,6 +2,7 @@
 layout: term
 title: şaheser
 slug: saheser
+letter: Ş
 lisan: Farsça şāh + Arapça es̱er
 anlamlar:
 - Kendi türünde mükemmel olan, üstün ve kalıcı nitelikte eser; başyapıt, başeser

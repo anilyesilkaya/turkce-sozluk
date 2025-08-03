@@ -2,6 +2,7 @@
 layout: term
 title: kuşburnu
 slug: kusburnu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çalılık ve ormanlık alanlarda yetişen, soluk pembe renkte çiçekler açan bir ağaç, yaban gülü ağacı (Rosa canina)

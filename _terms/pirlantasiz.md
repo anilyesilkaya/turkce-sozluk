@@ -2,6 +2,7 @@
 layout: term
 title: pırlantasız
 slug: pirlantasiz
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pırlantası olmayan

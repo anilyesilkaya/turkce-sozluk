@@ -2,6 +2,7 @@
 layout: term
 title: çerçeveletebilmek
 slug: cerceveletebilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çerçeveletme ihtimali veya imkânı bulunmak

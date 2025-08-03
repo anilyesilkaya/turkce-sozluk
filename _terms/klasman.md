@@ -2,6 +2,7 @@
 layout: term
 title: klasman
 slug: klasman
+letter: K
 lisan: Fransızca classement
 anlamlar:
 - ► bölümleme

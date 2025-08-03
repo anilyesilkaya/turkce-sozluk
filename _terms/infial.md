@@ -2,6 +2,7 @@
 layout: term
 title: infial
 slug: infial
+letter: I
 lisan: Arapça infiʿāl
 anlamlar:
 - Kızgınlık, öfke duyma

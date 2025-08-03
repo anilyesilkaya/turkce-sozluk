@@ -2,6 +2,7 @@
 layout: term
 title: evcilleştirme
 slug: evcillestirme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Evcilleştirmek işi; ehlîleştirme

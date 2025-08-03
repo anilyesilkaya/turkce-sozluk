@@ -2,6 +2,7 @@
 layout: term
 title: tirlin
 slug: tirlin
+letter: T
 lisan: Fransızca tire-ligne
 anlamlar:
 - Mürekkeple çizgi çizmeye yarayan, türlü kalınlıklarda gereç

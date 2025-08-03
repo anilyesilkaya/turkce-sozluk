@@ -2,6 +2,7 @@
 layout: term
 title: müfterilik
 slug: mufterilik
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► karalamacılık

@@ -2,6 +2,7 @@
 layout: term
 title: kavislenmek
 slug: kavislenmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kavisli duruma gelmek

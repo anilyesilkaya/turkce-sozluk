@@ -2,6 +2,7 @@
 layout: term
 title: kız gibi
 slug: kiz-gibi
+letter: K
 lisan: Türkçe
 anlamlar:
 - kıza benzeyen

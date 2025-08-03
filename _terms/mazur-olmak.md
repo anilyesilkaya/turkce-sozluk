@@ -2,6 +2,7 @@
 layout: term
 title: mazur olmak
 slug: mazur-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - mazeretli olmak, bahanesi bulunmak

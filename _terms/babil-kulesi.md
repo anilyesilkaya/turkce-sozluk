@@ -2,6 +2,7 @@
 layout: term
 title: Babil Kulesi
 slug: babil-kulesi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Babil şehrinde bulunan ve yapılışı sırasında çalışanlarının dillerinin birbirini anlamaz hâle getirildiğine inanılan kule

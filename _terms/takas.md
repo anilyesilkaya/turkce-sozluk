@@ -2,6 +2,7 @@
 layout: term
 title: takas
 slug: takas
+letter: T
 lisan: Arapça taḳāṣṣ
 anlamlar:
 - ► değişim

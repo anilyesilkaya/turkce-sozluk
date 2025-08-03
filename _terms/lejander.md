@@ -2,6 +2,7 @@
 layout: term
 title: lejander
 slug: lejander
+letter: L
 lisan: Fransızca légendaire
 anlamlar:
 - ► destansı

@@ -2,6 +2,7 @@
 layout: term
 title: darbelemek
 slug: darbelemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Vurmak, çarpmak

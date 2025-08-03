@@ -2,6 +2,7 @@
 layout: term
 title: çift kâğıtlı
 slug: cift-kagitli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - İki sigara kâğıdına sarılmış esrar

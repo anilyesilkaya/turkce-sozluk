@@ -2,6 +2,7 @@
 layout: term
 title: balık yemi
 slug: balik-yemi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Balık avlamada oltanın ucuna takılan, genellikle yiyecek türü madde

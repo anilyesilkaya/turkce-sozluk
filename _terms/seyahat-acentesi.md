@@ -2,6 +2,7 @@
 layout: term
 title: seyahat acentesi
 slug: seyahat-acentesi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Yolculuk bileti satılan ticari kuruluş

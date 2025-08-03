@@ -2,6 +2,7 @@
 layout: term
 title: bütçe dengesi
 slug: butce-dengesi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Gelirin gidere eşit olma durumu

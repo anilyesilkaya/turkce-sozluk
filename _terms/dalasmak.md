@@ -2,6 +2,7 @@
 layout: term
 title: dalaşmak
 slug: dalasmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Köpekler boğuşup birbirini ısırmak

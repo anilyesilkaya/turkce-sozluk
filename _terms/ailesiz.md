@@ -2,6 +2,7 @@
 layout: term
 title: ailesiz
 slug: ailesiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ailesi olmayan

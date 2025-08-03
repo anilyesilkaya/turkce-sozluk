@@ -2,6 +2,7 @@
 layout: term
 title: dizüstü
 slug: dizustu
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► dizüstü bilgisayar

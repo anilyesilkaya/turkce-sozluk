@@ -2,6 +2,7 @@
 layout: term
 title: etfal
 slug: etfal
+letter: E
 lisan: Arapça eṭfāl
 anlamlar:
 - Çocuklar

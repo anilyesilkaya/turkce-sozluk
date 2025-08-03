@@ -2,6 +2,7 @@
 layout: term
 title: kazandibi
 slug: kazandibi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Dibi tutturularak hafif yanık kokusu ve tadı verilmiş muhallebi

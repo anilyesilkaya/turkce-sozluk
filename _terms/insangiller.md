@@ -2,6 +2,7 @@
 layout: term
 title: insangiller
 slug: insangiller
+letter: I
 lisan: Türkçe
 anlamlar:
 - Yaşayan insanı kapsayan familya

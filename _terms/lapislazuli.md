@@ -2,6 +2,7 @@
 layout: term
 title: lapislazuli
 slug: lapislazuli
+letter: L
 lisan: İngilizce lapis-lazuli
 anlamlar:
 - ► laciverttaş

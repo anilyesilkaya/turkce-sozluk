@@ -2,6 +2,7 @@
 layout: term
 title: nötralizasyon
 slug: notralizasyon
+letter: N
 lisan: Fransızca neutralisation
 anlamlar:
 - ► yansızlaştırma

@@ -2,6 +2,7 @@
 layout: term
 title: karınca belli
 slug: karinca-belli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Beli çok ince olan (kimse)

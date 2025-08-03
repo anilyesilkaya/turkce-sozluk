@@ -2,6 +2,7 @@
 layout: term
 title: önleyiş
 slug: onleyis
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Önleme işi

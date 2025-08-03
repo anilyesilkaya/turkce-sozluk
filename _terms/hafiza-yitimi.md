@@ -2,6 +2,7 @@
 layout: term
 title: hafıza yitimi
 slug: hafiza-yitimi
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► bellek yitimi

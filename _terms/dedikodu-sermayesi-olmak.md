@@ -2,6 +2,7 @@
 layout: term
 title: dedikodu sermayesi olmak
 slug: dedikodu-sermayesi-olmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - dedikodusu yapılacak duruma gelmek

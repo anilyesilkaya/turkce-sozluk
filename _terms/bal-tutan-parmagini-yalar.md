@@ -2,6 +2,7 @@
 layout: term
 title: bal tutan parmağını yalar
 slug: bal-tutan-parmagini-yalar
+letter: B
 lisan: Türkçe
 anlamlar:
 - '"imkânları geniş bir işin başında bulunan kimse bunlardan az da olsa yararlanır" anlamında kullanılan bir söz'

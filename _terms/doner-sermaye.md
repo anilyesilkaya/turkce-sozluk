@@ -2,6 +2,7 @@
 layout: term
 title: döner sermaye
 slug: doner-sermaye
+letter: D
 lisan: Türkçe
 anlamlar:
 - Kamu maliyesi alanında belirli ve sürekli bir amacın elde edilmesi için genel veya katma bütçeden bir miktar paranın, azaltılmamak şartı ile kuruluşa veya bu kuruluşla ilgili işletmelere verilmesi; mütedavil sermaye

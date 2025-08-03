@@ -2,6 +2,7 @@
 layout: term
 title: ığrıp çevirmek
 slug: igrip-cevirmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - yalan dolanla bir şeyden yararlanmak

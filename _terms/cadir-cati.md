@@ -2,6 +2,7 @@
 layout: term
 title: çadır çatı
 slug: cadir-cati
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Orta noktadan başlayarak dört tarafa bakan yüzeyi bulunan ve kare piramit biçimindeki çatı

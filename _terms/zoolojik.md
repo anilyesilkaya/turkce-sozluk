@@ -2,6 +2,7 @@
 layout: term
 title: zoolojik
 slug: zoolojik
+letter: Z
 lisan: Fransızca zoologique
 anlamlar:
 - ► hayvan bilimsel

@@ -2,6 +2,7 @@
 layout: term
 title: bizcesi
 slug: bizcesi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bize göre olanı

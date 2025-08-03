@@ -2,6 +2,7 @@
 layout: term
 title: parşömen
 slug: parsomen
+letter: P
 lisan: Fransızca parchemin
 anlamlar:
 - Yazı yazmak, resim yapmak için özel olarak hazırlanan deri; tirşe (II)

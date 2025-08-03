@@ -2,6 +2,7 @@
 layout: term
 title: dirençlilik
 slug: direnclilik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dirençli olma durumu

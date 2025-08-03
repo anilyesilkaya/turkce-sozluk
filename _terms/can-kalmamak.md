@@ -2,6 +2,7 @@
 layout: term
 title: can kalmamak
 slug: can-kalmamak
+letter: C
 lisan: Türkçe
 anlamlar:
 - bitkin bir duruma gelmek, gücü tükenmek

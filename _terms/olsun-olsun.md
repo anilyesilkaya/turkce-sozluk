@@ -2,6 +2,7 @@
 layout: term
 title: '... olsun ... olsun'
 slug: olsun-olsun
+letter: .
 lisan: Türkçe
 anlamlar:
 - sözü geçen her şey

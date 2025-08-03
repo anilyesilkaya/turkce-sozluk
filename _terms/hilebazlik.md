@@ -2,6 +2,7 @@
 layout: term
 title: hilebazlık
 slug: hilebazlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► hilecilik

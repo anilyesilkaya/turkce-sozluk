@@ -2,6 +2,7 @@
 layout: term
 title: mail
 slug: mail
+letter: M
 lisan: Arapça māʾil
 anlamlar:
 - Eğilimi olan

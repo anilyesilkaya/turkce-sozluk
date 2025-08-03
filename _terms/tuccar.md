@@ -2,6 +2,7 @@
 layout: term
 title: tüccar
 slug: tuccar
+letter: T
 lisan: Arapça tuccār
 anlamlar:
 - Ticaret yapan, ticaretle uğraşan kimse; tacir, tecimen, bezirgân

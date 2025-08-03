@@ -2,6 +2,7 @@
 layout: term
 title: cömertleşme
 slug: comertlesme
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cömertleşmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: harap
 slug: harap
+letter: H
 lisan: Arapça ḫarāb
 anlamlar:
 - Bayındırlığı kalmamış, yıkılacak duruma gelmiş; yıkkın, viran

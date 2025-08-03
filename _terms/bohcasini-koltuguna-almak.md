@@ -2,6 +2,7 @@
 layout: term
 title: bohçasını koltuğuna almak
 slug: bohcasini-koltuguna-almak
+letter: B
 lisan: Türkçe
 anlamlar:
 - kendi isteğiyle ayrılmak

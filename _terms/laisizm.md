@@ -2,6 +2,7 @@
 layout: term
 title: laisizm
 slug: laisizm
+letter: L
 lisan: Fransızca laïcisme
 anlamlar:
 - ► laiklik

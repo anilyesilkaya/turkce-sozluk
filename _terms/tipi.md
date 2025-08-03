@@ -2,6 +2,7 @@
 layout: term
 title: tipi
 slug: tipi
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► kar fırtınası

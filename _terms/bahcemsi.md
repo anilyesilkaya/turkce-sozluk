@@ -2,6 +2,7 @@
 layout: term
 title: bahçemsi
 slug: bahcemsi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bahçeyi andıran, bahçeye benzeyen, bahçe gibi

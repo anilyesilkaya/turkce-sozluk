@@ -2,6 +2,7 @@
 layout: term
 title: hamasi
 slug: hamasi
+letter: H
 lisan: Arapça ḥamāsī
 anlamlar:
 - Yiğitlerden ve yiğitliklerden söz eden (destan, şiir)

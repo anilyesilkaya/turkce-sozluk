@@ -2,6 +2,7 @@
 layout: term
 title: seciyeli
 slug: seciyeli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sağlam karakterli, kendisine güvenilir (kimse)

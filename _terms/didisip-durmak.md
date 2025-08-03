@@ -2,6 +2,7 @@
 layout: term
 title: didişip durmak
 slug: didisip-durmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - sürekli olarak birbirini hırpalamak

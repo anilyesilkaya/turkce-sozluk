@@ -2,6 +2,7 @@
 layout: term
 title: gramatik
 slug: gramatik
+letter: G
 lisan: Fransızca grammatique
 anlamlar:
 - Dil bilgisi ile ilgili

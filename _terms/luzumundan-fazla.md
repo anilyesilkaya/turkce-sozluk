@@ -2,6 +2,7 @@
 layout: term
 title: lüzumundan fazla
 slug: luzumundan-fazla
+letter: L
 lisan: Türkçe
 anlamlar:
 - gerekenden çok

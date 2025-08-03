@@ -2,6 +2,7 @@
 layout: term
 title: baş belası
 slug: bas-belasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Sıkıntı, üzüntü, eziyet veren

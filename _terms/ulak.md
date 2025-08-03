@@ -2,6 +2,7 @@
 layout: term
 title: ulak
 slug: ulak
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► haberci

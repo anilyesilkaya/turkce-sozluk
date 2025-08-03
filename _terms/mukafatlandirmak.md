@@ -2,6 +2,7 @@
 layout: term
 title: mükâfatlandırmak
 slug: mukafatlandirmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► ödüllendirmek

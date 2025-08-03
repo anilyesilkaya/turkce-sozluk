@@ -2,6 +2,7 @@
 layout: term
 title: aynagöz
 slug: aynagoz
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► açıkgöz

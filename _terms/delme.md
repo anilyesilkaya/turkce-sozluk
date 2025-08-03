@@ -2,6 +2,7 @@
 layout: term
 title: delme
 slug: delme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Delmek işi

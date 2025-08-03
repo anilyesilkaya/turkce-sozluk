@@ -2,6 +2,7 @@
 layout: term
 title: yoğurt çiçeği
 slug: yogurt-cicegi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► papatya

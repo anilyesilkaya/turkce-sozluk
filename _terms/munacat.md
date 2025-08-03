@@ -2,6 +2,7 @@
 layout: term
 title: münacat
 slug: munacat
+letter: M
 lisan: Arapça munācāt
 anlamlar:
 - ► yakarış

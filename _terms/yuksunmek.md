@@ -2,6 +2,7 @@
 layout: term
 title: yüksünmek
 slug: yuksunmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir işi kendine yük saymak, yük olarak kabul etmek, bir iş karşısında isteksiz davranmak; ağırsamak

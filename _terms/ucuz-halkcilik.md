@@ -2,6 +2,7 @@
 layout: term
 title: ucuz halkçılık
 slug: ucuz-halkcilik
+letter: U
 lisan: Türkçe
 anlamlar:
 - Halkçılığı basit ve kolay yoldan yapma işi

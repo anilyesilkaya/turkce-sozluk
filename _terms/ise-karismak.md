@@ -2,6 +2,7 @@
 layout: term
 title: işe karışmak
 slug: ise-karismak
+letter: I
 lisan: Türkçe
 anlamlar:
 - herhangi bir konuda katkıda bulunmak, görev almak

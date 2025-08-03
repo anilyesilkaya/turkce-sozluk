@@ -2,6 +2,7 @@
 layout: term
 title: en azından
 slug: en-azindan
+letter: E
 lisan: Türkçe
 anlamlar:
 - En azı ile, hiç olmazsa; en azdan

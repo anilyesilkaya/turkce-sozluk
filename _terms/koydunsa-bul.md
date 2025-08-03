@@ -2,6 +2,7 @@
 layout: term
 title: koydunsa bul
 slug: koydunsa-bul
+letter: K
 lisan: Türkçe
 anlamlar:
 - arandığı hâlde bulunamayan şeyler veya bulunması gereken yerde bulunmayan kimseler için kullanılan bir söz

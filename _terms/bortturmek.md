@@ -2,6 +2,7 @@
 layout: term
 title: börttürmek
 slug: bortturmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Börtme işi yaptırılmak

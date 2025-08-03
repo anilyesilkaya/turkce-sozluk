@@ -2,6 +2,7 @@
 layout: term
 title: ahlaki vazife
 slug: ahlaki-vazife
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kanunun zorlaması olmaksızın, doğru bilindiği için yapılması gereken işler

@@ -2,6 +2,7 @@
 layout: term
 title: homojen
 slug: homojen
+letter: H
 lisan: Fransızca homogène
 anlamlar:
 - ► bağdaşık

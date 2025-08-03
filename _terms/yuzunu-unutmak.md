@@ -2,6 +2,7 @@
 layout: term
 title: yüzünü unutmak
 slug: yuzunu-unutmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - uzun süre görmemek, varlığına hasret kalmak

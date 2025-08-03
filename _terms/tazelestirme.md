@@ -2,6 +2,7 @@
 layout: term
 title: tazeleştirme
 slug: tazelestirme
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tazeleştirmek işi

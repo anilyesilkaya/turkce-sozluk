@@ -2,6 +2,7 @@
 layout: term
 title: duygulanıvermek
 slug: duygulanivermek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çabucak duygulanmak

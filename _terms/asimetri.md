@@ -2,6 +2,7 @@
 layout: term
 title: asimetri
 slug: asimetri
+letter: A
 lisan: Fransızca asymétrie
 anlamlar:
 - ► bakışımsızlık

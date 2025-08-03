@@ -2,6 +2,7 @@
 layout: term
 title: teşci
 slug: tesci
+letter: T
 lisan: Arapça teşcīʿ
 anlamlar:
 - ► cesaretlendirme

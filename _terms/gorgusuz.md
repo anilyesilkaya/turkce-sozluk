@@ -2,6 +2,7 @@
 layout: term
 title: görgüsüz
 slug: gorgusuz
+letter: G
 lisan: Türkçe
 anlamlar:
 - Görgüsü olmayan; çakal, hamhalat, kaba saba

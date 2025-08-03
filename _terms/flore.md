@@ -2,6 +2,7 @@
 layout: term
 title: flöre
 slug: flore
+letter: F
 lisan: Fransızca fleuret
 anlamlar:
 - ► dürtücü kılıç

@@ -2,6 +2,7 @@
 layout: term
 title: devrilebilmek
 slug: devrilebilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Devrilme ihtimali bulunmak

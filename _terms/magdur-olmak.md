@@ -2,6 +2,7 @@
 layout: term
 title: mağdur olmak
 slug: magdur-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - zarara uğramak

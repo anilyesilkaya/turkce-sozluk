@@ -2,6 +2,7 @@
 layout: term
 title: sükse
 slug: sukse
+letter: S
 lisan: Fransızca succès
 anlamlar:
 - Dikkat çeken başarı

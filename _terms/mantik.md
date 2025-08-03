@@ -2,6 +2,7 @@
 layout: term
 title: mantık
 slug: mantik
+letter: M
 lisan: Arapça manṭiḳ
 anlamlar:
 - Doğru düşünme sanatı ve bilimi

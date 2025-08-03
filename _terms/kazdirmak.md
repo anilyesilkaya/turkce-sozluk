@@ -2,6 +2,7 @@
 layout: term
 title: kazdırmak
 slug: kazdirmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kazma işini yaptırmak

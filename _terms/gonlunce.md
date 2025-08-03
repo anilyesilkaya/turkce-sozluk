@@ -2,6 +2,7 @@
 layout: term
 title: gönlünce
 slug: gonlunce
+letter: G
 lisan: Türkçe
 anlamlar:
 - Dileğine uygun olarak

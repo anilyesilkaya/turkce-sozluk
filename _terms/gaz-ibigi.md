@@ -2,6 +2,7 @@
 layout: term
 title: gaz ibiği
 slug: gaz-ibigi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gaz lambasının gazın yanması için üzerinde fitil bulunan ağzı

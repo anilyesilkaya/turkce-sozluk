@@ -2,6 +2,7 @@
 layout: term
 title: piliç
 slug: pilic
+letter: P
 lisan: Türkçe
 anlamlar:
 - Tavuğun küçüğü, erginleşmemiş tavuk veya horoz

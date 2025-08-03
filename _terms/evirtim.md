@@ -2,6 +2,7 @@
 layout: term
 title: evirtim
 slug: evirtim
+letter: E
 lisan: Türkçe
 anlamlar:
 - Evirtmek işi; evirme, akis

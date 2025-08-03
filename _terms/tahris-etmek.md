@@ -2,6 +2,7 @@
 layout: term
 title: tahriş etmek
 slug: tahris-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - tırmalamak

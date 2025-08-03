@@ -2,6 +2,7 @@
 layout: term
 title: bitişme
 slug: bitisme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bitişmek işi; ittisal

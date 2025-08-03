@@ -2,6 +2,7 @@
 layout: term
 title: köprü kurmak
 slug: kopru-kurmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - akarsu veya göl vb. üzerinde köprü inşa etmek

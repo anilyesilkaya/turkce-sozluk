@@ -2,6 +2,7 @@
 layout: term
 title: biyograf
 slug: biyograf
+letter: B
 lisan: Fransızca biographe
 anlamlar:
 - Hayat hikâyesi yazarı

@@ -2,6 +2,7 @@
 layout: term
 title: sığabilme
 slug: sigabilme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sığabilmek işi

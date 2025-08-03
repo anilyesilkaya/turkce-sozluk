@@ -2,6 +2,7 @@
 layout: term
 title: alazlamak
 slug: alazlamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir şeyin yüzünü alevden geçirmek, aleve tutmak

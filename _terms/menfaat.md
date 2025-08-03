@@ -2,6 +2,7 @@
 layout: term
 title: menfaat
 slug: menfaat
+letter: M
 lisan: Arapça menfaʿat
 anlamlar:
 - ► çıkar

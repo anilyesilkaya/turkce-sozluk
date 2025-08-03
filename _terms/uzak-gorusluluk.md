@@ -2,6 +2,7 @@
 layout: term
 title: uzak görüşlülük
 slug: uzak-gorusluluk
+letter: U
 lisan: Türkçe
 anlamlar:
 - İleride, gelecekte olabilecekleri düşünme ve sezme gücü

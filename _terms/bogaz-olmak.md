@@ -2,6 +2,7 @@
 layout: term
 title: boğaz olmak
 slug: bogaz-olmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - boğazı ağrımak

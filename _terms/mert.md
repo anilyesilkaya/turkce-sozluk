@@ -2,6 +2,7 @@
 layout: term
 title: mert
 slug: mert
+letter: M
 lisan: Farsça merd
 anlamlar:
 - ► yiğit

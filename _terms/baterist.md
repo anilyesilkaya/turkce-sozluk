@@ -2,6 +2,7 @@
 layout: term
 title: baterist
 slug: baterist
+letter: B
 lisan: Fransızca batteriste
 anlamlar:
 - ► baterici

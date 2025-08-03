@@ -2,6 +2,7 @@
 layout: term
 title: sildirilme
 slug: sildirilme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sildirilmek işi

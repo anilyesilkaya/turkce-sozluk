@@ -2,6 +2,7 @@
 layout: term
 title: utkulu
 slug: utkulu
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► muzaffer

@@ -2,6 +2,7 @@
 layout: term
 title: tarihli
 slug: tarihli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Herhangi bir tarihi taşıyan; günlü

@@ -2,6 +2,7 @@
 layout: term
 title: bir yol
 slug: bir-yol
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bir kere

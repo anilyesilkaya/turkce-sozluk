@@ -2,6 +2,7 @@
 layout: term
 title: bükmek
 slug: bukmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Sertçe çevirmek

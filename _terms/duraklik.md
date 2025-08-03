@@ -2,6 +2,7 @@
 layout: term
 title: duraklık
 slug: duraklik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Durak olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: kaynaştırabilmek
 slug: kaynastirabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaynaştırma ihtimali veya imkânı bulunmak

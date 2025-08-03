@@ -2,6 +2,7 @@
 layout: term
 title: ihtiyatkârlık
 slug: ihtiyatkarlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İhtiyatlı olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: arıtma
 slug: aritma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arıtmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: mir
 slug: mir
+letter: M
 lisan: Farsça mīr
 anlamlar:
 - ► komutan

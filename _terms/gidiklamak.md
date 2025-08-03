@@ -2,6 +2,7 @@
 layout: term
 title: gıdıklamak
 slug: gidiklamak
+letter: G
 lisan: Türkçe
 anlamlar:
 - Vücudun bazı yerlerine dokunarak ürperme veya gülerek kaçınma ile beliren bir sinir tepkisi uyandırmak

@@ -2,6 +2,7 @@
 layout: term
 title: çemrenmek
 slug: cemrenmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Kendi kol ve paçalarını sıvamak, eteğini toplamak

@@ -2,6 +2,7 @@
 layout: term
 title: girişkenlik
 slug: giriskenlik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Girişken olma durumu; girişkinlik

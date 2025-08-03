@@ -2,6 +2,7 @@
 layout: term
 title: transmisyon
 slug: transmisyon
+letter: T
 lisan: Fransızca transmission
 anlamlar:
 - Elektrikli taşıtlarda dingilin motora göre gerek dikey gerek yatay düzende hareket etmesini sağlayan organ

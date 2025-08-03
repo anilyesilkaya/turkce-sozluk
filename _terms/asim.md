@@ -2,6 +2,7 @@
 layout: term
 title: aşım
 slug: asim
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aşmak işi

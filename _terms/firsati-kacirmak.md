@@ -2,6 +2,7 @@
 layout: term
 title: fırsatı kaçırmak
 slug: firsati-kacirmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - elverişli durumdan yararlanamamak

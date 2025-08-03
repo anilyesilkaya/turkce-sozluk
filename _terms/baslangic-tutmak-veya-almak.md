@@ -2,6 +2,7 @@
 layout: term
 title: başlangıç tutmak (veya almak)
 slug: baslangic-tutmak-veya-almak
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir işi, bir dönemin, başladığı nokta veya tarih olarak kabul etmek, belirtmek

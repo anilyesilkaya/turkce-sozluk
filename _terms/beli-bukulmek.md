@@ -2,6 +2,7 @@
 layout: term
 title: beli bükülmek
 slug: beli-bukulmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - yaşlılık yüzünden güçsüz kalmak, bir iş yapamayacak duruma düşmek

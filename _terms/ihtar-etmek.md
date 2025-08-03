@@ -2,6 +2,7 @@
 layout: term
 title: ihtar etmek
 slug: ihtar-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - uyarmak, dikkatini çekmek

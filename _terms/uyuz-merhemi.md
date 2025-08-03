@@ -2,6 +2,7 @@
 layout: term
 title: uyuz merhemi
 slug: uyuz-merhemi
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyuz için kullanılan bir merhem türü

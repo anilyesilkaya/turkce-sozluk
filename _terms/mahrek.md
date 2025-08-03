@@ -2,6 +2,7 @@
 layout: term
 title: mahrek
 slug: mahrek
+letter: M
 lisan: Arapça maḥrek
 anlamlar:
 - ► yörünge

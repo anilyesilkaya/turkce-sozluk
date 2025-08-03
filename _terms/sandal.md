@@ -2,6 +2,7 @@
 layout: term
 title: 'sandal '
 slug: sandal
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir yolu pamuk, bir yolu ipekten dokunan,  dallı ve benekli bir kumaş türü

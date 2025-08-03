@@ -2,6 +2,7 @@
 layout: term
 title: ispatlayabilmek
 slug: ispatlayabilmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► kanıtlayabilmek

@@ -2,6 +2,7 @@
 layout: term
 title: puslanmak
 slug: puslanmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Hava hafif sisli bir durum almak

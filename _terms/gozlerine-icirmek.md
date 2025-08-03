@@ -2,6 +2,7 @@
 layout: term
 title: gözlerine içirmek
 slug: gozlerine-icirmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - ağladığını saklamak, gözyaşlarını belli etmemek

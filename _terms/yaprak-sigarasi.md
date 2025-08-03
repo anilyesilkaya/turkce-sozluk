@@ -2,6 +2,7 @@
 layout: term
 title: yaprak sigarası
 slug: yaprak-sigarasi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaprak tütünün dürülerek sarılmasıyla yapılan kalın sigara; puro, sigar

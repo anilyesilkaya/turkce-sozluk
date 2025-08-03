@@ -2,6 +2,7 @@
 layout: term
 title: daldan dala
 slug: daldan-dala
+letter: D
 lisan: Türkçe
 anlamlar:
 - Oradan oraya, düzensiz, kararsız bir biçimde

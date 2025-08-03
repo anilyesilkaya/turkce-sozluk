@@ -2,6 +2,7 @@
 layout: term
 title: dağ isketesi
 slug: dag-isketesi
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► fanta

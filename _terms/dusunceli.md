@@ -2,6 +2,7 @@
 layout: term
 title: düşünceli
 slug: dusunceli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düşüncesi olan

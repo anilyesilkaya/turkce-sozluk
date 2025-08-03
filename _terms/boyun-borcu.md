@@ -2,6 +2,7 @@
 layout: term
 title: boyun borcu
 slug: boyun-borcu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Yapılması gereken, yapılması borç hükmünde vazife; farz, vecibe

@@ -2,6 +2,7 @@
 layout: term
 title: trahom
 slug: trahom
+letter: T
 lisan: Fransızca trachome
 anlamlar:
 - Göz kapaklarının altında birtakım kabarcıkların belirmesiyle başlayan, tedavi edilmediğinde kirpiklerin içeriye kıvrılması, saydam tabakada yaralar çıkması nedeniyle körlükle sonuçlanabilen bulaşıcı hastalık

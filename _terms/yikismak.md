@@ -2,6 +2,7 @@
 layout: term
 title: yıkışmak
 slug: yikismak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► güreşmek

@@ -2,6 +2,7 @@
 layout: term
 title: rehine koymak (veya vermek)
 slug: rehine-koymak-veya-vermek
+letter: R
 lisan: Türkçe
 anlamlar:
 - borçlu daha sonradan almak üzere değerli bir şeyini alacaklıya vermek

@@ -2,6 +2,7 @@
 layout: term
 title: el ulağı
 slug: el-ulagi
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► yamak

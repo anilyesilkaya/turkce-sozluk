@@ -2,6 +2,7 @@
 layout: term
 title: dokumalı
 slug: dokumali
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dokuması olan

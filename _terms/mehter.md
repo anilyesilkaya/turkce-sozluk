@@ -2,6 +2,7 @@
 layout: term
 title: mehter
 slug: mehter
+letter: M
 lisan: Farsça mihter
 anlamlar:
 - Mehter takımında görevli kimse

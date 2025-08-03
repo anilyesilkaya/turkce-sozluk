@@ -2,6 +2,7 @@
 layout: term
 title: âcizleşmek
 slug: acizlesmek
+letter: Â
 lisan: Türkçe
 anlamlar:
 - Âciz duruma gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: şekerleşmek
 slug: sekerlesmek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Nişastalı ve selülozlu maddeler, enzimlerin veya inorganik asitlerin etkisiyle mayalanabilir şekerler durumuna dönüşmek

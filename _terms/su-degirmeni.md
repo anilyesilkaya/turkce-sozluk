@@ -2,6 +2,7 @@
 layout: term
 title: su değirmeni
 slug: su-degirmeni
+letter: S
 lisan: Türkçe
 anlamlar:
 - Su gücü ile çalışan değirmen

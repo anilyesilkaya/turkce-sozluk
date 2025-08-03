@@ -2,6 +2,7 @@
 layout: term
 title: araştırmacı
 slug: arastirmaci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Araştırma yapan, inceleyen kimse; araştırıcı, araştırman, mütetebbi

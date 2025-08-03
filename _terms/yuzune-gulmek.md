@@ -2,6 +2,7 @@
 layout: term
 title: yüzüne gülmek
 slug: yuzune-gulmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - dostmuş gibi görünmek

@@ -2,6 +2,7 @@
 layout: term
 title: necabet
 slug: necabet
+letter: N
 lisan: Arapça necābet
 anlamlar:
 - Temiz bir soydan gelme

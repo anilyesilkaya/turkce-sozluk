@@ -2,6 +2,7 @@
 layout: term
 title: işten (bile) değil
 slug: isten-bile-degil
+letter: I
 lisan: Türkçe
 anlamlar:
 - çok kolay

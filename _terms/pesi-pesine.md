@@ -2,6 +2,7 @@
 layout: term
 title: peşi peşine
 slug: pesi-pesine
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► arka arkaya

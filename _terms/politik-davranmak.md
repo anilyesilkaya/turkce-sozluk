@@ -2,6 +2,7 @@
 layout: term
 title: politik davranmak
 slug: politik-davranmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - belli bir amaca ulaşmak için uzlaşmaya, iyi geçinmeye önem vererek hareket etmek

@@ -2,6 +2,7 @@
 layout: term
 title: nankörlük
 slug: nankorluk
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nankör olma durumu

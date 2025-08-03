@@ -2,6 +2,7 @@
 layout: term
 title: kendine mal etmek
 slug: kendine-mal-etmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - benimsemek veya saymak

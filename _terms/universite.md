@@ -2,6 +2,7 @@
 layout: term
 title: üniversite
 slug: universite
+letter: Ü
 lisan: Fransızca université
 anlamlar:
 - Bilimsel özerkliğe ve kamu tüzel kişiliğine sahip, yüksek düzeyde eğitim, öğretim, bilimsel araştırma ve yayın yapan fakülte, enstitü, yüksekokul vb. kuruluş ve birimlerden oluşan öğretim kurumu; darülfünun

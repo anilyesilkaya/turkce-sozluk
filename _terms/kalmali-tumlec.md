@@ -2,6 +2,7 @@
 layout: term
 title: kalmalı tümleç
 slug: kalmali-tumlec
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► bulunmalı tümleç

@@ -2,6 +2,7 @@
 layout: term
 title: tehi
 slug: tehi
+letter: T
 lisan: Farsça tehī
 anlamlar:
 - ► boş

@@ -2,6 +2,7 @@
 layout: term
 title: yanılış
 slug: yanilis
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yanılmak işi

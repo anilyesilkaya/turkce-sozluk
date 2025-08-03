@@ -2,6 +2,7 @@
 layout: term
 title: devamlı
 slug: devamli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Sürekli, bitmeyen, kesintiye uğramayan

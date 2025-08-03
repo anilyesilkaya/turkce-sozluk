@@ -2,6 +2,7 @@
 layout: term
 title: yelve
 slug: yelve
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► florya

@@ -2,6 +2,7 @@
 layout: term
 title: gamze
 slug: gamze
+letter: G
 lisan: Arapça ġamze
 anlamlar:
 - Bazı insanların çenelerinde, yanaklarında doğal olarak bulunan özellikle güldüklerinde daha iyi görülen küçük çukur

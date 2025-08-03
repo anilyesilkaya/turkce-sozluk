@@ -2,6 +2,7 @@
 layout: term
 title: kısıkça
 slug: kisikca
+letter: K
 lisan: Türkçe
 anlamlar:
 - Biraz kısılmış

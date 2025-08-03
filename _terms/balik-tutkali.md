@@ -2,6 +2,7 @@
 layout: term
 title: balık tutkalı
 slug: balik-tutkali
+letter: B
 lisan: Türkçe
 anlamlar:
 - Balık endüstrisi artıklarından üretilen, yavaş kuruyan fakat bağlama gücü yüksek yapıştırıcı

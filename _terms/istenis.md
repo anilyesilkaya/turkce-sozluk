@@ -2,6 +2,7 @@
 layout: term
 title: isteniş
 slug: istenis
+letter: I
 lisan: Türkçe
 anlamlar:
 - İstenmek işi; arzulanış

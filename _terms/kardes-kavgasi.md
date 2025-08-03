@@ -2,6 +2,7 @@
 layout: term
 title: kardeş kavgası
 slug: kardes-kavgasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yakın ilişki içinde bulunanlar arasında çıkan anlaşmazlık

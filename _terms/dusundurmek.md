@@ -2,6 +2,7 @@
 layout: term
 title: düşündürmek
 slug: dusundurmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düşünmesine sebep olmak, düşünmesine yol açmak

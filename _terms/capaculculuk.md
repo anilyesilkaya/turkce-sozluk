@@ -2,6 +2,7 @@
 layout: term
 title: çapaçulculuk
 slug: capaculculuk
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çapaçulcu olma durumu

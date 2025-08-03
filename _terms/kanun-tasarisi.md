@@ -2,6 +2,7 @@
 layout: term
 title: kanun tasarısı
 slug: kanun-tasarisi
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► yasa tasarısı

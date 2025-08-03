@@ -2,6 +2,7 @@
 layout: term
 title: sevindirmek
 slug: sevindirmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sevinmesine yol açmak, sevinmesini sağlamak

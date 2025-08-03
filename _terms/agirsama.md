@@ -2,6 +2,7 @@
 layout: term
 title: ağırsama
 slug: agirsama
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağırsamak işi

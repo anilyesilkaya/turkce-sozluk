@@ -2,6 +2,7 @@
 layout: term
 title: kıyımlı
 slug: kiyimli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Herhangi bir biçimde kıyılmış olan

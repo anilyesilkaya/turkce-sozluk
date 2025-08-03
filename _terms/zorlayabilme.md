@@ -2,6 +2,7 @@
 layout: term
 title: zorlayabilme
 slug: zorlayabilme
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zorlayabilmek işi

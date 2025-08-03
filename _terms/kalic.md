@@ -2,6 +2,7 @@
 layout: term
 title: kalıç
 slug: kalic
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► orak

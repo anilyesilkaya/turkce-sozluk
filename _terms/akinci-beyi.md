@@ -2,6 +2,7 @@
 layout: term
 title: akıncı beyi
 slug: akinci-beyi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Türk akıncı kuvvetlerinin kumandanı

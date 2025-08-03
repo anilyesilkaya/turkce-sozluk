@@ -2,6 +2,7 @@
 layout: term
 title: evrilir
 slug: evrilir
+letter: E
 lisan: Türkçe
 anlamlar:
 - 'Konu ile yüklemin birbirinin yerine geçmesiyle doğruluğu bozulmayan (önerme): "Her insan güler" evrilir bir önerme sayılır çünkü "her gülen insandır" yargısı yanlış olmaz'

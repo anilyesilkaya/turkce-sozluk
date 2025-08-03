@@ -2,6 +2,7 @@
 layout: term
 title: tümel
 slug: tumel
+letter: T
 lisan: Türkçe
 anlamlar:
 - Belli bir sınıfa bağlı bireylerin hepsini içine alan; külli

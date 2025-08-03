@@ -2,6 +2,7 @@
 layout: term
 title: başkası
 slug: baskasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Diğer bir kişi, herhangi bir kimse; bir başkası, bir diğeri, ötekisi

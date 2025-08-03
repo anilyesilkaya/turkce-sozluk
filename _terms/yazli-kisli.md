@@ -2,6 +2,7 @@
 layout: term
 title: yazlı kışlı
 slug: yazli-kisli
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bütün yıl boyunca

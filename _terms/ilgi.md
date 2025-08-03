@@ -2,6 +2,7 @@
 layout: term
 title: ilgi
 slug: ilgi
+letter: I
 lisan: Türkçe
 anlamlar:
 - İki şey arasında bulunan herhangi bir bağlılık; alaka, taalluk

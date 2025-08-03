@@ -2,6 +2,7 @@
 layout: term
 title: para basmak
 slug: para-basmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - darphanede, basımevinde metali veya kâğıdı para durumuna getirmek

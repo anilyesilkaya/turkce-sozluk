@@ -2,6 +2,7 @@
 layout: term
 title: bağrılma
 slug: bagrilma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağrılmak işi

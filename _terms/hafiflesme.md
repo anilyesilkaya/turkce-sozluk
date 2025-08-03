@@ -2,6 +2,7 @@
 layout: term
 title: hafifleşme
 slug: hafiflesme
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hafifleşmek işi

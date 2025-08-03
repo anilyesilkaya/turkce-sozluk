@@ -2,6 +2,7 @@
 layout: term
 title: buzağılı
 slug: buzagili
+letter: B
 lisan: Türkçe
 anlamlar:
 - Buzağısı olan

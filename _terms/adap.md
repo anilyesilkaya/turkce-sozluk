@@ -2,6 +2,7 @@
 layout: term
 title: adap
 slug: adap
+letter: A
 lisan: Arapça ādāb
 anlamlar:
 - ► töre

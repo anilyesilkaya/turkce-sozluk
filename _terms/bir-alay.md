@@ -2,6 +2,7 @@
 layout: term
 title: bir alay
 slug: bir-alay
+letter: B
 lisan: Türkçe
 anlamlar:
 - Pek çok

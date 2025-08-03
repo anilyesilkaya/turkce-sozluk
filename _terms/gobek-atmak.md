@@ -2,6 +2,7 @@
 layout: term
 title: göbek atmak
 slug: gobek-atmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - karnını hareket ettirerek oynamak

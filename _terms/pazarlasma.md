@@ -2,6 +2,7 @@
 layout: term
 title: pazarlaşma
 slug: pazarlasma
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pazarlaşmak işi

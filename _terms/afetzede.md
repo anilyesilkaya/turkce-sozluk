@@ -2,6 +2,7 @@
 layout: term
 title: afetzede
 slug: afetzede
+letter: A
 lisan: Arapça āfet + Farsça -zede
 anlamlar:
 - Afete uğramış, afet görmüş kimse

@@ -2,6 +2,7 @@
 layout: term
 title: evvela
 slug: evvela
+letter: E
 lisan: Arapça evvelā
 anlamlar:
 - Her şeyden önce, ilk önce

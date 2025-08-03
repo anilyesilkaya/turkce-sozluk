@@ -2,6 +2,7 @@
 layout: term
 title: çırptırmak
 slug: cirptirmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çırpma işini yaptırmak

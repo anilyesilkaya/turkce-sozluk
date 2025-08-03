@@ -2,6 +2,7 @@
 layout: term
 title: bölmeli
 slug: bolmeli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bölme ile ayrılmış

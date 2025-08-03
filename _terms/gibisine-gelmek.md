@@ -2,6 +2,7 @@
 layout: term
 title: gibisine gelmek
 slug: gibisine-gelmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - imiş gibi gelmek, sanmak

@@ -2,6 +2,7 @@
 layout: term
 title: hırpalama
 slug: hirpalama
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hırpalamak işi

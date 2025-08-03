@@ -2,6 +2,7 @@
 layout: term
 title: dinozorlaşma
 slug: dinozorlasma
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dinozorlaşmak işi

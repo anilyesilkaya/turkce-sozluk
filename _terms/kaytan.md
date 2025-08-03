@@ -2,6 +2,7 @@
 layout: term
 title: kaytan
 slug: kaytan
+letter: K
 lisan: Türkçe
 anlamlar:
 - Pamuk veya ipekten sicim

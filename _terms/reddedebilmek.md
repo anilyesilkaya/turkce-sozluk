@@ -2,6 +2,7 @@
 layout: term
 title: reddedebilmek
 slug: reddedebilmek
+letter: R
 lisan: Arapça redd + Türkçe edebilmek
 anlamlar:
 - Reddetme ihtimali veya imkânı bulunmak

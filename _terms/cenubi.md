@@ -2,6 +2,7 @@
 layout: term
 title: Cenubi
 slug: cenubi
+letter: C
 lisan: Arapça cenūbî
 anlamlar:
 - ► Güney (I)

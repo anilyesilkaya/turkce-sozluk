@@ -2,6 +2,7 @@
 layout: term
 title: kuvvetle muhtemel
 slug: kuvvetle-muhtemel
+letter: K
 lisan: Türkçe
 anlamlar:
 - büyük olasılıkla

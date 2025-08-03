@@ -2,6 +2,7 @@
 layout: term
 title: üstüne yıkılmak
 slug: ustune-yikilmak
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - yamanmak

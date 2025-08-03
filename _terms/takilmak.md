@@ -2,6 +2,7 @@
 layout: term
 title: takılmak
 slug: takilmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Takma işi yapılmak

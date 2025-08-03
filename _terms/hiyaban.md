@@ -2,6 +2,7 @@
 layout: term
 title: hıyaban
 slug: hiyaban
+letter: H
 lisan: Farsça ḫiyābān
 anlamlar:
 - İki tarafı düzgün ağaçlı yol veya bulvar

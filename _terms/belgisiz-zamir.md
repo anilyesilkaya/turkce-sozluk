@@ -2,6 +2,7 @@
 layout: term
 title: belgisiz zamir
 slug: belgisiz-zamir
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► belirsizlik zamiri

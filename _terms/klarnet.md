@@ -2,6 +2,7 @@
 layout: term
 title: klarnet
 slug: klarnet
+letter: K
 lisan: Fransızca clarinette
 anlamlar:
 - Tahtadan, metal perdeli, orkestrada önemli yeri olan bir üflemeli çalgı; gırnata

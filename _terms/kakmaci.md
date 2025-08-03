@@ -2,6 +2,7 @@
 layout: term
 title: kakmacı
 slug: kakmaci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kakma işleri yapan usta

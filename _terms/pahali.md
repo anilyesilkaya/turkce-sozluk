@@ -2,6 +2,7 @@
 layout: term
 title: pahalı
 slug: pahali
+letter: P
 lisan: Türkçe
 anlamlar:
 - Fiyatı yüksek olan; fiyatlı, ucuz karşıtı

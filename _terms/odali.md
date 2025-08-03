@@ -2,6 +2,7 @@
 layout: term
 title: odalı
 slug: odali
+letter: O
 lisan: Türkçe
 anlamlar:
 - Herhangi bir sayıda odası olan

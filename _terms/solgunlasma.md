@@ -2,6 +2,7 @@
 layout: term
 title: solgunlaşma
 slug: solgunlasma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Solgunlaşmak işi

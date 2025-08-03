@@ -2,6 +2,7 @@
 layout: term
 title: çekişebilmek
 slug: cekisebilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çekişme ihtimali veya imkânı bulunmak

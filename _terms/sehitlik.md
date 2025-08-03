@@ -2,6 +2,7 @@
 layout: term
 title: şehitlik
 slug: sehitlik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şehit olma durumu

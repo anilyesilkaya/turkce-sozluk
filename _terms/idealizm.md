@@ -2,6 +2,7 @@
 layout: term
 title: idealizm
 slug: idealizm
+letter: I
 lisan: Fransızca idéalisme
 anlamlar:
 - ► ülkücülük

@@ -2,6 +2,7 @@
 layout: term
 title: 'kâğıt bıçağı '
 slug: kagit-bicagi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kâğıt kesmekte kullanılan bıçak

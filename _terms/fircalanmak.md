@@ -2,6 +2,7 @@
 layout: term
 title: fırçalanmak
 slug: fircalanmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fırça ile ovulmak, düzgünleştirilip parlatmak veya temizlenmek

@@ -2,6 +2,7 @@
 layout: term
 title: yerden selam
 slug: yerden-selam
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Elin yerlere kadar uzatılmasıyla verilen selam biçimi; yerden temenna

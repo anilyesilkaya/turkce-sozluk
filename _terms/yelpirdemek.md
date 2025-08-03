@@ -2,6 +2,7 @@
 layout: term
 title: yelpirdemek
 slug: yelpirdemek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Kımıldamak, hafif sallanmak

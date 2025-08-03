@@ -2,6 +2,7 @@
 layout: term
 title: meftun
 slug: meftun
+letter: M
 lisan: Arapça meftūn
 anlamlar:
 - ► vurgun

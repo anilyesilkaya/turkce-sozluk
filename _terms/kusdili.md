@@ -2,6 +2,7 @@
 layout: term
 title: kuşdili
 slug: kusdili
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir tür dişbudak

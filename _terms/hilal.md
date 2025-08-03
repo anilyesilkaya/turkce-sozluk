@@ -2,6 +2,7 @@
 layout: term
 title: hilal
 slug: hilal
+letter: H
 lisan: Arapça hilāl
 anlamlar:
 - Ayın ilk günlerinde aldığı yay biçimi; ayça, yeni ay

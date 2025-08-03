@@ -2,6 +2,7 @@
 layout: term
 title: tel tel
 slug: tel-tel
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tel biçiminde olan

@@ -2,6 +2,7 @@
 layout: term
 title: harelenmek
 slug: harelenmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - Kımıldadıkça üzerinde parlak çizgiler görünmek, dalgalanmak; menevişlenmek

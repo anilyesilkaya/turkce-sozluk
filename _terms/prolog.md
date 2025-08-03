@@ -2,6 +2,7 @@
 layout: term
 title: prolog
 slug: prolog
+letter: P
 lisan: Fransızca prologue
 anlamlar:
 - ► ön deyiş

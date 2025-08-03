@@ -2,6 +2,7 @@
 layout: term
 title: devletli
 slug: devletli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Mutluluk ve refah içinde olan (kimse)

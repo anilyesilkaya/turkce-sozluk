@@ -2,6 +2,7 @@
 layout: term
 title: mülhakat
 slug: mulhakat
+letter: M
 lisan: Arapça mulḥaḳāt
 anlamlar:
 - Bir bütüne katılanlar, ekler

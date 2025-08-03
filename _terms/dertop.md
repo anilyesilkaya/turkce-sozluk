@@ -2,6 +2,7 @@
 layout: term
 title: dertop
 slug: dertop
+letter: D
 lisan: Türkçe
 anlamlar:
 - Büzülmüş, toplanmış olan

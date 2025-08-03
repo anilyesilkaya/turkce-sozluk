@@ -2,6 +2,7 @@
 layout: term
 title: ezan
 slug: ezan
+letter: E
 lisan: Arapça eẕān
 anlamlar:
 - Müslümanlıkta namaz vaktini bildirmek için müezzinin yüksek sesle yaptığı çağrı

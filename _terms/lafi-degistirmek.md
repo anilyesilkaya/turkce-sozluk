@@ -2,6 +2,7 @@
 layout: term
 title: lafı değiştirmek
 slug: lafi-degistirmek
+letter: L
 lisan: Türkçe
 anlamlar:
 - başka konuyu dile getirmek, başka bir şeyden söz etmek

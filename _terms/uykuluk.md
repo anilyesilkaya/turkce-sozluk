@@ -2,6 +2,7 @@
 layout: term
 title: uykuluk
 slug: uykuluk
+letter: U
 lisan: Türkçe
 anlamlar:
 - Kasaplık hayvanların timüs ve pankreas bezlerine verilen ortak ad

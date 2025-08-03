@@ -2,6 +2,7 @@
 layout: term
 title: ayırtma
 slug: ayirtma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayırtmak işi

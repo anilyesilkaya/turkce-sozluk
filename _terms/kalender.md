@@ -2,6 +2,7 @@
 layout: term
 title: kalender
 slug: kalender
+letter: K
 lisan: Farsça ḳalender
 anlamlar:
 - Yaşama şartları konusunda titizlik göstermeyen, gösterişsiz ve sade yaşamaktan yana olan kimse

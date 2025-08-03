@@ -2,6 +2,7 @@
 layout: term
 title: birileri
 slug: birileri
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bazı kimseler

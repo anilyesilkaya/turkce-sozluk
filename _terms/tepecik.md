@@ -2,6 +2,7 @@
 layout: term
 title: tepecik
 slug: tepecik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Yerden yükseklikleri çok az olan tepeler

@@ -2,6 +2,7 @@
 layout: term
 title: vakumlanma
 slug: vakumlanma
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vakumlanmak işi

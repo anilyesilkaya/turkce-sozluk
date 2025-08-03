@@ -2,6 +2,7 @@
 layout: term
 title: çıma salmak
 slug: cima-salmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - çıma vermek

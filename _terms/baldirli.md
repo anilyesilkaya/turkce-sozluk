@@ -2,6 +2,7 @@
 layout: term
 title: baldırlı
 slug: baldirli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Baldırı olan

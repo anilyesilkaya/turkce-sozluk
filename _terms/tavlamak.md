@@ -2,6 +2,7 @@
 layout: term
 title: tavlamak
 slug: tavlamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - İşlenilecek bir nesneye gereken ısıyı veya nemi sağlamak, tav vermek

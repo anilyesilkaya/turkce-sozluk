@@ -2,6 +2,7 @@
 layout: term
 title: çekingen davranmak
 slug: cekingen-davranmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ürkekçe davranışlarda bulunmak

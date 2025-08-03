@@ -2,6 +2,7 @@
 layout: term
 title: gönlü kırılmak
 slug: gonlu-kirilmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - üzülmek, incinmek, yerinmek

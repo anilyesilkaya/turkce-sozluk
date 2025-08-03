@@ -2,6 +2,7 @@
 layout: term
 title: göbüt
 slug: gobut
+letter: G
 lisan: Türkçe
 anlamlar:
 - Yuvarlak, yassı, içine yumurta vb. malzemeler konan ekmek

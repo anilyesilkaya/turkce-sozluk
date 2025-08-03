@@ -2,6 +2,7 @@
 layout: term
 title: yavaşa
 slug: yavasa
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► burunduruk

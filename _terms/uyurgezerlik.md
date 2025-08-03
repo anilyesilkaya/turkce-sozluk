@@ -2,6 +2,7 @@
 layout: term
 title: uyurgezerlik
 slug: uyurgezerlik
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyurgezer olma durumu; somnambulizm

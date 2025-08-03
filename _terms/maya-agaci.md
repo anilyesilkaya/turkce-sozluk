@@ -2,6 +2,7 @@
 layout: term
 title: maya ağacı
 slug: maya-agaci
+letter: M
 lisan: Türkçe
 anlamlar:
 - Meyvelerinden yemek yağı çıkarılan bir tür hurma ağacı (Elaels)

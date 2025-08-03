@@ -2,6 +2,7 @@
 layout: term
 title: göreceli
 slug: goreceli
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► görece

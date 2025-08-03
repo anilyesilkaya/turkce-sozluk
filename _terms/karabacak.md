@@ -2,6 +2,7 @@
 layout: term
 title: karabacak
 slug: karabacak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Pancar fidelerinde gelişerek fidenin ölümüne veya cılız kalmasına yol açan ve yerleştiği bölgeleri kara beneklerle örten asklı mantar

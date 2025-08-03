@@ -2,6 +2,7 @@
 layout: term
 title: tornacılık
 slug: tornacilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tornacının işi veya mesleği

@@ -2,6 +2,7 @@
 layout: term
 title: çiçekçi
 slug: cicekci
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çiçek yetiştiren, satan veya yapma çiçek işiyle uğraşan kimse

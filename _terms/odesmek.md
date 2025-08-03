@@ -2,6 +2,7 @@
 layout: term
 title: ödeşmek
 slug: odesmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Birbirine olan borçları ödeyip alacak verecek bırakmamak

@@ -2,6 +2,7 @@
 layout: term
 title: şaka götürmemek
 slug: saka-goturmemek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - bir durum veya iş hafifsemeye, dikkatsizliğe gelmemek

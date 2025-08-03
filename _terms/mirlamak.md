@@ -2,6 +2,7 @@
 layout: term
 title: mırlamak
 slug: mirlamak
+letter: M
 lisan: Türkçe
 anlamlar:
 - Kedi "mır mır" diye ses çıkarmak

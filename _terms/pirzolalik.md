@@ -2,6 +2,7 @@
 layout: term
 title: pirzolalık
 slug: pirzolalik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pirzola yapmaya elverişli

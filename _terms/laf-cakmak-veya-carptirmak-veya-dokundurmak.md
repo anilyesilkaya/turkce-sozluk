@@ -2,6 +2,7 @@
 layout: term
 title: laf çakmak (veya çarptırmak veya dokundurmak)
 slug: laf-cakmak-veya-carptirmak-veya-dokundurmak
+letter: L
 lisan: Türkçe
 anlamlar:
 - üstü kapalı bir biçimde karşısındakine bir şeyler ima etmek, iğneleyici konuşmak

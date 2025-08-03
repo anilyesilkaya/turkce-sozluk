@@ -2,6 +2,7 @@
 layout: term
 title: elti eltiden kaçar, görümceler bayrak açar
 slug: elti-eltiden-kacar-gorumceler-bayrak-acar
+letter: E
 lisan: Türkçe
 anlamlar:
 - '"eltiler birbirlerinden uzak dururlar, görümceler gelinlerle kavga ederler" anlamında kullanılan bir söz'

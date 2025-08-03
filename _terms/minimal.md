@@ -2,6 +2,7 @@
 layout: term
 title: minimal
 slug: minimal
+letter: M
 lisan: Fransızca minimal
 anlamlar:
 - ► minimum

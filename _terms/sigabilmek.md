@@ -2,6 +2,7 @@
 layout: term
 title: sığabilmek
 slug: sigabilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sığma ihtimali veya imkânı bulunmak

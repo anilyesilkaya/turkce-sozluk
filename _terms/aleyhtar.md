@@ -2,6 +2,7 @@
 layout: term
 title: aleyhtar
 slug: aleyhtar
+letter: A
 lisan: Arapça ʿaleyh + Farsça -dār
 anlamlar:
 - Bir işe, davranışa veya düşünceye karşı çıkan, karşı olan; karşıtçı

@@ -2,6 +2,7 @@
 layout: term
 title: boş çuval ayakta (veya dik) durmaz
 slug: bos-cuval-ayakta-veya-dik-durmaz
+letter: B
 lisan: Türkçe
 anlamlar:
 - '"karnı doymayan kimse çalışamaz" anlamında kullanılan bir söz'

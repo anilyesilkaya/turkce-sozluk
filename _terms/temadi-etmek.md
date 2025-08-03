@@ -2,6 +2,7 @@
 layout: term
 title: temadi etmek
 slug: temadi-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - sürmek, uzamak, sürüp gitmek

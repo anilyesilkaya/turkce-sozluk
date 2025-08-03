@@ -2,6 +2,7 @@
 layout: term
 title: formaliteci
 slug: formaliteci
+letter: F
 lisan: Türkçe
 anlamlar:
 - Özellikle resmî işlerde yöntemlere, tüzüklere sıkı sıkıya bağlanıp işlerin yürümesini güçleştiren kimse

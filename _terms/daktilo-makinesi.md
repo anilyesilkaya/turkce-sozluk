@@ -2,6 +2,7 @@
 layout: term
 title: daktilo makinesi
 slug: daktilo-makinesi
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► yazı makinesi

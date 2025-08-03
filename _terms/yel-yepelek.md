@@ -2,6 +2,7 @@
 layout: term
 title: yel yepelek
 slug: yel-yepelek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yel yeperek

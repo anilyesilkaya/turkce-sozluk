@@ -2,6 +2,7 @@
 layout: term
 title: tomar tomar
 slug: tomar-tomar
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tomar durumunda olan

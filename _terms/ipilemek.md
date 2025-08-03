@@ -2,6 +2,7 @@
 layout: term
 title: ipilemek
 slug: ipilemek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Az ışıkla yanmak

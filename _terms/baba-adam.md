@@ -2,6 +2,7 @@
 layout: term
 title: baba adam
 slug: baba-adam
+letter: B
 lisan: Türkçe
 anlamlar:
 - Yaşlı, ağırbaşlı, iyi yürekli, olgun adam

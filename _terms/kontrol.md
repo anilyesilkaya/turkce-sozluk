@@ -2,6 +2,7 @@
 layout: term
 title: kontrol
 slug: kontrol
+letter: K
 lisan: Fransızca contrôle
 anlamlar:
 - ► denetleme

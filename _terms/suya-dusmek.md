@@ -2,6 +2,7 @@
 layout: term
 title: suya düşmek
 slug: suya-dusmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - bir şeyin gerçekleşme olasılığı kalmamak

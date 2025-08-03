@@ -2,6 +2,7 @@
 layout: term
 title: enayice
 slug: enayice
+letter: E
 lisan: Türkçe
 anlamlar:
 - Enayiye yakışır bir biçimde; enayicesine

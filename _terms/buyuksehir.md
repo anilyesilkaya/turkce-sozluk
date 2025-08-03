@@ -2,6 +2,7 @@
 layout: term
 title: büyükşehir
 slug: buyuksehir
+letter: B
 lisan: Türkçe
 anlamlar:
 - Merkezî idarenin vali yönetimindeki şehirlerinden yetmiş beş binin üzerinde nüfusu ve belli bir büyüklükte ticareti olanı

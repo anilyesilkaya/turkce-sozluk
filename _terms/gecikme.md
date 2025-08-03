@@ -2,6 +2,7 @@
 layout: term
 title: gecikme
 slug: gecikme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gecikmek işi; teehhür, rötar

@@ -2,6 +2,7 @@
 layout: term
 title: vekil
 slug: vekil
+letter: V
 lisan: Arapça vekīl
 anlamlar:
 - Birinin, işini görmesi için kendi yerine bıraktığı veya yetki verdiği kimse

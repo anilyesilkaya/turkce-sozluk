@@ -2,6 +2,7 @@
 layout: term
 title: diretken
 slug: diretken
+letter: D
 lisan: Türkçe
 anlamlar:
 - Diretme özelliği olan, direten (kimse)

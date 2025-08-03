@@ -2,6 +2,7 @@
 layout: term
 title: çöp sepeti
 slug: cop-sepeti
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Büro ve evlerde çöpleri, atıkları koymaya yarayan kap; çöp kovası

@@ -2,6 +2,7 @@
 layout: term
 title: teessür
 slug: teessur
+letter: T
 lisan: Arapça teʾes̱s̱ur
 anlamlar:
 - ► üzüntü

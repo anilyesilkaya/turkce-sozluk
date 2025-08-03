@@ -2,6 +2,7 @@
 layout: term
 title: Bergama tatlısı
 slug: bergama-tatlisi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Un, süt, yumurta ve zeytinyağı ile yoğrularak halka biçimi verilen hamurun kızartılıp üzerine şerbet dökülmesiyle hazırlanan bir tür tatlı; zülbiye

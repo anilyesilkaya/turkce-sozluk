@@ -2,6 +2,7 @@
 layout: term
 title: burnu büyümek
 slug: burnu-buyumek
+letter: B
 lisan: Türkçe
 anlamlar:
 - büyüklenmek

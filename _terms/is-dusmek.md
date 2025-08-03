@@ -2,6 +2,7 @@
 layout: term
 title: iş düşmek
 slug: is-dusmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - birinin iş yapması gerekmek

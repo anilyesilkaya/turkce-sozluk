@@ -2,6 +2,7 @@
 layout: term
 title: tavaşi
 slug: tavasi
+letter: T
 lisan: Arapça tavāşį
 anlamlar:
 - ► harem ağası

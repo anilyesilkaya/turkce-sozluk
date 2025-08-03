@@ -2,6 +2,7 @@
 layout: term
 title: bu kabîlden
 slug: bu-kabilden
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► böyle

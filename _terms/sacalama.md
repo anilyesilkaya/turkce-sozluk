@@ -2,6 +2,7 @@
 layout: term
 title: saçalama
 slug: sacalama
+letter: S
 lisan: Türkçe
 anlamlar:
 - Saçalamak işi

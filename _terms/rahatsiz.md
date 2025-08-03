@@ -2,6 +2,7 @@
 layout: term
 title: rahatsız
 slug: rahatsiz
+letter: R
 lisan: Türkçe
 anlamlar:
 - Rahatı olmayan, tedirgin, huzursuz

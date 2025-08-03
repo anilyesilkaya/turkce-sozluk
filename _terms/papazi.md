@@ -2,6 +2,7 @@
 layout: term
 title: papazi
 slug: papazi
+letter: P
 lisan: Yunanca
 anlamlar:
 - İnce dokunmuş, mavi, pembe, fıstıki renklerde ipek kumaş

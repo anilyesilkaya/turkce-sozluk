@@ -2,6 +2,7 @@
 layout: term
 title: ücretli
 slug: ucretli
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Ücretle çalıştırılan kimse

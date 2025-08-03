@@ -2,6 +2,7 @@
 layout: term
 title: kısmet
 slug: kismet
+letter: K
 lisan: Arapça ḳismet
 anlamlar:
 - Tanrı'nın her kişiye uygun gördüğü yaşama durumu; nasip, behre

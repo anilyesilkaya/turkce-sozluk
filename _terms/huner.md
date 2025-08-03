@@ -2,6 +2,7 @@
 layout: term
 title: hüner
 slug: huner
+letter: H
 lisan: Farsça huner
 anlamlar:
 - Beceri isteyen ustalık, beceriklilik

@@ -2,6 +2,7 @@
 layout: term
 title: yeşil saha
 slug: yesil-saha
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yeşil alan

@@ -2,6 +2,7 @@
 layout: term
 title: tüy
 slug: tuy
+letter: T
 lisan: Türkçe
 anlamlar:
 - İnsan ve hayvan derisi üzerinde bulunan ince, kısa, yumuşak ve sık uzantılar

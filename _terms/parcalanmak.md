@@ -2,6 +2,7 @@
 layout: term
 title: parçalanmak
 slug: parcalanmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Parçalama işine konu olmak, parçalara ayrılmak; paralanmak (II)

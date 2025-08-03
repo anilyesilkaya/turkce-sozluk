@@ -2,6 +2,7 @@
 layout: term
 title: ilam
 slug: ilam
+letter: I
 lisan: Arapça iʿlām
 anlamlar:
 - ► bildirme

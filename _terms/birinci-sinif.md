@@ -2,6 +2,7 @@
 layout: term
 title: birinci sınıf
 slug: birinci-sinif
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► birinci mevki

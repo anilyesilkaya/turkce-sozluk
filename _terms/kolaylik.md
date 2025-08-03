@@ -2,6 +2,7 @@
 layout: term
 title: kolaylık
 slug: kolaylik
+letter: K
 lisan: Türkçe
 anlamlar:
 - İşlerin kolayca yapılmasını sağlayan şey; asanlık, kolay, suhulet

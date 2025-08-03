@@ -2,6 +2,7 @@
 layout: term
 title: sinirlemek
 slug: sinirlemek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Etin içindeki kas kirişlerini ve kalın zarları ayıklamak

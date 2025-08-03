@@ -2,6 +2,7 @@
 layout: term
 title: heyet
 slug: heyet
+letter: H
 lisan: Arapça heyʾet
 anlamlar:
 - ► kurul

@@ -2,6 +2,7 @@
 layout: term
 title: çıkışma
 slug: cikisma
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıkışmak işi

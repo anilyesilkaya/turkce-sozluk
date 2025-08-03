@@ -2,6 +2,7 @@
 layout: term
 title: dört ayak üstüne düşmek
 slug: dort-ayak-ustune-dusmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - tehlikeli bir durumdan zarar görmeden kurtulmak

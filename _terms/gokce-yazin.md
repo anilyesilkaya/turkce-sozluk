@@ -2,6 +2,7 @@
 layout: term
 title: gökçe yazın
 slug: gokce-yazin
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► edebiyat

@@ -2,6 +2,7 @@
 layout: term
 title: yakasını kaptırmak
 slug: yakasini-kaptirmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - bir şeyin, bir kimsenin etkisinden kendisini kurtaramamak

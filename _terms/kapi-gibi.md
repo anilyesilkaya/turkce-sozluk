@@ -2,6 +2,7 @@
 layout: term
 title: kapı gibi
 slug: kapi-gibi
+letter: K
 lisan: Türkçe
 anlamlar:
 - iri vücutlu (kimse)

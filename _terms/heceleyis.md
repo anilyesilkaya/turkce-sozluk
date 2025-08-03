@@ -2,6 +2,7 @@
 layout: term
 title: heceleyiş
 slug: heceleyis
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hecelemek işi

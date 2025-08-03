@@ -2,6 +2,7 @@
 layout: term
 title: ahenk
 slug: ahenk
+letter: A
 lisan: Farsça āheng
 anlamlar:
 - ► uyum

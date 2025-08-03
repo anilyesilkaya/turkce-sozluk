@@ -2,6 +2,7 @@
 layout: term
 title: serpiştirilmek
 slug: serpistirilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Serpiştirme işine konu olmak

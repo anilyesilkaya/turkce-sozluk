@@ -2,6 +2,7 @@
 layout: term
 title: diktatoryal
 slug: diktatoryal
+letter: D
 lisan: Fransızca dictatorial
 anlamlar:
 - Diktatörlükle ilgili, diktatörlüğe ait

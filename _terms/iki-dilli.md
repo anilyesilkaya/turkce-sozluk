@@ -2,6 +2,7 @@
 layout: term
 title: iki dilli
 slug: iki-dilli
+letter: I
 lisan: Türkçe
 anlamlar:
 - İki ayrı dilde olan

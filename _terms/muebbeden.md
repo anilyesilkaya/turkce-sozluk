@@ -2,6 +2,7 @@
 layout: term
 title: müebbeden
 slug: muebbeden
+letter: M
 lisan: Arapça muʾebbeden
 anlamlar:
 - Sürekli olarak, sonsuza kadar

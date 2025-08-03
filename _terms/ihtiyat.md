@@ -2,6 +2,7 @@
 layout: term
 title: ihtiyat
 slug: ihtiyat
+letter: I
 lisan: Arapça iḥtiyāṭ
 anlamlar:
 - Herhangi bir konuda ileriyi düşünerek ölçülü davranma; sakınma

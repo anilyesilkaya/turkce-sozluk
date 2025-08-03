@@ -2,6 +2,7 @@
 layout: term
 title: göz memesi
 slug: goz-memesi
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► göz etçiği

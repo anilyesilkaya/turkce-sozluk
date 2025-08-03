@@ -2,6 +2,7 @@
 layout: term
 title: demodelik
 slug: demodelik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Demode olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: sıkış tıkış
 slug: sikis-tikis
+letter: S
 lisan: Türkçe
 anlamlar:
 - Çok sıkışık

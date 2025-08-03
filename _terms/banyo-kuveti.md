@@ -2,6 +2,7 @@
 layout: term
 title: banyo küveti
 slug: banyo-kuveti
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► küvet

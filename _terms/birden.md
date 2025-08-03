@@ -2,6 +2,7 @@
 layout: term
 title: birden
 slug: birden
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bir defada

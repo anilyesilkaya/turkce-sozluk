@@ -2,6 +2,7 @@
 layout: term
 title: çimentolu
 slug: cimentolu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çimentosu olan

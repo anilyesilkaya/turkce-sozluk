@@ -2,6 +2,7 @@
 layout: term
 title: cadı kazanı gibi kaynamak
 slug: cadi-kazani-gibi-kaynamak
+letter: C
 lisan: Türkçe
 anlamlar:
 - dedikodu, kargaşa çok olmak

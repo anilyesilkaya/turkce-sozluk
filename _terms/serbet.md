@@ -2,6 +2,7 @@
 layout: term
 title: şerbet
 slug: serbet
+letter: Ş
 lisan: Arapça şerbet
 anlamlar:
 - Pişmiş baklava vb. hamurlu tatlılara konulmak üzere kaynatılarak hazırlanmış şekerli su; şurup, şire

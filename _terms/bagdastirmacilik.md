@@ -2,6 +2,7 @@
 layout: term
 title: bağdaştırmacılık
 slug: bagdastirmacilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Farklı kökenlere sahip değişik kültür özelliklerini birleştirme veya kaynaştırma işi

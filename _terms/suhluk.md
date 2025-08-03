@@ -2,6 +2,7 @@
 layout: term
 title: şuhluk
 slug: suhluk
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şuh olma durumu

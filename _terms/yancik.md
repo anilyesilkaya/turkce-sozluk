@@ -2,6 +2,7 @@
 layout: term
 title: yancık
 slug: yancik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Genellikle çobanların kullandığı azık torbası

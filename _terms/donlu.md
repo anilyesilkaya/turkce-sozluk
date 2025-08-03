@@ -2,6 +2,7 @@
 layout: term
 title: donlu
 slug: donlu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Donu olan

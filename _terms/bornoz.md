@@ -2,6 +2,7 @@
 layout: term
 title: bornoz
 slug: bornoz
+letter: B
 lisan: Arapça burnūs
 anlamlar:
 - Banyodan çıkarken kurulanmak için kullanılan, kollu, önden açık, havludan yapılmış giyecek

@@ -2,6 +2,7 @@
 layout: term
 title: mefkûreci
 slug: mefkureci
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mefkûre sahibi olan

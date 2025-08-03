@@ -2,6 +2,7 @@
 layout: term
 title: modernizm
 slug: modernizm
+letter: M
 lisan: Fransızca modernisme
 anlamlar:
 - ► çağdaşlık

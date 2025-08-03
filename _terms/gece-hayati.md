@@ -2,6 +2,7 @@
 layout: term
 title: gece hayatı
 slug: gece-hayati
+letter: G
 lisan: Türkçe
 anlamlar:
 - Genellikle akşamın geç saatlerinden sabahın erken saatlerine kadar süren, alışkanlık hâline gelmiş, kadın ve erkeklerin birlikte katıldığı içkili, müzikli vb. gece eğlenceleri

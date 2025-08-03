@@ -2,6 +2,7 @@
 layout: term
 title: çöğür
 slug: cogur
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Maydanozgillerden bir tür dikenli yaban bitkisi

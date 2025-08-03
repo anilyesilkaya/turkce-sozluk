@@ -2,6 +2,7 @@
 layout: term
 title: kayalık
 slug: kayalik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kayası çok olan yer

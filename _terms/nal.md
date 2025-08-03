@@ -2,6 +2,7 @@
 layout: term
 title: nal
 slug: nal
+letter: N
 lisan: Arapça naʿl
 anlamlar:
 - At, eşek, öküz vb. yük hayvanlarının tırnaklarına çakılan, ayağın şekline uygun demir parçası; nalça

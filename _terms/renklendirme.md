@@ -2,6 +2,7 @@
 layout: term
 title: renklendirme
 slug: renklendirme
+letter: R
 lisan: Türkçe
 anlamlar:
 - Renklendirmek işi

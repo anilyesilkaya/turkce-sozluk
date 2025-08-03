@@ -2,6 +2,7 @@
 layout: term
 title: çizgi im
 slug: cizgi-im
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► barkod

@@ -2,6 +2,7 @@
 layout: term
 title: müstacelen
 slug: mustacelen
+letter: M
 lisan: Arapça mustaʿcelen
 anlamlar:
 - ► çabucak

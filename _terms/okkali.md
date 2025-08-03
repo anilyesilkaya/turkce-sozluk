@@ -2,6 +2,7 @@
 layout: term
 title: okkalı
 slug: okkali
+letter: O
 lisan: Türkçe
 anlamlar:
 - Kiloca fazla olan, ağır çeken

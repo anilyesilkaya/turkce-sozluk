@@ -2,6 +2,7 @@
 layout: term
 title: karık
 slug: karik
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► ark

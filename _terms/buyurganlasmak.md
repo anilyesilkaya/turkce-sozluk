@@ -2,6 +2,7 @@
 layout: term
 title: buyurganlaşmak
 slug: buyurganlasmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Buyurgan duruma gelmek

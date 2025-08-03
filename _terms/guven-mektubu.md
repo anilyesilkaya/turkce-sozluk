@@ -2,6 +2,7 @@
 layout: term
 title: güven mektubu
 slug: guven-mektubu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gittiği yerin devlet başkanına sunması için kendi devlet başkanı tarafından bir elçiye verilen belge; itimat mektubu, itimatname

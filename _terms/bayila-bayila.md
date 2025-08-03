@@ -2,6 +2,7 @@
 layout: term
 title: bayıla bayıla
 slug: bayila-bayila
+letter: B
 lisan: Türkçe
 anlamlar:
 - İsteyerek, istekle, çok isteyerek, severek

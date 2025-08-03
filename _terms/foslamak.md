@@ -2,6 +2,7 @@
 layout: term
 title: foslamak
 slug: foslamak
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fos çıkmak

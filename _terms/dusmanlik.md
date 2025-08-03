@@ -2,6 +2,7 @@
 layout: term
 title: düşmanlık
 slug: dusmanlik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düşmanca duygu veya davranış; yağılık, hasımlık, adavet, muhasamat, husumet

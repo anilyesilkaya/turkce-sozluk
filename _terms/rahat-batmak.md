@@ -2,6 +2,7 @@
 layout: term
 title: rahat batmak
 slug: rahat-batmak
+letter: R
 lisan: Türkçe
 anlamlar:
 - iyi bir durumdayken bu durumu olmayacak sebepler yüzünden bırakanlar için sitem yollu söylenen bir söz

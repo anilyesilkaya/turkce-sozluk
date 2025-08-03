@@ -2,6 +2,7 @@
 layout: term
 title: yansızlaştırma
 slug: yansizlastirma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yansızlaştırmak işi veya durumu

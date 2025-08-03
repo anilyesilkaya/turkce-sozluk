@@ -2,6 +2,7 @@
 layout: term
 title: Babıali
 slug: babiali
+letter: B
 lisan: Arapça bāb + ʿālī
 anlamlar:
 - Osmanlı Devleti'nde İstanbul'da sadaret (Başbakanlık), dâhiliye ve hariciye nezaretleri (İçişleri ve Dışişleri bakanlıkları) ile Şûrayıdevlet (Danıştay) dairelerinin bulunduğu yapı

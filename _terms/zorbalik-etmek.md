@@ -2,6 +2,7 @@
 layout: term
 title: zorbalık etmek
 slug: zorbalik-etmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - zorba gibi davranmak

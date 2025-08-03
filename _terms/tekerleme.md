@@ -2,6 +2,7 @@
 layout: term
 title: tekerleme
 slug: tekerleme
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► yuvarlama

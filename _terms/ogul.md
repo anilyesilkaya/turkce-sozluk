@@ -2,6 +2,7 @@
 layout: term
 title: oğul
 slug: ogul
+letter: O
 lisan: Türkçe
 anlamlar:
 - Erkek evlat; mahdum, zade

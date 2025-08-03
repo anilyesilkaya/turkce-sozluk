@@ -2,6 +2,7 @@
 layout: term
 title: pot gelmek
 slug: pot-gelmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - sonu iyi olmamak, ters gelmek

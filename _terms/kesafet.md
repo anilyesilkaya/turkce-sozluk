@@ -2,6 +2,7 @@
 layout: term
 title: kesafet
 slug: kesafet
+letter: K
 lisan: Arapça kes̱āfet
 anlamlar:
 - ► çokluk

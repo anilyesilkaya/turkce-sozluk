@@ -2,6 +2,7 @@
 layout: term
 title: karşılanabilme
 slug: karsilanabilme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karşılanabilmek işi

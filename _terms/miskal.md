@@ -2,6 +2,7 @@
 layout: term
 title: miskal
 slug: miskal
+letter: M
 lisan: Arapça mis̱ḳāl
 anlamlar:
 - 4,810 gram olan bir ağırlık ölçü birimi

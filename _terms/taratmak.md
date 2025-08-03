@@ -2,6 +2,7 @@
 layout: term
 title: taratmak
 slug: taratmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tarama işini yaptırmak

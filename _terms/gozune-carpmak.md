@@ -2,6 +2,7 @@
 layout: term
 title: gözüne çarpmak
 slug: gozune-carpmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - görünür olmak, dikkati çekmek

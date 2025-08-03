@@ -2,6 +2,7 @@
 layout: term
 title: Lazca
 slug: lazca
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lazların kullandığı dil

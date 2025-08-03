@@ -2,6 +2,7 @@
 layout: term
 title: kınnap
 slug: kinnap
+letter: K
 lisan: Arapça ḳinneb
 anlamlar:
 - İnce sicim

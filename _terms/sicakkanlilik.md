@@ -2,6 +2,7 @@
 layout: term
 title: sıcakkanlılık
 slug: sicakkanlilik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıcakkanlı olma durumu

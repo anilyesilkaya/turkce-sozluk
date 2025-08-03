@@ -2,6 +2,7 @@
 layout: term
 title: balkanlık
 slug: balkanlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Sıradağlarla kaplı olan (yer)

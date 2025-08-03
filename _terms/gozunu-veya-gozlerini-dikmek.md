@@ -2,6 +2,7 @@
 layout: term
 title: gözünü (veya gözlerini) dikmek
 slug: gozunu-veya-gozlerini-dikmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - dikkatle bakmak, gözünü ayırmadan bir yere veya bir kimseye bakmak

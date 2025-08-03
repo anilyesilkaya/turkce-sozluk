@@ -2,6 +2,7 @@
 layout: term
 title: kaçacak delik aramak
 slug: kacacak-delik-aramak
+letter: K
 lisan: Türkçe
 anlamlar:
 - korku ile saklanacak yer aramak

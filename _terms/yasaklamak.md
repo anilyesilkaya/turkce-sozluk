@@ -2,6 +2,7 @@
 layout: term
 title: yasaklamak
 slug: yasaklamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir şeyin yapılmamasını buyurmak veya istemek; yasak etmek, menetmek

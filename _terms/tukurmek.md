@@ -2,6 +2,7 @@
 layout: term
 title: tükürmek
 slug: tukurmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tükürüğü ağız içinden dışarıya atmak

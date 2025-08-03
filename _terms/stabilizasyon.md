@@ -2,6 +2,7 @@
 layout: term
 title: stabilizasyon
 slug: stabilizasyon
+letter: S
 lisan: Fransızca stabilisation
 anlamlar:
 - ► istikrar

@@ -2,6 +2,7 @@
 layout: term
 title: ruhu (bile) duymamak
 slug: ruhu-bile-duymamak
+letter: R
 lisan: Türkçe
 anlamlar:
 - haberi olmamak, anlamamak

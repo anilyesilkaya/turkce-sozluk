@@ -2,6 +2,7 @@
 layout: term
 title: spot lambası
 slug: spot-lambasi
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► ışıntı lambası

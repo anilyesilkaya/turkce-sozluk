@@ -2,6 +2,7 @@
 layout: term
 title: çullandırabilmek
 slug: cullandirabilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çullandırma ihtimali veya imkânı bulunmak

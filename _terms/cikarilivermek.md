@@ -2,6 +2,7 @@
 layout: term
 title: çıkarılıvermek
 slug: cikarilivermek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çabucak çıkarılmak

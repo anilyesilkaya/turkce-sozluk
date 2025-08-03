@@ -2,6 +2,7 @@
 layout: term
 title: yenileşme
 slug: yenilesme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yenileşmek işi

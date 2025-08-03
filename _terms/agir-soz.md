@@ -2,6 +2,7 @@
 layout: term
 title: ağır söz
 slug: agir-soz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kişinin onuruna dokunan, dayanılması güç söz

@@ -2,6 +2,7 @@
 layout: term
 title: bollaştırabilmek
 slug: bollastirabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bollaştırma ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: samimi olmak
 slug: samimi-olmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - içten, açık yüreklilikle davranmak

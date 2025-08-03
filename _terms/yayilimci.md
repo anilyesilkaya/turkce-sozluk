@@ -2,6 +2,7 @@
 layout: term
 title: yayılımcı
 slug: yayilimci
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► emperyalist

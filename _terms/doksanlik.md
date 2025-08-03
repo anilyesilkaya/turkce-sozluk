@@ -2,6 +2,7 @@
 layout: term
 title: doksanlık
 slug: doksanlik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Doksan tanesi bir arada olan veya içinde aynı şeyden doksan tane

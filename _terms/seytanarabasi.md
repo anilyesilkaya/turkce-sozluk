@@ -2,6 +2,7 @@
 layout: term
 title: şeytanarabası
 slug: seytanarabasi
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Bazı bitkilerin havada uçuşan uzun ve ince tüylü tohumu

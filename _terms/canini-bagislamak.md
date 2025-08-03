@@ -2,6 +2,7 @@
 layout: term
 title: canını bağışlamak
 slug: canini-bagislamak
+letter: C
 lisan: Türkçe
 anlamlar:
 - öldürmesi gerekirken vazgeçmek

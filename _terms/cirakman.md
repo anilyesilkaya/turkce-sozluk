@@ -2,6 +2,7 @@
 layout: term
 title: çırakman
 slug: cirakman
+letter: Ç
 lisan: Farsça (Far. çerāġ + pā'dan)
 anlamlar:
 - Üzerinde meşale yakılan kule veya demir direk

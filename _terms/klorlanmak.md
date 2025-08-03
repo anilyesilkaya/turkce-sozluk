@@ -2,6 +2,7 @@
 layout: term
 title: klorlanmak
 slug: klorlanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Klorlama işi yapılmak

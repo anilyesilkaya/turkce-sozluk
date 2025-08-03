@@ -2,6 +2,7 @@
 layout: term
 title: pisletmek
 slug: pisletmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pis duruma getirmek; pislemek

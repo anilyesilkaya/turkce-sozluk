@@ -2,6 +2,7 @@
 layout: term
 title: Danimarka kırmızısı
 slug: danimarka-kirmizisi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Kılları kırmızı, ortalama 600 kilogram ağırlığında, iri yapılı, sert koşullara uyum sağlayan bir sütçü sığır ırkı

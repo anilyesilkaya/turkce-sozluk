@@ -2,6 +2,7 @@
 layout: term
 title: alacaklı çıkmak
 slug: alacakli-cikmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - alacağı vereceğinden çok olmak

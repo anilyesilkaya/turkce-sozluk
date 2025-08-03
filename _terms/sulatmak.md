@@ -2,6 +2,7 @@
 layout: term
 title: sulatmak
 slug: sulatmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sulama işini yaptırmak

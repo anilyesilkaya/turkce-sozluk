@@ -2,6 +2,7 @@
 layout: term
 title: kodlama
 slug: kodlama
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kodlamak işi

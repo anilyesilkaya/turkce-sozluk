@@ -2,6 +2,7 @@
 layout: term
 title: başmaklık
 slug: basmaklik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Camide ayakkabı konulan yer

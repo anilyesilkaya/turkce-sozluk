@@ -2,6 +2,7 @@
 layout: term
 title: plazma televizyon
 slug: plazma-televizyon
+letter: P
 lisan: Türkçe
 anlamlar:
 - Elektrik geldiğinde ışık yanan gaz dolu hücrelerden oluşan bir çeşit panel televizyon

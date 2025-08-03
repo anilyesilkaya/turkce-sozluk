@@ -2,6 +2,7 @@
 layout: term
 title: bulatmak
 slug: bulatmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bulaştırmak

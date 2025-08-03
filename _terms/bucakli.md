@@ -2,6 +2,7 @@
 layout: term
 title: bucaklı
 slug: bucakli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bucağı olan

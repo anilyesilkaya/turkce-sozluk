@@ -2,6 +2,7 @@
 layout: term
 title: gevşetici
 slug: gevsetici
+letter: G
 lisan: Türkçe
 anlamlar:
 - Rahatlatma, gevşetme özelliği olan

@@ -2,6 +2,7 @@
 layout: term
 title: dost düşman
 slug: dost-dusman
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► herkes

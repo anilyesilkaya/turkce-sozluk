@@ -2,6 +2,7 @@
 layout: term
 title: zor alım
 slug: zor-alim
+letter: Z
 lisan: Türkçe
 anlamlar:
 - İşlenen bir suç karşılığı olarak suçlunun malının bütünü veya bir bölümü üstündeki mülkiyetine son verilmesi ve bu mülkiyetin bir başka kuruluşa devredilmesi; müsadere

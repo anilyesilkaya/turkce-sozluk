@@ -2,6 +2,7 @@
 layout: term
 title: azımsanmak
 slug: azimsanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Azımsama işine konu olmak

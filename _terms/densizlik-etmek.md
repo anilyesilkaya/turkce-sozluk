@@ -2,6 +2,7 @@
 layout: term
 title: densizlik etmek
 slug: densizlik-etmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - yakışıksız ve saygısızca davranmak

@@ -2,6 +2,7 @@
 layout: term
 title: boynuzumsu
 slug: boynuzumsu
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► boynuzsu

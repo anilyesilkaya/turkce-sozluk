@@ -2,6 +2,7 @@
 layout: term
 title: milletseverlik
 slug: milletseverlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Milletsever olma durumu; ulusseverlik

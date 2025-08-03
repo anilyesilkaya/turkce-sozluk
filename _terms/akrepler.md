@@ -2,6 +2,7 @@
 layout: term
 title: akrepler
 slug: akrepler
+letter: A
 lisan: Türkçe
 anlamlar:
 - Örümceğimsilerin, örneği akrep olan takımı

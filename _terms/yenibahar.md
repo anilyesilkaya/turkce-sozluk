@@ -2,6 +2,7 @@
 layout: term
 title: yenibahar
 slug: yenibahar
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Mersingillerden, Amerika'nın sıcak bölgelerinde yetişen bir bitki (Pimenta officinalis)

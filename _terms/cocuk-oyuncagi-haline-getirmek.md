@@ -2,6 +2,7 @@
 layout: term
 title: çocuk oyuncağı hâline getirmek
 slug: cocuk-oyuncagi-haline-getirmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - yeteneksiz kimselerin karışmasıyla bir işi değerinden düşürmek

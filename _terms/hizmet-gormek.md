@@ -2,6 +2,7 @@
 layout: term
 title: hizmet görmek
 slug: hizmet-gormek
+letter: H
 lisan: Türkçe
 anlamlar:
 - birisinden yardım almak

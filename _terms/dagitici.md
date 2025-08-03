@@ -2,6 +2,7 @@
 layout: term
 title: dağıtıcı
 slug: dagitici
+letter: D
 lisan: Türkçe
 anlamlar:
 - Mektup, gazete vb. şeyleri dolaşarak dağıtan kimse; müvezzi

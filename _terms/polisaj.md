@@ -2,6 +2,7 @@
 layout: term
 title: polisaj
 slug: polisaj
+letter: P
 lisan: Fransızca polissage
 anlamlar:
 - Dokunmuş kumaşlardaki tarak izlerini yok etmek için bu kumaşları bir bıçaktan geçirme işlemi

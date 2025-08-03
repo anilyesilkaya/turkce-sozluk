@@ -2,6 +2,7 @@
 layout: term
 title: sonra
 slug: sonra
+letter: S
 lisan: Türkçe
 anlamlar:
 - Daha ileri bir zamanda; bilahare, önce karşıtı

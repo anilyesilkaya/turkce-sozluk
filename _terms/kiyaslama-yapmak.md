@@ -2,6 +2,7 @@
 layout: term
 title: kıyaslama yapmak
 slug: kiyaslama-yapmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kıyaslamak

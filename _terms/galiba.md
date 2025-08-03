@@ -2,6 +2,7 @@
 layout: term
 title: galiba
 slug: galiba
+letter: G
 lisan: Arapça ġālibā
 anlamlar:
 - Görünüşe göre, sanılır ki, anlaşıldığı gibi

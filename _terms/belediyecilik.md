@@ -2,6 +2,7 @@
 layout: term
 title: belediyecilik
 slug: belediyecilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir şehre veya kasabaya ait belediye hizmetlerini yerine getirme işi

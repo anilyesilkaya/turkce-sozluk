@@ -2,6 +2,7 @@
 layout: term
 title: gözleri nemlenmek
 slug: gozleri-nemlenmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - gözleri hafifçe yaşarmak, ağlamaklı olmak

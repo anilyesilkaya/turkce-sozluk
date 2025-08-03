@@ -2,6 +2,7 @@
 layout: term
 title: Türkçeleştirme
 slug: turkcelestirme
+letter: T
 lisan: Türkçe
 anlamlar:
 - Türkçeleştirmek işi

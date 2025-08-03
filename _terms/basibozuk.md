@@ -2,6 +2,7 @@
 layout: term
 title: başıbozuk
 slug: basibozuk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Düzensiz bir biçimde olan topluluk

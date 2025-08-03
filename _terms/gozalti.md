@@ -2,6 +2,7 @@
 layout: term
 title: gözaltı
 slug: gozalti
+letter: G
 lisan: Türkçe
 anlamlar:
 - Birinin, güvenlik kuvvetleri tarafından belli bir yerde belli bir süre alıkonulması; gözetim, nezaret

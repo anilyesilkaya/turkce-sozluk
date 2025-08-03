@@ -2,6 +2,7 @@
 layout: term
 title: dingildeme
 slug: dingildeme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dingildemek işi

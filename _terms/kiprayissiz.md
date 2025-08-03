@@ -2,6 +2,7 @@
 layout: term
 title: kıprayışsız
 slug: kiprayissiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kıpırtısız

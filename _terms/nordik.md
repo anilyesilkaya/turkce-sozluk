@@ -2,6 +2,7 @@
 layout: term
 title: nordik
 slug: nordik
+letter: N
 lisan: Fransızca nordique
 anlamlar:
 - Kuzeye ilişkin

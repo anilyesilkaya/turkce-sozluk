@@ -2,6 +2,7 @@
 layout: term
 title: milliyetseverlik
 slug: milliyetseverlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► milliyetçilik

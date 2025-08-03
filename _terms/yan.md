@@ -2,6 +2,7 @@
 layout: term
 title: yan
 slug: yan
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir şeyin ön, arka, alt ve üst dışında kalan bölümü; yamaç, kenar, profil

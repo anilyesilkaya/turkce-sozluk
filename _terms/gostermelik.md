@@ -2,6 +2,7 @@
 layout: term
 title: göstermelik
 slug: gostermelik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gösterişi olan

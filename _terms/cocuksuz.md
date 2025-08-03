@@ -2,6 +2,7 @@
 layout: term
 title: çocuksuz
 slug: cocuksuz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çocuğu olmayan

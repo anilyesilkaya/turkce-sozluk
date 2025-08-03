@@ -2,6 +2,7 @@
 layout: term
 title: güzlük
 slug: guzluk
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güzün yapılan

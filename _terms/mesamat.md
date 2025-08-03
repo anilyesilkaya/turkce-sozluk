@@ -2,6 +2,7 @@
 layout: term
 title: mesamat
 slug: mesamat
+letter: M
 lisan: Arapça mesāmmāt
 anlamlar:
 - Gözenekler

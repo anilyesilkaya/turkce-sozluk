@@ -2,6 +2,7 @@
 layout: term
 title: barındırabilmek
 slug: barindirabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Barındırma ihtimali veya imkânı bulunmak

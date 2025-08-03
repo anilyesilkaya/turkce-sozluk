@@ -2,6 +2,7 @@
 layout: term
 title: falsolu
 slug: falsolu
+letter: F
 lisan: Türkçe
 anlamlar:
 - Yanlış, hatalı, kusurlu olan

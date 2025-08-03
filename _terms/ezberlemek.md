@@ -2,6 +2,7 @@
 layout: term
 title: ezberlemek
 slug: ezberlemek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Çok tekrar edilen bir şeyi iyice öğrenmiş olmak

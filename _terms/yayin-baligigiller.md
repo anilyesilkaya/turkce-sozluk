@@ -2,6 +2,7 @@
 layout: term
 title: yayın balığıgiller
 slug: yayin-baligigiller
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Örnek hayvanı yayın balığı olan, Amerika, Afrika ve Asya'nın tatlı sularında yaşayan bir familya

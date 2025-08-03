@@ -2,6 +2,7 @@
 layout: term
 title: şartlı birleşik cümle
 slug: sartli-birlesik-cumle
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Bir esas cümle ile bu esas cümleye bağlı, fiili -sa / -se ekini almış yan cümlenin oluşturduğu anlatım birliği

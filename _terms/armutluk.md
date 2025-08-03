@@ -2,6 +2,7 @@
 layout: term
 title: armutluk
 slug: armutluk
+letter: A
 lisan: Türkçe
 anlamlar:
 - Armut yetiştirilen bahçe

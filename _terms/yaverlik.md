@@ -2,6 +2,7 @@
 layout: term
 title: yaverlik
 slug: yaverlik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaver olma durumu

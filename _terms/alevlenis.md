@@ -2,6 +2,7 @@
 layout: term
 title: alevleniş
 slug: alevlenis
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alevlenmek işi

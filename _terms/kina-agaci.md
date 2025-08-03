@@ -2,6 +2,7 @@
 layout: term
 title: kına ağacı
 slug: kina-agaci
+letter: K
 lisan: Türkçe
 anlamlar:
 - İki çeneklilerden, tropikal bölgelerde yetişen, kurutulmuş yapraklarından kına elde edilen, beyaz çiçekli, küçük bir ağaç (Lawsonia inermis)

@@ -2,6 +2,7 @@
 layout: term
 title: bir örneklik
 slug: bir-orneklik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir örnek olma durumu

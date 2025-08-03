@@ -2,6 +2,7 @@
 layout: term
 title: eşi benzeri (veya manendi veya menendi) olmamak (veya bulunmamak veya yok)
 slug: esi-benzeri-veya-manendi-veya-menendi-olmamak-veya-bulunmamak-veya-yok
+letter: E
 lisan: Türkçe
 anlamlar:
 - benzeri olmamak

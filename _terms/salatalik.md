@@ -2,6 +2,7 @@
 layout: term
 title: salatalık
 slug: salatalik
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► hıyar (I)

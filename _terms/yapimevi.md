@@ -2,6 +2,7 @@
 layout: term
 title: yapımevi
 slug: yapimevi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► imalathane

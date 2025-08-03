@@ -2,6 +2,7 @@
 layout: term
 title: çiçeksimek
 slug: ciceksimek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çiçek gibi olmak

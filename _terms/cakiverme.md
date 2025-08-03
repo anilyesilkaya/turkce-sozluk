@@ -2,6 +2,7 @@
 layout: term
 title: çakıverme
 slug: cakiverme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çakıvermek işi

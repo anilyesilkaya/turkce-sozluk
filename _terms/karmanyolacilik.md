@@ -2,6 +2,7 @@
 layout: term
 title: karmanyolacılık
 slug: karmanyolacilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karmanyolacı olma durumu

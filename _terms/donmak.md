@@ -2,6 +2,7 @@
 layout: term
 title: donmak
 slug: donmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Sıvı, soğuğun etkisiyle katı duruma gelmek; buymak

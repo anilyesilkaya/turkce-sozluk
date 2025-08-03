@@ -2,6 +2,7 @@
 layout: term
 title: hafız
 slug: hafiz
+letter: H
 lisan: Arapça ḥāfiẓ
 anlamlar:
 - Kur'an'ı bütünüyle ezbere bilen kimse

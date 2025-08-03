@@ -2,6 +2,7 @@
 layout: term
 title: yantutmazlık
 slug: yantutmazlik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Tarafsız olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: burmak
 slug: burmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir şeyi iki ucundan tutup ekseni etrafında ters yönlere çevirerek bükmek

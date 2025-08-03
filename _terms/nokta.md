@@ -2,6 +2,7 @@
 layout: term
 title: nokta
 slug: nokta
+letter: N
 lisan: Arapça nuḳṭa
 anlamlar:
 - Biçimi kalemin kâğıda bir defa dokunması ile meydana gelen ben gibi ufak şekil

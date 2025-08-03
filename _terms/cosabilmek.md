@@ -2,6 +2,7 @@
 layout: term
 title: coşabilmek
 slug: cosabilmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - Coşma ihtimali veya imkânı bulunmak

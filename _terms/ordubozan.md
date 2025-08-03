@@ -2,6 +2,7 @@
 layout: term
 title: ordubozan
 slug: ordubozan
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► oyunbozan

@@ -2,6 +2,7 @@
 layout: term
 title: karteks
 slug: karteks
+letter: K
 lisan: İngilizce cartex
 anlamlar:
 - Veri kaydı tutma amacıyla kullanılan dayanıklı kâğıttan yapılmış bilgi kartı

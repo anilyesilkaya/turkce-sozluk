@@ -2,6 +2,7 @@
 layout: term
 title: müzmin
 slug: muzmin
+letter: M
 lisan: Arapça muzmin
 anlamlar:
 - ► süreğen

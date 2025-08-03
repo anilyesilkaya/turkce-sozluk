@@ -2,6 +2,7 @@
 layout: term
 title: adaletine sığınmak
 slug: adaletine-siginmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - birinden anlayış, hoşgörü, yakınlık beklemek

@@ -2,6 +2,7 @@
 layout: term
 title: kilolu
 slug: kilolu
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► ağır

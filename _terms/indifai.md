@@ -2,6 +2,7 @@
 layout: term
 title: indifai
 slug: indifai
+letter: I
 lisan: Arapça indifāʿī
 anlamlar:
 - Püsküren (yanardağ)

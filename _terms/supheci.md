@@ -2,6 +2,7 @@
 layout: term
 title: şüpheci
 slug: supheci
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► kuşkucu

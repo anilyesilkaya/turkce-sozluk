@@ -2,6 +2,7 @@
 layout: term
 title: orta baklası olmak
 slug: orta-baklasi-olmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - sıradanlaşmak

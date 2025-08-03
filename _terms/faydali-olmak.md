@@ -2,6 +2,7 @@
 layout: term
 title: faydalı olmak
 slug: faydali-olmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - yararlı olmak

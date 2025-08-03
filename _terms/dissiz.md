@@ -2,6 +2,7 @@
 layout: term
 title: dişsiz
 slug: dissiz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dişi olmayan

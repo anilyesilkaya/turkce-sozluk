@@ -2,6 +2,7 @@
 layout: term
 title: sabırsız
 slug: sabirsiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sabır göstermeyen, sabrı olmayan

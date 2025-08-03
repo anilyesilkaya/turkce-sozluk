@@ -2,6 +2,7 @@
 layout: term
 title: ateşlenmek
 slug: ateslenmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ateşleme işine konu olmak

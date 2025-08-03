@@ -2,6 +2,7 @@
 layout: term
 title: buzağılamak
 slug: buzagilamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Sığır yavrulamak

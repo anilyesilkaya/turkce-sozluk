@@ -2,6 +2,7 @@
 layout: term
 title: eşhas
 slug: eshas
+letter: E
 lisan: Arapça eşḫāṣ
 anlamlar:
 - Kişiler

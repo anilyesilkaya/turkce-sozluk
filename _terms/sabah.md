@@ -2,6 +2,7 @@
 layout: term
 title: sabah
 slug: sabah
+letter: S
 lisan: Arapça ṣabāḥ
 anlamlar:
 - Güneşin doğduğu andan öğleye kadar geçen zaman dilimi

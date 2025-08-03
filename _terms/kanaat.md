@@ -2,6 +2,7 @@
 layout: term
 title: kanaat
 slug: kanaat
+letter: K
 lisan: Arapça ḳanāʿat
 anlamlar:
 - Elindekinden hoşnut olma durumu, yeter bulma, fazlasını istememe

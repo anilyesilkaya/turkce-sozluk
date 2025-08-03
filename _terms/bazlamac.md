@@ -2,6 +2,7 @@
 layout: term
 title: bazlamaç
 slug: bazlamac
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bazlama

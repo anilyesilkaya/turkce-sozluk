@@ -2,6 +2,7 @@
 layout: term
 title: maaş
 slug: maas
+letter: M
 lisan: Arapça maʿāş
 anlamlar:
 - ► aylık

@@ -2,6 +2,7 @@
 layout: term
 title: kahveci
 slug: kahveci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çekirdek veya çekilmiş kahve satan kimse

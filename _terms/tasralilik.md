@@ -2,6 +2,7 @@
 layout: term
 title: taşralılık
 slug: tasralilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taşralı olma durumu

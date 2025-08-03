@@ -2,6 +2,7 @@
 layout: term
 title: neftçi
 slug: neftci
+letter: N
 lisan: Türkçe
 anlamlar:
 - Kale kuşatmalarında surlara tırmanmaya çalışan düşman askerlerinin üzerine yağ dökmekle görevli asker

@@ -2,6 +2,7 @@
 layout: term
 title: kafasının bir tahtası eksik (veya noksan) (olmak)
 slug: kafasinin-bir-tahtasi-eksik-veya-noksan-olmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - akıl dışı davranışlarda bulunan

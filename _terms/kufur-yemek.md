@@ -2,6 +2,7 @@
 layout: term
 title: küfür yemek
 slug: kufur-yemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - kendisine küfredilmek

@@ -2,6 +2,7 @@
 layout: term
 title: konsültasyon
 slug: konsultasyon
+letter: K
 lisan: Fransızca consultation
 anlamlar:
 - Bir hastalığa tanı koymak veya hastalığı tedavi etmek amacıyla birden fazla hekimin görüş alışverişinde bulunması; konsulto

@@ -2,6 +2,7 @@
 layout: term
 title: dallı güllü
 slug: dalli-gullu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çok renkli, canlı olan

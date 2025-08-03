@@ -2,6 +2,7 @@
 layout: term
 title: kaya keleri
 slug: kaya-keleri
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► bukalemun

@@ -2,6 +2,7 @@
 layout: term
 title: cılk
 slug: cilk
+letter: C
 lisan: Türkçe
 anlamlar:
 - Bozularak kokmuş (yumurta)

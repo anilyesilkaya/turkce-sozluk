@@ -2,6 +2,7 @@
 layout: term
 title: vaziyet almak
 slug: vaziyet-almak
+letter: V
 lisan: Türkçe
 anlamlar:
 - belli bir durum veya davranış biçimini benimsemek, tavır almak, tavır takınmak

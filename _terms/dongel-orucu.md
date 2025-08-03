@@ -2,6 +2,7 @@
 layout: term
 title: döngel orucu
 slug: dongel-orucu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Sürekli olarak aç kalma

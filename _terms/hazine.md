@@ -2,6 +2,7 @@
 layout: term
 title: hazine
 slug: hazine
+letter: H
 lisan: Arapça ḫazīne
 anlamlar:
 - Altın, gümüş, mücevher vb. değerli eşya yığını, büyük servet; hazne

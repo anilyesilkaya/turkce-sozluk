@@ -2,6 +2,7 @@
 layout: term
 title: sabunlamak
 slug: sabunlamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Herhangi bir şeyi sabun sürerek yıkamak

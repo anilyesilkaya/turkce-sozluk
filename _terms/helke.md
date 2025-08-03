@@ -2,6 +2,7 @@
 layout: term
 title: helke
 slug: helke
+letter: H
 lisan: Rumca
 anlamlar:
 - Bakırdan yapılan bakraç, kova

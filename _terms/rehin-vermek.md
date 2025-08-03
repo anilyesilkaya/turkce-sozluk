@@ -2,6 +2,7 @@
 layout: term
 title: rehin vermek
 slug: rehin-vermek
+letter: R
 lisan: Türkçe
 anlamlar:
 - borçlu daha sonradan almak üzere değerli bir şeyini alacaklıya vermek

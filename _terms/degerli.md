@@ -2,6 +2,7 @@
 layout: term
 title: değerli
 slug: degerli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Değeri olan veya değeri yüksek olan; ağır, kıymetli, kıymettar, muteber, zikıymet

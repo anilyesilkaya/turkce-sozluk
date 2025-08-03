@@ -2,6 +2,7 @@
 layout: term
 title: lime lime etmek
 slug: lime-lime-etmek
+letter: L
 lisan: Türkçe
 anlamlar:
 - parçalamak

@@ -2,6 +2,7 @@
 layout: term
 title: yağlı boya
 slug: yagli-boya
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Eşyaya renk vermek veya onu dış etkilerden korumak için sürülen, boyanın bazı özel sıvılarla karıştırılmasıyla yapılan kimyasal madde

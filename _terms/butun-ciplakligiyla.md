@@ -2,6 +2,7 @@
 layout: term
 title: bütün çıplaklığıyla
 slug: butun-ciplakligiyla
+letter: B
 lisan: Türkçe
 anlamlar:
 - Hiçbir şey saklamaksızın, olduğu gibi

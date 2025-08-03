@@ -2,6 +2,7 @@
 layout: term
 title: zihnini dağıtmak
 slug: zihnini-dagitmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - gerektiği gibi düşünmemek

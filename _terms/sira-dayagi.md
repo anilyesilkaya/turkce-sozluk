@@ -2,6 +2,7 @@
 layout: term
 title: sıra dayağı
 slug: sira-dayagi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kişileri ayrım gözetmeksizin sırayla tek tek dövme

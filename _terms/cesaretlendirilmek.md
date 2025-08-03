@@ -2,6 +2,7 @@
 layout: term
 title: cesaretlendirilmek
 slug: cesaretlendirilmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cesaretli olması sağlanmak

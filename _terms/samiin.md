@@ -2,6 +2,7 @@
 layout: term
 title: samiin
 slug: samiin
+letter: S
 lisan: Arapça sāmiʿįn
 anlamlar:
 - İşitenler

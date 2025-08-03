@@ -2,6 +2,7 @@
 layout: term
 title: yapıştırmak
 slug: yapistirmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yapışmasını sağlamak

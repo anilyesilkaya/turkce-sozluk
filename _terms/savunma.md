@@ -2,6 +2,7 @@
 layout: term
 title: savunma
 slug: savunma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Saldırıya karşı koyma; müdafaa

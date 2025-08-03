@@ -2,6 +2,7 @@
 layout: term
 title: yapısalcılık
 slug: yapisalcilik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bilimin her dalında yapıdan yola çıkarak sonuçlara ulaşma yöntemi; strüktüralizm

@@ -2,6 +2,7 @@
 layout: term
 title: uykusuzluk
 slug: uykusuzluk
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyku uyuyamama veya uyumamış olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: bombalatılma
 slug: bombalatilma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bombalatılmak işi

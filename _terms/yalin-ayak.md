@@ -2,6 +2,7 @@
 layout: term
 title: yalın ayak
 slug: yalin-ayak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Ayakları çıplak

@@ -2,6 +2,7 @@
 layout: term
 title: zimmi
 slug: zimmi
+letter: Z
 lisan: Arapça ẕimmī
 anlamlar:
 - İslam devleti tebaasında olan ve haraç veren Hristiyanlar, Yahudiler

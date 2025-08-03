@@ -2,6 +2,7 @@
 layout: term
 title: kaytarma
 slug: kaytarma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaytarmak işi

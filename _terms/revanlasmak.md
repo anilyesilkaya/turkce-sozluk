@@ -2,6 +2,7 @@
 layout: term
 title: revanlaşmak
 slug: revanlasmak
+letter: R
 lisan: Türkçe
 anlamlar:
 - Yürüyüp gitmek, uyum sağlamak

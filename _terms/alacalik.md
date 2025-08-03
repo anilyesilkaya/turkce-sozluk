@@ -2,6 +2,7 @@
 layout: term
 title: alacalık
 slug: alacalik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alaca olma durumu

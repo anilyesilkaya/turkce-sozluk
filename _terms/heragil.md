@@ -2,6 +2,7 @@
 layout: term
 title: heragil
 slug: heragil
+letter: H
 lisan: Farsça hergele'den
 anlamlar:
 - Terbiyesiz, görgüsüz (kimseler)

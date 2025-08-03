@@ -2,6 +2,7 @@
 layout: term
 title: bakımevi
 slug: bakimevi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bakıma gereksinimi olan kimselerin bakıldıkları, barındıkları kuruluş

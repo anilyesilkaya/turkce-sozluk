@@ -2,6 +2,7 @@
 layout: term
 title: dostluk etmek
 slug: dostluk-etmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - yakınlık kurmak, dost gibi candan davranmak

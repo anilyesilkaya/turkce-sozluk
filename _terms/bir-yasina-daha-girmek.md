@@ -2,6 +2,7 @@
 layout: term
 title: bir yaşına daha girmek
 slug: bir-yasina-daha-girmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - şimdiye değin görmediği şaşılacak yeni bir şeyle karşılaşmak

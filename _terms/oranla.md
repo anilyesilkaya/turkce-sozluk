@@ -2,6 +2,7 @@
 layout: term
 title: oranla
 slug: oranla
+letter: O
 lisan: Türkçe
 anlamlar:
 - Herhangi bir şeye göre, herhangi bir şeyle kıyaslayarak; nispetle, nispeten

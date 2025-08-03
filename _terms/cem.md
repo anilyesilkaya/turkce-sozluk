@@ -2,6 +2,7 @@
 layout: term
 title: cem
 slug: cem
+letter: C
 lisan: Arapça cemʿ
 anlamlar:
 - Bir araya getirme

@@ -2,6 +2,7 @@
 layout: term
 title: birleme
 slug: birleme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir etme, tek duruma getirme

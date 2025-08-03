@@ -2,6 +2,7 @@
 layout: term
 title: safi
 slug: safi
+letter: S
 lisan: Arapça ṣāfī
 anlamlar:
 - Katıksız, duru, temiz olan

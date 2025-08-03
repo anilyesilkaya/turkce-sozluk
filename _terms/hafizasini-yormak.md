@@ -2,6 +2,7 @@
 layout: term
 title: hafızasını yormak
 slug: hafizasini-yormak
+letter: H
 lisan: Türkçe
 anlamlar:
 - çok düşünmek, hatırlamaya çalışmak

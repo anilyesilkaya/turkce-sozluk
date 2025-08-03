@@ -2,6 +2,7 @@
 layout: term
 title: balina yağı
 slug: balina-yagi
+letter: B
 lisan: Türkçe
 anlamlar:
 - İspermeçet balinasının kafa sinüslerinde bulunan yağ

@@ -2,6 +2,7 @@
 layout: term
 title: asitane
 slug: asitane
+letter: A
 lisan: Farsça āstāne
 anlamlar:
 - ► eşik

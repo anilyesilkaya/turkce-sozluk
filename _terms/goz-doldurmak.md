@@ -2,6 +2,7 @@
 layout: term
 title: göz doldurmak
 slug: goz-doldurmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - görünüşü ile umulduğundan çok etkilemek

@@ -2,6 +2,7 @@
 layout: term
 title: integrasyon
 slug: integrasyon
+letter: I
 lisan: Fransızca intégration
 anlamlar:
 - ► integralleme

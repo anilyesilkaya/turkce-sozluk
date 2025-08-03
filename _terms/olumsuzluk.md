@@ -2,6 +2,7 @@
 layout: term
 title: olumsuzluk
 slug: olumsuzluk
+letter: O
 lisan: Türkçe
 anlamlar:
 - Olumsuz olma niteliği veya durumu; menfilik, nefiy

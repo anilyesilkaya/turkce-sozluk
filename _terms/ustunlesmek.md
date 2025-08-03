@@ -2,6 +2,7 @@
 layout: term
 title: üstünleşmek
 slug: ustunlesmek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üstün duruma gelmek

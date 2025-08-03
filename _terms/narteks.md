@@ -2,6 +2,7 @@
 layout: term
 title: narteks
 slug: narteks
+letter: N
 lisan: Yunanca
 anlamlar:
 - Bizans kiliselerinde sahndan sütunlarla veya duvarla ayrılan bölüm

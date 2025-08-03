@@ -2,6 +2,7 @@
 layout: term
 title: sulu sepken
 slug: sulu-sepken
+letter: S
 lisan: Türkçe
 anlamlar:
 - Yağmurla karışık bir biçimde yağan (kar)

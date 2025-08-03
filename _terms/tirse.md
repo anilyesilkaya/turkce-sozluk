@@ -2,6 +2,7 @@
 layout: term
 title: tirşe
 slug: tirse
+letter: T
 lisan: Farsça terāşe
 anlamlar:
 - ► parşömen

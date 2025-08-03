@@ -2,6 +2,7 @@
 layout: term
 title: tabiat bilgisi
 slug: tabiat-bilgisi
+letter: T
 lisan: Türkçe
 anlamlar:
 - İlkokulda doğa ile ilgili bilgileri içine alan dersin adı; doğa bilgisi

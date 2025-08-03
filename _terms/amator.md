@@ -2,6 +2,7 @@
 layout: term
 title: amatör
 slug: amator
+letter: A
 lisan: Fransızca amateur
 anlamlar:
 - Bir işi para kazanmak için değil, yalnız zevki için yapan, hevesli, meraklı (kimse); özengen, profesyonel karşıtı

@@ -2,6 +2,7 @@
 layout: term
 title: muzdarip
 slug: muzdarip
+letter: M
 lisan: Arapça mużṭarib
 anlamlar:
 - Izdırap ve acı çeken

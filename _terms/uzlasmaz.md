@@ -2,6 +2,7 @@
 layout: term
 title: uzlaşmaz
 slug: uzlasmaz
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uzlaşmayan, uzlaşma yanlısı olmayan

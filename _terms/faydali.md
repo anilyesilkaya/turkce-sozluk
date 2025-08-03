@@ -2,6 +2,7 @@
 layout: term
 title: faydalı
 slug: faydali
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► yararlı

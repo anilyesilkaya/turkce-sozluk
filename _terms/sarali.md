@@ -2,6 +2,7 @@
 layout: term
 title: saralı
 slug: sarali
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sara hastalığı olan (kimse); tutarıklı

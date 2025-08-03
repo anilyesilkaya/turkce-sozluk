@@ -2,6 +2,7 @@
 layout: term
 title: boşaltı
 slug: bosalti
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► boşaltım

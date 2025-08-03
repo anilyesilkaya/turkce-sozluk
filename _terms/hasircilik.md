@@ -2,6 +2,7 @@
 layout: term
 title: hasırcılık
 slug: hasircilik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hasırcının yaptığı iş

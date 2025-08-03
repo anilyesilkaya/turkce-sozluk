@@ -2,6 +2,7 @@
 layout: term
 title: alınganlaşabilme
 slug: alinganlasabilme
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alınganlaşabilmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: eli boş dönmek (veya çevrilmek veya geri gelmek)
 slug: eli-bos-donmek-veya-cevrilmek-veya-geri-gelmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - umduğunu alamadan dönmek

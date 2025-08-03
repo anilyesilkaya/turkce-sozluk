@@ -2,6 +2,7 @@
 layout: term
 title: çeşnileme
 slug: cesnileme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çeşnilemek işi

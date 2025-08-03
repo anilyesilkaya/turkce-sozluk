@@ -2,6 +2,7 @@
 layout: term
 title: baymak
 slug: baymak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Yiyecek mideyi bulandırmak, midede ezinti yapmak

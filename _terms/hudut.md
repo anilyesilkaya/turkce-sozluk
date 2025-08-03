@@ -2,6 +2,7 @@
 layout: term
 title: hudut
 slug: hudut
+letter: H
 lisan: Arapça ḥudūd
 anlamlar:
 - ► sınır

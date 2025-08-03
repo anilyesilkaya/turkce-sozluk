@@ -2,6 +2,7 @@
 layout: term
 title: bok yemek
 slug: bok-yemek
+letter: B
 lisan: Türkçe
 anlamlar:
 - yakışıksız bir iş yapmak

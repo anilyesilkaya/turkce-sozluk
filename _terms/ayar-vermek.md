@@ -2,6 +2,7 @@
 layout: term
 title: ayar vermek
 slug: ayar-vermek
+letter: A
 lisan: Türkçe
 anlamlar:
 - ayarlamak

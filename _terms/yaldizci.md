@@ -2,6 +2,7 @@
 layout: term
 title: yaldızcı
 slug: yaldizci
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaldız işleri yapan kimse

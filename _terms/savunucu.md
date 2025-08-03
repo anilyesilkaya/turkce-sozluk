@@ -2,6 +2,7 @@
 layout: term
 title: savunucu
 slug: savunucu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir şeyi savunan kimse; müdafi

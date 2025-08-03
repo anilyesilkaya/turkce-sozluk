@@ -2,6 +2,7 @@
 layout: term
 title: endokrinoloji
 slug: endokrinoloji
+letter: E
 lisan: Fransızca endocrinologie
 anlamlar:
 - ► iç salgı bilimi

@@ -2,6 +2,7 @@
 layout: term
 title: bandrolsüz
 slug: bandrolsuz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bandrolü olmayan

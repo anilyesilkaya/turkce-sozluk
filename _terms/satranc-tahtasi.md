@@ -2,6 +2,7 @@
 layout: term
 title: satranç tahtası
 slug: satranc-tahtasi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Üzerinde satranç oynanan altmış dört kareli tahta vb. yüzey

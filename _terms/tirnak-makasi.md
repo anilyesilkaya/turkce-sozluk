@@ -2,6 +2,7 @@
 layout: term
 title: tırnak makası
 slug: tirnak-makasi
+letter: T
 lisan: Türkçe
 anlamlar:
 - El ve ayak tırnaklarını kesmeye yarayan araç

@@ -2,6 +2,7 @@
 layout: term
 title: tarihsel
 slug: tarihsel
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tarihe dair, tarihle ilgili; tarihî

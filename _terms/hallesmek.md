@@ -2,6 +2,7 @@
 layout: term
 title: hâlleşmek
 slug: hallesmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - Karşılıklı dertlerini anlatmak, dertleşmek

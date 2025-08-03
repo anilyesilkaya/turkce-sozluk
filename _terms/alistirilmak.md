@@ -2,6 +2,7 @@
 layout: term
 title: alıştırılmak
 slug: alistirilmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alıştırma işine konu olmak

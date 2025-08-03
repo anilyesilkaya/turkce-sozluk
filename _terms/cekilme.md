@@ -2,6 +2,7 @@
 layout: term
 title: çekilme
 slug: cekilme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çekilmek işi

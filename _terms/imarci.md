@@ -2,6 +2,7 @@
 layout: term
 title: imarcı
 slug: imarci
+letter: I
 lisan: Türkçe
 anlamlar:
 - İmarla uğraşan kimse

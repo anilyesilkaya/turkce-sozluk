@@ -2,6 +2,7 @@
 layout: term
 title: paspal
 slug: paspal
+letter: P
 lisan: Rumca
 anlamlar:
 - Bakımsız, dağınık, pis (kimse, kılık vb.)

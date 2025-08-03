@@ -2,6 +2,7 @@
 layout: term
 title: can suyu
 slug: can-suyu
+letter: C
 lisan: Türkçe
 anlamlar:
 - Yeni dikilen fide veya fidanlara verilen az miktardaki ilk su

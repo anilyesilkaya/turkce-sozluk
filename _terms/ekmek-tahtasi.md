@@ -2,6 +2,7 @@
 layout: term
 title: ekmek tahtası
 slug: ekmek-tahtasi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ekmeklik hamurun fırına sürülmek üzere hazırlandığı ve üzerine konulduğu uzun tahta

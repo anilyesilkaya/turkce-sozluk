@@ -2,6 +2,7 @@
 layout: term
 title: yasaklı
 slug: yasakli
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Herhangi bir şeyi yapması kendisine yasak edilmiş olan (kimse)

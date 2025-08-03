@@ -2,6 +2,7 @@
 layout: term
 title: bellilik
 slug: bellilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belli olma durumu

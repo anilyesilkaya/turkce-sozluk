@@ -2,6 +2,7 @@
 layout: term
 title: post elden gitmek
 slug: post-elden-gitmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - öldürülmek

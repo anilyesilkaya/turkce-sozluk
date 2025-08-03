@@ -2,6 +2,7 @@
 layout: term
 title: binit
 slug: binit
+letter: B
 lisan: Türkçe
 anlamlar:
 - Hamur durumundaki ekmeklerin, fırına atılmadan önce içine konulduğu oyuk gözlü tahta

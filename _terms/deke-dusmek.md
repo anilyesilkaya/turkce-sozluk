@@ -2,6 +2,7 @@
 layout: term
 title: deke düşmek
 slug: deke-dusmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - hileye, oyuna gelmek

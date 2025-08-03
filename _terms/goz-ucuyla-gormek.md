@@ -2,6 +2,7 @@
 layout: term
 title: göz ucuyla görmek
 slug: goz-ucuyla-gormek
+letter: G
 lisan: Türkçe
 anlamlar:
 - fark etmek

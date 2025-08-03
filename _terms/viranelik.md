@@ -2,6 +2,7 @@
 layout: term
 title: viranelik
 slug: viranelik
+letter: V
 lisan: Türkçe
 anlamlar:
 - Ev yıkıntıları bulunan yer

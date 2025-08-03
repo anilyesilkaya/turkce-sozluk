@@ -2,6 +2,7 @@
 layout: term
 title: arma
 slug: arma
+letter: A
 lisan: İtalyanca arma
 anlamlar:
 - Bir devletin, bir hanedanın, bir sanayi kuruluşunun veya bir şehrin simgesi olarak kabul edilmiş resim, harf veya şekil; ongun (II)

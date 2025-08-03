@@ -2,6 +2,7 @@
 layout: term
 title: paf diye
 slug: paf-diye
+letter: P
 lisan: Türkçe
 anlamlar:
 - paf sesi çıkararak

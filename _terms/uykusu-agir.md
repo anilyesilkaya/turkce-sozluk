@@ -2,6 +2,7 @@
 layout: term
 title: uykusu ağır
 slug: uykusu-agir
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyurken kolayca uyanmayan (kimse); uykusu derin

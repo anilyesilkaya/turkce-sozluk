@@ -2,6 +2,7 @@
 layout: term
 title: müdürlük
 slug: mudurluk
+letter: M
 lisan: Türkçe
 anlamlar:
 - Müdür olma durumu; müdüriyet

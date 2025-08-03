@@ -2,6 +2,7 @@
 layout: term
 title: çıkmazlık
 slug: cikmazlik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► ikilem

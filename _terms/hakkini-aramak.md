@@ -2,6 +2,7 @@
 layout: term
 title: hakkını aramak
 slug: hakkini-aramak
+letter: H
 lisan: Türkçe
 anlamlar:
 - hakkı olduğuna inandığı şeyi elde etmeye çalışmak

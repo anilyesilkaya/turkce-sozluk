@@ -2,6 +2,7 @@
 layout: term
 title: hesaplıca
 slug: hesaplica
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► hesaplı

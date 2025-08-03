@@ -2,6 +2,7 @@
 layout: term
 title: ayağı yerden kesilmek
 slug: ayagi-yerden-kesilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - ayağı yere değmez olmak

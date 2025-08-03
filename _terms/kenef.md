@@ -2,6 +2,7 @@
 layout: term
 title: kenef
 slug: kenef
+letter: K
 lisan: Arapça kenīf
 anlamlar:
 - ► tuvalet

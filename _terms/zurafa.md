@@ -2,6 +2,7 @@
 layout: term
 title: zürafa
 slug: zurafa
+letter: Z
 lisan: Arapça zerāfe, zerrāfe
 anlamlar:
 - Geviş getiren memelilerden, Afrika'da yaşayan, çok uzun boylu ve boyunlu, derisi benekli, ot yiyen hayvan (Giraffa camelopardalis)

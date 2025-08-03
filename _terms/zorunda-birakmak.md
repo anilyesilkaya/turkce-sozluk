@@ -2,6 +2,7 @@
 layout: term
 title: zorunda bırakmak
 slug: zorunda-birakmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - yapmaya mecbur etmek

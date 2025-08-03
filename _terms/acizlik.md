@@ -2,6 +2,7 @@
 layout: term
 title: âcizlik
 slug: acizlik
+letter: Â
 lisan: Türkçe
 anlamlar:
 - ► güçsüzlük

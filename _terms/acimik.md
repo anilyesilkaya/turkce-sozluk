@@ -2,6 +2,7 @@
 layout: term
 title: acımık
 slug: acimik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► mavikantaron

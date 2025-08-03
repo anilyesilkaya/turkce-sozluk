@@ -2,6 +2,7 @@
 layout: term
 title: nalbant
 slug: nalbant
+letter: N
 lisan: Arapça naʿl + Farsça bend
 anlamlar:
 - Hayvanların ayağına nal çakan kimse

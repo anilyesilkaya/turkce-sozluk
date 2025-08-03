@@ -2,6 +2,7 @@
 layout: term
 title: gözü (veya gözleri) takılmak
 slug: gozu-veya-gozleri-takilmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - dikkati çeken bir şeyden bakışlarını ayıramamak

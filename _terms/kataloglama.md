@@ -2,6 +2,7 @@
 layout: term
 title: kataloglama
 slug: kataloglama
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kataloglamak işi

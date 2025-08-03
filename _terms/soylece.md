@@ -2,6 +2,7 @@
 layout: term
 title: şöylece
 slug: soylece
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Tam şöyle; şu biçimde, şu şekilde

@@ -2,6 +2,7 @@
 layout: term
 title: pürçek
 slug: purcek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Şakaklardan sarkan saç; zülüf

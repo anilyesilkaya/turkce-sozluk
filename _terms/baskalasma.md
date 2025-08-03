@@ -2,6 +2,7 @@
 layout: term
 title: başkalaşma
 slug: baskalasma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başkalaşmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: çekişe çekişe pazarlık etmek
 slug: cekise-cekise-pazarlik-etmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - bir malı ucuz almak için titizce pazarlık etmek

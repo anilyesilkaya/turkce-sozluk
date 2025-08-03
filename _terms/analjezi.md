@@ -2,6 +2,7 @@
 layout: term
 title: analjezi
 slug: analjezi
+letter: A
 lisan: Fransızca analgésie
 anlamlar:
 - ► ağrı yitimi

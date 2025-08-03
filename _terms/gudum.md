@@ -2,6 +2,7 @@
 layout: term
 title: güdüm
 slug: gudum
+letter: G
 lisan: Türkçe
 anlamlar:
 - Yönetmek işi; idare

@@ -2,6 +2,7 @@
 layout: term
 title: başını alıp gitmek
 slug: basini-alip-gitmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - izin almadan ve gideceği yeri bildirmeden gitmek, savuşmak

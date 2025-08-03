@@ -2,6 +2,7 @@
 layout: term
 title: kritik etmek
 slug: kritik-etmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - eleştirmek

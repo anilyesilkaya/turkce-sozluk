@@ -2,6 +2,7 @@
 layout: term
 title: duble
 slug: duble
+letter: D
 lisan: Fransızca doublé
 anlamlar:
 - Belirli miktarın veya büyüklüğün iki katı

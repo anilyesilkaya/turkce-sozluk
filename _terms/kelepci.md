@@ -2,6 +2,7 @@
 layout: term
 title: kelepçi
 slug: kelepci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kelep işiyle uğraşan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: cicianne
 slug: cicianne
+letter: C
 lisan: Türkçe
 anlamlar:
 - Bazı çocukların, büyükannelerine veya o yaştaki kadın yakınlarına verdikleri ad

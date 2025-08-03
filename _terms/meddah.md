@@ -2,6 +2,7 @@
 layout: term
 title: meddah
 slug: meddah
+letter: M
 lisan: Arapça meddāḥ
 anlamlar:
 - Taklitler yaparak, hoş hikâyeler anlatarak halkı eğlendiren sanatçı

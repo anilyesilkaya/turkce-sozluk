@@ -2,6 +2,7 @@
 layout: term
 title: gizli
 slug: gizli
+letter: G
 lisan: Türkçe
 anlamlar:
 - Görünmez, belli olmaz bir durumda olan; mahfi, edimsel karşıtı

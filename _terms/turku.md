@@ -2,6 +2,7 @@
 layout: term
 title: türkü
 slug: turku
+letter: T
 lisan: Türkçe türk + Arapça -ī
 anlamlar:
 - Çoklukla dörder mısralı bentlerden oluşan, 11’li hece vezniyle yazılan ve kendine özgü bir besteyle okunan halk edebiyatı nazım birimi

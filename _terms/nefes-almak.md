@@ -2,6 +2,7 @@
 layout: term
 title: nefes almak
 slug: nefes-almak
+letter: N
 lisan: Türkçe
 anlamlar:
 - havayı ciğerlerine çekmek, soluk almak

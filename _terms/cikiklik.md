@@ -2,6 +2,7 @@
 layout: term
 title: çıkıklık
 slug: cikiklik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıkık olma durumu

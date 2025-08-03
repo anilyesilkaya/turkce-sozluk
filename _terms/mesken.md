@@ -2,6 +2,7 @@
 layout: term
 title: mesken
 slug: mesken
+letter: M
 lisan: Arapça mesken
 anlamlar:
 - ► konut (I)

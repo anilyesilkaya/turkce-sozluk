@@ -2,6 +2,7 @@
 layout: term
 title: devrilebilme
 slug: devrilebilme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Devrilebilmek işi

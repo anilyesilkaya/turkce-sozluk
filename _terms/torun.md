@@ -2,6 +2,7 @@
 layout: term
 title: torun
 slug: torun
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir kimseye göre çocuğunun çocuğu

@@ -2,6 +2,7 @@
 layout: term
 title: iktidar
 slug: iktidar
+letter: I
 lisan: Arapça iḳtidār
 anlamlar:
 - Bir işi yapabilme, bir direnmeyi yenme gücü; erk

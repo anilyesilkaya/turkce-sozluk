@@ -2,6 +2,7 @@
 layout: term
 title: mantıksal
 slug: mantiksal
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► mantıklı

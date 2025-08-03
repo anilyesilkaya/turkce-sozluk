@@ -2,6 +2,7 @@
 layout: term
 title: yalaz
 slug: yalaz
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► alev (I)

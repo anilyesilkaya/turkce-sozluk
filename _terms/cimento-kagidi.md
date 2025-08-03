@@ -2,6 +2,7 @@
 layout: term
 title: çimento kâğıdı
 slug: cimento-kagidi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - İçine çimento doldurulan, kalın sarı renkli paket kâğıdı

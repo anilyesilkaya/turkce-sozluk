@@ -2,6 +2,7 @@
 layout: term
 title: kasavetli
 slug: kasavetli
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► sıkıntılı

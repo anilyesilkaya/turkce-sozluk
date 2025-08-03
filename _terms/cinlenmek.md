@@ -2,6 +2,7 @@
 layout: term
 title: cinlenmek
 slug: cinlenmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► öfkelenmek

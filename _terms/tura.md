@@ -2,6 +2,7 @@
 layout: term
 title: tura
 slug: tura
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► tuğra

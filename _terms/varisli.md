@@ -2,6 +2,7 @@
 layout: term
 title: vârisli
 slug: varisli
+letter: V
 lisan: Türkçe
 anlamlar:
 - Mirasçısı olan

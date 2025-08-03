@@ -2,6 +2,7 @@
 layout: term
 title: tekâmül
 slug: tekamul
+letter: T
 lisan: Arapça tekāmul
 anlamlar:
 - ► olgunlaşma

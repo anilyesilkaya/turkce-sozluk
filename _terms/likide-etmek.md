@@ -2,6 +2,7 @@
 layout: term
 title: likide etmek
 slug: likide-etmek
+letter: L
 lisan: Türkçe
 anlamlar:
 - alacak ve verecekleri hesaplayarak sonucu belirtmek

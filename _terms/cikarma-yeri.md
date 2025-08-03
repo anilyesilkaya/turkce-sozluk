@@ -2,6 +2,7 @@
 layout: term
 title: çıkarma yeri
 slug: cikarma-yeri
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıkarma hareketinin daha kolay yapılacağı en uygun bölge veya kıyı

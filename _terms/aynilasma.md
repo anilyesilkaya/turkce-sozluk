@@ -2,6 +2,7 @@
 layout: term
 title: aynılaşma
 slug: aynilasma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aynılaşmak durumu

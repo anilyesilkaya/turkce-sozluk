@@ -2,6 +2,7 @@
 layout: term
 title: ozon tedavisi
 slug: ozon-tedavisi
+letter: O
 lisan: Türkçe
 anlamlar:
 - Lokal veya genel banyo, pansuman veya iğneyle ozon ve oksijen vererek yapılan tedavi

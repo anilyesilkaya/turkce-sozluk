@@ -2,6 +2,7 @@
 layout: term
 title: uğrun
 slug: ugrun
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► gizlice

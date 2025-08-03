@@ -2,6 +2,7 @@
 layout: term
 title: durmaksızın
 slug: durmaksizin
+letter: D
 lisan: Türkçe
 anlamlar:
 - Hiç durmadan, ara vermeden

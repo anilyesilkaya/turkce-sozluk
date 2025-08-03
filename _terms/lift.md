@@ -2,6 +2,7 @@
 layout: term
 title: lift
 slug: lift
+letter: L
 lisan: İngilizce lift
 anlamlar:
 - Ağır yükleri kaldırmak, araçlara yüklemek ve boşaltmak için kullanılan makine

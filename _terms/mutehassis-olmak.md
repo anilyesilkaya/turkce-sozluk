@@ -2,6 +2,7 @@
 layout: term
 title: mütehassis olmak
 slug: mutehassis-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - herhangi bir sebeple duygulanmak

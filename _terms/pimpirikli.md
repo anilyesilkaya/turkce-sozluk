@@ -2,6 +2,7 @@
 layout: term
 title: pimpirikli
 slug: pimpirikli
+letter: P
 lisan: Türkçe
 anlamlar:
 - Gereksiz yere titizlik gösteren

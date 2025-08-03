@@ -2,6 +2,7 @@
 layout: term
 title: pul pul
 slug: pul-pul
+letter: P
 lisan: Türkçe
 anlamlar:
 - Küçük tabakalar biçiminde

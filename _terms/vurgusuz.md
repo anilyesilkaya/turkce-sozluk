@@ -2,6 +2,7 @@
 layout: term
 title: vurgusuz
 slug: vurgusuz
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vurgu ile söylenmeyen

@@ -2,6 +2,7 @@
 layout: term
 title: iyilik et denize at, balık bilmezse Halik bilir
 slug: iyilik-et-denize-at-balik-bilmezse-halik-bilir
+letter: I
 lisan: Türkçe
 anlamlar:
 - '"karşılık beklemeden iyilik yap" anlamında kullanılan bir söz'

@@ -2,6 +2,7 @@
 layout: term
 title: diretebilme
 slug: diretebilme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Diretebilmek işi

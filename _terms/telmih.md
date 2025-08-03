@@ -2,6 +2,7 @@
 layout: term
 title: telmih
 slug: telmih
+letter: T
 lisan: Arapça telmīḥ
 anlamlar:
 - Anlatılmak istenen şeyi söz arasında imalı olarak belli etme, açıkça söylememe

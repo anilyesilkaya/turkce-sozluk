@@ -2,6 +2,7 @@
 layout: term
 title: geri çevirmek
 slug: geri-cevirmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - geri vermek, geldiği yere göndermek, iade etmek

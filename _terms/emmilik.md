@@ -2,6 +2,7 @@
 layout: term
 title: emmilik
 slug: emmilik
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► amcalık

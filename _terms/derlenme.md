@@ -2,6 +2,7 @@
 layout: term
 title: derlenme
 slug: derlenme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Derlenmek işi

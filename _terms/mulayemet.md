@@ -2,6 +2,7 @@
 layout: term
 title: mülayemet
 slug: mulayemet
+letter: M
 lisan: Arapça mulāyemet
 anlamlar:
 - ► yumuşaklık

@@ -2,6 +2,7 @@
 layout: term
 title: başyargıcı
 slug: basyargici
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► başhakem

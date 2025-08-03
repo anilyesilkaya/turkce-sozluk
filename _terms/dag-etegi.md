@@ -2,6 +2,7 @@
 layout: term
 title: dağ eteği
 slug: dag-etegi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dağ yamacının alt bölümü

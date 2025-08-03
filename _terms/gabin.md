@@ -2,6 +2,7 @@
 layout: term
 title: gabin
 slug: gabin
+letter: G
 lisan: Arapça ġabn
 anlamlar:
 - Alışverişte satın alınan mala ödenen karşılığın, malın değerinden çok fazla olması, alışverişte hile yapma

@@ -2,6 +2,7 @@
 layout: term
 title: atfetmek
 slug: atfetmek
+letter: A
 lisan: Arapça ʿaṭf + Türkçe etmek
 anlamlar:
 - Bir işi veya bir sözü bir kimseye mal etmek, yüklemek

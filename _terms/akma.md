@@ -2,6 +2,7 @@
 layout: term
 title: akma
 slug: akma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Akmak işi

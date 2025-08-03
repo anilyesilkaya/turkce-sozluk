@@ -2,6 +2,7 @@
 layout: term
 title: caydırıcılık
 slug: caydiricilik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Caydırıcı olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: aklını kullanmak
 slug: aklini-kullanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - iyice düşünüp taşınarak hareket etmek

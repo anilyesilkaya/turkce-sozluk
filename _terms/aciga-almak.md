@@ -2,6 +2,7 @@
 layout: term
 title: açığa almak
 slug: aciga-almak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir görevliyi geçici bir süre işten uzaklaştırmak

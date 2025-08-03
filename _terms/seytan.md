@@ -2,6 +2,7 @@
 layout: term
 title: şeytan
 slug: seytan
+letter: Ş
 lisan: Arapça şeyṭān
 anlamlar:
 - Hz. Âdem'e secde etmediği için cennetten kovulan, insanları Allah'ın emirlerine karşı kışkırtan, kötülüğe yönelten cin; iblis

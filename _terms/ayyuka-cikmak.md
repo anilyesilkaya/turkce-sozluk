@@ -2,6 +2,7 @@
 layout: term
 title: ayyuka çıkmak
 slug: ayyuka-cikmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ses yükselmek

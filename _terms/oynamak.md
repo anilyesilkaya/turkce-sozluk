@@ -2,6 +2,7 @@
 layout: term
 title: oynamak
 slug: oynamak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Vakit geçirme, eğlenme, oyalanma vb. amaçlarla bir şeyle uğraşmak

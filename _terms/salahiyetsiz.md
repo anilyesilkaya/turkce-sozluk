@@ -2,6 +2,7 @@
 layout: term
 title: salahiyetsiz
 slug: salahiyetsiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► yetkisiz

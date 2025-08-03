@@ -2,6 +2,7 @@
 layout: term
 title: yalansız
 slug: yalansiz
+letter: Y
 lisan: Türkçe
 anlamlar:
 - İçinde yalan olmayan

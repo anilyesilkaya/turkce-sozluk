@@ -2,6 +2,7 @@
 layout: term
 title: frijider
 slug: frijider
+letter: F
 lisan: (Frigidaire marka adından)
 anlamlar:
 - ► buzdolabı

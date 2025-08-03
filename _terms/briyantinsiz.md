@@ -2,6 +2,7 @@
 layout: term
 title: briyantinsiz
 slug: briyantinsiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Briyantin sürülmemiş

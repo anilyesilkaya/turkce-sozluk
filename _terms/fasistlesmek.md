@@ -2,6 +2,7 @@
 layout: term
 title: faşistleşmek
 slug: fasistlesmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - Faşist duruma gelmek

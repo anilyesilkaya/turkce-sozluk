@@ -2,6 +2,7 @@
 layout: term
 title: ön büro
 slug: on-buro
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Turistik bir tesiste konukların tesise girdikleri andan ayrıldıkları zamana kadar geçen sürede her türlü hizmeti sağlayan birim

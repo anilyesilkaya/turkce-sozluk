@@ -2,6 +2,7 @@
 layout: term
 title: canavar kesilmek
 slug: canavar-kesilmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - hırçınlaşmak, canavar gibi olmak

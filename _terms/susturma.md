@@ -2,6 +2,7 @@
 layout: term
 title: susturma
 slug: susturma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Susturmak işi; ilzam

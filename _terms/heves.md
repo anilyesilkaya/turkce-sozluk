@@ -2,6 +2,7 @@
 layout: term
 title: heves
 slug: heves
+letter: H
 lisan: Arapça heves
 anlamlar:
 - ► istek

@@ -2,6 +2,7 @@
 layout: term
 title: taaffün
 slug: taaffun
+letter: T
 lisan: Arapça taʿaffun
 anlamlar:
 - Kokuşma, pis kokma

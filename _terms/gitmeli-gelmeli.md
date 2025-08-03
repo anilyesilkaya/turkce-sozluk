@@ -2,6 +2,7 @@
 layout: term
 title: gitmeli gelmeli
 slug: gitmeli-gelmeli
+letter: G
 lisan: Türkçe
 anlamlar:
 - Giden gelen

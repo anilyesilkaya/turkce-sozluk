@@ -2,6 +2,7 @@
 layout: term
 title: hafifleme
 slug: hafifleme
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hafiflemek işi; yeğnilme

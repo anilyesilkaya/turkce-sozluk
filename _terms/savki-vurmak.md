@@ -2,6 +2,7 @@
 layout: term
 title: şavkı vurmak
 slug: savki-vurmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - bir şeyin ışığı yansımak

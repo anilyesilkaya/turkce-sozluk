@@ -2,6 +2,7 @@
 layout: term
 title: bela
 slug: bela
+letter: B
 lisan: Arapça belā
 anlamlar:
 - İçinden çıkılması güç, sakıncalı durum; beliye

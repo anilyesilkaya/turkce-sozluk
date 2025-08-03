@@ -2,6 +2,7 @@
 layout: term
 title: süblime
 slug: sublime
+letter: S
 lisan: Fransızca sublimé
 anlamlar:
 - Süblimleştirme yoluyla elde edilen ürün

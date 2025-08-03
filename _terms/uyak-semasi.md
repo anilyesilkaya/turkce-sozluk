@@ -2,6 +2,7 @@
 layout: term
 title: uyak şeması
 slug: uyak-semasi
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► kafiye şeması

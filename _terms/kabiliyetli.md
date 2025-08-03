@@ -2,6 +2,7 @@
 layout: term
 title: kabiliyetli
 slug: kabiliyetli
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► yetenekli

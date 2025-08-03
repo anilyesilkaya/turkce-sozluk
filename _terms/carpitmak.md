@@ -2,6 +2,7 @@
 layout: term
 title: çarpıtmak
 slug: carpitmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çarpık duruma getirmek

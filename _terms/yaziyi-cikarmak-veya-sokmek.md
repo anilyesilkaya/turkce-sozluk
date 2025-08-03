@@ -2,6 +2,7 @@
 layout: term
 title: yazıyı çıkarmak (veya sökmek)
 slug: yaziyi-cikarmak-veya-sokmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - okuyabilmek

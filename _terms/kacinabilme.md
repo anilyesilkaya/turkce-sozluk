@@ -2,6 +2,7 @@
 layout: term
 title: kaçınabilme
 slug: kacinabilme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaçınabilmek işi

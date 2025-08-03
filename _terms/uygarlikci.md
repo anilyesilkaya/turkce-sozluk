@@ -2,6 +2,7 @@
 layout: term
 title: uygarlıkçı
 slug: uygarlikci
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uygarlıkçılık yanlısı; medeniyetçi

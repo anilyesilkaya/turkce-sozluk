@@ -2,6 +2,7 @@
 layout: term
 title: Çelebiyan
 slug: celebiyan
+letter: Ç
 lisan: Türkçe çelebi + Farsça -ān
 anlamlar:
 - Hacı Bektaş Veli’nin soyundan geldiklerine ve çelebi adıyla onu ve soyunu temsil ettiklerine inanan dervişlerin oluşturduğu Bektaşilik kolu; Çelebiler

@@ -2,6 +2,7 @@
 layout: term
 title: gözü tutmak
 slug: gozu-tutmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - güvenmek, beğenmek

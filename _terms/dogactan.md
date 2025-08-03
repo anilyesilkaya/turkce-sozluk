@@ -2,6 +2,7 @@
 layout: term
 title: doğaçtan
 slug: dogactan
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► doğaçlama

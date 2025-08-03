@@ -2,6 +2,7 @@
 layout: term
 title: gölleşme
 slug: gollesme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gölleşmek durumu

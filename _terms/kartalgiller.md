@@ -2,6 +2,7 @@
 layout: term
 title: kartalgiller
 slug: kartalgiller
+letter: K
 lisan: Türkçe
 anlamlar:
 - Omurgalı hayvanlardan kuşlar sınıfının, kartallar takımının gündüz yırtıcıları alt takımına giren büyük bir familyası

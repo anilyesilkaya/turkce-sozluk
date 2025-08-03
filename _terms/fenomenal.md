@@ -2,6 +2,7 @@
 layout: term
 title: fenomenal
 slug: fenomenal
+letter: F
 lisan: Fransızca phénoménal
 anlamlar:
 - Şaşılacak, olağanüstü olan

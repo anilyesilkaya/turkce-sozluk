@@ -2,6 +2,7 @@
 layout: term
 title: ayakaltına almak
 slug: ayakaltina-almak
+letter: A
 lisan: Türkçe
 anlamlar:
 - hakir görmek, gözden çıkarmak

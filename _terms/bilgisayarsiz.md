@@ -2,6 +2,7 @@
 layout: term
 title: bilgisayarsız
 slug: bilgisayarsiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilgisayarı olmayan

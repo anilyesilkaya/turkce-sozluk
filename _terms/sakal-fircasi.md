@@ -2,6 +2,7 @@
 layout: term
 title: sakal fırçası
 slug: sakal-fircasi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sakalı taramak, düzeltmek için kullanılan fırça

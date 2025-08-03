@@ -2,6 +2,7 @@
 layout: term
 title: alıp sattığı olmamak
 slug: alip-sattigi-olmamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - hiç ilgisi bulunmamak

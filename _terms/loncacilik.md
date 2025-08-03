@@ -2,6 +2,7 @@
 layout: term
 title: loncacılık
 slug: loncacilik
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lonca kuruluşlarına dayanan ekonomi ve devlet anlayışı

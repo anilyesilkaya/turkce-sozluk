@@ -2,6 +2,7 @@
 layout: term
 title: kamarot
 slug: kamarot
+letter: K
 lisan: İtalyanca camaroto
 anlamlar:
 - Gemilerde yolcuların hizmetine bakan görevli

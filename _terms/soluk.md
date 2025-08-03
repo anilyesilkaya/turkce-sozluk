@@ -2,6 +2,7 @@
 layout: term
 title: soluk
 slug: soluk
+letter: S
 lisan: Türkçe
 anlamlar:
 - Rengi atmış olan, solmuş; uçuk (I)

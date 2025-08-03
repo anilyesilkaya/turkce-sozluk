@@ -2,6 +2,7 @@
 layout: term
 title: çimentolatma
 slug: cimentolatma
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çimentolatmak işi

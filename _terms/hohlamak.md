@@ -2,6 +2,7 @@
 layout: term
 title: hohlamak
 slug: hohlamak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Ağzını yaklaştırıp soluğunu bir şeyin üzerine hızla vermek

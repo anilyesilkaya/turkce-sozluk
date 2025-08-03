@@ -2,6 +2,7 @@
 layout: term
 title: geçmek
 slug: gecmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bir yerden başka bir yere gitmek

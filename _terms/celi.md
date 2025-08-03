@@ -2,6 +2,7 @@
 layout: term
 title: celi
 slug: celi
+letter: C
 lisan: Arapça celī
 anlamlar:
 - Açık, aşikâr olan

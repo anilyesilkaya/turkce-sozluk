@@ -2,6 +2,7 @@
 layout: term
 title: hatırat
 slug: hatirat
+letter: H
 lisan: Arapça ḫāṭirāt
 anlamlar:
 - Anılar

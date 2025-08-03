@@ -2,6 +2,7 @@
 layout: term
 title: mektup almak
 slug: mektup-almak
+letter: M
 lisan: Türkçe
 anlamlar:
 - yazılan mektup adrese gelip ele geçmek

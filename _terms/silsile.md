@@ -2,6 +2,7 @@
 layout: term
 title: silsile
 slug: silsile
+letter: S
 lisan: Arapça silsile
 anlamlar:
 - Birbirine bağlı, birbiriyle ilgili şeylerin oluşturduğu dizi, sıra

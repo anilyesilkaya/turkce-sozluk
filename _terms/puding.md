@@ -2,6 +2,7 @@
 layout: term
 title: puding
 slug: puding
+letter: P
 lisan: Fransızca pudding
 anlamlar:
 - Meyve, bisküvi vb. ile yapılan bir tür sütlü tatlı

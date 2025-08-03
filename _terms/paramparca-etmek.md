@@ -2,6 +2,7 @@
 layout: term
 title: paramparça etmek
 slug: paramparca-etmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - pek çok parçaya ayırmak

@@ -2,6 +2,7 @@
 layout: term
 title: klasiklik
 slug: klasiklik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Klasik olma durumu

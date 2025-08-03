@@ -2,6 +2,7 @@
 layout: term
 title: mürdesenk
 slug: murdesenk
+letter: M
 lisan: Farsça murde + seng
 anlamlar:
 - Doğal kurşun oksit (PbO)

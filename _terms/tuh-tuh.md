@@ -2,6 +2,7 @@
 layout: term
 title: tüh tüh
 slug: tuh-tuh
+letter: T
 lisan: Türkçe
 anlamlar:
 - '"Yazık oldu" anlamında pişmanlık bildiren bir söz'

@@ -2,6 +2,7 @@
 layout: term
 title: celepçi
 slug: celepci
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► celep

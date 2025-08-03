@@ -2,6 +2,7 @@
 layout: term
 title: eczane
 slug: eczane
+letter: E
 lisan: Arapça eczāʾ + Farsça ḫāne
 anlamlar:
 - İlaçların hazırlandığı veya hazır ilaçların satıldığı yer

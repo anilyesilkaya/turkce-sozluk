@@ -2,6 +2,7 @@
 layout: term
 title: açıklama yapmak
 slug: aciklama-yapmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - herhangi bir konuyu aydınlığa kavuşturmak amacıyla konuşmak veya yazmak

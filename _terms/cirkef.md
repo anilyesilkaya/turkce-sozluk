@@ -2,6 +2,7 @@
 layout: term
 title: çirkef
 slug: cirkef
+letter: Ç
 lisan: Farsça çirk + āb
 anlamlar:
 - Pis ve bulanık su

@@ -2,6 +2,7 @@
 layout: term
 title: ciğerine oturmak
 slug: cigerine-oturmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - çok ağır gelmek

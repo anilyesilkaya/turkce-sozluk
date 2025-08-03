@@ -2,6 +2,7 @@
 layout: term
 title: ısınabilme
 slug: isinabilme
+letter: I
 lisan: Türkçe
 anlamlar:
 - Isınabilmek işi

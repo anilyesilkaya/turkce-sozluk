@@ -2,6 +2,7 @@
 layout: term
 title: sarsıntı
 slug: sarsinti
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sarsılmak işi, birden sallanma

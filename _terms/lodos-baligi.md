@@ -2,6 +2,7 @@
 layout: term
 title: lodos balığı
 slug: lodos-baligi
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lodos estiğinde sersemleyip kolayca avlanan balık

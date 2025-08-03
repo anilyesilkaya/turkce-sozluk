@@ -2,6 +2,7 @@
 layout: term
 title: metrelerce
 slug: metrelerce
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mesafe olarak uzun olan

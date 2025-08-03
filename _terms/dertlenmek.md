@@ -2,6 +2,7 @@
 layout: term
 title: dertlenmek
 slug: dertlenmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Üzüntüye kapılmak, dertli duruma gelmek

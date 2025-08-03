@@ -2,6 +2,7 @@
 layout: term
 title: feylesof
 slug: feylesof
+letter: F
 lisan: Arapça feylesūf
 anlamlar:
 - ► filozof

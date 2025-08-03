@@ -2,6 +2,7 @@
 layout: term
 title: yarımlık
 slug: yarimlik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yarım olma durumu

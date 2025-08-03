@@ -2,6 +2,7 @@
 layout: term
 title: arzulu
 slug: arzulu
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► istekli

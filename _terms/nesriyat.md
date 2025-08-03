@@ -2,6 +2,7 @@
 layout: term
 title: neşriyat
 slug: nesriyat
+letter: N
 lisan: Arapça neşriyyāt
 anlamlar:
 - ► yayın

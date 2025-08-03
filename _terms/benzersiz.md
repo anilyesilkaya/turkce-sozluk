@@ -2,6 +2,7 @@
 layout: term
 title: benzersiz
 slug: benzersiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Benzeri olmayan, eşsiz olan

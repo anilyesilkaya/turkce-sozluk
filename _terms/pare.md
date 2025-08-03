@@ -2,6 +2,7 @@
 layout: term
 title: pare
 slug: pare
+letter: P
 lisan: Farsça pāre
 anlamlar:
 - ► parça

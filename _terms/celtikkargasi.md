@@ -2,6 +2,7 @@
 layout: term
 title: çeltikkargası
 slug: celtikkargasi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► karaleylek

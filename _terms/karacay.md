@@ -2,6 +2,7 @@
 layout: term
 title: Karaçay
 slug: karacay
+letter: K
 lisan: Türkçe
 anlamlar:
 - Rusya Federasyonu’na bağlı Karaçay-Çerkes Özerk Cumhuriyeti’nde yaşayan Türk halkı ve bu halkın soyundan olan kimse

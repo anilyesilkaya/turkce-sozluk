@@ -2,6 +2,7 @@
 layout: term
 title: kavramlaştırma
 slug: kavramlastirma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kavramlaştırmak işi

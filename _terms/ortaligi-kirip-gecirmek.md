@@ -2,6 +2,7 @@
 layout: term
 title: ortalığı kırıp geçirmek
 slug: ortaligi-kirip-gecirmek
+letter: O
 lisan: Türkçe
 anlamlar:
 - herkesi heyecana sürüklemek

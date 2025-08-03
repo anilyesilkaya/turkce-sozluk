@@ -2,6 +2,7 @@
 layout: term
 title: zorunlu
 slug: zorunlu
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Kesin olarak gereksinim duyulan; zaruri, mecburi, ıztırari

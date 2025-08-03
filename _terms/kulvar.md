@@ -2,6 +2,7 @@
 layout: term
 title: kulvar
 slug: kulvar
+letter: K
 lisan: Fransızca couloir
 anlamlar:
 - Yüzme ve atletizm yarışmalarında her yarışçıya ayrılan şerit

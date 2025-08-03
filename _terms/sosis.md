@@ -2,6 +2,7 @@
 layout: term
 title: sosis
 slug: sosis
+letter: S
 lisan: Fransızca saucisse
 anlamlar:
 - Kıyılmış etin baharatla yoğurulduktan sonra ya tam ya da yarı pişirilerek hayvan bağırsağı içine doldurulmasıyla hazırlanan bir yiyecek türü

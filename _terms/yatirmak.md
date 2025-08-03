@@ -2,6 +2,7 @@
 layout: term
 title: yatırmak
 slug: yatirmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir kimsenin bir yere yatmasını sağlamak

@@ -2,6 +2,7 @@
 layout: term
 title: kule
 slug: kule
+letter: K
 lisan: Arapça ḳulle
 anlamlar:
 - Çoğunlukla kare veya silindir biçimindeki yüksek yapı

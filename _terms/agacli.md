@@ -2,6 +2,7 @@
 layout: term
 title: ağaçlı
 slug: agacli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağacı olan

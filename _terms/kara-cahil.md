@@ -2,6 +2,7 @@
 layout: term
 title: kara cahil
 slug: kara-cahil
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çok cahil

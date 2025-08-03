@@ -2,6 +2,7 @@
 layout: term
 title: çizim
 slug: cizim
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çizmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: çarkçıbaşı
 slug: carkcibasi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Vapurlarda birinci çarkçı

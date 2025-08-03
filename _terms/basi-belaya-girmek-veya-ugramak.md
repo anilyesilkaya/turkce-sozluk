@@ -2,6 +2,7 @@
 layout: term
 title: başı belaya girmek (veya uğramak)
 slug: basi-belaya-girmek-veya-ugramak
+letter: B
 lisan: Türkçe
 anlamlar:
 - sıkıcı, üzücü bir durumla karşılaşmak

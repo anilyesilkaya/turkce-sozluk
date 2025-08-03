@@ -2,6 +2,7 @@
 layout: term
 title: cızlama
 slug: cizlama
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cızlamak durumu

@@ -2,6 +2,7 @@
 layout: term
 title: asarıatika
 slug: asariatika
+letter: A
 lisan: Arapça ās̱ār + ʿatīḳa
 anlamlar:
 - ► eski eserler

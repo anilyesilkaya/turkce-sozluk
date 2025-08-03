@@ -2,6 +2,7 @@
 layout: term
 title: sakınma
 slug: sakinma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sakınmak işi; içtinap, tahaffuz, tevakki

@@ -2,6 +2,7 @@
 layout: term
 title: selüloz
 slug: seluloz
+letter: S
 lisan: Fransızca cellulose
 anlamlar:
 - Bitkilerde hücre yapısının büyük bir bölümünü oluşturan kâğıt, yapay ipek ve patlayıcı maddelerin yapımında kullanılan bir karbonhidrat (C6H10O5)

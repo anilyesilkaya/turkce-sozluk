@@ -2,6 +2,7 @@
 layout: term
 title: başsağlığı dilemek
 slug: bassagligi-dilemek
+letter: B
 lisan: Türkçe
 anlamlar:
 - ölen bir kimsenin yakınlarına “başın sağ olsun, Allah kalanlara uzun ömür versin” vb. sözler söylemek, taziyede bulunmak

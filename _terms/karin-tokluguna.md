@@ -2,6 +2,7 @@
 layout: term
 title: karın tokluğuna
 slug: karin-tokluguna
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yapılan iş karşılığında yalnızca yiyip içme sağlamak üzere; boğaz tokluğuna

@@ -2,6 +2,7 @@
 layout: term
 title: konaklamak
 slug: konaklamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yolculuk sırasında bir yerde durup geçici bir süre yaşamak; inmek, kalmak

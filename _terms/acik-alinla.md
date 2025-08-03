@@ -2,6 +2,7 @@
 layout: term
 title: açık alınla
 slug: acik-alinla
+letter: A
 lisan: Türkçe
 anlamlar:
 - Hiçbir kanunsuz ve ahlak dışı tutumu olmadan, yaptıklarının doğruluğundan emin olarak

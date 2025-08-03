@@ -2,6 +2,7 @@
 layout: term
 title: klorofil
 slug: klorofil
+letter: K
 lisan: Fransızca chlorophylle
 anlamlar:
 - Güneş ışığını soğurarak bitkilerde karbon özümlemesini sağlayan ve bitkilere yeşil renklerini veren madde

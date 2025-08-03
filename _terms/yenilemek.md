@@ -2,6 +2,7 @@
 layout: term
 title: yenilemek
 slug: yenilemek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Eskiyen bir şeyin yerine yenisini koymak, yenisini almak

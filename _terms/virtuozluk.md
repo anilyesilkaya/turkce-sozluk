@@ -2,6 +2,7 @@
 layout: term
 title: virtüözlük
 slug: virtuozluk
+letter: V
 lisan: Türkçe
 anlamlar:
 - Virtüöz olma durumu

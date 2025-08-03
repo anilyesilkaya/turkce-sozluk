@@ -2,6 +2,7 @@
 layout: term
 title: yaptırmak
 slug: yaptirmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yapmasını sağlamak, yapmasına imkân vermek

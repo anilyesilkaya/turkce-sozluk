@@ -2,6 +2,7 @@
 layout: term
 title: kıyas etmek (veya eylemek)
 slug: kiyas-etmek-veya-eylemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - karşılaştırmak, mukayese etmek

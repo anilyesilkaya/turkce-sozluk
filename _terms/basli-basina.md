@@ -2,6 +2,7 @@
 layout: term
 title: başlı başına
 slug: basli-basina
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kendisi bir bütün oluşturacak biçimde

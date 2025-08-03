@@ -2,6 +2,7 @@
 layout: term
 title: püfür püfür
 slug: pufur-pufur
+letter: P
 lisan: Türkçe
 anlamlar:
 - Rüzgâr hafif ve serin bir biçimde eserek

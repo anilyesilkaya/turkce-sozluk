@@ -2,6 +2,7 @@
 layout: term
 title: gark olmak
 slug: gark-olmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - gömülmek, batmak

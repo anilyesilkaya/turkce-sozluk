@@ -2,6 +2,7 @@
 layout: term
 title: yabancılaşmak
 slug: yabancilasmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Tanımaz, bilmez duruma gelmek, yabancı olmak; bigâne düşmek

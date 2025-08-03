@@ -2,6 +2,7 @@
 layout: term
 title: kötülük
 slug: kotuluk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kötü olma durumu; fenalık, kemlik, habaset, seyyie, şenaat, şer

@@ -2,6 +2,7 @@
 layout: term
 title: sokaktaki adam
 slug: sokaktaki-adam
+letter: S
 lisan: Türkçe
 anlamlar:
 - Genellikle kamuoyunun görüşünü dile getirdiğine inanılan herhangi bir kişi

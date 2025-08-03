@@ -2,6 +2,7 @@
 layout: term
 title: gayrete gelmek
 slug: gayrete-gelmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - bir işi yapmaya veya bitirmeye özenmek; canlanmak

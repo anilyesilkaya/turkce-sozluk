@@ -2,6 +2,7 @@
 layout: term
 title: yaşmaklı
 slug: yasmakli
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaşmak örtünmüş

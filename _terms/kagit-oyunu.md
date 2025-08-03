@@ -2,6 +2,7 @@
 layout: term
 title: kâğıt oyunu
 slug: kagit-oyunu
+letter: K
 lisan: Türkçe
 anlamlar:
 - İskambil kâğıdı ile oynanan oyun

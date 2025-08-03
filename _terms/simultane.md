@@ -2,6 +2,7 @@
 layout: term
 title: simultane
 slug: simultane
+letter: S
 lisan: Fransızca simultané
 anlamlar:
 - ► anında

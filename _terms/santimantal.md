@@ -2,6 +2,7 @@
 layout: term
 title: santimantal
 slug: santimantal
+letter: S
 lisan: Fransızca sentimental
 anlamlar:
 - Duygulu, içli, hassas

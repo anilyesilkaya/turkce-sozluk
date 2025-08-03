@@ -2,6 +2,7 @@
 layout: term
 title: uzaklaşmak
 slug: uzaklasmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Bir şeyden, bir yerden veya kimseden ayrılıp uzağa gitmek; ıraklaşmak, ıramak, uzaklanmak

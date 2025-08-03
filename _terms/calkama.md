@@ -2,6 +2,7 @@
 layout: term
 title: çalkama
 slug: calkama
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çalkalama

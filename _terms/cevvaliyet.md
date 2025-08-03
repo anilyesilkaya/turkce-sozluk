@@ -2,6 +2,7 @@
 layout: term
 title: cevvaliyet
 slug: cevvaliyet
+letter: C
 lisan: Arapça cevvāliyyet
 anlamlar:
 - Cevval olma durumu

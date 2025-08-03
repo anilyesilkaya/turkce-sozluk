@@ -2,6 +2,7 @@
 layout: term
 title: sunmak
 slug: sunmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir büyüğe veya nezaket gereğince bir kimseye bir şeyi vermek; arz etmek, takdim etmek

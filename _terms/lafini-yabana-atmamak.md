@@ -2,6 +2,7 @@
 layout: term
 title: lafını yabana atmamak
 slug: lafini-yabana-atmamak
+letter: L
 lisan: Türkçe
 anlamlar:
 - söylenen söze değer vermek

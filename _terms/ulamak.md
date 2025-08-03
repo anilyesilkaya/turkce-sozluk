@@ -2,6 +2,7 @@
 layout: term
 title: ulamak
 slug: ulamak
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► eklemek

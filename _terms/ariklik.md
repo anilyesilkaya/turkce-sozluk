@@ -2,6 +2,7 @@
 layout: term
 title: arıklık
 slug: ariklik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► zayıflık

@@ -2,6 +2,7 @@
 layout: term
 title: muvazenesizlik
 slug: muvazenesizlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► dengesizlik

@@ -2,6 +2,7 @@
 layout: term
 title: Osmanlı
 slug: osmanli
+letter: O
 lisan: Türkçe
 anlamlar:
 - 1299 yılında Osman Gazi tarafından Anadolu’da kurulan, Asya, Avrupa, Afrika kıtalarında hüküm sürdükten sonra Birinci Dünya Savaşı’nın bitiminde sona eren Türk devletinde yaşayan kimse; Osmani

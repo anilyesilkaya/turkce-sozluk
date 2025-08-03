@@ -2,6 +2,7 @@
 layout: term
 title: konsantrasyon
 slug: konsantrasyon
+letter: K
 lisan: Fransızca concentration
 anlamlar:
 - Dikkatin sürekli olarak bir nesne veya konunun belirli bir yönü üzerinde toplanması; dikkat toplaşımı, yoğunlaşma

@@ -2,6 +2,7 @@
 layout: term
 title: gem vurmak
 slug: gem-vurmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - hayvanın ağzına gem takmak

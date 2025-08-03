@@ -2,6 +2,7 @@
 layout: term
 title: har hur
 slug: har-hur
+letter: H
 lisan: Türkçe
 anlamlar:
 - Karışıklık ve anlaşmazlık

@@ -2,6 +2,7 @@
 layout: term
 title: balotaj
 slug: balotaj
+letter: B
 lisan: Fransızca ballottage
 anlamlar:
 - Adaylardan hiçbirinin gerekli oyu sağlayamaması dolayısıyla seçimin sonuçsuz kalması

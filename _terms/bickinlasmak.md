@@ -2,6 +2,7 @@
 layout: term
 title: bıçkınlaşmak
 slug: bickinlasmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kabadayılık taslamak

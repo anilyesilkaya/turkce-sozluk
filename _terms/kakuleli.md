@@ -2,6 +2,7 @@
 layout: term
 title: kakuleli
 slug: kakuleli
+letter: K
 lisan: Türkçe
 anlamlar:
 - İçine kakule katılmış

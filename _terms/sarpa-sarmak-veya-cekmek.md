@@ -2,6 +2,7 @@
 layout: term
 title: sarpa sarmak (veya çekmek)
 slug: sarpa-sarmak-veya-cekmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - güçlükler ortaya çıkmak, çözülmesi çok güç bir duruma gelmek

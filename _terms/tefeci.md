@@ -2,6 +2,7 @@
 layout: term
 title: tefeci
 slug: tefeci
+letter: T
 lisan: Türkçe
 anlamlar:
 - El altından yüksek faizle ödünç para veren kimse; faizci, murabahacı

@@ -2,6 +2,7 @@
 layout: term
 title: rant
 slug: rant
+letter: R
 lisan: Fransızca rente
 anlamlar:
 - ► getirim

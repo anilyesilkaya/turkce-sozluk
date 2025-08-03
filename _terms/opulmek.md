@@ -2,6 +2,7 @@
 layout: term
 title: öpülmek
 slug: opulmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öpme işine konu olmak

@@ -2,6 +2,7 @@
 layout: term
 title: titreyiş
 slug: titreyis
+letter: T
 lisan: Türkçe
 anlamlar:
 - Titremek işi

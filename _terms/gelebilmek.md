@@ -2,6 +2,7 @@
 layout: term
 title: gelebilmek
 slug: gelebilmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gelme ihtimali veya imkânı bulunmak

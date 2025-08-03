@@ -2,6 +2,7 @@
 layout: term
 title: renktaşlık
 slug: renktaslik
+letter: R
 lisan: Türkçe
 anlamlar:
 - Aynı renge bağlı olma veya aynı rengi taşıma, renktaş olma durumu

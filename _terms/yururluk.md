@@ -2,6 +2,7 @@
 layout: term
 title: yürürlük
 slug: yururluk
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Gereğinin yapılır olması durumu; meriyet

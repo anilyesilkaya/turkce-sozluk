@@ -2,6 +2,7 @@
 layout: term
 title: yağ
 slug: yag
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Birleşiminde stearik, oleik, palmitik asitlerle gliserin bulunan ve bunların oranlarına göre kıvamları değişen bitkisel veya hayvansal madde

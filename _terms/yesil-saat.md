@@ -2,6 +2,7 @@
 layout: term
 title: yeşil saat
 slug: yesil-saat
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Görüşme yapılabilecek zaman dilimi

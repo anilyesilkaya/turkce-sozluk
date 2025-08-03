@@ -2,6 +2,7 @@
 layout: term
 title: sağlamlık
 slug: saglamlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sağlam olma durumu; berklik, kavilik

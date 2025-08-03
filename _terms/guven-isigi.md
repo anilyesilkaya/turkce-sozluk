@@ -2,6 +2,7 @@
 layout: term
 title: güven ışığı
 slug: guven-isigi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Kendine güvenme

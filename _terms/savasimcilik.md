@@ -2,6 +2,7 @@
 layout: term
 title: savaşımcılık
 slug: savasimcilik
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► mücadelecilik

@@ -2,6 +2,7 @@
 layout: term
 title: sıfırlanmak
 slug: sifirlanmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıfırlama işi yapılmak

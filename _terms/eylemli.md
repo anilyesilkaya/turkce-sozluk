@@ -2,6 +2,7 @@
 layout: term
 title: eylemli
 slug: eylemli
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eylem durumunda olan; fiilî

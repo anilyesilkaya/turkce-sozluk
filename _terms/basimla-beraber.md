@@ -2,6 +2,7 @@
 layout: term
 title: başımla beraber
 slug: basimla-beraber
+letter: B
 lisan: Türkçe
 anlamlar:
 - memnunlukla, seve seve

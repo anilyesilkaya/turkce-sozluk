@@ -2,6 +2,7 @@
 layout: term
 title: arşınlama
 slug: arsinlama
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arşınlamak işi

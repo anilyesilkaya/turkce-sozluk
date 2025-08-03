@@ -2,6 +2,7 @@
 layout: term
 title: ikinci öğretim
 slug: ikinci-ogretim
+letter: I
 lisan: Türkçe
 anlamlar:
 - Yükseköğretim kurumlarında normal örgün öğretimin bitiminden sonra yapılan örgün öğretim

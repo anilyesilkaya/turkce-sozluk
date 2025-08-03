@@ -2,6 +2,7 @@
 layout: term
 title: tabancasız
 slug: tabancasiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tabancası olmayan

@@ -2,6 +2,7 @@
 layout: term
 title: dijital çağ
 slug: dijital-cag
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► bilişim çağı

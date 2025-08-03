@@ -2,6 +2,7 @@
 layout: term
 title: dolanım
 slug: dolanim
+letter: D
 lisan: Türkçe
 anlamlar:
 - Mal veya paranın elden ele dolaşması; dolaşım, sirkülasyon, para dolaşımı

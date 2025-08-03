@@ -2,6 +2,7 @@
 layout: term
 title: müteaffin
 slug: muteaffin
+letter: M
 lisan: Arapça muteʿaffin
 anlamlar:
 - ► kokmuş

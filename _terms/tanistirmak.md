@@ -2,6 +2,7 @@
 layout: term
 title: tanıştırmak
 slug: tanistirmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Birbirini tanımayanların tanışmasını sağlamak

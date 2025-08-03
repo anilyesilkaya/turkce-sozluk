@@ -2,6 +2,7 @@
 layout: term
 title: üçleme
 slug: ucleme
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üçlemek işi

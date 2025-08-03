@@ -2,6 +2,7 @@
 layout: term
 title: yastama
 slug: yastama
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yaslama

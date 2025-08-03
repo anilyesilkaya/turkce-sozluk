@@ -2,6 +2,7 @@
 layout: term
 title: ölçünlü
 slug: olcunlu
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► standart

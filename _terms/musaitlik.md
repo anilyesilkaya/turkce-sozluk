@@ -2,6 +2,7 @@
 layout: term
 title: müsaitlik
 slug: musaitlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Müsait olma durumu

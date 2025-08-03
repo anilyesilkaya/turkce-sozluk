@@ -2,6 +2,7 @@
 layout: term
 title: kader olmayınca kadir bilinmez
 slug: kader-olmayinca-kadir-bilinmez
+letter: K
 lisan: Türkçe
 anlamlar:
 - '"kişi talihsiz ise ne kadar iyi insan olursa olsun, değeri bilinmez" anlamında kullanılan bir söz'

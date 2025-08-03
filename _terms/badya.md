@@ -2,6 +2,7 @@
 layout: term
 title: badya
 slug: badya
+letter: B
 lisan: Rumca
 anlamlar:
 - Ağzı geniş, yayvan, büyükçe su kabı

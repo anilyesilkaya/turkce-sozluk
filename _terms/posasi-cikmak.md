@@ -2,6 +2,7 @@
 layout: term
 title: posası çıkmak
 slug: posasi-cikmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - çok yorulmak, bitkin ve işe yaramaz duruma gelmek

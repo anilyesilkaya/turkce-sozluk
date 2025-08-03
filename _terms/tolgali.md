@@ -2,6 +2,7 @@
 layout: term
 title: tolgalı
 slug: tolgali
+letter: T
 lisan: Türkçe
 anlamlar:
 - Miğferi olan

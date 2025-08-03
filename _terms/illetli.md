@@ -2,6 +2,7 @@
 layout: term
 title: illetli
 slug: illetli
+letter: I
 lisan: Türkçe
 anlamlar:
 - Hastalığı olan

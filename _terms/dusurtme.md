@@ -2,6 +2,7 @@
 layout: term
 title: düşürtme
 slug: dusurtme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düşürtmek işi

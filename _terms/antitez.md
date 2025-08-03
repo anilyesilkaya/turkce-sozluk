@@ -2,6 +2,7 @@
 layout: term
 title: antitez
 slug: antitez
+letter: A
 lisan: Fransızca antithèse
 anlamlar:
 - ► karşı sav

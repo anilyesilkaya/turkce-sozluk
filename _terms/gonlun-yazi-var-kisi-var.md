@@ -2,6 +2,7 @@
 layout: term
 title: gönlün yazı var, kışı var
 slug: gonlun-yazi-var-kisi-var
+letter: G
 lisan: Türkçe
 anlamlar:
 - '"insan kimi zaman sevinçli, kimi zaman da üzüntülü olabilir" anlamında kullanılan bir söz'

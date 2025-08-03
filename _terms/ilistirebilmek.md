@@ -2,6 +2,7 @@
 layout: term
 title: iliştirebilmek
 slug: ilistirebilmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İliştirme ihtimali veya imkânı bulunmak

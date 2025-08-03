@@ -2,6 +2,7 @@
 layout: term
 title: abidemsi
 slug: abidemsi
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► anıtsı

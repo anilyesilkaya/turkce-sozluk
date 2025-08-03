@@ -2,6 +2,7 @@
 layout: term
 title: hercümerç etmek
 slug: hercumerc-etmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - karmakarışık etmek

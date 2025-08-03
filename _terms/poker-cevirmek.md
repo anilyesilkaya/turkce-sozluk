@@ -2,6 +2,7 @@
 layout: term
 title: poker çevirmek
 slug: poker-cevirmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - poker oynamak

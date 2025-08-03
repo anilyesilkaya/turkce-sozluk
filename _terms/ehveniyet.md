@@ -2,6 +2,7 @@
 layout: term
 title: ehveniyet
 slug: ehveniyet
+letter: E
 lisan: Arapça ehveniyyet
 anlamlar:
 - ► ehvenlik

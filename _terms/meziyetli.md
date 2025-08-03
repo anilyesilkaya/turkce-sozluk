@@ -2,6 +2,7 @@
 layout: term
 title: meziyetli
 slug: meziyetli
+letter: M
 lisan: Türkçe
 anlamlar:
 - Beğenilen, üstün nitelikleri bulunan

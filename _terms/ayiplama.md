@@ -2,6 +2,7 @@
 layout: term
 title: ayıplama
 slug: ayiplama
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayıplamak işi

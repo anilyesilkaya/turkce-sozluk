@@ -2,6 +2,7 @@
 layout: term
 title: tuzu biberi olmak
 slug: tuzu-biberi-olmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - lezzet, çeşni katmak

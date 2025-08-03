@@ -2,6 +2,7 @@
 layout: term
 title: çelimsiz
 slug: celimsiz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Güçsüz olan

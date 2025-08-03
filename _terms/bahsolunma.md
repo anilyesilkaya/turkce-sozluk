@@ -2,6 +2,7 @@
 layout: term
 title: bahsolunma
 slug: bahsolunma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bahsolunmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: avantajlı
 slug: avantajli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Avantajı olan

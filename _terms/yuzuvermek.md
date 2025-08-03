@@ -2,6 +2,7 @@
 layout: term
 title: yüzüvermek
 slug: yuzuvermek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Çabucak veya ansızın yüzmek

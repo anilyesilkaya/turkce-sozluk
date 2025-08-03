@@ -2,6 +2,7 @@
 layout: term
 title: tespihli
 slug: tespihli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tespihi olan

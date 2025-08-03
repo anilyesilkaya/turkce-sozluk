@@ -2,6 +2,7 @@
 layout: term
 title: imha etmek
 slug: imha-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - ortadan kaldırmak, yok etmek

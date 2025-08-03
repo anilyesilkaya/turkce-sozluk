@@ -2,6 +2,7 @@
 layout: term
 title: bekleme salonu
 slug: bekleme-salonu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Doktor, avukat vb. ile görüşme öncesinde oturulan yer; bekleme odası, intizar odası

@@ -2,6 +2,7 @@
 layout: term
 title: çakırlaşmak
 slug: cakirlasmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çakırkeyif olmaya başlamak

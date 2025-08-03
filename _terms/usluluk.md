@@ -2,6 +2,7 @@
 layout: term
 title: usluluk
 slug: usluluk
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uslu olma durumu

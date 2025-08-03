@@ -2,6 +2,7 @@
 layout: term
 title: zıplama
 slug: ziplama
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zıplamak işi

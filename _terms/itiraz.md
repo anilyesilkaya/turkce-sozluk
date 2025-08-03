@@ -2,6 +2,7 @@
 layout: term
 title: itiraz
 slug: itiraz
+letter: I
 lisan: Arapça iʿtirāż
 anlamlar:
 - Bir düşünce veya kararı benimsemeyerek karşı çıkma

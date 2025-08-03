@@ -2,6 +2,7 @@
 layout: term
 title: yargılamak
 slug: yargilamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yargıç, bir karara varmak için davalı ile davacıyı dinleyerek sonuca varmak

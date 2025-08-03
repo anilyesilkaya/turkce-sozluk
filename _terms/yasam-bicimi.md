@@ -2,6 +2,7 @@
 layout: term
 title: yaşam biçimi
 slug: yasam-bicimi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► hayat tarzı

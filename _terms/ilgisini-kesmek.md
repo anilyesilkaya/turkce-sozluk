@@ -2,6 +2,7 @@
 layout: term
 title: ilgisini kesmek
 slug: ilgisini-kesmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - bir kimse veya şeyle bütün bağlarını koparmak, ilişkisi kalmamak, alakayı kesmek

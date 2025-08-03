@@ -2,6 +2,7 @@
 layout: term
 title: su sabun görmemek
 slug: su-sabun-gormemek
+letter: S
 lisan: Türkçe
 anlamlar:
 - çok kirli olmak

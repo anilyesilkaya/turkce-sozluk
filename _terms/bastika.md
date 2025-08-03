@@ -2,6 +2,7 @@
 layout: term
 title: bastika
 slug: bastika
+letter: B
 lisan: İtalyanca pasteca
 anlamlar:
 - Bir yelken serenine veya herhangi bir ağaca halat veya ip geçirmek için açılan delik

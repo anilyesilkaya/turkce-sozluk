@@ -2,6 +2,7 @@
 layout: term
 title: akıllanabilmek
 slug: akillanabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Akıllanma ihtimali veya imkânı bulunmak

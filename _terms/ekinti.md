@@ -2,6 +2,7 @@
 layout: term
 title: ekinti
 slug: ekinti
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ekilen şey

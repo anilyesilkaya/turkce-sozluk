@@ -2,6 +2,7 @@
 layout: term
 title: biz bize
 slug: biz-bize
+letter: B
 lisan: Türkçe
 anlamlar:
 - Yalnız biz, aramızda yabancı bir kimse olmaksızın

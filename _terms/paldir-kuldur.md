@@ -2,6 +2,7 @@
 layout: term
 title: paldır küldür
 slug: paldir-kuldur
+letter: P
 lisan: Türkçe
 anlamlar:
 - Kaba bir gürültü çıkararak, gürültü yaparak

@@ -2,6 +2,7 @@
 layout: term
 title: boklamak
 slug: boklamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir yere büyük abdestini yapmak

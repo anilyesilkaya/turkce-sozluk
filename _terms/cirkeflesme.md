@@ -2,6 +2,7 @@
 layout: term
 title: çirkefleşme
 slug: cirkeflesme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çirkefleşmek işi

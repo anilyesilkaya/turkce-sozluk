@@ -2,6 +2,7 @@
 layout: term
 title: sayımlı
 slug: sayimli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sayısı bulunan

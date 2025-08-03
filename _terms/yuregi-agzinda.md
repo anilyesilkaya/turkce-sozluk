@@ -2,6 +2,7 @@
 layout: term
 title: yüreği ağzında
 slug: yuregi-agzinda
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Korku ve heyecan dolu bir durumda

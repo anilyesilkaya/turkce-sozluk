@@ -2,6 +2,7 @@
 layout: term
 title: yüzüne bakılır olmak
 slug: yuzune-bakilir-olmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - çirkin sayılmamak

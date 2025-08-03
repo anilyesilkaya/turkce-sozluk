@@ -2,6 +2,7 @@
 layout: term
 title: fırtına
 slug: firtina
+letter: F
 lisan: İtalyanca fortunale
 anlamlar:
 - Rüzgâr çizelgesinde hızı 34-40 deniz mili olan ve kuvveti 8 ile gösterilen, genellikle yağmur getiren güçlü rüzgâr

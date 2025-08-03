@@ -2,6 +2,7 @@
 layout: term
 title: kuruntululuk
 slug: kuruntululuk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kuruntulu olma durumu; kuruntuculuk, vesvesecilik, vesveselilik, vehimlilik, müvesvislik, evhamlılık

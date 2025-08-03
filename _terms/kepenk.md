@@ -2,6 +2,7 @@
 layout: term
 title: kepenk
 slug: kepenk
+letter: K
 lisan: Türkçe
 anlamlar:
 - İş yeri, pencere, kapı vb. yerleri kapamak için kullanılan, türlü biçimlerde sac levha, demir veya tahta kanat

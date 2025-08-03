@@ -2,6 +2,7 @@
 layout: term
 title: kavuşmak
 slug: kavusmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Ayrı kalınan, sevilen bir kimseyle bir araya gelmek, onu yeniden görmek; ermek

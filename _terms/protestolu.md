@@ -2,6 +2,7 @@
 layout: term
 title: protestolu
 slug: protestolu
+letter: P
 lisan: Türkçe
 anlamlar:
 - Protesto yapılan

@@ -2,6 +2,7 @@
 layout: term
 title: sapçık
 slug: sapcik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Küçük sap

@@ -2,6 +2,7 @@
 layout: term
 title: bibi
 slug: bibi
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► hala

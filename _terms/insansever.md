@@ -2,6 +2,7 @@
 layout: term
 title: insansever
 slug: insansever
+letter: I
 lisan: Türkçe
 anlamlar:
 - İnsanseverlik yanlısı olan

@@ -2,6 +2,7 @@
 layout: term
 title: yerlere geçmek
 slug: yerlere-gecmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - çok utanıp sıkılmak veya kahrolmak

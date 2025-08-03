@@ -2,6 +2,7 @@
 layout: term
 title: arbalet
 slug: arbalet
+letter: A
 lisan: Fransızca arbalète
 anlamlar:
 - Kundaklı, tetikli yay

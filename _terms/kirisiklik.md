@@ -2,6 +2,7 @@
 layout: term
 title: kırışıklık
 slug: kirisiklik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kırışık olma durumu

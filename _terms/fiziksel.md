@@ -2,6 +2,7 @@
 layout: term
 title: fiziksel
 slug: fiziksel
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fizikle ilgili olan

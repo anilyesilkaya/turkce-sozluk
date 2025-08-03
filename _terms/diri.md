@@ -2,6 +2,7 @@
 layout: term
 title: diri
 slug: diri
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► canlı, ölü karşıtı

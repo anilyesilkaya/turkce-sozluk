@@ -2,6 +2,7 @@
 layout: term
 title: arka kapıdan çıkmak
 slug: arka-kapidan-cikmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - okuldan başarısızlık nedeniyle ayrılmak

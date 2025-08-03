@@ -2,6 +2,7 @@
 layout: term
 title: pozitif elektrik
 slug: pozitif-elektrik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Cam çubuğunun bir kumaşa sürtünmesi sonucu oluşan, artı (+) işaretiyle gösterilen elektrik

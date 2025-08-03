@@ -2,6 +2,7 @@
 layout: term
 title: çavuş
 slug: cavus
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir işin veya işçilerin başında bulunan ve onları yöneten sorumlu kimse

@@ -2,6 +2,7 @@
 layout: term
 title: sıralayıvermek
 slug: siralayivermek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Çabucak veya kısa zamanda sıralamak

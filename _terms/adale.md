@@ -2,6 +2,7 @@
 layout: term
 title: adale
 slug: adale
+letter: A
 lisan: Arapça ʿażale
 anlamlar:
 - ► kas

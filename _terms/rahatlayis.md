@@ -2,6 +2,7 @@
 layout: term
 title: rahatlayış
 slug: rahatlayis
+letter: R
 lisan: Türkçe
 anlamlar:
 - Rahatlamak işi

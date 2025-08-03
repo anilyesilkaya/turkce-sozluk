@@ -2,6 +2,7 @@
 layout: term
 title: atletik
 slug: atletik
+letter: A
 lisan: Fransızca athlétique
 anlamlar:
 - Vücudu gelişmiş, biçimli, atlet gibi

@@ -2,6 +2,7 @@
 layout: term
 title: belasını beklemek
 slug: belasini-beklemek
+letter: B
 lisan: Türkçe
 anlamlar:
 - ona buna çatarak, kavga ederek veya benzeri davranışlarda bulunarak birinin kendisine gereken cezayı vermesi yolunu açmak

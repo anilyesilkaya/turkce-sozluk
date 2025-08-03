@@ -2,6 +2,7 @@
 layout: term
 title: İngiliz İngilizcesi
 slug: ingiliz-ingilizcesi
+letter: İ
 lisan: Türkçe
 anlamlar:
 - İngiltere ve İngilizlerin hâkim olduğu bölgelerde kullanılan İngilizce

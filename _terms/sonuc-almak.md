@@ -2,6 +2,7 @@
 layout: term
 title: sonuç almak
 slug: sonuc-almak
+letter: S
 lisan: Türkçe
 anlamlar:
 - bir işi bitirmek, sonuçlandırmak

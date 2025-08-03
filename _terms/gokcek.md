@@ -2,6 +2,7 @@
 layout: term
 title: gökçek
 slug: gokcek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güzel, sevimli (kimse)

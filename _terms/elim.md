@@ -2,6 +2,7 @@
 layout: term
 title: elim
 slug: elim
+letter: E
 lisan: Arapça elīm
 anlamlar:
 - ► acıklı

@@ -2,6 +2,7 @@
 layout: term
 title: çerge
 slug: cerge
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Derme çatma çadır, göçebe çadırı

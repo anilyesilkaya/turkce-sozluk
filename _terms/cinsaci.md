@@ -2,6 +2,7 @@
 layout: term
 title: cinsaçı
 slug: cinsaci
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► küsküt otu

@@ -2,6 +2,7 @@
 layout: term
 title: yoğurtçu
 slug: yogurtcu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yoğurt yapan veya satan kimse

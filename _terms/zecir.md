@@ -2,6 +2,7 @@
 layout: term
 title: zecir
 slug: zecir
+letter: Z
 lisan: Arapça zecr
 anlamlar:
 - Yaptırmama, yasaklama

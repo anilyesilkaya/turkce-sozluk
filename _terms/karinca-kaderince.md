@@ -2,6 +2,7 @@
 layout: term
 title: karınca kaderince
 slug: karinca-kaderince
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► karınca kararınca

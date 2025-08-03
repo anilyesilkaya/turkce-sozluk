@@ -2,6 +2,7 @@
 layout: term
 title: fişeklikli
 slug: fiseklikli
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fişekliği olan

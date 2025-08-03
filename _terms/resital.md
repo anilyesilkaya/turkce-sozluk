@@ -2,6 +2,7 @@
 layout: term
 title: resital
 slug: resital
+letter: R
 lisan: Fransızca récital
 anlamlar:
 - Tek bir sanatçının tek bir çalgı ile verdiği konser

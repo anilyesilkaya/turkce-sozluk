@@ -2,6 +2,7 @@
 layout: term
 title: listelemek
 slug: listelemek
+letter: L
 lisan: Türkçe
 anlamlar:
 - Liste durumuna getirmek

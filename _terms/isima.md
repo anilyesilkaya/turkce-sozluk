@@ -2,6 +2,7 @@
 layout: term
 title: ışıma
 slug: isima
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► aydınlanma

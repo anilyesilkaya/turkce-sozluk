@@ -2,6 +2,7 @@
 layout: term
 title: övüngen
 slug: ovungen
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Çok övünen

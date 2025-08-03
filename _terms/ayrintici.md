@@ -2,6 +2,7 @@
 layout: term
 title: ayrıntıcı
 slug: ayrintici
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayrıntıya önem veren (kimse)

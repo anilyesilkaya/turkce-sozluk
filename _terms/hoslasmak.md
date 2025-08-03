@@ -2,6 +2,7 @@
 layout: term
 title: hoşlaşmak
 slug: hoslasmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hoş duruma gelmek

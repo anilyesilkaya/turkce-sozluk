@@ -2,6 +2,7 @@
 layout: term
 title: sanal para
 slug: sanal-para
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sanal ortamlarda kendine özgü bir yazılımla kullanılan elektronik para

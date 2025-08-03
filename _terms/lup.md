@@ -2,6 +2,7 @@
 layout: term
 title: lüp
 slug: lup
+letter: L
 lisan: Türkçe
 anlamlar:
 - Emek vermeden ele geçirilen şey

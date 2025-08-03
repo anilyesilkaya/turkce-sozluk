@@ -2,6 +2,7 @@
 layout: term
 title: mehtaba çıkmak
 slug: mehtaba-cikmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - ay ışığında denizde gezip dolaşmak

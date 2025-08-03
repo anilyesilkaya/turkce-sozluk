@@ -2,6 +2,7 @@
 layout: term
 title: razı olmak (veya gelmek)
 slug: razi-olmak-veya-gelmek
+letter: R
 lisan: Türkçe
 anlamlar:
 - uygun bulmak, beğenmek, benimsemek, istemek, kabul etmek

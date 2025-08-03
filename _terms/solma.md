@@ -2,6 +2,7 @@
 layout: term
 title: solma
 slug: solma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Solmak işi

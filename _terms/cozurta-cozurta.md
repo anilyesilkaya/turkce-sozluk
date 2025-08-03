@@ -2,6 +2,7 @@
 layout: term
 title: cozurta cozurta
 slug: cozurta-cozurta
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cozurdatarak

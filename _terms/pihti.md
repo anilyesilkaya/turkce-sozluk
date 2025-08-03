@@ -2,6 +2,7 @@
 layout: term
 title: pıhtı
 slug: pihti
+letter: P
 lisan: Farsça piḫtī, puḫtī
 anlamlar:
 - Koyulaşarak yarı katı duruma gelmiş sıvı

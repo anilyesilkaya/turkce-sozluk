@@ -2,6 +2,7 @@
 layout: term
 title: zorlaşmak
 slug: zorlasmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zor duruma gelmek; müşkülleşmek

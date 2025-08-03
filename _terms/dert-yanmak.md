@@ -2,6 +2,7 @@
 layout: term
 title: dert yanmak
 slug: dert-yanmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - derdini sızlanarak anlatmak

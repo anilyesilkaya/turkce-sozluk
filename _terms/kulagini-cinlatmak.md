@@ -2,6 +2,7 @@
 layout: term
 title: kulağını çınlatmak
 slug: kulagini-cinlatmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - birini anmak

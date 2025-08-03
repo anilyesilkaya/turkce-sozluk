@@ -2,6 +2,7 @@
 layout: term
 title: selamlık
 slug: selamlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Saray, köşk veya konaklarda erkeklere ayrılan bölüm, harem karşıtı

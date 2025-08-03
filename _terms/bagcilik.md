@@ -2,6 +2,7 @@
 layout: term
 title: bağcılık
 slug: bagcilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağcının yaptığı iş

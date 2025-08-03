@@ -2,6 +2,7 @@
 layout: term
 title: ciltleme
 slug: ciltleme
+letter: C
 lisan: Türkçe
 anlamlar:
 - Ciltlemek işi

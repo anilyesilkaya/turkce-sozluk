@@ -2,6 +2,7 @@
 layout: term
 title: er kişi
 slug: er-kisi
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► erkek

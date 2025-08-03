@@ -2,6 +2,7 @@
 layout: term
 title: ufo
 slug: ufo
+letter: U
 lisan: İngilizce (Unidentified Flying Object kelimelerinden kısaltma)
 anlamlar:
 - ► uçan daire

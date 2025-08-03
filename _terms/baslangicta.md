@@ -2,6 +2,7 @@
 layout: term
 title: başlangıçta
 slug: baslangicta
+letter: B
 lisan: Türkçe
 anlamlar:
 - İlk zaman, ilk dönem; ilk planda

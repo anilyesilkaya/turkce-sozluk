@@ -2,6 +2,7 @@
 layout: term
 title: zorunda kalmak (veya olmak)
 slug: zorunda-kalmak-veya-olmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - kesinlikle yapması gerekmek, yapmaya mecbur olmak

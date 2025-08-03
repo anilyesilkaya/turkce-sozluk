@@ -2,6 +2,7 @@
 layout: term
 title: nefsine uymak
 slug: nefsine-uymak
+letter: N
 lisan: Türkçe
 anlamlar:
 - bedenin isteklerine uymak, günah işlemek

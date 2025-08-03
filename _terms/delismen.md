@@ -2,6 +2,7 @@
 layout: term
 title: delişmen
 slug: delismen
+letter: D
 lisan: Türkçe
 anlamlar:
 - Sözleri ve davranışları ölçüsüz olan

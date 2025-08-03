@@ -2,6 +2,7 @@
 layout: term
 title: deneyli
 slug: deneyli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Deneye başvurulan

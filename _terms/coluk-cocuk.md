@@ -2,6 +2,7 @@
 layout: term
 title: çoluk çocuk
 slug: coluk-cocuk
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çocuklarla birlikte aile topluluğu; oğlan uşak

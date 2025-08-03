@@ -2,6 +2,7 @@
 layout: term
 title: ekşimsi
 slug: eksimsi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Tadı ekşiyi andıran; ekşimtırak

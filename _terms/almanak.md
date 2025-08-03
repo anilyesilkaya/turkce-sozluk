@@ -2,6 +2,7 @@
 layout: term
 title: almanak
 slug: almanak
+letter: A
 lisan: Fransızca almanach
 anlamlar:
 - ► yıllık

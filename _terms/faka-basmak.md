@@ -2,6 +2,7 @@
 layout: term
 title: faka basmak
 slug: faka-basmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - aldatılmak, tuzağa düşmek

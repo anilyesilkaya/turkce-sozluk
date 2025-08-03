@@ -2,6 +2,7 @@
 layout: term
 title: söz yarışı
 slug: soz-yarisi
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► söz düellosu

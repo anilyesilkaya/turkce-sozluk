@@ -2,6 +2,7 @@
 layout: term
 title: uylaşmak
 slug: uylasmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► uzlaşmak

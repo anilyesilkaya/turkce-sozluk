@@ -2,6 +2,7 @@
 layout: term
 title: aşağılanış
 slug: asagilanis
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aşağılanmak durumu

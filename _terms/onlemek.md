@@ -2,6 +2,7 @@
 layout: term
 title: önlemek
 slug: onlemek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Bir şeyin olmasına veya yapılmasına engel olmak

@@ -2,6 +2,7 @@
 layout: term
 title: nabzına göre şerbet vermek
 slug: nabzina-gore-serbet-vermek
+letter: N
 lisan: Türkçe
 anlamlar:
 - birinin hoşuna gidecek, gururunu okşayacak yolda davranmak

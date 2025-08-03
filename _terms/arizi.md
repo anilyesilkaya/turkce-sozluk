@@ -2,6 +2,7 @@
 layout: term
 title: arızi
 slug: arizi
+letter: A
 lisan: Arapça ʿāriżī
 anlamlar:
 - Sonradan olan, dıştan gelen

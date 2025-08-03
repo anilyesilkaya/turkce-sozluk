@@ -2,6 +2,7 @@
 layout: term
 title: doluşma
 slug: dolusma
+letter: D
 lisan: Türkçe
 anlamlar:
 - Doluşmak işi

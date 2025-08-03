@@ -2,6 +2,7 @@
 layout: term
 title: geri çekilmek
 slug: geri-cekilmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - bulunduğu yerden geriye, arkaya doğru gitmek

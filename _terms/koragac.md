@@ -2,6 +2,7 @@
 layout: term
 title: körağaç
 slug: koragac
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kontratablada orta katı oluşturan ve genellikle yumuşak ağaçlardan hazırlanan bölüm

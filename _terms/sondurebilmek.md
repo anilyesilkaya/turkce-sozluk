@@ -2,6 +2,7 @@
 layout: term
 title: söndürebilmek
 slug: sondurebilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Söndürme ihtimali veya imkânı bulunmak

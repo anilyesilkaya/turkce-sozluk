@@ -2,6 +2,7 @@
 layout: term
 title: yumurcak
 slug: yumurcak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaramaz küçük çocuk

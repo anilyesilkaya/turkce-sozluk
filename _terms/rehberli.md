@@ -2,6 +2,7 @@
 layout: term
 title: rehberli
 slug: rehberli
+letter: R
 lisan: Türkçe
 anlamlar:
 - Rehberi olan

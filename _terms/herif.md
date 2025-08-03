@@ -2,6 +2,7 @@
 layout: term
 title: herif
 slug: herif
+letter: H
 lisan: Arapça ḥarīf
 anlamlar:
 - Güven vermeyen, aşağı görülen, bayağı kimse

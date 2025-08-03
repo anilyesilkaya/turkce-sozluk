@@ -2,6 +2,7 @@
 layout: term
 title: lambalı
 slug: lambali
+letter: L
 lisan: Türkçe
 anlamlar:
 - Herhangi bir sayıda lambası olan

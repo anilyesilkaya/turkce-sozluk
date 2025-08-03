@@ -2,6 +2,7 @@
 layout: term
 title: piyasa etmek
 slug: piyasa-etmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - dolaşmak

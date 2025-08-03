@@ -2,6 +2,7 @@
 layout: term
 title: dayanç
 slug: dayanc
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► sabır

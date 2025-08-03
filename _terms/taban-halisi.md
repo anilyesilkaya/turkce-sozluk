@@ -2,6 +2,7 @@
 layout: term
 title: taban halısı
 slug: taban-halisi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tabana serilen büyük halı

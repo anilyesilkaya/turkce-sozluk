@@ -2,6 +2,7 @@
 layout: term
 title: cesametli
 slug: cesametli
+letter: C
 lisan: Türkçe
 anlamlar:
 - Kocaman, iri, büyük olan

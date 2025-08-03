@@ -2,6 +2,7 @@
 layout: term
 title: taburcu olmak
 slug: taburcu-olmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - tedavi edilerek hastaneden çıkmak

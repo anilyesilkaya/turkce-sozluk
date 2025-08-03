@@ -2,6 +2,7 @@
 layout: term
 title: açık kalpli
 slug: acik-kalpli
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► açık yürekli

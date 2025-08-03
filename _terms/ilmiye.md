@@ -2,6 +2,7 @@
 layout: term
 title: ilmiye
 slug: ilmiye
+letter: I
 lisan: Arapça ʿilmiyye
 anlamlar:
 - Din işleriyle uğraşan hocalar sınıfı

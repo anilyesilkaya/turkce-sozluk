@@ -2,6 +2,7 @@
 layout: term
 title: petek dokuma
 slug: petek-dokuma
+letter: P
 lisan: Türkçe
 anlamlar:
 - Üzerinde küçük petek motifleri bulunan pamuklu dokuma

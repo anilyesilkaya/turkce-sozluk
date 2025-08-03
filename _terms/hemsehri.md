@@ -2,6 +2,7 @@
 layout: term
 title: hemşehri
 slug: hemsehri
+letter: H
 lisan: Farsça hemşehrī
 anlamlar:
 - ► memleketli

@@ -2,6 +2,7 @@
 layout: term
 title: yayma
 slug: yayma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaymak işi; tevsi

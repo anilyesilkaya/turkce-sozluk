@@ -2,6 +2,7 @@
 layout: term
 title: kaydını düşmek
 slug: kaydini-dusmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - yazılı olduğu evraktan çıkarmak

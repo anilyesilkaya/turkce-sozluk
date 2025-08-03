@@ -2,6 +2,7 @@
 layout: term
 title: pireli
 slug: pireli
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pire bulunan

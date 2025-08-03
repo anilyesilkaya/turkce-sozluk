@@ -2,6 +2,7 @@
 layout: term
 title: normale dönmek
 slug: normale-donmek
+letter: N
 lisan: Türkçe
 anlamlar:
 - normalleşmek

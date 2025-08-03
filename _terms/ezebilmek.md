@@ -2,6 +2,7 @@
 layout: term
 title: ezebilmek
 slug: ezebilmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ezme ihtimali veya imkânı bulunmak

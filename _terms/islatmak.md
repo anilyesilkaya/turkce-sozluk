@@ -2,6 +2,7 @@
 layout: term
 title: ıslatmak
 slug: islatmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - Islak duruma getirmek; ıslamak

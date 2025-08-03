@@ -2,6 +2,7 @@
 layout: term
 title: dikkatini çekmemek
 slug: dikkatini-cekmemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - birinin ilgisini uyandırmamak

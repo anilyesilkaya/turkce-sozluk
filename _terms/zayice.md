@@ -2,6 +2,7 @@
 layout: term
 title: zayiçe
 slug: zayice
+letter: Z
 lisan: Farsça zāyiçe
 anlamlar:
 - Yıldızların, belli bir zamandaki yerlerini, durumlarını gösteren çizelge

@@ -2,6 +2,7 @@
 layout: term
 title: şekil vermek
 slug: sekil-vermek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - belirli bir biçime girmesini sağlamak, biçimlendirmek, şekillendirmek

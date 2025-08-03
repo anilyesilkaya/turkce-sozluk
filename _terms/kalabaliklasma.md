@@ -2,6 +2,7 @@
 layout: term
 title: kalabalıklaşma
 slug: kalabaliklasma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalabalıklaşmak işi

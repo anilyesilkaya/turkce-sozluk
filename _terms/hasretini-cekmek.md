@@ -2,6 +2,7 @@
 layout: term
 title: hasretini çekmek
 slug: hasretini-cekmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - çok özlemek

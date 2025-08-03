@@ -2,6 +2,7 @@
 layout: term
 title: doğmak
 slug: dogmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dünyaya gelmek

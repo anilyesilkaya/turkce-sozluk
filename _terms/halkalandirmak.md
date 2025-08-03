@@ -2,6 +2,7 @@
 layout: term
 title: halkalandırmak
 slug: halkalandirmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► halelendirmek

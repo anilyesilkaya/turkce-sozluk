@@ -2,6 +2,7 @@
 layout: term
 title: deli bozukluk
 slug: deli-bozukluk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Deli bozuk olma durumu

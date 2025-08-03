@@ -2,6 +2,7 @@
 layout: term
 title: çırpıntı
 slug: cirpinti
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çırpınma

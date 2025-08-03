@@ -2,6 +2,7 @@
 layout: term
 title: genel sekreterlik
 slug: genel-sekreterlik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Genel sekreter olma durumu

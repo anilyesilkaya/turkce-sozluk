@@ -2,6 +2,7 @@
 layout: term
 title: ezbere yapmak
 slug: ezbere-yapmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - ezberden yapmak

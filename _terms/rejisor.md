@@ -2,6 +2,7 @@
 layout: term
 title: rejisör
 slug: rejisor
+letter: R
 lisan: Fransızca régisseur
 anlamlar:
 - ► yönetmen

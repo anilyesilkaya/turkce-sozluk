@@ -2,6 +2,7 @@
 layout: term
 title: ahzükabz
 slug: ahzukabz
+letter: A
 lisan: Arapça aḫẕ + ḳabż
 anlamlar:
 - Teslim alma

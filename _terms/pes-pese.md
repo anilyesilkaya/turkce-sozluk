@@ -2,6 +2,7 @@
 layout: term
 title: peş peşe
 slug: pes-pese
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► arka arkaya

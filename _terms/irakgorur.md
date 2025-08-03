@@ -2,6 +2,7 @@
 layout: term
 title: ırakgörür
 slug: irakgorur
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► teleskop

@@ -2,6 +2,7 @@
 layout: term
 title: müsveddelik kâğıt
 slug: musveddelik-kagit
+letter: M
 lisan: Türkçe
 anlamlar:
 - Karalama için kullanılan kâğıt

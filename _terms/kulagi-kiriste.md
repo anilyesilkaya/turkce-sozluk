@@ -2,6 +2,7 @@
 layout: term
 title: kulağı kirişte
 slug: kulagi-kiriste
+letter: K
 lisan: Türkçe
 anlamlar:
 - Söylenecek sözü, gelecek haberi sabırsızlıkla bekleyen (kimse); kulağı tetikte

@@ -2,6 +2,7 @@
 layout: term
 title: çıkkın
 slug: cikkin
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Dışa doğru çıkmış olan

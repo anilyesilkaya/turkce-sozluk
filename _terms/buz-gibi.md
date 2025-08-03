@@ -2,6 +2,7 @@
 layout: term
 title: buz gibi
 slug: buz-gibi
+letter: B
 lisan: Türkçe
 anlamlar:
 - çok soğuk

@@ -2,6 +2,7 @@
 layout: term
 title: sesli
 slug: sesli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sesi olan, ses çıkaran

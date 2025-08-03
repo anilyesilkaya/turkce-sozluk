@@ -2,6 +2,7 @@
 layout: term
 title: tuzlaşmak
 slug: tuzlasmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tuz hâline gelmek

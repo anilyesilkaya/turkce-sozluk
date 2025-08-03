@@ -2,6 +2,7 @@
 layout: term
 title: tasvir etmek
 slug: tasvir-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - betimlemek

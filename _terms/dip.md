@@ -2,6 +2,7 @@
 layout: term
 title: dip
 slug: dip
+letter: D
 lisan: Türkçe
 anlamlar:
 - Oyuk veya çukur bir şeyin en alt bölümü; derin

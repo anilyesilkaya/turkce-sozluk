@@ -2,6 +2,7 @@
 layout: term
 title: ikinci kaptan
 slug: ikinci-kaptan
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► birinci zabit

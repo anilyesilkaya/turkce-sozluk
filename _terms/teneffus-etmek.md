@@ -2,6 +2,7 @@
 layout: term
 title: teneffüs etmek
 slug: teneffus-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - soluk almak

@@ -2,6 +2,7 @@
 layout: term
 title: çırpıştırmak
 slug: cirpistirmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Hafif hafif vurmak, dövmek, çarpmak

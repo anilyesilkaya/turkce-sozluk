@@ -2,6 +2,7 @@
 layout: term
 title: petek
 slug: petek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Arıların yumurtalarını bırakmak ve bal depo etmek için yaptığı, düzgün altıgen ağızlı bal mumu yuvacıklar topluluğu

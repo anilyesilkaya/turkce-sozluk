@@ -2,6 +2,7 @@
 layout: term
 title: şovmen
 slug: sovmen
+letter: Ş
 lisan: İngilizce showman
 anlamlar:
 - ► gösteri adamı

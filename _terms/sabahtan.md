@@ -2,6 +2,7 @@
 layout: term
 title: sabahtan
 slug: sabahtan
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► sabahleyin

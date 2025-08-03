@@ -2,6 +2,7 @@
 layout: term
 title: böğrülce
 slug: bogrulce
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► börülce

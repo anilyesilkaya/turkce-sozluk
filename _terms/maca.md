@@ -2,6 +2,7 @@
 layout: term
 title: maça
 slug: maca
+letter: M
 lisan: İtalyanca mazza
 anlamlar:
 - Oyun kâğıtlarında, mızrak ucuna benzer, ayaklı siyah beneklerle oluşan dizi; pik (III)

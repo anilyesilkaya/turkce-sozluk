@@ -2,6 +2,7 @@
 layout: term
 title: hikemî
 slug: hikemi
+letter: H
 lisan: Arapça ḥikemī
 anlamlar:
 - Felsefe ile ilgili

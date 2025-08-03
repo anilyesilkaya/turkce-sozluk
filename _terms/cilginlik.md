@@ -2,6 +2,7 @@
 layout: term
 title: çılgınlık
 slug: cilginlik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Aşırı davranış

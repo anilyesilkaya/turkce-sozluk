@@ -2,6 +2,7 @@
 layout: term
 title: belgit
 slug: belgit
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► senet

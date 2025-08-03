@@ -2,6 +2,7 @@
 layout: term
 title: yaşama sevinci
 slug: yasama-sevinci
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Maddi, manevi mutluluk içinde yaşama

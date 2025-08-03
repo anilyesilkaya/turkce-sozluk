@@ -2,6 +2,7 @@
 layout: term
 title: şamar
 slug: samar
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Açık elle yüze vurulan tokat; beşkardeş

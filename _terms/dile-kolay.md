@@ -2,6 +2,7 @@
 layout: term
 title: dile kolay
 slug: dile-kolay
+letter: D
 lisan: Türkçe
 anlamlar:
 - Anlatılması kolay ancak yapılması veya katlanılması çok güç

@@ -2,6 +2,7 @@
 layout: term
 title: partal
 slug: partal
+letter: P
 lisan: Türkçe
 anlamlar:
 - Çok kullanılmaktan yıpranmış

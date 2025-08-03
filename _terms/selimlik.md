@@ -2,6 +2,7 @@
 layout: term
 title: selimlik
 slug: selimlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Selim olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: karikatürize etmek
 slug: karikaturize-etmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - karikatürleştirmek

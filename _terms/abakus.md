@@ -2,6 +2,7 @@
 layout: term
 title: abaküs
 slug: abakus
+letter: A
 lisan: İngilizce abacus
 anlamlar:
 - ► sayı boncuğu

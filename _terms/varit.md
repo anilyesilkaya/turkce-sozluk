@@ -2,6 +2,7 @@
 layout: term
 title: varit
 slug: varit
+letter: V
 lisan: Arapça vārid
 anlamlar:
 - Olabileceği akla gelen

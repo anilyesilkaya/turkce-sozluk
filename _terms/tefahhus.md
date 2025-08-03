@@ -2,6 +2,7 @@
 layout: term
 title: tefahhus
 slug: tefahhus
+letter: T
 lisan: Arapça tefaḥḥuṣ
 anlamlar:
 - İnceden inceye araştırma

@@ -2,6 +2,7 @@
 layout: term
 title: milliyetsizlik
 slug: milliyetsizlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Milliyetsiz olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: arena
 slug: arena
+letter: A
 lisan: Fransızca arène
 anlamlar:
 - Boğa güreşi, yarış, oyun vb. gösteriler yapılan alan

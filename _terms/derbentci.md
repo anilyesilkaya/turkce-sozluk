@@ -2,6 +2,7 @@
 layout: term
 title: derbentçi
 slug: derbentci
+letter: D
 lisan: Türkçe
 anlamlar:
 - Geçit yerlerini korumakla görevli kimse

@@ -2,6 +2,7 @@
 layout: term
 title: namuskâr
 slug: namuskar
+letter: N
 lisan: Arapça nāmūs + Farsça -kār
 anlamlar:
 - ► namuslu

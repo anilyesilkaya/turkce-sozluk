@@ -2,6 +2,7 @@
 layout: term
 title: bayılabilmek
 slug: bayilabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bayılma ihtimali veya imkânı bulunmak

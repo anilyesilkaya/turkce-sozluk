@@ -2,6 +2,7 @@
 layout: term
 title: övme
 slug: ovme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Övmek işi; sena, medih, sitayiş

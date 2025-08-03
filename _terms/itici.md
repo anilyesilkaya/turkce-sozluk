@@ -2,6 +2,7 @@
 layout: term
 title: itici
 slug: itici
+letter: I
 lisan: Türkçe
 anlamlar:
 - İtme işini yapan

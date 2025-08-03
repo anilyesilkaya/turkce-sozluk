@@ -2,6 +2,7 @@
 layout: term
 title: meryemanaeli
 slug: meryemanaeli
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► havvaanaeli

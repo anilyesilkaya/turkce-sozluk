@@ -2,6 +2,7 @@
 layout: term
 title: alınganlık
 slug: alinganlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alıngan olma durumu

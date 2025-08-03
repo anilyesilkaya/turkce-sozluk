@@ -2,6 +2,7 @@
 layout: term
 title: denizköpüğü
 slug: denizkopugu
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► lüle taşı

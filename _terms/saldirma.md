@@ -2,6 +2,7 @@
 layout: term
 title: saldırma
 slug: saldirma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Saldırmak işi; tehacüm

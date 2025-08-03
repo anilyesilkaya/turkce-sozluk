@@ -2,6 +2,7 @@
 layout: term
 title: birtakımı
 slug: birtakimi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir bölümü, bir grubu

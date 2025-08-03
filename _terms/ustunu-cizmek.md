@@ -2,6 +2,7 @@
 layout: term
 title: üstünü çizmek
 slug: ustunu-cizmek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - kötü ve yararsız kabul etmek, gözden çıkarmak

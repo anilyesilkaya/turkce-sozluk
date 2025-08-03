@@ -2,6 +2,7 @@
 layout: term
 title: korktuğu başına gelmek
 slug: korktugu-basina-gelmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - düşünülen kötü durum gerçekleşmek

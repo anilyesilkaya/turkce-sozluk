@@ -2,6 +2,7 @@
 layout: term
 title: gölgede bırakmak
 slug: golgede-birakmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - ondan daha üstün bir düzeye yükselmek, ondan çok daha başarılı olmak

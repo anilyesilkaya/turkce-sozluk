@@ -2,6 +2,7 @@
 layout: term
 title: açmak
 slug: acmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir şeyi kapalı durumdan açık duruma getirmek

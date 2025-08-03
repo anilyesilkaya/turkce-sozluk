@@ -2,6 +2,7 @@
 layout: term
 title: gözsüz
 slug: gozsuz
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gözü olmayan

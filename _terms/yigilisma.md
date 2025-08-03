@@ -2,6 +2,7 @@
 layout: term
 title: yığılışma
 slug: yigilisma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yığılışmak işi

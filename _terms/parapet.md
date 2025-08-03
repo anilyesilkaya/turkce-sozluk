@@ -2,6 +2,7 @@
 layout: term
 title: parapet
 slug: parapet
+letter: P
 lisan: İtalyanca parapetto
 anlamlar:
 - ► küpeşte

@@ -2,6 +2,7 @@
 layout: term
 title: Şarkkâri
 slug: sarkkari
+letter: Ş
 lisan: Arapça şarḳ + Farsça kār + Arapça -i
 anlamlar:
 - Doğu örneklerine benzer

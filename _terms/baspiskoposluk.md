@@ -2,6 +2,7 @@
 layout: term
 title: başpiskoposluk
 slug: baspiskoposluk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başpiskopos olma durumu

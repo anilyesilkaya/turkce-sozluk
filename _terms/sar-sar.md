@@ -2,6 +2,7 @@
 layout: term
 title: şar şar
 slug: sar-sar
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► şarıl şarıl

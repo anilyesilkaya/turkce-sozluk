@@ -2,6 +2,7 @@
 layout: term
 title: nice
 slug: nice
+letter: N
 lisan: Türkçe
 anlamlar:
 - Kaç, ne kadar

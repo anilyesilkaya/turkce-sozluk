@@ -2,6 +2,7 @@
 layout: term
 title: soyluluk
 slug: soyluluk
+letter: S
 lisan: Türkçe
 anlamlar:
 - Soylu olma durumu; asillik, asilzadelik, beyzadelik, zadegânlık, asalet, asaletlilik, kerem

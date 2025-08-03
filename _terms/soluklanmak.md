@@ -2,6 +2,7 @@
 layout: term
 title: soluklanmak
 slug: soluklanmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Rahat bir biçimde soluk almak

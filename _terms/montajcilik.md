@@ -2,6 +2,7 @@
 layout: term
 title: montajcılık
 slug: montajcilik
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► kurguculuk

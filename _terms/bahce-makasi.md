@@ -2,6 +2,7 @@
 layout: term
 title: bahçe makası
 slug: bahce-makasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çeşitli ot ve bitkileri düzgün kesmek ve budamak amacıyla yapılan bir makas türü

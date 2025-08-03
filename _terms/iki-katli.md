@@ -2,6 +2,7 @@
 layout: term
 title: iki katlı
 slug: iki-katli
+letter: I
 lisan: Türkçe
 anlamlar:
 - İki katı olan; dubleks

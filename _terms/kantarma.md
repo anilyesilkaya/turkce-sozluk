@@ -2,6 +2,7 @@
 layout: term
 title: kantarma
 slug: kantarma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Azılı atları zapt etmek için dillerini bastıracak biçimde yapılmış demir araç

@@ -2,6 +2,7 @@
 layout: term
 title: dibek
 slug: dibek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Taştan veya ağaçtan yapılmış büyük havan

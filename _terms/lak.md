@@ -2,6 +2,7 @@
 layout: term
 title: lak
 slug: lak
+letter: L
 lisan: Türkçe
 anlamlar:
 - Uzak Doğu'da yetişen Amerikan elmasından çıkan zamk

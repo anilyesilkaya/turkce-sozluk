@@ -2,6 +2,7 @@
 layout: term
 title: yenidünya
 slug: yenidunya
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Gülgillerden, Akdeniz çevresinde yetişen, büyük, pürüzsüz ve sert yapraklı bir ağaç (Eriobotrya Japonica)

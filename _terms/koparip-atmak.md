@@ -2,6 +2,7 @@
 layout: term
 title: koparıp atmak
 slug: koparip-atmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - koparmak

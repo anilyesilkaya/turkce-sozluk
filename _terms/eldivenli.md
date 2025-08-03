@@ -2,6 +2,7 @@
 layout: term
 title: eldivenli
 slug: eldivenli
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eldiven giymiş olan

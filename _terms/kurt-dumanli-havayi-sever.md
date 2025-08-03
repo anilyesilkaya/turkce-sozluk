@@ -2,6 +2,7 @@
 layout: term
 title: kurt dumanlı havayı sever
 slug: kurt-dumanli-havayi-sever
+letter: K
 lisan: Türkçe
 anlamlar:
 - kötü niyetli kimselerin ortalıktaki karışıklıklardan yararlandıklarını anlatan bir söz

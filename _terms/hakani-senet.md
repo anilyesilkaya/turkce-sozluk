@@ -2,6 +2,7 @@
 layout: term
 title: hakani senet
 slug: hakani-senet
+letter: H
 lisan: Türkçe
 anlamlar:
 - Padişah tarafından verilen kullanım hakkı

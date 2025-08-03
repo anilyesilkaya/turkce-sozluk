@@ -2,6 +2,7 @@
 layout: term
 title: insiyaki
 slug: insiyaki
+letter: I
 lisan: Arapça insiyāḳī
 anlamlar:
 - ► içgüdüsel

@@ -2,6 +2,7 @@
 layout: term
 title: ihraç
 slug: ihrac
+letter: I
 lisan: Arapça iḫrāc
 anlamlar:
 - Çıkarma, dışarıya atma

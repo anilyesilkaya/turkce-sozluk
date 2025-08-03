@@ -2,6 +2,7 @@
 layout: term
 title: ufak çapta
 slug: ufak-capta
+letter: U
 lisan: Türkçe
 anlamlar:
 - Küçük olan

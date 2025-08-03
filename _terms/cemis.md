@@ -2,6 +2,7 @@
 layout: term
 title: çemiş
 slug: cemis
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Sıska, zayıf (kimse)

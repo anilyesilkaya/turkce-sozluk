@@ -2,6 +2,7 @@
 layout: term
 title: bir dikişte
 slug: bir-dikiste
+letter: B
 lisan: Türkçe
 anlamlar:
 - Ara vermeden (içmek)

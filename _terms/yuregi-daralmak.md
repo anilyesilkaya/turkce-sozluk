@@ -2,6 +2,7 @@
 layout: term
 title: yüreği daralmak
 slug: yuregi-daralmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - sıkılmak, bunalmak, içi daralmak

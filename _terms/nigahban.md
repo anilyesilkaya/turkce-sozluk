@@ -2,6 +2,7 @@
 layout: term
 title: nigâhban
 slug: nigahban
+letter: N
 lisan: Farsça nigāhbān
 anlamlar:
 - Gözleyen kimse, bekçi

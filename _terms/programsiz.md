@@ -2,6 +2,7 @@
 layout: term
 title: programsız
 slug: programsiz
+letter: P
 lisan: Türkçe
 anlamlar:
 - Belli bir programı olmayan

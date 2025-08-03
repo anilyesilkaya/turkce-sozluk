@@ -2,6 +2,7 @@
 layout: term
 title: büzülebilmek
 slug: buzulebilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Büzülme ihtimali veya imkânı bulunmak

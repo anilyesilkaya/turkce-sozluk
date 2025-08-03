@@ -2,6 +2,7 @@
 layout: term
 title: taşra
 slug: tasra
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir ülkenin başkenti veya en önemli şehirleri dışındaki yerlerin hepsi; dışarılık, dışarlık

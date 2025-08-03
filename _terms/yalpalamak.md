@@ -2,6 +2,7 @@
 layout: term
 title: yalpalamak
 slug: yalpalamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Dengesi bozularak bir sağa, bir sola eğilmek

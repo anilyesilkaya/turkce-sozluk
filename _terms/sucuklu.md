@@ -2,6 +2,7 @@
 layout: term
 title: sucuklu
 slug: sucuklu
+letter: S
 lisan: Türkçe
 anlamlar:
 - İçinde sucuk bulunan

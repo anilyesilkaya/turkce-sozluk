@@ -2,6 +2,7 @@
 layout: term
 title: allame
 slug: allame
+letter: A
 lisan: Arapça ʿallāme
 anlamlar:
 - Çok ve derin bilgisi olan, çok bilgili

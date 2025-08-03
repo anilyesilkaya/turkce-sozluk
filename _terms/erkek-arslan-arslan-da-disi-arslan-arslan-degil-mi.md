@@ -2,6 +2,7 @@
 layout: term
 title: erkek arslan arslan da dişi arslan arslan değil mi?
 slug: erkek-arslan-arslan-da-disi-arslan-arslan-degil-mi
+letter: E
 lisan: Türkçe
 anlamlar:
 - '`güçlülük ve yüreklilik yalnızca erkeklerde değil kadınlarda da vardır` anlamında kullanılan bir söz'

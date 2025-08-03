@@ -2,6 +2,7 @@
 layout: term
 title: suare
 slug: suare
+letter: S
 lisan: Fransızca soirée
 anlamlar:
 - ► gece gösterimi

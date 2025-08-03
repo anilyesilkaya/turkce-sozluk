@@ -2,6 +2,7 @@
 layout: term
 title: çıralı
 slug: cirali
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çırası olan

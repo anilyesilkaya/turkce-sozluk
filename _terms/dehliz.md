@@ -2,6 +2,7 @@
 layout: term
 title: dehliz
 slug: dehliz
+letter: D
 lisan: Farsça dehlīz
 anlamlar:
 - Üstü kapalı, dar ve uzun geçit

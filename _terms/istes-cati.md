@@ -2,6 +2,7 @@
 layout: term
 title: işteş çatı
 slug: istes-cati
+letter: I
 lisan: Türkçe
 anlamlar:
 - 'Fiilin karşılıklı veya toplu olarak birden çok özne tarafından yapıldığını bildiren ve -ş- ekiyle kurulan çatı; müşareket: görüşmek (gör-üş-mek), koşuşmak (koş-uş-mak) vb'

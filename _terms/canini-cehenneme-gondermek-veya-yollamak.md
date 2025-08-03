@@ -2,6 +2,7 @@
 layout: term
 title: canını cehenneme göndermek (veya yollamak)
 slug: canini-cehenneme-gondermek-veya-yollamak
+letter: C
 lisan: Türkçe
 anlamlar:
 - öldürmek

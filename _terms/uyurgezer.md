@@ -2,6 +2,7 @@
 layout: term
 title: uyurgezer
 slug: uyurgezer
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uykusu sırasında konuşan, yürüyen (kimse); sairfilmenam

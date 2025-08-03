@@ -2,6 +2,7 @@
 layout: term
 title: bahçıvan
 slug: bahcivan
+letter: B
 lisan: Farsça bāġçevān
 anlamlar:
 - Bir bahçenin düzenlenmesi ve bakımıyla uğraşan kimse; bağban

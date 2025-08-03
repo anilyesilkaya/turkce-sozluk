@@ -2,6 +2,7 @@
 layout: term
 title: tarikat
 slug: tarikat
+letter: T
 lisan: Arapça ṭarīḳat
 anlamlar:
 - Aynı dinin içinde birtakım yorum ve uygulama farklılıklarına dayanan, bazı ilkelerde birbirinden ayrılan Tanrı'ya ulaşma ve onu tanıma yollarından her biri

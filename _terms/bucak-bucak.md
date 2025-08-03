@@ -2,6 +2,7 @@
 layout: term
 title: bucak bucak
 slug: bucak-bucak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Her yerde, her yanda, her tarafta

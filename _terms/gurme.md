@@ -2,6 +2,7 @@
 layout: term
 title: gurme
 slug: gurme
+letter: G
 lisan: Fransızca gourmet
 anlamlar:
 - Yiyecek ve içecek konusunda uzmanlık ölçüsünde bilgisi bulunan, tadına bakan ve lezzetini değerlendiren (kimse); tatbilir

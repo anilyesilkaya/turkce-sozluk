@@ -2,6 +2,7 @@
 layout: term
 title: sofist
 slug: sofist
+letter: S
 lisan: Fransızca sophiste
 anlamlar:
 - ► bilgici

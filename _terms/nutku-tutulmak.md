@@ -2,6 +2,7 @@
 layout: term
 title: nutku tutulmak
 slug: nutku-tutulmak
+letter: N
 lisan: Türkçe
 anlamlar:
 - korkudan, şaşkınlıktan veya öfkeden konuşamaz olmak

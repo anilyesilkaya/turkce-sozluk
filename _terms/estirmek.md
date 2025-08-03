@@ -2,6 +2,7 @@
 layout: term
 title: eştirmek
 slug: estirmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Atı hızlı sürmek, koşturmak

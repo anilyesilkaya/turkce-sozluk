@@ -2,6 +2,7 @@
 layout: term
 title: karşı açıdan bakmak
 slug: karsi-acidan-bakmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir düşünce veya olayı diğer tarafa göre değerlendirmek

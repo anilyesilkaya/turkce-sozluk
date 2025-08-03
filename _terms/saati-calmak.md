@@ -2,6 +2,7 @@
 layout: term
 title: saati çalmak
 slug: saati-calmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - bir şeyin vakti gelmek

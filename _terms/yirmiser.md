@@ -2,6 +2,7 @@
 layout: term
 title: yirmişer
 slug: yirmiser
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yirmi sayısının üleştirme sayı sıfatı

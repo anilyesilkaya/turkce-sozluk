@@ -2,6 +2,7 @@
 layout: term
 title: abone
 slug: abone
+letter: A
 lisan: Fransızca abonné
 anlamlar:
 - Bir şeyi sürekli olarak kullanmak için hizmeti verenle sözleşme yapan kimse; sürdürümcü

@@ -2,6 +2,7 @@
 layout: term
 title: kurumsal
 slug: kurumsal
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kurumla ilgili

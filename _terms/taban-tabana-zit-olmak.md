@@ -2,6 +2,7 @@
 layout: term
 title: taban tabana zıt (olmak)
 slug: taban-tabana-zit-olmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - birbirine son derece aykırı

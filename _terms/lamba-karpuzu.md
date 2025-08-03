@@ -2,6 +2,7 @@
 layout: term
 title: lamba karpuzu
 slug: lamba-karpuzu
+letter: L
 lisan: Türkçe
 anlamlar:
 - Işığı yumuşatmak için lambalara geçirilen, mat camdan, basık vb. değişik biçimlerde nesne; karpuz, karpuz lamba

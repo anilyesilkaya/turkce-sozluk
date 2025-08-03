@@ -2,6 +2,7 @@
 layout: term
 title: seneye
 slug: seneye
+letter: S
 lisan: Türkçe
 anlamlar:
 - Gelecek sene

@@ -2,6 +2,7 @@
 layout: term
 title: izci
 slug: izci
+letter: I
 lisan: Türkçe
 anlamlar:
 - İz güderek aradığını bulabilen kimse; keşşaf

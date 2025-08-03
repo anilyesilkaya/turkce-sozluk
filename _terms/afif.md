@@ -2,6 +2,7 @@
 layout: term
 title: afif
 slug: afif
+letter: A
 lisan: Arapça ʿafīf
 anlamlar:
 - ► iffetli (erkek)

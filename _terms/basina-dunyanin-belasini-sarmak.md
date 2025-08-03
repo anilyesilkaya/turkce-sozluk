@@ -2,6 +2,7 @@
 layout: term
 title: başına dünyanın belasını sarmak
 slug: basina-dunyanin-belasini-sarmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - büyük felaket getirmek

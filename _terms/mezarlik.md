@@ -2,6 +2,7 @@
 layout: term
 title: mezarlık
 slug: mezarlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mezarların bulunduğu yer; kabristan, gömütlük, sinle, sinlik, tahtalıköy, mezaristan, bamyatarlası

@@ -2,6 +2,7 @@
 layout: term
 title: seyredivermek
 slug: seyredivermek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir anda seyretmek

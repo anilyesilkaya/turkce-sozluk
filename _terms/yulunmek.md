@@ -2,6 +2,7 @@
 layout: term
 title: yülünmek
 slug: yulunmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Tıraş olmak

@@ -2,6 +2,7 @@
 layout: term
 title: oğlanevi
 slug: oglanevi
+letter: O
 lisan: Türkçe
 anlamlar:
 - Evlenme sürecinde erkek tarafı; erkekevi

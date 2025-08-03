@@ -2,6 +2,7 @@
 layout: term
 title: geçeli
 slug: geceli
+letter: G
 lisan: Türkçe
 anlamlar:
 - Geçesi (II) olan

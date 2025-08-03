@@ -2,6 +2,7 @@
 layout: term
 title: düzenleyebilmek
 slug: duzenleyebilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düzenleme ihtimali veya imkânı bulunmak

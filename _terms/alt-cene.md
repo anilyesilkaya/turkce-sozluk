@@ -2,6 +2,7 @@
 layout: term
 title: alt çene
 slug: alt-cene
+letter: A
 lisan: Türkçe
 anlamlar:
 - İnsan ve hayvanlarda yiyecekleri çiğnemeye yarayan, oynayabilen çene

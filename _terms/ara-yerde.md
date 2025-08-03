@@ -2,6 +2,7 @@
 layout: term
 title: ara yerde
 slug: ara-yerde
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arada

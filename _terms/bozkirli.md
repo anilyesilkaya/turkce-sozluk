@@ -2,6 +2,7 @@
 layout: term
 title: bozkırlı
 slug: bozkirli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bozkırı olan

@@ -2,6 +2,7 @@
 layout: term
 title: aynısefa
 slug: aynisefa
+letter: A
 lisan: Arapça ʿayn + ṣafā
 anlamlar:
 - Birleşikgillerden, çiçekleri sarı renkli bir kır bitkisi (Calendula arvensis)

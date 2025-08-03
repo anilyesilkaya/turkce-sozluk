@@ -2,6 +2,7 @@
 layout: term
 title: payton
 slug: payton
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► fayton

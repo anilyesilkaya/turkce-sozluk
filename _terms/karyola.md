@@ -2,6 +2,7 @@
 layout: term
 title: karyola
 slug: karyola
+letter: K
 lisan: İtalyanca carriola
 anlamlar:
 - Üzerine yatak konulup yatılan tahta veya metal ev eşyası

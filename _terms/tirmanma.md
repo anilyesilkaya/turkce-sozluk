@@ -2,6 +2,7 @@
 layout: term
 title: tırmanma
 slug: tirmanma
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tırmanmak işi

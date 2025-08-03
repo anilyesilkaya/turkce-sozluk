@@ -2,6 +2,7 @@
 layout: term
 title: karadut
 slug: karadut
+letter: K
 lisan: Türkçe
 anlamlar:
 - Siyah renkte olan bir tür dut

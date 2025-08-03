@@ -2,6 +2,7 @@
 layout: term
 title: Başak Burcu
 slug: basak-burcu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Zodyak üzerinde Aslan Burcu ile Terazi Burcu arasında bulunan takımyıldızın adı; Başak

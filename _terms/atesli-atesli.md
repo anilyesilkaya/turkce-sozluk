@@ -2,6 +2,7 @@
 layout: term
 title: ateşli ateşli
 slug: atesli-atesli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yoğun ve heyecanlı bir biçimde

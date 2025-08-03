@@ -2,6 +2,7 @@
 layout: term
 title: mücella
 slug: mucella
+letter: M
 lisan: Arapça mucellā
 anlamlar:
 - ► cilalı

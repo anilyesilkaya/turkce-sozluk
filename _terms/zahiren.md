@@ -2,6 +2,7 @@
 layout: term
 title: zahiren
 slug: zahiren
+letter: Z
 lisan: Arapça ẓāhiren
 anlamlar:
 - ► görünüşte

@@ -2,6 +2,7 @@
 layout: term
 title: baklava dilimi
 slug: baklava-dilimi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Eşkenar dörtgen biçimi

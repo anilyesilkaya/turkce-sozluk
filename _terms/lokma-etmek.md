@@ -2,6 +2,7 @@
 layout: term
 title: lokma etmek
 slug: lokma-etmek
+letter: L
 lisan: Türkçe
 anlamlar:
 - yemek yemek

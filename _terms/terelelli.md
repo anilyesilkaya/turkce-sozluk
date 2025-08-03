@@ -2,6 +2,7 @@
 layout: term
 title: terelelli
 slug: terelelli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Hafif kaçık, dengesiz olan

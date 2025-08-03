@@ -2,6 +2,7 @@
 layout: term
 title: aksırık
 slug: aksirik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► hapşırık

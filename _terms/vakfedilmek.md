@@ -2,6 +2,7 @@
 layout: term
 title: vakfedilmek
 slug: vakfedilmek
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vakfetme işi yapılmak

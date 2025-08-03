@@ -2,6 +2,7 @@
 layout: term
 title: Hint tavuğu
 slug: hint-tavugu
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hindistan kökenli, tepe ibiği küçük, yüzü ve kulakları kırmızı olan, dövüşçü bir tür tavuk

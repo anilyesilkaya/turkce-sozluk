@@ -2,6 +2,7 @@
 layout: term
 title: çatma
 slug: catma
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çatmak işi

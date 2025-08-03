@@ -2,6 +2,7 @@
 layout: term
 title: muamele görmek
 slug: muamele-gormek
+letter: M
 lisan: Türkçe
 anlamlar:
 - işlem uygulanmak, davranılmak

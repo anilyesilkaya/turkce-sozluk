@@ -2,6 +2,7 @@
 layout: term
 title: bakırsı
 slug: bakirsi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bakırı andıran, bakıra benzeyen, bakır gibi; bakırımsı

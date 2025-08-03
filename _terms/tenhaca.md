@@ -2,6 +2,7 @@
 layout: term
 title: tenhaca
 slug: tenhaca
+letter: T
 lisan: Türkçe
 anlamlar:
 - Kalabalık olmayan

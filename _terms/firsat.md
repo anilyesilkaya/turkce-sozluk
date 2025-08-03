@@ -2,6 +2,7 @@
 layout: term
 title: fırsat
 slug: firsat
+letter: F
 lisan: Arapça furṣat
 anlamlar:
 - Herhangi bir şey için en uygun zaman, uygun durum veya şart; vesile, okazyon

@@ -2,6 +2,7 @@
 layout: term
 title: düğün dernek
 slug: dugun-dernek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Evlenme dolayısıyla yapılan kutlama töreni ve eğlence

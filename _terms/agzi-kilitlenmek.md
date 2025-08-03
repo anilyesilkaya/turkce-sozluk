@@ -2,6 +2,7 @@
 layout: term
 title: ağzı kilitlenmek
 slug: agzi-kilitlenmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - konuşamaz duruma gelmek

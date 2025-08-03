@@ -2,6 +2,7 @@
 layout: term
 title: sarsıntıya uğramak
 slug: sarsintiya-ugramak
+letter: S
 lisan: Türkçe
 anlamlar:
 - beklenmedik bir olaydan çok etkilenmek, üzülmek

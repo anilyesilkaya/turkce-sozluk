@@ -2,6 +2,7 @@
 layout: term
 title: tüp bebek
 slug: tup-bebek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Üreme organlarındaki rahatsızlıklar yüzünden yumurtanın ana rahminin dışında döllenmesi ve sonra ana rahmine yerleştirilmesi sonucunda doğan bebek

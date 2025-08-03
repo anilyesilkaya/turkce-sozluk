@@ -2,6 +2,7 @@
 layout: term
 title: cumba
 slug: cumba
+letter: C
 lisan: Farsça cunbed
 anlamlar:
 - Yapıların üst katlarında, ana duvarların dışına, sokağa doğru çıkıntı yapmış, binanın ön cephesine yaslanan payandalarla desteklenen oda bölmesi; çıkma

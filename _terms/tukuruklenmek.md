@@ -2,6 +2,7 @@
 layout: term
 title: tükürüklenmek
 slug: tukuruklenmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tükürükleme işine konu olmak

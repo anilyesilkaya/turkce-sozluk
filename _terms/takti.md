@@ -2,6 +2,7 @@
 layout: term
 title: takti
 slug: takti
+letter: T
 lisan: Arapça taḳṭīʿ
 anlamlar:
 - Bir şeyi kesme, parçalama

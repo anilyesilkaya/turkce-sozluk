@@ -2,6 +2,7 @@
 layout: term
 title: mavi yolculuk
 slug: mavi-yolculuk
+letter: M
 lisan: Türkçe
 anlamlar:
 - Kıyı boyunca koy koy veya ada ada dolaşılarak yapılan gezi

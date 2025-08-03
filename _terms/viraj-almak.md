@@ -2,6 +2,7 @@
 layout: term
 title: viraj almak
 slug: viraj-almak
+letter: V
 lisan: Türkçe
 anlamlar:
 - virajı dönmek

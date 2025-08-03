@@ -2,6 +2,7 @@
 layout: term
 title: küpe
 slug: kupe
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kulak memelerine takılan süs eşyası

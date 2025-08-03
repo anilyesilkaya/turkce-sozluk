@@ -2,6 +2,7 @@
 layout: term
 title: gün
 slug: gun
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► güneş

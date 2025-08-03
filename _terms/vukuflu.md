@@ -2,6 +2,7 @@
 layout: term
 title: vukuflu
 slug: vukuflu
+letter: V
 lisan: Türkçe
 anlamlar:
 - Bilgisi olan

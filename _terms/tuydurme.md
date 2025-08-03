@@ -2,6 +2,7 @@
 layout: term
 title: tüydürme
 slug: tuydurme
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tüydürmek işi

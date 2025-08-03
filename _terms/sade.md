@@ -2,6 +2,7 @@
 layout: term
 title: sade
 slug: sade
+letter: S
 lisan: Farsça sāde
 anlamlar:
 - ► süssüz

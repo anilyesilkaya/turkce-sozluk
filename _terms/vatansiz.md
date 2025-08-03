@@ -2,6 +2,7 @@
 layout: term
 title: vatansız
 slug: vatansiz
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vatanı olmayan

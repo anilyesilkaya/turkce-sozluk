@@ -2,6 +2,7 @@
 layout: term
 title: dereceleniş
 slug: derecelenis
+letter: D
 lisan: Türkçe
 anlamlar:
 - Derecelenmek işi

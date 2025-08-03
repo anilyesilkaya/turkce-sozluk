@@ -2,6 +2,7 @@
 layout: term
 title: gözetim altında tutmak
 slug: gozetim-altinda-tutmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - göz önünden ayırmamak

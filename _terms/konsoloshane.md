@@ -2,6 +2,7 @@
 layout: term
 title: konsoloshane
 slug: konsoloshane
+letter: K
 lisan: Rumca + Farsça ḫāne
 anlamlar:
 - ► konsolosluk

@@ -2,6 +2,7 @@
 layout: term
 title: dipleme
 slug: dipleme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Diplemek işi

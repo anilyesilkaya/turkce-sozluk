@@ -2,6 +2,7 @@
 layout: term
 title: otalamak
 slug: otalamak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Zehirlemek, ağılamak

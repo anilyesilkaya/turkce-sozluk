@@ -2,6 +2,7 @@
 layout: term
 title: hatif
 slug: hatif
+letter: H
 lisan: Arapça hātif
 anlamlar:
 - Sesi işitilen fakat kendisi görülmeyen

@@ -2,6 +2,7 @@
 layout: term
 title: yok yere
 slug: yok-yere
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Hiçbir gereği ve sebebi olmadan; boku bokuna

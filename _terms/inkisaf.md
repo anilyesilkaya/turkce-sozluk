@@ -2,6 +2,7 @@
 layout: term
 title: inkişaf
 slug: inkisaf
+letter: I
 lisan: Arapça inkişāf
 anlamlar:
 - ► gelişme

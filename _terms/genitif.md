@@ -2,6 +2,7 @@
 layout: term
 title: genitif
 slug: genitif
+letter: G
 lisan: Fransızca génitif
 anlamlar:
 - ► ilgi durumu

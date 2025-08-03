@@ -2,6 +2,7 @@
 layout: term
 title: şanına yedirememek
 slug: sanina-yedirememek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - yenilgiyi kabul edememek

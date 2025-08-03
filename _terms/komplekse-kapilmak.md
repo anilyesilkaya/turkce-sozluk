@@ -2,6 +2,7 @@
 layout: term
 title: komplekse kapılmak
 slug: komplekse-kapilmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - duygu karmaşası içine girmek

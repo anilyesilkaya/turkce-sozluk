@@ -2,6 +2,7 @@
 layout: term
 title: dilini bağlamak
 slug: dilini-baglamak
+letter: D
 lisan: Türkçe
 anlamlar:
 - bir kimseyi herhangi bir sebeple söz söyleyemez duruma getirmek, susmak zorunda bırakmak

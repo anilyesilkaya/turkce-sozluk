@@ -2,6 +2,7 @@
 layout: term
 title: doğal konuşucu
 slug: dogal-konusucu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir dili ana dili olarak konuşan kimse

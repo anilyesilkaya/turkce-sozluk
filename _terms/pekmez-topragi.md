@@ -2,6 +2,7 @@
 layout: term
 title: pekmez toprağı
 slug: pekmez-topragi
+letter: P
 lisan: Türkçe
 anlamlar:
 - Üzüm şırasını kestirmek için kullanılan, kil ile karışık kireçli toprak

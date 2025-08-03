@@ -2,6 +2,7 @@
 layout: term
 title: kıvrılma
 slug: kivrilma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kıvrılmak işi

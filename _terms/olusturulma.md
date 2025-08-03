@@ -2,6 +2,7 @@
 layout: term
 title: oluşturulma
 slug: olusturulma
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oluşturulmak işi

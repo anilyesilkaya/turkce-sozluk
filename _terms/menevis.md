@@ -2,6 +2,7 @@
 layout: term
 title: meneviş
 slug: menevis
+letter: M
 lisan: Farsça meneviş
 anlamlar:
 - ► hare

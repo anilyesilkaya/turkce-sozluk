@@ -2,6 +2,7 @@
 layout: term
 title: çok taraflı
 slug: cok-tarafli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çok yönlü

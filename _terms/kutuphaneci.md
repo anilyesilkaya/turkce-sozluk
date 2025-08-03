@@ -2,6 +2,7 @@
 layout: term
 title: kütüphaneci
 slug: kutuphaneci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kütüphanede görevli kimse; bibliyotekçi

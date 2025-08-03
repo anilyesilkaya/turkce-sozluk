@@ -2,6 +2,7 @@
 layout: term
 title: çoktandır
 slug: coktandir
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çoktan

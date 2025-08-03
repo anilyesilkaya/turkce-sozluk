@@ -2,6 +2,7 @@
 layout: term
 title: duman
 slug: duman
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir maddenin yanması ile çıkan ve içinde katı zerrelerle buğu bulunan değişik renklerde gaz; tütün

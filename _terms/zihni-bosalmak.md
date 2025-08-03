@@ -2,6 +2,7 @@
 layout: term
 title: zihni boşalmak
 slug: zihni-bosalmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - kafası rahat ve dingin olmak

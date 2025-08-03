@@ -2,6 +2,7 @@
 layout: term
 title: bünye
 slug: bunye
+letter: B
 lisan: Arapça bunye
 anlamlar:
 - Vücut yapısı

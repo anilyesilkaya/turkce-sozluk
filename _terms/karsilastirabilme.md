@@ -2,6 +2,7 @@
 layout: term
 title: karşılaştırabilme
 slug: karsilastirabilme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karşılaştırabilmek işi

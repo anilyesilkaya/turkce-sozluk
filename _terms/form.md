@@ -2,6 +2,7 @@
 layout: term
 title: form
 slug: form
+letter: F
 lisan: Fransızca forme
 anlamlar:
 - ► biçim (II)

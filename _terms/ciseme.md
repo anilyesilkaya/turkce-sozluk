@@ -2,6 +2,7 @@
 layout: term
 title: çiseme
 slug: ciseme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çiseleme

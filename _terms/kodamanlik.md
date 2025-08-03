@@ -2,6 +2,7 @@
 layout: term
 title: kodamanlık
 slug: kodamanlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kodaman olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: uydumculuk
 slug: uydumculuk
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uydumcu olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: av kuşu
 slug: av-kusu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Avlanması yasaklanmayan ve eti için avlanan kuş

@@ -2,6 +2,7 @@
 layout: term
 title: nimet hakkı (için)
 slug: nimet-hakki-icin
+letter: N
 lisan: Türkçe
 anlamlar:
 - yenilen, içilen şeyler üstüne edilen bir yemin sözü

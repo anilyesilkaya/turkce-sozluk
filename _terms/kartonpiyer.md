@@ -2,6 +2,7 @@
 layout: term
 title: kartonpiyer
 slug: kartonpiyer
+letter: K
 lisan: Fransızca carton-pierre
 anlamlar:
 - Çoğunlukla duvar ve tavan ara kesitleriyle tavan göbeklerinde süsleme amacıyla kullanılan sertleştirilmiş alçı

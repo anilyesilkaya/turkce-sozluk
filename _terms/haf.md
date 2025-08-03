@@ -2,6 +2,7 @@
 layout: term
 title: haf
 slug: haf
+letter: H
 lisan: İngilizce half
 anlamlar:
 - Hücumcularla savunucular arasında yer alan oyuncu

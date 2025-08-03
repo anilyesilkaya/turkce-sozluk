@@ -2,6 +2,7 @@
 layout: term
 title: kayınbaba
 slug: kayinbaba
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kaynata

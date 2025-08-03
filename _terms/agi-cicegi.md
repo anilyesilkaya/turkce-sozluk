@@ -2,6 +2,7 @@
 layout: term
 title: ağı çiçeği
 slug: agi-cicegi
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► zakkum

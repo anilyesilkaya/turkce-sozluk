@@ -2,6 +2,7 @@
 layout: term
 title: kasavet çekmek
 slug: kasavet-cekmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - sıkıntı içinde olmak

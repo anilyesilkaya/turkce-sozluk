@@ -2,6 +2,7 @@
 layout: term
 title: hürmetsizce
 slug: hurmetsizce
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► saygısızca

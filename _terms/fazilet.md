@@ -2,6 +2,7 @@
 layout: term
 title: fazilet
 slug: fazilet
+letter: F
 lisan: Arapça fażīlet
 anlamlar:
 - ► erdem

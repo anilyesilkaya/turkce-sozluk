@@ -2,6 +2,7 @@
 layout: term
 title: sonuşmaz
 slug: sonusmaz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sonsuza giden bir eğrinin çeşitli noktalarının gittikçe yaklaştığı başka bir eğri veya doğru; asimptot

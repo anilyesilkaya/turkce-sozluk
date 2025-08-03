@@ -2,6 +2,7 @@
 layout: term
 title: oğul balı
 slug: ogul-bali
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oğulun yaptığı bal

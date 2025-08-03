@@ -2,6 +2,7 @@
 layout: term
 title: uknum
 slug: uknum
+letter: U
 lisan: Arapça uḳnūm
 anlamlar:
 - ► esas

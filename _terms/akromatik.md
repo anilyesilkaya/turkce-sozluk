@@ -2,6 +2,7 @@
 layout: term
 title: akromatik
 slug: akromatik
+letter: A
 lisan: Fransızca achromatique
 anlamlar:
 - Beyaz ışığı çözümlemeden geçiren; renksemez

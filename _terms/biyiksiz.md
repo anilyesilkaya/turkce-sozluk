@@ -2,6 +2,7 @@
 layout: term
 title: bıyıksız
 slug: biyiksiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bıyığı olmayan, bıyığını tıraş etmiş olan

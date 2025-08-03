@@ -2,6 +2,7 @@
 layout: term
 title: cevaplanmak
 slug: cevaplanmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cevaplama işi yapılmak; yanıtlanmak

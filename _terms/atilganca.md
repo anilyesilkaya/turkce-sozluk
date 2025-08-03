@@ -2,6 +2,7 @@
 layout: term
 title: atılganca
 slug: atilganca
+letter: A
 lisan: Türkçe
 anlamlar:
 - Atılgana yakışan

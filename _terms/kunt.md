@@ -2,6 +2,7 @@
 layout: term
 title: kunt
 slug: kunt
+letter: K
 lisan: Farsça kund
 anlamlar:
 - Ağır, kalın, dayanıklı ve sağlam

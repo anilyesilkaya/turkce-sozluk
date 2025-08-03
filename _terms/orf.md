@@ -2,6 +2,7 @@
 layout: term
 title: örf
 slug: orf
+letter: Ö
 lisan: Arapça ʿurf
 anlamlar:
 - ► gelenek

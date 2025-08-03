@@ -2,6 +2,7 @@
 layout: term
 title: akşam yemeği
 slug: aksam-yemegi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Akşam saatlerinde yenilen yemek

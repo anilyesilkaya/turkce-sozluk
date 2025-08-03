@@ -2,6 +2,7 @@
 layout: term
 title: hava kesesi
 slug: hava-kesesi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Balıklarda, iç organların üzerinde bulunan ve su içinde balığın dengede durmasını sağlayan tek veya iki bölmeli balon biçiminde organ; yüzme kesesi

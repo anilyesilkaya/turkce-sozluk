@@ -2,6 +2,7 @@
 layout: term
 title: inikâs
 slug: inikas
+letter: I
 lisan: Arapça inʿikās
 anlamlar:
 - ► yansı

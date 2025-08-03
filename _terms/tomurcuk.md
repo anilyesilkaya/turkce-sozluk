@@ -2,6 +2,7 @@
 layout: term
 title: tomurcuk
 slug: tomurcuk
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir bitkinin üzerinde bulunan ve ileride sap, çiçek veya yaprak verecek olan filiz; domur

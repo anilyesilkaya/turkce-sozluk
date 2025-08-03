@@ -2,6 +2,7 @@
 layout: term
 title: tufaya gelmek (veya düşmek)
 slug: tufaya-gelmek-veya-dusmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - soyulmak

@@ -2,6 +2,7 @@
 layout: term
 title: ait olmak
 slug: ait-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - birinin olmak

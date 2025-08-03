@@ -2,6 +2,7 @@
 layout: term
 title: mukassi
 slug: mukassi
+letter: M
 lisan: Arapça muḳassī
 anlamlar:
 - ► sıkıntılı

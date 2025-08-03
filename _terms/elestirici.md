@@ -2,6 +2,7 @@
 layout: term
 title: eleştirici
 slug: elestirici
+letter: E
 lisan: Türkçe
 anlamlar:
 - Bir işi bütün incelikleriyle değerlendiren

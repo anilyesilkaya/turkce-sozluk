@@ -2,6 +2,7 @@
 layout: term
 title: kulağını sağır etmek
 slug: kulagini-sagir-etmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - işitemez duruma getirmek

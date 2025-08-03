@@ -2,6 +2,7 @@
 layout: term
 title: araçsallaştırmak
 slug: aracsallastirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kendi hedeflerine, planlarına ulaşabilmek için herhangi bir şeyi, değeri araç olarak kullanmak

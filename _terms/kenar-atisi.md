@@ -2,6 +2,7 @@
 layout: term
 title: kenar atışı
 slug: kenar-atisi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Hentbolda oyun alanından çıkan topu kenar çizgisinden oyuna sokma atışı

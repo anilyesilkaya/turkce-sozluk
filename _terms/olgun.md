@@ -2,6 +2,7 @@
 layout: term
 title: olgun
 slug: olgun
+letter: O
 lisan: Türkçe
 anlamlar:
 - Yenecek duruma gelmiş (meyve)

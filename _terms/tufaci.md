@@ -2,6 +2,7 @@
 layout: term
 title: tufacı
 slug: tufaci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Özellikle geceleri hırsızlık yapan kimse

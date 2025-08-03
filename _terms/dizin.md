@@ -2,6 +2,7 @@
 layout: term
 title: dizin
 slug: dizin
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir kitabın veya derginin kişi, konu, yer adı vb. bakımından içindekileri yer numarasıyla belirten ve eserin arkasında yer alan alfabetik liste; endeks, indeks, fihrist

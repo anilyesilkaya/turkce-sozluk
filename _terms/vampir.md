@@ -2,6 +2,7 @@
 layout: term
 title: vampir
 slug: vampir
+letter: V
 lisan: Fransızca vampire
 anlamlar:
 - İnsanların kanını emdiğine inanılan yaratık

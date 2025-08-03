@@ -2,6 +2,7 @@
 layout: term
 title: doğal gaz
 slug: dogal-gaz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Yer kabuğunun içinde bulunan, yakıt olarak önem sıralamasında ham petrolden sonra ikinci sırayı alan ve petrolün bir cinsi olan yanıcı gaz; gaz (II)

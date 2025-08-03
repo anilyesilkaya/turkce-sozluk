@@ -2,6 +2,7 @@
 layout: term
 title: korumaya almak
 slug: korumaya-almak
+letter: K
 lisan: Türkçe
 anlamlar:
 - tehlikede olduğu düşünülen bir kimseyi veya eseri saldırılardan korumak üzere önlem almak

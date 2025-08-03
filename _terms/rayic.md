@@ -2,6 +2,7 @@
 layout: term
 title: rayiç
 slug: rayic
+letter: R
 lisan: Arapça rāyic
 anlamlar:
 - Bir para biriminin veya malın satış ve sürüm değeri

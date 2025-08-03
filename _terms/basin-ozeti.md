@@ -2,6 +2,7 @@
 layout: term
 title: basın özeti
 slug: basin-ozeti
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belli bir tarihte çeşitli gazetelerde yer alan günün önemli haberlerinin bir başka basın kuruluşu tarafından hazırlanan özeti

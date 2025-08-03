@@ -2,6 +2,7 @@
 layout: term
 title: lekelenmek
 slug: lekelenmek
+letter: L
 lisan: Türkçe
 anlamlar:
 - Leke oluşmak

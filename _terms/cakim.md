@@ -2,6 +2,7 @@
 layout: term
 title: çakım
 slug: cakim
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► kıvılcım

@@ -2,6 +2,7 @@
 layout: term
 title: bitişebilme
 slug: bitisebilme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bitişebilmek işi

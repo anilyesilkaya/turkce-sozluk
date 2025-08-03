@@ -2,6 +2,7 @@
 layout: term
 title: mezkûr
 slug: mezkur
+letter: M
 lisan: Arapça meẕkūr
 anlamlar:
 - Adı geçen, anılan, sözü edilen, zikredilen, zikrolunan

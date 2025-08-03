@@ -2,6 +2,7 @@
 layout: term
 title: galvano
 slug: galvano
+letter: G
 lisan: Fransızca galvano
 anlamlar:
 - Elektroliz yoluyla yapılmış resim klişesi

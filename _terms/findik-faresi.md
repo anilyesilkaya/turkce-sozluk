@@ -2,6 +2,7 @@
 layout: term
 title: fındık faresi
 slug: findik-faresi
+letter: F
 lisan: Türkçe
 anlamlar:
 - Kemiricilerden, karnı beyazımsı, sırtı boz renkli, fındıklıklarda çok zarara yol açan bir tür memeli; fındık sıçanı (Muscardinus avellanarius)

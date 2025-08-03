@@ -2,6 +2,7 @@
 layout: term
 title: ağzının suyu akmak
 slug: agzinin-suyu-akmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - çok beğenip istemek, imrenmek

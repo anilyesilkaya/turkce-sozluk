@@ -2,6 +2,7 @@
 layout: term
 title: böcekli
 slug: bocekli
+letter: B
 lisan: Türkçe
 anlamlar:
 - İçinde veya üstünde böcek bulunan, böceklenmiş

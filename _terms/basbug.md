@@ -2,6 +2,7 @@
 layout: term
 title: başbuğ
 slug: basbug
+letter: B
 lisan: Türkçe
 anlamlar:
 - Eski Türklerde devletin veya ordunun başında olan kimse

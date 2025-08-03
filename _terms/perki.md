@@ -2,6 +2,7 @@
 layout: term
 title: perki
 slug: perki
+letter: P
 lisan: Rumca
 anlamlar:
 - ► tatlısu levreği

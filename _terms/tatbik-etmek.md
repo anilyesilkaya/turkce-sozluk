@@ -2,6 +2,7 @@
 layout: term
 title: tatbik etmek
 slug: tatbik-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - uygulamak

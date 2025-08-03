@@ -2,6 +2,7 @@
 layout: term
 title: birikim
 slug: birikim
+letter: B
 lisan: Türkçe
 anlamlar:
 - Birikme, bir yerde toplanıp yığılma

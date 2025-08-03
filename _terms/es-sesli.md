@@ -2,6 +2,7 @@
 layout: term
 title: eş sesli
 slug: es-sesli
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► sesteş

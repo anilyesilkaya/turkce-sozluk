@@ -2,6 +2,7 @@
 layout: term
 title: jarse
 slug: jarse
+letter: J
 lisan: Fransızca jersey
 anlamlar:
 - Esnek dokunmuş ipekli veya yünlü bir kumaş

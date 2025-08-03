@@ -2,6 +2,7 @@
 layout: term
 title: başı örtük
 slug: basi-ortuk
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► başı kapalı

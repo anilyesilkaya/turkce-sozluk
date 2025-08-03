@@ -2,6 +2,7 @@
 layout: term
 title: harir
 slug: harir
+letter: H
 lisan: Arapça ḥarīr
 anlamlar:
 - ► ipek

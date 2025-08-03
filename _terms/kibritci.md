@@ -2,6 +2,7 @@
 layout: term
 title: kibritçi
 slug: kibritci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kibrit satan kimse

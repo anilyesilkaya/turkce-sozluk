@@ -2,6 +2,7 @@
 layout: term
 title: sakar
 slug: sakar
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bazı hayvanların, özellikle atların alınlarında bulunan beyaz leke, küçük akıtma

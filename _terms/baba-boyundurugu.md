@@ -2,6 +2,7 @@
 layout: term
 title: baba boyunduruğu
 slug: baba-boyundurugu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Babaya demir halatı bağlamak veya demir halatın babadan çıkmasını önlemek amacıyla kullanılan güvenlik halatı

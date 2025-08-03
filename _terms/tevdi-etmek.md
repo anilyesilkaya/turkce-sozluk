@@ -2,6 +2,7 @@
 layout: term
 title: tevdi etmek
 slug: tevdi-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - emanet etmek

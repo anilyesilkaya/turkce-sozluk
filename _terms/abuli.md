@@ -2,6 +2,7 @@
 layout: term
 title: abuli
 slug: abuli
+letter: A
 lisan: Fransızca aboulie
 anlamlar:
 - ► irade yitimi

@@ -2,6 +2,7 @@
 layout: term
 title: dağlanış
 slug: daglanis
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dağlanmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: yere sermek
 slug: yere-sermek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - kötü bir duruma sokmak, yenmek

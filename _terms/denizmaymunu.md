@@ -2,6 +2,7 @@
 layout: term
 title: denizmaymunu
 slug: denizmaymunu
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► denizkedisi

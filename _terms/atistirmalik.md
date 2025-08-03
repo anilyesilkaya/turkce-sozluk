@@ -2,6 +2,7 @@
 layout: term
 title: atıştırmalık
 slug: atistirmalik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► çerez

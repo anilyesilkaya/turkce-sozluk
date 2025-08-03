@@ -2,6 +2,7 @@
 layout: term
 title: kaza
 slug: kaza
+letter: K
 lisan: Arapça ḳażāʾ
 anlamlar:
 - İstem dışı veya ihmal, tedbirsizlik ve dikkatsizlik dolayısıyla bir kimsenin, bir nesnenin veya bir aracın zarara uğraması

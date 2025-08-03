@@ -2,6 +2,7 @@
 layout: term
 title: bağışık serum
 slug: bagisik-serum
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bulaşıcı hastalıklara yol açan mikroorganizmalara veya zehirli maddelere karşı bileşiminde özgül etkili antikorlar bulunan kan serumu; antiserum

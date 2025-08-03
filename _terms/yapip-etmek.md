@@ -2,6 +2,7 @@
 layout: term
 title: yapıp etmek
 slug: yapip-etmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yapmak

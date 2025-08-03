@@ -2,6 +2,7 @@
 layout: term
 title: çıkkınlaşmak
 slug: cikkinlasmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Kabarmak, şişmek

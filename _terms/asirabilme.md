@@ -2,6 +2,7 @@
 layout: term
 title: aşırabilme
 slug: asirabilme
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aşırabilmek işi

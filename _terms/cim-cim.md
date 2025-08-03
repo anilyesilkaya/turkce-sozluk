@@ -2,6 +2,7 @@
 layout: term
 title: çim çim
 slug: cim-cim
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - İsteksiz bir biçimde

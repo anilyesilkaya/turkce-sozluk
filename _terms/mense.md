@@ -2,6 +2,7 @@
 layout: term
 title: menşe
 slug: mense
+letter: M
 lisan: Arapça menşeʾ
 anlamlar:
 - ► köken

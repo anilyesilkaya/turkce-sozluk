@@ -2,6 +2,7 @@
 layout: term
 title: balyalamak
 slug: balyalamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Balya yapmak, denk yapmak

@@ -2,6 +2,7 @@
 layout: term
 title: ayrımlılık
 slug: ayrimlilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► farklılık

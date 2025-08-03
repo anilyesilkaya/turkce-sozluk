@@ -2,6 +2,7 @@
 layout: term
 title: balıketinde
 slug: baliketinde
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kilosu ortalamanın biraz üstünde olan (kadın); balıketi, dolgun

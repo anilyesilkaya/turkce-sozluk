@@ -2,6 +2,7 @@
 layout: term
 title: birçok
 slug: bircok
+letter: B
 lisan: Türkçe
 anlamlar:
 - Oldukça çok, sayısı belirsiz; bir dolu, sürü sepet, müteaddit

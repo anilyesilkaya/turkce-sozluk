@@ -2,6 +2,7 @@
 layout: term
 title: tüysüzlük
 slug: tuysuzluk
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tüysüz olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: ay ışığı
 slug: ay-isigi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ay'ın yeryüzüne verdiği ışık

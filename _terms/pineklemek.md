@@ -2,6 +2,7 @@
 layout: term
 title: pineklemek
 slug: pineklemek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Uyuklamak, uyuklar gibi hareketsiz kalmak

@@ -2,6 +2,7 @@
 layout: term
 title: asilik etmek
 slug: asilik-etmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - karşı gelmek, başkaldırmak

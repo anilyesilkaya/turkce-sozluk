@@ -2,6 +2,7 @@
 layout: term
 title: taşırıvermek
 slug: tasirivermek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Aniden taşırmak

@@ -2,6 +2,7 @@
 layout: term
 title: adlı sanlı
 slug: adli-sanli
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► ünlü

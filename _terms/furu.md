@@ -2,6 +2,7 @@
 layout: term
 title: füru
 slug: furu
+letter: F
 lisan: Arapça furūʿ
 anlamlar:
 - Dallar, kollar, ayrıntılar

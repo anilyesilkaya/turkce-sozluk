@@ -2,6 +2,7 @@
 layout: term
 title: tirşeleşmek
 slug: tirselesmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tirşe rengine dönüşmek

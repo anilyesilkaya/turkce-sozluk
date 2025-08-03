@@ -2,6 +2,7 @@
 layout: term
 title: amil
 slug: amil
+letter: A
 lisan: Arapça ʿāmil
 anlamlar:
 - ► etken

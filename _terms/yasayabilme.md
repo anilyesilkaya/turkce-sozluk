@@ -2,6 +2,7 @@
 layout: term
 title: yaşayabilme
 slug: yasayabilme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaşayabilmek işi

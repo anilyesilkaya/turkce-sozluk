@@ -2,6 +2,7 @@
 layout: term
 title: toplumsal katman
 slug: toplumsal-katman
+letter: T
 lisan: Türkçe
 anlamlar:
 - Toplumda türlü sebeplerle oluşan sınıf

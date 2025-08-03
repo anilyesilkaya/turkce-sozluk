@@ -2,6 +2,7 @@
 layout: term
 title: şubara
 slug: subara
+letter: Ş
 lisan: Sırpça
 anlamlar:
 - Çuhadan yapılmış, yuvarlak tepeli ve dilimli eski bir kalpak

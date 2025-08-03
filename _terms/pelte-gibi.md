@@ -2,6 +2,7 @@
 layout: term
 title: pelte gibi
 slug: pelte-gibi
+letter: P
 lisan: Türkçe
 anlamlar:
 - çok gevşek

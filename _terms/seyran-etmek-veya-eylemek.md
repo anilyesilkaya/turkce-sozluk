@@ -2,6 +2,7 @@
 layout: term
 title: seyran etmek (veya eylemek)
 slug: seyran-etmek-veya-eylemek
+letter: S
 lisan: Türkçe
 anlamlar:
 - gezinmek, dolaşmak

@@ -2,6 +2,7 @@
 layout: term
 title: tıkız
 slug: tikiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► tıknaz

@@ -2,6 +2,7 @@
 layout: term
 title: vidasız
 slug: vidasiz
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vidası olmayan

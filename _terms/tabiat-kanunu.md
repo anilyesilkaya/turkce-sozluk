@@ -2,6 +2,7 @@
 layout: term
 title: tabiat kanunu
 slug: tabiat-kanunu
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► doğa kanunu

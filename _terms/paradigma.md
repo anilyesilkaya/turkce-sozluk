@@ -2,6 +2,7 @@
 layout: term
 title: paradigma
 slug: paradigma
+letter: P
 lisan: Fransızca paradigme
 anlamlar:
 - ► değerler dizisi

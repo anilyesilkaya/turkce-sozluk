@@ -2,6 +2,7 @@
 layout: term
 title: demirbaştan düşmek
 slug: demirbastan-dusmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - demirbaş listesinden çıkarmak, kaydını silmek

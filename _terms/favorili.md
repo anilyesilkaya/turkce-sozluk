@@ -2,6 +2,7 @@
 layout: term
 title: favorili
 slug: favorili
+letter: F
 lisan: Türkçe
 anlamlar:
 - Favorisi uzun olan

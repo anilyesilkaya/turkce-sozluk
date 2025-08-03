@@ -2,6 +2,7 @@
 layout: term
 title: sütanne
 slug: sutanne
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir çocuğun, annesi dışında sütünü emmiş olduğu kadın; sütana, sütnine

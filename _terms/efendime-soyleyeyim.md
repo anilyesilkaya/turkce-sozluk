@@ -2,6 +2,7 @@
 layout: term
 title: efendime söyleyeyim
 slug: efendime-soyleyeyim
+letter: E
 lisan: Türkçe
 anlamlar:
 - söz söylerken gerekli kelimeyi bulamayan bir kimsenin kullandığı bir söz

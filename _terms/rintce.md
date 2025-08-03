@@ -2,6 +2,7 @@
 layout: term
 title: rintçe
 slug: rintce
+letter: R
 lisan: Türkçe
 anlamlar:
 - Rinde yakışan; rindane

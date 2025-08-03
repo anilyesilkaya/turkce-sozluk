@@ -2,6 +2,7 @@
 layout: term
 title: yöntem
 slug: yontem
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir amaca erişmek için izlenen, tutulan yol; yordam, usul (II), prosedür

@@ -2,6 +2,7 @@
 layout: term
 title: analiz
 slug: analiz
+letter: A
 lisan: Fransızca analyse
 anlamlar:
 - ► çözümleme

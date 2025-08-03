@@ -2,6 +2,7 @@
 layout: term
 title: ayran gönüllü
 slug: ayran-gonullu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Çabuk âşık olan

@@ -2,6 +2,7 @@
 layout: term
 title: dayaklamak
 slug: dayaklamak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Yıkılmaması için bir şeye destek koymak

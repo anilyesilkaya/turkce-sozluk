@@ -2,6 +2,7 @@
 layout: term
 title: şenlendirmek
 slug: senlendirmek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şenlenmesini sağlamak

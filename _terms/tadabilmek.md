@@ -2,6 +2,7 @@
 layout: term
 title: tadabilmek
 slug: tadabilmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tatma ihtimali veya imkânı bulunmak

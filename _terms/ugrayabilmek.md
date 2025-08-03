@@ -2,6 +2,7 @@
 layout: term
 title: uğrayabilmek
 slug: ugrayabilmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uğrama ihtimali veya imkânı bulunmak

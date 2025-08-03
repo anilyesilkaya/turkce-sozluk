@@ -2,6 +2,7 @@
 layout: term
 title: kösele taşı
 slug: kosele-tasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Mermerleri parlatmakta kullanılan küfeki taşı

@@ -2,6 +2,7 @@
 layout: term
 title: bap
 slug: bap
+letter: B
 lisan: Arapça bāb
 anlamlar:
 - ► kapı

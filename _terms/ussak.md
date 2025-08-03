@@ -2,6 +2,7 @@
 layout: term
 title: uşşak
 slug: ussak
+letter: U
 lisan: Arapça ʿuşşāḳ
 anlamlar:
 - Türk müziğinde ana makamlardan biri

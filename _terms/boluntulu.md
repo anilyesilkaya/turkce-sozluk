@@ -2,6 +2,7 @@
 layout: term
 title: bölüntülü
 slug: boluntulu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bölüntüsü olan

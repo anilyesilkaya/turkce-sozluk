@@ -2,6 +2,7 @@
 layout: term
 title: saltanatlı
 slug: saltanatli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Gösterişli, görkemli

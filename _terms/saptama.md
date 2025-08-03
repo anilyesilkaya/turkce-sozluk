@@ -2,6 +2,7 @@
 layout: term
 title: saptama
 slug: saptama
+letter: S
 lisan: Türkçe
 anlamlar:
 - Saptamak işi; tespit

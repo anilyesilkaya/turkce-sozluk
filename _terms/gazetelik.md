@@ -2,6 +2,7 @@
 layout: term
 title: gazetelik
 slug: gazetelik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gazete koymaya yarar küçük çatkı

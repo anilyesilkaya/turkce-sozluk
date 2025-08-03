@@ -2,6 +2,7 @@
 layout: term
 title: tasvirî fiil
 slug: tasviri-fiil
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► tasvir fiili

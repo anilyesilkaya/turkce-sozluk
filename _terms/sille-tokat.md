@@ -2,6 +2,7 @@
 layout: term
 title: sille tokat
 slug: sille-tokat
+letter: S
 lisan: Türkçe
 anlamlar:
 - Döverek, tokatlayarak

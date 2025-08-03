@@ -2,6 +2,7 @@
 layout: term
 title: cevapsız bırakmak
 slug: cevapsiz-birakmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - karşılığında herhangi bir cevap vermemek, bir tepki göstermemek

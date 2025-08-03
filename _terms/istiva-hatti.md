@@ -2,6 +2,7 @@
 layout: term
 title: istiva hattı
 slug: istiva-hatti
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► Ekvator

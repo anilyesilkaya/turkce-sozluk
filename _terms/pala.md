@@ -2,6 +2,7 @@
 layout: term
 title: pala
 slug: pala
+letter: P
 lisan: Türkçe
 anlamlar:
 - Bez parçalarından dokunan basit kilim

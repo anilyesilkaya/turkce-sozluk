@@ -2,6 +2,7 @@
 layout: term
 title: iş tutmak
 slug: is-tutmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - çalışmak

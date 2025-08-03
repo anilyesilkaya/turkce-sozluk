@@ -2,6 +2,7 @@
 layout: term
 title: ayla
 slug: ayla
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► hale

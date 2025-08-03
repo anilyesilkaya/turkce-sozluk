@@ -2,6 +2,7 @@
 layout: term
 title: ergimek
 slug: ergimek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Dokuma aşınıp incelerek dağılmak

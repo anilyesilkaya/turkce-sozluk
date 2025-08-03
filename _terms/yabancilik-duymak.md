@@ -2,6 +2,7 @@
 layout: term
 title: yabancılık duymak
 slug: yabancilik-duymak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - bir kimseye, bir şeye alışamamak

@@ -2,6 +2,7 @@
 layout: term
 title: ulussuzluk
 slug: ulussuzluk
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► milletsizlik

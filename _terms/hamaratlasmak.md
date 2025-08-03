@@ -2,6 +2,7 @@
 layout: term
 title: hamaratlaşmak
 slug: hamaratlasmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hamarat duruma gelmek, hamarat olmak

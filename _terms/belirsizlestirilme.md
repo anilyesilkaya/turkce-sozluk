@@ -2,6 +2,7 @@
 layout: term
 title: belirsizleştirilme
 slug: belirsizlestirilme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belirsizleştirilmek işi

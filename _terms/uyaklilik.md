@@ -2,6 +2,7 @@
 layout: term
 title: uyaklılık
 slug: uyaklilik
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► kafiyelilik

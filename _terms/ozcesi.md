@@ -2,6 +2,7 @@
 layout: term
 title: özcesi
 slug: ozcesi
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Özet olarak

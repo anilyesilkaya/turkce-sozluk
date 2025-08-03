@@ -2,6 +2,7 @@
 layout: term
 title: açıvermek
 slug: acivermek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ansızın veya çabucak açmak

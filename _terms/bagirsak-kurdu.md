@@ -2,6 +2,7 @@
 layout: term
 title: bağırsak kurdu
 slug: bagirsak-kurdu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Omurgalıların ve de özellikle insanların bağırsağında yaşayan asalak solucan

@@ -2,6 +2,7 @@
 layout: term
 title: sinüs
 slug: sinus
+letter: S
 lisan: Fransızca sinus
 anlamlar:
 - Organların veya dokuların arasında bulunan boşluklar

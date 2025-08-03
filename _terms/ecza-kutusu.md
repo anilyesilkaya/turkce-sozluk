@@ -2,6 +2,7 @@
 layout: term
 title: ecza kutusu
 slug: ecza-kutusu
+letter: E
 lisan: Türkçe
 anlamlar:
 - Evlerde, otomobillerde ilaçların konulduğu kutu

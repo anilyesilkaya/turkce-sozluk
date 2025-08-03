@@ -2,6 +2,7 @@
 layout: term
 title: uf çekmek
 slug: uf-cekmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - acı, sızı duyulduğunda veya sıkıntılı bir durumda "uf" diye bağırmak

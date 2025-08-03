@@ -2,6 +2,7 @@
 layout: term
 title: çaktırmak
 slug: caktirmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çakma işini yaptırmak

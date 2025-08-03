@@ -2,6 +2,7 @@
 layout: term
 title: korunma görmek
 slug: korunma-gormek
+letter: K
 lisan: Türkçe
 anlamlar:
 - anlayış veya hoşgörü ile karşılanmak

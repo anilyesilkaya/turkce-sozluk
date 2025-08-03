@@ -2,6 +2,7 @@
 layout: term
 title: partili
 slug: partili
+letter: P
 lisan: Türkçe
 anlamlar:
 - Bir partiden olan (kimse)

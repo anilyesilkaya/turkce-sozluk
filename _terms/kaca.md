@@ -2,6 +2,7 @@
 layout: term
 title: kaça
 slug: kaca
+letter: K
 lisan: Türkçe
 anlamlar:
 - Ne kadar bir para karşılığında

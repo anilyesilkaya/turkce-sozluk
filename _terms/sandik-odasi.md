@@ -2,6 +2,7 @@
 layout: term
 title: sandık odası
 slug: sandik-odasi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sandık, sepet vb. ev eşyasının konulduğu küçük oda

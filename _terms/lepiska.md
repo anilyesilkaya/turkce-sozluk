@@ -2,6 +2,7 @@
 layout: term
 title: lepiska
 slug: lepiska
+letter: L
 lisan: Slavca (Leipzig yer adından)
 anlamlar:
 - Leipzig şehrinde üretilen ipek

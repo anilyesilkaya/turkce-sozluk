@@ -2,6 +2,7 @@
 layout: term
 title: mahruti
 slug: mahruti
+letter: M
 lisan: Arapça maḫrūṭī
 anlamlar:
 - ► konik

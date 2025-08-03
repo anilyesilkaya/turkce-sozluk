@@ -2,6 +2,7 @@
 layout: term
 title: biniş
 slug: binis
+letter: B
 lisan: Türkçe
 anlamlar:
 - Binmek işi

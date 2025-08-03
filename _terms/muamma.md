@@ -2,6 +2,7 @@
 layout: term
 title: muamma
 slug: muamma
+letter: M
 lisan: Arapça muʿammā
 anlamlar:
 - ► bilmece

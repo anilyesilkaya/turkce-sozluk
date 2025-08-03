@@ -2,6 +2,7 @@
 layout: term
 title: cilasız
 slug: cilasiz
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cila sürülmemiş veya cilası kalmamış olan

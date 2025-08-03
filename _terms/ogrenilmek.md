@@ -2,6 +2,7 @@
 layout: term
 title: öğrenilmek
 slug: ogrenilmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öğrenme işi yapılmak

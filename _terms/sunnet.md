@@ -2,6 +2,7 @@
 layout: term
 title: sünnet
 slug: sunnet
+letter: S
 lisan: Arapça sunnet
 anlamlar:
 - Hz. Muhammed'in Müslümanlarca uyulması gerekli sayılan davranışları, onayları ve herhangi bir konuda söylemiş olduğu sözleri

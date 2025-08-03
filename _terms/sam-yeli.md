@@ -2,6 +2,7 @@
 layout: term
 title: sam yeli
 slug: sam-yeli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Çölden esen sıcak rüzgâr; sam (I)

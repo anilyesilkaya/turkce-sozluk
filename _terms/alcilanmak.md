@@ -2,6 +2,7 @@
 layout: term
 title: alçılanmak
 slug: alcilanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alçılama işine konu olmak

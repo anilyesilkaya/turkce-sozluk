@@ -2,6 +2,7 @@
 layout: term
 title: mücessem
 slug: mucessem
+letter: M
 lisan: Arapça mucessem
 anlamlar:
 - Cisim durumunda olan

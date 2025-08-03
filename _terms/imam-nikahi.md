@@ -2,6 +2,7 @@
 layout: term
 title: imam nikâhı
 slug: imam-nikahi
+letter: I
 lisan: Türkçe
 anlamlar:
 - İslami kurallara göre kıyılan nikâh

@@ -2,6 +2,7 @@
 layout: term
 title: çiğnemek
 slug: cignemek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Ağza alınan bir şeyi dişler arasında ezmek, öğütmek

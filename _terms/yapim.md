@@ -2,6 +2,7 @@
 layout: term
 title: yapım
 slug: yapim
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yapmak işi; inşa, imal, konstrüksiyon

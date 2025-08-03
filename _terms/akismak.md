@@ -2,6 +2,7 @@
 layout: term
 title: akışmak
 slug: akismak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Karşılıklı akmak

@@ -2,6 +2,7 @@
 layout: term
 title: boş durmamak
 slug: bos-durmamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - her zaman bir işle uğraşmak

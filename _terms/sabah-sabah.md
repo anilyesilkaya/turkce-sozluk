@@ -2,6 +2,7 @@
 layout: term
 title: sabah sabah
 slug: sabah-sabah
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sabahın çok erken saatinde

@@ -2,6 +2,7 @@
 layout: term
 title: perde perde
 slug: perde-perde
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► yavaş yavaş

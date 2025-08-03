@@ -2,6 +2,7 @@
 layout: term
 title: saman altından su yürütmek
 slug: saman-altindan-su-yurutmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - belli etmeden iş çevirmek, ortalığı karıştırmak

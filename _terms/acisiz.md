@@ -2,6 +2,7 @@
 layout: term
 title: acısız
 slug: acisiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Tadı acı olmayan

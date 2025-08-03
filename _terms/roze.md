@@ -2,6 +2,7 @@
 layout: term
 title: roze
 slug: roze
+letter: R
 lisan: Fransızca rosé
 anlamlar:
 - Bir tür pembe şarap; gül şarabı

@@ -2,6 +2,7 @@
 layout: term
 title: uluslararasıcı
 slug: uluslararasici
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uluslararasındaki ilişkileri benimseyen, uluslararasındaki ilişkilerden yana olan; milletlerarasıcı, beynelmilelci, enternasyonalci, enternasyonalist

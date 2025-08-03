@@ -2,6 +2,7 @@
 layout: term
 title: sözlü soru önergesi
 slug: sozlu-soru-onergesi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Türkiye Büyük Millet Meclisinde sözlü olarak cevaplandırılması istenen soru

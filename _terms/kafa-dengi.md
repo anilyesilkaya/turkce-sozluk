@@ -2,6 +2,7 @@
 layout: term
 title: kafa dengi
 slug: kafa-dengi
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kafadar

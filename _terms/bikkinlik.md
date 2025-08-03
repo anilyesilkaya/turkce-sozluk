@@ -2,6 +2,7 @@
 layout: term
 title: bıkkınlık
 slug: bikkinlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çok bıkmış olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: darboğaz
 slug: darbogaz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Piyasalarda üretimin, kredilerin, döviz imkânlarının, sürümün, ham madde arzının ve malzeme stoklarının gereksinim düzeyi altına düştüğü sıkıntılı durum

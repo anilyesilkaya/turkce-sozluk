@@ -2,6 +2,7 @@
 layout: term
 title: ruhsatlı
 slug: ruhsatli
+letter: R
 lisan: Türkçe
 anlamlar:
 - Yapılması, kullanılması vb. için gerekli izni olan, ruhsatı olan

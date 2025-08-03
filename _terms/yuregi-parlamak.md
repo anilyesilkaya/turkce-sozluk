@@ -2,6 +2,7 @@
 layout: term
 title: yüreği parlamak
 slug: yuregi-parlamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - coşmak, heyecanlanmak

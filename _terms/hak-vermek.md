@@ -2,6 +2,7 @@
 layout: term
 title: hak vermek
 slug: hak-vermek
+letter: H
 lisan: Türkçe
 anlamlar:
 - birinin düşüncesini, davasını, iddiasını doğru bulmak

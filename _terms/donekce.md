@@ -2,6 +2,7 @@
 layout: term
 title: dönekçe
 slug: donekce
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dönek gibi

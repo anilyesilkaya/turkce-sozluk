@@ -2,6 +2,7 @@
 layout: term
 title: anide
 slug: anide
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► ansızın

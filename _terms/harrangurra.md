@@ -2,6 +2,7 @@
 layout: term
 title: harrangürra
 slug: harrangurra
+letter: H
 lisan: Türkçe
 anlamlar:
 - Özensiz bir biçimde

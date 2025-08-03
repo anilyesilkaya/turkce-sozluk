@@ -2,6 +2,7 @@
 layout: term
 title: kaniş
 slug: kanis
+letter: K
 lisan: Fransızca caniche
 anlamlar:
 - Uzun, kıvırcık tüylü bir cins köpek

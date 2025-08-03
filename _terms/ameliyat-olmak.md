@@ -2,6 +2,7 @@
 layout: term
 title: ameliyat olmak
 slug: ameliyat-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - hastaya ameliyat işlemleri yapılmak

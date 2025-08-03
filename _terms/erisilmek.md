@@ -2,6 +2,7 @@
 layout: term
 title: erişilmek
 slug: erisilmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Erişme işi yapılmak, ulaşılmak, yetişilmek

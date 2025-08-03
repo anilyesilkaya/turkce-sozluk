@@ -2,6 +2,7 @@
 layout: term
 title: saten
 slug: saten
+letter: S
 lisan: Fransızca satin
 anlamlar:
 - ► atlas (I)

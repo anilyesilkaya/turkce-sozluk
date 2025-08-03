@@ -2,6 +2,7 @@
 layout: term
 title: eli koynunda
 slug: eli-koynunda
+letter: E
 lisan: Türkçe
 anlamlar:
 - Boş, işsiz olan (kimse)

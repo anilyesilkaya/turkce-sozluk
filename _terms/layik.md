@@ -2,6 +2,7 @@
 layout: term
 title: layık
 slug: layik
+letter: L
 lisan: Arapça lāyiḳ
 anlamlar:
 - Nitelikleri, özü, hareketleri, davranışlarıyla bir şeyi elde etmeye hak kazanmış olan; müstahak

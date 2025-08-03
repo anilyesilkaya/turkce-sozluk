@@ -2,6 +2,7 @@
 layout: term
 title: istifade
 slug: istifade
+letter: I
 lisan: Arapça istifāde
 anlamlar:
 - ► yararlanma

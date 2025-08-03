@@ -2,6 +2,7 @@
 layout: term
 title: tahrifat yapmak
 slug: tahrifat-yapmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - tahrif etmek

@@ -2,6 +2,7 @@
 layout: term
 title: ay yıldızlı
 slug: ay-yildizli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ay ve yıldızı olan

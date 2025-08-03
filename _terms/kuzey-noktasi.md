@@ -2,6 +2,7 @@
 layout: term
 title: kuzey noktası
 slug: kuzey-noktasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Dünya ekseninin kuzey ucunun gök küreyi deldiği kabul edilen noktası

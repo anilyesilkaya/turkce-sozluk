@@ -2,6 +2,7 @@
 layout: term
 title: orakçı
 slug: orakci
+letter: O
 lisan: Türkçe
 anlamlar:
 - Ücret karşılığı ekin biçen kimse

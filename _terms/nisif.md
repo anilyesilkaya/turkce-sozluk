@@ -2,6 +2,7 @@
 layout: term
 title: nısıf
 slug: nisif
+letter: N
 lisan: Arapça niṣf
 anlamlar:
 - ► yarı

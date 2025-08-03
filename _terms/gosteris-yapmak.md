@@ -2,6 +2,7 @@
 layout: term
 title: gösteriş yapmak
 slug: gosteris-yapmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - başkalarını aldatmak, şaşırtmak, korkutmak veya kendini beğendirmek için yapay davranmak

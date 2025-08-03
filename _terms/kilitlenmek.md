@@ -2,6 +2,7 @@
 layout: term
 title: kilitlenmek
 slug: kilitlenmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kilitleme işi yapılmak

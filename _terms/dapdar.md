@@ -2,6 +2,7 @@
 layout: term
 title: dapdar
 slug: dapdar
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çok dar

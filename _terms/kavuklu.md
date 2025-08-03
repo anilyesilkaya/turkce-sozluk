@@ -2,6 +2,7 @@
 layout: term
 title: Kavuklu
 slug: kavuklu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Orta oyununda hikâyeyi anlatıp asıl görevi üstlenen, espri ve komiklik yapan kişi

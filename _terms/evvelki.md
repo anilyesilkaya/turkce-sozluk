@@ -2,6 +2,7 @@
 layout: term
 title: evvelki
 slug: evvelki
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► önceki

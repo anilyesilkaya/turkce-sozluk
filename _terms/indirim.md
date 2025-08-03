@@ -2,6 +2,7 @@
 layout: term
 title: indirim
 slug: indirim
+letter: I
 lisan: Türkçe
 anlamlar:
 - Fiyatta yapılan değer düşürümü; tenzilat, iskonto

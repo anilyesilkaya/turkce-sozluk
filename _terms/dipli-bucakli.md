@@ -2,6 +2,7 @@
 layout: term
 title: dipli bucaklı
 slug: dipli-bucakli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Ayrıntılı bir biçimde

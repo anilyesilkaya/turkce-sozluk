@@ -2,6 +2,7 @@
 layout: term
 title: dağıtım
 slug: dagitim
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dağıtmak işi

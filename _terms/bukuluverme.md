@@ -2,6 +2,7 @@
 layout: term
 title: bükülüverme
 slug: bukuluverme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bükülüvermek işi

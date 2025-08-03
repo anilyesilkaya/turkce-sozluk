@@ -2,6 +2,7 @@
 layout: term
 title: başoyuncu
 slug: basoyuncu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir filmde veya tiyatro eserinde başrolü canlandıran erkek oyuncu; başaktör

@@ -2,6 +2,7 @@
 layout: term
 title: palaspare
 slug: palaspare
+letter: P
 lisan: Farsça pelās + pāre
 anlamlar:
 - Kirli, eski püskü, yırtık pırtık giysi

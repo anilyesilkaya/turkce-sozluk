@@ -2,6 +2,7 @@
 layout: term
 title: gerçekçi
 slug: gercekci
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gerçeği gören ve ona göre davranan veya gerçeğe uygun olarak yapılan; realist

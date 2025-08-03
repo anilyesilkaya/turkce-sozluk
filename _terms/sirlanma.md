@@ -2,6 +2,7 @@
 layout: term
 title: sırlanma
 slug: sirlanma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sırlanmak durumu

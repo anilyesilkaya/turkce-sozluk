@@ -2,6 +2,7 @@
 layout: term
 title: kaşmerlik etmek
 slug: kasmerlik-etmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - soytarılık etmek

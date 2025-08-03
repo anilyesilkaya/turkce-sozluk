@@ -2,6 +2,7 @@
 layout: term
 title: esaslı
 slug: esasli
+letter: E
 lisan: Türkçe
 anlamlar:
 - Köklü, geniş ölçüde etkili, güzel, doğru

@@ -2,6 +2,7 @@
 layout: term
 title: veryansın
 slug: veryansin
+letter: V
 lisan: Türkçe
 anlamlar:
 - “Acımadan, hiçbir şey düşünmeden saldırmak, yok etmek, bol bol harcamak veya acımasızca söylemek” anlamlarındaki veryansın (veya vuryansın) etmek deyiminde geçer

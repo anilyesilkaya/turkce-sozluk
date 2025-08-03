@@ -2,6 +2,7 @@
 layout: term
 title: maalesef
 slug: maalesef
+letter: M
 lisan: Arapça maʿa'l-esef
 anlamlar:
 - Üzülerek söylüyorum ki, ne yazık ki; maatteessüf

@@ -2,6 +2,7 @@
 layout: term
 title: yaltaklık etmek
 slug: yaltaklik-etmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yaltaklanmak

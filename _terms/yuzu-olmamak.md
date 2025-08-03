@@ -2,6 +2,7 @@
 layout: term
 title: yüzü olmamak
 slug: yuzu-olmamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - bir şeye dayanamamak

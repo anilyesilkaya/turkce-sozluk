@@ -2,6 +2,7 @@
 layout: term
 title: döküm (veya dökümünü) almak
 slug: dokum-veya-dokumunu-almak
+letter: D
 lisan: Türkçe
 anlamlar:
 - ayrıntılı hesap listesini toplu olarak göstermek

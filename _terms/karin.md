@@ -2,6 +2,7 @@
 layout: term
 title: karın
 slug: karin
+letter: K
 lisan: Türkçe
 anlamlar:
 - İnsan ve hayvanlarda gövdenin kaburga kenarlarından kasıklara kadar olan ön bölgesi; batın

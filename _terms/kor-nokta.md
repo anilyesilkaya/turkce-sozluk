@@ -2,6 +2,7 @@
 layout: term
 title: kör nokta
 slug: kor-nokta
+letter: K
 lisan: Türkçe
 anlamlar:
 - Trafikte sürücünün geriden gelenleri aynalarda göremediği bölge; kör alan, ölü açı, ölü nokta

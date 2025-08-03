@@ -2,6 +2,7 @@
 layout: term
 title: değerlendirmek
 slug: degerlendirmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir şeyi yerinde ve yararlı bir yolda kullanmak

@@ -2,6 +2,7 @@
 layout: term
 title: efsane
 slug: efsane
+letter: E
 lisan: Farsça efsāne
 anlamlar:
 - Eski çağlardan beri söylenegelen, olağanüstü varlıkları, olayları konu edinen hayalî hikâye; söylence

@@ -2,6 +2,7 @@
 layout: term
 title: esneyebilmek
 slug: esneyebilmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Esneme ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: kardeşlik
 slug: kardeslik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kardeş olma durumu; karındaşlık, uhuvvet

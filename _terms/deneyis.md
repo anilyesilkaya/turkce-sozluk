@@ -2,6 +2,7 @@
 layout: term
 title: deneyiş
 slug: deneyis
+letter: D
 lisan: Türkçe
 anlamlar:
 - Denemek işi

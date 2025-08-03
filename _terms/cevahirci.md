@@ -2,6 +2,7 @@
 layout: term
 title: cevahirci
 slug: cevahirci
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► kuyumcu

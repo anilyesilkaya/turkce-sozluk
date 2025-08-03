@@ -2,6 +2,7 @@
 layout: term
 title: İspanyolca
 slug: ispanyolca
+letter: İ
 lisan: Türkçe
 anlamlar:
 - İspanya'da, Brezilya dışındaki Latin Amerika'da ve İspanyolların hâkim olduğu bölgelerde yaşayanların kullandığı dil

@@ -2,6 +2,7 @@
 layout: term
 title: şımarıklık
 slug: simariklik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şımarık olma durumu

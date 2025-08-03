@@ -2,6 +2,7 @@
 layout: term
 title: sekban
 slug: sekban
+letter: S
 lisan: Farsça segbān
 anlamlar:
 - Osmanlılarda, sınır boylarında görev yapan bir asker sınıfı

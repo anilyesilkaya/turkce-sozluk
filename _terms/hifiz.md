@@ -2,6 +2,7 @@
 layout: term
 title: hıfız
 slug: hifiz
+letter: H
 lisan: Arapça ḥifẓ
 anlamlar:
 - ► saklama

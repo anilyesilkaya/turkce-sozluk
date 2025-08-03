@@ -2,6 +2,7 @@
 layout: term
 title: iştirak etmek
 slug: istirak-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - katılmak

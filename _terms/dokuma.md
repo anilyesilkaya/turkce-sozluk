@@ -2,6 +2,7 @@
 layout: term
 title: dokuma
 slug: dokuma
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dokumak işi; nesiç, tekstil

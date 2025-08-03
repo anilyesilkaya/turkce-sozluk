@@ -2,6 +2,7 @@
 layout: term
 title: ebedî istirahatgâh
 slug: ebedi-istirahatgah
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► mezar

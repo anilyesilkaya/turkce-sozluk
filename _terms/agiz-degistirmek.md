@@ -2,6 +2,7 @@
 layout: term
 title: ağız değiştirmek
 slug: agiz-degistirmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - önce söylediğini başka türlü anlatmak

@@ -2,6 +2,7 @@
 layout: term
 title: entelektüalizm
 slug: entelektualizm
+letter: E
 lisan: Fransızca intellectualisme
 anlamlar:
 - ► anlıkçılık

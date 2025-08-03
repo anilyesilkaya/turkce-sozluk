@@ -2,6 +2,7 @@
 layout: term
 title: uyandırıcılık
 slug: uyandiricilik
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyandırıcı olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: ırgalanma
 slug: irgalanma
+letter: I
 lisan: Türkçe
 anlamlar:
 - Irgalanmak işi

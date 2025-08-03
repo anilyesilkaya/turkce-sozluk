@@ -2,6 +2,7 @@
 layout: term
 title: zırt zırt
 slug: zirt-zirt
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► zırt pırt

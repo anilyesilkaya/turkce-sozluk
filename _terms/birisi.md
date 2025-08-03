@@ -2,6 +2,7 @@
 layout: term
 title: birisi
 slug: birisi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Herhangi bir kimse

@@ -2,6 +2,7 @@
 layout: term
 title: çökertebilmek
 slug: cokertebilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çökertme ihtimali veya imkânı bulunmak

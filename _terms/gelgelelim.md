@@ -2,6 +2,7 @@
 layout: term
 title: gelgelelim
 slug: gelgelelim
+letter: G
 lisan: Türkçe
 anlamlar:
 - Ne var ki; ille velakin

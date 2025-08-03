@@ -2,6 +2,7 @@
 layout: term
 title: belirli belirsiz
 slug: belirli-belirsiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Yarı belirgin durumda, az çok belli olan

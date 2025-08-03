@@ -2,6 +2,7 @@
 layout: term
 title: uçurumlaşmak
 slug: ucurumlasmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uçurum durumuna gelmek

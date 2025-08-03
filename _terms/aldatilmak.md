@@ -2,6 +2,7 @@
 layout: term
 title: aldatılmak
 slug: aldatilmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aldatma işine konu olmak; çarpılmak

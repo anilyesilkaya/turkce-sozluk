@@ -2,6 +2,7 @@
 layout: term
 title: tayin
 slug: tayin
+letter: T
 lisan: Arapça taʿyīn
 anlamlar:
 - Ne olduğunu anlama, gösterme, belirtme, kararlaştırma belirleme

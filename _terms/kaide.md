@@ -2,6 +2,7 @@
 layout: term
 title: kaide
 slug: kaide
+letter: K
 lisan: Arapça ḳāʿide
 anlamlar:
 - ► kural

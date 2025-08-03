@@ -2,6 +2,7 @@
 layout: term
 title: kozmografya
 slug: kozmografya
+letter: K
 lisan: Yunanca
 anlamlar:
 - Gök biliminin, matematik ve fiziğin yalnız temel kavramlarından yararlanarak  belli başlı olaylarını ele alan dalı

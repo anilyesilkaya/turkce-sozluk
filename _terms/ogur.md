@@ -2,6 +2,7 @@
 layout: term
 title: öğür
 slug: ogur
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► akran

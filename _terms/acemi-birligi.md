@@ -2,6 +2,7 @@
 layout: term
 title: acemi birliği
 slug: acemi-birligi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Acemi askerlere eğitim yaptırılan yer

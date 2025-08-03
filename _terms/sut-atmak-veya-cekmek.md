@@ -2,6 +2,7 @@
 layout: term
 title: şut atmak (veya çekmek)
 slug: sut-atmak-veya-cekmek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - futbol, hentbol vb. oyunlarda topu sert ve hızlı bir biçimde kaleye atmak

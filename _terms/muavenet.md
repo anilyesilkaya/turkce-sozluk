@@ -2,6 +2,7 @@
 layout: term
 title: muavenet
 slug: muavenet
+letter: M
 lisan: Arapça muʿāvenet
 anlamlar:
 - ► yardım

@@ -2,6 +2,7 @@
 layout: term
 title: acıktırmak
 slug: aciktirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Açlık duymasına sebep olmak

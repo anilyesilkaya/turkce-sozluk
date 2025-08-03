@@ -2,6 +2,7 @@
 layout: term
 title: hâl hatır (veya hâlini hatırını) sormak
 slug: hal-hatir-veya-halini-hatirini-sormak
+letter: H
 lisan: Türkçe
 anlamlar:
 - bir kimseye "nasılsınız, ne durumdasınız" anlamında nezaket sorusu yöneltmek

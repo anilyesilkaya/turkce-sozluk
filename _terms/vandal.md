@@ -2,6 +2,7 @@
 layout: term
 title: Vandal
 slug: vandal
+letter: V
 lisan: Fransızca vandale
 anlamlar:
 - Miladın başlangıç yıllarında yaşayan ve Roma İmparatorluğu ile yaptığı savaşlarda acımasızlığı ile ün salan bir Doğu Germen halkı

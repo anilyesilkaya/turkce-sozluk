@@ -2,6 +2,7 @@
 layout: term
 title: alnının akıyla
 slug: alninin-akiyla
+letter: A
 lisan: Türkçe
 anlamlar:
 - ayıplanacak bir duruma düşmeden, şerefiyle başarı göstermiş olarak

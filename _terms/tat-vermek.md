@@ -2,6 +2,7 @@
 layout: term
 title: tat vermek
 slug: tat-vermek
+letter: T
 lisan: Türkçe
 anlamlar:
 - acı, tatlı, ekşi vb. bir tat kazandırmak

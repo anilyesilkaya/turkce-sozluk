@@ -2,6 +2,7 @@
 layout: term
 title: başlıksız
 slug: basliksiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başlık bulunmayan

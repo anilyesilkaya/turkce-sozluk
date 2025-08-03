@@ -2,6 +2,7 @@
 layout: term
 title: pudra
 slug: pudra
+letter: P
 lisan: Fransızca poudre
 anlamlar:
 - Bazı mineral ürünlerin karışımı ile elde edilen, cildi korumak, düzgün ve güzel göstermek veya kırışıklıkları, pürüzleri gizlemek amacıyla yüze ve tene sürülen, kokulu ince toz

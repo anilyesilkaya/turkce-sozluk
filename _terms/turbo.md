@@ -2,6 +2,7 @@
 layout: term
 title: turbo
 slug: turbo
+letter: T
 lisan: Türkçe
 anlamlar:
 - Havayı veya havaya katılmış bir karışımı, düzenli ve amaca uygun olarak üfleyen

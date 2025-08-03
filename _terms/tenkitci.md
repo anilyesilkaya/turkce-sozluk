@@ -2,6 +2,7 @@
 layout: term
 title: tenkitçi
 slug: tenkitci
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► eleştirmen

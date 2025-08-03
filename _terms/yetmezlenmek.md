@@ -2,6 +2,7 @@
 layout: term
 title: yetmezlenmek
 slug: yetmezlenmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yeterli bulmamak

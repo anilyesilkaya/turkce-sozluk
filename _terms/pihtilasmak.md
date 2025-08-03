@@ -2,6 +2,7 @@
 layout: term
 title: pıhtılaşmak
 slug: pihtilasmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pıhtı durumuna gelmek

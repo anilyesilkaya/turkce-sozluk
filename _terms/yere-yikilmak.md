@@ -2,6 +2,7 @@
 layout: term
 title: yere yıkılmak
 slug: yere-yikilmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yere düşmek

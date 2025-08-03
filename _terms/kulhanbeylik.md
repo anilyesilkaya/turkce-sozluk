@@ -2,6 +2,7 @@
 layout: term
 title: külhanbeylik
 slug: kulhanbeylik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Külhanbeyi olma durumu; apaşlık

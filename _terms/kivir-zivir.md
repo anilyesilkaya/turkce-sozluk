@@ -2,6 +2,7 @@
 layout: term
 title: kıvır zıvır
 slug: kivir-zivir
+letter: K
 lisan: Türkçe
 anlamlar:
 - Önemsiz, değersiz, derme çatma şey

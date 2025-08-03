@@ -2,6 +2,7 @@
 layout: term
 title: uhdesinden gelmek
 slug: uhdesinden-gelmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - becermek, başarmak

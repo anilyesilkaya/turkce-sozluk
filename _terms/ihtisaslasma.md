@@ -2,6 +2,7 @@
 layout: term
 title: ihtisaslaşma
 slug: ihtisaslasma
+letter: I
 lisan: Türkçe
 anlamlar:
 - İhtisaslaşmak işi

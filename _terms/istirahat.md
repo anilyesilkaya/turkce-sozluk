@@ -2,6 +2,7 @@
 layout: term
 title: istirahat
 slug: istirahat
+letter: I
 lisan: Arapça istirāḥat
 anlamlar:
 - ► dinlenme (I)

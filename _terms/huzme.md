@@ -2,6 +2,7 @@
 layout: term
 title: hüzme
 slug: huzme
+letter: H
 lisan: Arapça ḥuzme
 anlamlar:
 - ► ışık demeti

@@ -2,6 +2,7 @@
 layout: term
 title: adamcık
 slug: adamcik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kendisine acınılan kimse

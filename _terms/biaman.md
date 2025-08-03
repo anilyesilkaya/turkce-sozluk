@@ -2,6 +2,7 @@
 layout: term
 title: biaman
 slug: biaman
+letter: B
 lisan: Farsça bī + Arapça amān
 anlamlar:
 - ► amansız

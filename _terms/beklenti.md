@@ -2,6 +2,7 @@
 layout: term
 title: beklenti
 slug: beklenti
+letter: B
 lisan: Türkçe
 anlamlar:
 - Gerçekleşmesi beklenen şey

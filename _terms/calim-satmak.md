@@ -2,6 +2,7 @@
 layout: term
 title: çalım satmak
 slug: calim-satmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - kurulup büyüklük taslamak

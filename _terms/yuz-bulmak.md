@@ -2,6 +2,7 @@
 layout: term
 title: yüz bulmak
 slug: yuz-bulmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ilgi ve yakınlık görmek

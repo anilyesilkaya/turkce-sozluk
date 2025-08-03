@@ -2,6 +2,7 @@
 layout: term
 title: buyurganca
 slug: buyurganca
+letter: B
 lisan: Türkçe
 anlamlar:
 - Buyurgana yakışır bir biçimde

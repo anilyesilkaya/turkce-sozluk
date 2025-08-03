@@ -2,6 +2,7 @@
 layout: term
 title: hülya
 slug: hulya
+letter: H
 lisan: Türkçe
 anlamlar:
 - Gerçekleşmesi özlenerek zihinde kurulan ve insanı oyalayıp avutan tatlı hayal

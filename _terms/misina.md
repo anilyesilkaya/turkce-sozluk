@@ -2,6 +2,7 @@
 layout: term
 title: misina
 slug: misina
+letter: M
 lisan: İtalyanca messina
 anlamlar:
 - Yapay ve sentetik ham maddeden tek kat çekilmiş, değişik kalınlıkta iplik

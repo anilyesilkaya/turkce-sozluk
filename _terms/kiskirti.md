@@ -2,6 +2,7 @@
 layout: term
 title: kışkırtı
 slug: kiskirti
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kışkırtma

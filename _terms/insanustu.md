@@ -2,6 +2,7 @@
 layout: term
 title: insanüstü
 slug: insanustu
+letter: I
 lisan: Türkçe
 anlamlar:
 - İnsan gücünü ve yeteneklerini aşan; fevkalbeşer

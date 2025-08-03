@@ -2,6 +2,7 @@
 layout: term
 title: söze karışmak
 slug: soze-karismak
+letter: S
 lisan: Türkçe
 anlamlar:
 - lafa karışmak

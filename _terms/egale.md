@@ -2,6 +2,7 @@
 layout: term
 title: egale
 slug: egale
+letter: E
 lisan: Fransızca égale
 anlamlar:
 - '"Bir rekoru yinelemek" anlamındaki egale etmek birleşik fiilinde kullanılan bir söz'

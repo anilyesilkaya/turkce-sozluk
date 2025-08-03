@@ -2,6 +2,7 @@
 layout: term
 title: dâhice
 slug: dahice
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dâhiye yakışır bir biçimde; dâhiyane

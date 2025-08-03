@@ -2,6 +2,7 @@
 layout: term
 title: icap
 slug: icap
+letter: I
 lisan: Arapça īcāb
 anlamlar:
 - ► gerek

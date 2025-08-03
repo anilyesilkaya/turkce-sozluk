@@ -2,6 +2,7 @@
 layout: term
 title: tahsil
 slug: tahsil
+letter: T
 lisan: Arapça taḥṣīl
 anlamlar:
 - Parayı alma, toplama

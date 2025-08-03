@@ -2,6 +2,7 @@
 layout: term
 title: yalayabilmek
 slug: yalayabilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yalama ihtimali veya imkânı bulunmak

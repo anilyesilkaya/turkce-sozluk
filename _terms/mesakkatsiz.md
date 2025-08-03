@@ -2,6 +2,7 @@
 layout: term
 title: meşakkatsiz
 slug: mesakkatsiz
+letter: M
 lisan: Türkçe
 anlamlar:
 - Güç olmayan

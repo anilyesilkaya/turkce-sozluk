@@ -2,6 +2,7 @@
 layout: term
 title: yağcı
 slug: yagci
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yağ çıkaran veya satan kimse

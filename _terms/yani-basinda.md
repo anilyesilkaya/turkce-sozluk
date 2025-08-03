@@ -2,6 +2,7 @@
 layout: term
 title: yanı başında
 slug: yani-basinda
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Hemen yanında

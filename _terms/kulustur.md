@@ -2,6 +2,7 @@
 layout: term
 title: külüstür
 slug: kulustur
+letter: K
 lisan: Rumca
 anlamlar:
 - Yıpranmış, eski, bakımsız olan

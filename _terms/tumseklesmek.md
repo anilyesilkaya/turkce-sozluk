@@ -2,6 +2,7 @@
 layout: term
 title: tümsekleşmek
 slug: tumseklesmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tümsek durumuna gelmek; tümselmek

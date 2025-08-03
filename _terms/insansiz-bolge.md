@@ -2,6 +2,7 @@
 layout: term
 title: insansız bölge
 slug: insansiz-bolge
+letter: I
 lisan: Türkçe
 anlamlar:
 - Coğrafi şartları bakımından insanın yaşamasına uygun olmayan arazi

@@ -2,6 +2,7 @@
 layout: term
 title: akdedebilmek
 slug: akdedebilmek
+letter: A
 lisan: Arapça ʿaḳd + Türkçe edebilmek
 anlamlar:
 - Akdetme ihtimali veya imkânı bulunmak

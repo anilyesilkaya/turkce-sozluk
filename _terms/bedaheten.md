@@ -2,6 +2,7 @@
 layout: term
 title: bedaheten
 slug: bedaheten
+letter: B
 lisan: Arapça bedāheten
 anlamlar:
 - ► ansızın

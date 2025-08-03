@@ -2,6 +2,7 @@
 layout: term
 title: görüşülmek
 slug: gorusulmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Görüşme işi yapılmak; müzakere edilmek

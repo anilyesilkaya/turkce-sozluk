@@ -2,6 +2,7 @@
 layout: term
 title: azametli
 slug: azametli
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► ulu

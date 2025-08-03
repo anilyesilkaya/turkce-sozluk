@@ -2,6 +2,7 @@
 layout: term
 title: ozan
 slug: ozan
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► şair

@@ -2,6 +2,7 @@
 layout: term
 title: soruşturma
 slug: sorusturma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Soruşturmak işi

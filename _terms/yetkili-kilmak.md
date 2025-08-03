@@ -2,6 +2,7 @@
 layout: term
 title: yetkili kılmak
 slug: yetkili-kilmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yetkisini kullanma imkânını vermek

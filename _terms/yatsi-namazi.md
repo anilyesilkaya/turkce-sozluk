@@ -2,6 +2,7 @@
 layout: term
 title: yatsı namazı
 slug: yatsi-namazi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yatsı vakti kılınan namaz; yatsı

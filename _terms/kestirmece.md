@@ -2,6 +2,7 @@
 layout: term
 title: kestirmece
 slug: kestirmece
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► tahminî

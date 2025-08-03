@@ -2,6 +2,7 @@
 layout: term
 title: yazmacı
 slug: yazmaci
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yemeni, yorgan yüzü vb. şeylere elle veya tahta kalıplarla desen yapan kimse

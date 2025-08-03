@@ -2,6 +2,7 @@
 layout: term
 title: sıvama
 slug: sivama
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıvamak işi; sıvalama

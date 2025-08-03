@@ -2,6 +2,7 @@
 layout: term
 title: sıcacık
 slug: sicacik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Yeter derecede ve hoşa giden bir sıcaklığı olan

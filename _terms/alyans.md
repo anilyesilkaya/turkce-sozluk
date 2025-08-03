@@ -2,6 +2,7 @@
 layout: term
 title: alyans
 slug: alyans
+letter: A
 lisan: Fransızca alliance
 anlamlar:
 - Çiftler arasında nişanlılık veya evlilik durumunu gösteren, nişanda sağ elin, evlendikten sonra sol elin yüzük parmağına takılan yüzük

@@ -2,6 +2,7 @@
 layout: term
 title: yazı tura
 slug: yazi-tura
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Havaya atılan metal bir paranın, düştüğünde üstte kalacak tarafını önceden bilmeye dayanan şans oyunu

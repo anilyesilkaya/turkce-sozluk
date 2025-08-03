@@ -2,6 +2,7 @@
 layout: term
 title: akkelebek
 slug: akkelebek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Hemen bütün meyve ağaçları için tomurcuk düşmanı sayılan, iri ak kanatları kalın, kara damarlı bir kelebek (Aporia crataegi)

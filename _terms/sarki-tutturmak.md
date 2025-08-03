@@ -2,6 +2,7 @@
 layout: term
 title: şarkı tutturmak
 slug: sarki-tutturmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - bir şarkının sözlerini veya sadece bestesini seslendirmek

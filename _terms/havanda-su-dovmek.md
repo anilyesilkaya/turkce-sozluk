@@ -2,6 +2,7 @@
 layout: term
 title: havanda su dövmek
 slug: havanda-su-dovmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - boşuna uğraşmak

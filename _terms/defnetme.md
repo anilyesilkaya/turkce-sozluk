@@ -2,6 +2,7 @@
 layout: term
 title: defnetme
 slug: defnetme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Defnetmek işi

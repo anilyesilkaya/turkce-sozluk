@@ -2,6 +2,7 @@
 layout: term
 title: ki
 slug: ki
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir cümlenin sonuna getirildiğinde şüphe veya pekiştirme anlatan bir söz

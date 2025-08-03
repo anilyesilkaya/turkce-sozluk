@@ -2,6 +2,7 @@
 layout: term
 title: hegemonya
 slug: hegemonya
+letter: H
 lisan: Latince
 anlamlar:
 - Bir devletin başka bir devlet üzerindeki siyasal üstünlüğü ve baskısı

@@ -2,6 +2,7 @@
 layout: term
 title: mahalle
 slug: mahalle
+letter: M
 lisan: Arapça maḥalle
 anlamlar:
 - Bir şehrin bir kasabanın, büyükçe bir köyün en az beş yüz nüfusa sahip parçalarından her biri

@@ -2,6 +2,7 @@
 layout: term
 title: kuyruk sallamak
 slug: kuyruk-sallamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - yaltaklanmak

@@ -2,6 +2,7 @@
 layout: term
 title: steno
 slug: steno
+letter: S
 lisan: Fransızca sténo
 anlamlar:
 - Söylenen sözleri söylendiği kadar çabuk yazmaya elverişli, kısa ve yalın işaretlerden oluşan yazı yöntemi; stenografi

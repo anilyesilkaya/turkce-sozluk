@@ -2,6 +2,7 @@
 layout: term
 title: düşçü
 slug: duscu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düşleyen

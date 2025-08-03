@@ -2,6 +2,7 @@
 layout: term
 title: ne hesaba gelmek ne de kantara
 slug: ne-hesaba-gelmek-ne-de-kantara
+letter: N
 lisan: Türkçe
 anlamlar:
 - elle tutulur olmamak, tutarlı ve sağlam görünmemek

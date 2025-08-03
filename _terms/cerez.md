@@ -2,6 +2,7 @@
 layout: term
 title: çerez
 slug: cerez
+letter: Ç
 lisan: Farsça çaras
 anlamlar:
 - Asıl yemekten sayılmayan, peynir, zeytin vb. yiyecekler

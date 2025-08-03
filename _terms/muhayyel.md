@@ -2,6 +2,7 @@
 layout: term
 title: muhayyel
 slug: muhayyel
+letter: M
 lisan: Arapça muḫayyel
 anlamlar:
 - Hayal gücüyle yaratılan, hayal edilen

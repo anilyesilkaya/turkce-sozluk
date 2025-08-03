@@ -2,6 +2,7 @@
 layout: term
 title: kertenkele
 slug: kertenkele
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kertenkelelerden, uzun vücutlu, sivri kuyruklu, çevik, böcekçil, küçük sürüngen hayvan; elöpen (Lacertus)

@@ -2,6 +2,7 @@
 layout: term
 title: atkuyruğu
 slug: atkuyrugu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Atkuyruğugillerden, kök sapı ömürlü olan, genellikle nemli yerlerde yetişen ve ilaç olarak kullanılan bir bitki; zemberek otu, zuzubak otu (Equisetum arvense)

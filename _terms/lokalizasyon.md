@@ -2,6 +2,7 @@
 layout: term
 title: lokalizasyon
 slug: lokalizasyon
+letter: L
 lisan: Fransızca localisation
 anlamlar:
 - Bir şeyin yerini belirleme

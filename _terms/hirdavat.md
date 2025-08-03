@@ -2,6 +2,7 @@
 layout: term
 title: hırdavat
 slug: hirdavat
+letter: H
 lisan: Farsça ḫurde + Arapça -āt
 anlamlar:
 - Kilit, tel, çivi vb. metal eşya

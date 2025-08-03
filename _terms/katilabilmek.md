@@ -2,6 +2,7 @@
 layout: term
 title: katılabilmek
 slug: katilabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Katılma ihtimali veya imkânı bulunmak

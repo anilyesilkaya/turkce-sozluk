@@ -2,6 +2,7 @@
 layout: term
 title: acımasız
 slug: acimasiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Acıma duygusu olmayan; zalimce

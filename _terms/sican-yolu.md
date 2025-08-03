@@ -2,6 +2,7 @@
 layout: term
 title: sıçan yolu
 slug: sican-yolu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Eğri büğrü, dolambaçlı incecik yol

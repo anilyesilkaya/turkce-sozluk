@@ -2,6 +2,7 @@
 layout: term
 title: evlendirme
 slug: evlendirme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Evlendirmek işi; everme

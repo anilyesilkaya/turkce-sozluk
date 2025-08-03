@@ -2,6 +2,7 @@
 layout: term
 title: Yunanlı
 slug: yunanli
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► Yunan

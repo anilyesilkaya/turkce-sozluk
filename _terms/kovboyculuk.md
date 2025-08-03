@@ -2,6 +2,7 @@
 layout: term
 title: kovboyculuk
 slug: kovboyculuk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çocukların kendilerini kovboya benzeterek oynadığı bir oyun

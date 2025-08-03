@@ -2,6 +2,7 @@
 layout: term
 title: mahlul
 slug: mahlul
+letter: M
 lisan: Arapça maḥlūl
 anlamlar:
 - Hallolmuş, çözülmüş, dağılmış

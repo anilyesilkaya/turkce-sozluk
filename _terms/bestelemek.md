@@ -2,6 +2,7 @@
 layout: term
 title: bestelemek
 slug: bestelemek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beste yapmak

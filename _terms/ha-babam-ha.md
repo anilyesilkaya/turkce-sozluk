@@ -2,6 +2,7 @@
 layout: term
 title: ha babam (ha)
 slug: ha-babam-ha
+letter: H
 lisan: Türkçe
 anlamlar:
 - karşısındakinin çabasını artırmak için kullanılan bir söz

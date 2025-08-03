@@ -2,6 +2,7 @@
 layout: term
 title: şiniklemek
 slug: siniklemek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şinikle tartmak, ölçmek

@@ -2,6 +2,7 @@
 layout: term
 title: ince düşünceli
 slug: ince-dusunceli
+letter: I
 lisan: Türkçe
 anlamlar:
 - Ayrıntılı bir biçimde düşünen

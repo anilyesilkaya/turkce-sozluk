@@ -2,6 +2,7 @@
 layout: term
 title: volanlı
 slug: volanli
+letter: V
 lisan: Türkçe
 anlamlar:
 - Volanı olan

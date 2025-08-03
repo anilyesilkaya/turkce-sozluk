@@ -2,6 +2,7 @@
 layout: term
 title: namerde muhtaç olmak
 slug: namerde-muhtac-olmak
+letter: N
 lisan: Türkçe
 anlamlar:
 - güvenilmeyecek kimselerden yardım istemek zorunda kalmak

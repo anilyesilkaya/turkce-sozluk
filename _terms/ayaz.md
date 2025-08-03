@@ -2,6 +2,7 @@
 layout: term
 title: ayaz
 slug: ayaz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Duru, sakin havada çıkan kuru soğuk

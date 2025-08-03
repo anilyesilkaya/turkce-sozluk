@@ -2,6 +2,7 @@
 layout: term
 title: Ay modülü
 slug: ay-modulu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Gözlem araçlarını içinde taşıyan, Ay araştırmaları için kullanılan ve Ay yüzüne yumuşak iniş yapan araç; Ay örümceği

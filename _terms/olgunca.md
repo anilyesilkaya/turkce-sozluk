@@ -2,6 +2,7 @@
 layout: term
 title: olgunca
 slug: olgunca
+letter: O
 lisan: Türkçe
 anlamlar:
 - Olgun gibi, olguna benzer

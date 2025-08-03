@@ -2,6 +2,7 @@
 layout: term
 title: 'lokal anestezi '
 slug: lokal-anestezi
+letter: L
 lisan: Türkçe
 anlamlar:
 - ► bölgesel anestezi

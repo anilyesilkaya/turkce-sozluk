@@ -2,6 +2,7 @@
 layout: term
 title: çüş
 slug: cus
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Yürüyen eşeği durdurmak için söylenen söz

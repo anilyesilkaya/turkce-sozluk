@@ -2,6 +2,7 @@
 layout: term
 title: kusur etmemek
 slug: kusur-etmemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - hoş karşılanmayacak bir davranışta bulunmamak

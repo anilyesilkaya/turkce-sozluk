@@ -2,6 +2,7 @@
 layout: term
 title: telefon etmek (veya açmak)
 slug: telefon-etmek-veya-acmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - birini telefonla aramak ve bir şey söylemek

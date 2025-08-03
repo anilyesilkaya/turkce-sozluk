@@ -2,6 +2,7 @@
 layout: term
 title: tepkili
 slug: tepkili
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tepkisi olan

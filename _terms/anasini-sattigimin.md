@@ -2,6 +2,7 @@
 layout: term
 title: anasını sattığımın …
 slug: anasini-sattigimin
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir kimsenin hükmünü geçiremediği, elde edemediği bir şeye karşı duyduğu kızgınlığı ve öfkeyi ifade eden serzeniş ve sitem sözü

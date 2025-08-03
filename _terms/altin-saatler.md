@@ -2,6 +2,7 @@
 layout: term
 title: altın saatler
 slug: altin-saatler
+letter: A
 lisan: Türkçe
 anlamlar:
 - Televizyonun en çok izlendiği saatler

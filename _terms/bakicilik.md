@@ -2,6 +2,7 @@
 layout: term
 title: bakıcılık
 slug: bakicilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bakıcının yaptığı iş

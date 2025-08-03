@@ -2,6 +2,7 @@
 layout: term
 title: kıvamına (veya kıvama) gelmek
 slug: kivamina-veya-kivama-gelmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - kıvamını bulmak

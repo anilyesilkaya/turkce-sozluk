@@ -2,6 +2,7 @@
 layout: term
 title: muzaffer olmak
 slug: muzaffer-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - üstün gelmek, yenmek, zafer kazanmak

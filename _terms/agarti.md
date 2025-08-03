@@ -2,6 +2,7 @@
 layout: term
 title: ağartı
 slug: agarti
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► beyazlık

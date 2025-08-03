@@ -2,6 +2,7 @@
 layout: term
 title: yer tutmak
 slug: yer-tutmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yer ayırmak

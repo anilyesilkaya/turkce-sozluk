@@ -2,6 +2,7 @@
 layout: term
 title: bürünmek
 slug: burunmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bürüme işine konu olmak

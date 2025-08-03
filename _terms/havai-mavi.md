@@ -2,6 +2,7 @@
 layout: term
 title: havai mavi
 slug: havai-mavi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Göğün rengi, açık mavi

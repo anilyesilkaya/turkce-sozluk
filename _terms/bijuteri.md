@@ -2,6 +2,7 @@
 layout: term
 title: bijuteri
 slug: bijuteri
+letter: B
 lisan: Fransızca bijouterie
 anlamlar:
 - Kuyumcunun yaptığı değerli takıların tamamı

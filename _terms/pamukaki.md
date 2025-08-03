@@ -2,6 +2,7 @@
 layout: term
 title: pamukaki
 slug: pamukaki
+letter: P
 lisan: Farsça panbuḳ + Yunanca
 anlamlar:
 - Beyaz iş işlemekte kullanılan bir tür parlak pamuk ipliği

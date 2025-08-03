@@ -2,6 +2,7 @@
 layout: term
 title: canına okumak
 slug: canina-okumak
+letter: C
 lisan: Türkçe
 anlamlar:
 - berbat ve perişan etmek

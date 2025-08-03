@@ -2,6 +2,7 @@
 layout: term
 title: balat
 slug: balat
+letter: B
 lisan: Fransızca ballade
 anlamlar:
 - Orta Çağ'da, üç bentten oluşan bir Batı şiiri türü

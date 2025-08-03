@@ -2,6 +2,7 @@
 layout: term
 title: necat
 slug: necat
+letter: N
 lisan: Arapça necāt
 anlamlar:
 - ► kurtuluş

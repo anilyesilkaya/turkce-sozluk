@@ -2,6 +2,7 @@
 layout: term
 title: oldurmak
 slug: oldurmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Olmasını sağlamak

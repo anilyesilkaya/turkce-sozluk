@@ -2,6 +2,7 @@
 layout: term
 title: tapıncakçılık
 slug: tapincakcilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► fetişizm

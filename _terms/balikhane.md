@@ -2,6 +2,7 @@
 layout: term
 title: balıkhane
 slug: balikhane
+letter: B
 lisan: Türkçe balık + Farsça ḫāne
 anlamlar:
 - Balıkların toptan satışa çıkarıldığı, soğuk hava deposu olan yer

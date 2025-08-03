@@ -2,6 +2,7 @@
 layout: term
 title: diziş
 slug: dizis
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dizmek işi

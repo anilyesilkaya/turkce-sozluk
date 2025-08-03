@@ -2,6 +2,7 @@
 layout: term
 title: medeniyet
 slug: medeniyet
+letter: M
 lisan: Arapça medeniyyet
 anlamlar:
 - ► uygarlık

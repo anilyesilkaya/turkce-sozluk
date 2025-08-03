@@ -2,6 +2,7 @@
 layout: term
 title: göbeğini eritmek
 slug: gobegini-eritmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - zayıflamak

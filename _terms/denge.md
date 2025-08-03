@@ -2,6 +2,7 @@
 layout: term
 title: denge
 slug: denge
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir nesnenin veya bir insanın devrilmeden durma hâli; muvazene, balans

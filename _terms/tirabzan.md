@@ -2,6 +2,7 @@
 layout: term
 title: tırabzan
 slug: tirabzan
+letter: T
 lisan: Farsça dārbezīn
 anlamlar:
 - ► merdiven korkuluğu

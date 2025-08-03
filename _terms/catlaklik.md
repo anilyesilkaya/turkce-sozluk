@@ -2,6 +2,7 @@
 layout: term
 title: çatlaklık
 slug: catlaklik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çatlak olma durumu

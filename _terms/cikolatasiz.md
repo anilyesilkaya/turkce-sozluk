@@ -2,6 +2,7 @@
 layout: term
 title: çikolatasız
 slug: cikolatasiz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çikolatası olmayan

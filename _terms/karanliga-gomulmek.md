@@ -2,6 +2,7 @@
 layout: term
 title: karanlığa gömülmek
 slug: karanliga-gomulmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - koyu karanlık içinde kalmak

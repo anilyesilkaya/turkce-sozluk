@@ -2,6 +2,7 @@
 layout: term
 title: bahşetme
 slug: bahsetme
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bağışlama

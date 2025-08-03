@@ -2,6 +2,7 @@
 layout: term
 title: gedikli
 slug: gedikli
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gediği olan

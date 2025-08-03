@@ -2,6 +2,7 @@
 layout: term
 title: çizmeci
 slug: cizmeci
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çizme yapan veya satan kimse

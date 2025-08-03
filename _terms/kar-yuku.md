@@ -2,6 +2,7 @@
 layout: term
 title: kar yükü
 slug: kar-yuku
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yağan kar miktarının bina, ağaç vb. üzerinde yaptığı baskı gücü

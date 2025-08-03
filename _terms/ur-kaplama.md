@@ -2,6 +2,7 @@
 layout: term
 title: ur kaplama
 slug: ur-kaplama
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ağacın urlarından elde edilen ve çok kıymetli olan bir kaplama türü

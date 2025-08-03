@@ -2,6 +2,7 @@
 layout: term
 title: gerdellik
 slug: gerdellik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gerdellerin kullanılmadığı zamanlarda düzenli durmaları, devrilmemeleri için yapılan yuvarlak yer

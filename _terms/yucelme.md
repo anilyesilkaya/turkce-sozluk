@@ -2,6 +2,7 @@
 layout: term
 title: yücelme
 slug: yucelme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yücelmek durumu; itila, teali

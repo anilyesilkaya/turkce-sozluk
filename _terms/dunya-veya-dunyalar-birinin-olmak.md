@@ -2,6 +2,7 @@
 layout: term
 title: dünya (veya dünyalar) birinin olmak
 slug: dunya-veya-dunyalar-birinin-olmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - çok sevinmek

@@ -2,6 +2,7 @@
 layout: term
 title: buyurmak
 slug: buyurmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► emretmek

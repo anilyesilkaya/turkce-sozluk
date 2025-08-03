@@ -2,6 +2,7 @@
 layout: term
 title: çilekli
 slug: cilekli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - İçinde çilek bulunan (pasta, dondurma vb.)

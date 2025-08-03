@@ -2,6 +2,7 @@
 layout: term
 title: boğuşma
 slug: bogusma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boğuşmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: çoksamak
 slug: coksamak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çok görmüş olmak

@@ -2,6 +2,7 @@
 layout: term
 title: cisim
 slug: cisim
+letter: C
 lisan: Arapça cism
 anlamlar:
 - Doğada element, bileşik veya bunların karışımları hâlinde bulunan, kütlesi ve ağırlığı olan, duyularla algılanabilen şey

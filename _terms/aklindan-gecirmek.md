@@ -2,6 +2,7 @@
 layout: term
 title: aklından geçirmek
 slug: aklindan-gecirmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir şeyi yapmayı düşünmek, tasarlamak

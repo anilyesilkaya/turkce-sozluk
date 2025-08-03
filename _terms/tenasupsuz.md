@@ -2,6 +2,7 @@
 layout: term
 title: tenasüpsüz
 slug: tenasupsuz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tenasüp olmayan, aralarında uygunluk, düzgünlük bulunmayan

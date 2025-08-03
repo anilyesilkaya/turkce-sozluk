@@ -2,6 +2,7 @@
 layout: term
 title: sevk kâğıdı
 slug: sevk-kagidi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kişinin hastaneye gitmek için bağlı bulunduğu iş yerinden aldığı belge

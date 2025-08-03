@@ -2,6 +2,7 @@
 layout: term
 title: dayatışma
 slug: dayatisma
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► inatlaşma

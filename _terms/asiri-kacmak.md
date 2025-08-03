@@ -2,6 +2,7 @@
 layout: term
 title: aşırı kaçmak
 slug: asiri-kacmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Söz, davranış vb. bulunduğu yere veya duruma uygun düşmemek

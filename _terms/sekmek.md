@@ -2,6 +2,7 @@
 layout: term
 title: sekmek
 slug: sekmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Tek veya iki ayak üzerinde sıçramak

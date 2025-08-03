@@ -2,6 +2,7 @@
 layout: term
 title: ucube
 slug: ucube
+letter: U
 lisan: Arapça uʿcūbe
 anlamlar:
 - Çok acayip, şaşılacak kadar çirkin olan

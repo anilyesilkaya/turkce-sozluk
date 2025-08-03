@@ -2,6 +2,7 @@
 layout: term
 title: mezra
 slug: mezra
+letter: M
 lisan: Arapça mezraʿ
 anlamlar:
 - Ekime elverişli, ekilecek tarla veya yer; ekenek

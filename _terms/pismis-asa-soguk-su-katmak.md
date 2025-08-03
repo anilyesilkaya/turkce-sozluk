@@ -2,6 +2,7 @@
 layout: term
 title: pişmiş aşa (soğuk) su katmak
 slug: pismis-asa-soguk-su-katmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - yoluna girmiş olan bir işi bozmak

@@ -2,6 +2,7 @@
 layout: term
 title: ağaçlandırılmak
 slug: agaclandirilmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağaçlı duruma getirilmek

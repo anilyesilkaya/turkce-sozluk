@@ -2,6 +2,7 @@
 layout: term
 title: tören düzeni
 slug: toren-duzeni
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► protokol

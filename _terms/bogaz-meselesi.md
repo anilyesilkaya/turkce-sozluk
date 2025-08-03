@@ -2,6 +2,7 @@
 layout: term
 title: boğaz meselesi
 slug: bogaz-meselesi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Yeme içme gereksinimi

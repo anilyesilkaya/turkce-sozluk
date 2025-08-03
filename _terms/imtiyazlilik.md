@@ -2,6 +2,7 @@
 layout: term
 title: imtiyazlılık
 slug: imtiyazlilik
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► ayrıcalıklılık

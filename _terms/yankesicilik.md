@@ -2,6 +2,7 @@
 layout: term
 title: yankesicilik
 slug: yankesicilik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yankesici olma durumu; arpacılık (II), cepçilik, tırtıkçılık

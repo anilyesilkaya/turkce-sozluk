@@ -2,6 +2,7 @@
 layout: term
 title: çektiri
 slug: cektiri
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Yelkenleri olmakla birlikte kürekle de yol alan eski zaman gemisi; çektirme

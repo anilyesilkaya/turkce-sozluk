@@ -2,6 +2,7 @@
 layout: term
 title: perişanlık vermek
 slug: perisanlik-vermek
+letter: P
 lisan: Türkçe
 anlamlar:
 - perişan duruma getirmek, perişan etmek

@@ -2,6 +2,7 @@
 layout: term
 title: bağlılık
 slug: baglilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağlı olma durumu; merbutiyet

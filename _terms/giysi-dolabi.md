@@ -2,6 +2,7 @@
 layout: term
 title: giysi dolabı
 slug: giysi-dolabi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Giysilerin düzenli bir biçimde saklanmasını ve kullanmak istendiğinde kolay ulaşılmasını sağlayacak biçimde yapılmış dolap; elbise dolabı, esvap dolabı, gardırop

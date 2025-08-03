@@ -2,6 +2,7 @@
 layout: term
 title: süzme kâğıdı
 slug: suzme-kagidi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Süzme kahve yapımında kullanılan bir tür kâğıt; süzgeç kâğıdı, filtre kâğıdı

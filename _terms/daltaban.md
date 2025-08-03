@@ -2,6 +2,7 @@
 layout: term
 title: daltaban
 slug: daltaban
+letter: D
 lisan: Türkçe
 anlamlar:
 - Yalın ayak olan (kimse)

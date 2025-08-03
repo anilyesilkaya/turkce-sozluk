@@ -2,6 +2,7 @@
 layout: term
 title: can dostu
 slug: can-dostu
+letter: C
 lisan: Türkçe
 anlamlar:
 - Pek içten dost; can arkadaşı, candaş

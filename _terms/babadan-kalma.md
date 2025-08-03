@@ -2,6 +2,7 @@
 layout: term
 title: babadan kalma
 slug: babadan-kalma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Babanın miras olarak bıraktığı (mal, mülk, eşya)

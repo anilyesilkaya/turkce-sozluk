@@ -2,6 +2,7 @@
 layout: term
 title: sübyan koğuşu
 slug: subyan-kogusu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Tutukevlerinde suçlu çocukların bulunduğu bölüm

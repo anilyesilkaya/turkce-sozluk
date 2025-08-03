@@ -2,6 +2,7 @@
 layout: term
 title: kuş kadar canı olmak
 slug: kus-kadar-cani-olmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - küçük, cılız, güçsüz bir yaratık olmak

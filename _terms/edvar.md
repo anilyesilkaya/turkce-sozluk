@@ -2,6 +2,7 @@
 layout: term
 title: edvar
 slug: edvar
+letter: E
 lisan: Arapça edvār
 anlamlar:
 - Çağlar, devirler

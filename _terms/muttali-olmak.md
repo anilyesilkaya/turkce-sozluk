@@ -2,6 +2,7 @@
 layout: term
 title: muttali olmak
 slug: muttali-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - bir durumdan haberi olmak, bir durum üzerine bilgi edinmek

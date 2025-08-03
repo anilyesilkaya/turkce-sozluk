@@ -2,6 +2,7 @@
 layout: term
 title: curcunaya çıkmak
 slug: curcunaya-cikmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - curcunacılar orta oyununda saz takımı curcuna havası çalarken gürültü kopararak taklit ve oyunlar yapmak

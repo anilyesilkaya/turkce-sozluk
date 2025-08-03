@@ -2,6 +2,7 @@
 layout: term
 title: Selçuki
 slug: selcuki
+letter: S
 lisan: Türkçe Selçuk + Arapça ī
 anlamlar:
 - Selçuklularla ilgili

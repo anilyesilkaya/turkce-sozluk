@@ -2,6 +2,7 @@
 layout: term
 title: oklama
 slug: oklama
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oklamak işi

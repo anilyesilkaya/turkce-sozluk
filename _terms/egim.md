@@ -2,6 +2,7 @@
 layout: term
 title: eğim
 slug: egim
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eğilmiş olma durumu

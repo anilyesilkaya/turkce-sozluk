@@ -2,6 +2,7 @@
 layout: term
 title: onguncu
 slug: onguncu
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► totemci

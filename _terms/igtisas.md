@@ -2,6 +2,7 @@
 layout: term
 title: iğtişaş
 slug: igtisas
+letter: I
 lisan: Arapça iġtişāş
 anlamlar:
 - Karışıklık, kargaşa

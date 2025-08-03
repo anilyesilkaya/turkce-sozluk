@@ -2,6 +2,7 @@
 layout: term
 title: kendini dinlemek
 slug: kendini-dinlemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - hastalık kuruntusu içinde bulunmak

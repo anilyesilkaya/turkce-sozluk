@@ -2,6 +2,7 @@
 layout: term
 title: cılcıbık kalmak
 slug: cilcibik-kalmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - çıplak kalmak

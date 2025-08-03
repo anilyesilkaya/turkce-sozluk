@@ -2,6 +2,7 @@
 layout: term
 title: gariplik
 slug: gariplik
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► tuhaflık

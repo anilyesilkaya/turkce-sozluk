@@ -2,6 +2,7 @@
 layout: term
 title: gepegenç
 slug: gepegenc
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► gencecik

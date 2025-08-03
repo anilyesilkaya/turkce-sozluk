@@ -2,6 +2,7 @@
 layout: term
 title: bürünüvermek
 slug: burunuvermek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çabucak bürünmek

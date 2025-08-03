@@ -2,6 +2,7 @@
 layout: term
 title: yüreği çarpmak
 slug: yuregi-carpmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - kalbi çarpmak veya çalışmak

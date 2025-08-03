@@ -2,6 +2,7 @@
 layout: term
 title: balığa çıkmak
 slug: baliga-cikmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - balık avlamaya gitmek

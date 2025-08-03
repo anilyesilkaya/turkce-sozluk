@@ -2,6 +2,7 @@
 layout: term
 title: faullü
 slug: faullu
+letter: F
 lisan: Türkçe
 anlamlar:
 - Faulü olan, faul yapmış olan

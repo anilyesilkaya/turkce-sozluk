@@ -2,6 +2,7 @@
 layout: term
 title: erteletme
 slug: erteletme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Erteletmek işi

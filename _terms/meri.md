@@ -2,6 +2,7 @@
 layout: term
 title: meri
 slug: meri
+letter: M
 lisan: Arapça merʿī
 anlamlar:
 - ► geçerli

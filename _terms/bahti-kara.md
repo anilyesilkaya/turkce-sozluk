@@ -2,6 +2,7 @@
 layout: term
 title: bahtı kara
 slug: bahti-kara
+letter: B
 lisan: Türkçe
 anlamlar:
 - İşleri beklendiği gibi gitmeyen, olumsuz sonuçlanan (kimse)

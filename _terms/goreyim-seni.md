@@ -2,6 +2,7 @@
 layout: term
 title: göreyim seni
 slug: goreyim-seni
+letter: G
 lisan: Türkçe
 anlamlar:
 - senden başarılı sonuçlar bekliyorum

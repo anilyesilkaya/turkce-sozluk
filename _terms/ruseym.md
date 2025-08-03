@@ -2,6 +2,7 @@
 layout: term
 title: rüşeym
 slug: ruseym
+letter: R
 lisan: Arapça ruşeym
 anlamlar:
 - ► oğulcuk

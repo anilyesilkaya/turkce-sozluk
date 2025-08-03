@@ -2,6 +2,7 @@
 layout: term
 title: orak böceği
 slug: orak-bocegi
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► ağustos böceği

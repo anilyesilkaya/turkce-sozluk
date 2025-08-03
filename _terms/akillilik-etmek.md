@@ -2,6 +2,7 @@
 layout: term
 title: akıllılık etmek
 slug: akillilik-etmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - aklını gereği gibi kullanarak yerinde ve uygun davranmak

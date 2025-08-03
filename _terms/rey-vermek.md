@@ -2,6 +2,7 @@
 layout: term
 title: rey vermek
 slug: rey-vermek
+letter: R
 lisan: Türkçe
 anlamlar:
 - seçimde oy kullanmak

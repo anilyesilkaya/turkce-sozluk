@@ -2,6 +2,7 @@
 layout: term
 title: yüz aklığı
 slug: yuz-akligi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - İftihar edilecek, onurlanacak durum

@@ -2,6 +2,7 @@
 layout: term
 title: ölü yemeği
 slug: olu-yemegi
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Cenazeevine komşu veya akrabalar tarafından hazırlanıp getirilen yemek; ölü aşı

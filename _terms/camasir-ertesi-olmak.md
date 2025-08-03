@@ -2,6 +2,7 @@
 layout: term
 title: çamaşır ertesi olmak
 slug: camasir-ertesi-olmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - çamaşır yıkamaktan aşırı yorulup hasta olmak

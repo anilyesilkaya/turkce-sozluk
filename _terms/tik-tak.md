@@ -2,6 +2,7 @@
 layout: term
 title: tik tak
 slug: tik-tak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Genellikle saatin çalışırken çıkardığı ses

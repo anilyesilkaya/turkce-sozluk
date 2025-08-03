@@ -2,6 +2,7 @@
 layout: term
 title: kırpım
 slug: kirpim
+letter: K
 lisan: Türkçe
 anlamlar:
 - Koyun, keçi vb. için kırkmak işi

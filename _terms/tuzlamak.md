@@ -2,6 +2,7 @@
 layout: term
 title: tuzlamak
 slug: tuzlamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Herhangi bir şeyin üzerine tuz serpmek

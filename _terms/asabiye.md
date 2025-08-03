@@ -2,6 +2,7 @@
 layout: term
 title: asabiye
 slug: asabiye
+letter: A
 lisan: Arapça ʿaṣabiyyet
 anlamlar:
 - ► sinir bilimi

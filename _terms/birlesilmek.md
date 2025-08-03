@@ -2,6 +2,7 @@
 layout: term
 title: birleşilmek
 slug: birlesilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Birleşme işi yapılmak, bir araya gelinmek, buluşulmak

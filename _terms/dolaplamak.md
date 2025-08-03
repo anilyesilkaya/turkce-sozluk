@@ -2,6 +2,7 @@
 layout: term
 title: dolaplamak
 slug: dolaplamak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Rutubetini ayarlamak, fazla yağını ve bağlanmamış boyasını uzaklaştırmak, parlaklık vermek amacıyla dolap içinde talaş, kaolin, alçı vb. ile birlikte döndürerek deriyi tabaklamak

@@ -2,6 +2,7 @@
 layout: term
 title: zıvanadan çıkarmak
 slug: zivanadan-cikarmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - sinirlendirmek, öfkelendirmek

@@ -2,6 +2,7 @@
 layout: term
 title: kalıplı kıyafetli
 slug: kalipli-kiyafetli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Gösterişli, bakımlı olan

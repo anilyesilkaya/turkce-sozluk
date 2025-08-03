@@ -2,6 +2,7 @@
 layout: term
 title: döngü
 slug: dongu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Herhangi bir olayın birden fazla tekrarlanması

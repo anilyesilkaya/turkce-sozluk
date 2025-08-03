@@ -2,6 +2,7 @@
 layout: term
 title: işlenmek
 slug: islenmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İşleme işi yapılmak

@@ -2,6 +2,7 @@
 layout: term
 title: neden olmak
 slug: neden-olmak
+letter: N
 lisan: Türkçe
 anlamlar:
 - sebep olmak

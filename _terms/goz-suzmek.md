@@ -2,6 +2,7 @@
 layout: term
 title: göz süzmek
 slug: goz-suzmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - baygın ve anlamlı bakmak

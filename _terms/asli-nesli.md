@@ -2,6 +2,7 @@
 layout: term
 title: aslı nesli
 slug: asli-nesli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir kimsenin soyu sopu

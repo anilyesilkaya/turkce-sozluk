@@ -2,6 +2,7 @@
 layout: term
 title: model çıkarmak
 slug: model-cikarmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - kumaş kesiminden önce kâğıt vb. malzeme üzerine parçanın örneğini hazırlamak

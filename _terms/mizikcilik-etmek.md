@@ -2,6 +2,7 @@
 layout: term
 title: mızıkçılık etmek
 slug: mizikcilik-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - mızıklanmak, oyunbozanlık etmek, cızlamak

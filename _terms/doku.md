@@ -2,6 +2,7 @@
 layout: term
 title: doku
 slug: doku
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir vücudun veya bir organın yapı ögelerinden birini oluşturan hücreler bütünü; nesiç

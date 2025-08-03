@@ -2,6 +2,7 @@
 layout: term
 title: istihbar
 slug: istihbar
+letter: I
 lisan: Arapça istiḫbār
 anlamlar:
 - Haber ve bilgi alma

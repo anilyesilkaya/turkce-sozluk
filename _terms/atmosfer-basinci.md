@@ -2,6 +2,7 @@
 layout: term
 title: atmosfer basıncı
 slug: atmosfer-basinci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Atmosferin etrafını sardığı nesnelere her yönden uyguladığı basınç

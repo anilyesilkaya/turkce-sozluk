@@ -2,6 +2,7 @@
 layout: term
 title: solukluk
 slug: solukluk
+letter: S
 lisan: Türkçe
 anlamlar:
 - Soluk olma durumu

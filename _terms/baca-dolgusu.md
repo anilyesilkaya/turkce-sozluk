@@ -2,6 +2,7 @@
 layout: term
 title: baca dolgusu
 slug: baca-dolgusu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Eski veya sönmüş bir yanardağ bacasının bulunduğu yerde, aşınma sonucu ortaya çıkmış sert kayaçlardan oluşan tepe

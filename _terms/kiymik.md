@@ -2,6 +2,7 @@
 layout: term
 title: kıymık
 slug: kiymik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çok küçük ve sivri tahta, demir veya kemik parçası; çapak (I)

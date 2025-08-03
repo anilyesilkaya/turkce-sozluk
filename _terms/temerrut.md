@@ -2,6 +2,7 @@
 layout: term
 title: temerrüt
 slug: temerrut
+letter: T
 lisan: Arapça temerrud
 anlamlar:
 - Dikkafalılık, kafa tutma, direnme

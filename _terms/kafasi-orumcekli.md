@@ -2,6 +2,7 @@
 layout: term
 title: kafası örümcekli
 slug: kafasi-orumcekli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Düşüncesiz, kaba, anlayışsız olan (kimse)

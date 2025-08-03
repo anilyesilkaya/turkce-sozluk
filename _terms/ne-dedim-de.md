@@ -2,6 +2,7 @@
 layout: term
 title: ne dedim de
 slug: ne-dedim-de
+letter: N
 lisan: Türkçe
 anlamlar:
 - yapılan bir şeyden duyulan pişmanlığı belirten bir söz

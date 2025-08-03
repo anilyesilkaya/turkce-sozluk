@@ -2,6 +2,7 @@
 layout: term
 title: büyüyebilmek
 slug: buyuyebilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Büyüme ihtimali veya imkânı bulunmak

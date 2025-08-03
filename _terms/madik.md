@@ -2,6 +2,7 @@
 layout: term
 title: madik
 slug: madik
+letter: M
 lisan: Ermenice
 anlamlar:
 - Miskete fiske vurarak oynanan zıpzıp oyunu

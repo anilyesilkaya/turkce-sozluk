@@ -2,6 +2,7 @@
 layout: term
 title: dağıtma
 slug: dagitma
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dağıtmak işi; tefviz, tevzi

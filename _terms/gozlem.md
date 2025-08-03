@@ -2,6 +2,7 @@
 layout: term
 title: gözlem
 slug: gozlem
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bir nesnenin, olayın veya bir gerçeğin, niteliklerinin bilinmesi amacıyla, dikkatli ve planlı olarak ele alınıp incelenmesi; müşahede

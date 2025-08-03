@@ -2,6 +2,7 @@
 layout: term
 title: yağ gibi kaymak
 slug: yag-gibi-kaymak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - kızak, taşıt vb. sarsılmadan hızla gitmek

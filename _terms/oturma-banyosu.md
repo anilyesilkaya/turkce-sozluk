@@ -2,6 +2,7 @@
 layout: term
 title: 'oturma banyosu '
 slug: oturma-banyosu
+letter: O
 lisan: Türkçe
 anlamlar:
 - Rahatsızlıkları gidermek için makat bölgesinin sıcak suya sokulmasıyla yapılan işlem

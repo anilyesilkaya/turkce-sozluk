@@ -2,6 +2,7 @@
 layout: term
 title: attırabilmek
 slug: attirabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Attırma ihtimali veya imkânı bulunmak

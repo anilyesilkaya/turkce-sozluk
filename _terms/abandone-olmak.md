@@ -2,6 +2,7 @@
 layout: term
 title: abandone olmak
 slug: abandone-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - içinden çıkılamaz, çaresiz duruma düşmek, ne yapacağını bilememek

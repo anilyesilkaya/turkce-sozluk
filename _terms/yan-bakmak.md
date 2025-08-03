@@ -2,6 +2,7 @@
 layout: term
 title: yan bakmak
 slug: yan-bakmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - beğenmeyerek veya düşmanca bakmak

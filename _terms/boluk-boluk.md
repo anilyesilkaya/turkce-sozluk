@@ -2,6 +2,7 @@
 layout: term
 title: bölük bölük
 slug: boluk-boluk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Parçalara ayrılmış bir biçimde

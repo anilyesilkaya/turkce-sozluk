@@ -2,6 +2,7 @@
 layout: term
 title: peçe
 slug: pece
+letter: P
 lisan: İtalyanca pezza
 anlamlar:
 - Kadınların sokakta yüzlerine örttükleri ince siyah örtü; nikap

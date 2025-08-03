@@ -2,6 +2,7 @@
 layout: term
 title: kebir
 slug: kebir
+letter: K
 lisan: Arapça kebīr
 anlamlar:
 - Büyük, ulu olan

@@ -2,6 +2,7 @@
 layout: term
 title: tembihlemek
 slug: tembihlemek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Hatırlatmak, tembih etmek

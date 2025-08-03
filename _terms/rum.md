@@ -2,6 +2,7 @@
 layout: term
 title: Rum
 slug: rum
+letter: R
 lisan: Arapça rūm
 anlamlar:
 - Müslüman ülkelerde oturan Yunan asıllı kimse

@@ -2,6 +2,7 @@
 layout: term
 title: çözgünlük
 slug: cozgunluk
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çözgün olma durumu

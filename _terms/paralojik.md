@@ -2,6 +2,7 @@
 layout: term
 title: paralojik
 slug: paralojik
+letter: P
 lisan: Fransızca paralogique
 anlamlar:
 - Mantığa uymayan

@@ -2,6 +2,7 @@
 layout: term
 title: şahsen
 slug: sahsen
+letter: Ş
 lisan: Arapça şaḫṣen
 anlamlar:
 - Aracısız, kendi (kendim, kendin ...) olarak; bizzat

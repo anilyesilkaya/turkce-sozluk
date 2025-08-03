@@ -2,6 +2,7 @@
 layout: term
 title: gücenmek
 slug: gucenmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Birinin herhangi bir söz veya davranışı yüzünden kırgınlık duymak; içerlemek, kırılmak

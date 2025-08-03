@@ -2,6 +2,7 @@
 layout: term
 title: ağrımak
 slug: agrimak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Vücudun bir yeri ağrılı durumda olmak

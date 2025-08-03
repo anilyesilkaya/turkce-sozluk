@@ -2,6 +2,7 @@
 layout: term
 title: yıldırma
 slug: yildirma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yıldırmak işi

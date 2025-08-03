@@ -2,6 +2,7 @@
 layout: term
 title: haleldar etmek
 slug: haleldar-etmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - bozmak, sarsmak

@@ -2,6 +2,7 @@
 layout: term
 title: müselsel
 slug: muselsel
+letter: M
 lisan: Arapça muselsel
 anlamlar:
 - Birbirine bağlı olan, art arda zincirleme olarak gelen

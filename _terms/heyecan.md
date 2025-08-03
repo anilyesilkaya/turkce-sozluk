@@ -2,6 +2,7 @@
 layout: term
 title: heyecan
 slug: heyecan
+letter: H
 lisan: Arapça heyecān
 anlamlar:
 - Sevinç, korku, kızgınlık, üzüntü, kıskançlık, sevgi vb. sebeplerle ortaya çıkan güçlü ve geçici duygu durumu; teheyyüç

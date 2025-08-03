@@ -2,6 +2,7 @@
 layout: term
 title: çıtı çıkmamak
 slug: citi-cikmamak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - hiç konuşmamak

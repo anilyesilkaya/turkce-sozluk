@@ -2,6 +2,7 @@
 layout: term
 title: paha biçilmez
 slug: paha-bicilmez
+letter: P
 lisan: Türkçe
 anlamlar:
 - değeri ölçülemeyecek kadar yüksek

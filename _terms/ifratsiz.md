@@ -2,6 +2,7 @@
 layout: term
 title: ifratsız
 slug: ifratsiz
+letter: I
 lisan: Türkçe
 anlamlar:
 - İfratı bulunmayan, aşırıya kaçmayan

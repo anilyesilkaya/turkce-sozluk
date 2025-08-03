@@ -2,6 +2,7 @@
 layout: term
 title: makosen
 slug: makosen
+letter: M
 lisan: Fransızca mocassin
 anlamlar:
 - Kuzey Amerika Kızılderililerinin giydiği deriden yapılmış, tek parça ayakkabı

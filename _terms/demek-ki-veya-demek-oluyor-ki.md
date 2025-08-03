@@ -2,6 +2,7 @@
 layout: term
 title: demek ki (veya demek oluyor ki)
 slug: demek-ki-veya-demek-oluyor-ki
+letter: D
 lisan: Türkçe
 anlamlar:
 - sonuç olarak denilebilir ki

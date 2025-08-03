@@ -2,6 +2,7 @@
 layout: term
 title: çizintisiz
 slug: cizintisiz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çizinti yapılmamış

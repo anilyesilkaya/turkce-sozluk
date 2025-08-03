@@ -2,6 +2,7 @@
 layout: term
 title: çağrışmak
 slug: cagrismak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Birbirini çağırmak

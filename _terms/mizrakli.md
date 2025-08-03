@@ -2,6 +2,7 @@
 layout: term
 title: mızraklı
 slug: mizrakli
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mızrağı olan, mızrak taşıyan

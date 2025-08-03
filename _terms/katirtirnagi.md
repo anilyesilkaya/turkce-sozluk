@@ -2,6 +2,7 @@
 layout: term
 title: katırtırnağı
 slug: katirtirnagi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Baklagillerden, dalları çok ince, çiçekleri sarı, bazı türleri hekimlikte idrar söktürücü olarak kullanılan bir bitki (Spartium junceum)

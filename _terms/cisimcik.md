@@ -2,6 +2,7 @@
 layout: term
 title: cisimcik
 slug: cisimcik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Küçük cisim

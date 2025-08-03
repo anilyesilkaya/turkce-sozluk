@@ -2,6 +2,7 @@
 layout: term
 title: çöpçü
 slug: copcu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Evlerden çöpleri toplayan veya sokakları süpüren temizlik işçisi; gübürcü

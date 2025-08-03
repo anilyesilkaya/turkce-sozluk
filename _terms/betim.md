@@ -2,6 +2,7 @@
 layout: term
 title: betim
 slug: betim
+letter: B
 lisan: Türkçe
 anlamlar:
 - Betimlemek işi

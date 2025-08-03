@@ -2,6 +2,7 @@
 layout: term
 title: kaşımak
 slug: kasimak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Vücudun herhangi bir yerindeki kaşıntıyı gidermek için tırnakla veya başka bir şeyle deriyi hafifçe ovmak

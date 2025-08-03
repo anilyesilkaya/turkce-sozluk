@@ -2,6 +2,7 @@
 layout: term
 title: felaketini hazırlamak
 slug: felaketini-hazirlamak
+letter: F
 lisan: Türkçe
 anlamlar:
 - kötü bir sona yol açmak

@@ -2,6 +2,7 @@
 layout: term
 title: uğultu
 slug: ugultu
+letter: U
 lisan: Türkçe
 anlamlar:
 - Gürültülü, boğuk ve anlaşılmaz ses, uğuldama sesi

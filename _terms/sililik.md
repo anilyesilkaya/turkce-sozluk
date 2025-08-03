@@ -2,6 +2,7 @@
 layout: term
 title: sililik
 slug: sililik
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► temizlik

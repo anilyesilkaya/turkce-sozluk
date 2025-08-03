@@ -2,6 +2,7 @@
 layout: term
 title: zarif
 slug: zarif
+letter: Z
 lisan: Arapça ẓarīf
 anlamlar:
 - Çekicilik, biçim, görünüş, durum, konuşma ve davranışlarıyla hoşa giden, beğenilen; zarafetli

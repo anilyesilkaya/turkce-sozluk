@@ -2,6 +2,7 @@
 layout: term
 title: kapıp koyuvermek
 slug: kapip-koyuvermek
+letter: K
 lisan: Türkçe
 anlamlar:
 - kendini salmak, bırakmak

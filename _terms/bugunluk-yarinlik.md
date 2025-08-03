@@ -2,6 +2,7 @@
 layout: term
 title: bugünlük yarınlık
 slug: bugunluk-yarinlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çok kısa bir sürede yapılan veya yapılabilecek olan

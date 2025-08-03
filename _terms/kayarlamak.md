@@ -2,6 +2,7 @@
 layout: term
 title: kayarlamak
 slug: kayarlamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Hayvanın eskiyen nallarını onarmak, eskiyen nalın çivilerini yenilemek

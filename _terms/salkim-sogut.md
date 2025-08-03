@@ -2,6 +2,7 @@
 layout: term
 title: salkım söğüt
 slug: salkim-sogut
+letter: S
 lisan: Türkçe
 anlamlar:
 - Dalları ve yaprakları yere sarkan bir çeşit söğüt (Salix babylonica)

@@ -2,6 +2,7 @@
 layout: term
 title: beyefendi
 slug: beyefendi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Saygı belirtmek için erkek adlarının sonuna getirilen veya bu adların yerine kullanılan san

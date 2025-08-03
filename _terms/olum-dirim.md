@@ -2,6 +2,7 @@
 layout: term
 title: ölüm dirim
 slug: olum-dirim
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► ölüm kalım

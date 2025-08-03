@@ -2,6 +2,7 @@
 layout: term
 title: sofistike
 slug: sofistike
+letter: S
 lisan: Fransızca sophistiqué
 anlamlar:
 - ► yapmacık

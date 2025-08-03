@@ -2,6 +2,7 @@
 layout: term
 title: ceninisakıt
 slug: ceninisakit
+letter: C
 lisan: Arapça cenīn + sāḳiṭ
 anlamlar:
 - ► düşük

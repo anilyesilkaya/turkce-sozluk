@@ -2,6 +2,7 @@
 layout: term
 title: gündüz
 slug: gunduz
+letter: G
 lisan: Türkçe
 anlamlar:
 - Günün sabahtan akşama kadar süren aydınlık bölümü; gün

@@ -2,6 +2,7 @@
 layout: term
 title: terbiyece
 slug: terbiyece
+letter: T
 lisan: Türkçe
 anlamlar:
 - Terbiye bakımından

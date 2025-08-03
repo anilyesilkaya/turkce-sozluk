@@ -2,6 +2,7 @@
 layout: term
 title: umutsuz
 slug: umutsuz
+letter: U
 lisan: Türkçe
 anlamlar:
 - Umudu olmayan, hiç umudu kalmayan; ümitsiz, nevmit

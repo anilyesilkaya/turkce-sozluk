@@ -2,6 +2,7 @@
 layout: term
 title: bargâh
 slug: bargah
+letter: B
 lisan: Farsça bārgāh
 anlamlar:
 - İçerisine izin alınarak girilebilen makam

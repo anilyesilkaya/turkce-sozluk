@@ -2,6 +2,7 @@
 layout: term
 title: melodram
 slug: melodram
+letter: M
 lisan: Fransızca mélodrame
 anlamlar:
 - Yunan trajedilerinde koro başı ile bir oyuncu arasında geçen şarkılı diyalog

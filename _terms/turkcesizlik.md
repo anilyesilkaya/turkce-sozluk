@@ -2,6 +2,7 @@
 layout: term
 title: Türkçesizlik
 slug: turkcesizlik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Türkçeyi iyi bilmeme, Türkçeyi yanlış kullanma

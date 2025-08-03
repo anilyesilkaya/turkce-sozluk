@@ -2,6 +2,7 @@
 layout: term
 title: iki yüzlü
 slug: iki-yuzlu
+letter: I
 lisan: Türkçe
 anlamlar:
 - İki tarafı olan

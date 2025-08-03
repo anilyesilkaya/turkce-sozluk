@@ -2,6 +2,7 @@
 layout: term
 title: oldukça
 slug: oldukca
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► olabildiğince

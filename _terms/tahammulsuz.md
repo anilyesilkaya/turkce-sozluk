@@ -2,6 +2,7 @@
 layout: term
 title: tahammülsüz
 slug: tahammulsuz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tahammülü olmayan

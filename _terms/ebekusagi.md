@@ -2,6 +2,7 @@
 layout: term
 title: ebekuşağı
 slug: ebekusagi
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► gökkuşağı

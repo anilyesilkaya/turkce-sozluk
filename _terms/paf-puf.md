@@ -2,6 +2,7 @@
 layout: term
 title: 'paf puf '
 slug: paf-puf
+letter: P
 lisan: Türkçe
 anlamlar:
 - Yorgunluk, sıkıntı ve üzüntü dolayısıyla çıkan oflama sesi

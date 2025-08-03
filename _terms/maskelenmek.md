@@ -2,6 +2,7 @@
 layout: term
 title: maskelenmek
 slug: maskelenmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - Maskeleme işi yapılmak veya maskeleme işine konu olmak

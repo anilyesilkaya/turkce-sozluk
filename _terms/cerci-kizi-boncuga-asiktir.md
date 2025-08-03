@@ -2,6 +2,7 @@
 layout: term
 title: çerçi kızı boncuğa âşıktır
 slug: cerci-kizi-boncuga-asiktir
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - '"bir insan hangi işle uğraşıyorsa yakınındakiler de o işi çok sever" anlamında kullanılan bir söz'

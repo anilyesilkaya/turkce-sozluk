@@ -2,6 +2,7 @@
 layout: term
 title: çılgınlaşmak
 slug: cilginlasmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çılgınca davranışlarda bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: pas rengi
 slug: pas-rengi
+letter: P
 lisan: Türkçe
 anlamlar:
 - Kırmızıyla kahverengi arasındaki renk

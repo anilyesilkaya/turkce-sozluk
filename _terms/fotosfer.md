@@ -2,6 +2,7 @@
 layout: term
 title: fotosfer
 slug: fotosfer
+letter: F
 lisan: Fransızca photosphère
 anlamlar:
 - ► ışık yuvarı

@@ -2,6 +2,7 @@
 layout: term
 title: eksen kayması
 slug: eksen-kaymasi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eksenin bir tarafa doğru meyletmesi

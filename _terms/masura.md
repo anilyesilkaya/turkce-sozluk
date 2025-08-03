@@ -2,6 +2,7 @@
 layout: term
 title: masura
 slug: masura
+letter: M
 lisan: Rumca
 anlamlar:
 - Koni veya silindir biçiminde olup üzerine şerit, iplik vb. sarılan, karton, tahta, plastik vb.nden yapılan araç

@@ -2,6 +2,7 @@
 layout: term
 title: yarık
 slug: yarik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yarılarak açılmış yer; yirik

@@ -2,6 +2,7 @@
 layout: term
 title: dertli
 slug: dertli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Derdi olan; yaralı

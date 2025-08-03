@@ -2,6 +2,7 @@
 layout: term
 title: kokulanmak
 slug: kokulanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Koku sürünmek

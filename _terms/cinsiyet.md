@@ -2,6 +2,7 @@
 layout: term
 title: cinsiyet
 slug: cinsiyet
+letter: C
 lisan: Arapça cinsiyyet
 anlamlar:
 - Bireye, üreme işinde ayrı bir rol veren ve erkekle dişiyi ayırt ettiren yaradılış özelliği; eşey, cinslik, seks

@@ -2,6 +2,7 @@
 layout: term
 title: müşkül
 slug: muskul
+letter: M
 lisan: Arapça muşkil
 anlamlar:
 - ► zor

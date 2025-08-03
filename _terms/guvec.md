@@ -2,6 +2,7 @@
 layout: term
 title: güveç
 slug: guvec
+letter: G
 lisan: Türkçe
 anlamlar:
 - İçinde yemek pişirilen toprak kap

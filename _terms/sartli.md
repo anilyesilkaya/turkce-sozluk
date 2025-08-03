@@ -2,6 +2,7 @@
 layout: term
 title: şartlı
 slug: sartli
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şarta bağlı; koşullu, meşrut

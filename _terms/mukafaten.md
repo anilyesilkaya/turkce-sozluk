@@ -2,6 +2,7 @@
 layout: term
 title: mükâfaten
 slug: mukafaten
+letter: M
 lisan: Arapça mukāfāten
 anlamlar:
 - Ödül olarak

@@ -2,6 +2,7 @@
 layout: term
 title: diğer
 slug: diger
+letter: D
 lisan: Farsça dīger
 anlamlar:
 - ► öteki

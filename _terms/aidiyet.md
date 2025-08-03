@@ -2,6 +2,7 @@
 layout: term
 title: aidiyet
 slug: aidiyet
+letter: A
 lisan: Arapça ʿāʾidiyyet
 anlamlar:
 - ► aitlik

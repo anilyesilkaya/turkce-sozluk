@@ -2,6 +2,7 @@
 layout: term
 title: eytişimsel
 slug: eytisimsel
+letter: E
 lisan: Türkçe
 anlamlar:
 - Diyalektik ile ilgili

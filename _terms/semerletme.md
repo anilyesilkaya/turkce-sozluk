@@ -2,6 +2,7 @@
 layout: term
 title: semerletme
 slug: semerletme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Semerletmek işi

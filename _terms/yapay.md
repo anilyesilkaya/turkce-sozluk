@@ -2,6 +2,7 @@
 layout: term
 title: yapay
 slug: yapay
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Doğadaki örneklerine benzetilerek insan eliyle yapılmış veya üretilmiş; yapma, bileşimli, suni, tasni, sentetik, doğal karşıtı

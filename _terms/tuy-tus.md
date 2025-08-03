@@ -2,6 +2,7 @@
 layout: term
 title: tüy tüs
 slug: tuy-tus
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tüy, saç sakal

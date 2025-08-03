@@ -2,6 +2,7 @@
 layout: term
 title: vürut
 slug: vurut
+letter: V
 lisan: Arapça vurūd
 anlamlar:
 - ► geliş

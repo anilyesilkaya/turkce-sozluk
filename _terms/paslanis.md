@@ -2,6 +2,7 @@
 layout: term
 title: paslanış
 slug: paslanis
+letter: P
 lisan: Türkçe
 anlamlar:
 - Paslanmak işi

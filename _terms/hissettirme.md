@@ -2,6 +2,7 @@
 layout: term
 title: hissettirme
 slug: hissettirme
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hissettirmek işi

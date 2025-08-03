@@ -2,6 +2,7 @@
 layout: term
 title: litre
 slug: litre
+letter: L
 lisan: Yunanca
 anlamlar:
 - Sıvıları ölçmede kullanılan, bir desimetreküp hacminde ölçü birimi

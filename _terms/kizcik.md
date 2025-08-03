@@ -2,6 +2,7 @@
 layout: term
 title: kızcık
 slug: kizcik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kızlara sevgiyle yaklaşıldığını belirten bir söz

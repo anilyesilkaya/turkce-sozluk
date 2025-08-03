@@ -2,6 +2,7 @@
 layout: term
 title: löklemek
 slug: loklemek
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lökle yapıştırmak

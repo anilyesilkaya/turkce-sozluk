@@ -2,6 +2,7 @@
 layout: term
 title: çepçevre
 slug: cepcevre
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çepeçevre

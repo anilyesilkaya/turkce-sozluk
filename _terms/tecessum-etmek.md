@@ -2,6 +2,7 @@
 layout: term
 title: tecessüm etmek
 slug: tecessum-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - cisimlenmek

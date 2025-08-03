@@ -2,6 +2,7 @@
 layout: term
 title: pervane
 slug: pervane
+letter: P
 lisan: Farsça pervāne
 anlamlar:
 - Geceleri ışık çevresinde dönen küçük kelebek; kepenek (II)

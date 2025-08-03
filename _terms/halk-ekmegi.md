@@ -2,6 +2,7 @@
 layout: term
 title: halk ekmeği
 slug: halk-ekmegi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Belediyelerce indirimli fiyata satılan ekmek

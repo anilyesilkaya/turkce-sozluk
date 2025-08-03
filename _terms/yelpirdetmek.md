@@ -2,6 +2,7 @@
 layout: term
 title: yelpirdetmek
 slug: yelpirdetmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Hafifçe sallamak, kımıldatmak

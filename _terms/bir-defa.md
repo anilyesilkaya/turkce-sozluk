@@ -2,6 +2,7 @@
 layout: term
 title: bir defa
 slug: bir-defa
+letter: B
 lisan: Türkçe
 anlamlar:
 - İlk önce

@@ -2,6 +2,7 @@
 layout: term
 title: kusur aramak
 slug: kusur-aramak
+letter: K
 lisan: Türkçe
 anlamlar:
 - yanlışını, eksikliğini, elverişsizliğini aramak

@@ -2,6 +2,7 @@
 layout: term
 title: eğilmek
 slug: egilmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Bir yana doğru eğik duruma gelmek

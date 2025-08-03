@@ -2,6 +2,7 @@
 layout: term
 title: ağzı yanmak
 slug: agzi-yanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - büyük zarar görmek

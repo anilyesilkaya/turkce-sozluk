@@ -2,6 +2,7 @@
 layout: term
 title: rekâket
 slug: rekaket
+letter: R
 lisan: Arapça rekāket
 anlamlar:
 - ► kekemelik

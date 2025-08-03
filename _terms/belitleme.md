@@ -2,6 +2,7 @@
 layout: term
 title: belitleme
 slug: belitleme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belitlemek işi

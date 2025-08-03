@@ -2,6 +2,7 @@
 layout: term
 title: midevi
 slug: midevi
+letter: M
 lisan: Arapça miʿdevī
 anlamlar:
 - Mide ile ilgili olan

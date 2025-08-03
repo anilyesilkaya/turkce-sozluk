@@ -2,6 +2,7 @@
 layout: term
 title: beriki
 slug: beriki
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beride olan

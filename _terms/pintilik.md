@@ -2,6 +2,7 @@
 layout: term
 title: pintilik
 slug: pintilik
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► cimrilik

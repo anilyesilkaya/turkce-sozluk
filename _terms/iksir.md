@@ -2,6 +2,7 @@
 layout: term
 title: iksir
 slug: iksir
+letter: I
 lisan: Arapça iksīr
 anlamlar:
 - İç ferahlatıcı ilaç veya sıvı

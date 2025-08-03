@@ -2,6 +2,7 @@
 layout: term
 title: mazot
 slug: mazot
+letter: M
 lisan: Rusça
 anlamlar:
 - Yakıt olarak kullanılan, ham petrolün damıtma ürünlerinden biri; motorin

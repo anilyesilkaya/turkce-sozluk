@@ -2,6 +2,7 @@
 layout: term
 title: kasmak
 slug: kasmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kasları gergin duruma getirmek

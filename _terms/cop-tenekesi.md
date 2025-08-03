@@ -2,6 +2,7 @@
 layout: term
 title: çöp tenekesi
 slug: cop-tenekesi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Sokaklarda çöplerin içinde toplandığı büyük kap

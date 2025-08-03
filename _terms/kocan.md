@@ -2,6 +2,7 @@
 layout: term
 title: koçan
 slug: kocan
+letter: K
 lisan: Türkçe
 anlamlar:
 - Marul, lahana vb. sebzelerde yaprakların çıktığı sert gövde

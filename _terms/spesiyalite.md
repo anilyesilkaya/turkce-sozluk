@@ -2,6 +2,7 @@
 layout: term
 title: spesiyalite
 slug: spesiyalite
+letter: S
 lisan: Fransızca spécialité
 anlamlar:
 - ► özellik

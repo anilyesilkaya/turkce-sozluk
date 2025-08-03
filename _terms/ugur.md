@@ -2,6 +2,7 @@
 layout: term
 title: uğur
 slug: ugur
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► ön

@@ -2,6 +2,7 @@
 layout: term
 title: jöle
 slug: jole
+letter: J
 lisan: Fransızca gelée
 anlamlar:
 - Meyve suyunun şekerle kaynatılmasıyla istenilen yoğunlukta elde edilmiş şekerleme

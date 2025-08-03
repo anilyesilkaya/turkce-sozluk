@@ -2,6 +2,7 @@
 layout: term
 title: çıkışlı
 slug: cikisli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Belli bir okulu, bölümü veya öğrenim kademesini bitirmiş olan; mezun

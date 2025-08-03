@@ -2,6 +2,7 @@
 layout: term
 title: sarılgan gövde
 slug: sarilgan-govde
+letter: S
 lisan: Türkçe
 anlamlar:
 - Tutunup sarılmaya yarayan uzun sürgün

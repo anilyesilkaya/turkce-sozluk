@@ -2,6 +2,7 @@
 layout: term
 title: hırçın
 slug: hircin
+letter: H
 lisan: Türkçe
 anlamlar:
 - Belirli bir sebebi olmadan sinirlenip huysuzluk eden (kimse); aksi

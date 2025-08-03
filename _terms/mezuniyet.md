@@ -2,6 +2,7 @@
 layout: term
 title: mezuniyet
 slug: mezuniyet
+letter: M
 lisan: Arapça meʾẕūniyyet
 anlamlar:
 - Okulu bitirme

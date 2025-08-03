@@ -2,6 +2,7 @@
 layout: term
 title: nevmit olmak
 slug: nevmit-olmak
+letter: N
 lisan: Türkçe
 anlamlar:
 - umudu kalmamak

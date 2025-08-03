@@ -2,6 +2,7 @@
 layout: term
 title: ketencik
 slug: ketencik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Deniz yosununun ince bir cinsi (Muscus arboreus)

@@ -2,6 +2,7 @@
 layout: term
 title: süt dökmüş kedi gibi
 slug: sut-dokmus-kedi-gibi
+letter: S
 lisan: Türkçe
 anlamlar:
 - suçunu bilerek, bundan utanarak

@@ -2,6 +2,7 @@
 layout: term
 title: dil coğrafyası
 slug: dil-cografyasi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Yeryüzünde dillerin yayıldığı alanları inceleyen bilim dalı

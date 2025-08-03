@@ -2,6 +2,7 @@
 layout: term
 title: katım
 slug: katim
+letter: K
 lisan: Türkçe
 anlamlar:
 - Katma işi

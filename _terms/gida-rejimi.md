@@ -2,6 +2,7 @@
 layout: term
 title: gıda rejimi
 slug: gida-rejimi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gıdaya bağlı rejim

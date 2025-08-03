@@ -2,6 +2,7 @@
 layout: term
 title: pek çoğu
 slug: pek-cogu
+letter: P
 lisan: Türkçe
 anlamlar:
 - Yeterinden fazlası

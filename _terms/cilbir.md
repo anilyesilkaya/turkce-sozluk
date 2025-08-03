@@ -2,6 +2,7 @@
 layout: term
 title: çılbır
 slug: cilbir
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - İp veya zincirden yapılmış yular sapı

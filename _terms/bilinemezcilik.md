@@ -2,6 +2,7 @@
 layout: term
 title: bilinemezcilik
 slug: bilinemezcilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilginin bağıntılı olduğuna ve bundan dolayı salt olmadığına inanan öğreti

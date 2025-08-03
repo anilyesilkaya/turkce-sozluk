@@ -2,6 +2,7 @@
 layout: term
 title: iğne yemek
 slug: igne-yemek
+letter: I
 lisan: Türkçe
 anlamlar:
 - iğne olmak

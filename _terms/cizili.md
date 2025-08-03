@@ -2,6 +2,7 @@
 layout: term
 title: çizili
 slug: cizili
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çizilmiş olan

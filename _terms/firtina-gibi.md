@@ -2,6 +2,7 @@
 layout: term
 title: fırtına gibi
 slug: firtina-gibi
+letter: F
 lisan: Türkçe
 anlamlar:
 - hızla, birdenbire

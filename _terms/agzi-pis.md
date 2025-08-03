@@ -2,6 +2,7 @@
 layout: term
 title: ağzı pis
 slug: agzi-pis
+letter: A
 lisan: Türkçe
 anlamlar:
 - Sövmeyi, açık saçık konuşmayı huy edinmiş olan (kimse)

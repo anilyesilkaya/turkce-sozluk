@@ -2,6 +2,7 @@
 layout: term
 title: sinirlendirmek
 slug: sinirlendirmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sinirlenmesine sebep olmak

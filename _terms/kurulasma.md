@@ -2,6 +2,7 @@
 layout: term
 title: kurulaşma
 slug: kurulasma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kurulaşmak işi

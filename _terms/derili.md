@@ -2,6 +2,7 @@
 layout: term
 title: derili
 slug: derili
+letter: D
 lisan: Türkçe
 anlamlar:
 - Derisi olan

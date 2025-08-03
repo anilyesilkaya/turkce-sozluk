@@ -2,6 +2,7 @@
 layout: term
 title: kaldırıvermek
 slug: kaldirivermek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çabucak kaldırmak; kaldırtıvermek

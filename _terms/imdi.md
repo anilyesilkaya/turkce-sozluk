@@ -2,6 +2,7 @@
 layout: term
 title: imdi
 slug: imdi
+letter: I
 lisan: Türkçe
 anlamlar:
 - Buna göre, şu hâlde, artık

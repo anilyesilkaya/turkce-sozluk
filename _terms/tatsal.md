@@ -2,6 +2,7 @@
 layout: term
 title: tatsal
 slug: tatsal
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tat alma duyusu ile ilgili

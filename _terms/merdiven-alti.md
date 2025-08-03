@@ -2,6 +2,7 @@
 layout: term
 title: merdiven altı
 slug: merdiven-alti
+letter: M
 lisan: Türkçe
 anlamlar:
 - Katlar arasındaki merdivenlerin altında kalan boşluk

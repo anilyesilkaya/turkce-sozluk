@@ -2,6 +2,7 @@
 layout: term
 title: tüplü
 slug: tuplu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tüpü olan

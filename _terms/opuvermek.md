@@ -2,6 +2,7 @@
 layout: term
 title: öpüvermek
 slug: opuvermek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ansızın öpmek

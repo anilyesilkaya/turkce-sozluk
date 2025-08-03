@@ -2,6 +2,7 @@
 layout: term
 title: azimkârane
 slug: azimkarane
+letter: A
 lisan: Arapça ʿazm + Farsça -kār-āne
 anlamlar:
 - Kararlılıkla, kararlı olarak

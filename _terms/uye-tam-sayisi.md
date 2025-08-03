@@ -2,6 +2,7 @@
 layout: term
 title: üye tam sayısı
 slug: uye-tam-sayisi
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Bir meclisi, derneği veya kurulu oluşturan üyelerin toplamı olan sayı

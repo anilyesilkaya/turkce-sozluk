@@ -2,6 +2,7 @@
 layout: term
 title: kalkışmak
 slug: kalkismak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yetenek, imkân ve gücü aşan bir işe girişmek

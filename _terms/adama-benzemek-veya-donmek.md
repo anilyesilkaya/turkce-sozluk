@@ -2,6 +2,7 @@
 layout: term
 title: adama benzemek (veya dönmek)
 slug: adama-benzemek-veya-donmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - giyim kuşamıyla, davranışlarıyla insana yakışır bir biçim almak

@@ -2,6 +2,7 @@
 layout: term
 title: antiasit
 slug: antiasit
+letter: A
 lisan: Fransızca antiacide
 anlamlar:
 - ► alkalik

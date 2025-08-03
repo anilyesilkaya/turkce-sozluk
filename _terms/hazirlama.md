@@ -2,6 +2,7 @@
 layout: term
 title: hazırlama
 slug: hazirlama
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hazırlamak işi; anıklama, istihzar

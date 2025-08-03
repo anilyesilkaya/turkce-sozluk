@@ -2,6 +2,7 @@
 layout: term
 title: tirfil
 slug: tirfil
+letter: T
 lisan: Rumca
 anlamlar:
 - Bir tür yonca

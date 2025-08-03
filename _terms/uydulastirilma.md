@@ -2,6 +2,7 @@
 layout: term
 title: uydulaştırılma
 slug: uydulastirilma
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uydulaştırılmak durumu

@@ -2,6 +2,7 @@
 layout: term
 title: densimetre
 slug: densimetre
+letter: D
 lisan: Fransızca dènsimètre
 anlamlar:
 - Bitkilerin dış kısımları ile toprak üzerinde kapladıkları alanı çeşitli büyüklüklerdeki halkalar yardımı ile ölçen bir alet

@@ -2,6 +2,7 @@
 layout: term
 title: ölçüşebilmek
 slug: olcusebilmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ölçüşme ihtimali veya imkânı bulunmak

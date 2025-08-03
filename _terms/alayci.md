@@ -2,6 +2,7 @@
 layout: term
 title: alaycı
 slug: alayci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alay etme huyu olan (kimse); müstehzi

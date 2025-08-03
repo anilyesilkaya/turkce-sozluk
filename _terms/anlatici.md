@@ -2,6 +2,7 @@
 layout: term
 title: anlatıcı
 slug: anlatici
+letter: A
 lisan: Türkçe
 anlamlar:
 - Herhangi bir olay, masal, destan vb.ni anlatan kimse

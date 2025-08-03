@@ -2,6 +2,7 @@
 layout: term
 title: tekdüze
 slug: tekduze
+letter: T
 lisan: Türkçe
 anlamlar:
 - Değişmeksizin, düzenli, aynı biçimde tekrarlanan, sürüp giden; tek örnek, muttarit, yeknesak, monoton

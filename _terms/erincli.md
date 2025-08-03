@@ -2,6 +2,7 @@
 layout: term
 title: erinçli
 slug: erincli
+letter: E
 lisan: Türkçe
 anlamlar:
 - Erinci olan

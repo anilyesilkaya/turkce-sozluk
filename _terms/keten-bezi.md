@@ -2,6 +2,7 @@
 layout: term
 title: 'keten bezi '
 slug: keten-bezi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Ketenden elde edilen liflerle el tezgâhlarında dokunmuş  gömlek, fanila vb. giysilerde kullanılan bez

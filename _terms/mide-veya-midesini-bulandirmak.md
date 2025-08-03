@@ -2,6 +2,7 @@
 layout: term
 title: mide (veya midesini) bulandırmak
 slug: mide-veya-midesini-bulandirmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - kusacak bir duruma getirmek

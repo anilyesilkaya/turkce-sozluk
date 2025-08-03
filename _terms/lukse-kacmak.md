@@ -2,6 +2,7 @@
 layout: term
 title: lükse kaçmak
 slug: lukse-kacmak
+letter: L
 lisan: Türkçe
 anlamlar:
 - sadelikten uzaklaşmak, israfa yönelmek

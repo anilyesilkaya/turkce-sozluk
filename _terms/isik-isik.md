@@ -2,6 +2,7 @@
 layout: term
 title: ışık ışık
 slug: isik-isik
+letter: I
 lisan: Türkçe
 anlamlar:
 - Işıklı bir biçimde

@@ -2,6 +2,7 @@
 layout: term
 title: hayat boyu
 slug: hayat-boyu
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► ömür boyu

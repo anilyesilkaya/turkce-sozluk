@@ -2,6 +2,7 @@
 layout: term
 title: mark
 slug: mark
+letter: M
 lisan: Almanca Mark
 anlamlar:
 - Alman para birimi

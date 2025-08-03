@@ -2,6 +2,7 @@
 layout: term
 title: çağıldamak
 slug: cagildamak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Sular akarken taşlara, kayalara çarparak "çağıl çağıl" ses çıkarmak

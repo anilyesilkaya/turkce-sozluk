@@ -2,6 +2,7 @@
 layout: term
 title: rest çekmek
 slug: rest-cekmek
+letter: R
 lisan: Türkçe
 anlamlar:
 - oyuncu önündeki paranın tümünü ortaya koymak

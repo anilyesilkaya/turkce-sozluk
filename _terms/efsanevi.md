@@ -2,6 +2,7 @@
 layout: term
 title: efsanevi
 slug: efsanevi
+letter: E
 lisan: Farsça efsānevī
 anlamlar:
 - Efsanelerde geçen, kendisi için efsaneler düzülen veya efsaneyi andırır nitelikte olan (kimse, hayvan, yer); menkıbevi

@@ -2,6 +2,7 @@
 layout: term
 title: kaçgöç
 slug: kacgoc
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kadınların yabancı erkeklerle bir arada bulunmama, konuşmama ve onlara görünmeme geleneği

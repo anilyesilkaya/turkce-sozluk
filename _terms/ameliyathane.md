@@ -2,6 +2,7 @@
 layout: term
 title: ameliyathane
 slug: ameliyathane
+letter: A
 lisan: Arapça ʿameliyyāt + Farsça hāne
 anlamlar:
 - Hastanelerde hastaların ameliyat edildiği özel bölüm

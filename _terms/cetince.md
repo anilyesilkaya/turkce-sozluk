@@ -2,6 +2,7 @@
 layout: term
 title: çetince
 slug: cetince
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çetin

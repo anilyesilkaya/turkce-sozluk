@@ -2,6 +2,7 @@
 layout: term
 title: dedektör
 slug: dedektor
+letter: D
 lisan: Fransızca détecteur
 anlamlar:
 - Gaz, mayın, radyoaktif mineral, manyetik dalga vb.ni bulmaya, tanımaya yarayan cihaz; algılayıcı, algıç, bulucu

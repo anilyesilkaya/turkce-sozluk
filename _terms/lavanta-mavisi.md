@@ -2,6 +2,7 @@
 layout: term
 title: lavanta mavisi
 slug: lavanta-mavisi
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lavanta rengindeki mavi

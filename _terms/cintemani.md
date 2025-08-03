@@ -2,6 +2,7 @@
 layout: term
 title: çintemani
 slug: cintemani
+letter: Ç
 lisan: Sanskritçeden
 anlamlar:
 - Özellikle kumaşlara ve çinilere uygulanmış, ikisi altta biri üstte iç içe geçmiş halkalar ve şimşeği ifade eden iki yatık kıvılcımdan meydana gelen süsleme motifi; itayağı

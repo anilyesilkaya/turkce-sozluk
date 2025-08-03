@@ -2,6 +2,7 @@
 layout: term
 title: boynu eğri
 slug: boynu-egri
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► boynu bükük

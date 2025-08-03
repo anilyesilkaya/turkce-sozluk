@@ -2,6 +2,7 @@
 layout: term
 title: bağlantısızlık
 slug: baglantisizlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağlantısız olma durumu; irtibatsızlık, angajmansızlık

@@ -2,6 +2,7 @@
 layout: term
 title: mevcudiyet
 slug: mevcudiyet
+letter: M
 lisan: Arapça mevcūdiyyet
 anlamlar:
 - ► varlık

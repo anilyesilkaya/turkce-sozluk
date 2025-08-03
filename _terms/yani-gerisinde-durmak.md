@@ -2,6 +2,7 @@
 layout: term
 title: yanı gerisinde durmak
 slug: yani-gerisinde-durmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - birisinin ezici etkisi altında kalıp kendi görevinin gerektirdiklerini yapamamak

@@ -2,6 +2,7 @@
 layout: term
 title: kendini matah sanmak
 slug: kendini-matah-sanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kendini olduğundan daha fazla değerli kabul etmek

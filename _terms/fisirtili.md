@@ -2,6 +2,7 @@
 layout: term
 title: fışırtılı
 slug: fisirtili
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fışırtı sesi çıkaran

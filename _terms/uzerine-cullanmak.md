@@ -2,6 +2,7 @@
 layout: term
 title: üzerine çullanmak
 slug: uzerine-cullanmak
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - üstüne çullanmak

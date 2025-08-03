@@ -2,6 +2,7 @@
 layout: term
 title: şilte
 slug: silte
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Üstünde oturulan, yatılan, içi yünle, pamukla doldurulmuş döşek

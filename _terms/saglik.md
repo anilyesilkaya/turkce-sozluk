@@ -2,6 +2,7 @@
 layout: term
 title: sağlık
 slug: saglik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bireyin fiziksel, sosyal ve ruhsal yönden tam bir iyilik durumunda olması, vücut esenliği; keyif, sıhhat

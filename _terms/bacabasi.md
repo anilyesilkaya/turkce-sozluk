@@ -2,6 +2,7 @@
 layout: term
 title: bacabaşı
 slug: bacabasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► baca kaşı

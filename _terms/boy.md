@@ -2,6 +2,7 @@
 layout: term
 title: boy
 slug: boy
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► hikâye

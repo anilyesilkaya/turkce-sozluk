@@ -2,6 +2,7 @@
 layout: term
 title: ahenksizlik
 slug: ahenksizlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► uyumsuzluk

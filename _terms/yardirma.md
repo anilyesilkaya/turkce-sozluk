@@ -2,6 +2,7 @@
 layout: term
 title: yardırma
 slug: yardirma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yardırmak işi

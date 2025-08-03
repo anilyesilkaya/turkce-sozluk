@@ -2,6 +2,7 @@
 layout: term
 title: uçuş
 slug: ucus
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uçmak işi; pervaz (II)

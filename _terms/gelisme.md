@@ -2,6 +2,7 @@
 layout: term
 title: gelişme
 slug: gelisme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gelişmek işi; inkişaf, neşvünema, tekâmül, evolüsyon

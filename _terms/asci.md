@@ -2,6 +2,7 @@
 layout: term
 title: aşçı
 slug: asci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yemek pişirmeyi meslek edinen kimse

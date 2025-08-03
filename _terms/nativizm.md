@@ -2,6 +2,7 @@
 layout: term
 title: nativizm
 slug: nativizm
+letter: N
 lisan: Fransızca nativisme
 anlamlar:
 - ► doğuştancılık

@@ -2,6 +2,7 @@
 layout: term
 title: alşimi
 slug: alsimi
+letter: A
 lisan: Fransızca alchimie
 anlamlar:
 - Elementleri altına çevirmek isteyen bir iş alanı; simya

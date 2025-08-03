@@ -2,6 +2,7 @@
 layout: term
 title: aynılaştırmak
 slug: aynilastirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aynı duruma getirmek

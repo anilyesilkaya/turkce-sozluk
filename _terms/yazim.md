@@ -2,6 +2,7 @@
 layout: term
 title: yazım
 slug: yazim
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir dilin belli kurallarla yazıya geçirilmesi; imla

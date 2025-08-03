@@ -2,6 +2,7 @@
 layout: term
 title: nazil
 slug: nazil
+letter: N
 lisan: Arapça nāzil
 anlamlar:
 - İnen, inmiş

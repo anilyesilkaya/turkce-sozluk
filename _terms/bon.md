@@ -2,6 +2,7 @@
 layout: term
 title: bön
 slug: bon
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► saf (II)

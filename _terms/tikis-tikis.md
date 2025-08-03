@@ -2,6 +2,7 @@
 layout: term
 title: tıkış tıkış
 slug: tikis-tikis
+letter: T
 lisan: Türkçe
 anlamlar:
 - Sıkışık bir durumda

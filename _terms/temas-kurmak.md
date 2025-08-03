@@ -2,6 +2,7 @@
 layout: term
 title: temas kurmak
 slug: temas-kurmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - ilişkiye geçmek, bağlantı sağlamak

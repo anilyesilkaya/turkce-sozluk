@@ -2,6 +2,7 @@
 layout: term
 title: uydu alıcısı
 slug: uydu-alicisi
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uydudan yeryüzüne gelen mikrodalga sinyallerini televizyonda görüntüye çevirme işlemini gerçekleştiren aygıt

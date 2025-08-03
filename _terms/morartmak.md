@@ -2,6 +2,7 @@
 layout: term
 title: morartmak
 slug: morartmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - Morarmasına sebep olmak, mor renk vermek

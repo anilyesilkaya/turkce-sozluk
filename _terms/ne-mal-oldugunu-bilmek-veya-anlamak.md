@@ -2,6 +2,7 @@
 layout: term
 title: ne mal olduğunu bilmek (veya anlamak)
 slug: ne-mal-oldugunu-bilmek-veya-anlamak
+letter: N
 lisan: Türkçe
 anlamlar:
 - birinin nasıl bir nitelikte, yetenekte ve yaradılışta olduğunu bilmek, kestirmek

@@ -2,6 +2,7 @@
 layout: term
 title: uçaksız
 slug: ucaksiz
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uçağı olmayan

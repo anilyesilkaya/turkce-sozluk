@@ -2,6 +2,7 @@
 layout: term
 title: tekçilik
 slug: tekcilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Gerçekliğin temeli olarak yalnızca tek bir ilkeyi benimseyen dünya görüşü; bircilik, monizm, çokçuluk karşıtı

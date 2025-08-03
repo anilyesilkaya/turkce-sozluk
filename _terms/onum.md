@@ -2,6 +2,7 @@
 layout: term
 title: onum
 slug: onum
+letter: O
 lisan: Türkçe
 anlamlar:
 - Kötü bir durumdan kurtulma

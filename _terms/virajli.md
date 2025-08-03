@@ -2,6 +2,7 @@
 layout: term
 title: virajlı
 slug: virajli
+letter: V
 lisan: Türkçe
 anlamlar:
 - ► dönemeçli

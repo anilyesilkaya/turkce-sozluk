@@ -2,6 +2,7 @@
 layout: term
 title: ıspanaklı
 slug: ispanakli
+letter: I
 lisan: Türkçe
 anlamlar:
 - İçinde ıspanak bulunan (yiyecek)

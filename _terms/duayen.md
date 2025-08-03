@@ -2,6 +2,7 @@
 layout: term
 title: duayen
 slug: duayen
+letter: D
 lisan: Fransızca doyen
 anlamlar:
 - ► aksakal

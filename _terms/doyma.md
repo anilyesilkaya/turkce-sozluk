@@ -2,6 +2,7 @@
 layout: term
 title: doyma
 slug: doyma
+letter: D
 lisan: Türkçe
 anlamlar:
 - Doymak işi; doyunma

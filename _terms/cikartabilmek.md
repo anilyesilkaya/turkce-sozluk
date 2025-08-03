@@ -2,6 +2,7 @@
 layout: term
 title: çıkartabilmek
 slug: cikartabilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıkartma ihtimali veya imkânı bulunmak

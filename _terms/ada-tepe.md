@@ -2,6 +2,7 @@
 layout: term
 title: ada tepe
 slug: ada-tepe
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aşınma sonucu oluşmuş düzlük alanlar üzerinde bir ada gibi yükselen tepe

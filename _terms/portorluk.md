@@ -2,6 +2,7 @@
 layout: term
 title: portörlük
 slug: portorluk
+letter: P
 lisan: Türkçe
 anlamlar:
 - Portör olma durumu

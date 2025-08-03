@@ -2,6 +2,7 @@
 layout: term
 title: içe dönük
 slug: ice-donuk
+letter: I
 lisan: Türkçe
 anlamlar:
 - Çevresiyle iletişim kurmada güçlük çeken, içine kapalı, sosyal ilişkileri zayıf olan (kimse)

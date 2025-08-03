@@ -2,6 +2,7 @@
 layout: term
 title: amma velakin
 slug: amma-velakin
+letter: A
 lisan: Arapça ammā + ve + lākin
 anlamlar:
 - ► bununla birlikte

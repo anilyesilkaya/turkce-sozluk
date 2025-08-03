@@ -2,6 +2,7 @@
 layout: term
 title: sinüzit
 slug: sinuzit
+letter: S
 lisan: Fransızca sinusite
 anlamlar:
 - Ateş, baş ağrısı, burun tıkanıklığı ve akıntı ile kendini gösteren, burun boşluğuna yakın bulunan kemik içindeki boşluklardan bir veya daha fazlasının iltihaplanması

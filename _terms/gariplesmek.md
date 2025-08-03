@@ -2,6 +2,7 @@
 layout: term
 title: garipleşmek
 slug: gariplesmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Garip bir duruma gelmek

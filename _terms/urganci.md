@@ -2,6 +2,7 @@
 layout: term
 title: urgancı
 slug: urganci
+letter: U
 lisan: Türkçe
 anlamlar:
 - Urgan yapan veya satan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: arkadaşlık
 slug: arkadaslik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arkadaş olma durumu, arkadaşa yakışır davranış

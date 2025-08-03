@@ -2,6 +2,7 @@
 layout: term
 title: siyah
 slug: siyah
+letter: S
 lisan: Farsça siyāh
 anlamlar:
 - ► kara (II), ak, beyaz karşıtı

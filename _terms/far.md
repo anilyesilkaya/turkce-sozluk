@@ -2,6 +2,7 @@
 layout: term
 title: far
 slug: far
+letter: F
 lisan: Fransızca fard
 anlamlar:
 - Göz kapaklarına sürülen, çeşitli renkte makyaj malzemesi

@@ -2,6 +2,7 @@
 layout: term
 title: kocakarılık
 slug: kocakarilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kocakarı olma durumu

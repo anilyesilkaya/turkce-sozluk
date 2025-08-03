@@ -2,6 +2,7 @@
 layout: term
 title: yuvalanmak
 slug: yuvalanmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Ev bark, yuva sahibi olmak, yuva kurmak

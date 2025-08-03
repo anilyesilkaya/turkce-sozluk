@@ -2,6 +2,7 @@
 layout: term
 title: lohusa şekeri
 slug: lohusa-sekeri
+letter: L
 lisan: Türkçe
 anlamlar:
 - İçinde karanfil, baharat ve şekerciboyası bulunan, baklava biçiminde kırmızı şeker

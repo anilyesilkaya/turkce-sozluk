@@ -2,6 +2,7 @@
 layout: term
 title: pantuflacılık
 slug: pantuflacilik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pantuflacının işi

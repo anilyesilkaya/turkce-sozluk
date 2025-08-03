@@ -2,6 +2,7 @@
 layout: term
 title: pili bitmek
 slug: pili-bitmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - aşırı yaşlanmak

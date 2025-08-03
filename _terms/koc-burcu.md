@@ -2,6 +2,7 @@
 layout: term
 title: Koç Burcu
 slug: koc-burcu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Zodyak üzerinde Balık Burcu ile Boğa Burcu arasında bulunan takımyıldızın adı; Koç, Hamel

@@ -2,6 +2,7 @@
 layout: term
 title: yemlik
 slug: yemlik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Hayvanlara yem verilen yer veya kap

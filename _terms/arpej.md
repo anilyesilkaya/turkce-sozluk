@@ -2,6 +2,7 @@
 layout: term
 title: arpej
 slug: arpej
+letter: A
 lisan: Fransızca arpège
 anlamlar:
 - Bir akor oluşturan seslerin birbiri arkasından çalınması

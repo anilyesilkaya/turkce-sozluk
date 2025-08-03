@@ -2,6 +2,7 @@
 layout: term
 title: çöplenme
 slug: coplenme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çöplenmek işi

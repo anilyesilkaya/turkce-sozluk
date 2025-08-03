@@ -2,6 +2,7 @@
 layout: term
 title: öksürük
 slug: oksuruk
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ciğerlerdeki havanın, solunum organlarının kasılması ve zorlanmasıyla ağızdan gürültü ile çıkması

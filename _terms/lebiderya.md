@@ -2,6 +2,7 @@
 layout: term
 title: lebiderya
 slug: lebiderya
+letter: L
 lisan: Farsça leb + deryā
 anlamlar:
 - Deniz kenarı

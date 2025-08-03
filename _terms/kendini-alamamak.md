@@ -2,6 +2,7 @@
 layout: term
 title: kendini alamamak
 slug: kendini-alamamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - istemeyerek bir işi yapma durumuna girmek

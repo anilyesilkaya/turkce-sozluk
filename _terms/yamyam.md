@@ -2,6 +2,7 @@
 layout: term
 title: yamyam
 slug: yamyam
+letter: Y
 lisan: (Orta Afrika'daki zenci bir topluluğun adından)
 anlamlar:
 - Daha çok din, tapınma, büyü vb. amaçlarla insan eti yiyen (kimse)

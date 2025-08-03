@@ -2,6 +2,7 @@
 layout: term
 title: ha şunu bileydin
 slug: ha-sunu-bileydin
+letter: H
 lisan: Türkçe
 anlamlar:
 - '"bunu çoktan anlaman, bilmen gerekirdi" anlamında kullanılan bir söz'

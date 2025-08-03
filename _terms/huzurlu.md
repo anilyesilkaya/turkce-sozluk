@@ -2,6 +2,7 @@
 layout: term
 title: huzurlu
 slug: huzurlu
+letter: H
 lisan: Türkçe
 anlamlar:
 - Huzuru olan

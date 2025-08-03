@@ -2,6 +2,7 @@
 layout: term
 title: muhzır
 slug: muhzir
+letter: M
 lisan: Arapça muḥżir
 anlamlar:
 - İlgililerin mahkemede bulunmalarını sağlayan görevli

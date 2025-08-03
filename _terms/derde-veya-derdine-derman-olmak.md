@@ -2,6 +2,7 @@
 layout: term
 title: derde (veya derdine) derman olmak
 slug: derde-veya-derdine-derman-olmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - soruna çözüm bulmak, sıkıntıyı geçirmeye çare göstermek

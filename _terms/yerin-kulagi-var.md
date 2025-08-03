@@ -2,6 +2,7 @@
 layout: term
 title: yerin kulağı var
 slug: yerin-kulagi-var
+letter: Y
 lisan: Türkçe
 anlamlar:
 - gizli konuşulan bir şeyin umulmadık bir yoldan başkalarınca duyulabileceğini anlatan bir söz

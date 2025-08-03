@@ -2,6 +2,7 @@
 layout: term
 title: 'kara birliği '
 slug: kara-birligi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kara kuvvetleri içinde yer alan, savunma, ulaştırma vb. görevleri olan askerî birlik

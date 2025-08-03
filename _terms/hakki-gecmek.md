@@ -2,6 +2,7 @@
 layout: term
 title: hakkı geçmek
 slug: hakki-gecmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - birinin payından başkası almış olmak

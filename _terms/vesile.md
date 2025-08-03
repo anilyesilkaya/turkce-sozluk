@@ -2,6 +2,7 @@
 layout: term
 title: vesile
 slug: vesile
+letter: V
 lisan: Arapça vesīle
 anlamlar:
 - ► sebep

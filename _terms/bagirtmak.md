@@ -2,6 +2,7 @@
 layout: term
 title: bağırtmak
 slug: bagirtmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağırmasına yol açmak

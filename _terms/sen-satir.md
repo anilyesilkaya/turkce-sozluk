@@ -2,6 +2,7 @@
 layout: term
 title: şen şatır
 slug: sen-satir
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► şen şakrak

@@ -2,6 +2,7 @@
 layout: term
 title: adapte
 slug: adapte
+letter: A
 lisan: Fransızca adapté
 anlamlar:
 - Uyarlanmış

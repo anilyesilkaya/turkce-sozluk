@@ -2,6 +2,7 @@
 layout: term
 title: kazıyabilmek
 slug: kaziyabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kazıma ihtimali veya imkânı bulunmak

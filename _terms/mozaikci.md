@@ -2,6 +2,7 @@
 layout: term
 title: mozaikçi
 slug: mozaikci
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mozaik yapan veya satan kimse

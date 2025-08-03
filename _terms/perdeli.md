@@ -2,6 +2,7 @@
 layout: term
 title: perdeli
 slug: perdeli
+letter: P
 lisan: Türkçe
 anlamlar:
 - Perdesi olan veya perde ile örtülü bulunan

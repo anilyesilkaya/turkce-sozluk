@@ -2,6 +2,7 @@
 layout: term
 title: vıdı vıdı etmek
 slug: vidi-vidi-etmek
+letter: V
 lisan: Türkçe
 anlamlar:
 - çevresini rahatsız edecek biçimde yerli yersiz çok konuşmak

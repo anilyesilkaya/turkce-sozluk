@@ -2,6 +2,7 @@
 layout: term
 title: efece
 slug: efece
+letter: E
 lisan: Türkçe
 anlamlar:
 - Efe gibi

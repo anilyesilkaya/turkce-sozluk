@@ -2,6 +2,7 @@
 layout: term
 title: çarşaflamak
 slug: carsaflamak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Yorganı çarşafla kaplamak

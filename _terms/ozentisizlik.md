@@ -2,6 +2,7 @@
 layout: term
 title: özentisizlik
 slug: ozentisizlik
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Özentisiz olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: dememek
 slug: dememek
+letter: D
 lisan: Türkçe
 anlamlar:
 - koşullar ne olursa olsun aldırış etmemek

@@ -2,6 +2,7 @@
 layout: term
 title: naşir
 slug: nasir
+letter: N
 lisan: Arapça nāşir
 anlamlar:
 - ► yayımcı

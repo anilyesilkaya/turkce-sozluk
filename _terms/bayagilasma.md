@@ -2,6 +2,7 @@
 layout: term
 title: bayağılaşma
 slug: bayagilasma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bayağılaşmak durumu; sıradanlaşma

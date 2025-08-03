@@ -2,6 +2,7 @@
 layout: term
 title: akıl işi değil
 slug: akil-isi-degil
+letter: A
 lisan: Türkçe
 anlamlar:
 - '"akla uygun değil, doğru değil" anlamında kullanılan bir söz'

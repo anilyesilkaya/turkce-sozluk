@@ -2,6 +2,7 @@
 layout: term
 title: yayılmak
 slug: yayilmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yayma işine konu olmak veya yayma işi yapılmak

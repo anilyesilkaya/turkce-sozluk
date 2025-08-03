@@ -2,6 +2,7 @@
 layout: term
 title: ideolojik
 slug: ideolojik
+letter: I
 lisan: Fransızca idéologique
 anlamlar:
 - İdeoloji ile ilgili

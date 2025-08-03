@@ -2,6 +2,7 @@
 layout: term
 title: parmakla sayılacak kadar az olmak
 slug: parmakla-sayilacak-kadar-az-olmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - çok az olmak

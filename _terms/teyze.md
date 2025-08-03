@@ -2,6 +2,7 @@
 layout: term
 title: teyze
 slug: teyze
+letter: T
 lisan: Türkçe
 anlamlar:
 - Annenin kız kardeşi; ana yarısı, anne yarısı

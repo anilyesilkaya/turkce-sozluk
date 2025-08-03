@@ -2,6 +2,7 @@
 layout: term
 title: durucu
 slug: durucu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Durmakta ısrarlı, kalıcı olan

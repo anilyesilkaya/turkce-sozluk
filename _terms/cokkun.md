@@ -2,6 +2,7 @@
 layout: term
 title: çökkün
 slug: cokkun
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çökmüş olan

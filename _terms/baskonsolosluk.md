@@ -2,6 +2,7 @@
 layout: term
 title: başkonsolosluk
 slug: baskonsolosluk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başkonsolos olma durumu

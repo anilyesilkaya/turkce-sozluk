@@ -2,6 +2,7 @@
 layout: term
 title: vezir
 slug: vezir
+letter: V
 lisan: Arapça vezīr
 anlamlar:
 - Osmanlılarda devletin bakanlık, valilik gibi yüksek görevlerinde bulunan ve paşa ünvanını taşıyan kimse; hidiv

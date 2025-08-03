@@ -2,6 +2,7 @@
 layout: term
 title: kalgımak
 slug: kalgimak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sıçramak, fırlamak, şaha kalkmak

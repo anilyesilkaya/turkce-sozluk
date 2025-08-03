@@ -2,6 +2,7 @@
 layout: term
 title: zarfında
 slug: zarfinda
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Belli bir sürede, belli bir süre içinde

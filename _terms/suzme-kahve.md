@@ -2,6 +2,7 @@
 layout: term
 title: süzme kahve
 slug: suzme-kahve
+letter: S
 lisan: Türkçe
 anlamlar:
 - Öğütülmüş kahve çekirdeklerinin bir filtreden süzülen su yardımıyla demlenmesi sonucu elde edilen kahve; damla kahve, filtre kahve

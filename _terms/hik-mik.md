@@ -2,6 +2,7 @@
 layout: term
 title: hık mık
 slug: hik-mik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Bahane ileri sürme

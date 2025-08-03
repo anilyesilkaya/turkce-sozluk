@@ -2,6 +2,7 @@
 layout: term
 title: buz dansı
 slug: buz-dansi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Buzla kaplı bir zeminde zorunlu figürler ve serbest danslarla yapılan bir spor dalı

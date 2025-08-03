@@ -2,6 +2,7 @@
 layout: term
 title: tatbikat
 slug: tatbikat
+letter: T
 lisan: Arapça taṭbīḳāt
 anlamlar:
 - ► uygulama

@@ -2,6 +2,7 @@
 layout: term
 title: kotarmak
 slug: kotarmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Pişen yemeği başka kaba boşaltmak

@@ -2,6 +2,7 @@
 layout: term
 title: işi azıtmak
 slug: isi-azitmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - yanlış ve aşırı yollara sapmak

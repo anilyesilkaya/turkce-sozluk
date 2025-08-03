@@ -2,6 +2,7 @@
 layout: term
 title: maşerî
 slug: maseri
+letter: M
 lisan: Arapça maʿşerī
 anlamlar:
 - Topluluğa ait olan, toplumu ilgilendiren

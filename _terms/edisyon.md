@@ -2,6 +2,7 @@
 layout: term
 title: edisyon
 slug: edisyon
+letter: E
 lisan: Fransızca édition
 anlamlar:
 - ► bası

@@ -2,6 +2,7 @@
 layout: term
 title: şişek
 slug: sisek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - İki yaşındaki koyun

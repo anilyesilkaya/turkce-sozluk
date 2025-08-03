@@ -2,6 +2,7 @@
 layout: term
 title: sinameki
 slug: sinameki
+letter: S
 lisan: Arapça senā + mekkī
 anlamlar:
 - Baklagillerden, sıcak bölgelerde yetişen, birçok türü bulunan bir bitki (Cassia)

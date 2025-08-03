@@ -2,6 +2,7 @@
 layout: term
 title: can atmak
 slug: can-atmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - şiddetle arzu etmek, çok istemek

@@ -2,6 +2,7 @@
 layout: term
 title: emzirebilmek
 slug: emzirebilmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Emzirme ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: beşme
 slug: besme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Her çubuğu ayrı ayrı beş renkte olan, yollu bir kumaş türü

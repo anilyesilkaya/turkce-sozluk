@@ -2,6 +2,7 @@
 layout: term
 title: hünkârbeğendi
 slug: hunkarbegendi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Közlenmiş patlıcanın üzerine salçalı et konularak yapılan bir yemek türü

@@ -2,6 +2,7 @@
 layout: term
 title: yıkılmak
 slug: yikilmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yıkma işi yapılmak veya yıkma işine konu olmak

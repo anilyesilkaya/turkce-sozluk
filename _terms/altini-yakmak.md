@@ -2,6 +2,7 @@
 layout: term
 title: 'altını yakmak '
 slug: altini-yakmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ocağı açarak tencereyi ısıtmaya başlamak

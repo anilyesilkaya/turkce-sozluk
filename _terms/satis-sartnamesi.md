@@ -2,6 +2,7 @@
 layout: term
 title: satış şartnamesi
 slug: satis-sartnamesi
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► satış sözleşmesi

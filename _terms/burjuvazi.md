@@ -2,6 +2,7 @@
 layout: term
 title: burjuvazi
 slug: burjuvazi
+letter: B
 lisan: Fransızca bourgeoisie
 anlamlar:
 - Burjuva sınıfı; kent soyluluk

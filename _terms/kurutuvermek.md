@@ -2,6 +2,7 @@
 layout: term
 title: kurutuvermek
 slug: kurutuvermek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çabucak kurutmak

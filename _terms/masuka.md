@@ -2,6 +2,7 @@
 layout: term
 title: maşuka
 slug: masuka
+letter: M
 lisan: Arapça maʿşūḳa
 anlamlar:
 - Sevilen, âşık olunan kadın

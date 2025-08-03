@@ -2,6 +2,7 @@
 layout: term
 title: boy göstermek
 slug: boy-gostermek
+letter: B
 lisan: Türkçe
 anlamlar:
 - görünmek

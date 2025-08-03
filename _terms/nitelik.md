@@ -2,6 +2,7 @@
 layout: term
 title: nitelik
 slug: nitelik
+letter: N
 lisan: Türkçe
 anlamlar:
 - Bir şeyin nasıl olduğunu belirten, onu başka şeylerden ayıran özellik; vasıf, keyfiyet

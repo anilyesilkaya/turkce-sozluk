@@ -2,6 +2,7 @@
 layout: term
 title: fanila
 slug: fanila
+letter: F
 lisan: İtalyanca flanella
 anlamlar:
 - Genellikle ince pamuk ipliğinden dokunmuş, ten üzerine giyilen iç çamaşırı; atlet

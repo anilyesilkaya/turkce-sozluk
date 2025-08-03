@@ -2,6 +2,7 @@
 layout: term
 title: yenilmezlik
 slug: yenilmezlik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yenik duruma düşmeme durumu

@@ -2,6 +2,7 @@
 layout: term
 title: nadasa bırakmak (veya yatırmak)
 slug: nadasa-birakmak-veya-yatirmak
+letter: N
 lisan: Türkçe
 anlamlar:
 - bir tarlayı sürüp herhangi bir şey ekmeden dinlenmeye bırakmak

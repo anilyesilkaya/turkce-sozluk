@@ -2,6 +2,7 @@
 layout: term
 title: filozofça
 slug: filozofca
+letter: F
 lisan: Türkçe
 anlamlar:
 - Filozofa yakışan; feylesofça

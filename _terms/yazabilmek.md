@@ -2,6 +2,7 @@
 layout: term
 title: yazabilmek
 slug: yazabilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yazma ihtimali veya imkânı bulunmak

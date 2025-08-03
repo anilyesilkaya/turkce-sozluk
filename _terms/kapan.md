@@ -2,6 +2,7 @@
 layout: term
 title: kapan
 slug: kapan
+letter: K
 lisan: Arapça ḳabbān
 anlamlar:
 - Pazara satılmak üzere gelen yiyecek maddelerinin tartıldığı resmî büyük kantar

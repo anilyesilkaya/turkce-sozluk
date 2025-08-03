@@ -2,6 +2,7 @@
 layout: term
 title: ha bugün ha yarın
 slug: ha-bugun-ha-yarin
+letter: H
 lisan: Türkçe
 anlamlar:
 - neredeyse, kısa bir süre içinde

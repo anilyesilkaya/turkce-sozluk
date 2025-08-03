@@ -2,6 +2,7 @@
 layout: term
 title: azdırılmak
 slug: azdirilmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Azmasına yol açılmak

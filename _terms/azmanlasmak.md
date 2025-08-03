@@ -2,6 +2,7 @@
 layout: term
 title: azmanlaşmak
 slug: azmanlasmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aşırı gelişmek, çok büyük duruma gelmek

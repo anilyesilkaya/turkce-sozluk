@@ -2,6 +2,7 @@
 layout: term
 title: torna
 slug: torna
+letter: T
 lisan: İtalyanca torna
 anlamlar:
 - Ağaç veya metal eşyaya yuvarlak bir biçim vermek için kullanılan çarklı tezgâh

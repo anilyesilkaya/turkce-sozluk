@@ -2,6 +2,7 @@
 layout: term
 title: ikbal düşkünü
 slug: ikbal-duskunu
+letter: I
 lisan: Türkçe
 anlamlar:
 - İyi bir yaşantısı varken gözden düşerek yoksulluğa mecbur kalan (kimse)

@@ -2,6 +2,7 @@
 layout: term
 title: ince
 slug: ince
+letter: I
 lisan: Türkçe
 anlamlar:
 - Kendi cinsinden olanlara göre dar ve kalınlığı az olan; cılız, narin, kalın karşıtı

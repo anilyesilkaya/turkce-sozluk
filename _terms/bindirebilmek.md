@@ -2,6 +2,7 @@
 layout: term
 title: bindirebilmek
 slug: bindirebilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bindirme ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: aydan aya
 slug: aydan-aya
+letter: A
 lisan: Türkçe
 anlamlar:
 - Her ay

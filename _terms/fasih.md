@@ -2,6 +2,7 @@
 layout: term
 title: fasih
 slug: fasih
+letter: F
 lisan: Arapça faṣīḥ
 anlamlar:
 - Açık ve düzgün (anlatış)

@@ -2,6 +2,7 @@
 layout: term
 title: tablakârlık
 slug: tablakarlik
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► tablacılık

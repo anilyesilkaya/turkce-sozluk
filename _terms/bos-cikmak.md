@@ -2,6 +2,7 @@
 layout: term
 title: boş çıkmak
 slug: bos-cikmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - umduğu gerçekleşmemek, sonuç vermemek

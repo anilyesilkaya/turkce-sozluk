@@ -2,6 +2,7 @@
 layout: term
 title: hayallemek
 slug: hayallemek
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hayal etmek

@@ -2,6 +2,7 @@
 layout: term
 title: önlüklü
 slug: onluklu
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Önlük giymiş olan

@@ -2,6 +2,7 @@
 layout: term
 title: başsız
 slug: bassiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başı olmayan

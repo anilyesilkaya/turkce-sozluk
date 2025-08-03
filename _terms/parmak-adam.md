@@ -2,6 +2,7 @@
 layout: term
 title: parmak adam
 slug: parmak-adam
+letter: P
 lisan: Türkçe
 anlamlar:
 - Çok kısa boylu kimse

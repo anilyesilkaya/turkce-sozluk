@@ -2,6 +2,7 @@
 layout: term
 title: kapalı yüzme havuzu
 slug: kapali-yuzme-havuzu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kapalı bir mekân içine alınmış, suyu vücut ısısına uygun derecede ısıtılan, yüzme sporunun yapıldığı havuz

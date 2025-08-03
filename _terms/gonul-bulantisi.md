@@ -2,6 +2,7 @@
 layout: term
 title: gönül bulantısı
 slug: gonul-bulantisi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Sıkıntı veya üzüntü

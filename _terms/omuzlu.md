@@ -2,6 +2,7 @@
 layout: term
 title: omuzlu
 slug: omuzlu
+letter: O
 lisan: Türkçe
 anlamlar:
 - Omzu olan

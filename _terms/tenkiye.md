@@ -2,6 +2,7 @@
 layout: term
 title: tenkiye
 slug: tenkiye
+letter: T
 lisan: Arapça tenḳiye
 anlamlar:
 - Anüsten su vererek kalın bağırsağın içini temizleme

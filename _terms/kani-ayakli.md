@@ -2,6 +2,7 @@
 layout: term
 title: kanı ayaklı
 slug: kani-ayakli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çocukluk çağından çıkmış genç kız

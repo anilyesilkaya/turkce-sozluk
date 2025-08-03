@@ -2,6 +2,7 @@
 layout: term
 title: kaleyi içinden fethetmek
 slug: kaleyi-icinden-fethetmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - davasını karşı taraftan birinin yardımıyla kazanmak

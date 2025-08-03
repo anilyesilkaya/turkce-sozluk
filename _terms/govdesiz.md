@@ -2,6 +2,7 @@
 layout: term
 title: gövdesiz
 slug: govdesiz
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gövdesi olmayan

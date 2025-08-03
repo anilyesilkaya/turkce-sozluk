@@ -2,6 +2,7 @@
 layout: term
 title: istikametlenmek
 slug: istikametlenmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bir tarafa yönelmek

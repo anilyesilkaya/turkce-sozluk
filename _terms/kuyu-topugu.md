@@ -2,6 +2,7 @@
 layout: term
 title: kuyu topuğu
 slug: kuyu-topugu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kuyunun yapısını, kuyu başındaki tesisleri, çökme sırasında oluşabilecek hasara veya zarara karşı korumak amacıyla kuyu çevresinde bırakılan güvenlik topuğu

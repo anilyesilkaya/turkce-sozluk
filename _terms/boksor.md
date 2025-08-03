@@ -2,6 +2,7 @@
 layout: term
 title: boksör
 slug: boksor
+letter: B
 lisan: Fransızca boxeur
 anlamlar:
 - Boks yapan kimse; yumruk oyuncusu, boksçu

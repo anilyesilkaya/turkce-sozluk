@@ -2,6 +2,7 @@
 layout: term
 title: kavga
 slug: kavga
+letter: K
 lisan: Farsça ġavġā
 anlamlar:
 - Düşmanca davranış ve sözlerle ortaya çıkan çekişme veya dövüş; çıngar

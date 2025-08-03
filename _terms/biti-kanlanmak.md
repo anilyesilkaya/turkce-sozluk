@@ -2,6 +2,7 @@
 layout: term
 title: biti kanlanmak
 slug: biti-kanlanmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - sıkıntı içinde yaşayan bir kişi para ve varlık yönünden güçlenmek

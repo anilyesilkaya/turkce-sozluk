@@ -2,6 +2,7 @@
 layout: term
 title: ahlak yasası
 slug: ahlak-yasasi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ahlak işlerini belirleyen, uyulması ahlak açısından gerekli olan genel ve geçer kural

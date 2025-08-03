@@ -2,6 +2,7 @@
 layout: term
 title: cezve
 slug: cezve
+letter: C
 lisan: Arapça ceẕve
 anlamlar:
 - Kahve pişirmeye yarayan, saplı, küçük kap

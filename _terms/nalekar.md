@@ -2,6 +2,7 @@
 layout: term
 title: nalekâr
 slug: nalekar
+letter: N
 lisan: Farsça nālekār
 anlamlar:
 - İnleyen, iniltili

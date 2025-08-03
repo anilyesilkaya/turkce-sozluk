@@ -2,6 +2,7 @@
 layout: term
 title: buharlı gemi
 slug: buharli-gemi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Buhar gücüyle çalışan gemi

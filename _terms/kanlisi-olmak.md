@@ -2,6 +2,7 @@
 layout: term
 title: kanlısı olmak
 slug: kanlisi-olmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - birinin katili olmak

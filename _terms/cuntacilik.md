@@ -2,6 +2,7 @@
 layout: term
 title: cuntacılık
 slug: cuntacilik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cuntacı olma durumu

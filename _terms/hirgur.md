@@ -2,6 +2,7 @@
 layout: term
 title: hırgür
 slug: hirgur
+letter: H
 lisan: Türkçe
 anlamlar:
 - Geçimsizlik, kavga

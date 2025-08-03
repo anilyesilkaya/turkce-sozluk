@@ -2,6 +2,7 @@
 layout: term
 title: açgözlülük etmek
 slug: acgozluluk-etmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir şeye karşı aşırı istek duymak, doyumsuzca davranmak, tamahkârlık etmek

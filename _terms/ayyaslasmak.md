@@ -2,6 +2,7 @@
 layout: term
 title: ayyaşlaşmak
 slug: ayyaslasmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayyaş bir duruma gelmek

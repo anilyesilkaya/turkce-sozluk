@@ -2,6 +2,7 @@
 layout: term
 title: giriş kapısı
 slug: giris-kapisi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Yapılarda içeri girmek için kullanılan kapı

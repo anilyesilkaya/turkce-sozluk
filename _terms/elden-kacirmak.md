@@ -2,6 +2,7 @@
 layout: term
 title: elden kaçırmak
 slug: elden-kacirmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - elde edilebilecek bir şeyden türlü sebeplerle yararlanamamak

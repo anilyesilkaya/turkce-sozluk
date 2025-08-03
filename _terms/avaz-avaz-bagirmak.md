@@ -2,6 +2,7 @@
 layout: term
 title: avaz avaz bağırmak
 slug: avaz-avaz-bagirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - var gücüyle bağırmak

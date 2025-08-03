@@ -2,6 +2,7 @@
 layout: term
 title: uçurmak
 slug: ucurmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uçma işini yaptırmak; uçurtmak

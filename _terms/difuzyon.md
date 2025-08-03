@@ -2,6 +2,7 @@
 layout: term
 title: difüzyon
 slug: difuzyon
+letter: D
 lisan: Fransızca diffusion
 anlamlar:
 - ► geçişme

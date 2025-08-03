@@ -2,6 +2,7 @@
 layout: term
 title: kumarbaz
 slug: kumarbaz
+letter: K
 lisan: Arapça ḳimār + Farsça -bāz
 anlamlar:
 - Kumara düşkün, sürekli kumar oynayan; kumarcı, bitirimci

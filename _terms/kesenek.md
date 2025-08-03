@@ -2,6 +2,7 @@
 layout: term
 title: kesenek
 slug: kesenek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Görevlilerin aylıklarından her ay belli oranda kesilip bir sosyal güvenlik kurumuna yatırılan para

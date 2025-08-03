@@ -2,6 +2,7 @@
 layout: term
 title: bir defacık
 slug: bir-defacik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bir kere

@@ -2,6 +2,7 @@
 layout: term
 title: büyüklük satmak
 slug: buyukluk-satmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - gururlanıp üstünlük taslamak

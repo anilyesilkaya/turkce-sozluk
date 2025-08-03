@@ -2,6 +2,7 @@
 layout: term
 title: kamu
 slug: kamu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Halk hizmeti gören devlet organlarının tümü

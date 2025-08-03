@@ -2,6 +2,7 @@
 layout: term
 title: sarıcık
 slug: saricik
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► sarıasma

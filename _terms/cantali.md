@@ -2,6 +2,7 @@
 layout: term
 title: çantalı
 slug: cantali
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çantası olan

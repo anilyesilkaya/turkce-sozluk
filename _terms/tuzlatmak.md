@@ -2,6 +2,7 @@
 layout: term
 title: tuzlatmak
 slug: tuzlatmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tuzlama işini yaptırmak

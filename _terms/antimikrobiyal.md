@@ -2,6 +2,7 @@
 layout: term
 title: antimikrobiyal
 slug: antimikrobiyal
+letter: A
 lisan: İngilizce antimicrobial
 anlamlar:
 - Mikroorganizmaları öldüren veya onların büyümelerini engelleyen madde

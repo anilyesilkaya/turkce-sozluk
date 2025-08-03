@@ -2,6 +2,7 @@
 layout: term
 title: civanım!
 slug: civanim
+letter: C
 lisan: Türkçe
 anlamlar:
 - sevgi bildiren bir seslenme sözü

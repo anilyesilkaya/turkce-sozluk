@@ -2,6 +2,7 @@
 layout: term
 title: öncü
 slug: oncu
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Önden gelen, önde olan, artçı karşıtı

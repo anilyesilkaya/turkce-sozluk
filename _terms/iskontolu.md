@@ -2,6 +2,7 @@
 layout: term
 title: iskontolu
 slug: iskontolu
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► indirimli

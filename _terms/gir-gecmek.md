@@ -2,6 +2,7 @@
 layout: term
 title: gır geçmek
 slug: gir-gecmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - bol bol konuşmak, çene çalmak

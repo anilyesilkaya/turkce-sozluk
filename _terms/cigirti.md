@@ -2,6 +2,7 @@
 layout: term
 title: çığırtı
 slug: cigirti
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çığırma sesi

@@ -2,6 +2,7 @@
 layout: term
 title: esnemek
 slug: esnemek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Uykulu, sıkıntılı veya yorgunluk duyulan bir anda ağzı genişçe açarak soluk alıp vermek

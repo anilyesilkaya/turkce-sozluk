@@ -2,6 +2,7 @@
 layout: term
 title: çoğul eki
 slug: cogul-eki
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çokluk eki

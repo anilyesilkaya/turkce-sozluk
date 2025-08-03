@@ -2,6 +2,7 @@
 layout: term
 title: soluyabilmek
 slug: soluyabilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Soluma ihtimali veya imkânı bulunmak

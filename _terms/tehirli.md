@@ -2,6 +2,7 @@
 layout: term
 title: tehirli
 slug: tehirli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Geciktirilmiş

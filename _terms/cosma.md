@@ -2,6 +2,7 @@
 layout: term
 title: coşma
 slug: cosma
+letter: C
 lisan: Türkçe
 anlamlar:
 - Coşmak işi; galeyan

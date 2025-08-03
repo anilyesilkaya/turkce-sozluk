@@ -2,6 +2,7 @@
 layout: term
 title: daraltı
 slug: daralti
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dar gibi görünme veya olma

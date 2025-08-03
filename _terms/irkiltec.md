@@ -2,6 +2,7 @@
 layout: term
 title: irkilteç
 slug: irkiltec
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► kalp pili

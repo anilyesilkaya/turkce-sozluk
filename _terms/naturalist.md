@@ -2,6 +2,7 @@
 layout: term
 title: natüralist
 slug: naturalist
+letter: N
 lisan: Fransızca naturaliste
 anlamlar:
 - ► doğalcı

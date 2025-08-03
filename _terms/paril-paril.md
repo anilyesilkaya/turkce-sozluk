@@ -2,6 +2,7 @@
 layout: term
 title: parıl parıl
 slug: paril-paril
+letter: P
 lisan: Türkçe
 anlamlar:
 - Parıldayarak, ışık saçarak; delep delep

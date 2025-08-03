@@ -2,6 +2,7 @@
 layout: term
 title: subaşı
 slug: subasi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Şehirlerin güvenlik işlerine bakan görevlilerin başı

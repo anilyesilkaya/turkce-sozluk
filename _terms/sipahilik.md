@@ -2,6 +2,7 @@
 layout: term
 title: sipahilik
 slug: sipahilik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sipahi olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: damaksıllaşma
 slug: damaksillasma
+letter: D
 lisan: Türkçe
 anlamlar:
 - 'Bir sesin boğumlanma noktasının değişerek damak sesine dönüşmesi: yine > gine, ödün > öyün / öğün vb'

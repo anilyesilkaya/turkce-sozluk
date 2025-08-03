@@ -2,6 +2,7 @@
 layout: term
 title: iştahı kapanmak (veya kesilmek)
 slug: istahi-kapanmak-veya-kesilmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - yemek isteği yok olmak

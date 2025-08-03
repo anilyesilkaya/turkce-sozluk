@@ -2,6 +2,7 @@
 layout: term
 title: bir yanda
 slug: bir-yanda
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir tarafta

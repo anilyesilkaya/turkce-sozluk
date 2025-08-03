@@ -2,6 +2,7 @@
 layout: term
 title: tanış
 slug: tanis
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► tanıdık

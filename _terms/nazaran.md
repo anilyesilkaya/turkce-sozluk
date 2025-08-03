@@ -2,6 +2,7 @@
 layout: term
 title: nazaran
 slug: nazaran
+letter: N
 lisan: Arapça naẓaran
 anlamlar:
 - “Göre, oranla, kıyasla” anlamlarında kullanılan bir söz

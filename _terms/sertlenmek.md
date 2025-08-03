@@ -2,6 +2,7 @@
 layout: term
 title: sertlenmek
 slug: sertlenmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sert bir tavır almak; sertleşmek

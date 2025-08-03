@@ -2,6 +2,7 @@
 layout: term
 title: köşklü
 slug: kosklu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yangınları haber vermesi için yangın kulelerinde ve başka uygun yerlerde bekletilen gözetleyici

@@ -2,6 +2,7 @@
 layout: term
 title: eğlencesiz
 slug: eglencesiz
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eğlencesi olmayan

@@ -2,6 +2,7 @@
 layout: term
 title: itina
 slug: itina
+letter: I
 lisan: Arapça iʿtināʾ
 anlamlar:
 - ► özen

@@ -2,6 +2,7 @@
 layout: term
 title: ıcığını cıcığını çıkarmak
 slug: icigini-cicigini-cikarmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - incelenmemiş, elden geçirilmemiş hiçbir yerini bırakmamak, en küçük ayrıntısına kadar incelemek, didik didik etmek

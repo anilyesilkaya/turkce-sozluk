@@ -2,6 +2,7 @@
 layout: term
 title: kalıt
 slug: kalit
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► miras

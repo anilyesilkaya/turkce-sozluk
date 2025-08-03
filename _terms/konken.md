@@ -2,6 +2,7 @@
 layout: term
 title: konken
 slug: konken
+letter: K
 lisan: Rumca
 anlamlar:
 - Bir tür iskambil oyunu

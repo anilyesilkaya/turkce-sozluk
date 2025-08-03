@@ -2,6 +2,7 @@
 layout: term
 title: andız otu
 slug: andiz-otu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Birleşikgillerden, nemli yerlerde yetişen, sarı çiçekli, acı ve kokulu bir ot (İnula helenium)

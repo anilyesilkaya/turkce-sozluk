@@ -2,6 +2,7 @@
 layout: term
 title: yanaşık
 slug: yanasik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yanaşmış durumda olan

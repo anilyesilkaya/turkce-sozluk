@@ -2,6 +2,7 @@
 layout: term
 title: canlı cenazeye dönmek
 slug: canli-cenazeye-donmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - çok zayıflamak, bir deri bir kemik kalmak

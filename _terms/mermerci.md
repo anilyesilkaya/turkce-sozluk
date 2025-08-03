@@ -2,6 +2,7 @@
 layout: term
 title: mermerci
 slug: mermerci
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mermer çıkaran, işleyen, satan, mermer vb. taşlardan yapılarda ıslak zemin işleri, mutfak döşemesi, eviye veya mezar taşları yapan kimse

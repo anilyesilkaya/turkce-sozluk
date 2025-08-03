@@ -2,6 +2,7 @@
 layout: term
 title: zeytincilik
 slug: zeytincilik
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zeytincinin yaptığı iş

@@ -2,6 +2,7 @@
 layout: term
 title: adres kutusu
 slug: adres-kutusu
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► adres çubuğu

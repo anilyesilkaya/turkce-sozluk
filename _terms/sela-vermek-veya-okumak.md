@@ -2,6 +2,7 @@
 layout: term
 title: sela vermek (veya okumak)
 slug: sela-vermek-veya-okumak
+letter: S
 lisan: Türkçe
 anlamlar:
 - minarelerde, salat okuyarak cuma namazını haber vermek

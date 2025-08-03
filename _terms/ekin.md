@@ -2,6 +2,7 @@
 layout: term
 title: ekin
 slug: ekin
+letter: E
 lisan: Türkçe
 anlamlar:
 - Tahılın tarlaya atıldığı andan harman oluncaya kadar aldığı durum; firez

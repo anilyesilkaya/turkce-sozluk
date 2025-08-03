@@ -2,6 +2,7 @@
 layout: term
 title: minaregölgesi
 slug: minaregolgesi
+letter: M
 lisan: Türkçe
 anlamlar:
 - Elde edilmesi imkânsız nesne

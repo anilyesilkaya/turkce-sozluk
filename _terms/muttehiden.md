@@ -2,6 +2,7 @@
 layout: term
 title: müttehiden
 slug: muttehiden
+letter: M
 lisan: Arapça mutteḥiden
 anlamlar:
 - Birlikte, birlik olarak

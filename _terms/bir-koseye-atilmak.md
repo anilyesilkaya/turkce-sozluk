@@ -2,6 +2,7 @@
 layout: term
 title: bir köşeye atılmak
 slug: bir-koseye-atilmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - terk edilmek, ilgilenilmemek, kendi kaderine terk edilmek

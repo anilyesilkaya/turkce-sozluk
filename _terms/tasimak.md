@@ -2,6 +2,7 @@
 layout: term
 title: taşımak
 slug: tasimak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir şeyi bir yerden alıp başka bir yere götürmek; gezdirmek

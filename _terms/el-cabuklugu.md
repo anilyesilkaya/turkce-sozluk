@@ -2,6 +2,7 @@
 layout: term
 title: el çabukluğu
 slug: el-cabuklugu
+letter: E
 lisan: Türkçe
 anlamlar:
 - Bir işi çabuklukla yapabilme ustalığı

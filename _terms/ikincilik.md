@@ -2,6 +2,7 @@
 layout: term
 title: ikincilik
 slug: ikincilik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İkinci olma durumu

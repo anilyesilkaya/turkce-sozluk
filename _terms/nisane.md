@@ -2,6 +2,7 @@
 layout: term
 title: nişane
 slug: nisane
+letter: N
 lisan: Farsça nişāne
 anlamlar:
 - ► nişangâh

@@ -2,6 +2,7 @@
 layout: term
 title: başmüezzin
 slug: basmuezzin
+letter: B
 lisan: Türkçe baş + Arapça muʾeẕẕin
 anlamlar:
 - Birden çok müezzin bulunan camilerde en kıdemli ve diğerlerinden sorumlu müezzin

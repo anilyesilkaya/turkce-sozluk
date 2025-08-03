@@ -2,6 +2,7 @@
 layout: term
 title: karşı durmak
 slug: karsi-durmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - direnmek, dayanmak

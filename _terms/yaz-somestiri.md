@@ -2,6 +2,7 @@
 layout: term
 title: yaz sömestiri
 slug: yaz-somestiri
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Eğitim ve öğretimde üçüncü yarıyıl

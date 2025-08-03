@@ -2,6 +2,7 @@
 layout: term
 title: kumpas kurmak
 slug: kumpas-kurmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - gizli bir iş, hile, düzen hazırlamak

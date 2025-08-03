@@ -2,6 +2,7 @@
 layout: term
 title: çözgün
 slug: cozgun
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çözülmüş, dağılmış

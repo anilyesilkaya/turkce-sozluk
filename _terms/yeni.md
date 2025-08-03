@@ -2,6 +2,7 @@
 layout: term
 title: yeni
 slug: yeni
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Kullanılmamış veya az kullanılmış olan; cedit, eski karşıtı

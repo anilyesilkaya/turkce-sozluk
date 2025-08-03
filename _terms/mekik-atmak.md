@@ -2,6 +2,7 @@
 layout: term
 title: mekik atmak
 slug: mekik-atmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - mekiği arışlar arasından hızla geçirmek

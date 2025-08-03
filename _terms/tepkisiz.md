@@ -2,6 +2,7 @@
 layout: term
 title: tepkisiz
 slug: tepkisiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tepkisi olmayan, tepki vermeyen

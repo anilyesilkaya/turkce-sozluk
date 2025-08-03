@@ -2,6 +2,7 @@
 layout: term
 title: depremölçer
 slug: depremolcer
+letter: D
 lisan: Türkçe
 anlamlar:
 - Depremlerin yerini, süresini, şiddetini tespit ederek bir dizi kırık çizgi çeken, çok duyarlı aygıt; depremçizer, depremyazar, sismograf

@@ -2,6 +2,7 @@
 layout: term
 title: çığırış
 slug: cigiris
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çığırmak işi

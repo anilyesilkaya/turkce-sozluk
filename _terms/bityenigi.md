@@ -2,6 +2,7 @@
 layout: term
 title: bityeniği
 slug: bityenigi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir işin gizli kalmış kötü ve aksak yanı, kuşkulu bir nokta; kurtyeniği

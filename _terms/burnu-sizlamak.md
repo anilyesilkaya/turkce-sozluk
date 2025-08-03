@@ -2,6 +2,7 @@
 layout: term
 title: burnu sızlamak
 slug: burnu-sizlamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - duygulanmak

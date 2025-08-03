@@ -2,6 +2,7 @@
 layout: term
 title: 'melamet hırkası '
 slug: melamet-hirkasi
+letter: M
 lisan: Türkçe
 anlamlar:
 - Her türlü gösteriş ve dünya kaygılarından uzak kalmayı öğütleyen Melamilerin kendilerini gizlemek için giydikleri varsayılan mecazi bir hırka

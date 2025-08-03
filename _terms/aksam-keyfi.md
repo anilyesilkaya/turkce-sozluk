@@ -2,6 +2,7 @@
 layout: term
 title: akşam keyfi
 slug: aksam-keyfi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Sohbet ederek, bir şeyler yiyip içerek akşamı güzel geçirme

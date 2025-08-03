@@ -2,6 +2,7 @@
 layout: term
 title: sızısız
 slug: sizisiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sızısı olmayan

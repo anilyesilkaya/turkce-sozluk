@@ -2,6 +2,7 @@
 layout: term
 title: partizan
 slug: partizan
+letter: P
 lisan: Fransızca partisan
 anlamlar:
 - ► partici

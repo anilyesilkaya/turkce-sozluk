@@ -2,6 +2,7 @@
 layout: term
 title: bayraktarlığını yapmak
 slug: bayraktarligini-yapmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir akımın, bir görüşün yayılmasında öncü olarak çalışmak

@@ -2,6 +2,7 @@
 layout: term
 title: candan yürekten
 slug: candan-yurekten
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► içtenlikle

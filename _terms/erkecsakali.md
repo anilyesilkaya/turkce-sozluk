@@ -2,6 +2,7 @@
 layout: term
 title: erkeçsakalı
 slug: erkecsakali
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► keçisakalı

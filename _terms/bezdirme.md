@@ -2,6 +2,7 @@
 layout: term
 title: bezdirme
 slug: bezdirme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bezdirmek işi

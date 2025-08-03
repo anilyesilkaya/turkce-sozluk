@@ -2,6 +2,7 @@
 layout: term
 title: açık turuncu
 slug: acik-turuncu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Turuncunun bir veya birkaç ton açığı

@@ -2,6 +2,7 @@
 layout: term
 title: ne çıkar
 slug: ne-cikar
+letter: N
 lisan: Türkçe
 anlamlar:
 - ne zararı var?

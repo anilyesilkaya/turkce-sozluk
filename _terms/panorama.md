@@ -2,6 +2,7 @@
 layout: term
 title: panorama
 slug: panorama
+letter: P
 lisan: Fransızca panorama
 anlamlar:
 - Yüksek bir yerden bakıldığında göz önüne serilen geniş görünüş

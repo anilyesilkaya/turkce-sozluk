@@ -2,6 +2,7 @@
 layout: term
 title: arz olunmak
 slug: arz-olunmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - sunulmak

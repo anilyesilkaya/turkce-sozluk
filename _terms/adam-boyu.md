@@ -2,6 +2,7 @@
 layout: term
 title: adam boyu
 slug: adam-boyu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yaklaşık bir adam boyunda olan

@@ -2,6 +2,7 @@
 layout: term
 title: ruhu karartmak
 slug: ruhu-karartmak
+letter: R
 lisan: Türkçe
 anlamlar:
 - sıkıntıya sokmak, bunaltmak

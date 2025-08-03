@@ -2,6 +2,7 @@
 layout: term
 title: bayram alayı
 slug: bayram-alayi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bayram günlerinde padişahların camiye gidiş ve geliş sırasında yapılan tören

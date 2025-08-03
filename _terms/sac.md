@@ -2,6 +2,7 @@
 layout: term
 title: saç
 slug: sac
+letter: S
 lisan: Türkçe
 anlamlar:
 - Baş derisini kaplayan kıllar

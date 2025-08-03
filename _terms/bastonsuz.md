@@ -2,6 +2,7 @@
 layout: term
 title: bastonsuz
 slug: bastonsuz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bastonu olmayan

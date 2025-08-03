@@ -2,6 +2,7 @@
 layout: term
 title: para kesmek
 slug: para-kesmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - para basmak

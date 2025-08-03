@@ -2,6 +2,7 @@
 layout: term
 title: incerek
 slug: incerek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Zayıfa yakın, incecik

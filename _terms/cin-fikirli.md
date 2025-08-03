@@ -2,6 +2,7 @@
 layout: term
 title: cin fikirli
 slug: cin-fikirli
+letter: C
 lisan: Türkçe
 anlamlar:
 - Çok kurnaz, zekâsını insanları aldatmaya yönelik olarak kullanan

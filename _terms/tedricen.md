@@ -2,6 +2,7 @@
 layout: term
 title: tedricen
 slug: tedricen
+letter: T
 lisan: Arapça tedrīcen
 anlamlar:
 - ► gittikçe

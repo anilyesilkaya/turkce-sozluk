@@ -2,6 +2,7 @@
 layout: term
 title: sinirine dokunmak
 slug: sinirine-dokunmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - hoşuna gitmemek, sinirlendirmek

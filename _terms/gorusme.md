@@ -2,6 +2,7 @@
 layout: term
 title: görüşme
 slug: gorusme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Görüşmek işi; konuşma

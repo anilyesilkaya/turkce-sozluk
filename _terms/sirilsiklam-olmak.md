@@ -2,6 +2,7 @@
 layout: term
 title: sırılsıklam olmak
 slug: sirilsiklam-olmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - çok ıslanmak

@@ -2,6 +2,7 @@
 layout: term
 title: tüccarlık
 slug: tuccarlik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tüccar olma durumu

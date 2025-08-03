@@ -2,6 +2,7 @@
 layout: term
 title: zararı yok
 slug: zarari-yok
+letter: Z
 lisan: Türkçe
 anlamlar:
 - özür dileyenlere karşılık olarak bağışlandığını, olayın pek önemli olmadığını bildirmek için söylenen bir söz

@@ -2,6 +2,7 @@
 layout: term
 title: ezel
 slug: ezel
+letter: E
 lisan: Arapça ezel
 anlamlar:
 - Başlangıcı belli olmayan zaman; öncesizlik

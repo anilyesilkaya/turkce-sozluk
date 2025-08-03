@@ -2,6 +2,7 @@
 layout: term
 title: sızgıt
 slug: sizgit
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► kavurma

@@ -2,6 +2,7 @@
 layout: term
 title: ister
 slug: ister
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► gerek

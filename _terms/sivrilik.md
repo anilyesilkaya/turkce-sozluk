@@ -2,6 +2,7 @@
 layout: term
 title: sivrilik
 slug: sivrilik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sivri olma durumu

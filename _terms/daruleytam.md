@@ -2,6 +2,7 @@
 layout: term
 title: darüleytam
 slug: daruleytam
+letter: D
 lisan: Arapça dār + eytām
 anlamlar:
 - Yetimlerin barındığı yer

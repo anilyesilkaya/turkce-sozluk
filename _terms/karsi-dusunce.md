@@ -2,6 +2,7 @@
 layout: term
 title: karşı düşünce
 slug: karsi-dusunce
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► karşı görüş

@@ -2,6 +2,7 @@
 layout: term
 title: hapsetmek
 slug: hapsetmek
+letter: H
 lisan: Arapça ḥabs + Türkçe etmek
 anlamlar:
 - Bir suçluyu hapishaneye koymak

@@ -2,6 +2,7 @@
 layout: term
 title: manzume
 slug: manzume
+letter: M
 lisan: Arapça manẓūme
 anlamlar:
 - ► şiir

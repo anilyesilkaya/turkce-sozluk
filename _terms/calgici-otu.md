@@ -2,6 +2,7 @@
 layout: term
 title: çalgıcı otu
 slug: calgici-otu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Turpgillerden, kurak yerlerde yetişen bir bitki cinsi (Sisymbrium)

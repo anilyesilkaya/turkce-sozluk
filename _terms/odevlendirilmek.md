@@ -2,6 +2,7 @@
 layout: term
 title: ödevlendirilmek
 slug: odevlendirilmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ödevlendirme işine konu olmak; vazifelendirilmek

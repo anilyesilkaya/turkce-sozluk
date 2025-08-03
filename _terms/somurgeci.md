@@ -2,6 +2,7 @@
 layout: term
 title: sömürgeci
 slug: somurgeci
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sömürgesi olan, sömürge elde etmek amacında olan kimse veya ülke; müstemlekeci, kolonyalist, kolonizatör

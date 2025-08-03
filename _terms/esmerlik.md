@@ -2,6 +2,7 @@
 layout: term
 title: esmerlik
 slug: esmerlik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Esmer olma durumu

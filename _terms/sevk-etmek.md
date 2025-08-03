@@ -2,6 +2,7 @@
 layout: term
 title: sevk etmek
 slug: sevk-etmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - göndermek, götürmek

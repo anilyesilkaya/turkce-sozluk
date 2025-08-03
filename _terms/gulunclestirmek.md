@@ -2,6 +2,7 @@
 layout: term
 title: gülünçleştirmek
 slug: gulunclestirmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gülünç duruma getirmek

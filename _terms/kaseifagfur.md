@@ -2,6 +2,7 @@
 layout: term
 title: kâseifağfur
 slug: kaseifagfur
+letter: K
 lisan: Farsça kāse + faġfūr
 anlamlar:
 - Çin porseleninden kapılmış çanak

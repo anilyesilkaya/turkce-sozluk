@@ -2,6 +2,7 @@
 layout: term
 title: tüzük
 slug: tuzuk
+letter: T
 lisan: Türkçe
 anlamlar:
 - Herhangi bir kurumun veya kuruluşun tutacağı yolu ve uygulayacağı hükümleri sırasıyla gösteren maddelerin hepsi; nizamname, statü

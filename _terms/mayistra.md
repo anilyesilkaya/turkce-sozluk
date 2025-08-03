@@ -2,6 +2,7 @@
 layout: term
 title: mayistra
 slug: mayistra
+letter: M
 lisan: İtalyanca maistra
 anlamlar:
 - Grandi direğinin en alt sereni ve bu serene çekilen yelken

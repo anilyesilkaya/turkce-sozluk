@@ -2,6 +2,7 @@
 layout: term
 title: kesişme
 slug: kesisme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kesişmek işi

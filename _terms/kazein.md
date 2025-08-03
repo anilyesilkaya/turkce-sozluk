@@ -2,6 +2,7 @@
 layout: term
 title: kazein
 slug: kazein
+letter: K
 lisan: Fransızca caséine
 anlamlar:
 - Sütte bulunan protein maddesi

@@ -2,6 +2,7 @@
 layout: term
 title: eda
 slug: eda
+letter: E
 lisan: Arapça edāʾ
 anlamlar:
 - Verme, ödeme, yerine getirme

@@ -2,6 +2,7 @@
 layout: term
 title: tepe lambası
 slug: tepe-lambasi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Cankurtaran, itfaiye gibi trafikte geçiş üstünlüğüne sahip araçların ve kurtarıcı gibi yardımcı araçların üzerinde bulunan, aralıklarla renkli ışık yayan lamba

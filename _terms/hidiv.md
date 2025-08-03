@@ -2,6 +2,7 @@
 layout: term
 title: hidiv
 slug: hidiv
+letter: H
 lisan: Farsça ḫidīv
 anlamlar:
 - ► vezir

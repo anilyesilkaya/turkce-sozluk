@@ -2,6 +2,7 @@
 layout: term
 title: papağan gibi tekrarlamak
 slug: papagan-gibi-tekrarlamak
+letter: P
 lisan: Türkçe
 anlamlar:
 - peş peşe, art arda söylemek

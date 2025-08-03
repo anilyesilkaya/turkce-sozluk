@@ -2,6 +2,7 @@
 layout: term
 title: tümleç
 slug: tumlec
+letter: T
 lisan: Türkçe
 anlamlar:
 - Yüklemin anlamını çeşitli yönlerden tamamlayan öge; meful, mütemmim

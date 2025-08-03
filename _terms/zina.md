@@ -2,6 +2,7 @@
 layout: term
 title: zina
 slug: zina
+letter: Z
 lisan: Arapça zināʾ
 anlamlar:
 - Aralarında evlilik bağı olmayan kişiler arasındaki cinsel ilişki

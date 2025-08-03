@@ -2,6 +2,7 @@
 layout: term
 title: istettirmek
 slug: istettirmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İstetmesini sağlamak

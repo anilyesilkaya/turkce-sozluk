@@ -2,6 +2,7 @@
 layout: term
 title: çözümsüzlük
 slug: cozumsuzluk
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çözümü olmama durumu

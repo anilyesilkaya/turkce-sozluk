@@ -2,6 +2,7 @@
 layout: term
 title: yazı işleri
 slug: yazi-isleri
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir daire veya kurumda yazışmaların yapıldığı bölüm

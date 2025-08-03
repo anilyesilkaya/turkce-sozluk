@@ -2,6 +2,7 @@
 layout: term
 title: hazzetmek
 slug: hazzetmek
+letter: H
 lisan: Arapça ḥaẓẓ + Türkçe etmek
 anlamlar:
 - ► hoşlanmak

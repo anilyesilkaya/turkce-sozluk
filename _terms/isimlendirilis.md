@@ -2,6 +2,7 @@
 layout: term
 title: isimlendiriliş
 slug: isimlendirilis
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► adlandırılış

@@ -2,6 +2,7 @@
 layout: term
 title: göz yuvası
 slug: goz-yuvasi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Göz yuvarlarının içinde bulundukları kemik oyuklardan her biri; gözevi

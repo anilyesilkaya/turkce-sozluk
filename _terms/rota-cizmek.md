@@ -2,6 +2,7 @@
 layout: term
 title: rota çizmek
 slug: rota-cizmek
+letter: R
 lisan: Türkçe
 anlamlar:
 - izleyeceği yolu belirlemek

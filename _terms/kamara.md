@@ -2,6 +2,7 @@
 layout: term
 title: kamara
 slug: kamara
+letter: K
 lisan: İtalyanca camera
 anlamlar:
 - Gemilerde oda

@@ -2,6 +2,7 @@
 layout: term
 title: hatim
 slug: hatim
+letter: H
 lisan: Arapça ḫatm
 anlamlar:
 - Kur'an'ın tamamını okuma

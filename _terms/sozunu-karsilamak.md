@@ -2,6 +2,7 @@
 layout: term
 title: sözünü karşılamak
 slug: sozunu-karsilamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - bir kimsenin sözüne cevap vermek

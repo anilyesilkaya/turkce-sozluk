@@ -2,6 +2,7 @@
 layout: term
 title: deniz bilimci
 slug: deniz-bilimci
+letter: D
 lisan: Türkçe
 anlamlar:
 - Deniz bilimi ile uğraşan kimse

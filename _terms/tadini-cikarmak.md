@@ -2,6 +2,7 @@
 layout: term
 title: tadını çıkarmak
 slug: tadini-cikarmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - bir şeyin güzelliğinden veya sağladığı imkânlardan yeterince yararlanmak

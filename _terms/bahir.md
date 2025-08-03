@@ -2,6 +2,7 @@
 layout: term
 title: bahir
 slug: bahir
+letter: B
 lisan: Arapça baḥr
 anlamlar:
 - Mevlidin bölümlerinden her biri

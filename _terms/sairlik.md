@@ -2,6 +2,7 @@
 layout: term
 title: şairlik
 slug: sairlik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şair olma durumu; ozanlık

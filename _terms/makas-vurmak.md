@@ -2,6 +2,7 @@
 layout: term
 title: makas vurmak
 slug: makas-vurmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - makasla kesmek

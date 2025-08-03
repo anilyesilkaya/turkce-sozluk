@@ -2,6 +2,7 @@
 layout: term
 title: sabredebilmek
 slug: sabredebilmek
+letter: S
 lisan: Arapça ṣabr + Türkçe edebilmek
 anlamlar:
 - Sabretme ihtimali veya imkânı bulunmak

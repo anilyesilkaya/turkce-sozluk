@@ -2,6 +2,7 @@
 layout: term
 title: hainleşmek
 slug: hainlesmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - Haince davranır duruma gelmek

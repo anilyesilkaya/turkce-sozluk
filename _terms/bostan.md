@@ -2,6 +2,7 @@
 layout: term
 title: bostan
 slug: bostan
+letter: B
 lisan: Farsça būstān
 anlamlar:
 - Sebze bahçesi

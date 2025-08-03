@@ -2,6 +2,7 @@
 layout: term
 title: külkedisi
 slug: kulkedisi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çok üşüyen, ateşin yanından ayrılmayan (kimse)

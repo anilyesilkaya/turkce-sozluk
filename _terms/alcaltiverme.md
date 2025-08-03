@@ -2,6 +2,7 @@
 layout: term
 title: alçaltıverme
 slug: alcaltiverme
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alçaltıvermek işi

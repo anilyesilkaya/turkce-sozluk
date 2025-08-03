@@ -2,6 +2,7 @@
 layout: term
 title: tropik bitki
 slug: tropik-bitki
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► tropikal bitki

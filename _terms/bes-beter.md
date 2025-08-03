@@ -2,6 +2,7 @@
 layout: term
 title: beş beter
 slug: bes-beter
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► besbeter

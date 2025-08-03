@@ -2,6 +2,7 @@
 layout: term
 title: özdeş
 slug: ozdes
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Her türlü nitelik bakımından eşit olan, aralarında fark bulunmayan; aynı

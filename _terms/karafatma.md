@@ -2,6 +2,7 @@
 layout: term
 title: karafatma
 slug: karafatma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kın kanatlılardan, böcek, kurt ve sümüklü böceklerle beslenen, tarıma yararlı, parlak siyah renkli bir böcek; ağılı böcek (Carabus)

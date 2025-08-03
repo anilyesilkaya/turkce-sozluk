@@ -2,6 +2,7 @@
 layout: term
 title: flörtöz
 slug: flortoz
+letter: F
 lisan: Fransızca flirteuse
 anlamlar:
 - Flört etmeye düşkün olan, flört etmeyi seven, çok flört eden

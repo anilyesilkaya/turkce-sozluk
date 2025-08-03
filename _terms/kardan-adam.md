@@ -2,6 +2,7 @@
 layout: term
 title: kardan adam
 slug: kardan-adam
+letter: K
 lisan: Türkçe
 anlamlar:
 - Eğlenmek amacıyla insana benzetilerek yapılan kardan heykel

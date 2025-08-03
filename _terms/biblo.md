@@ -2,6 +2,7 @@
 layout: term
 title: biblo
 slug: biblo
+letter: B
 lisan: Fransızca bibelot
 anlamlar:
 - Çeşitli maddelerden yapılan heykel, vazo vb. zarif, küçük süs eşyası

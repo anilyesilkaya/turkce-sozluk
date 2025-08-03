@@ -2,6 +2,7 @@
 layout: term
 title: mevzilenmek
 slug: mevzilenmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - Askerî birlik savaş sırasında savunma tedbirleri alarak bir bölgeye yerleşmek

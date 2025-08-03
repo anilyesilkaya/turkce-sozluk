@@ -2,6 +2,7 @@
 layout: term
 title: arabalı
 slug: arabali
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arabası olan

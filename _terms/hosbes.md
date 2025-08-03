@@ -2,6 +2,7 @@
 layout: term
 title: hoşbeş
 slug: hosbes
+letter: H
 lisan: Farsça ḫoş + bāş
 anlamlar:
 - Hatır sormak amacıyla söylenen ilk sözler

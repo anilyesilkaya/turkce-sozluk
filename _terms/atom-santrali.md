@@ -2,6 +2,7 @@
 layout: term
 title: atom santrali
 slug: atom-santrali
+letter: A
 lisan: Türkçe
 anlamlar:
 - Atomdan yararlanarak enerji elde eden santral; nükleer santral

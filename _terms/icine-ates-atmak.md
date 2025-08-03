@@ -2,6 +2,7 @@
 layout: term
 title: içine ateş atmak
 slug: icine-ates-atmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - aşırı acı, sıkıntı veya üzüntü verecek davranışta bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: ötüşme
 slug: otusme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ötüşmek işi

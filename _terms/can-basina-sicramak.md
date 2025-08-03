@@ -2,6 +2,7 @@
 layout: term
 title: can başına sıçramak
 slug: can-basina-sicramak
+letter: C
 lisan: Türkçe
 anlamlar:
 - çok korkmak

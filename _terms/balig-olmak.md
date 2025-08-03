@@ -2,6 +2,7 @@
 layout: term
 title: baliğ olmak
 slug: balig-olmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - ergenleşmek

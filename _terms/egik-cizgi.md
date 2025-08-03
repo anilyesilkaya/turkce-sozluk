@@ -2,6 +2,7 @@
 layout: term
 title: eğik çizgi
 slug: egik-cizgi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Düz olmayan çizgi

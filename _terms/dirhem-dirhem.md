@@ -2,6 +2,7 @@
 layout: term
 title: dirhem dirhem
 slug: dirhem-dirhem
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çok az ölçüde

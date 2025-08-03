@@ -2,6 +2,7 @@
 layout: term
 title: anıştırmak
 slug: anistirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir şeyi açıkça söylemeyip üstü kapalı anlatmak, dolaylı anlatmak; ima etmek, ihsas etmek

@@ -2,6 +2,7 @@
 layout: term
 title: bir hiç uğruna
 slug: bir-hic-ugruna
+letter: B
 lisan: Türkçe
 anlamlar:
 - boşuna, boş yere

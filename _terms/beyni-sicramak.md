@@ -2,6 +2,7 @@
 layout: term
 title: beyni sıçramak
 slug: beyni-sicramak
+letter: B
 lisan: Türkçe
 anlamlar:
 - aklı başından gitmek

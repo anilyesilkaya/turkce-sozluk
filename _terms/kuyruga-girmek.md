@@ -2,6 +2,7 @@
 layout: term
 title: kuyruğa girmek
 slug: kuyruga-girmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - ayakta arka arkaya durulan diziye girmek

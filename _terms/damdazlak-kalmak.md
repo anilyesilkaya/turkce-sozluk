@@ -2,6 +2,7 @@
 layout: term
 title: damdazlak kalmak
 slug: damdazlak-kalmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - elde hiçbir şeyi kalmamış duruma gelmek

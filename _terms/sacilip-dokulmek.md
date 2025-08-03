@@ -2,6 +2,7 @@
 layout: term
 title: saçılıp dökülmek
 slug: sacilip-dokulmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - gereğinden veya kaldırabileceğinden çok harcamak

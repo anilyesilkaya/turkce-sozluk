@@ -2,6 +2,7 @@
 layout: term
 title: danışılmak
 slug: danisilmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Danışma işi yapılmak

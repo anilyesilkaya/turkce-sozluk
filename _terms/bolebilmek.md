@@ -2,6 +2,7 @@
 layout: term
 title: bölebilmek
 slug: bolebilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bölme ihtimali veya imkânı bulunmak

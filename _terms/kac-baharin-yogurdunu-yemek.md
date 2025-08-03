@@ -2,6 +2,7 @@
 layout: term
 title: kaç baharın yoğurdunu yemek
 slug: kac-baharin-yogurdunu-yemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - çok yaşamak, ömrü uzun olmak

@@ -2,6 +2,7 @@
 layout: term
 title: üst sınıf
 slug: ust-sinif
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Bir üst sınıf veya ileri sınıf

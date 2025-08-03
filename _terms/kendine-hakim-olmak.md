@@ -2,6 +2,7 @@
 layout: term
 title: kendine hâkim olmak
 slug: kendine-hakim-olmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kendi duygu ve davranışlarını iradesiyle denetleyebilmek

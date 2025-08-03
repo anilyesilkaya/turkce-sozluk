@@ -2,6 +2,7 @@
 layout: term
 title: deniz altı
 slug: deniz-alti
+letter: D
 lisan: Türkçe
 anlamlar:
 - Deniz altında bulunan

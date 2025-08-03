@@ -2,6 +2,7 @@
 layout: term
 title: eğlek
 slug: eglek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Sürünün yazın öğle sıcağında dinlendiği gölgelik

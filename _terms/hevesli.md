@@ -2,6 +2,7 @@
 layout: term
 title: hevesli
 slug: hevesli
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► istekli

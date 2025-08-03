@@ -2,6 +2,7 @@
 layout: term
 title: gebelik
 slug: gebelik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gebe olma durumu; hamilelik

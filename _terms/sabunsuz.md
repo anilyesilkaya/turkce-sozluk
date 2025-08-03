@@ -2,6 +2,7 @@
 layout: term
 title: sabunsuz
 slug: sabunsuz
+letter: S
 lisan: Türkçe
 anlamlar:
 - İçinde sabun bulunmayan

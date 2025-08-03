@@ -2,6 +2,7 @@
 layout: term
 title: uçkursuz
 slug: uckursuz
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uçkuru olmayan

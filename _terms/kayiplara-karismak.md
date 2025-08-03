@@ -2,6 +2,7 @@
 layout: term
 title: kayıplara karışmak
 slug: kayiplara-karismak
+letter: K
 lisan: Türkçe
 anlamlar:
 - bulunduğu yerden ayrılıp gitmek, gittiği yeri bildirmemek, görünmez olmak

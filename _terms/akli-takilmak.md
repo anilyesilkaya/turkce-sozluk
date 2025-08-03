@@ -2,6 +2,7 @@
 layout: term
 title: aklı takılmak
 slug: akli-takilmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - zihni bir şeyle sürekli olarak uğraşmak

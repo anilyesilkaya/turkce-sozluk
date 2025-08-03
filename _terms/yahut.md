@@ -2,6 +2,7 @@
 layout: term
 title: yahut
 slug: yahut
+letter: Y
 lisan: Farsça yā + ḫõd
 anlamlar:
 - ► veya

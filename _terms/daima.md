@@ -2,6 +2,7 @@
 layout: term
 title: daima
 slug: daima
+letter: D
 lisan: Arapça dāʾimā
 anlamlar:
 - Her vakit, sürekli olarak; daim

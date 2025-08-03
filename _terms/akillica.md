@@ -2,6 +2,7 @@
 layout: term
 title: akıllıca
 slug: akillica
+letter: A
 lisan: Türkçe
 anlamlar:
 - Akla yakın, doğru, makul olan

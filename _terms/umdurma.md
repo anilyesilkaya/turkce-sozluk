@@ -2,6 +2,7 @@
 layout: term
 title: umdurma
 slug: umdurma
+letter: U
 lisan: Türkçe
 anlamlar:
 - Umdurmak işi

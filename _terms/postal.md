@@ -2,6 +2,7 @@
 layout: term
 title: postal
 slug: postal
+letter: P
 lisan: Farsça postgāl
 anlamlar:
 - Genellikle askerlerin giydiği konçlu ve kaba potin

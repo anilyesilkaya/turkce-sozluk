@@ -2,6 +2,7 @@
 layout: term
 title: sıracı
 slug: siraci
+letter: S
 lisan: Türkçe
 anlamlar:
 - Dört kişilik saz heyeti

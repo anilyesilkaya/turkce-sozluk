@@ -2,6 +2,7 @@
 layout: term
 title: leşini sermek
 slug: lesini-sermek
+letter: L
 lisan: Türkçe
 anlamlar:
 - öldürmek

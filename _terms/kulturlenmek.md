@@ -2,6 +2,7 @@
 layout: term
 title: kültürlenmek
 slug: kulturlenmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir arada bulunan iki bireyin veya etnik grubun değer yargıları ile kültürel birikiminin özellikleri birbirinden etkilenerek değişikliğe uğramak

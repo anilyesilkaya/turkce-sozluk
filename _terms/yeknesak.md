@@ -2,6 +2,7 @@
 layout: term
 title: yeknesak
 slug: yeknesak
+letter: Y
 lisan: Farsça yek + Arapça nesaḳ
 anlamlar:
 - ► tekdüze

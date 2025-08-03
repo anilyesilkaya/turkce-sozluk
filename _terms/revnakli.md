@@ -2,6 +2,7 @@
 layout: term
 title: revnaklı
 slug: revnakli
+letter: R
 lisan: Türkçe
 anlamlar:
 - Revnakı olan, renkli, popüler, göz alıcı olan

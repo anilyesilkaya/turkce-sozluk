@@ -2,6 +2,7 @@
 layout: term
 title: yeşilimtırak
 slug: yesilimtirak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yeşilimsi

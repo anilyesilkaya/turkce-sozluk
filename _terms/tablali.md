@@ -2,6 +2,7 @@
 layout: term
 title: tablalı
 slug: tablali
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tablası olan

@@ -2,6 +2,7 @@
 layout: term
 title: organ bağışı
 slug: organ-bagisi
+letter: O
 lisan: Türkçe
 anlamlar:
 - Bireylerin bilinçli bir biçimde ve özgür iradesiyle,organlarının bir veya birkaçını başka hastaların tedavisinde kullanılması adına bağışlanması

@@ -2,6 +2,7 @@
 layout: term
 title: hacıyatmaz
 slug: haciyatmaz
+letter: H
 lisan: Türkçe
 anlamlar:
 - Dibine konan ağırlık sebebiyle yatırılmak istense de hep dik duran oyuncak

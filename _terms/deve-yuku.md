@@ -2,6 +2,7 @@
 layout: term
 title: deve yükü
 slug: deve-yuku
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir devenin taşıyabileceği yük miktarı

@@ -2,6 +2,7 @@
 layout: term
 title: çengüçağanak
 slug: cengucaganak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çalgı çağanak

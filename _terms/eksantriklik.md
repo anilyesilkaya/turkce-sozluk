@@ -2,6 +2,7 @@
 layout: term
 title: eksantriklik
 slug: eksantriklik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eksantrik olma durumu

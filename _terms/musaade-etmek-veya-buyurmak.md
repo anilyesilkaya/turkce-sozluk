@@ -2,6 +2,7 @@
 layout: term
 title: müsaade etmek (veya buyurmak)
 slug: musaade-etmek-veya-buyurmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - izin vermek

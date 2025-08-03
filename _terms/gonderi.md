@@ -2,6 +2,7 @@
 layout: term
 title: gönderi
 slug: gonderi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bir yerden bir yere özellikle posta ile gönderilen paket, telgraf, mektup vb

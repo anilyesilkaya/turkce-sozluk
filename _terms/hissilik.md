@@ -2,6 +2,7 @@
 layout: term
 title: hissîlik
 slug: hissilik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hissî olma durumu

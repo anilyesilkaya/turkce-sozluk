@@ -2,6 +2,7 @@
 layout: term
 title: sepetçik
 slug: sepetcik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Küçük sepet

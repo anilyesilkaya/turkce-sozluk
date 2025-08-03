@@ -2,6 +2,7 @@
 layout: term
 title: çirkinleşme
 slug: cirkinlesme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çirkinleşmek işi

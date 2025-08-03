@@ -2,6 +2,7 @@
 layout: term
 title: ziftlenmek
 slug: ziftlenmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zift sürülmek, ziftle kaplanmak

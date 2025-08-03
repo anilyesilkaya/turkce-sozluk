@@ -2,6 +2,7 @@
 layout: term
 title: tırnaklamak
 slug: tirnaklamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► tırmalamak

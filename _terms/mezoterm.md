@@ -2,6 +2,7 @@
 layout: term
 title: mezoterm
 slug: mezoterm
+letter: M
 lisan: Fransızca mésotherme
 anlamlar:
 - ► ılıkçıl

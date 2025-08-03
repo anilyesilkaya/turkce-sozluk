@@ -2,6 +2,7 @@
 layout: term
 title: yer belirteci
 slug: yer-belirteci
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yer zarfı

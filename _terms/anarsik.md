@@ -2,6 +2,7 @@
 layout: term
 title: anarşik
 slug: anarsik
+letter: A
 lisan: Fransızca anarchique
 anlamlar:
 - Anarşi ile ilgili

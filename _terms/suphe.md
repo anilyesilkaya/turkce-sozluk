@@ -2,6 +2,7 @@
 layout: term
 title: şüphe
 slug: suphe
+letter: Ş
 lisan: Arapça şubhe
 anlamlar:
 - ► kuşku

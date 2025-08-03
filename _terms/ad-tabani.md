@@ -2,6 +2,7 @@
 layout: term
 title: ad tabanı
 slug: ad-tabani
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ad kök ve gövdelerinin çekim eki almamış durumu, isim tabanı

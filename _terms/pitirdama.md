@@ -2,6 +2,7 @@
 layout: term
 title: pıtırdama
 slug: pitirdama
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pıtırdamak işi

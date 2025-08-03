@@ -2,6 +2,7 @@
 layout: term
 title: arlanmazca
 slug: arlanmazca
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► utanmazca

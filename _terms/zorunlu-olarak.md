@@ -2,6 +2,7 @@
 layout: term
 title: zorunlu olarak
 slug: zorunlu-olarak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - kendi isteğinin dışında

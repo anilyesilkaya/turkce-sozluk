@@ -2,6 +2,7 @@
 layout: term
 title: hulul etmek
 slug: hulul-etmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - gelmek, gelip çatmak

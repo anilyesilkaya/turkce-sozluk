@@ -2,6 +2,7 @@
 layout: term
 title: buğday benizli
 slug: bugday-benizli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Açık esmer renkli

@@ -2,6 +2,7 @@
 layout: term
 title: hatıramsı
 slug: hatiramsi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hatırayı andıran, hatıraya benzeyen, hatıra gibi

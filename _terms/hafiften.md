@@ -2,6 +2,7 @@
 layout: term
 title: hafiften
 slug: hafiften
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hafifçe, belli belirsiz, yavaş yavaş

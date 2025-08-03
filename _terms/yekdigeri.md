@@ -2,6 +2,7 @@
 layout: term
 title: yekdiğeri
 slug: yekdigeri
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► ötekisi

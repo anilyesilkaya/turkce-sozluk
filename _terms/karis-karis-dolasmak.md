@@ -2,6 +2,7 @@
 layout: term
 title: karış karış dolaşmak
 slug: karis-karis-dolasmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - her yeri gezmek

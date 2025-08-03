@@ -2,6 +2,7 @@
 layout: term
 title: bangırdamak
 slug: bangirdamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Öfkelenerek yüksek sesle bağırıp çağırmak, bangır bangır bağırmak

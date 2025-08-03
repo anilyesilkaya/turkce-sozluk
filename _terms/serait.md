@@ -2,6 +2,7 @@
 layout: term
 title: şerait
 slug: serait
+letter: Ş
 lisan: Arapça şerāʾiṭ
 anlamlar:
 - Şartlar

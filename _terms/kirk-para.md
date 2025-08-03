@@ -2,6 +2,7 @@
 layout: term
 title: kırk para
 slug: kirk-para
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir kuruş; kırklık

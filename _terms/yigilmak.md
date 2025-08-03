@@ -2,6 +2,7 @@
 layout: term
 title: yığılmak
 slug: yigilmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yığma işine konu olmak veya yığma işi yapılmak

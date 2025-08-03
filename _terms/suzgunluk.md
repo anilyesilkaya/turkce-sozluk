@@ -2,6 +2,7 @@
 layout: term
 title: süzgünlük
 slug: suzgunluk
+letter: S
 lisan: Türkçe
 anlamlar:
 - Süzgün olma durumu

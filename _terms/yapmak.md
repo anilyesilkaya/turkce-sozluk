@@ -2,6 +2,7 @@
 layout: term
 title: yapmak
 slug: yapmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Ortaya koymak, gerçekleştirmek, oluşturmak, meydana getirmek

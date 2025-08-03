@@ -2,6 +2,7 @@
 layout: term
 title: büyülteç
 slug: buyultec
+letter: B
 lisan: Türkçe
 anlamlar:
 - Fotoğraf ve resim büyültmeye, büyültüp basmaya yarayan aygıt; agrandisör

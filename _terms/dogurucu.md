@@ -2,6 +2,7 @@
 layout: term
 title: doğurucu
 slug: dogurucu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Yeni düşünceleri ortaya koyan (kimse); üretken

@@ -2,6 +2,7 @@
 layout: term
 title: çarşı
 slug: carsi
+letter: Ç
 lisan: Farsça çār + sū
 anlamlar:
 - Dükkânların bulunduğu alışveriş yeri

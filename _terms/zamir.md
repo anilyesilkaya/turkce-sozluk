@@ -2,6 +2,7 @@
 layout: term
 title: zamir
 slug: zamir
+letter: Z
 lisan: Arapça żamīr
 anlamlar:
 - ► içyüz

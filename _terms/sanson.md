@@ -2,6 +2,7 @@
 layout: term
 title: şanson
 slug: sanson
+letter: Ş
 lisan: Fransızca chanson
 anlamlar:
 - Kıta adı verilen ve şarkı gibi söylenen mısra dizisi

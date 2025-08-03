@@ -2,6 +2,7 @@
 layout: term
 title: açık düşmek
 slug: acik-dusmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Herhangi bir sebeple bir filodan veya istenilen yerden uzakta kalmak

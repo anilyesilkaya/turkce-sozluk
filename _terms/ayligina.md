@@ -2,6 +2,7 @@
 layout: term
 title: aylığına
 slug: ayligina
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir ay için

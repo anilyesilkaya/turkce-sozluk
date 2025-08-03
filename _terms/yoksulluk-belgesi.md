@@ -2,6 +2,7 @@
 layout: term
 title: yoksulluk belgesi
 slug: yoksulluk-belgesi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Devletin sağladığı nakdî ve ayni yardımlardan yararlanmak üzere mahalle muhtarları tarafından düzenlenen ve muhtaç olanlara verilen belge

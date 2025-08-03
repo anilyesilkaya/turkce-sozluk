@@ -2,6 +2,7 @@
 layout: term
 title: şemseli
 slug: semseli
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şemsesi olan

@@ -2,6 +2,7 @@
 layout: term
 title: netameli
 slug: netameli
+letter: N
 lisan: Türkçe
 anlamlar:
 - Gizli bir tehlikesi olduğu sanılan, tekin olmayan

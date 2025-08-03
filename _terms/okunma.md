@@ -2,6 +2,7 @@
 layout: term
 title: okunma
 slug: okunma
+letter: O
 lisan: Türkçe
 anlamlar:
 - Okunmak işi

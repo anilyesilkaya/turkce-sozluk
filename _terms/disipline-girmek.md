@@ -2,6 +2,7 @@
 layout: term
 title: disipline girmek
 slug: disipline-girmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - disiplinli bir biçimde yaşamaya başlamak

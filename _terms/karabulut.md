@@ -2,6 +2,7 @@
 layout: term
 title: karabulut
 slug: karabulut
+letter: K
 lisan: Türkçe
 anlamlar:
 - Büyük sıkıntı

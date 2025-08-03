@@ -2,6 +2,7 @@
 layout: term
 title: içerlemek
 slug: icerlemek
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► gücenmek

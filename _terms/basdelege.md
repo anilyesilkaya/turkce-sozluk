@@ -2,6 +2,7 @@
 layout: term
 title: başdelege
 slug: basdelege
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilimsel veya diplomatik bir etkinlikte katılımcı gruba başkanlık eden kimse

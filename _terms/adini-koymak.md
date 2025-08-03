@@ -2,6 +2,7 @@
 layout: term
 title: adını koymak
 slug: adini-koymak
+letter: A
 lisan: Türkçe
 anlamlar:
 - karşılığını veya fiyatını kararlaştırmak

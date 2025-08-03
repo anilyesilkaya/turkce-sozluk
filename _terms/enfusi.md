@@ -2,6 +2,7 @@
 layout: term
 title: enfüsi
 slug: enfusi
+letter: E
 lisan: Arapça enfusī
 anlamlar:
 - ► öznel

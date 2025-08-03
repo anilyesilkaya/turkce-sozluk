@@ -2,6 +2,7 @@
 layout: term
 title: hâkimiyet
 slug: hakimiyet
+letter: H
 lisan: Arapça ḥākimiyyet
 anlamlar:
 - ► egemenlik

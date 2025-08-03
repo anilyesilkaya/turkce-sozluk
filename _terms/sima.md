@@ -2,6 +2,7 @@
 layout: term
 title: sima
 slug: sima
+letter: S
 lisan: Farsça sīmā
 anlamlar:
 - ► yüz (II)

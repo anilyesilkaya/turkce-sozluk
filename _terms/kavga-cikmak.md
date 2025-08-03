@@ -2,6 +2,7 @@
 layout: term
 title: kavga çıkmak
 slug: kavga-cikmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - dövüş meydana gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: köklü
 slug: koklu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kökü olan

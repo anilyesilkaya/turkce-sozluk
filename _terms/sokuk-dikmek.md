@@ -2,6 +2,7 @@
 layout: term
 title: sökük dikmek
 slug: sokuk-dikmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - sökülmüş olan bir şeyi onarmak

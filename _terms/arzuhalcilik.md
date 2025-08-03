@@ -2,6 +2,7 @@
 layout: term
 title: arzuhâlcilik
 slug: arzuhalcilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arzuhâlcinin yaptığı iş

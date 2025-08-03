@@ -2,6 +2,7 @@
 layout: term
 title: üç
 slug: uc
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - İkiden sonra gelen sayının adı; se (II)

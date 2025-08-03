@@ -2,6 +2,7 @@
 layout: term
 title: bereli
 slug: bereli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beresi olan

@@ -2,6 +2,7 @@
 layout: term
 title: hamlacı
 slug: hamlaci
+letter: H
 lisan: Türkçe
 anlamlar:
 - Büyük sandal ve kayıklarda kıçtan birinci oturakta kürek çeken kimse

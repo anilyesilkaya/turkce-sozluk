@@ -2,6 +2,7 @@
 layout: term
 title: niteleme sıfatı
 slug: niteleme-sifati
+letter: N
 lisan: Türkçe
 anlamlar:
 - Bir adı durum, biçim, renk vb. bakımlardan niteleyen sıfat

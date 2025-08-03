@@ -2,6 +2,7 @@
 layout: term
 title: sarartma
 slug: sarartma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sarartmak işi

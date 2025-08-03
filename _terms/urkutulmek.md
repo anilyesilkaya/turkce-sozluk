@@ -2,6 +2,7 @@
 layout: term
 title: ürkütülmek
 slug: urkutulmek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Ürkütme işi yapılmak

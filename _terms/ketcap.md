@@ -2,6 +2,7 @@
 layout: term
 title: ketçap
 slug: ketcap
+letter: K
 lisan: İngilizce ketchup
 anlamlar:
 - Temel maddesi baharat katılmış domates olan İngiliz sosu

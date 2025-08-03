@@ -2,6 +2,7 @@
 layout: term
 title: doyunmak
 slug: doyunmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► doymak

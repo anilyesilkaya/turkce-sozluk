@@ -2,6 +2,7 @@
 layout: term
 title: sıkı tutmak
 slug: siki-tutmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - önem vermek

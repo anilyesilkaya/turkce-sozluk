@@ -2,6 +2,7 @@
 layout: term
 title: imza kartonu
 slug: imza-kartonu
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► karton

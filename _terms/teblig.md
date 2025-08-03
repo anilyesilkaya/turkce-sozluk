@@ -2,6 +2,7 @@
 layout: term
 title: tebliğ
 slug: teblig
+letter: T
 lisan: Arapça teblīġ
 anlamlar:
 - ► bildirme

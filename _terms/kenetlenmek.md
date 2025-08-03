@@ -2,6 +2,7 @@
 layout: term
 title: kenetlenmek
 slug: kenetlenmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kenetleme işine konu olmak

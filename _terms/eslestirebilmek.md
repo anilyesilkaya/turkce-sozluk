@@ -2,6 +2,7 @@
 layout: term
 title: eşleştirebilmek
 slug: eslestirebilmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eşleştirme ihtimali veya imkânı bulunmak

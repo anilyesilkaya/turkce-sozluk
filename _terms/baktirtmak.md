@@ -2,6 +2,7 @@
 layout: term
 title: baktırtmak
 slug: baktirtmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Baktırma işini yaptırmak

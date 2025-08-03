@@ -2,6 +2,7 @@
 layout: term
 title: uydurmacı
 slug: uydurmaci
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uydurma işini yapan

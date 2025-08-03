@@ -2,6 +2,7 @@
 layout: term
 title: serpelemek
 slug: serpelemek
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► sepelemek

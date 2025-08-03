@@ -2,6 +2,7 @@
 layout: term
 title: baret
 slug: baret
+letter: B
 lisan: Fransızca barrette
 anlamlar:
 - İşçilerin başlarına giydikleri, metal veya plastikten yapılmış koruyucu başlık

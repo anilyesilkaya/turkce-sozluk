@@ -2,6 +2,7 @@
 layout: term
 title: obsesiflik
 slug: obsesiflik
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► takıntılılık

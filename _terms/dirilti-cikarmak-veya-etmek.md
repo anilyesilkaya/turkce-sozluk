@@ -2,6 +2,7 @@
 layout: term
 title: dırıltı çıkarmak (veya etmek)
 slug: dirilti-cikarmak-veya-etmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - çekişmeye yol açmak

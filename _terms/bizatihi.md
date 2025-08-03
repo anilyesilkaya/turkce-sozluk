@@ -2,6 +2,7 @@
 layout: term
 title: bizatihi
 slug: bizatihi
+letter: B
 lisan: Arapça biẕātihi
 anlamlar:
 - ► kendiliğinden

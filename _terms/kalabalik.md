@@ -2,6 +2,7 @@
 layout: term
 title: kalabalık
 slug: kalabalik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çok sayıda insanın bir araya gelmesiyle oluşan insan topluluğu; kalaba, yoğunluk

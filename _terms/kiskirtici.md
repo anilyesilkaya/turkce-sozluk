@@ -2,6 +2,7 @@
 layout: term
 title: kışkırtıcı
 slug: kiskirtici
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kışkırtma işini yapan; kışkırtmacı, muharrik, tahrikçi, ajitatör, provokatör

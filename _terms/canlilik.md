@@ -2,6 +2,7 @@
 layout: term
 title: canlılık
 slug: canlilik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Canlı olma durumu; fer

@@ -2,6 +2,7 @@
 layout: term
 title: alçaltılış
 slug: alcaltilis
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alçaltılmak işi

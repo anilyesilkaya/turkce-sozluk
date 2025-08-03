@@ -2,6 +2,7 @@
 layout: term
 title: yermerkezci
 slug: yermerkezci
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yerin gözlem noktası olarak alınan merkeziyle ilgili; yer merkezli, yer özekçil, jeosantrik

@@ -2,6 +2,7 @@
 layout: term
 title: kondisyon
 slug: kondisyon
+letter: K
 lisan: Fransızca condition
 anlamlar:
 - Kişinin fiziksel olarak kuvvet durumu

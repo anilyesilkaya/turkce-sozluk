@@ -2,6 +2,7 @@
 layout: term
 title: perdesiz
 slug: perdesiz
+letter: P
 lisan: Türkçe
 anlamlar:
 - Perdesi olmayan

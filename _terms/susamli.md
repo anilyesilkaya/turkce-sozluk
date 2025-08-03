@@ -2,6 +2,7 @@
 layout: term
 title: susamlı
 slug: susamli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Susamı olan

@@ -2,6 +2,7 @@
 layout: term
 title: sakınca
 slug: sakinca
+letter: S
 lisan: Türkçe
 anlamlar:
 - Çekinilmesi, dikkatli olunması gereken, sakınmayı gerektiren durum; beis, mahzur

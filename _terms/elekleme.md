@@ -2,6 +2,7 @@
 layout: term
 title: elekleme
 slug: elekleme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eleklemek işi

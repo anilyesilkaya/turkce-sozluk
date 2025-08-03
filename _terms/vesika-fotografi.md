@@ -2,6 +2,7 @@
 layout: term
 title: vesika fotoğrafı
 slug: vesika-fotografi
+letter: V
 lisan: Türkçe
 anlamlar:
 - ► vesikalık fotoğraf

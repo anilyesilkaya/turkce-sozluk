@@ -2,6 +2,7 @@
 layout: term
 title: öğle arası
 slug: ogle-arasi
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► öğle tatili

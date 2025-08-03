@@ -2,6 +2,7 @@
 layout: term
 title: kaprisli
 slug: kaprisli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaprisi olan

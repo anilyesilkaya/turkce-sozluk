@@ -2,6 +2,7 @@
 layout: term
 title: bismillah demek
 slug: bismillah-demek
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir işe uğurlu olması dileği ile başlamak

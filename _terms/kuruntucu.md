@@ -2,6 +2,7 @@
 layout: term
 title: kuruntucu
 slug: kuruntucu
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kuruntulu

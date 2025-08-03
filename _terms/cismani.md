@@ -2,6 +2,7 @@
 layout: term
 title: cismani
 slug: cismani
+letter: C
 lisan: Arapça cismānī
 anlamlar:
 - Cisimle, bedenle ilgili

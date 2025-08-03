@@ -2,6 +2,7 @@
 layout: term
 title: harhara kopmak
 slug: harhara-kopmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - gürültü, horultu duyulmak

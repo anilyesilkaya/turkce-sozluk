@@ -2,6 +2,7 @@
 layout: term
 title: nazikçe
 slug: nazikce
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nazik, ince, saygılı

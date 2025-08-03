@@ -2,6 +2,7 @@
 layout: term
 title: bahar dalı
 slug: bahar-dali
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bahar mevsiminde çiçeklenmiş dal

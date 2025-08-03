@@ -2,6 +2,7 @@
 layout: term
 title: manevi evlat
 slug: manevi-evlat
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► evlatlık

@@ -2,6 +2,7 @@
 layout: term
 title: asırlık
 slug: asirlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► yüzyıllık

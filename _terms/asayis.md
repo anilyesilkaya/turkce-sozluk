@@ -2,6 +2,7 @@
 layout: term
 title: asayiş
 slug: asayis
+letter: A
 lisan: Farsça āsāyiş
 anlamlar:
 - Bir yerin düzen ve güvenlik içinde bulunması durumu

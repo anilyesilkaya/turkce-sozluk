@@ -2,6 +2,7 @@
 layout: term
 title: ikrahlık
 slug: ikrahlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► tiksinti

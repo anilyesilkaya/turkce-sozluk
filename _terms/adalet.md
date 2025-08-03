@@ -2,6 +2,7 @@
 layout: term
 title: adalet
 slug: adalet
+letter: A
 lisan: Arapça ʿadālet
 anlamlar:
 - Hak ve hukuka uygunluk, hakkı gözetme

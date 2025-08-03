@@ -2,6 +2,7 @@
 layout: term
 title: işbu
 slug: isbu
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bu, özellikle bu

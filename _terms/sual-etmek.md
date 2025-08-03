@@ -2,6 +2,7 @@
 layout: term
 title: sual etmek
 slug: sual-etmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - sormak

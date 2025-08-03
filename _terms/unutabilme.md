@@ -2,6 +2,7 @@
 layout: term
 title: unutabilme
 slug: unutabilme
+letter: U
 lisan: Türkçe
 anlamlar:
 - Unutabilmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: çökmek
 slug: cokmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bulunduğu düzeyden aşağı inmek; çukurlaşmak, batmak, obrumak

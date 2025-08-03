@@ -2,6 +2,7 @@
 layout: term
 title: kuyruğu kıstırmak
 slug: kuyrugu-kistirmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - içinden çıkılamaz bir duruma düşmek

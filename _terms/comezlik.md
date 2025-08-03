@@ -2,6 +2,7 @@
 layout: term
 title: çömezlik
 slug: comezlik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çömez olma durumu

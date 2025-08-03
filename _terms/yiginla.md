@@ -2,6 +2,7 @@
 layout: term
 title: yığınla
 slug: yiginla
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Çok, pek çok

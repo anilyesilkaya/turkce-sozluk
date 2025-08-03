@@ -2,6 +2,7 @@
 layout: term
 title: topbaş balık
 slug: topbas-balik
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► kefal

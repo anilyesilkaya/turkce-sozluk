@@ -2,6 +2,7 @@
 layout: term
 title: tabutluk
 slug: tabutluk
+letter: T
 lisan: Türkçe
 anlamlar:
 - Camide boş tabutların konulduğu yer

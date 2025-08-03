@@ -2,6 +2,7 @@
 layout: term
 title: bıcı bıcı yapmak
 slug: bici-bici-yapmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - yıkanmak

@@ -2,6 +2,7 @@
 layout: term
 title: bağnazlaşmak
 slug: bagnazlasmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağnaz duruma gelmek

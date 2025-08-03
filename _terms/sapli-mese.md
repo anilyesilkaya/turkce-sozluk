@@ -2,6 +2,7 @@
 layout: term
 title: saplı meşe
 slug: sapli-mese
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kayıngiller familyasından, ak meşeler grubuna giren, 15-20 metre uzayabilen, yurdumuzda yetişen bir tür meşe (Quercus robur)

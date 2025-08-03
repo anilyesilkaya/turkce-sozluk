@@ -2,6 +2,7 @@
 layout: term
 title: devetüyü
 slug: devetuyu
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► açık kahverengi

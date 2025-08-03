@@ -2,6 +2,7 @@
 layout: term
 title: kötü yola saptırmak
 slug: kotu-yola-saptirmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kötü yola sürüklemek

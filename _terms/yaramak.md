@@ -2,6 +2,7 @@
 layout: term
 title: yaramak
 slug: yaramak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir şey yararlı olmak, yarar sağlamak

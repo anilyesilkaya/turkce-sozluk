@@ -2,6 +2,7 @@
 layout: term
 title: ayırabilme
 slug: ayirabilme
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayırabilmek işi

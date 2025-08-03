@@ -2,6 +2,7 @@
 layout: term
 title: miçoluk etmek
 slug: micoluk-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - miço olarak çalışmak

@@ -2,6 +2,7 @@
 layout: term
 title: bezeme
 slug: bezeme
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► süsleme

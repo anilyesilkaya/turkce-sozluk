@@ -2,6 +2,7 @@
 layout: term
 title: baskın vermek
 slug: baskin-vermek
+letter: B
 lisan: Türkçe
 anlamlar:
 - ani ve habersiz girmek

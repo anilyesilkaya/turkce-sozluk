@@ -2,6 +2,7 @@
 layout: term
 title: kekremsilik
 slug: kekremsilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kekremsi olma durumu

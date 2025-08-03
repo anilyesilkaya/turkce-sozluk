@@ -2,6 +2,7 @@
 layout: term
 title: pratik zekâ
 slug: pratik-zeka
+letter: P
 lisan: Türkçe
 anlamlar:
 - Öğrenilenden yararlanabilme, yeni durumlara uyum sağlayabilme ve herhangi bir sorun karşısında anlık ve hızlı bir biçimde çözüm yolu bulabilme becerilerini içeren zekâ

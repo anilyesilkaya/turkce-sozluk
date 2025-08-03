@@ -2,6 +2,7 @@
 layout: term
 title: cezasız
 slug: cezasiz
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cezaya çarptırılmamış, cezalandırılmamış

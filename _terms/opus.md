@@ -2,6 +2,7 @@
 layout: term
 title: öpüş
 slug: opus
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öpmek işi

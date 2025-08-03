@@ -2,6 +2,7 @@
 layout: term
 title: iğnelemek
 slug: ignelemek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İğne ile tutturmak

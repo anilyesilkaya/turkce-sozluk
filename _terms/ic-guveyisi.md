@@ -2,6 +2,7 @@
 layout: term
 title: iç güveyisi
 slug: ic-guveyisi
+letter: I
 lisan: Türkçe
 anlamlar:
 - Eşinin ailesinin evinde oturan damat; iç güveyi

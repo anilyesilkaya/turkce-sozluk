@@ -2,6 +2,7 @@
 layout: term
 title: uyarlanma
 slug: uyarlanma
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyarlanmak işi

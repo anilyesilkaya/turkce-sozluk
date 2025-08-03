@@ -2,6 +2,7 @@
 layout: term
 title: savunabilmek
 slug: savunabilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Savunma ihtimali veya imkânı bulunmak

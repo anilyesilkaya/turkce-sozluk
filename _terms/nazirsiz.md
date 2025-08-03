@@ -2,6 +2,7 @@
 layout: term
 title: nazirsiz
 slug: nazirsiz
+letter: N
 lisan: Türkçe
 anlamlar:
 - Benzersiz, eşsiz

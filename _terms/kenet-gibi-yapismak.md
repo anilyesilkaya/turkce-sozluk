@@ -2,6 +2,7 @@
 layout: term
 title: kenet gibi yapışmak
 slug: kenet-gibi-yapismak
+letter: K
 lisan: Türkçe
 anlamlar:
 - çok yakın dost olmak, sıkı fıkı olmak

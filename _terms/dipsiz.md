@@ -2,6 +2,7 @@
 layout: term
 title: dipsiz
 slug: dipsiz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dibi olmayan

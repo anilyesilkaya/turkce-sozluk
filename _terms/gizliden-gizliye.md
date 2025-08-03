@@ -2,6 +2,7 @@
 layout: term
 title: gizliden gizliye
 slug: gizliden-gizliye
+letter: G
 lisan: Türkçe
 anlamlar:
 - Kimsenin haberi olmadan, kimseye haber vermeden, el altından, kimseye duyurmadan, gizli bir biçimde

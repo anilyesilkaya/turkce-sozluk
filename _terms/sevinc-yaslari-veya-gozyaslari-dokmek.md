@@ -2,6 +2,7 @@
 layout: term
 title: sevinç yaşları (veya gözyaşları) dökmek
 slug: sevinc-yaslari-veya-gozyaslari-dokmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - sevinçten ağlamak

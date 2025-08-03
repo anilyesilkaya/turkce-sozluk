@@ -2,6 +2,7 @@
 layout: term
 title: arı sili
 slug: ari-sili
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► tertemiz

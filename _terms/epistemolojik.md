@@ -2,6 +2,7 @@
 layout: term
 title: epistemolojik
 slug: epistemolojik
+letter: E
 lisan: Fransızca épistémologique
 anlamlar:
 - Bilgi kuramı ile ilgili

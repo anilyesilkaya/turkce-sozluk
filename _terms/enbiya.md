@@ -2,6 +2,7 @@
 layout: term
 title: enbiya
 slug: enbiya
+letter: E
 lisan: Arapça enbiyā
 anlamlar:
 - Nebiler

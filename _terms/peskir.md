@@ -2,6 +2,7 @@
 layout: term
 title: peşkir
 slug: peskir
+letter: P
 lisan: Farsça pīşgīr
 anlamlar:
 - Genellikle pamuk ipliğinden dokunmuş ince havlu

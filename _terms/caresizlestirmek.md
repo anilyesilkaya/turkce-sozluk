@@ -2,6 +2,7 @@
 layout: term
 title: çaresizleştirmek
 slug: caresizlestirmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çaresiz hâlde bırakmak; umarsızlaştırmak

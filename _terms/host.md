@@ -2,6 +2,7 @@
 layout: term
 title: host
 slug: host
+letter: H
 lisan: İngilizce host
 anlamlar:
 - Taşıtlarda, özellikle uçaklarda yolcu ağırlayan erkek

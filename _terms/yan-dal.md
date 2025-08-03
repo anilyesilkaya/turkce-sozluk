@@ -2,6 +2,7 @@
 layout: term
 title: yan dal
 slug: yan-dal
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Temel alanı destekleyen veya oluşturan ikinci derecede alanlardan her biri

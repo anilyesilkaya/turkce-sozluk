@@ -2,6 +2,7 @@
 layout: term
 title: kafa (veya kafayı veya kafasını) dinlemek
 slug: kafa-veya-kafayi-veya-kafasini-dinlemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - zihni yoran sorunlardan uzak kalmak

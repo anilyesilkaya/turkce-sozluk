@@ -2,6 +2,7 @@
 layout: term
 title: faili meçhul
 slug: faili-mechul
+letter: F
 lisan: Türkçe
 anlamlar:
 - Kimin yaptığı belli olmayan veya bilinmeyen

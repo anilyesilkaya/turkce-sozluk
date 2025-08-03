@@ -2,6 +2,7 @@
 layout: term
 title: bağıra çağıra
 slug: bagira-cagira
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağırarak

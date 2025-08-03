@@ -2,6 +2,7 @@
 layout: term
 title: kadersiz
 slug: kadersiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kötü talihi olan

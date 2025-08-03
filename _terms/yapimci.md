@@ -2,6 +2,7 @@
 layout: term
 title: yapımcı
 slug: yapimci
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir şeyin yapılmasında, ortaya konulmasında, gerçekleştirilmesinde emeği geçen kimse veya kuruluş

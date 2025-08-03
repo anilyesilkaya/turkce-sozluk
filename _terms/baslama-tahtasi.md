@@ -2,6 +2,7 @@
 layout: term
 title: başlama tahtası
 slug: baslama-tahtasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Yeni öğrenenlerin kullandığı özel bir tür sörf tahtası

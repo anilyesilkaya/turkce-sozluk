@@ -2,6 +2,7 @@
 layout: term
 title: diyez
 slug: diyez
+letter: D
 lisan: Fransızca dièse
 anlamlar:
 - Bir sesin yarım ton inceltileceğini gösteren nota işareti

@@ -2,6 +2,7 @@
 layout: term
 title: matrak geçmek
 slug: matrak-gecmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - alay etmek, eğlenmek

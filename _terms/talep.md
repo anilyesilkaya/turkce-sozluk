@@ -2,6 +2,7 @@
 layout: term
 title: talep
 slug: talep
+letter: T
 lisan: Arapça ṭaleb
 anlamlar:
 - Bir kimseden bir şeyi yapmasını veya yapmamasını isteme

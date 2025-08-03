@@ -2,6 +2,7 @@
 layout: term
 title: yönelim
 slug: yonelim
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yönelmek işi

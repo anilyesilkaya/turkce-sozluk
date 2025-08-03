@@ -2,6 +2,7 @@
 layout: term
 title: bam teli
 slug: bam-teli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bazı sazlarda kalın ses veren tel veya kiriş

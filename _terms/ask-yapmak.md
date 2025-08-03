@@ -2,6 +2,7 @@
 layout: term
 title: aşk yapmak
 slug: ask-yapmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - sevişmek

@@ -2,6 +2,7 @@
 layout: term
 title: polis karakolu
 slug: polis-karakolu
+letter: P
 lisan: Türkçe
 anlamlar:
 - Güvenliği sağlamakla görevli polislerin görev yaptığı bina; merkez

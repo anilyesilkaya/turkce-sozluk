@@ -2,6 +2,7 @@
 layout: term
 title: rota değiştirmek
 slug: rota-degistirmek
+letter: R
 lisan: Türkçe
 anlamlar:
 - gidilen yolu değiştirmek

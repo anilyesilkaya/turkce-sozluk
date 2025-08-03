@@ -2,6 +2,7 @@
 layout: term
 title: nevazil
 slug: nevazil
+letter: N
 lisan: Arapça nevāzil
 anlamlar:
 - ► nezle

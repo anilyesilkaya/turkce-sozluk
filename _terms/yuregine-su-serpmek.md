@@ -2,6 +2,7 @@
 layout: term
 title: yüreğine su serpmek
 slug: yuregine-su-serpmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - bir kimseyi kaygı sebebinin ortadan kalkmasıyla veya yeniden umut verecek bir haberle ferahlatmak

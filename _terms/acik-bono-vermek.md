@@ -2,6 +2,7 @@
 layout: term
 title: açık bono vermek
 slug: acik-bono-vermek
+letter: A
 lisan: Türkçe
 anlamlar:
 - sınırsız yetki tanımak

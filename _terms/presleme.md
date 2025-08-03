@@ -2,6 +2,7 @@
 layout: term
 title: presleme
 slug: presleme
+letter: P
 lisan: Türkçe
 anlamlar:
 - Presle sıkıştırma

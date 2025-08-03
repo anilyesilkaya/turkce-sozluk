@@ -2,6 +2,7 @@
 layout: term
 title: paso
 slug: paso
+letter: P
 lisan: İtalyanca passo
 anlamlar:
 - Bir kimsenin, herhangi bir ücretin bütününden veya bir bölümünden muaf tutulduğunu gösteren belge

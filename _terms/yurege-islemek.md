@@ -2,6 +2,7 @@
 layout: term
 title: yüreğe işlemek
 slug: yurege-islemek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - çok derin acı uyandırmak

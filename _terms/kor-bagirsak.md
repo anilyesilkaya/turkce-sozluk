@@ -2,6 +2,7 @@
 layout: term
 title: kör bağırsak
 slug: kor-bagirsak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalın bağırsağın ilk parçası

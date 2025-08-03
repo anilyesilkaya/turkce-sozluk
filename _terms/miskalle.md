@@ -2,6 +2,7 @@
 layout: term
 title: miskalle
 slug: miskalle
+letter: M
 lisan: Türkçe
 anlamlar:
 - Çok az ölçüde, çok az miktarda

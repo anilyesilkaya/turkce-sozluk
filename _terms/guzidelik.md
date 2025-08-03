@@ -2,6 +2,7 @@
 layout: term
 title: güzidelik
 slug: guzidelik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güzide olma durumu

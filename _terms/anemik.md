@@ -2,6 +2,7 @@
 layout: term
 title: anemik
 slug: anemik
+letter: A
 lisan: Fransızca anémique
 anlamlar:
 - ► kansız

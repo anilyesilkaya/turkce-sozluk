@@ -2,6 +2,7 @@
 layout: term
 title: beyhude yere
 slug: beyhude-yere
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► boşuna

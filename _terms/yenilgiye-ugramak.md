@@ -2,6 +2,7 @@
 layout: term
 title: yenilgiye uğramak
 slug: yenilgiye-ugramak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yenilmek, mağlup olmak

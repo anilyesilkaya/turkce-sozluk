@@ -2,6 +2,7 @@
 layout: term
 title: pardösülü
 slug: pardosulu
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pardösüsü olan

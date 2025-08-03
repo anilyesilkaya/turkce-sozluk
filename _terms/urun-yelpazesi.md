@@ -2,6 +2,7 @@
 layout: term
 title: ürün yelpazesi
 slug: urun-yelpazesi
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üretilen maddelerin, değişik ve yaygın çok çeşitlilik durumu

@@ -2,6 +2,7 @@
 layout: term
 title: yanlış yunluş
 slug: yanlis-yunlus
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yanlış bir biçimde

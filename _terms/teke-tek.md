@@ -2,6 +2,7 @@
 layout: term
 title: teke tek
 slug: teke-tek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bire karşı bir; yeke yek

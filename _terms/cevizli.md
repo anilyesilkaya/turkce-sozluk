@@ -2,6 +2,7 @@
 layout: term
 title: cevizli
 slug: cevizli
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cevizi olan, ceviz katılmış

@@ -2,6 +2,7 @@
 layout: term
 title: çuvallamak
 slug: cuvallamak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çuvala doldurmak

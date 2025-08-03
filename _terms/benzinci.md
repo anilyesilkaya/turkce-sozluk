@@ -2,6 +2,7 @@
 layout: term
 title: benzinci
 slug: benzinci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Akaryakıt satılan yer

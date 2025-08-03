@@ -2,6 +2,7 @@
 layout: term
 title: arkasız
 slug: arkasiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arkası olmayan

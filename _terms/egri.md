@@ -2,6 +2,7 @@
 layout: term
 title: eğri
 slug: egri
+letter: E
 lisan: Türkçe
 anlamlar:
 - Doğru veya düz olmayan, düzgünlüğünü yitirerek eğrilmiş, çarpık olan; münhani, doğru karşıtı

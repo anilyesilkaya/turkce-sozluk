@@ -2,6 +2,7 @@
 layout: term
 title: robotik kodlama
 slug: robotik-kodlama
+letter: R
 lisan: Türkçe
 anlamlar:
 - Programlanabilir elektromekanik cihazların yapmaları gereken görevlere yönelik olarak bir derleyici aracılığıyla ve belirli kurallar çerçevesinde yazılı talimatlar hazırlama işlemi

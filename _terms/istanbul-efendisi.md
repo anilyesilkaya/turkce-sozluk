@@ -2,6 +2,7 @@
 layout: term
 title: İstanbul efendisi
 slug: istanbul-efendisi
+letter: İ
 lisan: Türkçe
 anlamlar:
 - Genellikle İstanbul'da oturan kibar, saygılı, alçak gönüllü, olgun, çelebi ve yardımsever kimse

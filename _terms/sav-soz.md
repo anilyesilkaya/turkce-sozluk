@@ -2,6 +2,7 @@
 layout: term
 title: sav söz
 slug: sav-soz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Deyiş olarak kullanılan sav

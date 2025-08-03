@@ -2,6 +2,7 @@
 layout: term
 title: okkalı kahve
 slug: okkali-kahve
+letter: O
 lisan: Türkçe
 anlamlar:
 - Bol kahve ile yapılmış ve büyük fincana konulmuş kahve

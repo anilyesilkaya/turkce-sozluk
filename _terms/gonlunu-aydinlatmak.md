@@ -2,6 +2,7 @@
 layout: term
 title: gönlünü aydınlatmak
 slug: gonlunu-aydinlatmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - içine ferahlık vermek, mutlu etmek

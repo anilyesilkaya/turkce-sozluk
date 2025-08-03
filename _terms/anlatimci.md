@@ -2,6 +2,7 @@
 layout: term
 title: anlatımcı
 slug: anlatimci
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► anlatıcı yazar

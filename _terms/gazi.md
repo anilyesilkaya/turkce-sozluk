@@ -2,6 +2,7 @@
 layout: term
 title: gazi
 slug: gazi
+letter: G
 lisan: Arapça ġāzī
 anlamlar:
 - Savaştan sağ olarak dönen kimse

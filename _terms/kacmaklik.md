@@ -2,6 +2,7 @@
 layout: term
 title: kaçmaklık
 slug: kacmaklik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaçma durumu

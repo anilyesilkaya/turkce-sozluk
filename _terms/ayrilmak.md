@@ -2,6 +2,7 @@
 layout: term
 title: ayrılmak
 slug: ayrilmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayırma işine konu olmak

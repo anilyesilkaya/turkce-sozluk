@@ -2,6 +2,7 @@
 layout: term
 title: tütün balığı
 slug: tutun-baligi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tütsü ile kurutulmuş balık

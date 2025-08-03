@@ -2,6 +2,7 @@
 layout: term
 title: cezire
 slug: cezire
+letter: C
 lisan: Arapça cezīre
 anlamlar:
 - ► ada

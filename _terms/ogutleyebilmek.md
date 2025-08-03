@@ -2,6 +2,7 @@
 layout: term
 title: öğütleyebilmek
 slug: ogutleyebilmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öğütleme ihtimali veya imkânı bulunmak

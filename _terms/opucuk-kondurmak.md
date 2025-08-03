@@ -2,6 +2,7 @@
 layout: term
 title: öpücük kondurmak
 slug: opucuk-kondurmak
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - hafifçe öpmek

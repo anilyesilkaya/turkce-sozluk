@@ -2,6 +2,7 @@
 layout: term
 title: alay etmek
 slug: alay-etmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - ses tonu, söz veya mimiklerle bir kimsenin, bir şeyin, bir durumun, gülünç, kusurlu, eksik vb. yönlerini küçümseyerek eğlence konusu yapmak, onu aşağılamak veya gülünç duruma düşürmek

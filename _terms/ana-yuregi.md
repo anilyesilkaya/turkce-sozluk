@@ -2,6 +2,7 @@
 layout: term
 title: ana yüreği
 slug: ana-yuregi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Annelik duygusu, ana sevecenliği

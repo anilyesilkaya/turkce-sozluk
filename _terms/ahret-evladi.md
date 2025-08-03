@@ -2,6 +2,7 @@
 layout: term
 title: ahret evladı
 slug: ahret-evladi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kan bağı olmaksızın manevi olarak evlat kabul edilen kimse

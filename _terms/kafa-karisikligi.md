@@ -2,6 +2,7 @@
 layout: term
 title: 'kafa karışıklığı '
 slug: kafa-karisikligi
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► zihin karışıklığı

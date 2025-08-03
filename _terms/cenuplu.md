@@ -2,6 +2,7 @@
 layout: term
 title: Cenuplu
 slug: cenuplu
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► Güneyli

@@ -2,6 +2,7 @@
 layout: term
 title: şöhretli
 slug: sohretli
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► ünlü

@@ -2,6 +2,7 @@
 layout: term
 title: faraza
 slug: faraza
+letter: F
 lisan: Arapça farażā
 anlamlar:
 - Diyelim ki, sayalım ki, tutalım ki, varsayalım ki

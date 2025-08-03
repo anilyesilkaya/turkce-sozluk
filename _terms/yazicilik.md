@@ -2,6 +2,7 @@
 layout: term
 title: yazıcılık
 slug: yazicilik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yazıcı olma durumu

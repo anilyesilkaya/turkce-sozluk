@@ -2,6 +2,7 @@
 layout: term
 title: patadak
 slug: patadak
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► ansızın

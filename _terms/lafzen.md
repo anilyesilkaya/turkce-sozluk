@@ -2,6 +2,7 @@
 layout: term
 title: lafzen
 slug: lafzen
+letter: L
 lisan: Arapça lafẓen
 anlamlar:
 - Sözün gelişine, söylenişine, yapısına göre, yazılı olmayarak

@@ -2,6 +2,7 @@
 layout: term
 title: kira
 slug: kira
+letter: K
 lisan: Arapça kirāʾ
 anlamlar:
 - Bir konutun, bir mülkün veya taşıt gibi herhangi bir şeyin belli bir bedel karşılığında, bir süre için sahibi tarafından başkasına verilmesi; icar

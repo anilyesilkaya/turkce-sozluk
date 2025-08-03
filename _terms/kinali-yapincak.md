@@ -2,6 +2,7 @@
 layout: term
 title: kınalı yapıncak
 slug: kinali-yapincak
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► yapıncak (II)

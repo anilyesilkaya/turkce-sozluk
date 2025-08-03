@@ -2,6 +2,7 @@
 layout: term
 title: kavanoz
 slug: kavanoz
+letter: K
 lisan: Rumca
 anlamlar:
 - Plastik, cam vb. maddelerden yapılmış ağzı geniş, çeşitli boylarda kap

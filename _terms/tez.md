@@ -2,6 +2,7 @@
 layout: term
 title: tez
 slug: tez
+letter: T
 lisan: Fransızca thèse
 anlamlar:
 - Tanıtlanması gereken önerme; sav

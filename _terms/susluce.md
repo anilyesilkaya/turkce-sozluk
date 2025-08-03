@@ -2,6 +2,7 @@
 layout: term
 title: süslüce
 slug: susluce
+letter: S
 lisan: Türkçe
 anlamlar:
 - Süslüye yakın

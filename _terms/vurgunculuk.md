@@ -2,6 +2,7 @@
 layout: term
 title: vurgunculuk
 slug: vurgunculuk
+letter: V
 lisan: Türkçe
 anlamlar:
 - İleride meydana gelebilecek fiyat dalgalanmalarından yararlanarak haksız kazanç sağlama; ihtikâr, ihtikârcılık, spekülasyon, spekülatörlük

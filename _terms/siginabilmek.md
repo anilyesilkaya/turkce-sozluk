@@ -2,6 +2,7 @@
 layout: term
 title: sığınabilmek
 slug: siginabilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sığınma ihtimali veya imkânı bulunmak

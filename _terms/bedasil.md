@@ -2,6 +2,7 @@
 layout: term
 title: bedasıl
 slug: bedasil
+letter: B
 lisan: Farsça bed + Arapça aṣl
 anlamlar:
 - Soyu bozuk (kimse)

@@ -2,6 +2,7 @@
 layout: term
 title: vekillik
 slug: vekillik
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vekil olma durumu; vekâlet, asalet karşıtı

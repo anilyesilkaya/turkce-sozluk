@@ -2,6 +2,7 @@
 layout: term
 title: piç
 slug: pic
+letter: P
 lisan: Farsça pīç
 anlamlar:
 - Anası ile babası arasında evlilik bağı olmadan dünyaya gelen çocuk; gayrimeşru çocuk; haramzade, veledizina

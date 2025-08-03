@@ -2,6 +2,7 @@
 layout: term
 title: kanıt
 slug: kanit
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir şeyin doğruluğunu, gerçekliğini kanıtlamaya yarayan belge; burhan, ispat, argüman

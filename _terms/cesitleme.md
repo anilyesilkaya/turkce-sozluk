@@ -2,6 +2,7 @@
 layout: term
 title: çeşitleme
 slug: cesitleme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çeşitlemek işi

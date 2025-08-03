@@ -2,6 +2,7 @@
 layout: term
 title: yıkkınlık
 slug: yikkinlik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► haraplık

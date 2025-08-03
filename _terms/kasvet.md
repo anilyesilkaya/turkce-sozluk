@@ -2,6 +2,7 @@
 layout: term
 title: kasvet
 slug: kasvet
+letter: K
 lisan: Arapça ḳasvet
 anlamlar:
 - İç sıkıntısı

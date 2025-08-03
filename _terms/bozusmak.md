@@ -2,6 +2,7 @@
 layout: term
 title: bozuşmak
 slug: bozusmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Araları açılmak

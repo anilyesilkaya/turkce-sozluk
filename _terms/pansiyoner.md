@@ -2,6 +2,7 @@
 layout: term
 title: pansiyoner
 slug: pansiyoner
+letter: P
 lisan: Fransızca pensionnaire
 anlamlar:
 - Pansiyonda kalan kimse

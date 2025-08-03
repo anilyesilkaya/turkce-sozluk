@@ -2,6 +2,7 @@
 layout: term
 title: çirkeflik
 slug: cirkeflik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çirkef olma durumu

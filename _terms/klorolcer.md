@@ -2,6 +2,7 @@
 layout: term
 title: klorölçer
 slug: klorolcer
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir sıvının içindeki erimiş bulunan klor miktarını ölçmeye yarayan alet; klorometri

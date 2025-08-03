@@ -2,6 +2,7 @@
 layout: term
 title: küstere
 slug: kustere
+letter: K
 lisan: Farsça kuştere
 anlamlar:
 - ► köstere

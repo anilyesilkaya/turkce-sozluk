@@ -2,6 +2,7 @@
 layout: term
 title: Müslüman
 slug: musluman
+letter: M
 lisan: Arapça muslim + Farsça -ān
 anlamlar:
 - İslam dininden olan kimse; Muhammedî, Müslim, Müselman, mümin

@@ -2,6 +2,7 @@
 layout: term
 title: çığırtkanlık
 slug: cigirtkanlik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çığırtkanın yaptığı iş

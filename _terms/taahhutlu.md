@@ -2,6 +2,7 @@
 layout: term
 title: taahhütlü
 slug: taahhutlu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taahhüt edilmiş, üstlenilmiş olan

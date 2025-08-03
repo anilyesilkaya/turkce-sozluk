@@ -2,6 +2,7 @@
 layout: term
 title: büro
 slug: buro
+letter: B
 lisan: Fransızca bureau
 anlamlar:
 - İş yerlerinde bulunan çalışma odası; ofis

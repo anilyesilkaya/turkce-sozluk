@@ -2,6 +2,7 @@
 layout: term
 title: ekenek
 slug: ekenek
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► mezra

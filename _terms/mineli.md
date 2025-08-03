@@ -2,6 +2,7 @@
 layout: term
 title: mineli
 slug: mineli
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mine ile süslenmiş

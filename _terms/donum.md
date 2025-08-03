@@ -2,6 +2,7 @@
 layout: term
 title: dönüm
 slug: donum
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dönmek işi

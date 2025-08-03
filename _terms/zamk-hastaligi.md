@@ -2,6 +2,7 @@
 layout: term
 title: zamk hastalığı
 slug: zamk-hastaligi
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Ağacın veya bitkinin aşırı miktarda zamk salgılaması sonucu ortaya çıkan hastalık

@@ -2,6 +2,7 @@
 layout: term
 title: nadas etmek
 slug: nadas-etmek
+letter: N
 lisan: Türkçe
 anlamlar:
 - nadasa bırakmak

@@ -2,6 +2,7 @@
 layout: term
 title: limitsizlik
 slug: limitsizlik
+letter: L
 lisan: Türkçe
 anlamlar:
 - Limitsiz olma durumu

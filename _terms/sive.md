@@ -2,6 +2,7 @@
 layout: term
 title: şive
 slug: sive
+letter: Ş
 lisan: Farsça şīve
 anlamlar:
 - Söyleyiş özelliği

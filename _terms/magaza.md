@@ -2,6 +2,7 @@
 layout: term
 title: mağaza
 slug: magaza
+letter: M
 lisan: Fransızca magasin
 anlamlar:
 - Büyük dükkân

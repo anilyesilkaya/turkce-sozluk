@@ -2,6 +2,7 @@
 layout: term
 title: nispetle
 slug: nispetle
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► oranla

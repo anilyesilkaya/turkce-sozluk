@@ -2,6 +2,7 @@
 layout: term
 title: püskül kuyruklular
 slug: puskul-kuyruklular
+letter: P
 lisan: Türkçe
 anlamlar:
 - Vücutları iki, üç tüysü uzantıyla sonuçlanan, kanatsız, ince, yumuşak, en bilinen türü gümüşçün olan böcekler takımı

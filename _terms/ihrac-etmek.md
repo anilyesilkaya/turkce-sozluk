@@ -2,6 +2,7 @@
 layout: term
 title: ihraç etmek
 slug: ihrac-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - yurt dışına mal veya hizmet satmak

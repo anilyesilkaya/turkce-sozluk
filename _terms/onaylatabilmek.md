@@ -2,6 +2,7 @@
 layout: term
 title: onaylatabilmek
 slug: onaylatabilmek
+letter: O
 lisan: Türkçe
 anlamlar:
 - Onaylatma ihtimali veya imkânı bulunmak; tasdikletebilmek

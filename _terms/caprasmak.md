@@ -2,6 +2,7 @@
 layout: term
 title: çapraşmak
 slug: caprasmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Karışık, çapraşık, çözülmez duruma gelmek

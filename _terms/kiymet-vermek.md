@@ -2,6 +2,7 @@
 layout: term
 title: kıymet vermek
 slug: kiymet-vermek
+letter: K
 lisan: Türkçe
 anlamlar:
 - değerli olarak kabul etmek, değerlendirmek

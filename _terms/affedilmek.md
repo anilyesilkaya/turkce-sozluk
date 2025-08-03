@@ -2,6 +2,7 @@
 layout: term
 title: affedilmek
 slug: affedilmek
+letter: A
 lisan: Arapça ʿafv + Türkçe edilmek
 anlamlar:
 - ► bağışlanmak

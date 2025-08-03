@@ -2,6 +2,7 @@
 layout: term
 title: boş alan
 slug: bos-alan
+letter: B
 lisan: Türkçe
 anlamlar:
 - Herhangi bir yapılaşma, tarım vb.nin olmadığı alan

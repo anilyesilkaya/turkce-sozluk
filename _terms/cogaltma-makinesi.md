@@ -2,6 +2,7 @@
 layout: term
 title: çoğaltma makinesi
 slug: cogaltma-makinesi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► teksir makinesi

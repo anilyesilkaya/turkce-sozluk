@@ -2,6 +2,7 @@
 layout: term
 title: muztar kalmak
 slug: muztar-kalmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - bir şeyi yapmak zorunda kalmak

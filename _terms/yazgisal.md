@@ -2,6 +2,7 @@
 layout: term
 title: yazgısal
 slug: yazgisal
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Kadere, mukadderata ait

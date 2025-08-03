@@ -2,6 +2,7 @@
 layout: term
 title: ya Rabbi (veya Rab)
 slug: ya-rabbi-veya-rab
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Tanrı’m, Allah’ım

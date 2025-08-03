@@ -2,6 +2,7 @@
 layout: term
 title: tamtakır olmak
 slug: tamtakir-olmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - içinde gerekli hiçbir şey kalmamak

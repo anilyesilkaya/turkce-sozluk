@@ -2,6 +2,7 @@
 layout: term
 title: mavili
 slug: mavili
+letter: M
 lisan: Türkçe
 anlamlar:
 - Üzerinde mavi renk olan

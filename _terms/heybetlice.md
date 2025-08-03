@@ -2,6 +2,7 @@
 layout: term
 title: heybetlice
 slug: heybetlice
+letter: H
 lisan: Türkçe
 anlamlar:
 - Oldukça heybetli

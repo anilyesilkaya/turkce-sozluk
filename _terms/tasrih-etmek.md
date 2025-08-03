@@ -2,6 +2,7 @@
 layout: term
 title: tasrih etmek
 slug: tasrih-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - açıkça belirtmek

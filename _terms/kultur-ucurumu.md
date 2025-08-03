@@ -2,6 +2,7 @@
 layout: term
 title: kültür uçurumu
 slug: kultur-ucurumu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kültürler arasındaki büyük fark

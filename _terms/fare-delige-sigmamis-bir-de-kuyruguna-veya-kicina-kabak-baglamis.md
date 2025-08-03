@@ -2,6 +2,7 @@
 layout: term
 title: fare deliğe sığmamış, bir de kuyruğuna (veya kıçına) kabak bağlamış
 slug: fare-delige-sigmamis-bir-de-kuyruguna-veya-kicina-kabak-baglamis
+letter: F
 lisan: Türkçe
 anlamlar:
 - '"yapamayacağı kadar ağır bir işi varken başka bir iş daha yüklenmiş" anlamında kullanılan bir söz'

@@ -2,6 +2,7 @@
 layout: term
 title: yarı karanlık
 slug: yari-karanlik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► alaca karanlık

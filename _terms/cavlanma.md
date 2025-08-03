@@ -2,6 +2,7 @@
 layout: term
 title: çavlanma
 slug: cavlanma
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çavlanmak işi

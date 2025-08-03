@@ -2,6 +2,7 @@
 layout: term
 title: dağlatmak
 slug: daglatmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dağlama işini yaptırmak

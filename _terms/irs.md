@@ -2,6 +2,7 @@
 layout: term
 title: irs
 slug: irs
+letter: I
 lisan: Arapça irs̱
 anlamlar:
 - ► kalıtım

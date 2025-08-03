@@ -2,6 +2,7 @@
 layout: term
 title: bu gözle
 slug: bu-gozle
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bu anlayışla

@@ -2,6 +2,7 @@
 layout: term
 title: iradelilik
 slug: iradelilik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İradeli olma durumu; istençlilik

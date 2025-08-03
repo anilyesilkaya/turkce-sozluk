@@ -2,6 +2,7 @@
 layout: term
 title: inhilal etmek
 slug: inhilal-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - dağılmak

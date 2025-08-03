@@ -2,6 +2,7 @@
 layout: term
 title: hevessizce
 slug: hevessizce
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► isteksizce

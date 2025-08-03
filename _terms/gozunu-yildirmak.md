@@ -2,6 +2,7 @@
 layout: term
 title: gözünü yıldırmak
 slug: gozunu-yildirmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - gözünü korkutmak

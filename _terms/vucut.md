@@ -2,6 +2,7 @@
 layout: term
 title: vücut
 slug: vucut
+letter: V
 lisan: Arapça vucūd
 anlamlar:
 - İnsan veya hayvanda beden, baş, kol ve bacakların oluşturduğu bütün; eğin, ten

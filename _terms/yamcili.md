@@ -2,6 +2,7 @@
 layout: term
 title: yamçılı
 slug: yamcili
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yamçısı olan

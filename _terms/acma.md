@@ -2,6 +2,7 @@
 layout: term
 title: açma
 slug: acma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Açmak işi; teftih

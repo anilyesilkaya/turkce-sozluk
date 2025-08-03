@@ -2,6 +2,7 @@
 layout: term
 title: patlangaç
 slug: patlangac
+letter: P
 lisan: Türkçe
 anlamlar:
 - Kamış veya ağaç dalından yapılıp tabanca gibi ses veren pistonlu çocuk oyuncağı

@@ -2,6 +2,7 @@
 layout: term
 title: filozof
 slug: filozof
+letter: F
 lisan: Fransızca philosophe
 anlamlar:
 - Felsefe ile uğraşan ve felsefenin gelişmesine katkıda bulunan kimse; felsefeci, feylesof

@@ -2,6 +2,7 @@
 layout: term
 title: ayaklanmak
 slug: ayaklanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Çocuk yürümeye başlamak

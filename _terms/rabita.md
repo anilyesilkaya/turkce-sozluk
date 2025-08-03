@@ -2,6 +2,7 @@
 layout: term
 title: rabıta
 slug: rabita
+letter: R
 lisan: Arapça rābiṭa
 anlamlar:
 - ► bağ (I)

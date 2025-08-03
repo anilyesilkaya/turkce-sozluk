@@ -2,6 +2,7 @@
 layout: term
 title: kırmalı
 slug: kirmali
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► pileli

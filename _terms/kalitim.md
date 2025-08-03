@@ -2,6 +2,7 @@
 layout: term
 title: kalıtım
 slug: kalitim
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çevre etkileriyle köklü olarak değiştirilemeyen özelliklerin, döllenme sırasında, dişi ve erkeğin kromozomları aracılığıyla bir kuşaktan ötekine geçmesi; soya çekim, irs, irsiyet, veraset

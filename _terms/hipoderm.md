@@ -2,6 +2,7 @@
 layout: term
 title: hipoderm
 slug: hipoderm
+letter: H
 lisan: Fransızca hypoderme
 anlamlar:
 - ► alt deri

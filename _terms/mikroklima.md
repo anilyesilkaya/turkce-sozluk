@@ -2,6 +2,7 @@
 layout: term
 title: mikroklima
 slug: mikroklima
+letter: M
 lisan: Fransızca microclimat
 anlamlar:
 - Dar iklim bölgesi

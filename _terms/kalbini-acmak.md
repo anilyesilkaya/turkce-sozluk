@@ -2,6 +2,7 @@
 layout: term
 title: kalbini açmak
 slug: kalbini-acmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - yüreğini açmak

@@ -2,6 +2,7 @@
 layout: term
 title: tenhalaşma
 slug: tenhalasma
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tenhalaşmak işi

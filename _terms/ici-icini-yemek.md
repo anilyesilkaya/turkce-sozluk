@@ -2,6 +2,7 @@
 layout: term
 title: içi içini yemek
 slug: ici-icini-yemek
+letter: I
 lisan: Türkçe
 anlamlar:
 - istediğini yapamama yüzünden üzülmek

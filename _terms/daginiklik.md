@@ -2,6 +2,7 @@
 layout: term
 title: dağınıklık
 slug: daginiklik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dağınık olma durumu

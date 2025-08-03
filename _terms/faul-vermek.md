@@ -2,6 +2,7 @@
 layout: term
 title: faul vermek
 slug: faul-vermek
+letter: F
 lisan: Türkçe
 anlamlar:
 - hakem bir oyuncunun oyunda sergilediği kural dışı harekete ceza uygulamak

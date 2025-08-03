@@ -2,6 +2,7 @@
 layout: term
 title: sangılık
 slug: sangilik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sersemlik, şaşkınlık

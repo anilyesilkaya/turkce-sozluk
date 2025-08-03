@@ -2,6 +2,7 @@
 layout: term
 title: sirkeli
 slug: sirkeli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Üzerinde veya içinde sirke oluşmuş olan

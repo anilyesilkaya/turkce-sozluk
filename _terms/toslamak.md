@@ -2,6 +2,7 @@
 layout: term
 title: toslamak
 slug: toslamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tos vurmak

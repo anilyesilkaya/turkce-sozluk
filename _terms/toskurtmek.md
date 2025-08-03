@@ -2,6 +2,7 @@
 layout: term
 title: töskürtmek
 slug: toskurtmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Hayvanı geri geri yürütmek

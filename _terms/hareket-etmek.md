@@ -2,6 +2,7 @@
 layout: term
 title: hareket etmek
 slug: hareket-etmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - yola gitmek, yola çıkmak

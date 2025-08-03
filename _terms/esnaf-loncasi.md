@@ -2,6 +2,7 @@
 layout: term
 title: esnaf loncası
 slug: esnaf-loncasi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Herhangi bir meslek dalında esnafların kurduğu dernek

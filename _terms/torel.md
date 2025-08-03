@@ -2,6 +2,7 @@
 layout: term
 title: törel
 slug: torel
+letter: T
 lisan: Türkçe
 anlamlar:
 - Töreye uygun; töreli, töresel

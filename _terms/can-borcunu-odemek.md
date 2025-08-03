@@ -2,6 +2,7 @@
 layout: term
 title: can borcunu ödemek
 slug: can-borcunu-odemek
+letter: C
 lisan: Türkçe
 anlamlar:
 - ölmek

@@ -2,6 +2,7 @@
 layout: term
 title: mehter yürüyüşü
 slug: mehter-yuruyusu
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mehter takımının mehter müziğinin ahengine uyarak ileri doğru attığı her üç adımdan sonra sağa ve sola selam vererek yaptığı yürüyüş

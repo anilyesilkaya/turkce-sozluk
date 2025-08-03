@@ -2,6 +2,7 @@
 layout: term
 title: açığa çıkarmak
 slug: aciga-cikarmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ortaya çıkarmak, gözler önüne sermek, anlaşılır duruma getirmek

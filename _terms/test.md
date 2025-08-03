@@ -2,6 +2,7 @@
 layout: term
 title: teşt
 slug: test
+letter: T
 lisan: Farsça ṭaşt
 anlamlar:
 - ► leğen

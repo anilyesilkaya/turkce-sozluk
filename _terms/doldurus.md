@@ -2,6 +2,7 @@
 layout: term
 title: dolduruş
 slug: doldurus
+letter: D
 lisan: Türkçe
 anlamlar:
 - Doldurmak işi

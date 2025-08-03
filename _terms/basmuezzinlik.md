@@ -2,6 +2,7 @@
 layout: term
 title: başmüezzinlik
 slug: basmuezzinlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başmüezzin olma durumu

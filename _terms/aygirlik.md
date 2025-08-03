@@ -2,6 +2,7 @@
 layout: term
 title: aygırlık
 slug: aygirlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aygır olma durumu

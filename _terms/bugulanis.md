@@ -2,6 +2,7 @@
 layout: term
 title: buğulanış
 slug: bugulanis
+letter: B
 lisan: Türkçe
 anlamlar:
 - Buğulanmak işi

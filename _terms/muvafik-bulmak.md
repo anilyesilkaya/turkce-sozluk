@@ -2,6 +2,7 @@
 layout: term
 title: muvafık bulmak
 slug: muvafik-bulmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - uygun görmek kabul etmek

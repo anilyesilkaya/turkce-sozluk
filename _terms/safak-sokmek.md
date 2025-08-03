@@ -2,6 +2,7 @@
 layout: term
 title: şafak sökmek
 slug: safak-sokmek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - güneş doğmadan az önce ortalık aydınlanmaya başlamak

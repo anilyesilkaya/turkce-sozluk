@@ -2,6 +2,7 @@
 layout: term
 title: manastır
 slug: manastir
+letter: M
 lisan: Rumca
 anlamlar:
 - Bazı kesin kurallara bağlı rahip veya rahibelerin dünya ile ilgilerini keserek yaşadıkları yapı; keşişhane

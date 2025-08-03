@@ -2,6 +2,7 @@
 layout: term
 title: mesuliyetsiz
 slug: mesuliyetsiz
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► sorumsuz

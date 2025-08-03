@@ -2,6 +2,7 @@
 layout: term
 title: suçüstü
 slug: sucustu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Birini suç işlerken yakalama; cürmümeşhut, meşhut suç

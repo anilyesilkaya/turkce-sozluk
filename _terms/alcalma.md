@@ -2,6 +2,7 @@
 layout: term
 title: alçalma
 slug: alcalma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alçalmak işi

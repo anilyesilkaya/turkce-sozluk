@@ -2,6 +2,7 @@
 layout: term
 title: hırsız gibi
 slug: hirsiz-gibi
+letter: H
 lisan: Türkçe
 anlamlar:
 - kimseye görünmeden, gizlice

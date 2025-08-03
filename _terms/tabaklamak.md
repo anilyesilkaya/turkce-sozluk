@@ -2,6 +2,7 @@
 layout: term
 title: tabaklamak
 slug: tabaklamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► sepilemek

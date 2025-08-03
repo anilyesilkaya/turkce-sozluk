@@ -2,6 +2,7 @@
 layout: term
 title: sözünde durmak
 slug: sozunde-durmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - verdiği sözü yerine getirmek, verdiği sözden dönmemek, verdiği sözü tutmak

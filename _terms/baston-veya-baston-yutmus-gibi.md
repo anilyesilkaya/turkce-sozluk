@@ -2,6 +2,7 @@
 layout: term
 title: baston (veya baston yutmuş) gibi
 slug: baston-veya-baston-yutmus-gibi
+letter: B
 lisan: Türkçe
 anlamlar:
 - dimdik duran veya yürüyen (kimse)

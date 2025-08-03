@@ -2,6 +2,7 @@
 layout: term
 title: küt diye
 slug: kut-diye
+letter: K
 lisan: Türkçe
 anlamlar:
 - ansızın

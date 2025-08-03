@@ -2,6 +2,7 @@
 layout: term
 title: korugan
 slug: korugan
+letter: K
 lisan: Türkçe
 anlamlar:
 - Ağaç gövdeleriyle yapılmış ve çevresinde kazılı çukuru bulunan, korunmaya elverişli, kare biçimindeki ev

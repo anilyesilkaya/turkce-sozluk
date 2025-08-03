@@ -2,6 +2,7 @@
 layout: term
 title: benlenmek
 slug: benlenmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Ben (I) oluşmak

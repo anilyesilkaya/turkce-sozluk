@@ -2,6 +2,7 @@
 layout: term
 title: masat
 slug: masat
+letter: M
 lisan: Arapça mişḥaẕ
 anlamlar:
 - Bıçak, orak, tırpan vb.ni bilemeye yarayan, çelikten yapılmış, çubuk biçiminde araç

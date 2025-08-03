@@ -2,6 +2,7 @@
 layout: term
 title: başasistanlık
 slug: basasistanlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başasistan olma durumu

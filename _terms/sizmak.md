@@ -2,6 +2,7 @@
 layout: term
 title: sızmak
 slug: sizmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - İnce aralıklardan veya gözeneklerden az miktarda ve belli olmadan yavaş yavaş akmak, çıkmak

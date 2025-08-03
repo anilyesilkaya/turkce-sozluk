@@ -2,6 +2,7 @@
 layout: term
 title: üstüne kuş kondurmak
 slug: ustune-kus-kondurmak
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - olağanüstü, o ana kadar görülmemiş bir şey yapmak

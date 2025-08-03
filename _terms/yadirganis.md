@@ -2,6 +2,7 @@
 layout: term
 title: yadırganış
 slug: yadirganis
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yadırganmak işi

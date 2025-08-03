@@ -2,6 +2,7 @@
 layout: term
 title: ebelik
 slug: ebelik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ebe olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: hibrit
 slug: hibrit
+letter: H
 lisan: Fransızca hybride
 anlamlar:
 - ► melez

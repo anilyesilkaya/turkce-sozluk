@@ -2,6 +2,7 @@
 layout: term
 title: bilgisayarlı
 slug: bilgisayarli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilgisayarı olan, bilgisayarla iş gören

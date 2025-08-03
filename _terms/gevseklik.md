@@ -2,6 +2,7 @@
 layout: term
 title: gevşeklik
 slug: gevseklik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gevşek olma durumu

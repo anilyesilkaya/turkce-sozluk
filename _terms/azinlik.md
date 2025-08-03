@@ -2,6 +2,7 @@
 layout: term
 title: azınlık
 slug: azinlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir toplulukta kendine özgü nitelikler bakımından ayrı ve ötekilerden sayıca az olanlar; azlık, ekalliyet, çoğunluk karşıtı

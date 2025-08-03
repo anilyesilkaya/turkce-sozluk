@@ -2,6 +2,7 @@
 layout: term
 title: çetele
 slug: cetele
+letter: Ç
 lisan: Rumca
 anlamlar:
 - Çizilerek veya oyularak açılan kertik

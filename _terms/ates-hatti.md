@@ -2,6 +2,7 @@
 layout: term
 title: ateş hattı
 slug: ates-hatti
+letter: A
 lisan: Türkçe
 anlamlar:
 - Savaşta en ilerideki birliklerin ellerindeki silahlarla ateş açabilecekleri hat

@@ -2,6 +2,7 @@
 layout: term
 title: düvenci
 slug: duvenci
+letter: D
 lisan: Türkçe
 anlamlar:
 - Harman zamanı düven sürmek için tutulan çocuk

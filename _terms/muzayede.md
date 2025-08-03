@@ -2,6 +2,7 @@
 layout: term
 title: müzayede
 slug: muzayede
+letter: M
 lisan: Arapça muzāyede
 anlamlar:
 - ► açık artırma

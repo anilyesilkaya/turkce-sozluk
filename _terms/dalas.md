@@ -2,6 +2,7 @@
 layout: term
 title: dalaş
 slug: dalas
+letter: D
 lisan: Türkçe
 anlamlar:
 - Kavga, gürültülü bağrışıp çağrışma

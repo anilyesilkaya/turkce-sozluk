@@ -2,6 +2,7 @@
 layout: term
 title: arabacı
 slug: arabaci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arabayı süren kimse

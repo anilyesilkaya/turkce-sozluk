@@ -2,6 +2,7 @@
 layout: term
 title: kavuşturmak
 slug: kavusturmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kavuşmasını veya kavuşmalarını sağlamak

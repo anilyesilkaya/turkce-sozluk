@@ -2,6 +2,7 @@
 layout: term
 title: sınır çekmek (veya çizmek)
 slug: sinir-cekmek-veya-cizmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - sınırını belirtmek

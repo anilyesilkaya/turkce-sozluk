@@ -2,6 +2,7 @@
 layout: term
 title: tebliğ olunmak
 slug: teblig-olunmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - bildirilmek

@@ -2,6 +2,7 @@
 layout: term
 title: altın rengi
 slug: altin-rengi
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► altın sarısı

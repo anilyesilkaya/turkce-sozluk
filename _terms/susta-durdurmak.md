@@ -2,6 +2,7 @@
 layout: term
 title: susta durdurmak
 slug: susta-durdurmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - köpeği arka ayakları üzerinde durdurmak

@@ -2,6 +2,7 @@
 layout: term
 title: potluk
 slug: potluk
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pot olma durumu

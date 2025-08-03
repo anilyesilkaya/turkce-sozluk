@@ -2,6 +2,7 @@
 layout: term
 title: elenmek
 slug: elenmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eleme işine konu olmak veya eleme işi yapılmak; silkelenmek

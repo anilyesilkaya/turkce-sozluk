@@ -2,6 +2,7 @@
 layout: term
 title: sağlanabilme
 slug: saglanabilme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sağlanabilmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: yalanlama
 slug: yalanlama
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yalanlamak işi; tekzip

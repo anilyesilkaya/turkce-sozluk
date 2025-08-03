@@ -2,6 +2,7 @@
 layout: term
 title: hora geçmek
 slug: hora-gecmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - beğenilmek, hoşa gitmek, makbule geçmek, kendisine verilen kimsenin işine çok yaramak

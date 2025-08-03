@@ -2,6 +2,7 @@
 layout: term
 title: sökmek
 slug: sokmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir şeyi bulunduğu yerden kuvvet kullanarak veya gevşeterek çıkarmak, çekip ayırmak

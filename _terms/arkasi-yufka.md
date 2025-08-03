@@ -2,6 +2,7 @@
 layout: term
 title: arkası yufka
 slug: arkasi-yufka
+letter: A
 lisan: Türkçe
 anlamlar:
 - Soğuğa karşı gereği gibi giyinmemiş (kimse)

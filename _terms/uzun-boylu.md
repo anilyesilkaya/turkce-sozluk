@@ -2,6 +2,7 @@
 layout: term
 title: uzun boylu
 slug: uzun-boylu
+letter: U
 lisan: Türkçe
 anlamlar:
 - Boyu uzun olan

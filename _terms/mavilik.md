@@ -2,6 +2,7 @@
 layout: term
 title: mavilik
 slug: mavilik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mavi renkte olma durumu

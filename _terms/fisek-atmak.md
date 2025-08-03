@@ -2,6 +2,7 @@
 layout: term
 title: fişek atmak
 slug: fisek-atmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - ortalığı karıştıracak bir söz söylemek

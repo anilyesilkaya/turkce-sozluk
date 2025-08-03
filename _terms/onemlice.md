@@ -2,6 +2,7 @@
 layout: term
 title: önemlice
 slug: onemlice
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Önemli sayılabilecek kadar

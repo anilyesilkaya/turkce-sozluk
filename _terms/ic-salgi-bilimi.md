@@ -2,6 +2,7 @@
 layout: term
 title: iç salgı bilimi
 slug: ic-salgi-bilimi
+letter: I
 lisan: Türkçe
 anlamlar:
 - İç salgı bezlerinin gelişmelerini, işlevlerini, hastalıklarını inceleyen biyoloji ve tıp dalı; endokrinoloji

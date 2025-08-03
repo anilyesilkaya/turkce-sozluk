@@ -2,6 +2,7 @@
 layout: term
 title: yok etmek
 slug: yok-etmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ortadan kaldırmak, ifna etmek, izale etmek

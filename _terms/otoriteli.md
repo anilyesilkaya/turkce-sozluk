@@ -2,6 +2,7 @@
 layout: term
 title: otoriteli
 slug: otoriteli
+letter: O
 lisan: Türkçe
 anlamlar:
 - Emretme, yaptırma gücüne sahip olan (kimse); yetkeli, otoriter

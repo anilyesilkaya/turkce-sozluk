@@ -2,6 +2,7 @@
 layout: term
 title: lise
 slug: lise
+letter: L
 lisan: Fransızca lycée
 anlamlar:
 - Öğrencileri ortaokuldan sonra hayata ve yükseköğretime hazırlayan eğitim öğretim kurumu

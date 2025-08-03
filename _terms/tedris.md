@@ -2,6 +2,7 @@
 layout: term
 title: tedris
 slug: tedris
+letter: T
 lisan: Arapça tedrīs
 anlamlar:
 - ► öğretme

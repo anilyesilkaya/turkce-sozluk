@@ -2,6 +2,7 @@
 layout: term
 title: zira
 slug: zira
+letter: Z
 lisan: Farsça zīrā
 anlamlar:
 - ► çünkü

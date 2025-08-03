@@ -2,6 +2,7 @@
 layout: term
 title: uçuk kaçık
 slug: ucuk-kacik
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► deli dolu

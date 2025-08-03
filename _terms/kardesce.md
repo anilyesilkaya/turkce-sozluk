@@ -2,6 +2,7 @@
 layout: term
 title: kardeşçe
 slug: kardesce
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kardeşe yaraşır

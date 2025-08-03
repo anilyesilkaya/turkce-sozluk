@@ -2,6 +2,7 @@
 layout: term
 title: ceberut
 slug: ceberut
+letter: C
 lisan: Arapça ceberūt
 anlamlar:
 - Acımasız, merhametsiz, zorba (kimse)

@@ -2,6 +2,7 @@
 layout: term
 title: bir varmış bir yokmuş
 slug: bir-varmis-bir-yokmus
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir masala başlarken, "eskiden" anlamında söylenen bir tekerleme

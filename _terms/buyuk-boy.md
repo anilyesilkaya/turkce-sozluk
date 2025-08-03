@@ -2,6 +2,7 @@
 layout: term
 title: büyük boy
 slug: buyuk-boy
+letter: B
 lisan: Türkçe
 anlamlar:
 - Normal ölçülerden daha büyük

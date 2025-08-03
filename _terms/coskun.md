@@ -2,6 +2,7 @@
 layout: term
 title: coşkun
 slug: coskun
+letter: C
 lisan: Türkçe
 anlamlar:
 - Coşmuş olan; celalli, vectli

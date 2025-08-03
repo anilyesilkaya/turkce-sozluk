@@ -2,6 +2,7 @@
 layout: term
 title: sersemletmek
 slug: sersemletmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sersemlemesine sebep olmak

@@ -2,6 +2,7 @@
 layout: term
 title: gümbürtülü
 slug: gumburtulu
+letter: G
 lisan: Türkçe
 anlamlar:
 - '"Gümbürtü" sesi çıkaran'

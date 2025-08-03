@@ -2,6 +2,7 @@
 layout: term
 title: nikâhsız
 slug: nikahsiz
+letter: N
 lisan: Türkçe
 anlamlar:
 - Aralarında nikâh olmadığı hâlde karı koca hayatı süren

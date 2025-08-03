@@ -2,6 +2,7 @@
 layout: term
 title: müradif
 slug: muradif
+letter: M
 lisan: Arapça murādif
 anlamlar:
 - ► eş anlamlı

@@ -2,6 +2,7 @@
 layout: term
 title: ağlaşmak
 slug: aglasmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Birlikte ağlamak

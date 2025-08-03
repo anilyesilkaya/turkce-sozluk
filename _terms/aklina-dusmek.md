@@ -2,6 +2,7 @@
 layout: term
 title: aklına düşmek
 slug: aklina-dusmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - hatırlamak

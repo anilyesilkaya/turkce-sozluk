@@ -2,6 +2,7 @@
 layout: term
 title: dalınç
 slug: dalinc
+letter: D
 lisan: Türkçe
 anlamlar:
 - Kendinden geçercesine sessiz bir coşkuya dalma; istiğrak, meditasyon

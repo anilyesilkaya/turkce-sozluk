@@ -2,6 +2,7 @@
 layout: term
 title: füg
 slug: fug
+letter: F
 lisan: Fransızca fugue
 anlamlar:
 - Çok sesli müzikte üretici bir konunun birbirine benzer biçimde yenilenmesinden oluşan bir beste türü

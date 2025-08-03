@@ -2,6 +2,7 @@
 layout: term
 title: yan gelip oturmak (veya yatmak)
 slug: yan-gelip-oturmak-veya-yatmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yan gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: vatoz
 slug: vatoz
+letter: V
 lisan: Rumca
 anlamlar:
 - Köpek balıklarından, sırtında büyük dikenleri olan, kuma gömülü olarak yaşayan bir balık (Raja clavata)

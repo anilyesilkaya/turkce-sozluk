@@ -2,6 +2,7 @@
 layout: term
 title: gütme
 slug: gutme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gütmek işi

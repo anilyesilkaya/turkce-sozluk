@@ -2,6 +2,7 @@
 layout: term
 title: düzeltici
 slug: duzeltici
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düzeltme işini yapan nesne

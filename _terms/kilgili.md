@@ -2,6 +2,7 @@
 layout: term
 title: kılgılı
 slug: kilgili
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► uygulamalı

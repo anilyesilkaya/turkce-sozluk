@@ -2,6 +2,7 @@
 layout: term
 title: (... ile) gezmek
 slug: ile-gezmek
+letter: (
 lisan: Türkçe
 anlamlar:
 - karşı cinsten biriyle aralarında duygusal ilişki olup birlikte dolaşmak

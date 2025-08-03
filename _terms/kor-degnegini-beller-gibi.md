@@ -2,6 +2,7 @@
 layout: term
 title: kör değneğini beller gibi
 slug: kor-degnegini-beller-gibi
+letter: K
 lisan: Türkçe
 anlamlar:
 - hep aynı biçimde davranıp hiçbir yenilik veya değişiklik yapmayacak biçimde

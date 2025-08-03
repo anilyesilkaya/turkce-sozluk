@@ -2,6 +2,7 @@
 layout: term
 title: sürek
 slug: surek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Süren, devam eden zaman

@@ -2,6 +2,7 @@
 layout: term
 title: nane ruhu
 slug: nane-ruhu
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nane yapraklarından çıkarılan esans

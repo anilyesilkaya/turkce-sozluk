@@ -2,6 +2,7 @@
 layout: term
 title: kavuşma
 slug: kavusma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kavuşmak işi; muvasala, telaki, vasl, visal

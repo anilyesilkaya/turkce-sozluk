@@ -2,6 +2,7 @@
 layout: term
 title: zıddına basmak (veya gitmek)
 slug: ziddina-basmak-veya-gitmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - sinirlendirmek, sinirini bozmak

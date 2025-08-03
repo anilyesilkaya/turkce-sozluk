@@ -2,6 +2,7 @@
 layout: term
 title: gönlünde (veya gönüllerde) taht kurmak
 slug: gonlunde-veya-gonullerde-taht-kurmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - birisi (veya herkes) tarafından çok sevilir, sayılır olmak

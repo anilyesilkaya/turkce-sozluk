@@ -2,6 +2,7 @@
 layout: term
 title: tuğbay
 slug: tugbay
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tugay komutanlığı yapan albay

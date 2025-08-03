@@ -2,6 +2,7 @@
 layout: term
 title: tamamı tamamına
 slug: tamami-tamamina
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► tamamen

@@ -2,6 +2,7 @@
 layout: term
 title: toparlacık
 slug: toparlacik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Çok yuvarlak

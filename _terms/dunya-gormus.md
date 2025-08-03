@@ -2,6 +2,7 @@
 layout: term
 title: dünya görmüş
 slug: dunya-gormus
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çok gezmiş, çok yer görmüş

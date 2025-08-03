@@ -2,6 +2,7 @@
 layout: term
 title: budatabilmek
 slug: budatabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Budatma ihtimali veya imkânı bulunmak

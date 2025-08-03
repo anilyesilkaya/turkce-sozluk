@@ -2,6 +2,7 @@
 layout: term
 title: gagalanmak
 slug: gagalanmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gagalama işi yapılmak

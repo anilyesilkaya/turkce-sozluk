@@ -2,6 +2,7 @@
 layout: term
 title: rahiplik
 slug: rahiplik
+letter: R
 lisan: Türkçe
 anlamlar:
 - Rahip olma durumu

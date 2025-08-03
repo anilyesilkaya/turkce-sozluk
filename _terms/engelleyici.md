@@ -2,6 +2,7 @@
 layout: term
 title: engelleyici
 slug: engelleyici
+letter: E
 lisan: Türkçe
 anlamlar:
 - Engelleme özelliği olan (kimse veya şey)

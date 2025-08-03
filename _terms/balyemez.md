@@ -2,6 +2,7 @@
 layout: term
 title: balyemez
 slug: balyemez
+letter: B
 lisan: İtalyanca ballamezza
 anlamlar:
 - Kara ve deniz savaşlarında kullanılan, orta çapta, uzun menzilli, tunçtan top

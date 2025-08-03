@@ -2,6 +2,7 @@
 layout: term
 title: askerî kaput
 slug: askeri-kaput
+letter: A
 lisan: Türkçe
 anlamlar:
 - Askerlerin giydiği kalın kumaştan üstlük

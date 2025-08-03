@@ -2,6 +2,7 @@
 layout: term
 title: eski hamam eski tas
 slug: eski-hamam-eski-tas
+letter: E
 lisan: Türkçe
 anlamlar:
 - '"hiçbir şeyi değişmemiş, eski durumunda kalmış" anlamında kullanılan bir söz'

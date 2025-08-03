@@ -2,6 +2,7 @@
 layout: term
 title: hatıra (veya hatır ve hayale) gelmemek
 slug: hatira-veya-hatir-ve-hayale-gelmemek
+letter: H
 lisan: Türkçe
 anlamlar:
 - bir şeyin gerçekleşeceği, olacağı hiç düşünülmemek

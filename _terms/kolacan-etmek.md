@@ -2,6 +2,7 @@
 layout: term
 title: kolaçan etmek
 slug: kolacan-etmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - çevrede olup biteni anlamak amacıyla dolaşmak

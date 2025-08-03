@@ -2,6 +2,7 @@
 layout: term
 title: besleyicilik
 slug: besleyicilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Besleyici olma durumu

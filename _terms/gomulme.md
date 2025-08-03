@@ -2,6 +2,7 @@
 layout: term
 title: gömülme
 slug: gomulme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gömülmek işi

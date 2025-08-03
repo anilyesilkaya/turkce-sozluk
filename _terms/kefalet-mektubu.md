@@ -2,6 +2,7 @@
 layout: term
 title: kefalet mektubu
 slug: kefalet-mektubu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir işin yapılması için birisinin kefil olduğunu, güvence verdiğini belirten belge

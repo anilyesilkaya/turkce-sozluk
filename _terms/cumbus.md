@@ -2,6 +2,7 @@
 layout: term
 title: cümbüş
 slug: cumbus
+letter: C
 lisan: Farsça cunbiş
 anlamlar:
 - ► eğlence

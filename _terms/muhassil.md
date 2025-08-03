@@ -2,6 +2,7 @@
 layout: term
 title: muhassıl
 slug: muhassil
+letter: M
 lisan: Arapça muḥaṣṣil
 anlamlar:
 - Osmanlı Devleti'nde vergi toplayan görevli

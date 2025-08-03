@@ -2,6 +2,7 @@
 layout: term
 title: nikelsiz
 slug: nikelsiz
+letter: N
 lisan: Türkçe
 anlamlar:
 - Birleşiminde nikel bulunmayan

@@ -2,6 +2,7 @@
 layout: term
 title: mezat
 slug: mezat
+letter: M
 lisan: Arapça mezād
 anlamlar:
 - Açık artırma ile satış

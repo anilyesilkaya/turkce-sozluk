@@ -2,6 +2,7 @@
 layout: term
 title: kurşuni
 slug: kursuni
+letter: K
 lisan: Türkçe kurşun + Arapça -ī
 anlamlar:
 - Kurşun rengi

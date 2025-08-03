@@ -2,6 +2,7 @@
 layout: term
 title: polip
 slug: polip
+letter: P
 lisan: Fransızca polype
 anlamlar:
 - Sölenterlerden, toplu veya tek başına yaşayabilen yumuşak vücutlu hayvan

@@ -2,6 +2,7 @@
 layout: term
 title: hipopotam
 slug: hipopotam
+letter: H
 lisan: Fransızca hippopotame
 anlamlar:
 - ► su aygırı

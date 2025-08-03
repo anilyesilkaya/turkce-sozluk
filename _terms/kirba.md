@@ -2,6 +2,7 @@
 layout: term
 title: kırba
 slug: kirba
+letter: K
 lisan: Arapça ḳirba
 anlamlar:
 - Sakaların içinde su taşıdıkları ağzı dar, altı geniş, deriden yapılmış kap

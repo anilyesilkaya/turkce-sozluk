@@ -2,6 +2,7 @@
 layout: term
 title: maraza aramak
 slug: maraza-aramak
+letter: M
 lisan: Türkçe
 anlamlar:
 - çekişmek, olay çıkarmak için bahane aramak

@@ -2,6 +2,7 @@
 layout: term
 title: telsiz
 slug: telsiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Türlerine göre belirli bir kapsama alanı içinde belirli kişilerin iletişimini sağlayan, elektromanyetik dalgalar yardımıyla çalışan araç

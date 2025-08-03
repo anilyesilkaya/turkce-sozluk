@@ -2,6 +2,7 @@
 layout: term
 title: değişimli ünsüzler
 slug: degisimli-unsuzler
+letter: D
 lisan: Türkçe
 anlamlar:
 - 'Bulundukları çevre şartına bağlı olarak tonluluk veya tonsuzluk bakımından birbirinin yerine geçebilen ünsüzler: p/b, ç/c, t/d, k/g'

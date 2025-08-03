@@ -2,6 +2,7 @@
 layout: term
 title: sarat
 slug: sarat
+letter: S
 lisan: Türkçe
 anlamlar:
 - Büyük delikli kalbur

@@ -2,6 +2,7 @@
 layout: term
 title: boş konuşmamak
 slug: bos-konusmamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - gerçekleri söylemek, bilgisine dayanarak anlatmak

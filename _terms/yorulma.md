@@ -2,6 +2,7 @@
 layout: term
 title: yorulma
 slug: yorulma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yorulmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: araştırıcı
 slug: arastirici
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► araştırmacı

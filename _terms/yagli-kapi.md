@@ -2,6 +2,7 @@
 layout: term
 title: yağlı kapı
 slug: yagli-kapi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Çalıştırdığı kişiye bol para, yiyecek, eşya veren aile, kuruluş vb

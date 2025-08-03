@@ -2,6 +2,7 @@
 layout: term
 title: rüzgâr tutmamak
 slug: ruzgar-tutmamak
+letter: R
 lisan: Türkçe
 anlamlar:
 - rüzgâr etkilememek

@@ -2,6 +2,7 @@
 layout: term
 title: buluttan nem kapmak
 slug: buluttan-nem-kapmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - en küçük bir şeyden alınmak, çok alıngan olmak

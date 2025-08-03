@@ -2,6 +2,7 @@
 layout: term
 title: tehir
 slug: tehir
+letter: T
 lisan: Arapça teʾḫīr
 anlamlar:
 - ► erteleme

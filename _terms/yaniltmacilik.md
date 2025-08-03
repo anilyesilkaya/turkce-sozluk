@@ -2,6 +2,7 @@
 layout: term
 title: yanıltmacılık
 slug: yaniltmacilik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yanıltma işi yapma

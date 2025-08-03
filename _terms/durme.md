@@ -2,6 +2,7 @@
 layout: term
 title: dürme
 slug: durme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dürmek işi

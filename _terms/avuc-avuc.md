@@ -2,6 +2,7 @@
 layout: term
 title: avuç avuç
 slug: avuc-avuc
+letter: A
 lisan: Türkçe
 anlamlar:
 - Pek çok, çok fazla; hapaz hapaz

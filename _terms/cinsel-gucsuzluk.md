@@ -2,6 +2,7 @@
 layout: term
 title: cinsel güçsüzlük
 slug: cinsel-gucsuzluk
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cinsel birleşmeyi gereğince yerine getirememe durumu

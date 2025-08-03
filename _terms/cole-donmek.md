@@ -2,6 +2,7 @@
 layout: term
 title: çöle dönmek
 slug: cole-donmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - harap olmak, bozulmak

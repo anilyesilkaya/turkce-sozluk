@@ -2,6 +2,7 @@
 layout: term
 title: alaçık
 slug: alacik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► çardak

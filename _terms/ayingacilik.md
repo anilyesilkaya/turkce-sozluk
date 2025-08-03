@@ -2,6 +2,7 @@
 layout: term
 title: ayıngacılık
 slug: ayingacilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayıngacının yaptığı iş

@@ -2,6 +2,7 @@
 layout: term
 title: sürücül
 slug: surucul
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sürü durumunda yaşayan

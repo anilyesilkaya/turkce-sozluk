@@ -2,6 +2,7 @@
 layout: term
 title: basamak
 slug: basamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir yere çıkarken veya bir yerden inerken basılan ve art arda gelen, birbirine belirli aralıkları olan düz yüzeylerden her biri; ayak, sekmen

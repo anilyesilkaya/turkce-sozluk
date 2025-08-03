@@ -2,6 +2,7 @@
 layout: term
 title: kezzap
 slug: kezzap
+letter: K
 lisan: Farsça tīz + āb
 anlamlar:
 - ► nitrik asit

@@ -2,6 +2,7 @@
 layout: term
 title: saika
 slug: saika
+letter: S
 lisan: Arapça sāʾiḳa
 anlamlar:
 - ► sebep

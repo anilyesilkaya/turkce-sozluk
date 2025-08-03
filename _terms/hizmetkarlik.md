@@ -2,6 +2,7 @@
 layout: term
 title: hizmetkârlık
 slug: hizmetkarlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► uşaklık

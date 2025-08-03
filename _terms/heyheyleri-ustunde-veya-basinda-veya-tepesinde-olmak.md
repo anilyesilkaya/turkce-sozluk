@@ -2,6 +2,7 @@
 layout: term
 title: heyheyleri üstünde (veya başında veya tepesinde) olmak
 slug: heyheyleri-ustunde-veya-basinda-veya-tepesinde-olmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - çok sinirlenmek

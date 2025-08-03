@@ -2,6 +2,7 @@
 layout: term
 title: asma tavan
 slug: asma-tavan
+letter: A
 lisan: Türkçe
 anlamlar:
 - Betonarme, çelik veya ahşap tavan iskeleti altında çeşitli tesisatın döşenebilmesi için birtakım boşlukları bulunan tavan biçimi

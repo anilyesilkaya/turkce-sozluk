@@ -2,6 +2,7 @@
 layout: term
 title: kepekli
 slug: kepekli
+letter: K
 lisan: Türkçe
 anlamlar:
 - İçinde kepeği olan

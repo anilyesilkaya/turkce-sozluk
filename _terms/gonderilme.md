@@ -2,6 +2,7 @@
 layout: term
 title: gönderilme
 slug: gonderilme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gönderilmek işi

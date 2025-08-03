@@ -2,6 +2,7 @@
 layout: term
 title: çocukcağız
 slug: cocukcagiz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Kendisine şefkat ve acıma duyulan çocuk

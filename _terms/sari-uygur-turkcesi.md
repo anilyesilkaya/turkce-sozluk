@@ -2,6 +2,7 @@
 layout: term
 title: Sarı Uygur Türkçesi
 slug: sari-uygur-turkcesi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sarı Uygur Türklerinin kullandığı konuşma ve yazı dili; Sarı Uygurca

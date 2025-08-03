@@ -2,6 +2,7 @@
 layout: term
 title: ahlaksızlık
 slug: ahlaksizlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ahlaksız olma durumu

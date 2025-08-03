@@ -2,6 +2,7 @@
 layout: term
 title: hasbihâl etmek
 slug: hasbihal-etmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - söyleşmek, karşılıklı konuşmak, sohbet etmek

@@ -2,6 +2,7 @@
 layout: term
 title: kalburcu
 slug: kalburcu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalbur yapan veya satan kimse

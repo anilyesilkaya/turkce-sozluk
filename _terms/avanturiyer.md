@@ -2,6 +2,7 @@
 layout: term
 title: avantüriyer
 slug: avanturiyer
+letter: A
 lisan: Fransızca aventurière
 anlamlar:
 - Serüvene atılan, maceracı (kadın)

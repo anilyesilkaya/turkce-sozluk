@@ -2,6 +2,7 @@
 layout: term
 title: hışlamak
 slug: hislamak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hışıldamak, hışıltı çıkarmak

@@ -2,6 +2,7 @@
 layout: term
 title: patırtı
 slug: patirti
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pat pat çıkan sesin adı

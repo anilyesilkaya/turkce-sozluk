@@ -2,6 +2,7 @@
 layout: term
 title: aile hayatı
 slug: aile-hayati
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aile düzeni içerisinde sürdürülen hayat, aile olarak yaşama

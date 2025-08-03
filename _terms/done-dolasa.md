@@ -2,6 +2,7 @@
 layout: term
 title: döne dolaşa
 slug: done-dolasa
+letter: D
 lisan: Türkçe
 anlamlar:
 - uzun süre gezerek

@@ -2,6 +2,7 @@
 layout: term
 title: iktiza etmek
 slug: iktiza-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - gerekmek

@@ -2,6 +2,7 @@
 layout: term
 title: zoka
 slug: zoka
+letter: Z
 lisan: Rumca
 anlamlar:
 - Büyük balıkları tutmakta kullanılan, küçük balık biçiminde, ucu iğneli kurşun parçası

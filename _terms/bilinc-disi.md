@@ -2,6 +2,7 @@
 layout: term
 title: bilinç dışı
 slug: bilinc-disi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilinçsizce yapılan iş ve etkinliklerin bütünü

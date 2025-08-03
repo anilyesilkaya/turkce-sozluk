@@ -2,6 +2,7 @@
 layout: term
 title: köşe minderi
 slug: kose-minderi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Köşeye yerleştirilmiş kabarık büyük minder

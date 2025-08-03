@@ -2,6 +2,7 @@
 layout: term
 title: salozlaşmak
 slug: salozlasmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► salaklaşmak

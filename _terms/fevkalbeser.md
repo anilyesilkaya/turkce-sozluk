@@ -2,6 +2,7 @@
 layout: term
 title: fevkalbeşer
 slug: fevkalbeser
+letter: F
 lisan: Arapça fevḳ + beşer
 anlamlar:
 - ► insanüstü

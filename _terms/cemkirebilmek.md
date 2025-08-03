@@ -2,6 +2,7 @@
 layout: term
 title: çemkirebilmek
 slug: cemkirebilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çemkirme ihtimali veya imkânı bulunmak

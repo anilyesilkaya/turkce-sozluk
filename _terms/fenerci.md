@@ -2,6 +2,7 @@
 layout: term
 title: fenerci
 slug: fenerci
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fener yapan veya satan kimse

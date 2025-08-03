@@ -2,6 +2,7 @@
 layout: term
 title: çaçaronluk
 slug: cacaronluk
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çaçaron olma durumu

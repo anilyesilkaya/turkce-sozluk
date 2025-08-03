@@ -2,6 +2,7 @@
 layout: term
 title: eli sıkı
 slug: eli-siki
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► cimri

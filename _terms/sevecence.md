@@ -2,6 +2,7 @@
 layout: term
 title: sevecence
 slug: sevecence
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sevecen bir biçimde

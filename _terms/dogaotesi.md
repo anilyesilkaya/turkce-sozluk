@@ -2,6 +2,7 @@
 layout: term
 title: doğaötesi
 slug: dogaotesi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Duyularımızla algılayamadığımız varlıkların sebeplerini ve temellerini araştıran felsefe; fizikötesi, metafizik

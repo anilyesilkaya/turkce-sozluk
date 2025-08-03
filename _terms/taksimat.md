@@ -2,6 +2,7 @@
 layout: term
 title: taksimat
 slug: taksimat
+letter: T
 lisan: Arapça taḳsīmāt
 anlamlar:
 - Bölme, bölüştürme işleri

@@ -2,6 +2,7 @@
 layout: term
 title: kisra
 slug: kisra
+letter: K
 lisan: Arapça kisrā
 anlamlar:
 - İran hükümdarı Nuşirevan’ın lakabı

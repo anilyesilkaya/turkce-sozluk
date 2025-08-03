@@ -2,6 +2,7 @@
 layout: term
 title: alelusul
 slug: alelusul
+letter: A
 lisan: Arapça ʿalā'l-uṣūl
 anlamlar:
 - Yol yordam gereğince, kurala uygun bir biçimde, usulüne uygun olarak

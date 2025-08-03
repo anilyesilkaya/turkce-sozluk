@@ -2,6 +2,7 @@
 layout: term
 title: çiş
 slug: cis
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çocuk dilinde idrar

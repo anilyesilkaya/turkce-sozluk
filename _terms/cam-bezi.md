@@ -2,6 +2,7 @@
 layout: term
 title: cam bezi
 slug: cam-bezi
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cam yüzeylerinin temizlemesinde hem nemli hem kuru olarak kullanılabilen bez

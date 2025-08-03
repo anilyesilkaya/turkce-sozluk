@@ -2,6 +2,7 @@
 layout: term
 title: ahiret yolculuğu
 slug: ahiret-yolculugu
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► ölüm

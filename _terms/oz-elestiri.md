@@ -2,6 +2,7 @@
 layout: term
 title: öz eleştiri
 slug: oz-elestiri
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Bir kişinin kendi davranışları üzerine yönelttiği yargı; otokritik

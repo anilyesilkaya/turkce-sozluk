@@ -2,6 +2,7 @@
 layout: term
 title: kır eğlencesi
 slug: kir-eglencesi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kırda yapılan eğlence

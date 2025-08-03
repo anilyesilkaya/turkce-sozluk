@@ -2,6 +2,7 @@
 layout: term
 title: atlamak
 slug: atlamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir engeli sıçrayarak veya fırlayarak aşmak

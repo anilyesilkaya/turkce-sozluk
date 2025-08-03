@@ -2,6 +2,7 @@
 layout: term
 title: mobilya
 slug: mobilya
+letter: M
 lisan: İtalyanca mobilia
 anlamlar:
 - Oturulan, yemek yenilen, çalışılan, yatılan yerlerin döşenmesine yarayan taşınabilir eşyaya verilen genel ad; möble

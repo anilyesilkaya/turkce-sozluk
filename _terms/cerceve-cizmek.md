@@ -2,6 +2,7 @@
 layout: term
 title: çerçeve çizmek
 slug: cerceve-cizmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - konunun sınırlarını belirlemek

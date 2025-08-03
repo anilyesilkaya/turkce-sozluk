@@ -2,6 +2,7 @@
 layout: term
 title: cumhur cemaat
 slug: cumhur-cemaat
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► cümbür cemaat

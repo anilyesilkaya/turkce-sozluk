@@ -2,6 +2,7 @@
 layout: term
 title: iletişim
 slug: iletisim
+letter: I
 lisan: Türkçe
 anlamlar:
 - Duygu, düşünce veya bilgilerin akla gelebilecek her türlü yolla başkalarına aktarılması; bildirişim, haberleşme, komünikasyon

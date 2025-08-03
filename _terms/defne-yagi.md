@@ -2,6 +2,7 @@
 layout: term
 title: defne yağı
 slug: defne-yagi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Defnenin meyvesinden ve yapraklarından elde edilen, özellikle veteriner hekimlikte kullanılan, kokulu, acı lezzetli bir yağ türü

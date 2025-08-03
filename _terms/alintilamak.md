@@ -2,6 +2,7 @@
 layout: term
 title: alıntılamak
 slug: alintilamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir yazıya başka bir yazarın yazısından cümle veya cümleler almak, alıntı yapmak; aktarmak, iktibas etmek

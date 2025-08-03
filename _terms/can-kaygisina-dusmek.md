@@ -2,6 +2,7 @@
 layout: term
 title: can kaygısına düşmek
 slug: can-kaygisina-dusmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - her şeyden vazgeçip sadece kendi hayatını koruma veya kurtarma çabasında olmak

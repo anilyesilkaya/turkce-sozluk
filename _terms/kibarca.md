@@ -2,6 +2,7 @@
 layout: term
 title: kibarca
 slug: kibarca
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kibar bir insana yakışacak biçimde; kibarcasına

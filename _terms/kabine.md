@@ -2,6 +2,7 @@
 layout: term
 title: kabine
 slug: kabine
+letter: K
 lisan: Fransızca cabinet
 anlamlar:
 - ► bakanlar kurulu

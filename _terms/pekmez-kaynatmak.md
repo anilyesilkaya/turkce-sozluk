@@ -2,6 +2,7 @@
 layout: term
 title: pekmez kaynatmak
 slug: pekmez-kaynatmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - pekmez yapmak

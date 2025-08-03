@@ -2,6 +2,7 @@
 layout: term
 title: anonim şirket
 slug: anonim-sirket
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► anonim ortaklık

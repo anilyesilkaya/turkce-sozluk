@@ -2,6 +2,7 @@
 layout: term
 title: Hakas
 slug: hakas
+letter: H
 lisan: Türkçe
 anlamlar:
 - Rusya Federasyonu’na bağlı Hakas Özerk Cumhuriyeti’nde yaşayan Türk halkı ve bu halkın soyundan olan kimse

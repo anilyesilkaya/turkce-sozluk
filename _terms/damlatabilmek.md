@@ -2,6 +2,7 @@
 layout: term
 title: damlatabilmek
 slug: damlatabilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Damlatma ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: yüklenme
 slug: yuklenme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yüklenmek işi

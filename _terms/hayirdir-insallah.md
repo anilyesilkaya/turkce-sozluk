@@ -2,6 +2,7 @@
 layout: term
 title: hayırdır inşallah
 slug: hayirdir-insallah
+letter: H
 lisan: Türkçe
 anlamlar:
 - anlatılan bir rüyayı iyiye yormak için kullanılan bir söz

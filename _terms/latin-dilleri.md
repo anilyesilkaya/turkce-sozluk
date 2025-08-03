@@ -2,6 +2,7 @@
 layout: term
 title: Latin dilleri
 slug: latin-dilleri
+letter: L
 lisan: Türkçe
 anlamlar:
 - Latin halkları tarafından konuşulan, Hint-Avrupa dil ailesinin bir kolu

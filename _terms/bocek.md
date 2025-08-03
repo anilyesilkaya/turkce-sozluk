@@ -2,6 +2,7 @@
 layout: term
 title: böcek
 slug: bocek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Eklem bacaklıların, altı bacaklı, çoğu kanatlı ve vücutları baş, göğüs, karın olarak eklemlerden oluşmuş hayvan sınıfı; haşere, böce, böcü

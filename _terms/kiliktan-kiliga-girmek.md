@@ -2,6 +2,7 @@
 layout: term
 title: kılıktan kılığa girmek
 slug: kiliktan-kiliga-girmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - giysi değiştirmek

@@ -2,6 +2,7 @@
 layout: term
 title: yumruklamak
 slug: yumruklamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yumrukla vurmak; sumsuklamak

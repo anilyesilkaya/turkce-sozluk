@@ -2,6 +2,7 @@
 layout: term
 title: keleci
 slug: keleci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Öz veya kusursuz, düzgün söz

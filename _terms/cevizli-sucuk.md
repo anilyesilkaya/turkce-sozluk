@@ -2,6 +2,7 @@
 layout: term
 title: cevizli sucuk
 slug: cevizli-sucuk
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► ceviz sucuğu

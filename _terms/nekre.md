@@ -2,6 +2,7 @@
 layout: term
 title: nekre
 slug: nekre
+letter: N
 lisan: Arapça nekre
 anlamlar:
 - ► nükteci

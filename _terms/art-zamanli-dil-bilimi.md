@@ -2,6 +2,7 @@
 layout: term
 title: art zamanlı dil bilimi
 slug: art-zamanli-dil-bilimi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Dil olaylarını gelişme süreci ve farklı zamanlar açısından inceleyen dil bilimi

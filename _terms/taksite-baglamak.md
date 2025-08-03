@@ -2,6 +2,7 @@
 layout: term
 title: taksite bağlamak
 slug: taksite-baglamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - bir şeyi belli aralıklarla, belli miktarlarda ödeme şartları ile almak veya satmak

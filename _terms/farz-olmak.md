@@ -2,6 +2,7 @@
 layout: term
 title: farz olmak
 slug: farz-olmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - yapılması kaçınılmaz olmak

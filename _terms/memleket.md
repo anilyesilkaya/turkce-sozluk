@@ -2,6 +2,7 @@
 layout: term
 title: memleket
 slug: memleket
+letter: M
 lisan: Arapça memleket
 anlamlar:
 - ► ülke

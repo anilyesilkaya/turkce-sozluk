@@ -2,6 +2,7 @@
 layout: term
 title: örücü
 slug: orucu
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Örme işi yapan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: balıksızlık
 slug: baliksizlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Balıksız olma durumu

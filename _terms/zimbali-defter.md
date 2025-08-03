@@ -2,6 +2,7 @@
 layout: term
 title: zımbalı defter
 slug: zimbali-defter
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Kolay koparılabilmesi için yapraklarının dibi zımbalanmış olan defter

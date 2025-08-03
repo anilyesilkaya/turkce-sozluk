@@ -2,6 +2,7 @@
 layout: term
 title: hatun
 slug: hatun
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► kadın

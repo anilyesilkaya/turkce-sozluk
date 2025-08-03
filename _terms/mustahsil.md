@@ -2,6 +2,7 @@
 layout: term
 title: müstahsil
 slug: mustahsil
+letter: M
 lisan: Arapça mustaḥṣil
 anlamlar:
 - ► üretici

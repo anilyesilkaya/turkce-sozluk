@@ -2,6 +2,7 @@
 layout: term
 title: teşci etmek
 slug: tesci-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - cesaretlendirmek

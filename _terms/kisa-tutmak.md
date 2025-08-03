@@ -2,6 +2,7 @@
 layout: term
 title: kısa tutmak
 slug: kisa-tutmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir şeyi gerektiği kadar uzun yapmamak

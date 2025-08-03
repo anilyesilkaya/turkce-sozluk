@@ -2,6 +2,7 @@
 layout: term
 title: vargı
 slug: vargi
+letter: V
 lisan: Türkçe
 anlamlar:
 - Verilen bir önermeden çıkarsama yoluyla varılan sonuç

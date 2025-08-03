@@ -2,6 +2,7 @@
 layout: term
 title: ana kuzusu
 slug: ana-kuzusu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Pek küçük kucak çocuğu

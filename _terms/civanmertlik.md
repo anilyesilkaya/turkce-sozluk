@@ -2,6 +2,7 @@
 layout: term
 title: civanmertlik
 slug: civanmertlik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Civanmert olma durumu

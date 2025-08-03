@@ -2,6 +2,7 @@
 layout: term
 title: alt çenesinden girip üst çenesinden çıkmak
 slug: alt-cenesinden-girip-ust-cenesinden-cikmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir kimseyi konuşup bunaltarak ikna etmek, istediğini yaptırmak

@@ -2,6 +2,7 @@
 layout: term
 title: özdeştirmek
 slug: ozdestirmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Başka birinin veya bir grubun ölçülerini, beklentilerini benimsemek

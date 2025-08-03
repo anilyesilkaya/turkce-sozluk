@@ -2,6 +2,7 @@
 layout: term
 title: koyu mavi
 slug: koyu-mavi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Mavinin bir veya birkaç ton koyusu; okyanus mavisi

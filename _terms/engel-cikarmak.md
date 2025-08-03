@@ -2,6 +2,7 @@
 layout: term
 title: engel çıkarmak
 slug: engel-cikarmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - bir işin yapılmasını zorlaştırmak

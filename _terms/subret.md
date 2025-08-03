@@ -2,6 +2,7 @@
 layout: term
 title: subret
 slug: subret
+letter: S
 lisan: Fransızca soubrette
 anlamlar:
 - Komedilerde hafifmeşrep genç kadın veya işveli hizmetçi rollerine çıkan kadın oyuncu

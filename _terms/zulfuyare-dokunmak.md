@@ -2,6 +2,7 @@
 layout: term
 title: zülfüyâre dokunmak
 slug: zulfuyare-dokunmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - hatırlı, güçlü bir kimseyi veya bir makamı gücendirmek, darılmasına yol açmak

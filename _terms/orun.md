@@ -2,6 +2,7 @@
 layout: term
 title: orun
 slug: orun
+letter: O
 lisan: Türkçe
 anlamlar:
 - Özel yer

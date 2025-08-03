@@ -2,6 +2,7 @@
 layout: term
 title: açık yeşil
 slug: acik-yesil
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yeşilin bir veya birkaç ton açığı

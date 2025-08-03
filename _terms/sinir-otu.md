@@ -2,6 +2,7 @@
 layout: term
 title: sinir otu
 slug: sinir-otu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sinir otugillerden, çiçekleri tek bir sapın ucunda başak durumunda, birçok yabani türü bulunan ve hekimlikte kullanılan bir bitki (Plantago)

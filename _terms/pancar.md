@@ -2,6 +2,7 @@
 layout: term
 title: pancar
 slug: pancar
+letter: P
 lisan: Türkçe
 anlamlar:
 - Ispanakgillerden, vitamince zengin bir bitki; çükündür (Beta vulgaris)

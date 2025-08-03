@@ -2,6 +2,7 @@
 layout: term
 title: hayat okulu
 slug: hayat-okulu
+letter: H
 lisan: Türkçe
 anlamlar:
 - Yaşanılan çevre ve zamanda karşılaşılan olayların tümü

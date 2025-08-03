@@ -2,6 +2,7 @@
 layout: term
 title: densizce
 slug: densizce
+letter: D
 lisan: Türkçe
 anlamlar:
 - Densize yaraşır

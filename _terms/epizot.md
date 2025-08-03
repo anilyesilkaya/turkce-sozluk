@@ -2,6 +2,7 @@
 layout: term
 title: epizot
 slug: epizot
+letter: E
 lisan: Fransızca épisode
 anlamlar:
 - Bir romandaki veya hikâyedeki olay

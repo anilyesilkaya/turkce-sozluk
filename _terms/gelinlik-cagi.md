@@ -2,6 +2,7 @@
 layout: term
 title: gelinlik çağı
 slug: gelinlik-cagi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Genç kızların evlenme dönemi

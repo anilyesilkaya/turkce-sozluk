@@ -2,6 +2,7 @@
 layout: term
 title: tasarım
 slug: tasarim
+letter: T
 lisan: Türkçe
 anlamlar:
 - Zihinde canlandırılan biçim; tasavvur

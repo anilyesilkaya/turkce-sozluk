@@ -2,6 +2,7 @@
 layout: term
 title: çekişmek
 slug: cekismek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - İki yönünden karşılıklı çekmek

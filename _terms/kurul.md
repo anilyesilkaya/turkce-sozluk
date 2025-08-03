@@ -2,6 +2,7 @@
 layout: term
 title: kurul
 slug: kurul
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir işi yapmak, yönetmek veya bir kurum ve kuruluşu temsil etmek için görevlendirilmiş kişilerden oluşmuş topluluk; heyet, konsey, asamble

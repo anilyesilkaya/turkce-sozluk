@@ -2,6 +2,7 @@
 layout: term
 title: meful
 slug: meful
+letter: M
 lisan: Arapça mefʿūl
 anlamlar:
 - Yapılmış, işlenmiş

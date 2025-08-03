@@ -2,6 +2,7 @@
 layout: term
 title: belgeleme
 slug: belgeleme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belgelemek işi; tevsik

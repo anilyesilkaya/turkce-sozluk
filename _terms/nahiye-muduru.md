@@ -2,6 +2,7 @@
 layout: term
 title: nahiye müdürü
 slug: nahiye-muduru
+letter: N
 lisan: Türkçe
 anlamlar:
 - Bucaktaki en üst görevli

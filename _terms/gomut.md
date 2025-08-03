@@ -2,6 +2,7 @@
 layout: term
 title: gömüt
 slug: gomut
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► mezar

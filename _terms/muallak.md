@@ -2,6 +2,7 @@
 layout: term
 title: muallak
 slug: muallak
+letter: M
 lisan: Arapça muʿallaḳ
 anlamlar:
 - ► asılı

@@ -2,6 +2,7 @@
 layout: term
 title: kardeş
 slug: kardes
+letter: K
 lisan: Türkçe
 anlamlar:
 - Aynı anne babadan doğmuş veya anne babalarından biri aynı olan çocukların birbirine göre adı; karındaş

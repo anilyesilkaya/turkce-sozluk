@@ -2,6 +2,7 @@
 layout: term
 title: ablaklık
 slug: ablaklik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ablak olma durumu

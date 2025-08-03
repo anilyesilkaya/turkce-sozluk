@@ -2,6 +2,7 @@
 layout: term
 title: ağızsız
 slug: agizsiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağzı olmayan

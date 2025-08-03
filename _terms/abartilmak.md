@@ -2,6 +2,7 @@
 layout: term
 title: abartılmak
 slug: abartilmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Abartma işine konu olmak

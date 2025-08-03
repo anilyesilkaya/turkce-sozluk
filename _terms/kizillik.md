@@ -2,6 +2,7 @@
 layout: term
 title: kızıllık
 slug: kizillik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kızıl olma durumu

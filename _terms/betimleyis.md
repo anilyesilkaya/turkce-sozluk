@@ -2,6 +2,7 @@
 layout: term
 title: betimleyiş
 slug: betimleyis
+letter: B
 lisan: Türkçe
 anlamlar:
 - Betimlemek işi

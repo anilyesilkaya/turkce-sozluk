@@ -2,6 +2,7 @@
 layout: term
 title: hamaset
 slug: hamaset
+letter: H
 lisan: Arapça ḥamāset
 anlamlar:
 - Yiğitlik, kahramanlık, cesaret

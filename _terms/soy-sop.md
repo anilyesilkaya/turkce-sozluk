@@ -2,6 +2,7 @@
 layout: term
 title: soy sop
 slug: soy-sop
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bütün soy ve hısımlar; cins cibilliyet, hasep nesep

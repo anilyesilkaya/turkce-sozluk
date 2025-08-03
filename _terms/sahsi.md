@@ -2,6 +2,7 @@
 layout: term
 title: şahsi
 slug: sahsi
+letter: Ş
 lisan: Arapça şaḫṣī
 anlamlar:
 - ► kişisel

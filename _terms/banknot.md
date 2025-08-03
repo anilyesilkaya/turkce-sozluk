@@ -2,6 +2,7 @@
 layout: term
 title: banknot
 slug: banknot
+letter: B
 lisan: Fransızca banquenote
 anlamlar:
 - ► kâğıt para

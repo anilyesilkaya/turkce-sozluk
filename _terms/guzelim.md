@@ -2,6 +2,7 @@
 layout: term
 title: güzelim
 slug: guzelim
+letter: G
 lisan: Türkçe
 anlamlar:
 - çok sevilen kimseye sevecenlikle yaklaşıldığında kullanılan bir söz

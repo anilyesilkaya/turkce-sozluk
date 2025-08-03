@@ -2,6 +2,7 @@
 layout: term
 title: fail
 slug: fail
+letter: F
 lisan: Arapça fāʿil
 anlamlar:
 - Eden, yapan, işleyen

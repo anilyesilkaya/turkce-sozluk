@@ -2,6 +2,7 @@
 layout: term
 title: takiben
 slug: takiben
+letter: T
 lisan: taʿḳīben
 anlamlar:
 - ► ardınca

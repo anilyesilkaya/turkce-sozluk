@@ -2,6 +2,7 @@
 layout: term
 title: musaddak
 slug: musaddak
+letter: M
 lisan: Arapça muṣaddaḳ
 anlamlar:
 - ► onaylı

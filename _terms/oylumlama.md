@@ -2,6 +2,7 @@
 layout: term
 title: oylumlama
 slug: oylumlama
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oylumlamak işi

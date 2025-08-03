@@ -2,6 +2,7 @@
 layout: term
 title: alışmak
 slug: alismak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir işi tekrarlayarak kolaylıkla yapabilmek

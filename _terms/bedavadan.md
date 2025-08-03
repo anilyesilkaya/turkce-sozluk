@@ -2,6 +2,7 @@
 layout: term
 title: bedavadan
 slug: bedavadan
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bedava

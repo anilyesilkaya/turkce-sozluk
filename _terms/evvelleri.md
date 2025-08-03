@@ -2,6 +2,7 @@
 layout: term
 title: evvelleri
 slug: evvelleri
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► önceleri

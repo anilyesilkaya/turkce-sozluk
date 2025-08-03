@@ -2,6 +2,7 @@
 layout: term
 title: sağlıkevi
 slug: saglikevi
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► sağlık ocağı

@@ -2,6 +2,7 @@
 layout: term
 title: ana rahmine düşmek
 slug: ana-rahmine-dusmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - döl yatağında cenin oluşmak

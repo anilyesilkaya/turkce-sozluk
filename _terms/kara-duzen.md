@@ -2,6 +2,7 @@
 layout: term
 title: kara düzen
 slug: kara-duzen
+letter: K
 lisan: Türkçe
 anlamlar:
 - Halk müziğinde bağlama çalış türlerinden biri

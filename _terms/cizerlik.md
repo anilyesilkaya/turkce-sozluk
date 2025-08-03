@@ -2,6 +2,7 @@
 layout: term
 title: çizerlik
 slug: cizerlik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► karikatürcülük

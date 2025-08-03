@@ -2,6 +2,7 @@
 layout: term
 title: rafine
 slug: rafine
+letter: R
 lisan: Fransızca raffiné
 anlamlar:
 - Kristalleştirme, damıtma gibi ayırma yöntemleriyle istenmeyen maddelerden arındırılmış (yağ, petrol vb.)

@@ -2,6 +2,7 @@
 layout: term
 title: mana çıkarmak
 slug: mana-cikarmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - yersiz bir yargıya varmak, yanlış değerlendirmek

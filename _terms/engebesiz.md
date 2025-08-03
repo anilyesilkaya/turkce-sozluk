@@ -2,6 +2,7 @@
 layout: term
 title: engebesiz
 slug: engebesiz
+letter: E
 lisan: Türkçe
 anlamlar:
 - Engebesi olmayan; arızasız

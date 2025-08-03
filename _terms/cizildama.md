@@ -2,6 +2,7 @@
 layout: term
 title: cızıldama
 slug: cizildama
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► cızırdama

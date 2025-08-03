@@ -2,6 +2,7 @@
 layout: term
 title: belediyelik
 slug: belediyelik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belediye olma durumu

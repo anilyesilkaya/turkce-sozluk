@@ -2,6 +2,7 @@
 layout: term
 title: velhasıl
 slug: velhasil
+letter: V
 lisan: Arapça ve'l-ḥāṣil
 anlamlar:
 - ► kısacası

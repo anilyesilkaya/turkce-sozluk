@@ -2,6 +2,7 @@
 layout: term
 title: yıldız taşı
 slug: yildiz-tasi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - İçinde, ışık altında parlayan mika tanecikleri bulunan, sarı esmer renkte bir kuvars türü

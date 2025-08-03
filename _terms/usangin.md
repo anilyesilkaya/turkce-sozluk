@@ -2,6 +2,7 @@
 layout: term
 title: usangın
 slug: usangin
+letter: U
 lisan: Türkçe
 anlamlar:
 - Usanmış

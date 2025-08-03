@@ -2,6 +2,7 @@
 layout: term
 title: parıldama
 slug: parildama
+letter: P
 lisan: Türkçe
 anlamlar:
 - Parıldamak işi; yıldırama

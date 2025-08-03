@@ -2,6 +2,7 @@
 layout: term
 title: vazgeçirmek
 slug: vazgecirmek
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vazgeçme işini yaptırmak

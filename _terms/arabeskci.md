@@ -2,6 +2,7 @@
 layout: term
 title: arabeskçi
 slug: arabeskci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arabesk müzik sanatçısı

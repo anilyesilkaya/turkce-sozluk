@@ -2,6 +2,7 @@
 layout: term
 title: çok yanlı
 slug: cok-yanli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Farklı görüş açılarını içeren

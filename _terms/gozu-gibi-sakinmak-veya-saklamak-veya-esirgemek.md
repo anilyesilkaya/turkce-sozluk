@@ -2,6 +2,7 @@
 layout: term
 title: gözü gibi sakınmak (veya saklamak veya esirgemek)
 slug: gozu-gibi-sakinmak-veya-saklamak-veya-esirgemek
+letter: G
 lisan: Türkçe
 anlamlar:
 - bir şeye aşırı ilgi göstermek, önemle bakıp korumak

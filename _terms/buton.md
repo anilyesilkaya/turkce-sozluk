@@ -2,6 +2,7 @@
 layout: term
 title: buton
 slug: buton
+letter: B
 lisan: Fransızca bouton
 anlamlar:
 - Bazı aletleri çalıştırmaya yarayan düğme

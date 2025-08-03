@@ -2,6 +2,7 @@
 layout: term
 title: batağan
 slug: batagan
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bataklık

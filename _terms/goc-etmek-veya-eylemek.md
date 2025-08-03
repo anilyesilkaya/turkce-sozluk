@@ -2,6 +2,7 @@
 layout: term
 title: göç etmek (veya eylemek)
 slug: goc-etmek-veya-eylemek
+letter: G
 lisan: Türkçe
 anlamlar:
 - oturduğu yerden başka bir yere gidip yerleşmek, göçmek

@@ -2,6 +2,7 @@
 layout: term
 title: saadetli
 slug: saadetli
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► mutlu

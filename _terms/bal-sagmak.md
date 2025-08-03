@@ -2,6 +2,7 @@
 layout: term
 title: bal sağmak
 slug: bal-sagmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - kovandan bal ürünü almak

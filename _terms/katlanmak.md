@@ -2,6 +2,7 @@
 layout: term
 title: katlanmak
 slug: katlanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Katlama işi yapılmak

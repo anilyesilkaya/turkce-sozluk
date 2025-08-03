@@ -2,6 +2,7 @@
 layout: term
 title: sol şerit
 slug: sol-serit
+letter: S
 lisan: Türkçe
 anlamlar:
 - Trafiğin akış yönüne göre yolun sol tarafında yer alan, çizgilerle ayrılmış bölüm

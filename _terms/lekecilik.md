@@ -2,6 +2,7 @@
 layout: term
 title: lekecilik
 slug: lekecilik
+letter: L
 lisan: Türkçe
 anlamlar:
 - Doğa biçimlerini değil, boya biçimlerini değerlendiren ve boya vuruşundan doğan görüntünün, insanın iç coşkusunu anlatmaya yeter olduğunu savunan soyut resim anlayışı; taşizm

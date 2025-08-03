@@ -2,6 +2,7 @@
 layout: term
 title: tebdili şaşmak
 slug: tebdili-sasmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - ne yapacağını bilememek, telaşa kapılmak

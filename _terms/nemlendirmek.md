@@ -2,6 +2,7 @@
 layout: term
 title: nemlendirmek
 slug: nemlendirmek
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nemli duruma getirmek; rutubetlendirmek

@@ -2,6 +2,7 @@
 layout: term
 title: radyografi
 slug: radyografi
+letter: R
 lisan: Fransızca radiographie
 anlamlar:
 - Bir organ veya cismin biçimini X ışınlarından yararlanarak görüntüleme

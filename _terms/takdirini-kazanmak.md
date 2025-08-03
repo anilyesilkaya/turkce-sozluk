@@ -2,6 +2,7 @@
 layout: term
 title: takdirini kazanmak
 slug: takdirini-kazanmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - bir kimse veya bir topluluk tarafından beğenilmek

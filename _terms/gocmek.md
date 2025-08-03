@@ -2,6 +2,7 @@
 layout: term
 title: göçmek
 slug: gocmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Yerleşmek amacıyla mahalle, köy, şehir veya ülke değiştirmek

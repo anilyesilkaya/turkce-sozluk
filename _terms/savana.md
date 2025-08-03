@@ -2,6 +2,7 @@
 layout: term
 title: savana
 slug: savana
+letter: S
 lisan: Fransızca savane
 anlamlar:
 - Ekvator kuşağındaki otsu bitkilerle kaplı çayırlar

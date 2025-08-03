@@ -2,6 +2,7 @@
 layout: term
 title: pof diye
 slug: pof-diye
+letter: P
 lisan: Türkçe
 anlamlar:
 - pof sesi çıkararak

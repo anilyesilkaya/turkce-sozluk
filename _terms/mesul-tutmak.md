@@ -2,6 +2,7 @@
 layout: term
 title: mesul tutmak
 slug: mesul-tutmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - sorumlu görmek

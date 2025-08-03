@@ -2,6 +2,7 @@
 layout: term
 title: taşkın
 slug: taskin
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taşmış bir durumda olan

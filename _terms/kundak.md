@@ -2,6 +2,7 @@
 layout: term
 title: kundak
 slug: kundak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yeni doğmuş çocuğu ilk aylarda sıkıca sarıp sarmalamaya yarayan geniş bez; belek

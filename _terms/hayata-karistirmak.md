@@ -2,6 +2,7 @@
 layout: term
 title: hayata karıştırmak
 slug: hayata-karistirmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - hayatla bağlantısını sağlamak, yaşama sevincini geri kazandırmak

@@ -2,6 +2,7 @@
 layout: term
 title: yıkıntı
 slug: yikinti
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yıkılma

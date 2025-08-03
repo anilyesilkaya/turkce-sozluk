@@ -2,6 +2,7 @@
 layout: term
 title: hayal kırıklığı
 slug: hayal-kirikligi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Çok istenilen veya umulan bir şeyin gerçekleşmeyişinden duyulan üzüntü; inkisarıhayal, sukutuhayal

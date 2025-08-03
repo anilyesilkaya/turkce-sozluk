@@ -2,6 +2,7 @@
 layout: term
 title: kurşunlamak
 slug: kursunlamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kurşunla kaplamak

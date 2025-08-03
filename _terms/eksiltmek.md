@@ -2,6 +2,7 @@
 layout: term
 title: eksiltmek
 slug: eksiltmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eksik duruma getirmek, sayısını azaltmak

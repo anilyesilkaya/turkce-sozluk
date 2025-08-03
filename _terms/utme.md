@@ -2,6 +2,7 @@
 layout: term
 title: ütme
 slug: utme
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Ütmek işi

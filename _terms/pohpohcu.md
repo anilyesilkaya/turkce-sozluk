@@ -2,6 +2,7 @@
 layout: term
 title: pohpohçu
 slug: pohpohcu
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pohpohlamaktan hoşlanan kimse

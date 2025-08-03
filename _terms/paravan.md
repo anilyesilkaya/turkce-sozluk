@@ -2,6 +2,7 @@
 layout: term
 title: paravan
 slug: paravan
+letter: P
 lisan: Fransızca paravent
 anlamlar:
 - Menteşelerle birbirine bağlı birkaç parçadan oluşan ve yapılarda bazı bölümleri ayırmakta kullanılan, katlanır, taşınır çerçeveli perde; paravana

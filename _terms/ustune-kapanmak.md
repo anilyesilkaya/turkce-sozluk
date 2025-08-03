@@ -2,6 +2,7 @@
 layout: term
 title: üstüne kapanmak
 slug: ustune-kapanmak
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - belli bir işi aralıksız bir biçimde yapmak

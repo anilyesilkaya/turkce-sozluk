@@ -2,6 +2,7 @@
 layout: term
 title: tahin helvası
 slug: tahin-helvasi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tahinin şekerle karıştırılmasıyla yapılan bir helva türü

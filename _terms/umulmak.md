@@ -2,6 +2,7 @@
 layout: term
 title: umulmak
 slug: umulmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Umma durumu yaratılmak veya umma durumuna konu olmak

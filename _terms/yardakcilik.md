@@ -2,6 +2,7 @@
 layout: term
 title: yardakçılık
 slug: yardakcilik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yardakçı olma durumu

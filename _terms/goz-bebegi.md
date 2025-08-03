@@ -2,6 +2,7 @@
 layout: term
 title: göz bebeği
 slug: goz-bebegi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gözde irisin ortasında bulunan, ışığın azlığına veya çokluğuna göre büyüyüp küçülen yuvarlak delik; bebek

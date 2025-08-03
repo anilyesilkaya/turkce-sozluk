@@ -2,6 +2,7 @@
 layout: term
 title: güldürü
 slug: gulduru
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güldürme özelliği olan şey

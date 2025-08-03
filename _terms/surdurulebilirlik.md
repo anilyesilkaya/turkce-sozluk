@@ -2,6 +2,7 @@
 layout: term
 title: sürdürülebilirlik
 slug: surdurulebilirlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sürdürülebilir olma durumu

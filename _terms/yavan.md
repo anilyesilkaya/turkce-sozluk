@@ -2,6 +2,7 @@
 layout: term
 title: yavan
 slug: yavan
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yağı az

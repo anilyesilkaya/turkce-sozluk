@@ -2,6 +2,7 @@
 layout: term
 title: yoklatma
 slug: yoklatma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yoklatmak işi

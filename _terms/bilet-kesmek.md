@@ -2,6 +2,7 @@
 layout: term
 title: bilet kesmek
 slug: bilet-kesmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - bileti koparıp alıcıya vermek, bilet satmak

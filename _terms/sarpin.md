@@ -2,6 +2,7 @@
 layout: term
 title: sarpın
 slug: sarpin
+letter: S
 lisan: Rumca
 anlamlar:
 - Tahıl kuyusu, zahire ambarı; silo

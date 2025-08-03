@@ -2,6 +2,7 @@
 layout: term
 title: dam koruğu
 slug: dam-korugu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dam koruğugillerden, bir veya çok yıllık türleri olan, ılık iklimlerde yetişen otsu bir bitki (Sedum)

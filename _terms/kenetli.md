@@ -2,6 +2,7 @@
 layout: term
 title: kenetli
 slug: kenetli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kenedi olan

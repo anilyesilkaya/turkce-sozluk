@@ -2,6 +2,7 @@
 layout: term
 title: hiperboloit
 slug: hiperboloit
+letter: H
 lisan: Fransızca hyperboloïde
 anlamlar:
 - Hiperbole benzeyen

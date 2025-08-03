@@ -2,6 +2,7 @@
 layout: term
 title: hazır
 slug: hazir
+letter: H
 lisan: Arapça ḥāżir
 anlamlar:
 - Bir iş yapmak için gereken her şeyi tamamlamış olan; anık (I), amade, müheyya

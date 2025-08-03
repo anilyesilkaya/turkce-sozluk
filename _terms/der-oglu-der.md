@@ -2,6 +2,7 @@
 layout: term
 title: der oğlu der
 slug: der-oglu-der
+letter: D
 lisan: Türkçe
 anlamlar:
 - bir şeyin sürekli söylendiğini anlatan bir söz

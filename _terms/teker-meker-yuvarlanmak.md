@@ -2,6 +2,7 @@
 layout: term
 title: teker meker yuvarlanmak
 slug: teker-meker-yuvarlanmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - döne döne yuvarlanmak

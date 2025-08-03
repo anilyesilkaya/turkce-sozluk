@@ -2,6 +2,7 @@
 layout: term
 title: işmar etmek (veya geçmek)
 slug: ismar-etmek-veya-gecmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - el, göz veya baş ile işaret etmek

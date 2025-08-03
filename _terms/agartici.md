@@ -2,6 +2,7 @@
 layout: term
 title: ağartıcı
 slug: agartici
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► beyazlatıcı

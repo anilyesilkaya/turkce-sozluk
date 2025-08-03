@@ -2,6 +2,7 @@
 layout: term
 title: basık
 slug: basik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Basılmış, yassılaşmış

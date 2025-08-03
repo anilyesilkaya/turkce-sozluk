@@ -2,6 +2,7 @@
 layout: term
 title: öz yapı
 slug: oz-yapi
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► karakter

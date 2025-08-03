@@ -2,6 +2,7 @@
 layout: term
 title: üzerinde tesir bırakmak
 slug: uzerinde-tesir-birakmak
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - etki bırakmak

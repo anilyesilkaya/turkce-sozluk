@@ -2,6 +2,7 @@
 layout: term
 title: süit
 slug: suit
+letter: S
 lisan: Fransızca suite
 anlamlar:
 - Aynı tonda yazılmış şarkı biçimindeki dans müziği

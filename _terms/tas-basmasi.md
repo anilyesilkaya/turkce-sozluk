@@ -2,6 +2,7 @@
 layout: term
 title: taş basması
 slug: tas-basmasi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Kalkerli taş yüzeyine sert bir cisimle kazındıktan sonra basılmış olan yazı, resim; taş baskı, litografya

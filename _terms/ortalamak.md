@@ -2,6 +2,7 @@
 layout: term
 title: ortalamak
 slug: ortalamak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Ortasını bulmak, ortasına varmak

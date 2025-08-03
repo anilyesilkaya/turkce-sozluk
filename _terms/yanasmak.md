@@ -2,6 +2,7 @@
 layout: term
 title: yanaşmak
 slug: yanasmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir şeyin, bir kimsenin yanına gelmek

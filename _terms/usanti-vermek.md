@@ -2,6 +2,7 @@
 layout: term
 title: usantı vermek
 slug: usanti-vermek
+letter: U
 lisan: Türkçe
 anlamlar:
 - usandırmak

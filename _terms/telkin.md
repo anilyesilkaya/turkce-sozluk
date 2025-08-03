@@ -2,6 +2,7 @@
 layout: term
 title: telkin
 slug: telkin
+letter: T
 lisan: Arapça telḳīn
 anlamlar:
 - Bir duyguyu, bir düşünceyi aşılama

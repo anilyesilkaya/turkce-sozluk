@@ -2,6 +2,7 @@
 layout: term
 title: gazve
 slug: gazve
+letter: G
 lisan: Arapça ġazve
 anlamlar:
 - Arap aşiretleri arasında yapılan savaş

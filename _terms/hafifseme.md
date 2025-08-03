@@ -2,6 +2,7 @@
 layout: term
 title: hafifseme
 slug: hafifseme
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hafifsemek işi; yeğnileme, yeğniseme, istihfaf

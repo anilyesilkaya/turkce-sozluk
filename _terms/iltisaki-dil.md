@@ -2,6 +2,7 @@
 layout: term
 title: iltisaki dil
 slug: iltisaki-dil
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► bitişken dil

@@ -2,6 +2,7 @@
 layout: term
 title: avurdu avurduna geçmek
 slug: avurdu-avurduna-gecmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - çok zayıflamak

@@ -2,6 +2,7 @@
 layout: term
 title: döşek
 slug: dosek
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► yatak

@@ -2,6 +2,7 @@
 layout: term
 title: muhakeme
 slug: muhakeme
+letter: M
 lisan: Arapça muḥākeme
 anlamlar:
 - ► yargılama

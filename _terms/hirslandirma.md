@@ -2,6 +2,7 @@
 layout: term
 title: hırslandırma
 slug: hirslandirma
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hırslandırmak işi

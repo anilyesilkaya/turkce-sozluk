@@ -2,6 +2,7 @@
 layout: term
 title: mantık dışı
 slug: mantik-disi
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mantıkla hiçbir ilgisi olmayan, mantığa uymayan

@@ -2,6 +2,7 @@
 layout: term
 title: maymuncuk
 slug: maymuncuk
+letter: M
 lisan: Türkçe
 anlamlar:
 - Küçük maymun

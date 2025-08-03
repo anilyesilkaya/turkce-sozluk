@@ -2,6 +2,7 @@
 layout: term
 title: sıkıntı
 slug: sikinti
+letter: S
 lisan: Türkçe
 anlamlar:
 - İşsizlik, tekdüzelik, bezginlik vb. sebeplerden doğan ruhsal huzursuzluk; bun, bungunluk, ezgi, ezginlik, çile (I), dert, kasavet, zor

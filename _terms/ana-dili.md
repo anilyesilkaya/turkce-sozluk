@@ -2,6 +2,7 @@
 layout: term
 title: ana dili
 slug: ana-dili
+letter: A
 lisan: Türkçe
 anlamlar:
 - Çocuğun ailesinden veya içinde yaşadığı topluluktan edindiği dil

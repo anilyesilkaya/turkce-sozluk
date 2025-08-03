@@ -2,6 +2,7 @@
 layout: term
 title: akıl hocalığı taslamak
 slug: akil-hocaligi-taslamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir işte doğruyu, iyi olanı gösterdiğini sanmak

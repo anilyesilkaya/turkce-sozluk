@@ -2,6 +2,7 @@
 layout: term
 title: karabina
 slug: karabina
+letter: K
 lisan: İtalyanca carabina
 anlamlar:
 - Namlusu genellikle yivli, kısa ve hafif bir tüfek

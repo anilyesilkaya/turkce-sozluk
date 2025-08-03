@@ -2,6 +2,7 @@
 layout: term
 title: hafiflemek
 slug: hafiflemek
+letter: H
 lisan: Türkçe
 anlamlar:
 - Herhangi bir sebeple eski ağırlığı azalmak; yeğnilmek

@@ -2,6 +2,7 @@
 layout: term
 title: tezkire
 slug: tezkire
+letter: T
 lisan: Arapça teẕkire
 anlamlar:
 - ► şuara tezkiresi

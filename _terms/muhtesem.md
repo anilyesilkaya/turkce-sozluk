@@ -2,6 +2,7 @@
 layout: term
 title: muhteşem
 slug: muhtesem
+letter: M
 lisan: Arapça muḥteşem
 anlamlar:
 - ► görkemli

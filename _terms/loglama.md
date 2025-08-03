@@ -2,6 +2,7 @@
 layout: term
 title: loğlama
 slug: loglama
+letter: L
 lisan: Türkçe
 anlamlar:
 - Loğlamak işi

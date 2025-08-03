@@ -2,6 +2,7 @@
 layout: term
 title: kısık
 slug: kisik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kısılmış olan; basık

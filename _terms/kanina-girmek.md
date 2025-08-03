@@ -2,6 +2,7 @@
 layout: term
 title: kanına girmek
 slug: kanina-girmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - birini aklında olmayan veya istemediği bir düşünceye, davranışa yönlendirmek

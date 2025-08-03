@@ -2,6 +2,7 @@
 layout: term
 title: tüneklemek
 slug: tuneklemek
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► tünemek

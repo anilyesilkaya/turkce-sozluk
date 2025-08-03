@@ -2,6 +2,7 @@
 layout: term
 title: hırtı pırtı
 slug: hirti-pirti
+letter: H
 lisan: Türkçe
 anlamlar:
 - Eski püskü veya işe yaramaz, değersiz eşya

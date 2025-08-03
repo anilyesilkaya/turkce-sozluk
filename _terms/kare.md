@@ -2,6 +2,7 @@
 layout: term
 title: kare
 slug: kare
+letter: K
 lisan: Fransızca carré
 anlamlar:
 - Kenarları ve açıları birbirine eşit olan dörtgen; dördül, murabba (I)

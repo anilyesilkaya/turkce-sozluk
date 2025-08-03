@@ -2,6 +2,7 @@
 layout: term
 title: '... yaşını sürmek'
 slug: yasini-surmek
+letter: .
 lisan: Türkçe
 anlamlar:
 - '... yaşında olmak'

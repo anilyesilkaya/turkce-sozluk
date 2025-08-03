@@ -2,6 +2,7 @@
 layout: term
 title: borç
 slug: borc
+letter: B
 lisan: Soğdca
 anlamlar:
 - Geri verilmek üzere alınan veya ödenmesi gerekli para veya başka bir şey; takanak, verecek

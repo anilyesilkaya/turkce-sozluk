@@ -2,6 +2,7 @@
 layout: term
 title: taktik vermek
 slug: taktik-vermek
+letter: T
 lisan: Türkçe
 anlamlar:
 - çeşitli sorunlarda sonuca ulaşmak için yol ve yöntem göstermek

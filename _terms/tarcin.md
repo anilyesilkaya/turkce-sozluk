@@ -2,6 +2,7 @@
 layout: term
 title: tarçın
 slug: tarcin
+letter: T
 lisan: Farsça dārçīn
 anlamlar:
 - Defnegillerden, genellikle Asya'nın güneyinde yetişen ve değişik türleri bulunan bir ağaç (Cinnamomum)

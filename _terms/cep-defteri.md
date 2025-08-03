@@ -2,6 +2,7 @@
 layout: term
 title: cep defteri
 slug: cep-defteri
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cebe sığabilecek büyüklükteki defter

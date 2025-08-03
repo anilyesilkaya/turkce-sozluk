@@ -2,6 +2,7 @@
 layout: term
 title: onarılmak
 slug: onarilmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Onarma işine konu olmak, onarma işi yapılmak

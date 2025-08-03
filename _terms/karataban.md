@@ -2,6 +2,7 @@
 layout: term
 title: karataban
 slug: karataban
+letter: K
 lisan: Türkçe
 anlamlar:
 - İpek böceklerinde geniş çapta ölüme yol açan kelebek hastalığı

@@ -2,6 +2,7 @@
 layout: term
 title: Japon gülü
 slug: japon-gulu
+letter: J
 lisan: Türkçe
 anlamlar:
 - ► kamelya

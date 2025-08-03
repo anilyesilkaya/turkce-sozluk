@@ -2,6 +2,7 @@
 layout: term
 title: çilesi dolmak
 slug: cilesi-dolmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - üzücü ve sıkıntılı bir durumdan kurtulmak

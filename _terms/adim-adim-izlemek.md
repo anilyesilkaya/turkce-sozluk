@@ -2,6 +2,7 @@
 layout: term
 title: adım adım izlemek
 slug: adim-adim-izlemek
+letter: A
 lisan: Türkçe
 anlamlar:
 - zaman içinde aşama aşama izlemek

@@ -2,6 +2,7 @@
 layout: term
 title: uyku sersemi
 slug: uyku-sersemi
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyku sersemliği olan (kimse); uyku semesi

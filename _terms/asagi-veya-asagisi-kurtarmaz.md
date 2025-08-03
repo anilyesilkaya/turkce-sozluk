@@ -2,6 +2,7 @@
 layout: term
 title: aşağı (veya aşağısı) kurtarmaz
 slug: asagi-veya-asagisi-kurtarmaz
+letter: A
 lisan: Türkçe
 anlamlar:
 - '"bundan daha ucuza olmaz" anlamında kullanılan bir söz'

@@ -2,6 +2,7 @@
 layout: term
 title: 'kimsesizlerevi '
 slug: kimsesizlerevi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sokakta yaşamak zorunda kalıp barınma imkânı olmayan kişilerin temel ihtiyaçlarını karşılayan devlet kurumu

@@ -2,6 +2,7 @@
 layout: term
 title: borç etmek (veya yapmak)
 slug: borc-etmek-veya-yapmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - borçlanmak

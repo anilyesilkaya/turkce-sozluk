@@ -2,6 +2,7 @@
 layout: term
 title: baltalı
 slug: baltali
+letter: B
 lisan: Türkçe
 anlamlar:
 - Baltası olan

@@ -2,6 +2,7 @@
 layout: term
 title: süpürülmek
 slug: supurulmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Süpürme işi yapılmak

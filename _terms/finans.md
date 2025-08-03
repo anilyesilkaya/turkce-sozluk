@@ -2,6 +2,7 @@
 layout: term
 title: finans
 slug: finans
+letter: F
 lisan: Fransızca finance
 anlamlar:
 - Para ve para ile ilgili araçları, değerleri konu edinen iş alanı

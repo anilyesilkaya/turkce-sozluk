@@ -2,6 +2,7 @@
 layout: term
 title: ayşekadın
 slug: aysekadin
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kılçıksız, lezzetli bir taze fasulye türü

@@ -2,6 +2,7 @@
 layout: term
 title: dalgınlaşmak
 slug: dalginlasmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dalgın duruma gelmek

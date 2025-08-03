@@ -2,6 +2,7 @@
 layout: term
 title: düşkünlük
 slug: duskunluk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düşkün olma durumu; iptila, nikbet, tiryakilik, zaaf

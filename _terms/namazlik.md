@@ -2,6 +2,7 @@
 layout: term
 title: namazlık
 slug: namazlik
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► seccade

@@ -2,6 +2,7 @@
 layout: term
 title: hasta
 slug: hasta
+letter: H
 lisan: Farsça ḫaste
 anlamlar:
 - Hastalık, kaza veya yaralanma dolayısıyla fizik veya ruh sağlığı bozulmuş ve tedavi edilmesi gereken (kimse, hayvan, organ); rahatsız, sayrı, sökel, alil, pestil

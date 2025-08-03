@@ -2,6 +2,7 @@
 layout: term
 title: çarpılan
 slug: carpilan
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir çarpma işleminde önce yazılan ve tekrarlanan sayı; madrup

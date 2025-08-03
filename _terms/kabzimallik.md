@@ -2,6 +2,7 @@
 layout: term
 title: kabzımallık
 slug: kabzimallik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kabzımal olma durumu; sebze meyve toptancılığı

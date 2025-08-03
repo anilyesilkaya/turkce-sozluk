@@ -2,6 +2,7 @@
 layout: term
 title: başörtüsü
 slug: basortusu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kadınların saçlarını örtmek için kullandıkları örtü; başörtü, bürgü, örtme, leçek

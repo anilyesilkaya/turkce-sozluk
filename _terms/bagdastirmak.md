@@ -2,6 +2,7 @@
 layout: term
 title: bağdaştırmak
 slug: bagdastirmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağdaşmasını sağlamak; eklemlemek

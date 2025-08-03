@@ -2,6 +2,7 @@
 layout: term
 title: tamtam
 slug: tamtam
+letter: T
 lisan: Türkçe
 anlamlar:
 - Orkestrada yer alan bir tür Çin gongu

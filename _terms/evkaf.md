@@ -2,6 +2,7 @@
 layout: term
 title: evkaf
 slug: evkaf
+letter: E
 lisan: Arapça evḳāf
 anlamlar:
 - Vakıflar

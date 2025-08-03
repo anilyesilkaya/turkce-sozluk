@@ -2,6 +2,7 @@
 layout: term
 title: Mehmetçik
 slug: mehmetcik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Türk askerine sevgi duygusu ile verilen ad

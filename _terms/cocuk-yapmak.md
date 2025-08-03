@@ -2,6 +2,7 @@
 layout: term
 title: çocuk yapmak
 slug: cocuk-yapmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - isteyerek çocuğu olmak

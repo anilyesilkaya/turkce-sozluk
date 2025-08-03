@@ -2,6 +2,7 @@
 layout: term
 title: cazibesiz
 slug: cazibesiz
+letter: C
 lisan: Türkçe
 anlamlar:
 - Çekici olmayan

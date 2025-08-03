@@ -2,6 +2,7 @@
 layout: term
 title: tınlama
 slug: tinlama
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tınlamak işi; tanin

@@ -2,6 +2,7 @@
 layout: term
 title: liberal
 slug: liberal
+letter: L
 lisan: Fransızca libéral
 anlamlar:
 - Serbest ekonomiden yana olan (kimse, parti vb.); liberalist

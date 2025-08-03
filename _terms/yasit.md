@@ -2,6 +2,7 @@
 layout: term
 title: yaşıt
 slug: yasit
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Aynı yaşta olan kimselerden her biri; emsal

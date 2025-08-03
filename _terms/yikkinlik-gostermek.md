@@ -2,6 +2,7 @@
 layout: term
 title: yıkkınlık göstermek
 slug: yikkinlik-gostermek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yıkılmaya yüz tutmak

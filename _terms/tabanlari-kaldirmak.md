@@ -2,6 +2,7 @@
 layout: term
 title: tabanları kaldırmak
 slug: tabanlari-kaldirmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - koşarak kaçmak

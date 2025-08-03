@@ -2,6 +2,7 @@
 layout: term
 title: çoğaltmak
 slug: cogaltmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Miktarını, sayısını, ölçüsünü artırmak; çoğullaştırmak, çoklaştırmak, fazlalaştırmak, ziyadeleştirmek

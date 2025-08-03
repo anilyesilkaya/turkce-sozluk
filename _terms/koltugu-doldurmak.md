@@ -2,6 +2,7 @@
 layout: term
 title: koltuğu doldurmak
 slug: koltugu-doldurmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - aldığı görevi tam olarak başarabilecek yetenekte bulunmak

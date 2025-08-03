@@ -2,6 +2,7 @@
 layout: term
 title: horoz vakti
 slug: horoz-vakti
+letter: H
 lisan: Türkçe
 anlamlar:
 - Horozların ötmeye başladığı, günün ilk ışıklarının çıktığı zaman

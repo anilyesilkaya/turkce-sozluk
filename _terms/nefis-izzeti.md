@@ -2,6 +2,7 @@
 layout: term
 title: nefis izzeti
 slug: nefis-izzeti
+letter: N
 lisan: Türkçe
 anlamlar:
 - Kişinin öz saygısı, kişiliği, yüceliği, onuru, izzetinefis

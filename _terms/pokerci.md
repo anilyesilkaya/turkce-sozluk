@@ -2,6 +2,7 @@
 layout: term
 title: pokerci
 slug: pokerci
+letter: P
 lisan: Türkçe
 anlamlar:
 - Poker oynayan kimse

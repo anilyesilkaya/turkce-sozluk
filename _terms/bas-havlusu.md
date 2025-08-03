@@ -2,6 +2,7 @@
 layout: term
 title: baş havlusu
 slug: bas-havlusu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Banyodan sonra saçı kurulamak için kullanılan havlu

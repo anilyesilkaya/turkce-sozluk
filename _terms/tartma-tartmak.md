@@ -2,6 +2,7 @@
 layout: term
 title: tartma tartmak
 slug: tartma-tartmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - başörtüsü takmak

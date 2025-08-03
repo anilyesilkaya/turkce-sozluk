@@ -2,6 +2,7 @@
 layout: term
 title: rakibe
 slug: rakibe
+letter: R
 lisan: Arapça raḳībe
 anlamlar:
 - Kadın rakip

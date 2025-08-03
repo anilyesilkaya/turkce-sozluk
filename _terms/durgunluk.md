@@ -2,6 +2,7 @@
 layout: term
 title: durgunluk
 slug: durgunluk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Durgun olma durumu; duraklık, nekahet

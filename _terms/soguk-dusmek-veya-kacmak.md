@@ -2,6 +2,7 @@
 layout: term
 title: soğuk düşmek (veya kaçmak)
 slug: soguk-dusmek-veya-kacmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - söz, davranış vb. yersiz ve sevimsiz olmak

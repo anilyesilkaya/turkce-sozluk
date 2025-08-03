@@ -2,6 +2,7 @@
 layout: term
 title: büluğa ermek
 slug: buluga-ermek
+letter: B
 lisan: Türkçe
 anlamlar:
 - ergenleşmek

@@ -2,6 +2,7 @@
 layout: term
 title: murat etmek
 slug: murat-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - dilemek, istemek

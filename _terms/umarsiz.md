@@ -2,6 +2,7 @@
 layout: term
 title: umarsız
 slug: umarsiz
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► çaresiz

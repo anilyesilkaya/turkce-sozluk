@@ -2,6 +2,7 @@
 layout: term
 title: yanına kâr kalmak
 slug: yanina-kar-kalmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - cezasız kalmak

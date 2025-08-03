@@ -2,6 +2,7 @@
 layout: term
 title: sirayet
 slug: sirayet
+letter: S
 lisan: Arapça sirāyet
 anlamlar:
 - Hastalık başkalarına geçme, bulaşma

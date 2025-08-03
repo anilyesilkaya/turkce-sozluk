@@ -2,6 +2,7 @@
 layout: term
 title: affettirmek
 slug: affettirmek
+letter: A
 lisan: Arapça ʿafv + Türkçe ettirmek
 anlamlar:
 - ► bağışlatmak

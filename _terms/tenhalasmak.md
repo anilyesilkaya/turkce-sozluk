@@ -2,6 +2,7 @@
 layout: term
 title: tenhalaşmak
 slug: tenhalasmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Yalnız kalmak

@@ -2,6 +2,7 @@
 layout: term
 title: midesi bulanmak
 slug: midesi-bulanmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - kusacak gibi olmak

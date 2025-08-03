@@ -2,6 +2,7 @@
 layout: term
 title: örneğin
 slug: ornegin
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► söz gelişi

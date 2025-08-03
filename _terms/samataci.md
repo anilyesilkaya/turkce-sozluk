@@ -2,6 +2,7 @@
 layout: term
 title: şamatacı
 slug: samataci
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Gürültü patırtı yapan

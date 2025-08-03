@@ -2,6 +2,7 @@
 layout: term
 title: sözsüz
 slug: sozsuz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Konuşmadan yapılan; kelimesiz

@@ -2,6 +2,7 @@
 layout: term
 title: susturulmak
 slug: susturulmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Susması sağlanmak, konuşması önlenmek

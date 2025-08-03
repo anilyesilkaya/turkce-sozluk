@@ -2,6 +2,7 @@
 layout: term
 title: tebdilimekânda ferahlık vardır
 slug: tebdilimekanda-ferahlik-vardir
+letter: T
 lisan: Türkçe
 anlamlar:
 - sağlık veya görev değişikliği nedeniyle bir yerden başka bir yere giderek huzur sağlanacağını bildiren bir söz

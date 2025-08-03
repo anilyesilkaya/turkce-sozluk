@@ -2,6 +2,7 @@
 layout: term
 title: haber merkezi
 slug: haber-merkezi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Bir yayın organının haberleri derleyip toparlamak ve değerlendirmekle sorumlu ve yükümlü haber birimi

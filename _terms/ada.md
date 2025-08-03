@@ -2,6 +2,7 @@
 layout: term
 title: ada
 slug: ada
+letter: A
 lisan: Türkçe
 anlamlar:
 - Deniz veya göl suları ile çevrili kara parçası; cezire

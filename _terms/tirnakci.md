@@ -2,6 +2,7 @@
 layout: term
 title: tırnakçı
 slug: tirnakci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Para bozdurmak için gelerek kasadaki veya tezgâh üzerindeki parayı çalan kimse

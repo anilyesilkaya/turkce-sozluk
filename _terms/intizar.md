@@ -2,6 +2,7 @@
 layout: term
 title: intizar
 slug: intizar
+letter: I
 lisan: Arapça intiẓār
 anlamlar:
 - Birinin gelmesini, bir şeyin olmasını bekleme, gözleme

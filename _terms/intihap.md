@@ -2,6 +2,7 @@
 layout: term
 title: intihap
 slug: intihap
+letter: I
 lisan: Arapça intiḫāb
 anlamlar:
 - ► seçme

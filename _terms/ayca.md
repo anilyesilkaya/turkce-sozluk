@@ -2,6 +2,7 @@
 layout: term
 title: ayça
 slug: ayca
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► hilal

@@ -2,6 +2,7 @@
 layout: term
 title: bağırsak gazı
 slug: bagirsak-gazi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Yemek yerken yutulan havadan veya besinlerin sindirimi sırasında açığa çıkan gazlardan oluşan ve bağırsaklarda biriken uçucu madde

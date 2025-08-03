@@ -2,6 +2,7 @@
 layout: term
 title: zarafet
 slug: zarafet
+letter: Z
 lisan: Arapça ẓarāfet
 anlamlar:
 - ► zariflik

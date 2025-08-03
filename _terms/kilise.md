@@ -2,6 +2,7 @@
 layout: term
 title: kilise
 slug: kilise
+letter: K
 lisan: Rumca
 anlamlar:
 - Hristiyanların ibadet etmek için toplandıkları yer

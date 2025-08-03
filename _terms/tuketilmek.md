@@ -2,6 +2,7 @@
 layout: term
 title: tüketilmek
 slug: tuketilmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tüketme işi yapılmak

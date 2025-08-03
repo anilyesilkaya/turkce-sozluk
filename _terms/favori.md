@@ -2,6 +2,7 @@
 layout: term
 title: favori
 slug: favori
+letter: F
 lisan: Fransızca favori
 anlamlar:
 - Herhangi bir iş veya yarışmada üstünlük sağlayacağına inanılan (kimse, taraf, takım vb.)

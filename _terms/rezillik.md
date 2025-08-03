@@ -2,6 +2,7 @@
 layout: term
 title: rezillik
 slug: rezillik
+letter: R
 lisan: Türkçe
 anlamlar:
 - Toplumun duygularını inciten olay veya durum; rezalet

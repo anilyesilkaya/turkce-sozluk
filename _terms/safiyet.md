@@ -2,6 +2,7 @@
 layout: term
 title: safiyet
 slug: safiyet
+letter: S
 lisan: Arapça ṣāfiyyet
 anlamlar:
 - ► saflık

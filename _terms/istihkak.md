@@ -2,6 +2,7 @@
 layout: term
 title: istihkak
 slug: istihkak
+letter: I
 lisan: Arapça istiḥḳāḳ
 anlamlar:
 - Hakkı olma, hak kazanma

@@ -2,6 +2,7 @@
 layout: term
 title: mevzi
 slug: mevzi
+letter: M
 lisan: Arapça mevżiʿ
 anlamlar:
 - ► yer

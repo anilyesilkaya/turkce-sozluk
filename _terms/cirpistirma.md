@@ -2,6 +2,7 @@
 layout: term
 title: çırpıştırma
 slug: cirpistirma
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çırpıştırmak işi

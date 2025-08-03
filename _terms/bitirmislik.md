@@ -2,6 +2,7 @@
 layout: term
 title: bitirmişlik
 slug: bitirmislik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bitirmiş olma durumu

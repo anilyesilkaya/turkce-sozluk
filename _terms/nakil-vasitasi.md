@@ -2,6 +2,7 @@
 layout: term
 title: nakil vasıtası
 slug: nakil-vasitasi
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► taşıt

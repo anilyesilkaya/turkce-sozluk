@@ -2,6 +2,7 @@
 layout: term
 title: dinsizlik
 slug: dinsizlik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dinsiz olma durumu

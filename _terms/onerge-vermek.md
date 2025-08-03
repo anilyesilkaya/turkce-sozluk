@@ -2,6 +2,7 @@
 layout: term
 title: önerge vermek
 slug: onerge-vermek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - bu tür bir yazıyı ilgili meclis veya kongre başkanlığına sunmak, takrir vermek

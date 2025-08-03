@@ -2,6 +2,7 @@
 layout: term
 title: meteoroloji istasyonu
 slug: meteoroloji-istasyonu
+letter: M
 lisan: Türkçe
 anlamlar:
 - Hava kürede sık sık görülen değişiklikleri inceleyen ve ölçen gözlemevi

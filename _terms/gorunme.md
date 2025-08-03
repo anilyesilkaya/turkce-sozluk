@@ -2,6 +2,7 @@
 layout: term
 title: görünme
 slug: gorunme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Görünmek işi; teberrüz

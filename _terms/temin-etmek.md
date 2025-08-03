@@ -2,6 +2,7 @@
 layout: term
 title: temin etmek
 slug: temin-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - korkusunu gidermek, güven vermek

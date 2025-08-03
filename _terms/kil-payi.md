@@ -2,6 +2,7 @@
 layout: term
 title: kıl payı
 slug: kil-payi
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► neredeyse

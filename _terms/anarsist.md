@@ -2,6 +2,7 @@
 layout: term
 title: anarşist
 slug: anarsist
+letter: A
 lisan: Fransızca anarchiste
 anlamlar:
 - Anarşi çıkaran, düzene karşı gelen, kargaşalık yaratan kimse

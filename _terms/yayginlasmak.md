@@ -2,6 +2,7 @@
 layout: term
 title: yaygınlaşmak
 slug: yayginlasmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaygın duruma gelmek, yayılmak

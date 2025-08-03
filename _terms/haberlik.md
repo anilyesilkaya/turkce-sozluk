@@ -2,6 +2,7 @@
 layout: term
 title: haberlik
 slug: haberlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Haber durumunda olan

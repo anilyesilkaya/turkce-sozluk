@@ -2,6 +2,7 @@
 layout: term
 title: yandaş
 slug: yandas
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Birinden yana olan veya bir düşünceye, bir isteğe katılan, onu destekleyen kimse; yanlı, tarafçı, taraflı, taraftar

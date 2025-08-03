@@ -2,6 +2,7 @@
 layout: term
 title: ciğerli
 slug: cigerli
+letter: C
 lisan: Türkçe
 anlamlar:
 - İçerisinde ciğer bulunan

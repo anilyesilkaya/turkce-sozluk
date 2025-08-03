@@ -2,6 +2,7 @@
 layout: term
 title: cadalozluk
 slug: cadalozluk
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cadaloz olma durumu

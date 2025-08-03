@@ -2,6 +2,7 @@
 layout: term
 title: hilkaten
 slug: hilkaten
+letter: H
 lisan: Arapça ḫilḳaten
 anlamlar:
 - ► yaradılışça

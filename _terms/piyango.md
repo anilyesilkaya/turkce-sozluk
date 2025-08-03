@@ -2,6 +2,7 @@
 layout: term
 title: piyango
 slug: piyango
+letter: P
 lisan: İtalyanca bianco
 anlamlar:
 - Düzenleyenlerce bastırılmış numaralı kâğıtları satın alanlar içinden, kazananların kura ile belirlendiği talih oyunu

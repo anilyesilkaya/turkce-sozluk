@@ -2,6 +2,7 @@
 layout: term
 title: yeter
 slug: yeter
+letter: Y
 lisan: Türkçe
 anlamlar:
 - İhtiyacı karşılayacak kadar, yetecek ölçüde olan; kâfi

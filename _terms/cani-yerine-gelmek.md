@@ -2,6 +2,7 @@
 layout: term
 title: canı yerine gelmek
 slug: cani-yerine-gelmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - yorgunluğu geçmek

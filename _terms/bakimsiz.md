@@ -2,6 +2,7 @@
 layout: term
 title: bakımsız
 slug: bakimsiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Özen gösterilmemiş, bakılmamış

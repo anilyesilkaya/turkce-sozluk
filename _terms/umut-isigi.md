@@ -2,6 +2,7 @@
 layout: term
 title: umut ışığı
 slug: umut-isigi
+letter: U
 lisan: Türkçe
 anlamlar:
 - Umutlandırıcı belirti

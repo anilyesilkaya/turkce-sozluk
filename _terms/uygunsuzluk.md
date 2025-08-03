@@ -2,6 +2,7 @@
 layout: term
 title: uygunsuzluk
 slug: uygunsuzluk
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► yakışıksızlık

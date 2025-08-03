@@ -2,6 +2,7 @@
 layout: term
 title: insan
 slug: insan
+letter: I
 lisan: Arapça insān
 anlamlar:
 - Toplum hâlinde bir kültür çevresinde yaşayan, düşünme ve konuşma yeteneği olan, evreni bütün olarak kavrayabilen, bulguları sonucunda değiştirebilen ve biçimlendirebilen canlı; adam, âdem, âdemoğlu, insanoğlu, kişioğlu, beniâdem, benibeşer, fâni, in (II)

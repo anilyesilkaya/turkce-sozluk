@@ -2,6 +2,7 @@
 layout: term
 title: 'Oğuz Türkçesi '
 slug: oguz-turkcesi
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oğuz Türklerinin kullandığı konuşma ve yazı dili; Oğuzca, Batı Türkçesi

@@ -2,6 +2,7 @@
 layout: term
 title: bayramlık ad
 slug: bayramlik-ad
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başkaları tarafından takılan kötü ad

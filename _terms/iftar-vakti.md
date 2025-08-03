@@ -2,6 +2,7 @@
 layout: term
 title: iftar vakti
 slug: iftar-vakti
+letter: I
 lisan: Türkçe
 anlamlar:
 - Ramazanda oruç açma zamanı; iftar, iftar zamanı

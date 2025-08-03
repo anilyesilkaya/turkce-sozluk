@@ -2,6 +2,7 @@
 layout: term
 title: açıklama
 slug: aciklama
+letter: A
 lisan: Türkçe
 anlamlar:
 - Açıklamak işi; izah, tavzih

@@ -2,6 +2,7 @@
 layout: term
 title: türbülans
 slug: turbulans
+letter: T
 lisan: Fransızca turbulence
 anlamlar:
 - ► burgaç

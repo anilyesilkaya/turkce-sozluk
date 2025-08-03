@@ -2,6 +2,7 @@
 layout: term
 title: gözyaşına boğulmak
 slug: gozyasina-bogulmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - çok ağlamak

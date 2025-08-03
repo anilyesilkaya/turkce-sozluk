@@ -2,6 +2,7 @@
 layout: term
 title: çekiştirme
 slug: cekistirme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çekiştirmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: kredi
 slug: kredi
+letter: K
 lisan: Fransızca crédit
 anlamlar:
 - Borç ödemede güvenilir olma durumu

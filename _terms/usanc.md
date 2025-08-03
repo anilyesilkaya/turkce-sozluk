@@ -2,6 +2,7 @@
 layout: term
 title: usanç
 slug: usanc
+letter: U
 lisan: Türkçe
 anlamlar:
 - Usanma duygusu; melal

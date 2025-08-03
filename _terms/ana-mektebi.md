@@ -2,6 +2,7 @@
 layout: term
 title: ana mektebi
 slug: ana-mektebi
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► anaokulu

@@ -2,6 +2,7 @@
 layout: term
 title: Allah övmüş de yaratmış
 slug: allah-ovmus-de-yaratmis
+letter: A
 lisan: Türkçe
 anlamlar:
 - çok güzel olanlar için söylenen bir söz

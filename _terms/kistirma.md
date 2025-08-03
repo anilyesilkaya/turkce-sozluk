@@ -2,6 +2,7 @@
 layout: term
 title: kıstırma
 slug: kistirma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kıstırmak işi

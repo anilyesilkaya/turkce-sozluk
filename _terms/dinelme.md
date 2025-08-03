@@ -2,6 +2,7 @@
 layout: term
 title: dinelme
 slug: dinelme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dinelmek işi

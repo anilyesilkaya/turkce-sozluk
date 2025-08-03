@@ -2,6 +2,7 @@
 layout: term
 title: mortocu
 slug: mortocu
+letter: M
 lisan: Türkçe
 anlamlar:
 - Hristiyanlarda cenaze taşımak için tutulan kimse

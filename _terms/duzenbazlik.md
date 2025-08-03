@@ -2,6 +2,7 @@
 layout: term
 title: düzenbazlık
 slug: duzenbazlik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düzenbaz olma durumu; entrikacılık, dessaslık, dubaracılık

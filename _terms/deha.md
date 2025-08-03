@@ -2,6 +2,7 @@
 layout: term
 title: deha
 slug: deha
+letter: D
 lisan: Arapça dehā
 anlamlar:
 - İnsan zekâsının, insan kişiliğinin erişebileceği en yüksek düzey; dâhilik

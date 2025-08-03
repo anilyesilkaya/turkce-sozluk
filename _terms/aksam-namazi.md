@@ -2,6 +2,7 @@
 layout: term
 title: akşam namazı
 slug: aksam-namazi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Güneşin batmasıyla yatsı arasındaki zaman dilimi içinde kılınan namaz; akşam

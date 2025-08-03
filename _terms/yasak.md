@@ -2,6 +2,7 @@
 layout: term
 title: yasak
 slug: yasak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir işin yapılmasına karşı olan yasal veya yasa dışı engel

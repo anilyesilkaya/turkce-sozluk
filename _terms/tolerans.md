@@ -2,6 +2,7 @@
 layout: term
 title: tolerans
 slug: tolerans
+letter: T
 lisan: Fransızca tolérance
 anlamlar:
 - ► hoşgörü

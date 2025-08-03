@@ -2,6 +2,7 @@
 layout: term
 title: kostaklanmak
 slug: kostaklanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Zarif, kibar görünmeye çalışmak, çalım satmak, gösteriş yapmak

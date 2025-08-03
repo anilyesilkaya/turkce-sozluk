@@ -2,6 +2,7 @@
 layout: term
 title: duruluvermek
 slug: duruluvermek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Ansızın durulmak

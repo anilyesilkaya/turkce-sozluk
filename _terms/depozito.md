@@ -2,6 +2,7 @@
 layout: term
 title: depozito
 slug: depozito
+letter: D
 lisan: İtalyanca deposito
 anlamlar:
 - ► güvence akçesi

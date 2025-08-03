@@ -2,6 +2,7 @@
 layout: term
 title: itiyat
 slug: itiyat
+letter: I
 lisan: Arapça iʿtiyād
 anlamlar:
 - ► alışkanlık

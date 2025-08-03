@@ -2,6 +2,7 @@
 layout: term
 title: kısış
 slug: kisis
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kısmak işi

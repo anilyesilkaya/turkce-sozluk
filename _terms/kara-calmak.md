@@ -2,6 +2,7 @@
 layout: term
 title: kara çalmak
 slug: kara-calmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - birine iftira etmek, kara sürmek

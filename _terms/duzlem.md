@@ -2,6 +2,7 @@
 layout: term
 title: düzlem
 slug: duzlem
+letter: D
 lisan: Türkçe
 anlamlar:
 - Üzerinde girinti ve çıkıntı olmayan

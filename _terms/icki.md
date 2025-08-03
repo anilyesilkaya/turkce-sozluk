@@ -2,6 +2,7 @@
 layout: term
 title: içki
 slug: icki
+letter: I
 lisan: Türkçe
 anlamlar:
 - İçinde alkol bulunan içecek; dem (I), tütsü

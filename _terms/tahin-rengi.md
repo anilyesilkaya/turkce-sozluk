@@ -2,6 +2,7 @@
 layout: term
 title: tahin rengi
 slug: tahin-rengi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Kirli, koyu sarı renk; tahinî

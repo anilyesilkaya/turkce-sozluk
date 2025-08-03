@@ -2,6 +2,7 @@
 layout: term
 title: eli yatmak
 slug: eli-yatmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - eli alışmak

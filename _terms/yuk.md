@@ -2,6 +2,7 @@
 layout: term
 title: yük
 slug: yuk
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Araba, hayvan vb.nin taşıdığı şeylerin hepsi

@@ -2,6 +2,7 @@
 layout: term
 title: yaylak
 slug: yaylak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► otlak

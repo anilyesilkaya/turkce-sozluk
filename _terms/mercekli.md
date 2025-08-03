@@ -2,6 +2,7 @@
 layout: term
 title: mercekli
 slug: mercekli
+letter: M
 lisan: Türkçe
 anlamlar:
 - Merceği olan

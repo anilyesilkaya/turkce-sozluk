@@ -2,6 +2,7 @@
 layout: term
 title: karalamacı
 slug: karalamaci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Birine işlemediği bir suçu veya kendisinde bulunmayan bir ayıbı yükleyen; iftiracı, karacı, müfteri, fassal

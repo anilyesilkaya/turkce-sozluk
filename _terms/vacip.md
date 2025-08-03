@@ -2,6 +2,7 @@
 layout: term
 title: vacip
 slug: vacip
+letter: V
 lisan: Arapça vācib
 anlamlar:
 - İslam dinine göre yapılması gerekli olan

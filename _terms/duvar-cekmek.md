@@ -2,6 +2,7 @@
 layout: term
 title: duvar çekmek
 slug: duvar-cekmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - duvar örmek

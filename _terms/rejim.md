@@ -2,6 +2,7 @@
 layout: term
 title: rejim
 slug: rejim
+letter: R
 lisan: Fransızca régime
 anlamlar:
 - ► düzen

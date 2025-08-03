@@ -2,6 +2,7 @@
 layout: term
 title: cırıldamak
 slug: cirildamak
+letter: C
 lisan: Türkçe
 anlamlar:
 - '"Cır cır" diye ses çıkarmak'

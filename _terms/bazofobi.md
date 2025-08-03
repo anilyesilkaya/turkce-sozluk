@@ -2,6 +2,7 @@
 layout: term
 title: bazofobi
 slug: bazofobi
+letter: B
 lisan: Fransızca basophobie
 anlamlar:
 - Sinirsel veya ruhsal bozukluktan ileri gelen yürüyememe hastalığı

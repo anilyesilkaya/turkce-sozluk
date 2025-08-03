@@ -2,6 +2,7 @@
 layout: term
 title: avrat
 slug: avrat
+letter: A
 lisan: Arapça ʿavret
 anlamlar:
 - ► kadın

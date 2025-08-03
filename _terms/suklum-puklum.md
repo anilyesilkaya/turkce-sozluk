@@ -2,6 +2,7 @@
 layout: term
 title: süklüm püklüm
 slug: suklum-puklum
+letter: S
 lisan: Türkçe
 anlamlar:
 - Suç işlemiş gibi utanç veya korku içinde büzülmüş

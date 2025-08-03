@@ -2,6 +2,7 @@
 layout: term
 title: zihin yorgunluğu
 slug: zihin-yorgunlugu
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zihnin aşırı derecede yorulması

@@ -2,6 +2,7 @@
 layout: term
 title: matlaşmak
 slug: matlasmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mat duruma gelmek

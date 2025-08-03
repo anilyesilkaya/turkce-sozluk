@@ -2,6 +2,7 @@
 layout: term
 title: cihangirlik
 slug: cihangirlik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cihangir olma durumu

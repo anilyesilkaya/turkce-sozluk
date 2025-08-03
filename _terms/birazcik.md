@@ -2,6 +2,7 @@
 layout: term
 title: birazcık
 slug: birazcik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Pek az, çok az

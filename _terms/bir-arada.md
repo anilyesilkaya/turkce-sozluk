@@ -2,6 +2,7 @@
 layout: term
 title: bir arada
 slug: bir-arada
+letter: B
 lisan: Türkçe
 anlamlar:
 - Toplu bir durumda, birlikte, toplu olarak

@@ -2,6 +2,7 @@
 layout: term
 title: emrine vermek
 slug: emrine-vermek
+letter: E
 lisan: Türkçe
 anlamlar:
 - görevlendirmek, atamak

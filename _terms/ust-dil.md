@@ -2,6 +2,7 @@
 layout: term
 title: üst dil
 slug: ust-dil
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Dille ilgili bir konuyu veya kavramı anlatmak için kullanılan dil

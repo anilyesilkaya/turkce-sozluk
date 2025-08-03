@@ -2,6 +2,7 @@
 layout: term
 title: gazometri
 slug: gazometri
+letter: G
 lisan: Fransızca gazométrie
 anlamlar:
 - ► gaz ölçümü

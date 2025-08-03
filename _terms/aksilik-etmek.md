@@ -2,6 +2,7 @@
 layout: term
 title: aksilik etmek
 slug: aksilik-etmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - güçlük çıkarmak, uyuşmaya yanaşmamak

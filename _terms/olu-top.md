@@ -2,6 +2,7 @@
 layout: term
 title: ölü top
 slug: olu-top
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Oyunda olmayan top

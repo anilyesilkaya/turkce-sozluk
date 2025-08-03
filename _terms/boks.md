@@ -2,6 +2,7 @@
 layout: term
 title: boks
 slug: boks
+letter: B
 lisan: Fransızca boxe
 anlamlar:
 - Özel eldiven takmış iki kişinin birbirlerine yumruk vurarak yaptıkları spor karşılaşması; yumruk oyunu

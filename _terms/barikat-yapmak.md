@@ -2,6 +2,7 @@
 layout: term
 title: barikat yapmak
 slug: barikat-yapmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - çeşitli araçlarla bir engel oluşturmak

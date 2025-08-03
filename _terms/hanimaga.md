@@ -2,6 +2,7 @@
 layout: term
 title: hanımağa
 slug: hanimaga
+letter: H
 lisan: Türkçe
 anlamlar:
 - Aile işlerinde söz, itibar sahibi olan, sevgi ve saygı duyulan, genellikle çift çubuk, geniş arazi sahibi, varlıklı kadın

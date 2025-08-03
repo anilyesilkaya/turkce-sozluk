@@ -2,6 +2,7 @@
 layout: term
 title: arzulamak
 slug: arzulamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► istemek

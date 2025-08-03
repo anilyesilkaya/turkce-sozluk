@@ -2,6 +2,7 @@
 layout: term
 title: hendese
 slug: hendese
+letter: H
 lisan: Arapça hendese
 anlamlar:
 - ► geometri

@@ -2,6 +2,7 @@
 layout: term
 title: helal süt emmek
 slug: helal-sut-emmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - doğruluktan ayrılmamak

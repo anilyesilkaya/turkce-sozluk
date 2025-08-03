@@ -2,6 +2,7 @@
 layout: term
 title: hapis
 slug: hapis
+letter: H
 lisan: Arapça ḥabs
 anlamlar:
 - Bir yere kapatıp salıvermeme

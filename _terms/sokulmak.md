@@ -2,6 +2,7 @@
 layout: term
 title: sokulmak
 slug: sokulmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sokma işine konu olmak

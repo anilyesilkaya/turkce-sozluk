@@ -2,6 +2,7 @@
 layout: term
 title: aksesuar
 slug: aksesuar
+letter: A
 lisan: Fransızca accessoire
 anlamlar:
 - Bir aletin, bir makinenin işlevine katılmayan ancak kendine özgü ayrı bir yararı bulunan alet, araç veya nesne

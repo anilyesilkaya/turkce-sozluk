@@ -2,6 +2,7 @@
 layout: term
 title: ergenlik çağı
 slug: ergenlik-cagi
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► ergenlik

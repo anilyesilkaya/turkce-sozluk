@@ -2,6 +2,7 @@
 layout: term
 title: tabanlık
 slug: tabanlik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Üzerine rayların yerleştirildiği, yere enine konulmuş demir veya ağaç parçaların her biri; travers

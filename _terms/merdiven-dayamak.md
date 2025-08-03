@@ -2,6 +2,7 @@
 layout: term
 title: merdiven dayamak
 slug: merdiven-dayamak
+letter: M
 lisan: Türkçe
 anlamlar:
 - ileri bir yaşa yaklaşmak

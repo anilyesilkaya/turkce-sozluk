@@ -2,6 +2,7 @@
 layout: term
 title: mendeburluk
 slug: mendeburluk
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mendebur olma durumu

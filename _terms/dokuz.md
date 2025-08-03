@@ -2,6 +2,7 @@
 layout: term
 title: dokuz
 slug: dokuz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Sekizden sonra gelen sayının adı

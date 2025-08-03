@@ -2,6 +2,7 @@
 layout: term
 title: doksan
 slug: doksan
+letter: D
 lisan: Türkçe
 anlamlar:
 - Seksen dokuzdan sonra gelen sayının adı

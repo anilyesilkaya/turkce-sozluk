@@ -2,6 +2,7 @@
 layout: term
 title: içi geçmek
 slug: ici-gecmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - istemeden kısa bir süre uyuyuvermek

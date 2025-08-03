@@ -2,6 +2,7 @@
 layout: term
 title: bölük
 slug: boluk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir binanın belli bir hizmete veya bir kimsenin, bir ailenin oturmasına ayrılmış olan bölümlerinden her biri

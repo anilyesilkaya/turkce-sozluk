@@ -2,6 +2,7 @@
 layout: term
 title: ayaklanma
 slug: ayaklanma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayaklanmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: getto
 slug: getto
+letter: G
 lisan: Fransızca ghetto
 anlamlar:
 - Bir yerleşim bölgesinin, aynı şehir, ülke veya kültürden gelen insanların yerleştiği bölümü

@@ -2,6 +2,7 @@
 layout: term
 title: tutarsız
 slug: tutarsiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tutarlı olmayan, aralarında çelişki bulunan; insicamsız

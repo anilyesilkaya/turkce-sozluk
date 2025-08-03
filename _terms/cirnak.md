@@ -2,6 +2,7 @@
 layout: term
 title: cırnak
 slug: cirnak
+letter: C
 lisan: Türkçe
 anlamlar:
 - Yırtıcı hayvan tırnağı

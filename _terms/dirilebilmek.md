@@ -2,6 +2,7 @@
 layout: term
 title: dirilebilmek
 slug: dirilebilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dirilme ihtimali bulunmak

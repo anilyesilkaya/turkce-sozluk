@@ -2,6 +2,7 @@
 layout: term
 title: Dolganca
 slug: dolganca
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► Dolgan Türkçesi

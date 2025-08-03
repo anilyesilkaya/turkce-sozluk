@@ -2,6 +2,7 @@
 layout: term
 title: muvaffakiyetsizlik
 slug: muvaffakiyetsizlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► başarısızlık

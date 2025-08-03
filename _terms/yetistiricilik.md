@@ -2,6 +2,7 @@
 layout: term
 title: yetiştiricilik
 slug: yetistiricilik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yetiştirici olma durumu

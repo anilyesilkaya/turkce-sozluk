@@ -2,6 +2,7 @@
 layout: term
 title: Helenizm
 slug: helenizm
+letter: H
 lisan: Fransızca hellénisme
 anlamlar:
 - Helen uygarlığı

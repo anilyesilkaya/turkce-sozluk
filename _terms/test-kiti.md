@@ -2,6 +2,7 @@
 layout: term
 title: test kiti
 slug: test-kiti
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► tanı kiti

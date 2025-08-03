@@ -2,6 +2,7 @@
 layout: term
 title: yüzü tutmamak
 slug: yuzu-tutmamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - bir şey istemeye veya söylemeye çekinmek, cesaret edememek

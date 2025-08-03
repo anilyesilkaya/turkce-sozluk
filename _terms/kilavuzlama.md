@@ -2,6 +2,7 @@
 layout: term
 title: kılavuzlama
 slug: kilavuzlama
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kılavuzlamak işi

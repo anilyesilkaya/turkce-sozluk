@@ -2,6 +2,7 @@
 layout: term
 title: karda yürüyüp (veya gezip) izini belli etmemek
 slug: karda-yuruyup-veya-gezip-izini-belli-etmemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - kimsenin sezemeyeceği biçimde gizli iş çevirmek

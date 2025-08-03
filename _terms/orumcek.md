@@ -2,6 +2,7 @@
 layout: term
 title: örümcek
 slug: orumcek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Örümcekler takımından, ince bir ağ örerek küçük böcekleri avlayan eklemli bir hayvan; örümce (Araneae)

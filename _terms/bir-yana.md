@@ -2,6 +2,7 @@
 layout: term
 title: bir yana
 slug: bir-yana
+letter: B
 lisan: Türkçe
 anlamlar:
 - -den başka, sayılmazsa, hariç tutulursa

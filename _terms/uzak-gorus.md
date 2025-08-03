@@ -2,6 +2,7 @@
 layout: term
 title: uzak görüş
 slug: uzak-gorus
+letter: U
 lisan: Türkçe
 anlamlar:
 - İleride olabilecekleri düşünme ve sezme

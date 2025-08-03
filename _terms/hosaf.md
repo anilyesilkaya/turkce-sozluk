@@ -2,6 +2,7 @@
 layout: term
 title: hoşaf
 slug: hosaf
+letter: H
 lisan: Farsça ḫoş + āb
 anlamlar:
 - Bütün veya dilimler hâlindeki kuru meyvenin şekerli suyla kaynatılmasıyla yapılan bir tatlı türü

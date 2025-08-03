@@ -2,6 +2,7 @@
 layout: term
 title: sultan
 slug: sultan
+letter: S
 lisan: Arapça sulṭān
 anlamlar:
 - Müslüman, özellikle Sünni hükümdarların kullandıkları ünvan

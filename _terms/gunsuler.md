@@ -2,6 +2,7 @@
 layout: term
 title: günsüler
 slug: gunsuler
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► güneş hayvancıkları

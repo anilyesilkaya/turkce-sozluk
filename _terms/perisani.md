@@ -2,6 +2,7 @@
 layout: term
 title: 'perişani '
 slug: perisani
+letter: P
 lisan: Farsça perīşān + ī
 anlamlar:
 - ► perişanlık

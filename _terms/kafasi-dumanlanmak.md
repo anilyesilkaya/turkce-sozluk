@@ -2,6 +2,7 @@
 layout: term
 title: kafası dumanlanmak
 slug: kafasi-dumanlanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - çok dalgın olmak

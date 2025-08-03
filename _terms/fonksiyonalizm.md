@@ -2,6 +2,7 @@
 layout: term
 title: fonksiyonalizm
 slug: fonksiyonalizm
+letter: F
 lisan: Fransızca fonctionnalisme
 anlamlar:
 - ► işlevcilik

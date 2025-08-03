@@ -2,6 +2,7 @@
 layout: term
 title: dolaplama
 slug: dolaplama
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dolaplamak işi

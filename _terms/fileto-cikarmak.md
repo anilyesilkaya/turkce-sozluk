@@ -2,6 +2,7 @@
 layout: term
 title: fileto çıkarmak
 slug: fileto-cikarmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - kasaplık hayvanların sırtında ve bel kemiğinin iki yanında bulunan eti çıkarmak

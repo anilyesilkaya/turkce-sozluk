@@ -2,6 +2,7 @@
 layout: term
 title: fasıl
 slug: fasil
+letter: F
 lisan: Arapça faṣl
 anlamlar:
 - ► bölüm

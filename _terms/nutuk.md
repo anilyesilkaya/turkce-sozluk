@@ -2,6 +2,7 @@
 layout: term
 title: nutuk
 slug: nutuk
+letter: N
 lisan: Arapça nuṭḳ
 anlamlar:
 - Söz, konuşma

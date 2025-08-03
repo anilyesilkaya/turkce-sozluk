@@ -2,6 +2,7 @@
 layout: term
 title: aktavşan
 slug: aktavsan
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir cins iri çöl sıçanı (Jaculus)

@@ -2,6 +2,7 @@
 layout: term
 title: kaldı ki
 slug: kaldi-ki
+letter: K
 lisan: Türkçe
 anlamlar:
 - bundan başka, bununla birlikte

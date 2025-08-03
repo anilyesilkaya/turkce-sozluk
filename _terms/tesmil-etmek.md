@@ -2,6 +2,7 @@
 layout: term
 title: teşmil etmek
 slug: tesmil-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - kapsamını genişletmek, kapsamına almak

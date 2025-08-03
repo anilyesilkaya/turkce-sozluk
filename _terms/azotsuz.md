@@ -2,6 +2,7 @@
 layout: term
 title: azotsuz
 slug: azotsuz
+letter: A
 lisan: Türkçe
 anlamlar:
 - İçinde azot olmayan

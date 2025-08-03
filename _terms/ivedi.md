@@ -2,6 +2,7 @@
 layout: term
 title: ivedi
 slug: ivedi
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► acele

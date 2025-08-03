@@ -2,6 +2,7 @@
 layout: term
 title: edilgen fiil
 slug: edilgen-fiil
+letter: E
 lisan: Türkçe
 anlamlar:
 - 'Geçişli fiillere -l- veya -n- eki getirilerek kurulan, gerçek öznesi belli olmayan fiil; edilgen eylem: yaz-ıl-mak, oku-n-mak, tanı-n-mak vb'

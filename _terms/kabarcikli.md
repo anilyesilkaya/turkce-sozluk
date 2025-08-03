@@ -2,6 +2,7 @@
 layout: term
 title: kabarcıklı
 slug: kabarcikli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kabarcığı olan

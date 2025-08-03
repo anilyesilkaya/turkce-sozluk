@@ -2,6 +2,7 @@
 layout: term
 title: servis yapmak
 slug: servis-yapmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - sofrada hizmet etmek ve yemeği dağıtmak

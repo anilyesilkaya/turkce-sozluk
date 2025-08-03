@@ -2,6 +2,7 @@
 layout: term
 title: para aktarımı
 slug: para-aktarimi
+letter: P
 lisan: Türkçe
 anlamlar:
 - Banka hesabındaki birikimin belli bir miktarının başka bir hesaba aktarılması; aktarma, transfer, virman

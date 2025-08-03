@@ -2,6 +2,7 @@
 layout: term
 title: jandarma
 slug: jandarma
+letter: J
 lisan: İtalyanca gendarme
 anlamlar:
 - Yurt içinde genel güvenliği ve kamu düzenini korumakla görevli, yasa ve nizamların koyduğu hükümlerin yürütülmesini ve bunlara dayanan hükûmet emirlerinin yerine getirilmesini sağlayan silahlı askerî kuvvet

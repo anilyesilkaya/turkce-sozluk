@@ -2,6 +2,7 @@
 layout: term
 title: seğirtmek
 slug: segirtmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıçrayarak yakın bir yere doğru koşmak

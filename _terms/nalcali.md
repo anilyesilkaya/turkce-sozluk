@@ -2,6 +2,7 @@
 layout: term
 title: nalçalı
 slug: nalcali
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nalçası olan

@@ -2,6 +2,7 @@
 layout: term
 title: mintansız
 slug: mintansiz
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mintan giymemiş

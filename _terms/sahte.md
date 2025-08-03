@@ -2,6 +2,7 @@
 layout: term
 title: sahte
 slug: sahte
+letter: S
 lisan: Farsça sāḫte
 anlamlar:
 - Bir şeyin aslına benzetilerek yapılan; çakma, düzme, düzmece

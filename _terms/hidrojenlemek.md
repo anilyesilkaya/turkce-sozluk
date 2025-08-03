@@ -2,6 +2,7 @@
 layout: term
 title: hidrojenlemek
 slug: hidrojenlemek
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hidrojen ile birleştirmek

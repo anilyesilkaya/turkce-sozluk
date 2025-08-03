@@ -2,6 +2,7 @@
 layout: term
 title: Mançuca
 slug: mancuca
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mançu dili

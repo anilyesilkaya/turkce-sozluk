@@ -2,6 +2,7 @@
 layout: term
 title: has olmak
 slug: has-olmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - özgü olmak

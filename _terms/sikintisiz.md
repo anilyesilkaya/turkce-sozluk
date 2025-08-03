@@ -2,6 +2,7 @@
 layout: term
 title: sıkıntısız
 slug: sikintisiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıkıntısı olmayan; bunsuz (II), kasavetsiz, sancısız

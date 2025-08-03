@@ -2,6 +2,7 @@
 layout: term
 title: çilekçi
 slug: cilekci
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çilek yetiştiren veya satan kimse

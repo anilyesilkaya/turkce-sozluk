@@ -2,6 +2,7 @@
 layout: term
 title: cesaret vermek
 slug: cesaret-vermek
+letter: C
 lisan: Türkçe
 anlamlar:
 - cesaretlendirmek

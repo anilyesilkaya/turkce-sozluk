@@ -2,6 +2,7 @@
 layout: term
 title: başantrenörlük
 slug: basantrenorluk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başantrenör olma durumu

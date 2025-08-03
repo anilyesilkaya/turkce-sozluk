@@ -2,6 +2,7 @@
 layout: term
 title: kupkuru kesilmek
 slug: kupkuru-kesilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - çok kurumak

@@ -2,6 +2,7 @@
 layout: term
 title: fayrap
 slug: fayrap
+letter: F
 lisan: İngilizce fire up
 anlamlar:
 - İstim kazanının buhar oluşturacak biçimde yanması durumu

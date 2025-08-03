@@ -2,6 +2,7 @@
 layout: term
 title: kocamak
 slug: kocamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► yaşlanmak

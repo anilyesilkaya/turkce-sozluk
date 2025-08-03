@@ -2,6 +2,7 @@
 layout: term
 title: arka plana kaymak
 slug: arka-plana-kaymak
+letter: A
 lisan: Türkçe
 anlamlar:
 - arka planda kalmak

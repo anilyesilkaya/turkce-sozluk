@@ -2,6 +2,7 @@
 layout: term
 title: çokluk
 slug: cokluk
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Sayı veya ölçü yönünden çok olma durumu; çoğul, ekseriyet, kesafet, kesret, teklik karşıtı

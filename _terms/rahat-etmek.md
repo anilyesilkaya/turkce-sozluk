@@ -2,6 +2,7 @@
 layout: term
 title: rahat etmek
 slug: rahat-etmek
+letter: R
 lisan: Türkçe
 anlamlar:
 - sıkıntısız durumda olmak, ferahlanmak, dinlenmek

@@ -2,6 +2,7 @@
 layout: term
 title: kazmak
 slug: kazmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Herhangi bir araçla toprağı açmak, oymak

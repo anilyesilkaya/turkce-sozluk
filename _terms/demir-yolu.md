@@ -2,6 +2,7 @@
 layout: term
 title: demir yolu
 slug: demir-yolu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Lokomotif, vagon vb. demir tekerlekli taşıtların üzerinde hareket ettiği, paralel iki ray döşenerek yapılan bir yol türü; demir hat, şimendifer

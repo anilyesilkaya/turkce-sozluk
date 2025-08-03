@@ -2,6 +2,7 @@
 layout: term
 title: korkulmak
 slug: korkulmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► korkmak

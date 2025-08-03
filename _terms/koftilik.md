@@ -2,6 +2,7 @@
 layout: term
 title: koftilik
 slug: koftilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kofti olma durumu

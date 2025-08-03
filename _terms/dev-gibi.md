@@ -2,6 +2,7 @@
 layout: term
 title: dev gibi
 slug: dev-gibi
+letter: D
 lisan: Türkçe
 anlamlar:
 - iri ve korkunç

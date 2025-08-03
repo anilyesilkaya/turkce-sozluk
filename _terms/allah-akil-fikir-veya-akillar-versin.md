@@ -2,6 +2,7 @@
 layout: term
 title: Allah akıl fikir (veya akıllar) versin
 slug: allah-akil-fikir-veya-akillar-versin
+letter: A
 lisan: Türkçe
 anlamlar:
 - akılsızca bir davranışta bulunanlar için kullanılan bir söz

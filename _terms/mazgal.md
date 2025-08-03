@@ -2,6 +2,7 @@
 layout: term
 title: mazgal
 slug: mazgal
+letter: M
 lisan: Rumca
 anlamlar:
 - ► mazgal deliği

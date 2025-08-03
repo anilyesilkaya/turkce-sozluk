@@ -2,6 +2,7 @@
 layout: term
 title: telaki
 slug: telaki
+letter: T
 lisan: Arapça telāḳī
 anlamlar:
 - ► buluşma

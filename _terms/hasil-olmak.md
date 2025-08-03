@@ -2,6 +2,7 @@
 layout: term
 title: hasıl olmak
 slug: hasil-olmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - ortaya çıkmak, türemek

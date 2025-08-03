@@ -2,6 +2,7 @@
 layout: term
 title: sidik
 slug: sidik
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► idrar

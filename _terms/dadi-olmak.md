@@ -2,6 +2,7 @@
 layout: term
 title: dadı olmak
 slug: dadi-olmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - çocuk bakıcılığını üstlenmek

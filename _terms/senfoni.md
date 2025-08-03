@@ -2,6 +2,7 @@
 layout: term
 title: senfoni
 slug: senfoni
+letter: S
 lisan: Fransızca symphonie
 anlamlar:
 - Orkestra için bestelenmiş, birkaç bölümden oluşan uzun müzik eseri

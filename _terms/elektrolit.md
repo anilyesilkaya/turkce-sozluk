@@ -2,6 +2,7 @@
 layout: term
 title: elektrolit
 slug: elektrolit
+letter: E
 lisan: Fransızca électrolyte
 anlamlar:
 - Elektroliz işlemiyle çözülen madde

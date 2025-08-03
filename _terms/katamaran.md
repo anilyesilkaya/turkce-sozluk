@@ -2,6 +2,7 @@
 layout: term
 title: katamaran
 slug: katamaran
+letter: K
 lisan: Fransızca catamaran
 anlamlar:
 - Birbirine paralel tutulmuş iki ağaç kütükten yapılan tekne

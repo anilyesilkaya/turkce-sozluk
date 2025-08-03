@@ -2,6 +2,7 @@
 layout: term
 title: aklına bir şey gelmesin
 slug: aklina-bir-sey-gelmesin
+letter: A
 lisan: Türkçe
 anlamlar:
 - '"şüphelenme, aklına kötü bir şey getirme" anlamında kullanılan bir söz'

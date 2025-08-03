@@ -2,6 +2,7 @@
 layout: term
 title: sürüsüz
 slug: surusuz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sürüsü olmayan

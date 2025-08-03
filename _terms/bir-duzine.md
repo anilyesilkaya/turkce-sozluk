@@ -2,6 +2,7 @@
 layout: term
 title: bir düzine
 slug: bir-duzine
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çok miktarda olan

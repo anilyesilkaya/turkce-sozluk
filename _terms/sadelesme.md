@@ -2,6 +2,7 @@
 layout: term
 title: sadeleşme
 slug: sadelesme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sadeleşmek işi, yalınlaşma

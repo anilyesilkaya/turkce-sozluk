@@ -2,6 +2,7 @@
 layout: term
 title: çifte koşmak
 slug: cifte-kosmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - çift koşmak

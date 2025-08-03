@@ -2,6 +2,7 @@
 layout: term
 title: aşıvermek
 slug: asivermek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Çabucak aşmak

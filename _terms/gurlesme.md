@@ -2,6 +2,7 @@
 layout: term
 title: gürleşme
 slug: gurlesme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gürleşmek işi

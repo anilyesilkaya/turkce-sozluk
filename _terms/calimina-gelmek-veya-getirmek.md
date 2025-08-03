@@ -2,6 +2,7 @@
 layout: term
 title: çalımına gelmek (veya getirmek)
 slug: calimina-gelmek-veya-getirmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - uygun zaman veya durumu ele geçirmek

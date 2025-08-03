@@ -2,6 +2,7 @@
 layout: term
 title: lisansiyer
 slug: lisansiyer
+letter: L
 lisan: Fransızca licencier
 anlamlar:
 - Üniversitede okuyan öğrenci

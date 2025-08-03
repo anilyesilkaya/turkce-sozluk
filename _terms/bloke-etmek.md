@@ -2,6 +2,7 @@
 layout: term
 title: bloke etmek
 slug: bloke-etmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - kullanılmasını önlemek amacıyla el koymak

@@ -2,6 +2,7 @@
 layout: term
 title: cüzi
 slug: cuzi
+letter: C
 lisan: Arapça cuzʾī
 anlamlar:
 - Çok az

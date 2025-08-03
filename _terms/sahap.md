@@ -2,6 +2,7 @@
 layout: term
 title: şahap
 slug: sahap
+letter: Ş
 lisan: Arapça şihāb
 anlamlar:
 - ► akan yıldız

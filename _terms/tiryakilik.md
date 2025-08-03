@@ -2,6 +2,7 @@
 layout: term
 title: tiryakilik
 slug: tiryakilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► düşkünlük

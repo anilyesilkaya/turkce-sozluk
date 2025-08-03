@@ -2,6 +2,7 @@
 layout: term
 title: biçare olmak
 slug: bicare-olmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - çaresiz kalmak

@@ -2,6 +2,7 @@
 layout: term
 title: ar ve hayâ perdesi yırtılmak
 slug: ar-ve-haya-perdesi-yirtilmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - utanmamak, utanç duymamak

@@ -2,6 +2,7 @@
 layout: term
 title: kara tahta
 slug: kara-tahta
+letter: K
 lisan: Türkçe
 anlamlar:
 - Okullarda üzerine tebeşirle yazı yazılan, tahtadan yapılmış, siyah veya yeşil renkli, geniş levha; yazboz tahtası, tahta

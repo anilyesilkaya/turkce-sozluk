@@ -2,6 +2,7 @@
 layout: term
 title: mürettebat
 slug: murettebat
+letter: M
 lisan: Arapça murettebāt
 anlamlar:
 - Gemi, uçak vb. taşıtlardaki görevlilerin tümü

@@ -2,6 +2,7 @@
 layout: term
 title: küfretme
 slug: kufretme
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► sövme

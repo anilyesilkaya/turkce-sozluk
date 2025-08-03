@@ -2,6 +2,7 @@
 layout: term
 title: hissolunmak
 slug: hissolunmak
+letter: H
 lisan: Arapça ḥiss + Türkçe olunmak
 anlamlar:
 - ► hissedilmek

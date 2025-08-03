@@ -2,6 +2,7 @@
 layout: term
 title: öbürkü
 slug: oburku
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► öteki

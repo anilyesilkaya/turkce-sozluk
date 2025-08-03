@@ -2,6 +2,7 @@
 layout: term
 title: binicinin sağı solu olmaz
 slug: binicinin-sagi-solu-olmaz
+letter: B
 lisan: Türkçe
 anlamlar:
 - '"uzman kişi, hangi yöntemi uygularsa uygulasın başarılı olur" anlamında kullanılan bir söz'

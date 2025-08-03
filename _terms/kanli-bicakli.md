@@ -2,6 +2,7 @@
 layout: term
 title: kanlı bıçaklı
 slug: kanli-bicakli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Birbirlerini öldürecek kadar düşman olan (kimse)

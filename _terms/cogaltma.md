@@ -2,6 +2,7 @@
 layout: term
 title: çoğaltma
 slug: cogaltma
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çoğaltmak işi; çoklaştırma, teksir, fazlalaştırma, ziyadeleştirme

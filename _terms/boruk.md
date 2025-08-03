@@ -2,6 +2,7 @@
 layout: term
 title: boruk
 slug: boruk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Dağlarda yetişen, kokulu, süpürge ve yakacak olarak kullanılan bir tür ot

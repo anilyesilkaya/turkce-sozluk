@@ -2,6 +2,7 @@
 layout: term
 title: katkıcı
 slug: katkici
+letter: K
 lisan: Türkçe
 anlamlar:
 - Katkıda bulunan

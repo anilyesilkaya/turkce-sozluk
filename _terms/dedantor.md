@@ -2,6 +2,7 @@
 layout: term
 title: dedantör
 slug: dedantor
+letter: D
 lisan: Fransızca détendeur
 anlamlar:
 - Ocak, fırın, soba vb. araçlarda kullanılan likit gazın akışını düzenleyen aygıt

@@ -2,6 +2,7 @@
 layout: term
 title: hikmet
 slug: hikmet
+letter: H
 lisan: Arapça ḥikmet
 anlamlar:
 - Tanrı'nın insanlar tarafından anlaşılamayan amacı

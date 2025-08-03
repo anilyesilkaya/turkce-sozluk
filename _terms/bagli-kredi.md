@@ -2,6 +2,7 @@
 layout: term
 title: bağlı kredi
 slug: bagli-kredi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kredi açan ülkeden mal veya hizmet satın alınması şartı ile sağlanan kredi

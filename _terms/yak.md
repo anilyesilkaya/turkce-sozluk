@@ -2,6 +2,7 @@
 layout: term
 title: yak
 slug: yak
+letter: Y
 lisan: Tibetçe
 anlamlar:
 - Tibet'te, Asya'nın bazı yörelerinde yabani veya evcil olarak yaşayan, kılları uzun bir tür öküz; Tibet öküzü, Tibet sığırı (Bos grunniens)

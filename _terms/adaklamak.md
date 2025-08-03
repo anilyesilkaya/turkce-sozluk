@@ -2,6 +2,7 @@
 layout: term
 title: adaklamak
 slug: adaklamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Küçük çocuk yürümeye başlamak

@@ -2,6 +2,7 @@
 layout: term
 title: gücü kesilmek
 slug: gucu-kesilmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - kuvveti, takati azalmak

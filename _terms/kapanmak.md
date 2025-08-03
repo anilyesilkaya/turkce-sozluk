@@ -2,6 +2,7 @@
 layout: term
 title: kapanmak
 slug: kapanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kapalı duruma gelmek

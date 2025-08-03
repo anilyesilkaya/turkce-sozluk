@@ -2,6 +2,7 @@
 layout: term
 title: evcilik
 slug: evcilik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Genellikle kız çocuklarının ev işlerini örnek alarak oynadıkları oyun

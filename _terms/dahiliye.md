@@ -2,6 +2,7 @@
 layout: term
 title: dâhiliye
 slug: dahiliye
+letter: D
 lisan: Arapça dāḫiliyye
 anlamlar:
 - Devlet yönetiminde iç işleri

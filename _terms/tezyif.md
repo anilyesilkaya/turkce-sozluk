@@ -2,6 +2,7 @@
 layout: term
 title: tezyif
 slug: tezyif
+letter: T
 lisan: Arapça tezyīf
 anlamlar:
 - Bir şeyi değersiz, adi, bayağı, aşağılık göstermeye çalışma, küçültmek isteme

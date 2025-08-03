@@ -2,6 +2,7 @@
 layout: term
 title: katletmek
 slug: katletmek
+letter: K
 lisan: Arapça ḳatl + Türkçe etmek
 anlamlar:
 - İnsan öldürmek

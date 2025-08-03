@@ -2,6 +2,7 @@
 layout: term
 title: âdeti veçhile
 slug: adeti-vechile
+letter: Â
 lisan: Türkçe
 anlamlar:
 - Alışıldığı gibi

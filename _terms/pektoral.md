@@ -2,6 +2,7 @@
 layout: term
 title: pektoral
 slug: pektoral
+letter: P
 lisan: Fransızca pectoral
 anlamlar:
 - Göğse ait

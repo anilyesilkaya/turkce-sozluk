@@ -2,6 +2,7 @@
 layout: term
 title: zehir saçmak
 slug: zehir-sacmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - çevreye kötü propaganda yapmak veya insanları olumsuz davranışlara yönlendirmek, tahrik etmek, ortalığı karıştırmak

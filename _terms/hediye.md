@@ -2,6 +2,7 @@
 layout: term
 title: hediye
 slug: hediye
+letter: H
 lisan: Arapça hediyye
 anlamlar:
 - ► armağan

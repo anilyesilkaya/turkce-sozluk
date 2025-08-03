@@ -2,6 +2,7 @@
 layout: term
 title: göğüs tahtası
 slug: gogus-tahtasi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Göğüs kemiği

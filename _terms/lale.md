@@ -2,6 +2,7 @@
 layout: term
 title: lale
 slug: lale
+letter: L
 lisan: Farsça lāle
 anlamlar:
 - Zambakgillerden, yaprakları uzun ve sivri, çiçekleri kadeh biçiminde, türlü renkte bir süs bitkisi (Tulipa gesneriana)

@@ -2,6 +2,7 @@
 layout: term
 title: kaydettirebilme
 slug: kaydettirebilme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaydettirebilmek işi

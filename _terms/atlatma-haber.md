@@ -2,6 +2,7 @@
 layout: term
 title: atlatma haber
 slug: atlatma-haber
+letter: A
 lisan: Türkçe
 anlamlar:
 - Rakip yayın kuruluşu atlatılarak yapılan, güncel ve önemli bir konuyla ilgili haber

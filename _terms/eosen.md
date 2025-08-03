@@ -2,6 +2,7 @@
 layout: term
 title: eosen
 slug: eosen
+letter: E
 lisan: Fransızca éocène
 anlamlar:
 - Üçüncü Çağ'ın, memelilerin oluştuğu dönemi

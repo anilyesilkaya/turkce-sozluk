@@ -2,6 +2,7 @@
 layout: term
 title: temelleştirme
 slug: temellestirme
+letter: T
 lisan: Türkçe
 anlamlar:
 - Temelleştirmek işi

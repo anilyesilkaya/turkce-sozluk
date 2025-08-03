@@ -2,6 +2,7 @@
 layout: term
 title: mayonezli
 slug: mayonezli
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mayonez katılmış veya karıştırılmış

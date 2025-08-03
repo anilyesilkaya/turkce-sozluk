@@ -2,6 +2,7 @@
 layout: term
 title: teleskobik
 slug: teleskobik
+letter: T
 lisan: Fransızca téléscopique
 anlamlar:
 - Teleskop aracılığıyla yapılan

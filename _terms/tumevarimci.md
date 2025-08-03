@@ -2,6 +2,7 @@
 layout: term
 title: tümevarımcı
 slug: tumevarimci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tümevarım yöntemiyle düşünen veya tümevarım yöntemini uygulayan

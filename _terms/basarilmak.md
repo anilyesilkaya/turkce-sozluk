@@ -2,6 +2,7 @@
 layout: term
 title: başarılmak
 slug: basarilmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başarma işine konu olmak

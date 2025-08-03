@@ -2,6 +2,7 @@
 layout: term
 title: ittihaz etmek
 slug: ittihaz-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - saymak, tutmak, ... olarak görmek

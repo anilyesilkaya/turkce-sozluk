@@ -2,6 +2,7 @@
 layout: term
 title: (birine) meydan dayağı çekmek (veya atmak)
 slug: birine-meydan-dayagi-cekmek-veya-atmak
+letter: (
 lisan: Türkçe
 anlamlar:
 - herkesin içinde iyice dövmek

@@ -2,6 +2,7 @@
 layout: term
 title: sıvı gaz
 slug: sivi-gaz
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► sıvılaştırılmış petrol gazı

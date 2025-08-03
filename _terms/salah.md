@@ -2,6 +2,7 @@
 layout: term
 title: salah
 slug: salah
+letter: S
 lisan: Arapça ṣalāḥ
 anlamlar:
 - ► iyilik

@@ -2,6 +2,7 @@
 layout: term
 title: maharetli
 slug: maharetli
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► becerikli

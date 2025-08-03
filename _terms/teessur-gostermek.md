@@ -2,6 +2,7 @@
 layout: term
 title: teessür göstermek
 slug: teessur-gostermek
+letter: T
 lisan: Türkçe
 anlamlar:
 - üzüntüsünü açığa vurmak

@@ -2,6 +2,7 @@
 layout: term
 title: tınaz
 slug: tinaz
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► yığın

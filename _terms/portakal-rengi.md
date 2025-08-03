@@ -2,6 +2,7 @@
 layout: term
 title: portakal rengi
 slug: portakal-rengi
+letter: P
 lisan: Türkçe
 anlamlar:
 - Portakal kabuğunun rengi; portakali

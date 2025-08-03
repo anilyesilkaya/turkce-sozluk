@@ -2,6 +2,7 @@
 layout: term
 title: cihana gelmek
 slug: cihana-gelmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - doğmak

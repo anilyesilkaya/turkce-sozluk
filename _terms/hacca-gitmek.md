@@ -2,6 +2,7 @@
 layout: term
 title: hacca gitmek
 slug: hacca-gitmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - Müslümanlıkta, hac amacıyla Mekke'ye gitmek

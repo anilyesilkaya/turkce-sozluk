@@ -2,6 +2,7 @@
 layout: term
 title: taş nanesi
 slug: tas-nanesi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Yüksekliği 10-50 santimetre olan, tüylü ve çok yıllık bir bitki (Micromeria fruticosa)

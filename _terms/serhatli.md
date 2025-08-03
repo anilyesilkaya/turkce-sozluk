@@ -2,6 +2,7 @@
 layout: term
 title: serhatli
 slug: serhatli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Osmanlı döneminde sınır boyunda yaşayan Türk halkı

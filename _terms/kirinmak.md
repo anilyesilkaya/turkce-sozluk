@@ -2,6 +2,7 @@
 layout: term
 title: kırınmak
 slug: kirinmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yürürken salınmak

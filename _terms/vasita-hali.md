@@ -2,6 +2,7 @@
 layout: term
 title: vasıta hâli
 slug: vasita-hali
+letter: V
 lisan: Türkçe
 anlamlar:
 - ► araç durumu

@@ -2,6 +2,7 @@
 layout: term
 title: özetleyebilmek
 slug: ozetleyebilmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Özetleme ihtimali veya imkânı bulunmak

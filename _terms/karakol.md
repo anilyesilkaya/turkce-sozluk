@@ -2,6 +2,7 @@
 layout: term
 title: karakol
 slug: karakol
+letter: K
 lisan: Türkçe
 anlamlar:
 - Güvenliği sağlamakla görevli kimselerin bulunduğu yapı

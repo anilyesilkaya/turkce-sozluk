@@ -2,6 +2,7 @@
 layout: term
 title: askerî
 slug: askeri
+letter: A
 lisan: Arapça ʿaskerī
 anlamlar:
 - Askerlikle ilgili, askere özgü

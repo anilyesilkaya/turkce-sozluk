@@ -2,6 +2,7 @@
 layout: term
 title: sönük
 slug: sonuk
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sönmüş olan

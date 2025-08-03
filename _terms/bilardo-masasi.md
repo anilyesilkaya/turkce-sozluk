@@ -2,6 +2,7 @@
 layout: term
 title: bilardo masası
 slug: bilardo-masasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Üzerinde bilardo oynanan, yeşil çuha kaplı, delikli veya deliksiz masa

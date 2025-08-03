@@ -2,6 +2,7 @@
 layout: term
 title: açık çek
 slug: acik-cek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Üzerine para miktarı yazılmamış çek

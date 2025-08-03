@@ -2,6 +2,7 @@
 layout: term
 title: cevapsız kalmak
 slug: cevapsiz-kalmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - cevap alınamamak

@@ -2,6 +2,7 @@
 layout: term
 title: sünnet çocuğu
 slug: sunnet-cocugu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sünnet edilmiş veya edilecek çocuk

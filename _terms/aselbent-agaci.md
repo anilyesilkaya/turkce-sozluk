@@ -2,6 +2,7 @@
 layout: term
 title: aselbent ağacı
 slug: aselbent-agaci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Tropikal bölgelerde yetişen ve gövdesinden reçine elde edilen ağaç

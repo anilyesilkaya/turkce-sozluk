@@ -2,6 +2,7 @@
 layout: term
 title: kargılık
 slug: kargilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► fişeklik

@@ -2,6 +2,7 @@
 layout: term
 title: fışkırabilmek
 slug: fiskirabilmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fışkırma ihtimali bulunmak

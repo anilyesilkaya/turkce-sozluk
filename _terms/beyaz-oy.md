@@ -2,6 +2,7 @@
 layout: term
 title: beyaz oy
 slug: beyaz-oy
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir oylamada kabul anlamı taşıyan oy

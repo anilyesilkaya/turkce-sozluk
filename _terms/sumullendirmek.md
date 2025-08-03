@@ -2,6 +2,7 @@
 layout: term
 title: şümullendirmek
 slug: sumullendirmek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Etkisini, çevresini, kapsamını genişletmek

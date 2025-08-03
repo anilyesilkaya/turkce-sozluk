@@ -2,6 +2,7 @@
 layout: term
 title: arzusuzluk
 slug: arzusuzluk
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► isteksizlik

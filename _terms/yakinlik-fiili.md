@@ -2,6 +2,7 @@
 layout: term
 title: yakınlık fiili
 slug: yakinlik-fiili
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yaklaşma fiili

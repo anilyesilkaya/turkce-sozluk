@@ -2,6 +2,7 @@
 layout: term
 title: vicdansız
 slug: vicdansiz
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vicdanı olmayan

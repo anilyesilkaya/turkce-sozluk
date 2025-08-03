@@ -2,6 +2,7 @@
 layout: term
 title: çekingenleştirme
 slug: cekingenlestirme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çekingenleştirmek işi

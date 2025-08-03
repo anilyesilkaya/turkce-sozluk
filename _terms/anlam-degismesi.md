@@ -2,6 +2,7 @@
 layout: term
 title: anlam değişmesi
 slug: anlam-degismesi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kelimenin daralma, genişleme, kayma, kötüleşme vb. yollarla yeni bir anlam kazanması

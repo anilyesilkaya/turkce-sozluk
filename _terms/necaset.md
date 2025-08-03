@@ -2,6 +2,7 @@
 layout: term
 title: necaset
 slug: necaset
+letter: N
 lisan: Arapça necāset
 anlamlar:
 - ► kirlilik

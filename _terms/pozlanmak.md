@@ -2,6 +2,7 @@
 layout: term
 title: pozlanmak
 slug: pozlanmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Çekilen fotoğraf doğru oranlarda ışık almak

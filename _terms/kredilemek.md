@@ -2,6 +2,7 @@
 layout: term
 title: kredilemek
 slug: kredilemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kredi açmak

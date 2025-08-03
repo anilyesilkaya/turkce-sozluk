@@ -2,6 +2,7 @@
 layout: term
 title: akreditif
 slug: akreditif
+letter: A
 lisan: Fransızca accréditif
 anlamlar:
 - ► güven yazısı

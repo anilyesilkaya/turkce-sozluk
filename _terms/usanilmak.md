@@ -2,6 +2,7 @@
 layout: term
 title: usanılmak
 slug: usanilmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Usanma işi yapılmak

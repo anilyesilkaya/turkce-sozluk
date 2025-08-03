@@ -2,6 +2,7 @@
 layout: term
 title: ziyan olmak
 slug: ziyan-olmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - boşuna harcanmak, zarar görmek

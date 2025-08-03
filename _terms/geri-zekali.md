@@ -2,6 +2,7 @@
 layout: term
 title: geri zekâlı
 slug: geri-zekali
+letter: G
 lisan: Türkçe
 anlamlar:
 - Zekâ düzeyi gelişmemiş (kimse); gerzek

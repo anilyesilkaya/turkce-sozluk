@@ -2,6 +2,7 @@
 layout: term
 title: tilkikuyruğu
 slug: tilkikuyrugu
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► hoşkuran

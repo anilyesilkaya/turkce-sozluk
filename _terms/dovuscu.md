@@ -2,6 +2,7 @@
 layout: term
 title: dövüşçü
 slug: dovuscu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dövüşmeyi seven kimse

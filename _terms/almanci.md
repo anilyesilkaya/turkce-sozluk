@@ -2,6 +2,7 @@
 layout: term
 title: Almancı
 slug: almanci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Almanya yanlısı olan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: çengellemek
 slug: cengellemek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çengelini takmak

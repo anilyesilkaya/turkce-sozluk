@@ -2,6 +2,7 @@
 layout: term
 title: gereğince
 slug: geregince
+letter: G
 lisan: Türkçe
 anlamlar:
 - Nasıl olması gerekli ise öyle, gereği gibi, gereğine göre, gerektiği gibi; uyarınca, mucibince, usulünce, usulü dairesinde

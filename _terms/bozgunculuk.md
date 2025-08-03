@@ -2,6 +2,7 @@
 layout: term
 title: bozgunculuk
 slug: bozgunculuk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bozguncu olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: taammüm etmek
 slug: taammum-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - yayılmak, genelleşmek

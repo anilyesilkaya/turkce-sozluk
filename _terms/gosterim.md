@@ -2,6 +2,7 @@
 layout: term
 title: gösterim
 slug: gosterim
+letter: G
 lisan: Türkçe
 anlamlar:
 - Görüntülerin gösterici yardımıyla bir yüzeye yansıtılması işi; projeksiyon

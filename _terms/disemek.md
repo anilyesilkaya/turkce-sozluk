@@ -2,6 +2,7 @@
 layout: term
 title: dişemek
 slug: disemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Diş çıkarmak

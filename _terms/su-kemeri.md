@@ -2,6 +2,7 @@
 layout: term
 title: su kemeri
 slug: su-kemeri
+letter: S
 lisan: Türkçe
 anlamlar:
 - Üzerinde su yolu bulunan kemerli köprü

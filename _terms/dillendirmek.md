@@ -2,6 +2,7 @@
 layout: term
 title: dillendirmek
 slug: dillendirmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Biri hakkında dedikodu yapılmasına sebep olmak

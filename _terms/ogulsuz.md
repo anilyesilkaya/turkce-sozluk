@@ -2,6 +2,7 @@
 layout: term
 title: oğulsuz
 slug: ogulsuz
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oğlu olmayan

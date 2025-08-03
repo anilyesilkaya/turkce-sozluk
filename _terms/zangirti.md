@@ -2,6 +2,7 @@
 layout: term
 title: zangırtı
 slug: zangirti
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Güçlü titremeyle oluşan sesin adı

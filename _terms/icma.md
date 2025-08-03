@@ -2,6 +2,7 @@
 layout: term
 title: icma
 slug: icma
+letter: I
 lisan: Arapça icmāʿ
 anlamlar:
 - ► toplama

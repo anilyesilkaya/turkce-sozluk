@@ -2,6 +2,7 @@
 layout: term
 title: derinlemesine
 slug: derinlemesine
+letter: D
 lisan: Türkçe
 anlamlar:
 - Ayrıntılı olarak, ayrıntılarıyla; derinliğine, uzun, uzun boylu

@@ -2,6 +2,7 @@
 layout: term
 title: rekolte
 slug: rekolte
+letter: R
 lisan: İtalyanca raccolta
 anlamlar:
 - Tarımda bir yılda derlenen ürünlerin bütünü

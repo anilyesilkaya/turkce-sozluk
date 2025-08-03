@@ -2,6 +2,7 @@
 layout: term
 title: altın küpü
 slug: altin-kupu
+letter: A
 lisan: Türkçe
 anlamlar:
 - İçinde altın saklanan küp vb.

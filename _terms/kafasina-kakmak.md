@@ -2,6 +2,7 @@
 layout: term
 title: kafasına kakmak
 slug: kafasina-kakmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - yapılan bir iyiliği yüzüne vurarak birini üzmek

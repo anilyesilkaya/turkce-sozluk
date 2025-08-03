@@ -2,6 +2,7 @@
 layout: term
 title: gözlükçü
 slug: gozlukcu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gözlük satan veya onaran kimse; optik, optikçi

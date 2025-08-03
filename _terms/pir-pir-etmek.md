@@ -2,6 +2,7 @@
 layout: term
 title: pır pır etmek
 slug: pir-pir-etmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - ışık yanıp sönmek

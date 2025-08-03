@@ -2,6 +2,7 @@
 layout: term
 title: şişirtme
 slug: sisirtme
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şişirtmek işi

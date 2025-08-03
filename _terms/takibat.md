@@ -2,6 +2,7 @@
 layout: term
 title: takibat
 slug: takibat
+letter: T
 lisan: Arapça taʿḳībāt
 anlamlar:
 - ► kovuşturma

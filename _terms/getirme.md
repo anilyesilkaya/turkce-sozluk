@@ -2,6 +2,7 @@
 layout: term
 title: getirme
 slug: getirme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Getirmek işi

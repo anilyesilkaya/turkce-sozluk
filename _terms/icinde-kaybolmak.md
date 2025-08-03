@@ -2,6 +2,7 @@
 layout: term
 title: içinde kaybolmak
 slug: icinde-kaybolmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - göze çarpmamak

@@ -2,6 +2,7 @@
 layout: term
 title: tersin tersin
 slug: tersin-tersin
+letter: T
 lisan: Türkçe
 anlamlar:
 - Ters olarak

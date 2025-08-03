@@ -2,6 +2,7 @@
 layout: term
 title: kaplanboğan
 slug: kaplanbogan
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kurtboğan

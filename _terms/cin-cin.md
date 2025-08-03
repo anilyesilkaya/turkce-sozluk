@@ -2,6 +2,7 @@
 layout: term
 title: çın çın
 slug: cin-cin
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Metal eşyaya vurulduğunda çıkan ses

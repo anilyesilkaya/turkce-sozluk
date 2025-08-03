@@ -2,6 +2,7 @@
 layout: term
 title: halk yardakçılığı
 slug: halk-yardakciligi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Halkı kışkırtmak işi

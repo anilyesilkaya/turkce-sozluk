@@ -2,6 +2,7 @@
 layout: term
 title: varılma
 slug: varilma
+letter: V
 lisan: Türkçe
 anlamlar:
 - Varılmak işi

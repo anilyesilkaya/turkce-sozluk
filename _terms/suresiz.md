@@ -2,6 +2,7 @@
 layout: term
 title: süresiz
 slug: suresiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Süresi belirli olmayan; müddetsiz

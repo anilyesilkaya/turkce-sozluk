@@ -2,6 +2,7 @@
 layout: term
 title: sivri fikirli
 slug: sivri-fikirli
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► sivri akıllı

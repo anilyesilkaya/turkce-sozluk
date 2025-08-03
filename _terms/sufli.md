@@ -2,6 +2,7 @@
 layout: term
 title: süfli
 slug: sufli
+letter: S
 lisan: Arapça suflī
 anlamlar:
 - Aşağı, aşağılık, bayağı, adi

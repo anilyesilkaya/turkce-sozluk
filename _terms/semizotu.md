@@ -2,6 +2,7 @@
 layout: term
 title: semizotu
 slug: semizotu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Semizotugillerden, etli ve mayhoş yaprakları sebze olarak yenilen otsu bir bitki; pirpirim, semizot (Portulaca oleracea)

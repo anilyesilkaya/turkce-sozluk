@@ -2,6 +2,7 @@
 layout: term
 title: çiğnemik
 slug: cignemik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Ağızda çiğnenip çıkarılan yemek; çiğnek (II)

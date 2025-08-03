@@ -2,6 +2,7 @@
 layout: term
 title: storlu
 slug: storlu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Storu bulunan

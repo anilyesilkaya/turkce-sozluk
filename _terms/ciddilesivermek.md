@@ -2,6 +2,7 @@
 layout: term
 title: ciddileşivermek
 slug: ciddilesivermek
+letter: C
 lisan: Türkçe
 anlamlar:
 - Ansızın veya çabucak ciddileşmek

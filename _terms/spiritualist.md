@@ -2,6 +2,7 @@
 layout: term
 title: spiritüalist
 slug: spiritualist
+letter: S
 lisan: Fransızca spiritualiste
 anlamlar:
 - ► ruhçu

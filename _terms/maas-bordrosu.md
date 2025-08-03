@@ -2,6 +2,7 @@
 layout: term
 title: maaş bordrosu
 slug: maas-bordrosu
+letter: M
 lisan: Türkçe
 anlamlar:
 - Çalışanların bir aylık hizmet bedelini, vergi matrahını ve kesintileri ile aylık net ücretini gösteren cetvel; bordro

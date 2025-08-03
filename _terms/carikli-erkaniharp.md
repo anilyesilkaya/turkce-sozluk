@@ -2,6 +2,7 @@
 layout: term
 title: çarıklı erkânıharp
 slug: carikli-erkaniharp
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Kurnaz veya uyanık köylü

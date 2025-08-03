@@ -2,6 +2,7 @@
 layout: term
 title: içinde
 slug: icinde
+letter: I
 lisan: Türkçe
 anlamlar:
 - Süresince, zarfında

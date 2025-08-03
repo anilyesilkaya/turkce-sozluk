@@ -2,6 +2,7 @@
 layout: term
 title: başta
 slug: basta
+letter: B
 lisan: Türkçe
 anlamlar:
 - İlk olarak

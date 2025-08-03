@@ -2,6 +2,7 @@
 layout: term
 title: uzlaştırmak
 slug: uzlastirmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Anlaşmazlık, dargınlık vb. durumda bulunan kimselerin uzlaşmalarını sağlamak; uylaştırmak, uyuşturmak (II)

@@ -2,6 +2,7 @@
 layout: term
 title: iltimas etmek (veya geçmek)
 slug: iltimas-etmek-veya-gecmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - kayırmak, korumak

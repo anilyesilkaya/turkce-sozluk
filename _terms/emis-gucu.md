@@ -2,6 +2,7 @@
 layout: term
 title: emiş gücü
 slug: emis-gucu
+letter: E
 lisan: Türkçe
 anlamlar:
 - Elektrik süpürgesi, aspiratör, vidanjör vb. araçların sistemleri vasıtasıyla dışarıdan toz, hava, su gibi şeyleri içlerine çekme gücü

@@ -2,6 +2,7 @@
 layout: term
 title: şeriatçılık
 slug: seriatcilik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şeriatçı olma durumu

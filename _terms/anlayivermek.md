@@ -2,6 +2,7 @@
 layout: term
 title: anlayıvermek
 slug: anlayivermek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Çabucak anlamak

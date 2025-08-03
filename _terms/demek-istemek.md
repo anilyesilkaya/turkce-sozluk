@@ -2,6 +2,7 @@
 layout: term
 title: demek istemek
 slug: demek-istemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - bir şeyi anlatmak istemek

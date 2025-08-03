@@ -2,6 +2,7 @@
 layout: term
 title: hâlâ
 slug: hala
+letter: H
 lisan: Arapça ḥālā
 anlamlar:
 - Şimdiye kadar, o zamana kadar; hâlen, henüz

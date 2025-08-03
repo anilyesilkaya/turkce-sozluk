@@ -2,6 +2,7 @@
 layout: term
 title: salça
 slug: salca
+letter: S
 lisan: İtalyanca salsa
 anlamlar:
 - Yemeklere lezzet ve renk katmak için konulan, tuzla terbiye edilmiş domates veya biber ezmesi

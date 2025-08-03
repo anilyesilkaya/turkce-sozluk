@@ -2,6 +2,7 @@
 layout: term
 title: kardeşsizlik
 slug: kardessizlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kardeşsiz olma durumu

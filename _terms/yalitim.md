@@ -2,6 +2,7 @@
 layout: term
 title: yalıtım
 slug: yalitim
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir ortamı, bir nesneyi elektrik, ses, ısı, su, nem veya gürültü geçirmeyen maddelerle kaplama işlemi; yalıtma, tecrit, izolasyon

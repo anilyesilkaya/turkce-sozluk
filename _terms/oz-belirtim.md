@@ -2,6 +2,7 @@
 layout: term
 title: öz belirtim
 slug: oz-belirtim
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Kendini yönetme hakkını belirleme; selfdeterminasyon

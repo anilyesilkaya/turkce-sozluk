@@ -2,6 +2,7 @@
 layout: term
 title: mineral
 slug: mineral
+letter: M
 lisan: Fransızca minéral
 anlamlar:
 - Normal sıcaklıkta doğada katı durumda birtakım maddelerle karışık veya birleşik olarak bulunan veya kimyasal yollarla elde edilen inorganik madde

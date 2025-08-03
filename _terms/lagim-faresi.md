@@ -2,6 +2,7 @@
 layout: term
 title: lağım faresi
 slug: lagim-faresi
+letter: L
 lisan: Türkçe
 anlamlar:
 - Kuyruğu hariç 18-25 santimetre boyunda ve 200-600 gram ağırlığında, küt burunlu, kulağı ve gözü küçük, kaba tüyleri kahverengi siyah, karın bölgesi gri beyaz arası bir renkte olan, daha çok kanalizasyon sisteminde, binaların bodrum veya alt katlarında yaşayan bir tür fare

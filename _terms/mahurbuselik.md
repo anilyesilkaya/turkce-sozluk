@@ -2,6 +2,7 @@
 layout: term
 title: mahurbuselik
 slug: mahurbuselik
+letter: M
 lisan: Farsça māhūr + bū-selīk
 anlamlar:
 - Klasik Türk müziğinde bir birleşik bir makam

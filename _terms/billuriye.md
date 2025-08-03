@@ -2,6 +2,7 @@
 layout: term
 title: billuriye
 slug: billuriye
+letter: B
 lisan: Arapça billūriyye
 anlamlar:
 - Billurdan yapılmış

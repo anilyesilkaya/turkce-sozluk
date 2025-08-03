@@ -2,6 +2,7 @@
 layout: term
 title: katakulli yapmak
 slug: katakulli-yapmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - tuzak veya düzen hazırlamak, oyun oynamak

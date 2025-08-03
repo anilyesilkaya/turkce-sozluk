@@ -2,6 +2,7 @@
 layout: term
 title: gaz maskesi
 slug: gaz-maskesi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Zehirli gazlardan korunmak amacıyla özel olarak yapılmış, ağız ve burnu kapatan gereç

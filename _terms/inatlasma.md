@@ -2,6 +2,7 @@
 layout: term
 title: inatlaşma
 slug: inatlasma
+letter: I
 lisan: Türkçe
 anlamlar:
 - İnatlaşmak işi; dayatışma

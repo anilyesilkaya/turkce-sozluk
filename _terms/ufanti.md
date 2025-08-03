@@ -2,6 +2,7 @@
 layout: term
 title: ufantı
 slug: ufanti
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ekmek ufağı, ekmek kırıntısı

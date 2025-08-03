@@ -2,6 +2,7 @@
 layout: term
 title: piyasa
 slug: piyasa
+letter: P
 lisan: İtalyanca piazza
 anlamlar:
 - Satıcıların mal satmak için bir araya geldiği yer; pazar

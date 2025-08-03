@@ -2,6 +2,7 @@
 layout: term
 title: aklını başından almak
 slug: aklini-basindan-almak
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir şey birini düşünemeyecek bir duruma getirmek, çok şaşırtmak

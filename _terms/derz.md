@@ -2,6 +2,7 @@
 layout: term
 title: derz
 slug: derz
+letter: D
 lisan: Arapça derz
 anlamlar:
 - Duvar taşlarının veya tuğlalarının harçla doldurulup üzerinden mala çekilerek düzeltilen aralığı

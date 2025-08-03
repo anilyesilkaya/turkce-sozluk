@@ -2,6 +2,7 @@
 layout: term
 title: kopyalanış
 slug: kopyalanis
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kopyalanmak işi

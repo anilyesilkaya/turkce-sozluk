@@ -2,6 +2,7 @@
 layout: term
 title: ağdalaşma
 slug: agdalasma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağdalaşmak durumu

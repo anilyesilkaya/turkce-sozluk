@@ -2,6 +2,7 @@
 layout: term
 title: baca kaşı
 slug: baca-kasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir şöminenin, ocağın üstündeki taş veya taştan raf; bacabaşı

@@ -2,6 +2,7 @@
 layout: term
 title: muflon
 slug: muflon
+letter: M
 lisan: Fransızca mouflon
 anlamlar:
 - Pardösülerin içine iliklenerek veya fermuarla geçirilen bir tür çok kalın, eğreti astar

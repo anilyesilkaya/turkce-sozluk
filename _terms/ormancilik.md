@@ -2,6 +2,7 @@
 layout: term
 title: ormancılık
 slug: ormancilik
+letter: O
 lisan: Türkçe
 anlamlar:
 - Orman işi ile uğraşma

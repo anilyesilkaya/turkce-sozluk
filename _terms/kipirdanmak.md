@@ -2,6 +2,7 @@
 layout: term
 title: kıpırdanmak
 slug: kipirdanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kımıldamak

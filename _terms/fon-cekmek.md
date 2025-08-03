@@ -2,6 +2,7 @@
 layout: term
 title: fön çekmek
 slug: fon-cekmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - aletle saçı kurutup biçim vererek taramak

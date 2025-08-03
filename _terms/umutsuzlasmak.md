@@ -2,6 +2,7 @@
 layout: term
 title: umutsuzlaşmak
 slug: umutsuzlasmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Umutsuz duruma gelmek

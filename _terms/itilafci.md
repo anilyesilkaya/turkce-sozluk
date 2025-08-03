@@ -2,6 +2,7 @@
 layout: term
 title: itilafçı
 slug: itilafci
+letter: I
 lisan: Türkçe
 anlamlar:
 - Anlaşma, uyuşma yanlısı olan kimse

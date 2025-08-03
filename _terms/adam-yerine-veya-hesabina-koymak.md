@@ -2,6 +2,7 @@
 layout: term
 title: adam yerine (veya hesabına) koymak
 slug: adam-yerine-veya-hesabina-koymak
+letter: A
 lisan: Türkçe
 anlamlar:
 - adamdan saymak, varlığını kabul etmek

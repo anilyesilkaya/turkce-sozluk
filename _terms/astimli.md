@@ -2,6 +2,7 @@
 layout: term
 title: astımlı
 slug: astimli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Astımı olan, astım hastalığına tutulmuş olan

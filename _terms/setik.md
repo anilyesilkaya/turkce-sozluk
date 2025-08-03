@@ -2,6 +2,7 @@
 layout: term
 title: setik
 slug: setik
+letter: S
 lisan: Türkçe
 anlamlar:
 - İnce bulgur

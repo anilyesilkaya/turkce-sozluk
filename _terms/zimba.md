@@ -2,6 +2,7 @@
 layout: term
 title: zımba
 slug: zimba
+letter: Z
 lisan: Farsça zunbe
 anlamlar:
 - ► delgeç

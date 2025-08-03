@@ -2,6 +2,7 @@
 layout: term
 title: cıncık
 slug: cincik
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► züccaciye

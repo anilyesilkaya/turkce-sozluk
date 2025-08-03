@@ -2,6 +2,7 @@
 layout: term
 title: dumanlanma
 slug: dumanlanma
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dumanlanmak durumu

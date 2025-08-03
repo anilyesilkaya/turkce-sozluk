@@ -2,6 +2,7 @@
 layout: term
 title: dilenci çanağı
 slug: dilenci-canagi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dilencilerin sadakalarını topladığı küçük, çukur kap

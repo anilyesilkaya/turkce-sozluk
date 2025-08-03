@@ -2,6 +2,7 @@
 layout: term
 title: eblehleşmek
 slug: eblehlesmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ebleh durumuna gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: tıslayış
 slug: tislayis
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tıslamak işi

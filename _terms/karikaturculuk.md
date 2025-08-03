@@ -2,6 +2,7 @@
 layout: term
 title: karikatürcülük
 slug: karikaturculuk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karikatürcünün yaptığı iş; çizerlik, karikatüristlik

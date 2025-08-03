@@ -2,6 +2,7 @@
 layout: term
 title: ritmik
 slug: ritmik
+letter: R
 lisan: Fransızca rythmique
 anlamlar:
 - ► ritimli

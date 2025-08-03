@@ -2,6 +2,7 @@
 layout: term
 title: amiyane
 slug: amiyane
+letter: A
 lisan: Arapça ʿāmmī + Farsça -āne
 anlamlar:
 - ► basit

@@ -2,6 +2,7 @@
 layout: term
 title: semirgin
 slug: semirgin
+letter: S
 lisan: Türkçe
 anlamlar:
 - Tembellikten yağ bağlayan, semiren (kimse)

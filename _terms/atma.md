@@ -2,6 +2,7 @@
 layout: term
 title: atma
 slug: atma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Atmak işi

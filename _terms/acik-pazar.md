@@ -2,6 +2,7 @@
 layout: term
 title: açık pazar
 slug: acik-pazar
+letter: A
 lisan: Türkçe
 anlamlar:
 - Her devletin malını serbestçe satabileceği, gümrük işlemleri yapılmayan şehir veya ülke

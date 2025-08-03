@@ -2,6 +2,7 @@
 layout: term
 title: kayalaşmak
 slug: kayalasmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaya durumuna gelmek

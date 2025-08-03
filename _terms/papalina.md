@@ -2,6 +2,7 @@
 layout: term
 title: papalina
 slug: papalina
+letter: P
 lisan: Türkçe
 anlamlar:
 - Sardalya yavrusu

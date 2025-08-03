@@ -2,6 +2,7 @@
 layout: term
 title: çağmak
 slug: cagmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Güneş ışığı vurmak

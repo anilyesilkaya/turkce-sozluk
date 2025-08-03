@@ -2,6 +2,7 @@
 layout: term
 title: gönül (veya gönlünü) almak
 slug: gonul-veya-gonlunu-almak
+letter: G
 lisan: Türkçe
 anlamlar:
 - sevindirmek, taltif etmek

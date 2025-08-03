@@ -2,6 +2,7 @@
 layout: term
 title: balon
 slug: balon
+letter: B
 lisan: Fransızca ballon
 anlamlar:
 - Isıtılmış hava veya havadan daha hafif bir gazla doldurulan, atmosferde uçabilen, küre biçiminde araç

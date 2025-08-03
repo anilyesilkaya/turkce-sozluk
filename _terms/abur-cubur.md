@@ -2,6 +2,7 @@
 layout: term
 title: abur cubur
 slug: abur-cubur
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yararı gözetilmeksizin rastgele yenilen şeyler

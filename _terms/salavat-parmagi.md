@@ -2,6 +2,7 @@
 layout: term
 title: salavat parmağı
 slug: salavat-parmagi
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► işaret parmağı

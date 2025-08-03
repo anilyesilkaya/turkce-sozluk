@@ -2,6 +2,7 @@
 layout: term
 title: çevirici
 slug: cevirici
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çevirmen

@@ -2,6 +2,7 @@
 layout: term
 title: veznedarlık
 slug: veznedarlik
+letter: V
 lisan: Türkçe
 anlamlar:
 - ► veznecilik

@@ -2,6 +2,7 @@
 layout: term
 title: yer sakızı
 slug: yer-sakizi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► bitüm

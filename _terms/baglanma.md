@@ -2,6 +2,7 @@
 layout: term
 title: bağlanma
 slug: baglanma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağlanmak işi veya durumu; intisap, takayyüt

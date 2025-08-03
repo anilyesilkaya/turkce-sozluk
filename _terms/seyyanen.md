@@ -2,6 +2,7 @@
 layout: term
 title: seyyanen
 slug: seyyanen
+letter: S
 lisan: Arapça siyyānen
 anlamlar:
 - Eşit olarak

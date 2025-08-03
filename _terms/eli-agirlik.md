@@ -2,6 +2,7 @@
 layout: term
 title: eli ağırlık
 slug: eli-agirlik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eli ağır olma durumu; ağırellilik

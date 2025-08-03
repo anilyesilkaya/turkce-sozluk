@@ -2,6 +2,7 @@
 layout: term
 title: eğitmenlik
 slug: egitmenlik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eğitmenin işi

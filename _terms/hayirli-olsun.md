@@ -2,6 +2,7 @@
 layout: term
 title: hayırlı olsun
 slug: hayirli-olsun
+letter: H
 lisan: Türkçe
 anlamlar:
 - '"güle güle kullan" anlamında kullanılan bir söz'

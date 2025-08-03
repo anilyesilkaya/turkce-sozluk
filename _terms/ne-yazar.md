@@ -2,6 +2,7 @@
 layout: term
 title: ne yazar
 slug: ne-yazar
+letter: N
 lisan: Türkçe
 anlamlar:
 - '"hükmü olur mu? değeri var mı?" anlamında kullanılan bir söz'

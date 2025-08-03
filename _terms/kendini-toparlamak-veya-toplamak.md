@@ -2,6 +2,7 @@
 layout: term
 title: kendini toparlamak (veya toplamak)
 slug: kendini-toparlamak-veya-toplamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - herhangi bir konuda eskiden kötü olan durumunu düzeltmek

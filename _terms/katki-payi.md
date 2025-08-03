@@ -2,6 +2,7 @@
 layout: term
 title: katkı payı
 slug: katki-payi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir işe, bir ortaklığa girişte ödenen ücret

@@ -2,6 +2,7 @@
 layout: term
 title: tıkır tıkır
 slug: tikir-tikir
+letter: T
 lisan: Türkçe
 anlamlar:
 - Düzenli bir biçimde, ara vermeden, aksamadan

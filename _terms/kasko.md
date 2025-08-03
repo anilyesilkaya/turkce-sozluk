@@ -2,6 +2,7 @@
 layout: term
 title: kasko
 slug: kasko
+letter: K
 lisan: İtalyanca casco
 anlamlar:
 - Taşıtların uğrayacakları kazadan doğacak zararların tamamının karşılanması için yapılan sigorta türü

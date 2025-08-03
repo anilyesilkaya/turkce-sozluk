@@ -2,6 +2,7 @@
 layout: term
 title: kuzeydoğu
 slug: kuzeydogu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kuzeyle doğu arasındaki yön

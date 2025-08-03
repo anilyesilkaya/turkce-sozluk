@@ -2,6 +2,7 @@
 layout: term
 title: içli köfte
 slug: icli-kofte
+letter: I
 lisan: Türkçe
 anlamlar:
 - Yağsız kıyma ile ince bulgur iyice yoğrulup içi oyularak yumurta biçiminde hazırlanan ve içerisine kavrulmuş soğanlı kıyma konduktan sonra haşlanan veya kızartılan bir köfte türü

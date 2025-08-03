@@ -2,6 +2,7 @@
 layout: term
 title: gradosu düşmek
 slug: gradosu-dusmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - itibarı azalmak

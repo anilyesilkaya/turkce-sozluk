@@ -2,6 +2,7 @@
 layout: term
 title: ağır yaralı
 slug: agir-yarali
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bedeninde derin ve ciddi yarası olan

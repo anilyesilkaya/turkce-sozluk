@@ -2,6 +2,7 @@
 layout: term
 title: kazıma
 slug: kazima
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kazımak işi

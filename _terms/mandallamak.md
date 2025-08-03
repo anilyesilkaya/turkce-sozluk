@@ -2,6 +2,7 @@
 layout: term
 title: mandallamak
 slug: mandallamak
+letter: M
 lisan: Türkçe
 anlamlar:
 - Kapı, pencere kanadını mandalla tutturmak

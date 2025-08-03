@@ -2,6 +2,7 @@
 layout: term
 title: tombaz
 slug: tombaz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Irmaklarda işleyen, altı düz kayık

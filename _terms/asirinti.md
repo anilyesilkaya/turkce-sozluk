@@ -2,6 +2,7 @@
 layout: term
 title: aşırıntı
 slug: asirinti
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aşırılmış olan şey

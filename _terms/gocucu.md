@@ -2,6 +2,7 @@
 layout: term
 title: göçücü
 slug: gocucu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Göçme işini yapan

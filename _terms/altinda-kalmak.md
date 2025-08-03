@@ -2,6 +2,7 @@
 layout: term
 title: altında kalmak
 slug: altinda-kalmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ezilmek

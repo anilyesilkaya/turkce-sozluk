@@ -2,6 +2,7 @@
 layout: term
 title: rüçhan
 slug: ruchan
+letter: R
 lisan: Arapça rucḥān
 anlamlar:
 - ► üstünlük

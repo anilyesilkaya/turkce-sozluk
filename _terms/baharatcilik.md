@@ -2,6 +2,7 @@
 layout: term
 title: baharatçılık
 slug: baharatcilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Baharatçının yaptığı iş; baharcılık

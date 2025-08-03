@@ -2,6 +2,7 @@
 layout: term
 title: dermansızlık
 slug: dermansizlik
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► takatsizlik

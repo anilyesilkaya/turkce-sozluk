@@ -2,6 +2,7 @@
 layout: term
 title: sel götürmek
 slug: sel-goturmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - çok yağmur yağmak

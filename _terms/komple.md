@@ -2,6 +2,7 @@
 layout: term
 title: komple
 slug: komple
+letter: K
 lisan: Fransızca complet
 anlamlar:
 - ► dolu (II)

@@ -2,6 +2,7 @@
 layout: term
 title: tiyatrocu
 slug: tiyatrocu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tiyatro oyuncusu

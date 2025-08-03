@@ -2,6 +2,7 @@
 layout: term
 title: bunalış
 slug: bunalis
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bunalmak işi

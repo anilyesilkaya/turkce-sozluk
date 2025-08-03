@@ -2,6 +2,7 @@
 layout: term
 title: hecin
 slug: hecin
+letter: H
 lisan: Arapça hecīn
 anlamlar:
 - Devegillerden, sırtında besin depo etmeye yarayan tek hörgücü bulunan, hızlı yürüyen, susuzluğa dayanıklı bir tür memeli (Camelus dromedarius)

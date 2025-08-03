@@ -2,6 +2,7 @@
 layout: term
 title: iradecilik
 slug: iradecilik
+letter: I
 lisan: Türkçe
 anlamlar:
 - Akla ve bilime değil de iradeye üstünlük tanıyan, ruhsal olayların ve bilgi sürecinin temelinde iradeyi gören bilim dışı öğreti; istenççilik, iradiye, volontarizm

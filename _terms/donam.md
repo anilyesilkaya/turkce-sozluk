@@ -2,6 +2,7 @@
 layout: term
 title: donam
 slug: donam
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir evin kapı, pencere, tavan, döşeme vb. bölümleri

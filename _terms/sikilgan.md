@@ -2,6 +2,7 @@
 layout: term
 title: sıkılgan
 slug: sikilgan
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► utangaç

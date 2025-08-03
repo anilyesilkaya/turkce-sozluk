@@ -2,6 +2,7 @@
 layout: term
 title: dangadak
 slug: dangadak
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► ansızın

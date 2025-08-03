@@ -2,6 +2,7 @@
 layout: term
 title: tekerine (veya tekerinin önüne) taş koymak
 slug: tekerine-veya-tekerinin-onune-tas-koymak
+letter: T
 lisan: Türkçe
 anlamlar:
 - tekere çomak sokmak

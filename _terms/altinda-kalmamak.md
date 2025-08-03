@@ -2,6 +2,7 @@
 layout: term
 title: altında kalmamak
 slug: altinda-kalmamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - karşılığını vermek, gördüğü iyilik veya kötülüğü karşılıksız bırakmamak

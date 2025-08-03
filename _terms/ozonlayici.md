@@ -2,6 +2,7 @@
 layout: term
 title: ozonlayıcı
 slug: ozonlayici
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► ozonlama cihazı

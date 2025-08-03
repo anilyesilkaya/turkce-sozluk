@@ -2,6 +2,7 @@
 layout: term
 title: garazkâr
 slug: garazkar
+letter: G
 lisan: Arapça ġaraż + Farsça -kār
 anlamlar:
 - ► garazlı

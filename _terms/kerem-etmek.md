@@ -2,6 +2,7 @@
 layout: term
 title: kerem etmek
 slug: kerem-etmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - bağışta, iyilikte bulunmak

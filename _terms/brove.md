@@ -2,6 +2,7 @@
 layout: term
 title: bröve
 slug: brove
+letter: B
 lisan: Fransızca brevet
 anlamlar:
 - Belli bir eğitimden sonra uçak kullanabilecek veya paraşütle atlayabilecek duruma gelmiş kimselere verilen yeterlik belgesi

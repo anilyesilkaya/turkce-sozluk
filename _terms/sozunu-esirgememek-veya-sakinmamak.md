@@ -2,6 +2,7 @@
 layout: term
 title: sözünü esirgememek (veya sakınmamak)
 slug: sozunu-esirgememek-veya-sakinmamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - düşündüğünü, karşısındakini kıracak bir söz olsa bile söylemekten çekinmemek

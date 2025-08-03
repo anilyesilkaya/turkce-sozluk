@@ -2,6 +2,7 @@
 layout: term
 title: soluksuz
 slug: soluksuz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Soluk alamayacak bir biçimde

@@ -2,6 +2,7 @@
 layout: term
 title: kaynağını (bir şeyden) almak
 slug: kaynagini-bir-seyden-almak
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir esasa veya desteğe dayandırmak

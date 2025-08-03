@@ -2,6 +2,7 @@
 layout: term
 title: ehlisalip
 slug: ehlisalip
+letter: E
 lisan: Arapça ehl + ṣalīb
 anlamlar:
 - ► Haçlı

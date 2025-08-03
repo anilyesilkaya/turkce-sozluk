@@ -2,6 +2,7 @@
 layout: term
 title: noktası noktasına
 slug: noktasi-noktasina
+letter: N
 lisan: Türkçe
 anlamlar:
 - Eksiksiz olarak, tastamam bir biçimde

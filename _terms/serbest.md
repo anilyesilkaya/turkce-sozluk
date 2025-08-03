@@ -2,6 +2,7 @@
 layout: term
 title: serbest
 slug: serbest
+letter: S
 lisan: Farsça serbest
 anlamlar:
 - Hiçbir şarta bağlı olmayan, istediği gibi davranabilen; azade

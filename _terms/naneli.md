@@ -2,6 +2,7 @@
 layout: term
 title: naneli
 slug: naneli
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nanesi olan

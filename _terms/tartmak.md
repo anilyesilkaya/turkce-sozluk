@@ -2,6 +2,7 @@
 layout: term
 title: tartmak
 slug: tartmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir şeyin birim cinsten ağırlığını bulmak

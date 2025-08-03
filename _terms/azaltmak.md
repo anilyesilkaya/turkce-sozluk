@@ -2,6 +2,7 @@
 layout: term
 title: azaltmak
 slug: azaltmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Az denecek bir miktara indirmek; azlaştırmak

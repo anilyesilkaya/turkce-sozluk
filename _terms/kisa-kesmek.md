@@ -2,6 +2,7 @@
 layout: term
 title: kısa kesmek
 slug: kisa-kesmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - sözü uzatmamak

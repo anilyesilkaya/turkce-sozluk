@@ -2,6 +2,7 @@
 layout: term
 title: çarpıntılı
 slug: carpintili
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Heyecanlı, telaşlı

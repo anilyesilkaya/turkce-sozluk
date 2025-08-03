@@ -2,6 +2,7 @@
 layout: term
 title: kolbaşı
 slug: kolbasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Herhangi bir ekibin, grubun, iş takımının başı

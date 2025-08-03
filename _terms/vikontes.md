@@ -2,6 +2,7 @@
 layout: term
 title: vikontes
 slug: vikontes
+letter: V
 lisan: Fransızca vicomtesse
 anlamlar:
 - Kadın vikont veya vikont karısı

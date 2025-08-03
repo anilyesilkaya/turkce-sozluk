@@ -2,6 +2,7 @@
 layout: term
 title: dibini boylamak
 slug: dibini-boylamak
+letter: D
 lisan: Türkçe
 anlamlar:
 - batmak

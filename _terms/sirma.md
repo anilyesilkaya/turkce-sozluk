@@ -2,6 +2,7 @@
 layout: term
 title: sırma
 slug: sirma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Altın yaldızlı veya yaldızsız ince gümüş tel

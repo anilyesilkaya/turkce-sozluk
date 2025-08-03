@@ -2,6 +2,7 @@
 layout: term
 title: zikzak
 slug: zikzak
+letter: Z
 lisan: Fransızca zigzag
 anlamlar:
 - Art arda birdenbire ters yöne açılar yapan kırık çizgi

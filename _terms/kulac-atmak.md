@@ -2,6 +2,7 @@
 layout: term
 title: kulaç atmak
 slug: kulac-atmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - yüzerken kolları, sırayla üstten ileriye doğru atıp suyu arkaya doğru çekmek

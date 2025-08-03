@@ -2,6 +2,7 @@
 layout: term
 title: maskelemek
 slug: maskelemek
+letter: M
 lisan: Türkçe
 anlamlar:
 - Görünmemesini sağlamak, maske ile örtmek

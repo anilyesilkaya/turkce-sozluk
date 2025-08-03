@@ -2,6 +2,7 @@
 layout: term
 title: arka çevirmek
 slug: arka-cevirmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - sırt çevirmek

@@ -2,6 +2,7 @@
 layout: term
 title: tecrübe
 slug: tecrube
+letter: T
 lisan: Arapça tecribe
 anlamlar:
 - ► deneyim

@@ -2,6 +2,7 @@
 layout: term
 title: haberdar etmek
 slug: haberdar-etmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - haber vermek, bildirmek

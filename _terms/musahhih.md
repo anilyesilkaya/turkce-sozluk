@@ -2,6 +2,7 @@
 layout: term
 title: musahhih
 slug: musahhih
+letter: M
 lisan: Arapça muṣaḥḥiḥ
 anlamlar:
 - ► düzeltmen

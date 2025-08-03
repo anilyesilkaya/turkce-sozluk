@@ -2,6 +2,7 @@
 layout: term
 title: cayırtılı
 slug: cayirtili
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cayırtısı olan

@@ -2,6 +2,7 @@
 layout: term
 title: toprağa düşmek
 slug: topraga-dusmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - ölüp gömülmek

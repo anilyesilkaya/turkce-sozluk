@@ -2,6 +2,7 @@
 layout: term
 title: iri
 slug: iri
+letter: I
 lisan: Türkçe
 anlamlar:
 - Olağandan daha hacimli, olağanı aşan büyüklüğü olan; müşekkel, ince karşıtı

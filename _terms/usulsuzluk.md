@@ -2,6 +2,7 @@
 layout: term
 title: usulsüzlük
 slug: usulsuzluk
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► yöntemsizlik

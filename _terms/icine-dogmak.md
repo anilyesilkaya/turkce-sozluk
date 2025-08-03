@@ -2,6 +2,7 @@
 layout: term
 title: içine doğmak
 slug: icine-dogmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - bir işin olacağını veya olduğunu hiçbir belirtiye dayanmadan önceden sezinlemek, malum olmak

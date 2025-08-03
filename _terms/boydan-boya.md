@@ -2,6 +2,7 @@
 layout: term
 title: boydan boya
 slug: boydan-boya
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir uçtan öbür uca kadar

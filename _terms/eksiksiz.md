@@ -2,6 +2,7 @@
 layout: term
 title: eksiksiz
 slug: eksiksiz
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eksiği olmayan; tam, tamam, mükemmel, noksansız, tekmil

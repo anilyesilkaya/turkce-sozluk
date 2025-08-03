@@ -2,6 +2,7 @@
 layout: term
 title: net
 slug: net
+letter: N
 lisan: İngilizce let
 anlamlar:
 - Tenis, masa tenisi gibi oyunlarda servis atışlarında topun karşı sahaya geçerken fileye değdiğini belirtmek için kullanılan bir söz

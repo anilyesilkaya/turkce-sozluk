@@ -2,6 +2,7 @@
 layout: term
 title: sağmal
 slug: sagmal
+letter: S
 lisan: Türkçe
 anlamlar:
 - Süt veren, sağılan; sağımlı, sütlü

@@ -2,6 +2,7 @@
 layout: term
 title: yâr
 slug: yar
+letter: Y
 lisan: Farsça yār
 anlamlar:
 - ► sevgili

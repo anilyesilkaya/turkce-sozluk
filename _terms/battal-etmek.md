@@ -2,6 +2,7 @@
 layout: term
 title: battal etmek
 slug: battal-etmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - kullanılmaz, işe yaramaz duruma getirmek

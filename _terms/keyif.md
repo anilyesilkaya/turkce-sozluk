@@ -2,6 +2,7 @@
 layout: term
 title: keyif
 slug: keyif
+letter: K
 lisan: Arapça keyf
 anlamlar:
 - ► sağlık

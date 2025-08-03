@@ -2,6 +2,7 @@
 layout: term
 title: haddeleme
 slug: haddeleme
+letter: H
 lisan: Türkçe
 anlamlar:
 - Haddelemek işi

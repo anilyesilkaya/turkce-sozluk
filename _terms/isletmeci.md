@@ -2,6 +2,7 @@
 layout: term
 title: işletmeci
 slug: isletmeci
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bir fabrikayı veya gelir getiren bir kuruluşu yöneten kimse; operatör

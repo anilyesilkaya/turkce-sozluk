@@ -2,6 +2,7 @@
 layout: term
 title: kaymakam
 slug: kaymakam
+letter: K
 lisan: Arapça ḳāʾim + maḳām
 anlamlar:
 - Bir ilçede devleti temsil eden en yetkili yönetim görevlisi; ilçebay, yarbay

@@ -2,6 +2,7 @@
 layout: term
 title: vitrinci
 slug: vitrinci
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vitrini düzenleyen kimse

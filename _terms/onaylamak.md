@@ -2,6 +2,7 @@
 layout: term
 title: onaylamak
 slug: onaylamak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Yapılan bir işi doğru ve yerinde bularak kabul etmek; tasdik etmek, tasdiklemek

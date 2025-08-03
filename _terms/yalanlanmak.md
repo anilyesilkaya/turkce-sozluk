@@ -2,6 +2,7 @@
 layout: term
 title: yalanlanmak
 slug: yalanlanmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yalanlama işi yapılmak veya yalanlama işine konu olmak

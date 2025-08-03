@@ -2,6 +2,7 @@
 layout: term
 title: sağın bilimler
 slug: sagin-bilimler
+letter: S
 lisan: Türkçe
 anlamlar:
 - Denetlenebilir ölçü ve hesaplara dayanan bilimler, dar anlamda matematik

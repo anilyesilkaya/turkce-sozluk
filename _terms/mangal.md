@@ -2,6 +2,7 @@
 layout: term
 title: mangal
 slug: mangal
+letter: M
 lisan: Arapça manḳal
 anlamlar:
 - Üzerinde bir şey pişirmek veya ısınmak için kullanılan, sac, bakır, pirinç vb. malzemeden yapılan, türlü biçimlerdeki üstü açık ayaklı ocak; korluk

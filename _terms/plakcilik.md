@@ -2,6 +2,7 @@
 layout: term
 title: plakçılık
 slug: plakcilik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Plakçının işi veya mesleği

@@ -2,6 +2,7 @@
 layout: term
 title: ciğer otu
 slug: ciger-otu
+letter: C
 lisan: Türkçe
 anlamlar:
 - Düğün çiçeğigillerden, çok yıllık otsu bir bitki (Hepatica)

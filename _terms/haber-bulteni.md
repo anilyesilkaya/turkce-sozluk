@@ -2,6 +2,7 @@
 layout: term
 title: haber bülteni
 slug: haber-bulteni
+letter: H
 lisan: Türkçe
 anlamlar:
 - Radyonun, televizyonun ve çeşitli haber ajanslarının günün iç ve dış olayları konusunda kamuoyunu aydınlatmak amacıyla yayımladıkları kısa metin

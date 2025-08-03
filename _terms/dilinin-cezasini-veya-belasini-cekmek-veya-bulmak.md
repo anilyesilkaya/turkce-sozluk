@@ -2,6 +2,7 @@
 layout: term
 title: dilinin cezasını (veya belasını) çekmek (veya bulmak)
 slug: dilinin-cezasini-veya-belasini-cekmek-veya-bulmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - ölçüsüz, düşüncesiz konuşma yüzünden zarar görmek

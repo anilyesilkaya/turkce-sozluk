@@ -2,6 +2,7 @@
 layout: term
 title: çömmek
 slug: commek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çömelmek

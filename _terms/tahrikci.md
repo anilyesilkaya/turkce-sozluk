@@ -2,6 +2,7 @@
 layout: term
 title: tahrikçi
 slug: tahrikci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tahrik eden kimse

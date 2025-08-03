@@ -2,6 +2,7 @@
 layout: term
 title: polis
 slug: polis
+letter: P
 lisan: Fransızca police
 anlamlar:
 - Şehirde kamu düzenini, huzur ve güvenliği sağlayan kuruluş

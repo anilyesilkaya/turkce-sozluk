@@ -2,6 +2,7 @@
 layout: term
 title: baldırak
 slug: baldirak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Don, pantolon vb. giysilerin dizden aşağı olan bölümü

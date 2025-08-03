@@ -2,6 +2,7 @@
 layout: term
 title: buracık
 slug: buracik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Yakın ve belirli bir yer

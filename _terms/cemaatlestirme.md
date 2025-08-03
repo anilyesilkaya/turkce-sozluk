@@ -2,6 +2,7 @@
 layout: term
 title: cemaatleştirme
 slug: cemaatlestirme
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cemaatleştirmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: Noel
 slug: noel
+letter: N
 lisan: Fransızca noël
 anlamlar:
 - Hristiyanların her yıl 25 Aralık'ta Hz. İsa'nın doğum gününü kutladıkları yortu

@@ -2,6 +2,7 @@
 layout: term
 title: öfkesini kusmak
 slug: ofkesini-kusmak
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - kızgınlıkla ağır hakaret etmek

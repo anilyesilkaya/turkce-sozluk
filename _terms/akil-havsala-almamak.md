@@ -2,6 +2,7 @@
 layout: term
 title: akıl havsala almamak
 slug: akil-havsala-almamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - akla mantığa sığmamak

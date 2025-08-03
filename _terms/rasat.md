@@ -2,6 +2,7 @@
 layout: term
 title: rasat
 slug: rasat
+letter: R
 lisan: Arapça raṣad
 anlamlar:
 - ► gözlem

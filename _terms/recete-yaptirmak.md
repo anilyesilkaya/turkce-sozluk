@@ -2,6 +2,7 @@
 layout: term
 title: reçete yaptırmak
 slug: recete-yaptirmak
+letter: R
 lisan: Türkçe
 anlamlar:
 - reçetede yazılı olan ilaçları hazırlatmak veya satın almak

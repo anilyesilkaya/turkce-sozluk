@@ -2,6 +2,7 @@
 layout: term
 title: yaylandırma
 slug: yaylandirma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaylandırmak işi

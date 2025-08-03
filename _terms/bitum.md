@@ -2,6 +2,7 @@
 layout: term
 title: bitüm
 slug: bitum
+letter: B
 lisan: Fransızca bitume
 anlamlar:
 - Keskin bir koku, alev ve koyu duman çıkararak yanan, karbon ve hidrojen bakımından çok zengin doğal yakıt maddelerinin genel adı; yer sakızı

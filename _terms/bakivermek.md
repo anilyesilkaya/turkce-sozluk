@@ -2,6 +2,7 @@
 layout: term
 title: bakıvermek
 slug: bakivermek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çabucak bakmak

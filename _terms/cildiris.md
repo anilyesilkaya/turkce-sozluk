@@ -2,6 +2,7 @@
 layout: term
 title: çıldırış
 slug: cildiris
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıldırmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: sızdırmak
 slug: sizdirmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Azar azar akıtmak; sızırmak

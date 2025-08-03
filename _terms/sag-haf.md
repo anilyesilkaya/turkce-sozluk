@@ -2,6 +2,7 @@
 layout: term
 title: sağ haf
 slug: sag-haf
+letter: S
 lisan: Türkçe
 anlamlar:
 - Orta sahanın en sağında oynayan oyuncu

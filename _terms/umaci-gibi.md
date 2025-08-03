@@ -2,6 +2,7 @@
 layout: term
 title: umacı gibi
 slug: umaci-gibi
+letter: U
 lisan: Türkçe
 anlamlar:
 - korkunç ve çirkin görünüşlü

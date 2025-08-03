@@ -2,6 +2,7 @@
 layout: term
 title: çalkı
 slug: calki
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çalgıç

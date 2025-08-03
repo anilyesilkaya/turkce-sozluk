@@ -2,6 +2,7 @@
 layout: term
 title: kına gibi
 slug: kina-gibi
+letter: K
 lisan: Türkçe
 anlamlar:
 - çok ince, toz biçiminde

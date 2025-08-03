@@ -2,6 +2,7 @@
 layout: term
 title: açık pembe
 slug: acik-pembe
+letter: A
 lisan: Türkçe
 anlamlar:
 - Pembenin bir veya birkaç ton açığı

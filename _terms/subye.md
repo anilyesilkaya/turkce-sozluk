@@ -2,6 +2,7 @@
 layout: term
 title: sübye
 slug: subye
+letter: S
 lisan: Rumca
 anlamlar:
 - ► mürekkep balığı

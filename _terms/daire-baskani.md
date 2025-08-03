@@ -2,6 +2,7 @@
 layout: term
 title: daire başkanı
 slug: daire-baskani
+letter: D
 lisan: Türkçe
 anlamlar:
 - Devlet işlerini yöneten kurum ve kuruluşlarda, her bir idari birimin başkanı

@@ -2,6 +2,7 @@
 layout: term
 title: çağrısız
 slug: cagrisiz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çağrılmamış veya çağrılmayan (kimse)

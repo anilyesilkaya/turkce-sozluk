@@ -2,6 +2,7 @@
 layout: term
 title: ere vermek
 slug: ere-vermek
+letter: E
 lisan: Türkçe
 anlamlar:
 - kızı evlendirmek

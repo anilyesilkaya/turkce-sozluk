@@ -2,6 +2,7 @@
 layout: term
 title: haklılık
 slug: haklilik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Haklı olma durumu

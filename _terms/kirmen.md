@@ -2,6 +2,7 @@
 layout: term
 title: kirmen
 slug: kirmen
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► eğirmen

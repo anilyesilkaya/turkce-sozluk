@@ -2,6 +2,7 @@
 layout: term
 title: sımsıkı
 slug: simsiki
+letter: S
 lisan: Türkçe
 anlamlar:
 - Çok sıkı

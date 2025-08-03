@@ -2,6 +2,7 @@
 layout: term
 title: tıraşlı
 slug: tirasli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tıraş olmuş, sakalını tıraş etmiş; matruş

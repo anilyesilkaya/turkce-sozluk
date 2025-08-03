@@ -2,6 +2,7 @@
 layout: term
 title: meftun etmek
 slug: meftun-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - birini kendine bağlamak

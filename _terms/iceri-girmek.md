@@ -2,6 +2,7 @@
 layout: term
 title: içeri girmek
 slug: iceri-girmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - bir iş veya alışverişte zarar etmek

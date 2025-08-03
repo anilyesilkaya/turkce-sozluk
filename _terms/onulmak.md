@@ -2,6 +2,7 @@
 layout: term
 title: onulmak
 slug: onulmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Onma işine konu olmak

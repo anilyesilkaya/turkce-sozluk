@@ -2,6 +2,7 @@
 layout: term
 title: dal budak salmak
 slug: dal-budak-salmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - karmaşık bir biçimde yayılıp genişlemek

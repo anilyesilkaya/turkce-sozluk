@@ -2,6 +2,7 @@
 layout: term
 title: abartmacı
 slug: abartmaci
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► abartıcı

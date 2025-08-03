@@ -2,6 +2,7 @@
 layout: term
 title: ucubelik
 slug: ucubelik
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ucube olma durumu

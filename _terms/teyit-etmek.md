@@ -2,6 +2,7 @@
 layout: term
 title: teyit etmek
 slug: teyit-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - gerçeklemek

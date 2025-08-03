@@ -2,6 +2,7 @@
 layout: term
 title: umut dünyası
 slug: umut-dunyasi
+letter: U
 lisan: Türkçe
 anlamlar:
 - Gerçekleşmesi çok zor olan şeyleri ummanın hoş görülmesi gerektiğini belirten bir söz; ümit dünyası

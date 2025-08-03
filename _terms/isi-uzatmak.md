@@ -2,6 +2,7 @@
 layout: term
 title: işi uzatmak
 slug: isi-uzatmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - bir işi sonuçlandırmamak

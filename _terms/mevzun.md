@@ -2,6 +2,7 @@
 layout: term
 title: mevzun
 slug: mevzun
+letter: M
 lisan: Arapça mevzūn
 anlamlar:
 - Biçimli, düzgün, oranlı olan

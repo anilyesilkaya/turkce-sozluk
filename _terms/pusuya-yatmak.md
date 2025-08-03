@@ -2,6 +2,7 @@
 layout: term
 title: pusuya yatmak
 slug: pusuya-yatmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - pusuda beklemek

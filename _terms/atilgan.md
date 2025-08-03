@@ -2,6 +2,7 @@
 layout: term
 title: atılgan
 slug: atilgan
+letter: A
 lisan: Türkçe
 anlamlar:
 - Çekinip korkmadan kendini tehlike veya güçlüklere atan; acar

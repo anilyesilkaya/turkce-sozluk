@@ -2,6 +2,7 @@
 layout: term
 title: yanarca
 slug: yanarca
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► meşale

@@ -2,6 +2,7 @@
 layout: term
 title: çöpçatanlık
 slug: copcatanlik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çöpçatanın işi

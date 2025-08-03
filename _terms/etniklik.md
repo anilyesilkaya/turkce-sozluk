@@ -2,6 +2,7 @@
 layout: term
 title: etniklik
 slug: etniklik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Bir sosyal grubun ırk, dil veya kültür kimliği; etnisite

@@ -2,6 +2,7 @@
 layout: term
 title: kontenjan
 slug: kontenjan
+letter: K
 lisan: Fransızca contingent
 anlamlar:
 - Bir yükümlülük veya yararlanma işinde, o işin kapsamına girenlerin oluşturduğu belirli sayıdaki topluluk

@@ -2,6 +2,7 @@
 layout: term
 title: zeybek havası
 slug: zeybek-havasi
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► zeybek

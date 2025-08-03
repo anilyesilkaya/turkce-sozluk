@@ -2,6 +2,7 @@
 layout: term
 title: şuruplanma
 slug: suruplanma
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► şerbetlenme

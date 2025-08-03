@@ -2,6 +2,7 @@
 layout: term
 title: kaskolatmak
 slug: kaskolatmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kasko yaptırmak

@@ -2,6 +2,7 @@
 layout: term
 title: konfeksiyoncu
 slug: konfeksiyoncu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Hazır giyim eşyası yapan veya satan kimse

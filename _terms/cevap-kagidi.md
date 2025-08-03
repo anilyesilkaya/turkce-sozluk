@@ -2,6 +2,7 @@
 layout: term
 title: cevap kâğıdı
 slug: cevap-kagidi
+letter: C
 lisan: Türkçe
 anlamlar:
 - Sınavlarda sorulan soruların cevaplarının bulunduğu kâğıt

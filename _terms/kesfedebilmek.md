@@ -2,6 +2,7 @@
 layout: term
 title: keşfedebilmek
 slug: kesfedebilmek
+letter: K
 lisan: Arapça keşf + Türkçe edebilmek
 anlamlar:
 - Keşfetme ihtimali veya imkânı bulunmak

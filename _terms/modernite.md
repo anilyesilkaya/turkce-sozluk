@@ -2,6 +2,7 @@
 layout: term
 title: modernite
 slug: modernite
+letter: M
 lisan: Fransızca modernité
 anlamlar:
 - Avrupa’da 17. yüzyıldan sonra ortaya çıkan, gelenek karşıtı, bireysel, toplumsal ve politik yaşam alanlarındaki dönüşüm veya değişime dayalı toplumsal düzen veya anlayış

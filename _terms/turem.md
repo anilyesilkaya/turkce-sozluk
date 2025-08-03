@@ -2,6 +2,7 @@
 layout: term
 title: türem
 slug: turem
+letter: T
 lisan: Türkçe
 anlamlar:
 - Türemek işi

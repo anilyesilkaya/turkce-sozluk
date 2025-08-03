@@ -2,6 +2,7 @@
 layout: term
 title: gıda
 slug: gida
+letter: G
 lisan: Arapça ġidā
 anlamlar:
 - ► besin

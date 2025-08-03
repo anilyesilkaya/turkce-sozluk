@@ -2,6 +2,7 @@
 layout: term
 title: kan kusup kızılcık şerbeti içtim demek
 slug: kan-kusup-kizilcik-serbeti-ictim-demek
+letter: K
 lisan: Türkçe
 anlamlar:
 - çok eziyet çektiği hâlde durumunu iyi göstermek

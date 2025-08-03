@@ -2,6 +2,7 @@
 layout: term
 title: alt bölüm
 slug: alt-bolum
+letter: A
 lisan: Türkçe
 anlamlar:
 - Sınıflandırmada ana bölümlerin ayrıldığı parçalardan her biri; ayrım

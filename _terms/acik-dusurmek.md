@@ -2,6 +2,7 @@
 layout: term
 title: açık düşürmek
 slug: acik-dusurmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yağlı güreşte rakibin sırtını veya yanını toprağa değdirmek

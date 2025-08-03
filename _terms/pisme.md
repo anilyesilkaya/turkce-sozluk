@@ -2,6 +2,7 @@
 layout: term
 title: pişme
 slug: pisme
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pişmek işi

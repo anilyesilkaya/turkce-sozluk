@@ -2,6 +2,7 @@
 layout: term
 title: emekli
 slug: emekli
+letter: E
 lisan: Türkçe
 anlamlar:
 - Emek harcanarak elde edilen

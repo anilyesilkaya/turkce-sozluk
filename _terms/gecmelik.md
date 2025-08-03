@@ -2,6 +2,7 @@
 layout: term
 title: geçmelik
 slug: gecmelik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bazı yerlerden geçenlerin ödemek zorunda oldukları para; müruriye

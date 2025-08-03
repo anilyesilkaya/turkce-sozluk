@@ -2,6 +2,7 @@
 layout: term
 title: dürtmek
 slug: durtmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Ucu sivri bir şeyle veya elle hafifçe itmek

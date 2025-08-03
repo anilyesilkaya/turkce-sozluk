@@ -2,6 +2,7 @@
 layout: term
 title: sırtından geçinmek
 slug: sirtindan-gecinmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - geçimini bir kimseden sağlamak

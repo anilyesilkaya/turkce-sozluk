@@ -2,6 +2,7 @@
 layout: term
 title: dokuzaltmışbeşlik
 slug: dokuzaltmisbeslik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Namlusu 9,65 milimetre çapında olan bir tabanca türü

@@ -2,6 +2,7 @@
 layout: term
 title: habersizce
 slug: habersizce
+letter: H
 lisan: Türkçe
 anlamlar:
 - Haber vermeden, haberi olmadan; habersiz, gizlice

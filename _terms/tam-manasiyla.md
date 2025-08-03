@@ -2,6 +2,7 @@
 layout: term
 title: tam manasıyla
 slug: tam-manasiyla
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► tam anlamıyla

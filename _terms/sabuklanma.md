@@ -2,6 +2,7 @@
 layout: term
 title: sabuklanma
 slug: sabuklanma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bazı hastalıklarda görülen abuk sabuk konuşma, anlamsız davranışlarda bulunma vb. belirtiler gösteren ruh bozukluğu; hezeyan

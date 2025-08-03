@@ -2,6 +2,7 @@
 layout: term
 title: ışıklanmak
 slug: isiklanmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - Işıklı duruma gelmek

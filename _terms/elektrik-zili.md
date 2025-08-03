@@ -2,6 +2,7 @@
 layout: term
 title: elektrik zili
 slug: elektrik-zili
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► elektrikli zil

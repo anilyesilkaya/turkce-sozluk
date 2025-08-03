@@ -2,6 +2,7 @@
 layout: term
 title: övülebilmek
 slug: ovulebilmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Övülme ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: absent
 slug: absent
+letter: A
 lisan: Fransızca absinthe
 anlamlar:
 - Pelinden yapılan sert bir içki

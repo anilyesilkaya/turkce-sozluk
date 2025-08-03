@@ -2,6 +2,7 @@
 layout: term
 title: gele atmak
 slug: gele-atmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - tavla oyununda elinde kırık taşı bulunan oyuncu işine yaramayacak zar atmak

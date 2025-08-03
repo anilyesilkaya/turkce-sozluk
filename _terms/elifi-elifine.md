@@ -2,6 +2,7 @@
 layout: term
 title: elifi elifine
 slug: elifi-elifine
+letter: E
 lisan: Türkçe
 anlamlar:
 - Tam olarak

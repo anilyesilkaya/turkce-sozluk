@@ -2,6 +2,7 @@
 layout: term
 title: açık seçiklik
 slug: acik-seciklik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Açık seçik olma durumu

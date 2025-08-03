@@ -2,6 +2,7 @@
 layout: term
 title: cengâverlik
 slug: cengaverlik
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► savaşçılık

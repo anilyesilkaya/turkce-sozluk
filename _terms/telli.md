@@ -2,6 +2,7 @@
 layout: term
 title: telli
 slug: telli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Teli olan

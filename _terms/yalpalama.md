@@ -2,6 +2,7 @@
 layout: term
 title: yalpalama
 slug: yalpalama
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yalpalamak işi

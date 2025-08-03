@@ -2,6 +2,7 @@
 layout: term
 title: Slavistik
 slug: slavistik
+letter: S
 lisan: Almanca Slavistik
 anlamlar:
 - Slav dili, tarihi ve kültürüyle ilgilenen bilim dalı; İslavistik

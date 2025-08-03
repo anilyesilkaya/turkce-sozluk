@@ -2,6 +2,7 @@
 layout: term
 title: uyarma
 slug: uyarma
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyarmak işi; ihtar

@@ -2,6 +2,7 @@
 layout: term
 title: çir
 slug: cir
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Kayısı, erik, zerdali vb. meyvelerin kurusu

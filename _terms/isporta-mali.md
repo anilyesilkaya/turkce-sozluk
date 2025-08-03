@@ -2,6 +2,7 @@
 layout: term
 title: işporta malı
 slug: isporta-mali
+letter: I
 lisan: Türkçe
 anlamlar:
 - Değersiz, niteliksiz olan (mal)

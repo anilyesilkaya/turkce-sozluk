@@ -2,6 +2,7 @@
 layout: term
 title: kamu davası
 slug: kamu-davasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kamu adına savcının açtığı dava; amme davası

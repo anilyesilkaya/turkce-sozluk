@@ -2,6 +2,7 @@
 layout: term
 title: alicenaplık
 slug: alicenaplik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► cömertlik

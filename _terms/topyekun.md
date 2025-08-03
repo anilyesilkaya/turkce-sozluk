@@ -2,6 +2,7 @@
 layout: term
 title: topyekûn
 slug: topyekun
+letter: T
 lisan: Türkçe top + Arapça yekûn
 anlamlar:
 - Eksiksiz, toplam, toplu olarak

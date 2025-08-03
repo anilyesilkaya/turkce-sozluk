@@ -2,6 +2,7 @@
 layout: term
 title: Nazi
 slug: nazi
+letter: N
 lisan: Almanca Nazi
 anlamlar:
 - Nazizm yanlısı olan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: tutturmak
 slug: tutturmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tutmasını sağlamak

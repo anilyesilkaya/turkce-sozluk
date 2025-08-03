@@ -2,6 +2,7 @@
 layout: term
 title: bulandırılma
 slug: bulandirilma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bulandırılmak işi

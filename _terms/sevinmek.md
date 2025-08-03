@@ -2,6 +2,7 @@
 layout: term
 title: sevinmek
 slug: sevinmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sevinç duymak

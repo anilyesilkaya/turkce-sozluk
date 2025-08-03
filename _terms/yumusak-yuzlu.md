@@ -2,6 +2,7 @@
 layout: term
 title: yumuşak yüzlü
 slug: yumusak-yuzlu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Kendisinden istenilen bir şeyi geri çeviremeyen, hayır diyemeyen (kimse)

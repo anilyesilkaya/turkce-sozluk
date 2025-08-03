@@ -2,6 +2,7 @@
 layout: term
 title: koyulaşmak
 slug: koyulasmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Koyu duruma gelmek; koyulmak

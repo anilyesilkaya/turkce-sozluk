@@ -2,6 +2,7 @@
 layout: term
 title: adı bile okunmamak
 slug: adi-bile-okunmamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - birine veya bir şeye hiç önem verilmemek

@@ -2,6 +2,7 @@
 layout: term
 title: minyon
 slug: minyon
+letter: M
 lisan: Fransızca mignon
 anlamlar:
 - İnce, küçük, çıtı pıtı

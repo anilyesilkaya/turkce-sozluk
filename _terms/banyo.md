@@ -2,6 +2,7 @@
 layout: term
 title: banyo
 slug: banyo
+letter: B
 lisan: İtalyanca bagno
 anlamlar:
 - Yapılarda, içinde yıkanılan bölüm

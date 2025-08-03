@@ -2,6 +2,7 @@
 layout: term
 title: muhabirlik
 slug: muhabirlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Muhabir olma durumu

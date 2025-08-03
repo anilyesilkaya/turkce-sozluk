@@ -2,6 +2,7 @@
 layout: term
 title: keçeleştirmek
 slug: kecelestirmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Keçeleşmesine yol açmak

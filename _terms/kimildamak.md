@@ -2,6 +2,7 @@
 layout: term
 title: kımıldamak
 slug: kimildamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Olduğu yerde kendi kendine hareket etmek; kımıldanmak, kıpırdamak, kıpırdanmak, kıpramak

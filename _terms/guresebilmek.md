@@ -2,6 +2,7 @@
 layout: term
 title: güreşebilmek
 slug: guresebilmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güreşme ihtimali veya imkânı bulunmak

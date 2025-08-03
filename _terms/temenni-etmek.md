@@ -2,6 +2,7 @@
 layout: term
 title: temenni etmek
 slug: temenni-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - dilemek

@@ -2,6 +2,7 @@
 layout: term
 title: kapak
 slug: kapak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Her türlü kabın üstünü örtmeye veya bir deliği kapamaya yarayan nesne

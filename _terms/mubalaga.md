@@ -2,6 +2,7 @@
 layout: term
 title: mübalağa
 slug: mubalaga
+letter: M
 lisan: Arapça mubālaġa
 anlamlar:
 - ► abartı

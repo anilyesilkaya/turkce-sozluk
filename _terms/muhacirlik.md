@@ -2,6 +2,7 @@
 layout: term
 title: muhacirlik
 slug: muhacirlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► göçmenlik

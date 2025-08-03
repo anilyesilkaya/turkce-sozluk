@@ -2,6 +2,7 @@
 layout: term
 title: duygudaş
 slug: duygudas
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir konuda duyguları diğer bir kişiyle aynı olan kimse

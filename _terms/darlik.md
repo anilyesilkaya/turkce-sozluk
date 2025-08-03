@@ -2,6 +2,7 @@
 layout: term
 title: darlık
 slug: darlik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dar olma durumu; daraşlık

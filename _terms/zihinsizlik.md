@@ -2,6 +2,7 @@
 layout: term
 title: zihinsizlik
 slug: zihinsizlik
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zihinsiz olma durumu

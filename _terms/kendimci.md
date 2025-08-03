@@ -2,6 +2,7 @@
 layout: term
 title: kendimci
 slug: kendimci
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► bencil

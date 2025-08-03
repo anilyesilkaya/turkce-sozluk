@@ -2,6 +2,7 @@
 layout: term
 title: arsızlık
 slug: arsizlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arsız olanın durumu veya arsıza yakışacak davranış

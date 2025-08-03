@@ -2,6 +2,7 @@
 layout: term
 title: beğenirlilik
 slug: begenirlilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beğenir olma durumu; beğenirlik

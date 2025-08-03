@@ -2,6 +2,7 @@
 layout: term
 title: ihtikârcı
 slug: ihtikarci
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► vurguncu

@@ -2,6 +2,7 @@
 layout: term
 title: kasım
 slug: kasim
+letter: K
 lisan: Arapça ḳāsim
 anlamlar:
 - Yılın on birinci ayı; ikinci teşrin, son teşrin, teşrinisani

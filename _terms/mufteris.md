@@ -2,6 +2,7 @@
 layout: term
 title: müfteris
 slug: mufteris
+letter: M
 lisan: Arapça mufteris
 anlamlar:
 - ► yırtıcı

@@ -2,6 +2,7 @@
 layout: term
 title: ağaç kurdu
 slug: agac-kurdu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağaçları kemirerek beslenen sinek kurtçuğu

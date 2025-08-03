@@ -2,6 +2,7 @@
 layout: term
 title: müteşebbis
 slug: mutesebbis
+letter: M
 lisan: Arapça muteşebbis̱
 anlamlar:
 - ► girişimci

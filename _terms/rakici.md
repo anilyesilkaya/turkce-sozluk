@@ -2,6 +2,7 @@
 layout: term
 title: rakıcı
 slug: rakici
+letter: R
 lisan: Türkçe
 anlamlar:
 - Rakı yapan veya satan kimse

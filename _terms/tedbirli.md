@@ -2,6 +2,7 @@
 layout: term
 title: tedbirli
 slug: tedbirli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Önceden hazırlıklı davranan, önlemini zamanında alan; müdebbir

@@ -2,6 +2,7 @@
 layout: term
 title: ortalıkta
 slug: ortalikta
+letter: O
 lisan: Türkçe
 anlamlar:
 - Göz önünde, meydanda

@@ -2,6 +2,7 @@
 layout: term
 title: cariye
 slug: cariye
+letter: C
 lisan: Arapça cāriye
 anlamlar:
 - Yabancı ülkelerden kaçırılıp özgürlükten yoksun bırakılan, alınıp satılabilen, her konuda efendisinin isteklerine bağlı bulunan genç kadın; halayık

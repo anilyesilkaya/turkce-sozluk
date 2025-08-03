@@ -2,6 +2,7 @@
 layout: term
 title: sığırtmaç
 slug: sigirtmac
+letter: S
 lisan: Türkçe
 anlamlar:
 - Büyükbaş hayvan güden kimse; sığır çobanı, sığırcı, nahırcı

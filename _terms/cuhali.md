@@ -2,6 +2,7 @@
 layout: term
 title: çuhalı
 slug: cuhali
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çuhası olan

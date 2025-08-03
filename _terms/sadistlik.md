@@ -2,6 +2,7 @@
 layout: term
 title: sadistlik
 slug: sadistlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sadist olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: telli balıkçıl
 slug: telli-balikcil
+letter: T
 lisan: Türkçe
 anlamlar:
 - Başında ok biçiminde bir tel demeti bulunan balıkçıl; okar

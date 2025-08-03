@@ -2,6 +2,7 @@
 layout: term
 title: karıştırma
 slug: karistirma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karıştırmak işi; teşviş

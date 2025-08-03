@@ -2,6 +2,7 @@
 layout: term
 title: lektör
 slug: lektor
+letter: L
 lisan: Fransızca lecteur
 anlamlar:
 - ► okutman

@@ -2,6 +2,7 @@
 layout: term
 title: gayretkeşlik
 slug: gayretkeslik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gayretkeş olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: yürünme
 slug: yurunme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yürünmek işi

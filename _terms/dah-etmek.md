@@ -2,6 +2,7 @@
 layout: term
 title: dah etmek
 slug: dah-etmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - sürmek, yürütmek

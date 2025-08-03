@@ -2,6 +2,7 @@
 layout: term
 title: laubali olmak
 slug: laubali-olmak
+letter: L
 lisan: Türkçe
 anlamlar:
 - aşırı samimi veya teklifsizce davranmak

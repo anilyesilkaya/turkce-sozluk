@@ -2,6 +2,7 @@
 layout: term
 title: mülksüz
 slug: mulksuz
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mülkü olmayan

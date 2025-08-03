@@ -2,6 +2,7 @@
 layout: term
 title: karıncadan ibret al, yazdan kışı karşılar
 slug: karincadan-ibret-al-yazdan-kisi-karsilar
+letter: K
 lisan: Türkçe
 anlamlar:
 - '"kişi çalışıp kazanabildiği zamanı boş geçirmemeli, çalışamayacağı günler için geçimini sağlayacak varlık edinmelidir" anlamında kullanılan bir söz'

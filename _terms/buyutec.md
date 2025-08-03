@@ -2,6 +2,7 @@
 layout: term
 title: büyüteç
 slug: buyutec
+letter: B
 lisan: Türkçe
 anlamlar:
 - Cisimleri büyüterek gösteren alet; pertavsız

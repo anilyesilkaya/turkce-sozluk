@@ -2,6 +2,7 @@
 layout: term
 title: facialaşmak
 slug: facialasmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - Facia durumuna gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: sıtma sivrisineği
 slug: sitma-sivrisinegi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Çift kanatlılardan, ince, uzun vücutlu ve dar kanatlı, dişisi sıtma asalağını insandan insana taşıyan bir eklem bacaklı türü; anofel (Anopheles maculipennis)

@@ -2,6 +2,7 @@
 layout: term
 title: kulis çalışması
 slug: kulis-calismasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kulis faaliyeti

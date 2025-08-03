@@ -2,6 +2,7 @@
 layout: term
 title: bağnazca
 slug: bagnazca
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağnaza yakışır bir biçimde olan

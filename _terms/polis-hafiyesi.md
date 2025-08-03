@@ -2,6 +2,7 @@
 layout: term
 title: polis hafiyesi
 slug: polis-hafiyesi
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► dedektif

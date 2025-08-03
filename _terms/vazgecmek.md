@@ -2,6 +2,7 @@
 layout: term
 title: vazgeçmek
 slug: vazgecmek
+letter: V
 lisan: Farsça vāz + Türkçe geçmek
 anlamlar:
 - Kendi hakkı saydığı bir şeyi artık istemez olmak; vazgelmek

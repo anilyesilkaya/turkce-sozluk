@@ -2,6 +2,7 @@
 layout: term
 title: iplik iplik
 slug: iplik-iplik
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► yol yol

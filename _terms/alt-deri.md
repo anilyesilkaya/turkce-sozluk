@@ -2,6 +2,7 @@
 layout: term
 title: alt deri
 slug: alt-deri
+letter: A
 lisan: Türkçe
 anlamlar:
 - Üst derinin altında bulunan ikinci tabaka; hipoderm

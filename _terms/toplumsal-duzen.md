@@ -2,6 +2,7 @@
 layout: term
 title: toplumsal düzen
 slug: toplumsal-duzen
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir toplumda kanun ve kurallara uygun düşen yapı

@@ -2,6 +2,7 @@
 layout: term
 title: kuşkulanabilmek
 slug: kuskulanabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kuşkulanma ihtimali veya imkânı bulunmak; şüphelenebilmek

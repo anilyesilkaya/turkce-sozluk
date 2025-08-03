@@ -2,6 +2,7 @@
 layout: term
 title: cımbızlama
 slug: cimbizlama
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cımbızlamak işi

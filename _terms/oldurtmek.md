@@ -2,6 +2,7 @@
 layout: term
 title: öldürtmek
 slug: oldurtmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öldürme işini yaptırmak

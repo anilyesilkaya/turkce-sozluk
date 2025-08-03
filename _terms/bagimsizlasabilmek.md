@@ -2,6 +2,7 @@
 layout: term
 title: bağımsızlaşabilmek
 slug: bagimsizlasabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağımsızlaşma ihtimali veya imkânı bulunmak

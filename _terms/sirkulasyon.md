@@ -2,6 +2,7 @@
 layout: term
 title: sirkülasyon
 slug: sirkulasyon
+letter: S
 lisan: Fransızca circulation
 anlamlar:
 - ► dolaşım

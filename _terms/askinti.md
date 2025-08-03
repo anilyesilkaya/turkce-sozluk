@@ -2,6 +2,7 @@
 layout: term
 title: askıntı
 slug: askinti
+letter: A
 lisan: Türkçe
 anlamlar:
 - Başkalarının sırtından geçinen (kimse)

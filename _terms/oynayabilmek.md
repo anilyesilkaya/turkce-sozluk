@@ -2,6 +2,7 @@
 layout: term
 title: oynayabilmek
 slug: oynayabilmek
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oynama ihtimali veya imkânı bulunmak

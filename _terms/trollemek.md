@@ -2,6 +2,7 @@
 layout: term
 title: trollemek
 slug: trollemek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Balığı trol kullanarak avlamak

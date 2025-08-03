@@ -2,6 +2,7 @@
 layout: term
 title: yayış
 slug: yayis
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaymak işi

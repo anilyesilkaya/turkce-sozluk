@@ -2,6 +2,7 @@
 layout: term
 title: dipsizlik
 slug: dipsizlik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dipsiz olma durumu

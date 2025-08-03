@@ -2,6 +2,7 @@
 layout: term
 title: zarsı
 slug: zarsi
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zarı andıran, zara benzeyen, zar gibi; zarımsı

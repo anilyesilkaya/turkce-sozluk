@@ -2,6 +2,7 @@
 layout: term
 title: insafsızlık
 slug: insafsizlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İnsafsız olma durumu, insafsızca davranma

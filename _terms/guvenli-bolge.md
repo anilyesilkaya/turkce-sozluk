@@ -2,6 +2,7 @@
 layout: term
 title: güvenli bölge
 slug: guvenli-bolge
+letter: G
 lisan: Türkçe
 anlamlar:
 - Savaşamayacak durumda olanların ve diğer sivillerin savaşın etkilerinden korunmasını sağlayan tarafsız bölge

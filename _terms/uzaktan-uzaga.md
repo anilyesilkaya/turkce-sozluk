@@ -2,6 +2,7 @@
 layout: term
 title: uzaktan uzağa
 slug: uzaktan-uzaga
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uzak yerden, çok uzaktan

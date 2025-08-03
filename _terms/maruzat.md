@@ -2,6 +2,7 @@
 layout: term
 title: maruzat
 slug: maruzat
+letter: M
 lisan: Arapça maʿrūżāt
 anlamlar:
 - Mevki, makam veya yaş bakımından büyük birine sunulan, bildirilen dilek veya bilgi; sunuş

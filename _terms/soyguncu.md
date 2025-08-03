@@ -2,6 +2,7 @@
 layout: term
 title: soyguncu
 slug: soyguncu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Soygun yapan kimse

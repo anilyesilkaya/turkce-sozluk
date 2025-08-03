@@ -2,6 +2,7 @@
 layout: term
 title: namevcut
 slug: namevcut
+letter: N
 lisan: Farsça nā + Arapça mevcūd
 anlamlar:
 - Mevcut olmayan, bulunmayan; yok

@@ -2,6 +2,7 @@
 layout: term
 title: kendini ağır (veya ağırdan) satmak
 slug: kendini-agir-veya-agirdan-satmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - nazlanmak, gönülsüz davranmak

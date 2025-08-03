@@ -2,6 +2,7 @@
 layout: term
 title: başı darda kalmak
 slug: basi-darda-kalmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - parasızlıktan dolayı sıkıntıda olmak

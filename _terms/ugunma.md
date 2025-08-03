@@ -2,6 +2,7 @@
 layout: term
 title: uğunma
 slug: ugunma
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uğunmak işi

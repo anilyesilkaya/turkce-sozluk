@@ -2,6 +2,7 @@
 layout: term
 title: mitoloji
 slug: mitoloji
+letter: M
 lisan: Fransızca mythologie
 anlamlar:
 - Mitleri, doğuşlarını, anlamlarını yorumlayan, inceleyen bilim

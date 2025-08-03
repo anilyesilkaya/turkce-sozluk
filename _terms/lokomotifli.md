@@ -2,6 +2,7 @@
 layout: term
 title: lokomotifli
 slug: lokomotifli
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lokomotifi olan

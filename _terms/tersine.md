@@ -2,6 +2,7 @@
 layout: term
 title: tersine
 slug: tersine
+letter: T
 lisan: Türkçe
 anlamlar:
 - Beklenenin, umulanın aksine, karşıt olarak; bilakis, aksine

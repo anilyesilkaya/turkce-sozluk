@@ -2,6 +2,7 @@
 layout: term
 title: adı üstünde
 slug: adi-ustunde
+letter: A
 lisan: Türkçe
 anlamlar:
 - Adından da belli olduğu gibi

@@ -2,6 +2,7 @@
 layout: term
 title: uzuv
 slug: uzuv
+letter: U
 lisan: Arapça ʿużv
 anlamlar:
 - ► organ

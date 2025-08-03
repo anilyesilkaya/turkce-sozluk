@@ -2,6 +2,7 @@
 layout: term
 title: bütünlemeli
 slug: butunlemeli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bütünleme sınavına girmesi gereken (öğrenci)

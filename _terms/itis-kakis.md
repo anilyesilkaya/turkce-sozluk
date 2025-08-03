@@ -2,6 +2,7 @@
 layout: term
 title: itiş kakış
 slug: itis-kakis
+letter: I
 lisan: Türkçe
 anlamlar:
 - İterek

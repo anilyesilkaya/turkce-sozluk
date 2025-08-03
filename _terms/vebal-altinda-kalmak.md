@@ -2,6 +2,7 @@
 layout: term
 title: vebal altında kalmak
 slug: vebal-altinda-kalmak
+letter: V
 lisan: Türkçe
 anlamlar:
 - manevi sorumluluk yüklenmek

@@ -2,6 +2,7 @@
 layout: term
 title: kaçın kurası
 slug: kacin-kurasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kolay kolay aldanmayacak kadar görmüş geçirmiş kimse

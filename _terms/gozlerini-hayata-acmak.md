@@ -2,6 +2,7 @@
 layout: term
 title: gözlerini hayata açmak
 slug: gozlerini-hayata-acmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - dünyaya gelmek, doğmak

@@ -2,6 +2,7 @@
 layout: term
 title: bağlanıp kalmak
 slug: baglanip-kalmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir kimseye tutulmak, sevdalanmak

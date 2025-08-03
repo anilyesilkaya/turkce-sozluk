@@ -2,6 +2,7 @@
 layout: term
 title: davacı
 slug: davaci
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dava eden kimse; savlayıcı, müddei

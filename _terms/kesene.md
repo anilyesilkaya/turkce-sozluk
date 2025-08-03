@@ -2,6 +2,7 @@
 layout: term
 title: kesene
 slug: kesene
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sözleşme, yazılı anlaşma

@@ -2,6 +2,7 @@
 layout: term
 title: allamelik
 slug: allamelik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Allame olma durumu

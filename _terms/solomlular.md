@@ -2,6 +2,7 @@
 layout: term
 title: sölomlular
 slug: solomlular
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir vücut boşluğu bulunan hayvanlar

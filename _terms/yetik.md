@@ -2,6 +2,7 @@
 layout: term
 title: yetik
 slug: yetik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yetişmiş, erişmiş, büyümüş

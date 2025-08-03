@@ -2,6 +2,7 @@
 layout: term
 title: kaim olmak
 slug: kaim-olmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - yerine geçmek

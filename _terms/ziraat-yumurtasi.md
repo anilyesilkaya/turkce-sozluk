@@ -2,6 +2,7 @@
 layout: term
 title: ziraat yumurtası
 slug: ziraat-yumurtasi
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► çiftlik yumurtası

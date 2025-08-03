@@ -2,6 +2,7 @@
 layout: term
 title: tasnif
 slug: tasnif
+letter: T
 lisan: Arapça taṣnīf
 anlamlar:
 - ► bölümleme

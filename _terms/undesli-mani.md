@@ -2,6 +2,7 @@
 layout: term
 title: ündeşli mâni
 slug: undesli-mani
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - ► cinaslı mâni

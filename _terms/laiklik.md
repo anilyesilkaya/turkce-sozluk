@@ -2,6 +2,7 @@
 layout: term
 title: laiklik
 slug: laiklik
+letter: L
 lisan: Türkçe
 anlamlar:
 - Laik olma durumu; laisizm

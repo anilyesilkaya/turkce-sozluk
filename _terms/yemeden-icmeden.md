@@ -2,6 +2,7 @@
 layout: term
 title: yemeden içmeden
 slug: yemeden-icmeden
+letter: Y
 lisan: Türkçe
 anlamlar:
 - vakit geçirmeden, hemen

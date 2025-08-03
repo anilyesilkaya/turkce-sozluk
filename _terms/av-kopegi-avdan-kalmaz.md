@@ -2,6 +2,7 @@
 layout: term
 title: av köpeği avdan kalmaz
 slug: av-kopegi-avdan-kalmaz
+letter: A
 lisan: Türkçe
 anlamlar:
 - '"hazıra konmayı alışkanlık yapmış kimse, her zaman bu yolu izler" anlamında kullanılan bir söz'

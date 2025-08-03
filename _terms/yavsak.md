@@ -2,6 +2,7 @@
 layout: term
 title: yavşak
 slug: yavsak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bit yavrusu

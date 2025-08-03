@@ -2,6 +2,7 @@
 layout: term
 title: akaju
 slug: akaju
+letter: A
 lisan: Fransızca acajou
 anlamlar:
 - ► maun

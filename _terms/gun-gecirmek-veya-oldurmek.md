@@ -2,6 +2,7 @@
 layout: term
 title: gün geçirmek (veya öldürmek)
 slug: gun-gecirmek-veya-oldurmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - boş şeylerle vakit geçirmek

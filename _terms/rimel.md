@@ -2,6 +2,7 @@
 layout: term
 title: rimel
 slug: rimel
+letter: R
 lisan: Fransızca rimmel
 anlamlar:
 - Kadınların kirpiklerini kıvırmak ve daha uzun göstermek için fırça ile sürdükleri yağlı sürme; maskara (II)

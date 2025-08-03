@@ -2,6 +2,7 @@
 layout: term
 title: mat olmak
 slug: mat-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - satranç oyununda yenilmek

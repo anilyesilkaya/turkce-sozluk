@@ -2,6 +2,7 @@
 layout: term
 title: ustunç takımı
 slug: ustunc-takimi
+letter: U
 lisan: Türkçe
 anlamlar:
 - Bir kutu içerisinde taşınabilir cerrahi aletler takımı

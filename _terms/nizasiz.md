@@ -2,6 +2,7 @@
 layout: term
 title: nizasız
 slug: nizasiz
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► kavgasız

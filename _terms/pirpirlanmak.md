@@ -2,6 +2,7 @@
 layout: term
 title: pırpırlanmak
 slug: pirpirlanmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Aralıklarla yanmak

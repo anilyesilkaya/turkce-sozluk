@@ -2,6 +2,7 @@
 layout: term
 title: göz nuru dökmek
 slug: goz-nuru-dokmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - fazla emek sarf etmek

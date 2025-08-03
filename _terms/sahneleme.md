@@ -2,6 +2,7 @@
 layout: term
 title: sahneleme
 slug: sahneleme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sahnelemek işi

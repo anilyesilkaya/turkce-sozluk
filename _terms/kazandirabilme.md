@@ -2,6 +2,7 @@
 layout: term
 title: kazandırabilme
 slug: kazandirabilme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kazandırabilmek işi

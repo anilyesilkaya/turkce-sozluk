@@ -2,6 +2,7 @@
 layout: term
 title: haber almak
 slug: haber-almak
+letter: H
 lisan: Türkçe
 anlamlar:
 - kendisine bildirilmek, öğrenmek, bilgi edinmek

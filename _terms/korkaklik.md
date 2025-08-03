@@ -2,6 +2,7 @@
 layout: term
 title: korkaklık
 slug: korkaklik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Korkak olma durumu; tavşanlık

@@ -2,6 +2,7 @@
 layout: term
 title: tecrit etmek
 slug: tecrit-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - herkesten veya her şeyden ayırmak, bir kenara koymak

@@ -2,6 +2,7 @@
 layout: term
 title: tekeffül etmek
 slug: tekefful-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - yükümlenmek

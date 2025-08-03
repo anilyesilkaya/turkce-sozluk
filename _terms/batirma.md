@@ -2,6 +2,7 @@
 layout: term
 title: batırma
 slug: batirma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Batırmak işi

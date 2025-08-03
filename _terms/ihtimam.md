@@ -2,6 +2,7 @@
 layout: term
 title: ihtimam
 slug: ihtimam
+letter: I
 lisan: Arapça ihtimām
 anlamlar:
 - ► özen

@@ -2,6 +2,7 @@
 layout: term
 title: çoğumsamak
 slug: cogumsamak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir şeyin düşünülenden daha çok olduğu yargısına varmak, çok görmek, çok bulmak

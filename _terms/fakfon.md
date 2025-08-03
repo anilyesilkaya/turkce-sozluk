@@ -2,6 +2,7 @@
 layout: term
 title: fakfon
 slug: fakfon
+letter: F
 lisan: Almanca Packfong
 anlamlar:
 - Bakır, nikel ve çinkodan oluşan gümüş görünümünde bir alaşım

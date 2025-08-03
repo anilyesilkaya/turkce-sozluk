@@ -2,6 +2,7 @@
 layout: term
 title: çoraklaştırabilmek
 slug: coraklastirabilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çoraklaştırma ihtimali bulunmak

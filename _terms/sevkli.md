@@ -2,6 +2,7 @@
 layout: term
 title: şevkli
 slug: sevkli
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şevki olan

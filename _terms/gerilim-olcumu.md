@@ -2,6 +2,7 @@
 layout: term
 title: gerilim ölçümü
 slug: gerilim-olcumu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Sıvılardaki yüzey gerilimlerini belirleme işi; tansiyometri

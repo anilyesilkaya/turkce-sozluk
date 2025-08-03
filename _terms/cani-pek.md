@@ -2,6 +2,7 @@
 layout: term
 title: canı pek
 slug: cani-pek
+letter: C
 lisan: Türkçe
 anlamlar:
 - Acıya, sıkıntıya karşı dayanıklı (kimse)

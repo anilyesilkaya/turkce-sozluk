@@ -2,6 +2,7 @@
 layout: term
 title: ünsüz ikizleşmesi
 slug: unsuz-ikizlesmesi
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - 'Kelime içindeki ünsüzlerin çeşitli sebeplerle ikiz olarak söylenmesi; ikizleşme: döşek > döşşek, eşek > eşşek, sakız > sakkız, otuz > ottuz vb'

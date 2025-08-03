@@ -2,6 +2,7 @@
 layout: term
 title: nirengi noktası
 slug: nirengi-noktasi
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nirengi işleminde ayrılan üçgenlerin tepe noktası

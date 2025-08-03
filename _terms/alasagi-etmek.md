@@ -2,6 +2,7 @@
 layout: term
 title: alaşağı etmek
 slug: alasagi-etmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - yetkilerini elinden alıp birini yerinden uzaklaştırmak, atmak, kovmak

@@ -2,6 +2,7 @@
 layout: term
 title: mazlumluk
 slug: mazlumluk
+letter: M
 lisan: Türkçe
 anlamlar:
 - Haksızlığa ve zulme uğramış olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: mihenge vurmak
 slug: mihenge-vurmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - ölçmek, denemek

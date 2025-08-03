@@ -2,6 +2,7 @@
 layout: term
 title: ulviyet
 slug: ulviyet
+letter: U
 lisan: Arapça ʿulviyyet
 anlamlar:
 - ► yücelik

@@ -2,6 +2,7 @@
 layout: term
 title: aborda etmek
 slug: aborda-etmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - gemi yanlamasına yanaşmak

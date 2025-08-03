@@ -2,6 +2,7 @@
 layout: term
 title: baba mirası
 slug: baba-mirasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Babadan kalan değerli mal veya dost

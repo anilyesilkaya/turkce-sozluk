@@ -2,6 +2,7 @@
 layout: term
 title: kaidesiz
 slug: kaidesiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kuralsız

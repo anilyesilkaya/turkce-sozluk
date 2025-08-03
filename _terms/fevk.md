@@ -2,6 +2,7 @@
 layout: term
 title: fevk
 slug: fevk
+letter: F
 lisan: Arapça fevḳ
 anlamlar:
 - ► üst

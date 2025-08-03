@@ -2,6 +2,7 @@
 layout: term
 title: lotaryacılık
 slug: lotaryacilik
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lotaryacının yaptığı iş

@@ -2,6 +2,7 @@
 layout: term
 title: dilim
 slug: dilim
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir bütünden kesilmiş veya ayrılmış ince, yassı parça

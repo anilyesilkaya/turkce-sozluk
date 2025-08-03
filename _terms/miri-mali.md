@@ -2,6 +2,7 @@
 layout: term
 title: mirî malı
 slug: miri-mali
+letter: M
 lisan: Türkçe
 anlamlar:
 - Devlete ait mal, hazineye ait mal

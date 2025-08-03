@@ -2,6 +2,7 @@
 layout: term
 title: hapı yutmak
 slug: hapi-yutmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - kötü bir duruma düşmek

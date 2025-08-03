@@ -2,6 +2,7 @@
 layout: term
 title: bugünlük
 slug: bugunluk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bugün için

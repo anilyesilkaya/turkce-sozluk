@@ -2,6 +2,7 @@
 layout: term
 title: ölümün soluğunu ensesinde duymak (veya hissetmek)
 slug: olumun-solugunu-ensesinde-duymak-veya-hissetmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - her an öleceğini beklemek, ölüm korkusu ile dolu olmak

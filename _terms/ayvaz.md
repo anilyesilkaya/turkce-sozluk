@@ -2,6 +2,7 @@
 layout: term
 title: ayvaz
 slug: ayvaz
+letter: A
 lisan: Arapça ʿivaż
 anlamlar:
 - Bir kadının eşi, kocası

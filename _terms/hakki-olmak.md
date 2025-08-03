@@ -2,6 +2,7 @@
 layout: term
 title: hakkı olmak
 slug: hakki-olmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - payı, alacağı, hissesi olmak

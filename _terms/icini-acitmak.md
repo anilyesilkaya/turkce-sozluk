@@ -2,6 +2,7 @@
 layout: term
 title: içini acıtmak
 slug: icini-acitmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - üzmek, üzülmesine sebep olmak

@@ -2,6 +2,7 @@
 layout: term
 title: içten içe
 slug: icten-ice
+letter: I
 lisan: Türkçe
 anlamlar:
 - Gizli gizli, belli etmeden

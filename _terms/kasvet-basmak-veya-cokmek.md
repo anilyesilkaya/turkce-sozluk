@@ -2,6 +2,7 @@
 layout: term
 title: kasvet basmak (veya çökmek)
 slug: kasvet-basmak-veya-cokmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - çok sıkılmak, içi daralmak

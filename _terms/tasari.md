@@ -2,6 +2,7 @@
 layout: term
 title: tasarı
 slug: tasari
+letter: T
 lisan: Türkçe
 anlamlar:
 - Olması veya yapılması düşünülen bir şeyin zihinde aldığı biçim

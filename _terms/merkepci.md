@@ -2,6 +2,7 @@
 layout: term
 title: merkepçi
 slug: merkepci
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► eşekçi

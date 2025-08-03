@@ -2,6 +2,7 @@
 layout: term
 title: sözcülük
 slug: sozculuk
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sözcü olma durumu

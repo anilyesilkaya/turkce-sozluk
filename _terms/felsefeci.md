@@ -2,6 +2,7 @@
 layout: term
 title: felsefeci
 slug: felsefeci
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► filozof

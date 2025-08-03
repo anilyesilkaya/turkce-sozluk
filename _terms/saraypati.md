@@ -2,6 +2,7 @@
 layout: term
 title: saraypatı
 slug: saraypati
+letter: S
 lisan: Türkçe
 anlamlar:
 - Pembe, kırmızı, eflatun veya beyaz renkli, papatya yaprağından daha iri yapraklı olan çiçeği genellikle sonbaharda açan, kış soğuklarına da dayanabilen bir süs bitkisi (Callistephus sinensis)

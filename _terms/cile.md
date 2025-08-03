@@ -2,6 +2,7 @@
 layout: term
 title: çile
 slug: cile
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - İpek, yün, pamuk vb. her türlü iplik demeti

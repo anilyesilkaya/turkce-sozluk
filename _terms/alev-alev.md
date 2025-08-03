@@ -2,6 +2,7 @@
 layout: term
 title: alev alev
 slug: alev-alev
+letter: A
 lisan: Türkçe
 anlamlar:
 - Vücut ısısı herhangi bir sebeple artmış bir biçimde ve bu sebeple tende kızarıklık oluşarak; alaz alaz

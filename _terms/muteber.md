@@ -2,6 +2,7 @@
 layout: term
 title: muteber
 slug: muteber
+letter: M
 lisan: Arapça muʿteber
 anlamlar:
 - ► saygın

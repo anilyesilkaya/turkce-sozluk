@@ -2,6 +2,7 @@
 layout: term
 title: karmaç
 slug: karmac
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► betonkarar

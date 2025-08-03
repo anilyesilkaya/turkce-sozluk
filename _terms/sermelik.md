@@ -2,6 +2,7 @@
 layout: term
 title: sermelik
 slug: sermelik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sermeye yarayan, sermeye elverişli olan

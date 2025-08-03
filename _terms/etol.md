@@ -2,6 +2,7 @@
 layout: term
 title: etol
 slug: etol
+letter: E
 lisan: Fransızca étole
 anlamlar:
 - Genellikle kürkten, gösterişli kumaşlardan veya yün örgüden yapılmış omuz atkısı

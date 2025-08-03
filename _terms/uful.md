@@ -2,6 +2,7 @@
 layout: term
 title: uful
 slug: uful
+letter: U
 lisan: Arapça ufūl
 anlamlar:
 - Batma, gözden kaybolma

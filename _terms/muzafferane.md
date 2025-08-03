@@ -2,6 +2,7 @@
 layout: term
 title: muzafferane
 slug: muzafferane
+letter: M
 lisan: Arapça muẓaffer + Farsça -āne
 anlamlar:
 - ► muzafferce

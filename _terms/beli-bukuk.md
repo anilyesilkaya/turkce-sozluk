@@ -2,6 +2,7 @@
 layout: term
 title: beli bükük
 slug: beli-bukuk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beli bükülmüş

@@ -2,6 +2,7 @@
 layout: term
 title: kontrbas
 slug: kontrbas
+letter: K
 lisan: Fransızca contrebasse
 anlamlar:
 - Keman türünden, en kalın sesli yaylı saz

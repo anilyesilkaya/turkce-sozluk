@@ -2,6 +2,7 @@
 layout: term
 title: erkân minderi
 slug: erkan-minderi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ev ve konaklarda seçkin konukların oturması için yapılmış yer minderi

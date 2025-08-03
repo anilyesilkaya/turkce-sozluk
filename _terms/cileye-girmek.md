@@ -2,6 +2,7 @@
 layout: term
 title: çileye girmek
 slug: cileye-girmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - dervişlerin kırk gün süre ile kendilerine uyguladıkları zorlu ve perhizli döneme girmek

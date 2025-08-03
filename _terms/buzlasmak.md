@@ -2,6 +2,7 @@
 layout: term
 title: buzlaşmak
 slug: buzlasmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Buz durumuna gelmek

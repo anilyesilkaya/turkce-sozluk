@@ -2,6 +2,7 @@
 layout: term
 title: çağcıl
 slug: cagcil
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çağdaş

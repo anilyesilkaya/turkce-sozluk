@@ -2,6 +2,7 @@
 layout: term
 title: tek yönlü
 slug: tek-yonlu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tek yönü olan

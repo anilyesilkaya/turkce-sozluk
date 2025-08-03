@@ -2,6 +2,7 @@
 layout: term
 title: aşırı yük
 slug: asiri-yuk
+letter: A
 lisan: Türkçe
 anlamlar:
 - Elektrikli araçların olağan çalışma şartlarında karşılaştıkları aşırı akım durumu

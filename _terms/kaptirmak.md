@@ -2,6 +2,7 @@
 layout: term
 title: kaptırmak
 slug: kaptirmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir şeyin ele geçirilmesine, kapılmasına yol açmak

@@ -2,6 +2,7 @@
 layout: term
 title: hoplatmak
 slug: hoplatmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hoplamasını sağlamak

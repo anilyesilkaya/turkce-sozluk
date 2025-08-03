@@ -2,6 +2,7 @@
 layout: term
 title: gereksiz
 slug: gereksiz
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gereği olmayan; kıvır zıvır, lüzumsuz, zait

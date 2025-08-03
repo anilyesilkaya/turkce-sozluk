@@ -2,6 +2,7 @@
 layout: term
 title: gani
 slug: gani
+letter: G
 lisan: Arapça ġanī
 anlamlar:
 - Bol, çok olan

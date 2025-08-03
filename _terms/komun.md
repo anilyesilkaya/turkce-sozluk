@@ -2,6 +2,7 @@
 layout: term
 title: komün
 slug: komun
+letter: K
 lisan: Fransızca commun
 anlamlar:
 - Beraber çalışıp geliri paylaşmak üzere bir araya gelen topluluk

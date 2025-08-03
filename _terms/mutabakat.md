@@ -2,6 +2,7 @@
 layout: term
 title: mutabakat
 slug: mutabakat
+letter: M
 lisan: Arapça muṭābaḳat
 anlamlar:
 - ► uzlaşma

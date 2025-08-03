@@ -2,6 +2,7 @@
 layout: term
 title: karıncaezmez
 slug: karincaezmez
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çok merhametli, ince duygulu (kimse); karıncaincitmez

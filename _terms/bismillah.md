@@ -2,6 +2,7 @@
 layout: term
 title: bismillah
 slug: bismillah
+letter: B
 lisan: Arapça bismillah
 anlamlar:
 - ► besmele

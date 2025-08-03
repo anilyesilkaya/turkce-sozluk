@@ -2,6 +2,7 @@
 layout: term
 title: iki gönül bir olunca samanlık seyran olur
 slug: iki-gonul-bir-olunca-samanlik-seyran-olur
+letter: I
 lisan: Türkçe
 anlamlar:
 - '"birbirini sevenler için zenginlik önemli değildir" anlamında kullanılan bir söz'

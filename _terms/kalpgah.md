@@ -2,6 +2,7 @@
 layout: term
 title: kalpgâh
 slug: kalpgah
+letter: K
 lisan: Arapça ḳalb + Farsça -gāh
 anlamlar:
 - ► canevi

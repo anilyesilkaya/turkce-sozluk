@@ -2,6 +2,7 @@
 layout: term
 title: verip veriştirmek
 slug: verip-veristirmek
+letter: V
 lisan: Türkçe
 anlamlar:
 - ağzına geleni söylemek

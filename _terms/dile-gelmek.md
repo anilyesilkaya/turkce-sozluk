@@ -2,6 +2,7 @@
 layout: term
 title: dile gelmek
 slug: dile-gelmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - dile düşmek

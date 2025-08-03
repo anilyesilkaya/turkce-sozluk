@@ -2,6 +2,7 @@
 layout: term
 title: ara ara
 slug: ara-ara
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► ara sıra

@@ -2,6 +2,7 @@
 layout: term
 title: edepsizce
 slug: edepsizce
+letter: E
 lisan: Türkçe
 anlamlar:
 - Terbiyesiz olan

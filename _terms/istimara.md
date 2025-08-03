@@ -2,6 +2,7 @@
 layout: term
 title: istimara
 slug: istimara
+letter: I
 lisan: İtalyanca stimare
 anlamlar:
 - ► ölçme

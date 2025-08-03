@@ -2,6 +2,7 @@
 layout: term
 title: ümransızlık
 slug: umransizlik
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Bayındır olmama durumu

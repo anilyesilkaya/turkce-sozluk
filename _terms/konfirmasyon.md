@@ -2,6 +2,7 @@
 layout: term
 title: konfirmasyon
 slug: konfirmasyon
+letter: K
 lisan: Fransızca confirmation
 anlamlar:
 - ► doğrulama

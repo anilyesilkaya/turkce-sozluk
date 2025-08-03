@@ -2,6 +2,7 @@
 layout: term
 title: beyanname
 slug: beyanname
+letter: B
 lisan: Arapça beyān + Farsça nāme
 anlamlar:
 - Bir kimsenin resmî bir kuruluşa herhangi bir durumu bildirmek için verdiği çizelge; bildirge

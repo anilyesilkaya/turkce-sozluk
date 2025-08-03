@@ -2,6 +2,7 @@
 layout: term
 title: üzerinde
 slug: uzerinde
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Bir şeyin üstünde

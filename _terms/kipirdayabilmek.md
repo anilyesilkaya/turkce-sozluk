@@ -2,6 +2,7 @@
 layout: term
 title: kıpırdayabilmek
 slug: kipirdayabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kıpırdama ihtimali veya imkânı bulunmak

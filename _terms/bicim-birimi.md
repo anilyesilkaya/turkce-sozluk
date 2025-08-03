@@ -2,6 +2,7 @@
 layout: term
 title: biçim birimi
 slug: bicim-birimi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Dilde parçalanabilen anlamlı veya işlevli en küçük birim; morfem

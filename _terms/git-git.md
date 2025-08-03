@@ -2,6 +2,7 @@
 layout: term
 title: git git
 slug: git-git
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► gittikçe

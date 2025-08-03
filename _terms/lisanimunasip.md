@@ -2,6 +2,7 @@
 layout: term
 title: lisanımünasip
 slug: lisanimunasip
+letter: L
 lisan: Arapça lisān + munāsib
 anlamlar:
 - Karşısındakinin kolayca anlayabileceği dil ve üslup

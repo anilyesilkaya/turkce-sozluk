@@ -2,6 +2,7 @@
 layout: term
 title: bamya
 slug: bamya
+letter: B
 lisan: Arapça bāmiya
 anlamlar:
 - Ebegümecigillerden, sıcak ve ılıman yerlerde yetişen bir bitki (Hibiscus esculentus)

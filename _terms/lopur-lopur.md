@@ -2,6 +2,7 @@
 layout: term
 title: löpür löpür
 slug: lopur-lopur
+letter: L
 lisan: Türkçe
 anlamlar:
 - ► lopur lopur

@@ -2,6 +2,7 @@
 layout: term
 title: volkan
 slug: volkan
+letter: V
 lisan: Fransızca volcan
 anlamlar:
 - ► yanardağ

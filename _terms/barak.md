@@ -2,6 +2,7 @@
 layout: term
 title: Barak
 slug: barak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Oğuzların Beğdili boyuna mensup olan ve bugün Güneydoğu Anadolu ve Suriye’nin kuzey bölgelerinde yaşayan Türkmen topluluğu

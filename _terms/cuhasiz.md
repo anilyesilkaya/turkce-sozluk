@@ -2,6 +2,7 @@
 layout: term
 title: çuhasız
 slug: cuhasiz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çuhası olmayan

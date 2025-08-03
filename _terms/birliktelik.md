@@ -2,6 +2,7 @@
 layout: term
 title: birliktelik
 slug: birliktelik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Birlikte olma durumu; beraberlik

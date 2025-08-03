@@ -2,6 +2,7 @@
 layout: term
 title: temenna
 slug: temenna
+letter: T
 lisan: Arapça temennā
 anlamlar:
 - Öne doğru eğildikten sonra doğrulurken eli başa götürerek verilen selam

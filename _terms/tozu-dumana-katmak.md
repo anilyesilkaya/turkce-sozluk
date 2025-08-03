@@ -2,6 +2,7 @@
 layout: term
 title: tozu dumana katmak
 slug: tozu-dumana-katmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - ortalığı altüst etmek

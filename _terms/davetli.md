@@ -2,6 +2,7 @@
 layout: term
 title: davetli
 slug: davetli
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► çağrılı

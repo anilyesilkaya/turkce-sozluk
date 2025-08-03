@@ -2,6 +2,7 @@
 layout: term
 title: değmek
 slug: degmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Herhangi bir değerde olmak

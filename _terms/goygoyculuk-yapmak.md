@@ -2,6 +2,7 @@
 layout: term
 title: goygoyculuk yapmak
 slug: goygoyculuk-yapmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - şakşakçılık yapmak

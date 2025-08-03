@@ -2,6 +2,7 @@
 layout: term
 title: zurnasız
 slug: zurnasiz
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zurna olmadan, zurna olmaksızın

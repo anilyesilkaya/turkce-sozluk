@@ -2,6 +2,7 @@
 layout: term
 title: bencilik
 slug: bencilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Benci olma durumu; hodpesentlik

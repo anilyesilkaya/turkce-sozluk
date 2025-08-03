@@ -2,6 +2,7 @@
 layout: term
 title: gözü hiçbir şey görmemek
 slug: gozu-hicbir-sey-gormemek
+letter: G
 lisan: Türkçe
 anlamlar:
 - heyecana kapılıp başka hiçbir şeyle uğraşamaz duruma gelmek

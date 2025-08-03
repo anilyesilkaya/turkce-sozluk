@@ -2,6 +2,7 @@
 layout: term
 title: sığınak
 slug: siginak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Yağmur, güneş veya çeşitli tehlikelerden korunmak için sığınılacak yer; melce

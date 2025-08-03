@@ -2,6 +2,7 @@
 layout: term
 title: halter
 slug: halter
+letter: H
 lisan: Fransızca haltère
 anlamlar:
 - Birbirine metal sapla bağlanmış iki gülle veya disklerden yapılmış araç

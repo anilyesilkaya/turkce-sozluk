@@ -2,6 +2,7 @@
 layout: term
 title: aritmi
 slug: aritmi
+letter: A
 lisan: Fransızca arythmie
 anlamlar:
 - Kalp atışlarındaki düzensizlik ve eşitsizlik

@@ -2,6 +2,7 @@
 layout: term
 title: çocuklamak
 slug: cocuklamak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Doğurmak, dünyaya getirmek

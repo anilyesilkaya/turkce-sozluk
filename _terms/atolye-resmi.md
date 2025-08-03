@@ -2,6 +2,7 @@
 layout: term
 title: atölye resmi
 slug: atolye-resmi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir işin ayrıntılarını gösteren ve atölyede yapım sırasında kullanılan 1/1 ölçüdeki teknik resim

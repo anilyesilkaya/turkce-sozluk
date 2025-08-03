@@ -2,6 +2,7 @@
 layout: term
 title: elden geçirmek
 slug: elden-gecirmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - eksiklik veya bozukluklarını gidermek veya denetlemek için incelemek

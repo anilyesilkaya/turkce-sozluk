@@ -2,6 +2,7 @@
 layout: term
 title: iş işlemek
 slug: is-islemek
+letter: I
 lisan: Türkçe
 anlamlar:
 - nakış yapmak

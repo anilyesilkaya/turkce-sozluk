@@ -2,6 +2,7 @@
 layout: term
 title: iki büklüm
 slug: iki-buklum
+letter: I
 lisan: Türkçe
 anlamlar:
 - Beli bükük, öne doğru eğik (kimse)

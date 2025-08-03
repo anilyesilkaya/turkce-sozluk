@@ -2,6 +2,7 @@
 layout: term
 title: akse
 slug: akse
+letter: A
 lisan: Fransızca accès
 anlamlar:
 - ► kriz

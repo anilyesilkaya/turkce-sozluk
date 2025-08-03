@@ -2,6 +2,7 @@
 layout: term
 title: zahmet vermek
 slug: zahmet-vermek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - sıkıntı vermek

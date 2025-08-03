@@ -2,6 +2,7 @@
 layout: term
 title: tonik
 slug: tonik
+letter: T
 lisan: Fransızca tonique
 anlamlar:
 - Organları uyaran ve güçlendiren ilaç

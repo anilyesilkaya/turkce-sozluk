@@ -2,6 +2,7 @@
 layout: term
 title: takanak
 slug: takanak
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► alacak

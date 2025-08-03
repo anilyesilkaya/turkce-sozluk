@@ -2,6 +2,7 @@
 layout: term
 title: seminer
 slug: seminer
+letter: S
 lisan: Fransızca séminaire
 anlamlar:
 - Bir konu ile ilgili bilgi vermek ve bu bilgiler üzerinde tartışmak amacıyla birkaç yetkilinin yönetimi altında düzenlenen toplantı

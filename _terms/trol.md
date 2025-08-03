@@ -2,6 +2,7 @@
 layout: term
 title: trol
 slug: trol
+letter: T
 lisan: İngilizce trawl
 anlamlar:
 - Teknelerle suyun dibinde sürüklenerek çekilen, huni biçiminde geniş ağızlı balık ağı

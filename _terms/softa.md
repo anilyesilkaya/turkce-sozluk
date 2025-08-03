@@ -2,6 +2,7 @@
 layout: term
 title: softa
 slug: softa
+letter: S
 lisan: Farsça sūḫte
 anlamlar:
 - Medrese öğrencisi

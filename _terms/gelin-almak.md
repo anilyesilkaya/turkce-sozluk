@@ -2,6 +2,7 @@
 layout: term
 title: gelin almak
 slug: gelin-almak
+letter: G
 lisan: Türkçe
 anlamlar:
 - erkeğe bir eş bulmak

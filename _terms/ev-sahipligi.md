@@ -2,6 +2,7 @@
 layout: term
 title: ev sahipliği
 slug: ev-sahipligi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ev sahibi olma durumu

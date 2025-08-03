@@ -2,6 +2,7 @@
 layout: term
 title: Burhaniye
 slug: burhaniye
+letter: B
 lisan: Türkçe
 anlamlar:
 - Balıkesir iline bağlı ilçelerden biri

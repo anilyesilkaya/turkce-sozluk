@@ -2,6 +2,7 @@
 layout: term
 title: fütuhat
 slug: futuhat
+letter: F
 lisan: Arapça futūḥāt
 anlamlar:
 - Fetihler

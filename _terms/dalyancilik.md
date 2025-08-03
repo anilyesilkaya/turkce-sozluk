@@ -2,6 +2,7 @@
 layout: term
 title: dalyancılık
 slug: dalyancilik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dalyancının yaptığı iş

@@ -2,6 +2,7 @@
 layout: term
 title: mahmuz çiçeği
 slug: mahmuz-cicegi
+letter: M
 lisan: Türkçe
 anlamlar:
 - İki çenekliler familyasından Akdeniz Bölgesi'nde yetişen kırmızı, pembe veya beyaz çiçekler açan iki yıllık otsu bir bitki (Centranthus)

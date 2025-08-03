@@ -2,6 +2,7 @@
 layout: term
 title: ah
 slug: ah
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► öç

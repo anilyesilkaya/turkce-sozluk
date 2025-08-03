@@ -2,6 +2,7 @@
 layout: term
 title: karlık
 slug: karlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kar kuyusu

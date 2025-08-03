@@ -2,6 +2,7 @@
 layout: term
 title: acılaştırmak
 slug: acilastirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Acı bir duruma getirmek

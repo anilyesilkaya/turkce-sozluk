@@ -2,6 +2,7 @@
 layout: term
 title: melodi
 slug: melodi
+letter: M
 lisan: Fransızca mélodie
 anlamlar:
 - ► ezgi

@@ -2,6 +2,7 @@
 layout: term
 title: başmüdürlük
 slug: basmudurluk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başmüdür olma durumu

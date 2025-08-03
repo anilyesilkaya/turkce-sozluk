@@ -2,6 +2,7 @@
 layout: term
 title: umut kapısı
 slug: umut-kapisi
+letter: U
 lisan: Türkçe
 anlamlar:
 - İstenilen, arzu edilen bir şeyin gerçekleşmesi beklentisiyle özlenen durum; ümit kapısı

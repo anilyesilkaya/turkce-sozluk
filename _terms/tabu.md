@@ -2,6 +2,7 @@
 layout: term
 title: tabu
 slug: tabu
+letter: T
 lisan: Fransızca tabou
 anlamlar:
 - Kutsal sayılan bazı insanlara, hayvanlara, nesnelere dokunulmasını, kullanılmasını yasaklayan, aksi yapıldığında zararı dokunacağı düşünülen dinî inanç

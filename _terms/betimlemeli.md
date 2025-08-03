@@ -2,6 +2,7 @@
 layout: term
 title: betimlemeli
 slug: betimlemeli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir nesnenin, kendine özgü niteliklerini tam ve açık bir biçimde söz veya yazı ile anlatan; betimsel, tasvirî, deskriptif

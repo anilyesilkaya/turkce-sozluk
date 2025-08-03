@@ -2,6 +2,7 @@
 layout: term
 title: saflaşma
 slug: saflasma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Saflaşmak işi; avanaklaşma, bönleşme

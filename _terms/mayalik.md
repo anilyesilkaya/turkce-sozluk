@@ -2,6 +2,7 @@
 layout: term
 title: mayalık
 slug: mayalik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Maya olarak kullanılmak için ayrılmış, maya olmaya yarar

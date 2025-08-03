@@ -2,6 +2,7 @@
 layout: term
 title: akıllı olmak
 slug: akilli-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - gerçeklere uygun davranmak

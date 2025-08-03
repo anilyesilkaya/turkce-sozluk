@@ -2,6 +2,7 @@
 layout: term
 title: müzminleşmek
 slug: muzminlesmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► süreğenleşmek

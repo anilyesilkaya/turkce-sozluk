@@ -2,6 +2,7 @@
 layout: term
 title: dilim dilim
 slug: dilim-dilim
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► parça parça

@@ -2,6 +2,7 @@
 layout: term
 title: anlatmak
 slug: anlatmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bilgi vermek

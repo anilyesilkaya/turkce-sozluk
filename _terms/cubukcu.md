@@ -2,6 +2,7 @@
 layout: term
 title: çubukçu
 slug: cubukcu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çubuk yapıp satan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: yadsınma
 slug: yadsinma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yadsınmak işi

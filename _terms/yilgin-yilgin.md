@@ -2,6 +2,7 @@
 layout: term
 title: yılgın yılgın
 slug: yilgin-yilgin
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Ürkerek

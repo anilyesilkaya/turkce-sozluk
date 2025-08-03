@@ -2,6 +2,7 @@
 layout: term
 title: tahrikçilik etmek (veya yapmak)
 slug: tahrikcilik-etmek-veya-yapmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - kışkırtıcılık etmek

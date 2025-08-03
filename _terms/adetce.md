@@ -2,6 +2,7 @@
 layout: term
 title: adetçe
 slug: adetce
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► sayıca

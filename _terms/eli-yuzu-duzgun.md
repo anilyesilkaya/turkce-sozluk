@@ -2,6 +2,7 @@
 layout: term
 title: eli yüzü düzgün
 slug: eli-yuzu-duzgun
+letter: E
 lisan: Türkçe
 anlamlar:
 - Yüzüne bakılır, güzel olan (kimse)

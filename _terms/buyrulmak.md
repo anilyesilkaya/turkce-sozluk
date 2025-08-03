@@ -2,6 +2,7 @@
 layout: term
 title: buyrulmak
 slug: buyrulmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► emredilmek

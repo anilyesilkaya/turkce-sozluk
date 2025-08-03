@@ -2,6 +2,7 @@
 layout: term
 title: kükürtlemek
 slug: kukurtlemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Toz kükürt serpmek

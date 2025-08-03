@@ -2,6 +2,7 @@
 layout: term
 title: kefenimsi
 slug: kefenimsi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kefene benzer, kefeni andırır

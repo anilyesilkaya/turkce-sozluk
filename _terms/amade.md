@@ -2,6 +2,7 @@
 layout: term
 title: amade
 slug: amade
+letter: A
 lisan: Farsça āmāde
 anlamlar:
 - ► hazır

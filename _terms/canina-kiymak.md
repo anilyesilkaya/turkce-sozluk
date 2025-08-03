@@ -2,6 +2,7 @@
 layout: term
 title: canına kıymak
 slug: canina-kiymak
+letter: C
 lisan: Türkçe
 anlamlar:
 - acımadan öldürmek

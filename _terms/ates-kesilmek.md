@@ -2,6 +2,7 @@
 layout: term
 title: ateş kesilmek
 slug: ates-kesilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - çok kızgın davranışlarda bulunmak, ateş püskürmek

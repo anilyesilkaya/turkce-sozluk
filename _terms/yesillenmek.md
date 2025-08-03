@@ -2,6 +2,7 @@
 layout: term
 title: yeşillenmek
 slug: yesillenmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yeşermek

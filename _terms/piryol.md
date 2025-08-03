@@ -2,6 +2,7 @@
 layout: term
 title: piryol
 slug: piryol
+letter: P
 lisan: (Prioli özel adından)
 anlamlar:
 - Üzerinde kümbetsi bir kapak bulunan, oldukça büyük bir tür cep saati

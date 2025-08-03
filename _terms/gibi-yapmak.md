@@ -2,6 +2,7 @@
 layout: term
 title: '... gibi yapmak'
 slug: gibi-yapmak
+letter: .
 lisan: Türkçe
 anlamlar:
 - '... imişçesine davranmak'

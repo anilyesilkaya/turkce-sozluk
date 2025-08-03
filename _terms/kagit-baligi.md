@@ -2,6 +2,7 @@
 layout: term
 title: kâğıt balığı
 slug: kagit-baligi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kâğıt balığıgillerden, gövdesi kâğıt gibi ince ve saydam, üzerinde üç siyah benek bulunan kemikli bir balık (Trachypterus trachypterus)

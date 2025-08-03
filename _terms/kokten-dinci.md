@@ -2,6 +2,7 @@
 layout: term
 title: kökten dinci
 slug: kokten-dinci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kökten dincilik yanlısı olan; fundamentalist

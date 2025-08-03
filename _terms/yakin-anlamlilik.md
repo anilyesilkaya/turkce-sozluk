@@ -2,6 +2,7 @@
 layout: term
 title: yakın anlamlılık
 slug: yakin-anlamlilik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yakın anlamlı olma durumu

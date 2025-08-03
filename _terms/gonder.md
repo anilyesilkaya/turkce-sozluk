@@ -2,6 +2,7 @@
 layout: term
 title: gönder
 slug: gonder
+letter: G
 lisan: Rumca
 anlamlar:
 - ► bayrak direği

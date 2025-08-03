@@ -2,6 +2,7 @@
 layout: term
 title: başmemur
 slug: basmemur
+letter: B
 lisan: Türkçe baş + Arapça me´mūr
 anlamlar:
 - Memurluk görevini yürüten en kıdemli ve yetkili memur

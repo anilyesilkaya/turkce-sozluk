@@ -2,6 +2,7 @@
 layout: term
 title: güven tazelemek
 slug: guven-tazelemek
+letter: G
 lisan: Türkçe
 anlamlar:
 - güvenme durumunun devam ettiğini belirtmek

@@ -2,6 +2,7 @@
 layout: term
 title: hâlet
 slug: halet
+letter: H
 lisan: Arapça ḥālet
 anlamlar:
 - ► durum

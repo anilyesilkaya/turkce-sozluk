@@ -2,6 +2,7 @@
 layout: term
 title: sahiplik
 slug: sahiplik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sahip olma durumu

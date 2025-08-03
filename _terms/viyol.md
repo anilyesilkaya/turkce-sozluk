@@ -2,6 +2,7 @@
 layout: term
 title: viyol
 slug: viyol
+letter: V
 lisan: Fransızca vieille
 anlamlar:
 - Satış sırasında yumurtayı korumayı amaçlayan, atık malzemeden yapılmış özel kap

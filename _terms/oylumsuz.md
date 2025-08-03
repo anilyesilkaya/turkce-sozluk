@@ -2,6 +2,7 @@
 layout: term
 title: oylumsuz
 slug: oylumsuz
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► hacimsiz

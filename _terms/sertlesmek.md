@@ -2,6 +2,7 @@
 layout: term
 title: sertleşmek
 slug: sertlesmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sert bir durum almak; katılaşmak

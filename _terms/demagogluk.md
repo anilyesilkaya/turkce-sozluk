@@ -2,6 +2,7 @@
 layout: term
 title: demagogluk
 slug: demagogluk
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► laf cambazlığı

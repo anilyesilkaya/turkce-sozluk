@@ -2,6 +2,7 @@
 layout: term
 title: fener çekmek
 slug: fener-cekmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - elinde fenerle önden gitmek

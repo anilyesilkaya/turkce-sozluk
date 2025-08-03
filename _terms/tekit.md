@@ -2,6 +2,7 @@
 layout: term
 title: tekit
 slug: tekit
+letter: T
 lisan: Arapça teʾkīd
 anlamlar:
 - Bir şeyi kuvvetleştirme, sağlamlaştırma; pekitme

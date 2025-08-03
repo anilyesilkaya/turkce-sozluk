@@ -2,6 +2,7 @@
 layout: term
 title: götürtmek
 slug: goturtmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Götürülmesini sağlamak

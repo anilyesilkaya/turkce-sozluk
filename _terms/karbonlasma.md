@@ -2,6 +2,7 @@
 layout: term
 title: karbonlaşma
 slug: karbonlasma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karbonlaşmak işi

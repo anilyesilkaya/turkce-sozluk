@@ -2,6 +2,7 @@
 layout: term
 title: zınk
 slug: zink
+letter: Z
 lisan: Türkçe
 anlamlar:
 - '"Birdenbire durmak" anlamındaki zınk diye durmak deyiminde geçer'

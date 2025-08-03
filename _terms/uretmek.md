@@ -2,6 +2,7 @@
 layout: term
 title: üretmek
 slug: uretmek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Aynı türden canlıları çoğaltmak

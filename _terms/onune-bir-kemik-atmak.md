@@ -2,6 +2,7 @@
 layout: term
 title: önüne bir kemik atmak
 slug: onune-bir-kemik-atmak
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - birini susturmak için ona küçük bir çıkar sağlamak

@@ -2,6 +2,7 @@
 layout: term
 title: kolluluk
 slug: kolluluk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kollu olma durumu

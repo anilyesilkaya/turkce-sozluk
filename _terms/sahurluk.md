@@ -2,6 +2,7 @@
 layout: term
 title: sahurluk
 slug: sahurluk
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sahurda yenecek şeyler

@@ -2,6 +2,7 @@
 layout: term
 title: baldırpatlatan
 slug: baldirpatlatan
+letter: B
 lisan: Türkçe
 anlamlar:
 - Güreşte hasmın bir ayağını tutarak diz kapağına kadar büküp üzerine yüklenme oyunu

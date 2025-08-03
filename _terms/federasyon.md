@@ -2,6 +2,7 @@
 layout: term
 title: federasyon
 slug: federasyon
+letter: F
 lisan: Fransızca fédération
 anlamlar:
 - Savunma ve dış politika alanında dayanışma amacıyla birden fazla devletin bir birlik devleti içinde birleşmesi

@@ -2,6 +2,7 @@
 layout: term
 title: pülverizasyon
 slug: pulverizasyon
+letter: P
 lisan: Fransızca pulvérisation
 anlamlar:
 - Sert bir cismi ezerek toz hâline getirme

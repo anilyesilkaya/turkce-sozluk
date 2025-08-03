@@ -2,6 +2,7 @@
 layout: term
 title: çıplak ücret
 slug: ciplak-ucret
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Vergiler, yan ödemeler veya primler dışında kalan asli ücret; çıplak maaş

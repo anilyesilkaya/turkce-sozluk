@@ -2,6 +2,7 @@
 layout: term
 title: rugani
 slug: rugani
+letter: R
 lisan: Farsça revġan + į
 anlamlar:
 - Rugandan yapılmış

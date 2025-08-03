@@ -2,6 +2,7 @@
 layout: term
 title: afur tafur
 slug: afur-tafur
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► afra tafra

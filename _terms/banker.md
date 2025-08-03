@@ -2,6 +2,7 @@
 layout: term
 title: banker
 slug: banker
+letter: B
 lisan: Fransızca banquier
 anlamlar:
 - Banka sahibi kimse

@@ -2,6 +2,7 @@
 layout: term
 title: ayıklama
 slug: ayiklama
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayıklamak işi

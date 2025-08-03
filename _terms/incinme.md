@@ -2,6 +2,7 @@
 layout: term
 title: incinme
 slug: incinme
+letter: I
 lisan: Türkçe
 anlamlar:
 - İncinmek işi

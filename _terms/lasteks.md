@@ -2,6 +2,7 @@
 layout: term
 title: lasteks
 slug: lasteks
+letter: L
 lisan: Fransızca lastex
 anlamlar:
 - Kauçuk, ipek, pamuk veya yün karışımı bir tür yapma kumaş

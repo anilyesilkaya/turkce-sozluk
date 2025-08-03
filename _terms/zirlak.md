@@ -2,6 +2,7 @@
 layout: term
 title: zırlak
 slug: zirlak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Sürekli zırlayan

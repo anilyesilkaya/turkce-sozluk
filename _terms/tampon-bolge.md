@@ -2,6 +2,7 @@
 layout: term
 title: tampon bölge
 slug: tampon-bolge
+letter: T
 lisan: Türkçe
 anlamlar:
 - İki devlet arasında, hudut boyunca, askerden arındırılmış toprak parçası

@@ -2,6 +2,7 @@
 layout: term
 title: feyzalmak
 slug: feyzalmak
+letter: F
 lisan: Arapça feyż + Türkçe almak
 anlamlar:
 - Etkilenmek, olgunlaşmak, ders almak

@@ -2,6 +2,7 @@
 layout: term
 title: çalkandırmak
 slug: calkandirmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► dalgalandırmak

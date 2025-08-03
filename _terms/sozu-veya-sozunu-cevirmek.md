@@ -2,6 +2,7 @@
 layout: term
 title: sözü (veya sözünü) çevirmek
 slug: sozu-veya-sozunu-cevirmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - lafı çevirmek

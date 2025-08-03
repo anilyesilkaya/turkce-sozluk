@@ -2,6 +2,7 @@
 layout: term
 title: plaj
 slug: plaj
+letter: P
 lisan: Fransızca plage
 anlamlar:
 - Kıyı şeridinde deniz, göl vb.ne girmek için düzenlenmiş, genellikle kumluk veya çakıl taşlı alan; kumla

@@ -2,6 +2,7 @@
 layout: term
 title: kırıntı
 slug: kirinti
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir şeyden ayrılan küçük parça; parçacık, kırık (I)

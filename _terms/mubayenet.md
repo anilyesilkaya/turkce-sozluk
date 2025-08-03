@@ -2,6 +2,7 @@
 layout: term
 title: mübayenet
 slug: mubayenet
+letter: M
 lisan: Arapça mubāyenet
 anlamlar:
 - ► ayrılık

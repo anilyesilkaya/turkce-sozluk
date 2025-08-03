@@ -2,6 +2,7 @@
 layout: term
 title: boncuk mavisi
 slug: boncuk-mavisi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Yeşile çalan bir mavi

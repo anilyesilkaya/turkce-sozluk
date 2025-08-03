@@ -2,6 +2,7 @@
 layout: term
 title: aptallaştırmak
 slug: aptallastirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aptallaşmasına sebep olmak, aptal duruma getirmek; budalalaştırmak

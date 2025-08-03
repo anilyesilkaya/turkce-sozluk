@@ -2,6 +2,7 @@
 layout: term
 title: tekerrür
 slug: tekerrur
+letter: T
 lisan: Arapça tekerrur
 anlamlar:
 - ► tekrarlanma

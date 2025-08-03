@@ -2,6 +2,7 @@
 layout: term
 title: çatkılı
 slug: catkili
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çatkısı olan

@@ -2,6 +2,7 @@
 layout: term
 title: bağırganlık
 slug: bagirganlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağırgan olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: tiran
 slug: tiran
+letter: T
 lisan: Fransızca tyran
 anlamlar:
 - Eski Yunan'da siyasal gücü zorla ele geçiren, onu kötüye kullanan kimse

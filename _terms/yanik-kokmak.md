@@ -2,6 +2,7 @@
 layout: term
 title: yanık kokmak
 slug: yanik-kokmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - is kokmak

@@ -2,6 +2,7 @@
 layout: term
 title: nizamsızlık
 slug: nizamsizlik
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nizamsız olma durumu, tertipsizlik

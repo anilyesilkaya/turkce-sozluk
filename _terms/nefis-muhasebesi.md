@@ -2,6 +2,7 @@
 layout: term
 title: nefis muhasebesi
 slug: nefis-muhasebesi
+letter: N
 lisan: Türkçe
 anlamlar:
 - İnsanın isteklerini, hırslarını ve yaptıklarını gözden geçirmesi, doğru veya yanlışlarını vicdanının süzgecinden geçirip bir değerlendirme yapması

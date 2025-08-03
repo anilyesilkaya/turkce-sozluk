@@ -2,6 +2,7 @@
 layout: term
 title: kortizonlu
 slug: kortizonlu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Birleşiminde kortizon olan

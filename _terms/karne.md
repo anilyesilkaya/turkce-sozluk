@@ -2,6 +2,7 @@
 layout: term
 title: karne
 slug: karne
+letter: K
 lisan: Fransızca carnet
 anlamlar:
 - İlk ve ortaöğretim öğrencilerine  dönem sonlarında okul yönetimleri tarafından verilen ve her dersin başarı durumu ile devam, sağlık, yetenek ve genel gidiş durumlarını gösteren belge

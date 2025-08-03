@@ -2,6 +2,7 @@
 layout: term
 title: kaç
 slug: kac
+letter: K
 lisan: Türkçe
 anlamlar:
 - Herhangi bir şeyin niceliğini sormak için kullanılan soru sıfatı

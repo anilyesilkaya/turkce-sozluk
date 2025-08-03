@@ -2,6 +2,7 @@
 layout: term
 title: milletlerarası
 slug: milletlerarasi
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► uluslararası

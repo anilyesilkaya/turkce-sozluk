@@ -2,6 +2,7 @@
 layout: term
 title: kabadayılık taslamak
 slug: kabadayilik-taslamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kabadayı gibi davranmaya, kabadayı gibi görünmeye çalışmak

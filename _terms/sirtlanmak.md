@@ -2,6 +2,7 @@
 layout: term
 title: sırtlanmak
 slug: sirtlanmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sırtlamak işi yapılmak

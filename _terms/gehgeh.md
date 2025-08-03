@@ -2,6 +2,7 @@
 layout: term
 title: gehgeh
 slug: gehgeh
+letter: G
 lisan: Türkçe
 anlamlar:
 - '"Nöbetli bir hastalığa yakalanmak" anlamında kullanılan gehgeh tutmak deyiminde geçen bir söz'

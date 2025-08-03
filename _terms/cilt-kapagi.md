@@ -2,6 +2,7 @@
 layout: term
 title: cilt kapağı
 slug: cilt-kapagi
+letter: C
 lisan: Türkçe
 anlamlar:
 - Forma veya fasikül olarak yayımlanan eserlerin bir örnek ciltlenip kullanılması için hazırlanan bez veya plastik kaplanmış kalın karton

@@ -2,6 +2,7 @@
 layout: term
 title: aksediş
 slug: aksedis
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► yansıyış

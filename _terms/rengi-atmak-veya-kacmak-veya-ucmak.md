@@ -2,6 +2,7 @@
 layout: term
 title: rengi atmak (veya kaçmak veya uçmak)
 slug: rengi-atmak-veya-kacmak-veya-ucmak
+letter: R
 lisan: Türkçe
 anlamlar:
 - solmak

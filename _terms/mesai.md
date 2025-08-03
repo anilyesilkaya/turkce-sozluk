@@ -2,6 +2,7 @@
 layout: term
 title: mesai
 slug: mesai
+letter: M
 lisan: Arapça mesāʿī
 anlamlar:
 - Çalışma, emek

@@ -2,6 +2,7 @@
 layout: term
 title: şiirsel
 slug: siirsel
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şiir niteliğinde olan

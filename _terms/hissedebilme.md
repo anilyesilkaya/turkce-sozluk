@@ -2,6 +2,7 @@
 layout: term
 title: hissedebilme
 slug: hissedebilme
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hissedebilmek işi

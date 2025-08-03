@@ -2,6 +2,7 @@
 layout: term
 title: yüklülük
 slug: yukluluk
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yüklü olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: bezgin
 slug: bezgin
+letter: B
 lisan: Türkçe
 anlamlar:
 - Yaşama veya iş görme isteğini yitirmiş

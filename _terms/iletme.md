@@ -2,6 +2,7 @@
 layout: term
 title: iletme
 slug: iletme
+letter: I
 lisan: Türkçe
 anlamlar:
 - İletmek işi

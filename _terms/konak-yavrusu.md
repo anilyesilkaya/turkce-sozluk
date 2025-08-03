@@ -2,6 +2,7 @@
 layout: term
 title: konak yavrusu
 slug: konak-yavrusu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Konağı andıran (ev)

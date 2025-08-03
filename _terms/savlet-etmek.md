@@ -2,6 +2,7 @@
 layout: term
 title: savlet etmek
 slug: savlet-etmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - saldırmak

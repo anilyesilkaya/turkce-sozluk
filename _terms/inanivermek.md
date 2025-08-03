@@ -2,6 +2,7 @@
 layout: term
 title: inanıvermek
 slug: inanivermek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Çabucak inanmak

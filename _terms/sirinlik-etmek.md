@@ -2,6 +2,7 @@
 layout: term
 title: şirinlik etmek
 slug: sirinlik-etmek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - şirin görünmeye çalışmak

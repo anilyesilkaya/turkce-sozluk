@@ -2,6 +2,7 @@
 layout: term
 title: tu kaka olmak
 slug: tu-kaka-olmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - hafife alınıp bir kenara itilmek, önem verilmemek, kötülenmek

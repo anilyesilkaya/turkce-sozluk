@@ -2,6 +2,7 @@
 layout: term
 title: alaturkalık
 slug: alaturkalik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alaturka olma durumu

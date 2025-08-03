@@ -2,6 +2,7 @@
 layout: term
 title: pasaj
 slug: pasaj
+letter: P
 lisan: Fransızca passage
 anlamlar:
 - İçinde dükkânlar bulunan, üzeri kapalı veya açık çarşı

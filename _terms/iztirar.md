@@ -2,6 +2,7 @@
 layout: term
 title: ıztırar
 slug: iztirar
+letter: I
 lisan: Arapça iżṭirār
 anlamlar:
 - ► zorunluluk

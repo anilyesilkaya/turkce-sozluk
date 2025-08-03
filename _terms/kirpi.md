@@ -2,6 +2,7 @@
 layout: term
 title: kirpi
 slug: kirpi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kirpigillerden, uzunluğu 25-30 santimetre olan, sırtı dikenlerle kaplı memeli hayvan (Erinaceus europaeus)

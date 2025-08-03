@@ -2,6 +2,7 @@
 layout: term
 title: Babai
 slug: babai
+letter: B
 lisan: Türkçe
 anlamlar:
 - Babailik tarikatından olan kimse

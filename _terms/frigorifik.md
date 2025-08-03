@@ -2,6 +2,7 @@
 layout: term
 title: frigorifik
 slug: frigorifik
+letter: F
 lisan: Fransızca frigorigique
 anlamlar:
 - ► soğutucu

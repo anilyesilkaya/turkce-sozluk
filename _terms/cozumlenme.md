@@ -2,6 +2,7 @@
 layout: term
 title: çözümlenme
 slug: cozumlenme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çözümlenmek işi

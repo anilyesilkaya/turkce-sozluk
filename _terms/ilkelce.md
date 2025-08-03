@@ -2,6 +2,7 @@
 layout: term
 title: ilkelce
 slug: ilkelce
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► ilkel

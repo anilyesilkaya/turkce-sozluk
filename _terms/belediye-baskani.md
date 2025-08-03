@@ -2,6 +2,7 @@
 layout: term
 title: belediye başkanı
 slug: belediye-baskani
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belediye teşkilatını yöneten kimse; belediye reisi, şehremini

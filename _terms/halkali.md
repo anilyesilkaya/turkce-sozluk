@@ -2,6 +2,7 @@
 layout: term
 title: halkalı
 slug: halkali
+letter: H
 lisan: Türkçe
 anlamlar:
 - Halkası olan

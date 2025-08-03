@@ -2,6 +2,7 @@
 layout: term
 title: ağırellilik
 slug: agirellilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► eli ağırlık

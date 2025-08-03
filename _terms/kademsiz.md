@@ -2,6 +2,7 @@
 layout: term
 title: kademsiz
 slug: kademsiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► uğursuz

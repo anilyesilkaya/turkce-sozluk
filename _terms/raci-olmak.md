@@ -2,6 +2,7 @@
 layout: term
 title: raci olmak
 slug: raci-olmak
+letter: R
 lisan: Türkçe
 anlamlar:
 - dokunmak, dayanmak, ilgilendirmek

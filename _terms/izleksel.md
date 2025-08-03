@@ -2,6 +2,7 @@
 layout: term
 title: izleksel
 slug: izleksel
+letter: I
 lisan: Türkçe
 anlamlar:
 - İzleğe dayalı

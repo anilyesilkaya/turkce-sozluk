@@ -2,6 +2,7 @@
 layout: term
 title: döke döke
 slug: doke-doke
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dökerek

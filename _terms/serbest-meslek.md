@@ -2,6 +2,7 @@
 layout: term
 title: serbest meslek
 slug: serbest-meslek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kişisel çalışmaya, bilimsel ve mesleki bilgiye, uzmanlığa dayanan ve bir işverene bağlı olmadan kendi adına kazanç sağlamak için yapılan iş

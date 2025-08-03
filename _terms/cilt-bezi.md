@@ -2,6 +2,7 @@
 layout: term
 title: cilt bezi
 slug: cilt-bezi
+letter: C
 lisan: Türkçe
 anlamlar:
 - Ciltçilikte mukavvanın üzerine geçirilen, ağartılmamış keten bez

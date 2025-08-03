@@ -2,6 +2,7 @@
 layout: term
 title: ansıtma
 slug: ansitma
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► anımsatma

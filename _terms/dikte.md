@@ -2,6 +2,7 @@
 layout: term
 title: dikte
 slug: dikte
+letter: D
 lisan: Fransızca dictée
 anlamlar:
 - Bir başkasına o anda söyleyerek yazdırma; yazdırım

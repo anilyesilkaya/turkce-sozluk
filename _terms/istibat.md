@@ -2,6 +2,7 @@
 layout: term
 title: istibat
 slug: istibat
+letter: I
 lisan: Arapça istibʿād
 anlamlar:
 - ► uzaksama

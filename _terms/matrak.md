@@ -2,6 +2,7 @@
 layout: term
 title: matrak
 slug: matrak
+letter: M
 lisan: Arapça miṭrāḳ
 anlamlar:
 - Savaşmayı öğretmek için kullanılan, üzerine deri kaplanmış, başı yuvarlakça kalın sopa

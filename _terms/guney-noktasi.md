@@ -2,6 +2,7 @@
 layout: term
 title: güney noktası
 slug: guney-noktasi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Dünya ekseninin güney ucunun gök küreyi deldiği kabul edilen noktası

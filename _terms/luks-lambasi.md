@@ -2,6 +2,7 @@
 layout: term
 title: lüks lambası
 slug: luks-lambasi
+letter: L
 lisan: Türkçe
 anlamlar:
 - ► lüks (II)

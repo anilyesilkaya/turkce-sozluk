@@ -2,6 +2,7 @@
 layout: term
 title: makassız
 slug: makassiz
+letter: M
 lisan: Türkçe
 anlamlar:
 - Makası olmayan

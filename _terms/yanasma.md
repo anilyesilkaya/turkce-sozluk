@@ -2,6 +2,7 @@
 layout: term
 title: yanaşma
 slug: yanasma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yanaşmak işi

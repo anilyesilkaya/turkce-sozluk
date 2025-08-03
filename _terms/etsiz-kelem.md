@@ -2,6 +2,7 @@
 layout: term
 title: etsiz kelem
 slug: etsiz-kelem
+letter: E
 lisan: Türkçe
 anlamlar:
 - Zeytinyağlı olarak yapılmış lahana sarması

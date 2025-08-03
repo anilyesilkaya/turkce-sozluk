@@ -2,6 +2,7 @@
 layout: term
 title: şekvacı olmak
 slug: sekvaci-olmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - şikâyet etmek, yakınmak (II)

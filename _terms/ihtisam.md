@@ -2,6 +2,7 @@
 layout: term
 title: ihtişam
 slug: ihtisam
+letter: I
 lisan: Arapça iḥtişām
 anlamlar:
 - ► görkem

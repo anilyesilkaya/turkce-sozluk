@@ -2,6 +2,7 @@
 layout: term
 title: damıtmak
 slug: damitmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir sıvıyı buhar durumuna getirdikten sonra soğutup yabancı maddelerden arınmış hâlde yeniden damla damla elde etmek; imbikten geçirmek, taktir etmek

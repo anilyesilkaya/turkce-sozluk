@@ -2,6 +2,7 @@
 layout: term
 title: hırpalatmak
 slug: hirpalatmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hırpalanmasına sebep olmak

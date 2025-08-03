@@ -2,6 +2,7 @@
 layout: term
 title: gözetmek
 slug: gozetmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Korumak, bakmak, özen göstermek; himaye etmek

@@ -2,6 +2,7 @@
 layout: term
 title: sabitlik
 slug: sabitlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sabit olma durumu

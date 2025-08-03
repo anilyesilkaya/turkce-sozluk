@@ -2,6 +2,7 @@
 layout: term
 title: retorik
 slug: retorik
+letter: R
 lisan: Fransızca rhétorique
 anlamlar:
 - Güzel söz söyleme

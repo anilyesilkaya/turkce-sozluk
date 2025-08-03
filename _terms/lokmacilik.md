@@ -2,6 +2,7 @@
 layout: term
 title: lokmacılık
 slug: lokmacilik
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lokmacı olma durumu

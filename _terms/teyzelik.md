@@ -2,6 +2,7 @@
 layout: term
 title: teyzelik
 slug: teyzelik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Teyze olma durumu

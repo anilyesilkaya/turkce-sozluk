@@ -2,6 +2,7 @@
 layout: term
 title: gaye
 slug: gaye
+letter: G
 lisan: Arapça ġāye
 anlamlar:
 - ► amaç

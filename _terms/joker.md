@@ -2,6 +2,7 @@
 layout: term
 title: joker
 slug: joker
+letter: J
 lisan: Fransızca joker
 anlamlar:
 - Bazı kâğıt veya taş oyunlarında istenen kartın veya taşın yerine konabilen kart

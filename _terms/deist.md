@@ -2,6 +2,7 @@
 layout: term
 title: deist
 slug: deist
+letter: D
 lisan: Fransızca déiste
 anlamlar:
 - Deizm yanlısı

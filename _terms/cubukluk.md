@@ -2,6 +2,7 @@
 layout: term
 title: çubukluk
 slug: cubukluk
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Tütün çubuklarının saklandığı yer; çubuk odası

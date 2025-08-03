@@ -2,6 +2,7 @@
 layout: term
 title: buruklaşmak
 slug: buruklasmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Buruk bir durum almak

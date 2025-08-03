@@ -2,6 +2,7 @@
 layout: term
 title: kılıklı
 slug: kilikli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Herhangi bir kılıkta olan; kıyafetli

@@ -2,6 +2,7 @@
 layout: term
 title: ahlama
 slug: ahlama
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ahlamak işi

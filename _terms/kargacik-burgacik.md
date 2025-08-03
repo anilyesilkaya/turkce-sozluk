@@ -2,6 +2,7 @@
 layout: term
 title: kargacık burgacık
 slug: kargacik-burgacik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çarpık, düzensiz, eğri büğrü olan

@@ -2,6 +2,7 @@
 layout: term
 title: gerek görmek
 slug: gerek-gormek
+letter: G
 lisan: Türkçe
 anlamlar:
 - yapılmasını istemek

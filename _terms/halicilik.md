@@ -2,6 +2,7 @@
 layout: term
 title: halıcılık
 slug: halicilik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Halı dokuma sanatı veya sanayisi

@@ -2,6 +2,7 @@
 layout: term
 title: halk şiiri
 slug: halk-siiri
+letter: H
 lisan: Türkçe
 anlamlar:
 - Toplum arasından çıkan ve geleneksel yöntemlere ve ilkelere bağlı olarak halk ozanları tarafından yazılıp söylenen veya anonimleşmiş edebî tür; deyiş

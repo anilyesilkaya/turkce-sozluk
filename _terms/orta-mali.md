@@ -2,6 +2,7 @@
 layout: term
 title: orta malı
 slug: orta-mali
+letter: O
 lisan: Türkçe
 anlamlar:
 - Herkesin yararlandığı (nesne)

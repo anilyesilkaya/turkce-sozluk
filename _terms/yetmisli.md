@@ -2,6 +2,7 @@
 layout: term
 title: yetmişli
 slug: yetmisli
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yetmiş parçası bulunan, yetmiş parçadan oluşan

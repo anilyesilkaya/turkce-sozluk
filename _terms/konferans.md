@@ -2,6 +2,7 @@
 layout: term
 title: konferans
 slug: konferans
+letter: K
 lisan: Fransızca conférence
 anlamlar:
 - Dinleyicilere bilim, sanat, edebiyat vb. konularda bilgi vermek için yapılan söyleşi; konuşma

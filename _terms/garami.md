@@ -2,6 +2,7 @@
 layout: term
 title: garami
 slug: garami
+letter: G
 lisan: Arapça ġarāmī
 anlamlar:
 - Düşünceden çok, canlı duygulara ve aşka dayanan (sanat eseri)

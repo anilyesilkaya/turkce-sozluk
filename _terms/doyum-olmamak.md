@@ -2,6 +2,7 @@
 layout: term
 title: doyum olmamak
 slug: doyum-olmamak
+letter: D
 lisan: Türkçe
 anlamlar:
 - bir şeyden bıkılmamak

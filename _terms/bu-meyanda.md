@@ -2,6 +2,7 @@
 layout: term
 title: bu meyanda
 slug: bu-meyanda
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bu arada

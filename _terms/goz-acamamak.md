@@ -2,6 +2,7 @@
 layout: term
 title: göz açamamak
 slug: goz-acamamak
+letter: G
 lisan: Türkçe
 anlamlar:
 - yoğun işler yüzünden bir şeyle ilgilenme imkânı bulamamak

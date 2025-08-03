@@ -2,6 +2,7 @@
 layout: term
 title: yomsuzluk
 slug: yomsuzluk
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► uğursuzluk

@@ -2,6 +2,7 @@
 layout: term
 title: iz bırakmak
 slug: iz-birakmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - etkisini kalıcı duruma getirmek

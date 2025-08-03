@@ -2,6 +2,7 @@
 layout: term
 title: peder
 slug: peder
+letter: P
 lisan: Farsça peder
 anlamlar:
 - ► baba

@@ -2,6 +2,7 @@
 layout: term
 title: binişmek
 slug: binismek
+letter: B
 lisan: Türkçe
 anlamlar:
 - İki parçadan biri öbürünün üstünde olmak

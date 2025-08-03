@@ -2,6 +2,7 @@
 layout: term
 title: pohpohçuluk
 slug: pohpohculuk
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pohpohçu olma durumu

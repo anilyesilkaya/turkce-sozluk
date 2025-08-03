@@ -2,6 +2,7 @@
 layout: term
 title: kollamak
 slug: kollamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Olmasını, ortaya çıkmasını beklemek, gözetmek

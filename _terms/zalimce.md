@@ -2,6 +2,7 @@
 layout: term
 title: zalimce
 slug: zalimce
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► acımasız

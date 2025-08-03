@@ -2,6 +2,7 @@
 layout: term
 title: sapı silik
 slug: sapi-silik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kişiliksiz, sözünü dinletemeyen kimse

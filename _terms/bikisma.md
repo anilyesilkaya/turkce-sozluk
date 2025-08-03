@@ -2,6 +2,7 @@
 layout: term
 title: bıkışma
 slug: bikisma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bıkışmak işi

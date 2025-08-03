@@ -2,6 +2,7 @@
 layout: term
 title: pahalılaşmak
 slug: pahalilasmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► pahalanmak

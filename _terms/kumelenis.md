@@ -2,6 +2,7 @@
 layout: term
 title: kümeleniş
 slug: kumelenis
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kümelenmek işi

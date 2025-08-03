@@ -2,6 +2,7 @@
 layout: term
 title: başıboş dolaşmak (veya gezmek)
 slug: basibos-dolasmak-veya-gezmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - boş boş, aylak aylak, amaçsızca dolaşmak

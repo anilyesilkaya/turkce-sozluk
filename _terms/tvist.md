@@ -2,6 +2,7 @@
 layout: term
 title: tvist
 slug: tvist
+letter: T
 lisan: İngilizce twist
 anlamlar:
 - Özellikle gençler arasında 1960'lı yıllarda yaygınlık kazanan çok hızlı ritmi olan bir dans

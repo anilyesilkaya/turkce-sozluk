@@ -2,6 +2,7 @@
 layout: term
 title: kokak
 slug: kokak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kötü, pis kokan

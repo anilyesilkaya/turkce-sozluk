@@ -2,6 +2,7 @@
 layout: term
 title: rezalet
 slug: rezalet
+letter: R
 lisan: Arapça reẕālet
 anlamlar:
 - ► rezillik

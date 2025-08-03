@@ -2,6 +2,7 @@
 layout: term
 title: süvari bölüğü
 slug: suvari-bolugu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Altı askerlerden oluşan bölük

@@ -2,6 +2,7 @@
 layout: term
 title: eriş
 slug: eris
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ermek işi

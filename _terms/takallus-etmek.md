@@ -2,6 +2,7 @@
 layout: term
 title: takallüs etmek
 slug: takallus-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - kasılmak

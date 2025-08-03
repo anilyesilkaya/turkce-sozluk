@@ -2,6 +2,7 @@
 layout: term
 title: kısım
 slug: kisim
+letter: K
 lisan: Arapça ḳism
 anlamlar:
 - ► bölüm

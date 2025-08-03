@@ -2,6 +2,7 @@
 layout: term
 title: 'alt anlam '
 slug: alt-anlam
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir düşünce veya yargının birincil anlamının arkasında kalan ikincil anlam; örtük anlam, örtülü anlam

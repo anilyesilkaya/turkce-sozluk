@@ -2,6 +2,7 @@
 layout: term
 title: sonki
 slug: sonki
+letter: S
 lisan: Türkçe
 anlamlar:
 - Son olan, en sondaki

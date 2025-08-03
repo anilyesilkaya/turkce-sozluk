@@ -2,6 +2,7 @@
 layout: term
 title: mümeyyiz
 slug: mumeyyiz
+letter: M
 lisan: Arapça mumeyyiz
 anlamlar:
 - İyiyi, kötüyü, doğru ve yanlışı ayıran, seçen

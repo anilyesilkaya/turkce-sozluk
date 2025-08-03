@@ -2,6 +2,7 @@
 layout: term
 title: mandarin
 slug: mandarin
+letter: M
 lisan: Fransızca mandarin
 anlamlar:
 - Çin’de bürokrat sınıfına mensup kişi

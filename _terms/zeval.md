@@ -2,6 +2,7 @@
 layout: term
 title: zeval
 slug: zeval
+letter: Z
 lisan: Arapça zevāl
 anlamlar:
 - Yok olma, yok edilme

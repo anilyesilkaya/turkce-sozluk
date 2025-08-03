@@ -2,6 +2,7 @@
 layout: term
 title: felah bulmak
 slug: felah-bulmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - kurtulmak

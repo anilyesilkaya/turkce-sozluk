@@ -2,6 +2,7 @@
 layout: term
 title: acilen
 slug: acilen
+letter: A
 lisan: Arapça ʿācilen
 anlamlar:
 - ► çabucak

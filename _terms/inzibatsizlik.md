@@ -2,6 +2,7 @@
 layout: term
 title: inzibatsızlık
 slug: inzibatsizlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - Düzensiz, başıboş olma

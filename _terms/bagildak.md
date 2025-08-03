@@ -2,6 +2,7 @@
 layout: term
 title: bağıldak
 slug: bagildak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beşikteki çocuğun düşmemesi için beşiğe sarılıp bağlanan, kumaştan yapılmış enli bağ; bağırdak

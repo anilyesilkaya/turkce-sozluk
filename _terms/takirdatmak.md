@@ -2,6 +2,7 @@
 layout: term
 title: takırdatmak
 slug: takirdatmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Takırdamasına yol açmak, takırdamasına sebep olmak

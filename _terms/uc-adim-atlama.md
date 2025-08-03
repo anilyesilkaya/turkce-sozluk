@@ -2,6 +2,7 @@
 layout: term
 title: üç adım atlama
 slug: uc-adim-atlama
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Gelişme koşusunun verdiği hızla tek ayak üzerinde sıçrayıp aynı ayak üzerine düştükten sonra dingin bacakla bir adım atarak yine bu bacakla üçüncü sıçramayı yapmak kuralına bağlı olarak vücudu yerden koparıp üç sıçrama ile uzağa kondurma; üç adım

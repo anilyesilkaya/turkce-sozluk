@@ -2,6 +2,7 @@
 layout: term
 title: muvazzaf
 slug: muvazzaf
+letter: M
 lisan: Arapça muvaẓẓaf
 anlamlar:
 - Silahlı Kuvvetlerde görev başında olan subay ve astsubaylarla askerlik hizmetini yapan erler

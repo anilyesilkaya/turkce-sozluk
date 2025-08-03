@@ -2,6 +2,7 @@
 layout: term
 title: kursak
 slug: kursak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kuşların yemek borusu üzerinde bulunan, yiyeceklerin toplandığı torba biçiminde şişkin organ

@@ -2,6 +2,7 @@
 layout: term
 title: yanılma
 slug: yanilma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yanılmak işi; galat

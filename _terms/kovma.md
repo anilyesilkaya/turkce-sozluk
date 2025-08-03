@@ -2,6 +2,7 @@
 layout: term
 title: kovma
 slug: kovma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kovmak işi; defetme, defleme

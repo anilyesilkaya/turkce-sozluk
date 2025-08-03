@@ -2,6 +2,7 @@
 layout: term
 title: süpürgeli
 slug: supurgeli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Süpürgesi olan

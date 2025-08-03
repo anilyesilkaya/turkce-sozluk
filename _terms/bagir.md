@@ -2,6 +2,7 @@
 layout: term
 title: bağır
 slug: bagir
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► göğüs

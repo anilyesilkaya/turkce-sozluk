@@ -2,6 +2,7 @@
 layout: term
 title: karışıvermek
 slug: karisivermek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Ansızın karışmak

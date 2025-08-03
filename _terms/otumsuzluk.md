@@ -2,6 +2,7 @@
 layout: term
 title: ötümsüzlük
 slug: otumsuzluk
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► tonsuzluk

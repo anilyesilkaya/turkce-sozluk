@@ -2,6 +2,7 @@
 layout: term
 title: sıralanmak
 slug: siralanmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıra oluşturacak biçimde yer almak

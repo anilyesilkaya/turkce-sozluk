@@ -2,6 +2,7 @@
 layout: term
 title: merakını yenmek
 slug: merakini-yenmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - öğrenme isteğini engellemek

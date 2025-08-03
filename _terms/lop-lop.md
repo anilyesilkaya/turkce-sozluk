@@ -2,6 +2,7 @@
 layout: term
 title: löp löp
 slug: lop-lop
+letter: L
 lisan: Türkçe
 anlamlar:
 - ► lop lop

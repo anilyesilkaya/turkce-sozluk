@@ -2,6 +2,7 @@
 layout: term
 title: yıkanabilmek
 slug: yikanabilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yıkanma ihtimali veya imkânı bulunmak

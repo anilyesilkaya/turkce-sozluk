@@ -2,6 +2,7 @@
 layout: term
 title: yenişebilmek
 slug: yenisebilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yenişme ihtimali veya imkânı bulunmak

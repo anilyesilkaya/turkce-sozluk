@@ -2,6 +2,7 @@
 layout: term
 title: abosa etmek
 slug: abosa-etmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir aletin çalışmasını durdurmak

@@ -2,6 +2,7 @@
 layout: term
 title: eğitimsel
 slug: egitimsel
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eğitimle ilgili; terbiyevi, pedagojik

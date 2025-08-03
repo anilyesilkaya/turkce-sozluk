@@ -2,6 +2,7 @@
 layout: term
 title: şaşı
 slug: sasi
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Birbirine paralel görme ekseni olmayan (göz veya kimse)

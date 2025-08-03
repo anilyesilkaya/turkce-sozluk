@@ -2,6 +2,7 @@
 layout: term
 title: sert
 slug: sert
+letter: S
 lisan: Farsça serd
 anlamlar:
 - Çizilmesi, kırılması, buruşması, kesilmesi veya çiğnenmesi güç olan; bek (I), berk, pek, katı (I), yumuşak karşıtı

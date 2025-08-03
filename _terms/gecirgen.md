@@ -2,6 +2,7 @@
 layout: term
 title: geçirgen
 slug: gecirgen
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gaz, sıvı vb.ni içinden kolaylıkla geçiren

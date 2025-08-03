@@ -2,6 +2,7 @@
 layout: term
 title: muvafık olmak
 slug: muvafik-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - uygun düşmek, kabul edilebilir olmak

@@ -2,6 +2,7 @@
 layout: term
 title: santra çizgisi
 slug: santra-cizgisi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Futbolda santra yuvarlağını ortadan ikiye bölen, üzerinde santra noktası bulunan çizgi

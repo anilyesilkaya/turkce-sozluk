@@ -2,6 +2,7 @@
 layout: term
 title: pazarlığı pişirmek
 slug: pazarligi-pisirmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - pazarlıkta uyuşma sağlayacak duruma gelmek

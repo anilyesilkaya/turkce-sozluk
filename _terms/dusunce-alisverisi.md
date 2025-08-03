@@ -2,6 +2,7 @@
 layout: term
 title: düşünce alışverişi
 slug: dusunce-alisverisi
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► fikir alışverişi

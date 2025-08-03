@@ -2,6 +2,7 @@
 layout: term
 title: harcamak
 slug: harcamak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Bir iş görmek veya bir şey satın almak için parayı elden çıkarmak; ezmek, sarf etmek

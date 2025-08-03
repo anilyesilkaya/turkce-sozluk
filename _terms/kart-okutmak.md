@@ -2,6 +2,7 @@
 layout: term
 title: kart okutmak
 slug: kart-okutmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - toplu taşıma vb.nde geçişi sağlamak için kişiye ait kartı elektronik bir cihaza göstermek

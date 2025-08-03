@@ -2,6 +2,7 @@
 layout: term
 title: emek vermek
 slug: emek-vermek
+letter: E
 lisan: Türkçe
 anlamlar:
 - bir şeyin meydana gelmesi için özenli bir biçimde ve çok çalışmak

@@ -2,6 +2,7 @@
 layout: term
 title: boynuzlu
 slug: boynuzlu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boynuzu olan (hayvan)

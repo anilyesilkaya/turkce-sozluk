@@ -2,6 +2,7 @@
 layout: term
 title: randevu vermek
 slug: randevu-vermek
+letter: R
 lisan: Türkçe
 anlamlar:
 - belli bir saatte, belli bir yerde biriyle buluşmak için söz vermek

@@ -2,6 +2,7 @@
 layout: term
 title: kanunname
 slug: kanunname
+letter: K
 lisan: Arapça ḳānūn + Farsça nāme
 anlamlar:
 - Kanunların toplandığı kitap

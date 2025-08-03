@@ -2,6 +2,7 @@
 layout: term
 title: kişizade
 slug: kisizade
+letter: K
 lisan: Türkçe kişi + Farsça zāde
 anlamlar:
 - ► soylu

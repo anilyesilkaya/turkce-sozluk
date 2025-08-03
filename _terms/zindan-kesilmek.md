@@ -2,6 +2,7 @@
 layout: term
 title: zindan kesilmek
 slug: zindan-kesilmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - çok karanlık duruma gelmek

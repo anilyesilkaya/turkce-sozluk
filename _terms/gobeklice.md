@@ -2,6 +2,7 @@
 layout: term
 title: göbeklice
 slug: gobeklice
+letter: G
 lisan: Türkçe
 anlamlar:
 - Biraz göbekli

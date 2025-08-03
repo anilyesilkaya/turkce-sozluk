@@ -2,6 +2,7 @@
 layout: term
 title: beşuş
 slug: besus
+letter: B
 lisan: Arapça beşūş
 anlamlar:
 - ► güler yüzlü

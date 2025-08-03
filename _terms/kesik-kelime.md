@@ -2,6 +2,7 @@
 layout: term
 title: kesik kelime
 slug: kesik-kelime
+letter: K
 lisan: Türkçe
 anlamlar:
 - 'Birleşik kelimenin ikinci bölümü eksiltilerek kullanılan biçimi: foto < fotoğraf, oto < otomobil, akü < akümülatör, faks < faksimile, büt < bütünleme, anjiyo < anjiyografi vb'

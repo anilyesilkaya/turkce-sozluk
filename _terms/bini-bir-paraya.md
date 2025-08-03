@@ -2,6 +2,7 @@
 layout: term
 title: bini bir paraya
 slug: bini-bir-paraya
+letter: B
 lisan: Türkçe
 anlamlar:
 - pek çok ve ucuz

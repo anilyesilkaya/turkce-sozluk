@@ -2,6 +2,7 @@
 layout: term
 title: bir daha
 slug: bir-daha
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir defa daha

@@ -2,6 +2,7 @@
 layout: term
 title: pula dönmek
 slug: pula-donmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - değersizleşmek

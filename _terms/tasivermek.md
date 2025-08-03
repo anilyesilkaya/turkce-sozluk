@@ -2,6 +2,7 @@
 layout: term
 title: taşıvermek
 slug: tasivermek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Ansızın veya çok kısa sürede taşmak

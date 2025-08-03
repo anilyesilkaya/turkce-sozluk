@@ -2,6 +2,7 @@
 layout: term
 title: cumhuriyetçi
 slug: cumhuriyetci
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cumhuriyet yanlısı olan; cumhuriyetperver

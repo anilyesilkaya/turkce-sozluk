@@ -2,6 +2,7 @@
 layout: term
 title: tomurcuklanma
 slug: tomurcuklanma
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tomurcuklanmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: girilme
 slug: girilme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Girilmek işi

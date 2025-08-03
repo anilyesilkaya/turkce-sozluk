@@ -2,6 +2,7 @@
 layout: term
 title: canlı bomba
 slug: canli-bomba
+letter: C
 lisan: Türkçe
 anlamlar:
 - Üzerindeki patlayıcı maddeleri suikast yapmak amacıyla patlatarak kullanan kimse; intihar bombacısı

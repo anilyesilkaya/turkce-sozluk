@@ -2,6 +2,7 @@
 layout: term
 title: zevzekçe
 slug: zevzekce
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Gevezeye yakışan, geveze gibi

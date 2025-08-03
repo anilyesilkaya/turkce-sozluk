@@ -2,6 +2,7 @@
 layout: term
 title: şakadan
 slug: sakadan
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şaka olarak, şaka diye; şakacıktan, mahsus (I)

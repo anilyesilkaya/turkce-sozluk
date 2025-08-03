@@ -2,6 +2,7 @@
 layout: term
 title: hülleci
 slug: hulleci
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hülle yoluyla evlenme işini gerçekleştiren kimse

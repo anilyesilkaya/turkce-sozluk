@@ -2,6 +2,7 @@
 layout: term
 title: üstlenme
 slug: ustlenme
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üstlenmek işi; deruhte, taahhüt

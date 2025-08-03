@@ -2,6 +2,7 @@
 layout: term
 title: temsil
 slug: temsil
+letter: T
 lisan: Arapça tems̱īl
 anlamlar:
 - Birinin veya bir topluluğun adına davranma

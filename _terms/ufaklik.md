@@ -2,6 +2,7 @@
 layout: term
 title: ufaklık
 slug: ufaklik
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ufak olma durumu

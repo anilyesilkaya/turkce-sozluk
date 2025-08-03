@@ -2,6 +2,7 @@
 layout: term
 title: fena olmak
 slug: fena-olmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - bir iş kötü olmak, iyi ve isabetli olmamak

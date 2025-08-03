@@ -2,6 +2,7 @@
 layout: term
 title: bilim dışılık
 slug: bilim-disilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilim dışı olma durumu

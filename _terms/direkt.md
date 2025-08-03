@@ -2,6 +2,7 @@
 layout: term
 title: direkt
 slug: direkt
+letter: D
 lisan: Fransızca direct
 anlamlar:
 - ► aracısız

@@ -2,6 +2,7 @@
 layout: term
 title: aşağılı yukarılı
 slug: asagili-yukarili
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aşağısı ve yukarısı olan

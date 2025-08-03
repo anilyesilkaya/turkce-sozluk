@@ -2,6 +2,7 @@
 layout: term
 title: baygınlık geçirmek
 slug: bayginlik-gecirmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - bayılmak

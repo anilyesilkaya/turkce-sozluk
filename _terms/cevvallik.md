@@ -2,6 +2,7 @@
 layout: term
 title: cevvallik
 slug: cevvallik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cevval olma durumu

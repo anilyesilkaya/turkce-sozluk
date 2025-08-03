@@ -2,6 +2,7 @@
 layout: term
 title: sıkıvermek
 slug: sikivermek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Çabucak sıkmak

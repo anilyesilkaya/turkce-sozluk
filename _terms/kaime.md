@@ -2,6 +2,7 @@
 layout: term
 title: kaime
 slug: kaime
+letter: K
 lisan: Arapça ḳāʾime
 anlamlar:
 - ► ferman

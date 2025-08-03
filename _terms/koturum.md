@@ -2,6 +2,7 @@
 layout: term
 title: kötürüm
 slug: koturum
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yaşlılık veya sakatlık sebebiyle yürüyemeyen, ayağa kalkamayan (kimse); oturak

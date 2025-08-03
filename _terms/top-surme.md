@@ -2,6 +2,7 @@
 layout: term
 title: top sürme
 slug: top-surme
+letter: T
 lisan: Türkçe
 anlamlar:
 - Futbolda kısa vuruşlarla, topu kaçırmadan karşı takımın kalesine doğru götürmek işi

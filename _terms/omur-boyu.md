@@ -2,6 +2,7 @@
 layout: term
 title: ömür boyu
 slug: omur-boyu
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Sağ kalındığı, yaşandığı sürece; ömür boyunca, yaşam boyu, yaşam boyunca, hayat boyu

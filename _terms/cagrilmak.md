@@ -2,6 +2,7 @@
 layout: term
 title: çağrılmak
 slug: cagrilmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çağırma işi yapılmak; çığrılmak

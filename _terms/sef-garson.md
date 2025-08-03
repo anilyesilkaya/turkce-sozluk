@@ -2,6 +2,7 @@
 layout: term
 title: şef garson
 slug: sef-garson
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Garsonların başı; başgarson

@@ -2,6 +2,7 @@
 layout: term
 title: tahkimat
 slug: tahkimat
+letter: T
 lisan: Arapça taḥkīmāt
 anlamlar:
 - Bir yeri düşman saldırısına karşı koyabilecek duruma getirmek için yapılan türlü haberleşme, hendek, siper vb. savunma tesisleri

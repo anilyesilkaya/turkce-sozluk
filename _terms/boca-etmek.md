@@ -2,6 +2,7 @@
 layout: term
 title: boca etmek
 slug: boca-etmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - geminin başını rüzgâr almayan tarafa çevirmek

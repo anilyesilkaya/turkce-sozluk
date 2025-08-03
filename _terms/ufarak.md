@@ -2,6 +2,7 @@
 layout: term
 title: ufarak
 slug: ufarak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Biraz ufak

@@ -2,6 +2,7 @@
 layout: term
 title: Tatar Türkçesi
 slug: tatar-turkcesi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tatar Türklerinin kullandığı konuşma ve yazı dili; Tatarca

@@ -2,6 +2,7 @@
 layout: term
 title: altüst olmak
 slug: altust-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - çok karışık duruma gelmek

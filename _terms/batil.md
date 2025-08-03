@@ -2,6 +2,7 @@
 layout: term
 title: batıl
 slug: batil
+letter: B
 lisan: Arapça bāṭil
 anlamlar:
 - İnançlar bakımından gerçek olmayan

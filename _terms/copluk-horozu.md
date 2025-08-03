@@ -2,6 +2,7 @@
 layout: term
 title: çöplük horozu
 slug: copluk-horozu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Güzeli, çirkini ayırt etmeyen kadın düşkünü erkek

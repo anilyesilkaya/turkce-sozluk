@@ -2,6 +2,7 @@
 layout: term
 title: 'miras hukuku '
 slug: miras-hukuku
+letter: M
 lisan: Türkçe
 anlamlar:
 - Kişinin sağlığında yaptığı ölüme bağlı hukuk işlemlerinin şekil ve şartlarını, ölümden sonra kalan mirasın mirasçılara geçiş şekil ve şartlarını gösteren, mirastan doğan davaları düzenleyen hukuk kuralları

@@ -2,6 +2,7 @@
 layout: term
 title: ümit vermek
 slug: umit-vermek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - umut vermek

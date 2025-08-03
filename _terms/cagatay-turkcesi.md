@@ -2,6 +2,7 @@
 layout: term
 title: Çağatay Türkçesi
 slug: cagatay-turkcesi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - XV-XIX. yüzyıllar arasında Doğu Türklerinin kullandığı konuşma ve yazı dili; Çağatayca, Doğu Türkçesi

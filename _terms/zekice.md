@@ -2,6 +2,7 @@
 layout: term
 title: zekice
 slug: zekice
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zeki olan

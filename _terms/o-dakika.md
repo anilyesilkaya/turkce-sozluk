@@ -2,6 +2,7 @@
 layout: term
 title: o dakika
 slug: o-dakika
+letter: O
 lisan: Türkçe
 anlamlar:
 - O anda, hemen

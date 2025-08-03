@@ -2,6 +2,7 @@
 layout: term
 title: parnasizm
 slug: parnasizm
+letter: P
 lisan: Fransızca parnassisme
 anlamlar:
 - '"Sanat sanat içindir" ilkesini benimseyen, genellikle şiirde kendini gösteren bir edebiyat akımı'

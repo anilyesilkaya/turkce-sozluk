@@ -2,6 +2,7 @@
 layout: term
 title: bulunmaz
 slug: bulunmaz
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► eşsiz

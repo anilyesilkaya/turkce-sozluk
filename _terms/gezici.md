@@ -2,6 +2,7 @@
 layout: term
 title: gezici
 slug: gezici
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gezme işini yapan

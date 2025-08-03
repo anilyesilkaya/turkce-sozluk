@@ -2,6 +2,7 @@
 layout: term
 title: verdirmek
 slug: verdirmek
+letter: V
 lisan: Türkçe
 anlamlar:
 - Verme işini yaptırmak, vermesini sağlamak

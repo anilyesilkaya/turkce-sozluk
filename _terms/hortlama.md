@@ -2,6 +2,7 @@
 layout: term
 title: hortlama
 slug: hortlama
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hortlamak işi

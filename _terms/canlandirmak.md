@@ -2,6 +2,7 @@
 layout: term
 title: canlandırmak
 slug: canlandirmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - Canlanmasını sağlamak, canlanmasına yol açmak

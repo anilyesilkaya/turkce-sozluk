@@ -2,6 +2,7 @@
 layout: term
 title: çığrışma
 slug: cigrisma
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çağrışma

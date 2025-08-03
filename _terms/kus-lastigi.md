@@ -2,6 +2,7 @@
 layout: term
 title: kuş lastiği
 slug: kus-lastigi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sapan

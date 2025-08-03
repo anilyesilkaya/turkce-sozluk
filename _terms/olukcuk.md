@@ -2,6 +2,7 @@
 layout: term
 title: olukçuk
 slug: olukcuk
+letter: O
 lisan: Türkçe
 anlamlar:
 - Küçük oluk

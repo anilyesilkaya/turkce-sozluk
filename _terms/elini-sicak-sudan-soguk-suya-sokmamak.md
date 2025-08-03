@@ -2,6 +2,7 @@
 layout: term
 title: elini sıcak sudan soğuk suya sokmamak
 slug: elini-sicak-sudan-soguk-suya-sokmamak
+letter: E
 lisan: Türkçe
 anlamlar:
 - hiçbir iş yapmamak

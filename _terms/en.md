@@ -2,6 +2,7 @@
 layout: term
 title: en
 slug: en
+letter: E
 lisan: Türkçe
 anlamlar:
 - Başına geldiği sıfatların üstün derecede olduğunu gösteren kelime

@@ -2,6 +2,7 @@
 layout: term
 title: kesmece
 slug: kesmece
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kesilip müşteriye gösterilerek satılan (kavun, karpuz)

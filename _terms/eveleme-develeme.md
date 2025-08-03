@@ -2,6 +2,7 @@
 layout: term
 title: eveleme develeme
 slug: eveleme-develeme
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► eveleme geveleme

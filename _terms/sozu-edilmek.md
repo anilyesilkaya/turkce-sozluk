@@ -2,6 +2,7 @@
 layout: term
 title: sözü edilmek
 slug: sozu-edilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - adı anılmak, bahsedilmek

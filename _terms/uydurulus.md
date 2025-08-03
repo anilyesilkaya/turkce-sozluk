@@ -2,6 +2,7 @@
 layout: term
 title: uyduruluş
 slug: uydurulus
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uydurulmak işi

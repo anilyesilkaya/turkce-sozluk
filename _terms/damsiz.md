@@ -2,6 +2,7 @@
 layout: term
 title: damsız
 slug: damsiz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Yanında kadın olmadan

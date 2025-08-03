@@ -2,6 +2,7 @@
 layout: term
 title: politikacı
 slug: politikaci
+letter: P
 lisan: Türkçe
 anlamlar:
 - Politika ile uğraşan kimse; siyasi, siyasetçi

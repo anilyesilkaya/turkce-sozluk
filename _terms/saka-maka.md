@@ -2,6 +2,7 @@
 layout: term
 title: şaka maka
 slug: saka-maka
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Önemsemeyerek

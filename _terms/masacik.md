@@ -2,6 +2,7 @@
 layout: term
 title: masacık
 slug: masacik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Küçük masa

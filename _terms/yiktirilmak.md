@@ -2,6 +2,7 @@
 layout: term
 title: yıktırılmak
 slug: yiktirilmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yıkma işi yaptırılmak

@@ -2,6 +2,7 @@
 layout: term
 title: elden ayaktan düşmek (veya kesilmek)
 slug: elden-ayaktan-dusmek-veya-kesilmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - yaşlılık sebebiyle veya sağlığı büsbütün bozularak güçsüz, çalışamaz duruma gelmek

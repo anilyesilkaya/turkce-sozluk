@@ -2,6 +2,7 @@
 layout: term
 title: mikado
 slug: mikado
+letter: M
 lisan: Japonca
 anlamlar:
 - Japon imparatorlarına verilen ünvan

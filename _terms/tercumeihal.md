@@ -2,6 +2,7 @@
 layout: term
 title: tercümeihâl
 slug: tercumeihal
+letter: T
 lisan: Arapça terceme + ḥāl
 anlamlar:
 - ► öz geçmiş

@@ -2,6 +2,7 @@
 layout: term
 title: gelinlik kız
 slug: gelinlik-kiz
+letter: G
 lisan: Türkçe
 anlamlar:
 - Evlenme çağına gelmiş kız çocuğu

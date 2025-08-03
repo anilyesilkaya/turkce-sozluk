@@ -2,6 +2,7 @@
 layout: term
 title: gönlünü eğlemek
 slug: gonlunu-eglemek
+letter: G
 lisan: Türkçe
 anlamlar:
 - mutlu, neşeli vakit geçirmek

@@ -2,6 +2,7 @@
 layout: term
 title: ilaç gibi gelmek
 slug: ilac-gibi-gelmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - iyileşmeyi veya çözümü kolaylaştırmak

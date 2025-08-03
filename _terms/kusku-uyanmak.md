@@ -2,6 +2,7 @@
 layout: term
 title: kuşku uyanmak
 slug: kusku-uyanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kuşku oluşmak

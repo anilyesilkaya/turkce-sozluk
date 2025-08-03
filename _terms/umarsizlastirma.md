@@ -2,6 +2,7 @@
 layout: term
 title: umarsızlaştırma
 slug: umarsizlastirma
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► çaresizleştirme

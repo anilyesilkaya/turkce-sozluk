@@ -2,6 +2,7 @@
 layout: term
 title: tuz ekmek düşmanı
 slug: tuz-ekmek-dusmani
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► iyilikbilmez

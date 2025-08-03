@@ -2,6 +2,7 @@
 layout: term
 title: Doğuluca
 slug: doguluca
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► alaturka

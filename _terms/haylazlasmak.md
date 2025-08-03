@@ -2,6 +2,7 @@
 layout: term
 title: haylazlaşmak
 slug: haylazlasmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Haylaz bir duruma gelmek

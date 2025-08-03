@@ -2,6 +2,7 @@
 layout: term
 title: velveleye vermek
 slug: velveleye-vermek
+letter: V
 lisan: Türkçe
 anlamlar:
 - gereksiz telaşa ve heyecana düşürmek

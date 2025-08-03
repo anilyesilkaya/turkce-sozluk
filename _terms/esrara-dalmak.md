@@ -2,6 +2,7 @@
 layout: term
 title: esrara dalmak
 slug: esrara-dalmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - sırlara gömülmek

@@ -2,6 +2,7 @@
 layout: term
 title: eroinman
 slug: eroinman
+letter: E
 lisan: Fransızca héroïnomane
 anlamlar:
 - ► eroinci

@@ -2,6 +2,7 @@
 layout: term
 title: adaksız
 slug: adaksiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Adağı olmayan, adak adamamış olan

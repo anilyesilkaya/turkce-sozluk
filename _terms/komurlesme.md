@@ -2,6 +2,7 @@
 layout: term
 title: kömürleşme
 slug: komurlesme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kömürleşmek işi

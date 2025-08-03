@@ -2,6 +2,7 @@
 layout: term
 title: ocakbaşı
 slug: ocakbasi
+letter: O
 lisan: Türkçe
 anlamlar:
 - isim, Ateş yanan yerin çevresi

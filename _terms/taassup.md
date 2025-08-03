@@ -2,6 +2,7 @@
 layout: term
 title: taassup
 slug: taassup
+letter: T
 lisan: Arapça taʿaṣṣub
 anlamlar:
 - ► bağnazlık

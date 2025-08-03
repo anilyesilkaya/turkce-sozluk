@@ -2,6 +2,7 @@
 layout: term
 title: yakı otu
 slug: yaki-otu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Küpe çiçeğigillerden, kırmızı veya pembe çiçekli, sulak yerlerde yetişen, küçük bir süs bitkisi (Epilobium)

@@ -2,6 +2,7 @@
 layout: term
 title: büyükanne
 slug: buyukanne
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► nine

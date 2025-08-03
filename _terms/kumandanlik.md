@@ -2,6 +2,7 @@
 layout: term
 title: kumandanlık
 slug: kumandanlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► komutanlık

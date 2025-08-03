@@ -2,6 +2,7 @@
 layout: term
 title: tuturuk
 slug: tuturuk
+letter: T
 lisan: Türkçe
 anlamlar:
 - Ateş tutuşturacak çalı, çırpı, yonga vb. şeyler

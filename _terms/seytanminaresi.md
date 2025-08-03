@@ -2,6 +2,7 @@
 layout: term
 title: şeytanminaresi
 slug: seytanminaresi
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Bazı deniz böceklerinin koni biçimindeki kavkısı

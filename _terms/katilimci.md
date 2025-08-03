@@ -2,6 +2,7 @@
 layout: term
 title: katılımcı
 slug: katilimci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Herhangi bir etkinliğe katılan kimse, şirket vb.; iştirakçi

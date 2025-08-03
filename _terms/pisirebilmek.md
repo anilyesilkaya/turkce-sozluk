@@ -2,6 +2,7 @@
 layout: term
 title: pişirebilmek
 slug: pisirebilmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pişirme ihtimali veya imkânı bulunmak

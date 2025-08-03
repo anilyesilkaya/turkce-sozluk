@@ -2,6 +2,7 @@
 layout: term
 title: ev halkı
 slug: ev-halki
+letter: E
 lisan: Türkçe
 anlamlar:
 - Bir evde yaşayanların hepsi; evladüiyal

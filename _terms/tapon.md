@@ -2,6 +2,7 @@
 layout: term
 title: tapon
 slug: tapon
+letter: T
 lisan: Fransızca tapon
 anlamlar:
 - Niteliği düşük, eski, elde kalmış

@@ -2,6 +2,7 @@
 layout: term
 title: kolpo çevirmek
 slug: kolpo-cevirmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - kumpas kurmak

@@ -2,6 +2,7 @@
 layout: term
 title: inşaat
 slug: insaat
+letter: I
 lisan: Arapça inşāʾāt
 anlamlar:
 - Yapma işi; yapım

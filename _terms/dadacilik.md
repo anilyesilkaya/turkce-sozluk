@@ -2,6 +2,7 @@
 layout: term
 title: Dadacılık
 slug: dadacilik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Savaşa ve toplumsal düzensizliğe karşı başkaldırmadan doğan bir sanat akımı; Dadaizm

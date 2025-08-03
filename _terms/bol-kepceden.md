@@ -2,6 +2,7 @@
 layout: term
 title: bol kepçeden
 slug: bol-kepceden
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çok fazla

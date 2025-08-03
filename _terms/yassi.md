@@ -2,6 +2,7 @@
 layout: term
 title: yassı
 slug: yassi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yayvan ve düz; piyata

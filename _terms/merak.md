@@ -2,6 +2,7 @@
 layout: term
 title: merak
 slug: merak
+letter: M
 lisan: Arapça merāḳ
 anlamlar:
 - Bir şeyi anlamak veya öğrenmek için duyulan istek

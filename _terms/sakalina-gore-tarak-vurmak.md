@@ -2,6 +2,7 @@
 layout: term
 title: sakalına göre tarak vurmak
 slug: sakalina-gore-tarak-vurmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - birinin hoşlanacağı biçimde konuşmak veya davranmak

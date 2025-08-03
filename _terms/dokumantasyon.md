@@ -2,6 +2,7 @@
 layout: term
 title: dokümantasyon
 slug: dokumantasyon
+letter: D
 lisan: Fransızca documentation
 anlamlar:
 - ► belgeleme

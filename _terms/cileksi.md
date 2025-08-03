@@ -2,6 +2,7 @@
 layout: term
 title: çileksi
 slug: cileksi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çileği andıran, çileğe benzeyen, çilek gibi; çileğimsi

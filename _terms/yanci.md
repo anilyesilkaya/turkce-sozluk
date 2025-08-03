@@ -2,6 +2,7 @@
 layout: term
 title: yancı
 slug: yanci
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Kahvelerde oynanan oyunları seyreden ve bedavadan yiyip içen kimse

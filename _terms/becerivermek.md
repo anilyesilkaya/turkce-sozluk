@@ -2,6 +2,7 @@
 layout: term
 title: becerivermek
 slug: becerivermek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çabucak becermek

@@ -2,6 +2,7 @@
 layout: term
 title: mütecaviz
 slug: mutecaviz
+letter: M
 lisan: Arapça mutecāviz
 anlamlar:
 - ► saldırgan

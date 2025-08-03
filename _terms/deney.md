@@ -2,6 +2,7 @@
 layout: term
 title: deney
 slug: deney
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bilimsel bir gerçeği göstermek, bir yasayı doğrulamak, bir varsayımı kanıtlamak amacıyla yapılan işlem; tecrübe

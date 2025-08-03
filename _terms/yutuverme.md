@@ -2,6 +2,7 @@
 layout: term
 title: yutuverme
 slug: yutuverme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yutuvermek işi

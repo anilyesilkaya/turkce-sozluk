@@ -2,6 +2,7 @@
 layout: term
 title: mansıp
 slug: mansip
+letter: M
 lisan: Arapça manṣib
 anlamlar:
 - ► makam

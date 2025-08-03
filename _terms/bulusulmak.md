@@ -2,6 +2,7 @@
 layout: term
 title: buluşulmak
 slug: bulusulmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Buluşma işi yapılmak

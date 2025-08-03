@@ -2,6 +2,7 @@
 layout: term
 title: biteviyelik
 slug: biteviyelik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► tekdüzelik

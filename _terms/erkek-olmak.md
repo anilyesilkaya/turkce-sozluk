@@ -2,6 +2,7 @@
 layout: term
 title: erkek olmak
 slug: erkek-olmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - kadınken cinsiyet değiştirmek

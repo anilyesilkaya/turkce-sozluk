@@ -2,6 +2,7 @@
 layout: term
 title: 'öğrenci işleri '
 slug: ogrenci-isleri
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Eğitim öğretim kurumlarında öğrencilerin akademik ve öğrenciliğe ilişkin işlemlerinin yapıldığı, kayıtlarının tutulduğu birim

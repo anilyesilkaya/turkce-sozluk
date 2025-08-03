@@ -2,6 +2,7 @@
 layout: term
 title: fanatik
 slug: fanatik
+letter: F
 lisan: Fransızca fanatique
 anlamlar:
 - ► bağnaz

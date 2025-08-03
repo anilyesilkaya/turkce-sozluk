@@ -2,6 +2,7 @@
 layout: term
 title: mahpus
 slug: mahpus
+letter: M
 lisan: Arapça maḥbūs
 anlamlar:
 - Kapatılmış, hapsedilmiş (kimse); hapis, mapus

@@ -2,6 +2,7 @@
 layout: term
 title: reaktör
 slug: reaktor
+letter: R
 lisan: Fransızca réacteur
 anlamlar:
 - Yakıt olarak çevre havayı kullanan ve pervanelerin yardımı olmaksızın doğrudan doğruya tepki ile çalışan, iki ucu açık boru biçiminde itici

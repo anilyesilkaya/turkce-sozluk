@@ -2,6 +2,7 @@
 layout: term
 title: binebilmek
 slug: binebilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Binme ihtimali veya imkânı bulunmak

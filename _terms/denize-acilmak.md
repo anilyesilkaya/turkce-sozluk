@@ -2,6 +2,7 @@
 layout: term
 title: denize açılmak
 slug: denize-acilmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - kıyıdan çok uzaklaşmak

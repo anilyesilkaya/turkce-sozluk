@@ -2,6 +2,7 @@
 layout: term
 title: kırk
 slug: kirk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Otuz dokuzdan sonra gelen sayının adı

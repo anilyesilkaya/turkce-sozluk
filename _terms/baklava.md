@@ -2,6 +2,7 @@
 layout: term
 title: baklava
 slug: baklava
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çok ince yufkadan yapılarak arasına kaymak, fıstık, ceviz, badem vb. konulup pişirilen ve üzerine şeker şerbeti dökülen bir tatlı türü

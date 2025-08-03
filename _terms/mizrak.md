@@ -2,6 +2,7 @@
 layout: term
 title: mızrak
 slug: mizrak
+letter: M
 lisan: Arapça mizrāḳ
 anlamlar:
 - Uzun saplı, sivri demir uçlu silah

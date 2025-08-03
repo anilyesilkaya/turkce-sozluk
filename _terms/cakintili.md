@@ -2,6 +2,7 @@
 layout: term
 title: çakıntılı
 slug: cakintili
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çakıntısı olan

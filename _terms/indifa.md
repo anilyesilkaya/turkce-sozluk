@@ -2,6 +2,7 @@
 layout: term
 title: indifa
 slug: indifa
+letter: I
 lisan: Arapça indifāʿ
 anlamlar:
 - ► püskürme

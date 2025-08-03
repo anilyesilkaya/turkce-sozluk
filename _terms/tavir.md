@@ -2,6 +2,7 @@
 layout: term
 title: tavır
 slug: tavir
+letter: T
 lisan: Arapça ṭavr
 anlamlar:
 - ► durum

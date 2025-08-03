@@ -2,6 +2,7 @@
 layout: term
 title: cilvesiz
 slug: cilvesiz
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cilvesi olmayan; işvesiz

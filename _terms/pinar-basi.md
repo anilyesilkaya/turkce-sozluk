@@ -2,6 +2,7 @@
 layout: term
 title: pınar başı
 slug: pinar-basi
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pınarın etrafı

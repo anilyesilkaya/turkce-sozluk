@@ -2,6 +2,7 @@
 layout: term
 title: yokumsama
 slug: yokumsama
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yadsıma

@@ -2,6 +2,7 @@
 layout: term
 title: cebriye
 slug: cebriye
+letter: C
 lisan: Arapça cebriyye
 anlamlar:
 - ► yazgıcılık

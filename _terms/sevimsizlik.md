@@ -2,6 +2,7 @@
 layout: term
 title: sevimsizlik
 slug: sevimsizlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sevimsiz olma durumu; antipati, antipatiklik

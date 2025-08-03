@@ -2,6 +2,7 @@
 layout: term
 title: resen
 slug: resen
+letter: R
 lisan: Arapça reʾsen
 anlamlar:
 - Kendi başına, kendiliğinden

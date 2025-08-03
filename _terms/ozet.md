@@ -2,6 +2,7 @@
 layout: term
 title: özet
 slug: ozet
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Bir yazı veya sözün anlamını daha kısa ve özlü biçimde veren yazı veya söz; fezleke, hülasa, icmal, telhis

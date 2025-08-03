@@ -2,6 +2,7 @@
 layout: term
 title: eğitim
 slug: egitim
+letter: E
 lisan: Türkçe
 anlamlar:
 - Çocukların ve gençlerin toplum yaşayışında yerlerini almaları için gerekli bilgi, beceri ve anlayışları elde etmelerine, kişiliklerini geliştirmelerine okul içinde veya dışında, doğrudan veya dolaylı yardım etme; terbiye

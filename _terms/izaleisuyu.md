@@ -2,6 +2,7 @@
 layout: term
 title: izaleişüyu
 slug: izaleisuyu
+letter: I
 lisan: Arapça izāle + şuyūʿ
 anlamlar:
 - Bir mülk üzerindeki ortaklığı giderme

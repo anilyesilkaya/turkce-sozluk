@@ -2,6 +2,7 @@
 layout: term
 title: avucunu yalamak
 slug: avucunu-yalamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - umduğunu ele geçirememek

@@ -2,6 +2,7 @@
 layout: term
 title: cemre düşmek
 slug: cemre-dusmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - sıcaklık yükselmek

@@ -2,6 +2,7 @@
 layout: term
 title: eleme
 slug: eleme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Elemek işi; eliminasyon

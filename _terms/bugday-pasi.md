@@ -2,6 +2,7 @@
 layout: term
 title: buğday pası
 slug: bugday-pasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Pas mantarıgillerden asalak bir mantar (Puccinia graminisi)

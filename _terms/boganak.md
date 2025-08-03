@@ -2,6 +2,7 @@
 layout: term
 title: boğanak
 slug: boganak
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► sağanak

@@ -2,6 +2,7 @@
 layout: term
 title: sabahlamak
 slug: sabahlamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir yerde sabaha kadar kalmak; şafaklamak

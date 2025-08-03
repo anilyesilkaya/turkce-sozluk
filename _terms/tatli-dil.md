@@ -2,6 +2,7 @@
 layout: term
 title: tatlı dil
 slug: tatli-dil
+letter: T
 lisan: Türkçe
 anlamlar:
 - Gönül alıcı söz; tatlı söz

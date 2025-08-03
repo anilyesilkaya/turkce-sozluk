@@ -2,6 +2,7 @@
 layout: term
 title: beşizli
 slug: besizli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beş tanesi bir arada olan

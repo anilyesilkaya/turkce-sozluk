@@ -2,6 +2,7 @@
 layout: term
 title: halt
 slug: halt
+letter: H
 lisan: Arapça ḫalṭ
 anlamlar:
 - Uygunsuz söz söyleme, uygunsuz iş yapma

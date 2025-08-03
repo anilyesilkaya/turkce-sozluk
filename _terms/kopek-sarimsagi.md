@@ -2,6 +2,7 @@
 layout: term
 title: köpek sarımsağı
 slug: kopek-sarimsagi
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► yabani sarımsak

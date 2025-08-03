@@ -2,6 +2,7 @@
 layout: term
 title: buselik
 slug: buselik
+letter: B
 lisan: Farsça bū-selīk
 anlamlar:
 - Klasik Türk müziğinde on üç basit makamdan biri

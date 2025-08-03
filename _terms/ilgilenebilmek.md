@@ -2,6 +2,7 @@
 layout: term
 title: ilgilenebilmek
 slug: ilgilenebilmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İlgilenme ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: kardırma
 slug: kardirma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kardırmak işi

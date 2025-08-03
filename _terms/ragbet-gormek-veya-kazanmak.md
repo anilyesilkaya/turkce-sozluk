@@ -2,6 +2,7 @@
 layout: term
 title: rağbet görmek (veya kazanmak)
 slug: ragbet-gormek-veya-kazanmak
+letter: R
 lisan: Türkçe
 anlamlar:
 - istenilmek, beğenilmek, istekle karşılanmak

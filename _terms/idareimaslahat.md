@@ -2,6 +2,7 @@
 layout: term
 title: idareimaslahat
 slug: idareimaslahat
+letter: I
 lisan: Arapça idāre + maṣlaḥat
 anlamlar:
 - Bir işi, gerektiği gibi değil de günün şartlarına göre yapma

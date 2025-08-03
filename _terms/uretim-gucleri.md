@@ -2,6 +2,7 @@
 layout: term
 title: üretim güçleri
 slug: uretim-gucleri
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Bir toplumdaki insan ögesi, üretim araçları, üretim deneyleri ve alışkanlıklarının bütünü

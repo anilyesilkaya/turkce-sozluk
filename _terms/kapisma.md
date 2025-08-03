@@ -2,6 +2,7 @@
 layout: term
 title: kapışma
 slug: kapisma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kapışmak işi

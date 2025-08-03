@@ -2,6 +2,7 @@
 layout: term
 title: taka
 slug: taka
+letter: T
 lisan: Türkçe
 anlamlar:
 - Doğu Karadeniz Bölgesi'ne özgü yelkenli bir tür kıyı teknesi

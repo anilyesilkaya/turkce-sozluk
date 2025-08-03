@@ -2,6 +2,7 @@
 layout: term
 title: mahallenin delisi
 slug: mahallenin-delisi
+letter: M
 lisan: Türkçe
 anlamlar:
 - Hiç kimseden çekinip korkmadan düşündüğü her şeyi söyleyen kimse

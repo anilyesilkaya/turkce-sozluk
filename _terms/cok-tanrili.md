@@ -2,6 +2,7 @@
 layout: term
 title: çok tanrılı
 slug: cok-tanrili
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Birden fazla tanrıya inanan

@@ -2,6 +2,7 @@
 layout: term
 title: yergici
 slug: yergici
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yerme huyu olan kimse; heccav

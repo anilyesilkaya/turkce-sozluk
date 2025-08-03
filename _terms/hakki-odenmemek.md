@@ -2,6 +2,7 @@
 layout: term
 title: hakkı ödenmemek
 slug: hakki-odenmemek
+letter: H
 lisan: Türkçe
 anlamlar:
 - birinin iyiliklerine, emeklerine karşılık olarak ne yapılsa az olmak

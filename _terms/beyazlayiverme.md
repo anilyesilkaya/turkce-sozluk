@@ -2,6 +2,7 @@
 layout: term
 title: beyazlayıverme
 slug: beyazlayiverme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beyazlayıvermek işi; ağarıverme

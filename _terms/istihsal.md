@@ -2,6 +2,7 @@
 layout: term
 title: istihsal
 slug: istihsal
+letter: I
 lisan: Arapça istiḥṣāl
 anlamlar:
 - Elde etme

@@ -2,6 +2,7 @@
 layout: term
 title: ablalık
 slug: ablalik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Abla olma durumu

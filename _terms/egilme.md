@@ -2,6 +2,7 @@
 layout: term
 title: eğilme
 slug: egilme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eğilmek işi

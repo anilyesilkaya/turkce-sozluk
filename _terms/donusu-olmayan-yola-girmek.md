@@ -2,6 +2,7 @@
 layout: term
 title: dönüşü olmayan yola girmek
 slug: donusu-olmayan-yola-girmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - asla bırakılmayacak, vazgeçilmeyecek bir durumda olmak

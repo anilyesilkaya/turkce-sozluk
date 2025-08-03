@@ -2,6 +2,7 @@
 layout: term
 title: dâhilî nizamname
 slug: dahili-nizamname
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► iç tüzük

@@ -2,6 +2,7 @@
 layout: term
 title: sefahat
 slug: sefahat
+letter: S
 lisan: Arapça sefāhet
 anlamlar:
 - ► uçarılık

@@ -2,6 +2,7 @@
 layout: term
 title: jenerasyon
 slug: jenerasyon
+letter: J
 lisan: Fransızca génération
 anlamlar:
 - ► kuşak

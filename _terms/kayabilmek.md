@@ -2,6 +2,7 @@
 layout: term
 title: kayabilmek
 slug: kayabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kayma ihtimali veya imkânı bulunmak

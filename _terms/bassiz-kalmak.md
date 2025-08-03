@@ -2,6 +2,7 @@
 layout: term
 title: başsız kalmak
 slug: bassiz-kalmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - yöneticisi, başkanı bulunmamak

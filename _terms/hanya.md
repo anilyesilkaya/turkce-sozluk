@@ -2,6 +2,7 @@
 layout: term
 title: Hanya
 slug: hanya
+letter: H
 lisan: (Girit Adası'nda bir şehir)
 anlamlar:
 - '"Bir işin gerçek yönünü anlayarak aklı başına gelmek, akıllanmak" anlamındaki Hanya''yı Konya''yı anlamak (veya bilmek, görmek) deyiminde geçen bir söz'

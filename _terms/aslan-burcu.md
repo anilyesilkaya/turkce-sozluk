@@ -2,6 +2,7 @@
 layout: term
 title: Aslan Burcu
 slug: aslan-burcu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Zodyak üzerinde Yengeç Burcu ile Başak Burcu arasında yer alan takımyıldızın adı; Aslan

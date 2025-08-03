@@ -2,6 +2,7 @@
 layout: term
 title: yola çıkmak
 slug: yola-cikmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - araca binmek üzere yolüstünde durmak

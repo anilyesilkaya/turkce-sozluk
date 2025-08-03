@@ -2,6 +2,7 @@
 layout: term
 title: lohusalık
 slug: lohusalik
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lohusa olma durumu

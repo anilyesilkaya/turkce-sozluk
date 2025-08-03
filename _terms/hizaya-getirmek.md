@@ -2,6 +2,7 @@
 layout: term
 title: hizaya getirmek
 slug: hizaya-getirmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - birinin davranışlarını düzeltmek, yola getirmek

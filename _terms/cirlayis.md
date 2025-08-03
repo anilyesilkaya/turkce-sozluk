@@ -2,6 +2,7 @@
 layout: term
 title: cırlayış
 slug: cirlayis
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cırlamak işi

@@ -2,6 +2,7 @@
 layout: term
 title: gözevi
 slug: gozevi
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► göz yuvası

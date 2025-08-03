@@ -2,6 +2,7 @@
 layout: term
 title: karaltı
 slug: karalti
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► karartı

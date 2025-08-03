@@ -2,6 +2,7 @@
 layout: term
 title: civelek
 slug: civelek
+letter: C
 lisan: Türkçe
 anlamlar:
 - Canlı, neşeli ve sokulgan

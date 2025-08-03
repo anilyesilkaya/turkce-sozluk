@@ -2,6 +2,7 @@
 layout: term
 title: dümenini bozmak
 slug: dumenini-bozmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - hileli işe engel olmak

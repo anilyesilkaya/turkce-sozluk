@@ -2,6 +2,7 @@
 layout: term
 title: örtenek
 slug: ortenek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Hayvanların vücudunu örten deri, kıl, tüy, pul vb. dokuların bütünü

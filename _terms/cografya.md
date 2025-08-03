@@ -2,6 +2,7 @@
 layout: term
 title: coğrafya
 slug: cografya
+letter: C
 lisan: Arapça cuġrāfiya
 anlamlar:
 - Yeryüzünü fiziksel, ekonomik, beşerî, siyasal yönlerden inceleyen bilim

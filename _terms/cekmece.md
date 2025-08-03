@@ -2,6 +2,7 @@
 layout: term
 title: çekmece
 slug: cekmece
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Masa, dolap vb. şeylerin dışarıya çekilen bölümü; göz, çekme

@@ -2,6 +2,7 @@
 layout: term
 title: özgü
 slug: ozgu
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Birine, bir şeye ait olan; öze, has, mahsus (I)

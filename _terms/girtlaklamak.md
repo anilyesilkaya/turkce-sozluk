@@ -2,6 +2,7 @@
 layout: term
 title: gırtlaklamak
 slug: girtlaklamak
+letter: G
 lisan: Türkçe
 anlamlar:
 - Birinin gırtlağını sıkmak

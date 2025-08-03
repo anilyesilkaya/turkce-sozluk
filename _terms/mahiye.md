@@ -2,6 +2,7 @@
 layout: term
 title: mahiye
 slug: mahiye
+letter: M
 lisan: Farsça māh + Arapça -iyye
 anlamlar:
 - ► aylık

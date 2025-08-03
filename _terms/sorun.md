@@ -2,6 +2,7 @@
 layout: term
 title: sorun
 slug: sorun
+letter: S
 lisan: Türkçe
 anlamlar:
 - Araştırılıp öğrenilmesi, düşünülüp çözümlenmesi, bir sonuca bağlanması gereken durum; sıkıntı, mesele, problem

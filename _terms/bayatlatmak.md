@@ -2,6 +2,7 @@
 layout: term
 title: bayatlatmak
 slug: bayatlatmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bayat duruma getirmek, bayatlamasına sebep olmak

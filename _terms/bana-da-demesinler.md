@@ -2,6 +2,7 @@
 layout: term
 title: bana da ... demesinler
 slug: bana-da-demesinler
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir işin kesinlikle yapılacağını belirtmek için söylenen bir söz

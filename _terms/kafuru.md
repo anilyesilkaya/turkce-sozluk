@@ -2,6 +2,7 @@
 layout: term
 title: kâfuru
 slug: kafuru
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kâfur

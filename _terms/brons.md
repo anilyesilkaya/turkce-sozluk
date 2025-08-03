@@ -2,6 +2,7 @@
 layout: term
 title: bronş
 slug: brons
+letter: B
 lisan: Fransızca bronche
 anlamlar:
 - Soluk borusunun akciğerlere giden iki kolundan her biri ve bunların dalları

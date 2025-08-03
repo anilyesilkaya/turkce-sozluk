@@ -2,6 +2,7 @@
 layout: term
 title: meccani
 slug: meccani
+letter: M
 lisan: Arapça meccānī
 anlamlar:
 - ► parasız

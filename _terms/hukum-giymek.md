@@ -2,6 +2,7 @@
 layout: term
 title: hüküm giymek
 slug: hukum-giymek
+letter: H
 lisan: Türkçe
 anlamlar:
 - mahkemece cezalandırılmak

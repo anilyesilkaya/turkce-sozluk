@@ -2,6 +2,7 @@
 layout: term
 title: boğmacalı
 slug: bogmacali
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boğmacaya tutulmuş olan (kimse)

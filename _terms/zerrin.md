@@ -2,6 +2,7 @@
 layout: term
 title: zerrin
 slug: zerrin
+letter: Z
 lisan: Farsça zerrīn
 anlamlar:
 - Altından yapılmış

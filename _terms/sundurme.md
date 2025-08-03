@@ -2,6 +2,7 @@
 layout: term
 title: sündürme
 slug: sundurme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sündürmek işi

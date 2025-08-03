@@ -2,6 +2,7 @@
 layout: term
 title: mobilyasız
 slug: mobilyasiz
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mobilyası olmayan, döşenmemiş; möblesiz

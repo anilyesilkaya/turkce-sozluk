@@ -2,6 +2,7 @@
 layout: term
 title: yüreği parçalanmak
 slug: yuregi-parcalanmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - çok acımak

@@ -2,6 +2,7 @@
 layout: term
 title: belirlenmezcilik
 slug: belirlenmezcilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Nedensellik yasasına bağlı olmayan, bir sebebe bağlanmayan olay ve durumların da bulunduğunu öne süren görüş; yad gerekircilik, indeterminizm

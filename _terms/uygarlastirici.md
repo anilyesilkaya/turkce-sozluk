@@ -2,6 +2,7 @@
 layout: term
 title: uygarlaştırıcı
 slug: uygarlastirici
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uygar duruma getiren, uygarlaşmayı sağlayan; medenileştirici

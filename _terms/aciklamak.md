@@ -2,6 +2,7 @@
 layout: term
 title: açıklamak
 slug: aciklamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir konuyla ilgili gerekli bilgileri vermek; izah etmek

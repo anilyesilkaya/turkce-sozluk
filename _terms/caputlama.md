@@ -2,6 +2,7 @@
 layout: term
 title: çaputlama
 slug: caputlama
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► nezle

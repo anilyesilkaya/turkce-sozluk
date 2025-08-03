@@ -2,6 +2,7 @@
 layout: term
 title: aşama sırası
 slug: asama-sirasi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Önem ve değer bakımından gitgide yükselen basamaklar dizisi; hiyerarşi

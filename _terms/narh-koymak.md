@@ -2,6 +2,7 @@
 layout: term
 title: narh koymak
 slug: narh-koymak
+letter: N
 lisan: Türkçe
 anlamlar:
 - ihtiyaç maddeleri için değişmez fiyat belirlemek

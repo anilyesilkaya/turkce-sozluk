@@ -2,6 +2,7 @@
 layout: term
 title: seyrüsefer
 slug: seyrusefer
+letter: S
 lisan: Arapça seyr + sefer
 anlamlar:
 - ► trafik

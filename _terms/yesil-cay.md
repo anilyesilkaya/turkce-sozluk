@@ -2,6 +2,7 @@
 layout: term
 title: yeşil çay
 slug: yesil-cay
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Çaygillerden, nemli iklimlerde yetişen bir ağaççık (Thea chinensis)

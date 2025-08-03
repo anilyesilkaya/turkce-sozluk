@@ -2,6 +2,7 @@
 layout: term
 title: sırtar
 slug: sirtar
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kelergillerden bir tür balık

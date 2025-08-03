@@ -2,6 +2,7 @@
 layout: term
 title: nacak
 slug: nacak
+letter: N
 lisan: Türkçe
 anlamlar:
 - Sapı kısa, küçük odun baltası

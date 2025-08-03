@@ -2,6 +2,7 @@
 layout: term
 title: salaşpur
 slug: salaspur
+letter: S
 lisan: (Hindistan'daki Solapur yer adından)
 anlamlar:
 - Seyrek dokunmuş, astarlık ince bez

@@ -2,6 +2,7 @@
 layout: term
 title: çömlekçilik
 slug: comlekcilik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çömlekçinin yaptığı iş

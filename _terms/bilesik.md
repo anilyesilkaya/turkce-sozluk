@@ -2,6 +2,7 @@
 layout: term
 title: bileşik
 slug: bilesik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Birleşerek oluşmuş, basit olmayan; mürekkep (I)

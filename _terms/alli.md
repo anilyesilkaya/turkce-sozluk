@@ -2,6 +2,7 @@
 layout: term
 title: allı
 slug: alli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Üzerinde veya içerisinde al renk bulunan

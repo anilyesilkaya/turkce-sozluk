@@ -2,6 +2,7 @@
 layout: term
 title: gözleri çukura gitmek (veya kaçmak)
 slug: gozleri-cukura-gitmek-veya-kacmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - aşırı yorgunluktan göz çevresi kararmak veya çökmek

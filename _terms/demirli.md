@@ -2,6 +2,7 @@
 layout: term
 title: demirli
 slug: demirli
+letter: D
 lisan: Türkçe
 anlamlar:
 - İçinde metal veya karışım durumunda demir bulunan

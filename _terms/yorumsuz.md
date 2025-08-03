@@ -2,6 +2,7 @@
 layout: term
 title: yorumsuz
 slug: yorumsuz
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yorum içermeyen

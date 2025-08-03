@@ -2,6 +2,7 @@
 layout: term
 title: kayırma
 slug: kayirma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kayırmak işi; koltuk, iltimas

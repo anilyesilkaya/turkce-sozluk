@@ -2,6 +2,7 @@
 layout: term
 title: dert
 slug: dert
+letter: D
 lisan: Farsça derd
 anlamlar:
 - ► üzüntü

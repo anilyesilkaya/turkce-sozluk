@@ -2,6 +2,7 @@
 layout: term
 title: kalleş
 slug: kalles
+letter: K
 lisan: Arapça ḳallāş
 anlamlar:
 - Sözünde durmayıp bir işin yüzüstü kalmasına yol açan

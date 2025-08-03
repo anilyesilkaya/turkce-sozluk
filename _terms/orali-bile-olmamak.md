@@ -2,6 +2,7 @@
 layout: term
 title: oralı (bile) olmamak
 slug: orali-bile-olmamak
+letter: O
 lisan: Türkçe
 anlamlar:
 - önemsememek, umursamamak, aldırmamak, ilgilenmemek

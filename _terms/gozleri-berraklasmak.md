@@ -2,6 +2,7 @@
 layout: term
 title: gözleri berraklaşmak
 slug: gozleri-berraklasmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - bakışları daha canlı ve parlak olmak

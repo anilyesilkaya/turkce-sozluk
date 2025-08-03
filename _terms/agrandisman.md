@@ -2,6 +2,7 @@
 layout: term
 title: agrandisman
 slug: agrandisman
+letter: A
 lisan: Fransızca agrandissement
 anlamlar:
 - ► büyültme

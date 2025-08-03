@@ -2,6 +2,7 @@
 layout: term
 title: buğusu üstünde
 slug: bugusu-ustunde
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çok sıcak

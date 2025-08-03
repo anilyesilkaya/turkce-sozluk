@@ -2,6 +2,7 @@
 layout: term
 title: boğazını sıkmak
 slug: bogazini-sikmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - bunaltmak, sıkıntı vermek

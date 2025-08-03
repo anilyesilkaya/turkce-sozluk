@@ -2,6 +2,7 @@
 layout: term
 title: Doğu
 slug: dogu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Güneşin doğduğu yöndeki ülkeler veya uygarlıklar bölgesi; Şark, Batı karşıtı

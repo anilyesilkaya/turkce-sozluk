@@ -2,6 +2,7 @@
 layout: term
 title: kardeş kanı dökmek (veya akıtmak)
 slug: kardes-kani-dokmek-veya-akitmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - aralarında çeşitli bakımlardan yakınlık bulunan kimseler birbirini öldürmek

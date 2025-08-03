@@ -2,6 +2,7 @@
 layout: term
 title: uzatmak
 slug: uzatmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uzamasına sebep olmak, uzamasını sağlamak

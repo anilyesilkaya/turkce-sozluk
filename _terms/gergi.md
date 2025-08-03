@@ -2,6 +2,7 @@
 layout: term
 title: gergi
 slug: gergi
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► perde

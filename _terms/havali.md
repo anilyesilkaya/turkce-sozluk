@@ -2,6 +2,7 @@
 layout: term
 title: havali
 slug: havali
+letter: H
 lisan: Arapça ḥavālī
 anlamlar:
 - ► yöre (I)

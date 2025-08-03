@@ -2,6 +2,7 @@
 layout: term
 title: çalgı çağanak
 slug: calgi-caganak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çalgılı, neşeli ve gürültülü bir biçimde; çengüçağanak

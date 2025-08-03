@@ -2,6 +2,7 @@
 layout: term
 title: yetişkinlik
 slug: yetiskinlik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yetişkin olma durumu

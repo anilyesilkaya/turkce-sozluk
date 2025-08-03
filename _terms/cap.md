@@ -2,6 +2,7 @@
 layout: term
 title: çap
 slug: cap
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bozuk, eğri, dolaşık, aykırı

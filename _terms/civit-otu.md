@@ -2,6 +2,7 @@
 layout: term
 title: çivit otu
 slug: civit-otu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Baklagillerden, yapraklarından çivit çıkarılan bir tür bitki (İndigofera)

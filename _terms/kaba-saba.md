@@ -2,6 +2,7 @@
 layout: term
 title: kaba saba
 slug: kaba-saba
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► görgüsüz

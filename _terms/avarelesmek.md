@@ -2,6 +2,7 @@
 layout: term
 title: avareleşmek
 slug: avarelesmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aylaklık etmek

@@ -2,6 +2,7 @@
 layout: term
 title: örüşük
 slug: orusuk
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - İç içe geçmiş

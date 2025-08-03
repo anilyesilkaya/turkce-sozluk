@@ -2,6 +2,7 @@
 layout: term
 title: cemaatsiz
 slug: cemaatsiz
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cemaati olmayan

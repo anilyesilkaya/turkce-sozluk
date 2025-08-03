@@ -2,6 +2,7 @@
 layout: term
 title: villa
 slug: villa
+letter: V
 lisan: İtalyanca villa
 anlamlar:
 - Yazlıkta veya şehir dışında, bahçeli, müstakil ev

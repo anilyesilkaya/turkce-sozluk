@@ -2,6 +2,7 @@
 layout: term
 title: pufla
 slug: pufla
+letter: P
 lisan: Yunanca
 anlamlar:
 - Perde ayaklılardan, Kuzey Kutbu'na yakın yerlerde, İskandinavya kıyılarında yaşayan, ince ve yumuşak tüyleri için avlanan bir kuş (Somateria)

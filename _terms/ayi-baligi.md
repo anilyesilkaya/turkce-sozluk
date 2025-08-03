@@ -2,6 +2,7 @@
 layout: term
 title: ayı balığı
 slug: ayi-baligi
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► fok

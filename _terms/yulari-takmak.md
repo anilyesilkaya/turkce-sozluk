@@ -2,6 +2,7 @@
 layout: term
 title: yuları takmak
 slug: yulari-takmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - birini sözünden çıkamayacak duruma getirmek, egemenliği altına almak

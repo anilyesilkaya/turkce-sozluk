@@ -2,6 +2,7 @@
 layout: term
 title: gün doğmadan neler doğar
 slug: gun-dogmadan-neler-dogar
+letter: G
 lisan: Türkçe
 anlamlar:
 - '"beklenmedik bir sırada umut verici durumlarla da karşılaşma imkânı vardır" anlamında kullanılan bir söz'

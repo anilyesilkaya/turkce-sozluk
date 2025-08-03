@@ -2,6 +2,7 @@
 layout: term
 title: elan
 slug: elan
+letter: E
 lisan: Arapça elān
 anlamlar:
 - Şu anda bile

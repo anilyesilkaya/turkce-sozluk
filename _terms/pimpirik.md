@@ -2,6 +2,7 @@
 layout: term
 title: pimpirik
 slug: pimpirik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Gereksiz yere titizlik gösteren

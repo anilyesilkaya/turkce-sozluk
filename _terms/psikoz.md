@@ -2,6 +2,7 @@
 layout: term
 title: psikoz
 slug: psikoz
+letter: P
 lisan: Fransızca psychose
 anlamlar:
 - Bireyin gerçeklerden veya dış dünyadan koparak gerçek dünya ile kendi bozulmuş olan düşünce dünyasını aynı anda ve uyanıkken yaşamasıyla beliren, düşünce, idrak, konuşma ve davranış sorunları yaşanan bir tür akıl hastalığı

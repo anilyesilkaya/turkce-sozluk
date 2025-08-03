@@ -2,6 +2,7 @@
 layout: term
 title: megaton
 slug: megaton
+letter: M
 lisan: Fransızca mégatonne
 anlamlar:
 - Bir milyon ton değerinde kütle birimi

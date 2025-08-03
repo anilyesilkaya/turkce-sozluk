@@ -2,6 +2,7 @@
 layout: term
 title: simsar
 slug: simsar
+letter: S
 lisan: Arapça simsār
 anlamlar:
 - ► komisyoncu

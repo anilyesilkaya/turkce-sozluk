@@ -2,6 +2,7 @@
 layout: term
 title: un ufak olmak
 slug: un-ufak-olmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - çok ufak kırıntılar durumuna gelmek, parçalanmak

@@ -2,6 +2,7 @@
 layout: term
 title: tabelacı
 slug: tabelaci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tabela yazan kimse

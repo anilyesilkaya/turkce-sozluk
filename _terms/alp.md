@@ -2,6 +2,7 @@
 layout: term
 title: alp
 slug: alp
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► yiğit

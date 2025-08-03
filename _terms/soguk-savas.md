@@ -2,6 +2,7 @@
 layout: term
 title: soğuk savaş
 slug: soguk-savas
+letter: S
 lisan: Türkçe
 anlamlar:
 - İkinci Dünya Savaşı'ndan sonra Doğu ve Batı Bloklarının zaman zaman savaş çıkarma tehditlerinin bütün dünyada yarattığı gerginlik; soğuk harp

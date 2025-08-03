@@ -2,6 +2,7 @@
 layout: term
 title: serilebilmek
 slug: serilebilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Serilme ihtimali veya imkânı bulunmak

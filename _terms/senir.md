@@ -2,6 +2,7 @@
 layout: term
 title: senir
 slug: senir
+letter: S
 lisan: Türkçe
 anlamlar:
 - İki dağ arasındaki sırt

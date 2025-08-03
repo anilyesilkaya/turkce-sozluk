@@ -2,6 +2,7 @@
 layout: term
 title: filvaki
 slug: filvaki
+letter: F
 lisan: Arapça fi'l-vāḳiʿ
 anlamlar:
 - ► gerçekten

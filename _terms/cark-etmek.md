@@ -2,6 +2,7 @@
 layout: term
 title: çark etmek
 slug: cark-etmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - bir doğrultuda giden kimse, şey sağa veya sola doğru yön değiştirmek

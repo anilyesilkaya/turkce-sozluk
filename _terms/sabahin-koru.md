@@ -2,6 +2,7 @@
 layout: term
 title: sabahın körü
 slug: sabahin-koru
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sabahın erken saati

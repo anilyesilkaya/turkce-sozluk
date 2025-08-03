@@ -2,6 +2,7 @@
 layout: term
 title: birkaçı
 slug: birkaci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Az sayıda olan kimse veya şey

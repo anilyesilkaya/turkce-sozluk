@@ -2,6 +2,7 @@
 layout: term
 title: sistemleşmek
 slug: sistemlesmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sistemli duruma gelmek

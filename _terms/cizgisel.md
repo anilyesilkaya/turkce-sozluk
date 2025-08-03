@@ -2,6 +2,7 @@
 layout: term
 title: çizgisel
 slug: cizgisel
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çizgi ile gösterilmiş

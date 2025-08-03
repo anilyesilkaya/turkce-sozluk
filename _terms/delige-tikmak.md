@@ -2,6 +2,7 @@
 layout: term
 title: deliğe tıkmak
 slug: delige-tikmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - tutuklamak, hapsetmek

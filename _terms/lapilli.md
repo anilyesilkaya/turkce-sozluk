@@ -2,6 +2,7 @@
 layout: term
 title: lapilli
 slug: lapilli
+letter: L
 lisan: Fransızca lapilli
 anlamlar:
 - Yanardağlardan fırlayan çok küçük katı parça

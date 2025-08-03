@@ -2,6 +2,7 @@
 layout: term
 title: cümlesi
 slug: cumlesi
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► hepsi

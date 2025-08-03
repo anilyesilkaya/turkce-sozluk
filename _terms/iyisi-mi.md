@@ -2,6 +2,7 @@
 layout: term
 title: iyisi mi
 slug: iyisi-mi
+letter: I
 lisan: Türkçe
 anlamlar:
 - yapılacak olanın en doğrusu, en uygun olanı

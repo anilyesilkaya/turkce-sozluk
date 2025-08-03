@@ -2,6 +2,7 @@
 layout: term
 title: tanıtlamak
 slug: tanitlamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Öne sürülen bir iddianın doğruluğunu akıl yürütme yöntemiyle ortaya koymak; ispatlamak, ispat etmek

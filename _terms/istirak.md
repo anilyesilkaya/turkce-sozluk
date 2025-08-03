@@ -2,6 +2,7 @@
 layout: term
 title: iştirak
 slug: istirak
+letter: I
 lisan: Arapça iştirāk
 anlamlar:
 - ► paydaşlık

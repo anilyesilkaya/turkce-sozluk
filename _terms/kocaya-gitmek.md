@@ -2,6 +2,7 @@
 layout: term
 title: kocaya gitmek
 slug: kocaya-gitmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - evlenmek

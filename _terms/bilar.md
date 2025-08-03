@@ -2,6 +2,7 @@
 layout: term
 title: bilar
 slug: bilar
+letter: B
 lisan: Rumca
 anlamlar:
 - Katranlı kıldan yapılan ve kalafat işlerinde kullanılan bir macun türü

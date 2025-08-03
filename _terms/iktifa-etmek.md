@@ -2,6 +2,7 @@
 layout: term
 title: iktifa etmek
 slug: iktifa-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - yetinmek

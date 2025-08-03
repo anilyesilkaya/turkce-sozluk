@@ -2,6 +2,7 @@
 layout: term
 title: sulak alan
 slug: sulak-alan
+letter: S
 lisan: Türkçe
 anlamlar:
 - Su kuşlarının barınma yeri olan, sığ suyla kaplı, bataklık ve sazlık alan

@@ -2,6 +2,7 @@
 layout: term
 title: dublaj
 slug: dublaj
+letter: D
 lisan: Fransızca doublage
 anlamlar:
 - ► seslendirme

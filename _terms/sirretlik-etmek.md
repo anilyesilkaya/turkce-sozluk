@@ -2,6 +2,7 @@
 layout: term
 title: şirretlik etmek
 slug: sirretlik-etmek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - edepsizce davranmak

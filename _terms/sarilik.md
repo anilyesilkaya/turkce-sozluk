@@ -2,6 +2,7 @@
 layout: term
 title: sarılık
 slug: sarilik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sarı olma durumu

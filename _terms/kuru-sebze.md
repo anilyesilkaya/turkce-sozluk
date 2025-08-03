@@ -2,6 +2,7 @@
 layout: term
 title: kuru sebze
 slug: kuru-sebze
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yaş sebzelerin kurutulmuşu

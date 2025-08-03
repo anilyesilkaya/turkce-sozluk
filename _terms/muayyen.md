@@ -2,6 +2,7 @@
 layout: term
 title: muayyen
 slug: muayyen
+letter: M
 lisan: Arapça muʿayyen
 anlamlar:
 - ► belirli

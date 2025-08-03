@@ -2,6 +2,7 @@
 layout: term
 title: ta ki
 slug: ta-ki
+letter: T
 lisan: Türkçe
 anlamlar:
 - yeter ki, sonunda

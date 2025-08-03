@@ -2,6 +2,7 @@
 layout: term
 title: asimilasyon
 slug: asimilasyon
+letter: A
 lisan: Fransızca assimilation
 anlamlar:
 - ► özümleme

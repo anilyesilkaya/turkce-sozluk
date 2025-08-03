@@ -2,6 +2,7 @@
 layout: term
 title: kraliçe
 slug: kralice
+letter: K
 lisan: Sırpça
 anlamlar:
 - Kral karısı veya krallığı yöneten kadın; ece

@@ -2,6 +2,7 @@
 layout: term
 title: işari oy
 slug: isari-oy
+letter: I
 lisan: Türkçe
 anlamlar:
 - Parmak veya el kaldırarak verilen oy

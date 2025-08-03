@@ -2,6 +2,7 @@
 layout: term
 title: garbi
 slug: garbi
+letter: G
 lisan: Arapça ġarbį
 anlamlar:
 - ► batı

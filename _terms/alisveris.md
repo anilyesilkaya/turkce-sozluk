@@ -2,6 +2,7 @@
 layout: term
 title: alışveriş
 slug: alisveris
+letter: A
 lisan: Türkçe
 anlamlar:
 - Çarşı, pazar, mağaza vb. yerlerden ihtiyaç duyulan şeyleri satın alma işi

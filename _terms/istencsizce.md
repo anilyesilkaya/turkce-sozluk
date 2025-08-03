@@ -2,6 +2,7 @@
 layout: term
 title: istençsizce
 slug: istencsizce
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► iradesizce

@@ -2,6 +2,7 @@
 layout: term
 title: oha
 slug: oha
+letter: O
 lisan: Türkçe
 anlamlar:
 - Büyükbaş hayvanları durdurmak için kullanılan bir seslenme sözü

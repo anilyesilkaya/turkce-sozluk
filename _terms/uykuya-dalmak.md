@@ -2,6 +2,7 @@
 layout: term
 title: uykuya dalmak
 slug: uykuya-dalmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - uyumaya başlamak

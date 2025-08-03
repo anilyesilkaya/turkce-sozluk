@@ -2,6 +2,7 @@
 layout: term
 title: ant vermek
 slug: ant-vermek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Allah aşkına, çocuklarının başı için vb. sözlerle karşısındakini bir şeye zorlamak

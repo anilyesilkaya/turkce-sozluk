@@ -2,6 +2,7 @@
 layout: term
 title: gelin otu
 slug: gelin-otu
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► güveyfeneri

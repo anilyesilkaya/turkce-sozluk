@@ -2,6 +2,7 @@
 layout: term
 title: patlatabilmek
 slug: patlatabilmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Patlatma ihtimali veya imkânı bulunmak

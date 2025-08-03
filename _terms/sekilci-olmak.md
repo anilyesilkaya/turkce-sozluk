@@ -2,6 +2,7 @@
 layout: term
 title: şekilci olmak
 slug: sekilci-olmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - belli biçimler, kalıplar dışına çıkamamak

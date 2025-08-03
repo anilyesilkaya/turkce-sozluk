@@ -2,6 +2,7 @@
 layout: term
 title: formasyon
 slug: formasyon
+letter: F
 lisan: Fransızca formation
 anlamlar:
 - ► biçimlenme

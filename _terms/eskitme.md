@@ -2,6 +2,7 @@
 layout: term
 title: eskitme
 slug: eskitme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eskitmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: iltica etmek
 slug: iltica-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - sığınmak

@@ -2,6 +2,7 @@
 layout: term
 title: ambalajlama
 slug: ambalajlama
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ambalajlamak işi

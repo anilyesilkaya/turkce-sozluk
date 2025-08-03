@@ -2,6 +2,7 @@
 layout: term
 title: gövermek
 slug: govermek
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► yeşermek

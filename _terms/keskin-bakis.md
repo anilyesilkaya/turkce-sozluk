@@ -2,6 +2,7 @@
 layout: term
 title: 'keskin bakış '
 slug: keskin-bakis
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir noktaya yoğunlaşan dikkatli ve sert bakış

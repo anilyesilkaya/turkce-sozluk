@@ -2,6 +2,7 @@
 layout: term
 title: entrikacı
 slug: entrikaci
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► düzenbaz

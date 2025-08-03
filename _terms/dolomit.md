@@ -2,6 +2,7 @@
 layout: term
 title: dolomit
 slug: dolomit
+letter: D
 lisan: Fransızca dolomite
 anlamlar:
 - Kalsiyum ve magnezyumlu karbonat birleşiminde bir mineral

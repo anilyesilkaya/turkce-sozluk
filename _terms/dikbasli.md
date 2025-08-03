@@ -2,6 +2,7 @@
 layout: term
 title: dikbaşlı
 slug: dikbasli
+letter: D
 lisan: Türkçe
 anlamlar:
 - İnatçı, bildiğinden dönmeyen, başkasına boyun eğmeyen (kimse); dikkafalı

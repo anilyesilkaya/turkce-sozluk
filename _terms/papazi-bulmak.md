@@ -2,6 +2,7 @@
 layout: term
 title: papazı bulmak
 slug: papazi-bulmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - beklemediği kötü bir sonuçla karşılaşmak, belasını bulmak

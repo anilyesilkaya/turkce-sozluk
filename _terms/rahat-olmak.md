@@ -2,6 +2,7 @@
 layout: term
 title: rahat olmak
 slug: rahat-olmak
+letter: R
 lisan: Türkçe
 anlamlar:
 - üzüntülü, sıkıntılı veya tedirgin durumda olmamak

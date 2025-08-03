@@ -2,6 +2,7 @@
 layout: term
 title: pürtüklü
 slug: purtuklu
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pürtüğü olan

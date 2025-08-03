@@ -2,6 +2,7 @@
 layout: term
 title: tekelleşme
 slug: tekellesme
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tekelleşmek işi

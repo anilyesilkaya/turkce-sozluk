@@ -2,6 +2,7 @@
 layout: term
 title: meyil vermek
 slug: meyil-vermek
+letter: M
 lisan: Türkçe
 anlamlar:
 - eğiklik sağlamak

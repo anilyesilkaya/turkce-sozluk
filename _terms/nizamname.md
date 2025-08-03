@@ -2,6 +2,7 @@
 layout: term
 title: nizamname
 slug: nizamname
+letter: N
 lisan: Arapça niẓām + Farsça nāme
 anlamlar:
 - ► tüzük

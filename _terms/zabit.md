@@ -2,6 +2,7 @@
 layout: term
 title: zabit
 slug: zabit
+letter: Z
 lisan: Arapça żābiṭ
 anlamlar:
 - Rütbesi teğmenden binbaşıya kadar olan subay

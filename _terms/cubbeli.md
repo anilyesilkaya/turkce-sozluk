@@ -2,6 +2,7 @@
 layout: term
 title: cübbeli
 slug: cubbeli
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cübbe giymiş olan

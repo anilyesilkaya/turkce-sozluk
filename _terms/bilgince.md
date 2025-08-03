@@ -2,6 +2,7 @@
 layout: term
 title: bilgince
 slug: bilgince
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilgine yakışır bir biçimde, bilgin gibi

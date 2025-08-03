@@ -2,6 +2,7 @@
 layout: term
 title: bitirme
 slug: bitirme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bitirmek işi

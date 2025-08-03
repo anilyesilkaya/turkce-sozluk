@@ -2,6 +2,7 @@
 layout: term
 title: mantolu
 slug: mantolu
+letter: M
 lisan: Türkçe
 anlamlar:
 - Manto giymiş olan

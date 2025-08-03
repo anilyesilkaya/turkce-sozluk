@@ -2,6 +2,7 @@
 layout: term
 title: rimellemek
 slug: rimellemek
+letter: R
 lisan: Türkçe
 anlamlar:
 - Göze rimel sürmek

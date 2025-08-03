@@ -2,6 +2,7 @@
 layout: term
 title: kerrakeli
 slug: kerrakeli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kerrakesi olan

@@ -2,6 +2,7 @@
 layout: term
 title: varsa ... yoksa ...
 slug: varsa-yoksa
+letter: V
 lisan: Türkçe
 anlamlar:
 - başına getirildiği kelimenin her şeyin üstünde tutulduğunu anlatan bir söz

@@ -2,6 +2,7 @@
 layout: term
 title: sapmak
 slug: sapmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Yön değiştirmek

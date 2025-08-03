@@ -2,6 +2,7 @@
 layout: term
 title: yapıştırabilmek
 slug: yapistirabilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yapıştırma ihtimali veya imkânı bulunmak

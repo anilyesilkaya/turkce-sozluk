@@ -2,6 +2,7 @@
 layout: term
 title: ihale
 slug: ihale
+letter: I
 lisan: Arapça iḥāle
 anlamlar:
 - Bir işin kimin tarafından daha ucuz yapılacağının anlaşılması için istekliler arasında açılan fiyat kırma işi; eksiltme

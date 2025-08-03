@@ -2,6 +2,7 @@
 layout: term
 title: çizik plak gibi takılıp kalmak
 slug: cizik-plak-gibi-takilip-kalmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - aynı şeyleri tekrarlayıp durmak

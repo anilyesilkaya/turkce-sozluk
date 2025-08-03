@@ -2,6 +2,7 @@
 layout: term
 title: uzlaşabilmek
 slug: uzlasabilmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uzlaşma ihtimali veya imkânı bulunmak

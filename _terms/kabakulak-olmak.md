@@ -2,6 +2,7 @@
 layout: term
 title: kabakulak olmak
 slug: kabakulak-olmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kabakulak hastalığına yakalanmak

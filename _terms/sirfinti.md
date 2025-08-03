@@ -2,6 +2,7 @@
 layout: term
 title: şırfıntı
 slug: sirfinti
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Seviyesi düşük, bayağı olan

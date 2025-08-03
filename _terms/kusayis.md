@@ -2,6 +2,7 @@
 layout: term
 title: küşayiş
 slug: kusayis
+letter: K
 lisan: Farsça guşāyiş
 anlamlar:
 - ► açılma

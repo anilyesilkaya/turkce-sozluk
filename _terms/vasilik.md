@@ -2,6 +2,7 @@
 layout: term
 title: vasilik
 slug: vasilik
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vasi olma durumu; vesayet

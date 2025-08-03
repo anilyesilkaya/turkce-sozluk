@@ -2,6 +2,7 @@
 layout: term
 title: takipleşme
 slug: takiplesme
+letter: T
 lisan: Türkçe
 anlamlar:
 - Takipleşmek işi

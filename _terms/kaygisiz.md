@@ -2,6 +2,7 @@
 layout: term
 title: kaygısız
 slug: kaygisiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaygısı olmayan, kaygılanmayan; tasasız, endişesiz, gamsız

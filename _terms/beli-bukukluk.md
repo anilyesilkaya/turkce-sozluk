@@ -2,6 +2,7 @@
 layout: term
 title: beli büküklük
 slug: beli-bukukluk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beli bükük olma durumu

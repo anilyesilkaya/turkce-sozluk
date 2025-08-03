@@ -2,6 +2,7 @@
 layout: term
 title: kahpece
 slug: kahpece
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kahpe gibi, kahpeye yaraşır

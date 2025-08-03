@@ -2,6 +2,7 @@
 layout: term
 title: gön
 slug: gon
+letter: G
 lisan: Türkçe
 anlamlar:
 - İşlenmiş deri

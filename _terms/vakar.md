@@ -2,6 +2,7 @@
 layout: term
 title: vakar
 slug: vakar
+letter: V
 lisan: Arapça vaḳār
 anlamlar:
 - ► ağırbaşlılık

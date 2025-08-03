@@ -2,6 +2,7 @@
 layout: term
 title: güllaç
 slug: gullac
+letter: G
 lisan: Türkçe
 anlamlar:
 - Nişastadan yapılan, çok ince kuru yufka

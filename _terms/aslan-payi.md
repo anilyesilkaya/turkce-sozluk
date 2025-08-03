@@ -2,6 +2,7 @@
 layout: term
 title: aslan payı
 slug: aslan-payi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Hak edilenden daha çok alınan pay

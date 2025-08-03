@@ -2,6 +2,7 @@
 layout: term
 title: rambursman
 slug: rambursman
+letter: R
 lisan: Fransızca remboursement
 anlamlar:
 - ► geri ödeme

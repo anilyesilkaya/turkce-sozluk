@@ -2,6 +2,7 @@
 layout: term
 title: gökdelen
 slug: gokdelen
+letter: G
 lisan: Türkçe
 anlamlar:
 - Yirmi, otuz veya daha çok katlı yapı; göktırmalayan, gök tırmalayıcı

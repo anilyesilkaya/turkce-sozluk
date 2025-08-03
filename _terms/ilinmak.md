@@ -2,6 +2,7 @@
 layout: term
 title: ılınmak
 slug: ilinmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - Ilık duruma gelmek; ılımak

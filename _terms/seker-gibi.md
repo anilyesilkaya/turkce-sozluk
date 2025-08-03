@@ -2,6 +2,7 @@
 layout: term
 title: şeker gibi
 slug: seker-gibi
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - çok sevimli, güzel

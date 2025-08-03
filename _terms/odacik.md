@@ -2,6 +2,7 @@
 layout: term
 title: odacık
 slug: odacik
+letter: O
 lisan: Türkçe
 anlamlar:
 - Küçük oda

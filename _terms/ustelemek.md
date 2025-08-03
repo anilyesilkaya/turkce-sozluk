@@ -2,6 +2,7 @@
 layout: term
 title: üstelemek
 slug: ustelemek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Bir düşünce veya istek üzerinde tekrar tekrar durmak; tekit etmek

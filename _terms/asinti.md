@@ -2,6 +2,7 @@
 layout: term
 title: aşıntı
 slug: asinti
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aşınmış yer

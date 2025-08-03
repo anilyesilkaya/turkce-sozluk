@@ -2,6 +2,7 @@
 layout: term
 title: kip
 slug: kip
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çekimli fiilin bildirdiği oluş ve kılışın; konuşan, dinleyen veya kendisinden söz edilen şahıslar açısından ne biçimde, ne tarzda olacağını gösteren kategori

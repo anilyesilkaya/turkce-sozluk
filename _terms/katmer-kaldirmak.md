@@ -2,6 +2,7 @@
 layout: term
 title: katmer kaldırmak
 slug: katmer-kaldirmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - karışıklık çıkarmak

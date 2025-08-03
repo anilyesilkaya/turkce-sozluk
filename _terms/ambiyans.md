@@ -2,6 +2,7 @@
 layout: term
 title: ambiyans
 slug: ambiyans
+letter: A
 lisan: Fransızca ambiance
 anlamlar:
 - ► tarz

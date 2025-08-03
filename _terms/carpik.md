@@ -2,6 +2,7 @@
 layout: term
 title: çarpık
 slug: carpik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Düzgünlüğünü yitirerek eğrilmiş, doğru karşıtı

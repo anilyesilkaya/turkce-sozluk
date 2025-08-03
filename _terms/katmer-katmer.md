@@ -2,6 +2,7 @@
 layout: term
 title: katmer katmer
 slug: katmer-katmer
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kat kat, üst üste

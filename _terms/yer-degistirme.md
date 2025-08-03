@@ -2,6 +2,7 @@
 layout: term
 title: yer değiştirme
 slug: yer-degistirme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir yerden başka bir yere gitme; tebdilimekân

@@ -2,6 +2,7 @@
 layout: term
 title: yamanmak
 slug: yamanmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yamalanmak

@@ -2,6 +2,7 @@
 layout: term
 title: nekahethane
 slug: nekahethane
+letter: N
 lisan: Arapça neḳāhet + Farsça ḫāne
 anlamlar:
 - Şifa yurdu, dinlenme yurdu

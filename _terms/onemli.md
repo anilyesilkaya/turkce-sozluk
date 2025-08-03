@@ -2,6 +2,7 @@
 layout: term
 title: önemli
 slug: onemli
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Önemi olan; mühim, ehemmiyetli, mihver

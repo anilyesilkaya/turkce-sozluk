@@ -2,6 +2,7 @@
 layout: term
 title: çalıştırabilmek
 slug: calistirabilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çalıştırma ihtimali veya imkânı bulunmak

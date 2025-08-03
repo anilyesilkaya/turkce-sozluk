@@ -2,6 +2,7 @@
 layout: term
 title: yaralı
 slug: yarali
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yarası olan, yaralanmış (kimse); başlı, mecruh

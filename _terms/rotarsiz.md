@@ -2,6 +2,7 @@
 layout: term
 title: rötarsız
 slug: rotarsiz
+letter: R
 lisan: Türkçe
 anlamlar:
 - ► gecikmesiz

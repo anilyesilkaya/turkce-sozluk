@@ -2,6 +2,7 @@
 layout: term
 title: sorgusuz
 slug: sorgusuz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sorgu yapılmadan

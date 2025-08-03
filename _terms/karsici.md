@@ -2,6 +2,7 @@
 layout: term
 title: karşıcı
 slug: karsici
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karşılamaya çıkan kimse, karşılayan

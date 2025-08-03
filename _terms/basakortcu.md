@@ -2,6 +2,7 @@
 layout: term
 title: başakortçu
 slug: basakortcu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Müzik aletlerini akort edenlerin başı

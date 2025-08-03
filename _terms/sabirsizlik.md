@@ -2,6 +2,7 @@
 layout: term
 title: sabırsızlık
 slug: sabirsizlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sabır göstermeme, sabırlı davranmama, sabırsız olma durumu

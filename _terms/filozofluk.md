@@ -2,6 +2,7 @@
 layout: term
 title: filozofluk
 slug: filozofluk
+letter: F
 lisan: Türkçe
 anlamlar:
 - Filozof olma durumu; feylesofluk

@@ -2,6 +2,7 @@
 layout: term
 title: amiyane tabirle (veya tabiriyle)
 slug: amiyane-tabirle-veya-tabiriyle
+letter: A
 lisan: Türkçe
 anlamlar:
 - halk ağzı ile, halk deyişiyle

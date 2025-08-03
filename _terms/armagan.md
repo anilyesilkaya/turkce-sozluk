@@ -2,6 +2,7 @@
 layout: term
 title: armağan
 slug: armagan
+letter: A
 lisan: Türkçe
 anlamlar:
 - Birini sevindirmek, mutlu etmek, onurlandırmak, kutlamak için veya anı olarak verilen şey; hediye, bergüzar, peşkeş

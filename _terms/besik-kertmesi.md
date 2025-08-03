@@ -2,6 +2,7 @@
 layout: term
 title: beşik kertmesi
 slug: besik-kertmesi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çocukların aile büyükleri tarafından daha beşikteyken nişanlanması geleneği; beşik kertme, beşik kertiği

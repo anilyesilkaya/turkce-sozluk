@@ -2,6 +2,7 @@
 layout: term
 title: akıtılış
 slug: akitilis
+letter: A
 lisan: Türkçe
 anlamlar:
 - Akıtılmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: zerzevat
 slug: zerzevat
+letter: Z
 lisan: Farsça sebze + Arapça -vāt
 anlamlar:
 - ► sebze

@@ -2,6 +2,7 @@
 layout: term
 title: vahimlik
 slug: vahimlik
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vahim olma durumu

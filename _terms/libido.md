@@ -2,6 +2,7 @@
 layout: term
 title: libido
 slug: libido
+letter: L
 lisan: Fransızca libido
 anlamlar:
 - İnsanın davranışlarının temelini oluşturan cinsel içgüdü

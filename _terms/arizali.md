@@ -2,6 +2,7 @@
 layout: term
 title: arızalı
 slug: arizali
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arızası olan, aksayan, işlemeyen, bozulmuş (araç vb.)

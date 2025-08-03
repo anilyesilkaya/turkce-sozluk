@@ -2,6 +2,7 @@
 layout: term
 title: imrenme
 slug: imrenme
+letter: I
 lisan: Türkçe
 anlamlar:
 - İmrenmek işi; imrenti, gıpta, özenç

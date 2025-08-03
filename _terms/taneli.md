@@ -2,6 +2,7 @@
 layout: term
 title: taneli
 slug: taneli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tanelerden oluşmuş

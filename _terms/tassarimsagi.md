@@ -2,6 +2,7 @@
 layout: term
 title: taşsarımsağı
 slug: tassarimsagi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Genç yaprakları soğan yerine kullanılan bir tür bitki (Allium scorodoprasum)

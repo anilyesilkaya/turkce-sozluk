@@ -2,6 +2,7 @@
 layout: term
 title: kız
 slug: kiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Dişi çocuk

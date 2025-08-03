@@ -2,6 +2,7 @@
 layout: term
 title: lezzetli
 slug: lezzetli
+letter: L
 lisan: Türkçe
 anlamlar:
 - Tadı güzel; yiyintili

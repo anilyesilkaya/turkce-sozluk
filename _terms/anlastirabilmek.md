@@ -2,6 +2,7 @@
 layout: term
 title: anlaştırabilmek
 slug: anlastirabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anlaştırma ihtimali veya imkânı bulunmak

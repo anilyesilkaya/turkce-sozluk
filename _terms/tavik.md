@@ -2,6 +2,7 @@
 layout: term
 title: tavik
 slug: tavik
+letter: T
 lisan: Arapça taʿvīḳ
 anlamlar:
 - ► geciktirme

@@ -2,6 +2,7 @@
 layout: term
 title: paradoks
 slug: paradoks
+letter: P
 lisan: Fransızca paradoxe
 anlamlar:
 - Aykırı düşünce

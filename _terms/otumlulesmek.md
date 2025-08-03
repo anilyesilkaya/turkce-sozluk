@@ -2,6 +2,7 @@
 layout: term
 title: ötümlüleşmek
 slug: otumlulesmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► tonlulaşmak

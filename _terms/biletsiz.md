@@ -2,6 +2,7 @@
 layout: term
 title: biletsiz
 slug: biletsiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bileti olmayan

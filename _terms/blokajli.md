@@ -2,6 +2,7 @@
 layout: term
 title: blokajlı
 slug: blokajli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Blokajı bulunan

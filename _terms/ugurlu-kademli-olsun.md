@@ -2,6 +2,7 @@
 layout: term
 title: uğurlu kademli olsun
 slug: ugurlu-kademli-olsun
+letter: U
 lisan: Türkçe
 anlamlar:
 - mutlu bir olay dolayısıyla söylenen bir iyi dilek sözü

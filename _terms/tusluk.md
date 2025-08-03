@@ -2,6 +2,7 @@
 layout: term
 title: tuşluk
 slug: tusluk
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tuş etme durumu

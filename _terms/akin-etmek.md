@@ -2,6 +2,7 @@
 layout: term
 title: akın etmek
 slug: akin-etmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - düşman ülkesine saldırmak, baskın yapmak

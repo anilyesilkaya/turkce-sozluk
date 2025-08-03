@@ -2,6 +2,7 @@
 layout: term
 title: bal mumu yapıştırmak
 slug: bal-mumu-yapistirmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - söz, davranış vb.nin unutulmaması için bir işaret koyup dikkati çekmek

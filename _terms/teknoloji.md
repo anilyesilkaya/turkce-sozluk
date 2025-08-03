@@ -2,6 +2,7 @@
 layout: term
 title: teknoloji
 slug: teknoloji
+letter: T
 lisan: Fransızca technologie
 anlamlar:
 - Bir sanayi dalı ile ilgili yapım yöntemlerini, kullanılan araç, gereç ve aletleri, bunların kullanım biçimlerini kapsayan uygulama bilgisi; uygulayım bilimi

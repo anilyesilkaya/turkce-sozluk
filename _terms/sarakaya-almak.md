@@ -2,6 +2,7 @@
 layout: term
 title: sarakaya almak
 slug: sarakaya-almak
+letter: S
 lisan: Türkçe
 anlamlar:
 - alay etmek, alaya almak

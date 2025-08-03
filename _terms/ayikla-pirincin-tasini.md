@@ -2,6 +2,7 @@
 layout: term
 title: ayıkla pirincin taşını!
 slug: ayikla-pirincin-tasini
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir işin pek karışık ve içinden çıkılmaz durumda olduğunu anlatmak için kullanılan bir söz

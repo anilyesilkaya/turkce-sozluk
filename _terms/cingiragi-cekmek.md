@@ -2,6 +2,7 @@
 layout: term
 title: çıngırağı çekmek
 slug: cingiragi-cekmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ölmek

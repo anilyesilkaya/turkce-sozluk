@@ -2,6 +2,7 @@
 layout: term
 title: ani
 slug: ani
+letter: A
 lisan: Arapça ānī
 anlamlar:
 - Ansızın yapılan

@@ -2,6 +2,7 @@
 layout: term
 title: kucaklanmak
 slug: kucaklanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kucaklama işi yapılmak

@@ -2,6 +2,7 @@
 layout: term
 title: yârenlik
 slug: yarenlik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yakın arkadaşlık; muhabbet

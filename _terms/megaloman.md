@@ -2,6 +2,7 @@
 layout: term
 title: megaloman
 slug: megaloman
+letter: M
 lisan: Fransızca mégalomane
 anlamlar:
 - Megalomaniye tutulmuş olan kimse

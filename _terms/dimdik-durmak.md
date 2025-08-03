@@ -2,6 +2,7 @@
 layout: term
 title: dimdik durmak
 slug: dimdik-durmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - tam dik durumda olmak

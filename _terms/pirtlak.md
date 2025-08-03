@@ -2,6 +2,7 @@
 layout: term
 title: pırtlak
 slug: pirtlak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pırtlamış, dışarı fırlamış

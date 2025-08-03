@@ -2,6 +2,7 @@
 layout: term
 title: abonman
 slug: abonman
+letter: A
 lisan: Fransızca abonnement
 anlamlar:
 - Bir satıcı veya kamu kuruluşu ile alıcılar arasında yapılan anlaşma; sürdürüm

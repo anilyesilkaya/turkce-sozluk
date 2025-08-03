@@ -2,6 +2,7 @@
 layout: term
 title: oniks
 slug: oniks
+letter: O
 lisan: Fransızca onyx
 anlamlar:
 - ► balgam taşı

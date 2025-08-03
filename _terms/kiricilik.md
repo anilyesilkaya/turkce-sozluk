@@ -2,6 +2,7 @@
 layout: term
 title: kırıcılık
 slug: kiricilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kırıcı olma durumu; huşunet

@@ -2,6 +2,7 @@
 layout: term
 title: oh
 slug: oh
+letter: O
 lisan: Türkçe
 anlamlar:
 - Sevinç, beğenme, hayranlık, rahatlama vb. duyguları belirten bir söz

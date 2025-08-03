@@ -2,6 +2,7 @@
 layout: term
 title: iptidailik
 slug: iptidailik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İptidai olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: inleme
 slug: inleme
+letter: I
 lisan: Türkçe
 anlamlar:
 - İnlemek işi; inildeme

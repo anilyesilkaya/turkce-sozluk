@@ -2,6 +2,7 @@
 layout: term
 title: bir güzel
 slug: bir-guzel
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► adamakıllı

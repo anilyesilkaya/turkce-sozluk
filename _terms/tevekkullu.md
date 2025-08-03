@@ -2,6 +2,7 @@
 layout: term
 title: tevekküllü
 slug: tevekkullu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tevekkülü olan

@@ -2,6 +2,7 @@
 layout: term
 title: havadan sudan
 slug: havadan-sudan
+letter: H
 lisan: Türkçe
 anlamlar:
 - Boş, önemsiz şeylerden

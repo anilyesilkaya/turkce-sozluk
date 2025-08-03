@@ -2,6 +2,7 @@
 layout: term
 title: patiska
 slug: patiska
+letter: P
 lisan: İtalyanca batista
 anlamlar:
 - Genellikle pamuktan dokunmuş sık ve düzgün bez

@@ -2,6 +2,7 @@
 layout: term
 title: tevcih etmek
 slug: tevcih-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - yöneltmek

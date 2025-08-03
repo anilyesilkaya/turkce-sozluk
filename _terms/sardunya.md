@@ -2,6 +2,7 @@
 layout: term
 title: sardunya
 slug: sardunya
+letter: S
 lisan: İtalyanca sardonia
 anlamlar:
 - Sardunyagillerden, ana vatanı Güney Afrika olan, çoğunlukla pembe çiçekler açan, çoklu yıllık, otsu bir süs bitkisi (Geranium)

@@ -2,6 +2,7 @@
 layout: term
 title: işkillenmek
 slug: iskillenmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► kuşkulanmak

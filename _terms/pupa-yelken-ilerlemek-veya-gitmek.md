@@ -2,6 +2,7 @@
 layout: term
 title: pupa yelken ilerlemek (veya gitmek)
 slug: pupa-yelken-ilerlemek-veya-gitmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - yelkenler, arkadan esen rüzgârla şişmiş olarak, tam yolla

@@ -2,6 +2,7 @@
 layout: term
 title: klüz
 slug: kluz
+letter: K
 lisan: Fransızca cluse
 anlamlar:
 - ► kanyon

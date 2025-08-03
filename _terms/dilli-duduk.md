@@ -2,6 +2,7 @@
 layout: term
 title: dilli düdük
 slug: dilli-duduk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Söğüt, kavak vb. ağaçların ince dallarından veya kamıştan yapılan bir düdük türü

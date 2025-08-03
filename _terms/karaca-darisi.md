@@ -2,6 +2,7 @@
 layout: term
 title: karaca darısı
 slug: karaca-darisi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Buğdaygillerden, hayvan yemi olarak kullanılan  bir bitki (Panicum milliaceum)

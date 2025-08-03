@@ -2,6 +2,7 @@
 layout: term
 title: ağızdan kapma
 slug: agizdan-kapma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Başkalarından dinlemek yolu ile yarım yamalak edinilen (bilgi)

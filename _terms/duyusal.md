@@ -2,6 +2,7 @@
 layout: term
 title: duyusal
 slug: duyusal
+letter: D
 lisan: Türkçe
 anlamlar:
 - Duyu ile ilgili

@@ -2,6 +2,7 @@
 layout: term
 title: diriltebilmek
 slug: diriltebilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Diriltme ihtimali veya imkânı bulunmak

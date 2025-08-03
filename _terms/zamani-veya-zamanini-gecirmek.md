@@ -2,6 +2,7 @@
 layout: term
 title: zamanı (veya zamanını) geçirmek
 slug: zamani-veya-zamanini-gecirmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - bir işin yapılması için tanınan süreyi doldurmak

@@ -2,6 +2,7 @@
 layout: term
 title: kısıverme
 slug: kisiverme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kısıvermek işi

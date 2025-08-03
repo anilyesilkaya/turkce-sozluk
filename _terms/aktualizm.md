@@ -2,6 +2,7 @@
 layout: term
 title: aktüalizm
 slug: aktualizm
+letter: A
 lisan: Fransızca actualisme
 anlamlar:
 - ► edimselcilik

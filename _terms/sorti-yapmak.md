@@ -2,6 +2,7 @@
 layout: term
 title: sorti yapmak
 slug: sorti-yapmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - uçak bir noktadan kalkıp başka bir noktaya inmek

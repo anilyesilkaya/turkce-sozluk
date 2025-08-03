@@ -2,6 +2,7 @@
 layout: term
 title: adam sendecilik
 slug: adam-sendecilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Adam sendeci olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: pavyonculuk
 slug: pavyonculuk
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pavyon işletme işi

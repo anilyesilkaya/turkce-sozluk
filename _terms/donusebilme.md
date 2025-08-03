@@ -2,6 +2,7 @@
 layout: term
 title: dönüşebilme
 slug: donusebilme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dönüşebilmek işi

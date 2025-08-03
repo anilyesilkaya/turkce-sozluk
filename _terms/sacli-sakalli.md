@@ -2,6 +2,7 @@
 layout: term
 title: saçlı sakallı
 slug: sacli-sakalli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Yaşlanmış (kimse)

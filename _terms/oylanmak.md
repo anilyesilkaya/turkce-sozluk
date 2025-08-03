@@ -2,6 +2,7 @@
 layout: term
 title: oylanmak
 slug: oylanmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oylama işi yapılmak

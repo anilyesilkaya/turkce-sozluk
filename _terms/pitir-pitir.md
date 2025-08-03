@@ -2,6 +2,7 @@
 layout: term
 title: pıtır pıtır
 slug: pitir-pitir
+letter: P
 lisan: Türkçe
 anlamlar:
 - Sık ve düzgün bir biçimde hafifçe ses çıkararak

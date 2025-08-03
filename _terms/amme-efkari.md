@@ -2,6 +2,7 @@
 layout: term
 title: amme efkârı
 slug: amme-efkari
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► kamuoyu

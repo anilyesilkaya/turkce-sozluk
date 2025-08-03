@@ -2,6 +2,7 @@
 layout: term
 title: haberdarlık
 slug: haberdarlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Haberdar olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: çiçeklenmek
 slug: ciceklenmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çiçek açmak, çiçek vermek, çiçekli duruma gelmek

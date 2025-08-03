@@ -2,6 +2,7 @@
 layout: term
 title: entipüften
 slug: entipuften
+letter: E
 lisan: Türkçe
 anlamlar:
 - Değeri olmayan

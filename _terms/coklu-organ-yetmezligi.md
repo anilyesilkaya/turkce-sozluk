@@ -2,6 +2,7 @@
 layout: term
 title: çoklu organ yetmezliği
 slug: coklu-organ-yetmezligi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Kalp, karaciğer, böbrek vb. hayati organların işlevlerini yerine getirememesi  durumu

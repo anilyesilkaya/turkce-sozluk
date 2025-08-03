@@ -2,6 +2,7 @@
 layout: term
 title: flanel
 slug: flanel
+letter: F
 lisan: Fransızca flanelle
 anlamlar:
 - Keten ve yünden dokunan kumaş

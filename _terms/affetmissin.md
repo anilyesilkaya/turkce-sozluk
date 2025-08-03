@@ -2,6 +2,7 @@
 layout: term
 title: affetmişsin
 slug: affetmissin
+letter: A
 lisan: Türkçe
 anlamlar:
 - '"hiç de öyle değil, yanılıyorsun" anlamında kullanılan bir söz'

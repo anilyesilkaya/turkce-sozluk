@@ -2,6 +2,7 @@
 layout: term
 title: sergi salonu
 slug: sergi-salonu
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► sergievi

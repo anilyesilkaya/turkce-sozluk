@@ -2,6 +2,7 @@
 layout: term
 title: belirlenimcilik
 slug: belirlenimcilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Her olayın başka olayların gerekli ve kaçınılmaz bir sonucu olduğunu ileri süren öğreti; gerekircilik, determinizm

@@ -2,6 +2,7 @@
 layout: term
 title: şatranç
 slug: satranc
+letter: Ş
 lisan: Arapça saṭrenc
 anlamlar:
 - ► satranç

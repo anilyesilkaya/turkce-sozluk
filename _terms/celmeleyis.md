@@ -2,6 +2,7 @@
 layout: term
 title: çelmeleyiş
 slug: celmeleyis
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çelmelemek işi

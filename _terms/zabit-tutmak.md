@@ -2,6 +2,7 @@
 layout: term
 title: zabıt tutmak
 slug: zabit-tutmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - tutanak düzenlemek

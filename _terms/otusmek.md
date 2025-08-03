@@ -2,6 +2,7 @@
 layout: term
 title: ötüşmek
 slug: otusmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Birlikte veya karşılıklı ötmek

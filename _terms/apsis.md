@@ -2,6 +2,7 @@
 layout: term
 title: apsis
 slug: apsis
+letter: A
 lisan: Fransızca abscisse
 anlamlar:
 - Düzlemdeki bir noktayı belirten sıralı ikilinin birinci bileşeni

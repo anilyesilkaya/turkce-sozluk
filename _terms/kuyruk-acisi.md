@@ -2,6 +2,7 @@
 layout: term
 title: kuyruk acısı
 slug: kuyruk-acisi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Hınç, alınacak öç

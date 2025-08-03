@@ -2,6 +2,7 @@
 layout: term
 title: kokona
 slug: kokona
+letter: K
 lisan: Rumca
 anlamlar:
 - Hristiyan kadını

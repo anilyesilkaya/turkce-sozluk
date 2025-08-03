@@ -2,6 +2,7 @@
 layout: term
 title: hakemli dergi
 slug: hakemli-dergi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Yazıları hakemin denetiminden geçtikten ve onaylandıktan sonra yayımlanan dergi

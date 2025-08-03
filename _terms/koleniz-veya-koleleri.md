@@ -2,6 +2,7 @@
 layout: term
 title: köleniz (veya köleleri)
 slug: koleniz-veya-koleleri
+letter: K
 lisan: Türkçe
 anlamlar:
 - söz söyleyen erkek tarafından söz söylenen kimseye aşırı bir saygı gösterilmiş olmak için ben zamiri yerine kullanılan bir söz

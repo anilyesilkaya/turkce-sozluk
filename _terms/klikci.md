@@ -2,6 +2,7 @@
 layout: term
 title: klikçi
 slug: klikci
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► hizipçi

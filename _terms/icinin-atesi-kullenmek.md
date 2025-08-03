@@ -2,6 +2,7 @@
 layout: term
 title: içinin ateşi küllenmek
 slug: icinin-atesi-kullenmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - sıkıntıdan kurtulmak

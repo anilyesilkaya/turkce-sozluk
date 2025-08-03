@@ -2,6 +2,7 @@
 layout: term
 title: romantizm
 slug: romantizm
+letter: R
 lisan: Fransızca romantisme
 anlamlar:
 - XVIII. yüzyıl sonunda başlayan, duygu, coşku ve sembole aşırı yer veren sanat akımı; coşumculuk

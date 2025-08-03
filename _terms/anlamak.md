@@ -2,6 +2,7 @@
 layout: term
 title: anlamak
 slug: anlamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir şeyin ne demek olduğunu, neye işaret ettiğini kavramak; fehmetmek

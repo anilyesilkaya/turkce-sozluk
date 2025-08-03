@@ -2,6 +2,7 @@
 layout: term
 title: korlanma
 slug: korlanma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Korlanmak işi

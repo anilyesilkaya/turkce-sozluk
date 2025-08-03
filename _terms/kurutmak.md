@@ -2,6 +2,7 @@
 layout: term
 title: kurutmak
 slug: kurutmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Suyunu ve ıslaklığını giderip kuru duruma getirmek

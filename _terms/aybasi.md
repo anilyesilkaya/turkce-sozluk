@@ -2,6 +2,7 @@
 layout: term
 title: aybaşı
 slug: aybasi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Belirli yaşlar arasında kadınların ayda bir döl yatağından kan gelmesi durumu; ay hâli, âdet

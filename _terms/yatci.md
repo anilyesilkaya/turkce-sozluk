@@ -2,6 +2,7 @@
 layout: term
 title: yatçı
 slug: yatci
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yat turizmiyle uğraşan kimse

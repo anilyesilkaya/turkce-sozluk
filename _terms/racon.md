@@ -2,6 +2,7 @@
 layout: term
 title: racon
 slug: racon
+letter: R
 lisan: İtalyanca ragione
 anlamlar:
 - Yol, yöntem, usul

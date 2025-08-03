@@ -2,6 +2,7 @@
 layout: term
 title: hafta
 slug: hafta
+letter: H
 lisan: Farsça hefte
 anlamlar:
 - Birbiri ardınca gelen yedi günlük dönem

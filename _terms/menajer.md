@@ -2,6 +2,7 @@
 layout: term
 title: menajer
 slug: menajer
+letter: M
 lisan: Fransızca manager
 anlamlar:
 - ► yönetici

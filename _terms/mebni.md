@@ -2,6 +2,7 @@
 layout: term
 title: mebni
 slug: mebni
+letter: M
 lisan: Arapça mebnī
 anlamlar:
 - Yapılmış, kurulmuş, bina olunmuş

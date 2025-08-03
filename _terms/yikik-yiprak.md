@@ -2,6 +2,7 @@
 layout: term
 title: yıkık yıprak
 slug: yikik-yiprak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yıpranmış

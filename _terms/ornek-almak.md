@@ -2,6 +2,7 @@
 layout: term
 title: örnek almak
 slug: ornek-almak
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - bir kimseye huy ve davranışta uymak, birini ölçü olarak benimsemek

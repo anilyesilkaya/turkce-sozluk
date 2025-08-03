@@ -2,6 +2,7 @@
 layout: term
 title: fırsat eşitliği
 slug: firsat-esitligi
+letter: F
 lisan: Türkçe
 anlamlar:
 - Sunulan olanaklardan herkesin ayrım yapılmaksızın eşit biçimde yararlanması

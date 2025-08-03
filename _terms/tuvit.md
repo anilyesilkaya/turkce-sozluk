@@ -2,6 +2,7 @@
 layout: term
 title: tüvit
 slug: tuvit
+letter: T
 lisan: (Tweed yer adından)
 anlamlar:
 - Taranmış yünden yapılan, çoğu iki renkte, spor giyecekler yapımında kullanılan kumaş türü

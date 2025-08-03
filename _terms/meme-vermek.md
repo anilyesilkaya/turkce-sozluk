@@ -2,6 +2,7 @@
 layout: term
 title: meme vermek
 slug: meme-vermek
+letter: M
 lisan: Türkçe
 anlamlar:
 - emzirmek

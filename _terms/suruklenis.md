@@ -2,6 +2,7 @@
 layout: term
 title: sürükleniş
 slug: suruklenis
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sürüklenmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: üç aylık
 slug: uc-aylik
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üç ayda bir ödenen emekli aylığı

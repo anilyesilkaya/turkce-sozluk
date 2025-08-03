@@ -2,6 +2,7 @@
 layout: term
 title: bakakalmak
 slug: bakakalmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Şaşkınlığa uğrayıp ne yapacağını bilmez durumda kalmak

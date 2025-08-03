@@ -2,6 +2,7 @@
 layout: term
 title: apaydınlık
 slug: apaydinlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Apaydın olma durumu

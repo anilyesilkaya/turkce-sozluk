@@ -2,6 +2,7 @@
 layout: term
 title: daldırabilmek
 slug: daldirabilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Daldırma ihtimali veya imkânı bulunmak

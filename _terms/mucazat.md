@@ -2,6 +2,7 @@
 layout: term
 title: mücazat
 slug: mucazat
+letter: M
 lisan: Arapça mucāzāt
 anlamlar:
 - İşlenen bir suçtan ötürü ceza verme

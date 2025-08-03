@@ -2,6 +2,7 @@
 layout: term
 title: kanmazlık
 slug: kanmazlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - İhtiyacını veya isteğini yeteri kadar karşıladığı hâlde yeterli bulmama

@@ -2,6 +2,7 @@
 layout: term
 title: genelmek
 slug: genelmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► genişlemek

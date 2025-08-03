@@ -2,6 +2,7 @@
 layout: term
 title: yakınsak
 slug: yakinsak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Tek bir noktaya doğru yönelen (ışın)

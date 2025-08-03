@@ -2,6 +2,7 @@
 layout: term
 title: matbaacı
 slug: matbaaci
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► basımcı

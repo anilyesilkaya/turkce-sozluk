@@ -2,6 +2,7 @@
 layout: term
 title: bununla beraber
 slug: bununla-beraber
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bununla birlikte

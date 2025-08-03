@@ -2,6 +2,7 @@
 layout: term
 title: dümenini elinde tutmak
 slug: dumenini-elinde-tutmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - yönetmek, istediği yöne doğru götürmek

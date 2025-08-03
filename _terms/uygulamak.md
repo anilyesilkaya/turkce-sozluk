@@ -2,6 +2,7 @@
 layout: term
 title: uygulamak
 slug: uygulamak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Kuramsal bir bilgiyi, ilkeyi, düşünceyi herhangi bir alanda hayata geçirmek; tatbik etmek

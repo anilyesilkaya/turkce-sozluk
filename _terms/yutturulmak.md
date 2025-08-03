@@ -2,6 +2,7 @@
 layout: term
 title: yutturulmak
 slug: yutturulmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yutturma (II) işi yapılmak

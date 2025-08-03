@@ -2,6 +2,7 @@
 layout: term
 title: analıkızlı
 slug: analikizli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Soğan ve kıyma ile yapılan harcın bulgurdan yapılan büyük köftenin içine doldurulup ayrıca hazırlanan küçük köfteler ve nohut ile birlikte pişirilmesiyle yapılan bir tür yemek

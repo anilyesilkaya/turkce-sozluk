@@ -2,6 +2,7 @@
 layout: term
 title: kulak dolgunluğu
 slug: kulak-dolgunlugu
+letter: K
 lisan: Türkçe
 anlamlar:
 - İşiterek elde edilen (bilgi)

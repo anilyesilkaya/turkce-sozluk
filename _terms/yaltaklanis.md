@@ -2,6 +2,7 @@
 layout: term
 title: yaltaklanış
 slug: yaltaklanis
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaltaklanmak işi

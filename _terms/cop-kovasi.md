@@ -2,6 +2,7 @@
 layout: term
 title: çöp kovası
 slug: cop-kovasi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çöp sepeti

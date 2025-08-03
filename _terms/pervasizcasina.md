@@ -2,6 +2,7 @@
 layout: term
 title: pervasızcasına
 slug: pervasizcasina
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► pervasızca

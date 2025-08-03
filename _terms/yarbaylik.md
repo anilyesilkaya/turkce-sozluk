@@ -2,6 +2,7 @@
 layout: term
 title: yarbaylık
 slug: yarbaylik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yarbay olma durumu

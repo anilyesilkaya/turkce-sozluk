@@ -2,6 +2,7 @@
 layout: term
 title: kıran kırana
 slug: kiran-kirana
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çok mücadeleli, çekişmeli (kavga, güreş, maç)

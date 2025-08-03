@@ -2,6 +2,7 @@
 layout: term
 title: huzursuz
 slug: huzursuz
+letter: H
 lisan: Türkçe
 anlamlar:
 - Huzuru olmayan, tedirgin; rahatsız

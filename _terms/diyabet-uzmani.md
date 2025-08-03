@@ -2,6 +2,7 @@
 layout: term
 title: diyabet uzmanı
 slug: diyabet-uzmani
+letter: D
 lisan: Türkçe
 anlamlar:
 - Şeker hastalığı alanında uzmanlaşmış hekim; diyabetolog

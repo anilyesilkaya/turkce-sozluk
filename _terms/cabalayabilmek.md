@@ -2,6 +2,7 @@
 layout: term
 title: çabalayabilmek
 slug: cabalayabilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çabalama ihtimali veya imkânı bulunmak

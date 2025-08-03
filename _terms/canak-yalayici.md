@@ -2,6 +2,7 @@
 layout: term
 title: çanak yalayıcı
 slug: canak-yalayici
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► dalkavuk

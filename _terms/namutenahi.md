@@ -2,6 +2,7 @@
 layout: term
 title: namütenahi
 slug: namutenahi
+letter: N
 lisan: Farsça nā + Arapça mutenāhī
 anlamlar:
 - ► sonsuz

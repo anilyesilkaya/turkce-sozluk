@@ -2,6 +2,7 @@
 layout: term
 title: istirdat
 slug: istirdat
+letter: I
 lisan: Arapça istirdād
 anlamlar:
 - Geri alma

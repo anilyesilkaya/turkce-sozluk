@@ -2,6 +2,7 @@
 layout: term
 title: kendi hâlinde bırakmak
 slug: kendi-halinde-birakmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - üzerinde çalışmayarak geliştirmemek veya bakımsız bırakmak, işlememek

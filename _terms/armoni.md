@@ -2,6 +2,7 @@
 layout: term
 title: armoni
 slug: armoni
+letter: A
 lisan: Fransızca harmonie
 anlamlar:
 - ► uyum

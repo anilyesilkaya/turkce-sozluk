@@ -2,6 +2,7 @@
 layout: term
 title: canavarlaşma
 slug: canavarlasma
+letter: C
 lisan: Türkçe
 anlamlar:
 - Canavarlaşmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: sevecenlik
 slug: sevecenlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Acıyarak ve koruyarak sevme; şefkat, şefkatlilik, müşfiklik

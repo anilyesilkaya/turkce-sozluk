@@ -2,6 +2,7 @@
 layout: term
 title: faiz
 slug: faiz
+letter: F
 lisan: Arapça fāʾiż
 anlamlar:
 - İşletmek için bir yere ödünç verilen paraya karşılık alınan kâr; ürem, nema

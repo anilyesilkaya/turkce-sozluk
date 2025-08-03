@@ -2,6 +2,7 @@
 layout: term
 title: aşağılık hissi
 slug: asagilik-hissi
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► aşağılık duygusu

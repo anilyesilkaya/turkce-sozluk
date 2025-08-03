@@ -2,6 +2,7 @@
 layout: term
 title: erzel
 slug: erzel
+letter: E
 lisan: Arapça erẕel
 anlamlar:
 - Pek rezil

@@ -2,6 +2,7 @@
 layout: term
 title: balık unu
 slug: balik-unu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kurutulmuş balıktan özel işlemlerle elde edilen un

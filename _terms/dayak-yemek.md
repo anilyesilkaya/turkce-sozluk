@@ -2,6 +2,7 @@
 layout: term
 title: dayak yemek
 slug: dayak-yemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - dövülmek

@@ -2,6 +2,7 @@
 layout: term
 title: hafifsemek
 slug: hafifsemek
+letter: H
 lisan: Türkçe
 anlamlar:
 - Bir kimseyi veya bir şeyi önemsememek; yeğnilemek, yeğnisemek, istihfaf etmek

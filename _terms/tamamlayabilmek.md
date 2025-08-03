@@ -2,6 +2,7 @@
 layout: term
 title: tamamlayabilmek
 slug: tamamlayabilmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tamamlama ihtimali veya imkânı bulunmak

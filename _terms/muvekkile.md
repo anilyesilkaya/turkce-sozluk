@@ -2,6 +2,7 @@
 layout: term
 title: müvekkile
 slug: muvekkile
+letter: M
 lisan: Arapça muvekkile
 anlamlar:
 - Birini kendine vekil olarak seçen kadın

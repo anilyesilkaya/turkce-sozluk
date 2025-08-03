@@ -2,6 +2,7 @@
 layout: term
 title: görev almak
 slug: gorev-almak
+letter: G
 lisan: Türkçe
 anlamlar:
 - bir görevde bulunmak, bir görevi üstlenmek

@@ -2,6 +2,7 @@
 layout: term
 title: güdümlü
 slug: gudumlu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güdülebilen, yönlendirilebilen, yönetilebilir

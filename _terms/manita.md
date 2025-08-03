@@ -2,6 +2,7 @@
 layout: term
 title: manita
 slug: manita
+letter: M
 lisan: Yunanca
 anlamlar:
 - ► sevgili

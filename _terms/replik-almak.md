@@ -2,6 +2,7 @@
 layout: term
 title: replik almak
 slug: replik-almak
+letter: R
 lisan: Türkçe
 anlamlar:
 - oyuncu karşısındakinden kendi yapacağı espriye hazırlık mahiyetinde bir söz veya cümle almak

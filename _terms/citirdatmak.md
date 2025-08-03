@@ -2,6 +2,7 @@
 layout: term
 title: çıtırdatmak
 slug: citirdatmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıtır çıtır ses çıkarmasına yol açmak

@@ -2,6 +2,7 @@
 layout: term
 title: çarpışıverme
 slug: carpisiverme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çarpışıvermek işi

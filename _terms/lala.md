@@ -2,6 +2,7 @@
 layout: term
 title: lala
 slug: lala
+letter: L
 lisan: Farsça lālā
 anlamlar:
 - Çocuğun bakım, eğitim ve öğretimiyle görevli kimse

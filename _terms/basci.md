@@ -2,6 +2,7 @@
 layout: term
 title: başçı
 slug: basci
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► işçibaşı

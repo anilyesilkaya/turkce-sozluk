@@ -2,6 +2,7 @@
 layout: term
 title: sıra sayı sıfatı
 slug: sira-sayi-sifati
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sayı adlarından -ıncı ekiyle kurulan ve sıra kavramı bildiren sıfat

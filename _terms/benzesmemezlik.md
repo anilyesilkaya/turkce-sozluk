@@ -2,6 +2,7 @@
 layout: term
 title: benzeşmemezlik
 slug: benzesmemezlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - bk. benzeşmezlik

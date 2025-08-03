@@ -2,6 +2,7 @@
 layout: term
 title: jest yapmak
 slug: jest-yapmak
+letter: J
 lisan: Türkçe
 anlamlar:
 - elini kolunu hareket ettirmek

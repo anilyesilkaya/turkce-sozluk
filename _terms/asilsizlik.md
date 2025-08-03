@@ -2,6 +2,7 @@
 layout: term
 title: asılsızlık
 slug: asilsizlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Asılsız olma durumu

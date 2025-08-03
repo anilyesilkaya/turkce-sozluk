@@ -2,6 +2,7 @@
 layout: term
 title: mahallî idare
 slug: mahalli-idare
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► yerel yönetim

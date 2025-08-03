@@ -2,6 +2,7 @@
 layout: term
 title: eritivermek
 slug: eritivermek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Çabucak veya ansızın eritmek

@@ -2,6 +2,7 @@
 layout: term
 title: muzafferiyet
 slug: muzafferiyet
+letter: M
 lisan: Arapça muẓafferiyyet
 anlamlar:
 - Bir mücadelede üstün gelme

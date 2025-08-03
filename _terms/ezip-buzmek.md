@@ -2,6 +2,7 @@
 layout: term
 title: ezip büzmek
 slug: ezip-buzmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - tamamen değiştirerek kullanılmaz veya anlaşılmaz duruma getirmek

@@ -2,6 +2,7 @@
 layout: term
 title: vanilya
 slug: vanilya
+letter: V
 lisan: İtalyanca vaniglia
 anlamlar:
 - Salepgillerden, çiçekleri beyaz, kokulu, tırmanıcı küçük bir bitki (Vanilla planifolia)

@@ -2,6 +2,7 @@
 layout: term
 title: karşılıksızca
 slug: karsiliksizca
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karşılıksız bir biçimde

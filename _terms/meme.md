@@ -2,6 +2,7 @@
 layout: term
 title: meme
 slug: meme
+letter: M
 lisan: Türkçe
 anlamlar:
 - Yavrularını emzirmek için, memelilerin göğsünde türlü biçim ve sayıda bulunan, meme başı denilen çıkıntıları olan organ; bicik, emcek, emcik, göğüs

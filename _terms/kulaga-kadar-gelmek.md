@@ -2,6 +2,7 @@
 layout: term
 title: kulağa kadar gelmek
 slug: kulaga-kadar-gelmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - söylenenler konunun muhatabı tarafından duyulmak

@@ -2,6 +2,7 @@
 layout: term
 title: alışkanlıktan (veya alışkanlığından) kopamamak
 slug: aliskanliktan-veya-aliskanligindan-kopamamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - belli bir huydan vazgeçememek, alışıklığı bırakamamak

@@ -2,6 +2,7 @@
 layout: term
 title: gözü (veya gözleri) açılmak
 slug: gozu-veya-gozleri-acilmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - uyanmak

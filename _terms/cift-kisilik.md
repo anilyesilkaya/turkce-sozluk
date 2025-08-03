@@ -2,6 +2,7 @@
 layout: term
 title: çift kişilik
 slug: cift-kisilik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - İki kişi için

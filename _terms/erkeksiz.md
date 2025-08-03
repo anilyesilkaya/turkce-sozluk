@@ -2,6 +2,7 @@
 layout: term
 title: erkeksiz
 slug: erkeksiz
+letter: E
 lisan: Türkçe
 anlamlar:
 - Erkeği bulunmayan

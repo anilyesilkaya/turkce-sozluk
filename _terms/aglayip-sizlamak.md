@@ -2,6 +2,7 @@
 layout: term
 title: ağlayıp sızlamak
 slug: aglayip-sizlamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - çok ağlamak

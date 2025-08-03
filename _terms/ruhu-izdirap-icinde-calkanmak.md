@@ -2,6 +2,7 @@
 layout: term
 title: ruhu ızdırap içinde çalkanmak
 slug: ruhu-izdirap-icinde-calkanmak
+letter: R
 lisan: Türkçe
 anlamlar:
 - çok ıztırap çekmek

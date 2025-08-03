@@ -2,6 +2,7 @@
 layout: term
 title: tezyin
 slug: tezyin
+letter: T
 lisan: Arapça tezyīn
 anlamlar:
 - ► süsleme

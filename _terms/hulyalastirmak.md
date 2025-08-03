@@ -2,6 +2,7 @@
 layout: term
 title: hülyalaştırmak
 slug: hulyalastirmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hülya durumuna getirmek

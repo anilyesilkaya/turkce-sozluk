@@ -2,6 +2,7 @@
 layout: term
 title: bilim
 slug: bilim
+letter: B
 lisan: Türkçe
 anlamlar:
 - Evrenin veya olayların bir bölümünü konu olarak seçen, deneye dayanan yöntemler ve gerçeklikten yararlanarak sonuç çıkarmaya çalışan düzenli bilgi; ilim

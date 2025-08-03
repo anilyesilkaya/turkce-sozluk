@@ -2,6 +2,7 @@
 layout: term
 title: ardiye
 slug: ardiye
+letter: A
 lisan: Arapça arżiyye
 anlamlar:
 - Evlerde kullanılmayan, saklanması gereken eşyaların konulduğu bölüm

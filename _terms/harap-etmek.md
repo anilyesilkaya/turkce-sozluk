@@ -2,6 +2,7 @@
 layout: term
 title: harap etmek
 slug: harap-etmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - harap duruma getirmek

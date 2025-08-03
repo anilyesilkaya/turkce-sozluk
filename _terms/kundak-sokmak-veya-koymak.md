@@ -2,6 +2,7 @@
 layout: term
 title: kundak sokmak (veya koymak)
 slug: kundak-sokmak-veya-koymak
+letter: K
 lisan: Türkçe
 anlamlar:
 - yangın çıkarmak için bir yere tutuşmuş yağlı bez parçası koymak

@@ -2,6 +2,7 @@
 layout: term
 title: yukarıdan
 slug: yukaridan
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Tepeden, üstten

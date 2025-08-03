@@ -2,6 +2,7 @@
 layout: term
 title: beliriş
 slug: beliris
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belirmek işi

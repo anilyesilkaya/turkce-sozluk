@@ -2,6 +2,7 @@
 layout: term
 title: sefarethane
 slug: sefarethane
+letter: S
 lisan: Arapça sefāret + Farsça ḫāne
 anlamlar:
 - ► elçilik

@@ -2,6 +2,7 @@
 layout: term
 title: araştırmacılık
 slug: arastirmacilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Araştırmacı olma durumu; araştırıcılık

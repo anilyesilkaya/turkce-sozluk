@@ -2,6 +2,7 @@
 layout: term
 title: horon vurmak
 slug: horon-vurmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - horon oyununu oynamak

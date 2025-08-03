@@ -2,6 +2,7 @@
 layout: term
 title: salamandra
 slug: salamandra
+letter: S
 lisan: Fransızca salamandre
 anlamlar:
 - ► semender

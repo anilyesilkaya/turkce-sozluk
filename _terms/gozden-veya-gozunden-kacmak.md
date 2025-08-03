@@ -2,6 +2,7 @@
 layout: term
 title: gözden (veya gözünden) kaçmak
 slug: gozden-veya-gozunden-kacmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - görülmemek, farkına varılmamak

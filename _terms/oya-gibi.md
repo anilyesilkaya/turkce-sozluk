@@ -2,6 +2,7 @@
 layout: term
 title: oya gibi
 slug: oya-gibi
+letter: O
 lisan: Türkçe
 anlamlar:
 - ince, güzel, zarif

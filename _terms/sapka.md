@@ -2,6 +2,7 @@
 layout: term
 title: şapka
 slug: sapka
+letter: Ş
 lisan: Rusça
 anlamlar:
 - Keçe, hasır, kumaş, ip vb. ile yapılan başlık; kapela

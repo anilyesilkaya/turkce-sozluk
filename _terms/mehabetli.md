@@ -2,6 +2,7 @@
 layout: term
 title: mehabetli
 slug: mehabetli
+letter: M
 lisan: Türkçe
 anlamlar:
 - Büyük, ulu, yüce, gösterişli

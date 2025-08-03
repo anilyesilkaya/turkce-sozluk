@@ -2,6 +2,7 @@
 layout: term
 title: oluşturmak
 slug: olusturmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oluşmasını sağlamak, meydana getirmek, teşekkül ettirmek, tekvin etmek

@@ -2,6 +2,7 @@
 layout: term
 title: irili ufaklı
 slug: irili-ufakli
+letter: I
 lisan: Türkçe
 anlamlar:
 - Büyük küçük karışık

@@ -2,6 +2,7 @@
 layout: term
 title: bizimki
 slug: bizimki
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bizim olan, bizimle ilgili olan

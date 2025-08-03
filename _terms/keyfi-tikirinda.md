@@ -2,6 +2,7 @@
 layout: term
 title: keyfi tıkırında
 slug: keyfi-tikirinda
+letter: K
 lisan: Türkçe
 anlamlar:
 - İşi, sağlığı, mutluluğu yerinde olan (kimse)

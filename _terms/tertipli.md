@@ -2,6 +2,7 @@
 layout: term
 title: tertipli
 slug: tertipli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Düzenli, derli toplu, yerli yerinde

@@ -2,6 +2,7 @@
 layout: term
 title: toparlama
 slug: toparlama
+letter: T
 lisan: Türkçe
 anlamlar:
 - Toparlamak işi

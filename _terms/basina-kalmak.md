@@ -2,6 +2,7 @@
 layout: term
 title: başına kalmak
 slug: basina-kalmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - istemediği hâlde bir işi yapmak veya bir kimseye bakmak zorunluluğu ile karşılaşmak

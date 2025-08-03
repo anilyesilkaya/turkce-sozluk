@@ -2,6 +2,7 @@
 layout: term
 title: çıkıntı
 slug: cikinti
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir yüzeyde ileri doğru çıkan bölüm

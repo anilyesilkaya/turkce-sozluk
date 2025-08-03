@@ -2,6 +2,7 @@
 layout: term
 title: sezon
 slug: sezon
+letter: S
 lisan: Fransızca saison
 anlamlar:
 - ► mevsim

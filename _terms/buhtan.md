@@ -2,6 +2,7 @@
 layout: term
 title: bühtan
 slug: buhtan
+letter: B
 lisan: Arapça buhtān
 anlamlar:
 - ► iftira

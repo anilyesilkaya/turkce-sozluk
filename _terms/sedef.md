@@ -2,6 +2,7 @@
 layout: term
 title: sedef
 slug: sedef
+letter: S
 lisan: Arapça ṣadef
 anlamlar:
 - Midye, istiridye vb. deniz hayvanlarının kabuğunda bulunan sedefçilikte kullanılan, pırıltılı, beyaz, sert bir madde

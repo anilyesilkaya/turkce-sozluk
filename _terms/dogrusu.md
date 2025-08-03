@@ -2,6 +2,7 @@
 layout: term
 title: doğrusu
 slug: dogrusu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Gerçeği söylemek gerekirse, gerçek şu ki

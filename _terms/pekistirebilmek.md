@@ -2,6 +2,7 @@
 layout: term
 title: pekiştirebilmek
 slug: pekistirebilmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pekiştirme ihtimali veya imkânı bulunmak

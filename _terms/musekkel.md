@@ -2,6 +2,7 @@
 layout: term
 title: müşekkel
 slug: musekkel
+letter: M
 lisan: Arapça muşekkel
 anlamlar:
 - Biçim verilmiş

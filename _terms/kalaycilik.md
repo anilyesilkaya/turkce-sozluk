@@ -2,6 +2,7 @@
 layout: term
 title: kalaycılık
 slug: kalaycilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalaycının yaptığı iş

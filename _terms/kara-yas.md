@@ -2,6 +2,7 @@
 layout: term
 title: kara yas
 slug: kara-yas
+letter: K
 lisan: Türkçe
 anlamlar:
 - Aşırı bir biçimde üzüntüye kapılma

@@ -2,6 +2,7 @@
 layout: term
 title: şifa vermek
 slug: sifa-vermek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - iyi etmek, sağlığına kavuşturmak

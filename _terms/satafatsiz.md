@@ -2,6 +2,7 @@
 layout: term
 title: şatafatsız
 slug: satafatsiz
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► görkemsiz

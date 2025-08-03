@@ -2,6 +2,7 @@
 layout: term
 title: yave okumak
 slug: yave-okumak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - gereksiz söz söylemek, boşa konuşmak

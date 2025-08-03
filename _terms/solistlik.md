@@ -2,6 +2,7 @@
 layout: term
 title: solistlik
 slug: solistlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Solistin görevi; soloculuk

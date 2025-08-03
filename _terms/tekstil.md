@@ -2,6 +2,7 @@
 layout: term
 title: tekstil
 slug: tekstil
+letter: T
 lisan: Fransızca textile
 anlamlar:
 - ► dokuma

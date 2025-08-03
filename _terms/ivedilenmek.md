@@ -2,6 +2,7 @@
 layout: term
 title: ivedilenmek
 slug: ivedilenmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Tez canlılık etmek, acele etmek, istical etmek

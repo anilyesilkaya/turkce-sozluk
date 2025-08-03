@@ -2,6 +2,7 @@
 layout: term
 title: kıpırdaklık
 slug: kipirdaklik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kıpırdak olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: mayi
 slug: mayi
+letter: M
 lisan: Arapça māyiʿ
 anlamlar:
 - ► sıvı

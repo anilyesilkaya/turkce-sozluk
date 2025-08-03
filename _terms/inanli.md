@@ -2,6 +2,7 @@
 layout: term
 title: inanlı
 slug: inanli
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► inançlı

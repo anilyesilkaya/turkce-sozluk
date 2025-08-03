@@ -2,6 +2,7 @@
 layout: term
 title: debelenme
 slug: debelenme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Debelenmek işi

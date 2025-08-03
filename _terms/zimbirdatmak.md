@@ -2,6 +2,7 @@
 layout: term
 title: zımbırdatmak
 slug: zimbirdatmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Telli bir çalgıyı acemice çalmak

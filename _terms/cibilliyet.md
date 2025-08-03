@@ -2,6 +2,7 @@
 layout: term
 title: cibilliyet
 slug: cibilliyet
+letter: C
 lisan: Arapça cibilliyyet
 anlamlar:
 - ► yaradılış

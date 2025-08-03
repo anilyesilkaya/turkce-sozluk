@@ -2,6 +2,7 @@
 layout: term
 title: melamin
 slug: melamin
+letter: M
 lisan: Fransızca mélamine
 anlamlar:
 - Mutfak eşyası yapımında, kâğıt ve dokuma sanayisinde kullanılan yapay reçinelerin üretiminde yer alan kimyasal bir madde

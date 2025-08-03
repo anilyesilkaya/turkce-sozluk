@@ -2,6 +2,7 @@
 layout: term
 title: edebiyat yapmak
 slug: edebiyat-yapmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - bir konu üzerinde gereksiz yere süslü sözler söylemek

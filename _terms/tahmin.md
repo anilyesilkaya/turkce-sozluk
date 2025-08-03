@@ -2,6 +2,7 @@
 layout: term
 title: tahmin
 slug: tahmin
+letter: T
 lisan: Arapça taḫmīn
 anlamlar:
 - Yaklaşık olarak değerlendirme; oranlama

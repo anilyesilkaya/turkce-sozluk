@@ -2,6 +2,7 @@
 layout: term
 title: gözcülük
 slug: gozculuk
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gözcünün yaptığı iş

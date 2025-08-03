@@ -2,6 +2,7 @@
 layout: term
 title: susamak
 slug: susamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Su içme gereksinimi duymak

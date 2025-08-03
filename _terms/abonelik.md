@@ -2,6 +2,7 @@
 layout: term
 title: abonelik
 slug: abonelik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Abone olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: İngiliz
 slug: ingiliz
+letter: İ
 lisan: İtalyanca inglese
 anlamlar:
 - İngiltere’de yaşayan halk veya bu halkın soyundan olan kimse

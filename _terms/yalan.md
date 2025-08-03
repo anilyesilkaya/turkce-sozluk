@@ -2,6 +2,7 @@
 layout: term
 title: yalan
 slug: yalan
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Doğru olmayan, gerçeğe uymayan söz; kaşkariko, kıtır, hilaf, şorolop

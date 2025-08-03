@@ -2,6 +2,7 @@
 layout: term
 title: babasızlık
 slug: babasizlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► yetimlik

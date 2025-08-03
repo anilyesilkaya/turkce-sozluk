@@ -2,6 +2,7 @@
 layout: term
 title: açık vermek
 slug: acik-vermek
+letter: A
 lisan: Türkçe
 anlamlar:
 - geliri, giderini karşılamamak

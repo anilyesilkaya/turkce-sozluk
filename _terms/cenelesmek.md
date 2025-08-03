@@ -2,6 +2,7 @@
 layout: term
 title: çeneleşmek
 slug: cenelesmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Karşılıklı olarak konuşmak

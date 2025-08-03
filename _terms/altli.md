@@ -2,6 +2,7 @@
 layout: term
 title: altlı
 slug: altli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Altı olan

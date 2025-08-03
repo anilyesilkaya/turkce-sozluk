@@ -2,6 +2,7 @@
 layout: term
 title: kedi otugiller
 slug: kedi-otugiller
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yaprakları sapsız olan otsu bitkileri, seyrek olarak da çalı durumundaki bitkileri kapsayan bitişik taç yapraklı, iki çenekli bitkiler familyası

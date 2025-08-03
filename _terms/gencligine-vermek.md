@@ -2,6 +2,7 @@
 layout: term
 title: gençliğine vermek
 slug: gencligine-vermek
+letter: G
 lisan: Türkçe
 anlamlar:
 - yaptığı bir hatayı genç olması sebebiyle bağışlamak

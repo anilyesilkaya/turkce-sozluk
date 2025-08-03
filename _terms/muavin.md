@@ -2,6 +2,7 @@
 layout: term
 title: muavin
 slug: muavin
+letter: M
 lisan: Arapça muʿāvin
 anlamlar:
 - ► yardımcı

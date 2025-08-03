@@ -2,6 +2,7 @@
 layout: term
 title: Batı
 slug: bati
+letter: B
 lisan: Türkçe
 anlamlar:
 - Güneşin battığı yöndeki ülkeler veya uygarlıklar bölgesi; Garp, Doğu karşıtı

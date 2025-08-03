@@ -2,6 +2,7 @@
 layout: term
 title: muvazaa
 slug: muvazaa
+letter: M
 lisan: Arapça muvāżaʿa
 anlamlar:
 - ► danışık

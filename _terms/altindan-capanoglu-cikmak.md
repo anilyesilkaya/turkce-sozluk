@@ -2,6 +2,7 @@
 layout: term
 title: altından çapanoğlu çıkmak
 slug: altindan-capanoglu-cikmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir işin gizli kalmış kötü ve aksak yanıyla, kuşkulu bir durumuyla karşılaşmak

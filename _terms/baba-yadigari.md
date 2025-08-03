@@ -2,6 +2,7 @@
 layout: term
 title: baba yadigârı
 slug: baba-yadigari
+letter: B
 lisan: Türkçe
 anlamlar:
 - Babadan kalan, baba döneminde yapılmış, babanın hatırasını taşıyan

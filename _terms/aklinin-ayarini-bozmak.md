@@ -2,6 +2,7 @@
 layout: term
 title: aklının ayarını bozmak
 slug: aklinin-ayarini-bozmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - doğru düşünemez, davranamaz duruma gelmek

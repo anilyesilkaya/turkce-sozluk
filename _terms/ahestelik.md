@@ -2,6 +2,7 @@
 layout: term
 title: ahestelik
 slug: ahestelik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aheste olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: apar topar
 slug: apar-topar
+letter: A
 lisan: Türkçe
 anlamlar:
 - Telaş ve acele ile

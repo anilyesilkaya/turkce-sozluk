@@ -2,6 +2,7 @@
 layout: term
 title: kör köstebek
 slug: kor-kostebek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kör faregillerden, kemirici bir memeli hayvan

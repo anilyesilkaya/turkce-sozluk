@@ -2,6 +2,7 @@
 layout: term
 title: sörf tahtası
 slug: sorf-tahtasi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sörf yapmak için kullanılan özel bir tür tahta

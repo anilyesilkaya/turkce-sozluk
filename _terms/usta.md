@@ -2,6 +2,7 @@
 layout: term
 title: usta
 slug: usta
+letter: U
 lisan: Farsça ustād
 anlamlar:
 - Bir zanaatı gereği gibi öğrenmiş olan ve kendi başına yapabilen kimse; hazık

@@ -2,6 +2,7 @@
 layout: term
 title: dalga dalga
 slug: dalga-dalga
+letter: D
 lisan: Türkçe
 anlamlar:
 - Kıvrım kıvrım olan (saç)

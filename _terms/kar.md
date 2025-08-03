@@ -2,6 +2,7 @@
 layout: term
 title: kâr
 slug: kar
+letter: K
 lisan: Farsça kār
 anlamlar:
 - Alışveriş işlerinin sağladığı para kazancı; getiri

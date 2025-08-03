@@ -2,6 +2,7 @@
 layout: term
 title: aklilik
 slug: aklilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Akla dayalı olanın niteliği; ussallık, rasyonalite

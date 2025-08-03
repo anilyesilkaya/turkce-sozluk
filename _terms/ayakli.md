@@ -2,6 +2,7 @@
 layout: term
 title: ayaklı
 slug: ayakli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayağı olan

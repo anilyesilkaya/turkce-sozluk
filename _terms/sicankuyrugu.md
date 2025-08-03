@@ -2,6 +2,7 @@
 layout: term
 title: sıçankuyruğu
 slug: sicankuyrugu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Delikleri genişletmek için kullanılan konik ve uzun bir törpü türü

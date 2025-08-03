@@ -2,6 +2,7 @@
 layout: term
 title: sonlandırabilmek
 slug: sonlandirabilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sonlandırma ihtimali veya imkânı bulunmak

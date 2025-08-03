@@ -2,6 +2,7 @@
 layout: term
 title: diri diri
 slug: diri-diri
+letter: D
 lisan: Türkçe
 anlamlar:
 - Canlı canlı, taptaze olan

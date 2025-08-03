@@ -2,6 +2,7 @@
 layout: term
 title: banket
 slug: banket
+letter: B
 lisan: Fransızca banquette
 anlamlar:
 - Şehirler arası yolların iki tarafında yayaların yürümesine ve taşıtların trafiği aksatmadan durabilmesine yarayan çakıl veya toprak yol

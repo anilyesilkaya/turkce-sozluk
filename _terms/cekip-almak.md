@@ -2,6 +2,7 @@
 layout: term
 title: çekip almak
 slug: cekip-almak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - uzaklaştırmak, uğraşısına son vermek, koparmak

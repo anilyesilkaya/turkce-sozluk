@@ -2,6 +2,7 @@
 layout: term
 title: Asyalı
 slug: asyali
+letter: A
 lisan: Türkçe
 anlamlar:
 - Asya'da yaşayan kimse

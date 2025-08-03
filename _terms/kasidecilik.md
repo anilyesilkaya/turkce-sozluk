@@ -2,6 +2,7 @@
 layout: term
 title: kasidecilik
 slug: kasidecilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kasidecinin yaptığı iş

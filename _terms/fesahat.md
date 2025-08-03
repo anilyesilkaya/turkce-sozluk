@@ -2,6 +2,7 @@
 layout: term
 title: fesahat
 slug: fesahat
+letter: F
 lisan: Arapça feṣāḥat
 anlamlar:
 - Kurallı, etkileyici, heyecan verici, inandırıcı, sanatlı söz söyleme

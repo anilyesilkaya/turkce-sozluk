@@ -2,6 +2,7 @@
 layout: term
 title: o duvar senin, bu duvar benim
 slug: o-duvar-senin-bu-duvar-benim
+letter: O
 lisan: Türkçe
 anlamlar:
 - birinin yalpalayacak kadar sarhoş olduğunu anlatan bir söz

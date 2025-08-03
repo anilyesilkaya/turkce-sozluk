@@ -2,6 +2,7 @@
 layout: term
 title: bir tuhaflık
 slug: bir-tuhaflik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bir hoşluk

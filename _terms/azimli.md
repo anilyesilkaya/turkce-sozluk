@@ -2,6 +2,7 @@
 layout: term
 title: azimli
 slug: azimli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Azmi olan

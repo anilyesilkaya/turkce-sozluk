@@ -2,6 +2,7 @@
 layout: term
 title: karnından konuşmak (veya söylemek)
 slug: karnindan-konusmak-veya-soylemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - üstü kapalı konuşmak, düşüncelerini açık söylememek

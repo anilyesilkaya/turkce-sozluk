@@ -2,6 +2,7 @@
 layout: term
 title: muhalefet şerhi
 slug: muhalefet-serhi
+letter: M
 lisan: Türkçe
 anlamlar:
 - Karşı olma yazısı, muhalefet gerekçesi

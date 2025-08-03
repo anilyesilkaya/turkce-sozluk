@@ -2,6 +2,7 @@
 layout: term
 title: faça façaya
 slug: faca-facaya
+letter: F
 lisan: Türkçe
 anlamlar:
 - Karşı karşıya, yüz yüze olarak

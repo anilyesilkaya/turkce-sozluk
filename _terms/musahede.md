@@ -2,6 +2,7 @@
 layout: term
 title: müşahede
 slug: musahede
+letter: M
 lisan: Arapça muşāhede
 anlamlar:
 - ► görme

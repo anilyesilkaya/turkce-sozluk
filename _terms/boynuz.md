@@ -2,6 +2,7 @@
 layout: term
 title: boynuz
 slug: boynuz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bazı hayvanların başında bulunan, tırnaksı bir maddeden, uzun, kıvrık veya çatallı korunma organı

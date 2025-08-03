@@ -2,6 +2,7 @@
 layout: term
 title: hayal gibi
 slug: hayal-gibi
+letter: H
 lisan: Türkçe
 anlamlar:
 - ince, zarif olan

@@ -2,6 +2,7 @@
 layout: term
 title: lime lime
 slug: lime-lime
+letter: L
 lisan: Türkçe
 anlamlar:
 - ► parça parça

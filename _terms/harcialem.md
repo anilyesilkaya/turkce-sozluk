@@ -2,6 +2,7 @@
 layout: term
 title: harcıâlem
 slug: harcialem
+letter: H
 lisan: Arapça ḫarc + ʿālem
 anlamlar:
 - Herkesin alabileceği, herkesin kullanabileceği, herkesin işine yarayan, her keseye uygun

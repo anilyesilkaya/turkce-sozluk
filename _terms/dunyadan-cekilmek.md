@@ -2,6 +2,7 @@
 layout: term
 title: dünyadan çekilmek
 slug: dunyadan-cekilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - ölmek, hayatı son bulmak

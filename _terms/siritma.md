@@ -2,6 +2,7 @@
 layout: term
 title: sırıtma
 slug: siritma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sırıtmak işi

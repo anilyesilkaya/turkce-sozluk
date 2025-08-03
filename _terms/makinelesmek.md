@@ -2,6 +2,7 @@
 layout: term
 title: makineleşmek
 slug: makinelesmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - Üretimde makine gücünden, giderek daha çok yararlanmak

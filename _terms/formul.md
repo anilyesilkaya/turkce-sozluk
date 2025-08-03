@@ -2,6 +2,7 @@
 layout: term
 title: formül
 slug: formul
+letter: F
 lisan: Fransızca formule
 anlamlar:
 - Genel bir olguyu, bir kuralı veya ilkeyi açıklayan simgeler takımı

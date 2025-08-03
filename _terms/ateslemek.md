@@ -2,6 +2,7 @@
 layout: term
 title: ateşlemek
 slug: ateslemek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir şeyi tutuşturup yakmak

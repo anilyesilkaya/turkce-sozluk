@@ -2,6 +2,7 @@
 layout: term
 title: şeflik
 slug: seflik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şef olma durumu

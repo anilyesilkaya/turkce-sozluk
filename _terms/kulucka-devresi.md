@@ -2,6 +2,7 @@
 layout: term
 title: 'kuluçka devresi '
 slug: kulucka-devresi
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kuluçka dönemi

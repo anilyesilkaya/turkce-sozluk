@@ -2,6 +2,7 @@
 layout: term
 title: orman evi
 slug: orman-evi
+letter: O
 lisan: Türkçe
 anlamlar:
 - Orman muhafaza memurunun evi

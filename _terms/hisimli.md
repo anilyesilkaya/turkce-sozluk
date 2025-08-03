@@ -2,6 +2,7 @@
 layout: term
 title: hışımlı
 slug: hisimli
+letter: H
 lisan: Türkçe
 anlamlar:
 - Öfkeli, kızgın, sinirli

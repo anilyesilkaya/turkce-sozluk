@@ -2,6 +2,7 @@
 layout: term
 title: çevre
 slug: cevre
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir şeyin yakını, dolayı; etraf, periferi

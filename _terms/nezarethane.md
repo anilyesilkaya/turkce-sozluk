@@ -2,6 +2,7 @@
 layout: term
 title: nezarethane
 slug: nezarethane
+letter: N
 lisan: Arapça neẓāret + Farsça ḫāne
 anlamlar:
 - Gözaltına alınan kimselerin karakolda konulduğu yer; nezaret

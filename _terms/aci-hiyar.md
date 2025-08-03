@@ -2,6 +2,7 @@
 layout: term
 title: acı hıyar
 slug: aci-hiyar
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► it hıyarı

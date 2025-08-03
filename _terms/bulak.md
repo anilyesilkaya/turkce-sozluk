@@ -2,6 +2,7 @@
 layout: term
 title: bulak
 slug: bulak
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► pınar

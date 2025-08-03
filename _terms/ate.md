@@ -2,6 +2,7 @@
 layout: term
 title: ate
 slug: ate
+letter: A
 lisan: Fransızca athée
 anlamlar:
 - ► tanrıtanımaz

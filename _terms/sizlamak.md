@@ -2,6 +2,7 @@
 layout: term
 title: sızlamak
 slug: sizlamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Hafifçe ağrımak

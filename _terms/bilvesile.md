@@ -2,6 +2,7 @@
 layout: term
 title: bilvesile
 slug: bilvesile
+letter: B
 lisan: Arapça bi’l-vesįle
 anlamlar:
 - Bu vesile ile, yeri gelmişken

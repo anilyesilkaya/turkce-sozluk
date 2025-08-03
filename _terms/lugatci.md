@@ -2,6 +2,7 @@
 layout: term
 title: lügatçi
 slug: lugatci
+letter: L
 lisan: Türkçe
 anlamlar:
 - ► sözlükçü

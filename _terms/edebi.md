@@ -2,6 +2,7 @@
 layout: term
 title: edebî
 slug: edebi
+letter: E
 lisan: Arapça edebī
 anlamlar:
 - Edebiyatla ilgili, edebiyata ilişkin; yazınsal

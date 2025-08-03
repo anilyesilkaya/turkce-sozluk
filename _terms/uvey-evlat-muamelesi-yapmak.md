@@ -2,6 +2,7 @@
 layout: term
 title: üvey evlat muamelesi yapmak
 slug: uvey-evlat-muamelesi-yapmak
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - dışlamak

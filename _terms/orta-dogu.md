@@ -2,6 +2,7 @@
 layout: term
 title: Orta Doğu
 slug: orta-dogu
+letter: O
 lisan: Türkçe
 anlamlar:
 - Güneybatı Asya'da, tarihsel ve kültürel yakınlığı olan ülkelerin oluşturduğu coğrafi bölge; Orta Şark

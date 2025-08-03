@@ -2,6 +2,7 @@
 layout: term
 title: bankerlik
 slug: bankerlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Banker olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: içinden kan gitmek
 slug: icinden-kan-gitmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - içi kan ağlamak

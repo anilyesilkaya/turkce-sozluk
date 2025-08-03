@@ -2,6 +2,7 @@
 layout: term
 title: evrak çantası
 slug: evrak-cantasi
+letter: E
 lisan: Türkçe
 anlamlar:
 - İçinde belge veya dosya bulunan ve taşınabilen, kösele, deri, kumaş vb. yapılan özel kap; cilbent, serviyet

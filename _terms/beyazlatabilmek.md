@@ -2,6 +2,7 @@
 layout: term
 title: beyazlatabilmek
 slug: beyazlatabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beyazlatma ihtimali veya imkânı bulunmak; ağartabilmek

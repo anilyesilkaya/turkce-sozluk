@@ -2,6 +2,7 @@
 layout: term
 title: önayak
 slug: onayak
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - '"Diğerlerine örnek olmak üzere bir işe ilk önce başlamak" anlamındaki önayak olmak deyiminde geçer'

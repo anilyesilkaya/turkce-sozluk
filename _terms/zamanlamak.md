@@ -2,6 +2,7 @@
 layout: term
 title: zamanlamak
 slug: zamanlamak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Bir konuda en iyi sonucu almak için en iyi, en uygun süreyi belirlemek

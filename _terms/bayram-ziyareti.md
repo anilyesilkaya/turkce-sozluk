@@ -2,6 +2,7 @@
 layout: term
 title: bayram ziyareti
 slug: bayram-ziyareti
+letter: B
 lisan: Türkçe
 anlamlar:
 - Dinî bayram günlerinde, bayramı kutlamak için yapılan kısa ziyaret; bayram tebriği

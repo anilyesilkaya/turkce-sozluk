@@ -2,6 +2,7 @@
 layout: term
 title: Latin çiçeğigiller
 slug: latin-cicegigiller
+letter: L
 lisan: Türkçe
 anlamlar:
 - İki çeneklilerden, örneği Latin çiçeği olan bir familya

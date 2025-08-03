@@ -2,6 +2,7 @@
 layout: term
 title: berzah
 slug: berzah
+letter: B
 lisan: Arapça berzaḫ
 anlamlar:
 - Dinî inanışlara göre dünya ile ahiret arasında ruhların kıyameti bekledikleri yer

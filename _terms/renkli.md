@@ -2,6 +2,7 @@
 layout: term
 title: renkli
 slug: renkli
+letter: R
 lisan: Türkçe
 anlamlar:
 - Rengi olan

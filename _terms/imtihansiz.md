@@ -2,6 +2,7 @@
 layout: term
 title: imtihansız
 slug: imtihansiz
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► sınavsız

@@ -2,6 +2,7 @@
 layout: term
 title: dışa dönük
 slug: disa-donuk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dışla ilişkisi olan

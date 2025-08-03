@@ -2,6 +2,7 @@
 layout: term
 title: işitmezlik
 slug: isitmezlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İşitmez olma durumu

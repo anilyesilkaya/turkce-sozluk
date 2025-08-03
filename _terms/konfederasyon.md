@@ -2,6 +2,7 @@
 layout: term
 title: konfederasyon
 slug: konfederasyon
+letter: K
 lisan: Fransızca confédération
 anlamlar:
 - Birden fazla ülkenin genellikle dış işleri ve savunma alanlarında federasyona göre biraz daha ılımlı bir bağımlılık içinde ortak politika ve yönetim izleyip diğer alanlarda ise bölgesel yönetimlerinde serbest bulundukları devletler topluluğu

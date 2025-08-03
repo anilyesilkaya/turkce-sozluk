@@ -2,6 +2,7 @@
 layout: term
 title: diklenmek
 slug: diklenmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Birinin söylediklerine veya yaptıklarına karşı gelmek; dikelmek, dinelmek

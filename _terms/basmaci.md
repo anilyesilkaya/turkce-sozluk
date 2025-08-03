@@ -2,6 +2,7 @@
 layout: term
 title: basmacı
 slug: basmaci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Basma yapan veya satan kimse

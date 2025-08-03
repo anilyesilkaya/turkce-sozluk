@@ -2,6 +2,7 @@
 layout: term
 title: telaffuz organları
 slug: telaffuz-organlari
+letter: T
 lisan: Türkçe
 anlamlar:
 - Seslerin söz durumuna gelmesini sağlayan organlar

@@ -2,6 +2,7 @@
 layout: term
 title: coşkulandırabilmek
 slug: coskulandirabilmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - Coşkulandırma ihtimali veya imkânı bulunmak

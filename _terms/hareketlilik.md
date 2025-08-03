@@ -2,6 +2,7 @@
 layout: term
 title: hareketlilik
 slug: hareketlilik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hareketli olma durumu; dalga, devingenlik

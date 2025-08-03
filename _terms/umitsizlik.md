@@ -2,6 +2,7 @@
 layout: term
 title: ümitsizlik
 slug: umitsizlik
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - ► umutsuzluk

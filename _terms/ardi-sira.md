@@ -2,6 +2,7 @@
 layout: term
 title: ardı sıra
 slug: ardi-sira
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► ardınca

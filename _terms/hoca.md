@@ -2,6 +2,7 @@
 layout: term
 title: hoca
 slug: hoca
+letter: H
 lisan: Farsça ḫvāce
 anlamlar:
 - Müslümanlıkta din görevlisi

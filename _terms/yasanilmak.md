@@ -2,6 +2,7 @@
 layout: term
 title: yaşanılmak
 slug: yasanilmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Herhangi bir kimse yaşamak

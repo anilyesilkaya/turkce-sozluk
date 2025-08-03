@@ -2,6 +2,7 @@
 layout: term
 title: dünya varmış
 slug: dunya-varmis
+letter: D
 lisan: Türkçe
 anlamlar:
 - sıkıntılı bir durumdan kurtulan kimsenin söylediği söz

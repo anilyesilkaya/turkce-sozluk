@@ -2,6 +2,7 @@
 layout: term
 title: mütefekkir
 slug: mutefekkir
+letter: M
 lisan: Arapça mutefekkir
 anlamlar:
 - ► düşünür

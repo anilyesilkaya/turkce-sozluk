@@ -2,6 +2,7 @@
 layout: term
 title: hayrola
 slug: hayrola
+letter: H
 lisan: Türkçe
 anlamlar:
 - '"Ne var, ne oluyor" anlamında kullanılan bir söz'

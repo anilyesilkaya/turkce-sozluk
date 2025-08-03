@@ -2,6 +2,7 @@
 layout: term
 title: muhtelif
 slug: muhtelif
+letter: M
 lisan: Arapça muḫtelif
 anlamlar:
 - ► çeşitli

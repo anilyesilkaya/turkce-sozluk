@@ -2,6 +2,7 @@
 layout: term
 title: köşe bucak kaçmak (veya saklanmak)
 slug: kose-bucak-kacmak-veya-saklanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kimseye görünmek istememek

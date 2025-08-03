@@ -2,6 +2,7 @@
 layout: term
 title: dönüşüm
 slug: donusum
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir durumdan başka bir duruma geçme; şekil değiştirme, tahavvül, transformasyon

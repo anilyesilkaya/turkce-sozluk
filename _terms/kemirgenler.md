@@ -2,6 +2,7 @@
 layout: term
 title: kemirgenler
 slug: kemirgenler
+letter: K
 lisan: Türkçe
 anlamlar:
 - Tavşan, kobay, kirpi, sıçan ve kunduz gibi köpek dişleri olmayan ve kesici dişleri iyi gelişmiş memeliler takımı; kemiriciler

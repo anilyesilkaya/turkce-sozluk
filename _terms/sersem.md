@@ -2,6 +2,7 @@
 layout: term
 title: sersem
 slug: sersem
+letter: S
 lisan: Farsça sersām
 anlamlar:
 - Herhangi bir sebeple bilinci ve algıları zayıflamış olan

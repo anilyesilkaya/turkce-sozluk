@@ -2,6 +2,7 @@
 layout: term
 title: kuyruğu sıkışmak (veya kapana kısılmak)
 slug: kuyrugu-sikismak-veya-kapana-kisilmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - çok zor durumu düşmek

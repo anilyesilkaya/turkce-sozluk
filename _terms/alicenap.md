@@ -2,6 +2,7 @@
 layout: term
 title: alicenap
 slug: alicenap
+letter: A
 lisan: Arapça ʿālī + cenāb
 anlamlar:
 - ► cömert

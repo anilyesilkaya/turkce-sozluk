@@ -2,6 +2,7 @@
 layout: term
 title: ondurmak
 slug: ondurmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - İyileştirmek, şifa vermek

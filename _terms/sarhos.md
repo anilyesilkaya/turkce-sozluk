@@ -2,6 +2,7 @@
 layout: term
 title: sarhoş
 slug: sarhos
+letter: S
 lisan: Farsça ser + ḫoş
 anlamlar:
 - Alkollü içki veya keyif verici bir madde sebebiyle kendini bilmeyecek durumda olan (kimse); esrik, başı dumanlı, demci, dumanlı, kafası bulutlu, kafası iyi, kafası dumanlı, kafası kıyak, mest (I), sermest

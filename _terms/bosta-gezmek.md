@@ -2,6 +2,7 @@
 layout: term
 title: boşta gezmek
 slug: bosta-gezmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - işsiz olmak

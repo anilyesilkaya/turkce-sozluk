@@ -2,6 +2,7 @@
 layout: term
 title: neşide
 slug: neside
+letter: N
 lisan: Arapça neşīde
 anlamlar:
 - Bir toplulukta okunmaya değer şiir

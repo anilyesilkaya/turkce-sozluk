@@ -2,6 +2,7 @@
 layout: term
 title: ikon
 slug: ikon
+letter: I
 lisan: Fransızca icône
 anlamlar:
 - Bir programı, veriyi, görüntüyü veya filmi simgeleyen ekran üzerindeki resimcik

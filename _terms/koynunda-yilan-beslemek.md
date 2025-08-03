@@ -2,6 +2,7 @@
 layout: term
 title: koynunda yılan beslemek
 slug: koynunda-yilan-beslemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir yakınından ihanet görmek

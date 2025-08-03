@@ -2,6 +2,7 @@
 layout: term
 title: döviz
 slug: doviz
+letter: D
 lisan: Fransızca devise
 anlamlar:
 - Ülkeler arası ödemelerde kullanılabilecek para, çek, poliçe vb. her türlü ödeme aracı

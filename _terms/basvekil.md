@@ -2,6 +2,7 @@
 layout: term
 title: başvekil
 slug: basvekil
+letter: B
 lisan: Türkçe baş + Arapça vekīl
 anlamlar:
 - ► başbakan

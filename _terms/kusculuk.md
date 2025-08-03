@@ -2,6 +2,7 @@
 layout: term
 title: kuşçuluk
 slug: kusculuk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kuşçunun işi

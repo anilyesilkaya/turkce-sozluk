@@ -2,6 +2,7 @@
 layout: term
 title: cırlayık
 slug: cirlayik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Örümcek kuşugillerden, ormanlık, çalılık yerlerde yaşayan, güzel öten bir kuş (Lanius)

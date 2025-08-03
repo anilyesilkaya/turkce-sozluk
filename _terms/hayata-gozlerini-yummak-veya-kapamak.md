@@ -2,6 +2,7 @@
 layout: term
 title: hayata gözlerini yummak (veya kapamak)
 slug: hayata-gozlerini-yummak-veya-kapamak
+letter: H
 lisan: Türkçe
 anlamlar:
 - ölmek

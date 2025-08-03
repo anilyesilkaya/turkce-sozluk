@@ -2,6 +2,7 @@
 layout: term
 title: içgüdü
 slug: icgudu
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bir canlı türünün bütün bireylerinde akıl ve düşünceden bağımsız olarak doğuştan gelen bilinçsiz her türlü hareket ve davranış; insiyak, sevkitabii

@@ -2,6 +2,7 @@
 layout: term
 title: eş dizimlilik
 slug: es-dizimlilik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Anlam ve söz dizimi bakımından birbirleriyle yakından ilişkili, belli bir kullanım sıklığına sahip iki veya daha çok dil biriminin aynı dizimde kullanılması

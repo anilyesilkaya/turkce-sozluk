@@ -2,6 +2,7 @@
 layout: term
 title: lifleme
 slug: lifleme
+letter: L
 lisan: Türkçe
 anlamlar:
 - Liflemek işi

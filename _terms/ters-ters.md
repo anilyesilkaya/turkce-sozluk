@@ -2,6 +2,7 @@
 layout: term
 title: ters ters
 slug: ters-ters
+letter: T
 lisan: Türkçe
 anlamlar:
 - Uygun olmayan

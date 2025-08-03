@@ -2,6 +2,7 @@
 layout: term
 title: ruhanilik
 slug: ruhanilik
+letter: R
 lisan: Türkçe
 anlamlar:
 - Ruhani olma durumu

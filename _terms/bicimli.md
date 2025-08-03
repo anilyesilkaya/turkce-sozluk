@@ -2,6 +2,7 @@
 layout: term
 title: biçimli
 slug: bicimli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Herhangi bir biçimde olan; şekilli

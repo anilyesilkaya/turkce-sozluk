@@ -2,6 +2,7 @@
 layout: term
 title: agreman
 slug: agreman
+letter: A
 lisan: Fransızca agrément
 anlamlar:
 - ► uygunluk

@@ -2,6 +2,7 @@
 layout: term
 title: bütünlemeye kalmak
 slug: butunlemeye-kalmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir öğrenci yarıyıl veya öğretim yılı sonunda derslerinde başarısızlığa uğramak; ikmale kalmak

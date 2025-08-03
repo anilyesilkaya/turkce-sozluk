@@ -2,6 +2,7 @@
 layout: term
 title: kudümzen
 slug: kudumzen
+letter: K
 lisan: Arapça ḳudūm + Farsça -zen
 anlamlar:
 - Kudüm çalan

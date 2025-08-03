@@ -2,6 +2,7 @@
 layout: term
 title: amiralbattı
 slug: amiralbatti
+letter: A
 lisan: Türkçe
 anlamlar:
 - En az iki kişiyle oynanan, karelerden oluşan zemin üzerine yerleştirilmiş karşılıklı on geminin kuralara dayalı hamlelerle isabet ettirilmesine dayalı zekâ ve strateji oyunu

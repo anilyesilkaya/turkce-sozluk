@@ -2,6 +2,7 @@
 layout: term
 title: eklemek
 slug: eklemek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Bir şeyi ekle tamamlamak; beslemek, koymak, ulamak, ilave etmek

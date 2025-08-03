@@ -2,6 +2,7 @@
 layout: term
 title: iğde
 slug: igde
+letter: I
 lisan: Türkçe
 anlamlar:
 - İğdegillerden, kokulu, sarı çiçekleri olan, çalı biçiminde bir ağaç (Elaeagnus)

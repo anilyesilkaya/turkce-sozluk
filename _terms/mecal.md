@@ -2,6 +2,7 @@
 layout: term
 title: mecal
 slug: mecal
+letter: M
 lisan: Arapça mecāl
 anlamlar:
 - ► takat

@@ -2,6 +2,7 @@
 layout: term
 title: naçar kalmak
 slug: nacar-kalmak
+letter: N
 lisan: Türkçe
 anlamlar:
 - çare, çıkar yol bulamamak

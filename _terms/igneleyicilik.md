@@ -2,6 +2,7 @@
 layout: term
 title: iğneleyicilik
 slug: igneleyicilik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İğneleyici olma durumu

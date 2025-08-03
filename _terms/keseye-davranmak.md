@@ -2,6 +2,7 @@
 layout: term
 title: keseye davranmak
 slug: keseye-davranmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - ödemek istemek

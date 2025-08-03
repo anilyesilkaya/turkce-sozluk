@@ -2,6 +2,7 @@
 layout: term
 title: yumuşakça
 slug: yumusakca
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yumuşak vücutlu, omurgasız hayvan

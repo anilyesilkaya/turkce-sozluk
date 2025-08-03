@@ -2,6 +2,7 @@
 layout: term
 title: açık ordugâh
 slug: acik-ordugah
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kırda kurulan ordugâh

@@ -2,6 +2,7 @@
 layout: term
 title: zırdelilik
 slug: zirdelilik
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zırdeli olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: pürüzsüz
 slug: puruzsuz
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pürüzü olmayan

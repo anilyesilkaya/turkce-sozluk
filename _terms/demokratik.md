@@ -2,6 +2,7 @@
 layout: term
 title: demokratik
 slug: demokratik
+letter: D
 lisan: Fransızca démocratique
 anlamlar:
 - Demokrasiye uygun

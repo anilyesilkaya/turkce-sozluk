@@ -2,6 +2,7 @@
 layout: term
 title: kanon
 slug: kanon
+letter: K
 lisan: Fransızca canon
 anlamlar:
 - Herhangi bir konuda otoritelerinin belirlediği seçimler bütünü

@@ -2,6 +2,7 @@
 layout: term
 title: süründürmek
 slug: surundurmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sürünme işini yaptırmak, sürünmesine sebep olmak

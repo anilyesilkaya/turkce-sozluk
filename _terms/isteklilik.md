@@ -2,6 +2,7 @@
 layout: term
 title: isteklilik
 slug: isteklilik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İstekli olma durumu; arzululuk, heveslilik, heveskârlık, talepkârlık

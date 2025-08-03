@@ -2,6 +2,7 @@
 layout: term
 title: ıvır zıvır
 slug: ivir-zivir
+letter: I
 lisan: Türkçe
 anlamlar:
 - Küçük, önemsiz

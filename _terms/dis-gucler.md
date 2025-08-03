@@ -2,6 +2,7 @@
 layout: term
 title: dış güçler
 slug: dis-gucler
+letter: D
 lisan: Türkçe
 anlamlar:
 - Ekonomi ve politika açısından güçlü devletler

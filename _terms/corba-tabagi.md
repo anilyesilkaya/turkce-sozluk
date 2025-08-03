@@ -2,6 +2,7 @@
 layout: term
 title: çorba tabağı
 slug: corba-tabagi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çorba konmak için yapılan özel tabak

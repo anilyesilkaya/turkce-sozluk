@@ -2,6 +2,7 @@
 layout: term
 title: takışma
 slug: takisma
+letter: T
 lisan: Türkçe
 anlamlar:
 - Takışmak işi

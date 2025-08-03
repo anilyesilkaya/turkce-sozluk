@@ -2,6 +2,7 @@
 layout: term
 title: benimseniverme
 slug: benimseniverme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Benimsenivermek işi

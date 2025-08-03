@@ -2,6 +2,7 @@
 layout: term
 title: Allah'ın hikmeti
 slug: allah-in-hikmeti
+letter: A
 lisan: Türkçe
 anlamlar:
 - beklenmeyen, sebebi anlaşılmayan veya şaşılan şeyler için kullanılan bir söz

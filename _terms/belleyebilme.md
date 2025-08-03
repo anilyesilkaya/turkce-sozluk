@@ -2,6 +2,7 @@
 layout: term
 title: belleyebilme
 slug: belleyebilme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belleyebilmek işi

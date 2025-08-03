@@ -2,6 +2,7 @@
 layout: term
 title: dram
 slug: dram
+letter: D
 lisan: Fransızca drame
 anlamlar:
 - Sahnede oynanmak için yazılmış oyun; drama

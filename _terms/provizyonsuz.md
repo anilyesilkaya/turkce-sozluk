@@ -2,6 +2,7 @@
 layout: term
 title: provizyonsuz
 slug: provizyonsuz
+letter: P
 lisan: Türkçe
 anlamlar:
 - Bankada karşılığı olmayan, karşılıksız (çek)

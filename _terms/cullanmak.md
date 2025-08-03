@@ -2,6 +2,7 @@
 layout: term
 title: çullanmak
 slug: cullanmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Alta almak için birinin üzerine abanmak

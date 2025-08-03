@@ -2,6 +2,7 @@
 layout: term
 title: babaevi
 slug: babaevi
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► baba ocağı

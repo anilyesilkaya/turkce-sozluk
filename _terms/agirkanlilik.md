@@ -2,6 +2,7 @@
 layout: term
 title: ağırkanlılık
 slug: agirkanlilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağırkanlı olma durumu

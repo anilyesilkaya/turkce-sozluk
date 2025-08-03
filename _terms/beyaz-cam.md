@@ -2,6 +2,7 @@
 layout: term
 title: beyaz cam
 slug: beyaz-cam
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► televizyon

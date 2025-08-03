@@ -2,6 +2,7 @@
 layout: term
 title: merbutiyet
 slug: merbutiyet
+letter: M
 lisan: Arapça merbūṭiyyet
 anlamlar:
 - ► bağlılık

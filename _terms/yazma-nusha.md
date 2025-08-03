@@ -2,6 +2,7 @@
 layout: term
 title: yazma nüsha
 slug: yazma-nusha
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yazma (I)

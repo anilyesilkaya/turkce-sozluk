@@ -2,6 +2,7 @@
 layout: term
 title: satış
 slug: satis
+letter: S
 lisan: Türkçe
 anlamlar:
 - Satmak işi; bey (II)

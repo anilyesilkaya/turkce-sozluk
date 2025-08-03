@@ -2,6 +2,7 @@
 layout: term
 title: edepsiz
 slug: edepsiz
+letter: E
 lisan: Türkçe
 anlamlar:
 - Utanılacak işleri sıkılmadan yapan, utanmaz, sıkılmaz, terbiyesiz (kimse)

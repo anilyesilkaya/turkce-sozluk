@@ -2,6 +2,7 @@
 layout: term
 title: zenginlenmek
 slug: zenginlenmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► zenginleşmek

@@ -2,6 +2,7 @@
 layout: term
 title: sataşma
 slug: satasma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sataşmak işi

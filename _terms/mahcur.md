@@ -2,6 +2,7 @@
 layout: term
 title: mahcur
 slug: mahcur
+letter: M
 lisan: Arapça maḥcūr
 anlamlar:
 - ► kısıtlı

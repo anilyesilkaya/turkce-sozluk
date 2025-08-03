@@ -2,6 +2,7 @@
 layout: term
 title: çıyan
 slug: ciyan
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çok ayaklılardan, sarımtırak renkte, zehirli bir böcek (Scolopendra)

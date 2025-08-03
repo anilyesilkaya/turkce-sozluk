@@ -2,6 +2,7 @@
 layout: term
 title: diş çıkarmak
 slug: dis-cikarmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - çene kemikleri içinde bulunan diş, diş etini deldikten sonra ağız boşluğuna doğru sivrilmek

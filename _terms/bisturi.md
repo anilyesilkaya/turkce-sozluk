@@ -2,6 +2,7 @@
 layout: term
 title: bisturi
 slug: bisturi
+letter: B
 lisan: Fransızca bistouri
 anlamlar:
 - ► neşter

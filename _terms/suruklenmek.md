@@ -2,6 +2,7 @@
 layout: term
 title: sürüklenmek
 slug: suruklenmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sürükleme işi yapılmak veya sürükleme işine konu olmak; kapılmak

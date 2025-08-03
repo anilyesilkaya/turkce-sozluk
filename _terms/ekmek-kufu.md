@@ -2,6 +2,7 @@
 layout: term
 title: ekmek küfü
 slug: ekmek-kufu
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ekmek, peynir vb. besinler üzerinde doğal olarak gelişen asklı mantar (Penicillium crustaceum)

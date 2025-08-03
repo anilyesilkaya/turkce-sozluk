@@ -2,6 +2,7 @@
 layout: term
 title: düşüş
 slug: dusus
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düşmek işi

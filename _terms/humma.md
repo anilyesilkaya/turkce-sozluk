@@ -2,6 +2,7 @@
 layout: term
 title: humma
 slug: humma
+letter: H
 lisan: Arapça ḥummā
 anlamlar:
 - Hastalıkla gelen şiddetli ateş

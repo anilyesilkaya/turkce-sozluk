@@ -2,6 +2,7 @@
 layout: term
 title: çavdar
 slug: cavdar
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Buğdaygillerden, unlu tane veren bir bitki (Secale cereale)

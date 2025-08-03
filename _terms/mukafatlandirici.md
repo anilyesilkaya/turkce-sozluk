@@ -2,6 +2,7 @@
 layout: term
 title: mükâfatlandırıcı
 slug: mukafatlandirici
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► ödüllendirici

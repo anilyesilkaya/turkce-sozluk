@@ -2,6 +2,7 @@
 layout: term
 title: yerleştirmek
 slug: yerlestirmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yerleşmesini sağlamak

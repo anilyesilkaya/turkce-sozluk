@@ -2,6 +2,7 @@
 layout: term
 title: hilalî
 slug: hilali
+letter: H
 lisan: Arapça hilālī
 anlamlar:
 - Hilal biçiminde olan

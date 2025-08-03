@@ -2,6 +2,7 @@
 layout: term
 title: endam
 slug: endam
+letter: E
 lisan: Farsça endām
 anlamlar:
 - ► boy pos

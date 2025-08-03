@@ -2,6 +2,7 @@
 layout: term
 title: miskin
 slug: miskin
+letter: M
 lisan: Arapça miskīn
 anlamlar:
 - Çok uyuşuk olan (kimse)

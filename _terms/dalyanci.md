@@ -2,6 +2,7 @@
 layout: term
 title: dalyancı
 slug: dalyanci
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dalyan sahibi olan kimse

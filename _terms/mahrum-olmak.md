@@ -2,6 +2,7 @@
 layout: term
 title: mahrum olmak
 slug: mahrum-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - yoksun kalmak

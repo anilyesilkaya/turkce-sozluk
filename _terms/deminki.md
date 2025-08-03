@@ -2,6 +2,7 @@
 layout: term
 title: deminki
 slug: deminki
+letter: D
 lisan: Türkçe
 anlamlar:
 - Biraz önce adı geçen, biraz önce olan, biraz önce yapılan

@@ -2,6 +2,7 @@
 layout: term
 title: tekere çomak sokmak
 slug: tekere-comak-sokmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - birinin yolunda giden işini aksatan, engelleyen davranışta bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: güvence
 slug: guvence
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güvenilecek şey

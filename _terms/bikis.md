@@ -2,6 +2,7 @@
 layout: term
 title: bıkış
 slug: bikis
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bıkmak işi

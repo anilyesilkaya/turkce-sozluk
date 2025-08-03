@@ -2,6 +2,7 @@
 layout: term
 title: doğrama
 slug: dograma
+letter: D
 lisan: Türkçe
 anlamlar:
 - Doğramak işi

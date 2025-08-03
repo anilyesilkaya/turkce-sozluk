@@ -2,6 +2,7 @@
 layout: term
 title: demirsizlik
 slug: demirsizlik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Kanda beliren demir yetersizliği

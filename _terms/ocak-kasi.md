@@ -2,6 +2,7 @@
 layout: term
 title: ocak kaşı
 slug: ocak-kasi
+letter: O
 lisan: Türkçe
 anlamlar:
 - Ocağın içinde üstüne kazan, tencere oturtmaya yarayan yer

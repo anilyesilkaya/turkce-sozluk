@@ -2,6 +2,7 @@
 layout: term
 title: zindelik
 slug: zindelik
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► dirilik

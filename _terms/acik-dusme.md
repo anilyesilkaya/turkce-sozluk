@@ -2,6 +2,7 @@
 layout: term
 title: açık düşme
 slug: acik-dusme
+letter: A
 lisan: Türkçe
 anlamlar:
 - Açık düşmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: iyi yürekli
 slug: iyi-yurekli
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► iyi kalpli

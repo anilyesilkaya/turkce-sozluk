@@ -2,6 +2,7 @@
 layout: term
 title: velilik
 slug: velilik
+letter: V
 lisan: Türkçe
 anlamlar:
 - Veli olma durumu; velayet

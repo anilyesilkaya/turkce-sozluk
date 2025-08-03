@@ -2,6 +2,7 @@
 layout: term
 title: avunulmak
 slug: avunulmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Avunma işi yapılmak

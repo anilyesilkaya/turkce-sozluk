@@ -2,6 +2,7 @@
 layout: term
 title: şişirtmek
 slug: sisirtmek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şişirme işini yaptırmak

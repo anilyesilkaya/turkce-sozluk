@@ -2,6 +2,7 @@
 layout: term
 title: toplumcu gerçekçilik
 slug: toplumcu-gercekcilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Toplumsal olayları ve ilişkileri toplum bilimi açısından ele alarak hem gerçekçilik hem de gelişme süreci içinde irdeleyen roman türü

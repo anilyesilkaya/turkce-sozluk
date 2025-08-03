@@ -2,6 +2,7 @@
 layout: term
 title: benzeyişsizlik
 slug: benzeyissizlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Benzeşmemek durumu

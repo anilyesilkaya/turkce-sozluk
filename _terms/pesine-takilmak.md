@@ -2,6 +2,7 @@
 layout: term
 title: peşine takılmak
 slug: pesine-takilmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - ardından gitmek

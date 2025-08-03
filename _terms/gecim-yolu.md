@@ -2,6 +2,7 @@
 layout: term
 title: geçim yolu
 slug: gecim-yolu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Yaşamak için gereken kazancı sağlama aracı veya çaresi

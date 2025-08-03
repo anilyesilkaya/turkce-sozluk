@@ -2,6 +2,7 @@
 layout: term
 title: soruşturmak
 slug: sorusturmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Öğrenilmek istenilen şeyi birçok kişiye inceden inceye sormak

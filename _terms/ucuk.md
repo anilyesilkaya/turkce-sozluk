@@ -2,6 +2,7 @@
 layout: term
 title: uçuk
 slug: ucuk
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ateşli hastalıklar, ruhsal bunalımlar veya korku sonucu genellikle dudakta beliren kabarcık

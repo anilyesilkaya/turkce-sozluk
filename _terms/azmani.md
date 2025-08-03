@@ -2,6 +2,7 @@
 layout: term
 title: '... azmanı'
 slug: azmani
+letter: .
 lisan: Türkçe
 anlamlar:
 - '...nın çok gelişmişi, iri yapılısı'

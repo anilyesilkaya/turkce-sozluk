@@ -2,6 +2,7 @@
 layout: term
 title: öpücük
 slug: opucuk
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Sevgi göstermek için dudaklarıyla başka birisinin elini yüzünü öpme; öpüş, buse

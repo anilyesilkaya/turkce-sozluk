@@ -2,6 +2,7 @@
 layout: term
 title: borçlu bulunmak (veya olmak)
 slug: borclu-bulunmak-veya-olmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - borçlu duruma düşmek

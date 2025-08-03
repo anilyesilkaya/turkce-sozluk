@@ -2,6 +2,7 @@
 layout: term
 title: sokulganlık
 slug: sokulganlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sokulgan olma durumu

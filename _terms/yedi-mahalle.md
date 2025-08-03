@@ -2,6 +2,7 @@
 layout: term
 title: yedi mahalle
 slug: yedi-mahalle
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► herkes

@@ -2,6 +2,7 @@
 layout: term
 title: küsüşmek
 slug: kususmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Birbirine küsmek, karşılıklı darılmak

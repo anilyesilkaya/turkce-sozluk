@@ -2,6 +2,7 @@
 layout: term
 title: ruznameci
 slug: ruznameci
+letter: R
 lisan: Türkçe
 anlamlar:
 - Ruzname tutan kimse

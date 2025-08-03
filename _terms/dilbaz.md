@@ -2,6 +2,7 @@
 layout: term
 title: dilbaz
 slug: dilbaz
+letter: D
 lisan: Türkçe dil + Farsça -bāz
 anlamlar:
 - Güzel söz söyleyen, konuşmasıyla ikna eden

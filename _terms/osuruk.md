@@ -2,6 +2,7 @@
 layout: term
 title: osuruk
 slug: osuruk
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► yellenme

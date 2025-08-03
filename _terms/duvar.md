@@ -2,6 +2,7 @@
 layout: term
 title: duvar
 slug: duvar
+letter: D
 lisan: Farsça dīvār
 anlamlar:
 - Bir yapının yanlarını dışa karşı koruyan, iç bölümlerini birbirinden ayıran, taş, tuğla vb. gereçlerden yapılan veya örülen dikey düzlem; örek, cidar

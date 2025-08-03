@@ -2,6 +2,7 @@
 layout: term
 title: siftinmek
 slug: siftinmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Oyalanmak, vakit geçirmek

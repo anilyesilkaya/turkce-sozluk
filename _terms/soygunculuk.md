@@ -2,6 +2,7 @@
 layout: term
 title: soygunculuk
 slug: soygunculuk
+letter: S
 lisan: Türkçe
 anlamlar:
 - Soygun yapma

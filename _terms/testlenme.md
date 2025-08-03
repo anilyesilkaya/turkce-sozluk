@@ -2,6 +2,7 @@
 layout: term
 title: testlenme
 slug: testlenme
+letter: T
 lisan: Türkçe
 anlamlar:
 - Testlenmek işi

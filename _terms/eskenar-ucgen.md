@@ -2,6 +2,7 @@
 layout: term
 title: eşkenar üçgen
 slug: eskenar-ucgen
+letter: E
 lisan: Türkçe
 anlamlar:
 - Üç kenarı da birbirine eşit olan üçgen

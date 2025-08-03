@@ -2,6 +2,7 @@
 layout: term
 title: çıkarma
 slug: cikarma
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıkarmak işi; emisyon

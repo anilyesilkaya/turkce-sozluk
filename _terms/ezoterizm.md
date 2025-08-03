@@ -2,6 +2,7 @@
 layout: term
 title: ezoterizm
 slug: ezoterizm
+letter: E
 lisan: Fransızca ésotérisme
 anlamlar:
 - ► içreklik

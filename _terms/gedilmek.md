@@ -2,6 +2,7 @@
 layout: term
 title: gedilmek
 slug: gedilmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gedik olmak, gedik açılmak

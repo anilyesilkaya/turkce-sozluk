@@ -2,6 +2,7 @@
 layout: term
 title: yüreği yerinden oynamak
 slug: yuregi-yerinden-oynamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - birdenbire heyecanlanmak veya korkmak

@@ -2,6 +2,7 @@
 layout: term
 title: ayağı bağlı
 slug: ayagi-bagli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Serbest hareket edemeyen

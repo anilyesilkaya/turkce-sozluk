@@ -2,6 +2,7 @@
 layout: term
 title: mercimek
 slug: mercimek
+letter: M
 lisan: Farsça merdumek
 anlamlar:
 - Baklagillerden, beyaz çiçekli bir tarım bitkisi (Lens culinaris)

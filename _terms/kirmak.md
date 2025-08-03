@@ -2,6 +2,7 @@
 layout: term
 title: kırmak
 slug: kirmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sert şeyleri vurarak veya ezerek parçalamak

@@ -2,6 +2,7 @@
 layout: term
 title: asgari müşterek
 slug: asgari-musterek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Herkes tarafından kabul edilen nokta, üzerinde anlaşmaya varılan husus, uyuşulan konu; ortak payda

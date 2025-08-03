@@ -2,6 +2,7 @@
 layout: term
 title: kıyamete kadar
 slug: kiyamete-kadar
+letter: K
 lisan: Türkçe
 anlamlar:
 - dünya durdukça, uzun süre

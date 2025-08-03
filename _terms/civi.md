@@ -2,6 +2,7 @@
 layout: term
 title: çivi
 slug: civi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - İki şeyi birbirine tutturmak, bir nesneyi bir yere sabitlemek için çakılan, ucu sivri, başlı, metal veya ağaçtan yapılmış ufak çubuk; mıh

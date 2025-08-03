@@ -2,6 +2,7 @@
 layout: term
 title: üstübeç
 slug: ustubec
+letter: Ü
 lisan: Farsça isfįdāc’dan
 anlamlar:
 - Boyacılıkta kullanılan zehirli, bazik kurşun karbonat

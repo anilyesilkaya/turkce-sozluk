@@ -2,6 +2,7 @@
 layout: term
 title: doğru bildiği yoldan ayrılmamak (veya şaşmamak)
 slug: dogru-bildigi-yoldan-ayrilmamak-veya-sasmamak
+letter: D
 lisan: Türkçe
 anlamlar:
 - her ne olursa olsun inandığı ilkelere bağlı kalmak

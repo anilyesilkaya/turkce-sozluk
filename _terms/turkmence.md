@@ -2,6 +2,7 @@
 layout: term
 title: Türkmence
 slug: turkmence
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► Türkmen Türkçesi

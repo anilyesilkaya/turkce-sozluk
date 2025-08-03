@@ -2,6 +2,7 @@
 layout: term
 title: bok gibi
 slug: bok-gibi
+letter: B
 lisan: Türkçe
 anlamlar:
 - berbat, çok kötü, iğrenç

@@ -2,6 +2,7 @@
 layout: term
 title: ulaşma
 slug: ulasma
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ulaşmak işi

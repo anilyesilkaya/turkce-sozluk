@@ -2,6 +2,7 @@
 layout: term
 title: menfez
 slug: menfez
+letter: M
 lisan: Arapça menfeẕ
 anlamlar:
 - Girecek veya geçecek yer, delik

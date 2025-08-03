@@ -2,6 +2,7 @@
 layout: term
 title: karşı karşıya kalmak
 slug: karsi-karsiya-kalmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - istemediği bir durumla karşılaşmak

@@ -2,6 +2,7 @@
 layout: term
 title: besiye çekmek
 slug: besiye-cekmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - hayvanı semirtmek için beslemek

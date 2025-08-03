@@ -2,6 +2,7 @@
 layout: term
 title: çekmeli
 slug: cekmeli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çekmesi olan

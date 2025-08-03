@@ -2,6 +2,7 @@
 layout: term
 title: sudan bahane
 slug: sudan-bahane
+letter: S
 lisan: Türkçe
 anlamlar:
 - Baştan savma, inandırıcı olmaktan uzak bahane

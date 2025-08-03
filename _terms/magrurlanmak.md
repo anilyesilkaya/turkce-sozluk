@@ -2,6 +2,7 @@
 layout: term
 title: mağrurlanmak
 slug: magrurlanmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - Kurumlanmak(II), gururlanmak, kibirlenmek, kendini beğenmek

@@ -2,6 +2,7 @@
 layout: term
 title: dipli
 slug: dipli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dibi olan

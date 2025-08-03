@@ -2,6 +2,7 @@
 layout: term
 title: karışabilmek
 slug: karisabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karışma ihtimali veya imkânı bulunmak

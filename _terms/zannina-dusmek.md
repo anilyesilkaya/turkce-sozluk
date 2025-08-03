@@ -2,6 +2,7 @@
 layout: term
 title: zannına düşmek
 slug: zannina-dusmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - sanmak

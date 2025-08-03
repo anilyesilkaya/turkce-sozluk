@@ -2,6 +2,7 @@
 layout: term
 title: muteriz
 slug: muteriz
+letter: M
 lisan: Arapça muʿteriż
 anlamlar:
 - ► itirazcı

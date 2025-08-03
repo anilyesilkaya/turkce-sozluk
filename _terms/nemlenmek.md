@@ -2,6 +2,7 @@
 layout: term
 title: nemlenmek
 slug: nemlenmek
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nemli duruma gelmek, buğulanmak; rutubetlenmek

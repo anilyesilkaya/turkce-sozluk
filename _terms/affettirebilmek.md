@@ -2,6 +2,7 @@
 layout: term
 title: affettirebilmek
 slug: affettirebilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► bağışlatabilmek

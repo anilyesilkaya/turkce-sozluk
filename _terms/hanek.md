@@ -2,6 +2,7 @@
 layout: term
 title: hanek
 slug: hanek
+letter: H
 lisan: Arapça ḥanek
 anlamlar:
 - Söz, konuşma

@@ -2,6 +2,7 @@
 layout: term
 title: şirden
 slug: sirden
+letter: Ş
 lisan: Farsça şīrdān
 anlamlar:
 - Geviş getiren hayvanlarda, çiğnenmiş besinin bir kez daha mide sularıyla sindirildiği, dört bölümlü midenin dördüncü bölümü

@@ -2,6 +2,7 @@
 layout: term
 title: kabuğunu çatlatmak (veya kırmak)
 slug: kabugunu-catlatmak-veya-kirmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - içinde bulunduğu güç, olumsuz veya kötü durumdan kurtulup rahatlamak

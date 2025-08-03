@@ -2,6 +2,7 @@
 layout: term
 title: su yüzüne çıkmak
 slug: su-yuzune-cikmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - bir süre örtülü kalmış bir iş veya sorun aydınlanmak, belli olmak, meydana çıkmak

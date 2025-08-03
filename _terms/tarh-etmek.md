@@ -2,6 +2,7 @@
 layout: term
 title: tarh etmek
 slug: tarh-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - bir sayıyı bir sayıdan çıkarmak

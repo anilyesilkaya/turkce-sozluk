@@ -2,6 +2,7 @@
 layout: term
 title: sicil
 slug: sicil
+letter: S
 lisan: Arapça sicil
 anlamlar:
 - Resmî belgelerin kaydedildiği kütük

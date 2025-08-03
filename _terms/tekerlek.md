@@ -2,6 +2,7 @@
 layout: term
 title: tekerlek
 slug: tekerlek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Merkezde bulunan, bir eksenin çevresinde dönebilen çember; teker

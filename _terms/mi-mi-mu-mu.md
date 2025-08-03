@@ -2,6 +2,7 @@
 layout: term
 title: mı / mi, mu / mü
 slug: mi-mi-mu-mu
+letter: M
 lisan: Türkçe
 anlamlar:
 - Sonuna getirildiği cümleye veya kelimeye, söyleyiş biçimine ve tonlamaya göre soru, şaşma veya inkâr anlamı veren bir söz

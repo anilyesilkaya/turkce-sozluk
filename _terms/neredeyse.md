@@ -2,6 +2,7 @@
 layout: term
 title: neredeyse
 slug: neredeyse
+letter: N
 lisan: Türkçe
 anlamlar:
 - Bir işin, hareketin, olayın gerçekleşmesi anının yaklaştığını anlatan bir söz; az daha, bayağı, kıl payı, âdeta, handiyse

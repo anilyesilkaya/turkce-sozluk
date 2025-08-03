@@ -2,6 +2,7 @@
 layout: term
 title: belirtili
 slug: belirtili
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belirtisi olan

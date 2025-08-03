@@ -2,6 +2,7 @@
 layout: term
 title: enek
 slug: enek
+letter: E
 lisan: Türkçe
 anlamlar:
 - İğdiş edilmiş

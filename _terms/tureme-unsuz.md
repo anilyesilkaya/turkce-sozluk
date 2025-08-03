@@ -2,6 +2,7 @@
 layout: term
 title: türeme ünsüz
 slug: tureme-unsuz
+letter: T
 lisan: Türkçe
 anlamlar:
 - 'Kelimenin aslında bulunmayan, ön veya iç seste beliren ünsüz: urmak > vurmak, fiat > fiyat gibi'

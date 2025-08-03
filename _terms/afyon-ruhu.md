@@ -2,6 +2,7 @@
 layout: term
 title: afyon ruhu
 slug: afyon-ruhu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Karanfil, tarçın, safran, alkol ve afyon özü karışımından elde edilen, sakinleştirici olarak kullanılan afyon tentürü

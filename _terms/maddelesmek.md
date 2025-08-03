@@ -2,6 +2,7 @@
 layout: term
 title: maddeleşmek
 slug: maddelesmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - Madde durumuna gelmek

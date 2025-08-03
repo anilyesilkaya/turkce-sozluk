@@ -2,6 +2,7 @@
 layout: term
 title: Rumca
 slug: rumca
+letter: R
 lisan: Türkçe
 anlamlar:
 - Rumların kullandığı dil

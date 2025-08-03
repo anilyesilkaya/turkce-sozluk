@@ -2,6 +2,7 @@
 layout: term
 title: dikim
 slug: dikim
+letter: D
 lisan: Türkçe
 anlamlar:
 - Giysi dikmek işi

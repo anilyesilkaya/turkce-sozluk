@@ -2,6 +2,7 @@
 layout: term
 title: halka dönük
 slug: halka-donuk
+letter: H
 lisan: Türkçe
 anlamlar:
 - Halk için olan

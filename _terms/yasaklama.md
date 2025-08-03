@@ -2,6 +2,7 @@
 layout: term
 title: yasaklama
 slug: yasaklama
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yasaklamak işi; men

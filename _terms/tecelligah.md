@@ -2,6 +2,7 @@
 layout: term
 title: tecelligâh
 slug: tecelligah
+letter: T
 lisan: Arapça tecellį + Farsça gāh
 anlamlar:
 - Tecelli yeri

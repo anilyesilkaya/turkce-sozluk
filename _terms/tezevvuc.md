@@ -2,6 +2,7 @@
 layout: term
 title: tezevvüç
 slug: tezevvuc
+letter: T
 lisan: Arapça tezevvuc
 anlamlar:
 - ► evlenme

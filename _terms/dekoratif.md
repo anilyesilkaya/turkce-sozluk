@@ -2,6 +2,7 @@
 layout: term
 title: dekoratif
 slug: dekoratif
+letter: D
 lisan: Fransızca décoratif
 anlamlar:
 - Dekor olarak kullanılan, süslemeye yarayan; süsleyici

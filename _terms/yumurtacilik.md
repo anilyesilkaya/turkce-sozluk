@@ -2,6 +2,7 @@
 layout: term
 title: yumurtacılık
 slug: yumurtacilik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yumurtacının yaptığı iş

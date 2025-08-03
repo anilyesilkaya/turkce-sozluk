@@ -2,6 +2,7 @@
 layout: term
 title: ikili eğitim
 slug: ikili-egitim
+letter: I
 lisan: Türkçe
 anlamlar:
 - Okul öncesi eğitim ve ilköğretim kurumlarında ayrı gruplarla sabah ve öğleden sonra yapılan eğitim

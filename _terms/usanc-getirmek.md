@@ -2,6 +2,7 @@
 layout: term
 title: usanç getirmek
 slug: usanc-getirmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - usanacak duruma gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: kasılmak
 slug: kasilmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kasma işi yapılmak

@@ -2,6 +2,7 @@
 layout: term
 title: pekiştirmeli özne
 slug: pekistirmeli-ozne
+letter: P
 lisan: Türkçe
 anlamlar:
 - '"Kendi" dönüşlülük zamiriyle kuvvetlendirilmiş özne'

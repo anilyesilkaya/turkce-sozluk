@@ -2,6 +2,7 @@
 layout: term
 title: her ne hikmetse
 slug: her-ne-hikmetse
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► nedense

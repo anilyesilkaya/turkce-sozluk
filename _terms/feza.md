@@ -2,6 +2,7 @@
 layout: term
 title: feza
 slug: feza
+letter: F
 lisan: Arapça feżāʾ
 anlamlar:
 - ► uzay

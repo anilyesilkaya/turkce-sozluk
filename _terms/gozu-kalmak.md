@@ -2,6 +2,7 @@
 layout: term
 title: gözü kalmak
 slug: gozu-kalmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - elde edemediği bir şeye karşı isteği sürmek

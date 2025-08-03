@@ -2,6 +2,7 @@
 layout: term
 title: nakışçı
 slug: nakisci
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nakış yapan (kimse); nakkaş

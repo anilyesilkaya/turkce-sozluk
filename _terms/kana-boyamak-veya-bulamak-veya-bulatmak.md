@@ -2,6 +2,7 @@
 layout: term
 title: kana boyamak (veya bulamak veya bulatmak)
 slug: kana-boyamak-veya-bulamak-veya-bulatmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kan içinde bırakmak

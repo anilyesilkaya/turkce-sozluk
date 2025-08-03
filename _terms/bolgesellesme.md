@@ -2,6 +2,7 @@
 layout: term
 title: bölgeselleşme
 slug: bolgesellesme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bölgeselleşmek işi

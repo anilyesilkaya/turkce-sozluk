@@ -2,6 +2,7 @@
 layout: term
 title: bilezik
 slug: bilezik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Genellikle altın, gümüş vb. elementlerden yapılan ve bileğe süs için takılan halka

@@ -2,6 +2,7 @@
 layout: term
 title: dikkat kesilmek
 slug: dikkat-kesilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - bütün dikkatini bir şey üzerinde toplamak

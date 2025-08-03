@@ -2,6 +2,7 @@
 layout: term
 title: orya
 slug: orya
+letter: O
 lisan: Rumca
 anlamlar:
 - ► karo

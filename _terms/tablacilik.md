@@ -2,6 +2,7 @@
 layout: term
 title: tablacılık
 slug: tablacilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tablacının yaptığı iş; tablakârlık

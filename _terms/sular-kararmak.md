@@ -2,6 +2,7 @@
 layout: term
 title: sular kararmak
 slug: sular-kararmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - akşam olmaya başlamak

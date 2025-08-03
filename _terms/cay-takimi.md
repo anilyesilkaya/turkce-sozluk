@@ -2,6 +2,7 @@
 layout: term
 title: çay takımı
 slug: cay-takimi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çaydanlık, sütlük, şekerlik ve altı veya on iki çay fincanından oluşan takım

@@ -2,6 +2,7 @@
 layout: term
 title: tükenme
 slug: tukenme
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tükenmek işi

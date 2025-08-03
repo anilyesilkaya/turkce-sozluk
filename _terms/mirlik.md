@@ -2,6 +2,7 @@
 layout: term
 title: mirlik
 slug: mirlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► beylik

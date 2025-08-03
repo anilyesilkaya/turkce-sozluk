@@ -2,6 +2,7 @@
 layout: term
 title: pırıl pırıl
 slug: piril-piril
+letter: P
 lisan: Türkçe
 anlamlar:
 - Çok parlak, çok ışıklı

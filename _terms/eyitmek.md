@@ -2,6 +2,7 @@
 layout: term
 title: eyitmek
 slug: eyitmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► demek

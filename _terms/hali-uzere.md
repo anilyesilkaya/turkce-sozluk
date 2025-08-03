@@ -2,6 +2,7 @@
 layout: term
 title: hâli üzere
 slug: hali-uzere
+letter: H
 lisan: Türkçe
 anlamlar:
 - olduğu gibi

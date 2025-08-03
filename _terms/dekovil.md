@@ -2,6 +2,7 @@
 layout: term
 title: dekovil
 slug: dekovil
+letter: D
 lisan: (Fransız Paul Decauville özel adından)
 anlamlar:
 - Ray aralığı 60 santimetre veya daha az olan, araçları buhar, hayvan veya insan gücüyle yürütülen küçük demir yolu

@@ -2,6 +2,7 @@
 layout: term
 title: badem yağı
 slug: badem-yagi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bademden çıkarılan ve deri, kösele vb.ni yumuşatmak için kullanılan yağ

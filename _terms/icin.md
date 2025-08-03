@@ -2,6 +2,7 @@
 layout: term
 title: için
 slug: icin
+letter: I
 lisan: Türkçe
 anlamlar:
 - Amacıyla, maksadıyla

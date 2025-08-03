@@ -2,6 +2,7 @@
 layout: term
 title: gülümseyiverme
 slug: gulumseyiverme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gülümseyivermek işi

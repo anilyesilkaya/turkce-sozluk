@@ -2,6 +2,7 @@
 layout: term
 title: krepsaten
 slug: krepsaten
+letter: K
 lisan: Fransızca crêpe satin
 anlamlar:
 - İpekli, parlak ve kaygan bir tür ince kumaş

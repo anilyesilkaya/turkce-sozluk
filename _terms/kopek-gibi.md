@@ -2,6 +2,7 @@
 layout: term
 title: köpek gibi
 slug: kopek-gibi
+letter: K
 lisan: Türkçe
 anlamlar:
 - çok yaltaklanan

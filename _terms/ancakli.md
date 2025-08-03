@@ -2,6 +2,7 @@
 layout: term
 title: ancaklı
 slug: ancakli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Herhangi bir bahane, şart ileri süren

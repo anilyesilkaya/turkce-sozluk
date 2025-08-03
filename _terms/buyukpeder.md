@@ -2,6 +2,7 @@
 layout: term
 title: büyükpeder
 slug: buyukpeder
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► dede

@@ -2,6 +2,7 @@
 layout: term
 title: muslihane
 slug: muslihane
+letter: M
 lisan: Arapça muṣliḥ + Farsça -āne
 anlamlar:
 - Barışçı bir yolla

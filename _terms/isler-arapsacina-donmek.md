@@ -2,6 +2,7 @@
 layout: term
 title: işler arapsaçına dönmek
 slug: isler-arapsacina-donmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - işler çok karmaşık bir hâl almak

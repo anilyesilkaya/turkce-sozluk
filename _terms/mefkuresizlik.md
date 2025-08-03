@@ -2,6 +2,7 @@
 layout: term
 title: mefkûresizlik
 slug: mefkuresizlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mefkûre sahibi olmama durumu

@@ -2,6 +2,7 @@
 layout: term
 title: inhilal
 slug: inhilal
+letter: I
 lisan: Arapça inḥilāl
 anlamlar:
 - ► dağılma

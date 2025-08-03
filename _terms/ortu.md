@@ -2,6 +2,7 @@
 layout: term
 title: örtü
 slug: ortu
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Örtmek için kullanılan şey; destar, kuvertür, serviyet

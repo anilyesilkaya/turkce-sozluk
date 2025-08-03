@@ -2,6 +2,7 @@
 layout: term
 title: şeytanılain
 slug: seytanilain
+letter: Ş
 lisan: Arapça şeyṭān + laʿīn
 anlamlar:
 - Lanetlenmiş olan şeytan

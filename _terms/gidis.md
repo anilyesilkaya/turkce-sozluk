@@ -2,6 +2,7 @@
 layout: term
 title: gidiş
 slug: gidis
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gitmek işi; azimet

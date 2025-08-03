@@ -2,6 +2,7 @@
 layout: term
 title: övünç
 slug: ovunc
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► övünme

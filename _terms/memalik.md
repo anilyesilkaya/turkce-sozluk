@@ -2,6 +2,7 @@
 layout: term
 title: memalik
 slug: memalik
+letter: M
 lisan: Arapça memālik
 anlamlar:
 - Memleketler

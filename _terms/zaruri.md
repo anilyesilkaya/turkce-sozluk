@@ -2,6 +2,7 @@
 layout: term
 title: zaruri
 slug: zaruri
+letter: Z
 lisan: Arapça żarūrī
 anlamlar:
 - ► zorunlu

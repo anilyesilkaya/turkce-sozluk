@@ -2,6 +2,7 @@
 layout: term
 title: çığlık çığlığa
 slug: ciglik-cigliga
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çığlık atarak, bağırıp çağırarak

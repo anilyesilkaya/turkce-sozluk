@@ -2,6 +2,7 @@
 layout: term
 title: ümranlı
 slug: umranli
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Bayındır, gelişmiş olan

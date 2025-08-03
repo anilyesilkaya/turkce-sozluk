@@ -2,6 +2,7 @@
 layout: term
 title: tere
 slug: tere
+letter: T
 lisan: Farsça tere
 anlamlar:
 - Turpgillerden, yaprakları salata olarak yenen baharlı bir bitki (Lepidium sativum)

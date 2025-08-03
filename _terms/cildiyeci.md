@@ -2,6 +2,7 @@
 layout: term
 title: cildiyeci
 slug: cildiyeci
+letter: C
 lisan: Türkçe
 anlamlar:
 - Deri hastalıkları uzmanı; dermatolog

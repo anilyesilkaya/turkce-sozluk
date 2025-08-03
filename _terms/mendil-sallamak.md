@@ -2,6 +2,7 @@
 layout: term
 title: mendil sallamak
 slug: mendil-sallamak
+letter: M
 lisan: Türkçe
 anlamlar:
 - birini uzaktan mendil sallayarak selamlamak veya uğurlamak

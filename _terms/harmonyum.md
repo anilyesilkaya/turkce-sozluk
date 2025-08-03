@@ -2,6 +2,7 @@
 layout: term
 title: harmonyum
 slug: harmonyum
+letter: H
 lisan: Fransızca harmonium
 anlamlar:
 - Dış görünüşü piyanoya benzeyen, körüğü ayakla işletilen küçük org; armonyum

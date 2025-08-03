@@ -2,6 +2,7 @@
 layout: term
 title: erginlenme
 slug: erginlenme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Erginlenmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: yetersiz kalmak
 slug: yetersiz-kalmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Herhangi bir işi yerine getirmek veya bir ihtiyacı karşılamak için yeterli seviyede olmamak

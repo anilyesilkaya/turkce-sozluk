@@ -2,6 +2,7 @@
 layout: term
 title: dizini (veya dizlerini) dövmek
 slug: dizini-veya-dizlerini-dovmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - pişmanlık duymak

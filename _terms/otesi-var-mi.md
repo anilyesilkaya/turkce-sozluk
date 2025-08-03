@@ -2,6 +2,7 @@
 layout: term
 title: ötesi var mı?
 slug: otesi-var-mi
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - '"daha diyecek var mı?" anlamında kullanılan bir söz'

@@ -2,6 +2,7 @@
 layout: term
 title: sıska
 slug: siska
+letter: S
 lisan: Türkçe
 anlamlar:
 - Karın boşluğuna su dolmuş olan

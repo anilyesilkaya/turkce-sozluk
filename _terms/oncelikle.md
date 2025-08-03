@@ -2,6 +2,7 @@
 layout: term
 title: öncelikle
 slug: oncelikle
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öne alınarak, diğerlerine göre daha önce olarak

@@ -2,6 +2,7 @@
 layout: term
 title: germen
 slug: germen
+letter: G
 lisan: Latince
 anlamlar:
 - Canlı yaratıklarda gametlere dayanan ve gametlerle taşınan üreme ögelerinin tümü

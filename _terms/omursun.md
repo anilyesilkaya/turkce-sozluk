@@ -2,6 +2,7 @@
 layout: term
 title: ömürsün
 slug: omursun
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - beklenilmeyen iyi davranışlar karşısında kullanılan bir söz

@@ -2,6 +2,7 @@
 layout: term
 title: üstün tutmak
 slug: ustun-tutmak
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - bir kimseye, bir şeye başkasından daha çok değer vermek

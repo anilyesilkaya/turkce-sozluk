@@ -2,6 +2,7 @@
 layout: term
 title: darbe vurmak (veya indirmek)
 slug: darbe-vurmak-veya-indirmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - iyi olan bir durumu kötüye dönüştürmek

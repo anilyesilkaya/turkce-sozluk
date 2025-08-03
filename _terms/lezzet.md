@@ -2,6 +2,7 @@
 layout: term
 title: lezzet
 slug: lezzet
+letter: L
 lisan: Arapça leẕẕet
 anlamlar:
 - Ağız yoluyla alınan tat

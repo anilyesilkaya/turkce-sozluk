@@ -2,6 +2,7 @@
 layout: term
 title: pehlivanlık
 slug: pehlivanlik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pehlivan olma durumu

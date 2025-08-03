@@ -2,6 +2,7 @@
 layout: term
 title: kucak kucağa
 slug: kucak-kucaga
+letter: K
 lisan: Türkçe
 anlamlar:
 - Birbirine sarılmış veya birbirine yüz yüze sokulmuş bir durumda

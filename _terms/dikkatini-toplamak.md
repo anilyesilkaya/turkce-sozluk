@@ -2,6 +2,7 @@
 layout: term
 title: dikkatini toplamak
 slug: dikkatini-toplamak
+letter: D
 lisan: Türkçe
 anlamlar:
 - duygu ve düşünceyi bir konu veya yapılan iş üzerinde yoğunlaştırmak

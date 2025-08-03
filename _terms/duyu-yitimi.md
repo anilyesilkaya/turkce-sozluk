@@ -2,6 +2,7 @@
 layout: term
 title: duyu yitimi
 slug: duyu-yitimi
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► anestezi

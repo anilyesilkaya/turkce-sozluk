@@ -2,6 +2,7 @@
 layout: term
 title: neme lazım
 slug: neme-lazim
+letter: N
 lisan: Türkçe
 anlamlar:
 - '"Bu işle ilgilenmem, buna karışmam" anlamlarında kullanılan bir söz; neme gerek'

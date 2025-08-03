@@ -2,6 +2,7 @@
 layout: term
 title: kardinal
 slug: kardinal
+letter: K
 lisan: Fransızca cardinal
 anlamlar:
 - Papayı seçen, danışmanlığını yapan başpapazlardan her biri

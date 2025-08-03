@@ -2,6 +2,7 @@
 layout: term
 title: yaka iğnesi
 slug: yaka-ignesi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Kadınların yakalarına taktıkları süs iğnesi; broş

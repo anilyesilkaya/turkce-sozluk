@@ -2,6 +2,7 @@
 layout: term
 title: kısadan
 slug: kisadan
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kısaca

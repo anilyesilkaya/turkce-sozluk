@@ -2,6 +2,7 @@
 layout: term
 title: acılı
 slug: acili
+letter: A
 lisan: Türkçe
 anlamlar:
 - Acı katılmış olan

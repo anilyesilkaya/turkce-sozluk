@@ -2,6 +2,7 @@
 layout: term
 title: ağabey
 slug: agabey
+letter: A
 lisan: Türkçe
 anlamlar:
 - Büyük erkek kardeş; ağa, aka, ede, efe

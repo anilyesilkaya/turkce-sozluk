@@ -2,6 +2,7 @@
 layout: term
 title: yöneltmek
 slug: yoneltmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir şeye belli bir yön vermek, yönelmesini sağlamak, çevirmek; tevcih etmek

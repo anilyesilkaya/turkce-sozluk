@@ -2,6 +2,7 @@
 layout: term
 title: kurşun gibi
 slug: kursun-gibi
+letter: K
 lisan: Türkçe
 anlamlar:
 - katlanması zor bir biçimde

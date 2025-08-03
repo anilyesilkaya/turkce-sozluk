@@ -2,6 +2,7 @@
 layout: term
 title: işvebaz
 slug: isvebaz
+letter: I
 lisan: Farsça işve + bāz
 anlamlar:
 - ► cilveli

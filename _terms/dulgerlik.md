@@ -2,6 +2,7 @@
 layout: term
 title: dülgerlik
 slug: dulgerlik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dülgerin işi

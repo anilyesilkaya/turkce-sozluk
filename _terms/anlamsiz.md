@@ -2,6 +2,7 @@
 layout: term
 title: anlamsız
 slug: anlamsiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anlamı olmayan, önemli bir şey anlatmayan; manasız, boş

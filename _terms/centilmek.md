@@ -2,6 +2,7 @@
 layout: term
 title: çentilmek
 slug: centilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çentme işine konu olmak; kertilmek

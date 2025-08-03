@@ -2,6 +2,7 @@
 layout: term
 title: ağlayabilme
 slug: aglayabilme
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağlayabilmek işi

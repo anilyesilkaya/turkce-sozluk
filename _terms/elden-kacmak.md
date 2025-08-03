@@ -2,6 +2,7 @@
 layout: term
 title: elden kaçmak
 slug: elden-kacmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - sahip olamamak

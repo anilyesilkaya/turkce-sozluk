@@ -2,6 +2,7 @@
 layout: term
 title: barbar
 slug: barbar
+letter: B
 lisan: Fransızca barbare
 anlamlar:
 - Uygarlaşmamış (kavim, topluluk)

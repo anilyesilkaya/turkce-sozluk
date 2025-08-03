@@ -2,6 +2,7 @@
 layout: term
 title: ehven
 slug: ehven
+letter: E
 lisan: Arapça ehven
 anlamlar:
 - Zararı az, en zararsız

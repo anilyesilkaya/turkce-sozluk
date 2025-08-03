@@ -2,6 +2,7 @@
 layout: term
 title: carlamak
 slug: carlamak
+letter: C
 lisan: Türkçe
 anlamlar:
 - Bağırarak konuşmak

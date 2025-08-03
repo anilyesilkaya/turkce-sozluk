@@ -2,6 +2,7 @@
 layout: term
 title: yüze gelmek
 slug: yuze-gelmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - çekinmemek

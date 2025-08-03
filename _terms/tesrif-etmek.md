@@ -2,6 +2,7 @@
 layout: term
 title: teşrif etmek
 slug: tesrif-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - şereflendirmek, onurlandırmak

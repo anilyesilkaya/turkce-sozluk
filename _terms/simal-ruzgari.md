@@ -2,6 +2,7 @@
 layout: term
 title: şimal rüzgârı
 slug: simal-ruzgari
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► poyraz

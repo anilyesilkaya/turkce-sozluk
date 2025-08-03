@@ -2,6 +2,7 @@
 layout: term
 title: üstünkörü
 slug: ustunkoru
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - İnceliklerine inmeden, özen göstermeden; gelişigüzel, baştan savma, yalan yanlış

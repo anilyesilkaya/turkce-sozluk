@@ -2,6 +2,7 @@
 layout: term
 title: bağımsız sıralı cümle
 slug: bagimsiz-sirali-cumle
+letter: B
 lisan: Türkçe
 anlamlar:
 - Anlam bakımından birbirine bağlı olduğu hâlde özneleri, tümleçleri, yüklemleri ayrı olan cümle

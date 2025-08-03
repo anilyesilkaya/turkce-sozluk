@@ -2,6 +2,7 @@
 layout: term
 title: dışarı çıkmak
 slug: disari-cikmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - kapalı bir yerden dışarı gitmek

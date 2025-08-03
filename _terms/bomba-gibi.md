@@ -2,6 +2,7 @@
 layout: term
 title: bomba gibi
 slug: bomba-gibi
+letter: B
 lisan: Türkçe
 anlamlar:
 - iyi, sağlam, göz alıcı, gösterişli olan

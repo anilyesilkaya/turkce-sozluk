@@ -2,6 +2,7 @@
 layout: term
 title: baza
 slug: baza
+letter: B
 lisan: İtalyanca base
 anlamlar:
 - Mobilyanın uzunluğunca konulan dar ayak

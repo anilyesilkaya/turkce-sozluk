@@ -2,6 +2,7 @@
 layout: term
 title: adımbaşı
 slug: adimbasi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Birbirine yakın yerlerde, sık aralıklarla

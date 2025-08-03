@@ -2,6 +2,7 @@
 layout: term
 title: gelin böceği
 slug: gelin-bocegi
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► uğur böceği

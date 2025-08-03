@@ -2,6 +2,7 @@
 layout: term
 title: şeytanlık etmek
 slug: seytanlik-etmek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - şeytanca bir davranışta bulunmak, kurnazlık etmek

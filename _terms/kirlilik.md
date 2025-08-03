@@ -2,6 +2,7 @@
 layout: term
 title: kirlilik
 slug: kirlilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kirli olma durumu; pislik, necaset

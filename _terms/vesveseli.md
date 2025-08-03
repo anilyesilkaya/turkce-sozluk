@@ -2,6 +2,7 @@
 layout: term
 title: vesveseli
 slug: vesveseli
+letter: V
 lisan: Türkçe
 anlamlar:
 - ► kuruntulu

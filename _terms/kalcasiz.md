@@ -2,6 +2,7 @@
 layout: term
 title: kalçasız
 slug: kalcasiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalçası dar olan

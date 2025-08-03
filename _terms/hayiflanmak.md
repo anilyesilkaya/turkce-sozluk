@@ -2,6 +2,7 @@
 layout: term
 title: hayıflanmak
 slug: hayiflanmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Yapılamayan bir şey için üzüntü duymak

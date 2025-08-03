@@ -2,6 +2,7 @@
 layout: term
 title: elik
 slug: elik
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► dağ keçisi

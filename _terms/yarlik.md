@@ -2,6 +2,7 @@
 layout: term
 title: yârlik
 slug: yarlik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yâr olma durumu

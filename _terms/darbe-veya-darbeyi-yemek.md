@@ -2,6 +2,7 @@
 layout: term
 title: darbe (veya darbeyi) yemek
 slug: darbe-veya-darbeyi-yemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - gücü sarsılmak

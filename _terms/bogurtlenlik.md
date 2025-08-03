@@ -2,6 +2,7 @@
 layout: term
 title: böğürtlenlik
 slug: bogurtlenlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Böğürtlen çalılarının çok olduğu yer

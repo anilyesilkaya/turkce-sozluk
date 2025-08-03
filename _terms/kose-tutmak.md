@@ -2,6 +2,7 @@
 layout: term
 title: köşe tutmak
 slug: kose-tutmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - karışmak, kendini belli etmek, görünmek

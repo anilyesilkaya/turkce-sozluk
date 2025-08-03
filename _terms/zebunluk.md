@@ -2,6 +2,7 @@
 layout: term
 title: zebunluk
 slug: zebunluk
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zebun olma durumu

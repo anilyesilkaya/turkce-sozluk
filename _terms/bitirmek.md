@@ -2,6 +2,7 @@
 layout: term
 title: bitirmek
 slug: bitirmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bitmesini sağlamak; tamamlamak

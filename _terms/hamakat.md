@@ -2,6 +2,7 @@
 layout: term
 title: hamakat
 slug: hamakat
+letter: H
 lisan: Arapça ḥamāḳat
 anlamlar:
 - ► ahmaklık

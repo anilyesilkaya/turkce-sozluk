@@ -2,6 +2,7 @@
 layout: term
 title: yaratabilmek
 slug: yaratabilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaratma ihtimali veya imkânı bulunmak

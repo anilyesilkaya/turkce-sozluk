@@ -2,6 +2,7 @@
 layout: term
 title: boşamak
 slug: bosamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Eşlerden biri diğeriyle nikâhı bozup aile ilişkisini kesmek; bırakmak

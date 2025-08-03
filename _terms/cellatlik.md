@@ -2,6 +2,7 @@
 layout: term
 title: cellatlık
 slug: cellatlik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cellat olma durumu

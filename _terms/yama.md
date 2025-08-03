@@ -2,6 +2,7 @@
 layout: term
 title: yama
 slug: yama
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Delik ve yırtığı uygun bir parça ile onarma, kapatma

@@ -2,6 +2,7 @@
 layout: term
 title: kodes
 slug: kodes
+letter: K
 lisan: Rumca
 anlamlar:
 - ► cezaevi

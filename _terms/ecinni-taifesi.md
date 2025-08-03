@@ -2,6 +2,7 @@
 layout: term
 title: ecinni taifesi
 slug: ecinni-taifesi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Cin topluluğu, cinler

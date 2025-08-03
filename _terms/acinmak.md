@@ -2,6 +2,7 @@
 layout: term
 title: açınmak
 slug: acinmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Uyurken üzerindeki yorgan ve örtüyü atmak

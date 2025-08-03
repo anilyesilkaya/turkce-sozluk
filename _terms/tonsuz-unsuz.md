@@ -2,6 +2,7 @@
 layout: term
 title: tonsuz ünsüz
 slug: tonsuz-unsuz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Akciğerlerden gelen havanın titreşime uğramadan boğumlanmasıyla oluşan ünsüz; sert sessiz, sert ünsüz, sedasız ünsüz, ötümsüz ünsüz

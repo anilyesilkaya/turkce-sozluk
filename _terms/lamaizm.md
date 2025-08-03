@@ -2,6 +2,7 @@
 layout: term
 title: lamaizm
 slug: lamaizm
+letter: L
 lisan: Fransızca lamaïsm
 anlamlar:
 - ► lamacılık

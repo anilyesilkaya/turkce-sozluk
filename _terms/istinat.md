@@ -2,6 +2,7 @@
 layout: term
 title: istinat
 slug: istinat
+letter: I
 lisan: Arapça istinād
 anlamlar:
 - ► dayanma

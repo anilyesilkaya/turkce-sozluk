@@ -2,6 +2,7 @@
 layout: term
 title: müfret
 slug: mufret
+letter: M
 lisan: Arapça mufred
 anlamlar:
 - ► teklik

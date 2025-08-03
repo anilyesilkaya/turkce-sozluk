@@ -2,6 +2,7 @@
 layout: term
 title: kızabilmek
 slug: kizabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kızma ihtimali veya imkânı bulunmak

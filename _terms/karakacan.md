@@ -2,6 +2,7 @@
 layout: term
 title: karakaçan
 slug: karakacan
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► eşek

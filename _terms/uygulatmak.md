@@ -2,6 +2,7 @@
 layout: term
 title: uygulatmak
 slug: uygulatmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uygulama işini yaptırmak

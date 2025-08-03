@@ -2,6 +2,7 @@
 layout: term
 title: abasız
 slug: abasiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aba giymemiş olan

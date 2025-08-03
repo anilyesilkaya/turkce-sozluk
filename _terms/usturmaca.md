@@ -2,6 +2,7 @@
 layout: term
 title: usturmaça
 slug: usturmaca
+letter: U
 lisan: İtalyanca stramazzo
 anlamlar:
 - Her tür deniz aracının rıhtım, iskele gibi yerlere yanaşmaları sırasında olabilecek çarpmaları önlemek için bordoya sarkıtılan halat, ağaç, lastik, plastik gibi esnek malzemeden yapılmış, içi doldurulmuş veya şişirilmiş, sabit veya taşınabilir yastık

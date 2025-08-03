@@ -2,6 +2,7 @@
 layout: term
 title: telaşlı
 slug: telasli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Telaş eden, telaşa düşen; pürtelaş

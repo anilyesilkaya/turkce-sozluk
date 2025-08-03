@@ -2,6 +2,7 @@
 layout: term
 title: çiçek
 slug: cicek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir bitkinin, üreme organlarını taşıyan çoğu güzel kokulu, renkli bölümü

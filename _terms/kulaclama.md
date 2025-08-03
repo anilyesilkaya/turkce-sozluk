@@ -2,6 +2,7 @@
 layout: term
 title: kulaçlama
 slug: kulaclama
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kulaçlamak işi

@@ -2,6 +2,7 @@
 layout: term
 title: ezmek
 slug: ezmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Üstüne basarak veya bir şey arasına sıkıştırarak yassılaştırmak, biçimini değiştirmek

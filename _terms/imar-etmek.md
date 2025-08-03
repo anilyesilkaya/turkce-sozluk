@@ -2,6 +2,7 @@
 layout: term
 title: imar etmek
 slug: imar-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - bayındır durumuna getirmek, bayındırlaştırmak, geliştirmek

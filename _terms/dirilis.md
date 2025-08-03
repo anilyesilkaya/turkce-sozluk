@@ -2,6 +2,7 @@
 layout: term
 title: diriliş
 slug: dirilis
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dirilmek işi

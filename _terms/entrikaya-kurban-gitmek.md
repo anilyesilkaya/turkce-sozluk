@@ -2,6 +2,7 @@
 layout: term
 title: entrikaya kurban gitmek
 slug: entrikaya-kurban-gitmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - hileli, dalavereli bir iş sonunda zarara uğramak

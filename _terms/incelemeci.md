@@ -2,6 +2,7 @@
 layout: term
 title: incelemeci
 slug: incelemeci
+letter: I
 lisan: Türkçe
 anlamlar:
 - İnceleme yapan kimse

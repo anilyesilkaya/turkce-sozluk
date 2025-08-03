@@ -2,6 +2,7 @@
 layout: term
 title: teskere
 slug: teskere
+letter: T
 lisan: Farsça deskere
 anlamlar:
 - ► sedye

@@ -2,6 +2,7 @@
 layout: term
 title: antipati duymak
 slug: antipati-duymak
+letter: A
 lisan: Türkçe
 anlamlar:
 - olumsuz duygular taşımak

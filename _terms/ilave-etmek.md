@@ -2,6 +2,7 @@
 layout: term
 title: ilave etmek
 slug: ilave-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - eklemek, ulamak

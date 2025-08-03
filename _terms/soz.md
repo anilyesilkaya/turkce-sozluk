@@ -2,6 +2,7 @@
 layout: term
 title: söz
 slug: soz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir düşünceyi eksiksiz olarak anlatan kelime dizisi; lakırtı, kal (II), kavil, kelam, laf

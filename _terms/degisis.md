@@ -2,6 +2,7 @@
 layout: term
 title: değişiş
 slug: degisis
+letter: D
 lisan: Türkçe
 anlamlar:
 - Değişmek işi

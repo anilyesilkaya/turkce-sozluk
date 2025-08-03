@@ -2,6 +2,7 @@
 layout: term
 title: kan kaybetmek
 slug: kan-kaybetmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - herhangi bir nedenle vücuttan çok kan akmak

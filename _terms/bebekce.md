@@ -2,6 +2,7 @@
 layout: term
 title: bebekçe
 slug: bebekce
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bebeğe yakışan

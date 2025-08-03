@@ -2,6 +2,7 @@
 layout: term
 title: çapraşık
 slug: caprasik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► girift

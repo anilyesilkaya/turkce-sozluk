@@ -2,6 +2,7 @@
 layout: term
 title: ütülemek
 slug: utulemek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Ütü ile buruşukluklarını gidermek

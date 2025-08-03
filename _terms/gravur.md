@@ -2,6 +2,7 @@
 layout: term
 title: gravür
 slug: gravur
+letter: G
 lisan: Fransızca gravure
 anlamlar:
 - Oyulduktan sonra mürekkeple sıvanan ağaç, taş veya metal levhanın yüzeyinin mürekkepten temizlenip baskı uygulanarak üzerindeki görüntünün kâğıda aktarılması biçimindeki baskı tekniği; çukur baskı

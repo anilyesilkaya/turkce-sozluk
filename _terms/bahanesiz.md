@@ -2,6 +2,7 @@
 layout: term
 title: bahanesiz
 slug: bahanesiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bahanesi olmayan

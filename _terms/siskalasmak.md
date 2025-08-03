@@ -2,6 +2,7 @@
 layout: term
 title: sıskalaşmak
 slug: siskalasmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıska duruma gelmek; cılızlaşmak

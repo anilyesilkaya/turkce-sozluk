@@ -2,6 +2,7 @@
 layout: term
 title: kesbetmek
 slug: kesbetmek
+letter: K
 lisan: Arapça kesb + Türkçe etmek
 anlamlar:
 - Bir şeyi kazanmak, elde etmek

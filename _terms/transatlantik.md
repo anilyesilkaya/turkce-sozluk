@@ -2,6 +2,7 @@
 layout: term
 title: transatlantik
 slug: transatlantik
+letter: T
 lisan: Fransızca transatlantique
 anlamlar:
 - Atlantik Okyanusu'nu aşan

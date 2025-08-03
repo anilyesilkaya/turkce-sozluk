@@ -2,6 +2,7 @@
 layout: term
 title: başgardiyan
 slug: basgardiyan
+letter: B
 lisan: Türkçe baş + Fransızca gardien
 anlamlar:
 - ► infaz ve koruma başmemuru

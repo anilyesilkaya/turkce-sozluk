@@ -2,6 +2,7 @@
 layout: term
 title: şapşallaşma
 slug: sapsallasma
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şapşallaşmak durumu

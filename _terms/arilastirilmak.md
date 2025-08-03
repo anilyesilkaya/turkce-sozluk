@@ -2,6 +2,7 @@
 layout: term
 title: arılaştırılmak
 slug: arilastirilmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arılaştırma işine konu olmak

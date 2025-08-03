@@ -2,6 +2,7 @@
 layout: term
 title: domuz gibi tıkınmak (veya yemek)
 slug: domuz-gibi-tikinmak-veya-yemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - oburcasına çok yemek

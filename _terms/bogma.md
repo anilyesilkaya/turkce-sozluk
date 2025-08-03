@@ -2,6 +2,7 @@
 layout: term
 title: boğma
 slug: bogma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boğmak işi

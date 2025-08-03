@@ -2,6 +2,7 @@
 layout: term
 title: hangi
 slug: hangi
+letter: H
 lisan: Türkçe
 anlamlar:
 - İki veya daha çok şeyden bir tanesini belirtecek bir cevap istemek için kullanılan soru sıfatı; ne (II)

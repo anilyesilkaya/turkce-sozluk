@@ -2,6 +2,7 @@
 layout: term
 title: kod
 slug: kod
+letter: K
 lisan: Fransızca code
 anlamlar:
 - Bir bilginin simgesi

@@ -2,6 +2,7 @@
 layout: term
 title: aklı kesmek
 slug: akli-kesmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - anlamak, idrak etmek

@@ -2,6 +2,7 @@
 layout: term
 title: çocuk işi
 slug: cocuk-isi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Kolay veya önemsiz iş

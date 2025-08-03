@@ -2,6 +2,7 @@
 layout: term
 title: hatiplik
 slug: hatiplik
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► konuşmacılık

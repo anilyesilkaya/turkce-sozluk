@@ -2,6 +2,7 @@
 layout: term
 title: ne hâli varsa görsün
 slug: ne-hali-varsa-gorsun
+letter: N
 lisan: Türkçe
 anlamlar:
 - öğüt ve uyarı dinlemeyenler için "ne yaparsa yapsın, beni ilgilendirmez" anlamında kullanılan bir söz

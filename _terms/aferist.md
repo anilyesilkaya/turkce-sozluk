@@ -2,6 +2,7 @@
 layout: term
 title: aferist
 slug: aferist
+letter: A
 lisan: Fransızca affairiste
 anlamlar:
 - ► dalavereci

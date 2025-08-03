@@ -2,6 +2,7 @@
 layout: term
 title: bordalamak
 slug: bordalamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir gemiye bordası hizasından yaklaşmak

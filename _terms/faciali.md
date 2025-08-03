@@ -2,6 +2,7 @@
 layout: term
 title: facialı
 slug: faciali
+letter: F
 lisan: Türkçe
 anlamlar:
 - Facia içeren, facia gibi karşılanan

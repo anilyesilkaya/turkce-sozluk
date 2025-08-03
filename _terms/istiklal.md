@@ -2,6 +2,7 @@
 layout: term
 title: istiklal
 slug: istiklal
+letter: I
 lisan: Arapça istiḳlāl
 anlamlar:
 - ► bağımsızlık

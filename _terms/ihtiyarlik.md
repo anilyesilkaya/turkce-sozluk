@@ -2,6 +2,7 @@
 layout: term
 title: ihtiyarlık
 slug: ihtiyarlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► yaşlılık

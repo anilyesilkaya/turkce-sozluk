@@ -2,6 +2,7 @@
 layout: term
 title: muaf
 slug: muaf
+letter: M
 lisan: Arapça maʿfuvv
 anlamlar:
 - Bağışlanmış, affedilmiş

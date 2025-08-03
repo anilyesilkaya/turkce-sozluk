@@ -2,6 +2,7 @@
 layout: term
 title: aldatılış
 slug: aldatilis
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aldatılmak işi

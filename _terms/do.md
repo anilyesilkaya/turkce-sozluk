@@ -2,6 +2,7 @@
 layout: term
 title: do
 slug: do
+letter: D
 lisan: İtalyanca do
 anlamlar:
 - Gam (II) dizisinde "si" ile "re" arasındaki ses

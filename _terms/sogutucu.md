@@ -2,6 +2,7 @@
 layout: term
 title: soğutucu
 slug: sogutucu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Soğutma özelliği olan; frigorifik

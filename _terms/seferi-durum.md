@@ -2,6 +2,7 @@
 layout: term
 title: seferî durum
 slug: seferi-durum
+letter: S
 lisan: Türkçe
 anlamlar:
 - Savaş ortamı; seferî hâl

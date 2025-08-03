@@ -2,6 +2,7 @@
 layout: term
 title: reddediş
 slug: reddedis
+letter: R
 lisan: Türkçe
 anlamlar:
 - Reddetmek işi

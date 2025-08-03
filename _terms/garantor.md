@@ -2,6 +2,7 @@
 layout: term
 title: garantör
 slug: garantor
+letter: G
 lisan: İngilizce guarantor
 anlamlar:
 - Bir konuda güvence veren ve bunun gerçekleşmesini gözeten ve denetleyen (kimse, kuruluş veya devlet); güvenceci

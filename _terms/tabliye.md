@@ -2,6 +2,7 @@
 layout: term
 title: tabliye
 slug: tabliye
+letter: T
 lisan: Fransızca tablier
 anlamlar:
 - Köprü yapımında ilk olarak yerleştirilen ve köprüyü oluşturan bölüm

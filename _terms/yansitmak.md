@@ -2,6 +2,7 @@
 layout: term
 title: yansıtmak
 slug: yansitmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yansıma yoluyla nesnelerin görüntülerini vermek

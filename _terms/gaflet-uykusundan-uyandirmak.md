@@ -2,6 +2,7 @@
 layout: term
 title: gaflet uykusundan uyandırmak
 slug: gaflet-uykusundan-uyandirmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - bilgisizlikten, idraksizlikten kurtarmak

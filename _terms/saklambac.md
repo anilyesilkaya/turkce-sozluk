@@ -2,6 +2,7 @@
 layout: term
 title: saklambaç
 slug: saklambac
+letter: S
 lisan: Türkçe
 anlamlar:
 - Oyunculardan birinin ebe olması ve saklanan arkadaşlarını bulması temeline dayanan bir çocuk oyunu

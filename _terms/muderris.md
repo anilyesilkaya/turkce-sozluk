@@ -2,6 +2,7 @@
 layout: term
 title: müderris
 slug: muderris
+letter: M
 lisan: Arapça muderris
 anlamlar:
 - Tanzimattan sonra kurulan yüksek öğretim kurumlarında profesör

@@ -2,6 +2,7 @@
 layout: term
 title: uçara atmak
 slug: ucara-atmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - uçmakta olan kuşu vurmaya çalışmak

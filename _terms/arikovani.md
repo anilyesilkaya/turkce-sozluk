@@ -2,6 +2,7 @@
 layout: term
 title: Arıkovanı
 slug: arikovani
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yengeç takımyıldızı yöresinde bir yıldız kümesi

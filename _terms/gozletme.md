@@ -2,6 +2,7 @@
 layout: term
 title: gözletme
 slug: gozletme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gözletmek işi

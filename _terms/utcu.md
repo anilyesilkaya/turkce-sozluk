@@ -2,6 +2,7 @@
 layout: term
 title: utçu
 slug: utcu
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ut yapan veya satan kimse

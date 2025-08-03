@@ -2,6 +2,7 @@
 layout: term
 title: tezat
 slug: tezat
+letter: T
 lisan: Arapça teżādd
 anlamlar:
 - ► karşıtlık

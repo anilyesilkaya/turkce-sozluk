@@ -2,6 +2,7 @@
 layout: term
 title: hamsin
 slug: hamsin
+letter: H
 lisan: Arapça ḫamsīn
 anlamlar:
 - Erbainden sonra gelen, 31 Ocak'ta başlayan elli günlük kış dönemi

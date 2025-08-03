@@ -2,6 +2,7 @@
 layout: term
 title: gömme
 slug: gomme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gömmek işi

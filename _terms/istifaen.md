@@ -2,6 +2,7 @@
 layout: term
 title: istifaen
 slug: istifaen
+letter: I
 lisan: Arapça istiʿfāen
 anlamlar:
 - İstifa ederek, istifa yoluyla

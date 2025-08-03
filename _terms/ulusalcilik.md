@@ -2,6 +2,7 @@
 layout: term
 title: ulusalcılık
 slug: ulusalcilik
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► milliyetçilik

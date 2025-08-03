@@ -2,6 +2,7 @@
 layout: term
 title: magazin
 slug: magazin
+letter: M
 lisan: Fransızca magazine
 anlamlar:
 - Halkın çoğunluğunu ilgilendirecek, çeşitli konulardan söz eden, bol resimli yayın

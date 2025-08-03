@@ -2,6 +2,7 @@
 layout: term
 title: eğleşme
 slug: eglesme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eğleşmek, oyalanmak işi; tevakkuf

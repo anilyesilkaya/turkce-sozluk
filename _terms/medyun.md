@@ -2,6 +2,7 @@
 layout: term
 title: medyun
 slug: medyun
+letter: M
 lisan: Arapça medyūn
 anlamlar:
 - ► borçlu

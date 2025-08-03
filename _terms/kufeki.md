@@ -2,6 +2,7 @@
 layout: term
 title: küfeki
 slug: kufeki
+letter: K
 lisan: Yunanca
 anlamlar:
 - Yapılarda kullanılan açık renkli, delikli, hafif, işlenmesi kolay, ateşe dayanıklı bir taş türü; kefeki

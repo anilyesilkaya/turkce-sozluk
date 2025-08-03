@@ -2,6 +2,7 @@
 layout: term
 title: kadırga
 slug: kadirga
+letter: K
 lisan: Rumca
 anlamlar:
 - Hem yelken hem kürekle yol alan, özellikle Akdeniz'de kullanılmış bir savaş gemisi

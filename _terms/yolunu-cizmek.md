@@ -2,6 +2,7 @@
 layout: term
 title: yolunu çizmek
 slug: yolunu-cizmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - tercihini belirlemek

@@ -2,6 +2,7 @@
 layout: term
 title: sütununu açmak
 slug: sutununu-acmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - yer vermek, yayımlamak

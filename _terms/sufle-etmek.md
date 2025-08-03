@@ -2,6 +2,7 @@
 layout: term
 title: sufle etmek
 slug: sufle-etmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - oyunculara, izleyicilere duyurmadan söyleyecekleri sözü veya cümleyi fısıldamak

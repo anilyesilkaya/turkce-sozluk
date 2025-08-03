@@ -2,6 +2,7 @@
 layout: term
 title: çirişleme
 slug: cirisleme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çirişlemek işi

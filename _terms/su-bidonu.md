@@ -2,6 +2,7 @@
 layout: term
 title: su bidonu
 slug: su-bidonu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Su taşımaya ve depolamaya yarayan bidon

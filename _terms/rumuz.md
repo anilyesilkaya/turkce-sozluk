@@ -2,6 +2,7 @@
 layout: term
 title: rumuz
 slug: rumuz
+letter: R
 lisan: Arapça rumūz
 anlamlar:
 - ► simge

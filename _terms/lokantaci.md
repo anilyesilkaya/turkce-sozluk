@@ -2,6 +2,7 @@
 layout: term
 title: lokantacı
 slug: lokantaci
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lokanta işleten kimse

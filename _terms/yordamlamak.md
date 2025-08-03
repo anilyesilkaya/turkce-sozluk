@@ -2,6 +2,7 @@
 layout: term
 title: yordamlamak
 slug: yordamlamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yoklamak

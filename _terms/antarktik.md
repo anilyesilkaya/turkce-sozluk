@@ -2,6 +2,7 @@
 layout: term
 title: antarktik
 slug: antarktik
+letter: A
 lisan: Fransızca antarctique
 anlamlar:
 - Güney Kutbu ve çevresindeki bölgeyle ilgili

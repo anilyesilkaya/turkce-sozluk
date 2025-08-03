@@ -2,6 +2,7 @@
 layout: term
 title: sokabilmek
 slug: sokabilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sokma ihtimali veya imkânı bulunmak

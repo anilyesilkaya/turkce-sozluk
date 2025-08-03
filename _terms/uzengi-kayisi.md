@@ -2,6 +2,7 @@
 layout: term
 title: üzengi kayışı
 slug: uzengi-kayisi
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Eyerin sağına ve soluna takılan üzengi demirini özel toka ile eyere bağlayan kayış

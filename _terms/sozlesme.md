@@ -2,6 +2,7 @@
 layout: term
 title: sözleşme
 slug: sozlesme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sözleşmek işi; anlaşma, kavil, kavilleşme, kavletme

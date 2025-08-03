@@ -2,6 +2,7 @@
 layout: term
 title: bulanıklaşma
 slug: bulaniklasma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bulanıklaşmak işi

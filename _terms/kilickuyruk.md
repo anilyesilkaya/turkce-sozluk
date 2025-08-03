@@ -2,6 +2,7 @@
 layout: term
 title: kılıçkuyruk
 slug: kilickuyruk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kemikli balıklar takımından uzunluğu 8-10 santimetre olan, tropik süs balığı (Xiphophorus helleri)

@@ -2,6 +2,7 @@
 layout: term
 title: mefruş
 slug: mefrus
+letter: M
 lisan: Arapça mefrūş
 anlamlar:
 - ► döşeli

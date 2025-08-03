@@ -2,6 +2,7 @@
 layout: term
 title: gözden nihan olmak
 slug: gozden-nihan-olmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - gözden kaybolmak

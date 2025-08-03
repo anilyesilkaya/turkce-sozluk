@@ -2,6 +2,7 @@
 layout: term
 title: iştahsız
 slug: istahsiz
+letter: I
 lisan: Türkçe
 anlamlar:
 - Yemek yeme isteği olmayan; boğazsız

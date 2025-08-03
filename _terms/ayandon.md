@@ -2,6 +2,7 @@
 layout: term
 title: ayandon
 slug: ayandon
+letter: A
 lisan: Rumca
 anlamlar:
 - 18 Ocak'ta başlayan bir fırtına

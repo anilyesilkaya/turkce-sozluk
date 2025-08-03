@@ -2,6 +2,7 @@
 layout: term
 title: akışkanlık
 slug: akiskanlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Akışkan olma durumu

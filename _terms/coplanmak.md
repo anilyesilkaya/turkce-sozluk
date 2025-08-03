@@ -2,6 +2,7 @@
 layout: term
 title: coplanmak
 slug: coplanmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - Copla vurulmak, copla dövülmek

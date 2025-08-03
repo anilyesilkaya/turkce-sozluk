@@ -2,6 +2,7 @@
 layout: term
 title: gururunu okşamak
 slug: gururunu-oksamak
+letter: G
 lisan: Türkçe
 anlamlar:
 - yüzüne karşı değerini belirterek bir kimseyi duygulandırmak

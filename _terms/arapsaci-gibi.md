@@ -2,6 +2,7 @@
 layout: term
 title: arapsaçı gibi
 slug: arapsaci-gibi
+letter: A
 lisan: Türkçe
 anlamlar:
 - karmakarışık

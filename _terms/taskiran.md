@@ -2,6 +2,7 @@
 layout: term
 title: taşkıran
 slug: taskiran
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► taşkıran otu

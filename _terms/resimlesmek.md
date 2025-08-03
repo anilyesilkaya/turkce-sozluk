@@ -2,6 +2,7 @@
 layout: term
 title: resimleşmek
 slug: resimlesmek
+letter: R
 lisan: Türkçe
 anlamlar:
 - Resim durumuna gelmek

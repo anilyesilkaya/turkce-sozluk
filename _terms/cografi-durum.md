@@ -2,6 +2,7 @@
 layout: term
 title: coğrafi durum
 slug: cografi-durum
+letter: C
 lisan: Türkçe
 anlamlar:
 - Bir yerin çevresi ile ilgisinin tespiti veya görünümü

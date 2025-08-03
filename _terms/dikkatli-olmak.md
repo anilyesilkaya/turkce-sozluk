@@ -2,6 +2,7 @@
 layout: term
 title: dikkatli olmak
 slug: dikkatli-olmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - dikkat etmek, dikkat göstermek

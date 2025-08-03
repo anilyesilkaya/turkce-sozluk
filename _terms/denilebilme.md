@@ -2,6 +2,7 @@
 layout: term
 title: denilebilme
 slug: denilebilme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Denilebilmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: çekici
 slug: cekici
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Kaza veya arıza yapan, yanlış yere park eden aracı belli bir yere götürmek için kullanılan taşıt

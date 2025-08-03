@@ -2,6 +2,7 @@
 layout: term
 title: un ufak etmek
 slug: un-ufak-etmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - çok ufak kırıntılar durumuna getirmek, parçalamak

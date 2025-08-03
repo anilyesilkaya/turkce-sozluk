@@ -2,6 +2,7 @@
 layout: term
 title: kulis
 slug: kulis
+letter: K
 lisan: Fransızca coulisse
 anlamlar:
 - Sahnenin gerisinde ve yanlarında bulunan bölüm

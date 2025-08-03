@@ -2,6 +2,7 @@
 layout: term
 title: nominal
 slug: nominal
+letter: N
 lisan: Fransızca nominal
 anlamlar:
 - ► saymaca

@@ -2,6 +2,7 @@
 layout: term
 title: kafeşantan
 slug: kafesantan
+letter: K
 lisan: Fransızca café chantant
 anlamlar:
 - İçkili, çalgılı kahvehane

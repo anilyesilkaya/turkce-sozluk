@@ -2,6 +2,7 @@
 layout: term
 title: kafasının dikine gitmek
 slug: kafasinin-dikine-gitmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - kendi düşünce ve görüşünün en iyi olduğuna inanarak kimsenin öğüdünü, uyarısını dinlememek

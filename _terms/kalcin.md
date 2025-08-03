@@ -2,6 +2,7 @@
 layout: term
 title: kalçın
 slug: kalcin
+letter: K
 lisan: İtalyanca calzino
 anlamlar:
 - Üstüne başka bir şey giyilmek için abadan veya meşinden yapılan çizme biçiminde ayak giysisi

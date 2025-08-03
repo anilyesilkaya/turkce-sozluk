@@ -2,6 +2,7 @@
 layout: term
 title: ski
 slug: ski
+letter: S
 lisan: İngilizce ski
 anlamlar:
 - ► kayak

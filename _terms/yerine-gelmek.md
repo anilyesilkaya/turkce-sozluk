@@ -2,6 +2,7 @@
 layout: term
 title: yerine gelmek
 slug: yerine-gelmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yapılmak, olmak

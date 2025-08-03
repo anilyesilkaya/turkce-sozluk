@@ -2,6 +2,7 @@
 layout: term
 title: kolayca
 slug: kolayca
+letter: K
 lisan: Türkçe
 anlamlar:
 - Oldukça kolay

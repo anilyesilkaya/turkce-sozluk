@@ -2,6 +2,7 @@
 layout: term
 title: allamelik taslamak
 slug: allamelik-taslamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - her şeyi bilir görünmek, bilgiçlik taslamak

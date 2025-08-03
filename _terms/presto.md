@@ -2,6 +2,7 @@
 layout: term
 title: presto
 slug: presto
+letter: P
 lisan: İtalyanca presto
 anlamlar:
 - Çabuk, çok çabuk bir tempo ile

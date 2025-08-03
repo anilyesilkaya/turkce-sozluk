@@ -2,6 +2,7 @@
 layout: term
 title: boyutsuz
 slug: boyutsuz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boyutu olmayan, buutsuz

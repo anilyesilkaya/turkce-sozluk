@@ -2,6 +2,7 @@
 layout: term
 title: iktisadi
 slug: iktisadi
+letter: I
 lisan: Arapça iḳtiṣādī
 anlamlar:
 - ► ekonomik

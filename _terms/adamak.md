@@ -2,6 +2,7 @@
 layout: term
 title: adamak
 slug: adamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir dileğin gerçekleşmesi amacıyla kutsal olduğuna inanılan bir güce niyette bulunmak; nezretmek

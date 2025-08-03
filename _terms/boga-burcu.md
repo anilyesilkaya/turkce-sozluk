@@ -2,6 +2,7 @@
 layout: term
 title: Boğa Burcu
 slug: boga-burcu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Zodyak üzerinde Koç Burcu ile İkizler Burcu arasında yer alan takımyıldızın adı; Boğa, Sevir

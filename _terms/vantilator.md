@@ -2,6 +2,7 @@
 layout: term
 title: vantilatör
 slug: vantilator
+letter: V
 lisan: Fransızca ventilateur
 anlamlar:
 - Sıcak ve durgun havayı dalgalandırarak esinti sağlayan veya böyle bir ortama temiz hava üfleyen alet; fan (I)

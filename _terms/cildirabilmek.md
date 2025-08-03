@@ -2,6 +2,7 @@
 layout: term
 title: çıldırabilmek
 slug: cildirabilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıldırma ihtimali bulunmak

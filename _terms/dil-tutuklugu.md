@@ -2,6 +2,7 @@
 layout: term
 title: dil tutukluğu
 slug: dil-tutuklugu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dilin iyi çalışmamasından ileri gelen söyleme güçlüğü; anartri

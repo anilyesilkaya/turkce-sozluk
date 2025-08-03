@@ -2,6 +2,7 @@
 layout: term
 title: gâvurlaşmak
 slug: gavurlasmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - Toplumun genel kabullerinin dışına çıkmaya, başka dinlere mensupmuş gibi davranmaya başlamak

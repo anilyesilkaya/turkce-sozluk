@@ -2,6 +2,7 @@
 layout: term
 title: hodpesent
 slug: hodpesent
+letter: H
 lisan: Farsça ḫōdpesend
 anlamlar:
 - ► benci

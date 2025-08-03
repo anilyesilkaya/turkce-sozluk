@@ -2,6 +2,7 @@
 layout: term
 title: Fransız
 slug: fransiz
+letter: F
 lisan: Fransızca français
 anlamlar:
 - Fransa'da yaşayan halk ve bu halkın soyundan olan kimse; Fransalı

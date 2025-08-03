@@ -2,6 +2,7 @@
 layout: term
 title: bol bolamat
 slug: bol-bolamat
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bol bol

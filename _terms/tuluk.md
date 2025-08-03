@@ -2,6 +2,7 @@
 layout: term
 title: tuluk
 slug: tuluk
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► tulum

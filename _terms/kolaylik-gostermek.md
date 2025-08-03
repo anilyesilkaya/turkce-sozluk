@@ -2,6 +2,7 @@
 layout: term
 title: kolaylık göstermek
 slug: kolaylik-gostermek
+letter: K
 lisan: Türkçe
 anlamlar:
 - yapabilme yolu, imkânı sağlamak

@@ -2,6 +2,7 @@
 layout: term
 title: dünyasallaşma
 slug: dunyasallasma
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► dünyevileşme

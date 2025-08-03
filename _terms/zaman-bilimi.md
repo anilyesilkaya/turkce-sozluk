@@ -2,6 +2,7 @@
 layout: term
 title: zaman bilimi
 slug: zaman-bilimi
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Tarihsel olayların zamanını inceleme bilimi; kronoloji

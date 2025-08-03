@@ -2,6 +2,7 @@
 layout: term
 title: karabilmek
 slug: karabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karma ihtimali veya imkânı bulunmak

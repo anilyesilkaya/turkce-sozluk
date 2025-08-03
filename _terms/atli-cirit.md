@@ -2,6 +2,7 @@
 layout: term
 title: atlı cirit
 slug: atli-cirit
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► cirit

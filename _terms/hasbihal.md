@@ -2,6 +2,7 @@
 layout: term
 title: hasbihâl
 slug: hasbihal
+letter: H
 lisan: Arapça ḥasb + ḥāl
 anlamlar:
 - ► sohbet

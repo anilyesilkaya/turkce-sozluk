@@ -2,6 +2,7 @@
 layout: term
 title: erksizlik
 slug: erksizlik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Muktedir olmama durumu

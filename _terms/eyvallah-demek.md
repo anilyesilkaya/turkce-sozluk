@@ -2,6 +2,7 @@
 layout: term
 title: eyvallah demek
 slug: eyvallah-demek
+letter: E
 lisan: Türkçe
 anlamlar:
 - hoş görerek kabul etmek veya edilmek

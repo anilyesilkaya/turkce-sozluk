@@ -2,6 +2,7 @@
 layout: term
 title: yatkın bulmak
 slug: yatkin-bulmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - uygun görmek

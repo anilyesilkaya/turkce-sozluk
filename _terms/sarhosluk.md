@@ -2,6 +2,7 @@
 layout: term
 title: sarhoşluk
 slug: sarhosluk
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sarhoş olma durumu; esriklik, matizlik, mestlik, sermestlik, sermestî

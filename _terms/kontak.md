@@ -2,6 +2,7 @@
 layout: term
 title: kontak
 slug: kontak
+letter: K
 lisan: Fransızca contact
 anlamlar:
 - Karşıt elektrik taşıyan iki maddenin birbirine dokunması

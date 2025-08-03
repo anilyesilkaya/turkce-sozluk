@@ -2,6 +2,7 @@
 layout: term
 title: aktarlık
 slug: aktarlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aktarın yaptığı iş

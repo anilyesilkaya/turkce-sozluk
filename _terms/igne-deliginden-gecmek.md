@@ -2,6 +2,7 @@
 layout: term
 title: iğne deliğinden geçmek
 slug: igne-deliginden-gecmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - aşırı derecede zayıflamak

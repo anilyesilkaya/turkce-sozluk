@@ -2,6 +2,7 @@
 layout: term
 title: natürel
 slug: naturel
+letter: N
 lisan: Fransızca naturel
 anlamlar:
 - ► doğal

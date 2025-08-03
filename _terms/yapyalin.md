@@ -2,6 +2,7 @@
 layout: term
 title: yapyalın
 slug: yapyalin
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Çok yalın

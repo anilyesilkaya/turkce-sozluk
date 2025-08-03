@@ -2,6 +2,7 @@
 layout: term
 title: tanıyabilmek
 slug: taniyabilmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tanıma ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: tasvip
 slug: tasvip
+letter: T
 lisan: Arapça taṣvīb
 anlamlar:
 - Bir düşünce veya davranışın doğru ve isabetli olduğunu belirtme, uygun bulma; onama

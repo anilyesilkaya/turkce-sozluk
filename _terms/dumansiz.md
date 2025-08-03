@@ -2,6 +2,7 @@
 layout: term
 title: dumansız
 slug: dumansiz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dumanı olmayan, duman çıkarmayan

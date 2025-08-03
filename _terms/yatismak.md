@@ -2,6 +2,7 @@
 layout: term
 title: yatışmak
 slug: yatismak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Hızı, etkisi azalmak, aşırılığı geçmek

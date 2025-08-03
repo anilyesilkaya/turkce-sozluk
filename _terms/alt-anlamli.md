@@ -2,6 +2,7 @@
 layout: term
 title: alt anlamlı
 slug: alt-anlamli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alt anlamı olan; örtük anlamlı, örtülü anlamlı

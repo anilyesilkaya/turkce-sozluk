@@ -2,6 +2,7 @@
 layout: term
 title: hopurdatmak
 slug: hopurdatmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► höpürdetmek

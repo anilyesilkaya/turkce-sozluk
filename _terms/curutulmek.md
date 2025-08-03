@@ -2,6 +2,7 @@
 layout: term
 title: çürütülmek
 slug: curutulmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çürütme işine konu olmak

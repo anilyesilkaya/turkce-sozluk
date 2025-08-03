@@ -2,6 +2,7 @@
 layout: term
 title: duyumsamak
 slug: duyumsamak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Duyular aracılığıyla bir şeyi algılamak

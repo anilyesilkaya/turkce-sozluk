@@ -2,6 +2,7 @@
 layout: term
 title: kolluk kuvveti
 slug: kolluk-kuvveti
+letter: K
 lisan: Türkçe
 anlamlar:
 - Güvenlik güçlerinin oluşturduğu birlik

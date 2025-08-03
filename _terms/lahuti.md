@@ -2,6 +2,7 @@
 layout: term
 title: lahuti
 slug: lahuti
+letter: L
 lisan: Arapça lāhūtī
 anlamlar:
 - ► ilahi (I)

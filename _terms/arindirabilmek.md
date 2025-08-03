@@ -2,6 +2,7 @@
 layout: term
 title: arındırabilmek
 slug: arindirabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arındırma ihtimali veya imkânı bulunmak

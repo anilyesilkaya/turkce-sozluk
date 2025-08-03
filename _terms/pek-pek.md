@@ -2,6 +2,7 @@
 layout: term
 title: pek pek
 slug: pek-pek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Olsa olsa, en üstün olarak

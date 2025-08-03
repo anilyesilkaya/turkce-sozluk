@@ -2,6 +2,7 @@
 layout: term
 title: kargoculuk
 slug: kargoculuk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kargocunun yaptığı iş

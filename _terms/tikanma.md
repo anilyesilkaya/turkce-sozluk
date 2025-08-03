@@ -2,6 +2,7 @@
 layout: term
 title: tıkanma
 slug: tikanma
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tıkanmak işi; bekiniş, bekinme

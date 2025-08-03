@@ -2,6 +2,7 @@
 layout: term
 title: aşırtı
 slug: asirti
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► aşırma

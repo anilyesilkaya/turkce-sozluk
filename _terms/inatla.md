@@ -2,6 +2,7 @@
 layout: term
 title: inatla
 slug: inatla
+letter: I
 lisan: Türkçe
 anlamlar:
 - Ayak direyerek

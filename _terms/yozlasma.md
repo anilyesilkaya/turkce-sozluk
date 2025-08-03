@@ -2,6 +2,7 @@
 layout: term
 title: yozlaşma
 slug: yozlasma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yozlaşmak durumu; dejenereleşme, tereddi, dejenerasyon

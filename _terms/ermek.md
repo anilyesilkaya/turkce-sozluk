@@ -2,6 +2,7 @@
 layout: term
 title: ermek
 slug: ermek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Bir şeye erişmek, ulaşmak

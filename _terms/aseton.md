@@ -2,6 +2,7 @@
 layout: term
 title: aseton
 slug: aseton
+letter: A
 lisan: Fransızca acétone
 anlamlar:
 - Birçok organik maddeyi eritmekte kullanılan uçucu, kolayca alev alır, eter kokusunda bir sıvı

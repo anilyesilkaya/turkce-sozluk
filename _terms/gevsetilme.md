@@ -2,6 +2,7 @@
 layout: term
 title: gevşetilme
 slug: gevsetilme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gevşetilmek işi

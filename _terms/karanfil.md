@@ -2,6 +2,7 @@
 layout: term
 title: karanfil
 slug: karanfil
+letter: K
 lisan: Arapça ḳaranful
 anlamlar:
 - Karanfilgillerden, güzel renkli çiçekler açan bir süs bitkisi (Dianthus caryophyllus)

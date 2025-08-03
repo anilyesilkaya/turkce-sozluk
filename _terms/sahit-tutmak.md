@@ -2,6 +2,7 @@
 layout: term
 title: şahit tutmak
 slug: sahit-tutmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - birini tanık olarak göstermek

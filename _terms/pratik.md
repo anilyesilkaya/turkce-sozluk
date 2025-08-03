@@ -2,6 +2,7 @@
 layout: term
 title: pratik
 slug: pratik
+letter: P
 lisan: Fransızca pratique
 anlamlar:
 - Kolaylıkla uygulanabilir, kullanışlı olan

@@ -2,6 +2,7 @@
 layout: term
 title: talihin kucağına atılmak
 slug: talihin-kucagina-atilmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - kendi kaderine boyun eğmek

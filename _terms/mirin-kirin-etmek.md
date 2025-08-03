@@ -2,6 +2,7 @@
 layout: term
 title: mırın kırın etmek
 slug: mirin-kirin-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - bir isteği yerine getirmemek için çeşitli sebepler ileri sürmek, nazlanmak

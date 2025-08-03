@@ -2,6 +2,7 @@
 layout: term
 title: gök kubbe
 slug: gok-kubbe
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► gök

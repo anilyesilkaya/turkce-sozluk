@@ -2,6 +2,7 @@
 layout: term
 title: barıştırmak
 slug: baristirmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Barışmalarını sağlamak, ara bulmak

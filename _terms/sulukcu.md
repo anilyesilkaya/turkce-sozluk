@@ -2,6 +2,7 @@
 layout: term
 title: sülükçü
 slug: sulukcu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sülük satan kimse

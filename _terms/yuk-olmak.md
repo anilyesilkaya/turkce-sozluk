@@ -2,6 +2,7 @@
 layout: term
 title: yük olmak
 slug: yuk-olmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - zahmet, sıkıntı vermek

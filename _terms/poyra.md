@@ -2,6 +2,7 @@
 layout: term
 title: poyra
 slug: poyra
+letter: P
 lisan: Rumca
 anlamlar:
 - Tekerleğin ortasındaki parmakların ve dingilin geçirildiği yuvarlak kısım; göbek

@@ -2,6 +2,7 @@
 layout: term
 title: feryat etmek
 slug: feryat-etmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - yüksek sesle haykırmak

@@ -2,6 +2,7 @@
 layout: term
 title: pikap
 slug: pikap
+letter: P
 lisan: İngilizce pick-up
 anlamlar:
 - ► kamyonet

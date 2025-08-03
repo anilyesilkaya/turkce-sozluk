@@ -2,6 +2,7 @@
 layout: term
 title: nemrutlaşmak
 slug: nemrutlasmak
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nemrut gibi davranmak

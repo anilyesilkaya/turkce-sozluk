@@ -2,6 +2,7 @@
 layout: term
 title: perdeli pilav
 slug: perdeli-pilav
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► perde pilavı

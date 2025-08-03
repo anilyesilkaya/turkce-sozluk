@@ -2,6 +2,7 @@
 layout: term
 title: çabalayadurmak
 slug: cabalayadurmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çabalamasını sürdürmek

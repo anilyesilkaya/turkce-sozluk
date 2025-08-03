@@ -2,6 +2,7 @@
 layout: term
 title: kapılandırmak
 slug: kapilandirmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kapılanmasını sağlamak

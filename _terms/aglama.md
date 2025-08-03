@@ -2,6 +2,7 @@
 layout: term
 title: ağlama
 slug: aglama
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağlamak işi

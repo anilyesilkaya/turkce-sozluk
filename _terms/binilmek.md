@@ -2,6 +2,7 @@
 layout: term
 title: binilmek
 slug: binilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Binme işi yapılmak

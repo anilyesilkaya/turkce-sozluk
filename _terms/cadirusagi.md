@@ -2,6 +2,7 @@
 layout: term
 title: çadıruşağı
 slug: cadirusagi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Maydanozgillerden, öz suyu hekimlikte kullanılan bir bitki (Dorema ammoniacum)

@@ -2,6 +2,7 @@
 layout: term
 title: kaçkınımsı
 slug: kackinimsi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaçkını andırır, kaçkına benzer

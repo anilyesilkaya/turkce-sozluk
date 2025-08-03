@@ -2,6 +2,7 @@
 layout: term
 title: laubali
 slug: laubali
+letter: L
 lisan: Arapça lāʾubālī
 anlamlar:
 - Saygısız, çekinmesi olmayan

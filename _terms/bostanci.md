@@ -2,6 +2,7 @@
 layout: term
 title: bostancı
 slug: bostanci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bostan işleriyle uğraşan kimse

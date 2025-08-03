@@ -2,6 +2,7 @@
 layout: term
 title: iç güveyisi girmek
 slug: ic-guveyisi-girmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - karısının ailesinin evinde oturmak üzere evlenmek

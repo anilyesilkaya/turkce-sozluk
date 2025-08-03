@@ -2,6 +2,7 @@
 layout: term
 title: bağlamak
 slug: baglamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - İp, bağ veya başka bir araçla bir şeyi bir yere veya birkaç şeyi birbirine tutturmak, birleştirmek

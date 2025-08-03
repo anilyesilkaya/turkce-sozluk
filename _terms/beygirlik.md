@@ -2,6 +2,7 @@
 layout: term
 title: beygirlik
 slug: beygirlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beygire ait, beygir için

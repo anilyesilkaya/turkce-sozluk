@@ -2,6 +2,7 @@
 layout: term
 title: resimsi
 slug: resimsi
+letter: R
 lisan: Türkçe
 anlamlar:
 - Resmi andıran, resme benzeyen, resim gibi

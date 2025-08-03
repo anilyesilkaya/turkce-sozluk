@@ -2,6 +2,7 @@
 layout: term
 title: tetikte (veya tetik) olmak (veya beklemek veya bulunmak veya durmak)
 slug: tetikte-veya-tetik-olmak-veya-beklemek-veya-bulunmak-veya-durmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - her an uyanık ve hazır bulunmak

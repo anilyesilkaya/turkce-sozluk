@@ -2,6 +2,7 @@
 layout: term
 title: keres
 slug: keres
+letter: K
 lisan: Türkçe
 anlamlar:
 - Büyük ve derin karavana

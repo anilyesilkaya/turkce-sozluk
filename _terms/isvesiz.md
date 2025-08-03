@@ -2,6 +2,7 @@
 layout: term
 title: işvesiz
 slug: isvesiz
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► cilvesiz

@@ -2,6 +2,7 @@
 layout: term
 title: tuzculuk
 slug: tuzculuk
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tuzcunun işi

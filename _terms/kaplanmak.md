@@ -2,6 +2,7 @@
 layout: term
 title: kaplanmak
 slug: kaplanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaplama işi yapılmak

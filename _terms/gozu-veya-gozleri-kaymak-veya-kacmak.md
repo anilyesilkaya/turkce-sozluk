@@ -2,6 +2,7 @@
 layout: term
 title: gözü (veya gözleri) kaymak (veya kaçmak)
 slug: gozu-veya-gozleri-kaymak-veya-kacmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - gözünde hafifçe şaşılık bulunmak

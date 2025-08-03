@@ -2,6 +2,7 @@
 layout: term
 title: cikcik
 slug: cikcik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Beyaz kum midyesi

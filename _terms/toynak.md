@@ -2,6 +2,7 @@
 layout: term
 title: toynak
 slug: toynak
+letter: T
 lisan: Türkçe
 anlamlar:
 - At, eşek vb. tek tırnaklı hayvanların tırnağı

@@ -2,6 +2,7 @@
 layout: term
 title: ayıplamak
 slug: ayiplamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir durumun, bir davranışın veya sözün toplumun ahlak kurallarına aykırı, utanılacak bir davranış veya söz olduğunu belirtir biçimde muhatabına söylemek

@@ -2,6 +2,7 @@
 layout: term
 title: hatıra defteri
 slug: hatira-defteri
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► anı defteri

@@ -2,6 +2,7 @@
 layout: term
 title: yalaz yalaz yanmak
 slug: yalaz-yalaz-yanmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yüksek ateş içinde bulunmak

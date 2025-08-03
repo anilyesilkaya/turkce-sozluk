@@ -2,6 +2,7 @@
 layout: term
 title: andız
 slug: andiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yaprakları dikenli olan bir tür ardıç

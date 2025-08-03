@@ -2,6 +2,7 @@
 layout: term
 title: tekila
 slug: tekila
+letter: T
 lisan: İngilizce tequila
 anlamlar:
 - Sert bir Meksika içkisi

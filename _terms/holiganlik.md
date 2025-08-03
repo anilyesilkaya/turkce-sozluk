@@ -2,6 +2,7 @@
 layout: term
 title: holiganlık
 slug: holiganlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Holigan olma durumu

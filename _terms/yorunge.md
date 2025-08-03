@@ -2,6 +2,7 @@
 layout: term
 title: yörünge
 slug: yorunge
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir gök cisminin hareketi süresince izlediği yol; mahrek

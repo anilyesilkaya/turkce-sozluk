@@ -2,6 +2,7 @@
 layout: term
 title: velet
 slug: velet
+letter: V
 lisan: Arapça veled
 anlamlar:
 - ► çocuk

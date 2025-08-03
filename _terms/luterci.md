@@ -2,6 +2,7 @@
 layout: term
 title: Lüterci
 slug: luterci
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lütercilikten yana olan

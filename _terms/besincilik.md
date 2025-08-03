@@ -2,6 +2,7 @@
 layout: term
 title: beşincilik
 slug: besincilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beşinci olma durumu

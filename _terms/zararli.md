@@ -2,6 +2,7 @@
 layout: term
 title: zararlı
 slug: zararli
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zarar veren, zararı dokunan; dokuncalı, muzır

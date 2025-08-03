@@ -2,6 +2,7 @@
 layout: term
 title: torbacık
 slug: torbacik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Küçük torba

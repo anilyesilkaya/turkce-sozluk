@@ -2,6 +2,7 @@
 layout: term
 title: okşamak
 slug: oksamak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Sevgi, şefkat belirtisi olarak elini bir şeyin üzerinde yavaş yavaş gezdirmek veya ona hafifçe vurmak; sevmek, sıvazlamak

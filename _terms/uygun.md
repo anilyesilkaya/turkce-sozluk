@@ -2,6 +2,7 @@
 layout: term
 title: uygun
 slug: uygun
+letter: U
 lisan: Türkçe
 anlamlar:
 - Yakışır, yaraşır; mutabık, muvafık, reva

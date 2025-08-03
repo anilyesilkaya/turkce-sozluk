@@ -2,6 +2,7 @@
 layout: term
 title: dökmeci
 slug: dokmeci
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► dökümcü

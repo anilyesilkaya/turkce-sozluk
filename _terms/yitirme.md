@@ -2,6 +2,7 @@
 layout: term
 title: yitirme
 slug: yitirme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yitirmek işi

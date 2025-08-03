@@ -2,6 +2,7 @@
 layout: term
 title: göğüs darlığı
 slug: gogus-darligi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Solunumu güçleştiren hastalık

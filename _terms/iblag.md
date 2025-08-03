@@ -2,6 +2,7 @@
 layout: term
 title: iblağ
 slug: iblag
+letter: I
 lisan: Arapça iblāġ
 anlamlar:
 - Ulaştırma, eriştirme

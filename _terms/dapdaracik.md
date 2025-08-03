@@ -2,6 +2,7 @@
 layout: term
 title: dapdaracık
 slug: dapdaracik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çok dar

@@ -2,6 +2,7 @@
 layout: term
 title: rehabilite
 slug: rehabilite
+letter: R
 lisan: Fransızca réhabilite
 anlamlar:
 - ► iyileştirme

@@ -2,6 +2,7 @@
 layout: term
 title: kalpaklı
 slug: kalpakli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalpak giymiş

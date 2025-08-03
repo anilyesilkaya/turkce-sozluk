@@ -2,6 +2,7 @@
 layout: term
 title: elini kolunu sallaya sallaya gezmek
 slug: elini-kolunu-sallaya-sallaya-gezmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - ortada görünmemesi gereken kimse pervasızca dolaşmak

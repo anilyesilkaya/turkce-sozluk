@@ -2,6 +2,7 @@
 layout: term
 title: kökünü kazımak
 slug: kokunu-kazimak
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir daha üreyemez duruma getirmek, hiçbir kalıntısını bırakmamak, yok etmek

@@ -2,6 +2,7 @@
 layout: term
 title: 'kostaniçeli '
 slug: kostaniceli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kostaniçesi olan

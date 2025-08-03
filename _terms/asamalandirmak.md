@@ -2,6 +2,7 @@
 layout: term
 title: aşamalandırmak
 slug: asamalandirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aşamalara ayırmak

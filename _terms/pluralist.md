@@ -2,6 +2,7 @@
 layout: term
 title: plüralist
 slug: pluralist
+letter: P
 lisan: Fransızca pluraliste
 anlamlar:
 - ► çoğulcu

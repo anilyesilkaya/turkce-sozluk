@@ -2,6 +2,7 @@
 layout: term
 title: hokkabazlık
 slug: hokkabazlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hokkabazın yaptığı iş; hokka oyunu

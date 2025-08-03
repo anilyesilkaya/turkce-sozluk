@@ -2,6 +2,7 @@
 layout: term
 title: delişmence
 slug: delismence
+letter: D
 lisan: Türkçe
 anlamlar:
 - Delişmene yakışır biçimde

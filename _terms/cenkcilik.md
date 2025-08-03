@@ -2,6 +2,7 @@
 layout: term
 title: cenkçilik
 slug: cenkcilik
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► savaşçılık

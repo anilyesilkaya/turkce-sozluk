@@ -2,6 +2,7 @@
 layout: term
 title: nüfus kâğıdı
 slug: nufus-kagidi
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► nüfus cüzdanı

@@ -2,6 +2,7 @@
 layout: term
 title: namussuzca
 slug: namussuzca
+letter: N
 lisan: Türkçe
 anlamlar:
 - Namussuz bir biçimde; namussuzcasına

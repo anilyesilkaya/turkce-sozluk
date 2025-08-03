@@ -2,6 +2,7 @@
 layout: term
 title: müstahzar
 slug: mustahzar
+letter: M
 lisan: Arapça mustaḥżar
 anlamlar:
 - Kullanıma hazır duruma getirilmiş, hazırlanmış

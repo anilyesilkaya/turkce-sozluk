@@ -2,6 +2,7 @@
 layout: term
 title: dalgasız
 slug: dalgasiz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dalgası olmayan

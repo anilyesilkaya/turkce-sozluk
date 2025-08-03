@@ -2,6 +2,7 @@
 layout: term
 title: işlemek
 slug: islemek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bir şeye emek vererek onu daha elverişli bir duruma getirmek

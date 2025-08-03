@@ -2,6 +2,7 @@
 layout: term
 title: salatüselam
 slug: salatuselam
+letter: S
 lisan: Arapça ṣalāt + selām
 anlamlar:
 - Hz. Peygambere ve onun soyundan gelenlere saygı bildirmek için okunan dua

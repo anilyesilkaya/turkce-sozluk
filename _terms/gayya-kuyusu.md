@@ -2,6 +2,7 @@
 layout: term
 title: gayya kuyusu
 slug: gayya-kuyusu
+letter: G
 lisan: Türkçe
 anlamlar:
 - İçine düşüldüğünde kolay çıkılamayan dertli, belalı yer veya durum; gayya

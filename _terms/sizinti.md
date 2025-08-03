@@ -2,6 +2,7 @@
 layout: term
 title: sızıntı
 slug: sizinti
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sızan şey

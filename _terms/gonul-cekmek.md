@@ -2,6 +2,7 @@
 layout: term
 title: gönül çekmek
 slug: gonul-cekmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - sevdalı olmak

@@ -2,6 +2,7 @@
 layout: term
 title: köprücü
 slug: koprucu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Köprü yapan kimse

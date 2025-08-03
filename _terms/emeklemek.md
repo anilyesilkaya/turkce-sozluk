@@ -2,6 +2,7 @@
 layout: term
 title: emeklemek
 slug: emeklemek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ayağa kalkmadan hem dizleri hem de elleri kullanarak ilerlemek

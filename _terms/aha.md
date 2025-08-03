@@ -2,6 +2,7 @@
 layout: term
 title: aha
 slug: aha
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► işte

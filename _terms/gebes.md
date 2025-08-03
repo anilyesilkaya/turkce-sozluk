@@ -2,6 +2,7 @@
 layout: term
 title: gebeş
 slug: gebes
+letter: G
 lisan: Türkçe
 anlamlar:
 - Karnı şiş olan (kimse)

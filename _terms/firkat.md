@@ -2,6 +2,7 @@
 layout: term
 title: firkat
 slug: firkat
+letter: F
 lisan: Arapça firḳat
 anlamlar:
 - ► ayrılık

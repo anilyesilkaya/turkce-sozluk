@@ -2,6 +2,7 @@
 layout: term
 title: mücerretlik
 slug: mucerretlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mücerret olma durumu

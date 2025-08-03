@@ -2,6 +2,7 @@
 layout: term
 title: ilk mektep
 slug: ilk-mektep
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► ilkokul

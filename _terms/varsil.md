@@ -2,6 +2,7 @@
 layout: term
 title: varsıl
 slug: varsil
+letter: V
 lisan: Türkçe
 anlamlar:
 - Parası, malı çok olan, zengin, yoksul karşıtı

@@ -2,6 +2,7 @@
 layout: term
 title: sıyırabilmek
 slug: siyirabilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıyırma ihtimali veya imkânı bulunmak

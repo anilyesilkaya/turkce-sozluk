@@ -2,6 +2,7 @@
 layout: term
 title: çulha
 slug: culha
+letter: Ç
 lisan: Farsça cūlāh
 anlamlar:
 - El tezgâhında bez dokuyan kimse

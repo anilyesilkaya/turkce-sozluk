@@ -2,6 +2,7 @@
 layout: term
 title: şarlatan
 slug: sarlatan
+letter: Ş
 lisan: Fransızca charlatan
 anlamlar:
 - Kendi bilgi ve niteliklerini veya mallarını överek karşısındakini kandıran, dolandıran kimse

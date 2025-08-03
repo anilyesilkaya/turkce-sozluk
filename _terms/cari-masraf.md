@@ -2,6 +2,7 @@
 layout: term
 title: cari masraf
 slug: cari-masraf
+letter: C
 lisan: Türkçe
 anlamlar:
 - Belirli bir dönemde yapılan harcamalar

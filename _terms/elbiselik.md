@@ -2,6 +2,7 @@
 layout: term
 title: elbiselik
 slug: elbiselik
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► giysilik

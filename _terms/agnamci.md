@@ -2,6 +2,7 @@
 layout: term
 title: ağnamcı
 slug: agnamci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Sayım vergisi toplayan kimse

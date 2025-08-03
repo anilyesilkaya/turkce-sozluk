@@ -2,6 +2,7 @@
 layout: term
 title: izah
 slug: izah
+letter: I
 lisan: Arapça īżāḥ
 anlamlar:
 - ► açıklama

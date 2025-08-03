@@ -2,6 +2,7 @@
 layout: term
 title: tökezmek
 slug: tokezmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► tökezlemek

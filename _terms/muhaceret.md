@@ -2,6 +2,7 @@
 layout: term
 title: muhaceret
 slug: muhaceret
+letter: M
 lisan: Arapça muhāceret
 anlamlar:
 - ► göç

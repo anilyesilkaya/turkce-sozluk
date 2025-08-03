@@ -2,6 +2,7 @@
 layout: term
 title: kiriş
 slug: kiris
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bazı telli müzik araçlarında kullanılan, hayvan bağırsaklarından yapılan tel

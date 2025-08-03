@@ -2,6 +2,7 @@
 layout: term
 title: halt karıştırmak
 slug: halt-karistirmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - halt etmek

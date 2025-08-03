@@ -2,6 +2,7 @@
 layout: term
 title: ol
 slug: ol
+letter: O
 lisan: Türkçe
 anlamlar:
 - O gösterme sıfatı

@@ -2,6 +2,7 @@
 layout: term
 title: otçullar
 slug: otcullar
+letter: O
 lisan: Türkçe
 anlamlar:
 - Bitki yiyerek beslenen canlılar; otoburlar

@@ -2,6 +2,7 @@
 layout: term
 title: oramirallik
 slug: oramirallik
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oramiral olma durumu

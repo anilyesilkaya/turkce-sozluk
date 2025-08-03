@@ -2,6 +2,7 @@
 layout: term
 title: anayasacı
 slug: anayasaci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anayasayı savunan, anayasadan yana olan (kimse)

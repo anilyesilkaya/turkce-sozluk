@@ -2,6 +2,7 @@
 layout: term
 title: asma merdiven
 slug: asma-merdiven
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yukarı ucundan bir yere asılarak kullanılan ip merdiven

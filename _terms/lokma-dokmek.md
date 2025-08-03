@@ -2,6 +2,7 @@
 layout: term
 title: lokma dökmek
 slug: lokma-dokmek
+letter: L
 lisan: Türkçe
 anlamlar:
 - lokma tatlısı yapmak

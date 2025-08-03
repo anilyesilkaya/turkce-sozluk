@@ -2,6 +2,7 @@
 layout: term
 title: tasalı
 slug: tasali
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► kaygılı

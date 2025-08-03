@@ -2,6 +2,7 @@
 layout: term
 title: delikli
 slug: delikli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Deliği veya delikleri olan

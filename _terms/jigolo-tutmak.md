@@ -2,6 +2,7 @@
 layout: term
 title: jigolo tutmak
 slug: jigolo-tutmak
+letter: J
 lisan: Türkçe
 anlamlar:
 - yaşlı, zengin bir kadın genç bir erkekle ilişki kurmak

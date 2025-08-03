@@ -2,6 +2,7 @@
 layout: term
 title: evlendirmek
 slug: evlendirmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Evlenmesini sağlamak; evermek, yapmak

@@ -2,6 +2,7 @@
 layout: term
 title: dar zaman
 slug: dar-zaman
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çok kısa bir süre; dar vakit

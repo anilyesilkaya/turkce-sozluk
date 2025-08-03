@@ -2,6 +2,7 @@
 layout: term
 title: nafi
 slug: nafi
+letter: N
 lisan: Arapça nāfiʿ
 anlamlar:
 - ► yararlı

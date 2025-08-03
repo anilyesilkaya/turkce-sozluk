@@ -2,6 +2,7 @@
 layout: term
 title: etkin
 slug: etkin
+letter: E
 lisan: Türkçe
 anlamlar:
 - Hareket hâlinde olan; faal, aktif

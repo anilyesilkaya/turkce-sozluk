@@ -2,6 +2,7 @@
 layout: term
 title: gülibrişim
 slug: gulibrisim
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► ipek ağacı

@@ -2,6 +2,7 @@
 layout: term
 title: sayısız
 slug: sayisiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sayılmayacak kadar çok; sayımsız

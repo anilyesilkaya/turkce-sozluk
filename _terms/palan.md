@@ -2,6 +2,7 @@
 layout: term
 title: palan
 slug: palan
+letter: P
 lisan: Farsça pālān
 anlamlar:
 - Genellikle eşeklere, bazen de atlara vurulan, kaşsız, enli, yayvan ve yumuşak bir tür eyer; kürtün (I)

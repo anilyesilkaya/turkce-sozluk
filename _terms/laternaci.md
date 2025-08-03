@@ -2,6 +2,7 @@
 layout: term
 title: laternacı
 slug: laternaci
+letter: L
 lisan: Türkçe
 anlamlar:
 - Laterna yapan, satan veya çalan kimse

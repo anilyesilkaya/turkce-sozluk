@@ -2,6 +2,7 @@
 layout: term
 title: parmak ısırmak
 slug: parmak-isirmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - büyük şaşkınlık duymak

@@ -2,6 +2,7 @@
 layout: term
 title: itmek
 slug: itmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bir şeyi güç uygulayarak ileri götürmek

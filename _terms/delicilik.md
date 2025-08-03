@@ -2,6 +2,7 @@
 layout: term
 title: delicilik
 slug: delicilik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Delici olma durumu

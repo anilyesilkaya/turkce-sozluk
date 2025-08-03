@@ -2,6 +2,7 @@
 layout: term
 title: bostancılık
 slug: bostancilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bostancının yaptığı iş

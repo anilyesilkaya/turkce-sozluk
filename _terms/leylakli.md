@@ -2,6 +2,7 @@
 layout: term
 title: leylaklı
 slug: leylakli
+letter: L
 lisan: Türkçe
 anlamlar:
 - İçinde leylak bulunan

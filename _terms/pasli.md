@@ -2,6 +2,7 @@
 layout: term
 title: paslı
 slug: pasli
+letter: P
 lisan: Türkçe
 anlamlar:
 - Üzerinde pas oluşmuş, pas tutmuş, paslanmış

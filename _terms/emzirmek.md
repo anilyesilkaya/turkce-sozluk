@@ -2,6 +2,7 @@
 layout: term
 title: emzirmek
 slug: emzirmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Kadın veya dişi hayvan, memesindeki sütü yavruya vermek

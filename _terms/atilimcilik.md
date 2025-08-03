@@ -2,6 +2,7 @@
 layout: term
 title: atılımcılık
 slug: atilimcilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Atılımcı olma durumu; hamlecilik

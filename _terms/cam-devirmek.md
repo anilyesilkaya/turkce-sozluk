@@ -2,6 +2,7 @@
 layout: term
 title: çam devirmek
 slug: cam-devirmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - karşısındakine dokunacak veya kötü bir sonuç doğuracak söz söylemek

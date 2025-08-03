@@ -2,6 +2,7 @@
 layout: term
 title: dolduruşa gelmek (veya kapılmak)
 slug: doldurusa-gelmek-veya-kapilmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - olumsuz yönde yönlendirilmek, kışkırtılmak

@@ -2,6 +2,7 @@
 layout: term
 title: hususiyet
 slug: hususiyet
+letter: H
 lisan: Arapça ḫuṣūṣiyyet
 anlamlar:
 - ► özellik

@@ -2,6 +2,7 @@
 layout: term
 title: silkelemek
 slug: silkelemek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Üstündeki şeyleri düşürmek, kaydırmak için bir şeyi üst üste, birden silkmek

@@ -2,6 +2,7 @@
 layout: term
 title: hasret çekmek
 slug: hasret-cekmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - özlem duymak

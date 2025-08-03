@@ -2,6 +2,7 @@
 layout: term
 title: sünger
 slug: sunger
+letter: S
 lisan: Rumca
 anlamlar:
 - Genellikle denizlerde bir yere tutunarak koloni durumunda yaşayan, çok hücreli ilkel hayvan

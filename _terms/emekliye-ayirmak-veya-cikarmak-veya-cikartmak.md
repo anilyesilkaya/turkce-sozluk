@@ -2,6 +2,7 @@
 layout: term
 title: emekliye ayırmak (veya çıkarmak veya çıkartmak)
 slug: emekliye-ayirmak-veya-cikarmak-veya-cikartmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - kanuna göre aylık bağlayarak bir görevliyi görevinden ayırmak

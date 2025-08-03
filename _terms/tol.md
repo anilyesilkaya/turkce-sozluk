@@ -2,6 +2,7 @@
 layout: term
 title: tol
 slug: tol
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taş kemer veya taş kemerlerle yapılmış ev, oda, kapı vb. şey

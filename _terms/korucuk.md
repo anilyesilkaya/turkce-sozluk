@@ -2,6 +2,7 @@
 layout: term
 title: korucuk
 slug: korucuk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Küçük koru

@@ -2,6 +2,7 @@
 layout: term
 title: beslenme çantası
 slug: beslenme-cantasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Anaokulu, ilköğretim okulu vb. eğitim kurumlarındaki öğrencilerinin beslenme saatindeki yiyeceklerini içinde bulundurdukları çanta

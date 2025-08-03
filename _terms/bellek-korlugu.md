@@ -2,6 +2,7 @@
 layout: term
 title: bellek körlüğü
 slug: bellek-korlugu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bireyin çevreyi iyi algılayamamasına yol açan bellek bozukluğu

@@ -2,6 +2,7 @@
 layout: term
 title: baba yarısı
 slug: baba-yarisi
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► amca

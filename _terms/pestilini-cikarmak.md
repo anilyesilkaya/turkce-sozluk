@@ -2,6 +2,7 @@
 layout: term
 title: pestilini çıkarmak
 slug: pestilini-cikarmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - çok yormak

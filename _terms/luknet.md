@@ -2,6 +2,7 @@
 layout: term
 title: lüknet
 slug: luknet
+letter: L
 lisan: Arapça luknet
 anlamlar:
 - Dilde pelteklik, tutukluk durumu

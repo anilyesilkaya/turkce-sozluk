@@ -2,6 +2,7 @@
 layout: term
 title: çocuk başına
 slug: cocuk-basina
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Tek başına çocuk olarak

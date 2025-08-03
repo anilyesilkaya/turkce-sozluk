@@ -2,6 +2,7 @@
 layout: term
 title: sokağa (veya sokaklara) düşmek
 slug: sokaga-veya-sokaklara-dusmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - bir şey çoğalıp değerini yitirmek

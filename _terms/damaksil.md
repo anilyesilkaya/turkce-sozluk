@@ -2,6 +2,7 @@
 layout: term
 title: damaksıl
 slug: damaksil
+letter: D
 lisan: Türkçe
 anlamlar:
 - Damakla ilgili

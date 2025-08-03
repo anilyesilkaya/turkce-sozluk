@@ -2,6 +2,7 @@
 layout: term
 title: alçakça
 slug: alcakca
+letter: A
 lisan: Türkçe
 anlamlar:
 - Oldukça alçak

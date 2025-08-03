@@ -2,6 +2,7 @@
 layout: term
 title: taşçılık
 slug: tascilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taşçı olma durumu

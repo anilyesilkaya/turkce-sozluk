@@ -2,6 +2,7 @@
 layout: term
 title: cazır cazır
 slug: cazir-cazir
+letter: C
 lisan: Türkçe
 anlamlar:
 - Güçlü ve sesli olarak (kaynamak, yanmak)

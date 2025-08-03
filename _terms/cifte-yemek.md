@@ -2,6 +2,7 @@
 layout: term
 title: çifte yemek
 slug: cifte-yemek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - hayvanın çiftesine maruz kalmak

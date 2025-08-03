@@ -2,6 +2,7 @@
 layout: term
 title: cımbızcı
 slug: cimbizci
+letter: C
 lisan: Türkçe
 anlamlar:
 - Dokumacılıkta cımbızlama işini yapan kimse

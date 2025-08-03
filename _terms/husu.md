@@ -2,6 +2,7 @@
 layout: term
 title: huşu
 slug: husu
+letter: H
 lisan: Arapça ḫuşūʿ
 anlamlar:
 - Yüreği ürperme ve korku ile dolu olarak Allah’a boyun eğme

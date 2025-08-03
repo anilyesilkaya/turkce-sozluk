@@ -2,6 +2,7 @@
 layout: term
 title: süpürgelik
 slug: supurgelik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Süpürge yapmaya elverişli olan çalı, bitki vb

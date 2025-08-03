@@ -2,6 +2,7 @@
 layout: term
 title: zabıt kâtipliği
 slug: zabit-katipligi
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zabit kâtibinin işi

@@ -2,6 +2,7 @@
 layout: term
 title: ithal etmek
 slug: ithal-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - içine almak

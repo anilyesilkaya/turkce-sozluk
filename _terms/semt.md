@@ -2,6 +2,7 @@
 layout: term
 title: semt
 slug: semt
+letter: S
 lisan: Arapça semt
 anlamlar:
 - Şehirde yerleşim bölgesi; yaka

@@ -2,6 +2,7 @@
 layout: term
 title: güreştirme
 slug: gurestirme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güreştirmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: garnizon
 slug: garnizon
+letter: G
 lisan: Fransızca garnison
 anlamlar:
 - Bir şehri savunan veya yalnız orada bulunan askerî birlikler

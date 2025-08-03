@@ -2,6 +2,7 @@
 layout: term
 title: çalyaka
 slug: calyaka
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Yakasına yapışıp sıkıca tutarak

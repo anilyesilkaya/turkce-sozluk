@@ -2,6 +2,7 @@
 layout: term
 title: sistematik
 slug: sistematik
+letter: S
 lisan: Fransızca systématique
 anlamlar:
 - ► sistemli

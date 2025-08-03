@@ -2,6 +2,7 @@
 layout: term
 title: açık söylemek
 slug: acik-soylemek
+letter: A
 lisan: Türkçe
 anlamlar:
 - anlaşılmayan yön bırakmadan anlatmak

@@ -2,6 +2,7 @@
 layout: term
 title: kasnakçılık
 slug: kasnakcilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kasnakçının yaptığı iş

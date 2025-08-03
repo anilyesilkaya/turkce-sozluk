@@ -2,6 +2,7 @@
 layout: term
 title: inivermek
 slug: inivermek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Çabucak veya kısa sürede inmek

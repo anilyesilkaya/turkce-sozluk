@@ -2,6 +2,7 @@
 layout: term
 title: aracısız
 slug: aracisiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aracı olmadan yapılan; doğrudan, direkt

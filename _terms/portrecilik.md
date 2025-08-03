@@ -2,6 +2,7 @@
 layout: term
 title: portrecilik
 slug: portrecilik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Portrecinin işi

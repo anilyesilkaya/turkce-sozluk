@@ -2,6 +2,7 @@
 layout: term
 title: kitap (veya kitaplar) devirmek (veya devretmek)
 slug: kitap-veya-kitaplar-devirmek-veya-devretmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir veya birden çok kitabı başından sonuna kadar okuyup bitirmek

@@ -2,6 +2,7 @@
 layout: term
 title: kıtır
 slug: kitir
+letter: K
 lisan: Türkçe
 anlamlar:
 - Minderin sertleşmesini sağlayan içindeki saman parçaları

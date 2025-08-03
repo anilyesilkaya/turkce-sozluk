@@ -2,6 +2,7 @@
 layout: term
 title: ılıklık
 slug: iliklik
+letter: I
 lisan: Türkçe
 anlamlar:
 - Ilık olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: yarı yarıya
 slug: yari-yariya
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yarısı kadar

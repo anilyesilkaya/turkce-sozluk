@@ -2,6 +2,7 @@
 layout: term
 title: falanıncı
 slug: falaninci
+letter: F
 lisan: Türkçe
 anlamlar:
 - Söylenmesi gerekli görülmeyen sıra sayısı yerine kullanılan bir söz; filanıncı

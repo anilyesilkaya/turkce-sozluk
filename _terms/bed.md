@@ -2,6 +2,7 @@
 layout: term
 title: bed
 slug: bed
+letter: B
 lisan: Farsça bed
 anlamlar:
 - ► kötü

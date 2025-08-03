@@ -2,6 +2,7 @@
 layout: term
 title: ateş olmayan yerden duman çıkmaz
 slug: ates-olmayan-yerden-duman-cikmaz
+letter: A
 lisan: Türkçe
 anlamlar:
 - küçük de olsa birtakım belirtilerin önemli olaylara işaret olduğunu anlatan bir söz

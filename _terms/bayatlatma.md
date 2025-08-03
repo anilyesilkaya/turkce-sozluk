@@ -2,6 +2,7 @@
 layout: term
 title: bayatlatma
 slug: bayatlatma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bayatlatmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: ampirist
 slug: ampirist
+letter: A
 lisan: Fransızca empiriste
 anlamlar:
 - ► deneyci

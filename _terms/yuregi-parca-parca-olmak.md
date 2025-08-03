@@ -2,6 +2,7 @@
 layout: term
 title: yüreği parça parça olmak
 slug: yuregi-parca-parca-olmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - pek çok acımak

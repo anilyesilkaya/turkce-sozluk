@@ -2,6 +2,7 @@
 layout: term
 title: skolastisizm
 slug: skolastisizm
+letter: S
 lisan: Fransızca scolasticisme
 anlamlar:
 - Orta Çağ felsefesinde doğrunun zaten mevcut olduğuna ve felsefenin okullarda okutularak öğretilmesi gerektiğine dayanan bir anlayış

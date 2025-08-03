@@ -2,6 +2,7 @@
 layout: term
 title: asabi
 slug: asabi
+letter: A
 lisan: Arapça ʿaṣabī
 anlamlar:
 - ► sinirli

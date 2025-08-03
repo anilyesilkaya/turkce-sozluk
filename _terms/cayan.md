@@ -2,6 +2,7 @@
 layout: term
 title: çayan
 slug: cayan
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Akrep, yılan, çıyan, kırkayak vb. zehirli hayvan

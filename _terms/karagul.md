@@ -2,6 +2,7 @@
 layout: term
 title: karagül
 slug: karagul
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► karakul

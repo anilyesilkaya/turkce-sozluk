@@ -2,6 +2,7 @@
 layout: term
 title: beklenmez
 slug: beklenmez
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beklenmeyen, umulmayan

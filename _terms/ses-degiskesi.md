@@ -2,6 +2,7 @@
 layout: term
 title: ses değişkesi
 slug: ses-degiskesi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir ses biriminin çevre şartlarından dolayı farklı söyleyiş biçimi; alofon

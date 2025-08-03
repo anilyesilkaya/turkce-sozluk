@@ -2,6 +2,7 @@
 layout: term
 title: kulaktan kulağa
 slug: kulaktan-kulaga
+letter: K
 lisan: Türkçe
 anlamlar:
 - Gizli bir biçimde

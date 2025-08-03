@@ -2,6 +2,7 @@
 layout: term
 title: güdükleşmek
 slug: guduklesmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güdük duruma gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: sızıltısız
 slug: siziltisiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sızlanmadan, yakınmadan

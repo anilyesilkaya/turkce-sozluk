@@ -2,6 +2,7 @@
 layout: term
 title: duygulanım
 slug: duygulanim
+letter: D
 lisan: Türkçe
 anlamlar:
 - Etkilenme, duygulanma; teessür

@@ -2,6 +2,7 @@
 layout: term
 title: kaybedivermek
 slug: kaybedivermek
+letter: K
 lisan: Arapça ġayb + Türkçe edivermek
 anlamlar:
 - Çabucak veya ansızın kaybetmek

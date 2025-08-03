@@ -2,6 +2,7 @@
 layout: term
 title: yarım boy
 slug: yarim-boy
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Resimde belden yukarısı

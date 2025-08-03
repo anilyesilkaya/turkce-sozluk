@@ -2,6 +2,7 @@
 layout: term
 title: eren
 slug: eren
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► ermiş

@@ -2,6 +2,7 @@
 layout: term
 title: katolunmak
 slug: katolunmak
+letter: K
 lisan: Arapça ḳaṭʿ + Türkçe olunmak
 anlamlar:
 - ► kesilmek

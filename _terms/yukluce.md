@@ -2,6 +2,7 @@
 layout: term
 title: yüklüce
 slug: yukluce
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Oldukça çok, bir hayli fazla

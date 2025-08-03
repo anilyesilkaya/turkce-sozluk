@@ -2,6 +2,7 @@
 layout: term
 title: evdeci
 slug: evdeci
+letter: E
 lisan: Türkçe
 anlamlar:
 - Çiftliklerde işçilere yemek hazırlayan aşçı

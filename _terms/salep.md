@@ -2,6 +2,7 @@
 layout: term
 title: salep
 slug: salep
+letter: S
 lisan: Arapça saḥleb
 anlamlar:
 - Salepgillerin tek köklü, yumrulu, salkımlı veya başak çiçekli olan örnek bitkisi; sahlep (Orchis)

@@ -2,6 +2,7 @@
 layout: term
 title: çekivermek
 slug: cekivermek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çabucak veya ansızın çekmek

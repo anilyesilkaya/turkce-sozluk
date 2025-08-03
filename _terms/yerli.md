@@ -2,6 +2,7 @@
 layout: term
 title: yerli
 slug: yerli
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yurt içinde yapılan veya bir yurdun kendine özgü niteliklerini taşıyan

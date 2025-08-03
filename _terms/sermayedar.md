@@ -2,6 +2,7 @@
 layout: term
 title: sermayedar
 slug: sermayedar
+letter: S
 lisan: Farsça ser + māyedār
 anlamlar:
 - Sermayesi olan

@@ -2,6 +2,7 @@
 layout: term
 title: Allah'ın emriyle, peygamberin kavliyle
 slug: allah-in-emriyle-peygamberin-kavliyle
+letter: A
 lisan: Türkçe
 anlamlar:
 - kız istemeye giden oğlan tarafının konuya giriş sözü

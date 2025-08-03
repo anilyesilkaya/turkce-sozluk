@@ -2,6 +2,7 @@
 layout: term
 title: eli yatkın
 slug: eli-yatkin
+letter: E
 lisan: Türkçe
 anlamlar:
 - Elle yapılan işlerde becerikli olan (kimse)

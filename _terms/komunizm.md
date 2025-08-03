@@ -2,6 +2,7 @@
 layout: term
 title: komünizm
 slug: komunizm
+letter: K
 lisan: Fransızca communisme
 anlamlar:
 - Bütün malların ortaklaşa kullanıldığı ve özel mülkiyetin olmadığı toplum düzeni; komünistlik

@@ -2,6 +2,7 @@
 layout: term
 title: haşlamak
 slug: haslamak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Bir şeyi kaynar suya daldırmak

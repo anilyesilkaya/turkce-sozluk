@@ -2,6 +2,7 @@
 layout: term
 title: temaşa etmek
 slug: temasa-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - seyretmek, bakmak

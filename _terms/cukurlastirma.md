@@ -2,6 +2,7 @@
 layout: term
 title: çukurlaştırma
 slug: cukurlastirma
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çukurlaştırmak işi

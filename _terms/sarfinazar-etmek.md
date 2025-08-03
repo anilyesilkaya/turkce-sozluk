@@ -2,6 +2,7 @@
 layout: term
 title: sarfınazar etmek
 slug: sarfinazar-etmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - dikkate almamak

@@ -2,6 +2,7 @@
 layout: term
 title: asayişsiz
 slug: asayissiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Asayişi olmayan

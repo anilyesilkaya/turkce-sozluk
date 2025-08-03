@@ -2,6 +2,7 @@
 layout: term
 title: hançere
 slug: hancere
+letter: H
 lisan: Arapça ḥancere
 anlamlar:
 - ► gırtlak

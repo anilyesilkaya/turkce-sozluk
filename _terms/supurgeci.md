@@ -2,6 +2,7 @@
 layout: term
 title: süpürgeci
 slug: supurgeci
+letter: S
 lisan: Türkçe
 anlamlar:
 - Süpürge yapan veya satan kimse

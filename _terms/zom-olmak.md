@@ -2,6 +2,7 @@
 layout: term
 title: zom olmak
 slug: zom-olmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - çok sarhoş olmak

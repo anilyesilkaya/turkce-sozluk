@@ -2,6 +2,7 @@
 layout: term
 title: çinicilik
 slug: cinicilik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çinicinin yaptığı iş

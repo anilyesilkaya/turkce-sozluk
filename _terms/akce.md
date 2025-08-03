@@ -2,6 +2,7 @@
 layout: term
 title: akçe
 slug: akce
+letter: A
 lisan: Türkçe
 anlamlar:
 - Küçük gümüş para

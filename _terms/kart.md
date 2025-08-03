@@ -2,6 +2,7 @@
 layout: term
 title: kart
 slug: kart
+letter: K
 lisan: Fransızca carte
 anlamlar:
 - Düzgün kesilmiş ince karton parçası

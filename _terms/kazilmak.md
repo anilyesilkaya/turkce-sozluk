@@ -2,6 +2,7 @@
 layout: term
 title: kazılmak
 slug: kazilmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kazma işi yapılmak

@@ -2,6 +2,7 @@
 layout: term
 title: hatırı için
 slug: hatiri-icin
+letter: H
 lisan: Türkçe
 anlamlar:
 - bir kimsenin gönlü hoş olsun diye

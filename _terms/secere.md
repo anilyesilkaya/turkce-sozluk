@@ -2,6 +2,7 @@
 layout: term
 title: şecere
 slug: secere
+letter: Ş
 lisan: Arapça şecere
 anlamlar:
 - ► soyağacı

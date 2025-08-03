@@ -2,6 +2,7 @@
 layout: term
 title: kobay
 slug: kobay
+letter: K
 lisan: Fransızca cobaye
 anlamlar:
 - Kobaygillerden, bilimsel araştırmalarda kullanılan bir deney hayvanı; Hint domuzu (Cavia porcellus)

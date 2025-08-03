@@ -2,6 +2,7 @@
 layout: term
 title: yayvan
 slug: yayvan
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Eni boyundan ve derinliğinden çok olan, basık ve geniş

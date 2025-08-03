@@ -2,6 +2,7 @@
 layout: term
 title: bayan
 slug: bayan
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kadınların ad veya soyadlarının önüne getirilen saygı sözü

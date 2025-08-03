@@ -2,6 +2,7 @@
 layout: term
 title: zulalamak
 slug: zulalamak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Kaçak veya yasak şeyleri gizli bir yere saklamak

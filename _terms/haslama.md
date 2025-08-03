@@ -2,6 +2,7 @@
 layout: term
 title: haşlama
 slug: haslama
+letter: H
 lisan: Türkçe
 anlamlar:
 - Haşlamak işi

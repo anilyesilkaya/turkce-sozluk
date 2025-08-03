@@ -2,6 +2,7 @@
 layout: term
 title: pısırık
 slug: pisirik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Tutuk, sünepe, aşırı çekingen, yüreksiz ve beceriksiz (kimse); ezik, girgin karşıtı

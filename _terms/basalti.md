@@ -2,6 +2,7 @@
 layout: term
 title: başaltı
 slug: basalti
+letter: B
 lisan: Türkçe
 anlamlar:
 - Gemilerde tayfa ve erlerin ön güverte altındaki koğuşları

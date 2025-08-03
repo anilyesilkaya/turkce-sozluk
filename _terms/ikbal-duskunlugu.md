@@ -2,6 +2,7 @@
 layout: term
 title: ikbal düşkünlüğü
 slug: ikbal-duskunlugu
+letter: I
 lisan: Türkçe
 anlamlar:
 - İkbal düşkünü olma durumu

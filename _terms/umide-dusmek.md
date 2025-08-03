@@ -2,6 +2,7 @@
 layout: term
 title: ümide düşmek
 slug: umide-dusmek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - umuda düşmek

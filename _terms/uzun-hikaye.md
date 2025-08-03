@@ -2,6 +2,7 @@
 layout: term
 title: uzun hikâye
 slug: uzun-hikaye
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ayrıntılı olayları ve kişi kadrosu geniş olan hikâye türü; uzun öykü

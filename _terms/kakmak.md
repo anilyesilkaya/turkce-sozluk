@@ -2,6 +2,7 @@
 layout: term
 title: kakmak
 slug: kakmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - İtmek, vurmak

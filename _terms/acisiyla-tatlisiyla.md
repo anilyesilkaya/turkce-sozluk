@@ -2,6 +2,7 @@
 layout: term
 title: acısıyla tatlısıyla
 slug: acisiyla-tatlisiyla
+letter: A
 lisan: Türkçe
 anlamlar:
 - Hayatta karşılaşılabilen iyi kötü bütün yönleriyle

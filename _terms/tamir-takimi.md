@@ -2,6 +2,7 @@
 layout: term
 title: tamir takımı
 slug: tamir-takimi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Onarım işlerinde kullanılan araç ve gereçlerin hepsi veya bunları içinde bulunduran çanta

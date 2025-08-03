@@ -2,6 +2,7 @@
 layout: term
 title: kandırmak
 slug: kandirmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kanmasını sağlamak, inandırmak; çalımlamak, yemek (II), ikna etmek, keklemek

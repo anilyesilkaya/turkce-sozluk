@@ -2,6 +2,7 @@
 layout: term
 title: taşlayabilmek
 slug: taslayabilmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taşlama ihtimali veya imkânı bulunmak

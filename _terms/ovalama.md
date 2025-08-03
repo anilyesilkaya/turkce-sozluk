@@ -2,6 +2,7 @@
 layout: term
 title: ovalama
 slug: ovalama
+letter: O
 lisan: Türkçe
 anlamlar:
 - Ovalamak işi

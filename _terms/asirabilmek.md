@@ -2,6 +2,7 @@
 layout: term
 title: aşırabilmek
 slug: asirabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aşırma ihtimali veya imkânı bulunmak

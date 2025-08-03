@@ -2,6 +2,7 @@
 layout: term
 title: zevat
 slug: zevat
+letter: Z
 lisan: Arapça ẕevāt
 anlamlar:
 - Kişiler, zatlar

@@ -2,6 +2,7 @@
 layout: term
 title: ulufeci
 slug: ulufeci
+letter: U
 lisan: Türkçe
 anlamlar:
 - Yeniçerilikte bir sınıf süvari askeri

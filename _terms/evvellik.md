@@ -2,6 +2,7 @@
 layout: term
 title: evvellik
 slug: evvellik
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► öncelik

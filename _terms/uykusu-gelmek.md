@@ -2,6 +2,7 @@
 layout: term
 title: uykusu gelmek
 slug: uykusu-gelmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - uyuma isteği duymak

@@ -2,6 +2,7 @@
 layout: term
 title: azot
 slug: azot
+letter: A
 lisan: Fransızca azote
 anlamlar:
 - Atom numarası 7, atom ağırlığı 14,008 olan, havada beşte dört oranında bulunan, rengi, kokusu, tadı olmayan element; nitrojen (simgesi N)

@@ -2,6 +2,7 @@
 layout: term
 title: kumpasa dâhil olmak
 slug: kumpasa-dahil-olmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - hileli bir işe ortak olmak

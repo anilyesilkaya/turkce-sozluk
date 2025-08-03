@@ -2,6 +2,7 @@
 layout: term
 title: yanlış yere
 slug: yanlis-yere
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Boşuna, yanlış olarak

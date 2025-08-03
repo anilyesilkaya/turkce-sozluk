@@ -2,6 +2,7 @@
 layout: term
 title: nereden
 slug: nereden
+letter: N
 lisan: Türkçe
 anlamlar:
 - Hangi yerden?

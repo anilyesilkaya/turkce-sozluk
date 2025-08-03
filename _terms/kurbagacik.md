@@ -2,6 +2,7 @@
 layout: term
 title: kurbağacık
 slug: kurbagacik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kurbağa yavrusu, küçük kurbağa

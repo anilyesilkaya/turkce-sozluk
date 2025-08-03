@@ -2,6 +2,7 @@
 layout: term
 title: kapris
 slug: kapris
+letter: K
 lisan: Fransızca caprice
 anlamlar:
 - Geçici, düşüncesizce, değişken istek

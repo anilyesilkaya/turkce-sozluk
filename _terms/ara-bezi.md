@@ -2,6 +2,7 @@
 layout: term
 title: ara bezi
 slug: ara-bezi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Genellikle çocuk kundaklanırken höllük ile çocuğun bedeni arasına konulan yıkanabilir bez

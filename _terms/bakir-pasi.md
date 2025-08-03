@@ -2,6 +2,7 @@
 layout: term
 title: bakır pası
 slug: bakir-pasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bakır üzerinde nemli havalarda oluşan ve pası andıran, zehirli bakır hidrokarbonat

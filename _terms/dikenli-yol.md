@@ -2,6 +2,7 @@
 layout: term
 title: dikenli yol
 slug: dikenli-yol
+letter: D
 lisan: Türkçe
 anlamlar:
 - Zorluk, sıkıntı ve üzüntü ile dolu olan süreç

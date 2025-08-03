@@ -2,6 +2,7 @@
 layout: term
 title: karikatürcü
 slug: karikaturcu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karikatür çizen sanatçı; çizer, karikatürist

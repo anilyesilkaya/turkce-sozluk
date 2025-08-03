@@ -2,6 +2,7 @@
 layout: term
 title: erdenlik
 slug: erdenlik
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► bakirelik

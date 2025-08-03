@@ -2,6 +2,7 @@
 layout: term
 title: kanıksama
 slug: kaniksama
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kanıksamak işi

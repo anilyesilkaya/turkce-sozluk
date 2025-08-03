@@ -2,6 +2,7 @@
 layout: term
 title: öksürmek
 slug: oksurmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Solunum yolları zarlarının rahatsızlığı sebebiyle akciğerlerdeki havayı birdenbire ve gürültülü bir sesle dışarı vermek

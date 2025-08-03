@@ -2,6 +2,7 @@
 layout: term
 title: sabitkadem
 slug: sabitkadem
+letter: S
 lisan: Arapça s̱ābit + ḳadem
 anlamlar:
 - Süreklilik gösteren

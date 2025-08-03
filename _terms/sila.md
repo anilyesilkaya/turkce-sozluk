@@ -2,6 +2,7 @@
 layout: term
 title: sıla
 slug: sila
+letter: S
 lisan: Arapça ṣila
 anlamlar:
 - Bir süre ayrı kaldığı bir yere veya yakınlarına kavuşma

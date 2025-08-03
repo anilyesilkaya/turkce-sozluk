@@ -2,6 +2,7 @@
 layout: term
 title: mezbelelik
 slug: mezbelelik
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► çöplük

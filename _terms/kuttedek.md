@@ -2,6 +2,7 @@
 layout: term
 title: küttedek
 slug: kuttedek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Birdenbire "küt" diye ses çıkararak

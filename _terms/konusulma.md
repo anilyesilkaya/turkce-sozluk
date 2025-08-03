@@ -2,6 +2,7 @@
 layout: term
 title: konuşulma
 slug: konusulma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Konuşulmak işi

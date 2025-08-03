@@ -2,6 +2,7 @@
 layout: term
 title: erek bilimi
 slug: erek-bilimi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Evreni ereklerle araçlar arasında bir ilişkiler dizgesi olarak gören öğreti; teleoloji

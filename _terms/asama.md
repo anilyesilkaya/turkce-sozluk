@@ -2,6 +2,7 @@
 layout: term
 title: aşama
 slug: asama
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kendi içinde derecelendirilmiş bir bütünün basamaklarından her biri; derece, kademe, mertebe, rütbe, paye

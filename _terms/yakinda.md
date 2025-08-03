@@ -2,6 +2,7 @@
 layout: term
 title: yakında
 slug: yakinda
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yakın bir yerde

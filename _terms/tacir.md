@@ -2,6 +2,7 @@
 layout: term
 title: tacir
 slug: tacir
+letter: T
 lisan: Arapça tācir
 anlamlar:
 - ► tüccar

@@ -2,6 +2,7 @@
 layout: term
 title: maatteessüf
 slug: maatteessuf
+letter: M
 lisan: Arapça maʿa't-teʾessuf
 anlamlar:
 - ► maalesef

@@ -2,6 +2,7 @@
 layout: term
 title: horozumsu
 slug: horozumsu
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► horozsu

@@ -2,6 +2,7 @@
 layout: term
 title: jaketataylı
 slug: jaketatayli
+letter: J
 lisan: Türkçe
 anlamlar:
 - Jaketatay giymiş olan

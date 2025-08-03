@@ -2,6 +2,7 @@
 layout: term
 title: söyletmek
 slug: soyletmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Söylemesine yol açmak

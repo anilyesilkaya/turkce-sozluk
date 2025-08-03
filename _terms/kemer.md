@@ -2,6 +2,7 @@
 layout: term
 title: Kemer
 slug: kemer
+letter: K
 lisan: Türkçe
 anlamlar:
 - Antalya iline bağlı ilçelerden biri

@@ -2,6 +2,7 @@
 layout: term
 title: ahretlik
 slug: ahretlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ahret kardeşi olan kadınlardan her biri

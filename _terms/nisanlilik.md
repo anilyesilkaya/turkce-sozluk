@@ -2,6 +2,7 @@
 layout: term
 title: nişanlılık
 slug: nisanlilik
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nişanlı olma durumu; yavukluluk

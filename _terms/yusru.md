@@ -2,6 +2,7 @@
 layout: term
 title: yüsrü
 slug: yusru
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bazı ince işlerin yapımında kullanılan siyah bir ağaç ve bu ağacın kökü

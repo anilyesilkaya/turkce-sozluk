@@ -2,6 +2,7 @@
 layout: term
 title: erke
 slug: erke
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► enerji

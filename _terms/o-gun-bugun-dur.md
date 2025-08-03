@@ -2,6 +2,7 @@
 layout: term
 title: o gün bugün(dür)
 slug: o-gun-bugun-dur
+letter: O
 lisan: Türkçe
 anlamlar:
 - o zamandan beri

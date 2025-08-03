@@ -2,6 +2,7 @@
 layout: term
 title: nallamak
 slug: nallamak
+letter: N
 lisan: Türkçe
 anlamlar:
 - Hayvanın ayağına nal çakmak

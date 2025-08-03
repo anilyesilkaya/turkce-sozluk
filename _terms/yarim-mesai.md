@@ -2,6 +2,7 @@
 layout: term
 title: yarım mesai
 slug: yarim-mesai
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Tam gün çalışılmayan, günün belli saatlerinde yapılan iş

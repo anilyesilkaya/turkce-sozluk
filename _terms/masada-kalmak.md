@@ -2,6 +2,7 @@
 layout: term
 title: masada kalmak
 slug: masada-kalmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - konuşma veya görüşme yapılan masayı bu eylem sonlansa da terk etmemek

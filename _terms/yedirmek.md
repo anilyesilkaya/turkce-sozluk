@@ -2,6 +2,7 @@
 layout: term
 title: yedirmek
 slug: yedirmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yemesini sağlamak

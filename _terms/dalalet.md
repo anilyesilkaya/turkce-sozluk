@@ -2,6 +2,7 @@
 layout: term
 title: dalalet
 slug: dalalet
+letter: D
 lisan: Arapça ḍalālet
 anlamlar:
 - Sapkınlık, doğru yoldan ayrılma

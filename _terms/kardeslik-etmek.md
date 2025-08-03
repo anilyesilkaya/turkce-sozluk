@@ -2,6 +2,7 @@
 layout: term
 title: kardeşlik etmek
 slug: kardeslik-etmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - kardeş gibi hareket etmek, kardeşçe davranmak

@@ -2,6 +2,7 @@
 layout: term
 title: kurşun sıkmak
 slug: kursun-sikmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - silahı ateşlemek, mermi yakmak

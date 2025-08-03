@@ -2,6 +2,7 @@
 layout: term
 title: muvafakat
 slug: muvafakat
+letter: M
 lisan: Arapça muvāfaḳat
 anlamlar:
 - Uygun görme, onama, kabul etme

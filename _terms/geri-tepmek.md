@@ -2,6 +2,7 @@
 layout: term
 title: geri tepmek
 slug: geri-tepmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - atılan mermi sebebiyle namlu içinde oluşan gazların etkisiyle silah geriye doğru ani hareket etmek

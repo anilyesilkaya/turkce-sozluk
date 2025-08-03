@@ -2,6 +2,7 @@
 layout: term
 title: bahşediş
 slug: bahsedis
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bağışlayış

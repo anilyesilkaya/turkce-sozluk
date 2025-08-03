@@ -2,6 +2,7 @@
 layout: term
 title: kulübe
 slug: kulube
+letter: K
 lisan: Farsça kulbe
 anlamlar:
 - Kerpiç, saman veya ağaçtan yapılmış küçük, basit, ilkel ev

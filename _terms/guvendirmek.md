@@ -2,6 +2,7 @@
 layout: term
 title: güvendirmek
 slug: guvendirmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güvenmesini sağlamak

@@ -2,6 +2,7 @@
 layout: term
 title: dar görüşlülük
 slug: dar-gorusluluk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dar görüşlü olma durumu; kısa görüşlülük

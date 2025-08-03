@@ -2,6 +2,7 @@
 layout: term
 title: kaşağılamak
 slug: kasagilamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Tımar etmek için hayvana kaşağı sürmek

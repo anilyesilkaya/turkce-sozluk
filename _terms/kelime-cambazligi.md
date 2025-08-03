@@ -2,6 +2,7 @@
 layout: term
 title: kelime cambazlığı
 slug: kelime-cambazligi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sözlerle oyun yapma

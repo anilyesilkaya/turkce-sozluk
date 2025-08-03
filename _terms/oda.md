@@ -2,6 +2,7 @@
 layout: term
 title: oda
 slug: oda
+letter: O
 lisan: Türkçe
 anlamlar:
 - Evin veya herhangi bir yapının oturma, çalışma, yatma gibi işlere yarayan, banyo, salon, giriş vb. dışında kalan, bir veya birden fazla çıkışı olan bölmesi; göz

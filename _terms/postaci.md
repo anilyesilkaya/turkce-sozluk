@@ -2,6 +2,7 @@
 layout: term
 title: postacı
 slug: postaci
+letter: P
 lisan: Türkçe
 anlamlar:
 - Mektup, gazete, havale, paket vb.ni gönderilen yere ulaştıran posta idaresi görevlisi; çapar (I)

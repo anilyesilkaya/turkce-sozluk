@@ -2,6 +2,7 @@
 layout: term
 title: yunmuş arınmış (veya yıkanmış)
 slug: yunmus-arinmis-veya-yikanmis
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yıkanıp temizlenmiş

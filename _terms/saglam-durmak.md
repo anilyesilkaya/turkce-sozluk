@@ -2,6 +2,7 @@
 layout: term
 title: sağlam durmak
 slug: saglam-durmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - gücünü, yeteneğini ve cesaretini toplamak

@@ -2,6 +2,7 @@
 layout: term
 title: şalvar
 slug: salvar
+letter: Ş
 lisan: Farsça şelvār
 anlamlar:
 - Genellikle ağı çok bol olan, bele bir uçkurla bağlanan, geniş bir pantolon türü; dizlik

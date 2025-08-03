@@ -2,6 +2,7 @@
 layout: term
 title: hengâm
 slug: hengam
+letter: H
 lisan: Farsça hengām
 anlamlar:
 - ► zaman

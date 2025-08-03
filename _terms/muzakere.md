@@ -2,6 +2,7 @@
 layout: term
 title: müzakere
 slug: muzakere
+letter: M
 lisan: Arapça muẕākere
 anlamlar:
 - Bir konuyla ilgili fikir alışverişinde bulunma; oylaşma

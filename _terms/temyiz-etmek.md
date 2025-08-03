@@ -2,6 +2,7 @@
 layout: term
 title: temyiz etmek
 slug: temyiz-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - ayırt etmek

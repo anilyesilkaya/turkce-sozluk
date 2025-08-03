@@ -2,6 +2,7 @@
 layout: term
 title: bienal
 slug: bienal
+letter: B
 lisan: Fransızca biennal
 anlamlar:
 - ► yılaşırı

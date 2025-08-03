@@ -2,6 +2,7 @@
 layout: term
 title: gizli çekim yapmak
 slug: gizli-cekim-yapmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - bir kişiyi, yeri veya nesneyi izin almaksızın filme almak

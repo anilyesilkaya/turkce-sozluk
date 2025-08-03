@@ -2,6 +2,7 @@
 layout: term
 title: baharcı
 slug: baharci
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► baharatçı

@@ -2,6 +2,7 @@
 layout: term
 title: yağlayabilmek
 slug: yaglayabilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yağlama ihtimali veya imkânı bulunmak

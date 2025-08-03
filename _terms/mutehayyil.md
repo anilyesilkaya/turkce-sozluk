@@ -2,6 +2,7 @@
 layout: term
 title: mütehayyil
 slug: mutehayyil
+letter: M
 lisan: Arapça muteḫayyil
 anlamlar:
 - Hayale dalmış

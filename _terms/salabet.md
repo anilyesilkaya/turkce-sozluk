@@ -2,6 +2,7 @@
 layout: term
 title: salabet
 slug: salabet
+letter: S
 lisan: Arapça ṣalābet
 anlamlar:
 - Katılık, sağlamlık

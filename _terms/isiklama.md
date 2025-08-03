@@ -2,6 +2,7 @@
 layout: term
 title: ışıklama
 slug: isiklama
+letter: I
 lisan: Türkçe
 anlamlar:
 - Işıklamak işi

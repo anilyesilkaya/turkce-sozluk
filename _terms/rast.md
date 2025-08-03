@@ -2,6 +2,7 @@
 layout: term
 title: rast
 slug: rast
+letter: R
 lisan: Farsça rāst
 anlamlar:
 - Klasik Türk müziğinde bir makam

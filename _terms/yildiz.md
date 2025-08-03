@@ -2,6 +2,7 @@
 layout: term
 title: yıldız
 slug: yildiz
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Çekirdeğinde oluşan füzyon sonucunda açığa çıkan enerjiyi uzaya ışınım biçiminde yayan, ışıklı gök cisimlerinden her biri

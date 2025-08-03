@@ -2,6 +2,7 @@
 layout: term
 title: sözüm ona
 slug: sozum-ona
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► sözde

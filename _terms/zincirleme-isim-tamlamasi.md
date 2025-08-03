@@ -2,6 +2,7 @@
 layout: term
 title: zincirleme isim tamlaması
 slug: zincirleme-isim-tamlamasi
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► zincirleme ad tamlaması

@@ -2,6 +2,7 @@
 layout: term
 title: takdir
 slug: takdir
+letter: T
 lisan: Arapça taḳdīr
 anlamlar:
 - Beğenip belirtme, değer verme; beğeni

@@ -2,6 +2,7 @@
 layout: term
 title: dertleşmek
 slug: dertlesmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Rahatlamak ve çözüm bulmak amacıyla dertlerini karşılıklı anlatmak

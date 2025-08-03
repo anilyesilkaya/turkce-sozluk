@@ -2,6 +2,7 @@
 layout: term
 title: analoji
 slug: analoji
+letter: A
 lisan: Fransızca analogie
 anlamlar:
 - ► benzeşim

@@ -2,6 +2,7 @@
 layout: term
 title: akıp gitmek
 slug: akip-gitmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - çabuk geçmek

@@ -2,6 +2,7 @@
 layout: term
 title: aman ya Rabbi
 slug: aman-ya-rabbi
+letter: A
 lisan: Türkçe
 anlamlar:
 - şaşkınlık, beğenme, korku, öfke vb. duyguları anlatan bir söz

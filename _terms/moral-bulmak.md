@@ -2,6 +2,7 @@
 layout: term
 title: moral bulmak
 slug: moral-bulmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - yürek gücünü, maneviyatını güçlendirmek

@@ -2,6 +2,7 @@
 layout: term
 title: top (veya topu) atmak
 slug: top-veya-topu-atmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - batkınlığa uğramak, iflas etmek

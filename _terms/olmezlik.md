@@ -2,6 +2,7 @@
 layout: term
 title: ölmezlik
 slug: olmezlik
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► ölümsüzlük

@@ -2,6 +2,7 @@
 layout: term
 title: kokoroz
 slug: kokoroz
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► mısır

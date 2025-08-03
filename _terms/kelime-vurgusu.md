@@ -2,6 +2,7 @@
 layout: term
 title: kelime vurgusu
 slug: kelime-vurgusu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir kelimede bir hecenin öteki hecelerden daha baskılı söylenişi; sözcük vurgusu

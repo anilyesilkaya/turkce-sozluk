@@ -2,6 +2,7 @@
 layout: term
 title: kilitsiz
 slug: kilitsiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kilidi olmayan

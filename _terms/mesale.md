@@ -2,6 +2,7 @@
 layout: term
 title: meşale
 slug: mesale
+letter: M
 lisan: Arapça meşʿale
 anlamlar:
 - Ucunda alev çıkarabilen yanıcı bir madde bulunan, aydınlatmaya yarayan değnek; çırakma, çırakman, yanarca

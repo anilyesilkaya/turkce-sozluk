@@ -2,6 +2,7 @@
 layout: term
 title: çökel
 slug: cokel
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Taşan bir suyun çekildikten sonra bıraktığı tortu

@@ -2,6 +2,7 @@
 layout: term
 title: idrak etmek
 slug: idrak-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - akıl erdirmek, anlamak, kavramak

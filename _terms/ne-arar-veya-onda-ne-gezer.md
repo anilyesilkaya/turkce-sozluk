@@ -2,6 +2,7 @@
 layout: term
 title: ne arar (veya onda ... ne gezer)
 slug: ne-arar-veya-onda-ne-gezer
+letter: N
 lisan: Türkçe
 anlamlar:
 - onda yoktur

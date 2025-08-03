@@ -2,6 +2,7 @@
 layout: term
 title: hava bozmak
 slug: hava-bozmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - havada yağmur, kar, dolu veya fırtına başlamak

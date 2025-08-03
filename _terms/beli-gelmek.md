@@ -2,6 +2,7 @@
 layout: term
 title: beli gelmek
 slug: beli-gelmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - cinsel birleşme sırasında salgı boşalmak

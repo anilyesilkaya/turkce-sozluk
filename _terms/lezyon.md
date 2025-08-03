@@ -2,6 +2,7 @@
 layout: term
 title: lezyon
 slug: lezyon
+letter: L
 lisan: Fransızca lésion
 anlamlar:
 - ► doku bozukluğu

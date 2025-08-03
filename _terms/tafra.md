@@ -2,6 +2,7 @@
 layout: term
 title: tafra
 slug: tafra
+letter: T
 lisan: Arapça ṭafre
 anlamlar:
 - Kendisini olduğundan büyük gösterip böbürlenme, yüksekten atma

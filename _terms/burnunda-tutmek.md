@@ -2,6 +2,7 @@
 layout: term
 title: burnunda tütmek
 slug: burnunda-tutmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - çok özlemek

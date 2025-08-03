@@ -2,6 +2,7 @@
 layout: term
 title: tık
 slug: tik
+letter: T
 lisan: Türkçe
 anlamlar:
 - İnce ve küçük bir nesne ile sert bir yere vurulduğunda çıkan ses

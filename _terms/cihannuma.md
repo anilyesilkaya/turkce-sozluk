@@ -2,6 +2,7 @@
 layout: term
 title: cihannüma
 slug: cihannuma
+letter: C
 lisan: Farsça cihānnumā
 anlamlar:
 - Her yanı görmeye elverişli, camlı çatı katı veya taraça; kule

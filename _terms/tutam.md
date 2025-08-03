@@ -2,6 +2,7 @@
 layout: term
 title: tutam
 slug: tutam
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bankacılıkta kullanılan, borsada kota alabilmek için gerekli asgari şirket sermayesi veya pay; hisse, parti (II), lot

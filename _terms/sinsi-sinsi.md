@@ -2,6 +2,7 @@
 layout: term
 title: sinsi sinsi
 slug: sinsi-sinsi
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► sinsice

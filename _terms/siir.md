@@ -2,6 +2,7 @@
 layout: term
 title: şiir
 slug: siir
+letter: Ş
 lisan: Arapça şiʿr
 anlamlar:
 - Zengin sembollerle, ritimli sözlerle, seslerin uyumlu kullanımıyla ortaya çıkan, hece ve durak bakımından denk ve kendi başına bir bütün olan edebî anlatım biçimi; manzume, nazım

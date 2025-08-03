@@ -2,6 +2,7 @@
 layout: term
 title: katiyen
 slug: katiyen
+letter: K
 lisan: Arapça ḳaṭʿiyyen
 anlamlar:
 - ► asla

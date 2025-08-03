@@ -2,6 +2,7 @@
 layout: term
 title: cepheli
 slug: cepheli
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cephesi olan

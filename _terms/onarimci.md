@@ -2,6 +2,7 @@
 layout: term
 title: onarımcı
 slug: onarimci
+letter: O
 lisan: Türkçe
 anlamlar:
 - Onarma işini yapan kimse

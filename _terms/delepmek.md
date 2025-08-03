@@ -2,6 +2,7 @@
 layout: term
 title: delepmek
 slug: delepmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► parlamak

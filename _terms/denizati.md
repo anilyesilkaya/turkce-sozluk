@@ -2,6 +2,7 @@
 layout: term
 title: denizatı
 slug: denizati
+letter: D
 lisan: Türkçe
 anlamlar:
 - Başı at başına benzeyen, suda dik duran, kuyruk yüzgeci olmayan, 10-15 santimetre boyunda bir deniz hayvanı (Hippocampus hippocampus)

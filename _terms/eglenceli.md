@@ -2,6 +2,7 @@
 layout: term
 title: eğlenceli
 slug: eglenceli
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eğlendiren, hoşa giden; cümbüşlü

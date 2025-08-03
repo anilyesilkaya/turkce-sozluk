@@ -2,6 +2,7 @@
 layout: term
 title: tütsü yapmak
 slug: tutsu-yapmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - dinî törenlerde veya çevrenin güzel kokmasını sağlamak amacıyla kokulu madde yakmak

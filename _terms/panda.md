@@ -2,6 +2,7 @@
 layout: term
 title: panda
 slug: panda
+letter: P
 lisan: Fransızca panda
 anlamlar:
 - Etçillerden, Avustralya ile Himalaya ormanlarında yaşayan, tüyleri sık ve pas renginde, karnı, bacakları kara, postu beğenilen bir hayvan (Ailurus fulgens)

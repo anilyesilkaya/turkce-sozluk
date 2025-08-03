@@ -2,6 +2,7 @@
 layout: term
 title: zinde kuvvet
 slug: zinde-kuvvet
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Taze kuvvet

@@ -2,6 +2,7 @@
 layout: term
 title: odunsuz
 slug: odunsuz
+letter: O
 lisan: Türkçe
 anlamlar:
 - Odunu olmayan

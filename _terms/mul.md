@@ -2,6 +2,7 @@
 layout: term
 title: mül
 slug: mul
+letter: M
 lisan: Farsça mul
 anlamlar:
 - ► şarap

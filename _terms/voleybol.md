@@ -2,6 +2,7 @@
 layout: term
 title: voleybol
 slug: voleybol
+letter: V
 lisan: İngilizce volley-ball
 anlamlar:
 - Altışar kişilik iki takım arasında, bir alan ortasında gerilmiş olan ağ üzerinden topun karşılıklı olarak elle oynanması oyunu; uçan top

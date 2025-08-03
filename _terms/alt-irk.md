@@ -2,6 +2,7 @@
 layout: term
 title: alt ırk
 slug: alt-irk
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aynı ırk içinde yetiştirme amacına ve çevreye bağlı kalınarak değişime uğratılmış ve bu yolla ırk içinde özellikle fizyolojik nitelikleri bakımından kalıtsal sapma gösteren hayvan topluluğu

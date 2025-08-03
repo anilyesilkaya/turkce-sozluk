@@ -2,6 +2,7 @@
 layout: term
 title: nişanlanmak
 slug: nisanlanmak
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nişanlı duruma gelmek; adaklanmak, yavuklanmak

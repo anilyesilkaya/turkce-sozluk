@@ -2,6 +2,7 @@
 layout: term
 title: yol yol olmak
 slug: yol-yol-olmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Çizgiler biçiminde şekil almak

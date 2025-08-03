@@ -2,6 +2,7 @@
 layout: term
 title: buzdolabı
 slug: buzdolabi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Yiyecek, içecek vb.ni soğuk olarak saklamaya yarayan, motorla çalışan dolap; soğutucu, frijider

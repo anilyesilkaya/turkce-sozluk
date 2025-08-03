@@ -2,6 +2,7 @@
 layout: term
 title: hava basıncı
 slug: hava-basinci
+letter: H
 lisan: Türkçe
 anlamlar:
 - Yer yuvarını çevreleyen havanın yeryüzündeki bir alana uyguladığı kuvvet

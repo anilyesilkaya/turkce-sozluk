@@ -2,6 +2,7 @@
 layout: term
 title: bulunmak
 slug: bulunmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bulma işine konu olmak

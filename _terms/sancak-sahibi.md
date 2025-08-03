@@ -2,6 +2,7 @@
 layout: term
 title: sancak sahibi
 slug: sancak-sahibi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Donanma, filo ve üs komutanları gibi gemilerine fors çekme hakkı olan askerî personel

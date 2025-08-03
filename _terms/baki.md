@@ -2,6 +2,7 @@
 layout: term
 title: baki
 slug: baki
+letter: B
 lisan: Arapça bāḳī
 anlamlar:
 - ► ölümsüz

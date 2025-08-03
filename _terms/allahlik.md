@@ -2,6 +2,7 @@
 layout: term
 title: Allahlık
 slug: allahlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Allah’ın emirlerini yerine getiren, Allah’a yakın (kimse)

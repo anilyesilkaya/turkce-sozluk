@@ -2,6 +2,7 @@
 layout: term
 title: iskarto
 slug: iskarto
+letter: I
 lisan: İtalyanca scorto
 anlamlar:
 - Yapağı kırıntısı

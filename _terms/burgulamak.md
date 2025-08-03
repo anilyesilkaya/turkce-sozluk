@@ -2,6 +2,7 @@
 layout: term
 title: burgulamak
 slug: burgulamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Burgu ile delmek, delik açmak

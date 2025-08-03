@@ -2,6 +2,7 @@
 layout: term
 title: azimkâr
 slug: azimkar
+letter: A
 lisan: Arapça ʿazm + Farsça -kār
 anlamlar:
 - Bir işteki engelleri yenme kararlılığında olan

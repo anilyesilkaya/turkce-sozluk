@@ -2,6 +2,7 @@
 layout: term
 title: Şarklı
 slug: sarkli
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► Doğulu

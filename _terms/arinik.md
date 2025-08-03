@@ -2,6 +2,7 @@
 layout: term
 title: arınık
 slug: arinik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Her çeşit mikroptan arınmış; steril, sterilize

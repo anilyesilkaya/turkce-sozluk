@@ -2,6 +2,7 @@
 layout: term
 title: açısal sapma
 slug: acisal-sapma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Belli bir açı düzeyinde gerçekleşen sapma

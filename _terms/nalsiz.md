@@ -2,6 +2,7 @@
 layout: term
 title: nalsız
 slug: nalsiz
+letter: N
 lisan: Türkçe
 anlamlar:
 - Ayaklarında nal bulunmayan (at, eşek vb.)

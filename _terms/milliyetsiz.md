@@ -2,6 +2,7 @@
 layout: term
 title: milliyetsiz
 slug: milliyetsiz
+letter: M
 lisan: Türkçe
 anlamlar:
 - Maddi ve manevi açılardan millet ve ülkesinin çıkarlarını her şeyin üstünde tutma duygusunu taşımayan (kimse)

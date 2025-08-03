@@ -2,6 +2,7 @@
 layout: term
 title: abdestsiz
 slug: abdestsiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Abdest almamış olan (kimse)

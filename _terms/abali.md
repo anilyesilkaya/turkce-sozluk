@@ -2,6 +2,7 @@
 layout: term
 title: abalı
 slug: abali
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aba giymiş olan

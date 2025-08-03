@@ -2,6 +2,7 @@
 layout: term
 title: yetişmiş
 slug: yetismis
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Gereken niteliğe veya olgunluğa erişmiş

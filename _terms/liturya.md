@@ -2,6 +2,7 @@
 layout: term
 title: liturya
 slug: liturya
+letter: L
 lisan: Rumca
 anlamlar:
 - ► kudas

@@ -2,6 +2,7 @@
 layout: term
 title: timsah
 slug: timsah
+letter: T
 lisan: Arapça timsāḥ
 anlamlar:
 - Sürüngenlerden, sıcak bölgelerin akarsularında yaşayan, kalın derili, uzun kuyruklu, iri bir hayvan (Crocodilus)

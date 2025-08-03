@@ -2,6 +2,7 @@
 layout: term
 title: forma
 slug: forma
+letter: F
 lisan: İtalyanca forma
 anlamlar:
 - ► biçim (II)

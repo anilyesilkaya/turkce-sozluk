@@ -2,6 +2,7 @@
 layout: term
 title: mezbele
 slug: mezbele
+letter: M
 lisan: Arapça mezbele
 anlamlar:
 - ► çöplük

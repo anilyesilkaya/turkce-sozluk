@@ -2,6 +2,7 @@
 layout: term
 title: averaj
 slug: averaj
+letter: A
 lisan: Fransızca avérage
 anlamlar:
 - ► ortalama

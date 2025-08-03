@@ -2,6 +2,7 @@
 layout: term
 title: kurna
 slug: kurna
+letter: K
 lisan: Arapça ḳurne
 anlamlar:
 - Hamam ve banyolarda musluk altında bulunan, içinde su biriktirilen, yuvarlak, mermer, taş veya plastik tekne

@@ -2,6 +2,7 @@
 layout: term
 title: yel
 slug: yel
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► rüzgâr

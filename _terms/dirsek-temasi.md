@@ -2,6 +2,7 @@
 layout: term
 title: dirsek teması
 slug: dirsek-temasi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir amaç uğruna dayanışma içinde bulunma, ilişki içerisine girme

@@ -2,6 +2,7 @@
 layout: term
 title: çözücü
 slug: cozucu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Başka bir maddeyi çözme özelliği olan şey

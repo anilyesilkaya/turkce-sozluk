@@ -2,6 +2,7 @@
 layout: term
 title: prenses
 slug: prenses
+letter: P
 lisan: Fransızca princesse
 anlamlar:
 - Hükümdar ailesinden olan kadın veya kızlara verilen ünvan

@@ -2,6 +2,7 @@
 layout: term
 title: gönlü razı olmamak
 slug: gonlu-razi-olmamak
+letter: G
 lisan: Türkçe
 anlamlar:
 - istememek

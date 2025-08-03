@@ -2,6 +2,7 @@
 layout: term
 title: yufkalık
 slug: yufkalik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yufka yapmak için ayrılmış olan

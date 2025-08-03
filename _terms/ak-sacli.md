@@ -2,6 +2,7 @@
 layout: term
 title: ak saçlı
 slug: ak-sacli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Saçı ağarmış

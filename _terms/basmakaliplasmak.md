@@ -2,6 +2,7 @@
 layout: term
 title: basmakalıplaşmak
 slug: basmakaliplasmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Basmakalıp durumuna gelmek

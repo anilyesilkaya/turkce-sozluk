@@ -2,6 +2,7 @@
 layout: term
 title: soruş
 slug: sorus
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sormak işi

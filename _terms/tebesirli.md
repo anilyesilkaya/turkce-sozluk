@@ -2,6 +2,7 @@
 layout: term
 title: tebeşirli
 slug: tebesirli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tebeşir ile yazılmış

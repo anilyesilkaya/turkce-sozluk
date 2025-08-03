@@ -2,6 +2,7 @@
 layout: term
 title: sandırmak
 slug: sandirmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sanmasına sebep olmak, zannettirmek

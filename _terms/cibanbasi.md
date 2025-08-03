@@ -2,6 +2,7 @@
 layout: term
 title: çıbanbaşı
 slug: cibanbasi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Yaranın ucu

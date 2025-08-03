@@ -2,6 +2,7 @@
 layout: term
 title: uzak düşmek
 slug: uzak-dusmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - uzak olmak, uzak bulunmak

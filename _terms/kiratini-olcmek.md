@@ -2,6 +2,7 @@
 layout: term
 title: kıratını ölçmek
 slug: kiratini-olcmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - değerini biçmek, kıymetini belirlemek

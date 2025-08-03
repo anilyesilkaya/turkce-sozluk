@@ -2,6 +2,7 @@
 layout: term
 title: çorba
 slug: corba
+letter: Ç
 lisan: Farsça şūrbā
 anlamlar:
 - Sebze, tahıl, et vb. ile hazırlanan sulu bir yemek türü

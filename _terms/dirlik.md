@@ -2,6 +2,7 @@
 layout: term
 title: dirlik
 slug: dirlik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Yaşayış, hayat, sağlık, varlık, geçim

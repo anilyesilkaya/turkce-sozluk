@@ -2,6 +2,7 @@
 layout: term
 title: briyantinli
 slug: briyantinli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Briyantinle süslenmiş, briyantin sürünmüş

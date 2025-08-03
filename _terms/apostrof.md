@@ -2,6 +2,7 @@
 layout: term
 title: apostrof
 slug: apostrof
+letter: A
 lisan: Fransızca apostrophe
 anlamlar:
 - ► kesme işareti

@@ -2,6 +2,7 @@
 layout: term
 title: sütliman
 slug: sutliman
+letter: S
 lisan: Yunanca
 anlamlar:
 - Durgun, sakin olan

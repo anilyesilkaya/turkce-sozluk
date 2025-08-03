@@ -2,6 +2,7 @@
 layout: term
 title: açık hava sineması
 slug: acik-hava-sinemasi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yazın veya iklimi elverişli yerlerde geceleri çalışan, üstü açık, yanları kapalı sinema

@@ -2,6 +2,7 @@
 layout: term
 title: aristokrat
 slug: aristokrat
+letter: A
 lisan: Fransızca aristocrate
 anlamlar:
 - Soylu erki yanlısı

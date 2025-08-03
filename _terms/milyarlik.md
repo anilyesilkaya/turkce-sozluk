@@ -2,6 +2,7 @@
 layout: term
 title: milyarlık
 slug: milyarlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Niceliği milyarla ölçülen

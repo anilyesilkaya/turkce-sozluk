@@ -2,6 +2,7 @@
 layout: term
 title: revaçta
 slug: revacta
+letter: R
 lisan: Türkçe
 anlamlar:
 - Gözde, tutulan, rağbet edilen

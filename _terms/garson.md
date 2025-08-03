@@ -2,6 +2,7 @@
 layout: term
 title: garson
 slug: garson
+letter: G
 lisan: Fransızca garçon
 anlamlar:
 - Lokanta, pastane, kahvehane vb. yerlerde müşterilere hizmet eden kimse

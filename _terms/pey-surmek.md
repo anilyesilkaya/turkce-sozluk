@@ -2,6 +2,7 @@
 layout: term
 title: pey sürmek
 slug: pey-surmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - artırma ile satılan bir şey için önce bir miktar para vermek veya önermek

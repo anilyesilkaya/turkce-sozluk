@@ -2,6 +2,7 @@
 layout: term
 title: oğuz
 slug: oguz
+letter: O
 lisan: Türkçe
 anlamlar:
 - İyi huylu (kimse)

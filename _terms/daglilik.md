@@ -2,6 +2,7 @@
 layout: term
 title: dağlılık
 slug: daglilik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dağlı olma durumu

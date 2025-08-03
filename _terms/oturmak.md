@@ -2,6 +2,7 @@
 layout: term
 title: oturmak
 slug: oturmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Vücudun belden yukarısı dik duracak biçimde ağırlığı kaba etlere vererek bir yere yerleşmek

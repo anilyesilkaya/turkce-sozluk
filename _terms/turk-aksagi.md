@@ -2,6 +2,7 @@
 layout: term
 title: Türk aksağı
 slug: turk-aksagi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Klasik Türk müziğinde bir küçük usul

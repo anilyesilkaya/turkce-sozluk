@@ -2,6 +2,7 @@
 layout: term
 title: deve tımarı
 slug: deve-timari
+letter: D
 lisan: Türkçe
 anlamlar:
 - Özensiz, üstünkörü yapılan

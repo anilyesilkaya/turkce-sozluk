@@ -2,6 +2,7 @@
 layout: term
 title: dayalı
 slug: dayali
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dayanmış olan

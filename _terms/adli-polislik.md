@@ -2,6 +2,7 @@
 layout: term
 title: adli polislik
 slug: adli-polislik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Adli polisin yaptığı iş

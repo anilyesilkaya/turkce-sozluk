@@ -2,6 +2,7 @@
 layout: term
 title: bekârlık sultanlık
 slug: bekarlik-sultanlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - '"evlenmeden tek başına yaşamak daha iyi" anlamında kullanılan bir söz'

@@ -2,6 +2,7 @@
 layout: term
 title: mazhariyet
 slug: mazhariyet
+letter: M
 lisan: Arapça maẓhariyyet
 anlamlar:
 - Erişme, elde etme

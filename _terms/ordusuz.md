@@ -2,6 +2,7 @@
 layout: term
 title: ordusuz
 slug: ordusuz
+letter: O
 lisan: Türkçe
 anlamlar:
 - Ordusu olmayan

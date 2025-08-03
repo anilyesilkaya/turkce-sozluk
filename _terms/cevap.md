@@ -2,6 +2,7 @@
 layout: term
 title: cevap
 slug: cevap
+letter: C
 lisan: Arapça cevāb
 anlamlar:
 - Bir soruya, bir isteğe, bir söz, bir davranış veya yazıya verilen karşılık; yanıt

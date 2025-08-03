@@ -2,6 +2,7 @@
 layout: term
 title: doldurboşalt
 slug: doldurbosalt
+letter: D
 lisan: Türkçe
 anlamlar:
 - Oyunun son dakikalarında galip olan takım tarafından oyalama amacıyla topu uzun paslarla rakip kale önüne gönderme

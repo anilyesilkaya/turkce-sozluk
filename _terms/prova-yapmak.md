@@ -2,6 +2,7 @@
 layout: term
 title: prova yapmak
 slug: prova-yapmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - gözden geçirmek

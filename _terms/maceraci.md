@@ -2,6 +2,7 @@
 layout: term
 title: maceracı
 slug: maceraci
+letter: M
 lisan: Türkçe
 anlamlar:
 - İlginç ve tehlikeli olayları göze alan; serüvenci, sergüzeştçi, maceraperest

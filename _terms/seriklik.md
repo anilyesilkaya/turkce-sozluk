@@ -2,6 +2,7 @@
 layout: term
 title: şeriklik
 slug: seriklik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► ortaklık

@@ -2,6 +2,7 @@
 layout: term
 title: çorbacı
 slug: corbaci
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çorba pişirip satan kimse

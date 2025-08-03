@@ -2,6 +2,7 @@
 layout: term
 title: hapşırtma
 slug: hapsirtma
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hapşırtmak işi; aksırtma

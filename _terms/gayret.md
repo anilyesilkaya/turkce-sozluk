@@ -2,6 +2,7 @@
 layout: term
 title: gayret
 slug: gayret
+letter: G
 lisan: Arapça ġayret
 anlamlar:
 - Çalışma isteği; mücahede

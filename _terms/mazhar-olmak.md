@@ -2,6 +2,7 @@
 layout: term
 title: mazhar olmak
 slug: mazhar-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - iyi bir şeye ermek, ulaşmak

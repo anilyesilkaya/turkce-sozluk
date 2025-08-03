@@ -2,6 +2,7 @@
 layout: term
 title: torpil
 slug: torpil
+letter: T
 lisan: Fransızca torpille
 anlamlar:
 - Genellikle bayramlarda çocukların eğlence aracı olarak kullandığı yanıcı madde

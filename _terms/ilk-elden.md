@@ -2,6 +2,7 @@
 layout: term
 title: ilk elden
 slug: ilk-elden
+letter: I
 lisan: Türkçe
 anlamlar:
 - Baştan başlayarak

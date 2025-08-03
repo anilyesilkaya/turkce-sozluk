@@ -2,6 +2,7 @@
 layout: term
 title: avaz avaz
 slug: avaz-avaz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yüksek sesli olarak

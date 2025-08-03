@@ -2,6 +2,7 @@
 layout: term
 title: film
 slug: film
+letter: F
 lisan: Fransızca film
 anlamlar:
 - Fotoğrafçılıkta, radyografide ve sinemacılıkta resim çekmek için kullanılan, selülozdan, saydam, bükülebilir şerit

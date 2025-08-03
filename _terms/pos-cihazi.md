@@ -2,6 +2,7 @@
 layout: term
 title: pos cihazı
 slug: pos-cihazi
+letter: P
 lisan: Türkçe
 anlamlar:
 - Ödemenin banka kartı veya kredi kartı ile yapılmasını sağlayan, işletmelerin kullandığı tahsilat aracı; pos (II), pos makinesi

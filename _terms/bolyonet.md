@@ -2,6 +2,7 @@
 layout: term
 title: bölyönet
 slug: bolyonet
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir ulusun veya topluluğun birliğini bozmak üzere içeriden veya dışarıdan yapılan müdahale

@@ -2,6 +2,7 @@
 layout: term
 title: donukluk
 slug: donukluk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Donuk olma durumu

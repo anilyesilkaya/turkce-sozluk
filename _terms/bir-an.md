@@ -2,6 +2,7 @@
 layout: term
 title: bir an
 slug: bir-an
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çok kısa bir süre

@@ -2,6 +2,7 @@
 layout: term
 title: nevri dönmek
 slug: nevri-donmek
+letter: N
 lisan: Türkçe
 anlamlar:
 - belli etmemeye çalıştığı bir öfkeye kapılmak, çok sinirlenmek

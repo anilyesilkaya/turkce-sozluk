@@ -2,6 +2,7 @@
 layout: term
 title: kaskatı kesilmek
 slug: kaskati-kesilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - aşırı coşku, soğuk, korku, üzüntü vb. etkisiyle hareket edemeyecek, bir şey söyleyemeyecek duruma gelmek, donup kalmak

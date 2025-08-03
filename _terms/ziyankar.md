@@ -2,6 +2,7 @@
 layout: term
 title: ziyankâr
 slug: ziyankar
+letter: Z
 lisan: Farsça ziyānkār
 anlamlar:
 - Sürekli zarar veren veya zarar vermeyi huy edinmiş olan

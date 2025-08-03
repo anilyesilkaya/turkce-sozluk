@@ -2,6 +2,7 @@
 layout: term
 title: inik
 slug: inik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İnmiş, indirilmiş

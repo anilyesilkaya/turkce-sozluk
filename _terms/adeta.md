@@ -2,6 +2,7 @@
 layout: term
 title: âdeta
 slug: adeta
+letter: Â
 lisan: Arapça ʿādeten sözünden
 anlamlar:
 - ► neredeyse

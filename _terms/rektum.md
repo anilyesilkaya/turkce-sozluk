@@ -2,6 +2,7 @@
 layout: term
 title: rektum
 slug: rektum
+letter: R
 lisan: Latince
 anlamlar:
 - ► göden

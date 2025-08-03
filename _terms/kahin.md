@@ -2,6 +2,7 @@
 layout: term
 title: kâhin
 slug: kahin
+letter: K
 lisan: Arapça kāhin
 anlamlar:
 - Doğaüstü yollardan gizli, bilinmeyen şeyleri, geleceği bilme iddiasında bulunan kimse

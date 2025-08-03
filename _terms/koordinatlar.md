@@ -2,6 +2,7 @@
 layout: term
 title: koordinatlar
 slug: koordinatlar
+letter: K
 lisan: Türkçe
 anlamlar:
 - Apsis, kot ve ordinatın ortak adı

@@ -2,6 +2,7 @@
 layout: term
 title: ayıcılık
 slug: ayicilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayıcının yaptığı iş

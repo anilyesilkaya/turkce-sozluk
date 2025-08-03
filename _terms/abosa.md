@@ -2,6 +2,7 @@
 layout: term
 title: abosa
 slug: abosa
+letter: A
 lisan: İtalyanca abbozza
 anlamlar:
 - Gemide hareket hâlindeki halatın veya zincirin bir an durdurulması için verilen komut

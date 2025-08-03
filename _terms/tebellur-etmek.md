@@ -2,6 +2,7 @@
 layout: term
 title: tebellür etmek
 slug: tebellur-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - billurlaşmak

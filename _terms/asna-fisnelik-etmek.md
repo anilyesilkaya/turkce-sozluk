@@ -2,6 +2,7 @@
 layout: term
 title: aşna fişnelik etmek
 slug: asna-fisnelik-etmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - oynaşlık etmek

@@ -2,6 +2,7 @@
 layout: term
 title: allame kesilmek
 slug: allame-kesilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - allamelik taslamak

@@ -2,6 +2,7 @@
 layout: term
 title: aşağılatmak
 slug: asagilatmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aşağılama işine uğratmak; tenzil etmek

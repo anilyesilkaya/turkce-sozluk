@@ -2,6 +2,7 @@
 layout: term
 title: söz yetiştirmek
 slug: soz-yetistirmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - laf yetiştirmek

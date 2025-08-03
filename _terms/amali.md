@@ -2,6 +2,7 @@
 layout: term
 title: amalı
 slug: amali
+letter: A
 lisan: Türkçe
 anlamlar:
 - Herhangi bir bahane, şart ileri süren

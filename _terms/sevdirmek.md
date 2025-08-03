@@ -2,6 +2,7 @@
 layout: term
 title: sevdirmek
 slug: sevdirmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sevmesini sağlamak

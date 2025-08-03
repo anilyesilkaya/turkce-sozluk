@@ -2,6 +2,7 @@
 layout: term
 title: daktilo şeridi
 slug: daktilo-seridi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Daktilodaki harflerin kâğıt üzerine yazılmasını sağlayan karbonlu şerit

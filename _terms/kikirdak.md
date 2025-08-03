@@ -2,6 +2,7 @@
 layout: term
 title: kıkırdak
 slug: kikirdak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kemik kadar sert olmayan, dayanıklı, esnek, bükülgen, damarsız bağ dokusu

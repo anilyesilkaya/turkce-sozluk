@@ -2,6 +2,7 @@
 layout: term
 title: aldatma
 slug: aldatma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aldatmak işi; desise, şike

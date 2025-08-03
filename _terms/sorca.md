@@ -2,6 +2,7 @@
 layout: term
 title: Şorca
 slug: sorca
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► Şor Türkçesi

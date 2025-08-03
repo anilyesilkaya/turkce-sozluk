@@ -2,6 +2,7 @@
 layout: term
 title: deli alacası
 slug: deli-alacasi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Birbirini tutmayan parlak renklerden oluşan

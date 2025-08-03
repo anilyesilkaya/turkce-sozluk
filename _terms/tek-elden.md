@@ -2,6 +2,7 @@
 layout: term
 title: tek elden
 slug: tek-elden
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir kimsenin, bir yerin veya bir merkezin yönetiminde olarak

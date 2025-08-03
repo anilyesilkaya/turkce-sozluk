@@ -2,6 +2,7 @@
 layout: term
 title: heyecanlandırmak
 slug: heyecanlandirmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Heyecan duymasına sebep olmak

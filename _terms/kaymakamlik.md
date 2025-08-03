@@ -2,6 +2,7 @@
 layout: term
 title: kaymakamlık
 slug: kaymakamlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaymakam olma durumu

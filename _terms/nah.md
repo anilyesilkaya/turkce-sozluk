@@ -2,6 +2,7 @@
 layout: term
 title: nah
 slug: nah
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► işte

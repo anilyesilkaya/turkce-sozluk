@@ -2,6 +2,7 @@
 layout: term
 title: öğütlemek
 slug: ogutlemek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Birine bir şeyi yapmasını veya yapmamasını söylemek; nasihat etmek

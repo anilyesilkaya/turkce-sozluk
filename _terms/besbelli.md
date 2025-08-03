@@ -2,6 +2,7 @@
 layout: term
 title: besbelli
 slug: besbelli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Açık bir biçimde

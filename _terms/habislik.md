@@ -2,6 +2,7 @@
 layout: term
 title: habislik
 slug: habislik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Habis olma durumu

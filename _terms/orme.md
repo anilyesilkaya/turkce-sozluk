@@ -2,6 +2,7 @@
 layout: term
 title: örme
 slug: orme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Örmek işi

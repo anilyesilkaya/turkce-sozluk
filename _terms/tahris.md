@@ -2,6 +2,7 @@
 layout: term
 title: tahriş
 slug: tahris
+letter: T
 lisan: Arapça taḫrīş
 anlamlar:
 - Tırmalanma, tırmalama

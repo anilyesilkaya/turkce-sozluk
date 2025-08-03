@@ -2,6 +2,7 @@
 layout: term
 title: sicim gibi
 slug: sicim-gibi
+letter: S
 lisan: Türkçe
 anlamlar:
 - damlaları ince bir sıra oluşturacak biçimde birbiri ardınca akan (yağmur, gözyaşı)

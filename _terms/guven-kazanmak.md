@@ -2,6 +2,7 @@
 layout: term
 title: güven kazanmak
 slug: guven-kazanmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - kendisine inandırmak

@@ -2,6 +2,7 @@
 layout: term
 title: mükellef
 slug: mukellef
+letter: M
 lisan: Arapça mukellef
 anlamlar:
 - ► yükümlü

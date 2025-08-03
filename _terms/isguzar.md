@@ -2,6 +2,7 @@
 layout: term
 title: işgüzar
 slug: isguzar
+letter: I
 lisan: Türkçe iş + Farsça -guẕār
 anlamlar:
 - Gereği yokken, genellikle kendini göstermek için işe karışan (kimse)

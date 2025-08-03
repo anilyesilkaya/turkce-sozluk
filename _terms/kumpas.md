@@ -2,6 +2,7 @@
 layout: term
 title: kumpas
 slug: kumpas
+letter: K
 lisan: Fransızca compas
 anlamlar:
 - Dizicilerin harfleri satır durumuna getirirken içine yerleştirdikleri ayarlanabilir demir yuva

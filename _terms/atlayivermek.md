@@ -2,6 +2,7 @@
 layout: term
 title: atlayıvermek
 slug: atlayivermek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Çabucak atlamak

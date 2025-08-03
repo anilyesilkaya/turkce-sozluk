@@ -2,6 +2,7 @@
 layout: term
 title: süzüm süzüm süzülmek
 slug: suzum-suzum-suzulmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - kendini beğenmiş bir tavırla ağırbaşlı oturup çevreye bakmak

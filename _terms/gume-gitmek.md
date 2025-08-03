@@ -2,6 +2,7 @@
 layout: term
 title: güme gitmek
 slug: gume-gitmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - anlaşılmamak

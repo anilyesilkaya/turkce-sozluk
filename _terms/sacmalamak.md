@@ -2,6 +2,7 @@
 layout: term
 title: saçmalamak
 slug: sacmalamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Anlamsız, gereksiz, tutarsız, saçma sapan sözler söylemek veya bu tür davranışlarda bulunmak; abuklamak

@@ -2,6 +2,7 @@
 layout: term
 title: terkipli
 slug: terkipli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bileşim içeren

@@ -2,6 +2,7 @@
 layout: term
 title: vız gelip tırıs gitmek
 slug: viz-gelip-tiris-gitmek
+letter: V
 lisan: Türkçe
 anlamlar:
 - önemsememek, aldırış etmemek

@@ -2,6 +2,7 @@
 layout: term
 title: eşek maydanozu
 slug: esek-maydanozu
+letter: E
 lisan: Türkçe
 anlamlar:
 - Maydanozgillerden iki yıllık otsu bir bitki (Anthriscus silvestris)

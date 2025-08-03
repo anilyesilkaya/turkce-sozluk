@@ -2,6 +2,7 @@
 layout: term
 title: ussallık
 slug: ussallik
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► aklilik

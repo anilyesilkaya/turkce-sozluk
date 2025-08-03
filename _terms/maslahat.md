@@ -2,6 +2,7 @@
 layout: term
 title: maslahat
 slug: maslahat
+letter: M
 lisan: Arapça maṣlaḥat
 anlamlar:
 - Önemli iş, mesele

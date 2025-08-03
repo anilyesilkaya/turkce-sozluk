@@ -2,6 +2,7 @@
 layout: term
 title: borca batmak
 slug: borca-batmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - çok borçlu olmak

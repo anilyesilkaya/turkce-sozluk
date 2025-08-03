@@ -2,6 +2,7 @@
 layout: term
 title: daire
 slug: daire
+letter: D
 lisan: Arapça dāʾire
 anlamlar:
 - Konut olarak kullanılan bir yapının bölümlerinden her biri

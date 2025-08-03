@@ -2,6 +2,7 @@
 layout: term
 title: zakkumlu
 slug: zakkumlu
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zakkumun zehri bulaşmış

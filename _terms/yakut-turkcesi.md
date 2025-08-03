@@ -2,6 +2,7 @@
 layout: term
 title: Yakut Türkçesi
 slug: yakut-turkcesi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yakut Türklerinin kullandığı konuşma ve yazı dili; Yakutça, Sahaca, Saha Türkçesi

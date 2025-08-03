@@ -2,6 +2,7 @@
 layout: term
 title: zarf-fiil
 slug: zarf-fiil
+letter: Z
 lisan: Türkçe
 anlamlar:
 - 'Fiilden -a, -arak, -dıkça, -ınca, -ıp, -madan vb. eklerle yapılan, zarf olarak kullanılan kelime; ulaç, bağ-fiil, sıla sigası: Koşarak geldi. Düşünmeden söyledi. Siz gelmeyince gittik'

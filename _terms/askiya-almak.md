@@ -2,6 +2,7 @@
 layout: term
 title: askıya almak
 slug: askiya-almak
+letter: A
 lisan: Türkçe
 anlamlar:
 - altı boşalıp desteği kalmayan yapıyı dikmelerle boşlukta tutarak yıkılmaktan kurtarmak

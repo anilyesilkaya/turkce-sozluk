@@ -2,6 +2,7 @@
 layout: term
 title: eğitim almak
 slug: egitim-almak
+letter: E
 lisan: Türkçe
 anlamlar:
 - belli bir bilim dalı veya sanat kolunda yetişmek

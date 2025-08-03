@@ -2,6 +2,7 @@
 layout: term
 title: edep
 slug: edep
+letter: E
 lisan: Arapça edeb
 anlamlar:
 - Toplum töresine uygun davranma

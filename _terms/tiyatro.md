@@ -2,6 +2,7 @@
 layout: term
 title: tiyatro
 slug: tiyatro
+letter: T
 lisan: İtalyanca teatro
 anlamlar:
 - Dram, komedi, vodvil vb. eserleri sahneleme sanatı

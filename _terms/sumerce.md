@@ -2,6 +2,7 @@
 layout: term
 title: Sümerce
 slug: sumerce
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sümerlerin kullandığı dil

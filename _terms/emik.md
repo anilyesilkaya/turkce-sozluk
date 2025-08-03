@@ -2,6 +2,7 @@
 layout: term
 title: emik
 slug: emik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Emilmekten çürüyen yer

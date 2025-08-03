@@ -2,6 +2,7 @@
 layout: term
 title: kulak
 slug: kulak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Başın her iki yanında bulunan işitme organı

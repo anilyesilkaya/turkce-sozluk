@@ -2,6 +2,7 @@
 layout: term
 title: belirivermek
 slug: belirivermek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Ansızın belirmek

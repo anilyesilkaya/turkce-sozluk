@@ -2,6 +2,7 @@
 layout: term
 title: sapkın
 slug: sapkin
+letter: S
 lisan: Türkçe
 anlamlar:
 - Doğru yoldan ayrılmış olan

@@ -2,6 +2,7 @@
 layout: term
 title: tetik üstünde beklemek
 slug: tetik-ustunde-beklemek
+letter: T
 lisan: Türkçe
 anlamlar:
 - hazır, dikkatli, uyanık bulunmak, tetikte olmak

@@ -2,6 +2,7 @@
 layout: term
 title: tıkızlaşmak
 slug: tikizlasmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tıkız duruma gelmek

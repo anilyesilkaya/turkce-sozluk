@@ -2,6 +2,7 @@
 layout: term
 title: şişmanlık
 slug: sismanlik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şişman olma durumu

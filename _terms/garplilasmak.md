@@ -2,6 +2,7 @@
 layout: term
 title: Garplılaşmak
 slug: garplilasmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► Batılılaşmak

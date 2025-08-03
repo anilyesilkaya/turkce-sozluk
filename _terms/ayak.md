@@ -2,6 +2,7 @@
 layout: term
 title: ayak
 slug: ayak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bacakların bilekten aşağıda bulunan ve yere basan bölümü

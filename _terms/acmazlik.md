@@ -2,6 +2,7 @@
 layout: term
 title: açmazlık
 slug: acmazlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Açmaz olma durumu

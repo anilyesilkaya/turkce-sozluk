@@ -2,6 +2,7 @@
 layout: term
 title: şeytana külahı (veya pabucu) ters giydirmek
 slug: seytana-kulahi-veya-pabucu-ters-giydirmek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - çok kurnaz olmak

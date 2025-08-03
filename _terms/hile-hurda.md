@@ -2,6 +2,7 @@
 layout: term
 title: hile hurda
 slug: hile-hurda
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► yalan dolan

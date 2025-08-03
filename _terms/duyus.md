@@ -2,6 +2,7 @@
 layout: term
 title: duyuş
 slug: duyus
+letter: D
 lisan: Türkçe
 anlamlar:
 - Duymak işi

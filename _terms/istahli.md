@@ -2,6 +2,7 @@
 layout: term
 title: iştahlı
 slug: istahli
+letter: I
 lisan: Türkçe
 anlamlar:
 - Çok yemek yiyen, yemek isteği çok olan; boğazlı, müştehi

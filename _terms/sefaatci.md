@@ -2,6 +2,7 @@
 layout: term
 title: şefaatçi
 slug: sefaatci
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Birisi için şefaatte bulunan, şefaat eden kimse

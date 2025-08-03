@@ -2,6 +2,7 @@
 layout: term
 title: sımsıcak
 slug: simsicak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Pek sıcak; sıpsıcak

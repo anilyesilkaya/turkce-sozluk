@@ -2,6 +2,7 @@
 layout: term
 title: iç asalak
 slug: ic-asalak
+letter: I
 lisan: Türkçe
 anlamlar:
 - Konakçının içinde yaşayan asalak

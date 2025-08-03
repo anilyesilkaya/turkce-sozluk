@@ -2,6 +2,7 @@
 layout: term
 title: ilahi aşk
 slug: ilahi-ask
+letter: I
 lisan: Türkçe
 anlamlar:
 - Allah aşkı

@@ -2,6 +2,7 @@
 layout: term
 title: kestanelik
 slug: kestanelik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kestane ağaçları çok olan yer

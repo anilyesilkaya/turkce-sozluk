@@ -2,6 +2,7 @@
 layout: term
 title: borazan
 slug: borazan
+letter: B
 lisan: Türkçe boru + Farsça -zen
 anlamlar:
 - Üfleyerek çalınan, perdesiz çalgı; boru

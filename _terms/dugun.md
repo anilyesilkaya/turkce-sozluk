@@ -2,6 +2,7 @@
 layout: term
 title: düğün
 slug: dugun
+letter: D
 lisan: Türkçe
 anlamlar:
 - Evlenme veya sünnet dolayısıyla yapılan tören, eğlence; toy (II), cemiyet

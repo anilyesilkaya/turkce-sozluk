@@ -2,6 +2,7 @@
 layout: term
 title: ortalık
 slug: ortalik
+letter: O
 lisan: Türkçe
 anlamlar:
 - Bulunulan yer, çevre; piyasa

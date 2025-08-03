@@ -2,6 +2,7 @@
 layout: term
 title: çaprazlaştırmak
 slug: caprazlastirmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çaprazlaşmasına yol açmak

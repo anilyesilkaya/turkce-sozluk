@@ -2,6 +2,7 @@
 layout: term
 title: aptallık
 slug: aptallik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aptal olma durumu; budalalık, şabanlık

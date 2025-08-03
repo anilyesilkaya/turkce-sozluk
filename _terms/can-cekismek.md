@@ -2,6 +2,7 @@
 layout: term
 title: can çekişmek
 slug: can-cekismek
+letter: C
 lisan: Türkçe
 anlamlar:
 - ölmek üzere bulunmak

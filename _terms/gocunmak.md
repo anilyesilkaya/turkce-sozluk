@@ -2,6 +2,7 @@
 layout: term
 title: gocunmak
 slug: gocunmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bir şeyden alınmak

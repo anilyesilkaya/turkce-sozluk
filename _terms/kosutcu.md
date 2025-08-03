@@ -2,6 +2,7 @@
 layout: term
 title: koşutçu
 slug: kosutcu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Koşutçuluk öğretisini benimseyen; paralelist

@@ -2,6 +2,7 @@
 layout: term
 title: kara yel
 slug: kara-yel
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kuzeybatıdan esen, soğuk, bazen fırtına niteliğinde yel

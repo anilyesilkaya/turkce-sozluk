@@ -2,6 +2,7 @@
 layout: term
 title: kalsit
 slug: kalsit
+letter: K
 lisan: Fransızca calcite
 anlamlar:
 - Billurlaşmış doğal kalsiyum karbonatı

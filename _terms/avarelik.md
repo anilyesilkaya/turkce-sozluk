@@ -2,6 +2,7 @@
 layout: term
 title: avarelik
 slug: avarelik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Avare olma durumu

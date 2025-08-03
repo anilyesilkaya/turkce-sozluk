@@ -2,6 +2,7 @@
 layout: term
 title: değneklemek
 slug: degneklemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Değnekle vurmak

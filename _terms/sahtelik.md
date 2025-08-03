@@ -2,6 +2,7 @@
 layout: term
 title: sahtelik
 slug: sahtelik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sahte olma durumu; kalplık

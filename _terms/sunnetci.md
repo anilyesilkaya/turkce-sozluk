@@ -2,6 +2,7 @@
 layout: term
 title: sünnetçi
 slug: sunnetci
+letter: S
 lisan: Türkçe
 anlamlar:
 - Çocukları sünnet eden kimse

@@ -2,6 +2,7 @@
 layout: term
 title: maile
 slug: maile
+letter: M
 lisan: Arapça māʾile
 anlamlar:
 - ► aklan

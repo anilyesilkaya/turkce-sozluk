@@ -2,6 +2,7 @@
 layout: term
 title: sadrazam
 slug: sadrazam
+letter: S
 lisan: Arapça ṣadr + aʿẓam
 anlamlar:
 - Osmanlı Devleti'nde başbakan; veziriazam, sadır

@@ -2,6 +2,7 @@
 layout: term
 title: zuhur
 slug: zuhur
+letter: Z
 lisan: Arapça ẓuhūr
 anlamlar:
 - Ortaya çıkma, görünme, belirme, baş gösterme, meydana çıkma

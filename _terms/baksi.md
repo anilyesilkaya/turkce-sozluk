@@ -2,6 +2,7 @@
 layout: term
 title: bakşı
 slug: baksi
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► şaman

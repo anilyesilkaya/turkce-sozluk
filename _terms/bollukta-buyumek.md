@@ -2,6 +2,7 @@
 layout: term
 title: bollukta büyümek
 slug: bollukta-buyumek
+letter: B
 lisan: Türkçe
 anlamlar:
 - maddi sıkıntı görmeden yetişmek

@@ -2,6 +2,7 @@
 layout: term
 title: beniz
 slug: beniz
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► yüz (II)

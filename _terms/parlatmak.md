@@ -2,6 +2,7 @@
 layout: term
 title: parlatmak
 slug: parlatmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Bir yüzeyi düzgün ve parlak duruma getirmek, parlamasını sağlamak

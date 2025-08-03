@@ -2,6 +2,7 @@
 layout: term
 title: nesim
 slug: nesim
+letter: N
 lisan: Arapça nesīm
 anlamlar:
 - Hafif yel, esinti

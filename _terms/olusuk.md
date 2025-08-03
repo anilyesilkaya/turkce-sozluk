@@ -2,6 +2,7 @@
 layout: term
 title: oluşuk
 slug: olusuk
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oluşmuş olan

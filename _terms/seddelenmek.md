@@ -2,6 +2,7 @@
 layout: term
 title: şeddelenmek
 slug: seddelenmek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şeddeli duruma gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: öksüzleşmek
 slug: oksuzlesmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öksüz hâle gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: kakaç
 slug: kakac
+letter: K
 lisan: Türkçe
 anlamlar:
 - Tuzlanıp kurutulmuş yiyecek

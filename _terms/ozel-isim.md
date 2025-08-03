@@ -2,6 +2,7 @@
 layout: term
 title: özel isim
 slug: ozel-isim
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► özel ad

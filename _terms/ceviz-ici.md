@@ -2,6 +2,7 @@
 layout: term
 title: ceviz içi
 slug: ceviz-ici
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cevizin kabuğu kırıldıktan sonra kalan, yenilebilir iç kısmı

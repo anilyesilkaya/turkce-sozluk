@@ -2,6 +2,7 @@
 layout: term
 title: selzede
 slug: selzede
+letter: S
 lisan: Arapça seyl + Farsça -zede
 anlamlar:
 - Sel felaketine uğramış, selden zarar görmüş kimse

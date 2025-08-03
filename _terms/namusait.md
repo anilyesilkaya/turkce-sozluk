@@ -2,6 +2,7 @@
 layout: term
 title: namüsait
 slug: namusait
+letter: N
 lisan: Farsça nā + Arapça musāʿid
 anlamlar:
 - Uygun olmayan; elverişsiz

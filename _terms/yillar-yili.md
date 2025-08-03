@@ -2,6 +2,7 @@
 layout: term
 title: yıllar yılı
 slug: yillar-yili
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Uzun yıllardan beri

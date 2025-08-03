@@ -2,6 +2,7 @@
 layout: term
 title: balyalama
 slug: balyalama
+letter: B
 lisan: Türkçe
 anlamlar:
 - Balyalamak işi

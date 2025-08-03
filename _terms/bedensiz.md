@@ -2,6 +2,7 @@
 layout: term
 title: bedensiz
 slug: bedensiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bedeni olmayan

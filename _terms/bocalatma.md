@@ -2,6 +2,7 @@
 layout: term
 title: bocalatma
 slug: bocalatma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bocalatmak işi

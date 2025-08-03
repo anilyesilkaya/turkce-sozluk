@@ -2,6 +2,7 @@
 layout: term
 title: usandırma
 slug: usandirma
+letter: U
 lisan: Türkçe
 anlamlar:
 - Usandırmak işi

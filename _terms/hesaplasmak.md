@@ -2,6 +2,7 @@
 layout: term
 title: hesaplaşmak
 slug: hesaplasmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Birbirindeki alacakla vereceğin hesabını yapmak

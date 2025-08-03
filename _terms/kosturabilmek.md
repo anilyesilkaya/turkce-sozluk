@@ -2,6 +2,7 @@
 layout: term
 title: koşturabilmek
 slug: kosturabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Koşturma ihtimali veya imkânı bulunmak

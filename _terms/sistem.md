@@ -2,6 +2,7 @@
 layout: term
 title: sistem
 slug: sistem
+letter: S
 lisan: Fransızca système
 anlamlar:
 - ► düzen

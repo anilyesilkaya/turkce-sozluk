@@ -2,6 +2,7 @@
 layout: term
 title: eğe
 slug: ege
+letter: E
 lisan: Türkçe
 anlamlar:
 - Maden, tahta vb.nin pürüzlerini düzeltmek için kullanılan, üzeri pürtüklü, sert, ensiz, çelik araç

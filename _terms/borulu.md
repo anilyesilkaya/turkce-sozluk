@@ -2,6 +2,7 @@
 layout: term
 title: borulu
 slug: borulu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Borusu olan

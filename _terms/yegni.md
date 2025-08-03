@@ -2,6 +2,7 @@
 layout: term
 title: yeğni
 slug: yegni
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► hafif

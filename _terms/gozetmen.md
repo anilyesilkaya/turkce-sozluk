@@ -2,6 +2,7 @@
 layout: term
 title: gözetmen
 slug: gozetmen
+letter: G
 lisan: Türkçe
 anlamlar:
 - Sınavın kurallara uygun bir biçimde yapılmasını sağlayan kimse; gözcü

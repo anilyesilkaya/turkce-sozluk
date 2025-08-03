@@ -2,6 +2,7 @@
 layout: term
 title: askıcı
 slug: askici
+letter: A
 lisan: Türkçe
 anlamlar:
 - Askı yapan veya satan kimse

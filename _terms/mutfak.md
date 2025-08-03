@@ -2,6 +2,7 @@
 layout: term
 title: mutfak
 slug: mutfak
+letter: M
 lisan: Arapça maṭbaḫ
 anlamlar:
 - Yemek pişirilen yer; aş damı, aşhane, ocaklık

@@ -2,6 +2,7 @@
 layout: term
 title: anlaşılmaz
 slug: anlasilmaz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anlaşılması güç olan, bir anlam verilemeyen; muğlak

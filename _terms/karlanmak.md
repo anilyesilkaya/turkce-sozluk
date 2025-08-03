@@ -2,6 +2,7 @@
 layout: term
 title: karlanmak
 slug: karlanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kar ile örtülmek, kar ile kaplanmak

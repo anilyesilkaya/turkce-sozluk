@@ -2,6 +2,7 @@
 layout: term
 title: bıçaklı
 slug: bicakli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bıçağı olan

@@ -2,6 +2,7 @@
 layout: term
 title: kimsecik
 slug: kimsecik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Hiç kimse

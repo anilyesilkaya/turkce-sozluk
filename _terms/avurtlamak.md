@@ -2,6 +2,7 @@
 layout: term
 title: avurtlamak
 slug: avurtlamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Büyüklenmek, çalım satmak

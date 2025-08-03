@@ -2,6 +2,7 @@
 layout: term
 title: tüfekli
 slug: tufekli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tüfeği olan

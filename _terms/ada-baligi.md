@@ -2,6 +2,7 @@
 layout: term
 title: ada balığı
 slug: ada-baligi
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► amber balığı

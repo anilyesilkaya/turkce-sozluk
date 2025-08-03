@@ -2,6 +2,7 @@
 layout: term
 title: sırılsıklam
 slug: sirilsiklam
+letter: S
 lisan: Türkçe
 anlamlar:
 - Büsbütün ıslak, çok ıslak; sırsıklam, yamyaş

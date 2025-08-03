@@ -2,6 +2,7 @@
 layout: term
 title: usulca
 slug: usulca
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► usul (III)

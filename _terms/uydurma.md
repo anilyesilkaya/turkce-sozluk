@@ -2,6 +2,7 @@
 layout: term
 title: uydurma
 slug: uydurma
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uydurmak işi; tasni

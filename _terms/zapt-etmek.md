@@ -2,6 +2,7 @@
 layout: term
 title: zapt etmek
 slug: zapt-etmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - zorla almak

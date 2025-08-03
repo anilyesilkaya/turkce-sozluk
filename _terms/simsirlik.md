@@ -2,6 +2,7 @@
 layout: term
 title: şimşirlik
 slug: simsirlik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Sarayda babası ölmüş şehzadelerin yaşadığı yer; kafes

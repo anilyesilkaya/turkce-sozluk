@@ -2,6 +2,7 @@
 layout: term
 title: bulup buluşturmak
 slug: bulup-bulusturmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - çaba göstererek bir şeyler sağlamak

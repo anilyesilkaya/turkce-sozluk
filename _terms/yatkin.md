@@ -2,6 +2,7 @@
 layout: term
 title: yatkın
 slug: yatkin
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir işte yeteneği, becerisi olan

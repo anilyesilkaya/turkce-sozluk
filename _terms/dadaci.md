@@ -2,6 +2,7 @@
 layout: term
 title: Dadacı
 slug: dadaci
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dadacılık akımına bağlı olan; Dadaist

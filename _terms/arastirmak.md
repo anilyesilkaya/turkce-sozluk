@@ -2,6 +2,7 @@
 layout: term
 title: araştırmak
 slug: arastirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Birini veya bir şeyi bulmak için bir yeri gözden geçirmek

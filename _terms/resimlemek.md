@@ -2,6 +2,7 @@
 layout: term
 title: resimlemek
 slug: resimlemek
+letter: R
 lisan: Türkçe
 anlamlar:
 - Herhangi bir konuyu resimlerle anlatmak; resimlendirmek

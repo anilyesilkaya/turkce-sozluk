@@ -2,6 +2,7 @@
 layout: term
 title: serpme kahvaltı
 slug: serpme-kahvalti
+letter: S
 lisan: Türkçe
 anlamlar:
 - Lokanta vb. yerlerde zeytin, peynir, reçel vb. kahvaltılık malzemelerin birçok çeşidinin bir arada küçük tabaklarda sunumunun yapıldığı kahvaltı biçimi

@@ -2,6 +2,7 @@
 layout: term
 title: üstüne fenalık gelmek
 slug: ustune-fenalik-gelmek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - aşırı derecede sıkılmak, pek bunalmak

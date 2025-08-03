@@ -2,6 +2,7 @@
 layout: term
 title: snopluk
 slug: snopluk
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► züppelik

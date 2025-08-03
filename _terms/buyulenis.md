@@ -2,6 +2,7 @@
 layout: term
 title: büyüleniş
 slug: buyulenis
+letter: B
 lisan: Türkçe
 anlamlar:
 - Büyülenmek işi

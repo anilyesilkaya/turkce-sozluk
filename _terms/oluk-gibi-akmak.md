@@ -2,6 +2,7 @@
 layout: term
 title: oluk gibi akmak
 slug: oluk-gibi-akmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - çok bol ve arası kesilmeden gelmek

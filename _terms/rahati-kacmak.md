@@ -2,6 +2,7 @@
 layout: term
 title: rahatı kaçmak
 slug: rahati-kacmak
+letter: R
 lisan: Türkçe
 anlamlar:
 - rahatsız, tedirgin olmak, üzülmek

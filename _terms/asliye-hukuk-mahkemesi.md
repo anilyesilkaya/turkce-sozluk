@@ -2,6 +2,7 @@
 layout: term
 title: asliye hukuk mahkemesi
 slug: asliye-hukuk-mahkemesi
+letter: A
 lisan: Türkçe
 anlamlar:
 - İlçelerde kurulan ve sulh mahkemesinin yasada belirtilen görevi dışındaki bütün davalara bakan, hukuk yargılamasının asıl mahkemesi

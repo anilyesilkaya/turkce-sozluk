@@ -2,6 +2,7 @@
 layout: term
 title: yanlışsız
 slug: yanlissiz
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yanlışı olmayan

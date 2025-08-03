@@ -2,6 +2,7 @@
 layout: term
 title: konservatuvar
 slug: konservatuvar
+letter: K
 lisan: Fransızca conservatoire
 anlamlar:
 - Müzik, tiyatro ve bale öğretiminin yapıldığı okul

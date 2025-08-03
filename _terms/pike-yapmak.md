@@ -2,6 +2,7 @@
 layout: term
 title: pike yapmak
 slug: pike-yapmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - uçak dik biçimde inmek

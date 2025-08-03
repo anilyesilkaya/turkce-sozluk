@@ -2,6 +2,7 @@
 layout: term
 title: harmancı
 slug: harmanci
+letter: H
 lisan: Türkçe
 anlamlar:
 - Harman işi ile uğraşan (kimse)

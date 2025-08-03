@@ -2,6 +2,7 @@
 layout: term
 title: sarhoşlamak
 slug: sarhoslamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sarhoş gibi olmak, sarhoş olmaya başlamak

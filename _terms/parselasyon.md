@@ -2,6 +2,7 @@
 layout: term
 title: parselasyon
 slug: parselasyon
+letter: P
 lisan: Fransızca parcellation
 anlamlar:
 - ► parselleme

@@ -2,6 +2,7 @@
 layout: term
 title: ulaşmak
 slug: ulasmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Belli bir yere varmak, erişmek, gitmek

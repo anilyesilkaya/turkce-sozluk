@@ -2,6 +2,7 @@
 layout: term
 title: fosilleşmek
 slug: fosillesmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fosil durumuna gelmek; taşıllaşmak

@@ -2,6 +2,7 @@
 layout: term
 title: zevküsefa
 slug: zevkusefa
+letter: Z
 lisan: Arapça ẕevḳ + ṣafā
 anlamlar:
 - Eğlenme, eğlence

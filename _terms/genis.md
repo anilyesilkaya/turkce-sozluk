@@ -2,6 +2,7 @@
 layout: term
 title: geniş
 slug: genis
+letter: G
 lisan: Türkçe
 anlamlar:
 - Eni çok olan; enli, gen (I), vâsi

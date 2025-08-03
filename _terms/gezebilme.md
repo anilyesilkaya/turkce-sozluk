@@ -2,6 +2,7 @@
 layout: term
 title: gezebilme
 slug: gezebilme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gezebilmek işi

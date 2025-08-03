@@ -2,6 +2,7 @@
 layout: term
 title: müreffeh
 slug: mureffeh
+letter: M
 lisan: Arapça mureffeh
 anlamlar:
 - ► gönençli

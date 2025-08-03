@@ -2,6 +2,7 @@
 layout: term
 title: estetizm
 slug: estetizm
+letter: E
 lisan: Fransızca esthétisme
 anlamlar:
 - ► estetikçilik

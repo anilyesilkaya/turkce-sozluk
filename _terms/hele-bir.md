@@ -2,6 +2,7 @@
 layout: term
 title: hele bir
 slug: hele-bir
+letter: H
 lisan: Türkçe
 anlamlar:
 - hele

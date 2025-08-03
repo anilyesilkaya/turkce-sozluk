@@ -2,6 +2,7 @@
 layout: term
 title: raporsuz
 slug: raporsuz
+letter: R
 lisan: Türkçe
 anlamlar:
 - Raporu olmayan

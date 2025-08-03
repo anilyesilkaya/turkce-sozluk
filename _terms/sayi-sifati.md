@@ -2,6 +2,7 @@
 layout: term
 title: sayı sıfatı
 slug: sayi-sifati
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir adı miktar, sıra, üleştirme, topluluk vb. bakımlardan belirten sıfat

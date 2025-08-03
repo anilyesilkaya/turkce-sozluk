@@ -2,6 +2,7 @@
 layout: term
 title: sardırma
 slug: sardirma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sardırmak işi

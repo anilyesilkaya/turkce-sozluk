@@ -2,6 +2,7 @@
 layout: term
 title: doru
 slug: doru
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çeşitli tonları bulunan kızıl kahve at rengi; yağız

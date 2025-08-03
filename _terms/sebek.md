@@ -2,6 +2,7 @@
 layout: term
 title: şebek
 slug: sebek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Genellikle Afrika'nın dağlık bölgelerinde sürüler hâlinde yaşayan, değişik renklerde olan, uzun veya kısa kuyruklu türleri bulunan maymun

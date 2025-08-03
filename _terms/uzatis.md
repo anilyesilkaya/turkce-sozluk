@@ -2,6 +2,7 @@
 layout: term
 title: uzatış
 slug: uzatis
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uzatmak işi

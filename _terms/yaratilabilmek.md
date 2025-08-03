@@ -2,6 +2,7 @@
 layout: term
 title: yaratılabilmek
 slug: yaratilabilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaratılma ihtimali veya imkânı bulunmak

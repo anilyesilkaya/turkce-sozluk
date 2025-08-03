@@ -2,6 +2,7 @@
 layout: term
 title: talihli
 slug: talihli
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► bahtlı

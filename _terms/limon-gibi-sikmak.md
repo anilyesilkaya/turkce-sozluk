@@ -2,6 +2,7 @@
 layout: term
 title: limon gibi sıkmak
 slug: limon-gibi-sikmak
+letter: L
 lisan: Türkçe
 anlamlar:
 - belli bir kişiyi veya kitleyi neyi varsa alarak zor duruma sokmak

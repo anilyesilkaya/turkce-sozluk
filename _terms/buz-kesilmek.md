@@ -2,6 +2,7 @@
 layout: term
 title: buz kesilmek
 slug: buz-kesilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - şaşılacak, üzülecek bir durum karşısında donakalmak

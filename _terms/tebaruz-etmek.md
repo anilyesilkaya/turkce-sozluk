@@ -2,6 +2,7 @@
 layout: term
 title: tebarüz etmek
 slug: tebaruz-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - belirmek

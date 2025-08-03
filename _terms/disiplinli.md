@@ -2,6 +2,7 @@
 layout: term
 title: disiplinli
 slug: disiplinli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Disiplini olan

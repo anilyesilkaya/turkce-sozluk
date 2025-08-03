@@ -2,6 +2,7 @@
 layout: term
 title: yarım ayak
 slug: yarim-ayak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Çocuk oyunlarındaki takım seçiminde ayak atışması sırasında ayağın yere enlemesine konma durumu

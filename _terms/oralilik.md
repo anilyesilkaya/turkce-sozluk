@@ -2,6 +2,7 @@
 layout: term
 title: oralılık
 slug: oralilik
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oralı olma durumu

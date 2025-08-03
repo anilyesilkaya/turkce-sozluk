@@ -2,6 +2,7 @@
 layout: term
 title: gece kuşu
 slug: gece-kusu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Geceleri gezmeyi seven kimse

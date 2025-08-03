@@ -2,6 +2,7 @@
 layout: term
 title: ardını almak (veya getirmek)
 slug: ardini-almak-veya-getirmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - bitirmek, tamamlamak

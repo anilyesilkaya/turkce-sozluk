@@ -2,6 +2,7 @@
 layout: term
 title: çağrıştırmak
 slug: cagristirmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir çağrışıma yol açmak

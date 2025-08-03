@@ -2,6 +2,7 @@
 layout: term
 title: sakarca
 slug: sakarca
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sakar gibi, sakara benzer bir biçimde

@@ -2,6 +2,7 @@
 layout: term
 title: kerim
 slug: kerim
+letter: K
 lisan: Arapça kerīm
 anlamlar:
 - ► soylu

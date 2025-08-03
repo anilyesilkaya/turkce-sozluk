@@ -2,6 +2,7 @@
 layout: term
 title: müvezzilik
 slug: muvezzilik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Müvezzi olma durumu

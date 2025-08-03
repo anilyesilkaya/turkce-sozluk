@@ -2,6 +2,7 @@
 layout: term
 title: Allah Allah!
 slug: allah-allah
+letter: A
 lisan: Türkçe
 anlamlar:
 - şaşma veya can sıkıntısı anlatan bir ünlem

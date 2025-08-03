@@ -2,6 +2,7 @@
 layout: term
 title: ceylan bakışlı
 slug: ceylan-bakisli
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► ahu bakışlı

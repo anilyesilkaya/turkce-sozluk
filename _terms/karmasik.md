@@ -2,6 +2,7 @@
 layout: term
 title: karmaşık
 slug: karmasik
+letter: K
 lisan: Türkçe
 anlamlar:
 - İçinde aynı cinsten birçok öge bulunan, birbirine az çok aykırı birçok şeyden oluşan

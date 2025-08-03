@@ -2,6 +2,7 @@
 layout: term
 title: şişmanlatmak
 slug: sismanlatmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şişmanlamasını sağlamak, şişman duruma getirmek

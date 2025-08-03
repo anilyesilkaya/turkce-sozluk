@@ -2,6 +2,7 @@
 layout: term
 title: ense çukuru
 slug: ense-cukuru
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ensede boyun hizasında bulunan çukurluk

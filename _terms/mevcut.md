@@ -2,6 +2,7 @@
 layout: term
 title: mevcut
 slug: mevcut
+letter: M
 lisan: Arapça mevcūd
 anlamlar:
 - Var olan, bulunan

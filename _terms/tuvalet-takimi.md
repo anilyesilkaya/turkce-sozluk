@@ -2,6 +2,7 @@
 layout: term
 title: tuvalet takımı
 slug: tuvalet-takimi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tuvalet veya makyaj malzemeleri bulunan çanta veya kutu

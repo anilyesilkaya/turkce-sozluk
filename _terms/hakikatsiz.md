@@ -2,6 +2,7 @@
 layout: term
 title: hakikatsiz
 slug: hakikatsiz
+letter: H
 lisan: Türkçe
 anlamlar:
 - Gerçek olmayan

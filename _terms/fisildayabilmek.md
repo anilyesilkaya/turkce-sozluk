@@ -2,6 +2,7 @@
 layout: term
 title: fısıldayabilmek
 slug: fisildayabilmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fısıldama ihtimali veya imkânı bulunmak

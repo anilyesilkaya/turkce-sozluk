@@ -2,6 +2,7 @@
 layout: term
 title: Derebucak
 slug: derebucak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Konya iline bağlı ilçelerden biri

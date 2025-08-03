@@ -2,6 +2,7 @@
 layout: term
 title: müracaat etmek
 slug: muracaat-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - başvurmak

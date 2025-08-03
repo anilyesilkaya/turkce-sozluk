@@ -2,6 +2,7 @@
 layout: term
 title: coşturmak
 slug: costurmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - Coşmasını sağlamak, coşmasına yol açmak

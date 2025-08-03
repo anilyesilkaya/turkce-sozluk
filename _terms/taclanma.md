@@ -2,6 +2,7 @@
 layout: term
 title: taçlanma
 slug: taclanma
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taçlanmak işi

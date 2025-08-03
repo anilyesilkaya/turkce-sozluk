@@ -2,6 +2,7 @@
 layout: term
 title: antidumping
 slug: antidumping
+letter: A
 lisan: İngilizce antidumping
 anlamlar:
 - 343 karşı düşürüm

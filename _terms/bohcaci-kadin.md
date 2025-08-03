@@ -2,6 +2,7 @@
 layout: term
 title: bohçacı kadın
 slug: bohcaci-kadin
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bohçacı

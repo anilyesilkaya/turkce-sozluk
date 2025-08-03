@@ -2,6 +2,7 @@
 layout: term
 title: köşker
 slug: kosker
+letter: K
 lisan: Farsça kefş-ger
 anlamlar:
 - Yemenici, ayakkabı tamircisi

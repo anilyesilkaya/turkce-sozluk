@@ -2,6 +2,7 @@
 layout: term
 title: istimdat etmek
 slug: istimdat-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - yardım istemek, yardıma çağırmak

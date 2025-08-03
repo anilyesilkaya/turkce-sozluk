@@ -2,6 +2,7 @@
 layout: term
 title: erkekleşmek
 slug: erkeklesmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Çocukluk çağından çıkıp erkeklik çağına girmek

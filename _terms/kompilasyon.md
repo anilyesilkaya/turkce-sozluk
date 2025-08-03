@@ -2,6 +2,7 @@
 layout: term
 title: kompilasyon
 slug: kompilasyon
+letter: K
 lisan: Fransızca compilation
 anlamlar:
 - Derleyip toparlama

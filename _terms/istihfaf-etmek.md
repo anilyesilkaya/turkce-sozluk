@@ -2,6 +2,7 @@
 layout: term
 title: istihfaf etmek
 slug: istihfaf-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - küçümsemek, hor görmek

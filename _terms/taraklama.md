@@ -2,6 +2,7 @@
 layout: term
 title: taraklama
 slug: taraklama
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taraklamak işi

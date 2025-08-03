@@ -2,6 +2,7 @@
 layout: term
 title: yoğun bakım
 slug: yogun-bakim
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Ağır hastaların tedavisi için uygulanan özel bakım

@@ -2,6 +2,7 @@
 layout: term
 title: surat etmek
 slug: surat-etmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - birine karşı küskün durmak, asık yüzlü olmak

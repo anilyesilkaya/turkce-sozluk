@@ -2,6 +2,7 @@
 layout: term
 title: darda bulunmak
 slug: darda-bulunmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - bir şeyin sıkıntısını çekmek

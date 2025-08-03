@@ -2,6 +2,7 @@
 layout: term
 title: eli değmek
 slug: eli-degmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - bir şey yapmaya vakit ve fırsat bulmak

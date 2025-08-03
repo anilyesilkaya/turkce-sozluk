@@ -2,6 +2,7 @@
 layout: term
 title: dileyebilme
 slug: dileyebilme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dileyebilmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: içinden geçmek
 slug: icinden-gecmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - düşünmek, aklından geçmek

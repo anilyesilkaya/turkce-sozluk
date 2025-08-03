@@ -2,6 +2,7 @@
 layout: term
 title: Kemalpaşa
 slug: kemalpasa
+letter: K
 lisan: Türkçe
 anlamlar:
 - İzmir iline bağlı ilçelerden biri

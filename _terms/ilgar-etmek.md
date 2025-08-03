@@ -2,6 +2,7 @@
 layout: term
 title: ılgar etmek
 slug: ilgar-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - ılgarlamak

@@ -2,6 +2,7 @@
 layout: term
 title: tehlikeli
 slug: tehlikeli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tehlikesi olan; muhataralı

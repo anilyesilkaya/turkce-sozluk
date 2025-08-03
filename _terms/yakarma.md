@@ -2,6 +2,7 @@
 layout: term
 title: yakarma
 slug: yakarma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yakarmak işi; tazarru

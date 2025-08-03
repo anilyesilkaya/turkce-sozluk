@@ -2,6 +2,7 @@
 layout: term
 title: imtiyaz sahibi
 slug: imtiyaz-sahibi
+letter: I
 lisan: Türkçe
 anlamlar:
 - İmtiyaz hakkına sahip kimse

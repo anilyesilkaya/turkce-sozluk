@@ -2,6 +2,7 @@
 layout: term
 title: kısasen
 slug: kisasen
+letter: K
 lisan: Arapça ḳiṣāṣen
 anlamlar:
 - Kısas olarak

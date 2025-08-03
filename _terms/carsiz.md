@@ -2,6 +2,7 @@
 layout: term
 title: carsız
 slug: carsiz
+letter: C
 lisan: Türkçe
 anlamlar:
 - Car (II) giymemiş olan

@@ -2,6 +2,7 @@
 layout: term
 title: yararlı kılmak
 slug: yararli-kilmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - fayda sağlayan ve üretken duruma getirmek

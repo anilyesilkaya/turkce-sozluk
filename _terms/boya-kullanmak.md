@@ -2,6 +2,7 @@
 layout: term
 title: boya kullanmak
 slug: boya-kullanmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - boyanmak, makyaj yapmak

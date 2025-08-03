@@ -2,6 +2,7 @@
 layout: term
 title: kafaca
 slug: kafaca
+letter: K
 lisan: Türkçe
 anlamlar:
 - Düşünce bakımından

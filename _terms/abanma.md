@@ -2,6 +2,7 @@
 layout: term
 title: abanma
 slug: abanma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Abanmak işi

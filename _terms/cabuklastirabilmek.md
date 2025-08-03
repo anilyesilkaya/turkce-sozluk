@@ -2,6 +2,7 @@
 layout: term
 title: çabuklaştırabilmek
 slug: cabuklastirabilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çabuklaştırma ihtimali veya imkânı bulunmak

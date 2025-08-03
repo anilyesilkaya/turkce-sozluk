@@ -2,6 +2,7 @@
 layout: term
 title: toplumiçinci
 slug: toplumicinci
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► toplummerkezci

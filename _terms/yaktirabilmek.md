@@ -2,6 +2,7 @@
 layout: term
 title: yaktırabilmek
 slug: yaktirabilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaktırma ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: demlik poşet
 slug: demlik-poset
+letter: D
 lisan: Türkçe
 anlamlar:
 - Demlik için üretilen, içinde çay bulunan, ipsiz torbacık

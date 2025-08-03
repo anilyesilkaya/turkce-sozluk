@@ -2,6 +2,7 @@
 layout: term
 title: bal
 slug: bal
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bal arılarının bitki ve çiçeklerden topladıkları bal özünden yapıp kovanlarındaki petek gözlerine doldurdukları, rengi beyazdan esmere kadar değişen tatlı, koyu, sıvı madde

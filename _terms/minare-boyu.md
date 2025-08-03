@@ -2,6 +2,7 @@
 layout: term
 title: minare boyu
 slug: minare-boyu
+letter: M
 lisan: Türkçe
 anlamlar:
 - Aşağı yukarı 10-20 metre arasında olan yükseklik

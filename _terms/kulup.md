@@ -2,6 +2,7 @@
 layout: term
 title: kulüp
 slug: kulup
+letter: K
 lisan: Fransızca club
 anlamlar:
 - Görüşme, konuşma, okuma, spor yapma vb. amaçlarla yalnız üye olanların toplandıkları yer

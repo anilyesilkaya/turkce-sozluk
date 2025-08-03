@@ -2,6 +2,7 @@
 layout: term
 title: asilleştirme
 slug: asillestirme
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► soylulaştırma

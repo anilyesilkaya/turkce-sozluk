@@ -2,6 +2,7 @@
 layout: term
 title: giyinebilme
 slug: giyinebilme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Giyinebilmek işi

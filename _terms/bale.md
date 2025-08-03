@@ -2,6 +2,7 @@
 layout: term
 title: bale
 slug: bale
+letter: B
 lisan: Fransızca ballet
 anlamlar:
 - Belli hafif figürlere, adım atışlara, çoğunlukla sahne düzenine ve müziğe dayalı gösteri türü

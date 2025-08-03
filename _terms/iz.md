@@ -2,6 +2,7 @@
 layout: term
 title: iz
 slug: iz
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bir şeyin geçtiği veya önce bulunduğu yerde bıraktığı belirti; çığır, nişan, nişane

@@ -2,6 +2,7 @@
 layout: term
 title: sözde
 slug: sozde
+letter: S
 lisan: Türkçe
 anlamlar:
 - Gerçekte öyle olmadığı hâlde, öyleymiş gibi kabul edilen (şey veya kimse)

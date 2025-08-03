@@ -2,6 +2,7 @@
 layout: term
 title: özendirme
 slug: ozendirme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Özendirmek durumu, işi; teşvik

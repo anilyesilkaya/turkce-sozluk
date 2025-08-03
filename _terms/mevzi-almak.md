@@ -2,6 +2,7 @@
 layout: term
 title: mevzi almak
 slug: mevzi-almak
+letter: M
 lisan: Türkçe
 anlamlar:
 - mevzilenmek

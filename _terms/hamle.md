@@ -2,6 +2,7 @@
 layout: term
 title: hamle
 slug: hamle
+letter: H
 lisan: Arapça ḥamle
 anlamlar:
 - ► atılım

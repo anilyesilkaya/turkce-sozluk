@@ -2,6 +2,7 @@
 layout: term
 title: teknokrat
 slug: teknokrat
+letter: T
 lisan: Fransızca technocrate
 anlamlar:
 - Teknokrasiden yana olan

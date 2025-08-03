@@ -2,6 +2,7 @@
 layout: term
 title: aklan
 slug: aklan
+letter: A
 lisan: Türkçe
 anlamlar:
 - Sularını bir denize veya göle gönderen su havzası; maile

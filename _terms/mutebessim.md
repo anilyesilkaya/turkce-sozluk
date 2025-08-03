@@ -2,6 +2,7 @@
 layout: term
 title: mütebessim
 slug: mutebessim
+letter: M
 lisan: Arapça mutebessim
 anlamlar:
 - Gülümseyen; güleç

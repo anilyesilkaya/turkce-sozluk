@@ -2,6 +2,7 @@
 layout: term
 title: mastori
 slug: mastori
+letter: M
 lisan: Rumca
 anlamlar:
 - Geminin en geniş yeri; masturi

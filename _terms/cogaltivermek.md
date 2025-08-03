@@ -2,6 +2,7 @@
 layout: term
 title: çoğaltıvermek
 slug: cogaltivermek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çabucak çoğaltmak

@@ -2,6 +2,7 @@
 layout: term
 title: kapçık
 slug: kapcik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Küçük kap

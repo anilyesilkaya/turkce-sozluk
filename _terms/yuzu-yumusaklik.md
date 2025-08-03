@@ -2,6 +2,7 @@
 layout: term
 title: yüzü yumuşaklık
 slug: yuzu-yumusaklik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yüzü yumuşak olma durumu

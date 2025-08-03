@@ -2,6 +2,7 @@
 layout: term
 title: dediğinden (dışarı) çıkmak
 slug: dediginden-disari-cikmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - sözünü dinlememek

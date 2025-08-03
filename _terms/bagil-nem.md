@@ -2,6 +2,7 @@
 layout: term
 title: bağıl nem
 slug: bagil-nem
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir metreküp hava içinde bulunan su buharı ağırlığının, aynı şartlardaki havanın doymuş su buharının ağırlığına oranı

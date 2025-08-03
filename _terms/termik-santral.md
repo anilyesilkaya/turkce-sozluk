@@ -2,6 +2,7 @@
 layout: term
 title: termik santral
 slug: termik-santral
+letter: T
 lisan: Türkçe
 anlamlar:
 - Yakıtla oluşan ısıdan elektrik üreten santral

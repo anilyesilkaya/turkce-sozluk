@@ -2,6 +2,7 @@
 layout: term
 title: kanıtlamak
 slug: kanitlamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kanıt göstererek bir şeyin gerçek yönünü ortaya çıkarmak; ispatlamak, ispat etmek

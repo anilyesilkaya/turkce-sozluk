@@ -2,6 +2,7 @@
 layout: term
 title: 'kar kış '
 slug: kar-kis
+letter: K
 lisan: Türkçe
 anlamlar:
 - Zor ve çetin geçen kış günleri

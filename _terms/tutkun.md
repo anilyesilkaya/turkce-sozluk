@@ -2,6 +2,7 @@
 layout: term
 title: tutkun
 slug: tutkun
+letter: T
 lisan: Türkçe
 anlamlar:
 - Gönül vermiş; meclup

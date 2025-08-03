@@ -2,6 +2,7 @@
 layout: term
 title: cüzzamlı
 slug: cuzzamli
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cüzzam hastalığına tutulmuş olan; alaten

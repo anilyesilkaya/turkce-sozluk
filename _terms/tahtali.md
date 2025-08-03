@@ -2,6 +2,7 @@
 layout: term
 title: tahtalı
 slug: tahtali
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tahtası olan

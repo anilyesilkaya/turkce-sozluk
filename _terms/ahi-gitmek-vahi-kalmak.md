@@ -2,6 +2,7 @@
 layout: term
 title: ahı gitmek vahı kalmak
 slug: ahi-gitmek-vahi-kalmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - iyice zayıflamak, iş göremez duruma gelmek

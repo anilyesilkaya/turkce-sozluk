@@ -2,6 +2,7 @@
 layout: term
 title: uğru
 slug: ugru
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► hırsız (I)

@@ -2,6 +2,7 @@
 layout: term
 title: züppe
 slug: zuppe
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Giyinişte, söz söyleyişte, dilde, düşünüşte toplumun gülünç ve aykırı saydığı yapmacıklıklara ve aşırılıklara kaçan; didon (I)

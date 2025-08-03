@@ -2,6 +2,7 @@
 layout: term
 title: arabasız
 slug: arabasiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arabası olmayan

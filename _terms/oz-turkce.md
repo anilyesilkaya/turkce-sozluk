@@ -2,6 +2,7 @@
 layout: term
 title: 'öz Türkçe '
 slug: oz-turkce
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Tüm yabancı kelime ve kurallardan arındırılmış Türkçe

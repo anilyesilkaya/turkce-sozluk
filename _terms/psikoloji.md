@@ -2,6 +2,7 @@
 layout: term
 title: psikoloji
 slug: psikoloji
+letter: P
 lisan: Fransızca psychologie
 anlamlar:
 - Bir grubun veya bir bireyin düşünme, duygulanma biçimlerini ve davranışlarını konu alan bilim dalı; ruh bilimi, ruhiyat

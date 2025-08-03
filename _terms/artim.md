@@ -2,6 +2,7 @@
 layout: term
 title: artım
 slug: artim
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► artış

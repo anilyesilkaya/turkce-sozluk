@@ -2,6 +2,7 @@
 layout: term
 title: fışır fışır
 slug: fisir-fisir
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fışır sesi çıkararak; fış fış

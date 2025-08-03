@@ -2,6 +2,7 @@
 layout: term
 title: tartışma götürmek
 slug: tartisma-goturmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - bir konu tartışılabilir olmak

@@ -2,6 +2,7 @@
 layout: term
 title: teklif tekellüf
 slug: teklif-tekelluf
+letter: T
 lisan: Türkçe
 anlamlar:
 - Samimi olmama, resmî olma durumu, teklifli olma

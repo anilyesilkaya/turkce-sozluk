@@ -2,6 +2,7 @@
 layout: term
 title: ferda
 slug: ferda
+letter: F
 lisan: Farsça ferdā
 anlamlar:
 - ► yarın

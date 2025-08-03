@@ -2,6 +2,7 @@
 layout: term
 title: iyicil
 slug: iyicil
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► hayırsever

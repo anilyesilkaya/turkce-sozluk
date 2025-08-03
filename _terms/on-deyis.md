@@ -2,6 +2,7 @@
 layout: term
 title: ön deyiş
 slug: on-deyis
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Bir eserde asıl konu olarak ele alınan olaylardan önce, geçmiş birtakım başka olguları anlatan ilk bölüm; prolog

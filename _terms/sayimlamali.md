@@ -2,6 +2,7 @@
 layout: term
 title: sayımlamalı
 slug: sayimlamali
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► istatistiksel

@@ -2,6 +2,7 @@
 layout: term
 title: kifayetsiz
 slug: kifayetsiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► yetersiz

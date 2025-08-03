@@ -2,6 +2,7 @@
 layout: term
 title: yaşına başına bakmamak
 slug: yasina-basina-bakmamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yaşına uygun davranmamak

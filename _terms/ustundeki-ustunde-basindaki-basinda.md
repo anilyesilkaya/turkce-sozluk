@@ -2,6 +2,7 @@
 layout: term
 title: üstündeki üstünde, başındaki başında
 slug: ustundeki-ustunde-basindaki-basinda
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - '"üstündekinden başka hiçbir şey kalmadan" anlamında kullanılan bir söz'

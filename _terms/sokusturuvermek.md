@@ -2,6 +2,7 @@
 layout: term
 title: sokuşturuvermek
 slug: sokusturuvermek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Çabucak sokuşturmak

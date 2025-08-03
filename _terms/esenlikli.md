@@ -2,6 +2,7 @@
 layout: term
 title: esenlikli
 slug: esenlikli
+letter: E
 lisan: Türkçe
 anlamlar:
 - Esenliği olan

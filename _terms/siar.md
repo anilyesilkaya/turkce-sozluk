@@ -2,6 +2,7 @@
 layout: term
 title: şiar
 slug: siar
+letter: Ş
 lisan: Arapça şiʿār
 anlamlar:
 - Duyuş, düşünüş ve inanıştaki ayırıcı özellik; belgi

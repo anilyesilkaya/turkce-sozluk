@@ -2,6 +2,7 @@
 layout: term
 title: su gibi akmak
 slug: su-gibi-akmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - zaman hızla geçmek

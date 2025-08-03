@@ -2,6 +2,7 @@
 layout: term
 title: paspas
 slug: paspas
+letter: P
 lisan: Türkçe
 anlamlar:
 - Ayakkabıların altını temizlemek için kapı önlerine konulan kıl, plastik vb.nden yapılmış yüzü tırtıklı silecek

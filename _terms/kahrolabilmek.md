@@ -2,6 +2,7 @@
 layout: term
 title: kahrolabilmek
 slug: kahrolabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kahrolma ihtimali bulunmak

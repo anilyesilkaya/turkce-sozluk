@@ -2,6 +2,7 @@
 layout: term
 title: kol böreği
 slug: kol-boregi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bütün yufkanın içine kıyma, peynir, patates, ıspanak vb. konulup ince kol kalınlığında sarılarak tepsiye döşendikten sonra fırında pişirilen bir börek türü

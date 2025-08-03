@@ -2,6 +2,7 @@
 layout: term
 title: yetingen
 slug: yetingen
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► kanaatkâr

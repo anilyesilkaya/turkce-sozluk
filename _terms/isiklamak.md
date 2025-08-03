@@ -2,6 +2,7 @@
 layout: term
 title: ışıklamak
 slug: isiklamak
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bir yeri aydınlatmak

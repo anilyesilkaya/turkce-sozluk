@@ -2,6 +2,7 @@
 layout: term
 title: şatafatlılık
 slug: satafatlilik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► görkemlilik

@@ -2,6 +2,7 @@
 layout: term
 title: soylu erki
 slug: soylu-erki
+letter: S
 lisan: Türkçe
 anlamlar:
 - Ekonomik, toplumsal ve siyasi gücün soylular sınıfının elinde bulunduğu yönetim biçimi; aristokrasi

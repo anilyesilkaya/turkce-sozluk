@@ -2,6 +2,7 @@
 layout: term
 title: cin damarına basmak
 slug: cin-damarina-basmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - kişiyi çok sinirlendirecek söz söylemek, çileden çıkarmak

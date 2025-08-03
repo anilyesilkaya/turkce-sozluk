@@ -2,6 +2,7 @@
 layout: term
 title: çetrefilli
 slug: cetrefilli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Karışık ve anlaşılması güç olan

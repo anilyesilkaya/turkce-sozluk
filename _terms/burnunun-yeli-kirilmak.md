@@ -2,6 +2,7 @@
 layout: term
 title: burnunun yeli kırılmak
 slug: burnunun-yeli-kirilmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - öfkesi yok olmak

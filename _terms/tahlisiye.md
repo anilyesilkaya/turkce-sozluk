@@ -2,6 +2,7 @@
 layout: term
 title: tahlisiye
 slug: tahlisiye
+letter: T
 lisan: Arapça taḫlīṣiyye
 anlamlar:
 - Can kurtarma

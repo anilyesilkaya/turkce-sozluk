@@ -2,6 +2,7 @@
 layout: term
 title: koyun kaval dinler gibi dinlemek
 slug: koyun-kaval-dinler-gibi-dinlemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - hiçbir şey anlamadan dinlemek

@@ -2,6 +2,7 @@
 layout: term
 title: büyük defter
 slug: buyuk-defter
+letter: B
 lisan: Türkçe
 anlamlar:
 - Ticari kuruluşların aylık bilanço hesaplarını gösteren defter; ana defter, defterikebir

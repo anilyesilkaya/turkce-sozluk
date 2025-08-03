@@ -2,6 +2,7 @@
 layout: term
 title: emlik
 slug: emlik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Emme döneminde olan çocuk

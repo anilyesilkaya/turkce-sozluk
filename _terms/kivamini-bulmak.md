@@ -2,6 +2,7 @@
 layout: term
 title: kıvamını bulmak
 slug: kivamini-bulmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - gerekli ve istenilen şartlar yerine gelmek, en uygun anında olmak

@@ -2,6 +2,7 @@
 layout: term
 title: bölünmez
 slug: bolunmez
+letter: B
 lisan: Türkçe
 anlamlar:
 - Parçalanamaz, ayrılamaz

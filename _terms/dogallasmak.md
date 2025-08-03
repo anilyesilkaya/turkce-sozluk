@@ -2,6 +2,7 @@
 layout: term
 title: doğallaşmak
 slug: dogallasmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Doğal duruma gelmek; tabiileşmek

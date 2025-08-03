@@ -2,6 +2,7 @@
 layout: term
 title: beşerî
 slug: beseri
+letter: B
 lisan: Arapça beşerī
 anlamlar:
 - İnsanoğlu ile ilgili

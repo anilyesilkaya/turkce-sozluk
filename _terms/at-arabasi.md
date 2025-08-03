@@ -2,6 +2,7 @@
 layout: term
 title: at arabası
 slug: at-arabasi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Çeşitli yükleri taşımak için kullanılan, dört tekerlekli, at koşulmuş taşıt

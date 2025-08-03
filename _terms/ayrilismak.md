@@ -2,6 +2,7 @@
 layout: term
 title: ayrılışmak
 slug: ayrilismak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Birbirinden ayrılmak

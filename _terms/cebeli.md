@@ -2,6 +2,7 @@
 layout: term
 title: cebeli
 slug: cebeli
+letter: C
 lisan: Türkçe
 anlamlar:
 - Osmanlı Devleti'nde, savaş sırasında tımar, zeamet sahiplerinin dirlikleri oranına göre yanlarında götürmekle yükümlü bulundukları atlı asker

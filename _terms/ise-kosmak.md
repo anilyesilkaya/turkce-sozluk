@@ -2,6 +2,7 @@
 layout: term
 title: işe koşmak
 slug: ise-kosmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - birine iş yaptırmak

@@ -2,6 +2,7 @@
 layout: term
 title: ustacasına
 slug: ustacasina
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► ustaca

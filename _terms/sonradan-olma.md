@@ -2,6 +2,7 @@
 layout: term
 title: sonradan olma
 slug: sonradan-olma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Diğerlerine kıyasla yeni olan, yeni ortaya çıkan

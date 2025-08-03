@@ -2,6 +2,7 @@
 layout: term
 title: ışıldama
 slug: isildama
+letter: I
 lisan: Türkçe
 anlamlar:
 - Işıldamak işi; ışılama

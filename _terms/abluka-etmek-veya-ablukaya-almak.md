@@ -2,6 +2,7 @@
 layout: term
 title: abluka etmek (veya ablukaya almak)
 slug: abluka-etmek-veya-ablukaya-almak
+letter: A
 lisan: Türkçe
 anlamlar:
 - kuşatmak

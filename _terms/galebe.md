@@ -2,6 +2,7 @@
 layout: term
 title: galebe
 slug: galebe
+letter: G
 lisan: Arapça ġalebe
 anlamlar:
 - ► yengi

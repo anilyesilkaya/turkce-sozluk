@@ -2,6 +2,7 @@
 layout: term
 title: müteveccihen
 slug: muteveccihen
+letter: M
 lisan: Arapça muteveccihen
 anlamlar:
 - Bir yere doğru gitmek üzere

@@ -2,6 +2,7 @@
 layout: term
 title: paçayı kaptırmak
 slug: pacayi-kaptirmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - yakalanmak, ele geçirilmek

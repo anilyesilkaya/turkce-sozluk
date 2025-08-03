@@ -2,6 +2,7 @@
 layout: term
 title: nanoteknoloji
 slug: nanoteknoloji
+letter: N
 lisan: İngilizce nanotechnology
 anlamlar:
 - 1-100 nanometre boyutundaki yapıların farklı alanlarda belirli bir amaca hizmet etmesi için tasarlanarak kullanıldığı bilim dalı

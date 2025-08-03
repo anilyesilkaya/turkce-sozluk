@@ -2,6 +2,7 @@
 layout: term
 title: vergi
 slug: vergi
+letter: V
 lisan: Türkçe
 anlamlar:
 - Kamu hizmetlerine harcanmak üzere hükûmetin veya yerel yönetimlerin yasalara göre herkesten doğrudan doğruya veya bazı malların fiyatlarının üstüne koyarak dolaylı yoldan topladığı para

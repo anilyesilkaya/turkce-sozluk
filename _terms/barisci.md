@@ -2,6 +2,7 @@
 layout: term
 title: barışçı
 slug: barisci
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► barışsever

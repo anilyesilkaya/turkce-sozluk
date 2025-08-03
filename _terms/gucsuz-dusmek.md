@@ -2,6 +2,7 @@
 layout: term
 title: güçsüz düşmek
 slug: gucsuz-dusmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - gücü yetmemek

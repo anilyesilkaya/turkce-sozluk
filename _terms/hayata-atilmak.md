@@ -2,6 +2,7 @@
 layout: term
 title: hayata atılmak
 slug: hayata-atilmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - geçim sağlamak üzere çalışmaya başlamak

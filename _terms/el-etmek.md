@@ -2,6 +2,7 @@
 layout: term
 title: el etmek
 slug: el-etmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - bir kimseyi el işaretiyle çağırmak

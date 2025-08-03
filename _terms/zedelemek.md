@@ -2,6 +2,7 @@
 layout: term
 title: zedelemek
 slug: zedelemek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Vurma, çarpma sonucunda hafifçe yaralamak

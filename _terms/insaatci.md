@@ -2,6 +2,7 @@
 layout: term
 title: inşaatçı
 slug: insaatci
+letter: I
 lisan: Türkçe
 anlamlar:
 - Yapı işlerini yöneten teknik görevli

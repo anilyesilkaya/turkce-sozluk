@@ -2,6 +2,7 @@
 layout: term
 title: inek
 slug: inek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Dişi sığır; sarıkız

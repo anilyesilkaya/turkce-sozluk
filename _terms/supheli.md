@@ -2,6 +2,7 @@
 layout: term
 title: şüpheli
 slug: supheli
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► kuşkulu

@@ -2,6 +2,7 @@
 layout: term
 title: bone
 slug: bone
+letter: B
 lisan: Fransızca bonnet
 anlamlar:
 - Düz veya kıvrımlı her çeşit yumuşak kumaş, slikon vb. malzemeden yapılan başlık

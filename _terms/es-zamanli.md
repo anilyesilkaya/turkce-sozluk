@@ -2,6 +2,7 @@
 layout: term
 title: eş zamanlı
 slug: es-zamanli
+letter: E
 lisan: Türkçe
 anlamlar:
 - Başlamalarıyla bitmeleri arasında geçen zaman eşit olan (olaylar); eş anlı, eş süremli, senkronik

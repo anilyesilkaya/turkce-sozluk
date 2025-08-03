@@ -2,6 +2,7 @@
 layout: term
 title: sokuluş
 slug: sokulus
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sokulmak işi

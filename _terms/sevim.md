@@ -2,6 +2,7 @@
 layout: term
 title: sevim
 slug: sevim
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sevmek işi

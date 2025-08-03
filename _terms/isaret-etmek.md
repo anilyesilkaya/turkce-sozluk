@@ -2,6 +2,7 @@
 layout: term
 title: işaret etmek
 slug: isaret-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - bir şeyi, bir durumu el, yüz hareketleriyle anlatmak, göstermek

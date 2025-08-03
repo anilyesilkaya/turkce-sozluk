@@ -2,6 +2,7 @@
 layout: term
 title: anif
 slug: anif
+letter: A
 lisan: Arapça ʿanīf
 anlamlar:
 - ► kaba

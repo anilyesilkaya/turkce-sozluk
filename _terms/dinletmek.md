@@ -2,6 +2,7 @@
 layout: term
 title: dinletmek
 slug: dinletmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dinlemesini sağlamak, söz geçirmek

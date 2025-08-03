@@ -2,6 +2,7 @@
 layout: term
 title: bedavaya
 slug: bedavaya
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bedava

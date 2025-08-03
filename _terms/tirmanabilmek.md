@@ -2,6 +2,7 @@
 layout: term
 title: tırmanabilmek
 slug: tirmanabilmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tırmanma ihtimali veya imkânı bulunmak

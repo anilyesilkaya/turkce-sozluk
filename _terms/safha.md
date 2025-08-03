@@ -2,6 +2,7 @@
 layout: term
 title: safha
 slug: safha
+letter: S
 lisan: Arapça ṣafḥa
 anlamlar:
 - ► evre

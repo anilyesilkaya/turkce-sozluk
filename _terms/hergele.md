@@ -2,6 +2,7 @@
 layout: term
 title: hergele
 slug: hergele
+letter: H
 lisan: Farsça ḫargele
 anlamlar:
 - Binmeye veya yük taşımaya alıştırılmamış at veya eşek

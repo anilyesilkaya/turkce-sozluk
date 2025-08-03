@@ -2,6 +2,7 @@
 layout: term
 title: ulussever
 slug: ulussever
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► milletsever

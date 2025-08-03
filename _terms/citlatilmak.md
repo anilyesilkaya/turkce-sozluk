@@ -2,6 +2,7 @@
 layout: term
 title: çıtlatılmak
 slug: citlatilmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıtlatma işi yapılmak

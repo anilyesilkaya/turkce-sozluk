@@ -2,6 +2,7 @@
 layout: term
 title: tembih etmek
 slug: tembih-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - bir şeyin belli biçimde ve yolla yapılmasını istemek, söylemek

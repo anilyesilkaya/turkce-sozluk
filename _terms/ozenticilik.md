@@ -2,6 +2,7 @@
 layout: term
 title: özenticilik
 slug: ozenticilik
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Özentici olma durumu

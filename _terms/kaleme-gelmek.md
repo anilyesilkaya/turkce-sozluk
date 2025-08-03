@@ -2,6 +2,7 @@
 layout: term
 title: kaleme gelmek
 slug: kaleme-gelmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - yazılabilmek veya anlatılabilmek

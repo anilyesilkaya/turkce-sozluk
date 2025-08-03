@@ -2,6 +2,7 @@
 layout: term
 title: sömürücü
 slug: somurucu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sömürüyü gerçekleştiren (kimse); sömürgen, istismarcı

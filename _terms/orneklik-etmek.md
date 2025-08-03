@@ -2,6 +2,7 @@
 layout: term
 title: örneklik etmek
 slug: orneklik-etmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - örnek alınmak, örnek olarak kabul edilmek

@@ -2,6 +2,7 @@
 layout: term
 title: kara kurbağası
 slug: kara-kurbagasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kurbağalardan, karalarda yaşayan, yumurtalarını suya bırakan bir tür kurbağa

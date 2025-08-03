@@ -2,6 +2,7 @@
 layout: term
 title: kuma
 slug: kuma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Erkeğin resmî nikâhlı eşiyle aynı evde yaşayan, nikâhlı olmayan diğer eşi; ortak

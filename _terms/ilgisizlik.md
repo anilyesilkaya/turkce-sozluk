@@ -2,6 +2,7 @@
 layout: term
 title: ilgisizlik
 slug: ilgisizlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İlgisiz olma durumu; aldırmazlık, alakasızlık, kayıtsızlık, lakayıtlık, bigânelik

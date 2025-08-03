@@ -2,6 +2,7 @@
 layout: term
 title: haraç
 slug: harac
+letter: H
 lisan: Arapça ḫarāc
 anlamlar:
 - Bir yerden, bir kimseden zorbalıkla alınan para; baç

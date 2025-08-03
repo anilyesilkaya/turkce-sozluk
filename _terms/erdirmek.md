@@ -2,6 +2,7 @@
 layout: term
 title: erdirmek
 slug: erdirmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ermesini sağlamak, ermesine yol açmak

@@ -2,6 +2,7 @@
 layout: term
 title: birebir
 slug: birebir
+letter: B
 lisan: Türkçe
 anlamlar:
 - Etkisi kesin olan

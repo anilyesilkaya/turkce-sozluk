@@ -2,6 +2,7 @@
 layout: term
 title: alımlılık
 slug: alimlilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► çekicilik

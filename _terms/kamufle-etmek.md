@@ -2,6 +2,7 @@
 layout: term
 title: kamufle etmek
 slug: kamufle-etmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - gizlemek

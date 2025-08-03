@@ -2,6 +2,7 @@
 layout: term
 title: lojik
 slug: lojik
+letter: L
 lisan: Fransızca logique
 anlamlar:
 - Mantıkla ilgili

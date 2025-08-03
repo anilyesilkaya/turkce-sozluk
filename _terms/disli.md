@@ -2,6 +2,7 @@
 layout: term
 title: dişli
 slug: disli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dişleri olan

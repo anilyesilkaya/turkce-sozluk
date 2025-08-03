@@ -2,6 +2,7 @@
 layout: term
 title: yükünü çekmek
 slug: yukunu-cekmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - bütün ağırlığını taşımak, her türlü eziyete katlanmak

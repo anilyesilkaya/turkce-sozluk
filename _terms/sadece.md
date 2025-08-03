@@ -2,6 +2,7 @@
 layout: term
 title: sadece
 slug: sadece
+letter: S
 lisan: Türkçe
 anlamlar:
 - Belirtilenden başkası bulunmadan; yalnız

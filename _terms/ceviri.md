@@ -2,6 +2,7 @@
 layout: term
 title: çeviri
 slug: ceviri
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir dilden başka bir dile aktarma, çevirme; tercüme

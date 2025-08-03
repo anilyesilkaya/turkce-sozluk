@@ -2,6 +2,7 @@
 layout: term
 title: tırtıkçı
 slug: tirtikci
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► yankesici

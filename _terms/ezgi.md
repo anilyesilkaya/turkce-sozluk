@@ -2,6 +2,7 @@
 layout: term
 title: ezgi
 slug: ezgi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Belli kurallara göre düzenlenmiş, kulağa hoş gelen ses dizisi; ahenk, haz, nağme, melodi, şanson

@@ -2,6 +2,7 @@
 layout: term
 title: tuzumsu
 slug: tuzumsu
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► tuzsu

@@ -2,6 +2,7 @@
 layout: term
 title: nakavt etmek
 slug: nakavt-etmek
+letter: N
 lisan: Türkçe
 anlamlar:
 - nakavtla yenmek

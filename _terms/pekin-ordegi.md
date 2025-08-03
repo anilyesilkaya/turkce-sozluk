@@ -2,6 +2,7 @@
 layout: term
 title: Pekin ördeği
 slug: pekin-ordegi
+letter: P
 lisan: Türkçe
 anlamlar:
 - Çin kökenli özellikle Amerika'da yaşayan bir tür ördek

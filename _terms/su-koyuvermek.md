@@ -2,6 +2,7 @@
 layout: term
 title: su koyuvermek
 slug: su-koyuvermek
+letter: S
 lisan: Türkçe
 anlamlar:
 - sebze ve et pişerken suyunu salıvermek

@@ -2,6 +2,7 @@
 layout: term
 title: haber
 slug: haber
+letter: H
 lisan: Arapça ḫaber
 anlamlar:
 - Bir olay, bir olgu üzerine edinilen bilgi; çav (I), selen

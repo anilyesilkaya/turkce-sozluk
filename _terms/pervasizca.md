@@ -2,6 +2,7 @@
 layout: term
 title: pervasızca
 slug: pervasizca
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pervasız bir biçimde, çekinmeden, sakınmadan; pervasızcasına, bodoslama (II)

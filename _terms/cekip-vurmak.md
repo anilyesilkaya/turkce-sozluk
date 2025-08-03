@@ -2,6 +2,7 @@
 layout: term
 title: çekip vurmak
 slug: cekip-vurmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - bir anda karar verip silahla öldürmek

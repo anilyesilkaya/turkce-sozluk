@@ -2,6 +2,7 @@
 layout: term
 title: kara mizah
 slug: kara-mizah
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yalnız güldürmeyi değil, düşündürmeyi ve yergiyi de amaçlayan mizah

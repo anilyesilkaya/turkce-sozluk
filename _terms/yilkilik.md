@@ -2,6 +2,7 @@
 layout: term
 title: yılkılık
 slug: yilkilik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yılkıya ayrılmış at

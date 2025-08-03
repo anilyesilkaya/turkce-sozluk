@@ -2,6 +2,7 @@
 layout: term
 title: mastor olmak
 slug: mastor-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - esrar içerek kendinden geçmek

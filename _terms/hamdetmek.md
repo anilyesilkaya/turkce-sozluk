@@ -2,6 +2,7 @@
 layout: term
 title: hamdetmek
 slug: hamdetmek
+letter: H
 lisan: Arapça ḥamd + Türkçe etmek
 anlamlar:
 - Tanrı'ya şükretmek

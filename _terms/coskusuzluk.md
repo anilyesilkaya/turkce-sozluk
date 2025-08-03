@@ -2,6 +2,7 @@
 layout: term
 title: coşkusuzluk
 slug: coskusuzluk
+letter: C
 lisan: Türkçe
 anlamlar:
 - Coşkusuz olma durumu

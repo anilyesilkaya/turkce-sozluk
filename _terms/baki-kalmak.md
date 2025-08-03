@@ -2,6 +2,7 @@
 layout: term
 title: baki kalmak
 slug: baki-kalmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - sürekli, kalımlı olmak

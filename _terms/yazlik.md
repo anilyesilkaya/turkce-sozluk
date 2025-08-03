@@ -2,6 +2,7 @@
 layout: term
 title: yazlık
 slug: yazlik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yazın oturulan yer

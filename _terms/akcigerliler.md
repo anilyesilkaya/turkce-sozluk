@@ -2,6 +2,7 @@
 layout: term
 title: akciğerliler
 slug: akcigerliler
+letter: A
 lisan: Türkçe
 anlamlar:
 - Karından bacaklı yumuşakçaların tek ciğerle soluk alan bir takımı

@@ -2,6 +2,7 @@
 layout: term
 title: anons panosu
 slug: anons-panosu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Tanıtım ve bilgilendirme amaçlı duyurunun gösterildiği elektronik pano

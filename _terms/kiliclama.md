@@ -2,6 +2,7 @@
 layout: term
 title: kılıçlama
 slug: kiliclama
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kılıçlamak işi

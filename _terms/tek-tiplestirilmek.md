@@ -2,6 +2,7 @@
 layout: term
 title: tek tipleştirilmek
 slug: tek-tiplestirilmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Aynı biçim veya niteliğe getirilmiş olmak

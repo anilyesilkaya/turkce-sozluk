@@ -2,6 +2,7 @@
 layout: term
 title: davetsiz misafir
 slug: davetsiz-misafir
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çağrılmayan ve beklenmedik zamanda gelen kimse

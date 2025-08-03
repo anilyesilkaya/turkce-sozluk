@@ -2,6 +2,7 @@
 layout: term
 title: çın çın öttürmek
 slug: cin-cin-otturmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - bağırma sesinin yankısıyla doldurmak

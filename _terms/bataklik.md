@@ -2,6 +2,7 @@
 layout: term
 title: bataklık
 slug: bataklik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çok derin olmayan sularla örtülü batak bölge; aynaz (I), azmak (I), batağan

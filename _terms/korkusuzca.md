@@ -2,6 +2,7 @@
 layout: term
 title: korkusuzca
 slug: korkusuzca
+letter: K
 lisan: Türkçe
 anlamlar:
 - Korkusuz olarak, korkmadan

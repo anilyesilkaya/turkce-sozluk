@@ -2,6 +2,7 @@
 layout: term
 title: lâmı cimi yok
 slug: lami-cimi-yok
+letter: L
 lisan: Türkçe
 anlamlar:
 - '"değişmez, kesin, başka yolu yok" anlamında kullanılan bir söz'

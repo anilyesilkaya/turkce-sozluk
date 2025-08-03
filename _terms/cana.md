@@ -2,6 +2,7 @@
 layout: term
 title: cana
 slug: cana
+letter: C
 lisan: Farsça cānā
 anlamlar:
 - '"Ey sevgili" anlamında kullanılan bir seslenme sözü'

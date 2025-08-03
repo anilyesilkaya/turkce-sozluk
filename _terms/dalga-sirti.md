@@ -2,6 +2,7 @@
 layout: term
 title: dalga sırtı
 slug: dalga-sirti
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dalganın iki yanındaki çukurlar arasındaki yüksek kesimi

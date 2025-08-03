@@ -2,6 +2,7 @@
 layout: term
 title: dilenci
 slug: dilenci
+letter: D
 lisan: Türkçe
 anlamlar:
 - Geçimini dilenerek sağlayan kimse; geda

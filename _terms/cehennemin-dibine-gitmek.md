@@ -2,6 +2,7 @@
 layout: term
 title: cehennemin dibine gitmek
 slug: cehennemin-dibine-gitmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - kızılan bir kimse defolup gitmek

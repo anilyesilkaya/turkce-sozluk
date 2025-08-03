@@ -2,6 +2,7 @@
 layout: term
 title: göze almak
 slug: goze-almak
+letter: G
 lisan: Türkçe
 anlamlar:
 - gelebilecek her türlü zararı ve tehlikeyi önceden kabul etmek

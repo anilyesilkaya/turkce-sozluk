@@ -2,6 +2,7 @@
 layout: term
 title: diline düşmek
 slug: diline-dusmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - yermek veya alay etmek amacıyla birinin kötü veya yanlış davranışını sürekli söylemek

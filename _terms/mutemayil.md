@@ -2,6 +2,7 @@
 layout: term
 title: mütemayil
 slug: mutemayil
+letter: M
 lisan: Arapça mutemāyil
 anlamlar:
 - ► eğimli

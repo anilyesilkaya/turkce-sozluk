@@ -2,6 +2,7 @@
 layout: term
 title: dizdirmek
 slug: dizdirmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dizme işini yaptırmak

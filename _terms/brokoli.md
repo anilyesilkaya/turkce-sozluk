@@ -2,6 +2,7 @@
 layout: term
 title: brokoli
 slug: brokoli
+letter: B
 lisan: İtalyanca broccoli
 anlamlar:
 - İki çeneklilerden, kalın saplarındaki yeşil yumrularla minyatür bir ağaca benzeyen, haşlanarak yenen bir sebze (Brassica oleracea)

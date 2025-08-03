@@ -2,6 +2,7 @@
 layout: term
 title: yavaşça
 slug: yavasca
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Oldukça yavaş bir biçimde; usulca, usulcana, usuldan

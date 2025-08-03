@@ -2,6 +2,7 @@
 layout: term
 title: falan filan
 slug: falan-filan
+letter: F
 lisan: Türkçe
 anlamlar:
 - Önem verilmeyen, hafifsenen kimse veya şey; estek köstek, filan falan, falan festekiz, falan feşmekân, falan fıstık

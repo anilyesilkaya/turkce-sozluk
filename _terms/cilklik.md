@@ -2,6 +2,7 @@
 layout: term
 title: cılklık
 slug: cilklik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cılk olma durumu

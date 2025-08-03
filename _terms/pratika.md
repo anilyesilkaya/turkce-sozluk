@@ -2,6 +2,7 @@
 layout: term
 title: pratika
 slug: pratika
+letter: P
 lisan: İtalyanca pratica
 anlamlar:
 - Kıyı sağlık idaresi tarafından gemilere verilen giriş çıkış izni

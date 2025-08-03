@@ -2,6 +2,7 @@
 layout: term
 title: gripli
 slug: gripli
+letter: G
 lisan: Türkçe
 anlamlar:
 - Grip hastalığına yakalanmış (kimse)

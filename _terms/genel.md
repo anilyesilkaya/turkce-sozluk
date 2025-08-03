@@ -2,6 +2,7 @@
 layout: term
 title: genel
 slug: genel
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bir şeye veya bir kimseye özgü olmayıp onun bütün benzerlerini içine alan; umumi

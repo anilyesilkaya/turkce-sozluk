@@ -2,6 +2,7 @@
 layout: term
 title: karma ekonomi
 slug: karma-ekonomi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Özel kesim ve kamu kesiminin birlikte çalışabilmesine imkân veren ekonomi sistemi

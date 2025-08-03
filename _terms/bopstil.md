@@ -2,6 +2,7 @@
 layout: term
 title: bopstil
 slug: bopstil
+letter: B
 lisan: Fransızca bob style
 anlamlar:
 - Züppece giyiniş biçimi

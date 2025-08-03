@@ -2,6 +2,7 @@
 layout: term
 title: baş bağlamak
 slug: bas-baglamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - başına bir örtü örtmek

@@ -2,6 +2,7 @@
 layout: term
 title: sökülmek
 slug: sokulmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sökme işine konu olmak

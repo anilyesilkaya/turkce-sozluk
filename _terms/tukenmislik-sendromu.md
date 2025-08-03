@@ -2,6 +2,7 @@
 layout: term
 title: tükenmişlik sendromu
 slug: tukenmislik-sendromu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Çalışanın kendini bitmiş, yıkılmış, bıkkın hissetmesi durumu

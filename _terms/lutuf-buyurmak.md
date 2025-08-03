@@ -2,6 +2,7 @@
 layout: term
 title: lütuf buyurmak
 slug: lutuf-buyurmak
+letter: L
 lisan: Türkçe
 anlamlar:
 - lütfetmek

@@ -2,6 +2,7 @@
 layout: term
 title: burnu bile kanamamak
 slug: burnu-bile-kanamamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - zarar görmemek, yarasız beresiz olmak

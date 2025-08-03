@@ -2,6 +2,7 @@
 layout: term
 title: afyonlamak
 slug: afyonlamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Afyon vererek uyuşturmak, uyutmak

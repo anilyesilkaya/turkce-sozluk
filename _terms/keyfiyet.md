@@ -2,6 +2,7 @@
 layout: term
 title: keyfiyet
 slug: keyfiyet
+letter: K
 lisan: Arapça keyfiyyet
 anlamlar:
 - ► nitelik

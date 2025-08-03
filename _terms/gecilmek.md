@@ -2,6 +2,7 @@
 layout: term
 title: geçilmek
 slug: gecilmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Geçme işi yapılmak

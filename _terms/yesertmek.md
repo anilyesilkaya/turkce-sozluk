@@ -2,6 +2,7 @@
 layout: term
 title: yeşertmek
 slug: yesertmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yeşermesini sağlamak

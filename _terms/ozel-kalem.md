@@ -2,6 +2,7 @@
 layout: term
 title: özel kalem
 slug: ozel-kalem
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Kamu veya özel sektördeki üst düzey yöneticinin görüşmelerinin düzenlendiği, gizlilik derecesi bulunan yazışmalarını yapıldığı yer

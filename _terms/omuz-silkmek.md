@@ -2,6 +2,7 @@
 layout: term
 title: omuz silkmek
 slug: omuz-silkmek
+letter: O
 lisan: Türkçe
 anlamlar:
 - aldırmamak, önem vermemek

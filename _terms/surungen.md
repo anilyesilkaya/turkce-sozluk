@@ -2,6 +2,7 @@
 layout: term
 title: sürüngen
 slug: surungen
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sürünerek giden (hayvan)

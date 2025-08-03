@@ -2,6 +2,7 @@
 layout: term
 title: dulluk
 slug: dulluk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dul olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: koleksiyonculuk
 slug: koleksiyonculuk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Koleksiyoncunun yaptığı iş; derlemcilik, koleksiyonerlik

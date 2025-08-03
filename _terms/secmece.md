@@ -2,6 +2,7 @@
 layout: term
 title: seçmece
 slug: secmece
+letter: S
 lisan: Türkçe
 anlamlar:
 - Seçerek alınan veya satılan

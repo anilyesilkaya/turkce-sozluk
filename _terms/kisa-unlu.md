@@ -2,6 +2,7 @@
 layout: term
 title: kısa ünlü
 slug: kisa-unlu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Normal boğumlanma süresinden daha kısa bir sürede boğumlanan ünlü

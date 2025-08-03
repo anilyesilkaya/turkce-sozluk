@@ -2,6 +2,7 @@
 layout: term
 title: antialerjik
 slug: antialerjik
+letter: A
 lisan: Fransızca antéallergique
 anlamlar:
 - Alerjiye sebep olmayan

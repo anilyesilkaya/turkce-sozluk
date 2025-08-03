@@ -2,6 +2,7 @@
 layout: term
 title: alışılmak
 slug: alisilmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir şeye alışmış duruma gelinmek

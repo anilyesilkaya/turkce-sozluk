@@ -2,6 +2,7 @@
 layout: term
 title: çarşafa dolanmak
 slug: carsafa-dolanmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - bir işin içinden çıkamamak, kötü ve başarısız duruma düşmek, zor durumda kalmak, çarşaflamak

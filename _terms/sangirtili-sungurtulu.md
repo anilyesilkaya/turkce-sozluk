@@ -2,6 +2,7 @@
 layout: term
 title: şangırtılı şungurtulu
 slug: sangirtili-sungurtulu
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şangırtı ve şungurtu sesi çıkaran

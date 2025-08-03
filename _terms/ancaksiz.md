@@ -2,6 +2,7 @@
 layout: term
 title: ancaksız
 slug: ancaksiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Herhangi bir bahane, şart ileri sürmeyen

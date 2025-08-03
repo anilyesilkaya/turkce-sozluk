@@ -2,6 +2,7 @@
 layout: term
 title: ağzından düşmemek (veya düşürmemek)
 slug: agzindan-dusmemek-veya-dusurmemek
+letter: A
 lisan: Türkçe
 anlamlar:
 - her zaman sözünü etmek, söylemek

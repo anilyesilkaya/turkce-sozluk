@@ -2,6 +2,7 @@
 layout: term
 title: kıyasıya
 slug: kiyasiya
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çok şiddetli

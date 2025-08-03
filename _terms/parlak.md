@@ -2,6 +2,7 @@
 layout: term
 title: parlak
 slug: parlak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Parlayan, ışıldayan, pırıltılı olan

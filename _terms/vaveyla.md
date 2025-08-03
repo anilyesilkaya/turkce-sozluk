@@ -2,6 +2,7 @@
 layout: term
 title: vaveyla
 slug: vaveyla
+letter: V
 lisan: Arapça vāveylā
 anlamlar:
 - ► çığlık

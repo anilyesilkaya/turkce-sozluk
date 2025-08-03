@@ -2,6 +2,7 @@
 layout: term
 title: kininli
 slug: kininli
+letter: K
 lisan: Türkçe
 anlamlar:
 - İçinde kinin bulunan

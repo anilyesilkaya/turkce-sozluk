@@ -2,6 +2,7 @@
 layout: term
 title: ilaç yazmak
 slug: ilac-yazmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - reçete yazmak

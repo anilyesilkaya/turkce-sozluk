@@ -2,6 +2,7 @@
 layout: term
 title: serencam
 slug: serencam
+letter: S
 lisan: Farsça ser + encām
 anlamlar:
 - ► akıbet

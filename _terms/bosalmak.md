@@ -2,6 +2,7 @@
 layout: term
 title: boşalmak
 slug: bosalmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boş duruma gelmek, içinde veya üzerinde bir şey kalmamak

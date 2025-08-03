@@ -2,6 +2,7 @@
 layout: term
 title: sorulmak
 slug: sorulmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sorma işine konu olmak

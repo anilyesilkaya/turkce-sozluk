@@ -2,6 +2,7 @@
 layout: term
 title: yürek burmak
 slug: yurek-burmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yürek burkmak

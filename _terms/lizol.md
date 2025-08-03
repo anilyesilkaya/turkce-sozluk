@@ -2,6 +2,7 @@
 layout: term
 title: lizol
 slug: lizol
+letter: L
 lisan: Fransızca Iysol
 anlamlar:
 - ► krezol

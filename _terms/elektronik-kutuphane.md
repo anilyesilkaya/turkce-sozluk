@@ -2,6 +2,7 @@
 layout: term
 title: elektronik kütüphane
 slug: elektronik-kutuphane
+letter: E
 lisan: Türkçe
 anlamlar:
 - Kuruluş amaç ve görevlerine uygun bilgi kaynaklarını elektronik ortamlarda depolayan, bilgisayar vb. aracılığıyla erişim sunan kütüphane; dijital kütüphane, e-kütüphane

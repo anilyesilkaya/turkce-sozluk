@@ -2,6 +2,7 @@
 layout: term
 title: şakaya sığınmak
 slug: sakaya-siginmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - şakaya vurmak

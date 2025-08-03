@@ -2,6 +2,7 @@
 layout: term
 title: refleks
 slug: refleks
+letter: R
 lisan: Fransızca réflexe
 anlamlar:
 - Dıştan gelen bir uyarım sonucu doğan hareket, salgı gibi iç tepkilere yol açan irade dışı sinir etkinliği; tepke

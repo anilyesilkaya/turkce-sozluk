@@ -2,6 +2,7 @@
 layout: term
 title: heyheyli
 slug: heyheyli
+letter: H
 lisan: Türkçe
 anlamlar:
 - Heyheyleri üstünde olan, sinirleri bozuk

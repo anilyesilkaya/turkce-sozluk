@@ -2,6 +2,7 @@
 layout: term
 title: ilaç için olsun
 slug: ilac-icin-olsun
+letter: I
 lisan: Türkçe
 anlamlar:
 - bir şeyin hiç bulunmadığını anlatmak için kullanılan bir söz

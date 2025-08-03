@@ -2,6 +2,7 @@
 layout: term
 title: olurluk
 slug: olurluk
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► olabilirlik

@@ -2,6 +2,7 @@
 layout: term
 title: görünüş
 slug: gorunus
+letter: G
 lisan: Türkçe
 anlamlar:
 - Görünmek işi

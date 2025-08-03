@@ -2,6 +2,7 @@
 layout: term
 title: mülahaza
 slug: mulahaza
+letter: M
 lisan: Arapça mulāḥaẓa
 anlamlar:
 - ► düşünce

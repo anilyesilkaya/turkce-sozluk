@@ -2,6 +2,7 @@
 layout: term
 title: sazan
 slug: sazan
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sazangillerden, Avrupa, Asya ve Amerika'nın tatlı sularında yaşayan, sırt yüzgeci uzun, eti beğenilen kılçıklı bir balık (Cyprinus carpio)

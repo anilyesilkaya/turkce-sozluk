@@ -2,6 +2,7 @@
 layout: term
 title: muayeneci
 slug: muayeneci
+letter: M
 lisan: Türkçe
 anlamlar:
 - Araştıran, yoklayan kimse

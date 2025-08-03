@@ -2,6 +2,7 @@
 layout: term
 title: raysız
 slug: raysiz
+letter: R
 lisan: Türkçe
 anlamlar:
 - Rayı bulunmayan

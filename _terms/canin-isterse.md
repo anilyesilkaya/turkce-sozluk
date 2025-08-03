@@ -2,6 +2,7 @@
 layout: term
 title: canın isterse
 slug: canin-isterse
+letter: C
 lisan: Türkçe
 anlamlar:
 - '"dilediğin gibi olsun, sen bilirsin, bana göre hava hoş" anlamında kullanılan bir söz'

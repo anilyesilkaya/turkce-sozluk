@@ -2,6 +2,7 @@
 layout: term
 title: ciğerini kavurmak
 slug: cigerini-kavurmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - mideyi yakmak

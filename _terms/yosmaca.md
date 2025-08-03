@@ -2,6 +2,7 @@
 layout: term
 title: yosmaca
 slug: yosmaca
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yosmaya yaraşır bir biçimde, yosma gibi

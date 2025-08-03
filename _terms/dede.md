@@ -2,6 +2,7 @@
 layout: term
 title: dede
 slug: dede
+letter: D
 lisan: Türkçe
 anlamlar:
 - Torunu olan erkek; büyükbaba, büyükpeder

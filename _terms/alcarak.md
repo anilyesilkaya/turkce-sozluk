@@ -2,6 +2,7 @@
 layout: term
 title: alçarak
 slug: alcarak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Az alçak

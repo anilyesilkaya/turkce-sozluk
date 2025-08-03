@@ -2,6 +2,7 @@
 layout: term
 title: rahatlamak
 slug: rahatlamak
+letter: R
 lisan: Türkçe
 anlamlar:
 - Üzüntü, sıkıntı, tedirginlik veren bir durum ortadan kalkmak veya azalmak, rahata kavuşmak

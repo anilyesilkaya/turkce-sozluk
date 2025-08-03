@@ -2,6 +2,7 @@
 layout: term
 title: gönlünden kopmak
 slug: gonlunden-kopmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - kendiliğinden vermek

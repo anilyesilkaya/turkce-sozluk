@@ -2,6 +2,7 @@
 layout: term
 title: cehennem
 slug: cehennem
+letter: C
 lisan: Arapça cehennem
 anlamlar:
 - Dinî inanışlara göre, dünyada günah işleyenlerin öldükten sonra ceza görecekleri yer; tamu

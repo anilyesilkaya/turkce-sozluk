@@ -2,6 +2,7 @@
 layout: term
 title: kollanma
 slug: kollanma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kollanmak işi

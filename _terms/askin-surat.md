@@ -2,6 +2,7 @@
 layout: term
 title: askın surat
 slug: askin-surat
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► asık surat

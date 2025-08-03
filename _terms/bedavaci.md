@@ -2,6 +2,7 @@
 layout: term
 title: bedavacı
 slug: bedavaci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Her şeyi bedavadan sağlamaya çalışan kimse; beleşçi, abacı, lüpçü

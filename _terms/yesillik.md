@@ -2,6 +2,7 @@
 layout: term
 title: yeşillik
 slug: yesillik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yeşil olma durumu

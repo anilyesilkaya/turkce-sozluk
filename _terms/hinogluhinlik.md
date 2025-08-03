@@ -2,6 +2,7 @@
 layout: term
 title: hinoğluhinlik
 slug: hinogluhinlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hinoğluhin olma durumu

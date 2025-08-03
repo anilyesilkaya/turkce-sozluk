@@ -2,6 +2,7 @@
 layout: term
 title: ikincil
 slug: ikincil
+letter: I
 lisan: Türkçe
 anlamlar:
 - Sırada önem bakımından ikinci derecede olan; yan, tali, sekunder

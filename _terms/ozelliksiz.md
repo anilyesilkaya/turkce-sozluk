@@ -2,6 +2,7 @@
 layout: term
 title: özelliksiz
 slug: ozelliksiz
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Kendine özgü özelliği bulunmayan

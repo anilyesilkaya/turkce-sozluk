@@ -2,6 +2,7 @@
 layout: term
 title: aspiratör
 slug: aspirator
+letter: A
 lisan: Fransızca aspirateur
 anlamlar:
 - Havadaki duman, is, koku vb. yabancı maddeleri emerek dışarı atan aygıt; emmeç

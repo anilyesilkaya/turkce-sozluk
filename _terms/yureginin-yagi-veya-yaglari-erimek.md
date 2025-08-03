@@ -2,6 +2,7 @@
 layout: term
 title: yüreğinin yağı (veya yağları) erimek
 slug: yureginin-yagi-veya-yaglari-erimek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - çok üzülmek

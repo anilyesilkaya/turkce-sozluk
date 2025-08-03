@@ -2,6 +2,7 @@
 layout: term
 title: yalayıp geçmek
 slug: yalayip-gecmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - rüzgâr, dalga vb. sıyırarak, dokunarak hızla geçmek

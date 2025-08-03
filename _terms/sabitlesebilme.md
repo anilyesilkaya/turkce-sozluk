@@ -2,6 +2,7 @@
 layout: term
 title: sabitleşebilme
 slug: sabitlesebilme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sabitleşebilmek işi

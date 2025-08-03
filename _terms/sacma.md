@@ -2,6 +2,7 @@
 layout: term
 title: saçma
 slug: sacma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Saçmak işi

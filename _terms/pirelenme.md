@@ -2,6 +2,7 @@
 layout: term
 title: pirelenme
 slug: pirelenme
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pirelenmek işi

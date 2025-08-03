@@ -2,6 +2,7 @@
 layout: term
 title: 'paf '
 slug: paf
+letter: P
 lisan: Türkçe
 anlamlar:
 - Homurdanmaya benzer bir ses

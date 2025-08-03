@@ -2,6 +2,7 @@
 layout: term
 title: linyit
 slug: linyit
+letter: L
 lisan: Fransızca lignite
 anlamlar:
 - Birleşimindeki karbon oranı %60-70 olan, kahverengi veya siyah kömür

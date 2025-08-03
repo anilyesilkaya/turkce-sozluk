@@ -2,6 +2,7 @@
 layout: term
 title: bininci
 slug: bininci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bin sayısının sıra sıfatı, sırada dokuz yüz doksan dokuzuncudan sonra gelen

@@ -2,6 +2,7 @@
 layout: term
 title: dural
 slug: dural
+letter: D
 lisan: Türkçe
 anlamlar:
 - Hep aynı durumda ve değişmeden kalan

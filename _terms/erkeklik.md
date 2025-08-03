@@ -2,6 +2,7 @@
 layout: term
 title: erkeklik
 slug: erkeklik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Erkek olma durumu

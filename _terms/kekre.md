@@ -2,6 +2,7 @@
 layout: term
 title: kekre
 slug: kekre
+letter: K
 lisan: Türkçe
 anlamlar:
 - Acımtırak, ekşimsi ve buruk olan (tat)

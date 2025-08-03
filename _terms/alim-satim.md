@@ -2,6 +2,7 @@
 layout: term
 title: alım satım
 slug: alim-satim
+letter: A
 lisan: Türkçe
 anlamlar:
 - Satın alma ve satma işleri

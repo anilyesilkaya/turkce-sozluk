@@ -2,6 +2,7 @@
 layout: term
 title: prangaya vurmak
 slug: prangaya-vurmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - ayağına pranga bağlamak, zincire vurmak

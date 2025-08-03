@@ -2,6 +2,7 @@
 layout: term
 title: istem dışı
 slug: istem-disi
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bilmeden ve istemeden yapılan

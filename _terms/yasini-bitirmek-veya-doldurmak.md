@@ -2,6 +2,7 @@
 layout: term
 title: yaşını bitirmek (veya doldurmak)
 slug: yasini-bitirmek-veya-doldurmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - öngörülen belli bir yaş sınırına ulaşmak

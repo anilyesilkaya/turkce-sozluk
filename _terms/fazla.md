@@ -2,6 +2,7 @@
 layout: term
 title: fazla
 slug: fazla
+letter: F
 lisan: Arapça fażla
 anlamlar:
 - Gereğinden, alışılmıştan çok, aşırı olan; ziyade

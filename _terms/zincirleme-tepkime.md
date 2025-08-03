@@ -2,6 +2,7 @@
 layout: term
 title: zincirleme tepkime
 slug: zincirleme-tepkime
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Art arda birden fazla tepkimenin oluşması durumu

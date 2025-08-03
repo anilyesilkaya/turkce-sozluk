@@ -2,6 +2,7 @@
 layout: term
 title: artırmalı
 slug: artirmali
+letter: A
 lisan: Türkçe
 anlamlar:
 - Artırma yoluyla yapılan (satış)

@@ -2,6 +2,7 @@
 layout: term
 title: öldürülmek
 slug: oldurulmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öldürme işine konu olmak; gebertilmek

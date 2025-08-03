@@ -2,6 +2,7 @@
 layout: term
 title: savuşmak
 slug: savusmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bulunduğu yerden aceleyle, gizlice veya dikkati çekmeden ayrılmak

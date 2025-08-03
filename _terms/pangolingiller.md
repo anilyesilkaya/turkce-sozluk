@@ -2,6 +2,7 @@
 layout: term
 title: pangolingiller
 slug: pangolingiller
+letter: P
 lisan: Türkçe
 anlamlar:
 - Örnek hayvanı pangolin olan bir memeli familyası (Manidae)

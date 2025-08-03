@@ -2,6 +2,7 @@
 layout: term
 title: dâhilik
 slug: dahilik
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► deha

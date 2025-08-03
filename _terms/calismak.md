@@ -2,6 +2,7 @@
 layout: term
 title: çalışmak
 slug: calismak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak

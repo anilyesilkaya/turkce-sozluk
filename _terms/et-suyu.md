@@ -2,6 +2,7 @@
 layout: term
 title: et suyu
 slug: et-suyu
+letter: E
 lisan: Türkçe
 anlamlar:
 - İçinde et kaynatılmış su

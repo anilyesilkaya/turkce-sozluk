@@ -2,6 +2,7 @@
 layout: term
 title: teşrih masası
 slug: tesrih-masasi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Otopsi yapılan özel masa

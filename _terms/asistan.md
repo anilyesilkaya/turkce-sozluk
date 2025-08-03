@@ -2,6 +2,7 @@
 layout: term
 title: asistan
 slug: asistan
+letter: A
 lisan: Fransızca assistant
 anlamlar:
 - ► yardımcı

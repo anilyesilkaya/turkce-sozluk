@@ -2,6 +2,7 @@
 layout: term
 title: ara konakçı
 slug: ara-konakci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Asalağın, gelişme evreleri sırasında beslenip barındığı konakçılardan her biri

@@ -2,6 +2,7 @@
 layout: term
 title: milletçe
 slug: milletce
+letter: M
 lisan: Türkçe
 anlamlar:
 - Millet tarafından, millete göre, millet olarak; ulusça

@@ -2,6 +2,7 @@
 layout: term
 title: karşılamak
 slug: karsilamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Dışarıdan gelen bir kimseye karşılayıcı olarak çıkmak; istikbal etmek

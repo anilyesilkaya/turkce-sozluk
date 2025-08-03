@@ -2,6 +2,7 @@
 layout: term
 title: alaminütçü
 slug: alaminutcu
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► şipşakçı

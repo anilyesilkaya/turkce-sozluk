@@ -2,6 +2,7 @@
 layout: term
 title: sancak bağı
 slug: sancak-bagi
+letter: S
 lisan: Türkçe
 anlamlar:
 - İki ipi birbirine eklemek için kullanılan eski ve basit bir düğüm şekli

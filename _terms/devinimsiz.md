@@ -2,6 +2,7 @@
 layout: term
 title: devinimsiz
 slug: devinimsiz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Devinimi olmayan; devimsiz

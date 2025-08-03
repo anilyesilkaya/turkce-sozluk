@@ -2,6 +2,7 @@
 layout: term
 title: kırk bir (buçuk) kere maşallah!
 slug: kirk-bir-bucuk-kere-masallah
+letter: K
 lisan: Türkçe
 anlamlar:
 - '"pek çok, binlerce kez nazar değmesin!" anlamında kullanılan bir söz'

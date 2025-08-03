@@ -2,6 +2,7 @@
 layout: term
 title: martavalca
 slug: martavalca
+letter: M
 lisan: Türkçe
 anlamlar:
 - Yalan, gerçeğe dayanmayan, uydurma olan

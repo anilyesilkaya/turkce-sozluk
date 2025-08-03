@@ -2,6 +2,7 @@
 layout: term
 title: abramak
 slug: abramak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Fırtınalı havalarda gemiyi ustalıkla yönetmek

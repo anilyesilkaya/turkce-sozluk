@@ -2,6 +2,7 @@
 layout: term
 title: toparlanmak
 slug: toparlanmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Toparlama işine konu olmak veya toparlama işi yapılmak

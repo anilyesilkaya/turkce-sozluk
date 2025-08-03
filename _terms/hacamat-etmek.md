@@ -2,6 +2,7 @@
 layout: term
 title: hacamat etmek
 slug: hacamat-etmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - hacamat yoluyla kan almak

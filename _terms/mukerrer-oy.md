@@ -2,6 +2,7 @@
 layout: term
 title: 'mükerrer oy '
 slug: mukerrer-oy
+letter: M
 lisan: Türkçe
 anlamlar:
 - Bir kişi tarafından aynı seçimde birden fazla kullanılan oy

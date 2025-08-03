@@ -2,6 +2,7 @@
 layout: term
 title: kemane
 slug: kemane
+letter: K
 lisan: Farsça kemāne
 anlamlar:
 - Keman ve kemençe yayı

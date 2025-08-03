@@ -2,6 +2,7 @@
 layout: term
 title: abece
 slug: abece
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► alfabe

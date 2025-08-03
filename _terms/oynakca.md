@@ -2,6 +2,7 @@
 layout: term
 title: oynakça
 slug: oynakca
+letter: O
 lisan: Türkçe
 anlamlar:
 - Biraz oynak

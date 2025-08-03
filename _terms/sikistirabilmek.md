@@ -2,6 +2,7 @@
 layout: term
 title: sıkıştırabilmek
 slug: sikistirabilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıkıştırma ihtimali veya imkânı bulunmak

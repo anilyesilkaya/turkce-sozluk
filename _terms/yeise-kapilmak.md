@@ -2,6 +2,7 @@
 layout: term
 title: yeise kapılmak
 slug: yeise-kapilmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - çok üzülmek

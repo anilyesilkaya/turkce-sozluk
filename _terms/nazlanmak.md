@@ -2,6 +2,7 @@
 layout: term
 title: nazlanmak
 slug: nazlanmak
+letter: N
 lisan: Türkçe
 anlamlar:
 - Kolayca gönlü olmamak, ısrar beklemek

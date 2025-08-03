@@ -2,6 +2,7 @@
 layout: term
 title: istiare
 slug: istiare
+letter: I
 lisan: Arapça istiʿāre
 anlamlar:
 - ► ödünçleme

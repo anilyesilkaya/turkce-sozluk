@@ -2,6 +2,7 @@
 layout: term
 title: seçilmiş
 slug: secilmis
+letter: S
 lisan: Türkçe
 anlamlar:
 - Seçerek ayrılmış; müntehap

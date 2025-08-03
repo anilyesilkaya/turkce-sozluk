@@ -2,6 +2,7 @@
 layout: term
 title: rap diye
 slug: rap-diye
+letter: R
 lisan: Türkçe
 anlamlar:
 - ansızın

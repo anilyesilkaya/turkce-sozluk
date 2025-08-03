@@ -2,6 +2,7 @@
 layout: term
 title: marş
 slug: mars
+letter: M
 lisan: Fransızca marche
 anlamlar:
 - Ritmi, yürüyen bir kimsenin veya topluluğun adımlarını hatırlatan müzik parçası

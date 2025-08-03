@@ -2,6 +2,7 @@
 layout: term
 title: sarık
 slug: sarik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sarılarak meydana getirilen başlık; destar

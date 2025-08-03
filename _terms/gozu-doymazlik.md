@@ -2,6 +2,7 @@
 layout: term
 title: gözü doymazlık
 slug: gozu-doymazlik
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► açgözlülük

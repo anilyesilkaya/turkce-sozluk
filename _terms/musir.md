@@ -2,6 +2,7 @@
 layout: term
 title: müşir
 slug: musir
+letter: M
 lisan: Arapça muşʿir
 anlamlar:
 - Yazı ile bildiren, haber veren

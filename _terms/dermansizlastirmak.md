@@ -2,6 +2,7 @@
 layout: term
 title: dermansızlaştırmak
 slug: dermansizlastirmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► takatsizleştirmek

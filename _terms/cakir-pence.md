@@ -2,6 +2,7 @@
 layout: term
 title: çakır pençe
 slug: cakir-pence
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Tuttuğunu koparan, giriştiği veya ele aldığı her işi başaran, becerikli (kimse)

@@ -2,6 +2,7 @@
 layout: term
 title: maskarası olmak
 slug: maskarasi-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - birinin eğlencesi olmak

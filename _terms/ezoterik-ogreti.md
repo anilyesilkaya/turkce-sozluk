@@ -2,6 +2,7 @@
 layout: term
 title: ezoterik öğreti
 slug: ezoterik-ogreti
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ezoterik anlayışı benimseyen öğreti

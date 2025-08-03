@@ -2,6 +2,7 @@
 layout: term
 title: sığmak
 slug: sigmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir kaba, bir yere bütünüyle girebilmek veya içinden geçebilmek; girmek

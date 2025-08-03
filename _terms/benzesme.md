@@ -2,6 +2,7 @@
 layout: term
 title: benzeşme
 slug: benzesme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Benzeşmek işi; temessül

@@ -2,6 +2,7 @@
 layout: term
 title: mescit
 slug: mescit
+letter: M
 lisan: Arapça mescid
 anlamlar:
 - Genellikle minaresiz, küçük cami

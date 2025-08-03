@@ -2,6 +2,7 @@
 layout: term
 title: yağmurkuşağı
 slug: yagmurkusagi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► gökkuşağı

@@ -2,6 +2,7 @@
 layout: term
 title: soyunmak
 slug: soyunmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Üstündeki giysilerin bir bölümünü veya tümünü çıkarmak

@@ -2,6 +2,7 @@
 layout: term
 title: neticesiz
 slug: neticesiz
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► sonuçsuz

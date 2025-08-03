@@ -2,6 +2,7 @@
 layout: term
 title: doğruca
 slug: dogruca
+letter: D
 lisan: Türkçe
 anlamlar:
 - Doğruya yakın

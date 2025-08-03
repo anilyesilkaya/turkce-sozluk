@@ -2,6 +2,7 @@
 layout: term
 title: lostracılık
 slug: lostracilik
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lostracının yaptığı iş

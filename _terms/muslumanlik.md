@@ -2,6 +2,7 @@
 layout: term
 title: Müslümanlık
 slug: muslumanlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Hz. Muhammed’in temel öğreti ve esaslarını vahiy yoluyla Allah’tan alarak yaydığı din; İslam, İslamlık, İslamiyet, Hak dini

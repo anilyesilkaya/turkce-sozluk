@@ -2,6 +2,7 @@
 layout: term
 title: ibret almak
 slug: ibret-almak
+letter: I
 lisan: Türkçe
 anlamlar:
 - ders almak

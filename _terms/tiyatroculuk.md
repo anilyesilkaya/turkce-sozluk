@@ -2,6 +2,7 @@
 layout: term
 title: tiyatroculuk
 slug: tiyatroculuk
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tiyatro sanatçılığı

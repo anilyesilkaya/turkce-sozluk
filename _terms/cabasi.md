@@ -2,6 +2,7 @@
 layout: term
 title: cabası
 slug: cabasi
+letter: C
 lisan: Türkçe
 anlamlar:
 - Artısı, fazladan kazanılanı, elde edileni

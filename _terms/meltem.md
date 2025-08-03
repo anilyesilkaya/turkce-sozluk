@@ -2,6 +2,7 @@
 layout: term
 title: meltem
 slug: meltem
+letter: M
 lisan: Türkçe
 anlamlar:
 - Yazın karadan denize doğru esen mevsim rüzgârı; briz

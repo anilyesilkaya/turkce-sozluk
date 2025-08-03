@@ -2,6 +2,7 @@
 layout: term
 title: ilkel toplum
 slug: ilkel-toplum
+letter: I
 lisan: Türkçe
 anlamlar:
 - Yazılı kültürü bulunmayan, sanayileşmemiş, şehirleşmemiş tarım toplumu

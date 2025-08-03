@@ -2,6 +2,7 @@
 layout: term
 title: mazbut
 slug: mazbut
+letter: M
 lisan: Arapça mażbūṭ
 anlamlar:
 - Ele geçirilmiş, zapt edilmiş

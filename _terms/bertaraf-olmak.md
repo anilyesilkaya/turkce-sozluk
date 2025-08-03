@@ -2,6 +2,7 @@
 layout: term
 title: bertaraf olmak
 slug: bertaraf-olmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - ortadan kalkmak, yok edilmek

@@ -2,6 +2,7 @@
 layout: term
 title: slayt
 slug: slayt
+letter: S
 lisan: İngilizce slide
 anlamlar:
 - Üzerindeki resim ve şekilleri beyaz bir zemin üzerine yansıtmak amacıyla tepegöze konan şeffaf, ışığı geçiren kâğıt veya madde

@@ -2,6 +2,7 @@
 layout: term
 title: bağlantı doku
 slug: baglanti-doku
+letter: B
 lisan: Türkçe
 anlamlar:
 - Hücreleri ve çeşitli dokuları bir arada tutarak destek ve bağlama görevi yapan hücreler topluluğu

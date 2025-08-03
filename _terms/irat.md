@@ -2,6 +2,7 @@
 layout: term
 title: irat
 slug: irat
+letter: I
 lisan: Arapça īrād
 anlamlar:
 - ► gelir

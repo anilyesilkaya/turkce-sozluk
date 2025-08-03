@@ -2,6 +2,7 @@
 layout: term
 title: dişisel
 slug: disisel
+letter: D
 lisan: Türkçe
 anlamlar:
 - Şuh olan

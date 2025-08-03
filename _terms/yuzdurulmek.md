@@ -2,6 +2,7 @@
 layout: term
 title: yüzdürülmek
 slug: yuzdurulmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yüzdürme işine konu olmak veya yüzdürme işi yapılmak

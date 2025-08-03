@@ -2,6 +2,7 @@
 layout: term
 title: pederane
 slug: pederane
+letter: P
 lisan: Farsça pederāne
 anlamlar:
 - Babaya yakışır bir biçimde

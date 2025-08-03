@@ -2,6 +2,7 @@
 layout: term
 title: aberasyon
 slug: aberasyon
+letter: A
 lisan: Fransızca aberration
 anlamlar:
 - ► sapınç

@@ -2,6 +2,7 @@
 layout: term
 title: eleştirmek
 slug: elestirmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Bir düşünceyi, bir eseri, bir yargıyı inceleyerek doğruluk veya yanlışlığını ortaya çıkarmak ve gerçek değerini belirtmek; tenkit etmek

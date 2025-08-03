@@ -2,6 +2,7 @@
 layout: term
 title: alacağı olmak
 slug: alacagi-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - birinden alınacak parası olmak

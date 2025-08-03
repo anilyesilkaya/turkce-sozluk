@@ -2,6 +2,7 @@
 layout: term
 title: ölüm kalım mücadelesi vermek
 slug: olum-kalim-mucadelesi-vermek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ''

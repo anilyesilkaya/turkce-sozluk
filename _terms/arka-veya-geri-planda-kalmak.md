@@ -2,6 +2,7 @@
 layout: term
 title: arka (veya geri) planda kalmak
 slug: arka-veya-geri-planda-kalmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - gözden düşmek

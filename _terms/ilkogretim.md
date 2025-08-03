@@ -2,6 +2,7 @@
 layout: term
 title: ilköğretim
 slug: ilkogretim
+letter: I
 lisan: Türkçe
 anlamlar:
 - Örgün eğitim sisteminin temel bilgi ve becerileri kazandıran ilk basamağı

@@ -2,6 +2,7 @@
 layout: term
 title: takunya
 slug: takunya
+letter: T
 lisan: Rumca
 anlamlar:
 - Genellikle hamam vb. ıslak tabanlı yerlerde kullanılan, yüksek ökçeli, ağaçtan yapılmış bir tür ayak giysisi; nalın

@@ -2,6 +2,7 @@
 layout: term
 title: atlama taşı
 slug: atlama-tasi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Suyu geçerken üzerine basıp atlamak için konulan büyük taş; atlangıç

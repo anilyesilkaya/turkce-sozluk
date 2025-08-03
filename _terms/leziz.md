@@ -2,6 +2,7 @@
 layout: term
 title: leziz
 slug: leziz
+letter: L
 lisan: Arapça leẕīẕ
 anlamlar:
 - Tadı güzel, lezzetli

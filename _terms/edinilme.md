@@ -2,6 +2,7 @@
 layout: term
 title: edinilme
 slug: edinilme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Edinilmek işi

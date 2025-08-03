@@ -2,6 +2,7 @@
 layout: term
 title: köşe kapmaca oynamak
 slug: kose-kapmaca-oynamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - çok yakında olan birini bir türlü ele geçirememek

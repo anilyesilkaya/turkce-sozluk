@@ -2,6 +2,7 @@
 layout: term
 title: yaraştırmak
 slug: yarastirmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Uygun görmek; tensip etmek

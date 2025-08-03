@@ -2,6 +2,7 @@
 layout: term
 title: sorumluluk düşmek
 slug: sorumluluk-dusmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - sorumlu sayılmak, sorumlu olarak görülmek

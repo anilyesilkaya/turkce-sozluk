@@ -2,6 +2,7 @@
 layout: term
 title: çavlan
 slug: cavlan
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► şelale

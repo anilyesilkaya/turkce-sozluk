@@ -2,6 +2,7 @@
 layout: term
 title: varılış
 slug: varilis
+letter: V
 lisan: Türkçe
 anlamlar:
 - Varılmak işi

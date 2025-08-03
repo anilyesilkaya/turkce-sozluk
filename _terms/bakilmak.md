@@ -2,6 +2,7 @@
 layout: term
 title: bakılmak
 slug: bakilmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bakma işine konu olmak veya bakma işi yapılmak

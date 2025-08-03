@@ -2,6 +2,7 @@
 layout: term
 title: çıntar
 slug: cintar
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► kanlıca

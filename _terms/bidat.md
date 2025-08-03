@@ -2,6 +2,7 @@
 layout: term
 title: bidat
 slug: bidat
+letter: B
 lisan: Arapça bidʿat
 anlamlar:
 - İslam dininde Hz. Muhammed zamanından sonra ortaya çıkan değişik yargılar ve ilkeler

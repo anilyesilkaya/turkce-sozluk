@@ -2,6 +2,7 @@
 layout: term
 title: baht
 slug: baht
+letter: B
 lisan: Farsça baḫt
 anlamlar:
 - ► yazgı

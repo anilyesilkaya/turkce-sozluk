@@ -2,6 +2,7 @@
 layout: term
 title: cozur
 slug: cozur
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cozurdama sesi

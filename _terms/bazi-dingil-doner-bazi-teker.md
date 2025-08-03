@@ -2,6 +2,7 @@
 layout: term
 title: bazı dingil döner, bazı teker
 slug: bazi-dingil-doner-bazi-teker
+letter: B
 lisan: Türkçe
 anlamlar:
 - '"karşılıklı ilişkilerde her iki tarafa da zaman zaman söz söyleme hakkı doğar" anlamında kullanılan bir söz'

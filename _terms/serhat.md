@@ -2,6 +2,7 @@
 layout: term
 title: serhat
 slug: serhat
+letter: S
 lisan: Farsça ser + Arapça ḥadd
 anlamlar:
 - ► sınır boyu

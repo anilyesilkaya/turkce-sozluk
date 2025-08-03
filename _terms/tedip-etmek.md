@@ -2,6 +2,7 @@
 layout: term
 title: tedip etmek
 slug: tedip-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - yola getirmek, uslandırmak, terbiye etmek

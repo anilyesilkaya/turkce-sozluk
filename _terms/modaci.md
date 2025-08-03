@@ -2,6 +2,7 @@
 layout: term
 title: modacı
 slug: modaci
+letter: M
 lisan: Türkçe
 anlamlar:
 - Moda işleriyle uğraşan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: medya
 slug: medya
+letter: M
 lisan: İngilizce media
 anlamlar:
 - ► iletişim ortamı

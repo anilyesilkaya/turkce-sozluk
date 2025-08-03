@@ -2,6 +2,7 @@
 layout: term
 title: tarifesiz
 slug: tarifesiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tarifesi olmayan

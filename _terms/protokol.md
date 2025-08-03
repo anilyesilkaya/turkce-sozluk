@@ -2,6 +2,7 @@
 layout: term
 title: protokol
 slug: protokol
+letter: P
 lisan: Fransızca protocole
 anlamlar:
 - Bir toplantı, oturum, soruşturma sonunda imzalanan belge

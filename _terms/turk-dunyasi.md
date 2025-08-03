@@ -2,6 +2,7 @@
 layout: term
 title: Türk dünyası
 slug: turk-dunyasi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Türklerin yaşadığı coğrafya

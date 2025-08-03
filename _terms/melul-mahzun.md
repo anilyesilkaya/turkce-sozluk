@@ -2,6 +2,7 @@
 layout: term
 title: melul mahzun
 slug: melul-mahzun
+letter: M
 lisan: Türkçe
 anlamlar:
 - Çok üzgün, sıkıntılı, ağlamaklı bir biçimde

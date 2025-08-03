@@ -2,6 +2,7 @@
 layout: term
 title: çay ocağı
 slug: cay-ocagi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Kahvehane veya çayevinde kahve, çay vb. içeceklerin hazırlandığı ve dağıtıldığı bölüm; kahve ocağı

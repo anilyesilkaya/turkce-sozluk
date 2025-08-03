@@ -2,6 +2,7 @@
 layout: term
 title: laytmotif
 slug: laytmotif
+letter: L
 lisan: Almanca Leitmotiv
 anlamlar:
 - Bir eserde, ana duyguyu, düşünceyi veya kişiliği göstermek için kullanılan motif; ana motif

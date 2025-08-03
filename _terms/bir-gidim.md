@@ -2,6 +2,7 @@
 layout: term
 title: bir gıdım
 slug: bir-gidim
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çok az miktarda

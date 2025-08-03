@@ -2,6 +2,7 @@
 layout: term
 title: direkli
 slug: direkli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Direği olan

@@ -2,6 +2,7 @@
 layout: term
 title: şeytani
 slug: seytani
+letter: Ş
 lisan: Arapça şeyṭānī
 anlamlar:
 - ► şeytanca

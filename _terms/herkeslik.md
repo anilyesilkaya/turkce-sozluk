@@ -2,6 +2,7 @@
 layout: term
 title: herkeslik
 slug: herkeslik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Aleladelik, sıradan olma durumu

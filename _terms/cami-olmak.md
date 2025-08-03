@@ -2,6 +2,7 @@
 layout: term
 title: cami olmak
 slug: cami-olmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - toplamak, bir araya getirmek, bir arada bulundurmak

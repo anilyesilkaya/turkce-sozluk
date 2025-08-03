@@ -2,6 +2,7 @@
 layout: term
 title: tek başınalık
 slug: tek-basinalik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tek başına olma durumu; bir başınalık

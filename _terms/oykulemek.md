@@ -2,6 +2,7 @@
 layout: term
 title: öykülemek
 slug: oykulemek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Bir olay dizisini anlatmak

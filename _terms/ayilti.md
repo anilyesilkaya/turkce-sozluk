@@ -2,6 +2,7 @@
 layout: term
 title: ayıltı
 slug: ayilti
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► mahmurluk

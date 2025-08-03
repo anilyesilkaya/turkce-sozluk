@@ -2,6 +2,7 @@
 layout: term
 title: üç otuzunda
 slug: uc-otuzunda
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Çok yaşlı (kimse)

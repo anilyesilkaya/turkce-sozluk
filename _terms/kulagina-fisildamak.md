@@ -2,6 +2,7 @@
 layout: term
 title: kulağına fısıldamak
 slug: kulagina-fisildamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - çok alçak ve hafif bir ses tonuyla kulağına eğilip bir şeyler söylemek

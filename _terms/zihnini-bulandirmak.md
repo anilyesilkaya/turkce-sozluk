@@ -2,6 +2,7 @@
 layout: term
 title: zihnini bulandırmak
 slug: zihnini-bulandirmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - kuşkuya düşürmek

@@ -2,6 +2,7 @@
 layout: term
 title: barikat kurmak
 slug: barikat-kurmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - engel oluşturmak

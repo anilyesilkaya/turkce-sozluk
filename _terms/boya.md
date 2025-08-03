@@ -2,6 +2,7 @@
 layout: term
 title: boya
 slug: boya
+letter: B
 lisan: Türkçe
 anlamlar:
 - Renk vermek, dış etkilerden korumak için eşyanın üzerine sürülen veya içine katılan madenî, bitkisel veya sentetik madde

@@ -2,6 +2,7 @@
 layout: term
 title: susuzluk
 slug: susuzluk
+letter: S
 lisan: Türkçe
 anlamlar:
 - Susuz olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: tifdruk
 slug: tifdruk
+letter: T
 lisan: Almanca Tiefdruck
 anlamlar:
 - Oyulmuş bakır kalıplarla yapılan, renkli fotoğraf baskılarına elverişli bir baskı tekniği

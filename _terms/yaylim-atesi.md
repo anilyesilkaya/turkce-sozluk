@@ -2,6 +2,7 @@
 layout: term
 title: yaylım ateşi
 slug: yaylim-atesi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Birden çok ateşli silahın aynı zamanda ateş etmesi

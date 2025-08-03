@@ -2,6 +2,7 @@
 layout: term
 title: çakma
 slug: cakma
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çakmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: kuralı
 slug: kurali
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kurasını çekmiş, askere gitmeyi bekleyen (asker)

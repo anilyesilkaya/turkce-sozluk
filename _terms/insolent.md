@@ -2,6 +2,7 @@
 layout: term
 title: insolent
 slug: insolent
+letter: I
 lisan: İngilizce insolent
 anlamlar:
 - Küstah, arsız, terbiyesiz

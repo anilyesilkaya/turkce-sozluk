@@ -2,6 +2,7 @@
 layout: term
 title: nükteci
 slug: nukteci
+letter: N
 lisan: Türkçe
 anlamlar:
 - İnce anlamlı, düşündürücü, hoş sözler söyleyen (kimse); nekre, nüktedan

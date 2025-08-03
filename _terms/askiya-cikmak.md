@@ -2,6 +2,7 @@
 layout: term
 title: askıya çıkmak
 slug: askiya-cikmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ipek böceği koza sarmak üzere dallara çıkmak

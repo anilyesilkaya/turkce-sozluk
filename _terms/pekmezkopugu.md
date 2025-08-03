@@ -2,6 +2,7 @@
 layout: term
 title: pekmezköpüğü
 slug: pekmezkopugu
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► açık kahverengi

@@ -2,6 +2,7 @@
 layout: term
 title: kırılma
 slug: kirilma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kırılmak işi

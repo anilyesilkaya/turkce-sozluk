@@ -2,6 +2,7 @@
 layout: term
 title: ciğer kebap olmak
 slug: ciger-kebap-olmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - büyük bir acıya uğramak, yüreği yanmak

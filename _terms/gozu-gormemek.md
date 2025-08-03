@@ -2,6 +2,7 @@
 layout: term
 title: gözü görmemek
 slug: gozu-gormemek
+letter: G
 lisan: Türkçe
 anlamlar:
 - görmez olmak

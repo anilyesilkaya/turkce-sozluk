@@ -2,6 +2,7 @@
 layout: term
 title: börtülmek
 slug: bortulmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Börtme işine konu olmak

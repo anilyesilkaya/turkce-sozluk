@@ -2,6 +2,7 @@
 layout: term
 title: çatkın
 slug: catkin
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çatık

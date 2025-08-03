@@ -2,6 +2,7 @@
 layout: term
 title: yılışıkça
 slug: yilisikca
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yılışık bir biçimde

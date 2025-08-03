@@ -2,6 +2,7 @@
 layout: term
 title: gider
 slug: gider
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bir iş için harcanan paranın bütünü; masraf

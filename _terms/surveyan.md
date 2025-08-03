@@ -2,6 +2,7 @@
 layout: term
 title: sürveyan
 slug: surveyan
+letter: S
 lisan: Fransızca surveillant
 anlamlar:
 - ► gözetici

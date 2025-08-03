@@ -2,6 +2,7 @@
 layout: term
 title: peltekleşmek
 slug: pelteklesmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Peltek duruma gelmek

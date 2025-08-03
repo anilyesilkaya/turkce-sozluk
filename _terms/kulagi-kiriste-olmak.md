@@ -2,6 +2,7 @@
 layout: term
 title: kulağı kirişte olmak
 slug: kulagi-kiriste-olmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - söylenecek sözü, gelecek haberi sabırsızlıkla beklemek

@@ -2,6 +2,7 @@
 layout: term
 title: mercananaeli
 slug: mercananaeli
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► havvaanaeli

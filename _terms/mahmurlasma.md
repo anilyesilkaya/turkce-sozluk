@@ -2,6 +2,7 @@
 layout: term
 title: mahmurlaşma
 slug: mahmurlasma
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mahmurlaşmak durumu

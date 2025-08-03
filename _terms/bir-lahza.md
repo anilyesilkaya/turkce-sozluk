@@ -2,6 +2,7 @@
 layout: term
 title: bir lahza
 slug: bir-lahza
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kısa bir süre; bir lahzacık

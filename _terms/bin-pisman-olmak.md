@@ -2,6 +2,7 @@
 layout: term
 title: bin pişman olmak
 slug: bin-pisman-olmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - çok pişman olmak

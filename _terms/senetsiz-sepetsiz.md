@@ -2,6 +2,7 @@
 layout: term
 title: senetsiz sepetsiz
 slug: senetsiz-sepetsiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Senede veya sözleşmeye dayanmadan

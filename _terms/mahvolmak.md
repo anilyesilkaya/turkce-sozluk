@@ -2,6 +2,7 @@
 layout: term
 title: mahvolmak
 slug: mahvolmak
+letter: M
 lisan: Arapça maḥv + Türkçe olmak
 anlamlar:
 - Yok olmak

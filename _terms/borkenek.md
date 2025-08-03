@@ -2,6 +2,7 @@
 layout: term
 title: börkenek
 slug: borkenek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Geviş getiren hayvanların midelerinin ikinci bölümü

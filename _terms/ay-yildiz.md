@@ -2,6 +2,7 @@
 layout: term
 title: ay yıldız
 slug: ay-yildiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Türk bayrağındaki ayça ve beş ışınlı yıldızdan oluşmuş simge

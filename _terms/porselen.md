@@ -2,6 +2,7 @@
 layout: term
 title: porselen
 slug: porselen
+letter: P
 lisan: Fransızca porcelaine
 anlamlar:
 - Kaolinden yapılma, beyaz, sert ve yarı saydam çömlek hamuru

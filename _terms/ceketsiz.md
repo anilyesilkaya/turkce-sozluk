@@ -2,6 +2,7 @@
 layout: term
 title: ceketsiz
 slug: ceketsiz
+letter: C
 lisan: Türkçe
 anlamlar:
 - Ceketi olmayan

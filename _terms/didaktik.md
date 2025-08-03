@@ -2,6 +2,7 @@
 layout: term
 title: didaktik
 slug: didaktik
+letter: D
 lisan: Fransızca didactique
 anlamlar:
 - ► öğretici

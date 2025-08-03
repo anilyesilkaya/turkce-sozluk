@@ -2,6 +2,7 @@
 layout: term
 title: minnettar kalmak
 slug: minnettar-kalmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - birinden görülen iyiliğe karşı teşekkür duygusu beslemek

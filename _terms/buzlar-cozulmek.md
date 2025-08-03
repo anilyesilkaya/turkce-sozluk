@@ -2,6 +2,7 @@
 layout: term
 title: buzlar çözülmek
 slug: buzlar-cozulmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - buzlar erimeye ve kırılmaya başlamak

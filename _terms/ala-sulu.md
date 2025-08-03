@@ -2,6 +2,7 @@
 layout: term
 title: ala sulu
 slug: ala-sulu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yeni olgunlaşmaya başlamış (yemiş)

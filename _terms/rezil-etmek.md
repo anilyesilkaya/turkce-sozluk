@@ -2,6 +2,7 @@
 layout: term
 title: rezil etmek
 slug: rezil-etmek
+letter: R
 lisan: Türkçe
 anlamlar:
 - isteyerek veya istemeyerek birini çok utanacak güç bir duruma sokmak

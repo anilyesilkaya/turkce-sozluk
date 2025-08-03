@@ -2,6 +2,7 @@
 layout: term
 title: birleşmek
 slug: birlesmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Ayrıyken tek bir bütün durumuna gelmek

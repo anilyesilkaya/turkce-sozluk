@@ -2,6 +2,7 @@
 layout: term
 title: başarıvermek
 slug: basarivermek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çabucak başarmak

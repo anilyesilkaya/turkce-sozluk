@@ -2,6 +2,7 @@
 layout: term
 title: bilmeceli
 slug: bilmeceli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilmecesi olan; muammalı

@@ -2,6 +2,7 @@
 layout: term
 title: kek
 slug: kek
+letter: K
 lisan: İngilizce cake
 anlamlar:
 - Ana maddeleri yumurta, un ve şeker olan, içerisine kuru üzüm, kakao, fındık vb. konularak pişirilen süngerimsi tatlı.

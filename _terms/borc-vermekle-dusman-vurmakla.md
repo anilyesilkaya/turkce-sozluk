@@ -2,6 +2,7 @@
 layout: term
 title: borç vermekle, düşman vurmakla
 slug: borc-vermekle-dusman-vurmakla
+letter: B
 lisan: Türkçe
 anlamlar:
 - '"borç vermekle, düşman vurmakla yok edilir" anlamında kullanılan bir söz'

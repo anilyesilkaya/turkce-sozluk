@@ -2,6 +2,7 @@
 layout: term
 title: kefenlik
 slug: kefenlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kefen olarak kullanılmaya elverişli (bez)

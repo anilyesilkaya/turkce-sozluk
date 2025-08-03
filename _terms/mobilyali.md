@@ -2,6 +2,7 @@
 layout: term
 title: mobilyalı
 slug: mobilyali
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mobilyası olan, döşenmiş; möbleli

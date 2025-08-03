@@ -2,6 +2,7 @@
 layout: term
 title: onay
 slug: onay
+letter: O
 lisan: Türkçe
 anlamlar:
 - Uygun bulma; tasdik, icazet

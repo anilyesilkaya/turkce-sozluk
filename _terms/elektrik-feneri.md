@@ -2,6 +2,7 @@
 layout: term
 title: elektrik feneri
 slug: elektrik-feneri
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► el feneri

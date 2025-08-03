@@ -2,6 +2,7 @@
 layout: term
 title: gömmek
 slug: gommek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Yerin altına koyarak üstünü toprakla örtmek

@@ -2,6 +2,7 @@
 layout: term
 title: çenesi düşük
 slug: cenesi-dusuk
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► geveze

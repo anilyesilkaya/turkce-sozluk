@@ -2,6 +2,7 @@
 layout: term
 title: satılığa çıkarmak
 slug: satiliga-cikarmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - satmak, satışa çıkarmak

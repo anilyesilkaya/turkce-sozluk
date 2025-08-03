@@ -2,6 +2,7 @@
 layout: term
 title: şalter
 slug: salter
+letter: Ş
 lisan: Almanca Schalter
 anlamlar:
 - ► anahtar

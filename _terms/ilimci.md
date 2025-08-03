@@ -2,6 +2,7 @@
 layout: term
 title: ilimci
 slug: ilimci
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► bilimci

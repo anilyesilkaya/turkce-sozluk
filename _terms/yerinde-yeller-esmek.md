@@ -2,6 +2,7 @@
 layout: term
 title: yerinde yeller esmek
 slug: yerinde-yeller-esmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - artık bulunmamak, yok olmak

@@ -2,6 +2,7 @@
 layout: term
 title: otokton
 slug: otokton
+letter: O
 lisan: Fransızca autochtone
 anlamlar:
 - ► yerli

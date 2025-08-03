@@ -2,6 +2,7 @@
 layout: term
 title: taksir
 slug: taksir
+letter: T
 lisan: Arapça taḳṣīr
 anlamlar:
 - ► kısaltma

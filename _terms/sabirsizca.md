@@ -2,6 +2,7 @@
 layout: term
 title: sabırsızca
 slug: sabirsizca
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sabırsız bir biçimde

@@ -2,6 +2,7 @@
 layout: term
 title: nısfiye
 slug: nisfiye
+letter: N
 lisan: Arapça niṣfiyye
 anlamlar:
 - Bir tür kısa ney

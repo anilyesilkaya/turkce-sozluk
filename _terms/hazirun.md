@@ -2,6 +2,7 @@
 layout: term
 title: hazırun
 slug: hazirun
+letter: H
 lisan: Arapça ḥāżirūn
 anlamlar:
 - Bir toplantıya katılanlar

@@ -2,6 +2,7 @@
 layout: term
 title: peştamallık
 slug: pestamallik
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► hava parası

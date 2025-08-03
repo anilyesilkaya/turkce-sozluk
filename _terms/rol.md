@@ -2,6 +2,7 @@
 layout: term
 title: rol
 slug: rol
+letter: R
 lisan: Fransızca rôle
 anlamlar:
 - Bir kişiliği canlandıran oyuncunun söylemesi ve yapması gereken hareketlerin genel adı

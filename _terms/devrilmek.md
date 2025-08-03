@@ -2,6 +2,7 @@
 layout: term
 title: devrilmek
 slug: devrilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Devirme işi yapılmak

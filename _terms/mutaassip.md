@@ -2,6 +2,7 @@
 layout: term
 title: mutaassıp
 slug: mutaassip
+letter: M
 lisan: Arapça mutaʿaṣṣib
 anlamlar:
 - ► bağnaz

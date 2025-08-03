@@ -2,6 +2,7 @@
 layout: term
 title: ürkütücülük
 slug: urkutuculuk
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Ürkütücü olma durumu

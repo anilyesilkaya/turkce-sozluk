@@ -2,6 +2,7 @@
 layout: term
 title: merkezcilik
 slug: merkezcilik
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► merkeziyetçilik

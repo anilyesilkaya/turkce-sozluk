@@ -2,6 +2,7 @@
 layout: term
 title: endüstriyel
 slug: endustriyel
+letter: E
 lisan: Fransızca industriel
 anlamlar:
 - ► sınai

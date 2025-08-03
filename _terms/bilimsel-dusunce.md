@@ -2,6 +2,7 @@
 layout: term
 title: bilimsel düşünce
 slug: bilimsel-dusunce
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilim temeline dayanan özgür eleştirici, araştırıcı ve bağımsız düşünce

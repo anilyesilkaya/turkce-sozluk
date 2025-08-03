@@ -2,6 +2,7 @@
 layout: term
 title: skala
 slug: skala
+letter: S
 lisan: İtalyanca scala
 anlamlar:
 - Genellikle ölçü aletlerinde gösterge çizelgesi

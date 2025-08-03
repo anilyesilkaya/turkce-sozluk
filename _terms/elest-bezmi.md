@@ -2,6 +2,7 @@
 layout: term
 title: elest bezmi
 slug: elest-bezmi
+letter: E
 lisan: Arapça elest + Farsça bezm
 anlamlar:
 - Allah’ın ezelde ruhlara “Ben sizin rabbiniz değil miyim?” hitabını  yaptığı ve ruhların da “evet” diye cevap verdikleri ezel meclisi

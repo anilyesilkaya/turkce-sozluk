@@ -2,6 +2,7 @@
 layout: term
 title: cenabetlik
 slug: cenabetlik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cenabet olma durumu

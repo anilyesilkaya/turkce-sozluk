@@ -2,6 +2,7 @@
 layout: term
 title: sersem sepelek
 slug: sersem-sepelek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sersem bir biçimde, sersemliği geçmeden

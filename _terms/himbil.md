@@ -2,6 +2,7 @@
 layout: term
 title: hımbıl
 slug: himbil
+letter: H
 lisan: Türkçe
 anlamlar:
 - Uyuşuk, tembel

@@ -2,6 +2,7 @@
 layout: term
 title: darüşşifa
 slug: darussifa
+letter: D
 lisan: Arapça dār + şifā
 anlamlar:
 - ► hastane

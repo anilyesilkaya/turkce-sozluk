@@ -2,6 +2,7 @@
 layout: term
 title: kitapçık
 slug: kitapcik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Küçük kitap

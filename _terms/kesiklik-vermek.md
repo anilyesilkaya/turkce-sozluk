@@ -2,6 +2,7 @@
 layout: term
 title: kesiklik vermek
 slug: kesiklik-vermek
+letter: K
 lisan: Türkçe
 anlamlar:
 - ara vermek

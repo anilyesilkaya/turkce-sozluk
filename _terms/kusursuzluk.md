@@ -2,6 +2,7 @@
 layout: term
 title: kusursuzluk
 slug: kusursuzluk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kusursuz olma durumu

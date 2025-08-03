@@ -2,6 +2,7 @@
 layout: term
 title: gayr
 slug: gayr
+letter: G
 lisan: Arapça ġayr
 anlamlar:
 - Başka kimse, başkası

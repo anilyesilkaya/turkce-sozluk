@@ -2,6 +2,7 @@
 layout: term
 title: devlet
 slug: devlet
+letter: D
 lisan: Arapça devlet
 anlamlar:
 - Toprak bütünlüğüne bağlı olarak siyasal bakımdan örgütlenmiş millet veya milletler topluluğunun oluşturduğu tüzel varlık; ülke

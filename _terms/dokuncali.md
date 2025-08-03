@@ -2,6 +2,7 @@
 layout: term
 title: dokuncalı
 slug: dokuncali
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► zararlı

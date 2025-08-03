@@ -2,6 +2,7 @@
 layout: term
 title: kamış
 slug: kamis
+letter: K
 lisan: Türkçe
 anlamlar:
 - Buğdaygillerden, sulak, nemli yerlerde yetişen, boğumlu, sert gövdeli, şerit yapraklı bitkilerin genel adı; kargı (Phragmites australis)

@@ -2,6 +2,7 @@
 layout: term
 title: tasfiye etmek
 slug: tasfiye-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - arıtmak, temizlemek

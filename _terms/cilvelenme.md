@@ -2,6 +2,7 @@
 layout: term
 title: cilvelenme
 slug: cilvelenme
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cilvelenmek işi

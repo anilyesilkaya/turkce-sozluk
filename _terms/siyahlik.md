@@ -2,6 +2,7 @@
 layout: term
 title: siyahlık
 slug: siyahlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Siyah olma durumu, kara renk

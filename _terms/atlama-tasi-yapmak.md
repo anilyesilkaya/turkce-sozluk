@@ -2,6 +2,7 @@
 layout: term
 title: atlama taşı yapmak
 slug: atlama-tasi-yapmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - daha iyi bir yere geçmek için bir durumu veya bir kimseyi araç olarak kullanmak

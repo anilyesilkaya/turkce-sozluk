@@ -2,6 +2,7 @@
 layout: term
 title: kaziye
 slug: kaziye
+letter: K
 lisan: Arapça ḳażiyye
 anlamlar:
 - ► önerme

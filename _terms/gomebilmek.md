@@ -2,6 +2,7 @@
 layout: term
 title: gömebilmek
 slug: gomebilmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gömme ihtimali veya imkânı bulunmak

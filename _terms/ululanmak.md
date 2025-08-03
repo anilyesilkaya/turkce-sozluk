@@ -2,6 +2,7 @@
 layout: term
 title: ululanmak
 slug: ululanmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ululamak işi yapılmak

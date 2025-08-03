@@ -2,6 +2,7 @@
 layout: term
 title: sokağa (veya sokaklara) dökülmek
 slug: sokaga-veya-sokaklara-dokulmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - herhangi bir sebeple dışarı çıkmak

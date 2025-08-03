@@ -2,6 +2,7 @@
 layout: term
 title: diline virt etmek
 slug: diline-virt-etmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - diline dolamak

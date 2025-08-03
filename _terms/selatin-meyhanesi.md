@@ -2,6 +2,7 @@
 layout: term
 title: selatin meyhanesi
 slug: selatin-meyhanesi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Büyük meyhane

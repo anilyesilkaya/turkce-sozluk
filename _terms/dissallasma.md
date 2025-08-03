@@ -2,6 +2,7 @@
 layout: term
 title: dışsallaşma
 slug: dissallasma
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dışsallaşmak işi

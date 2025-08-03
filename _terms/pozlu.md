@@ -2,6 +2,7 @@
 layout: term
 title: pozlu
 slug: pozlu
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► çalımlı

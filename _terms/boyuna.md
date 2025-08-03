@@ -2,6 +2,7 @@
 layout: term
 title: boyuna
 slug: boyuna
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► uzunlamasına

@@ -2,6 +2,7 @@
 layout: term
 title: İsveççe
 slug: isvecce
+letter: İ
 lisan: Türkçe
 anlamlar:
 - İsveçlilerin kullandığı dil

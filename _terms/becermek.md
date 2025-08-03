@@ -2,6 +2,7 @@
 layout: term
 title: becermek
 slug: becermek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Güç görünen bir iş veya duruma çözüm bulmak, üstesinden gelmek

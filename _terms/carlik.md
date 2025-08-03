@@ -2,6 +2,7 @@
 layout: term
 title: çarlık
 slug: carlik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çar olma durumu

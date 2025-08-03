@@ -2,6 +2,7 @@
 layout: term
 title: mendil kadar
 slug: mendil-kadar
+letter: M
 lisan: Türkçe
 anlamlar:
 - çok küçük (alan)

@@ -2,6 +2,7 @@
 layout: term
 title: dağ kavağı
 slug: dag-kavagi
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► titrek kavak

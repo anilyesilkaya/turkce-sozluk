@@ -2,6 +2,7 @@
 layout: term
 title: pahalılık
 slug: pahalilik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Bir şeyin fiyatının yüksek olması durumu veya pahalı olma durumu

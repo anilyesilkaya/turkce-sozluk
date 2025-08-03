@@ -2,6 +2,7 @@
 layout: term
 title: aslanlı
 slug: aslanli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aslan bulunan; arslanlı

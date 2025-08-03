@@ -2,6 +2,7 @@
 layout: term
 title: üstlük
 slug: ustluk
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üst olma durumu

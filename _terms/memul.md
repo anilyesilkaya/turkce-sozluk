@@ -2,6 +2,7 @@
 layout: term
 title: memul
 slug: memul
+letter: M
 lisan: Arapça meʾmūl
 anlamlar:
 - Umulan, düşünülen

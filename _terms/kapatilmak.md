@@ -2,6 +2,7 @@
 layout: term
 title: kapatılmak
 slug: kapatilmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kapatma işine konu olmak veya kapatma işi yapılmak

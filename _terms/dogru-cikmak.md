@@ -2,6 +2,7 @@
 layout: term
 title: doğru çıkmak
 slug: dogru-cikmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - gerçek olduğu anlaşılmak

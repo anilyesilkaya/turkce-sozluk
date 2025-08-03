@@ -2,6 +2,7 @@
 layout: term
 title: ayağa kaldırmak
 slug: ayaga-kaldirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - telaş ve heyecana düşürmek

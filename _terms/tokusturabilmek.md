@@ -2,6 +2,7 @@
 layout: term
 title: tokuşturabilmek
 slug: tokusturabilmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tokuşturma ihtimali veya imkânı bulunmak

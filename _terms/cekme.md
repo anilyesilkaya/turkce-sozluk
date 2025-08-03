@@ -2,6 +2,7 @@
 layout: term
 title: çekme
 slug: cekme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çekmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: Urban
 slug: urban
+letter: U
 lisan: Arapça ʿurbān
 anlamlar:
 - Çöl Arapları

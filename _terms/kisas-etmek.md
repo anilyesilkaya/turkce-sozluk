@@ -2,6 +2,7 @@
 layout: term
 title: kısas etmek
 slug: kisas-etmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir suçluya başkasına yaptığı kötülüğü aynı biçimde uygulamak

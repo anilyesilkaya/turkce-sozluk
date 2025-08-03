@@ -2,6 +2,7 @@
 layout: term
 title: üzümlü kek
 slug: uzumlu-kek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - İçine üzüm konularak yapılan kek

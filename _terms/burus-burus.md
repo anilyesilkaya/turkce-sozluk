@@ -2,6 +2,7 @@
 layout: term
 title: buruş buruş
 slug: burus-burus
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çok buruşmuş olan

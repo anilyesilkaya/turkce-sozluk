@@ -2,6 +2,7 @@
 layout: term
 title: saftorik
 slug: saftorik
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► saftirik

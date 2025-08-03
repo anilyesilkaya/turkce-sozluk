@@ -2,6 +2,7 @@
 layout: term
 title: korkuluk
 slug: korkuluk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Düşme tehlikesi olan yerlere çekilen duvar veya parmaklık

@@ -2,6 +2,7 @@
 layout: term
 title: vızır vızır
 slug: vizir-vizir
+letter: V
 lisan: Türkçe
 anlamlar:
 - Hiç ara vermeksizin, sürekli bir biçimde

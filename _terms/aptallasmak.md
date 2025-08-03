@@ -2,6 +2,7 @@
 layout: term
 title: aptallaşmak
 slug: aptallasmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Zekâsının azlığından dolayı yeterince düşünemeyip akıllıca hareket edememek; budalalaşmak

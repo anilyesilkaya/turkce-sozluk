@@ -2,6 +2,7 @@
 layout: term
 title: açıklık kazanmak
 slug: aciklik-kazanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir konu aydınlanmak, anlaşılır duruma gelmek

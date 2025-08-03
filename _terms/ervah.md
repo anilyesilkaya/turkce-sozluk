@@ -2,6 +2,7 @@
 layout: term
 title: ervah
 slug: ervah
+letter: E
 lisan: Arapça ervāḥ
 anlamlar:
 - Ruhlar

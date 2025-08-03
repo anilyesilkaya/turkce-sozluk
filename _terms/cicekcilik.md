@@ -2,6 +2,7 @@
 layout: term
 title: çiçekçilik
 slug: cicekcilik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çiçekçinin yaptığı iş

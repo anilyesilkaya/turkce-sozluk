@@ -2,6 +2,7 @@
 layout: term
 title: pembelik basmak
 slug: pembelik-basmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - utanç vb. duyguların etkisiyle yüzü pembeleşmek

@@ -2,6 +2,7 @@
 layout: term
 title: durgunluk çökmek
 slug: durgunluk-cokmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - sessiz, sakin duruma girmek

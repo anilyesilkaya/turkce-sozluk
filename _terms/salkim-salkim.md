@@ -2,6 +2,7 @@
 layout: term
 title: salkım salkım
 slug: salkim-salkim
+letter: S
 lisan: Türkçe
 anlamlar:
 - Salkım gibi

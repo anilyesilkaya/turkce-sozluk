@@ -2,6 +2,7 @@
 layout: term
 title: adam olmak
 slug: adam-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - gelişmek, büyümek

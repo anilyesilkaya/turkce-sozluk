@@ -2,6 +2,7 @@
 layout: term
 title: top sakallı
 slug: top-sakalli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Top sakalı olan

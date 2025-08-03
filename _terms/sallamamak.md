@@ -2,6 +2,7 @@
 layout: term
 title: sallamamak
 slug: sallamamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - önem vermemek

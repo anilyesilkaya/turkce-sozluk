@@ -2,6 +2,7 @@
 layout: term
 title: us pahası
 slug: us-pahasi
+letter: U
 lisan: Türkçe
 anlamlar:
 - Akıl dışı yapılan bir iş sonucu uğranılan zarar

@@ -2,6 +2,7 @@
 layout: term
 title: minnet çekmek
 slug: minnet-cekmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - bir iyiliğin yükü altında kalmak, ezilmek

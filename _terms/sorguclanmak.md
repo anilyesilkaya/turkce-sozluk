@@ -2,6 +2,7 @@
 layout: term
 title: sorguçlanmak
 slug: sorguclanmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sorguç biçimiyle şekillenmiş gibi görünmek

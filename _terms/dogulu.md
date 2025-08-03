@@ -2,6 +2,7 @@
 layout: term
 title: Doğulu
 slug: dogulu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Doğu ülkelerinden olan (kimse); Şarklı

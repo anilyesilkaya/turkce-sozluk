@@ -2,6 +2,7 @@
 layout: term
 title: cam mozaik
 slug: cam-mozaik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Renkli taş parçaları yerine cam parçalarından yapılan mozaik

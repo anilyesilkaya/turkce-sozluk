@@ -2,6 +2,7 @@
 layout: term
 title: gülünçlük
 slug: guluncluk
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gülünç olma durumu; komiklik

@@ -2,6 +2,7 @@
 layout: term
 title: ihsasırey
 slug: ihsasirey
+letter: I
 lisan: Arapça iḥsās + re´y
 anlamlar:
 - Görüş veya kararı önceden hissettirme, oyu önceden açıklama

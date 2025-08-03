@@ -2,6 +2,7 @@
 layout: term
 title: ellerde gezmek
 slug: ellerde-gezmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - elden ele dolaşmak

@@ -2,6 +2,7 @@
 layout: term
 title: asosyal
 slug: asosyal
+letter: A
 lisan: Fransızca asocial
 anlamlar:
 - Sosyal olmayan

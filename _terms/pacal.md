@@ -2,6 +2,7 @@
 layout: term
 title: paçal
 slug: pacal
+letter: P
 lisan: Türkçe
 anlamlar:
 - Ekmek yapmak için çeşitli tahılların yasaya göre belirlenen gerekli karışım oranı

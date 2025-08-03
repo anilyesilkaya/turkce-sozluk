@@ -2,6 +2,7 @@
 layout: term
 title: tekâsüf
 slug: tekasuf
+letter: T
 lisan: Arapça tekās̱uf
 anlamlar:
 - ► toplanma

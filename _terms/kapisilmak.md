@@ -2,6 +2,7 @@
 layout: term
 title: kapışılmak
 slug: kapisilmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kapışma işi yapılmak

@@ -2,6 +2,7 @@
 layout: term
 title: gözlerinden perde kalkmak
 slug: gozlerinden-perde-kalkmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - gerçekleri görmek

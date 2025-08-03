@@ -2,6 +2,7 @@
 layout: term
 title: polisiye
 slug: polisiye
+letter: P
 lisan: Fransızca policier
 anlamlar:
 - Konusu polisin ilgilendiği alanlarda olan (olay, roman, film vb.)

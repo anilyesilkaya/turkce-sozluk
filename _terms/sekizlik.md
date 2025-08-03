@@ -2,6 +2,7 @@
 layout: term
 title: sekizlik
 slug: sekizlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sekizi bir arada, sekiz tane alabilen

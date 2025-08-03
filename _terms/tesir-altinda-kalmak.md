@@ -2,6 +2,7 @@
 layout: term
 title: tesir altında kalmak
 slug: tesir-altinda-kalmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - etkilenmek

@@ -2,6 +2,7 @@
 layout: term
 title: geceleyebilmek
 slug: geceleyebilmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Geceleme ihtimali veya imkânı bulunmak

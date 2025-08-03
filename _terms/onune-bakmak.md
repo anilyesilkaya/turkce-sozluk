@@ -2,6 +2,7 @@
 layout: term
 title: önüne bakmak
 slug: onune-bakmak
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - utanmak, utancından cevap vermemek

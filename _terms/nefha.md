@@ -2,6 +2,7 @@
 layout: term
 title: nefha
 slug: nefha
+letter: N
 lisan: Arapça nefḥa
 anlamlar:
 - Güzel koku

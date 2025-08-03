@@ -2,6 +2,7 @@
 layout: term
 title: içiş
 slug: icis
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► içim

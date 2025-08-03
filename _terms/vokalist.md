@@ -2,6 +2,7 @@
 layout: term
 title: vokalist
 slug: vokalist
+letter: V
 lisan: Fransızca vocaliste
 anlamlar:
 - Müzik türlerinde solisti arka planda destekleyen kimse

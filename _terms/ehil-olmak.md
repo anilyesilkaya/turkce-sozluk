@@ -2,6 +2,7 @@
 layout: term
 title: ehil olmak
 slug: ehil-olmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - bir işte ustalaşmak, uzman olmak

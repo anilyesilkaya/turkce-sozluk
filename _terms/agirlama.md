@@ -2,6 +2,7 @@
 layout: term
 title: ağırlama
 slug: agirlama
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağırlamak işi; izaz, izzetüikram

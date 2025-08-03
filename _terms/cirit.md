@@ -2,6 +2,7 @@
 layout: term
 title: cirit
 slug: cirit
+letter: C
 lisan: Arapça cerīd
 anlamlar:
 - At koşturup birbirine değnek atarak takım hâlinde oynanan oyun; cirit oyunu, atlı cirit

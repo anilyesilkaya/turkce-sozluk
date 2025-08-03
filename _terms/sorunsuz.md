@@ -2,6 +2,7 @@
 layout: term
 title: sorunsuz
 slug: sorunsuz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sorunu olmayan; meselesiz, problemsiz

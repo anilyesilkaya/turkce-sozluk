@@ -2,6 +2,7 @@
 layout: term
 title: çakılı
 slug: cakili
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çivi, kazık vb. bir şeyle tutturulmuş

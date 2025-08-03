@@ -2,6 +2,7 @@
 layout: term
 title: özgünlük
 slug: ozgunluk
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Özgün olma durumu; orijinalite, orijinallik

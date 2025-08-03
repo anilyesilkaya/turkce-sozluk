@@ -2,6 +2,7 @@
 layout: term
 title: açkılanmak
 slug: ackilanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Açkı yapılmak; perdahlanmak

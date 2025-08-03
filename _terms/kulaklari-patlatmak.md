@@ -2,6 +2,7 @@
 layout: term
 title: kulakları patlatmak
 slug: kulaklari-patlatmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Gürültüyle rahatsız etmek

@@ -2,6 +2,7 @@
 layout: term
 title: uyuklamak
 slug: uyuklamak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Oturduğu yerde hafif uykuya dalmak

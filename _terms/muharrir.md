@@ -2,6 +2,7 @@
 layout: term
 title: muharrir
 slug: muharrir
+letter: M
 lisan: Arapça muḥarrir
 anlamlar:
 - ► yazar

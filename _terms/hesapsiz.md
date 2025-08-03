@@ -2,6 +2,7 @@
 layout: term
 title: hesapsız
 slug: hesapsiz
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hesabı tutulmayan

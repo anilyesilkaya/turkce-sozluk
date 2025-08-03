@@ -2,6 +2,7 @@
 layout: term
 title: şıldır şıldır
 slug: sildir-sildir
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Canlı, parlak (göz)

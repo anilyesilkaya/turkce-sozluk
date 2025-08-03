@@ -2,6 +2,7 @@
 layout: term
 title: fotojenik
 slug: fotojenik
+letter: F
 lisan: Fransızca photogénique
 anlamlar:
 - Işığın bazı cisimler üzerine yaptığı kimyasal etki ile ilgili veya bu etkileri yaratma özelliği taşıyan

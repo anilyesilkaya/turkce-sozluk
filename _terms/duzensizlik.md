@@ -2,6 +2,7 @@
 layout: term
 title: düzensizlik
 slug: duzensizlik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düzensiz olma durumu; ıttıratsızlık, gayrimuntazamlık, gayrinizamilik

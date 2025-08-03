@@ -2,6 +2,7 @@
 layout: term
 title: aftos
 slug: aftos
+letter: A
 lisan: Rumca
 anlamlar:
 - Gönül eğlendirilen kimse

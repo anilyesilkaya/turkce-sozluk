@@ -2,6 +2,7 @@
 layout: term
 title: disiplin
 slug: disiplin
+letter: D
 lisan: Fransızca discipline
 anlamlar:
 - Bir topluluğun, yasalarına ve düzenle ilgili yazılı veya yazısız kurallarına titizlik ve özenle uyması durumu; sıkı düzen, düzence, düzen bağı, inzibat, zapturapt

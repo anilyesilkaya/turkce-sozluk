@@ -2,6 +2,7 @@
 layout: term
 title: fevç
 slug: fevc
+letter: F
 lisan: Arapça fevc
 anlamlar:
 - İnsan kalabalığı

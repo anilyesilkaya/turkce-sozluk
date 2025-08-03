@@ -2,6 +2,7 @@
 layout: term
 title: görgü
 slug: gorgu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bir toplum içinde var olan ve uyulması gereken saygı ve incelik davranışları; terbiye (I)

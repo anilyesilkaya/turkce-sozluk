@@ -2,6 +2,7 @@
 layout: term
 title: izafiyet
 slug: izafiyet
+letter: I
 lisan: Arapça iżāfiyyet
 anlamlar:
 - ► bağıntılılık

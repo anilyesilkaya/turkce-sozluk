@@ -2,6 +2,7 @@
 layout: term
 title: iki eli (birinin) yakasında olmak
 slug: iki-eli-birinin-yakasinda-olmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - kıyamette ondan davacı olmak

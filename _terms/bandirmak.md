@@ -2,6 +2,7 @@
 layout: term
 title: bandırmak
 slug: bandirmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► banmak

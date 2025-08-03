@@ -2,6 +2,7 @@
 layout: term
 title: bağıtlanmak
 slug: bagitlanmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Sözleşme ile sonuçlanmak

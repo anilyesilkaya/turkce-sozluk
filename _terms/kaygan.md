@@ -2,6 +2,7 @@
 layout: term
 title: kaygan
 slug: kaygan
+letter: K
 lisan: Türkçe
 anlamlar:
 - Islak veya düz olduğundan kaydırıcı özelliği bulunan veya üzerinde kayılan; zıypak

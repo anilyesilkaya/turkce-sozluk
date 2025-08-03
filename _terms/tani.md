@@ -2,6 +2,7 @@
 layout: term
 title: tanı
 slug: tani
+letter: T
 lisan: Türkçe
 anlamlar:
 - Hastalığın ne olduğunu araştırıp ortaya koyma; tanılama, teşhis

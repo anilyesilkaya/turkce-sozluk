@@ -2,6 +2,7 @@
 layout: term
 title: ileri götürmek
 slug: ileri-goturmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - bir durum veya davranışta ölçüyü aşmak

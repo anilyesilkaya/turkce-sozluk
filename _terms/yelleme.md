@@ -2,6 +2,7 @@
 layout: term
 title: yelleme
 slug: yelleme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yellemek işi

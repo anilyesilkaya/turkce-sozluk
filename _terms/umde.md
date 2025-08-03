@@ -2,6 +2,7 @@
 layout: term
 title: umde
 slug: umde
+letter: U
 lisan: Arapça ʿumde
 anlamlar:
 - ► ilke

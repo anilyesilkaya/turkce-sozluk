@@ -2,6 +2,7 @@
 layout: term
 title: beynini yormak
 slug: beynini-yormak
+letter: B
 lisan: Türkçe
 anlamlar:
 - aşırı çaba göstererek düşünmek

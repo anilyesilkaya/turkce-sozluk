@@ -2,6 +2,7 @@
 layout: term
 title: öyküleştirme
 slug: oykulestirme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öyküleştirmek işi

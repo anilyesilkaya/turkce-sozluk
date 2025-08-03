@@ -2,6 +2,7 @@
 layout: term
 title: halel vermek
 slug: halel-vermek
+letter: H
 lisan: Türkçe
 anlamlar:
 - bozmak, sarsmak

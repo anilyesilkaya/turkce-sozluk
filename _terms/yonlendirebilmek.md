@@ -2,6 +2,7 @@
 layout: term
 title: yönlendirebilmek
 slug: yonlendirebilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yönlendirme ihtimali veya imkânı bulunmak

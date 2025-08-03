@@ -2,6 +2,7 @@
 layout: term
 title: müşkülat
 slug: muskulat
+letter: M
 lisan: Arapça muşkilāt
 anlamlar:
 - Güçlük, güçlükler, zorluklar

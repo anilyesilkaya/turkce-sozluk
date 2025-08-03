@@ -2,6 +2,7 @@
 layout: term
 title: balyaj yaptırmak
 slug: balyaj-yaptirmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - saça, seyrek olarak ve kalın parçalar hâlinde, saç renginin dışında kızıl, sarı, mavi vb. renk uygulaması yaptırmak

@@ -2,6 +2,7 @@
 layout: term
 title: yakamozlu
 slug: yakamozlu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yakamozu olan

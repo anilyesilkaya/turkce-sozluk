@@ -2,6 +2,7 @@
 layout: term
 title: gözü (veya gözleri) dönmek
 slug: gozu-veya-gozleri-donmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - aşırı bir isteğin, öfkenin etkisiyle ne yaptığını bilmez duruma gelmek

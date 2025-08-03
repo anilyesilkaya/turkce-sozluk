@@ -2,6 +2,7 @@
 layout: term
 title: hizaya gelmek
 slug: hizaya-gelmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - davranışlarını düzeltmek, yola gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: itdirseği
 slug: itdirsegi
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► arpacık

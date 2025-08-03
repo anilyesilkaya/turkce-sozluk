@@ -2,6 +2,7 @@
 layout: term
 title: savaşmak
 slug: savasmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - İki ve daha çok devlet silahlı mücadele etmek; cenkleşmek, muharebe etmek

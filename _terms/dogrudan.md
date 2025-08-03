@@ -2,6 +2,7 @@
 layout: term
 title: doğrudan
 slug: dogrudan
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► aracısız

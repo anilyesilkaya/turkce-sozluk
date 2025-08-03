@@ -2,6 +2,7 @@
 layout: term
 title: geceyi (veya gecesini) gündüze (veya gündüzüne) katmak
 slug: geceyi-veya-gecesini-gunduze-veya-gunduzune-katmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - aralıksız, gece gündüz çalışmak, büyük çaba göstermek

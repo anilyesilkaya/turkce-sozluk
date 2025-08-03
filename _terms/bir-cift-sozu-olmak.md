@@ -2,6 +2,7 @@
 layout: term
 title: bir çift sözü olmak
 slug: bir-cift-sozu-olmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - söyleyecek bir şeyleri bulunmak

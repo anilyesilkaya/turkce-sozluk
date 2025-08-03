@@ -2,6 +2,7 @@
 layout: term
 title: mekanik
 slug: mekanik
+letter: M
 lisan: Fransızca mécanique
 anlamlar:
 - Kuvvetlerin maddeler ve hareketler üzerine etkisini inceleyen fizik dalı

@@ -2,6 +2,7 @@
 layout: term
 title: leşker
 slug: lesker
+letter: L
 lisan: Farsça leşker
 anlamlar:
 - ► asker

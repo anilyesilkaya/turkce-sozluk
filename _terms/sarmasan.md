@@ -2,6 +2,7 @@
 layout: term
 title: sarmaşan
 slug: sarmasan
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► sarılgan

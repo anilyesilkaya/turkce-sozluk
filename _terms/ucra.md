@@ -2,6 +2,7 @@
 layout: term
 title: ücra
 slug: ucra
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Çok uçta, kenarda veya kıyıda köşede olan

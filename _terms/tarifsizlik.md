@@ -2,6 +2,7 @@
 layout: term
 title: tarifsizlik
 slug: tarifsizlik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tarifsiz olma durumu

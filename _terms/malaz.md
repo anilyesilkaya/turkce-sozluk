@@ -2,6 +2,7 @@
 layout: term
 title: malaz
 slug: malaz
+letter: M
 lisan: Türkçe
 anlamlar:
 - Sulak yer

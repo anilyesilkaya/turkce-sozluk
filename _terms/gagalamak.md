@@ -2,6 +2,7 @@
 layout: term
 title: gagalamak
 slug: gagalamak
+letter: G
 lisan: Türkçe
 anlamlar:
 - Kuş, gagasıyla yemi toplamak

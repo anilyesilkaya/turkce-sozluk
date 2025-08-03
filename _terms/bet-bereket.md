@@ -2,6 +2,7 @@
 layout: term
 title: bet bereket
 slug: bet-bereket
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bereket

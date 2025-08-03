@@ -2,6 +2,7 @@
 layout: term
 title: kadife gibi
 slug: kadife-gibi
+letter: K
 lisan: Türkçe
 anlamlar:
 - yumuşak, pürüzsüz ve parlak (ses, ten vb.)

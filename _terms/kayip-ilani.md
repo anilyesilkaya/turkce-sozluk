@@ -2,6 +2,7 @@
 layout: term
 title: 'kayıp ilanı '
 slug: kayip-ilani
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaybolan bir belgenin hükümsüz olduğunu beyan eden, yerine yenisinin çıkarılabilmesi için gerekli olan gazete ilanı; zayi ilanı

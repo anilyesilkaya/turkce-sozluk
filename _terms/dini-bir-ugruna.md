@@ -2,6 +2,7 @@
 layout: term
 title: dini bir uğruna
 slug: dini-bir-ugruna
+letter: D
 lisan: Türkçe
 anlamlar:
 - Müslümanlık için

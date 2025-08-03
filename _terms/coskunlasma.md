@@ -2,6 +2,7 @@
 layout: term
 title: coşkunlaşma
 slug: coskunlasma
+letter: C
 lisan: Türkçe
 anlamlar:
 - Coşkunlaşmak işi

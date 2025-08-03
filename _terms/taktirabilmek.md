@@ -2,6 +2,7 @@
 layout: term
 title: taktırabilmek
 slug: taktirabilmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taktırma ihtimali veya imkânı bulunmak

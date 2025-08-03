@@ -2,6 +2,7 @@
 layout: term
 title: polemik
 slug: polemik
+letter: P
 lisan: Fransızca polémique
 anlamlar:
 - ► söz dalaşı

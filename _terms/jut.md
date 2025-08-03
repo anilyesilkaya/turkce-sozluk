@@ -2,6 +2,7 @@
 layout: term
 title: jüt
 slug: jut
+letter: J
 lisan: Fransızca jute
 anlamlar:
 - Ihlamurgillerden, Hindistan ve Bangladeş'te yetişen, ip ve çuval yapımında kullanılan, liflerinden yararlanılan bir bitki (Corchorus capsularis)

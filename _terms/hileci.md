@@ -2,6 +2,7 @@
 layout: term
 title: hileci
 slug: hileci
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hile yapan, hile karıştıran; aynacı, dolmacı, filmci, oyuncu, hilebaz, hilekâr, kaltaban

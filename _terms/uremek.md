@@ -2,6 +2,7 @@
 layout: term
 title: üremek
 slug: uremek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Canlılar doğup çoğalmak

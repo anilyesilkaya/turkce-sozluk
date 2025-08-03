@@ -2,6 +2,7 @@
 layout: term
 title: kaybetme
 slug: kaybetme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaybetmek işi; yitirme

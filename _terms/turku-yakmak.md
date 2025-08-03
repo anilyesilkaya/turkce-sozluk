@@ -2,6 +2,7 @@
 layout: term
 title: türkü yakmak
 slug: turku-yakmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - belli bir olay karşısında sözleri de kendisine ait olmak üzere türkü bestelemek

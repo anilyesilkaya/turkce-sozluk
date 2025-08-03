@@ -2,6 +2,7 @@
 layout: term
 title: eklektik
 slug: eklektik
+letter: E
 lisan: Fransızca éclectique
 anlamlar:
 - ► seçmeci

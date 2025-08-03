@@ -2,6 +2,7 @@
 layout: term
 title: harem
 slug: harem
+letter: H
 lisan: Arapça ḥarem
 anlamlar:
 - Saray ve konaklarda kadınlara ayrılan bölüm, selamlık karşıtı

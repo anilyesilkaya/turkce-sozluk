@@ -2,6 +2,7 @@
 layout: term
 title: düzenleme
 slug: duzenleme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düzenlemek işi; tertip, organizasyon

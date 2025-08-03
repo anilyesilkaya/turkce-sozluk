@@ -2,6 +2,7 @@
 layout: term
 title: vefasız
 slug: vefasiz
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vefası olmayan, sevgisi çabuk geçen; hakikatsiz, bivefa

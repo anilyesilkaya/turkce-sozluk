@@ -2,6 +2,7 @@
 layout: term
 title: eş dost
 slug: es-dost
+letter: E
 lisan: Türkçe
 anlamlar:
 - Tanıdıklar

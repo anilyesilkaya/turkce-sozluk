@@ -2,6 +2,7 @@
 layout: term
 title: nalbur
 slug: nalbur
+letter: N
 lisan: Arapça naʿl + Farsça -ber
 anlamlar:
 - At nalı yapan demirci

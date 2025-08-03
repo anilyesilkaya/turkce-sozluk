@@ -2,6 +2,7 @@
 layout: term
 title: aculluk
 slug: aculluk
+letter: A
 lisan: Türkçe
 anlamlar:
 - Acul olma durumu

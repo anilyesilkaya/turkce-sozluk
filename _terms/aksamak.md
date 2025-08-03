@@ -2,6 +2,7 @@
 layout: term
 title: aksamak
 slug: aksamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Hafifçe topallamak

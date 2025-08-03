@@ -2,6 +2,7 @@
 layout: term
 title: kıyam
 slug: kiyam
+letter: K
 lisan: Arapça ḳiyām
 anlamlar:
 - İslam inancına göre, ölümden sonra yeniden dirilip ayağa kalkma

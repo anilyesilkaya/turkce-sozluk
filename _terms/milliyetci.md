@@ -2,6 +2,7 @@
 layout: term
 title: milliyetçi
 slug: milliyetci
+letter: M
 lisan: Türkçe
 anlamlar:
 - Milliyet ilkesini benimseyen; ulusçu, ulusalcı, milliyetsever, milliyetperver, nasyonalist

@@ -2,6 +2,7 @@
 layout: term
 title: hâliyle
 slug: haliyle
+letter: H
 lisan: Türkçe
 anlamlar:
 - Olduğu gibi

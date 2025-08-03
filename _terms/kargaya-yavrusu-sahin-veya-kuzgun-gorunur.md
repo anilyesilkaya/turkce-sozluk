@@ -2,6 +2,7 @@
 layout: term
 title: kargaya yavrusu şahin (veya kuzgun) görünür
 slug: kargaya-yavrusu-sahin-veya-kuzgun-gorunur
+letter: K
 lisan: Türkçe
 anlamlar:
 - “sevdiklerimizin kusurlu yönleri de güzel görünür” anlamında kullanılan bir söz

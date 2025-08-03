@@ -2,6 +2,7 @@
 layout: term
 title: gurultu
 slug: gurultu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Guruldama sesi

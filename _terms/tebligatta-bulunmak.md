@@ -2,6 +2,7 @@
 layout: term
 title: tebligatta bulunmak
 slug: tebligatta-bulunmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - bildirim yayımlamak, bildirimden haberdar etmek, bildirim göndermek

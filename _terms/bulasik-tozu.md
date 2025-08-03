@@ -2,6 +2,7 @@
 layout: term
 title: bulaşık tozu
 slug: bulasik-tozu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bulaşıkları yıkamak için kullanılan toz deterjan

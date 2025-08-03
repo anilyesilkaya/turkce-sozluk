@@ -2,6 +2,7 @@
 layout: term
 title: hakkı için
 slug: hakki-icin
+letter: H
 lisan: Türkçe
 anlamlar:
 - kutsal şeyleri anlatan kelimelerden sonra getirilerek ant içmek için söylenen bir söz

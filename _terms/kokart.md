@@ -2,6 +2,7 @@
 layout: term
 title: kokart
 slug: kokart
+letter: K
 lisan: Fransızca cocarde
 anlamlar:
 - Asker şapkalarına takılan ve rengi uluslara göre değişen işaret

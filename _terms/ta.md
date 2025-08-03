@@ -2,6 +2,7 @@
 layout: term
 title: ta
 slug: ta
+letter: T
 lisan: Farsça tā
 anlamlar:
 - Dek, değin, kadar, beri vb. edatlarla birlikte kullanılarak bir fiilin, bir hareketin, bir yerin, bir şeyin başladığı veya sona erdiği noktayı, zaman ve uzaklık bakımından abartmalı bir biçimde anlatan bir söz

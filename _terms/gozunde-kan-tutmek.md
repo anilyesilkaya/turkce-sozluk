@@ -2,6 +2,7 @@
 layout: term
 title: gözünde kan tütmek
 slug: gozunde-kan-tutmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - çok sinirlenmek, öfkelenmek

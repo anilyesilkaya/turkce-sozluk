@@ -2,6 +2,7 @@
 layout: term
 title: ılgıngiller
 slug: ilgingiller
+letter: I
 lisan: Türkçe
 anlamlar:
 - Örnek bitkisi ılgın olan, ayrı taç yapraklı, iki çenekli bitkiler familyası

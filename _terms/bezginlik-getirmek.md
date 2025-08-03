@@ -2,6 +2,7 @@
 layout: term
 title: bezginlik getirmek
 slug: bezginlik-getirmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - bezmek

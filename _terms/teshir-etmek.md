@@ -2,6 +2,7 @@
 layout: term
 title: teşhir etmek
 slug: teshir-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - göstermek

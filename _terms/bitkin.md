@@ -2,6 +2,7 @@
 layout: term
 title: bitkin
 slug: bitkin
+letter: B
 lisan: Türkçe
 anlamlar:
 - Gücü tükenmiş olan, çok yorgun; aygın baygın, bitap

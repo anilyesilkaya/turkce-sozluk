@@ -2,6 +2,7 @@
 layout: term
 title: asfaltlatmak
 slug: asfaltlatmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Asfaltlama işini yaptırmak

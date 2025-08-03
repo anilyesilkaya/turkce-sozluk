@@ -2,6 +2,7 @@
 layout: term
 title: Allah bahtından güldürsün
 slug: allah-bahtindan-guldursun
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir kimseye mutluluk dilemek için söylenen bir söz

@@ -2,6 +2,7 @@
 layout: term
 title: hevessiz
 slug: hevessiz
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► isteksiz

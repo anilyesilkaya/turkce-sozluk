@@ -2,6 +2,7 @@
 layout: term
 title: devriliş
 slug: devrilis
+letter: D
 lisan: Türkçe
 anlamlar:
 - Devrilmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: kütle
 slug: kutle
+letter: K
 lisan: Arapça kutle
 anlamlar:
 - Katı maddelerin büyük parçası

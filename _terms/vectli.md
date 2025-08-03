@@ -2,6 +2,7 @@
 layout: term
 title: vectli
 slug: vectli
+letter: V
 lisan: Türkçe
 anlamlar:
 - ► coşkun

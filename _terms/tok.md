@@ -2,6 +2,7 @@
 layout: term
 title: tok
 slug: tok
+letter: T
 lisan: Türkçe
 anlamlar:
 - Açlığını gidermiş, doymuş, aç karşıtı

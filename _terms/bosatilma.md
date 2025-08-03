@@ -2,6 +2,7 @@
 layout: term
 title: boşatılma
 slug: bosatilma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boşatılmak işi

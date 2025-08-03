@@ -2,6 +2,7 @@
 layout: term
 title: kınalı kuzu
 slug: kinali-kuzu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Genellikle alnına kına yakılmış kuzu veya koyun

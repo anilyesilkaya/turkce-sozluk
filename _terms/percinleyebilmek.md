@@ -2,6 +2,7 @@
 layout: term
 title: perçinleyebilmek
 slug: percinleyebilmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Perçinleme ihtimali veya imkânı bulunmak

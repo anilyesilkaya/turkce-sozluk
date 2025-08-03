@@ -2,6 +2,7 @@
 layout: term
 title: puansız
 slug: puansiz
+letter: P
 lisan: Türkçe
 anlamlar:
 - Üzerinde puan bulunmayan

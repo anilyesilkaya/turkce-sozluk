@@ -2,6 +2,7 @@
 layout: term
 title: vecde kapılmak
 slug: vecde-kapilmak
+letter: V
 lisan: Türkçe
 anlamlar:
 - coşmak, kendinden geçmek

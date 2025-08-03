@@ -2,6 +2,7 @@
 layout: term
 title: dingildemek
 slug: dingildemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Hafifçe sallanmak, yerinden oynamak

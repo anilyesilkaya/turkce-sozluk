@@ -2,6 +2,7 @@
 layout: term
 title: barbarlaşabilmek
 slug: barbarlasabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Barbarlaşma ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: almaşık
 slug: almasik
+letter: A
 lisan: Türkçe
 anlamlar:
 - İki veya daha çok şeyin sıralanmasında karşılıklı değil, aralıklı olarak sağda ve solda yerleşmiş olan

@@ -2,6 +2,7 @@
 layout: term
 title: ana
 slug: ana
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► anne

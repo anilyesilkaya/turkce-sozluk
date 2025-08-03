@@ -2,6 +2,7 @@
 layout: term
 title: çirkinleşmek
 slug: cirkinlesmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çirkin bir duruma gelmek

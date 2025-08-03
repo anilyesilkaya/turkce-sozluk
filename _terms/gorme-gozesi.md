@@ -2,6 +2,7 @@
 layout: term
 title: görme gözesi
 slug: gorme-gozesi
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► görme hücresi

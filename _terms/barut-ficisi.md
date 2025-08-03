@@ -2,6 +2,7 @@
 layout: term
 title: barut fıçısı
 slug: barut-ficisi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Barut koymaya, doldurmaya ve muhafaza etmeye yarayan fıçı

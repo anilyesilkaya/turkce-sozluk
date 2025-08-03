@@ -2,6 +2,7 @@
 layout: term
 title: pençeli
 slug: penceli
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pençesi olan

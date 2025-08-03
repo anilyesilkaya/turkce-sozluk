@@ -2,6 +2,7 @@
 layout: term
 title: muylu
 slug: muylu
+letter: M
 lisan: Türkçe
 anlamlar:
 - Başka bir parça için dönme ekseni görevini yapan, silindir biçiminde parça

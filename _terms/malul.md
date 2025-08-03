@@ -2,6 +2,7 @@
 layout: term
 title: malul
 slug: malul
+letter: M
 lisan: Arapça maʿlūl
 anlamlar:
 - Sakat (kimse); sökel

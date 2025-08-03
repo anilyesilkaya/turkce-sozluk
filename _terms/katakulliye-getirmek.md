@@ -2,6 +2,7 @@
 layout: term
 title: katakulliye getirmek
 slug: katakulliye-getirmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - tuzağa düşürmek

@@ -2,6 +2,7 @@
 layout: term
 title: çirkefleşmek
 slug: cirkeflesmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çirkef durumuna gelmek

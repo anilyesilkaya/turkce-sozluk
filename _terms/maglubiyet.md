@@ -2,6 +2,7 @@
 layout: term
 title: mağlubiyet
 slug: maglubiyet
+letter: M
 lisan: Arapça maġlūbiyyet
 anlamlar:
 - ► yenilgi

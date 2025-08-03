@@ -2,6 +2,7 @@
 layout: term
 title: aşina
 slug: asina
+letter: A
 lisan: Farsça āşinā
 anlamlar:
 - Bildik, tanıdık olan

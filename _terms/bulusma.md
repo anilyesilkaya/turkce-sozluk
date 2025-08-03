@@ -2,6 +2,7 @@
 layout: term
 title: buluşma
 slug: bulusma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Buluşmak işi; telaki

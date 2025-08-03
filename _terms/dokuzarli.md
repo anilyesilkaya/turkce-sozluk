@@ -2,6 +2,7 @@
 layout: term
 title: dokuzarlı
 slug: dokuzarli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dokuzar dokuzar sıralanmış

@@ -2,6 +2,7 @@
 layout: term
 title: yakin
 slug: yakin
+letter: Y
 lisan: Arapça yaḳīn
 anlamlar:
 - Sağlam, kesin bilgi

@@ -2,6 +2,7 @@
 layout: term
 title: alınma
 slug: alinma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alınmak işi

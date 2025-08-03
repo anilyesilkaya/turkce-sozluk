@@ -2,6 +2,7 @@
 layout: term
 title: yarışa girmek
 slug: yarisa-girmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yarışmak

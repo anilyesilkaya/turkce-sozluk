@@ -2,6 +2,7 @@
 layout: term
 title: keyiflenmek
 slug: keyiflenmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Keyifli duruma gelmek

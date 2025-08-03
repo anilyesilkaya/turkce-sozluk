@@ -2,6 +2,7 @@
 layout: term
 title: sanatkâr
 slug: sanatkar
+letter: S
 lisan: Arapça ṣanʿat + Farsça -kār
 anlamlar:
 - ► sanatçı

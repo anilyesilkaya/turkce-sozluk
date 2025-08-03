@@ -2,6 +2,7 @@
 layout: term
 title: formalık
 slug: formalik
+letter: F
 lisan: Türkçe
 anlamlar:
 - Forma yapmak için ayrılmış, forma yapmaya uygun

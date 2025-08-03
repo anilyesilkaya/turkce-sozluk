@@ -2,6 +2,7 @@
 layout: term
 title: tomurcuklanmak
 slug: tomurcuklanmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tomurcuk oluşmak

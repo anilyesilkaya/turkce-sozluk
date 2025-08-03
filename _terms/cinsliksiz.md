@@ -2,6 +2,7 @@
 layout: term
 title: cinsliksiz
 slug: cinsliksiz
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► eşeysiz

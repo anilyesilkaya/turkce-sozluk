@@ -2,6 +2,7 @@
 layout: term
 title: eylemsizlik ilkesi
 slug: eylemsizlik-ilkesi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Bir kuvvet etki etmediği hâlde cismin durması veya düzgün doğrusal bir hareket yapması ilkesi

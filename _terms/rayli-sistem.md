@@ -2,6 +2,7 @@
 layout: term
 title: raylı sistem
 slug: rayli-sistem
+letter: R
 lisan: Türkçe
 anlamlar:
 - Taşıt veya yapıların ray üzerinde hareket etmesini sağlayan sistem

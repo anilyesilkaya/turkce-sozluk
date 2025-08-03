@@ -2,6 +2,7 @@
 layout: term
 title: talepkâr
 slug: talepkar
+letter: T
 lisan: Arapça ṭaleb + Farsça -kār
 anlamlar:
 - ► istekli

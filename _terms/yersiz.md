@@ -2,6 +2,7 @@
 layout: term
 title: yersiz
 slug: yersiz
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Barınacak yeri olmayan

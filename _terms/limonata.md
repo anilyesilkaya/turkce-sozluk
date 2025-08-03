@@ -2,6 +2,7 @@
 layout: term
 title: limonata
 slug: limonata
+letter: L
 lisan: İtalyanca limonada
 anlamlar:
 - Su, şeker ve limon suyundan yapılan şerbet

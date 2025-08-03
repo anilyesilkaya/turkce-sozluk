@@ -2,6 +2,7 @@
 layout: term
 title: ilkyaz
 slug: ilkyaz
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► ilkbahar

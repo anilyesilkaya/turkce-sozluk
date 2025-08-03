@@ -2,6 +2,7 @@
 layout: term
 title: atlayabilmek
 slug: atlayabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Atlama ihtimali veya imkânı bulunmak

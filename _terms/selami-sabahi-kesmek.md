@@ -2,6 +2,7 @@
 layout: term
 title: selamı sabahı kesmek
 slug: selami-sabahi-kesmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - her türlü ilişkisine son vermek

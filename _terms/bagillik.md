@@ -2,6 +2,7 @@
 layout: term
 title: bağıllık
 slug: bagillik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bağıntılılık

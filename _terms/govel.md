@@ -2,6 +2,7 @@
 layout: term
 title: gövel
 slug: govel
+letter: G
 lisan: Türkçe
 anlamlar:
 - Yeşil başlı

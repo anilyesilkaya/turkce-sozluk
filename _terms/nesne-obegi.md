@@ -2,6 +2,7 @@
 layout: term
 title: nesne öbeği
 slug: nesne-obegi
+letter: N
 lisan: Türkçe
 anlamlar:
 - Birden çok kelimeden oluşan, yapı ve anlamındaki bütünlük dolayısıyla cümle içinde tek bir nesne gibi işlem gören söz dizisi; nesne grubu

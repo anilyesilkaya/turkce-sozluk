@@ -2,6 +2,7 @@
 layout: term
 title: öbek
 slug: obek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► küme

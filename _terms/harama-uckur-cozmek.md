@@ -2,6 +2,7 @@
 layout: term
 title: harama uçkur çözmek
 slug: harama-uckur-cozmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - nikâhsız olarak cinsel ilişkide bulunmak

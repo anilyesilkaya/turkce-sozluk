@@ -2,6 +2,7 @@
 layout: term
 title: hâl
 slug: hal
+letter: H
 lisan: Arapça ḥāl
 anlamlar:
 - ► durum

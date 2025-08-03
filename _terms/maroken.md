@@ -2,6 +2,7 @@
 layout: term
 title: maroken
 slug: maroken
+letter: M
 lisan: Fransızca maroquin
 anlamlar:
 - Fas'ta işlenen yumuşak bir tür keçi derisi

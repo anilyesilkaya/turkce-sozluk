@@ -2,6 +2,7 @@
 layout: term
 title: kavas
 slug: kavas
+letter: K
 lisan: Arapça ḳavvās
 anlamlar:
 - Elçilik veya konsolosluklarda görev yapan hizmetli

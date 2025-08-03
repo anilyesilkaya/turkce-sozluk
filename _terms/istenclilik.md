@@ -2,6 +2,7 @@
 layout: term
 title: istençlilik
 slug: istenclilik
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► iradelilik

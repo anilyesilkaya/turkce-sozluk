@@ -2,6 +2,7 @@
 layout: term
 title: içebilme
 slug: icebilme
+letter: I
 lisan: Türkçe
 anlamlar:
 - İçebilmek işi

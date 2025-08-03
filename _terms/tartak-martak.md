@@ -2,6 +2,7 @@
 layout: term
 title: tartak martak
 slug: tartak-martak
+letter: T
 lisan: Türkçe
 anlamlar:
 - '"Kazıp dağıtmak, darmadağın etmek" anlamındaki tartak martak etmek deyiminde geçen bir söz'

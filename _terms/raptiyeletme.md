@@ -2,6 +2,7 @@
 layout: term
 title: raptiyeletme
 slug: raptiyeletme
+letter: R
 lisan: Türkçe
 anlamlar:
 - Raptiyeletmek işi

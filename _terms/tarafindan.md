@@ -2,6 +2,7 @@
 layout: term
 title: tarafından
 slug: tarafindan
+letter: T
 lisan: Türkçe
 anlamlar:
 - '...-ınca'

@@ -2,6 +2,7 @@
 layout: term
 title: ürperiş
 slug: urperis
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Ürpermek işi

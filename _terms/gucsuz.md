@@ -2,6 +2,7 @@
 layout: term
 title: güçsüz
 slug: gucsuz
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gücü olmayan; sökel

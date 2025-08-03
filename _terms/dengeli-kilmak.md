@@ -2,6 +2,7 @@
 layout: term
 title: dengeli kılmak
 slug: dengeli-kilmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - dengeli duruma getirmek

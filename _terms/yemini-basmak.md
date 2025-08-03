@@ -2,6 +2,7 @@
 layout: term
 title: yemini basmak
 slug: yemini-basmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - çabuk ve kuvvetli olarak yemin etmek

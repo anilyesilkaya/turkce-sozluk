@@ -2,6 +2,7 @@
 layout: term
 title: top gibi patlamak
 slug: top-gibi-patlamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - birden gelen şaşırtıcı ve ürkütücü haber duyulmak

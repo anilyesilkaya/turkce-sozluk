@@ -2,6 +2,7 @@
 layout: term
 title: işitme
 slug: isitme
+letter: I
 lisan: Türkçe
 anlamlar:
 - İşitmek işi

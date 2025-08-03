@@ -2,6 +2,7 @@
 layout: term
 title: seçtirebilmek
 slug: sectirebilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Seçtirme ihtimali veya imkânı bulunmak

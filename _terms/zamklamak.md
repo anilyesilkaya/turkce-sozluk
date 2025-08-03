@@ -2,6 +2,7 @@
 layout: term
 title: zamklamak
 slug: zamklamak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zamk sürmek

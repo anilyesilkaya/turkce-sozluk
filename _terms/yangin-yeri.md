@@ -2,6 +2,7 @@
 layout: term
 title: yangın yeri
 slug: yangin-yeri
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yangının meydana geldiği yer

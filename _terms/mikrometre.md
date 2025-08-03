@@ -2,6 +2,7 @@
 layout: term
 title: mikrometre
 slug: mikrometre
+letter: M
 lisan: Fransızca micromètre
 anlamlar:
 - Büyük ölçüde büyütme gücü olan teleskop, mikroskop vb. optik aletlerle incelenen nesnelerin oylumlarını ölçmede kullanılan alet

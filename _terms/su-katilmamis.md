@@ -2,6 +2,7 @@
 layout: term
 title: su katılmamış
 slug: su-katilmamis
+letter: S
 lisan: Türkçe
 anlamlar:
 - kendine özgü olan durumu koruyan, başka bir etkiyle değişmemiş, bozulmamış olan

@@ -2,6 +2,7 @@
 layout: term
 title: elektrikli
 slug: elektrikli
+letter: E
 lisan: Türkçe
 anlamlar:
 - Elektriği olan, elektrik enerjisiyle yüklü olan, elektrikle işleyen

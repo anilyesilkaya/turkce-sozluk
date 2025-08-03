@@ -2,6 +2,7 @@
 layout: term
 title: eleman
 slug: eleman
+letter: E
 lisan: Fransızca élément
 anlamlar:
 - ► öge

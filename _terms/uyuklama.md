@@ -2,6 +2,7 @@
 layout: term
 title: uyuklama
 slug: uyuklama
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyuklamak işi

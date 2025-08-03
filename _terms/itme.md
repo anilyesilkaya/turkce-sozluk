@@ -2,6 +2,7 @@
 layout: term
 title: itme
 slug: itme
+letter: I
 lisan: Türkçe
 anlamlar:
 - İtmek işi

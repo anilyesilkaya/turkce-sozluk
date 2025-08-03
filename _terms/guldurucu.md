@@ -2,6 +2,7 @@
 layout: term
 title: güldürücü
 slug: guldurucu
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► komik

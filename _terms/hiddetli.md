@@ -2,6 +2,7 @@
 layout: term
 title: hiddetli
 slug: hiddetli
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► öfkeli

@@ -2,6 +2,7 @@
 layout: term
 title: gönlünü açmak
 slug: gonlunu-acmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - içini dökmek

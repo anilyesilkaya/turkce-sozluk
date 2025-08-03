@@ -2,6 +2,7 @@
 layout: term
 title: dedikodu çıkarmak
 slug: dedikodu-cikarmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - birisi hakkında dedikodu ortaya atmak

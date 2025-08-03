@@ -2,6 +2,7 @@
 layout: term
 title: beste
 slug: beste
+letter: B
 lisan: Farsça beste
 anlamlar:
 - Bir müzik eserini oluşturan ezgilerin bütünü

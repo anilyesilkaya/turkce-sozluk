@@ -2,6 +2,7 @@
 layout: term
 title: beylerbeyi
 slug: beylerbeyi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Sancak beylerinin başı

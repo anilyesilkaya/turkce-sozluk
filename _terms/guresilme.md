@@ -2,6 +2,7 @@
 layout: term
 title: güreşilme
 slug: guresilme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güreşilmek işi

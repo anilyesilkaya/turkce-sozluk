@@ -2,6 +2,7 @@
 layout: term
 title: veba
 slug: veba
+letter: V
 lisan: Arapça vebāʾ
 anlamlar:
 - Hasta farelerden insana geçen bir mikrobun oluşturduğu bulaşıcı, öldürücü bir hastalık; taun

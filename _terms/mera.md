@@ -2,6 +2,7 @@
 layout: term
 title: mera
 slug: mera
+letter: M
 lisan: Arapça merʿā
 anlamlar:
 - ► otlak

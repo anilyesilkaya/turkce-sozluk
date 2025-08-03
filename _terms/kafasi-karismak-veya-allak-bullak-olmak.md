@@ -2,6 +2,7 @@
 layout: term
 title: kafası karışmak (veya allak bullak olmak)
 slug: kafasi-karismak-veya-allak-bullak-olmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - önceki bilgi ve düşünceleri altüst olmak

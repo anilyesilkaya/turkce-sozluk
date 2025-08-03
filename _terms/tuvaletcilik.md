@@ -2,6 +2,7 @@
 layout: term
 title: tuvaletçilik
 slug: tuvaletcilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tuvaletçi olma durumu

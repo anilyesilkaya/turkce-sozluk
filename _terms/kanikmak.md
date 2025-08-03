@@ -2,6 +2,7 @@
 layout: term
 title: kanıkmak
 slug: kanikmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kanmak, gönlü kanmak

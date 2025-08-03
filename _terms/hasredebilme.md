@@ -2,6 +2,7 @@
 layout: term
 title: hasredebilme
 slug: hasredebilme
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hasredebilmek işi

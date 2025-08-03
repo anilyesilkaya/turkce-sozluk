@@ -2,6 +2,7 @@
 layout: term
 title: günah işlemek
 slug: gunah-islemek
+letter: G
 lisan: Türkçe
 anlamlar:
 - günah sayılan davranışta bulunmak

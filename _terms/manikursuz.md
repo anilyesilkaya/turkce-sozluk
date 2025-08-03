@@ -2,6 +2,7 @@
 layout: term
 title: manikürsüz
 slug: manikursuz
+letter: M
 lisan: Türkçe
 anlamlar:
 - Manikürü olmayan

@@ -2,6 +2,7 @@
 layout: term
 title: dâhi
 slug: dahi
+letter: D
 lisan: Arapça dāhī
 anlamlar:
 - Olağanüstü yeteneği ve yaratıcı gücü olan kimse; deha, öke

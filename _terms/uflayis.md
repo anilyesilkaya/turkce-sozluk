@@ -2,6 +2,7 @@
 layout: term
 title: uflayış
 slug: uflayis
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uflamak işi

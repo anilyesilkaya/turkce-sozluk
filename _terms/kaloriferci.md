@@ -2,6 +2,7 @@
 layout: term
 title: kaloriferci
 slug: kaloriferci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalorifer döşeyen veya onaran kimse

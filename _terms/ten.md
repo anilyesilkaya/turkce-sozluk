@@ -2,6 +2,7 @@
 layout: term
 title: ten
 slug: ten
+letter: T
 lisan: Farsça ten
 anlamlar:
 - İnsan vücudunun dış yüzü; cilt

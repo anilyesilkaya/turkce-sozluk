@@ -2,6 +2,7 @@
 layout: term
 title: numaralanış
 slug: numaralanis
+letter: N
 lisan: Türkçe
 anlamlar:
 - Numaralanmak işi

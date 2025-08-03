@@ -2,6 +2,7 @@
 layout: term
 title: çeteci
 slug: ceteci
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çeteden olan kimse

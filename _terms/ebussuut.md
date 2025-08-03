@@ -2,6 +2,7 @@
 layout: term
 title: Ebussuut
 slug: ebussuut
+letter: E
 lisan: Türkçe
 anlamlar:
 - '"Çok kapalı giyinen kız veya kadın" anlamındaki Ebussuut Efendi''nin gelini gibi ve "eskiye çok bağlı, tutucu" anlamındaki Ebussuut Efendi''nin torunu deyimlerinde geçen bir söz'

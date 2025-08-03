@@ -2,6 +2,7 @@
 layout: term
 title: çeviri yazı
 slug: ceviri-yazi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Sözlü metinlerin ses inceliklerinin ayrıntılı bir biçimde özel işaretlerle yazıya geçirilmesi; transkripsiyon

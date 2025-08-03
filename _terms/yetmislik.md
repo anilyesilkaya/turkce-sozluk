@@ -2,6 +2,7 @@
 layout: term
 title: yetmişlik
 slug: yetmislik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yetmiş tanesi bir arada olan veya içinde aynı şeyden yetmiş tane bulunan

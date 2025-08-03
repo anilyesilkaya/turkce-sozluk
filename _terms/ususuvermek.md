@@ -2,6 +2,7 @@
 layout: term
 title: üşüşüvermek
 slug: ususuvermek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Çabucak üşüşmek

@@ -2,6 +2,7 @@
 layout: term
 title: tezgâh
 slug: tezgah
+letter: T
 lisan: Farsça destgāh
 anlamlar:
 - Genellikle dükkânlarda satıcıların önündeki uzun masa

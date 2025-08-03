@@ -2,6 +2,7 @@
 layout: term
 title: işlemsel
 slug: islemsel
+letter: I
 lisan: Türkçe
 anlamlar:
 - İşlemle ilgili

@@ -2,6 +2,7 @@
 layout: term
 title: katlama
 slug: katlama
+letter: K
 lisan: Türkçe
 anlamlar:
 - Katlamak işi

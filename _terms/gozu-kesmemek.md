@@ -2,6 +2,7 @@
 layout: term
 title: gözü kesmemek
 slug: gozu-kesmemek
+letter: G
 lisan: Türkçe
 anlamlar:
 - bir işi yaparken kendine veya başkalarına güvenmemek

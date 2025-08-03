@@ -2,6 +2,7 @@
 layout: term
 title: gözleri yuvalarından (veya evinden) fırlamak (veya uğramak)
 slug: gozleri-yuvalarindan-veya-evinden-firlamak-veya-ugramak
+letter: G
 lisan: Türkçe
 anlamlar:
 - korku, öfke ve telaşı gözlerinden belli olmak

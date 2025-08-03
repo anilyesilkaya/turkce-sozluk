@@ -2,6 +2,7 @@
 layout: term
 title: ölülük
 slug: oluluk
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Cansız kalma durumu; cansızlık

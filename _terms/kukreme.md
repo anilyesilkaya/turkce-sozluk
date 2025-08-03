@@ -2,6 +2,7 @@
 layout: term
 title: kükreme
 slug: kukreme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kükremek işi

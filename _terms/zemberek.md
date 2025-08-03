@@ -2,6 +2,7 @@
 layout: term
 title: zemberek
 slug: zemberek
+letter: Z
 lisan: Farsça zenbūrek
 anlamlar:
 - Saatlerin çeşitli parçalarını harekete geçiren bölüm; yay

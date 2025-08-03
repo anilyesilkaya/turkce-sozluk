@@ -2,6 +2,7 @@
 layout: term
 title: yaşam düzeyi
 slug: yasam-duzeyi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaşama ve geçinme düzeyi; hayat düzeyi, hayat seviyesi

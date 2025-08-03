@@ -2,6 +2,7 @@
 layout: term
 title: henüz
 slug: henuz
+letter: H
 lisan: Farsça henūz
 anlamlar:
 - Az önce; daha

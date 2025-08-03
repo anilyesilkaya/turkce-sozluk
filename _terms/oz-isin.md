@@ -2,6 +2,7 @@
 layout: term
 title: öz ışın
 slug: oz-isin
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ağaç gövdesinde yatay yönde besin iletimi yapan ve öz kesitte parıltılı görünen hücreler topluluğu

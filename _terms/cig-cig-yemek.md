@@ -2,6 +2,7 @@
 layout: term
 title: çiğ çiğ yemek
 slug: cig-cig-yemek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - bir kimseye parça parça edecek derecede öfke duymak

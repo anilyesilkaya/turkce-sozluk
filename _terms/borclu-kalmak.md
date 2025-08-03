@@ -2,6 +2,7 @@
 layout: term
 title: borçlu kalmak
 slug: borclu-kalmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - alacak verecek hesabında parası yeterli gelmemek

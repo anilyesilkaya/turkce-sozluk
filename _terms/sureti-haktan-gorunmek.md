@@ -2,6 +2,7 @@
 layout: term
 title: sureti haktan görünmek
 slug: sureti-haktan-gorunmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - kendisini iyi niyetli imiş gibi göstermek

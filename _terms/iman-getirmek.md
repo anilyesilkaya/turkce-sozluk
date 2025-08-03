@@ -2,6 +2,7 @@
 layout: term
 title: iman getirmek
 slug: iman-getirmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - gönül rızasıyla Müslümanlığı kabul etmek

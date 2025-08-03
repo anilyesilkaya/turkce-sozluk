@@ -2,6 +2,7 @@
 layout: term
 title: altıntop
 slug: altintop
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► greyfurt

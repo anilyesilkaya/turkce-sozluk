@@ -2,6 +2,7 @@
 layout: term
 title: liberallik
 slug: liberallik
+letter: L
 lisan: Türkçe
 anlamlar:
 - Liberal olma durumu

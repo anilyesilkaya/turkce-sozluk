@@ -2,6 +2,7 @@
 layout: term
 title: ıskarça
 slug: iskarca
+letter: I
 lisan: İtalyanca scarso
 anlamlar:
 - Kalabalık liman

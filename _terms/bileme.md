@@ -2,6 +2,7 @@
 layout: term
 title: bileme
 slug: bileme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilemek işi; bileğileme, bileyleme

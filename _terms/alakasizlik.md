@@ -2,6 +2,7 @@
 layout: term
 title: alakasızlık
 slug: alakasizlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► ilgisizlik

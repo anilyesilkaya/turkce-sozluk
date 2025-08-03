@@ -2,6 +2,7 @@
 layout: term
 title: mağlup etmek
 slug: maglup-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - yenmek

@@ -2,6 +2,7 @@
 layout: term
 title: faydalanma
 slug: faydalanma
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► yararlanma

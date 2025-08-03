@@ -2,6 +2,7 @@
 layout: term
 title: nakaratlı
 slug: nakaratli
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nakaratı olan

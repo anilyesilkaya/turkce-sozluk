@@ -2,6 +2,7 @@
 layout: term
 title: taannüt
 slug: taannut
+letter: T
 lisan: Arapça taʿannud
 anlamlar:
 - Direnme, ayak direme, inat etme

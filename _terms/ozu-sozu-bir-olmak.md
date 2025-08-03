@@ -2,6 +2,7 @@
 layout: term
 title: özü sözü bir (olmak)
 slug: ozu-sozu-bir-olmak
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - söylediği söz ile yaptığı iş veya davranışları örtüşen, tutarlı olan

@@ -2,6 +2,7 @@
 layout: term
 title: biricik
 slug: biricik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Eşi, benzeri olmayan ve çok sevilen; bir tane

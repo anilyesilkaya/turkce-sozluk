@@ -2,6 +2,7 @@
 layout: term
 title: zıngır zıngır
 slug: zingir-zingir
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► zangır zangır

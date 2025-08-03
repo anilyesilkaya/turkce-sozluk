@@ -2,6 +2,7 @@
 layout: term
 title: çitilemek
 slug: citilemek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çitmek

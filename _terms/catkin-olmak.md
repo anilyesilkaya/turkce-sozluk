@@ -2,6 +2,7 @@
 layout: term
 title: çatkın olmak
 slug: catkin-olmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - kendini ağırdan satmak

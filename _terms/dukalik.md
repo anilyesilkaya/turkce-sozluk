@@ -2,6 +2,7 @@
 layout: term
 title: dukalık
 slug: dukalik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir dukanın yönetiminde bulunan ülke

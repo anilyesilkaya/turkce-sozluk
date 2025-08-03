@@ -2,6 +2,7 @@
 layout: term
 title: ağır
 slug: agir
+letter: A
 lisan: Türkçe
 anlamlar:
 - Tartıda çok çeken; kilolu, sakil, hafif karşıtı

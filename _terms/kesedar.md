@@ -2,6 +2,7 @@
 layout: term
 title: kesedar
 slug: kesedar
+letter: K
 lisan: Farsça kīsedār
 anlamlar:
 - Zengin kimselerin parasını yöneten ve gerekli harcamaları yapan kimse; vekilharç

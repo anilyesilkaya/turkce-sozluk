@@ -2,6 +2,7 @@
 layout: term
 title: kaidesizlik
 slug: kaidesizlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kuralsızlık

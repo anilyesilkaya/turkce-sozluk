@@ -2,6 +2,7 @@
 layout: term
 title: boku çıkmak
 slug: boku-cikmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir iş veya durum tatsızlaşmak

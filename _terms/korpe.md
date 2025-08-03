@@ -2,6 +2,7 @@
 layout: term
 title: körpe
 slug: korpe
+letter: K
 lisan: Türkçe
 anlamlar:
 - Dalından yeni koparılmış, tazeliği üstünde, daha büyümemiş (bitki); taze, taravetli, terütaze, kart karşıtı

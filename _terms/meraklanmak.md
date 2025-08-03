@@ -2,6 +2,7 @@
 layout: term
 title: meraklanmak
 slug: meraklanmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - Kaygılanmak, üzülmek, tasalanmak

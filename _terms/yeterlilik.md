@@ -2,6 +2,7 @@
 layout: term
 title: yeterlilik
 slug: yeterlilik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yeterli olma durumu; yeterlik

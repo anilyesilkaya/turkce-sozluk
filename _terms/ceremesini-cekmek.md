@@ -2,6 +2,7 @@
 layout: term
 title: ceremesini çekmek
 slug: ceremesini-cekmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - başkasının yol açtığı zararı ödemek

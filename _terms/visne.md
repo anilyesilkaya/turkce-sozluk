@@ -2,6 +2,7 @@
 layout: term
 title: vişne
 slug: visne
+letter: V
 lisan: Bulgarca
 anlamlar:
 - Gülgillerden, dalları kırmızımtırak, çiçekleri beyaz renkte, kiraza benzer bir ağaç (Cerasus vulgaris)

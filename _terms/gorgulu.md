@@ -2,6 +2,7 @@
 layout: term
 title: görgülü
 slug: gorgulu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Görgüsü olan

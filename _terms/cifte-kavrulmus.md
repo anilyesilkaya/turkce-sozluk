@@ -2,6 +2,7 @@
 layout: term
 title: çifte kavrulmuş
 slug: cifte-kavrulmus
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - İki kez kavrulmuş (leblebi, nohut, çekirdek vb.)

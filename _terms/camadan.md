@@ -2,6 +2,7 @@
 layout: term
 title: camadan
 slug: camadan
+letter: C
 lisan: Farsça cāmedān
 anlamlar:
 - Çapraz düğmeli, ipek veya sırma işlemeli bir tür kısa yelek

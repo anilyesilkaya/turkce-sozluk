@@ -2,6 +2,7 @@
 layout: term
 title: sesini yükseltmek
 slug: sesini-yukseltmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - yüksek, öfkeli bir sesle söylemek

@@ -2,6 +2,7 @@
 layout: term
 title: akçıl
 slug: akcil
+letter: A
 lisan: Türkçe
 anlamlar:
 - Rengi atmış, ağarmış

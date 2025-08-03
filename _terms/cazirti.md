@@ -2,6 +2,7 @@
 layout: term
 title: cazırtı
 slug: cazirti
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cazırdama sırasında çıkan sesin adı

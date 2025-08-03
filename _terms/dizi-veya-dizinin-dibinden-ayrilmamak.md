@@ -2,6 +2,7 @@
 layout: term
 title: dizi (veya dizinin) dibinden ayrılmamak
 slug: dizi-veya-dizinin-dibinden-ayrilmamak
+letter: D
 lisan: Türkçe
 anlamlar:
 - yanından hiç gitmemek, ayrılmamak

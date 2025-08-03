@@ -2,6 +2,7 @@
 layout: term
 title: beyni sulanmak
 slug: beyni-sulanmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - düzgün düşünemez olmak, bunamak

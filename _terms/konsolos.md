@@ -2,6 +2,7 @@
 layout: term
 title: konsolos
 slug: konsolos
+letter: K
 lisan: Rumca
 anlamlar:
 - Yabancı ülkelerde, orada bulunan yurttaşlarının haklarını koruyan, bağlı bulunduğu hükûmete siyasal ve ticari bilgileri veren dış işleri görevlisi; şehbender

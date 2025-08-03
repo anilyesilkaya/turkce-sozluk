@@ -2,6 +2,7 @@
 layout: term
 title: bilim kurgu
 slug: bilim-kurgu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çağdaş bilim verileriyle düş gücünden oluşan (film, roman vb.)

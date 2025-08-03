@@ -2,6 +2,7 @@
 layout: term
 title: kümülatif
 slug: kumulatif
+letter: K
 lisan: Fransızca cumulatif
 anlamlar:
 - ► kümeli

@@ -2,6 +2,7 @@
 layout: term
 title: hanende
 slug: hanende
+letter: H
 lisan: Farsça ḫvānende
 anlamlar:
 - ► şarkıcı

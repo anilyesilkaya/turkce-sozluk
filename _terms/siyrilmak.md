@@ -2,6 +2,7 @@
 layout: term
 title: sıyrılmak
 slug: siyrilmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıyırma işine konu olmak

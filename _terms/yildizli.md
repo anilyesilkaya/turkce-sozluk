@@ -2,6 +2,7 @@
 layout: term
 title: yıldızlı
 slug: yildizli
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Üzerinde yıldız bulunan

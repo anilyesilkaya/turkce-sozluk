@@ -2,6 +2,7 @@
 layout: term
 title: gıyabında
 slug: giyabinda
+letter: G
 lisan: Türkçe
 anlamlar:
 - Kendi yokken, arkasından

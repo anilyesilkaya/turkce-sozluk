@@ -2,6 +2,7 @@
 layout: term
 title: üstsüz başsız
 slug: ustsuz-bassiz
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üstü başı bulunmayan, giysisi olmayan

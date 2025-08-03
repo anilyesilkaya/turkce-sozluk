@@ -2,6 +2,7 @@
 layout: term
 title: şükrolsun
 slug: sukrolsun
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Duyulan hoşnutluğu bildirmek için kullanılan bir söz

@@ -2,6 +2,7 @@
 layout: term
 title: berbat etmek (veya eylemek)
 slug: berbat-etmek-veya-eylemek
+letter: B
 lisan: Türkçe
 anlamlar:
 - kötü duruma getirmek

@@ -2,6 +2,7 @@
 layout: term
 title: taşlı
 slug: tasli
+letter: T
 lisan: Türkçe
 anlamlar:
 - İçinde taş olan, taş karışmış olan (tahıl, bakliyat vb.)

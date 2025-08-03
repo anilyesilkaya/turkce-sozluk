@@ -2,6 +2,7 @@
 layout: term
 title: yem
 slug: yem
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Hayvanlar için saklanan kışlık yiyecek; yeygi

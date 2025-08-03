@@ -2,6 +2,7 @@
 layout: term
 title: butlan
 slug: butlan
+letter: B
 lisan: Arapça buṭlān
 anlamlar:
 - Batıl olma durumu

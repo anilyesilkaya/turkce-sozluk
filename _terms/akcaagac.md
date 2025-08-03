@@ -2,6 +2,7 @@
 layout: term
 title: akçaağaç
 slug: akcaagac
+letter: A
 lisan: Türkçe
 anlamlar:
 - Akçaağaçgillerden, süs ağacı olarak da dikilen, tahtası hafif ve sağlam bir tür ağaç; isfendan (Acer)

@@ -2,6 +2,7 @@
 layout: term
 title: barınılmak
 slug: barinilmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Barınma işi yapılmak

@@ -2,6 +2,7 @@
 layout: term
 title: yol işareti
 slug: yol-isareti
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Trafikte veya yarış yolunda, yolu ve yola ait özellikleri gösteren oklar veya levhalar

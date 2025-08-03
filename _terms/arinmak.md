@@ -2,6 +2,7 @@
 layout: term
 title: arınmak
 slug: arinmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► temizlenmek

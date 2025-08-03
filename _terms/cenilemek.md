@@ -2,6 +2,7 @@
 layout: term
 title: çenilemek
 slug: cenilemek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Canı yanan köpek ağlar gibi acı acı ses çıkarmak

@@ -2,6 +2,7 @@
 layout: term
 title: cemaat
 slug: cemaat
+letter: C
 lisan: Arapça cemāʿat
 anlamlar:
 - Bir araya gelmiş, toplanmış insanlar

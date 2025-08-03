@@ -2,6 +2,7 @@
 layout: term
 title: 'mazeret sınavı '
 slug: mazeret-sinavi
+letter: M
 lisan: Türkçe
 anlamlar:
 - Yükseköğretim kurumlarında yönetim kurulunca kabul edilen haklı ve geçerli bir mazeretten dolayı sınavlara katılamayan öğrenciler için yapılan sınav; engel sınavı, mazeret imtihanı

@@ -2,6 +2,7 @@
 layout: term
 title: diplomasi
 slug: diplomasi
+letter: D
 lisan: Fransızca diplomatie
 anlamlar:
 - Uluslararası ilişkileri düzenleyen antlaşmalar bütünü

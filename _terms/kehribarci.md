@@ -2,6 +2,7 @@
 layout: term
 title: kehribarcı
 slug: kehribarci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kehribardan tespih, ağızlık vb. şeyler yapan veya satan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: kesinkes
 slug: kesinkes
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kesinlikle

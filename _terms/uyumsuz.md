@@ -2,6 +2,7 @@
 layout: term
 title: uyumsuz
 slug: uyumsuz
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyumu olmayan; ahenksiz, imtizaçsız

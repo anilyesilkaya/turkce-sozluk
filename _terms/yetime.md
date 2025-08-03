@@ -2,6 +2,7 @@
 layout: term
 title: yetime
 slug: yetime
+letter: Y
 lisan: Arapça yetįme
 anlamlar:
 - Yetim olan kız

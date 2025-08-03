@@ -2,6 +2,7 @@
 layout: term
 title: bambul otu
 slug: bambul-otu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Sıcak ve ılıman bölgelerde yetişen otsu veya çalı türü bir bitki (Heliotropium)

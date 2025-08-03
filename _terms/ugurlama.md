@@ -2,6 +2,7 @@
 layout: term
 title: uğurlama
 slug: ugurlama
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uğurlamak işi; yolculama, teşyi

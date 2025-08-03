@@ -2,6 +2,7 @@
 layout: term
 title: el birliği
 slug: el-birligi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Bir iş yapmak için birleşme, beraberlik, dayanışma

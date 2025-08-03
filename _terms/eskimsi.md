@@ -2,6 +2,7 @@
 layout: term
 title: eskimsi
 slug: eskimsi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eskiyi andıran, eskiye benzeyen, eski gibi

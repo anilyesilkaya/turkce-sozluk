@@ -2,6 +2,7 @@
 layout: term
 title: asılsız fasılsız
 slug: asilsiz-fasilsiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Doğru olmayan, temelsiz olan, dayanaktan yoksun olan

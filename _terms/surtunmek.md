@@ -2,6 +2,7 @@
 layout: term
 title: sürtünmek
 slug: surtunmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Geçerken değmek, sürünmek

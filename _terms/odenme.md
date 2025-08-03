@@ -2,6 +2,7 @@
 layout: term
 title: ödenme
 slug: odenme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ödenmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: ergime ısısı
 slug: ergime-isisi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Bir katının sıvı durumuna geçmesi için verilmesi gereken ısı

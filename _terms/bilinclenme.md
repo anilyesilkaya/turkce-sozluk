@@ -2,6 +2,7 @@
 layout: term
 title: bilinçlenme
 slug: bilinclenme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilinçlenmek işi; şuurlanma

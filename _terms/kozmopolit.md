@@ -2,6 +2,7 @@
 layout: term
 title: kozmopolit
 slug: kozmopolit
+letter: K
 lisan: Fransızca cosmopolite
 anlamlar:
 - Çeşitli uluslardan kimseleri barındıran, içinde bulunduran

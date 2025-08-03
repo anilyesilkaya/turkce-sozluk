@@ -2,6 +2,7 @@
 layout: term
 title: ekstralık
 slug: ekstralik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ekstra olma durumu

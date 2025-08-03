@@ -2,6 +2,7 @@
 layout: term
 title: Portekizli
 slug: portekizli
+letter: P
 lisan: Türkçe
 anlamlar:
 - Portekiz’de yaşayan halk veya bu halkın soyundan olan kimse

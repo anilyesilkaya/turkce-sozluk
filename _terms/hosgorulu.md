@@ -2,6 +2,7 @@
 layout: term
 title: hoşgörülü
 slug: hosgorulu
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hoşgörüsü olan, hoşgörüyle davranan, hoşgörü sahibi; hoşgörücü, anlayışlı, müsamahalı, müsamahakâr, toleranslı

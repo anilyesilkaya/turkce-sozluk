@@ -2,6 +2,7 @@
 layout: term
 title: tebrik etmek
 slug: tebrik-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - kutlamak

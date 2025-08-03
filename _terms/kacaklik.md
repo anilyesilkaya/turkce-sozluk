@@ -2,6 +2,7 @@
 layout: term
 title: kaçaklık
 slug: kacaklik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaçak olma durumu

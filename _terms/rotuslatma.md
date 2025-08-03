@@ -2,6 +2,7 @@
 layout: term
 title: rötuşlatma
 slug: rotuslatma
+letter: R
 lisan: Türkçe
 anlamlar:
 - Rötuşlatmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: izometri
 slug: izometri
+letter: I
 lisan: Fransızca isométrie
 anlamlar:
 - ► eş ölçüm

@@ -2,6 +2,7 @@
 layout: term
 title: gazelhanlık
 slug: gazelhanlik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gazelhanın yaptığı iş

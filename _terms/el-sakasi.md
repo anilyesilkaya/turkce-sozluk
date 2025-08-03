@@ -2,6 +2,7 @@
 layout: term
 title: el şakası
 slug: el-sakasi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Elle yapılan şaka

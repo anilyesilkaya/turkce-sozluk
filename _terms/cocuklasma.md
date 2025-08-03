@@ -2,6 +2,7 @@
 layout: term
 title: çocuklaşma
 slug: cocuklasma
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çocuklaşmak işi

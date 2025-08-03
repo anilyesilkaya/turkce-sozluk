@@ -2,6 +2,7 @@
 layout: term
 title: zehirli
 slug: zehirli
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zehri olan; ağılı, toksik

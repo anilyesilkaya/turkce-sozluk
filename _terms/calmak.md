@@ -2,6 +2,7 @@
 layout: term
 title: çalmak
 slug: calmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Başkasının malını gizlice almak; hırsızlamak, kaldırmak, tüydürmek, uğrulamak

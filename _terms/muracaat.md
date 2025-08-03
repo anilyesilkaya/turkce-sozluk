@@ -2,6 +2,7 @@
 layout: term
 title: müracaat
 slug: muracaat
+letter: M
 lisan: Arapça murācaʿat
 anlamlar:
 - ► başvuru

@@ -2,6 +2,7 @@
 layout: term
 title: tak tak
 slug: tak-tak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Vurma, çarpma sırasında çıkan ses

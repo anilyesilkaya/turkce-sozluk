@@ -2,6 +2,7 @@
 layout: term
 title: ölü fiyatına
 slug: olu-fiyatina
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► yok pahasına

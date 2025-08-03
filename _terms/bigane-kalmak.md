@@ -2,6 +2,7 @@
 layout: term
 title: bigâne kalmak
 slug: bigane-kalmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - kayıtsız olmak; ilgisiz kalmak

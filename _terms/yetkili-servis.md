@@ -2,6 +2,7 @@
 layout: term
 title: yetkili servis
 slug: yetkili-servis
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Ticari kuruluşların çeşitli bölgelerde kendilerini temsil etmeleri amacıyla görevlendirdikleri işletme

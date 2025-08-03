@@ -2,6 +2,7 @@
 layout: term
 title: sivilde
 slug: sivilde
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bulunulan resmî ortamın dışında

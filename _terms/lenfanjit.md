@@ -2,6 +2,7 @@
 layout: term
 title: lenfanjit
 slug: lenfanjit
+letter: L
 lisan: Fransızca lymphangite
 anlamlar:
 - Lenf iltihaplanması

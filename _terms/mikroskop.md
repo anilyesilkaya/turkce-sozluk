@@ -2,6 +2,7 @@
 layout: term
 title: mikroskop
 slug: mikroskop
+letter: M
 lisan: Fransızca microscope
 anlamlar:
 - Bir mercek düzeneği yardımıyla küçük nesneleri büyütüp daha belirgin duruma getirmeye veya çıplak gözle görülmeyenleri göstermeye yarayan alet

@@ -2,6 +2,7 @@
 layout: term
 title: oyalantı
 slug: oyalanti
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oyalanmak için yapılan şey

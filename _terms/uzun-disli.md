@@ -2,6 +2,7 @@
 layout: term
 title: uzun dişli
 slug: uzun-disli
+letter: U
 lisan: Türkçe
 anlamlar:
 - Açgözlü ve hırslı olan

@@ -2,6 +2,7 @@
 layout: term
 title: kasaplık
 slug: kasaplik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kasap olma durumu; etçilik

@@ -2,6 +2,7 @@
 layout: term
 title: kocalma
 slug: kocalma
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► yaşlanma

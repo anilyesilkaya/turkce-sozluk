@@ -2,6 +2,7 @@
 layout: term
 title: özdeyiş
 slug: ozdeyis
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Bir düşünceyi, bir duyguyu, bir ilkeyi kısa ve kesin bir biçimde anlatan, genellikle kim tarafından söylendiği bilinen özlü söz; vecize, kelamıkibar, aforizm, aforizma, motto

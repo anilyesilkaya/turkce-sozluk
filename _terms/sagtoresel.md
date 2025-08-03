@@ -2,6 +2,7 @@
 layout: term
 title: sağtöresel
 slug: sagtoresel
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► ahlaki

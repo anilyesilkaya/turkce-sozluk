@@ -2,6 +2,7 @@
 layout: term
 title: sülüs
 slug: sulus
+letter: S
 lisan: Arapça s̱uls̱
 anlamlar:
 - Üçte bir

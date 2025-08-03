@@ -2,6 +2,7 @@
 layout: term
 title: kengel
 slug: kengel
+letter: K
 lisan: Farsça kenger
 anlamlar:
 - ► kenger

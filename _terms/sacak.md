@@ -2,6 +2,7 @@
 layout: term
 title: saçak
 slug: sacak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bazı giyim eşyalarında veya döşemeliklerde kumaş kenarlarına dikilen süslü iplikten püskül

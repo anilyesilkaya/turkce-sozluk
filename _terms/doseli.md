@@ -2,6 +2,7 @@
 layout: term
 title: döşeli
 slug: doseli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Döşenmiş olan; mefruş

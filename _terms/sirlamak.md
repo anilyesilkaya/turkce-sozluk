@@ -2,6 +2,7 @@
 layout: term
 title: sırlamak
 slug: sirlamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sır (II) hâline getirmek

@@ -2,6 +2,7 @@
 layout: term
 title: iç salgı bezi
 slug: ic-salgi-bezi
+letter: I
 lisan: Türkçe
 anlamlar:
 - Salgısı bir boşaltım kanalı yerine doğrudan doğruya kana karışan bez

@@ -2,6 +2,7 @@
 layout: term
 title: atıştırabilmek
 slug: atistirabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Atıştırma ihtimali veya imkânı bulunmak

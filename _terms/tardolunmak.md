@@ -2,6 +2,7 @@
 layout: term
 title: tardolunmak
 slug: tardolunmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► savılmak

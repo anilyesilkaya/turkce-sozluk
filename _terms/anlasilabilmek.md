@@ -2,6 +2,7 @@
 layout: term
 title: anlaşılabilmek
 slug: anlasilabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anlaşılma ihtimali veya imkânı bulunmak

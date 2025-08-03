@@ -2,6 +2,7 @@
 layout: term
 title: çocuksulaşma
 slug: cocuksulasma
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çocuksulaşmak durumu

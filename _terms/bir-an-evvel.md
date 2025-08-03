@@ -2,6 +2,7 @@
 layout: term
 title: bir an evvel
 slug: bir-an-evvel
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bir an önce

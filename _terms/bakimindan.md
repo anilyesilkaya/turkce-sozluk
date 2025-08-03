@@ -2,6 +2,7 @@
 layout: term
 title: bakımından
 slug: bakimindan
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bakış veya görüş açısı yönünden, değerlendirme açısından; itibarıyla

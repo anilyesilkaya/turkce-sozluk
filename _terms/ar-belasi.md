@@ -2,6 +2,7 @@
 layout: term
 title: ar belası
 slug: ar-belasi
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► namus belası

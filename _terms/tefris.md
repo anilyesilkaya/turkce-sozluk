@@ -2,6 +2,7 @@
 layout: term
 title: tefriş
 slug: tefris
+letter: T
 lisan: Arapça tefrīş
 anlamlar:
 - Döşeme işi

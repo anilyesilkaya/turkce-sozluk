@@ -2,6 +2,7 @@
 layout: term
 title: peyklik
 slug: peyklik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Peyk olma durumu

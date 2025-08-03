@@ -2,6 +2,7 @@
 layout: term
 title: piyangolu
 slug: piyangolu
+letter: P
 lisan: Türkçe
 anlamlar:
 - Şanslı, talihli kimse

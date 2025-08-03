@@ -2,6 +2,7 @@
 layout: term
 title: meyus
 slug: meyus
+letter: M
 lisan: Arapça meʾyūs
 anlamlar:
 - ► üzgün

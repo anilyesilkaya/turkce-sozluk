@@ -2,6 +2,7 @@
 layout: term
 title: büküm
 slug: bukum
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bükmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: tahriş olmak
 slug: tahris-olmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - zedelenmek

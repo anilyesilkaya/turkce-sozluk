@@ -2,6 +2,7 @@
 layout: term
 title: çok anlamlılık
 slug: cok-anlamlilik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir kelimenin birçok anlam bildirme niteliği

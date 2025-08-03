@@ -2,6 +2,7 @@
 layout: term
 title: idmanlı
 slug: idmanli
+letter: I
 lisan: Türkçe
 anlamlar:
 - Düzenli idman yaparak çeviklik kazanmış olan (kimse); antrenmanlı

@@ -2,6 +2,7 @@
 layout: term
 title: yüzsüzce
 slug: yuzsuzce
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Utanmaz, sıkılmaz bir biçimde

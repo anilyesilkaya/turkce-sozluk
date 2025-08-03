@@ -2,6 +2,7 @@
 layout: term
 title: katır inadı
 slug: katir-inadi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Fazla inatçı olma durumu

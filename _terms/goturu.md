@@ -2,6 +2,7 @@
 layout: term
 title: götürü
 slug: goturu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Fiyatı veya ücreti toptan belirlenen (iş vb.)

@@ -2,6 +2,7 @@
 layout: term
 title: tavşankulağı
 slug: tavsankulagi
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► siklamen

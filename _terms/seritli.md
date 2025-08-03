@@ -2,6 +2,7 @@
 layout: term
 title: şeritli
 slug: seritli
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şeridi olan

@@ -2,6 +2,7 @@
 layout: term
 title: kabaralı
 slug: kabarali
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kabara çakılmış olan

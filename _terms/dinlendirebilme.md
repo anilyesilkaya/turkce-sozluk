@@ -2,6 +2,7 @@
 layout: term
 title: dinlendirebilme
 slug: dinlendirebilme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dinlendirebilmek işi

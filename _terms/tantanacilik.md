@@ -2,6 +2,7 @@
 layout: term
 title: tantanacılık
 slug: tantanacilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tantanacı olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: ölmüş de ağlayanı yok
 slug: olmus-de-aglayani-yok
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - çok kötülüğe uğramış, desteği ve yardım edeni bulunmayan kişi için söylenen bir söz

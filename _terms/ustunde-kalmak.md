@@ -2,6 +2,7 @@
 layout: term
 title: üstünde kalmak
 slug: ustunde-kalmak
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - mal, artırma sonucunda bir kimsenin olmak

@@ -2,6 +2,7 @@
 layout: term
 title: palet
 slug: palet
+letter: P
 lisan: Fransızca palette
 anlamlar:
 - Ressamların boyaları üzerine dizerek fırça ile karıştırdıkları elde tutulan levha

@@ -2,6 +2,7 @@
 layout: term
 title: çocuk oyuncağı
 slug: cocuk-oyuncagi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çocukların oynayıp eğlenmesi için yapılmış oyuncak

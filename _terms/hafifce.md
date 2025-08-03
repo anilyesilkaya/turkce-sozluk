@@ -2,6 +2,7 @@
 layout: term
 title: hafifçe
 slug: hafifce
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hafif olarak, hafif bir biçimde, belli belirsiz

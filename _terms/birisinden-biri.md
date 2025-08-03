@@ -2,6 +2,7 @@
 layout: term
 title: birisinden biri
 slug: birisinden-biri
+letter: B
 lisan: Türkçe
 anlamlar:
 - içlerinden biri, birkaç kişiden herhangi biri

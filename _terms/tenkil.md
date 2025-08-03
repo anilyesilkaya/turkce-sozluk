@@ -2,6 +2,7 @@
 layout: term
 title: tenkil
 slug: tenkil
+letter: T
 lisan: Arapça tenḳīl
 anlamlar:
 - ► uzaklaştırma

@@ -2,6 +2,7 @@
 layout: term
 title: hakkından vazgeçmek
 slug: hakkindan-vazgecmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - hakkını istememek, bağışlamak

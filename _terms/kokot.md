@@ -2,6 +2,7 @@
 layout: term
 title: kokot
 slug: kokot
+letter: K
 lisan: Fransızca cocotte
 anlamlar:
 - ► aşüfte

@@ -2,6 +2,7 @@
 layout: term
 title: dikkatsiz
 slug: dikkatsiz
+letter: D
 lisan: Türkçe
 anlamlar:
 - İşinde dikkatli davranmayan; savruk

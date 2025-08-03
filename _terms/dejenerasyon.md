@@ -2,6 +2,7 @@
 layout: term
 title: dejenerasyon
 slug: dejenerasyon
+letter: D
 lisan: Fransızca dégénération
 anlamlar:
 - ► yozlaşma

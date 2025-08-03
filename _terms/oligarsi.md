@@ -2,6 +2,7 @@
 layout: term
 title: oligarşi
 slug: oligarsi
+letter: O
 lisan: Fransızca oligarchie
 anlamlar:
 - Siyasal gücün birkaç kişilik bir grubun elinde toplandığı yönetim, aristokrasinin daralmış biçimi; takım erki

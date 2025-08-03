@@ -2,6 +2,7 @@
 layout: term
 title: sorumsuzluk
 slug: sorumsuzluk
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sorumsuz olma durumu; mesuliyetsizlik

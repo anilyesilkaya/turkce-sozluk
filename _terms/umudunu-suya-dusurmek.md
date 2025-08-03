@@ -2,6 +2,7 @@
 layout: term
 title: umudunu suya düşürmek
 slug: umudunu-suya-dusurmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - umudunu bitirmek, beklentisini bitirmek

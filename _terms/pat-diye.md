@@ -2,6 +2,7 @@
 layout: term
 title: pat diye
 slug: pat-diye
+letter: P
 lisan: Türkçe
 anlamlar:
 - ansızın

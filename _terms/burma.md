@@ -2,6 +2,7 @@
 layout: term
 title: burma
 slug: burma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Burmak işi

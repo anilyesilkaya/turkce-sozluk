@@ -2,6 +2,7 @@
 layout: term
 title: tutkunluk
 slug: tutkunluk
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tutkun olma durumu; meftuniyet, meftunluk

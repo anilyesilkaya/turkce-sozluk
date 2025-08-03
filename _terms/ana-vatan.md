@@ -2,6 +2,7 @@
 layout: term
 title: ana vatan
 slug: ana-vatan
+letter: A
 lisan: Türkçe
 anlamlar:
 - İlk yurt edinilen yer; ana yurt

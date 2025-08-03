@@ -2,6 +2,7 @@
 layout: term
 title: renk vermek
 slug: renk-vermek
+letter: R
 lisan: Türkçe
 anlamlar:
 - çamaşır rengi solmak

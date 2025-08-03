@@ -2,6 +2,7 @@
 layout: term
 title: entomolojik
 slug: entomolojik
+letter: E
 lisan: Fransızca entomologique
 anlamlar:
 - ► böcek bilimsel

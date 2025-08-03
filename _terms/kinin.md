@@ -2,6 +2,7 @@
 layout: term
 title: kinin
 slug: kinin
+letter: K
 lisan: Fransızca quinine
 anlamlar:
 - Kınakınadan elde edilen ve sıtmanın tedavisinde kullanılan beyaz alkaloit; kinin sülfatı

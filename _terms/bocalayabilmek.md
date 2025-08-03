@@ -2,6 +2,7 @@
 layout: term
 title: bocalayabilmek
 slug: bocalayabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bocalama ihtimali bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: bun
 slug: bun
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► sıkıntı

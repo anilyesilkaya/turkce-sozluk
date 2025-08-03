@@ -2,6 +2,7 @@
 layout: term
 title: doyurucu gelmek
 slug: doyurucu-gelmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - yeterli olmak

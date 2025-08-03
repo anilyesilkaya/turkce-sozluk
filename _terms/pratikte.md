@@ -2,6 +2,7 @@
 layout: term
 title: pratikte
 slug: pratikte
+letter: P
 lisan: Türkçe
 anlamlar:
 - Günlük yaşayışta, uygulamada

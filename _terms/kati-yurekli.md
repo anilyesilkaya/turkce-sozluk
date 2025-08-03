@@ -2,6 +2,7 @@
 layout: term
 title: katı yürekli
 slug: kati-yurekli
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► merhametsiz

@@ -2,6 +2,7 @@
 layout: term
 title: kaynak makinesi
 slug: kaynak-makinesi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaynak yapımında kullanılan makine

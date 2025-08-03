@@ -2,6 +2,7 @@
 layout: term
 title: tanıdık
 slug: tanidik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tanışılıp konuşulan (kimse); bildik, biliş, tanış

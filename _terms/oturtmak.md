@@ -2,6 +2,7 @@
 layout: term
 title: oturtmak
 slug: oturtmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oturma işini yaptırmak

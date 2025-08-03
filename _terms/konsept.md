@@ -2,6 +2,7 @@
 layout: term
 title: konsept
 slug: konsept
+letter: K
 lisan: Fransızca concept
 anlamlar:
 - ► kavram

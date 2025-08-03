@@ -2,6 +2,7 @@
 layout: term
 title: kâr marjı
 slug: kar-marji
+letter: K
 lisan: Türkçe
 anlamlar:
 - Ortaklıkların ürünlerini satışta göz önünde tuttukları kâr oranı

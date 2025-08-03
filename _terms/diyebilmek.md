@@ -2,6 +2,7 @@
 layout: term
 title: diyebilmek
 slug: diyebilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Deme ihtimali veya imkânı bulunmak

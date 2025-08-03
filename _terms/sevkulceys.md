@@ -2,6 +2,7 @@
 layout: term
 title: sevkülceyş
 slug: sevkulceys
+letter: S
 lisan: Arapça sevḳ + ceyş
 anlamlar:
 - ► strateji

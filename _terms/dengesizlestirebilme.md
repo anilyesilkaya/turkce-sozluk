@@ -2,6 +2,7 @@
 layout: term
 title: dengesizleştirebilme
 slug: dengesizlestirebilme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dengesizleştirebilmek işi

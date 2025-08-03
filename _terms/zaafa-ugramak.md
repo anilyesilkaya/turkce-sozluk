@@ -2,6 +2,7 @@
 layout: term
 title: zaafa uğramak
 slug: zaafa-ugramak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - eksikliği, yetersizliği belli olmak

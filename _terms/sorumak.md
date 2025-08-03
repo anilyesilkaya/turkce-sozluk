@@ -2,6 +2,7 @@
 layout: term
 title: sorumak
 slug: sorumak
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► somurmak

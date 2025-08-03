@@ -2,6 +2,7 @@
 layout: term
 title: berbat olmak
 slug: berbat-olmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - kötü duruma gelmek

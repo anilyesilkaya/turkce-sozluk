@@ -2,6 +2,7 @@
 layout: term
 title: talan etmek
 slug: talan-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - yağmalamak, talanlamak

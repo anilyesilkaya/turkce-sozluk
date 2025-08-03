@@ -2,6 +2,7 @@
 layout: term
 title: yaklaşabilmek
 slug: yaklasabilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaklaşma ihtimali veya imkânı bulunmak

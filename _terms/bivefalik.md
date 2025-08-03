@@ -2,6 +2,7 @@
 layout: term
 title: bivefalık
 slug: bivefalik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► vefasızlık

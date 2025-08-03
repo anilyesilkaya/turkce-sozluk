@@ -2,6 +2,7 @@
 layout: term
 title: bombe
 slug: bombe
+letter: B
 lisan: Fransızca bombé
 anlamlar:
 - Çıkıntı yapabilecek biçimde hafif kabarıklık

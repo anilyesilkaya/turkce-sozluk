@@ -2,6 +2,7 @@
 layout: term
 title: cıyırdatmak
 slug: ciyirdatmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cıyırdamasına sebep olmak

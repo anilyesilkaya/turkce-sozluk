@@ -2,6 +2,7 @@
 layout: term
 title: dipsiz doruksuz
 slug: dipsiz-doruksuz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Abartılı olan

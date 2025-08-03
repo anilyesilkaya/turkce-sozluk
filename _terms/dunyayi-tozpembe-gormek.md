@@ -2,6 +2,7 @@
 layout: term
 title: dünyayı tozpembe görmek
 slug: dunyayi-tozpembe-gormek
+letter: D
 lisan: Türkçe
 anlamlar:
 - üzücü durumlara bile iyimser gözle bakmak

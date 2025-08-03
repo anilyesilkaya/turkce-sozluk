@@ -2,6 +2,7 @@
 layout: term
 title: düttürü
 slug: dutturu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dar ve kısa giysi

@@ -2,6 +2,7 @@
 layout: term
 title: liet
 slug: liet
+letter: L
 lisan: Almanca Lied
 anlamlar:
 - ► şarkı

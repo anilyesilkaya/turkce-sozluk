@@ -2,6 +2,7 @@
 layout: term
 title: tayfa
 slug: tayfa
+letter: T
 lisan: Arapça ṭāʾife
 anlamlar:
 - Gemide türlü işlerde çalıştırılan sefer işçisi; uşak

@@ -2,6 +2,7 @@
 layout: term
 title: yükselti
 slug: yukselti
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► tümsek

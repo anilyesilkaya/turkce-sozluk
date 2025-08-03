@@ -2,6 +2,7 @@
 layout: term
 title: tartışmak
 slug: tartismak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir konu üzerinde, birbirine ters olan görüş ve inançları çeşitli deliller ileri sürerek karşılıklı savunmak

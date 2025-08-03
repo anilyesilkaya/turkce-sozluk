@@ -2,6 +2,7 @@
 layout: term
 title: cankurtaran düdüğü
 slug: cankurtaran-dudugu
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► cankurtaran çanı

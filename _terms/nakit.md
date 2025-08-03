@@ -2,6 +2,7 @@
 layout: term
 title: nakit
 slug: nakit
+letter: N
 lisan: Arapça naḳd
 anlamlar:
 - ► para

@@ -2,6 +2,7 @@
 layout: term
 title: ayarlama
 slug: ayarlama
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayarlamak işi; kalibraj

@@ -2,6 +2,7 @@
 layout: term
 title: zerre kadar
 slug: zerre-kadar
+letter: Z
 lisan: Türkçe
 anlamlar:
 - bir parça, çok az

@@ -2,6 +2,7 @@
 layout: term
 title: yoksun olmak
 slug: yoksun-olmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - belli bir şeye, sahip olamamak

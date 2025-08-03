@@ -2,6 +2,7 @@
 layout: term
 title: burusu tutmak (veya tutulmak)
 slug: burusu-tutmak-veya-tutulmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - sancılanmak

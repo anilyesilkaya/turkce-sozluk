@@ -2,6 +2,7 @@
 layout: term
 title: tanıtılmak
 slug: tanitilmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tanıtma işine konu olmak, takdim edilmek

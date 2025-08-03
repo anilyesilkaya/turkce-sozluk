@@ -2,6 +2,7 @@
 layout: term
 title: tabakasız
 slug: tabakasiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tabakası (II) olmayan

@@ -2,6 +2,7 @@
 layout: term
 title: şöyle böyle
 slug: soyle-boyle
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Ne iyi ne kötü, orta derecede; acı tatlı, iyi kötü, berenarı

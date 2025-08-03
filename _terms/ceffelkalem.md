@@ -2,6 +2,7 @@
 layout: term
 title: ceffelkalem
 slug: ceffelkalem
+letter: C
 lisan: Arapça ceff + ḳalem
 anlamlar:
 - Düşünüp taşınmadan

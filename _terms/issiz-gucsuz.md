@@ -2,6 +2,7 @@
 layout: term
 title: işsiz güçsüz
 slug: issiz-gucsuz
+letter: I
 lisan: Türkçe
 anlamlar:
 - Yapacak hiçbir işi olmayan veya iş tutmayan

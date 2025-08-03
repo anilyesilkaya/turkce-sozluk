@@ -2,6 +2,7 @@
 layout: term
 title: açıkçası
 slug: acikcasi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Açık söylemek gerekirse; Türkçesi

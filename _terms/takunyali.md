@@ -2,6 +2,7 @@
 layout: term
 title: takunyalı
 slug: takunyali
+letter: T
 lisan: Türkçe
 anlamlar:
 - Takunyası olan; nalınlı

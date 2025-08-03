@@ -2,6 +2,7 @@
 layout: term
 title: meraklılık
 slug: meraklilik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Meraklı olma durumu

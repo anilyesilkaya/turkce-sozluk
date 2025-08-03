@@ -2,6 +2,7 @@
 layout: term
 title: hadisat
 slug: hadisat
+letter: H
 lisan: Arapça ḥādis̱āt
 anlamlar:
 - Olaylar, hadiseler

@@ -2,6 +2,7 @@
 layout: term
 title: terminoloji
 slug: terminoloji
+letter: T
 lisan: Fransızca terminologie
 anlamlar:
 - ► terimler dizgesi

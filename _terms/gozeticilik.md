@@ -2,6 +2,7 @@
 layout: term
 title: gözeticilik
 slug: gozeticilik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gözeticinin yaptığı iş

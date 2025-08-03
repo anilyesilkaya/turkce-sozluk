@@ -2,6 +2,7 @@
 layout: term
 title: buz beyazı
 slug: buz-beyazi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Buzun rengi

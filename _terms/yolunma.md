@@ -2,6 +2,7 @@
 layout: term
 title: yolunma
 slug: yolunma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yolunmak işi

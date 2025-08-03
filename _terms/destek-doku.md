@@ -2,6 +2,7 @@
 layout: term
 title: destek doku
 slug: destek-doku
+letter: D
 lisan: Türkçe
 anlamlar:
 - Vücutta destek görevi gören bağ, kıkırdak ve kemik dokularına verilen ortak ad

@@ -2,6 +2,7 @@
 layout: term
 title: caka yapmak
 slug: caka-yapmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - gösterişli davranmak

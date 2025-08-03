@@ -2,6 +2,7 @@
 layout: term
 title: muştulamak
 slug: mustulamak
+letter: M
 lisan: Türkçe
 anlamlar:
 - Sevinilecek bir iş, olay vb.nin olduğunu birine haber vermek; müjdelemek

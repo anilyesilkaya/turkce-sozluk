@@ -2,6 +2,7 @@
 layout: term
 title: patır kütür
 slug: patir-kutur
+letter: P
 lisan: Türkçe
 anlamlar:
 - Gürültülü, güçlü bir biçimde, acele ile

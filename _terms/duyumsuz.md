@@ -2,6 +2,7 @@
 layout: term
 title: duyumsuz
 slug: duyumsuz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Duyumu olmayan

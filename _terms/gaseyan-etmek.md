@@ -2,6 +2,7 @@
 layout: term
 title: gaseyan etmek
 slug: gaseyan-etmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - kusmak

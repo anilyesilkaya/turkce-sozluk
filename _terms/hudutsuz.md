@@ -2,6 +2,7 @@
 layout: term
 title: hudutsuz
 slug: hudutsuz
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► sınırsız

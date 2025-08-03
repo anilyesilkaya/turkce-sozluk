@@ -2,6 +2,7 @@
 layout: term
 title: sesçil imla
 slug: sescil-imla
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► sesçil yazım

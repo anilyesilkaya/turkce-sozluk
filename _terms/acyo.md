@@ -2,6 +2,7 @@
 layout: term
 title: acyo
 slug: acyo
+letter: A
 lisan: Fransızca agio
 anlamlar:
 - Herhangi bir paranın gerçek değeriyle sürüm değeri arasında veya bir ticaret senedinin üzerinde yazılı miktar ile indirimden sonraki tutarı arasında doğan fark

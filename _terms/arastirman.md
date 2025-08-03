@@ -2,6 +2,7 @@
 layout: term
 title: araştırman
 slug: arastirman
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► araştırmacı

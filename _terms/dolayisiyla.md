@@ -2,6 +2,7 @@
 layout: term
 title: dolayısıyla
 slug: dolayisiyla
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dolaylı olarak, doğrudan ilgili olmayarak

@@ -2,6 +2,7 @@
 layout: term
 title: kazıklanmak
 slug: kaziklanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir malı değerinden çok pahalıya almak, alışverişte aldatılmak; oyulmak

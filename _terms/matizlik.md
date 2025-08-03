@@ -2,6 +2,7 @@
 layout: term
 title: matizlik
 slug: matizlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► sarhoşluk

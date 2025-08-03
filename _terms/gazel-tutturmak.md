@@ -2,6 +2,7 @@
 layout: term
 title: gazel tutturmak
 slug: gazel-tutturmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - yüksek sesle şarkı veya türkü söylemek

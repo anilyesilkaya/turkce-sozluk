@@ -2,6 +2,7 @@
 layout: term
 title: para yapmak
 slug: para-yapmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - para kazanıp biriktirmek

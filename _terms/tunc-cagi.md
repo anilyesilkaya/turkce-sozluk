@@ -2,6 +2,7 @@
 layout: term
 title: Tunç Çağı
 slug: tunc-cagi
+letter: T
 lisan: Türkçe
 anlamlar:
 - İnsanın tuncu işlemeye başladığı çağ

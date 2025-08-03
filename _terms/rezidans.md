@@ -2,6 +2,7 @@
 layout: term
 title: rezidans
 slug: rezidans
+letter: R
 lisan: Fransızca résidence
 anlamlar:
 - Yüksek devlet görevlileri, elçiler vb.nin oturmalarına ayrılan konut

@@ -2,6 +2,7 @@
 layout: term
 title: psikolojik savaş
 slug: psikolojik-savas
+letter: P
 lisan: Türkçe
 anlamlar:
 - Temeli propagandaya dayanan, düşmanın veya karşı düşünceli grubun savaşma veya direnme gücünü kırmak için tehdit, şantaj, yıldırma vb. psikolojik ögelerin kullanıldığı mücadele türü

@@ -2,6 +2,7 @@
 layout: term
 title: sosyal güvence
 slug: sosyal-guvence
+letter: S
 lisan: Türkçe
 anlamlar:
 - Toplumdaki herkesin yeme, içme, barınma gibi temel ihtiyaçlara ulaşım kaynaklarını güvence altına almak ve bireylerin refahını sağlamak için devlet tarafından alınan tedbirlerin tümü

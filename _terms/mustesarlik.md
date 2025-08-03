@@ -2,6 +2,7 @@
 layout: term
 title: müsteşarlık
 slug: mustesarlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Müsteşar olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: küşade
 slug: kusade
+letter: K
 lisan: Farsça guşāde
 anlamlar:
 - Açılmış olan, açık bulunan

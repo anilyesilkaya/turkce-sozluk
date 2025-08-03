@@ -2,6 +2,7 @@
 layout: term
 title: bonbon
 slug: bonbon
+letter: B
 lisan: Fransızca bonbon
 anlamlar:
 - Şerbet içinde kaynatılarak üzeri şekerle kaplanmış meyve; bonbon şekeri

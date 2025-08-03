@@ -2,6 +2,7 @@
 layout: term
 title: kazıtmak
 slug: kazitmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kazıma işini yaptırmak

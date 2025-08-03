@@ -2,6 +2,7 @@
 layout: term
 title: bulunduruş
 slug: bulundurus
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bulundurmak işi

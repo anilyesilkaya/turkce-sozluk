@@ -2,6 +2,7 @@
 layout: term
 title: naşi
 slug: nasi
+letter: N
 lisan: Arapça nāşī
 anlamlar:
 - ► ötürü

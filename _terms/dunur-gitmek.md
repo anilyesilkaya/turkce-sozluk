@@ -2,6 +2,7 @@
 layout: term
 title: dünür gitmek
 slug: dunur-gitmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - evlenecek kimse için kız istemeye gitmek

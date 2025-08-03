@@ -2,6 +2,7 @@
 layout: term
 title: veriş
 slug: veris
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vermek işi

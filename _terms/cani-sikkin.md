@@ -2,6 +2,7 @@
 layout: term
 title: canı sıkkın
 slug: cani-sikkin
+letter: C
 lisan: Türkçe
 anlamlar:
 - Keyfi kaçmış (kimse)

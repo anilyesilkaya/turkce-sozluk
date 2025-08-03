@@ -2,6 +2,7 @@
 layout: term
 title: havale etmek
 slug: havale-etmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - bir şeyin alınmasını, yapılmasını bir kimseye bırakmak, ısmarlamak, devretmek

@@ -2,6 +2,7 @@
 layout: term
 title: gölge düşürmek
 slug: golge-dusurmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - bir şeyin değerini veya ününü azaltacak işler yapmak

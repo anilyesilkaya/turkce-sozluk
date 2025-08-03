@@ -2,6 +2,7 @@
 layout: term
 title: sakametli
 slug: sakametli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sakameti bulunan

@@ -2,6 +2,7 @@
 layout: term
 title: kavram karmaşası
 slug: kavram-karmasasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Anlaşılmazlık, anlam yetersizliği

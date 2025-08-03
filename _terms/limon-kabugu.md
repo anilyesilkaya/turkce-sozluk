@@ -2,6 +2,7 @@
 layout: term
 title: limon kabuğu
 slug: limon-kabugu
+letter: L
 lisan: Türkçe
 anlamlar:
 - Çeşitli maddelerin yapımında kullanılan; limonu çevreleyen kabuk

@@ -2,6 +2,7 @@
 layout: term
 title: bıyık altından gülmek
 slug: biyik-altindan-gulmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - birinin durumuna belli etmemeye çalışarak alay yollu gülümsemek

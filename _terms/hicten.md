@@ -2,6 +2,7 @@
 layout: term
 title: hiçten
 slug: hicten
+letter: H
 lisan: Türkçe
 anlamlar:
 - Çok değersiz, önemsiz

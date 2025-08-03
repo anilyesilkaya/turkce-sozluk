@@ -2,6 +2,7 @@
 layout: term
 title: karşılanış
 slug: karsilanis
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karşılanmak işi

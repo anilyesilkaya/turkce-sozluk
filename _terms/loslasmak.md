@@ -2,6 +2,7 @@
 layout: term
 title: loşlaşmak
 slug: loslasmak
+letter: L
 lisan: Türkçe
 anlamlar:
 - Loş duruma gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: katmerleşmek
 slug: katmerlesmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Katmerli duruma gelmek

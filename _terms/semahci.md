@@ -2,6 +2,7 @@
 layout: term
 title: semahçı
 slug: semahci
+letter: S
 lisan: Türkçe
 anlamlar:
 - Alevilik ve Bektaşilikte cem törenlerinde semah dönen kimse; pervane

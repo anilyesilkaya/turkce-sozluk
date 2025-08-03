@@ -2,6 +2,7 @@
 layout: term
 title: türdeşlik
 slug: turdeslik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Aynı türden olma durumu

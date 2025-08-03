@@ -2,6 +2,7 @@
 layout: term
 title: resim almak
 slug: resim-almak
+letter: R
 lisan: Türkçe
 anlamlar:
 - bir şeyin resmini yapmak

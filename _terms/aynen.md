@@ -2,6 +2,7 @@
 layout: term
 title: aynen
 slug: aynen
+letter: A
 lisan: Arapça ʿaynen
 anlamlar:
 - Hiçbir değişiklik olmadan, olduğu gibi; aynıyla

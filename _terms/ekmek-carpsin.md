@@ -2,6 +2,7 @@
 layout: term
 title: ekmek çarpsın!
 slug: ekmek-carpsin
+letter: E
 lisan: Türkçe
 anlamlar:
 - karşısındakini inandırmak için edilen yemin

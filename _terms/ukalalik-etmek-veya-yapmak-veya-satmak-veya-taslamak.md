@@ -2,6 +2,7 @@
 layout: term
 title: ukalalık etmek (veya yapmak veya satmak veya taslamak)
 slug: ukalalik-etmek-veya-yapmak-veya-satmak-veya-taslamak
+letter: U
 lisan: Türkçe
 anlamlar:
 - bilgiçlik etmek, ukalaca davranmak

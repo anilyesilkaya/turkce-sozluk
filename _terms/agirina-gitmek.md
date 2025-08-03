@@ -2,6 +2,7 @@
 layout: term
 title: ağırına gitmek
 slug: agirina-gitmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - onuruna dokunmak veya gücüne gitmek

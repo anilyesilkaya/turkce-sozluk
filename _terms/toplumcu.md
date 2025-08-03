@@ -2,6 +2,7 @@
 layout: term
 title: toplumcu
 slug: toplumcu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Toplumculuktan yana olan kimse veya görüş; sosyalist

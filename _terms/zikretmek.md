@@ -2,6 +2,7 @@
 layout: term
 title: zikretmek
 slug: zikretmek
+letter: Z
 lisan: Arapça ẕikr + Türkçe etmek
 anlamlar:
 - Adını söylemek, sözünü söylemek

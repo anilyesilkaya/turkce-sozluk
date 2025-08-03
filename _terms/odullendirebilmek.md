@@ -2,6 +2,7 @@
 layout: term
 title: ödüllendirebilmek
 slug: odullendirebilmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ödüllendirme ihtimali veya imkânı bulunmak

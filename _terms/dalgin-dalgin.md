@@ -2,6 +2,7 @@
 layout: term
 title: dalgın dalgın
 slug: dalgin-dalgin
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çevresiyle ilgilenmeden, düşünceli olarak

@@ -2,6 +2,7 @@
 layout: term
 title: belik
 slug: belik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Saç örgüsünün omuzlardan aşağıya uzanan bölümü; bölük, örgü

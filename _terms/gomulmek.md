@@ -2,6 +2,7 @@
 layout: term
 title: gömülmek
 slug: gomulmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gömme işi yapılmak veya gömme işine konu olmak

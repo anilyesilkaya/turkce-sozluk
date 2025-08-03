@@ -2,6 +2,7 @@
 layout: term
 title: katı
 slug: kati
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► taşlık

@@ -2,6 +2,7 @@
 layout: term
 title: kilometre taşı
 slug: kilometre-tasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kara yollarında üzerinde kilometreleri gösteren dikili taş

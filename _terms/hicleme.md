@@ -2,6 +2,7 @@
 layout: term
 title: hiçleme
 slug: hicleme
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hiçlemek durumu

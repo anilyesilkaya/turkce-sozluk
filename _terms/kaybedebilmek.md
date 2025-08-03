@@ -2,6 +2,7 @@
 layout: term
 title: kaybedebilmek
 slug: kaybedebilmek
+letter: K
 lisan: Arapça ġayb + Türkçe edebilmek
 anlamlar:
 - Kaybetme ihtimali veya imkânı bulunmak

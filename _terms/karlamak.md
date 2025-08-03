@@ -2,6 +2,7 @@
 layout: term
 title: karlamak
 slug: karlamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kar yağmak

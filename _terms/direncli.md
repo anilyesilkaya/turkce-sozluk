@@ -2,6 +2,7 @@
 layout: term
 title: dirençli
 slug: direncli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Direnci olan

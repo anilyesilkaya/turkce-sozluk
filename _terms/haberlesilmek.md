@@ -2,6 +2,7 @@
 layout: term
 title: haberleşilmek
 slug: haberlesilmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - Haberleşme işi yapılmak

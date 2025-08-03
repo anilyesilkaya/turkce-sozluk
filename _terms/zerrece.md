@@ -2,6 +2,7 @@
 layout: term
 title: zerrece
 slug: zerrece
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zerre kadar

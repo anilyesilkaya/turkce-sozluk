@@ -2,6 +2,7 @@
 layout: term
 title: hükümran
 slug: hukumran
+letter: H
 lisan: Arapça ḥukm + Farsça -rān
 anlamlar:
 - ► egemen

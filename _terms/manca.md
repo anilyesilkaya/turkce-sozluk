@@ -2,6 +2,7 @@
 layout: term
 title: manca
 slug: manca
+letter: M
 lisan: İtalyanca mangia
 anlamlar:
 - ► yemek (I)

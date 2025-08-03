@@ -2,6 +2,7 @@
 layout: term
 title: palamarcı
 slug: palamarci
+letter: P
 lisan: Türkçe
 anlamlar:
 - Görevi, yanaşma, kalkma vb. sırasında gemiden verilen palamarı iskeleye, şamandıraya takma, çıkarma olan kimse

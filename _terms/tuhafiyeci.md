@@ -2,6 +2,7 @@
 layout: term
 title: tuhafiyeci
 slug: tuhafiyeci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tuhafiye satan kimse; tuhafçı

@@ -2,6 +2,7 @@
 layout: term
 title: akıllı
 slug: akilli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Doğruyu yanlıştan, iyiyi kötüden ayırt edebilecek durumda olan, edindiği deneyimlerden ders alarak, gerçeği iyi görerek olması gerektiği gibi doğru ve tedbirli hareket edebilen; akil

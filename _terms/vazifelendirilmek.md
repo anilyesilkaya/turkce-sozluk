@@ -2,6 +2,7 @@
 layout: term
 title: vazifelendirilmek
 slug: vazifelendirilmek
+letter: V
 lisan: Türkçe
 anlamlar:
 - ► ödevlendirilmek

@@ -2,6 +2,7 @@
 layout: term
 title: kefalet
 slug: kefalet
+letter: K
 lisan: Arapça kefālet
 anlamlar:
 - Birinin borcunu ödememesi veya verdiği sözü yerine getirmemesi durumunda bütün sorumluluğu üzerine alma durumu; kefillik

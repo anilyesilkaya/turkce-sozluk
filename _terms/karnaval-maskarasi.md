@@ -2,6 +2,7 @@
 layout: term
 title: karnaval maskarası
 slug: karnaval-maskarasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karnavala katılan gülünç giyimli kimse

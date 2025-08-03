@@ -2,6 +2,7 @@
 layout: term
 title: palto
 slug: palto
+letter: P
 lisan: Fransızca paletot
 anlamlar:
 - Diz altından topuğa kadar uzanan, öbür kıyafetlerin üstüne giyilen, kalın kumaştan, kışlık erkek giysisi

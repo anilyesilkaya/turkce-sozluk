@@ -2,6 +2,7 @@
 layout: term
 title: babacık
 slug: babacik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Babalara sevgiyle yaklaşıldığını belirten bir söz

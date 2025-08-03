@@ -2,6 +2,7 @@
 layout: term
 title: havyar kesmek
 slug: havyar-kesmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - çalışmadan vakit geçirmek, vakti boşa harcamak

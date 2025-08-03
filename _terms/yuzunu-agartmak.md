@@ -2,6 +2,7 @@
 layout: term
 title: yüzünü ağartmak
 slug: yuzunu-agartmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - beğenilir iş yapmak, iş ve davranışlarıyla yakınlarının övünmesine sebep olmak

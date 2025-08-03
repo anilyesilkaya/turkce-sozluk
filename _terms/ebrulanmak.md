@@ -2,6 +2,7 @@
 layout: term
 title: ebrulanmak
 slug: ebrulanmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ebru işi yapılmak

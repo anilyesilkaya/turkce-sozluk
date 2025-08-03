@@ -2,6 +2,7 @@
 layout: term
 title: ilişkenli
 slug: iliskenli
+letter: I
 lisan: Türkçe
 anlamlar:
 - İlişken özellik bulunduran

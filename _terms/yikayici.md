@@ -2,6 +2,7 @@
 layout: term
 title: yıkayıcı
 slug: yikayici
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yıkama işini yapan kimse

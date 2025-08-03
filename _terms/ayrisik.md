@@ -2,6 +2,7 @@
 layout: term
 title: ayrışık
 slug: ayrisik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayrışmış olan

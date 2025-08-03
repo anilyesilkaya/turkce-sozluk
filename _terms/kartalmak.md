@@ -2,6 +2,7 @@
 layout: term
 title: kartalmak
 slug: kartalmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yaşlanmak, kartlaşmak

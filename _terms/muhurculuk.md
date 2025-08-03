@@ -2,6 +2,7 @@
 layout: term
 title: mühürcülük
 slug: muhurculuk
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mühürcü olma durumu

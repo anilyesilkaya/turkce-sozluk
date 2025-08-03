@@ -2,6 +2,7 @@
 layout: term
 title: kıran girmek
 slug: kiran-girmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - kısa bir zaman içinde çok sayıda ölmek

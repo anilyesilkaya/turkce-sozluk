@@ -2,6 +2,7 @@
 layout: term
 title: dokunuverme
 slug: dokunuverme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dokunuvermek işi

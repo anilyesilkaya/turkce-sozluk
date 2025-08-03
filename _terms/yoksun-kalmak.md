@@ -2,6 +2,7 @@
 layout: term
 title: yoksun kalmak
 slug: yoksun-kalmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - sahip olunan bir şeyi kaybetmek, kullanamamak

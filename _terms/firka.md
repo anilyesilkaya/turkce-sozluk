@@ -2,6 +2,7 @@
 layout: term
 title: fırka
 slug: firka
+letter: F
 lisan: Arapça firḳa
 anlamlar:
 - İnsan topluluğu

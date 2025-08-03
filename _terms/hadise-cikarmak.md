@@ -2,6 +2,7 @@
 layout: term
 title: hadise çıkarmak
 slug: hadise-cikarmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - olay çıkarmak

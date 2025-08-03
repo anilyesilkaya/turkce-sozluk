@@ -2,6 +2,7 @@
 layout: term
 title: temrin
 slug: temrin
+letter: T
 lisan: Arapça temrīn
 anlamlar:
 - ► alıştırma

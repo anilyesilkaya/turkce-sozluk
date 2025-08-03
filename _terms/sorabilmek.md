@@ -2,6 +2,7 @@
 layout: term
 title: sorabilmek
 slug: sorabilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sorma ihtimali veya imkânı bulunmak

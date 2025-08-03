@@ -2,6 +2,7 @@
 layout: term
 title: ham ervah
 slug: ham-ervah
+letter: H
 lisan: Türkçe
 anlamlar:
 - Yersiz, yakışıksız söz ve davranışları olan kimse

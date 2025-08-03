@@ -2,6 +2,7 @@
 layout: term
 title: büyümüş de küçülmüş
 slug: buyumus-de-kuculmus
+letter: B
 lisan: Türkçe
 anlamlar:
 - konuşması ve davranışları yaşına uymayan, büyüklerinki gibi olan

@@ -2,6 +2,7 @@
 layout: term
 title: çoklukla
 slug: coklukla
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► genellikle

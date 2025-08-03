@@ -2,6 +2,7 @@
 layout: term
 title: marya
 slug: marya
+letter: M
 lisan: Rumca
 anlamlar:
 - Beş yaşından büyük veya damızlık dışı bırakılmış dişi koyun

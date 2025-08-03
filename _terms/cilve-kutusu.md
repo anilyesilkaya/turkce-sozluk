@@ -2,6 +2,7 @@
 layout: term
 title: cilve kutusu
 slug: cilve-kutusu
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► cilveli

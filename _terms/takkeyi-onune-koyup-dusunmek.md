@@ -2,6 +2,7 @@
 layout: term
 title: takkeyi önüne koyup düşünmek
 slug: takkeyi-onune-koyup-dusunmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - uzun ve derin düşünmek

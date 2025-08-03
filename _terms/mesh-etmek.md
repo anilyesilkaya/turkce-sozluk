@@ -2,6 +2,7 @@
 layout: term
 title: mesh etmek
 slug: mesh-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - abdest alırken ıslak eli başa ve meste sürmek

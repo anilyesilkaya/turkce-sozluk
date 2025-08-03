@@ -2,6 +2,7 @@
 layout: term
 title: olçum
 slug: olcum
+letter: O
 lisan: Türkçe
 anlamlar:
 - Hekimlik taslayan kimse

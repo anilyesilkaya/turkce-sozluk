@@ -2,6 +2,7 @@
 layout: term
 title: mevrut
 slug: mevrut
+letter: M
 lisan: Arapça mevrūd
 anlamlar:
 - Gelen, gelmiş

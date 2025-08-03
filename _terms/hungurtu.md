@@ -2,6 +2,7 @@
 layout: term
 title: hüngürtü
 slug: hungurtu
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hüngürdeme sırasında çıkan sesin adı

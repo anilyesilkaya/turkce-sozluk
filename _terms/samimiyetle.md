@@ -2,6 +2,7 @@
 layout: term
 title: samimiyetle
 slug: samimiyetle
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► içtenlikle

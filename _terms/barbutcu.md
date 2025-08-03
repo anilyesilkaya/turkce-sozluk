@@ -2,6 +2,7 @@
 layout: term
 title: barbutçu
 slug: barbutcu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Barbut oynayan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: ihtimalli
 slug: ihtimalli
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► muhtemel

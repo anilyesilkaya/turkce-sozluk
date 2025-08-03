@@ -2,6 +2,7 @@
 layout: term
 title: manasızcasına
 slug: manasizcasina
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► anlamsızca

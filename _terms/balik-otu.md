@@ -2,6 +2,7 @@
 layout: term
 title: balık otu
 slug: balik-otu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Cava ve Malabar'da yetişen, zehirli meyvesiyle balıkları sersemleterek avlamaya yarayan bir bitki (Anamirta)

@@ -2,6 +2,7 @@
 layout: term
 title: vaktinde
 slug: vaktinde
+letter: V
 lisan: Türkçe
 anlamlar:
 - Önceden belirlenen, düşünülen vakitte

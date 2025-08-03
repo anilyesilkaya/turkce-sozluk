@@ -2,6 +2,7 @@
 layout: term
 title: girinti
 slug: girinti
+letter: G
 lisan: Türkçe
 anlamlar:
 - Düz bir yüzeyde bulunan içeri girmiş bölüm

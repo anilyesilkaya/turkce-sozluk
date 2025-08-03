@@ -2,6 +2,7 @@
 layout: term
 title: anal
 slug: anal
+letter: A
 lisan: Fransızca anal
 anlamlar:
 - Anüsle ilgili

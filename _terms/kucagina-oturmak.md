@@ -2,6 +2,7 @@
 layout: term
 title: kucağına oturmak
 slug: kucagina-oturmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - dizlerinin üstüne oturmak

@@ -2,6 +2,7 @@
 layout: term
 title: abide
 slug: abide
+letter: A
 lisan: Arapça ābide
 anlamlar:
 - ► anıt

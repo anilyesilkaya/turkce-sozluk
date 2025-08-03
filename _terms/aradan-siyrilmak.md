@@ -2,6 +2,7 @@
 layout: term
 title: aradan sıyrılmak
 slug: aradan-siyrilmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - kötü bir işten kendini kurtarmak

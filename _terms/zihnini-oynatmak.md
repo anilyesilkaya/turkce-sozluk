@@ -2,6 +2,7 @@
 layout: term
 title: zihnini oynatmak
 slug: zihnini-oynatmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - çıldırmak, delirmek

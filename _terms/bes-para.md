@@ -2,6 +2,7 @@
 layout: term
 title: beş para
 slug: bes-para
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çok az para

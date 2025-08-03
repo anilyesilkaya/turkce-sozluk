@@ -2,6 +2,7 @@
 layout: term
 title: takatsizlik duymak
 slug: takatsizlik-duymak
+letter: T
 lisan: Türkçe
 anlamlar:
 - iş yapabilme, başarabilme gücünün kalmadığı anlamak

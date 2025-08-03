@@ -2,6 +2,7 @@
 layout: term
 title: ad çekimi
 slug: ad-cekimi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Adlara durum ve iyelik eklerinin getirilmesi; isim çekimi

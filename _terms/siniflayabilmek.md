@@ -2,6 +2,7 @@
 layout: term
 title: sınıflayabilmek
 slug: siniflayabilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sınıflama ihtimali veya imkânı bulunmak

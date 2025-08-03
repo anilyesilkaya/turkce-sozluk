@@ -2,6 +2,7 @@
 layout: term
 title: yavaşçacık
 slug: yavascacik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► usulcacık

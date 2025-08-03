@@ -2,6 +2,7 @@
 layout: term
 title: bağlantı borusu
 slug: baglanti-borusu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Katlardaki atık suları toplayıp kolona ileten boru

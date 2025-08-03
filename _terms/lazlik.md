@@ -2,6 +2,7 @@
 layout: term
 title: Lazlık
 slug: lazlik
+letter: L
 lisan: Türkçe
 anlamlar:
 - Laz olma durumu

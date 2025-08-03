@@ -2,6 +2,7 @@
 layout: term
 title: broker
 slug: broker
+letter: B
 lisan: İngilizce broker
 anlamlar:
 - 343 borsa simsarı

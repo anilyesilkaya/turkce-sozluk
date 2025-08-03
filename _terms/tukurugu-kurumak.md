@@ -2,6 +2,7 @@
 layout: term
 title: tükürüğü kurumak
 slug: tukurugu-kurumak
+letter: T
 lisan: Türkçe
 anlamlar:
 - çok konuşmaktan ağzında tükürük kalmamak

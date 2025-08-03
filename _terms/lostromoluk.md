@@ -2,6 +2,7 @@
 layout: term
 title: lostromoluk
 slug: lostromoluk
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lostromonun yaptığı iş

@@ -2,6 +2,7 @@
 layout: term
 title: amaçsızlık
 slug: amacsizlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Amaçsız olma durumu; gayesizlik

@@ -2,6 +2,7 @@
 layout: term
 title: mevkufiyet
 slug: mevkufiyet
+letter: M
 lisan: Arapça mevḳūfiyyet
 anlamlar:
 - ► tutukluluk

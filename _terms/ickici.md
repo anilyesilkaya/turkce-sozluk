@@ -2,6 +2,7 @@
 layout: term
 title: içkici
 slug: ickici
+letter: I
 lisan: Türkçe
 anlamlar:
 - İçki yapan veya satan kimse

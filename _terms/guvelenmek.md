@@ -2,6 +2,7 @@
 layout: term
 title: güvelenmek
 slug: guvelenmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Ahşap, yün, kumaş vb. güve tarafından yenmek

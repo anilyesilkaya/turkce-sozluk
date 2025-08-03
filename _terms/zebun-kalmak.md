@@ -2,6 +2,7 @@
 layout: term
 title: zebun kalmak
 slug: zebun-kalmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - güçsüz, zavallı durumda bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: ortak tümleç
 slug: ortak-tumlec
+letter: O
 lisan: Türkçe
 anlamlar:
 - Birden çok yükleme bağlı olan zarf tümleci, nesne veya dolaylı tümleç

@@ -2,6 +2,7 @@
 layout: term
 title: imdatçı
 slug: imdatci
+letter: I
 lisan: Türkçe
 anlamlar:
 - İmdada gelen, yardıma koşan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: okus pokus
 slug: okus-pokus
+letter: O
 lisan: Türkçe
 anlamlar:
 - Sihirbazların gösterilerini yaparken kullandıkları bir söz

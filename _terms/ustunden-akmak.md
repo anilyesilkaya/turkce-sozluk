@@ -2,6 +2,7 @@
 layout: term
 title: üstünden akmak
 slug: ustunden-akmak
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - bir durumu çok belli olmak

@@ -2,6 +2,7 @@
 layout: term
 title: sergüzeştçilik
 slug: serguzestcilik
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► maceracılık

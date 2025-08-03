@@ -2,6 +2,7 @@
 layout: term
 title: aile ocağı
 slug: aile-ocagi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aile bireylerinin karşılıklı dayanışma, sevgi ve saygı içinde birlikte yaşayıp büyüdüğü ortam

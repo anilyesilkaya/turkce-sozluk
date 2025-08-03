@@ -2,6 +2,7 @@
 layout: term
 title: emlak
 slug: emlak
+letter: E
 lisan: Arapça emlāk
 anlamlar:
 - Ev, arsa, bahçe vb. taşınamayan mal ve mülklerin ortak adı; gayrimenkul

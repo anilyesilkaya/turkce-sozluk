@@ -2,6 +2,7 @@
 layout: term
 title: polislik
 slug: polislik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Polis olma durumu

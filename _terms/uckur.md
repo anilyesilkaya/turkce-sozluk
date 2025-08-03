@@ -2,6 +2,7 @@
 layout: term
 title: uçkur
 slug: uckur
+letter: U
 lisan: Türkçe
 anlamlar:
 - Şalvar veya iç donunun belde durmasını sağlamak için bele gelecek kısımlara geçirilen bağ

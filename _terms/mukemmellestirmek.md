@@ -2,6 +2,7 @@
 layout: term
 title: mükemmelleştirmek
 slug: mukemmellestirmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mükemmel duruma getirmek

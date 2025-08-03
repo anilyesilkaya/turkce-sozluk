@@ -2,6 +2,7 @@
 layout: term
 title: patates sufle
 slug: patates-sufle
+letter: P
 lisan: Türkçe
 anlamlar:
 - Yumurta çırpıldıktan sonra patates ezmesi karıştırılarak kabarıncaya kadar pişirilen yemek

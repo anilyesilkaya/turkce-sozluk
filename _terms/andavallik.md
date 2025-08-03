@@ -2,6 +2,7 @@
 layout: term
 title: andavallık
 slug: andavallik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► andavallılık

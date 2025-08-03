@@ -2,6 +2,7 @@
 layout: term
 title: portmak
 slug: portmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Sıyrılıp kaçmak, kayıp gitmek

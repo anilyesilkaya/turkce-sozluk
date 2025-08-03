@@ -2,6 +2,7 @@
 layout: term
 title: düşmanca
 slug: dusmanca
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düşman gibi, düşmana yakışır; husumetli

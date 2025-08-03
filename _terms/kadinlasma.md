@@ -2,6 +2,7 @@
 layout: term
 title: kadınlaşma
 slug: kadinlasma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kadınlaşmak işi

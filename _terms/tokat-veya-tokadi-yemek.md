@@ -2,6 +2,7 @@
 layout: term
 title: tokat (veya tokadı) yemek
 slug: tokat-veya-tokadi-yemek
+letter: T
 lisan: Türkçe
 anlamlar:
 - kendine tokat vurulmak

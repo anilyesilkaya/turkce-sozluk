@@ -2,6 +2,7 @@
 layout: term
 title: gıllıgışlı olmak
 slug: gilligisli-olmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - gizli amaçlı, inandırıcılıktan uzak bulunmak

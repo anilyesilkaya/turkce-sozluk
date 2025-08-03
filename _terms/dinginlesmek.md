@@ -2,6 +2,7 @@
 layout: term
 title: dinginleşmek
 slug: dinginlesmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dingin duruma gelmek

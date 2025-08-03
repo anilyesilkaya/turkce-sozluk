@@ -2,6 +2,7 @@
 layout: term
 title: tatlıcı
 slug: tatlici
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tatlı yapan veya satan kimse

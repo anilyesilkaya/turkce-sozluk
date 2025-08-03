@@ -2,6 +2,7 @@
 layout: term
 title: tümleyici
 slug: tumleyici
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► bütünleyen

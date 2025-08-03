@@ -2,6 +2,7 @@
 layout: term
 title: ahım şahım olmamak
 slug: ahim-sahim-olmamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - beğenilecek, değer verilecek nitelikte olmamak

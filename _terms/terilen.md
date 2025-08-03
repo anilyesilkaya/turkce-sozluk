@@ -2,6 +2,7 @@
 layout: term
 title: terilen
 slug: terilen
+letter: T
 lisan: İngilizce terylene
 anlamlar:
 - Yapay polyester lifleri veya ipliği; tergal

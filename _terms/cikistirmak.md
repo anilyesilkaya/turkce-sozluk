@@ -2,6 +2,7 @@
 layout: term
 title: çıkıştırmak
 slug: cikistirmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir şeyi gereken miktara ulaştırmak

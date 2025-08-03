@@ -2,6 +2,7 @@
 layout: term
 title: hikâyeleştirmek
 slug: hikayelestirmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hikâye durumuna getirmek

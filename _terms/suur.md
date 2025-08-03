@@ -2,6 +2,7 @@
 layout: term
 title: şuur
 slug: suur
+letter: Ş
 lisan: Arapça şuʿūr
 anlamlar:
 - ► bilinç

@@ -2,6 +2,7 @@
 layout: term
 title: soğutmak
 slug: sogutmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Soğumasını sağlamak, soğumasına sebep olmak

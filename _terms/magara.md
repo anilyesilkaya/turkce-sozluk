@@ -2,6 +2,7 @@
 layout: term
 title: mağara
 slug: magara
+letter: M
 lisan: Arapça maġāre
 anlamlar:
 - Bir yamaca veya kaya içine doğru uzanan, barınak olarak kullanılabilen yer kovuğu; in (I)

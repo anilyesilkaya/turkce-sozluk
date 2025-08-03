@@ -2,6 +2,7 @@
 layout: term
 title: aşar
 slug: asar
+letter: A
 lisan: Arapça aʿşār
 anlamlar:
 - ► öşür

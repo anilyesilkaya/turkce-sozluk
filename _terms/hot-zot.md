@@ -2,6 +2,7 @@
 layout: term
 title: hot zot
 slug: hot-zot
+letter: H
 lisan: Türkçe
 anlamlar:
 - '"Sert ve kötü davranmak" anlamındaki hot zot etmek deyiminde geçen bir söz'

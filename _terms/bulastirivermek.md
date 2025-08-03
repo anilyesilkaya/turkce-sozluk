@@ -2,6 +2,7 @@
 layout: term
 title: bulaştırıvermek
 slug: bulastirivermek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çabucak bulaştırmak

@@ -2,6 +2,7 @@
 layout: term
 title: soldurmak
 slug: soldurmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Solmasına sebep olmak

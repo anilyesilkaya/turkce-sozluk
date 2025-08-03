@@ -2,6 +2,7 @@
 layout: term
 title: rahat
 slug: rahat
+letter: R
 lisan: Arapça rāḥat
 anlamlar:
 - İnsanda üzüntü, sıkıntı, tedirginlik olmama durumu; huzur

@@ -2,6 +2,7 @@
 layout: term
 title: şah
 slug: sah
+letter: Ş
 lisan: Farsça şāḫ
 anlamlar:
 - Yeni sürgün dal

@@ -2,6 +2,7 @@
 layout: term
 title: tekaütlük
 slug: tekautluk
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► emeklilik

@@ -2,6 +2,7 @@
 layout: term
 title: arkadaşlık etmek
 slug: arkadaslik-etmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir işte birlikte bulunmak

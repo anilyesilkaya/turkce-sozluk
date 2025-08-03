@@ -2,6 +2,7 @@
 layout: term
 title: çeşni katmak
 slug: cesni-katmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - değişik bir katkı yapmak

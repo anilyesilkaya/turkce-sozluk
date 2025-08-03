@@ -2,6 +2,7 @@
 layout: term
 title: tekrarlamak
 slug: tekrarlamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir işi bir kez daha yapmak; yinelemek, tazelemek, tekrar etmek

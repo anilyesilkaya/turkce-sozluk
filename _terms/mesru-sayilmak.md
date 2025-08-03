@@ -2,6 +2,7 @@
 layout: term
 title: meşru sayılmak
 slug: mesru-sayilmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - geçerli bulunmak

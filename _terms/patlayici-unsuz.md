@@ -2,6 +2,7 @@
 layout: term
 title: patlayıcı ünsüz
 slug: patlayici-unsuz
+letter: P
 lisan: Türkçe
 anlamlar:
 - 'Akciğerlerden gelen havanın ağız kanalının kapanmasıyla patlama biçiminde dışarı itilmesi sonucu oluşan ünsüz; süreksiz ünsüz: <i>b, p, c, ç, d, t, g, k</i>'

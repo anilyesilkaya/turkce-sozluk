@@ -2,6 +2,7 @@
 layout: term
 title: soy
 slug: soy
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir atadan gelen kimselerin topluluğu; ev, asıl, cins, ırk, nesep, sülale, uruk, kan

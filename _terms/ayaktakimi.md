@@ -2,6 +2,7 @@
 layout: term
 title: ayaktakımı
 slug: ayaktakimi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Görgüsüzlükleri veya bilgisizlikleri dolayısıyla toplum içinde hor görülen kişiler; lümpen, parya

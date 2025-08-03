@@ -2,6 +2,7 @@
 layout: term
 title: contasızlık
 slug: contasizlik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Contasız olma durumu

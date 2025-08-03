@@ -2,6 +2,7 @@
 layout: term
 title: çavuşluk
 slug: cavusluk
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çavuş olma durumu

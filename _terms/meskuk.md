@@ -2,6 +2,7 @@
 layout: term
 title: meşkûk
 slug: meskuk
+letter: M
 lisan: Arapça meşkūk
 anlamlar:
 - Şüphe uyandıran, şüpheli

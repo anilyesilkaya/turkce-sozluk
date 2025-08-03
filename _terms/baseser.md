@@ -2,6 +2,7 @@
 layout: term
 title: başeser
 slug: baseser
+letter: B
 lisan: Türkçe baş + Arapça es̱er
 anlamlar:
 - ► şaheser

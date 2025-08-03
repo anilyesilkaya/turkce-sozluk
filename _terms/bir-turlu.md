@@ -2,6 +2,7 @@
 layout: term
 title: bir türlü
 slug: bir-turlu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Tekrarlı kullanıldığında işin yapılmasının da yapılmamasının da aynı derecede kötü olduğunu belirten bir söz

@@ -2,6 +2,7 @@
 layout: term
 title: voltaj
 slug: voltaj
+letter: V
 lisan: Fransızca voltage
 anlamlar:
 - ► gerilim

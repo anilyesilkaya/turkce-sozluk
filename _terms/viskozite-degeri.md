@@ -2,6 +2,7 @@
 layout: term
 title: viskozite değeri
 slug: viskozite-degeri
+letter: V
 lisan: Türkçe
 anlamlar:
 - Akıcılık ölçeği olarak kullanılan kabın deliğinden 100 santimetreküp sıvının boşalma süresinin saniye olarak miktarı

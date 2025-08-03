@@ -2,6 +2,7 @@
 layout: term
 title: cari ücret
 slug: cari-ucret
+letter: C
 lisan: Türkçe
 anlamlar:
 - İş gücü piyasasında iş gücünün, arz ve talebe göre belirlenen fiyatı

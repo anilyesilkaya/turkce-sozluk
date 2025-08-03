@@ -2,6 +2,7 @@
 layout: term
 title: lüzumsuzca
 slug: luzumsuzca
+letter: L
 lisan: Türkçe
 anlamlar:
 - ► gereksizce

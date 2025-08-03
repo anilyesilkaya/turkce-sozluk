@@ -2,6 +2,7 @@
 layout: term
 title: insaflı
 slug: insafli
+letter: I
 lisan: Türkçe
 anlamlar:
 - İnsafı olan

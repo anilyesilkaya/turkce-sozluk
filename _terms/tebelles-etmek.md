@@ -2,6 +2,7 @@
 layout: term
 title: tebelleş etmek
 slug: tebelles-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - birini veya bir şeyi birinin başına bela etmek

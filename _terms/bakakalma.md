@@ -2,6 +2,7 @@
 layout: term
 title: bakakalma
 slug: bakakalma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bakakalmak işi

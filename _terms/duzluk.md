@@ -2,6 +2,7 @@
 layout: term
 title: düzlük
 slug: duzluk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düz olma durumu

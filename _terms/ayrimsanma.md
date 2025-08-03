@@ -2,6 +2,7 @@
 layout: term
 title: ayrımsanma
 slug: ayrimsanma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayrımsanmak durumu

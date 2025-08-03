@@ -2,6 +2,7 @@
 layout: term
 title: cep
 slug: cep
+letter: C
 lisan: Arapça ceyb
 anlamlar:
 - Genellikle bir şey koymaya yarayan, giysinin belli bir yeri açılarak içine yerleştirilen astardan yapılmış parça

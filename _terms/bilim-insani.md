@@ -2,6 +2,7 @@
 layout: term
 title: bilim insanı
 slug: bilim-insani
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bilim adamı

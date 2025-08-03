@@ -2,6 +2,7 @@
 layout: term
 title: orta yaşlı
 slug: orta-yasli
+letter: O
 lisan: Türkçe
 anlamlar:
 - Ne genç ne de yaşlı olan

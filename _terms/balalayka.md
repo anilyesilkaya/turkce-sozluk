@@ -2,6 +2,7 @@
 layout: term
 title: balalayka
 slug: balalayka
+letter: B
 lisan: Türkçe
 anlamlar:
 - Üç köşeli, üç teli olan Rus çalgısı

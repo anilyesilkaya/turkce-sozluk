@@ -2,6 +2,7 @@
 layout: term
 title: milyonluk
 slug: milyonluk
+letter: M
 lisan: Türkçe
 anlamlar:
 - Niceliği milyonla ölçülen

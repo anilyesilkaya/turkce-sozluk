@@ -2,6 +2,7 @@
 layout: term
 title: kumkuma
 slug: kumkuma
+letter: K
 lisan: Arapça ḳumḳume
 anlamlar:
 - Küçük testi, çömlek

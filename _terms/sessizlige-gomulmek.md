@@ -2,6 +2,7 @@
 layout: term
 title: sessizliğe gömülmek
 slug: sessizlige-gomulmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - sessiz duruma gelmek

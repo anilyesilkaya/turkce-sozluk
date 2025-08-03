@@ -2,6 +2,7 @@
 layout: term
 title: uzlaşmak
 slug: uzlasmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Aralarındaki düşünce veya çıkar ayrılığını, karşılıklı ödünlerle kaldırarak karşılıklı anlaşmak ve mutabık kalmak; uylaşmak

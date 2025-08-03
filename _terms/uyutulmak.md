@@ -2,6 +2,7 @@
 layout: term
 title: uyutulmak
 slug: uyutulmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyutma işine konu olmak

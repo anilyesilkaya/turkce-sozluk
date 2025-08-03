@@ -2,6 +2,7 @@
 layout: term
 title: ispatlanma
 slug: ispatlanma
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► kanıtlanma

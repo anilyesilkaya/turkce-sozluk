@@ -2,6 +2,7 @@
 layout: term
 title: hazımsız
 slug: hazimsiz
+letter: H
 lisan: Türkçe
 anlamlar:
 - Yediklerini kolay sindiremeyen

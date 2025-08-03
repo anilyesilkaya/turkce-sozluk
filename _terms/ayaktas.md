@@ -2,6 +2,7 @@
 layout: term
 title: ayaktaş
 slug: ayaktas
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► omuzdaş

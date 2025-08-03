@@ -2,6 +2,7 @@
 layout: term
 title: çığralık
 slug: cigralik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Karda kürekle, dallarla açılan dar yol

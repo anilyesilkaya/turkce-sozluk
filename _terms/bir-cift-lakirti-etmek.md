@@ -2,6 +2,7 @@
 layout: term
 title: bir çift lakırtı etmek
 slug: bir-cift-lakirti-etmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - kısa konuşmak

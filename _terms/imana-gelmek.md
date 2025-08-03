@@ -2,6 +2,7 @@
 layout: term
 title: imana gelmek
 slug: imana-gelmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Müslümanlığı kabul etmek

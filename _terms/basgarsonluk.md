@@ -2,6 +2,7 @@
 layout: term
 title: başgarsonluk
 slug: basgarsonluk
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► şef garsonluk

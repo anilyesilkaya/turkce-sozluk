@@ -2,6 +2,7 @@
 layout: term
 title: baklalı
 slug: baklali
+letter: B
 lisan: Türkçe
 anlamlar:
 - Baklası olan

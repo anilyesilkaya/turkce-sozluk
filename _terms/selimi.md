@@ -2,6 +2,7 @@
 layout: term
 title: selimî
 slug: selimi
+letter: S
 lisan: 'Arapça sel<span style="color: orange;background-color: rgb(240,240,240);font-size: 14.6667;font-family: times turkish transcription", "serif;">Į</span>m<span style="color: orange;background-color: rgb(240,240,240);font-size: 14.6667;font-family: times turkish transcription", "serif;">Į</span>'
 anlamlar:
 - Padişah, sadrazam, vezir vb. devlet erkânının giydiği, üzerine beyaz tülbent sarılan, tepesi düz, üst kısmı daha geniş kavuk

@@ -2,6 +2,7 @@
 layout: term
 title: soyundurma
 slug: soyundurma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Soyundurmak işi

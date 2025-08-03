@@ -2,6 +2,7 @@
 layout: term
 title: sadak
 slug: sadak
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► okluk

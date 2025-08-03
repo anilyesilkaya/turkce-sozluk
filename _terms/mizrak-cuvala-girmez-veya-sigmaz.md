@@ -2,6 +2,7 @@
 layout: term
 title: mızrak çuvala girmez (veya sığmaz)
 slug: mizrak-cuvala-girmez-veya-sigmaz
+letter: M
 lisan: Türkçe
 anlamlar:
 - gizli tutulması imkânsız durumlar karşısında söylenen bir söz

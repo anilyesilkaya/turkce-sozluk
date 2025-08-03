@@ -2,6 +2,7 @@
 layout: term
 title: 'keskin zekâlı '
 slug: keskin-zekali
+letter: K
 lisan: Türkçe
 anlamlar:
 - Zekâ düzeyi yüksek (kimse)

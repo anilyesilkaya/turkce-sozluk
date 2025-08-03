@@ -2,6 +2,7 @@
 layout: term
 title: sırıtkanlık
 slug: siritkanlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sırıtkan olma durumu

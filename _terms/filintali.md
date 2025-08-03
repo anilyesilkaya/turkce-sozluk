@@ -2,6 +2,7 @@
 layout: term
 title: filintalı
 slug: filintali
+letter: F
 lisan: Türkçe
 anlamlar:
 - Filintası olan

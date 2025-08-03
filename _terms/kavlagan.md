@@ -2,6 +2,7 @@
 layout: term
 title: kavlağan
 slug: kavlagan
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çınar ağacı

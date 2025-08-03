@@ -2,6 +2,7 @@
 layout: term
 title: kayrak
 slug: kayrak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Ekime elverişli olmayan, taşlı, kumlu toprak

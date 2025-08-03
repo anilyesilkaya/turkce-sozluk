@@ -2,6 +2,7 @@
 layout: term
 title: diyatome
 slug: diyatome
+letter: D
 lisan: Fransızca diatomées
 anlamlar:
 - Silisli sert kabukları olan ve fosilleri, kalın yer katmanları oluşturan bir algler familyası

@@ -2,6 +2,7 @@
 layout: term
 title: alüfte
 slug: alufte
+letter: A
 lisan: Farsça ālufte
 anlamlar:
 - İffetsiz, oynak, cilveli (kadın)

@@ -2,6 +2,7 @@
 layout: term
 title: falsosuz
 slug: falsosuz
+letter: F
 lisan: Türkçe
 anlamlar:
 - Hatasız, kusursuz olan

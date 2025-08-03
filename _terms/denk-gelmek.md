@@ -2,6 +2,7 @@
 layout: term
 title: denk gelmek
 slug: denk-gelmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - uygun düşmek, uygun gelmek

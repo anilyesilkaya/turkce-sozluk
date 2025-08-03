@@ -2,6 +2,7 @@
 layout: term
 title: kornetçi
 slug: kornetci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kornet çalan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: belirtmek
 slug: belirtmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belirli duruma getirmek, açıklığa kavuşturmak; tebarüz ettirmek

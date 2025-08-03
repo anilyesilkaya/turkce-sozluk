@@ -2,6 +2,7 @@
 layout: term
 title: içi açılmak
 slug: ici-acilmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - güzel bir şey karşısında sıkıntısı dağılmak, ferahlamak

@@ -2,6 +2,7 @@
 layout: term
 title: yeygi
 slug: yeygi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yem

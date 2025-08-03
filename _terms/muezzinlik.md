@@ -2,6 +2,7 @@
 layout: term
 title: müezzinlik
 slug: muezzinlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Müezzin olma durumu; ezancılık

@@ -2,6 +2,7 @@
 layout: term
 title: vecde gelmek
 slug: vecde-gelmek
+letter: V
 lisan: Türkçe
 anlamlar:
 - kendinden geçecek kadar coşmak, bir şey karşısında sonsuz heyecan duymak, esrimek

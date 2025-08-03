@@ -2,6 +2,7 @@
 layout: term
 title: ipi (birinin) eline geçmek
 slug: ipi-birinin-eline-gecmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - yönetimi başkasının eline geçmek, kontrolü başkasının elinde bulunmak

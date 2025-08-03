@@ -2,6 +2,7 @@
 layout: term
 title: günlük defter
 slug: gunluk-defter
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bir işletmenin yaptığı işleri günü gününe geçirdiği defter; yevmiye defteri

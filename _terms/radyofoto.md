@@ -2,6 +2,7 @@
 layout: term
 title: radyofoto
 slug: radyofoto
+letter: R
 lisan: Fransızca radiophoto
 anlamlar:
 - Fotoğraf, yazı vb. görüntülerin radyo dalgalarıyla uzaktan iletilmesini sağlayan sistem

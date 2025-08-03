@@ -2,6 +2,7 @@
 layout: term
 title: diline sağlam olmak
 slug: diline-saglam-olmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - saklanacak konuları açığa vurmamak

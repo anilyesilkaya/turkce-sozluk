@@ -2,6 +2,7 @@
 layout: term
 title: otorite
 slug: otorite
+letter: O
 lisan: Fransızca autorité
 anlamlar:
 - Yaptırma, yasak etme, emretme, itaat ettirme hakkı veya gücü; yetke, sulta, velayet

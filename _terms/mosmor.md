@@ -2,6 +2,7 @@
 layout: term
 title: mosmor
 slug: mosmor
+letter: M
 lisan: Türkçe
 anlamlar:
 - Her yanı mor, koyu mor

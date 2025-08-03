@@ -2,6 +2,7 @@
 layout: term
 title: hoşur
 slug: hosur
+letter: H
 lisan: Ermenice
 anlamlar:
 - Bir inceliği ve albenisi olmayan

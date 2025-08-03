@@ -2,6 +2,7 @@
 layout: term
 title: miskinler tekkesi
 slug: miskinler-tekkesi
+letter: M
 lisan: Türkçe
 anlamlar:
 - Miskin hastalığına tutulanların barındırıldığı yer; miskinhane

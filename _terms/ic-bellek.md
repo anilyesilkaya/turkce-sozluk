@@ -2,6 +2,7 @@
 layout: term
 title: iç bellek
 slug: ic-bellek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bilgisayarın giriş çıkış kanalları kullanılmaksızın erişebildiği bellek

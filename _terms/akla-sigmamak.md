@@ -2,6 +2,7 @@
 layout: term
 title: akla sığmamak
 slug: akla-sigmamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - inanılacak gibi olmamak, akla uygun gelmemek

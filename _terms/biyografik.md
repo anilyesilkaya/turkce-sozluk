@@ -2,6 +2,7 @@
 layout: term
 title: biyografik
 slug: biyografik
+letter: B
 lisan: Fransızca biographique
 anlamlar:
 - Biyografi ile ilgili

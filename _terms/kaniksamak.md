@@ -2,6 +2,7 @@
 layout: term
 title: kanıksamak
 slug: kaniksamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çok tekrarlama sebebiyle yadırgamaz olmak; alışmak

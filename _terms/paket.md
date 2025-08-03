@@ -2,6 +2,7 @@
 layout: term
 title: paket
 slug: paket
+letter: P
 lisan: Fransızca paquet
 anlamlar:
 - İçinde bir veya birçok şey bulunan, kâğıda sarılarak veya kutuya konularak bağlanmış, elde taşınacak büyüklükte nesne

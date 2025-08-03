@@ -2,6 +2,7 @@
 layout: term
 title: rafting
 slug: rafting
+letter: R
 lisan: İngilizce rafting
 anlamlar:
 - 343 sal yarışı

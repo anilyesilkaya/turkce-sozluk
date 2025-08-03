@@ -2,6 +2,7 @@
 layout: term
 title: sıkı sıkıya
 slug: siki-sikiya
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► sımsıkı

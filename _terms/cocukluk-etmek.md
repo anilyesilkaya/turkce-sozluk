@@ -2,6 +2,7 @@
 layout: term
 title: çocukluk etmek
 slug: cocukluk-etmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - çocukça davranışlarda bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: üçlemek
 slug: uclemek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üçe çıkarmak

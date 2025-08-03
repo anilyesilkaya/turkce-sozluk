@@ -2,6 +2,7 @@
 layout: term
 title: ciğer
 slug: ciger
+letter: C
 lisan: Farsça ciger
 anlamlar:
 - Akciğerlerle karaciğerin ortak adı

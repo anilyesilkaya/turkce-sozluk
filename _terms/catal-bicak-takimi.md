@@ -2,6 +2,7 @@
 layout: term
 title: çatal bıçak takımı
 slug: catal-bicak-takimi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Sofra için gerekli olan çatal, kaşık, bıçak ve diğer servis araçlarının tümü

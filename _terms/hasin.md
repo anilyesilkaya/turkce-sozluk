@@ -2,6 +2,7 @@
 layout: term
 title: haşin
 slug: hasin
+letter: H
 lisan: Arapça ḫaşīn
 anlamlar:
 - Sert, kırıcı, gönül kırıcı

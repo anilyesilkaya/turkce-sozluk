@@ -2,6 +2,7 @@
 layout: term
 title: ayarsız
 slug: ayarsiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayarı yapılmamış

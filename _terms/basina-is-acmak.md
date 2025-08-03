@@ -2,6 +2,7 @@
 layout: term
 title: başına iş açmak
 slug: basina-is-acmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - uğraştırıcı ve üzücü bir işin çıkmasına yol açmak

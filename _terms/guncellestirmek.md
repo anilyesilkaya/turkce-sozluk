@@ -2,6 +2,7 @@
 layout: term
 title: güncelleştirmek
 slug: guncellestirmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güncel duruma getirmek; aktüelleştirmek

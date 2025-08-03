@@ -2,6 +2,7 @@
 layout: term
 title: briket
 slug: briket
+letter: B
 lisan: Fransızca briquette
 anlamlar:
 - Linyit ve kömür tozundan basınçla elde edilen yakacak

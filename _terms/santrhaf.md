@@ -2,6 +2,7 @@
 layout: term
 title: santrhaf
 slug: santrhaf
+letter: S
 lisan: İngilizce centre half
 anlamlar:
 - Futbolda orta alanın ortasında oynayan oyuncu

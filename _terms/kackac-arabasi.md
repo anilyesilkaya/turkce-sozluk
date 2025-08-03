@@ -2,6 +2,7 @@
 layout: term
 title: 'kaçkaç arabası '
 slug: kackac-arabasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Baskın veya işgal sırasında yerini yurdunu terk etmek için kullanılan araba

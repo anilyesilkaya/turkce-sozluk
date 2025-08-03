@@ -2,6 +2,7 @@
 layout: term
 title: merakını gidermek
 slug: merakini-gidermek
+letter: M
 lisan: Türkçe
 anlamlar:
 - merakını ortadan kaldırmak

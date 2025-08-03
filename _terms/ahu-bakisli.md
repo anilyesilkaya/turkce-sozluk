@@ -2,6 +2,7 @@
 layout: term
 title: ahu bakışlı
 slug: ahu-bakisli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Süzgün ve tatlı bakışlı (kadın); ceylan bakışlı

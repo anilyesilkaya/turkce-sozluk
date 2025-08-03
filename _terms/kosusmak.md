@@ -2,6 +2,7 @@
 layout: term
 title: koşuşmak
 slug: kosusmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Birlikte ve birden koşmak

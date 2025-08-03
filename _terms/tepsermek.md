@@ -2,6 +2,7 @@
 layout: term
 title: tepsermek
 slug: tepsermek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Kuruyup çatlamak

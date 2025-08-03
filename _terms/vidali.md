@@ -2,6 +2,7 @@
 layout: term
 title: vidalı
 slug: vidali
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vidası olan

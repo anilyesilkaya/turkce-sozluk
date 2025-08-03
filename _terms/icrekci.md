@@ -2,6 +2,7 @@
 layout: term
 title: içrekçi
 slug: icrekci
+letter: I
 lisan: Türkçe
 anlamlar:
 - Ele alınan konuyu içeriden kavramaya çalışan

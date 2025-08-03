@@ -2,6 +2,7 @@
 layout: term
 title: fırsat kollamak (veya gözlemek)
 slug: firsat-kollamak-veya-gozlemek
+letter: F
 lisan: Türkçe
 anlamlar:
 - yapmak istediği iş için uygun bir zaman veya bir durum beklemek

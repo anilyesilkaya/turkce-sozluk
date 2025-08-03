@@ -2,6 +2,7 @@
 layout: term
 title: yiğitleme
 slug: yigitleme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► koçaklama

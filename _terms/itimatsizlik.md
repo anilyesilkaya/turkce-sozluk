@@ -2,6 +2,7 @@
 layout: term
 title: itimatsızlık
 slug: itimatsizlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► güvensizlik

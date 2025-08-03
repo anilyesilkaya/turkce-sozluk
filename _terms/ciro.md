@@ -2,6 +2,7 @@
 layout: term
 title: ciro
 slug: ciro
+letter: C
 lisan: İtalyanca giro
 anlamlar:
 - Bir ticaret senedinin alacaklı tarafından arkasına gereken yazının yazılıp imza edilerek üçüncü bir kişiye devredilmesi

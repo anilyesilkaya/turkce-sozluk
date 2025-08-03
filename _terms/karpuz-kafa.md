@@ -2,6 +2,7 @@
 layout: term
 title: 'karpuz kafa '
 slug: karpuz-kafa
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kafası karpuz şeklinde olan (kimse)

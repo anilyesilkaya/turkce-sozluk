@@ -2,6 +2,7 @@
 layout: term
 title: mika
 slug: mika
+letter: M
 lisan: Fransızca mica
 anlamlar:
 - Püskürük ve başkalaşmış kayalar içinde bulunan, alüminyum silikat ile potasyumdan oluşmuş, yapraklar durumunda ayrılabilen, ateşe dayanıklı parlak bir mineral; evren pulu

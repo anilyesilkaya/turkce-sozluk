@@ -2,6 +2,7 @@
 layout: term
 title: leksikolog
 slug: leksikolog
+letter: L
 lisan: Fransızca lexicologue
 anlamlar:
 - ► sözcük bilimci

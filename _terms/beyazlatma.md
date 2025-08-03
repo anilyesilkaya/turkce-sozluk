@@ -2,6 +2,7 @@
 layout: term
 title: beyazlatma
 slug: beyazlatma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beyazlatmak işi; ağartma

@@ -2,6 +2,7 @@
 layout: term
 title: hafriyat toprağı
 slug: hafriyat-topragi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Kazı alanından çıkan toprak

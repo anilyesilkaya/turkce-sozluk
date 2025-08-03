@@ -2,6 +2,7 @@
 layout: term
 title: koldaşlık
 slug: koldaslik
+letter: K
 lisan: Türkçe
 anlamlar:
 - İş arkadaşlığı

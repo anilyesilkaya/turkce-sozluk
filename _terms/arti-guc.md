@@ -2,6 +2,7 @@
 layout: term
 title: artı güç
 slug: arti-guc
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir sonuca katkısı olabilecek birkaç etkenin belirli bir etkileşim sonucunda elde ettiği ortak güç; sinerji

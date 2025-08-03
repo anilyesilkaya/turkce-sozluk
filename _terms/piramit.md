@@ -2,6 +2,7 @@
 layout: term
 title: piramit
 slug: piramit
+letter: P
 lisan: Fransızca pyramide
 anlamlar:
 - Tepeleri ortak bir noktada birleşen, tabanları da herhangi bir çokgenin birer kenarı olan birtakım üçgenlerden oluşmuş cisim; ehram

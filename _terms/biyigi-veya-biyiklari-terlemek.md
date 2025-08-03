@@ -2,6 +2,7 @@
 layout: term
 title: bıyığı (veya bıyıkları) terlemek
 slug: biyigi-veya-biyiklari-terlemek
+letter: B
 lisan: Türkçe
 anlamlar:
 - bıyığı yeni yeni çıkmaya başlamak

@@ -2,6 +2,7 @@
 layout: term
 title: restleşmek
 slug: restlesmek
+letter: R
 lisan: Türkçe
 anlamlar:
 - Karşılıklı restini görmek

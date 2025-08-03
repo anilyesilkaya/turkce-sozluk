@@ -2,6 +2,7 @@
 layout: term
 title: altına imza koymak
 slug: altina-imza-koymak
+letter: A
 lisan: Türkçe
 anlamlar:
 - konuyu veya anlaşmayı kabul ettiğini belirtmek

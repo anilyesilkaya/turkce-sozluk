@@ -2,6 +2,7 @@
 layout: term
 title: 'kırbaçvari '
 slug: kirbacvari
+letter: K
 lisan: Türkçe kırbaç + Farsça -vārį
 anlamlar:
 - Kırbaça benzer, kırbaç gibi

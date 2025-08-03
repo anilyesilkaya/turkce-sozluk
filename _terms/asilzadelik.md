@@ -2,6 +2,7 @@
 layout: term
 title: asilzadelik
 slug: asilzadelik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► soyluluk

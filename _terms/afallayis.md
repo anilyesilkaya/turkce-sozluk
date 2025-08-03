@@ -2,6 +2,7 @@
 layout: term
 title: afallayış
 slug: afallayis
+letter: A
 lisan: Türkçe
 anlamlar:
 - Afallamak durumu

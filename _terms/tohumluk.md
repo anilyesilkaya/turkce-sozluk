@@ -2,6 +2,7 @@
 layout: term
 title: tohumluk
 slug: tohumluk
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bitki yetiştirmede kullanılan tane, çekirdek, kök, sap vb.nin bütünü

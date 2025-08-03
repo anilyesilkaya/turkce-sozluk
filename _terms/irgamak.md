@@ -2,6 +2,7 @@
 layout: term
 title: ırgamak
 slug: irgamak
+letter: I
 lisan: Türkçe
 anlamlar:
 - Çabuk olmak, davranmak

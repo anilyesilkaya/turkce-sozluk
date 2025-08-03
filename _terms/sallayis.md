@@ -2,6 +2,7 @@
 layout: term
 title: sallayış
 slug: sallayis
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sallamak işi

@@ -2,6 +2,7 @@
 layout: term
 title: dağdağalı
 slug: dagdagali
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► gürültülü patırtılı

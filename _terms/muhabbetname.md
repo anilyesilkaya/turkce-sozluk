@@ -2,6 +2,7 @@
 layout: term
 title: muhabbetname
 slug: muhabbetname
+letter: M
 lisan: Arapça maḥabbet + Farsça nāme
 anlamlar:
 - Aşk mektubu

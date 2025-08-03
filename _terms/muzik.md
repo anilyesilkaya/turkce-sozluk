@@ -2,6 +2,7 @@
 layout: term
 title: müzik
 slug: muzik
+letter: M
 lisan: Fransızca musique
 anlamlar:
 - Birtakım duygu ve düşünceleri belli kurallar çerçevesinde uyumlu seslerle anlatma sanatı; musiki

@@ -2,6 +2,7 @@
 layout: term
 title: rakkase
 slug: rakkase
+letter: R
 lisan: Arapça raḳḳāṣe
 anlamlar:
 - Raksı meslek edinmiş kadın

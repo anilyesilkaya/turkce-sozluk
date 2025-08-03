@@ -2,6 +2,7 @@
 layout: term
 title: final
 slug: final
+letter: F
 lisan: Fransızca final
 anlamlar:
 - Bir işin sonu

@@ -2,6 +2,7 @@
 layout: term
 title: damaksı
 slug: damaksi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Boğumlanma noktası damakta bulunan (ses)

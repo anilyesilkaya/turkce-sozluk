@@ -2,6 +2,7 @@
 layout: term
 title: belirginleşmek
 slug: belirginlesmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belirgin duruma gelmek

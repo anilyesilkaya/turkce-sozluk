@@ -2,6 +2,7 @@
 layout: term
 title: peri
 slug: peri
+letter: P
 lisan: Farsça perī
 anlamlar:
 - Doğaüstü güçleri olduğuna inanılan, hayal ürünü varlık

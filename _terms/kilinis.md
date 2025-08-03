@@ -2,6 +2,7 @@
 layout: term
 title: kılınış
 slug: kilinis
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kılınmak işi

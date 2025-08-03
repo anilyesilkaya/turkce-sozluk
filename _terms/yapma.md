@@ -2,6 +2,7 @@
 layout: term
 title: yapma
 slug: yapma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yapmak işi

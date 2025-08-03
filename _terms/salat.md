@@ -2,6 +2,7 @@
 layout: term
 title: salat
 slug: salat
+letter: S
 lisan: Arapça ṣalāt
 anlamlar:
 - ► namaz

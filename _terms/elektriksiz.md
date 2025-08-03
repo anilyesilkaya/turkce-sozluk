@@ -2,6 +2,7 @@
 layout: term
 title: elektriksiz
 slug: elektriksiz
+letter: E
 lisan: Türkçe
 anlamlar:
 - Elektriği olmayan, elektrik enerjisiyle yüklü olmayan, elektrikle çalışmayan

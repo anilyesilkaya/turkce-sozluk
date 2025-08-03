@@ -2,6 +2,7 @@
 layout: term
 title: sözünü kesmek
 slug: sozunu-kesmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - biri konuşurken söze karışıp onun konuşmasına fırsat vermemek

@@ -2,6 +2,7 @@
 layout: term
 title: içrek
 slug: icrek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İçe ait, içe özgü olan; bâtıni, ezoterik

@@ -2,6 +2,7 @@
 layout: term
 title: savunmak
 slug: savunmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Herhangi bir saldırıya karşı koymak, birini veya bir yeri saldırıya karşı korumak; müdafaa etmek

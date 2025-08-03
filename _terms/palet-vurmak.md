@@ -2,6 +2,7 @@
 layout: term
 title: palet vurmak
 slug: palet-vurmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - dipte yüzerken yükselme amacıyla paletlerle suyu dövmek

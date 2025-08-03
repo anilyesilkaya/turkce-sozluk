@@ -2,6 +2,7 @@
 layout: term
 title: bahşetmek
 slug: bahsetmek
+letter: B
 lisan: Farsça baḫş + Türkçe etmek
 anlamlar:
 - ► bağışlamak

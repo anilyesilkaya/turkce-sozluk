@@ -2,6 +2,7 @@
 layout: term
 title: açındırmak
 slug: acindirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Açınmasını sağlamak

@@ -2,6 +2,7 @@
 layout: term
 title: fütursuzca
 slug: futursuzca
+letter: F
 lisan: Türkçe
 anlamlar:
 - Hiçbir şeye aldırmadan, hiçbir şeyden çekinmeden; fütursuzcasına

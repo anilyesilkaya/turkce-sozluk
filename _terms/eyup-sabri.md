@@ -2,6 +2,7 @@
 layout: term
 title: Eyüp sabrı
 slug: eyup-sabri
+letter: E
 lisan: Türkçe
 anlamlar:
 - Hz. Eyüp’ün insanlara örnek olan acılara katlanma gücü

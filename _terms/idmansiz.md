@@ -2,6 +2,7 @@
 layout: term
 title: idmansız
 slug: idmansiz
+letter: I
 lisan: Türkçe
 anlamlar:
 - Düzenli veya hiç idman yapmamış olan, idmanı olmayan, çevikliği olmayan; ham, antrenmansız

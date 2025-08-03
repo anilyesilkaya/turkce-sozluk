@@ -2,6 +2,7 @@
 layout: term
 title: festival
 slug: festival
+letter: F
 lisan: Fransızca festival
 anlamlar:
 - Dönemi, yapıldığı çevre, katılanların sayısı veya niteliği programla belirtilen ve özel önemi olan sanat gösterisi

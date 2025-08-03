@@ -2,6 +2,7 @@
 layout: term
 title: zümrüt gibi
 slug: zumrut-gibi
+letter: Z
 lisan: Türkçe
 anlamlar:
 - yemyeşil

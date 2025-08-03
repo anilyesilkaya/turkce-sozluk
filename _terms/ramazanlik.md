@@ -2,6 +2,7 @@
 layout: term
 title: ramazanlık
 slug: ramazanlik
+letter: R
 lisan: Türkçe
 anlamlar:
 - Ramazan için ayrılmış (yiyecek)

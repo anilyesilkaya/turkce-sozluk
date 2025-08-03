@@ -2,6 +2,7 @@
 layout: term
 title: deyivermek
 slug: deyivermek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çabucak veya ansızın demek

@@ -2,6 +2,7 @@
 layout: term
 title: mitralyöz
 slug: mitralyoz
+letter: M
 lisan: Fransızca mitrailleuse
 anlamlar:
 - Hafif makineli tüfek

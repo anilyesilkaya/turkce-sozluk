@@ -2,6 +2,7 @@
 layout: term
 title: muayene olmak
 slug: muayene-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - hekim tarafından kontrol edilmek, bakılmak

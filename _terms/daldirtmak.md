@@ -2,6 +2,7 @@
 layout: term
 title: daldırtmak
 slug: daldirtmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Daldırmasını sağlamak

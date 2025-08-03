@@ -2,6 +2,7 @@
 layout: term
 title: haftalıklı
 slug: haftalikli
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► haftalıkçı

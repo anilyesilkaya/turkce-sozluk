@@ -2,6 +2,7 @@
 layout: term
 title: akvaryumculuk
 slug: akvaryumculuk
+letter: A
 lisan: Türkçe
 anlamlar:
 - Akvaryumcunun yaptığı iş

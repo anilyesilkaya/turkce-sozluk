@@ -2,6 +2,7 @@
 layout: term
 title: jaketatay
 slug: jaketatay
+letter: J
 lisan: Fransızca jaquette à taille
 anlamlar:
 - Resmî ziyaret ve davetlerde erkeklerin giydikleri, arkası yırtmaçlı, etekleri uzun ve ön köşeleri yuvarlak kesilmiş ceket

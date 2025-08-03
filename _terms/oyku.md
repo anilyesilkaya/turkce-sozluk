@@ -2,6 +2,7 @@
 layout: term
 title: öykü
 slug: oyku
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ayrıntılarıyla anlatılan olay

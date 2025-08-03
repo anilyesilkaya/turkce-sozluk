@@ -2,6 +2,7 @@
 layout: term
 title: himmet etmek
 slug: himmet-etmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - yardım etmek, emek vermek

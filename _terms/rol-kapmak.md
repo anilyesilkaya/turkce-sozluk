@@ -2,6 +2,7 @@
 layout: term
 title: rol kapmak
 slug: rol-kapmak
+letter: R
 lisan: Türkçe
 anlamlar:
 - bir oyunda veya filmde yeteneğini göstererek rol almayı başarmak

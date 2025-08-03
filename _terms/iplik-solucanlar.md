@@ -2,6 +2,7 @@
 layout: term
 title: iplik solucanlar
 slug: iplik-solucanlar
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► ipsi solucanlar

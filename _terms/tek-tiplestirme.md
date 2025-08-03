@@ -2,6 +2,7 @@
 layout: term
 title: 'tek tipleştirme '
 slug: tek-tiplestirme
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tek tipleştirmek işi

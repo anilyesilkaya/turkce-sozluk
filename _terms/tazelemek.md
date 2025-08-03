@@ -2,6 +2,7 @@
 layout: term
 title: tazelemek
 slug: tazelemek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Yenisiyle veya tazesiyle değiştirmek

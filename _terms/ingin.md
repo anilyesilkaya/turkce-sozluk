@@ -2,6 +2,7 @@
 layout: term
 title: ingin
 slug: ingin
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► engin (II)

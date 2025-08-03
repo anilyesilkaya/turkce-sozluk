@@ -2,6 +2,7 @@
 layout: term
 title: çehreli
 slug: cehreli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► yüzlü

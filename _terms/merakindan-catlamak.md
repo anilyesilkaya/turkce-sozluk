@@ -2,6 +2,7 @@
 layout: term
 title: merakından çatlamak
 slug: merakindan-catlamak
+letter: M
 lisan: Türkçe
 anlamlar:
 - çok kaygılanmak

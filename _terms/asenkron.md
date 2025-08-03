@@ -2,6 +2,7 @@
 layout: term
 title: asenkron
 slug: asenkron
+letter: A
 lisan: Fransızca asynchrone
 anlamlar:
 - ► uyumsuz, senkron, eş zaman karşıtı

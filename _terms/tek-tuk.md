@@ -2,6 +2,7 @@
 layout: term
 title: tek tük
 slug: tek-tuk
+letter: T
 lisan: Türkçe
 anlamlar:
 - Az, seyrek olan

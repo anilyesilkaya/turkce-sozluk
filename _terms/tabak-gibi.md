@@ -2,6 +2,7 @@
 layout: term
 title: tabak gibi
 slug: tabak-gibi
+letter: T
 lisan: Türkçe
 anlamlar:
 - dümdüz ve açık (yer)

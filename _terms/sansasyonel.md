@@ -2,6 +2,7 @@
 layout: term
 title: sansasyonel
 slug: sansasyonel
+letter: S
 lisan: Fransızca sensationnel
 anlamlar:
 - ► çarpıcı

@@ -2,6 +2,7 @@
 layout: term
 title: erteleyebilmek
 slug: erteleyebilmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Erteleme ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: tadil teklifi
 slug: tadil-teklifi
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► değiştirge

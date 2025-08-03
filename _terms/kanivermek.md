@@ -2,6 +2,7 @@
 layout: term
 title: kanıvermek
 slug: kanivermek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çabucak ve kolaylıkla kanmak

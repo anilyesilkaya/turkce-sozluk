@@ -2,6 +2,7 @@
 layout: term
 title: arşa çıkmak
 slug: arsa-cikmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - göğe kadar çıkmak, çok yükselmek

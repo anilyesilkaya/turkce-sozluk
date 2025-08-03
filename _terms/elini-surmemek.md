@@ -2,6 +2,7 @@
 layout: term
 title: elini sürmemek
 slug: elini-surmemek
+letter: E
 lisan: Türkçe
 anlamlar:
 - eliyle dokunmamak

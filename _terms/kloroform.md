@@ -2,6 +2,7 @@
 layout: term
 title: kloroform
 slug: kloroform
+letter: K
 lisan: Fransızca chloroforme
 anlamlar:
 - Renksiz, hoş kokulu, genellikle anestezide kullanılan, yatıştırıcı sakinleştirici ve uyuşturucu birleşik (CHCI3)

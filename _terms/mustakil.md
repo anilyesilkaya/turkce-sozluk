@@ -2,6 +2,7 @@
 layout: term
 title: müstakil
 slug: mustakil
+letter: M
 lisan: Arapça mustaḳill
 anlamlar:
 - Kullanış yönünden başka bir yapı ile bağlantısı olmayan; bağımsız

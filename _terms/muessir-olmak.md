@@ -2,6 +2,7 @@
 layout: term
 title: müessir olmak
 slug: muessir-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - etkili olmak

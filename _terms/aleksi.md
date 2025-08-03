@@ -2,6 +2,7 @@
 layout: term
 title: aleksi
 slug: aleksi
+letter: A
 lisan: Fransızca alexie
 anlamlar:
 - ► okuma yitimi

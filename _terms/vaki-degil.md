@@ -2,6 +2,7 @@
 layout: term
 title: vaki değil
 slug: vaki-degil
+letter: V
 lisan: Türkçe
 anlamlar:
 - '"daha önce böyle bir şey olmadı, gerçekleşmedi, görülmedi" anlamında kullanılan bir söz'

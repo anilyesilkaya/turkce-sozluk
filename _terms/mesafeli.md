@@ -2,6 +2,7 @@
 layout: term
 title: mesafeli
 slug: mesafeli
+letter: M
 lisan: Türkçe
 anlamlar:
 - Arası olan, uzaklığı bulunan

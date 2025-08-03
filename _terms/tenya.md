@@ -2,6 +2,7 @@
 layout: term
 title: tenya
 slug: tenya
+letter: T
 lisan: Fransızca ténia
 anlamlar:
 - Şeritgillerden, vücudu yassı, birbirine kenetlenmiş boğumları bulunan ve bazısı metrelerce boyda olan bir bağırsak asalağı; şerit, sığır tenyası, sığır şeridi, abdestbozan

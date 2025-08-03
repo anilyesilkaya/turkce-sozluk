@@ -2,6 +2,7 @@
 layout: term
 title: çay bahçesi
 slug: cay-bahcesi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çay, kahve ve alkolsüz içkilerin içildiği bahçe

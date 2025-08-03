@@ -2,6 +2,7 @@
 layout: term
 title: U dönüşü yapmak
 slug: u-donusu-yapmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - yüz seksen derecelik bir dönüş yapmak

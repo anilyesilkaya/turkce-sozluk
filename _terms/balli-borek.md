@@ -2,6 +2,7 @@
 layout: term
 title: ballı börek
 slug: balli-borek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Yufka, ceviz, tereyağı ve şeker ile yapılan bir börek türü

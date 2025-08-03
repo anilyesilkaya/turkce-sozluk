@@ -2,6 +2,7 @@
 layout: term
 title: deklanşör
 slug: deklansor
+letter: D
 lisan: Fransızca déclencheur
 anlamlar:
 - Bir devre kesicinin işleyişini etkileyerek açılmasını önleyen düzen

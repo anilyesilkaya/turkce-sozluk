@@ -2,6 +2,7 @@
 layout: term
 title: acıca
 slug: acica
+letter: A
 lisan: Türkçe
 anlamlar:
 - Oldukça acı

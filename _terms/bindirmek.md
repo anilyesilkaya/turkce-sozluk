@@ -2,6 +2,7 @@
 layout: term
 title: bindirmek
 slug: bindirmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir kimseyi bir şeyin üzerine çıkartmak, oturtmak veya içine yerleştirmek, binmesini sağlamak

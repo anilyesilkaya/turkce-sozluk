@@ -2,6 +2,7 @@
 layout: term
 title: hayranlık duymak
 slug: hayranlik-duymak
+letter: H
 lisan: Türkçe
 anlamlar:
 - çok beğenmek, tutkuyla bağlanmak

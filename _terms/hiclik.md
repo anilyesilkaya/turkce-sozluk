@@ -2,6 +2,7 @@
 layout: term
 title: hiçlik
 slug: hiclik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hiç olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: saptayabilmek
 slug: saptayabilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Saptama ihtimali veya imkânı bulunmak

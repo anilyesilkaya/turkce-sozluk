@@ -2,6 +2,7 @@
 layout: term
 title: molekül
 slug: molekul
+letter: M
 lisan: Fransızca molécule
 anlamlar:
 - Element veya bileşikleri oluşturan ve onların özgül niteliklerini gösteren en küçük birim; madde

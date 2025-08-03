@@ -2,6 +2,7 @@
 layout: term
 title: kumandansız
 slug: kumandansiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kumandanı olmayan

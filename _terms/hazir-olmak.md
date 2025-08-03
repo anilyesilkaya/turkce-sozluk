@@ -2,6 +2,7 @@
 layout: term
 title: hazır olmak
 slug: hazir-olmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - hazır durumda bulunmak

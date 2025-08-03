@@ -2,6 +2,7 @@
 layout: term
 title: adam başı
 slug: adam-basi
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► adam başına

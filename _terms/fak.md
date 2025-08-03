@@ -2,6 +2,7 @@
 layout: term
 title: fak
 slug: fak
+letter: F
 lisan: Arapça faḫḫ
 anlamlar:
 - ► tuzak

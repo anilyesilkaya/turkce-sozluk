@@ -2,6 +2,7 @@
 layout: term
 title: bıkkınlık gelmek
 slug: bikkinlik-gelmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - bıkmak, usanmak, bunalmak

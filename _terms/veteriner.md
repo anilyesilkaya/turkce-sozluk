@@ -2,6 +2,7 @@
 layout: term
 title: veteriner
 slug: veteriner
+letter: V
 lisan: Fransızca vétérinaire
 anlamlar:
 - Hayvan hastalıklarını tedavi eden uzman; veteriner hekim, baytar

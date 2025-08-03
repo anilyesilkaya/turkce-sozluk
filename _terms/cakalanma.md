@@ -2,6 +2,7 @@
 layout: term
 title: cakalanma
 slug: cakalanma
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cakalanmak durumu

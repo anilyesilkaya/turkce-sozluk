@@ -2,6 +2,7 @@
 layout: term
 title: süper benzin
 slug: super-benzin
+letter: S
 lisan: Türkçe
 anlamlar:
 - Oktan indisi 100 ve 100'ün üzerinde olan, yüksek nitelikte benzin

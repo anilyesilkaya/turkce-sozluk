@@ -2,6 +2,7 @@
 layout: term
 title: bir boy
 slug: bir-boy
+letter: B
 lisan: Türkçe
 anlamlar:
 - Aynı boyda olan

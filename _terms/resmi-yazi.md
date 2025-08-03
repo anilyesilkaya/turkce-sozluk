@@ -2,6 +2,7 @@
 layout: term
 title: resmî yazı
 slug: resmi-yazi
+letter: R
 lisan: Türkçe
 anlamlar:
 - Resmî kurum veya kuruluş tarafından yazılan yazı

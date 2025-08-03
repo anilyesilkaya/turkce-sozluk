@@ -2,6 +2,7 @@
 layout: term
 title: lop yumurta
 slug: lop-yumurta
+letter: L
 lisan: Türkçe
 anlamlar:
 - Suda çok kaynatılmış kabuklu yumurta; katı yumurta

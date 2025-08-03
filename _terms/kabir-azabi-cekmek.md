@@ -2,6 +2,7 @@
 layout: term
 title: kabir azabı çekmek
 slug: kabir-azabi-cekmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - İslam inancına göre öldükten sonra mezarda azap duymak

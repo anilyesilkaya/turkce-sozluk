@@ -2,6 +2,7 @@
 layout: term
 title: tutamaç
 slug: tutamac
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir şeyin tutulup çekilecek yeri

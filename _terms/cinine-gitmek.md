@@ -2,6 +2,7 @@
 layout: term
 title: cinine gitmek
 slug: cinine-gitmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - nefret etmek, tiksinmek

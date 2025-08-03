@@ -2,6 +2,7 @@
 layout: term
 title: karşı
 slug: karsi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir şeyin, bir yerin, bir kimsenin esas tutulan yüzünün ilerisi; ön

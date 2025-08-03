@@ -2,6 +2,7 @@
 layout: term
 title: fiyat
 slug: fiyat
+letter: F
 lisan: Arapça fīʾāt
 anlamlar:
 - Alım veya satımda bir şeyin para karşılığındaki değeri; bedel, eder, hediye, kemal, paha

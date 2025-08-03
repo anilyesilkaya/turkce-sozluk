@@ -2,6 +2,7 @@
 layout: term
 title: akrilik
 slug: akrilik
+letter: A
 lisan: Fransızca acrylique
 anlamlar:
 - Renksiz, keskin kokulu asitler

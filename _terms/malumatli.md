@@ -2,6 +2,7 @@
 layout: term
 title: malumatlı
 slug: malumatli
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► bilgili

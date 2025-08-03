@@ -2,6 +2,7 @@
 layout: term
 title: gaile
 slug: gaile
+letter: G
 lisan: Arapça ġāʾile
 anlamlar:
 - Sıkıntı, dert, keder, üzüntü

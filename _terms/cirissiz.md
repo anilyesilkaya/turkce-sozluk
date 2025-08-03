@@ -2,6 +2,7 @@
 layout: term
 title: çirişsiz
 slug: cirissiz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çiriş sürülmemiş olan

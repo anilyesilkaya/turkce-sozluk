@@ -2,6 +2,7 @@
 layout: term
 title: az az
 slug: az-az
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► yavaş yavaş

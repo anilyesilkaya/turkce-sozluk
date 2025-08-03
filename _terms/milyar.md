@@ -2,6 +2,7 @@
 layout: term
 title: milyar
 slug: milyar
+letter: M
 lisan: Fransızca milliard
 anlamlar:
 - Milyon kere bin, bin milyon, 1.000.000.000

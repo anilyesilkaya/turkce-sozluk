@@ -2,6 +2,7 @@
 layout: term
 title: kanına ekmek doğramak
 slug: kanina-ekmek-dogramak
+letter: K
 lisan: Türkçe
 anlamlar:
 - birinin ölümüne yol açarak sevinmek

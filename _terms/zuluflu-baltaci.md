@@ -2,6 +2,7 @@
 layout: term
 title: zülüflü baltacı
 slug: zuluflu-baltaci
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Sarayda yatıp kalkan ve Enderun hizmetlerine bakan, baltacılardan bir bölük

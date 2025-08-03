@@ -2,6 +2,7 @@
 layout: term
 title: huylu
 slug: huylu
+letter: H
 lisan: Türkçe
 anlamlar:
 - Herhangi bir huyu olan

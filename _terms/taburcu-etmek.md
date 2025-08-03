@@ -2,6 +2,7 @@
 layout: term
 title: taburcu etmek
 slug: taburcu-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - doktor hastayı yatarak tedavi gerekmediğinde hastaneden çıkarmak

@@ -2,6 +2,7 @@
 layout: term
 title: karavana
 slug: karavana
+letter: K
 lisan: İtalyanca carovana
 anlamlar:
 - Genellikle orduda yemek dağıtımında kullanılan büyük metal kap

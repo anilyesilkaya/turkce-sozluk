@@ -2,6 +2,7 @@
 layout: term
 title: adını anmak
 slug: adini-anmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - birinden, bir şeyden söz etmek

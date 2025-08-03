@@ -2,6 +2,7 @@
 layout: term
 title: haberleştirme
 slug: haberlestirme
+letter: H
 lisan: Türkçe
 anlamlar:
 - Haberleştirmek işi

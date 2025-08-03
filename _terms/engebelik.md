@@ -2,6 +2,7 @@
 layout: term
 title: engebelik
 slug: engebelik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Düz olmayan, engebesi bulunan (yer)

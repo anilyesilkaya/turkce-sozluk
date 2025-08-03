@@ -2,6 +2,7 @@
 layout: term
 title: şimşirgiller
 slug: simsirgiller
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - İki çeneklilerden, örnek bitkisi şimşir olan ve şimşir türlerini içine alan bir bitki familyası (Buxacées)

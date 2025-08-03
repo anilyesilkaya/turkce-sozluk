@@ -2,6 +2,7 @@
 layout: term
 title: kuşatmak
 slug: kusatmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çevresini sarmak; çevrelemek, çevirmek, sarmak, abluka etmek, ablukaya almak, ihata etmek, muhasara etmek

@@ -2,6 +2,7 @@
 layout: term
 title: bağışlamak
 slug: bagislamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Herhangi bir kötü davranış için ceza vermekten vazgeçmek; affetmek, affeylemek

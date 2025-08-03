@@ -2,6 +2,7 @@
 layout: term
 title: şömiz
 slug: somiz
+letter: Ş
 lisan: Fransızca chemise
 anlamlar:
 - ► gömlek

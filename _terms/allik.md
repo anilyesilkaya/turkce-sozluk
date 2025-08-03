@@ -2,6 +2,7 @@
 layout: term
 title: allık
 slug: allik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Al olma durumu

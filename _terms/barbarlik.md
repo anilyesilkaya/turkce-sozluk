@@ -2,6 +2,7 @@
 layout: term
 title: barbarlık
 slug: barbarlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Barbar olma durumu; barbarizm

@@ -2,6 +2,7 @@
 layout: term
 title: yakıt parası
 slug: yakit-parasi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Binalarda ısınma giderleri için ödenen ücret

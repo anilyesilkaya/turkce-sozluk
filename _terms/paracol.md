@@ -2,6 +2,7 @@
 layout: term
 title: paraçol
 slug: paracol
+letter: P
 lisan: İtalyanca bracciolo
 anlamlar:
 - Gemi çatmasında eğri parça

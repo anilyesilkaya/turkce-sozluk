@@ -2,6 +2,7 @@
 layout: term
 title: enjeksiyoncu
 slug: enjeksiyoncu
+letter: E
 lisan: Türkçe
 anlamlar:
 - Enjeksiyon yapan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: çırnık
 slug: cirnik
+letter: Ç
 lisan: Bulgarca
 anlamlar:
 - Küçük boyda kayık

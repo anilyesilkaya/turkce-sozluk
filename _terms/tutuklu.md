@@ -2,6 +2,7 @@
 layout: term
 title: tutuklu
 slug: tutuklu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Kanun yoluyla hürriyetlerinden alıkonularak bir yere kapatılan (kimse); tutuk, mevkuf

@@ -2,6 +2,7 @@
 layout: term
 title: kazanç
 slug: kazanc
+letter: K
 lisan: Türkçe
 anlamlar:
 - Satılan bir mal, yapılan bir iş veya harcanan bir emek karşılığında elde edilen para; getiri, temettü

@@ -2,6 +2,7 @@
 layout: term
 title: belemek
 slug: belemek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çocuğu kundaklamak

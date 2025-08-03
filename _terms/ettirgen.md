@@ -2,6 +2,7 @@
 layout: term
 title: ettirgen
 slug: ettirgen
+letter: E
 lisan: Türkçe
 anlamlar:
 - İşi başkasına yaptıran veya yapılmasına yol açan

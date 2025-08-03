@@ -2,6 +2,7 @@
 layout: term
 title: körletebilmek
 slug: korletebilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Körletme ihtimali veya imkânı bulunmak

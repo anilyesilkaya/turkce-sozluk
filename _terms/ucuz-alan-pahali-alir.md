@@ -2,6 +2,7 @@
 layout: term
 title: ucuz alan, pahalı alır
 slug: ucuz-alan-pahali-alir
+letter: U
 lisan: Türkçe
 anlamlar:
 - '"ucuz olan mal çabuk eskir, pahalıya alınmış gibi olur" anlamında kullanılan bir söz'

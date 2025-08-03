@@ -2,6 +2,7 @@
 layout: term
 title: gölgelendirmek
 slug: golgelendirmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gölge etmek, gölgeli yapmak

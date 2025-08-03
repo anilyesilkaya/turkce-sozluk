@@ -2,6 +2,7 @@
 layout: term
 title: ayak teri
 slug: ayak-teri
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayak parmakları arasından çıkan pis kokulu salgı

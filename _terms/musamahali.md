@@ -2,6 +2,7 @@
 layout: term
 title: müsamahalı
 slug: musamahali
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► hoşgörülü

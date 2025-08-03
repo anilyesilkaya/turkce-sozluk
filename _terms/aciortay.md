@@ -2,6 +2,7 @@
 layout: term
 title: açıortay
 slug: aciortay
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir açıyı, ölçüleri birbirine eşit olan iki açısal bölgeye ayıran doğru parçası

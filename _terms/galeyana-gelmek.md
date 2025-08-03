@@ -2,6 +2,7 @@
 layout: term
 title: galeyana gelmek
 slug: galeyana-gelmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - coşmak

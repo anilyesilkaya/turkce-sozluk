@@ -2,6 +2,7 @@
 layout: term
 title: tık tık
 slug: tik-tik
+letter: T
 lisan: Türkçe
 anlamlar:
 - '"Tık" sesi çıkararak'

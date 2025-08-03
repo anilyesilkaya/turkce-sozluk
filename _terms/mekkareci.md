@@ -2,6 +2,7 @@
 layout: term
 title: mekkâreci
 slug: mekkareci
+letter: M
 lisan: Türkçe
 anlamlar:
 - Yük hayvanı kiralayarak taşıma işi yapan kimse

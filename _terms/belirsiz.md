@@ -2,6 +2,7 @@
 layout: term
 title: belirsiz
 slug: belirsiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belirli olmayan; belgisiz, gayrimuayyen, vuzuhsuz

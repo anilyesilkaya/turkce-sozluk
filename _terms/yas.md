@@ -2,6 +2,7 @@
 layout: term
 title: yaş
 slug: yas
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► ıslak, kuru (I) karşıtı

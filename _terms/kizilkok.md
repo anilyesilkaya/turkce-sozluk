@@ -2,6 +2,7 @@
 layout: term
 title: kızılkök
 slug: kizilkok
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kökboyası

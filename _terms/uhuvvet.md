@@ -2,6 +2,7 @@
 layout: term
 title: uhuvvet
 slug: uhuvvet
+letter: U
 lisan: Arapça uḫuvvet
 anlamlar:
 - ► kardeşlik

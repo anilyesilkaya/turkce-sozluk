@@ -2,6 +2,7 @@
 layout: term
 title: akaçlamak
 slug: akaclamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir yerde birikmiş suları akıtmak

@@ -2,6 +2,7 @@
 layout: term
 title: eğik düzlem
 slug: egik-duzlem
+letter: E
 lisan: Türkçe
 anlamlar:
 - Bir cismi yükseğe çıkarmak için gerekli gücü ayarlamada kullanılan eğik, düz yüzey

@@ -2,6 +2,7 @@
 layout: term
 title: kınlı
 slug: kinli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kını olan, bir kınla sarılı olan

@@ -2,6 +2,7 @@
 layout: term
 title: kıdem tazminatı
 slug: kidem-tazminati
+letter: K
 lisan: Türkçe
 anlamlar:
 - Belirli süre çalıştıktan sonra işten ayrılan işçiye görev süresine bağlı olarak verilen para

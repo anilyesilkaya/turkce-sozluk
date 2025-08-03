@@ -2,6 +2,7 @@
 layout: term
 title: üzerine çökmek
 slug: uzerine-cokmek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - duygu, durum vb. bastırmak, kaplamak

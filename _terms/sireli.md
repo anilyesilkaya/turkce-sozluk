@@ -2,6 +2,7 @@
 layout: term
 title: şireli
 slug: sireli
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► şerbetli

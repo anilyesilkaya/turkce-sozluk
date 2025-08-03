@@ -2,6 +2,7 @@
 layout: term
 title: yarışma
 slug: yarisma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yarışmak işi; müsabaka

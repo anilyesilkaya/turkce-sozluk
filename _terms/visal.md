@@ -2,6 +2,7 @@
 layout: term
 title: visal
 slug: visal
+letter: V
 lisan: Arapça viṣāl
 anlamlar:
 - ► kavuşma

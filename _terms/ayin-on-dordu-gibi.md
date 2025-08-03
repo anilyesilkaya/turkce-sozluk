@@ -2,6 +2,7 @@
 layout: term
 title: ayın on dördü gibi
 slug: ayin-on-dordu-gibi
+letter: A
 lisan: Türkçe
 anlamlar:
 - yüzü çok güzel (kadın veya kız)

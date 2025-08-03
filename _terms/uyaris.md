@@ -2,6 +2,7 @@
 layout: term
 title: uyarış
 slug: uyaris
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyarmak işi

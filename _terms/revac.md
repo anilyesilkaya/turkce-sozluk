@@ -2,6 +2,7 @@
 layout: term
 title: revaç
 slug: revac
+letter: R
 lisan: Arapça revāc
 anlamlar:
 - ► sürüm

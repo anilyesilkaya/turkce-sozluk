@@ -2,6 +2,7 @@
 layout: term
 title: ayazda kalmak
 slug: ayazda-kalmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - soğukta kalmak

@@ -2,6 +2,7 @@
 layout: term
 title: bölük bölük olmak
 slug: boluk-boluk-olmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - parçalanmak

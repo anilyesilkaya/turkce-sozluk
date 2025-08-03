@@ -2,6 +2,7 @@
 layout: term
 title: kuşatma
 slug: kusatma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kuşatmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: tadilat
 slug: tadilat
+letter: T
 lisan: Arapça taʿdīlāt
 anlamlar:
 - Değişiklikler

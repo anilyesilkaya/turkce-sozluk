@@ -2,6 +2,7 @@
 layout: term
 title: duyumsamazlık
 slug: duyumsamazlik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Duygusuzluk az ve yavaş tepki gösteren, bunun sonucu duygulandırıcı sebeplere karşı ilgisiz kalan insanın niteliği

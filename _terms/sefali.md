@@ -2,6 +2,7 @@
 layout: term
 title: sefalı
 slug: sefali
+letter: S
 lisan: Türkçe
 anlamlar:
 - Şenlikli, eğlenceli olan

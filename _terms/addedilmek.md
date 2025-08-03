@@ -2,6 +2,7 @@
 layout: term
 title: addedilmek
 slug: addedilmek
+letter: A
 lisan: Arapça ʿadd + Türkçe edilmek
 anlamlar:
 - ► sayılmak

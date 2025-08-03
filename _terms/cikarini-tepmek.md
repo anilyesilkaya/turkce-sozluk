@@ -2,6 +2,7 @@
 layout: term
 title: çıkarını tepmek
 slug: cikarini-tepmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - kendisine yarar sağlayacak bir şeyi veya bir durumu istememek

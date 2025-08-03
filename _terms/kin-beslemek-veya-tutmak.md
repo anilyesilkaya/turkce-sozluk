@@ -2,6 +2,7 @@
 layout: term
 title: kin beslemek (veya tutmak)
 slug: kin-beslemek-veya-tutmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - birine karşı öç alma duygusunu sürdürmek

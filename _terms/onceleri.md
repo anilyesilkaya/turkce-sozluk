@@ -2,6 +2,7 @@
 layout: term
 title: önceleri
 slug: onceleri
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - İlk zamanlarda, başlangıç zamanlarında; evvelleri, iptidaları

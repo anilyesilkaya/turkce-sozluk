@@ -2,6 +2,7 @@
 layout: term
 title: sakallanmak
 slug: sakallanmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sakallı duruma gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: printer
 slug: printer
+letter: P
 lisan: İngilizce printer
 anlamlar:
 - 343 yazıcı

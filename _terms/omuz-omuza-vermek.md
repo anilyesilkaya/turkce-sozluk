@@ -2,6 +2,7 @@
 layout: term
 title: omuz omuza vermek
 slug: omuz-omuza-vermek
+letter: O
 lisan: Türkçe
 anlamlar:
 - dayanışma içinde olmak

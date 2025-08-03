@@ -2,6 +2,7 @@
 layout: term
 title: tenasüp
 slug: tenasup
+letter: T
 lisan: Arapça tenāsub
 anlamlar:
 - ► orantı

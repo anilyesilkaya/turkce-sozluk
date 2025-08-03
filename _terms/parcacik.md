@@ -2,6 +2,7 @@
 layout: term
 title: parçacık
 slug: parcacik
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► kırıntı

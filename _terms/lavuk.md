@@ -2,6 +2,7 @@
 layout: term
 title: lavuk
 slug: lavuk
+letter: L
 lisan: Türkçe
 anlamlar:
 - Gereksiz konuşan (kimse)

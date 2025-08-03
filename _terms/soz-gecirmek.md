@@ -2,6 +2,7 @@
 layout: term
 title: söz geçirmek
 slug: soz-gecirmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - söylediğini, istediğini yaptırmak

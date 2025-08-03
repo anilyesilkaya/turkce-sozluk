@@ -2,6 +2,7 @@
 layout: term
 title: serap
 slug: serap
+letter: S
 lisan: Farsça serāb
 anlamlar:
 - Atmosferde ışık ışınlarının kırılmasından doğan ve çöllerde kolaylıkla gözlemi yapılabilen göz yanılması, uzaktaki bir cisme bakarken sanki bir su yüzeyinden yansıyormuş gibi cisimle birlikte ters görüntünün oluşumu; ılgım, yalgın, pusarık

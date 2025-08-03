@@ -2,6 +2,7 @@
 layout: term
 title: irileşme
 slug: irilesme
+letter: I
 lisan: Türkçe
 anlamlar:
 - İrileşmek işi

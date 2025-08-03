@@ -2,6 +2,7 @@
 layout: term
 title: göden
 slug: goden
+letter: G
 lisan: Türkçe
 anlamlar:
 - Kalın bağırsağın son bölümü; göden bağırsağı, rektum

@@ -2,6 +2,7 @@
 layout: term
 title: golsüz
 slug: golsuz
+letter: G
 lisan: Türkçe
 anlamlar:
 - Golü olmayan

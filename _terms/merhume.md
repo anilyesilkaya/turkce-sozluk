@@ -2,6 +2,7 @@
 layout: term
 title: merhume
 slug: merhume
+letter: M
 lisan: Arapça merḥūme
 anlamlar:
 - Ölmüş Müslüman kadın; rahmetli, rahmetlik

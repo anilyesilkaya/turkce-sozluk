@@ -2,6 +2,7 @@
 layout: term
 title: postacılık
 slug: postacilik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Posta işletme işi

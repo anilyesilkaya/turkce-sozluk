@@ -2,6 +2,7 @@
 layout: term
 title: gözüne uyku girmemek
 slug: gozune-uyku-girmemek
+letter: G
 lisan: Türkçe
 anlamlar:
 - uyuyamamak, uykusuz kalmak

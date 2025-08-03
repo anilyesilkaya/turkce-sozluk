@@ -2,6 +2,7 @@
 layout: term
 title: cefakeş
 slug: cefakes
+letter: C
 lisan: Arapça cefā + Farsça -keş
 anlamlar:
 - Cefa çeken, sıkıntıya katlanan; cefakâr

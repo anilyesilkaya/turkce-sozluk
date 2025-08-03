@@ -2,6 +2,7 @@
 layout: term
 title: paragöz
 slug: paragoz
+letter: P
 lisan: Türkçe
 anlamlar:
 - Parayı çok seven, paraya çok düşkün (kimse); para canlısı, paragözlü

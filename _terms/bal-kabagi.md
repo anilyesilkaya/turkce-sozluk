@@ -2,6 +2,7 @@
 layout: term
 title: bal kabağı
 slug: bal-kabagi
+letter: B
 lisan: Türkçe
 anlamlar:
 - İçi turuncu, iri ve tatlı bir tür kabak (Cucurbita moschata)

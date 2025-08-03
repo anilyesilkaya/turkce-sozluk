@@ -2,6 +2,7 @@
 layout: term
 title: mana (veya manası) çıkmak
 slug: mana-veya-manasi-cikmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - anlamına gelmek, anlamını taşımak

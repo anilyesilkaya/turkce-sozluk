@@ -2,6 +2,7 @@
 layout: term
 title: ufalanmak
 slug: ufalanmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ufalama işi yapılmak, ufak parçalara ayrılmak

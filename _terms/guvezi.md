@@ -2,6 +2,7 @@
 layout: term
 title: güvezî
 slug: guvezi
+letter: G
 lisan: Türkçe güvez + Arapça -į
 anlamlar:
 - ► güvez

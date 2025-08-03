@@ -2,6 +2,7 @@
 layout: term
 title: yuvarlak
 slug: yuvarlak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Top veya küre biçiminde olan; tombul, müdevver

@@ -2,6 +2,7 @@
 layout: term
 title: soğancık
 slug: sogancik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir kat yaprakla sarılı, besin bakımından zengin küçük soğan

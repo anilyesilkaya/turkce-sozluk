@@ -2,6 +2,7 @@
 layout: term
 title: beslenebilme
 slug: beslenebilme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beslenebilmek işi

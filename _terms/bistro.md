@@ -2,6 +2,7 @@
 layout: term
 title: bistro
 slug: bistro
+letter: B
 lisan: Fransızca bistro, bistrot
 anlamlar:
 - İçki içilen kahve

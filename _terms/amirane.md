@@ -2,6 +2,7 @@
 layout: term
 title: amirane
 slug: amirane
+letter: A
 lisan: Arapça āmir + Farsça -āne
 anlamlar:
 - ► amirce

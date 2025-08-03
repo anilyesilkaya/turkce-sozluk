@@ -2,6 +2,7 @@
 layout: term
 title: belenmek
 slug: belenmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► kundaklanmak

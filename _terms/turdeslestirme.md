@@ -2,6 +2,7 @@
 layout: term
 title: türdeşleştirme
 slug: turdeslestirme
+letter: T
 lisan: Türkçe
 anlamlar:
 - Türdeşleştirmek işi

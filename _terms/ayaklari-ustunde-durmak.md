@@ -2,6 +2,7 @@
 layout: term
 title: ayakları üstünde durmak
 slug: ayaklari-ustunde-durmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - başkasının yardımına ihtiyaç duymadan güçlü bir biçimde sorunları çözebilecek durumda olmak

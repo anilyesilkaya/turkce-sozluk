@@ -2,6 +2,7 @@
 layout: term
 title: altın yumurtlayan tavuk
 slug: altin-yumurtlayan-tavuk
+letter: A
 lisan: Türkçe
 anlamlar:
 - mesleği, sanatı, parası olan, gelirli kimse

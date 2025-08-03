@@ -2,6 +2,7 @@
 layout: term
 title: araba araba
 slug: araba-araba
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arabalar dolusu

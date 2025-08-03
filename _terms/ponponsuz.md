@@ -2,6 +2,7 @@
 layout: term
 title: ponponsuz
 slug: ponponsuz
+letter: P
 lisan: Türkçe
 anlamlar:
 - Ponponu bulunmayan

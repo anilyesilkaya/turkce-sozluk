@@ -2,6 +2,7 @@
 layout: term
 title: çizgili defter
 slug: cizgili-defter
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Sayfalarının her satırı yatay çizgilerle belirtilen defter

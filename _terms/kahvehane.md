@@ -2,6 +2,7 @@
 layout: term
 title: kahvehane
 slug: kahvehane
+letter: K
 lisan: Arapça ḳahve + Farsça ḫāne
 anlamlar:
 - Kahve, çay, ıhlamur, nargile vb. içilen, tavla, domino, bilardo, kâğıt vb. oynanan yer; kahve, kıraathane, tahmishane

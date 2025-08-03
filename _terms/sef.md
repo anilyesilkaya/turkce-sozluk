@@ -2,6 +2,7 @@
 layout: term
 title: şef
 slug: sef
+letter: Ş
 lisan: Fransızca chef
 anlamlar:
 - Yetki ve sorumluluğu olan, yöneten kimse

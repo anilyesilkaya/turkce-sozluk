@@ -2,6 +2,7 @@
 layout: term
 title: agâh olmak
 slug: agah-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - bilgilenmek

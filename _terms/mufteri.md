@@ -2,6 +2,7 @@
 layout: term
 title: müfteri
 slug: mufteri
+letter: M
 lisan: Arapça mufterī
 anlamlar:
 - ► karalamacı

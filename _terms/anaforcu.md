@@ -2,6 +2,7 @@
 layout: term
 title: anaforcu
 slug: anaforcu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yolsuzlukla kazanç peşinde olan kimse

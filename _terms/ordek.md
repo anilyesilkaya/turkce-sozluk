@@ -2,6 +2,7 @@
 layout: term
 title: ördek
 slug: ordek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Perde ayaklılardan, evcil ve yabani türleri bulunan su kuşu; badi, badik (Anas)

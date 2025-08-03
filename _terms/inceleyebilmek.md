@@ -2,6 +2,7 @@
 layout: term
 title: inceleyebilmek
 slug: inceleyebilmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İnceleme ihtimali veya imkânı bulunmak

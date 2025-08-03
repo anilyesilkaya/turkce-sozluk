@@ -2,6 +2,7 @@
 layout: term
 title: açık devre
 slug: acik-devre
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir yalıtkanla üzerinden elektrik akımının sürekli olarak geçmesinin engellendiği devre

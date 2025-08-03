@@ -2,6 +2,7 @@
 layout: term
 title: biçimsiz
 slug: bicimsiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kendine özgü bir biçimi olmayan, biçimi bozuk; şekilsiz

@@ -2,6 +2,7 @@
 layout: term
 title: zorbaca
 slug: zorbaca
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zorbaya yakışır bir biçimde

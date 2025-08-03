@@ -2,6 +2,7 @@
 layout: term
 title: sultanlık
 slug: sultanlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sultan olma durumu; saltanat

@@ -2,6 +2,7 @@
 layout: term
 title: şopar
 slug: sopar
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Çingene çocuğu

@@ -2,6 +2,7 @@
 layout: term
 title: kalem
 slug: kalem
+letter: K
 lisan: Arapça ḳalem
 anlamlar:
 - Yazma, çizme vb. işlerde kullanılan çeşitli biçimlerde araç

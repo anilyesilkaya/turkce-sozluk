@@ -2,6 +2,7 @@
 layout: term
 title: tentürdiyot
 slug: tenturdiyot
+letter: T
 lisan: Fransızca teinture d'iode
 anlamlar:
 - Mikrop kapmasını önlemek için bir kesik veya sıyrığa sürülen iyot tentürü

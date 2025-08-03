@@ -2,6 +2,7 @@
 layout: term
 title: heyecanlandırma
 slug: heyecanlandirma
+letter: H
 lisan: Türkçe
 anlamlar:
 - Heyecanlandırmak işi; tehyiç

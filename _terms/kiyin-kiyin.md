@@ -2,6 +2,7 @@
 layout: term
 title: kıyın kıyın
 slug: kiyin-kiyin
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kıyıdan, görünmeden giderek

@@ -2,6 +2,7 @@
 layout: term
 title: tesalüp
 slug: tesalup
+letter: T
 lisan: Arapça teṣālub
 anlamlar:
 - İki şeyin birbiri üzerine çapraz biçimde gelmesi

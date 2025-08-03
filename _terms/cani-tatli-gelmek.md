@@ -2,6 +2,7 @@
 layout: term
 title: canı tatlı gelmek
 slug: cani-tatli-gelmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - sıkıntıya katlanamamak

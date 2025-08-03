@@ -2,6 +2,7 @@
 layout: term
 title: rol yapmak
 slug: rol-yapmak
+letter: R
 lisan: Türkçe
 anlamlar:
 - davranışlarda içtenlik bulunmamak

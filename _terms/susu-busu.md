@@ -2,6 +2,7 @@
 layout: term
 title: şusu busu
 slug: susu-busu
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - belirsiz mal varlığı

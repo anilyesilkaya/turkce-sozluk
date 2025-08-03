@@ -2,6 +2,7 @@
 layout: term
 title: kırmacı
 slug: kirmaci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Giysilere pile yapan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: zamk
 slug: zamk
+letter: Z
 lisan: Arapça ṣamġ
 anlamlar:
 - Akasya, kitre, sütleğen vb. ağaçların kabuklarından sızarak donan, eriyiği yapıştırıcı olarak kullanılan, renksiz veya sarı kırmızımtırak renkte biçimsiz madde

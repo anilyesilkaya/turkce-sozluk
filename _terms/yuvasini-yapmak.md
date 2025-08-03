@@ -2,6 +2,7 @@
 layout: term
 title: yuvasını yapmak
 slug: yuvasini-yapmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - birine gereken ceza veya cevabı vermek, hakkından gelmek

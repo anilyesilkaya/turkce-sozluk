@@ -2,6 +2,7 @@
 layout: term
 title: kantaron
 slug: kantaron
+letter: K
 lisan: Rumca
 anlamlar:
 - Kantarongillerden, hekimlikte kullanılan, sarı çiçekli, acı köklü, küçük bir bitki (Gentiana lutea)

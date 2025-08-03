@@ -2,6 +2,7 @@
 layout: term
 title: şemsiyelik
 slug: semsiyelik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şemsiye koymaya yarayan, altında şemsiyelerden sızan suyun toplanması için özel kutusu olan, girişte bulunan mobilya

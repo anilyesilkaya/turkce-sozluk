@@ -2,6 +2,7 @@
 layout: term
 title: dozunu ayarlamak
 slug: dozunu-ayarlamak
+letter: D
 lisan: Türkçe
 anlamlar:
 - ilacın ölçüsünü aşmamak, gerektiği kadar vermek

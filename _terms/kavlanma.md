@@ -2,6 +2,7 @@
 layout: term
 title: kavlanma
 slug: kavlanma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kavlanmak işi

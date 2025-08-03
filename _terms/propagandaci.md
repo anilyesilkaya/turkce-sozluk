@@ -2,6 +2,7 @@
 layout: term
 title: propagandacı
 slug: propagandaci
+letter: P
 lisan: Türkçe
 anlamlar:
 - Propaganda yapan kimse; propagandist

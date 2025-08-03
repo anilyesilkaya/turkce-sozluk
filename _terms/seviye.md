@@ -2,6 +2,7 @@
 layout: term
 title: seviye
 slug: seviye
+letter: S
 lisan: Arapça seviyye
 anlamlar:
 - ► düzey

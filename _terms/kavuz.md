@@ -2,6 +2,7 @@
 layout: term
 title: kavuz
 slug: kavuz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Buğdaygillerin başağında, başakçıkları veya çiçeği saran kabuk

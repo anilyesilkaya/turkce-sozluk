@@ -2,6 +2,7 @@
 layout: term
 title: ayağını denk almak
 slug: ayagini-denk-almak
+letter: A
 lisan: Türkçe
 anlamlar:
 - başkalarının kendisine yapma ihtimali bulunan kötülüklere karşı uyanık davranmak

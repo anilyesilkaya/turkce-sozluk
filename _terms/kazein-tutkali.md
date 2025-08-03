@@ -2,6 +2,7 @@
 layout: term
 title: kazein tutkalı
 slug: kazein-tutkali
+letter: K
 lisan: Türkçe
 anlamlar:
 - Ekşi sütten kireç yardımı ile üretilen ve soğuk olarak kullanılan ağaç yapıştırıcısı

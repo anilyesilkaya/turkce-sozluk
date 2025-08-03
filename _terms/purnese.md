@@ -2,6 +2,7 @@
 layout: term
 title: pürneşe
 slug: purnese
+letter: P
 lisan: Farsça pur + Arapça neşʾe
 anlamlar:
 - ► neşeli

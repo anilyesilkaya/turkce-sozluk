@@ -2,6 +2,7 @@
 layout: term
 title: muhterem
 slug: muhterem
+letter: M
 lisan: Arapça muḥterem
 anlamlar:
 - ► saygıdeğer

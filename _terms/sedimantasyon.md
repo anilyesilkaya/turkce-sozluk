@@ -2,6 +2,7 @@
 layout: term
 title: sedimantasyon
 slug: sedimantasyon
+letter: S
 lisan: Fransızca sédimentation
 anlamlar:
 - ► çökelme

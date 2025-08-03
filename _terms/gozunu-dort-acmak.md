@@ -2,6 +2,7 @@
 layout: term
 title: gözünü dört açmak
 slug: gozunu-dort-acmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - aldanmamak için çok uyanık bulunmak

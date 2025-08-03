@@ -2,6 +2,7 @@
 layout: term
 title: külleme
 slug: kulleme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Küllemek işi

@@ -2,6 +2,7 @@
 layout: term
 title: yalancı çıkmak
 slug: yalanci-cikmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - bilmeyerek yalan söylemiş bulunmak

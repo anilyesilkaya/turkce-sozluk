@@ -2,6 +2,7 @@
 layout: term
 title: süzgeçten geçirmek
 slug: suzgecten-gecirmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - ayrıntılı bir biçimde incelemek

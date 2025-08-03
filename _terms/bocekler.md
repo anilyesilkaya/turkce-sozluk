@@ -2,6 +2,7 @@
 layout: term
 title: böcekler
 slug: bocekler
+letter: B
 lisan: Türkçe
 anlamlar:
 - Vücutları baş, göğüs ve karın olarak üç bölgeye ayrılan, duyargaları birer, kanatları ikişer, ayaklarıyla ağız parçaları üçer çift olan eklem bacaklılar sınıfı; haşerat

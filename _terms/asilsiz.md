@@ -2,6 +2,7 @@
 layout: term
 title: asılsız
 slug: asilsiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Doğru olmayan, temelsiz, köksüz, dayanaksız, yalan (haber)

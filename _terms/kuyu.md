@@ -2,6 +2,7 @@
 layout: term
 title: kuyu
 slug: kuyu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Su katmanına varıncaya kadar derinliğine kazılan, genellikle silindir biçiminde, çevresine duvar örülen, suyundan yararlanılan çukur

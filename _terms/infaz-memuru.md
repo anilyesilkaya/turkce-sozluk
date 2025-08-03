@@ -2,6 +2,7 @@
 layout: term
 title: infaz memuru
 slug: infaz-memuru
+letter: I
 lisan: Türkçe
 anlamlar:
 - Suçu sabit olan kişilerin yakalanarak haklarında mahkemece verilmiş olan kararın yerine getirilmesini sağlayan güvenlik memuru

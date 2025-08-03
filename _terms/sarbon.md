@@ -2,6 +2,7 @@
 layout: term
 title: şarbon
 slug: sarbon
+letter: Ş
 lisan: Fransızca charbon
 anlamlar:
 - Hayvanlarda, özellikle koyun ve sığırlarda görülen, deri veya mukoza yoluyla insana bulaşan, bulaştığı yerde kara bir çıban yapan tehlikeli hastalık; karakabarcık, karayanık, yanıkara

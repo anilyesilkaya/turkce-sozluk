@@ -2,6 +2,7 @@
 layout: term
 title: çıkarına bakmak
 slug: cikarina-bakmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - yalnızca kendini ve kendi durumunu gözeterek çıkar sağlamak

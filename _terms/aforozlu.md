@@ -2,6 +2,7 @@
 layout: term
 title: aforozlu
 slug: aforozlu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aforoz edilmiş, kovulmuş, uzaklaştırılmış

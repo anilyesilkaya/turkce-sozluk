@@ -2,6 +2,7 @@
 layout: term
 title: kasıtlılık
 slug: kasitlilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kasıtlı olma durumu

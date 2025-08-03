@@ -2,6 +2,7 @@
 layout: term
 title: pişek
 slug: pisek
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► pişkin

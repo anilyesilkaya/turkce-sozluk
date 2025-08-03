@@ -2,6 +2,7 @@
 layout: term
 title: badikleye badikleye
 slug: badikleye-badikleye
+letter: B
 lisan: Türkçe
 anlamlar:
 - Ördek gibi iki yana sallana sallana yürüyerek

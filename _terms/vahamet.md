@@ -2,6 +2,7 @@
 layout: term
 title: vahamet
 slug: vahamet
+letter: V
 lisan: Arapça vaḫāmet
 anlamlar:
 - Güçlük, korkulacak tehlikeli durum

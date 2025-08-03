@@ -2,6 +2,7 @@
 layout: term
 title: emniyet vermek
 slug: emniyet-vermek
+letter: E
 lisan: Türkçe
 anlamlar:
 - güven vermek

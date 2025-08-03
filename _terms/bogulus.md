@@ -2,6 +2,7 @@
 layout: term
 title: boğuluş
 slug: bogulus
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boğulmak işi

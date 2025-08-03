@@ -2,6 +2,7 @@
 layout: term
 title: pullanma
 slug: pullanma
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pullanmak işi

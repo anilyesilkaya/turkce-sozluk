@@ -2,6 +2,7 @@
 layout: term
 title: koğuş
 slug: kogus
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kışla, okul, tutukevi, hastane vb. kalabalık yerlerde, içinde birçok kimsenin yattığı veya barındığı büyük oda

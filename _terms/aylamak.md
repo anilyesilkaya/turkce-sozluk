@@ -2,6 +2,7 @@
 layout: term
 title: aylamak
 slug: aylamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir aylık süreyi geçirmek

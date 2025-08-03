@@ -2,6 +2,7 @@
 layout: term
 title: âşıkane
 slug: asikane
+letter: Â
 lisan: Arapça ʿāşiḳ + Farsça -āne
 anlamlar:
 - Âşığa yaraşır bir biçimde olan

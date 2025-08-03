@@ -2,6 +2,7 @@
 layout: term
 title: vaybabamcılık
 slug: vaybabamcilik
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vaybabamcının işi

@@ -2,6 +2,7 @@
 layout: term
 title: onay (veya onayını) almak
 slug: onay-veya-onayini-almak
+letter: O
 lisan: Türkçe
 anlamlar:
 - onaylanmasını sağlamak, kabul veya tasdik ettirmek

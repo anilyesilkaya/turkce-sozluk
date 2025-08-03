@@ -2,6 +2,7 @@
 layout: term
 title: zıngadak
 slug: zingadak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Birdenbire ve sarsıntıyla

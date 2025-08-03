@@ -2,6 +2,7 @@
 layout: term
 title: mürekkep yalamak
 slug: murekkep-yalamak
+letter: M
 lisan: Türkçe
 anlamlar:
 - çok okumuş, yazmış olmak

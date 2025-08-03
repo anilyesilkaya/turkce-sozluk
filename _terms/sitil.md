@@ -2,6 +2,7 @@
 layout: term
 title: sitil
 slug: sitil
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bitki veya meyve fidesi

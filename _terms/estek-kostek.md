@@ -2,6 +2,7 @@
 layout: term
 title: estek köstek
 slug: estek-kostek
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► falan filan

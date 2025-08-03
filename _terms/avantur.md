@@ -2,6 +2,7 @@
 layout: term
 title: avantür
 slug: avantur
+letter: A
 lisan: Fransızca aventure
 anlamlar:
 - ► macera

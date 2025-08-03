@@ -2,6 +2,7 @@
 layout: term
 title: armudiye altını
 slug: armudiye-altini
+letter: A
 lisan: Türkçe
 anlamlar:
 - Nazarlık olarak takılan, üzerine “bismillahirrahmanirrahim” veya “maşallah” sözleri yazılmış, armut biçimindeki altın

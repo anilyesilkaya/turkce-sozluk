@@ -2,6 +2,7 @@
 layout: term
 title: antre
 slug: antre
+letter: A
 lisan: Fransızca entrée
 anlamlar:
 - ► giriş

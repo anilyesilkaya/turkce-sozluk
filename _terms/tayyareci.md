@@ -2,6 +2,7 @@
 layout: term
 title: tayyareci
 slug: tayyareci
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► pilot

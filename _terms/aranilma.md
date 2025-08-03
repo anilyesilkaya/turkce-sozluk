@@ -2,6 +2,7 @@
 layout: term
 title: aranılma
 slug: aranilma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aranılmak durumu

@@ -2,6 +2,7 @@
 layout: term
 title: inkişaf etmek
 slug: inkisaf-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - gelişmek

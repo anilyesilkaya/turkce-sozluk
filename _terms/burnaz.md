@@ -2,6 +2,7 @@
 layout: term
 title: burnaz
 slug: burnaz
+letter: B
 lisan: Türkçe
 anlamlar:
 - İri ve uzun burunlu

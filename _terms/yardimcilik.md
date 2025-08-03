@@ -2,6 +2,7 @@
 layout: term
 title: yardımcılık
 slug: yardimcilik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yardımcı olma durumu

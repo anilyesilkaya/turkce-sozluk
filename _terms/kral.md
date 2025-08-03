@@ -2,6 +2,7 @@
 layout: term
 title: kral
 slug: kral
+letter: K
 lisan: Sırpça
 anlamlar:
 - En yüksek devlet otoritesini, bütün devlet başkanlığı yetkilerini kalıtım veya soylularca seçilme yoluyla elinde bulunduran kimse

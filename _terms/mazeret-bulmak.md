@@ -2,6 +2,7 @@
 layout: term
 title: mazeret bulmak
 slug: mazeret-bulmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - içinde bulunulan durumu açıklayacak bir sebebi ortaya koymak

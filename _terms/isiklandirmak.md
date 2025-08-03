@@ -2,6 +2,7 @@
 layout: term
 title: ışıklandırmak
 slug: isiklandirmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► aydınlatmak

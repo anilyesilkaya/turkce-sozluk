@@ -2,6 +2,7 @@
 layout: term
 title: vecize
 slug: vecize
+letter: V
 lisan: Arapça vecīze
 anlamlar:
 - ► özdeyiş

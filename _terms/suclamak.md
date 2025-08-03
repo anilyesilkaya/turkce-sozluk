@@ -2,6 +2,7 @@
 layout: term
 title: suçlamak
 slug: suclamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir kimsenin herhangi bir suç işlediğini öne sürmek, itham etmek

@@ -2,6 +2,7 @@
 layout: term
 title: sınıf atlamak
 slug: sinif-atlamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - üstün başarı göstererek bir üst sınıfta öğrenim görmeye hak kazanmak

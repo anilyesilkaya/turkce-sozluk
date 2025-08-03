@@ -2,6 +2,7 @@
 layout: term
 title: pekleştirmek
 slug: peklestirmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pekleşmesine yol açmak, pekleşme işini yaptırmak

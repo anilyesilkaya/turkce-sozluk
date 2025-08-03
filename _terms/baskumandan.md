@@ -2,6 +2,7 @@
 layout: term
 title: başkumandan
 slug: baskumandan
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► başkomutan

@@ -2,6 +2,7 @@
 layout: term
 title: şikâyet
 slug: sikayet
+letter: Ş
 lisan: Arapça şikāyet
 anlamlar:
 - Hoşnutsuzluk belirten söz veya yazı; yakınma (II), yakıntı, ağlantı, şekva

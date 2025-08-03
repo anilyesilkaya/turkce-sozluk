@@ -2,6 +2,7 @@
 layout: term
 title: ödünsüzlük
 slug: odunsuzluk
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ödünsüz olma durumu; ivazsızlık

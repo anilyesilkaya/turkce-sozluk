@@ -2,6 +2,7 @@
 layout: term
 title: doymazlık
 slug: doymazlik
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► açgözlülük

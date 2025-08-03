@@ -2,6 +2,7 @@
 layout: term
 title: cızırdama
 slug: cizirdama
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cızırdamak işi; cızıldama

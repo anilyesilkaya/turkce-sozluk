@@ -2,6 +2,7 @@
 layout: term
 title: helalî
 slug: helali
+letter: H
 lisan: Arapça ḥalālī
 anlamlar:
 - Ham ipekten dokunmuş bürümceğe pamuk ipliği katılarak elde edilen kumaş

@@ -2,6 +2,7 @@
 layout: term
 title: mumla aramak
 slug: mumla-aramak
+letter: M
 lisan: Türkçe
 anlamlar:
 - çok isteyerek ve özlemle aramak

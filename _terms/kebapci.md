@@ -2,6 +2,7 @@
 layout: term
 title: kebapçı
 slug: kebapci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kebap yapıp satan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: abidik gubidik
 slug: abidik-gubidik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► saçma

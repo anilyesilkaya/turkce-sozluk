@@ -2,6 +2,7 @@
 layout: term
 title: cinnet
 slug: cinnet
+letter: C
 lisan: Arapça cinnet
 anlamlar:
 - ► delilik

@@ -2,6 +2,7 @@
 layout: term
 title: beş para etmez
 slug: bes-para-etmez
+letter: B
 lisan: Türkçe
 anlamlar:
 - '"hiçbir değeri yok, işe yaramaz" anlamında kullanılan bir söz'

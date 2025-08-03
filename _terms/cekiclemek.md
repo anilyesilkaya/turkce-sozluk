@@ -2,6 +2,7 @@
 layout: term
 title: çekiçlemek
 slug: cekiclemek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çekiçle dövmek

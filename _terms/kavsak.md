@@ -2,6 +2,7 @@
 layout: term
 title: kavşak
 slug: kavsak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yol vb. uzayıp giden şeylerin kesiştikleri veya birleştikleri yer

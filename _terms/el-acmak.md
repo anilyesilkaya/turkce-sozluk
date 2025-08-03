@@ -2,6 +2,7 @@
 layout: term
 title: el açmak
 slug: el-acmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - dilenmek

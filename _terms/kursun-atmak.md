@@ -2,6 +2,7 @@
 layout: term
 title: kurşun atmak
 slug: kursun-atmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - silahla mermi atmak

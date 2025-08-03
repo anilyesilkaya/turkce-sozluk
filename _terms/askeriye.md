@@ -2,6 +2,7 @@
 layout: term
 title: askeriye
 slug: askeriye
+letter: A
 lisan: Arapça ʿaskeriyye
 anlamlar:
 - ► ordu

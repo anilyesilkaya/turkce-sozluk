@@ -2,6 +2,7 @@
 layout: term
 title: facialaştırma
 slug: facialastirma
+letter: F
 lisan: Türkçe
 anlamlar:
 - Facialaştırmak işi

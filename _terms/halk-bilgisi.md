@@ -2,6 +2,7 @@
 layout: term
 title: halk bilgisi
 slug: halk-bilgisi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Halk biliminin, çevreyi oluşturan canlı, cansız doğal nesnelerle ilgili inanç ve uygulamaları konu alan dalı

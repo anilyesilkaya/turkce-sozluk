@@ -2,6 +2,7 @@
 layout: term
 title: armutsu
 slug: armutsu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Armudu andıran, armuda benzeyen, armut gibi; armudumsu

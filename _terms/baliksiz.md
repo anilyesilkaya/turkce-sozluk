@@ -2,6 +2,7 @@
 layout: term
 title: balıksız
 slug: baliksiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Balığı olmayan

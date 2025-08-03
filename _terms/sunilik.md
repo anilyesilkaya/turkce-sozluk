@@ -2,6 +2,7 @@
 layout: term
 title: sunilik
 slug: sunilik
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► yapaylık

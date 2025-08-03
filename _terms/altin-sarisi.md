@@ -2,6 +2,7 @@
 layout: term
 title: altın sarısı
 slug: altin-sarisi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Sarı ve kahverenginin karışımından ortaya çıkan renk; altın rengi, altuni, dore

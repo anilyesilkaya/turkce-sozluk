@@ -2,6 +2,7 @@
 layout: term
 title: husus
 slug: husus
+letter: H
 lisan: Arapça ḫuṣūṣ
 anlamlar:
 - ► konu

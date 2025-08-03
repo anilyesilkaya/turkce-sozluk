@@ -2,6 +2,7 @@
 layout: term
 title: intizar odası
 slug: intizar-odasi
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► bekleme salonu

@@ -2,6 +2,7 @@
 layout: term
 title: kartoncu
 slug: kartoncu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karton veya karton eşya yapan veya satan kimse

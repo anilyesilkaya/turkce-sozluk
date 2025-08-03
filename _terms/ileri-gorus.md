@@ -2,6 +2,7 @@
 layout: term
 title: ileri görüş
 slug: ileri-gorus
+letter: I
 lisan: Türkçe
 anlamlar:
 - Olayların akışından gelecekte olması muhtemel olanları kestirebilme; vizyon

@@ -2,6 +2,7 @@
 layout: term
 title: işmar
 slug: ismar
+letter: I
 lisan: Ermenice
 anlamlar:
 - El, göz veya baş ile yapılan işaret

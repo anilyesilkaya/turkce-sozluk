@@ -2,6 +2,7 @@
 layout: term
 title: vokal
 slug: vokal
+letter: V
 lisan: Almanca Vokal
 anlamlar:
 - ► ünlü

@@ -2,6 +2,7 @@
 layout: term
 title: hamla
 slug: hamla
+letter: H
 lisan: Arapça ḥamle
 anlamlar:
 - Küreklerin bir kez suya daldırılıp çıkarılması

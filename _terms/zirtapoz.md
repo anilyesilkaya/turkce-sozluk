@@ -2,6 +2,7 @@
 layout: term
 title: zırtapoz
 slug: zirtapoz
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► zıpır

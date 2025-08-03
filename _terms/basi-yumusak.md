@@ -2,6 +2,7 @@
 layout: term
 title: başı yumuşak
 slug: basi-yumusak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Uysal, söz dinler (kimse)

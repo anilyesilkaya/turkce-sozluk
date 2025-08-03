@@ -2,6 +2,7 @@
 layout: term
 title: üst küme
 slug: ust-kume
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - İçinde bulunulan lig maçlarının bir üst ligi

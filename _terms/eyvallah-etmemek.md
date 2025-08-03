@@ -2,6 +2,7 @@
 layout: term
 title: eyvallah etmemek
 slug: eyvallah-etmemek
+letter: E
 lisan: Türkçe
 anlamlar:
 - birinden yardım istememek, gönül borcu olmamak, boyun eğmemek

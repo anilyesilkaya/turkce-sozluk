@@ -2,6 +2,7 @@
 layout: term
 title: talik etmek
 slug: talik-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - asmak

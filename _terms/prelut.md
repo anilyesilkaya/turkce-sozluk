@@ -2,6 +2,7 @@
 layout: term
 title: prelüt
 slug: prelut
+letter: P
 lisan: Fransızca prélude
 anlamlar:
 - Ses ve çalgı ile ilgili bir kompozisyona girişi sağlayan yazılı veya doğaçlama müzik parçası

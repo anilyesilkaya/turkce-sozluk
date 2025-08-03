@@ -2,6 +2,7 @@
 layout: term
 title: mamurluk
 slug: mamurluk
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► bayındırlık

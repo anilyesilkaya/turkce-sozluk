@@ -2,6 +2,7 @@
 layout: term
 title: çömçe gelin
 slug: comce-gelin
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çocukların süpürgeyi gelin yaparak oynadıkları bir oyun

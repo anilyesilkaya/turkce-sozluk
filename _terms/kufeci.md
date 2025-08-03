@@ -2,6 +2,7 @@
 layout: term
 title: küfeci
 slug: kufeci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Küfe yapan veya satan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: florit
 slug: florit
+letter: F
 lisan: Fransızca fluoride
 anlamlar:
 - Çeşitli renkleri olan, kalsiyum florür birleşiminde bir mineral

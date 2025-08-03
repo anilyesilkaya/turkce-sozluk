@@ -2,6 +2,7 @@
 layout: term
 title: yaşayışlı
 slug: yasayisli
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaşayışı olan

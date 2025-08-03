@@ -2,6 +2,7 @@
 layout: term
 title: asalak
 slug: asalak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir canlıda sürekli veya geçici yaşayarak ona zarar veren başka canlı; parazit

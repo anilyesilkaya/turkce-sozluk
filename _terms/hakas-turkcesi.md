@@ -2,6 +2,7 @@
 layout: term
 title: Hakas Türkçesi
 slug: hakas-turkcesi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hakas Türklerinin kullandığı konuşma ve yazı dili; Hakasça

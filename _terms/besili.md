@@ -2,6 +2,7 @@
 layout: term
 title: besili
 slug: besili
+letter: B
 lisan: Türkçe
 anlamlar:
 - Semiz, semirtilmiş olan; yağlı

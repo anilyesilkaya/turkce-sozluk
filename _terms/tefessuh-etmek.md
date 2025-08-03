@@ -2,6 +2,7 @@
 layout: term
 title: tefessüh etmek
 slug: tefessuh-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - organ, yiyecek vb. çürüyerek bozulmak

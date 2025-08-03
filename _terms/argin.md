@@ -2,6 +2,7 @@
 layout: term
 title: argın
 slug: argin
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yorgun, bitkin, mecalsiz durumda olan

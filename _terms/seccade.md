@@ -2,6 +2,7 @@
 layout: term
 title: seccade
 slug: seccade
+letter: S
 lisan: Arapça seccāde
 anlamlar:
 - Bir kişinin üzerinde namaz kılabileceği büyüklükte, halı, kilim, post veya kumaştan yaygı; namazlık

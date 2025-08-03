@@ -2,6 +2,7 @@
 layout: term
 title: kaçınık
 slug: kacinik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Köşesine çekilmiş, insan içine çıkmak istemeyen (kimse); kapanık

@@ -2,6 +2,7 @@
 layout: term
 title: evlenebilmek
 slug: evlenebilmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Evlenme ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: meram (veya meramını) anlatmak
 slug: meram-veya-meramini-anlatmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - isteğini, derdini anlatmak

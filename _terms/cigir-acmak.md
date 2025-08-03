@@ -2,6 +2,7 @@
 layout: term
 title: çığır açmak
 slug: cigir-acmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - bir alanda yeni bir yol, yöntem başlatmak

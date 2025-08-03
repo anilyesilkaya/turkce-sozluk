@@ -2,6 +2,7 @@
 layout: term
 title: isyankâr
 slug: isyankar
+letter: I
 lisan: Arapça ʿiṣyān + Farsça -kār
 anlamlar:
 - ► başkaldırıcı

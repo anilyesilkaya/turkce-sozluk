@@ -2,6 +2,7 @@
 layout: term
 title: kan kusturmak
 slug: kan-kusturmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - çok eziyet çektirmek

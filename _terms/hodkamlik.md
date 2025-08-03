@@ -2,6 +2,7 @@
 layout: term
 title: hodkâmlık
 slug: hodkamlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► bencillik

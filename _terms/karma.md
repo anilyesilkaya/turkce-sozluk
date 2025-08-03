@@ -2,6 +2,7 @@
 layout: term
 title: karma
 slug: karma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karmak işi

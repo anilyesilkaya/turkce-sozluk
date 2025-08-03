@@ -2,6 +2,7 @@
 layout: term
 title: hidrodinamik
 slug: hidrodinamik
+letter: H
 lisan: Fransızca hydrodynamique
 anlamlar:
 - Sıvıya batırılmış katı cisimler üzerinde, onların hareketiyle ilgili olarak sıvıların gösterdiği direnci ve sıvıların hareketini inceleyen bilim dalı

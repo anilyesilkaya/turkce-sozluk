@@ -2,6 +2,7 @@
 layout: term
 title: gidişat
 slug: gidisat
+letter: G
 lisan: Türkçe gidiş + Arapça -āt çokluk yapan ek
 anlamlar:
 - Olayların durumu, işlerin gelişme biçimi

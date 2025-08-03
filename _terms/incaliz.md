@@ -2,6 +2,7 @@
 layout: term
 title: ıncalız
 slug: incaliz
+letter: I
 lisan: Türkçe
 anlamlar:
 - Turşusu yapılan bir tür küçük yaban soğanı

@@ -2,6 +2,7 @@
 layout: term
 title: camekânlı
 slug: camekanli
+letter: C
 lisan: Türkçe
 anlamlar:
 - Camekânı olan (yer)

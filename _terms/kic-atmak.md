@@ -2,6 +2,7 @@
 layout: term
 title: kıç atmak
 slug: kic-atmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - çifte atmak

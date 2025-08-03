@@ -2,6 +2,7 @@
 layout: term
 title: utanmazcasına
 slug: utanmazcasina
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► utanmazca

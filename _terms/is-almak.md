@@ -2,6 +2,7 @@
 layout: term
 title: iş almak
 slug: is-almak
+letter: I
 lisan: Türkçe
 anlamlar:
 - yapılması kesinleşen bir işi üstlenmek, taahhüt altına girmek

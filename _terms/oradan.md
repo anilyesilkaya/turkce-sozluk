@@ -2,6 +2,7 @@
 layout: term
 title: oradan
 slug: oradan
+letter: O
 lisan: Türkçe
 anlamlar:
 - Sözü edilen yerden

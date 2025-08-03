@@ -2,6 +2,7 @@
 layout: term
 title: yerinde olmak
 slug: yerinde-olmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - uygun olmak

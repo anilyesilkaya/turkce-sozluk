@@ -2,6 +2,7 @@
 layout: term
 title: yayvanlık
 slug: yayvanlik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yayvan olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: şirpençe
 slug: sirpence
+letter: Ş
 lisan: Farsça şīr + pence
 anlamlar:
 - Deri altı hücre dokusunun ve yağ bezlerinin iltihaplanmasından oluşan, genişlediğinde çok tehlikeli olabilen, stafilokokların sebep olduğu bir kan çıbanı; kızılyara, aslanpençesi

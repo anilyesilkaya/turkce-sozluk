@@ -2,6 +2,7 @@
 layout: term
 title: omuz başı
 slug: omuz-basi
+letter: O
 lisan: Türkçe
 anlamlar:
 - Kol ile omzun birleştiği yer

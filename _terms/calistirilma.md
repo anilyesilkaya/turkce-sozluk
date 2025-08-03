@@ -2,6 +2,7 @@
 layout: term
 title: çalıştırılma
 slug: calistirilma
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çalıştırılmak işi

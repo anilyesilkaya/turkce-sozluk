@@ -2,6 +2,7 @@
 layout: term
 title: abiye
 slug: abiye
+letter: A
 lisan: Fransızca habillé
 anlamlar:
 - ► gece kıyafeti

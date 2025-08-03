@@ -2,6 +2,7 @@
 layout: term
 title: perdesi yırtık
 slug: perdesi-yirtik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Utanmaz, arlanmaz, utanma duygusunu kaybetmiş (kimse); perdesi sıyrık

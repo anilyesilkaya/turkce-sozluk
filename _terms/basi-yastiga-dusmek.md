@@ -2,6 +2,7 @@
 layout: term
 title: başı yastığa düşmek
 slug: basi-yastiga-dusmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - yorgunluktan veya güçsüzlükten uykuya dalmak

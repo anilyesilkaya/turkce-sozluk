@@ -2,6 +2,7 @@
 layout: term
 title: zülfaris
 slug: zulfaris
+letter: Z
 lisan: Farsça zulf + Arapça ʿarūs
 anlamlar:
 - Baklagillerden, bir süs bitkisi ve bunun güzel kokulu, mor, beyaz renkli, saç lülesi görünüşünde olan kıvrıntılı çiçeği (Phaseolus caracalla)

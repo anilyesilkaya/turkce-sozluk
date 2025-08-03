@@ -2,6 +2,7 @@
 layout: term
 title: çığrışmak
 slug: cigrismak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çağrışmak

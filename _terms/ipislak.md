@@ -2,6 +2,7 @@
 layout: term
 title: ıpıslak
 slug: ipislak
+letter: I
 lisan: Türkçe
 anlamlar:
 - Çok ıslak, her yanı ıslak

@@ -2,6 +2,7 @@
 layout: term
 title: kalubeladan beri
 slug: kalubeladan-beri
+letter: K
 lisan: Türkçe
 anlamlar:
 - dünya kurulalı beri, çok eskiden beri

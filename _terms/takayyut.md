@@ -2,6 +2,7 @@
 layout: term
 title: takayyüt
 slug: takayyut
+letter: T
 lisan: Arapça taḳayyud
 anlamlar:
 - ► bağlanma

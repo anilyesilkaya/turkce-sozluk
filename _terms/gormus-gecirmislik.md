@@ -2,6 +2,7 @@
 layout: term
 title: görmüş geçirmişlik
 slug: gormus-gecirmislik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Görmüş geçirmiş olma durumu

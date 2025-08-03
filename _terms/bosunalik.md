@@ -2,6 +2,7 @@
 layout: term
 title: boşunalık
 slug: bosunalik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boşuna olma durumu; nafilelik

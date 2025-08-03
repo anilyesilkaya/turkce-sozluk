@@ -2,6 +2,7 @@
 layout: term
 title: çıvgar
 slug: civgar
+letter: Ç
 lisan: Rumca
 anlamlar:
 - Çift sürmekte veya araba çekmekte olan hayvanlara yardımcı olarak koşulan hayvan

@@ -2,6 +2,7 @@
 layout: term
 title: aile dostu
 slug: aile-dostu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ailece tanışılan ve yakın ilişki içinde olunan ahbap

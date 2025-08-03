@@ -2,6 +2,7 @@
 layout: term
 title: gözü pek olmak
 slug: gozu-pek-olmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - cesur, korkusuz olmak

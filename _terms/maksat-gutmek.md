@@ -2,6 +2,7 @@
 layout: term
 title: maksat gütmek
 slug: maksat-gutmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - bir işi yaparken gizli amaç beslemek

@@ -2,6 +2,7 @@
 layout: term
 title: siper
 slug: siper
+letter: S
 lisan: Farsça siper
 anlamlar:
 - Korunulacak, arkasına, altına veya içine girerek saklanılacak yer

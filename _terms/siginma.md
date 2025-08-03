@@ -2,6 +2,7 @@
 layout: term
 title: sığınma
 slug: siginma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sığınmak işi; iltica

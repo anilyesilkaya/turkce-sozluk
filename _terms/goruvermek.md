@@ -2,6 +2,7 @@
 layout: term
 title: görüvermek
 slug: goruvermek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Ansızın veya çabucak görmek

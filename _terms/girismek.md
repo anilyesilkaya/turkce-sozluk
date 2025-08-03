@@ -2,6 +2,7 @@
 layout: term
 title: girişmek
 slug: girismek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bir işi ele almak

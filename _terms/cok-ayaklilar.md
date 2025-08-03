@@ -2,6 +2,7 @@
 layout: term
 title: çok ayaklılar
 slug: cok-ayaklilar
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Eklem bacaklı böceklerin, çıyan gibi her ekleminde bir veya iki çift ayağı olan takımı

@@ -2,6 +2,7 @@
 layout: term
 title: çatışmasız
 slug: catismasiz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çatışma olmayan

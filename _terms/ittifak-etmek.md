@@ -2,6 +2,7 @@
 layout: term
 title: ittifak etmek
 slug: ittifak-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - bağlaşmak

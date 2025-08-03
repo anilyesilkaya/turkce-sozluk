@@ -2,6 +2,7 @@
 layout: term
 title: perküsyon
 slug: perkusyon
+letter: P
 lisan: Fransızca percussion
 anlamlar:
 - ► vurmalı sazlar

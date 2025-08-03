@@ -2,6 +2,7 @@
 layout: term
 title: kuzu kesilmek
 slug: kuzu-kesilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - uysallaşmak, sessizleşmek, sakin bir durum almak

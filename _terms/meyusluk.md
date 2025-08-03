@@ -2,6 +2,7 @@
 layout: term
 title: meyusluk
 slug: meyusluk
+letter: M
 lisan: Türkçe
 anlamlar:
 - Meyus olma durumu

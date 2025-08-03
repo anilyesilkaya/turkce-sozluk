@@ -2,6 +2,7 @@
 layout: term
 title: kayık
 slug: kayik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kürek veya yelkenle yürütülen ufak tekne

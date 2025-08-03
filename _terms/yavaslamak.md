@@ -2,6 +2,7 @@
 layout: term
 title: yavaşlamak
 slug: yavaslamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yavaş gitmeye başlamak, hızını azaltmak, yavaş olmak; ağırlaşmak, ahesteleşmek, hafifleşmek

@@ -2,6 +2,7 @@
 layout: term
 title: keşmekeşlik
 slug: kesmekeslik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karışıklık, halledilmesi, içinden çıkılması zor durum

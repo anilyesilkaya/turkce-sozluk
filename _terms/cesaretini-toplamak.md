@@ -2,6 +2,7 @@
 layout: term
 title: cesaretini toplamak
 slug: cesaretini-toplamak
+letter: C
 lisan: Türkçe
 anlamlar:
 - korkusunu yenip kendine hâkim olmak

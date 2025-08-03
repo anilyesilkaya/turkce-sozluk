@@ -2,6 +2,7 @@
 layout: term
 title: alttan alta
 slug: alttan-alta
+letter: A
 lisan: Türkçe
 anlamlar:
 - Gizlice, el altından

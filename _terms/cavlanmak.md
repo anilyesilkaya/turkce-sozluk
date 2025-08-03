@@ -2,6 +2,7 @@
 layout: term
 title: çavlanmak
 slug: cavlanmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Gürültüsü çevreye yayılmak

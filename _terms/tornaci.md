@@ -2,6 +2,7 @@
 layout: term
 title: tornacı
 slug: tornaci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Torna işi yapan kimse, torna işçisi

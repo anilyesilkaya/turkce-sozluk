@@ -2,6 +2,7 @@
 layout: term
 title: sünger çekmek
 slug: sunger-cekmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - bir şeyi hiç olmamış saymak, silmek, silip atmak, unutmak

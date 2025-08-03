@@ -2,6 +2,7 @@
 layout: term
 title: terbiyesiz
 slug: terbiyesiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Terbiyesi olmayan

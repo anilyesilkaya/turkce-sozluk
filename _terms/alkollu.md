@@ -2,6 +2,7 @@
 layout: term
 title: alkollü
 slug: alkollu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alkolden yapılmış, içinde alkol bulunan, alkol katılmış

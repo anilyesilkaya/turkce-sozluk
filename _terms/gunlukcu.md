@@ -2,6 +2,7 @@
 layout: term
 title: günlükçü
 slug: gunlukcu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Günlük yazarı, günlük tutmuş ve yayımlamış olan kimse

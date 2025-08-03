@@ -2,6 +2,7 @@
 layout: term
 title: üfürük
 slug: ufuruk
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üfürülerek verilen soluk

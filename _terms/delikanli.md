@@ -2,6 +2,7 @@
 layout: term
 title: delikanlı
 slug: delikanli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çocukluk çağından çıkmış genç erkek

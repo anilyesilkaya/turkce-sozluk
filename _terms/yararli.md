@@ -2,6 +2,7 @@
 layout: term
 title: yararlı
 slug: yararli
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yarar sağlayan, yararı olan; yarayışlı, faydalı, istifadeli, nafi, müfit

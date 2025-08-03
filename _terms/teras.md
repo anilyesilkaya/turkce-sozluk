@@ -2,6 +2,7 @@
 layout: term
 title: teras
 slug: teras
+letter: T
 lisan: Fransızca terrasse
 anlamlar:
 - Apartmanlarda veya evlerde en üst katın üç tarafı ve üstü açık olan bölümü; ayazlık, taraça

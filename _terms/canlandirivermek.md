@@ -2,6 +2,7 @@
 layout: term
 title: canlandırıvermek
 slug: canlandirivermek
+letter: C
 lisan: Türkçe
 anlamlar:
 - Çabucak canlandırmak

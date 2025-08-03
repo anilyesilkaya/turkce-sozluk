@@ -2,6 +2,7 @@
 layout: term
 title: çariçelik
 slug: caricelik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çariçe olma durumu

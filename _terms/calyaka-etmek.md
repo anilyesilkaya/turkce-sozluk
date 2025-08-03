@@ -2,6 +2,7 @@
 layout: term
 title: çalyaka etmek
 slug: calyaka-etmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - yakasına yapışıp sıkıca tutmak

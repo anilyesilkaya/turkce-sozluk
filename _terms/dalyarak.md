@@ -2,6 +2,7 @@
 layout: term
 title: dalyarak
 slug: dalyarak
+letter: D
 lisan: Türkçe
 anlamlar:
 - “Budalalığı yüzünden her zaman densizlik, küstahlık eden (kimse)” anlamında kullanılan bir hakaret sözü

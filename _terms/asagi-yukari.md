@@ -2,6 +2,7 @@
 layout: term
 title: aşağı yukarı
 slug: asagi-yukari
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir baştan bir başa

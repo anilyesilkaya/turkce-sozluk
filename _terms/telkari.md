@@ -2,6 +2,7 @@
 layout: term
 title: telkâri
 slug: telkari
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tel durumundaki gümüşü, altını örerek veya bir şey üzerine kakarak yapılan iş

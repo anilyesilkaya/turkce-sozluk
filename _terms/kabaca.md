@@ -2,6 +2,7 @@
 layout: term
 title: kabaca
 slug: kabaca
+letter: K
 lisan: Türkçe
 anlamlar:
 - İrice, büyükçe olan

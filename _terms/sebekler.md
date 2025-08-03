@@ -2,6 +2,7 @@
 layout: term
 title: şebekler
 slug: sebekler
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Primatların alt takımı

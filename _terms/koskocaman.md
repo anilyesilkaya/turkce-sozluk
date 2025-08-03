@@ -2,6 +2,7 @@
 layout: term
 title: koskocaman
 slug: koskocaman
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çok büyük, çok iri

@@ -2,6 +2,7 @@
 layout: term
 title: uskur
 slug: uskur
+letter: U
 lisan: İngilizce screw
 anlamlar:
 - ► pervane

@@ -2,6 +2,7 @@
 layout: term
 title: sorgu
 slug: sorgu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sormak işi

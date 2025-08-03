@@ -2,6 +2,7 @@
 layout: term
 title: tımarhanelik
 slug: timarhanelik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tımarhaneye kapatılmasını gerektirecek kadar akıl hastası olan

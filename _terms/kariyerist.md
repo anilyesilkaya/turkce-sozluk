@@ -2,6 +2,7 @@
 layout: term
 title: kariyerist
 slug: kariyerist
+letter: K
 lisan: Fransızca carriériste
 anlamlar:
 - Kariyerizm öğretisine bağlı olan kimse

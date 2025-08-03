@@ -2,6 +2,7 @@
 layout: term
 title: ama ne
 slug: ama-ne
+letter: A
 lisan: Türkçe
 anlamlar:
 - '"ne hoş" anlamında kullanılan bir söz'

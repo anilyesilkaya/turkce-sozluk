@@ -2,6 +2,7 @@
 layout: term
 title: bağırsak
 slug: bagirsak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Sindirim sisteminde mideden sonra gelen ve besinlerin kana karışmasını, artıkların dışarı atılmasını sağlayan organ

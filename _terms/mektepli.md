@@ -2,6 +2,7 @@
 layout: term
 title: mektepli
 slug: mektepli
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► öğrenci

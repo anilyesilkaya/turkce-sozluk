@@ -2,6 +2,7 @@
 layout: term
 title: akasya
 slug: akasya
+letter: A
 lisan: Fransızca acacia
 anlamlar:
 - Baklagillerden, sıcak iklimlerde birçok türü yetişen ve tanen, zamk, boya vb. maddelerin yapımında kullanılan bir ağaç (Acacia)

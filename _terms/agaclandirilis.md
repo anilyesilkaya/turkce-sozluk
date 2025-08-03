@@ -2,6 +2,7 @@
 layout: term
 title: ağaçlandırılış
 slug: agaclandirilis
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağaçlandırılmak işi

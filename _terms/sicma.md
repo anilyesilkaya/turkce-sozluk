@@ -2,6 +2,7 @@
 layout: term
 title: sıçma
 slug: sicma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıçmak işi

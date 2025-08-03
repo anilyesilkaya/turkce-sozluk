@@ -2,6 +2,7 @@
 layout: term
 title: tamirhane
 slug: tamirhane
+letter: T
 lisan: Arapça taʿmīr + Farsça ḫāne
 anlamlar:
 - Genellikle teknik araçların onarıldığı yer

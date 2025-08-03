@@ -2,6 +2,7 @@
 layout: term
 title: beğenmemek
 slug: begenmemek
+letter: B
 lisan: Türkçe
 anlamlar:
 - kuşku duymak, kuşku ile karşılamak

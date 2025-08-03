@@ -2,6 +2,7 @@
 layout: term
 title: klas
 slug: klas
+letter: K
 lisan: Fransızca classe
 anlamlar:
 - ► sınıf

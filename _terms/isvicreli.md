@@ -2,6 +2,7 @@
 layout: term
 title: İsviçreli
 slug: isvicreli
+letter: İ
 lisan: Türkçe
 anlamlar:
 - İsviçre'de yaşayan halk ve bu halkın soyundan olan kimse

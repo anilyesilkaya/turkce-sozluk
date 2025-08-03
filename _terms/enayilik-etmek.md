@@ -2,6 +2,7 @@
 layout: term
 title: enayilik etmek
 slug: enayilik-etmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - enayi gibi davranmak

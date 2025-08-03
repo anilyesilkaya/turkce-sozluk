@@ -2,6 +2,7 @@
 layout: term
 title: sıçrayış
 slug: sicrayis
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıçramak işi

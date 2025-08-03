@@ -2,6 +2,7 @@
 layout: term
 title: cüruf
 slug: curuf
+letter: C
 lisan: Arapça curūf
 anlamlar:
 - Erime durumundaki madenlerin yüzeyinde toplanan madde; demir boku, dışık

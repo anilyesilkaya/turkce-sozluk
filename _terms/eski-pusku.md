@@ -2,6 +2,7 @@
 layout: term
 title: eski püskü
 slug: eski-pusku
+letter: E
 lisan: Türkçe
 anlamlar:
 - Çok eski, iyice eski

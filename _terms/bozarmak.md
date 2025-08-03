@@ -2,6 +2,7 @@
 layout: term
 title: bozarmak
 slug: bozarmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boz renge dönüşmek

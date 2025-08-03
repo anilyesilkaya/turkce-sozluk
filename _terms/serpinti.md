@@ -2,6 +2,7 @@
 layout: term
 title: serpinti
 slug: serpinti
+letter: S
 lisan: Türkçe
 anlamlar:
 - Dökülen veya akan bir şeyden sıçrayıp serpilen bölüm

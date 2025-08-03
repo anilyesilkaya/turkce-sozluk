@@ -2,6 +2,7 @@
 layout: term
 title: at cambazı
 slug: at-cambazi
+letter: A
 lisan: Türkçe
 anlamlar:
 - At alıp satan kimse

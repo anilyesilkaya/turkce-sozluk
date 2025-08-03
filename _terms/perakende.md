@@ -2,6 +2,7 @@
 layout: term
 title: perakende
 slug: perakende
+letter: P
 lisan: Farsça perākende
 anlamlar:
 - Malların teker teker veya birkaç parça durumunda azar azar satılmasına dayanan (satış biçimi), toptan karşıtı

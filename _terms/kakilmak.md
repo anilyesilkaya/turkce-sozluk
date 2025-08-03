@@ -2,6 +2,7 @@
 layout: term
 title: kakılmak
 slug: kakilmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kakma işi yapılmak

@@ -2,6 +2,7 @@
 layout: term
 title: alt sınıf
 slug: alt-sinif
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir sınıf içinden ayrılan ikinci derecedeki sınıf

@@ -2,6 +2,7 @@
 layout: term
 title: düzeltilmek
 slug: duzeltilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düzeltme işine konu olmak veya düzeltme işi yapılmak

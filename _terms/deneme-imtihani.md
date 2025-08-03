@@ -2,6 +2,7 @@
 layout: term
 title: deneme imtihanı
 slug: deneme-imtihani
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► deneme sınavı

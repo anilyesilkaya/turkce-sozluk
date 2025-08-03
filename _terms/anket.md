@@ -2,6 +2,7 @@
 layout: term
 title: anket
 slug: anket
+letter: A
 lisan: Fransızca enquête
 anlamlar:
 - Herhangi bir konuyla ilgili durum ve tutumu belirlemek için düzenlenmiş, ayrıntılı ve kapsamlı soru dizisi; sormaca, istimzaç

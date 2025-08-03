@@ -2,6 +2,7 @@
 layout: term
 title: cinlik
 slug: cinlik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cin olma durumu

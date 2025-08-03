@@ -2,6 +2,7 @@
 layout: term
 title: yaşamsal
 slug: yasamsal
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► hayati

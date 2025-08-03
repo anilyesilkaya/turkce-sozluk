@@ -2,6 +2,7 @@
 layout: term
 title: harbiden
 slug: harbiden
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► gerçekten

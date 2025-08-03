@@ -2,6 +2,7 @@
 layout: term
 title: karakutu
 slug: karakutu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Uçaklarda pilotların konuşmalarını ve kuleden gelen mesajları alıp saklayan araç

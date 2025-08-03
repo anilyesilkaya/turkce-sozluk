@@ -2,6 +2,7 @@
 layout: term
 title: eşivermek
 slug: esivermek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Çabucak veya ansızın eşmek

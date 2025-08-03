@@ -2,6 +2,7 @@
 layout: term
 title: oluşuvermek
 slug: olusuvermek
+letter: O
 lisan: Türkçe
 anlamlar:
 - Aniden oluşmak

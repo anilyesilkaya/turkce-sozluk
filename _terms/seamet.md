@@ -2,6 +2,7 @@
 layout: term
 title: şeamet
 slug: seamet
+letter: Ş
 lisan: Arapça şeʾāmet
 anlamlar:
 - ► uğursuzluk

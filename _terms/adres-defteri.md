@@ -2,6 +2,7 @@
 layout: term
 title: adres defteri
 slug: adres-defteri
+letter: A
 lisan: Türkçe
 anlamlar:
 - Adreslerin kaydedildiği defter; adres rehberi

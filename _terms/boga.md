@@ -2,6 +2,7 @@
 layout: term
 title: boğa
 slug: boga
+letter: B
 lisan: Türkçe
 anlamlar:
 - Damızlık erkek sığır; kele

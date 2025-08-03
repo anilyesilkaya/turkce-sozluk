@@ -2,6 +2,7 @@
 layout: term
 title: ya herrü ya merrü
 slug: ya-herru-ya-merru
+letter: Y
 lisan: Türkçe
 anlamlar:
 - zor, tehlikeli bir durum karşısında "ne olursa olsun" gibi kötü ihtimalin de göze alındığını anlatan bir söz

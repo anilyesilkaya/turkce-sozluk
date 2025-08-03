@@ -2,6 +2,7 @@
 layout: term
 title: kavut
 slug: kavut
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kavrulmuş ve dövülmüş tahıl ununa pekmez, şeker veya tatlı yemiş katılarak yapılan yiyecek

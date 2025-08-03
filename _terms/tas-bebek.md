@@ -2,6 +2,7 @@
 layout: term
 title: taş bebek
 slug: tas-bebek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Genellikle alçı vb.nden yapılmış oyuncak bebek

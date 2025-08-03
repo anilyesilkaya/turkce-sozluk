@@ -2,6 +2,7 @@
 layout: term
 title: ağrıtma
 slug: agritma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağrıtmak işi

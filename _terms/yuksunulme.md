@@ -2,6 +2,7 @@
 layout: term
 title: yüksünülme
 slug: yuksunulme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yüksünülmek işi

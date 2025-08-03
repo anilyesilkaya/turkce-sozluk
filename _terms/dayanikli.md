@@ -2,6 +2,7 @@
 layout: term
 title: dayanıklı
 slug: dayanikli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dayanabilen; pek canlı, metîn, mukavemetli, mukavim, stabil

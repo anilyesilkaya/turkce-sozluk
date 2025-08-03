@@ -2,6 +2,7 @@
 layout: term
 title: boğuklaşmak
 slug: boguklasmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Ses boğuk duruma gelmek; sağırlaşmak

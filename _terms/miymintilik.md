@@ -2,6 +2,7 @@
 layout: term
 title: mıymıntılık
 slug: miymintilik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mıymıntı olma durumu

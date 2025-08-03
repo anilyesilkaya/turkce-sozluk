@@ -2,6 +2,7 @@
 layout: term
 title: gözüyle (veya gözleriyle) tartmak
 slug: gozuyle-veya-gozleriyle-tartmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - kim ve ne olduğunu anlamak için dikkatle bakmak

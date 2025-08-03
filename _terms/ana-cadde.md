@@ -2,6 +2,7 @@
 layout: term
 title: ana cadde
 slug: ana-cadde
+letter: A
 lisan: Türkçe
 anlamlar:
 - Şehirde ara sokakların açıldığı geniş yol

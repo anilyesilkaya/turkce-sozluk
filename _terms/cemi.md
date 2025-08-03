@@ -2,6 +2,7 @@
 layout: term
 title: cemi
 slug: cemi
+letter: C
 lisan: Arapça cemīʿ
 anlamlar:
 - ► bütün

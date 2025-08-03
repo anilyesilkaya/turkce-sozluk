@@ -2,6 +2,7 @@
 layout: term
 title: güveyfeneri
 slug: guveyfeneri
+letter: G
 lisan: Türkçe
 anlamlar:
 - Patlıcangillerden, kırmızı ve ekşimsi meyvesi idrar söktürücü olarak kullanılan, çok yıllık ve otsu bir bitki; gelin otu (Physalis alkekengi)

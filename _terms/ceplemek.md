@@ -2,6 +2,7 @@
 layout: term
 title: ceplemek
 slug: ceplemek
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cebine indirmek

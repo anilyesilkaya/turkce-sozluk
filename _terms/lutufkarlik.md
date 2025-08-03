@@ -2,6 +2,7 @@
 layout: term
 title: lütufkârlık
 slug: lutufkarlik
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lütufkâr olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: labirent
 slug: labirent
+letter: L
 lisan: Fransızca labyrinthe
 anlamlar:
 - Çıkış yeri kolay bulunamayacak kadar karışık koridorları olan yapı

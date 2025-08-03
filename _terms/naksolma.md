@@ -2,6 +2,7 @@
 layout: term
 title: nakşolma
 slug: naksolma
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nakşolmak işi

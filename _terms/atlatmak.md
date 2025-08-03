@@ -2,6 +2,7 @@
 layout: term
 title: atlatmak
 slug: atlatmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Atlama işini yaptırmak

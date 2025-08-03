@@ -2,6 +2,7 @@
 layout: term
 title: Sovyet
 slug: sovyet
+letter: S
 lisan: Fransızca soviet
 anlamlar:
 - 1990 öncesi SSCB'ye özgü, sosyalist toplumun siyasal örgütlenme biçimlerinden biri olan danışma kurulu

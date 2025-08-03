@@ -2,6 +2,7 @@
 layout: term
 title: objektivizm
 slug: objektivizm
+letter: O
 lisan: Fransızca objectivisme
 anlamlar:
 - ► nesnelcilik

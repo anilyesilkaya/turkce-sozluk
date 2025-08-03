@@ -2,6 +2,7 @@
 layout: term
 title: ezberinde olmak
 slug: ezberinde-olmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - aklında tutmuş olmak

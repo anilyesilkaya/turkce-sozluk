@@ -2,6 +2,7 @@
 layout: term
 title: tapırtı
 slug: tapirti
+letter: T
 lisan: Türkçe
 anlamlar:
 - Yürürken çıkan ayak sesini andırır sesin adı

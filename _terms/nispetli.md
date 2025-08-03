@@ -2,6 +2,7 @@
 layout: term
 title: nispetli
 slug: nispetli
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► oranlı

@@ -2,6 +2,7 @@
 layout: term
 title: ahlakiyet
 slug: ahlakiyet
+letter: A
 lisan: Arapça aḫlākiyyet
 anlamlar:
 - ► ahlaklılık

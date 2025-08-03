@@ -2,6 +2,7 @@
 layout: term
 title: bozuk düzen
 slug: bozuk-duzen
+letter: B
 lisan: Türkçe
 anlamlar:
 - Düzensiz, düzeni bozuk olan

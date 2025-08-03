@@ -2,6 +2,7 @@
 layout: term
 title: takbih
 slug: takbih
+letter: T
 lisan: Arapça taḳbīḥ
 anlamlar:
 - Çirkin görme, beğenmeme

@@ -2,6 +2,7 @@
 layout: term
 title: tahta çıkmak
 slug: tahta-cikmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - hükümdar olmak

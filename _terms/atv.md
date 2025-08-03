@@ -2,6 +2,7 @@
 layout: term
 title: atv
 slug: atv
+letter: A
 lisan: İngilizce (İng. all terrain vehicle sözünden)
 anlamlar:
 - Tüm arazi ve hava koşullarında çalışmak üzere tasarlanmış, genellikle dört tekerlekli olarak üretilen, tek veya çift kişilik, benzinli, içten yanmalı motorlarla çalışan araç

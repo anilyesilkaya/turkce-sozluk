@@ -2,6 +2,7 @@
 layout: term
 title: kapılı
 slug: kapili
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kapısı olan

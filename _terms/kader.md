@@ -2,6 +2,7 @@
 layout: term
 title: kader
 slug: kader
+letter: K
 lisan: Arapça ḳader
 anlamlar:
 - ► yazgı

@@ -2,6 +2,7 @@
 layout: term
 title: humor
 slug: humor
+letter: H
 lisan: Fransızca humour
 anlamlar:
 - ► gülmece

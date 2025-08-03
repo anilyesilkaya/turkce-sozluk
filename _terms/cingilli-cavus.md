@@ -2,6 +2,7 @@
 layout: term
 title: çıngıllı çavuş
 slug: cingilli-cavus
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çok süslenmiş ve üzerine aşırı takı takınmış (kadın)

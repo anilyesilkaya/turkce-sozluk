@@ -2,6 +2,7 @@
 layout: term
 title: iffetli
 slug: iffetli
+letter: I
 lisan: Türkçe
 anlamlar:
 - İffetini koruyan, iffet sahibi; sili (II), afif, afife

@@ -2,6 +2,7 @@
 layout: term
 title: dakikasına
 slug: dakikasina
+letter: D
 lisan: Türkçe
 anlamlar:
 - '... dakika için'

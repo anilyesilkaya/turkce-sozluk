@@ -2,6 +2,7 @@
 layout: term
 title: çilingirlik
 slug: cilingirlik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► anahtarcılık

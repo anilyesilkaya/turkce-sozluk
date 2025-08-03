@@ -2,6 +2,7 @@
 layout: term
 title: elden ele
 slug: elden-ele
+letter: E
 lisan: Türkçe
 anlamlar:
 - Bir kişiden ötekine

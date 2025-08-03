@@ -2,6 +2,7 @@
 layout: term
 title: çalmadan oynamak
 slug: calmadan-oynamak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - çok keyifli ve sevinçli durumda bulunmak

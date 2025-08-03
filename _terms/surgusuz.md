@@ -2,6 +2,7 @@
 layout: term
 title: sürgüsüz
 slug: surgusuz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sürgüsü olmayan

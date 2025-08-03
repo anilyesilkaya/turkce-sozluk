@@ -2,6 +2,7 @@
 layout: term
 title: senetsiz
 slug: senetsiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Senedi olmayan, senede dayanmayan

@@ -2,6 +2,7 @@
 layout: term
 title: nohut
 slug: nohut
+letter: N
 lisan: Farsça noḫūd
 anlamlar:
 - Baklagillerden, ana yurdu Akdeniz kıyıları olan, birleşik telek yapraklı, çiçekleri sarımtırak renkte, tanesi baklamsı bir bitki (Cicer arietinum)

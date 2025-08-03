@@ -2,6 +2,7 @@
 layout: term
 title: üstüne düşmek
 slug: ustune-dusmek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - bir kimseyle veya bir şeyle çok ilgilenmek

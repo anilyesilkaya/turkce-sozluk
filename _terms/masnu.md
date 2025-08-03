@@ -2,6 +2,7 @@
 layout: term
 title: masnu
 slug: masnu
+letter: M
 lisan: Arapça maṣnūʿ
 anlamlar:
 - Sanatla yapılmış (ürün)

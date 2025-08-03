@@ -2,6 +2,7 @@
 layout: term
 title: Hollandaca
 slug: hollandaca
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hollanda halkının kullandığı dil

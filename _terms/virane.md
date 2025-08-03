@@ -2,6 +2,7 @@
 layout: term
 title: virane
 slug: virane
+letter: V
 lisan: Farsça vīrāne
 anlamlar:
 - Harap olmuş yapı; yıkıntı

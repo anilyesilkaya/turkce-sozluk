@@ -2,6 +2,7 @@
 layout: term
 title: pahalıya gelmek
 slug: pahaliya-gelmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - yüksek fiyattan almak

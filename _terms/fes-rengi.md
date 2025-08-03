@@ -2,6 +2,7 @@
 layout: term
 title: fes rengi
 slug: fes-rengi
+letter: F
 lisan: Türkçe
 anlamlar:
 - Koyu kırmızı renk

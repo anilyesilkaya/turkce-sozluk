@@ -2,6 +2,7 @@
 layout: term
 title: keyfi bozulmak
 slug: keyfi-bozulmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - hastalanmak

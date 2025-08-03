@@ -2,6 +2,7 @@
 layout: term
 title: efsuncu
 slug: efsuncu
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► büyücü

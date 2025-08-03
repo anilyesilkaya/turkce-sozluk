@@ -2,6 +2,7 @@
 layout: term
 title: bitirim
 slug: bitirim
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çok hoşa giden (kimse)

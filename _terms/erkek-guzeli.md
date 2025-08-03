@@ -2,6 +2,7 @@
 layout: term
 title: erkek güzeli
 slug: erkek-guzeli
+letter: E
 lisan: Türkçe
 anlamlar:
 - Çok yakışıklı, hoş görünen erkek

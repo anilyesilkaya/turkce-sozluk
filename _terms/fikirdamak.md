@@ -2,6 +2,7 @@
 layout: term
 title: fıkırdamak
 slug: fikirdamak
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fıkır fıkır kaynamak

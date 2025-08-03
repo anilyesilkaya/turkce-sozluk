@@ -2,6 +2,7 @@
 layout: term
 title: gaz ocağı
 slug: gaz-ocagi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gaz yağıyla yanan ocak

@@ -2,6 +2,7 @@
 layout: term
 title: esassız
 slug: esassiz
+letter: E
 lisan: Türkçe
 anlamlar:
 - Sağlam bir temele dayanmayan, köksüz, asılsız olan

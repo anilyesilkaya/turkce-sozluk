@@ -2,6 +2,7 @@
 layout: term
 title: car car ötmek
 slug: car-car-otmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - boş ve gereksiz yere sürekli konuşmak

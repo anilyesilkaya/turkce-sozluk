@@ -2,6 +2,7 @@
 layout: term
 title: mefhumculuk
 slug: mefhumculuk
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mefhumcu olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: özgürlük
 slug: ozgurluk
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Herhangi bir kısıtlamaya, zorlamaya bağlı olmaksızın düşünme veya davranma, herhangi bir şarta bağlı olmama durumu; azadelik

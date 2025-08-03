@@ -2,6 +2,7 @@
 layout: term
 title: kayzer
 slug: kayzer
+letter: K
 lisan: Almanca Kaiser
 anlamlar:
 - Alman kralı

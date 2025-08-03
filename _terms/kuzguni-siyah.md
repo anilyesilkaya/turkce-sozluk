@@ -2,6 +2,7 @@
 layout: term
 title: kuzguni siyah
 slug: kuzguni-siyah
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çok koyu, kara renk

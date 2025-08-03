@@ -2,6 +2,7 @@
 layout: term
 title: başlama!
 slug: baslama
+letter: B
 lisan: Türkçe
 anlamlar:
 - '"hoş olmayan bir söz veya davranışı tekrarlama!" anlamında kullanılan bir söz'

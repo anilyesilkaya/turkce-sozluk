@@ -2,6 +2,7 @@
 layout: term
 title: tazelik
 slug: tazelik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taze olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: aşınım
 slug: asinim
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aşınmak işi

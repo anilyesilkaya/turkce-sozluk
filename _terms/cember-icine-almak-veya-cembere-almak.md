@@ -2,6 +2,7 @@
 layout: term
 title: çember içine almak (veya çembere almak)
 slug: cember-icine-almak-veya-cembere-almak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - kuşatmak

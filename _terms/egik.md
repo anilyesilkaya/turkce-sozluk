@@ -2,6 +2,7 @@
 layout: term
 title: eğik
 slug: egik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eğilmiş olan, dik veya düz olmayan

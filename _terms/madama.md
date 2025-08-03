@@ -2,6 +2,7 @@
 layout: term
 title: madama
 slug: madama
+letter: M
 lisan: Fransızca madame
 anlamlar:
 - ► madam

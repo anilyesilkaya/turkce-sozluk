@@ -2,6 +2,7 @@
 layout: term
 title: buyuruş
 slug: buyurus
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► emrediş

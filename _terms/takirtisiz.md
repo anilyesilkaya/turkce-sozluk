@@ -2,6 +2,7 @@
 layout: term
 title: takırtısız
 slug: takirtisiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Takırtısı olmayan

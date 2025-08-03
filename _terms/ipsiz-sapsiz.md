@@ -2,6 +2,7 @@
 layout: term
 title: ipsiz sapsız
 slug: ipsiz-sapsiz
+letter: I
 lisan: Türkçe
 anlamlar:
 - Birbirini tutmaz, anlamsız bir biçimde olan

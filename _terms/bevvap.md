@@ -2,6 +2,7 @@
 layout: term
 title: bevvap
 slug: bevvap
+letter: B
 lisan: Arapça bevvāb
 anlamlar:
 - ► kapıcı

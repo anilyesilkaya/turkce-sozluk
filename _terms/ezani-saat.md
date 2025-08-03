@@ -2,6 +2,7 @@
 layout: term
 title: ezani saat
 slug: ezani-saat
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► alaturka saat

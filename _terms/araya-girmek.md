@@ -2,6 +2,7 @@
 layout: term
 title: araya girmek
 slug: araya-girmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - iki kişinin arasındaki bir işe karışmak

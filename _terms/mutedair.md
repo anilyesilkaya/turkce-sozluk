@@ -2,6 +2,7 @@
 layout: term
 title: mütedair
 slug: mutedair
+letter: M
 lisan: Arapça mutedāʾir
 anlamlar:
 - Ait, için, dolayı, üzerine, ... ile ilgili

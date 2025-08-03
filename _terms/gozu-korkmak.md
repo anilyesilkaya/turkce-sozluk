@@ -2,6 +2,7 @@
 layout: term
 title: gözü korkmak
 slug: gozu-korkmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - daha önce geçirdiği kötü bir denemeden sonra birinden veya bir şeyden zarar gelebileceği kanısına varmak

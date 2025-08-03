@@ -2,6 +2,7 @@
 layout: term
 title: tarassut etmek
 slug: tarassut-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - gözlemek, gözetlemek

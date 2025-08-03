@@ -2,6 +2,7 @@
 layout: term
 title: neyse ne
 slug: neyse-ne
+letter: N
 lisan: Türkçe
 anlamlar:
 - bir yere, bir dereceye kadar

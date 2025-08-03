@@ -2,6 +2,7 @@
 layout: term
 title: birdirbir
 slug: birdirbir
+letter: B
 lisan: Türkçe
 anlamlar:
 - Oyuncuların birbirinin üstünden atlayarak oynadıkları bir oyun

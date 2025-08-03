@@ -2,6 +2,7 @@
 layout: term
 title: cilacı
 slug: cilaci
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cila yapan, eşyaya cila vuran kimse

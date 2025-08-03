@@ -2,6 +2,7 @@
 layout: term
 title: barbun
 slug: barbun
+letter: B
 lisan: Rumca
 anlamlar:
 - ► barbunya (I)

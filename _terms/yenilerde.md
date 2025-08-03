@@ -2,6 +2,7 @@
 layout: term
 title: yenilerde
 slug: yenilerde
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yakın geçmişte

@@ -2,6 +2,7 @@
 layout: term
 title: fabrikatör
 slug: fabrikator
+letter: F
 lisan: Fransızca fabricateur
 anlamlar:
 - ► fabrikacı

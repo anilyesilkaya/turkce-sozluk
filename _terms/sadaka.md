@@ -2,6 +2,7 @@
 layout: term
 title: sadaka
 slug: sadaka
+letter: S
 lisan: Arapça ṣadaḳa
 anlamlar:
 - Karşılık beklemeden ihtiyaç sahiplerine, fakirlere verilen para, mal vb.

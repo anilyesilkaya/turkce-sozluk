@@ -2,6 +2,7 @@
 layout: term
 title: Norveççe
 slug: norvecce
+letter: N
 lisan: Türkçe
 anlamlar:
 - Norveçlilerin kullandığı dil

@@ -2,6 +2,7 @@
 layout: term
 title: mistisizm
 slug: mistisizm
+letter: M
 lisan: Fransızca mysticisme
 anlamlar:
 - Bir konuda en üst derecede bulunabilme tutkusu

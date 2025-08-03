@@ -2,6 +2,7 @@
 layout: term
 title: derin dondurucu
 slug: derin-dondurucu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bozulabilecek yiyecekleri niteliklerini bozmadan çok düşük ısılarda dondurarak uzun süre saklamak için kullanılan araç; dondurucu, donduraç, dipfriz

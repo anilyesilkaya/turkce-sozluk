@@ -2,6 +2,7 @@
 layout: term
 title: sır
 slug: sir
+letter: S
 lisan: Arapça sirr
 anlamlar:
 - Varlığı veya bazı yönleri açığa vurulmak istenmeyen, gizli kalan, gizli tutulan şey

@@ -2,6 +2,7 @@
 layout: term
 title: hakikat olmak
 slug: hakikat-olmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - gerçek duruma gelmek, gerçekleşmek

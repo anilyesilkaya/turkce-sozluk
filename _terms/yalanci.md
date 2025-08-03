@@ -2,6 +2,7 @@
 layout: term
 title: yalancı
 slug: yalanci
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yalan söylemeyi huy edinmiş olan kimse; kaltaban

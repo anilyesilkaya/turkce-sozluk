@@ -2,6 +2,7 @@
 layout: term
 title: sol
 slug: sol
+letter: S
 lisan: İtalyanca sol
 anlamlar:
 - Gam dizisinde fa ile la arasındaki ses

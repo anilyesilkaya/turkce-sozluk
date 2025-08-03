@@ -2,6 +2,7 @@
 layout: term
 title: hayır dua
 slug: hayir-dua
+letter: H
 lisan: Türkçe
 anlamlar:
 - Bir kimsenin iyiliğini isteyen dua

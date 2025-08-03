@@ -2,6 +2,7 @@
 layout: term
 title: alat
 slug: alat
+letter: A
 lisan: Arapça ālāt
 anlamlar:
 - Aletler

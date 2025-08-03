@@ -2,6 +2,7 @@
 layout: term
 title: hakanlık
 slug: hakanlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hakan olma durumu

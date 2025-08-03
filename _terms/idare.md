@@ -2,6 +2,7 @@
 layout: term
 title: idare
 slug: idare
+letter: I
 lisan: Arapça idāre
 anlamlar:
 - Yönetme, çekip çevirme; güdüm, yönetim

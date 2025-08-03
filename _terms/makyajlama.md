@@ -2,6 +2,7 @@
 layout: term
 title: makyajlama
 slug: makyajlama
+letter: M
 lisan: Türkçe
 anlamlar:
 - Makyajlamak işi

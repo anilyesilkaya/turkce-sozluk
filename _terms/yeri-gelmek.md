@@ -2,6 +2,7 @@
 layout: term
 title: yeri gelmek
 slug: yeri-gelmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - sırası gelmek, zamanı uygun olmak

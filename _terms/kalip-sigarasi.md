@@ -2,6 +2,7 @@
 layout: term
 title: kalıp sigarası
 slug: kalip-sigarasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sigara sarma makinesinden çıkmış sigara

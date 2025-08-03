@@ -2,6 +2,7 @@
 layout: term
 title: böylelikle
 slug: boylelikle
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► böylece

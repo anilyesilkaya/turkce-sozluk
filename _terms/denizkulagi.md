@@ -2,6 +2,7 @@
 layout: term
 title: denizkulağı
 slug: denizkulagi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Yassı kabuklu, içi sedefli, 10 santimetre uzunluğunda bir deniz yumuşakçası (Haliotis)

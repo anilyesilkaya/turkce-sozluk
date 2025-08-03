@@ -2,6 +2,7 @@
 layout: term
 title: doktorluk
 slug: doktorluk
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► hekimlik

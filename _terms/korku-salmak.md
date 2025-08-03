@@ -2,6 +2,7 @@
 layout: term
 title: korku salmak
 slug: korku-salmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - korkutmak

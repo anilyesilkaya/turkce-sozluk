@@ -2,6 +2,7 @@
 layout: term
 title: krizantem
 slug: krizantem
+letter: K
 lisan: Fransızca chrysanthème
 anlamlar:
 - ► kasımpatı

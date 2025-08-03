@@ -2,6 +2,7 @@
 layout: term
 title: gerekseme
 slug: gerekseme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gereksemek işi

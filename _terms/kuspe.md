@@ -2,6 +2,7 @@
 layout: term
 title: küspe
 slug: kuspe
+letter: K
 lisan: Farsça kusbe
 anlamlar:
 - Hayvan yemi, yakacak ve gübre olarak kullanılan, yağı veya suyu çıkarılmış her türlü yağlı tohum ve bitki artığı

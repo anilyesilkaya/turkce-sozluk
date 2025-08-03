@@ -2,6 +2,7 @@
 layout: term
 title: yaramamak
 slug: yaramamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - gereksiz olmak, boşuna yapılmış olmak

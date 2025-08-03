@@ -2,6 +2,7 @@
 layout: term
 title: spot
 slug: spot
+letter: S
 lisan: Fransızca spot
 anlamlar:
 - Herhangi bir aynalı alet ile ekran üzerinde oluşturulan görüntü

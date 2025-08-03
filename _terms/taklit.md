@@ -2,6 +2,7 @@
 layout: term
 title: taklit
 slug: taklit
+letter: T
 lisan: Arapça taḳlīd
 anlamlar:
 - Belli bir örneğe benzemeye veya benzetmeye çalışma; öykünme

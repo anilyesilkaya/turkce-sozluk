@@ -2,6 +2,7 @@
 layout: term
 title: dekanlık
 slug: dekanlik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dekan olma durumu

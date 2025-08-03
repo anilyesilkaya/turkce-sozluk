@@ -2,6 +2,7 @@
 layout: term
 title: yarıntı
 slug: yarinti
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Selin oluşturduğu, eğim aşağı uzanan, ince, oluk biçimli çukurlar

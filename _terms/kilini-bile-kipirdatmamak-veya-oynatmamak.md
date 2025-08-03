@@ -2,6 +2,7 @@
 layout: term
 title: kılını (bile) kıpırdatmamak (veya oynatmamak)
 slug: kilini-bile-kipirdatmamak-veya-oynatmamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir iş, olay veya durum karşısında ilgisiz kalmak, en küçük bir tepki göstermemek

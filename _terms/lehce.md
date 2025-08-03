@@ -2,6 +2,7 @@
 layout: term
 title: lehçe
 slug: lehce
+letter: L
 lisan: Arapça lehce
 anlamlar:
 - Bir dilin tarihsel, bölgesel ve siyasal sebeplerden dolayı ses, yapı ve söz dizimi özellikleriyle ayrılan kolu; diyalekt

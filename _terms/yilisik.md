@@ -2,6 +2,7 @@
 layout: term
 title: yılışık
 slug: yilisik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yapmacık davranışlarla hoş görünmeye çalışan; yıvışık

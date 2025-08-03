@@ -2,6 +2,7 @@
 layout: term
 title: hizip
 slug: hizip
+letter: H
 lisan: Arapça ḥizb
 anlamlar:
 - Bir toplum içinde inanç, düşünce vb. yönlerden ayrılıkçı davranarak toplumun büyük kısmıyla çatışma durumundaki küçük topluluk; klik

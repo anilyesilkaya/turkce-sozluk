@@ -2,6 +2,7 @@
 layout: term
 title: hayatiyetli
 slug: hayatiyetli
+letter: H
 lisan: Türkçe
 anlamlar:
 - Yaşama gücüyle dolu

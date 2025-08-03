@@ -2,6 +2,7 @@
 layout: term
 title: laf işitmek
 slug: laf-isitmek
+letter: L
 lisan: Türkçe
 anlamlar:
 - azarlanmak, birisi kendisine darılmak

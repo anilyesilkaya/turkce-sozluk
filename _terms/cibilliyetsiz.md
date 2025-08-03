@@ -2,6 +2,7 @@
 layout: term
 title: cibilliyetsiz
 slug: cibilliyetsiz
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► soysuz

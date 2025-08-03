@@ -2,6 +2,7 @@
 layout: term
 title: uhrevileşmek
 slug: uhrevilesmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ahiretle ilgili özellikler taşımak; maveraileşmek

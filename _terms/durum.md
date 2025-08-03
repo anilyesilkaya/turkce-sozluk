@@ -2,6 +2,7 @@
 layout: term
 title: dürüm
 slug: durum
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dürmek işi

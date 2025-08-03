@@ -2,6 +2,7 @@
 layout: term
 title: dağarcık
 slug: dagarcik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Meşin torba

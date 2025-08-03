@@ -2,6 +2,7 @@
 layout: term
 title: güler yüz
 slug: guler-yuz
+letter: G
 lisan: Türkçe
 anlamlar:
 - İçten ve yapmacıksız, yumuşak, okşayıcı davranış

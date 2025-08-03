@@ -2,6 +2,7 @@
 layout: term
 title: kavalye
 slug: kavalye
+letter: K
 lisan: Fransızca cavalier
 anlamlar:
 - Kadına, dansta eş olan veya bir yerde, toplantıda arkadaşlık eden erkek

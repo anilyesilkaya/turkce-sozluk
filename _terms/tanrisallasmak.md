@@ -2,6 +2,7 @@
 layout: term
 title: tanrısallaşmak
 slug: tanrisallasmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tanrısal bir duruma gelmek

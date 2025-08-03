@@ -2,6 +2,7 @@
 layout: term
 title: transandantal
 slug: transandantal
+letter: T
 lisan: Fransızca transcendantal
 anlamlar:
 - ► deneyüstü

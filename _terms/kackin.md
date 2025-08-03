@@ -2,6 +2,7 @@
 layout: term
 title: kaçkın
 slug: kackin
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir yerden veya bir işten kaçmış kimse

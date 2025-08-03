@@ -2,6 +2,7 @@
 layout: term
 title: dışbükey
 slug: disbukey
+letter: D
 lisan: Türkçe
 anlamlar:
 - Yüzeyi tümsek, çıkık ve şişkin olan; tümsekli, muhaddep, konveks

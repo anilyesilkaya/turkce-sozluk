@@ -2,6 +2,7 @@
 layout: term
 title: düşünce
 slug: dusunce
+letter: D
 lisan: Türkçe
 anlamlar:
 - Uzay ve zamanın ötesinde, öznenin dışında, kendiliğinden var olan, duyularla değil, yalnızca ruhen algılanabilen asıl gerçeklik; mütalaa, fikir, ide, idea, mülahaza

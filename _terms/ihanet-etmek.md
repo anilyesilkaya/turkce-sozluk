@@ -2,6 +2,7 @@
 layout: term
 title: ihanet etmek
 slug: ihanet-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - arkadan vurmak, hainlik etmek

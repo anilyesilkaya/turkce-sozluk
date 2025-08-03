@@ -2,6 +2,7 @@
 layout: term
 title: kafasına saplanmak
 slug: kafasina-saplanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - sürekli olarak aynı şeyi düşünmek

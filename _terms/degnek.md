@@ -2,6 +2,7 @@
 layout: term
 title: değnek
 slug: degnek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Elde taşınacak incelikte düzgün ağaç; çevgen

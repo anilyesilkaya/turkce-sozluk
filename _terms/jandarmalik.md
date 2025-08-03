@@ -2,6 +2,7 @@
 layout: term
 title: jandarmalık
 slug: jandarmalik
+letter: J
 lisan: Türkçe
 anlamlar:
 - Jandarmanın görevi

@@ -2,6 +2,7 @@
 layout: term
 title: işi şakaya dökmek
 slug: isi-sakaya-dokmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - ciddi başlayan bir sözü veya davranışı şakaya çevirmek

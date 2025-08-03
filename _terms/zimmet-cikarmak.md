@@ -2,6 +2,7 @@
 layout: term
 title: zimmet çıkarmak
 slug: zimmet-cikarmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - eksik veya yanlış yapılan bir işlemden dolayı kişiye fazladan ödenen miktarı belirlemek ve ödemesini sağlamak için bildirimde bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: müfredat
 slug: mufredat
+letter: M
 lisan: Arapça mufredāt
 anlamlar:
 - ► öğretim programı

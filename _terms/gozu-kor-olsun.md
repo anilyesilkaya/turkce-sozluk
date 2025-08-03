@@ -2,6 +2,7 @@
 layout: term
 title: gözü kör olsun
 slug: gozu-kor-olsun
+letter: G
 lisan: Türkçe
 anlamlar:
 - bazı zorunlu durumlarda zararı istemeyerek kabullenmeyi anlatan bir söz

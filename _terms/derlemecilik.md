@@ -2,6 +2,7 @@
 layout: term
 title: derlemecilik
 slug: derlemecilik
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► derleyicilik

@@ -2,6 +2,7 @@
 layout: term
 title: anlayış
 slug: anlayis
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anlamak işi; idrak, telakki

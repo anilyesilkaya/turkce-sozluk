@@ -2,6 +2,7 @@
 layout: term
 title: emcik
 slug: emcik
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► meme

@@ -2,6 +2,7 @@
 layout: term
 title: yürüyüş kolu
 slug: yuruyus-kolu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Belli bir bölgeye ulaşmak veya bulunulan bir bölgeden ayrılmak amacıyla bir kumanda altında, düzenli yürüyüş yapan piyade, zırhlı veya motorlu birliklerin tümü

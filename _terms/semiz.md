@@ -2,6 +2,7 @@
 layout: term
 title: semiz
 slug: semiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► şişman

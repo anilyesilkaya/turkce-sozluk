@@ -2,6 +2,7 @@
 layout: term
 title: antlı
 slug: antli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ant içmiş

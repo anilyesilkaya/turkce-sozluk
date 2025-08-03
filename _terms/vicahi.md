@@ -2,6 +2,7 @@
 layout: term
 title: vicahi
 slug: vicahi
+letter: V
 lisan: Arapça vicāhī
 anlamlar:
 - Yüz yüze olan veya yapılan

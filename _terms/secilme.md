@@ -2,6 +2,7 @@
 layout: term
 title: seçilme
 slug: secilme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Seçilmek işi

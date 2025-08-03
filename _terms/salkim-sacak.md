@@ -2,6 +2,7 @@
 layout: term
 title: salkım saçak
 slug: salkim-sacak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Çok fazla

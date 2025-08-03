@@ -2,6 +2,7 @@
 layout: term
 title: mahalle arkadaşı
 slug: mahalle-arkadasi
+letter: M
 lisan: Türkçe
 anlamlar:
 - Aynı mahallede oturan komşu veya dost

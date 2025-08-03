@@ -2,6 +2,7 @@
 layout: term
 title: avangart
 slug: avangart
+letter: A
 lisan: Fransızca avant-garde
 anlamlar:
 - ► öncü

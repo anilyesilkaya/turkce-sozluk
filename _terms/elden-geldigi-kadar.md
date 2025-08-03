@@ -2,6 +2,7 @@
 layout: term
 title: elden geldiği kadar
 slug: elden-geldigi-kadar
+letter: E
 lisan: Türkçe
 anlamlar:
 - yapılabildiği, olabildiği kadar

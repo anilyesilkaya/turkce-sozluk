@@ -2,6 +2,7 @@
 layout: term
 title: nereye
 slug: nereye
+letter: N
 lisan: Türkçe
 anlamlar:
 - Hangi yere?

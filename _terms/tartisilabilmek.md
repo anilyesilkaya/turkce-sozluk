@@ -2,6 +2,7 @@
 layout: term
 title: tartışılabilmek
 slug: tartisilabilmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tartışılma ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: cezai
 slug: cezai
+letter: C
 lisan: Arapça cezāʾī
 anlamlar:
 - Ceza ile ilgili, cezaya ilişkin, cezaya dayanan

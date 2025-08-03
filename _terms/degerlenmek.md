@@ -2,6 +2,7 @@
 layout: term
 title: değerlenmek
 slug: degerlenmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Değer kazanmak, değeri artmak, değer sağlamak; kıymetlenmek

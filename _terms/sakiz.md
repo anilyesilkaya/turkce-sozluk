@@ -2,6 +2,7 @@
 layout: term
 title: sakız
 slug: sakiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bazı ağaçların ve özellikle sakız ağacının kabuğundan sızan, çiğnendiğinde yumuşayan, hoş kokulu, beyaz renkli reçine

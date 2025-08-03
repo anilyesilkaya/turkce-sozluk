@@ -2,6 +2,7 @@
 layout: term
 title: cayırdamak
 slug: cayirdamak
+letter: C
 lisan: Türkçe
 anlamlar:
 - Nesneler "cayır" sesi çıkararak yanmak, sürtünmek veya yırtılmak

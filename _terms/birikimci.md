@@ -2,6 +2,7 @@
 layout: term
 title: birikimci
 slug: birikimci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Tasarruf yapan, para vb. değerli şeyleri biriktiren kimse; tasarrufçu

@@ -2,6 +2,7 @@
 layout: term
 title: araç gereç
 slug: arac-gerec
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir işin yapılmasında, bir makinenin işletilmesinde kullanılan aletler; pusat, hacet, teçhizat, aparat

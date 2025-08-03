@@ -2,6 +2,7 @@
 layout: term
 title: kovalamaca
 slug: kovalamaca
+letter: K
 lisan: Türkçe
 anlamlar:
 - Ebenin, yanına gizlice sokulup koluna vuranı kovalayıp yakalamaya çalışması biçiminde oynanan bir çocuk oyunu

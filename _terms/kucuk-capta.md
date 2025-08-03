@@ -2,6 +2,7 @@
 layout: term
 title: küçük çapta
 slug: kucuk-capta
+letter: K
 lisan: Türkçe
 anlamlar:
 - Belirli bir ölçüde

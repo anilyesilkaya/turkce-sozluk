@@ -2,6 +2,7 @@
 layout: term
 title: kentlileşme
 slug: kentlilesme
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► şehirlileşme

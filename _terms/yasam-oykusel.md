@@ -2,6 +2,7 @@
 layout: term
 title: yaşam öyküsel
 slug: yasam-oykusel
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Öz geçmişle ilgili

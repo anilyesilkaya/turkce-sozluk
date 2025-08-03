@@ -2,6 +2,7 @@
 layout: term
 title: çembersel bölge
 slug: cembersel-bolge
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çember ve çemberin içindeki noktaların meydana getirdiği düz yüzey

@@ -2,6 +2,7 @@
 layout: term
 title: okunuş
 slug: okunus
+letter: O
 lisan: Türkçe
 anlamlar:
 - Okunmak işi

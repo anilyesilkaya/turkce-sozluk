@@ -2,6 +2,7 @@
 layout: term
 title: simitçi
 slug: simitci
+letter: S
 lisan: Türkçe
 anlamlar:
 - Simit yapan veya satan kimse

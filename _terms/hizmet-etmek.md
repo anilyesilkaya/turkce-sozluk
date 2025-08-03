@@ -2,6 +2,7 @@
 layout: term
 title: hizmet etmek
 slug: hizmet-etmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - iş görmek, çalışmak

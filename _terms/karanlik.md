@@ -2,6 +2,7 @@
 layout: term
 title: karanlık
 slug: karanlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Işık olmama durumu; zulmet

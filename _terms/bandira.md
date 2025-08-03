@@ -2,6 +2,7 @@
 layout: term
 title: bandıra
 slug: bandira
+letter: B
 lisan: İtalyanca bandiera
 anlamlar:
 - Bir geminin hangi devlete ait olduğunu gösteren bayrak

@@ -2,6 +2,7 @@
 layout: term
 title: sütlenme
 slug: sutlenme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sütlenmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: otsul
 slug: otsul
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► otsu

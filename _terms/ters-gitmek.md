@@ -2,6 +2,7 @@
 layout: term
 title: ters gitmek
 slug: ters-gitmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - bir iş doğru ve düzgün yürümemek, sorun çıkmak

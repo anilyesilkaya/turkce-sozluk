@@ -2,6 +2,7 @@
 layout: term
 title: bantlayabilmek
 slug: bantlayabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bantlama ihtimali veya imkânı bulunmak

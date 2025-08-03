@@ -2,6 +2,7 @@
 layout: term
 title: bakla falı
 slug: bakla-fali
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bakla taneleri ile bakılan bir fal türü

@@ -2,6 +2,7 @@
 layout: term
 title: ayak ucu
 slug: ayak-ucu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yatan bir kimsenin veya yatılan bir yerin ayak tarafı

@@ -2,6 +2,7 @@
 layout: term
 title: nine
 slug: nine
+letter: N
 lisan: Türkçe
 anlamlar:
 - Torunu olan kadın; büyükana, büyükanne, kadınnine, nene

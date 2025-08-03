@@ -2,6 +2,7 @@
 layout: term
 title: hacı olmak
 slug: haci-olmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - hacca gidip haccın gereklerini yapmak

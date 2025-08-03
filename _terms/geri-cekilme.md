@@ -2,6 +2,7 @@
 layout: term
 title: geri çekilme
 slug: geri-cekilme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Savaşı daha elverişli şartlarda sürdürmek amacıyla bir askerî birliğin başka bir mevzi veya bölgeye hareket etmesi; ricat

@@ -2,6 +2,7 @@
 layout: term
 title: boşluğa düşmek
 slug: bosluga-dusmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - kendisini manevi olarak bitmiş, tükenmiş hissetmek, amaçsızca yaşamak

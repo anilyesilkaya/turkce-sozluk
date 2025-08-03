@@ -2,6 +2,7 @@
 layout: term
 title: oburca
 slug: oburca
+letter: O
 lisan: Türkçe
 anlamlar:
 - Doymak bilmez bir biçimde; oburcasına

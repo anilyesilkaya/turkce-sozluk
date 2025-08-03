@@ -2,6 +2,7 @@
 layout: term
 title: ölmez
 slug: olmez
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► ölümsüz

@@ -2,6 +2,7 @@
 layout: term
 title: tehalüf
 slug: tehaluf
+letter: T
 lisan: Arapça teḫāluf
 anlamlar:
 - ► aykırılık

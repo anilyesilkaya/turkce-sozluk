@@ -2,6 +2,7 @@
 layout: term
 title: bişi
 slug: bisi
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► pişi

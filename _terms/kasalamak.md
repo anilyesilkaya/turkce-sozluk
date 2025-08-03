@@ -2,6 +2,7 @@
 layout: term
 title: kasalamak
 slug: kasalamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kasalara yerleştirmek

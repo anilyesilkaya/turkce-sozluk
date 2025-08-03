@@ -2,6 +2,7 @@
 layout: term
 title: analjezik
 slug: analjezik
+letter: A
 lisan: Fransızca analgésique
 anlamlar:
 - ► ağrı kesici

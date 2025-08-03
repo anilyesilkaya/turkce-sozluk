@@ -2,6 +2,7 @@
 layout: term
 title: gerçeküstülük
 slug: gercekustuluk
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gerçeküstü olma durumu

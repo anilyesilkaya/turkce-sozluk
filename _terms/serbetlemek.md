@@ -2,6 +2,7 @@
 layout: term
 title: şerbetlemek
 slug: serbetlemek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Pişmiş hamur tatlısına şerbet katmak, şerbet vermek; şuruplamak

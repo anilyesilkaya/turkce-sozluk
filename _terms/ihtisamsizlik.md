@@ -2,6 +2,7 @@
 layout: term
 title: ihtişamsızlık
 slug: ihtisamsizlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► görkemsizlik

@@ -2,6 +2,7 @@
 layout: term
 title: hışıltı
 slug: hisilti
+letter: H
 lisan: Türkçe
 anlamlar:
 - Sert ve sürekli çıkan ses

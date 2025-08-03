@@ -2,6 +2,7 @@
 layout: term
 title: kontak anahtarı
 slug: kontak-anahtari
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir taşıtın motorunu çalıştırmak için kullanılan anahtar

@@ -2,6 +2,7 @@
 layout: term
 title: ziyaretçi
 slug: ziyaretci
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Ziyaret eden, ziyarete giden kimse

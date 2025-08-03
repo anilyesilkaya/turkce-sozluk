@@ -2,6 +2,7 @@
 layout: term
 title: konik
 slug: konik
+letter: K
 lisan: Fransızca conique
 anlamlar:
 - Koni biçiminde olan veya koni ile ilgili olan; mahruti

@@ -2,6 +2,7 @@
 layout: term
 title: kâtiplik
 slug: katiplik
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► sekreterlik

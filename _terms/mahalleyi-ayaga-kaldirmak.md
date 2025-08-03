@@ -2,6 +2,7 @@
 layout: term
 title: mahalleyi ayağa kaldırmak
 slug: mahalleyi-ayaga-kaldirmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - bağırıp çağırarak konu komşuyu tedirgin etmek

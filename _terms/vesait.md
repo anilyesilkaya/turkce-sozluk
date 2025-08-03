@@ -2,6 +2,7 @@
 layout: term
 title: vesait
 slug: vesait
+letter: V
 lisan: Arapça vesāʾiṭ
 anlamlar:
 - Araçlar, vasıtalar

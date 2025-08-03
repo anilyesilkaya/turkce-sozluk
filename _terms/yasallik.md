@@ -2,6 +2,7 @@
 layout: term
 title: yasallık
 slug: yasallik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Pozitif hukuk normuna uygunluk; kanunilik, legallik

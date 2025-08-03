@@ -2,6 +2,7 @@
 layout: term
 title: yeşil ışık yakmak
 slug: yesil-isik-yakmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - uygun olabileceğini, izin verilebileceğini belli etmek

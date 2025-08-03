@@ -2,6 +2,7 @@
 layout: term
 title: harala gürele
 slug: harala-gurele
+letter: H
 lisan: Türkçe
 anlamlar:
 - Telaş ile

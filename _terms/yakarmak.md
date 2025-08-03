@@ -2,6 +2,7 @@
 layout: term
 title: yakarmak
 slug: yakarmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Israrlı bir biçimde istemek; yalvarmak

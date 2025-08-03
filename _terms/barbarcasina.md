@@ -2,6 +2,7 @@
 layout: term
 title: barbarcasına
 slug: barbarcasina
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► barbarca

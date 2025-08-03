@@ -2,6 +2,7 @@
 layout: term
 title: yaban turpu
 slug: yaban-turpu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Turpgillerden, kökü ve yaprakları baharlı, beyaz çiçek açan bir bitki; turp otu, acırga, eşek turpu, yabani turp (Raphanus raphanistrum)

@@ -2,6 +2,7 @@
 layout: term
 title: atlama kulesi
 slug: atlama-kulesi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Suya yukarıdan atlayış yapabilmek için belli yükseklikte kurulu olan düzenek

@@ -2,6 +2,7 @@
 layout: term
 title: balata
 slug: balata
+letter: B
 lisan: Almanca Balata
 anlamlar:
 - Soğuk ve sıcakta büyük bir sürtünme katsayısına sahip olan, suya ve yağa dayanıklı, yavaş aşınan madde

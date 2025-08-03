@@ -2,6 +2,7 @@
 layout: term
 title: hüzünlenme
 slug: huzunlenme
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hüzünlenmek işi

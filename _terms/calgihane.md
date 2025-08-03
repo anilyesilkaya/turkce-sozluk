@@ -2,6 +2,7 @@
 layout: term
 title: çalgıhane
 slug: calgihane
+letter: Ç
 lisan: Türkçe çalgı + Farsça ḫāne
 anlamlar:
 - Müzik evi, çalgılı lokanta veya eğlence yeri

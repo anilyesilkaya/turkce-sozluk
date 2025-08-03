@@ -2,6 +2,7 @@
 layout: term
 title: yivlemek
 slug: yivlemek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Dikerek eklemek

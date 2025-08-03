@@ -2,6 +2,7 @@
 layout: term
 title: duhuliye
 slug: duhuliye
+letter: D
 lisan: Arapça duḫūliyye
 anlamlar:
 - ► giriş ücreti

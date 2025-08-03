@@ -2,6 +2,7 @@
 layout: term
 title: atlı
 slug: atli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Atı olan

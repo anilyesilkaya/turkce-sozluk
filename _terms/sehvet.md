@@ -2,6 +2,7 @@
 layout: term
 title: şehvet
 slug: sehvet
+letter: Ş
 lisan: Arapça şehvet
 anlamlar:
 - Erkek ve dişinin birbirine karşı duydukları güçlü cinsel istek; kösnü

@@ -2,6 +2,7 @@
 layout: term
 title: sadik
 slug: sadik
+letter: S
 lisan: Fransızca sadique
 anlamlar:
 - Sadistlik özelliği olan

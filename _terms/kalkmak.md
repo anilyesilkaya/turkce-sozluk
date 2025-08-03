@@ -2,6 +2,7 @@
 layout: term
 title: kalkmak
 slug: kalkmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Oturmaktayken veya yatmaktayken gitmek üzere yerinden ayrılmak

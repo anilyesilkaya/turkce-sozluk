@@ -2,6 +2,7 @@
 layout: term
 title: yaban domuzu
 slug: yaban-domuzu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Domuzgillerden, domuzdan iri, bağ ve bahçelere zarar veren saldırgan, yabani bir hayvan (Sus scrofa)

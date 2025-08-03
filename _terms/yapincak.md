@@ -2,6 +2,7 @@
 layout: term
 title: yapıncak
 slug: yapincak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Seyrek taneli, kırmızı benekli bir tür üzüm; kınalı yapıncak, kınalı

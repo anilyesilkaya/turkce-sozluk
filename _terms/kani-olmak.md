@@ -2,6 +2,7 @@
 layout: term
 title: kani olmak
 slug: kani-olmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kanaat getirmiş olmak, inanmak

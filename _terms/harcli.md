@@ -2,6 +2,7 @@
 layout: term
 title: harçlı
 slug: harcli
+letter: H
 lisan: Türkçe
 anlamlar:
 - Yapılması için harç ödenen

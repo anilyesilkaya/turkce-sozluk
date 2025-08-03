@@ -2,6 +2,7 @@
 layout: term
 title: bu takım
 slug: bu-takim
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bunun gibi, buna benzer

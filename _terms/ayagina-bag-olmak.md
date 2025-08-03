@@ -2,6 +2,7 @@
 layout: term
 title: ayağına bağ olmak
 slug: ayagina-bag-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - birinin bulunduğu yerden ayrılmasına veya yaptığı işi sürdürmesine engel olmak

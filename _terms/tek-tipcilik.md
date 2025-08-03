@@ -2,6 +2,7 @@
 layout: term
 title: tek tipçilik
 slug: tek-tipcilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tek tipçi olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: vakvaklama
 slug: vakvaklama
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vakvaklamak işi

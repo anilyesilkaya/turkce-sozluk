@@ -2,6 +2,7 @@
 layout: term
 title: âdet olduğu üzere
 slug: adet-oldugu-uzere
+letter: Â
 lisan: Türkçe
 anlamlar:
 - alışıldığı gibi

@@ -2,6 +2,7 @@
 layout: term
 title: ömür boyunca
 slug: omur-boyunca
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► ömür boyu

@@ -2,6 +2,7 @@
 layout: term
 title: muska
 slug: muska
+letter: M
 lisan: Arapça nusḫa
 anlamlar:
 - İçinde dinsel veya büyüleyici bir gücün saklı olduğu sanılan, taşıyanı, takanı veya sahip olanı zararlı etkilerden koruyup iyilik getirdiğine inanılan bir nesne, yazılı kâğıt vb.; hamayıl

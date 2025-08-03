@@ -2,6 +2,7 @@
 layout: term
 title: sezindirmek
 slug: sezindirmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► sezdirmek

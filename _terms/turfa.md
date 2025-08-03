@@ -2,6 +2,7 @@
 layout: term
 title: turfa
 slug: turfa
+letter: T
 lisan: Arapça ṭurfe
 anlamlar:
 - ► nadir

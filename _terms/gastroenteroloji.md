@@ -2,6 +2,7 @@
 layout: term
 title: gastroenteroloji
 slug: gastroenteroloji
+letter: G
 lisan: Fransızca gastro-entérologie
 anlamlar:
 - ► sindirim bilimi

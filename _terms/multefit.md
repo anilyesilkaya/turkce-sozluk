@@ -2,6 +2,7 @@
 layout: term
 title: mültefit
 slug: multefit
+letter: M
 lisan: Arapça multefit
 anlamlar:
 - ► iltifatkâr

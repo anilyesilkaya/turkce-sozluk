@@ -2,6 +2,7 @@
 layout: term
 title: ondüleli
 slug: onduleli
+letter: O
 lisan: Türkçe
 anlamlar:
 - Ondülesi olan (saç)

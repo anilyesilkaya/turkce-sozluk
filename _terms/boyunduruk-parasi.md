@@ -2,6 +2,7 @@
 layout: term
 title: boyunduruk parası
 slug: boyunduruk-parasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir mahalleden veya köyden başka yere gelin götürülürken, kaynatanın, gelinin ayrıldığı yerin delikanlılarına verdiği bahşiş

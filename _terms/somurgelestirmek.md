@@ -2,6 +2,7 @@
 layout: term
 title: sömürgeleştirmek
 slug: somurgelestirmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sömürge durumuna getirmek, sömürge yapmak; müstemlekeleştirmek

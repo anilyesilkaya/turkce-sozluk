@@ -2,6 +2,7 @@
 layout: term
 title: uçlanmak
 slug: uclanmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uçlu duruma gelmek, uç vermek, filizlenmek

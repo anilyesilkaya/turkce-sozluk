@@ -2,6 +2,7 @@
 layout: term
 title: takınma
 slug: takinma
+letter: T
 lisan: Türkçe
 anlamlar:
 - Takınmak işi

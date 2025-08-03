@@ -2,6 +2,7 @@
 layout: term
 title: hafakan
 slug: hafakan
+letter: H
 lisan: Arapça ḫafaḳān
 anlamlar:
 - Sıkıntı, çarpıntı; afakan

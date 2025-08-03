@@ -2,6 +2,7 @@
 layout: term
 title: erkânıharplik
 slug: erkaniharplik
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► kurmaylık

@@ -2,6 +2,7 @@
 layout: term
 title: keli görünmek
 slug: keli-gorunmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - kusuru ortaya çıkmak

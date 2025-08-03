@@ -2,6 +2,7 @@
 layout: term
 title: üyelik
 slug: uyelik
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üye olma durumu

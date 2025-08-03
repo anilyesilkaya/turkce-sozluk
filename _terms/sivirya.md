@@ -2,6 +2,7 @@
 layout: term
 title: sıvırya
 slug: sivirya
+letter: S
 lisan: İtalyanca sigurya
 anlamlar:
 - ► alabildiğine

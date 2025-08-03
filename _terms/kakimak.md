@@ -2,6 +2,7 @@
 layout: term
 title: kakımak
 slug: kakimak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir kimsenin yaptığı işin beğenilmediğini kendisine sert sözlerle söylemek

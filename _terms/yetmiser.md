@@ -2,6 +2,7 @@
 layout: term
 title: yetmişer
 slug: yetmiser
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yetmiş sayısının üleştirme sayı sıfatı

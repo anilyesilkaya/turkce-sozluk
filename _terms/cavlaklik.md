@@ -2,6 +2,7 @@
 layout: term
 title: cavlaklık
 slug: cavlaklik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cavlak olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: gün meselesi
 slug: gun-meselesi
+letter: G
 lisan: Türkçe
 anlamlar:
 - olması her an mümkün, sürekli gerçekleşebilecek durumda

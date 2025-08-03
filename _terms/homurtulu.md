@@ -2,6 +2,7 @@
 layout: term
 title: homurtulu
 slug: homurtulu
+letter: H
 lisan: Türkçe
 anlamlar:
 - Homurtusu olan

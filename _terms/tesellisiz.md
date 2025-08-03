@@ -2,6 +2,7 @@
 layout: term
 title: tesellisiz
 slug: tesellisiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Teselli edilemeyen

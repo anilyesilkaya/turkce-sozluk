@@ -2,6 +2,7 @@
 layout: term
 title: aşağılık
 slug: asagilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aşağı olma durumu; adilik

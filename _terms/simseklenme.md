@@ -2,6 +2,7 @@
 layout: term
 title: şimşeklenme
 slug: simseklenme
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şimşeklenmek işi

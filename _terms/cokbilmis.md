@@ -2,6 +2,7 @@
 layout: term
 title: çokbilmiş
 slug: cokbilmis
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Her şeye aklı eren, zeki, akıllı

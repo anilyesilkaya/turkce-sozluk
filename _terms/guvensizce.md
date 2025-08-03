@@ -2,6 +2,7 @@
 layout: term
 title: güvensizce
 slug: guvensizce
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güvensiz bir biçimde, güvensiz olarak

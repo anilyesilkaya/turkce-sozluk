@@ -2,6 +2,7 @@
 layout: term
 title: bağlamacı
 slug: baglamaci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağlama yapan veya satan kimse

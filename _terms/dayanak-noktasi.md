@@ -2,6 +2,7 @@
 layout: term
 title: dayanak noktası
 slug: dayanak-noktasi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Yapılarda bir bölümün ağırlığını taşımaya yarayan öge

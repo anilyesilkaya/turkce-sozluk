@@ -2,6 +2,7 @@
 layout: term
 title: düzgün
 slug: duzgun
+letter: D
 lisan: Türkçe
 anlamlar:
 - Doğru ve pürüzsüz; muntazam

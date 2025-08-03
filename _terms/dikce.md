@@ -2,6 +2,7 @@
 layout: term
 title: dikçe
 slug: dikce
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dik olarak

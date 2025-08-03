@@ -2,6 +2,7 @@
 layout: term
 title: ceza alanı
 slug: ceza-alani
+letter: C
 lisan: Türkçe
 anlamlar:
 - Futbolda ve hentbolda bir oyuncunun bilerek yaptığı kural dışı davranışın penaltı ile cezalandırıldığı veya kalecinin topu elle tutmasına izin verildiği alan; ceza sahası, penaltı alanı, penaltı sahası, onsekiz

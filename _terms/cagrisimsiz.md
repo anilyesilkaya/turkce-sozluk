@@ -2,6 +2,7 @@
 layout: term
 title: çağrışımsız
 slug: cagrisimsiz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çağrışımı olmayan

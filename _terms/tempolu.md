@@ -2,6 +2,7 @@
 layout: term
 title: tempolu
 slug: tempolu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Temposu olan

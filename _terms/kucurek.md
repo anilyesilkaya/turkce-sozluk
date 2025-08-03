@@ -2,6 +2,7 @@
 layout: term
 title: küçürek
 slug: kucurek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Biraz küçük

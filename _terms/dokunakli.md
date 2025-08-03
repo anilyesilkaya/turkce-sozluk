@@ -2,6 +2,7 @@
 layout: term
 title: dokunaklı
 slug: dokunakli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Etkili, insanın içine işleyen; yakıcı (I), müessir

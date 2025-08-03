@@ -2,6 +2,7 @@
 layout: term
 title: ocağı sönmek
 slug: ocagi-sonmek
+letter: O
 lisan: Türkçe
 anlamlar:
 - aile dağılmak, yok olmak

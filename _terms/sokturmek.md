@@ -2,6 +2,7 @@
 layout: term
 title: söktürmek
 slug: sokturmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sökme işini yaptırmak

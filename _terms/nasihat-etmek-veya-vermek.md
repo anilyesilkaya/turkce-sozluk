@@ -2,6 +2,7 @@
 layout: term
 title: nasihat etmek (veya vermek)
 slug: nasihat-etmek-veya-vermek
+letter: N
 lisan: Türkçe
 anlamlar:
 - öğüt vermek

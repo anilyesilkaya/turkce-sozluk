@@ -2,6 +2,7 @@
 layout: term
 title: dokunulmazlık
 slug: dokunulmazlik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dokunulmaz, ilişilmez, karışılmaz olma durumu; masuniyet

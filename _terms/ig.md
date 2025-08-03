@@ -2,6 +2,7 @@
 layout: term
 title: iğ
 slug: ig
+letter: I
 lisan: Türkçe
 anlamlar:
 - Pamuk, yün vb.nden iplik eğirmekte kullanılan, ortası şişkin, iki ucu sivri ve çengelli olan, alt kısmında ağırşak bulunan, ağaçtan yapılmış araç; cehre

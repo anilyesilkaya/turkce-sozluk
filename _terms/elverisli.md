@@ -2,6 +2,7 @@
 layout: term
 title: elverişli
 slug: elverisli
+letter: E
 lisan: Türkçe
 anlamlar:
 - Uygun olan

@@ -2,6 +2,7 @@
 layout: term
 title: camlaşmak
 slug: camlasmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cama benzer duruma gelmek

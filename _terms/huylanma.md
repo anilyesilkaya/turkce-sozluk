@@ -2,6 +2,7 @@
 layout: term
 title: huylanma
 slug: huylanma
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► kuşkulanma

@@ -2,6 +2,7 @@
 layout: term
 title: maksat
 slug: maksat
+letter: M
 lisan: Arapça maḳṣad
 anlamlar:
 - ► amaç

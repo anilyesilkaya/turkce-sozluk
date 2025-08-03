@@ -2,6 +2,7 @@
 layout: term
 title: azıklık
 slug: aziklik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Azık olarak ayrılan veya hazırlanan yiyecekler

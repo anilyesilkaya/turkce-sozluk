@@ -2,6 +2,7 @@
 layout: term
 title: yağmur
 slug: yagmur
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Atmosferdeki su buharının yoğunlaşmasıyla oluşan ve yeryüzüne düşen yağışın sıvı durumda olanı; yağar, yağış, baran, bereket, kay (I), rahmet

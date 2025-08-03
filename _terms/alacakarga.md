@@ -2,6 +2,7 @@
 layout: term
 title: alacakarga
 slug: alacakarga
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► saksağan

@@ -2,6 +2,7 @@
 layout: term
 title: rehbersiz
 slug: rehbersiz
+letter: R
 lisan: Türkçe
 anlamlar:
 - Rehberi olmayan

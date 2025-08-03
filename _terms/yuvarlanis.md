@@ -2,6 +2,7 @@
 layout: term
 title: yuvarlanış
 slug: yuvarlanis
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yuvarlanmak işi

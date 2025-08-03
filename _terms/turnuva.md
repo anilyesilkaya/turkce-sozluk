@@ -2,6 +2,7 @@
 layout: term
 title: turnuva
 slug: turnuva
+letter: T
 lisan: Fransızca tournoi
 anlamlar:
 - Oyuncu veya takımlar arasında sırayla yapılan yarışma dizisi

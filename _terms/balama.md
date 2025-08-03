@@ -2,6 +2,7 @@
 layout: term
 title: balama
 slug: balama
+letter: B
 lisan: Türkçe
 anlamlar:
 - Orta oyununda Rum tipi

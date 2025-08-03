@@ -2,6 +2,7 @@
 layout: term
 title: baharatlandırma
 slug: baharatlandirma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Baharatlandırmak işi

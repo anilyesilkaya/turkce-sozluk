@@ -2,6 +2,7 @@
 layout: term
 title: cümlecik
 slug: cumlecik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Kısa olan cümle

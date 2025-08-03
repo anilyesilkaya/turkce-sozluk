@@ -2,6 +2,7 @@
 layout: term
 title: diplemek
 slug: diplemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bitkiyi kökünden sökmek

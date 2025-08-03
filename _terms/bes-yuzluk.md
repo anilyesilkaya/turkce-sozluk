@@ -2,6 +2,7 @@
 layout: term
 title: beş yüzlük
 slug: bes-yuzluk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beş yüz liralık kâğıt para

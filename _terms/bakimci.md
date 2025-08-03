@@ -2,6 +2,7 @@
 layout: term
 title: bakımcı
 slug: bakimci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bakım işini yapan kimse

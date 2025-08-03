@@ -2,6 +2,7 @@
 layout: term
 title: avara
 slug: avara
+letter: A
 lisan: Farsça āvāre
 anlamlar:
 - ► avare

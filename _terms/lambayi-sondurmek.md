@@ -2,6 +2,7 @@
 layout: term
 title: lambayı söndürmek
 slug: lambayi-sondurmek
+letter: L
 lisan: Türkçe
 anlamlar:
 - ışığı kapatmak

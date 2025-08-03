@@ -2,6 +2,7 @@
 layout: term
 title: zeyil
 slug: zeyil
+letter: Z
 lisan: Arapça ẕeyl
 anlamlar:
 - ► ek

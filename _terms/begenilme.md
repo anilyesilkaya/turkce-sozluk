@@ -2,6 +2,7 @@
 layout: term
 title: beğenilme
 slug: begenilme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beğenilmek işi veya durumu; popülarite

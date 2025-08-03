@@ -2,6 +2,7 @@
 layout: term
 title: tavsamak
 slug: tavsamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir iş, bir durum vb. gücünü, hızını kaybetmek

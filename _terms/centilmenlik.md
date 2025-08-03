@@ -2,6 +2,7 @@
 layout: term
 title: centilmenlik
 slug: centilmenlik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Centilmen olma durumu

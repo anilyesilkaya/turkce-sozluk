@@ -2,6 +2,7 @@
 layout: term
 title: söz getirmek
 slug: soz-getirmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - birinin eleştirilmesine sebep olmak

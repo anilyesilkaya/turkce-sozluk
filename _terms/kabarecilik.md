@@ -2,6 +2,7 @@
 layout: term
 title: kabarecilik
 slug: kabarecilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kabarecinin yaptığı iş

@@ -2,6 +2,7 @@
 layout: term
 title: kadifeleştirmek
 slug: kadifelestirmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kadifeleşmesine yol açmak

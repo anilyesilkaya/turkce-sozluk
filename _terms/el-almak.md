@@ -2,6 +2,7 @@
 layout: term
 title: el almak
 slug: el-almak
+letter: E
 lisan: Türkçe
 anlamlar:
 - bir sanatı yapmak için ustanın iznini almak

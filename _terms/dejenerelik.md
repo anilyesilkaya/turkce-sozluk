@@ -2,6 +2,7 @@
 layout: term
 title: dejenerelik
 slug: dejenerelik
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► soysuzluk

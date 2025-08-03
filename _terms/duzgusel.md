@@ -2,6 +2,7 @@
 layout: term
 title: düzgüsel
 slug: duzgusel
+letter: D
 lisan: Türkçe
 anlamlar:
 - Kurallarla, yasalarla ilgili olan, kural, yasa koyan; normatif

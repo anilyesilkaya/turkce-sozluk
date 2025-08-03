@@ -2,6 +2,7 @@
 layout: term
 title: dayatmak
 slug: dayatmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dayama işini yaptırmak

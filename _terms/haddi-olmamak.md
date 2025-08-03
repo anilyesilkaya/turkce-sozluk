@@ -2,6 +2,7 @@
 layout: term
 title: haddi olmamak
 slug: haddi-olmamak
+letter: H
 lisan: Türkçe
 anlamlar:
 - hakkı veya yetkisi olmamak

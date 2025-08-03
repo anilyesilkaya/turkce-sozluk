@@ -2,6 +2,7 @@
 layout: term
 title: taharet
 slug: taharet
+letter: T
 lisan: Arapça ṭahāret
 anlamlar:
 - Temizlik, temiz olma

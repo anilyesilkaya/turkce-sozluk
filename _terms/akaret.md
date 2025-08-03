@@ -2,6 +2,7 @@
 layout: term
 title: akaret
 slug: akaret
+letter: A
 lisan: Arapça ʿaḳārāt sözünden
 anlamlar:
 - ► akar (I)

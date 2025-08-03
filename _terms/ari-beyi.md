@@ -2,6 +2,7 @@
 layout: term
 title: arı beyi
 slug: ari-beyi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Her kovanda bir tane bulunan, üreme yeteneği olan arı; ana arı, ana kraliçe, kraliçe arı, bey arı

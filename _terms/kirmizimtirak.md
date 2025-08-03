@@ -2,6 +2,7 @@
 layout: term
 title: kırmızımtırak
 slug: kirmizimtirak
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kırmızımsı

@@ -2,6 +2,7 @@
 layout: term
 title: rejisörlük etmek
 slug: rejisorluk-etmek
+letter: R
 lisan: Türkçe
 anlamlar:
 - tiyatro ve sinema sanatında yönetmenlik yapmak

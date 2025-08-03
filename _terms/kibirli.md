@@ -2,6 +2,7 @@
 layout: term
 title: kibirli
 slug: kibirli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kendini büyük gören, büyüklenen; gururlu, mütekebbir

@@ -2,6 +2,7 @@
 layout: term
 title: ilgileniş
 slug: ilgilenis
+letter: I
 lisan: Türkçe
 anlamlar:
 - İlgilenmek işi

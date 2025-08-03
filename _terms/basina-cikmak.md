@@ -2,6 +2,7 @@
 layout: term
 title: başına çıkmak
 slug: basina-cikmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - birinden yüz bulup ona karşı pek şımarıkça davranmak

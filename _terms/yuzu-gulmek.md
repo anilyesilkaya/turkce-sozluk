@@ -2,6 +2,7 @@
 layout: term
 title: yüzü gülmek
 slug: yuzu-gulmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - sevinci yüzünden belli olmak

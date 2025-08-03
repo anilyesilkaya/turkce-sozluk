@@ -2,6 +2,7 @@
 layout: term
 title: ceride
 slug: ceride
+letter: C
 lisan: Arapça cerīde
 anlamlar:
 - ► gazete

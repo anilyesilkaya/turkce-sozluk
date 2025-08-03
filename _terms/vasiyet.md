@@ -2,6 +2,7 @@
 layout: term
 title: vasiyet
 slug: vasiyet
+letter: V
 lisan: Arapça vaṣiyyet
 anlamlar:
 - Bir kimsenin ölümünden sonra yapılmasını istediği şey

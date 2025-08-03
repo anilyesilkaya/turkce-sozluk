@@ -2,6 +2,7 @@
 layout: term
 title: uyartı
 slug: uyarti
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyarmak için söylenen söz

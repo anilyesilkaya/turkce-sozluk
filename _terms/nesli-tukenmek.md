@@ -2,6 +2,7 @@
 layout: term
 title: nesli tükenmek
 slug: nesli-tukenmek
+letter: N
 lisan: Türkçe
 anlamlar:
 - bitmek, tamamen yok olmak, ortadan kalkmak

@@ -2,6 +2,7 @@
 layout: term
 title: tuğyan
 slug: tugyan
+letter: T
 lisan: Arapça ṭuġyān
 anlamlar:
 - Akarsuyun taşması, kabarması

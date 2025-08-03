@@ -2,6 +2,7 @@
 layout: term
 title: cildiye
 slug: cildiye
+letter: C
 lisan: Arapça cildiyye
 anlamlar:
 - Hekimliğin deri hastalıkları ile ilgili dalı; dermatoloji

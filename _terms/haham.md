@@ -2,6 +2,7 @@
 layout: term
 title: haham
 slug: haham
+letter: H
 lisan: İbranice
 anlamlar:
 - Yahudi din adamı

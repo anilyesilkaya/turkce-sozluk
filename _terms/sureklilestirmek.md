@@ -2,6 +2,7 @@
 layout: term
 title: süreklileştirmek
 slug: sureklilestirmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sürekli duruma getirmek

@@ -2,6 +2,7 @@
 layout: term
 title: insaniyet gütmek
 slug: insaniyet-gutmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - insana yakışır bir biçimde yaşamayı ve düşünmeyi gerçekleştirmeye çalışmak

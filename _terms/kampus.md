@@ -2,6 +2,7 @@
 layout: term
 title: kampüs
 slug: kampus
+letter: K
 lisan: Fransızca campus
 anlamlar:
 - ► yerleşke

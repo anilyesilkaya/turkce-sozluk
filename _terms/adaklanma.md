@@ -2,6 +2,7 @@
 layout: term
 title: adaklanma
 slug: adaklanma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Adaklanmak işi

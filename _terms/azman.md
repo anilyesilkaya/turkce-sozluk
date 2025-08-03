@@ -2,6 +2,7 @@
 layout: term
 title: azman
 slug: azman
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aşırı gelişmiş

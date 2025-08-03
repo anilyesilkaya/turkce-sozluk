@@ -2,6 +2,7 @@
 layout: term
 title: sulhperverlik
 slug: sulhperverlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► barışseverlik

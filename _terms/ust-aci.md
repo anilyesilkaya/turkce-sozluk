@@ -2,6 +2,7 @@
 layout: term
 title: üst açı
 slug: ust-aci
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Kameranın göz seviyesinin üstünde kalan bölümü çeken açısı

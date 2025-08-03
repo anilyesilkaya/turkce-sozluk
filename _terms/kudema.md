@@ -2,6 +2,7 @@
 layout: term
 title: kudema
 slug: kudema
+letter: K
 lisan: Arapça ḳudemā
 anlamlar:
 - ► eskiler

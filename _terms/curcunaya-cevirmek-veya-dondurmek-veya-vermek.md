@@ -2,6 +2,7 @@
 layout: term
 title: curcunaya çevirmek (veya döndürmek veya vermek)
 slug: curcunaya-cevirmek-veya-dondurmek-veya-vermek
+letter: C
 lisan: Türkçe
 anlamlar:
 - ortalığı karışık, gürültülü duruma sokmak

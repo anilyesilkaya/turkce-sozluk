@@ -2,6 +2,7 @@
 layout: term
 title: lavman
 slug: lavman
+letter: L
 lisan: Fransızca lavement
 anlamlar:
 - Anüs yoluyla kalın bağırsağa tanı veya tedavi amacıyla sıvı verme

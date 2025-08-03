@@ -2,6 +2,7 @@
 layout: term
 title: krallaştırmak
 slug: krallastirmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kral durumuna getirmek, kral gibi davranmasına sebep olmak

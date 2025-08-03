@@ -2,6 +2,7 @@
 layout: term
 title: yüreğine oturmak
 slug: yuregine-oturmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - çok üzmek

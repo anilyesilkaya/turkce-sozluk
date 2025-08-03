@@ -2,6 +2,7 @@
 layout: term
 title: yuvarlacık
 slug: yuvarlacik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Küçük ve yuvarlak

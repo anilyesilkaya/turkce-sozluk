@@ -2,6 +2,7 @@
 layout: term
 title: mevzuat
 slug: mevzuat
+letter: M
 lisan: Arapça mevżūʿāt
 anlamlar:
 - Bir ülkede yürürlükte olan yasa, tüzük, yönetmelik vb.nin bütünü

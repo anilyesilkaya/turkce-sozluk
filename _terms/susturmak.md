@@ -2,6 +2,7 @@
 layout: term
 title: susturmak
 slug: susturmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Susmasını sağlamak, susmasına sebep olmak

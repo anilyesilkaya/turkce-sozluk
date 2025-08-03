@@ -2,6 +2,7 @@
 layout: term
 title: bin dereden su getirmek
 slug: bin-dereden-su-getirmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - birini ikna etmek için birçok sebep ileri sürmek, dil dökmek

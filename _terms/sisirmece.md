@@ -2,6 +2,7 @@
 layout: term
 title: şişirmece
 slug: sisirmece
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Baştan savma, kötü olan (iş)

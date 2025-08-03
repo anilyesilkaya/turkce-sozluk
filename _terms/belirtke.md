@@ -2,6 +2,7 @@
 layout: term
 title: belirtke
 slug: belirtke
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► amblem

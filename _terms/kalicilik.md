@@ -2,6 +2,7 @@
 layout: term
 title: kalıcılık
 slug: kalicilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalıcı olma durumu; beka

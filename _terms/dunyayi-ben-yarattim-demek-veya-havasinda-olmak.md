@@ -2,6 +2,7 @@
 layout: term
 title: dünyayı ben yarattım demek (veya havasında olmak)
 slug: dunyayi-ben-yarattim-demek-veya-havasinda-olmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - aşırı mağrur olmak, büyüklenmek

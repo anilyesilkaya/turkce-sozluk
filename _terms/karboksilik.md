@@ -2,6 +2,7 @@
 layout: term
 title: karboksilik
 slug: karboksilik
+letter: K
 lisan: Fransızca carboxylique
 anlamlar:
 - ► karboksilli

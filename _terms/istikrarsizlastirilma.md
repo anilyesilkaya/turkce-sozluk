@@ -2,6 +2,7 @@
 layout: term
 title: 'istikrarsızlaştırılma '
 slug: istikrarsizlastirilma
+letter: I
 lisan: Türkçe
 anlamlar:
 - İstikrarsızlaştırılmak durumu

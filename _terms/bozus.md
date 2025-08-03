@@ -2,6 +2,7 @@
 layout: term
 title: bozuş
 slug: bozus
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bozmak işi

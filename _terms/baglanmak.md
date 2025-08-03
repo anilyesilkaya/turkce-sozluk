@@ -2,6 +2,7 @@
 layout: term
 title: bağlanmak
 slug: baglanmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağlama işine konu olmak

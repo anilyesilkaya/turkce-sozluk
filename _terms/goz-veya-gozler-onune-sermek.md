@@ -2,6 +2,7 @@
 layout: term
 title: göz (veya gözler) önüne sermek
 slug: goz-veya-gozler-onune-sermek
+letter: G
 lisan: Türkçe
 anlamlar:
 - açıklamak, sergilemek, göstermek, tanıtmak

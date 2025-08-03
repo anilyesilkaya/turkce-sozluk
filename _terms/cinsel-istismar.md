@@ -2,6 +2,7 @@
 layout: term
 title: cinsel istismar
 slug: cinsel-istismar
+letter: C
 lisan: Türkçe
 anlamlar:
 - Çocuklara karşı bedensel temasta bulunmak suretiyle cinsel amaçla işlenen fiil

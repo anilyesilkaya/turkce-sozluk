@@ -2,6 +2,7 @@
 layout: term
 title: acı kuvvet
 slug: aci-kuvvet
+letter: A
 lisan: Türkçe
 anlamlar:
 - Sert, etkili, zorlu kuvvet

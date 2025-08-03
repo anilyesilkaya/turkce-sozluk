@@ -2,6 +2,7 @@
 layout: term
 title: büyüklük
 slug: buyukluk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Büyük olma durumu; çap (I), cesamet

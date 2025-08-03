@@ -2,6 +2,7 @@
 layout: term
 title: sepetçi
 slug: sepetci
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sepet yapan veya satan kimse

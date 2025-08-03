@@ -2,6 +2,7 @@
 layout: term
 title: suçluluk
 slug: sucluluk
+letter: S
 lisan: Türkçe
 anlamlar:
 - Suçlu olma durumu; mücrimlik

@@ -2,6 +2,7 @@
 layout: term
 title: hisse senedi
 slug: hisse-senedi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Ortaklık sermayesinin belirli bir parçasını değerlendiren belge; pay senedi, aksiyon

@@ -2,6 +2,7 @@
 layout: term
 title: tufalamak
 slug: tufalamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Hırsızlık yapmak, eşya, para vb.ni çalmak

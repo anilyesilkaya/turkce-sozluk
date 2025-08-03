@@ -2,6 +2,7 @@
 layout: term
 title: iptidaları
 slug: iptidalari
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► önceleri

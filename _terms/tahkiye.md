@@ -2,6 +2,7 @@
 layout: term
 title: tahkiye
 slug: tahkiye
+letter: T
 lisan: Arapça taḥkiye
 anlamlar:
 - Bir olayı anlatmadaki düzen, anlatış düzeni

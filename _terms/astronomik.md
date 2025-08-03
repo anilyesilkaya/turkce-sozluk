@@ -2,6 +2,7 @@
 layout: term
 title: astronomik
 slug: astronomik
+letter: A
 lisan: Fransızca astronomique
 anlamlar:
 - ► gök bilimsel

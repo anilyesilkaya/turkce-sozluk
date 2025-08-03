@@ -2,6 +2,7 @@
 layout: term
 title: kuvvetlendirici
 slug: kuvvetlendirici
+letter: K
 lisan: Türkçe
 anlamlar:
 - Fiziksel gücü artıran

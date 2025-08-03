@@ -2,6 +2,7 @@
 layout: term
 title: bilgi
 slug: bilgi
+letter: B
 lisan: Türkçe
 anlamlar:
 - İnsan aklının erebileceği olgu, gerçek ve ilkelerin bütünü; bili, malumat

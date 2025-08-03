@@ -2,6 +2,7 @@
 layout: term
 title: sırımak
 slug: sirimak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Yorgan, şilte vb.ni iri ve aralıklı dikmek

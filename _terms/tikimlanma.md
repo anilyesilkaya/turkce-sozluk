@@ -2,6 +2,7 @@
 layout: term
 title: tıkımlanma
 slug: tikimlanma
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tıkımlanmak işi

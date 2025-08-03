@@ -2,6 +2,7 @@
 layout: term
 title: doğrulatma
 slug: dogrulatma
+letter: D
 lisan: Türkçe
 anlamlar:
 - Doğrulatmak işi

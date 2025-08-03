@@ -2,6 +2,7 @@
 layout: term
 title: umman
 slug: umman
+letter: U
 lisan: Arapça ʿummān
 anlamlar:
 - ► okyanus

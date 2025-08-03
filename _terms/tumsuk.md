@@ -2,6 +2,7 @@
 layout: term
 title: tumşuk
 slug: tumsuk
+letter: T
 lisan: Türkçe
 anlamlar:
 - Papağan, kartal vb. kuşların kemerli gagası

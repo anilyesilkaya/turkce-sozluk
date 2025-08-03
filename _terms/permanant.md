@@ -2,6 +2,7 @@
 layout: term
 title: permanant
 slug: permanant
+letter: P
 lisan: Fransızca permanente
 anlamlar:
 - ► perma

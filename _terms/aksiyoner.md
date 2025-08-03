@@ -2,6 +2,7 @@
 layout: term
 title: aksiyoner
 slug: aksiyoner
+letter: A
 lisan: Fransızca actionnaire
 anlamlar:
 - Durağan olmayan, hareketli ve etkin olan

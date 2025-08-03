@@ -2,6 +2,7 @@
 layout: term
 title: dağılma
 slug: dagilma
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dağılmak işi; infisah, inhilal

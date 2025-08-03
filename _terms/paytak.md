@@ -2,6 +2,7 @@
 layout: term
 title: paytak
 slug: paytak
+letter: P
 lisan: Arapça baydaḳ
 anlamlar:
 - Çarpık, eğri bacaklı

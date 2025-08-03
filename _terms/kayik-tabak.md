@@ -2,6 +2,7 @@
 layout: term
 title: kayık tabak
 slug: kayik-tabak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kayık biçiminde uzun ve düz tabak

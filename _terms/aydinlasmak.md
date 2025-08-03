@@ -2,6 +2,7 @@
 layout: term
 title: aydınlaşmak
 slug: aydinlasmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aydın niteliği kazanmak

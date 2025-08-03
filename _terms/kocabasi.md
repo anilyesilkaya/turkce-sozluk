@@ -2,6 +2,7 @@
 layout: term
 title: kocabaşı
 slug: kocabasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► muhtar

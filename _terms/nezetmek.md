@@ -2,6 +2,7 @@
 layout: term
 title: nezetmek
 slug: nezetmek
+letter: N
 lisan: Arapça nezʿ + Türkçe etmek
 anlamlar:
 - Koparmak, çekip almak

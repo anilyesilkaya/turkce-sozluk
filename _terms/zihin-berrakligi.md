@@ -2,6 +2,7 @@
 layout: term
 title: zihin berraklığı
 slug: zihin-berrakligi
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► zihin açıklığı

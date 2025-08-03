@@ -2,6 +2,7 @@
 layout: term
 title: oyunbozan
 slug: oyunbozan
+letter: O
 lisan: Türkçe
 anlamlar:
 - Birlikte yapılmasına karar verilen bir işten tek taraflı cayan (kimse); mızıkçı

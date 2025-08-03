@@ -2,6 +2,7 @@
 layout: term
 title: buharlaşıvermek
 slug: buharlasivermek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çabucak buharlaşmak

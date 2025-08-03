@@ -2,6 +2,7 @@
 layout: term
 title: haksız
 slug: haksiz
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hak ve adalete uygun olmayan

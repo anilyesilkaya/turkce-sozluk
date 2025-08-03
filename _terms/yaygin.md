@@ -2,6 +2,7 @@
 layout: term
 title: yaygın
 slug: yaygin
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Çoğu kimselerce duyulmuş, öğrenilmiş, kullanılmış veya benimsenmiş olan

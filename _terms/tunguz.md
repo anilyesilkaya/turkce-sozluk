@@ -2,6 +2,7 @@
 layout: term
 title: Tunguz
 slug: tunguz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Doğu Sibirya'da yaşayan, avcılık ve balıkçılıkla geçinen, yarı göçebe bir topluluk

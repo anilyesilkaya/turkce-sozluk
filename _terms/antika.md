@@ -2,6 +2,7 @@
 layout: term
 title: antika
 slug: antika
+letter: A
 lisan: İtalyanca antico
 anlamlar:
 - Tarihsel bir döneme ait olan

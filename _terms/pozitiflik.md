@@ -2,6 +2,7 @@
 layout: term
 title: pozitiflik
 slug: pozitiflik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pozitif olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: topu topu
 slug: topu-topu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Toplam olarak

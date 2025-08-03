@@ -2,6 +2,7 @@
 layout: term
 title: longoz
 slug: longoz
+letter: L
 lisan: Rumca
 anlamlar:
 - ► subasar

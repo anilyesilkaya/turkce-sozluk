@@ -2,6 +2,7 @@
 layout: term
 title: demet
 slug: demet
+letter: D
 lisan: Rumca
 anlamlar:
 - Çiçek veya bitkilerin bir araya getirilip bağlanmış biçimi; bağ (I), bağlam

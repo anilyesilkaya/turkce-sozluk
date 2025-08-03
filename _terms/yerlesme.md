@@ -2,6 +2,7 @@
 layout: term
 title: yerleşme
 slug: yerlesme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yerleşmek işi

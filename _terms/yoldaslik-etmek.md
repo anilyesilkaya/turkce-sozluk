@@ -2,6 +2,7 @@
 layout: term
 title: yoldaşlık etmek
 slug: yoldaslik-etmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - bir yolcuya katılmak, birlikte gitmek

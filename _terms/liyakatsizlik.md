@@ -2,6 +2,7 @@
 layout: term
 title: liyakatsizlik
 slug: liyakatsizlik
+letter: L
 lisan: Türkçe
 anlamlar:
 - Liyakatsiz olma durumu; değimsizlik

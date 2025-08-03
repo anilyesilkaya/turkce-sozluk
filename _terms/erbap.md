@@ -2,6 +2,7 @@
 layout: term
 title: erbap
 slug: erbap
+letter: E
 lisan: Arapça erbāb
 anlamlar:
 - Bir işten anlayan, bir işi iyi yapan kimse

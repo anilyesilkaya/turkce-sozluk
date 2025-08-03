@@ -2,6 +2,7 @@
 layout: term
 title: paniğe kapılmak
 slug: panige-kapilmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - çok korkmak

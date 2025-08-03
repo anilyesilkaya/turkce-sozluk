@@ -2,6 +2,7 @@
 layout: term
 title: kahvaltı
 slug: kahvalti
+letter: K
 lisan: Türkçe
 anlamlar:
 - Genellikle sabahları yenilen hafif yemek

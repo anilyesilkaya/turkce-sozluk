@@ -2,6 +2,7 @@
 layout: term
 title: bahane etmek
 slug: bahane-etmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - herhangi bir şeyi sebep olarak ileri sürmek

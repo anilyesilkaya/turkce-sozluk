@@ -2,6 +2,7 @@
 layout: term
 title: hicran
 slug: hicran
+letter: H
 lisan: Arapça hicrān
 anlamlar:
 - Bir yerden veya bir kimseden ayrılma, ayrılık

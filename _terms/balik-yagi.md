@@ -2,6 +2,7 @@
 layout: term
 title: balık yağı
 slug: balik-yagi
+letter: B
 lisan: Türkçe
 anlamlar:
 - İri balık ve deniz hayvanlarının sanayide kullanılan yağı

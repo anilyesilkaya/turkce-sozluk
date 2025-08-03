@@ -2,6 +2,7 @@
 layout: term
 title: heyecana kapılmak
 slug: heyecana-kapilmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - aşırı derecede heyecan, coşku duymak

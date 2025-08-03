@@ -2,6 +2,7 @@
 layout: term
 title: yüzünü güldürmek
 slug: yuzunu-guldurmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - birini mutlu etmek, birine iyilik etmek

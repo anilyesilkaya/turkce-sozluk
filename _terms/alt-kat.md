@@ -2,6 +2,7 @@
 layout: term
 title: alt kat
 slug: alt-kat
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir yapının veya aracın katlarından altta olanı

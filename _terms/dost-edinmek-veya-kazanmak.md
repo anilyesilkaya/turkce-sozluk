@@ -2,6 +2,7 @@
 layout: term
 title: dost edinmek (veya kazanmak)
 slug: dost-edinmek-veya-kazanmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - bir kişiyi dost olarak kabul etmek

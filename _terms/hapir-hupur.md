@@ -2,6 +2,7 @@
 layout: term
 title: hapır hupur
 slug: hapir-hupur
+letter: H
 lisan: Türkçe
 anlamlar:
 - İştahlı ve gürültülü bir biçimde (yemek); hapır hapır

@@ -2,6 +2,7 @@
 layout: term
 title: yardım
 slug: yardim
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Kendi gücünü ve imkânlarını başka birinin iyiliği için kullanma; iane, muavenet

@@ -2,6 +2,7 @@
 layout: term
 title: katakulli okumak
 slug: katakulli-okumak
+letter: K
 lisan: Türkçe
 anlamlar:
 - yalan söylemek, palavra atmak

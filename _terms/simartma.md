@@ -2,6 +2,7 @@
 layout: term
 title: şımartma
 slug: simartma
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şımartmak işi

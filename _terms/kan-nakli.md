@@ -2,6 +2,7 @@
 layout: term
 title: kan nakli
 slug: kan-nakli
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kan aktarımı

@@ -2,6 +2,7 @@
 layout: term
 title: berber
 slug: berber
+letter: B
 lisan: İtalyanca berbiere
 anlamlar:
 - Saç ve sakalın kesilmesi, taranması ve yapılması işiyle uğraşan veya bunu meslek edinen kimse; erkek berberi, perukar

@@ -2,6 +2,7 @@
 layout: term
 title: centilmence
 slug: centilmence
+letter: C
 lisan: Türkçe
 anlamlar:
 - Centilmene yakışan
