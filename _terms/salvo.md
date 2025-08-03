@@ -2,6 +2,7 @@
 layout: term
 title: salvo
 slug: salvo
+letter: S
 lisan: İtalyanca salvo
 anlamlar:
 - ► yaylım ateşi

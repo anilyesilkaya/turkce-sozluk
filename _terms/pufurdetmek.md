@@ -2,6 +2,7 @@
 layout: term
 title: püfürdetmek
 slug: pufurdetmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Dumanını havaya savurarak içmek

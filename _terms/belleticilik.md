@@ -2,6 +2,7 @@
 layout: term
 title: belleticilik
 slug: belleticilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belletici olma durumu

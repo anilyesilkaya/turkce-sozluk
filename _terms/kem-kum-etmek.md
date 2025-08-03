@@ -2,6 +2,7 @@
 layout: term
 title: kem küm etmek
 slug: kem-kum-etmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - verecek cevap bulamayıp açık bir anlamı olmayan sözler söylemek

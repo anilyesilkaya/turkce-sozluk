@@ -2,6 +2,7 @@
 layout: term
 title: belitken
 slug: belitken
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belitler sistemi

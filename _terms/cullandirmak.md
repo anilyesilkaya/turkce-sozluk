@@ -2,6 +2,7 @@
 layout: term
 title: çullandırmak
 slug: cullandirmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çullanmasına sebep olmak

@@ -2,6 +2,7 @@
 layout: term
 title: monden
 slug: monden
+letter: M
 lisan: Fransızca mondain
 anlamlar:
 - Toplum yaşamı ile ilgili

@@ -2,6 +2,7 @@
 layout: term
 title: göbek taşı
 slug: gobek-tasi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Hamamlarda, terlemek için üzerine uzanılan ve alttan ısıtılan geniş mermer seki

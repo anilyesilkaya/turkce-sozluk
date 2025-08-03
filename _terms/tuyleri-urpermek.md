@@ -2,6 +2,7 @@
 layout: term
 title: tüyleri ürpermek
 slug: tuyleri-urpermek
+letter: T
 lisan: Türkçe
 anlamlar:
 - tüyleri diken diken olmak

@@ -2,6 +2,7 @@
 layout: term
 title: onuncu
 slug: onuncu
+letter: O
 lisan: Türkçe
 anlamlar:
 - On sayısının sıra sıfatı, sırada dokuzuncudan sonra gelen

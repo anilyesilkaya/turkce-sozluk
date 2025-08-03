@@ -2,6 +2,7 @@
 layout: term
 title: gucurdamak
 slug: gucurdamak
+letter: G
 lisan: Türkçe
 anlamlar:
 - '"Gucur" diye kulak tırmalayıcı ve düzensiz ses çıkarmak'

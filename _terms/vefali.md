@@ -2,6 +2,7 @@
 layout: term
 title: vefalı
 slug: vefali
+letter: V
 lisan: Türkçe
 anlamlar:
 - ► vefakâr

@@ -2,6 +2,7 @@
 layout: term
 title: söze atılmak
 slug: soze-atilmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - bir konu konuşulurken birden araya girip konuşmaya başlamak

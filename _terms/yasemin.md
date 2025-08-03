@@ -2,6 +2,7 @@
 layout: term
 title: yasemin
 slug: yasemin
+letter: Y
 lisan: Farsça yāsemen
 anlamlar:
 - Zeytingillerden, beyaz, kırmızı veya sarı renkli güzel kokulu çiçekleri olan, 1-2 metre boyunda, süs bitkisi olarak yetiştirilen tırmanıcı bir ağaççık; Mısır yasemini (Jasminum)

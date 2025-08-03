@@ -2,6 +2,7 @@
 layout: term
 title: içreklik
 slug: icreklik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İçe ait bilginin belirli bir insan topluluğunun dışında kimseye bildirilmemesi, yalnızca sınırlı, dar bir çevreye aktarılması gerektiğini savunan anlayış; bâtınilik, ezoterizm

@@ -2,6 +2,7 @@
 layout: term
 title: yara almak
 slug: yara-almak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yaralanmak

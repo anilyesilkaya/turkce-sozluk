@@ -2,6 +2,7 @@
 layout: term
 title: bakar körlük
 slug: bakar-korluk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bakar kör olma durumu

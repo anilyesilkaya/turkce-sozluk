@@ -2,6 +2,7 @@
 layout: term
 title: çarçabuk
 slug: carcabuk
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çabucak

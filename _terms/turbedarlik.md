@@ -2,6 +2,7 @@
 layout: term
 title: türbedarlık
 slug: turbedarlik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Türbedarın yaptığı iş

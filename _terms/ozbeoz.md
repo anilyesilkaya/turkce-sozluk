@@ -2,6 +2,7 @@
 layout: term
 title: özbeöz
 slug: ozbeoz
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Gerçek ve öz olan

@@ -2,6 +2,7 @@
 layout: term
 title: saadethane
 slug: saadethane
+letter: S
 lisan: Arapça saʿādet + Farsça ḫāne
 anlamlar:
 - Yüksek rütbeli kimselerin evi

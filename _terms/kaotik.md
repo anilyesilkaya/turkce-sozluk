@@ -2,6 +2,7 @@
 layout: term
 title: kaotik
 slug: kaotik
+letter: K
 lisan: Fransızca chaotique
 anlamlar:
 - Kargaşa içinde olan

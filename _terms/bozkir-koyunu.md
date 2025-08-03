@@ -2,6 +2,7 @@
 layout: term
 title: bozkır koyunu
 slug: bozkir-koyunu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çift parmaklılar takımının boynuzlugiller familyasından, Tibet'ten Asya'ya yayılmış bir tür memeli; Asya koyunu (Ovis vignei)

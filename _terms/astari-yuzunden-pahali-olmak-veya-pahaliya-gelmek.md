@@ -2,6 +2,7 @@
 layout: term
 title: astarı yüzünden pahalı olmak (veya pahalıya gelmek)
 slug: astari-yuzunden-pahali-olmak-veya-pahaliya-gelmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir işin ayrıntılarına harcanılan para veya emek, elde edilen sonucun değerini aşmak

@@ -2,6 +2,7 @@
 layout: term
 title: felç olmak
 slug: felc-olmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - inme inmek

@@ -2,6 +2,7 @@
 layout: term
 title: süngülemek
 slug: sungulemek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Süngü batırmak

@@ -2,6 +2,7 @@
 layout: term
 title: devlet düşkünü
 slug: devlet-duskunu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bolluk ve mutluluk içindeyken sonradan fakir düşmüş (kimse)

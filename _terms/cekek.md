@@ -2,6 +2,7 @@
 layout: term
 title: çekek
 slug: cekek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Kayık, mavna ve küçük gemilerin karaya çekildikleri yer

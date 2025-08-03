@@ -2,6 +2,7 @@
 layout: term
 title: münakaşa
 slug: munakasa
+letter: M
 lisan: Arapça munāḳaşa
 anlamlar:
 - ► tartışma

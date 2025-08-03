@@ -2,6 +2,7 @@
 layout: term
 title: karşılıksız çek
 slug: karsiliksiz-cek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Ödenecek paranın bankadaki hesapta olmadığı çek

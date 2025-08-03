@@ -2,6 +2,7 @@
 layout: term
 title: sıyırga
 slug: siyirga
+letter: S
 lisan: Türkçe
 anlamlar:
 - Harmanda sap toplamaya veya damlardan karı küremeye yarayan araç

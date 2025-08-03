@@ -2,6 +2,7 @@
 layout: term
 title: mapushane
 slug: mapushane
+letter: M
 lisan: Arapça maḥbūs + Farsça ḫāne
 anlamlar:
 - ► cezaevi

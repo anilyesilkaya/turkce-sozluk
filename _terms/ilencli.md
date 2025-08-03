@@ -2,6 +2,7 @@
 layout: term
 title: ilençli
 slug: ilencli
+letter: I
 lisan: Türkçe
 anlamlar:
 - İçinde beddua barındıran

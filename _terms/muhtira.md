@@ -2,6 +2,7 @@
 layout: term
 title: muhtıra
 slug: muhtira
+letter: M
 lisan: Arapça muḫṭira
 anlamlar:
 - Herhangi bir şeyi hatırlatmak, uyarmak amacıyla yazılan yazı

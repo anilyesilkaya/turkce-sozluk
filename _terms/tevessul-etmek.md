@@ -2,6 +2,7 @@
 layout: term
 title: tevessül etmek
 slug: tevessul-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - elde etmek istenilene ulaşmak için birini ve bir şeyi aracı yapmak

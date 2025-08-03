@@ -2,6 +2,7 @@
 layout: term
 title: gözü (veya gözleri) kararmak
 slug: gozu-veya-gozleri-kararmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - başı dönmek, hafif baygınlık geçirmek

@@ -2,6 +2,7 @@
 layout: term
 title: açığa çıkmak
 slug: aciga-cikmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - belli olmak, anlaşılmak

@@ -2,6 +2,7 @@
 layout: term
 title: araka
 slug: araka
+letter: A
 lisan: Yunanca
 anlamlar:
 - İri taneli bezelye

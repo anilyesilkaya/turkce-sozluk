@@ -2,6 +2,7 @@
 layout: term
 title: doğrulama
 slug: dogrulama
+letter: D
 lisan: Türkçe
 anlamlar:
 - Doğrulamak işi; teyit, tasdik, konfirmasyon

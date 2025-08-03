@@ -2,6 +2,7 @@
 layout: term
 title: koçak
 slug: kocak
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► yürekli

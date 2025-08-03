@@ -2,6 +2,7 @@
 layout: term
 title: barut hakkı
 slug: barut-hakki
+letter: B
 lisan: Türkçe
 anlamlar:
 - Mermiyi istenilen uzaklığa atabilmek için gerekli barut gazı basıncını sağlamaya yetecek miktarda barut

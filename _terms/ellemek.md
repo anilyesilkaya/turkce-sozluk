@@ -2,6 +2,7 @@
 layout: term
 title: ellemek
 slug: ellemek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Elle dokunmak

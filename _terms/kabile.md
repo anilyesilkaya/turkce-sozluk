@@ -2,6 +2,7 @@
 layout: term
 title: kabile
 slug: kabile
+letter: K
 lisan: Arapça ḳabīle
 anlamlar:
 - ► boy (II)

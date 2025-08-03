@@ -2,6 +2,7 @@
 layout: term
 title: medlul
 slug: medlul
+letter: M
 lisan: Arapça medlūl
 anlamlar:
 - ► anlam

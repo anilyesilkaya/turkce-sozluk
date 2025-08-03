@@ -2,6 +2,7 @@
 layout: term
 title: asker
 slug: asker
+letter: A
 lisan: Arapça ʿasker
 anlamlar:
 - Orduda görev yapan erden generale kadar herkes; leşker

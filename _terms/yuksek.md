@@ -2,6 +2,7 @@
 layout: term
 title: yüksek
 slug: yuksek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Altı ile üstü arasındaki uzaklık çok olan, alçak karşıtı

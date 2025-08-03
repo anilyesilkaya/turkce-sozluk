@@ -2,6 +2,7 @@
 layout: term
 title: kapitone
 slug: kapitone
+letter: K
 lisan: Fransızca capitonné
 anlamlar:
 - İçi pamuk veya yün vatka ile doldurularak dikilmiş, döşemelik veya giyim eşyası yapımında kullanılan kumaş

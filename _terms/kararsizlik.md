@@ -2,6 +2,7 @@
 layout: term
 title: kararsızlık
 slug: kararsizlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kararsız olma durumu; ikircik, ikirciklik, ikirciklilik, ikircim, ikircimlik, tereddüt

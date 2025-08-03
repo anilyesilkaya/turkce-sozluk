@@ -2,6 +2,7 @@
 layout: term
 title: sanabilmek
 slug: sanabilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sanma ihtimali veya imkânı bulunmak

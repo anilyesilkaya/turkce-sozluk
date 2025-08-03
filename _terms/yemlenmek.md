@@ -2,6 +2,7 @@
 layout: term
 title: yemlenmek
 slug: yemlenmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yemleme işi yapılmak

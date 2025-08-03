@@ -2,6 +2,7 @@
 layout: term
 title: ahmak
 slug: ahmak
+letter: A
 lisan: Arapça aḥmaḳ
 anlamlar:
 - Aklını gereği gibi kullanamayan, anlama ve kavrama yetenekleri gelişmemiş (kimse)

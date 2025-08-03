@@ -2,6 +2,7 @@
 layout: term
 title: flört
 slug: flort
+letter: F
 lisan: Fransızca flirt
 anlamlar:
 - Kadınla erkek arasındaki duygusal ilişki

@@ -2,6 +2,7 @@
 layout: term
 title: usareli
 slug: usareli
+letter: U
 lisan: Türkçe
 anlamlar:
 - Usaresi olan, usaresi çıkarılan (bitki)

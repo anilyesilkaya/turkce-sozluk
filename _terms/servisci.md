@@ -2,6 +2,7 @@
 layout: term
 title: servisçi
 slug: servisci
+letter: S
 lisan: Türkçe
 anlamlar:
 - Servis arabasını kullanan kimse

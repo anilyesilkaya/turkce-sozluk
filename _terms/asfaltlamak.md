@@ -2,6 +2,7 @@
 layout: term
 title: asfaltlamak
 slug: asfaltlamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Asfaltla kaplamak

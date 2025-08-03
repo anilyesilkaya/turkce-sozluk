@@ -2,6 +2,7 @@
 layout: term
 title: haşlanmak
 slug: haslanmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Haşlama işi yapılmak

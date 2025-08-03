@@ -2,6 +2,7 @@
 layout: term
 title: tazekan
 slug: tazekan
+letter: T
 lisan: Türkçe
 anlamlar:
 - Kan ihtiyacı olan hastaya verilmek üzere bir başkasından yeni alınan kan

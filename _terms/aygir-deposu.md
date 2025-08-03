@@ -2,6 +2,7 @@
 layout: term
 title: aygır deposu
 slug: aygir-deposu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aygırların bakıldığı büyük ahır

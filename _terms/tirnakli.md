@@ -2,6 +2,7 @@
 layout: term
 title: tırnaklı
 slug: tirnakli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tırnağı olan

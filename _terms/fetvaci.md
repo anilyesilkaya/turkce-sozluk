@@ -2,6 +2,7 @@
 layout: term
 title: fetvacı
 slug: fetvaci
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fetva veren kimse

@@ -2,6 +2,7 @@
 layout: term
 title: çıkış noktası
 slug: cikis-noktasi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► başlangıç noktası

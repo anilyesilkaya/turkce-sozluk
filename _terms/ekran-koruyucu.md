@@ -2,6 +2,7 @@
 layout: term
 title: ekran koruyucu
 slug: ekran-koruyucu
+letter: E
 lisan: Türkçe
 anlamlar:
 - Bilgisayar, tablet ve akıllı telefonlarda herhangi bir işlem yapılmadığında ekranda beliren görüntü

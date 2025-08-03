@@ -2,6 +2,7 @@
 layout: term
 title: avantaj kullanmak
 slug: avantaj-kullanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - üstünlüğünü değerlendirmek

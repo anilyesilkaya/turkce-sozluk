@@ -2,6 +2,7 @@
 layout: term
 title: hoplaya zıplaya
 slug: hoplaya-ziplaya
+letter: H
 lisan: Türkçe
 anlamlar:
 - Büyük bir sevinç içinde

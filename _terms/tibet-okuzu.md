@@ -2,6 +2,7 @@
 layout: term
 title: Tibet öküzü
 slug: tibet-okuzu
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► yak

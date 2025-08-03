@@ -2,6 +2,7 @@
 layout: term
 title: ayyarlık
 slug: ayyarlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► dolandırıcılık

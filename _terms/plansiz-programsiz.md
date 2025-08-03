@@ -2,6 +2,7 @@
 layout: term
 title: plansız programsız
 slug: plansiz-programsiz
+letter: P
 lisan: Türkçe
 anlamlar:
 - Düzensiz, belli bir yönteme bağlı kalmayan

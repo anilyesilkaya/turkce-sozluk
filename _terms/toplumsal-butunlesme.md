@@ -2,6 +2,7 @@
 layout: term
 title: toplumsal bütünleşme
 slug: toplumsal-butunlesme
+letter: T
 lisan: Türkçe
 anlamlar:
 - Toplumda amaçların izlenmesinde beliren duygu ve davranışlardaki birlikteliğin geliştirilmesi

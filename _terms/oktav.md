@@ -2,6 +2,7 @@
 layout: term
 title: oktav
 slug: oktav
+letter: O
 lisan: Fransızca octave
 anlamlar:
 - Sekiz sesten oluşan ses dizisinde kalın do sesiyle ince do sesi arasındaki uzaklık

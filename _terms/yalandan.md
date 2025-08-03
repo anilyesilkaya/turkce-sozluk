@@ -2,6 +2,7 @@
 layout: term
 title: yalandan
 slug: yalandan
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Gerçek olmayarak, yapmacık bir biçimde, oyun olsun diye; yalancıktan, sureta

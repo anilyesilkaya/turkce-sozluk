@@ -2,6 +2,7 @@
 layout: term
 title: kolaycacık
 slug: kolaycacik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çok kolay

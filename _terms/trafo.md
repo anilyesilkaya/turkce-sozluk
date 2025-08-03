@@ -2,6 +2,7 @@
 layout: term
 title: trafo
 slug: trafo
+letter: T
 lisan: Almanca Trafo
 anlamlar:
 - ► dönüştürücü

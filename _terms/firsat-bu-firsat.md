@@ -2,6 +2,7 @@
 layout: term
 title: fırsat bu fırsat
 slug: firsat-bu-firsat
+letter: F
 lisan: Türkçe
 anlamlar:
 - '"yararlanılacak en uygun zaman" anlamında kullanılan bir söz'

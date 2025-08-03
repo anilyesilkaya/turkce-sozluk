@@ -2,6 +2,7 @@
 layout: term
 title: şapırtı
 slug: sapirti
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Öperken veya yemek yerken çıkan sesin adı

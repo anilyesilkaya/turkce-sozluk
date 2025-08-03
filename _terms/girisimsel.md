@@ -2,6 +2,7 @@
 layout: term
 title: girişimsel
 slug: girisimsel
+letter: G
 lisan: Türkçe
 anlamlar:
 - Girişimle ilgili

@@ -2,6 +2,7 @@
 layout: term
 title: kamyonet
 slug: kamyonet
+letter: K
 lisan: Fransızca camionette
 anlamlar:
 - Yük taşıyan küçük kamyon; pikap

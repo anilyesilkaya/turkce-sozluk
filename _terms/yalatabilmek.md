@@ -2,6 +2,7 @@
 layout: term
 title: yalatabilmek
 slug: yalatabilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yalatma ihtimali veya imkânı bulunmak

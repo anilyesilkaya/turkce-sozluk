@@ -2,6 +2,7 @@
 layout: term
 title: memurluk
 slug: memurluk
+letter: M
 lisan: Türkçe
 anlamlar:
 - Memur olma durumu; memuriyet

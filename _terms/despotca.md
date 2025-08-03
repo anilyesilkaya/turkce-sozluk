@@ -2,6 +2,7 @@
 layout: term
 title: despotça
 slug: despotca
+letter: D
 lisan: Türkçe
 anlamlar:
 - Despota yakışır; despotik

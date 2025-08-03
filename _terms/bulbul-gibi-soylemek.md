@@ -2,6 +2,7 @@
 layout: term
 title: bülbül gibi söylemek
 slug: bulbul-gibi-soylemek
+letter: B
 lisan: Türkçe
 anlamlar:
 - bildiklerini hiçbir şey saklamadan söylemek, itiraf etmek

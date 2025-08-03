@@ -2,6 +2,7 @@
 layout: term
 title: dirlik düzenlik
 slug: dirlik-duzenlik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Aile üyeleri veya bir arada çalışan kimseler arasında iyi geçinme durumu

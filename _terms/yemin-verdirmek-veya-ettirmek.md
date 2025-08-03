@@ -2,6 +2,7 @@
 layout: term
 title: yemin verdirmek (veya ettirmek)
 slug: yemin-verdirmek-veya-ettirmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ant içirmek

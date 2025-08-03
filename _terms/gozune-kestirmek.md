@@ -2,6 +2,7 @@
 layout: term
 title: gözüne kestirmek
 slug: gozune-kestirmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - başarabileceğini ummak

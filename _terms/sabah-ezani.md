@@ -2,6 +2,7 @@
 layout: term
 title: sabah ezanı
 slug: sabah-ezani
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sabah namazının vaktinin geldiğini bildirmek için okunan ezan; sabah

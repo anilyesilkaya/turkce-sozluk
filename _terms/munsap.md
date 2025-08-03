@@ -2,6 +2,7 @@
 layout: term
 title: munsap
 slug: munsap
+letter: M
 lisan: Arapça munṣabb
 anlamlar:
 - ► kavşak

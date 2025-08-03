@@ -2,6 +2,7 @@
 layout: term
 title: anlaşık
 slug: anlasik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aralarında anlaşma bulunan taraflardan, kimselerden biri

@@ -2,6 +2,7 @@
 layout: term
 title: bok böceği
 slug: bok-bocegi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kın kanatlılardan, genellikle otçul memeli hayvanların gübrelerinde yaşayan ve bokla beslenen böcek; pislik böceği (Geotrupes stercorarius)

@@ -2,6 +2,7 @@
 layout: term
 title: müsamahakârlık
 slug: musamahakarlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► hoşgörülülük

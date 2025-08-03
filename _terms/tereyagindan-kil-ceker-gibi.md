@@ -2,6 +2,7 @@
 layout: term
 title: tereyağından kıl çeker gibi
 slug: tereyagindan-kil-ceker-gibi
+letter: T
 lisan: Türkçe
 anlamlar:
 - her türlü mecburiyetten, mükellefiyetten ve sorumluluktan kolayca sıyrılarak

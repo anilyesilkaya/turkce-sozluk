@@ -2,6 +2,7 @@
 layout: term
 title: içini açmak
 slug: icini-acmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - derdini anlatmak, içini dökmek

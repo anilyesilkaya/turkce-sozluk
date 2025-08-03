@@ -2,6 +2,7 @@
 layout: term
 title: dinamik
 slug: dinamik
+letter: D
 lisan: Fransızca dynamique
 anlamlar:
 - ► canlı

@@ -2,6 +2,7 @@
 layout: term
 title: millî hüviyet
 slug: milli-huviyet
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► millî kimlik

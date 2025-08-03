@@ -2,6 +2,7 @@
 layout: term
 title: eksiltme
 slug: eksiltme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eksiltmek işi; münakasa, tenkis

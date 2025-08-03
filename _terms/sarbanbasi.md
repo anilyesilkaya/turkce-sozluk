@@ -2,6 +2,7 @@
 layout: term
 title: sarbanbaşı
 slug: sarbanbasi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Padişahların develerine bakan devecilerin başı

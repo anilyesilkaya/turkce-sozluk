@@ -2,6 +2,7 @@
 layout: term
 title: çeyizli
 slug: ceyizli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çeyizi olan

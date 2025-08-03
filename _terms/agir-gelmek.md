@@ -2,6 +2,7 @@
 layout: term
 title: ağır gelmek
 slug: agir-gelmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - gücüne gitmek, onuruna dokunmak

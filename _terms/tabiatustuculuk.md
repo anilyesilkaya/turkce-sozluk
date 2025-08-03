@@ -2,6 +2,7 @@
 layout: term
 title: tabiatüstücülük
 slug: tabiatustuculuk
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► doğaüstücülük

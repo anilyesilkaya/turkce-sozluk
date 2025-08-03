@@ -2,6 +2,7 @@
 layout: term
 title: jeopolitik
 slug: jeopolitik
+letter: J
 lisan: Fransızca géopolitique
 anlamlar:
 - Coğrafya, ekonomi, nüfus vb.nin bir devletin politikası üzerindeki etkisi

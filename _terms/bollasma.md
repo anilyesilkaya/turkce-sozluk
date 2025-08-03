@@ -2,6 +2,7 @@
 layout: term
 title: bollaşma
 slug: bollasma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bollaşmak işi veya durumu; bolalma

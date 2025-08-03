@@ -2,6 +2,7 @@
 layout: term
 title: bataryalı
 slug: bataryali
+letter: B
 lisan: Türkçe
 anlamlar:
 - Batarya ile güçlendirilmiş veya desteklenmiş

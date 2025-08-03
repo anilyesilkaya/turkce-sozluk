@@ -2,6 +2,7 @@
 layout: term
 title: zonal
 slug: zonal
+letter: Z
 lisan: İngilizce zonal
 anlamlar:
 - Yeryüzünde enleme bağlı olarak meydana gelen olay

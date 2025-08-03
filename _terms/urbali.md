@@ -2,6 +2,7 @@
 layout: term
 title: urbalı
 slug: urbali
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► giysili

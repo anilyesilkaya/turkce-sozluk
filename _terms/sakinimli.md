@@ -2,6 +2,7 @@
 layout: term
 title: sakınımlı
 slug: sakinimli
+letter: S
 lisan: Türkçe
 anlamlar:
 - İhtiyatlı, tedbirli

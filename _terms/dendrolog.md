@@ -2,6 +2,7 @@
 layout: term
 title: dendrolog
 slug: dendrolog
+letter: D
 lisan: Fransızca dendrologue
 anlamlar:
 - ► ağaç bilimci

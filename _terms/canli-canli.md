@@ -2,6 +2,7 @@
 layout: term
 title: canlı canlı
 slug: canli-canli
+letter: C
 lisan: Türkçe
 anlamlar:
 - Diri diri, henüz ölmemiş bir biçimde

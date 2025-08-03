@@ -2,6 +2,7 @@
 layout: term
 title: içten evlilik
 slug: icten-evlilik
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► iç evlilik

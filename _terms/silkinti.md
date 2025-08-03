@@ -2,6 +2,7 @@
 layout: term
 title: silkinti
 slug: silkinti
+letter: S
 lisan: Türkçe
 anlamlar:
 - Ürkerek sıçramak

@@ -2,6 +2,7 @@
 layout: term
 title: soğukça
 slug: sogukca
+letter: S
 lisan: Türkçe
 anlamlar:
 - Soğuğa yakın

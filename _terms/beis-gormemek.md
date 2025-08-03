@@ -2,6 +2,7 @@
 layout: term
 title: beis görmemek
 slug: beis-gormemek
+letter: B
 lisan: Türkçe
 anlamlar:
 - sakınca, zarar görmemek

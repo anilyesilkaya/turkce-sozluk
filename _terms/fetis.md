@@ -2,6 +2,7 @@
 layout: term
 title: fetiş
 slug: fetis
+letter: F
 lisan: Fransızca fétiche
 anlamlar:
 - ► put (I)

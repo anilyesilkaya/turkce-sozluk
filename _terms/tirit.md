@@ -2,6 +2,7 @@
 layout: term
 title: tirit
 slug: tirit
+letter: T
 lisan: Farsça terīd
 anlamlar:
 - Et suyuna kızartılmış veya bayat ekmek konularak yapılan yemek

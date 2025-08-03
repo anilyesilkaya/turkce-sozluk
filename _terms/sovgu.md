@@ -2,6 +2,7 @@
 layout: term
 title: sövgü
 slug: sovgu
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► küfür

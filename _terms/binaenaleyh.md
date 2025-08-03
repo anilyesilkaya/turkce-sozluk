@@ -2,6 +2,7 @@
 layout: term
 title: binaenaleyh
 slug: binaenaleyh
+letter: B
 lisan: Arapça bināʾen + ʿaleyh
 anlamlar:
 - ► bundan dolayı

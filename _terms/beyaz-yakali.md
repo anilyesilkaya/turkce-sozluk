@@ -2,6 +2,7 @@
 layout: term
 title: beyaz yakalı
 slug: beyaz-yakali
+letter: B
 lisan: Türkçe
 anlamlar:
 - Üretim sürecinde bedensel gücüyle çalışmayıp düşünsel etkinlikte bulunan, maaş veya ücret karşılığında çalışan memur, teknik personel

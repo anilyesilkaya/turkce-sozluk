@@ -2,6 +2,7 @@
 layout: term
 title: krema
 slug: krema
+letter: K
 lisan: İtalyanca crema
 anlamlar:
 - Bir tür yumurtalı süt tatlısı

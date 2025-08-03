@@ -2,6 +2,7 @@
 layout: term
 title: künk
 slug: kunk
+letter: K
 lisan: Farsça kunk
 anlamlar:
 - Pişmiş toprak veya betondan yapılmış kalın su borusu; büz, pöhrenk

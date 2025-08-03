@@ -2,6 +2,7 @@
 layout: term
 title: azimsiz
 slug: azimsiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Azmi olmayan

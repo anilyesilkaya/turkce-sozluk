@@ -2,6 +2,7 @@
 layout: term
 title: bürük
 slug: buruk
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► çarşaf

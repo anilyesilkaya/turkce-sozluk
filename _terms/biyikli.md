@@ -2,6 +2,7 @@
 layout: term
 title: bıyıklı
 slug: biyikli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bıyığı olan

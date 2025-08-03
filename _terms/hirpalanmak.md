@@ -2,6 +2,7 @@
 layout: term
 title: hırpalanmak
 slug: hirpalanmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hırpalama işine konu olmak veya hırpalama işi yapılmak

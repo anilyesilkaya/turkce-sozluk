@@ -2,6 +2,7 @@
 layout: term
 title: 'körlemesine '
 slug: korlemesine
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► körü körüne

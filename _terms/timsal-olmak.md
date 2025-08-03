@@ -2,6 +2,7 @@
 layout: term
 title: timsal olmak
 slug: timsal-olmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - simge durumuna gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: durdurabilmek
 slug: durdurabilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Durdurma ihtimali veya imkânı bulunmak

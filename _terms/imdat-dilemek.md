@@ -2,6 +2,7 @@
 layout: term
 title: imdat dilemek
 slug: imdat-dilemek
+letter: I
 lisan: Türkçe
 anlamlar:
 - yardım beklemek, medet ummak

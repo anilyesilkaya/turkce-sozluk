@@ -2,6 +2,7 @@
 layout: term
 title: adam başına
 slug: adam-basina
+letter: A
 lisan: Türkçe
 anlamlar:
 - Her bir bireye, her birine; kişi başına, adam başı

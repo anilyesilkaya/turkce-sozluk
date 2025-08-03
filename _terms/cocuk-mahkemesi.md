@@ -2,6 +2,7 @@
 layout: term
 title: çocuk mahkemesi
 slug: cocuk-mahkemesi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çocukların yargılanmasıyla, gerekli tedbir ve cezaları hükmetmekle görevli ihtisas mahkemesi

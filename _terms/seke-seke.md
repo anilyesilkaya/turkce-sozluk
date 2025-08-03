@@ -2,6 +2,7 @@
 layout: term
 title: seke seke
 slug: seke-seke
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sekerek

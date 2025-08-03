@@ -2,6 +2,7 @@
 layout: term
 title: rücu hakkı
 slug: rucu-hakki
+letter: R
 lisan: Türkçe
 anlamlar:
 - Bir kimsenin alacaklısına ödediği şeyi diğer birinden istemeye hakkı olması durumu

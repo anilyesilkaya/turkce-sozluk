@@ -2,6 +2,7 @@
 layout: term
 title: platonik aşk
 slug: platonik-ask
+letter: P
 lisan: Türkçe
 anlamlar:
 - Gerçekte var olmayan, karşılığı bulunmayan, hayalde yaşatılan aşk

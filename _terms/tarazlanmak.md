@@ -2,6 +2,7 @@
 layout: term
 title: tarazlanmak
 slug: tarazlanmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Kumaşın üzeri tel tel ipliklerle kaplanmak, iplikleri kabarmak

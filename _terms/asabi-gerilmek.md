@@ -2,6 +2,7 @@
 layout: term
 title: asabı gerilmek
 slug: asabi-gerilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - sinirleri bozulmak

@@ -2,6 +2,7 @@
 layout: term
 title: gurur
 slug: gurur
+letter: G
 lisan: Arapça ġurūr
 anlamlar:
 - Kendini beğenme; azamet

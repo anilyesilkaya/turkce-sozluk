@@ -2,6 +2,7 @@
 layout: term
 title: üst anlamlı
 slug: ust-anlamli
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üst anlamı olan

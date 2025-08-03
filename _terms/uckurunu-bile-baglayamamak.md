@@ -2,6 +2,7 @@
 layout: term
 title: uçkurunu (bile) bağlayamamak
 slug: uckurunu-bile-baglayamamak
+letter: U
 lisan: Türkçe
 anlamlar:
 - çok beceriksiz olmak

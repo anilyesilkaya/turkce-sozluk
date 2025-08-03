@@ -2,6 +2,7 @@
 layout: term
 title: renk gelmek
 slug: renk-gelmek
+letter: R
 lisan: Türkçe
 anlamlar:
 - renklenmek, canlanmak

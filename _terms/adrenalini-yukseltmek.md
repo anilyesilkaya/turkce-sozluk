@@ -2,6 +2,7 @@
 layout: term
 title: adrenalini yükseltmek
 slug: adrenalini-yukseltmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - korkusuzlaşmak

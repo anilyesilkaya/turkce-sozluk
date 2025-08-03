@@ -2,6 +2,7 @@
 layout: term
 title: çevikçe
 slug: cevikce
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çevik bir biçimde

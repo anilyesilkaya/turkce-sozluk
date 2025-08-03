@@ -2,6 +2,7 @@
 layout: term
 title: meşrubat
 slug: mesrubat
+letter: M
 lisan: Arapça meşrūbāt
 anlamlar:
 - Soğuk olarak tüketilen gazoz, maden suyu, meyve suyu vb. alkolsüz içecek

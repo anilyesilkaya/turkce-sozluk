@@ -2,6 +2,7 @@
 layout: term
 title: uyuşumlu
 slug: uyusumlu
+letter: U
 lisan: Türkçe
 anlamlar:
 - Aralarında uyuşum bulunan

@@ -2,6 +2,7 @@
 layout: term
 title: kifafınefis
 slug: kifafinefis
+letter: K
 lisan: Arapça kifāf + nefs
 anlamlar:
 - Yaşamaya yetecek kadar yeme

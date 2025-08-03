@@ -2,6 +2,7 @@
 layout: term
 title: yolgeçen hanı
 slug: yolgecen-hani
+letter: Y
 lisan: Türkçe
 anlamlar:
 - '"Girip çıkanı, geleni gideni çok ve belirsiz olan yer" anlamında kullanılan yolgeçen hanı gibi deyiminde geçer'

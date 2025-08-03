@@ -2,6 +2,7 @@
 layout: term
 title: erkekçe
 slug: erkekce
+letter: E
 lisan: Türkçe
 anlamlar:
 - Erkek gibi, erkeğe yakışır bir biçimde

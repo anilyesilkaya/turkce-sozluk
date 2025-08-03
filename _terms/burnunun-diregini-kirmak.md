@@ -2,6 +2,7 @@
 layout: term
 title: burnunun direğini kırmak
 slug: burnunun-diregini-kirmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - çok pis bir koku yayarak rahatsız etmek

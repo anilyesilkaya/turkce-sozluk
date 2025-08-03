@@ -2,6 +2,7 @@
 layout: term
 title: bakış atmak
 slug: bakis-atmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - kısa bir süre bakıp geçmek

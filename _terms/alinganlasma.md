@@ -2,6 +2,7 @@
 layout: term
 title: alınganlaşma
 slug: alinganlasma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alınganlaşmak durumu

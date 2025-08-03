@@ -2,6 +2,7 @@
 layout: term
 title: esas duruş
 slug: esas-durus
+letter: E
 lisan: Türkçe
 anlamlar:
 - Dimdik, kımıldamaksızın durma; esas vaziyet

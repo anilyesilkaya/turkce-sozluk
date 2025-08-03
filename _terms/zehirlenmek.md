@@ -2,6 +2,7 @@
 layout: term
 title: zehirlenmek
 slug: zehirlenmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zehirleme işi yapılmak veya zehirleme işine konu olmak; ağılanmak

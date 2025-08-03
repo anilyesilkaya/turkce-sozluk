@@ -2,6 +2,7 @@
 layout: term
 title: dünyasallık
 slug: dunyasallik
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► dünyevilik

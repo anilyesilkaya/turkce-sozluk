@@ -2,6 +2,7 @@
 layout: term
 title: Letonyalı
 slug: letonyali
+letter: L
 lisan: Türkçe
 anlamlar:
 - Letonya’da yaşayan halk veya bu halkın soyundan olan kimse

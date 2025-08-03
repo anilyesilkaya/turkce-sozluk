@@ -2,6 +2,7 @@
 layout: term
 title: adım adım
 slug: adim-adim
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► yavaş yavaş

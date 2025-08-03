@@ -2,6 +2,7 @@
 layout: term
 title: muganni
 slug: muganni
+letter: M
 lisan: Arapça muġannī
 anlamlar:
 - ► şarkıcı

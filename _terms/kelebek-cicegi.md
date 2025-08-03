@@ -2,6 +2,7 @@
 layout: term
 title: kelebek çiçeği
 slug: kelebek-cicegi
+letter: K
 lisan: Türkçe
 anlamlar:
 - İki çeneklilerden, aydınlık ortamlarda yetiştirilen çok renkli ve çok dallı bir süs bitkisi

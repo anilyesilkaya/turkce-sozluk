@@ -2,6 +2,7 @@
 layout: term
 title: çiçeklendirmek
 slug: ciceklendirmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çiçekli duruma getirmek

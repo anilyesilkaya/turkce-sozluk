@@ -2,6 +2,7 @@
 layout: term
 title: teşhis
 slug: teshis
+letter: T
 lisan: Arapça teşḫīṣ
 anlamlar:
 - Kim ve ne olduğunu anlama, tanıma, seçme

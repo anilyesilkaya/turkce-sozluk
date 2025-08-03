@@ -2,6 +2,7 @@
 layout: term
 title: orta yol
 slug: orta-yol
+letter: O
 lisan: Türkçe
 anlamlar:
 - Çözüme açık, herkes tarafından kabul edilebilir olan davranış ve tutum

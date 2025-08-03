@@ -2,6 +2,7 @@
 layout: term
 title: kundaklayış
 slug: kundaklayis
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kundaklamak işi

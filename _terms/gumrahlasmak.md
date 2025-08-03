@@ -2,6 +2,7 @@
 layout: term
 title: gümrahlaşmak
 slug: gumrahlasmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bitki aşırı derecede büyümek

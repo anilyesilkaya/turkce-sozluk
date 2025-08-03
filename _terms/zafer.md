@@ -2,6 +2,7 @@
 layout: term
 title: zafer
 slug: zafer
+letter: Z
 lisan: Arapça ẓafer
 anlamlar:
 - Savaşta kazanılan başarı; utku

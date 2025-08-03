@@ -2,6 +2,7 @@
 layout: term
 title: teselsül
 slug: teselsul
+letter: T
 lisan: Arapça teselsul
 anlamlar:
 - ► zincirleme

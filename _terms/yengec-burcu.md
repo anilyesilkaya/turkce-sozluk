@@ -2,6 +2,7 @@
 layout: term
 title: Yengeç Burcu
 slug: yengec-burcu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Zodyak üzerinde İkizler Burcu ile Aslan Burcu arasında bulunan takımyıldızın adı; Yengeç, Seretan

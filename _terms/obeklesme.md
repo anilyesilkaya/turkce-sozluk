@@ -2,6 +2,7 @@
 layout: term
 title: öbekleşme
 slug: obeklesme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öbekleşmek durumu

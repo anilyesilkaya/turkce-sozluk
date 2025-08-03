@@ -2,6 +2,7 @@
 layout: term
 title: zikzak yapmak
 slug: zikzak-yapmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - sık sık sağa sola yön değiştirmek

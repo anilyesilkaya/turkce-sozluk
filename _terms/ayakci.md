@@ -2,6 +2,7 @@
 layout: term
 title: ayakçı
 slug: ayakci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Getirgötür işlerinde kullanılan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: meşgul
 slug: mesgul
+letter: M
 lisan: Arapça meşġūl
 anlamlar:
 - Bir işle uğraşan, iş görmekte olan

@@ -2,6 +2,7 @@
 layout: term
 title: tiksinç
 slug: tiksinc
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► tiksindirici

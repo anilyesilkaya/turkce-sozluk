@@ -2,6 +2,7 @@
 layout: term
 title: sarınmak
 slug: sarinmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kendi üstüne sarmak

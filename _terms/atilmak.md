@@ -2,6 +2,7 @@
 layout: term
 title: atılmak
 slug: atilmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Atma işine konu olmak

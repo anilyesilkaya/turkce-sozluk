@@ -2,6 +2,7 @@
 layout: term
 title: tarumarlık
 slug: tarumarlik
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► darmadağınlık

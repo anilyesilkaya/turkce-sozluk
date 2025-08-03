@@ -2,6 +2,7 @@
 layout: term
 title: çarpıcı
 slug: carpici
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Etkili, dikkat çeken; sansasyonel

@@ -2,6 +2,7 @@
 layout: term
 title: yapışık
 slug: yapisik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir yere yapışmış olan

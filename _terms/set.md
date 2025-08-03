@@ -2,6 +2,7 @@
 layout: term
 title: şet
 slug: set
+letter: Ş
 lisan: Arapça şedd
 anlamlar:
 - Sıkarak bağlama, sıkma

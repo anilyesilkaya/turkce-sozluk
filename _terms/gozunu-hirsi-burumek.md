@@ -2,6 +2,7 @@
 layout: term
 title: gözünü ... hırsı bürümek
 slug: gozunu-hirsi-burumek
+letter: G
 lisan: Türkçe
 anlamlar:
 - bir şeyi aşırı ölçüde istemek

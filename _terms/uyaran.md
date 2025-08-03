@@ -2,6 +2,7 @@
 layout: term
 title: uyaran
 slug: uyaran
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyarma işini yapan (kimse veya şey)

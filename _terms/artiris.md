@@ -2,6 +2,7 @@
 layout: term
 title: artırış
 slug: artiris
+letter: A
 lisan: Türkçe
 anlamlar:
 - Artırmak işi

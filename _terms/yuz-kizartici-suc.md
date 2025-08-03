@@ -2,6 +2,7 @@
 layout: term
 title: yüz kızartıcı suç
 slug: yuz-kizartici-suc
+letter: Y
 lisan: Türkçe
 anlamlar:
 - İnsanlık onuruna yakışmayan suç

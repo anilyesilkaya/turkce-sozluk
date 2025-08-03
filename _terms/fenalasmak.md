@@ -2,6 +2,7 @@
 layout: term
 title: fenalaşmak
 slug: fenalasmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - Kötü bir duruma girmek

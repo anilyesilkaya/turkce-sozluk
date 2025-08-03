@@ -2,6 +2,7 @@
 layout: term
 title: diktatörce
 slug: diktatorce
+letter: D
 lisan: Türkçe
 anlamlar:
 - Diktatöre yakışır

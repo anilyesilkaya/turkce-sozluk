@@ -2,6 +2,7 @@
 layout: term
 title: mutsuz
 slug: mutsuz
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mutlu olmayan; bedbaht, saadetsiz

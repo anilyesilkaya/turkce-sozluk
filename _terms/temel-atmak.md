@@ -2,6 +2,7 @@
 layout: term
 title: temel atmak
 slug: temel-atmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - bir yapının temellerini yapmaya başlamak

@@ -2,6 +2,7 @@
 layout: term
 title: susuverme
 slug: susuverme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Susuvermek işi

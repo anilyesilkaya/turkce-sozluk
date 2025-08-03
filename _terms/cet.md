@@ -2,6 +2,7 @@
 layout: term
 title: cet
 slug: cet
+letter: C
 lisan: Arapça cedd
 anlamlar:
 - ► ata

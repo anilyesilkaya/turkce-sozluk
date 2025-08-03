@@ -2,6 +2,7 @@
 layout: term
 title: arter
 slug: arter
+letter: A
 lisan: Fransızca artère
 anlamlar:
 - ► atardamar

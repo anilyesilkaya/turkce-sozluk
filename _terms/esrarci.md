@@ -2,6 +2,7 @@
 layout: term
 title: esrarcı
 slug: esrarci
+letter: E
 lisan: Türkçe
 anlamlar:
 - Esrar yapan, satan veya esrar çeken kimse

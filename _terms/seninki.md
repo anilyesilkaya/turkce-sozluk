@@ -2,6 +2,7 @@
 layout: term
 title: seninki
 slug: seninki
+letter: S
 lisan: Türkçe
 anlamlar:
 - Senin olan, seninle ilgili olan

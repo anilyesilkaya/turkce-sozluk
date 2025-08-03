@@ -2,6 +2,7 @@
 layout: term
 title: kundakçı
 slug: kundakci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yangın çıkarmak için kundak koyan kimse

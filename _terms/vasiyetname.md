@@ -2,6 +2,7 @@
 layout: term
 title: vasiyetname
 slug: vasiyetname
+letter: V
 lisan: Arapça vaṣiyyet + Farsça nāme
 anlamlar:
 - Bir kimsenin vasiyetini yazmış olduğu belge; vasiyet

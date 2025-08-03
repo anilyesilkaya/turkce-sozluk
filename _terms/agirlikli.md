@@ -2,6 +2,7 @@
 layout: term
 title: ağırlıklı
 slug: agirlikli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağırlığı olan

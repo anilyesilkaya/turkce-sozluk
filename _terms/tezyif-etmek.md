@@ -2,6 +2,7 @@
 layout: term
 title: tezyif etmek
 slug: tezyif-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - aşağılamak

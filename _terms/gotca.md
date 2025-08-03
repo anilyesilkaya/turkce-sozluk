@@ -2,6 +2,7 @@
 layout: term
 title: Gotça
 slug: gotca
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gotların dili; Gotik

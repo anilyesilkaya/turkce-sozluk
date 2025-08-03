@@ -2,6 +2,7 @@
 layout: term
 title: hesaplayış
 slug: hesaplayis
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hesaplamak işi

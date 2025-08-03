@@ -2,6 +2,7 @@
 layout: term
 title: çıkış belgesi
 slug: cikis-belgesi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir kimsenin bir okulu bitirdiğini göstermek için geçici olarak verilen belge; çıkış

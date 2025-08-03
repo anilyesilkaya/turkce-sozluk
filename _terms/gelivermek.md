@@ -2,6 +2,7 @@
 layout: term
 title: gelivermek
 slug: gelivermek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Ansızın, çabucak veya kısa sürede gelmek

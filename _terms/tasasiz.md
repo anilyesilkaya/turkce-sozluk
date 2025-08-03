@@ -2,6 +2,7 @@
 layout: term
 title: tasasız
 slug: tasasiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► kaygısız

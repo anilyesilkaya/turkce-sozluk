@@ -2,6 +2,7 @@
 layout: term
 title: sözlendirici
 slug: sozlendirici
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► seslendirici

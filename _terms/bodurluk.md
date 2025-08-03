@@ -2,6 +2,7 @@
 layout: term
 title: bodurluk
 slug: bodurluk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bodur olma durumu

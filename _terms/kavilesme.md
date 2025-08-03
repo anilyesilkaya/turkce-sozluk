@@ -2,6 +2,7 @@
 layout: term
 title: kavileşme
 slug: kavilesme
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► sağlamlaşma

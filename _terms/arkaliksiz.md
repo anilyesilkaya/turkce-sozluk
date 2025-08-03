@@ -2,6 +2,7 @@
 layout: term
 title: arkalıksız
 slug: arkaliksiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arkalığı, sırt dayayacak yeri olmayan

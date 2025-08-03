@@ -2,6 +2,7 @@
 layout: term
 title: pürtelaş
 slug: purtelas
+letter: P
 lisan: Farsça pur + Arapça telāş
 anlamlar:
 - ► telaşlı

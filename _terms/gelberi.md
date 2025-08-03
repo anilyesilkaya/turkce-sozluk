@@ -2,6 +2,7 @@
 layout: term
 title: gelberi
 slug: gelberi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Büyük ocaklardan ateşi dışarı çekmek için kullanılan uzun saplı demir araç

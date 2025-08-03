@@ -2,6 +2,7 @@
 layout: term
 title: ayarlayabilmek
 slug: ayarlayabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayarlama ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: kafası dumanlı
 slug: kafasi-dumanli
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► sarhoş

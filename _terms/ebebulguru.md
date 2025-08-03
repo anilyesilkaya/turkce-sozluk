@@ -2,6 +2,7 @@
 layout: term
 title: ebebulguru
 slug: ebebulguru
+letter: E
 lisan: Türkçe
 anlamlar:
 - Bulgur iriliğinde yağan kar; bulgur

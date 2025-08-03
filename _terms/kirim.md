@@ -2,6 +2,7 @@
 layout: term
 title: kırım
 slug: kirim
+letter: K
 lisan: Türkçe
 anlamlar:
 - Savunmasız insanların veya tutsakların toplu olarak öldürülmesi; katliam

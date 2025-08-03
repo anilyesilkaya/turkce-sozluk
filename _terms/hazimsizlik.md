@@ -2,6 +2,7 @@
 layout: term
 title: hazımsızlık
 slug: hazimsizlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Sindirim sisteminin iyi çalışmaması durumu

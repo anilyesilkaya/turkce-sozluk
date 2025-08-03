@@ -2,6 +2,7 @@
 layout: term
 title: söylem
 slug: soylem
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir düşünceyi ortaya koymaktaki yaklaşım tarzı

@@ -2,6 +2,7 @@
 layout: term
 title: korporatif
 slug: korporatif
+letter: K
 lisan: Fransızca corporatif
 anlamlar:
 - Korporasyonla ilgili

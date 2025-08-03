@@ -2,6 +2,7 @@
 layout: term
 title: epeyi
 slug: epeyi
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► epey

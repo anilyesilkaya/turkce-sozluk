@@ -2,6 +2,7 @@
 layout: term
 title: bulut olmak
 slug: bulut-olmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - çok sarhoş olmak

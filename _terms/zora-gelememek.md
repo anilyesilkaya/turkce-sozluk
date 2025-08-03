@@ -2,6 +2,7 @@
 layout: term
 title: zora gelememek
 slug: zora-gelememek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - baskıya, sıkıntıya veya sıkı bir çalışmaya dayanamamak, katlanamamak

@@ -2,6 +2,7 @@
 layout: term
 title: haylazlık
 slug: haylazlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Haylaz olma durumu

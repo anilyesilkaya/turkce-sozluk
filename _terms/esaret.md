@@ -2,6 +2,7 @@
 layout: term
 title: esaret
 slug: esaret
+letter: E
 lisan: Arapça esāret
 anlamlar:
 - ► tutsaklık

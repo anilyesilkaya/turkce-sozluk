@@ -2,6 +2,7 @@
 layout: term
 title: ustalık
 slug: ustalik
+letter: U
 lisan: Türkçe
 anlamlar:
 - Usta olma durumu

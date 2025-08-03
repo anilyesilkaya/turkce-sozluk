@@ -2,6 +2,7 @@
 layout: term
 title: vicdansızca
 slug: vicdansizca
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vicdansıza yakışan

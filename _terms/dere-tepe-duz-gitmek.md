@@ -2,6 +2,7 @@
 layout: term
 title: dere tepe düz gitmek
 slug: dere-tepe-duz-gitmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - engelleri aşarak gitmek

@@ -2,6 +2,7 @@
 layout: term
 title: diplomatlık
 slug: diplomatlik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Diplomat olma durumu

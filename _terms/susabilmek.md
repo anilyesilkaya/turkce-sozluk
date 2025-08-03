@@ -2,6 +2,7 @@
 layout: term
 title: susabilmek
 slug: susabilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Susma ihtimali veya imkânı bulunmak

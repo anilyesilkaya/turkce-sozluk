@@ -2,6 +2,7 @@
 layout: term
 title: gevşekleşmek
 slug: gevseklesmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gevşek duruma gelmek

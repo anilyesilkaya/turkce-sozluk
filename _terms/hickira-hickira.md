@@ -2,6 +2,7 @@
 layout: term
 title: hıçkıra hıçkıra
 slug: hickira-hickira
+letter: H
 lisan: Türkçe
 anlamlar:
 - Sürekli boğazdan hıçkırık sesi çıkararak (ağlamak)

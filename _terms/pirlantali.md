@@ -2,6 +2,7 @@
 layout: term
 title: pırlantalı
 slug: pirlantali
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pırlantası olan

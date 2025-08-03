@@ -2,6 +2,7 @@
 layout: term
 title: aykırı
 slug: aykiri
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alışılmışa, doğru olarak kabul edilmişe uygun olmayan; hilaf, mugayir, muhalif

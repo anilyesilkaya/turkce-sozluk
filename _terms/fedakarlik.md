@@ -2,6 +2,7 @@
 layout: term
 title: fedakârlık
 slug: fedakarlik
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► özveri

@@ -2,6 +2,7 @@
 layout: term
 title: siyer
 slug: siyer
+letter: S
 lisan: Arapça siyer
 anlamlar:
 - Hz. Muhammed’in hayatını inceleyen bilim

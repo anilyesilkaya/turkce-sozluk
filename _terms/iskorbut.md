@@ -2,6 +2,7 @@
 layout: term
 title: iskorbüt
 slug: iskorbut
+letter: I
 lisan: Fransızca scorbut
 anlamlar:
 - C vitamini eksikliğinden ileri gelen ve dermansızlık, zayıflık, diş etlerinin iltihabı vb. belirtilerle kendini gösteren hastalık

@@ -2,6 +2,7 @@
 layout: term
 title: imzalanmak
 slug: imzalanmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - İmzalama işi yapılmak

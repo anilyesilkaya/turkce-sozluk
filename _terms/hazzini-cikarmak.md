@@ -2,6 +2,7 @@
 layout: term
 title: hazzını çıkarmak
 slug: hazzini-cikarmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - zevkini çıkarmak

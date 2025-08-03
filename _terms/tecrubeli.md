@@ -2,6 +2,7 @@
 layout: term
 title: tecrübeli
 slug: tecrubeli
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► deneyimli

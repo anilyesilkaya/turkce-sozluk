@@ -2,6 +2,7 @@
 layout: term
 title: zekâ yaşı
 slug: zeka-yasi
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Bir zekâ testinden elde edilen puanın, o zekâ testinin ortalamasına göre gösterdiği yer

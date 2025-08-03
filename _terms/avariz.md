@@ -2,6 +2,7 @@
 layout: term
 title: avarız
 slug: avariz
+letter: A
 lisan: Arapça ʿavāriż
 anlamlar:
 - Deprem, sel, yangın vb. doğal afetler

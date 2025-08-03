@@ -2,6 +2,7 @@
 layout: term
 title: kanık
 slug: kanik
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kanaatkâr

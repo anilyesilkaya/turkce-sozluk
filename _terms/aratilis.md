@@ -2,6 +2,7 @@
 layout: term
 title: aratılış
 slug: aratilis
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aratılmak işi

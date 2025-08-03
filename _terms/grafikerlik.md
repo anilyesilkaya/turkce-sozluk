@@ -2,6 +2,7 @@
 layout: term
 title: grafikerlik
 slug: grafikerlik
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► grafik tasarımcılığı

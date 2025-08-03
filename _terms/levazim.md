@@ -2,6 +2,7 @@
 layout: term
 title: levazım
 slug: levazim
+letter: L
 lisan: Arapça levāzim
 anlamlar:
 - Değişik iş kollarında gerekli olan şeyler, araç ve gereçler

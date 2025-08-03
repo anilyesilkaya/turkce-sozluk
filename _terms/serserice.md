@@ -2,6 +2,7 @@
 layout: term
 title: serserice
 slug: serserice
+letter: S
 lisan: Türkçe
 anlamlar:
 - Serseri gibi

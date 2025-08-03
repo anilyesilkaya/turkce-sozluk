@@ -2,6 +2,7 @@
 layout: term
 title: yıldız barışıklığı
 slug: yildiz-barisikligi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Karşılıklı iyi geçinme, hoş geçinme

@@ -2,6 +2,7 @@
 layout: term
 title: umre
 slug: umre
+letter: U
 lisan: Arapça ʿumre
 anlamlar:
 - Hac dönemi dışında Kâbe’yi ve Mekke’nin diğer kutsal yerlerini ziyaret etme

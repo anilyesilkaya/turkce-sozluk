@@ -2,6 +2,7 @@
 layout: term
 title: nabekâr
 slug: nabekar
+letter: N
 lisan: Farsça nā + Arapça bekār
 anlamlar:
 - Yararsız, işe yaramaz

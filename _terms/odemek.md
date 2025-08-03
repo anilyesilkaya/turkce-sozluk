@@ -2,6 +2,7 @@
 layout: term
 title: ödemek
 slug: odemek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Bir alışveriş ilişkisinde, borcu alacaklıya vermek; tediye etmek

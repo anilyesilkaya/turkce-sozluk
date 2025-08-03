@@ -2,6 +2,7 @@
 layout: term
 title: manolyagiller
 slug: manolyagiller
+letter: M
 lisan: Türkçe
 anlamlar:
 - Ayrı taç yapraklı iki çeneklilerden, manolya vb. güzel kokulu bitkileri içine alan familya

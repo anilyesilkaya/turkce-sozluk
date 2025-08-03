@@ -2,6 +2,7 @@
 layout: term
 title: baypas
 slug: baypas
+letter: B
 lisan: İngilizce by-pass
 anlamlar:
 - ► köprüleme

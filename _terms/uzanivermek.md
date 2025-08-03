@@ -2,6 +2,7 @@
 layout: term
 title: uzanıvermek
 slug: uzanivermek
+letter: U
 lisan: Türkçe
 anlamlar:
 - Çabucak uzanmak

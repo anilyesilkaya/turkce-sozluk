@@ -2,6 +2,7 @@
 layout: term
 title: arz etmek
 slug: arz-etmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - sunmak

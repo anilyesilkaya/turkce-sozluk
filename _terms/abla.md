@@ -2,6 +2,7 @@
 layout: term
 title: abla
 slug: abla
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir kimsenin kendisinden büyük olan kız kardeşi; aba, bacı

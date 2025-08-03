@@ -2,6 +2,7 @@
 layout: term
 title: dalan
 slug: dalan
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► lobi

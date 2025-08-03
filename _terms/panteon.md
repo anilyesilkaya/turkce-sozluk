@@ -2,6 +2,7 @@
 layout: term
 title: panteon
 slug: panteon
+letter: P
 lisan: Fransızca panthéon
 anlamlar:
 - Yunan ve Romalıların en büyük tapınaklarına verdikleri ad

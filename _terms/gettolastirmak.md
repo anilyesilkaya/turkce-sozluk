@@ -2,6 +2,7 @@
 layout: term
 title: gettolaştırmak
 slug: gettolastirmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - Belirli bir bölgeyi getto durumuna getirmek

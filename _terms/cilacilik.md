@@ -2,6 +2,7 @@
 layout: term
 title: cilacılık
 slug: cilacilik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cilacının yaptığı iş

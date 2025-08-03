@@ -2,6 +2,7 @@
 layout: term
 title: canice
 slug: canice
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cani gibi, caniye yakışır bir biçimde; canicesine, caniyane

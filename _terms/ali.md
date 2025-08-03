@@ -2,6 +2,7 @@
 layout: term
 title: ali
 slug: ali
+letter: A
 lisan: Arapça ʿālī
 anlamlar:
 - ► yüce

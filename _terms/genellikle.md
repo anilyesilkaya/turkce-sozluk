@@ -2,6 +2,7 @@
 layout: term
 title: genellikle
 slug: genellikle
+letter: G
 lisan: Türkçe
 anlamlar:
 - Genel olarak; çoğu kez, çoğun, çoğunlukla, çoklukla, ekseri, ekseriya, ekseriyetle, umumiyetle, alelıtlak, alelumum

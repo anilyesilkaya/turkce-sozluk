@@ -2,6 +2,7 @@
 layout: term
 title: nezih
 slug: nezih
+letter: N
 lisan: Arapça nezīh
 anlamlar:
 - Kötülüklerden uzak, temiz, şık (yer, ortam)

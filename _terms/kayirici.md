@@ -2,6 +2,7 @@
 layout: term
 title: kayırıcı
 slug: kayirici
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir kimseyi kayıran, ona arka çıkan kimse; dayı, iltimasçı, piston, torpil

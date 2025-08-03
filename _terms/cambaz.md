@@ -2,6 +2,7 @@
 layout: term
 title: cambaz
 slug: cambaz
+letter: C
 lisan: Farsça cānbāz
 anlamlar:
 - Yerde ve tel, at, bisiklet, ip, at vb. üzerinde dengeye dayanan, tehlikeli, heyecan verici gösteriler yapan kimse; akrobat

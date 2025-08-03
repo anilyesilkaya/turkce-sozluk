@@ -2,6 +2,7 @@
 layout: term
 title: kırpılmak
 slug: kirpilmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kırpma işi yapılmak

@@ -2,6 +2,7 @@
 layout: term
 title: etken
 slug: etken
+letter: E
 lisan: Türkçe
 anlamlar:
 - Etki eden şey; amil, faktör

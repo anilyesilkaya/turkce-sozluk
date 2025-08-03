@@ -2,6 +2,7 @@
 layout: term
 title: mukaar
 slug: mukaar
+letter: M
 lisan: Arapça muḳaʿʿar
 anlamlar:
 - ► içbükey

@@ -2,6 +2,7 @@
 layout: term
 title: pelte
 slug: pelte
+letter: P
 lisan: Farsça pālūde
 anlamlar:
 - Nişasta, şeker ve su karışımının pişirilerek soğutulmasıyla yapılan bir tatlı türü; paluze

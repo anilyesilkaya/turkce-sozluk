@@ -2,6 +2,7 @@
 layout: term
 title: yâr olmak
 slug: yar-olmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yardım etmek, yararlı olmak

@@ -2,6 +2,7 @@
 layout: term
 title: tıpkı
 slug: tipki
+letter: T
 lisan: Arapça ṭıbḳ + Türkçe -ı
 anlamlar:
 - ► aynı

@@ -2,6 +2,7 @@
 layout: term
 title: munzam
 slug: munzam
+letter: M
 lisan: Arapça munżamm
 anlamlar:
 - Katılmış, ulanmış, eklenmiş

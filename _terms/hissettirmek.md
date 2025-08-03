@@ -2,6 +2,7 @@
 layout: term
 title: hissettirmek
 slug: hissettirmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hissetmesine sebep olmak, duyurmak; sezdirmek

@@ -2,6 +2,7 @@
 layout: term
 title: arkadaşsız
 slug: arkadassiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arkadaşı olmayan

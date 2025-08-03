@@ -2,6 +2,7 @@
 layout: term
 title: koç
 slug: koc
+letter: K
 lisan: İngilizce coach
 anlamlar:
 - ► çalıştırıcı

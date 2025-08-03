@@ -2,6 +2,7 @@
 layout: term
 title: kenet
 slug: kenet
+letter: K
 lisan: Türkçe
 anlamlar:
 - İki sert cismi birbirine bağlamaya yarayan, iki ucu sivri ve kıvrık metal parça

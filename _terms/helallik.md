@@ -2,6 +2,7 @@
 layout: term
 title: helallik
 slug: helallik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Nikâhlı eş

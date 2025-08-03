@@ -2,6 +2,7 @@
 layout: term
 title: balçık
 slug: balcik
+letter: B
 lisan: Türkçe
 anlamlar:
 - İçinde çeşitli organik maddeler bulunan, genellikle killi, koyu, yapışkan çamur; mil (I)

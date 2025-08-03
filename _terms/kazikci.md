@@ -2,6 +2,7 @@
 layout: term
 title: kazıkçı
 slug: kazikci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Alışverişte aldatan, pahalı mal satan kimse

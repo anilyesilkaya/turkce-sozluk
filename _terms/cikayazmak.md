@@ -2,6 +2,7 @@
 layout: term
 title: çıkayazmak
 slug: cikayazmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıkacak gibi olmak

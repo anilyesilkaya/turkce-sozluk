@@ -2,6 +2,7 @@
 layout: term
 title: köstebek
 slug: kostebek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Köstebekgillerden, toprak altında oyduğu yuvalarda yaşayan, gözleri hemen hiç görmeyen, küçük bir hayvan; sokur, yer sıçanı, kör sıçan (Talpa)

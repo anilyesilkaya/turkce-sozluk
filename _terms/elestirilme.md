@@ -2,6 +2,7 @@
 layout: term
 title: eleştirilme
 slug: elestirilme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eleştirilmek işi

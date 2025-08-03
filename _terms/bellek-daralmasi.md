@@ -2,6 +2,7 @@
 layout: term
 title: bellek daralması
 slug: bellek-daralmasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belleğin çevreyi tam ve iyi olarak algılamak için gerekli bilgileri yeterince anımsayamaması

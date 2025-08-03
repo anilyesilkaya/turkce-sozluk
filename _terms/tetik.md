@@ -2,6 +2,7 @@
 layout: term
 title: tetik
 slug: tetik
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► çevik

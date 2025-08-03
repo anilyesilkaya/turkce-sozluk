@@ -2,6 +2,7 @@
 layout: term
 title: saat gibi
 slug: saat-gibi
+letter: S
 lisan: Türkçe
 anlamlar:
 - tam bir düzgünlükte, tıkır tıkır

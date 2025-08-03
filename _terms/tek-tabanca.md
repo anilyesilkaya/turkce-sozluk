@@ -2,6 +2,7 @@
 layout: term
 title: tek tabanca
 slug: tek-tabanca
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tek başına hareket eden kimse

@@ -2,6 +2,7 @@
 layout: term
 title: ağaççılık
 slug: agaccilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağaç yetiştirme işi

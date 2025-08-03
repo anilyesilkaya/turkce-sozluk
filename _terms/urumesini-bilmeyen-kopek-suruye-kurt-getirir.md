@@ -2,6 +2,7 @@
 layout: term
 title: ürümesini bilmeyen köpek sürüye kurt getirir
 slug: urumesini-bilmeyen-kopek-suruye-kurt-getirir
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - beceriksiz kimselerin iyilik yapayım derken zarara yol açtıklarını anlatan bir söz

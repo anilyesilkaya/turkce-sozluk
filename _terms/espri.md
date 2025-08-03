@@ -2,6 +2,7 @@
 layout: term
 title: espri
 slug: espri
+letter: E
 lisan: Fransızca esprit
 anlamlar:
 - İnce anlamlı, düşündürürken güldüren söz

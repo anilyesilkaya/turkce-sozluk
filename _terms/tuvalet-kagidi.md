@@ -2,6 +2,7 @@
 layout: term
 title: tuvalet kâğıdı
 slug: tuvalet-kagidi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tuvalette temizlenmek için kullanılan, özel olarak hazırlanmış ince kâğıt

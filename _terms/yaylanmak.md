@@ -2,6 +2,7 @@
 layout: term
 title: yaylanmak
 slug: yaylanmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaylar üzerinde hareket etmek

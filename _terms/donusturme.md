@@ -2,6 +2,7 @@
 layout: term
 title: dönüştürme
 slug: donusturme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dönüştürmek işi; tahvil

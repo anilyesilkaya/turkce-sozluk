@@ -2,6 +2,7 @@
 layout: term
 title: çömelme
 slug: comelme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çömelmek işi; çömme

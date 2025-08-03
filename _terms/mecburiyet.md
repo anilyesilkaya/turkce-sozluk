@@ -2,6 +2,7 @@
 layout: term
 title: mecburiyet
 slug: mecburiyet
+letter: M
 lisan: Arapça mecbūriyyet
 anlamlar:
 - ► zorunluluk

@@ -2,6 +2,7 @@
 layout: term
 title: esaslılık
 slug: esaslilik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Esaslı olma durumu

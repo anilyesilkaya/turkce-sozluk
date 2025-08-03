@@ -2,6 +2,7 @@
 layout: term
 title: düzeltmek
 slug: duzeltmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düzgün duruma getirmek

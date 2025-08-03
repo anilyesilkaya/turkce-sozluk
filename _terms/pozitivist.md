@@ -2,6 +2,7 @@
 layout: term
 title: pozitivist
 slug: pozitivist
+letter: P
 lisan: Fransızca pozitiviste
 anlamlar:
 - ► olgucu

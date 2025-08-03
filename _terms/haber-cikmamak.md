@@ -2,6 +2,7 @@
 layout: term
 title: haber çıkmamak
 slug: haber-cikmamak
+letter: H
 lisan: Türkçe
 anlamlar:
 - biri veya bir şey için beklenen bilgi gelmemek

@@ -2,6 +2,7 @@
 layout: term
 title: çorap kaçmak
 slug: corap-kacmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - çorabın bir teli kopup örgüsü uzunlamasına açılmak

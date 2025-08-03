@@ -2,6 +2,7 @@
 layout: term
 title: kavruk
 slug: kavruk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kavrulmuş olan

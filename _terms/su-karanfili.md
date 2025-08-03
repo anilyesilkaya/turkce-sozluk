@@ -2,6 +2,7 @@
 layout: term
 title: su karanfili
 slug: su-karanfili
+letter: S
 lisan: Türkçe
 anlamlar:
 - Ormanlarda, akarsu ve göl kenarlarında yetişen, sarı çiçekli, karanfil kokulu, çok yıllık ve otsu bir bitki (Geum urbanum)

@@ -2,6 +2,7 @@
 layout: term
 title: sopa
 slug: sopa
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kalın değnek

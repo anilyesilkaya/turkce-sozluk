@@ -2,6 +2,7 @@
 layout: term
 title: salma gezmek (veya dolaşmak)
 slug: salma-gezmek-veya-dolasmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - başıboş hayvan gibi dolaşmak

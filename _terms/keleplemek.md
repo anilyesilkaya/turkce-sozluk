@@ -2,6 +2,7 @@
 layout: term
 title: keleplemek
 slug: keleplemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - İpi çile yapmak

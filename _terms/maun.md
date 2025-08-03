@@ -2,6 +2,7 @@
 layout: term
 title: maun
 slug: maun
+letter: M
 lisan: (Amerika yerlilerinin dillerinden)
 anlamlar:
 - Tespih ağacıgillerden, Hindistan ve Honduras'ta yetişen büyük bir orman ağacı; akaju (Swietenia mahagoni)

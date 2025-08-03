@@ -2,6 +2,7 @@
 layout: term
 title: nafile
 slug: nafile
+letter: N
 lisan: Arapça nāfile
 anlamlar:
 - ► yararsız

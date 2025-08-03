@@ -2,6 +2,7 @@
 layout: term
 title: Çingenece
 slug: cingenece
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çingenelerin kullandığı dil

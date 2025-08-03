@@ -2,6 +2,7 @@
 layout: term
 title: fink
 slug: fink
+letter: F
 lisan: Türkçe
 anlamlar:
 - '"Hiçbir şeye aldırmadan gönlünce gezip eğlenmek" anlamına gelen fink atmak deyiminde geçen bir söz'

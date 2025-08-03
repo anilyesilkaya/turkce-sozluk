@@ -2,6 +2,7 @@
 layout: term
 title: karga tulumba etmek
 slug: karga-tulumba-etmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - birkaç kişi, birini kollarından bacaklarından tutup kaldırmak

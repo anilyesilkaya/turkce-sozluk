@@ -2,6 +2,7 @@
 layout: term
 title: güçlendirmek
 slug: guclendirmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güçlü duruma getirmek, güç kazanmasını sağlamak

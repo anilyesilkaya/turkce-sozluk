@@ -2,6 +2,7 @@
 layout: term
 title: boğum
 slug: bogum
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boğulmuş, sıkılmış yer

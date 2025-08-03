@@ -2,6 +2,7 @@
 layout: term
 title: menfaatperestlik
 slug: menfaatperestlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► çıkarcılık

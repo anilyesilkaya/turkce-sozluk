@@ -2,6 +2,7 @@
 layout: term
 title: basabilmek
 slug: basabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Basma ihtimali veya imkânı bulunmak

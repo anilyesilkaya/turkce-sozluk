@@ -2,6 +2,7 @@
 layout: term
 title: 'köpük banyosu '
 slug: kopuk-banyosu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sağlık ve dinlenme amacıyla bedeni bir süre köpüklü suyun içinde bulundurma

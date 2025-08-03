@@ -2,6 +2,7 @@
 layout: term
 title: sapasağlam
 slug: sapasaglam
+letter: S
 lisan: Türkçe
 anlamlar:
 - Çok sağlam, her yanı sağlam

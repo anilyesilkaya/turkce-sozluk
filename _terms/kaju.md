@@ -2,6 +2,7 @@
 layout: term
 title: kaju
 slug: kaju
+letter: K
 lisan: İngilizce cashew
 anlamlar:
 - Antep fıstığıgillerden, yapraklarını dökmeyen, tropikal bir meyve ağacı; bilader ağacı, Amerikan elması (Anacardium occidentale)

@@ -2,6 +2,7 @@
 layout: term
 title: tıpkısı
 slug: tipkisi
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► aynısı

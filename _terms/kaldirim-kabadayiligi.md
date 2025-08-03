@@ -2,6 +2,7 @@
 layout: term
 title: kaldırım kabadayılığı
 slug: kaldirim-kabadayiligi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Adi ve basit, seviyesiz, yersiz veya gereksiz güç gösterisi

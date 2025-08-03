@@ -2,6 +2,7 @@
 layout: term
 title: civanperçemi
 slug: civanpercemi
+letter: C
 lisan: Türkçe
 anlamlar:
 - Birleşikgillerden, birçok türü olan bir kır bitkisi; kandil çiçeği (Achillea millefolium)

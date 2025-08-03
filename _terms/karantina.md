@@ -2,6 +2,7 @@
 layout: term
 title: karantina
 slug: karantina
+letter: K
 lisan: İtalyanca quarantina
 anlamlar:
 - Bulaşıcı bir hastalığın yayılmasını önlemek için belli bir bölgenin veya yerin kontrol altında tutulup giriş çıkışların engellenmesi biçiminde uygulanan sağlık önlemi

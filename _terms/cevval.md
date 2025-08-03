@@ -2,6 +2,7 @@
 layout: term
 title: cevval
 slug: cevval
+letter: C
 lisan: Arapça cevvāl
 anlamlar:
 - Davranışları çabuk ve kesin olan

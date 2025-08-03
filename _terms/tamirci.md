@@ -2,6 +2,7 @@
 layout: term
 title: tamirci
 slug: tamirci
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► onarıcı

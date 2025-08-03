@@ -2,6 +2,7 @@
 layout: term
 title: nezaretli
 slug: nezaretli
+letter: N
 lisan: Türkçe
 anlamlar:
 - Görünüşlü, görüntüye sahip; manzaralı

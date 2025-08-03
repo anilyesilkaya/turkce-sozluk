@@ -2,6 +2,7 @@
 layout: term
 title: dokunulmak
 slug: dokunulmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dokunma işine konu olmak

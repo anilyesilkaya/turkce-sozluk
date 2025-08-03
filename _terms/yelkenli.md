@@ -2,6 +2,7 @@
 layout: term
 title: yelkenli
 slug: yelkenli
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yelkeni olan, yelkenle giden deniz veya göl taşıtı; yelken

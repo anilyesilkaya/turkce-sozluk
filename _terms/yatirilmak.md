@@ -2,6 +2,7 @@
 layout: term
 title: yatırılmak
 slug: yatirilmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yatırma işi yapılmak

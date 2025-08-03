@@ -2,6 +2,7 @@
 layout: term
 title: çöp vergisi
 slug: cop-vergisi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çevre temizlik vergisi

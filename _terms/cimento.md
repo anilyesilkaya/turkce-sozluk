@@ -2,6 +2,7 @@
 layout: term
 title: çimento
 slug: cimento
+letter: Ç
 lisan: İtalyanca cimento
 anlamlar:
 - Killi kalkerleri özel fırınlarda pişirip ezmekle elde edilen, çamuru çarçabuk katılaşıp sertleşen ve yapılarda harç malzemesi olarak kullanılan kül renginde veya beyaz toz

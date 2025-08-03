@@ -2,6 +2,7 @@
 layout: term
 title: fanus
 slug: fanus
+letter: F
 lisan: Arapça fānūs
 anlamlar:
 - Süslü, ayaklı fener

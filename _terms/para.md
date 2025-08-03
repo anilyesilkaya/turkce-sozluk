@@ -2,6 +2,7 @@
 layout: term
 title: para
 slug: para
+letter: P
 lisan: Farsça pāre
 anlamlar:
 - Devletçe bastırılan, üzerinde değeri yazılı kâğıt veya metalden ödeme aracı; mangır, mangiz, nakit, papel, tıkır, tıngır

@@ -2,6 +2,7 @@
 layout: term
 title: yahşi
 slug: yahsi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Çok iyi

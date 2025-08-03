@@ -2,6 +2,7 @@
 layout: term
 title: sevgisiz
 slug: sevgisiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sevgisi olmayan

@@ -2,6 +2,7 @@
 layout: term
 title: hayatından çıkarmak
 slug: hayatindan-cikarmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - ilgisini, ilişkisini tamamen kesmek

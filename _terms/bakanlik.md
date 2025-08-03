@@ -2,6 +2,7 @@
 layout: term
 title: bakanlık
 slug: bakanlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bakan olma durumu; vekillik, nezaret, vekâlet, nazırlık

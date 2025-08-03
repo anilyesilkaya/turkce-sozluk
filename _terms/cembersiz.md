@@ -2,6 +2,7 @@
 layout: term
 title: çembersiz
 slug: cembersiz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çemberi olmayan

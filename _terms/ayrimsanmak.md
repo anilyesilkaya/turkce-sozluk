@@ -2,6 +2,7 @@
 layout: term
 title: ayrımsanmak
 slug: ayrimsanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayrımsama işine konu olmak

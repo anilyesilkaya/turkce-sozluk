@@ -2,6 +2,7 @@
 layout: term
 title: orsa
 slug: orsa
+letter: O
 lisan: İtalyanca orza
 anlamlar:
 - Yelkenleri rüzgârın estiği yöne çevirmekte kullanılan, her iki taraftan yelkenin ortasına bağlanan ip

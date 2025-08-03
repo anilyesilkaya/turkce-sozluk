@@ -2,6 +2,7 @@
 layout: term
 title: har har
 slug: har-har
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hırıltılı olarak

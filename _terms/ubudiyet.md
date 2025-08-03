@@ -2,6 +2,7 @@
 layout: term
 title: ubudiyet
 slug: ubudiyet
+letter: U
 lisan: Arapça ʿubūdiyyet
 anlamlar:
 - ► kulluk (I)

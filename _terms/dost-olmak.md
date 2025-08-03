@@ -2,6 +2,7 @@
 layout: term
 title: dost olmak
 slug: dost-olmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - yakınlık kurmak, ahbap olmak

@@ -2,6 +2,7 @@
 layout: term
 title: teskin etmek
 slug: teskin-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - acı, öfke, heyecan vb. duyguları yatıştırmak, dindirmek

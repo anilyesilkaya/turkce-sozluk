@@ -2,6 +2,7 @@
 layout: term
 title: karşı çıkıcılık
 slug: karsi-cikicilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karşı çıkıcı olma durumu

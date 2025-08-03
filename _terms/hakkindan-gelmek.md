@@ -2,6 +2,7 @@
 layout: term
 title: hakkından gelmek
 slug: hakkindan-gelmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - zor bir işi başarı ile sona erdirmek

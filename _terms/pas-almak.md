@@ -2,6 +2,7 @@
 layout: term
 title: pas almak
 slug: pas-almak
+letter: P
 lisan: Türkçe
 anlamlar:
 - bazı top oyunlarında bir oyuncu takım arkadaşından topu almak

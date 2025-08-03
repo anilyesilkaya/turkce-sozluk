@@ -2,6 +2,7 @@
 layout: term
 title: tunç uyak
 slug: tunc-uyak
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► tunç kafiye

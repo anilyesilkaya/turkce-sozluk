@@ -2,6 +2,7 @@
 layout: term
 title: cengâverce
 slug: cengaverce
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cengâvere yakışır bir biçimde

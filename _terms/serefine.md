@@ -2,6 +2,7 @@
 layout: term
 title: '... şerefine'
 slug: serefine
+letter: .
 lisan: Türkçe
 anlamlar:
 - '... hatırı için, anısına'

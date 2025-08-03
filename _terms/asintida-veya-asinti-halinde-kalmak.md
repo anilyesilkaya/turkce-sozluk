@@ -2,6 +2,7 @@
 layout: term
 title: asıntıda (veya asıntı hâlinde) kalmak
 slug: asintida-veya-asinti-halinde-kalmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir sonuca varmamak, sonuçlanmamak

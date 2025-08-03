@@ -2,6 +2,7 @@
 layout: term
 title: celse
 slug: celse
+letter: C
 lisan: Arapça celse
 anlamlar:
 - ► oturum

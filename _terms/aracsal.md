@@ -2,6 +2,7 @@
 layout: term
 title: araçsal
 slug: aracsal
+letter: A
 lisan: Türkçe
 anlamlar:
 - Araçla ilgili olan

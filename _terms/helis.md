@@ -2,6 +2,7 @@
 layout: term
 title: helis
 slug: helis
+letter: H
 lisan: Fransızca hélice
 anlamlar:
 - Bir silindirin ana doğrularını sabit bir açı altında kesen eğri

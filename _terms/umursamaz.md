@@ -2,6 +2,7 @@
 layout: term
 title: umursamaz
 slug: umursamaz
+letter: U
 lisan: Türkçe
 anlamlar:
 - Umursamayan, aldırış etmeyen

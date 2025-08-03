@@ -2,6 +2,7 @@
 layout: term
 title: isteksiz
 slug: isteksiz
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bir işi yapmaya isteği olmayan; arzusuz, hevessiz

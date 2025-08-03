@@ -2,6 +2,7 @@
 layout: term
 title: Allah selamet versin
 slug: allah-selamet-versin
+letter: A
 lisan: Türkçe
 anlamlar:
 - yola çıkanlara "Tanrı kazadan, beladan korusun" anlamında söylenen bir esenleme sözü

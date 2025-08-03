@@ -2,6 +2,7 @@
 layout: term
 title: miyosen
 slug: miyosen
+letter: M
 lisan: Fransızca miocéne
 anlamlar:
 - Üçüncü Çağ'ın memeliler ve maymunların gelişmiş olduğu bölümü

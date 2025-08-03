@@ -2,6 +2,7 @@
 layout: term
 title: hatırlatabilmek
 slug: hatirlatabilmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► anımsatabilmek

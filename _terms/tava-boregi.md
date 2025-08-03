@@ -2,6 +2,7 @@
 layout: term
 title: tava böreği
 slug: tava-boregi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Mayalı hamurdan ince açılan yufkanın içine kıyma, peynir, patates, ıspanak vb. konup tavada pişirilen bir börek türü

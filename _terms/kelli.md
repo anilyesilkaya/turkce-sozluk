@@ -2,6 +2,7 @@
 layout: term
 title: kelli
 slug: kelli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çıkma durumundaki sözlerin ardı sıra geldiğinde birbirine bağladığı iki yargıdan birincisini zorlayıcı bir sebep olarak gösteren bir söz

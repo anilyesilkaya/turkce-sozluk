@@ -2,6 +2,7 @@
 layout: term
 title: iki nokta
 slug: iki-nokta
+letter: I
 lisan: Türkçe
 anlamlar:
 - Kendisinden sonra örnek verilecek veya açıklama yapılacak cümlenin sonuna konulan noktalama işareti (:)

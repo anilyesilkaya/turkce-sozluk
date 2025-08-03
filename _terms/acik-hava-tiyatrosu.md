@@ -2,6 +2,7 @@
 layout: term
 title: açık hava tiyatrosu
 slug: acik-hava-tiyatrosu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yazın veya iklimi elverişli yerlerde geceleri çalışan, üstü açık, yanları kapalı tiyatro

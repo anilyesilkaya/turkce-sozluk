@@ -2,6 +2,7 @@
 layout: term
 title: özdeştirme
 slug: ozdestirme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Özdeştirmek durumu

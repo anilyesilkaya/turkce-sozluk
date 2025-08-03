@@ -2,6 +2,7 @@
 layout: term
 title: Zazaca
 slug: zazaca
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zazaların kullandığı dil

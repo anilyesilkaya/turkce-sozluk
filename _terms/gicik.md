@@ -2,6 +2,7 @@
 layout: term
 title: gıcık
 slug: gicik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Boğazda duyulup aksırtan, öksürten yakıcı kaşıntı

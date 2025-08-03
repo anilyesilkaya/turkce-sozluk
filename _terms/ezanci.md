@@ -2,6 +2,7 @@
 layout: term
 title: ezancı
 slug: ezanci
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► müezzin

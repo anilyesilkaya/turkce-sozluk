@@ -2,6 +2,7 @@
 layout: term
 title: kırpışma
 slug: kirpisma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kırpışmak işi

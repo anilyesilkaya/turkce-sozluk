@@ -2,6 +2,7 @@
 layout: term
 title: fesleğenli
 slug: feslegenli
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fesleğeni olan

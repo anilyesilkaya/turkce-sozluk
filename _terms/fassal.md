@@ -2,6 +2,7 @@
 layout: term
 title: fassal
 slug: fassal
+letter: F
 lisan: Arapça faṣṣāl
 anlamlar:
 - ► karalamacı

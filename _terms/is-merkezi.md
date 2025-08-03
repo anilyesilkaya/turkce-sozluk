@@ -2,6 +2,7 @@
 layout: term
 title: iş merkezi
 slug: is-merkezi
+letter: I
 lisan: Türkçe
 anlamlar:
 - İş yerlerinin yoğun olduğu bölge

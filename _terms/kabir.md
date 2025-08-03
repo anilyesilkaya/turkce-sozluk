@@ -2,6 +2,7 @@
 layout: term
 title: kabir
 slug: kabir
+letter: K
 lisan: Arapça ḳabr
 anlamlar:
 - ► mezar

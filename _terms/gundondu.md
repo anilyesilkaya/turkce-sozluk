@@ -2,6 +2,7 @@
 layout: term
 title: gündöndü
 slug: gundondu
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► ayçiçeği

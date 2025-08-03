@@ -2,6 +2,7 @@
 layout: term
 title: hırkalı
 slug: hirkali
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hırkası olan

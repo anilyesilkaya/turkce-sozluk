@@ -2,6 +2,7 @@
 layout: term
 title: mutasarrıflık
 slug: mutasarriflik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mutasarrıfın görev ve makamı

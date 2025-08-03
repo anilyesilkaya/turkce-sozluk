@@ -2,6 +2,7 @@
 layout: term
 title: boyama
 slug: boyama
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boyamak işi; pentür

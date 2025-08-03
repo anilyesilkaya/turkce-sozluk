@@ -2,6 +2,7 @@
 layout: term
 title: siktirici
 slug: siktirici
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bayağı, aşağılık, adi

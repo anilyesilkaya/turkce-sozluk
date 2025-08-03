@@ -2,6 +2,7 @@
 layout: term
 title: tılsımlı
 slug: tilsimli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tılsımı olan

@@ -2,6 +2,7 @@
 layout: term
 title: kabarcık
 slug: kabarcik
+letter: K
 lisan: Türkçe
 anlamlar:
 - İçi su veya hava dolu ufak kabartı veya kürecik; baloncuk, domur

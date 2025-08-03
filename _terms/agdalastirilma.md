@@ -2,6 +2,7 @@
 layout: term
 title: ağdalaştırılma
 slug: agdalastirilma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağdalaştırılmak işi

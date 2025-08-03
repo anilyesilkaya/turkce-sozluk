@@ -2,6 +2,7 @@
 layout: term
 title: zekâ geriliği
 slug: zeka-geriligi
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Türlü sebeplerle zihnin görevini yapmakta gösterdiği sürekli yavaşlama, duraklama ve gerileme durumu

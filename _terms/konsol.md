@@ -2,6 +2,7 @@
 layout: term
 title: konsol
 slug: konsol
+letter: K
 lisan: Fransızca console
 anlamlar:
 - Duvar kenarına yerleştirilen, üstüne ayna ve başka süs eşyası konulan, çekmeceli, dolaplı mobilya

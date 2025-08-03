@@ -2,6 +2,7 @@
 layout: term
 title: silah
 slug: silah
+letter: S
 lisan: Arapça silāḥ
 anlamlar:
 - Savunmak veya saldırmak amacıyla kullanılan araç; yarak, cebe

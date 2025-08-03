@@ -2,6 +2,7 @@
 layout: term
 title: değerlendirebilme
 slug: degerlendirebilme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Değerlendirebilmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: eli varmamak (veya gitmemek)
 slug: eli-varmamak-veya-gitmemek
+letter: E
 lisan: Türkçe
 anlamlar:
 - bir işi yapmaya gönlü razı olmamak

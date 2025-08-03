@@ -2,6 +2,7 @@
 layout: term
 title: koşa
 slug: kosa
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çift, eş, ikiz

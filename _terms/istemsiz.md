@@ -2,6 +2,7 @@
 layout: term
 title: istemsiz
 slug: istemsiz
+letter: I
 lisan: Türkçe
 anlamlar:
 - İstenmeden yapılan

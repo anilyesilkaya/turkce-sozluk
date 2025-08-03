@@ -2,6 +2,7 @@
 layout: term
 title: çinkomsu
 slug: cinkomsu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çinkoyu andıran, çinkoya benzeyen, çinko gibi

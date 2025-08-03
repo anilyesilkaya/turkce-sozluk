@@ -2,6 +2,7 @@
 layout: term
 title: randıman
 slug: randiman
+letter: R
 lisan: Fransızca rendement
 anlamlar:
 - ► verim

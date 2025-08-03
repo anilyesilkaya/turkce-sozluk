@@ -2,6 +2,7 @@
 layout: term
 title: kafa eskitmek
 slug: kafa-eskitmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - zihni yoran sorunlarla sürekli uğraşmak

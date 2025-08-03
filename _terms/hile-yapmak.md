@@ -2,6 +2,7 @@
 layout: term
 title: hile yapmak
 slug: hile-yapmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - aldatmak

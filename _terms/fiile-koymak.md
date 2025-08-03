@@ -2,6 +2,7 @@
 layout: term
 title: fiile koymak
 slug: fiile-koymak
+letter: F
 lisan: Türkçe
 anlamlar:
 - eyleme geçirmek

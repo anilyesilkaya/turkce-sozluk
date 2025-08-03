@@ -2,6 +2,7 @@
 layout: term
 title: cesurca
 slug: cesurca
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cesura yakışan

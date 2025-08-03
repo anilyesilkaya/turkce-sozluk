@@ -2,6 +2,7 @@
 layout: term
 title: manga
 slug: manga
+letter: M
 lisan: 'İtalyanca '
 anlamlar:
 - Savaş gemilerinde deniz erlerinin oturduğu sıra

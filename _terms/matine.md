@@ -2,6 +2,7 @@
 layout: term
 title: matine
 slug: matine
+letter: M
 lisan: Fransızca matinée
 anlamlar:
 - ► gündüz gösterimi

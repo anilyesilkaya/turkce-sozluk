@@ -2,6 +2,7 @@
 layout: term
 title: etçil
 slug: etcil
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► etobur

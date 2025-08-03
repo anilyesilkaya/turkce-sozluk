@@ -2,6 +2,7 @@
 layout: term
 title: Fransızca
 slug: fransizca
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fransa ve Fransız uygarlığını benimsemiş ülkelerdeki halkın kullandığı dil; Frenkçe

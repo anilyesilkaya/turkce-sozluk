@@ -2,6 +2,7 @@
 layout: term
 title: döşekli
 slug: dosekli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Döşeği olan

@@ -2,6 +2,7 @@
 layout: term
 title: sabahtan akşama kadar
 slug: sabahtan-aksama-kadar
+letter: S
 lisan: Türkçe
 anlamlar:
 - bütün gün boyunca

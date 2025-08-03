@@ -2,6 +2,7 @@
 layout: term
 title: haklamak
 slug: haklamak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Bozmak, perişan etmek, yenmek

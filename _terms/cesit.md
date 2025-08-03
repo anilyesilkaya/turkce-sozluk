@@ -2,6 +2,7 @@
 layout: term
 title: çeşit
 slug: cesit
+letter: Ç
 lisan: Farsça çeşīd
 anlamlar:
 - Aynı cinsten olan şeylerin bazı özelliklerle ayrılan öbeklerinden her biri; çeşitleme, makule, nevi

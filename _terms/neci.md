@@ -2,6 +2,7 @@
 layout: term
 title: neci
 slug: neci
+letter: N
 lisan: Türkçe
 anlamlar:
 - Ne iş yapar, ne ile uğraşır?

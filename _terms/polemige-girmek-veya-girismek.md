@@ -2,6 +2,7 @@
 layout: term
 title: polemiğe girmek (veya girişmek)
 slug: polemige-girmek-veya-girismek
+letter: P
 lisan: Türkçe
 anlamlar:
 - siyasi, bilimsel veya edebî konularda sert tartışmalar yapmak

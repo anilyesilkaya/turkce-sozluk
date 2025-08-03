@@ -2,6 +2,7 @@
 layout: term
 title: dehşet
 slug: dehset
+letter: D
 lisan: Arapça dehşet
 anlamlar:
 - Bir tehlike veya korkunç bir şey karşısında duyulan ürküntü

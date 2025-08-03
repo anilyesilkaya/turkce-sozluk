@@ -2,6 +2,7 @@
 layout: term
 title: santra
 slug: santra
+letter: S
 lisan: Fransızca centre
 anlamlar:
 - ► orta yuvarlak

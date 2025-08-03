@@ -2,6 +2,7 @@
 layout: term
 title: binkat
 slug: binkat
+letter: B
 lisan: Türkçe
 anlamlar:
 - Pek çok, kıyaslanmayacak ölçüde

@@ -2,6 +2,7 @@
 layout: term
 title: portal
 slug: portal
+letter: P
 lisan: İngilizce portal
 anlamlar:
 - ► ana kapı

@@ -2,6 +2,7 @@
 layout: term
 title: çıkışabilmek
 slug: cikisabilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıkışma ihtimali veya imkânı bulunmak

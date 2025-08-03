@@ -2,6 +2,7 @@
 layout: term
 title: Ural dilleri
 slug: ural-dilleri
+letter: U
 lisan: Türkçe
 anlamlar:
 - Fin-Ugor ve Samoyetçeden oluşan dil grubu

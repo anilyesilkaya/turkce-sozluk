@@ -2,6 +2,7 @@
 layout: term
 title: rüya
 slug: ruya
+letter: R
 lisan: Arapça ruʾyā
 anlamlar:
 - ► düş

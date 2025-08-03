@@ -2,6 +2,7 @@
 layout: term
 title: ötebilmek
 slug: otebilmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ötme ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: bukle
 slug: bukle
+letter: B
 lisan: Fransızca boucle
 anlamlar:
 - Küçük lüle durumunda, kıvrımlı saç

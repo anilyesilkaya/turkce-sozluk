@@ -2,6 +2,7 @@
 layout: term
 title: polimci
 slug: polimci
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► gösterişçi

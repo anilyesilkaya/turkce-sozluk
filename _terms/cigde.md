@@ -2,6 +2,7 @@
 layout: term
 title: çiğde
 slug: cigde
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► hünnap

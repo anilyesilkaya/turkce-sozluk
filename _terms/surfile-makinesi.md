@@ -2,6 +2,7 @@
 layout: term
 title: sürfile makinesi
 slug: surfile-makinesi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sürfile işi yapan makine

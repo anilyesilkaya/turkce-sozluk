@@ -2,6 +2,7 @@
 layout: term
 title: iletişim kurmak
 slug: iletisim-kurmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - bilgi, haber vb. alışverişi yapmak

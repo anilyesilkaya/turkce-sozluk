@@ -2,6 +2,7 @@
 layout: term
 title: üşmek
 slug: usmek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - ► üşüşmek

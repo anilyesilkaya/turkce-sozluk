@@ -2,6 +2,7 @@
 layout: term
 title: mebiz
 slug: mebiz
+letter: M
 lisan: Arapça mebīż
 anlamlar:
 - ► yumurtalık

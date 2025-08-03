@@ -2,6 +2,7 @@
 layout: term
 title: zorbalık
 slug: zorbalik
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zorbaca davranışta bulunma; mütegallibelik, müstebitlik, tagallüp

@@ -2,6 +2,7 @@
 layout: term
 title: duvar yazısı
 slug: duvar-yazisi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Duvarlara yazılan her türlü yazı

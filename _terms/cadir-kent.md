@@ -2,6 +2,7 @@
 layout: term
 title: çadır kent
 slug: cadir-kent
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Olağanüstü durumlarda afet bölgelerinde kurulan çadırlardan oluşan geçici yerleşim yeri

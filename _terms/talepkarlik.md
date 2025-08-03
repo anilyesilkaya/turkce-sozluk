@@ -2,6 +2,7 @@
 layout: term
 title: talepkârlık
 slug: talepkarlik
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► isteklilik

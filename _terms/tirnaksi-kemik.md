@@ -2,6 +2,7 @@
 layout: term
 title: tırnaksı kemik
 slug: tirnaksi-kemik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Göz çukurunun iç çeperinde bulunan, küçük, dört köşe ince bir çift kemik

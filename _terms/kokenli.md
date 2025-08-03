@@ -2,6 +2,7 @@
 layout: term
 title: kökenli
 slug: kokenli
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► asıllı

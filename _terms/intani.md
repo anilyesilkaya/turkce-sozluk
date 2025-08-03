@@ -2,6 +2,7 @@
 layout: term
 title: intani
 slug: intani
+letter: I
 lisan: Arapça intānī
 anlamlar:
 - ► mikroplu

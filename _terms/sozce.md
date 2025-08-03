@@ -2,6 +2,7 @@
 layout: term
 title: sözce
 slug: sozce
+letter: S
 lisan: Türkçe
 anlamlar:
 - Söz bakımından

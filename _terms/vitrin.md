@@ -2,6 +2,7 @@
 layout: term
 title: vitrin
 slug: vitrin
+letter: V
 lisan: Fransızca vitrine
 anlamlar:
 - Nesnelerin insanlara gösterilmek ve satılmak için sergilendiği camlı bölme veya yer; camekân, sergen

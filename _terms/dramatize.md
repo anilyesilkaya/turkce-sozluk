@@ -2,6 +2,7 @@
 layout: term
 title: dramatize
 slug: dramatize
+letter: D
 lisan: Fransızca dramatisé
 anlamlar:
 - Radyo, televizyon veya sahne oyunu biçimine getirilen (edebî eser)

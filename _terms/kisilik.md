@@ -2,6 +2,7 @@
 layout: term
 title: kişilik
 slug: kisilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir kimseye özgü belirgin özellik, manevi ve ruhsal niteliklerinin bütünü; şahsiyet

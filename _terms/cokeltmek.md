@@ -2,6 +2,7 @@
 layout: term
 title: çökeltmek
 slug: cokeltmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çökelmeye uğratmak, çökelmesini sağlamak

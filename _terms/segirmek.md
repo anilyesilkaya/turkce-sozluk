@@ -2,6 +2,7 @@
 layout: term
 title: seğirmek
 slug: segirmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Genellikle vücudun bir yerinde deri ile birlikte derinin hemen altındaki kaslar hafifçe oynamak; seğrimek

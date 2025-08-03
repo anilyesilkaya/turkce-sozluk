@@ -2,6 +2,7 @@
 layout: term
 title: gösterme
 slug: gosterme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Göstermek işi; arz (I), teşhir

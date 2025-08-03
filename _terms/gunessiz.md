@@ -2,6 +2,7 @@
 layout: term
 title: güneşsiz
 slug: gunessiz
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güneş ışınlarıyla aydınlanmayan, güneş ışınlarını almayan

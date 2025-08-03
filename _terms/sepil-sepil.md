@@ -2,6 +2,7 @@
 layout: term
 title: sepil sepil
 slug: sepil-sepil
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► yavaş yavaş

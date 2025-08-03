@@ -2,6 +2,7 @@
 layout: term
 title: andaç
 slug: andac
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► ajanda

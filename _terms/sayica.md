@@ -2,6 +2,7 @@
 layout: term
 title: sayıca
 slug: sayica
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sayı bakımından; adetçe, adedî

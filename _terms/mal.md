@@ -2,6 +2,7 @@
 layout: term
 title: mal
 slug: mal
+letter: M
 lisan: Arapça māl
 anlamlar:
 - Bir kimsenin, bir tüzel kişinin mülkiyeti altında bulunan, taşınır veya taşınmaz varlıkların bütünü

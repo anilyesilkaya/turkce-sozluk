@@ -2,6 +2,7 @@
 layout: term
 title: anaforlu
 slug: anaforlu
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► akıntılı

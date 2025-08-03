@@ -2,6 +2,7 @@
 layout: term
 title: gün ağarmak
 slug: gun-agarmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - tan yeri aydınlanmak

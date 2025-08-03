@@ -2,6 +2,7 @@
 layout: term
 title: tulumba
 slug: tulumba
+letter: T
 lisan: İtalyanca tromba
 anlamlar:
 - Sıvıları alçak yerlerden çekmeye veya yüksek yerlere çıkarmaya yarayan araç

@@ -2,6 +2,7 @@
 layout: term
 title: hulus
 slug: hulus
+letter: H
 lisan: Arapça ḫulūṣ
 anlamlar:
 - Gönül temizliği, saf olma

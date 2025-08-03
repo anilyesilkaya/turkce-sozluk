@@ -2,6 +2,7 @@
 layout: term
 title: seyrekleşme
 slug: seyreklesme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Seyrekleşmek durumu; seyrelme

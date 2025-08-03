@@ -2,6 +2,7 @@
 layout: term
 title: nallanış
 slug: nallanis
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nallanmak işi

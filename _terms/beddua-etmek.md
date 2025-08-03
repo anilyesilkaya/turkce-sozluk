@@ -2,6 +2,7 @@
 layout: term
 title: beddua etmek
 slug: beddua-etmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - ilenmek

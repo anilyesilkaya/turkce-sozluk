@@ -2,6 +2,7 @@
 layout: term
 title: demir
 slug: demir
+letter: D
 lisan: Türkçe
 anlamlar:
 - Atom numarası 26, atom ağırlığı 55,847, yoğunluğu 7,8 olan, 1510 °C'de eriyen, mavimtırak esmer renkte, özellikle çelik, döküm ve alaşımlar durumunda sanayide kullanılmaya en elverişli element (simgesi Fe)

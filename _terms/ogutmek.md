@@ -2,6 +2,7 @@
 layout: term
 title: öğütmek
 slug: ogutmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Tane durumundaki nesneleri bir araçla ezerek un durumuna getirmek

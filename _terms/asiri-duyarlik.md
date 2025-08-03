@@ -2,6 +2,7 @@
 layout: term
 title: aşırı duyarlık
 slug: asiri-duyarlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Organizmaya giren yabancı bir madde yüzünden canlı varlıklarda oluşan aşırı tepki; anafilaksi

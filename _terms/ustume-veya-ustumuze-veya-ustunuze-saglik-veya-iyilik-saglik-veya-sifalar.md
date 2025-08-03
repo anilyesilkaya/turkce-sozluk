@@ -2,6 +2,7 @@
 layout: term
 title: üstüme (veya üstümüze veya üstünüze) sağlık (veya iyilik sağlık veya şifalar)
 slug: ustume-veya-ustumuze-veya-ustunuze-saglik-veya-iyilik-saglik-veya-sifalar
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - '"Tanrı esirgesin, üstümden uzak olsun" anlamında kullanılan bir iyi dilek sözü'

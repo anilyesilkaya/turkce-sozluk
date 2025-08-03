@@ -2,6 +2,7 @@
 layout: term
 title: geçiniz
 slug: geciniz
+letter: G
 lisan: Türkçe
 anlamlar:
 - '"bu söylediklerinizi kabul etmiyorum, daha mantıklı sözler söyleyin" anlamında kullanılan bir söz'

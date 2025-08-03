@@ -2,6 +2,7 @@
 layout: term
 title: seyyar hastane
 slug: seyyar-hastane
+letter: S
 lisan: Türkçe
 anlamlar:
 - Harekâtta veya acil durumlarda kullanılmak üzere yapılan, gezgin hastane

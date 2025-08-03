@@ -2,6 +2,7 @@
 layout: term
 title: farbala
 slug: farbala
+letter: F
 lisan: Fransızca falbala
 anlamlar:
 - ► fırfır

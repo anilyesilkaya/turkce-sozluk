@@ -2,6 +2,7 @@
 layout: term
 title: çelmek
 slug: celmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Ayak uzatarak birisini düşürmek

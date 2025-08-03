@@ -2,6 +2,7 @@
 layout: term
 title: data
 slug: data
+letter: D
 lisan: Fransızca data
 anlamlar:
 - ► veri

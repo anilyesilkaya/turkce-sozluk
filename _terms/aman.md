@@ -2,6 +2,7 @@
 layout: term
 title: aman
 slug: aman
+letter: A
 lisan: Arapça amān
 anlamlar:
 - Yardım istenildiğini anlatan bir söz

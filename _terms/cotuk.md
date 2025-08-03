@@ -2,6 +2,7 @@
 layout: term
 title: çotuk
 slug: cotuk
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Dışarıda kalmış ağaç kökü

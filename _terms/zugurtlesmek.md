@@ -2,6 +2,7 @@
 layout: term
 title: züğürtleşmek
 slug: zugurtlesmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Züğürt durumuna gelmek

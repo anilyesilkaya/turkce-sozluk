@@ -2,6 +2,7 @@
 layout: term
 title: yerleşiklik
 slug: yerlesiklik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yerleşik olanın özelliği

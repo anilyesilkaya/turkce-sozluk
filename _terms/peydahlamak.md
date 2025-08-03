@@ -2,6 +2,7 @@
 layout: term
 title: peydahlamak
 slug: peydahlamak
+letter: P
 lisan: Türkçe
 anlamlar:
 - İstenmeyen veya uygun olmayan şeyler edinmek

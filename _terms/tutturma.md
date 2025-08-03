@@ -2,6 +2,7 @@
 layout: term
 title: tutturma
 slug: tutturma
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tutturmak işi

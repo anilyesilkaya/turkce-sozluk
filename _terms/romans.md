@@ -2,6 +2,7 @@
 layout: term
 title: romans
 slug: romans
+letter: R
 lisan: Fransızca romance
 anlamlar:
 - Sekiz hecelik dizelerden oluşmuş bir İspanyol şiir türü

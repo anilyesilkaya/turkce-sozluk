@@ -2,6 +2,7 @@
 layout: term
 title: şunca
 slug: sunca
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şu kadar çok

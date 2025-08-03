@@ -2,6 +2,7 @@
 layout: term
 title: nahiv
 slug: nahiv
+letter: N
 lisan: Arapça naḥv
 anlamlar:
 - ► cümle bilgisi

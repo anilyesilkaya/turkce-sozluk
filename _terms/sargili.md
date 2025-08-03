@@ -2,6 +2,7 @@
 layout: term
 title: sargılı
 slug: sargili
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sargısı olan

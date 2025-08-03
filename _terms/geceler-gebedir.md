@@ -2,6 +2,7 @@
 layout: term
 title: geceler gebedir
 slug: geceler-gebedir
+letter: G
 lisan: Türkçe
 anlamlar:
 - '"her sabah yeni olaylarla karşılaşabiliriz" anlamında kullanılan bir söz'

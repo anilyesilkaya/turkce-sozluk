@@ -2,6 +2,7 @@
 layout: term
 title: ses vermek
 slug: ses-vermek
+letter: S
 lisan: Türkçe
 anlamlar:
 - herhangi bir sesi çıkarmak

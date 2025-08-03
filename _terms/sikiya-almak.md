@@ -2,6 +2,7 @@
 layout: term
 title: sıkıya almak
 slug: sikiya-almak
+letter: S
 lisan: Türkçe
 anlamlar:
 - hareketlerini sınırlamak veya önlemler almak

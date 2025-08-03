@@ -2,6 +2,7 @@
 layout: term
 title: baş göz etmek
 slug: bas-goz-etmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - evlendirmek

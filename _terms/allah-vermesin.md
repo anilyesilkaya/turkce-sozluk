@@ -2,6 +2,7 @@
 layout: term
 title: Allah vermesin
 slug: allah-vermesin
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir şeyin olmaması dileğini anlatan bir söz

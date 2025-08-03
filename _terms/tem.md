@@ -2,6 +2,7 @@
 layout: term
 title: tem
 slug: tem
+letter: T
 lisan: Fransızca thème
 anlamlar:
 - ► tema

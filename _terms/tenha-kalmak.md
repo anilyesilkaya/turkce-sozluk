@@ -2,6 +2,7 @@
 layout: term
 title: tenha kalmak
 slug: tenha-kalmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - ıssızlaşmak

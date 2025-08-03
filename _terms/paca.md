@@ -2,6 +2,7 @@
 layout: term
 title: paça
 slug: paca
+letter: P
 lisan: Farsça pāçe
 anlamlar:
 - Pantolon, don, şalvar vb. giyeceklerde bacakların çıktığı aşağı bölüm

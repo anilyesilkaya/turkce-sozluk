@@ -2,6 +2,7 @@
 layout: term
 title: yalıtabilmek
 slug: yalitabilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yalıtma ihtimali veya imkânı bulunmak

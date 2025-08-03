@@ -2,6 +2,7 @@
 layout: term
 title: çimlendirmek
 slug: cimlendirmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çimlenmesini sağlamak

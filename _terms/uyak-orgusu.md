@@ -2,6 +2,7 @@
 layout: term
 title: uyak örgüsü
 slug: uyak-orgusu
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► kafiye örgüsü

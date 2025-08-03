@@ -2,6 +2,7 @@
 layout: term
 title: ilgi eki
 slug: ilgi-eki
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bağlantı kavramı veren -ki eki, aidiyet eki

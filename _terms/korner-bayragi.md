@@ -2,6 +2,7 @@
 layout: term
 title: 'korner bayrağı '
 slug: korner-bayragi
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► köşe bayrağı

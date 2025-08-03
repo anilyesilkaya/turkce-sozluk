@@ -2,6 +2,7 @@
 layout: term
 title: muasır
 slug: muasir
+letter: M
 lisan: Arapça muʿāṣir
 anlamlar:
 - ► çağdaş

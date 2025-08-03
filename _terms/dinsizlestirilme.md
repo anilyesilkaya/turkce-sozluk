@@ -2,6 +2,7 @@
 layout: term
 title: dinsizleştirilme
 slug: dinsizlestirilme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dinsizleştirilmek işi

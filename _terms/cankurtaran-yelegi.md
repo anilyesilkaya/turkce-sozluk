@@ -2,6 +2,7 @@
 layout: term
 title: cankurtaran yeleği
 slug: cankurtaran-yelegi
+letter: C
 lisan: Türkçe
 anlamlar:
 - Yelek biçiminde yapılmış cankurtaran aracı; can yeleği

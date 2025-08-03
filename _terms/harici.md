@@ -2,6 +2,7 @@
 layout: term
 title: haricî
 slug: harici
+letter: H
 lisan: Arapça ḫāricī
 anlamlar:
 - Dışla ilgili, dıştan olan

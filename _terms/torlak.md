@@ -2,6 +2,7 @@
 layout: term
 title: torlak
 slug: torlak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Genç, toy olan

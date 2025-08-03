@@ -2,6 +2,7 @@
 layout: term
 title: edinebilmek
 slug: edinebilmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Edinme ihtimali veya imkânı bulunmak

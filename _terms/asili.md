@@ -2,6 +2,7 @@
 layout: term
 title: aşılı
 slug: asili
+letter: A
 lisan: Türkçe
 anlamlar:
 - Herhangi bir hastalığa karşı aşılanmış olan (kimse)

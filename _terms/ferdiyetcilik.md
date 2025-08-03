@@ -2,6 +2,7 @@
 layout: term
 title: ferdiyetçilik
 slug: ferdiyetcilik
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► bireycilik

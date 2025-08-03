@@ -2,6 +2,7 @@
 layout: term
 title: lafazanlık
 slug: lafazanlik
+letter: L
 lisan: Türkçe
 anlamlar:
 - ► gevezelik

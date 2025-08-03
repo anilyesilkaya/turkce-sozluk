@@ -2,6 +2,7 @@
 layout: term
 title: gönül eri
 slug: gonul-eri
+letter: G
 lisan: Türkçe
 anlamlar:
 - Hoşgörüsü geniş, açık yürekli, güvenilir kimse; ehlidil

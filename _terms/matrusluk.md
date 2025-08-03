@@ -2,6 +2,7 @@
 layout: term
 title: matruşluk
 slug: matrusluk
+letter: M
 lisan: Türkçe
 anlamlar:
 - Sakalsız, bıyıksız olma durumu

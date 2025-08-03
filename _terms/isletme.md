@@ -2,6 +2,7 @@
 layout: term
 title: işletme
 slug: isletme
+letter: I
 lisan: Türkçe
 anlamlar:
 - İşletmek işi

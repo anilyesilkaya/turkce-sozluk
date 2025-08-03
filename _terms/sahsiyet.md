@@ -2,6 +2,7 @@
 layout: term
 title: şahsiyet
 slug: sahsiyet
+letter: Ş
 lisan: Arapça şaḫṣiyyet
 anlamlar:
 - ► kişilik

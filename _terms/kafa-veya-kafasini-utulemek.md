@@ -2,6 +2,7 @@
 layout: term
 title: kafa (veya kafasını) ütülemek
 slug: kafa-veya-kafasini-utulemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - çok laf edip rahatsız etmek

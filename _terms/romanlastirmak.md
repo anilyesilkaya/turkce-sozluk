@@ -2,6 +2,7 @@
 layout: term
 title: romanlaştırmak
 slug: romanlastirmak
+letter: R
 lisan: Türkçe
 anlamlar:
 - Bir konuyu roman biçiminde yazmak

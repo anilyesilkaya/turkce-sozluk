@@ -2,6 +2,7 @@
 layout: term
 title: ihtiyaten
 slug: ihtiyaten
+letter: I
 lisan: Arapça iḥtiyāṭen
 anlamlar:
 - Her duruma, her ihtimale karşı, ilerisini düşünerek

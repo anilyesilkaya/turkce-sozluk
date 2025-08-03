@@ -2,6 +2,7 @@
 layout: term
 title: davetiye çıkarmak
 slug: davetiye-cikarmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - olumsuz bir şeyin meydana gelmesi için gerekli şartları hazırlamak

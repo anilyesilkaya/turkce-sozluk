@@ -2,6 +2,7 @@
 layout: term
 title: seri katil
 slug: seri-katil
+letter: S
 lisan: Türkçe
 anlamlar:
 - Aynı tarzda ve çok sayıda cinayet işleyen kimse

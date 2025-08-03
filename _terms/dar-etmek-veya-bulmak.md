@@ -2,6 +2,7 @@
 layout: term
 title: dar etmek (veya bulmak)
 slug: dar-etmek-veya-bulmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - zor ulaşmak

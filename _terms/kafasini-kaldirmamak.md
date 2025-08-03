@@ -2,6 +2,7 @@
 layout: term
 title: kafasını kaldırmamak
 slug: kafasini-kaldirmamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - yoğun olarak çalışmak, meşgul olmak

@@ -2,6 +2,7 @@
 layout: term
 title: geçirgenlik
 slug: gecirgenlik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bazı cisimlerin, içlerinden gaz, sıvı, akım vb. geçirme özelliği

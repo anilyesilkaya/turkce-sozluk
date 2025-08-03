@@ -2,6 +2,7 @@
 layout: term
 title: pezevenk
 slug: pezevenk
+letter: P
 lisan: Ermenice
 anlamlar:
 - Gizli ve yasal olmayan cinsel ilişki öncesinde aracılık eden kimse; dümbük, godoş, muhabbet tellalı, teres, kavat, astik, dasnik

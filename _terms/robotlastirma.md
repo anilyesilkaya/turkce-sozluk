@@ -2,6 +2,7 @@
 layout: term
 title: robotlaştırma
 slug: robotlastirma
+letter: R
 lisan: Türkçe
 anlamlar:
 - Robotlaştırmak işi

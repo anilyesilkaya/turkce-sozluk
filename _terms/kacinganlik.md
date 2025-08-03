@@ -2,6 +2,7 @@
 layout: term
 title: kaçınganlık
 slug: kacinganlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Geri durma, isteksiz davranma

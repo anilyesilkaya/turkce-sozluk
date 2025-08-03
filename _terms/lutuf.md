@@ -2,6 +2,7 @@
 layout: term
 title: lütuf
 slug: lutuf
+letter: L
 lisan: Arapça luṭf
 anlamlar:
 - Önem verilen, sayılan birinden gelen iyilik; armağan, kayra, ihsan, inayet, atıfet

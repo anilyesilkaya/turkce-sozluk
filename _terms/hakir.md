@@ -2,6 +2,7 @@
 layout: term
 title: hakir
 slug: hakir
+letter: H
 lisan: Arapça ḥaḳīr
 anlamlar:
 - Aşağı görülen, değersiz

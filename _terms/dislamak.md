@@ -2,6 +2,7 @@
 layout: term
 title: dışlamak
 slug: dislamak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir kimse veya bir toplum, bir kimse, bir durum, bir düşünce vb.ni yok saymak, ilgilenmemek; burunlamak, ötekileştirmek

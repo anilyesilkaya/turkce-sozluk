@@ -2,6 +2,7 @@
 layout: term
 title: rızası olmak
 slug: rizasi-olmak
+letter: R
 lisan: Türkçe
 anlamlar:
 - izni olmak, müsaadesi olmak

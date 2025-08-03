@@ -2,6 +2,7 @@
 layout: term
 title: baştan çıkmak
 slug: bastan-cikmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - ahlakı bozulmak, doğru yoldan ayrılıp uygunsuz işlere yönelmek

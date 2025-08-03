@@ -2,6 +2,7 @@
 layout: term
 title: gümrah
 slug: gumrah
+letter: G
 lisan: Farsça gumrāh
 anlamlar:
 - Aşırı derecede büyümüş

@@ -2,6 +2,7 @@
 layout: term
 title: neşesiz
 slug: nesesiz
+letter: N
 lisan: Türkçe
 anlamlar:
 - Neşesi olmayan; keyifsiz

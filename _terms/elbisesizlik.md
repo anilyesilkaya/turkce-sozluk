@@ -2,6 +2,7 @@
 layout: term
 title: elbisesizlik
 slug: elbisesizlik
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► giysisizlik

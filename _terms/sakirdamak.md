@@ -2,6 +2,7 @@
 layout: term
 title: şakırdamak
 slug: sakirdamak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - '"Şakır" diye ses çıkarmak'

@@ -2,6 +2,7 @@
 layout: term
 title: musiki
 slug: musiki
+letter: M
 lisan: Arapça mūsīḳī
 anlamlar:
 - ► müzik

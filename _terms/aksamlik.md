@@ -2,6 +2,7 @@
 layout: term
 title: akşamlık
 slug: aksamlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Akşama özgü olan

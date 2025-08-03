@@ -2,6 +2,7 @@
 layout: term
 title: sapma göstergesi
 slug: sapma-gostergesi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Geminin rota çizgisinden hangi yönde ve ne kadar saptığını gösteren araç

@@ -2,6 +2,7 @@
 layout: term
 title: ihtiyatlı olmak
 slug: ihtiyatli-olmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - herhangi bir konuda ileriyi düşünerek ölçülü davranmak

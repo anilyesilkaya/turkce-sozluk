@@ -2,6 +2,7 @@
 layout: term
 title: asesbaşı
 slug: asesbasi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yeniçeri Ocağı'ndaki askerî görevinin yanı sıra, başkentin düzenini korumakla da yükümlü olan teşkilatın başı

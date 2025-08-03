@@ -2,6 +2,7 @@
 layout: term
 title: dönüp geriye bakmak
 slug: donup-geriye-bakmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - eskiyi hatırlamak, geçmişi gözden geçirmek

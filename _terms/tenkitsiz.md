@@ -2,6 +2,7 @@
 layout: term
 title: tenkitsiz
 slug: tenkitsiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Eleştirisi olmayan

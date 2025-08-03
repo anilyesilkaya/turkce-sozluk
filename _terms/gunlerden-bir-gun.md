@@ -2,6 +2,7 @@
 layout: term
 title: günlerden bir gün
 slug: gunlerden-bir-gun
+letter: G
 lisan: Türkçe
 anlamlar:
 - herhangi bir gün, önceden belli olmayan bir gün, vaktiyle

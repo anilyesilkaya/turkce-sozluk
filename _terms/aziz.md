@@ -2,6 +2,7 @@
 layout: term
 title: aziz
 slug: aziz
+letter: A
 lisan: Arapça ʿazīz
 anlamlar:
 - ► ermiş

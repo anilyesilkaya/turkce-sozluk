@@ -2,6 +2,7 @@
 layout: term
 title: analık
 slug: analik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► annelik

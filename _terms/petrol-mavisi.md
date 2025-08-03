@@ -2,6 +2,7 @@
 layout: term
 title: petrol mavisi
 slug: petrol-mavisi
+letter: P
 lisan: Türkçe
 anlamlar:
 - Koyu mavi ile koyu yeşil karışımı bir renk

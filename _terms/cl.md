@@ -2,6 +2,7 @@
 layout: term
 title: Cl
 slug: cl
+letter: C
 lisan: Türkçe
 anlamlar:
 - Klor elementinin simgesi

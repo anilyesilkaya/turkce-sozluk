@@ -2,6 +2,7 @@
 layout: term
 title: balkıma
 slug: balkima
+letter: B
 lisan: Türkçe
 anlamlar:
 - Balkımak işi

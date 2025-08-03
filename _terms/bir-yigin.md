@@ -2,6 +2,7 @@
 layout: term
 title: bir yığın
 slug: bir-yigin
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► pek çok

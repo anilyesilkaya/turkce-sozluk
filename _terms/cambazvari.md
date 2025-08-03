@@ -2,6 +2,7 @@
 layout: term
 title: cambazvari
 slug: cambazvari
+letter: C
 lisan: Farsça cānbāz + vārį
 anlamlar:
 - Cambaz gibi, cambaza benzer

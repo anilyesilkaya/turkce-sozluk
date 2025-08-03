@@ -2,6 +2,7 @@
 layout: term
 title: mücevherli
 slug: mucevherli
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mücevher takınmış olan

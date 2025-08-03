@@ -2,6 +2,7 @@
 layout: term
 title: kıymetli
 slug: kiymetli
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► değerli

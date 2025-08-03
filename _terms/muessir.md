@@ -2,6 +2,7 @@
 layout: term
 title: müessir
 slug: muessir
+letter: M
 lisan: Arapça muʾes̱s̱ir
 anlamlar:
 - ► dokunaklı

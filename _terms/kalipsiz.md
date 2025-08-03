@@ -2,6 +2,7 @@
 layout: term
 title: kalıpsız
 slug: kalipsiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalıba dökülmemiş

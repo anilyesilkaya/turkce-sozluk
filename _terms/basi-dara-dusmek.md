@@ -2,6 +2,7 @@
 layout: term
 title: başı dara düşmek
 slug: basi-dara-dusmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - sıkıntıya girmek

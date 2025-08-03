@@ -2,6 +2,7 @@
 layout: term
 title: mağrur olmak
 slug: magrur-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - kibirlenmek, gururlanmak, kendini beğenmek

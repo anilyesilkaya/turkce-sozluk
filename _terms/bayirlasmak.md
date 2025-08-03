@@ -2,6 +2,7 @@
 layout: term
 title: bayırlaşmak
 slug: bayirlasmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Yer ve yol dik duruma gelmek

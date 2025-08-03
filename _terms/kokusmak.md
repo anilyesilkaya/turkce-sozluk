@@ -2,6 +2,7 @@
 layout: term
 title: kokuşmak
 slug: kokusmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çürüyüp bozularak kötü bir koku çıkarmak; kokmak, sasımak, taaffün etmek

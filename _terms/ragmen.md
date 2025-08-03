@@ -2,6 +2,7 @@
 layout: term
 title: rağmen
 slug: ragmen
+letter: R
 lisan: Arapça raġmen
 anlamlar:
 - ► karşın

@@ -2,6 +2,7 @@
 layout: term
 title: kuvvetle
 slug: kuvvetle
+letter: K
 lisan: Türkçe
 anlamlar:
 - Güçlü ve sağlam bir biçimde

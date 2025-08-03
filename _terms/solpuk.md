@@ -2,6 +2,7 @@
 layout: term
 title: sölpük
 slug: solpuk
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► sarkık

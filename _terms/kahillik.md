@@ -2,6 +2,7 @@
 layout: term
 title: kâhillik
 slug: kahillik
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► erişkinlik

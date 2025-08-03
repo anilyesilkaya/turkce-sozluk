@@ -2,6 +2,7 @@
 layout: term
 title: cerrahi
 slug: cerrahi
+letter: C
 lisan: Arapça cerrāḥī
 anlamlar:
 - Cerrahlıkla ilgili

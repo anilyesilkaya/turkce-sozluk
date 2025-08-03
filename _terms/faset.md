@@ -2,6 +2,7 @@
 layout: term
 title: faset
 slug: faset
+letter: F
 lisan: Fransızca facette
 anlamlar:
 - Baskı işlerinde harf ve satırları formada tutmak ve sıkmak için kullanılan kama

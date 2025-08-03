@@ -2,6 +2,7 @@
 layout: term
 title: lambalamak
 slug: lambalamak
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lamba ışığıyla incelemek

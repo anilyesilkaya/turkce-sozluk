@@ -2,6 +2,7 @@
 layout: term
 title: tam adamını bulmak (veya adamına düşmek)
 slug: tam-adamini-bulmak-veya-adamina-dusmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - en uygun kişiyi seçmek

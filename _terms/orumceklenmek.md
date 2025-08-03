@@ -2,6 +2,7 @@
 layout: term
 title: örümceklenmek
 slug: orumceklenmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Bir yer örümcek ağlarıyla dolmak

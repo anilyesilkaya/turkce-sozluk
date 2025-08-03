@@ -2,6 +2,7 @@
 layout: term
 title: mavera
 slug: mavera
+letter: M
 lisan: Arapça māverāʾ
 anlamlar:
 - ► öte

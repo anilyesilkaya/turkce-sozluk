@@ -2,6 +2,7 @@
 layout: term
 title: antoloji
 slug: antoloji
+letter: A
 lisan: Fransızca anthologie
 anlamlar:
 - ► seçki

@@ -2,6 +2,7 @@
 layout: term
 title: kurşun grisi
 slug: kursun-grisi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Koyu gri renk

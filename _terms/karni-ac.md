@@ -2,6 +2,7 @@
 layout: term
 title: karnı aç
 slug: karni-ac
+letter: K
 lisan: Türkçe
 anlamlar:
 - Acıkmış

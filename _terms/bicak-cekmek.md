@@ -2,6 +2,7 @@
 layout: term
 title: bıçak çekmek
 slug: bicak-cekmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - üzerindeki bıçağı birden eline alarak birine saplamaya hazırlanmak

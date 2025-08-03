@@ -2,6 +2,7 @@
 layout: term
 title: kargaşa
 slug: kargasa
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kışkırtma ve karışıklık yoluyla toplumda ortaya çıkan düzen bozukluğu; anarşi

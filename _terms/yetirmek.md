@@ -2,6 +2,7 @@
 layout: term
 title: yetirmek
 slug: yetirmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bitirmek, tamamlamak

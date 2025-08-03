@@ -2,6 +2,7 @@
 layout: term
 title: ışıldak
 slug: isildak
+letter: I
 lisan: Türkçe
 anlamlar:
 - Karanlıkta bir hedefi aydınlatmak için kullanılan dar, uzun bir ışın demeti çıkaran ışık kaynağı; projektör

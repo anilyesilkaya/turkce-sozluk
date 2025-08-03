@@ -2,6 +2,7 @@
 layout: term
 title: şivesizlik
 slug: sivesizlik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şivesiz olma durumu

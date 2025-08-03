@@ -2,6 +2,7 @@
 layout: term
 title: bağrına basmak
 slug: bagrina-basmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - kucaklamak

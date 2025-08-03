@@ -2,6 +2,7 @@
 layout: term
 title: erketelik yapmak
 slug: erketelik-yapmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - gözetlemek

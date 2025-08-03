@@ -2,6 +2,7 @@
 layout: term
 title: çirkefleşebilmek
 slug: cirkeflesebilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çirkefleşme ihtimali bulunmak

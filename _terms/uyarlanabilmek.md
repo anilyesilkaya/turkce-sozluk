@@ -2,6 +2,7 @@
 layout: term
 title: uyarlanabilmek
 slug: uyarlanabilmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyarlanma ihtimali veya imkânı bulunmak

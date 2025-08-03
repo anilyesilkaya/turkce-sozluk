@@ -2,6 +2,7 @@
 layout: term
 title: defter açmak
 slug: defter-acmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - para yardımı veya gönüllü toplamaya girişmek

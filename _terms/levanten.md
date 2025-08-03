@@ -2,6 +2,7 @@
 layout: term
 title: levanten
 slug: levanten
+letter: L
 lisan: Fransızca levantin
 anlamlar:
 - Özellikle Tanzimat sonrasında büyük liman kentlerinde yoğunlaşan ve ticaretle uğraşan Hristiyanlara verilen ad; tatlısu Frengi

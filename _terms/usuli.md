@@ -2,6 +2,7 @@
 layout: term
 title: usuli
 slug: usuli
+letter: U
 lisan: Arapça uṣūlį
 anlamlar:
 - Usulle ilgili olan

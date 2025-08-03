@@ -2,6 +2,7 @@
 layout: term
 title: oküler
 slug: okuler
+letter: O
 lisan: Fransızca oculaire
 anlamlar:
 - Optik aletlerinde objektiften aldığı ışınları göze veren mercek sistemi

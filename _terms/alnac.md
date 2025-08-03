@@ -2,6 +2,7 @@
 layout: term
 title: alnaç
 slug: alnac
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► cephe

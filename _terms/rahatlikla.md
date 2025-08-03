@@ -2,6 +2,7 @@
 layout: term
 title: rahatlıkla
 slug: rahatlikla
+letter: R
 lisan: Türkçe
 anlamlar:
 - ► kolaylıkla

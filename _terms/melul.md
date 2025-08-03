@@ -2,6 +2,7 @@
 layout: term
 title: melul
 slug: melul
+letter: M
 lisan: Arapça melūl
 anlamlar:
 - ► üzgün

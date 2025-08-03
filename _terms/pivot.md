@@ -2,6 +2,7 @@
 layout: term
 title: pivot
 slug: pivot
+letter: P
 lisan: İngilizce pivot
 anlamlar:
 - Basketbolda pota altında oynayan, genellikle uzun boylu oyuncu

@@ -2,6 +2,7 @@
 layout: term
 title: muavenet etmek
 slug: muavenet-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - yardım etmek

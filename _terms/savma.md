@@ -2,6 +2,7 @@
 layout: term
 title: savma
 slug: savma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Savmak işi; def, defetme, defleme, tardetme

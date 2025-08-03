@@ -2,6 +2,7 @@
 layout: term
 title: duruluk
 slug: duruluk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Duru olma durumu

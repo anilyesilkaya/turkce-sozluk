@@ -2,6 +2,7 @@
 layout: term
 title: damlacık
 slug: damlacik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Küçük damla

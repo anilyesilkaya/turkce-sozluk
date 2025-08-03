@@ -2,6 +2,7 @@
 layout: term
 title: maaile
 slug: maaile
+letter: M
 lisan: Arapça maʿaʿāʾile
 anlamlar:
 - ► ailece

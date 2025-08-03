@@ -2,6 +2,7 @@
 layout: term
 title: uzun uzun
 slug: uzun-uzun
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uzun süre devam edecek biçimde, uzun süre

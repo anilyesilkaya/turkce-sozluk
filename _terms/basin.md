@@ -2,6 +2,7 @@
 layout: term
 title: basın
 slug: basin
+letter: B
 lisan: Türkçe
 anlamlar:
 - Gazete, dergi gibi belirli zamanlarda çıkan yazılı yayınların bütünü; matbuat

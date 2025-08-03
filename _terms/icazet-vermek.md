@@ -2,6 +2,7 @@
 layout: term
 title: icazet vermek
 slug: icazet-vermek
+letter: I
 lisan: Türkçe
 anlamlar:
 - izin, onay vermek

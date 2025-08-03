@@ -2,6 +2,7 @@
 layout: term
 title: Oğlak Burcu
 slug: oglak-burcu
+letter: O
 lisan: Türkçe
 anlamlar:
 - Zodyak üzerinde Yay Burcu ile Kova Burcu arasında bulunan takımyıldızın adı; Oğlak, Cedi

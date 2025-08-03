@@ -2,6 +2,7 @@
 layout: term
 title: muslukçuluk
 slug: muslukculuk
+letter: M
 lisan: Türkçe
 anlamlar:
 - Muslukçunun yaptığı iş

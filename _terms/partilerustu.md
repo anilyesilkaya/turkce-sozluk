@@ -2,6 +2,7 @@
 layout: term
 title: partilerüstü
 slug: partilerustu
+letter: P
 lisan: Türkçe
 anlamlar:
 - Siyasi partilerin savunduğu görüş ve düşüncelerin üzerinde ülke gerçeklerine ve çıkarlarına uygun olarak birleştiricilik, uzlaştırıcılık özelliği olan (görüş, konu veya kimse)

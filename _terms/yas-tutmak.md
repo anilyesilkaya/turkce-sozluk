@@ -2,6 +2,7 @@
 layout: term
 title: yas tutmak
 slug: yas-tutmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - çok üzülmek, yasa bürünmek, matem tutmak

@@ -2,6 +2,7 @@
 layout: term
 title: kısmeti kesilmek
 slug: kismeti-kesilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - daha önceden kendisine nasip olan bir şey artık nasip olmamak

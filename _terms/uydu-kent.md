@@ -2,6 +2,7 @@
 layout: term
 title: uydu kent
 slug: uydu-kent
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ana kente bağlantılı olarak kurulan ve onun yükünü azaltmak amacıyla çevresinde oluşturulan yerleşim yeri

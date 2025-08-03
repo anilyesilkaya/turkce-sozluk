@@ -2,6 +2,7 @@
 layout: term
 title: katastrofik
 slug: katastrofik
+letter: K
 lisan: Fransızca catastrophique
 anlamlar:
 - ► yıkıcı

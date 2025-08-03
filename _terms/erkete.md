@@ -2,6 +2,7 @@
 layout: term
 title: erkete
 slug: erkete
+letter: E
 lisan: Rumca
 anlamlar:
 - ► gözetleme

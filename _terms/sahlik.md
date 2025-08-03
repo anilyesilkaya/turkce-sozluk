@@ -2,6 +2,7 @@
 layout: term
 title: şahlık
 slug: sahlik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şah olma durumu

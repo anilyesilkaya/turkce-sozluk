@@ -2,6 +2,7 @@
 layout: term
 title: fikir hayatı
 slug: fikir-hayati
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► düşünce hayatı

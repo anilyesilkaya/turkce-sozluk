@@ -2,6 +2,7 @@
 layout: term
 title: çoklu
 slug: coklu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - İçinde birden çok işlev barındıran

@@ -2,6 +2,7 @@
 layout: term
 title: gülle
 slug: gulle
+letter: G
 lisan: Türkçe
 anlamlar:
 - Eskiden som taş veya demirden, yuvarlak bir biçimde yapılırken, günümüzde çelikten silindir biçiminde, bir ucu sivri olarak yapılan top mermisi

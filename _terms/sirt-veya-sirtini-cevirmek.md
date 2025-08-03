@@ -2,6 +2,7 @@
 layout: term
 title: sırt (veya sırtını) çevirmek
 slug: sirt-veya-sirtini-cevirmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - bir şeye veya birine önem vermemek

@@ -2,6 +2,7 @@
 layout: term
 title: çobanlık
 slug: cobanlik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çoban olma durumu

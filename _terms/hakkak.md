@@ -2,6 +2,7 @@
 layout: term
 title: hakkâk
 slug: hakkak
+letter: H
 lisan: Arapça ḥakkāk
 anlamlar:
 - ► kakmacı

@@ -2,6 +2,7 @@
 layout: term
 title: siga
 slug: siga
+letter: S
 lisan: Arapça ṣįġa
 anlamlar:
 - ► fiil çekimi

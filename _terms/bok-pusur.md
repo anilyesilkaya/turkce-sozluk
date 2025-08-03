@@ -2,6 +2,7 @@
 layout: term
 title: bok püsür
 slug: bok-pusur
+letter: B
 lisan: Türkçe
 anlamlar:
 - Hoşa gitmeyen, can sıkan şey ve onun ayrıntı ve pürüzleri

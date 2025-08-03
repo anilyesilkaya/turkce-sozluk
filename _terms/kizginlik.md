@@ -2,6 +2,7 @@
 layout: term
 title: kızgınlık
 slug: kizginlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kızgın, ısınmış olma durumu

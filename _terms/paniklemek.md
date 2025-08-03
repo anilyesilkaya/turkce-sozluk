@@ -2,6 +2,7 @@
 layout: term
 title: paniklemek
 slug: paniklemek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Paniğe kapılmak

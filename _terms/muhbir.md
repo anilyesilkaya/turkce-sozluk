@@ -2,6 +2,7 @@
 layout: term
 title: muhbir
 slug: muhbir
+letter: M
 lisan: Arapça muḫbir
 anlamlar:
 - Yasa dışı olan bir durumu yetkili makamlara bildiren kimse; ihbarcı

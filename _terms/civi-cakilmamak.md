@@ -2,6 +2,7 @@
 layout: term
 title: çivi çakılmamak
 slug: civi-cakilmamak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - üzerine yeni bir şey yapılmamak

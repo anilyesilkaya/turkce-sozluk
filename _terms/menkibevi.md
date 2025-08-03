@@ -2,6 +2,7 @@
 layout: term
 title: menkıbevi
 slug: menkibevi
+letter: M
 lisan: Arapça menḳabevī
 anlamlar:
 - ► efsanevi

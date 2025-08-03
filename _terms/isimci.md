@@ -2,6 +2,7 @@
 layout: term
 title: isimci
 slug: isimci
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► adcı

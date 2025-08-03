@@ -2,6 +2,7 @@
 layout: term
 title: akşam ezanı
 slug: aksam-ezani
+letter: A
 lisan: Türkçe
 anlamlar:
 - Akşam namazının vaktinin geldiğini bildirmek için okunan ezan; akşam

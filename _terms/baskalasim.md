@@ -2,6 +2,7 @@
 layout: term
 title: başkalaşım
 slug: baskalasim
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başka bir varlığa veya niteliğe dönüşme, farklılık kazanma

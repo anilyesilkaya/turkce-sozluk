@@ -2,6 +2,7 @@
 layout: term
 title: el bezi
 slug: el-bezi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Kurulama ve temizleme işlerinde kullanılan bez

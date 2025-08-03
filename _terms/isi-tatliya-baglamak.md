@@ -2,6 +2,7 @@
 layout: term
 title: işi tatlıya bağlamak
 slug: isi-tatliya-baglamak
+letter: I
 lisan: Türkçe
 anlamlar:
 - sorunlu bir işi, iyi bir biçimde çözmek

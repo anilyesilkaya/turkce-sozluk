@@ -2,6 +2,7 @@
 layout: term
 title: köksellik
 slug: koksellik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kökle ilgili olma durumu

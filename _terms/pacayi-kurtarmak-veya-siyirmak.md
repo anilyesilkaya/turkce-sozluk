@@ -2,6 +2,7 @@
 layout: term
 title: paçayı kurtarmak (veya sıyırmak)
 slug: pacayi-kurtarmak-veya-siyirmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - kendini bir dertten, tehlikeden veya zor durumdan kurtarmak

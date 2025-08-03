@@ -2,6 +2,7 @@
 layout: term
 title: muhbirlik
 slug: muhbirlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Muhbir olma durumu; ihbarcılık

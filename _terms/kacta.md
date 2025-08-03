@@ -2,6 +2,7 @@
 layout: term
 title: kaçta
 slug: kacta
+letter: K
 lisan: Türkçe
 anlamlar:
 - Ne zaman?

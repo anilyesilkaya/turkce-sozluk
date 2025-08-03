@@ -2,6 +2,7 @@
 layout: term
 title: vadi
 slug: vadi
+letter: V
 lisan: Arapça vādī
 anlamlar:
 - İki dağ arasındaki çukurca arazi veya geçit; koyak

@@ -2,6 +2,7 @@
 layout: term
 title: sesli uyumu
 slug: sesli-uyumu
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► ünlü uyumu

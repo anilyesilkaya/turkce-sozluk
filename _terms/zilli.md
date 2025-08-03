@@ -2,6 +2,7 @@
 layout: term
 title: zilli
 slug: zilli
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zili olan, üstünde zili bulunan

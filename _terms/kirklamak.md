@@ -2,6 +2,7 @@
 layout: term
 title: kırklamak
 slug: kirklamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Lohusa veya yeni doğmuş bebek için kırk günü doldurmak

@@ -2,6 +2,7 @@
 layout: term
 title: çocuksuluk
 slug: cocuksuluk
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çocuksu olma durumu

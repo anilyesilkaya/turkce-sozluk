@@ -2,6 +2,7 @@
 layout: term
 title: tavuskuyruğu
 slug: tavuskuyrugu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Sarhoş kusmuğu

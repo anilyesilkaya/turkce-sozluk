@@ -2,6 +2,7 @@
 layout: term
 title: sürükleyici
 slug: surukleyici
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sürükleme niteliği veya gücü olan; dinamo

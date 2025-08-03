@@ -2,6 +2,7 @@
 layout: term
 title: bağırta bağırta
 slug: bagirta-bagirta
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağırtarak

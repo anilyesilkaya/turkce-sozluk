@@ -2,6 +2,7 @@
 layout: term
 title: yolunu değiştirmek
 slug: yolunu-degistirmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - gittiği yoldan ayrılarak başka yola geçmek

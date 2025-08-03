@@ -2,6 +2,7 @@
 layout: term
 title: ne âlâ
 slug: ne-ala
+letter: N
 lisan: Türkçe
 anlamlar:
 - '"Ne iyi, diyecek bir şey yok" anlamlarında kullanılan bir söz'

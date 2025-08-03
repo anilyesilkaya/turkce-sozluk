@@ -2,6 +2,7 @@
 layout: term
 title: bekleyebilmek
 slug: bekleyebilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bekleme ihtimali veya imkânı bulunmak

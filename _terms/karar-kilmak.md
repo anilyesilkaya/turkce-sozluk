@@ -2,6 +2,7 @@
 layout: term
 title: karar kılmak
 slug: karar-kilmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - birçok şeyi deneyip birini seçmek

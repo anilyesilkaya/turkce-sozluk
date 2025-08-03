@@ -2,6 +2,7 @@
 layout: term
 title: aksi
 slug: aksi
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► karşıt

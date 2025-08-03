@@ -2,6 +2,7 @@
 layout: term
 title: düz tümleç
 slug: duz-tumlec
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► nesne

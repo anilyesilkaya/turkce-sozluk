@@ -2,6 +2,7 @@
 layout: term
 title: mah
 slug: mah
+letter: M
 lisan: Farsça māh
 anlamlar:
 - ► ay (II)

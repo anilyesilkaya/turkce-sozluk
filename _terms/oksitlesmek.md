@@ -2,6 +2,7 @@
 layout: term
 title: oksitleşmek
 slug: oksitlesmek
+letter: O
 lisan: Türkçe
 anlamlar:
 - Bir element veya birleşik okside dönüşmek

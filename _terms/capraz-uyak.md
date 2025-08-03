@@ -2,6 +2,7 @@
 layout: term
 title: çapraz uyak
 slug: capraz-uyak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çapraz kafiye

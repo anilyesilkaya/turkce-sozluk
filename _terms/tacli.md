@@ -2,6 +2,7 @@
 layout: term
 title: taçlı
 slug: tacli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tacı olan

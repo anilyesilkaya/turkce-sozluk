@@ -2,6 +2,7 @@
 layout: term
 title: cirit oynamak
 slug: cirit-oynamak
+letter: C
 lisan: Türkçe
 anlamlar:
 - cirit oyununu oynamak

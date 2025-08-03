@@ -2,6 +2,7 @@
 layout: term
 title: basamaklanmak
 slug: basamaklanmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Basamaklamak işi yapılmak

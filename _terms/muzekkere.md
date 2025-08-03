@@ -2,6 +2,7 @@
 layout: term
 title: müzekkere
 slug: muzekkere
+letter: M
 lisan: Arapça muẕekkere
 anlamlar:
 - Bir iş için herhangi bir üst makama yazılan yazı

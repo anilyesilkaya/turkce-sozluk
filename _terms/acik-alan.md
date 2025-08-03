@@ -2,6 +2,7 @@
 layout: term
 title: açık alan
 slug: acik-alan
+letter: A
 lisan: Türkçe
 anlamlar:
 - Şehrin gürültüsünden uzak, insanların dinlenebilecekleri çeşitli bitkilerle kaplı yer

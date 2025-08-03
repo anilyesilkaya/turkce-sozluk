@@ -2,6 +2,7 @@
 layout: term
 title: kafasının etini yemek
 slug: kafasinin-etini-yemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - başının etini yemek

@@ -2,6 +2,7 @@
 layout: term
 title: camgöz
 slug: camgoz
+letter: C
 lisan: Türkçe
 anlamlar:
 - Deniz kıyısına yakın yaşayan, yanlarında veya sırtında beyaz lekeleri bulunan, gözü parlak olan, eti yenebilen bir tür köpek balığı (Galeius canis)

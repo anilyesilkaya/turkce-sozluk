@@ -2,6 +2,7 @@
 layout: term
 title: tetkik
 slug: tetkik
+letter: T
 lisan: Arapça tedḳīḳ
 anlamlar:
 - ► inceleme

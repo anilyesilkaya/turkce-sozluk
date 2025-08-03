@@ -2,6 +2,7 @@
 layout: term
 title: nardenk
 slug: nardenk
+letter: N
 lisan: Farsça nārdeng
 anlamlar:
 - Nar, erik, kızılcık vb. yemişlerden yapılan pekmez

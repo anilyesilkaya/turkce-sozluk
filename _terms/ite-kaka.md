@@ -2,6 +2,7 @@
 layout: term
 title: ite kaka
 slug: ite-kaka
+letter: I
 lisan: Türkçe
 anlamlar:
 - Kaba ve hoyrat bir biçimde iterek

@@ -2,6 +2,7 @@
 layout: term
 title: aksak
 slug: aksak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aksayan, hafifçe topallayan

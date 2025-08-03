@@ -2,6 +2,7 @@
 layout: term
 title: dağ bayır
 slug: dag-bayir
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► kır (II)

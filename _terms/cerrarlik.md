@@ -2,6 +2,7 @@
 layout: term
 title: cerrarlık
 slug: cerrarlik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cerrar olma durumu

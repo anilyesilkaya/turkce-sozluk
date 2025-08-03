@@ -2,6 +2,7 @@
 layout: term
 title: inceldiği yerden kopmak
 slug: inceldigi-yerden-kopmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - sonucu neye varırsa varsın

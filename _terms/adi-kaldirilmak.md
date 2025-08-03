@@ -2,6 +2,7 @@
 layout: term
 title: adı kaldırılmak
 slug: adi-kaldirilmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - anılmaz olmak, silinip gitmek

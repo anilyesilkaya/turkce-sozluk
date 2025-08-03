@@ -2,6 +2,7 @@
 layout: term
 title: küremsi
 slug: kuremsi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Küreye benzeyen, küreyi andıran, küre gibi

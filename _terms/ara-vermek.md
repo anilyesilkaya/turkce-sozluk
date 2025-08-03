@@ -2,6 +2,7 @@
 layout: term
 title: ara vermek
 slug: ara-vermek
+letter: A
 lisan: Türkçe
 anlamlar:
 - yeniden başlamak için bir işi bir süre bırakmak, durmak

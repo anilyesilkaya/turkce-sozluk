@@ -2,6 +2,7 @@
 layout: term
 title: birleşik oy pusulası
 slug: birlesik-oy-pusulasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Seçime katılan partileri simgeleriyle tek bir kâğıt üzerinde ayrı ayrı gösteren oy pusulası

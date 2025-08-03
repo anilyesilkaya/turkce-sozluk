@@ -2,6 +2,7 @@
 layout: term
 title: mahallevari
 slug: mahallevari
+letter: M
 lisan: Arapça maḥalle + Farsça -vārī
 anlamlar:
 - Mahalle yaşayışına uygun

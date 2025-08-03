@@ -2,6 +2,7 @@
 layout: term
 title: kostik
 slug: kostik
+letter: K
 lisan: Fransızca caustique
 anlamlar:
 - Hayvan ve bitki dokularını yakan, aşındıran

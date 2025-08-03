@@ -2,6 +2,7 @@
 layout: term
 title: bilincine varmak
 slug: bilincine-varmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - anlamak, kavramak

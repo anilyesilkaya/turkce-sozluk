@@ -2,6 +2,7 @@
 layout: term
 title: tuzcul
 slug: tuzcul
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tuzlu toprakları seven (bitki)

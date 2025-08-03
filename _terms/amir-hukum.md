@@ -2,6 +2,7 @@
 layout: term
 title: amir hüküm
 slug: amir-hukum
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yürürlükte ve uygulanması zorunlu olan hüküm

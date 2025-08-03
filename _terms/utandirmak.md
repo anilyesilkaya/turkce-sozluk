@@ -2,6 +2,7 @@
 layout: term
 title: utandırmak
 slug: utandirmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Utanmasına sebep olmak, utanmasına yol açmak

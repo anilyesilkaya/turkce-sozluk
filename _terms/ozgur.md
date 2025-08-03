@@ -2,6 +2,7 @@
 layout: term
 title: özgür
 slug: ozgur
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Herhangi bir kısıtlamaya, zorlamaya, şarta bağlı olmayan; serbest, hür, azat, azade

@@ -2,6 +2,7 @@
 layout: term
 title: marifet
 slug: marifet
+letter: M
 lisan: Arapça maʿrifet
 anlamlar:
 - Herhangi bir işi yapmada ustalık

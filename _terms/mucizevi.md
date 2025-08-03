@@ -2,6 +2,7 @@
 layout: term
 title: mucizevi
 slug: mucizevi
+letter: M
 lisan: Arapça muʿcizevī
 anlamlar:
 - ► mucizeli

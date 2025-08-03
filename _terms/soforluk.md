@@ -2,6 +2,7 @@
 layout: term
 title: şoförlük
 slug: soforluk
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şoför olma durumu; sürücülük

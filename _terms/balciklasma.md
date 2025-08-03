@@ -2,6 +2,7 @@
 layout: term
 title: balçıklaşma
 slug: balciklasma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Balçıklaşmak durumu

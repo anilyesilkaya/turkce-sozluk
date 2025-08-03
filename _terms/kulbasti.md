@@ -2,6 +2,7 @@
 layout: term
 title: külbastı
 slug: kulbasti
+letter: K
 lisan: Türkçe
 anlamlar:
 - Közde veya ızgarada pişirilen kemiksiz et

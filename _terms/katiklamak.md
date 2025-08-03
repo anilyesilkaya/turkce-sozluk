@@ -2,6 +2,7 @@
 layout: term
 title: katıklamak
 slug: katiklamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Katık etmek

@@ -2,6 +2,7 @@
 layout: term
 title: vadedilmek
 slug: vadedilmek
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vadetme işi yapılmak

@@ -2,6 +2,7 @@
 layout: term
 title: icabında
 slug: icabinda
+letter: I
 lisan: Türkçe
 anlamlar:
 - Gerekince, gerekirse

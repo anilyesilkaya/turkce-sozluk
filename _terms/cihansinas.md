@@ -2,6 +2,7 @@
 layout: term
 title: cihanşinas
 slug: cihansinas
+letter: C
 lisan: Farsça cihānşinās
 anlamlar:
 - Dünyayı tanımış, her şeyi yerli yerinde bilen (kimse)

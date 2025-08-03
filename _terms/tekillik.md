@@ -2,6 +2,7 @@
 layout: term
 title: tekillik
 slug: tekillik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tekil olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: armatörlük
 slug: armatorluk
+letter: A
 lisan: Türkçe
 anlamlar:
 - Armatör olma durumu

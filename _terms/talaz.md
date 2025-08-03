@@ -2,6 +2,7 @@
 layout: term
 title: talaz
 slug: talaz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Büyük ve kabarık dalga

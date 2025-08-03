@@ -2,6 +2,7 @@
 layout: term
 title: hoşça
 slug: hosca
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hoş bir biçimde olan

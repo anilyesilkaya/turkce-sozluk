@@ -2,6 +2,7 @@
 layout: term
 title: aklı yatmak
 slug: akli-yatmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - anlamaya başlamak, olacağına inanmak

@@ -2,6 +2,7 @@
 layout: term
 title: denizşakayıkları
 slug: denizsakayiklari
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► denizgülleri

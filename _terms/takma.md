@@ -2,6 +2,7 @@
 layout: term
 title: takma
 slug: takma
+letter: T
 lisan: Türkçe
 anlamlar:
 - Takmak işi

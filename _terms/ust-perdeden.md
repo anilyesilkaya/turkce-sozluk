@@ -2,6 +2,7 @@
 layout: term
 title: üst perdeden
 slug: ust-perdeden
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Yüksekten

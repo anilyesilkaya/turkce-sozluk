@@ -2,6 +2,7 @@
 layout: term
 title: kapılış
 slug: kapilis
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kapılmak işi

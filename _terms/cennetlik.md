@@ -2,6 +2,7 @@
 layout: term
 title: cennetlik
 slug: cennetlik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Öldükten sonra yerinin cennet olacağına inanılan (kimse); cennetmekân

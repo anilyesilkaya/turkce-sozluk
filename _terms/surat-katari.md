@@ -2,6 +2,7 @@
 layout: term
 title: sürat katarı
 slug: surat-katari
+letter: S
 lisan: Türkçe
 anlamlar:
 - Hat üzerinde belli duraklarda duran, her yerde durmayan tren

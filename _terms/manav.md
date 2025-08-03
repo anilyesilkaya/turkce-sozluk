@@ -2,6 +2,7 @@
 layout: term
 title: Manav
 slug: manav
+letter: M
 lisan: Türkçe
 anlamlar:
 - Batı Anadolu’da, özellikle Eskişehir yöresinde yerleşik hayata erken dönemde geçmiş olan Türk topluluğu

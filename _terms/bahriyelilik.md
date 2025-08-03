@@ -2,6 +2,7 @@
 layout: term
 title: bahriyelilik
 slug: bahriyelilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bahriyeli olma durumu

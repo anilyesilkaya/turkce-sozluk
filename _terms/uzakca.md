@@ -2,6 +2,7 @@
 layout: term
 title: uzakça
 slug: uzakca
+letter: U
 lisan: Türkçe
 anlamlar:
 - Biraz uzak olan

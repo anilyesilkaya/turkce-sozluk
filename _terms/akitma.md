@@ -2,6 +2,7 @@
 layout: term
 title: akıtma
 slug: akitma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Akıtmak işi; isale

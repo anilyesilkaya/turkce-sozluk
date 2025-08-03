@@ -2,6 +2,7 @@
 layout: term
 title: saygısızlık
 slug: saygisizlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Saygısız olma durumu; hürmetsizlik

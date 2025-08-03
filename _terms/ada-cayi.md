@@ -2,6 +2,7 @@
 layout: term
 title: ada çayı
 slug: ada-cayi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ballıbabagillerden, yurdumuzda çok yetişen tüylü ve beyazımtırak yaprakları olan güzel kokulu bir bitki; dağ çayı (Salvia officinalis)

@@ -2,6 +2,7 @@
 layout: term
 title: yel üfürdü, sel (veya su) götürdü
 slug: yel-ufurdu-sel-veya-su-goturdu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - '"mal birdenbire ve sebepsiz yere ortadan yok oluverdi" anlamında kullanılan bir söz'

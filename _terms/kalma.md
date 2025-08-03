@@ -2,6 +2,7 @@
 layout: term
 title: kalma
 slug: kalma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalmak işi

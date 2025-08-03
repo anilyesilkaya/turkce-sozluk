@@ -2,6 +2,7 @@
 layout: term
 title: diş bademi
 slug: dis-bademi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Kabuğu ince olduğu için dişle kırılabilen bir badem türü; sakız bademi

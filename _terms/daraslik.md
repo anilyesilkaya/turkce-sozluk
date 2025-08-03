@@ -2,6 +2,7 @@
 layout: term
 title: daraşlık
 slug: daraslik
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► darlık

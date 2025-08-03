@@ -2,6 +2,7 @@
 layout: term
 title: 'manipülatif '
 slug: manipulatif
+letter: M
 lisan: İngilizce manipulative
 anlamlar:
 - Yönlendirmeye uygun, kolayca yönlendirilebilen

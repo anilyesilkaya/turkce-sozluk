@@ -2,6 +2,7 @@
 layout: term
 title: kene gibi yapışmak
 slug: kene-gibi-yapismak
+letter: K
 lisan: Türkçe
 anlamlar:
 - istenmediği hâlde birinin peşini bırakmamak, yakasını bırakmamak

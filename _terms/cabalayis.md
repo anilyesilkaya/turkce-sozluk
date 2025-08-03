@@ -2,6 +2,7 @@
 layout: term
 title: çabalayış
 slug: cabalayis
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çabalamak işi

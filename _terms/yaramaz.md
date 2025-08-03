@@ -2,6 +2,7 @@
 layout: term
 title: yaramaz
 slug: yaramaz
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Uygun ve yararlı olmayan, bir işe yaramayan

@@ -2,6 +2,7 @@
 layout: term
 title: bir çuval dolusu
 slug: bir-cuval-dolusu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir çuvalın alacağı miktarda

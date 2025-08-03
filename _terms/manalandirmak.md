@@ -2,6 +2,7 @@
 layout: term
 title: manalandırmak
 slug: manalandirmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - Anlam vermek

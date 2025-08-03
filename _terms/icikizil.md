@@ -2,6 +2,7 @@
 layout: term
 title: içikızıl
 slug: icikizil
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► çayır mantarı

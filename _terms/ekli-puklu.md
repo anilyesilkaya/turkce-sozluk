@@ -2,6 +2,7 @@
 layout: term
 title: ekli püklü
 slug: ekli-puklu
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ekli, yamalı ve düzensiz

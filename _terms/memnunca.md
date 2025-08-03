@@ -2,6 +2,7 @@
 layout: term
 title: memnunca
 slug: memnunca
+letter: M
 lisan: Türkçe
 anlamlar:
 - Memnun gibi, az çok memnun

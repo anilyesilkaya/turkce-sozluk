@@ -2,6 +2,7 @@
 layout: term
 title: müsavat
 slug: musavat
+letter: M
 lisan: Arapça musāvāt
 anlamlar:
 - ► eşitlik

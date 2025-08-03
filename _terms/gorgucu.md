@@ -2,6 +2,7 @@
 layout: term
 title: görgücü
 slug: gorgucu
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► deneyci

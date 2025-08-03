@@ -2,6 +2,7 @@
 layout: term
 title: ders vermek
 slug: ders-vermek
+letter: D
 lisan: Türkçe
 anlamlar:
 - öğretmek, yetiştirmek

@@ -2,6 +2,7 @@
 layout: term
 title: onarım
 slug: onarim
+letter: O
 lisan: Türkçe
 anlamlar:
 - Onarmak işi; tamirat, tamir

@@ -2,6 +2,7 @@
 layout: term
 title: bitiş çizgisi
 slug: bitis-cizgisi
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► varış çizgisi

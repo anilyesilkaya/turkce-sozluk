@@ -2,6 +2,7 @@
 layout: term
 title: adam
 slug: adam
+letter: A
 lisan: Arapça ādem
 anlamlar:
 - ► insan

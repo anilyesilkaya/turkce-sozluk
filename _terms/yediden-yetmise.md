@@ -2,6 +2,7 @@
 layout: term
 title: yediden yetmişe
 slug: yediden-yetmise
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► herkes

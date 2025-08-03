@@ -2,6 +2,7 @@
 layout: term
 title: kaşarlanmak
 slug: kasarlanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir işte, bir konuda ustalaşmak çok deneyim kazanmak

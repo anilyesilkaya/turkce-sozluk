@@ -2,6 +2,7 @@
 layout: term
 title: şeytan diyor ki
 slug: seytan-diyor-ki
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - yapılmaması gereken bir davranışı yapma isteği duyulduğunda söylenen bir söz

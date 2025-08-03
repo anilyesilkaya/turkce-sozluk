@@ -2,6 +2,7 @@
 layout: term
 title: çözgü
 slug: cozgu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Dokumacılıkta atkıların geçirildiği uzunlamasına ipler; arış (II)

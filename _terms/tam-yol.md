@@ -2,6 +2,7 @@
 layout: term
 title: tam yol
 slug: tam-yol
+letter: T
 lisan: Türkçe
 anlamlar:
 - Çok çabuk, yüksek hızda, süratli olan

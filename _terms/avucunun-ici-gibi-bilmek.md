@@ -2,6 +2,7 @@
 layout: term
 title: avucunun içi gibi bilmek
 slug: avucunun-ici-gibi-bilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir yeri, bir şeyi çok iyi ve ayrıntılı olarak bilmek

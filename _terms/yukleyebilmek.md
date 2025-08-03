@@ -2,6 +2,7 @@
 layout: term
 title: yükleyebilmek
 slug: yukleyebilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yükleme ihtimali veya imkânı bulunmak

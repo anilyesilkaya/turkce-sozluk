@@ -2,6 +2,7 @@
 layout: term
 title: beğendirmek
 slug: begendirmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beğenilmesini, hoş görünmesini sağlamak

@@ -2,6 +2,7 @@
 layout: term
 title: beyni allak bullak olmak
 slug: beyni-allak-bullak-olmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - iyi düşünemez olmak, zihni karışmak

@@ -2,6 +2,7 @@
 layout: term
 title: tasarruf
 slug: tasarruf
+letter: T
 lisan: Arapça taṣarruf
 anlamlar:
 - Bir şeye sahip olma ve onu istediği gibi kullanma yetkisi; kullanım

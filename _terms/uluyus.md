@@ -2,6 +2,7 @@
 layout: term
 title: uluyuş
 slug: uluyus
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ulumak işi

@@ -2,6 +2,7 @@
 layout: term
 title: aile meclisi
 slug: aile-meclisi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aile bireylerinin ortak görüşlerini belirleyen ve yerine getiren heyet

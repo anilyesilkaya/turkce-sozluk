@@ -2,6 +2,7 @@
 layout: term
 title: dizeli
 slug: dizeli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dizesi olan

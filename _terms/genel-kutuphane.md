@@ -2,6 +2,7 @@
 layout: term
 title: genel kütüphane
 slug: genel-kutuphane
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bütün alanlarda yazılmış ve yayımlanmış kitapları, süreli yayınları ve belgeleri bünyesinde toplayan, herkesin yararlanabildiği kütüphane

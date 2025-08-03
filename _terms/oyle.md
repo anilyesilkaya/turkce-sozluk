@@ -2,6 +2,7 @@
 layout: term
 title: öyle
 slug: oyle
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Onun gibi olan, ona benzer; o biçimde, o şekilde

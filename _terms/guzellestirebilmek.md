@@ -2,6 +2,7 @@
 layout: term
 title: güzelleştirebilmek
 slug: guzellestirebilmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güzelleştirme ihtimali veya imkânı bulunmak

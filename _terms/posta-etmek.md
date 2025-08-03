@@ -2,6 +2,7 @@
 layout: term
 title: posta etmek
 slug: posta-etmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - görevliler, birini resmî bir daireye götürmek

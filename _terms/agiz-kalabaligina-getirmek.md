@@ -2,6 +2,7 @@
 layout: term
 title: ağız kalabalığına getirmek
 slug: agiz-kalabaligina-getirmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - birini gereksiz sözlerle şaşırtmak

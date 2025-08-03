@@ -2,6 +2,7 @@
 layout: term
 title: çok anlamlı
 slug: cok-anlamli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Temel anlamı yanında, başka anlamları da karşılayan (kelime)

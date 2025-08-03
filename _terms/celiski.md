@@ -2,6 +2,7 @@
 layout: term
 title: çelişki
 slug: celiski
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Sözlerin veya davranışların birbirini tutmaması; tenakuz, paradoks

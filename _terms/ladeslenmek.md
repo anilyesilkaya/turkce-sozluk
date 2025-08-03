@@ -2,6 +2,7 @@
 layout: term
 title: ladeslenmek
 slug: ladeslenmek
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lades oyununda yenilmek

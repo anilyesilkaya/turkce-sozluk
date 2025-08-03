@@ -2,6 +2,7 @@
 layout: term
 title: fıstıki makam
 slug: fistiki-makam
+letter: F
 lisan: Türkçe
 anlamlar:
 - Ağır, yavaş biçimde

@@ -2,6 +2,7 @@
 layout: term
 title: fıtır sadakası
 slug: fitir-sadakasi
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► fitre

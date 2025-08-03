@@ -2,6 +2,7 @@
 layout: term
 title: tehditsiz
 slug: tehditsiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tehdidi bulunmayan, tehditten uzak

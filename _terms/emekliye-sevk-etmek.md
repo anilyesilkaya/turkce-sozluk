@@ -2,6 +2,7 @@
 layout: term
 title: emekliye sevk etmek
 slug: emekliye-sevk-etmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - emekliye ayırmak

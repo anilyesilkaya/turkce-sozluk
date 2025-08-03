@@ -2,6 +2,7 @@
 layout: term
 title: ciltlettirmek
 slug: ciltlettirmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cilt yaptırmak

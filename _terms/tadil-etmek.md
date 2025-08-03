@@ -2,6 +2,7 @@
 layout: term
 title: tadil etmek
 slug: tadil-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - değiştirmek

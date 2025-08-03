@@ -2,6 +2,7 @@
 layout: term
 title: iç geçirmek
 slug: ic-gecirmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - derin soluk alarak üzüntüsünü belli etmek

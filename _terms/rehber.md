@@ -2,6 +2,7 @@
 layout: term
 title: rehber
 slug: rehber
+letter: R
 lisan: Farsça rehber
 anlamlar:
 - ► kılavuz

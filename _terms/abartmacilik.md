@@ -2,6 +2,7 @@
 layout: term
 title: abartmacılık
 slug: abartmacilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► abartıcılık

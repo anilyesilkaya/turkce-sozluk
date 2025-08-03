@@ -2,6 +2,7 @@
 layout: term
 title: eli nimetli
 slug: eli-nimetli
+letter: E
 lisan: Türkçe
 anlamlar:
 - Uğurlu, bereketli olan

@@ -2,6 +2,7 @@
 layout: term
 title: ölçüsüz
 slug: olcusuz
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ölçülmemiş, ölçüsü alınmamış olan

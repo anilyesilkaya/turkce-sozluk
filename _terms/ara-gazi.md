@@ -2,6 +2,7 @@
 layout: term
 title: ara gazı
 slug: ara-gazi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Eski model karbüratörlü kamyonlarda veya otobüslerde vites düşürülürken şanzıman devrinin motora uygulayacağı baskıyı hafifletmek için uygulanan bir yöntem

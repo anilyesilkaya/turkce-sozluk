@@ -2,6 +2,7 @@
 layout: term
 title: konçlu
 slug: konclu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Koncu olan

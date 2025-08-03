@@ -2,6 +2,7 @@
 layout: term
 title: haykırtmak
 slug: haykirtmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Haykırmasına yol açmak

@@ -2,6 +2,7 @@
 layout: term
 title: topu dikmek
 slug: topu-dikmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - topu ayakla hızlı bir biçimde havaya doğru atmak

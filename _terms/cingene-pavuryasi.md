@@ -2,6 +2,7 @@
 layout: term
 title: Çingene pavuryası
 slug: cingene-pavuryasi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Yengecin küçüğü

@@ -2,6 +2,7 @@
 layout: term
 title: fırıncı
 slug: firinci
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fırın işleten kimse

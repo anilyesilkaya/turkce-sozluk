@@ -2,6 +2,7 @@
 layout: term
 title: Anadolulu
 slug: anadolulu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anadolu halkından olan kimse

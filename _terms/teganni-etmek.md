@@ -2,6 +2,7 @@
 layout: term
 title: teganni etmek
 slug: teganni-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - şarkı söylemek

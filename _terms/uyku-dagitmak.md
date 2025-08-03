@@ -2,6 +2,7 @@
 layout: term
 title: uyku dağıtmak
 slug: uyku-dagitmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - uyumasına engel olmak

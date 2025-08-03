@@ -2,6 +2,7 @@
 layout: term
 title: zıbarıp yatmak
 slug: zibarip-yatmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - yatıp uyumak

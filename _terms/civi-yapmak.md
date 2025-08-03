@@ -2,6 +2,7 @@
 layout: term
 title: çivi yapmak
 slug: civi-yapmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - voleybolda topu sert olarak karşı alana indirmek

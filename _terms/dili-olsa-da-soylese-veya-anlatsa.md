@@ -2,6 +2,7 @@
 layout: term
 title: dili olsa da söylese (veya anlatsa)
 slug: dili-olsa-da-soylese-veya-anlatsa
+letter: D
 lisan: Türkçe
 anlamlar:
 - '"cansız nesneler konuşabilseler bazı olaylara tanıklık da edebilirler" anlamında kullanılan bir söz'

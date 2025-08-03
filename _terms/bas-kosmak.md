@@ -2,6 +2,7 @@
 layout: term
 title: baş koşmak
 slug: bas-kosmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir işi başarmak için çalışmak

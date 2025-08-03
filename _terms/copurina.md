@@ -2,6 +2,7 @@
 layout: term
 title: çopurina
 slug: copurina
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - İzmarite benzer bir balık

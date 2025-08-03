@@ -2,6 +2,7 @@
 layout: term
 title: ah etmek
 slug: ah-etmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - acı ile içini çekmek

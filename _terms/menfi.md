@@ -2,6 +2,7 @@
 layout: term
 title: menfi
 slug: menfi
+letter: M
 lisan: Arapça menfī
 anlamlar:
 - ► olumsuz

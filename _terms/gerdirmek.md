@@ -2,6 +2,7 @@
 layout: term
 title: gerdirmek
 slug: gerdirmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Germe işini yaptırmak

@@ -2,6 +2,7 @@
 layout: term
 title: sigorta
 slug: sigorta
+letter: S
 lisan: İtalyanca sicurta
 anlamlar:
 - Bir şeyin veya bir kimsenin herhangi bir yönden ileride karşılaşabileceği zararı gidermek için önceden ödenen prim karşılığında bu işle uğraşan kuruluşla yapılan iki taraflı bağlantı sözleşmesi

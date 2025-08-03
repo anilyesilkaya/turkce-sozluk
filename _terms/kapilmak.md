@@ -2,6 +2,7 @@
 layout: term
 title: kapılmak
 slug: kapilmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kapma işine konu olmak

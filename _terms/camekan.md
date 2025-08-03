@@ -2,6 +2,7 @@
 layout: term
 title: camekân
 slug: camekan
+letter: C
 lisan: Farsça cāmekān
 anlamlar:
 - ► vitrin

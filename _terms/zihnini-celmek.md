@@ -2,6 +2,7 @@
 layout: term
 title: zihnini çelmek
 slug: zihnini-celmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - bir kimseyi yanıltmak, yanlış yola sürüklemek

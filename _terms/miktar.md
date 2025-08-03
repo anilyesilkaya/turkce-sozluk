@@ -2,6 +2,7 @@
 layout: term
 title: miktar
 slug: miktar
+letter: M
 lisan: Arapça miḳdār
 anlamlar:
 - ► nicelik

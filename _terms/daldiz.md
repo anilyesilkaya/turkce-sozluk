@@ -2,6 +2,7 @@
 layout: term
 title: daldız
 slug: daldiz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Marangozların kullandığı ağaç oymaya yarayan oluklu demir alet

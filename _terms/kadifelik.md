@@ -2,6 +2,7 @@
 layout: term
 title: kadifelik
 slug: kadifelik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kadife gibi olma durumu

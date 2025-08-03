@@ -2,6 +2,7 @@
 layout: term
 title: vakarlı
 slug: vakarli
+letter: V
 lisan: Türkçe
 anlamlar:
 - ► ağırbaşlı

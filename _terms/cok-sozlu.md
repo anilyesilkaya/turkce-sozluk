@@ -2,6 +2,7 @@
 layout: term
 title: çok sözlü
 slug: cok-sozlu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Tatlı dilli, konuşkan olan

@@ -2,6 +2,7 @@
 layout: term
 title: selam (veya selama) durmak
 slug: selam-veya-selama-durmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - bir büyüğe, bir üste veya saygı duyulan bir şeye ayakta selam vermek

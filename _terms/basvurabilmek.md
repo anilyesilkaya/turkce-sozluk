@@ -2,6 +2,7 @@
 layout: term
 title: başvurabilmek
 slug: basvurabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başvurma ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: gülünmek
 slug: gulunmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gülme işi yapılmak

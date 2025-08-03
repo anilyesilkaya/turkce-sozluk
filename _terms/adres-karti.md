@@ -2,6 +2,7 @@
 layout: term
 title: adres kartı
 slug: adres-karti
+letter: A
 lisan: Türkçe
 anlamlar:
 - Üzerinde iletişim bilgilerinin yer aldığı kart

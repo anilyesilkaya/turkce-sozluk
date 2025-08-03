@@ -2,6 +2,7 @@
 layout: term
 title: eza
 slug: eza
+letter: E
 lisan: Arapça eẕāʾ
 anlamlar:
 - ► üzüntü

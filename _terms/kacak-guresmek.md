@@ -2,6 +2,7 @@
 layout: term
 title: kaçak güreşmek
 slug: kacak-guresmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - güreşirken rakibine uzak durmayı, hücumu değil kaçmayı tercih etmek

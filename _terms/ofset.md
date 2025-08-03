@@ -2,6 +2,7 @@
 layout: term
 title: ofset
 slug: ofset
+letter: O
 lisan: İngilizce offset
 anlamlar:
 - Bir kalıba çıkarılan izleri önce kauçuğa, kauçuktan da kâğıda geçirmeye dayalı, çift kopyalı baskı yöntemi

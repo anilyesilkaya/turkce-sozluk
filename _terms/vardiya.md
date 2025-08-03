@@ -2,6 +2,7 @@
 layout: term
 title: vardiya
 slug: vardiya
+letter: V
 lisan: İtalyanca guardia
 anlamlar:
 - Yirmi dört saatlik çalışma gününün, çalışma bölümlerinden her biri; posta

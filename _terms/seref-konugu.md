@@ -2,6 +2,7 @@
 layout: term
 title: şeref konuğu
 slug: seref-konugu
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Bir toplantı, davet, balo vb.ne çağrılan konuklar arasında kendisine ayrıcalık tanınan, en çok değer ve önem verilen kişi; şeref misafiri

@@ -2,6 +2,7 @@
 layout: term
 title: gevrecik
 slug: gevrecik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Çok gevrek veya incecik

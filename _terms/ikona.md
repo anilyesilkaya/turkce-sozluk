@@ -2,6 +2,7 @@
 layout: term
 title: ikona
 slug: ikona
+letter: I
 lisan: Fransızca icône
 anlamlar:
 - Ortodokslarda İsa, Meryem veya ermişlerin tahta üzerine mumlu ve yumurtalı boyalarla yapılmış dinî içerikli resimleri; ikon

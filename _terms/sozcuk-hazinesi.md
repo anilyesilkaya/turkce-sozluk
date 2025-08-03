@@ -2,6 +2,7 @@
 layout: term
 title: sözcük hazinesi
 slug: sozcuk-hazinesi
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► söz varlığı

@@ -2,6 +2,7 @@
 layout: term
 title: uzanım
 slug: uzanim
+letter: U
 lisan: Türkçe
 anlamlar:
 - Yerden herhangi bir gezegene ve Güneş'e uzanan iki doğrultu arasındaki açı

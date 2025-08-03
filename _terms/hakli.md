@@ -2,6 +2,7 @@
 layout: term
 title: haklı
 slug: hakli
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hakka uygun, doğru, yerinde olan; muhik

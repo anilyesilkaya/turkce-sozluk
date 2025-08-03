@@ -2,6 +2,7 @@
 layout: term
 title: kafasından çıkarmak (veya atmak)
 slug: kafasindan-cikarmak-veya-atmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir şeyi unutmak veya ondan vazgeçmek

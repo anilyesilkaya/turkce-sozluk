@@ -2,6 +2,7 @@
 layout: term
 title: güvenilmek
 slug: guvenilmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Kendisine güven duyulmak

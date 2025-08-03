@@ -2,6 +2,7 @@
 layout: term
 title: bilvasıta
 slug: bilvasita
+letter: B
 lisan: Arapça bi'l-vāsiṭa
 anlamlar:
 - ► dolaylı

@@ -2,6 +2,7 @@
 layout: term
 title: ütüsü üzerinde
 slug: utusu-uzerinde
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Yeni ütülenmiş

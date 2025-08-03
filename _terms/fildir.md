@@ -2,6 +2,7 @@
 layout: term
 title: fıldır
 slug: fildir
+letter: F
 lisan: Türkçe
 anlamlar:
 - Hızlı hareket eden

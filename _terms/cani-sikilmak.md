@@ -2,6 +2,7 @@
 layout: term
 title: canı sıkılmak
 slug: cani-sikilmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - içi sıkılmak, yapacak bir işi olmamaktan tedirginlik duymak

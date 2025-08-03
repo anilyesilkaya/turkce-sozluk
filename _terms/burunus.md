@@ -2,6 +2,7 @@
 layout: term
 title: bürünüş
 slug: burunus
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bürünmek işi

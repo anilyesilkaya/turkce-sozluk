@@ -2,6 +2,7 @@
 layout: term
 title: balçak
 slug: balcak
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► kabza

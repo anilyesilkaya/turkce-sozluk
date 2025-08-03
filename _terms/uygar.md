@@ -2,6 +2,7 @@
 layout: term
 title: uygar
 slug: uygar
+letter: U
 lisan: Türkçe
 anlamlar:
 - Fikir, sanat ve endüstri alanlarında çok büyük bir gelişme göstermiş olan; medeni

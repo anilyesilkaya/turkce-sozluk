@@ -2,6 +2,7 @@
 layout: term
 title: çeyiz çemen
 slug: ceyiz-cemen
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çeyiz

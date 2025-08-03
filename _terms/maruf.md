@@ -2,6 +2,7 @@
 layout: term
 title: maruf
 slug: maruf
+letter: M
 lisan: Arapça maʿrūf
 anlamlar:
 - Herkesçe bilinen, tanınan

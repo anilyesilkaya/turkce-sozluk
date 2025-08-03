@@ -2,6 +2,7 @@
 layout: term
 title: düşük yapmak
 slug: dusuk-yapmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - çocuk düşürmek

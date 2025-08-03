@@ -2,6 +2,7 @@
 layout: term
 title: fehvasınca
 slug: fehvasinca
+letter: F
 lisan: Türkçe
 anlamlar:
 - Uyarınca, sözü gereğince

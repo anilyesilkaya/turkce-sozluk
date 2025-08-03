@@ -2,6 +2,7 @@
 layout: term
 title: şakaya gelmek
 slug: sakaya-gelmek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - şakaya katlanır olmak

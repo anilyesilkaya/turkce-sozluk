@@ -2,6 +2,7 @@
 layout: term
 title: inginlik
 slug: inginlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İngin olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: yüzlü yüzlü
 slug: yuzlu-yuzlu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Utanmadan, sıkılmadan, çekinmeden

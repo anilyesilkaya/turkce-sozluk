@@ -2,6 +2,7 @@
 layout: term
 title: kılıksızlaşmak
 slug: kiliksizlasmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kılıksız duruma gelmek

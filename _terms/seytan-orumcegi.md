@@ -2,6 +2,7 @@
 layout: term
 title: şeytan örümceği
 slug: seytan-orumcegi
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Ördüğü ağı rüzgâra salarak onunla birlikte uzaklara giden bir cins örümcek

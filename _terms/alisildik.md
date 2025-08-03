@@ -2,6 +2,7 @@
 layout: term
 title: alışıldık
 slug: alisildik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alışılmış olan

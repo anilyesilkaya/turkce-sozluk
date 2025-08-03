@@ -2,6 +2,7 @@
 layout: term
 title: sirkelik
 slug: sirkelik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sirke yapmaya yarar

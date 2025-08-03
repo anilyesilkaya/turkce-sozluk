@@ -2,6 +2,7 @@
 layout: term
 title: tahmin etmek
 slug: tahmin-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - yaklaşık olarak değerlendirmek, oranlamak

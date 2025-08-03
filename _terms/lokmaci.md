@@ -2,6 +2,7 @@
 layout: term
 title: lokmacı
 slug: lokmaci
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lokma yapan veya satan kimse

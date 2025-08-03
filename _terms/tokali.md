@@ -2,6 +2,7 @@
 layout: term
 title: tokalı
 slug: tokali
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tokası olan, toka takılmış olan

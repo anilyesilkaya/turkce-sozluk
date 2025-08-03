@@ -2,6 +2,7 @@
 layout: term
 title: marazlık
 slug: marazlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Güç, sıkıntılı, huzursuz durum

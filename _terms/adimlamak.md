@@ -2,6 +2,7 @@
 layout: term
 title: adımlamak
 slug: adimlamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Adımla ölçmek

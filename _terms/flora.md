@@ -2,6 +2,7 @@
 layout: term
 title: flora
 slug: flora
+letter: F
 lisan: Latince
 anlamlar:
 - Bir ülke, bir bölge veya belirli bir yöredeki bitki türlerinin tümü; bitey

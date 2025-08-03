@@ -2,6 +2,7 @@
 layout: term
 title: baş eğmek
 slug: bas-egmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - saygı göstermek için baş eğerek selamlamak

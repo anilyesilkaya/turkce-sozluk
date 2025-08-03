@@ -2,6 +2,7 @@
 layout: term
 title: muzipleşme
 slug: muziplesme
+letter: M
 lisan: Türkçe
 anlamlar:
 - Muzipleşmek işi

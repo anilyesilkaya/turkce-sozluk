@@ -2,6 +2,7 @@
 layout: term
 title: kapak taşı
 slug: kapak-tasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Lağım, su yolu vb.nin gereken yerlerinde bırakılan deliğin üzerini örten geniş ve yassı taş; kapaklık

@@ -2,6 +2,7 @@
 layout: term
 title: hol
 slug: hol
+letter: H
 lisan: İngilizce hall
 anlamlar:
 - ► sofa

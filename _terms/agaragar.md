@@ -2,6 +2,7 @@
 layout: term
 title: agaragar
 slug: agaragar
+letter: A
 lisan: Fransızca agar-agar
 anlamlar:
 - Deniz yosunlarından çıkarılan, beslenme endüstrisinde, hekimlikte ve bakteriyolojide kullanılan bir jelatin türü; jeloz

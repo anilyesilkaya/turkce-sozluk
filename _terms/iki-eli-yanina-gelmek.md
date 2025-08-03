@@ -2,6 +2,7 @@
 layout: term
 title: iki eli yanına gelmek
 slug: iki-eli-yanina-gelmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - ölmek

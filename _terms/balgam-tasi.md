@@ -2,6 +2,7 @@
 layout: term
 title: balgam taşı
 slug: balgam-tasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Damarlı ve yarı saydam bir Kadıköy taşı türü; Hacıbektaş taşı, mühresenk, oniks

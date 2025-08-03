@@ -2,6 +2,7 @@
 layout: term
 title: 'paytak paytak '
 slug: paytak-paytak
+letter: P
 lisan: Türkçe
 anlamlar:
 - İki yana sallanarak

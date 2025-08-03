@@ -2,6 +2,7 @@
 layout: term
 title: cennete düşmek
 slug: cennete-dusmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - güzel, hoş bir yere gitmek

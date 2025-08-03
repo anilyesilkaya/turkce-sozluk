@@ -2,6 +2,7 @@
 layout: term
 title: elkızı
 slug: elkizi
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► gelin

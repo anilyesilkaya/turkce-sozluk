@@ -2,6 +2,7 @@
 layout: term
 title: öle dirile
 slug: ole-dirile
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► güçlükle

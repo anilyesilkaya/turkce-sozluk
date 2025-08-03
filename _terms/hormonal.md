@@ -2,6 +2,7 @@
 layout: term
 title: hormonal
 slug: hormonal
+letter: H
 lisan: Fransızca hormonal
 anlamlar:
 - Hormonla ilgili, hormona ait

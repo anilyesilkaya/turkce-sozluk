@@ -2,6 +2,7 @@
 layout: term
 title: dallandırıp budaklandırmak
 slug: dallandirip-budaklandirmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - bir işi, bir sorunu büyüterek karışık duruma getirmek

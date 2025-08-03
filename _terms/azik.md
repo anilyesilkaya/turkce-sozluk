@@ -2,6 +2,7 @@
 layout: term
 title: azık
 slug: azik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Gereken yiyecek ve içecek şeyler; nevale

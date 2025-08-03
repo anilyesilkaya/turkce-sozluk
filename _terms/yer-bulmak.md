@@ -2,6 +2,7 @@
 layout: term
 title: yer bulmak
 slug: yer-bulmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - oturacak yer sağlamak

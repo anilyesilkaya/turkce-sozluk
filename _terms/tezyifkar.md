@@ -2,6 +2,7 @@
 layout: term
 title: tezyifkâr
 slug: tezyifkar
+letter: T
 lisan: Arapça tezyīf + Farsça -kār
 anlamlar:
 - Aşağılayıcı olan

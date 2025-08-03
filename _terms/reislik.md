@@ -2,6 +2,7 @@
 layout: term
 title: reislik
 slug: reislik
+letter: R
 lisan: Türkçe
 anlamlar:
 - ► başkanlık

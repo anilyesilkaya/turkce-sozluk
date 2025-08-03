@@ -2,6 +2,7 @@
 layout: term
 title: bilinçaltı
 slug: bilincalti
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilinç dışı olmakla birlikte kapsamında bulunan şeylerin istenildiği zaman bilince çağrılabildiği zihin bölgesi; şuuraltı, tahteşşuur

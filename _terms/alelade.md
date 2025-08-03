@@ -2,6 +2,7 @@
 layout: term
 title: alelade
 slug: alelade
+letter: A
 lisan: Arapça ʿalā'l-ʿāde
 anlamlar:
 - ► sıradan

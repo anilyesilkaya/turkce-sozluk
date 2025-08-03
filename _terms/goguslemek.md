@@ -2,6 +2,7 @@
 layout: term
 title: göğüslemek
 slug: goguslemek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Göğsünü dayayarak zorlamak

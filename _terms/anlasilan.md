@@ -2,6 +2,7 @@
 layout: term
 title: anlaşılan
 slug: anlasilan
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anlaşıldığına göre

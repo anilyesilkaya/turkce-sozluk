@@ -2,6 +2,7 @@
 layout: term
 title: maskaralanmak
 slug: maskaralanmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - Maskaralık etmek

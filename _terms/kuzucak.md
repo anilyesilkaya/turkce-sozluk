@@ -2,6 +2,7 @@
 layout: term
 title: kuzucak
 slug: kuzucak
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kuzucuk

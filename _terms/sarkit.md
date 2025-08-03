@@ -2,6 +2,7 @@
 layout: term
 title: sarkıt
 slug: sarkit
+letter: S
 lisan: Türkçe
 anlamlar:
 - Mağaraların tavanında aşağıya doğru oluşan, genellikle koni biçiminde kalker birikintisi; damla taş, stalaktit

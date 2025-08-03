@@ -2,6 +2,7 @@
 layout: term
 title: uç uca
 slug: uc-uca
+letter: U
 lisan: Türkçe
 anlamlar:
 - Bir şeyin son noktasıyla ikinci bir şeyin baş noktasını birbirine ekleyerek

@@ -2,6 +2,7 @@
 layout: term
 title: bir nice
 slug: bir-nice
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► pek çok

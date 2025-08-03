@@ -2,6 +2,7 @@
 layout: term
 title: heccav
 slug: heccav
+letter: H
 lisan: Arapça heccāv
 anlamlar:
 - ► yergici

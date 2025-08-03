@@ -2,6 +2,7 @@
 layout: term
 title: cilalamak
 slug: cilalamak
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cila sürerek parlatmak; cila vurmak

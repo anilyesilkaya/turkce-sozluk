@@ -2,6 +2,7 @@
 layout: term
 title: göz kulak olmak
 slug: goz-kulak-olmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - görme, işitme yoluyla bilgi edinmeye çalışmak

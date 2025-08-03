@@ -2,6 +2,7 @@
 layout: term
 title: biberli
 slug: biberli
+letter: B
 lisan: Türkçe
 anlamlar:
 - İçine biber katılmış

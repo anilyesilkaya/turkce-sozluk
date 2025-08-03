@@ -2,6 +2,7 @@
 layout: term
 title: hayretmek
 slug: hayretmek
+letter: H
 lisan: Arapça ḫayr + Türkçe etmek
 anlamlar:
 - Yararı olmak

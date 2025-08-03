@@ -2,6 +2,7 @@
 layout: term
 title: nicelik
 slug: nicelik
+letter: N
 lisan: Türkçe
 anlamlar:
 - Bir şeyin sayılabilen, ölçülebilen veya azalıp çoğalabilen durumu; kemiyet, miktar, kantite

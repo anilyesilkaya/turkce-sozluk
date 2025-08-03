@@ -2,6 +2,7 @@
 layout: term
 title: dırdır
 slug: dirdir
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bezdirici bir biçimde söylenme; dırıltı

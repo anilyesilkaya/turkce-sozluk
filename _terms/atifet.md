@@ -2,6 +2,7 @@
 layout: term
 title: atıfet
 slug: atifet
+letter: A
 lisan: Arapça ʿāṭifet
 anlamlar:
 - ► lütuf

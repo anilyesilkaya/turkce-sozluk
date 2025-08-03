@@ -2,6 +2,7 @@
 layout: term
 title: aşı kâğıdı
 slug: asi-kagidi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aşı olanlara verilen resmî belge

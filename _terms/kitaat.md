@@ -2,6 +2,7 @@
 layout: term
 title: kıtaat
 slug: kitaat
+letter: K
 lisan: Arapça ḳiṭaʿāt
 anlamlar:
 - Kıtalar, ana karalar

@@ -2,6 +2,7 @@
 layout: term
 title: çaresiz
 slug: caresiz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çaresi bulunmayan, onulmaz; umarsız, devasız

@@ -2,6 +2,7 @@
 layout: term
 title: affolma
 slug: affolma
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► bağışlanma

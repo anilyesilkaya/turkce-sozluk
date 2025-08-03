@@ -2,6 +2,7 @@
 layout: term
 title: öküz arabası
 slug: okuz-arabasi
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öküz koşulmuş araba

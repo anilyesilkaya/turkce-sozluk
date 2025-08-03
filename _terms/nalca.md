@@ -2,6 +2,7 @@
 layout: term
 title: nalça
 slug: nalca
+letter: N
 lisan: Arapça naʿl + Farsça -çe
 anlamlar:
 - Ayakkabıların altına çakılan demir

@@ -2,6 +2,7 @@
 layout: term
 title: küsmek
 slug: kusmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Herhangi birinin hoşa gitmeyen bir söz veya davranışı yüzünden görüşmez olmak

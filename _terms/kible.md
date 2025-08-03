@@ -2,6 +2,7 @@
 layout: term
 title: kıble
 slug: kible
+letter: K
 lisan: Arapça ḳible
 anlamlar:
 - Bazı ibadetler yerine getirilirken dönülen Kâbe'nin bulunduğu yön

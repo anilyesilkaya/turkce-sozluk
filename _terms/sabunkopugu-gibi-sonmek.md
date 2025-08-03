@@ -2,6 +2,7 @@
 layout: term
 title: sabunköpüğü gibi sönmek
 slug: sabunkopugu-gibi-sonmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - gösterişli olmakla birlikte en hafif bir etki ile yok olmak

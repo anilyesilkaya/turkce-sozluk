@@ -2,6 +2,7 @@
 layout: term
 title: ödegeç
 slug: odegec
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Belli bir miktara kadar yapılacak ödemelerde imza ve şifre gerektirmeden kartla ödeme yapma işlemi

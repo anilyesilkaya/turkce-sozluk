@@ -2,6 +2,7 @@
 layout: term
 title: müzebzep
 slug: muzebzep
+letter: M
 lisan: Arapça muẕebẕeb
 anlamlar:
 - Çok karışık

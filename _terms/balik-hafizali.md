@@ -2,6 +2,7 @@
 layout: term
 title: balık hafızalı
 slug: balik-hafizali
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bildiklerini, öğrendiklerini çok çabuk unutan (kimse)

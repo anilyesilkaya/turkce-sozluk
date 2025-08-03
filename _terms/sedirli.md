@@ -2,6 +2,7 @@
 layout: term
 title: sedirli
 slug: sedirli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sediri (I) olan

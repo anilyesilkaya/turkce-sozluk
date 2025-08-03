@@ -2,6 +2,7 @@
 layout: term
 title: kuyucu
 slug: kuyucu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kuyu kazmayı iş edinmiş kimse

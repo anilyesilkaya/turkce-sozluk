@@ -2,6 +2,7 @@
 layout: term
 title: mahkemeye düşmek
 slug: mahkemeye-dusmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - mahkemelik olmak

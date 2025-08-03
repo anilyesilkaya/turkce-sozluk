@@ -2,6 +2,7 @@
 layout: term
 title: kuş uçurmamak (veya uçurtmamak)
 slug: kus-ucurmamak-veya-ucurtmamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - hiçbir şeyin veya kimsenin kaçmasına, geçmesine imkân vermemek

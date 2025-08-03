@@ -2,6 +2,7 @@
 layout: term
 title: elin adamı
 slug: elin-adami
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► el adamı

@@ -2,6 +2,7 @@
 layout: term
 title: arjantin
 slug: arjantin
+letter: A
 lisan: Türkçe
 anlamlar:
 - Büyük bira bardağı

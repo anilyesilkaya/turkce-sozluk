@@ -2,6 +2,7 @@
 layout: term
 title: güvenlik görevlisi
 slug: guvenlik-gorevlisi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güvenliği sağlamakla görevli kimse

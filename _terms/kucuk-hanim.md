@@ -2,6 +2,7 @@
 layout: term
 title: küçük hanım
 slug: kucuk-hanim
+letter: K
 lisan: Türkçe
 anlamlar:
 - Evin kızı veya genç gelini

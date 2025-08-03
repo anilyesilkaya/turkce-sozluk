@@ -2,6 +2,7 @@
 layout: term
 title: nesne
 slug: nesne
+letter: N
 lisan: Türkçe
 anlamlar:
 - Belli bir ağırlığı ve hacmi, rengi olan her türlü cansız varlık, şey; parça, obje

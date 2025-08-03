@@ -2,6 +2,7 @@
 layout: term
 title: lostromo
 slug: lostromo
+letter: L
 lisan: İtalyanca nostromo
 anlamlar:
 - Ticaret gemilerinde tayfaların başı

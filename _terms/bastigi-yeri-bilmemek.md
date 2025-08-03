@@ -2,6 +2,7 @@
 layout: term
 title: bastığı yeri bilmemek
 slug: bastigi-yeri-bilmemek
+letter: B
 lisan: Türkçe
 anlamlar:
 - çok sevinmek

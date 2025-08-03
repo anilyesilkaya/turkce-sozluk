@@ -2,6 +2,7 @@
 layout: term
 title: kangrenleşmek
 slug: kangrenlesmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kangren olmak

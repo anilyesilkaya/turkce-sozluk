@@ -2,6 +2,7 @@
 layout: term
 title: tesviye etmek
 slug: tesviye-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - düzlemek

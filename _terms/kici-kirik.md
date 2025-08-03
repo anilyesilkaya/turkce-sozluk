@@ -2,6 +2,7 @@
 layout: term
 title: kıçı kırık
 slug: kici-kirik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Önemsiz, değersiz (şey veya kimse)

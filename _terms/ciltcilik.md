@@ -2,6 +2,7 @@
 layout: term
 title: ciltçilik
 slug: ciltcilik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Ciltçinin yaptığı iş; mücellitlik

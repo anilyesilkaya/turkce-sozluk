@@ -2,6 +2,7 @@
 layout: term
 title: kalkan etmek
 slug: kalkan-etmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - öne çıkarmak, belirgin duruma getirmek

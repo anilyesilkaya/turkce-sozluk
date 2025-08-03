@@ -2,6 +2,7 @@
 layout: term
 title: garanti vermek
 slug: garanti-vermek
+letter: G
 lisan: Türkçe
 anlamlar:
 - güvence altına almak

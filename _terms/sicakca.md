@@ -2,6 +2,7 @@
 layout: term
 title: sıcakça
 slug: sicakca
+letter: S
 lisan: Türkçe
 anlamlar:
 - Biraz sıcak, sıcağa yakın

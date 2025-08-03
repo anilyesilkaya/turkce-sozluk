@@ -2,6 +2,7 @@
 layout: term
 title: kovuk
 slug: kovuk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir şeyin oyuk durumunda bulunan iç bölümü

@@ -2,6 +2,7 @@
 layout: term
 title: diktirmek
 slug: diktirmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dikme işini yaptırmak

@@ -2,6 +2,7 @@
 layout: term
 title: aceleye gelmek
 slug: aceleye-gelmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir iş yapılırken zaman yetersizliğinden dolayı gereken önem verilememek

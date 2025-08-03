@@ -2,6 +2,7 @@
 layout: term
 title: imdada (veya imdadına) koşmak (veya yetişmek veya erişmek)
 slug: imdada-veya-imdadina-kosmak-veya-yetismek-veya-erismek
+letter: I
 lisan: Türkçe
 anlamlar:
 - çok zor ve tehlikeli bir anda yardım etmek

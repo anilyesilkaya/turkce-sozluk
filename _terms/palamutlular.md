@@ -2,6 +2,7 @@
 layout: term
 title: palamutlular
 slug: palamutlular
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► kayıngiller

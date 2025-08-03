@@ -2,6 +2,7 @@
 layout: term
 title: kromatik
 slug: kromatik
+letter: K
 lisan: Fransızca chromatique
 anlamlar:
 - ► renkser

@@ -2,6 +2,7 @@
 layout: term
 title: mürteşi
 slug: murtesi
+letter: M
 lisan: Arapça murteşī
 anlamlar:
 - Rüşvet yiyen kimse

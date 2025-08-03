@@ -2,6 +2,7 @@
 layout: term
 title: adese
 slug: adese
+letter: A
 lisan: Arapça ʿadese
 anlamlar:
 - ► mercek

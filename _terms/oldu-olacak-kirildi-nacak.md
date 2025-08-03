@@ -2,6 +2,7 @@
 layout: term
 title: oldu olacak, kırıldı nacak
 slug: oldu-olacak-kirildi-nacak
+letter: O
 lisan: Türkçe
 anlamlar:
 - '"her şey olup bitti, iş işten geçti" anlamında kullanılan bir söz'

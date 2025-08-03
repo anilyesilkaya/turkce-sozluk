@@ -2,6 +2,7 @@
 layout: term
 title: zat
 slug: zat
+letter: Z
 lisan: Arapça ẕāt
 anlamlar:
 - ► kişi

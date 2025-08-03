@@ -2,6 +2,7 @@
 layout: term
 title: pusudan çıkmak
 slug: pusudan-cikmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - kurulan pusudan kurtulmak

@@ -2,6 +2,7 @@
 layout: term
 title: uykusuz kalmak
 slug: uykusuz-kalmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - uyuyamamak

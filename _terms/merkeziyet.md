@@ -2,6 +2,7 @@
 layout: term
 title: merkeziyet
 slug: merkeziyet
+letter: M
 lisan: Arapça merkeziyyet
 anlamlar:
 - ► merkeziyetçilik

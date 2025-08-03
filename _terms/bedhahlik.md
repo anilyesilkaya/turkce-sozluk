@@ -2,6 +2,7 @@
 layout: term
 title: bedhahlık
 slug: bedhahlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bedhah olma durumu

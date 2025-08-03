@@ -2,6 +2,7 @@
 layout: term
 title: dayandırmak
 slug: dayandirmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dayanmasını sağlamak; istinat ettirmek

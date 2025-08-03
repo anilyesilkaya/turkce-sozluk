@@ -2,6 +2,7 @@
 layout: term
 title: çiftesiz
 slug: ciftesiz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çiftesi bulunmayan

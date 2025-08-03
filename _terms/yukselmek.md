@@ -2,6 +2,7 @@
 layout: term
 title: yükselmek
 slug: yukselmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yükseğe çıkmak

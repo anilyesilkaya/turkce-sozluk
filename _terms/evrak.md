@@ -2,6 +2,7 @@
 layout: term
 title: evrak
 slug: evrak
+letter: E
 lisan: Arapça evrāḳ
 anlamlar:
 - Resmî kurumlarda işlem gören belgeler

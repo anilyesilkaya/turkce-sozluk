@@ -2,6 +2,7 @@
 layout: term
 title: hızlanmak
 slug: hizlanmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hız almak, hızı artmak

@@ -2,6 +2,7 @@
 layout: term
 title: zuhuri kolu
 slug: zuhuri-kolu
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Orta oyunu kollarından ikinci olan oyuncu topluluğu

@@ -2,6 +2,7 @@
 layout: term
 title: vahilik
 slug: vahilik
+letter: V
 lisan: Türkçe
 anlamlar:
 - ► saçmalık

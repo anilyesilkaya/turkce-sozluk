@@ -2,6 +2,7 @@
 layout: term
 title: ayrıntı
 slug: ayrinti
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir bütünün önemce ikinci derecede olan ögelerinden her biri; teferruat, tafsilat, detay

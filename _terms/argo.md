@@ -2,6 +2,7 @@
 layout: term
 title: argo
 slug: argo
+letter: A
 lisan: Fransızca argot
 anlamlar:
 - Her yerde ve her zaman kullanılmayan veya kullanılmaması gereken, çoklukla eğitimsiz kişilerin söylediği söz veya deyim

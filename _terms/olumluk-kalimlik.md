@@ -2,6 +2,7 @@
 layout: term
 title: 'ölümlük kalımlık '
 slug: olumluk-kalimlik
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Zor durumda kalındığında kullanılmak üzere ayrılan (para, mal); ölümlük dirimlik

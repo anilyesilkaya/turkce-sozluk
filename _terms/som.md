@@ -2,6 +2,7 @@
 layout: term
 title: şom
 slug: som
+letter: Ş
 lisan: Farsça şūm
 anlamlar:
 - ► uğursuz

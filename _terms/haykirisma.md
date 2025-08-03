@@ -2,6 +2,7 @@
 layout: term
 title: haykırışma
 slug: haykirisma
+letter: H
 lisan: Türkçe
 anlamlar:
 - Haykırışmak durumu

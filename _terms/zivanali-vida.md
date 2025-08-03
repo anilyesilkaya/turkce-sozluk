@@ -2,6 +2,7 @@
 layout: term
 title: zıvanalı vida
 slug: zivanali-vida
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zıvanası olan vida

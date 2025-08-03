@@ -2,6 +2,7 @@
 layout: term
 title: evli
 slug: evli
+letter: E
 lisan: Türkçe
 anlamlar:
 - Evlenmiş olan (kadın veya erkek)

@@ -2,6 +2,7 @@
 layout: term
 title: yukarı
 slug: yukari
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir şeyin üst bölümü; fevk, mafevk, aşağı karşıtı

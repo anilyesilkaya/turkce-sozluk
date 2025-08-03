@@ -2,6 +2,7 @@
 layout: term
 title: aksakal
 slug: aksakal
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir meslekte yaşça, kıdemce ileride ve yetenek bakımından üstün niteliğe sahip olan kimse; duayen

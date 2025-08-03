@@ -2,6 +2,7 @@
 layout: term
 title: fallop tüpü
 slug: fallop-tupu
+letter: F
 lisan: Türkçe
 anlamlar:
 - Döl yatağının üst köşesinden yumurtalığa kadar uzanan, yaklaşık 10 santimetre uzunluğundaki boru; tüp, fallop borusu

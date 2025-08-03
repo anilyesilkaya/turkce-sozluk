@@ -2,6 +2,7 @@
 layout: term
 title: etraflı
 slug: etrafli
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ayrıntılı, eksiksiz, kapsayıcı olan

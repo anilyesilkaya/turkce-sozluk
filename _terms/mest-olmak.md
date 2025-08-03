@@ -2,6 +2,7 @@
 layout: term
 title: mest olmak
 slug: mest-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - kendinden geçmek, çok mutlu olmak

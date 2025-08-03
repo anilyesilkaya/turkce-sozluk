@@ -2,6 +2,7 @@
 layout: term
 title: azıcık
 slug: azicik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► biraz

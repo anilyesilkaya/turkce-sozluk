@@ -2,6 +2,7 @@
 layout: term
 title: seksolog
 slug: seksolog
+letter: S
 lisan: Fransızca sexologue
 anlamlar:
 - ► cinsellik bilimci

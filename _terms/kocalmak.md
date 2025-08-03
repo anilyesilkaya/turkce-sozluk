@@ -2,6 +2,7 @@
 layout: term
 title: kocalmak
 slug: kocalmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► yaşlanmak

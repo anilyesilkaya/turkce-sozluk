@@ -2,6 +2,7 @@
 layout: term
 title: karasığır
 slug: karasigir
+letter: K
 lisan: Türkçe
 anlamlar:
 - Orta Anadolu'da yetişen, sert ve kurak iklime dayanıklı, küçük yapılı bir tür sığır

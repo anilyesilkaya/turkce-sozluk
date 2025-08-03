@@ -2,6 +2,7 @@
 layout: term
 title: ağlayıcı
 slug: aglayici
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► ağıtçı

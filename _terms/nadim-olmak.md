@@ -2,6 +2,7 @@
 layout: term
 title: nadim olmak
 slug: nadim-olmak
+letter: N
 lisan: Türkçe
 anlamlar:
 - pişman olmak

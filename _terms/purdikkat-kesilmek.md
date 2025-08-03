@@ -2,6 +2,7 @@
 layout: term
 title: pürdikkat kesilmek
 slug: purdikkat-kesilmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - çok dikkat etmek

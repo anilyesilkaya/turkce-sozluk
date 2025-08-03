@@ -2,6 +2,7 @@
 layout: term
 title: sonuç vermek
 slug: sonuc-vermek
+letter: S
 lisan: Türkçe
 anlamlar:
 - sonuçlanmak

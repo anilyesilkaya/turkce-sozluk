@@ -2,6 +2,7 @@
 layout: term
 title: şarkıcılık
 slug: sarkicilik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şarkıcının işi veya mesleği

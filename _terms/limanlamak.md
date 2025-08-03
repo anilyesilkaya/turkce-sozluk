@@ -2,6 +2,7 @@
 layout: term
 title: limanlamak
 slug: limanlamak
+letter: L
 lisan: Türkçe
 anlamlar:
 - Gemi vb. bir limana girip orada kalmak

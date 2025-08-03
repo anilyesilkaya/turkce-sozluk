@@ -2,6 +2,7 @@
 layout: term
 title: çapaçul
 slug: capacul
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► pasaklı

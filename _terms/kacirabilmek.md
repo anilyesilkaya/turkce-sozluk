@@ -2,6 +2,7 @@
 layout: term
 title: kaçırabilmek
 slug: kacirabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaçırma ihtimali veya imkânı bulunmak

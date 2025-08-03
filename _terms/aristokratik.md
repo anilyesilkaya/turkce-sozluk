@@ -2,6 +2,7 @@
 layout: term
 title: aristokratik
 slug: aristokratik
+letter: A
 lisan: Fransızca aristocratique
 anlamlar:
 - Soylu erki ile ilgili

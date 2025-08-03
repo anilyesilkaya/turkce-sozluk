@@ -2,6 +2,7 @@
 layout: term
 title: cimcime
 slug: cimcime
+letter: C
 lisan: Türkçe
 anlamlar:
 - Küçük ve tatlı bir tür karpuz

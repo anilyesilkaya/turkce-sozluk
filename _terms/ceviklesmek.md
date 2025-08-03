@@ -2,6 +2,7 @@
 layout: term
 title: çevikleşmek
 slug: ceviklesmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çevik duruma gelmek

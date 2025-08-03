@@ -2,6 +2,7 @@
 layout: term
 title: çömlekçi çarkı
 slug: comlekci-carki
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çömlek yapımında yuvarlak biçim verebilmek için çamur kalıbı döndüren çark

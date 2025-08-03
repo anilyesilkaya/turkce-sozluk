@@ -2,6 +2,7 @@
 layout: term
 title: zemheri zürefası
 slug: zemheri-zurefasi
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Kışın ince giysi ile gezen kimse

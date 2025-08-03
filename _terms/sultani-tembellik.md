@@ -2,6 +2,7 @@
 layout: term
 title: sultani tembellik
 slug: sultani-tembellik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sultani tembel olma durumu

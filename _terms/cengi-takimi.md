@@ -2,6 +2,7 @@
 layout: term
 title: çengi takımı
 slug: cengi-takimi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çengi kolu

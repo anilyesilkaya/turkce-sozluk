@@ -2,6 +2,7 @@
 layout: term
 title: Uygur Türkçesi
 slug: uygur-turkcesi
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uygur Türklerinin kullandığı konuşma ve yazı dili; Uygurca

@@ -2,6 +2,7 @@
 layout: term
 title: istihlak
 slug: istihlak
+letter: I
 lisan: Arapça istihlāk
 anlamlar:
 - ► tüketim

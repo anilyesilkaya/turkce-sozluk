@@ -2,6 +2,7 @@
 layout: term
 title: tüplük
 slug: tupluk
+letter: T
 lisan: Türkçe
 anlamlar:
 - Laboratuvarlarda cam tüpleri koymaya yarayan tahta veya metal tabla

@@ -2,6 +2,7 @@
 layout: term
 title: nasırına basmak
 slug: nasirina-basmak
+letter: N
 lisan: Türkçe
 anlamlar:
 - birinin çıkarını engellemek

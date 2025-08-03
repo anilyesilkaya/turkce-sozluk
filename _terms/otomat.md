@@ -2,6 +2,7 @@
 layout: term
 title: otomat
 slug: otomat
+letter: O
 lisan: Fransızca automate
 anlamlar:
 - Canlı bir varlığın yapabileceği bazı işleri yapan mekanik veya elektrikli araç

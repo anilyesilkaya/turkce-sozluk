@@ -2,6 +2,7 @@
 layout: term
 title: kapkaranlık
 slug: kapkaranlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çok karanlık

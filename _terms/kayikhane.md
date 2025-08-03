@@ -2,6 +2,7 @@
 layout: term
 title: kayıkhane
 slug: kayikhane
+letter: K
 lisan: Türkçe kayık + Farsça ḫāne
 anlamlar:
 - Kayıkların çekildiği, korunduğu üstü örtülü yer

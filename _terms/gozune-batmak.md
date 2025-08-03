@@ -2,6 +2,7 @@
 layout: term
 title: gözüne batmak
 slug: gozune-batmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - tedirgin etmek, rahatsız etmek

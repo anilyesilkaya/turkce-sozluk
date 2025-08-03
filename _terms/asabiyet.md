@@ -2,6 +2,7 @@
 layout: term
 title: asabiyet
 slug: asabiyet
+letter: A
 lisan: Arapça ʿaṣabiyyet
 anlamlar:
 - ► sinirlilik

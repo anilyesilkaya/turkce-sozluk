@@ -2,6 +2,7 @@
 layout: term
 title: kesen
 slug: kesen
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kesme işini yapan

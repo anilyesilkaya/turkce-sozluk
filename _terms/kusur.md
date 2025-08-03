@@ -2,6 +2,7 @@
 layout: term
 title: küsur
 slug: kusur
+letter: K
 lisan: Arapça kusūr
 anlamlar:
 - Artan bölüm, geriye kalan bölüm

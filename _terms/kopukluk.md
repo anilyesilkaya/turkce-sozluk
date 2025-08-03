@@ -2,6 +2,7 @@
 layout: term
 title: kopukluk
 slug: kopukluk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kopuk olma durumu

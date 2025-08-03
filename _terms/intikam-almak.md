@@ -2,6 +2,7 @@
 layout: term
 title: intikam almak
 slug: intikam-almak
+letter: I
 lisan: Türkçe
 anlamlar:
 - öç almak

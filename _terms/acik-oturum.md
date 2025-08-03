@@ -2,6 +2,7 @@
 layout: term
 title: açık oturum
 slug: acik-oturum
+letter: A
 lisan: Türkçe
 anlamlar:
 - Seçilmiş bir konuşmacı grubu tarafından güncel, siyasal, sosyal ve bilimsel konuların veya sorunların herkesin izleyebileceği bir biçimde açık olarak tartışıldığı toplantı; panel

@@ -2,6 +2,7 @@
 layout: term
 title: kullanılma
 slug: kullanilma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kullanılmak işi

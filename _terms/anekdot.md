@@ -2,6 +2,7 @@
 layout: term
 title: anekdot
 slug: anekdot
+letter: A
 lisan: Fransızca anecdote
 anlamlar:
 - ► hikâyecik

@@ -2,6 +2,7 @@
 layout: term
 title: nasıl olmuşsa
 slug: nasil-olmussa
+letter: N
 lisan: Türkçe
 anlamlar:
 - her nasılsa

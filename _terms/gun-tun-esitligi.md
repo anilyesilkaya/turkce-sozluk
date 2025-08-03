@@ -2,6 +2,7 @@
 layout: term
 title: gün tün eşitliği
 slug: gun-tun-esitligi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gece ile gündüzün eşit olması; ılım, ekinoks

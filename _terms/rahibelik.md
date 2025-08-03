@@ -2,6 +2,7 @@
 layout: term
 title: rahibelik
 slug: rahibelik
+letter: R
 lisan: Türkçe
 anlamlar:
 - Rahibe olma durumu

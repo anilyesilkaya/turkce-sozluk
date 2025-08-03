@@ -2,6 +2,7 @@
 layout: term
 title: hayata bağlamak
 slug: hayata-baglamak
+letter: H
 lisan: Türkçe
 anlamlar:
 - yaşamayı sevdirmek

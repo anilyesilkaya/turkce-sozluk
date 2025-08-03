@@ -2,6 +2,7 @@
 layout: term
 title: yakılmak
 slug: yakilmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yakma işi yapılmak

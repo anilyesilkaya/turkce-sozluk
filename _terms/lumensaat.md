@@ -2,6 +2,7 @@
 layout: term
 title: lümensaat
 slug: lumensaat
+letter: L
 lisan: Fransızca lumen + Arapça sāʿat
 anlamlar:
 - Işık miktarı birimi lümenlik ışık akısıyla 1 saatte yayılan ışık ölçüsü

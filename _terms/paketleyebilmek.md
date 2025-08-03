@@ -2,6 +2,7 @@
 layout: term
 title: paketleyebilmek
 slug: paketleyebilmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Paketleme ihtimali veya imkânı bulunmak

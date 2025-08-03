@@ -2,6 +2,7 @@
 layout: term
 title: ağırlatmak
 slug: agirlatmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağırlama işini yaptırmak

@@ -2,6 +2,7 @@
 layout: term
 title: patatesli
 slug: patatesli
+letter: P
 lisan: Türkçe
 anlamlar:
 - İçinde patates bulunan, patatesle yapılmış

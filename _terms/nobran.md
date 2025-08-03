@@ -2,6 +2,7 @@
 layout: term
 title: nobran
 slug: nobran
+letter: N
 lisan: Türkçe
 anlamlar:
 - Davranışı kaba, sert ve gönül kırıcı olan; nadan

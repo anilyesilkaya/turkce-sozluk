@@ -2,6 +2,7 @@
 layout: term
 title: elektronik dergi
 slug: elektronik-dergi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Genel ağda çevrim içi yayımlanan dergi; e-dergi

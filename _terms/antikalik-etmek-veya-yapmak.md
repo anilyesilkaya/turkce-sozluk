@@ -2,6 +2,7 @@
 layout: term
 title: antikalık etmek (veya yapmak)
 slug: antikalik-etmek-veya-yapmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - yadırgatıcı ve tuhaf davranışlar göstermek

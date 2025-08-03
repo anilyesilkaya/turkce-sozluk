@@ -2,6 +2,7 @@
 layout: term
 title: seyrekleştiriş
 slug: seyreklestiris
+letter: S
 lisan: Türkçe
 anlamlar:
 - Seyrekleştirmek işi

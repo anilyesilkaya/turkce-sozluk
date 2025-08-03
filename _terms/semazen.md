@@ -2,6 +2,7 @@
 layout: term
 title: semazen
 slug: semazen
+letter: S
 lisan: Arapça semāʿ + Farsça -zen
 anlamlar:
 - Semada dönen derviş

@@ -2,6 +2,7 @@
 layout: term
 title: kaşeletmek
 slug: kaseletmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Resmî bir belgeyi kaşe ile damgalatmak

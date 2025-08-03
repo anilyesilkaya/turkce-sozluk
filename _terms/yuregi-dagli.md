@@ -2,6 +2,7 @@
 layout: term
 title: yüreği dağlı
 slug: yuregi-dagli
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yüreği yaralı

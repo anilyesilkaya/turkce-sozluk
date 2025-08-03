@@ -2,6 +2,7 @@
 layout: term
 title: organik tarım
 slug: organik-tarim
+letter: O
 lisan: Türkçe
 anlamlar:
 - İlaç vb. kimyasal maddeler kullanmadan yapılan üretim biçimi; ekolojik tarım

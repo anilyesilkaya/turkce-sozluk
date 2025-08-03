@@ -2,6 +2,7 @@
 layout: term
 title: bağlantısızlık siyaseti
 slug: baglantisizlik-siyaseti
+letter: B
 lisan: Türkçe
 anlamlar:
 - Askerî, siyasi yönden hiçbir bloka girmeme siyaseti; bağlantısızlık politikası

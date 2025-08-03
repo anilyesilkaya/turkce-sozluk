@@ -2,6 +2,7 @@
 layout: term
 title: üzülmek
 slug: uzulmek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üzme işine konu olmak

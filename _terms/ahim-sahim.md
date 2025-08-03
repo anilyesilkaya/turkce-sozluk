@@ -2,6 +2,7 @@
 layout: term
 title: ahım şahım
 slug: ahim-sahim
+letter: A
 lisan: Türkçe
 anlamlar:
 - Beğenilecek, değer verilecek nitelikte

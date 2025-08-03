@@ -2,6 +2,7 @@
 layout: term
 title: metot
 slug: metot
+letter: M
 lisan: Fransızca méthode
 anlamlar:
 - ► yöntem

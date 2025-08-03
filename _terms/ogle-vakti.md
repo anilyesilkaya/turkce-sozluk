@@ -2,6 +2,7 @@
 layout: term
 title: öğle vakti
 slug: ogle-vakti
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► öğle

@@ -2,6 +2,7 @@
 layout: term
 title: saptamak
 slug: saptamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir şeyi belirgin kılmak; tespit etmek

@@ -2,6 +2,7 @@
 layout: term
 title: tadını almak
 slug: tadini-almak
+letter: T
 lisan: Türkçe
 anlamlar:
 - bir şeyin ne tatta olduğunu anlamak

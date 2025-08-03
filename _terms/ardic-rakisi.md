@@ -2,6 +2,7 @@
 layout: term
 title: ardıç rakısı
 slug: ardic-rakisi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Cin (II)

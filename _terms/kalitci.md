@@ -2,6 +2,7 @@
 layout: term
 title: kalıtçı
 slug: kalitci
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► mirasçı

@@ -2,6 +2,7 @@
 layout: term
 title: kalkık
 slug: kalkik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Düzeyine göre yüksekte olan

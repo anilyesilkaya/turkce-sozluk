@@ -2,6 +2,7 @@
 layout: term
 title: salgın
 slug: salgin
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kısa zamanda çevredeki insanların, hayvanların veya bitkilerin büyük bir bölümüne bulaşan; müstevli

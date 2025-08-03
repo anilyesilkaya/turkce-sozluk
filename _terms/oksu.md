@@ -2,6 +2,7 @@
 layout: term
 title: oksu
 slug: oksu
+letter: O
 lisan: Türkçe
 anlamlar:
 - Biçimi oka benzeyen (yaprak)

@@ -2,6 +2,7 @@
 layout: term
 title: hale
 slug: hale
+letter: H
 lisan: Arapça hāle
 anlamlar:
 - Bazı yıldızların, özellikle ayın çevresinde görülen geniş ve aydınlık teker; ayla, ayevi, ağıl (II)

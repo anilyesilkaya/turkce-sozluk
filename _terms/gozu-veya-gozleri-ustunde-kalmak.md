@@ -2,6 +2,7 @@
 layout: term
 title: gözü (veya gözleri) üstünde kalmak
 slug: gozu-veya-gozleri-ustunde-kalmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - kıskançlık sebebiyle herkesin ilgisini çekmek

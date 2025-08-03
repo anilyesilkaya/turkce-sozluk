@@ -2,6 +2,7 @@
 layout: term
 title: hiş
 slug: his
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► hişt

@@ -2,6 +2,7 @@
 layout: term
 title: çocuğu olmak
 slug: cocugu-olmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - çocuğu doğmak

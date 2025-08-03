@@ -2,6 +2,7 @@
 layout: term
 title: zevzek
 slug: zevzek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► geveze

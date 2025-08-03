@@ -2,6 +2,7 @@
 layout: term
 title: yolculuk
 slug: yolculuk
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Ülkeden ülkeye veya bir ülke içinde bir yerden bir yere gidiş veya geliş; yol, seyahat, sefer

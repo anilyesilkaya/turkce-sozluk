@@ -2,6 +2,7 @@
 layout: term
 title: zırıltı çıkarmak
 slug: zirilti-cikarmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - anlaşmazlık sebebiyle kavga etmek

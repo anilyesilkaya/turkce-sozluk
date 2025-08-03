@@ -2,6 +2,7 @@
 layout: term
 title: çizintili
 slug: cizintili
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çizinti içeren

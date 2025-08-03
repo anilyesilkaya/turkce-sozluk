@@ -2,6 +2,7 @@
 layout: term
 title: öze
 slug: oze
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► özgü

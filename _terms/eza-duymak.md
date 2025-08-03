@@ -2,6 +2,7 @@
 layout: term
 title: eza duymak
 slug: eza-duymak
+letter: E
 lisan: Türkçe
 anlamlar:
 - üzüntü çekmek, üzülmek

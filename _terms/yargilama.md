@@ -2,6 +2,7 @@
 layout: term
 title: yargılama
 slug: yargilama
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Birbirine karşı olan iki tarafı dinleyerek bir yargıya varma; mahkeme, muhakeme

@@ -2,6 +2,7 @@
 layout: term
 title: legorn
 slug: legorn
+letter: L
 lisan: İngilizce leghorn
 anlamlar:
 - Yumurta verimi yüksek, genellikle beyaz tüylü bir tavuk ırkı

@@ -2,6 +2,7 @@
 layout: term
 title: maneviyat
 slug: maneviyat
+letter: M
 lisan: Arapça maʿneviyyāt
 anlamlar:
 - Maddi olmayan, manevi şeyler

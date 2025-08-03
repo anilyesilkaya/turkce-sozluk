@@ -2,6 +2,7 @@
 layout: term
 title: zora koşmak
 slug: zora-kosmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - güçlük çıkarmak

@@ -2,6 +2,7 @@
 layout: term
 title: ablavutluk
 slug: ablavutluk
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ablavut olma durumu

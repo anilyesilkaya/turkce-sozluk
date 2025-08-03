@@ -2,6 +2,7 @@
 layout: term
 title: tandır
 slug: tandir
+letter: T
 lisan: Arapça tennūr
 anlamlar:
 - Yere çukur kazılarak yapılan bir fırın türü

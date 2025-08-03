@@ -2,6 +2,7 @@
 layout: term
 title: dekorasyon
 slug: dekorasyon
+letter: D
 lisan: Fransızca décoration
 anlamlar:
 - Bir iç mekânı meydana getiren ögelerin, yüzeylerin güzellik ve kullanım açısından düzenlenmesi işlemi

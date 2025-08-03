@@ -2,6 +2,7 @@
 layout: term
 title: çağıldama
 slug: cagildama
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çağıldamak işi

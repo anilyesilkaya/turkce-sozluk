@@ -2,6 +2,7 @@
 layout: term
 title: fırsata çevirmek
 slug: firsata-cevirmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - kötü bir durumdan yararlanarak iyi sonuç almak

@@ -2,6 +2,7 @@
 layout: term
 title: rezilcesine
 slug: rezilcesine
+letter: R
 lisan: Türkçe
 anlamlar:
 - ► rezilce

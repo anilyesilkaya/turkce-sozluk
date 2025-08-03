@@ -2,6 +2,7 @@
 layout: term
 title: sırıma
 slug: sirima
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sırımak işi

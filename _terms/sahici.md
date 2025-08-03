@@ -2,6 +2,7 @@
 layout: term
 title: sahici
 slug: sahici
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sahte olmayan, gerçek, yapma karşıtı

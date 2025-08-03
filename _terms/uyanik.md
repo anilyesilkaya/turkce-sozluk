@@ -2,6 +2,7 @@
 layout: term
 title: uyanık
 slug: uyanik
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyumamış; bidar

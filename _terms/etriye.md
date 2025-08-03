@@ -2,6 +2,7 @@
 layout: term
 title: etriye
 slug: etriye
+letter: E
 lisan: Fransızca étrier
 anlamlar:
 - Dikme kiriş bağlantılarında direnci sağlayan sargı

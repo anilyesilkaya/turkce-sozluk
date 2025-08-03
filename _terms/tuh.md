@@ -2,6 +2,7 @@
 layout: term
 title: tüh
 slug: tuh
+letter: T
 lisan: Türkçe
 anlamlar:
 - '"Vah vah" anlamında pişmanlık bildiren bir seslenme sözü; tü'

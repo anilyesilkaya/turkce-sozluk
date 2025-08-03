@@ -2,6 +2,7 @@
 layout: term
 title: tantana
 slug: tantana
+letter: T
 lisan: Arapça ṭanṭana
 anlamlar:
 - ► görkem

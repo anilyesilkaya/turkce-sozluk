@@ -2,6 +2,7 @@
 layout: term
 title: iftitah
 slug: iftitah
+letter: I
 lisan: Arapça iftitāḥ
 anlamlar:
 - Açma, açılma

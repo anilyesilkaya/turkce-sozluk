@@ -2,6 +2,7 @@
 layout: term
 title: likidasyon
 slug: likidasyon
+letter: L
 lisan: Fransızca liquidation
 anlamlar:
 - ► tasfiye

@@ -2,6 +2,7 @@
 layout: term
 title: dağıtıverme
 slug: dagitiverme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dağıtıvermek işi

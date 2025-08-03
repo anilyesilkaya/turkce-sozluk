@@ -2,6 +2,7 @@
 layout: term
 title: çıplaklar kampı
 slug: ciplaklar-kampi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - İnsanların giysisiz dolaştıkları dinlenme bölgesi

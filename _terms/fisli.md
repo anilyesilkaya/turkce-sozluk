@@ -2,6 +2,7 @@
 layout: term
 title: fişli
 slug: fisli
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fişe yazılmış olan

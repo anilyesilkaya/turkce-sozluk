@@ -2,6 +2,7 @@
 layout: term
 title: koket
 slug: koket
+letter: K
 lisan: Fransızca coquette
 anlamlar:
 - Güzel görünmeye çalışan, süse düşkün, kırıtan (kadın)

@@ -2,6 +2,7 @@
 layout: term
 title: şirket
 slug: sirket
+letter: Ş
 lisan: Arapça şirket
 anlamlar:
 - ► ortaklık

@@ -2,6 +2,7 @@
 layout: term
 title: cumhur
 slug: cumhur
+letter: C
 lisan: Arapça cumhūr
 anlamlar:
 - ► halk (I)

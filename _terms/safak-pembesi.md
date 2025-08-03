@@ -2,6 +2,7 @@
 layout: term
 title: şafak pembesi
 slug: safak-pembesi
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Güneşin doğduğu anda görülen pembelik

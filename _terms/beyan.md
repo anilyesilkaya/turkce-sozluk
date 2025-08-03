@@ -2,6 +2,7 @@
 layout: term
 title: beyan
 slug: beyan
+letter: B
 lisan: Arapça beyān
 anlamlar:
 - ► bildirme

@@ -2,6 +2,7 @@
 layout: term
 title: negatif
 slug: negatif
+letter: N
 lisan: Fransızca négatif
 anlamlar:
 - ► olumsuz

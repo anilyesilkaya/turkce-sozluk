@@ -2,6 +2,7 @@
 layout: term
 title: zikri geçmek
 slug: zikri-gecmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - anılmak, adı geçmek

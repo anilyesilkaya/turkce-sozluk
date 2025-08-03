@@ -2,6 +2,7 @@
 layout: term
 title: 'parça pinçik '
 slug: parca-pincik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Parçalanmış, yırtılmış olan

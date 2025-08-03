@@ -2,6 +2,7 @@
 layout: term
 title: adaptasyon
 slug: adaptasyon
+letter: A
 lisan: Fransızca adaptation
 anlamlar:
 - ► uyarlama

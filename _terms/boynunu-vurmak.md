@@ -2,6 +2,7 @@
 layout: term
 title: boynunu vurmak
 slug: boynunu-vurmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - başını keserek öldürmek

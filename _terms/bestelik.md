@@ -2,6 +2,7 @@
 layout: term
 title: bestelik
 slug: bestelik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beste olma durumu

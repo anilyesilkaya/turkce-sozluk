@@ -2,6 +2,7 @@
 layout: term
 title: garsiyat
 slug: garsiyat
+letter: G
 lisan: Arapça ġarsiyyāt
 anlamlar:
 - Ağaç dikmeler, ağaçlandırmalar

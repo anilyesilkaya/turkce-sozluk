@@ -2,6 +2,7 @@
 layout: term
 title: beti benzi kalmamak
 slug: beti-benzi-kalmamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - yüzü sararıp solmak

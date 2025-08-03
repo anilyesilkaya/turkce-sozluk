@@ -2,6 +2,7 @@
 layout: term
 title: Bektaşi babası
 slug: bektasi-babasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bektaşilikte mürşitlik makamına ulaşmış, dergâhta düzenlenen törenleri ve dergâhın iç işlerini yöneten derviş

@@ -2,6 +2,7 @@
 layout: term
 title: lobicilik
 slug: lobicilik
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lobici olma durumu; dalancılık

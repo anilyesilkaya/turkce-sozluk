@@ -2,6 +2,7 @@
 layout: term
 title: Danca
 slug: danca
+letter: D
 lisan: Türkçe
 anlamlar:
 - Danimarkalılar tarafından kullanılan dil

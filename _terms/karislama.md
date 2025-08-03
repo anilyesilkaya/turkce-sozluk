@@ -2,6 +2,7 @@
 layout: term
 title: karışlama
 slug: karislama
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karışlamak işi

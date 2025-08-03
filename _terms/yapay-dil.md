@@ -2,6 +2,7 @@
 layout: term
 title: yapay dil
 slug: yapay-dil
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Farklı dilleri konuşan insanların anlaşabilmesi için oluşturulan dil; yapma dil

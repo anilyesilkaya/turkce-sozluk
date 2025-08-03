@@ -2,6 +2,7 @@
 layout: term
 title: iradeli
 slug: iradeli
+letter: I
 lisan: Türkçe
 anlamlar:
 - İradesi olan

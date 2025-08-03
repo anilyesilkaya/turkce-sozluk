@@ -2,6 +2,7 @@
 layout: term
 title: köşe taşı
 slug: kose-tasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Binalarda tek parça biçiminde köşeleri tutan taş

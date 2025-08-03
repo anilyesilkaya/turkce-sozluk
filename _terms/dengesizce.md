@@ -2,6 +2,7 @@
 layout: term
 title: dengesizce
 slug: dengesizce
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dengesiz bir biçimde

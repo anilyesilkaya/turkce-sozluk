@@ -2,6 +2,7 @@
 layout: term
 title: yıldızı düşük
 slug: yildizi-dusuk
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Şanssız, talihsiz (kimse)

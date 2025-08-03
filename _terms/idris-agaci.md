@@ -2,6 +2,7 @@
 layout: term
 title: İdris ağacı
 slug: idris-agaci
+letter: İ
 lisan: Türkçe
 anlamlar:
 - Gülgillerden, Anadolu'nun kuzey ve doğu kesimlerinde yüksek yerlerde yetişen, boyu 10 metreye ulaşabilen bir tür ağaç; kokulu kiraz, mahlep (Prunus mahaleb)

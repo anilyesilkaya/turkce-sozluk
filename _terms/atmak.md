@@ -2,6 +2,7 @@
 layout: term
 title: atmak
 slug: atmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir cismi bir yöne doğru fırlatmak

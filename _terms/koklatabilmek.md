@@ -2,6 +2,7 @@
 layout: term
 title: koklatabilmek
 slug: koklatabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Koklatma ihtimali veya imkânı bulunmak

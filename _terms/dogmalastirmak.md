@@ -2,6 +2,7 @@
 layout: term
 title: dogmalaştırmak
 slug: dogmalastirmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir inancı dogma durumuna getirmek

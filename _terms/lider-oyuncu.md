@@ -2,6 +2,7 @@
 layout: term
 title: 'lider oyuncu '
 slug: lider-oyuncu
+letter: L
 lisan: Türkçe
 anlamlar:
 - Bir takımda oyunu, yarışmayı yönlendirme başarısını gösteren oyuncu

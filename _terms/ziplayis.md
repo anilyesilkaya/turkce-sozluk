@@ -2,6 +2,7 @@
 layout: term
 title: zıplayış
 slug: ziplayis
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zıplamak işi

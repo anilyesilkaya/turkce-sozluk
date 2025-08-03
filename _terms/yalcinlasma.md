@@ -2,6 +2,7 @@
 layout: term
 title: yalçınlaşma
 slug: yalcinlasma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yalçınlaşmak işi

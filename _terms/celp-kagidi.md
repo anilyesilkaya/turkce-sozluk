@@ -2,6 +2,7 @@
 layout: term
 title: celp kâğıdı
 slug: celp-kagidi
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► çağrı belgesi

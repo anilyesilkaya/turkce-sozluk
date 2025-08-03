@@ -2,6 +2,7 @@
 layout: term
 title: yargıç
 slug: yargic
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Millet adına, yargı yetkisini kullanarak yasaya aykırı davranışlarda veya uyuşulmayan işlerde yasayı yerine getirmekle, adaleti gerçekleştirmekle görevli kimse; hâkim

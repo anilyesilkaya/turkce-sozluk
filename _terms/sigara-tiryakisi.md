@@ -2,6 +2,7 @@
 layout: term
 title: sigara tiryakisi
 slug: sigara-tiryakisi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sigaraya aşırı düşkün olan kimse

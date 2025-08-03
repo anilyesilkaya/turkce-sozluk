@@ -2,6 +2,7 @@
 layout: term
 title: dikiş
 slug: dikis
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dikmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: konuş
 slug: konus
+letter: K
 lisan: Türkçe
 anlamlar:
 - Konmak işi

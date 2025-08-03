@@ -2,6 +2,7 @@
 layout: term
 title: algı
 slug: algi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir şeye dikkati yönelterek o şeyin bilincine varma; idrak

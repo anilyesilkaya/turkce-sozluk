@@ -2,6 +2,7 @@
 layout: term
 title: narsist kompleksi
 slug: narsist-kompleksi
+letter: N
 lisan: Türkçe
 anlamlar:
 - Kendini sevme özelliğini ön plana çıkarma duygusu

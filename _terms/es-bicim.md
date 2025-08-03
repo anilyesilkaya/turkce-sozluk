@@ -2,6 +2,7 @@
 layout: term
 title: eş biçim
 slug: es-bicim
+letter: E
 lisan: Türkçe
 anlamlar:
 - Başka bir şeyin biçim veya yapı bakımından aynısı olan şey; izomorf

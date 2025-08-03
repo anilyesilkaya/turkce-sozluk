@@ -2,6 +2,7 @@
 layout: term
 title: bozguna uğratmak
 slug: bozguna-ugratmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - yenip perişan etmek, dağıtmak, hezimete uğratmak

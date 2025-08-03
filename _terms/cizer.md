@@ -2,6 +2,7 @@
 layout: term
 title: çizer
 slug: cizer
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► karikatürcü

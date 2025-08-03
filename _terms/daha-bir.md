@@ -2,6 +2,7 @@
 layout: term
 title: daha bir
 slug: daha-bir
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► farklı

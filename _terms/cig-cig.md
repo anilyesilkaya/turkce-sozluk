@@ -2,6 +2,7 @@
 layout: term
 title: çiğ çiğ
 slug: cig-cig
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çiğ olarak, çiğ bir biçimde

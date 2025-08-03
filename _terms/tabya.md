@@ -2,6 +2,7 @@
 layout: term
 title: tabya
 slug: tabya
+letter: T
 lisan: Arapça taʿbiye
 anlamlar:
 - Bir bölgeyi savunmak için yapılan ve silahlarla güçlendirilen yapı; tabiye

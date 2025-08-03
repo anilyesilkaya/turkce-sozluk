@@ -2,6 +2,7 @@
 layout: term
 title: vadetmek
 slug: vadetmek
+letter: V
 lisan: Arapça vaʿd + Türkçe etmek
 anlamlar:
 - Bir işi yerine getireceğine söz vermek

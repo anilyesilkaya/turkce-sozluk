@@ -2,6 +2,7 @@
 layout: term
 title: başını kaşımaya (veya kaşıyacak) vakti olmamak
 slug: basini-kasimaya-veya-kasiyacak-vakti-olmamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - arada en ufak başka bir iş yapamayacak kadar sıkışık durumda bulunmak

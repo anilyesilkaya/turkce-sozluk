@@ -2,6 +2,7 @@
 layout: term
 title: filtre kahve
 slug: filtre-kahve
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► süzme kahve

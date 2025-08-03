@@ -2,6 +2,7 @@
 layout: term
 title: hostes
 slug: hostes
+letter: H
 lisan: İngilizce hostess
 anlamlar:
 - Taşıtlarda, özellikle uçaklarda yolcu ağırlayan kadın

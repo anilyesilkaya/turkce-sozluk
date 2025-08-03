@@ -2,6 +2,7 @@
 layout: term
 title: sepeleme
 slug: sepeleme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sepelemek işi

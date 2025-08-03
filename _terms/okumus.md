@@ -2,6 +2,7 @@
 layout: term
 title: okumuş
 slug: okumus
+letter: O
 lisan: Türkçe
 anlamlar:
 - Okuyarak bilgisini genişletmiş, öğrenim görmüş (kimse)

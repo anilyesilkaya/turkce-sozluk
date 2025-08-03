@@ -2,6 +2,7 @@
 layout: term
 title: taahhüt etmek
 slug: taahhut-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - üstlenmek

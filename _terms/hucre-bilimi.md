@@ -2,6 +2,7 @@
 layout: term
 title: hücre bilimi
 slug: hucre-bilimi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Biyolojinin, hücrenin yapısı, görevi, çoğalması ve hayatıyla ilgili dalı; göze bilimi, sitoloji

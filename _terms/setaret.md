@@ -2,6 +2,7 @@
 layout: term
 title: şetaret
 slug: setaret
+letter: Ş
 lisan: Arapça şeṭāret
 anlamlar:
 - ► şenlik

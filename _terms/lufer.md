@@ -2,6 +2,7 @@
 layout: term
 title: lüfer
 slug: lufer
+letter: L
 lisan: Rumca
 anlamlar:
 - Eti ve karnı beyaz, sırtı koyu, hafif pullu, kemikli bir balık (Pomatomus saltatrix)

@@ -2,6 +2,7 @@
 layout: term
 title: müvezzi
 slug: muvezzi
+letter: M
 lisan: Arapça muvezziʿ
 anlamlar:
 - ► dağıtıcı

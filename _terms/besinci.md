@@ -2,6 +2,7 @@
 layout: term
 title: beşinci
 slug: besinci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beş sayısının sıra sıfatı, sırada dördüncüden sonra gelen

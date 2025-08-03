@@ -2,6 +2,7 @@
 layout: term
 title: müthiş
 slug: muthis
+letter: M
 lisan: Arapça mudhiş
 anlamlar:
 - ► korkunç

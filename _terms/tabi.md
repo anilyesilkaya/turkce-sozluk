@@ -2,6 +2,7 @@
 layout: term
 title: tabi
 slug: tabi
+letter: T
 lisan: Arapça ṭābiʿ
 anlamlar:
 - ► basıcı

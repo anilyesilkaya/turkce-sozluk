@@ -2,6 +2,7 @@
 layout: term
 title: kökleştirmek
 slug: koklestirmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kökleşmesini sağlamak

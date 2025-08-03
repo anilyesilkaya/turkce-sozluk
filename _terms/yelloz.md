@@ -2,6 +2,7 @@
 layout: term
 title: yelloz
 slug: yelloz
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Ahlaksız, hafifmeşrep, şıllık (kadın)

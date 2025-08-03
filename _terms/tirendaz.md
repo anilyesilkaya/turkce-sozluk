@@ -2,6 +2,7 @@
 layout: term
 title: tirendaz
 slug: tirendaz
+letter: T
 lisan: Farsça tīrendāz
 anlamlar:
 - Ok atan

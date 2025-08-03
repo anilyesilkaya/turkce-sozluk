@@ -2,6 +2,7 @@
 layout: term
 title: terör
 slug: teror
+letter: T
 lisan: Fransızca terreur
 anlamlar:
 - Karşı tarafa korku salma, cana kıyma, malı yakıp yıkma; yıldırı, tedhiş

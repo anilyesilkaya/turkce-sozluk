@@ -2,6 +2,7 @@
 layout: term
 title: milat
 slug: milat
+letter: M
 lisan: Arapça mīlād
 anlamlar:
 - Hz. İsa'nın doğduğu gün

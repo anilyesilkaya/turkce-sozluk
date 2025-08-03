@@ -2,6 +2,7 @@
 layout: term
 title: organtin
 slug: organtin
+letter: O
 lisan: Fransızca organtine
 anlamlar:
 - Seyrek dokunmuş, ince, sert bir kumaş

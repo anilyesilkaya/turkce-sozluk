@@ -2,6 +2,7 @@
 layout: term
 title: ipek
 slug: ipek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İpek böceği kozaları çözülerek çıkarılan ve dokumacılıkta kullanılan çok ince, esnek ve parlak tel; harir

@@ -2,6 +2,7 @@
 layout: term
 title: oburcasına
 slug: oburcasina
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► oburca

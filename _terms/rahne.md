@@ -2,6 +2,7 @@
 layout: term
 title: rahne
 slug: rahne
+letter: R
 lisan: Farsça raḫne
 anlamlar:
 - ► gedik

@@ -2,6 +2,7 @@
 layout: term
 title: çapaklanabilme
 slug: capaklanabilme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çapaklanabilmek işi

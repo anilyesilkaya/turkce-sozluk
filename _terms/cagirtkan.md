@@ -2,6 +2,7 @@
 layout: term
 title: çağırtkan
 slug: cagirtkan
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çığırtkan

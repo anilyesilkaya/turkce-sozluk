@@ -2,6 +2,7 @@
 layout: term
 title: gıcıkça
 slug: gicikca
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gıcık bir biçimde olan

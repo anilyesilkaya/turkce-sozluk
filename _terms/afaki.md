@@ -2,6 +2,7 @@
 layout: term
 title: afaki
 slug: afaki
+letter: A
 lisan: Arapça āfāḳī
 anlamlar:
 - Gereksiz, önemsiz (söz)

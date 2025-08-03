@@ -2,6 +2,7 @@
 layout: term
 title: yat
 slug: yat
+letter: Y
 lisan: İngilizce yacht
 anlamlar:
 - Özel gezinti gemisi

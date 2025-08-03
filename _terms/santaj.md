@@ -2,6 +2,7 @@
 layout: term
 title: şantaj
 slug: santaj
+letter: Ş
 lisan: Fransızca chantage
 anlamlar:
 - Herhangi bir çıkar sağlamak amacıyla bir kimseyi, kendisiyle ilgili lekeleyici, gözden düşürücü bir haberi yayma veya açığa çıkarma tehdidiyle korkutma

@@ -2,6 +2,7 @@
 layout: term
 title: sırt
 slug: sirt
+letter: S
 lisan: Türkçe
 anlamlar:
 - Omurgalı veya omurgasız hayvanlarda boyundan kuyruk sokumuna kadar uzanan üst bölüm

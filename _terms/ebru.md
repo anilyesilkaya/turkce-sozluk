@@ -2,6 +2,7 @@
 layout: term
 title: ebru
 slug: ebru
+letter: E
 lisan: Farsça ebrī
 anlamlar:
 - Kâğıt süslemeciliğinde kitre, kola vb. yapıştırıcılarla yoğunlaştırılmış su üzerine, neft yağı ile sulandırılmış yağlı boya damlatılarak yapılan ve kâğıda geçirilen süs

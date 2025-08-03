@@ -2,6 +2,7 @@
 layout: term
 title: baş çevirtmek
 slug: bas-cevirtmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - başı arkaya doğru döndürtmek

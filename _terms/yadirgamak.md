@@ -2,6 +2,7 @@
 layout: term
 title: yadırgamak
 slug: yadirgamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Kendine yabancı gelen bir kimseye, duruma veya şeye alışamamak, ısınamamak

@@ -2,6 +2,7 @@
 layout: term
 title: kozu kaz anlamak
 slug: kozu-kaz-anlamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - sözü ters anlamak

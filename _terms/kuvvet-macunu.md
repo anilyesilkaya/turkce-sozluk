@@ -2,6 +2,7 @@
 layout: term
 title: kuvvet macunu
 slug: kuvvet-macunu
+letter: K
 lisan: Türkçe
 anlamlar:
 - İçindeki maddeler dolayısıyla cinsel gücü artıran karışım

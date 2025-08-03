@@ -2,6 +2,7 @@
 layout: term
 title: tırtıklı
 slug: tirtikli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tırtığı olan

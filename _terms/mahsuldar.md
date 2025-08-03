@@ -2,6 +2,7 @@
 layout: term
 title: mahsuldar
 slug: mahsuldar
+letter: M
 lisan: Arapça maḥṣūl + Farsça -dār
 anlamlar:
 - ► verimli

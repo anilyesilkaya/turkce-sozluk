@@ -2,6 +2,7 @@
 layout: term
 title: ayrı basım
 slug: ayri-basim
+letter: A
 lisan: Türkçe
 anlamlar:
 - Genellikle bir dergide yayımlanmış bilimsel bir yazının ayrı bir broşür olarak basımı

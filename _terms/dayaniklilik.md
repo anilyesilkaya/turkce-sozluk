@@ -2,6 +2,7 @@
 layout: term
 title: dayanıklılık
 slug: dayaniklilik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dayanıklı olma durumu; dayanıklık, dayantı, metînlik, metanetlilik

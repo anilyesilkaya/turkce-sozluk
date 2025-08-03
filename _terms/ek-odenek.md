@@ -2,6 +2,7 @@
 layout: term
 title: ek ödenek
 slug: ek-odenek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Aylık ücretlere ek olarak verilen prim veya ikramiye

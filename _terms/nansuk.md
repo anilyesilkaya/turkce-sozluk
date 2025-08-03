@@ -2,6 +2,7 @@
 layout: term
 title: nansuk
 slug: nansuk
+letter: N
 lisan: Fransızca nansouk
 anlamlar:
 - Bir cins ince, sık dokunmuş patiska

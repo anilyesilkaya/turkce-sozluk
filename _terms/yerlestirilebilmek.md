@@ -2,6 +2,7 @@
 layout: term
 title: yerleştirilebilmek
 slug: yerlestirilebilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yerleştirme ihtimali veya imkânı bulunmak

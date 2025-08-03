@@ -2,6 +2,7 @@
 layout: term
 title: zoolog
 slug: zoolog
+letter: Z
 lisan: Fransızca zoologue
 anlamlar:
 - ► hayvan bilimci

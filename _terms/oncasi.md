@@ -2,6 +2,7 @@
 layout: term
 title: oncası
 slug: oncasi
+letter: O
 lisan: Türkçe
 anlamlar:
 - O kadarı

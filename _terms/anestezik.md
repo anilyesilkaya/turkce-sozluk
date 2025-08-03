@@ -2,6 +2,7 @@
 layout: term
 title: anestezik
 slug: anestezik
+letter: A
 lisan: Fransızca anesthésique
 anlamlar:
 - Eter, kloroform gibi uyuşturma özelliği olan

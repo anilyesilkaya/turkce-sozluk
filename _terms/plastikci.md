@@ -2,6 +2,7 @@
 layout: term
 title: plastikçi
 slug: plastikci
+letter: P
 lisan: Türkçe
 anlamlar:
 - Plastik işi yapan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: bir çuval inciri berbat etmek
 slug: bir-cuval-inciri-berbat-etmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - düzelmekte olan bir durumu yersiz, yanlış davranışlarla bozmak

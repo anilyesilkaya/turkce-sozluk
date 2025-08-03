@@ -2,6 +2,7 @@
 layout: term
 title: kariha
 slug: kariha
+letter: K
 lisan: Arapça ḳarīḥa
 anlamlar:
 - Düşünme gücü

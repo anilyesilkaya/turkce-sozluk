@@ -2,6 +2,7 @@
 layout: term
 title: kitara
 slug: kitara
+letter: K
 lisan: Rumca
 anlamlar:
 - Genellikle altı telli olup telleri iki parmak arasında çekilerek çalınan bir tür çalgı

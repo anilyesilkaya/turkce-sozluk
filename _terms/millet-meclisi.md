@@ -2,6 +2,7 @@
 layout: term
 title: millet meclisi
 slug: millet-meclisi
+letter: M
 lisan: Türkçe
 anlamlar:
 - Milletvekillerinin oluşturduğu kurul

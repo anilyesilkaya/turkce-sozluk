@@ -2,6 +2,7 @@
 layout: term
 title: biyeli
 slug: biyeli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Biye geçirilmiş, biyesi olan

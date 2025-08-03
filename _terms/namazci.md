@@ -2,6 +2,7 @@
 layout: term
 title: namazcı
 slug: namazci
+letter: N
 lisan: Türkçe
 anlamlar:
 - Namazını düzenli kılan kimse

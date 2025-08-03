@@ -2,6 +2,7 @@
 layout: term
 title: kütük
 slug: kutuk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalın ağaç gövdesi

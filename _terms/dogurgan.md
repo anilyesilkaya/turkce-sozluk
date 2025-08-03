@@ -2,6 +2,7 @@
 layout: term
 title: doğurgan
 slug: dogurgan
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çok doğuran

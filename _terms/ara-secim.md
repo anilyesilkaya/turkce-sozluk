@@ -2,6 +2,7 @@
 layout: term
 title: ara seçim
 slug: ara-secim
+letter: A
 lisan: Türkçe
 anlamlar:
 - Genel seçimler dışında yapılan ara dönem seçimleri

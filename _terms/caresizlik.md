@@ -2,6 +2,7 @@
 layout: term
 title: çaresizlik
 slug: caresizlik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çaresiz olma durumu; umarsızlık, biçarelik

@@ -2,6 +2,7 @@
 layout: term
 title: kanaat getirmek
 slug: kanaat-getirmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - kanmak, aklı yatmak, inanmak

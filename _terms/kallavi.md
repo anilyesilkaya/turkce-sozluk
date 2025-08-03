@@ -2,6 +2,7 @@
 layout: term
 title: kallavi
 slug: kallavi
+letter: K
 lisan: Arapça ḳallāvī
 anlamlar:
 - Vezir ve sadrazamların giydikleri bir tür kavuk

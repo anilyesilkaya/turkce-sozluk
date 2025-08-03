@@ -2,6 +2,7 @@
 layout: term
 title: sakkarozölçer
 slug: sakkarozolcer
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sakkaroza göre derecelenen ve bir sıvının kuruluğunu tespit eden yoğunlukölçer; sakkarometre

@@ -2,6 +2,7 @@
 layout: term
 title: uca
 slug: uca
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► yüce

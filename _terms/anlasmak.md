@@ -2,6 +2,7 @@
 layout: term
 title: anlaşmak
 slug: anlasmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Düşünce, duygu, amaç bakımından birleşmek; antant kalmak

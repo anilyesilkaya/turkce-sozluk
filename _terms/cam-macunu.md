@@ -2,6 +2,7 @@
 layout: term
 title: cam macunu
 slug: cam-macunu
+letter: C
 lisan: Türkçe
 anlamlar:
 - Camı yuvasına tutturmak ve yalıtkanlık sağlamak amacı ile kullanılan bezir yağı ve üstübeç karışımı macun; camcı macunu

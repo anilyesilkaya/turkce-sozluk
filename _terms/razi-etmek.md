@@ -2,6 +2,7 @@
 layout: term
 title: razı etmek
 slug: razi-etmek
+letter: R
 lisan: Türkçe
 anlamlar:
 - kabul ettirmek

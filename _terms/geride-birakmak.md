@@ -2,6 +2,7 @@
 layout: term
 title: geride bırakmak
 slug: geride-birakmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - yarışta birini geçmek, daha üstün olmak

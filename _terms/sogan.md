@@ -2,6 +2,7 @@
 layout: term
 title: soğan
 slug: sogan
+letter: S
 lisan: Türkçe
 anlamlar:
 - Zambakgillerden, yumrusu ve yeşil yaprakları salata ve yemeklere tat vermek için kullanılan, acımsı, keskin kokulu bir bitki (Allium cepa)

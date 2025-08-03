@@ -2,6 +2,7 @@
 layout: term
 title: yalım
 slug: yalim
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► alev (I)

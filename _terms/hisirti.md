@@ -2,6 +2,7 @@
 layout: term
 title: hışırtı
 slug: hisirti
+letter: H
 lisan: Türkçe
 anlamlar:
 - İnce cisimler hışırdarken çıkan sesin adı

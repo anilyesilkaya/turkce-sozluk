@@ -2,6 +2,7 @@
 layout: term
 title: akamet
 slug: akamet
+letter: A
 lisan: Arapça ʿaḳāmet
 anlamlar:
 - ► verimsizlik

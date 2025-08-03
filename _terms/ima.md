@@ -2,6 +2,7 @@
 layout: term
 title: ima
 slug: ima
+letter: I
 lisan: Arapça īmāʾ
 anlamlar:
 - Dolaylı olarak anlatma, üstü kapalı olarak belirtme; işaretleme, anıştırma, ihsas

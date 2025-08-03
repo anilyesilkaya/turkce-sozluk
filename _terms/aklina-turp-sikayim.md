@@ -2,6 +2,7 @@
 layout: term
 title: aklına turp sıkayım
 slug: aklina-turp-sikayim
+letter: A
 lisan: Türkçe
 anlamlar:
 - aklına şaşayım

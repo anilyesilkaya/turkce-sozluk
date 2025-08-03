@@ -2,6 +2,7 @@
 layout: term
 title: öksürük tıksırık
 slug: oksuruk-tiksirik
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Sık sık öksürme

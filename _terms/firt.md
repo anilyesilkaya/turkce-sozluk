@@ -2,6 +2,7 @@
 layout: term
 title: fırt
 slug: firt
+letter: F
 lisan: Türkçe
 anlamlar:
 - Baskı sonucu birdenbire yerinden çıkan bir şeyin çıkardığı sesin adı

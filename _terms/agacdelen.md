@@ -2,6 +2,7 @@
 layout: term
 title: ağaçdelen
 slug: agacdelen
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yuva yapmak için ağaçları oyan böcek

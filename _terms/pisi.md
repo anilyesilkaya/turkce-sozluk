@@ -2,6 +2,7 @@
 layout: term
 title: pişi
 slug: pisi
+letter: P
 lisan: Türkçe
 anlamlar:
 - Mayalı hamurdan yapılan, yağda kızartılarak pişirilen bir yiyecek türü; bişi

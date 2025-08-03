@@ -2,6 +2,7 @@
 layout: term
 title: yatıştırmak
 slug: yatistirmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir kargaşayı, ayaklanmayı bastırmak

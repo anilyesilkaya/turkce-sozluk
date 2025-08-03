@@ -2,6 +2,7 @@
 layout: term
 title: teşekkül
 slug: tesekkul
+letter: T
 lisan: Arapça teşekkul
 anlamlar:
 - ► oluşum

@@ -2,6 +2,7 @@
 layout: term
 title: levazımcılık
 slug: levazimcilik
+letter: L
 lisan: Türkçe
 anlamlar:
 - Levazımcının görevi

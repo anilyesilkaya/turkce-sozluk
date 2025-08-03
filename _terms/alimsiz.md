@@ -2,6 +2,7 @@
 layout: term
 title: alımsız
 slug: alimsiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Çekici olmayan

@@ -2,6 +2,7 @@
 layout: term
 title: madensel
 slug: madensel
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► madenî

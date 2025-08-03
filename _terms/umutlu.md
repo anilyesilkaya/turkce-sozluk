@@ -2,6 +2,7 @@
 layout: term
 title: umutlu
 slug: umutlu
+letter: U
 lisan: Türkçe
 anlamlar:
 - Umudu olan, umut besleyen; ümitli, ümitvar

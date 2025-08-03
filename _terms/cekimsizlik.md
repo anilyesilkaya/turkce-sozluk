@@ -2,6 +2,7 @@
 layout: term
 title: çekimsizlik
 slug: cekimsizlik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çekimsiz olma durumu

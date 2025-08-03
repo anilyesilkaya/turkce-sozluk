@@ -2,6 +2,7 @@
 layout: term
 title: adam kıtlığında
 slug: adam-kitliginda
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► adam yokluğunda

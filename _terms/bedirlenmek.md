@@ -2,6 +2,7 @@
 layout: term
 title: bedirlenmek
 slug: bedirlenmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Dolunay biçimini almak

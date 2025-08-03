@@ -2,6 +2,7 @@
 layout: term
 title: ormancı
 slug: ormanci
+letter: O
 lisan: Türkçe
 anlamlar:
 - Ormanı korumakla görevli kimse; orman muhafaza memuru

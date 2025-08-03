@@ -2,6 +2,7 @@
 layout: term
 title: fukara
 slug: fukara
+letter: F
 lisan: Arapça fuḳarā
 anlamlar:
 - ► yoksul

@@ -2,6 +2,7 @@
 layout: term
 title: otist
 slug: otist
+letter: O
 lisan: Fransızca autiste
 anlamlar:
 - ► otizmli

@@ -2,6 +2,7 @@
 layout: term
 title: aşurelik
 slug: asurelik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aşure yapmada kullanılan

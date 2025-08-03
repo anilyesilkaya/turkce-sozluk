@@ -2,6 +2,7 @@
 layout: term
 title: geçerlik
 slug: gecerlik
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► geçerlilik

@@ -2,6 +2,7 @@
 layout: term
 title: kuşkusuz
 slug: kuskusuz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kuşkusu olmayan; şüphesiz

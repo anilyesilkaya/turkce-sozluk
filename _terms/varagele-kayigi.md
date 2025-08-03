@@ -2,6 +2,7 @@
 layout: term
 title: varagele kayığı
 slug: varagele-kayigi
+letter: V
 lisan: Türkçe
 anlamlar:
 - İki nokta arasında ulaşımı ve haberleşmeyi sağlayan kayık

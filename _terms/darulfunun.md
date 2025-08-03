@@ -2,6 +2,7 @@
 layout: term
 title: darülfünun
 slug: darulfunun
+letter: D
 lisan: Arapça dār + funūn
 anlamlar:
 - ► üniversite

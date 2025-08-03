@@ -2,6 +2,7 @@
 layout: term
 title: alıkoymak
 slug: alikoymak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir süre için bir yerde tutmak

@@ -2,6 +2,7 @@
 layout: term
 title: makabline şamil
 slug: makabline-samil
+letter: M
 lisan: Türkçe
 anlamlar:
 - Önceyi kapsayan

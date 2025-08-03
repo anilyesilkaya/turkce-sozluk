@@ -2,6 +2,7 @@
 layout: term
 title: dâhiliye mütehassısı
 slug: dahiliye-mutehassisi
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► iç hastalıkları uzmanı

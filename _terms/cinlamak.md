@@ -2,6 +2,7 @@
 layout: term
 title: çınlamak
 slug: cinlamak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - '"Çın" diye ses çıkarmak'

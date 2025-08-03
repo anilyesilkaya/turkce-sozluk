@@ -2,6 +2,7 @@
 layout: term
 title: sözü geçmek
 slug: sozu-gecmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - kendisini kabul ettirmiş olmak, hatırı sayılmak

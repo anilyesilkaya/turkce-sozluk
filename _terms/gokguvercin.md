@@ -2,6 +2,7 @@
 layout: term
 title: gökgüvercin
 slug: gokguvercin
+letter: G
 lisan: Türkçe
 anlamlar:
 - Genellikle Avrupa ve Yakın Doğu'da bahçelik yerlerde yaşayan bir tür kuş (Columba oenas)

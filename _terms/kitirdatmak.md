@@ -2,6 +2,7 @@
 layout: term
 title: kıtırdatmak
 slug: kitirdatmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - '"Kıtır" diye gevrek ses çıkartmak'

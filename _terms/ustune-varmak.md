@@ -2,6 +2,7 @@
 layout: term
 title: üstüne varmak
 slug: ustune-varmak
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - bir şey yapmasını baskı yaparak istemek

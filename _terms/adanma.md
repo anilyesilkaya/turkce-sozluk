@@ -2,6 +2,7 @@
 layout: term
 title: adanma
 slug: adanma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Adanmak işi

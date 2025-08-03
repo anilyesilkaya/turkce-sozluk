@@ -2,6 +2,7 @@
 layout: term
 title: mihaniki
 slug: mihaniki
+letter: M
 lisan: Arapça miḫānikī
 anlamlar:
 - Düşünmeden, ölçülerek değil de yalnızca alışkanlığın verdiği kolaylıkla veya yalnız kasların hareketiyle yapılan (iş, hareket vb.)

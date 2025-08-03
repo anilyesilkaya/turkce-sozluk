@@ -2,6 +2,7 @@
 layout: term
 title: imamevi
 slug: imamevi
+letter: I
 lisan: Türkçe
 anlamlar:
 - Kadınlara özgü cezaevi

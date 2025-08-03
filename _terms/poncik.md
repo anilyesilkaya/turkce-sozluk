@@ -2,6 +2,7 @@
 layout: term
 title: ponçik
 slug: poncik
+letter: P
 lisan: Rusça
 anlamlar:
 - Kruvasana benzeyen, içi marmelatlı bir tür kurabiye

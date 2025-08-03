@@ -2,6 +2,7 @@
 layout: term
 title: kısmak
 slug: kismak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sesi azaltmak, alçaltmak

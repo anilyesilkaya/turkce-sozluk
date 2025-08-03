@@ -2,6 +2,7 @@
 layout: term
 title: uşaklık
 slug: usaklik
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uşak olma durumu; hizmetkârlık

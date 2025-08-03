@@ -2,6 +2,7 @@
 layout: term
 title: hesaba katılmamak
 slug: hesaba-katilmamak
+letter: H
 lisan: Türkçe
 anlamlar:
 - göz önüne alınmamak

@@ -2,6 +2,7 @@
 layout: term
 title: hatırlatış
 slug: hatirlatis
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► anımsatış

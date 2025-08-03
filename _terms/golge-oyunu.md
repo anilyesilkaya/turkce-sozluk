@@ -2,6 +2,7 @@
 layout: term
 title: gölge oyunu
 slug: golge-oyunu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Geriden ışıkla aydınlatılmış bir perde arkasında hareket ettirilen resimlerin gölgelerinden yararlanılarak oynatılan oyun

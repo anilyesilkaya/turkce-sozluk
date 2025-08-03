@@ -2,6 +2,7 @@
 layout: term
 title: iftar
 slug: iftar
+letter: I
 lisan: Arapça ifṭār
 anlamlar:
 - Oruç açma, oruç bozma

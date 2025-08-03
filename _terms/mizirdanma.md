@@ -2,6 +2,7 @@
 layout: term
 title: mızırdanma
 slug: mizirdanma
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mızırdanmak işi; mızıldanma, sızıldanma

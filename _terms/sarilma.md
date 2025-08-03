@@ -2,6 +2,7 @@
 layout: term
 title: sarılma
 slug: sarilma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sarılmak işi

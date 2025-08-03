@@ -2,6 +2,7 @@
 layout: term
 title: karbonmonoksit
 slug: karbonmonoksit
+letter: K
 lisan: Fransızca carbone monooxyde
 anlamlar:
 - 0,97 yoğunluğunda, mavi bir alevle yanan, hava ile birleştiğinde patlayıcı özelliği olan, renksiz, kokusuz, zehirleyici bir gaz (CO)

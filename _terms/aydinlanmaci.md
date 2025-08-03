@@ -2,6 +2,7 @@
 layout: term
 title: aydınlanmacı
 slug: aydinlanmaci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aydınlanma yanlısı olan

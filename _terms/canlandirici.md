@@ -2,6 +2,7 @@
 layout: term
 title: canlandırıcı
 slug: canlandirici
+letter: C
 lisan: Türkçe
 anlamlar:
 - Canlılık veren, canlılık kazandıran şey

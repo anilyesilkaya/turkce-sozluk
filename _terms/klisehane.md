@@ -2,6 +2,7 @@
 layout: term
 title: klişehane
 slug: klisehane
+letter: K
 lisan: Fransızca cliché + Farsça ḫāne
 anlamlar:
 - Klişe yapılan yer

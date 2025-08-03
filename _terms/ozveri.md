@@ -2,6 +2,7 @@
 layout: term
 title: özveri
 slug: ozveri
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Bir amaç uğruna veya gerçekleştirilmesi istenen herhangi bir şey için kendi çıkarlarından vazgeçme; fedakârlık

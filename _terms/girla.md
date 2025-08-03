@@ -2,6 +2,7 @@
 layout: term
 title: gırla
 slug: girla
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► alabildiğine

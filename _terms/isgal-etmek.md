@@ -2,6 +2,7 @@
 layout: term
 title: işgal etmek
 slug: isgal-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - bir yeri ele geçirmek

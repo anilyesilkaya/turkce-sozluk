@@ -2,6 +2,7 @@
 layout: term
 title: emniyet etmek
 slug: emniyet-etmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - güvenmek

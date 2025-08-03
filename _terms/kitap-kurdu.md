@@ -2,6 +2,7 @@
 layout: term
 title: kitap kurdu
 slug: kitap-kurdu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kitapları yiyerek zarar veren bir böcek

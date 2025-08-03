@@ -2,6 +2,7 @@
 layout: term
 title: blok nizam
 slug: blok-nizam
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir taraftan komşu parseldeki binaya bitişik, diğer taraftan ayrık olan ikili veya ikiz yapı düzeni; blok inşaat

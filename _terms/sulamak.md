@@ -2,6 +2,7 @@
 layout: term
 title: sulamak
 slug: sulamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Toprak, bitki, hayvan vb.ne su vermek

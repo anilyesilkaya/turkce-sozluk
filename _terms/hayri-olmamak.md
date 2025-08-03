@@ -2,6 +2,7 @@
 layout: term
 title: hayrı olmamak
 slug: hayri-olmamak
+letter: H
 lisan: Türkçe
 anlamlar:
 - iyiliği dokunmamak, yarar sağlamamak

@@ -2,6 +2,7 @@
 layout: term
 title: uyuz böcekleri
 slug: uyuz-bocekleri
+letter: U
 lisan: Türkçe
 anlamlar:
 - Memelilerde ve kuşlarda asalak olarak yaşayan, uyuz hastalığına yol açan böcekler familyası; uyuz böceğigiller

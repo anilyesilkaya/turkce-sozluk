@@ -2,6 +2,7 @@
 layout: term
 title: oyunbozanlık etmek
 slug: oyunbozanlik-etmek
+letter: O
 lisan: Türkçe
 anlamlar:
 - birlikte yapılması planlanan bir işten çekilmek

@@ -2,6 +2,7 @@
 layout: term
 title: ölüm sükûtu
 slug: olum-sukutu
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► ölüm sessizliği

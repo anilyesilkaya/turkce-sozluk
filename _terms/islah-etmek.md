@@ -2,6 +2,7 @@
 layout: term
 title: ıslah etmek
 slug: islah-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - iyi bir duruma getirmek, iyileştirmek, düzeltmek

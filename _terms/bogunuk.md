@@ -2,6 +2,7 @@
 layout: term
 title: boğunuk
 slug: bogunuk
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► boğuk

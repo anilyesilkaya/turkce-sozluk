@@ -2,6 +2,7 @@
 layout: term
 title: rabbani
 slug: rabbani
+letter: R
 lisan: Arapça rabbānī
 anlamlar:
 - Allah ile ilgili, Allah'a bağlı, ilahi, Allah'tan gelen

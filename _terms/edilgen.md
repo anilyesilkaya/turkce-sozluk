@@ -2,6 +2,7 @@
 layout: term
 title: edilgen
 slug: edilgen
+letter: E
 lisan: Türkçe
 anlamlar:
 - Yapılan işten etkilenen; pasif, etken karşıtı

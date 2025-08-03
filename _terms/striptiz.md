@@ -2,6 +2,7 @@
 layout: term
 title: striptiz
 slug: striptiz
+letter: S
 lisan: İngilizce strip-tease
 anlamlar:
 - Genellikle gece kulüplerinde, pavyonlarda müzik eşliğinde dans edip soyunarak yapılan gösteri

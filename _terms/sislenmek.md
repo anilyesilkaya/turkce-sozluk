@@ -2,6 +2,7 @@
 layout: term
 title: sislenmek
 slug: sislenmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sisle kaplanmak, sise bürünmek

@@ -2,6 +2,7 @@
 layout: term
 title: somak
 slug: somak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Hayvanlarda yüzün çıkıntılı ve az çok sivri olan ön bölümü

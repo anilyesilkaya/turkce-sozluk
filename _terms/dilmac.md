@@ -2,6 +2,7 @@
 layout: term
 title: dilmaç
 slug: dilmac
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► çevirmen

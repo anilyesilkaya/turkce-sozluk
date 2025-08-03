@@ -2,6 +2,7 @@
 layout: term
 title: düşünüş
 slug: dusunus
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düşünmek işi

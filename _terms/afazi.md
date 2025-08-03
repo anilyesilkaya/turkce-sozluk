@@ -2,6 +2,7 @@
 layout: term
 title: afazi
 slug: afazi
+letter: A
 lisan: Fransızca aphasie
 anlamlar:
 - ► söz yitimi

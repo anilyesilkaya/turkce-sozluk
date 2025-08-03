@@ -2,6 +2,7 @@
 layout: term
 title: tabiatsızlık
 slug: tabiatsizlik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tabiatsız olma durumu

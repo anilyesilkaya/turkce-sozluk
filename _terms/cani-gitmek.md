@@ -2,6 +2,7 @@
 layout: term
 title: canı gitmek
 slug: cani-gitmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - özen gösterilen, çok sevilen bir şeye zarar gelecek diye kaygılanmak

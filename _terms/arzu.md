@@ -2,6 +2,7 @@
 layout: term
 title: arzu
 slug: arzu
+letter: A
 lisan: Farsça ārzū
 anlamlar:
 - ► istek

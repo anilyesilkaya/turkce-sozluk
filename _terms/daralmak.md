@@ -2,6 +2,7 @@
 layout: term
 title: daralmak
 slug: daralmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dar duruma gelmek; darlaşmak

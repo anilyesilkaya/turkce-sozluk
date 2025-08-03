@@ -2,6 +2,7 @@
 layout: term
 title: ele geçirmek
 slug: ele-gecirmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - bir kimseyi yakalamak

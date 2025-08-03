@@ -2,6 +2,7 @@
 layout: term
 title: olaylı
 slug: olayli
+letter: O
 lisan: Türkçe
 anlamlar:
 - Olayı olan, olay çıkmış olan; hadiseli

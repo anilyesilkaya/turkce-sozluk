@@ -2,6 +2,7 @@
 layout: term
 title: hayatını (birine) borçlu olmak
 slug: hayatini-birine-borclu-olmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - biri tarafından ölümden kurtarılmış olmak

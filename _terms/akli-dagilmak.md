@@ -2,6 +2,7 @@
 layout: term
 title: aklı dağılmak
 slug: akli-dagilmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - düşünceyi belli bir konu, sorun üzerinde toplayamamak

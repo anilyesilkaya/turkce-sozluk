@@ -2,6 +2,7 @@
 layout: term
 title: zifaf
 slug: zifaf
+letter: Z
 lisan: Arapça zifāf
 anlamlar:
 - ► gerdek

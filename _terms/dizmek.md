@@ -2,6 +2,7 @@
 layout: term
 title: dizmek
 slug: dizmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bazı nesneleri iplik, tel vb.ne geçirmek

@@ -2,6 +2,7 @@
 layout: term
 title: vasıtasız
 slug: vasitasiz
+letter: V
 lisan: Türkçe
 anlamlar:
 - ► araçsız

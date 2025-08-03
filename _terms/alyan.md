@@ -2,6 +2,7 @@
 layout: term
 title: alyan
 slug: alyan
+letter: A
 lisan: İngilizce allen
 anlamlar:
 - Cıvataları çıkarıp takmaya yarayan, altıgen kesitli, L biçiminde alet; alyan anahtarı

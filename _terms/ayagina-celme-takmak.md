@@ -2,6 +2,7 @@
 layout: term
 title: ayağına çelme takmak
 slug: ayagina-celme-takmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - biri yürürken ayakları arasına ayak uzatıp düşürmek

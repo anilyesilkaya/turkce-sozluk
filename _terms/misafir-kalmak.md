@@ -2,6 +2,7 @@
 layout: term
 title: misafir kalmak
 slug: misafir-kalmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - bir yerde yiyip içmek, yatmak ve konuk olarak ilgi görmek

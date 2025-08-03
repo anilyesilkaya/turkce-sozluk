@@ -2,6 +2,7 @@
 layout: term
 title: beş on
 slug: bes-on
+letter: B
 lisan: Türkçe
 anlamlar:
 - Az sayıda, biraz

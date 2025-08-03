@@ -2,6 +2,7 @@
 layout: term
 title: mikropluk
 slug: mikropluk
+letter: M
 lisan: Türkçe
 anlamlar:
 - Yaramazlık, kötülük, fesatlık

@@ -2,6 +2,7 @@
 layout: term
 title: çıldırtıcı
 slug: cildirtici
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıldırmaya yol açan

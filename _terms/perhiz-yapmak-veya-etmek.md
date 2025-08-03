@@ -2,6 +2,7 @@
 layout: term
 title: perhiz yapmak (veya etmek)
 slug: perhiz-yapmak-veya-etmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - sağlığı korumak veya düzeltmek amacıyla özel bir beslenme düzeni uygulamak

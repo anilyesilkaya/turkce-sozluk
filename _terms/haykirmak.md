@@ -2,6 +2,7 @@
 layout: term
 title: haykırmak
 slug: haykirmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Telaş, şikâyet vb. sebeplerle yüksek sesle bağırmak

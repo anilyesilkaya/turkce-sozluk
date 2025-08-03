@@ -2,6 +2,7 @@
 layout: term
 title: çölleştirmek
 slug: collestirmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çöl durumuna getirmek

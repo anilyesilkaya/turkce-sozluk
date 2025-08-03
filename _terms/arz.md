@@ -2,6 +2,7 @@
 layout: term
 title: arz
 slug: arz
+letter: A
 lisan: Arapça arż
 anlamlar:
 - ► dünya

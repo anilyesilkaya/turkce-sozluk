@@ -2,6 +2,7 @@
 layout: term
 title: cayırdatmak
 slug: cayirdatmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - Sert, uzun, gürültülü ses çıkartmak

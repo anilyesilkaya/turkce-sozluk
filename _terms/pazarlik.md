@@ -2,6 +2,7 @@
 layout: term
 title: pazarlık
 slug: pazarlik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Bir alışverişte tarafların kendileri için en uygun fiyatı karşısındakine kabul ettirmek amacıyla yaptıkları görüşme

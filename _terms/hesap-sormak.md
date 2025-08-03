@@ -2,6 +2,7 @@
 layout: term
 title: hesap sormak
 slug: hesap-sormak
+letter: H
 lisan: Türkçe
 anlamlar:
 - bir konuda açıklama ve savunma istemek, sorumlu tutmak

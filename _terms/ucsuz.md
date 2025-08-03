@@ -2,6 +2,7 @@
 layout: term
 title: uçsuz
 slug: ucsuz
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ucu, sonu olmayan

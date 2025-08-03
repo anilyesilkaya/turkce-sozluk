@@ -2,6 +2,7 @@
 layout: term
 title: sermayeci
 slug: sermayeci
+letter: S
 lisan: Türkçe
 anlamlar:
 - Üretim araçlarını özel mülkiyetinde bulunduran kimse; anamalcı, anamal sahibi, sermayedar, kapitalist

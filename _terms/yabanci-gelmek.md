@@ -2,6 +2,7 @@
 layout: term
 title: yabancı gelmek
 slug: yabanci-gelmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - tanımamak

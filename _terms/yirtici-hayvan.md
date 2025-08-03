@@ -2,6 +2,7 @@
 layout: term
 title: yırtıcı hayvan
 slug: yirtici-hayvan
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yabani hayvan

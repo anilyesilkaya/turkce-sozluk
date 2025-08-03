@@ -2,6 +2,7 @@
 layout: term
 title: hak yerini bulur (veya yerde kalmaz)
 slug: hak-yerini-bulur-veya-yerde-kalmaz
+letter: H
 lisan: Türkçe
 anlamlar:
 - '"haksızlık er geç ortaya çıkar" anlamında kullanılan bir söz'

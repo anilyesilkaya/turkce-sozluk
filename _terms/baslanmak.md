@@ -2,6 +2,7 @@
 layout: term
 title: başlanmak
 slug: baslanmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başlama işine konu olmak

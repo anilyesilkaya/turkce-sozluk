@@ -2,6 +2,7 @@
 layout: term
 title: tanıtıcı
 slug: tanitici
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tanıtma işini yapan, tanıtan

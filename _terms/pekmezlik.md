@@ -2,6 +2,7 @@
 layout: term
 title: pekmezlik
 slug: pekmezlik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pekmez yapmak için ayrılmış

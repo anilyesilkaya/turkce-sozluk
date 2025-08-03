@@ -2,6 +2,7 @@
 layout: term
 title: mahcup
 slug: mahcup
+letter: M
 lisan: Arapça maḥcūb
 anlamlar:
 - ► utangaç

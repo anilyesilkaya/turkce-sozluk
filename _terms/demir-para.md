@@ -2,6 +2,7 @@
 layout: term
 title: demir para
 slug: demir-para
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► madenî para

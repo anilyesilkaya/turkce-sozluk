@@ -2,6 +2,7 @@
 layout: term
 title: kahpecik
 slug: kahpecik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Oynak, kırıtkan

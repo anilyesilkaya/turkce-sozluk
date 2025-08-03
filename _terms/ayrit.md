@@ -2,6 +2,7 @@
 layout: term
 title: ayrıt
 slug: ayrit
+letter: A
 lisan: Türkçe
 anlamlar:
 - İki düzlemin ara kesiti

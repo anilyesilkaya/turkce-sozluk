@@ -2,6 +2,7 @@
 layout: term
 title: öç
 slug: oc
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Kötü bir davranış veya sözü cezalandırmak için kötülükle karşılık verme isteği ve işi; intikam, ah

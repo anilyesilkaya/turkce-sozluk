@@ -2,6 +2,7 @@
 layout: term
 title: Frenk üzümü
 slug: frenk-uzumu
+letter: F
 lisan: Türkçe
 anlamlar:
 - Taşkırangillerden bir çalı (Fibes nigrum)

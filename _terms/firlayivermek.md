@@ -2,6 +2,7 @@
 layout: term
 title: fırlayıvermek
 slug: firlayivermek
+letter: F
 lisan: Türkçe
 anlamlar:
 - Çabucak fırlamak

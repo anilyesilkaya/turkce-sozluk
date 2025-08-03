@@ -2,6 +2,7 @@
 layout: term
 title: onurlu
 slug: onurlu
+letter: O
 lisan: Türkçe
 anlamlar:
 - Onuru olan veya onurunu üstün tutan; haysiyetli, alicenap

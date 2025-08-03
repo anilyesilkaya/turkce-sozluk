@@ -2,6 +2,7 @@
 layout: term
 title: örümcek kızılı
 slug: orumcek-kizili
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Örümcek kuşunun sırt rengi

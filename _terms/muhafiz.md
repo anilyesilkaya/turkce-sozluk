@@ -2,6 +2,7 @@
 layout: term
 title: muhafız
 slug: muhafiz
+letter: M
 lisan: Arapça muḥāfiẓ
 anlamlar:
 - ► koruyucu

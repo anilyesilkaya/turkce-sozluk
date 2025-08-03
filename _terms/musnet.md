@@ -2,6 +2,7 @@
 layout: term
 title: müsnet
 slug: musnet
+letter: M
 lisan: Arapça müsned
 anlamlar:
 - Yüklenmiş olan, dayandırılan, isnat olunan

@@ -2,6 +2,7 @@
 layout: term
 title: inebilmek
 slug: inebilmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İnme ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: hat
 slug: hat
+letter: H
 lisan: Arapça ḫaṭṭ
 anlamlar:
 - ► çizgi

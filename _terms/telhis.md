@@ -2,6 +2,7 @@
 layout: term
 title: telhis
 slug: telhis
+letter: T
 lisan: Arapça telḫīs
 anlamlar:
 - ► özet

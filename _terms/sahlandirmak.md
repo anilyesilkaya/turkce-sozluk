@@ -2,6 +2,7 @@
 layout: term
 title: şahlandırmak
 slug: sahlandirmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şahlanmasına sebep olmak

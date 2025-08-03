@@ -2,6 +2,7 @@
 layout: term
 title: alt dudak
 slug: alt-dudak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Dudaklardan altta bulunanı

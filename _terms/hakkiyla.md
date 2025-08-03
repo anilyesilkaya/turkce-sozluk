@@ -2,6 +2,7 @@
 layout: term
 title: hakkıyla
 slug: hakkiyla
+letter: H
 lisan: Türkçe
 anlamlar:
 - Gereği gibi; iyice

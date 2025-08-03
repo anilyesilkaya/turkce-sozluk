@@ -2,6 +2,7 @@
 layout: term
 title: çifte nağra
 slug: cifte-nagra
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► nakkare

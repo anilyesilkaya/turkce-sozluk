@@ -2,6 +2,7 @@
 layout: term
 title: kısırlık
 slug: kisirlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kısır olma durumu

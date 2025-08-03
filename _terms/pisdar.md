@@ -2,6 +2,7 @@
 layout: term
 title: pişdar
 slug: pisdar
+letter: P
 lisan: Farsça pīşdār
 anlamlar:
 - ► öncü

@@ -2,6 +2,7 @@
 layout: term
 title: destek
 slug: destek
+letter: D
 lisan: Farsça destek
 anlamlar:
 - Bir şeyin yıkılmaması için konulan eğik veya düz ağaç; dayak (II), payanda

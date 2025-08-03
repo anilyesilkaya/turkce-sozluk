@@ -2,6 +2,7 @@
 layout: term
 title: dingildek
 slug: dingildek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Tabanı üzerinde hareketsiz duramayıp sallanan

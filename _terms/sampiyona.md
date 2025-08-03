@@ -2,6 +2,7 @@
 layout: term
 title: şampiyona
 slug: sampiyona
+letter: Ş
 lisan: Fransızca championnat
 anlamlar:
 - Şampiyonluk yarışması

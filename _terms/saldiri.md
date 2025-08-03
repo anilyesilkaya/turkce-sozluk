@@ -2,6 +2,7 @@
 layout: term
 title: saldırı
 slug: saldiri
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kötülük yapmak, yıpratmak amacıyla doğrudan doğruya silahlı veya silahsız bir eylemde bulunma; hücum, taarruz, tecavüz

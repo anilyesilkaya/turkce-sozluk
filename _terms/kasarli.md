@@ -2,6 +2,7 @@
 layout: term
 title: kaşarlı
 slug: kasarli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaşarla yapılmış

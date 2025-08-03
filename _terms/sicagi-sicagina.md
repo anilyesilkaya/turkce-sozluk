@@ -2,6 +2,7 @@
 layout: term
 title: sıcağı sıcağına
 slug: sicagi-sicagina
+letter: S
 lisan: Türkçe
 anlamlar:
 - Hemen, anında, vakit geçirmeden

@@ -2,6 +2,7 @@
 layout: term
 title: çapar
 slug: capar
+letter: Ç
 lisan: Farsça çepār
 anlamlar:
 - Benekli, alacalı (hayvan ve bitki)

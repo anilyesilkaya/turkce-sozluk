@@ -2,6 +2,7 @@
 layout: term
 title: uyluk
 slug: uyluk
+letter: U
 lisan: Türkçe
 anlamlar:
 - Kalçadan dize kadar olan bacak bölümü

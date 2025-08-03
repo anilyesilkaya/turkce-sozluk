@@ -2,6 +2,7 @@
 layout: term
 title: üstadane
 slug: ustadane
+letter: Ü
 lisan: Farsça ustādāne
 anlamlar:
 - ► üstatça

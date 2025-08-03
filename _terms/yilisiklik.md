@@ -2,6 +2,7 @@
 layout: term
 title: yılışıklık
 slug: yilisiklik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yılışık olma durumu

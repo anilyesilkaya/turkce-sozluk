@@ -2,6 +2,7 @@
 layout: term
 title: tercümanlık
 slug: tercumanlik
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► çevirmenlik

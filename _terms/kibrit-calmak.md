@@ -2,6 +2,7 @@
 layout: term
 title: kibrit çalmak
 slug: kibrit-calmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kibriti yakmak

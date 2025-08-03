@@ -2,6 +2,7 @@
 layout: term
 title: bir tutamlık
 slug: bir-tutamlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bir tutam

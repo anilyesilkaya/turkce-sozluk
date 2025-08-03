@@ -2,6 +2,7 @@
 layout: term
 title: öpülme
 slug: opulme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öpülmek işi

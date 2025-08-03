@@ -2,6 +2,7 @@
 layout: term
 title: arınmışlık
 slug: arinmislik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arınmış olma durumu

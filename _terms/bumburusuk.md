@@ -2,6 +2,7 @@
 layout: term
 title: bumburuşuk
 slug: bumburusuk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çok, iyice buruşmuş olan

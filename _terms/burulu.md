@@ -2,6 +2,7 @@
 layout: term
 title: bürülü
 slug: burulu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bürünmüş

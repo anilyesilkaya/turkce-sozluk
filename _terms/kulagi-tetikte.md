@@ -2,6 +2,7 @@
 layout: term
 title: kulağı tetikte
 slug: kulagi-tetikte
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kulağı kirişte

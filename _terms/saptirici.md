@@ -2,6 +2,7 @@
 layout: term
 title: saptırıcı
 slug: saptirici
+letter: S
 lisan: Türkçe
 anlamlar:
 - Saptıran, sapmaya yol açan, sapmaya sebep olan kimse

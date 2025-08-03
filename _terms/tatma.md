@@ -2,6 +2,7 @@
 layout: term
 title: tatma
 slug: tatma
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tatmak işi

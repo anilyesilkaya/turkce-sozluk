@@ -2,6 +2,7 @@
 layout: term
 title: teşbih
 slug: tesbih
+letter: T
 lisan: Arapça teşbīh
 anlamlar:
 - ► benzetme

@@ -2,6 +2,7 @@
 layout: term
 title: düğümlü
 slug: dugumlu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düğümlenmiş olan

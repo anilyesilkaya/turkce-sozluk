@@ -2,6 +2,7 @@
 layout: term
 title: taşlaşma
 slug: taslasma
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taşlaşmak durumu

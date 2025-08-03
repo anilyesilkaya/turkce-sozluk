@@ -2,6 +2,7 @@
 layout: term
 title: adı deliye çıkmak
 slug: adi-deliye-cikmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - deli olmadığı hâlde deli olarak tanınmak

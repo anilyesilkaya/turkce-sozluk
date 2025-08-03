@@ -2,6 +2,7 @@
 layout: term
 title: eve çıkmak
 slug: eve-cikmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - aileden ayrılıp ayrı bir evde oturmak

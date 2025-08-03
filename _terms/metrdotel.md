@@ -2,6 +2,7 @@
 layout: term
 title: metrdotel
 slug: metrdotel
+letter: M
 lisan: Fransızca maître d'hôtel
 anlamlar:
 - Bir restoranda mesleğinin en üst seviyesine ulaşmış, müşteri karşısında patronu veya müdürü temsil eden, müşteriyle iyi ilişki kuran, servisleri sevk ve idare eden kimse

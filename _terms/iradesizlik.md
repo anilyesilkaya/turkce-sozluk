@@ -2,6 +2,7 @@
 layout: term
 title: iradesizlik
 slug: iradesizlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İradesiz olma durumu; istençsizlik, gayriiradilik

@@ -2,6 +2,7 @@
 layout: term
 title: bıkkın
 slug: bikkin
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çok bıkmış, usanmış, bezmiş

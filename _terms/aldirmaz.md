@@ -2,6 +2,7 @@
 layout: term
 title: aldırmaz
 slug: aldirmaz
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► ilgisiz

@@ -2,6 +2,7 @@
 layout: term
 title: bademlik
 slug: bademlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Badem ağaçları çok olan yer; badem bahçesi

@@ -2,6 +2,7 @@
 layout: term
 title: toygar
 slug: toygar
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► tarla kuşu

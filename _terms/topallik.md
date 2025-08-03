@@ -2,6 +2,7 @@
 layout: term
 title: topallık
 slug: topallik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Topal olma durumu

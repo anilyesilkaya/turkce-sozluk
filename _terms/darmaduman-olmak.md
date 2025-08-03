@@ -2,6 +2,7 @@
 layout: term
 title: darmaduman olmak
 slug: darmaduman-olmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - karmakarışık bir duruma gelmek

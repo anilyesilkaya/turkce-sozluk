@@ -2,6 +2,7 @@
 layout: term
 title: ağırlaştırıcı neden
 slug: agirlastirici-neden
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağırlaştırıcı sebep

@@ -2,6 +2,7 @@
 layout: term
 title: hamil
 slug: hamil
+letter: H
 lisan: Arapça ḥāmil
 anlamlar:
 - Elinde bulunduran, üzerinde taşıyan

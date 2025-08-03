@@ -2,6 +2,7 @@
 layout: term
 title: ümmi
 slug: ummi
+letter: Ü
 lisan: Arapça ummī
 anlamlar:
 - Okuyup yazması olmayan

@@ -2,6 +2,7 @@
 layout: term
 title: genellenmek
 slug: genellenmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Genelleme işine konu olmak

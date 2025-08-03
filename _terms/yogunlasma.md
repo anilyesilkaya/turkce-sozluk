@@ -2,6 +2,7 @@
 layout: term
 title: yoğunlaşma
 slug: yogunlasma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yoğunlaşmak işi; tekâsüf

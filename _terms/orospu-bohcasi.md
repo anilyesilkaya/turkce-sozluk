@@ -2,6 +2,7 @@
 layout: term
 title: orospu bohçası
 slug: orospu-bohcasi
+letter: O
 lisan: Türkçe
 anlamlar:
 - Derli toplu olmayan, düğümleri gelişigüzel yapılmış, içi kötü düzenlenmiş bohça

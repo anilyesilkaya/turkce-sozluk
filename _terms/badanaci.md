@@ -2,6 +2,7 @@
 layout: term
 title: badanacı
 slug: badanaci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Geçimini badana yapmakla kazanan kimse

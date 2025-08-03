@@ -2,6 +2,7 @@
 layout: term
 title: keçeleşmek
 slug: kecelesmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Saç, iplik vb.nin telleri birbirinin içine girip karışarak ayrılmaz olmak; keçelenmek

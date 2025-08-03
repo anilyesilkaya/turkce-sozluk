@@ -2,6 +2,7 @@
 layout: term
 title: asfalt kesilmek
 slug: asfalt-kesilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - asfalt gibi sertleşmek

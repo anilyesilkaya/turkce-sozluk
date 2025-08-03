@@ -2,6 +2,7 @@
 layout: term
 title: it sürüsü kadar
 slug: it-surusu-kadar
+letter: I
 lisan: Türkçe
 anlamlar:
 - çok kalabalık

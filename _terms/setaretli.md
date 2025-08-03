@@ -2,6 +2,7 @@
 layout: term
 title: şetaretli
 slug: setaretli
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► şenlikli

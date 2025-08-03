@@ -2,6 +2,7 @@
 layout: term
 title: siyasa
 slug: siyasa
+letter: S
 lisan: Arapça siyāset
 anlamlar:
 - ► politika

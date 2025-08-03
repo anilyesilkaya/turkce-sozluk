@@ -2,6 +2,7 @@
 layout: term
 title: şerefeli
 slug: serefeli
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şerefesi olan (minare)

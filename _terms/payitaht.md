@@ -2,6 +2,7 @@
 layout: term
 title: payitaht
 slug: payitaht
+letter: P
 lisan: Farsça pāy + taḫt
 anlamlar:
 - ► başkent

@@ -2,6 +2,7 @@
 layout: term
 title: taş baskı
 slug: tas-baski
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► taş basması

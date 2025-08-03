@@ -2,6 +2,7 @@
 layout: term
 title: 'oto yıkamacı '
 slug: oto-yikamaci
+letter: O
 lisan: Türkçe
 anlamlar:
 - Taşıtların iç ve dışını temizleyen, yıkayan (kimse)

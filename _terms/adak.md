@@ -2,6 +2,7 @@
 layout: term
 title: adak
 slug: adak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Adanılan şey; nezir

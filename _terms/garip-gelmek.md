@@ -2,6 +2,7 @@
 layout: term
 title: garip gelmek
 slug: garip-gelmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - garip bulmak, yadırgamak

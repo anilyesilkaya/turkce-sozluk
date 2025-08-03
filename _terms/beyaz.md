@@ -2,6 +2,7 @@
 layout: term
 title: beyaz
 slug: beyaz
+letter: B
 lisan: Arapça beyāż
 anlamlar:
 - Ak, kara ve siyah karşıtı

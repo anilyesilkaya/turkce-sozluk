@@ -2,6 +2,7 @@
 layout: term
 title: ivaz
 slug: ivaz
+letter: I
 lisan: Arapça ʿivaż
 anlamlar:
 - ► ödün

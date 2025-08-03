@@ -2,6 +2,7 @@
 layout: term
 title: alafrangalaşmak
 slug: alafrangalasmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alafranga olmak, alafranga davranmak

@@ -2,6 +2,7 @@
 layout: term
 title: ifrit kesilmek (veya olmak)
 slug: ifrit-kesilmek-veya-olmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - çok öfkelenmek, çok kızmak

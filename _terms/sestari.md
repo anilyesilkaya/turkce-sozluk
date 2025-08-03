@@ -2,6 +2,7 @@
 layout: term
 title: şeştari
 slug: sestari
+letter: Ş
 lisan: Farsça şeştārį
 anlamlar:
 - İpek veya ipekle pamuk karışımı bir tür çizgili kumaş

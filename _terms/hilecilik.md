@@ -2,6 +2,7 @@
 layout: term
 title: hilecilik
 slug: hilecilik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hileci olma durumu; aynacılık, dolmacılık, hilebazlık, hilekârlık

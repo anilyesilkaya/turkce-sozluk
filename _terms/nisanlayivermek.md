@@ -2,6 +2,7 @@
 layout: term
 title: nişanlayıvermek
 slug: nisanlayivermek
+letter: N
 lisan: Türkçe
 anlamlar:
 - Çabucak veya ansızın nişanlamak

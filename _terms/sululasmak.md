@@ -2,6 +2,7 @@
 layout: term
 title: sululaşmak
 slug: sululasmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Yersiz, yavan şakalar yapmak

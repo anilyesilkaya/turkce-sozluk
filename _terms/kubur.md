@@ -2,6 +2,7 @@
 layout: term
 title: kubur
 slug: kubur
+letter: K
 lisan: Türkçe
 anlamlar:
 - Tuvalet deliğinden lağıma inen boru

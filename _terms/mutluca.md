@@ -2,6 +2,7 @@
 layout: term
 title: mutluca
 slug: mutluca
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mutlu olmaya yakın

@@ -2,6 +2,7 @@
 layout: term
 title: bertik
 slug: bertik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bere (I)

@@ -2,6 +2,7 @@
 layout: term
 title: çürümek
 slug: curumek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Genellikle mikroorganizmaların etkisiyle, kimyasal değişikliğe uğrayarak bozulup dağılmak; ufunet

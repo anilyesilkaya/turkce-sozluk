@@ -2,6 +2,7 @@
 layout: term
 title: çengel bulmaca
 slug: cengel-bulmaca
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Soruları tablodaki karelerin içinde yer alan, cevaplara ait harflerin yazılması gerektiği yönü ok işaretiyle gösteren bir tür bulmaca

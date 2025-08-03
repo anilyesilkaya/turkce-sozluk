@@ -2,6 +2,7 @@
 layout: term
 title: bayrak direği
 slug: bayrak-diregi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bayrak asmak için hazırlanmış uzun direk; gönder

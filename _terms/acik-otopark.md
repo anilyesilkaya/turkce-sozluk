@@ -2,6 +2,7 @@
 layout: term
 title: açık otopark
 slug: acik-otopark
+letter: A
 lisan: Türkçe
 anlamlar:
 - Etrafı çevrili, üstü açık araç park yeri

@@ -2,6 +2,7 @@
 layout: term
 title: verem
 slug: verem
+letter: V
 lisan: Arapça verem
 anlamlar:
 - Herhangi bir organa ve en çok akciğerlere yerleşen Koch basilinin yol açtığı ateşli ve bulaşıcı bir hastalık; ince ağrı, ince hastalık, tüberküloz

@@ -2,6 +2,7 @@
 layout: term
 title: dünyanın ... sı
 slug: dunyanin-si
+letter: D
 lisan: Türkçe
 anlamlar:
 - pek çok

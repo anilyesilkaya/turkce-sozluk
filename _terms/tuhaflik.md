@@ -2,6 +2,7 @@
 layout: term
 title: tuhaflık
 slug: tuhaflik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tuhaf olma durumu; gariplik, garabet

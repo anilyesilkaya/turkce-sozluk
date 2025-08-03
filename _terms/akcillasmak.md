@@ -2,6 +2,7 @@
 layout: term
 title: akçıllaşmak
 slug: akcillasmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Akçıl duruma gelmiş olmak

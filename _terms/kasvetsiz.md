@@ -2,6 +2,7 @@
 layout: term
 title: kasvetsiz
 slug: kasvetsiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - İç sıkmayan

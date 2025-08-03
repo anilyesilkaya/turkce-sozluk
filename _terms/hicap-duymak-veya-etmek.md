@@ -2,6 +2,7 @@
 layout: term
 title: hicap duymak (veya etmek)
 slug: hicap-duymak-veya-etmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - utanmak

@@ -2,6 +2,7 @@
 layout: term
 title: uygulayıcı
 slug: uygulayici
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uygulayan, gereğini yapan; tatbikatçı

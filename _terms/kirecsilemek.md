@@ -2,6 +2,7 @@
 layout: term
 title: kireçsilemek
 slug: kirecsilemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Isı yardımıyla kirece çevirmek

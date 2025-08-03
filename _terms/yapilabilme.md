@@ -2,6 +2,7 @@
 layout: term
 title: yapılabilme
 slug: yapilabilme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yapılabilmek işi

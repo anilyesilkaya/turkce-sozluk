@@ -2,6 +2,7 @@
 layout: term
 title: arkadaş
 slug: arkadas
+letter: A
 lisan: Türkçe
 anlamlar:
 - Birbirlerine karşı sevgi ve anlayış gösteren kimselerden her biri; yoldaş

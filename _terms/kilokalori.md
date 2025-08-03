@@ -2,6 +2,7 @@
 layout: term
 title: kilokalori
 slug: kilokalori
+letter: K
 lisan: Fransızca kilocalorie
 anlamlar:
 - Büyük kalori, bin kalori

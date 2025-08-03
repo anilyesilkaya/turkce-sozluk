@@ -2,6 +2,7 @@
 layout: term
 title: kilit nokta
 slug: kilit-nokta
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bütün işlerin bağlı olduğu önemli nokta, makam veya yer; kilit mevki

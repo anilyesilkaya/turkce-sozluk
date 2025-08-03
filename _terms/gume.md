@@ -2,6 +2,7 @@
 layout: term
 title: güme
 slug: gume
+letter: G
 lisan: Türkçe
 anlamlar:
 - Avcı kulübesi

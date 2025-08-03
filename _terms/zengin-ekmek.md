@@ -2,6 +2,7 @@
 layout: term
 title: zengin ekmek
 slug: zengin-ekmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - İçine çeşitli vitaminlerin eklendiği, kepeği alınmamış ekmek

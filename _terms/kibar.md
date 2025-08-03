@@ -2,6 +2,7 @@
 layout: term
 title: kibar
 slug: kibar
+letter: K
 lisan: Arapça kibār
 anlamlar:
 - Davranış, düşünce, duygu bakımından ince, nazik olan (kimse)

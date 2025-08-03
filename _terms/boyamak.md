@@ -2,6 +2,7 @@
 layout: term
 title: boyamak
 slug: boyamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boya sürerek veya boyaya batırarak renk vermek

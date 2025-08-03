@@ -2,6 +2,7 @@
 layout: term
 title: polarma
 slug: polarma
+letter: P
 lisan: Türkçe
 anlamlar:
 - Doğrudan doğruya kendi kaynağından çıkan bir ışığın, yansıdıktan veya kırıldıktan sonra gösterdiği özelliklerin tümü; polarizasyon

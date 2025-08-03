@@ -2,6 +2,7 @@
 layout: term
 title: fütuhatçı
 slug: futuhatci
+letter: F
 lisan: Türkçe
 anlamlar:
 - Bir yeri fetheden

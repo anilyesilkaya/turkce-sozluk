@@ -2,6 +2,7 @@
 layout: term
 title: ast
 slug: ast
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► alt

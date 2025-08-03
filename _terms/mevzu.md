@@ -2,6 +2,7 @@
 layout: term
 title: mevzu
 slug: mevzu
+letter: M
 lisan: Arapça mevżūʿ
 anlamlar:
 - ► konu

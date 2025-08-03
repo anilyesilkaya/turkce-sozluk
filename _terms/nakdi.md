@@ -2,6 +2,7 @@
 layout: term
 title: nakdî
 slug: nakdi
+letter: N
 lisan: Arapça naḳdī
 anlamlar:
 - ► parasal

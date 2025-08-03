@@ -2,6 +2,7 @@
 layout: term
 title: pasif
 slug: pasif
+letter: P
 lisan: Fransızca passif
 anlamlar:
 - ► edilgin

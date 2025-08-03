@@ -2,6 +2,7 @@
 layout: term
 title: bırakıvermek
 slug: birakivermek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Ansızın ve çabucak bırakmak

@@ -2,6 +2,7 @@
 layout: term
 title: duyurmak
 slug: duyurmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Duymasını sağlamak

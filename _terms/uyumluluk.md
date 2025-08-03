@@ -2,6 +2,7 @@
 layout: term
 title: uyumluluk
 slug: uyumluluk
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyumlu olma durumu; uyarlık, uyarlılık, ahenklilik

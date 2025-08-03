@@ -2,6 +2,7 @@
 layout: term
 title: nevruz
 slug: nevruz
+letter: N
 lisan: Farsça nev + rūz
 anlamlar:
 - Eski takvimlere göre yılın ve baharın ilk günü sayılan martın yirmi birine rastlayan gün

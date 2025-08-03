@@ -2,6 +2,7 @@
 layout: term
 title: defibela kabîlinden
 slug: defibela-kabilinden
+letter: D
 lisan: Türkçe
 anlamlar:
 - bir belayı savarcasına

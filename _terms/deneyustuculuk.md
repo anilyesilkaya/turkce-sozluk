@@ -2,6 +2,7 @@
 layout: term
 title: deneyüstücülük
 slug: deneyustuculuk
+letter: D
 lisan: Türkçe
 anlamlar:
 - İnsan bilgisinin niteliğini ve ilkelerini akıl yoluyla çözmek amacıyla deney alanının ötesine gitmeye çalışan anlayış; mütealiye, transandantalizm

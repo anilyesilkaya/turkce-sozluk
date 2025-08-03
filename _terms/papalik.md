@@ -2,6 +2,7 @@
 layout: term
 title: papalık
 slug: papalik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Papanın makamı veya görevi

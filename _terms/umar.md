@@ -2,6 +2,7 @@
 layout: term
 title: umar
 slug: umar
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► çare

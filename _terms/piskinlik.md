@@ -2,6 +2,7 @@
 layout: term
 title: pişkinlik
 slug: piskinlik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pişkin olma durumu

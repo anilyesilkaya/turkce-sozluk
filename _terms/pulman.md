@@ -2,6 +2,7 @@
 layout: term
 title: pulman
 slug: pulman
+letter: P
 lisan: Fransızca (George Pullman özel adından)
 anlamlar:
 - Taşıtlarda kullanılan, gerektiğinde arkalığı geriye doğru yatan koltuk; yatar koltuk

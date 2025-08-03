@@ -2,6 +2,7 @@
 layout: term
 title: nevi şahsına münhasır
 slug: nevi-sahsina-munhasir
+letter: N
 lisan: Türkçe
 anlamlar:
 - Kendine özgü davranış ve karakteri olan (kimse)

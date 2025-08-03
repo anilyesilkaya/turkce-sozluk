@@ -2,6 +2,7 @@
 layout: term
 title: örtülü
 slug: ortulu
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Örtüsü olan

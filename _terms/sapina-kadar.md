@@ -2,6 +2,7 @@
 layout: term
 title: sapına kadar
 slug: sapina-kadar
+letter: S
 lisan: Türkçe
 anlamlar:
 - tam anlamıyla, bütünüyle

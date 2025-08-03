@@ -2,6 +2,7 @@
 layout: term
 title: hırslanmak
 slug: hirslanmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Aşırı istek duymak, tutkuyla davranmak

@@ -2,6 +2,7 @@
 layout: term
 title: meyveye durmak
 slug: meyveye-durmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - meyve verecek duruma gelmek

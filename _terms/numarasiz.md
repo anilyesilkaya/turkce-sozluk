@@ -2,6 +2,7 @@
 layout: term
 title: numarasız
 slug: numarasiz
+letter: N
 lisan: Türkçe
 anlamlar:
 - Numara verilerek belirtilmemiş

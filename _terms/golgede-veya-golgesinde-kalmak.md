@@ -2,6 +2,7 @@
 layout: term
 title: gölgede (veya gölgesinde) kalmak
 slug: golgede-veya-golgesinde-kalmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - adı sanı pek duyulmamak, ön plana çıkamamak, daha az ünlü olmak

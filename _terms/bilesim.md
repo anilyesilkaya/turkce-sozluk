@@ -2,6 +2,7 @@
 layout: term
 title: bileşim
 slug: bilesim
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bileşmek işi

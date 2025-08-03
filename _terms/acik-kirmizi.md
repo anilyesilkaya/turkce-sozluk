@@ -2,6 +2,7 @@
 layout: term
 title: açık kırmızı
 slug: acik-kirmizi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kırmızının bir veya birkaç ton açığı

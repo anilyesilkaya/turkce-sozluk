@@ -2,6 +2,7 @@
 layout: term
 title: urbasız
 slug: urbasiz
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► giysisiz

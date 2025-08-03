@@ -2,6 +2,7 @@
 layout: term
 title: bağıtlama
 slug: bagitlama
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağıtlamak işi

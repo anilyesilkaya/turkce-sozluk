@@ -2,6 +2,7 @@
 layout: term
 title: çıldırıvermek
 slug: cildirivermek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Ansızın çıldırmak

@@ -2,6 +2,7 @@
 layout: term
 title: sıra (veya sırasını) savmak
 slug: sira-veya-sirasini-savmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - sırayla yapılan bir işte sıra kendine geldiğinde gereğini yapmak

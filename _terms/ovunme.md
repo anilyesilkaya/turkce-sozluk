@@ -2,6 +2,7 @@
 layout: term
 title: övünme
 slug: ovunme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Övünmek işi; kıvanç, kıvançlanma, övünç, iftihar, tefahür, temeddüh

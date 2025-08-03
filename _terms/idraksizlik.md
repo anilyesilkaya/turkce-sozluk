@@ -2,6 +2,7 @@
 layout: term
 title: idraksizlik
 slug: idraksizlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► anlayışsızlık

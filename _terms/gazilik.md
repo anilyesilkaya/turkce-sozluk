@@ -2,6 +2,7 @@
 layout: term
 title: gazilik
 slug: gazilik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gazi olma durumu

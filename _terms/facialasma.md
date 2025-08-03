@@ -2,6 +2,7 @@
 layout: term
 title: facialaşma
 slug: facialasma
+letter: F
 lisan: Türkçe
 anlamlar:
 - Facialaşmak durumu

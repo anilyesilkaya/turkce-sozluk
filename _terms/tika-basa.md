@@ -2,6 +2,7 @@
 layout: term
 title: tıka basa
 slug: tika-basa
+letter: T
 lisan: Türkçe
 anlamlar:
 - Çok sıkıştırarak, boş yer kalmayacak biçimde

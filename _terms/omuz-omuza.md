@@ -2,6 +2,7 @@
 layout: term
 title: omuz omuza
 slug: omuz-omuza
+letter: O
 lisan: Türkçe
 anlamlar:
 - Çok sıkışık bir durumda, yan yana

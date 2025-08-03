@@ -2,6 +2,7 @@
 layout: term
 title: omca
 slug: omca
+letter: O
 lisan: Türkçe
 anlamlar:
 - Kalça kemiğinin bir bölümü

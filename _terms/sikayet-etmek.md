@@ -2,6 +2,7 @@
 layout: term
 title: şikâyet etmek
 slug: sikayet-etmek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - birinin yaptığı yanlış bir iş veya davranışı ilgili makama veya daha üst makamdakine bildirmek

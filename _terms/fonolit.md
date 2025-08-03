@@ -2,6 +2,7 @@
 layout: term
 title: fonolit
 slug: fonolit
+letter: F
 lisan: Fransızca phonolite
 anlamlar:
 - ► sesli taş

@@ -2,6 +2,7 @@
 layout: term
 title: pumba
 slug: pumba
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► pufla

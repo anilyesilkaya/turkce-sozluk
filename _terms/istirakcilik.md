@@ -2,6 +2,7 @@
 layout: term
 title: iştirakçilik
 slug: istirakcilik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İştirakçi olma durumu

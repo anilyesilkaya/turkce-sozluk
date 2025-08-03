@@ -2,6 +2,7 @@
 layout: term
 title: dalkavukluk
 slug: dalkavukluk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dalkavukça davranış; kemik yalayıcılık, çanak yalayıcılık, yağcılık, yalakalık, yalpaklık, yaltakçılık, yaltaklık, huluskârlık, tabasbus

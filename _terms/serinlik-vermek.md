@@ -2,6 +2,7 @@
 layout: term
 title: serinlik vermek
 slug: serinlik-vermek
+letter: S
 lisan: Türkçe
 anlamlar:
 - serin duruma getirmek

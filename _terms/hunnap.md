@@ -2,6 +2,7 @@
 layout: term
 title: hünnap
 slug: hunnap
+letter: H
 lisan: Arapça ʿunnāb
 anlamlar:
 - Hünnapgillerden, yenilen meyvesi için özellikle Batı ve Güney Anadolu'da yetiştirilen dikenli bir ağaç; çiğde (Zizyphus jujuba)

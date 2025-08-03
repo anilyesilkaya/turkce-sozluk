@@ -2,6 +2,7 @@
 layout: term
 title: horoz şekeri
 slug: horoz-sekeri
+letter: H
 lisan: Türkçe
 anlamlar:
 - Çeşitli renklerde yapılmış, ince tahta çubuğa takılıp satılan horoz biçiminde şeker

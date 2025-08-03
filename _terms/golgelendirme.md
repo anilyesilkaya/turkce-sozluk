@@ -2,6 +2,7 @@
 layout: term
 title: gölgelendirme
 slug: golgelendirme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gölgelendirmek işi

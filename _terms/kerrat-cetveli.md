@@ -2,6 +2,7 @@
 layout: term
 title: kerrat cetveli
 slug: kerrat-cetveli
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► çarpım tablosu

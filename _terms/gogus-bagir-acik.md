@@ -2,6 +2,7 @@
 layout: term
 title: göğüs bağır açık
 slug: gogus-bagir-acik
+letter: G
 lisan: Türkçe
 anlamlar:
 - özensiz bir kılıkta

@@ -2,6 +2,7 @@
 layout: term
 title: ışık değneği
 slug: isik-degnegi
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► ışık demeti

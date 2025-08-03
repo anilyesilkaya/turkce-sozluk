@@ -2,6 +2,7 @@
 layout: term
 title: dert sahibi
 slug: dert-sahibi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Üzüntüsü, sorunu olan

@@ -2,6 +2,7 @@
 layout: term
 title: üfleyivermek
 slug: ufleyivermek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Aniden üflemek

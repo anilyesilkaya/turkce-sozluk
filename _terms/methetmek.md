@@ -2,6 +2,7 @@
 layout: term
 title: methetmek
 slug: methetmek
+letter: M
 lisan: Arapça medḥ + Türkçe etmek
 anlamlar:
 - ► övmek

@@ -2,6 +2,7 @@
 layout: term
 title: yapış yapış
 slug: yapis-yapis
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yapışkan bir madde ile bulanmış

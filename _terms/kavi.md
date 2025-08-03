@@ -2,6 +2,7 @@
 layout: term
 title: kavi
 slug: kavi
+letter: K
 lisan: Arapça ḳavī
 anlamlar:
 - Dayanıklı, güçlü, zorlu olan

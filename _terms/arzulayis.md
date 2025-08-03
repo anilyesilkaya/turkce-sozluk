@@ -2,6 +2,7 @@
 layout: term
 title: arzulayış
 slug: arzulayis
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► isteyiş

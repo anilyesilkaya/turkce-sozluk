@@ -2,6 +2,7 @@
 layout: term
 title: kırpışmak
 slug: kirpismak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Göz kapakları çok ışıktan sık sık kırpılmak

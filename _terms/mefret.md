@@ -2,6 +2,7 @@
 layout: term
 title: mefret
 slug: mefret
+letter: M
 lisan: Arapça mefred
 anlamlar:
 - Kocaman, iri, büyük

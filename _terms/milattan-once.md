@@ -2,6 +2,7 @@
 layout: term
 title: milattan önce
 slug: milattan-once
+letter: M
 lisan: Türkçe
 anlamlar:
 - Miladi zaman başlangıcından geriye doğru sayılan yıllara göre belirtilen tarih; kablelmilat

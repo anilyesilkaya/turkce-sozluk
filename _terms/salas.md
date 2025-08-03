@@ -2,6 +2,7 @@
 layout: term
 title: salaş
 slug: salas
+letter: S
 lisan: Mar. salaş
 anlamlar:
 - Uyumsuz, kötü görünen

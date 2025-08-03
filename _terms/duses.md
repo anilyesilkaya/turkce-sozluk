@@ -2,6 +2,7 @@
 layout: term
 title: düşeş
 slug: duses
+letter: D
 lisan: Farsça dū + şeş
 anlamlar:
 - Zarla oynanan oyunlarda, atılan zarlardan her ikisinin de altı benekli olan yüzlerinin üste gelmesi

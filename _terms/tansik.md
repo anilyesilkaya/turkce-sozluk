@@ -2,6 +2,7 @@
 layout: term
 title: tansık
 slug: tansik
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► mucize

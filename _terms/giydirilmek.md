@@ -2,6 +2,7 @@
 layout: term
 title: giydirilmek
 slug: giydirilmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Giydirme işi yapılmak

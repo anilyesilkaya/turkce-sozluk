@@ -2,6 +2,7 @@
 layout: term
 title: camekânlı kutu
 slug: camekanli-kutu
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► televizyon

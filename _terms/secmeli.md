@@ -2,6 +2,7 @@
 layout: term
 title: seçmeli
 slug: secmeli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Seçilebilen

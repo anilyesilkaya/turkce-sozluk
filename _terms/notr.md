@@ -2,6 +2,7 @@
 layout: term
 title: nötr
 slug: notr
+letter: N
 lisan: Fransızca neutre
 anlamlar:
 - ► etkisiz

@@ -2,6 +2,7 @@
 layout: term
 title: değdirilebilme
 slug: degdirilebilme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Değdirilebilmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: aktarmalı
 slug: aktarmali
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aktarma gerektiren

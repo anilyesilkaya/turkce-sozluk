@@ -2,6 +2,7 @@
 layout: term
 title: bata çıka
 slug: bata-cika
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kar, çamur vb.ne batıp çıkarak

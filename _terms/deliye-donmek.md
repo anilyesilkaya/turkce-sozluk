@@ -2,6 +2,7 @@
 layout: term
 title: deliye dönmek
 slug: deliye-donmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - çok sevinmek

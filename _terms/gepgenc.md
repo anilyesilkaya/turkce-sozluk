@@ -2,6 +2,7 @@
 layout: term
 title: gepgenç
 slug: gepgenc
+letter: G
 lisan: Türkçe
 anlamlar:
 - Çok genç

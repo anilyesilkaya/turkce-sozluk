@@ -2,6 +2,7 @@
 layout: term
 title: felfelek sokmak
 slug: felfelek-sokmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - birini kuşkuya düşürmek

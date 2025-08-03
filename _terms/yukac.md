@@ -2,6 +2,7 @@
 layout: term
 title: yukaç
 slug: yukac
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yer katmanları kıvrımlarının tümsek bölümü; semer, ineç karşıtı

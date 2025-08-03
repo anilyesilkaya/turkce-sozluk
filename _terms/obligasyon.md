@@ -2,6 +2,7 @@
 layout: term
 title: obligasyon
 slug: obligasyon
+letter: O
 lisan: Fransızca obligation
 anlamlar:
 - ► tahvil

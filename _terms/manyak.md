@@ -2,6 +2,7 @@
 layout: term
 title: manyak
 slug: manyak
+letter: M
 lisan: Fransızca maniaque
 anlamlar:
 - Mani hastalığına yakalanmış (kimse)

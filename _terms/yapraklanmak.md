@@ -2,6 +2,7 @@
 layout: term
 title: yapraklanmak
 slug: yapraklanmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaprakları çıkmak, yaprak oluşmak

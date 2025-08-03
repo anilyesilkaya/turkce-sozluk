@@ -2,6 +2,7 @@
 layout: term
 title: çıfıt çarşısı
 slug: cifit-carsisi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Türlü şeylerin karmakarışık bir durumda bulunduğu yer

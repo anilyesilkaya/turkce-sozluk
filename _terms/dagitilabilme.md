@@ -2,6 +2,7 @@
 layout: term
 title: dağıtılabilme
 slug: dagitilabilme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dağıtılabilmek işi

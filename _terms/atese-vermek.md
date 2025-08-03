@@ -2,6 +2,7 @@
 layout: term
 title: ateşe vermek
 slug: atese-vermek
+letter: A
 lisan: Türkçe
 anlamlar:
 - ateş içine sokmak

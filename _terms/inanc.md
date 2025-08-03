@@ -2,6 +2,7 @@
 layout: term
 title: inanç
 slug: inanc
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bir düşünceye gönülden bağlı bulunma; itikat

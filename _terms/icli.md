@@ -2,6 +2,7 @@
 layout: term
 title: içli
 slug: icli
+letter: I
 lisan: Türkçe
 anlamlar:
 - İçi dolu (taneli sebze veya kuru yemiş)

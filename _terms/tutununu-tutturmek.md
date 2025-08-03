@@ -2,6 +2,7 @@
 layout: term
 title: tütününü tüttürmek
 slug: tutununu-tutturmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - ev ve aile düzeninin sürmesini sağlamak

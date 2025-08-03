@@ -2,6 +2,7 @@
 layout: term
 title: odundan geçirmek
 slug: odundan-gecirmek
+letter: O
 lisan: Türkçe
 anlamlar:
 - dayak atmak

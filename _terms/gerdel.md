@@ -2,6 +2,7 @@
 layout: term
 title: gerdel
 slug: gerdel
+letter: G
 lisan: Rumca
 anlamlar:
 - Süt vb. şeyler koymaya, hayvanlara yem vermeye yarayan kova biçiminde tahta veya deriden kap

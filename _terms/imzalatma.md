@@ -2,6 +2,7 @@
 layout: term
 title: imzalatma
 slug: imzalatma
+letter: I
 lisan: Türkçe
 anlamlar:
 - İmzalatmak işi

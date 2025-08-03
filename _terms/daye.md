@@ -2,6 +2,7 @@
 layout: term
 title: daye
 slug: daye
+letter: D
 lisan: Farsça dāye
 anlamlar:
 - ► dadı

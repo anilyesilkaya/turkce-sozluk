@@ -2,6 +2,7 @@
 layout: term
 title: takatuka
 slug: takatuka
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► gürültü patırtı

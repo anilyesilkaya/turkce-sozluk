@@ -2,6 +2,7 @@
 layout: term
 title: makarasını çözmek
 slug: makarasini-cozmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - ayrıntılarıyla sayıp dökmek

@@ -2,6 +2,7 @@
 layout: term
 title: füzyon
 slug: fuzyon
+letter: F
 lisan: Fransızca fusion
 anlamlar:
 - ► kaynaşma

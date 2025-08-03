@@ -2,6 +2,7 @@
 layout: term
 title: kâinat
 slug: kainat
+letter: K
 lisan: Arapça kāʾināt
 anlamlar:
 - ► evren

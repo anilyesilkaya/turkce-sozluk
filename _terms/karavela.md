@@ -2,6 +2,7 @@
 layout: term
 title: karavela
 slug: karavela
+letter: K
 lisan: İtalyanca caravelle
 anlamlar:
 - Büyük deniz teknesi

@@ -2,6 +2,7 @@
 layout: term
 title: 'salya sümük '
 slug: salya-sumuk
+letter: S
 lisan: Türkçe
 anlamlar:
 - Ağlar bir biçimde

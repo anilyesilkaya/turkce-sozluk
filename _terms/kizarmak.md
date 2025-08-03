@@ -2,6 +2,7 @@
 layout: term
 title: kızarmak
 slug: kizarmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kırmızı veya ona yakın bir renk almak; alarmak

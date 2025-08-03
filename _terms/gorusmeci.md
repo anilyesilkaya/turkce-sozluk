@@ -2,6 +2,7 @@
 layout: term
 title: görüşmeci
 slug: gorusmeci
+letter: G
 lisan: Türkçe
 anlamlar:
 - Görüşme yapan kimse

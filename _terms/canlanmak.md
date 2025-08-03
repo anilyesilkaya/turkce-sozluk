@@ -2,6 +2,7 @@
 layout: term
 title: canlanmak
 slug: canlanmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - Gücü artmak, diri duruma gelmek

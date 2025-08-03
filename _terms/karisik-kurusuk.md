@@ -2,6 +2,7 @@
 layout: term
 title: 'karışık kuruşuk '
 slug: karisik-kurusuk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Anlaşılması zor, karmaşık olan

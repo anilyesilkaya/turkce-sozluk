@@ -2,6 +2,7 @@
 layout: term
 title: riskli
 slug: riskli
+letter: R
 lisan: Türkçe
 anlamlar:
 - Riski olan

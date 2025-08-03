@@ -2,6 +2,7 @@
 layout: term
 title: çakmaklık
 slug: cakmaklik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - İçine çakmak konulan koruyucu malzeme

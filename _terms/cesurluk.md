@@ -2,6 +2,7 @@
 layout: term
 title: cesurluk
 slug: cesurluk
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► cesaretlilik

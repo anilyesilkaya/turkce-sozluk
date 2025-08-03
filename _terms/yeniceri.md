@@ -2,6 +2,7 @@
 layout: term
 title: yeniçeri
 slug: yeniceri
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Kapı kulu teşkilatının piyade sınıfı

@@ -2,6 +2,7 @@
 layout: term
 title: tesahup etmek
 slug: tesahup-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - benimsemek

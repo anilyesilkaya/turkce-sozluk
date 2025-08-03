@@ -2,6 +2,7 @@
 layout: term
 title: kırkım
 slug: kirkim
+letter: K
 lisan: Türkçe
 anlamlar:
 - Davarların kırkılması işi

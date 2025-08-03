@@ -2,6 +2,7 @@
 layout: term
 title: çentiklenmek
 slug: centiklenmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çentikli duruma gelmek

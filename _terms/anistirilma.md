@@ -2,6 +2,7 @@
 layout: term
 title: anıştırılma
 slug: anistirilma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anıştırılmak işi

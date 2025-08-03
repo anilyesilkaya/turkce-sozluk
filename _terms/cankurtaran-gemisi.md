@@ -2,6 +2,7 @@
 layout: term
 title: cankurtaran gemisi
 slug: cankurtaran-gemisi
+letter: C
 lisan: Türkçe
 anlamlar:
 - Karaya oturan, yanan veya batma tehlikesi ile karşı karşıya kalan gemileri kurtarmaya yarayan gemi

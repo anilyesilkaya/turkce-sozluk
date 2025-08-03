@@ -2,6 +2,7 @@
 layout: term
 title: nonoş
 slug: nonos
+letter: N
 lisan: Türkçe
 anlamlar:
 - Birine veya bir şeye sevgiyle yaklaşıldığında kullanılan bir söz

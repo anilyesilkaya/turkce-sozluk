@@ -2,6 +2,7 @@
 layout: term
 title: iğnelenmek
 slug: ignelenmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İğneleme işi yapılmak veya iğneleme işine konu olmak

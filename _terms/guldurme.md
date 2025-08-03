@@ -2,6 +2,7 @@
 layout: term
 title: güldürme
 slug: guldurme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güldürmek işi

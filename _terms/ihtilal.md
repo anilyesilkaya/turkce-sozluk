@@ -2,6 +2,7 @@
 layout: term
 title: ihtilal
 slug: ihtilal
+letter: I
 lisan: Arapça iḫtilāl
 anlamlar:
 - Bir ülkenin siyasal, sosyal ve ekonomik yapısını veya yönetim düzenini değiştirmek amacıyla kanunlara uymaksızın cebir ve kuvvet kullanarak yapılan geniş halk hareketi; devrim

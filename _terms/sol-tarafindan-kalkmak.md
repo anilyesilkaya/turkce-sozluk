@@ -2,6 +2,7 @@
 layout: term
 title: sol tarafından kalkmak
 slug: sol-tarafindan-kalkmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - aksiliği, huysuzluğu, tersliği üzerinde olmak

@@ -2,6 +2,7 @@
 layout: term
 title: üstelik
 slug: ustelik
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üste verilen şey, fazladan verilen şey; fark

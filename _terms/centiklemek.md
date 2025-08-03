@@ -2,6 +2,7 @@
 layout: term
 title: çentiklemek
 slug: centiklemek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir şeyde çentik açmak; kertiklemek

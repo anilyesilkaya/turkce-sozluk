@@ -2,6 +2,7 @@
 layout: term
 title: sağaltım
 slug: sagaltim
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sağaltmak işi

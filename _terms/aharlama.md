@@ -2,6 +2,7 @@
 layout: term
 title: aharlama
 slug: aharlama
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aharlamak işi

@@ -2,6 +2,7 @@
 layout: term
 title: yükleyici
 slug: yukleyici
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yükleme işini yapan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: dillere destan
 slug: dillere-destan
+letter: D
 lisan: Türkçe
 anlamlar:
 - Anlatıla anlatıla bitirilemeyen

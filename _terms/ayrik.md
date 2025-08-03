@@ -2,6 +2,7 @@
 layout: term
 title: ayrık
 slug: ayrik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayrılmış, ayrı duran; ayrılı, munfasıl

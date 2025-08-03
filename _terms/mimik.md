@@ -2,6 +2,7 @@
 layout: term
 title: mimik
 slug: mimik
+letter: M
 lisan: Fransızca mimique
 anlamlar:
 - Yüz, el, kol hareketleriyle düşünceyi anlatma sanatı

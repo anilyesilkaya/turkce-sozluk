@@ -2,6 +2,7 @@
 layout: term
 title: basitleştirebilmek
 slug: basitlestirebilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Basitleştirme ihtimali veya imkânı bulunmak

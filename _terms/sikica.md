@@ -2,6 +2,7 @@
 layout: term
 title: sıkıca
 slug: sikica
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıkı bir biçimde; kavi

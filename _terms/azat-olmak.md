@@ -2,6 +2,7 @@
 layout: term
 title: azat olmak
 slug: azat-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - özgür kalmak

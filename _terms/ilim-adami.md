@@ -2,6 +2,7 @@
 layout: term
 title: ilim adamı
 slug: ilim-adami
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► bilim adamı

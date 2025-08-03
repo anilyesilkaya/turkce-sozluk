@@ -2,6 +2,7 @@
 layout: term
 title: Agop
 slug: agop
+letter: A
 lisan: Ermenice
 anlamlar:
 - '"Aptal aptal bakmak" anlamındaki Agop''un kazı gibi bakmak, “eline geçeni yalayıp yutmak” anlamındaki Agop’un kazı gibi yutmak (veya yemek), “kara kara düşünmek” anlamındaki Agop’un kazı gibi düşünmek deyimlerinde geçen bir söz'

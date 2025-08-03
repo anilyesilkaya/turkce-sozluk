@@ -2,6 +2,7 @@
 layout: term
 title: tıpkı tıpkısına
 slug: tipki-tipkisina
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► tıpatıp

@@ -2,6 +2,7 @@
 layout: term
 title: iletim
 slug: iletim
+letter: I
 lisan: Türkçe
 anlamlar:
 - İletmek işi

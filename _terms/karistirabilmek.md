@@ -2,6 +2,7 @@
 layout: term
 title: karıştırabilmek
 slug: karistirabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karıştırma ihtimali veya imkânı bulunmak

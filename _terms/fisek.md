@@ -2,6 +2,7 @@
 layout: term
 title: fişek
 slug: fisek
+letter: F
 lisan: Farsça fişeng
 anlamlar:
 - Tüfek, tabanca vb. hafif ateşli silahlara, atılmak için sürülen ve içinde barut bulunan bir kovan ile bu kovanın ucuna yerleştirilmiş mermiden oluşan cephane

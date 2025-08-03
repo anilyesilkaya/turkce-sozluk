@@ -2,6 +2,7 @@
 layout: term
 title: ikonografi
 slug: ikonografi
+letter: I
 lisan: Fransızca iconographie
 anlamlar:
 - İkonların tanıtılması ve açıklanması

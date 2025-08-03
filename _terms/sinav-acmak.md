@@ -2,6 +2,7 @@
 layout: term
 title: sınav açmak
 slug: sinav-acmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - kazananı boş kadroya, işe almak amacıyla sınav düzenlemek

@@ -2,6 +2,7 @@
 layout: term
 title: briketçilik
 slug: briketcilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Briketçinin yaptığı iş

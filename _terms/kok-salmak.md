@@ -2,6 +2,7 @@
 layout: term
 title: kök salmak
 slug: kok-salmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - iyice tutunmak, sağlamlaşmak, yayılmak, köklenmek

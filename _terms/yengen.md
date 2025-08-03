@@ -2,6 +2,7 @@
 layout: term
 title: yengen
 slug: yengen
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yemesi hoş yiyecek

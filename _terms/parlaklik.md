@@ -2,6 +2,7 @@
 layout: term
 title: parlaklık
 slug: parlaklik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Parlak olma durumu; revnak

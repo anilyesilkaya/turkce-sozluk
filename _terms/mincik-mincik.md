@@ -2,6 +2,7 @@
 layout: term
 title: mıncık mıncık
 slug: mincik-mincik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Yapışkan ve kaygan bir duruma gelmiş

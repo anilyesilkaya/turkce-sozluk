@@ -2,6 +2,7 @@
 layout: term
 title: Malta humması
 slug: malta-hummasi
+letter: M
 lisan: Türkçe
 anlamlar:
 - Akdeniz ülkelerinde görülen, en çok keçi sütü ile bulaşan ateşli bir hastalık; Akdeniz humması

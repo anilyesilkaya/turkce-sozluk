@@ -2,6 +2,7 @@
 layout: term
 title: hercai menekşe
 slug: hercai-menekse
+letter: H
 lisan: Türkçe
 anlamlar:
 - Menekşegillerden, mor, sarı, beyaz renkte, menekşeye benzer çiçekleri olan yıllık bir bitki; alacamenekşe (Viola tricolor)

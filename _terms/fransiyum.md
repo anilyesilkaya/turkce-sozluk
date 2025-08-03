@@ -2,6 +2,7 @@
 layout: term
 title: fransiyum
 slug: fransiyum
+letter: F
 lisan: Fransızca francium
 anlamlar:
 - Atom numarası 87, atom ağırlığı 223 olan, aktinyumdan elde edilen radyoaktif element (simgesi Fr)

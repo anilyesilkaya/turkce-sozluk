@@ -2,6 +2,7 @@
 layout: term
 title: çıraklık etmek
 slug: ciraklik-etmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - çırak olarak çalışmak

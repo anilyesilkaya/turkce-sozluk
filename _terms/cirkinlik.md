@@ -2,6 +2,7 @@
 layout: term
 title: çirkinlik
 slug: cirkinlik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çirkin olma durumu

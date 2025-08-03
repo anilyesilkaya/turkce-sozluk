@@ -2,6 +2,7 @@
 layout: term
 title: temenni
 slug: temenni
+letter: T
 lisan: Arapça temennī
 anlamlar:
 - Bir şeyin gerçekleşmesini dileme

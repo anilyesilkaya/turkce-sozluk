@@ -2,6 +2,7 @@
 layout: term
 title: midesi ekşimek (veya kaynamak veya yanmak)
 slug: midesi-eksimek-veya-kaynamak-veya-yanmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - yeni yenilmiş yiyeceklerden ötürü midede rahatsızlık duymak

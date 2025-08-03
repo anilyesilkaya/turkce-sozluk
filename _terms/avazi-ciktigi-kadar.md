@@ -2,6 +2,7 @@
 layout: term
 title: avazı çıktığı kadar
 slug: avazi-ciktigi-kadar
+letter: A
 lisan: Türkçe
 anlamlar:
 - çok yüksek sesle

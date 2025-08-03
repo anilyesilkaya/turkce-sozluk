@@ -2,6 +2,7 @@
 layout: term
 title: gufran
 slug: gufran
+letter: G
 lisan: Arapça ġufrān
 anlamlar:
 - ► bağışlama

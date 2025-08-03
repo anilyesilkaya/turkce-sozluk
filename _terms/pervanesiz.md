@@ -2,6 +2,7 @@
 layout: term
 title: pervanesiz
 slug: pervanesiz
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pervanesi olmayan

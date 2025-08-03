@@ -2,6 +2,7 @@
 layout: term
 title: dili tutulmak
 slug: dili-tutulmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - sevinç, korku, şaşkınlık vb. sebeplerle birdenbire söz söyleyemez olmak

@@ -2,6 +2,7 @@
 layout: term
 title: çok sözlülük
 slug: cok-sozluluk
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çok sözlü olma durumu

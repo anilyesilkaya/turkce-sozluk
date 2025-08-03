@@ -2,6 +2,7 @@
 layout: term
 title: e-gazete
 slug: e-gazete
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► elektronik gazete

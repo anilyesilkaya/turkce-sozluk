@@ -2,6 +2,7 @@
 layout: term
 title: Alman
 slug: alman
+letter: A
 lisan: Fransızca Allemand
 anlamlar:
 - Almanya’da yaşayan, Cermen soyundan halk veya bu halkın soyundan olan kimse

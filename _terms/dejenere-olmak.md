@@ -2,6 +2,7 @@
 layout: term
 title: dejenere olmak
 slug: dejenere-olmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - soysuzlaşmak

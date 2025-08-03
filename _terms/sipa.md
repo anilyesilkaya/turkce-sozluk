@@ -2,6 +2,7 @@
 layout: term
 title: sıpa
 slug: sipa
+letter: S
 lisan: Türkçe
 anlamlar:
 - Eşek yavrusu

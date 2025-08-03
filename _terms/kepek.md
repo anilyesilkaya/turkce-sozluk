@@ -2,6 +2,7 @@
 layout: term
 title: kepek
 slug: kepek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Un elendikten sonra, elek üstünde kalan kabuk kırıntıları

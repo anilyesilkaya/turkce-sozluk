@@ -2,6 +2,7 @@
 layout: term
 title: dümen
 slug: dumen
+letter: D
 lisan: İtalyanca timon
 anlamlar:
 - Hava ve deniz taşıtlarında, taşıta istenilen yönü vermeye ve belirli bir doğrultuda götürmeye yarayan hareketli parça

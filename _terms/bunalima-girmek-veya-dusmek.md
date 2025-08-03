@@ -2,6 +2,7 @@
 layout: term
 title: bunalıma girmek (veya düşmek)
 slug: bunalima-girmek-veya-dusmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - ruhsal bakımdan gerginlik veya sıkıntı içine girmek

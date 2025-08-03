@@ -2,6 +2,7 @@
 layout: term
 title: ek bileziği
 slug: ek-bilezigi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Boru tesisatlarında tüp veya boruların birbirlerine kaynaklı, kaynaksız veya lehim ile birleştirilmesi için kullanılan, iç taraftan dişli olan bağlantı parçası; manşon

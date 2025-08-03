@@ -2,6 +2,7 @@
 layout: term
 title: bal gibi
 slug: bal-gibi
+letter: B
 lisan: Türkçe
 anlamlar:
 - pek tatlı

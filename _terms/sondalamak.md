@@ -2,6 +2,7 @@
 layout: term
 title: sondalamak
 slug: sondalamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Suyun derinliğini sonda ile ölçmek

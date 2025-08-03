@@ -2,6 +2,7 @@
 layout: term
 title: sütbaba
 slug: sutbaba
+letter: S
 lisan: Türkçe
 anlamlar:
 - Çocuğa göre sütannenin kocası

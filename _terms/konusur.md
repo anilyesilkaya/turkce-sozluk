@@ -2,6 +2,7 @@
 layout: term
 title: konuşur
 slug: konusur
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir dili ana dili olarak konuşan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: okeyci
 slug: okeyci
+letter: O
 lisan: Türkçe
 anlamlar:
 - Okey oynayan kimse

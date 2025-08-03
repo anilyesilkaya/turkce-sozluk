@@ -2,6 +2,7 @@
 layout: term
 title: sayı göstergesi
 slug: sayi-gostergesi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sayıları veya sayı durumunu gösteren levha; sayı levhası

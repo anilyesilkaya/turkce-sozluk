@@ -2,6 +2,7 @@
 layout: term
 title: değirmek
 slug: degirmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Duyurmak, bildirmek, ulaştırmak

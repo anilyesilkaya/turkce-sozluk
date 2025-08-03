@@ -2,6 +2,7 @@
 layout: term
 title: çamur
 slug: camur
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Su ile karışıp bulaşır ve içine batılır duruma gelmiş toprak

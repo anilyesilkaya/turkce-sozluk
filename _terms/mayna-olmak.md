@@ -2,6 +2,7 @@
 layout: term
 title: mayna olmak
 slug: mayna-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - yelken, filika vb. yukarıdan aşağıya indirilmek

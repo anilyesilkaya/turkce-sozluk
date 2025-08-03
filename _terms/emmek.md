@@ -2,6 +2,7 @@
 layout: term
 title: emmek
 slug: emmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► somurmak

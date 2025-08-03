@@ -2,6 +2,7 @@
 layout: term
 title: vurtut
 slug: vurtut
+letter: V
 lisan: Türkçe
 anlamlar:
 - Silahla yaratılan kargaşalık

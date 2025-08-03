@@ -2,6 +2,7 @@
 layout: term
 title: höpür höpür
 slug: hopur-hopur
+letter: H
 lisan: Türkçe
 anlamlar:
 - Höpürdeterek, höpürtü sesi çıkararak

@@ -2,6 +2,7 @@
 layout: term
 title: kargo
 slug: kargo
+letter: K
 lisan: İngilizce cargo
 anlamlar:
 - Uçak, gemi vb. bir taşıtla taşınan eşya, yük

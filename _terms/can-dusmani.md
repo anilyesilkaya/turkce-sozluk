@@ -2,6 +2,7 @@
 layout: term
 title: can düşmanı
 slug: can-dusmani
+letter: C
 lisan: Türkçe
 anlamlar:
 - Aşırı düşmanlık güden kimse

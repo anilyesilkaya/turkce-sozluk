@@ -2,6 +2,7 @@
 layout: term
 title: konuşabilmek
 slug: konusabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Konuşma ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: harikulade
 slug: harikulade
+letter: H
 lisan: Arapça ḫāriḳ + ʿāde
 anlamlar:
 - ► olağanüstü

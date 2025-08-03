@@ -2,6 +2,7 @@
 layout: term
 title: şosonlu
 slug: sosonlu
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şosonu bulunan

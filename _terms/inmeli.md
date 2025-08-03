@@ -2,6 +2,7 @@
 layout: term
 title: inmeli
 slug: inmeli
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bir tarafında inme bulunan; felçli, mefluç, nüzullü

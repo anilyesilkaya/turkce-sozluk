@@ -2,6 +2,7 @@
 layout: term
 title: müzikal
 slug: muzikal
+letter: M
 lisan: Fransızca musical
 anlamlar:
 - Müzikle ilgili

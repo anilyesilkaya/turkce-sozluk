@@ -2,6 +2,7 @@
 layout: term
 title: yerelleştirme
 slug: yerellestirme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yerelleştirmek işi; yöreselleştirme

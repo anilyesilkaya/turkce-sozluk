@@ -2,6 +2,7 @@
 layout: term
 title: toprak rengi
 slug: toprak-rengi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Toprağın sarı veya kahverengiye çalan rengi

@@ -2,6 +2,7 @@
 layout: term
 title: yirmilik
 slug: yirmilik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yirmi tanesi bir arada olan veya içinde aynı şeyden yirmi tane olan

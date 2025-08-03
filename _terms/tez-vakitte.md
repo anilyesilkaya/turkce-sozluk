@@ -2,6 +2,7 @@
 layout: term
 title: tez vakitte
 slug: tez-vakitte
+letter: T
 lisan: Türkçe
 anlamlar:
 - En kısa sürede; tez vakit

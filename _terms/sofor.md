@@ -2,6 +2,7 @@
 layout: term
 title: şoför
 slug: sofor
+letter: Ş
 lisan: Fransızca chauffeur
 anlamlar:
 - ► sürücü (I)

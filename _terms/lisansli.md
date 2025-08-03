@@ -2,6 +2,7 @@
 layout: term
 title: lisanslı
 slug: lisansli
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lisansı olan

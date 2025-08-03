@@ -2,6 +2,7 @@
 layout: term
 title: dakikasında
 slug: dakikasinda
+letter: D
 lisan: Türkçe
 anlamlar:
 - Hemen o anda

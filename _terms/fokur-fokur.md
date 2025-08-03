@@ -2,6 +2,7 @@
 layout: term
 title: fokur fokur
 slug: fokur-fokur
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fokurdayarak

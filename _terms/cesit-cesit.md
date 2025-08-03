@@ -2,6 +2,7 @@
 layout: term
 title: çeşit çeşit
 slug: cesit-cesit
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çok değişik özellikleri olan nesneleri ve durumları bir arada bulunduran

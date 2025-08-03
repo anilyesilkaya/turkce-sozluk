@@ -2,6 +2,7 @@
 layout: term
 title: Farsça
 slug: farsca
+letter: F
 lisan: Türkçe
 anlamlar:
 - Farsların kullandığı dil; Acemce, Farisi

@@ -2,6 +2,7 @@
 layout: term
 title: makas değiştirmek
 slug: makas-degistirmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - tren yönünü değiştirmek

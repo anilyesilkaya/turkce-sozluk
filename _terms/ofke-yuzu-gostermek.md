@@ -2,6 +2,7 @@
 layout: term
 title: öfke yüzü göstermek
 slug: ofke-yuzu-gostermek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - çok sinirlendiğini belli etmek

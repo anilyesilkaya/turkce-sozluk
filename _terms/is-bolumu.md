@@ -2,6 +2,7 @@
 layout: term
 title: iş bölümü
 slug: is-bolumu
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bir işi, iki veya daha çok kişi arasında bölme

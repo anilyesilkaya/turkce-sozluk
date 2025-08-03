@@ -2,6 +2,7 @@
 layout: term
 title: kerhane
 slug: kerhane
+letter: K
 lisan: Farsça kār + ḫāne
 anlamlar:
 - ► genelev

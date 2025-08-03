@@ -2,6 +2,7 @@
 layout: term
 title: tehacüm
 slug: tehacum
+letter: T
 lisan: Arapça tehācum
 anlamlar:
 - ► saldırma

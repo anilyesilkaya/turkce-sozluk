@@ -2,6 +2,7 @@
 layout: term
 title: arkasında dolaşmak (veya gezmek)
 slug: arkasinda-dolasmak-veya-gezmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir işi yaptırmak için ilgili veya yetkili bir kimsenin uğradığı yerlere giderek görüşme fırsatı aramak

@@ -2,6 +2,7 @@
 layout: term
 title: bekçilik
 slug: bekcilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bekçinin yaptığı iş

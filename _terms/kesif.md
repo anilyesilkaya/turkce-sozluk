@@ -2,6 +2,7 @@
 layout: term
 title: kesif
 slug: kesif
+letter: K
 lisan: Arapça kes̱īf
 anlamlar:
 - ► yoğun

@@ -2,6 +2,7 @@
 layout: term
 title: ihtiyatlılık
 slug: ihtiyatlilik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İhtiyatlı olma durumu; sakınganlık

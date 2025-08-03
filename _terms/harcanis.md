@@ -2,6 +2,7 @@
 layout: term
 title: harcanış
 slug: harcanis
+letter: H
 lisan: Türkçe
 anlamlar:
 - Harcanmak işi

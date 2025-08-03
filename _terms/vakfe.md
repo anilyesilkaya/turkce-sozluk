@@ -2,6 +2,7 @@
 layout: term
 title: vakfe
 slug: vakfe
+letter: V
 lisan: Arapça vaḳfe
 anlamlar:
 - ► durma

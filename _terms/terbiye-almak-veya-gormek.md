@@ -2,6 +2,7 @@
 layout: term
 title: terbiye almak (veya görmek)
 slug: terbiye-almak-veya-gormek
+letter: T
 lisan: Türkçe
 anlamlar:
 - belli bir eğitimle, görgüyle yetişmek

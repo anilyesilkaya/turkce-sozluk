@@ -2,6 +2,7 @@
 layout: term
 title: ayaksızlar
 slug: ayaksizlar
+letter: A
 lisan: Türkçe
 anlamlar:
 - Omurgalı hayvanlarda amfibyumlar sınıfının en ilkel yapılı türlerini içine alan bir takım

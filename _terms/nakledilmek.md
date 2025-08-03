@@ -2,6 +2,7 @@
 layout: term
 title: nakledilmek
 slug: nakledilmek
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nakletme işi yapılmak veya nakletme işine konu olmak

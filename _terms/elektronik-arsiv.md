@@ -2,6 +2,7 @@
 layout: term
 title: elektronik arşiv
 slug: elektronik-arsiv
+letter: E
 lisan: Türkçe
 anlamlar:
 - Bilgi, belge ve yazıların bilgisayar vb. elektronik ortamlarda saklandığı yer; e-arşiv

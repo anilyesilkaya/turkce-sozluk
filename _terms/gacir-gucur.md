@@ -2,6 +2,7 @@
 layout: term
 title: gacır gucur
 slug: gacir-gucur
+letter: G
 lisan: Türkçe
 anlamlar:
 - Çirkin ve kulak tırmalayıcı bir ses çıkararak; gacır gacır

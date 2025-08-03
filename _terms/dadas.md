@@ -2,6 +2,7 @@
 layout: term
 title: dadaş
 slug: dadas
+letter: D
 lisan: Türkçe
 anlamlar:
 - Erkek kardeş

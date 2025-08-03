@@ -2,6 +2,7 @@
 layout: term
 title: himmet
 slug: himmet
+letter: H
 lisan: Arapça himmet
 anlamlar:
 - Yardım, kayırma

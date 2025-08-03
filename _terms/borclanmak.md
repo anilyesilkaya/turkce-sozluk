@@ -2,6 +2,7 @@
 layout: term
 title: borçlanmak
 slug: borclanmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Karşılığını sonra vermek şartıyla birinden ödünç para veya bir şey almak; istikraz etmek

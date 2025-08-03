@@ -2,6 +2,7 @@
 layout: term
 title: hobi
 slug: hobi
+letter: H
 lisan: İngilizce hobby
 anlamlar:
 - ► uğraşı

@@ -2,6 +2,7 @@
 layout: term
 title: beğendirebilmek
 slug: begendirebilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beğendirme ihtimali veya imkânı bulunmak

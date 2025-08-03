@@ -2,6 +2,7 @@
 layout: term
 title: doküman
 slug: dokuman
+letter: D
 lisan: Fransızca document
 anlamlar:
 - ► belge

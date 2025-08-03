@@ -2,6 +2,7 @@
 layout: term
 title: ıtlak
 slug: itlak
+letter: I
 lisan: Arapça iṭlāḳ
 anlamlar:
 - Salıverme, koyuverme

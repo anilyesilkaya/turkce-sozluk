@@ -2,6 +2,7 @@
 layout: term
 title: 'kişilik hakkı '
 slug: kisilik-hakki
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kişinin korunmaya değer bulduğu hukuki, manevi ve bedensel nitelikteki varlıklarının tümü üzerindeki hakları

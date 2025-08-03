@@ -2,6 +2,7 @@
 layout: term
 title: çizgili
 slug: cizgili
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Üzerinde çizgi bulunan; tahrirli

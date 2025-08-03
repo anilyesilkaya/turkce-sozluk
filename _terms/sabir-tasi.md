@@ -2,6 +2,7 @@
 layout: term
 title: sabır taşı
 slug: sabir-tasi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Çok sabırlı kimse

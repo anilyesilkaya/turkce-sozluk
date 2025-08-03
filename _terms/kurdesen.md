@@ -2,6 +2,7 @@
 layout: term
 title: kurdeşen
 slug: kurdesen
+letter: K
 lisan: Türkçe
 anlamlar:
 - Deride çeşitli sebeplerle oluşan kaşıntılı döküntü; ürtiker

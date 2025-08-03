@@ -2,6 +2,7 @@
 layout: term
 title: bank
 slug: bank
+letter: B
 lisan: Fransızca banc
 anlamlar:
 - Çoğunlukla parklarda ve bahçelerde oturulacak sıra

@@ -2,6 +2,7 @@
 layout: term
 title: kara sevda
 slug: kara-sevda
+letter: K
 lisan: Türkçe
 anlamlar:
 - Umutsuz ve güçlü aşk

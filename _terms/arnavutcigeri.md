@@ -2,6 +2,7 @@
 layout: term
 title: arnavutciğeri
 slug: arnavutcigeri
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ufak ufak doğranmış kuzu veya dana karaciğerinin acı biberle baharatlanmış yağda kızartılmasıyla yapılan bir tür yemek

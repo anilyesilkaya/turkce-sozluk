@@ -2,6 +2,7 @@
 layout: term
 title: adamlık sende kalsın
 slug: adamlik-sende-kalsin
+letter: A
 lisan: Türkçe
 anlamlar:
 - '"karşı taraf iyilik bilmese de sen yine iyilik et" anlamında kullanılan bir söz'

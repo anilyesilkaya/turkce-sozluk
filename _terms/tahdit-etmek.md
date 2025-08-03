@@ -2,6 +2,7 @@
 layout: term
 title: tahdit etmek
 slug: tahdit-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - sınırlamak

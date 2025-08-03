@@ -2,6 +2,7 @@
 layout: term
 title: formalite
 slug: formalite
+letter: F
 lisan: Fransızca formalité
 anlamlar:
 - Yerine getirilmesi kanunca zorunlu kılınan işlem

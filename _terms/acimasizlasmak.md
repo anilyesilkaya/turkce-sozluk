@@ -2,6 +2,7 @@
 layout: term
 title: acımasızlaşmak
 slug: acimasizlasmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Acımasız duruma gelmek, acımamak

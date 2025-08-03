@@ -2,6 +2,7 @@
 layout: term
 title: banda almak
 slug: banda-almak
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir sesi, ses cihazı ile bant üzerine kaydetmek

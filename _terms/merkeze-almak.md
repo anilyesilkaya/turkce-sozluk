@@ -2,6 +2,7 @@
 layout: term
 title: merkeze almak
 slug: merkeze-almak
+letter: M
 lisan: Türkçe
 anlamlar:
 - önem vermek, diğerlerine göre öncelikli duruma getirmek

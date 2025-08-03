@@ -2,6 +2,7 @@
 layout: term
 title: ağız tadıyla
 slug: agiz-tadiyla
+letter: A
 lisan: Türkçe
 anlamlar:
 - Huzurlu bir biçimde, rahatlık içinde

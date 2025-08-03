@@ -2,6 +2,7 @@
 layout: term
 title: notalama
 slug: notalama
+letter: N
 lisan: Türkçe
 anlamlar:
 - Notalamak işi; notasyon

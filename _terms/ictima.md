@@ -2,6 +2,7 @@
 layout: term
 title: içtima
 slug: ictima
+letter: I
 lisan: Arapça ictimāʿ
 anlamlar:
 - Askerlerin silahlı ve donatılmış olarak toplanmaları

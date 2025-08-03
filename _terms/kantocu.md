@@ -2,6 +2,7 @@
 layout: term
 title: kantocu
 slug: kantocu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kanto söyleyen kadın

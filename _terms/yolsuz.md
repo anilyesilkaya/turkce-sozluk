@@ -2,6 +2,7 @@
 layout: term
 title: yolsuz
 slug: yolsuz
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yolu olmayan

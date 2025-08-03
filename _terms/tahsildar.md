@@ -2,6 +2,7 @@
 layout: term
 title: tahsildar
 slug: tahsildar
+letter: T
 lisan: Arapça taḥṣīl + Farsça -dār.
 anlamlar:
 - Bir kimse veya bir kuruluş adına para toplamakla görevli kimse; alımcı

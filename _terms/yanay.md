@@ -2,6 +2,7 @@
 layout: term
 title: yanay
 slug: yanay
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir cismin düşey kesiti; profil

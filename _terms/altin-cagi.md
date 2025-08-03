@@ -2,6 +2,7 @@
 layout: term
 title: altın çağı
 slug: altin-cagi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir şeyin veya bir kimsenin en verimli, en başarılı dönemi

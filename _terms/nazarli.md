@@ -2,6 +2,7 @@
 layout: term
 title: nazarlı
 slug: nazarli
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nazara uğrayan

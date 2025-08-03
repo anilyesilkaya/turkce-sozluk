@@ -2,6 +2,7 @@
 layout: term
 title: çanta malı
 slug: canta-mali
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Başkasına verilmeye veya öğretilmeye kıyılmayan değerli (eser)

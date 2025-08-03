@@ -2,6 +2,7 @@
 layout: term
 title: huğ
 slug: hug
+letter: H
 lisan: Türkçe
 anlamlar:
 - Duvarları kerpiç veya genellikle toprak sıvalı kamıştan yapılan, ağaç çatısı üzerine sık döşenmiş kamış ve onun üstüne saz örtülmüş köy evi

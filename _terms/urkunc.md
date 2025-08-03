@@ -2,6 +2,7 @@
 layout: term
 title: ürkünç
 slug: urkunc
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Ürkme, çekinme duygusu veren

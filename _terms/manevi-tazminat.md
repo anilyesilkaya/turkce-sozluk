@@ -2,6 +2,7 @@
 layout: term
 title: manevi tazminat
 slug: manevi-tazminat
+letter: M
 lisan: Türkçe
 anlamlar:
 - Kişilik haklarına karşı işlenen suçlara ilişkin dava sonucunda ödenmesine karar verilen bedel

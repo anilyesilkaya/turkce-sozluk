@@ -2,6 +2,7 @@
 layout: term
 title: dayılanmak
 slug: dayilanmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Güç gösterisinde bulunmak

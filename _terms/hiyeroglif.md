@@ -2,6 +2,7 @@
 layout: term
 title: hiyeroglif
 slug: hiyeroglif
+letter: H
 lisan: Fransızca hiéroglyphe
 anlamlar:
 - ► resim yazı

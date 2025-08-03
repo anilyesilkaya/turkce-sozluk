@@ -2,6 +2,7 @@
 layout: term
 title: zürriyet
 slug: zurriyet
+letter: Z
 lisan: Arapça ẕurriyyet
 anlamlar:
 - ► döl

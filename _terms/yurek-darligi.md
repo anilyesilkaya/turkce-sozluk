@@ -2,6 +2,7 @@
 layout: term
 title: yürek darlığı
 slug: yurek-darligi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Sıkıntı, bunaltı, üzüntü

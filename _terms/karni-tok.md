@@ -2,6 +2,7 @@
 layout: term
 title: karnı tok
 slug: karni-tok
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karnı aç olmayan

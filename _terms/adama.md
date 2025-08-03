@@ -2,6 +2,7 @@
 layout: term
 title: adama
 slug: adama
+letter: A
 lisan: Türkçe
 anlamlar:
 - Adamak işi

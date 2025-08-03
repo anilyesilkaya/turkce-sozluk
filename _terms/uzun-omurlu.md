@@ -2,6 +2,7 @@
 layout: term
 title: uzun ömürlü
 slug: uzun-omurlu
+letter: U
 lisan: Türkçe
 anlamlar:
 - Yaşadığı, var olduğu süre çok uzun olan

@@ -2,6 +2,7 @@
 layout: term
 title: mucizeli
 slug: mucizeli
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mucize niteliği bulunan, olağanüstü niteliklere sahip olan; mucizevi

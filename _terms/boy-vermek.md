@@ -2,6 +2,7 @@
 layout: term
 title: boy vermek
 slug: boy-vermek
+letter: B
 lisan: Türkçe
 anlamlar:
 - su insan boyunu aşacak kadar derin olmak

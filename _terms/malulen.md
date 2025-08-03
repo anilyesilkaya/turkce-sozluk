@@ -2,6 +2,7 @@
 layout: term
 title: malulen
 slug: malulen
+letter: M
 lisan: Arapça maʿlūlen
 anlamlar:
 - Sakat, hasta bir biçimde

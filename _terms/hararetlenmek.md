@@ -2,6 +2,7 @@
 layout: term
 title: hararetlenmek
 slug: hararetlenmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - Isısı artmak

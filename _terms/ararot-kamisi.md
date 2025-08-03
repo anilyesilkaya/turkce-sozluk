@@ -2,6 +2,7 @@
 layout: term
 title: ararot kamışı
 slug: ararot-kamisi
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► maranta

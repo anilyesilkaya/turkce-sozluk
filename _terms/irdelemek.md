@@ -2,6 +2,7 @@
 layout: term
 title: irdelemek
 slug: irdelemek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bir konunun incelenmesi ve eleştirilmesi gereken bütün yönlerini birer birer incelemek, araştırmak, tetkik ve tetebbu etmek, mütalaa etmek

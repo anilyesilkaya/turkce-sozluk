@@ -2,6 +2,7 @@
 layout: term
 title: ajur
 slug: ajur
+letter: A
 lisan: Fransızca ajour
 anlamlar:
 - Bir işlemede, örgüde, ipliklerin kesilmesi, ayrı tutulması yoluyla oluşturulan boşluk

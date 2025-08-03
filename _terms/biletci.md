@@ -2,6 +2,7 @@
 layout: term
 title: biletçi
 slug: biletci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilet satan görevli

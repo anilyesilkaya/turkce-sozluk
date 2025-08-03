@@ -2,6 +2,7 @@
 layout: term
 title: kahve ocağı
 slug: kahve-ocagi
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► çay ocağı

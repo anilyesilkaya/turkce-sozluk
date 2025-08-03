@@ -2,6 +2,7 @@
 layout: term
 title: men
 slug: men
+letter: M
 lisan: Arapça menʿ
 anlamlar:
 - ► yasaklama

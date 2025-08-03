@@ -2,6 +2,7 @@
 layout: term
 title: idareten
 slug: idareten
+letter: I
 lisan: Arapça idāreten
 anlamlar:
 - Belli bir süre için, geçici olarak

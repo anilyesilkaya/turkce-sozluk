@@ -2,6 +2,7 @@
 layout: term
 title: talipli
 slug: talipli
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► istekli

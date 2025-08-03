@@ -2,6 +2,7 @@
 layout: term
 title: koşuşma
 slug: kosusma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Koşuşmak işi

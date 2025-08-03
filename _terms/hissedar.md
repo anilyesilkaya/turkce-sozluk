@@ -2,6 +2,7 @@
 layout: term
 title: hissedar
 slug: hissedar
+letter: H
 lisan: Arapça ḥiṣṣe + Farsça -dār
 anlamlar:
 - Bir ortaklık veya mal üzerinde payı olan kimse; paydaş, aksiyoner

@@ -2,6 +2,7 @@
 layout: term
 title: kucağına kurulmak
 slug: kucagina-kurulmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kucağına oturmak

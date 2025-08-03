@@ -2,6 +2,7 @@
 layout: term
 title: felek
 slug: felek
+letter: F
 lisan: Arapça felek
 anlamlar:
 - ► baht

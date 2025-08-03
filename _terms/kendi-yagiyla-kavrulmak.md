@@ -2,6 +2,7 @@
 layout: term
 title: kendi yağıyla kavrulmak
 slug: kendi-yagiyla-kavrulmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - elinde bulunanla geçinip kimseye muhtaç olmamak

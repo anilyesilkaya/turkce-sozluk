@@ -2,6 +2,7 @@
 layout: term
 title: kuş sütü
 slug: kus-sutu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Her türlü yiyeceğin bulunduğu yerde eksik bir şey bulunmadığını anlatmak için kullanılan bir söz

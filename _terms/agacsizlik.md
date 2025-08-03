@@ -2,6 +2,7 @@
 layout: term
 title: ağaçsızlık
 slug: agacsizlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağaçsız olma durumu

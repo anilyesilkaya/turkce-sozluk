@@ -2,6 +2,7 @@
 layout: term
 title: mizaç
 slug: mizac
+letter: M
 lisan: Arapça mizāc
 anlamlar:
 - ► huy

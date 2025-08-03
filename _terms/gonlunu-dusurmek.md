@@ -2,6 +2,7 @@
 layout: term
 title: gönlünü düşürmek
 slug: gonlunu-dusurmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - âşık olmak, sevdalanmak

@@ -2,6 +2,7 @@
 layout: term
 title: müdahil
 slug: mudahil
+letter: M
 lisan: Arapça mudāḫil
 anlamlar:
 - Karışan, araya giren, el atan

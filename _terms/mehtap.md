@@ -2,6 +2,7 @@
 layout: term
 title: mehtap
 slug: mehtap
+letter: M
 lisan: Farsça meh + tāb
 anlamlar:
 - ► ay ışığı

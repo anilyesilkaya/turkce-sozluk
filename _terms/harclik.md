@@ -2,6 +2,7 @@
 layout: term
 title: harçlık
 slug: harclik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Ufak tefek gereksinimler için harcanacak para

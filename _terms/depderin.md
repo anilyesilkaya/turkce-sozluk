@@ -2,6 +2,7 @@
 layout: term
 title: depderin
 slug: depderin
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çok derin

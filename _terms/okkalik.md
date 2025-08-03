@@ -2,6 +2,7 @@
 layout: term
 title: okkalık
 slug: okkalik
+letter: O
 lisan: Türkçe
 anlamlar:
 - Herhangi bir okka ağırlığında veya oylumunda olan

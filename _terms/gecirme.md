@@ -2,6 +2,7 @@
 layout: term
 title: geçirme
 slug: gecirme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Geçirmek işi

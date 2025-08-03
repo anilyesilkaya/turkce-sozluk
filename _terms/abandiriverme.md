@@ -2,6 +2,7 @@
 layout: term
 title: abandırıverme
 slug: abandiriverme
+letter: A
 lisan: Türkçe
 anlamlar:
 - Abandırıvermek işi

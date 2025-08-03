@@ -2,6 +2,7 @@
 layout: term
 title: yazılı
 slug: yazili
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yazılmış olan, yazıya geçirilmiş; muharrer, sözlü karşıtı

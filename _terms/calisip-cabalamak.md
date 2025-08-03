@@ -2,6 +2,7 @@
 layout: term
 title: çalışıp çabalamak
 slug: calisip-cabalamak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - çok gayret göstermek

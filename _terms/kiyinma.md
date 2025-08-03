@@ -2,6 +2,7 @@
 layout: term
 title: kıyınma
 slug: kiyinma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kıyınmak işi

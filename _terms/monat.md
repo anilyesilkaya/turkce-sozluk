@@ -2,6 +2,7 @@
 layout: term
 title: monat
 slug: monat
+letter: M
 lisan: Fransızca monade
 anlamlar:
 - Eski Yunan felsefesinde bölünmez birlik

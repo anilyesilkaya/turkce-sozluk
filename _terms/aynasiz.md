@@ -2,6 +2,7 @@
 layout: term
 title: aynasız
 slug: aynasiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aynası olmayan

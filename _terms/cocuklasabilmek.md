@@ -2,6 +2,7 @@
 layout: term
 title: çocuklaşabilmek
 slug: cocuklasabilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çocuklaşma ihtimali bulunmak

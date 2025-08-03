@@ -2,6 +2,7 @@
 layout: term
 title: başvezirlik
 slug: basvezirlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başvezir olma durumu

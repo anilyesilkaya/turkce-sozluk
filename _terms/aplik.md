@@ -2,6 +2,7 @@
 layout: term
 title: aplik
 slug: aplik
+letter: A
 lisan: Fransızca applique
 anlamlar:
 - Duvara asılarak sabitlenmiş, genellikle şamdana benzer biçimde olan lamba

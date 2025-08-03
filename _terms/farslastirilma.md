@@ -2,6 +2,7 @@
 layout: term
 title: Farslaştırılma
 slug: farslastirilma
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► Acemleştirilme

@@ -2,6 +2,7 @@
 layout: term
 title: saffet
 slug: saffet
+letter: S
 lisan: Arapça ṣafvet
 anlamlar:
 - ► temizlik

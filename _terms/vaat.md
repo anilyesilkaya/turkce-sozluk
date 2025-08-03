@@ -2,6 +2,7 @@
 layout: term
 title: vaat
 slug: vaat
+letter: V
 lisan: Arapça vaʿd
 anlamlar:
 - Bir işi yerine getirmek için verilen söz

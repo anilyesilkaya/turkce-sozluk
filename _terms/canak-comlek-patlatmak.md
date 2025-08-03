@@ -2,6 +2,7 @@
 layout: term
 title: çanak çömlek patlatmak
 slug: canak-comlek-patlatmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - çocuk oyunlarında ebeyi yanıltmak

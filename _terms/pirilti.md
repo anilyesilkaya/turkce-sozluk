@@ -2,6 +2,7 @@
 layout: term
 title: pırıltı
 slug: pirilti
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pırıldayan şeyin yansıttığı ışık

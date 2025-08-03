@@ -2,6 +2,7 @@
 layout: term
 title: yedi
 slug: yedi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Altıdan sonra gelen sayının adı

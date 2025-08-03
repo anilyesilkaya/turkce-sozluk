@@ -2,6 +2,7 @@
 layout: term
 title: dayızade
 slug: dayizade
+letter: D
 lisan: Türkçe dayı + Farsça zāde
 anlamlar:
 - ► dayı oğlu

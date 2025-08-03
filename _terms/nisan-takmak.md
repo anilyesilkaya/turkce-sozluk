@@ -2,6 +2,7 @@
 layout: term
 title: nişan takmak
 slug: nisan-takmak
+letter: N
 lisan: Türkçe
 anlamlar:
 - nişanlanan çiftin nişan yüzüklerini parmaklarına geçirmek

@@ -2,6 +2,7 @@
 layout: term
 title: tüyo vermek
 slug: tuyo-vermek
+letter: T
 lisan: Türkçe
 anlamlar:
 - herhangi bir konuda gizli bilgi vermek

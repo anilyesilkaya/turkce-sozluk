@@ -2,6 +2,7 @@
 layout: term
 title: yıldırak
 slug: yildirak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► şimşek

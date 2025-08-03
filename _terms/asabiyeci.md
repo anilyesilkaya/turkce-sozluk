@@ -2,6 +2,7 @@
 layout: term
 title: asabiyeci
 slug: asabiyeci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Sinir hastalıkları uzmanı

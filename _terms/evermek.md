@@ -2,6 +2,7 @@
 layout: term
 title: evermek
 slug: evermek
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► evlendirmek

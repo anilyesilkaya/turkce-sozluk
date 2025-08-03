@@ -2,6 +2,7 @@
 layout: term
 title: renklenmek
 slug: renklenmek
+letter: R
 lisan: Türkçe
 anlamlar:
 - Renkli duruma gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: rota kırmak
 slug: rota-kirmak
+letter: R
 lisan: Türkçe
 anlamlar:
 - rota çizgisinden ayrılmak

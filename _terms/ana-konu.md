@@ -2,6 +2,7 @@
 layout: term
 title: ana konu
 slug: ana-konu
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► tema

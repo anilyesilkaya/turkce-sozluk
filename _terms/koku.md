@@ -2,6 +2,7 @@
 layout: term
 title: koku
 slug: koku
+letter: K
 lisan: Türkçe
 anlamlar:
 - Nesnelerden yayılan küçücük zerrelerin burun zarı üzerindeki özel sinirlerde uyandırdığı duygu; buke

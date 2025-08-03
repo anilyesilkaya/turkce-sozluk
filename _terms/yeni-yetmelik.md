@@ -2,6 +2,7 @@
 layout: term
 title: yeni yetmelik
 slug: yeni-yetmelik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► ergenlik

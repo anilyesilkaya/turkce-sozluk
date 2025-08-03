@@ -2,6 +2,7 @@
 layout: term
 title: çoğul
 slug: cogul
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çokluk, teklik karşıtı

@@ -2,6 +2,7 @@
 layout: term
 title: sosyetik
 slug: sosyetik
+letter: S
 lisan: Fransızca sociétique
 anlamlar:
 - Sosyete ile ilgili

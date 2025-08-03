@@ -2,6 +2,7 @@
 layout: term
 title: antika mobilya
 slug: antika-mobilya
+letter: A
 lisan: Türkçe
 anlamlar:
 - Eski dönemlerde imal edilmiş, yapıldığı dönem ve yapan ustanın izini taşıyan, az bulunur, el işçiliği olan mobilya

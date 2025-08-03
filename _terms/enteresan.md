@@ -2,6 +2,7 @@
 layout: term
 title: enteresan
 slug: enteresan
+letter: E
 lisan: Fransızca intéressant
 anlamlar:
 - İlgi çekici; ilginç

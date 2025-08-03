@@ -2,6 +2,7 @@
 layout: term
 title: bölmek
 slug: bolmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir bütünü iki veya daha çok parçaya ayırmak, taksim etmek

@@ -2,6 +2,7 @@
 layout: term
 title: büyüleme
 slug: buyuleme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Büyülemek işi; afsunlama, efsunlama

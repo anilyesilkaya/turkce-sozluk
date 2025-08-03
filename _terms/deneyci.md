@@ -2,6 +2,7 @@
 layout: term
 title: deneyci
 slug: deneyci
+letter: D
 lisan: Türkçe
 anlamlar:
 - Deneycilik yanlısı olan; görgücü, ampirist

@@ -2,6 +2,7 @@
 layout: term
 title: haddeden geçirmek
 slug: haddeden-gecirmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - madenleri tel durumuna getirmek için haddeyi kullanmak

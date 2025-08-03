@@ -2,6 +2,7 @@
 layout: term
 title: onaylanma
 slug: onaylanma
+letter: O
 lisan: Türkçe
 anlamlar:
 - Onaylanmak işi; tasdiklenme

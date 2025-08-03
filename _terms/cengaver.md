@@ -2,6 +2,7 @@
 layout: term
 title: cengâver
 slug: cengaver
+letter: C
 lisan: Farsça cengāver
 anlamlar:
 - Savaşta kahramanlık gösteren

@@ -2,6 +2,7 @@
 layout: term
 title: balgam atmak
 slug: balgam-atmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - balgam çıkarmak, balgamlı biçimde tükürmek

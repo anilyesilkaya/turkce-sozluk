@@ -2,6 +2,7 @@
 layout: term
 title: röntgen
 slug: rontgen
+letter: R
 lisan: (Röntgen özel adından)
 anlamlar:
 - Havada iyon oluşturabilen gama veya x ışınlarının miktarına ilişkin ölçüm birimi

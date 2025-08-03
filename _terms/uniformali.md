@@ -2,6 +2,7 @@
 layout: term
 title: üniformalı
 slug: uniformali
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üniforması olan, üniforma giymiş olan (kimse)

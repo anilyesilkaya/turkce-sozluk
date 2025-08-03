@@ -2,6 +2,7 @@
 layout: term
 title: göğüs geçirmek
 slug: gogus-gecirmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - üzülerek derinden soluk almak

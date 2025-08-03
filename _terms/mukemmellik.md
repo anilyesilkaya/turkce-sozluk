@@ -2,6 +2,7 @@
 layout: term
 title: mükemmellik
 slug: mukemmellik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Eksiksiz, kusursuz, tam, yetkin olma; mükemmeliyet

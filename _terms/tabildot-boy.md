@@ -2,6 +2,7 @@
 layout: term
 title: tabildot boy
 slug: tabildot-boy
+letter: T
 lisan: Türkçe
 anlamlar:
 - Normal boyutlardan daha küçük (gazete)

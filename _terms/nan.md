@@ -2,6 +2,7 @@
 layout: term
 title: nan
 slug: nan
+letter: N
 lisan: Farsça nān
 anlamlar:
 - ► ekmek (I)

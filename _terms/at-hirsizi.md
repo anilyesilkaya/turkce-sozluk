@@ -2,6 +2,7 @@
 layout: term
 title: at hırsızı
 slug: at-hirsizi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kılık kıyafeti ve davranışları güven vermeyen kimse

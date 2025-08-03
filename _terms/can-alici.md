@@ -2,6 +2,7 @@
 layout: term
 title: can alıcı
 slug: can-alici
+letter: C
 lisan: Türkçe
 anlamlar:
 - En önemli, çarpıcı

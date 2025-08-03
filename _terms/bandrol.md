@@ -2,6 +2,7 @@
 layout: term
 title: bandrol
 slug: bandrol
+letter: B
 lisan: Fransızca banderole
 anlamlar:
 - Yırtılınca, koparılınca açıldıkları anlaşılsın diye veya süs olarak paketlere, içi dolu şişelerin ağızlarına konulan şerit veya etiket; denetim pulu

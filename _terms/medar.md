@@ -2,6 +2,7 @@
 layout: term
 title: medar
 slug: medar
+letter: M
 lisan: Arapça medār
 anlamlar:
 - ► dönence

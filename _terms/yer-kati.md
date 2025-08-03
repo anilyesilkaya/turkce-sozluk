@@ -2,6 +2,7 @@
 layout: term
 title: yer katı
 slug: yer-kati
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► giriş katı

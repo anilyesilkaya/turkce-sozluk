@@ -2,6 +2,7 @@
 layout: term
 title: şölen
 slug: solen
+letter: Ş
 lisan: Moğolca
 anlamlar:
 - ► ziyafet

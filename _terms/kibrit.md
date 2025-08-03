@@ -2,6 +2,7 @@
 layout: term
 title: kibrit
 slug: kibrit
+letter: K
 lisan: Arapça kibrīt
 anlamlar:
 - Bir ucu sürtünme sonucu yanabilecek birleşimde olan küçük tahta veya karton parçası; çakmaksız

@@ -2,6 +2,7 @@
 layout: term
 title: günsüz
 slug: gunsuz
+letter: G
 lisan: Türkçe
 anlamlar:
 - Günü belli olmayan (tarih)

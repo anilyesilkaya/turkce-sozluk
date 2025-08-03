@@ -2,6 +2,7 @@
 layout: term
 title: mangır
 slug: mangir
+letter: M
 lisan: Türkçe
 anlamlar:
 - Bakırdan yapılmış, iki buçuk para değerinde sikke

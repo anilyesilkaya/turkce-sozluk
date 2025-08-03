@@ -2,6 +2,7 @@
 layout: term
 title: kadın otu
 slug: kadin-otu
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► ayıt

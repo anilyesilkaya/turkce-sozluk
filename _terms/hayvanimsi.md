@@ -2,6 +2,7 @@
 layout: term
 title: hayvanımsı
 slug: hayvanimsi
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► hayvansı

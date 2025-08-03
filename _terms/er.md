@@ -2,6 +2,7 @@
 layout: term
 title: er
 slug: er
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► erken

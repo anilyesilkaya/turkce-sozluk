@@ -2,6 +2,7 @@
 layout: term
 title: hırsızlama
 slug: hirsizlama
+letter: H
 lisan: Türkçe
 anlamlar:
 - Gizlice alınan, başkasına ait

@@ -2,6 +2,7 @@
 layout: term
 title: billurlaşmak
 slug: billurlasmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Billur durumuna gelmek, billur durumunda yoğunlaşmak; billurlanmak, kristalleşmek, kristallenmek

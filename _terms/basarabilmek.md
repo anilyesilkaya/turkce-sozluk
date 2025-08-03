@@ -2,6 +2,7 @@
 layout: term
 title: başarabilmek
 slug: basarabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başarma ihtimali veya imkânı bulunmak

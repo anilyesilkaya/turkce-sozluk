@@ -2,6 +2,7 @@
 layout: term
 title: verim
 slug: verim
+letter: V
 lisan: Türkçe
 anlamlar:
 - Çalıştırılan, işletilen, bakılan bir şeyin verdiği sonuç veya bu sonucun niceliği; mahsul, randıman

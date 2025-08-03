@@ -2,6 +2,7 @@
 layout: term
 title: darülbedayi
 slug: darulbedayi
+letter: D
 lisan: Arapça dār + bedāyiʿ
 anlamlar:
 - Güzel sanatlar kuruluşu

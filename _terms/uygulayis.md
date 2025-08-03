@@ -2,6 +2,7 @@
 layout: term
 title: uygulayış
 slug: uygulayis
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uygulamak işi

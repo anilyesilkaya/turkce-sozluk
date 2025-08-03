@@ -2,6 +2,7 @@
 layout: term
 title: canını sokakta bulmamak
 slug: canini-sokakta-bulmamak
+letter: C
 lisan: Türkçe
 anlamlar:
 - sağlığı değerli ve önemli olmak

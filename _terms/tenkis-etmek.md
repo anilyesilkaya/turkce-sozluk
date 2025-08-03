@@ -2,6 +2,7 @@
 layout: term
 title: tenkis etmek
 slug: tenkis-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - azaltmak, eksiltmek

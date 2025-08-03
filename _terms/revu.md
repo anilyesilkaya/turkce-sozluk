@@ -2,6 +2,7 @@
 layout: term
 title: revü
 slug: revu
+letter: R
 lisan: Fransızca revue
 anlamlar:
 - Çeşitli dans ve oyunlardan oluşmuş, zengin görünümlü sahne gösterisi

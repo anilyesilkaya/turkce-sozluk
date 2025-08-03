@@ -2,6 +2,7 @@
 layout: term
 title: nebatat
 slug: nebatat
+letter: N
 lisan: Arapça nebātāt
 anlamlar:
 - Bitkiler

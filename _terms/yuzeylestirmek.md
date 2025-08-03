@@ -2,6 +2,7 @@
 layout: term
 title: yüzeyleştirmek
 slug: yuzeylestirmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yüzeyselleştirmek

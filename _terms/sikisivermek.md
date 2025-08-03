@@ -2,6 +2,7 @@
 layout: term
 title: sıkışıvermek
 slug: sikisivermek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Çabucak veya ansızın sıkışmak

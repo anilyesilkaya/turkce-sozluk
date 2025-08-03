@@ -2,6 +2,7 @@
 layout: term
 title: sıçramak
 slug: sicramak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Ayaklarla, birdenbire ve kuvvetle yeri teperek hızla yukarıya veya ileriye atılmak

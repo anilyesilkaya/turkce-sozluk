@@ -2,6 +2,7 @@
 layout: term
 title: uygunsuz
 slug: uygunsuz
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uymayan, yakışık almayan, yaraşmayan; münasebetsiz, namünasip

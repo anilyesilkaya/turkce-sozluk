@@ -2,6 +2,7 @@
 layout: term
 title: kapı mandalı
 slug: kapi-mandali
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kapının kapalı tutulmasına yarayan, aşağı yukarı veya sağa sola hareket ettirilerek kullanılan, demir veya tahtadan araç; kargaburnu, tırkaz

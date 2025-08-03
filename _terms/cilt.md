@@ -2,6 +2,7 @@
 layout: term
 title: cilt
 slug: cilt
+letter: C
 lisan: Arapça cild
 anlamlar:
 - ► ten

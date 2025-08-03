@@ -2,6 +2,7 @@
 layout: term
 title: ahkâm çıkarmak
 slug: ahkam-cikarmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - kendi düşüncelerine dayanarak birtakım yargılara varmak

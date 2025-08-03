@@ -2,6 +2,7 @@
 layout: term
 title: tepeden tırnağa
 slug: tepeden-tirnaga
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► tamamen

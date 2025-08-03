@@ -2,6 +2,7 @@
 layout: term
 title: güpegündüz
 slug: gupegunduz
+letter: G
 lisan: Türkçe
 anlamlar:
 - Ortalık iyice aydınlıkken, iyice gündüzken; dalgündüz

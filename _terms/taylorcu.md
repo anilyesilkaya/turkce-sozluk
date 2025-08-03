@@ -2,6 +2,7 @@
 layout: term
 title: Taylorcu
 slug: taylorcu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taylorculuk yöntemini benimseyen

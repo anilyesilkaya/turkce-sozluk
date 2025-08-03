@@ -2,6 +2,7 @@
 layout: term
 title: zingirdek
 slug: zingirdek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Köy düğünlerinde ve kına gecelerinde daha çok kadınlar arasında çalınan deflerin bazılarının kasnak içlerinde yer alan, defin sesine kaba ve donuk bir şakırtı katan, sık sıralar hâlinde dizilmiş küçük halkacıklar

@@ -2,6 +2,7 @@
 layout: term
 title: kültür akımı
 slug: kultur-akimi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir toplumun kültüründen bazı ögelerin başka bir topluma geçişi

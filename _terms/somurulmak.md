@@ -2,6 +2,7 @@
 layout: term
 title: somurulmak
 slug: somurulmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Somurma işi yapılmak veya somurma işine konu olmak

@@ -2,6 +2,7 @@
 layout: term
 title: kudret
 slug: kudret
+letter: K
 lisan: Arapça ḳudret
 anlamlar:
 - Bir işi yapabilme, bir direnmeyi yenme gücü; çıdam

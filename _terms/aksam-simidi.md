@@ -2,6 +2,7 @@
 layout: term
 title: akşam simidi
 slug: aksam-simidi
+letter: A
 lisan: Türkçe
 anlamlar:
 - İkindiüzeri çıkarılan, susamlı simit

@@ -2,6 +2,7 @@
 layout: term
 title: sapıtmak
 slug: sapitmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Doğru yoldan ayrılmak

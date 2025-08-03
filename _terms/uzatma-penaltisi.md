@@ -2,6 +2,7 @@
 layout: term
 title: uzatma penaltısı
 slug: uzatma-penaltisi
+letter: U
 lisan: Türkçe
 anlamlar:
 - Maç bitmek üzereyken taraflardan birince kazanılan ve atılması zorunlu olan ceza atışı; temdit penaltısı

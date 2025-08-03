@@ -2,6 +2,7 @@
 layout: term
 title: haber kipi
 slug: haber-kipi
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► zaman

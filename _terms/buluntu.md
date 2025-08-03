@@ -2,6 +2,7 @@
 layout: term
 title: buluntu
 slug: buluntu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kazı veya araştırmalarla ortaya çıkarılmış olan, bazen de rast gelinerek bulunan eski çağlardan kalma eşya

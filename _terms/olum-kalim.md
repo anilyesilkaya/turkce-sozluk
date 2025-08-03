@@ -2,6 +2,7 @@
 layout: term
 title: 'ölüm kalım '
 slug: olum-kalim
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Yok olup olmama durumu

@@ -2,6 +2,7 @@
 layout: term
 title: içini boşaltmak
 slug: icini-bosaltmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - sıkıntı ve derdini söylemek

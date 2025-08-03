@@ -2,6 +2,7 @@
 layout: term
 title: Terazi Burcu
 slug: terazi-burcu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Zodyak üzerinde Başak Burcu ile Akrep Burcu arasında bulunan takımyıldızın adı; Terazi

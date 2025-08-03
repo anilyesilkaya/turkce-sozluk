@@ -2,6 +2,7 @@
 layout: term
 title: tokat aşk etmek (veya eylemek)
 slug: tokat-ask-etmek-veya-eylemek
+letter: T
 lisan: Türkçe
 anlamlar:
 - hızla vurmak

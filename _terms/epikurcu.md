@@ -2,6 +2,7 @@
 layout: term
 title: Epikürcü
 slug: epikurcu
+letter: E
 lisan: Türkçe
 anlamlar:
 - Epikuros'un kurduğu felsefe akımını benimseyen, Epikürcülük yanlısı olan; Epikurosçu

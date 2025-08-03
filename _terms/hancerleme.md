@@ -2,6 +2,7 @@
 layout: term
 title: hançerleme
 slug: hancerleme
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hançerlemek işi

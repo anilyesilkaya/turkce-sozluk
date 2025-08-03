@@ -2,6 +2,7 @@
 layout: term
 title: belermek
 slug: belermek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Göz akı iyice belirecek bir biçimde açılmak

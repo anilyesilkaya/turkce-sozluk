@@ -2,6 +2,7 @@
 layout: term
 title: aklını oynatmak
 slug: aklini-oynatmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - çıldırmak

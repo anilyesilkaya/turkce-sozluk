@@ -2,6 +2,7 @@
 layout: term
 title: merhem
 slug: merhem
+letter: M
 lisan: Arapça merhem
 anlamlar:
 - Deriye sürülerek kullanılan, içinde birçok etken madde bulunan, yumuşak ve koyu kıvamda, yağlı ilaç

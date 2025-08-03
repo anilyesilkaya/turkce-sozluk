@@ -2,6 +2,7 @@
 layout: term
 title: gergin
 slug: gergin
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gerilmiş durumda olan

@@ -2,6 +2,7 @@
 layout: term
 title: yüklü
 slug: yuklu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yükü olan, mahmul

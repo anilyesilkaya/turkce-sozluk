@@ -2,6 +2,7 @@
 layout: term
 title: başvezir
 slug: basvezir
+letter: B
 lisan: Türkçe baş + Arapça vezīr
 anlamlar:
 - Vezirlik görevini yürüten en kıdemli ve yetkili vezir

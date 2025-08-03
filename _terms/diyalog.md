@@ -2,6 +2,7 @@
 layout: term
 title: diyalog
 slug: diyalog
+letter: D
 lisan: Fransızca dialogue
 anlamlar:
 - Karşılıklı konuşma

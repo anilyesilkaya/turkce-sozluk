@@ -2,6 +2,7 @@
 layout: term
 title: acılılık
 slug: acililik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Acılı olma durumu

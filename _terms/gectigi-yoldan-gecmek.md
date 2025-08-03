@@ -2,6 +2,7 @@
 layout: term
 title: geçtiği yoldan geçmek
 slug: gectigi-yoldan-gecmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - daha önce aynı olayları yaşamış olmak, deneyimli olmak

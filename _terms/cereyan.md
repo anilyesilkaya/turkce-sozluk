@@ -2,6 +2,7 @@
 layout: term
 title: cereyan
 slug: cereyan
+letter: C
 lisan: Arapça cereyān
 anlamlar:
 - Bir yöne doğru akma

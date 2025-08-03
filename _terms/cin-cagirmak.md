@@ -2,6 +2,7 @@
 layout: term
 title: cin çağırmak
 slug: cin-cagirmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - belli dualar okuyarak istediğini yaptırmak veya bir şey sormak amacıyla cinleri başına toplamak

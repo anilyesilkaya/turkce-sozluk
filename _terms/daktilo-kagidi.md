@@ -2,6 +2,7 @@
 layout: term
 title: daktilo kâğıdı
 slug: daktilo-kagidi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Daktilo yazıları için kullanılan kâğıt

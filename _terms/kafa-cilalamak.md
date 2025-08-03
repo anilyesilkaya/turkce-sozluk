@@ -2,6 +2,7 @@
 layout: term
 title: kafa cilalamak
 slug: kafa-cilalamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - içki içmek

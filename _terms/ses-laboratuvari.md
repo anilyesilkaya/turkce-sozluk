@@ -2,6 +2,7 @@
 layout: term
 title: ses laboratuvarı
 slug: ses-laboratuvari
+letter: S
 lisan: Türkçe
 anlamlar:
 - Ses bilimi çalışmalarında seslerin elektronik araçlarla tespit edilip incelendiği yer

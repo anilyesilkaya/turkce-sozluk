@@ -2,6 +2,7 @@
 layout: term
 title: kestirebilmek
 slug: kestirebilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kestirme ihtimali veya imkânı bulunmak

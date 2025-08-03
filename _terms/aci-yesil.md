@@ -2,6 +2,7 @@
 layout: term
 title: acı yeşil
 slug: aci-yesil
+letter: A
 lisan: Türkçe
 anlamlar:
 - Çarpıcı, göz alıcı yeşil

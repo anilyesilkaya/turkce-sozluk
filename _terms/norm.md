@@ -2,6 +2,7 @@
 layout: term
 title: norm
 slug: norm
+letter: N
 lisan: Fransızca norme
 anlamlar:
 - Yargılama ve değerlendirmenin kendisine göre yapıldığı ölçüt, uyulması gereken kural; düzgü

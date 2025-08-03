@@ -2,6 +2,7 @@
 layout: term
 title: albatros
 slug: albatros
+letter: A
 lisan: Fransızca albatros
 anlamlar:
 - Fırtına kuşugillerden, Atlantik Okyanusu'nda yaşayan, kanat açıklığı üç metreyi bulabilen, gagası eğri uçlu ve kuvvetli, tüyleri gri, beyaz ve siyah olan, balık ve yumuşakçalar ile beslenen, büyük deniz kuşu (Diomedea exulans)

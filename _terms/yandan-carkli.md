@@ -2,6 +2,7 @@
 layout: term
 title: yandan çarklı
 slug: yandan-carkli
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Her iki yanında birer çarkı bulunan ve bu çarklarla ağır hareket eden (vapur); padıl

@@ -2,6 +2,7 @@
 layout: term
 title: eksik etmemek
 slug: eksik-etmemek
+letter: E
 lisan: Türkçe
 anlamlar:
 - her zaman bulundurmak

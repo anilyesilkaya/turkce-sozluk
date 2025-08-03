@@ -2,6 +2,7 @@
 layout: term
 title: doymaz
 slug: doymaz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Açgözlü

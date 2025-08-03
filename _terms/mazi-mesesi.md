@@ -2,6 +2,7 @@
 layout: term
 title: mazı meşesi
 slug: mazi-mesesi
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mazı üstünde urların oluştuğu bir tür meşe (Quercus infectoria)

@@ -2,6 +2,7 @@
 layout: term
 title: kundaklamak
 slug: kundaklamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bebeği kundağa sarmak

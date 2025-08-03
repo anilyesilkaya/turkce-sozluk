@@ -2,6 +2,7 @@
 layout: term
 title: fiyongo
 slug: fiyongo
+letter: F
 lisan: Rumca
 anlamlar:
 - ► fiyonk

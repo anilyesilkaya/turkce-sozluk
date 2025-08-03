@@ -2,6 +2,7 @@
 layout: term
 title: tek tanrıcılık
 slug: tek-tanricilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - İnsanın, doğada ve toplumda, ilk veya değişmez sebebi araştırmasına yol açan tarihsel şartların etkisiyle her şeye gücü yeten bir tek tanrı düşüncesine varması; monoteizm

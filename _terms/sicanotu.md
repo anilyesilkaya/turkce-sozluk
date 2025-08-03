@@ -2,6 +2,7 @@
 layout: term
 title: sıçanotu
 slug: sicanotu
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► arsenik

@@ -2,6 +2,7 @@
 layout: term
 title: unutulma
 slug: unutulma
+letter: U
 lisan: Türkçe
 anlamlar:
 - Unutulmak durumu

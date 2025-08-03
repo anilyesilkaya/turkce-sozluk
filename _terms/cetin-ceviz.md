@@ -2,6 +2,7 @@
 layout: term
 title: çetin ceviz
 slug: cetin-ceviz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Kırılıp ayıklanması güç olan, sert kabuklu ceviz

@@ -2,6 +2,7 @@
 layout: term
 title: başyapıt
 slug: basyapit
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► şaheser

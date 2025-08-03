@@ -2,6 +2,7 @@
 layout: term
 title: kuskus çorbası
 slug: kuskus-corbasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kuskus kullanılarak yapılan çorba

@@ -2,6 +2,7 @@
 layout: term
 title: lokma göz
 slug: lokma-goz
+letter: L
 lisan: Türkçe
 anlamlar:
 - ► patlak göz

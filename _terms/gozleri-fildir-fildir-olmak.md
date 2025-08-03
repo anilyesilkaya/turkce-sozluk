@@ -2,6 +2,7 @@
 layout: term
 title: gözleri fıldır fıldır olmak
 slug: gozleri-fildir-fildir-olmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - telaşlı bir biçimde bakmak

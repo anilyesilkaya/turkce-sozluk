@@ -2,6 +2,7 @@
 layout: term
 title: hazretleri
 slug: hazretleri
+letter: H
 lisan: Türkçe
 anlamlar:
 - saygı duyulan kişilerin adlarını veya makamlarını gösteren söze başka ünvanlarla birlikte getirilen bir söz

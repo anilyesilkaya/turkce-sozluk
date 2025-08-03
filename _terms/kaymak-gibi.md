@@ -2,6 +2,7 @@
 layout: term
 title: kaymak gibi
 slug: kaymak-gibi
+letter: K
 lisan: Türkçe
 anlamlar:
 - bembeyaz ve pürüzsüz

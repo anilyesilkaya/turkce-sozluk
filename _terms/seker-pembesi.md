@@ -2,6 +2,7 @@
 layout: term
 title: şeker pembesi
 slug: seker-pembesi
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Pamuk helvasının rengi

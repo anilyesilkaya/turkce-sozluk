@@ -2,6 +2,7 @@
 layout: term
 title: tayyör
 slug: tayyor
+letter: T
 lisan: Fransızca tailleur
 anlamlar:
 - Ceket ve etekten oluşan kadın giysisi

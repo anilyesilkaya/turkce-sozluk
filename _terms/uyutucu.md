@@ -2,6 +2,7 @@
 layout: term
 title: uyutucu
 slug: uyutucu
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyku getiren, uyku veren

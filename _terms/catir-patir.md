@@ -2,6 +2,7 @@
 layout: term
 title: çatır patır
 slug: catir-patir
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çat pat

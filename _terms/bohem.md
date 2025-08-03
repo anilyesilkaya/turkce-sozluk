@@ -2,6 +2,7 @@
 layout: term
 title: bohem
 slug: bohem
+letter: B
 lisan: Fransızca bohème
 anlamlar:
 - Yarınını düşünmeden günü gününe tasasız, derbeder bir yaşayışı olan (kimse veya topluluk)

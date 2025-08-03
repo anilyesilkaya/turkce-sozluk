@@ -2,6 +2,7 @@
 layout: term
 title: halkalamak
 slug: halkalamak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Bir şeyi kıvırarak halka biçimine getirmek

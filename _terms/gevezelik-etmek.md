@@ -2,6 +2,7 @@
 layout: term
 title: gevezelik etmek
 slug: gevezelik-etmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - saçma sapan konuşmak, zevzeklik etmek

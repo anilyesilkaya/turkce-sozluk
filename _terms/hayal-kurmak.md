@@ -2,6 +2,7 @@
 layout: term
 title: hayal kurmak
 slug: hayal-kurmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - gerçekleşmesi istenen, özlenen şeyi düşünmek

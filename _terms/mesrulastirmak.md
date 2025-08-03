@@ -2,6 +2,7 @@
 layout: term
 title: meşrulaştırmak
 slug: mesrulastirmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - Meşru duruma getirmek

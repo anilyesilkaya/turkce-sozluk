@@ -2,6 +2,7 @@
 layout: term
 title: zikir
 slug: zikir
+letter: Z
 lisan: Arapça ẕikr
 anlamlar:
 - Anma, söyleme, sözünü etme

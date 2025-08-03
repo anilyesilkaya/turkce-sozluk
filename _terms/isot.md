@@ -2,6 +2,7 @@
 layout: term
 title: isot
 slug: isot
+letter: I
 lisan: Türkçe
 anlamlar:
 - Kırmızı, acı biber

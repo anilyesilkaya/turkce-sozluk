@@ -2,6 +2,7 @@
 layout: term
 title: beyaz zehir
 slug: beyaz-zehir
+letter: B
 lisan: Türkçe
 anlamlar:
 - Eroin, kokain vb. sıvı olmayan uyuşturucu madde; beyaz

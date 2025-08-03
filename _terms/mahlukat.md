@@ -2,6 +2,7 @@
 layout: term
 title: mahlukat
 slug: mahlukat
+letter: M
 lisan: Arapça maḫlūḳāt
 anlamlar:
 - Yaratıklar

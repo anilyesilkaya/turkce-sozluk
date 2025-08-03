@@ -2,6 +2,7 @@
 layout: term
 title: sülfatlama
 slug: sulfatlama
+letter: S
 lisan: Türkçe
 anlamlar:
 - Mantar hastalıklarına karşı bitkilere bakır sülfat, demir sülfat püskürtme veya bitkileri bu maddelere bulama işlemi

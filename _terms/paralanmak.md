@@ -2,6 +2,7 @@
 layout: term
 title: paralanmak
 slug: paralanmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► parçalanmak

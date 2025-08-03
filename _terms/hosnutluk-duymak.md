@@ -2,6 +2,7 @@
 layout: term
 title: hoşnutluk duymak
 slug: hosnutluk-duymak
+letter: H
 lisan: Türkçe
 anlamlar:
 - memnun olmak

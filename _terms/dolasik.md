@@ -2,6 +2,7 @@
 layout: term
 title: dolaşık
 slug: dolasik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Karışık olan (saç, ip vb.)

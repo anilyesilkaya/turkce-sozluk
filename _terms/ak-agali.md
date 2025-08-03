@@ -2,6 +2,7 @@
 layout: term
 title: ak ağalı
 slug: ak-agali
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ak ağası bulunan

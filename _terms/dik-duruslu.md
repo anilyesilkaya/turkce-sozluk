@@ -2,6 +2,7 @@
 layout: term
 title: dik duruşlu
 slug: dik-duruslu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Vücudu düzgün yapılı olan

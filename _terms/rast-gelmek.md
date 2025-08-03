@@ -2,6 +2,7 @@
 layout: term
 title: rast gelmek
 slug: rast-gelmek
+letter: R
 lisan: Türkçe
 anlamlar:
 - düşünmediği, ummadığı hâlde karşılaşmak, rastlamak, tesadüf etmek

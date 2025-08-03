@@ -2,6 +2,7 @@
 layout: term
 title: devralış
 slug: devralis
+letter: D
 lisan: Türkçe
 anlamlar:
 - Devralmak işi

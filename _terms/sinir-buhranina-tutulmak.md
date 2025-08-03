@@ -2,6 +2,7 @@
 layout: term
 title: sinir buhranına tutulmak
 slug: sinir-buhranina-tutulmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - bunalım geçirmek

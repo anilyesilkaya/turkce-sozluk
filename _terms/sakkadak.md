@@ -2,6 +2,7 @@
 layout: term
 title: şakkadak
 slug: sakkadak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► ansızın

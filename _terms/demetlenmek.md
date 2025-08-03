@@ -2,6 +2,7 @@
 layout: term
 title: demetlenmek
 slug: demetlenmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Demet yapılmak

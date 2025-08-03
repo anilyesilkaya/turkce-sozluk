@@ -2,6 +2,7 @@
 layout: term
 title: vekâleten
 slug: vekaleten
+letter: V
 lisan: Arapça vekāleten
 anlamlar:
 - Vekil olarak, asaleten karşıtı

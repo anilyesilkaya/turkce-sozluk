@@ -2,6 +2,7 @@
 layout: term
 title: sakata gelmek
 slug: sakata-gelmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - tuzağa düşmek

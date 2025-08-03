@@ -2,6 +2,7 @@
 layout: term
 title: köhne
 slug: kohne
+letter: K
 lisan: Farsça kohne
 anlamlar:
 - Eskiyip yıpranmış, bakımsız kalmış

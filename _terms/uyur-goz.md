@@ -2,6 +2,7 @@
 layout: term
 title: uyur göz
 slug: uyur-goz
+letter: U
 lisan: Türkçe
 anlamlar:
 - Normal durumlarda sürmeyip uyur vaziyette kalan fakat gerektiğinde sürerek dal, yaprak oluşturan tomurcuk

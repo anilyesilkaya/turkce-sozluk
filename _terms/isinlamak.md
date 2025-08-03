@@ -2,6 +2,7 @@
 layout: term
 title: ışınlamak
 slug: isinlamak
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bilim kurguya göre ışın gücüyle bir varlığı, atomlara ayırarak görünmez duruma getirmek veya atomlarını birleştirerek bir varlığı yeniden oluşturmak

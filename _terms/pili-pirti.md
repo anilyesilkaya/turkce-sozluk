@@ -2,6 +2,7 @@
 layout: term
 title: pılı pırtı
 slug: pili-pirti
+letter: P
 lisan: Türkçe
 anlamlar:
 - Eski eşya

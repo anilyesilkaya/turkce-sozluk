@@ -2,6 +2,7 @@
 layout: term
 title: aşılamak
 slug: asilamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Vücutta bağışıklık yaratmak veya yerleşmiş bir hastalığa karşı koyabilmek için hazırlanmış bir aşıyı vücuda vermek

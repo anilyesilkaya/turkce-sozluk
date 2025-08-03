@@ -2,6 +2,7 @@
 layout: term
 title: basmalı
 slug: basmali
+letter: B
 lisan: Türkçe
 anlamlar:
 - Basması olan

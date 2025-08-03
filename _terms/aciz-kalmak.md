@@ -2,6 +2,7 @@
 layout: term
 title: âciz kalmak
 slug: aciz-kalmak
+letter: Â
 lisan: Türkçe
 anlamlar:
 - çok uğraşmasına karşın bir işi yapamamak

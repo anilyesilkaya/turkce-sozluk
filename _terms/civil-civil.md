@@ -2,6 +2,7 @@
 layout: term
 title: cıvıl cıvıl
 slug: civil-civil
+letter: C
 lisan: Türkçe
 anlamlar:
 - Canlı, neşeli olan

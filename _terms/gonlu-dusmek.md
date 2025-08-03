@@ -2,6 +2,7 @@
 layout: term
 title: gönlü düşmek
 slug: gonlu-dusmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - âşık olmak

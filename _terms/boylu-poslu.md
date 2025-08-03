@@ -2,6 +2,7 @@
 layout: term
 title: boylu poslu
 slug: boylu-poslu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Uzun boylu, gösterişli olan; boylu boslu, kırnak

@@ -2,6 +2,7 @@
 layout: term
 title: girdi
 slug: girdi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bir üretimde yararlanılan para, gereç ve iş gücü, çıktı karşıtı

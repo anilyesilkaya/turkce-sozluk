@@ -2,6 +2,7 @@
 layout: term
 title: tövbekâr olmak
 slug: tovbekar-olmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - tövbe etmek

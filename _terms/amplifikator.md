@@ -2,6 +2,7 @@
 layout: term
 title: amplifikatör
 slug: amplifikator
+letter: A
 lisan: Fransızca amplificateur
 anlamlar:
 - ► yükselteç

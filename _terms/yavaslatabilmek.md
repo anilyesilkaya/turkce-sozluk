@@ -2,6 +2,7 @@
 layout: term
 title: yavaşlatabilmek
 slug: yavaslatabilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yavaşlatma ihtimali veya imkânı bulunmak

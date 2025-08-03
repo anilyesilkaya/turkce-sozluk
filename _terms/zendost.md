@@ -2,6 +2,7 @@
 layout: term
 title: zendost
 slug: zendost
+letter: Z
 lisan: Farsça zen + dost
 anlamlar:
 - ► zampara

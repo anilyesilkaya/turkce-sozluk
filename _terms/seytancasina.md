@@ -2,6 +2,7 @@
 layout: term
 title: şeytancasına
 slug: seytancasina
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► şeytanca

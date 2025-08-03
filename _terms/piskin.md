@@ -2,6 +2,7 @@
 layout: term
 title: pişkin
 slug: piskin
+letter: P
 lisan: Türkçe
 anlamlar:
 - Gereğince pişmiş

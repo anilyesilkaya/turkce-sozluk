@@ -2,6 +2,7 @@
 layout: term
 title: çarpık çurpuk
 slug: carpik-curpuk
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► eğri büğrü

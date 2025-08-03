@@ -2,6 +2,7 @@
 layout: term
 title: faal
 slug: faal
+letter: F
 lisan: Arapça faʿāl
 anlamlar:
 - ► etkin

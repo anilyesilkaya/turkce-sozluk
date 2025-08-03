@@ -2,6 +2,7 @@
 layout: term
 title: şitap
 slug: sitap
+letter: Ş
 lisan: Arapça şitāb
 anlamlar:
 - ► acele

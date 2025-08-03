@@ -2,6 +2,7 @@
 layout: term
 title: odun bilimi
 slug: odun-bilimi
+letter: O
 lisan: Türkçe
 anlamlar:
 - Odunun yapısını, fiziksel, mekanik ve kimyasal özelliklerini inceleyen bilim dalı; ksiloloji

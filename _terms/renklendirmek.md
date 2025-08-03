@@ -2,6 +2,7 @@
 layout: term
 title: renklendirmek
 slug: renklendirmek
+letter: R
 lisan: Türkçe
 anlamlar:
 - Bir şeyin renkli olmasını sağlamak

@@ -2,6 +2,7 @@
 layout: term
 title: travmatik
 slug: travmatik
+letter: T
 lisan: Fransızca traumatique
 anlamlar:
 - Travmayla ilgili

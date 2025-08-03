@@ -2,6 +2,7 @@
 layout: term
 title: ağzı oynamak
 slug: agzi-oynamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir şeyler yemek

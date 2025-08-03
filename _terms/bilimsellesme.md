@@ -2,6 +2,7 @@
 layout: term
 title: bilimselleşme
 slug: bilimsellesme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilimselleşmek durumu

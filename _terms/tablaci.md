@@ -2,6 +2,7 @@
 layout: term
 title: tablacı
 slug: tablaci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Mallarını tabla üzerinde satan kimse; tablakâr

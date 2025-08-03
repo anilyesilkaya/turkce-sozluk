@@ -2,6 +2,7 @@
 layout: term
 title: asgari
 slug: asgari
+letter: A
 lisan: Arapça aṣġar + Farsça -į
 anlamlar:
 - En az, en aşağı, en düşük, en alt; minimal, minimum

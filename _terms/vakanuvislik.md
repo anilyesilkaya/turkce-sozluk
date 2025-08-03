@@ -2,6 +2,7 @@
 layout: term
 title: vakanüvislik
 slug: vakanuvislik
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vakanüvisin görevi

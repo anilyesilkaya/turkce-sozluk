@@ -2,6 +2,7 @@
 layout: term
 title: devasa
 slug: devasa
+letter: D
 lisan: Farsça dīvāsā
 anlamlar:
 - Dev gibi, çok büyük

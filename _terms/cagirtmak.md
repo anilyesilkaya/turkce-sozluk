@@ -2,6 +2,7 @@
 layout: term
 title: çağırtmak
 slug: cagirtmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çağırma işini yaptırmak; çığırtmak

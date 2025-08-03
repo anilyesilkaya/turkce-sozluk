@@ -2,6 +2,7 @@
 layout: term
 title: reçel
 slug: recel
+letter: R
 lisan: Farsça rīçāl
 anlamlar:
 - Meyvelerin şekerle kaynatılmasıyla hazırlanan tatlı

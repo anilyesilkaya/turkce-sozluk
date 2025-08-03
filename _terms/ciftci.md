@@ -2,6 +2,7 @@
 layout: term
 title: çiftçi
 slug: ciftci
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Geçimini toprağı ekerek sağlayan kimse; fellah

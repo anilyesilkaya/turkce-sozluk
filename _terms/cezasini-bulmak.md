@@ -2,6 +2,7 @@
 layout: term
 title: cezasını bulmak
 slug: cezasini-bulmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - hak ettiği kötü sona uğramak

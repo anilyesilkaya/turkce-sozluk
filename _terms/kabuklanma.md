@@ -2,6 +2,7 @@
 layout: term
 title: kabuklanma
 slug: kabuklanma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kabuklanmak işi

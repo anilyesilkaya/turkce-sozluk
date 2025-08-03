@@ -2,6 +2,7 @@
 layout: term
 title: haberci
 slug: haberci
+letter: H
 lisan: Türkçe
 anlamlar:
 - Haber getiren kimse; ulak

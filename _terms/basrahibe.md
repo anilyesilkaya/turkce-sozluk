@@ -2,6 +2,7 @@
 layout: term
 title: başrahibe
 slug: basrahibe
+letter: B
 lisan: Türkçe baş + Arapça rāhibe
 anlamlar:
 - Manastırlarda en kıdemli ve yönetimden sorumlu kadın rahip

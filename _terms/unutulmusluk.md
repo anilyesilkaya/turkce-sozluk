@@ -2,6 +2,7 @@
 layout: term
 title: unutulmuşluk
 slug: unutulmusluk
+letter: U
 lisan: Türkçe
 anlamlar:
 - Unutulmuş olma durumu

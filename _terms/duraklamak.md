@@ -2,6 +2,7 @@
 layout: term
 title: duraklamak
 slug: duraklamak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Hareket durumundayken kısa bir süre için durmak veya arada bir durmak; duralamak

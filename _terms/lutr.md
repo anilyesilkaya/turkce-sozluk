@@ -2,6 +2,7 @@
 layout: term
 title: lutr
 slug: lutr
+letter: L
 lisan: Fransızca loutre
 anlamlar:
 - ► su samuru

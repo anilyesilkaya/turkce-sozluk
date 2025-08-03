@@ -2,6 +2,7 @@
 layout: term
 title: abes
 slug: abes
+letter: A
 lisan: Arapça ʿabes̱
 anlamlar:
 - Gereksiz, yersiz, boş olan

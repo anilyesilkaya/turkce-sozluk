@@ -2,6 +2,7 @@
 layout: term
 title: kasidehan
 slug: kasidehan
+letter: K
 lisan: Arapça ḳaṣīde + Farsça -ḫvān
 anlamlar:
 - Kaside okumayı meslek edinmiş kimse

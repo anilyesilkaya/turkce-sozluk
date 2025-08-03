@@ -2,6 +2,7 @@
 layout: term
 title: ayakta tutmak
 slug: ayakta-tutmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - o şeyin sürekliliğini sağlamak

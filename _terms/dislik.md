@@ -2,6 +2,7 @@
 layout: term
 title: dişlik
 slug: dislik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Boks vb. oyunlarda oyuncuların dişlerini ve dudaklarını korumak için dişlerine yerleştirdikleri kauçuk koruyucu

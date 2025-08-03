@@ -2,6 +2,7 @@
 layout: term
 title: caiz
 slug: caiz
+letter: C
 lisan: Arapça cāʾiz
 anlamlar:
 - Din, yasa, töre vb. bakımdan işlenmesinde, yapılmasında sakınca olmayan, yapılıp işlenmesine izin verilen

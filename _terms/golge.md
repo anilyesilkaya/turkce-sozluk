@@ -2,6 +2,7 @@
 layout: term
 title: gölge
 slug: golge
+letter: G
 lisan: Türkçe
 anlamlar:
 - Saydam olmayan bir cisim tarafından ışığın engellenmesiyle ışıklı yerde oluşan karanlık; saye

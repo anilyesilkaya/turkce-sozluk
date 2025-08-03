@@ -2,6 +2,7 @@
 layout: term
 title: mercancı
 slug: mercanci
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mercan avlayan kimse

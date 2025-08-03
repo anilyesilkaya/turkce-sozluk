@@ -2,6 +2,7 @@
 layout: term
 title: mütevehhim
 slug: mutevehhim
+letter: M
 lisan: Arapça mutevehhim
 anlamlar:
 - ► kuruntulu

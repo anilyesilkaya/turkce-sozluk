@@ -2,6 +2,7 @@
 layout: term
 title: çakalboğan
 slug: cakalbogan
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Kırlarda rastlanan bir bitki

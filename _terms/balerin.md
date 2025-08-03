@@ -2,6 +2,7 @@
 layout: term
 title: balerin
 slug: balerin
+letter: B
 lisan: Fransızca ballerine
 anlamlar:
 - Bale yapan kadın sanatçı; balerina

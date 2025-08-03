@@ -2,6 +2,7 @@
 layout: term
 title: bedbinlik
 slug: bedbinlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► kötümserlik

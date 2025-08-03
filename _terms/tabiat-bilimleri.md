@@ -2,6 +2,7 @@
 layout: term
 title: tabiat bilimleri
 slug: tabiat-bilimleri
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► doğa bilimleri

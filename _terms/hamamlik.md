@@ -2,6 +2,7 @@
 layout: term
 title: hamamlık
 slug: hamamlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Bazı evlerde yıkanmak için ayrılmış, çoğunlukla içi ve yanları çinko kaplı, dolaba benzer yer

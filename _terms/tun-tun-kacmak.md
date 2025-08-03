@@ -2,6 +2,7 @@
 layout: term
 title: tun tun kaçmak
 slug: tun-tun-kacmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - gizlice kaybolmak

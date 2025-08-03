@@ -2,6 +2,7 @@
 layout: term
 title: hayırhah
 slug: hayirhah
+letter: H
 lisan: Arapça ḫayr + Farsça -ḫāh
 anlamlar:
 - ► hayırsever

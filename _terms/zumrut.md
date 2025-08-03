@@ -2,6 +2,7 @@
 layout: term
 title: zümrüt
 slug: zumrut
+letter: Z
 lisan: Arapça zumurrud
 anlamlar:
 - Cam parlaklığında, yeşil renkte, saydam bir süs taşı, doğal alüminyum ve berilyum silikatı

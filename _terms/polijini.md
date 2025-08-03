@@ -2,6 +2,7 @@
 layout: term
 title: polijini
 slug: polijini
+letter: P
 lisan: Fransızca polygynie
 anlamlar:
 - ► çok karılılık

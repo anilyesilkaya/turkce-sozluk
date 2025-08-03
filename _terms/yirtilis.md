@@ -2,6 +2,7 @@
 layout: term
 title: yırtılış
 slug: yirtilis
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yırtılmak işi

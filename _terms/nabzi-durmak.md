@@ -2,6 +2,7 @@
 layout: term
 title: nabzı durmak
 slug: nabzi-durmak
+letter: N
 lisan: Türkçe
 anlamlar:
 - ölmek

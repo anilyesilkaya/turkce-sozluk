@@ -2,6 +2,7 @@
 layout: term
 title: iptal
 slug: iptal
+letter: I
 lisan: Arapça ibṭāl
 anlamlar:
 - Yararlıktan, kullanıştan kaldırma, silme, bozma

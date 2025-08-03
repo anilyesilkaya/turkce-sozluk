@@ -2,6 +2,7 @@
 layout: term
 title: zulmetme
 slug: zulmetme
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zulmetmek işi

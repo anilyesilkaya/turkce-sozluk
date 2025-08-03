@@ -2,6 +2,7 @@
 layout: term
 title: muntazam
 slug: muntazam
+letter: M
 lisan: Arapça muntaẓam
 anlamlar:
 - ► düzgün

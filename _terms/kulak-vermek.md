@@ -2,6 +2,7 @@
 layout: term
 title: kulak vermek
 slug: kulak-vermek
+letter: K
 lisan: Türkçe
 anlamlar:
 - değer vermek, önemsemek

@@ -2,6 +2,7 @@
 layout: term
 title: meslek edinmek
 slug: meslek-edinmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - bir işi meslek olarak yapacak bilgi ve beceriyi kazanmak

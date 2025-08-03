@@ -2,6 +2,7 @@
 layout: term
 title: ayak değiştirmek
 slug: ayak-degistirmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - talim yürüyüşünde kısa bir adım atmak yolu ile adımlarını başkalarınınkine uydurmak

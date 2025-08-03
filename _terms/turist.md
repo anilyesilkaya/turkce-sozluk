@@ -2,6 +2,7 @@
 layout: term
 title: turist
 slug: turist
+letter: T
 lisan: Fransızca touriste
 anlamlar:
 - Dinlenme, eğlenme, görme, tanıma vb. amaçlarla geziye çıkan kimse

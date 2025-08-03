@@ -2,6 +2,7 @@
 layout: term
 title: kündekâri
 slug: kundekari
+letter: K
 lisan: Türkçe
 anlamlar:
 - Genellikle kürsü, minber, kapı, dolap vb. yerlerde kullanılan, sekizgen, beşgen, yıldız gibi geometrik biçimde kesilmiş küçük parçacıkların bir desen oluşturacak biçimde açılan yuvalara çivisiz ve yapışkansız geçirilmesi yoluyla yapılan bezeme tekniği

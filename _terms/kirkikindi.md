@@ -2,6 +2,7 @@
 layout: term
 title: kırkikindi
 slug: kirkikindi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Genellikle Orta Anadolu'da ikindi zamanı yağan sürekli yağmurlar

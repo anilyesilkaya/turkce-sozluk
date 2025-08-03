@@ -2,6 +2,7 @@
 layout: term
 title: bağıl değer
 slug: bagil-deger
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir aritmetik sayısının, önüne + veya - işaretleri yazıldıktan sonraki değeri

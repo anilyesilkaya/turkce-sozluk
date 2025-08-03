@@ -2,6 +2,7 @@
 layout: term
 title: kar sapanı
 slug: kar-sapani
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kayarken kayak uçlarını birbirine yaklaştırma, arka uçlarını ise birbirinden uzaklaştırmayla sağlanan frenleme durumu

@@ -2,6 +2,7 @@
 layout: term
 title: maske
 slug: maske
+letter: M
 lisan: Fransızca masqué
 anlamlar:
 - Boyalı karton, kumaş, plastik vb.nden yapılan ve başkalarınca tanınmamak için yüze geçirilerek kullanılan yapma yüz

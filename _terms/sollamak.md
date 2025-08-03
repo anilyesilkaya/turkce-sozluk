@@ -2,6 +2,7 @@
 layout: term
 title: sollamak
 slug: sollamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir taşıt, önünden gitmekte olan taşıtın solundan geçmek

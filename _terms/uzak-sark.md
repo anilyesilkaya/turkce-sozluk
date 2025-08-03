@@ -2,6 +2,7 @@
 layout: term
 title: Uzak Şark
 slug: uzak-sark
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► Uzak Doğu

@@ -2,6 +2,7 @@
 layout: term
 title: teyelli
 slug: teyelli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Teyelle tutturulmuş, teyellenmiş

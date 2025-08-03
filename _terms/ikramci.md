@@ -2,6 +2,7 @@
 layout: term
 title: ikramcı
 slug: ikramci
+letter: I
 lisan: Türkçe
 anlamlar:
 - İkramda bulunmayı seven; mükrim

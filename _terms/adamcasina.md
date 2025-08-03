@@ -2,6 +2,7 @@
 layout: term
 title: adamcasına
 slug: adamcasina
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► adamca

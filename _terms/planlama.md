@@ -2,6 +2,7 @@
 layout: term
 title: planlama
 slug: planlama
+letter: P
 lisan: Türkçe
 anlamlar:
 - Planlamak işi

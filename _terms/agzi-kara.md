@@ -2,6 +2,7 @@
 layout: term
 title: ağzı kara
 slug: agzi-kara
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kara haber vermekten hoşlanan; şom ağızlı

@@ -2,6 +2,7 @@
 layout: term
 title: ağır hastalık
 slug: agir-hastalik
+letter: A
 lisan: Türkçe
 anlamlar:
 - İyileşmesi güç olan hastalık

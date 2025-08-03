@@ -2,6 +2,7 @@
 layout: term
 title: bir araya getirmek
 slug: bir-araya-getirmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - toplamak

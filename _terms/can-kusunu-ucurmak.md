@@ -2,6 +2,7 @@
 layout: term
 title: can kuşunu uçurmak
 slug: can-kusunu-ucurmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - ruhunu teslim etmek, ölmek

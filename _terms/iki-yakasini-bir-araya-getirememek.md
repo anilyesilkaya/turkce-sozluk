@@ -2,6 +2,7 @@
 layout: term
 title: iki yakasını bir araya getirememek
 slug: iki-yakasini-bir-araya-getirememek
+letter: I
 lisan: Türkçe
 anlamlar:
 - maddi sıkıntıdan kurtulup rahata erememek

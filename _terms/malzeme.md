@@ -2,6 +2,7 @@
 layout: term
 title: malzeme
 slug: malzeme
+letter: M
 lisan: Arapça mālezime
 anlamlar:
 - Herhangi bir iş için gerekli her türlü nesne

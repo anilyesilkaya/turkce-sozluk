@@ -2,6 +2,7 @@
 layout: term
 title: şevklendirmek
 slug: sevklendirmek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şevklenme işini yaptırmak

@@ -2,6 +2,7 @@
 layout: term
 title: vatman
 slug: vatman
+letter: V
 lisan: Fransızca wattman
 anlamlar:
 - Tramvay sürücüsü

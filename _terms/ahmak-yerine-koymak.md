@@ -2,6 +2,7 @@
 layout: term
 title: ahmak yerine koymak
 slug: ahmak-yerine-koymak
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir kimseye aptalmış gibi davranmak

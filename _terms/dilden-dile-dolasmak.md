@@ -2,6 +2,7 @@
 layout: term
 title: dilden dile dolaşmak
 slug: dilden-dile-dolasmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - birçok kişi tarafından konuşulmak

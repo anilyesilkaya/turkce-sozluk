@@ -2,6 +2,7 @@
 layout: term
 title: sıkıştırmak
 slug: sikistirmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir şeyi dar bir yere zorla sığdırmak; tıkmak

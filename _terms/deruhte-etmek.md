@@ -2,6 +2,7 @@
 layout: term
 title: deruhte etmek
 slug: deruhte-etmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - üstlenmek

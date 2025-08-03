@@ -2,6 +2,7 @@
 layout: term
 title: ağırelli
 slug: agirelli
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► eli ağır

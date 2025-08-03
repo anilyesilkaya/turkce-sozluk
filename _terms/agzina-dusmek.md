@@ -2,6 +2,7 @@
 layout: term
 title: ağzına düşmek
 slug: agzina-dusmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - dile düşmek

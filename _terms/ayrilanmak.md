@@ -2,6 +2,7 @@
 layout: term
 title: ayrılanmak
 slug: ayrilanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayrı duruma gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: ağlamaklı olmak
 slug: aglamakli-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - neredeyse ağlayacak duruma gelmek, ağlamalı olmak

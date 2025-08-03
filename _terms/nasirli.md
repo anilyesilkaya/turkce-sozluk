@@ -2,6 +2,7 @@
 layout: term
 title: nasırlı
 slug: nasirli
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nasırı olan, nasır bağlamış, nasırlaşmış

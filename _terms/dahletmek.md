@@ -2,6 +2,7 @@
 layout: term
 title: dahletmek
 slug: dahletmek
+letter: D
 lisan: Arapça daḫl + Türkçe etmek
 anlamlar:
 - ► sataşmak

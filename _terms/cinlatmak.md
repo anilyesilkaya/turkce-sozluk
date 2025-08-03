@@ -2,6 +2,7 @@
 layout: term
 title: çınlatmak
 slug: cinlatmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çınlamasını sağlamak

@@ -2,6 +2,7 @@
 layout: term
 title: buncası
 slug: buncasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bu kadarı

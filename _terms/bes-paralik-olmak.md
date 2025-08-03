@@ -2,6 +2,7 @@
 layout: term
 title: beş paralık olmak
 slug: bes-paralik-olmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - zor durumda kalmak, dile düşmek, rezil olmak

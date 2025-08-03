@@ -2,6 +2,7 @@
 layout: term
 title: alıştırmak
 slug: alistirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alışmasına yol açmak

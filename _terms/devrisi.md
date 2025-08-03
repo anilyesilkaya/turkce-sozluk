@@ -2,6 +2,7 @@
 layout: term
 title: devrisi
 slug: devrisi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir sonraki, ertesi (gün, hafta, ay, yıl)

@@ -2,6 +2,7 @@
 layout: term
 title: bina
 slug: bina
+letter: B
 lisan: Arapça binā
 anlamlar:
 - ► yapı

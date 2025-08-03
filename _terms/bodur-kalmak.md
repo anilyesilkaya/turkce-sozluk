@@ -2,6 +2,7 @@
 layout: term
 title: bodur kalmak
 slug: bodur-kalmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - boyu uzamamak

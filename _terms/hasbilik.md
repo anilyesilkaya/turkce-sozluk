@@ -2,6 +2,7 @@
 layout: term
 title: hasbilik
 slug: hasbilik
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► gönüllülük

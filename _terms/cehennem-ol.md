@@ -2,6 +2,7 @@
 layout: term
 title: cehennem ol!
 slug: cehennem-ol
+letter: C
 lisan: Türkçe
 anlamlar:
 - '"defol!" anlamında kullanılan bir söz'

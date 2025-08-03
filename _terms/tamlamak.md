@@ -2,6 +2,7 @@
 layout: term
 title: tamlamak
 slug: tamlamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tamlama oluşturmak

@@ -2,6 +2,7 @@
 layout: term
 title: leğen
 slug: legen
+letter: L
 lisan: Farsça legen
 anlamlar:
 - Genellikle, içinde bir şey yıkamak için kullanılan metal veya plastikten yayvan kap; teşt

@@ -2,6 +2,7 @@
 layout: term
 title: yüksük
 slug: yuksuk
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Dikiş dikerken, iğnenin batmasını önlemek için parmak ucuna takılan kesik koni biçiminde gereç

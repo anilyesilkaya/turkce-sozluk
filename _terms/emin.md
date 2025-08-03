@@ -2,6 +2,7 @@
 layout: term
 title: emin
 slug: emin
+letter: E
 lisan: Arapça emīn
 anlamlar:
 - ► güvenli

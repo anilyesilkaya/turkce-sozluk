@@ -2,6 +2,7 @@
 layout: term
 title: dibek gibi
 slug: dibek-gibi
+letter: D
 lisan: Türkçe
 anlamlar:
 - bütün ağırlığıyla

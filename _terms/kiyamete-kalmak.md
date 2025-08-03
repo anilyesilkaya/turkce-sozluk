@@ -2,6 +2,7 @@
 layout: term
 title: kıyamete kalmak
 slug: kiyamete-kalmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - sorun, çözülememek

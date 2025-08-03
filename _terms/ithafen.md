@@ -2,6 +2,7 @@
 layout: term
 title: ithafen
 slug: ithafen
+letter: I
 lisan: Arapça itḥāfen
 anlamlar:
 - İthaf yoluyla

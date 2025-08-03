@@ -2,6 +2,7 @@
 layout: term
 title: banyo havlusu
 slug: banyo-havlusu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Banyo sonrası bütün vücudu kurulamak için kullanılan havlu

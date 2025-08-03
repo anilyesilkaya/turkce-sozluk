@@ -2,6 +2,7 @@
 layout: term
 title: akar edinmek
 slug: akar-edinmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - kira geliri getirecek bir mal sahibi olmak

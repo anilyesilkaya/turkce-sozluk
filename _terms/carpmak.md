@@ -2,6 +2,7 @@
 layout: term
 title: çarpmak
 slug: carpmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Hızla değmek, vurmak

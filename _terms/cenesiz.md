@@ -2,6 +2,7 @@
 layout: term
 title: çenesiz
 slug: cenesiz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çenesi olmayan

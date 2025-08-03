@@ -2,6 +2,7 @@
 layout: term
 title: sıvılaşmak
 slug: sivilasmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıvı durumuna gelmek

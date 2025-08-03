@@ -2,6 +2,7 @@
 layout: term
 title: derin derin
 slug: derin-derin
+letter: D
 lisan: Türkçe
 anlamlar:
 - Uzun bir biçimde

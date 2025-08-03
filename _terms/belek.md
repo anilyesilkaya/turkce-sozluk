@@ -2,6 +2,7 @@
 layout: term
 title: belek
 slug: belek
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► kundak

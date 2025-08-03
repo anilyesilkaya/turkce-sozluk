@@ -2,6 +2,7 @@
 layout: term
 title: tabela
 slug: tabela
+letter: T
 lisan: İtalyanca tabella
 anlamlar:
 - Üzerinde tanıtıcı, belirtici bir yazı, açıklama, işaret veya resim bulunan nesne; levha

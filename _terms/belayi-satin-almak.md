@@ -2,6 +2,7 @@
 layout: term
 title: belayı satın almak
 slug: belayi-satin-almak
+letter: B
 lisan: Türkçe
 anlamlar:
 - göz göre göre belayı üstüne çekmek

@@ -2,6 +2,7 @@
 layout: term
 title: pesimistlik
 slug: pesimistlik
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► kötümserlik

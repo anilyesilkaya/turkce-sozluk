@@ -2,6 +2,7 @@
 layout: term
 title: bulabilme
 slug: bulabilme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bulabilmek işi

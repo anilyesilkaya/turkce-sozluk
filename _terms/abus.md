@@ -2,6 +2,7 @@
 layout: term
 title: abus
 slug: abus
+letter: A
 lisan: Arapça ʿabūs
 anlamlar:
 - ► somurtkan

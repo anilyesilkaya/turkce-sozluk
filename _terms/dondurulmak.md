@@ -2,6 +2,7 @@
 layout: term
 title: dondurulmak
 slug: dondurulmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dondurma işine konu olmak veya dondurma işi yapılmak

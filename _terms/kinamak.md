@@ -2,6 +2,7 @@
 layout: term
 title: kınamak
 slug: kinamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yapılan bir işin kötü olduğunu belirtir bir biçimde söz söylemek; takbih etmek

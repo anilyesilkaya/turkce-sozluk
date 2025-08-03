@@ -2,6 +2,7 @@
 layout: term
 title: ıhlamurgiller
 slug: ihlamurgiller
+letter: I
 lisan: Türkçe
 anlamlar:
 - İki çeneklilerden, örneği ıhlamur ağacı olan bir bitki familyası

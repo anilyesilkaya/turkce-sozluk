@@ -2,6 +2,7 @@
 layout: term
 title: kendini (veya birini) temize çıkarmak (veya çıkartmak)
 slug: kendini-veya-birini-temize-cikarmak-veya-cikartmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - aklandırmak

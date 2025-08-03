@@ -2,6 +2,7 @@
 layout: term
 title: itaatsiz
 slug: itaatsiz
+letter: I
 lisan: Türkçe
 anlamlar:
 - Söz dinlemez, buyruk dinlemez, kendi başına buyruk olan (kimse)

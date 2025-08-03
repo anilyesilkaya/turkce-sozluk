@@ -2,6 +2,7 @@
 layout: term
 title: gelişigüzel
 slug: gelisiguzel
+letter: G
 lisan: Türkçe
 anlamlar:
 - Herhangi bir; rastgele, lalettayin, alelıtlak

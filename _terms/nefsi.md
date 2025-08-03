@@ -2,6 +2,7 @@
 layout: term
 title: nefsî
 slug: nefsi
+letter: N
 lisan: Arapça nefs + -î
 anlamlar:
 - Canlılığın zorunlu kıldığı gereksinim ve isteklerle ilgili, beden arzularıyla ilgili; nefsani

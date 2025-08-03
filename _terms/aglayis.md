@@ -2,6 +2,7 @@
 layout: term
 title: ağlayış
 slug: aglayis
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağlamak işi

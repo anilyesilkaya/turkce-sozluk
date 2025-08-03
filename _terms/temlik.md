@@ -2,6 +2,7 @@
 layout: term
 title: temlik
 slug: temlik
+letter: T
 lisan: Arapça temlīk
 anlamlar:
 - Mülk olarak verme

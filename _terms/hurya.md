@@ -2,6 +2,7 @@
 layout: term
 title: hürya
 slug: hurya
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hep birden, cümbür cemaat

@@ -2,6 +2,7 @@
 layout: term
 title: çömelmek
 slug: comelmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Dizlerini bükerek topukları üzerine oturmak; çömmek, çökmek

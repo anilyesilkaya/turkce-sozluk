@@ -2,6 +2,7 @@
 layout: term
 title: güngörmüş
 slug: gungormus
+letter: G
 lisan: Türkçe
 anlamlar:
 - İyi yaşamış

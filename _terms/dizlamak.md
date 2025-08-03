@@ -2,6 +2,7 @@
 layout: term
 title: dızlamak
 slug: dizlamak
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► dolandırmak

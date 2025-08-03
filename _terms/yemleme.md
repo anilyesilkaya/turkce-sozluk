@@ -2,6 +2,7 @@
 layout: term
 title: yemleme
 slug: yemleme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yemlemek işi

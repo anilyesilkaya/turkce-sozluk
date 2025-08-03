@@ -2,6 +2,7 @@
 layout: term
 title: çavşır
 slug: cavsir
+letter: Ç
 lisan: Arapça cāvṣīr
 anlamlar:
 - Maydanozgillerden bir bitki (Opopanax chironium)

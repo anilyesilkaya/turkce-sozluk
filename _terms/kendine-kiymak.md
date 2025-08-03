@@ -2,6 +2,7 @@
 layout: term
 title: kendine kıymak
 slug: kendine-kiymak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kendini öldürmek

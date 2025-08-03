@@ -2,6 +2,7 @@
 layout: term
 title: sözünü tutmak
 slug: sozunu-tutmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - verdiği sözü yerine getirmek

@@ -2,6 +2,7 @@
 layout: term
 title: tanzim etmek
 slug: tanzim-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - sıralamak

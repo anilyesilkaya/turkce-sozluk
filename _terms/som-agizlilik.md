@@ -2,6 +2,7 @@
 layout: term
 title: şom ağızlılık
 slug: som-agizlilik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şom ağızlı olma durumu

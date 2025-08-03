@@ -2,6 +2,7 @@
 layout: term
 title: durabilmek
 slug: durabilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Durma ihtimali veya imkânı bulunmak

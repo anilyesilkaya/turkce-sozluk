@@ -2,6 +2,7 @@
 layout: term
 title: iş saati
 slug: is-saati
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► çalışma saati

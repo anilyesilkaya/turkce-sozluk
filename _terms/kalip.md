@@ -2,6 +2,7 @@
 layout: term
 title: kalıp
 slug: kalip
+letter: K
 lisan: Arapça ḳālib
 anlamlar:
 - Bir şeye biçim vermeye veya eski biçimini korumaya yarayan araç

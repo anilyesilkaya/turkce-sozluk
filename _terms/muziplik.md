@@ -2,6 +2,7 @@
 layout: term
 title: muziplik
 slug: muziplik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Muzip olma durumu; azizlik, hınzırlık, takılganlık

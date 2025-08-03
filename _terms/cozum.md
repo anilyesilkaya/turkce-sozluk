@@ -2,6 +2,7 @@
 layout: term
 title: çözüm
 slug: cozum
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir sorunun çözülmesinden alınan sonuç; çıkış yolu, hal (I)

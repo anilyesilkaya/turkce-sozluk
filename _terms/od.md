@@ -2,6 +2,7 @@
 layout: term
 title: od
 slug: od
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► ateş

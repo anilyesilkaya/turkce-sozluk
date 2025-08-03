@@ -2,6 +2,7 @@
 layout: term
 title: aksetmek
 slug: aksetmek
+letter: A
 lisan: Arapça ʿaks + Türkçe etmek
 anlamlar:
 - ► yansımak

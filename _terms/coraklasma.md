@@ -2,6 +2,7 @@
 layout: term
 title: çoraklaşma
 slug: coraklasma
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çoraklaşmak işi

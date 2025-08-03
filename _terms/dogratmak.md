@@ -2,6 +2,7 @@
 layout: term
 title: doğratmak
 slug: dogratmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Doğrama işini yaptırmak

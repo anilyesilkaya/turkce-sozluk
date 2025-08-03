@@ -2,6 +2,7 @@
 layout: term
 title: vecizlik
 slug: vecizlik
+letter: V
 lisan: Türkçe
 anlamlar:
 - Veciz olma durumu

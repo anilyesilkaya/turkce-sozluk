@@ -2,6 +2,7 @@
 layout: term
 title: balo
 slug: balo
+letter: B
 lisan: İtalyanca ballo
 anlamlar:
 - Danslı ve özel giysili gece eğlencesi

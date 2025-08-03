@@ -2,6 +2,7 @@
 layout: term
 title: çağrıcı
 slug: cagrici
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çağırma işini yapan, çağırmak için giden kimse; davetçi

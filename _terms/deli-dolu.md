@@ -2,6 +2,7 @@
 layout: term
 title: deli dolu
 slug: deli-dolu
+letter: D
 lisan: Türkçe
 anlamlar:
 - İlerisini gerisini düşünmeden davranan, rastgele konuşan, patavatsız (kimse); uçuk (I), uçuk kaçık

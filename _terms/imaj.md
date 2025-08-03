@@ -2,6 +2,7 @@
 layout: term
 title: imaj
 slug: imaj
+letter: I
 lisan: Fransızca image
 anlamlar:
 - ► imge

@@ -2,6 +2,7 @@
 layout: term
 title: Laponca
 slug: laponca
+letter: L
 lisan: Türkçe
 anlamlar:
 - Laponların kullandığı dil

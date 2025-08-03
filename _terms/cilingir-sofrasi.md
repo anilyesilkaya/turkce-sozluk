@@ -2,6 +2,7 @@
 layout: term
 title: çilingir sofrası
 slug: cilingir-sofrasi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Üzerine meze ve içki konmuş tepsi, küçük içki sofrası

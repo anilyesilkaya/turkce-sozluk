@@ -2,6 +2,7 @@
 layout: term
 title: koyvermek
 slug: koyvermek
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► koyuvermek

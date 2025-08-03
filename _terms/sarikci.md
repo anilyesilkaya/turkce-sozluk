@@ -2,6 +2,7 @@
 layout: term
 title: sarıkçı
 slug: sarikci
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sarık için gerekli tülbent, abani vb. kumaşları satan kimse

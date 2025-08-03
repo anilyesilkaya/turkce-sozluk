@@ -2,6 +2,7 @@
 layout: term
 title: evrensel
 slug: evrensel
+letter: E
 lisan: Türkçe
 anlamlar:
 - Evrenle ve onun genel düzeniyle ilgili; kozmik

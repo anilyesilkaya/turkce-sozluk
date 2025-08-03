@@ -2,6 +2,7 @@
 layout: term
 title: takım takım
 slug: takim-takim
+letter: T
 lisan: Türkçe
 anlamlar:
 - Küçük topluluklar hâlinde

@@ -2,6 +2,7 @@
 layout: term
 title: yırtıcı
 slug: yirtici
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Beslenmek için başka hayvanları parçalayarak yiyen (hayvan); müfteris

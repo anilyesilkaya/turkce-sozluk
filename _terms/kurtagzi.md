@@ -2,6 +2,7 @@
 layout: term
 title: kurtağzı
 slug: kurtagzi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Gemi ve sandallarda halatın geçmesi için teknenin kenarına tutturulmuş, açık ağız biçiminde metal parça

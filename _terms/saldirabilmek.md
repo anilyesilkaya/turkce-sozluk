@@ -2,6 +2,7 @@
 layout: term
 title: saldırabilmek
 slug: saldirabilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Saldırma ihtimali veya imkânı bulunmak

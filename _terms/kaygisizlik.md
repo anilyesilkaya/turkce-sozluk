@@ -2,6 +2,7 @@
 layout: term
 title: kaygısızlık
 slug: kaygisizlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaygısız olma durumu; tasasızlık, endişesizlik, gamsızlık

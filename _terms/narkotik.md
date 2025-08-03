@@ -2,6 +2,7 @@
 layout: term
 title: narkotik
 slug: narkotik
+letter: N
 lisan: Fransızca narcotique
 anlamlar:
 - ► uyuşturucu

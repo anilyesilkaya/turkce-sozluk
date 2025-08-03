@@ -2,6 +2,7 @@
 layout: term
 title: tümsek
 slug: tumsek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Küçük tepe; tüm (II), tümbek, yükselti

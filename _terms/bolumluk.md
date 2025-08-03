@@ -2,6 +2,7 @@
 layout: term
 title: bölümlük
 slug: bolumluk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bölümden oluşan; kısımlık

@@ -2,6 +2,7 @@
 layout: term
 title: canlı müzik
 slug: canli-muzik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Gazino, lokal vb. yerlerde yemek sırasında bir veya birkaç müzisyenin çalgı ve sesleri ile parçaları seslendirmesi

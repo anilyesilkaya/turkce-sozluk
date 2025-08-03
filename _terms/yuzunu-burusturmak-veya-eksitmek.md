@@ -2,6 +2,7 @@
 layout: term
 title: yüzünü buruşturmak (veya ekşitmek)
 slug: yuzunu-burusturmak-veya-eksitmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yüzüne öfke ve hoşnutsuzluk gösteren bir biçim vermek

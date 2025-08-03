@@ -2,6 +2,7 @@
 layout: term
 title: yavuzca
 slug: yavuzca
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yavuz bir biçimde

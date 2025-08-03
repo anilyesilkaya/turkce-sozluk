@@ -2,6 +2,7 @@
 layout: term
 title: cücelik
 slug: cucelik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cüce olma durumu

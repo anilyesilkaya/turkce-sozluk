@@ -2,6 +2,7 @@
 layout: term
 title: sütnine
 slug: sutnine
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► sütanne

@@ -2,6 +2,7 @@
 layout: term
 title: Türk eli
 slug: turk-eli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Türklerin yaşadığı toprak

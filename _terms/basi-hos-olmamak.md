@@ -2,6 +2,7 @@
 layout: term
 title: başı hoş olmamak
 slug: basi-hos-olmamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir şeyden hoşlanmamak

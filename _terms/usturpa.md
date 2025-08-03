@@ -2,6 +2,7 @@
 layout: term
 title: usturpa
 slug: usturpa
+letter: U
 lisan: İtalyanca stropa
 anlamlar:
 - İnce bir halatın ucuna bir kurşun parçası bağlanarak yapılan bir çeşit kırbaç

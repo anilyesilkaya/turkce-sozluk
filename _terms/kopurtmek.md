@@ -2,6 +2,7 @@
 layout: term
 title: köpürtmek
 slug: kopurtmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Köpürmesini sağlamak

@@ -2,6 +2,7 @@
 layout: term
 title: sustalı
 slug: sustali
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sustası olan

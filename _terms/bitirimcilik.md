@@ -2,6 +2,7 @@
 layout: term
 title: bitirimcilik
 slug: bitirimcilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bitirimcinin yaptığı iş

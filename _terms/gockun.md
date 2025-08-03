@@ -2,6 +2,7 @@
 layout: term
 title: göçkün
 slug: gockun
+letter: G
 lisan: Türkçe
 anlamlar:
 - Göçecek duruma gelmiş

@@ -2,6 +2,7 @@
 layout: term
 title: mavi
 slug: mavi
+letter: M
 lisan: Arapça māʾī
 anlamlar:
 - Yeşil ile mor arasında bir renk, bulutsuz gökyüzünün rengi; mai

@@ -2,6 +2,7 @@
 layout: term
 title: Arap rakamları
 slug: arap-rakamlari
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arapların ve Arap harflerini kabul eden ülkelerin kullandığı rakamlar

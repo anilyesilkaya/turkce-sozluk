@@ -2,6 +2,7 @@
 layout: term
 title: mağdurluk
 slug: magdurluk
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mağdur olma durumu, kıygınlık; mağduriyet

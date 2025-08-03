@@ -2,6 +2,7 @@
 layout: term
 title: ispat
 slug: ispat
+letter: I
 lisan: Arapça is̱bāt
 anlamlar:
 - ► kanıt

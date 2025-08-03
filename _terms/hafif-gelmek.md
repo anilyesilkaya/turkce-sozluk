@@ -2,6 +2,7 @@
 layout: term
 title: hafif gelmek
 slug: hafif-gelmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - ağırlığı fazla olmamak

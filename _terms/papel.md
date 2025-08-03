@@ -2,6 +2,7 @@
 layout: term
 title: papel
 slug: papel
+letter: P
 lisan: İspanyolca papel
 anlamlar:
 - Bir liralık kâğıt para

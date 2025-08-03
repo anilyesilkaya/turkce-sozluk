@@ -2,6 +2,7 @@
 layout: term
 title: fabrika ayarlarına dönmek
 slug: fabrika-ayarlarina-donmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - piyasaya sürülmüş olan ürünün özgün ayarlarına dönmek

@@ -2,6 +2,7 @@
 layout: term
 title: tababet
 slug: tababet
+letter: T
 lisan: Arapça ṭabābet
 anlamlar:
 - ► tıp

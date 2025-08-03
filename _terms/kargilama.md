@@ -2,6 +2,7 @@
 layout: term
 title: kargılama
 slug: kargilama
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kargılamak işi

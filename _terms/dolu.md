@@ -2,6 +2,7 @@
 layout: term
 title: dolu
 slug: dolu
+letter: D
 lisan: Türkçe
 anlamlar:
 - İçi boş olmayan; dolmuş, meşbu, pür (I), komple, boş karşıtı

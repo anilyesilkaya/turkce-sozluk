@@ -2,6 +2,7 @@
 layout: term
 title: atardamar
 slug: atardamar
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kalbin sağ karıncığından akciğerlere, sol karıncığından vücudun diğer bölümlerine kan taşıyan damar; şiryan, arter

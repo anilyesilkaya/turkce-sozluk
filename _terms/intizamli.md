@@ -2,6 +2,7 @@
 layout: term
 title: intizamlı
 slug: intizamli
+letter: I
 lisan: Türkçe
 anlamlar:
 - Düzgün, düzenli bir biçimde

@@ -2,6 +2,7 @@
 layout: term
 title: doyasıya
 slug: doyasiya
+letter: D
 lisan: Türkçe
 anlamlar:
 - Doyuncaya kadar yiyerek; doya doya

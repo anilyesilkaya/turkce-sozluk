@@ -2,6 +2,7 @@
 layout: term
 title: nebülöz
 slug: nebuloz
+letter: N
 lisan: Fransızca nébuleuse
 anlamlar:
 - ► bulutsu

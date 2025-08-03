@@ -2,6 +2,7 @@
 layout: term
 title: baş edememek
 slug: bas-edememek
+letter: B
 lisan: Türkçe
 anlamlar:
 - gücü yetmemek

@@ -2,6 +2,7 @@
 layout: term
 title: efendicesine
 slug: efendicesine
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► efendice

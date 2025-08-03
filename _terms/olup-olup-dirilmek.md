@@ -2,6 +2,7 @@
 layout: term
 title: ölüp ölüp dirilmek
 slug: olup-olup-dirilmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - çok sıkıntı, acı çekmek veya çok ağır hastalık geçirmek

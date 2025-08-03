@@ -2,6 +2,7 @@
 layout: term
 title: açık lacivert
 slug: acik-lacivert
+letter: A
 lisan: Türkçe
 anlamlar:
 - Laciverdin bir veya birkaç ton açığı

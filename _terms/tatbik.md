@@ -2,6 +2,7 @@
 layout: term
 title: tatbik
 slug: tatbik
+letter: T
 lisan: Arapça taṭbīḳ
 anlamlar:
 - ► uygulama

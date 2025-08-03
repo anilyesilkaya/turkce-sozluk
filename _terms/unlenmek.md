@@ -2,6 +2,7 @@
 layout: term
 title: ünlenmek
 slug: unlenmek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Ün sahibi olmak, ün kazanmak, meşhur olmak

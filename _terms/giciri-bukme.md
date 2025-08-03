@@ -2,6 +2,7 @@
 layout: term
 title: gıcırı bükme
 slug: giciri-bukme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Hemen yetiştirilen, iletilen

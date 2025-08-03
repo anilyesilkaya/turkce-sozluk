@@ -2,6 +2,7 @@
 layout: term
 title: deste
 slug: deste
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► demet

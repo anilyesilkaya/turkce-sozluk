@@ -2,6 +2,7 @@
 layout: term
 title: dönel
 slug: donel
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir eksen çevresinde dönerek oluşmuş

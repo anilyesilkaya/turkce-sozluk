@@ -2,6 +2,7 @@
 layout: term
 title: ananesiz
 slug: ananesiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► geleneksiz

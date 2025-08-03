@@ -2,6 +2,7 @@
 layout: term
 title: katma bütçe
 slug: katma-butce
+letter: K
 lisan: Türkçe
 anlamlar:
 - Özel gelirleri olan ve genel bütçe dışında kalan bütçe; mülhak bütçe

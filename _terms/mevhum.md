@@ -2,6 +2,7 @@
 layout: term
 title: mevhum
 slug: mevhum
+letter: M
 lisan: Arapça mevhūm
 anlamlar:
 - Gerçekte olmayıp var sanılan, var diye düşünülen, kuruntuya dayanan

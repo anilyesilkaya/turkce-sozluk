@@ -2,6 +2,7 @@
 layout: term
 title: oysaki
 slug: oysaki
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► oysa

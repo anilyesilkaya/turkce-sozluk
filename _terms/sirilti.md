@@ -2,6 +2,7 @@
 layout: term
 title: şırıltı
 slug: sirilti
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şırıldayan suyun çıkardığı sesin adı

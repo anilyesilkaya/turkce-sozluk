@@ -2,6 +2,7 @@
 layout: term
 title: vazife kurbanı
 slug: vazife-kurbani
+letter: V
 lisan: Türkçe
 anlamlar:
 - ► görev şehidi

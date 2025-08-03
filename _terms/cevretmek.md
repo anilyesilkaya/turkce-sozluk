@@ -2,6 +2,7 @@
 layout: term
 title: cevretmek
 slug: cevretmek
+letter: C
 lisan: Arapça cevr + Türkçe etmek
 anlamlar:
 - Eziyet etmek

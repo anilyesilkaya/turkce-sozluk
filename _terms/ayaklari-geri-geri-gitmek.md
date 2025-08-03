@@ -2,6 +2,7 @@
 layout: term
 title: ayakları geri geri gitmek
 slug: ayaklari-geri-geri-gitmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir yere gönülsüz, istemeye istemeye gitmek

@@ -2,6 +2,7 @@
 layout: term
 title: yapışak
 slug: yapisak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yapışkan bir çeşit ot

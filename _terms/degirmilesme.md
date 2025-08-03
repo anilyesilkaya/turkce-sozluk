@@ -2,6 +2,7 @@
 layout: term
 title: değirmileşme
 slug: degirmilesme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Değirmileşmek işi

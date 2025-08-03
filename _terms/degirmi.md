@@ -2,6 +2,7 @@
 layout: term
 title: değirmi
 slug: degirmi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Yuvarlak olan

@@ -2,6 +2,7 @@
 layout: term
 title: ne demeye
 slug: ne-demeye
+letter: N
 lisan: Türkçe
 anlamlar:
 - ne diye, nasıl bir düşünceyle, hangi maksatla, niçin?

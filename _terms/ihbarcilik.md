@@ -2,6 +2,7 @@
 layout: term
 title: ihbarcılık
 slug: ihbarcilik
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► muhbirlik

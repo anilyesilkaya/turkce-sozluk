@@ -2,6 +2,7 @@
 layout: term
 title: öptürmek
 slug: opturmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öpme işini yaptırmak veya öpmesine izin vermek

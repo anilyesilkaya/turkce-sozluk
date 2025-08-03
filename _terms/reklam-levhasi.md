@@ -2,6 +2,7 @@
 layout: term
 title: reklam levhası
 slug: reklam-levhasi
+letter: R
 lisan: Türkçe
 anlamlar:
 - Herhangi bir ürünü tanıtan, duvara, özel hazırlanmış çerçevelere veya yerlere yapıştırılan, asılan veya tutturulan ilan

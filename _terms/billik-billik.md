@@ -2,6 +2,7 @@
 layout: term
 title: bıllık bıllık
 slug: billik-billik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► etli butlu

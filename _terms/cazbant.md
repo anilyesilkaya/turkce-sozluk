@@ -2,6 +2,7 @@
 layout: term
 title: cazbant
 slug: cazbant
+letter: C
 lisan: İngilizce jazz-band
 anlamlar:
 - Caz müziği çalan orkestra

@@ -2,6 +2,7 @@
 layout: term
 title: alayiş
 slug: alayis
+letter: A
 lisan: Farsça ālāyiş
 anlamlar:
 - ► görkem

@@ -2,6 +2,7 @@
 layout: term
 title: gereklilik
 slug: gereklilik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gerekli olma durumu; lüzumluluk, zarurilik

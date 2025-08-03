@@ -2,6 +2,7 @@
 layout: term
 title: çelişme
 slug: celisme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çelişmek durumu

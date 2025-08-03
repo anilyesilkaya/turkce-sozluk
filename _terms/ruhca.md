@@ -2,6 +2,7 @@
 layout: term
 title: ruhça
 slug: ruhca
+letter: R
 lisan: Türkçe
 anlamlar:
 - ► ruhen

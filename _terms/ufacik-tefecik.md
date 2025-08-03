@@ -2,6 +2,7 @@
 layout: term
 title: ufacık tefecik
 slug: ufacik-tefecik
+letter: U
 lisan: Türkçe
 anlamlar:
 - Çok küçük

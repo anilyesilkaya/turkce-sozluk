@@ -2,6 +2,7 @@
 layout: term
 title: veyahut
 slug: veyahut
+letter: V
 lisan: Arapça ve + Farsça yāḫõd
 anlamlar:
 - ► veya

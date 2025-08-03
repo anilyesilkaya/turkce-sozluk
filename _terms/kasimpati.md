@@ -2,6 +2,7 @@
 layout: term
 title: kasımpatı
 slug: kasimpati
+letter: K
 lisan: Türkçe
 anlamlar:
 - Birleşikgillerden, çiçekleri iri, katmerli ve türlü renkte, sonbahardan kışa değin açan bir süs bitkisi; krizantem (Chrysanthemum)

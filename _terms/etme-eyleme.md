@@ -2,6 +2,7 @@
 layout: term
 title: etme eyleme
 slug: etme-eyleme
+letter: E
 lisan: Türkçe
 anlamlar:
 - bir davranış karşısında "yapma" anlamında kullanılan bir söz

@@ -2,6 +2,7 @@
 layout: term
 title: ölçülmek
 slug: olculmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ölçme işine konu olmak

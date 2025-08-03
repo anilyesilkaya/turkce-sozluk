@@ -2,6 +2,7 @@
 layout: term
 title: herhâlde
 slug: herhalde
+letter: H
 lisan: Türkçe
 anlamlar:
 - Büyük bir ihtimalle; yalım, herhâl

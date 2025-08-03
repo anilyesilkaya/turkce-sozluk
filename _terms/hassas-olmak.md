@@ -2,6 +2,7 @@
 layout: term
 title: hassas olmak
 slug: hassas-olmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - duyarlı davranmak

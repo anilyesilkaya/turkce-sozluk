@@ -2,6 +2,7 @@
 layout: term
 title: şakakları atmak
 slug: sakaklari-atmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - çok sinirlenmek

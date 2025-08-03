@@ -2,6 +2,7 @@
 layout: term
 title: özenti
 slug: ozenti
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Beğendiği bir durumda olma, beğendiği şeye benzeme çabası

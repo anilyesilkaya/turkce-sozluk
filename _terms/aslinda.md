@@ -2,6 +2,7 @@
 layout: term
 title: aslında
 slug: aslinda
+letter: A
 lisan: Türkçe
 anlamlar:
 - Asıl olarak; bir defa, bir kere, aslen, esasen, esasta, haddizatında

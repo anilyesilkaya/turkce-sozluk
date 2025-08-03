@@ -2,6 +2,7 @@
 layout: term
 title: sürümek
 slug: surumek
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► sürüklemek

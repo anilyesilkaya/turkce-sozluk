@@ -2,6 +2,7 @@
 layout: term
 title: makineli
 slug: makineli
+letter: M
 lisan: Türkçe
 anlamlar:
 - Makinesi olan, makine ile işleyen

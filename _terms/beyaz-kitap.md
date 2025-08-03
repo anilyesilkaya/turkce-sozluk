@@ -2,6 +2,7 @@
 layout: term
 title: beyaz kitap
 slug: beyaz-kitap
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir sorunu aydınlatmak ve savunmak için bir kurum veya hükûmetçe yayımlanan kitap

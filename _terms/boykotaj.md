@@ -2,6 +2,7 @@
 layout: term
 title: boykotaj
 slug: boykotaj
+letter: B
 lisan: Fransızca boycottage
 anlamlar:
 - Boykot etme işi

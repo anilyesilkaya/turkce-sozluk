@@ -2,6 +2,7 @@
 layout: term
 title: barbunya pilakisi
 slug: barbunya-pilakisi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Barbunyanın pişirilmesi ile yapılan pilaki

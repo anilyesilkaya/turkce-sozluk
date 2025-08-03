@@ -2,6 +2,7 @@
 layout: term
 title: prospektüs
 slug: prospektus
+letter: P
 lisan: Fransızca prospectus
 anlamlar:
 - ► tanıtmalık

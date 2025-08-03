@@ -2,6 +2,7 @@
 layout: term
 title: ayarcılık
 slug: ayarcilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayarcının yaptığı iş

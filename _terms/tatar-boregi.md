@@ -2,6 +2,7 @@
 layout: term
 title: Tatar böreği
 slug: tatar-boregi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Mayalı hamurdan ince açılan yufkanın küçük karelere bölündükten sonra haşlanıp üzerine sarımsaklı yoğurt ve kızdırılmış pul biberli tereyağı dökülmesiyle yapılan bir yemek türü; çimdik

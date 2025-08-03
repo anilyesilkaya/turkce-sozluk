@@ -2,6 +2,7 @@
 layout: term
 title: teres
 slug: teres
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► pezevenk

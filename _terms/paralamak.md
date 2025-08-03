@@ -2,6 +2,7 @@
 layout: term
 title: paralamak
 slug: paralamak
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► parçalamak

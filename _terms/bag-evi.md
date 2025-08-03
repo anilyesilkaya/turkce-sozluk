@@ -2,6 +2,7 @@
 layout: term
 title: bağ evi
 slug: bag-evi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağ (II) içerisine yapılarak yaz aylarında kalınan ev

@@ -2,6 +2,7 @@
 layout: term
 title: konuluvermek
 slug: konuluvermek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çabucak konmak

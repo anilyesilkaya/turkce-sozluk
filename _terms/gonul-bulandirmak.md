@@ -2,6 +2,7 @@
 layout: term
 title: gönül bulandırmak
 slug: gonul-bulandirmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - mide bulandırmak

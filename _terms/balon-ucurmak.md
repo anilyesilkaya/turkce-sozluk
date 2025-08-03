@@ -2,6 +2,7 @@
 layout: term
 title: balon uçurmak
 slug: balon-ucurmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - ilgililerin ne diyeceklerini ve nasıl davranacaklarını anlamak amacıyla aslı olmayan bir haber yaymak

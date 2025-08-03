@@ -2,6 +2,7 @@
 layout: term
 title: katlanma
 slug: katlanma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Katlanmak işi; katlantı

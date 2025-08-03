@@ -2,6 +2,7 @@
 layout: term
 title: sarısabır
 slug: sarisabir
+letter: S
 lisan: Türkçe
 anlamlar:
 - Zambakgillerden, sıcak bölgelerde yetişen, yaprakları oldukça yüksek bir sapın tepesinde rozet biçiminde toplanmış olan, liflerinden halat yapılan bir süs bitkisi; azvay (Aloe vera)

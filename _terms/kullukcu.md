@@ -2,6 +2,7 @@
 layout: term
 title: kullukçu
 slug: kullukcu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kullukta görevli yeniçeri

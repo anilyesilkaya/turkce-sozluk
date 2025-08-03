@@ -2,6 +2,7 @@
 layout: term
 title: daire dilimi
 slug: daire-dilimi
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► daire kesmesi

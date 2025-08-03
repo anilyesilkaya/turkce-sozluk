@@ -2,6 +2,7 @@
 layout: term
 title: damperli
 slug: damperli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Damperi olan

@@ -2,6 +2,7 @@
 layout: term
 title: borç vermek
 slug: borc-vermek
+letter: B
 lisan: Türkçe
 anlamlar:
 - daha sonra ödenmek üzere birine para veya bir şey vermek

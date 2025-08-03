@@ -2,6 +2,7 @@
 layout: term
 title: sapık
 slug: sapik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Tavır ve davranışları normal olmayan veya geleneklerden, törelerden ayrılan, anormal (kimse)

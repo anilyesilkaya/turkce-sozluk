@@ -2,6 +2,7 @@
 layout: term
 title: astarlı zarf
 slug: astarli-zarf
+letter: A
 lisan: Türkçe
 anlamlar:
 - İç yüzüne ince bir kâğıt geçirilmiş zarf

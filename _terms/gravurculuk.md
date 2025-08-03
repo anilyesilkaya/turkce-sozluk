@@ -2,6 +2,7 @@
 layout: term
 title: gravürcülük
 slug: gravurculuk
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gravürcünün yaptığı iş

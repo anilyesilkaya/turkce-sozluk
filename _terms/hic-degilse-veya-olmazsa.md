@@ -2,6 +2,7 @@
 layout: term
 title: hiç değilse (veya olmazsa)
 slug: hic-degilse-veya-olmazsa
+letter: H
 lisan: Türkçe
 anlamlar:
 - önemli olmasa bile, başka bir şey olmasa bile

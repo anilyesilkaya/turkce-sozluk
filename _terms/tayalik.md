@@ -2,6 +2,7 @@
 layout: term
 title: tayalık
 slug: tayalik
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► dadılık

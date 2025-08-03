@@ -2,6 +2,7 @@
 layout: term
 title: hâkim
 slug: hakim
+letter: H
 lisan: Arapça ḥākim
 anlamlar:
 - Egemenliğini yürüten, buyruğunu yürüten, sözünü geçiren

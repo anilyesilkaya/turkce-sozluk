@@ -2,6 +2,7 @@
 layout: term
 title: sertlenme
 slug: sertlenme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sertlenmek durumu

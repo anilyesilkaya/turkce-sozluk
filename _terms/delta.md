@@ -2,6 +2,7 @@
 layout: term
 title: delta
 slug: delta
+letter: D
 lisan: Fransızca delta
 anlamlar:
 - Yunan alfabesinin dördüncü harfi (Δ)

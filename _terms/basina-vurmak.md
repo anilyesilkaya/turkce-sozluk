@@ -2,6 +2,7 @@
 layout: term
 title: başına vurmak
 slug: basina-vurmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - içki, gaz veya sıcak baş ağrısı yapmak

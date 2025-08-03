@@ -2,6 +2,7 @@
 layout: term
 title: buruşuvermek
 slug: burusuvermek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çabucak buruşmak

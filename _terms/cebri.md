@@ -2,6 +2,7 @@
 layout: term
 title: cebrî
 slug: cebri
+letter: C
 lisan: Arapça cebrī
 anlamlar:
 - Zorla yapılan

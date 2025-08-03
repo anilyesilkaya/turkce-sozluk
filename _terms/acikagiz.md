@@ -2,6 +2,7 @@
 layout: term
 title: açıkağız
 slug: acikagiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Turpgillerden bir bitki (Hesperis acris)

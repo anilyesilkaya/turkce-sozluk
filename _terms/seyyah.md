@@ -2,6 +2,7 @@
 layout: term
 title: seyyah
 slug: seyyah
+letter: S
 lisan: Arapça seyyāḥ
 anlamlar:
 - ► gezgin

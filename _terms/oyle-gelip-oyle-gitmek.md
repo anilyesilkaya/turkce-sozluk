@@ -2,6 +2,7 @@
 layout: term
 title: öyle gelip öyle gitmek
 slug: oyle-gelip-oyle-gitmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - değişmeden devam etmek

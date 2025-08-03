@@ -2,6 +2,7 @@
 layout: term
 title: yırtabilme
 slug: yirtabilme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yırtabilmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: eten
 slug: eten
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► döl eşi

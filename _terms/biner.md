@@ -2,6 +2,7 @@
 layout: term
 title: biner
 slug: biner
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bin sayısının üleştirme sayı sıfatı

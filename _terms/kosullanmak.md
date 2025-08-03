@@ -2,6 +2,7 @@
 layout: term
 title: koşullanmak
 slug: kosullanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► şartlanmak

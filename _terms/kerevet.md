@@ -2,6 +2,7 @@
 layout: term
 title: kerevet
 slug: kerevet
+letter: K
 lisan: Rumca
 anlamlar:
 - Üzerine şilte serilerek yatmaya veya oturmaya yarayan, duvara bitişik, ayakları olan, tahtadan sedir

@@ -2,6 +2,7 @@
 layout: term
 title: Yenice
 slug: yenice
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Çanakkale iline bağlı ilçelerden biri

@@ -2,6 +2,7 @@
 layout: term
 title: haritacılık
 slug: haritacilik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Haritacının yaptığı iş

@@ -2,6 +2,7 @@
 layout: term
 title: kırbaç
 slug: kirbac
+letter: K
 lisan: Türkçe
 anlamlar:
 - Tek parça deri veya uzun esnek bir değneğin ucuna sırım bağlanarak yapılmış vurma aracı

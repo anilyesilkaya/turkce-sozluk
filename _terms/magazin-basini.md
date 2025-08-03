@@ -2,6 +2,7 @@
 layout: term
 title: magazin basını
 slug: magazin-basini
+letter: M
 lisan: Türkçe
 anlamlar:
 - Yazısı az, resmi bol, genellikle eğlence ve spor dünyasında tanınmış kişilerin yaşantılarıyla ilgili haber ve yorumlara yer veren yayın

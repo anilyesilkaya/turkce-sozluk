@@ -2,6 +2,7 @@
 layout: term
 title: izahat
 slug: izahat
+letter: I
 lisan: Arapça īżāḥāt
 anlamlar:
 - Açıklamalar

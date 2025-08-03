@@ -2,6 +2,7 @@
 layout: term
 title: göç
 slug: goc
+letter: G
 lisan: Türkçe
 anlamlar:
 - Ekonomik, toplumsal, siyasi sebeplerle bireylerin veya toplulukların bir ülkeden başka bir ülkeye, bir yerleşim yerinden başka bir yerleşim yerine gitme işi; taşınma, hicret, muhaceret

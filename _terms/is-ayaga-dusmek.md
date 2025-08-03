@@ -2,6 +2,7 @@
 layout: term
 title: iş ayağa düşmek
 slug: is-ayaga-dusmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - iş, sorumsuz ve yetkisiz olanların elinde kalmak

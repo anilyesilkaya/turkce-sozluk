@@ -2,6 +2,7 @@
 layout: term
 title: çobandüdüğü
 slug: cobandudugu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - İki çeneklilerden, sap ve yapraklarında keskin bir koku ve acı bir tat olan, nemli yerlerde yetişen bir bitki; meyhaneci otu (Asarum europaeum)

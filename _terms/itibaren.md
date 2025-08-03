@@ -2,6 +2,7 @@
 layout: term
 title: itibaren
 slug: itibaren
+letter: I
 lisan: Arapça iʿtibāren
 anlamlar:
 - -den başlayarak, -den beri

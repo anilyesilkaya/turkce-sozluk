@@ -2,6 +2,7 @@
 layout: term
 title: dikliğine
 slug: dikligine
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dik olarak

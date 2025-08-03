@@ -2,6 +2,7 @@
 layout: term
 title: kaplayabilmek
 slug: kaplayabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaplama ihtimali veya imkânı bulunmak

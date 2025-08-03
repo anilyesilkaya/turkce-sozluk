@@ -2,6 +2,7 @@
 layout: term
 title: gürlemek
 slug: gurlemek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Kalın ve gür ses çıkarmak

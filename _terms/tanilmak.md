@@ -2,6 +2,7 @@
 layout: term
 title: tanılmak
 slug: tanilmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► tanınmak

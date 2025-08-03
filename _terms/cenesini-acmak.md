@@ -2,6 +2,7 @@
 layout: term
 title: çenesini açmak
 slug: cenesini-acmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - çok konuşmasına sebep olmak

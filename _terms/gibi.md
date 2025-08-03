@@ -2,6 +2,7 @@
 layout: term
 title: gibi
 slug: gibi
+letter: G
 lisan: Türkçe
 anlamlar:
 - -e benzer, -e benzeyen

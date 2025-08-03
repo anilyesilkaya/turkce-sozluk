@@ -2,6 +2,7 @@
 layout: term
 title: atsan atılmaz, satsan satılmaz
 slug: atsan-atilmaz-satsan-satilmaz
+letter: A
 lisan: Türkçe
 anlamlar:
 - işe yaramadığı veya sıkıntı verdiği hâlde vazgeçilemeyen şeyler ve kimseler için söylenen bir söz

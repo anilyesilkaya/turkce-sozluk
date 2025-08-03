@@ -2,6 +2,7 @@
 layout: term
 title: şiddetle
 slug: siddetle
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şiddetli biçimde

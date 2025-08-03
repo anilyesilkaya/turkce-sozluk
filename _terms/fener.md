@@ -2,6 +2,7 @@
 layout: term
 title: fener
 slug: fener
+letter: F
 lisan: Rumca
 anlamlar:
 - Saydam bir maddeden yapılmış veya böyle bir madde ile donatılmış, içinde ışık kaynağı bulunan aydınlatma aracı

@@ -2,6 +2,7 @@
 layout: term
 title: derdini Marko Paşa'ya anlat
 slug: derdini-marko-pasa-ya-anlat
+letter: D
 lisan: Türkçe
 anlamlar:
 - '"yakınmanı dinleyecek kimse yok" anlamında kullanılan bir söz'

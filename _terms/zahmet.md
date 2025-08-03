@@ -2,6 +2,7 @@
 layout: term
 title: zahmet
 slug: zahmet
+letter: Z
 lisan: Arapça zaḥmet
 anlamlar:
 - ► güçlük

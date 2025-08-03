@@ -2,6 +2,7 @@
 layout: term
 title: zikredebilmek
 slug: zikredebilmek
+letter: Z
 lisan: Arapça ẕikr + Türkçe edebilmek
 anlamlar:
 - Zikretme ihtimali veya imkânı bulunmak

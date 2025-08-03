@@ -2,6 +2,7 @@
 layout: term
 title: suyun akıntısına gitmek
 slug: suyun-akintisina-gitmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - olayların veya durumun gelişmesine göre davranmak, uymak

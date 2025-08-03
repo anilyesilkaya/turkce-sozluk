@@ -2,6 +2,7 @@
 layout: term
 title: gururlu
 slug: gururlu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Kendi kişiliğine önem veren; azametli

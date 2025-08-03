@@ -2,6 +2,7 @@
 layout: term
 title: bilisizlik
 slug: bilisizlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bilgisizlik

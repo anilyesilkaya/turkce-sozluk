@@ -2,6 +2,7 @@
 layout: term
 title: priz
 slug: priz
+letter: P
 lisan: Fransızca prise
 anlamlar:
 - Elektrik akımı almak için fişin sokulduğu yuva

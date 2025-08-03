@@ -2,6 +2,7 @@
 layout: term
 title: içi geniş
 slug: ici-genis
+letter: I
 lisan: Türkçe
 anlamlar:
 - Sabırlı, rahat, huzurlu, gamsız, tasasız (kimse)

@@ -2,6 +2,7 @@
 layout: term
 title: buymak
 slug: buymak
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► donmak

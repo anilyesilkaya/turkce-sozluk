@@ -2,6 +2,7 @@
 layout: term
 title: bayrak dikmek
 slug: bayrak-dikmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - üzerinde bayrak bulunan bir direk veya sopayı bir yere saplamak

@@ -2,6 +2,7 @@
 layout: term
 title: söndürülmek
 slug: sondurulmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Söndürme işine konu olmak

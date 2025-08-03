@@ -2,6 +2,7 @@
 layout: term
 title: yalpa yapmak
 slug: yalpa-yapmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yalpalamak

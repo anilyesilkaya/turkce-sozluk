@@ -2,6 +2,7 @@
 layout: term
 title: vehmetmek
 slug: vehmetmek
+letter: V
 lisan: Arapça vehm + Türkçe etmek
 anlamlar:
 - ► evhamlanmak

@@ -2,6 +2,7 @@
 layout: term
 title: nazarlık
 slug: nazarlik
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nazarı etkisiz duruma getirdiğine inanılan kumaş parçası, mavi boncuk, kurşun, dua yazılı kâğıt, muska vb. şeyler

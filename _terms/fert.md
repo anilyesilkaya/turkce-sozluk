@@ -2,6 +2,7 @@
 layout: term
 title: fert
 slug: fert
+letter: F
 lisan: Arapça ferd
 anlamlar:
 - ► birey

@@ -2,6 +2,7 @@
 layout: term
 title: işi tıkırında
 slug: isi-tikirinda
+letter: I
 lisan: Türkçe
 anlamlar:
 - İşi çok uygun, çok iyi

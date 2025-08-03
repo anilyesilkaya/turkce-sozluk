@@ -2,6 +2,7 @@
 layout: term
 title: hızar
 slug: hizar
+letter: H
 lisan: Farsça ḫarās
 anlamlar:
 - Tahta ve kereste biçmeye yarayan, elektrik veya su gücüyle çalışan büyük bıçkı

@@ -2,6 +2,7 @@
 layout: term
 title: tılsım
 slug: tilsim
+letter: T
 lisan: Arapça ṭilesm
 anlamlar:
 - Doğaüstü işler yapabileceğine inanılan güç

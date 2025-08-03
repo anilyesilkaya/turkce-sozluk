@@ -2,6 +2,7 @@
 layout: term
 title: posta
 slug: posta
+letter: P
 lisan: İtalyanca posta
 anlamlar:
 - Bir yere gelen veya bir yerden gönderilen mektup ve emanetlerin tümü

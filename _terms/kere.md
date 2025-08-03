@@ -2,6 +2,7 @@
 layout: term
 title: kere
 slug: kere
+letter: K
 lisan: Arapça kerre
 anlamlar:
 - ► kez

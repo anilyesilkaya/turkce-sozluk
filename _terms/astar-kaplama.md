@@ -2,6 +2,7 @@
 layout: term
 title: astar kaplama
 slug: astar-kaplama
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kontratablalarda körağacın biçim değiştirmesini önlemek amacıyla iki yüzüne yapıştırılan kaplama katı

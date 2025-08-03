@@ -2,6 +2,7 @@
 layout: term
 title: perde çekmek
 slug: perde-cekmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - bir şeyin önüne perde germek

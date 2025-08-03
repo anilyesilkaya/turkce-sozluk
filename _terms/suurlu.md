@@ -2,6 +2,7 @@
 layout: term
 title: şuurlu
 slug: suurlu
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► bilinçli

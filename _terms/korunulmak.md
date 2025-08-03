@@ -2,6 +2,7 @@
 layout: term
 title: korunulmak
 slug: korunulmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Korunma işi yapılmak

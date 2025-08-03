@@ -2,6 +2,7 @@
 layout: term
 title: erkânıharbiyeiumumiye
 slug: erkaniharbiyeiumumiye
+letter: E
 lisan: Arapça erkān + ḥarbiyye + ʿumūmiyye
 anlamlar:
 - ► genelkurmay

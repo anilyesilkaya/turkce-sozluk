@@ -2,6 +2,7 @@
 layout: term
 title: sınır dışı
 slug: sinir-disi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Ülke sınırlarının ötesi; hudut dışı

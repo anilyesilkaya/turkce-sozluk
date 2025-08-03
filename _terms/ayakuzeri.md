@@ -2,6 +2,7 @@
 layout: term
 title: ayaküzeri
 slug: ayakuzeri
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► ayaküstü

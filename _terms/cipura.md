@@ -2,6 +2,7 @@
 layout: term
 title: çipura
 slug: cipura
+letter: Ç
 lisan: Rumca
 anlamlar:
 - Karagöz balığına benzer, eti beyaz bir Akdeniz balığı; çupra, çupra balığı (Sparus aurata)

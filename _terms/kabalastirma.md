@@ -2,6 +2,7 @@
 layout: term
 title: kabalaştırma
 slug: kabalastirma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kabalaştırmak işi

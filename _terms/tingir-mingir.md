@@ -2,6 +2,7 @@
 layout: term
 title: tıngır mıngır
 slug: tingir-mingir
+letter: T
 lisan: Türkçe
 anlamlar:
 - Kuru, çınlamalı ve yankılı bir sesle

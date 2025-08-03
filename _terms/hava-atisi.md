@@ -2,6 +2,7 @@
 layout: term
 title: hava atışı
 slug: hava-atisi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Basketbolda oyunu başlatmak için hakemin iki takımdan birer oyuncunun arasında topu havaya atması; başlama atışı

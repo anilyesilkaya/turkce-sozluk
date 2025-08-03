@@ -2,6 +2,7 @@
 layout: term
 title: top arabası
 slug: top-arabasi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Sahra topunun oturtulmuş bulunduğu tekerlekli taşıt

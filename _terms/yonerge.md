@@ -2,6 +2,7 @@
 layout: term
 title: yönerge
 slug: yonerge
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Herhangi bir konuda tutulacak yol için üst makamlardan alt makamlara belli bir esasa dayanarak verilen buyruk; talimat, direktif

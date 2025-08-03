@@ -2,6 +2,7 @@
 layout: term
 title: külçeleşme
 slug: kulcelesme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Külçeleşmek işi

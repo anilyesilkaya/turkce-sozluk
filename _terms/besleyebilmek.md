@@ -2,6 +2,7 @@
 layout: term
 title: besleyebilmek
 slug: besleyebilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Besleme ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: endazeyi kaçırmak
 slug: endazeyi-kacirmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - fazla abartmak, ölçüyü kaçırmak

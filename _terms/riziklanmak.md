@@ -2,6 +2,7 @@
 layout: term
 title: rızıklanmak
 slug: riziklanmak
+letter: R
 lisan: Türkçe
 anlamlar:
 - Rızkını çıkarmak, günlük yiyeceğini elde etmek

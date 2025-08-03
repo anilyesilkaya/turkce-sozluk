@@ -2,6 +2,7 @@
 layout: term
 title: sinkaf etmek
 slug: sinkaf-etmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - erkek cinsel organını anarak küfretmek

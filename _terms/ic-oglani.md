@@ -2,6 +2,7 @@
 layout: term
 title: iç oğlanı
 slug: ic-oglani
+letter: I
 lisan: Türkçe
 anlamlar:
 - Osmanlı Devleti'nde, saraylarda türlü devlet hizmetleri için aday olarak yetiştirilen genç; celep

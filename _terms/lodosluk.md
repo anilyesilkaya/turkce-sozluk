@@ -2,6 +2,7 @@
 layout: term
 title: lodosluk
 slug: lodosluk
+letter: L
 lisan: Türkçe
 anlamlar:
 - ► güney

@@ -2,6 +2,7 @@
 layout: term
 title: gümbür gümbür
 slug: gumbur-gumbur
+letter: G
 lisan: Türkçe
 anlamlar:
 - Büyük bir gürültü ile

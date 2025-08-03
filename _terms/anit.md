@@ -2,6 +2,7 @@
 layout: term
 title: anıt
 slug: anit
+letter: A
 lisan: Türkçe
 anlamlar:
 - Önemli bir olayın veya büyük bir kişinin gelecek kuşaklarca tarih boyunca anılması için yapılan, göze çarpacak büyüklükte, sembol niteliğinde yapı; abide

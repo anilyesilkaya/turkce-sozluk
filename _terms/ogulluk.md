@@ -2,6 +2,7 @@
 layout: term
 title: oğulluk
 slug: ogulluk
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oğul olma durumu

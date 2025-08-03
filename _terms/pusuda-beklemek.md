@@ -2,6 +2,7 @@
 layout: term
 title: pusuda beklemek
 slug: pusuda-beklemek
+letter: P
 lisan: Türkçe
 anlamlar:
 - gizlenerek saldırıya hazır durumda olmak

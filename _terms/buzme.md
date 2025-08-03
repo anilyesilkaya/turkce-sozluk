@@ -2,6 +2,7 @@
 layout: term
 title: büzme
 slug: buzme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Büzmek işi

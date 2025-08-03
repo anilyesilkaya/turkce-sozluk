@@ -2,6 +2,7 @@
 layout: term
 title: sonlanış
 slug: sonlanis
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sonlanmak işi

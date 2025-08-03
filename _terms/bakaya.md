@@ -2,6 +2,7 @@
 layout: term
 title: bakaya
 slug: bakaya
+letter: B
 lisan: Arapça baḳāyā
 anlamlar:
 - Askerlik çağına girenlerden son yoklamalarını yaptırarak askerlik kararı aldırdıkları hâlde çağrıldıklarında gelmeyen veya gelip de kıtalarına gitmeden toplandıkları yerlerden ayrılanlar

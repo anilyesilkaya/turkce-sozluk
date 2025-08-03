@@ -2,6 +2,7 @@
 layout: term
 title: eseflenmek
 slug: eseflenmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► üzülmek

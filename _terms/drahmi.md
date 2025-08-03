@@ -2,6 +2,7 @@
 layout: term
 title: drahmi
 slug: drahmi
+letter: D
 lisan: Yunanca
 anlamlar:
 - Yunanistan'ın para birimi

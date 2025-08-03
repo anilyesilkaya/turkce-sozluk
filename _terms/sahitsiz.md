@@ -2,6 +2,7 @@
 layout: term
 title: şahitsiz
 slug: sahitsiz
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► tanıksız

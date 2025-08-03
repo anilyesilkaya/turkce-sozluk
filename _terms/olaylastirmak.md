@@ -2,6 +2,7 @@
 layout: term
 title: olaylaştırmak
 slug: olaylastirmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Olay durumuna getirmek

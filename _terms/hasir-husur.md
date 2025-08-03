@@ -2,6 +2,7 @@
 layout: term
 title: haşır huşur
 slug: hasir-husur
+letter: H
 lisan: Türkçe
 anlamlar:
 - Sert ve kuru şeyler haşırdayarak, haşırtılı ses çıkararak; haşır haşır

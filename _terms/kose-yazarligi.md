@@ -2,6 +2,7 @@
 layout: term
 title: köşe yazarlığı
 slug: kose-yazarligi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Köşe yazısı yazma işi; fıkracılık

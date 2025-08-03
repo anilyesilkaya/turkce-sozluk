@@ -2,6 +2,7 @@
 layout: term
 title: teslim olmak
 slug: teslim-olmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - üstün bir güç karşısında mücadeleden vazgeçip yenilgiyi kabul etmek

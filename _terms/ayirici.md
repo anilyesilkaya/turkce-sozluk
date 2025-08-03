@@ -2,6 +2,7 @@
 layout: term
 title: ayırıcı
 slug: ayirici
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayırma özelliği veya gücü olan

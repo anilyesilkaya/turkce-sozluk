@@ -2,6 +2,7 @@
 layout: term
 title: haddini bilmek
 slug: haddini-bilmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - kendi değer ve yeteneğinin farkında olmak

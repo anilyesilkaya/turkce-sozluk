@@ -2,6 +2,7 @@
 layout: term
 title: fasit daire
 slug: fasit-daire
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► kısır döngü

@@ -2,6 +2,7 @@
 layout: term
 title: el ayası
 slug: el-ayasi
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► avuç içi

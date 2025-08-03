@@ -2,6 +2,7 @@
 layout: term
 title: üre
 slug: ure
+letter: Ü
 lisan: Fransızca urée
 anlamlar:
 - Azotlu besinlerin vücutta yanmasıyla oluşan, erimiş bir durumda idrarla dışarı atılan azotlu madde

@@ -2,6 +2,7 @@
 layout: term
 title: Allah yürü ya kulum demiş
 slug: allah-yuru-ya-kulum-demis
+letter: A
 lisan: Türkçe
 anlamlar:
 - çok para kazananlar veya işinde çok ilerleyenler için söylenen bir söz

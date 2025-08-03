@@ -2,6 +2,7 @@
 layout: term
 title: anasından emdiği süt burnundan (fitil fitil) gelmek
 slug: anasindan-emdigi-sut-burnundan-fitil-fitil-gelmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir işi yaparken çok sıkıntı çekmek

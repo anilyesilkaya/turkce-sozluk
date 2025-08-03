@@ -2,6 +2,7 @@
 layout: term
 title: Türkçeci
 slug: turkceci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Okullarda Türkçe dersi veren öğretmen

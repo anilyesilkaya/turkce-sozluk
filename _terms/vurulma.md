@@ -2,6 +2,7 @@
 layout: term
 title: vurulma
 slug: vurulma
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vurulmak işi

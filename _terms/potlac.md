@@ -2,6 +2,7 @@
 layout: term
 title: potlaç
 slug: potlac
+letter: P
 lisan: Fransızca potlatch
 anlamlar:
 - Kızılderililerin birbirlerine armağanlar verdikleri dinî bayram

@@ -2,6 +2,7 @@
 layout: term
 title: tahrif
 slug: tahrif
+letter: T
 lisan: Arapça taḥrīf
 anlamlar:
 - Bir şeyin aslını bozma; değiştirme

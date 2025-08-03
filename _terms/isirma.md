@@ -2,6 +2,7 @@
 layout: term
 title: ısırma
 slug: isirma
+letter: I
 lisan: Türkçe
 anlamlar:
 - Isırmak işi

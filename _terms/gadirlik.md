@@ -2,6 +2,7 @@
 layout: term
 title: gadirlik
 slug: gadirlik
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► gadir

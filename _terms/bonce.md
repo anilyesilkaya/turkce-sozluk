@@ -2,6 +2,7 @@
 layout: term
 title: bönce
 slug: bonce
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► safça

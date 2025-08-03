@@ -2,6 +2,7 @@
 layout: term
 title: başına dert olmak (veya kesilmek)
 slug: basina-dert-olmak-veya-kesilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir kimse veya olay sıkıntı vermek

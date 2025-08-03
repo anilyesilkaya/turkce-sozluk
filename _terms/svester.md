@@ -2,6 +2,7 @@
 layout: term
 title: şvester
 slug: svester
+letter: Ş
 lisan: Almanca Schwester
 anlamlar:
 - ► hemşire

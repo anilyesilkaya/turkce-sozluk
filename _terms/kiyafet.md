@@ -2,6 +2,7 @@
 layout: term
 title: kıyafet
 slug: kiyafet
+letter: K
 lisan: Arapça ḳiyāfet
 anlamlar:
 - ► giysi

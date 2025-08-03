@@ -2,6 +2,7 @@
 layout: term
 title: uydurulmak
 slug: uydurulmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uydurma işi yapılmak

@@ -2,6 +2,7 @@
 layout: term
 title: sabahı bulmak (veya etmek)
 slug: sabahi-bulmak-veya-etmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - herhangi bir sebeple bütün geceyi uyumadan geçirmek

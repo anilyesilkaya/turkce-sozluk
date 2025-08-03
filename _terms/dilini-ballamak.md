@@ -2,6 +2,7 @@
 layout: term
 title: dilini ballamak
 slug: dilini-ballamak
+letter: D
 lisan: Türkçe
 anlamlar:
 - güzel sözler söylemek

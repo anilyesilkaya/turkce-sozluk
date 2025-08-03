@@ -2,6 +2,7 @@
 layout: term
 title: koklamak
 slug: koklamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kokusunu duymak için bir şeyi burnuna yaklaştırmak veya bir yerin havasını içine çekmek

@@ -2,6 +2,7 @@
 layout: term
 title: semafor
 slug: semafor
+letter: S
 lisan: Fransızca sémaphore
 anlamlar:
 - Demir yollarında gündüz mekanik olarak kırmızı bir kolla, gece kırmızı ışıkla işaret veren alet

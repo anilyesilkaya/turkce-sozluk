@@ -2,6 +2,7 @@
 layout: term
 title: kopyalama
 slug: kopyalama
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kopyalamak işi

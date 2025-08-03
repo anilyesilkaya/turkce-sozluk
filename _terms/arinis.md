@@ -2,6 +2,7 @@
 layout: term
 title: arınış
 slug: arinis
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arınmak işi

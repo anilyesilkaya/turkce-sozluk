@@ -2,6 +2,7 @@
 layout: term
 title: alelacele
 slug: alelacele
+letter: A
 lisan: Arapça ʿalā'l-ʿacele
 anlamlar:
 - ► çabucak

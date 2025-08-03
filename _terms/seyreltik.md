@@ -2,6 +2,7 @@
 layout: term
 title: seyreltik
 slug: seyreltik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Seyreltilmiş olan, derişik karşıtı

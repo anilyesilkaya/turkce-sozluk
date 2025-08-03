@@ -2,6 +2,7 @@
 layout: term
 title: takatsizleşmek
 slug: takatsizlesmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Vücutta iş yapabilme, başarabilme gücü kalmamak; dermansızlaşmak, hâlsizleşmek, mecalsizleşmek

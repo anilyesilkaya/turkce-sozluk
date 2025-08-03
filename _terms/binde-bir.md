@@ -2,6 +2,7 @@
 layout: term
 title: binde bir
 slug: binde-bir
+letter: B
 lisan: Türkçe
 anlamlar:
 - Nadir olan, az bulunan

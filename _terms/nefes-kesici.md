@@ -2,6 +2,7 @@
 layout: term
 title: nefes kesici
 slug: nefes-kesici
+letter: N
 lisan: Türkçe
 anlamlar:
 - Heyecanlı, coşkulu

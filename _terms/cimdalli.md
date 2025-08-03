@@ -2,6 +2,7 @@
 layout: term
 title: cimdallı
 slug: cimdalli
+letter: C
 lisan: Türkçe
 anlamlar:
 - Hareketli bir kadın oyunu

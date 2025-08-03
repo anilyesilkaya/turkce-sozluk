@@ -2,6 +2,7 @@
 layout: term
 title: verimli
 slug: verimli
+letter: V
 lisan: Türkçe
 anlamlar:
 - Verimi iyi ve bol olan; bitek, vergili, randımanlı, mahsuldar, mümbit, müsmir, verimkâr, velut

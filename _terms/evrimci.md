@@ -2,6 +2,7 @@
 layout: term
 title: evrimci
 slug: evrimci
+letter: E
 lisan: Türkçe
 anlamlar:
 - Evrimcilik yanlısı olan kimse

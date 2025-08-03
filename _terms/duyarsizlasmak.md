@@ -2,6 +2,7 @@
 layout: term
 title: duyarsızlaşmak
 slug: duyarsizlasmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Duyarlı olma yeteneği kalmamak

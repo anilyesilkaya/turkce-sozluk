@@ -2,6 +2,7 @@
 layout: term
 title: hiççilik
 slug: hiccilik
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► nihilizm

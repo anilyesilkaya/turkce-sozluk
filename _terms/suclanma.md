@@ -2,6 +2,7 @@
 layout: term
 title: suçlanma
 slug: suclanma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Suçlanmak işi

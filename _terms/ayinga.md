@@ -2,6 +2,7 @@
 layout: term
 title: ayınga
 slug: ayinga
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kaçak tütün

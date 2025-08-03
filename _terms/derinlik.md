@@ -2,6 +2,7 @@
 layout: term
 title: derinlik
 slug: derinlik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir şeyin dip tarafının yüzeye, ağza olan uzaklığı

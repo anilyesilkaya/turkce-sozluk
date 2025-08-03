@@ -2,6 +2,7 @@
 layout: term
 title: olağanüstülük
 slug: olaganustuluk
+letter: O
 lisan: Türkçe
 anlamlar:
 - Olağanüstü olma durumu; fevkaladelik, harikuladelik

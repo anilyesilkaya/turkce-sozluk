@@ -2,6 +2,7 @@
 layout: term
 title: hücre evi
 slug: hucre-evi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Yasa dışı örgüt üyelerinin toplandığı ev

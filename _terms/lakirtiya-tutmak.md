@@ -2,6 +2,7 @@
 layout: term
 title: lakırtıya tutmak
 slug: lakirtiya-tutmak
+letter: L
 lisan: Türkçe
 anlamlar:
 - konuşarak oyalamak

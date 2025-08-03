@@ -2,6 +2,7 @@
 layout: term
 title: hüviyet
 slug: huviyet
+letter: H
 lisan: Arapça huviyyet
 anlamlar:
 - ► kimlik

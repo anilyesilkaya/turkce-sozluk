@@ -2,6 +2,7 @@
 layout: term
 title: tecimen
 slug: tecimen
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► tüccar

@@ -2,6 +2,7 @@
 layout: term
 title: kıran
 slug: kiran
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yakın çevre

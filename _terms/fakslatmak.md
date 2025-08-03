@@ -2,6 +2,7 @@
 layout: term
 title: fakslatmak
 slug: fakslatmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► belgegeçerletmek

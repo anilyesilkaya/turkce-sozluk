@@ -2,6 +2,7 @@
 layout: term
 title: çorba gibi
 slug: corba-gibi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - pek sulu (yemek)

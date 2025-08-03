@@ -2,6 +2,7 @@
 layout: term
 title: Slavca
 slug: slavca
+letter: S
 lisan: Türkçe
 anlamlar:
 - Yakınlık dolayısıyla Slavların kullandığı dile verilen ortak ad; İslavca

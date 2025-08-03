@@ -2,6 +2,7 @@
 layout: term
 title: uzatma işareti
 slug: uzatma-isareti
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► düzeltme işareti

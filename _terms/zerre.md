@@ -2,6 +2,7 @@
 layout: term
 title: zerre
 slug: zerre
+letter: Z
 lisan: Arapça ẕerre
 anlamlar:
 - Çok küçük parçacık; habbe

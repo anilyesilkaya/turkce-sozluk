@@ -2,6 +2,7 @@
 layout: term
 title: arkadan arkaya
 slug: arkadan-arkaya
+letter: A
 lisan: Türkçe
 anlamlar:
 - Gizli gizli, el altından, gizlice, belli etmeden

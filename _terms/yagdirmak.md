@@ -2,6 +2,7 @@
 layout: term
 title: yağdırmak
 slug: yagdirmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yağmasını sağlamak

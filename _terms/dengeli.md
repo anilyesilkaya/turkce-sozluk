@@ -2,6 +2,7 @@
 layout: term
 title: dengeli
 slug: dengeli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dengesi olan; kararlı, muvazeneli, stabil

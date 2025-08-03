@@ -2,6 +2,7 @@
 layout: term
 title: mahirane
 slug: mahirane
+letter: M
 lisan: Arapça māhir + Farsça -āne
 anlamlar:
 - ► becerikli

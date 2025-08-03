@@ -2,6 +2,7 @@
 layout: term
 title: mühürletmek
 slug: muhurletmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mühürleme işini yaptırmak

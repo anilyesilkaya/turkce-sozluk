@@ -2,6 +2,7 @@
 layout: term
 title: duvak düşkünü
 slug: duvak-duskunu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Evlenmeye çok istekli olan

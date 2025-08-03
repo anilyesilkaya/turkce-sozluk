@@ -2,6 +2,7 @@
 layout: term
 title: sıralama
 slug: siralama
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıralamak işi; tertip

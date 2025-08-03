@@ -2,6 +2,7 @@
 layout: term
 title: yanılsama
 slug: yanilsama
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yanlış algılama ve duyu yanılması

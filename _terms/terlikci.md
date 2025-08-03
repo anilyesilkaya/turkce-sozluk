@@ -2,6 +2,7 @@
 layout: term
 title: terlikçi
 slug: terlikci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Terlik yapan veya satan kimse

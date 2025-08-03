@@ -2,6 +2,7 @@
 layout: term
 title: hatır eylemek
 slug: hatir-eylemek
+letter: H
 lisan: Türkçe
 anlamlar:
 - hatırlamak

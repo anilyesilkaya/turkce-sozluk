@@ -2,6 +2,7 @@
 layout: term
 title: atlas kese
 slug: atlas-kese
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ahilikte orta sandığına ait her türlü sözleşme, yazışma ve bilgilerin saklandığı kese

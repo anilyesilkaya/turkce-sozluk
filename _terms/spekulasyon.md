@@ -2,6 +2,7 @@
 layout: term
 title: spekülasyon
 slug: spekulasyon
+letter: S
 lisan: Fransızca spéculation
 anlamlar:
 - ► vurgunculuk

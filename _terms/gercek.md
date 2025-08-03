@@ -2,6 +2,7 @@
 layout: term
 title: gerçek
 slug: gercek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Yalan olmayan, doğru olan şey; çın, ciddi, hakikat

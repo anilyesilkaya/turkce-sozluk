@@ -2,6 +2,7 @@
 layout: term
 title: açık kapı politikası
 slug: acik-kapi-politikasi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yabancı malları bir ülkeye serbestçe sokma politikası; açık kapı siyaseti

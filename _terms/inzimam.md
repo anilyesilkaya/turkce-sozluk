@@ -2,6 +2,7 @@
 layout: term
 title: inzimam
 slug: inzimam
+letter: I
 lisan: Arapça inżimām
 anlamlar:
 - ► katılma

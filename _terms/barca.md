@@ -2,6 +2,7 @@
 layout: term
 title: barça
 slug: barca
+letter: B
 lisan: İtalyanca barza
 anlamlar:
 - Orta Çağ'da kullanılan kürekli ve yelkenli taşıma gemisi

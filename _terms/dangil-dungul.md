@@ -2,6 +2,7 @@
 layout: term
 title: dangıl dungul
 slug: dangil-dungul
+letter: D
 lisan: Türkçe
 anlamlar:
 - Kaba saba, yersiz ve lüzumsuz bir biçimde

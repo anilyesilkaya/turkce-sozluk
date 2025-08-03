@@ -2,6 +2,7 @@
 layout: term
 title: materyal
 slug: materyal
+letter: M
 lisan: Fransızca matériel
 anlamlar:
 - ► gereç

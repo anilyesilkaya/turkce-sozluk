@@ -2,6 +2,7 @@
 layout: term
 title: riayetsiz
 slug: riayetsiz
+letter: R
 lisan: Türkçe
 anlamlar:
 - Saygısız, kaba olan

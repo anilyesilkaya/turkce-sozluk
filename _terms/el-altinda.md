@@ -2,6 +2,7 @@
 layout: term
 title: el altında
 slug: el-altinda
+letter: E
 lisan: Türkçe
 anlamlar:
 - Kolayca alınabilecek yerde; kolayda

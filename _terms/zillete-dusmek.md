@@ -2,6 +2,7 @@
 layout: term
 title: zillete düşmek
 slug: zillete-dusmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - hor görülmek, aşağılanmak

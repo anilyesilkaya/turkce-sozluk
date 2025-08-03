@@ -2,6 +2,7 @@
 layout: term
 title: panzehir
 slug: panzehir
+letter: P
 lisan: Farsça pād + zehr
 anlamlar:
 - Zehrin etkisini ortadan kaldırabilme özelliği olan madde; tiryak, antidot

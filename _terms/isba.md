@@ -2,6 +2,7 @@
 layout: term
 title: işba
 slug: isba
+letter: I
 lisan: Arapça işbāʿ
 anlamlar:
 - Karnını doyurma

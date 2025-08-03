@@ -2,6 +2,7 @@
 layout: term
 title: gün görmemek
 slug: gun-gormemek
+letter: G
 lisan: Türkçe
 anlamlar:
 - sıkıntı içinde yaşamak

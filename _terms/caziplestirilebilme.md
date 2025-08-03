@@ -2,6 +2,7 @@
 layout: term
 title: cazipleştirilebilme
 slug: caziplestirilebilme
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► çekicileştirilebilme

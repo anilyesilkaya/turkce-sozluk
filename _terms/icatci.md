@@ -2,6 +2,7 @@
 layout: term
 title: icatçı
 slug: icatci
+letter: I
 lisan: Türkçe
 anlamlar:
 - İcat eden, bulan kimse; bulucu

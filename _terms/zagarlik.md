@@ -2,6 +2,7 @@
 layout: term
 title: zağarlık
 slug: zagarlik
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Çoban köpeğinin yaptığı iş

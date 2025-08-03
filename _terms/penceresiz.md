@@ -2,6 +2,7 @@
 layout: term
 title: penceresiz
 slug: penceresiz
+letter: P
 lisan: Türkçe
 anlamlar:
 - Penceresi olmayan

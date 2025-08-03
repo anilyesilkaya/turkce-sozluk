@@ -2,6 +2,7 @@
 layout: term
 title: cihangir
 slug: cihangir
+letter: C
 lisan: Farsça cihāngīr
 anlamlar:
 - Dünyanın büyük bir bölümünü eline geçiren kimse

@@ -2,6 +2,7 @@
 layout: term
 title: çimme
 slug: cimme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çimmek işi

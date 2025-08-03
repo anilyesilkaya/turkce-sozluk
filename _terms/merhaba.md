@@ -2,6 +2,7 @@
 layout: term
 title: merhaba
 slug: merhaba
+letter: M
 lisan: Arapça merḥabā
 anlamlar:
 - ► selam

@@ -2,6 +2,7 @@
 layout: term
 title: tadına doyum olmamak
 slug: tadina-doyum-olmamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - bir şeyin tadı çok beğenilmek

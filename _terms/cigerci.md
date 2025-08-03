@@ -2,6 +2,7 @@
 layout: term
 title: ciğerci
 slug: cigerci
+letter: C
 lisan: Türkçe
 anlamlar:
 - Kesilmiş hayvanların ciğerini satan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: yumurta
 slug: yumurta
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir dişinin vücudunda oluşan, yumurtlama ve döllenmeden sonra aynı türden bir canlı oluşturan hücre

@@ -2,6 +2,7 @@
 layout: term
 title: borda fenerleri
 slug: borda-fenerleri
+letter: B
 lisan: Türkçe
 anlamlar:
 - Gemide bulundurulmak zorunda olan, sancakta yeşil, iskelede kırmızı ışık veren özel fenerler

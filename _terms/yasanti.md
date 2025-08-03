@@ -2,6 +2,7 @@
 layout: term
 title: yaşantı
 slug: yasanti
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Hayat tarzı, içinde yaşanılan şartların tümü; hayat (I)

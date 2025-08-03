@@ -2,6 +2,7 @@
 layout: term
 title: çanak
 slug: canak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Toprak, metal vb. bir maddeden yapılmış yayvan, çukurca kap

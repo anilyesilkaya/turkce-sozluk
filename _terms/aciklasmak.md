@@ -2,6 +2,7 @@
 layout: term
 title: açıklaşmak
 slug: aciklasmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Açık duruma gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: bırakılmışlık
 slug: birakilmislik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bırakılmış olma durumu

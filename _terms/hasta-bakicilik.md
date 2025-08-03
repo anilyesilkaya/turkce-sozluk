@@ -2,6 +2,7 @@
 layout: term
 title: hasta bakıcılık
 slug: hasta-bakicilik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hasta bakıcının yaptığı iş

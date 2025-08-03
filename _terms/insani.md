@@ -2,6 +2,7 @@
 layout: term
 title: insani
 slug: insani
+letter: I
 lisan: Arapça insānī
 anlamlar:
 - ► insanca

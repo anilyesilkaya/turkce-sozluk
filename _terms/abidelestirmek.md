@@ -2,6 +2,7 @@
 layout: term
 title: abideleştirmek
 slug: abidelestirmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► anıtlaştırmak

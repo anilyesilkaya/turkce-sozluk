@@ -2,6 +2,7 @@
 layout: term
 title: ağlatı
 slug: aglati
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► trajedi

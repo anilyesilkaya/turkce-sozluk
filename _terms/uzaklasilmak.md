@@ -2,6 +2,7 @@
 layout: term
 title: uzaklaşılmak
 slug: uzaklasilmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uzaklaşma işi yapılmak

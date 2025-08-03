@@ -2,6 +2,7 @@
 layout: term
 title: belirtisiz
 slug: belirtisiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belirtisi olmayan

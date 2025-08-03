@@ -2,6 +2,7 @@
 layout: term
 title: saçmak
 slug: sacmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir şeyi ortalığa dağıtmak; dökmek

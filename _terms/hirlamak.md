@@ -2,6 +2,7 @@
 layout: term
 title: hırlamak
 slug: hirlamak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hırıltıyla ses çıkarmak

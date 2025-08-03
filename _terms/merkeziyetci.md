@@ -2,6 +2,7 @@
 layout: term
 title: merkeziyetçi
 slug: merkeziyetci
+letter: M
 lisan: Türkçe
 anlamlar:
 - Merkeziyetçilik yanlısı olan (kimse); merkezci, üniter

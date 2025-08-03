@@ -2,6 +2,7 @@
 layout: term
 title: sabır
 slug: sabir
+letter: S
 lisan: Arapça ṣabr
 anlamlar:
 - Acı, yoksulluk, haksızlık vb. üzücü durumlar karşısında ses çıkarmadan onların geçmesini bekleme erdemi; dayanç, çıdam

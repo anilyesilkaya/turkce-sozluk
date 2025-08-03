@@ -2,6 +2,7 @@
 layout: term
 title: sivilce
 slug: sivilce
+letter: S
 lisan: Türkçe
 anlamlar:
 - İçinde irin bulunan küçük deri kabarcığı, en küçük çıban

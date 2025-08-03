@@ -2,6 +2,7 @@
 layout: term
 title: burası
 slug: burasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bura

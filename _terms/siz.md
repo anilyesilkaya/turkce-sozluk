@@ -2,6 +2,7 @@
 layout: term
 title: siz
 slug: siz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Çokluk ikinci kişi zamiri

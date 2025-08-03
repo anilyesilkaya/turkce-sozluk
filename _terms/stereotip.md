@@ -2,6 +2,7 @@
 layout: term
 title: stereotip
 slug: stereotip
+letter: S
 lisan: Fransızca stéréotypie
 anlamlar:
 - Basımcılıkta, matris kâğıdı kullanarak formaları, klişeleri ve metinleri çoğaltmaya yarayan yöntem

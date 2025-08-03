@@ -2,6 +2,7 @@
 layout: term
 title: çarpıtma
 slug: carpitma
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çarpıtmak işi

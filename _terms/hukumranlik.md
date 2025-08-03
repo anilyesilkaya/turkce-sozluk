@@ -2,6 +2,7 @@
 layout: term
 title: hükümranlık
 slug: hukumranlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► egemenlik

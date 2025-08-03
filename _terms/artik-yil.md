@@ -2,6 +2,7 @@
 layout: term
 title: artık yıl
 slug: artik-yil
+letter: A
 lisan: Türkçe
 anlamlar:
 - Dört yılda bir gelen 366 günlük yıl; seneikebise

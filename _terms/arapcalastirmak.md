@@ -2,6 +2,7 @@
 layout: term
 title: Arapçalaştırmak
 slug: arapcalastirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arapçaya çevirmek

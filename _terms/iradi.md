@@ -2,6 +2,7 @@
 layout: term
 title: iradi
 slug: iradi
+letter: I
 lisan: Arapça irādī
 anlamlar:
 - ► iradeci

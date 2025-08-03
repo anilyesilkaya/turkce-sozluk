@@ -2,6 +2,7 @@
 layout: term
 title: anlık
 slug: anlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Duyu ve iradeden ayrı olarak düşünülen bilme yetisi

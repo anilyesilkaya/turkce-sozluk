@@ -2,6 +2,7 @@
 layout: term
 title: manto
 slug: manto
+letter: M
 lisan: Fransızca manteau
 anlamlar:
 - Diz altından topuğa kadar uzanan, öbür kıyafetlerin üstüne giyilen, kalın kumaştan, kışlık kadın giysisi

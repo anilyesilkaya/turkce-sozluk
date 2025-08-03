@@ -2,6 +2,7 @@
 layout: term
 title: mıncık mıncık etmek
 slug: mincik-mincik-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - yapışkan ve kaygan bir duruma getirmek

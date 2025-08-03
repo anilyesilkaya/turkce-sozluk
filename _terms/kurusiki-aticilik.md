@@ -2,6 +2,7 @@
 layout: term
 title: kurusıkı atıcılık
 slug: kurusiki-aticilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kurusıkı atıcı olma durumu

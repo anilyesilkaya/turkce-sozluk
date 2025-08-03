@@ -2,6 +2,7 @@
 layout: term
 title: sağtöre
 slug: sagtore
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► ahlak

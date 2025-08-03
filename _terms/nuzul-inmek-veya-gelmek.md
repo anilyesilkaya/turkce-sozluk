@@ -2,6 +2,7 @@
 layout: term
 title: nüzul inmek (veya gelmek)
 slug: nuzul-inmek-veya-gelmek
+letter: N
 lisan: Türkçe
 anlamlar:
 - inme inmek

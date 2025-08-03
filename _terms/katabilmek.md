@@ -2,6 +2,7 @@
 layout: term
 title: katabilmek
 slug: katabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Katma ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: şerit değiştirmek
 slug: serit-degistirmek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - trafikte hız durumuna ve yol şartlarına göre belirli kurallar içinde bir yol şeridinden diğerine geçmek

@@ -2,6 +2,7 @@
 layout: term
 title: orijinal
 slug: orijinal
+letter: O
 lisan: Fransızca original
 anlamlar:
 - ► özgün

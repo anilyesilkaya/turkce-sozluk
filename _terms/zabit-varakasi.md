@@ -2,6 +2,7 @@
 layout: term
 title: zabıt varakası
 slug: zabit-varakasi
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► tutanak

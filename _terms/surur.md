@@ -2,6 +2,7 @@
 layout: term
 title: sürur
 slug: surur
+letter: S
 lisan: Arapça surūr
 anlamlar:
 - ► sevinç

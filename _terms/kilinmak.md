@@ -2,6 +2,7 @@
 layout: term
 title: kılınmak
 slug: kilinmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kılma işi yapılmak

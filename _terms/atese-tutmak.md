@@ -2,6 +2,7 @@
 layout: term
 title: ateşe tutmak
 slug: atese-tutmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - az ısıtmak

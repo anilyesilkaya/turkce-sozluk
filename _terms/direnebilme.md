@@ -2,6 +2,7 @@
 layout: term
 title: direnebilme
 slug: direnebilme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Direnebilmek işi

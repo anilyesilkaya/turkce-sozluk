@@ -2,6 +2,7 @@
 layout: term
 title: stilistik
 slug: stilistik
+letter: S
 lisan: Fransızca stylistique
 anlamlar:
 - ► anlatım bilimi

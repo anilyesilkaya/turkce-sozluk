@@ -2,6 +2,7 @@
 layout: term
 title: geçmişseverlik
 slug: gecmisseverlik
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► nostalji

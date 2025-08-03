@@ -2,6 +2,7 @@
 layout: term
 title: mukaddem
 slug: mukaddem
+letter: M
 lisan: Arapça muḳaddem
 anlamlar:
 - ► önceki

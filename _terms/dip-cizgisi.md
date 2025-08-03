@@ -2,6 +2,7 @@
 layout: term
 title: dip çizgisi
 slug: dip-cizgisi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Basketbolda oyun alanının çember yönüne rastlayan sınırını belli eden karşılıklı çizgiler

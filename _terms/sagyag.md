@@ -2,6 +2,7 @@
 layout: term
 title: sağyağ
 slug: sagyag
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► tereyağı

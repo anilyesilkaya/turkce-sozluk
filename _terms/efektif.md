@@ -2,6 +2,7 @@
 layout: term
 title: efektif
 slug: efektif
+letter: E
 lisan: Fransızca effectif
 anlamlar:
 - ► nakit para

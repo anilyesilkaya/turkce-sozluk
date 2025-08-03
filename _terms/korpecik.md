@@ -2,6 +2,7 @@
 layout: term
 title: körpecik
 slug: korpecik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çok körpe, çok taze

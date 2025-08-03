@@ -2,6 +2,7 @@
 layout: term
 title: yakaza
 slug: yakaza
+letter: Y
 lisan: Arapça yaḳaẓa
 anlamlar:
 - ► uyanıklık

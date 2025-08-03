@@ -2,6 +2,7 @@
 layout: term
 title: ruba
 slug: ruba
+letter: R
 lisan: İtalyanca roba
 anlamlar:
 - ► giysi

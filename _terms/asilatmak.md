@@ -2,6 +2,7 @@
 layout: term
 title: aşılatmak
 slug: asilatmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aşılama işini yaptırmak

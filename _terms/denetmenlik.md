@@ -2,6 +2,7 @@
 layout: term
 title: denetmenlik
 slug: denetmenlik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Denetmenin yaptığı iş

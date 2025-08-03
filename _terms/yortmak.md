@@ -2,6 +2,7 @@
 layout: term
 title: yortmak
 slug: yortmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Sürekli yol yürümek

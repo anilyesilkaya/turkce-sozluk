@@ -2,6 +2,7 @@
 layout: term
 title: hüsnütelakki
 slug: husnutelakki
+letter: H
 lisan: Arapça ḥusn + telaḳḳī
 anlamlar:
 - İyi karşılama, iyiye yorma

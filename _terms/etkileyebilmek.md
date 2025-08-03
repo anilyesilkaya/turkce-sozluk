@@ -2,6 +2,7 @@
 layout: term
 title: etkileyebilmek
 slug: etkileyebilmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Etkileme ihtimali veya imkânı bulunmak

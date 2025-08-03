@@ -2,6 +2,7 @@
 layout: term
 title: Allahualem
 slug: allahualem
+letter: A
 lisan: Arapça allāh + aʿlem
 anlamlar:
 - '"Tanrı en iyisini bilir" anlamında kullanılan bir söz'

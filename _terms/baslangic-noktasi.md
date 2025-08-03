@@ -2,6 +2,7 @@
 layout: term
 title: başlangıç noktası
 slug: baslangic-noktasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir işin veya şeyin başladığı yer; başlama noktası, çıkış noktası

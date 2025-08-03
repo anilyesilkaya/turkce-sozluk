@@ -2,6 +2,7 @@
 layout: term
 title: kuskunsuz
 slug: kuskunsuz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kuskunu olmayan

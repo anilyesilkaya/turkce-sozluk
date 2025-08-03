@@ -2,6 +2,7 @@
 layout: term
 title: ağaç çileği
 slug: agac-cilegi
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► ahududu

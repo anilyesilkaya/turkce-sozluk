@@ -2,6 +2,7 @@
 layout: term
 title: böle
 slug: bole
+letter: B
 lisan: Türkçe
 anlamlar:
 - Teyze kızı

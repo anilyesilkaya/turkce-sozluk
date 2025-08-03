@@ -2,6 +2,7 @@
 layout: term
 title: sarartı
 slug: sararti
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sarı olma durumu

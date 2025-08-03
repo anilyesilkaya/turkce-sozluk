@@ -2,6 +2,7 @@
 layout: term
 title: böreklik
 slug: boreklik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Börek yapmaya elverişli olan, börek için ayrılmış olan

@@ -2,6 +2,7 @@
 layout: term
 title: sırık
 slug: sirik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Değnekten uzun ve kalınca ağaç

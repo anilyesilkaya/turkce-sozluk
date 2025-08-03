@@ -2,6 +2,7 @@
 layout: term
 title: karpit
 slug: karpit
+letter: K
 lisan: İngilizce carbide
 anlamlar:
 - Genellikle sanayide asetilen gazı çıkarmakta kullanılan, karbonla kalsiyum bileşiği madde (CaC2)

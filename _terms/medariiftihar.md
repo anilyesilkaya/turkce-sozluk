@@ -2,6 +2,7 @@
 layout: term
 title: medarıiftihar
 slug: medariiftihar
+letter: M
 lisan: Arapça medār + iftiḫār
 anlamlar:
 - Övünülen, onur duyulan, iftihar edilen şey veya kimse

@@ -2,6 +2,7 @@
 layout: term
 title: tadı tuzu kalmamak (veya bozulmak)
 slug: tadi-tuzu-kalmamak-veya-bozulmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - yemek, lezzeti gitmek, tatsızlaşmak

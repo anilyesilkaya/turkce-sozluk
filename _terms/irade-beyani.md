@@ -2,6 +2,7 @@
 layout: term
 title: irade beyanı
 slug: irade-beyani
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bir sonuca yönelmiş irade açıklaması

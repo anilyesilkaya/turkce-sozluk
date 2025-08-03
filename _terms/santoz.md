@@ -2,6 +2,7 @@
 layout: term
 title: şantöz
 slug: santoz
+letter: Ş
 lisan: Fransızca chanteuse
 anlamlar:
 - Kadın şarkıcı

@@ -2,6 +2,7 @@
 layout: term
 title: göcen
 slug: gocen
+letter: G
 lisan: Türkçe
 anlamlar:
 - Tavşan yavrusu

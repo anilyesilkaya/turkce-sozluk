@@ -2,6 +2,7 @@
 layout: term
 title: bıçak gibi kesilmek
 slug: bicak-gibi-kesilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - söz, konuşma, sohbet birden bitmek, duruvermek

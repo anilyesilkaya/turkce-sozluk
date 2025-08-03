@@ -2,6 +2,7 @@
 layout: term
 title: mecnun olmak
 slug: mecnun-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - sevda sebebiyle kendini kaybetmek

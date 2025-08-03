@@ -2,6 +2,7 @@
 layout: term
 title: virtüöz
 slug: virtuoz
+letter: V
 lisan: Fransızca virtuose
 anlamlar:
 - Herhangi bir müzik aracını büyük ustalıkla çalabilen sanatçı

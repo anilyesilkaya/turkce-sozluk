@@ -2,6 +2,7 @@
 layout: term
 title: dayanaksız
 slug: dayanaksiz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dayanağı olmayan

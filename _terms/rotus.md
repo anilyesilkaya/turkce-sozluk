@@ -2,6 +2,7 @@
 layout: term
 title: rötuş
 slug: rotus
+letter: R
 lisan: Fransızca retouche
 anlamlar:
 - Fotoğrafçılıkta resimleri basmadan önce negatif üzerinde düzeltme işi

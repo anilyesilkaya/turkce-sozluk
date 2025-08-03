@@ -2,6 +2,7 @@
 layout: term
 title: hayırsız
 slug: hayirsiz
+letter: H
 lisan: Türkçe
 anlamlar:
 - Yararı olmayan, hayrı olmayan

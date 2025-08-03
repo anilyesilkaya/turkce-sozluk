@@ -2,6 +2,7 @@
 layout: term
 title: bağrı yanık
 slug: bagri-yanik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çok dert, acı, sıkıntı çekmiş; bağrı kara

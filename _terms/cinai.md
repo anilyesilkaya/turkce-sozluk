@@ -2,6 +2,7 @@
 layout: term
 title: cinai
 slug: cinai
+letter: C
 lisan: Arapça cināʾī
 anlamlar:
 - Konusu cinayet olan

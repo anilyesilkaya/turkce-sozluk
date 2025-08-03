@@ -2,6 +2,7 @@
 layout: term
 title: zincir vurmak
 slug: zincir-vurmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - elini ayağını bağlamak

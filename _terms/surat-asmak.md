@@ -2,6 +2,7 @@
 layout: term
 title: surat asmak
 slug: surat-asmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - kaşlarını çatıp yüzüne küskün veya dargın bir anlam vermek, somurtmak

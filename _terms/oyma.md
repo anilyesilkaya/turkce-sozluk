@@ -2,6 +2,7 @@
 layout: term
 title: oyma
 slug: oyma
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oymak işi

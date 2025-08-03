@@ -2,6 +2,7 @@
 layout: term
 title: vazgeçme
 slug: vazgecme
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vazgeçmek durumu; geri çekilme, vazgelme, nükûl, ricat, sarfınazar, terk

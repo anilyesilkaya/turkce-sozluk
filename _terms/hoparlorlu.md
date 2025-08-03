@@ -2,6 +2,7 @@
 layout: term
 title: hoparlörlü
 slug: hoparlorlu
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hoparlörü olan

@@ -2,6 +2,7 @@
 layout: term
 title: kodese tıkmak
 slug: kodese-tikmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - cezaevine sokmak

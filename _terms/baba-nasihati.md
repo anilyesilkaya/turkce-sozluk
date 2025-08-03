@@ -2,6 +2,7 @@
 layout: term
 title: baba nasihati
 slug: baba-nasihati
+letter: B
 lisan: Türkçe
 anlamlar:
 - Büyüklerin deneyimine dayanarak gençlere verdikleri öğüt

@@ -2,6 +2,7 @@
 layout: term
 title: buyurganlık
 slug: buyurganlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Buyurgan olma durumu

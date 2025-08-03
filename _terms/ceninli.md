@@ -2,6 +2,7 @@
 layout: term
 title: ceninli
 slug: ceninli
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cenin bulunan

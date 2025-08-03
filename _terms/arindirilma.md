@@ -2,6 +2,7 @@
 layout: term
 title: arındırılma
 slug: arindirilma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arındırılmak işi

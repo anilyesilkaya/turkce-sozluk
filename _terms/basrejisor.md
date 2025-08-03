@@ -2,6 +2,7 @@
 layout: term
 title: başrejisör
 slug: basrejisor
+letter: B
 lisan: Türkçe baş + Fransızca régisseur
 anlamlar:
 - ► başyönetmen

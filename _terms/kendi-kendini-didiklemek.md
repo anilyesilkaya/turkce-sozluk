@@ -2,6 +2,7 @@
 layout: term
 title: kendi kendini didiklemek
 slug: kendi-kendini-didiklemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - kendi kendini harap etmek, üzmek

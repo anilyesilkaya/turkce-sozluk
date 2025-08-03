@@ -2,6 +2,7 @@
 layout: term
 title: sosyal ilişki
 slug: sosyal-iliski
+letter: S
 lisan: Türkçe
 anlamlar:
 - Birbirlerinden haberi olan, en az iki insan arasında bir süre devam eden, anlamlı, belirli amaçları bulunan sosyal bağ

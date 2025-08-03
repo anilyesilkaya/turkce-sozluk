@@ -2,6 +2,7 @@
 layout: term
 title: aman dilemek
 slug: aman-dilemek
+letter: A
 lisan: Türkçe
 anlamlar:
 - önce direnirken zor karşısında boyun eğip canının bağışlanmasını dilemek

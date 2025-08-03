@@ -2,6 +2,7 @@
 layout: term
 title: büyücülük
 slug: buyuculuk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Büyücünün yaptığı iş; afsunculuk, efsunculuk

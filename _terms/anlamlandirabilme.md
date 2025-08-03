@@ -2,6 +2,7 @@
 layout: term
 title: anlamlandırabilme
 slug: anlamlandirabilme
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anlamlandırabilmek işi

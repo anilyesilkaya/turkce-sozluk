@@ -2,6 +2,7 @@
 layout: term
 title: aklına esmek
 slug: aklina-esmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - daha önce düşünmemiş olduğu şeyi birden yapmaya karar vermek

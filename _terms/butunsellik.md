@@ -2,6 +2,7 @@
 layout: term
 title: bütünsellik
 slug: butunsellik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bütünsel olma durumu; totallik

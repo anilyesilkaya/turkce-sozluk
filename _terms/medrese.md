@@ -2,6 +2,7 @@
 layout: term
 title: medrese
 slug: medrese
+letter: M
 lisan: Arapça medrese
 anlamlar:
 - İslam ülkelerinde, genellikle İslam dini kurallarına uygun bilimlerin okutulduğu yer

@@ -2,6 +2,7 @@
 layout: term
 title: uyku kestirmek
 slug: uyku-kestirmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - kısa bir süre uyumak

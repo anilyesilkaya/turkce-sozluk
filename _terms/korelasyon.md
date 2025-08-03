@@ -2,6 +2,7 @@
 layout: term
 title: korelasyon
 slug: korelasyon
+letter: K
 lisan: Fransızca corrélation
 anlamlar:
 - ► bağıntı

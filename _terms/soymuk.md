@@ -2,6 +2,7 @@
 layout: term
 title: soymuk
 slug: soymuk
+letter: S
 lisan: Türkçe
 anlamlar:
 - Damarlı bitkilerin kök, gövde ve yapraklarında, ongun besi suyunu ileten borularla, yakın hücrelerden ve bunların arasını dolduran özek dokudan oluşan tabaka

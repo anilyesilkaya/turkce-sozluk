@@ -2,6 +2,7 @@
 layout: term
 title: avuntu
 slug: avuntu
+letter: A
 lisan: Türkçe
 anlamlar:
 - İnsanı avutan söz veya davranış, oyalanacak şey; avunç, teselli

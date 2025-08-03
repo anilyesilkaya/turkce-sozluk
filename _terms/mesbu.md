@@ -2,6 +2,7 @@
 layout: term
 title: meşbu
 slug: mesbu
+letter: M
 lisan: Arapça meşbūʿ
 anlamlar:
 - ► dolmuş

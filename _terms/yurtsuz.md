@@ -2,6 +2,7 @@
 layout: term
 title: yurtsuz
 slug: yurtsuz
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yurdu olmayan (kimse)

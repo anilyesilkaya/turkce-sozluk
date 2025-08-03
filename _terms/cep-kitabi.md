@@ -2,6 +2,7 @@
 layout: term
 title: cep kitabı
 slug: cep-kitabi
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cepte taşınacak, cebe girecek biçimde küçük kitap

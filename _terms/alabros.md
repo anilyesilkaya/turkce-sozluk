@@ -2,6 +2,7 @@
 layout: term
 title: alabros
 slug: alabros
+letter: A
 lisan: Fransızca à la brosse
 anlamlar:
 - Fırça gibi dik kesilmiş (erkek saçı)

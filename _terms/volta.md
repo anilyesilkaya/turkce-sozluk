@@ -2,6 +2,7 @@
 layout: term
 title: volta
 slug: volta
+letter: V
 lisan: İtalyanca volta
 anlamlar:
 - Bir halatı bir yere bir kez dolama veya babalara yöntemince sarma

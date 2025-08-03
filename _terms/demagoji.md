@@ -2,6 +2,7 @@
 layout: term
 title: demagoji
 slug: demagoji
+letter: D
 lisan: Fransızca démagogie
 anlamlar:
 - ► laf cambazlığı

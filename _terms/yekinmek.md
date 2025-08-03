@@ -2,6 +2,7 @@
 layout: term
 title: yekinmek
 slug: yekinmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Davranmak, olduğu yerden fırlamak, ayağa kalkmak, kalkmak için hareket etmek, kımıldamak

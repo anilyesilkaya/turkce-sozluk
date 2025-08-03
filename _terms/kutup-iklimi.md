@@ -2,6 +2,7 @@
 layout: term
 title: kutup iklimi
 slug: kutup-iklimi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sıcaklığın yıl boyunca 0 ºC'nin altında, yağışın az ve kar biçiminde olduğu bir iklim türü

@@ -2,6 +2,7 @@
 layout: term
 title: birbirini çekememek
 slug: birbirini-cekememek
+letter: B
 lisan: Türkçe
 anlamlar:
 - birbirini kıskanmak

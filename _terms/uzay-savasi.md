@@ -2,6 +2,7 @@
 layout: term
 title: uzay savaşı
 slug: uzay-savasi
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uzay çalışmalarında öne geçme yarışı

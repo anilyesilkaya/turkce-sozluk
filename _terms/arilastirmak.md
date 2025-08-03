@@ -2,6 +2,7 @@
 layout: term
 title: arılaştırmak
 slug: arilastirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yabancı şeylerden arınmış duruma getirmek

@@ -2,6 +2,7 @@
 layout: term
 title: acemilik çekmek
 slug: acemilik-cekmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - alışamadığı bir işte zorluk çekmek

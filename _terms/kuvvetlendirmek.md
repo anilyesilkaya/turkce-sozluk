@@ -2,6 +2,7 @@
 layout: term
 title: kuvvetlendirmek
 slug: kuvvetlendirmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Fiziksel gücünü artırmak

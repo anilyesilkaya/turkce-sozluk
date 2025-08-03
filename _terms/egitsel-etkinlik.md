@@ -2,6 +2,7 @@
 layout: term
 title: eğitsel etkinlik
 slug: egitsel-etkinlik
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► eğitici etkinlik

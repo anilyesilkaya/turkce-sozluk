@@ -2,6 +2,7 @@
 layout: term
 title: gar
 slug: gar
+letter: G
 lisan: Fransızca gare
 anlamlar:
 - Demir yolu ile yolculuk edenlerin gereksinimlerinin geniş ölçüde karşılandığı büyük tren istasyonu

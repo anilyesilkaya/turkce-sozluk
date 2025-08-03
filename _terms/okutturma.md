@@ -2,6 +2,7 @@
 layout: term
 title: okutturma
 slug: okutturma
+letter: O
 lisan: Türkçe
 anlamlar:
 - Okutturmak işi

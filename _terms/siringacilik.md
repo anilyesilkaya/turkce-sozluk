@@ -2,6 +2,7 @@
 layout: term
 title: şırıngacılık
 slug: siringacilik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şırıngacı olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: delirmek
 slug: delirmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Deli olmak, aklını yitirmek, çıldırmak; dellenmek, kaçırmak

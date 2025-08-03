@@ -2,6 +2,7 @@
 layout: term
 title: yaşatmak
 slug: yasatmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaşamasını sağlamak veya yaşamasına imkân vermek

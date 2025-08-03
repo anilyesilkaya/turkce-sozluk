@@ -2,6 +2,7 @@
 layout: term
 title: cefasız
 slug: cefasiz
+letter: C
 lisan: Türkçe
 anlamlar:
 - Sıkıntı olmayan, eziyet etmeyen

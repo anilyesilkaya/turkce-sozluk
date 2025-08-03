@@ -2,6 +2,7 @@
 layout: term
 title: kürek cezası
 slug: kurek-cezasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Gemilerde kürek çekme yoluyla uygulanan ceza; kürek

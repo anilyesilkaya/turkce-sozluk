@@ -2,6 +2,7 @@
 layout: term
 title: vücut vermek
 slug: vucut-vermek
+letter: V
 lisan: Türkçe
 anlamlar:
 - vücuda getirmek

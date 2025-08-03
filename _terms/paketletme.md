@@ -2,6 +2,7 @@
 layout: term
 title: paketletme
 slug: paketletme
+letter: P
 lisan: Türkçe
 anlamlar:
 - Paketletmek işi

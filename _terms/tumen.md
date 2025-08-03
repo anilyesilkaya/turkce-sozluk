@@ -2,6 +2,7 @@
 layout: term
 title: tümen
 slug: tumen
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tugayla kolordu arasında yer alan birlik; fırka

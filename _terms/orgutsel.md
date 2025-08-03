@@ -2,6 +2,7 @@
 layout: term
 title: örgütsel
 slug: orgutsel
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Örgütle ilgili

@@ -2,6 +2,7 @@
 layout: term
 title: ya
 slug: ya
+letter: Y
 lisan: Farsça yā
 anlamlar:
 - Bir düşüncenin karşıtı düşünülürken kullanılan bir söz

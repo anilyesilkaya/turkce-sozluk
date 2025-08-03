@@ -2,6 +2,7 @@
 layout: term
 title: Acemleşmek
 slug: acemlesmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Acemlere özgü yaşayış tarzını benimsemek; Farslaşmak

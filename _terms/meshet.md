@@ -2,6 +2,7 @@
 layout: term
 title: meşhet
 slug: meshet
+letter: M
 lisan: Arapça meşhed
 anlamlar:
 - Şehit düşülen yer

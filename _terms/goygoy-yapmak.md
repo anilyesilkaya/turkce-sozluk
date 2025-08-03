@@ -2,6 +2,7 @@
 layout: term
 title: goygoy yapmak
 slug: goygoy-yapmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - bilgisizce ve gereksiz yere konuşmak

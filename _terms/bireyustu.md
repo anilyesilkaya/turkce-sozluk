@@ -2,6 +2,7 @@
 layout: term
 title: bireyüstü
 slug: bireyustu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Tek bir bireyi aşan

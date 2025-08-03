@@ -2,6 +2,7 @@
 layout: term
 title: değirmen
 slug: degirmen
+letter: D
 lisan: Türkçe
 anlamlar:
 - İçinde öğütme işi yapılan yer

@@ -2,6 +2,7 @@
 layout: term
 title: meydan kalmamak
 slug: meydan-kalmamak
+letter: M
 lisan: Türkçe
 anlamlar:
 - fırsat bulamamak

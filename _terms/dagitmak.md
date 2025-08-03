@@ -2,6 +2,7 @@
 layout: term
 title: dağıtmak
 slug: dagitmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Toplu durumda bulunanları birbirinden uzaklaştırmak veya ayırmak

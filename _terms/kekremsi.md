@@ -2,6 +2,7 @@
 layout: term
 title: kekremsi
 slug: kekremsi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Tadı az kekre olan

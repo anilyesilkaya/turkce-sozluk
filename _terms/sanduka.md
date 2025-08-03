@@ -2,6 +2,7 @@
 layout: term
 title: sanduka
 slug: sanduka
+letter: S
 lisan: Arapça ṣandūḳa
 anlamlar:
 - Mezarın üzerine yerleştirilmiş, tabut büyüklüğünde tahta veya mermer sandık

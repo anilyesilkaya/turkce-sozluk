@@ -2,6 +2,7 @@
 layout: term
 title: ineklik
 slug: ineklik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İnek ahırı

@@ -2,6 +2,7 @@
 layout: term
 title: ayarlatmak
 slug: ayarlatmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayar yaptırmak

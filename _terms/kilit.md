@@ -2,6 +2,7 @@
 layout: term
 title: kilit
 slug: kilit
+letter: K
 lisan: Farsça kelīd, kilīd
 anlamlar:
 - Anahtar, düğme gibi takılıp çıkarılabilen bir parça yardımıyla çalışan kapatma aleti

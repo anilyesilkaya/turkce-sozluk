@@ -2,6 +2,7 @@
 layout: term
 title: edevat
 slug: edevat
+letter: E
 lisan: Arapça edevāt
 anlamlar:
 - Bir iş için gerekli olan malzemelerin, parçaların tümü

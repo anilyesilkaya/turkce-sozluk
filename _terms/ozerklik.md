@@ -2,6 +2,7 @@
 layout: term
 title: özerklik
 slug: ozerklik
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ülkelerin, bölgelerin, toplulukların, kuruluşların kendi kendilerini serbestçe, kendi yasaları ile yönetebilme durumu; muhtariyet, otonomi, otonomluk

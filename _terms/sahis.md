@@ -2,6 +2,7 @@
 layout: term
 title: şahıs
 slug: sahis
+letter: Ş
 lisan: Arapça şaḫṣ
 anlamlar:
 - ► kişi

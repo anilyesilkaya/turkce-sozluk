@@ -2,6 +2,7 @@
 layout: term
 title: pomat
 slug: pomat
+letter: P
 lisan: Fransızca pommade
 anlamlar:
 - Yağlı ve kokulu merhem

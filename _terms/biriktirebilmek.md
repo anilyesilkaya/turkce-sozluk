@@ -2,6 +2,7 @@
 layout: term
 title: biriktirebilmek
 slug: biriktirebilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Biriktirme ihtimali veya imkânı bulunmak

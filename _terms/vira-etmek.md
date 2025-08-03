@@ -2,6 +2,7 @@
 layout: term
 title: vira etmek
 slug: vira-etmek
+letter: V
 lisan: Türkçe
 anlamlar:
 - toplamak, almak

@@ -2,6 +2,7 @@
 layout: term
 title: kapatıvermek
 slug: kapativermek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Aniden kapatmak

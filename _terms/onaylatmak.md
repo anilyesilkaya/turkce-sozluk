@@ -2,6 +2,7 @@
 layout: term
 title: onaylatmak
 slug: onaylatmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Onaylama işini birine yaptırmak; tasdikletmek, tasdik ettirmek

@@ -2,6 +2,7 @@
 layout: term
 title: ıslamak
 slug: islamak
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► ıslatmak

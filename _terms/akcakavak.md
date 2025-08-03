@@ -2,6 +2,7 @@
 layout: term
 title: akçakavak
 slug: akcakavak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► akkavak

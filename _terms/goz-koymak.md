@@ -2,6 +2,7 @@
 layout: term
 title: göz koymak
 slug: goz-koymak
+letter: G
 lisan: Türkçe
 anlamlar:
 - bir kimseyi veya bir şeyi ele geçirmeyi istemek

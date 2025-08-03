@@ -2,6 +2,7 @@
 layout: term
 title: frenleyici
 slug: frenleyici
+letter: F
 lisan: Türkçe
 anlamlar:
 - Bazı organların çalışmasını engelleyen

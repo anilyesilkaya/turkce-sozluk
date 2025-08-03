@@ -2,6 +2,7 @@
 layout: term
 title: ilga
 slug: ilga
+letter: I
 lisan: Arapça ilġāʾ
 anlamlar:
 - Bir şeyin varlığını ortadan kaldırma

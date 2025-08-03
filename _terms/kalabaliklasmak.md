@@ -2,6 +2,7 @@
 layout: term
 title: kalabalıklaşmak
 slug: kalabaliklasmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalabalık duruma gelmek

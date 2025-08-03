@@ -2,6 +2,7 @@
 layout: term
 title: karşıt duygu
 slug: karsit-duygu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bazı kişilere veya varlıklara karşı duyulan ve belirli bir sebebe dayanmayan hoşnutsuzluk durumu; antipati

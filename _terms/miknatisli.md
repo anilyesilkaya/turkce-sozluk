@@ -2,6 +2,7 @@
 layout: term
 title: mıknatıslı
 slug: miknatisli
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mıknatısı olan

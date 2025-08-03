@@ -2,6 +2,7 @@
 layout: term
 title: şal
 slug: sal
+letter: Ş
 lisan: Farsça şāl
 anlamlar:
 - Genellikle Hindistan'da dokunan, özel motifleri olan değerli bir yün kumaş

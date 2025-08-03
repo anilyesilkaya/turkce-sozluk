@@ -2,6 +2,7 @@
 layout: term
 title: dönencel yıl
 slug: donencel-yil
+letter: D
 lisan: Türkçe
 anlamlar:
 - Güneş'in ilkbahar noktasından art arda iki geçişi arasındaki 365 gün 5 saat 48 dakika 46 saniyelik süre

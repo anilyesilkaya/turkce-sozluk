@@ -2,6 +2,7 @@
 layout: term
 title: buğulanmak
 slug: bugulanmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Üzerinde buğu oluşmak, buğu ile kaplanmak; puslanmak

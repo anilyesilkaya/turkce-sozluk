@@ -2,6 +2,7 @@
 layout: term
 title: esrarlı
 slug: esrarli
+letter: E
 lisan: Türkçe
 anlamlar:
 - İçinde esrar bulunan

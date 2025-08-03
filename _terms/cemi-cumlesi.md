@@ -2,6 +2,7 @@
 layout: term
 title: cemi cümlesi
 slug: cemi-cumlesi
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► hepsi

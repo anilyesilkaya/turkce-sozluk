@@ -2,6 +2,7 @@
 layout: term
 title: soprano
 slug: soprano
+letter: S
 lisan: İtalyanca soprano
 anlamlar:
 - Kadın veya çocuklarda en ince ses

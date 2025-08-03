@@ -2,6 +2,7 @@
 layout: term
 title: mantar
 slug: mantar
+letter: M
 lisan: Rumca
 anlamlar:
 - Mantarlardan, içinde zehirlileri de bulunan, silindir bir gövde ve üst tarafı şapka biçiminde olan ilkel canlıların genel adı (Fungi)

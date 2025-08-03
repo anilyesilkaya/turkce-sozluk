@@ -2,6 +2,7 @@
 layout: term
 title: berceste
 slug: berceste
+letter: B
 lisan: Farsça berceste
 anlamlar:
 - Değeri yüksek olan

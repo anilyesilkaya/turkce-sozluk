@@ -2,6 +2,7 @@
 layout: term
 title: derdine deva bulmak
 slug: derdine-deva-bulmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - sıkıntıyı çözümlemek, atlatmak, çaresizliği yenmek

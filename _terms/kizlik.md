@@ -2,6 +2,7 @@
 layout: term
 title: kızlık
 slug: kizlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Cinsel ilişkide bulunmamış dişi cinsin durumu; bakirlik, bekâret, bikir

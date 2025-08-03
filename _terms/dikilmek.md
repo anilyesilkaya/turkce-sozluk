@@ -2,6 +2,7 @@
 layout: term
 title: dikilmek
 slug: dikilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dikme işi yapılmak

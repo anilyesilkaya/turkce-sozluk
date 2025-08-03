@@ -2,6 +2,7 @@
 layout: term
 title: mayo
 slug: mayo
+letter: M
 lisan: Fransızca maillot
 anlamlar:
 - Deniz, göl, havuz vb. yerlere girerken veya güneşlenirken giyilen, tek parçadan oluşan giyisi

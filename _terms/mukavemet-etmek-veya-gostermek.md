@@ -2,6 +2,7 @@
 layout: term
 title: mukavemet etmek (veya göstermek)
 slug: mukavemet-etmek-veya-gostermek
+letter: M
 lisan: Türkçe
 anlamlar:
 - direnmek, dayanmak, karşı koymak

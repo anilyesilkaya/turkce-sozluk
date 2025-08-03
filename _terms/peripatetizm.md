@@ -2,6 +2,7 @@
 layout: term
 title: peripatetizm
 slug: peripatetizm
+letter: P
 lisan: Fransızca péripatétisme
 anlamlar:
 - ► Aristotelesçilik

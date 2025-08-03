@@ -2,6 +2,7 @@
 layout: term
 title: ahbap
 slug: ahbap
+letter: A
 lisan: Arapça aḥbāb
 anlamlar:
 - Kendisiyle yakın ilişki kurulup sevilen, sayılan kimse

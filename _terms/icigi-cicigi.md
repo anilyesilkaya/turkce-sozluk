@@ -2,6 +2,7 @@
 layout: term
 title: ıcığı cıcığı
 slug: icigi-cicigi
+letter: I
 lisan: Türkçe
 anlamlar:
 - …nın tüm ayrıntıları

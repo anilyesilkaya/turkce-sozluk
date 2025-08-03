@@ -2,6 +2,7 @@
 layout: term
 title: eriştirmek
 slug: eristirmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Erişmesini sağlamak

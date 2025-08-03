@@ -2,6 +2,7 @@
 layout: term
 title: yardım etmek
 slug: yardim-etmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - kendi gücünü, imkânlarını başka birinin iyiliği için kullanmak

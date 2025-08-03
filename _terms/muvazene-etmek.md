@@ -2,6 +2,7 @@
 layout: term
 title: muvazene etmek
 slug: muvazene-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - dengelemek

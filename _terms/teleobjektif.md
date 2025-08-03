@@ -2,6 +2,7 @@
 layout: term
 title: teleobjektif
 slug: teleobjektif
+letter: T
 lisan: Fransızca téléobjectif
 anlamlar:
 - Uzaktaki cisimlerin çok yakın görüntülerinin elde edilmesini sağlayan, çok uzun odaklı mercek türü

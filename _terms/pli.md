@@ -2,6 +2,7 @@
 layout: term
 title: pli
 slug: pli
+letter: P
 lisan: Fransızca pli
 anlamlar:
 - ► pile

@@ -2,6 +2,7 @@
 layout: term
 title: kıyışmak
 slug: kiyismak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karşılıklı sözleşmek, anlaşıp karar vermek

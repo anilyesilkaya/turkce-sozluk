@@ -2,6 +2,7 @@
 layout: term
 title: burkuntu
 slug: burkuntu
+letter: B
 lisan: Türkçe
 anlamlar:
 - İç organlarda duyulan kasılma vb. hareketler

@@ -2,6 +2,7 @@
 layout: term
 title: altın yürekli olmak
 slug: altin-yurekli-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - çok iyi niyetli, merhametli olmak

@@ -2,6 +2,7 @@
 layout: term
 title: soru zamiri
 slug: soru-zamiri
+letter: S
 lisan: Türkçe
 anlamlar:
 - Yerini tuttuğu varlığı veya kavramı soru yoluyla temsil eden zamir

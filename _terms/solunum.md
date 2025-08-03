@@ -2,6 +2,7 @@
 layout: term
 title: solunum
 slug: solunum
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bütün canlılarda, oksijen alıp karbondioksit verme biçiminde görülen hareket; teneffüs

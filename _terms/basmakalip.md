@@ -2,6 +2,7 @@
 layout: term
 title: basmakalıp
 slug: basmakalip
+letter: B
 lisan: Türkçe
 anlamlar:
 - Özgünlüğü olmayan, değişiklik göstermeyen, bilineni tekrarlayan; beylik, orta malı

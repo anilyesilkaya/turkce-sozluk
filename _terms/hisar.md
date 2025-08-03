@@ -2,6 +2,7 @@
 layout: term
 title: hisar
 slug: hisar
+letter: H
 lisan: Arapça ḥiṣār
 anlamlar:
 - Klasik Türk müziğinde bir birleşik makam

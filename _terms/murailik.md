@@ -2,6 +2,7 @@
 layout: term
 title: mürailik
 slug: murailik
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► ikiyüzlülük

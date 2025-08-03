@@ -2,6 +2,7 @@
 layout: term
 title: ödü kopmak (veya patlamak)
 slug: odu-kopmak-veya-patlamak
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - çok korkmak

@@ -2,6 +2,7 @@
 layout: term
 title: yel yeperek yelken kürek
 slug: yel-yeperek-yelken-kurek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - aceleyle, telaşlı bir biçimde

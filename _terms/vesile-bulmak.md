@@ -2,6 +2,7 @@
 layout: term
 title: vesile bulmak
 slug: vesile-bulmak
+letter: V
 lisan: Türkçe
 anlamlar:
 - sebep yaratmak, bahane göstermek

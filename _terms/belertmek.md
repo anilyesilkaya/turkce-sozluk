@@ -2,6 +2,7 @@
 layout: term
 title: belertmek
 slug: belertmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Gözünü, akı iyice belirecek bir biçimde açmak

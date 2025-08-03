@@ -2,6 +2,7 @@
 layout: term
 title: ağaç
 slug: agac
+letter: A
 lisan: Türkçe
 anlamlar:
 - Meyve verebilen, gövdesi odun veya kereste olmaya elverişli bulunan ve uzun yıllar yaşayabilen bitki

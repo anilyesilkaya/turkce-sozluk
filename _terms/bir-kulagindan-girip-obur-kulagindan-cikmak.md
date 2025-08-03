@@ -2,6 +2,7 @@
 layout: term
 title: bir kulağından girip öbür kulağından çıkmak
 slug: bir-kulagindan-girip-obur-kulagindan-cikmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - söylenen söze önem vermemek

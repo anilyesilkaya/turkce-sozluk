@@ -2,6 +2,7 @@
 layout: term
 title: suzinak
 slug: suzinak
+letter: S
 lisan: Farsça sūznāk
 anlamlar:
 - Klasik Türk müziğinde bir basit makam

@@ -2,6 +2,7 @@
 layout: term
 title: tavır almak (veya takınmak)
 slug: tavir-almak-veya-takinmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - belli bir durum veya davranış biçimini benimsemek, vaziyet almak

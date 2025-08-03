@@ -2,6 +2,7 @@
 layout: term
 title: zahitlik
 slug: zahitlik
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zahit olma durumu

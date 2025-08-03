@@ -2,6 +2,7 @@
 layout: term
 title: derinliksiz
 slug: derinliksiz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Derinliği olmayan

@@ -2,6 +2,7 @@
 layout: term
 title: tepesiz
 slug: tepesiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tepesi olmayan

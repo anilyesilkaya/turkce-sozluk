@@ -2,6 +2,7 @@
 layout: term
 title: dikencik
 slug: dikencik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Küçük diken

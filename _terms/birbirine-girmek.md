@@ -2,6 +2,7 @@
 layout: term
 title: birbirine girmek
 slug: birbirine-girmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - karışmak

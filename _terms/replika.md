@@ -2,6 +2,7 @@
 layout: term
 title: replika
 slug: replika
+letter: R
 lisan: İngilizce replica
 anlamlar:
 - Bir sanat eserinin bire bir kopyası

@@ -2,6 +2,7 @@
 layout: term
 title: vurdumduymazlıktan gelmek
 slug: vurdumduymazliktan-gelmek
+letter: V
 lisan: Türkçe
 anlamlar:
 - aldırış etmemek, umursamamak, önem vermemek, kulak asmamak

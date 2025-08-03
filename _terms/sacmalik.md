@@ -2,6 +2,7 @@
 layout: term
 title: saçmalık
 slug: sacmalik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Saçma konulan yer

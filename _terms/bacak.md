@@ -2,6 +2,7 @@
 layout: term
 title: bacak
 slug: bacak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Vücudun kasıktan tabana kadar olan bölümü

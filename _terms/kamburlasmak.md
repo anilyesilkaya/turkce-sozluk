@@ -2,6 +2,7 @@
 layout: term
 title: kamburlaşmak
 slug: kamburlasmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kambur duruma gelmek

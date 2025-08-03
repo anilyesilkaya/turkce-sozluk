@@ -2,6 +2,7 @@
 layout: term
 title: iye
 slug: iye
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► sahip

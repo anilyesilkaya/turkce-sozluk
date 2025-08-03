@@ -2,6 +2,7 @@
 layout: term
 title: yer elması
 slug: yer-elmasi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Birleşikgillerden, kök sapları yumru durumunda olan bir bitki (Helianthus tuberosus)

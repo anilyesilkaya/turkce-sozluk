@@ -2,6 +2,7 @@
 layout: term
 title: cepçi
 slug: cepci
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► yankesici

@@ -2,6 +2,7 @@
 layout: term
 title: söke söke almak (veya geri almak)
 slug: soke-soke-almak-veya-geri-almak
+letter: S
 lisan: Türkçe
 anlamlar:
 - büyük bir mücadele sonunda elde etmek

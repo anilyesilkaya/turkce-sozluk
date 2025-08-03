@@ -2,6 +2,7 @@
 layout: term
 title: şekva
 slug: sekva
+letter: Ş
 lisan: Arapça şekvā
 anlamlar:
 - ► şikâyet

@@ -2,6 +2,7 @@
 layout: term
 title: seher vakti
 slug: seher-vakti
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► seher

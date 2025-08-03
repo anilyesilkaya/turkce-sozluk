@@ -2,6 +2,7 @@
 layout: term
 title: barizleşmek
 slug: barizlesmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bariz duruma gelmek

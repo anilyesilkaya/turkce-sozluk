@@ -2,6 +2,7 @@
 layout: term
 title: çöktürülüş
 slug: cokturulus
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çöktürülmek işi

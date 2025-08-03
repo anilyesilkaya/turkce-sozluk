@@ -2,6 +2,7 @@
 layout: term
 title: taçsız kral
 slug: tacsiz-kral
+letter: T
 lisan: Türkçe
 anlamlar:
 - Herhangi bir konuda büyük ün yapmış olan kimse

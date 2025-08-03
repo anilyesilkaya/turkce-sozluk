@@ -2,6 +2,7 @@
 layout: term
 title: ölçülülük
 slug: olcululuk
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ölçülü, dengeli olma durumu; ılım, itidal

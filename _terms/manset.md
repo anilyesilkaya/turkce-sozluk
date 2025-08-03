@@ -2,6 +2,7 @@
 layout: term
 title: manşet
 slug: manset
+letter: M
 lisan: Fransızca manchette
 anlamlar:
 - Gömlek kollarının ucunda bulunan, genellikle düğmesi olup iliklenen, çift katlı veya kalın kumaştan yapılan bölüm; kolluk (I)

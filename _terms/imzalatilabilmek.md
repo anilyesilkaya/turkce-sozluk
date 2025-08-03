@@ -2,6 +2,7 @@
 layout: term
 title: imzalatılabilmek
 slug: imzalatilabilmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İmzalatılma ihtimali veya imkânı bulunmak

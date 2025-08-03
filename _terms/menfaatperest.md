@@ -2,6 +2,7 @@
 layout: term
 title: menfaatperest
 slug: menfaatperest
+letter: M
 lisan: Arapça menfaʿat + Farsça -perest
 anlamlar:
 - ► çıkarcı

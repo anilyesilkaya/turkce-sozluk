@@ -2,6 +2,7 @@
 layout: term
 title: benbenci
 slug: benbenci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kendini çok öven, hep kendinden söz eden

@@ -2,6 +2,7 @@
 layout: term
 title: nadirlik
 slug: nadirlik
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► seyreklik

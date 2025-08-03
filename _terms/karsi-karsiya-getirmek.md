@@ -2,6 +2,7 @@
 layout: term
 title: karşı karşıya getirmek
 slug: karsi-karsiya-getirmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - birbirine rakip etmek, düşman etmek

@@ -2,6 +2,7 @@
 layout: term
 title: Bektaşi üzümü
 slug: bektasi-uzumu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kısa saplı, beyazımsı çiçekler açan, Frenk üzümü cinsinden dikenli bir çalı (Ribes grossularia)

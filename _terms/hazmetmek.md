@@ -2,6 +2,7 @@
 layout: term
 title: hazmetmek
 slug: hazmetmek
+letter: H
 lisan: Arapça hażm + Türkçe etmek
 anlamlar:
 - ► sindirmek

@@ -2,6 +2,7 @@
 layout: term
 title: çoklu zekâ
 slug: coklu-zeka
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Birçok zekâ türünü bir arada kullanabilme becerisini içeren zekâ

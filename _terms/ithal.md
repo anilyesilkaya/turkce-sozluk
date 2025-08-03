@@ -2,6 +2,7 @@
 layout: term
 title: ithal
 slug: ithal
+letter: I
 lisan: Arapça idḫāl
 anlamlar:
 - İçine alma

@@ -2,6 +2,7 @@
 layout: term
 title: gözetlenmek
 slug: gozetlenmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gözetleme işi yapılmak; dikizlenmek

@@ -2,6 +2,7 @@
 layout: term
 title: coşturabilmek
 slug: costurabilmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - Coşturma ihtimali veya imkânı bulunmak

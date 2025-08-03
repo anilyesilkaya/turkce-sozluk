@@ -2,6 +2,7 @@
 layout: term
 title: es geçmek
 slug: es-gecmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - üzerinde durmamak, boş vermek, önemsememek

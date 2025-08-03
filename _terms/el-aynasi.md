@@ -2,6 +2,7 @@
 layout: term
 title: el aynası
 slug: el-aynasi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Elde kullanılan küçük ayna

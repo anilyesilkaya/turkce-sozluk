@@ -2,6 +2,7 @@
 layout: term
 title: proteinli
 slug: proteinli
+letter: P
 lisan: Türkçe
 anlamlar:
 - Proteini olan

@@ -2,6 +2,7 @@
 layout: term
 title: karnıyarık
 slug: karniyarik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Uzunlamasına yarılan kızarmış patlıcanların ortasına kıymalı iç konularak hazırlanmış yemek; kıstırma

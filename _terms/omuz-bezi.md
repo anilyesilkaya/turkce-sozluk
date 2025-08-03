@@ -2,6 +2,7 @@
 layout: term
 title: 'omuz bezi '
 slug: omuz-bezi
+letter: O
 lisan: Türkçe
 anlamlar:
 - Gazı çıkarılmak için kucağa alındığında bebeklerin kusmuğunun omza akmasını önlemek için kullanılan bez

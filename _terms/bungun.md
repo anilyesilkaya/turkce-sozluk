@@ -2,6 +2,7 @@
 layout: term
 title: bungun
 slug: bungun
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► sıkıntılı

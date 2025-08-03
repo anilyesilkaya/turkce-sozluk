@@ -2,6 +2,7 @@
 layout: term
 title: 'mukayeseli edebiyat '
 slug: mukayeseli-edebiyat
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► karşılaştırmalı edebiyat

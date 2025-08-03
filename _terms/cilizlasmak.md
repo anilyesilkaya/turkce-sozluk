@@ -2,6 +2,7 @@
 layout: term
 title: cılızlaşmak
 slug: cilizlasmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - Zayıf ve güçsüz olmak

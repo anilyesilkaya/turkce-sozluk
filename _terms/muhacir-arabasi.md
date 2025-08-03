@@ -2,6 +2,7 @@
 layout: term
 title: muhacir arabası
 slug: muhacir-arabasi
+letter: M
 lisan: Türkçe
 anlamlar:
 - Üstü ve yanları örtülü, dört tekerlekli, yaysız araba

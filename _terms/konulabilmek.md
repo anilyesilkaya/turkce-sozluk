@@ -2,6 +2,7 @@
 layout: term
 title: konulabilmek
 slug: konulabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Konulma ihtimali veya imkânı bulunmak

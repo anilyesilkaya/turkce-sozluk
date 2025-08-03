@@ -2,6 +2,7 @@
 layout: term
 title: müzakerat
 slug: muzakerat
+letter: M
 lisan: Arapça muẕākerāt
 anlamlar:
 - Bir konuyla ilgili konuşmalar, danışmalar, müzakereler

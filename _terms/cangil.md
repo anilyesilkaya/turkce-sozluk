@@ -2,6 +2,7 @@
 layout: term
 title: cangıl
 slug: cangil
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► cengel

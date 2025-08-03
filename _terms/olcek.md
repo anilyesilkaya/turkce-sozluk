@@ -2,6 +2,7 @@
 layout: term
 title: ölçek
 slug: olcek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Birim kabul edilen herhangi bir şeyin alabildiği kadar ölçü

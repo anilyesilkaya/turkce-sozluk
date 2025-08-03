@@ -2,6 +2,7 @@
 layout: term
 title: patırtılı
 slug: patirtili
+letter: P
 lisan: Türkçe
 anlamlar:
 - Patırtısı olan

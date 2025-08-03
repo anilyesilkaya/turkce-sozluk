@@ -2,6 +2,7 @@
 layout: term
 title: çocuk dünyaya getirmek
 slug: cocuk-dunyaya-getirmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - çocuk doğurmak

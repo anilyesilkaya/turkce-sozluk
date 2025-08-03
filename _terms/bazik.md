@@ -2,6 +2,7 @@
 layout: term
 title: bazik
 slug: bazik
+letter: B
 lisan: Fransızca basique
 anlamlar:
 - Baz niteliği gösteren

@@ -2,6 +2,7 @@
 layout: term
 title: puantaj
 slug: puantaj
+letter: P
 lisan: Fransızca pointage
 anlamlar:
 - Bir şeyin denetlendiğini veya görüldüğünü belirtmek için işaretleme, işaret koyma

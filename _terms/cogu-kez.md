@@ -2,6 +2,7 @@
 layout: term
 title: çoğu kez
 slug: cogu-kez
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► genellikle

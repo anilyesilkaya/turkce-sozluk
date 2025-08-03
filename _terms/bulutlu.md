@@ -2,6 +2,7 @@
 layout: term
 title: bulutlu
 slug: bulutlu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bulutlarla kaplanmış, bulutlanmış

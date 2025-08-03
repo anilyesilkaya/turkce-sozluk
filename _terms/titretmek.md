@@ -2,6 +2,7 @@
 layout: term
 title: titretmek
 slug: titretmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Titremesine yol açmak

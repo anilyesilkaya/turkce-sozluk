@@ -2,6 +2,7 @@
 layout: term
 title: maşallah
 slug: masallah
+letter: M
 lisan: Arapça māşāʾe + allāh
 anlamlar:
 - (ma:şalla:h) "Ne güzel, Allah nazardan saklasın" anlamlarında beğenme duyguları bildiren bir söz

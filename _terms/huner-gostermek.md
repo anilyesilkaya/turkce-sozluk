@@ -2,6 +2,7 @@
 layout: term
 title: hüner göstermek
 slug: huner-gostermek
+letter: H
 lisan: Türkçe
 anlamlar:
 - beceriklilik ortaya koymak

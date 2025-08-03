@@ -2,6 +2,7 @@
 layout: term
 title: süvari polisi
 slug: suvari-polisi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Atlı polis

@@ -2,6 +2,7 @@
 layout: term
 title: peşin peşin
 slug: pesin-pesin
+letter: P
 lisan: Türkçe
 anlamlar:
 - Önceden benimsenmiş olarak

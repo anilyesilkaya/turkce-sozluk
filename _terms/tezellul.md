@@ -2,6 +2,7 @@
 layout: term
 title: tezellül
 slug: tezellul
+letter: T
 lisan: Arapça teẕellul
 anlamlar:
 - ► aşağılanma

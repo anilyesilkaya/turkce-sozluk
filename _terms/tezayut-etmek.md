@@ -2,6 +2,7 @@
 layout: term
 title: tezayüt etmek
 slug: tezayut-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - artmak

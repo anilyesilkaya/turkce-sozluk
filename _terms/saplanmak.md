@@ -2,6 +2,7 @@
 layout: term
 title: saplanmak
 slug: saplanmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Hızla batmak

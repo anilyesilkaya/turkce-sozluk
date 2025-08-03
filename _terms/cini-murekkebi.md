@@ -2,6 +2,7 @@
 layout: term
 title: çini mürekkebi
 slug: cini-murekkebi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Simsiyah, ince ve solmaz bir is mürekkebi

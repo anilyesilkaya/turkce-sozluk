@@ -2,6 +2,7 @@
 layout: term
 title: çoğunluk
 slug: cogunluk
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Sayı üstünlüğü; çokluk, ekseriyet, azınlık karşıtı

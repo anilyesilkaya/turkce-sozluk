@@ -2,6 +2,7 @@
 layout: term
 title: kırılgan
 slug: kirilgan
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kolay ve çabuk kırılan

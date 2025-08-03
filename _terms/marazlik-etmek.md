@@ -2,6 +2,7 @@
 layout: term
 title: marazlık etmek
 slug: marazlik-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - güç, sıkıntı veren, huzursuzluk doğuran bir durum yaratmak

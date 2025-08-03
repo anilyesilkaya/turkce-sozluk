@@ -2,6 +2,7 @@
 layout: term
 title: amber balığı
 slug: amber-baligi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Balinagillerden, boyu 25 metreye kadar çıkabilen, başı büyük, dişli, çok yırtıcı bir balık; ada balığı (Catodon macrocephalus)

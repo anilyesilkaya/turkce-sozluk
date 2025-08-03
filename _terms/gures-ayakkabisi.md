@@ -2,6 +2,7 @@
 layout: term
 title: güreş ayakkabısı
 slug: gures-ayakkabisi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güreşçilerin müsabaka sırasında giydiği, darbelere karşı korunaklı, yumuşak yapılı, taban yapısı sürtünmeyi azaltıcı özellikte olan ayakkabı

@@ -2,6 +2,7 @@
 layout: term
 title: kiplik
 slug: kiplik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Önermelerin yalın, belkili veya mecburi olma nitelikleri

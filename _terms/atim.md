@@ -2,6 +2,7 @@
 layout: term
 title: atım
 slug: atim
+letter: A
 lisan: Türkçe
 anlamlar:
 - Atmak işi

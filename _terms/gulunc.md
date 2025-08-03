@@ -2,6 +2,7 @@
 layout: term
 title: gülünç
 slug: gulunc
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► komik

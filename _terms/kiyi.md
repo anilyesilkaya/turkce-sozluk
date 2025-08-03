@@ -2,6 +2,7 @@
 layout: term
 title: kıyı
 slug: kiyi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kara ile suyun birleştiği yer

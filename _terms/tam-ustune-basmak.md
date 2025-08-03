@@ -2,6 +2,7 @@
 layout: term
 title: tam üstüne basmak
 slug: tam-ustune-basmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - kesin olarak belirlemek

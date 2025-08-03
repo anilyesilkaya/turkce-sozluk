@@ -2,6 +2,7 @@
 layout: term
 title: öşür
 slug: osur
+letter: Ö
 lisan: Arapça ʿuşr
 anlamlar:
 - Toprak ürünlerinden onda bir oranında alınan vergi; ondalık, aşar

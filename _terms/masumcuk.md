@@ -2,6 +2,7 @@
 layout: term
 title: masumcuk
 slug: masumcuk
+letter: M
 lisan: Türkçe
 anlamlar:
 - Zavallı, günahsız kimse

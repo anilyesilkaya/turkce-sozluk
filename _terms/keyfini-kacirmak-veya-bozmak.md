@@ -2,6 +2,7 @@
 layout: term
 title: keyfini kaçırmak (veya bozmak)
 slug: keyfini-kacirmak-veya-bozmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - üzmek

@@ -2,6 +2,7 @@
 layout: term
 title: lülecilik
 slug: lulecilik
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lüle taşı işçiliği

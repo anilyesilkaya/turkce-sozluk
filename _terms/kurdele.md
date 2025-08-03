@@ -2,6 +2,7 @@
 layout: term
 title: kurdele
 slug: kurdele
+letter: K
 lisan: İtalyanca cordella
 anlamlar:
 - Geniş ipekli şerit

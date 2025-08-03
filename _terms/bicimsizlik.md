@@ -2,6 +2,7 @@
 layout: term
 title: biçimsizlik
 slug: bicimsizlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Biçimsiz olma durum; şekilsizlik

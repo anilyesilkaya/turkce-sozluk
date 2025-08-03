@@ -2,6 +2,7 @@
 layout: term
 title: kırmızı kart görmek
 slug: kirmizi-kart-gormek
+letter: K
 lisan: Türkçe
 anlamlar:
 - oyundan çıkarılma cezasına çarptırılmak

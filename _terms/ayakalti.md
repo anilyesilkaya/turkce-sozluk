@@ -2,6 +2,7 @@
 layout: term
 title: ayakaltı
 slug: ayakalti
+letter: A
 lisan: Türkçe
 anlamlar:
 - Gelip geçenlerin çok olduğu yer

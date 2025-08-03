@@ -2,6 +2,7 @@
 layout: term
 title: buzhane
 slug: buzhane
+letter: B
 lisan: Türkçe buz + Farsça ḫāne
 anlamlar:
 - Buz yapılan yer

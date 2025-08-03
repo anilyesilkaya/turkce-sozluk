@@ -2,6 +2,7 @@
 layout: term
 title: kaygın
 slug: kaygin
+letter: K
 lisan: Türkçe
 anlamlar:
 - Gebe deve

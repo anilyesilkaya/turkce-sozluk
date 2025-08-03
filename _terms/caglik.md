@@ -2,6 +2,7 @@
 layout: term
 title: cağlık
 slug: caglik
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► cağ (III)

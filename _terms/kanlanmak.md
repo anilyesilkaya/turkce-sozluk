@@ -2,6 +2,7 @@
 layout: term
 title: kanlanmak
 slug: kanlanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kan bulaşmak

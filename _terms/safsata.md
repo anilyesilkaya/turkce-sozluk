@@ -2,6 +2,7 @@
 layout: term
 title: safsata
 slug: safsata
+letter: S
 lisan: Arapça safsaṭa
 anlamlar:
 - Boş, temelsiz, asılsız söz

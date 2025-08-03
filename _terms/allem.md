@@ -2,6 +2,7 @@
 layout: term
 title: allem
 slug: allem
+letter: A
 lisan: Türkçe
 anlamlar:
 - '"Alavere, dalavere, oldubitti” anlamında kullanılan allem kallem sözünde ve “bir işi istediği duruma getirmek için her türlü kurnazca çareye başvurmak” anlamıyla allem etmek, kallem etmek deyiminde kullanılan bir söz'

@@ -2,6 +2,7 @@
 layout: term
 title: 'açık alın '
 slug: acik-alin
+letter: A
 lisan: Türkçe
 anlamlar:
 - Normalden daha geniş olan alın

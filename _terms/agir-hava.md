@@ -2,6 +2,7 @@
 layout: term
 title: ağır hava
 slug: agir-hava
+letter: A
 lisan: Türkçe
 anlamlar:
 - Basıncın düşmesi sebebiyle meydana gelen, insanın üzerine baskı yapan hava

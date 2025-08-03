@@ -2,6 +2,7 @@
 layout: term
 title: o kadar
 slug: o-kadar
+letter: O
 lisan: Türkçe
 anlamlar:
 - çok aşırı

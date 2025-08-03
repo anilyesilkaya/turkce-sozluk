@@ -2,6 +2,7 @@
 layout: term
 title: etlenmek
 slug: etlenmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Şişmanlamak, semirmek

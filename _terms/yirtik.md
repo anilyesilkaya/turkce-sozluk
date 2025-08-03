@@ -2,6 +2,7 @@
 layout: term
 title: yırtık
 slug: yirtik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yırtılmış olan

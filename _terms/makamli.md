@@ -2,6 +2,7 @@
 layout: term
 title: makamlı
 slug: makamli
+letter: M
 lisan: Türkçe
 anlamlar:
 - Makamı olan

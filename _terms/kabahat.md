@@ -2,6 +2,7 @@
 layout: term
 title: kabahat
 slug: kabahat
+letter: K
 lisan: Arapça ḳabāḥat
 anlamlar:
 - Uygunsuz hareket, çirkin, yakışıksız davranış

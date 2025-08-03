@@ -2,6 +2,7 @@
 layout: term
 title: kitapsız
 slug: kitapsiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kitabı olmayan

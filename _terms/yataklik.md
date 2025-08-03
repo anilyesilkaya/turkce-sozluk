@@ -2,6 +2,7 @@
 layout: term
 title: yataklık
 slug: yataklik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yatak yapmaya uygun

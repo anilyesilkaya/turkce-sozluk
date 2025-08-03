@@ -2,6 +2,7 @@
 layout: term
 title: murat
 slug: murat
+letter: M
 lisan: Arapça murād
 anlamlar:
 - ► dilek

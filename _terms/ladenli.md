@@ -2,6 +2,7 @@
 layout: term
 title: ladenli
 slug: ladenli
+letter: L
 lisan: Türkçe
 anlamlar:
 - Laden sürülmüş olan

@@ -2,6 +2,7 @@
 layout: term
 title: yalı
 slug: yali
+letter: Y
 lisan: Rumca
 anlamlar:
 - ► sahil

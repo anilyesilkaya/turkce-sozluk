@@ -2,6 +2,7 @@
 layout: term
 title: örtüsüz
 slug: ortusuz
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Örtüsü olmayan

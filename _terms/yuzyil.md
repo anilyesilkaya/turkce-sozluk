@@ -2,6 +2,7 @@
 layout: term
 title: yüzyıl
 slug: yuzyil
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yüzyıllık süre; asır

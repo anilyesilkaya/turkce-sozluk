@@ -2,6 +2,7 @@
 layout: term
 title: acentelik
 slug: acentelik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Acentenin yaptığı iş

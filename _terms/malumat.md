@@ -2,6 +2,7 @@
 layout: term
 title: malumat
 slug: malumat
+letter: M
 lisan: Arapça maʿlūmāt
 anlamlar:
 - ► bilgi

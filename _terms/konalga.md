@@ -2,6 +2,7 @@
 layout: term
 title: konalga
 slug: konalga
+letter: K
 lisan: Moğolca
 anlamlar:
 - Göçebe ve yolcuların yolculuk veya göç sırasında konakladıkları sulu ve otlu yer

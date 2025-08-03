@@ -2,6 +2,7 @@
 layout: term
 title: derhatır etmek
 slug: derhatir-etmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - hatırlamak

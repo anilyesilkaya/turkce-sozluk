@@ -2,6 +2,7 @@
 layout: term
 title: çeviricilik
 slug: ceviricilik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çevirmenlik

@@ -2,6 +2,7 @@
 layout: term
 title: tane tane
 slug: tane-tane
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► teker teker

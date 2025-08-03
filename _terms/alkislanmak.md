@@ -2,6 +2,7 @@
 layout: term
 title: alkışlanmak
 slug: alkislanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alkışlama işine konu olmak

@@ -2,6 +2,7 @@
 layout: term
 title: çözdürme
 slug: cozdurme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çözdürmek işi

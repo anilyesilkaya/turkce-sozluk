@@ -2,6 +2,7 @@
 layout: term
 title: kendi kendine
 slug: kendi-kendine
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kimseye danışmaksızın

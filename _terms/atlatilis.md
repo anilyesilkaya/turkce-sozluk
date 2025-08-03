@@ -2,6 +2,7 @@
 layout: term
 title: atlatılış
 slug: atlatilis
+letter: A
 lisan: Türkçe
 anlamlar:
 - Atlatılmak işi

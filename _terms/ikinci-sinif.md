@@ -2,6 +2,7 @@
 layout: term
 title: ikinci sınıf
 slug: ikinci-sinif
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► ikinci mevki

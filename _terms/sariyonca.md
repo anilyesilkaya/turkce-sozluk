@@ -2,6 +2,7 @@
 layout: term
 title: sarıyonca
 slug: sariyonca
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sarı yapraklı bir tür yonca

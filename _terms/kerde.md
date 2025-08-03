@@ -2,6 +2,7 @@
 layout: term
 title: kerde
 slug: kerde
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sebze fideliği

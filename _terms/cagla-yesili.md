@@ -2,6 +2,7 @@
 layout: term
 title: çağla yeşili
 slug: cagla-yesili
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Olmamış, ham olan yeşil meyvenin rengi

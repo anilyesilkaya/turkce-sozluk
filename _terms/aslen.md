@@ -2,6 +2,7 @@
 layout: term
 title: aslen
 slug: aslen
+letter: A
 lisan: Arapça aṣlen
 anlamlar:
 - Kök veya soy bakımından

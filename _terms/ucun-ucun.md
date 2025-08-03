@@ -2,6 +2,7 @@
 layout: term
 title: ucun ucun
 slug: ucun-ucun
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► ucu ucuna

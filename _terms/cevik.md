@@ -2,6 +2,7 @@
 layout: term
 title: çevik
 slug: cevik
+letter: Ç
 lisan: Farsça çābuk
 anlamlar:
 - Kolaylık ve çabuklukla davranan; tetik (II), atik (I), atik tetik, kırnak

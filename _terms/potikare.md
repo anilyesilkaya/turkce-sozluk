@@ -2,6 +2,7 @@
 layout: term
 title: pötikare
 slug: potikare
+letter: P
 lisan: Fransızca petit-carré
 anlamlar:
 - Küçük kareli kumaş; pitikare

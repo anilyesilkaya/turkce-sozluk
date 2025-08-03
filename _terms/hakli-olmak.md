@@ -2,6 +2,7 @@
 layout: term
 title: haklı olmak
 slug: hakli-olmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - davası, iddiası, davranışı, düşüncesi adalete uygun olmak

@@ -2,6 +2,7 @@
 layout: term
 title: çekimleme
 slug: cekimleme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çekimlemek işi

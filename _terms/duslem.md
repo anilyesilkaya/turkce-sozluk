@@ -2,6 +2,7 @@
 layout: term
 title: düşlem
 slug: duslem
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düş yoluyla beliren görüntü

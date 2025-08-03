@@ -2,6 +2,7 @@
 layout: term
 title: sıyga
 slug: siyga
+letter: S
 lisan: Arapça ṣīġa
 anlamlar:
 - Kip

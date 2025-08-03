@@ -2,6 +2,7 @@
 layout: term
 title: evce
 slug: evce
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► evcek

@@ -2,6 +2,7 @@
 layout: term
 title: kağşamak
 slug: kagsamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Eskimek, dağılmaya yüz tutmak

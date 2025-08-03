@@ -2,6 +2,7 @@
 layout: term
 title: balsam
 slug: balsam
+letter: B
 lisan: İngilizce balsam
 anlamlar:
 - ► pelesenk ağacı

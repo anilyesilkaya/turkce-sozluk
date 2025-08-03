@@ -2,6 +2,7 @@
 layout: term
 title: ters açı
 slug: ters-aci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Birinin kenarları öbürünün kenarlarının uzantısından oluşan açılardan her biri

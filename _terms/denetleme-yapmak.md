@@ -2,6 +2,7 @@
 layout: term
 title: denetleme yapmak
 slug: denetleme-yapmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - kontrol etmek

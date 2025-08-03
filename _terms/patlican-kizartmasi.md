@@ -2,6 +2,7 @@
 layout: term
 title: patlıcan kızartması
 slug: patlican-kizartmasi
+letter: P
 lisan: Türkçe
 anlamlar:
 - Kabuğu soyulduktan sonra ince dilimlenmiş patlıcanın sıvı yağda yapılan kızartması

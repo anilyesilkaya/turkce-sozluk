@@ -2,6 +2,7 @@
 layout: term
 title: bocuk
 slug: bocuk
+letter: B
 lisan: Rusça
 anlamlar:
 - Ortodokslarca kutlanan Hz. İsa'nın doğum yortusu

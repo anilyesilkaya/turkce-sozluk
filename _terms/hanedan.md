@@ -2,6 +2,7 @@
 layout: term
 title: hanedan
 slug: hanedan
+letter: H
 lisan: Farsça ḫānedān
 anlamlar:
 - Hükümdar, devlet büyüğü vb. bir kişiye dayanan soy, büyük aile

@@ -2,6 +2,7 @@
 layout: term
 title: manivelalı
 slug: manivelali
+letter: M
 lisan: Türkçe
 anlamlar:
 - Manivelası olan

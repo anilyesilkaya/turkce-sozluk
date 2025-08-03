@@ -2,6 +2,7 @@
 layout: term
 title: başaklı
 slug: basakli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başağı olan (ekin)

@@ -2,6 +2,7 @@
 layout: term
 title: renkten renge girmek
 slug: renkten-renge-girmek
+letter: R
 lisan: Türkçe
 anlamlar:
 - korkudan veya utançtan yüzünün rengi değişmek, sıkılmak

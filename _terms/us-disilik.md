@@ -2,6 +2,7 @@
 layout: term
 title: us dışılık
 slug: us-disilik
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► akıl dışılık

@@ -2,6 +2,7 @@
 layout: term
 title: sevimlileşmek
 slug: sevimlilesmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sevimli duruma gelmek

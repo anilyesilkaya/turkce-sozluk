@@ -2,6 +2,7 @@
 layout: term
 title: ardılmak
 slug: ardilmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Birisinin sırtına asılmak

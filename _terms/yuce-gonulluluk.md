@@ -2,6 +2,7 @@
 layout: term
 title: yüce gönüllülük
 slug: yuce-gonulluluk
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yüce gönüllü olma durumu

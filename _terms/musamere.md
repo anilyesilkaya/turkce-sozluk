@@ -2,6 +2,7 @@
 layout: term
 title: müsamere
 slug: musamere
+letter: M
 lisan: Arapça musāmere
 anlamlar:
 - Okullarda öğrencilerin sunduğu, programında koşuk, oyun vb. gösterilerinin yer aldığı eğlence

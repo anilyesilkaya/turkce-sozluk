@@ -2,6 +2,7 @@
 layout: term
 title: ateş gibi
 slug: ates-gibi
+letter: A
 lisan: Türkçe
 anlamlar:
 - çok sıcak

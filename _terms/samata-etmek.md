@@ -2,6 +2,7 @@
 layout: term
 title: şamata etmek
 slug: samata-etmek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - gürültü patırtı yapmak

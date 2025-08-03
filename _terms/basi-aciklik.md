@@ -2,6 +2,7 @@
 layout: term
 title: başı açıklık
 slug: basi-aciklik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başı açık olma durumu

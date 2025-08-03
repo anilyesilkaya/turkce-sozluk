@@ -2,6 +2,7 @@
 layout: term
 title: dizlerinin bağı çözülmek
 slug: dizlerinin-bagi-cozulmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - korkudan ayakta duramayacak duruma gelmek

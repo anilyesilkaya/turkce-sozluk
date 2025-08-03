@@ -2,6 +2,7 @@
 layout: term
 title: söylenilmek
 slug: soylenilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► söylenmek

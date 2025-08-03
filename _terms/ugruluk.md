@@ -2,6 +2,7 @@
 layout: term
 title: uğruluk
 slug: ugruluk
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► hırsızlık

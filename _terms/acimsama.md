@@ -2,6 +2,7 @@
 layout: term
 title: acımsama
 slug: acimsama
+letter: A
 lisan: Türkçe
 anlamlar:
 - Acımsamak durumu

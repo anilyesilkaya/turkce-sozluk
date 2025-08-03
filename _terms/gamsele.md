@@ -2,6 +2,7 @@
 layout: term
 title: gamsele
 slug: gamsele
+letter: G
 lisan: Rumca
 anlamlar:
 - Kauçuktan yapılmış, su geçirmeyen yağmurluk

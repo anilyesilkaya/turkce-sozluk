@@ -2,6 +2,7 @@
 layout: term
 title: parafazi
 slug: parafazi
+letter: P
 lisan: Fransızca paraphasie
 anlamlar:
 - ► söz karışıklığı

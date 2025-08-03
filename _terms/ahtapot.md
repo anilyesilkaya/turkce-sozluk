@@ -2,6 +2,7 @@
 layout: term
 title: ahtapot
 slug: ahtapot
+letter: A
 lisan: Rumca
 anlamlar:
 - Kafadan bacaklılardan, dokunaçlı bir tür mürekkep balığı (Octopus)

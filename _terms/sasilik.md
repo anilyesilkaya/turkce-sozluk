@@ -2,6 +2,7 @@
 layout: term
 title: şaşılık
 slug: sasilik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şaşı olma durumu

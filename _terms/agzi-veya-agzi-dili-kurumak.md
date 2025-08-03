@@ -2,6 +2,7 @@
 layout: term
 title: ağzı (veya ağzı dili) kurumak
 slug: agzi-veya-agzi-dili-kurumak
+letter: A
 lisan: Türkçe
 anlamlar:
 - susuz kalmak

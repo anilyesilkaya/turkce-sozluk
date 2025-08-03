@@ -2,6 +2,7 @@
 layout: term
 title: gizlenmek
 slug: gizlenmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Kendi kendini gizlemek; saklanmak

@@ -2,6 +2,7 @@
 layout: term
 title: aleyhe dönmek
 slug: aleyhe-donmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - destek vermekten vazgeçip karşı duruma geçmek

@@ -2,6 +2,7 @@
 layout: term
 title: külçe kesilmek
 slug: kulce-kesilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - dermansız, güçsüz kalıp olduğu yere yığılmak

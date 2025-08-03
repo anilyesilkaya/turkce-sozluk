@@ -2,6 +2,7 @@
 layout: term
 title: batan geminin malları bunlar
 slug: batan-geminin-mallari-bunlar
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir malın çok ucuza satıldığını belirten bir söz

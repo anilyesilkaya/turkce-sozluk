@@ -2,6 +2,7 @@
 layout: term
 title: puşt
 slug: pust
+letter: P
 lisan: Farsça puşt
 anlamlar:
 - Eş cinsel erkeklerin cinsel zevklerine hizmet eden erkek

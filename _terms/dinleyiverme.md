@@ -2,6 +2,7 @@
 layout: term
 title: dinleyiverme
 slug: dinleyiverme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dinleyivermek işi

@@ -2,6 +2,7 @@
 layout: term
 title: çöpten çelebi
 slug: copten-celebi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çok zayıf, güçsüz kişi

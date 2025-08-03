@@ -2,6 +2,7 @@
 layout: term
 title: üçlük
 slug: ucluk
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üç tanesi bir arada bulunan, üç tane alabilen, üç taneden oluşmuş

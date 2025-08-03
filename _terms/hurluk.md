@@ -2,6 +2,7 @@
 layout: term
 title: hürlük
 slug: hurluk
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► özgürlük

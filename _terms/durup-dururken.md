@@ -2,6 +2,7 @@
 layout: term
 title: durup dururken
 slug: durup-dururken
+letter: D
 lisan: Türkçe
 anlamlar:
 - Gereği veya nedeni yokken; yekten

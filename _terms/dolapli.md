@@ -2,6 +2,7 @@
 layout: term
 title: dolaplı
 slug: dolapli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dolabı olan

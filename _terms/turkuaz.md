@@ -2,6 +2,7 @@
 layout: term
 title: turkuaz
 slug: turkuaz
+letter: T
 lisan: Fransızca turquoise
 anlamlar:
 - Mavi, yeşil ve beyazın karışımından ortaya çıkan renk; turkuaz mavisi, turkuaz yeşili, firuze

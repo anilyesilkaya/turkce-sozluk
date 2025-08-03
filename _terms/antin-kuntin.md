@@ -2,6 +2,7 @@
 layout: term
 title: antin kuntin
 slug: antin-kuntin
+letter: A
 lisan: Türkçe
 anlamlar:
 - “Gereksiz, yararsız, boş, saçma sapan, uyduruk, eften püften (söz, iş vb.)” anlamlarında kullanılan bir söz

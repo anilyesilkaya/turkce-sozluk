@@ -2,6 +2,7 @@
 layout: term
 title: pastırmacı
 slug: pastirmaci
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pastırma yapan veya satan kimse

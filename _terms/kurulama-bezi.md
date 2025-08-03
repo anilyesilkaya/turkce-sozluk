@@ -2,6 +2,7 @@
 layout: term
 title: 'kurulama bezi '
 slug: kurulama-bezi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bulaşıkları yıkadıktan sonra ıslaklığını alıp kurutmak için kullanılan bez

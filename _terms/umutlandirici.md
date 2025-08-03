@@ -2,6 +2,7 @@
 layout: term
 title: umutlandırıcı
 slug: umutlandirici
+letter: U
 lisan: Türkçe
 anlamlar:
 - Umut verici

@@ -2,6 +2,7 @@
 layout: term
 title: su içinde
 slug: su-icinde
+letter: S
 lisan: Türkçe
 anlamlar:
 - en kötü şartlarda bile

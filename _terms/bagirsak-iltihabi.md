@@ -2,6 +2,7 @@
 layout: term
 title: bağırsak iltihabı
 slug: bagirsak-iltihabi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Sindirim organında oluşan iltihaplı durum ve buna bağlı hastalık

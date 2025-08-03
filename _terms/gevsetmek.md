@@ -2,6 +2,7 @@
 layout: term
 title: gevşetmek
 slug: gevsetmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Sertlik ve gerginliğini bozmak

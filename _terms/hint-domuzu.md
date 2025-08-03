@@ -2,6 +2,7 @@
 layout: term
 title: Hint domuzu
 slug: hint-domuzu
+letter: H
 lisan: Türkçe
 anlamlar:
 - Büyük Okyanus Adaları'nda yaşayan, köpek dişleri boynuz gibi yukarı doğru kıvrık, iri yapılı bir tür domuz (Porcus babyrussa)

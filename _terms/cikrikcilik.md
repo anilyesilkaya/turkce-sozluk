@@ -2,6 +2,7 @@
 layout: term
 title: çıkrıkçılık
 slug: cikrikcilik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıkrıkçının yaptığı iş

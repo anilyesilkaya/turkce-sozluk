@@ -2,6 +2,7 @@
 layout: term
 title: dinlence
 slug: dinlence
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► tatil

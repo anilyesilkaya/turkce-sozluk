@@ -2,6 +2,7 @@
 layout: term
 title: mahşer
 slug: mahser
+letter: M
 lisan: Arapça maḥşer
 anlamlar:
 - Ahirette bütün insanların tekrar dirilip toplanacakları yer

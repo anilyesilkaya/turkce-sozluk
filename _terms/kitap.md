@@ -2,6 +2,7 @@
 layout: term
 title: kitap
 slug: kitap
+letter: K
 lisan: Arapça kitāb
 anlamlar:
 - Ciltli veya ciltsiz olarak bir araya getirilmiş, basılı veya yazılı kâğıt yaprakların bütünü; betik

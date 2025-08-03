@@ -2,6 +2,7 @@
 layout: term
 title: '... damgasını vurmak'
 slug: damgasini-vurmak
+letter: .
 lisan: Türkçe
 anlamlar:
 - biri hakkında kötü bir yargıya varmak

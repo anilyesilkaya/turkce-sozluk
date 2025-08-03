@@ -2,6 +2,7 @@
 layout: term
 title: kaytarmak
 slug: kaytarmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - İş yapmaktan kaçmak

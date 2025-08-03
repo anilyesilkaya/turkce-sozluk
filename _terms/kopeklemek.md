@@ -2,6 +2,7 @@
 layout: term
 title: köpeklemek
 slug: kopeklemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çok yorulmak

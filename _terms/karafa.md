@@ -2,6 +2,7 @@
 layout: term
 title: karafa
 slug: karafa
+letter: K
 lisan: İtalyanca caraffa
 anlamlar:
 - Genellikle cam veya kristalden yapılan, uzun boyunlu, kulpsuz küçük rakı veya şarap sürahisi; karaf, karafaki

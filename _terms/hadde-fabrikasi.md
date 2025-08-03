@@ -2,6 +2,7 @@
 layout: term
 title: hadde fabrikası
 slug: hadde-fabrikasi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Som demire çubuk, köşebent, levha, ray vb. biçimler verilen fabrika

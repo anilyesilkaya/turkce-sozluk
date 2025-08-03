@@ -2,6 +2,7 @@
 layout: term
 title: neşesi kaçmak
 slug: nesesi-kacmak
+letter: N
 lisan: Türkçe
 anlamlar:
 - sevinci azalmak, kederlenmek

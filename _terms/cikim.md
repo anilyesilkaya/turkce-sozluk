@@ -2,6 +2,7 @@
 layout: term
 title: çıkım
 slug: cikim
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıkmak işi

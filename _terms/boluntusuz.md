@@ -2,6 +2,7 @@
 layout: term
 title: bölüntüsüz
 slug: boluntusuz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bölüntüsü olmayan

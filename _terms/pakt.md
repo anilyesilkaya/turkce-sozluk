@@ -2,6 +2,7 @@
 layout: term
 title: pakt
 slug: pakt
+letter: P
 lisan: Fransızca pacte
 anlamlar:
 - ► antlaşma

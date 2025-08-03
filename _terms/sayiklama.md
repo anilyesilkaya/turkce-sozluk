@@ -2,6 +2,7 @@
 layout: term
 title: sayıklama
 slug: sayiklama
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sayıklamak işi; hezeyan

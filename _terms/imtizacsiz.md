@@ -2,6 +2,7 @@
 layout: term
 title: imtizaçsız
 slug: imtizacsiz
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► uyumsuz

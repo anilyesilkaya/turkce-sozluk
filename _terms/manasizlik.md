@@ -2,6 +2,7 @@
 layout: term
 title: manasızlık
 slug: manasizlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► anlamsızlık

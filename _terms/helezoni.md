@@ -2,6 +2,7 @@
 layout: term
 title: helezoni
 slug: helezoni
+letter: H
 lisan: Arapça ḥalezūnī
 anlamlar:
 - ► sarmal

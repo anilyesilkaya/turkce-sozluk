@@ -2,6 +2,7 @@
 layout: term
 title: çelme
 slug: celme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çelmek işi

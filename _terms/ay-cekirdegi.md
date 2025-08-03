@@ -2,6 +2,7 @@
 layout: term
 title: ay çekirdeği
 slug: ay-cekirdegi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayçiçeğinin tohumu

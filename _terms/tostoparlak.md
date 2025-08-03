@@ -2,6 +2,7 @@
 layout: term
 title: tostoparlak
 slug: tostoparlak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bütünüyle toparlak

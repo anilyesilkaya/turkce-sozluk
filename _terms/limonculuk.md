@@ -2,6 +2,7 @@
 layout: term
 title: limonculuk
 slug: limonculuk
+letter: L
 lisan: Türkçe
 anlamlar:
 - Limoncunun yaptığı iş

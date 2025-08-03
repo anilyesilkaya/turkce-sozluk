@@ -2,6 +2,7 @@
 layout: term
 title: ezile büzüle
 slug: ezile-buzule
+letter: E
 lisan: Türkçe
 anlamlar:
 - Utangaçlıkla, sıkılganlıkla

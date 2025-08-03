@@ -2,6 +2,7 @@
 layout: term
 title: dikenlice
 slug: dikenlice
+letter: D
 lisan: Türkçe
 anlamlar:
 - Biraz dikenli

@@ -2,6 +2,7 @@
 layout: term
 title: Çigan
 slug: cigan
+letter: Ç
 lisan: Fransızca tsigane
 anlamlar:
 - ► Çingene

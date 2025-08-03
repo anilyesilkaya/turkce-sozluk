@@ -2,6 +2,7 @@
 layout: term
 title: aleykümselam
 slug: aleykumselam
+letter: A
 lisan: Arapça ʿaleykum + selām
 anlamlar:
 - '"Esenlik, selamet sizin de üzerinize olsun" anlamında kullanılan bir söz'

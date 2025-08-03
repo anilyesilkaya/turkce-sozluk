@@ -2,6 +2,7 @@
 layout: term
 title: yelkenleri suya indirmek
 slug: yelkenleri-suya-indirmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - direnmekten vazgeçip karşısındakinin dediğini benimsemek, kabul etmek

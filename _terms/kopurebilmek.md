@@ -2,6 +2,7 @@
 layout: term
 title: köpürebilmek
 slug: kopurebilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Köpürme ihtimali veya imkânı bulunmak

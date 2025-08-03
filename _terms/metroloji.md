@@ -2,6 +2,7 @@
 layout: term
 title: metroloji
 slug: metroloji
+letter: M
 lisan: Fransızca métrologie
 anlamlar:
 - ► ölçü bilimi

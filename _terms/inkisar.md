@@ -2,6 +2,7 @@
 layout: term
 title: inkisar
 slug: inkisar
+letter: I
 lisan: Arapça inkisār
 anlamlar:
 - ► kırılma

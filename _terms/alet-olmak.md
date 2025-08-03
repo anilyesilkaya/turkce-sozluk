@@ -2,6 +2,7 @@
 layout: term
 title: alet olmak
 slug: alet-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - bilerek veya bilmeyerek kötü bir işe aracılık etmek, vasıta olmak

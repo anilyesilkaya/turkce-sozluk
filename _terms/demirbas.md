@@ -2,6 +2,7 @@
 layout: term
 title: demirbaş
 slug: demirbas
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir yerde kullanılan, bir yere kayıtlı olan, bir görevliden öbürüne teslim edilen dayanıklı eşya

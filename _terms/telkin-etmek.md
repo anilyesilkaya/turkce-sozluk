@@ -2,6 +2,7 @@
 layout: term
 title: telkin etmek
 slug: telkin-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - aşılamak

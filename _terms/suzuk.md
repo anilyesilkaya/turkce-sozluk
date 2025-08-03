@@ -2,6 +2,7 @@
 layout: term
 title: süzük
 slug: suzuk
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► süzgün

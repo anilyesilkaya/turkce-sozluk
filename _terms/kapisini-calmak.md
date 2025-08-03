@@ -2,6 +2,7 @@
 layout: term
 title: kapısını çalmak
 slug: kapisini-calmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - birine başvurmak

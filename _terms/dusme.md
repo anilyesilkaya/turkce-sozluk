@@ -2,6 +2,7 @@
 layout: term
 title: düşme
 slug: dusme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düşmek işi; sukut

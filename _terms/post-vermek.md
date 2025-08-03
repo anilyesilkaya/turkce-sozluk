@@ -2,6 +2,7 @@
 layout: term
 title: post vermek
 slug: post-vermek
+letter: P
 lisan: Türkçe
 anlamlar:
 - canını vermek, ölmek

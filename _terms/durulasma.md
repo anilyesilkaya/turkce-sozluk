@@ -2,6 +2,7 @@
 layout: term
 title: durulaşma
 slug: durulasma
+letter: D
 lisan: Türkçe
 anlamlar:
 - Durulaşmak durumu

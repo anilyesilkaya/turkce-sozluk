@@ -2,6 +2,7 @@
 layout: term
 title: devir açmak
 slug: devir-acmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - tarihte özellik taşıyan yeni bir çağ başlatmak

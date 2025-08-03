@@ -2,6 +2,7 @@
 layout: term
 title: emeklilik çağı
 slug: emeklilik-cagi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Emekli olma zamanı

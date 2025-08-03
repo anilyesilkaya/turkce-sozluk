@@ -2,6 +2,7 @@
 layout: term
 title: debelenebilmek
 slug: debelenebilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Debelenme ihtimali veya imkânı bulunmak

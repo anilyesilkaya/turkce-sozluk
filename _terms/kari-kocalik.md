@@ -2,6 +2,7 @@
 layout: term
 title: karı kocalık
 slug: kari-kocalik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karı koca olma durumu

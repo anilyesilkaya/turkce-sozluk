@@ -2,6 +2,7 @@
 layout: term
 title: kirletilebilmek
 slug: kirletilebilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kirletilme ihtimali veya imkânı bulunmak

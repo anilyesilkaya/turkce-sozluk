@@ -2,6 +2,7 @@
 layout: term
 title: çadırlı
 slug: cadirli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çadırı olan

@@ -2,6 +2,7 @@
 layout: term
 title: koyut
 slug: koyut
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► ön doğru

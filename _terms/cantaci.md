@@ -2,6 +2,7 @@
 layout: term
 title: çantacı
 slug: cantaci
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çanta yapan veya satan kimse

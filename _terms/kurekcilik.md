@@ -2,6 +2,7 @@
 layout: term
 title: kürekçilik
 slug: kurekcilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kürek yapma veya satma işi

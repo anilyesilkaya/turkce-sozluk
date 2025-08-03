@@ -2,6 +2,7 @@
 layout: term
 title: tevkif etmek
 slug: tevkif-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - tutuklamak

@@ -2,6 +2,7 @@
 layout: term
 title: cinsel sapıklık
 slug: cinsel-sapiklik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cinsel sapık olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: çeğmellenmek
 slug: cegmellenmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Yay veya çengel biçimini almak

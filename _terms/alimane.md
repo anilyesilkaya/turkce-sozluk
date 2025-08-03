@@ -2,6 +2,7 @@
 layout: term
 title: âlimane
 slug: alimane
+letter: Â
 lisan: Arapça ʿālim + Farsça -āne
 anlamlar:
 - Âlime yakışan

@@ -2,6 +2,7 @@
 layout: term
 title: zil kalmak
 slug: zil-kalmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - parasız kalmak

@@ -2,6 +2,7 @@
 layout: term
 title: titreşim
 slug: titresim
+letter: T
 lisan: Türkçe
 anlamlar:
 - Küçük ve hızlı salınım; ihtizaz, vibrasyon, rezonans

@@ -2,6 +2,7 @@
 layout: term
 title: pataklamak
 slug: pataklamak
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► dövmek

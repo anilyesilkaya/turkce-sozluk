@@ -2,6 +2,7 @@
 layout: term
 title: hasretli
 slug: hasretli
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► özlemli

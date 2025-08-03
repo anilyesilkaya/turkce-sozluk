@@ -2,6 +2,7 @@
 layout: term
 title: ayraç
 slug: ayrac
+letter: A
 lisan: Türkçe
 anlamlar:
 - Cümledeki anlama eklenen bilgilerin başına ve sonuna getirilen yay veya köşeli biçimlerdeki işaret; parantez

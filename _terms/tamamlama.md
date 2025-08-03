@@ -2,6 +2,7 @@
 layout: term
 title: tamamlama
 slug: tamamlama
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tamamlamak işi; tamlama, itmam

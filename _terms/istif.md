@@ -2,6 +2,7 @@
 layout: term
 title: istif
 slug: istif
+letter: I
 lisan: Rumca
 anlamlar:
 - Eşya veya başka nesnelerin düzgün bir biçimde üst üste konulmasıyla oluşan yığın

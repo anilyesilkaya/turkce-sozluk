@@ -2,6 +2,7 @@
 layout: term
 title: portmone
 slug: portmone
+letter: P
 lisan: Fransızca porte-monnaie
 anlamlar:
 - Bozuk para cüzdanı

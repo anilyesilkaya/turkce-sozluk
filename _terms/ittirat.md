@@ -2,6 +2,7 @@
 layout: term
 title: ıttırat
 slug: ittirat
+letter: I
 lisan: Arapça iṭṭirād
 anlamlar:
 - Birbirini izleme, birbiri arkasından gelme, düzenli sıralanma

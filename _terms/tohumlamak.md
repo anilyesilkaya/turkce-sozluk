@@ -2,6 +2,7 @@
 layout: term
 title: tohumlamak
 slug: tohumlamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► döllemek

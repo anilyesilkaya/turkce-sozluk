@@ -2,6 +2,7 @@
 layout: term
 title: höpürdek
 slug: hopurdek
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► yudum

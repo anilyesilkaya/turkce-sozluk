@@ -2,6 +2,7 @@
 layout: term
 title: 'özçekim çubuğu '
 slug: ozcekim-cubugu
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Özçekim yapmak için kullanılan çubuk

@@ -2,6 +2,7 @@
 layout: term
 title: tedavülde olmak
 slug: tedavulde-olmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - para vb. geçerli olmak, sürümde bulunmak

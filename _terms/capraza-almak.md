@@ -2,6 +2,7 @@
 layout: term
 title: çapraza almak
 slug: capraza-almak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - karşı yönlerden kuşatmak

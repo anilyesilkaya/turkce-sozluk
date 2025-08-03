@@ -2,6 +2,7 @@
 layout: term
 title: kasa fişi
 slug: kasa-fisi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Satın aldığı mal veya hizmet için ödediği para karşılığında müşteriye yazar kasadan çıkarılarak verilen küçük kâğıt belge

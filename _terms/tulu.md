@@ -2,6 +2,7 @@
 layout: term
 title: tülü
 slug: tulu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Özel güreşlerde yararlanılan, çift hörgüçlü, uzun tüylü erkek deve

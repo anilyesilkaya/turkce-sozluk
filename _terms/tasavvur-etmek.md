@@ -2,6 +2,7 @@
 layout: term
 title: tasavvur etmek
 slug: tasavvur-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - zihinde canlandırmak, göz önüne getirmek

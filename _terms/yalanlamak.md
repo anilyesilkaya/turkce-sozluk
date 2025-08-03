@@ -2,6 +2,7 @@
 layout: term
 title: yalanlamak
 slug: yalanlamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Haber veya sözün gerçek olmadığını bildirmek, yalan olduğunu açıklamak; tekzip etmek

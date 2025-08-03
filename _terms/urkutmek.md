@@ -2,6 +2,7 @@
 layout: term
 title: ürkütmek
 slug: urkutmek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Ürküntü vermek

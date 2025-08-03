@@ -2,6 +2,7 @@
 layout: term
 title: hayalhane
 slug: hayalhane
+letter: H
 lisan: Arapça ḫayāl + Farsça ḫāne
 anlamlar:
 - Karagöz oynatılan yer

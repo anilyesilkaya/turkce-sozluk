@@ -2,6 +2,7 @@
 layout: term
 title: adam gibi
 slug: adam-gibi
+letter: A
 lisan: Türkçe
 anlamlar:
 - terbiyeli, akıllı uslu

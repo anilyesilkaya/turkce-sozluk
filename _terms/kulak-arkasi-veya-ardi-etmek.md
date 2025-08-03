@@ -2,6 +2,7 @@
 layout: term
 title: kulak arkası (veya ardı) etmek
 slug: kulak-arkasi-veya-ardi-etmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - dikkate almamak, göz önünde tutmamak

@@ -2,6 +2,7 @@
 layout: term
 title: güven vermek
 slug: guven-vermek
+letter: G
 lisan: Türkçe
 anlamlar:
 - güven duygusu uyandırmak, itimat telkin etmek

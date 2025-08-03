@@ -2,6 +2,7 @@
 layout: term
 title: gecekonducu
 slug: gecekonducu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gecekonduda oturan kimse; konducu

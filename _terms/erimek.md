@@ -2,6 +2,7 @@
 layout: term
 title: erimek
 slug: erimek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Katı cisim sıvı içine karışarak sıvı durumuna geçmek

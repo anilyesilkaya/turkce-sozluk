@@ -2,6 +2,7 @@
 layout: term
 title: hayır (veya hayrını) görmemek
 slug: hayir-veya-hayrini-gormemek
+letter: H
 lisan: Türkçe
 anlamlar:
 - bir şey kendisine yararlı olmamak

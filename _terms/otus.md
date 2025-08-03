@@ -2,6 +2,7 @@
 layout: term
 title: ötüş
 slug: otus
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ötmek işi

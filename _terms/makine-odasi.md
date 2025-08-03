@@ -2,6 +2,7 @@
 layout: term
 title: makine odası
 slug: makine-odasi
+letter: M
 lisan: Türkçe
 anlamlar:
 - Makinelerin onarıldığı yer

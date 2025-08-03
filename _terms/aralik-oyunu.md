@@ -2,6 +2,7 @@
 layout: term
 title: aralık oyunu
 slug: aralik-oyunu
+letter: A
 lisan: Türkçe
 anlamlar:
 - İki perde arasında yapılan koro, bale, monolog vb. eğlendirici oyun

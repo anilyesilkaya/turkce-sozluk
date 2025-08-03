@@ -2,6 +2,7 @@
 layout: term
 title: çökebilme
 slug: cokebilme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çökebilmek işi

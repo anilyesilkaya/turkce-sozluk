@@ -2,6 +2,7 @@
 layout: term
 title: uygarlıkçılık
 slug: uygarlikcilik
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uygar olmayı benimseme ve çağdaş uygarlıklara ulaşma tutumu; medeniyetçilik

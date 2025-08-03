@@ -2,6 +2,7 @@
 layout: term
 title: boylu boyunca
 slug: boylu-boyunca
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boyu uzanabildiği kadar, boyu uzunluğunca; boylu boyuna

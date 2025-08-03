@@ -2,6 +2,7 @@
 layout: term
 title: sertleşme
 slug: sertlesme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sertleşmek işi

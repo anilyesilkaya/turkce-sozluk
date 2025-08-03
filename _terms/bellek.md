@@ -2,6 +2,7 @@
 layout: term
 title: bellek
 slug: bellek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Yaşananları, öğrenilen konuları, bunların geçmişle ilişkisini bilinçli olarak zihinde saklama gücü; an (III), dağar, dağarcık, akıl, hafıza, yâd, zihin

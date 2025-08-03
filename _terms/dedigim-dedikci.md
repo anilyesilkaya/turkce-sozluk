@@ -2,6 +2,7 @@
 layout: term
 title: dediğim dedikçi
 slug: dedigim-dedikci
+letter: D
 lisan: Türkçe
 anlamlar:
 - Her isteğini yaptıran, inatçı, iddiacı kimse

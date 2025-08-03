@@ -2,6 +2,7 @@
 layout: term
 title: nefret duymak
 slug: nefret-duymak
+letter: N
 lisan: Türkçe
 anlamlar:
 - birinden tiksinmek, hoşlanmamak

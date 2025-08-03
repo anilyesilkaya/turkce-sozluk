@@ -2,6 +2,7 @@
 layout: term
 title: fenik
 slug: fenik
+letter: F
 lisan: Almanca Pfennig
 anlamlar:
 - Alman markının yüzde biri

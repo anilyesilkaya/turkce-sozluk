@@ -2,6 +2,7 @@
 layout: term
 title: ayağının tozu ile
 slug: ayaginin-tozu-ile
+letter: A
 lisan: Türkçe
 anlamlar:
 - yoldan gelir gelmez, henüz dinlenmeden

@@ -2,6 +2,7 @@
 layout: term
 title: maskara
 slug: maskara
+letter: M
 lisan: İtalyanca maschera
 anlamlar:
 - ► rimel

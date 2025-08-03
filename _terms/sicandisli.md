@@ -2,6 +2,7 @@
 layout: term
 title: sıçandişli
 slug: sicandisli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıçandişi türünde olan

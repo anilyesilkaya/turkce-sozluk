@@ -2,6 +2,7 @@
 layout: term
 title: kaytanlı
 slug: kaytanli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaytanı olan, kaytanla dikilmiş

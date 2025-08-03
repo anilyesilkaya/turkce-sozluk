@@ -2,6 +2,7 @@
 layout: term
 title: mezar
 slug: mezar
+letter: M
 lisan: Arapça mezār
 anlamlar:
 - Ölünün gömülü olduğu yer; çukur, kara toprak, kara yer, gömüt, kabir, sin (I), ebedî istirahatgâh, makber, metfen

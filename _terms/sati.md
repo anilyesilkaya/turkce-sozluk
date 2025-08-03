@@ -2,6 +2,7 @@
 layout: term
 title: satı
 slug: sati
+letter: S
 lisan: Türkçe
 anlamlar:
 - Satmak işi; satış

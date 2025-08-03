@@ -2,6 +2,7 @@
 layout: term
 title: uzun atlama
 slug: uzun-atlama
+letter: U
 lisan: Türkçe
 anlamlar:
 - Geriden hızlıca gelip, bacakların sıçrama gücü ile yerden kesilerek vücudun alabildiğine uzağa konması

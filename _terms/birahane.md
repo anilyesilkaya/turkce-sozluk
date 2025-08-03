@@ -2,6 +2,7 @@
 layout: term
 title: birahane
 slug: birahane
+letter: B
 lisan: İtalyanca birra + Farsça ḫāne
 anlamlar:
 - Genellikle bira içilen, aynı zamanda çabuk hazırlanan bazı sıcak veya soğuk yemeklerin de yenildiği yer

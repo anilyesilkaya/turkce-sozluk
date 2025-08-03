@@ -2,6 +2,7 @@
 layout: term
 title: halterci
 slug: halterci
+letter: H
 lisan: Türkçe
 anlamlar:
 - Halter sporu yapan kimse

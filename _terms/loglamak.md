@@ -2,6 +2,7 @@
 layout: term
 title: loğlamak
 slug: loglamak
+letter: L
 lisan: Türkçe
 anlamlar:
 - Üzerinde loğ gezdirip toprağı bastırmak, sıkıştırmak

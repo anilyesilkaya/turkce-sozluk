@@ -2,6 +2,7 @@
 layout: term
 title: pas
 slug: pas
+letter: P
 lisan: Fransızca passe
 anlamlar:
 - Bazı top oyunlarında oyunculardan birinin topu takım arkadaşına atması

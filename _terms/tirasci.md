@@ -2,6 +2,7 @@
 layout: term
 title: tıraşçı
 slug: tirasci
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► palavracı

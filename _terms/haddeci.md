@@ -2,6 +2,7 @@
 layout: term
 title: haddeci
 slug: haddeci
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hadde işiyle uğraşan kimse

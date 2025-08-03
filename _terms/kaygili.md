@@ -2,6 +2,7 @@
 layout: term
 title: kaygılı
 slug: kaygili
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaygısı olan; tasalı, endişeli, gamlı, mağmum

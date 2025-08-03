@@ -2,6 +2,7 @@
 layout: term
 title: bugünden yarına
 slug: bugunden-yarina
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bugün ve gelecekte

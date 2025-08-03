@@ -2,6 +2,7 @@
 layout: term
 title: caydırmak
 slug: caydirmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cayma işini yaptırmak

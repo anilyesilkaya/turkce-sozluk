@@ -2,6 +2,7 @@
 layout: term
 title: Halaç Türkçesi
 slug: halac-turkcesi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Halaç Türklerinin kullandığı konuşma dili; Halaçça

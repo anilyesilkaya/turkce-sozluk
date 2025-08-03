@@ -2,6 +2,7 @@
 layout: term
 title: yardımlaşma
 slug: yardimlasma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yardımlaşmak işi; teavün

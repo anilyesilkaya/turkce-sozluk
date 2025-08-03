@@ -2,6 +2,7 @@
 layout: term
 title: boğuşmak
 slug: bogusmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Karşılıklı olarak birbirinin boğazına sarılmak, dövüşmek

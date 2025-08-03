@@ -2,6 +2,7 @@
 layout: term
 title: eklemli
 slug: eklemli
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eklemi olan

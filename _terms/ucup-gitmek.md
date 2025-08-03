@@ -2,6 +2,7 @@
 layout: term
 title: uçup gitmek
 slug: ucup-gitmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - kaybolmak, yok olmak

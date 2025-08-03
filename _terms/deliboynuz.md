@@ -2,6 +2,7 @@
 layout: term
 title: deliboynuz
 slug: deliboynuz
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► erguvan

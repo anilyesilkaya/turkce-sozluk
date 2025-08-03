@@ -2,6 +2,7 @@
 layout: term
 title: yenebilmek
 slug: yenebilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yenme ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: belediyeci
 slug: belediyeci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belediye işleri görevlisi

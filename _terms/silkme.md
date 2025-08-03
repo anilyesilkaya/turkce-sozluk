@@ -2,6 +2,7 @@
 layout: term
 title: silkme
 slug: silkme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Silkmek işi

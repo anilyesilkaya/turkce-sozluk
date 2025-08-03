@@ -2,6 +2,7 @@
 layout: term
 title: denenebilme
 slug: denenebilme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Denenebilmek işi

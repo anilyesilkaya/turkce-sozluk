@@ -2,6 +2,7 @@
 layout: term
 title: çaprazlamak
 slug: caprazlamak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çapraz duruma getirmek

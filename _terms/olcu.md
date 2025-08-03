@@ -2,6 +2,7 @@
 layout: term
 title: ölçü
 slug: olcu
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Bir niceliği, o nicelik için kabul edilmiş birimlerden birine göre oranlayarak değerlendirme; endaze, mizan

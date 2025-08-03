@@ -2,6 +2,7 @@
 layout: term
 title: koloni
 slug: koloni
+letter: K
 lisan: Fransızca colonie
 anlamlar:
 - ► sömürge

@@ -2,6 +2,7 @@
 layout: term
 title: tarih atlası
 slug: tarih-atlasi
+letter: T
 lisan: Türkçe
 anlamlar:
 - İçinde ülkelerin veya bölgelerin tarihî dönemlerine ait haritalarının bulunduğu atlas

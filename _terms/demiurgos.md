@@ -2,6 +2,7 @@
 layout: term
 title: demiurgos
 slug: demiurgos
+letter: D
 lisan: Yunanca
 anlamlar:
 - Eflatun felsefesinde evreni yaratan, yaratıcı Tanrı

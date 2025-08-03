@@ -2,6 +2,7 @@
 layout: term
 title: sansürcülük
 slug: sansurculuk
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sansürcünün işi; sıkı denetimcilik

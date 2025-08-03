@@ -2,6 +2,7 @@
 layout: term
 title: saçılış
 slug: sacilis
+letter: S
 lisan: Türkçe
 anlamlar:
 - Saçılmak işi

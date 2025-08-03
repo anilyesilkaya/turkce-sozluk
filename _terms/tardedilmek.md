@@ -2,6 +2,7 @@
 layout: term
 title: tardedilmek
 slug: tardedilmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► savılmak

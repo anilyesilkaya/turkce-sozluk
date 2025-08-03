@@ -2,6 +2,7 @@
 layout: term
 title: kerizci
 slug: kerizci
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► çalgıcı

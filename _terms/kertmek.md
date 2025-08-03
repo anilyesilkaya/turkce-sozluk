@@ -2,6 +2,7 @@
 layout: term
 title: kertmek
 slug: kertmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► çentmek

@@ -2,6 +2,7 @@
 layout: term
 title: tozutma
 slug: tozutma
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tozutmak durumu

@@ -2,6 +2,7 @@
 layout: term
 title: büyülemek
 slug: buyulemek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Büyü ile etki altına almak; afsunlamak, efsunlamak

@@ -2,6 +2,7 @@
 layout: term
 title: akile
 slug: akile
+letter: A
 lisan: Arapça ākile
 anlamlar:
 - Akıllı olan (kadın)

@@ -2,6 +2,7 @@
 layout: term
 title: navteks
 slug: navteks
+letter: N
 lisan: İngilizce (Navigational Telex sözünden)
 anlamlar:
 - Gemilere olası tehlike, emniyet, hava raporu ve uyarılarını orta frekansta otomatik olarak ileten uluslararası haberleşme sistemi

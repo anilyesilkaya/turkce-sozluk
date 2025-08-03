@@ -2,6 +2,7 @@
 layout: term
 title: açık ağıl
 slug: acik-agil
+letter: A
 lisan: Türkçe
 anlamlar:
 - Koyunların ve keçilerin barındırıldıkları üstü açık, etrafı taş duvar veya çitlerle çevrili basit barınak

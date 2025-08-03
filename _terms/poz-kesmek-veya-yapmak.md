@@ -2,6 +2,7 @@
 layout: term
 title: poz kesmek (veya yapmak)
 slug: poz-kesmek-veya-yapmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - çalım atmak

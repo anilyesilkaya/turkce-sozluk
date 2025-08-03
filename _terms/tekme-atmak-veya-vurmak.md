@@ -2,6 +2,7 @@
 layout: term
 title: tekme atmak (veya vurmak)
 slug: tekme-atmak-veya-vurmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - ayakla bir yere sertçe vurmak

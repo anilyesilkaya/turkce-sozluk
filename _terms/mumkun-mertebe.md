@@ -2,6 +2,7 @@
 layout: term
 title: mümkün mertebe
 slug: mumkun-mertebe
+letter: M
 lisan: Türkçe
 anlamlar:
 - Olabildiğince, yapabildiği kadar

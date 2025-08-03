@@ -2,6 +2,7 @@
 layout: term
 title: eğleniş
 slug: eglenis
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eğlenmek işi

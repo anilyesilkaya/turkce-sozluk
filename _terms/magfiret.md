@@ -2,6 +2,7 @@
 layout: term
 title: mağfiret
 slug: magfiret
+letter: M
 lisan: Arapça maġfiret
 anlamlar:
 - ► bağışlama

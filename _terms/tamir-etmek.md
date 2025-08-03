@@ -2,6 +2,7 @@
 layout: term
 title: tamir etmek
 slug: tamir-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - onarmak

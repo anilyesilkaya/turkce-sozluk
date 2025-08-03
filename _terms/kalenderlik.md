@@ -2,6 +2,7 @@
 layout: term
 title: kalenderlik
 slug: kalenderlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalender olma durumu

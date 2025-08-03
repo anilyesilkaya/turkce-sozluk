@@ -2,6 +2,7 @@
 layout: term
 title: nesiç
 slug: nesic
+letter: N
 lisan: Arapça nesc
 anlamlar:
 - ► doku

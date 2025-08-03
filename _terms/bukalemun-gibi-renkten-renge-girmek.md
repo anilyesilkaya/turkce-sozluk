@@ -2,6 +2,7 @@
 layout: term
 title: bukalemun gibi renkten renge girmek
 slug: bukalemun-gibi-renkten-renge-girmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - sürekli düşünce değiştirmek

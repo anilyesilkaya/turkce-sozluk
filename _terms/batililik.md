@@ -2,6 +2,7 @@
 layout: term
 title: Batılılık
 slug: batililik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Batılı olma durumu; Garplılık

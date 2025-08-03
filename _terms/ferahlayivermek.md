@@ -2,6 +2,7 @@
 layout: term
 title: ferahlayıvermek
 slug: ferahlayivermek
+letter: F
 lisan: Türkçe
 anlamlar:
 - Çabucak ferahlamak

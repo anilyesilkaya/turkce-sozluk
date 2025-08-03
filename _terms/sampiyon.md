@@ -2,6 +2,7 @@
 layout: term
 title: şampiyon
 slug: sampiyon
+letter: Ş
 lisan: Fransızca champion
 anlamlar:
 - Ulusal ve uluslararası bir yarışmada ilk dereceyi alan, birinci olan kimse veya takım; böke

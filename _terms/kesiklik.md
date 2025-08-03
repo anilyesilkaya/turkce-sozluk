@@ -2,6 +2,7 @@
 layout: term
 title: kesiklik
 slug: kesiklik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kesik olma durumu

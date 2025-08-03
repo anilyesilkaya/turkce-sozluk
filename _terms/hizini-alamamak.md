@@ -2,6 +2,7 @@
 layout: term
 title: hızını alamamak
 slug: hizini-alamamak
+letter: H
 lisan: Türkçe
 anlamlar:
 - hızlı gidişini yavaşlatamamak

@@ -2,6 +2,7 @@
 layout: term
 title: hapislik
 slug: hapislik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hapiste bulunma durumu veya süresi

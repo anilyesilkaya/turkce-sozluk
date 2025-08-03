@@ -2,6 +2,7 @@
 layout: term
 title: musallat etmek
 slug: musallat-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - birini, bir başkasının başına bela etmek

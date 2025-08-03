@@ -2,6 +2,7 @@
 layout: term
 title: etekleri zil (veya ıslık veya çalpara) çalmak
 slug: etekleri-zil-veya-islik-veya-calpara-calmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - çok sevinmek

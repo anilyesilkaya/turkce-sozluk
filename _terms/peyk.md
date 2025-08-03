@@ -2,6 +2,7 @@
 layout: term
 title: peyk
 slug: peyk
+letter: P
 lisan: Farsça peyk
 anlamlar:
 - Haber ve mektup taşıyan kimse

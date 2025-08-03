@@ -2,6 +2,7 @@
 layout: term
 title: anofel
 slug: anofel
+letter: A
 lisan: Fransızca anophèle
 anlamlar:
 - ► sıtma sivrisineği

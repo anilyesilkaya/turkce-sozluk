@@ -2,6 +2,7 @@
 layout: term
 title: bozacı
 slug: bozaci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boza yapan veya satan kimse

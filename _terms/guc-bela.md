@@ -2,6 +2,7 @@
 layout: term
 title: güç bela
 slug: guc-bela
+letter: G
 lisan: Türkçe
 anlamlar:
 - Zorlukla, güçlük çekerek

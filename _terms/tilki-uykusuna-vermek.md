@@ -2,6 +2,7 @@
 layout: term
 title: tilki uykusuna vermek
 slug: tilki-uykusuna-vermek
+letter: T
 lisan: Türkçe
 anlamlar:
 - uyuyormuş gibi yaparak fırsat kollamak

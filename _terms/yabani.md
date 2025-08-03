@@ -2,6 +2,7 @@
 layout: term
 title: yabani
 slug: yabani
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Doğada yaşayan, evcil olmayan (hayvan); yabanıl, vahşi, evcil karşıtı

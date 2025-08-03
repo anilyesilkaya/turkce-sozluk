@@ -2,6 +2,7 @@
 layout: term
 title: bukalemun
 slug: bukalemun
+letter: B
 lisan: Arapça buḳalemūn
 anlamlar:
 - Bukalemungillerden, 20-30 santimetre boyunda, bulunduğu ortama uygun renk değiştirmesiyle ünlü bir tür sürüngen; kaya keleri (Chamaeleo chamaeleon)

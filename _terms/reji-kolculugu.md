@@ -2,6 +2,7 @@
 layout: term
 title: reji kolculuğu
 slug: reji-kolculugu
+letter: R
 lisan: Türkçe
 anlamlar:
 - ► tütün kolculuğu

@@ -2,6 +2,7 @@
 layout: term
 title: ersemek
 slug: ersemek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Erkek istemek

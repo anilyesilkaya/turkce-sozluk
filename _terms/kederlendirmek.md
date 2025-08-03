@@ -2,6 +2,7 @@
 layout: term
 title: kederlendirmek
 slug: kederlendirmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Keder duymasına yol açmak, acı vermek

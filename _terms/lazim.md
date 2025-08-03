@@ -2,6 +2,7 @@
 layout: term
 title: lazım
 slug: lazim
+letter: L
 lisan: Arapça lāzim
 anlamlar:
 - ► gerek

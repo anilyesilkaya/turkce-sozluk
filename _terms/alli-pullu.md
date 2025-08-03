@@ -2,6 +2,7 @@
 layout: term
 title: allı pullu
 slug: alli-pullu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Göz alıcı renkler ve şeylerle süslenmiş

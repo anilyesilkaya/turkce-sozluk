@@ -2,6 +2,7 @@
 layout: term
 title: mubassırlık
 slug: mubassirlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mubassırın yaptığı iş

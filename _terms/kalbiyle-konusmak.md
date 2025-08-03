@@ -2,6 +2,7 @@
 layout: term
 title: kalbiyle konuşmak
 slug: kalbiyle-konusmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - düşüncelerini, duygu ağırlıklı bir biçimde anlatmak

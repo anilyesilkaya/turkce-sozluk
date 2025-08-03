@@ -2,6 +2,7 @@
 layout: term
 title: keleş keleş sırıtmak
 slug: keles-keles-siritmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - pis pis gülmek

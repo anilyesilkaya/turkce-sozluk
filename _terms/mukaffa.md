@@ -2,6 +2,7 @@
 layout: term
 title: mukaffa
 slug: mukaffa
+letter: M
 lisan: Arapça muḳaffā
 anlamlar:
 - ► kafiyeli

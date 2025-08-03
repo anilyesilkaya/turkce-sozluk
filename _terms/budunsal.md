@@ -2,6 +2,7 @@
 layout: term
 title: budunsal
 slug: budunsal
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► etnik

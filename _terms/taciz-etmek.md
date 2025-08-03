@@ -2,6 +2,7 @@
 layout: term
 title: taciz etmek
 slug: taciz-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - sıkıntı vermek, rahatsız etmek

@@ -2,6 +2,7 @@
 layout: term
 title: yolcu
 slug: yolcu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yolculuğa çıkmış kimse

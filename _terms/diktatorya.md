@@ -2,6 +2,7 @@
 layout: term
 title: diktatorya
 slug: diktatorya
+letter: D
 lisan: Fransızca dictatoriat
 anlamlar:
 - ► diktatörlük

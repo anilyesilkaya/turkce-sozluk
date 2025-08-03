@@ -2,6 +2,7 @@
 layout: term
 title: bazlama
 slug: bazlama
+letter: B
 lisan: Türkçe
 anlamlar:
 - Sacda pişirilmiş yuvarlak ekmek; bazlamaç

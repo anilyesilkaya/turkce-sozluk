@@ -2,6 +2,7 @@
 layout: term
 title: bağlı olmak
 slug: bagli-olmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - tabi bulunmak

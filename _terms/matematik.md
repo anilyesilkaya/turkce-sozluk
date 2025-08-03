@@ -2,6 +2,7 @@
 layout: term
 title: matematik
 slug: matematik
+letter: M
 lisan: Fransızca mathématique
 anlamlar:
 - Aritmetik, cebir, geometri gibi sayı ve ölçü temeline dayanarak niceliklerin özelliklerini inceleyen bilimlerin ortak adı; riyaziye

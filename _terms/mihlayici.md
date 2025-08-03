@@ -2,6 +2,7 @@
 layout: term
 title: mıhlayıcı
 slug: mihlayici
+letter: M
 lisan: Türkçe
 anlamlar:
 - Altın, gümüş vb. taşları metal yuvalara işleyen ve sıkıştıran usta

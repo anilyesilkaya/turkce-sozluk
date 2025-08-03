@@ -2,6 +2,7 @@
 layout: term
 title: diri kalmak
 slug: diri-kalmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - dinç, sağlıklı görünmek

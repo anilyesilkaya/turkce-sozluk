@@ -2,6 +2,7 @@
 layout: term
 title: veliaht
 slug: veliaht
+letter: V
 lisan: Arapça velī + ʿ ahd
 anlamlar:
 - Bir hükümdarın ölümünden veya tahttan çekilmesinden sonra tahta geçmeye aday olan kimse

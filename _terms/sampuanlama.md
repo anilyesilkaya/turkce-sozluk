@@ -2,6 +2,7 @@
 layout: term
 title: şampuanlama
 slug: sampuanlama
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şampuanlamak işi

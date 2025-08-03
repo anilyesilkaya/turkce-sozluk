@@ -2,6 +2,7 @@
 layout: term
 title: silahlık
 slug: silahlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kışlada erlerin silahlarını yerleştirip bıraktıkları yer

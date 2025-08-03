@@ -2,6 +2,7 @@
 layout: term
 title: eli geniş
 slug: eli-genis
+letter: E
 lisan: Türkçe
 anlamlar:
 - Geçimi iyi olan (kimse)

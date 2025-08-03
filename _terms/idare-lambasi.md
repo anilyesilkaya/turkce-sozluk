@@ -2,6 +2,7 @@
 layout: term
 title: idare lambası
 slug: idare-lambasi
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► idare kandili

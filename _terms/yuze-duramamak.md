@@ -2,6 +2,7 @@
 layout: term
 title: yüze duramamak
 slug: yuze-duramamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - birinin hatırından çıkamamak, birinin hatırını kıramamak

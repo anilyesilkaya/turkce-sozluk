@@ -2,6 +2,7 @@
 layout: term
 title: Abbas
 slug: abbas
+letter: A
 lisan: Arapça ʿabbās
 anlamlar:
 - '"Yola çıkacak veya ölümü yaklaşan kimse" anlamlarındaki Abbas yolcu deyiminde geçen bir söz'

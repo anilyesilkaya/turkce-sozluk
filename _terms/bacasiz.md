@@ -2,6 +2,7 @@
 layout: term
 title: bacasız
 slug: bacasiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bacası olmayan

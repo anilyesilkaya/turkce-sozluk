@@ -2,6 +2,7 @@
 layout: term
 title: lalettayin
 slug: lalettayin
+letter: L
 lisan: Arapça lā ʿalāʿt-taʿyīn
 anlamlar:
 - ► gelişigüzel

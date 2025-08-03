@@ -2,6 +2,7 @@
 layout: term
 title: pilot
 slug: pilot
+letter: P
 lisan: Fransızca pilote
 anlamlar:
 - Bir hava taşıtını kullanmak ve yönetmekle görevli kimse; tayyareci, uçman, uçucu

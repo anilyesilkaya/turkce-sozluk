@@ -2,6 +2,7 @@
 layout: term
 title: tesir etmek
 slug: tesir-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - etkilemek

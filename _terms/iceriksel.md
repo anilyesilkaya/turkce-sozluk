@@ -2,6 +2,7 @@
 layout: term
 title: içeriksel
 slug: iceriksel
+letter: I
 lisan: Türkçe
 anlamlar:
 - İçerikle ilgili

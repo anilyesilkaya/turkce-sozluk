@@ -2,6 +2,7 @@
 layout: term
 title: kıvanç
 slug: kivanc
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► övünme

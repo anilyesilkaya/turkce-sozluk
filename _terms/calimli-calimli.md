@@ -2,6 +2,7 @@
 layout: term
 title: çalımlı çalımlı
 slug: calimli-calimli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çalım satarak

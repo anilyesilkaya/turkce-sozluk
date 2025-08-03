@@ -2,6 +2,7 @@
 layout: term
 title: zeplin
 slug: zeplin
+letter: Z
 lisan: Almanca Zeppelin
 anlamlar:
 - ► hava gemisi

@@ -2,6 +2,7 @@
 layout: term
 title: grip
 slug: grip
+letter: G
 lisan: Fransızca grippe
 anlamlar:
 - Yorgunluk, kırıklık, kas ağrıları, ateş vb. belirtileri olan, bulaşıcı, salgın hastalık; paçavra hastalığı, İspanyol nezlesi, enflüanza

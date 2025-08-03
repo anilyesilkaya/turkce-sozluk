@@ -2,6 +2,7 @@
 layout: term
 title: failimuhtar
 slug: failimuhtar
+letter: F
 lisan: Arapça fāʿil + muḫtār
 anlamlar:
 - Kendi isteğiyle hareket eden, isteğini yapmakta serbest olan

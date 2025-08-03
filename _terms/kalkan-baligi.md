@@ -2,6 +2,7 @@
 layout: term
 title: kalkan balığı
 slug: kalkan-baligi
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kalkan (II)

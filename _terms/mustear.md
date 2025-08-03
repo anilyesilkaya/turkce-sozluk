@@ -2,6 +2,7 @@
 layout: term
 title: müstear
 slug: mustear
+letter: M
 lisan: Arapça musteʿār
 anlamlar:
 - ► takma

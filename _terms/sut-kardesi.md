@@ -2,6 +2,7 @@
 layout: term
 title: süt kardeşi
 slug: sut-kardesi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Aynı kadından süt emmiş, kardeş olmayan çocukların her biri

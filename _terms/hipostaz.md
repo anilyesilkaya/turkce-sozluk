@@ -2,6 +2,7 @@
 layout: term
 title: hipostaz
 slug: hipostaz
+letter: H
 lisan: Fransızca hypostase
 anlamlar:
 - Bazı felsefe ve din kuramlarının dayandığı temellerden her biri; uknum

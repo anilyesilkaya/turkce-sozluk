@@ -2,6 +2,7 @@
 layout: term
 title: bereketli
 slug: bereketli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Alışılandan veya beklenilenden fazla olan; artağan, mübarek

@@ -2,6 +2,7 @@
 layout: term
 title: mükemmeliyet
 slug: mukemmeliyet
+letter: M
 lisan: Arapça mukemmeliyyet
 anlamlar:
 - ► mükemmellik

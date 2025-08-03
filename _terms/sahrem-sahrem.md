@@ -2,6 +2,7 @@
 layout: term
 title: şahrem şahrem
 slug: sahrem-sahrem
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Sık ve derin yarıklar hâlinde

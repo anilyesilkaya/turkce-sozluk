@@ -2,6 +2,7 @@
 layout: term
 title: problem
 slug: problem
+letter: P
 lisan: Fransızca problème
 anlamlar:
 - Teoremler veya kurallar yardımıyla çözülmesi istenen soru; mesele

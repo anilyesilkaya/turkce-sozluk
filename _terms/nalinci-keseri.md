@@ -2,6 +2,7 @@
 layout: term
 title: nalıncı keseri
 slug: nalinci-keseri
+letter: N
 lisan: Türkçe
 anlamlar:
 - '"Yaptığı işlerde hep kendi çıkarını düşünmek" anlamındaki nalıncı keseri gibi kendine yontmak deyiminde geçen bir söz'

@@ -2,6 +2,7 @@
 layout: term
 title: gönderilmek
 slug: gonderilmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gönderme işi yapılmak veya gönderme işine konu olmak

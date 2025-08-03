@@ -2,6 +2,7 @@
 layout: term
 title: yapılış
 slug: yapilis
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yapılmak işi

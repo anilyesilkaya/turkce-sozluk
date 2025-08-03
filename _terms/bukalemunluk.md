@@ -2,6 +2,7 @@
 layout: term
 title: bukalemunluk
 slug: bukalemunluk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bukalemun olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: münkir olmak
 slug: munkir-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - kabul etmemek, inkâr etmek

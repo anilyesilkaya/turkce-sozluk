@@ -2,6 +2,7 @@
 layout: term
 title: kişisel
 slug: kisisel
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kişi ile ilgili, kişiye ilişkin, kişinin kendi malı olan; şahsi, zatî

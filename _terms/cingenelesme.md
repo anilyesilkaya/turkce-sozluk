@@ -2,6 +2,7 @@
 layout: term
 title: Çingeneleşme
 slug: cingenelesme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çingeneleşmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: kimi
 slug: kimi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir kısım (insan)

@@ -2,6 +2,7 @@
 layout: term
 title: yırtılmışlık
 slug: yirtilmislik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yırtılmış olma durumu

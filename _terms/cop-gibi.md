@@ -2,6 +2,7 @@
 layout: term
 title: çöp gibi
 slug: cop-gibi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - çok ince, zayıf

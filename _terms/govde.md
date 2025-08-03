@@ -2,6 +2,7 @@
 layout: term
 title: gövde
 slug: govde
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bir şeyin asıl bölümü

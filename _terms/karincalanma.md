@@ -2,6 +2,7 @@
 layout: term
 title: karıncalanma
 slug: karincalanma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karıncalanmak işi

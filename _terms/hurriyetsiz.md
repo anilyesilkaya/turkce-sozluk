@@ -2,6 +2,7 @@
 layout: term
 title: hürriyetsiz
 slug: hurriyetsiz
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► özgürlüksüz

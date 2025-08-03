@@ -2,6 +2,7 @@
 layout: term
 title: kösnülme
 slug: kosnulme
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kızışma

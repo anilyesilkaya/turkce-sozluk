@@ -2,6 +2,7 @@
 layout: term
 title: bağ bahçe
 slug: bag-bahce
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bahçe, bostan vb. taşınmaz mal

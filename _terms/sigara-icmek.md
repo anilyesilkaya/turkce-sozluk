@@ -2,6 +2,7 @@
 layout: term
 title: sigara içmek
 slug: sigara-icmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - sigarayı bir ucundan yakıp öbür ucundan dumanını emerek içine çekmek

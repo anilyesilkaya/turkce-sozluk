@@ -2,6 +2,7 @@
 layout: term
 title: çevirim
 slug: cevirim
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çevirmek işi

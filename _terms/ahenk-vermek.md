@@ -2,6 +2,7 @@
 layout: term
 title: ahenk vermek
 slug: ahenk-vermek
+letter: A
 lisan: Türkçe
 anlamlar:
 - düzeni, uyumu sağlamak

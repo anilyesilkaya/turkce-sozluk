@@ -2,6 +2,7 @@
 layout: term
 title: bezikçi
 slug: bezikci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bezik oynayan kimse

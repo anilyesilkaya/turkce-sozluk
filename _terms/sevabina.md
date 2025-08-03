@@ -2,6 +2,7 @@
 layout: term
 title: sevabına
 slug: sevabina
+letter: S
 lisan: Türkçe
 anlamlar:
 - Maddi karşılık beklemeden sadece sevap kazanmak üzere

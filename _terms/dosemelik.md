@@ -2,6 +2,7 @@
 layout: term
 title: döşemelik
 slug: dosemelik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Yapılarda tabana döşemek için kullanılan (gereç)

@@ -2,6 +2,7 @@
 layout: term
 title: bütünlüklü
 slug: butunluklu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Derli toplu, kapsayıcı olan

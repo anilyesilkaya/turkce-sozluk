@@ -2,6 +2,7 @@
 layout: term
 title: olumlama
 slug: olumlama
+letter: O
 lisan: Türkçe
 anlamlar:
 - Olumluluğu ortaya koyma; icap

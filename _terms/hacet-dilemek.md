@@ -2,6 +2,7 @@
 layout: term
 title: hacet dilemek
 slug: hacet-dilemek
+letter: H
 lisan: Türkçe
 anlamlar:
 - istekte bulunmak

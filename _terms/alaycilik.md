@@ -2,6 +2,7 @@
 layout: term
 title: alaycılık
 slug: alaycilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alaycı olma durumu; müstehzilik

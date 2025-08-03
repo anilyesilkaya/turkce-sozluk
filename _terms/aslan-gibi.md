@@ -2,6 +2,7 @@
 layout: term
 title: aslan gibi
 slug: aslan-gibi
+letter: A
 lisan: Türkçe
 anlamlar:
 - boylu boslu, güçlü ve yakışıklı

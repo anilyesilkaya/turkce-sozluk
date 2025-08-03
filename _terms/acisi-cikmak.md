@@ -2,6 +2,7 @@
 layout: term
 title: acısı çıkmak
 slug: acisi-cikmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir şeyin olumsuz, kötü sonucu bir süre sonra ortaya çıkmak

@@ -2,6 +2,7 @@
 layout: term
 title: sarnıç
 slug: sarnic
+letter: S
 lisan: Arapça ṣahrīc, sihrīc
 anlamlar:
 - Yağmur sularının biriktirildiği üstü kapalı yapı

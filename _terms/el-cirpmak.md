@@ -2,6 +2,7 @@
 layout: term
 title: el çırpmak
 slug: el-cirpmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - alkışlamak, tempo tutmak

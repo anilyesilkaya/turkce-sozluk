@@ -2,6 +2,7 @@
 layout: term
 title: seleksiyon
 slug: seleksiyon
+letter: S
 lisan: Fransızca sélection
 anlamlar:
 - ► seçme

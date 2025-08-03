@@ -2,6 +2,7 @@
 layout: term
 title: bakıverme
 slug: bakiverme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bakıvermek işi

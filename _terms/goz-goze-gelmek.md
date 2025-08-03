@@ -2,6 +2,7 @@
 layout: term
 title: göz göze gelmek
 slug: goz-goze-gelmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - her iki tarafın bakışları karşılaşmak

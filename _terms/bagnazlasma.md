@@ -2,6 +2,7 @@
 layout: term
 title: bağnazlaşma
 slug: bagnazlasma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağnazlaşmak durumu

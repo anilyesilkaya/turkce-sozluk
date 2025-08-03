@@ -2,6 +2,7 @@
 layout: term
 title: budak özü
 slug: budak-ozu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Taze sürgün

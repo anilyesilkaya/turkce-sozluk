@@ -2,6 +2,7 @@
 layout: term
 title: tümel önerme
 slug: tumel-onerme
+letter: T
 lisan: Türkçe
 anlamlar:
 - Konunun kapsamına giren bütün bireyler için belli bir şey bildiren önerme

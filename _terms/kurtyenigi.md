@@ -2,6 +2,7 @@
 layout: term
 title: kurtyeniği
 slug: kurtyenigi
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► bityeniği

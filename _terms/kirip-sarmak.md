@@ -2,6 +2,7 @@
 layout: term
 title: kırıp sarmak
 slug: kirip-sarmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir şeyi yapmak için her türlü imkândan güçlükle yararlanmak

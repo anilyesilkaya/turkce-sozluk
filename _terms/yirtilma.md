@@ -2,6 +2,7 @@
 layout: term
 title: yırtılma
 slug: yirtilma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yırtılmak işi

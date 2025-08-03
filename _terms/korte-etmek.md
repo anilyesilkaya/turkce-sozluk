@@ -2,6 +2,7 @@
 layout: term
 title: korte etmek
 slug: korte-etmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - oynaşmak

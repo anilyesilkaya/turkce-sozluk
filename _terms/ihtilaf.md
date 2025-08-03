@@ -2,6 +2,7 @@
 layout: term
 title: ihtilaf
 slug: ihtilaf
+letter: I
 lisan: Arapça iḫtilāf
 anlamlar:
 - ► anlaşmazlık

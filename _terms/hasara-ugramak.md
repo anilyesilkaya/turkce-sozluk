@@ -2,6 +2,7 @@
 layout: term
 title: hasara uğramak
 slug: hasara-ugramak
+letter: H
 lisan: Türkçe
 anlamlar:
 - zarar görmek, harap olmak

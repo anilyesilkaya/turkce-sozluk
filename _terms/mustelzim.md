@@ -2,6 +2,7 @@
 layout: term
 title: müstelzim
 slug: mustelzim
+letter: M
 lisan: Arapça mustelzim
 anlamlar:
 - Gerektiren, gerekli kılan

@@ -2,6 +2,7 @@
 layout: term
 title: karmanyola
 slug: karmanyola
+letter: K
 lisan: İtalyanca carmagnola
 anlamlar:
 - Şehir içindeki ıssız yollarda ölümle korkutarak yapılan soygunculuk

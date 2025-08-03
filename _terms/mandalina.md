@@ -2,6 +2,7 @@
 layout: term
 title: mandalina
 slug: mandalina
+letter: M
 lisan: İtalyanca mandarino
 anlamlar:
 - Turunçgillerden, ılıman iklimlerde yetişen ve portakala çok benzeyen bir ağaç (Citrus nobilis)

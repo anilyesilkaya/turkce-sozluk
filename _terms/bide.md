@@ -2,6 +2,7 @@
 layout: term
 title: bide
 slug: bide
+letter: B
 lisan: Fransızca bidet
 anlamlar:
 - Bedenin belden aşağı bölümlerini yıkamakta kullanılan tuvalet aracı

@@ -2,6 +2,7 @@
 layout: term
 title: bizar
 slug: bizar
+letter: B
 lisan: Farsça bīzār
 anlamlar:
 - Tedirgin, bezmiş, usanmış, bezginlik getirmiş bir biçimde

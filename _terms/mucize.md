@@ -2,6 +2,7 @@
 layout: term
 title: mucize
 slug: mucize
+letter: M
 lisan: Arapça muʿcize
 anlamlar:
 - Peygamberlerin kendilerine inanmayan insanlara peygamberliklerini ispat etmek amacıyla Allah'ın iznine bağlı olarak gösterdikleri olağanüstü olaylar, hâller

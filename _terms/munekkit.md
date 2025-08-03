@@ -2,6 +2,7 @@
 layout: term
 title: münekkit
 slug: munekkit
+letter: M
 lisan: Arapça muneḳḳid
 anlamlar:
 - ► eleştirmen

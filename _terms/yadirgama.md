@@ -2,6 +2,7 @@
 layout: term
 title: yadırgama
 slug: yadirgama
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yadırgamak işi

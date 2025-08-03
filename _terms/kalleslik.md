@@ -2,6 +2,7 @@
 layout: term
 title: kalleşlik
 slug: kalleslik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalleş olma durumu; orospuluk, puştluk

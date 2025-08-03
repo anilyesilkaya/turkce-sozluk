@@ -2,6 +2,7 @@
 layout: term
 title: izinsiz kalmak
 slug: izinsiz-kalmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - izin cezası alarak okuldan veya kışladan dışarı çıkamamak, izinsiz cezası almış olmak

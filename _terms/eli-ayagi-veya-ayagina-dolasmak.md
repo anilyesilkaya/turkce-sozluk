@@ -2,6 +2,7 @@
 layout: term
 title: eli ayağı (veya ayağına) dolaşmak
 slug: eli-ayagi-veya-ayagina-dolasmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - şaşırmak, telaşlanmak

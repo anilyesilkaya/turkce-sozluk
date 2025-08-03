@@ -2,6 +2,7 @@
 layout: term
 title: etlik
 slug: etlik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Kış için etinden kıyma, kavurma, pastırma ve sucuk yapılan semiz hayvan

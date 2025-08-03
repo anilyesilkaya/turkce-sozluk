@@ -2,6 +2,7 @@
 layout: term
 title: gizil güç
 slug: gizil-guc
+letter: G
 lisan: Türkçe
 anlamlar:
 - Henüz yapılmış değil de güç olarak var olan, gerçekleşmeyen ancak gerçekleşebilecek olan, imkân durumunda olan, saklı olan güç; potansiyel

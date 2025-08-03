@@ -2,6 +2,7 @@
 layout: term
 title: hadım ağası
 slug: hadim-agasi
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► harem ağası

@@ -2,6 +2,7 @@
 layout: term
 title: molalı
 slug: molali
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mola verilen

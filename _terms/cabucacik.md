@@ -2,6 +2,7 @@
 layout: term
 title: çabucacık
 slug: cabucacik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çabucak

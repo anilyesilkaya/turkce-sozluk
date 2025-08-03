@@ -2,6 +2,7 @@
 layout: term
 title: uyanış
 slug: uyanis
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyanmak işi

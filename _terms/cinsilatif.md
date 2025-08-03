@@ -2,6 +2,7 @@
 layout: term
 title: cinsilatif
 slug: cinsilatif
+letter: C
 lisan: Arapça cins + laṭīf
 anlamlar:
 - Güzel, alımlı, hoşa giden kadın

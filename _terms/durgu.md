@@ -2,6 +2,7 @@
 layout: term
 title: durgu
 slug: durgu
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► sekte

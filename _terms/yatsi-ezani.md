@@ -2,6 +2,7 @@
 layout: term
 title: yatsı ezanı
 slug: yatsi-ezani
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yatsı namazının vaktinin geldiğini bildirmek için okunan ezan; yatsı

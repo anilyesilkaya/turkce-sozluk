@@ -2,6 +2,7 @@
 layout: term
 title: ağzına bir parmak bal çalmak
 slug: agzina-bir-parmak-bal-calmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - birini tatlı sözlerle veya çeşitli hediyelerle bir süre için kandırmak, oyalamak

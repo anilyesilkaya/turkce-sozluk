@@ -2,6 +2,7 @@
 layout: term
 title: pisboğazlık
 slug: pisbogazlik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pisboğaz olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: kemikleştirmek
 slug: kemiklestirmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kemiğe dönüştürmek

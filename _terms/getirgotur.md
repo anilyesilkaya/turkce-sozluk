@@ -2,6 +2,7 @@
 layout: term
 title: getirgötür
 slug: getirgotur
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bir bilgi ve ustalık istemeyen, getirip götürmekten ibaret olan (her türlü basit iş)

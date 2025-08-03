@@ -2,6 +2,7 @@
 layout: term
 title: kulak asmak
 slug: kulak-asmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - önem vermek, dinlemek

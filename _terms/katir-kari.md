@@ -2,6 +2,7 @@
 layout: term
 title: katır karı
 slug: katir-kari
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çocuğu olmayan evli kadın

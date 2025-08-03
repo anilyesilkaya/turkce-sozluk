@@ -2,6 +2,7 @@
 layout: term
 title: donuklaşmak
 slug: donuklasmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Donuk duruma gelmek

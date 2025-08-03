@@ -2,6 +2,7 @@
 layout: term
 title: taburculuk
 slug: taburculuk
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taburcu olma durumu

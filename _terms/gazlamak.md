@@ -2,6 +2,7 @@
 layout: term
 title: gazlamak
 slug: gazlamak
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gaz yağı sürmek

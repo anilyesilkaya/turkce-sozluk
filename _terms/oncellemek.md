@@ -2,6 +2,7 @@
 layout: term
 title: öncellemek
 slug: oncellemek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öncelikli duruma getirmek

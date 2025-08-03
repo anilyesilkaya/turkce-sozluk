@@ -2,6 +2,7 @@
 layout: term
 title: birinci kemancı
 slug: birinci-kemanci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Orkestrada keman çalan, şeften sonraki ikinci kişi

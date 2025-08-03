@@ -2,6 +2,7 @@
 layout: term
 title: tescil
 slug: tescil
+letter: T
 lisan: Arapça tescīl
 anlamlar:
 - Herhangi bir şeyi resmî olarak kaydetme, kütüğe geçirme

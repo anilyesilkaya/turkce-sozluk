@@ -2,6 +2,7 @@
 layout: term
 title: mecidiyelik
 slug: mecidiyelik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mecidiye değerinde olan

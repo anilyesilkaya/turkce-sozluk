@@ -2,6 +2,7 @@
 layout: term
 title: mihribanlık etmek (veya eylemek)
 slug: mihribanlik-etmek-veya-eylemek
+letter: M
 lisan: Türkçe
 anlamlar:
 - dostluk etmek, candan dost olmak

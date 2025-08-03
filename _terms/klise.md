@@ -2,6 +2,7 @@
 layout: term
 title: klişe
 slug: klise
+letter: K
 lisan: Fransızca cliché
 anlamlar:
 - Baskıda kullanılmak amacıyla, üzerine kabartma resim, şekil, yazı çıkarılmış metal levha

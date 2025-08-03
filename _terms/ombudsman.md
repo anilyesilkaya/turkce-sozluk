@@ -2,6 +2,7 @@
 layout: term
 title: ombudsman
 slug: ombudsman
+letter: O
 lisan: İngilizce ombudsman
 anlamlar:
 - 343 kamu denetçisi

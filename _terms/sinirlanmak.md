@@ -2,6 +2,7 @@
 layout: term
 title: sınırlanmak
 slug: sinirlanmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sınır çekilmek

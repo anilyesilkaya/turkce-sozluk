@@ -2,6 +2,7 @@
 layout: term
 title: '... demeye kalmamak'
 slug: demeye-kalmamak
+letter: .
 lisan: Türkçe
 anlamlar:
 - söylemeye, yapmaya fırsat olmamak

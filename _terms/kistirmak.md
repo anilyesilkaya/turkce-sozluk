@@ -2,6 +2,7 @@
 layout: term
 title: kıstırmak
 slug: kistirmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - İki şey arasında bırakarak sıkıştırmak; kısmak

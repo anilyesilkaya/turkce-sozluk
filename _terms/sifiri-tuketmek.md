@@ -2,6 +2,7 @@
 layout: term
 title: sıfırı tüketmek
 slug: sifiri-tuketmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - gücü kalmamak

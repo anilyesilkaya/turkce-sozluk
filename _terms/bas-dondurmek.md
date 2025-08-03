@@ -2,6 +2,7 @@
 layout: term
 title: baş döndürmek
 slug: bas-dondurmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - başarıdan, gururdan, sevinçten çok mutlu duruma getirmek, aşırı heyecanlandırmak

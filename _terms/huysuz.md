@@ -2,6 +2,7 @@
 layout: term
 title: huysuz
 slug: huysuz
+letter: H
 lisan: Türkçe
 anlamlar:
 - Huyu iyi olmayan, geçimsiz; aksi, damarlı

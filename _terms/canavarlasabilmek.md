@@ -2,6 +2,7 @@
 layout: term
 title: canavarlaşabilmek
 slug: canavarlasabilmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - Canavarlaşma ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: atik tetik
 slug: atik-tetik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► çevik

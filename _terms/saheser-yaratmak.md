@@ -2,6 +2,7 @@
 layout: term
 title: şaheser yaratmak
 slug: saheser-yaratmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - üstün, kalıcı niteliği olan bir eser ortaya koymak

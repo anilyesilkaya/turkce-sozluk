@@ -2,6 +2,7 @@
 layout: term
 title: boşlamak
 slug: boslamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Serbest bırakmak, elinden koyuvermek

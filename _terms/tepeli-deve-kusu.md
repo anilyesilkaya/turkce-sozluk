@@ -2,6 +2,7 @@
 layout: term
 title: tepeli deve kuşu
 slug: tepeli-deve-kusu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Uçma yeteneği olmayan, Yeni Gine ve Avustralya'da yaşayan bir tür deve kuşu

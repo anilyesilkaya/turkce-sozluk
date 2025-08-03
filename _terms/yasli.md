@@ -2,6 +2,7 @@
 layout: term
 title: yaşlı
 slug: yasli
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaşla dolmuş (göz)

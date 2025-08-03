@@ -2,6 +2,7 @@
 layout: term
 title: işine bak!
 slug: isine-bak
+letter: I
 lisan: Türkçe
 anlamlar:
 - '"görevini, işini sürdür" anlamında kullanılan bir söz'

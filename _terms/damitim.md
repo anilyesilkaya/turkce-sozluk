@@ -2,6 +2,7 @@
 layout: term
 title: damıtım
 slug: damitim
+letter: D
 lisan: Türkçe
 anlamlar:
 - Damıtmak işi

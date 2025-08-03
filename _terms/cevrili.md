@@ -2,6 +2,7 @@
 layout: term
 title: çevrili
 slug: cevrili
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Etrafı çevrilmiş, çevresi kuşatılmış olan

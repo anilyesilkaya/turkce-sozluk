@@ -2,6 +2,7 @@
 layout: term
 title: düzmek
 slug: duzmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir gereksinimi karşılamak amacıyla birçok şeyi birbirini tamamlayacak biçimde bir araya getirmek

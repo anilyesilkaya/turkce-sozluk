@@ -2,6 +2,7 @@
 layout: term
 title: cilvelenmek
 slug: cilvelenmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cilve yapmak; fıkırdamak

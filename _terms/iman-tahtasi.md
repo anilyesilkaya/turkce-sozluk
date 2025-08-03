@@ -2,6 +2,7 @@
 layout: term
 title: iman tahtası
 slug: iman-tahtasi
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► göğüs kemiği

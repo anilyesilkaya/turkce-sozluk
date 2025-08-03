@@ -2,6 +2,7 @@
 layout: term
 title: duymazlıktan gelmek
 slug: duymazliktan-gelmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - ilgilenmek istemediği için duymamış gibi davranmak

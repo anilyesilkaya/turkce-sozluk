@@ -2,6 +2,7 @@
 layout: term
 title: kurumak
 slug: kurumak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Islaklığını, nemini yitirerek kuru duruma gelmek; kakırdamak

@@ -2,6 +2,7 @@
 layout: term
 title: arşe
 slug: arse
+letter: A
 lisan: Fransızca archet
 anlamlar:
 - Tren, troleybüs, tramvay vb. elektrikle işleyen taşıtlarda telden elektrik akımı almaya yarayan, yukarıya doğru uzanmış demir yay

@@ -2,6 +2,7 @@
 layout: term
 title: sımsıcaklık
 slug: simsicaklik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sımsıcak olma durumu

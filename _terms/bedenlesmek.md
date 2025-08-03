@@ -2,6 +2,7 @@
 layout: term
 title: bedenleşmek
 slug: bedenlesmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beden durumuna gelmek, beden hâli almak

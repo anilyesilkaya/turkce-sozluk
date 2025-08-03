@@ -2,6 +2,7 @@
 layout: term
 title: paha biçmek
 slug: paha-bicmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - değerini tahmin etmek veya belirlemek

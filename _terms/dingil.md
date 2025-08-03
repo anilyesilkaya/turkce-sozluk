@@ -2,6 +2,7 @@
 layout: term
 title: dingil
 slug: dingil
+letter: D
 lisan: Türkçe
 anlamlar:
 - Tekerleklerin merkezinden geçen ve taşıtın altına enlemesine yerleştirilmiş mil; eksen, aks

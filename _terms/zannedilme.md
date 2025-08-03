@@ -2,6 +2,7 @@
 layout: term
 title: zannedilme
 slug: zannedilme
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► sanılma

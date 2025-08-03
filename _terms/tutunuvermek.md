@@ -2,6 +2,7 @@
 layout: term
 title: tutunuvermek
 slug: tutunuvermek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Aniden tutunmak

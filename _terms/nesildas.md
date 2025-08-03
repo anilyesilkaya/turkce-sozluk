@@ -2,6 +2,7 @@
 layout: term
 title: nesildaş
 slug: nesildas
+letter: N
 lisan: Türkçe
 anlamlar:
 - Aynı kuşaktan olan kimse

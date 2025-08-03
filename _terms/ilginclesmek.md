@@ -2,6 +2,7 @@
 layout: term
 title: ilginçleşmek
 slug: ilginclesmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İlginç duruma gelmek

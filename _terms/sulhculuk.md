@@ -2,6 +2,7 @@
 layout: term
 title: sulhçuluk
 slug: sulhculuk
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► barışseverlik

@@ -2,6 +2,7 @@
 layout: term
 title: akın akın
 slug: akin-akin
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arkası kesilmeyen kalabalık öbekler durumunda; fevç fevç

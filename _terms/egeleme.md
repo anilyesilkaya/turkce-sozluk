@@ -2,6 +2,7 @@
 layout: term
 title: eğeleme
 slug: egeleme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eğelemek işi

@@ -2,6 +2,7 @@
 layout: term
 title: eşelemek
 slug: eselemek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Toprak, kül gibi toz durumunda bulunan şeyleri hafifçe kazıp karıştırmak

@@ -2,6 +2,7 @@
 layout: term
 title: iğneden ipliğe
 slug: igneden-iplige
+letter: I
 lisan: Türkçe
 anlamlar:
 - Ne kadar eşya varsa

@@ -2,6 +2,7 @@
 layout: term
 title: erguvan
 slug: erguvan
+letter: E
 lisan: Farsça erġavān
 anlamlar:
 - Baklagillerden, eflatunla kırmızı arası renkte çiçek açan, güzel bir süs ağacı; deliboynuz (Cercis siliquastrum)

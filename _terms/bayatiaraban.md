@@ -2,6 +2,7 @@
 layout: term
 title: bayatiaraban
 slug: bayatiaraban
+letter: B
 lisan: Farsça bayāt + Arapça -ī + Arapça ʿarabān
 anlamlar:
 - Araban ve bayati makamlarından oluşan bir birleşik makam

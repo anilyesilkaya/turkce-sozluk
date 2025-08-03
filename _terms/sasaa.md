@@ -2,6 +2,7 @@
 layout: term
 title: şaşaa
 slug: sasaa
+letter: Ş
 lisan: Arapça şaʿşaʿa
 anlamlar:
 - ► görkem

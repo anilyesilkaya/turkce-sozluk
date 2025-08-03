@@ -2,6 +2,7 @@
 layout: term
 title: magazinleşmek
 slug: magazinlesmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - Magazin durumunu almak

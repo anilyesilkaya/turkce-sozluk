@@ -2,6 +2,7 @@
 layout: term
 title: demem o (ki)
 slug: demem-o-ki
+letter: D
 lisan: Türkçe
 anlamlar:
 - '"benim söylemek istediğim" anlamında kullanılan bir söz'

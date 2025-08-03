@@ -2,6 +2,7 @@
 layout: term
 title: peynirli
 slug: peynirli
+letter: P
 lisan: Türkçe
 anlamlar:
 - İçine peynir konulmuş

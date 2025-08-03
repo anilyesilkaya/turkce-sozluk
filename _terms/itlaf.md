@@ -2,6 +2,7 @@
 layout: term
 title: itlaf
 slug: itlaf
+letter: I
 lisan: Arapça itlāf
 anlamlar:
 - Öldürme, yok etme, telef etme

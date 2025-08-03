@@ -2,6 +2,7 @@
 layout: term
 title: Malikilik
 slug: malikilik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Maliki olma durumu

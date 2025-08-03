@@ -2,6 +2,7 @@
 layout: term
 title: öğün
 slug: ogun
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Kez, defa

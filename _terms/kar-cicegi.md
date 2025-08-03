@@ -2,6 +2,7 @@
 layout: term
 title: kar çiçeği
 slug: kar-cicegi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Süsengillerden, beyaz ve pembe çiçekler açan soğanlı bitki (Leuconium)

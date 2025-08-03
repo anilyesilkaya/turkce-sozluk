@@ -2,6 +2,7 @@
 layout: term
 title: fekül
 slug: fekul
+letter: F
 lisan: Fransızca fécule
 anlamlar:
 - Patates gibi bazı bitkilerin yumrularında bulunan nişasta

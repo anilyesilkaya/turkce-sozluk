@@ -2,6 +2,7 @@
 layout: term
 title: ısındırmak
 slug: isindirmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - Isınmasını sağlamak, sıcaklık kazandırmak

@@ -2,6 +2,7 @@
 layout: term
 title: yenilik
 slug: yenilik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yeni olma durumu

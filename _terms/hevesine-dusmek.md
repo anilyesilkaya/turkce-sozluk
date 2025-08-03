@@ -2,6 +2,7 @@
 layout: term
 title: hevesine düşmek
 slug: hevesine-dusmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - çok fazla istemek

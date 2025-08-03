@@ -2,6 +2,7 @@
 layout: term
 title: bir kerecik
 slug: bir-kerecik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bir kere

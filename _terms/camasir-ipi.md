@@ -2,6 +2,7 @@
 layout: term
 title: çamaşır ipi
 slug: camasir-ipi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Kurutmak için üzerine çamaşır asılan ip veya tel

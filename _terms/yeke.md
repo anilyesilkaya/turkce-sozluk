@@ -2,6 +2,7 @@
 layout: term
 title: yeke
 slug: yeke
+letter: Y
 lisan: Rumca
 anlamlar:
 - Kayıkta dümeni kullanmak için dümenin baş tarafına takılan kol

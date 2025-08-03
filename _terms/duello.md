@@ -2,6 +2,7 @@
 layout: term
 title: düello
 slug: duello
+letter: D
 lisan: İtalyanca duello
 anlamlar:
 - İki kişi arasında, tanıklar önünde yapılan silahlı vuruşma

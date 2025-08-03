@@ -2,6 +2,7 @@
 layout: term
 title: çevirmenlik
 slug: cevirmenlik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çevirmenin yaptığı iş; çeviricilik, dilmaçlık, tercümanlık, mütercimlik

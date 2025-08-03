@@ -2,6 +2,7 @@
 layout: term
 title: beyinsizce
 slug: beyinsizce
+letter: B
 lisan: Türkçe
 anlamlar:
 - Düşüncesizce yapılan

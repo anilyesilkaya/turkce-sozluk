@@ -2,6 +2,7 @@
 layout: term
 title: dilsever
 slug: dilsever
+letter: D
 lisan: Türkçe
 anlamlar:
 - Ana dilini öne çıkaran, dil bilinci olan (kimse)

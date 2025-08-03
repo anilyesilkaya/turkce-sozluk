@@ -2,6 +2,7 @@
 layout: term
 title: cellat
 slug: cellat
+letter: C
 lisan: Arapça cellād
 anlamlar:
 - Ölüm cezasına çarptırılanları öldürmekle görevli olan kimse

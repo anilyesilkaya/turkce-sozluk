@@ -2,6 +2,7 @@
 layout: term
 title: Latince
 slug: latince
+letter: L
 lisan: Türkçe
 anlamlar:
 - Latinlerin kullandığı dil

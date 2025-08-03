@@ -2,6 +2,7 @@
 layout: term
 title: yılış yılış
 slug: yilis-yilis
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yılışık, ciddiyetsiz hâlde olan

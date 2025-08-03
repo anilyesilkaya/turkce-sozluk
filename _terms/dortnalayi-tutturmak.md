@@ -2,6 +2,7 @@
 layout: term
 title: dörtnalayı tutturmak
 slug: dortnalayi-tutturmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - çok hızlı bir biçimde gitmek

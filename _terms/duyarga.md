@@ -2,6 +2,7 @@
 layout: term
 title: duyarga
 slug: duyarga
+letter: D
 lisan: Türkçe
 anlamlar:
 - Önceden belirlenmiş ışığı veya nesneyi algılayıp gerekli hareketi başlatan aygıt; sensör

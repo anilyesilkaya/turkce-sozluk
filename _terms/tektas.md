@@ -2,6 +2,7 @@
 layout: term
 title: tektaş
 slug: tektas
+letter: T
 lisan: Türkçe
 anlamlar:
 - Sadece bir pırlantası veya elması olan (yüzük, küpe)

@@ -2,6 +2,7 @@
 layout: term
 title: yuvarölçer
 slug: yuvarolcer
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Özellikle optik camların küresel eğriliğini ölçmeye yarayan araç

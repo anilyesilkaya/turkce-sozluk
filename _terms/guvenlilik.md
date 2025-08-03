@@ -2,6 +2,7 @@
 layout: term
 title: güvenlilik
 slug: guvenlilik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güvenli olma durumu; emniyetlilik

@@ -2,6 +2,7 @@
 layout: term
 title: fidelik
 slug: fidelik
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fide yetiştirilen yer

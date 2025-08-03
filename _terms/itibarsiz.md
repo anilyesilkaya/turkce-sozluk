@@ -2,6 +2,7 @@
 layout: term
 title: itibarsız
 slug: itibarsiz
+letter: I
 lisan: Türkçe
 anlamlar:
 - İtibarı, değeri olmayan

@@ -2,6 +2,7 @@
 layout: term
 title: feveran etmek
 slug: feveran-etmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - birdenbire öfkelenmek, köpürmek, parlamak

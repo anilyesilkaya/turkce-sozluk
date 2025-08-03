@@ -2,6 +2,7 @@
 layout: term
 title: çatkı çatmak
 slug: catki-catmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - başına çatkı örtmek

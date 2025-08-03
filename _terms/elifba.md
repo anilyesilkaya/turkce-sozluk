@@ -2,6 +2,7 @@
 layout: term
 title: elifba
 slug: elifba
+letter: E
 lisan: Arapça elif + bā
 anlamlar:
 - Elif harfiyle başlayan Arap alfabesi; elifbe

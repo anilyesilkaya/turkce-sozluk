@@ -2,6 +2,7 @@
 layout: term
 title: el yazması
 slug: el-yazmasi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Basım tekniğinin gelişmediği dönemlerde elle yazılmış kitap

@@ -2,6 +2,7 @@
 layout: term
 title: çağın gerisinde kalmak
 slug: cagin-gerisinde-kalmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - gelişmelere ve yeni düşüncelere uyum sağlayamamak, ayak uyduramamak

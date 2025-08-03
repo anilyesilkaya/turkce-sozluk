@@ -2,6 +2,7 @@
 layout: term
 title: paranoya
 slug: paranoya
+letter: P
 lisan: Fransızca paranoïa
 anlamlar:
 - Abartılı gurur, kuşku, sanrı, güvensizlik ve bencillikle belli olan bir ruh hastalığı

@@ -2,6 +2,7 @@
 layout: term
 title: mecelle
 slug: mecelle
+letter: M
 lisan: Arapça mecelle
 anlamlar:
 - Kitap, mecmua, risale vb. yayınlar

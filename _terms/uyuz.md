@@ -2,6 +2,7 @@
 layout: term
 title: uyuz
 slug: uyuz
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyuz böceğinin, üst derinin altına girerek yaptığı kaşındırıcı, bulaşıcı bir deri hastalığı

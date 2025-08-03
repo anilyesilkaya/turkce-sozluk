@@ -2,6 +2,7 @@
 layout: term
 title: arkaik
 slug: arkaik
+letter: A
 lisan: Fransızca archaïque
 anlamlar:
 - Güzel sanatlarda klasik çağ öncesinden kalan

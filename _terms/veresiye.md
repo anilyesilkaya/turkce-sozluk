@@ -2,6 +2,7 @@
 layout: term
 title: veresiye
 slug: veresiye
+letter: V
 lisan: Türkçe
 anlamlar:
 - Karşılığı sonra ödenmek üzere, peşin karşıtı

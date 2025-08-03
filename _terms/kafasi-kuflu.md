@@ -2,6 +2,7 @@
 layout: term
 title: kafası küflü
 slug: kafasi-kuflu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çağının gerisinde kalmış, gerici (kimse)

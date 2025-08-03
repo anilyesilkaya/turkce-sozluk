@@ -2,6 +2,7 @@
 layout: term
 title: ucuzca
 slug: ucuzca
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ucuz olarak, ucuz bir biçimde; ucuzuna

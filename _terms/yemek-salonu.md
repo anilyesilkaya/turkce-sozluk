@@ -2,6 +2,7 @@
 layout: term
 title: yemek salonu
 slug: yemek-salonu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yemek odası

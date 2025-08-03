@@ -2,6 +2,7 @@
 layout: term
 title: santimetre
 slug: santimetre
+letter: S
 lisan: Fransızca centimètre
 anlamlar:
 - Bir metrenin yüzde biri uzunluğunda bir ölçü birimi; santim (cm)

@@ -2,6 +2,7 @@
 layout: term
 title: kolonizatör
 slug: kolonizator
+letter: K
 lisan: Fransızca colonisateur
 anlamlar:
 - ► sömürgeci

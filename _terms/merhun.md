@@ -2,6 +2,7 @@
 layout: term
 title: 'merhun '
 slug: merhun
+letter: M
 lisan: Arapça merhūn
 anlamlar:
 - Rehin edilmiş, rehin bırakılmış

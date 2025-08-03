@@ -2,6 +2,7 @@
 layout: term
 title: tufan
 slug: tufan
+letter: T
 lisan: Arapça ṭūfān
 anlamlar:
 - Nuh Peygamber zamanında yağan ve bütün dünyayı su altında bırakan şiddetli yağmur

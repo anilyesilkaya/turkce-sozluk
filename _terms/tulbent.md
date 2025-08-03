@@ -2,6 +2,7 @@
 layout: term
 title: tülbent
 slug: tulbent
+letter: T
 lisan: Farsça dulbend
 anlamlar:
 - İnce ve seyrek dokunmuş, hafif ve yumuşak pamuklu bez

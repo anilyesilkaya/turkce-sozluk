@@ -2,6 +2,7 @@
 layout: term
 title: arzuhâl
 slug: arzuhal
+letter: A
 lisan: Arapça ʿarż + ḥāl
 anlamlar:
 - ► dilekçe

@@ -2,6 +2,7 @@
 layout: term
 title: talimli
 slug: talimli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Talim görmüş, eğitilmiş

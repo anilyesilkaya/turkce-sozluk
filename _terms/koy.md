@@ -2,6 +2,7 @@
 layout: term
 title: köy
 slug: koy
+letter: K
 lisan: Farsça kūy
 anlamlar:
 - Belediye teşkilatına sahip olmayan, ortak veya özel malları bulunan, nüfusu iki binden aşağı olan, genellikle tarımsal alanda çalışılan, konutları ve öteki yapıları bu hayata uygun yerleşim birimi; köylük yer, köy yeri, karye

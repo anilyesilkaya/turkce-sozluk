@@ -2,6 +2,7 @@
 layout: term
 title: tütün rengi
 slug: tutun-rengi
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► taba

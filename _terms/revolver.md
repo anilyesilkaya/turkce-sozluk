@@ -2,6 +2,7 @@
 layout: term
 title: revolver
 slug: revolver
+letter: R
 lisan: Fransızca revolver
 anlamlar:
 - ► altıpatlar

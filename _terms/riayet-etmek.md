@@ -2,6 +2,7 @@
 layout: term
 title: riayet etmek
 slug: riayet-etmek
+letter: R
 lisan: Türkçe
 anlamlar:
 - uymak

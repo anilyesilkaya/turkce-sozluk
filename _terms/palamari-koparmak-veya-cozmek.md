@@ -2,6 +2,7 @@
 layout: term
 title: palamarı koparmak (veya çözmek)
 slug: palamari-koparmak-veya-cozmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - kaçmak, sıvışmak

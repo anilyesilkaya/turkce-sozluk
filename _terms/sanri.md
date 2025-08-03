@@ -2,6 +2,7 @@
 layout: term
 title: sanrı
 slug: sanri
+letter: S
 lisan: Türkçe
 anlamlar:
 - Uyanık bir kişinin, kendi dışında var sandığı ancak gerçekte olmayan olguları algılaması, yaşaması; varsanı, birsam, halüsinasyon

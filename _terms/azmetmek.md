@@ -2,6 +2,7 @@
 layout: term
 title: azmetmek
 slug: azmetmek
+letter: A
 lisan: Arapça ʿazm + Türkçe etmek
 anlamlar:
 - Bir işi yapmak için kararlılıkla gayret etmek, bir işte azim göstermek

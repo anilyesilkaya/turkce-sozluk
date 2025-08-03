@@ -2,6 +2,7 @@
 layout: term
 title: çifteleyebilmek
 slug: cifteleyebilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çifteleme ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: kirli çamaşır
 slug: kirli-camasir
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kirlenmiş giyecek

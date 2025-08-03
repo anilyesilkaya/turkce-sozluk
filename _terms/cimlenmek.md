@@ -2,6 +2,7 @@
 layout: term
 title: çimlenmek
 slug: cimlenmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Tohum çim hâline gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: dadanmak
 slug: dadanmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Tadını aldığı, hoşlandığı bir şeyi sık sık istemek

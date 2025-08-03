@@ -2,6 +2,7 @@
 layout: term
 title: mükerrer
 slug: mukerrer
+letter: M
 lisan: Arapça mukerrer
 anlamlar:
 - ► tekrarlı

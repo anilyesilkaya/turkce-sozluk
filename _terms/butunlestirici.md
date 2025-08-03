@@ -2,6 +2,7 @@
 layout: term
 title: bütünleştirici
 slug: butunlestirici
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bütünleştirmek işini yapan kimse veya şey

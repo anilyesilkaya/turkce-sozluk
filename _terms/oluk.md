@@ -2,6 +2,7 @@
 layout: term
 title: oluk
 slug: oluk
+letter: O
 lisan: Türkçe
 anlamlar:
 - Bir şeyin akmasına yarayan üst yanı açık boru

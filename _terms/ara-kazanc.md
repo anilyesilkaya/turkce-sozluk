@@ -2,6 +2,7 @@
 layout: term
 title: ara kazanç
 slug: ara-kazanc
+letter: A
 lisan: Türkçe
 anlamlar:
 - Malı bütünüyle devretmeden arada elde edilen kazanç

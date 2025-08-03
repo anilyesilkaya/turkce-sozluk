@@ -2,6 +2,7 @@
 layout: term
 title: defigam etmek
 slug: defigam-etmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - üzüntüyü, sıkıntıyı atmak

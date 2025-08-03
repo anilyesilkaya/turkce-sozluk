@@ -2,6 +2,7 @@
 layout: term
 title: muvaffakiyetli
 slug: muvaffakiyetli
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► başarılı

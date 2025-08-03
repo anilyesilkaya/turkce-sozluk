@@ -2,6 +2,7 @@
 layout: term
 title: zırhlı
 slug: zirhli
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zırh giymiş veya zırh kaplanmış

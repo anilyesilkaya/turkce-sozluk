@@ -2,6 +2,7 @@
 layout: term
 title: kayıkçı kavgası
 slug: kayikci-kavgasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sonucu olmayan, bıktırıcı münakaşa

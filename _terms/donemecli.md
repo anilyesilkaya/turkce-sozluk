@@ -2,6 +2,7 @@
 layout: term
 title: dönemeçli
 slug: donemecli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dönemeci olan; virajlı

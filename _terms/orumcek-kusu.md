@@ -2,6 +2,7 @@
 layout: term
 title: örümcek kuşu
 slug: orumcek-kusu
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Örümcek kuşugillerden, orta boyda, tüyleri koyu kül rengi, siyah, beyaz, bazısında pembe veya koyu kırmızı benekler bulunan ötücü kuş (Lanius)

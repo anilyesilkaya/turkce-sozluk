@@ -2,6 +2,7 @@
 layout: term
 title: argaçlamak
 slug: argaclamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► atkılamak

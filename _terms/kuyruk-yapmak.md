@@ -2,6 +2,7 @@
 layout: term
 title: kuyruk yapmak
 slug: kuyruk-yapmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - uzun ve peş peşe bir sıra oluşturmak

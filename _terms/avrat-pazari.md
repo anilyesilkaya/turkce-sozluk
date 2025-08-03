@@ -2,6 +2,7 @@
 layout: term
 title: avrat pazarı
 slug: avrat-pazari
+letter: A
 lisan: Türkçe
 anlamlar:
 - Cariyelerin satıldığı pazar

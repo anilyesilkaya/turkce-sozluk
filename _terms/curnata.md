@@ -2,6 +2,7 @@
 layout: term
 title: curnata
 slug: curnata
+letter: C
 lisan: Türkçe
 anlamlar:
 - Bıldırcın akını

@@ -2,6 +2,7 @@
 layout: term
 title: tabiatsız
 slug: tabiatsiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tabiatı olmayan

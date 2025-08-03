@@ -2,6 +2,7 @@
 layout: term
 title: ikmal imtihanı
 slug: ikmal-imtihani
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► bütünleme sınavı

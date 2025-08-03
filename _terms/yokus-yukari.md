@@ -2,6 +2,7 @@
 layout: term
 title: yokuş yukarı
 slug: yokus-yukari
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yokuşta yukarıya doğru

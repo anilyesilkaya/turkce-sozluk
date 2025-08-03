@@ -2,6 +2,7 @@
 layout: term
 title: cinsel münasebet
 slug: cinsel-munasebet
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► cinsel ilişki

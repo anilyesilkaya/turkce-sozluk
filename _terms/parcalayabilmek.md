@@ -2,6 +2,7 @@
 layout: term
 title: parçalayabilmek
 slug: parcalayabilmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Parçalama ihtimali veya imkânı bulunmak

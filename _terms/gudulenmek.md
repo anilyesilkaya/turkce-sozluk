@@ -2,6 +2,7 @@
 layout: term
 title: güdülenmek
 slug: gudulenmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bir işe başlamaya ve öğrenmeye teşvik edilmek

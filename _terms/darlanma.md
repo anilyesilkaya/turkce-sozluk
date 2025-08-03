@@ -2,6 +2,7 @@
 layout: term
 title: darlanma
 slug: darlanma
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► bunalma

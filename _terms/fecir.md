@@ -2,6 +2,7 @@
 layout: term
 title: fecir
 slug: fecir
+letter: F
 lisan: Arapça fecr
 anlamlar:
 - ► tan

@@ -2,6 +2,7 @@
 layout: term
 title: altın gibi
 slug: altin-gibi
+letter: A
 lisan: Türkçe
 anlamlar:
 - altına benzeyen

@@ -2,6 +2,7 @@
 layout: term
 title: dekstroz
 slug: dekstroz
+letter: D
 lisan: Fransızca dextrose
 anlamlar:
 - ► nişasta şekeri

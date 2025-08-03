@@ -2,6 +2,7 @@
 layout: term
 title: söz olsun diye
 slug: soz-olsun-diye
+letter: S
 lisan: Türkçe
 anlamlar:
 - öylesine

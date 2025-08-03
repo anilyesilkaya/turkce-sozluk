@@ -2,6 +2,7 @@
 layout: term
 title: önceleme
 slug: onceleme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öncelemek işi; lanse

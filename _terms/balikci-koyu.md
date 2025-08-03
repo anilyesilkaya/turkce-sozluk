@@ -2,6 +2,7 @@
 layout: term
 title: balıkçı köyü
 slug: balikci-koyu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Balıkçılıkla geçinen köy

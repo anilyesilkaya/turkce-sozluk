@@ -2,6 +2,7 @@
 layout: term
 title: boş bırakmak
 slug: bos-birakmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - boş durumda bulundurmak

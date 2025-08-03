@@ -2,6 +2,7 @@
 layout: term
 title: dağcılık
 slug: dagcilik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dağa tırmanma sporu; alpinizm

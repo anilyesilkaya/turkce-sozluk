@@ -2,6 +2,7 @@
 layout: term
 title: inik deniz
 slug: inik-deniz
+letter: I
 lisan: Türkçe
 anlamlar:
 - Gelgit sırasında sular çekildiğinde denizin durumu

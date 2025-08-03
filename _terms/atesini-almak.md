@@ -2,6 +2,7 @@
 layout: term
 title: ateşini almak
 slug: atesini-almak
+letter: A
 lisan: Türkçe
 anlamlar:
 - yüksek vücut ısısını düşürmek

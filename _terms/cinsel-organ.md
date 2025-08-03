@@ -2,6 +2,7 @@
 layout: term
 title: cinsel organ
 slug: cinsel-organ
+letter: C
 lisan: Türkçe
 anlamlar:
 - Vücudun cinsellikle ilgili görev yapan bölümü

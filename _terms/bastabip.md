@@ -2,6 +2,7 @@
 layout: term
 title: baştabip
 slug: bastabip
+letter: B
 lisan: Türkçe baş + Arapça ṭabīb
 anlamlar:
 - ► başhekim

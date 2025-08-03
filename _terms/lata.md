@@ -2,6 +2,7 @@
 layout: term
 title: lata
 slug: lata
+letter: L
 lisan: İtalyanca cocoletta sözünden
 anlamlar:
 - Osmanlılarda ilmiyenin giydiği bir üstlük türü

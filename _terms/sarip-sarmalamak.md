@@ -2,6 +2,7 @@
 layout: term
 title: sarıp sarmalamak
 slug: sarip-sarmalamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - sıkıca sarmak

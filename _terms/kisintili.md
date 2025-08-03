@@ -2,6 +2,7 @@
 layout: term
 title: kısıntılı
 slug: kisintili
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kısıntı yapılan

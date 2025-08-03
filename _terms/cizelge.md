@@ -2,6 +2,7 @@
 layout: term
 title: çizelge
 slug: cizelge
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çizgilerle bölümlere ayrılmış kâğıt

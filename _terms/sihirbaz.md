@@ -2,6 +2,7 @@
 layout: term
 title: sihirbaz
 slug: sihirbaz
+letter: S
 lisan: Arapça siḥr + Farsça -bāz
 anlamlar:
 - El çabukluğu ve hile ile seyredenleri olmayacak şeylere inandırmayı meslek edinen gösteri sanatçısı

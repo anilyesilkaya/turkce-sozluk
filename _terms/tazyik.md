@@ -2,6 +2,7 @@
 layout: term
 title: tazyik
 slug: tazyik
+letter: T
 lisan: Arapça tażyīḳ
 anlamlar:
 - Bir şeyi sıkıştırma, darlaştırma

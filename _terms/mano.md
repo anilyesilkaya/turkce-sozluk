@@ -2,6 +2,7 @@
 layout: term
 title: mano
 slug: mano
+letter: M
 lisan: İtalyanca mano
 anlamlar:
 - Kumar oynatan kişinin kazançtan aldığı pay

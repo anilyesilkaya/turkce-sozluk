@@ -2,6 +2,7 @@
 layout: term
 title: bölüm başkanı
 slug: bolum-baskani
+letter: B
 lisan: Türkçe
 anlamlar:
 - Üniversitede bir bölümün yönetim işleri ile eğitim, öğretim, araştırma faaliyetlerinden sorumlu öğretim üyesi; kürsü başkanı

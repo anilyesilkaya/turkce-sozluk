@@ -2,6 +2,7 @@
 layout: term
 title: sahnelenmek
 slug: sahnelenmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Oyun sahneye konulmak

@@ -2,6 +2,7 @@
 layout: term
 title: gözlerinden okumak
 slug: gozlerinden-okumak
+letter: G
 lisan: Türkçe
 anlamlar:
 - düşüncelerini bakışlarından sezmek

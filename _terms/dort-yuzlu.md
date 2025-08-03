@@ -2,6 +2,7 @@
 layout: term
 title: dört yüzlü
 slug: dort-yuzlu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dört yüzü olan, çok yüzlü

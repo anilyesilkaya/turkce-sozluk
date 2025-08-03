@@ -2,6 +2,7 @@
 layout: term
 title: ampul
 slug: ampul
+letter: A
 lisan: Fransızca ampoule
 anlamlar:
 - İçinde, elektrik akımı ile akkor durumuna gelerek ışık verebilen bir iletkeni bulunan, havası boşaltılmış cam şişe

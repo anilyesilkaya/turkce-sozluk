@@ -2,6 +2,7 @@
 layout: term
 title: saray sarması
 slug: saray-sarmasi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Rulo biçiminde sarılan muhallebinin içine krema konulup üzerine Hindistan cevizi kaplanarak hazırlanan bir türlü tatlı

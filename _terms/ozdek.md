@@ -2,6 +2,7 @@
 layout: term
 title: özdek
 slug: ozdek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► ayniyat

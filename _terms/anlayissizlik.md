@@ -2,6 +2,7 @@
 layout: term
 title: anlayışsızlık
 slug: anlayissizlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anlayış kıtlığı; ferasetsizlik, idraksizlik, izansızlık

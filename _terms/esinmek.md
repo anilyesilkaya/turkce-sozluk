@@ -2,6 +2,7 @@
 layout: term
 title: eşinmek
 slug: esinmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Hayvan, ayağıyla yeri kazmak

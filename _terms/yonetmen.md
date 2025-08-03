@@ -2,6 +2,7 @@
 layout: term
 title: yönetmen
 slug: yonetmen
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Tiyatro ve sinema oyunlarında oyuncuların rollerini dağıtıp oyunu düzenleyen, metin, yorum, dekor, müzik vb. ögeler arasında birlik sağlamaya çalışan kimse; rejisör

@@ -2,6 +2,7 @@
 layout: term
 title: pandispanya
 slug: pandispanya
+letter: P
 lisan: İtalyanca pane di Spagna
 anlamlar:
 - Yumurta katılarak yapılan şekerli, kabarık, yumuşak bir pasta türü

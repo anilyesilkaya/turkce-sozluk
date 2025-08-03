@@ -2,6 +2,7 @@
 layout: term
 title: hanuman
 slug: hanuman
+letter: H
 lisan: Farsça ḫānmān
 anlamlar:
 - Ev bark, ocak

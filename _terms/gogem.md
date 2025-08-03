@@ -2,6 +2,7 @@
 layout: term
 title: göğem
 slug: gogem
+letter: G
 lisan: Türkçe
 anlamlar:
 - Yeşile çalan mor renk

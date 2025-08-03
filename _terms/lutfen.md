@@ -2,6 +2,7 @@
 layout: term
 title: lütfen
 slug: lutfen
+letter: L
 lisan: Arapça luṭfen
 anlamlar:
 - Birinden bir şey isterken "dilerim, rica ederim" anlamında kullanılan bir söz

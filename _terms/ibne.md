@@ -2,6 +2,7 @@
 layout: term
 title: ibne
 slug: ibne
+letter: I
 lisan: Arapça ubne
 anlamlar:
 - Edilgin eş cinsel erkek; homoseksüel

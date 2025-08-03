@@ -2,6 +2,7 @@
 layout: term
 title: rütbeli
 slug: rutbeli
+letter: R
 lisan: Türkçe
 anlamlar:
 - Rütbesi olan

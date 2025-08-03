@@ -2,6 +2,7 @@
 layout: term
 title: çemberlenmek
 slug: cemberlenmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çemberle kuşatılmak

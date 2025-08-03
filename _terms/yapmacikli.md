@@ -2,6 +2,7 @@
 layout: term
 title: yapmacıklı
 slug: yapmacikli
+letter: Y
 lisan: Türkçe
 anlamlar:
 - İçtenliği olmayan, içten olmayan

@@ -2,6 +2,7 @@
 layout: term
 title: teşdit
 slug: tesdit
+letter: T
 lisan: Arapça teşdīd
 anlamlar:
 - Şiddetini artırma, güç verme

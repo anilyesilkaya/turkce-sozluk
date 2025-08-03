@@ -2,6 +2,7 @@
 layout: term
 title: eli kalem tutmak
 slug: eli-kalem-tutmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - yazı yazmayı bilmek

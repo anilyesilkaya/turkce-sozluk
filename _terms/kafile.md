@@ -2,6 +2,7 @@
 layout: term
 title: kafile
 slug: kafile
+letter: K
 lisan: Arapça ḳāfile
 anlamlar:
 - Birlikte hareket eden topluluk

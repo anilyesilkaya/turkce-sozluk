@@ -2,6 +2,7 @@
 layout: term
 title: vız gelmek
 slug: viz-gelmek
+letter: V
 lisan: Türkçe
 anlamlar:
 - pek önemsiz görünmek

@@ -2,6 +2,7 @@
 layout: term
 title: yol evladı
 slug: yol-evladi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yolculuk sırasında arkadaşlık eden kimse

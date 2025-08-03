@@ -2,6 +2,7 @@
 layout: term
 title: Türkiyatçı
 slug: turkiyatci
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► Türklük bilimci

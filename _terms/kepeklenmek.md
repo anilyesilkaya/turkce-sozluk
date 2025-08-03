@@ -2,6 +2,7 @@
 layout: term
 title: kepeklenmek
 slug: kepeklenmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Başta kepek oluşmak

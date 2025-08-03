@@ -2,6 +2,7 @@
 layout: term
 title: iyonlaştırma
 slug: iyonlastirma
+letter: I
 lisan: Türkçe
 anlamlar:
 - İyonlaştırmak işi

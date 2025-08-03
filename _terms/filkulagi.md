@@ -2,6 +2,7 @@
 layout: term
 title: filkulağı
 slug: filkulagi
+letter: F
 lisan: Türkçe
 anlamlar:
 - Yılan yastığıgillerden, ana yurdu tropikal Amerika olan, kökü yumrulu bir süs bitkisi (Caladium)

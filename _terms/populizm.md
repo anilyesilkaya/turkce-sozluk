@@ -2,6 +2,7 @@
 layout: term
 title: popülizm
 slug: populizm
+letter: P
 lisan: Fransızca populisme
 anlamlar:
 - Politik durumu dramatize ederek halkın ilgisini uyandırmak amacıyla yapılan politika; halkçılık

@@ -2,6 +2,7 @@
 layout: term
 title: teklik
 slug: teklik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tek, bir olma durumu

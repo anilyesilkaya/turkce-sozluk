@@ -2,6 +2,7 @@
 layout: term
 title: alt tarafı
 slug: alt-tarafi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Olup olacağı; alt yanı, altı üstü

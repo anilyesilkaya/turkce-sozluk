@@ -2,6 +2,7 @@
 layout: term
 title: olmaz
 slug: olmaz
+letter: O
 lisan: Türkçe
 anlamlar:
 - İmkânsız, gerçekleşemez, gayrimümkün olan

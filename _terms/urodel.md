@@ -2,6 +2,7 @@
 layout: term
 title: urodel
 slug: urodel
+letter: U
 lisan: Fransızca urodèle
 anlamlar:
 - ► kuyruklular

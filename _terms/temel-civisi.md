@@ -2,6 +2,7 @@
 layout: term
 title: temel çivisi
 slug: temel-civisi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Yapı işlerinde kullanılan büyük çivi

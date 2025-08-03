@@ -2,6 +2,7 @@
 layout: term
 title: ekstre
 slug: ekstre
+letter: E
 lisan: Fransızca extrait
 anlamlar:
 - ► öz (I)

@@ -2,6 +2,7 @@
 layout: term
 title: katrancı
 slug: katranci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Katran satan kimse

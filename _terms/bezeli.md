@@ -2,6 +2,7 @@
 layout: term
 title: bezeli
 slug: bezeli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bezenmiş, süslenmiş olan

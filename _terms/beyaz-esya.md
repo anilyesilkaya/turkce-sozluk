@@ -2,6 +2,7 @@
 layout: term
 title: beyaz eşya
 slug: beyaz-esya
+letter: B
 lisan: Türkçe
 anlamlar:
 - Buzdolabı, çamaşır makinesi, bulaşık makinesi vb. ev aletlerine verilen genel ad

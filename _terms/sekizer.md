@@ -2,6 +2,7 @@
 layout: term
 title: sekizer
 slug: sekizer
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sekiz sayısının üleştirme sayı sıfatı

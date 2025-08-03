@@ -2,6 +2,7 @@
 layout: term
 title: belgesel
 slug: belgesel
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belge niteliği taşıyan; dokümanter

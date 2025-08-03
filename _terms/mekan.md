@@ -2,6 +2,7 @@
 layout: term
 title: mekân
 slug: mekan
+letter: M
 lisan: Arapça mekān
 anlamlar:
 - Bulunulan yer

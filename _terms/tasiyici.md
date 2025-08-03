@@ -2,6 +2,7 @@
 layout: term
 title: taşıyıcı
 slug: tasiyici
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taşıma işini yapan kimse veya şey; yükçü

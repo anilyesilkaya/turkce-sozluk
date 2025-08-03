@@ -2,6 +2,7 @@
 layout: term
 title: yelteniş
 slug: yeltenis
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yeltenme işi

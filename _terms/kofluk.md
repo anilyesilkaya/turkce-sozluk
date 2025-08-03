@@ -2,6 +2,7 @@
 layout: term
 title: kofluk
 slug: kofluk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kof olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: yatırım
 slug: yatirim
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yatırmak işi

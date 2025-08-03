@@ -2,6 +2,7 @@
 layout: term
 title: şnorkel
 slug: snorkel
+letter: Ş
 lisan: Almanca Schnorchel
 anlamlar:
 - Dizel motorlu denizaltının su altında uzun süre kalmasını sağlayan düzen

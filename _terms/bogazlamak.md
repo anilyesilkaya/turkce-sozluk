@@ -2,6 +2,7 @@
 layout: term
 title: boğazlamak
 slug: bogazlamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Hayvan veya insanı boğazından keserek öldürmek

@@ -2,6 +2,7 @@
 layout: term
 title: şafaklandırmak
 slug: safaklandirmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şafaklama işini yaptırmak

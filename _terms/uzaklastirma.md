@@ -2,6 +2,7 @@
 layout: term
 title: uzaklaştırma
 slug: uzaklastirma
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uzaklaştırmak işi; tenkil

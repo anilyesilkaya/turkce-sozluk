@@ -2,6 +2,7 @@
 layout: term
 title: manikürlü
 slug: manikurlu
+letter: M
 lisan: Türkçe
 anlamlar:
 - Manikür yapılmış

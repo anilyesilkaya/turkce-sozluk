@@ -2,6 +2,7 @@
 layout: term
 title: irtibat
 slug: irtibat
+letter: I
 lisan: Arapça irtibāṭ
 anlamlar:
 - ► bağlantı

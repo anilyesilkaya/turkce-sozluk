@@ -2,6 +2,7 @@
 layout: term
 title: isabet etmek
 slug: isabet-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - nişan alınan yere değmek, rastlamak

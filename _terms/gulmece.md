@@ -2,6 +2,7 @@
 layout: term
 title: gülmece
 slug: gulmece
+letter: G
 lisan: Türkçe
 anlamlar:
 - Eğlendirme, güldürme ve bir kimsenin davranışına incitmeden takılma amacını güden ince alay; mizah, humor

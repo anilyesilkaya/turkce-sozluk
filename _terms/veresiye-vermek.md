@@ -2,6 +2,7 @@
 layout: term
 title: veresiye vermek
 slug: veresiye-vermek
+letter: V
 lisan: Türkçe
 anlamlar:
 - malı parasını daha sonra almak şartıyla vermek

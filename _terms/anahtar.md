@@ -2,6 +2,7 @@
 layout: term
 title: anahtar
 slug: anahtar
+letter: A
 lisan: Rumca
 anlamlar:
 - Kilidi açıp kapamak için kullanılan araç; açacak, açar, açkı, miftah, dil (I)

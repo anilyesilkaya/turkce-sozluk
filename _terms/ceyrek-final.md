@@ -2,6 +2,7 @@
 layout: term
 title: çeyrek final
 slug: ceyrek-final
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir yarışmada ikili eşlemelerle son sekiz yarışmacı veya takımın oluşturduğu grup veya aşama

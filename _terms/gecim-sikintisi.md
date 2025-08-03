@@ -2,6 +2,7 @@
 layout: term
 title: geçim sıkıntısı
 slug: gecim-sikintisi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Geçinmede çekilen güçlük; geçim derdi, geçim zorluğu

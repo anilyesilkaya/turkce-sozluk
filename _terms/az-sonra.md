@@ -2,6 +2,7 @@
 layout: term
 title: az sonra
 slug: az-sonra
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kısa bir süre sonra; birazdan

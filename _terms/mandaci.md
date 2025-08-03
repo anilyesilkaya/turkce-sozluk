@@ -2,6 +2,7 @@
 layout: term
 title: mandacı
 slug: mandaci
+letter: M
 lisan: Türkçe
 anlamlar:
 - Bir ülkeyi manda temeline göre yönetmesi için Birleşmiş Milletler Cemiyeti tarafından görevlendirilen devlet; mandater

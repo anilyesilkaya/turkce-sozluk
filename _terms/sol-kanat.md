@@ -2,6 +2,7 @@
 layout: term
 title: sol kanat
 slug: sol-kanat
+letter: S
 lisan: Türkçe
 anlamlar:
 - Takımla oynanan bazı top oyunlarında hücum alanının sol tarafı

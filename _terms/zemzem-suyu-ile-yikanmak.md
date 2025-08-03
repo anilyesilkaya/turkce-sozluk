@@ -2,6 +2,7 @@
 layout: term
 title: zemzem suyu ile yıkanmak
 slug: zemzem-suyu-ile-yikanmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - hiçbir suçu veya günahı olmamak

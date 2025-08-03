@@ -2,6 +2,7 @@
 layout: term
 title: amiral
 slug: amiral
+letter: A
 lisan: Fransızca amiral
 anlamlar:
 - Rütbesi general ile aynı olan deniz subayı

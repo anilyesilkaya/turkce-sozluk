@@ -2,6 +2,7 @@
 layout: term
 title: üç beş
 slug: uc-bes
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Nicelik yönünden az

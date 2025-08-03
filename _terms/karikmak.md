@@ -2,6 +2,7 @@
 layout: term
 title: karıkmak
 slug: karikmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Göz fazla ışıktan kamaşmak

@@ -2,6 +2,7 @@
 layout: term
 title: gündeme getirmek
 slug: gundeme-getirmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - bir toplantıda bir konuyu tartışmak, görüşmek için önermek

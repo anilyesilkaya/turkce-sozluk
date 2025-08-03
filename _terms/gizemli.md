@@ -2,6 +2,7 @@
 layout: term
 title: gizemli
 slug: gizemli
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gizem niteliğinde olan veya içinde gizem bulunan; esrarlı (I), esrarengiz

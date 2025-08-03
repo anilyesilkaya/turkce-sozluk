@@ -2,6 +2,7 @@
 layout: term
 title: ufakça
 slug: ufakca
+letter: U
 lisan: Türkçe
 anlamlar:
 - Oldukça ufak

@@ -2,6 +2,7 @@
 layout: term
 title: videokaset
 slug: videokaset
+letter: V
 lisan: İngilizce video + Fransızca cassette
 anlamlar:
 - Üzerinde video kaydı bulunan, içindekilerin videoteyp aracılığıyla ekrana yansıtılabildiği kaset

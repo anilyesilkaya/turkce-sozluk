@@ -2,6 +2,7 @@
 layout: term
 title: köy yeri
 slug: koy-yeri
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► köy

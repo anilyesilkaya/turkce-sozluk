@@ -2,6 +2,7 @@
 layout: term
 title: yığımlık
 slug: yigimlik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir sanayi dalında yararlanılan ham, işlenmiş veya yarı işlenmiş maddelerin tümü; stok

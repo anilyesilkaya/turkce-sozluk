@@ -2,6 +2,7 @@
 layout: term
 title: uyruklu
 slug: uyruklu
+letter: U
 lisan: Türkçe
 anlamlar:
 - Bir devletin yönetimi altında olan; tabiiyetli

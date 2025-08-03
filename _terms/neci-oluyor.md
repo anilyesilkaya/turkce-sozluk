@@ -2,6 +2,7 @@
 layout: term
 title: neci oluyor!
 slug: neci-oluyor
+letter: N
 lisan: Türkçe
 anlamlar:
 - niçin karışıyor, ona ne?

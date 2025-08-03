@@ -2,6 +2,7 @@
 layout: term
 title: elma
 slug: elma
+letter: E
 lisan: Türkçe
 anlamlar:
 - Gülgillerden, çiçekleri pembe veya beyaz bir ağaç (Pyrus malus)

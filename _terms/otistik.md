@@ -2,6 +2,7 @@
 layout: term
 title: otistik
 slug: otistik
+letter: O
 lisan: Fransızca autistique
 anlamlar:
 - Otizmle ilgili

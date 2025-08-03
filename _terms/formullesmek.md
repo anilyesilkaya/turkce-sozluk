@@ -2,6 +2,7 @@
 layout: term
 title: formülleşmek
 slug: formullesmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - Formül durumuna gelmek

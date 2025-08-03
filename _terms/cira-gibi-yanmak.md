@@ -2,6 +2,7 @@
 layout: term
 title: çıra gibi yanmak
 slug: cira-gibi-yanmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - cayır cayır yanmak

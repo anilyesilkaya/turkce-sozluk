@@ -2,6 +2,7 @@
 layout: term
 title: ölçmek
 slug: olcmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - En, boy, hacim, süre gibi nicelikleri kendi cinslerinden seçilmiş bir birimle karşılaştırıp kaç birim geldiklerini belirtmek

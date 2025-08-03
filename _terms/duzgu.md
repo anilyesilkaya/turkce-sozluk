@@ -2,6 +2,7 @@
 layout: term
 title: düzgü
 slug: duzgu
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► norm

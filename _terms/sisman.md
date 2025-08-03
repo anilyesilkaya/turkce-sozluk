@@ -2,6 +2,7 @@
 layout: term
 title: şişman
 slug: sisman
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Deri altında fazla yağ toplanması sebebiyle vücudun her yanı şişkin görünen (kimse); kilolu, semiz, şişko, mülahham

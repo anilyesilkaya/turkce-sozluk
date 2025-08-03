@@ -2,6 +2,7 @@
 layout: term
 title: nale
 slug: nale
+letter: N
 lisan: Farsça nāle
 anlamlar:
 - İnleme, inilti

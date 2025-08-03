@@ -2,6 +2,7 @@
 layout: term
 title: sendikalist
 slug: sendikalist
+letter: S
 lisan: Fransızca syndicaliste
 anlamlar:
 - ► sendikacı

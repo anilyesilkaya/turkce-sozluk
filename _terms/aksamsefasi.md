@@ -2,6 +2,7 @@
 layout: term
 title: akşamsefası
 slug: aksamsefasi
+letter: A
 lisan: Türkçe
 anlamlar:
 - İki çeneklilerden, gece açan küçük kokulu çiçekleri olan, otsu bir bitki; gecesefası (Mirabilis jalapa)

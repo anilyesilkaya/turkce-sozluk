@@ -2,6 +2,7 @@
 layout: term
 title: tasdik etmek
 slug: tasdik-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - doğrulamak

@@ -2,6 +2,7 @@
 layout: term
 title: harhara
 slug: harhara
+letter: H
 lisan: Arapça ḫarḫara
 anlamlar:
 - ► horultu

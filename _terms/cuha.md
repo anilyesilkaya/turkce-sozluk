@@ -2,6 +2,7 @@
 layout: term
 title: çuha
 slug: cuha
+letter: Ç
 lisan: Farsça çūḫa
 anlamlar:
 - Tüysüz, ince, sık dokunmuş yün kumaş

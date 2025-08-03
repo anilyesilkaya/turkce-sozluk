@@ -2,6 +2,7 @@
 layout: term
 title: tavukkarası
 slug: tavukkarasi
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► gece körlüğü

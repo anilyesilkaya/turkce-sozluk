@@ -2,6 +2,7 @@
 layout: term
 title: aşamalanma
 slug: asamalanma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aşamalanmak işi

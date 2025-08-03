@@ -2,6 +2,7 @@
 layout: term
 title: adileştirmek
 slug: adilestirmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Adileşmesine yol açmak

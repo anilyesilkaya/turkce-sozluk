@@ -2,6 +2,7 @@
 layout: term
 title: resital vermek
 slug: resital-vermek
+letter: R
 lisan: Türkçe
 anlamlar:
 - bir sanatçı tek bir çalgı ile konser vermek

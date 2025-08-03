@@ -2,6 +2,7 @@
 layout: term
 title: dökülmek
 slug: dokulmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dökme işi yapılmak veya dökme işine konu olmak

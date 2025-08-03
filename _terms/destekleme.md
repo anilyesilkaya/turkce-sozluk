@@ -2,6 +2,7 @@
 layout: term
 title: destekleme
 slug: destekleme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Desteklemek işi; tutma, terviç

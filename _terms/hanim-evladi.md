@@ -2,6 +2,7 @@
 layout: term
 title: hanım evladı
 slug: hanim-evladi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Nazlı büyütülmüş, çıtkırıldım kimse

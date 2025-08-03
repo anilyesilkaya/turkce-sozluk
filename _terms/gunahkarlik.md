@@ -2,6 +2,7 @@
 layout: term
 title: günahkârlık
 slug: gunahkarlik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Günahkâr olma durumu

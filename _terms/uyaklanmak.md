@@ -2,6 +2,7 @@
 layout: term
 title: uyaklanmak
 slug: uyaklanmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► kafiyelenmek

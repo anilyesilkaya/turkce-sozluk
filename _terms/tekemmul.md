@@ -2,6 +2,7 @@
 layout: term
 title: tekemmül
 slug: tekemmul
+letter: T
 lisan: Arapça tekemmul
 anlamlar:
 - ► olgunlaşma

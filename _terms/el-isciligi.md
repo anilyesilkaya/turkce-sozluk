@@ -2,6 +2,7 @@
 layout: term
 title: el işçiliği
 slug: el-isciligi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eşyanın makine kullanmadan yapılan bölümlerine harcanmış işçi emeği

@@ -2,6 +2,7 @@
 layout: term
 title: demirletmek
 slug: demirletmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Demirleme işini yaptırmak

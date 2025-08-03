@@ -2,6 +2,7 @@
 layout: term
 title: evlenilmek
 slug: evlenilmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Evlenme işi yapılmak

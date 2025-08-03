@@ -2,6 +2,7 @@
 layout: term
 title: deneyimleme
 slug: deneyimleme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Deneyimlemek işi

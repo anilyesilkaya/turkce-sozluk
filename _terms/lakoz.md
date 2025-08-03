@@ -2,6 +2,7 @@
 layout: term
 title: lakoz
 slug: lakoz
+letter: L
 lisan: Rumca
 anlamlar:
 - ► lagos

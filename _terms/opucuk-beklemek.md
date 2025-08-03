@@ -2,6 +2,7 @@
 layout: term
 title: öpücük beklemek
 slug: opucuk-beklemek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - öpülmeyi ummak

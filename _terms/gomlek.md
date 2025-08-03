@@ -2,6 +2,7 @@
 layout: term
 title: gömlek
 slug: gomlek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Vücudun üst kısmına giyilen kollu veya yarım kollu, yakalı giysi; işlik (II)

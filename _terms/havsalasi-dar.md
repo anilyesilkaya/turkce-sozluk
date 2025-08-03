@@ -2,6 +2,7 @@
 layout: term
 title: havsalası dar
 slug: havsalasi-dar
+letter: H
 lisan: Türkçe
 anlamlar:
 - Anlama kabiliyeti olmayan, anlayışı kıt (kimse)

@@ -2,6 +2,7 @@
 layout: term
 title: doğrulamak
 slug: dogrulamak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir şeyin doğru olduğunu ortaya koymak, desteklemek; gerçeklemek, teyit etmek, tasdik etmek

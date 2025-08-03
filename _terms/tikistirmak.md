@@ -2,6 +2,7 @@
 layout: term
 title: tıkıştırmak
 slug: tikistirmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Boş yer kalmayacak biçimde doldurmak, gelişigüzel koymak, tıka basa sokmak

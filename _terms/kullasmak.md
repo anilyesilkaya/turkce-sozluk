@@ -2,6 +2,7 @@
 layout: term
 title: kullaşmak
 slug: kullasmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kul durumuna gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: bağışıklık bilimi
 slug: bagisiklik-bilimi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağışıklık olaylarının ortaya çıkma şartlarını, gelişimini, alınabilecek önlemleri ve yapılabilecek tedaviyi inceleyen tıp dalı; immünoloji

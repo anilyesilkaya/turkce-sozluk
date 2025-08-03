@@ -2,6 +2,7 @@
 layout: term
 title: canımı sokakta bulmadım
 slug: canimi-sokakta-bulmadim
+letter: C
 lisan: Türkçe
 anlamlar:
 - '"tehlikeye veya herhangi bir sıkıntıya katlanmaya niyetim yok" anlamında kullanılan bir söz'

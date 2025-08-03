@@ -2,6 +2,7 @@
 layout: term
 title: etraf
 slug: etraf
+letter: E
 lisan: Arapça eṭrāf
 anlamlar:
 - Yanlar, taraflar

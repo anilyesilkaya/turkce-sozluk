@@ -2,6 +2,7 @@
 layout: term
 title: uydurmaca
 slug: uydurmaca
+letter: U
 lisan: Türkçe
 anlamlar:
 - Düzmece, sahte, yalan yanlış (bilgi, haber)

@@ -2,6 +2,7 @@
 layout: term
 title: çok gözeli
 slug: cok-gozeli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çok hücreli

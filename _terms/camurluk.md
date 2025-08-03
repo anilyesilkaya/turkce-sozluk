@@ -2,6 +2,7 @@
 layout: term
 title: çamurluk
 slug: camurluk
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çamuru çok olan yer

@@ -2,6 +2,7 @@
 layout: term
 title: bayrak
 slug: bayrak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir milletin, belli bir topluluğun veya bir kuruluşun simgesi olarak kullanılan, renk ve biçimle özelleştirilmiş, genellikle dikdörtgen biçiminde kumaş; alem

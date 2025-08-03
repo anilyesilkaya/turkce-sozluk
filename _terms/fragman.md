@@ -2,6 +2,7 @@
 layout: term
 title: fragman
 slug: fragman
+letter: F
 lisan: Fransızca fragment
 anlamlar:
 - ► tanıtma filmi

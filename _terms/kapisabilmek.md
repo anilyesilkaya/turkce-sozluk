@@ -2,6 +2,7 @@
 layout: term
 title: kapışabilmek
 slug: kapisabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kapışma ihtimali veya imkânı bulunmak

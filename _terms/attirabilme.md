@@ -2,6 +2,7 @@
 layout: term
 title: attırabilme
 slug: attirabilme
+letter: A
 lisan: Türkçe
 anlamlar:
 - Attırabilmek işi

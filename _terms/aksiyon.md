@@ -2,6 +2,7 @@
 layout: term
 title: aksiyon
 slug: aksiyon
+letter: A
 lisan: Fransızca action
 anlamlar:
 - Bir kuvvetin, maddi bir etkenin, bir düşüncenin ortaya çıkması

@@ -2,6 +2,7 @@
 layout: term
 title: 'ölçeklenmek '
 slug: olceklenmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ölçeklemek işi yapılmak

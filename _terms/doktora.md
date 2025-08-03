@@ -2,6 +2,7 @@
 layout: term
 title: doktora
 slug: doktora
+letter: D
 lisan: Fransızca doctorat
 anlamlar:
 - Bir fakülte veya yüksekokulu bitirdikten sonra o bilim dalında sınav ve bilimsel bir eserle erişilen derece, basamak

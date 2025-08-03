@@ -2,6 +2,7 @@
 layout: term
 title: gerinmek
 slug: gerinmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Kolları açarak gövdeyi gergin bir duruma sokmak

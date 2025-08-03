@@ -2,6 +2,7 @@
 layout: term
 title: vıcırdamak
 slug: vicirdamak
+letter: V
 lisan: Türkçe
 anlamlar:
 - Serçe vb. ötmek

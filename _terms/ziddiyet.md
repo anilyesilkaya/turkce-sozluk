@@ -2,6 +2,7 @@
 layout: term
 title: zıddiyet
 slug: ziddiyet
+letter: Z
 lisan: Arapça żiddiyyet
 anlamlar:
 - ► karşıtlık

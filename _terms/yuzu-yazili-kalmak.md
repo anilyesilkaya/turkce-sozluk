@@ -2,6 +2,7 @@
 layout: term
 title: yüzü yazılı kalmak
 slug: yuzu-yazili-kalmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - kullanılmak, yenilmek için hazırlanmışken herhangi bir sebeple olduğu gibi dokunulmadan kalmak

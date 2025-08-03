@@ -2,6 +2,7 @@
 layout: term
 title: alışık
 slug: alisik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Herhangi bir duruma alışmış olan

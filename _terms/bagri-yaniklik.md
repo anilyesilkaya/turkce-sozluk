@@ -2,6 +2,7 @@
 layout: term
 title: bağrı yanıklık
 slug: bagri-yaniklik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağrı yanık olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: dalgalanma
 slug: dalgalanma
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dalgalanmak işi; temevvüç

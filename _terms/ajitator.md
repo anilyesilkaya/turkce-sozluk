@@ -2,6 +2,7 @@
 layout: term
 title: ajitatör
 slug: ajitator
+letter: A
 lisan: Fransızca agitateur
 anlamlar:
 - ► körükleyici

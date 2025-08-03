@@ -2,6 +2,7 @@
 layout: term
 title: teravih
 slug: teravih
+letter: T
 lisan: Arapça terāvīḥ
 anlamlar:
 - Ramazan ayı boyunca, yatsı namazından sonra kılınan namaz; teravih namazı

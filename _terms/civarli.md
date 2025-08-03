@@ -2,6 +2,7 @@
 layout: term
 title: civarlı
 slug: civarli
+letter: C
 lisan: Türkçe
 anlamlar:
 - Belli bir civardan olan

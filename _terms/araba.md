@@ -2,6 +2,7 @@
 layout: term
 title: araba
 slug: araba
+letter: A
 lisan: Türkçe
 anlamlar:
 - Tekerlekli, motorlu veya motorsuz her türlü kara taşıtı

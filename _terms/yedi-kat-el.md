@@ -2,6 +2,7 @@
 layout: term
 title: yedi kat el
 slug: yedi-kat-el
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Çok yabancı

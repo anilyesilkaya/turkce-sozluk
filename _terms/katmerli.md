@@ -2,6 +2,7 @@
 layout: term
 title: katmerli
 slug: katmerli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Katmeri olan, kat kat olan

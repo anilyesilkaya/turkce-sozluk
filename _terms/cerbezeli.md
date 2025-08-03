@@ -2,6 +2,7 @@
 layout: term
 title: cerbezeli
 slug: cerbezeli
+letter: C
 lisan: Türkçe
 anlamlar:
 - Güzel, inandırıcı ve etkileyici söz söyleyen

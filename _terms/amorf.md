@@ -2,6 +2,7 @@
 layout: term
 title: amorf
 slug: amorf
+letter: A
 lisan: Fransızca amorphe
 anlamlar:
 - Bir bütünü oluşturan parçalardan simetrik olmayan

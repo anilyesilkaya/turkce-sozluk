@@ -2,6 +2,7 @@
 layout: term
 title: akıllı başlı
 slug: akilli-basli
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► aklı başında

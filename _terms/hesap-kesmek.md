@@ -2,6 +2,7 @@
 layout: term
 title: hesap kesmek
 slug: hesap-kesmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - ilişiğini kesmek

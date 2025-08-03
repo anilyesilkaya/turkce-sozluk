@@ -2,6 +2,7 @@
 layout: term
 title: önüne çıkmak
 slug: onune-cikmak
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - rastlaşmak, karşılaşmak, karşısına çıkmak

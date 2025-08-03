@@ -2,6 +2,7 @@
 layout: term
 title: kıpırtısız
 slug: kipirtisiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kıpırtısı olmayan; kımıltısız, kıprayışsız

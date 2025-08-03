@@ -2,6 +2,7 @@
 layout: term
 title: Tanrı'nın günü
 slug: tanri-nin-gunu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Allah'ın günü

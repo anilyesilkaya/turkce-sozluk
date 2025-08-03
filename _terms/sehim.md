@@ -2,6 +2,7 @@
 layout: term
 title: sehim
 slug: sehim
+letter: S
 lisan: Arapça sehm
 anlamlar:
 - Hisse bedeli

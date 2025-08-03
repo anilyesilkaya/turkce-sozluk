@@ -2,6 +2,7 @@
 layout: term
 title: bozlamak
 slug: bozlamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Deve acı acı bağırmak

@@ -2,6 +2,7 @@
 layout: term
 title: uslanmak
 slug: uslanmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Yadırganan, ayıplanan davranışlardan vazgeçmek, davranışlarına düzen vermek; akıllanmak

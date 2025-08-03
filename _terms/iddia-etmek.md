@@ -2,6 +2,7 @@
 layout: term
 title: iddia etmek
 slug: iddia-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - sözünde direnmek, bir iddia ileri sürmek

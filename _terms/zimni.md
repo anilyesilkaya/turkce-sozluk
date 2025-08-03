@@ -2,6 +2,7 @@
 layout: term
 title: zımni
 slug: zimni
+letter: Z
 lisan: Arapça żimnī
 anlamlar:
 - ► gizli

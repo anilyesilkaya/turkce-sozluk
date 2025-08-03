@@ -2,6 +2,7 @@
 layout: term
 title: moderato
 slug: moderato
+letter: M
 lisan: İtalyanca moderato
 anlamlar:
 - Tek başına kullanıldığında orta hızda bir tempoyu belirten bir söz

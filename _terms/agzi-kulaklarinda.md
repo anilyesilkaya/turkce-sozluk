@@ -2,6 +2,7 @@
 layout: term
 title: ağzı kulaklarında
 slug: agzi-kulaklarinda
+letter: A
 lisan: Türkçe
 anlamlar:
 - Çok sevinçli, mutlu (kimse)

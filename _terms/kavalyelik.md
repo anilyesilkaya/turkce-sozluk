@@ -2,6 +2,7 @@
 layout: term
 title: kavalyelik
 slug: kavalyelik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kadına dansta veya bir toplantıda eşlik etme

@@ -2,6 +2,7 @@
 layout: term
 title: tükürüğünü yutmak
 slug: tukurugunu-yutmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - imrenip yutkunmak

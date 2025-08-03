@@ -2,6 +2,7 @@
 layout: term
 title: atanmak
 slug: atanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir göreve getirilmek; tayin edilmek

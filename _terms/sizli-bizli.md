@@ -2,6 +2,7 @@
 layout: term
 title: sizli bizli
 slug: sizli-bizli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Resmî olarak, samimi olmaksızın

@@ -2,6 +2,7 @@
 layout: term
 title: sünepe
 slug: sunepe
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kılıksız ve uyuşuk, sümsük (kimse)

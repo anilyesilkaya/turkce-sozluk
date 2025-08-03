@@ -2,6 +2,7 @@
 layout: term
 title: kopya çekmek
 slug: kopya-cekmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - genellikle yazılı sınavlarda soruları cevaplamak için bir kaynağa gizlice bakmak

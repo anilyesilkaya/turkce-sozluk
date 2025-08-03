@@ -2,6 +2,7 @@
 layout: term
 title: uydu görüntüsü
 slug: uydu-goruntusu
+letter: U
 lisan: Türkçe
 anlamlar:
 - Radar, mikrodalga, dedektör, tarayıcı ve sensörler ölçülen ve kaydedilen elektromanyetik radyasyonlarla elde edilen görüntü

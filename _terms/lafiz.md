@@ -2,6 +2,7 @@
 layout: term
 title: lafız
 slug: lafiz
+letter: L
 lisan: Arapça lafẓ
 anlamlar:
 - Söz, kelime

@@ -2,6 +2,7 @@
 layout: term
 title: tombala
 slug: tombala
+letter: T
 lisan: İtalyanca tombala
 anlamlar:
 - Torbadan numaralı taşlar çekilerek üzerinde numara yazılı kâğıtlarla oynanan bir talih oyunu

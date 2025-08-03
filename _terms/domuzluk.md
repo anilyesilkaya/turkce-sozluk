@@ -2,6 +2,7 @@
 layout: term
 title: domuzluk
 slug: domuzluk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Hainlik, haincesine inatçılık

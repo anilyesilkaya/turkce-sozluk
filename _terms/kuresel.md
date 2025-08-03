@@ -2,6 +2,7 @@
 layout: term
 title: küresel
 slug: kuresel
+letter: K
 lisan: Türkçe
 anlamlar:
 - Küre ile ilgili olan

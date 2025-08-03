@@ -2,6 +2,7 @@
 layout: term
 title: güz
 slug: guz
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► sonbahar

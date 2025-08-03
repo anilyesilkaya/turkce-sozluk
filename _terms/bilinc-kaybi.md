@@ -2,6 +2,7 @@
 layout: term
 title: bilinç kaybı
 slug: bilinc-kaybi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Sinir sistemindeki bir arıza sebebiyle bilincin yitirilmesi; şuur kaybı

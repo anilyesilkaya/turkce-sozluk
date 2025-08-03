@@ -2,6 +2,7 @@
 layout: term
 title: ayak üstünde olmak
 slug: ayak-ustunde-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - dinç olmak, canlı olmak

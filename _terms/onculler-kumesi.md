@@ -2,6 +2,7 @@
 layout: term
 title: öncüller kümesi
 slug: onculler-kumesi
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Bir tasımda sonuçtan önce gelen önermelerin tümü

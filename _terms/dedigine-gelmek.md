@@ -2,6 +2,7 @@
 layout: term
 title: dediğine gelmek
 slug: dedigine-gelmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - birinin düşüncesini önce kabul etmezken sonradan doğru bulup kabul etmek

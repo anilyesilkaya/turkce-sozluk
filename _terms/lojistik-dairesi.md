@@ -2,6 +2,7 @@
 layout: term
 title: lojistik dairesi
 slug: lojistik-dairesi
+letter: L
 lisan: Türkçe
 anlamlar:
 - Askerlikte geri hizmetlerin görüldüğü bölüm

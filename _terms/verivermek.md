@@ -2,6 +2,7 @@
 layout: term
 title: verivermek
 slug: verivermek
+letter: V
 lisan: Türkçe
 anlamlar:
 - Çabucak vermek

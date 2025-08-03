@@ -2,6 +2,7 @@
 layout: term
 title: bunluk
 slug: bunluk
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bunalım

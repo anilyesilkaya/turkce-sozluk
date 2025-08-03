@@ -2,6 +2,7 @@
 layout: term
 title: ikame mal
 slug: ikame-mal
+letter: I
 lisan: Türkçe
 anlamlar:
 - Birbirlerinin yerine geçen, konulabilen mal

@@ -2,6 +2,7 @@
 layout: term
 title: stereoskop
 slug: stereoskop
+letter: S
 lisan: Fransızca stéréoscope
 anlamlar:
 - Stereoskopik çiftlerin incelenmesinde kullanılan ve konuyu kabartma olarak gösteren optik alet

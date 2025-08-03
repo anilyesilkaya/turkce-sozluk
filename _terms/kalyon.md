@@ -2,6 +2,7 @@
 layout: term
 title: kalyon
 slug: kalyon
+letter: K
 lisan: İtalyanca galion
 anlamlar:
 - Yelkenle ve kürekle yol alan, üç direkli, büyük savaş gemisi

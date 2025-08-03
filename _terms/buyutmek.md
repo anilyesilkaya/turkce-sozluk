@@ -2,6 +2,7 @@
 layout: term
 title: büyütmek
 slug: buyutmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Büyük duruma getirmek; büyültmek

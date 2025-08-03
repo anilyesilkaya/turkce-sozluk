@@ -2,6 +2,7 @@
 layout: term
 title: atom çekirdeği
 slug: atom-cekirdegi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Atomun çekim kuvvetinin etkisiyle, çevresinde elektronlar dolaşan, proton ve nötronlardan oluşan pozitif elektron yüklü merkez bölümü; çekirdek

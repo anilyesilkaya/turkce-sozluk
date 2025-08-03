@@ -2,6 +2,7 @@
 layout: term
 title: çöktürme
 slug: cokturme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çöktürmek işi

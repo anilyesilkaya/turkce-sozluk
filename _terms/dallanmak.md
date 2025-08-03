@@ -2,6 +2,7 @@
 layout: term
 title: dallanmak
 slug: dallanmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dal vermek

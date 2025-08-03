@@ -2,6 +2,7 @@
 layout: term
 title: amaç
 slug: amac
+letter: A
 lisan: Türkçe
 anlamlar:
 - Elde edilmesi gereken, ulaşılmak istenilen sonuç; erek, gaye, garaz, kasıt, maksat, murat, niyet

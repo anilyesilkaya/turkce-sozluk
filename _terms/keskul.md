@@ -2,6 +2,7 @@
 layout: term
 title: keşkül
 slug: keskul
+letter: K
 lisan: Farsça keşkūl
 anlamlar:
 - Üstüne dövülmüş fıstık ve Hindistan cevizi dökülen bir tür süt tatlısı; keşkülüfukara

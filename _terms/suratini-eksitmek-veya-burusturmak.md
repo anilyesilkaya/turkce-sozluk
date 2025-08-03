@@ -2,6 +2,7 @@
 layout: term
 title: suratını ekşitmek (veya buruşturmak)
 slug: suratini-eksitmek-veya-burusturmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - yüzüne memnun olmadığını belirten bir anlam vermek

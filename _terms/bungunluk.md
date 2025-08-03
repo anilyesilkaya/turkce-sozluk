@@ -2,6 +2,7 @@
 layout: term
 title: bungunluk
 slug: bungunluk
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► sıkıntı

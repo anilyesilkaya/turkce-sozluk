@@ -2,6 +2,7 @@
 layout: term
 title: mahcubiyet
 slug: mahcubiyet
+letter: M
 lisan: Arapça maḥcūbiyyet
 anlamlar:
 - ► utangaçlık

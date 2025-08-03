@@ -2,6 +2,7 @@
 layout: term
 title: boğdurulmak
 slug: bogdurulmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boğdurma işi yapılmak

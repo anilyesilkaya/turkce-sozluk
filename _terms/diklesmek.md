@@ -2,6 +2,7 @@
 layout: term
 title: dikleşmek
 slug: diklesmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dik duruma gelmek; dikelmek

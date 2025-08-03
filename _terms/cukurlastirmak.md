@@ -2,6 +2,7 @@
 layout: term
 title: çukurlaştırmak
 slug: cukurlastirmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çukur duruma getirmek

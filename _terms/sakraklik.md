@@ -2,6 +2,7 @@
 layout: term
 title: şakraklık
 slug: sakraklik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şakrak olma durumu

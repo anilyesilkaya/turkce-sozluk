@@ -2,6 +2,7 @@
 layout: term
 title: bağırış
 slug: bagiris
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağırmak işi

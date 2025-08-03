@@ -2,6 +2,7 @@
 layout: term
 title: ruh
 slug: ruh
+letter: R
 lisan: Arapça rūḥ
 anlamlar:
 - ► can

@@ -2,6 +2,7 @@
 layout: term
 title: beyinsiz
 slug: beyinsiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - İçinde beyin bulunmayan

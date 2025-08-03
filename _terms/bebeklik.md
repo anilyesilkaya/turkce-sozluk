@@ -2,6 +2,7 @@
 layout: term
 title: bebeklik
 slug: bebeklik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bebek olma durumu

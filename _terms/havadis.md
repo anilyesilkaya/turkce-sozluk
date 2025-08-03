@@ -2,6 +2,7 @@
 layout: term
 title: havadis
 slug: havadis
+letter: H
 lisan: Arapça ḥavādis̱
 anlamlar:
 - İlgi ile karşılanabilecek haber

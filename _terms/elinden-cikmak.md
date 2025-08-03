@@ -2,6 +2,7 @@
 layout: term
 title: '... elinden çıkmak'
 slug: elinden-cikmak
+letter: .
 lisan: Türkçe
 anlamlar:
 - biri tarafından yapıldığı belli olmak

@@ -2,6 +2,7 @@
 layout: term
 title: yakalayabilmek
 slug: yakalayabilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yakalama ihtimali veya imkânı bulunmak

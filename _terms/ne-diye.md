@@ -2,6 +2,7 @@
 layout: term
 title: ne diye?
 slug: ne-diye
+letter: N
 lisan: Türkçe
 anlamlar:
 - nasıl bir düşünceyle, niçin?

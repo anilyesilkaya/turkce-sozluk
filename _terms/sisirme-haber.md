@@ -2,6 +2,7 @@
 layout: term
 title: şişirme haber
 slug: sisirme-haber
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Hedef kitlelerin ilgisini çekecek biçimde, hiçbir veriye dayanmayan, masa başında yazılmış uydurma, gerçek olmayan, gerçekmiş gibi gösterilen haber; uydurma, asparagas

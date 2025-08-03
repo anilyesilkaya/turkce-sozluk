@@ -2,6 +2,7 @@
 layout: term
 title: şöylesine
 slug: soylesine
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Tam şöyle

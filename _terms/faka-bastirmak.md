@@ -2,6 +2,7 @@
 layout: term
 title: faka bastırmak
 slug: faka-bastirmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - birini aldatmak, oyuna getirmek, tuzağa düşürmek

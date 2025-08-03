@@ -2,6 +2,7 @@
 layout: term
 title: içlem
 slug: iclem
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bir kavramın çağrıştırdığı kapsama giren niteliklerin veya taşıdığı özelliklerin bütünü; tazammun

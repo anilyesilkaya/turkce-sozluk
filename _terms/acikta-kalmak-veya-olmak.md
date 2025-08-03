@@ -2,6 +2,7 @@
 layout: term
 title: açıkta kalmak (veya olmak)
 slug: acikta-kalmak-veya-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - iş ve görev bulamamak

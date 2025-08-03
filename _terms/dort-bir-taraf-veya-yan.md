@@ -2,6 +2,7 @@
 layout: term
 title: dört bir taraf (veya yan)
 slug: dort-bir-taraf-veya-yan
+letter: D
 lisan: Türkçe
 anlamlar:
 - her yan, bütün çevre

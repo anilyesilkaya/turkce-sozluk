@@ -2,6 +2,7 @@
 layout: term
 title: dağ merası
 slug: dag-merasi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dağlar arasında hayvan otlatmaya elverişli bölge; dağ otlağı

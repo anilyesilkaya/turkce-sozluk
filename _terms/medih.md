@@ -2,6 +2,7 @@
 layout: term
 title: medih
 slug: medih
+letter: M
 lisan: Arapça medḥ
 anlamlar:
 - ► övme

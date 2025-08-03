@@ -2,6 +2,7 @@
 layout: term
 title: yer örümceği
 slug: yer-orumcegi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Toprak içinde ağla döşeli yuva yapan, büyük bir tür örümcek (Mygale avicularia)

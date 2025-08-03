@@ -2,6 +2,7 @@
 layout: term
 title: okazyon
 slug: okazyon
+letter: O
 lisan: Fransızca occasion
 anlamlar:
 - ► fırsat

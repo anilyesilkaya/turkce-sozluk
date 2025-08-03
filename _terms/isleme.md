@@ -2,6 +2,7 @@
 layout: term
 title: işleme
 slug: isleme
+letter: I
 lisan: Türkçe
 anlamlar:
 - İşlemek işi

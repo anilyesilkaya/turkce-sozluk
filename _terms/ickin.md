@@ -2,6 +2,7 @@
 layout: term
 title: içkin
 slug: ickin
+letter: I
 lisan: Türkçe
 anlamlar:
 - Varlığın içinde bulunan, varlığın yapısına karışmış olan; mündemiç

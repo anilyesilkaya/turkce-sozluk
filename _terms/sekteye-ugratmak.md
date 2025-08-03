@@ -2,6 +2,7 @@
 layout: term
 title: sekteye uğratmak
 slug: sekteye-ugratmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - kesmek, kesintiye uğratmak

@@ -2,6 +2,7 @@
 layout: term
 title: varlık
 slug: varlik
+letter: V
 lisan: Türkçe
 anlamlar:
 - Var olma durumu; mevcudiyet

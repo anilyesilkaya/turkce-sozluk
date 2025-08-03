@@ -2,6 +2,7 @@
 layout: term
 title: balıkgözü objektif
 slug: balikgozu-objektif
+letter: B
 lisan: Türkçe
 anlamlar:
 - Normal objektiflerden çok daha geniş açıyı alan ve görüntüyü dışbükey ayna görüntüsü biçiminde veren objektif türü

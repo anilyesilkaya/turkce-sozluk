@@ -2,6 +2,7 @@
 layout: term
 title: düzelebilmek
 slug: duzelebilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düzelme ihtimali veya imkânı bulunmak

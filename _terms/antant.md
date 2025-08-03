@@ -2,6 +2,7 @@
 layout: term
 title: antant
 slug: antant
+letter: A
 lisan: Fransızca entente
 anlamlar:
 - ► anlaşma

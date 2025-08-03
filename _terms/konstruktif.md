@@ -2,6 +2,7 @@
 layout: term
 title: konstrüktif
 slug: konstruktif
+letter: K
 lisan: Fransızca constructive
 anlamlar:
 - ► yapısal

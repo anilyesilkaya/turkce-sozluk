@@ -2,6 +2,7 @@
 layout: term
 title: tevkif
 slug: tevkif
+letter: T
 lisan: Arapça tevḳīf
 anlamlar:
 - ► durdurma

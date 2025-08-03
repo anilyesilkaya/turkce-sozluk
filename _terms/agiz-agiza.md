@@ -2,6 +2,7 @@
 layout: term
 title: ağız ağıza
 slug: agiz-agiza
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► tamamen

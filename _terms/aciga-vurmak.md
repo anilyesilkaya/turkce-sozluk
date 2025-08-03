@@ -2,6 +2,7 @@
 layout: term
 title: açığa vurmak
 slug: aciga-vurmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - belli etmek, ortaya çıkarmak

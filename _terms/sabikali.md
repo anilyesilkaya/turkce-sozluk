@@ -2,6 +2,7 @@
 layout: term
 title: sabıkalı
 slug: sabikali
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sabıkası olan

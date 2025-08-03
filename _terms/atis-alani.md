@@ -2,6 +2,7 @@
 layout: term
 title: atış alanı
 slug: atis-alani
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ateş etmeye uygun alan

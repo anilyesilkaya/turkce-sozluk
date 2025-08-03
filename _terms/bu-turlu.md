@@ -2,6 +2,7 @@
 layout: term
 title: bu türlü
 slug: bu-turlu
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► böyle

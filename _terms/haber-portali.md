@@ -2,6 +2,7 @@
 layout: term
 title: haber portali
 slug: haber-portali
+letter: H
 lisan: Türkçe
 anlamlar:
 - Genel ağdaki haber kaynağı

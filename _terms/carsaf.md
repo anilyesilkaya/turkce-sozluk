@@ -2,6 +2,7 @@
 layout: term
 title: çarşaf
 slug: carsaf
+letter: Ç
 lisan: Farsça çāder + şeb
 anlamlar:
 - Yatağın üstüne serilen veya yorgan kaplanan bez örtü

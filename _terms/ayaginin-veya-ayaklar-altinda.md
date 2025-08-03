@@ -2,6 +2,7 @@
 layout: term
 title: ayağının (veya ayaklar) altında
 slug: ayaginin-veya-ayaklar-altinda
+letter: A
 lisan: Türkçe
 anlamlar:
 - yüksek bir yerden geniş bir alanı görür durumda

@@ -2,6 +2,7 @@
 layout: term
 title: tav olmak
 slug: tav-olmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - kanmak

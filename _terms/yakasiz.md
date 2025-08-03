@@ -2,6 +2,7 @@
 layout: term
 title: yakasız
 slug: yakasiz
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yakası olmayan

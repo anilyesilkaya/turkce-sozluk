@@ -2,6 +2,7 @@
 layout: term
 title: yasa bürünmek (veya boğulmak veya gömülmek)
 slug: yasa-burunmek-veya-bogulmak-veya-gomulmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yas tutmak

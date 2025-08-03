@@ -2,6 +2,7 @@
 layout: term
 title: dostça
 slug: dostca
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dosta yakışır, dost gibi

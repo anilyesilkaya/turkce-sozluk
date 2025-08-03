@@ -2,6 +2,7 @@
 layout: term
 title: fakirce
 slug: fakirce
+letter: F
 lisan: Türkçe
 anlamlar:
 - Yoksula benzer

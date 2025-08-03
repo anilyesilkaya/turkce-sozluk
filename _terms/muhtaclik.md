@@ -2,6 +2,7 @@
 layout: term
 title: muhtaçlık
 slug: muhtaclik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Bakmaya mecbur olduğu aile bireylerini veya kendisini geçindirmeye yetecek geliri, malı, kazancı olmayanların içinde bulunduğu durum

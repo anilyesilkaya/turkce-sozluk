@@ -2,6 +2,7 @@
 layout: term
 title: benlikçilik
 slug: benlikcilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Benlikçi olma durumu

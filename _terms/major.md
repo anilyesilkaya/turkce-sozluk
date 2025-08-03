@@ -2,6 +2,7 @@
 layout: term
 title: majör
 slug: major
+letter: M
 lisan: Fransızca majeur
 anlamlar:
 - Büyük, önemli olan

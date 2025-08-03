@@ -2,6 +2,7 @@
 layout: term
 title: kinayeli
 slug: kinayeli
+letter: K
 lisan: Türkçe
 anlamlar:
 - İçinde kinaye bulunan (söz)

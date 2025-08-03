@@ -2,6 +2,7 @@
 layout: term
 title: gizli servis
 slug: gizli-servis
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► istihbarat servisi

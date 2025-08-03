@@ -2,6 +2,7 @@
 layout: term
 title: Hıdırellez
 slug: hidirellez
+letter: H
 lisan: Arapça ḫiḍr + ilyās
 anlamlar:
 - Hızır ve İlyas peygamberlerin her yıl buluştuklarına inanılan 6 Mayıs günü

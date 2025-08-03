@@ -2,6 +2,7 @@
 layout: term
 title: ayıklatabilmek
 slug: ayiklatabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayıklatma ihtimali veya imkânı bulunmak

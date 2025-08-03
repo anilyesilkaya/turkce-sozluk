@@ -2,6 +2,7 @@
 layout: term
 title: haşarı
 slug: hasari
+letter: H
 lisan: Türkçe
 anlamlar:
 - Çok yaramaz, ele avuca sığmayan (çocuk)

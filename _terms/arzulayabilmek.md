@@ -2,6 +2,7 @@
 layout: term
 title: arzulayabilmek
 slug: arzulayabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► isteyebilmek

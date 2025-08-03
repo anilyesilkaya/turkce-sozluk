@@ -2,6 +2,7 @@
 layout: term
 title: adi
 slug: adi
+letter: A
 lisan: Arapça ʿādī
 anlamlar:
 - Sıradan, hiçbir özelliği olmayan

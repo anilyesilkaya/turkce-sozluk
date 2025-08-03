@@ -2,6 +2,7 @@
 layout: term
 title: cimbakuka
 slug: cimbakuka
+letter: C
 lisan: Türkçe
 anlamlar:
 - Çelimsiz ve biçimsiz (kimse)

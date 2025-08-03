@@ -2,6 +2,7 @@
 layout: term
 title: arazöz
 slug: arazoz
+letter: A
 lisan: Fransızca arroseuse
 anlamlar:
 - Yolları ve yol kenarlarındaki yeşillikleri sulamakta kullanılan motorlu araç

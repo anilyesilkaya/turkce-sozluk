@@ -2,6 +2,7 @@
 layout: term
 title: çobanpüskülü
 slug: cobanpuskulu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çobanpüskülügillerden, bir süs bitkisi (llex aquifolium)

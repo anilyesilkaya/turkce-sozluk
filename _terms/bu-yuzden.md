@@ -2,6 +2,7 @@
 layout: term
 title: bu yüzden
 slug: bu-yuzden
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bundan dolayı

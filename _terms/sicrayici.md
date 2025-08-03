@@ -2,6 +2,7 @@
 layout: term
 title: sıçrayıcı
 slug: sicrayici
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıçrama özelliği olan

@@ -2,6 +2,7 @@
 layout: term
 title: erkekli kadınlı
 slug: erkekli-kadinli
+letter: E
 lisan: Türkçe
 anlamlar:
 - Kadın erkek hep bir arada yapılan

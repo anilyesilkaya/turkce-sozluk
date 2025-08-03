@@ -2,6 +2,7 @@
 layout: term
 title: analizlemek
 slug: analizlemek
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► çözümlemek

@@ -2,6 +2,7 @@
 layout: term
 title: umudu kırılmak
 slug: umudu-kirilmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - bir şeyin artık gerçekleşemeyeceği inancına varmak

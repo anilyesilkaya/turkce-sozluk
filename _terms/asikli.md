@@ -2,6 +2,7 @@
 layout: term
 title: âşıklı
 slug: asikli
+letter: Â
 lisan: Türkçe
 anlamlar:
 - Âşığı olan

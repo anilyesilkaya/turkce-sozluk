@@ -2,6 +2,7 @@
 layout: term
 title: ayran budalası
 slug: ayran-budalasi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Çabuk kandırılabilen

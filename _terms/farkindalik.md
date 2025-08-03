@@ -2,6 +2,7 @@
 layout: term
 title: farkındalık
 slug: farkindalik
+letter: F
 lisan: Türkçe
 anlamlar:
 - Farkında olma durumu

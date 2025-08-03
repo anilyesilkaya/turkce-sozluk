@@ -2,6 +2,7 @@
 layout: term
 title: deli saraylı gibi
 slug: deli-sarayli-gibi
+letter: D
 lisan: Türkçe
 anlamlar:
 - acayip biçimde giyinen, takıp takıştıran (kimse)

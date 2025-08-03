@@ -2,6 +2,7 @@
 layout: term
 title: incinmek
 slug: incinmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Çarpma, sıkışma, burkulma vb. etkenlerle vücudun bir yeri ağrı verir duruma gelmek

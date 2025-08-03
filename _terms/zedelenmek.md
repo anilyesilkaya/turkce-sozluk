@@ -2,6 +2,7 @@
 layout: term
 title: zedelenmek
 slug: zedelenmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Vurma, çarpma, delme sonucu berelenmek, ezilmek

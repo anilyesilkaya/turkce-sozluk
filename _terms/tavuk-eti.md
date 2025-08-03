@@ -2,6 +2,7 @@
 layout: term
 title: tavuk eti
 slug: tavuk-eti
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tavuğun kesilip parçalanmış eti

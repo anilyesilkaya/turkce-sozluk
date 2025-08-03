@@ -2,6 +2,7 @@
 layout: term
 title: anlaşmazlık
 slug: anlasmazlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - İki veya daha çok tarafın düşünce ve amaçları arasında ayrılık; ihtilaf,  maraza, sürtüşme

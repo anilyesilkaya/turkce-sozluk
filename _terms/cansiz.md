@@ -2,6 +2,7 @@
 layout: term
 title: çansız
 slug: cansiz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çanı olmayan

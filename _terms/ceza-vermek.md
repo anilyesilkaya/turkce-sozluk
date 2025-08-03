@@ -2,6 +2,7 @@
 layout: term
 title: ceza vermek
 slug: ceza-vermek
+letter: C
 lisan: Türkçe
 anlamlar:
 - cezalandırmak

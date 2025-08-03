@@ -2,6 +2,7 @@
 layout: term
 title: amber
 slug: amber
+letter: A
 lisan: Farsça ʿanber
 anlamlar:
 - Amber balığından çıkarılan güzel kokulu, kül renginde bir madde

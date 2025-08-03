@@ -2,6 +2,7 @@
 layout: term
 title: kaşeli
 slug: kaseli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaşesi olan

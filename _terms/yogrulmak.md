@@ -2,6 +2,7 @@
 layout: term
 title: yoğrulmak
 slug: yogrulmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yoğurma işi yapılmak veya yoğurma işine konu olmak

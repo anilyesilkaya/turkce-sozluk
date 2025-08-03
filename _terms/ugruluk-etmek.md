@@ -2,6 +2,7 @@
 layout: term
 title: uğruluk etmek
 slug: ugruluk-etmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - çalmak, hırsızlık etmek

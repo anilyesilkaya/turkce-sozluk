@@ -2,6 +2,7 @@
 layout: term
 title: açış konuşması
 slug: acis-konusmasi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir töreni, bir toplantıyı başlatmak için yapılan konuşma

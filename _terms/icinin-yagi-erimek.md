@@ -2,6 +2,7 @@
 layout: term
 title: içinin yağı erimek
 slug: icinin-yagi-erimek
+letter: I
 lisan: Türkçe
 anlamlar:
 - telaş veya kaygı ile üzülmek

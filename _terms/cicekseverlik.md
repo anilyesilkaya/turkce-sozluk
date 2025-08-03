@@ -2,6 +2,7 @@
 layout: term
 title: çiçekseverlik
 slug: cicekseverlik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çiçeksever olma durumu

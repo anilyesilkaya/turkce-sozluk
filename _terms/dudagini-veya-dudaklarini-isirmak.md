@@ -2,6 +2,7 @@
 layout: term
 title: dudağını (veya dudaklarını) ısırmak
 slug: dudagini-veya-dudaklarini-isirmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - yakışıksız bir durum karşısında şaşmak

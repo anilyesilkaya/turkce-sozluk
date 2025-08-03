@@ -2,6 +2,7 @@
 layout: term
 title: cari
 slug: cari
+letter: C
 lisan: Arapça cārī
 anlamlar:
 - Geçerli olan, yürürlükteki

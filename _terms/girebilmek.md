@@ -2,6 +2,7 @@
 layout: term
 title: girebilmek
 slug: girebilmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Girme ihtimali veya imkânı bulunmak

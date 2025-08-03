@@ -2,6 +2,7 @@
 layout: term
 title: çehresi bozulmak
 slug: cehresi-bozulmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - yüzü düşmek

@@ -2,6 +2,7 @@
 layout: term
 title: ponza
 slug: ponza
+letter: P
 lisan: Fransızca ponce
 anlamlar:
 - ► sünger taşı

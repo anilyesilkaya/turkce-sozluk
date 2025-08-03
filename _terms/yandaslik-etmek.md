@@ -2,6 +2,7 @@
 layout: term
 title: yandaşlık etmek
 slug: yandaslik-etmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yandaş durumunda olmak

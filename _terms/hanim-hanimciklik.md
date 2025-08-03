@@ -2,6 +2,7 @@
 layout: term
 title: hanım hanımcıklık
 slug: hanim-hanimciklik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hanım hanımcık olma durumu

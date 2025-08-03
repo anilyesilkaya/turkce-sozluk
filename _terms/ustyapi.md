@@ -2,6 +2,7 @@
 layout: term
 title: üstyapı
 slug: ustyapi
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Altyapı üzerine kurulan, oturmaya veya üretime yarayan yapıların tümü

@@ -2,6 +2,7 @@
 layout: term
 title: balet
 slug: balet
+letter: B
 lisan: Fransızca ballete
 anlamlar:
 - Bale yapan erkek sanatçı

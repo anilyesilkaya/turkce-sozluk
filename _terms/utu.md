@@ -2,6 +2,7 @@
 layout: term
 title: ütü
 slug: utu
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Genellikle giysilerin buruşukluklarını gidermek için bunların üzerinden geçirilen kızgın demir araç

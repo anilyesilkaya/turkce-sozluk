@@ -2,6 +2,7 @@
 layout: term
 title: natura
 slug: natura
+letter: N
 lisan: İtalyanca natura
 anlamlar:
 - İnsanın yaradılış özelliği

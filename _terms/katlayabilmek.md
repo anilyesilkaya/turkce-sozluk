@@ -2,6 +2,7 @@
 layout: term
 title: katlayabilmek
 slug: katlayabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Katlama ihtimali veya imkânı bulunmak

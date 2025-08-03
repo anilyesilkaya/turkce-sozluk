@@ -2,6 +2,7 @@
 layout: term
 title: asan
 slug: asan
+letter: A
 lisan: Farsça āsān
 anlamlar:
 - ► kolay

@@ -2,6 +2,7 @@
 layout: term
 title: tetebbu
 slug: tetebbu
+letter: T
 lisan: Arapça tetebbuʿ
 anlamlar:
 - Bir şeyi iyice inceleme, onunla ilgili bilgi edinme, araştırma

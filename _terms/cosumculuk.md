@@ -2,6 +2,7 @@
 layout: term
 title: coşumculuk
 slug: cosumculuk
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► romantizm

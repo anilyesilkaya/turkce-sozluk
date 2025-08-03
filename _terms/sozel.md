@@ -2,6 +2,7 @@
 layout: term
 title: sözel
 slug: sozel
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sözle ilgili, söze dayanan

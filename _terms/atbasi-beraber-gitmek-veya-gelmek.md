@@ -2,6 +2,7 @@
 layout: term
 title: atbaşı (beraber) gitmek (veya gelmek)
 slug: atbasi-beraber-gitmek-veya-gelmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - eşit durumda olmak

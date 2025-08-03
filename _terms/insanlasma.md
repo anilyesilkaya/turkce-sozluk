@@ -2,6 +2,7 @@
 layout: term
 title: insanlaşma
 slug: insanlasma
+letter: I
 lisan: Türkçe
 anlamlar:
 - İnsanlaşmak durumu

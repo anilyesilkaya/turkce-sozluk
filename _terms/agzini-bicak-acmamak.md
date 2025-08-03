@@ -2,6 +2,7 @@
 layout: term
 title: ağzını bıçak açmamak
 slug: agzini-bicak-acmamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - üzüntüden söz söyleyemeyecek durumda olmak

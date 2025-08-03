@@ -2,6 +2,7 @@
 layout: term
 title: Asena
 slug: asena
+letter: A
 lisan: Soğdca
 anlamlar:
 - Göktürk hükümdarlarının hanedan adı

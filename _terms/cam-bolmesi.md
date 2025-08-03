@@ -2,6 +2,7 @@
 layout: term
 title: çam bölmesi
 slug: cam-bolmesi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çam yarması

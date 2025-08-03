@@ -2,6 +2,7 @@
 layout: term
 title: baççıbaşı
 slug: baccibasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Baççılık görevini yürüten en kıdemli ve yetkili baççı

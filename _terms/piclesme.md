@@ -2,6 +2,7 @@
 layout: term
 title: piçleşme
 slug: piclesme
+letter: P
 lisan: Türkçe
 anlamlar:
 - Piçleşmek işi

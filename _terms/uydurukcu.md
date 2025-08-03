@@ -2,6 +2,7 @@
 layout: term
 title: uydurukçu
 slug: uydurukcu
+letter: U
 lisan: Türkçe
 anlamlar:
 - Bazı şeyleri uydurarak anlatan kimse

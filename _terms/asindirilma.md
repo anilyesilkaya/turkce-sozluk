@@ -2,6 +2,7 @@
 layout: term
 title: aşındırılma
 slug: asindirilma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aşındırılmak işi

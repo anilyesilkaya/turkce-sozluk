@@ -2,6 +2,7 @@
 layout: term
 title: kıymak
 slug: kiymak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çok ince ve küçük parçalar biçiminde doğramak

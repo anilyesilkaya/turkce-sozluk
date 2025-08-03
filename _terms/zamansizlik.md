@@ -2,6 +2,7 @@
 layout: term
 title: zamansızlık
 slug: zamansizlik
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zamansız olma durumu

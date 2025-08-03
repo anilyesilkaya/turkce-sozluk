@@ -2,6 +2,7 @@
 layout: term
 title: semavi
 slug: semavi
+letter: S
 lisan: Arapça semāvī
 anlamlar:
 - Allah’tan gelen, ilahi (I)

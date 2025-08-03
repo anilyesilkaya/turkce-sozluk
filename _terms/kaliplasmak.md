@@ -2,6 +2,7 @@
 layout: term
 title: kalıplaşmak
 slug: kaliplasmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Belli bir biçim almak

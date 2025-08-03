@@ -2,6 +2,7 @@
 layout: term
 title: pul şişe
 slug: pul-sise
+letter: P
 lisan: Türkçe
 anlamlar:
 - Yeşil camdan yapılan çok ince çeperli şişe

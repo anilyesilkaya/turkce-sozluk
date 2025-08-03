@@ -2,6 +2,7 @@
 layout: term
 title: depreştirme
 slug: deprestirme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Depreştirmek işi

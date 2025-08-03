@@ -2,6 +2,7 @@
 layout: term
 title: doğuranlar
 slug: doguranlar
+letter: D
 lisan: Türkçe
 anlamlar:
 - Hayvanların yavru doğurma yoluyla üreyen sınıfı

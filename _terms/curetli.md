@@ -2,6 +2,7 @@
 layout: term
 title: cüretli
 slug: curetli
+letter: C
 lisan: Türkçe
 anlamlar:
 - Kendini bilmez biçimde davranan (kimse); cüretkâr

@@ -2,6 +2,7 @@
 layout: term
 title: porsumak
 slug: porsumak
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► pörsümek

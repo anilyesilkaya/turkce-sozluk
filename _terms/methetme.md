@@ -2,6 +2,7 @@
 layout: term
 title: methetme
 slug: methetme
+letter: M
 lisan: Türkçe
 anlamlar:
 - Methetmek işi

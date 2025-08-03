@@ -2,6 +2,7 @@
 layout: term
 title: jübile yapmak
 slug: jubile-yapmak
+letter: J
 lisan: Türkçe
 anlamlar:
 - sporculuk yaşantısını özel bir karşılaşma ile bitirmek

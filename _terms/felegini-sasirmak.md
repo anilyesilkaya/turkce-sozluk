@@ -2,6 +2,7 @@
 layout: term
 title: feleğini şaşırmak
 slug: felegini-sasirmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - ummadığı bir durumda kalmak, şaşkınlık içine düşmek

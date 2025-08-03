@@ -2,6 +2,7 @@
 layout: term
 title: çinko
 slug: cinko
+letter: Ç
 lisan: İtalyanca cinque
 anlamlar:
 - Tombala oyununda kartın bir veya iki sırasını doldurma

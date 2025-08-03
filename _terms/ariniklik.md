@@ -2,6 +2,7 @@
 layout: term
 title: arınıklık
 slug: ariniklik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yararlı ve zararlı mikroorganizmaların kimyasal madde, ısı, ışın gibi etkenler kullanılarak tamamen yok edilmesi işlemi; sterilizasyon

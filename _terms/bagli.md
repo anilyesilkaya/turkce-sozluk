@@ -2,6 +2,7 @@
 layout: term
 title: bağlı
 slug: bagli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir bağ ile tutturulmuş olan

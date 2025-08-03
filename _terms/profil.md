@@ -2,6 +2,7 @@
 layout: term
 title: profil
 slug: profil
+letter: P
 lisan: Fransızca profil
 anlamlar:
 - ► yan

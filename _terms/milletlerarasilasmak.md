@@ -2,6 +2,7 @@
 layout: term
 title: milletlerarasılaşmak
 slug: milletlerarasilasmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - ►  uluslararasılaşmak

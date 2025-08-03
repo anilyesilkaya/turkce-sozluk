@@ -2,6 +2,7 @@
 layout: term
 title: zehirli gaz
 slug: zehirli-gaz
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zehirleyici özelliği bulunan gaz

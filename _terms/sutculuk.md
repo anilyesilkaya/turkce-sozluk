@@ -2,6 +2,7 @@
 layout: term
 title: sütçülük
 slug: sutculuk
+letter: S
 lisan: Türkçe
 anlamlar:
 - Süt satma işi

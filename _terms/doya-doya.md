@@ -2,6 +2,7 @@
 layout: term
 title: doya doya
 slug: doya-doya
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► doyasıya

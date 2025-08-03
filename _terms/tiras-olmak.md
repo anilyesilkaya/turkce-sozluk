@@ -2,6 +2,7 @@
 layout: term
 title: tıraş olmak
 slug: tiras-olmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - erkek saçını, sakalını kesmek veya berberde kestirmek, yülünmek

@@ -2,6 +2,7 @@
 layout: term
 title: akıntı çağanozu
 slug: akinti-caganozu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Akıntıya kapılmış yengeç

@@ -2,6 +2,7 @@
 layout: term
 title: Frenkleşmek
 slug: frenklesmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - Frenge benzemek, Frenk gibi davranışlarda bulunmak

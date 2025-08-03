@@ -2,6 +2,7 @@
 layout: term
 title: semizotugiller
 slug: semizotugiller
+letter: S
 lisan: Türkçe
 anlamlar:
 - Ayrı taç yapraklı iki çeneklilerden, semizotu, ipek çiçeği vb. bitkileri içine alan familya

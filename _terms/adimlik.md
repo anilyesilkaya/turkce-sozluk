@@ -2,6 +2,7 @@
 layout: term
 title: adımlık
 slug: adimlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Adım uzunluğunda olan

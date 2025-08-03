@@ -2,6 +2,7 @@
 layout: term
 title: küfürbazlık
 slug: kufurbazlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Küfürbaz olma durumu; ağzı bozukluk, sövgücülük, sövücülük

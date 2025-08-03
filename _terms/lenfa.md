@@ -2,6 +2,7 @@
 layout: term
 title: lenfa
 slug: lenfa
+letter: L
 lisan: Fransızca lymphe
 anlamlar:
 - ► lenf

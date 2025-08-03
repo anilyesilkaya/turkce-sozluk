@@ -2,6 +2,7 @@
 layout: term
 title: bok
 slug: bok
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► dışkı

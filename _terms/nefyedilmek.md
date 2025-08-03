@@ -2,6 +2,7 @@
 layout: term
 title: nefyedilmek
 slug: nefyedilmek
+letter: N
 lisan: Türkçe
 anlamlar:
 - Sürgüne gönderilmek; sürülmek

@@ -2,6 +2,7 @@
 layout: term
 title: kartoteks
 slug: kartoteks
+letter: K
 lisan: Fransızca cartotéques
 anlamlar:
 - ► kartotek

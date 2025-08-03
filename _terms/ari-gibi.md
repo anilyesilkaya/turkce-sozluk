@@ -2,6 +2,7 @@
 layout: term
 title: arı gibi
 slug: ari-gibi
+letter: A
 lisan: Türkçe
 anlamlar:
 - çok çalışkan

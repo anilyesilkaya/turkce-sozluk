@@ -2,6 +2,7 @@
 layout: term
 title: paytakça
 slug: paytakca
+letter: P
 lisan: Türkçe
 anlamlar:
 - Biraz paytak, paytak gibi, paytağa benzer

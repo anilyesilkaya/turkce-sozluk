@@ -2,6 +2,7 @@
 layout: term
 title: öldürücü
 slug: oldurucu
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öldüren, ölüme sebep olan, ölüme yol açan

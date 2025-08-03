@@ -2,6 +2,7 @@
 layout: term
 title: talihine küsmek
 slug: talihine-kusmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - kötü bir durum veya olayla karşılaşıldığında yalnızca talihi suçlamak

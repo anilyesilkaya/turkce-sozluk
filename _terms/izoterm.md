@@ -2,6 +2,7 @@
 layout: term
 title: izoterm
 slug: izoterm
+letter: I
 lisan: Fransızca isotherme
 anlamlar:
 - ► eş sıcak

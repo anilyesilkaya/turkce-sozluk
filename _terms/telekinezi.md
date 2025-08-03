@@ -2,6 +2,7 @@
 layout: term
 title: telekinezi
 slug: telekinezi
+letter: T
 lisan: Fransızca télékinésie
 anlamlar:
 - ► uza devim

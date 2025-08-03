@@ -2,6 +2,7 @@
 layout: term
 title: tiner
 slug: tiner
+letter: T
 lisan: İngilizce thinner
 anlamlar:
 - ► inceltici

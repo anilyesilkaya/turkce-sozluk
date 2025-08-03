@@ -2,6 +2,7 @@
 layout: term
 title: çınlak
 slug: cinlak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çınlaması, yankısı çok olan (yer)

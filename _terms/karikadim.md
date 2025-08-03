@@ -2,6 +2,7 @@
 layout: term
 title: 'kârıkadim '
 slug: karikadim
+letter: K
 lisan: Farsça kâr + Arapça ®ad³m
 anlamlar:
 - Eski model

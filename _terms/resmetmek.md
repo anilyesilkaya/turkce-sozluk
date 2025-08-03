@@ -2,6 +2,7 @@
 layout: term
 title: resmetmek
 slug: resmetmek
+letter: R
 lisan: Arapça resm + Türkçe etmek
 anlamlar:
 - Bir şeyin resmini çizmek

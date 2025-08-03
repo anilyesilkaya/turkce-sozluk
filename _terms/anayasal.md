@@ -2,6 +2,7 @@
 layout: term
 title: anayasal
 slug: anayasal
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yürürlükte olan anayasa ile ilgili

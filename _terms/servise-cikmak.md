@@ -2,6 +2,7 @@
 layout: term
 title: servise çıkmak
 slug: servise-cikmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - ulaşım aracı ile öğrencileri, çalışanları gidecekleri yere taşımak

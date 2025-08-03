@@ -2,6 +2,7 @@
 layout: term
 title: yıldırılmak
 slug: yildirilmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yıldırma işine konu olmak

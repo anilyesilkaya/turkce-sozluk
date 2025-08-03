@@ -2,6 +2,7 @@
 layout: term
 title: geçenek
 slug: gecenek
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► koridor

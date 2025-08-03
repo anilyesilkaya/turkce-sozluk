@@ -2,6 +2,7 @@
 layout: term
 title: kumaş
 slug: kumas
+letter: K
 lisan: Arapça ḳumāş
 anlamlar:
 - Pamuk, yün, ipek vb.nden makinede dokunmuş her türlü dokuma; güpür

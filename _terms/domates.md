@@ -2,6 +2,7 @@
 layout: term
 title: domates
 slug: domates
+letter: D
 lisan: Rumca
 anlamlar:
 - Patlıcangillerden, yaprakları tüylü, çiçekleri salkım durumunda, vitamince zengin bir bitki (Lycopersion esculentum)

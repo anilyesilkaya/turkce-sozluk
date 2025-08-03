@@ -2,6 +2,7 @@
 layout: term
 title: zırnık (bile) koklatmamak
 slug: zirnik-bile-koklatmamak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - en ufak bir şey vermekten kaçınmak

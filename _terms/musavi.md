@@ -2,6 +2,7 @@
 layout: term
 title: müsavi
 slug: musavi
+letter: M
 lisan: Arapça musāvī
 anlamlar:
 - ► eşit

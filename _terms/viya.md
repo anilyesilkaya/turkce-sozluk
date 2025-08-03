@@ -2,6 +2,7 @@
 layout: term
 title: viya
 slug: viya
+letter: V
 lisan: İtalyanca via
 anlamlar:
 - Dümeni ortaya alarak gemiyi bulunduğu doğrultuda yürütme

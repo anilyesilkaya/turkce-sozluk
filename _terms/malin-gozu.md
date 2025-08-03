@@ -2,6 +2,7 @@
 layout: term
 title: malın gözü
 slug: malin-gozu
+letter: M
 lisan: Türkçe
 anlamlar:
 - Açıkgöz, kurnaz, çokbilmiş kimse

@@ -2,6 +2,7 @@
 layout: term
 title: çırpmak
 slug: cirpmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Halı, kilim vb. şeyleri hızla ve kesik kesik silkelemek; dövmek

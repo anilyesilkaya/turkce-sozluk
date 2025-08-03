@@ -2,6 +2,7 @@
 layout: term
 title: sarıvermek
 slug: sarivermek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Çabucak sarmak

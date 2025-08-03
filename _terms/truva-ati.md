@@ -2,6 +2,7 @@
 layout: term
 title: Truva atı
 slug: truva-ati
+letter: T
 lisan: Türkçe
 anlamlar:
 - Odysseus’un Truva surlarını aşmak ve şehre gizlice girmek için yaptırdığı tahtadan at maketi

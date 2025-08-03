@@ -2,6 +2,7 @@
 layout: term
 title: kaşeksi
 slug: kaseksi
+letter: K
 lisan: Fransızca cachexie
 anlamlar:
 - Kötü beslenme, süreğen veya kötücül bir hastalığın seyri sırasında oluşan ileri derecede zayıflık, bitkinlik ve çöküntü durumu

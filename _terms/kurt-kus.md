@@ -2,6 +2,7 @@
 layout: term
 title: kurt kuş
 slug: kurt-kus
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bütün yaratıklar, bütün canlılar

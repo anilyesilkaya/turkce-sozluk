@@ -2,6 +2,7 @@
 layout: term
 title: derisini yüzmek
 slug: derisini-yuzmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - derisini soymak, sıyırmak

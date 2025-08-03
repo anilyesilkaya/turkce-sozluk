@@ -2,6 +2,7 @@
 layout: term
 title: yüzleşmek
 slug: yuzlesmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir iddiayı ileri sürenle, inkâr eden kimseler yüz yüze gelerek sözlerini tekrarlamak

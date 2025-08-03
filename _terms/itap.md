@@ -2,6 +2,7 @@
 layout: term
 title: itap
 slug: itap
+letter: I
 lisan: Arapça ʿitāb
 anlamlar:
 - Paylama, azarlama

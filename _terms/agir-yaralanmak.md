@@ -2,6 +2,7 @@
 layout: term
 title: ağır yaralanmak
 slug: agir-yaralanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - bedene derin ve ciddi yara almak

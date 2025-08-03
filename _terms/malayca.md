@@ -2,6 +2,7 @@
 layout: term
 title: Malayca
 slug: malayca
+letter: M
 lisan: Türkçe
 anlamlar:
 - Malayların kullandığı dil

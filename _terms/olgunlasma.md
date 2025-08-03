@@ -2,6 +2,7 @@
 layout: term
 title: olgunlaşma
 slug: olgunlasma
+letter: O
 lisan: Türkçe
 anlamlar:
 - Olgunlaşmak işi; tekemmül, tekâmül

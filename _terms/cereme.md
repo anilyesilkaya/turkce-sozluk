@@ -2,6 +2,7 @@
 layout: term
 title: cereme
 slug: cereme
+letter: C
 lisan: Arapça cerīme
 anlamlar:
 - Başkası tarafından yapılan veya kaza sonucu ortaya çıkan zararı ödeme

@@ -2,6 +2,7 @@
 layout: term
 title: turfa olmak
 slug: turfa-olmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - değerini yitirmek, işe yaramamak

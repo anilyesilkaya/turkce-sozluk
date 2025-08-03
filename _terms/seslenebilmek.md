@@ -2,6 +2,7 @@
 layout: term
 title: seslenebilmek
 slug: seslenebilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Seslenme ihtimali veya imkânı bulunmak

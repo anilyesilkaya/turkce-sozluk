@@ -2,6 +2,7 @@
 layout: term
 title: salpak
 slug: salpak
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► salpa

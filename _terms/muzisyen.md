@@ -2,6 +2,7 @@
 layout: term
 title: müzisyen
 slug: muzisyen
+letter: M
 lisan: Fransızca musicien
 anlamlar:
 - Müzik eserleri yazan, besteleyen veya besteleri çalan kimse; müzikçi

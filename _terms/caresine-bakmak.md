@@ -2,6 +2,7 @@
 layout: term
 title: çaresine bakmak
 slug: caresine-bakmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - gerekeni yapmak, çözüm yolu aramak

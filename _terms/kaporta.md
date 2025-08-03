@@ -2,6 +2,7 @@
 layout: term
 title: kaporta
 slug: kaporta
+letter: K
 lisan: İtalyanca boccaporta
 anlamlar:
 - Otomobilde kaput veya ön kapak

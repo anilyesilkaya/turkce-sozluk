@@ -2,6 +2,7 @@
 layout: term
 title: nakliye
 slug: nakliye
+letter: N
 lisan: Arapça naḳliyye
 anlamlar:
 - Taşımak işi

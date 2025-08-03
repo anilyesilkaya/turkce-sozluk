@@ -2,6 +2,7 @@
 layout: term
 title: kırlaşmak
 slug: kirlasmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kırsal duruma gelmek

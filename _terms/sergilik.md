@@ -2,6 +2,7 @@
 layout: term
 title: sergilik
 slug: sergilik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sergi yeri

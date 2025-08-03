@@ -2,6 +2,7 @@
 layout: term
 title: ayırtman
 slug: ayirtman
+letter: A
 lisan: Türkçe
 anlamlar:
 - Sınavlarda, soruların hazırlanmasından notların verilmesine kadar bütün değerlendirme çalışmalarına katılan görevli; mümeyyiz

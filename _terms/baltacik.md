@@ -2,6 +2,7 @@
 layout: term
 title: baltacık
 slug: baltacik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Küçük el baltası

@@ -2,6 +2,7 @@
 layout: term
 title: yıkım
 slug: yikim
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yıkmak işi

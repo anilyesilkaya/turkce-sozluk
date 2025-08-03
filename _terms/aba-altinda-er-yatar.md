@@ -2,6 +2,7 @@
 layout: term
 title: aba altında er yatar
 slug: aba-altinda-er-yatar
+letter: A
 lisan: Türkçe
 anlamlar:
 - '"bir insanın değeri giyimiyle kuşamıyla ölçülemez" anlamında kullanılan bir söz'

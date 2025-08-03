@@ -2,6 +2,7 @@
 layout: term
 title: 'açgözlük etmek '
 slug: acgozluk-etmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - açgözlülük etmek

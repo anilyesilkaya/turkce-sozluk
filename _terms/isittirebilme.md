@@ -2,6 +2,7 @@
 layout: term
 title: işittirebilme
 slug: isittirebilme
+letter: I
 lisan: Türkçe
 anlamlar:
 - İşittirebilmek işi

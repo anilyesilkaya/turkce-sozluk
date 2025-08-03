@@ -2,6 +2,7 @@
 layout: term
 title: avutma
 slug: avutma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Avutmak işi; teselli

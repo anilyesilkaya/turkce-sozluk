@@ -2,6 +2,7 @@
 layout: term
 title: seramik
 slug: seramik
+letter: S
 lisan: Fransızca céramique
 anlamlar:
 - Yüksek ısıda pişirilmiş topraktan yapılan vazo, çanak, çömlek vb. nesne

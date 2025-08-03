@@ -2,6 +2,7 @@
 layout: term
 title: niteleyebilmek
 slug: niteleyebilmek
+letter: N
 lisan: Türkçe
 anlamlar:
 - Niteleme ihtimali veya imkânı bulunmak

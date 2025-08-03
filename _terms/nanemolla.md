@@ -2,6 +2,7 @@
 layout: term
 title: nanemolla
 slug: nanemolla
+letter: N
 lisan: Türkçe
 anlamlar:
 - Çok sık hastalanan, sağlıksız (kimse)

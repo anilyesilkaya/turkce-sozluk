@@ -2,6 +2,7 @@
 layout: term
 title: bandana
 slug: bandana
+letter: B
 lisan: Fransızca bandana
 anlamlar:
 - Başı değişik biçimlerde bağlamak amacıyla kullanılan büyük mendil

@@ -2,6 +2,7 @@
 layout: term
 title: besi yeri
 slug: besi-yeri
+letter: B
 lisan: Türkçe
 anlamlar:
 - Canlı veya uyku durumunda olan mikroorganizmaların, hücrelerin yetiştirilmek ve geliştirilmek üzere aşılandığı veya ekildiği, besleyici maddeler içeren ortam; kültür ortamı

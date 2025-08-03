@@ -2,6 +2,7 @@
 layout: term
 title: elleyiş
 slug: elleyis
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ellemek işi

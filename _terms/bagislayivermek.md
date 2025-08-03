@@ -2,6 +2,7 @@
 layout: term
 title: bağışlayıvermek
 slug: bagislayivermek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çabucak bağışlamak; affedivermek

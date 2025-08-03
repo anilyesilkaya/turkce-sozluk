@@ -2,6 +2,7 @@
 layout: term
 title: şeşcihar
 slug: sescihar
+letter: Ş
 lisan: Farsça şeş + çehār
 anlamlar:
 - Zarla oynanan oyunlarda, atılan zarlardan birinin altı, öbürünün dört benekli olan yüzünün üste gelmesi

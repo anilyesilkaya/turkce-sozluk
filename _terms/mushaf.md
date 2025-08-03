@@ -2,6 +2,7 @@
 layout: term
 title: Mushaf
 slug: mushaf
+letter: M
 lisan: Arapça muṣḥaf
 anlamlar:
 - ► Kur'an

@@ -2,6 +2,7 @@
 layout: term
 title: yan yatmak
 slug: yan-yatmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yana doğru çok eğilmek

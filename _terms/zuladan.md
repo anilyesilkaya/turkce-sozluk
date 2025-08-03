@@ -2,6 +2,7 @@
 layout: term
 title: zuladan
 slug: zuladan
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► gizlice

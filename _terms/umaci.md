@@ -2,6 +2,7 @@
 layout: term
 title: umacı
 slug: umaci
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► öcü

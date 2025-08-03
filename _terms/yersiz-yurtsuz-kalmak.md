@@ -2,6 +2,7 @@
 layout: term
 title: yersiz yurtsuz kalmak
 slug: yersiz-yurtsuz-kalmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - barınacak bir yeri bulunmamak, oturacak yeri olmamak

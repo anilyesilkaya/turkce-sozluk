@@ -2,6 +2,7 @@
 layout: term
 title: çapaklı
 slug: capakli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çapağı olan

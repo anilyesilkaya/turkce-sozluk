@@ -2,6 +2,7 @@
 layout: term
 title: ihbar etmek
 slug: ihbar-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - bildirmek, haber vermek

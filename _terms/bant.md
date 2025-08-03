@@ -2,6 +2,7 @@
 layout: term
 title: bant
 slug: bant
+letter: B
 lisan: Fransızca bande
 anlamlar:
 - Yapılış özelliğine göre sarma, yapıştırma, malzemeyi bir yerden başka yere taşıma vb. işlerde yararlanılan, giysilerde süs, işaret vb. için kullanılan, düz, ensiz, yassı şerit; izole bant

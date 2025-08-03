@@ -2,6 +2,7 @@
 layout: term
 title: şakrak
 slug: sakrak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şen, neşeli, hayat dolu olan

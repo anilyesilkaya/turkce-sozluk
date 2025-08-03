@@ -2,6 +2,7 @@
 layout: term
 title: yüreğini açmak
 slug: yuregini-acmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - kalbini açmak, derdini dökmek, içini dökmek, senli benli konuşmak ve davranmak

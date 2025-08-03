@@ -2,6 +2,7 @@
 layout: term
 title: babasız
 slug: babasiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► yetim

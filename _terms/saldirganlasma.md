@@ -2,6 +2,7 @@
 layout: term
 title: saldırganlaşma
 slug: saldirganlasma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Saldırganlaşmak durumu

@@ -2,6 +2,7 @@
 layout: term
 title: nefes çekmek
 slug: nefes-cekmek
+letter: N
 lisan: Türkçe
 anlamlar:
 - sigara veya başka bir şeyin dumanını içine çekmek

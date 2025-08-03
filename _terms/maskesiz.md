@@ -2,6 +2,7 @@
 layout: term
 title: maskesiz
 slug: maskesiz
+letter: M
 lisan: Türkçe
 anlamlar:
 - Maskesi olmayan

@@ -2,6 +2,7 @@
 layout: term
 title: rahle
 slug: rahle
+letter: R
 lisan: Arapça raḥle
 anlamlar:
 - Üzerinde kitap okunan, yazı yazılan, bazıları açılıp kapanabilen alçak, küçük masa

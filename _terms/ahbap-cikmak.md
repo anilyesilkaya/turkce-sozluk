@@ -2,6 +2,7 @@
 layout: term
 title: ahbap çıkmak
 slug: ahbap-cikmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - önceden tanışmış olmak

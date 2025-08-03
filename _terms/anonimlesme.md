@@ -2,6 +2,7 @@
 layout: term
 title: anonimleşme
 slug: anonimlesme
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anonimleşmek durumu

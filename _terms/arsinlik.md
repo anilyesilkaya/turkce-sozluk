@@ -2,6 +2,7 @@
 layout: term
 title: arşınlık
 slug: arsinlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arşın ölçüsünde, arşın kadar

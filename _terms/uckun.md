@@ -2,6 +2,7 @@
 layout: term
 title: uçkun
 slug: uckun
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uçmuş, fırlamış

@@ -2,6 +2,7 @@
 layout: term
 title: kızıltılı
 slug: kiziltili
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kızıltısı olan

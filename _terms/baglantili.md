@@ -2,6 +2,7 @@
 layout: term
 title: bağlantılı
 slug: baglantili
+letter: B
 lisan: Türkçe
 anlamlar:
 - Düşünceler, olaylar, nesneler vb. arasında bağlantı veya ilgi bulunan; irtibatlı, rabıtalı, angajmanlı

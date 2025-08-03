@@ -2,6 +2,7 @@
 layout: term
 title: bızdık
 slug: bizdik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Ufak çocuk

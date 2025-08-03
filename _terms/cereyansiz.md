@@ -2,6 +2,7 @@
 layout: term
 title: cereyansız
 slug: cereyansiz
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► akıntısız

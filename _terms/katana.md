@@ -2,6 +2,7 @@
 layout: term
 title: katana
 slug: katana
+letter: K
 lisan: Macarca katona
 anlamlar:
 - Bir cins iri at

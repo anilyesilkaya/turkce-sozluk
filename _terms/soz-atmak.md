@@ -2,6 +2,7 @@
 layout: term
 title: söz atmak
 slug: soz-atmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - laf atmak

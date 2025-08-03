@@ -2,6 +2,7 @@
 layout: term
 title: lotaryacı
 slug: lotaryaci
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lotarya yolu ile kazanç sağlayan kimse

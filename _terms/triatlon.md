@@ -2,6 +2,7 @@
 layout: term
 title: triatlon
 slug: triatlon
+letter: T
 lisan: Fransızca triathlon
 anlamlar:
 - Yüzme, koşu ve bisiklet yarışından oluşan atletizm dalı

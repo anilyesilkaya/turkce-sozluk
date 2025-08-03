@@ -2,6 +2,7 @@
 layout: term
 title: erganun
 slug: erganun
+letter: E
 lisan: Rumca
 anlamlar:
 - ► org

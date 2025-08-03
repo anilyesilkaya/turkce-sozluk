@@ -2,6 +2,7 @@
 layout: term
 title: el emeği
 slug: el-emegi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Elde üretilen

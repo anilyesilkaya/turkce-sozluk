@@ -2,6 +2,7 @@
 layout: term
 title: komando
 slug: komando
+letter: K
 lisan: Fransızca commando
 anlamlar:
 - Özel yetiştirilmiş askerlerden oluşan birlik

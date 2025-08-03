@@ -2,6 +2,7 @@
 layout: term
 title: boynuz isterken kulaktan olmak
 slug: boynuz-isterken-kulaktan-olmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - daha iyisini, mükemmelini ararken mevcut olanı yitirmek

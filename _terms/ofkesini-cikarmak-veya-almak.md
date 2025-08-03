@@ -2,6 +2,7 @@
 layout: term
 title: öfkesini çıkarmak (veya almak)
 slug: ofkesini-cikarmak-veya-almak
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - öfkeli kişi haksız yere ilgisiz birine çatmak

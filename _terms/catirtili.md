@@ -2,6 +2,7 @@
 layout: term
 title: çatırtılı
 slug: catirtili
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çatırtısı olan

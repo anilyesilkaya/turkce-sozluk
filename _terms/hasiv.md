@@ -2,6 +2,7 @@
 layout: term
 title: haşiv
 slug: hasiv
+letter: H
 lisan: Arapça ḥaşv
 anlamlar:
 - ► doldurma

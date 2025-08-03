@@ -2,6 +2,7 @@
 layout: term
 title: halel getirmek
 slug: halel-getirmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - zarar vermek

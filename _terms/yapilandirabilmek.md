@@ -2,6 +2,7 @@
 layout: term
 title: yapılandırabilmek
 slug: yapilandirabilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yapılandırma ihtimali veya imkânı bulunmak

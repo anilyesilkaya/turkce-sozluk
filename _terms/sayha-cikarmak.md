@@ -2,6 +2,7 @@
 layout: term
 title: sayha çıkarmak
 slug: sayha-cikarmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - yüksek sesle haykırmak

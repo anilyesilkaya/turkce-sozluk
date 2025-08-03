@@ -2,6 +2,7 @@
 layout: term
 title: anlata anlata bitirememek
 slug: anlata-anlata-bitirememek
+letter: A
 lisan: Türkçe
 anlamlar:
 - beğenilen bir şeyi uzun uzun anlatmak

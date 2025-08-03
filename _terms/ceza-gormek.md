@@ -2,6 +2,7 @@
 layout: term
 title: ceza görmek
 slug: ceza-gormek
+letter: C
 lisan: Türkçe
 anlamlar:
 - kendisine ceza verilmek, cezalandırılmak

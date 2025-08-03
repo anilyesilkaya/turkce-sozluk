@@ -2,6 +2,7 @@
 layout: term
 title: Urumca
 slug: urumca
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► Urum Türkçesi

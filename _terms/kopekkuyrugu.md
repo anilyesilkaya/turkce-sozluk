@@ -2,6 +2,7 @@
 layout: term
 title: köpekkuyruğu
 slug: kopekkuyrugu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yağlı güreşte rakibinin sırtını yere getirmek için onu çenesinden, alnından veya gırtlağından elle çekip sırtını yere getirmeye çalışma

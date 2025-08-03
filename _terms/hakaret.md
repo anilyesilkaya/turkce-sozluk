@@ -2,6 +2,7 @@
 layout: term
 title: hakaret
 slug: hakaret
+letter: H
 lisan: Arapça ḥaḳāret
 anlamlar:
 - Onur kırma, onura dokunma; tahkir

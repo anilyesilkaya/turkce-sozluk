@@ -2,6 +2,7 @@
 layout: term
 title: göçük
 slug: gocuk
+letter: G
 lisan: Türkçe
 anlamlar:
 - Çökmüş, kaymış toprak, çöküntü, yıkıntı

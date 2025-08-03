@@ -2,6 +2,7 @@
 layout: term
 title: höpürtü
 slug: hopurtu
+letter: H
 lisan: Türkçe
 anlamlar:
 - Höpürdetme sırasında çıkan sesin adı; höpürdek

@@ -2,6 +2,7 @@
 layout: term
 title: karılık
 slug: karilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kadın olma durumu

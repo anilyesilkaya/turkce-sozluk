@@ -2,6 +2,7 @@
 layout: term
 title: mahıv
 slug: mahiv
+letter: M
 lisan: Arapça maḥv
 anlamlar:
 - Yok etme, yok olma

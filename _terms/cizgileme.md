@@ -2,6 +2,7 @@
 layout: term
 title: çizgileme
 slug: cizgileme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çizgilemek işi

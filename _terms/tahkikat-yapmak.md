@@ -2,6 +2,7 @@
 layout: term
 title: tahkikat yapmak
 slug: tahkikat-yapmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - belli bir konuyu araştırmak, soruşturmak

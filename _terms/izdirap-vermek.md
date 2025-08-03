@@ -2,6 +2,7 @@
 layout: term
 title: ızdırap vermek
 slug: izdirap-vermek
+letter: I
 lisan: Türkçe
 anlamlar:
 - acı ve üzüntü vermek

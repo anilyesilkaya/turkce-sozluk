@@ -2,6 +2,7 @@
 layout: term
 title: orta oyunculuğu
 slug: orta-oyunculugu
+letter: O
 lisan: Türkçe
 anlamlar:
 - Orta oyuncusunun sanatı

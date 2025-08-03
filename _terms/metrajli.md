@@ -2,6 +2,7 @@
 layout: term
 title: metrajlı
 slug: metrajli
+letter: M
 lisan: Türkçe
 anlamlar:
 - Herhangi bir metre uzunluğunda olan

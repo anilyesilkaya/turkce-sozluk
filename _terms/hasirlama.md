@@ -2,6 +2,7 @@
 layout: term
 title: hasırlama
 slug: hasirlama
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hasırlamak işi

@@ -2,6 +2,7 @@
 layout: term
 title: sandalgiller
 slug: sandalgiller
+letter: S
 lisan: Türkçe
 anlamlar:
 - Tropikal ve ılıman bölgelerde yaşayan, iki yüzden çok türü olan, taçsız iki çenekli bitkiler familyası

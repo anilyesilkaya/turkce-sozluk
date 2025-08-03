@@ -2,6 +2,7 @@
 layout: term
 title: betonumsu
 slug: betonumsu
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► betonsu

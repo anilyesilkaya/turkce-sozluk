@@ -2,6 +2,7 @@
 layout: term
 title: gürleyip gitmek
 slug: gurleyip-gitmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - beklenmedik bir zamanda ansızın ölmek

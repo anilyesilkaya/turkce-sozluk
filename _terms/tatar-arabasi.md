@@ -2,6 +2,7 @@
 layout: term
 title: tatar arabası
 slug: tatar-arabasi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Posta arabası

@@ -2,6 +2,7 @@
 layout: term
 title: koordine etmek
 slug: koordine-etmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - eş güdümlemek

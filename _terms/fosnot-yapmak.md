@@ -2,6 +2,7 @@
 layout: term
 title: fosnot yapmak
 slug: fosnot-yapmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - müzik eserini çalarken veya söylerken nota yanlışlığı yapmak

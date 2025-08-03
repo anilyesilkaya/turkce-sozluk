@@ -2,6 +2,7 @@
 layout: term
 title: ballı
 slug: balli
+letter: B
 lisan: Türkçe
 anlamlar:
 - İçinde bal bulunan

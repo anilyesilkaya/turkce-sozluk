@@ -2,6 +2,7 @@
 layout: term
 title: bireyleşme
 slug: bireylesme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Türle ilgili bir örneğin bireyde gerçekleşmesi

@@ -2,6 +2,7 @@
 layout: term
 title: oynanabilme
 slug: oynanabilme
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oynanabilmek işi

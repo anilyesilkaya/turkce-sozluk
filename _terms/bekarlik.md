@@ -2,6 +2,7 @@
 layout: term
 title: bekârlık
 slug: bekarlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bekâr olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: bunaltılmak
 slug: bunaltilmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bunalmasına yol açılmak

@@ -2,6 +2,7 @@
 layout: term
 title: akortlatma
 slug: akortlatma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Akortlatmak işi

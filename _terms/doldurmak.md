@@ -2,6 +2,7 @@
 layout: term
 title: doldurmak
 slug: doldurmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dolmasını sağlamak, dolu duruma getirmek; kaplamak

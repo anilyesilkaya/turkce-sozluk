@@ -2,6 +2,7 @@
 layout: term
 title: kargışlı
 slug: kargisli
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► ilençli

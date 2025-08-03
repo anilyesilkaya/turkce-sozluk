@@ -2,6 +2,7 @@
 layout: term
 title: geç
 slug: gec
+letter: G
 lisan: Türkçe
 anlamlar:
 - Belirli zamandan sonra olan

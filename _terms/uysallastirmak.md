@@ -2,6 +2,7 @@
 layout: term
 title: uysallaştırmak
 slug: uysallastirmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uysal duruma getirmek

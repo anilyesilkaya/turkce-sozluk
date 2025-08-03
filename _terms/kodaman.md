@@ -2,6 +2,7 @@
 layout: term
 title: kodaman
 slug: kodaman
+letter: K
 lisan: Türkçe
 anlamlar:
 - İleri gelen, para veya makam sahibi kimse

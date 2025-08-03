@@ -2,6 +2,7 @@
 layout: term
 title: öğretebilmek
 slug: ogretebilmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öğretme ihtimali veya imkânı bulunmak

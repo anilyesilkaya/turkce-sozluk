@@ -2,6 +2,7 @@
 layout: term
 title: yurtlandırmak
 slug: yurtlandirmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir kimseye veya bir topluluğa yurt sağlamak; iskân etmek

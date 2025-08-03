@@ -2,6 +2,7 @@
 layout: term
 title: çeşnicibaşı
 slug: cesnicibasi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Saraylarda ve büyük konaklarda yemeklerden sorumlu, çeşnicilerin amiri olan kimse

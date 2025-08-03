@@ -2,6 +2,7 @@
 layout: term
 title: gerekçeli
 slug: gerekceli
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gerekçeye dayanan, gerekçesi olan

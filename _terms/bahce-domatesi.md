@@ -2,6 +2,7 @@
 layout: term
 title: bahçe domatesi
 slug: bahce-domatesi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Tarla ve bahçelerde yapay gübre kullanmadan doğal olarak yetiştirilen bir tür domates

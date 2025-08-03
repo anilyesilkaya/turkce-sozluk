@@ -2,6 +2,7 @@
 layout: term
 title: mıhlanmak
 slug: mihlanmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► çivilenmek

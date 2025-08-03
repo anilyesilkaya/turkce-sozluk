@@ -2,6 +2,7 @@
 layout: term
 title: geçe
 slug: gece
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► yaka

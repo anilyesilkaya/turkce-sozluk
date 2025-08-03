@@ -2,6 +2,7 @@
 layout: term
 title: sulu
 slug: sulu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Suyu olan, içinde su bulunan, koyu karşıtı

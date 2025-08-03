@@ -2,6 +2,7 @@
 layout: term
 title: şömizye
 slug: somizye
+letter: Ş
 lisan: Fransızca chemisier
 anlamlar:
 - Yakası erkek gömleğini andıran (kadın giysisi)

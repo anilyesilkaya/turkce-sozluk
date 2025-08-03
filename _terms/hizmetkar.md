@@ -2,6 +2,7 @@
 layout: term
 title: hizmetkâr
 slug: hizmetkar
+letter: H
 lisan: Arapça ḫidmet + Farsça -kâr
 anlamlar:
 - ► uşak

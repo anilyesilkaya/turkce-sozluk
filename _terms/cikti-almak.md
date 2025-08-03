@@ -2,6 +2,7 @@
 layout: term
 title: çıktı almak
 slug: cikti-almak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - bilgisayarda bulunan bir metni kâğıda yazdırmak

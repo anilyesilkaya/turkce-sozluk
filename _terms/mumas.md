@@ -2,6 +2,7 @@
 layout: term
 title: mümas
 slug: mumas
+letter: M
 lisan: Arapça mumāss
 anlamlar:
 - Dokunan, temas eden

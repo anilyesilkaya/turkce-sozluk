@@ -2,6 +2,7 @@
 layout: term
 title: ateşlendirmek
 slug: ateslendirmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ateşlemek işini yaptırmak

@@ -2,6 +2,7 @@
 layout: term
 title: kablolu
 slug: kablolu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kablosu olan

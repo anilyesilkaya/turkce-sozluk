@@ -2,6 +2,7 @@
 layout: term
 title: pervasızlık
 slug: pervasizlik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Sakınmama, korkusuzluk

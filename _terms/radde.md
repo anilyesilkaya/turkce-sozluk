@@ -2,6 +2,7 @@
 layout: term
 title: radde
 slug: radde
+letter: R
 lisan: Arapça rādde
 anlamlar:
 - ► kerte (II)

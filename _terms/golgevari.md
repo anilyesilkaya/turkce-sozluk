@@ -2,6 +2,7 @@
 layout: term
 title: gölgevari
 slug: golgevari
+letter: G
 lisan: Türkçe gölge + Far
 anlamlar:
 - Gölgeye benzeyen

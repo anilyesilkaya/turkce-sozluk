@@ -2,6 +2,7 @@
 layout: term
 title: şambabası
 slug: sambabasi
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► şambaba

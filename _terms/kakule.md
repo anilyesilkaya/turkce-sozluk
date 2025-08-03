@@ -2,6 +2,7 @@
 layout: term
 title: kakule
 slug: kakule
+letter: K
 lisan: Arapça ḳāḳulle
 anlamlar:
 - Zencefilgillerden, sıcak iklimlerde yetişen güzel kokulu bir bitki (Elettaria cardamomum)

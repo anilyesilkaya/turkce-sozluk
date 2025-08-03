@@ -2,6 +2,7 @@
 layout: term
 title: uygun bulmak
 slug: uygun-bulmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - yakışır, yaraşır görmek

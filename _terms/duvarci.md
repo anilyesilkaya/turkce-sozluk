@@ -2,6 +2,7 @@
 layout: term
 title: duvarcı
 slug: duvarci
+letter: D
 lisan: Türkçe
 anlamlar:
 - Duvar ören nitelikli işçi

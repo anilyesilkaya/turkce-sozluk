@@ -2,6 +2,7 @@
 layout: term
 title: pespaye
 slug: pespaye
+letter: P
 lisan: Farsça pest + pāye
 anlamlar:
 - ► alçak

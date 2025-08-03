@@ -2,6 +2,7 @@
 layout: term
 title: çerez gibi yemek
 slug: cerez-gibi-yemek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - gereğinden çok ve hızlı yemek

@@ -2,6 +2,7 @@
 layout: term
 title: defnolunmak
 slug: defnolunmak
+letter: D
 lisan: Arapça defn + Türkçe olunmak
 anlamlar:
 - Ölü gömülmek, toprağa verilmek

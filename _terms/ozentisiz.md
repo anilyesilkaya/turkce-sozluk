@@ -2,6 +2,7 @@
 layout: term
 title: özentisiz
 slug: ozentisiz
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Özenti olmadan, özenti gösterilmeden, özenmeden yapılan

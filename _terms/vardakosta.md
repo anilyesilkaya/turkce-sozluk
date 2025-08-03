@@ -2,6 +2,7 @@
 layout: term
 title: vardakosta
 slug: vardakosta
+letter: V
 lisan: İtalyanca guardacoste
 anlamlar:
 - Kıyıları koruyan gemi

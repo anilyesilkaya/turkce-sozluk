@@ -2,6 +2,7 @@
 layout: term
 title: marpuç
 slug: marpuc
+letter: M
 lisan: Farsça mārpīç
 anlamlar:
 - Nargileye takılan ve kolayca içmeyi sağlayan, hortum biçiminde uzun ve bükülgen boru

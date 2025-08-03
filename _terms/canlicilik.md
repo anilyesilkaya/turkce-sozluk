@@ -2,6 +2,7 @@
 layout: term
 title: canlıcılık
 slug: canlicilik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Olup bitenin, ruhlar alanının gizli güçleri tarafından yönetildiğine inanan ilkel anlayış; animizm

@@ -2,6 +2,7 @@
 layout: term
 title: plaket
 slug: plaket
+letter: P
 lisan: Fransızca plaquette
 anlamlar:
 - ► onurluk

@@ -2,6 +2,7 @@
 layout: term
 title: litografya
 slug: litografya
+letter: L
 lisan: Yunanca
 anlamlar:
 - ► taş basması

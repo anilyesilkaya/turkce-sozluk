@@ -2,6 +2,7 @@
 layout: term
 title: denk getirmek
 slug: denk-getirmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - uygun zamanını ve durumunu bulmak, rastlatmak

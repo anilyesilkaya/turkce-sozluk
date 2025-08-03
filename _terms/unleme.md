@@ -2,6 +2,7 @@
 layout: term
 title: ünleme
 slug: unleme
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Ünlemek işi

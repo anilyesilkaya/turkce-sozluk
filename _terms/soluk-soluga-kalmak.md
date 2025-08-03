@@ -2,6 +2,7 @@
 layout: term
 title: soluk soluğa kalmak
 slug: soluk-soluga-kalmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - nefes alamayacak duruma gelmek, çok yorulmak

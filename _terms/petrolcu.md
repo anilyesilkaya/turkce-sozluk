@@ -2,6 +2,7 @@
 layout: term
 title: petrolcü
 slug: petrolcu
+letter: P
 lisan: Türkçe
 anlamlar:
 - Petrol arama, bulma işiyle uğraşan kimse

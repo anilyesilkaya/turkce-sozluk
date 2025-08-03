@@ -2,6 +2,7 @@
 layout: term
 title: tıkırdamak
 slug: tikirdamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - '"Tıkır tıkır" ses çıkarmak, tıkırtı yapmak'

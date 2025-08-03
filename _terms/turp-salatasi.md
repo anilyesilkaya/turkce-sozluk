@@ -2,6 +2,7 @@
 layout: term
 title: turp salatası
 slug: turp-salatasi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Rendelenmiş turptan yapılan salata

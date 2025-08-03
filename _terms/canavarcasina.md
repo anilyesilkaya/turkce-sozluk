@@ -2,6 +2,7 @@
 layout: term
 title: canavarcasına
 slug: canavarcasina
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► canavarca

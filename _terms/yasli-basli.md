@@ -2,6 +2,7 @@
 layout: term
 title: yaşlı başlı
 slug: yasli-basli
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaşlı, deneyimli ve görgülü olan

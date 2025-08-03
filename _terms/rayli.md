@@ -2,6 +2,7 @@
 layout: term
 title: raylı
 slug: rayli
+letter: R
 lisan: Türkçe
 anlamlar:
 - Rayı bulunan

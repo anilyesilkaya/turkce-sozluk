@@ -2,6 +2,7 @@
 layout: term
 title: manşonlu
 slug: mansonlu
+letter: M
 lisan: Türkçe
 anlamlar:
 - Manşonu olan

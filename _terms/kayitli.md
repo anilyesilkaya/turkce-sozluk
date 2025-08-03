@@ -2,6 +2,7 @@
 layout: term
 title: kayıtlı
 slug: kayitli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaydı yapılmış, kayda geçirilmiş olan; mukayyet

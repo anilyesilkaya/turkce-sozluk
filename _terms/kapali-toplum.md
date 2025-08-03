@@ -2,6 +2,7 @@
 layout: term
 title: kapalı toplum
 slug: kapali-toplum
+letter: K
 lisan: Türkçe
 anlamlar:
 - Dış dünya ile her türlü ilişkisini kesmiş olan insan topluluğu

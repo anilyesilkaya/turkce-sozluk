@@ -2,6 +2,7 @@
 layout: term
 title: hesabını kitabını bilmek
 slug: hesabini-kitabini-bilmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - tutumlu olmak

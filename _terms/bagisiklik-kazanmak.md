@@ -2,6 +2,7 @@
 layout: term
 title: bağışıklık kazanmak
 slug: bagisiklik-kazanmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - bazı mikroplara karşı aşı veya doğal yolla dirençli duruma gelmek

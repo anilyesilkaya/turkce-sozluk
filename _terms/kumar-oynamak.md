@@ -2,6 +2,7 @@
 layout: term
 title: kumar oynamak
 slug: kumar-oynamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - ortaya para koyarak talih oyunu oynamak

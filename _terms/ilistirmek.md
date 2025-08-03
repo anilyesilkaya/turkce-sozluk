@@ -2,6 +2,7 @@
 layout: term
 title: iliştirmek
 slug: ilistirmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İlişmesini sağlamak

@@ -2,6 +2,7 @@
 layout: term
 title: barut gibi
 slug: barut-gibi
+letter: B
 lisan: Türkçe
 anlamlar:
 - öfkeli, huysuz, sert, aksi (kimse)

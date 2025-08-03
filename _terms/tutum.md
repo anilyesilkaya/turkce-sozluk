@@ -2,6 +2,7 @@
 layout: term
 title: tutum
 slug: tutum
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tutulan yol, tavır

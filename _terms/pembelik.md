@@ -2,6 +2,7 @@
 layout: term
 title: pembelik
 slug: pembelik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pembe renginde olma

@@ -2,6 +2,7 @@
 layout: term
 title: koyun koyuna
 slug: koyun-koyuna
+letter: K
 lisan: Türkçe
 anlamlar:
 - Birbirine sarılmış bir durumda

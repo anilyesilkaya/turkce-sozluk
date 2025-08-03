@@ -2,6 +2,7 @@
 layout: term
 title: maymunlaştırmak
 slug: maymunlastirmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - Birini, kendi düşünceleriyle değil başkalarının yönlendirmesiyle hareket eder duruma getirmek

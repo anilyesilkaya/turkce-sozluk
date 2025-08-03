@@ -2,6 +2,7 @@
 layout: term
 title: yontulmak
 slug: yontulmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yontma işi yapılmak veya yontma işine konu olmak; yonulmak

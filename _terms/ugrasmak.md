@@ -2,6 +2,7 @@
 layout: term
 title: uğraşmak
 slug: ugrasmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Bir iş üzerinde sürekli çalışmak

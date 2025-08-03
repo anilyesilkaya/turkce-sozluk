@@ -2,6 +2,7 @@
 layout: term
 title: manasız
 slug: manasiz
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► anlamsız

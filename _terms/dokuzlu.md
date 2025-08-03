@@ -2,6 +2,7 @@
 layout: term
 title: dokuzlu
 slug: dokuzlu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dokuz parçadan oluşan, kendinde herhangi bir şeyden dokuz tane bulunan

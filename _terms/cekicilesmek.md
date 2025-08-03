@@ -2,6 +2,7 @@
 layout: term
 title: çekicileşmek
 slug: cekicilesmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çekici duruma gelmek; cazipleşmek, cazibeleşmek

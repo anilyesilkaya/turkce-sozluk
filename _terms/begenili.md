@@ -2,6 +2,7 @@
 layout: term
 title: beğenili
 slug: begenili
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beğenisi olan

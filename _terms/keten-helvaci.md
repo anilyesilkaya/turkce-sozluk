@@ -2,6 +2,7 @@
 layout: term
 title: keten helvacı
 slug: keten-helvaci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Keten helva yapan veya satan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: ıcığını cıcığını sormak
 slug: icigini-cicigini-sormak
+letter: I
 lisan: Türkçe
 anlamlar:
 - bir kimsenin soyunu sopunu, huyunu suyunu iyice öğrenmek için araştırmak

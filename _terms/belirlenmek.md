@@ -2,6 +2,7 @@
 layout: term
 title: belirlenmek
 slug: belirlenmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belirli duruma getirilmek

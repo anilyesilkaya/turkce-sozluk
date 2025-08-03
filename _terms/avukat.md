@@ -2,6 +2,7 @@
 layout: term
 title: avukat
 slug: avukat
+letter: A
 lisan: Fransızca avocat
 anlamlar:
 - Hak ve yasa işlerinde isteyenlere yol göstermeyi, mahkemelerde, devlet dairelerinde başkalarının hakkını aramayı, korumayı meslek edinen ve bunun için yasanın gerektirdiği şartları taşıyan kimse; savunucu, müdafi

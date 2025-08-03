@@ -2,6 +2,7 @@
 layout: term
 title: başülke
 slug: basulke
+letter: B
 lisan: Türkçe
 anlamlar:
 - Sömürge imparatorluklarında sömürgelere egemen olan ülke

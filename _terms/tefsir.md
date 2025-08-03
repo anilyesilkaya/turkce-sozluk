@@ -2,6 +2,7 @@
 layout: term
 title: tefsir
 slug: tefsir
+letter: T
 lisan: Arapça tefsīr
 anlamlar:
 - ► yorumlama

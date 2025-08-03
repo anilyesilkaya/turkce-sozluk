@@ -2,6 +2,7 @@
 layout: term
 title: topu
 slug: topu
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► hepsi

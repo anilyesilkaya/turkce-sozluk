@@ -2,6 +2,7 @@
 layout: term
 title: rezilleşme
 slug: rezillesme
+letter: R
 lisan: Türkçe
 anlamlar:
 - Rezilleşmek işi

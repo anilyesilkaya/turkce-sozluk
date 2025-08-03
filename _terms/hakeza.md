@@ -2,6 +2,7 @@
 layout: term
 title: hakeza
 slug: hakeza
+letter: H
 lisan: Arapça hākeẕā
 anlamlar:
 - Benzer biçimde

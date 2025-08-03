@@ -2,6 +2,7 @@
 layout: term
 title: liyakat sahibi
 slug: liyakat-sahibi
+letter: L
 lisan: Türkçe
 anlamlar:
 - Başarılı, erdemli, yetenekli (kimse)

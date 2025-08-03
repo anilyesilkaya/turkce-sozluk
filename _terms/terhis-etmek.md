@@ -2,6 +2,7 @@
 layout: term
 title: terhis etmek
 slug: terhis-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - askerlik görevini bitirenleri bırakmak

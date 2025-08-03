@@ -2,6 +2,7 @@
 layout: term
 title: çalgılı çağanaklı
 slug: calgili-caganakli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Eğlenceli, şarkılı, çalgılı, gürültülü patırtılı, neşeli

@@ -2,6 +2,7 @@
 layout: term
 title: gazetecilik
 slug: gazetecilik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gazetecinin yaptığı iş

@@ -2,6 +2,7 @@
 layout: term
 title: yavrucak
 slug: yavrucak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Çocuklara sevgiyle yaklaşıldığını belirten bir söz; yavrucuk, yavrucağız

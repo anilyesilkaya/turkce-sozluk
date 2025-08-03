@@ -2,6 +2,7 @@
 layout: term
 title: diyarıgurbet
 slug: diyarigurbet
+letter: D
 lisan: Arapça diyār + ġurbet
 anlamlar:
 - İş, eğitim vb. sebeplerle göç edilen yabancı yer

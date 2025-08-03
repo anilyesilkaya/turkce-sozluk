@@ -2,6 +2,7 @@
 layout: term
 title: telaşsız
 slug: telassiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► soğukkanlı

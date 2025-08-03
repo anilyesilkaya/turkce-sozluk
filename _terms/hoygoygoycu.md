@@ -2,6 +2,7 @@
 layout: term
 title: hoygoygoycu
 slug: hoygoygoycu
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► goygoycu

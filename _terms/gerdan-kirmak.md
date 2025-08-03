@@ -2,6 +2,7 @@
 layout: term
 title: gerdan kırmak
 slug: gerdan-kirmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - naz ile boynu başla birlikte iki yana oynatarak kırıtmak

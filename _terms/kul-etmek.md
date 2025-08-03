@@ -2,6 +2,7 @@
 layout: term
 title: kül etmek
 slug: kul-etmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - yakmak, kavurmak

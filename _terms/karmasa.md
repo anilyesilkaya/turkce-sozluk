@@ -2,6 +2,7 @@
 layout: term
 title: karmaşa
 slug: karmasa
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karmaşık olma durumu

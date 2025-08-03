@@ -2,6 +2,7 @@
 layout: term
 title: bitpazarı
 slug: bitpazari
+letter: B
 lisan: Türkçe
 anlamlar:
 - Eski eşyanın alınıp satıldığı pazar

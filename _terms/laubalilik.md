@@ -2,6 +2,7 @@
 layout: term
 title: laubalilik
 slug: laubalilik
+letter: L
 lisan: Türkçe
 anlamlar:
 - Laubali olma durumu; ciddiyetsizlik, gayriciddilik

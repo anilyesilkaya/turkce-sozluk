@@ -2,6 +2,7 @@
 layout: term
 title: gurura kapılmak
 slug: gurura-kapilmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - gururlanmak

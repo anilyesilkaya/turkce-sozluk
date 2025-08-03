@@ -2,6 +2,7 @@
 layout: term
 title: pısırıklık
 slug: pisiriklik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pısırık olma durumu; püsürüklük

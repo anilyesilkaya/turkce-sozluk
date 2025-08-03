@@ -2,6 +2,7 @@
 layout: term
 title: kucaklayıverme
 slug: kucaklayiverme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kucaklayıvermek işi

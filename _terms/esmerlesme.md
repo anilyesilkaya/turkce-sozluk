@@ -2,6 +2,7 @@
 layout: term
 title: esmerleşme
 slug: esmerlesme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Esmerleşmek işi

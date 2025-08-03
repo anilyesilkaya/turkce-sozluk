@@ -2,6 +2,7 @@
 layout: term
 title: azim
 slug: azim
+letter: A
 lisan: Arapça ʿazm
 anlamlar:
 - Bir işteki engelleri yenme kararlılığı

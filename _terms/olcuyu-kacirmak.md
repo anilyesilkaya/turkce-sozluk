@@ -2,6 +2,7 @@
 layout: term
 title: ölçüyü kaçırmak
 slug: olcuyu-kacirmak
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - yiyip içmekte veya davranışlarda aşırı gitmek

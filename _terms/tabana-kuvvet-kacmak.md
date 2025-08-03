@@ -2,6 +2,7 @@
 layout: term
 title: tabana kuvvet kaçmak
 slug: tabana-kuvvet-kacmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - çok hızlı, koşarak kaçmak

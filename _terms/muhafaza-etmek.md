@@ -2,6 +2,7 @@
 layout: term
 title: muhafaza etmek
 slug: muhafaza-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - korumak

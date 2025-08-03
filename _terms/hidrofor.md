@@ -2,6 +2,7 @@
 layout: term
 title: hidrofor
 slug: hidrofor
+letter: H
 lisan: Fransızca hydrophore
 anlamlar:
 - ► subasar

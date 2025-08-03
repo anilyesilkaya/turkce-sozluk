@@ -2,6 +2,7 @@
 layout: term
 title: terbiyeli
 slug: terbiyeli
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► uslu

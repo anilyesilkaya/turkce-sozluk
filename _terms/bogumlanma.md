@@ -2,6 +2,7 @@
 layout: term
 title: boğumlanma
 slug: bogumlanma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boğumlanmak işi

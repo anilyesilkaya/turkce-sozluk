@@ -2,6 +2,7 @@
 layout: term
 title: kulağına gitmek
 slug: kulagina-gitmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - duymak

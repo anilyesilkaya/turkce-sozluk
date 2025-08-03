@@ -2,6 +2,7 @@
 layout: term
 title: erkân göstermek
 slug: erkan-gostermek
+letter: E
 lisan: Türkçe
 anlamlar:
 - yolunu yordamını öğretmek

@@ -2,6 +2,7 @@
 layout: term
 title: karışık
 slug: karisik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Farklı nitelikteki şeylerden oluşmuş; gayrisafi

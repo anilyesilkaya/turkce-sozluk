@@ -2,6 +2,7 @@
 layout: term
 title: tarz
 slug: tarz
+letter: T
 lisan: Arapça ṭarz
 anlamlar:
 - Anlatma, oluş, deyiş veya yapış biçimi; minval, usul (II), üslup, vetire, stil, janr, ambiyans

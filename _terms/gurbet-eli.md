@@ -2,6 +2,7 @@
 layout: term
 title: gurbet eli
 slug: gurbet-eli
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bir kimsenin doğup büyüdüğü yerden başka yer

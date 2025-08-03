@@ -2,6 +2,7 @@
 layout: term
 title: çatılık
 slug: catilik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çatı yapımına gerekli olan

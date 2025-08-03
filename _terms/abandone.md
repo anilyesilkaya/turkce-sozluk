@@ -2,6 +2,7 @@
 layout: term
 title: abandone
 slug: abandone
+letter: A
 lisan: Fransızca abandonné
 anlamlar:
 - Geminin suya gömülmesi

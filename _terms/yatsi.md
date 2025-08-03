@@ -2,6 +2,7 @@
 layout: term
 title: yatsı
 slug: yatsi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Güneşin batışından yaklaşık olarak iki saat sonrasına karşılık gelen zaman

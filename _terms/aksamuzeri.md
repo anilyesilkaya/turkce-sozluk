@@ -2,6 +2,7 @@
 layout: term
 title: akşamüzeri
 slug: aksamuzeri
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► akşamüstü

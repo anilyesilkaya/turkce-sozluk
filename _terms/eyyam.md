@@ -2,6 +2,7 @@
 layout: term
 title: eyyam
 slug: eyyam
+letter: E
 lisan: Arapça eyyām
 anlamlar:
 - Günler

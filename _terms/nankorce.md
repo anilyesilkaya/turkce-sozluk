@@ -2,6 +2,7 @@
 layout: term
 title: nankörce
 slug: nankorce
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nanköre yakışır

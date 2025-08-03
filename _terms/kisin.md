@@ -2,6 +2,7 @@
 layout: term
 title: kışın
 slug: kisin
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kış mevsiminde, kış süresince

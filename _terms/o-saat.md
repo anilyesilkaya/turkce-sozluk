@@ -2,6 +2,7 @@
 layout: term
 title: o saat
 slug: o-saat
+letter: O
 lisan: Türkçe
 anlamlar:
 - Hemen, o anda; o saatte

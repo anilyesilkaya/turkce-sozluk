@@ -2,6 +2,7 @@
 layout: term
 title: altışarlı
 slug: altisarli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Altışar altışar sıralanmış

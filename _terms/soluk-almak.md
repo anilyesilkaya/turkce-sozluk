@@ -2,6 +2,7 @@
 layout: term
 title: soluk almak
 slug: soluk-almak
+letter: S
 lisan: Türkçe
 anlamlar:
 - havayı ciğerlere çekmek, nefes almak

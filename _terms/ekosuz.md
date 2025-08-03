@@ -2,6 +2,7 @@
 layout: term
 title: ekosuz
 slug: ekosuz
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► yankısız

@@ -2,6 +2,7 @@
 layout: term
 title: görmek
 slug: gormek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gözle algılamak, seçmek

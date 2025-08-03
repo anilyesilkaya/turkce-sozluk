@@ -2,6 +2,7 @@
 layout: term
 title: fikir eseri
 slug: fikir-eseri
+letter: F
 lisan: Türkçe
 anlamlar:
 - Düşünce yönü ağır basan eser

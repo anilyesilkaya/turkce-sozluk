@@ -2,6 +2,7 @@
 layout: term
 title: demir resmi
 slug: demir-resmi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Geminin bir limanda demirlemek için ödediği vergi

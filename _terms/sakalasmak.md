@@ -2,6 +2,7 @@
 layout: term
 title: şakalaşmak
 slug: sakalasmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Karşılıklı olarak şaka etmek, şaka yapmak

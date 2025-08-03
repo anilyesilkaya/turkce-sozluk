@@ -2,6 +2,7 @@
 layout: term
 title: deplasman
 slug: deplasman
+letter: D
 lisan: Fransızca déplacement
 anlamlar:
 - ► dış saha

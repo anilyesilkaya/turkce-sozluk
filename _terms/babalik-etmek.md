@@ -2,6 +2,7 @@
 layout: term
 title: babalık etmek
 slug: babalik-etmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - baba gibi davranmak

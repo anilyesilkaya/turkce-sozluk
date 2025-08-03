@@ -2,6 +2,7 @@
 layout: term
 title: senkroni
 slug: senkroni
+letter: S
 lisan: Fransızca synchronie
 anlamlar:
 - ► eş zamanlılık

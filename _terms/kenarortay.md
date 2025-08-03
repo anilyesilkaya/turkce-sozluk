@@ -2,6 +2,7 @@
 layout: term
 title: kenarortay
 slug: kenarortay
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir üçgende her tepeden karşı kenarın ortasına indirilen doğru parçası

@@ -2,6 +2,7 @@
 layout: term
 title: her daim
 slug: her-daim
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► her zaman

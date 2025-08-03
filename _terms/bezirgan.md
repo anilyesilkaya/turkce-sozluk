@@ -2,6 +2,7 @@
 layout: term
 title: bezirgân
 slug: bezirgan
+letter: B
 lisan: Farsça bāzergān
 anlamlar:
 - ► tüccar

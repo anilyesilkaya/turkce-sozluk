@@ -2,6 +2,7 @@
 layout: term
 title: ürkek
 slug: urkek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Çok ürken, korkuya çabuk kapılan; ürkekçe

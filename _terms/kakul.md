@@ -2,6 +2,7 @@
 layout: term
 title: kâkül
 slug: kakul
+letter: K
 lisan: Farsça kākul
 anlamlar:
 - Alna düşen kısa kesilmiş saç; perçem

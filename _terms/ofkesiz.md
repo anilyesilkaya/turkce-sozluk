@@ -2,6 +2,7 @@
 layout: term
 title: öfkesiz
 slug: ofkesiz
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öfkelenmeyen; hiddetsiz

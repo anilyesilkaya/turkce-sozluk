@@ -2,6 +2,7 @@
 layout: term
 title: denklem
 slug: denklem
+letter: D
 lisan: Türkçe
 anlamlar:
 - İçinde yer alan bazı niceliklere ancak uygun bir değer verildiği zaman sağlanabilen eşitlik; muadele

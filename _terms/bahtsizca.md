@@ -2,6 +2,7 @@
 layout: term
 title: bahtsızca
 slug: bahtsizca
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bahtsız bir biçimde olan

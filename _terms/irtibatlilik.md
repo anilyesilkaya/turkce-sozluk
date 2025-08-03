@@ -2,6 +2,7 @@
 layout: term
 title: irtibatlılık
 slug: irtibatlilik
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► bağlantılılık

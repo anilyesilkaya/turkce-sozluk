@@ -2,6 +2,7 @@
 layout: term
 title: bulama
 slug: bulama
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bulamak işi

@@ -2,6 +2,7 @@
 layout: term
 title: tütün içmek
 slug: tutun-icmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - tütünü yakıp dumanını içine çekmek

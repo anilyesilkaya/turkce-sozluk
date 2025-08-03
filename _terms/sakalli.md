@@ -2,6 +2,7 @@
 layout: term
 title: sakallı
 slug: sakalli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sakalı olan

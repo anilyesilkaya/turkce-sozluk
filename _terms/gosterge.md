@@ -2,6 +2,7 @@
 layout: term
 title: gösterge
 slug: gosterge
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bir şeyi belirtmeye yarayan şey, belirti, im; işaret

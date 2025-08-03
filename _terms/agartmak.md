@@ -2,6 +2,7 @@
 layout: term
 title: ağartmak
 slug: agartmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► beyazlatmak

@@ -2,6 +2,7 @@
 layout: term
 title: operasyon
 slug: operasyon
+letter: O
 lisan: Fransızca opération
 anlamlar:
 - ► dizi eylem

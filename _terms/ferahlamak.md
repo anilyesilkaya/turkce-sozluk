@@ -2,6 +2,7 @@
 layout: term
 title: ferahlamak
 slug: ferahlamak
+letter: F
 lisan: Türkçe
 anlamlar:
 - Bir yer geniş, rahat ve iç açıcı duruma gelmek; ferahlanmak

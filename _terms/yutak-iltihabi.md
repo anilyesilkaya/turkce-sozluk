@@ -2,6 +2,7 @@
 layout: term
 title: yutak iltihabı
 slug: yutak-iltihabi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yutağın yangılı hastalığı; farenjit

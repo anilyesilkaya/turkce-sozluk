@@ -2,6 +2,7 @@
 layout: term
 title: küfür savurmak
 slug: kufur-savurmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - küfretmek

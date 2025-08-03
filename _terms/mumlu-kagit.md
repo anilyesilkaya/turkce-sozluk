@@ -2,6 +2,7 @@
 layout: term
 title: mumlu kâğıt
 slug: mumlu-kagit
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mürekkep geçirmeyen ve delinebilir bir dolgu maddesi emdirilmiş, mürekkebi geçiren fakat kolay delinmeyen bir cins pelürden veya lifli bir dokudan oluşturulmuş, teksir makinesinde basılacak yazıların yazıldığı kâğıt

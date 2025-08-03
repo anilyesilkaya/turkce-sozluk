@@ -2,6 +2,7 @@
 layout: term
 title: odunlu
 slug: odunlu
+letter: O
 lisan: Türkçe
 anlamlar:
 - Odunu olan

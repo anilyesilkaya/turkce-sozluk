@@ -2,6 +2,7 @@
 layout: term
 title: sinirsiz
 slug: sinirsiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Siniri olmayan

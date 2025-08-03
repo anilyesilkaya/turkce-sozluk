@@ -2,6 +2,7 @@
 layout: term
 title: böbrek taşı
 slug: bobrek-tasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Böbrekte idrar içindeki kalsiyum bileşiklerinin çöküntüsü ile oluşan taş

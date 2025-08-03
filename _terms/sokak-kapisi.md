@@ -2,6 +2,7 @@
 layout: term
 title: sokak kapısı
 slug: sokak-kapisi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Evin sokağa açılan kapısı

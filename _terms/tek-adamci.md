@@ -2,6 +2,7 @@
 layout: term
 title: tek adamcı
 slug: tek-adamci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tek adamcılık yanlısı

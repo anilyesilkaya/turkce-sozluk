@@ -2,6 +2,7 @@
 layout: term
 title: böylecene
 slug: boylecene
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► böylece

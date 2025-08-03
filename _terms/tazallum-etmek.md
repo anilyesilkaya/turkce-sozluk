@@ -2,6 +2,7 @@
 layout: term
 title: tazallüm etmek
 slug: tazallum-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - sızlanmak, yakınmak (II)

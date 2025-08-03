@@ -2,6 +2,7 @@
 layout: term
 title: içlenmek
 slug: iclenmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İçli bitkiler tanelenmek, iç tutmak

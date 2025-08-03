@@ -2,6 +2,7 @@
 layout: term
 title: galeyan
 slug: galeyan
+letter: G
 lisan: Arapça ġaleyān
 anlamlar:
 - ► kaynama

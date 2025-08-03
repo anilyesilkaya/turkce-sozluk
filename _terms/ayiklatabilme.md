@@ -2,6 +2,7 @@
 layout: term
 title: ayıklatabilme
 slug: ayiklatabilme
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayıklatabilmek işi

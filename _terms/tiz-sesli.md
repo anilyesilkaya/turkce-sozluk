@@ -2,6 +2,7 @@
 layout: term
 title: tiz sesli
 slug: tiz-sesli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Sesi tiz olan

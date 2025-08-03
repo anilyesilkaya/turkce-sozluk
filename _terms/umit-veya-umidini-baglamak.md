@@ -2,6 +2,7 @@
 layout: term
 title: ümit (veya ümidini) bağlamak
 slug: umit-veya-umidini-baglamak
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - umut bağlamak

@@ -2,6 +2,7 @@
 layout: term
 title: hakkıhuzur
 slug: hakkihuzur
+letter: H
 lisan: Arapça ḥaḳḳ + ḥużūr
 anlamlar:
 - ► huzur hakkı

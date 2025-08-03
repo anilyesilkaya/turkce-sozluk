@@ -2,6 +2,7 @@
 layout: term
 title: ola ki
 slug: ola-ki
+letter: O
 lisan: Türkçe
 anlamlar:
 - olabilir ki, belki

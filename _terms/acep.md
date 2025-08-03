@@ -2,6 +2,7 @@
 layout: term
 title: acep
 slug: acep
+letter: A
 lisan: Arapça ʿaceb
 anlamlar:
 - ► acaba

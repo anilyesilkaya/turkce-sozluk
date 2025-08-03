@@ -2,6 +2,7 @@
 layout: term
 title: dikenli
 slug: dikenli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dikenli olan

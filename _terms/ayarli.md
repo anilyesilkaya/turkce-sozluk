@@ -2,6 +2,7 @@
 layout: term
 title: ayarlı
 slug: ayarli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayarlanmış, doğru çalışması sağlanmış, düzeltilmiş (saat, makine vb.)

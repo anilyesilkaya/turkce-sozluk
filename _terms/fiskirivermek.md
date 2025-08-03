@@ -2,6 +2,7 @@
 layout: term
 title: fışkırıvermek
 slug: fiskirivermek
+letter: F
 lisan: Türkçe
 anlamlar:
 - Ansızın veya çabucak fışkırmak

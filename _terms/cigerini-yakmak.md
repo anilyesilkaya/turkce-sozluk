@@ -2,6 +2,7 @@
 layout: term
 title: ciğerini yakmak
 slug: cigerini-yakmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - bir kimseye büyük bir acı çektirmek

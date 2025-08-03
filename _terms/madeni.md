@@ -2,6 +2,7 @@
 layout: term
 title: madenî
 slug: madeni
+letter: M
 lisan: Arapça maʿdenī
 anlamlar:
 - Madenle ilgili veya madene özgü olan; madensel, metalik

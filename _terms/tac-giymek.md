@@ -2,6 +2,7 @@
 layout: term
 title: taç giymek
 slug: tac-giymek
+letter: T
 lisan: Türkçe
 anlamlar:
 - tahta çıkmak

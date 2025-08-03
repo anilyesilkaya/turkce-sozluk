@@ -2,6 +2,7 @@
 layout: term
 title: noksanlık
 slug: noksanlik
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► eksiklik

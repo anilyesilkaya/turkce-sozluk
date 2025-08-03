@@ -2,6 +2,7 @@
 layout: term
 title: doğaçlama
 slug: dogaclama
+letter: D
 lisan: Türkçe
 anlamlar:
 - Doğaçlamak işi; emprovizasyon

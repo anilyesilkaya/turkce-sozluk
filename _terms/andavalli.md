@@ -2,6 +2,7 @@
 layout: term
 title: andavallı
 slug: andavalli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ahmak, aptal, beceriksiz, şaşkın, bön, görgüsüz (kimse); andaval

@@ -2,6 +2,7 @@
 layout: term
 title: hasetçi
 slug: hasetci
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► kıskanç

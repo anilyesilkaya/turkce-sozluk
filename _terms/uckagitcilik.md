@@ -2,6 +2,7 @@
 layout: term
 title: üçkâğıtçılık
 slug: uckagitcilik
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üçkâğıtçının işi

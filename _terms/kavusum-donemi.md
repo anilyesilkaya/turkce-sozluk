@@ -2,6 +2,7 @@
 layout: term
 title: kavuşum dönemi
 slug: kavusum-donemi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir gezegenin iki kavuşumu arasında geçen zaman aralığı

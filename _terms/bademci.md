@@ -2,6 +2,7 @@
 layout: term
 title: bademci
 slug: bademci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Badem satan kimse

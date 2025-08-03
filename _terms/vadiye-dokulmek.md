@@ -2,6 +2,7 @@
 layout: term
 title: vadiye dökülmek
 slug: vadiye-dokulmek
+letter: V
 lisan: Türkçe
 anlamlar:
 - sohbet belirli bir konuya kaymak

@@ -2,6 +2,7 @@
 layout: term
 title: tenha
 slug: tenha
+letter: T
 lisan: Farsça tenhā
 anlamlar:
 - ► ıssız

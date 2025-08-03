@@ -2,6 +2,7 @@
 layout: term
 title: korku düşmek
 slug: korku-dusmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - endişelenmek, korkmak

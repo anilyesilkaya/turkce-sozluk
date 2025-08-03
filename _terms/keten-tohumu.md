@@ -2,6 +2,7 @@
 layout: term
 title: keten tohumu
 slug: keten-tohumu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Keten bitkisinin, yağı çıkarılan veya dövülerek hekimlikte kullanılan küçük taneleri; bezir, zeyrek (II)

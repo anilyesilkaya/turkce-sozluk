@@ -2,6 +2,7 @@
 layout: term
 title: enerjik
 slug: enerjik
+letter: E
 lisan: Fransızca énergique
 anlamlar:
 - Enerji ile ilgili

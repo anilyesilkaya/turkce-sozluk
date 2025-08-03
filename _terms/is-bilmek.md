@@ -2,6 +2,7 @@
 layout: term
 title: iş bilmek
 slug: is-bilmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - becerikli olmak

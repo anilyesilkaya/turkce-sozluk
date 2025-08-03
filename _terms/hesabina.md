@@ -2,6 +2,7 @@
 layout: term
 title: hesabına
 slug: hesabina
+letter: H
 lisan: Türkçe
 anlamlar:
 - yönünden, için, ... adına, yararına

@@ -2,6 +2,7 @@
 layout: term
 title: mıknatıs
 slug: miknatis
+letter: M
 lisan: Arapça miḳnāṭīs
 anlamlar:
 - Demiri ve daha başka bazı metalleri çeken demir oksit; demirkapan

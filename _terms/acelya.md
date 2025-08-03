@@ -2,6 +2,7 @@
 layout: term
 title: açelya
 slug: acelya
+letter: A
 lisan: İtalyanca azalea
 anlamlar:
 - Kokusuz, güzel renkli çiçekler açan bir bitki (Rhododendron)

@@ -2,6 +2,7 @@
 layout: term
 title: av tezkeresi
 slug: av-tezkeresi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Avcılara verilen izin belgesi

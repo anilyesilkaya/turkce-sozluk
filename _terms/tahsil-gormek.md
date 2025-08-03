@@ -2,6 +2,7 @@
 layout: term
 title: tahsil görmek
 slug: tahsil-gormek
+letter: T
 lisan: Türkçe
 anlamlar:
 - eğitim almak

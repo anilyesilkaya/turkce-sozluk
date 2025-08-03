@@ -2,6 +2,7 @@
 layout: term
 title: çenesini bağlamak
 slug: cenesini-baglamak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ölen bir kimsenin çenesi altından geçirilen tülbendi başının üstünde düğümlemek

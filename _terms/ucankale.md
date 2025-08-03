@@ -2,6 +2,7 @@
 layout: term
 title: uçankale
 slug: ucankale
+letter: U
 lisan: Türkçe
 anlamlar:
 - Stratejik amaçlarla İkinci Dünya Savaşı’nda kullanılmış olan, uzun menzilli, ağır bombardıman uçağı

@@ -2,6 +2,7 @@
 layout: term
 title: refakat etmek
 slug: refakat-etmek
+letter: R
 lisan: Türkçe
 anlamlar:
 - beraberinde gitmek, arkadaşlık etmek, eşlik etmek

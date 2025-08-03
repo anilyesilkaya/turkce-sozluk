@@ -2,6 +2,7 @@
 layout: term
 title: nas
 slug: nas
+letter: N
 lisan: Arapça naṣṣ
 anlamlar:
 - Açıklık, açık ve kesin yargı

@@ -2,6 +2,7 @@
 layout: term
 title: bilanço
 slug: bilanco
+letter: B
 lisan: İtalyanca bilancio
 anlamlar:
 - Bir kuruluşun, bir ticarethanenin belirli bir dönem sonundaki veya belirli bir gündeki taşınır ve taşınmaz varlıkları ile bunları sağlamak için kullanılan öz ve yabancı kaynakları dengeli olarak gösteren çizelge; dengelem

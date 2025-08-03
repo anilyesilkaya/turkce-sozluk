@@ -2,6 +2,7 @@
 layout: term
 title: 'ölüm kaygısı '
 slug: olum-kaygisi
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ölecek olma düşüncesiyle ortaya çıkan ruhsal gerginlik, düşük düzeyli ölüm korkusu

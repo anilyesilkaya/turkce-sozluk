@@ -2,6 +2,7 @@
 layout: term
 title: iade etmek
 slug: iade-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - geri vermek, geri çevirmek

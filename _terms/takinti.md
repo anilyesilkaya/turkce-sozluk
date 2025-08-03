@@ -2,6 +2,7 @@
 layout: term
 title: takıntı
 slug: takinti
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir durum ve sorunla ilişkisi olan başka durum veya sorun

@@ -2,6 +2,7 @@
 layout: term
 title: kavuşturma
 slug: kavusturma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kavuşturmak işi

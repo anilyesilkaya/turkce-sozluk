@@ -2,6 +2,7 @@
 layout: term
 title: damar
 slug: damar
+letter: D
 lisan: Türkçe
 anlamlar:
 - Canlı varlıklarda kanın veya besleyici sıvıların dolaştığı kanal

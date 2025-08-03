@@ -2,6 +2,7 @@
 layout: term
 title: öreke
 slug: oreke
+letter: Ö
 lisan: Rumca
 anlamlar:
 - Eğrilmekte olan yün, keten vb. şeylerin tutturulduğu, bir ucu çatal değnek

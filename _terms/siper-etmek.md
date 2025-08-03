@@ -2,6 +2,7 @@
 layout: term
 title: siper etmek
 slug: siper-etmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - kendini veya bir şeyi korumak amacıyla bir başka şeyi siper olarak kullanmak

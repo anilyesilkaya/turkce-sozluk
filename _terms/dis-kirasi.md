@@ -2,6 +2,7 @@
 layout: term
 title: diş kirası
 slug: dis-kirasi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Sarayda, zengin konaklarında iftardan sonra konuklara verilen armağan veya para

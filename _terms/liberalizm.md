@@ -2,6 +2,7 @@
 layout: term
 title: liberalizm
 slug: liberalizm
+letter: L
 lisan: Fransızca libéralisme
 anlamlar:
 - Bireyin özgürlüğünü ve ekonomik güçler arasında hür yarışmayı savunan, bireyler, sınıflar ve uluslararasındaki ekonomik ilişkilere devletin karışmamasını isteyen öğreti; serbestlik, erkincilik, erkinlik, devletçilik, toplumculuk karşıtı

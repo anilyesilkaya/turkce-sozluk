@@ -2,6 +2,7 @@
 layout: term
 title: şaşaalı
 slug: sasaali
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► görkemli

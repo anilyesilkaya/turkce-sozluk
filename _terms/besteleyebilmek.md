@@ -2,6 +2,7 @@
 layout: term
 title: besteleyebilmek
 slug: besteleyebilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Besteleme ihtimali veya imkânı bulunmak

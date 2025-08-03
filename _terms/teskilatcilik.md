@@ -2,6 +2,7 @@
 layout: term
 title: teşkilatçılık
 slug: teskilatcilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► örgütçülük

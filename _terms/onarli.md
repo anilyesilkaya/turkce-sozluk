@@ -2,6 +2,7 @@
 layout: term
 title: onarlı
 slug: onarli
+letter: O
 lisan: Türkçe
 anlamlar:
 - Onar onar sıralanmış

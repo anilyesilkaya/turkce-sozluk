@@ -2,6 +2,7 @@
 layout: term
 title: çağıltılı
 slug: cagiltili
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çağıltısı olan

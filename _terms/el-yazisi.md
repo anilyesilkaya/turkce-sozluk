@@ -2,6 +2,7 @@
 layout: term
 title: el yazısı
 slug: el-yazisi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Kalemle yazılan yazı

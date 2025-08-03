@@ -2,6 +2,7 @@
 layout: term
 title: yanılgı
 slug: yanilgi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yanılma durumu

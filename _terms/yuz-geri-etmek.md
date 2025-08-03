@@ -2,6 +2,7 @@
 layout: term
 title: yüz geri etmek
 slug: yuz-geri-etmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - geri dönmek

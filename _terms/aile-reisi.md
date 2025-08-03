@@ -2,6 +2,7 @@
 layout: term
 title: aile reisi
 slug: aile-reisi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kanunlara göre aile yükümlülüğünü taşıyan kimse

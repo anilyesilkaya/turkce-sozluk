@@ -2,6 +2,7 @@
 layout: term
 title: fırdolayı
 slug: firdolayi
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► çepeçevre

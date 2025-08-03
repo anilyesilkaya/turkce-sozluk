@@ -2,6 +2,7 @@
 layout: term
 title: baştan savma
 slug: bastan-savma
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► üstünkörü

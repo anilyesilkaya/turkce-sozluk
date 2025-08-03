@@ -2,6 +2,7 @@
 layout: term
 title: remzî
 slug: remzi
+letter: R
 lisan: Arapça remzį
 anlamlar:
 - Remiz ile, işaretle ilgili

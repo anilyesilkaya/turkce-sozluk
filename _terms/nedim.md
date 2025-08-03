@@ -2,6 +2,7 @@
 layout: term
 title: nedim
 slug: nedim
+letter: N
 lisan: Arapça nedīm
 anlamlar:
 - Arkadaş, yakın dost

@@ -2,6 +2,7 @@
 layout: term
 title: kütür kütür
 slug: kutur-kutur
+letter: K
 lisan: Türkçe
 anlamlar:
 - Tazeliğinden dolayı kütür sesi çıkaran

@@ -2,6 +2,7 @@
 layout: term
 title: fellek fellek
 slug: fellek-fellek
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► fellik fellik

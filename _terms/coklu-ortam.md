@@ -2,6 +2,7 @@
 layout: term
 title: çoklu ortam
 slug: coklu-ortam
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Yazı, grafik, ses ve canlandırma ögelerini birlikte sunan bilgisayar temelli yapı; multimedya

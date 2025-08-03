@@ -2,6 +2,7 @@
 layout: term
 title: bunaltmak
 slug: bunaltmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bunalmasına yol açmak; boğmak, darlamak, sıkılamak

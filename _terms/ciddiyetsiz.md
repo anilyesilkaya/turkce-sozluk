@@ -2,6 +2,7 @@
 layout: term
 title: ciddiyetsiz
 slug: ciddiyetsiz
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► laubali

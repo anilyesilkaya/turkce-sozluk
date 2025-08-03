@@ -2,6 +2,7 @@
 layout: term
 title: tüzel
 slug: tuzel
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► hukuki

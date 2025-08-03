@@ -2,6 +2,7 @@
 layout: term
 title: çok kocalılık
 slug: cok-kocalilik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir kadının yasalara uygun olarak aynı zamanda iki veya daha çok sayıda erkekle evli olabildiği evlilik biçimi; poliandri

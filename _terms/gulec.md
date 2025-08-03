@@ -2,6 +2,7 @@
 layout: term
 title: güleç
 slug: gulec
+letter: G
 lisan: Türkçe
 anlamlar:
 - Her zaman gülümseyen; mütebessim

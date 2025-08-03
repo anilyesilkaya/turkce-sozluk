@@ -2,6 +2,7 @@
 layout: term
 title: nikâhlanmak
 slug: nikahlanmak
+letter: N
 lisan: Türkçe
 anlamlar:
 - Bir kimseye nikâhla bağlanmak

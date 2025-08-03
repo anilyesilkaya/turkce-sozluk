@@ -2,6 +2,7 @@
 layout: term
 title: cehennemî
 slug: cehennemi
+letter: C
 lisan: Arapça cehennemī
 anlamlar:
 - Cehennemle ilgili

@@ -2,6 +2,7 @@
 layout: term
 title: göçermek
 slug: gocermek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bir kimseden diğer kimseye geçirmek, havale etmek, devretmek

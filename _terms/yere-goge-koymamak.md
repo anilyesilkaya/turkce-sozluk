@@ -2,6 +2,7 @@
 layout: term
 title: yere göğe koymamak
 slug: yere-goge-koymamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - nasıl ağırlayacağını, nasıl memnun edeceğini bilmemek, çok önem vermek

@@ -2,6 +2,7 @@
 layout: term
 title: abartmak
 slug: abartmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir nesneyi veya durumu olduğundan daha önemli, daha büyük veya daha çok göstermek; şişirmek, mübalağa etmek

@@ -2,6 +2,7 @@
 layout: term
 title: polis arabası
 slug: polis-arabasi
+letter: P
 lisan: Türkçe
 anlamlar:
 - Polislerin görev sırasında kullandığı araba

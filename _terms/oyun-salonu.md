@@ -2,6 +2,7 @@
 layout: term
 title: oyun salonu
 slug: oyun-salonu
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oyun masalarının bulunduğu geniş oda

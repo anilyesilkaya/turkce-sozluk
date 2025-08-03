@@ -2,6 +2,7 @@
 layout: term
 title: emperyalist
 slug: emperyalist
+letter: E
 lisan: Fransızca impérialiste
 anlamlar:
 - Emperyalizm yanlısı olan; yayılmacı, yayılımcı

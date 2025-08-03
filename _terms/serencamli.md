@@ -2,6 +2,7 @@
 layout: term
 title: serencamlı
 slug: serencamli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Serencamı olan

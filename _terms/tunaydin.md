@@ -2,6 +2,7 @@
 layout: term
 title: tünaydın
 slug: tunaydin
+letter: T
 lisan: Türkçe
 anlamlar:
 - Öğleden akşama kadar geçen süre içinde karşılaşıldığında kullanılan bir selamlama sözü

@@ -2,6 +2,7 @@
 layout: term
 title: zorlayıcı
 slug: zorlayici
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zorlayan; mücbir

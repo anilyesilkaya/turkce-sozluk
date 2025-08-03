@@ -2,6 +2,7 @@
 layout: term
 title: apaydın
 slug: apaydin
+letter: A
 lisan: Türkçe
 anlamlar:
 - Çok aydınlık

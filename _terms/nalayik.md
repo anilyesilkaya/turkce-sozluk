@@ -2,6 +2,7 @@
 layout: term
 title: nalayık
 slug: nalayik
+letter: N
 lisan: Farsça nā + Arapça lāyiḳ
 anlamlar:
 - Yakışıksız, hoş olmayan

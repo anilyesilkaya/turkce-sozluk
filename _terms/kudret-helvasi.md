@@ -2,6 +2,7 @@
 layout: term
 title: kudret helvası
 slug: kudret-helvasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Beyaz çiçekli, 5-9 yaprakçıklı, 20 metre kadar yükselebilen, Kuzeybatı ve Batı Anadolu'da yaygın olan bir ağaç (Fraxinus ornus)

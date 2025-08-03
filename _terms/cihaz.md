@@ -2,6 +2,7 @@
 layout: term
 title: cihaz
 slug: cihaz
+letter: C
 lisan: Arapça cihāz
 anlamlar:
 - ► aygıt

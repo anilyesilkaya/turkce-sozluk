@@ -2,6 +2,7 @@
 layout: term
 title: solmak
 slug: solmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Rengini yitirmek, rengi uçmak

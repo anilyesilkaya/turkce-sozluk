@@ -2,6 +2,7 @@
 layout: term
 title: günlük tutmak
 slug: gunluk-tutmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - her gün yaşananları, olayları ve anıları bir deftere yazmak

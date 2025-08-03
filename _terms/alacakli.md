@@ -2,6 +2,7 @@
 layout: term
 title: alacaklı
 slug: alacakli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Birinden alacağı olan (kimse), borçlu ve verecekli karşıtı

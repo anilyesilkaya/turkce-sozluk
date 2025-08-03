@@ -2,6 +2,7 @@
 layout: term
 title: kırdırabilmek
 slug: kirdirabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kırdırma ihtimali veya imkânı bulunmak

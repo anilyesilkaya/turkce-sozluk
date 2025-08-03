@@ -2,6 +2,7 @@
 layout: term
 title: akıcılık
 slug: akicilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Akıcı olma durumu

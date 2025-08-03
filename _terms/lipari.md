@@ -2,6 +2,7 @@
 layout: term
 title: lipari
 slug: lipari
+letter: L
 lisan: Rumca
 anlamlar:
 - Çirozluktan sonra yağlanmaya başlayan uskumru

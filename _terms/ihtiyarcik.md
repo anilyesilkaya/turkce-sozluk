@@ -2,6 +2,7 @@
 layout: term
 title: ihtiyarcık
 slug: ihtiyarcik
+letter: I
 lisan: Türkçe
 anlamlar:
 - Yaşlılara sevgiyle yaklaşıldığını belirten bir söz

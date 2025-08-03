@@ -2,6 +2,7 @@
 layout: term
 title: popülarite
 slug: popularite
+letter: P
 lisan: Fransızca popularité
 anlamlar:
 - ► tutulma

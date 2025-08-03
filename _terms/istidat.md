@@ -2,6 +2,7 @@
 layout: term
 title: istidat
 slug: istidat
+letter: I
 lisan: Arapça istiʿdād
 anlamlar:
 - ► yetenek

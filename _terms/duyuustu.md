@@ -2,6 +2,7 @@
 layout: term
 title: duyuüstü
 slug: duyuustu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Duyularla verilmeyen

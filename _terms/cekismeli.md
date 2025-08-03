@@ -2,6 +2,7 @@
 layout: term
 title: çekişmeli
 slug: cekismeli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çekişmeye yol açan

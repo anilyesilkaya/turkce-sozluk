@@ -2,6 +2,7 @@
 layout: term
 title: zındık
 slug: zindik
+letter: Z
 lisan: Arapça zindīḳ
 anlamlar:
 - Tanrı'ya ve ahirete inanmayan (kimse)

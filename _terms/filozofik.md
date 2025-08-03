@@ -2,6 +2,7 @@
 layout: term
 title: filozofik
 slug: filozofik
+letter: F
 lisan: Fransızca philosophique
 anlamlar:
 - Felsefe ile ilgili, felsefeye dayanan

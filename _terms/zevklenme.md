@@ -2,6 +2,7 @@
 layout: term
 title: zevklenme
 slug: zevklenme
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zevklenmek durumu

@@ -2,6 +2,7 @@
 layout: term
 title: tellal
 slug: tellal
+letter: T
 lisan: Arapça dellāl
 anlamlar:
 - Herhangi bir şeyi, olayı veya bir şeyin satılacağını halka duyurmak için çarşıda, pazarda yüksek sesle bağıran kimse; çağırtmaç

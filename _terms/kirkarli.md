@@ -2,6 +2,7 @@
 layout: term
 title: kırkarlı
 slug: kirkarli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kırkar kırkar sıralanmış

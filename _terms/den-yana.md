@@ -2,6 +2,7 @@
 layout: term
 title: -den yana
 slug: den-yana
+letter: '-'
 lisan: Türkçe
 anlamlar:
 - için

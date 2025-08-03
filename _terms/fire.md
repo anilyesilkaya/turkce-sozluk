@@ -2,6 +2,7 @@
 layout: term
 title: fire
 slug: fire
+letter: F
 lisan: Rumca
 anlamlar:
 - ► ağırlık yitimi

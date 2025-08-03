@@ -2,6 +2,7 @@
 layout: term
 title: Yontma Taş Devri
 slug: yontma-tas-devri
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Tarihten önceki zamanların en eski devri; Yontma Taş Çağı

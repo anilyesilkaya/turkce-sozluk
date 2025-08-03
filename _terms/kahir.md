@@ -2,6 +2,7 @@
 layout: term
 title: kahir
 slug: kahir
+letter: K
 lisan: Arapça ḳāhir
 anlamlar:
 - Kahreden, zorlayan

@@ -2,6 +2,7 @@
 layout: term
 title: pencik
 slug: pencik
+letter: P
 lisan: Farsça penc + yek
 anlamlar:
 - Asker yetiştirilmek için savaş tutsaklarından beşte bir oranında ayrılan acemi oğlanı adayı

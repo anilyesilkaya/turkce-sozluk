@@ -2,6 +2,7 @@
 layout: term
 title: dördüz
 slug: dorduz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dördü bir arada doğan (çocuk)

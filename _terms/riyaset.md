@@ -2,6 +2,7 @@
 layout: term
 title: riyaset
 slug: riyaset
+letter: R
 lisan: Arapça riyāset
 anlamlar:
 - ► başkanlık

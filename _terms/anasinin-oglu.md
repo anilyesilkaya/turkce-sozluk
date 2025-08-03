@@ -2,6 +2,7 @@
 layout: term
 title: anasının oğlu
 slug: anasinin-oglu
+letter: A
 lisan: Türkçe
 anlamlar:
 - her yönüyle annesine benzeyen erkek çocuğu

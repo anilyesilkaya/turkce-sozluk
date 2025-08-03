@@ -2,6 +2,7 @@
 layout: term
 title: dedikodu kumkuması
 slug: dedikodu-kumkumasi
+letter: D
 lisan: Türkçe
 anlamlar:
 - İşi gücü dedikodu olan kimse

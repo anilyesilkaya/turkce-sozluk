@@ -2,6 +2,7 @@
 layout: term
 title: acılık
 slug: acilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Acı olma durumu; meraret

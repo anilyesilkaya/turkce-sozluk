@@ -2,6 +2,7 @@
 layout: term
 title: köseği
 slug: kosegi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Ateş karıştırmaya yarayan odun veya demir

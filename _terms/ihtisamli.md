@@ -2,6 +2,7 @@
 layout: term
 title: ihtişamlı
 slug: ihtisamli
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► görkemli

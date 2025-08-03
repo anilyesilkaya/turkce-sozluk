@@ -2,6 +2,7 @@
 layout: term
 title: kavat
 slug: kavat
+letter: K
 lisan: Arapça ḳavvād
 anlamlar:
 - ► pezevenk

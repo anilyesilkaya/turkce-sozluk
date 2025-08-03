@@ -2,6 +2,7 @@
 layout: term
 title: kapalı hece
 slug: kapali-hece
+letter: K
 lisan: Türkçe
 anlamlar:
 - 'Ünsüzle biten hece: Kalk, bak gibi'

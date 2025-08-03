@@ -2,6 +2,7 @@
 layout: term
 title: kafası sersem sepet (olmak)
 slug: kafasi-sersem-sepet-olmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - gürültü ve uğultudan zihni yorulmuş (olmak)

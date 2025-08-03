@@ -2,6 +2,7 @@
 layout: term
 title: sezdirtmek
 slug: sezdirtmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sezdirme işini yaptırmak

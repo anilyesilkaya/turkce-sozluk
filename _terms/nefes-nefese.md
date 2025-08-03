@@ -2,6 +2,7 @@
 layout: term
 title: nefes nefese
 slug: nefes-nefese
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► soluk soluğa

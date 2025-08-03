@@ -2,6 +2,7 @@
 layout: term
 title: harcı olmamak
 slug: harci-olmamak
+letter: H
 lisan: Türkçe
 anlamlar:
 - bir iş, birinin yapabileceği nitelikte olmamak

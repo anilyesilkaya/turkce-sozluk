@@ -2,6 +2,7 @@
 layout: term
 title: mızıka
 slug: mizika
+letter: M
 lisan: İtalyanca musica
 anlamlar:
 - ► bando

@@ -2,6 +2,7 @@
 layout: term
 title: barışık olmak
 slug: barisik-olmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - sevecen ve hoşgörülü davranmak

@@ -2,6 +2,7 @@
 layout: term
 title: paytak adım
 slug: paytak-adim
+letter: P
 lisan: Türkçe
 anlamlar:
 - İki yana sallanarak yürüme

@@ -2,6 +2,7 @@
 layout: term
 title: doktor doktor gezmek (veya dolaşmak)
 slug: doktor-doktor-gezmek-veya-dolasmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - tedavide çabuk ve kesin sonuç almak ümidiyle birçok doktora başvurmak

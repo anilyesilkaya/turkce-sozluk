@@ -2,6 +2,7 @@
 layout: term
 title: koltukluk
 slug: koltukluk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Koltuk yapmaya ve kaplamaya elverişli olan (kumaş)

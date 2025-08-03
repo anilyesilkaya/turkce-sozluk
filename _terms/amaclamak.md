@@ -2,6 +2,7 @@
 layout: term
 title: amaçlamak
 slug: amaclamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir amaca ulaşmayı istemek; istihdaf etmek

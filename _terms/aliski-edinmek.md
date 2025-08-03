@@ -2,6 +2,7 @@
 layout: term
 title: alışkı edinmek
 slug: aliski-edinmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - alışkanlık durumuna getirmek

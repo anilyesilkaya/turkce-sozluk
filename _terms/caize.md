@@ -2,6 +2,7 @@
 layout: term
 title: caize
 slug: caize
+letter: C
 lisan: Arapça cāʾize
 anlamlar:
 - Şairlerin kasidelerle övdükleri büyükler tarafından kendilerine verilen bahşiş

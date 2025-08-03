@@ -2,6 +2,7 @@
 layout: term
 title: üşümek
 slug: usumek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Isı yokluğundan, azlığından veya ısı kaybından etkilenmek, soğuğun etkisini duymak

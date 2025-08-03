@@ -2,6 +2,7 @@
 layout: term
 title: çiy
 slug: ciy
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Havada buğu durumundayken akşamın ve gecenin serinliğiyle yerde veya bitkilerde toplanan küçük su damlaları; şebnem, jale

@@ -2,6 +2,7 @@
 layout: term
 title: olumsuz
 slug: olumsuz
+letter: O
 lisan: Türkçe
 anlamlar:
 - Gözetilen amaca veya beklenilene uygun olmayan; menfi, negatif

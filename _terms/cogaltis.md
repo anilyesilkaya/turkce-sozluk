@@ -2,6 +2,7 @@
 layout: term
 title: çoğaltış
 slug: cogaltis
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çoğaltmak işi

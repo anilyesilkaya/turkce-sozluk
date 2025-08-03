@@ -2,6 +2,7 @@
 layout: term
 title: lila rengi
 slug: lila-rengi
+letter: L
 lisan: Türkçe
 anlamlar:
 - ► eflatun

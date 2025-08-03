@@ -2,6 +2,7 @@
 layout: term
 title: kaşıklamak
 slug: kasiklamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaşıkla yemek

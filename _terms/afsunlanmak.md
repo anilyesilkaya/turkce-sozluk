@@ -2,6 +2,7 @@
 layout: term
 title: afsunlanmak
 slug: afsunlanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► büyülenmek

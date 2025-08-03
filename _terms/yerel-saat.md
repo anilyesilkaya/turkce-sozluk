@@ -2,6 +2,7 @@
 layout: term
 title: yerel saat
 slug: yerel-saat
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Güneş’in dünya üzerindeki herhangi bir noktanın meridyeninden geçtiği anı 12:00 olarak kabul eden saat ayarı

@@ -2,6 +2,7 @@
 layout: term
 title: eşli
 slug: esli
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eşi olan

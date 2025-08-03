@@ -2,6 +2,7 @@
 layout: term
 title: muhtemelen
 slug: muhtemelen
+letter: M
 lisan: Arapça muḥtemelen
 anlamlar:
 - Umulur ki, beklenir ki, görünüşe bakılarak; ihtimalen

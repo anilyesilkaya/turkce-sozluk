@@ -2,6 +2,7 @@
 layout: term
 title: haydi haydi
 slug: haydi-haydi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Kolaylıkla, rahatlıkla

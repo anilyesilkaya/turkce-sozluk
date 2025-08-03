@@ -2,6 +2,7 @@
 layout: term
 title: dehlemek
 slug: dehlemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Hayvanı "deh" diyerek yürütmek

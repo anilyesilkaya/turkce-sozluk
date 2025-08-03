@@ -2,6 +2,7 @@
 layout: term
 title: büyüklenme
 slug: buyuklenme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Büyüklenmek işi; kibir

@@ -2,6 +2,7 @@
 layout: term
 title: adli tatil
 slug: adli-tatil
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kanunda belirlenen durumların dışında, hiçbir adli işlemin yapılmadığı süre

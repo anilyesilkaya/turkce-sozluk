@@ -2,6 +2,7 @@
 layout: term
 title: komplikasyon
 slug: komplikasyon
+letter: K
 lisan: Fransızca complication
 anlamlar:
 - ► karmaşıklık

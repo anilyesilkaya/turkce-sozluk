@@ -2,6 +2,7 @@
 layout: term
 title: ikram etmek
 slug: ikram-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - konuğu bir şeyle ağırlamak, konuğa bir şey sunmak

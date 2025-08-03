@@ -2,6 +2,7 @@
 layout: term
 title: iş güç sahibi
 slug: is-guc-sahibi
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bir işi, bir görevi olan (kimse)

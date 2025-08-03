@@ -2,6 +2,7 @@
 layout: term
 title: mavna
 slug: mavna
+letter: M
 lisan: Arapça maʿūne
 anlamlar:
 - Gemilere ve yakın kıyılara yük taşıyan, güvertesiz büyük tekne

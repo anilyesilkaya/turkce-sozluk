@@ -2,6 +2,7 @@
 layout: term
 title: vazifelendirmek
 slug: vazifelendirmek
+letter: V
 lisan: Türkçe
 anlamlar:
 - ► ödevlendirmek

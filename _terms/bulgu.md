@@ -2,6 +2,7 @@
 layout: term
 title: bulgu
 slug: bulgu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Var olduğu hâlde bilinmeyeni bulup ortaya çıkarma işi ve bu işin sonunda elde edilen şey

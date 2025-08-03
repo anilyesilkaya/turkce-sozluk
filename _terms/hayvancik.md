@@ -2,6 +2,7 @@
 layout: term
 title: hayvancık
 slug: hayvancik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Ancak mikroskopla görülebilen çok küçük hayvan

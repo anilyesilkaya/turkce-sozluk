@@ -2,6 +2,7 @@
 layout: term
 title: halletme
 slug: halletme
+letter: H
 lisan: Türkçe
 anlamlar:
 - Halletmek işi

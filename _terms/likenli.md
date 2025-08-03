@@ -2,6 +2,7 @@
 layout: term
 title: likenli
 slug: likenli
+letter: L
 lisan: Türkçe
 anlamlar:
 - Üzerinde liken bulunan

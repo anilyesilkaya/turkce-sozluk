@@ -2,6 +2,7 @@
 layout: term
 title: dövülme
 slug: dovulme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dövülmek işi; pataklanma, sopalanma

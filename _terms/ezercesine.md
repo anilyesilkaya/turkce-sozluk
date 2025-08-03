@@ -2,6 +2,7 @@
 layout: term
 title: ezercesine
 slug: ezercesine
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ezer bir biçimde

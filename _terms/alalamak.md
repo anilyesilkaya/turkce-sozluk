@@ -2,6 +2,7 @@
 layout: term
 title: alalamak
 slug: alalamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► gizlemek

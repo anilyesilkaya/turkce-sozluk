@@ -2,6 +2,7 @@
 layout: term
 title: demir gibi
 slug: demir-gibi
+letter: D
 lisan: Türkçe
 anlamlar:
 - çok sağlam

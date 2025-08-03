@@ -2,6 +2,7 @@
 layout: term
 title: mayonez
 slug: mayonez
+letter: M
 lisan: Fransızca mayonnaise
 anlamlar:
 - Yumurta sarısı, zeytinyağı ve limonla yapılan bir tür koyu, soğuk yiyecek

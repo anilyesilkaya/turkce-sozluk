@@ -2,6 +2,7 @@
 layout: term
 title: basgitar
 slug: basgitar
+letter: B
 lisan: Fransızca basse + guitare
 anlamlar:
 - Çoğunlukla dört telli, kalın sesler veren bir gitar türü

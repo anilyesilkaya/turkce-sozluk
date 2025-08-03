@@ -2,6 +2,7 @@
 layout: term
 title: gezen tavuk
 slug: gezen-tavuk
+letter: G
 lisan: Türkçe
 anlamlar:
 - Hem verilen yemle hem de açık alanda dolaşarak bulduklarıyla beslenen tavuk

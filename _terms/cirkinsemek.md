@@ -2,6 +2,7 @@
 layout: term
 title: çirkinsemek
 slug: cirkinsemek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir şeyi çirkin bulmak

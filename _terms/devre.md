@@ -2,6 +2,7 @@
 layout: term
 title: devre
 slug: devre
+letter: D
 lisan: Türkçe
 anlamlar:
 - Ters, yanlış bir biçimde

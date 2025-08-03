@@ -2,6 +2,7 @@
 layout: term
 title: hatmetmek
 slug: hatmetmek
+letter: H
 lisan: Arapça ḫatm + Türkçe etmek
 anlamlar:
 - Kur'an'ın tamamını okumak

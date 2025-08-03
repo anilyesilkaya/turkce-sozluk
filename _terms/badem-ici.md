@@ -2,6 +2,7 @@
 layout: term
 title: badem içi
 slug: badem-ici
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bademin dış kabuğu alındıktan sonra kalan içi

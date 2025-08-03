@@ -2,6 +2,7 @@
 layout: term
 title: yanaklı
 slug: yanakli
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yanağı olan

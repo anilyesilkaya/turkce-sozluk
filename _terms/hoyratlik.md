@@ -2,6 +2,7 @@
 layout: term
 title: hoyratlık
 slug: hoyratlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hoyratça davranış

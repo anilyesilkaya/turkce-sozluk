@@ -2,6 +2,7 @@
 layout: term
 title: o saatte
 slug: o-saatte
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► o saat

@@ -2,6 +2,7 @@
 layout: term
 title: abdestli
 slug: abdestli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Abdest almış (kimse)

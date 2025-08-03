@@ -2,6 +2,7 @@
 layout: term
 title: heyhat
 slug: heyhat
+letter: H
 lisan: Arapça heyhāt
 anlamlar:
 - '"Yazık, ne yazık" anlamında kullanılan bir söz'

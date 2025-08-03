@@ -2,6 +2,7 @@
 layout: term
 title: kulağı delik
 slug: kulagi-delik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Olup bitenleri çabuk haber alan (kimse)

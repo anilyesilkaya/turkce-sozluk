@@ -2,6 +2,7 @@
 layout: term
 title: kaburgasız
 slug: kaburgasiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaburgası olmayan

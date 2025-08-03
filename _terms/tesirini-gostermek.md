@@ -2,6 +2,7 @@
 layout: term
 title: tesirini göstermek
 slug: tesirini-gostermek
+letter: T
 lisan: Türkçe
 anlamlar:
 - etkisini göstermek

@@ -2,6 +2,7 @@
 layout: term
 title: kilit mevki
 slug: kilit-mevki
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kilit nokta

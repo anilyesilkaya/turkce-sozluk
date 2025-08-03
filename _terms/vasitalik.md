@@ -2,6 +2,7 @@
 layout: term
 title: vasıtalık
 slug: vasitalik
+letter: V
 lisan: Türkçe
 anlamlar:
 - ► aracılık

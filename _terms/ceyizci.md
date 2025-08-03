@@ -2,6 +2,7 @@
 layout: term
 title: çeyizci
 slug: ceyizci
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çeyiz hazırlayan veya satan kimse

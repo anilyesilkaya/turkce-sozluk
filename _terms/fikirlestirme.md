@@ -2,6 +2,7 @@
 layout: term
 title: fikirleştirme
 slug: fikirlestirme
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fikirleştirmek işi

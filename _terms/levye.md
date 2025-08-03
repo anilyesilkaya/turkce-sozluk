@@ -2,6 +2,7 @@
 layout: term
 title: levye
 slug: levye
+letter: L
 lisan: Fransızca levier
 anlamlar:
 - Bir mekanizmanın kumanda kolu

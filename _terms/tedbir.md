@@ -2,6 +2,7 @@
 layout: term
 title: tedbir
 slug: tedbir
+letter: T
 lisan: Arapça tedbīr
 anlamlar:
 - ► önlem

@@ -2,6 +2,7 @@
 layout: term
 title: emme
 slug: emme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Emmek işi

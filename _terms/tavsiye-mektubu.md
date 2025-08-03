@@ -2,6 +2,7 @@
 layout: term
 title: tavsiye mektubu
 slug: tavsiye-mektubu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Birinin işe uygun olduğunu, işe alınmasını bildirmek amacıyla yazılmış mektup; tavsiyename, referans

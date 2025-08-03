@@ -2,6 +2,7 @@
 layout: term
 title: sıvalı
 slug: sivali
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıvanmış, kıvrılmış (giysi kolu)

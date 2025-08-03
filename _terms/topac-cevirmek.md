@@ -2,6 +2,7 @@
 layout: term
 title: topaç çevirmek
 slug: topac-cevirmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - topacı, çevresine sarılmış ipi çevirerek döndürmek

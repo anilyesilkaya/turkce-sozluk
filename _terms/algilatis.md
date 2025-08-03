@@ -2,6 +2,7 @@
 layout: term
 title: algılatış
 slug: algilatis
+letter: A
 lisan: Türkçe
 anlamlar:
 - Algılatmak işi

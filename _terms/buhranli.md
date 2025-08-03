@@ -2,6 +2,7 @@
 layout: term
 title: buhranlı
 slug: buhranli
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bunalımlı

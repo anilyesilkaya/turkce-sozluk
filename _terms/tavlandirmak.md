@@ -2,6 +2,7 @@
 layout: term
 title: tavlandırmak
 slug: tavlandirmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tavlanmasını sağlamak

@@ -2,6 +2,7 @@
 layout: term
 title: küçük
 slug: kucuk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Boyutları, benzerlerininkinden daha ufak olan, mikro; ufak tefek büyük karşıtı

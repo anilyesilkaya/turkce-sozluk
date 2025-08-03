@@ -2,6 +2,7 @@
 layout: term
 title: karnı tok sırtı pek olmak
 slug: karni-tok-sirti-pek-olmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - geçimi iyi olmak, para sıkıntısı olmamak

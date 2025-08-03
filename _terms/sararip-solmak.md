@@ -2,6 +2,7 @@
 layout: term
 title: sararıp solmak
 slug: sararip-solmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - giderek daha çok solmak

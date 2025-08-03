@@ -2,6 +2,7 @@
 layout: term
 title: misyon
 slug: misyon
+letter: M
 lisan: Fransızca mission
 anlamlar:
 - ► görev

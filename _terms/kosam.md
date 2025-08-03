@@ -2,6 +2,7 @@
 layout: term
 title: koşam
 slug: kosam
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► avuç

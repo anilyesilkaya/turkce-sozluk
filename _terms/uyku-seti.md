@@ -2,6 +2,7 @@
 layout: term
 title: uyku seti
 slug: uyku-seti
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► uyku takımı

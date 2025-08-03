@@ -2,6 +2,7 @@
 layout: term
 title: Avustralyalı
 slug: avustralyali
+letter: A
 lisan: Türkçe
 anlamlar:
 - Avustralya'da yaşayan halktan veya bu halkın soyundan olan kimse

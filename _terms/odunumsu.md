@@ -2,6 +2,7 @@
 layout: term
 title: odunumsu
 slug: odunumsu
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► odunsu

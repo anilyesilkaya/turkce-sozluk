@@ -2,6 +2,7 @@
 layout: term
 title: böğür
 slug: bogur
+letter: B
 lisan: Türkçe
 anlamlar:
 - İnsan ve hayvan vücudunun kaburga ile kalça arasındaki bölümü

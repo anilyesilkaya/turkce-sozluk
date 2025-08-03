@@ -2,6 +2,7 @@
 layout: term
 title: zihayat
 slug: zihayat
+letter: Z
 lisan: Arapça ẕīḥayāt
 anlamlar:
 - ► canlı

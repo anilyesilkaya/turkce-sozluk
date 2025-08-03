@@ -2,6 +2,7 @@
 layout: term
 title: seyyar
 slug: seyyar
+letter: S
 lisan: Arapça seyyār
 anlamlar:
 - Belli bir yeri olmayan; gezici

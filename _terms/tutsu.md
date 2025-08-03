@@ -2,6 +2,7 @@
 layout: term
 title: tütsü
 slug: tutsu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Dinî törenlerde, halk hekimliğinde veya çevrenin güzel kokmasını sağlamak amacıyla yakılan kokulu madde; buhur

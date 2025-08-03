@@ -2,6 +2,7 @@
 layout: term
 title: paramparça olmak
 slug: paramparca-olmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - pek çok parçaya ayrılmak, kırılmak

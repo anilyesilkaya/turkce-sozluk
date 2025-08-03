@@ -2,6 +2,7 @@
 layout: term
 title: bakara
 slug: bakara
+letter: B
 lisan: Fransızca baccara
 anlamlar:
 - İskambil kâğıdı ile oynanan bir kumar

@@ -2,6 +2,7 @@
 layout: term
 title: fokurdamak
 slug: fokurdamak
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fokur fokur ses çıkararak kaynamak

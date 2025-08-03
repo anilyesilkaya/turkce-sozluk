@@ -2,6 +2,7 @@
 layout: term
 title: acı çekmek (veya duymak)
 slug: aci-cekmek-veya-duymak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ağrı, sızı duymak

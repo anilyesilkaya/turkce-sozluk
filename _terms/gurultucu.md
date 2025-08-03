@@ -2,6 +2,7 @@
 layout: term
 title: gürültücü
 slug: gurultucu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gürültü yapan veya gürültü çıkaran (kimse); velveleci, kavaracı

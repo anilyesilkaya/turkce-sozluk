@@ -2,6 +2,7 @@
 layout: term
 title: dili açılmak
 slug: dili-acilmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - herhangi bir sebeple konuşmayan kimse konuşmaya başlamak

@@ -2,6 +2,7 @@
 layout: term
 title: koyu koyu düşünmek
 slug: koyu-koyu-dusunmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - uzun uzun veya derin derin düşünmek

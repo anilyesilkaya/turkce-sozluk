@@ -2,6 +2,7 @@
 layout: term
 title: dülger
 slug: dulger
+letter: D
 lisan: Farsça durūger
 anlamlar:
 - Yapıların kaba ağaç işlerini yapan kimse

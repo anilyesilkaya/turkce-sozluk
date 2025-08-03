@@ -2,6 +2,7 @@
 layout: term
 title: haz vermek
 slug: haz-vermek
+letter: H
 lisan: Türkçe
 anlamlar:
 - hoşlanmasını sağlamak

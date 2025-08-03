@@ -2,6 +2,7 @@
 layout: term
 title: meydan muharebesi
 slug: meydan-muharebesi
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► meydan savaşı

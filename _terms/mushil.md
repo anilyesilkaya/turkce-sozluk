@@ -2,6 +2,7 @@
 layout: term
 title: müshil
 slug: mushil
+letter: M
 lisan: Arapça mushil
 anlamlar:
 - Bağırsakları çalıştırıp temizleyen, dışkının kolaylıkla dışarı atılmasını sağlayan ilaç

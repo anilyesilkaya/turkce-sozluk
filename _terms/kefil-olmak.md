@@ -2,6 +2,7 @@
 layout: term
 title: kefil olmak
 slug: kefil-olmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - borçlu borcunu ödemediğinde veya bir kimse verdiği sözü yerine getirmediğinde bütün sorumluluğu üzerine almak

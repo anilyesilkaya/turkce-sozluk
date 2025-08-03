@@ -2,6 +2,7 @@
 layout: term
 title: manası kalmamak
 slug: manasi-kalmamak
+letter: M
 lisan: Türkçe
 anlamlar:
 - anlamı olmamak

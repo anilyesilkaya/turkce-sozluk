@@ -2,6 +2,7 @@
 layout: term
 title: egzoz
 slug: egzoz
+letter: E
 lisan: İngilizce exhaust
 anlamlar:
 - ► egzoz gazı

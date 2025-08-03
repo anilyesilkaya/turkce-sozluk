@@ -2,6 +2,7 @@
 layout: term
 title: avanta
 slug: avanta
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir kimsenin emek vermeden sağladığı kazanç

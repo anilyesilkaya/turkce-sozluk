@@ -2,6 +2,7 @@
 layout: term
 title: sterilize
 slug: sterilize
+letter: S
 lisan: Fransızca stérilisé
 anlamlar:
 - Bozulmasına yol açabilecek mikroorganizmalardan ve mayalardan sterilizasyon yöntemiyle arınmış olan (ürün vb.)

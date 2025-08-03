@@ -2,6 +2,7 @@
 layout: term
 title: antropozoik
 slug: antropozoik
+letter: A
 lisan: Fransızca anthropozoïque
 anlamlar:
 - ► Dördüncü Çağ

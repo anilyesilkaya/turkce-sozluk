@@ -2,6 +2,7 @@
 layout: term
 title: buncacık
 slug: buncacik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bu kadar az

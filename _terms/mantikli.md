@@ -2,6 +2,7 @@
 layout: term
 title: mantıklı
 slug: mantikli
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mantığa uygun, akla uygun; mantıksal, mantıki, lojik

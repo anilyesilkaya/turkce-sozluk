@@ -2,6 +2,7 @@
 layout: term
 title: yayabilmek
 slug: yayabilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yayma ihtimali veya imkânı bulunmak

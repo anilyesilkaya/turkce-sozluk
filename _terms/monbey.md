@@ -2,6 +2,7 @@
 layout: term
 title: 'monbey '
 slug: monbey
+letter: M
 lisan: Fransızca monşer + bey
 anlamlar:
 - Avrupa’da eğitim almış, giyim kuşamıyla Avrupalılara benzemeye çalışan Türk aydınları için alay yollu kullanılan monşer anlamında bir söz

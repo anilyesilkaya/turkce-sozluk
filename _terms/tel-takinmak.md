@@ -2,6 +2,7 @@
 layout: term
 title: tel takınmak
 slug: tel-takinmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - teller takmak

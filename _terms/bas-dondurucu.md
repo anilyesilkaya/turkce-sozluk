@@ -2,6 +2,7 @@
 layout: term
 title: baş döndürücü
 slug: bas-dondurucu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Şaşkına, serseme çevirici

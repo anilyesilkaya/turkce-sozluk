@@ -2,6 +2,7 @@
 layout: term
 title: öğür olmak
 slug: ogur-olmak
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - çokça birlikte bulunmaktan çok sıkı bir alışkanlık edinmek

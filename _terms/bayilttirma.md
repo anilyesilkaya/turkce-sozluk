@@ -2,6 +2,7 @@
 layout: term
 title: bayılttırma
 slug: bayilttirma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bayılttırmak işi

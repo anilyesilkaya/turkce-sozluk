@@ -2,6 +2,7 @@
 layout: term
 title: ayrımlaştırmak
 slug: ayrimlastirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► farklılaştırmak

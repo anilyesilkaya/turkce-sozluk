@@ -2,6 +2,7 @@
 layout: term
 title: ahdetmek
 slug: ahdetmek
+letter: A
 lisan: Arapça ʿahd + Türkçe etmek
 anlamlar:
 - Bir şeyi yapmak için kendi kendine söz vermek

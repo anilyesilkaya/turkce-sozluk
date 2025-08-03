@@ -2,6 +2,7 @@
 layout: term
 title: zümre edebiyatı
 slug: zumre-edebiyati
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Belli bir sınıfa veya zümreye hitap eden edebiyat

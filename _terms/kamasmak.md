@@ -2,6 +2,7 @@
 layout: term
 title: kamaşmak
 slug: kamasmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Ekşi bir şey sebebiyle dil, damak veya diş uyuşmak

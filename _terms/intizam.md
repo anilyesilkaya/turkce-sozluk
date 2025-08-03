@@ -2,6 +2,7 @@
 layout: term
 title: intizam
 slug: intizam
+letter: I
 lisan: Arapça intiẓām
 anlamlar:
 - Düzenli, düzgün olma

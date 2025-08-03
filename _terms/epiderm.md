@@ -2,6 +2,7 @@
 layout: term
 title: epiderm
 slug: epiderm
+letter: E
 lisan: Fransızca épiderme
 anlamlar:
 - ► üst deri

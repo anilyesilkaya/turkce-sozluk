@@ -2,6 +2,7 @@
 layout: term
 title: ağır uyku
 slug: agir-uyku
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► derin uyku

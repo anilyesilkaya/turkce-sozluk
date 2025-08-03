@@ -2,6 +2,7 @@
 layout: term
 title: ahiret adamı
 slug: ahiret-adami
+letter: A
 lisan: Türkçe
 anlamlar:
 - Dünya işlerinden el çekip sürekli ibadetle uğraşan kimse

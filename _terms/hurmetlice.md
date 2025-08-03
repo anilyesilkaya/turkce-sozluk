@@ -2,6 +2,7 @@
 layout: term
 title: hürmetlice
 slug: hurmetlice
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► saygılıca

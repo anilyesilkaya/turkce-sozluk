@@ -2,6 +2,7 @@
 layout: term
 title: evsiz barksız
 slug: evsiz-barksiz
+letter: E
 lisan: Türkçe
 anlamlar:
 - Başını sokacak yeri olmayan; odsuz ocaksız

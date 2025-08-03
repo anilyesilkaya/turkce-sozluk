@@ -2,6 +2,7 @@
 layout: term
 title: küçümseyiş
 slug: kucumseyis
+letter: K
 lisan: Türkçe
 anlamlar:
 - Küçümsemek işi

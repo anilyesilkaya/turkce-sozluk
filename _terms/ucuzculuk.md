@@ -2,6 +2,7 @@
 layout: term
 title: ucuzculuk
 slug: ucuzculuk
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ucuzcu olma durumu

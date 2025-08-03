@@ -2,6 +2,7 @@
 layout: term
 title: konuğu olmak
 slug: konugu-olmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - birine konuk olarak gidip kalmak

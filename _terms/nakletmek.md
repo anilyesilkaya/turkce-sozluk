@@ -2,6 +2,7 @@
 layout: term
 title: nakletmek
 slug: nakletmek
+letter: N
 lisan: Arapça naḳl + Türkçe etmek
 anlamlar:
 - Nakil işini yapmak, bir yerden başka bir yere geçirmek, iletmek

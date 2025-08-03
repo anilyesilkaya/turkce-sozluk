@@ -2,6 +2,7 @@
 layout: term
 title: şak
 slug: sak
+letter: Ş
 lisan: Arapça şaḳḳ
 anlamlar:
 - Yarma, yarılma

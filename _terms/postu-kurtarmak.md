@@ -2,6 +2,7 @@
 layout: term
 title: postu kurtarmak
 slug: postu-kurtarmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - öldürülme tehlikesini atlatmak

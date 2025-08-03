@@ -2,6 +2,7 @@
 layout: term
 title: keşişhane
 slug: kesishane
+letter: K
 lisan: Farsça keşīş + ḫāne
 anlamlar:
 - ► manastır

@@ -2,6 +2,7 @@
 layout: term
 title: akılalmaz
 slug: akilalmaz
+letter: A
 lisan: Türkçe
 anlamlar:
 - İnanılacak gibi olmayan, inanılmaz

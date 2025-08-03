@@ -2,6 +2,7 @@
 layout: term
 title: burç
 slug: burc
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► ökse otu

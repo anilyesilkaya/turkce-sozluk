@@ -2,6 +2,7 @@
 layout: term
 title: kaplama
 slug: kaplama
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaplamak işi; istila

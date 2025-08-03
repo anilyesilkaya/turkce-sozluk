@@ -2,6 +2,7 @@
 layout: term
 title: sosyal
 slug: sosyal
+letter: S
 lisan: Fransızca social
 anlamlar:
 - ► toplumsal

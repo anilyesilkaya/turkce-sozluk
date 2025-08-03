@@ -2,6 +2,7 @@
 layout: term
 title: suflör
 slug: suflor
+letter: S
 lisan: Fransızca souffleur
 anlamlar:
 - Oyunculara, rollerinde unuttukları sözleri izleyicilere duyurmadan söyleyip hatırlatan erkek

@@ -2,6 +2,7 @@
 layout: term
 title: ısıtmak
 slug: isitmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - Sıcak duruma getirmek

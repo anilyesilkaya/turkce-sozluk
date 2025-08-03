@@ -2,6 +2,7 @@
 layout: term
 title: kafeterya
 slug: kafeterya
+letter: K
 lisan: Fransızca cafeteria
 anlamlar:
 - Çay, kahve vb. içeceklerle bazı yiyeceklerin satıldığı yer

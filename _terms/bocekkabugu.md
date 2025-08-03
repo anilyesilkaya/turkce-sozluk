@@ -2,6 +2,7 @@
 layout: term
 title: böcekkabuğu
 slug: bocekkabugu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Mor ile yeşil arasında ve metal parlaklığında olan renk

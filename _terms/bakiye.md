@@ -2,6 +2,7 @@
 layout: term
 title: bakiye
 slug: bakiye
+letter: B
 lisan: Arapça baḳiyye
 anlamlar:
 - Artık, artan, kalan, geri kalan şey

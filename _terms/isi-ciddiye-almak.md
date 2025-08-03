@@ -2,6 +2,7 @@
 layout: term
 title: işi ciddiye almak
 slug: isi-ciddiye-almak
+letter: I
 lisan: Türkçe
 anlamlar:
 - soruna önem vermek

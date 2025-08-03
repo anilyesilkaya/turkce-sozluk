@@ -2,6 +2,7 @@
 layout: term
 title: alakalandırmak
 slug: alakalandirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► ilgilendirmek

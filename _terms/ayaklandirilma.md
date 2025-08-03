@@ -2,6 +2,7 @@
 layout: term
 title: ayaklandırılma
 slug: ayaklandirilma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayaklandırılmak işi

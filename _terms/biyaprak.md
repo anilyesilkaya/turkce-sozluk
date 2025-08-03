@@ -2,6 +2,7 @@
 layout: term
 title: biyaprak
 slug: biyaprak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Yaprakları halka dizilişli, genellikle akvaryumlarda bulundurulan su bitkisi

@@ -2,6 +2,7 @@
 layout: term
 title: güvensiz
 slug: guvensiz
+letter: G
 lisan: Türkçe
 anlamlar:
 - Başkalarına güvenmeyen; itimatsız

@@ -2,6 +2,7 @@
 layout: term
 title: dayanıksızlık
 slug: dayaniksizlik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dayanıksız olma durumu; metanetsizlik

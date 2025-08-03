@@ -2,6 +2,7 @@
 layout: term
 title: beş duyu
 slug: bes-duyu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Dokunma, görme, işitme, koklama, tat alma duyuları

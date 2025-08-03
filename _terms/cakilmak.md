@@ -2,6 +2,7 @@
 layout: term
 title: çakılmak
 slug: cakilmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çakma işine konu olmak

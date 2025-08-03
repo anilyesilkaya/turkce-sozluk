@@ -2,6 +2,7 @@
 layout: term
 title: karısı ağızlı
 slug: karisi-agizli
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► karı ağızlı

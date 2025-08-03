@@ -2,6 +2,7 @@
 layout: term
 title: çirkinleşebilmek
 slug: cirkinlesebilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çirkinleşme ihtimali bulunmak

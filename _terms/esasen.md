@@ -2,6 +2,7 @@
 layout: term
 title: esasen
 slug: esasen
+letter: E
 lisan: Arapça esāsen
 anlamlar:
 - Başından, temelinden, kökeninden

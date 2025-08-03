@@ -2,6 +2,7 @@
 layout: term
 title: canan
 slug: canan
+letter: C
 lisan: Farsça cānān
 anlamlar:
 - Gönülden sevilen, gönül verilmiş olan kadın

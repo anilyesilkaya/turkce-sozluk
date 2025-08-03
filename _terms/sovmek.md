@@ -2,6 +2,7 @@
 layout: term
 title: sövmek
 slug: sovmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Onur kırıcı, çoğu basmakalıp kaba sözler söylemek; donatmak, kalaylamak, kayarlamak, küfretmek, yıkamak

@@ -2,6 +2,7 @@
 layout: term
 title: şimşir
 slug: simsir
+letter: Ş
 lisan: Farsça şemşīr
 anlamlar:
 - Şimşirgillerden, yaprakları her mevsimde yeşil kalan, taşlık, çorak bölgelerde kendiliğinden yetişen veya bahçelerde süs bitkisi olarak yetiştirilen, odunu sarımsı renkli ve çok sert olan bir ağaççık (Buxus sempervirens)

@@ -2,6 +2,7 @@
 layout: term
 title: adli polis
 slug: adli-polis
+letter: A
 lisan: Türkçe
 anlamlar:
 - Adliye içerisinde güvenliği sağlayıp cumhuriyet savcısına bağlı olarak çalışan kolluk gücü

@@ -2,6 +2,7 @@
 layout: term
 title: güldürücülük
 slug: gulduruculuk
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güldürücü olma durumu

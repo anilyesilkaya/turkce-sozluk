@@ -2,6 +2,7 @@
 layout: term
 title: realist olmak
 slug: realist-olmak
+letter: R
 lisan: Türkçe
 anlamlar:
 - gerçekçi olmak

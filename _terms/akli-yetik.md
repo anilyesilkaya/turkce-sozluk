@@ -2,6 +2,7 @@
 layout: term
 title: aklı yetik
 slug: akli-yetik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aklı yeten, işten anlayan

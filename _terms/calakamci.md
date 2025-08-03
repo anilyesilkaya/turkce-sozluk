@@ -2,6 +2,7 @@
 layout: term
 title: çalakamçı
 slug: calakamci
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Durmadan kamçılayarak

@@ -2,6 +2,7 @@
 layout: term
 title: gün ışığı
 slug: gun-isigi
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► aydınlık

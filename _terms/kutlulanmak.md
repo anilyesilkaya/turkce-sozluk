@@ -2,6 +2,7 @@
 layout: term
 title: kutlulanmak
 slug: kutlulanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kutlu duruma gelmek

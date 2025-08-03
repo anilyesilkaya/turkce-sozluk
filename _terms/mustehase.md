@@ -2,6 +2,7 @@
 layout: term
 title: müstehase
 slug: mustehase
+letter: M
 lisan: Arapça musteḥās̱e
 anlamlar:
 - ► fosil

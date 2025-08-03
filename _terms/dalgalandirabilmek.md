@@ -2,6 +2,7 @@
 layout: term
 title: dalgalandırabilmek
 slug: dalgalandirabilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dalgalandırma ihtimali veya imkânı bulunmak

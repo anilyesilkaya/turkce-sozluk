@@ -2,6 +2,7 @@
 layout: term
 title: dediğim dedik, öttürdüğüm (veya çaldığım) düdük
 slug: dedigim-dedik-otturdugum-veya-caldigim-duduk
+letter: D
 lisan: Türkçe
 anlamlar:
 - bir insanın sözünde direndiğini anlatan bir söz

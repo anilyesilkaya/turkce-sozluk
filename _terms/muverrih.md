@@ -2,6 +2,7 @@
 layout: term
 title: müverrih
 slug: muverrih
+letter: M
 lisan: Arapça muverriḫ
 anlamlar:
 - ► tarihçi

@@ -2,6 +2,7 @@
 layout: term
 title: hatır
 slug: hatir
+letter: H
 lisan: Arapça ḫāṭir
 anlamlar:
 - Düşünme, akılda tutma

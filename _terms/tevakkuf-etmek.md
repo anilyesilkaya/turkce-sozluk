@@ -2,6 +2,7 @@
 layout: term
 title: tevakkuf etmek
 slug: tevakkuf-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - eğleşmek

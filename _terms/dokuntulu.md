@@ -2,6 +2,7 @@
 layout: term
 title: döküntülü
 slug: dokuntulu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Döküntüsü olan

@@ -2,6 +2,7 @@
 layout: term
 title: ciğer acısı
 slug: ciger-acisi
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► evlat acısı

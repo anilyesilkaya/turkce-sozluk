@@ -2,6 +2,7 @@
 layout: term
 title: murakabe
 slug: murakabe
+letter: M
 lisan: Arapça murāḳabe
 anlamlar:
 - ► denetleme

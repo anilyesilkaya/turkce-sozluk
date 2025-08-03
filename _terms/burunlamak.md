@@ -2,6 +2,7 @@
 layout: term
 title: burunlamak
 slug: burunlamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► dışlamak

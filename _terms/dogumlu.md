@@ -2,6 +2,7 @@
 layout: term
 title: doğumlu
 slug: dogumlu
+letter: D
 lisan: Türkçe
 anlamlar:
 - '... yılında doğmuş; tevellütlü'

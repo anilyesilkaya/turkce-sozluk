@@ -2,6 +2,7 @@
 layout: term
 title: tarihî
 slug: tarihi
+letter: T
 lisan: Arapça tārīḫī
 anlamlar:
 - ► tarihsel

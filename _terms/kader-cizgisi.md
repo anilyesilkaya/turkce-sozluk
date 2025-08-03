@@ -2,6 +2,7 @@
 layout: term
 title: kader çizgisi
 slug: kader-cizgisi
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► yazgı

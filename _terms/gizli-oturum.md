@@ -2,6 +2,7 @@
 layout: term
 title: gizli oturum
 slug: gizli-oturum
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► kapalı oturum, açık oturum karşıtı

@@ -2,6 +2,7 @@
 layout: term
 title: edip
 slug: edip
+letter: E
 lisan: Arapça edīb
 anlamlar:
 - Edebiyatla uğraşan, edebî eser veren kimse; yazar

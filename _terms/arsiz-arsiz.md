@@ -2,6 +2,7 @@
 layout: term
 title: arsız arsız
 slug: arsiz-arsiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Utanmaz, sıkılmaz, yılışık bir biçimde

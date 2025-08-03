@@ -2,6 +2,7 @@
 layout: term
 title: seneden seneye
 slug: seneden-seneye
+letter: S
 lisan: Türkçe
 anlamlar:
 - Her yıl

@@ -2,6 +2,7 @@
 layout: term
 title: ünite
 slug: unite
+letter: Ü
 lisan: Fransızca unité
 anlamlar:
 - Birlik, birleşmiş olma durumu

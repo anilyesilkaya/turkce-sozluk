@@ -2,6 +2,7 @@
 layout: term
 title: mahzen
 slug: mahzen
+letter: M
 lisan: Arapça maḫzen
 anlamlar:
 - Yapılarda yer altı deposu

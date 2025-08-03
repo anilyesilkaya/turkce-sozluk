@@ -2,6 +2,7 @@
 layout: term
 title: bittabi
 slug: bittabi
+letter: B
 lisan: Arapça bi'ṭ-ṭabʿ
 anlamlar:
 - Doğal olarak

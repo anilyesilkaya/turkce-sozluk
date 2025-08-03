@@ -2,6 +2,7 @@
 layout: term
 title: armut
 slug: armut
+letter: A
 lisan: Farsça armūd, emrūd
 anlamlar:
 - Gülgillerden, çiçekleri beyaz, Türkiye'nin her yerinde yetişen bir ağaç (Pyrus communis)

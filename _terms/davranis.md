@@ -2,6 +2,7 @@
 layout: term
 title: davranış
 slug: davranis
+letter: D
 lisan: Türkçe
 anlamlar:
 - Davranma işi; tutum, davranım, muamele, hareket

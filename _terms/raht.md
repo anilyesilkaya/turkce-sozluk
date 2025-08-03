@@ -2,6 +2,7 @@
 layout: term
 title: raht
 slug: raht
+letter: R
 lisan: Farsça raḫt
 anlamlar:
 - At takımı

@@ -2,6 +2,7 @@
 layout: term
 title: kayıt koymak
 slug: kayit-koymak
+letter: K
 lisan: Türkçe
 anlamlar:
 - engellemek, sınırlamak, takyit etmek

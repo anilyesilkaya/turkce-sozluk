@@ -2,6 +2,7 @@
 layout: term
 title: bina etmek
 slug: bina-etmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - yapmak, kurmak, inşa etmek

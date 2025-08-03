@@ -2,6 +2,7 @@
 layout: term
 title: mantıkçı
 slug: mantikci
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mantık bilimiyle uğraşan kimse

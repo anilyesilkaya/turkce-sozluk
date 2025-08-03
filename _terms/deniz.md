@@ -2,6 +2,7 @@
 layout: term
 title: deniz
 slug: deniz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Yer kabuğunun çukur bölümlerini kaplayan, birbiriyle bağlantılı, tuzlu su kütlesi; bahir, derya

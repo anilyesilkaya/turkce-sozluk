@@ -2,6 +2,7 @@
 layout: term
 title: kükürdümsü
 slug: kukurdumsu
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kükürtsü

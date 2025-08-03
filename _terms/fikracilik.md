@@ -2,6 +2,7 @@
 layout: term
 title: fıkracılık
 slug: fikracilik
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► köşe yazarlığı

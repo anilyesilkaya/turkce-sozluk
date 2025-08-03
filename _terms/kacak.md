@@ -2,6 +2,7 @@
 layout: term
 title: kaçak
 slug: kacak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir kapalı kaptan, bir borudan sızan gaz veya sıvı; kaçıntı

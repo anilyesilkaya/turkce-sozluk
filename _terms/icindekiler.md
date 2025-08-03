@@ -2,6 +2,7 @@
 layout: term
 title: içindekiler
 slug: icindekiler
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bir kitabın, derginin baş veya sonuna konulan, konu başlıklarını sayfa numaralarıyla gösteren liste; fihrist

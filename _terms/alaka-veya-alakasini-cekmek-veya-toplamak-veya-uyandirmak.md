@@ -2,6 +2,7 @@
 layout: term
 title: alaka (veya alakasını) çekmek (veya toplamak veya uyandırmak)
 slug: alaka-veya-alakasini-cekmek-veya-toplamak-veya-uyandirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ilgi çekmek

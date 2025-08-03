@@ -2,6 +2,7 @@
 layout: term
 title: cips
 slug: cips
+letter: C
 lisan: İngilizce chips
 anlamlar:
 - Patates, mısır vb.nden yapılan gevrek atıştırmalık

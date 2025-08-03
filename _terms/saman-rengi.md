@@ -2,6 +2,7 @@
 layout: term
 title: saman rengi
 slug: saman-rengi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Soluk sarı renk; saman sarısı, samani

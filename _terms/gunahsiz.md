@@ -2,6 +2,7 @@
 layout: term
 title: günahsız
 slug: gunahsiz
+letter: G
 lisan: Türkçe
 anlamlar:
 - Günahı veya suçu olmayan; yazıksız, bigünah

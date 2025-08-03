@@ -2,6 +2,7 @@
 layout: term
 title: daldan dala konmak
 slug: daldan-dala-konmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - sık sık iş, konu veya düşünce değiştirmek

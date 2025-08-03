@@ -2,6 +2,7 @@
 layout: term
 title: cazibe
 slug: cazibe
+letter: C
 lisan: Arapça cāẕibe
 anlamlar:
 - ► çekicilik

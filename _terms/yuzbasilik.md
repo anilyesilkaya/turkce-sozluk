@@ -2,6 +2,7 @@
 layout: term
 title: yüzbaşılık
 slug: yuzbasilik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yüzbaşı olma durumu

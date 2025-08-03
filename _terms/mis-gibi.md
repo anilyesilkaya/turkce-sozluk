@@ -2,6 +2,7 @@
 layout: term
 title: mis gibi
 slug: mis-gibi
+letter: M
 lisan: Türkçe
 anlamlar:
 - çok güzel

@@ -2,6 +2,7 @@
 layout: term
 title: ferik elması
 slug: ferik-elmasi
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► ferik (I)

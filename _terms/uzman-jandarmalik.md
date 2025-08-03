@@ -2,6 +2,7 @@
 layout: term
 title: uzman jandarmalık
 slug: uzman-jandarmalik
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uzman jandarma olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: linolyum
 slug: linolyum
+letter: L
 lisan: Fransızca linoléum
 anlamlar:
 - Yer döşemesi olarak kullanılan, üzeri keten yağı ve mantar tozuyla kaplanmış jüt bezi; muşamba

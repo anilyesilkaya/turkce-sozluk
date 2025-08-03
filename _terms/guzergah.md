@@ -2,6 +2,7 @@
 layout: term
 title: güzergâh
 slug: guzergah
+letter: G
 lisan: Farsça guzergāh
 anlamlar:
 - Yolüstü uğranılacak, geçilecek yer

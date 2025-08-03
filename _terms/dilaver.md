@@ -2,6 +2,7 @@
 layout: term
 title: dilaver
 slug: dilaver
+letter: D
 lisan: Farsça dilāver
 anlamlar:
 - ► yiğit

@@ -2,6 +2,7 @@
 layout: term
 title: lahmacun
 slug: lahmacun
+letter: L
 lisan: Arapça laḥm + ʿacīn
 anlamlar:
 - Üstüne kıyma, kıyılmış soğan, maydanoz ve baharat konularak fırında pişirilen pide türü bir yiyecek

@@ -2,6 +2,7 @@
 layout: term
 title: şekavet
 slug: sekavet
+letter: Ş
 lisan: Arapça şeḳāvet
 anlamlar:
 - ► haydutluk

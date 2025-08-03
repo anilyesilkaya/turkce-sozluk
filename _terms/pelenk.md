@@ -2,6 +2,7 @@
 layout: term
 title: pelenk
 slug: pelenk
+letter: P
 lisan: Farsça peleng
 anlamlar:
 - ► pars

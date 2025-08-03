@@ -2,6 +2,7 @@
 layout: term
 title: uğurun Hakk'a olsun
 slug: ugurun-hakk-a-olsun
+letter: U
 lisan: Türkçe
 anlamlar:
 - “yolun açık olsun" sözüne karşılık olarak verilen iyi dilek sözü

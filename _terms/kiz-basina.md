@@ -2,6 +2,7 @@
 layout: term
 title: kız başına
 slug: kiz-basina
+letter: K
 lisan: Türkçe
 anlamlar:
 - Tek başına kız olarak

@@ -2,6 +2,7 @@
 layout: term
 title: beğendirme
 slug: begendirme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beğendirmek işi

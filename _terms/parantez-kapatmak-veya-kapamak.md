@@ -2,6 +2,7 @@
 layout: term
 title: parantez kapatmak (veya kapamak)
 slug: parantez-kapatmak-veya-kapamak
+letter: P
 lisan: Türkçe
 anlamlar:
 - söz veya yazının içine, sözü edilen konu ile ilgili eklenen bölümü bitirmek

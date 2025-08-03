@@ -2,6 +2,7 @@
 layout: term
 title: ikişer
 slug: ikiser
+letter: I
 lisan: Türkçe
 anlamlar:
 - İki sayısının üleştirme sayı sıfatı

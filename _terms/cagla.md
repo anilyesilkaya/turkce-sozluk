@@ -2,6 +2,7 @@
 layout: term
 title: çağla
 slug: cagla
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Badem, kayısı, erik vb. tek çekirdekli yemişlerin körpeyken yenilebilen ham şekli

@@ -2,6 +2,7 @@
 layout: term
 title: kullanış
 slug: kullanis
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kullanmak işi

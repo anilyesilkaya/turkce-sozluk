@@ -2,6 +2,7 @@
 layout: term
 title: bastık
 slug: bastik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► pestil

@@ -2,6 +2,7 @@
 layout: term
 title: tipleşmek
 slug: tiplesmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tip özelliği kazanmak

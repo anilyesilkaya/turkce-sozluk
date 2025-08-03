@@ -2,6 +2,7 @@
 layout: term
 title: neme gerek
 slug: neme-gerek
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► neme lazım

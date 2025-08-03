@@ -2,6 +2,7 @@
 layout: term
 title: benimki
 slug: benimki
+letter: B
 lisan: Türkçe
 anlamlar:
 - Benim olan, benimle ilgili olan

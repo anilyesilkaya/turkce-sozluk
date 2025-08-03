@@ -2,6 +2,7 @@
 layout: term
 title: yani
 slug: yani
+letter: Y
 lisan: Arapça yaʿnī
 anlamlar:
 - '"Demek oluyor ki" anlamında kullanılan bir söz'

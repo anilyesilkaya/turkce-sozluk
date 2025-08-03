@@ -2,6 +2,7 @@
 layout: term
 title: menkıbe
 slug: menkibe
+letter: M
 lisan: Arapça menḳabe
 anlamlar:
 - Din büyüklerinin veya tarihe geçmiş ünlü kimselerin yaşamları ve olağanüstü davranışlarıyla ilgili hikâye

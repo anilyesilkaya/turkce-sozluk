@@ -2,6 +2,7 @@
 layout: term
 title: istikrar
 slug: istikrar
+letter: I
 lisan: Arapça istiḳrār
 anlamlar:
 - Aynı kararda olma, aynı biçimde sürme, bir düzende devam etme; stabilizasyon

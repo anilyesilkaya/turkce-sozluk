@@ -2,6 +2,7 @@
 layout: term
 title: çizgi film
 slug: cizgi-film
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir konuyla ilgili olarak karakterlerinin hareketlerini belirtecek biçimde art arda çizilmiş resimlerden oluşan sinema filmi

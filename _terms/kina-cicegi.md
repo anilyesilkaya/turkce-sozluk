@@ -2,6 +2,7 @@
 layout: term
 title: kına çiçeği
 slug: kina-cicegi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kına çiçeğigillerden, çiçekleri tüylü renkte olan, bir veya çok yıllık otsu bitki (Balsamina hortensis)

@@ -2,6 +2,7 @@
 layout: term
 title: kin bağlamak
 slug: kin-baglamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - birine karşı öç alma duygusu duymak

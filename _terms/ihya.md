@@ -2,6 +2,7 @@
 layout: term
 title: ihya
 slug: ihya
+letter: I
 lisan: Arapça iḥyāʾ
 anlamlar:
 - Yeniden canlandırma, diriltme

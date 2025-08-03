@@ -2,6 +2,7 @@
 layout: term
 title: Amerikalı
 slug: amerikali
+letter: A
 lisan: Türkçe
 anlamlar:
 - Amerika Birleşik Devletleri halkından olan kimse

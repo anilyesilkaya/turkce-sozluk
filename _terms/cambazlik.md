@@ -2,6 +2,7 @@
 layout: term
 title: cambazlık
 slug: cambazlik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cambazın işi veya mesleği; akrobatlık, akrobasi

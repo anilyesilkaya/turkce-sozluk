@@ -2,6 +2,7 @@
 layout: term
 title: jenosit
 slug: jenosit
+letter: J
 lisan: Fransızca génocide
 anlamlar:
 - ► soykırım

@@ -2,6 +2,7 @@
 layout: term
 title: kırpıntı
 slug: kirpinti
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kırpılan şeyden kalan küçük parça; kırkıntı

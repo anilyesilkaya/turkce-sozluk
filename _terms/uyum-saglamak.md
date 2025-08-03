@@ -2,6 +2,7 @@
 layout: term
 title: uyum sağlamak
 slug: uyum-saglamak
+letter: U
 lisan: Türkçe
 anlamlar:
 - uymak, intibak etmek

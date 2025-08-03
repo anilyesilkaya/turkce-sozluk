@@ -2,6 +2,7 @@
 layout: term
 title: ak pak
 slug: ak-pak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► bembeyaz

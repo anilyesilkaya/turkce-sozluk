@@ -2,6 +2,7 @@
 layout: term
 title: ilgisiz
 slug: ilgisiz
+letter: I
 lisan: Türkçe
 anlamlar:
 - İlgisi olmayan veya ilgilenmeyen; kayıtsız, aldırmaz, alakasız, lakayıt, bigâne

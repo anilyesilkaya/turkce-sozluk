@@ -2,6 +2,7 @@
 layout: term
 title: ürperti
 slug: urperti
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Ürperme duygusu

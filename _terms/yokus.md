@@ -2,6 +2,7 @@
 layout: term
 title: yokuş
 slug: yokus
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Aşağıdan yukarıya gittikçe yükselen eğimli yer; çıkış, iniş karşıtı

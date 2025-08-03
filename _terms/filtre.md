@@ -2,6 +2,7 @@
 layout: term
 title: filtre
 slug: filtre
+letter: F
 lisan: Fransızca filtre
 anlamlar:
 - ► süzgeç

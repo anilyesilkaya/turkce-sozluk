@@ -2,6 +2,7 @@
 layout: term
 title: yevmiye
 slug: yevmiye
+letter: Y
 lisan: Arapça yevmiyye
 anlamlar:
 - ► gündelik

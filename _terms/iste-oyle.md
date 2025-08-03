@@ -2,6 +2,7 @@
 layout: term
 title: işte öyle
 slug: iste-oyle
+letter: I
 lisan: Türkçe
 anlamlar:
 - “durum budur” anlamında kullanılan söz

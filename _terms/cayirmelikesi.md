@@ -2,6 +2,7 @@
 layout: term
 title: çayırmelikesi
 slug: cayirmelikesi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► keçisakalı

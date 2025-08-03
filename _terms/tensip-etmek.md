@@ -2,6 +2,7 @@
 layout: term
 title: tensip etmek
 slug: tensip-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - yaraştırmak

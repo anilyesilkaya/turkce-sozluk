@@ -2,6 +2,7 @@
 layout: term
 title: asap
 slug: asap
+letter: A
 lisan: Arapça aʿṣāb
 anlamlar:
 - Sinirler

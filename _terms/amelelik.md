@@ -2,6 +2,7 @@
 layout: term
 title: amelelik
 slug: amelelik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Amelenin yaptığı iş

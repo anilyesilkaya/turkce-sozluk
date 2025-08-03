@@ -2,6 +2,7 @@
 layout: term
 title: altsız
 slug: altsiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Altı olmayan

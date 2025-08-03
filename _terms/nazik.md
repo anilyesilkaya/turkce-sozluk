@@ -2,6 +2,7 @@
 layout: term
 title: nazik
 slug: nazik
+letter: N
 lisan: Farsça nāzuk
 anlamlar:
 - Başkalarına karşı saygılı davranan

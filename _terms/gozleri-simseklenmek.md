@@ -2,6 +2,7 @@
 layout: term
 title: gözleri şimşeklenmek
 slug: gozleri-simseklenmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - kızgın bir şekilde bakmak, çok öfkelenmek

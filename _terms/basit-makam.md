@@ -2,6 +2,7 @@
 layout: term
 title: basit makam
 slug: basit-makam
+letter: B
 lisan: Türkçe
 anlamlar:
 - Klasik Türk müziğinde çargâh, buselik, kürdi, rast, uşşak, hüseyni, neva, hicaz, hümayun, uzzal, zengûle, karcığar ve suzinak makamlarından her biri

@@ -2,6 +2,7 @@
 layout: term
 title: ehil
 slug: ehil
+letter: E
 lisan: Arapça ehl
 anlamlar:
 - Bir işte yetkili olan, bir işi yapan

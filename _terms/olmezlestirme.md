@@ -2,6 +2,7 @@
 layout: term
 title: ölmezleştirme
 slug: olmezlestirme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► ölümsüzleştirme

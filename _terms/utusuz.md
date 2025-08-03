@@ -2,6 +2,7 @@
 layout: term
 title: ütüsüz
 slug: utusuz
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Ütülenmemiş veya ütüsü bozulmuş

@@ -2,6 +2,7 @@
 layout: term
 title: cin cin bakmak
 slug: cin-cin-bakmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - kurnazca bakmak

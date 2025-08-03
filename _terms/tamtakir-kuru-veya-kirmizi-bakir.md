@@ -2,6 +2,7 @@
 layout: term
 title: tamtakır kuru (veya kırmızı) bakır
 slug: tamtakir-kuru-veya-kirmizi-bakir
+letter: T
 lisan: Türkçe
 anlamlar:
 - boş, bomboş

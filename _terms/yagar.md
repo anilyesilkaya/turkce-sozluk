@@ -2,6 +2,7 @@
 layout: term
 title: yağar
 slug: yagar
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yağmur

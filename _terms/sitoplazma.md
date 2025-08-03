@@ -2,6 +2,7 @@
 layout: term
 title: sitoplazma
 slug: sitoplazma
+letter: S
 lisan: Fransızca cytoplasme
 anlamlar:
 - Çekirdek dışta kalmak üzere protoplazma yığını

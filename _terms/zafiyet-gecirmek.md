@@ -2,6 +2,7 @@
 layout: term
 title: zafiyet geçirmek
 slug: zafiyet-gecirmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - zayıflayıp iyice kuvvetten düşmek

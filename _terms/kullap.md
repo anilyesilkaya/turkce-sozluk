@@ -2,6 +2,7 @@
 layout: term
 title: kullap
 slug: kullap
+letter: K
 lisan: Arapça ḳullāb
 anlamlar:
 - İplik üzerine sırma sarmaya yarar bir dolap

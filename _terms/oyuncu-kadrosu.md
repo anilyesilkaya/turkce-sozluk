@@ -2,6 +2,7 @@
 layout: term
 title: oyuncu kadrosu
 slug: oyuncu-kadrosu
+letter: O
 lisan: Türkçe
 anlamlar:
 - Televizyon ve sinema dizi ve filmlerinde oynayan oyuncuların tümü

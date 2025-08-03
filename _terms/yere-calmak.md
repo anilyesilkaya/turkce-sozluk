@@ -2,6 +2,7 @@
 layout: term
 title: yere çalmak
 slug: yere-calmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yere atmak, yere fırlatmak

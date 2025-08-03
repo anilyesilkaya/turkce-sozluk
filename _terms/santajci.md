@@ -2,6 +2,7 @@
 layout: term
 title: şantajcı
 slug: santajci
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şantaj yapan

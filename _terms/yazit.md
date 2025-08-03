@@ -2,6 +2,7 @@
 layout: term
 title: yazıt
 slug: yazit
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir kimse veya bir olayın anısını yaşatmak için bir şey üzerine kazılan yazı; kitabe

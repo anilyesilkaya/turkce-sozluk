@@ -2,6 +2,7 @@
 layout: term
 title: kızmak
 slug: kizmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Isıtılan veya ısınan bir nesnenin sıcaklığı çok artmak

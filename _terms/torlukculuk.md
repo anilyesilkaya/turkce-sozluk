@@ -2,6 +2,7 @@
 layout: term
 title: torlukçuluk
 slug: torlukculuk
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► torakçılık

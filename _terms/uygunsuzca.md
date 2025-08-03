@@ -2,6 +2,7 @@
 layout: term
 title: uygunsuzca
 slug: uygunsuzca
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uygunsuz bir biçimde

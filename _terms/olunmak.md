@@ -2,6 +2,7 @@
 layout: term
 title: olunmak
 slug: olunmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Olma işine konu olmak

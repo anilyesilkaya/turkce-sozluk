@@ -2,6 +2,7 @@
 layout: term
 title: ıklım tıklım
 slug: iklim-tiklim
+letter: I
 lisan: Türkçe
 anlamlar:
 - Alabildiğinden de çok, ağzına kadar, çok kalabalık bir biçimde

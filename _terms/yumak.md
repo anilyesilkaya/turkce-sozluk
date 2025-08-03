@@ -2,6 +2,7 @@
 layout: term
 title: yumak
 slug: yumak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yuvarlak biçimde sarılmış iplik, yün vb. şey

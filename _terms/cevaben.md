@@ -2,6 +2,7 @@
 layout: term
 title: cevaben
 slug: cevaben
+letter: C
 lisan: Arapça cevāben
 anlamlar:
 - Cevap olarak, karşılık olarak

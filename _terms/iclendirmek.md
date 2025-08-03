@@ -2,6 +2,7 @@
 layout: term
 title: içlendirmek
 slug: iclendirmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İçlenmesine yol açmak

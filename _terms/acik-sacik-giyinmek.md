@@ -2,6 +2,7 @@
 layout: term
 title: açık saçık giyinmek
 slug: acik-sacik-giyinmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - vücudun bazı yerlerini açıkta bırakarak giyinmek

@@ -2,6 +2,7 @@
 layout: term
 title: zorunlu kılmak
 slug: zorunlu-kilmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - mecbur etmek

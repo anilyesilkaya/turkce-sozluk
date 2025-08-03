@@ -2,6 +2,7 @@
 layout: term
 title: akıbet
 slug: akibet
+letter: A
 lisan: Arapça ʿāḳıbet
 anlamlar:
 - Bir iş veya durumun sonu veya sonucu; serencam

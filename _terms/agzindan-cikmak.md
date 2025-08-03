@@ -2,6 +2,7 @@
 layout: term
 title: ağzından çıkmak
 slug: agzindan-cikmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir sözü istemeden, farkına varmadan söylemek, söylemiş bulunmak

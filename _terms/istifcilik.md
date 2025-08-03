@@ -2,6 +2,7 @@
 layout: term
 title: istifçilik
 slug: istifcilik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İstifçinin yaptığı iş

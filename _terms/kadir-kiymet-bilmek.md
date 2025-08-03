@@ -2,6 +2,7 @@
 layout: term
 title: kadir kıymet bilmek
 slug: kadir-kiymet-bilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - değerini bilmek

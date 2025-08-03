@@ -2,6 +2,7 @@
 layout: term
 title: coşuvermek
 slug: cosuvermek
+letter: C
 lisan: Türkçe
 anlamlar:
 - Çabucak veya ansızın coşmak

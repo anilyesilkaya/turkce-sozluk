@@ -2,6 +2,7 @@
 layout: term
 title: adaylık
 slug: adaylik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aday olma durumu; namzetlik

@@ -2,6 +2,7 @@
 layout: term
 title: maç maç
 slug: mac-mac
+letter: M
 lisan: Türkçe
 anlamlar:
 - Bir şeyi çiğnerken "maç" diye ses çıkararak

@@ -2,6 +2,7 @@
 layout: term
 title: çimbali
 slug: cimbali
+letter: Ç
 lisan: İtalyanca cembalo
 anlamlar:
 - ► klavsen

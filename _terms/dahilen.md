@@ -2,6 +2,7 @@
 layout: term
 title: dâhilen
 slug: dahilen
+letter: D
 lisan: Arapça dāḫilen
 anlamlar:
 - İç taraftan

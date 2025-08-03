@@ -2,6 +2,7 @@
 layout: term
 title: mimlemek
 slug: mimlemek
+letter: M
 lisan: Türkçe
 anlamlar:
 - Birini, hoşa gitmeyen veya iyi olmayan bir davranışı dolayısıyla hakkında iyi düşünülmeyenler arasına koymak

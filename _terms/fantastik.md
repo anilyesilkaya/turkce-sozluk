@@ -2,6 +2,7 @@
 layout: term
 title: fantastik
 slug: fantastik
+letter: F
 lisan: Fransızca fantastique
 anlamlar:
 - ► hayalî

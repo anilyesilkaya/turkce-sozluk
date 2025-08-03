@@ -2,6 +2,7 @@
 layout: term
 title: yıpratılmak
 slug: yipratilmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yıpratma işi yapılmak

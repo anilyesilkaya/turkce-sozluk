@@ -2,6 +2,7 @@
 layout: term
 title: sırsıklam
 slug: sirsiklam
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► sırılsıklam

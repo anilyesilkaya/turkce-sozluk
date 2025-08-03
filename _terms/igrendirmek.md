@@ -2,6 +2,7 @@
 layout: term
 title: iğrendirmek
 slug: igrendirmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İğrenmesine yol açmak

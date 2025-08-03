@@ -2,6 +2,7 @@
 layout: term
 title: fuzuli
 slug: fuzuli
+letter: F
 lisan: Arapça fużūlī
 anlamlar:
 - Yersiz, gereksiz olan

@@ -2,6 +2,7 @@
 layout: term
 title: Avarca
 slug: avarca
+letter: A
 lisan: Türkçe
 anlamlar:
 - Avarlar tarafından kullanılan dil

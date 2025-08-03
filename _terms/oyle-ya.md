@@ -2,6 +2,7 @@
 layout: term
 title: öyle ya
 slug: oyle-ya
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - kuşkusuz, tabii, elbette

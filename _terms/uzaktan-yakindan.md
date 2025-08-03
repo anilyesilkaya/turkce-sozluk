@@ -2,6 +2,7 @@
 layout: term
 title: uzaktan yakından
 slug: uzaktan-yakindan
+letter: U
 lisan: Türkçe
 anlamlar:
 - Herhangi bir bakımdan

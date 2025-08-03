@@ -2,6 +2,7 @@
 layout: term
 title: önüne düşmek
 slug: onune-dusmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - birinin önünden yürümek

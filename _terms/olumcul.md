@@ -2,6 +2,7 @@
 layout: term
 title: ölümcül
 slug: olumcul
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ölümle sona erme ihtimali olan veya ölümle sona eren

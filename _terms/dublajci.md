@@ -2,6 +2,7 @@
 layout: term
 title: dublajcı
 slug: dublajci
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► seslendirici

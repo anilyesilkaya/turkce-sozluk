@@ -2,6 +2,7 @@
 layout: term
 title: mezhep
 slug: mezhep
+letter: M
 lisan: Arapça meẕheb
 anlamlar:
 - Bir dinin görüş, yorum ve anlayış ayrılıkları sebebiyle ortaya çıkan kollarından her biri

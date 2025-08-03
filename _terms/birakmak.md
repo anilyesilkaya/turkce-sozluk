@@ -2,6 +2,7 @@
 layout: term
 title: bırakmak
 slug: birakmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Elde bulunan bir şeyi tutmaktan vazgeçip tutmaz olmak

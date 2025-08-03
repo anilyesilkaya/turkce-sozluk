@@ -2,6 +2,7 @@
 layout: term
 title: umutsuzca
 slug: umutsuzca
+letter: U
 lisan: Türkçe
 anlamlar:
 - Umutsuz bir biçimde; ümitsizce

@@ -2,6 +2,7 @@
 layout: term
 title: salta
 slug: salta
+letter: S
 lisan: Rumca
 anlamlar:
 - Yakasız, iliksiz, kolları bolca bir tür kısa ceket

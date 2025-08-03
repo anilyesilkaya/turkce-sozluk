@@ -2,6 +2,7 @@
 layout: term
 title: bıçaksırtı
 slug: bicaksirti
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çok az fark, çok yakın aralık

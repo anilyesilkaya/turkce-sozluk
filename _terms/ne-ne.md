@@ -2,6 +2,7 @@
 layout: term
 title: ne ... ne ...
 slug: ne-ne
+letter: N
 lisan: Farsça ne ... ne ...
 anlamlar:
 - Cümledeki ögeleri veya cümleleri birbirine bağlayan ve olumsuzluk anlamı veren tekrarlı söz, hem ... hem ... karşıtı

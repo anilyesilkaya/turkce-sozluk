@@ -2,6 +2,7 @@
 layout: term
 title: ukubet
 slug: ukubet
+letter: U
 lisan: Arapça ʿuḳūbet
 anlamlar:
 - ► ceza

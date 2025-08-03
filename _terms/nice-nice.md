@@ -2,6 +2,7 @@
 layout: term
 title: nice nice
 slug: nice-nice
+letter: N
 lisan: Türkçe
 anlamlar:
 - Pek çok

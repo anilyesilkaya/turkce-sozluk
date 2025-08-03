@@ -2,6 +2,7 @@
 layout: term
 title: itiraz etmek
 slug: itiraz-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - bir düşünce veya kararı benimsemeyerek karşı çıkmak, karşı çıkmak

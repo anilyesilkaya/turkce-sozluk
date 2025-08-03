@@ -2,6 +2,7 @@
 layout: term
 title: tüccarlaşmak
 slug: tuccarlasmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tüccar durumuna gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: lakrimal
 slug: lakrimal
+letter: L
 lisan: Fransızca lacrymal
 anlamlar:
 - Gözyaşı kemiği bezesi

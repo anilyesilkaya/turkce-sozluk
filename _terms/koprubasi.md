@@ -2,6 +2,7 @@
 layout: term
 title: Köprübaşı
 slug: koprubasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Manisa iline bağlı ilçelerden biri

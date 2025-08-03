@@ -2,6 +2,7 @@
 layout: term
 title: ağabeylik
 slug: agabeylik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağabey olma durumu

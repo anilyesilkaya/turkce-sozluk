@@ -2,6 +2,7 @@
 layout: term
 title: ekoloji
 slug: ekoloji
+letter: E
 lisan: Fransızca écologie
 anlamlar:
 - Canlıların hem kendi aralarındaki hem de çevreleriyle olan ilişkilerini tek tek veya birlikte inceleyen bilim dalı

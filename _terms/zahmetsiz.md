@@ -2,6 +2,7 @@
 layout: term
 title: zahmetsiz
 slug: zahmetsiz
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► eziyetsiz

@@ -2,6 +2,7 @@
 layout: term
 title: asıklık
 slug: asiklik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yüzün kızgın, öfkeli ve hoşnutsuz bir ifade taşıması

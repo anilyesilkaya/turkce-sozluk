@@ -2,6 +2,7 @@
 layout: term
 title: bir düziye
 slug: bir-duziye
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kesintisiz, sürekli, ardı arkası kesilmeksizin

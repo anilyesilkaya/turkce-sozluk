@@ -2,6 +2,7 @@
 layout: term
 title: düşçülük
 slug: dusculuk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düşçü olma durumu

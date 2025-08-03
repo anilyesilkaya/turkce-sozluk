@@ -2,6 +2,7 @@
 layout: term
 title: kavga çıkarmak
 slug: kavga-cikarmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kavgaya neden olmak

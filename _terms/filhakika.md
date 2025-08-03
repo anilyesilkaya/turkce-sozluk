@@ -2,6 +2,7 @@
 layout: term
 title: filhakika
 slug: filhakika
+letter: F
 lisan: Arapça fi'l-ḥaḳīḳa
 anlamlar:
 - ► gerçekten

@@ -2,6 +2,7 @@
 layout: term
 title: bin çeşit
 slug: bin-cesit
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bin türlü

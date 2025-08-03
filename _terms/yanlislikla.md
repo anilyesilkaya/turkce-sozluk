@@ -2,6 +2,7 @@
 layout: term
 title: yanlışlıkla
 slug: yanlislikla
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yanılarak, bilmeyerek

@@ -2,6 +2,7 @@
 layout: term
 title: fetvahane
 slug: fetvahane
+letter: F
 lisan: Arapça fetvā + Farsça ḫāne
 anlamlar:
 - ► şeyhülislam kapısı

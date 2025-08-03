@@ -2,6 +2,7 @@
 layout: term
 title: bekçi kalmak
 slug: bekci-kalmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - koruyucu, gözcü, denetleyici olarak beklemek

@@ -2,6 +2,7 @@
 layout: term
 title: önerme
 slug: onerme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Önermek işi

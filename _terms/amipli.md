@@ -2,6 +2,7 @@
 layout: term
 title: amipli
 slug: amipli
+letter: A
 lisan: Türkçe
 anlamlar:
 - İçinde amip bulunan

@@ -2,6 +2,7 @@
 layout: term
 title: donsuz
 slug: donsuz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Don giymemiş olan

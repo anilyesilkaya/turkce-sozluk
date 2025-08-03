@@ -2,6 +2,7 @@
 layout: term
 title: elçi
 slug: elci
+letter: E
 lisan: Türkçe
 anlamlar:
 - Bir devleti başka bir devlet katında temsil eden kimse; sefir

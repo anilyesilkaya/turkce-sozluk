@@ -2,6 +2,7 @@
 layout: term
 title: sınırlama
 slug: sinirlama
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sınırlamak işi; hudutlandırma, kota

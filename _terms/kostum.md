@@ -2,6 +2,7 @@
 layout: term
 title: kostüm
 slug: kostum
+letter: K
 lisan: Fransızca costume
 anlamlar:
 - Ceket, pantolon ve bazen de yelekten oluşan erkek takım giysisi

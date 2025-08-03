@@ -2,6 +2,7 @@
 layout: term
 title: öğreti
 slug: ogreti
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Bilimde, felsefede bir görüşü bir sistem içinde belli bir anlayışa, düşünceye dayalı olarak oluşturan ilke ve dogmalar bütünü; doktrin

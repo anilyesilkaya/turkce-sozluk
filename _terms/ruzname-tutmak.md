@@ -2,6 +2,7 @@
 layout: term
 title: ruzname tutmak
 slug: ruzname-tutmak
+letter: R
 lisan: Türkçe
 anlamlar:
 - günlük olayları bir deftere yazıp toplamak

@@ -2,6 +2,7 @@
 layout: term
 title: çemkirmek
 slug: cemkirmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Birine karşı gelmek, sert cevap vermek

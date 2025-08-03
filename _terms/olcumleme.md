@@ -2,6 +2,7 @@
 layout: term
 title: ölçümleme
 slug: olcumleme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Değerlendirme, değer biçme

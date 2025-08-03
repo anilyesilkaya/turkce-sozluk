@@ -2,6 +2,7 @@
 layout: term
 title: vızıltı
 slug: vizilti
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vızıldayan bir şeyin çıkardığı sesin adı

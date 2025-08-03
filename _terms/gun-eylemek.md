@@ -2,6 +2,7 @@
 layout: term
 title: gün eylemek
 slug: gun-eylemek
+letter: G
 lisan: Türkçe
 anlamlar:
 - gün geçirmek

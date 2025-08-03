@@ -2,6 +2,7 @@
 layout: term
 title: abe
 slug: abe
+letter: A
 lisan: Türkçe
 anlamlar:
 - Seslenmek ve dikkati çekmek için özellikle Rumeli'de kullanılan bir söz

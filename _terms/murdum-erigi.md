@@ -2,6 +2,7 @@
 layout: term
 title: mürdüm eriği
 slug: murdum-erigi
+letter: M
 lisan: Türkçe
 anlamlar:
 - Reçeli veya hoşafı yapılan bir cins küçük ve koyu renkli erik; mürdüm

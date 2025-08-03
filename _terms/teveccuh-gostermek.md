@@ -2,6 +2,7 @@
 layout: term
 title: teveccüh göstermek
 slug: teveccuh-gostermek
+letter: T
 lisan: Türkçe
 anlamlar:
 - güler yüz göstermek

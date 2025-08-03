@@ -2,6 +2,7 @@
 layout: term
 title: sosyal hayat
 slug: sosyal-hayat
+letter: S
 lisan: Türkçe
 anlamlar:
 - İnsanın toplum içindeki yaşama biçimi; sosyal yaşam

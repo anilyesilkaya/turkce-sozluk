@@ -2,6 +2,7 @@
 layout: term
 title: hedef
 slug: hedef
+letter: H
 lisan: Arapça hedef
 anlamlar:
 - Nişan alınacak yer; nişangâh

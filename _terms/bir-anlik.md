@@ -2,6 +2,7 @@
 layout: term
 title: bir anlık
 slug: bir-anlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kısa bir süre içinde

@@ -2,6 +2,7 @@
 layout: term
 title: merdivenli
 slug: merdivenli
+letter: M
 lisan: Türkçe
 anlamlar:
 - Merdiveni olan

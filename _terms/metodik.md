@@ -2,6 +2,7 @@
 layout: term
 title: metodik
 slug: metodik
+letter: M
 lisan: Fransızca méthodique
 anlamlar:
 - ► yöntemli

@@ -2,6 +2,7 @@
 layout: term
 title: adileşmek
 slug: adilesmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Adi bir duruma girmek

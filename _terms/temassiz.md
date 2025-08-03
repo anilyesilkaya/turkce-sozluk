@@ -2,6 +2,7 @@
 layout: term
 title: temassız
 slug: temassiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Teması olmayan

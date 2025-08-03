@@ -2,6 +2,7 @@
 layout: term
 title: derleme
 slug: derleme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Derlemek işi; tedvin

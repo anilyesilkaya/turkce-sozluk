@@ -2,6 +2,7 @@
 layout: term
 title: nimet
 slug: nimet
+letter: N
 lisan: Arapça niʿmet
 anlamlar:
 - İyilik, lütuf, ihsan

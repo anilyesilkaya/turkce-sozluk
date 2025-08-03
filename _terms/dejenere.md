@@ -2,6 +2,7 @@
 layout: term
 title: dejenere
 slug: dejenere
+letter: D
 lisan: Fransızca dégénéré
 anlamlar:
 - ► soysuz

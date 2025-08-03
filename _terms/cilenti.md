@@ -2,6 +2,7 @@
 layout: term
 title: çilenti
 slug: cilenti
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► serpinti

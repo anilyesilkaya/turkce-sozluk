@@ -2,6 +2,7 @@
 layout: term
 title: dededen kalma
 slug: dededen-kalma
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dedenin miras olarak bıraktığı (mal, mülk, eşya)

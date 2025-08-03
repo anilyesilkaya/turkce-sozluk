@@ -2,6 +2,7 @@
 layout: term
 title: renk körlüğü
 slug: renk-korlugu
+letter: R
 lisan: Türkçe
 anlamlar:
 - Bütün renkleri veya birkaç rengi, özellikle kırmızı ile yeşili birbirinden ayırt etmeye engel olan görme bozukluğu; daltonizm, akromatopsi (Akromatopsi)

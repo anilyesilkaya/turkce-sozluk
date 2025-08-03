@@ -2,6 +2,7 @@
 layout: term
 title: memnunlukla
 slug: memnunlukla
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► memnuniyetle

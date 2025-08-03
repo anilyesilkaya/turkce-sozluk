@@ -2,6 +2,7 @@
 layout: term
 title: küçük boy
 slug: kucuk-boy
+letter: K
 lisan: Türkçe
 anlamlar:
 - Normal ölçülerden daha küçük

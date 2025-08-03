@@ -2,6 +2,7 @@
 layout: term
 title: sırasıyla
 slug: sirasiyla
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sırası gelince, sırasına dikkat ederek, sıra izleyerek

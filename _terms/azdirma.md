@@ -2,6 +2,7 @@
 layout: term
 title: azdırma
 slug: azdirma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Azdırmak işi

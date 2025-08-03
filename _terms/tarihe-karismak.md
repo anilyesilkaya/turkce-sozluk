@@ -2,6 +2,7 @@
 layout: term
 title: tarihe karışmak
 slug: tarihe-karismak
+letter: T
 lisan: Türkçe
 anlamlar:
 - unutulmak, yalnız adı kalmak

@@ -2,6 +2,7 @@
 layout: term
 title: morluk
 slug: morluk
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mor olma durumu

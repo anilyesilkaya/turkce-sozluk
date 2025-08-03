@@ -2,6 +2,7 @@
 layout: term
 title: eleştirmeli
 slug: elestirmeli
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eleştirme ile ilgili, eleştirme üzerine olan

@@ -2,6 +2,7 @@
 layout: term
 title: can simidi
 slug: can-simidi
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► cankurtaran simidi

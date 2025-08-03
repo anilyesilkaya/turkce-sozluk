@@ -2,6 +2,7 @@
 layout: term
 title: kocaya varmak
 slug: kocaya-varmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - (kız veya kadın) evlenmek

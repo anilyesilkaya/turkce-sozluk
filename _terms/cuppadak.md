@@ -2,6 +2,7 @@
 layout: term
 title: cuppadak
 slug: cuppadak
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► cumbadak

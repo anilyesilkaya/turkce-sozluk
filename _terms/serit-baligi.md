@@ -2,6 +2,7 @@
 layout: term
 title: şerit balığı
 slug: serit-baligi
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► kurdele balığı

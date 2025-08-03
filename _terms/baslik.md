@@ -2,6 +2,7 @@
 layout: term
 title: başlık
 slug: baslik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Genellikle başı korumak için giyilen şapka; dolambaç, serpuş

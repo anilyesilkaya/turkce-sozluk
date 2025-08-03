@@ -2,6 +2,7 @@
 layout: term
 title: donanmak
 slug: donanmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Giyinip kuşanmak, süslenmek

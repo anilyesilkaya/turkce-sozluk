@@ -2,6 +2,7 @@
 layout: term
 title: mahfil
 slug: mahfil
+letter: M
 lisan: Arapça maḥfil
 anlamlar:
 - Camilerde parmaklıkla ayrılmış yüksek yer

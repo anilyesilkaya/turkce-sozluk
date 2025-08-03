@@ -2,6 +2,7 @@
 layout: term
 title: sinyal almak
 slug: sinyal-almak
+letter: S
 lisan: Türkçe
 anlamlar:
 - işaret almak, belirtilerin farkına varmak

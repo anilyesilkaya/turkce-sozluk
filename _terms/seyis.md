@@ -2,6 +2,7 @@
 layout: term
 title: seyis
 slug: seyis
+letter: S
 lisan: Arapça sāyis
 anlamlar:
 - ► at bakıcısı

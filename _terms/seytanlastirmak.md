@@ -2,6 +2,7 @@
 layout: term
 title: şeytanlaştırmak
 slug: seytanlastirmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Bir kişi, kurum, düşünce vb.ni şeytan gibi göstermek

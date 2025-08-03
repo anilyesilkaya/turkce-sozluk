@@ -2,6 +2,7 @@
 layout: term
 title: ayarlayıcı
 slug: ayarlayici
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayar veya düzen veren kimse veya nesne; regülatör

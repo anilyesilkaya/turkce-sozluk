@@ -2,6 +2,7 @@
 layout: term
 title: suçlanılmak
 slug: suclanilmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Suçlanmak işi yapılmak

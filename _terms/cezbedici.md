@@ -2,6 +2,7 @@
 layout: term
 title: cezbedici
 slug: cezbedici
+letter: C
 lisan: Türkçe
 anlamlar:
 - Kendine çeken

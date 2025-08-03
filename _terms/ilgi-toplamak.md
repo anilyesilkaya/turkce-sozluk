@@ -2,6 +2,7 @@
 layout: term
 title: ilgi toplamak
 slug: ilgi-toplamak
+letter: I
 lisan: Türkçe
 anlamlar:
 - ilgisini yoğunlaştırmak, belli etmek

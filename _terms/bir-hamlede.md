@@ -2,6 +2,7 @@
 layout: term
 title: bir hamlede
 slug: bir-hamlede
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► çabucak

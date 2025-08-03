@@ -2,6 +2,7 @@
 layout: term
 title: tebeşir
 slug: tebesir
+letter: T
 lisan: Farsça tebāşīr
 anlamlar:
 - Toz zerreciklerinden oluşan, çizdiği yerde iz bırakan, beyaz veya açık renkte kireçli kaya

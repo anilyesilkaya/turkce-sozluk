@@ -2,6 +2,7 @@
 layout: term
 title: azap duymak
 slug: azap-duymak
+letter: A
 lisan: Türkçe
 anlamlar:
 - acı çekmek, üzülmek

@@ -2,6 +2,7 @@
 layout: term
 title: boylu
 slug: boylu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boyu olan

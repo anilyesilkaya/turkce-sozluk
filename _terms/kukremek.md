@@ -2,6 +2,7 @@
 layout: term
 title: kükremek
 slug: kukremek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Aslan, bağırmak

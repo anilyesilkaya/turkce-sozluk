@@ -2,6 +2,7 @@
 layout: term
 title: kalantorluk
 slug: kalantorluk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalantor olma durumu

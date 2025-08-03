@@ -2,6 +2,7 @@
 layout: term
 title: duman attırmak
 slug: duman-attirmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - kötü duruma düşürmek, geride bırakmak, birini yıldırmak

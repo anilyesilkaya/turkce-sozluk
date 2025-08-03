@@ -2,6 +2,7 @@
 layout: term
 title: bir örnek
 slug: bir-ornek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Aynı biçimde olan

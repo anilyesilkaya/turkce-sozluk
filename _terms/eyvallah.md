@@ -2,6 +2,7 @@
 layout: term
 title: eyvallah
 slug: eyvallah
+letter: E
 lisan: Türkçe
 anlamlar:
 - '"Allah''a ısmarladık" anlamlarında kullanılan bir seslenme sözü'

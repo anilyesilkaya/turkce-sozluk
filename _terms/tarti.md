@@ -2,6 +2,7 @@
 layout: term
 title: tartı
 slug: tarti
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► ağırlık

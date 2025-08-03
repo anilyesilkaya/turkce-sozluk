@@ -2,6 +2,7 @@
 layout: term
 title: güneş açmak
 slug: gunes-acmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - güneş bulutlardan sıyrılıp görünmek

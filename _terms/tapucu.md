@@ -2,6 +2,7 @@
 layout: term
 title: tapucu
 slug: tapucu
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► tapu memuru

@@ -2,6 +2,7 @@
 layout: term
 title: yumuşatmak
 slug: yumusatmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Sertliğini gidermek, yumuşak duruma getirmek

@@ -2,6 +2,7 @@
 layout: term
 title: emdiği (helal) süt haram olmak
 slug: emdigi-helal-sut-haram-olmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - herhangi bir isteğinin yapılmamasından sonra ilenmek

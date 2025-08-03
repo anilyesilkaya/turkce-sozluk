@@ -2,6 +2,7 @@
 layout: term
 title: Cenabıhak
 slug: cenabihak
+letter: C
 lisan: Arapça cenāb + ḥaḳḳ
 anlamlar:
 - ► Allah

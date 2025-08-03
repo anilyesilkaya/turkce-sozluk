@@ -2,6 +2,7 @@
 layout: term
 title: erguvani
 slug: erguvani
+letter: E
 lisan: Farsça erġavān + Arapça -ī
 anlamlar:
 - ► erguvan rengi

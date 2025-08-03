@@ -2,6 +2,7 @@
 layout: term
 title: beyhude
 slug: beyhude
+letter: B
 lisan: Farsça bīhūde
 anlamlar:
 - ► yararsız

@@ -2,6 +2,7 @@
 layout: term
 title: akordeon
 slug: akordeon
+letter: A
 lisan: Fransızca accordéon
 anlamlar:
 - ► akordiyon

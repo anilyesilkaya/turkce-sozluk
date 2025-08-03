@@ -2,6 +2,7 @@
 layout: term
 title: istiskal etmek
 slug: istiskal-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - hoşnutsuzluğunu belli ederek soğuk davranmak

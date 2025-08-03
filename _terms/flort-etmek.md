@@ -2,6 +2,7 @@
 layout: term
 title: flört etmek
 slug: flort-etmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - karşı cinsten biriyle duygusal ilişki kurmak, çıkmak

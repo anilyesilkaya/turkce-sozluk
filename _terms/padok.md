@@ -2,6 +2,7 @@
 layout: term
 title: padok
 slug: padok
+letter: P
 lisan: Fransızca paddock
 anlamlar:
 - Hipodromda yarış atlarının yedekte gezdirildikleri yer

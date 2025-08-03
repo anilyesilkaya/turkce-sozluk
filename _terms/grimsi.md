@@ -2,6 +2,7 @@
 layout: term
 title: grimsi
 slug: grimsi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Rengi griyi andıran, griye benzeyen; grimtırak

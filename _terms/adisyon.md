@@ -2,6 +2,7 @@
 layout: term
 title: adisyon
 slug: adisyon
+letter: A
 lisan: Fransızca addition
 anlamlar:
 - ► hesap

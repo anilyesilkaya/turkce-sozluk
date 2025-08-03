@@ -2,6 +2,7 @@
 layout: term
 title: hizmetçi
 slug: hizmetci
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hizmet gören kimse

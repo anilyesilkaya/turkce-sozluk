@@ -2,6 +2,7 @@
 layout: term
 title: serdirmek
 slug: serdirmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Serme işini yaptırmak

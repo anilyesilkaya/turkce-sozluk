@@ -2,6 +2,7 @@
 layout: term
 title: taharri etmek
 slug: taharri-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - aramak

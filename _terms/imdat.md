@@ -2,6 +2,7 @@
 layout: term
 title: imdat
 slug: imdat
+letter: I
 lisan: Arapça imdād
 anlamlar:
 - Tehlikede olana yapılan yardım

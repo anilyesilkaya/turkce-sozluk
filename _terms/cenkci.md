@@ -2,6 +2,7 @@
 layout: term
 title: cenkçi
 slug: cenkci
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► savaşçı

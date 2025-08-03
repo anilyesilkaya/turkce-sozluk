@@ -2,6 +2,7 @@
 layout: term
 title: Gönen
 slug: gonen
+letter: G
 lisan: Türkçe
 anlamlar:
 - Balıkesir iline bağlı ilçelerden biri

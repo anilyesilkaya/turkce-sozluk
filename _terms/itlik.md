@@ -2,6 +2,7 @@
 layout: term
 title: itlik
 slug: itlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İtçe davranış

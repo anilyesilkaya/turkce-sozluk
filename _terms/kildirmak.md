@@ -2,6 +2,7 @@
 layout: term
 title: kıldırmak
 slug: kildirmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kılma işini yaptırmak

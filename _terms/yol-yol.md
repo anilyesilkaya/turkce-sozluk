@@ -2,6 +2,7 @@
 layout: term
 title: yol yol
 slug: yol-yol
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Çizgiler biçiminde; iplik iplik

@@ -2,6 +2,7 @@
 layout: term
 title: servis asansörü
 slug: servis-asansoru
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir kurum ve kuruluşta hizmet içi kullanılan asansör

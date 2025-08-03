@@ -2,6 +2,7 @@
 layout: term
 title: zıt
 slug: zit
+letter: Z
 lisan: Arapça żidd
 anlamlar:
 - ► karşıt

@@ -2,6 +2,7 @@
 layout: term
 title: amfiteatr
 slug: amfiteatr
+letter: A
 lisan: Fransızca amphithéâtre
 anlamlar:
 - Dinleyicilerin oturduğu, sıraları arkaya doğru basamaklı olarak yükselen salon; amfi

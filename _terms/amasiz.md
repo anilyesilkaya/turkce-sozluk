@@ -2,6 +2,7 @@
 layout: term
 title: amasız
 slug: amasiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Herhangi bir bahane, şart ileri sürmeyen

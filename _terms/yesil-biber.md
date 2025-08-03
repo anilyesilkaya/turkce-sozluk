@@ -2,6 +2,7 @@
 layout: term
 title: yeşil biber
 slug: yesil-biber
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yeşil renkli, taze, sivri veya dolma biber

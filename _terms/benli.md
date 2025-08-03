@@ -2,6 +2,7 @@
 layout: term
 title: benli
 slug: benli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Ben (I) bulunan

@@ -2,6 +2,7 @@
 layout: term
 title: yârenliğin gözüne vermek
 slug: yarenligin-gozune-vermek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - çok samimi bir şekilde uzun sohbetler yapmak

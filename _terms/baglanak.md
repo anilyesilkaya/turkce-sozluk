@@ -2,6 +2,7 @@
 layout: term
 title: bağlanak
 slug: baglanak
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bağlantı

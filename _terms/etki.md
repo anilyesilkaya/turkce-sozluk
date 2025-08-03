@@ -2,6 +2,7 @@
 layout: term
 title: etki
 slug: etki
+letter: E
 lisan: Türkçe
 anlamlar:
 - Bir kimse veya nesnenin başka bir kişi veya şey üzerindeki etkileme gücü; yardım, tesir, rol

@@ -2,6 +2,7 @@
 layout: term
 title: senkretizm
 slug: senkretizm
+letter: S
 lisan: Fransızca syncrétisme
 anlamlar:
 - Birbirinden ayrı düşünce, inanış veya öğretileri kaynaştırmaya çalışan felsefe sistemi

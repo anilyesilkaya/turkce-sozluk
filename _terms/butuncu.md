@@ -2,6 +2,7 @@
 layout: term
 title: bütüncü
 slug: butuncu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bütün olarak düşünmeye önem veren (kimse veya görüş)

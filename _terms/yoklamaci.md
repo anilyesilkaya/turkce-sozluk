@@ -2,6 +2,7 @@
 layout: term
 title: yoklamacı
 slug: yoklamaci
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Okul, iş yeri, kurum vb. yerlerde yoklamaları alan kimse

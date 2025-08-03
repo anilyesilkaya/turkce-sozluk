@@ -2,6 +2,7 @@
 layout: term
 title: kopkoyu
 slug: kopkoyu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çok koyu

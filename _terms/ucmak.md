@@ -2,6 +2,7 @@
 layout: term
 title: uçmak
 slug: ucmak
+letter: U
 lisan: Soğdca uştmaḫ
 anlamlar:
 - ► cennet

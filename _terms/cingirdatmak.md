@@ -2,6 +2,7 @@
 layout: term
 title: çıngırdatmak
 slug: cingirdatmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıngırak sesi çıkarmasını sağlamak

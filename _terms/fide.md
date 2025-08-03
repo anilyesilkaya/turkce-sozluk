@@ -2,6 +2,7 @@
 layout: term
 title: fide
 slug: fide
+letter: F
 lisan: Rumca
 anlamlar:
 - Tohumdan yetiştirilip başka yerlere dikilmek için hazırlanan sebze veya körpe çiçek

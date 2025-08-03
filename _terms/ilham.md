@@ -2,6 +2,7 @@
 layout: term
 title: ilham
 slug: ilham
+letter: I
 lisan: Arapça ilhām
 anlamlar:
 - ► esin

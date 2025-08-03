@@ -2,6 +2,7 @@
 layout: term
 title: taktırmak
 slug: taktirmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Takma işini yaptırmak

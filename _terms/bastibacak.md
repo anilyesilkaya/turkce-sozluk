@@ -2,6 +2,7 @@
 layout: term
 title: bastıbacak
 slug: bastibacak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bacakları kısa veya çarpık (kimse)

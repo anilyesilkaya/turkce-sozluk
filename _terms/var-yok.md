@@ -2,6 +2,7 @@
 layout: term
 title: var yok
 slug: var-yok
+letter: V
 lisan: Türkçe
 anlamlar:
 - belli bir ölçüye ya ulaşır ya ulaşmaz, herhangi bir ölçüye, miktara yakın, olduğu bile kuşkulu

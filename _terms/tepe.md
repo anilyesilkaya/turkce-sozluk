@@ -2,6 +2,7 @@
 layout: term
 title: tepe
 slug: tepe
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir şeyin en üstteki bölümü; kaban (I)

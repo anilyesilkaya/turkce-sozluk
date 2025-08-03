@@ -2,6 +2,7 @@
 layout: term
 title: şırıngacı
 slug: siringaci
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şırınga yapan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: dantelli
 slug: dantelli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Danteli olan; tenteneli

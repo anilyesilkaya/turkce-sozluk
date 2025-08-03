@@ -2,6 +2,7 @@
 layout: term
 title: beraat etmek
 slug: beraat-etmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - aklanmak

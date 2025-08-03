@@ -2,6 +2,7 @@
 layout: term
 title: muradı gözünde kalmak
 slug: muradi-gozunde-kalmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - emeline ulaşamamak

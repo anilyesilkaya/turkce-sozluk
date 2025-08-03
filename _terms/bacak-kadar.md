@@ -2,6 +2,7 @@
 layout: term
 title: bacak kadar
 slug: bacak-kadar
+letter: B
 lisan: Türkçe
 anlamlar:
 - ufacık

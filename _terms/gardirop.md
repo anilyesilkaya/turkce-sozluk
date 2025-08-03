@@ -2,6 +2,7 @@
 layout: term
 title: gardırop
 slug: gardirop
+letter: G
 lisan: Fransızca garde-robe
 anlamlar:
 - ► giysi dolabı

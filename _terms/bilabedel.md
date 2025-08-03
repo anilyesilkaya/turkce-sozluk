@@ -2,6 +2,7 @@
 layout: term
 title: bilabedel
 slug: bilabedel
+letter: B
 lisan: Arapça bilābedel
 anlamlar:
 - ► bedava

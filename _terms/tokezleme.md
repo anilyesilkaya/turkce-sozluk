@@ -2,6 +2,7 @@
 layout: term
 title: tökezleme
 slug: tokezleme
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tökezlemek işi

@@ -2,6 +2,7 @@
 layout: term
 title: şimdi şimdi
 slug: simdi-simdi
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Ancak çok yakın bir zamandan beri

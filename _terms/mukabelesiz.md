@@ -2,6 +2,7 @@
 layout: term
 title: mukabelesiz
 slug: mukabelesiz
+letter: M
 lisan: Türkçe
 anlamlar:
 - Karşılığı olmayan

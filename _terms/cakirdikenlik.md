@@ -2,6 +2,7 @@
 layout: term
 title: çakırdikenlik
 slug: cakirdikenlik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çakırdikeni bol olan yer

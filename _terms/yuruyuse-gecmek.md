@@ -2,6 +2,7 @@
 layout: term
 title: yürüyüşe geçmek
 slug: yuruyuse-gecmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - bir yerden başka bir yere gitmek için yürümeye başlamak

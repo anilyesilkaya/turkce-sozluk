@@ -2,6 +2,7 @@
 layout: term
 title: ılım
 slug: ilim
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► ölçülülük

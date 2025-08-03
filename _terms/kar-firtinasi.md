@@ -2,6 +2,7 @@
 layout: term
 title: kar fırtınası
 slug: kar-firtinasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Şiddetli rüzgârın yağan karı sağa sola savurmasıyla oluşan fırtına; tipi

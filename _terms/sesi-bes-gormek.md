@@ -2,6 +2,7 @@
 layout: term
 title: şeşi beş görmek
 slug: sesi-bes-gormek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - yanlış görmek

@@ -2,6 +2,7 @@
 layout: term
 title: sarplaşma
 slug: sarplasma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sarplaşmak işi

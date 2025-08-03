@@ -2,6 +2,7 @@
 layout: term
 title: dolmacı
 slug: dolmaci
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dolma yapan veya satan kimse

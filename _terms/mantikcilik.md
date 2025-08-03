@@ -2,6 +2,7 @@
 layout: term
 title: mantıkçılık
 slug: mantikcilik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Felsefede mantığa özel ve üstün bir yer ayıran, mantığı felsefenin temeli sayan görüş

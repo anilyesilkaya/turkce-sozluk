@@ -2,6 +2,7 @@
 layout: term
 title: kıvranmak
 slug: kivranmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Ağrı, sancı gibi bedensel veya korku, heyecan gibi ruhsal nedenlerle vücut eğilip bükülmek

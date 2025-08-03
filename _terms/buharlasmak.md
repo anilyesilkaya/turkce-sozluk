@@ -2,6 +2,7 @@
 layout: term
 title: buharlaşmak
 slug: buharlasmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Buhar durumuna dönüşmek; tebahhur etmek

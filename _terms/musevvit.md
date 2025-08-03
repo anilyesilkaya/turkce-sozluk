@@ -2,6 +2,7 @@
 layout: term
 title: müsevvit
 slug: musevvit
+letter: M
 lisan: Arapça musevvid
 anlamlar:
 - Müsvedde yapan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: ahali
 slug: ahali
+letter: A
 lisan: Arapça ahālī
 anlamlar:
 - Bir memleket, şehir veya semtte oturanların, yaşayanların hepsi; el (III), halk (I)

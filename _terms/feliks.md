@@ -2,6 +2,7 @@
 layout: term
 title: feliks
 slug: feliks
+letter: F
 lisan: Türkçe
 anlamlar:
 - Palmiye yaprağına benzeyen, park ve bahçelerde süs için kullanılan iri gövdeli bir bitki (Phoenix canariersis)

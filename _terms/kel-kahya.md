@@ -2,6 +2,7 @@
 layout: term
 title: kel kâhya
 slug: kel-kahya
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kendisini ağa gibi göstermek isteyen zavallı kimse

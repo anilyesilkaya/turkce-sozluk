@@ -2,6 +2,7 @@
 layout: term
 title: türetmek
 slug: turetmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Oluşturmak, ortaya çıkarmak, yaratmak, meydana çıkarmak

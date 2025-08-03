@@ -2,6 +2,7 @@
 layout: term
 title: pirelenmek
 slug: pirelenmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Üzeri pireyle dolmak

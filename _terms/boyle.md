@@ -2,6 +2,7 @@
 layout: term
 title: böyle
 slug: boyle
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bunun gibi, buna benzer; bu biçimde, bu türlü, bu kabîl, bu kabîlden, bu şekilde

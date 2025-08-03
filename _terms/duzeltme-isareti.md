@@ -2,6 +2,7 @@
 layout: term
 title: düzeltme işareti
 slug: duzeltme-isareti
+letter: D
 lisan: Türkçe
 anlamlar:
 - 'Yazılışları aynı, okunuşları ve anlamları farklı olan Doğu kökenli sözleri birbirinden ayırt etmek için uzun ünlülerinde; Doğu kökenli bazı sözlerdeki g, k ünsüzleri ile özel adlardaki l ünsüzünü ince okutmak için bu harflerden sonra gelen a ve u ünlülerinde; Doğu kökenli bazı sözlerdeki aitlik anlamı içeren i ünlüsünde kullanılan işaret (^); inceltme işareti, uzatma işareti, şapka işareti, şapka: âdet, âlem, âşık; kâğıt, tezgâh; Selânik, Halûk; tarihî, dinî vb'

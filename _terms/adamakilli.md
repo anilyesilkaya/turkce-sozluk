@@ -2,6 +2,7 @@
 layout: term
 title: adamakıllı
 slug: adamakilli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Gereğinden çok; bir güzel, bir temiz

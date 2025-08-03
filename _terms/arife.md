@@ -2,6 +2,7 @@
 layout: term
 title: arife
 slug: arife
+letter: A
 lisan: Arapça ʿarefe
 anlamlar:
 - Belirli bir günün, olayın bir önceki günü veya ona yakın günler; ön gün

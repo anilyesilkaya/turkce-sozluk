@@ -2,6 +2,7 @@
 layout: term
 title: açıklık politikası
 slug: aciklik-politikasi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Siyasette açık, şeffaf olma; glasnost

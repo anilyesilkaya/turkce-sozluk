@@ -2,6 +2,7 @@
 layout: term
 title: cankurtaranlık
 slug: cankurtaranlik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cankurtaran olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: görklülük
 slug: gorkluluk
+letter: G
 lisan: Türkçe
 anlamlar:
 - Görklü olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: çivilenebilmek
 slug: civilenebilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çivilenme ihtimali veya imkânı bulunmak

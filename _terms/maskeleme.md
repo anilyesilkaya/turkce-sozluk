@@ -2,6 +2,7 @@
 layout: term
 title: maskeleme
 slug: maskeleme
+letter: M
 lisan: Türkçe
 anlamlar:
 - Maskelemek işi

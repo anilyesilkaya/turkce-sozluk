@@ -2,6 +2,7 @@
 layout: term
 title: bihuş
 slug: bihus
+letter: B
 lisan: Farsça bīhūş
 anlamlar:
 - Aklı başında olmayan, aklı başından gitmiş olan

@@ -2,6 +2,7 @@
 layout: term
 title: sabrı taşmak (veya tükenmek)
 slug: sabri-tasmak-veya-tukenmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - artık katlanamaz, dayanamaz duruma gelmek, sabrı kalmamak

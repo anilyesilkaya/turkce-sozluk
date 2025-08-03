@@ -2,6 +2,7 @@
 layout: term
 title: imleç
 slug: imlec
+letter: I
 lisan: Türkçe
 anlamlar:
 - Fiziksel bir olayı kendiliğinden tespit edip çizen araç; kaydedici

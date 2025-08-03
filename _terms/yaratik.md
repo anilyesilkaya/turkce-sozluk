@@ -2,6 +2,7 @@
 layout: term
 title: yaratık
 slug: yaratik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaratılmış canlı varlık; mahluk

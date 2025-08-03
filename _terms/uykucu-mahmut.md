@@ -2,6 +2,7 @@
 layout: term
 title: uykucu Mahmut
 slug: uykucu-mahmut
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uykuyu çok seven, çok uyuyan kimseler için kullanılan bir söz

@@ -2,6 +2,7 @@
 layout: term
 title: can vermek
 slug: can-vermek
+letter: C
 lisan: Türkçe
 anlamlar:
 - ölmek

@@ -2,6 +2,7 @@
 layout: term
 title: İslam gizemciliği
 slug: islam-gizemciligi
+letter: İ
 lisan: Türkçe
 anlamlar:
 - ► tasavvuf

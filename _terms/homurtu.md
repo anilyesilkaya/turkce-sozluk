@@ -2,6 +2,7 @@
 layout: term
 title: homurtu
 slug: homurtu
+letter: H
 lisan: Türkçe
 anlamlar:
 - Homurdanma sırasında çıkan sesin adı

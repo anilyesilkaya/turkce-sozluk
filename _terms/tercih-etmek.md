@@ -2,6 +2,7 @@
 layout: term
 title: tercih etmek
 slug: tercih-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - yeğlemek

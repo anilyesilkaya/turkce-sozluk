@@ -132,7 +132,7 @@ body {
 
 /* ---------- Footer ---------- */
 footer {
-  margin-top: 3rem;
+  margin-top: 2rem;
   text-align: center;
   font-size: .875rem;
   color: #666;
@@ -159,7 +159,7 @@ body.error-404 {
 }
 
 .error-404 .error-box h1 {
-  font-size: 8rem;
+  font-size: 6rem;
   margin: 0;
   line-height: 1;
   color: #e63946;
@@ -197,4 +197,18 @@ body.error-404 {
   #random-word {
     width: 100%;
   }
+}
+
+.letter-nav{
+  text-align:center;
+  margin:1rem 0 .5rem;
+  font-size:1.05rem;
+}
+.letter-nav a{
+  text-decoration:none;
+  color:var(--accent-dark);
+}
+.letter-nav a.current{
+  font-weight:700;
+  text-decoration:underline;
 }

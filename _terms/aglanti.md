@@ -2,6 +2,7 @@
 layout: term
 title: ağlantı
 slug: aglanti
+letter: A
 lisan: Türkçe
 anlamlar:
 - Hafif hafif ağlama

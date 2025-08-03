@@ -2,6 +2,7 @@
 layout: term
 title: et
 slug: et
+letter: E
 lisan: Türkçe
 anlamlar:
 - İnsanlarda, hayvanlarda deri ile kemik arasındaki kas ve yağdan oluşan tabaka

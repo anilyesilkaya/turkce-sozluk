@@ -2,6 +2,7 @@
 layout: term
 title: müzakereci
 slug: muzakereci
+letter: M
 lisan: Türkçe
 anlamlar:
 - Müzakere yapan kimse

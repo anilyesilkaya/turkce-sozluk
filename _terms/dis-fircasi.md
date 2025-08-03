@@ -2,6 +2,7 @@
 layout: term
 title: diş fırçası
 slug: dis-fircasi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dişleri temizlemede kullanılan bir fırça türü

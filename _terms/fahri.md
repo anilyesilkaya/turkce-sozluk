@@ -2,6 +2,7 @@
 layout: term
 title: fahri
 slug: fahri
+letter: F
 lisan: Arapça faḫrī
 anlamlar:
 - ► onursal

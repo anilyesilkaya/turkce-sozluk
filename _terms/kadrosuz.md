@@ -2,6 +2,7 @@
 layout: term
 title: kadrosuz
 slug: kadrosuz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kadrosu olmayan

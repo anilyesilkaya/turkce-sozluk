@@ -2,6 +2,7 @@
 layout: term
 title: ihtilaç
 slug: ihtilac
+letter: I
 lisan: Arapça iḫtilāc
 anlamlar:
 - ► çırpınma

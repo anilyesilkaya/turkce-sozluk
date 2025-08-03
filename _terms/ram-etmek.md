@@ -2,6 +2,7 @@
 layout: term
 title: ram etmek
 slug: ram-etmek
+letter: R
 lisan: Türkçe
 anlamlar:
 - boyun eğdirmek, itaat ettirmek

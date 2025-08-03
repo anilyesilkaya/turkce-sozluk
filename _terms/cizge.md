@@ -2,6 +2,7 @@
 layout: term
 title: çizge
 slug: cizge
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► grafik

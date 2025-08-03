@@ -2,6 +2,7 @@
 layout: term
 title: arsızca
 slug: arsizca
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arsız gibi, arsıza yakışan bir biçimde; arsızcasına

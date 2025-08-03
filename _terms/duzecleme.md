@@ -2,6 +2,7 @@
 layout: term
 title: düzeçleme
 slug: duzecleme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Aynı düzeye getirme, yüzey ayrımlarını ölçme; tesviye

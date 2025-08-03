@@ -2,6 +2,7 @@
 layout: term
 title: hep birden
 slug: hep-birden
+letter: H
 lisan: Türkçe
 anlamlar:
 - Toplu olarak; cümleten

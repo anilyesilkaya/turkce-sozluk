@@ -2,6 +2,7 @@
 layout: term
 title: turşusunu kurmak
 slug: tursusunu-kurmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - '"bir şeyin elden çıkarılması gerektiği hâlde buna bir türlü kıyamamak" anlamında kınama yollu söylenen bir söz'

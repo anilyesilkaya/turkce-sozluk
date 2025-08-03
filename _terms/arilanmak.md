@@ -2,6 +2,7 @@
 layout: term
 title: arılanmak
 slug: arilanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► arılaşmak

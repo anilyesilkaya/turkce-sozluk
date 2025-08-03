@@ -2,6 +2,7 @@
 layout: term
 title: utanmazca
 slug: utanmazca
+letter: U
 lisan: Türkçe
 anlamlar:
 - Utanmaz bir biçimde yapılan

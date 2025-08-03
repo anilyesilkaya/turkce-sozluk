@@ -2,6 +2,7 @@
 layout: term
 title: mefhum
 slug: mefhum
+letter: M
 lisan: Arapça mefhūm
 anlamlar:
 - ► kavram

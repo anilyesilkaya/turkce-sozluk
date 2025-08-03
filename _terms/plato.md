@@ -2,6 +2,7 @@
 layout: term
 title: plato
 slug: plato
+letter: P
 lisan: Fransızca plateau
 anlamlar:
 - ► yayla

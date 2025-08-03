@@ -2,6 +2,7 @@
 layout: term
 title: asıl nüsha
 slug: asil-nusha
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir yazma eserin veya belgenin özgün biçimi; asli nüsha

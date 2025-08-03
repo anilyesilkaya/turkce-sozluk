@@ -2,6 +2,7 @@
 layout: term
 title: nalıncılık
 slug: nalincilik
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► takunyacılık

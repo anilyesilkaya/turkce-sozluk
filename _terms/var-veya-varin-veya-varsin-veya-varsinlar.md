@@ -2,6 +2,7 @@
 layout: term
 title: var (veya varın veya varsın veya varsınlar)
 slug: var-veya-varin-veya-varsin-veya-varsinlar
+letter: V
 lisan: Türkçe
 anlamlar:
 - istersen (isterse...) gibi konuşulan iş üzerinde bir kimseyi serbest bırakmayı anlatan bir söz

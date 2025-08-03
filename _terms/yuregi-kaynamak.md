@@ -2,6 +2,7 @@
 layout: term
 title: yüreği kaynamak
 slug: yuregi-kaynamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - içinde şüphe ve endişe uyanmak

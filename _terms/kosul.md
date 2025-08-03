@@ -2,6 +2,7 @@
 layout: term
 title: koşul
 slug: kosul
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► şart

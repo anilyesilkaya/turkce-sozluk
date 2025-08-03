@@ -2,6 +2,7 @@
 layout: term
 title: iş birliği
 slug: is-birligi
+letter: I
 lisan: Türkçe
 anlamlar:
 - Amaç ve çıkarları bir olanların oluşturdukları çalışma ortaklığı; teşrikimesai

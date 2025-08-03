@@ -2,6 +2,7 @@
 layout: term
 title: güzellikle
 slug: guzellikle
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güzel bir biçimde

@@ -2,6 +2,7 @@
 layout: term
 title: yaldızlama
 slug: yaldizlama
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaldızlamak işi

@@ -2,6 +2,7 @@
 layout: term
 title: şenelmek
 slug: senelmek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Boş bir yer, insanların yerleşmesiyle yurt durumuna gelmek, meskûn olmak

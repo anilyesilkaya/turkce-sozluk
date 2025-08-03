@@ -2,6 +2,7 @@
 layout: term
 title: yüksek perdeden konuşmak
 slug: yuksek-perdeden-konusmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yüksek sesle konuşmak

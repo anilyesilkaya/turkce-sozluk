@@ -2,6 +2,7 @@
 layout: term
 title: ahfat
 slug: ahfat
+letter: A
 lisan: Arapça aḥfād
 anlamlar:
 - Torunlar

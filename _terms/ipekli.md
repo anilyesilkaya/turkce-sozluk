@@ -2,6 +2,7 @@
 layout: term
 title: ipekli
 slug: ipekli
+letter: I
 lisan: Türkçe
 anlamlar:
 - İpekten yapılmış veya içinde ipek bulunan (kumaş)

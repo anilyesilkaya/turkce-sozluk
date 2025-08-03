@@ -2,6 +2,7 @@
 layout: term
 title: prestij
 slug: prestij
+letter: P
 lisan: Fransızca prestige
 anlamlar:
 - ► saygınlık

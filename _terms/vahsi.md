@@ -2,6 +2,7 @@
 layout: term
 title: vahşi
 slug: vahsi
+letter: V
 lisan: Arapça vaḥşī
 anlamlar:
 - ► yabani

@@ -2,6 +2,7 @@
 layout: term
 title: namütenahilik
 slug: namutenahilik
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► sonsuzluk

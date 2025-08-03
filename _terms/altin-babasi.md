@@ -2,6 +2,7 @@
 layout: term
 title: altın babası
 slug: altin-babasi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Parası çok olan varlıklı kimse

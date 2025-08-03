@@ -2,6 +2,7 @@
 layout: term
 title: üstünlük hissi
 slug: ustunluk-hissi
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - ► üstünlük duygusu

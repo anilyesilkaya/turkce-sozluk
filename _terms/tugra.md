@@ -2,6 +2,7 @@
 layout: term
 title: tuğra
 slug: tugra
+letter: T
 lisan: Türkçe
 anlamlar:
 - Osmanlı padişahlarının imza yerine kullandıkları, özel bir biçimi olan sembolleşmiş işaret; tura

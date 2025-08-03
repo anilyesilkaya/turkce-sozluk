@@ -2,6 +2,7 @@
 layout: term
 title: devre dışı
 slug: devre-disi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Elektrik donanımındaki enerji akımının bir noktada kesilme durumu

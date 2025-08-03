@@ -2,6 +2,7 @@
 layout: term
 title: ihtira etmek
 slug: ihtira-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - icat etmek

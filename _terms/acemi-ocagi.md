@@ -2,6 +2,7 @@
 layout: term
 title: acemi ocağı
 slug: acemi-ocagi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Osmanlı ordusuna kapı kulu eri yetiştirmek için kurulan okul

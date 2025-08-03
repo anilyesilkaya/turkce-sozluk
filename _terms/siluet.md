@@ -2,6 +2,7 @@
 layout: term
 title: silüet
 slug: siluet
+letter: S
 lisan: Fransızca silhouette
 anlamlar:
 - Bir şeyin yalnız kenar çizgileriyle beliren görüntüsü

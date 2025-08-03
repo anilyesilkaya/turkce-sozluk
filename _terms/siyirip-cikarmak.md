@@ -2,6 +2,7 @@
 layout: term
 title: sıyırıp çıkarmak
 slug: siyirip-cikarmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - çekip kurtarmak

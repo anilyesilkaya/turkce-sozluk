@@ -2,6 +2,7 @@
 layout: term
 title: söz varlığı
 slug: soz-varligi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir dildeki sözlerin bütünü; söz hazinesi, söz dağarcığı, sözcük hazinesi, kelime hazinesi, kelime kadrosu, vokabüler

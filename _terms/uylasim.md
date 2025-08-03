@@ -2,6 +2,7 @@
 layout: term
 title: uylaşım
 slug: uylasim
+letter: U
 lisan: Türkçe
 anlamlar:
 - Saymaca bir şey benimsemek için yapılan anlaşma

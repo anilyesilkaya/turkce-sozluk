@@ -2,6 +2,7 @@
 layout: term
 title: araştırma görevlisi
 slug: arastirma-gorevlisi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yükseköğretim kurumlarında yapılan araştırma, inceleme ve deneylerde yardımcı olan ve yetkili organlarca verilen görevleri yapan öğretim yardımcısı; asistan

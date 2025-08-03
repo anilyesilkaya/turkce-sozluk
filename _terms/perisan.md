@@ -2,6 +2,7 @@
 layout: term
 title: perişan
 slug: perisan
+letter: P
 lisan: Farsça perīşān
 anlamlar:
 - Dağınık, düzensiz, karmakarışık olan; berduş

@@ -2,6 +2,7 @@
 layout: term
 title: aklı kalmak
 slug: akli-kalmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - beğendiği bir şeyi düşünmekten kendini alamamak

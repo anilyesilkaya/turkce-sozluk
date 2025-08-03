@@ -2,6 +2,7 @@
 layout: term
 title: 'acı dülek '
 slug: aci-dulek
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► Ebucehil karpuzu

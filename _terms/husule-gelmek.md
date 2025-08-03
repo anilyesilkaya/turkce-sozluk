@@ -2,6 +2,7 @@
 layout: term
 title: husule gelmek
 slug: husule-gelmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - meydana gelmek

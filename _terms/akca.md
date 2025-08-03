@@ -2,6 +2,7 @@
 layout: term
 title: akça
 slug: akca
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► akçe

@@ -2,6 +2,7 @@
 layout: term
 title: tahrif etmek
 slug: tahrif-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - bozmak, değiştirmek

@@ -2,6 +2,7 @@
 layout: term
 title: puanlı
 slug: puanli
+letter: P
 lisan: Türkçe
 anlamlar:
 - Üzerinde puan bulunan

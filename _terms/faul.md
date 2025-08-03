@@ -2,6 +2,7 @@
 layout: term
 title: faul
 slug: faul
+letter: F
 lisan: İngilizce faul
 anlamlar:
 - Karşılaşmalarda rakip oyuncuya yapılan kural dışı hareket

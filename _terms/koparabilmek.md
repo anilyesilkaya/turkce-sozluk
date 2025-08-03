@@ -2,6 +2,7 @@
 layout: term
 title: koparabilmek
 slug: koparabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Koparma ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: maksatsız
 slug: maksatsiz
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► amaçsız

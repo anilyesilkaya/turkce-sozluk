@@ -2,6 +2,7 @@
 layout: term
 title: açık büfe
 slug: acik-bufe
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yiyecek ve içeceklerin serbestçe seçilip alındığı servis düzeni

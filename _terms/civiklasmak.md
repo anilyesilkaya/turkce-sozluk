@@ -2,6 +2,7 @@
 layout: term
 title: cıvıklaşmak
 slug: civiklasmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cıvık duruma gelmek

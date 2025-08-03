@@ -2,6 +2,7 @@
 layout: term
 title: sazsız
 slug: sazsiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sazı olmayan

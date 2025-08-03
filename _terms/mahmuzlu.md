@@ -2,6 +2,7 @@
 layout: term
 title: mahmuzlu
 slug: mahmuzlu
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mahmuzu olan

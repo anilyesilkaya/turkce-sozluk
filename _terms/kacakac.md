@@ -2,6 +2,7 @@
 layout: term
 title: kaçakaç
 slug: kacakac
+letter: K
 lisan: Türkçe
 anlamlar:
 - İki kişinin karşılıklı olarak gizlice sayı yazıp tahmin etmesine dayanan bir oyun

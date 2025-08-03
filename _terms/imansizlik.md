@@ -2,6 +2,7 @@
 layout: term
 title: imansızlık
 slug: imansizlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► inançsızlık

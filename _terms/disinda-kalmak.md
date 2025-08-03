@@ -2,6 +2,7 @@
 layout: term
 title: dışında kalmak
 slug: disinda-kalmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - karışmamak, ilgilenmemek

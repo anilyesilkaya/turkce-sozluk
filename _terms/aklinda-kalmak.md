@@ -2,6 +2,7 @@
 layout: term
 title: aklında kalmak
 slug: aklinda-kalmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - hatırlamak

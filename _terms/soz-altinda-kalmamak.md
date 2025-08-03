@@ -2,6 +2,7 @@
 layout: term
 title: söz altında kalmamak
 slug: soz-altinda-kalmamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - bir kimsenin kendisine dokunan sözüne gereken cevabı vermek

@@ -2,6 +2,7 @@
 layout: term
 title: varoş
 slug: varos
+letter: V
 lisan: Macarca város
 anlamlar:
 - Kent veya kasabada kenar mahalle

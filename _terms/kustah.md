@@ -2,6 +2,7 @@
 layout: term
 title: küstah
 slug: kustah
+letter: K
 lisan: Farsça gustāḫ
 anlamlar:
 - Saygısız, kaba, terbiyesiz (kimse)

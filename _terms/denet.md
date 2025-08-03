@@ -2,6 +2,7 @@
 layout: term
 title: denet
 slug: denet
+letter: D
 lisan: Türkçe
 anlamlar:
 - Denetleme işi

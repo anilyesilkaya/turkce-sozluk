@@ -2,6 +2,7 @@
 layout: term
 title: yoğaltmak
 slug: yogaltmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► tüketmek

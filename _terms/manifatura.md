@@ -2,6 +2,7 @@
 layout: term
 title: manifatura
 slug: manifatura
+letter: M
 lisan: İtalyanca manifattura
 anlamlar:
 - Fabrika yapımı her türlü kumaş, bez vb. dokuma; yırtım

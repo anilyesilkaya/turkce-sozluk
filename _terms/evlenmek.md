@@ -2,6 +2,7 @@
 layout: term
 title: evlenmek
 slug: evlenmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Erkekle kadın, aile kurmak için yasaya uygun olarak birleşmek; izdivaç etmek

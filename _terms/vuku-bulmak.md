@@ -2,6 +2,7 @@
 layout: term
 title: vuku bulmak
 slug: vuku-bulmak
+letter: V
 lisan: Türkçe
 anlamlar:
 - olmak, meydana gelmek

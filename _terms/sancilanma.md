@@ -2,6 +2,7 @@
 layout: term
 title: sancılanma
 slug: sancilanma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sancılanmak işi

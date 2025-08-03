@@ -2,6 +2,7 @@
 layout: term
 title: volta vurmak
 slug: volta-vurmak
+letter: V
 lisan: Türkçe
 anlamlar:
 - gemi zikzak yapmak

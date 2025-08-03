@@ -2,6 +2,7 @@
 layout: term
 title: karmakarış
 slug: karmakaris
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► karmakarışık

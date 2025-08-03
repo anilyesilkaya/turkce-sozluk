@@ -2,6 +2,7 @@
 layout: term
 title: kriz
 slug: kriz
+letter: K
 lisan: Fransızca crise
 anlamlar:
 - Bir organda birdenbire ortaya çıkan fizyolojik bozukluk; bunalım, akse

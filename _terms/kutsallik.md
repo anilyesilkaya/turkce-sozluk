@@ -2,6 +2,7 @@
 layout: term
 title: kutsallık
 slug: kutsallik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kutsal olma durumu; kutsiyet, mukaddeslik

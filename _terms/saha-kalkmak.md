@@ -2,6 +2,7 @@
 layout: term
 title: şaha kalkmak
 slug: saha-kalkmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - at ön ayaklarını yerden kesip arka ayakları üstünde durmak, şahlanmak

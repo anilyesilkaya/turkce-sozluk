@@ -2,6 +2,7 @@
 layout: term
 title: papağan
 slug: papagan
+letter: P
 lisan: Arapça babaġā, babbaġā
 anlamlar:
 - Papağangillerden, tırmanıcı, eğri gagalı, pek çok türü bulunan, insan sesini taklit edebilen kuşların genel adı; dudu

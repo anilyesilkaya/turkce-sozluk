@@ -2,6 +2,7 @@
 layout: term
 title: büyütme
 slug: buyutme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Büyütmek işi; büyültme

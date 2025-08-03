@@ -2,6 +2,7 @@
 layout: term
 title: korunaklı
 slug: korunakli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Korunağı olan

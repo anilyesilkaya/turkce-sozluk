@@ -2,6 +2,7 @@
 layout: term
 title: haberdar olmak
 slug: haberdar-olmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - haber almak

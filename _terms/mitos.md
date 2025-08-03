@@ -2,6 +2,7 @@
 layout: term
 title: mitos
 slug: mitos
+letter: M
 lisan: Yunanca
 anlamlar:
 - ► mit

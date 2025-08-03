@@ -2,6 +2,7 @@
 layout: term
 title: eziyet
 slug: eziyet
+letter: E
 lisan: Arapça eẕiyyet
 anlamlar:
 - Yersiz ve gereksiz olarak çektirilen üzüntü, işkence, sıkıntı veya zorluk; üzgü, cevir, eza cefa, sıklet, ukubet

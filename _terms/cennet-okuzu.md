@@ -2,6 +2,7 @@
 layout: term
 title: cennet öküzü
 slug: cennet-okuzu
+letter: C
 lisan: Türkçe
 anlamlar:
 - Yüreği temiz ancak budala denecek kadar saf olan kimse

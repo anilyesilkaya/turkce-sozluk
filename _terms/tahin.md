@@ -2,6 +2,7 @@
 layout: term
 title: tahin
 slug: tahin
+letter: T
 lisan: Arapça ṭaḥīn
 anlamlar:
 - Susam tohumlarının kavrulup öğütülmesiyle yapılan koyu kıvamlı, yağlı yiyecek

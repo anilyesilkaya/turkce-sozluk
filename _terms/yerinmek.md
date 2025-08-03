@@ -2,6 +2,7 @@
 layout: term
 title: yerinmek
 slug: yerinmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► üzülmek

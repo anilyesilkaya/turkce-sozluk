@@ -2,6 +2,7 @@
 layout: term
 title: dine
 slug: dine
+letter: D
 lisan: Türkçe
 anlamlar:
 - Konaklama yeri

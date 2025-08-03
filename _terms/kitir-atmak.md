@@ -2,6 +2,7 @@
 layout: term
 title: kıtır atmak
 slug: kitir-atmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - yalan söylemek

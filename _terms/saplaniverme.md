@@ -2,6 +2,7 @@
 layout: term
 title: saplanıverme
 slug: saplaniverme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Saplanıvermek işi

@@ -2,6 +2,7 @@
 layout: term
 title: tiye almak
 slug: tiye-almak
+letter: T
 lisan: Türkçe
 anlamlar:
 - biriyle alay etmek, eğlenmek

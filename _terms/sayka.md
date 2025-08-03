@@ -2,6 +2,7 @@
 layout: term
 title: şayka
 slug: sayka
+letter: Ş
 lisan: Macarca sajka
 anlamlar:
 - Türklerin Karadeniz'deki ırmak kıyılarının korunmasında, Rus Kazakların kıyılara saldırmada kullandıkları altı düz, yayvan gemi

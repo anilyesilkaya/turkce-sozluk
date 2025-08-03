@@ -2,6 +2,7 @@
 layout: term
 title: şaşmaz
 slug: sasmaz
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Değişmez ve yanılmaz nitelikte olan

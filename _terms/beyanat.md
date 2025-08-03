@@ -2,6 +2,7 @@
 layout: term
 title: beyanat
 slug: beyanat
+letter: B
 lisan: Arapça beyānāt
 anlamlar:
 - ► demeç

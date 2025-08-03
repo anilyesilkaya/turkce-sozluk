@@ -2,6 +2,7 @@
 layout: term
 title: genişçe
 slug: genisce
+letter: G
 lisan: Türkçe
 anlamlar:
 - Biraz geniş

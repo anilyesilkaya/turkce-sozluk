@@ -2,6 +2,7 @@
 layout: term
 title: izmarit
 slug: izmarit
+letter: I
 lisan: Rumca
 anlamlar:
 - İzmaritgillerden, pullu ve kılçıklı bir tür küçük balık (Maena smaris)

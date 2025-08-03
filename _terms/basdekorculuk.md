@@ -2,6 +2,7 @@
 layout: term
 title: başdekorculuk
 slug: basdekorculuk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başdekorcu olma durumu

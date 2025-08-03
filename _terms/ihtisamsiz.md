@@ -2,6 +2,7 @@
 layout: term
 title: ihtişamsız
 slug: ihtisamsiz
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► görkemsiz

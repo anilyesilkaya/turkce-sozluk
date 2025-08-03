@@ -2,6 +2,7 @@
 layout: term
 title: agami
 slug: agami
+letter: A
 lisan: Fransızca agami
 anlamlar:
 - ► borazan kuşu

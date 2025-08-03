@@ -2,6 +2,7 @@
 layout: term
 title: tavlanma
 slug: tavlanma
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tavlanmak işi

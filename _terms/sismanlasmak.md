@@ -2,6 +2,7 @@
 layout: term
 title: şişmanlaşmak
 slug: sismanlasmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şişman duruma gelmek

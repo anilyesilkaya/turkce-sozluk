@@ -2,6 +2,7 @@
 layout: term
 title: güherçile
 slug: guhercile
+letter: G
 lisan: Farsça guherçile
 anlamlar:
 - Tarımda gübre, hekimlikte ilaç olarak kullanılan, barut vb. patlayıcı maddeler yapımına yarayan, beyaz renkte ve ince billurlar durumunda birleşik bir madde; potasyum nitrat (KNO3)

@@ -2,6 +2,7 @@
 layout: term
 title: esbak
 slug: esbak
+letter: E
 lisan: Arapça esbaḳ
 anlamlar:
 - Eski, geçmiş, önceki

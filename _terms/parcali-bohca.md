@@ -2,6 +2,7 @@
 layout: term
 title: parçalı bohça
 slug: parcali-bohca
+letter: P
 lisan: Türkçe
 anlamlar:
 - Renk renk ve çeşit çeşit kumaş parçalarının birbirine eklenmesiyle yapılan bohça

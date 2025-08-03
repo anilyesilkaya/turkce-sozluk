@@ -2,6 +2,7 @@
 layout: term
 title: huylanmak
 slug: huylanmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► kuşkulanmak

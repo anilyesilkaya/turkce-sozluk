@@ -2,6 +2,7 @@
 layout: term
 title: akıtılmak
 slug: akitilmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Akıtma işi yapılmak

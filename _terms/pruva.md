@@ -2,6 +2,7 @@
 layout: term
 title: pruva
 slug: pruva
+letter: P
 lisan: İtalyanca prova
 anlamlar:
 - Geminin veya sandalın ön tarafı, baş bölümü

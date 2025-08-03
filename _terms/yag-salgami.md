@@ -2,6 +2,7 @@
 layout: term
 title: yağ şalgamı
 slug: yag-salgami
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► küçük şalgam

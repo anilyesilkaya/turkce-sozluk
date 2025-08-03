@@ -2,6 +2,7 @@
 layout: term
 title: aldırışsızca
 slug: aldirissizca
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aldırışsız bir biçimde

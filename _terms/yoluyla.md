@@ -2,6 +2,7 @@
 layout: term
 title: yoluyla
 slug: yoluyla
+letter: Y
 lisan: Türkçe
 anlamlar:
 - “Aracılığıyla” anlamında kullanılan bir söz

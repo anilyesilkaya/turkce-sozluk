@@ -2,6 +2,7 @@
 layout: term
 title: sendelemek
 slug: sendelemek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Dengesi bozularak düşecek gibi olmak, adımlarını şaşırmak

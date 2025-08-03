@@ -2,6 +2,7 @@
 layout: term
 title: oturum
 slug: oturum
+letter: O
 lisan: Türkçe
 anlamlar:
 - Bir meclis veya kurulun çözümlenmesi gereken sorunları görüşüp tartışmak için yaptığı birleşimlerden her biri; celse

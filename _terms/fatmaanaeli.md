@@ -2,6 +2,7 @@
 layout: term
 title: fatmaanaeli
 slug: fatmaanaeli
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► havvaanaeli

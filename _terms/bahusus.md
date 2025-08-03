@@ -2,6 +2,7 @@
 layout: term
 title: bahusus
 slug: bahusus
+letter: B
 lisan: Farsça bā + Arapça ḫuṣūṣ
 anlamlar:
 - ► özellikle

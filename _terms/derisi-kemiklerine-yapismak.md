@@ -2,6 +2,7 @@
 layout: term
 title: derisi kemiklerine yapışmak
 slug: derisi-kemiklerine-yapismak
+letter: D
 lisan: Türkçe
 anlamlar:
 - çok zayıflamak

@@ -2,6 +2,7 @@
 layout: term
 title: ussallaşmak
 slug: ussallasmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► aklileşmek

@@ -2,6 +2,7 @@
 layout: term
 title: duraksız
 slug: duraksiz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Otobüs mola vermeden, duraklarda durmadan (gitmek)

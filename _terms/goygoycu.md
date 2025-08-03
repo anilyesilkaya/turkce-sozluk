@@ -2,6 +2,7 @@
 layout: term
 title: goygoycu
 slug: goygoycu
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► şakşakçı

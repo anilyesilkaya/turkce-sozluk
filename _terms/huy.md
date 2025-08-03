@@ -2,6 +2,7 @@
 layout: term
 title: huy
 slug: huy
+letter: H
 lisan: Farsça ḫūy
 anlamlar:
 - İnsanın yaradılış ve ruh özelliklerinin, eğilimlerinin ve içgüdülerinin bütünü; doğa, mizaç, şime, tab (I), tabiat

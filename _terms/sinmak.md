@@ -2,6 +2,7 @@
 layout: term
 title: sınmak
 slug: sinmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kırılmak, parçalanmak, bozulmak

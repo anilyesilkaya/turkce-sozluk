@@ -2,6 +2,7 @@
 layout: term
 title: geçiştirmek
 slug: gecistirmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gereken önemi vermemek, üstünde durmadan başından savmak

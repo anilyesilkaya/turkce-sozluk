@@ -2,6 +2,7 @@
 layout: term
 title: şurup
 slug: surup
+letter: Ş
 lisan: Arapça şurūb
 anlamlar:
 - ► şerbet

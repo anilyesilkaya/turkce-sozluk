@@ -2,6 +2,7 @@
 layout: term
 title: hippi
 slug: hippi
+letter: H
 lisan: İngilizce hippy
 anlamlar:
 - Toplumsal düzene, tüketime ve şiddete karşı çıkan, derbederce yaşayan, örgütlenmemiş gençler topluluğu

@@ -2,6 +2,7 @@
 layout: term
 title: nazını çekmek
 slug: nazini-cekmek
+letter: N
 lisan: Türkçe
 anlamlar:
 - her istediğini yerine getirmek

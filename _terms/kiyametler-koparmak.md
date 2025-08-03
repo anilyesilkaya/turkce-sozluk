@@ -2,6 +2,7 @@
 layout: term
 title: kıyametler koparmak
 slug: kiyametler-koparmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir şeye çok kızarak bağırıp çağırmak, feryat etmek

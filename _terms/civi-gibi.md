@@ -2,6 +2,7 @@
 layout: term
 title: çivi gibi
 slug: civi-gibi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - çok sağlam ve çevik (kimse)

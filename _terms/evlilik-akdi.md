@@ -2,6 +2,7 @@
 layout: term
 title: evlilik akdi
 slug: evlilik-akdi
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► nikâh

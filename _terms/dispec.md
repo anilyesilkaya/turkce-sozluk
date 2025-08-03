@@ -2,6 +2,7 @@
 layout: term
 title: dispeç
 slug: dispec
+letter: D
 lisan: İngilizce dispatch
 anlamlar:
 - Bir ortak avaryada deniz kazasından sonra gemi, yük ve navlunla ilgili kimselerin uğradıkları zararların ve bunlar tarafından yapılan masrafların nasıl, kimler tarafından ve ne oranda karşılanacağını belirlemek için yapılan işlem

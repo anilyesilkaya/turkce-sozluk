@@ -2,6 +2,7 @@
 layout: term
 title: cemaziyelevvel
 slug: cemaziyelevvel
+letter: C
 lisan: Arapça cemāẕī + evvel
 anlamlar:
 - Ay takviminin beşinci ayı; büyük tövbe ayı

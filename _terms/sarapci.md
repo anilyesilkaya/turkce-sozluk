@@ -2,6 +2,7 @@
 layout: term
 title: şarapçı
 slug: sarapci
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şarap yapan veya satan kimse

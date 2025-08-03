@@ -2,6 +2,7 @@
 layout: term
 title: nüfuz etmek
 slug: nufuz-etmek
+letter: N
 lisan: Türkçe
 anlamlar:
 - bir şeyin içine işlemek, sinmek

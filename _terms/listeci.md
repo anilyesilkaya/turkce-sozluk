@@ -2,6 +2,7 @@
 layout: term
 title: listeci
 slug: listeci
+letter: L
 lisan: Türkçe
 anlamlar:
 - Liste yapan kimse

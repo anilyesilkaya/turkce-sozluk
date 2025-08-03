@@ -2,6 +2,7 @@
 layout: term
 title: galibiyet
 slug: galibiyet
+letter: G
 lisan: Arapça ġālibiyyet
 anlamlar:
 - ► yengi

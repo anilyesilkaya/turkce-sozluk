@@ -2,6 +2,7 @@
 layout: term
 title: uzak
 slug: uzak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Gidilmesi çok süren, çok ötelerde bulunan; ırak (I), yakın karşıtı

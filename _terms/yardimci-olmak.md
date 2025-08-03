@@ -2,6 +2,7 @@
 layout: term
 title: yardımcı olmak
 slug: yardimci-olmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yardımda bulunmak

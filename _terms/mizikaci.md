@@ -2,6 +2,7 @@
 layout: term
 title: mızıkacı
 slug: mizikaci
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► bandocu

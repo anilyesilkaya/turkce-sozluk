@@ -2,6 +2,7 @@
 layout: term
 title: istisna etmek
 slug: istisna-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - ayrı tutmak, dışarıda bırakmak

@@ -2,6 +2,7 @@
 layout: term
 title: cidal
 slug: cidal
+letter: C
 lisan: Arapça cidāl
 anlamlar:
 - ► savaş

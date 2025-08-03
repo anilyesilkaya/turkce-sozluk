@@ -2,6 +2,7 @@
 layout: term
 title: sancak gemisi
 slug: sancak-gemisi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Savaş gemileri filosunda, komutanın içinde bulunduğu gemi

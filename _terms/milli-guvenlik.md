@@ -2,6 +2,7 @@
 layout: term
 title: millî güvenlik
 slug: milli-guvenlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Devletin her türlü dış ve iç tehditlere karşı korunması; ulusal güvenlik

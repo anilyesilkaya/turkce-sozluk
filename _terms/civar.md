@@ -2,6 +2,7 @@
 layout: term
 title: civar
 slug: civar
+letter: C
 lisan: Arapça civār
 anlamlar:
 - ► yöre (I)

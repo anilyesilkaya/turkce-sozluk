@@ -2,6 +2,7 @@
 layout: term
 title: antrenör
 slug: antrenor
+letter: A
 lisan: Fransızca entraîneur
 anlamlar:
 - ► çalıştırıcı

@@ -2,6 +2,7 @@
 layout: term
 title: cazibelilik
 slug: cazibelilik
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► çekicilik

@@ -2,6 +2,7 @@
 layout: term
 title: kademe kademe
 slug: kademe-kademe
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► adım adım

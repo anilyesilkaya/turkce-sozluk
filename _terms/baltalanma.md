@@ -2,6 +2,7 @@
 layout: term
 title: baltalanma
 slug: baltalanma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Baltalanmak işi

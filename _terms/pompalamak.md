@@ -2,6 +2,7 @@
 layout: term
 title: pompalamak
 slug: pompalamak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pompa ile şişirmek, tulumba ile suyu çekmek veya vermek

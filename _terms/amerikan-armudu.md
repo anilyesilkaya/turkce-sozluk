@@ -2,6 +2,7 @@
 layout: term
 title: Amerikan armudu
 slug: amerikan-armudu
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► avokado

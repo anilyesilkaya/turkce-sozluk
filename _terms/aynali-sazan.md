@@ -2,6 +2,7 @@
 layout: term
 title: aynalı sazan
 slug: aynali-sazan
+letter: A
 lisan: Türkçe
 anlamlar:
 - Üzerinde az sayıda büyük pullar bulunan bir tür sazan

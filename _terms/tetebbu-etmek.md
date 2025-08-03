@@ -2,6 +2,7 @@
 layout: term
 title: tetebbu etmek
 slug: tetebbu-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - inceleme yapmak, araştırmak

@@ -2,6 +2,7 @@
 layout: term
 title: darı
 slug: dari
+letter: D
 lisan: Türkçe
 anlamlar:
 - Buğdaygillerden, kuraklığa dayanıklı bir bitki; akdarı (Panicum miliaceum)

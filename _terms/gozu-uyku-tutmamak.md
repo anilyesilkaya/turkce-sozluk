@@ -2,6 +2,7 @@
 layout: term
 title: gözü uyku tutmamak
 slug: gozu-uyku-tutmamak
+letter: G
 lisan: Türkçe
 anlamlar:
 - uyuyamamak

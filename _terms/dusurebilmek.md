@@ -2,6 +2,7 @@
 layout: term
 title: düşürebilmek
 slug: dusurebilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düşürme ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: fariğ
 slug: farig
+letter: F
 lisan: Arapça fāriġ
 anlamlar:
 - Vazgeçmiş, çekilmiş

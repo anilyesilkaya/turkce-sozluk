@@ -2,6 +2,7 @@
 layout: term
 title: çünkü
 slug: cunku
+letter: Ç
 lisan: Farsça çūn + ki
 anlamlar:
 - Şu sebeple; zira

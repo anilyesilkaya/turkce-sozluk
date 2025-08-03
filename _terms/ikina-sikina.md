@@ -2,6 +2,7 @@
 layout: term
 title: ıkına sıkına
 slug: ikina-sikina
+letter: I
 lisan: Türkçe
 anlamlar:
 - Büyük güç harcayarak, kendini zorlayarak; ıkına tıkına, ıklaya sıklaya

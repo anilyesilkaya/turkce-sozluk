@@ -2,6 +2,7 @@
 layout: term
 title: karışma
 slug: karisma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karışmak işi

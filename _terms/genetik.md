@@ -2,6 +2,7 @@
 layout: term
 title: genetik
 slug: genetik
+letter: G
 lisan: Almanca Genetik
 anlamlar:
 - ► kalıtım bilimi

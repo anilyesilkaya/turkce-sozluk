@@ -2,6 +2,7 @@
 layout: term
 title: temkin
 slug: temkin
+letter: T
 lisan: Arapça temkīn
 anlamlar:
 - Bir işin sonunu düşünerek ölçülü, tedbirli davranma

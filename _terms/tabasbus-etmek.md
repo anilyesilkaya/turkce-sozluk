@@ -2,6 +2,7 @@
 layout: term
 title: tabasbus etmek
 slug: tabasbus-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - yaltaklanmak

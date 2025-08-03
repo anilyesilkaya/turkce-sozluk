@@ -2,6 +2,7 @@
 layout: term
 title: geri göndermek
 slug: geri-gondermek
+letter: G
 lisan: Türkçe
 anlamlar:
 - geldiği yere göndermek, iade etmek

@@ -2,6 +2,7 @@
 layout: term
 title: tercüme etmek
 slug: tercume-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - çeviri yapmak

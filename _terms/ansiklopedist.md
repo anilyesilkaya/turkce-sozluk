@@ -2,6 +2,7 @@
 layout: term
 title: ansiklopedist
 slug: ansiklopedist
+letter: A
 lisan: Fransızca encyclopédiste
 anlamlar:
 - ► ansiklopedici

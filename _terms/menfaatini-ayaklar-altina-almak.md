@@ -2,6 +2,7 @@
 layout: term
 title: menfaatini ayaklar altına almak
 slug: menfaatini-ayaklar-altina-almak
+letter: M
 lisan: Türkçe
 anlamlar:
 - kendi çıkarlarını göz ardı etmek

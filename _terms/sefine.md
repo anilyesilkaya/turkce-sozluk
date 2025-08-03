@@ -2,6 +2,7 @@
 layout: term
 title: sefine
 slug: sefine
+letter: S
 lisan: Arapça sefīne
 anlamlar:
 - ► gemi

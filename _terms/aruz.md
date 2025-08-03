@@ -2,6 +2,7 @@
 layout: term
 title: aruz
 slug: aruz
+letter: A
 lisan: Arapça ʿarūż
 anlamlar:
 - ► aruz vezni

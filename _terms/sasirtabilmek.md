@@ -2,6 +2,7 @@
 layout: term
 title: şaşırtabilmek
 slug: sasirtabilmek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şaşırtma ihtimali veya imkânı bulunmak

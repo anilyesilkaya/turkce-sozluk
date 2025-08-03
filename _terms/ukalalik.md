@@ -2,6 +2,7 @@
 layout: term
 title: ukalalık
 slug: ukalalik
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ukala olma durumu

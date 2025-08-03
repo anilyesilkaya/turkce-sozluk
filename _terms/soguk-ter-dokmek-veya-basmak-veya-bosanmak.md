@@ -2,6 +2,7 @@
 layout: term
 title: soğuk ter dökmek (veya basmak veya boşanmak)
 slug: soguk-ter-dokmek-veya-basmak-veya-bosanmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - korkmak, heyecanlanmak, bunalmak, gerilmek

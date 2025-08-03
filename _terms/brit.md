@@ -2,6 +2,7 @@
 layout: term
 title: brit
 slug: brit
+letter: B
 lisan: Fransızca bride
 anlamlar:
 - Düğmeyi iliklemek için kumaş veya iplikten yapılmış, halka biçiminde, özel bir ilik türü

@@ -2,6 +2,7 @@
 layout: term
 title: Allah bilir
 slug: allah-bilir
+letter: A
 lisan: Türkçe
 anlamlar:
 - '"belli değil" anlamında kullanılan bir söz'

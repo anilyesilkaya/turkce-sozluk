@@ -2,6 +2,7 @@
 layout: term
 title: yamaklık
 slug: yamaklik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yamak olma durumu; el ulaklığı

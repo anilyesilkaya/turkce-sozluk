@@ -2,6 +2,7 @@
 layout: term
 title: pekişmek
 slug: pekismek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Sertleşmek, katılaşmak

@@ -2,6 +2,7 @@
 layout: term
 title: taşçıl
 slug: tascil
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taşı andıran, taş gibi

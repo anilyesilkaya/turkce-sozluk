@@ -2,6 +2,7 @@
 layout: term
 title: yuvayı yürütmek
 slug: yuvayi-yurutmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - evlilik birliğini sürdürmek

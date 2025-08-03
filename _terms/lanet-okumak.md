@@ -2,6 +2,7 @@
 layout: term
 title: lanet okumak
 slug: lanet-okumak
+letter: L
 lisan: Türkçe
 anlamlar:
 - bir kimsenin Tanrı'nın merhametinden yoksun kalmasını dilemek

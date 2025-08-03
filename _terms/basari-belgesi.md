@@ -2,6 +2,7 @@
 layout: term
 title: başarı belgesi
 slug: basari-belgesi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir işte, etkinlikte, spor dalında başarılı olanlara verilen belge

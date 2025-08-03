@@ -2,6 +2,7 @@
 layout: term
 title: toplanma
 slug: toplanma
+letter: T
 lisan: Türkçe
 anlamlar:
 - Toplanmak işi; tekâsüf

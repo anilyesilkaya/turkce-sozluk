@@ -2,6 +2,7 @@
 layout: term
 title: 'altın çağını yaşamak '
 slug: altin-cagini-yasamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - en başarılı, en verimli döneminde bulunmak

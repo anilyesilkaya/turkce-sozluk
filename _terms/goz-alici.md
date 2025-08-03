@@ -2,6 +2,7 @@
 layout: term
 title: göz alıcı
 slug: goz-alici
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güzelliği ile ilgi çeken, alımlı, göze çarpan

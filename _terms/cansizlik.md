@@ -2,6 +2,7 @@
 layout: term
 title: cansızlık
 slug: cansizlik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cansız olma durumu

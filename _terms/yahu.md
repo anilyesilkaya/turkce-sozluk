@@ -2,6 +2,7 @@
 layout: term
 title: yahu
 slug: yahu
+letter: Y
 lisan: Arapça yā + hū
 anlamlar:
 - '"Hey, bana bak, baksana" anlamlarında bir seslenme sözü'

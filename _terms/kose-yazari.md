@@ -2,6 +2,7 @@
 layout: term
 title: köşe yazarı
 slug: kose-yazari
+letter: K
 lisan: Türkçe
 anlamlar:
 - Köşe yazısı yazan kimse; fıkracı

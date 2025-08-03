@@ -2,6 +2,7 @@
 layout: term
 title: görmediğe (veya görmemişe) dönmek
 slug: gormedige-veya-gormemise-donmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - tam bir sağlığa kavuşmak

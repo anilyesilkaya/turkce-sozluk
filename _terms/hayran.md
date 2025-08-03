@@ -2,6 +2,7 @@
 layout: term
 title: hayran
 slug: hayran
+letter: H
 lisan: Arapça ḥayrān
 anlamlar:
 - Çok beğenen, hayranlık duyan (kimse)

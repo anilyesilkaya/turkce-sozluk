@@ -2,6 +2,7 @@
 layout: term
 title: veston
 slug: veston
+letter: V
 lisan: Fransızca veston
 anlamlar:
 - Erkek ceketi

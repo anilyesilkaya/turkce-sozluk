@@ -2,6 +2,7 @@
 layout: term
 title: kaydırak
 slug: kaydirak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çocukların yassı bir taşı ayakla kaydırarak oynadıkları oyun

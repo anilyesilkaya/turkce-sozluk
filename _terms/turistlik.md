@@ -2,6 +2,7 @@
 layout: term
 title: turistlik
 slug: turistlik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Turist olma durumu

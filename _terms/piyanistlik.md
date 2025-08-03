@@ -2,6 +2,7 @@
 layout: term
 title: piyanistlik
 slug: piyanistlik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Piyanistin işi

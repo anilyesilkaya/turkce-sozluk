@@ -2,6 +2,7 @@
 layout: term
 title: aykırılamak
 slug: aykirilamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kestirmeden gitmek

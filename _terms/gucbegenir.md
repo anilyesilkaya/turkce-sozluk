@@ -2,6 +2,7 @@
 layout: term
 title: güçbeğenir
 slug: gucbegenir
+letter: G
 lisan: Türkçe
 anlamlar:
 - Zorlukla karar veren, memnun edilmesi güç olan, her şeyde kusur bulan (kimse); müşkülpesent

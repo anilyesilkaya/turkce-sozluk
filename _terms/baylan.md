@@ -2,6 +2,7 @@
 layout: term
 title: baylan
 slug: baylan
+letter: B
 lisan: Türkçe
 anlamlar:
 - Nazlı, işveli olan

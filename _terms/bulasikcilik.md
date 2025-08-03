@@ -2,6 +2,7 @@
 layout: term
 title: bulaşıkçılık
 slug: bulasikcilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bulaşıkçının yaptığı iş

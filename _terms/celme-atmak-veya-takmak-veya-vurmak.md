@@ -2,6 +2,7 @@
 layout: term
 title: çelme atmak (veya takmak veya vurmak)
 slug: celme-atmak-veya-takmak-veya-vurmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - birini çelme ile yıkmaya çalışmak

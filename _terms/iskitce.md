@@ -2,6 +2,7 @@
 layout: term
 title: İskitçe
 slug: iskitce
+letter: İ
 lisan: Türkçe
 anlamlar:
 - İskitlerin dili

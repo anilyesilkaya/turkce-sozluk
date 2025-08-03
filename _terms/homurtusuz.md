@@ -2,6 +2,7 @@
 layout: term
 title: homurtusuz
 slug: homurtusuz
+letter: H
 lisan: Türkçe
 anlamlar:
 - Homurtusu olmayan

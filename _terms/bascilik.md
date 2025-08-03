@@ -2,6 +2,7 @@
 layout: term
 title: başçılık
 slug: bascilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► işçibaşılık

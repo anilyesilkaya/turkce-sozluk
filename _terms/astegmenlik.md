@@ -2,6 +2,7 @@
 layout: term
 title: asteğmenlik
 slug: astegmenlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Asteğmen olma durumu

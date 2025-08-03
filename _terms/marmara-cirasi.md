@@ -2,6 +2,7 @@
 layout: term
 title: Marmara çırası
 slug: marmara-cirasi
+letter: M
 lisan: Türkçe
 anlamlar:
 - '"Perişan etmek, mahvetmek veya perişan olmak, mahvolmak" anlamlarındaki Marmara çırası gibi yakmak (veya yanmak) deyiminde geçen bir söz'

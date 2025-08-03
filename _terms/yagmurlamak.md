@@ -2,6 +2,7 @@
 layout: term
 title: yağmurlamak
 slug: yagmurlamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Hava yağmura çevirmek, yağmur yağacak gibi olmak

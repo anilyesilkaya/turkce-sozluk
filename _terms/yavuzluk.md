@@ -2,6 +2,7 @@
 layout: term
 title: yavuzluk
 slug: yavuzluk
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yavuz olma durumu

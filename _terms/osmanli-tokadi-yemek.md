@@ -2,6 +2,7 @@
 layout: term
 title: Osmanlı tokadı yemek
 slug: osmanli-tokadi-yemek
+letter: O
 lisan: Türkçe
 anlamlar:
 - sert ve etkili bir biçimde tokat atılmak

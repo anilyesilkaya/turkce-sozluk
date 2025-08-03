@@ -2,6 +2,7 @@
 layout: term
 title: gerçekleştirilme
 slug: gerceklestirilme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gerçekleştirilmek işi

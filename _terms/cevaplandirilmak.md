@@ -2,6 +2,7 @@
 layout: term
 title: cevaplandırılmak
 slug: cevaplandirilmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - Bir şeyin cevabı, karşılığı verilmek; yanıtlandırılmak

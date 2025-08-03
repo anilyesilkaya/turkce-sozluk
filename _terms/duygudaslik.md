@@ -2,6 +2,7 @@
 layout: term
 title: duygudaşlık
 slug: duygudaslik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Aynı duyguları paylaşma; empati

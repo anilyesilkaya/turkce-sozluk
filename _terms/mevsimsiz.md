@@ -2,6 +2,7 @@
 layout: term
 title: mevsimsiz
 slug: mevsimsiz
+letter: M
 lisan: Türkçe
 anlamlar:
 - Zamanı iyi seçilmemiş, uygun zamanı gelmeden olan veya yapılan

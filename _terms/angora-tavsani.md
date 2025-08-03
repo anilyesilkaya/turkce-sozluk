@@ -2,6 +2,7 @@
 layout: term
 title: angora tavşanı
 slug: angora-tavsani
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► Ankara tavşanı

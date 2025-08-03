@@ -2,6 +2,7 @@
 layout: term
 title: fasılasız
 slug: fasilasiz
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► kesintisiz

@@ -2,6 +2,7 @@
 layout: term
 title: cafcafından geçilmemek
 slug: cafcafindan-gecilmemek
+letter: C
 lisan: Türkçe
 anlamlar:
 - her zaman ve her yerde gösteriş yapmak

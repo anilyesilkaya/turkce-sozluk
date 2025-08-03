@@ -2,6 +2,7 @@
 layout: term
 title: çığırtkanlık etmek (veya yapmak)
 slug: cigirtkanlik-etmek-veya-yapmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - eğlence yerlerinin, dükkânların önünde yüksek sesle müşteriyi içeri çağırmak

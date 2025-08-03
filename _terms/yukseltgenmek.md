@@ -2,6 +2,7 @@
 layout: term
 title: yükseltgenmek
 slug: yukseltgenmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► oksitlenmek

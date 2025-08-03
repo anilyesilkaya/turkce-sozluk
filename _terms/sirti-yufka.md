@@ -2,6 +2,7 @@
 layout: term
 title: sırtı yufka
 slug: sirti-yufka
+letter: S
 lisan: Türkçe
 anlamlar:
 - İnce giyinmiş

@@ -2,6 +2,7 @@
 layout: term
 title: üstünde durmak
 slug: ustunde-durmak
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - bir işe önem vermek, bir işle yakından ve sürekli ilgilenmek

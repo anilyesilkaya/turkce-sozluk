@@ -2,6 +2,7 @@
 layout: term
 title: salınma
 slug: salinma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Salınmak işi

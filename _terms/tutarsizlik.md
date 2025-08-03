@@ -2,6 +2,7 @@
 layout: term
 title: tutarsızlık
 slug: tutarsizlik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tutarsız olma durumu; insicamsızlık

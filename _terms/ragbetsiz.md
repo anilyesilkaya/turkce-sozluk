@@ -2,6 +2,7 @@
 layout: term
 title: rağbetsiz
 slug: ragbetsiz
+letter: R
 lisan: Türkçe
 anlamlar:
 - İsteksiz, gönülsüz, rağbet etmeyen

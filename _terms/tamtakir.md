@@ -2,6 +2,7 @@
 layout: term
 title: tamtakır
 slug: tamtakir
+letter: T
 lisan: Türkçe
 anlamlar:
 - İçinde bulunması gereken şeylerden hiçbiri bulunmayan; bomboş

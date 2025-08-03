@@ -2,6 +2,7 @@
 layout: term
 title: şehit düşmek (veya olmak)
 slug: sehit-dusmek-veya-olmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - kutsal bir ülkü veya inanç uğrunda ölmek

@@ -2,6 +2,7 @@
 layout: term
 title: para saçmak
 slug: para-sacmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - gereğinden çok para harcamak

@@ -2,6 +2,7 @@
 layout: term
 title: yormak
 slug: yormak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir anlam vermek, yorumlamak

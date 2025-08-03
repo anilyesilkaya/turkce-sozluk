@@ -2,6 +2,7 @@
 layout: term
 title: göz hapsinde tutmak
 slug: goz-hapsinde-tutmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - göz hapsine almak

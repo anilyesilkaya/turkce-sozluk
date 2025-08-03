@@ -2,6 +2,7 @@
 layout: term
 title: kargış
 slug: kargis
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► beddua, alkış karşıtı

@@ -2,6 +2,7 @@
 layout: term
 title: topur
 slug: topur
+letter: T
 lisan: Türkçe
 anlamlar:
 - Kestanenin dikenli olan dış kabuğu

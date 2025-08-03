@@ -2,6 +2,7 @@
 layout: term
 title: zula
 slug: zula
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Kaçak ve yasak şeylerin saklandığı gizli yer

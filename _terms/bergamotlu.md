@@ -2,6 +2,7 @@
 layout: term
 title: bergamotlu
 slug: bergamotlu
+letter: B
 lisan: Türkçe
 anlamlar:
 - İçinde bergamot bulunan

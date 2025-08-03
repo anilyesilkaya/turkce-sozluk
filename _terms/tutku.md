@@ -2,6 +2,7 @@
 layout: term
 title: tutku
 slug: tutku
+letter: T
 lisan: Türkçe
 anlamlar:
 - İrade ve yargıları aşan güçlü bir coşku; ihtiras

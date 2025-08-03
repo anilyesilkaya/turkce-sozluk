@@ -2,6 +2,7 @@
 layout: term
 title: ondan
 slug: ondan
+letter: O
 lisan: Türkçe
 anlamlar:
 - o sebeple

@@ -2,6 +2,7 @@
 layout: term
 title: olur ki
 slug: olur-ki
+letter: O
 lisan: Türkçe
 anlamlar:
 - belki, muhtemelen

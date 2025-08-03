@@ -2,6 +2,7 @@
 layout: term
 title: üzüntü vermek
 slug: uzuntu-vermek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - tedirginlik yaratmak, sıkıntı ve huzursuzluğa yol açmak

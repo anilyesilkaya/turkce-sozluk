@@ -2,6 +2,7 @@
 layout: term
 title: değiştirilme
 slug: degistirilme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Değiştirilmek işi

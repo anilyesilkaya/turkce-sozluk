@@ -2,6 +2,7 @@
 layout: term
 title: özelleştirebilme
 slug: ozellestirebilme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Özelleştirebilmek işi

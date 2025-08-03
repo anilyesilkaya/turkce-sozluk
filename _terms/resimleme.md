@@ -2,6 +2,7 @@
 layout: term
 title: resimleme
 slug: resimleme
+letter: R
 lisan: Türkçe
 anlamlar:
 - Resimlemek işi; resimlendirme

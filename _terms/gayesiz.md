@@ -2,6 +2,7 @@
 layout: term
 title: gayesiz
 slug: gayesiz
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► amaçsız

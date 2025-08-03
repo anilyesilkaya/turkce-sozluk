@@ -2,6 +2,7 @@
 layout: term
 title: sektirmek
 slug: sektirmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sekmesine sebep olmak; sekitmek

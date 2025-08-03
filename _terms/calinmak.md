@@ -2,6 +2,7 @@
 layout: term
 title: çalınmak
 slug: calinmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çalma işine konu olmak

@@ -2,6 +2,7 @@
 layout: term
 title: menhus
 slug: menhus
+letter: M
 lisan: Arapça menḥūs
 anlamlar:
 - ► uğursuz

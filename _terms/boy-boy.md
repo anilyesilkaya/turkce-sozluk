@@ -2,6 +2,7 @@
 layout: term
 title: boy boy
 slug: boy-boy
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çeşitli büyüklük ve nitelikte

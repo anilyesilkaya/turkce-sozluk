@@ -2,6 +2,7 @@
 layout: term
 title: bir başkası
 slug: bir-baskasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► başkası

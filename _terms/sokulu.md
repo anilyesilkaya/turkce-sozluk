@@ -2,6 +2,7 @@
 layout: term
 title: sokulu
 slug: sokulu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sokulmuş olan

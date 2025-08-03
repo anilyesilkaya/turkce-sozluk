@@ -2,6 +2,7 @@
 layout: term
 title: ayaklı mâni
 slug: ayakli-mani
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► cinaslı mâni

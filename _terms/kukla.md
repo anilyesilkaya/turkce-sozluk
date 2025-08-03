@@ -2,6 +2,7 @@
 layout: term
 title: kukla
 slug: kukla
+letter: K
 lisan: Rumca
 anlamlar:
 - Hareketli yerleri iplikle sanatçının parmaklarına bağlanarak veya eldiven gibi bir kesiti kullanarak bir perdenin üzerinden oynatılan, bez, karton vb. hafif nesnelerden yapılmış insan ve hayvan figürleri

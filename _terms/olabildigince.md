@@ -2,6 +2,7 @@
 layout: term
 title: olabildiğince
 slug: olabildigince
+letter: O
 lisan: Türkçe
 anlamlar:
 - Olabildiği kadar

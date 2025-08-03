@@ -2,6 +2,7 @@
 layout: term
 title: basaksız
 slug: basaksiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Merdiveni olmayan

@@ -2,6 +2,7 @@
 layout: term
 title: cephe açmak
 slug: cephe-acmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - savaş olmayan bir bölgede, savaşa hazırlanmak ve başlamak

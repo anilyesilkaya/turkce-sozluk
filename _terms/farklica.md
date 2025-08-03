@@ -2,6 +2,7 @@
 layout: term
 title: farklıca
 slug: farklica
+letter: F
 lisan: Türkçe
 anlamlar:
 - Biraz farklı; ayrımlıca

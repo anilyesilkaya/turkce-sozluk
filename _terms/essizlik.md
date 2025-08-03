@@ -2,6 +2,7 @@
 layout: term
 title: eşsizlik
 slug: essizlik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eşsiz olma durumu

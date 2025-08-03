@@ -2,6 +2,7 @@
 layout: term
 title: perde inmek
 slug: perde-inmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - gözde katarakt olmak

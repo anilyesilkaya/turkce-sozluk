@@ -2,6 +2,7 @@
 layout: term
 title: motive
 slug: motive
+letter: M
 lisan: Fransızca motivé
 anlamlar:
 - '"İsteklendirmek, güdülemek" anlamlarındaki motive etmek, "isteklenmek, güdülenmek" anlamlarındaki motive olmak birleşik fiillerinde geçen bir söz'

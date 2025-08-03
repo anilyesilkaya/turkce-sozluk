@@ -2,6 +2,7 @@
 layout: term
 title: balinalı
 slug: balinali
+letter: B
 lisan: Türkçe
 anlamlar:
 - Balina takılmış olan, balina geçirilmiş olan (giysi)

@@ -2,6 +2,7 @@
 layout: term
 title: ocaklı
 slug: ocakli
+letter: O
 lisan: Türkçe
 anlamlar:
 - Ocağı olan, içinde ocağı bulunan

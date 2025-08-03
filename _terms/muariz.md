@@ -2,6 +2,7 @@
 layout: term
 title: muarız
 slug: muariz
+letter: M
 lisan: Arapça muʿāriż
 anlamlar:
 - Karşı koyan, karşı çıkan

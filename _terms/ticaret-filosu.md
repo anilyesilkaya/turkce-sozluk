@@ -2,6 +2,7 @@
 layout: term
 title: ticaret filosu
 slug: ticaret-filosu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Aynı bayrak altında çalışan her türden ticaret gemilerinin tümü

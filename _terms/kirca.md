@@ -2,6 +2,7 @@
 layout: term
 title: kırca
 slug: kirca
+letter: K
 lisan: Türkçe
 anlamlar:
 - Hafif kırlaşmış

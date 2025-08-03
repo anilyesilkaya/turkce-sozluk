@@ -2,6 +2,7 @@
 layout: term
 title: dokuz doğurmak
 slug: dokuz-dogurmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - merakla, heyecan içinde, sabırsızlıkla beklemek

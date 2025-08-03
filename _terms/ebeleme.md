@@ -2,6 +2,7 @@
 layout: term
 title: ebeleme
 slug: ebeleme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ebelemek işi

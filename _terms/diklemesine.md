@@ -2,6 +2,7 @@
 layout: term
 title: diklemesine
 slug: diklemesine
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► dikine

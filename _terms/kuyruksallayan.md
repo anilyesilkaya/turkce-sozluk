@@ -2,6 +2,7 @@
 layout: term
 title: kuyruksallayan
 slug: kuyruksallayan
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kuyruksallayangillerden, kanatları ve vücudunun üst bölümü kül rengi, alt bölümü sarı olan, uzun kuyruklu, küçük, ötücü kuş; yont kuşu (Motacilla)

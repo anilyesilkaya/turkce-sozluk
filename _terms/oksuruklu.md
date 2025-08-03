@@ -2,6 +2,7 @@
 layout: term
 title: öksürüklü
 slug: oksuruklu
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öksürüğü olan, sürekli öksüren

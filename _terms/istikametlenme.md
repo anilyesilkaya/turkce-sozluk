@@ -2,6 +2,7 @@
 layout: term
 title: istikametlenme
 slug: istikametlenme
+letter: I
 lisan: Türkçe
 anlamlar:
 - İstikametlenmek işi

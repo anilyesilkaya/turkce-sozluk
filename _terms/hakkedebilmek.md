@@ -2,6 +2,7 @@
 layout: term
 title: hakkedebilmek
 slug: hakkedebilmek
+letter: H
 lisan: Arapça ḥakk + Türkçe edebilmek
 anlamlar:
 - Hakketme ihtimali veya imkânı bulunmak

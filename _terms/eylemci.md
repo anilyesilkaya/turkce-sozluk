@@ -2,6 +2,7 @@
 layout: term
 title: eylemci
 slug: eylemci
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eylem yapan ve eylemlere katkılan kişi

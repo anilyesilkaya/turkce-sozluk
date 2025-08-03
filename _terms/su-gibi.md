@@ -2,6 +2,7 @@
 layout: term
 title: su gibi
 slug: su-gibi
+letter: S
 lisan: Türkçe
 anlamlar:
 - çok ıslak

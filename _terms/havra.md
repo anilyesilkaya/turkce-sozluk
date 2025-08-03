@@ -2,6 +2,7 @@
 layout: term
 title: havra
 slug: havra
+letter: H
 lisan: İbranice
 anlamlar:
 - ► sinagog

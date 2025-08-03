@@ -2,6 +2,7 @@
 layout: term
 title: içini kemirmek
 slug: icini-kemirmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - bir üzüntüden rahatsızlık duymak, tedirgin olmak

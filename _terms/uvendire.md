@@ -2,6 +2,7 @@
 layout: term
 title: üvendire
 slug: uvendire
+letter: Ü
 lisan: Rumca
 anlamlar:
 - Çifte koşulan öküzleri yürütmek için kullanılan, ucuna nodul çakılmış uzun değnek; gönder

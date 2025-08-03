@@ -2,6 +2,7 @@
 layout: term
 title: misyon üstlenmek
 slug: misyon-ustlenmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - özel bir görevi üzerine almak

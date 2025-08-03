@@ -2,6 +2,7 @@
 layout: term
 title: afifelik
 slug: afifelik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► iffetlilik

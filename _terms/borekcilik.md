@@ -2,6 +2,7 @@
 layout: term
 title: börekçilik
 slug: borekcilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Börekçinin yaptığı iş

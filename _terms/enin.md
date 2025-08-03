@@ -2,6 +2,7 @@
 layout: term
 title: enin
 slug: enin
+letter: E
 lisan: Arapça enįn
 anlamlar:
 - ► inilti

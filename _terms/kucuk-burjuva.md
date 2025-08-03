@@ -2,6 +2,7 @@
 layout: term
 title: küçük burjuva
 slug: kucuk-burjuva
+letter: K
 lisan: Türkçe
 anlamlar:
 - Gelir düzeyi düşük şehirli halk

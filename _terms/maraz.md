@@ -2,6 +2,7 @@
 layout: term
 title: maraz
 slug: maraz
+letter: M
 lisan: Arapça maraż
 anlamlar:
 - ► hastalık

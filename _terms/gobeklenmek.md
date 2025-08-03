@@ -2,6 +2,7 @@
 layout: term
 title: göbeklenmek
 slug: gobeklenmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Karnı yağlanıp şişmanlamak

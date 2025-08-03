@@ -2,6 +2,7 @@
 layout: term
 title: işlevci
 slug: islevci
+letter: I
 lisan: Türkçe
 anlamlar:
 - İşlevi yerine getiren kimse veya nesne

@@ -2,6 +2,7 @@
 layout: term
 title: muhallebici
 slug: muhallebici
+letter: M
 lisan: Türkçe
 anlamlar:
 - Muhallebi yapan veya satan kimse

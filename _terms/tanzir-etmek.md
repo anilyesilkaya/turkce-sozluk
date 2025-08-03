@@ -2,6 +2,7 @@
 layout: term
 title: tanzir etmek
 slug: tanzir-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - benzetmek

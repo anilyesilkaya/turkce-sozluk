@@ -2,6 +2,7 @@
 layout: term
 title: kıza köpüre
 slug: kiza-kopure
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çok kızarak

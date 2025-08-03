@@ -2,6 +2,7 @@
 layout: term
 title: dut yemiş bülbüle dönmek
 slug: dut-yemis-bulbule-donmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - neşe ve konuşkanlığını yitirmek, susmak

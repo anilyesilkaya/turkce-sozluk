@@ -2,6 +2,7 @@
 layout: term
 title: askerlik
 slug: askerlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Asker olma durumu; askerlik hizmeti, bayrakaltı, vatan borcu, askeriye

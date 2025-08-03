@@ -2,6 +2,7 @@
 layout: term
 title: tekâlif
 slug: tekalif
+letter: T
 lisan: Arapça tekālīf
 anlamlar:
 - Teklifler

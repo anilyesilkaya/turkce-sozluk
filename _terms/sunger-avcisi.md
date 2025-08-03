@@ -2,6 +2,7 @@
 layout: term
 title: sünger avcısı
 slug: sunger-avcisi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Denizden sünger çıkaran veya alıp satan kimse; süngerci

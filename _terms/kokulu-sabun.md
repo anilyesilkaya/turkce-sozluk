@@ -2,6 +2,7 @@
 layout: term
 title: kokulu sabun
 slug: kokulu-sabun
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yapılırken içine koku maddesi katılmış sabun

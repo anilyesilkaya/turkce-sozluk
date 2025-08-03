@@ -2,6 +2,7 @@
 layout: term
 title: baklavacı
 slug: baklavaci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Baklava yapan veya satan kimse

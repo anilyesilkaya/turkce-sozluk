@@ -2,6 +2,7 @@
 layout: term
 title: mertebe
 slug: mertebe
+letter: M
 lisan: Arapça mertebe
 anlamlar:
 - ► aşama

@@ -2,6 +2,7 @@
 layout: term
 title: petunya
 slug: petunya
+letter: P
 lisan: Fransızca pétunia
 anlamlar:
 - Patlıcangillerden, çeşitli renkte çiçekler açan, kokulu bir süs bitkisi (Petunia)

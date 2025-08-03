@@ -2,6 +2,7 @@
 layout: term
 title: zükâm
 slug: zukam
+letter: Z
 lisan: Arapça zukām
 anlamlar:
 - ► nezle

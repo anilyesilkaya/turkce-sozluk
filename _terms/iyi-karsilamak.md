@@ -2,6 +2,7 @@
 layout: term
 title: iyi karşılamak
 slug: iyi-karsilamak
+letter: I
 lisan: Türkçe
 anlamlar:
 - kabul etmek, beğenmek, benimsemek

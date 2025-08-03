@@ -2,6 +2,7 @@
 layout: term
 title: tartılı
 slug: tartili
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tartılmış; vezinli

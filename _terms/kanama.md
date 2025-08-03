@@ -2,6 +2,7 @@
 layout: term
 title: kanama
 slug: kanama
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kanamak işi; nezif

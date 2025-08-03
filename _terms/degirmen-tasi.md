@@ -2,6 +2,7 @@
 layout: term
 title: değirmen taşı
 slug: degirmen-tasi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Değirmende, dönerek taneleri ezen yuvarlak taş

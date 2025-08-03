@@ -2,6 +2,7 @@
 layout: term
 title: tuzak (veya tuzağı) kurmak
 slug: tuzak-veya-tuzagi-kurmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - bir şeyi yakalamak için düzenek hazırlamak

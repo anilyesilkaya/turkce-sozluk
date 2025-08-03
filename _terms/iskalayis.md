@@ -2,6 +2,7 @@
 layout: term
 title: ıskalayış
 slug: iskalayis
+letter: I
 lisan: Türkçe
 anlamlar:
 - Iskalamak işi

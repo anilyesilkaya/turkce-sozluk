@@ -2,6 +2,7 @@
 layout: term
 title: öğretmen
 slug: ogretmen
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Mesleği bilgi öğretmek olan kimse; hoca, muallim, muallime

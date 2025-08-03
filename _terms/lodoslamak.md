@@ -2,6 +2,7 @@
 layout: term
 title: lodoslamak
 slug: lodoslamak
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lodos esmeye başlamak

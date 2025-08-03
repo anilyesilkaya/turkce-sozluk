@@ -2,6 +2,7 @@
 layout: term
 title: ünsüz
 slug: unsuz
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Ünü olmayan; şansız, şöhretsiz

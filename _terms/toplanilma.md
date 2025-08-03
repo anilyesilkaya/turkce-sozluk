@@ -2,6 +2,7 @@
 layout: term
 title: toplanılma
 slug: toplanilma
+letter: T
 lisan: Türkçe
 anlamlar:
 - Toplanılmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: popülist
 slug: populist
+letter: P
 lisan: Fransızca populiste
 anlamlar:
 - Popülizm taraftarı olan (kimse); halkçı

@@ -2,6 +2,7 @@
 layout: term
 title: meditasyon
 slug: meditasyon
+letter: M
 lisan: Fransızca méditation
 anlamlar:
 - ► dalınç

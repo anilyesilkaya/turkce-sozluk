@@ -2,6 +2,7 @@
 layout: term
 title: hinoğluhin
 slug: hinogluhin
+letter: H
 lisan: Türkçe
 anlamlar:
 - Çok kurnaz, her dönemin şartlarına uyabilen (kimse)

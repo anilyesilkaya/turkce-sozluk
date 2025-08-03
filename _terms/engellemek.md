@@ -2,6 +2,7 @@
 layout: term
 title: engellemek
 slug: engellemek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Bir şeyin gerçekleşmesini veya yapılmasını önlemek

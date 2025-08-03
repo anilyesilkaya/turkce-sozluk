@@ -2,6 +2,7 @@
 layout: term
 title: sıvışmak
 slug: sivismak
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► bulaşmak

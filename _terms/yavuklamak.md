@@ -2,6 +2,7 @@
 layout: term
 title: yavuklamak
 slug: yavuklamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► nişanlamak

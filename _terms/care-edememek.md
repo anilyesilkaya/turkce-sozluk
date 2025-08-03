@@ -2,6 +2,7 @@
 layout: term
 title: çare edememek
 slug: care-edememek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - tedavi yolu bulamamak, iyileştirememek

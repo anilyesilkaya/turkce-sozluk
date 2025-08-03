@@ -2,6 +2,7 @@
 layout: term
 title: şirketler birliği
 slug: sirketler-birligi
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Uluslararası kuruluşların ve bazı hükûmetlerin iktisadi ve mali yardımları yürütmek üzere oluşturdukları geçici birlik; konsorsiyum

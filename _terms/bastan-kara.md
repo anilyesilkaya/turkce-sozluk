@@ -2,6 +2,7 @@
 layout: term
 title: baştan kara
 slug: bastan-kara
+letter: B
 lisan: Türkçe
 anlamlar:
 - Geminin başı karaya gelecek biçimde

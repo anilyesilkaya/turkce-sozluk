@@ -2,6 +2,7 @@
 layout: term
 title: tadıverme
 slug: tadiverme
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tadıvermek işi

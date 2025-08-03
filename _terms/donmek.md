@@ -2,6 +2,7 @@
 layout: term
 title: dönmek
 slug: donmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Kendi ekseni üzerinde veya başka bir şeyin dolayında hareket etmek

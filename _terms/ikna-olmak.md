@@ -2,6 +2,7 @@
 layout: term
 title: ikna olmak
 slug: ikna-olmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - inanmak, kanmak

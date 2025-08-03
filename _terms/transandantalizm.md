@@ -2,6 +2,7 @@
 layout: term
 title: transandantalizm
 slug: transandantalizm
+letter: T
 lisan: Fransızca transcendantalisme
 anlamlar:
 - ► deneyüstücülük

@@ -2,6 +2,7 @@
 layout: term
 title: ağırbaşlı
 slug: agirbasli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Davranışları ölçülü, olgun (kimse); ağır, vakarlı, vakur, ciddi, hoppa karşıtı

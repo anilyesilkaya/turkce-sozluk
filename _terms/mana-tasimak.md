@@ -2,6 +2,7 @@
 layout: term
 title: mana taşımak
 slug: mana-tasimak
+letter: M
 lisan: Türkçe
 anlamlar:
 - bir şey ifade etmek, bir anlamı olmak

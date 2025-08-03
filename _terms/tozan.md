@@ -2,6 +2,7 @@
 layout: term
 title: tozan
 slug: tozan
+letter: T
 lisan: Türkçe
 anlamlar:
 - İncecik toz tanesi

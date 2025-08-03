@@ -2,6 +2,7 @@
 layout: term
 title: yetkinlik
 slug: yetkinlik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► olgunluk

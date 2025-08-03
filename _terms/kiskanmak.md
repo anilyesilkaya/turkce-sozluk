@@ -2,6 +2,7 @@
 layout: term
 title: kıskanmak
 slug: kiskanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sevgide veya kendisiyle ilişkili şeylerde bir başkasının ortaklığına, üstün durumda görünmesine dayanamamak

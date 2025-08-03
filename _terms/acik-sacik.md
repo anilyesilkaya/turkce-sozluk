@@ -2,6 +2,7 @@
 layout: term
 title: açık saçık
 slug: acik-sacik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yüz kızartıcı, edepsiz, müstehcen, cinsel çağrışım yüklü (söz, anlatım)

@@ -2,6 +2,7 @@
 layout: term
 title: lebbeyk
 slug: lebbeyk
+letter: L
 lisan: Arapça lebbeyk
 anlamlar:
 - Hac veya umre sırasında Allah’a hitaben söylenen “emir senindir, maksadım daima sensin” anlamında bir söz

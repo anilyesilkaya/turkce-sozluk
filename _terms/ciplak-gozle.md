@@ -2,6 +2,7 @@
 layout: term
 title: çıplak gözle
 slug: ciplak-gozle
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Görmeye yardımcı olacak hiçbir araç kullanmaksızın

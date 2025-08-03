@@ -2,6 +2,7 @@
 layout: term
 title: burkulmak
 slug: burkulmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Burkma işine konu olmak

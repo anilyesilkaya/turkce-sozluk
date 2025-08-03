@@ -2,6 +2,7 @@
 layout: term
 title: ervahına yuf olsun!
 slug: ervahina-yuf-olsun
+letter: E
 lisan: Türkçe
 anlamlar:
 - '"yazıklar olsun, Allah kahretsin!" anlamında kullanılan bir ilenme sözü'

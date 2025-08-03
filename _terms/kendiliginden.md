@@ -2,6 +2,7 @@
 layout: term
 title: kendiliğinden
 slug: kendiliginden
+letter: K
 lisan: Türkçe
 anlamlar:
 - Dış etkilerin zorlaması olmadan iç sebeplerle oluşan

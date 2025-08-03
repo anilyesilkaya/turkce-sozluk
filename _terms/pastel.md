@@ -2,6 +2,7 @@
 layout: term
 title: pastel
 slug: pastel
+letter: P
 lisan: Fransızca pastel
 anlamlar:
 - ► pastel boya

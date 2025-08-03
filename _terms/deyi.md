@@ -2,6 +2,7 @@
 layout: term
 title: deyi
 slug: deyi
+letter: D
 lisan: de'yi
 anlamlar:
 - Diyerek

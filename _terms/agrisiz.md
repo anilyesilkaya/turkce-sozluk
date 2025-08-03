@@ -2,6 +2,7 @@
 layout: term
 title: ağrısız
 slug: agrisiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağrısı olmayan

@@ -2,6 +2,7 @@
 layout: term
 title: zümre
 slug: zumre
+letter: Z
 lisan: Arapça zumre
 anlamlar:
 - ► topluluk

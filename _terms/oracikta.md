@@ -2,6 +2,7 @@
 layout: term
 title: oracıkta
 slug: oracikta
+letter: O
 lisan: Türkçe
 anlamlar:
 - Hemen o yerde, olduğu yerde

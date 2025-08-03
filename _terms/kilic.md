@@ -2,6 +2,7 @@
 layout: term
 title: kılıç
 slug: kilic
+letter: K
 lisan: Türkçe
 anlamlar:
 - Uzun, düz veya eğri, ucu sivri, bir veya her iki yüzü keskin, kın içinde bele takılan, çelikten silah; tığ (II)

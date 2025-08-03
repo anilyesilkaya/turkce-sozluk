@@ -2,6 +2,7 @@
 layout: term
 title: asrilik
 slug: asrilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► çağdaşlık

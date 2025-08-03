@@ -2,6 +2,7 @@
 layout: term
 title: kâtibiadil
 slug: katibiadil
+letter: K
 lisan: Arapça kātib + ʿadl
 anlamlar:
 - ► noter

@@ -2,6 +2,7 @@
 layout: term
 title: yiyip bitirmek
 slug: yiyip-bitirmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - tüketmek

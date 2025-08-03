@@ -2,6 +2,7 @@
 layout: term
 title: çözümlenmek
 slug: cozumlenmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çözümleme işine konu olmak; analiz edilmek, tahlil edilmek

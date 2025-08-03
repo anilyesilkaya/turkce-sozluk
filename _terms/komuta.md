@@ -2,6 +2,7 @@
 layout: term
 title: komuta
 slug: komuta
+letter: K
 lisan: Türkçe
 anlamlar:
 - Askerî birliği ve onunla ilgili işleri yönetme görevi; kumanda

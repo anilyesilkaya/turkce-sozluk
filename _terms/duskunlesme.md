@@ -2,6 +2,7 @@
 layout: term
 title: düşkünleşme
 slug: duskunlesme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düşkünleşmek durumu

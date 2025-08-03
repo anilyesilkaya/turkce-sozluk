@@ -2,6 +2,7 @@
 layout: term
 title: getr
 slug: getr
+letter: G
 lisan: Fransızca guêtre
 anlamlar:
 - Bacağın alt bölümünü ve ayakkabının üstünü örten kumaş veya köseleden yapılmış bir tozluk türü

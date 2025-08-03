@@ -2,6 +2,7 @@
 layout: term
 title: sessizce
 slug: sessizce
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sessiz bir biçimde, sessiz olarak; sessizcesine

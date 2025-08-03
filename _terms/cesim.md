@@ -2,6 +2,7 @@
 layout: term
 title: cesim
 slug: cesim
+letter: C
 lisan: Arapça cesīm
 anlamlar:
 - ► büyük

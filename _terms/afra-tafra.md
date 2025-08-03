@@ -2,6 +2,7 @@
 layout: term
 title: afra tafra
 slug: afra-tafra
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kendini üstün gösterme, üstünlük taslayış; afur tafur

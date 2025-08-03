@@ -2,6 +2,7 @@
 layout: term
 title: fıçılama
 slug: ficilama
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fıçıya koyma, fıçıya doldurma

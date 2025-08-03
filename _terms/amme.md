@@ -2,6 +2,7 @@
 layout: term
 title: Amme
 slug: amme
+letter: A
 lisan: Arapça ʿamme
 anlamlar:
 - ► Amme cüzü

@@ -2,6 +2,7 @@
 layout: term
 title: sürmeli
 slug: surmeli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sürme ile boyanmış olan

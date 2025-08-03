@@ -2,6 +2,7 @@
 layout: term
 title: üstü kapalı
 slug: ustu-kapali
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Açık ve kesin olmayan; eskülabi

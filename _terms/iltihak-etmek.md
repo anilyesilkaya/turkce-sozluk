@@ -2,6 +2,7 @@
 layout: term
 title: iltihak etmek
 slug: iltihak-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - katılmak

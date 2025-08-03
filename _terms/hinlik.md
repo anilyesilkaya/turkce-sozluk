@@ -2,6 +2,7 @@
 layout: term
 title: hinlik
 slug: hinlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hin, kurnaz olma durumu; kurnazlık

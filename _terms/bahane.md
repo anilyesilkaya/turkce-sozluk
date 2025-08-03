@@ -2,6 +2,7 @@
 layout: term
 title: bahane
 slug: bahane
+letter: B
 lisan: Farsça bahāne
 anlamlar:
 - Bir şeyin gerçek sebebi gizlenerek ileri sürülen uydurma sebep; mazeret

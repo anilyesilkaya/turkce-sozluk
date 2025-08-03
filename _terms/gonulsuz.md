@@ -2,6 +2,7 @@
 layout: term
 title: gönülsüz
 slug: gonulsuz
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gönlü olmadan, isteksiz yapılan

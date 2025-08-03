@@ -2,6 +2,7 @@
 layout: term
 title: faiklik
 slug: faiklik
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► üstünlük

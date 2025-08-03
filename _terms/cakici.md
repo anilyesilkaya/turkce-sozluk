@@ -2,6 +2,7 @@
 layout: term
 title: çakıcı
 slug: cakici
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çakı yapan kimse

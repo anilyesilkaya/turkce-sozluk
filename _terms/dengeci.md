@@ -2,6 +2,7 @@
 layout: term
 title: dengeci
 slug: dengeci
+letter: D
 lisan: Türkçe
 anlamlar:
 - Denge ögesini ön planda tutan

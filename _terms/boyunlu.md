@@ -2,6 +2,7 @@
 layout: term
 title: boyunlu
 slug: boyunlu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boynu olan

@@ -2,6 +2,7 @@
 layout: term
 title: takdirde
 slug: takdirde
+letter: T
 lisan: Türkçe
 anlamlar:
 - '...-dığı zaman'

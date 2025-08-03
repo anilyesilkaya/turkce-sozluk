@@ -2,6 +2,7 @@
 layout: term
 title: sıcakkanlı
 slug: sicakkanli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Normal vücut sıcaklığı, içinde bulundukları ortamın sıcaklığından bağımsız olan (hayvan)

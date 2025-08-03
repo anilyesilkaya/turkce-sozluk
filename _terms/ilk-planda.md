@@ -2,6 +2,7 @@
 layout: term
 title: ilk planda
 slug: ilk-planda
+letter: I
 lisan: Türkçe
 anlamlar:
 - İlk olarak

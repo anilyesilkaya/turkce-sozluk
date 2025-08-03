@@ -2,6 +2,7 @@
 layout: term
 title: demini almak
 slug: demini-almak
+letter: D
 lisan: Türkçe
 anlamlar:
 - çay iyice demlenmiş olmak

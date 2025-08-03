@@ -2,6 +2,7 @@
 layout: term
 title: sureta
 slug: sureta
+letter: S
 lisan: Arapça ṣūretā
 anlamlar:
 - ► görünüşte

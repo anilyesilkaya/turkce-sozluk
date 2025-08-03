@@ -2,6 +2,7 @@
 layout: term
 title: kum
 slug: kum
+letter: K
 lisan: Türkçe
 anlamlar:
 - Silisli kütlelerin, kayaların, doğal etkenlerle parçalanarak ufalanmasından oluşan, deniz kıyısı, dere yatağı vb. yerlerde çok bulunan, ufak, sert tanecikler

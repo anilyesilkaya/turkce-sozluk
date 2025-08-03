@@ -2,6 +2,7 @@
 layout: term
 title: beter
 slug: beter
+letter: B
 lisan: Farsça bedter
 anlamlar:
 - Daha kötü, çok kötü

@@ -2,6 +2,7 @@
 layout: term
 title: çiğneyiş
 slug: cigneyis
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çiğnemek işi

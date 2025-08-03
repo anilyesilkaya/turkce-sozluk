@@ -2,6 +2,7 @@
 layout: term
 title: aksilik
 slug: aksilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir işin yolunda gitmemesi durumu; terslik

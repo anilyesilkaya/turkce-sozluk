@@ -2,6 +2,7 @@
 layout: term
 title: zecren
 slug: zecren
+letter: Z
 lisan: Arapça zecren
 anlamlar:
 - Yasaklayarak

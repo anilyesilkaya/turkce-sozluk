@@ -2,6 +2,7 @@
 layout: term
 title: tümevarımcılık
 slug: tumevarimcilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Akıl yürütmede tümevarım yöntemini uygulama işi

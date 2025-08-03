@@ -2,6 +2,7 @@
 layout: term
 title: berhava etmek
 slug: berhava-etmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - havaya uçurmak

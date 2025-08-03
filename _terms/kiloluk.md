@@ -2,6 +2,7 @@
 layout: term
 title: kiloluk
 slug: kiloluk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Herhangi bir kilo ağırlığında

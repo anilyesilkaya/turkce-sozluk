@@ -2,6 +2,7 @@
 layout: term
 title: kafasını sokmak
 slug: kafasini-sokmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - barınabilecek bir yere yerleşmek, başını sokmak

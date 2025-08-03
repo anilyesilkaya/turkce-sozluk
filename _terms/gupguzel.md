@@ -2,6 +2,7 @@
 layout: term
 title: güpgüzel
 slug: gupguzel
+letter: G
 lisan: Türkçe
 anlamlar:
 - Çok güzel

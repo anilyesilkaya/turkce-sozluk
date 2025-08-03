@@ -2,6 +2,7 @@
 layout: term
 title: halimlik
 slug: halimlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Halim olma durumu

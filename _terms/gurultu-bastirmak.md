@@ -2,6 +2,7 @@
 layout: term
 title: gürültü bastırmak
 slug: gurultu-bastirmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - gürültüden daha güçlü ses çıkarıp onu etkisizleştirmek

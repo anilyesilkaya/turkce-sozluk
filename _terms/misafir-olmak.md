@@ -2,6 +2,7 @@
 layout: term
 title: misafir olmak
 slug: misafir-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - bir yerde konuk olarak karşılanıp gerekli ilgiyi, izzet ve ikramı görmek

@@ -2,6 +2,7 @@
 layout: term
 title: hışıldatmak
 slug: hisildatmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hışıldamasına sebep olmak

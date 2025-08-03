@@ -2,6 +2,7 @@
 layout: term
 title: geceleme
 slug: geceleme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gecelemek işi

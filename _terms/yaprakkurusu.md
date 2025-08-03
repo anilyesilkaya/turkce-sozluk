@@ -2,6 +2,7 @@
 layout: term
 title: yaprakkurusu
 slug: yaprakkurusu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Kuru yaprak rengi

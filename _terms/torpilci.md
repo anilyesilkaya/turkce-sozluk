@@ -2,6 +2,7 @@
 layout: term
 title: torpilci
 slug: torpilci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Torpil ile uğraşan kimse

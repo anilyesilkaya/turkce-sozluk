@@ -2,6 +2,7 @@
 layout: term
 title: iftira çalmak
 slug: iftira-calmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - iftira etmek

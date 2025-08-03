@@ -2,6 +2,7 @@
 layout: term
 title: ilgi göstermek
 slug: ilgi-gostermek
+letter: I
 lisan: Türkçe
 anlamlar:
 - ilgisini esirgememek, belli etmek

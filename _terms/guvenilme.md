@@ -2,6 +2,7 @@
 layout: term
 title: güvenilme
 slug: guvenilme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güven duyulma, güvenle bakılma

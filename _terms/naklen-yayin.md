@@ -2,6 +2,7 @@
 layout: term
 title: naklen yayın
 slug: naklen-yayin
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► canlı yayın

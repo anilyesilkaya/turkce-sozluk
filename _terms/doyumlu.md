@@ -2,6 +2,7 @@
 layout: term
 title: doyumlu
 slug: doyumlu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Doymuş, doyumu olan

@@ -2,6 +2,7 @@
 layout: term
 title: koyma akıl
 slug: koyma-akil
+letter: K
 lisan: Türkçe
 anlamlar:
 - Denenmemiş, etkisi kısa süren, o an için ortaya atılmış bir öğüt türü

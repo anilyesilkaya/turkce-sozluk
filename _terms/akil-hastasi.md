@@ -2,6 +2,7 @@
 layout: term
 title: akıl hastası
 slug: akil-hastasi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Düşünme, anlama, kavrama, karar verme, önlem alma, insanlarla ilişki kurma vb. yeteneklerinde eksiklik veya bozukluk olan kimse; ruh hastası

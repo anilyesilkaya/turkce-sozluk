@@ -2,6 +2,7 @@
 layout: term
 title: boz bulanık
 slug: boz-bulanik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çok bulanık

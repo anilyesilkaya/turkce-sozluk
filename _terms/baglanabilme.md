@@ -2,6 +2,7 @@
 layout: term
 title: bağlanabilme
 slug: baglanabilme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağlanabilmek işi

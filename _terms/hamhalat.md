@@ -2,6 +2,7 @@
 layout: term
 title: hamhalat
 slug: hamhalat
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► görgüsüz

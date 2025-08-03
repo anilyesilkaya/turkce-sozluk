@@ -2,6 +2,7 @@
 layout: term
 title: incir çekirdeği doldurmamak
 slug: incir-cekirdegi-doldurmamak
+letter: I
 lisan: Türkçe
 anlamlar:
 - çok az veya çok önemsiz olmak

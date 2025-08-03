@@ -2,6 +2,7 @@
 layout: term
 title: insancıllık
 slug: insancillik
+letter: I
 lisan: Türkçe
 anlamlar:
 - Eski Yunan ve Latin kültürünü en yüksek kültür örneği olarak alan ve Orta Çağın skolastik düşünüşüne karşı XIV. yüzyılda doğan felsefe, bilim ve sanat görüşü; beşeriyetçilik, insancılık, hümanistlik, hümanizm, hümanizma

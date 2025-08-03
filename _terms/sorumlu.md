@@ -2,6 +2,7 @@
 layout: term
 title: sorumlu
 slug: sorumlu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Üstüne aldığı veya yaptığı işlerden dolayı hesap vermek zorunda olan, sorumluluk taşıyan (kimse); mesul, mesuliyetli

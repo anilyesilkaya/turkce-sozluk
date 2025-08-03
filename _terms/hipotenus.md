@@ -2,6 +2,7 @@
 layout: term
 title: hipotenüs
 slug: hipotenus
+letter: H
 lisan: Fransızca hypoténuse
 anlamlar:
 - Bir dik üçgende, dik açının karşısında bulunan kenar

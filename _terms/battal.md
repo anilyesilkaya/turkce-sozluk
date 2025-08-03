@@ -2,6 +2,7 @@
 layout: term
 title: battal
 slug: battal
+letter: B
 lisan: Arapça baṭṭāl
 anlamlar:
 - En ve boyca alışılmış olandan büyük

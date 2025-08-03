@@ -2,6 +2,7 @@
 layout: term
 title: deneycilik
 slug: deneycilik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bilginin gözlem, deneme veya duyular ile elde edilebileceğini ileri süren geleneksel öğreti; görgücülük, ampirizm, akılcılık karşıtı

@@ -2,6 +2,7 @@
 layout: term
 title: tevbih
 slug: tevbih
+letter: T
 lisan: Arapça tevbīḫ
 anlamlar:
 - ► azarlama

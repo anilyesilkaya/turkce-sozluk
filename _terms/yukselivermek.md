@@ -2,6 +2,7 @@
 layout: term
 title: yükselivermek
 slug: yukselivermek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Çabucak veya ansızın yükselmek

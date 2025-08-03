@@ -2,6 +2,7 @@
 layout: term
 title: şunu bunu
 slug: sunu-bunu
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - çeşitli nesneleri

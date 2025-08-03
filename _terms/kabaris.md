@@ -2,6 +2,7 @@
 layout: term
 title: kabarış
 slug: kabaris
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kabarmak işi

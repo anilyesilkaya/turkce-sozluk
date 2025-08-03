@@ -2,6 +2,7 @@
 layout: term
 title: müsabık
 slug: musabik
+letter: M
 lisan: Arapça musābiḳ
 anlamlar:
 - ► yarışçı

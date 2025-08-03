@@ -2,6 +2,7 @@
 layout: term
 title: aperitif
 slug: aperitif
+letter: A
 lisan: Fransızca apéritif
 anlamlar:
 - ► ön içki

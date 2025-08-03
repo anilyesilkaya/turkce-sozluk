@@ -2,6 +2,7 @@
 layout: term
 title: birleşik
 slug: birlesik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir araya gelmiş, birleşmiş olan; müttehit

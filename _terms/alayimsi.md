@@ -2,6 +2,7 @@
 layout: term
 title: alayımsı
 slug: alayimsi
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► alaysı

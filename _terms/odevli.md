@@ -2,6 +2,7 @@
 layout: term
 title: ödevli
 slug: odevli
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ödev yüklenmiş olan; vazifeli

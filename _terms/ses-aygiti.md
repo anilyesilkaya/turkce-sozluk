@@ -2,6 +2,7 @@
 layout: term
 title: ses aygıtı
 slug: ses-aygiti
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sesin kaydedilmesi veya çıkması için gerekli olan aletler bütünü; ses aleti

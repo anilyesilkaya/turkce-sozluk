@@ -2,6 +2,7 @@
 layout: term
 title: fıkır fıkır
 slug: fikir-fikir
+letter: F
 lisan: Türkçe
 anlamlar:
 - Cilveli, oynak olan

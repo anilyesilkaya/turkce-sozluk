@@ -2,6 +2,7 @@
 layout: term
 title: tanım
 slug: tanim
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir kavramın niteliklerini eksiksiz olarak belirtme veya açıklama; tarif

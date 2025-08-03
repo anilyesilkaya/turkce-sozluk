@@ -2,6 +2,7 @@
 layout: term
 title: hız vermek
 slug: hiz-vermek
+letter: H
 lisan: Türkçe
 anlamlar:
 - hızını artırmak, hızlandırmak

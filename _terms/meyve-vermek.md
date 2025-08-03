@@ -2,6 +2,7 @@
 layout: term
 title: meyve vermek
 slug: meyve-vermek
+letter: M
 lisan: Türkçe
 anlamlar:
 - ürün vermek

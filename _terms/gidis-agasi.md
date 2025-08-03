@@ -2,6 +2,7 @@
 layout: term
 title: gidiş ağası
 slug: gidis-agasi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Padişah veya devlet adamlarının bir yere gidişlerinde gerekli hazırlıkları yapan ve yanlarında bulunan görevli

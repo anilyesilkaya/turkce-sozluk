@@ -2,6 +2,7 @@
 layout: term
 title: fakatsız
 slug: fakatsiz
+letter: F
 lisan: Türkçe
 anlamlar:
 - Herhangi bir bahane, şart ileri sürmeyen

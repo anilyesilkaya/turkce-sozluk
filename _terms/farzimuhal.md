@@ -2,6 +2,7 @@
 layout: term
 title: farzımuhal
 slug: farzimuhal
+letter: F
 lisan: Arapça farż + muḥāl
 anlamlar:
 - Olmayacak, gerçekleşmeyecek bir şeyi olacakmış, gerçekleşecekmiş gibi düşünerek, sayarak

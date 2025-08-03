@@ -2,6 +2,7 @@
 layout: term
 title: saati saatine
 slug: saati-saatine
+letter: S
 lisan: Türkçe
 anlamlar:
 - Tam vaktinde

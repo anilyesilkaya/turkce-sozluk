@@ -2,6 +2,7 @@
 layout: term
 title: oyacılık
 slug: oyacilik
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oya yapma ve satma işi

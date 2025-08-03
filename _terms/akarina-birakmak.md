@@ -2,6 +2,7 @@
 layout: term
 title: akarına bırakmak
 slug: akarina-birakmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - işin sonucunu sabırla beklemek, doğal gelişmeyi beklemek

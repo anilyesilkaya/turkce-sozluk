@@ -2,6 +2,7 @@
 layout: term
 title: bakar kör
 slug: bakar-kor
+letter: B
 lisan: Türkçe
 anlamlar:
 - Gözleri sağlam göründüğü hâlde göremeyen

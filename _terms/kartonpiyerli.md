@@ -2,6 +2,7 @@
 layout: term
 title: kartonpiyerli
 slug: kartonpiyerli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kartonpiyeri olan

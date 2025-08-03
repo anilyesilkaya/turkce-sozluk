@@ -2,6 +2,7 @@
 layout: term
 title: sapartayı vermek
 slug: sapartayi-vermek
+letter: S
 lisan: Türkçe
 anlamlar:
 - azarlamak, terslemek

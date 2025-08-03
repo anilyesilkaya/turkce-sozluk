@@ -2,6 +2,7 @@
 layout: term
 title: kârsızca
 slug: karsizca
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kârsız bir biçimde

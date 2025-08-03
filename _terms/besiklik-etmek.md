@@ -2,6 +2,7 @@
 layout: term
 title: beşiklik etmek
 slug: besiklik-etmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - beşiklik görevini yapmak

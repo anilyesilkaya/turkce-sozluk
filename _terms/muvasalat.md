@@ -2,6 +2,7 @@
 layout: term
 title: muvasalat
 slug: muvasalat
+letter: M
 lisan: Arapça muvāṣalat
 anlamlar:
 - Bir yere ulaşma, varma

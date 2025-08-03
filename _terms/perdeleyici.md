@@ -2,6 +2,7 @@
 layout: term
 title: perdeleyici
 slug: perdeleyici
+letter: P
 lisan: Türkçe
 anlamlar:
 - Basketbolda rakibin önüne geçerek top almasını engelleyen oyuncu

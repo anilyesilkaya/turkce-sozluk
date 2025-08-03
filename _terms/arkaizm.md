@@ -2,6 +2,7 @@
 layout: term
 title: arkaizm
 slug: arkaizm
+letter: A
 lisan: Fransızca archaïsme
 anlamlar:
 - Kullanıldığı çağdan daha eski bir çağa ait biçimin, yapının özelliği

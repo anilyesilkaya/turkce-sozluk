@@ -2,6 +2,7 @@
 layout: term
 title: tek durmamak
 slug: tek-durmamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - bir taraf öbür tarafa karşı bazı hareket ve çalışmalar içinde bulunmak

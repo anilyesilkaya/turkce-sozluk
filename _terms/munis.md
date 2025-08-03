@@ -2,6 +2,7 @@
 layout: term
 title: munis
 slug: munis
+letter: M
 lisan: Arapça mūnis
 anlamlar:
 - Alışılan, alışılmış

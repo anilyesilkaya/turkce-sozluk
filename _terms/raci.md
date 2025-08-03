@@ -2,6 +2,7 @@
 layout: term
 title: raci
 slug: raci
+letter: R
 lisan: Arapça rāciʿ
 anlamlar:
 - Geri dönen

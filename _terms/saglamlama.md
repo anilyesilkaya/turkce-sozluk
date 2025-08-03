@@ -2,6 +2,7 @@
 layout: term
 title: sağlamlama
 slug: saglamlama
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sağlamlamak işi

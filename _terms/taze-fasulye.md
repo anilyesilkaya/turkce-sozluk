@@ -2,6 +2,7 @@
 layout: term
 title: taze fasulye
 slug: taze-fasulye
+letter: T
 lisan: Türkçe
 anlamlar:
 - Fasulye bitkisinin taze ve turfanda olanı; yeşil fasulye

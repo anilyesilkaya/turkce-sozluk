@@ -2,6 +2,7 @@
 layout: term
 title: ne var ne yok
 slug: ne-var-ne-yok
+letter: N
 lisan: Türkçe
 anlamlar:
 - her şey

@@ -2,6 +2,7 @@
 layout: term
 title: kol demiri
 slug: kol-demiri
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir kapıyı kapadıktan sonra dışarıdan açılmaması için duvarla kapı arasına konan demir destek

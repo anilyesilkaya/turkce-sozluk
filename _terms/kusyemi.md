@@ -2,6 +2,7 @@
 layout: term
 title: kuşyemi
 slug: kusyemi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Buğdaygillerden, durgun sularda yetişen bir bitki (Phalaris canariensis)

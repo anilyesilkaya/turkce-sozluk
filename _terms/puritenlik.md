@@ -2,6 +2,7 @@
 layout: term
 title: püritenlik
 slug: puritenlik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Püriten olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: katakulli
 slug: katakulli
+letter: K
 lisan: Fransızca fait accompli'den
 anlamlar:
 - Yalan dolan, oyun, tuzak, düzen

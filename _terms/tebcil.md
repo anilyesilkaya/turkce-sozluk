@@ -2,6 +2,7 @@
 layout: term
 title: tebcil
 slug: tebcil
+letter: T
 lisan: Arapça tebcīl
 anlamlar:
 - Saygı gösterip ağırlama

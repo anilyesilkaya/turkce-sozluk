@@ -2,6 +2,7 @@
 layout: term
 title: vecibe
 slug: vecibe
+letter: V
 lisan: Arapça vecībe
 anlamlar:
 - ► boyun borcu

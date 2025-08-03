@@ -2,6 +2,7 @@
 layout: term
 title: çökelek
 slug: cokelek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Yağı alınmış süt veya yoğurdun kaynatılmasıyla elde edilen bir peynir türü; kesik, ekşimik, torak

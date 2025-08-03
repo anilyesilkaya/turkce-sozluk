@@ -2,6 +2,7 @@
 layout: term
 title: istatistik
 slug: istatistik
+letter: I
 lisan: Fransızca statistique
 anlamlar:
 - Bir sonuç çıkarmak için verileri yöntemli bir biçimde toplayıp sayı olarak belirtme işi; sayımlama (I)

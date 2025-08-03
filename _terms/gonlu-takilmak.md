@@ -2,6 +2,7 @@
 layout: term
 title: gönlü takılmak
 slug: gonlu-takilmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - bir şeye karşı ilgi duymak

@@ -2,6 +2,7 @@
 layout: term
 title: can yeleği
 slug: can-yelegi
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► cankurtaran yeleği

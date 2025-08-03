@@ -2,6 +2,7 @@
 layout: term
 title: yanına bırakmamak (veya koymamak)
 slug: yanina-birakmamak-veya-koymamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - cezasız bırakmamak, öç almak

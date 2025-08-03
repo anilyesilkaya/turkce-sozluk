@@ -2,6 +2,7 @@
 layout: term
 title: spiralli
 slug: spiralli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Spirali olan

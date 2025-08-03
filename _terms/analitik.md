@@ -2,6 +2,7 @@
 layout: term
 title: analitik
 slug: analitik
+letter: A
 lisan: Fransızca analytique
 anlamlar:
 - ► çözümlemeli

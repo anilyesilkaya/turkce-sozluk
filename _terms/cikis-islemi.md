@@ -2,6 +2,7 @@
 layout: term
 title: çıkış işlemi
 slug: cikis-islemi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Konaklama yerlerinden ayrılırken yapılan işlem

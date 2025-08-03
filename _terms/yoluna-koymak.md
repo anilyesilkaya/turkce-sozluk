@@ -2,6 +2,7 @@
 layout: term
 title: yoluna koymak
 slug: yoluna-koymak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - istenilen biçime getirmek, düzene koymak

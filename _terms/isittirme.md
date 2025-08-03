@@ -2,6 +2,7 @@
 layout: term
 title: işittirme
 slug: isittirme
+letter: I
 lisan: Türkçe
 anlamlar:
 - İşittirmek işi

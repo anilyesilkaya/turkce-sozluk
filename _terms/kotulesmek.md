@@ -2,6 +2,7 @@
 layout: term
 title: kötüleşmek
 slug: kotulesmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kötü duruma gelmek

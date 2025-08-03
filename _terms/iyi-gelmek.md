@@ -2,6 +2,7 @@
 layout: term
 title: iyi gelmek
 slug: iyi-gelmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - yaramak

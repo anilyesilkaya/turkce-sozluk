@@ -2,6 +2,7 @@
 layout: term
 title: gurul gurul
 slug: gurul-gurul
+letter: G
 lisan: Türkçe
 anlamlar:
 - “Gur gur” sesi

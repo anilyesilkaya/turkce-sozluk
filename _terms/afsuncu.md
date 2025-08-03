@@ -2,6 +2,7 @@
 layout: term
 title: afsuncu
 slug: afsuncu
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► büyücü

@@ -2,6 +2,7 @@
 layout: term
 title: gözünü toprak doyursun
 slug: gozunu-toprak-doyursun
+letter: G
 lisan: Türkçe
 anlamlar:
 - kendinde olan veya kendisine verilen şey ne kadar çok olursa olsun, bununla yetinmeyenler için söylenen bir ilenme sözü

@@ -2,6 +2,7 @@
 layout: term
 title: giyinik
 slug: giyinik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Giyinmiş olan

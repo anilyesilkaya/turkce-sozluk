@@ -2,6 +2,7 @@
 layout: term
 title: öyleyse
 slug: oyleyse
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Bu durum karşısında, sonuç olarak denilebilir ki; o hâlde

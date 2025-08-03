@@ -2,6 +2,7 @@
 layout: term
 title: kötüleyebilmek
 slug: kotuleyebilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kötüleme ihtimali veya imkânı bulunmak

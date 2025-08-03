@@ -2,6 +2,7 @@
 layout: term
 title: besin
 slug: besin
+letter: B
 lisan: Türkçe
 anlamlar:
 - Yenilebilir, beslenmeye elverişli her tür madde; gıda

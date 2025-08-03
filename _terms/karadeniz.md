@@ -2,6 +2,7 @@
 layout: term
 title: Karadeniz
 slug: karadeniz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çok düşünceli ve durgun görünen kimseler için kullanılan Karadeniz'de gemilerin mi battı? deyiminde geçen bir söz

@@ -2,6 +2,7 @@
 layout: term
 title: aydınlık
 slug: aydinlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir yeri aydınlatan güç, ışık; gün ışığı

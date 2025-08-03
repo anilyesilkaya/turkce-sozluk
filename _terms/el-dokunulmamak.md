@@ -2,6 +2,7 @@
 layout: term
 title: el dokunulmamak
 slug: el-dokunulmamak
+letter: E
 lisan: Türkçe
 anlamlar:
 - daha önce kullanılmamak, el değmemiş olmak

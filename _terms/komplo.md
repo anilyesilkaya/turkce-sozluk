@@ -2,6 +2,7 @@
 layout: term
 title: komplo
 slug: komplo
+letter: K
 lisan: Fransızca complot
 anlamlar:
 - ► düzen

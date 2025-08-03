@@ -2,6 +2,7 @@
 layout: term
 title: iz sürmek
 slug: iz-surmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - izlemek, arkasından gitmek, takip etmek

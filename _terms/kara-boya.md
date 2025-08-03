@@ -2,6 +2,7 @@
 layout: term
 title: kara boya
 slug: kara-boya
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► sülfürik asit

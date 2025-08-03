@@ -2,6 +2,7 @@
 layout: term
 title: kuruntu
 slug: kuruntu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yanlış ve yersiz düşünce

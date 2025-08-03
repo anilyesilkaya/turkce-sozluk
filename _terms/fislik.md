@@ -2,6 +2,7 @@
 layout: term
 title: fişlik
 slug: fislik
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fiş koymaya yarar yer veya kutu

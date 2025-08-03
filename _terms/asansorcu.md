@@ -2,6 +2,7 @@
 layout: term
 title: asansörcü
 slug: asansorcu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Asansör üretimi yapan ve binalara yerleştiren kimse

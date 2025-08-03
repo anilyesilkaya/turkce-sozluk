@@ -2,6 +2,7 @@
 layout: term
 title: soruşmak
 slug: sorusmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► kurumak

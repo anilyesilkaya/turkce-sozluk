@@ -2,6 +2,7 @@
 layout: term
 title: cumhurca
 slug: cumhurca
+letter: C
 lisan: Türkçe
 anlamlar:
 - Toplu olarak, hep birlikte

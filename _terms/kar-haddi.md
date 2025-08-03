@@ -2,6 +2,7 @@
 layout: term
 title: kâr haddi
 slug: kar-haddi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kazancın sınırı

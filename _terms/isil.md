@@ -2,6 +2,7 @@
 layout: term
 title: ışıl
 slug: isil
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► ışıklı

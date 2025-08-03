@@ -2,6 +2,7 @@
 layout: term
 title: mormenekşe
 slug: mormenekse
+letter: M
 lisan: Türkçe
 anlamlar:
 - Rengi mora çalan bir tür menekşe

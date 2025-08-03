@@ -2,6 +2,7 @@
 layout: term
 title: fırlatıvermek
 slug: firlativermek
+letter: F
 lisan: Türkçe
 anlamlar:
 - Ansızın fırlatmak

@@ -2,6 +2,7 @@
 layout: term
 title: sıktırmak
 slug: siktirmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıkma işini yaptırmak

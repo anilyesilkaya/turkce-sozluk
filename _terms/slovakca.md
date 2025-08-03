@@ -2,6 +2,7 @@
 layout: term
 title: Slovakça
 slug: slovakca
+letter: S
 lisan: Türkçe
 anlamlar:
 - Slovakların kullandığı dil

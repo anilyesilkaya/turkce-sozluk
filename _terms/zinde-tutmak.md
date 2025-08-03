@@ -2,6 +2,7 @@
 layout: term
 title: zinde tutmak
 slug: zinde-tutmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - genç ve diri kalmasını sağlamak

@@ -2,6 +2,7 @@
 layout: term
 title: kendini kaybetmek
 slug: kendini-kaybetmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - bayılmak

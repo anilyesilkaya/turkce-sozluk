@@ -2,6 +2,7 @@
 layout: term
 title: telaşe
 slug: telase
+letter: T
 lisan: Arapça telāşī
 anlamlar:
 - ► telaş

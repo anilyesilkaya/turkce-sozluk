@@ -2,6 +2,7 @@
 layout: term
 title: üst dudak
 slug: ust-dudak
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Dudaklardan üstte bulunanı

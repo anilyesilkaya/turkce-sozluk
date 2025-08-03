@@ -2,6 +2,7 @@
 layout: term
 title: ıtırşahi
 slug: itirsahi
+letter: I
 lisan: Arapça ʿıṭr + Farsça şāh + Arapça -į
 anlamlar:
 - Baklagillerden, sıcak iklimlerde yetişen, kokulu, çeşitli renkte çiçekleri olan bir süs bitkisi; bezelye çiçeği, kokulu bezelye, nazende çiçeği, İstanbul nazendesi (Lathyrus odoratus)

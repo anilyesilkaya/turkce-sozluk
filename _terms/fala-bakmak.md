@@ -2,6 +2,7 @@
 layout: term
 title: fala bakmak
 slug: fala-bakmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - fal açmak

@@ -2,6 +2,7 @@
 layout: term
 title: oluru
 slug: oluru
+letter: O
 lisan: Türkçe
 anlamlar:
 - Pazarlıkta olabilecek en düşük fiyat

@@ -2,6 +2,7 @@
 layout: term
 title: kuyruğu titretmek
 slug: kuyrugu-titretmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - ölmek

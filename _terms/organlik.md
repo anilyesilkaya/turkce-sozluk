@@ -2,6 +2,7 @@
 layout: term
 title: organlık
 slug: organlik
+letter: O
 lisan: Türkçe
 anlamlar:
 - Organ olma durumu

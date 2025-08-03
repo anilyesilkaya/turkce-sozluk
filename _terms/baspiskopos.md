@@ -2,6 +2,7 @@
 layout: term
 title: başpiskopos
 slug: baspiskopos
+letter: B
 lisan: Türkçe baş + Yunanca
 anlamlar:
 - Katoliklerde piskoposların başı olan din adamı; arşevek

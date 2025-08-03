@@ -2,6 +2,7 @@
 layout: term
 title: sitem
 slug: sitem
+letter: S
 lisan: Farsça sitem
 anlamlar:
 - Bir kimseye, yaptığı bir hareketin veya söylediği sözün üzüntü, alınganlık, kırgınlık vb. duygular uyandırdığını öfkelenmeden belirtme

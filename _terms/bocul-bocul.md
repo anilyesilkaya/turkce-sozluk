@@ -2,6 +2,7 @@
 layout: term
 title: böcül böcül
 slug: bocul-bocul
+letter: B
 lisan: Türkçe
 anlamlar:
 - Gözlerini iki yana oynatarak (bakmak)

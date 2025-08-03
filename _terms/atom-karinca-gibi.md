@@ -2,6 +2,7 @@
 layout: term
 title: atom karınca gibi
 slug: atom-karinca-gibi
+letter: A
 lisan: Türkçe
 anlamlar:
 - çok hızlı biçimde

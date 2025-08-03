@@ -2,6 +2,7 @@
 layout: term
 title: kervan
 slug: kervan
+letter: K
 lisan: Farsça kārbān
 anlamlar:
 - Uzak yerlere yolcu ve ticaret eşyası taşıyan yük hayvanı katarı

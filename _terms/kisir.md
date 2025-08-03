@@ -2,6 +2,7 @@
 layout: term
 title: kışır
 slug: kisir
+letter: K
 lisan: Arapça ḳişr
 anlamlar:
 - ► kabuk

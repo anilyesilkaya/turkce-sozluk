@@ -2,6 +2,7 @@
 layout: term
 title: taşkınlık
 slug: taskinlik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taşkın olma durumu; tuğyan

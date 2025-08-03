@@ -2,6 +2,7 @@
 layout: term
 title: apre
 slug: apre
+letter: A
 lisan: Fransızca apprêt
 anlamlar:
 - Kumaş veya derinin cilalanması

@@ -2,6 +2,7 @@
 layout: term
 title: takdirname
 slug: takdirname
+letter: T
 lisan: Arapça taḳdīr + Farsça nāme
 anlamlar:
 - Yapılan bir işin beğenildiğini belirtmek amacıyla verilen yazılı belge; takdir

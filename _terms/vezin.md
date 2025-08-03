@@ -2,6 +2,7 @@
 layout: term
 title: vezin
 slug: vezin
+letter: V
 lisan: Arapça vezn
 anlamlar:
 - ► ölçü

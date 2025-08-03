@@ -2,6 +2,7 @@
 layout: term
 title: yeminli mali müşavir
 slug: yeminli-mali-musavir
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Mesleğinde on yılı tamamladıktan sonra girdiği sınavda başarılı olan, yemin ederek göreve başlayan ve serbest muhasebeci mali müşavirlikten farklı yetkilere sahip muhasebeci; yeminli muhasebeci

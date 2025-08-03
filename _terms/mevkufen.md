@@ -2,6 +2,7 @@
 layout: term
 title: mevkufen
 slug: mevkufen
+letter: M
 lisan: Arapça mevḳūfen
 anlamlar:
 - Tutuklu olarak

@@ -2,6 +2,7 @@
 layout: term
 title: çelimli
 slug: celimli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Güçlü olan

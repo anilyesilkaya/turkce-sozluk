@@ -2,6 +2,7 @@
 layout: term
 title: ete kemiğe dönüştürmek (veya büründürmek)
 slug: ete-kemige-donusturmek-veya-burundurmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - canlandırmak

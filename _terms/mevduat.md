@@ -2,6 +2,7 @@
 layout: term
 title: mevduat
 slug: mevduat
+letter: M
 lisan: Arapça mevdūʿāt
 anlamlar:
 - Belli bir süre sonunda veya istenildiğinde çekilmek üzere bankalara faizle yatırılan para; tevdiat

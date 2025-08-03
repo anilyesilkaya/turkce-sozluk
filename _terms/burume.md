@@ -2,6 +2,7 @@
 layout: term
 title: bürüme
 slug: burume
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bürümek işi

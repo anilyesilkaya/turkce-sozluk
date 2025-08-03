@@ -2,6 +2,7 @@
 layout: term
 title: başına kakmak (veya kakınç etmek)
 slug: basina-kakmak-veya-kakinc-etmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - yapılan bir iyiliği yüzüne vurarak birini üzmek

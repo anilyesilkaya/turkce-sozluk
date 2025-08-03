@@ -2,6 +2,7 @@
 layout: term
 title: pirekapan
 slug: pirekapan
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► pire otu

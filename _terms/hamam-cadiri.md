@@ -2,6 +2,7 @@
 layout: term
 title: hamam çadırı
 slug: hamam-cadiri
+letter: H
 lisan: Türkçe
 anlamlar:
 - Eskiden savaşlarda askerlerin yıkanması için kullanılan, keçeden yapılan çadır

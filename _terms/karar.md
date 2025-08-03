@@ -2,6 +2,7 @@
 layout: term
 title: karar
 slug: karar
+letter: K
 lisan: Arapça ḳarār
 anlamlar:
 - Bir iş veya sorun hakkında düşünülerek verilen kesin yargı

@@ -2,6 +2,7 @@
 layout: term
 title: evveliyat
 slug: evveliyat
+letter: E
 lisan: Arapça evveliyyāt
 anlamlar:
 - Bir işin önceki evreleri

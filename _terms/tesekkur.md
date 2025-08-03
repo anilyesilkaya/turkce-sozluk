@@ -2,6 +2,7 @@
 layout: term
 title: teşekkür
 slug: tesekkur
+letter: T
 lisan: Arapça teşekkur
 anlamlar:
 - Yapılan bir iyiliğe karşı duyulan kıvanç ve gönül borcunu anlatma

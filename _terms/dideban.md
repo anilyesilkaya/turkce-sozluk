@@ -2,6 +2,7 @@
 layout: term
 title: dideban
 slug: dideban
+letter: D
 lisan: Farsça dīdebān
 anlamlar:
 - ► gümrük kolcusu

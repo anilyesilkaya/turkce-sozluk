@@ -2,6 +2,7 @@
 layout: term
 title: simülatör
 slug: simulator
+letter: S
 lisan: Fransızca simulateur
 anlamlar:
 - Bilişim teknolojileri kullanılarak yapılan, gerçeğe uygun yapay öğrenme aygıtı; öğrencelik

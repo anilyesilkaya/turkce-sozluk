@@ -2,6 +2,7 @@
 layout: term
 title: esrarkeş
 slug: esrarkes
+letter: E
 lisan: Türkçe esrar + Farsça -keş
 anlamlar:
 - Esrar kullanmayı alışkanlık durumuna getiren kimse, keş (II)

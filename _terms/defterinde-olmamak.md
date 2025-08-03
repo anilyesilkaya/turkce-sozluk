@@ -2,6 +2,7 @@
 layout: term
 title: defterinde olmamak
 slug: defterinde-olmamak
+letter: D
 lisan: Türkçe
 anlamlar:
 - sahip bulunmamak, tabiatında bulunmamak

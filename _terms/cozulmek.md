@@ -2,6 +2,7 @@
 layout: term
 title: çözülmek
 slug: cozulmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çözme işine konu olmak

@@ -2,6 +2,7 @@
 layout: term
 title: yalvarılmak
 slug: yalvarilmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yalvarma işi yapılmak

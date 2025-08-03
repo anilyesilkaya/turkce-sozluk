@@ -2,6 +2,7 @@
 layout: term
 title: çalışan
 slug: calisan
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çalışma işini yapan kimse

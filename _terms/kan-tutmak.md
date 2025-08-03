@@ -2,6 +2,7 @@
 layout: term
 title: kan tutmak
 slug: kan-tutmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kan gördüğünde bayılmak

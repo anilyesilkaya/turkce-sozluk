@@ -2,6 +2,7 @@
 layout: term
 title: bağlanış
 slug: baglanis
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağlanmak işi veya durumu

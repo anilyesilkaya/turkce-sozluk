@@ -2,6 +2,7 @@
 layout: term
 title: titizlenmek
 slug: titizlenmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Çok dikkat ve özenle davranmak veya böyle davranılmasını istemek, titiz olmak, titizlik göstermek; titizleşmek

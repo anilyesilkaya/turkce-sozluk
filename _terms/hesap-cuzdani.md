@@ -2,6 +2,7 @@
 layout: term
 title: hesap cüzdanı
 slug: hesap-cuzdani
+letter: H
 lisan: Türkçe
 anlamlar:
 - Bir bankada hesabı olanların yatırdığı veya çektiği paralarının yazılmasına yarayan defter

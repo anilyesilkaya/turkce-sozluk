@@ -2,6 +2,7 @@
 layout: term
 title: hanımparmağı
 slug: hanimparmagi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Parmak biçiminde bir tür hamur tatlısı

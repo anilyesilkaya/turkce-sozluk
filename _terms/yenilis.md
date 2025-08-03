@@ -2,6 +2,7 @@
 layout: term
 title: yeniliş
 slug: yenilis
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yenilmek işi

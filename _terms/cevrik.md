@@ -2,6 +2,7 @@
 layout: term
 title: çevrik
 slug: cevrik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çevrilmiş olan

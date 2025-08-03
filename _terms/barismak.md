@@ -2,6 +2,7 @@
 layout: term
 title: barışmak
 slug: barismak
+letter: B
 lisan: Türkçe
 anlamlar:
 - İki taraf aralarındaki dargınlığı kaldırmak

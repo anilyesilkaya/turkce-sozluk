@@ -2,6 +2,7 @@
 layout: term
 title: ciğerimin köşesi
 slug: cigerimin-kosesi
+letter: C
 lisan: Türkçe
 anlamlar:
 - çok sevdiğim

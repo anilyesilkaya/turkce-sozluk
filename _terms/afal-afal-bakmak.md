@@ -2,6 +2,7 @@
 layout: term
 title: afal afal bakmak
 slug: afal-afal-bakmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - şaşkın bir biçimde bakmak

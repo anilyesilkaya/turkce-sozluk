@@ -2,6 +2,7 @@
 layout: term
 title: yaşanmaz olmak
 slug: yasanmaz-olmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yaşanılacak bir niteliği kalmamak

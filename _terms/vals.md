@@ -2,6 +2,7 @@
 layout: term
 title: vals
 slug: vals
+letter: V
 lisan: Fransızca valse
 anlamlar:
 - Bir tür salon dansı

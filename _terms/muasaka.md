@@ -2,6 +2,7 @@
 layout: term
 title: muaşaka
 slug: muasaka
+letter: M
 lisan: Arapça muʿāşaḳa
 anlamlar:
 - ► âşıktaşlık

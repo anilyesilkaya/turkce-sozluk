@@ -2,6 +2,7 @@
 layout: term
 title: icara vermek
 slug: icara-vermek
+letter: I
 lisan: Türkçe
 anlamlar:
 - kiraya vermek

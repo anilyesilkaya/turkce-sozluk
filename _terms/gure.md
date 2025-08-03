@@ -2,6 +2,7 @@
 layout: term
 title: güre
 slug: gure
+letter: G
 lisan: Türkçe
 anlamlar:
 - Çiftleşmek isteyen kısrak veya dişi eşek

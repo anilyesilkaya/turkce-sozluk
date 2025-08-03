@@ -2,6 +2,7 @@
 layout: term
 title: bayram günü
 slug: bayram-gunu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bayramın kutlandığı gün

@@ -2,6 +2,7 @@
 layout: term
 title: böylece
 slug: boylece
+letter: B
 lisan: Türkçe
 anlamlar:
 - Tam böyle; bu biçimde, böylecene, bu şekilde, öyle öyle

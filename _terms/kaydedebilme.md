@@ -2,6 +2,7 @@
 layout: term
 title: kaydedebilme
 slug: kaydedebilme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaydedebilmek işi

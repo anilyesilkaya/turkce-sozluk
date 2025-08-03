@@ -2,6 +2,7 @@
 layout: term
 title: kendini kapının dışında bulmak
 slug: kendini-kapinin-disinda-bulmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kovulmak, işten atılmak, bir yerden istenmeden uzaklaştırılmak

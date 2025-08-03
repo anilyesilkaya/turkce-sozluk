@@ -2,6 +2,7 @@
 layout: term
 title: çocuk bilimsel
 slug: cocuk-bilimsel
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çocuk bilimi ile ilgili; pedolojik

@@ -2,6 +2,7 @@
 layout: term
 title: şaşkına dönmek
 slug: saskina-donmek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - beklenmedik bir durum karşısında şaşkınlaşmak

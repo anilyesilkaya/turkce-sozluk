@@ -2,6 +2,7 @@
 layout: term
 title: çaba göstermek
 slug: caba-gostermek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - bir işi başarmak için çalışmak, uğraşmak, gayret göstermek

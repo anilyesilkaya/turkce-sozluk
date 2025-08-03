@@ -2,6 +2,7 @@
 layout: term
 title: celallilik
 slug: celallilik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Celalli olma durumu

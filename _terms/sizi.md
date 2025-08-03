@@ -2,6 +2,7 @@
 layout: term
 title: sızı
 slug: sizi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Hafif ve ince ağrı

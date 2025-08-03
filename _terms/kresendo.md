@@ -2,6 +2,7 @@
 layout: term
 title: kreşendo
 slug: kresendo
+letter: K
 lisan: İtalyanca crescendo
 anlamlar:
 - Porte altında bulunan ve müzik parçası çalınırken sesin hafiften kuvvetliye doğru gideceğini belirten işaret

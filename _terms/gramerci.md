@@ -2,6 +2,7 @@
 layout: term
 title: gramerci
 slug: gramerci
+letter: G
 lisan: Türkçe
 anlamlar:
 - Dil bilgisi uzmanı olan kimse

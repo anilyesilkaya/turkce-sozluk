@@ -2,6 +2,7 @@
 layout: term
 title: itaatsizlik
 slug: itaatsizlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İtaatsiz olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: tan ağarmak (veya atmak veya sökmek)
 slug: tan-agarmak-veya-atmak-veya-sokmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - gün doğmaya başlamak, şafak sökmek

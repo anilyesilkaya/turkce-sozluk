@@ -2,6 +2,7 @@
 layout: term
 title: kopartış
 slug: kopartis
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kopartmak işi

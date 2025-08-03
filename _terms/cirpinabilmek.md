@@ -2,6 +2,7 @@
 layout: term
 title: çırpınabilmek
 slug: cirpinabilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çırpınma ihtimali bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: tercüman
 slug: tercuman
+letter: T
 lisan: Arapça tercemān
 anlamlar:
 - ► çevirmen

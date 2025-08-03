@@ -2,6 +2,7 @@
 layout: term
 title: sarman
 slug: sarman
+letter: S
 lisan: Türkçe
 anlamlar:
 - Azman, iri olan

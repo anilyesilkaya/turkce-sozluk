@@ -2,6 +2,7 @@
 layout: term
 title: anormalleşme
 slug: anormallesme
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anormalleşmek durumu

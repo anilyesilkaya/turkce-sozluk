@@ -2,6 +2,7 @@
 layout: term
 title: harmandalı
 slug: harmandali
+letter: H
 lisan: Türkçe
 anlamlar:
 - Ege Bölgesi'nde oynanan bir tür zeybek oyunu

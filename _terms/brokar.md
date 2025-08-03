@@ -2,6 +2,7 @@
 layout: term
 title: brokar
 slug: brokar
+letter: B
 lisan: Fransızca brocart
 anlamlar:
 - Sırma veya gümüş işlemeli bir ipekli kumaş türü

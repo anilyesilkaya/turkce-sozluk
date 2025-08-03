@@ -2,6 +2,7 @@
 layout: term
 title: başından almak
 slug: basindan-almak
+letter: B
 lisan: Türkçe
 anlamlar:
 - kurtarmak, sorumluluğunu almak

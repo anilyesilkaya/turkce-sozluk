@@ -2,6 +2,7 @@
 layout: term
 title: yanıltmaca
 slug: yaniltmaca
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yanıltmak için, yanıltacak yolda söz söyleme; mugalata

@@ -2,6 +2,7 @@
 layout: term
 title: artistlik
 slug: artistlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Artistin işi

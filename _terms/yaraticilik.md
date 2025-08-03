@@ -2,6 +2,7 @@
 layout: term
 title: yaratıcılık
 slug: yaraticilik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaratıcı olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: efdal
 slug: efdal
+letter: E
 lisan: Arapça efḍal
 anlamlar:
 - ► erdemli

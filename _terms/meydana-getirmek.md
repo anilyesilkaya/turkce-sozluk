@@ -2,6 +2,7 @@
 layout: term
 title: meydana getirmek
 slug: meydana-getirmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - olmasını sağlamak, oluşturmak

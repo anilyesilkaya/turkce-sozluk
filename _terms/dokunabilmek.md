@@ -2,6 +2,7 @@
 layout: term
 title: dokunabilmek
 slug: dokunabilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dokunma ihtimali veya imkânı bulunmak

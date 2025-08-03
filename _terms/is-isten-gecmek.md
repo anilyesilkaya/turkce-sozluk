@@ -2,6 +2,7 @@
 layout: term
 title: iş işten geçmek
 slug: is-isten-gecmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - bir işi gerçekleştirme imkânı kalmamış olmak

@@ -2,6 +2,7 @@
 layout: term
 title: riziko
 slug: riziko
+letter: R
 lisan: İtalyanca risico
 anlamlar:
 - ► risk

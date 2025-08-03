@@ -2,6 +2,7 @@
 layout: term
 title: avlanmak
 slug: avlanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Avlama işine konu olmak

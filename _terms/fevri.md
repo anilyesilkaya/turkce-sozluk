@@ -2,6 +2,7 @@
 layout: term
 title: fevri
 slug: fevri
+letter: F
 lisan: Arapça fevrī
 anlamlar:
 - Birdenbire, düşünmeden yapan

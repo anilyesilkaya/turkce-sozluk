@@ -2,6 +2,7 @@
 layout: term
 title: kolonyalı
 slug: kolonyali
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kolonyalanmış, kolonya sürmüş, kolonya sürülmüş

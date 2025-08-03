@@ -2,6 +2,7 @@
 layout: term
 title: sepetlenmek
 slug: sepetlenmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sepetleme işi yapılmak

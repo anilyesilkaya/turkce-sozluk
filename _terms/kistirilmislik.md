@@ -2,6 +2,7 @@
 layout: term
 title: kıstırılmışlık
 slug: kistirilmislik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kıstırılmış olma durumu

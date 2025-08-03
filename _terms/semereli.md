@@ -2,6 +2,7 @@
 layout: term
 title: semereli
 slug: semereli
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► verimli

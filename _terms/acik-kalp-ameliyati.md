@@ -2,6 +2,7 @@
 layout: term
 title: açık kalp ameliyatı
 slug: acik-kalp-ameliyati
+letter: A
 lisan: Türkçe
 anlamlar:
 - Göğüs kemiği açılıp ameliyat sırasında kalp ve akciğeri destekleyici bir cihaz kullanılarak yapılan kalp ameliyatı

@@ -2,6 +2,7 @@
 layout: term
 title: defaten
 slug: defaten
+letter: D
 lisan: Arapça defʿaten
 anlamlar:
 - ► bir defada

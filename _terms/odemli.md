@@ -2,6 +2,7 @@
 layout: term
 title: ödemli
 slug: odemli
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ödemi olan

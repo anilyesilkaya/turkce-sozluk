@@ -2,6 +2,7 @@
 layout: term
 title: izlemci
 slug: izlemci
+letter: I
 lisan: Türkçe
 anlamlar:
 - İzlem oluşturan kimse; stratejist

@@ -2,6 +2,7 @@
 layout: term
 title: pusatlı
 slug: pusatli
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pusatı olan

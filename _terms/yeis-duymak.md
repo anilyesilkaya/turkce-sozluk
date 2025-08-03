@@ -2,6 +2,7 @@
 layout: term
 title: yeis duymak
 slug: yeis-duymak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - üzüntü çekmek, kahrolmak

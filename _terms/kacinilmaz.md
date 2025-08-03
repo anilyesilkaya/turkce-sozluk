@@ -2,6 +2,7 @@
 layout: term
 title: kaçınılmaz
 slug: kacinilmaz
+letter: K
 lisan: Türkçe
 anlamlar:
 - İstek ve irade dışında olan

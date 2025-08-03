@@ -2,6 +2,7 @@
 layout: term
 title: huzur vermek
 slug: huzur-vermek
+letter: H
 lisan: Türkçe
 anlamlar:
 - gönül rahatlığı, dirlik vermek, dinlendirmek

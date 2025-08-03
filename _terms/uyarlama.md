@@ -2,6 +2,7 @@
 layout: term
 title: uyarlama
 slug: uyarlama
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyarlamak işi; adaptasyon

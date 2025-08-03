@@ -2,6 +2,7 @@
 layout: term
 title: cızırtısız
 slug: cizirtisiz
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cızırdamayan, cızırtısı olmayan; cızıltısız

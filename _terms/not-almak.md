@@ -2,6 +2,7 @@
 layout: term
 title: not almak
 slug: not-almak
+letter: N
 lisan: Türkçe
 anlamlar:
 - biri konuşurken onun söylediklerini yazmak

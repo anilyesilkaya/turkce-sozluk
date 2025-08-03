@@ -2,6 +2,7 @@
 layout: term
 title: hemşire
 slug: hemsire
+letter: H
 lisan: Farsça hemşīre
 anlamlar:
 - Mesleği ile ilgili belirlenen standartlar çerçevesinde temel eğitimini tamamlamış, sağlığın korunması ve geliştirilmesi, hastalıkların önlenmesi, hastalık durumunda bakım ve rehabilitasyonun sağlanması ile ilgili uygulamalarda yeterli ve yetkili olan sağlık görevlisi; şvester

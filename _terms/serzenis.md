@@ -2,6 +2,7 @@
 layout: term
 title: serzeniş
 slug: serzenis
+letter: S
 lisan: Farsça serzeniş
 anlamlar:
 - ► yakınma (II)

@@ -2,6 +2,7 @@
 layout: term
 title: bozabilme
 slug: bozabilme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bozabilmek işi

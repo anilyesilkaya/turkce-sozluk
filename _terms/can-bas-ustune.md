@@ -2,6 +2,7 @@
 layout: term
 title: can baş üstüne
 slug: can-bas-ustune
+letter: C
 lisan: Türkçe
 anlamlar:
 - istenilen şeyin büyük bir memnunlukla yapılacağını anlatan bir söz

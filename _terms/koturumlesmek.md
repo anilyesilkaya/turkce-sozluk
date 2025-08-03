@@ -2,6 +2,7 @@
 layout: term
 title: kötürümleşmek
 slug: koturumlesmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kötürüm duruma gelmek

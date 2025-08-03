@@ -2,6 +2,7 @@
 layout: term
 title: teç
 slug: tec
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► çeç

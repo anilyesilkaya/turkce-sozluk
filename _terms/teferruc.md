@@ -2,6 +2,7 @@
 layout: term
 title: teferrüç
 slug: teferruc
+letter: T
 lisan: Arapça teferruc
 anlamlar:
 - İç açılması

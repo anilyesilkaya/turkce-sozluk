@@ -2,6 +2,7 @@
 layout: term
 title: lahut
 slug: lahut
+letter: L
 lisan: Arapça lāhūt
 anlamlar:
 - ► kutsal

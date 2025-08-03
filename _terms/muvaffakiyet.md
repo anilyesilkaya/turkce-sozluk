@@ -2,6 +2,7 @@
 layout: term
 title: muvaffakiyet
 slug: muvaffakiyet
+letter: M
 lisan: Arapça muvaffaḳiyyet
 anlamlar:
 - ► başarı

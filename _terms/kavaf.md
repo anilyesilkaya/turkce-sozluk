@@ -2,6 +2,7 @@
 layout: term
 title: kavaf
 slug: kavaf
+letter: K
 lisan: Arapça ḫaffāf
 anlamlar:
 - Ucuz, özenmeden ve bayağı cins ayakkabı, kemer, cüzdan yapan veya satan esnaf

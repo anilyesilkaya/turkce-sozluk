@@ -2,6 +2,7 @@
 layout: term
 title: tecriden
 slug: tecriden
+letter: T
 lisan: Arapça tecrįden
 anlamlar:
 - Tecrit ederek

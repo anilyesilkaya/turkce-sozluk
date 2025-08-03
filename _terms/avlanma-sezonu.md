@@ -2,6 +2,7 @@
 layout: term
 title: avlanma sezonu
 slug: avlanma-sezonu
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► av dönemi

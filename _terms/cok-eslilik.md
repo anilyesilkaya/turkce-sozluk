@@ -2,6 +2,7 @@
 layout: term
 title: çok eşlilik
 slug: cok-eslilik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Karı veya kocadan herhangi birinin birden çok sayıda olmasının toplumsal olarak onaylandığı evlilik biçimi; poligami

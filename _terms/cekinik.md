@@ -2,6 +2,7 @@
 layout: term
 title: çekinik
 slug: cekinik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Birkaç kuşak sonra ortaya çıkan ve o zamana kadar aradaki döllerde gizli kalan (soya çekim nitelikleri); resesif

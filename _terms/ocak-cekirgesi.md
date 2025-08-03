@@ -2,6 +2,7 @@
 layout: term
 title: 'ocak çekirgesi '
 slug: ocak-cekirgesi
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► cırcır böceği

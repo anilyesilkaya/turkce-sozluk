@@ -2,6 +2,7 @@
 layout: term
 title: kabotaj hakkı
 slug: kabotaj-hakki
+letter: K
 lisan: Türkçe
 anlamlar:
 - Türk kara sularında, Türkiye'deki akarsu ve göllerde gemi bulundurma, bunlarla gidiş geliş ve taşıma yapma hakkı

@@ -2,6 +2,7 @@
 layout: term
 title: murakıp
 slug: murakip
+letter: M
 lisan: Arapça murāḳib
 anlamlar:
 - ► denetçi

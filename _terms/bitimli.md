@@ -2,6 +2,7 @@
 layout: term
 title: bitimli
 slug: bitimli
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► sonlu

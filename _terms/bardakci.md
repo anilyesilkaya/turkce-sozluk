@@ -2,6 +2,7 @@
 layout: term
 title: bardakçı
 slug: bardakci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bardak, çömlek vb. yapan veya satan kimse

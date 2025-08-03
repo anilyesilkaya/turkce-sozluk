@@ -2,6 +2,7 @@
 layout: term
 title: gülle atma
 slug: gulle-atma
+letter: G
 lisan: Türkçe
 anlamlar:
 - Tek elle taşınan gülleyi ileriye doğru fırlatma

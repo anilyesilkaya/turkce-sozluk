@@ -2,6 +2,7 @@
 layout: term
 title: yarım
 slug: yarim
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bütün bir şeyin ayrıldığı iki eşit parçadan her biri

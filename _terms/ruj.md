@@ -2,6 +2,7 @@
 layout: term
 title: ruj
 slug: ruj
+letter: R
 lisan: Fransızca rouge
 anlamlar:
 - Dudakları boyamak için kullanılan kokulu, renkli madde; dudak boyası

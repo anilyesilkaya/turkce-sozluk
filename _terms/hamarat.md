@@ -2,6 +2,7 @@
 layout: term
 title: hamarat
 slug: hamarat
+letter: H
 lisan: Arapça ḥımāre
 anlamlar:
 - Çalışkan, becerikli, elinden iyi iş gelen

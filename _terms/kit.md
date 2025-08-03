@@ -2,6 +2,7 @@
 layout: term
 title: kıt
 slug: kit
+letter: K
 lisan: Arapça ḳaḥṭ
 anlamlar:
 - İhtiyaca yetmeyecek kadar az, bol (II) karşıtı

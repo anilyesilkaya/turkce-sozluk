@@ -2,6 +2,7 @@
 layout: term
 title: Batılı
 slug: batili
+letter: B
 lisan: Türkçe
 anlamlar:
 - Batı ülkelerinden olan (kimse); Garplı, Mağribî (I)

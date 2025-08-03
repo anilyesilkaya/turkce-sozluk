@@ -2,6 +2,7 @@
 layout: term
 title: adi adım
 slug: adi-adim
+letter: A
 lisan: Türkçe
 anlamlar:
 - Adımda uygunluk, beraberlik gerektirmeyen ve grup olarak yapılan bir yürüyüş türü

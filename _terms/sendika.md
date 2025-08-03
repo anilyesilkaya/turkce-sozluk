@@ -2,6 +2,7 @@
 layout: term
 title: sendika
 slug: sendika
+letter: S
 lisan: Fransızca syndicat
 anlamlar:
 - İşçilerin veya işverenlerin iş, kazanç, toplumsal ve kültürel konular bakımından çıkarlarını korumak ve daha da geliştirmek için aralarında kurdukları birlik

@@ -2,6 +2,7 @@
 layout: term
 title: fileto
 slug: fileto
+letter: F
 lisan: İtalyanca filetto
 anlamlar:
 - Kasaplık hayvanların sırtından ve bel kemiğinin iki yanından çıkarılan et

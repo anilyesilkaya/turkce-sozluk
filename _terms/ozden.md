@@ -2,6 +2,7 @@
 layout: term
 title: özden
 slug: ozden
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Özle, öz varlıkla, gerçekle ilgili

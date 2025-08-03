@@ -2,6 +2,7 @@
 layout: term
 title: eklenebilme
 slug: eklenebilme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eklenebilmek işi

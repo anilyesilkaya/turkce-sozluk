@@ -2,6 +2,7 @@
 layout: term
 title: kağşak
 slug: kagsak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Eskimiş, gevşemiş, dağılmaya yüz tutmuş (eşya, yapı)

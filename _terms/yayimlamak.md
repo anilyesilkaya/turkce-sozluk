@@ -2,6 +2,7 @@
 layout: term
 title: yayımlamak
 slug: yayimlamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Kitap, gazete, dergi vb. şeyleri basmak ve dağıtmak; çıkarmak, neşretmek

@@ -2,6 +2,7 @@
 layout: term
 title: dili bağlı
 slug: dili-bagli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Konuşamayan

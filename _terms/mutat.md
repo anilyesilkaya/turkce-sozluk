@@ -2,6 +2,7 @@
 layout: term
 title: mutat
 slug: mutat
+letter: M
 lisan: Arapça muʿtād
 anlamlar:
 - ► alışılmış

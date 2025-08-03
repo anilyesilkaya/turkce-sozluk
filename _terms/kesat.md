@@ -2,6 +2,7 @@
 layout: term
 title: kesat
 slug: kesat
+letter: K
 lisan: Arapça kesād
 anlamlar:
 - Alışverişte durgunluk

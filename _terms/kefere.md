@@ -2,6 +2,7 @@
 layout: term
 title: kefere
 slug: kefere
+letter: K
 lisan: Arapça kefere
 anlamlar:
 - Müslüman olmayanlar, kâfirler

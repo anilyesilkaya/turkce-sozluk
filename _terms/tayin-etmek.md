@@ -2,6 +2,7 @@
 layout: term
 title: tayin etmek
 slug: tayin-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - kararlaştırmak

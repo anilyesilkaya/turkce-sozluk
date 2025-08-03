@@ -2,6 +2,7 @@
 layout: term
 title: cesaretsizlenmek
 slug: cesaretsizlenmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cesaretini kaybetmek

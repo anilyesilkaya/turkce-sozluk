@@ -2,6 +2,7 @@
 layout: term
 title: yıkmak
 slug: yikmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Kurulu bir şeyi parçalayarak dağıtmak, bozmak; tahrip etmek

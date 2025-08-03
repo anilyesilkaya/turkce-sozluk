@@ -2,6 +2,7 @@
 layout: term
 title: uygulama
 slug: uygulama
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uygulamak işi; kılgı, uygu, tatbik, tatbikat, pratik

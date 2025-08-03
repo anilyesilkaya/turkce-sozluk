@@ -2,6 +2,7 @@
 layout: term
 title: kazılma
 slug: kazilma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kazılmak işi

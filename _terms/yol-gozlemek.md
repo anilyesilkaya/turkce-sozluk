@@ -2,6 +2,7 @@
 layout: term
 title: yol gözlemek
 slug: yol-gozlemek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - bir şeyin olmasını ummak

@@ -2,6 +2,7 @@
 layout: term
 title: Paskalya
 slug: paskalya
+letter: P
 lisan: Rumca
 anlamlar:
 - ► Paskalya Yortusu

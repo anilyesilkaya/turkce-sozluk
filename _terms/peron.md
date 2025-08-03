@@ -2,6 +2,7 @@
 layout: term
 title: peron
 slug: peron
+letter: P
 lisan: Fransızca perron
 anlamlar:
 - Otobüs terminallerinde aracın yanaştığı, yolcuların inip binmesine yarayan bölüm

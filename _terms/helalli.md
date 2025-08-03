@@ -2,6 +2,7 @@
 layout: term
 title: helalli
 slug: helalli
+letter: H
 lisan: Türkçe
 anlamlar:
 - Nikâhlı olan (eş)

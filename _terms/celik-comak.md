@@ -2,6 +2,7 @@
 layout: term
 title: çelik çomak
 slug: celik-comak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çocukların, çomakla çeliğe vurarak oynadıkları oyun

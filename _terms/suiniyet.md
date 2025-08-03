@@ -2,6 +2,7 @@
 layout: term
 title: suiniyet
 slug: suiniyet
+letter: S
 lisan: Arapça sūʾ + niyyet
 anlamlar:
 - Kötü niyet

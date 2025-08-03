@@ -2,6 +2,7 @@
 layout: term
 title: kadeh arkadaşlığı
 slug: kadeh-arkadasligi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Birlikte içki içilen kimseyle oluşan dostluk

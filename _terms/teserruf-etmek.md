@@ -2,6 +2,7 @@
 layout: term
 title: teşerrüf etmek
 slug: teserruf-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - bir kimse ile tanışmaktan şeref duymak

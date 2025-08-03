@@ -2,6 +2,7 @@
 layout: term
 title: iklimlendirme
 slug: iklimlendirme
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► iklimleme

@@ -2,6 +2,7 @@
 layout: term
 title: babayani
 slug: babayani
+letter: B
 lisan: Türkçe baba + Farsça -āne
 anlamlar:
 - Gösterişi ve özentisi olmayan

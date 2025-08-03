@@ -2,6 +2,7 @@
 layout: term
 title: iki tek
 slug: iki-tek
+letter: I
 lisan: Türkçe
 anlamlar:
 - '"İçki içmek" anlamına gelen iki tek atmak veya iki tek içmek deyimlerinde geçen bir söz'

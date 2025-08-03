@@ -2,6 +2,7 @@
 layout: term
 title: asteğmen
 slug: astegmen
+letter: A
 lisan: Türkçe
 anlamlar:
 - Orduda en küçük rütbeli subay

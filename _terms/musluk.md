@@ -2,6 +2,7 @@
 layout: term
 title: musluk
 slug: musluk
+letter: M
 lisan: Arapça maslūk
 anlamlar:
 - Takıldığı boru veya kabın içindeki akışkanı, istenildiğinde akıtabilecek bir düzende yapılmış açılır kapanır alet; burma

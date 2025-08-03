@@ -2,6 +2,7 @@
 layout: term
 title: kaşık kaşık
 slug: kasik-kasik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaşıkla birbiri ardınca, büyük bir iştahla

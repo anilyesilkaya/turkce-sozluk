@@ -2,6 +2,7 @@
 layout: term
 title: toyluk
 slug: toyluk
+letter: T
 lisan: Türkçe
 anlamlar:
 - Toy (I) olma durumu

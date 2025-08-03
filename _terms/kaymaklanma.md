@@ -2,6 +2,7 @@
 layout: term
 title: kaymaklanma
 slug: kaymaklanma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaymaklanmak işi

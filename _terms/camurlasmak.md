@@ -2,6 +2,7 @@
 layout: term
 title: çamurlaşmak
 slug: camurlasmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çamur durumuna gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: yankı
 slug: yanki
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Sesin yansıtıcı bir yüzeye çarpıp geri dönmesiyle duyulan ikinci ses; akis, aksiseda, aksülamel, inikâs, eko

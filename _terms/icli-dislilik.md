@@ -2,6 +2,7 @@
 layout: term
 title: içli dışlılık
 slug: icli-dislilik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İçli dışlı olma durumu

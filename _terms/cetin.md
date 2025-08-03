@@ -2,6 +2,7 @@
 layout: term
 title: çetin
 slug: cetin
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Amaçlanan duruma getirilmesi, elde edilmesi, çözümlenmesi, işlenmesi güç veya engeli çok olan; ağır, zorlu

@@ -2,6 +2,7 @@
 layout: term
 title: zahmetsizce
 slug: zahmetsizce
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zahmetsiz bir biçimde, kolay bir biçimde

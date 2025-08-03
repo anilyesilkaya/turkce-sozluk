@@ -2,6 +2,7 @@
 layout: term
 title: baygıntı
 slug: bayginti
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► baygınlık

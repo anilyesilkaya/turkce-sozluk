@@ -2,6 +2,7 @@
 layout: term
 title: süzgün bakış
 slug: suzgun-bakis
+letter: S
 lisan: Türkçe
 anlamlar:
 - Üst göz kapakları biraz kapalı bir biçimde nazlı, işveli bakış

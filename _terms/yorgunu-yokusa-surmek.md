@@ -2,6 +2,7 @@
 layout: term
 title: yorgunu yokuşa sürmek
 slug: yorgunu-yokusa-surmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yapılması güç bir işin, büsbütün güç şartlarda gerçekleştirilmesini istemek

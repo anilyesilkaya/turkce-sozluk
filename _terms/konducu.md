@@ -2,6 +2,7 @@
 layout: term
 title: konducu
 slug: konducu
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► gecekonducu

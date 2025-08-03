@@ -2,6 +2,7 @@
 layout: term
 title: asit yağmuru
 slug: asit-yagmuru
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bulutlardaki su buharının atmosferdeki yüksek yoğunluktaki asit bileşenli kimyasallarla birleşmesiyle oluşan bir tür yağmur

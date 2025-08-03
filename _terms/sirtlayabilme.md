@@ -2,6 +2,7 @@
 layout: term
 title: sırtlayabilme
 slug: sirtlayabilme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sırtlayabilmek işi

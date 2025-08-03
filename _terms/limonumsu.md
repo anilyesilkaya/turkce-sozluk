@@ -2,6 +2,7 @@
 layout: term
 title: limonumsu
 slug: limonumsu
+letter: L
 lisan: Türkçe
 anlamlar:
 - ► limonsu

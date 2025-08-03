@@ -2,6 +2,7 @@
 layout: term
 title: saçları iki türlü olmak
 slug: saclari-iki-turlu-olmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - yaşı ilerlemiş bulunmak

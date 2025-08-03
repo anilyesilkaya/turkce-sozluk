@@ -2,6 +2,7 @@
 layout: term
 title: boğulabilmek
 slug: bogulabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boğulma ihtimali bulunmak

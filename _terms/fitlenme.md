@@ -2,6 +2,7 @@
 layout: term
 title: fitlenme
 slug: fitlenme
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fitlenmek işi

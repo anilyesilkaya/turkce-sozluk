@@ -2,6 +2,7 @@
 layout: term
 title: kaşağı
 slug: kasagi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Hayvanları tımar etmek için kullanılan, sacdan, dişli araç

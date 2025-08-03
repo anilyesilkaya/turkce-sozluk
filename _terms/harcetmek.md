@@ -2,6 +2,7 @@
 layout: term
 title: harcetmek
 slug: harcetmek
+letter: H
 lisan: Arapça ḫarc + Türkçe etmek
 anlamlar:
 - Harcama yapmak

@@ -2,6 +2,7 @@
 layout: term
 title: meyvesiz
 slug: meyvesiz
+letter: M
 lisan: Türkçe
 anlamlar:
 - Meyve vermeyen

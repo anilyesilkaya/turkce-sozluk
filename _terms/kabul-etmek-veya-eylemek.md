@@ -2,6 +2,7 @@
 layout: term
 title: kabul etmek (veya eylemek)
 slug: kabul-etmek-veya-eylemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir şeye isteyerek veya istemeyerek razı olmak

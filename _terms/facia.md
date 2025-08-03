@@ -2,6 +2,7 @@
 layout: term
 title: facia
 slug: facia
+letter: F
 lisan: Arapça fāciʿa
 anlamlar:
 - Çok üzüntü veren, acıklı olay

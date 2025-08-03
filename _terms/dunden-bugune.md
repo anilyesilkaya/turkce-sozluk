@@ -2,6 +2,7 @@
 layout: term
 title: dünden bugüne
 slug: dunden-bugune
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çabucak yapılarak veya söylenerek

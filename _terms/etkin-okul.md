@@ -2,6 +2,7 @@
 layout: term
 title: etkin okul
 slug: etkin-okul
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eğitim etkinliklerinin planlanması, uygulanması ve değerlendirilmesi konularında öğrencilere geniş çapta katılma imkânı sağlayan okul

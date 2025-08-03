@@ -2,6 +2,7 @@
 layout: term
 title: beslenen
 slug: beslenen
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► sönümsüz

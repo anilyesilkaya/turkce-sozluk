@@ -2,6 +2,7 @@
 layout: term
 title: kelli felli
 slug: kelli-felli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kılığı kıyafeti düzgün, olgun ve gösterişli (kimse); kerli ferli

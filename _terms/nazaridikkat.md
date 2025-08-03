@@ -2,6 +2,7 @@
 layout: term
 title: nazarıdikkat
 slug: nazaridikkat
+letter: N
 lisan: Arapça naẓar + diḳḳat
 anlamlar:
 - Bir kimsenin herhangi bir konuya duyduğu yoğun ilgi

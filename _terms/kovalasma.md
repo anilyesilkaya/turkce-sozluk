@@ -2,6 +2,7 @@
 layout: term
 title: kovalaşma
 slug: kovalasma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kovalaşmak işi

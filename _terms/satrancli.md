@@ -2,6 +2,7 @@
 layout: term
 title: satrançlı
 slug: satrancli
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► kareli

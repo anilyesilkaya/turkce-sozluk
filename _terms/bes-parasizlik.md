@@ -2,6 +2,7 @@
 layout: term
 title: beş parasızlık
 slug: bes-parasizlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► yoksulluk

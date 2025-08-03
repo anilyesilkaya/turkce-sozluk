@@ -2,6 +2,7 @@
 layout: term
 title: korteks
 slug: korteks
+letter: K
 lisan: Fransızca cortex
 anlamlar:
 - ► beyin kabuğu

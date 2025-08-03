@@ -2,6 +2,7 @@
 layout: term
 title: kaparozcu
 slug: kaparozcu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Birinin malını yasal olmayan yollarla ele geçiren kimse

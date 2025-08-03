@@ -2,6 +2,7 @@
 layout: term
 title: denemeci
 slug: denemeci
+letter: D
 lisan: Türkçe
 anlamlar:
 - Deneme yazarı

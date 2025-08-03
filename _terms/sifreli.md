@@ -2,6 +2,7 @@
 layout: term
 title: şifreli
 slug: sifreli
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şifresi olan

@@ -2,6 +2,7 @@
 layout: term
 title: kale alanı
 slug: kale-alani
+letter: K
 lisan: Türkçe
 anlamlar:
 - Futbol sahasında, ceza sahası içinde kale direklerine 5,5 metre uzaklıktaki çizginin içinde kalan, kalecilerin dokunulmazlığı olan bölge; altıpas

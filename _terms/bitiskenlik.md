@@ -2,6 +2,7 @@
 layout: term
 title: bitişkenlik
 slug: bitiskenlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bitişken olma durumu

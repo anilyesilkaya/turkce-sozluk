@@ -2,6 +2,7 @@
 layout: term
 title: kuru fasulye
 slug: kuru-fasulye
+letter: K
 lisan: Türkçe
 anlamlar:
 - Fasulye bitkisinin tohumu

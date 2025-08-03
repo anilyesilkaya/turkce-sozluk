@@ -2,6 +2,7 @@
 layout: term
 title: kurunun yanında yaş da yanar
 slug: kurunun-yaninda-yas-da-yanar
+letter: K
 lisan: Türkçe
 anlamlar:
 - “beğenilmeyen tutumlarından dolayı cezalandırılan kişilerin yanında bulunan suçsuzlar da suçlular gibi zarar görürler” anlamında kullanılan bir söz

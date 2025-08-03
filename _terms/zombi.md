@@ -2,6 +2,7 @@
 layout: term
 title: zombi
 slug: zombi
+letter: Z
 lisan: İngilizce zombie
 anlamlar:
 - ► hortlak

@@ -2,6 +2,7 @@
 layout: term
 title: deneme
 slug: deneme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Denemek işi

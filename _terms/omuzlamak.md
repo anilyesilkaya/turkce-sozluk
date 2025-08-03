@@ -2,6 +2,7 @@
 layout: term
 title: omuzlamak
 slug: omuzlamak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Omzuna almak, omzuna vurmak

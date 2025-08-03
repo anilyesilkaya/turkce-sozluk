@@ -2,6 +2,7 @@
 layout: term
 title: reis
 slug: reis
+letter: R
 lisan: Arapça reʾīs
 anlamlar:
 - ► başkan

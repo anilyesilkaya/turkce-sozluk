@@ -2,6 +2,7 @@
 layout: term
 title: tutanak
 slug: tutanak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Meclis, kurul, mahkeme vb. yerlerde söylenen sözlerin olduğu gibi yazıya geçirilmesi; tutulga, zabıt, zabıtname

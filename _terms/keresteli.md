@@ -2,6 +2,7 @@
 layout: term
 title: keresteli
 slug: keresteli
+letter: K
 lisan: Türkçe
 anlamlar:
 - İri yapılı

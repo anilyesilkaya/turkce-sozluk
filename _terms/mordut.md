@@ -2,6 +2,7 @@
 layout: term
 title: 'mordut '
 slug: mordut
+letter: M
 lisan: Türkçe
 anlamlar:
 - Dutgillerden, anavatanı Kuzey Amerika olan, yaprakları yeşil, ince ve kalp şeklinde olan bir tür dut ağacı (Morus rubra)

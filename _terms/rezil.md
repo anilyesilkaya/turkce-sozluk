@@ -2,6 +2,7 @@
 layout: term
 title: rezil
 slug: rezil
+letter: R
 lisan: Arapça reẕīl
 anlamlar:
 - Utanılacak, ayıp şeyler yapan (kimse)

@@ -2,6 +2,7 @@
 layout: term
 title: darlamak
 slug: darlamak
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► bunaltmak

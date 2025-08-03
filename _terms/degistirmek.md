@@ -2,6 +2,7 @@
 layout: term
 title: değiştirmek
 slug: degistirmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Başka bir biçime sokmak, değişikliğe uğratmak

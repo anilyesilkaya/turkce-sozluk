@@ -2,6 +2,7 @@
 layout: term
 title: zekâ küpü
 slug: zeka-kupu
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Hareketli parçalardan oluşan küpün üzerindeki farklı renkteki kareleri elle çevirerek aynı renkteki kareleri küpün aynı yüzüne toplama esasına dayalı bir tür bulmaca; sabır küpü, Rubik küpü

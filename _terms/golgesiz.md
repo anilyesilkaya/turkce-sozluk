@@ -2,6 +2,7 @@
 layout: term
 title: gölgesiz
 slug: golgesiz
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gölgesi olmayan

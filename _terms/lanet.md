@@ -2,6 +2,7 @@
 layout: term
 title: lanet
 slug: lanet
+letter: L
 lisan: Arapça laʿnet
 anlamlar:
 - Tanrı'nın merhametinden yoksun olma

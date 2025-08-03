@@ -2,6 +2,7 @@
 layout: term
 title: ağzıyla kuş tutsa...
 slug: agziyla-kus-tutsa
+letter: A
 lisan: Türkçe
 anlamlar:
 - '"ne yapsa, ne kadar çaba ve ustalık gösterse" anlamında kullanılan bir söz'

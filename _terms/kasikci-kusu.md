@@ -2,6 +2,7 @@
 layout: term
 title: kaşıkçı kuşu
 slug: kasikci-kusu
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► pelikan

@@ -2,6 +2,7 @@
 layout: term
 title: rasathane
 slug: rasathane
+letter: R
 lisan: Arapça raṣad + Farsça ḫāne
 anlamlar:
 - ► gözlemevi

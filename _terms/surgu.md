@@ -2,6 +2,7 @@
 layout: term
 title: sürgü
 slug: surgu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kapının kapanması için arkasına yatay olarak yerleştirilen demir veya ağaç kol; tırkaz, sürme (I)

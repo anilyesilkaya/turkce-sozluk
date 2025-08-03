@@ -2,6 +2,7 @@
 layout: term
 title: adres bırakmak (veya vermek)
 slug: adres-birakmak-veya-vermek
+letter: A
 lisan: Türkçe
 anlamlar:
 - arandığında bulunabileceği, oturduğu yeri bildirmek

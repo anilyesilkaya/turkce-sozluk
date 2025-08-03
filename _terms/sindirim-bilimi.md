@@ -2,6 +2,7 @@
 layout: term
 title: sindirim bilimi
 slug: sindirim-bilimi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Tıbbın sindirim organları hastalıklarını inceleyen dalı; gastroenteroloji

@@ -2,6 +2,7 @@
 layout: term
 title: silikatlamak
 slug: silikatlamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kireç, taş, tahta vb. maddeleri sertleştirmek üzere silikata batırmak

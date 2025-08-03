@@ -2,6 +2,7 @@
 layout: term
 title: muzırlık
 slug: muzirlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Zararlı olma, zararlı iş veya davranışlarda bulunma durumu

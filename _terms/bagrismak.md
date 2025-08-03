@@ -2,6 +2,7 @@
 layout: term
 title: bağrışmak
 slug: bagrismak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Birlikte veya karşılıklı bağırmak

@@ -2,6 +2,7 @@
 layout: term
 title: çift ayaklılar
 slug: cift-ayaklilar
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Duyargaları sekiz eklemli, vücut halkalarında ikişer çift ayak bulunan, ıslak ve karanlık yerleri seven çok ayaklılar topluluğu

@@ -2,6 +2,7 @@
 layout: term
 title: abstre sanat
 slug: abstre-sanat
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► soyut sanat

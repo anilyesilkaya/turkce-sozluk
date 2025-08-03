@@ -2,6 +2,7 @@
 layout: term
 title: çocuk dili
 slug: cocuk-dili
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çocukların belli birtakım seslerden, basitleştirilmiş kurallardan, örneklemelerden yararlanarak kullandıkları dil

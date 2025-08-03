@@ -2,6 +2,7 @@
 layout: term
 title: eritme
 slug: eritme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eritmek işi; hal (I)

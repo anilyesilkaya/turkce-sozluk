@@ -2,6 +2,7 @@
 layout: term
 title: mecmu
 slug: mecmu
+letter: M
 lisan: Arapça mecmūʿ
 anlamlar:
 - Bir araya getirilmiş, toplanmış

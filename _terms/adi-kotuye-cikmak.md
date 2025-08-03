@@ -2,6 +2,7 @@
 layout: term
 title: adı kötüye çıkmak
 slug: adi-kotuye-cikmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ünü kötü olarak yayılmak

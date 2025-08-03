@@ -2,6 +2,7 @@
 layout: term
 title: ariza vermek (veya sunmak)
 slug: ariza-vermek-veya-sunmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - yüksek bir makama mektup veya dilekçe vermek

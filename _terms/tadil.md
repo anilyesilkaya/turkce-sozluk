@@ -2,6 +2,7 @@
 layout: term
 title: tadil
 slug: tadil
+letter: T
 lisan: Arapça taʿdīl
 anlamlar:
 - ► değişiklik

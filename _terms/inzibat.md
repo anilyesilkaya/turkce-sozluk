@@ -2,6 +2,7 @@
 layout: term
 title: inzibat
 slug: inzibat
+letter: I
 lisan: Arapça inżibāṭ
 anlamlar:
 - ► disiplin

@@ -2,6 +2,7 @@
 layout: term
 title: çıkagelmek
 slug: cikagelmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Beklenmedik bir zamanda gelmek

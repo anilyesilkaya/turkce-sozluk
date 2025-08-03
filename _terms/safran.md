@@ -2,6 +2,7 @@
 layout: term
 title: safran
 slug: safran
+letter: S
 lisan: Arapça zaʿferān
 anlamlar:
 - Süsengillerden, baharda çiçek açan, 20-30 santimetre boyunda, soğanlı bir kültür bitkisi (Crocus sativus)

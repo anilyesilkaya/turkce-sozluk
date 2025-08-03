@@ -2,6 +2,7 @@
 layout: term
 title: ağzını tutmak
 slug: agzini-tutmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - boşboğazlık etmemek

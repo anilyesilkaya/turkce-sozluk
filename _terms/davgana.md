@@ -2,6 +2,7 @@
 layout: term
 title: davgana
 slug: davgana
+letter: D
 lisan: Türkçe
 anlamlar:
 - İnce, dar boyunlu küçük testi, toprak sürahi

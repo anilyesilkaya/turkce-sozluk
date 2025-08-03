@@ -2,6 +2,7 @@
 layout: term
 title: saksafon
 slug: saksafon
+letter: S
 lisan: Fransızca saxophone
 anlamlar:
 - Genellikle pirinçten yapılmış, metal tuşlara basılarak çalınan, çoğunlukla bandolarda ve caz topluluklarında kullanılan bir tür üflemeli çalgı

@@ -2,6 +2,7 @@
 layout: term
 title: ciddileşmek
 slug: ciddilesmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - Ciddi bir durum almak

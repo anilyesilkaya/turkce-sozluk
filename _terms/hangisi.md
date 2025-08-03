@@ -2,6 +2,7 @@
 layout: term
 title: hangisi
 slug: hangisi
+letter: H
 lisan: Türkçe
 anlamlar:
 - '"Kim, hangi şey" anlamlarında kullanılan bir söz'

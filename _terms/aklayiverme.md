@@ -2,6 +2,7 @@
 layout: term
 title: aklayıverme
 slug: aklayiverme
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aklayıvermek işi

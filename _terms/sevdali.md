@@ -2,6 +2,7 @@
 layout: term
 title: sevdalı
 slug: sevdali
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sevdaya tutulmuş olan

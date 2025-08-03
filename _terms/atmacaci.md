@@ -2,6 +2,7 @@
 layout: term
 title: atmacacı
 slug: atmacaci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Atmaca yetiştiren veya avda kullanan kimse

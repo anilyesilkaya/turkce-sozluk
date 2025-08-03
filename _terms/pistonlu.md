@@ -2,6 +2,7 @@
 layout: term
 title: pistonlu
 slug: pistonlu
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pistonu olan

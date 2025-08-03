@@ -2,6 +2,7 @@
 layout: term
 title: prömiyer
 slug: promiyer
+letter: P
 lisan: Fransızca première
 anlamlar:
 - ► ilk gösteri

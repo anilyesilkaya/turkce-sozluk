@@ -2,6 +2,7 @@
 layout: term
 title: ağırlığı olmak
 slug: agirligi-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - etkisi büyük olmak

@@ -2,6 +2,7 @@
 layout: term
 title: viral
 slug: viral
+letter: V
 lisan: Fransızca viral
 anlamlar:
 - Virüslerle ilgili

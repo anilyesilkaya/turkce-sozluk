@@ -2,6 +2,7 @@
 layout: term
 title: kesel perdesi
 slug: kesel-perdesi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Herhangi bir müzik ölçüsüne girmeyen, insanın iç dünyasını karartan ve bıkkınlık veren bir ses tonu

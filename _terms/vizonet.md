@@ -2,6 +2,7 @@
 layout: term
 title: vizonet
 slug: vizonet
+letter: V
 lisan: Fransızca visonette
 anlamlar:
 - Taklit vizon

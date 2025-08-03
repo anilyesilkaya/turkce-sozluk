@@ -2,6 +2,7 @@
 layout: term
 title: tak
 slug: tak
+letter: T
 lisan: Arapça ṭāḳ
 anlamlar:
 - Millî bayramlarda veya önemli bir olayı anmak için düzenlenen şenliklerde, geçit yapılacak caddelere geçici olarak kurulan, yazılar ve çiçeklerle süslenen kemer

@@ -2,6 +2,7 @@
 layout: term
 title: şusuyla busuyla
 slug: susuyla-busuyla
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Her şeyiyle birlikte

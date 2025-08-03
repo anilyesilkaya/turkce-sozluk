@@ -2,6 +2,7 @@
 layout: term
 title: fırsatçılık
 slug: firsatcilik
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fırsatçı olma durumu

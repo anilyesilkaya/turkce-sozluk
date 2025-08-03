@@ -2,6 +2,7 @@
 layout: term
 title: egzoz gazı
 slug: egzoz-gazi
+letter: E
 lisan: Türkçe
 anlamlar:
 - İçten yanmalı motorlarda yanan akaryakıtın gazı; çürük gaz, egzoz

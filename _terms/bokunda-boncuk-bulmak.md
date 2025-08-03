@@ -2,6 +2,7 @@
 layout: term
 title: bokunda boncuk bulmak
 slug: bokunda-boncuk-bulmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - birine hak etmediği hâlde çok değer vermek

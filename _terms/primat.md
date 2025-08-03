@@ -2,6 +2,7 @@
 layout: term
 title: primat
 slug: primat
+letter: P
 lisan: Fransızca primate
 anlamlar:
 - ► maymun

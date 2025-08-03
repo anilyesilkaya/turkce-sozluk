@@ -2,6 +2,7 @@
 layout: term
 title: avare etmek
 slug: avare-etmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir kimseyi işinden alıkoymak

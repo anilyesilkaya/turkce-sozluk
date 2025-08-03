@@ -2,6 +2,7 @@
 layout: term
 title: yayan
 slug: yayan
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yürüyerek giden

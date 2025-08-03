@@ -2,6 +2,7 @@
 layout: term
 title: ters pers
 slug: ters-pers
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► yalan yanlış

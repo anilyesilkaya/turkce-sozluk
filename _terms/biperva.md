@@ -2,6 +2,7 @@
 layout: term
 title: biperva
 slug: biperva
+letter: B
 lisan: Farsça bīpervā
 anlamlar:
 - ► pervasız

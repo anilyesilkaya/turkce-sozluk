@@ -2,6 +2,7 @@
 layout: term
 title: bel bellemek
 slug: bel-bellemek
+letter: B
 lisan: Türkçe
 anlamlar:
 - toprağı belle kazmak

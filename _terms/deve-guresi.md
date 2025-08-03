@@ -2,6 +2,7 @@
 layout: term
 title: deve güreşi
 slug: deve-guresi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Tülü cinsi erkek develer arasında açık meydanlarda, daha çok kış aylarında yapılan, galibiyete develerin birbirini kaçırtmasıyla, bağırtmasıyla veya yıkmasıyla ulaşılan bir tür yarışma

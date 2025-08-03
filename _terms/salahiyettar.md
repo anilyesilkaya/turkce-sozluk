@@ -2,6 +2,7 @@
 layout: term
 title: salahiyettar
 slug: salahiyettar
+letter: S
 lisan: Arapça ṣalāḥiyyet + Farsça -dār
 anlamlar:
 - ► yetkili

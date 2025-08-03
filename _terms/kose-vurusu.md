@@ -2,6 +2,7 @@
 layout: term
 title: köşe vuruşu
 slug: kose-vurusu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Futbol, hentbol ve su topunda bir oyuncu, topu kendi kale çizgisi dışına çıkardığında karşı taraf lehine kale çizgisi ile yan çizgisinin kesiştiği noktadan yapılan serbest vuruş; köşe atışı, korner, korner atışı, korner vuruşu

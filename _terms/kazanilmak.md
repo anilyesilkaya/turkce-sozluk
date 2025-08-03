@@ -2,6 +2,7 @@
 layout: term
 title: kazanılmak
 slug: kazanilmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kazanma işi yapılmak

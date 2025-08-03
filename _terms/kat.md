@@ -2,6 +2,7 @@
 layout: term
 title: kat
 slug: kat
+letter: K
 lisan: Arapça ḳaṭʿ
 anlamlar:
 - ► kesme

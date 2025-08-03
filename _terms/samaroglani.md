@@ -2,6 +2,7 @@
 layout: term
 title: şamaroğlanı
 slug: samaroglani
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Adam yerine konulmayan, yerli yersiz azarlanan kimse

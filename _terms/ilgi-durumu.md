@@ -2,6 +2,7 @@
 layout: term
 title: ilgi durumu
 slug: ilgi-durumu
+letter: I
 lisan: Türkçe
 anlamlar:
 - 'Ad görevindeki sözün taşıdığı kavramı başka bir kavrama -(n)ın ekiyle bağlayan durum; tamlayan durumu, genitif: kitab-ın (kapağı), ev-in (damı), araba-nın (sileceği), okul-un (kapısı), yüz-ün (rengi) vb'

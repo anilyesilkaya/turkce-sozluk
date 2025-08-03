@@ -2,6 +2,7 @@
 layout: term
 title: kutucu
 slug: kutucu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kutu yapan veya satan kimse

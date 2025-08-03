@@ -2,6 +2,7 @@
 layout: term
 title: lakinli
 slug: lakinli
+letter: L
 lisan: Türkçe
 anlamlar:
 - Herhangi bir bahane, şart ileri süren

@@ -2,6 +2,7 @@
 layout: term
 title: omnibüs
 slug: omnibus
+letter: O
 lisan: Fransızca omnibus
 anlamlar:
 - Şehirlerde yolcu taşıyan atlı araba

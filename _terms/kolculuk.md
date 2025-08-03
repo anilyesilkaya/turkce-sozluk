@@ -2,6 +2,7 @@
 layout: term
 title: kolculuk
 slug: kolculuk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kolcunun yaptığı iş

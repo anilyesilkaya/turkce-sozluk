@@ -2,6 +2,7 @@
 layout: term
 title: ağaçsı
 slug: agacsi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağacı andıran, ağaca benzeyen, ağaç gibi; ağacımsı

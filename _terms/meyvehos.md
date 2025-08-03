@@ -2,6 +2,7 @@
 layout: term
 title: meyvehoş
 slug: meyvehos
+letter: M
 lisan: Farsça mīve + ḫuşk
 anlamlar:
 - ► kuru yemiş

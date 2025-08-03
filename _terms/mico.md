@@ -2,6 +2,7 @@
 layout: term
 title: miço
 slug: mico
+letter: M
 lisan: İtalyanca mozzo
 anlamlar:
 - Gemilerde çalışan küçük yaştaki tayfa yamağı; muço

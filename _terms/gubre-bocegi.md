@@ -2,6 +2,7 @@
 layout: term
 title: gübre böceği
 slug: gubre-bocegi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Kın kanatlılardan, gübre ile beslenen bir böcek cinsi (Onitis)

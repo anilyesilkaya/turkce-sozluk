@@ -2,6 +2,7 @@
 layout: term
 title: dizge
 slug: dizge
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir bütün oluşturacak biçimde birbirine bağlı ögelerin bütünü; cümle, manzume, sistem

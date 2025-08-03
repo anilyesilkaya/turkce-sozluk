@@ -2,6 +2,7 @@
 layout: term
 title: yalman
 slug: yalman
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► eğik

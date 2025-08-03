@@ -2,6 +2,7 @@
 layout: term
 title: tenakuz
 slug: tenakuz
+letter: T
 lisan: Arapça tenāḳuż
 anlamlar:
 - ► çelişki

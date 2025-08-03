@@ -2,6 +2,7 @@
 layout: term
 title: bulaşabilmek
 slug: bulasabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bulaşma ihtimali veya imkânı bulunmak

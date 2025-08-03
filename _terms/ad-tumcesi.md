@@ -2,6 +2,7 @@
 layout: term
 title: ad tümcesi
 slug: ad-tumcesi
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► ad cümlesi

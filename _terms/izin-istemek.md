@@ -2,6 +2,7 @@
 layout: term
 title: izin istemek
 slug: izin-istemek
+letter: I
 lisan: Türkçe
 anlamlar:
 - bir şeyi gerçekleştirmek amacı ile onay almaya kalkmak

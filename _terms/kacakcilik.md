@@ -2,6 +2,7 @@
 layout: term
 title: kaçakçılık
 slug: kacakcilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir devletin yasalarına karşı gelerek yapılan ticaret

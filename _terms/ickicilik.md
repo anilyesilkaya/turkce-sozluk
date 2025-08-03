@@ -2,6 +2,7 @@
 layout: term
 title: içkicilik
 slug: ickicilik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İçkicinin yaptığı iş

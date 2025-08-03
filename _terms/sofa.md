@@ -2,6 +2,7 @@
 layout: term
 title: sofa
 slug: sofa
+letter: S
 lisan: Arapça ṣuffe
 anlamlar:
 - Evlerde oda kapılarının açıldığı genişçe yer; hanay, hol

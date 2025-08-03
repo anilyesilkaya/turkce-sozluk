@@ -2,6 +2,7 @@
 layout: term
 title: şükür
 slug: sukur
+letter: Ş
 lisan: Arapça şukr
 anlamlar:
 - Allah’a duyulan minneti dile getirme

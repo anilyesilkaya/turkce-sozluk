@@ -2,6 +2,7 @@
 layout: term
 title: kendir
 slug: kendir
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kenevir

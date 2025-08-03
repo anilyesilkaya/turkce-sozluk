@@ -2,6 +2,7 @@
 layout: term
 title: avare
 slug: avare
+letter: A
 lisan: Farsça āvāre
 anlamlar:
 - İşsiz güçsüz dolaşan (kimse); avara (I)

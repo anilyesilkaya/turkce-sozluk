@@ -2,6 +2,7 @@
 layout: term
 title: gıcırdamak
 slug: gicirdamak
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gıcırtı çıkarmak

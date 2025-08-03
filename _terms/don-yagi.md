@@ -2,6 +2,7 @@
 layout: term
 title: don yağı
 slug: don-yagi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Normal sıcaklıkta katı durumda bulunan ve içyağlarının eritilmesiyle elde edilen hayvansal yağ

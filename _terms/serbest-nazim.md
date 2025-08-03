@@ -2,6 +2,7 @@
 layout: term
 title: serbest nazım
 slug: serbest-nazim
+letter: S
 lisan: Türkçe
 anlamlar:
 - Ölçü, uyak gibi klasik ve bağlayıcı kurallara uymadan yazılan şiir tarzı

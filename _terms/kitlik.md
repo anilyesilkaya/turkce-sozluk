@@ -2,6 +2,7 @@
 layout: term
 title: kıtlık
 slug: kitlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kıt olma durumu, ihtiyaca yetmeyecek kadar azlık, az ve zor bulunma; kesat

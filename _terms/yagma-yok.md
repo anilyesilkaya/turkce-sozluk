@@ -2,6 +2,7 @@
 layout: term
 title: yağma yok
 slug: yagma-yok
+letter: Y
 lisan: Türkçe
 anlamlar:
 - '"öyle şey olmaz, buna razı olunmaz" anlamında kullanılan bir söz'

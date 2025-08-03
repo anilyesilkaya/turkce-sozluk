@@ -2,6 +2,7 @@
 layout: term
 title: koruyucu
 slug: koruyucu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Birini veya bir şeyi koruyan, kollayan, gözeten kimse; muhafız

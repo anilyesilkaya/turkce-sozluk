@@ -2,6 +2,7 @@
 layout: term
 title: çözüverme
 slug: cozuverme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çözüvermek işi

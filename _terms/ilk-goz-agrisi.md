@@ -2,6 +2,7 @@
 layout: term
 title: ilk göz ağrısı
 slug: ilk-goz-agrisi
+letter: I
 lisan: Türkçe
 anlamlar:
 - İlk çocuk

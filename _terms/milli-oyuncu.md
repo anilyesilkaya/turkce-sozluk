@@ -2,6 +2,7 @@
 layout: term
 title: 'millî oyuncu '
 slug: milli-oyuncu
+letter: M
 lisan: Türkçe
 anlamlar:
 - Uluslararası yarışmalarda bir ülkeyi temsil eden futbol, basketbol, voleybol vb. millî takım sporcularından her biri

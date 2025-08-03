@@ -2,6 +2,7 @@
 layout: term
 title: kayışçı
 slug: kayisci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kayış yapan veya satan kimse

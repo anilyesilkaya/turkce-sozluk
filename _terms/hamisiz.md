@@ -2,6 +2,7 @@
 layout: term
 title: hamisiz
 slug: hamisiz
+letter: H
 lisan: Türkçe
 anlamlar:
 - Koruyucusu, kayıranı olmayan

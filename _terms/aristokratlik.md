@@ -2,6 +2,7 @@
 layout: term
 title: aristokratlık
 slug: aristokratlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aristokrat olma durumu

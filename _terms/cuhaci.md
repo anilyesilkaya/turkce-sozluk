@@ -2,6 +2,7 @@
 layout: term
 title: çuhacı
 slug: cuhaci
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çuha dokuyan veya satan kimse

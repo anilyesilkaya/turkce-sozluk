@@ -2,6 +2,7 @@
 layout: term
 title: çıkar
 slug: cikar
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Dolaylı bir biçimde elde edilen kazanç; menfaat, yarar

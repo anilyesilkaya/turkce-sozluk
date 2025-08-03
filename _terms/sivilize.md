@@ -2,6 +2,7 @@
 layout: term
 title: sivilize
 slug: sivilize
+letter: S
 lisan: Fransızca civilisé
 anlamlar:
 - ► uygar

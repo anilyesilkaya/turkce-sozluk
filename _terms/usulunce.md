@@ -2,6 +2,7 @@
 layout: term
 title: usulünce
 slug: usulunce
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► gereğince

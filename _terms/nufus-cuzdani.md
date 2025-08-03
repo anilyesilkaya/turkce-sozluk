@@ -2,6 +2,7 @@
 layout: term
 title: nüfus cüzdanı
 slug: nufus-cuzdani
+letter: N
 lisan: Türkçe
 anlamlar:
 - Bir ülkenin vatandaşlarına devletçe verilen, kimlikleriyle kişisel durumlarını gösteren resmî belge; kafa kâğıdı, kafa koçanı, nüfus kâğıdı, nüfus tezkeresi

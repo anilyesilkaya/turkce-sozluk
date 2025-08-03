@@ -2,6 +2,7 @@
 layout: term
 title: kapıdan çevirmek
 slug: kapidan-cevirmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - geri döndürmek, kabul etmemek

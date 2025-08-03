@@ -2,6 +2,7 @@
 layout: term
 title: ocak yıkmak
 slug: ocak-yikmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - aileyi dağıtmak, yuvayı yıkmak

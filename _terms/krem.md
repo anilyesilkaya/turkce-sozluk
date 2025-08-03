@@ -2,6 +2,7 @@
 layout: term
 title: krem
 slug: krem
+letter: K
 lisan: Fransızca crème
 anlamlar:
 - Tene yumuşaklık vermek veya güneş, yağmur vb. dış etkilerden korunmak için sürülen koyu kıvamlı madde

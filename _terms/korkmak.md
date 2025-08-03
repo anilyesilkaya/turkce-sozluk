@@ -2,6 +2,7 @@
 layout: term
 title: korkmak
 slug: korkmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Korku duymak, ürkmek, dehşete kapılmak; korkulmak

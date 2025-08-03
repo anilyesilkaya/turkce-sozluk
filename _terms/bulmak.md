@@ -2,6 +2,7 @@
 layout: term
 title: bulmak
 slug: bulmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir şeyle, bir kimseyle arayarak veya aramadan karşılaşmak

@@ -2,6 +2,7 @@
 layout: term
 title: mizah
 slug: mizah
+letter: M
 lisan: Arapça mizāḥ
 anlamlar:
 - ► gülmece

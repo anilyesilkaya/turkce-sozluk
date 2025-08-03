@@ -2,6 +2,7 @@
 layout: term
 title: düşebilmek
 slug: dusebilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düşme ihtimali veya imkânı bulunmak

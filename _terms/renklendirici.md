@@ -2,6 +2,7 @@
 layout: term
 title: renklendirici
 slug: renklendirici
+letter: R
 lisan: Türkçe
 anlamlar:
 - Renk veren madde

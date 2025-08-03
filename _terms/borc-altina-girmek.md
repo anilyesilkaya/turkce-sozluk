@@ -2,6 +2,7 @@
 layout: term
 title: borç altına girmek
 slug: borc-altina-girmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - ödeme imkânlarını zorlayacak şekilde borçlanmak

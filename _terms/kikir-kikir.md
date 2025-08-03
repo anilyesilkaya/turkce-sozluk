@@ -2,6 +2,7 @@
 layout: term
 title: kıkır kıkır
 slug: kikir-kikir
+letter: K
 lisan: Türkçe
 anlamlar:
 - İçinden gelerek, sesli bir biçimde gülmek

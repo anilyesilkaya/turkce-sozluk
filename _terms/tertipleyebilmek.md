@@ -2,6 +2,7 @@
 layout: term
 title: tertipleyebilmek
 slug: tertipleyebilmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tertipleme ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: saçmalama
 slug: sacmalama
+letter: S
 lisan: Türkçe
 anlamlar:
 - Saçmalamak işi; abuklama, hezeyan

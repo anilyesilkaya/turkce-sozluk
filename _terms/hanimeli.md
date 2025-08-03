@@ -2,6 +2,7 @@
 layout: term
 title: hanımeli
 slug: hanimeli
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hanımeligillerden, tırmanıcı, korularda, çalılıklarda yetişen bir bitki (Lonicera caprifolium)

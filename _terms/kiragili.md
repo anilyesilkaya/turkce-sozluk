@@ -2,6 +2,7 @@
 layout: term
 title: kırağılı
 slug: kiragili
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kırağısı olan

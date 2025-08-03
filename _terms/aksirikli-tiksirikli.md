@@ -2,6 +2,7 @@
 layout: term
 title: aksırıklı tıksırıklı
 slug: aksirikli-tiksirikli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aksırıp tıksıran, hastalıklı olan

@@ -2,6 +2,7 @@
 layout: term
 title: can sohbeti
 slug: can-sohbeti
+letter: C
 lisan: Türkçe
 anlamlar:
 - İçtenlikle konuşan çok yakın dostlar bir arada söyleşip dertleşme

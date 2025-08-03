@@ -2,6 +2,7 @@
 layout: term
 title: doğrultmak
 slug: dogrultmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Doğrulmasını sağlamak, doğru duruma getirmek

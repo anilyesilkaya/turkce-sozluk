@@ -2,6 +2,7 @@
 layout: term
 title: karınca
 slug: karinca
+letter: K
 lisan: Türkçe
 anlamlar:
 - Zar kanatlılardan, toplu olarak yaşayan, yuvaları toprağın altında olan ve birçok türü bulunan böceklerin genel adı (Formica)

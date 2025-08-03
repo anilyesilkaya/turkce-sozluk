@@ -2,6 +2,7 @@
 layout: term
 title: iğrençlik
 slug: igrenclik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İğrenç olma durumu

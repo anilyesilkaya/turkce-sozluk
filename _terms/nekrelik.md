@@ -2,6 +2,7 @@
 layout: term
 title: nekrelik
 slug: nekrelik
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► nüktecilik

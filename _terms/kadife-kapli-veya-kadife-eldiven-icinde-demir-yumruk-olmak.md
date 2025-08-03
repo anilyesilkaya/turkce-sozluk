@@ -2,6 +2,7 @@
 layout: term
 title: kadife kaplı (veya kadife eldiven içinde) demir yumruk olmak
 slug: kadife-kapli-veya-kadife-eldiven-icinde-demir-yumruk-olmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir konuda başarı sağlamak için hissettirilmeden uygulanan güç

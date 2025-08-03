@@ -2,6 +2,7 @@
 layout: term
 title: bezci
 slug: bezci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bez üreten veya alıp satan kimse

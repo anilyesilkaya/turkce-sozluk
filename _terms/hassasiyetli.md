@@ -2,6 +2,7 @@
 layout: term
 title: hassasiyetli
 slug: hassasiyetli
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► duyarlıklı

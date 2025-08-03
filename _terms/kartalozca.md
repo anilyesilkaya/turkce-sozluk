@@ -2,6 +2,7 @@
 layout: term
 title: kartalozca
 slug: kartalozca
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kartaloşça

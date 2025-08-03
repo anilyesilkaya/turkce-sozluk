@@ -2,6 +2,7 @@
 layout: term
 title: bulaşık
 slug: bulasik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Yiyecek veya içecekle kirletilmiş mutfak eşyası veya kap kacak

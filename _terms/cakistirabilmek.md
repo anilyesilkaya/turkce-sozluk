@@ -2,6 +2,7 @@
 layout: term
 title: çakıştırabilmek
 slug: cakistirabilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çakıştırma ihtimali veya imkânı bulunmak

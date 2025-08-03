@@ -2,6 +2,7 @@
 layout: term
 title: cankurtaran sandalı
 slug: cankurtaran-sandali
+letter: C
 lisan: Türkçe
 anlamlar:
 - Denizde oluşabilecek batma, yangın, çarpışma veya çatışma gibi durumlarda içeridekilerin gemiyi güvenlice terk etmesini sağlayan küçük tekne, sandal veya bot; filika

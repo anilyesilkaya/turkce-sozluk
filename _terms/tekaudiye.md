@@ -2,6 +2,7 @@
 layout: term
 title: tekaüdiye
 slug: tekaudiye
+letter: T
 lisan: Arapça teḳāʿudiyye
 anlamlar:
 - ► emekli aylığı

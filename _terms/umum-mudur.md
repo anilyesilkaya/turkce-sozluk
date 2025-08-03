@@ -2,6 +2,7 @@
 layout: term
 title: umum müdür
 slug: umum-mudur
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► genel müdür

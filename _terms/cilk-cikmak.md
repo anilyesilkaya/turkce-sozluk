@@ -2,6 +2,7 @@
 layout: term
 title: cılk çıkmak
 slug: cilk-cikmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - kusurlu, boş veya bozuk çıkmak

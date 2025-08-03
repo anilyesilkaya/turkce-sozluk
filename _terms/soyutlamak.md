@@ -2,6 +2,7 @@
 layout: term
 title: soyutlamak
 slug: soyutlamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir şeye soyutlama işlemini uygulamak

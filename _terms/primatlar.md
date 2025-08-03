@@ -2,6 +2,7 @@
 layout: term
 title: primatlar
 slug: primatlar
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► maymunlar

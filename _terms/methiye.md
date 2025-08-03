@@ -2,6 +2,7 @@
 layout: term
 title: methiye
 slug: methiye
+letter: M
 lisan: Arapça medḥiyye
 anlamlar:
 - ► övgü

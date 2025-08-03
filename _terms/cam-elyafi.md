@@ -2,6 +2,7 @@
 layout: term
 title: cam elyafı
 slug: cam-elyafi
+letter: C
 lisan: Türkçe
 anlamlar:
 - Çok ince, bükülebilir, ısı ve ses yalıtımında kullanılan koruyucu madde; cam lifi, cam yünü

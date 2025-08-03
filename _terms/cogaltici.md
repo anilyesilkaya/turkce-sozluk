@@ -2,6 +2,7 @@
 layout: term
 title: çoğaltıcı
 slug: cogaltici
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çoğaltma işini gerçekleştiren düzenek

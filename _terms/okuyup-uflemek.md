@@ -2,6 +2,7 @@
 layout: term
 title: okuyup üflemek
 slug: okuyup-uflemek
+letter: O
 lisan: Türkçe
 anlamlar:
 - dinî inanca göre bir duayı okuduktan sonra, üfleyerek ruhlara yollamak

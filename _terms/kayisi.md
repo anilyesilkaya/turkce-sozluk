@@ -2,6 +2,7 @@
 layout: term
 title: kayısı
 slug: kayisi
+letter: K
 lisan: Farsça ḳayṣī
 anlamlar:
 - Gülgillerden, sıcak veya ılık iklimlerde yetişen, çiçekleri pembemsi beyaz bir ağaç (Prunus armeniaca)

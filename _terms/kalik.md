@@ -2,6 +2,7 @@
 layout: term
 title: kalık
 slug: kalik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalmış, artmış

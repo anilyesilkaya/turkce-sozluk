@@ -2,6 +2,7 @@
 layout: term
 title: krepdöşin
 slug: krepdosin
+letter: K
 lisan: Fransızca crêpe de Chine
 anlamlar:
 - İnce dokunmuş değerli bir tür ipekli kumaş

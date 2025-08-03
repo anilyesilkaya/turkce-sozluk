@@ -2,6 +2,7 @@
 layout: term
 title: çırpı gibi
 slug: cirpi-gibi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - çok ince, çok zayıf (kol ve bacak)

@@ -2,6 +2,7 @@
 layout: term
 title: mum direk
 slug: mum-direk
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► dimdik

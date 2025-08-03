@@ -2,6 +2,7 @@
 layout: term
 title: gaflet
 slug: gaflet
+letter: G
 lisan: Arapça ġaflet
 anlamlar:
 - ► aymazlık

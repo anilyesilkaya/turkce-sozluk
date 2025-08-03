@@ -2,6 +2,7 @@
 layout: term
 title: yazı yaban
 slug: yazi-yaban
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Her yer

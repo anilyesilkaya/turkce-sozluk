@@ -2,6 +2,7 @@
 layout: term
 title: minaresiz
 slug: minaresiz
+letter: M
 lisan: Türkçe
 anlamlar:
 - Minaresi olmayan

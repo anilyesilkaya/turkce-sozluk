@@ -2,6 +2,7 @@
 layout: term
 title: kalaycı
 slug: kalayci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kap kalaylayan kimse

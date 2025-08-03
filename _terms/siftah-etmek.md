@@ -2,6 +2,7 @@
 layout: term
 title: siftah etmek
 slug: siftah-etmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - esnaf aynı gün içerisinde ilk kez satış yapmak, siftahlamak

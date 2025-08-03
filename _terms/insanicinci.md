@@ -2,6 +2,7 @@
 layout: term
 title: insaniçinci
 slug: insanicinci
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► insanmerkezci

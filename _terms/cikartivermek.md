@@ -2,6 +2,7 @@
 layout: term
 title: çıkartıvermek
 slug: cikartivermek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çabucak veya ansızın çıkarmak

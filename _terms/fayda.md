@@ -2,6 +2,7 @@
 layout: term
 title: fayda
 slug: fayda
+letter: F
 lisan: Arapça fāʾide
 anlamlar:
 - ► yarar

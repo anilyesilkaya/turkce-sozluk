@@ -2,6 +2,7 @@
 layout: term
 title: kaynak yapmak
 slug: kaynak-yapmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - iki metal veya yapay parçayı ısı yoluyla birleştirmek

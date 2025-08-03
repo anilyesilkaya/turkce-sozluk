@@ -2,6 +2,7 @@
 layout: term
 title: haspa
 slug: haspa
+letter: H
 lisan: Türkçe
 anlamlar:
 - Kızlara, kadınlara şaka yollu söylenen bir söz

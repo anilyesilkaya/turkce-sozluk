@@ -2,6 +2,7 @@
 layout: term
 title: eğitim vermek
 slug: egitim-vermek
+letter: E
 lisan: Türkçe
 anlamlar:
 - belli bir bilim dalı veya sanat kolunda yetiştirmek

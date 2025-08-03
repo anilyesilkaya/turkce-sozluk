@@ -2,6 +2,7 @@
 layout: term
 title: ısırış
 slug: isiris
+letter: I
 lisan: Türkçe
 anlamlar:
 - Isırmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: muzdarip etmek
 slug: muzdarip-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - acı ve ızdırap vermek

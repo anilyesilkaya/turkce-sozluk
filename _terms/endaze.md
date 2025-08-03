@@ -2,6 +2,7 @@
 layout: term
 title: endaze
 slug: endaze
+letter: E
 lisan: Farsça endāze
 anlamlar:
 - 65 santimetrelik uzunluk ölçüsü

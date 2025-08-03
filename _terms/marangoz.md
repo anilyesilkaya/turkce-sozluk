@@ -2,6 +2,7 @@
 layout: term
 title: marangoz
 slug: marangoz
+letter: M
 lisan: Rumca
 anlamlar:
 - Ağaç işleriyle uğraşan ve ağaçtan çeşitli eşya yapan usta

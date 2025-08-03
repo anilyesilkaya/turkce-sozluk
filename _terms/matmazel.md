@@ -2,6 +2,7 @@
 layout: term
 title: matmazel
 slug: matmazel
+letter: M
 lisan: Fransızca mademoiselle
 anlamlar:
 - Evlenmemiş kadınlara Fransa’da verilen san

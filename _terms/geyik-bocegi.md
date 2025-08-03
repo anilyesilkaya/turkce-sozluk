@@ -2,6 +2,7 @@
 layout: term
 title: geyik böceği
 slug: geyik-bocegi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Geyik boynuzunu andıran sağlam çeneleriyle, orman ve tarım ağaçlarını kemirerek beslenen, 20-60 milimetre boyunda kın kanatlı böcek (Lucanus cervus)

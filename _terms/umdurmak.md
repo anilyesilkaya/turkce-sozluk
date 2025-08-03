@@ -2,6 +2,7 @@
 layout: term
 title: umdurmak
 slug: umdurmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Umma durumunu yaratmak, ummasını sağlamak

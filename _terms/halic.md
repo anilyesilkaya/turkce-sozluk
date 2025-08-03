@@ -2,6 +2,7 @@
 layout: term
 title: haliç
 slug: halic
+letter: H
 lisan: Arapça ḫalīc
 anlamlar:
 - ► körfez

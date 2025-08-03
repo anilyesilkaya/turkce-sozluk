@@ -2,6 +2,7 @@
 layout: term
 title: yıl
 slug: yil
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Dünya'nın, Güneş çevresinde tam bir dolanım yapması için geçen 365 gün, 5 saat ve 49 dakikalık zaman

@@ -2,6 +2,7 @@
 layout: term
 title: esasta
 slug: esasta
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► aslında

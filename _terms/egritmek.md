@@ -2,6 +2,7 @@
 layout: term
 title: eğritmek
 slug: egritmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► eğriltmek

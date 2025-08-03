@@ -2,6 +2,7 @@
 layout: term
 title: arkası sıra
 slug: arkasi-sira
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► ardınca

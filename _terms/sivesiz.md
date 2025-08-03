@@ -2,6 +2,7 @@
 layout: term
 title: şivesiz
 slug: sivesiz
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Konuşması şive özelliği taşımayan, ölçünlü dille konuşan

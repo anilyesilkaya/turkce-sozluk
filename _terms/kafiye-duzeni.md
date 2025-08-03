@@ -2,6 +2,7 @@
 layout: term
 title: 'kafiye düzeni '
 slug: kafiye-duzeni
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir şiirde uyakların sıralanış biçimi; uyak düzeni

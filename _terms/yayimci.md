@@ -2,6 +2,7 @@
 layout: term
 title: yayımcı
 slug: yayimci
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir sanatçının, bir yazarın eserini yayıma hazırlayan kimse veya kuruluş; naşir, tabi (II), editör

@@ -2,6 +2,7 @@
 layout: term
 title: birkaç
 slug: birkac
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çok olmayan, az sayıda

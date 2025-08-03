@@ -2,6 +2,7 @@
 layout: term
 title: 'medeniyet yuları '
 slug: medeniyet-yulari
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► kravat

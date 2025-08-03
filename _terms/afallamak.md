@@ -2,6 +2,7 @@
 layout: term
 title: afallamak
 slug: afallamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Şaşkınlıktan sersemleşmek

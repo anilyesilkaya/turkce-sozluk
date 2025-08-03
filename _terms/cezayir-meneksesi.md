@@ -2,6 +2,7 @@
 layout: term
 title: Cezayir menekşesi
 slug: cezayir-meneksesi
+letter: C
 lisan: Türkçe
 anlamlar:
 - Zakkumgillerden, bahçelerde süs bitkisi olarak yetiştirilen, kendine özgü mavi, açık mor renkli çiçekleri ve ortası çukur taç yaprakları olan bir tür bitki (Vinca)

@@ -2,6 +2,7 @@
 layout: term
 title: Allah'a emanet
 slug: allah-a-emanet
+letter: A
 lisan: Türkçe
 anlamlar:
 - '"Tanrı esirgesin" anlamında birini överken söylenen bir söz'

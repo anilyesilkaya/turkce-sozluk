@@ -2,6 +2,7 @@
 layout: term
 title: mecnunane
 slug: mecnunane
+letter: M
 lisan: Arapça mecnūn + Farsça -āne
 anlamlar:
 - Çılgın gibi, çılgınca olan

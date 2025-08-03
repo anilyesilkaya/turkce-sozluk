@@ -2,6 +2,7 @@
 layout: term
 title: cicim
 slug: cicim
+letter: C
 lisan: Türkçe
 anlamlar:
 - Ensiz olarak dokunmuş parçaların yan yana eklenmesiyle oluşan, perde veya örtü olarak kullanılan nakışlı ince kilim

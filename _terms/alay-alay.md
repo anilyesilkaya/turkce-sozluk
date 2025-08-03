@@ -2,6 +2,7 @@
 layout: term
 title: alay alay
 slug: alay-alay
+letter: A
 lisan: Türkçe
 anlamlar:
 - Pek çok, çok sayıda

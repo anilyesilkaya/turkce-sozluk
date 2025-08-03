@@ -2,6 +2,7 @@
 layout: term
 title: handikaplı
 slug: handikapli
+letter: H
 lisan: Türkçe
 anlamlar:
 - Engeli olan

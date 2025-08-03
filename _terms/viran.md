@@ -2,6 +2,7 @@
 layout: term
 title: viran
 slug: viran
+letter: V
 lisan: Farsça vīrān
 anlamlar:
 - ► harap

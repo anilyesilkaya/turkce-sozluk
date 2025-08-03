@@ -2,6 +2,7 @@
 layout: term
 title: pul biberli
 slug: pul-biberli
+letter: P
 lisan: Türkçe
 anlamlar:
 - İçerisine pul biber eklenmiş

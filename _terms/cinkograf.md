@@ -2,6 +2,7 @@
 layout: term
 title: çinkograf
 slug: cinkograf
+letter: Ç
 lisan: Fransızca zincographe
 anlamlar:
 - Çinkografi ustası

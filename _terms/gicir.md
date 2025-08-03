@@ -2,6 +2,7 @@
 layout: term
 title: gıcır
 slug: gicir
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► yeni

@@ -2,6 +2,7 @@
 layout: term
 title: toprakbastı
 slug: toprakbasti
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► ayakbastı parası

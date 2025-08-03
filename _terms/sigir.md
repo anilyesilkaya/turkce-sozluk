@@ -2,6 +2,7 @@
 layout: term
 title: sığır
 slug: sigir
+letter: S
 lisan: Türkçe
 anlamlar:
 - Geviş getirenlerden, boynuzlu büyükbaş evcil hayvanların genel adı

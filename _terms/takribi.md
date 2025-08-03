@@ -2,6 +2,7 @@
 layout: term
 title: takribî
 slug: takribi
+letter: T
 lisan: Arapça taḳrībī
 anlamlar:
 - ► yaklaşık

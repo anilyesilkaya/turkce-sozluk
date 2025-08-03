@@ -2,6 +2,7 @@
 layout: term
 title: pirüpak olmak
 slug: pirupak-olmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - kirlerden arınıp tertemiz olmak

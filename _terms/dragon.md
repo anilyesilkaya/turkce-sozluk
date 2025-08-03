@@ -2,6 +2,7 @@
 layout: term
 title: dragon
 slug: dragon
+letter: D
 lisan: Fransızca dragon
 anlamlar:
 - ► ejderha

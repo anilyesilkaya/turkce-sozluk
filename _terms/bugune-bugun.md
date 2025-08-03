@@ -2,6 +2,7 @@
 layout: term
 title: bugüne bugün
 slug: bugune-bugun
+letter: B
 lisan: Türkçe
 anlamlar:
 - Şunu iyi bil ki, unutma ki

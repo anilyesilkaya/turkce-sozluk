@@ -2,6 +2,7 @@
 layout: term
 title: 'kıyır kıyır '
 slug: kiyir-kiyir
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yenildiğinde kolay ezilen veya ağızda dağılan

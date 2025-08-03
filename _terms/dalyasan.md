@@ -2,6 +2,7 @@
 layout: term
 title: dalyasan
 slug: dalyasan
+letter: D
 lisan: Arapça taylesān
 anlamlar:
 - Sarıkların omuz üzerine dökülen ucu

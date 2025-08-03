@@ -2,6 +2,7 @@
 layout: term
 title: orada
 slug: orada
+letter: O
 lisan: Türkçe
 anlamlar:
 - Sözü edilen yerde

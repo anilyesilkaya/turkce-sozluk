@@ -2,6 +2,7 @@
 layout: term
 title: efsus
 slug: efsus
+letter: E
 lisan: Arapça efsūs
 anlamlar:
 - Yazık, eyvah

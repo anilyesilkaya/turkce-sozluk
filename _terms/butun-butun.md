@@ -2,6 +2,7 @@
 layout: term
 title: bütün bütün
 slug: butun-butun
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► tamamen

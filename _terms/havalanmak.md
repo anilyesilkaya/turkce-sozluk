@@ -2,6 +2,7 @@
 layout: term
 title: havalanmak
 slug: havalanmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Temiz hava alması sağlanmak, havası değiştirilmek

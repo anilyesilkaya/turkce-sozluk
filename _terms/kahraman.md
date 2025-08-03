@@ -2,6 +2,7 @@
 layout: term
 title: kahraman
 slug: kahraman
+letter: K
 lisan: Farsça ḳahramān
 anlamlar:
 - Savaşta veya tehlikeli bir durumda yararlık gösteren (kimse); yiğit

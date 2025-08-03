@@ -2,6 +2,7 @@
 layout: term
 title: üleşilebilme
 slug: ulesilebilme
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - ► paylaşılabilme

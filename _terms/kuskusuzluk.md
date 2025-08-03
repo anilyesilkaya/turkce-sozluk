@@ -2,6 +2,7 @@
 layout: term
 title: kuşkusuzluk
 slug: kuskusuzluk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kuşkusuz olma durumu; şüphesizlik

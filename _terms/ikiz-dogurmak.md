@@ -2,6 +2,7 @@
 layout: term
 title: ikiz doğurmak
 slug: ikiz-dogurmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - ikiz bebek dünyaya getirmek

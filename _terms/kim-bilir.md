@@ -2,6 +2,7 @@
 layout: term
 title: kim bilir
 slug: kim-bilir
+letter: K
 lisan: Türkçe
 anlamlar:
 - belirsizlik, bilinmezlik bildiren bir söz

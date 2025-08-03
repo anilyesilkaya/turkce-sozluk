@@ -2,6 +2,7 @@
 layout: term
 title: muayene etmek
 slug: muayene-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - bir kimsenin hasta olup olmadığını veya hastalığının yerini ve seyrini araştırmak

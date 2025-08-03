@@ -2,6 +2,7 @@
 layout: term
 title: Osmanlı lalesi
 slug: osmanli-lalesi
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► İstanbul lalesi

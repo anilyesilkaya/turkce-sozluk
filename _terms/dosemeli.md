@@ -2,6 +2,7 @@
 layout: term
 title: döşemeli
 slug: dosemeli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Döşemesi olan

@@ -2,6 +2,7 @@
 layout: term
 title: gerine gerine
 slug: gerine-gerine
+letter: G
 lisan: Türkçe
 anlamlar:
 - Övünerek

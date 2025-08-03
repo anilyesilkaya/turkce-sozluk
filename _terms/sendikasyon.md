@@ -2,6 +2,7 @@
 layout: term
 title: sendikasyon
 slug: sendikasyon
+letter: S
 lisan: Fransızca syndication
 anlamlar:
 - Şirket veya kişilerin ortak bir çıkar için iş birliği yapması

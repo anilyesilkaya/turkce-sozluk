@@ -2,6 +2,7 @@
 layout: term
 title: çapaçulcu
 slug: capaculcu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Serseri, başıboş (kimse)

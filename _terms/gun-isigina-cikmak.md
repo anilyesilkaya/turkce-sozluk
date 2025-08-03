@@ -2,6 +2,7 @@
 layout: term
 title: gün ışığına çıkmak
 slug: gun-isigina-cikmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - açıklığa kavuşmak, aydınlanmak

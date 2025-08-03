@@ -2,6 +2,7 @@
 layout: term
 title: çetele tablosu
 slug: cetele-tablosu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Verilerin miktarının çizgilerle anlatıldığı tablo

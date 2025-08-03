@@ -2,6 +2,7 @@
 layout: term
 title: file bekçisi
 slug: file-bekcisi
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► kaleci

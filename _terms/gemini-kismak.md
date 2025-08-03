@@ -2,6 +2,7 @@
 layout: term
 title: gemini kısmak
 slug: gemini-kismak
+letter: G
 lisan: Türkçe
 anlamlar:
 - atı durdurmak veya yavaşlatmak için gemini çekmek

@@ -2,6 +2,7 @@
 layout: term
 title: gözleri takılıp kalmak
 slug: gozleri-takilip-kalmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - bir şeyden gözlerini ayıramamak

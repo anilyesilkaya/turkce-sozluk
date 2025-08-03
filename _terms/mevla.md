@@ -2,6 +2,7 @@
 layout: term
 title: Mevla
 slug: mevla
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► Allah

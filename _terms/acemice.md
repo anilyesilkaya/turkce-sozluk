@@ -2,6 +2,7 @@
 layout: term
 title: acemice
 slug: acemice
+letter: A
 lisan: Türkçe
 anlamlar:
 - Acemi bir biçimde; acemicesine, toyca

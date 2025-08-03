@@ -2,6 +2,7 @@
 layout: term
 title: katı kalpli olmak
 slug: kati-kalpli-olmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - olan bitenden etkilenmemek, duygusuzlaşmak

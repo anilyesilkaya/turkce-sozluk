@@ -2,6 +2,7 @@
 layout: term
 title: milletin ağzı torba değil ki büzesin (veya dikesin)
 slug: milletin-agzi-torba-degil-ki-buzesin-veya-dikesin
+letter: M
 lisan: Türkçe
 anlamlar:
 - '"başkalarının söyleyeceklerine engel olamazsınız" anlamında kullanılan bir söz'

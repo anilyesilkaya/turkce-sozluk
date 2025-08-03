@@ -2,6 +2,7 @@
 layout: term
 title: suikast
 slug: suikast
+letter: S
 lisan: Arapça sūʾ + ḳaṣd
 anlamlar:
 - Gizlice cana kıyma ve kötülük etmeye kalkışma

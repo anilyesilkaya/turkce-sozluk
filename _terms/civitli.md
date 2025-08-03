@@ -2,6 +2,7 @@
 layout: term
 title: çivitli
 slug: civitli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - İçinde çivit bulunan

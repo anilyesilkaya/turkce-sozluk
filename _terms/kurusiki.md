@@ -2,6 +2,7 @@
 layout: term
 title: kurusıkı
 slug: kurusiki
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yalnız barut doldurulmuş, çekirdeksiz tüfek veya tabanca mermisi

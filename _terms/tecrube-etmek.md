@@ -2,6 +2,7 @@
 layout: term
 title: tecrübe etmek
 slug: tecrube-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - denemek, sınamak

@@ -2,6 +2,7 @@
 layout: term
 title: pençe atmak
 slug: pence-atmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - yırtıcı hayvan ön ayaklarıyla saldırmak, vurmak

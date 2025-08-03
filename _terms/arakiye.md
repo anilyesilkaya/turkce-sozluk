@@ -2,6 +2,7 @@
 layout: term
 title: arakiye
 slug: arakiye
+letter: A
 lisan: Arapça ʿaraḳiyye
 anlamlar:
 - Dervişlerin giydikleri, tiftikten yapılmış ince külah

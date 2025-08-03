@@ -2,6 +2,7 @@
 layout: term
 title: bağdamak
 slug: bagdamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Birkaç şeyi birbirine geçirerek bağlamak

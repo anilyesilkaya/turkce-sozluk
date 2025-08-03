@@ -2,6 +2,7 @@
 layout: term
 title: yan rol
 slug: yan-rol
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Sinema veya tiyatroda başrol dışındaki ikinci derecedeki rol; yardımcı rol

@@ -2,6 +2,7 @@
 layout: term
 title: hesap (veya hesabını) vermek
 slug: hesap-veya-hesabini-vermek
+letter: H
 lisan: Türkçe
 anlamlar:
 - bir işin sorumluluğunu yüklenmek

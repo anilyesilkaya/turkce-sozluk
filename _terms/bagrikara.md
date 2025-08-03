@@ -2,6 +2,7 @@
 layout: term
 title: bağrıkara
 slug: bagrikara
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir tür iskete kuşu (Saxicola torquata)

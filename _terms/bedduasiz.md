@@ -2,6 +2,7 @@
 layout: term
 title: bedduasız
 slug: bedduasiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - İçinde beddua barındırmayan

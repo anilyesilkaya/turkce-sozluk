@@ -2,6 +2,7 @@
 layout: term
 title: uçuklaşmak
 slug: ucuklasmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Rengi soluklaşmak

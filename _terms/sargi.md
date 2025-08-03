@@ -2,6 +2,7 @@
 layout: term
 title: sargı
 slug: sargi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Esnek bir maddeden yapılmış uzun, dar ve ince şerit

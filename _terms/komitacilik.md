@@ -2,6 +2,7 @@
 layout: term
 title: komitacılık
 slug: komitacilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Komitacı olma durumu

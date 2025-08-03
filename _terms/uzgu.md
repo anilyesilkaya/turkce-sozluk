@@ -2,6 +2,7 @@
 layout: term
 title: üzgü
 slug: uzgu
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - ► eziyet

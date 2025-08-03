@@ -2,6 +2,7 @@
 layout: term
 title: mavnacı
 slug: mavnaci
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mavna işleten kimse

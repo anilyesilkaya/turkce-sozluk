@@ -2,6 +2,7 @@
 layout: term
 title: akıncı
 slug: akinci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Düşman ülkesine akın yapan savaşçı

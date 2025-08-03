@@ -2,6 +2,7 @@
 layout: term
 title: hissikablelvuku
 slug: hissikablelvuku
+letter: H
 lisan: Arapça ḥiss + ḳabl + vuḳūʿ
 anlamlar:
 - ► önsezi

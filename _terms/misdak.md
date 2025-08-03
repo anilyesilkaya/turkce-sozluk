@@ -2,6 +2,7 @@
 layout: term
 title: mısdak
 slug: misdak
+letter: M
 lisan: Arapça miṣdāḳ
 anlamlar:
 - ► ölçüt

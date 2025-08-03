@@ -2,6 +2,7 @@
 layout: term
 title: şeytan aldatmak
 slug: seytan-aldatmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - bazı davranışlarda iradeli, güçlü davranamamak, nefsine uymak

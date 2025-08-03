@@ -2,6 +2,7 @@
 layout: term
 title: tıklatabilmek
 slug: tiklatabilmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tıklatma ihtimali veya imkânı bulunmak

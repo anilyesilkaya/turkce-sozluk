@@ -2,6 +2,7 @@
 layout: term
 title: boş bulunmak
 slug: bos-bulunmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - dikkatsiz ve dalgın bulunmak

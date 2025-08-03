@@ -2,6 +2,7 @@
 layout: term
 title: tütsülü
 slug: tutsulu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tütsü yapılmış (yer, kimse veya yiyecek)

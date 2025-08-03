@@ -2,6 +2,7 @@
 layout: term
 title: feryat figan
 slug: feryat-figan
+letter: F
 lisan: Türkçe
 anlamlar:
 - Haykırarak, ağlayarak

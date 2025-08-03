@@ -2,6 +2,7 @@
 layout: term
 title: teşvikkâr
 slug: tesvikkar
+letter: T
 lisan: Arapça teşvīḳ + Farsça -kār
 anlamlar:
 - ► isteklendirici

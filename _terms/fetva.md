@@ -2,6 +2,7 @@
 layout: term
 title: fetva
 slug: fetva
+letter: F
 lisan: Arapça fetvā
 anlamlar:
 - Bir sorunun dinî hukuk kurallarına göre çözümünü açıklamak amacıyla müftü veya şeyhülislam tarafından ilgili kişinin adı söylenmeden yapılan açıklama, hüküm veya cevap

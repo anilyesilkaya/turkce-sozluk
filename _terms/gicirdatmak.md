@@ -2,6 +2,7 @@
 layout: term
 title: gıcırdatmak
 slug: gicirdatmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gıcırtı çıkarmasına yol açmak

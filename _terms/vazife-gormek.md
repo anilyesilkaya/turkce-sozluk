@@ -2,6 +2,7 @@
 layout: term
 title: vazife görmek
 slug: vazife-gormek
+letter: V
 lisan: Türkçe
 anlamlar:
 - bir görevi yerine getirmek, sürdürmek

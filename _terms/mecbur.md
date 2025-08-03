@@ -2,6 +2,7 @@
 layout: term
 title: mecbur
 slug: mecbur
+letter: M
 lisan: Arapça mecbūr
 anlamlar:
 - Herhangi bir konuda yükümlü, bir şeyi yapmak zorunda olan; eli mahkûm

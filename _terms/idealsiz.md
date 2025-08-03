@@ -2,6 +2,7 @@
 layout: term
 title: idealsiz
 slug: idealsiz
+letter: I
 lisan: Türkçe
 anlamlar:
 - İdeali olmayan

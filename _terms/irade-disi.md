@@ -2,6 +2,7 @@
 layout: term
 title: irade dışı
 slug: irade-disi
+letter: I
 lisan: Türkçe
 anlamlar:
 - Yapılması istenmediği hâlde yapılan (davranış); istenç dışı, ihtiyarsız, iradesiz, istençsiz, gayriiradi

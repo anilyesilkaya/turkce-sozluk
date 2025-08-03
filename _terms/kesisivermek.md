@@ -2,6 +2,7 @@
 layout: term
 title: kesişivermek
 slug: kesisivermek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Aniden kesişmek

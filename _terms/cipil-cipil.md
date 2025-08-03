@@ -2,6 +2,7 @@
 layout: term
 title: çıpıl çıpıl
 slug: cipil-cipil
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Suyun içinde el ve ayaklarıyla çıp çıp ses çıkararak

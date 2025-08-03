@@ -2,6 +2,7 @@
 layout: term
 title: dahası var
 slug: dahasi-var
+letter: D
 lisan: Türkçe
 anlamlar:
 - bir konuda bilinmesi gereken başka şeyler de olduğunu anlatmak için kullanılan bir söz

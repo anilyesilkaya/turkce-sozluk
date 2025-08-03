@@ -2,6 +2,7 @@
 layout: term
 title: otomatik olarak
 slug: otomatik-olarak
+letter: O
 lisan: Türkçe
 anlamlar:
 - kendiliğinden

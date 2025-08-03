@@ -2,6 +2,7 @@
 layout: term
 title: alkış
 slug: alkis
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir şeyin beğenildiğini, onaylandığını anlatmak için iki eli ses çıkaracak şekilde birbirine vurma hareketi

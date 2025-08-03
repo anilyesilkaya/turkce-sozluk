@@ -2,6 +2,7 @@
 layout: term
 title: hafifseyiş
 slug: hafifseyis
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hafifsemek işi

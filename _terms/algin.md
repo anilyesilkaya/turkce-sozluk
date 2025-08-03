@@ -2,6 +2,7 @@
 layout: term
 title: algın
 slug: algin
+letter: A
 lisan: Türkçe
 anlamlar:
 - Cılız, zayıf, hastalıklı olan

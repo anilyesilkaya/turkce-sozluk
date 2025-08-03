@@ -2,6 +2,7 @@
 layout: term
 title: alev kırmızısı
 slug: alev-kirmizisi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Parlak kırmızı renk; alev rengi

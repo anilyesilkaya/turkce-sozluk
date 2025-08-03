@@ -2,6 +2,7 @@
 layout: term
 title: tehyiç etmek
 slug: tehyic-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - heyecanlandırmak

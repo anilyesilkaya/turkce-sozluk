@@ -2,6 +2,7 @@
 layout: term
 title: peydahlanmak
 slug: peydahlanmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Peydahlamak işi yapılmak

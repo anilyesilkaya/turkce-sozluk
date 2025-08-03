@@ -2,6 +2,7 @@
 layout: term
 title: yazılmak
 slug: yazilmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yazma işi yapılmak

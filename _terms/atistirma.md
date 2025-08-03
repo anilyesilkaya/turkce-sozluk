@@ -2,6 +2,7 @@
 layout: term
 title: atıştırma
 slug: atistirma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Atıştırmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: göl
 slug: gol
+letter: G
 lisan: Türkçe
 anlamlar:
 - Karaların içinde denizlerle bağlantısı olmayan durgun su birikintisi

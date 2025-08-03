@@ -2,6 +2,7 @@
 layout: term
 title: gümleyip gitmek
 slug: gumleyip-gitmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - beklenmedik bir zamanda ansızın ölmek

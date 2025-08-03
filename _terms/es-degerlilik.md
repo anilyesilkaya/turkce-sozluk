@@ -2,6 +2,7 @@
 layout: term
 title: eş değerlilik
 slug: es-degerlilik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eş değerli olma durumu

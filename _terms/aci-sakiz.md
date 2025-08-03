@@ -2,6 +2,7 @@
 layout: term
 title: acı sakız
 slug: aci-sakiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► çam sakızı

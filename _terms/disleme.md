@@ -2,6 +2,7 @@
 layout: term
 title: dişleme
 slug: disleme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dişlemek işi

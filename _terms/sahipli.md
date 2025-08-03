@@ -2,6 +2,7 @@
 layout: term
 title: sahipli
 slug: sahipli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir kimsenin malı olan

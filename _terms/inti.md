@@ -2,6 +2,7 @@
 layout: term
 title: inti
 slug: inti
+letter: I
 lisan: (Kızılderili dillerinden)
 anlamlar:
 - Peru'nun para birimi

@@ -2,6 +2,7 @@
 layout: term
 title: ayartıcı
 slug: ayartici
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayartma işini yapan

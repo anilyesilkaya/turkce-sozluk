@@ -2,6 +2,7 @@
 layout: term
 title: karasallık
 slug: karasallik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karasal olma durumu

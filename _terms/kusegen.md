@@ -2,6 +2,7 @@
 layout: term
 title: küseğen
 slug: kusegen
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çabuk ve sık sık küsen (kimse)

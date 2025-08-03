@@ -2,6 +2,7 @@
 layout: term
 title: işlevsel
 slug: islevsel
+letter: I
 lisan: Türkçe
 anlamlar:
 - İşlevle ilgili

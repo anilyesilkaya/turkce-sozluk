@@ -2,6 +2,7 @@
 layout: term
 title: nazarında
 slug: nazarinda
+letter: N
 lisan: Türkçe
 anlamlar:
 - Birinin düşüncesine göre, birinin gözünde

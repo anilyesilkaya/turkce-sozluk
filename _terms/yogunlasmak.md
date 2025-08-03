@@ -2,6 +2,7 @@
 layout: term
 title: yoğunlaşmak
 slug: yogunlasmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yoğun duruma gelmek; tekâsüf etmek, konsantre olmak

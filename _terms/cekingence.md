@@ -2,6 +2,7 @@
 layout: term
 title: çekingence
 slug: cekingence
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çekingene yakışır

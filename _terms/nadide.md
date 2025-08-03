@@ -2,6 +2,7 @@
 layout: term
 title: nadide
 slug: nadide
+letter: N
 lisan: Farsça nādīde
 anlamlar:
 - Az görülür, görülmedik, seyrek görülen

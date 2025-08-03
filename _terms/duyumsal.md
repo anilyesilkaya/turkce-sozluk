@@ -2,6 +2,7 @@
 layout: term
 title: duyumsal
 slug: duyumsal
+letter: D
 lisan: Türkçe
 anlamlar:
 - Duyu organları ile ilgili

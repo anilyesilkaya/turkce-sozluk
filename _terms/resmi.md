@@ -2,6 +2,7 @@
 layout: term
 title: resmî
 slug: resmi
+letter: R
 lisan: Arapça resmī
 anlamlar:
 - Devletin olan, devlete ait, devletle ilgili, özel karşıtı

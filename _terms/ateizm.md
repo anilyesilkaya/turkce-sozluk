@@ -2,6 +2,7 @@
 layout: term
 title: ateizm
 slug: ateizm
+letter: A
 lisan: Fransızca athéisme
 anlamlar:
 - ► tanrıtanımazlık

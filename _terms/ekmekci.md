@@ -2,6 +2,7 @@
 layout: term
 title: ekmekçi
 slug: ekmekci
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ekmek yapan veya satan kimse

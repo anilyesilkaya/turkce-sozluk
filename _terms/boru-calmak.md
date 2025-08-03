@@ -2,6 +2,7 @@
 layout: term
 title: boru çalmak
 slug: boru-calmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - borazan ile bir müzik parçasını seslendirmek

@@ -2,6 +2,7 @@
 layout: term
 title: füsunlu
 slug: fusunlu
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► büyülü

@@ -2,6 +2,7 @@
 layout: term
 title: ileri gelmek
 slug: ileri-gelmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - oluşmak, meydana gelmek

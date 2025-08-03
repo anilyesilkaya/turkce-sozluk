@@ -2,6 +2,7 @@
 layout: term
 title: iç
 slug: ic
+letter: I
 lisan: Türkçe
 anlamlar:
 - Herhangi bir durumun, cismin veya alanın sınırları arasında bulunan bir yer; dâhil, dış karşıtı

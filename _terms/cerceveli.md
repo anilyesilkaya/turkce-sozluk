@@ -2,6 +2,7 @@
 layout: term
 title: çerçeveli
 slug: cerceveli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çerçeve geçirilmiş veya çerçeve içine alınmış olan

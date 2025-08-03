@@ -2,6 +2,7 @@
 layout: term
 title: yazıya geçirmek
 slug: yaziya-gecirmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yazmak, yazılı duruma getirmek

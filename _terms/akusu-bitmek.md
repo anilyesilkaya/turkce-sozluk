@@ -2,6 +2,7 @@
 layout: term
 title: aküsü bitmek
 slug: akusu-bitmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - taşıtlarda depolanan enerji bitmek

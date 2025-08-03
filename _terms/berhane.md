@@ -2,6 +2,7 @@
 layout: term
 title: berhane
 slug: berhane
+letter: B
 lisan: Farsça ber + ḫāne
 anlamlar:
 - Yıkık dökük, kullanışsız ve büyük ev; barhane (I)

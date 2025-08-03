@@ -2,6 +2,7 @@
 layout: term
 title: biriktirilme
 slug: biriktirilme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Biriktirilmek işi

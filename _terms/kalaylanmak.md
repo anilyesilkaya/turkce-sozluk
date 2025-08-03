@@ -2,6 +2,7 @@
 layout: term
 title: kalaylanmak
 slug: kalaylanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalaylanma işi yapılmak veya kalaylama işine konu olmak

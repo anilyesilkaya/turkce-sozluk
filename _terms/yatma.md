@@ -2,6 +2,7 @@
 layout: term
 title: yatma
 slug: yatma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yatmak işi

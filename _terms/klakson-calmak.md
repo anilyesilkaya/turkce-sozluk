@@ -2,6 +2,7 @@
 layout: term
 title: klakson çalmak
 slug: klakson-calmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - korna çalmak

@@ -2,6 +2,7 @@
 layout: term
 title: yetkinleşmek
 slug: yetkinlesmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yetkin bir duruma gelmek

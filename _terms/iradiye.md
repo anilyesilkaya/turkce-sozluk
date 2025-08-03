@@ -2,6 +2,7 @@
 layout: term
 title: iradiye
 slug: iradiye
+letter: I
 lisan: Arapça irādiyye
 anlamlar:
 - ► iradecilik

@@ -2,6 +2,7 @@
 layout: term
 title: öbürü
 slug: oburu
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► öteki

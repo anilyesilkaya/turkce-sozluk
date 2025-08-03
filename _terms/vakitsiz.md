@@ -2,6 +2,7 @@
 layout: term
 title: vakitsiz
 slug: vakitsiz
+letter: V
 lisan: Türkçe
 anlamlar:
 - Uygun bir zamanda olmayan

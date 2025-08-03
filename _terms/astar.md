@@ -2,6 +2,7 @@
 layout: term
 title: astar
 slug: astar
+letter: A
 lisan: Farsça āster
 anlamlar:
 - Giyecek, perde, çanta, ayakkabı vb. şeylerde, kumaşın veya derinin iç tarafına geçirilen ince kat

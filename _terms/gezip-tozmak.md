@@ -2,6 +2,7 @@
 layout: term
 title: gezip tozmak
 slug: gezip-tozmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - eğlenmek amacıyla çokça gezmek

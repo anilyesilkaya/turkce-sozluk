@@ -2,6 +2,7 @@
 layout: term
 title: lisan
 slug: lisan
+letter: L
 lisan: Arapça lisān
 anlamlar:
 - ► dil (I)

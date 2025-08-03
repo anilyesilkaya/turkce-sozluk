@@ -2,6 +2,7 @@
 layout: term
 title: gayrimuntazam
 slug: gayrimuntazam
+letter: G
 lisan: Arapça ġayr + muntaẓam
 anlamlar:
 - ► düzensiz

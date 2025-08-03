@@ -2,6 +2,7 @@
 layout: term
 title: hırıltısız
 slug: hiriltisiz
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hırıltı çıkarmayan, hırıltısı olmayan

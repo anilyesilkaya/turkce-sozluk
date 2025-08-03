@@ -2,6 +2,7 @@
 layout: term
 title: şerham şerham
 slug: serham-serham
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► parça parça

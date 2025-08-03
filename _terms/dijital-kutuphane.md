@@ -2,6 +2,7 @@
 layout: term
 title: dijital kütüphane
 slug: dijital-kutuphane
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► elektronik kütüphane

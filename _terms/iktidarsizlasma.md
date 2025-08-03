@@ -2,6 +2,7 @@
 layout: term
 title: iktidarsızlaşma
 slug: iktidarsizlasma
+letter: I
 lisan: Türkçe
 anlamlar:
 - İktidarsızlaşmak durumu

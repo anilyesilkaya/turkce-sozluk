@@ -2,6 +2,7 @@
 layout: term
 title: sofra
 slug: sofra
+letter: S
 lisan: Arapça sufre
 anlamlar:
 - Masa, sini vb. şeylerin, yemek yemek üzere hazırlanmış durumu

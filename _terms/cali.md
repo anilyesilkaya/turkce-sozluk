@@ -2,6 +2,7 @@
 layout: term
 title: çalı
 slug: cali
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Böğürtlen, ahududu gibi küçük, dalları dibinden çatallanan ve sapları odunsu bitki

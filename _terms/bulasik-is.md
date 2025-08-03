@@ -2,6 +2,7 @@
 layout: term
 title: bulaşık iş
 slug: bulasik-is
+letter: B
 lisan: Türkçe
 anlamlar:
 - Yolsuz, uygunsuz, kirli iş

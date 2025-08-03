@@ -2,6 +2,7 @@
 layout: term
 title: küpe çiçeği
 slug: kupe-cicegi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Küpe çiçeğigillerin örneği olan süs bitkisi (Fuchsia)

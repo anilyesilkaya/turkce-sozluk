@@ -2,6 +2,7 @@
 layout: term
 title: aşırtmak
 slug: asirtmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aşırma işini yaptırmak

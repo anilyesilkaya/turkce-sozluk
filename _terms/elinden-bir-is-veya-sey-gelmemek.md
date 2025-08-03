@@ -2,6 +2,7 @@
 layout: term
 title: elinden bir iş (veya şey) gelmemek
 slug: elinden-bir-is-veya-sey-gelmemek
+letter: E
 lisan: Türkçe
 anlamlar:
 - çaresizlikten veya yeteneksizlikten bir iş yapamamak

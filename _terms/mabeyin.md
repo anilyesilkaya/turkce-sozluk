@@ -2,6 +2,7 @@
 layout: term
 title: mabeyin
 slug: mabeyin
+letter: M
 lisan: Arapça mābeyn
 anlamlar:
 - İki şeyin arası

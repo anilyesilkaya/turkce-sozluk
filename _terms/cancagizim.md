@@ -2,6 +2,7 @@
 layout: term
 title: cancağızım
 slug: cancagizim
+letter: C
 lisan: Türkçe
 anlamlar:
 - Yakın birisi için kullanılan bir sevgi sözü

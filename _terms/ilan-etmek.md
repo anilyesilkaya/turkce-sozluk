@@ -2,6 +2,7 @@
 layout: term
 title: ilan etmek
 slug: ilan-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - bir durumu yayım yoluyla duyurmak

@@ -2,6 +2,7 @@
 layout: term
 title: çuha çiçeği
 slug: cuha-cicegi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - İki çeneklilerden, çok yıllık, değişik renkli çiçekleri ve rozet yaprakları olan, dere kenarlarında da yetişen bir süs bitkisi; onbiraylık, tutya

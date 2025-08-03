@@ -2,6 +2,7 @@
 layout: term
 title: eksilme
 slug: eksilme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eksilmek işi; tenakus

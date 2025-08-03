@@ -2,6 +2,7 @@
 layout: term
 title: olta
 slug: olta
+letter: O
 lisan: Rumca
 anlamlar:
 - Genellikle, bir olta takımının ava hazır bütünü

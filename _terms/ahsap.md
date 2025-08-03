@@ -2,6 +2,7 @@
 layout: term
 title: ahşap
 slug: ahsap
+letter: A
 lisan: Arapça aḫşāb
 anlamlar:
 - Ağaçtan, tahtadan yapılmış

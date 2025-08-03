@@ -2,6 +2,7 @@
 layout: term
 title: bastırış
 slug: bastiris
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bastırmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: Soğdca
 slug: sogdca
+letter: S
 lisan: Türkçe
 anlamlar:
 - Soğdların kullandıkları İran kökenli ölü dil; Soğdakça

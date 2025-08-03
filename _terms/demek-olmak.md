@@ -2,6 +2,7 @@
 layout: term
 title: demek olmak
 slug: demek-olmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - anlamına geliyor olmak

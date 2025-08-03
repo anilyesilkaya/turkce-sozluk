@@ -2,6 +2,7 @@
 layout: term
 title: gibisi
 slug: gibisi
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► benzeri

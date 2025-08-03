@@ -2,6 +2,7 @@
 layout: term
 title: eğitmen
 slug: egitmen
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eğitim işiyle uğraşan kimse

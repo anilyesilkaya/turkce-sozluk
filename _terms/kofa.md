@@ -2,6 +2,7 @@
 layout: term
 title: kofa
 slug: kofa
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► hasır otu

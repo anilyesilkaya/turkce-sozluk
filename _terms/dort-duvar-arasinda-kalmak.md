@@ -2,6 +2,7 @@
 layout: term
 title: dört duvar arasında kalmak
 slug: dort-duvar-arasinda-kalmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - evde, kapalı bir yerde kalmak zorunda olmak

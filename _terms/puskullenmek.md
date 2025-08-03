@@ -2,6 +2,7 @@
 layout: term
 title: püsküllenmek
 slug: puskullenmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Püskül durumuna gelmek

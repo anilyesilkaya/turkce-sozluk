@@ -2,6 +2,7 @@
 layout: term
 title: sinyal
 slug: sinyal
+letter: S
 lisan: Fransızca signal
 anlamlar:
 - Bir şey bildirmek için verilen işaret

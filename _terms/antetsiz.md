@@ -2,6 +2,7 @@
 layout: term
 title: antetsiz
 slug: antetsiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► başlıksız

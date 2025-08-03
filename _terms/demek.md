@@ -2,6 +2,7 @@
 layout: term
 title: demek
 slug: demek
+letter: D
 lisan: Türkçe
 anlamlar:
 - bir şey anlamına gelmek

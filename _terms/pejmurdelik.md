@@ -2,6 +2,7 @@
 layout: term
 title: pejmürdelik
 slug: pejmurdelik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pejmürde olma durumu

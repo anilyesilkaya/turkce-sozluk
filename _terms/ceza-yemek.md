@@ -2,6 +2,7 @@
 layout: term
 title: ceza yemek
 slug: ceza-yemek
+letter: C
 lisan: Türkçe
 anlamlar:
 - cezalandırılmak

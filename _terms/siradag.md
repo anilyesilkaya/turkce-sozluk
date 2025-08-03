@@ -2,6 +2,7 @@
 layout: term
 title: sıradağ
 slug: siradag
+letter: S
 lisan: Türkçe
 anlamlar:
 - Uzunlamasına sıralanmış dağ dizisi

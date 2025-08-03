@@ -2,6 +2,7 @@
 layout: term
 title: açık saman rengi
 slug: acik-saman-rengi
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► krem rengi

@@ -2,6 +2,7 @@
 layout: term
 title: yüzüne duramamak
 slug: yuzune-duramamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - dayanamamak, bir isteğe hayır diyememek, kıramamak

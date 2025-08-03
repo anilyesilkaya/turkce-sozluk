@@ -2,6 +2,7 @@
 layout: term
 title: ayağına ip takmak
 slug: ayagina-ip-takmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir kimseyi çekiştirmek

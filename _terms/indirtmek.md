@@ -2,6 +2,7 @@
 layout: term
 title: indirtmek
 slug: indirtmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İndirmesini sağlamak

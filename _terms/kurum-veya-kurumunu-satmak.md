@@ -2,6 +2,7 @@
 layout: term
 title: kurum (veya kurumunu) satmak
 slug: kurum-veya-kurumunu-satmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kendini büyük ve önemli göstermek

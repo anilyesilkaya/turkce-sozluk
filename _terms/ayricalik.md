@@ -2,6 +2,7 @@
 layout: term
 title: ayrıcalık
 slug: ayricalik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Başkalarından ayrı ve üstün tutulma durumu; imtiyaz

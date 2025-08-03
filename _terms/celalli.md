@@ -2,6 +2,7 @@
 layout: term
 title: celalli
 slug: celalli
+letter: C
 lisan: Türkçe
 anlamlar:
 - Sert ve öfkeli (kimse)

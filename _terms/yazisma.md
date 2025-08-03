@@ -2,6 +2,7 @@
 layout: term
 title: yazışma
 slug: yazisma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir konuda karşılıklı yazı yazma; haberleşme, muhabere

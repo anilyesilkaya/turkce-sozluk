@@ -2,6 +2,7 @@
 layout: term
 title: müesseseleşme
 slug: muesseselesme
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► kurumlaşma

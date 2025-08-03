@@ -2,6 +2,7 @@
 layout: term
 title: defineci
 slug: defineci
+letter: D
 lisan: Türkçe
 anlamlar:
 - Gömü bulmak umuduyla kazı yapan veya yaptıran kimse; define avcısı

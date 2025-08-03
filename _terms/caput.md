@@ -2,6 +2,7 @@
 layout: term
 title: çaput
 slug: caput
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Eskimiş bez parçası; paçavra

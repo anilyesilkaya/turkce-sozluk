@@ -2,6 +2,7 @@
 layout: term
 title: ağına düşürmek
 slug: agina-dusurmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - tuzağına düşürmek

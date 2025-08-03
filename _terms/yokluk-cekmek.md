@@ -2,6 +2,7 @@
 layout: term
 title: yokluk çekmek
 slug: yokluk-cekmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yoksulluk içinde bulunmak

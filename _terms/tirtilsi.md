@@ -2,6 +2,7 @@
 layout: term
 title: tırtılsı
 slug: tirtilsi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tırtılı andıran, tırtıla benzeyen, tırtıl gibi; tırtılımsı

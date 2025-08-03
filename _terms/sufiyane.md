@@ -2,6 +2,7 @@
 layout: term
 title: sufiyane
 slug: sufiyane
+letter: S
 lisan: Arapça ṣūfī + Farsça -āne
 anlamlar:
 - Tasavvufla ilgili veya mutasavvıflara yakışır biçimde olan

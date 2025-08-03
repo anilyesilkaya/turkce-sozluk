@@ -2,6 +2,7 @@
 layout: term
 title: elden düşme
 slug: elden-dusme
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► ikinci el

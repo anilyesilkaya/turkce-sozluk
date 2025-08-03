@@ -2,6 +2,7 @@
 layout: term
 title: salıvermek
 slug: salivermek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bırakmak, koyuvermek, serbest bırakmak

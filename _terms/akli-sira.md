@@ -2,6 +2,7 @@
 layout: term
 title: aklı sıra
 slug: akli-sira
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► aklınca

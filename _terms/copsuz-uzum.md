@@ -2,6 +2,7 @@
 layout: term
 title: çöpsüz üzüm
 slug: copsuz-uzum
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Sıkıntı vermeyen, kazançlı iş

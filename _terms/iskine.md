@@ -2,6 +2,7 @@
 layout: term
 title: işkine
 slug: iskine
+letter: I
 lisan: Rumca
 anlamlar:
 - ► taş balığı

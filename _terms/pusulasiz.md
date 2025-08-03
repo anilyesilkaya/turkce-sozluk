@@ -2,6 +2,7 @@
 layout: term
 title: pusulasız
 slug: pusulasiz
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pusulası olmayan

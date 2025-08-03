@@ -2,6 +2,7 @@
 layout: term
 title: raddelerinde
 slug: raddelerinde
+letter: R
 lisan: Türkçe
 anlamlar:
 - ► sularında

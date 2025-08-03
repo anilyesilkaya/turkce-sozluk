@@ -2,6 +2,7 @@
 layout: term
 title: mesel
 slug: mesel
+letter: M
 lisan: Arapça mes̱el
 anlamlar:
 - Örnek alınacak söz

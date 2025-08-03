@@ -2,6 +2,7 @@
 layout: term
 title: 'muskat '
 slug: muskat
+letter: M
 lisan: Fransızca muscade
 anlamlar:
 - ► Hint cevizi

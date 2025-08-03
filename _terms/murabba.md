@@ -2,6 +2,7 @@
 layout: term
 title: murabba
 slug: murabba
+letter: M
 lisan: Arapça murebbāʾ
 anlamlar:
 - Terbiye edilmiş

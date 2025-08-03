@@ -2,6 +2,7 @@
 layout: term
 title: sofracıbaşı
 slug: sofracibasi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Saray ve konaklarda sofrayı kurma, kaldırma, yemeği dağıtma vb. işlerle uğraşan sofracılardan sorumlu görevli

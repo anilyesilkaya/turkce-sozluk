@@ -2,6 +2,7 @@
 layout: term
 title: periferi
 slug: periferi
+letter: P
 lisan: Fransızca périphérie
 anlamlar:
 - ► kıyı

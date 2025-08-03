@@ -2,6 +2,7 @@
 layout: term
 title: sakatçı
 slug: sakatci
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► sakatatçı

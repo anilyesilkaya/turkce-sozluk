@@ -2,6 +2,7 @@
 layout: term
 title: çipli
 slug: cipli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çipi olan, çip takılmış olan

@@ -2,6 +2,7 @@
 layout: term
 title: gözüne girmek
 slug: gozune-girmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - sevgi ve ilgisini kazanmak

@@ -2,6 +2,7 @@
 layout: term
 title: fıstık gibi
 slug: fistik-gibi
+letter: F
 lisan: Türkçe
 anlamlar:
 - dolgun, besili ve canlı

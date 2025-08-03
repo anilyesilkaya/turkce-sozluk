@@ -2,6 +2,7 @@
 layout: term
 title: tersleşmek
 slug: terslesmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Terslik etmek, zıt davranmak

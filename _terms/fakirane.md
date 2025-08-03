@@ -2,6 +2,7 @@
 layout: term
 title: fakirane
 slug: fakirane
+letter: F
 lisan: Arapça faḳīr + Farsça -āne
 anlamlar:
 - Fakir gibi, fakire uygun düşen

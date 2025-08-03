@@ -2,6 +2,7 @@
 layout: term
 title: bağıntılı
 slug: bagintili
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başka bir şeyle ilgisi olan, bağıntısı bulunan

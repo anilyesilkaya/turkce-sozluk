@@ -2,6 +2,7 @@
 layout: term
 title: ince düşüncelilik
 slug: ince-dusuncelilik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İnce düşünceli olma durumu

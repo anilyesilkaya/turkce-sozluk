@@ -2,6 +2,7 @@
 layout: term
 title: hasislik etmek
 slug: hasislik-etmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - cimrice davranmak

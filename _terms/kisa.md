@@ -2,6 +2,7 @@
 layout: term
 title: kısa
 slug: kisa
+letter: K
 lisan: Türkçe
 anlamlar:
 - Boyu, uzunluğu az olan; kesik, uzun karşıtı

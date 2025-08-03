@@ -2,6 +2,7 @@
 layout: term
 title: şuursuz
 slug: suursuz
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► bilinçsiz

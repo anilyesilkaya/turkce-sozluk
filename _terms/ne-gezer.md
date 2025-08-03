@@ -2,6 +2,7 @@
 layout: term
 title: ne gezer
 slug: ne-gezer
+letter: N
 lisan: Türkçe
 anlamlar:
 - bulunmaz, yoktur

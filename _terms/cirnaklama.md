@@ -2,6 +2,7 @@
 layout: term
 title: cırnaklama
 slug: cirnaklama
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► tırmalama

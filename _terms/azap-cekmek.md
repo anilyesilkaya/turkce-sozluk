@@ -2,6 +2,7 @@
 layout: term
 title: azap çekmek
 slug: azap-cekmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - eziyet çekmek, üzüntü içinde olmak

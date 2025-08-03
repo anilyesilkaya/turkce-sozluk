@@ -2,6 +2,7 @@
 layout: term
 title: barbut
 slug: barbut
+letter: B
 lisan: Türkçe
 anlamlar:
 - Ortaya konan para için iki kişi veya iki grup arasında, atılan bazı zarların kazanması, bazı zarların kaybetmesi temeline dayalı olarak oynanan bir tür kumar

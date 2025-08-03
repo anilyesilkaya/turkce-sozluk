@@ -2,6 +2,7 @@
 layout: term
 title: bacanaklık
 slug: bacanaklik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bacanak olma durumu

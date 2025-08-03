@@ -2,6 +2,7 @@
 layout: term
 title: içtimai
 slug: ictimai
+letter: I
 lisan: Arapça ictimāʿī
 anlamlar:
 - ► toplumsal

@@ -2,6 +2,7 @@
 layout: term
 title: eline tutuşturmak
 slug: eline-tutusturmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - karşısındakinin isteyip istemediğini düşünmeksizin verivermek

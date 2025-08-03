@@ -2,6 +2,7 @@
 layout: term
 title: kuğurdama
 slug: kugurdama
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kuğurdamak işi

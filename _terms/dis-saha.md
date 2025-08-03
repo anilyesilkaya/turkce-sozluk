@@ -2,6 +2,7 @@
 layout: term
 title: dış saha
 slug: dis-saha
+letter: D
 lisan: Türkçe
 anlamlar:
 - Spor takımlarının kendi sahaları dışında oynaması durumu; deplasman

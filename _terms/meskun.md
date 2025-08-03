@@ -2,6 +2,7 @@
 layout: term
 title: meskûn
 slug: meskun
+letter: M
 lisan: Arapça meskūn
 anlamlar:
 - İnsan oturan, şeneltilmiş (yer)

@@ -2,6 +2,7 @@
 layout: term
 title: sınırlamak
 slug: sinirlamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sınırını çizmek, sınırını belirtmek veya belirlemek; sınırlandırmak, hudutlandırmak

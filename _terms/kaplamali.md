@@ -2,6 +2,7 @@
 layout: term
 title: kaplamalı
 slug: kaplamali
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir şeyle kaplanmış

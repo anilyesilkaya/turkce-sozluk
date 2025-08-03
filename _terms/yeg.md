@@ -2,6 +2,7 @@
 layout: term
 title: yeğ
 slug: yeg
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir başkasından daha çok beğenilip tercih edilen, üstün görülen; müreccah

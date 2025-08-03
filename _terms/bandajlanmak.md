@@ -2,6 +2,7 @@
 layout: term
 title: bandajlanmak
 slug: bandajlanmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bandajlama işine konu olmak

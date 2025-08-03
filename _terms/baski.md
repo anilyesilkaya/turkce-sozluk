@@ -2,6 +2,7 @@
 layout: term
 title: baskı
 slug: baski
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir eserin basılış biçimi veya durumu

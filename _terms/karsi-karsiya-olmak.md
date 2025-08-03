@@ -2,6 +2,7 @@
 layout: term
 title: karşı karşıya olmak
 slug: karsi-karsiya-olmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir araya gelmek

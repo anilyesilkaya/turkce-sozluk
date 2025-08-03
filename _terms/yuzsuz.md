@@ -2,6 +2,7 @@
 layout: term
 title: yüzsüz
 slug: yuzsuz
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yüzü olmayan

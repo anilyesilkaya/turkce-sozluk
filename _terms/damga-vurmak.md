@@ -2,6 +2,7 @@
 layout: term
 title: damga vurmak
 slug: damga-vurmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - damgalamak

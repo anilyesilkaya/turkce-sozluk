@@ -2,6 +2,7 @@
 layout: term
 title: bak bak!
 slug: bak-bak
+letter: B
 lisan: Türkçe
 anlamlar:
 - şaşma bildiren bir söz

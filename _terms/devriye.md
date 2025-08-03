@@ -2,6 +2,7 @@
 layout: term
 title: devriye
 slug: devriye
+letter: D
 lisan: Arapça devriyye
 anlamlar:
 - ► kolluk (II)

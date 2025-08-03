@@ -2,6 +2,7 @@
 layout: term
 title: para etmemek
 slug: para-etmemek
+letter: P
 lisan: Türkçe
 anlamlar:
 - değeri pahasına satılamamak

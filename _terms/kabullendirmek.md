@@ -2,6 +2,7 @@
 layout: term
 title: kabullendirmek
 slug: kabullendirmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kabullenmesini sağlamak

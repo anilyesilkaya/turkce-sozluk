@@ -2,6 +2,7 @@
 layout: term
 title: lenger
 slug: lenger
+letter: L
 lisan: Farsça lenger
 anlamlar:
 - Yayvan ve kenarları geniş, büyük bakır kap

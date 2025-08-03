@@ -2,6 +2,7 @@
 layout: term
 title: bükülüvermek
 slug: bukuluvermek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çabucak bükülmek

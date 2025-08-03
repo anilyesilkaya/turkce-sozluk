@@ -2,6 +2,7 @@
 layout: term
 title: eşsiz
 slug: essiz
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eşi benzeri olmayan veya eşi benzeri görülmemiş olan; bulunmaz, yekta

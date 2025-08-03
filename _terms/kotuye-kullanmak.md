@@ -2,6 +2,7 @@
 layout: term
 title: kötüye kullanmak
 slug: kotuye-kullanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - yetkisini yasalara aykırı yolda kullanmak

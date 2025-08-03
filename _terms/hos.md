@@ -2,6 +2,7 @@
 layout: term
 title: hoş
 slug: hos
+letter: H
 lisan: Farsça ḫoş
 anlamlar:
 - Beğenilen, duyguları okşayan, zevk veren

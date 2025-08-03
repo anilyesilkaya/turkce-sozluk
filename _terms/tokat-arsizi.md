@@ -2,6 +2,7 @@
 layout: term
 title: tokat arsızı
 slug: tokat-arsizi
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► dayak arsızı

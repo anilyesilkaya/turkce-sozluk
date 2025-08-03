@@ -2,6 +2,7 @@
 layout: term
 title: araştırma
 slug: arastirma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Araştırmak işi; araştırı, tetkik

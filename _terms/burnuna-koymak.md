@@ -2,6 +2,7 @@
 layout: term
 title: burnuna koymak
 slug: burnuna-koymak
+letter: B
 lisan: Türkçe
 anlamlar:
 - aldırış etmek, göz önünde tutmak, değer vermek

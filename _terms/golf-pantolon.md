@@ -2,6 +2,7 @@
 layout: term
 title: golf pantolon
 slug: golf-pantolon
+letter: G
 lisan: Türkçe
 anlamlar:
 - Paçaları büzgülü bacak bölümü daha geniş pantolon

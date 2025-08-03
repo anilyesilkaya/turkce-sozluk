@@ -2,6 +2,7 @@
 layout: term
 title: kış kıyamet
 slug: kis-kiyamet
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çok zorlu kış

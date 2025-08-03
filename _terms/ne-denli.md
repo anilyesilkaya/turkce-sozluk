@@ -2,6 +2,7 @@
 layout: term
 title: ne denli
 slug: ne-denli
+letter: N
 lisan: Türkçe
 anlamlar:
 - ne kadar

@@ -2,6 +2,7 @@
 layout: term
 title: abuslaşmak
 slug: abuslasmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Suratı asılmak, somurtkan bir hâl almak

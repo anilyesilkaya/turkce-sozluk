@@ -2,6 +2,7 @@
 layout: term
 title: zorsunmak
 slug: zorsunmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Yüksünmek, yapacağı işi ağır bir yük veya angarya olarak kabul etmek

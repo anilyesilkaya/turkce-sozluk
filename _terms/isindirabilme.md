@@ -2,6 +2,7 @@
 layout: term
 title: ısındırabilme
 slug: isindirabilme
+letter: I
 lisan: Türkçe
 anlamlar:
 - Isındırabilmek işi

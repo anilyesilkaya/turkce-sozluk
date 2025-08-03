@@ -2,6 +2,7 @@
 layout: term
 title: çorbaya sinek düşmek
 slug: corbaya-sinek-dusmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - işin tadı kaçmak, yeteri kadar iyi ve güzel olmadığı anlaşılmak

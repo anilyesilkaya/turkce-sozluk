@@ -2,6 +2,7 @@
 layout: term
 title: kellik
 slug: kellik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kel olma durumu

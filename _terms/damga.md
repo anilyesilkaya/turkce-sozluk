@@ -2,6 +2,7 @@
 layout: term
 title: damga
 slug: damga
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir şeyin üzerine bir nişan, bir işaret basmaya yarayan araç

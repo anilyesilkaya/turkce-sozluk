@@ -2,6 +2,7 @@
 layout: term
 title: silkmek
 slug: silkmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Üstündeki şeyleri düşürmek veya temizlemek için bir şeyi kuvvetle sallamak, sarsmak

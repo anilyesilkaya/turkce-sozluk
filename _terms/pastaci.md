@@ -2,6 +2,7 @@
 layout: term
 title: pastacı
 slug: pastaci
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pasta (I) yapan veya satan kimse

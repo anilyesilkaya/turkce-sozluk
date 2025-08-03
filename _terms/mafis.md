@@ -2,6 +2,7 @@
 layout: term
 title: mafiş
 slug: mafis
+letter: M
 lisan: Arapça māfīhi + şeyʾ
 anlamlar:
 - '"Yok, kalmadı" anlamında kullanılan bir söz'

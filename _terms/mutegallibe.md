@@ -2,6 +2,7 @@
 layout: term
 title: mütegallibe
 slug: mutegallibe
+letter: M
 lisan: Arapça muteġallibe
 anlamlar:
 - ► zorba

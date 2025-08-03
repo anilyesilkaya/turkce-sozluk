@@ -2,6 +2,7 @@
 layout: term
 title: ılık
 slug: ilik
+letter: I
 lisan: Türkçe
 anlamlar:
 - Soğukla sıcak arası, ne soğuk ne sıcak

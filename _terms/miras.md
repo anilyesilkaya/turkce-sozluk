@@ -2,6 +2,7 @@
 layout: term
 title: miras
 slug: miras
+letter: M
 lisan: Arapça mīrās̱
 anlamlar:
 - Birine, ölen bir yakınından kalan mal mülk, para veya servet; kalıt, bırakıt, tereke

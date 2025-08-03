@@ -2,6 +2,7 @@
 layout: term
 title: asit borik
 slug: asit-borik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► borik asit

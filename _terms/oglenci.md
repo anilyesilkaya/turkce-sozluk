@@ -2,6 +2,7 @@
 layout: term
 title: öğlenci
 slug: oglenci
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - İkili öğretim yapan okullarda öğleden sonra ders gören öğrenci, sabahçı karşıtı

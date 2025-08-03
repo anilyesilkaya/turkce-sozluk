@@ -2,6 +2,7 @@
 layout: term
 title: bergüzar
 slug: berguzar
+letter: B
 lisan: Farsça berguẕār
 anlamlar:
 - ► hatıra

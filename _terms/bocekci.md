@@ -2,6 +2,7 @@
 layout: term
 title: böcekçi
 slug: bocekci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Böcek üretip satan kimse

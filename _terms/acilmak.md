@@ -2,6 +2,7 @@
 layout: term
 title: açılmak
 slug: acilmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Açık duruma gelmek veya getirilmek

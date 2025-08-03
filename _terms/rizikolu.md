@@ -2,6 +2,7 @@
 layout: term
 title: rizikolu
 slug: rizikolu
+letter: R
 lisan: Türkçe
 anlamlar:
 - Rizikosu olan

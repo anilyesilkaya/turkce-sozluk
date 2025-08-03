@@ -2,6 +2,7 @@
 layout: term
 title: hâl tercümesi
 slug: hal-tercumesi
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► öz geçmiş

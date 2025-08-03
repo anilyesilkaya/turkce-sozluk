@@ -2,6 +2,7 @@
 layout: term
 title: türkücü
 slug: turkucu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Türkü söyleyen kimse; okuyucu

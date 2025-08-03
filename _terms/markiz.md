@@ -2,6 +2,7 @@
 layout: term
 title: markiz
 slug: markiz
+letter: M
 lisan: Fransızca marquise
 anlamlar:
 - Markinin karısı

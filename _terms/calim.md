@@ -2,6 +2,7 @@
 layout: term
 title: çalım
 slug: calim
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Karşıdakini etkilemek amacıyla sergilenen abartılı davranış; alım çalım, poz, zambır

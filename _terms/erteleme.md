@@ -2,6 +2,7 @@
 layout: term
 title: erteleme
 slug: erteleme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ertelemek işi; tehir, tecil, talik

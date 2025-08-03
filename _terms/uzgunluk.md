@@ -2,6 +2,7 @@
 layout: term
 title: üzgünlük
 slug: uzgunluk
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üzgün olma durumu

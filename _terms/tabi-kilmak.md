@@ -2,6 +2,7 @@
 layout: term
 title: tabi kılmak
 slug: tabi-kilmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - egemenliği altına almak, boyun eğdirmek, kendine uydurmak

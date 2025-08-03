@@ -2,6 +2,7 @@
 layout: term
 title: atkılı
 slug: atkili
+letter: A
 lisan: Türkçe
 anlamlar:
 - Atkısı olan

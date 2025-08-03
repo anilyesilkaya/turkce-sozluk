@@ -2,6 +2,7 @@
 layout: term
 title: fiyakalı
 slug: fiyakali
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► gösterişli

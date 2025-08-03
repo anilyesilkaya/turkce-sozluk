@@ -2,6 +2,7 @@
 layout: term
 title: ivecenlik
 slug: ivecenlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► acelecilik

@@ -2,6 +2,7 @@
 layout: term
 title: levha
 slug: levha
+letter: L
 lisan: Arapça levḥa
 anlamlar:
 - Bir yere asılmak için yazılmış yazı

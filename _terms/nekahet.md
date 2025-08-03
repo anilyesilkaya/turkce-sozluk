@@ -2,6 +2,7 @@
 layout: term
 title: nekahet
 slug: nekahet
+letter: N
 lisan: Arapça neḳāhet
 anlamlar:
 - Hastalıktan yeni kurtulmuş zayıf ve hâlsiz olan kimsenin durumu

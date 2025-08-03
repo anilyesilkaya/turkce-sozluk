@@ -2,6 +2,7 @@
 layout: term
 title: şeytanca
 slug: seytanca
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şeytana yaraşan

@@ -2,6 +2,7 @@
 layout: term
 title: bu minval üzere
 slug: bu-minval-uzere
+letter: B
 lisan: Türkçe
 anlamlar:
 - bu biçimde, bu tarzda

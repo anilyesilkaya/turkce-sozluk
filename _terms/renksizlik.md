@@ -2,6 +2,7 @@
 layout: term
 title: renksizlik
 slug: renksizlik
+letter: R
 lisan: Türkçe
 anlamlar:
 - Renksiz olma durumu

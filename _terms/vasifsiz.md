@@ -2,6 +2,7 @@
 layout: term
 title: vasıfsız
 slug: vasifsiz
+letter: V
 lisan: Türkçe
 anlamlar:
 - ► niteliksiz

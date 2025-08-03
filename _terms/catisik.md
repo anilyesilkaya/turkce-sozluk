@@ -2,6 +2,7 @@
 layout: term
 title: çatışık
 slug: catisik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çelişkili

@@ -2,6 +2,7 @@
 layout: term
 title: düziko
 slug: duziko
+letter: D
 lisan: Rumca
 anlamlar:
 - ► düz rakı

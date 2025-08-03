@@ -2,6 +2,7 @@
 layout: term
 title: çocuksu
 slug: cocuksu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çocuk gibi, çocukça olan, çocuğa benzeyen

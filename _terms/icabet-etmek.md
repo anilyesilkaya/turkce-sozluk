@@ -2,6 +2,7 @@
 layout: term
 title: icabet etmek
 slug: icabet-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - çağrı üzerine gitmek, katılmak

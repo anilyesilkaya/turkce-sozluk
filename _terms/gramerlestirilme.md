@@ -2,6 +2,7 @@
 layout: term
 title: gramerleştirilme
 slug: gramerlestirilme
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► dil bilgiselleştirilme

@@ -2,6 +2,7 @@
 layout: term
 title: habitat
 slug: habitat
+letter: H
 lisan: İngilizce habitat
 anlamlar:
 - Yerleşme, oturma

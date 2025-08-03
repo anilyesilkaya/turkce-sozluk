@@ -2,6 +2,7 @@
 layout: term
 title: umutsuzlaştırılmak
 slug: umutsuzlastirilmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Umutsuz duruma getirilmek

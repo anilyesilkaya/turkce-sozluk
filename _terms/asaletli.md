@@ -2,6 +2,7 @@
 layout: term
 title: asaletli
 slug: asaletli
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► soylu

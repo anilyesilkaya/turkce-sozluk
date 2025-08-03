@@ -2,6 +2,7 @@
 layout: term
 title: gösterilmek
 slug: gosterilmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Görülmesi sağlanmak

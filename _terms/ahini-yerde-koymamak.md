@@ -2,6 +2,7 @@
 layout: term
 title: ahını yerde koymamak
 slug: ahini-yerde-koymamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - öcünü almak

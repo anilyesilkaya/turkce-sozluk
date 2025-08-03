@@ -2,6 +2,7 @@
 layout: term
 title: abartıcılık
 slug: abarticilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Abartıcı olma durumu; abartmacılık, mübalağacılık

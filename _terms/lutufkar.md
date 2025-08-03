@@ -2,6 +2,7 @@
 layout: term
 title: lütufkâr
 slug: lutufkar
+letter: L
 lisan: Arapça luṭf + Farsça -kâr
 anlamlar:
 - İyiliksever olan (kimse)

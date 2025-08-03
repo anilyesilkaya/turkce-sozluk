@@ -2,6 +2,7 @@
 layout: term
 title: göğüsleme
 slug: gogusleme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Göğüslemek işi

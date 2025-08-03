@@ -2,6 +2,7 @@
 layout: term
 title: aforoz
 slug: aforoz
+letter: A
 lisan: Rumca
 anlamlar:
 - Hristiyanlıkta kilise tarafından verilen cemaatten kovma cezası

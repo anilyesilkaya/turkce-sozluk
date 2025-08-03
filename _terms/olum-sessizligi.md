@@ -2,6 +2,7 @@
 layout: term
 title: ölüm sessizliği
 slug: olum-sessizligi
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Derin bir sessizlik; ölü sessizliği, ölüm sükûtu

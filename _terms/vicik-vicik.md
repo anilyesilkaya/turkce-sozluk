@@ -2,6 +2,7 @@
 layout: term
 title: vıcık vıcık
 slug: vicik-vicik
+letter: V
 lisan: Türkçe
 anlamlar:
 - Kıvamı çok gevşemiş, yumuşamış

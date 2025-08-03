@@ -2,6 +2,7 @@
 layout: term
 title: boğuvermek
 slug: boguvermek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çabucak boğmak

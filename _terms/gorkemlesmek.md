@@ -2,6 +2,7 @@
 layout: term
 title: görkemleşmek
 slug: gorkemlesmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Görkemli hâle gelmek

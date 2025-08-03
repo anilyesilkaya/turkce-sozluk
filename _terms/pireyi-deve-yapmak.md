@@ -2,6 +2,7 @@
 layout: term
 title: pireyi deve yapmak
 slug: pireyi-deve-yapmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - önemsiz bir olayı büyütmek

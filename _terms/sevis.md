@@ -2,6 +2,7 @@
 layout: term
 title: seviş
 slug: sevis
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sevmek işi

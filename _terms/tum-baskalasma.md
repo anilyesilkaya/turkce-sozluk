@@ -2,6 +2,7 @@
 layout: term
 title: tüm başkalaşma
 slug: tum-baskalasma
+letter: T
 lisan: Türkçe
 anlamlar:
 - Böceklerde, kurtçuk ve koza evresi geçiren başkalaşma türü

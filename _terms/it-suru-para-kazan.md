@@ -2,6 +2,7 @@
 layout: term
 title: it sürü, para kazan
 slug: it-suru-para-kazan
+letter: I
 lisan: Türkçe
 anlamlar:
 - '"ekmek parası kazanmak için it sürümek gibi bir iş tutmak bile ayıp değildir" anlamında kullanılan bir söz'

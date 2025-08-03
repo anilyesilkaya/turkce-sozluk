@@ -2,6 +2,7 @@
 layout: term
 title: sağır duvar
 slug: sagir-duvar
+letter: S
 lisan: Türkçe
 anlamlar:
 - Ses geçirmeyen duvar

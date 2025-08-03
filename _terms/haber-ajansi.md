@@ -2,6 +2,7 @@
 layout: term
 title: haber ajansı
 slug: haber-ajansi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Yurt ve dünya olaylarını toplayıp yayımlayan kuruluş

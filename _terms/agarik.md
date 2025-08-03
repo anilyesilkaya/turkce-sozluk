@@ -2,6 +2,7 @@
 layout: term
 title: ağarık
 slug: agarik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Beyazlaşmış

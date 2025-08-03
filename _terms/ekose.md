@@ -2,6 +2,7 @@
 layout: term
 title: ekose
 slug: ekose
+letter: E
 lisan: Fransızca écossais
 anlamlar:
 - Çeşitli renk ve büyüklükteki karelerden oluşan (desen veya kumaş)

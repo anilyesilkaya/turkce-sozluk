@@ -2,6 +2,7 @@
 layout: term
 title: usta işi
 slug: usta-isi
+letter: U
 lisan: Türkçe
 anlamlar:
 - Eli uz, işinin ehli olan bir kimse tarafından yapılan

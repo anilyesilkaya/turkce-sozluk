@@ -2,6 +2,7 @@
 layout: term
 title: gözünü kin bürümek
 slug: gozunu-kin-burumek
+letter: G
 lisan: Türkçe
 anlamlar:
 - intikam alma duygusuyla hareket etmek

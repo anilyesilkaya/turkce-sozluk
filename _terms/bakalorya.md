@@ -2,6 +2,7 @@
 layout: term
 title: bakalorya
 slug: bakalorya
+letter: B
 lisan: Fransızca baccalauréat
 anlamlar:
 - Üniversitelere girebilmek için lise öğreniminden sonra verilen olgunluk sınavı

@@ -2,6 +2,7 @@
 layout: term
 title: şitap etmek (veya eylemek)
 slug: sitap-etmek-veya-eylemek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - hemen hareket etmek, acele etmek

@@ -2,6 +2,7 @@
 layout: term
 title: ihtiyarlamak
 slug: ihtiyarlamak
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► yaşlanmak

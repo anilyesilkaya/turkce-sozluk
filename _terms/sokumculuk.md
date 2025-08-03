@@ -2,6 +2,7 @@
 layout: term
 title: sökümcülük
 slug: sokumculuk
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sökümcünün yaptığı iş

@@ -2,6 +2,7 @@
 layout: term
 title: çevrinti
 slug: cevrinti
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir şeyin kendi ekseni çevresinde sürekli dönmesi

@@ -2,6 +2,7 @@
 layout: term
 title: kanaatli
 slug: kanaatli
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kanaatkâr

@@ -2,6 +2,7 @@
 layout: term
 title: gayz
 slug: gayz
+letter: G
 lisan: Arapça ġayż
 anlamlar:
 - ► hınç

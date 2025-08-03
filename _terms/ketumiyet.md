@@ -2,6 +2,7 @@
 layout: term
 title: ketumiyet
 slug: ketumiyet
+letter: K
 lisan: Arapça ketūmiyyet
 anlamlar:
 - ► ağzı sıkılık

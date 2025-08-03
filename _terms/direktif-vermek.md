@@ -2,6 +2,7 @@
 layout: term
 title: direktif vermek
 slug: direktif-vermek
+letter: D
 lisan: Türkçe
 anlamlar:
 - talimat vermek, emretmek, buyurmak

@@ -2,6 +2,7 @@
 layout: term
 title: iki çift laf (veya lakırtı veya söz) etmek
 slug: iki-cift-laf-veya-lakirti-veya-soz-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - birkaç söz söylemek

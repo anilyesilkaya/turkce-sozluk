@@ -2,6 +2,7 @@
 layout: term
 title: işte o kadar
 slug: iste-o-kadar
+letter: I
 lisan: Türkçe
 anlamlar:
 - '"bu böyledir, böyle olması gerekir” anlamında söylenen sözün kesin olduğunu bildiren bir söz'

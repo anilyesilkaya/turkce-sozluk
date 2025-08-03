@@ -2,6 +2,7 @@
 layout: term
 title: bileği çarkı
 slug: bilegi-carki
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bıçak, çakı, makas vb. kesici araçları bilemekte kullanılan çark; küstere

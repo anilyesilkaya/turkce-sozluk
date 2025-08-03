@@ -2,6 +2,7 @@
 layout: term
 title: mazoşizm
 slug: mazosizm
+letter: M
 lisan: Fransızca masochisme
 anlamlar:
 - ► özezerlik

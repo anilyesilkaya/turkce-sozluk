@@ -2,6 +2,7 @@
 layout: term
 title: canlar
 slug: canlar
+letter: C
 lisan: Türkçe
 anlamlar:
 - Yakınlık duygusuyla söylenen bir seslenme sözü

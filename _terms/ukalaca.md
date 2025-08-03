@@ -2,6 +2,7 @@
 layout: term
 title: ukalaca
 slug: ukalaca
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ukala bir biçimde

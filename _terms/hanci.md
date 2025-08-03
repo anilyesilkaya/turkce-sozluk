@@ -2,6 +2,7 @@
 layout: term
 title: hancı
 slug: hanci
+letter: H
 lisan: Türkçe
 anlamlar:
 - Han işleten kimse

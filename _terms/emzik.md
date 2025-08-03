@@ -2,6 +2,7 @@
 layout: term
 title: emzik
 slug: emzik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Süt çocuklarını oyalamak için ağızlarına verilen kauçuk meme

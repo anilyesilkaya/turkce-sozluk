@@ -2,6 +2,7 @@
 layout: term
 title: canlanıvermek
 slug: canlanivermek
+letter: C
 lisan: Türkçe
 anlamlar:
 - Çabucak canlanmak

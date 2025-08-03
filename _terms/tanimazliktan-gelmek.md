@@ -2,6 +2,7 @@
 layout: term
 title: tanımazlıktan gelmek
 slug: tanimazliktan-gelmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - bir kimseyi tanıdığı hâlde tanımıyormuş gibi davranmak

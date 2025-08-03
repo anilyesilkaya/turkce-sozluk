@@ -2,6 +2,7 @@
 layout: term
 title: illallah dedirtmek
 slug: illallah-dedirtmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - bezdirmek, usandırmak

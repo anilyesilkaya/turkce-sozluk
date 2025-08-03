@@ -2,6 +2,7 @@
 layout: term
 title: ağaç oyma
 slug: agac-oyma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Oyma baskı sanatlarından düz bir baskı tekniği

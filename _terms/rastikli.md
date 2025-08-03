@@ -2,6 +2,7 @@
 layout: term
 title: rastıklı
 slug: rastikli
+letter: R
 lisan: Türkçe
 anlamlar:
 - Rastık sürülmüş olan (kaş veya saç)

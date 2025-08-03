@@ -2,6 +2,7 @@
 layout: term
 title: komodor
 slug: komodor
+letter: K
 lisan: Fransızca commodore
 anlamlar:
 - Albay veya yarbay rütbesinde olmakla birlikte kumanda ettiği deniz birliği sebebiyle amiral yetkileri ile donatılmış komutan

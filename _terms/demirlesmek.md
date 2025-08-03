@@ -2,6 +2,7 @@
 layout: term
 title: demirleşmek
 slug: demirlesmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Demir durumuna gelmek

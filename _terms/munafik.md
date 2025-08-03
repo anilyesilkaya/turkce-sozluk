@@ -2,6 +2,7 @@
 layout: term
 title: münafık
 slug: munafik
+letter: M
 lisan: Arapça munāfiḳ
 anlamlar:
 - ► arabozan

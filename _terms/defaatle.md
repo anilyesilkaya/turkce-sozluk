@@ -2,6 +2,7 @@
 layout: term
 title: defaatle
 slug: defaatle
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► defalarca

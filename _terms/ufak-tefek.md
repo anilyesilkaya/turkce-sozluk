@@ -2,6 +2,7 @@
 layout: term
 title: ufak tefek
 slug: ufak-tefek
+letter: U
 lisan: Türkçe
 anlamlar:
 - Gerekli küçük eşya, araç gereç

@@ -2,6 +2,7 @@
 layout: term
 title: ileri geri etmemek
 slug: ileri-geri-etmemek
+letter: I
 lisan: Türkçe
 anlamlar:
 - uzun boylu tartışmamak, sorgu sual etmemek

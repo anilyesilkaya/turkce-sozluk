@@ -2,6 +2,7 @@
 layout: term
 title: prangabent
 slug: prangabent
+letter: P
 lisan: İtalyanca branca + Farsça bend
 anlamlar:
 - Prangaya vurulmuş (kimse)

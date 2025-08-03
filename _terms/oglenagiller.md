@@ -2,6 +2,7 @@
 layout: term
 title: öglenagiller
 slug: oglenagiller
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Örnek hayvanı öglena olan kamçılı bir hücreliler sınıfı

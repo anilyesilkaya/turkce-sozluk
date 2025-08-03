@@ -2,6 +2,7 @@
 layout: term
 title: aksilik çıkmak
 slug: aksilik-cikmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - engel ortaya çıkmak

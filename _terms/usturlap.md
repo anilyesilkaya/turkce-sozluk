@@ -2,6 +2,7 @@
 layout: term
 title: usturlap
 slug: usturlap
+letter: U
 lisan: Arapça usṭurlāb
 anlamlar:
 - Gök cisimlerinin yükseltisini ölçmekte, yerel saati ve namaz vakitlerini hesaplamakta kullanılan daire biçiminde araç

@@ -2,6 +2,7 @@
 layout: term
 title: ham ervahlık
 slug: ham-ervahlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Ham ervah olma durumu

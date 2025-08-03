@@ -2,6 +2,7 @@
 layout: term
 title: adam gibi adam
 slug: adam-gibi-adam
+letter: A
 lisan: Türkçe
 anlamlar:
 - her yönüyle örnek insan

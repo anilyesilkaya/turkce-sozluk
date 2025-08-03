@@ -2,6 +2,7 @@
 layout: term
 title: yetişebilmek
 slug: yetisebilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yetişme ihtimali veya imkânı bulunmak

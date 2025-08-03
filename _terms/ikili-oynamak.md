@@ -2,6 +2,7 @@
 layout: term
 title: ikili oynamak
 slug: ikili-oynamak
+letter: I
 lisan: Türkçe
 anlamlar:
 - karşı olan taraflardan her ikisini de desteklemek

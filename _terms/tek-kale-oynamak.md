@@ -2,6 +2,7 @@
 layout: term
 title: tek kale oynamak
 slug: tek-kale-oynamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - futbolda rakibi kendi sahasına sıkıştırıp sürekli hücum etmek

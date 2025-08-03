@@ -2,6 +2,7 @@
 layout: term
 title: ihtiyacı olmak
 slug: ihtiyaci-olmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - gereksinmek

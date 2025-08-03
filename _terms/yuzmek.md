@@ -2,6 +2,7 @@
 layout: term
 title: yüzmek
 slug: yuzmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Derisini çıkarmak, derisini soymak

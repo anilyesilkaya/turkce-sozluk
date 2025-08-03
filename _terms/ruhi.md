@@ -2,6 +2,7 @@
 layout: term
 title: ruhi
 slug: ruhi
+letter: R
 lisan: Arapça rūḥī
 anlamlar:
 - ► ruhsal

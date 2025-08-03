@@ -2,6 +2,7 @@
 layout: term
 title: gözlerini kaçırmak
 slug: gozlerini-kacirmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - biriyle göz göze gelmemek için gözlerini başka tarafa çevirmek

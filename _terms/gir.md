@@ -2,6 +2,7 @@
 layout: term
 title: gır
 slug: gir
+letter: G
 lisan: Türkçe
 anlamlar:
 - Söz, lakırtı

@@ -2,6 +2,7 @@
 layout: term
 title: çıtır pıtır
 slug: citir-pitir
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çıtı pıtı

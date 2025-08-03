@@ -2,6 +2,7 @@
 layout: term
 title: ayrışıklık
 slug: ayrisiklik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayrışık olma durumu

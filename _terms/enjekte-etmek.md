@@ -2,6 +2,7 @@
 layout: term
 title: enjekte etmek
 slug: enjekte-etmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - iç itmek

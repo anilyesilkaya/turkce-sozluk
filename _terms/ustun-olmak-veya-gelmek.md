@@ -2,6 +2,7 @@
 layout: term
 title: üstün olmak (veya gelmek)
 slug: ustun-olmak-veya-gelmek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - benzerlerinden daha yüksek düzeyde olmak

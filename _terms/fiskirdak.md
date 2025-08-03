@@ -2,6 +2,7 @@
 layout: term
 title: fışkırdak
 slug: fiskirdak
+letter: F
 lisan: Türkçe
 anlamlar:
 - Sıvıları fışkırtmaya yarayan araç

@@ -2,6 +2,7 @@
 layout: term
 title: viraj
 slug: viraj
+letter: V
 lisan: Fransızca virage
 anlamlar:
 - ► dönemeç

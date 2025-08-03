@@ -2,6 +2,7 @@
 layout: term
 title: yelken açmak
 slug: yelken-acmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yola çıkmak için hareket etmek

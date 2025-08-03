@@ -2,6 +2,7 @@
 layout: term
 title: görülme
 slug: gorulme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Görülmek işi

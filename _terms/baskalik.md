@@ -2,6 +2,7 @@
 layout: term
 title: başkalık
 slug: baskalik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başka olma durumu

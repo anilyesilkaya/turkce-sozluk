@@ -2,6 +2,7 @@
 layout: term
 title: piyadece
 slug: piyadece
+letter: P
 lisan: Türkçe
 anlamlar:
 - Yaya olarak

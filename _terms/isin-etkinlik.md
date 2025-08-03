@@ -2,6 +2,7 @@
 layout: term
 title: ışın etkinlik
 slug: isin-etkinlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► radyoaktivite

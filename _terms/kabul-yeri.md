@@ -2,6 +2,7 @@
 layout: term
 title: kabul yeri
 slug: kabul-yeri
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kabul salonu

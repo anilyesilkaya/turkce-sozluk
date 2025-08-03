@@ -2,6 +2,7 @@
 layout: term
 title: hariciye
 slug: hariciye
+letter: H
 lisan: Arapça ḫāriciyye
 anlamlar:
 - Ameliyatla tedavi edilen hastalıklar

@@ -2,6 +2,7 @@
 layout: term
 title: çırasız
 slug: cirasiz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çırası olmayan

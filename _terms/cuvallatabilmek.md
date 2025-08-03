@@ -2,6 +2,7 @@
 layout: term
 title: çuvallatabilmek
 slug: cuvallatabilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çuvallatma ihtimali veya imkânı bulunmak

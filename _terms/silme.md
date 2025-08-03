@@ -2,6 +2,7 @@
 layout: term
 title: silme
 slug: silme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Silmek işi

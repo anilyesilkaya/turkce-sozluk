@@ -2,6 +2,7 @@
 layout: term
 title: pörsümek
 slug: porsumek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Gevşeyip sarkmak; porsumak

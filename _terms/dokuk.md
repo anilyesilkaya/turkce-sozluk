@@ -2,6 +2,7 @@
 layout: term
 title: dökük
 slug: dokuk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dökülmüş

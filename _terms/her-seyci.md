@@ -2,6 +2,7 @@
 layout: term
 title: her şeyci
 slug: her-seyci
+letter: H
 lisan: Türkçe
 anlamlar:
 - Her işi yapan, her şeyi alıp satan kimse

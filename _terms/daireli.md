@@ -2,6 +2,7 @@
 layout: term
 title: daireli
 slug: daireli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dairesi olan

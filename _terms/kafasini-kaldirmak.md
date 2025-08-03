@@ -2,6 +2,7 @@
 layout: term
 title: kafasını kaldırmak
 slug: kafasini-kaldirmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - karşı gelmek, başkaldırmak

@@ -2,6 +2,7 @@
 layout: term
 title: kabarıvermek
 slug: kabarivermek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Ansızın kabarmak

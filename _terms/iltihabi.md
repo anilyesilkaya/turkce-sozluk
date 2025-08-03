@@ -2,6 +2,7 @@
 layout: term
 title: iltihabi
 slug: iltihabi
+letter: I
 lisan: Arapça iltihābī
 anlamlar:
 - ► iltihaplı

@@ -2,6 +2,7 @@
 layout: term
 title: hulus (veya huluslar) çakmak
 slug: hulus-veya-huluslar-cakmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - dalkavukluk etmek, yaranmaya çalışmak

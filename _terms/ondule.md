@@ -2,6 +2,7 @@
 layout: term
 title: ondüle
 slug: ondule
+letter: O
 lisan: Fransızca ondulé
 anlamlar:
 - Dalgalı, kıvrımlı, kıvrılmış (saç)

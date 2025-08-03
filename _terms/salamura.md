@@ -2,6 +2,7 @@
 layout: term
 title: salamura
 slug: salamura
+letter: S
 lisan: İtalyanca salamoiare
 anlamlar:
 - Peynir, et, balık, turşu, asma yaprağı vb. yiyeceklerin bozulmaması için içinde tutuldukları tuzlu su

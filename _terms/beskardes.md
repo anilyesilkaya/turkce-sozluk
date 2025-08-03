@@ -2,6 +2,7 @@
 layout: term
 title: beşkardeş
 slug: beskardes
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► şamar

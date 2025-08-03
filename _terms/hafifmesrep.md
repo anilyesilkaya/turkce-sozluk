@@ -2,6 +2,7 @@
 layout: term
 title: hafifmeşrep
 slug: hafifmesrep
+letter: H
 lisan: Arapça ḫafįf + meşreb
 anlamlar:
 - Davranışları ile içinde bulunduğu toplumun ahlak anlayışına ters düşen

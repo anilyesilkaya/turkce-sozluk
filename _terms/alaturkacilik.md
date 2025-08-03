@@ -2,6 +2,7 @@
 layout: term
 title: alaturkacılık
 slug: alaturkacilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alaturkacı olma durumu

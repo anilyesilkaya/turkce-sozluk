@@ -2,6 +2,7 @@
 layout: term
 title: kaza ile
 slug: kaza-ile
+letter: K
 lisan: Türkçe
 anlamlar:
 - kazara

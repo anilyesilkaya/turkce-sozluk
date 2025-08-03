@@ -2,6 +2,7 @@
 layout: term
 title: paylaşım
 slug: paylasim
+letter: P
 lisan: Türkçe
 anlamlar:
 - Paylaşmak işi; bölüşüm, dağılım

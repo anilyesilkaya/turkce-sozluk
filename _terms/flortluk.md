@@ -2,6 +2,7 @@
 layout: term
 title: flörtlük
 slug: flortluk
+letter: F
 lisan: Türkçe
 anlamlar:
 - Flört olma durumu

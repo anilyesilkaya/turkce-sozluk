@@ -2,6 +2,7 @@
 layout: term
 title: arızasız
 slug: arizasiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arızası olmayan, aksamayan, bozulmadan işleyen

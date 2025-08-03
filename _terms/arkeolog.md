@@ -2,6 +2,7 @@
 layout: term
 title: arkeolog
 slug: arkeolog
+letter: A
 lisan: Fransızca archéologue
 anlamlar:
 - ► kazı bilimci

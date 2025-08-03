@@ -2,6 +2,7 @@
 layout: term
 title: gemi gezmek
 slug: gemi-gezmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - gemi dış etkiler yüzünden rota çizgisinden ayrılıp sancak veya iskele yönüne ilerlemek

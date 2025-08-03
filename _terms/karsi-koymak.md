@@ -2,6 +2,7 @@
 layout: term
 title: karşı koymak
 slug: karsi-koymak
+letter: K
 lisan: Türkçe
 anlamlar:
 - boyun eğmemek

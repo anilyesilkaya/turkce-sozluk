@@ -2,6 +2,7 @@
 layout: term
 title: ek ders
 slug: ek-ders
+letter: E
 lisan: Türkçe
 anlamlar:
 - Öğretimle görevli bir kimsenin haftalık zorunlu ders yükünün dışında kalan ve ücrete tabi olan ders

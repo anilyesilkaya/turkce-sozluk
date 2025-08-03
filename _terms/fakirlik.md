@@ -2,6 +2,7 @@
 layout: term
 title: fakirlik
 slug: fakirlik
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► yoksulluk

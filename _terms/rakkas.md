@@ -2,6 +2,7 @@
 layout: term
 title: rakkas
 slug: rakkas
+letter: R
 lisan: Arapça raḳḳāṣ
 anlamlar:
 - ► sarkaç

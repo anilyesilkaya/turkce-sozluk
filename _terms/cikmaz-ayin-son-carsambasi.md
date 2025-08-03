@@ -2,6 +2,7 @@
 layout: term
 title: çıkmaz ayın son çarşambası
 slug: cikmaz-ayin-son-carsambasi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - işin hiçbir zaman yapılmayacağını anlatan bir söz

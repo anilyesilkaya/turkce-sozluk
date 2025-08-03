@@ -2,6 +2,7 @@
 layout: term
 title: işaret
 slug: isaret
+letter: I
 lisan: Arapça işāret
 anlamlar:
 - Bir anlam yükletilen ve bir şeyi bildirmeye, anlatmaya yarayan şekil, anlamlı iz; bel (I), im, delalet

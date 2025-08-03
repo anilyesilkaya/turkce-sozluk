@@ -2,6 +2,7 @@
 layout: term
 title: şu bu
 slug: su-bu
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Birtakım kimseler ve nesneler

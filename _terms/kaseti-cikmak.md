@@ -2,6 +2,7 @@
 layout: term
 title: kaseti çıkmak
 slug: kaseti-cikmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir kişiye, bir gruba veya birkaç besteciye ait müzik parçalarının toplandığı bir kaset satışa çıkmak

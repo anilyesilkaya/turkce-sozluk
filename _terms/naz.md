@@ -2,6 +2,7 @@
 layout: term
 title: naz
 slug: naz
+letter: N
 lisan: Farsça nāz
 anlamlar:
 - Kendini beğendirmek amacıyla yapılan davranış

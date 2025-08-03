@@ -2,6 +2,7 @@
 layout: term
 title: metro
 slug: metro
+letter: M
 lisan: Fransızca métro
 anlamlar:
 - Büyükşehirlerde semtler arasında işleyen, ulaşımı yerin altında sağlayan tren; yer altı treni

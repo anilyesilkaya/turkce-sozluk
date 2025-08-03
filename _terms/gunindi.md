@@ -2,6 +2,7 @@
 layout: term
 title: günindi
 slug: gunindi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gurup zamanı

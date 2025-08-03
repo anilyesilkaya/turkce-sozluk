@@ -2,6 +2,7 @@
 layout: term
 title: yeğinlik
 slug: yeginlik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yeğin olma durumu

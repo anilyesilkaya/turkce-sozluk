@@ -2,6 +2,7 @@
 layout: term
 title: ömrünce
 slug: omrunce
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ömrü boyunca, yaşadığı süre içinde

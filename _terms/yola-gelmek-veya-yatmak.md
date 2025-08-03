@@ -2,6 +2,7 @@
 layout: term
 title: yola gelmek (veya yatmak)
 slug: yola-gelmek-veya-yatmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - istenilen biçimde davranışı kabullenmek, düzelmek, uslanmak

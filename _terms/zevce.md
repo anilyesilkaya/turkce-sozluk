@@ -2,6 +2,7 @@
 layout: term
 title: zevce
 slug: zevce
+letter: Z
 lisan: Arapça zevce
 anlamlar:
 - Bir erkeğin evlenmiş olduğu kadın

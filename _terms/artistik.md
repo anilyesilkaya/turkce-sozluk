@@ -2,6 +2,7 @@
 layout: term
 title: artistik
 slug: artistik
+letter: A
 lisan: Fransızca artistique
 anlamlar:
 - Güzel sanatların gerektirdiği niteliğe uygun

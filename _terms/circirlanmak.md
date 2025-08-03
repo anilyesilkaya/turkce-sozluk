@@ -2,6 +2,7 @@
 layout: term
 title: çırçırlanmak
 slug: circirlanmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çırçırlamak işi yapılmak

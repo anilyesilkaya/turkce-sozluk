@@ -2,6 +2,7 @@
 layout: term
 title: dolaşabilmek
 slug: dolasabilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dolaşma ihtimali veya imkânı bulunmak

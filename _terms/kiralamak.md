@@ -2,6 +2,7 @@
 layout: term
 title: kiralamak
 slug: kiralamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kiraya vermek

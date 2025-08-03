@@ -2,6 +2,7 @@
 layout: term
 title: kehanet
 slug: kehanet
+letter: K
 lisan: Arapça kehānet
 anlamlar:
 - Bir olayın gerçekleşeceğini önceden bilme; kâhinlik, ön deyi, prediksiyon

@@ -2,6 +2,7 @@
 layout: term
 title: sinirce
 slug: sinirce
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► nevroz

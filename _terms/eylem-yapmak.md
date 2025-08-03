@@ -2,6 +2,7 @@
 layout: term
 title: eylem yapmak
 slug: eylem-yapmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - bir durumu değiştirme veya daha ileriye götürme yönünde harekette bulunmak

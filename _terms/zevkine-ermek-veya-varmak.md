@@ -2,6 +2,7 @@
 layout: term
 title: zevkine ermek (veya varmak)
 slug: zevkine-ermek-veya-varmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - zevkini çıkarmak

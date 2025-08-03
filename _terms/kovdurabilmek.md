@@ -2,6 +2,7 @@
 layout: term
 title: kovdurabilmek
 slug: kovdurabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kovdurma ihtimali veya imkânı bulunmak

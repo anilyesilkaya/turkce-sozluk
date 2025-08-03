@@ -2,6 +2,7 @@
 layout: term
 title: kapısız
 slug: kapisiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kapısı olmayan

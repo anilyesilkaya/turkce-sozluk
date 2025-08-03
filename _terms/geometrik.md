@@ -2,6 +2,7 @@
 layout: term
 title: geometrik
 slug: geometrik
+letter: G
 lisan: Fransızca géométrique
 anlamlar:
 - Geometriyle ilgili veya geometriye uygun olan; hendesi

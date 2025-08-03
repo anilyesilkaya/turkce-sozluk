@@ -2,6 +2,7 @@
 layout: term
 title: düğmek
 slug: dugmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düğüm yapmak

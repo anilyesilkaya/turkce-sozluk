@@ -2,6 +2,7 @@
 layout: term
 title: ad çekmeye girmek
 slug: ad-cekmeye-girmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - kuraya tabi olmak

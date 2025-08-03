@@ -2,6 +2,7 @@
 layout: term
 title: yaymacı
 slug: yaymaci
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Pazarlarda veya sokaklarda sergi açıp ufak tefek eşya veya hırdavat satan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: sarı çizmeli Mehmet Ağa
 slug: sari-cizmeli-mehmet-aga
+letter: S
 lisan: Türkçe
 anlamlar:
 - kim olduğu, nerede oturduğu bilinmeyen kimse

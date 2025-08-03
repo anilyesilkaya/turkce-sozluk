@@ -2,6 +2,7 @@
 layout: term
 title: kubur sıkmak
 slug: kubur-sikmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - silah atmak, tabanca sıkmak

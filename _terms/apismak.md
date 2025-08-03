@@ -2,6 +2,7 @@
 layout: term
 title: apışmak
 slug: apismak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Hayvan yorgunluktan bacaklarını birbirinden ayırarak çöküvermek

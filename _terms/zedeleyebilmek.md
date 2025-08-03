@@ -2,6 +2,7 @@
 layout: term
 title: zedeleyebilmek
 slug: zedeleyebilmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zedeleme ihtimali veya imkânı bulunmak

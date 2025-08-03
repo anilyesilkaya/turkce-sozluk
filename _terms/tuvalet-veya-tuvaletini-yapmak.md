@@ -2,6 +2,7 @@
 layout: term
 title: tuvalet (veya tuvaletini) yapmak
 slug: tuvalet-veya-tuvaletini-yapmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - sidik veya dışkıyı vücuttan dışarı atmak

@@ -2,6 +2,7 @@
 layout: term
 title: istikra
 slug: istikra
+letter: I
 lisan: Arapça istiḳrāʾ
 anlamlar:
 - ► tümevarım

@@ -2,6 +2,7 @@
 layout: term
 title: bir kere
 slug: bir-kere
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► aslında

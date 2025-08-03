@@ -2,6 +2,7 @@
 layout: term
 title: randevusuz
 slug: randevusuz
+letter: R
 lisan: Türkçe
 anlamlar:
 - Randevusu olmayan

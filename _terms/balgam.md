@@ -2,6 +2,7 @@
 layout: term
 title: balgam
 slug: balgam
+letter: B
 lisan: Arapça balġam
 anlamlar:
 - Solunum organlarının salgıladığı, ağızdan dışarı atılan sümüksü madde

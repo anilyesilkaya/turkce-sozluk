@@ -2,6 +2,7 @@
 layout: term
 title: gizlenilmek
 slug: gizlenilmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gizlenme işi yapılmak, saklanmak

@@ -2,6 +2,7 @@
 layout: term
 title: endeks
 slug: endeks
+letter: E
 lisan: Fransızca index
 anlamlar:
 - ► dizin

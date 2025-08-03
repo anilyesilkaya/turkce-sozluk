@@ -2,6 +2,7 @@
 layout: term
 title: fırsat bulmak
 slug: firsat-bulmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - uygun, elverişli zaman bulmak

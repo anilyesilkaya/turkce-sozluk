@@ -2,6 +2,7 @@
 layout: term
 title: kompozisyon
 slug: kompozisyon
+letter: K
 lisan: Fransızca composition
 anlamlar:
 - Ayrı ayrı parçaları bir araya getirerek bir bütün oluşturma biçimi ve işi

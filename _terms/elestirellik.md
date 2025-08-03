@@ -2,6 +2,7 @@
 layout: term
 title: eleştirellik
 slug: elestirellik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eleştirel olma durumu; eleştirisellik

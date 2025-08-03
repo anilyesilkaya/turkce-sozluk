@@ -2,6 +2,7 @@
 layout: term
 title: tahaşşüt
 slug: tahassut
+letter: T
 lisan: Arapça taḥaşşud
 anlamlar:
 - ► yığınak

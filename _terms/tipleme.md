@@ -2,6 +2,7 @@
 layout: term
 title: tipleme
 slug: tipleme
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tiplemek işi

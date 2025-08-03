@@ -2,6 +2,7 @@
 layout: term
 title: cemi cümle
 slug: cemi-cumle
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► herkes

@@ -2,6 +2,7 @@
 layout: term
 title: sepetleyebilmek
 slug: sepetleyebilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sepetleme ihtimali veya imkânı bulunmak

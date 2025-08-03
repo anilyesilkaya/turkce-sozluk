@@ -2,6 +2,7 @@
 layout: term
 title: dövüşçülük
 slug: dovusculuk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dövüşçü olma durumu

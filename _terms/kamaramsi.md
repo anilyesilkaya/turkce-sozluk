@@ -2,6 +2,7 @@
 layout: term
 title: kamaramsı
 slug: kamaramsi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kamarayı andıran, kamaraya benzeyen, kamara gibi

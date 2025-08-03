@@ -2,6 +2,7 @@
 layout: term
 title: hırızmalı
 slug: hirizmali
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► hızmalı

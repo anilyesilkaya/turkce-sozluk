@@ -2,6 +2,7 @@
 layout: term
 title: duba
 slug: duba
+letter: D
 lisan: Türkçe
 anlamlar:
 - Yük taşımak veya köprü kurmak için kullanılan altı düz bir tür deniz aracı

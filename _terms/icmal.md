@@ -2,6 +2,7 @@
 layout: term
 title: icmal
 slug: icmal
+letter: I
 lisan: Arapça icmāl
 anlamlar:
 - ► gösterge

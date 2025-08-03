@@ -2,6 +2,7 @@
 layout: term
 title: gözetleyebilmek
 slug: gozetleyebilmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gözetleme ihtimali veya imkânı bulunmak; dikizleyebilmek

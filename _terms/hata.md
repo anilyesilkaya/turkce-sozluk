@@ -2,6 +2,7 @@
 layout: term
 title: hata
 slug: hata
+letter: H
 lisan: Arapça ḫaṭāʾ
 anlamlar:
 - ► yanlış

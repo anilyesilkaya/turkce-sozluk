@@ -2,6 +2,7 @@
 layout: term
 title: edilgen eylem
 slug: edilgen-eylem
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► edilgen fiil

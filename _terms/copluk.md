@@ -2,6 +2,7 @@
 layout: term
 title: çöplük
 slug: copluk
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çöplerin atıldığı veya biriktirildiği yer; çöp tenekesi, küllük, süprüntülük, gübürlük, mezbele, mezbelelik

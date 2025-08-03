@@ -2,6 +2,7 @@
 layout: term
 title: çorbalık
 slug: corbalik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çorba pişirmeye yarar

@@ -2,6 +2,7 @@
 layout: term
 title: şaşmak
 slug: sasmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Umulmayan, beklenmeyen veya olağanüstü bir olay, bir olgu karşısında şaşkın duruma gelmek, hayret etmek

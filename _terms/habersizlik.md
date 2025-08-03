@@ -2,6 +2,7 @@
 layout: term
 title: habersizlik
 slug: habersizlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Habersiz olma durumu; bihaberlik

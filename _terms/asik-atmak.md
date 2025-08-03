@@ -2,6 +2,7 @@
 layout: term
 title: aşık atmak
 slug: asik-atmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - yarış etmek, yarışmak

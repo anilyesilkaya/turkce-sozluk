@@ -2,6 +2,7 @@
 layout: term
 title: pruva hattı
 slug: pruva-hatti
+letter: P
 lisan: Türkçe
 anlamlar:
 - Gemilerin birbirinin ardı sıra gitmek için aldıkları durum

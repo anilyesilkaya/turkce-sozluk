@@ -2,6 +2,7 @@
 layout: term
 title: tanzir
 slug: tanzir
+letter: T
 lisan: Arapça tanẓīr
 anlamlar:
 - ► benzetme

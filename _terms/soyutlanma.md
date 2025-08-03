@@ -2,6 +2,7 @@
 layout: term
 title: soyutlanma
 slug: soyutlanma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Soyutlanmak durumu

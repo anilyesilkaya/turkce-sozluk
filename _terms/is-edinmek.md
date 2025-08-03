@@ -2,6 +2,7 @@
 layout: term
 title: iş edinmek
 slug: is-edinmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - bir şeyi görev, meslek olarak kabul etmek

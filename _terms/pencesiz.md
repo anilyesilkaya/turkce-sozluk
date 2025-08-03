@@ -2,6 +2,7 @@
 layout: term
 title: pençesiz
 slug: pencesiz
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pençesi olmayan

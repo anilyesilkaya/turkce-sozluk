@@ -2,6 +2,7 @@
 layout: term
 title: açığa alınmak
 slug: aciga-alinmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Belirli bir süre işten el çektirilmek

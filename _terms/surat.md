@@ -2,6 +2,7 @@
 layout: term
 title: surat
 slug: surat
+letter: S
 lisan: Arapça ṣūret
 anlamlar:
 - ► yüz (II)

@@ -2,6 +2,7 @@
 layout: term
 title: cüda etmek
 slug: cuda-etmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - ayrı bırakmak

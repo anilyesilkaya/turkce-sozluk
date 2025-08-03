@@ -2,6 +2,7 @@
 layout: term
 title: antagonizma
 slug: antagonizma
+letter: A
 lisan: Fransızca antagonisme
 anlamlar:
 - ► antagonizm

@@ -2,6 +2,7 @@
 layout: term
 title: özür
 slug: ozur
+letter: Ö
 lisan: Arapça ʿuẕr
 anlamlar:
 - Bir kusurun hoş görülmesini gerektiren sebep; mazeret

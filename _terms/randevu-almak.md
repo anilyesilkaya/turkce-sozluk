@@ -2,6 +2,7 @@
 layout: term
 title: randevu almak
 slug: randevu-almak
+letter: R
 lisan: Türkçe
 anlamlar:
 - bir kimseden belli bir saat ve yerde buluşmak için söz almak, gün almak

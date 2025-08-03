@@ -2,6 +2,7 @@
 layout: term
 title: zirkon
 slug: zirkon
+letter: Z
 lisan: Fransızca zircon
 anlamlar:
 - Zirkonyumun doğal durumunda bulunan, renksiz, sarı, yeşil, kahverengi türleri olan doğal ve saydam, değerli taş

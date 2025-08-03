@@ -2,6 +2,7 @@
 layout: term
 title: tahkimname
 slug: tahkimname
+letter: T
 lisan: Arapça taḥkįm + Farsça nāme
 anlamlar:
 - Bir anlaşmazlığın hakem tarafından çözülebilmesi için taraflarca yapılan yazılı sözleşme

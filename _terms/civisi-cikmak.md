@@ -2,6 +2,7 @@
 layout: term
 title: çivisi çıkmak
 slug: civisi-cikmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - kargaşa içinde bulunmak

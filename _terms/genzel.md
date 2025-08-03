@@ -2,6 +2,7 @@
 layout: term
 title: genzel
 slug: genzel
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► genizsil

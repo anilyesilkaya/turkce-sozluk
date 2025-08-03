@@ -2,6 +2,7 @@
 layout: term
 title: sıralanış
 slug: siralanis
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıralanmak işi

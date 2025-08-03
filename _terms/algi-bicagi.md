@@ -2,6 +2,7 @@
 layout: term
 title: algı bıçağı
 slug: algi-bicagi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Haşhaş kozasını çizmeye yarayan alet

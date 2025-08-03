@@ -2,6 +2,7 @@
 layout: term
 title: sınavdan geçmek
 slug: sinavdan-gecmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - sınava girmek

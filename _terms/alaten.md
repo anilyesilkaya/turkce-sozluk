@@ -2,6 +2,7 @@
 layout: term
 title: alaten
 slug: alaten
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► cüzzamlı

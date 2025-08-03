@@ -2,6 +2,7 @@
 layout: term
 title: nem
 slug: nem
+letter: N
 lisan: Farsça nem
 anlamlar:
 - Havada bulunan su buharı

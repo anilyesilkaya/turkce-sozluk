@@ -2,6 +2,7 @@
 layout: term
 title: koza
 slug: koza
+letter: K
 lisan: Farsça ġūze
 anlamlar:
 - İçinde tohum veya krizalit bulunan korunak; kozalak

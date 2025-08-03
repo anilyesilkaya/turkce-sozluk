@@ -2,6 +2,7 @@
 layout: term
 title: havada kalmak
 slug: havada-kalmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - yerden yüksekte bulunmak

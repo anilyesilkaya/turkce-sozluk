@@ -2,6 +2,7 @@
 layout: term
 title: denebilmek
 slug: denebilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Denme ihtimali veya imkânı bulunmak

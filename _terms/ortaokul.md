@@ -2,6 +2,7 @@
 layout: term
 title: ortaokul
 slug: ortaokul
+letter: O
 lisan: Türkçe
 anlamlar:
 - Öğrencilere örgün eğitim sisteminin temel bilgi ve becerilerini kazandırarak onları ortaöğretime hazırlayan eğitim öğretim kurumu; orta mektep

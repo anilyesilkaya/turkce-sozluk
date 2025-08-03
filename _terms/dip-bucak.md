@@ -2,6 +2,7 @@
 layout: term
 title: dip bucak
 slug: dip-bucak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Ayrıntılı bir biçimde

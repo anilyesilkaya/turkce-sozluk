@@ -2,6 +2,7 @@
 layout: term
 title: çömelebilmek
 slug: comelebilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çömelme ihtimali veya imkânı bulunmak

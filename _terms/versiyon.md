@@ -2,6 +2,7 @@
 layout: term
 title: versiyon
 slug: versiyon
+letter: V
 lisan: Fransızca version
 anlamlar:
 - ► yorum

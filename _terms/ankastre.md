@@ -2,6 +2,7 @@
 layout: term
 title: ankastre
 slug: ankastre
+letter: A
 lisan: Fransızca encastré
 anlamlar:
 - Bir tarafı yuvaya yerleştirilmiş, gömülmüş olan

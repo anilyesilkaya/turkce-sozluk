@@ -2,6 +2,7 @@
 layout: term
 title: bakımlı
 slug: bakimli
+letter: B
 lisan: Türkçe
 anlamlar:
 - İyi bakılmış, iyi korunmuş olan

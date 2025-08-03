@@ -2,6 +2,7 @@
 layout: term
 title: kalker
 slug: kalker
+letter: K
 lisan: Fransızca calcaire
 anlamlar:
 - ► kireç taşı

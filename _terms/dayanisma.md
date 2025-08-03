@@ -2,6 +2,7 @@
 layout: term
 title: dayanışma
 slug: dayanisma
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dayanışmak işi; tesanüt

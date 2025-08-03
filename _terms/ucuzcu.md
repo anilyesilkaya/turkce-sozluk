@@ -2,6 +2,7 @@
 layout: term
 title: ucuzcu
 slug: ucuzcu
+letter: U
 lisan: Türkçe
 anlamlar:
 - Malını ucuz satan

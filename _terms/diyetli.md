@@ -2,6 +2,7 @@
 layout: term
 title: diyetli
 slug: diyetli
+letter: D
 lisan: Türkçe
 anlamlar:
 - İçinde diyet bulunan

@@ -2,6 +2,7 @@
 layout: term
 title: putperest
 slug: putperest
+letter: P
 lisan: Farsça butperest
 anlamlar:
 - Puta tapan

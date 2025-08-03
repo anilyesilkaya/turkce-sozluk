@@ -2,6 +2,7 @@
 layout: term
 title: ikiz
 slug: ikiz
+letter: I
 lisan: Türkçe
 anlamlar:
 - İkisi bir arada doğan (çocuk)

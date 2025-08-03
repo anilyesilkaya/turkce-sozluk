@@ -2,6 +2,7 @@
 layout: term
 title: istem
 slug: istem
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► isteme

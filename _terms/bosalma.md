@@ -2,6 +2,7 @@
 layout: term
 title: boşalma
 slug: bosalma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boşalmak işi; inhilal

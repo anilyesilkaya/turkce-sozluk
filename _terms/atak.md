@@ -2,6 +2,7 @@
 layout: term
 title: atak
 slug: atak
+letter: A
 lisan: Fransızca attaque
 anlamlar:
 - ► atılım

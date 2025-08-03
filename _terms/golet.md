@@ -2,6 +2,7 @@
 layout: term
 title: gölet
 slug: golet
+letter: G
 lisan: Türkçe
 anlamlar:
 - Birikinti suların sulamak amacıyla genellikle bir set ardında toplandığı küçük göl; gölcük, gölek, büvet (I), büğet

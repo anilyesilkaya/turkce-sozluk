@@ -2,6 +2,7 @@
 layout: term
 title: güvenilirlik
 slug: guvenilirlik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güvenilir olma durumu; güvenirlik

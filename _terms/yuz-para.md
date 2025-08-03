@@ -2,6 +2,7 @@
 layout: term
 title: yüz para
 slug: yuz-para
+letter: Y
 lisan: Türkçe
 anlamlar:
 - İki buçuk kuruş

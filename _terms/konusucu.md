@@ -2,6 +2,7 @@
 layout: term
 title: konuşucu
 slug: konusucu
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► konuşmacı

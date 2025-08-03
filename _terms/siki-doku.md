@@ -2,6 +2,7 @@
 layout: term
 title: sıkı doku
 slug: siki-doku
+letter: S
 lisan: Türkçe
 anlamlar:
 - Gözenekleri ve öz ışınları açıkça görünmeyen, yıl halkaları biçimde birbirinden ayrılamayan ağaçların dokusu

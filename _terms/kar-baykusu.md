@@ -2,6 +2,7 @@
 layout: term
 title: kar baykuşu
 slug: kar-baykusu
+letter: K
 lisan: Türkçe
 anlamlar:
 - İskandinavya ve kuzey kürede yaşayan koyu renk benekli büyük baykuş (Nyctes scandica)

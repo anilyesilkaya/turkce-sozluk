@@ -2,6 +2,7 @@
 layout: term
 title: bağ çubuğu
 slug: bag-cubugu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Üzüm, asma fidesi

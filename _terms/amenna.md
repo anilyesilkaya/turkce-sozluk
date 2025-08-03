@@ -2,6 +2,7 @@
 layout: term
 title: amenna
 slug: amenna
+letter: A
 lisan: Arapça āmennā
 anlamlar:
 - '"Öyledir, doğru, diyecek yok, inandık" anlamlarında bir onaylama sözü'

@@ -2,6 +2,7 @@
 layout: term
 title: çivilenmek
 slug: civilenmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çivi ile tutturulmak; mıhlanmak

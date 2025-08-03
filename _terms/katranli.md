@@ -2,6 +2,7 @@
 layout: term
 title: katranlı
 slug: katranli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Üzerine katran sürülmüş olan

@@ -2,6 +2,7 @@
 layout: term
 title: sosyalleşebilmek
 slug: sosyallesebilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► toplumsallaşabilmek

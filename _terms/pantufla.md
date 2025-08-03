@@ -2,6 +2,7 @@
 layout: term
 title: pantufla
 slug: pantufla
+letter: P
 lisan: Rumca
 anlamlar:
 - Abadan yapılmış terlik

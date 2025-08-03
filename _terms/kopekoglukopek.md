@@ -2,6 +2,7 @@
 layout: term
 title: köpekoğluköpek
 slug: kopekoglukopek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kurnaz, işini bilen, düzenbaz, açıkgöz, uyanık kimse

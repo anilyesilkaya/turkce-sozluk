@@ -2,6 +2,7 @@
 layout: term
 title: kazı koz anlamak
 slug: kazi-koz-anlamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - söylenen şeyi çok yanlış anlamak

@@ -2,6 +2,7 @@
 layout: term
 title: aklında tutmak
 slug: aklinda-tutmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - bellemek

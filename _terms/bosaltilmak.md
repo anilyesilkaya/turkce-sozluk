@@ -2,6 +2,7 @@
 layout: term
 title: boşaltılmak
 slug: bosaltilmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boşaltma işine konu olmak

@@ -2,6 +2,7 @@
 layout: term
 title: pazarlık etmek
 slug: pazarlik-etmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - bir şeyin fiyatı üzerinde karşılıklı çekişmek

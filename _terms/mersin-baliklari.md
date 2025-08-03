@@ -2,6 +2,7 @@
 layout: term
 title: mersin balıkları
 slug: mersin-baliklari
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mersin balığıgiller familyasını içine alan balıklar takımı

@@ -2,6 +2,7 @@
 layout: term
 title: hükûmet komiseri
 slug: hukumet-komiseri
+letter: H
 lisan: Türkçe
 anlamlar:
 - Kurum ve kuruluşların toplantılarının yasalara uygun biçimde yapılmasını denetlemek üzere ilgili bakanlık tarafından atanan memur; komiser

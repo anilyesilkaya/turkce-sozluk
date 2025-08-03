@@ -2,6 +2,7 @@
 layout: term
 title: umursanma
 slug: umursanma
+letter: U
 lisan: Türkçe
 anlamlar:
 - Umursanmak durumu

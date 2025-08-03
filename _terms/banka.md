@@ -2,6 +2,7 @@
 layout: term
 title: banka
 slug: banka
+letter: B
 lisan: İtalyanca banca
 anlamlar:
 - Faizle para alıp veren, kredi, iskonto, kambiyo işlemleri yapan, kasalarında para, değerli belge, eşya saklayan ve ticaret, sanayi, ekonomi alanlarında çeşitli etkinliklerde bulunan kuruluş

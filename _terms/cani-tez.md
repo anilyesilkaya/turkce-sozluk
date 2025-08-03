@@ -2,6 +2,7 @@
 layout: term
 title: canı tez
 slug: cani-tez
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► aceleci

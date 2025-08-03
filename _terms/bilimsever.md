@@ -2,6 +2,7 @@
 layout: term
 title: bilimsever
 slug: bilimsever
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilimi seven, bilimle uğraşan (kimse)

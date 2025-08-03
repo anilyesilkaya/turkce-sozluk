@@ -2,6 +2,7 @@
 layout: term
 title: videobant
 slug: videobant
+letter: V
 lisan: İngilizce video band
 anlamlar:
 - Televizyon yayınlarının kaydedildiği, bir kasete sarılı şerit

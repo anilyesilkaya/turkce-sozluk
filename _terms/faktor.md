@@ -2,6 +2,7 @@
 layout: term
 title: faktör
 slug: faktor
+letter: F
 lisan: Fransızca facteur
 anlamlar:
 - ► etken

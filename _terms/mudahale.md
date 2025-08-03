@@ -2,6 +2,7 @@
 layout: term
 title: müdahale
 slug: mudahale
+letter: M
 lisan: Arapça mudāḫale
 anlamlar:
 - ► karışma

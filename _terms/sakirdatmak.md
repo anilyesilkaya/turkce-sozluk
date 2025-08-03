@@ -2,6 +2,7 @@
 layout: term
 title: şakırdatmak
 slug: sakirdatmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şakır şakır ses çıkartmak

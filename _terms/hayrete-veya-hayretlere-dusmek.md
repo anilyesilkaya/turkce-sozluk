@@ -2,6 +2,7 @@
 layout: term
 title: hayrete (veya hayretlere) düşmek
 slug: hayrete-veya-hayretlere-dusmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - şaşakalmak, şaşırmak

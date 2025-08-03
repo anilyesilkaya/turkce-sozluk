@@ -2,6 +2,7 @@
 layout: term
 title: bel fıtığı
 slug: bel-fitigi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bel omurlarının arasında oluşan fıtık

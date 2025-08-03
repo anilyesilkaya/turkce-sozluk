@@ -2,6 +2,7 @@
 layout: term
 title: ateş parçası
 slug: ates-parcasi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Çok canlı, hareketli, becerikli, çalışkan

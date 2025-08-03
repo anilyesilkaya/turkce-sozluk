@@ -2,6 +2,7 @@
 layout: term
 title: kapısını aşındırmak
 slug: kapisini-asindirmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - yanına çok sık gitmek

@@ -2,6 +2,7 @@
 layout: term
 title: sanat eseri
 slug: sanat-eseri
+letter: S
 lisan: Türkçe
 anlamlar:
 - Yaratıcılık ve ustalık sonucu ortaya çıkan üstün ve değerli eser

@@ -2,6 +2,7 @@
 layout: term
 title: radikalizm
 slug: radikalizm
+letter: R
 lisan: Fransızca radicalisme
 anlamlar:
 - ► köktencilik

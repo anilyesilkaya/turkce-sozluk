@@ -2,6 +2,7 @@
 layout: term
 title: hanlık
 slug: hanlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Han olma durumu

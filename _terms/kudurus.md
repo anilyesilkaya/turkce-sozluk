@@ -2,6 +2,7 @@
 layout: term
 title: kuduruş
 slug: kudurus
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kudurmak işi

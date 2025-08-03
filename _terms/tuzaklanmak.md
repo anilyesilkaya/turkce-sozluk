@@ -2,6 +2,7 @@
 layout: term
 title: tuzaklanmak
 slug: tuzaklanmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tuzak durumuna getirilmek

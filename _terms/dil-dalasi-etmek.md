@@ -2,6 +2,7 @@
 layout: term
 title: dil dalaşı etmek
 slug: dil-dalasi-etmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - ağız dalaşı etmek

@@ -2,6 +2,7 @@
 layout: term
 title: ceman
 slug: ceman
+letter: C
 lisan: Arapça cemʿan
 anlamlar:
 - Toplam olarak, hepsini içine alarak

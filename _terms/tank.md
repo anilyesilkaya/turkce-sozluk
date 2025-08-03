@@ -2,6 +2,7 @@
 layout: term
 title: tank
 slug: tank
+letter: T
 lisan: Fransızca tank
 anlamlar:
 - Zırhlı ve silahlı, tekerlekleri paletli, motorlu savaş taşıtı

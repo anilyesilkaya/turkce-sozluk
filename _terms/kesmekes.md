@@ -2,6 +2,7 @@
 layout: term
 title: keşmekeş
 slug: kesmekes
+letter: K
 lisan: Farsça keşmekeş
 anlamlar:
 - Karışık olma durumu

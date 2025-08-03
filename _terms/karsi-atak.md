@@ -2,6 +2,7 @@
 layout: term
 title: karşı atak
 slug: karsi-atak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir saldırıya karşılık olarak yapılan saldırı

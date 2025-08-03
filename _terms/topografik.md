@@ -2,6 +2,7 @@
 layout: term
 title: topoğrafik
 slug: topografik
+letter: T
 lisan: Fransızca topographique
 anlamlar:
 - Topoğrafyayla ilgili

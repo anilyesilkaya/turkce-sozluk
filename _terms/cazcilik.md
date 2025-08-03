@@ -2,6 +2,7 @@
 layout: term
 title: cazcılık
 slug: cazcilik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cazcının yaptığı iş

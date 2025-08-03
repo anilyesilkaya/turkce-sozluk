@@ -2,6 +2,7 @@
 layout: term
 title: nabzı atmak
 slug: nabzi-atmak
+letter: N
 lisan: Türkçe
 anlamlar:
 - kalp vuruşu sürmek

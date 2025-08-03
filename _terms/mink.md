@@ -2,6 +2,7 @@
 layout: term
 title: mink
 slug: mink
+letter: M
 lisan: İngilizce mink
 anlamlar:
 - ► vizon

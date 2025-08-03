@@ -2,6 +2,7 @@
 layout: term
 title: başarı
 slug: basari
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başarma işi; muvaffakiyet

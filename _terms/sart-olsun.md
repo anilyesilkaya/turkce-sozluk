@@ -2,6 +2,7 @@
 layout: term
 title: şart olsun
 slug: sart-olsun
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - '"nikâhım üzerine yemin ederim ki, öyle değilse veya bunu yapmazsa karım boş düşsün (olsun)" anlamında yemin olarak kullanılan bir söz'

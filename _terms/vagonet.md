@@ -2,6 +2,7 @@
 layout: term
 title: vagonet
 slug: vagonet
+letter: V
 lisan: Fransızca wagonnet
 anlamlar:
 - Yana veya arkaya doğru devrilebilen ve bazı toprak düzleme işlerinde kullanılan küçük vagon

@@ -2,6 +2,7 @@
 layout: term
 title: canla başla
 slug: canla-basla
+letter: C
 lisan: Türkçe
 anlamlar:
 - Seve seve, her şeyi göze alarak, olanca gücüyle

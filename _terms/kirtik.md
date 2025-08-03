@@ -2,6 +2,7 @@
 layout: term
 title: kırtık
 slug: kirtik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Özellikle kıtlama çay içerken kullanılan, küçük parçalara ayrılmış (kesme şeker)

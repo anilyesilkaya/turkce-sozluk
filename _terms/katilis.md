@@ -2,6 +2,7 @@
 layout: term
 title: katılış
 slug: katilis
+letter: K
 lisan: Türkçe
 anlamlar:
 - Katılmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: silahşorluk
 slug: silahsorluk
+letter: S
 lisan: Türkçe
 anlamlar:
 - Silahşor olma durumu

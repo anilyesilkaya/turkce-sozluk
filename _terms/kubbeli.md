@@ -2,6 +2,7 @@
 layout: term
 title: kubbeli
 slug: kubbeli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kubbesi olan

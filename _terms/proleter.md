@@ -2,6 +2,7 @@
 layout: term
 title: proleter
 slug: proleter
+letter: P
 lisan: Fransızca prolétaire
 anlamlar:
 - ► emekçi

@@ -2,6 +2,7 @@
 layout: term
 title: sineye çekmek
 slug: sineye-cekmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - kötü bir davranış, söz veya olaya ister istemez katlanmak

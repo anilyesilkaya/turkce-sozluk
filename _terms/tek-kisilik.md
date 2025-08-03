@@ -2,6 +2,7 @@
 layout: term
 title: tek kişilik
 slug: tek-kisilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tek kişinin kullanabileceği, tek kişiye göre, tek kişi için olan

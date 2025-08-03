@@ -2,6 +2,7 @@
 layout: term
 title: dayatma
 slug: dayatma
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dayatmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: hortlak
 slug: hortlak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Mezardan çıkarak insanları korkuttuğuna inanılan yaratık; zombi

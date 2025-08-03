@@ -2,6 +2,7 @@
 layout: term
 title: bülbül
 slug: bulbul
+letter: B
 lisan: Farsça bulbul
 anlamlar:
 - Karatavukgillerden, sesinin güzelliği ile tanınmış olan ötücü kuş; hezar (Luscinia megarhynchos)

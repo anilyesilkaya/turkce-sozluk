@@ -2,6 +2,7 @@
 layout: term
 title: dövmeli
 slug: dovmeli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dövmesi olan

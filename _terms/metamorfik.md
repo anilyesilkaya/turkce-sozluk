@@ -2,6 +2,7 @@
 layout: term
 title: metamorfik
 slug: metamorfik
+letter: M
 lisan: Fransızca métamorphique
 anlamlar:
 - Başkalaşıma uğramış olan

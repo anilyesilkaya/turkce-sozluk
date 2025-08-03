@@ -2,6 +2,7 @@
 layout: term
 title: ağzını mühürlemek
 slug: agzini-muhurlemek
+letter: A
 lisan: Türkçe
 anlamlar:
 - konuşmamak, susmak

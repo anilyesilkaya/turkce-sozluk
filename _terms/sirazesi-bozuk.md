@@ -2,6 +2,7 @@
 layout: term
 title: şirazesi bozuk
 slug: sirazesi-bozuk
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şirazesi dağılmış, şirazesi bozulmuş

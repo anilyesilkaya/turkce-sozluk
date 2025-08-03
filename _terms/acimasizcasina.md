@@ -2,6 +2,7 @@
 layout: term
 title: acımasızcasına
 slug: acimasizcasina
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► acımasızca

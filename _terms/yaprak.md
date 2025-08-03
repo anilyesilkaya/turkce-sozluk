@@ -2,6 +2,7 @@
 layout: term
 title: yaprak
 slug: yaprak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bitkilerde solunum, karbon özümlenmesi, terleme vb. olayların oluştuğu, çoğu klorofilli, yeşil ve türlü biçimdeki bölümler

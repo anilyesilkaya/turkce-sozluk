@@ -2,6 +2,7 @@
 layout: term
 title: çivi kesmek
 slug: civi-kesmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - çok üşümek

@@ -2,6 +2,7 @@
 layout: term
 title: tefekkür dünyası
 slug: tefekkur-dunyasi
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► düşünce hayatı

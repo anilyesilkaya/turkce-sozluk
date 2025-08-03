@@ -2,6 +2,7 @@
 layout: term
 title: bir daha mı
 slug: bir-daha-mi
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir kez daha asla

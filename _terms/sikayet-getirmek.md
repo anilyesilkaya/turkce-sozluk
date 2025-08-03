@@ -2,6 +2,7 @@
 layout: term
 title: şikâyet getirmek
 slug: sikayet-getirmek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - sızlanmak, yakınmak (II)

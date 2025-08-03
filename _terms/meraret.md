@@ -2,6 +2,7 @@
 layout: term
 title: meraret
 slug: meraret
+letter: M
 lisan: Arapça merāret
 anlamlar:
 - ► acılık

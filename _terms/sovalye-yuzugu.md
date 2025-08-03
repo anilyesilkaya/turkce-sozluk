@@ -2,6 +2,7 @@
 layout: term
 title: şövalye yüzüğü
 slug: sovalye-yuzugu
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Kaşı kalın ve köşeli bir çeşit yüzük

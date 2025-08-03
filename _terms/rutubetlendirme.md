@@ -2,6 +2,7 @@
 layout: term
 title: rutubetlendirme
 slug: rutubetlendirme
+letter: R
 lisan: Türkçe
 anlamlar:
 - ► nemlendirme

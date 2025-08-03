@@ -2,6 +2,7 @@
 layout: term
 title: içtensizlik
 slug: ictensizlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► içtenliksizlik

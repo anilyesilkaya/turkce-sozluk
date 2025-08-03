@@ -2,6 +2,7 @@
 layout: term
 title: bezelye
 slug: bezelye
+letter: B
 lisan: Rumca
 anlamlar:
 - Baklagillerden, yurdumuzun her yanında yetiştirilen, tazeyken kabuğuyla birlikte taneleri, kuruyunca yalnız taneleri yenen, bakla cinsinden tırmanıcı bitki (Pisum sativum)

@@ -2,6 +2,7 @@
 layout: term
 title: uydurabilme
 slug: uydurabilme
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uydurabilmek işi

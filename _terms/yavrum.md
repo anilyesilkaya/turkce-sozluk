@@ -2,6 +2,7 @@
 layout: term
 title: yavrum!
 slug: yavrum
+letter: Y
 lisan: Türkçe
 anlamlar:
 - sevecen bir biçimde söylenen bir seslenme sözü

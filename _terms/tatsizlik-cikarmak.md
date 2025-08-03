@@ -2,6 +2,7 @@
 layout: term
 title: tatsızlık çıkarmak
 slug: tatsizlik-cikarmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - hoşa gitmeyen, can sıkıcı, gergin bir duruma sebep olmak

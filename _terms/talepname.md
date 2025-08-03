@@ -2,6 +2,7 @@
 layout: term
 title: talepname
 slug: talepname
+letter: T
 lisan: Arapça ṭaleb + Farsça nāme
 anlamlar:
 - İstek bildiren belge

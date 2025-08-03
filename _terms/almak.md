@@ -2,6 +2,7 @@
 layout: term
 title: almak
 slug: almak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir şeyi elle veya başka bir araçla tutarak bulunduğu yerden ayırmak, kaldırmak

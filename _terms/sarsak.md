@@ -2,6 +2,7 @@
 layout: term
 title: sarsak
 slug: sarsak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Yaşlılık, hastalık vb. sebeplerle güçsüz kalarak vücudu titrer gibi sarsılan (kimse)

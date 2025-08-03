@@ -2,6 +2,7 @@
 layout: term
 title: beynelmilel
 slug: beynelmilel
+letter: B
 lisan: Arapça beyn + milel
 anlamlar:
 - ► uluslararası

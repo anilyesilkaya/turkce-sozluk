@@ -2,6 +2,7 @@
 layout: term
 title: kalçalı
 slug: kalcali
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalçası geniş olan

@@ -2,6 +2,7 @@
 layout: term
 title: 'Kazak Türkçesi '
 slug: kazak-turkcesi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kazak Türklerinin kullandığı konuşma ve yazı dili; Kazakça

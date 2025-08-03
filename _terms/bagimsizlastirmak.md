@@ -2,6 +2,7 @@
 layout: term
 title: bağımsızlaştırmak
 slug: bagimsizlastirmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağımsız duruma getirmek

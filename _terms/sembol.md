@@ -2,6 +2,7 @@
 layout: term
 title: sembol
 slug: sembol
+letter: S
 lisan: Fransızca symbole
 anlamlar:
 - ► simge

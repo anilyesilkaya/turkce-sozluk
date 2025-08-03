@@ -2,6 +2,7 @@
 layout: term
 title: üzünçlü
 slug: uzunclu
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - ► üzüntülü

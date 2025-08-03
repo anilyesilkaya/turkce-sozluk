@@ -2,6 +2,7 @@
 layout: term
 title: gün batımı
 slug: gun-batimi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güneşin ufukta kaybolması; gurup

@@ -2,6 +2,7 @@
 layout: term
 title: pehlivan duası
 slug: pehlivan-duasi
+letter: P
 lisan: Türkçe
 anlamlar:
 - Yağlı güreşe başlamadan önce cazgır tarafından söylenilen uyaklı sözler

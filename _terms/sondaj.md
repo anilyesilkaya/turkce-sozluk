@@ -2,6 +2,7 @@
 layout: term
 title: sondaj
 slug: sondaj
+letter: S
 lisan: Fransızca sondage
 anlamlar:
 - ► sondalama

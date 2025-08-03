@@ -2,6 +2,7 @@
 layout: term
 title: başkafiye
 slug: baskafiye
+letter: B
 lisan: Türkçe baş + Arapça ḳāfiye
 anlamlar:
 - Dize başlarında aynı kelime olmamak kaydıyla aynı seslerle başlayan kelimelerden oluşan kafiye; başuyak

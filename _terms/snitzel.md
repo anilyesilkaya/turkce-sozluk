@@ -2,6 +2,7 @@
 layout: term
 title: şnitzel
 slug: snitzel
+letter: Ş
 lisan: Almanca Schnitzel
 anlamlar:
 - Dana veya tavuk etinin galeta ununa bulanıp kızartılması ile yapılan bir yemek türü

@@ -2,6 +2,7 @@
 layout: term
 title: çenebazlık
 slug: cenebazlik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çenebaz olma durumu

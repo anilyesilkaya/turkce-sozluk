@@ -2,6 +2,7 @@
 layout: term
 title: boynuzlayabilme
 slug: boynuzlayabilme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boynuzlayabilmek işi

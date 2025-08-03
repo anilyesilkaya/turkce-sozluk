@@ -2,6 +2,7 @@
 layout: term
 title: engin gönüllü
 slug: engin-gonullu
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► alçak gönüllü

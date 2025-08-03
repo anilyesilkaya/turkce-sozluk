@@ -2,6 +2,7 @@
 layout: term
 title: hava yastığı
 slug: hava-yastigi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Taşıtlarda kazanın neden olacağı zararları azaltmaya yönelik hava basınçlı yastık

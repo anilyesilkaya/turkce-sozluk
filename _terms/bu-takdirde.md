@@ -2,6 +2,7 @@
 layout: term
 title: bu takdirde
 slug: bu-takdirde
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bu durumda, böyle olunca

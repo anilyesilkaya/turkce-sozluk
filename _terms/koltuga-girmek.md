@@ -2,6 +2,7 @@
 layout: term
 title: koltuğa girmek
 slug: koltuga-girmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - evlenmek

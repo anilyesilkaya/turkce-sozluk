@@ -2,6 +2,7 @@
 layout: term
 title: hanımcık
 slug: hanimcik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hanımlara sevgiyle yaklaşıldığını belirten bir söz

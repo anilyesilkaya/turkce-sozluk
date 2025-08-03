@@ -2,6 +2,7 @@
 layout: term
 title: ankesörlü telefon
 slug: ankesorlu-telefon
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► kutulu telefon

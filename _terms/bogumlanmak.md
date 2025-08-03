@@ -2,6 +2,7 @@
 layout: term
 title: boğumlanmak
 slug: bogumlanmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boğum oluşmak, boğum boğum olmak

@@ -2,6 +2,7 @@
 layout: term
 title: muşambasız
 slug: musambasiz
+letter: M
 lisan: Türkçe
 anlamlar:
 - Muşambası olmayan

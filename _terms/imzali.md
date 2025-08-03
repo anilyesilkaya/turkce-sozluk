@@ -2,6 +2,7 @@
 layout: term
 title: imzalı
 slug: imzali
+letter: I
 lisan: Türkçe
 anlamlar:
 - İmza edilmiş

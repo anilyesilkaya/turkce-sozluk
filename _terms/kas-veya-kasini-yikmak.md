@@ -2,6 +2,7 @@
 layout: term
 title: kaş (veya kaşını) yıkmak
 slug: kas-veya-kasini-yikmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kaşlarını çatmak

@@ -2,6 +2,7 @@
 layout: term
 title: balık istifi
 slug: balik-istifi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çok sıkışık olarak bir yere dolmuş (insanlar)

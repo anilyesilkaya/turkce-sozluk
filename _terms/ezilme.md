@@ -2,6 +2,7 @@
 layout: term
 title: ezilme
 slug: ezilme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ezilmek işi

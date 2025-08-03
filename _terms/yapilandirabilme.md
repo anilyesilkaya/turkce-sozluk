@@ -2,6 +2,7 @@
 layout: term
 title: yapılandırabilme
 slug: yapilandirabilme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yapılandırabilmek işi

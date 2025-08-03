@@ -2,6 +2,7 @@
 layout: term
 title: ağırdan almak
 slug: agirdan-almak
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir işi gereken süre içinde bitirmemek, geciktirmek

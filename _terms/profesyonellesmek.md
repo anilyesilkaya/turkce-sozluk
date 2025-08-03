@@ -2,6 +2,7 @@
 layout: term
 title: profesyonelleşmek
 slug: profesyonellesmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Profesyonel duruma gelmek

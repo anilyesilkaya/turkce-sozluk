@@ -2,6 +2,7 @@
 layout: term
 title: baharatlanmak
 slug: baharatlanmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Baharatlama işi yapılmak; baharlanmak (II)

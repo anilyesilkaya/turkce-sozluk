@@ -2,6 +2,7 @@
 layout: term
 title: ozanca
 slug: ozanca
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► şairane

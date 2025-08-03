@@ -2,6 +2,7 @@
 layout: term
 title: bürgü
 slug: burgu
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► başörtüsü

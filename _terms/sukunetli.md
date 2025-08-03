@@ -2,6 +2,7 @@
 layout: term
 title: sükûnetli
 slug: sukunetli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Durgun, sakin, hareketsiz olan

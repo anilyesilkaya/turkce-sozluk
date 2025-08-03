@@ -2,6 +2,7 @@
 layout: term
 title: dekar
 slug: dekar
+letter: D
 lisan: Fransızca décare
 anlamlar:
 - ► dönüm

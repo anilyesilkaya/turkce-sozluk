@@ -2,6 +2,7 @@
 layout: term
 title: doruk noktası
 slug: doruk-noktasi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir gelişmede gelinen en önemli, heyecanlı veya etkili durum

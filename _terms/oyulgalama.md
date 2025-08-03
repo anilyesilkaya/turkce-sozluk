@@ -2,6 +2,7 @@
 layout: term
 title: oyulgalama
 slug: oyulgalama
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oyulgalamak işi; oyulgama

@@ -2,6 +2,7 @@
 layout: term
 title: toz bulutu
 slug: toz-bulutu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Havada oluşan yoğun toz

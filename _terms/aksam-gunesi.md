@@ -2,6 +2,7 @@
 layout: term
 title: akşam güneşi
 slug: aksam-gunesi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Etkisi azalmış gün ışığı

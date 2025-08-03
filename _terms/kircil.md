@@ -2,6 +2,7 @@
 layout: term
 title: kırçıl
 slug: kircil
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kırlaşmaya başlamış, kır renkli

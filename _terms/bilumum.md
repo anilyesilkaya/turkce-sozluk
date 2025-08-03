@@ -2,6 +2,7 @@
 layout: term
 title: bilumum
 slug: bilumum
+letter: B
 lisan: Arapça bi'l-ʿumūm
 anlamlar:
 - ► bütün

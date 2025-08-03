@@ -2,6 +2,7 @@
 layout: term
 title: sinüzoit
 slug: sinuzoit
+letter: S
 lisan: Fransızca sinusoïde
 anlamlar:
 - Bir çemberin, sıfır dereceden 360 dereceye kadar olan yaylarının sinüslerinin değişmelerini grafik ile gösteren devirli düzlem eğri

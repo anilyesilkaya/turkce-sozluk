@@ -2,6 +2,7 @@
 layout: term
 title: empati
 slug: empati
+letter: E
 lisan: Fransızca empathie
 anlamlar:
 - ► duygudaşlık

@@ -2,6 +2,7 @@
 layout: term
 title: bin
 slug: bin
+letter: B
 lisan: Türkçe
 anlamlar:
 - Dokuz yüz doksan dokuzdan sonra gelen sayının adı

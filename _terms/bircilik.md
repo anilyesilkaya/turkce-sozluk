@@ -2,6 +2,7 @@
 layout: term
 title: bircilik
 slug: bircilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► tekçilik

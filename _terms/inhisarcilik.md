@@ -2,6 +2,7 @@
 layout: term
 title: inhisarcılık
 slug: inhisarcilik
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► tekelcilik

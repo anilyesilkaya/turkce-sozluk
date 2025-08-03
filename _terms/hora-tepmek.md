@@ -2,6 +2,7 @@
 layout: term
 title: hora tepmek
 slug: hora-tepmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - hora oynamak

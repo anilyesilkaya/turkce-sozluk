@@ -2,6 +2,7 @@
 layout: term
 title: hesaplayabilmek
 slug: hesaplayabilmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hesaplama ihtimali veya imkânı bulunmak

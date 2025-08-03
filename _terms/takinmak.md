@@ -2,6 +2,7 @@
 layout: term
 title: takınmak
 slug: takinmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Kendine takmak

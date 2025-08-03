@@ -2,6 +2,7 @@
 layout: term
 title: çamaşırlık
 slug: camasirlik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çamaşır yıkamak için kullanılan yer; çamaşırhane

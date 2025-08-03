@@ -2,6 +2,7 @@
 layout: term
 title: rampa etmek
 slug: rampa-etmek
+letter: R
 lisan: Türkçe
 anlamlar:
 - taşıt bir yere, bir şeye veya bir başka taşıta yanaşmak

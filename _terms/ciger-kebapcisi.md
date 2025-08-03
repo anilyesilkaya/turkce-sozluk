@@ -2,6 +2,7 @@
 layout: term
 title: ciğer kebapçısı
 slug: ciger-kebapcisi
+letter: C
 lisan: Türkçe
 anlamlar:
 - Ciğer kavurup satan kimse; ciğerci

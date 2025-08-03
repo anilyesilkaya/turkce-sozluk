@@ -2,6 +2,7 @@
 layout: term
 title: filarmoni
 slug: filarmoni
+letter: F
 lisan: Fransızca philharmonie
 anlamlar:
 - Güçlü müzik sevgisi

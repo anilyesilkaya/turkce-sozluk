@@ -2,6 +2,7 @@
 layout: term
 title: sapıntı
 slug: sapinti
+letter: S
 lisan: Türkçe
 anlamlar:
 - Doğru yoldan sapma durumu

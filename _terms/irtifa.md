@@ -2,6 +2,7 @@
 layout: term
 title: irtifa
 slug: irtifa
+letter: I
 lisan: Arapça irtifāʿ
 anlamlar:
 - ► yükseklik

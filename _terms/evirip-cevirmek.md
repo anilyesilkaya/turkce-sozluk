@@ -2,6 +2,7 @@
 layout: term
 title: evirip çevirmek
 slug: evirip-cevirmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - iyice, istediği gibi, adamakıllı gözden geçirmek

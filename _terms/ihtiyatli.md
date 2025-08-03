@@ -2,6 +2,7 @@
 layout: term
 title: ihtiyatlı
 slug: ihtiyatli
+letter: I
 lisan: Türkçe
 anlamlar:
 - Herhangi bir konuda ileriyi düşünerek ölçülü davranan, önlem alan; sakıngan, ihtiyatkâr

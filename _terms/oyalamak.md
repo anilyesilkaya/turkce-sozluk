@@ -2,6 +2,7 @@
 layout: term
 title: oyalamak
 slug: oyalamak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oya ile süslemek

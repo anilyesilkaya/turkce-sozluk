@@ -2,6 +2,7 @@
 layout: term
 title: vakur
 slug: vakur
+letter: V
 lisan: Arapça vaḳūr
 anlamlar:
 - ► ağırbaşlı

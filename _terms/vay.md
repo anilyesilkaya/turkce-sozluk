@@ -2,6 +2,7 @@
 layout: term
 title: vay
 slug: vay
+letter: V
 lisan: Türkçe
 anlamlar:
 - Şaşma anlatan bir söz

@@ -2,6 +2,7 @@
 layout: term
 title: bilmezlemek
 slug: bilmezlemek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir kimsenin bir konuda bilgisizliğini, cehaletini ortaya çıkarmak; teçhil etmek

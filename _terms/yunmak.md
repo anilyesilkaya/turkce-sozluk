@@ -2,6 +2,7 @@
 layout: term
 title: yunmak
 slug: yunmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yıkanmak

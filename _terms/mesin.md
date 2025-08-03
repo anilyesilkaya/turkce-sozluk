@@ -2,6 +2,7 @@
 layout: term
 title: meşin
 slug: mesin
+letter: M
 lisan: Farsça mīşīn
 anlamlar:
 - İşlenmiş koyun derisi

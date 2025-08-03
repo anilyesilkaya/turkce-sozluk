@@ -2,6 +2,7 @@
 layout: term
 title: belitlemek
 slug: belitlemek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belgeye dayanarak ortaya koymak

@@ -2,6 +2,7 @@
 layout: term
 title: zehapta bulunmak
 slug: zehapta-bulunmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - vesveseye kapılmak, kuruntu içinde olmak

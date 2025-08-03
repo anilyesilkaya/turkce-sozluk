@@ -2,6 +2,7 @@
 layout: term
 title: zora binmek
 slug: zora-binmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - iş ancak zor kullanılmakla sonuçlanacak bir hâl almak

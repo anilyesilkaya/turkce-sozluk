@@ -2,6 +2,7 @@
 layout: term
 title: antipirin
 slug: antipirin
+letter: A
 lisan: Fransızca antipyrine
 anlamlar:
 - Ağrı kesici, ateş düşürücü ve iltihap giderici etkisi olan, bireşim yoluyla hazırlanmış sentetik ilaç

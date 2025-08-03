@@ -2,6 +2,7 @@
 layout: term
 title: çocuk gibi sevinmek
 slug: cocuk-gibi-sevinmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - çok sevinmek

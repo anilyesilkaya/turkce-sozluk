@@ -2,6 +2,7 @@
 layout: term
 title: çatallanmak
 slug: catallanmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çatal gibi ikiye ayrılmak

@@ -2,6 +2,7 @@
 layout: term
 title: solluk
 slug: solluk
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sol görüşe sahip olma durumu

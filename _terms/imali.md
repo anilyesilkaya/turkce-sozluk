@@ -2,6 +2,7 @@
 layout: term
 title: imalı
 slug: imali
+letter: I
 lisan: Türkçe
 anlamlar:
 - Üstü kapalı, örtülü (söz veya davranış)

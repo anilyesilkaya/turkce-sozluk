@@ -2,6 +2,7 @@
 layout: term
 title: fakir fukara
 slug: fakir-fukara
+letter: F
 lisan: Türkçe
 anlamlar:
 - Yoksullar, geçimini sağlamakta güçlük çekenler

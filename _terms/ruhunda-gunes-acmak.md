@@ -2,6 +2,7 @@
 layout: term
 title: ruhunda güneş açmak
 slug: ruhunda-gunes-acmak
+letter: R
 lisan: Türkçe
 anlamlar:
 - rahatlamak, huzura ermek

@@ -2,6 +2,7 @@
 layout: term
 title: karnı büyümek
 slug: karni-buyumek
+letter: K
 lisan: Türkçe
 anlamlar:
 - hamileliği belirgin duruma gelmek

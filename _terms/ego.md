@@ -2,6 +2,7 @@
 layout: term
 title: ego
 slug: ego
+letter: E
 lisan: Latince
 anlamlar:
 - ► ben (III)

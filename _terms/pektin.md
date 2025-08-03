@@ -2,6 +2,7 @@
 layout: term
 title: pektin
 slug: pektin
+letter: P
 lisan: Fransızca pectine
 anlamlar:
 - Bitki dokularında bulunan renksiz, metil grubundan madde

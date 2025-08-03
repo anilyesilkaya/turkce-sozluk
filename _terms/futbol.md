@@ -2,6 +2,7 @@
 layout: term
 title: futbol
 slug: futbol
+letter: F
 lisan: İngilizce football
 anlamlar:
 - Topu, kafa veya ayak vuruşları ile karşı kaleye sokma kuralına dayanan ve biri kaleci olmak üzere on birer kişilik iki takım arasında oynanan top oyunu; ayak topu

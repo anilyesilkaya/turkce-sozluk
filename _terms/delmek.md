@@ -2,6 +2,7 @@
 layout: term
 title: delmek
 slug: delmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Delik açmak, delik duruma getirmek

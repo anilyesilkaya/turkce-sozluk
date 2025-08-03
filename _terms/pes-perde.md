@@ -2,6 +2,7 @@
 layout: term
 title: pes perde
 slug: pes-perde
+letter: P
 lisan: Türkçe
 anlamlar:
 - Alçak ve kalın ses

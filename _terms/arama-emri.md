@@ -2,6 +2,7 @@
 layout: term
 title: arama emri
 slug: arama-emri
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yapılacak arama işlemi için yetkili organdan alınan buyruk

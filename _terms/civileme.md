@@ -2,6 +2,7 @@
 layout: term
 title: çivileme
 slug: civileme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çivilemek işi; mıhlama

@@ -2,6 +2,7 @@
 layout: term
 title: ağzında çalkalanmak
 slug: agzinda-calkalanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - üzerinde çok konuşulmak

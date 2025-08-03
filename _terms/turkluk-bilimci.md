@@ -2,6 +2,7 @@
 layout: term
 title: Türklük bilimci
 slug: turkluk-bilimci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Türk dili, tarihi, edebiyatı ve halk bilimi araştırmaları alanında uzman kimse; Türkiyatçı, Türkolog

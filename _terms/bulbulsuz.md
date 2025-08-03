@@ -2,6 +2,7 @@
 layout: term
 title: bülbülsüz
 slug: bulbulsuz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bülbülü olmayan

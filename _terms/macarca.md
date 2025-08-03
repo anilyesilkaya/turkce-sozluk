@@ -2,6 +2,7 @@
 layout: term
 title: Macarca
 slug: macarca
+letter: M
 lisan: Türkçe
 anlamlar:
 - Macarların kullandığı dil

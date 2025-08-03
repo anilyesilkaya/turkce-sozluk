@@ -2,6 +2,7 @@
 layout: term
 title: gölge olaycılık
 slug: golge-olaycilik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Ruh etkinliğinin bilinçli olmadan da var olabileceğini ileri sürerek bilinci, bir gölge olay sayan felsefe öğretisi

@@ -2,6 +2,7 @@
 layout: term
 title: kinaye
 slug: kinaye
+letter: K
 lisan: Arapça kināye
 anlamlar:
 - Düşünüleni dolaylı olarak anlatan söz

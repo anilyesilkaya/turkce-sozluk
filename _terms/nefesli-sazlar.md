@@ -2,6 +2,7 @@
 layout: term
 title: nefesli sazlar
 slug: nefesli-sazlar
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► üflemeli sazlar

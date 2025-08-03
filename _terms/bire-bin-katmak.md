@@ -2,6 +2,7 @@
 layout: term
 title: bire bin katmak
 slug: bire-bin-katmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - çok abartmak

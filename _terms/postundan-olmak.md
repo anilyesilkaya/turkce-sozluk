@@ -2,6 +2,7 @@
 layout: term
 title: postundan olmak
 slug: postundan-olmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - bulunduğu makamı yitirmek

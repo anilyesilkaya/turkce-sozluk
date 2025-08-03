@@ -2,6 +2,7 @@
 layout: term
 title: ifrağ
 slug: ifrag
+letter: I
 lisan: Arapça ifrāġ
 anlamlar:
 - Bir şeyi başka bir biçime çevirme

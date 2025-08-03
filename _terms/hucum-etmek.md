@@ -2,6 +2,7 @@
 layout: term
 title: hücum etmek
 slug: hucum-etmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - saldırmak

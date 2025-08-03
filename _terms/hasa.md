@@ -2,6 +2,7 @@
 layout: term
 title: haşa
 slug: hasa
+letter: H
 lisan: Arapça ḥāşā
 anlamlar:
 - Bir durum veya davranışın kesinlikle kabul edilmediğini anlatan bir söz

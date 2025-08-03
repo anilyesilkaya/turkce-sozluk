@@ -2,6 +2,7 @@
 layout: term
 title: müseddes
 slug: museddes
+letter: M
 lisan: Arapça museddes
 anlamlar:
 - ► altıgen

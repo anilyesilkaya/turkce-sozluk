@@ -2,6 +2,7 @@
 layout: term
 title: açıktan almak
 slug: aciktan-almak
+letter: A
 lisan: Türkçe
 anlamlar:
 - açıktan geçmek

@@ -2,6 +2,7 @@
 layout: term
 title: dünyevilik
 slug: dunyevilik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dünyevi olma durumu; dünyasallık

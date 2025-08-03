@@ -2,6 +2,7 @@
 layout: term
 title: çöğürcü
 slug: cogurcu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çöğür (I) çalan kimse

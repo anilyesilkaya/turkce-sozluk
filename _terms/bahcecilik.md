@@ -2,6 +2,7 @@
 layout: term
 title: bahçecilik
 slug: bahcecilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bahçecinin yaptığı iş

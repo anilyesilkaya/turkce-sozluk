@@ -2,6 +2,7 @@
 layout: term
 title: ünvan
 slug: unvan
+letter: Ü
 lisan: Arapça ʿunvān
 anlamlar:
 - Bir kimsenin memuriyetindeki rütbesini, makamını veya mevkisini gösteren ad; san, titr

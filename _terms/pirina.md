@@ -2,6 +2,7 @@
 layout: term
 title: pirina
 slug: pirina
+letter: P
 lisan: Rumca
 anlamlar:
 - Zeytinin, sıkıldıktan sonra yağ bakımından zenginliğini yitirmeyen, gübre veya hayvan yemi olarak kullanılan küspesi

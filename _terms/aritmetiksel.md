@@ -2,6 +2,7 @@
 layout: term
 title: aritmetiksel
 slug: aritmetiksel
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aritmetik ile ilgili

@@ -2,6 +2,7 @@
 layout: term
 title: rivayet
 slug: rivayet
+letter: R
 lisan: Arapça rivāyet
 anlamlar:
 - ► söylenti

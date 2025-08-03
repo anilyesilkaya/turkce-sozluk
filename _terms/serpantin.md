@@ -2,6 +2,7 @@
 layout: term
 title: serpantin
 slug: serpantin
+letter: S
 lisan: Fransızca serpentin
 anlamlar:
 - Eğlencelerde kullanmak için kendi üzerine sarılarak hazırlanan, savrulduğunda çözülen, renkli kâğıttan yapılmış ince ve uzun şerit

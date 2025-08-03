@@ -2,6 +2,7 @@
 layout: term
 title: kendini sıyıramamak
 slug: kendini-siyiramamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kurtulamamak

@@ -2,6 +2,7 @@
 layout: term
 title: kadifeleşmek
 slug: kadifelesmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yumuşamak, samimi olmak

@@ -2,6 +2,7 @@
 layout: term
 title: ilgi odağı olmak
 slug: ilgi-odagi-olmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - çevrenin yoğun dikkatini üzerinde toplamak

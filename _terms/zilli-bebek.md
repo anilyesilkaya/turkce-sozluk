@@ -2,6 +2,7 @@
 layout: term
 title: zilli bebek
 slug: zilli-bebek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► şakşakçı

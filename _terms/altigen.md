@@ -2,6 +2,7 @@
 layout: term
 title: altıgen
 slug: altigen
+letter: A
 lisan: Türkçe
 anlamlar:
 - Altı kenarlı çokgen; müseddes

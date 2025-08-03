@@ -2,6 +2,7 @@
 layout: term
 title: belediye çavuşu
 slug: belediye-cavusu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Zabıta işlerinde üst görevli

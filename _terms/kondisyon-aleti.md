@@ -2,6 +2,7 @@
 layout: term
 title: kondisyon aleti
 slug: kondisyon-aleti
+letter: K
 lisan: Türkçe
 anlamlar:
 - Vücut sağlığını korumak ve geliştirmek için kullanılan kondisyon bisikleti, koşu bandı, kürek vb. araçlardan her biri

@@ -2,6 +2,7 @@
 layout: term
 title: rekabet
 slug: rekabet
+letter: R
 lisan: Arapça reḳābet
 anlamlar:
 - Aynı amacı güden kimseler arasındaki çekişme; rakiplik, yarışma, yarış

@@ -2,6 +2,7 @@
 layout: term
 title: yalabımak
 slug: yalabimak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► parıldamak

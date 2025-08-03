@@ -2,6 +2,7 @@
 layout: term
 title: ağzı sıkı
 slug: agzi-siki
+letter: A
 lisan: Türkçe
 anlamlar:
 - Sır saklayan; ağzı pek, ketum

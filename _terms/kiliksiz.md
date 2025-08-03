@@ -2,6 +2,7 @@
 layout: term
 title: kılıksız
 slug: kiliksiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Giyimi düzgün olmayan; kıyafetsiz, süfli

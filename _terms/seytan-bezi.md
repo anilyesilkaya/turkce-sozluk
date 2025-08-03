@@ -2,6 +2,7 @@
 layout: term
 title: şeytan bezi
 slug: seytan-bezi
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Erkek elbisesi yapımında kullanılan kadife dokunuşlu bir tür pamuk kumaş

@@ -2,6 +2,7 @@
 layout: term
 title: içeri (veya içeriye) atmak (veya almak veya tıkmak)
 slug: iceri-veya-iceriye-atmak-veya-almak-veya-tikmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - hapsetmek

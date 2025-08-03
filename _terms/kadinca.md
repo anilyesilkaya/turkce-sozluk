@@ -2,6 +2,7 @@
 layout: term
 title: kadınca
 slug: kadinca
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kadına özgü

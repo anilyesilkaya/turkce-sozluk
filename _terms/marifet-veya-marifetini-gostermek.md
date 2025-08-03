@@ -2,6 +2,7 @@
 layout: term
 title: marifet (veya marifetini) göstermek
 slug: marifet-veya-marifetini-gostermek
+letter: M
 lisan: Türkçe
 anlamlar:
 - ustalığını ortaya koymak

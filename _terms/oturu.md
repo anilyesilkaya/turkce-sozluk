@@ -2,6 +2,7 @@
 layout: term
 title: ötürü
 slug: oturu
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Bir şeyden dolayı, bir şey yüzünden; dolayı, naşi

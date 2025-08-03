@@ -2,6 +2,7 @@
 layout: term
 title: tonaj
 slug: tonaj
+letter: T
 lisan: Fransızca tonnage
 anlamlar:
 - Bir taşıtın alabildiği ton miktarı

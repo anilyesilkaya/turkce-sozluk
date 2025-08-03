@@ -2,6 +2,7 @@
 layout: term
 title: temaşa
 slug: temasa
+letter: T
 lisan: Farsça temāşā
 anlamlar:
 - Hoşlanarak bakma, seyretme

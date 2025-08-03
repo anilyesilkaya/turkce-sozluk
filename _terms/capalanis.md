@@ -2,6 +2,7 @@
 layout: term
 title: çapalanış
 slug: capalanis
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çapalanmak işi

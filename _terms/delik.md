@@ -2,6 +2,7 @@
 layout: term
 title: delik
 slug: delik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dar, küçük açıklık

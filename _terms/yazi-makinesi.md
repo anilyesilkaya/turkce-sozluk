@@ -2,6 +2,7 @@
 layout: term
 title: yazı makinesi
 slug: yazi-makinesi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Tuşlara parmakla vurulduğunda harflerin boyalı bir şerit yardımıyla kâğıt üzerine çıkması temeline dayanan, mekanik veya elektrikle çalışan türleri bulunan makine; daktilo, daktilo makinesi

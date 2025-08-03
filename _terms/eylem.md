@@ -2,6 +2,7 @@
 layout: term
 title: eylem
 slug: eylem
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eylemek işi; fiil

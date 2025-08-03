@@ -2,6 +2,7 @@
 layout: term
 title: körkütük
 slug: korkutuk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Aşırı derecede (sarhoş, âşık vb.)

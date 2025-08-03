@@ -2,6 +2,7 @@
 layout: term
 title: kulle
 slug: kulle
+letter: K
 lisan: Türkçe
 anlamlar:
 - Büyük bağ evi

@@ -2,6 +2,7 @@
 layout: term
 title: faaliyet
 slug: faaliyet
+letter: F
 lisan: Arapça faʿāliyyet
 anlamlar:
 - Bir yerde bulunan canlılık, hareketlilik durumu

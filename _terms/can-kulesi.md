@@ -2,6 +2,7 @@
 layout: term
 title: çan kulesi
 slug: can-kulesi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - İçinde çan bulunan uzun, yüksek kule

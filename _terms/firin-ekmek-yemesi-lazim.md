@@ -2,6 +2,7 @@
 layout: term
 title: '... fırın ekmek yemesi lazım'
 slug: firin-ekmek-yemesi-lazim
+letter: .
 lisan: Türkçe
 anlamlar:
 - '"bir duruma erişmek için pek çok emek vermesi, çalışması gerekir" anlamında kullanılan bir söz'

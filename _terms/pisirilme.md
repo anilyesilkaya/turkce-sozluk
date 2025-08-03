@@ -2,6 +2,7 @@
 layout: term
 title: pişirilme
 slug: pisirilme
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pişirilmek işi

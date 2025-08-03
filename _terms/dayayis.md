@@ -2,6 +2,7 @@
 layout: term
 title: dayayış
 slug: dayayis
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dayamak işi

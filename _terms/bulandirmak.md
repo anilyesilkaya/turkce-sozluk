@@ -2,6 +2,7 @@
 layout: term
 title: bulandırmak
 slug: bulandirmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bulanmasına yol açmak, bulanmasını sağlamak

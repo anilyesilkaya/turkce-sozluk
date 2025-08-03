@@ -2,6 +2,7 @@
 layout: term
 title: bunalmak
 slug: bunalmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Soluk alması güçleşmek

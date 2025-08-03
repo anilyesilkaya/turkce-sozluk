@@ -2,6 +2,7 @@
 layout: term
 title: gözü kapalı
 slug: gozu-kapali
+letter: G
 lisan: Türkçe
 anlamlar:
 - Çevresinde olanlardan haberi olmayan (kimse)

@@ -2,6 +2,7 @@
 layout: term
 title: pat burun
 slug: pat-burun
+letter: P
 lisan: Türkçe
 anlamlar:
 - Yassı biçimdeki burun

@@ -2,6 +2,7 @@
 layout: term
 title: az kaldı (veya kalsın)
 slug: az-kaldi-veya-kalsin
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir işin gerçekleşmesi söz konusuyken gerçekleşmemesi durumunda kullanılan bir söz

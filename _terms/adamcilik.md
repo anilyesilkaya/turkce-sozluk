@@ -2,6 +2,7 @@
 layout: term
 title: adamcılık
 slug: adamcilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Adamcı olma durumu

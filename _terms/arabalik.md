@@ -2,6 +2,7 @@
 layout: term
 title: arabalık
 slug: arabalik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► garaj

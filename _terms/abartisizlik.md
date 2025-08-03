@@ -2,6 +2,7 @@
 layout: term
 title: abartısızlık
 slug: abartisizlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Abartısız olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: idareimaslahatçılık
 slug: idareimaslahatcilik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İdareimaslahatçı olma durumu

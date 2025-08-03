@@ -2,6 +2,7 @@
 layout: term
 title: sütunlu
 slug: sutunlu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sütunu olan

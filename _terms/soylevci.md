@@ -2,6 +2,7 @@
 layout: term
 title: söylevci
 slug: soylevci
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir topluluk karşısında konuşan kimse

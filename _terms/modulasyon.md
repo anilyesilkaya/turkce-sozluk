@@ -2,6 +2,7 @@
 layout: term
 title: modülasyon
 slug: modulasyon
+letter: M
 lisan: Fransızca modulation
 anlamlar:
 - Bir sesin yayılmasında ortaya çıkan yeğinlik, vurgu, ton değişimlerinden her biri

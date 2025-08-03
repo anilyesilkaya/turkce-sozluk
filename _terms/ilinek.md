@@ -2,6 +2,7 @@
 layout: term
 title: ilinek
 slug: ilinek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Ortaya çıkması, belirmesi için başka bir öze ihtiyaç duyan şey; araz

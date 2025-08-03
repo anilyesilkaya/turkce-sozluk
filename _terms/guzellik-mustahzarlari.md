@@ -2,6 +2,7 @@
 layout: term
 title: güzellik müstahzarları
 slug: guzellik-mustahzarlari
+letter: G
 lisan: Türkçe
 anlamlar:
 - Makyaj malzemelerinin genel adı

@@ -2,6 +2,7 @@
 layout: term
 title: Ukraynaca
 slug: ukraynaca
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ukraynalıların kullandığı dil

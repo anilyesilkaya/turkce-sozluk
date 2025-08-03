@@ -2,6 +2,7 @@
 layout: term
 title: sentez
 slug: sentez
+letter: S
 lisan: Fransızca synthèse
 anlamlar:
 - Element veya başka maddeleri bir araya getirerek yapay olarak bileşik cisimler oluşturma; bireşim

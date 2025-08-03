@@ -2,6 +2,7 @@
 layout: term
 title: pavyon
 slug: pavyon
+letter: P
 lisan: Fransızca pavillon
 anlamlar:
 - Bir kuruluşun, bir kurumun, bir bahçe içindeki yapılarından her biri

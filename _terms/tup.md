@@ -2,6 +2,7 @@
 layout: term
 title: tüp
 slug: tup
+letter: T
 lisan: Fransızca tube
 anlamlar:
 - Laboratuvarlarda türlü işlerde kullanılan, bir ucu kapalı cam boru

@@ -2,6 +2,7 @@
 layout: term
 title: terim
 slug: terim
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir bilim, sanat, meslek dalıyla veya bir konu ile ilgili özel ve belirli bir kavramı karşılayan kelime; ıstılah

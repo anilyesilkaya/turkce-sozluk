@@ -2,6 +2,7 @@
 layout: term
 title: şöyle bir
 slug: soyle-bir
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► üstünkörü

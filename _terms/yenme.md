@@ -2,6 +2,7 @@
 layout: term
 title: yenme
 slug: yenme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yenmek işi

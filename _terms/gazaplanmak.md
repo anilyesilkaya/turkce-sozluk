@@ -2,6 +2,7 @@
 layout: term
 title: gazaplanmak
 slug: gazaplanmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - Öfkelenmek, kızmak

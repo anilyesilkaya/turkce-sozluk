@@ -2,6 +2,7 @@
 layout: term
 title: şahincilik
 slug: sahincilik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şahincinin yaptığı iş

@@ -2,6 +2,7 @@
 layout: term
 title: sürüp gelmek
 slug: surup-gelmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - eskiden beri devam etmek

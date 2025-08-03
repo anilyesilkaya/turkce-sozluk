@@ -2,6 +2,7 @@
 layout: term
 title: yobaz
 slug: yobaz
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Dinde bağnazlığı aşırılığa vardıran, başkalarına baskı yapmaya yönelen (kimse)

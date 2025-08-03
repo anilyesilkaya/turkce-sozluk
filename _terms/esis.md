@@ -2,6 +2,7 @@
 layout: term
 title: esiş
 slug: esis
+letter: E
 lisan: Türkçe
 anlamlar:
 - Esmek işi

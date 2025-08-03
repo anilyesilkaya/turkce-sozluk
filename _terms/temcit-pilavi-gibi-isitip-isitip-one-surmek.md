@@ -2,6 +2,7 @@
 layout: term
 title: temcit pilavı gibi (ısıtıp ısıtıp öne sürmek)
 slug: temcit-pilavi-gibi-isitip-isitip-one-surmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - bir şeyi birçok kez tekrarlamak

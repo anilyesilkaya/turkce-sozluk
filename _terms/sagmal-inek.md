@@ -2,6 +2,7 @@
 layout: term
 title: sağmal inek
 slug: sagmal-inek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Aptal yerine konularak kendisinden sürekli çıkar sağlanan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: yiğit
 slug: yigit
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Güçlü, yürekli olan (kimse); alp, celadetli, yağız, dilaver

@@ -2,6 +2,7 @@
 layout: term
 title: benimsenme
 slug: benimsenme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Benimsenmek işi

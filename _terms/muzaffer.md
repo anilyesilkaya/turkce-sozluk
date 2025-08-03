@@ -2,6 +2,7 @@
 layout: term
 title: muzaffer
 slug: muzaffer
+letter: M
 lisan: Arapça muẓaffer
 anlamlar:
 - Bir mücadelede üstünlük elde etmiş; utkulu

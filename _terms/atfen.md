@@ -2,6 +2,7 @@
 layout: term
 title: atfen
 slug: atfen
+letter: A
 lisan: Arapça ʿaṭfen
 anlamlar:
 - Mal ederek, yükleyerek

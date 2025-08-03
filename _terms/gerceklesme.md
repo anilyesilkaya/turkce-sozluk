@@ -2,6 +2,7 @@
 layout: term
 title: gerçekleşme
 slug: gerceklesme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gerçekleşmek işi; tahakkuk

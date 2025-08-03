@@ -2,6 +2,7 @@
 layout: term
 title: agulamak
 slug: agulamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bebek "agu" diye ses çıkarmak

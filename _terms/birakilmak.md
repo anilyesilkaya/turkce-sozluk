@@ -2,6 +2,7 @@
 layout: term
 title: bırakılmak
 slug: birakilmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bırakma işine konu olmak; terk edilmek

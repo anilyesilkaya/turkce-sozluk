@@ -2,6 +2,7 @@
 layout: term
 title: sömürülme
 slug: somurulme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sömürülmek işi

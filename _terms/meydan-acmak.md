@@ -2,6 +2,7 @@
 layout: term
 title: meydan açmak
 slug: meydan-acmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - sebep olmak

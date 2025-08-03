@@ -2,6 +2,7 @@
 layout: term
 title: aşındırabilmek
 slug: asindirabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aşındırma ihtimali veya imkânı bulunmak

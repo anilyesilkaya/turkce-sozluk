@@ -2,6 +2,7 @@
 layout: term
 title: usulü dairesinde
 slug: usulu-dairesinde
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► gereğince

@@ -2,6 +2,7 @@
 layout: term
 title: yazlıkçı
 slug: yazlikci
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Tatilini yazlıkta geçiren kimse

@@ -2,6 +2,7 @@
 layout: term
 title: yol almak
 slug: yol-almak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yolda ilerlemek

@@ -2,6 +2,7 @@
 layout: term
 title: hayra yormak
 slug: hayra-yormak
+letter: H
 lisan: Türkçe
 anlamlar:
 - rüya veya olayı iyi bir durumun belirtisi saymak

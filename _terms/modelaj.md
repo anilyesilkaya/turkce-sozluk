@@ -2,6 +2,7 @@
 layout: term
 title: modelaj
 slug: modelaj
+letter: M
 lisan: Fransızca modelage
 anlamlar:
 - ► oylumlama

@@ -2,6 +2,7 @@
 layout: term
 title: manyetizma
 slug: manyetizma
+letter: M
 lisan: Fransızca magnétisme
 anlamlar:
 - Mıknatıs özelliklerinin bütünü

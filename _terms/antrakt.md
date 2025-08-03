@@ -2,6 +2,7 @@
 layout: term
 title: antrakt
 slug: antrakt
+letter: A
 lisan: Fransızca entracte
 anlamlar:
 - ► ara

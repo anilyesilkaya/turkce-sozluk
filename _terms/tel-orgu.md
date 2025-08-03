@@ -2,6 +2,7 @@
 layout: term
 title: tel örgü
 slug: tel-orgu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Dikenli tellerden yapılmış engel

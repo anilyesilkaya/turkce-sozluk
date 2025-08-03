@@ -2,6 +2,7 @@
 layout: term
 title: sen bilirsin
 slug: sen-bilirsin
+letter: S
 lisan: Türkçe
 anlamlar:
 - '"nasıl uygun bulursan öyle yap" anlamında kullanılan bir söz'

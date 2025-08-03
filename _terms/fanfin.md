@@ -2,6 +2,7 @@
 layout: term
 title: fanfin
 slug: fanfin
+letter: F
 lisan: Türkçe
 anlamlar:
 - '"Anlaşılmayan bir dille konuşmak" anlamında kullanılan fanfin etmek sözünde geçer'

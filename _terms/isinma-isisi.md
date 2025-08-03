@@ -2,6 +2,7 @@
 layout: term
 title: ısınma ısısı
 slug: isinma-isisi
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bir cismin bir gramının sıcaklığını 1 °C yükselten ısı miktarı; öz ısı

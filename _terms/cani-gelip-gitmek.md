@@ -2,6 +2,7 @@
 layout: term
 title: canı gelip gitmek
 slug: cani-gelip-gitmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - ayılıp bayılmak

@@ -2,6 +2,7 @@
 layout: term
 title: kıvır kıvır
 slug: kivir-kivir
+letter: K
 lisan: Türkçe
 anlamlar:
 - Büklümleri olan

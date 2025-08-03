@@ -2,6 +2,7 @@
 layout: term
 title: yenebilme
 slug: yenebilme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yenebilmek işi

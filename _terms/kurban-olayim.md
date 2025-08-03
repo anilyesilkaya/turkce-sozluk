@@ -2,6 +2,7 @@
 layout: term
 title: kurban olayım!
 slug: kurban-olayim
+letter: K
 lisan: Türkçe
 anlamlar:
 - aşırı sevgi ve hayranlık anlatan bir söz

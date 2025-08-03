@@ -2,6 +2,7 @@
 layout: term
 title: iki geçeli
 slug: iki-geceli
+letter: I
 lisan: Türkçe
 anlamlar:
 - Karşılıklı iki sıra olarak

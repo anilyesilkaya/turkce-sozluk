@@ -2,6 +2,7 @@
 layout: term
 title: abusluk
 slug: abusluk
+letter: A
 lisan: Türkçe
 anlamlar:
 - Abus olma durumu

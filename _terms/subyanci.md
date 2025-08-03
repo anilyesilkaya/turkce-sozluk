@@ -2,6 +2,7 @@
 layout: term
 title: sübyancı
 slug: subyanci
+letter: S
 lisan: Türkçe
 anlamlar:
 - Ergenlik çağına girmemiş çocuklara karşı cinsel ilgi duyan kimse; pedofil

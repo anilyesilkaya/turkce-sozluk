@@ -2,6 +2,7 @@
 layout: term
 title: yüzsüz yüzsüz
 slug: yuzsuz-yuzsuz
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Utanmaz ve pişkin bir biçimde

@@ -2,6 +2,7 @@
 layout: term
 title: toslaşmak
 slug: toslasmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Birbirine tos vurmak

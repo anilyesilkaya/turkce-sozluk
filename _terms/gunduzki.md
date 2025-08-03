@@ -2,6 +2,7 @@
 layout: term
 title: gündüzki
 slug: gunduzki
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gündüze özgü, gündüz olan, gündüz yapılan

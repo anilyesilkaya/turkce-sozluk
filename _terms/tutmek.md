@@ -2,6 +2,7 @@
 layout: term
 title: tütmek
 slug: tutmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Duman veya buhar çıkarmak

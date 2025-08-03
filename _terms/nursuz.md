@@ -2,6 +2,7 @@
 layout: term
 title: nursuz
 slug: nursuz
+letter: N
 lisan: Türkçe
 anlamlar:
 - Saygı uyandırmayan, sevimsiz

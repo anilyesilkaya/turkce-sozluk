@@ -2,6 +2,7 @@
 layout: term
 title: ertelenme
 slug: ertelenme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ertelenmek işi

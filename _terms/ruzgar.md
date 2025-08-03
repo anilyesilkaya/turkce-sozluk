@@ -2,6 +2,7 @@
 layout: term
 title: rüzgâr
 slug: ruzgar
+letter: R
 lisan: Farsça rūzgār
 anlamlar:
 - Havanın yer değiştirmesiyle oluşan esinti; yel, bad

@@ -2,6 +2,7 @@
 layout: term
 title: hükümferma
 slug: hukumferma
+letter: H
 lisan: Arapça ḥukm + Farsça -fermā
 anlamlar:
 - Hüküm süren

@@ -2,6 +2,7 @@
 layout: term
 title: acılaşmak
 slug: acilasmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Tadı bozulmak; acımak

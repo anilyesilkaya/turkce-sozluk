@@ -2,6 +2,7 @@
 layout: term
 title: dıramudana
 slug: diramudana
+letter: D
 lisan: Rumca
 anlamlar:
 - Denizden esen bir rüzgâr türü

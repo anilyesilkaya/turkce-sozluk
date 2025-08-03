@@ -2,6 +2,7 @@
 layout: term
 title: boyunca
 slug: boyunca
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boyu veya uzunluğu kadar

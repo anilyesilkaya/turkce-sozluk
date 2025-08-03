@@ -2,6 +2,7 @@
 layout: term
 title: anlayışsız
 slug: anlayissiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anlayışı kıt olan; ferasetsiz, idraksiz, izansız

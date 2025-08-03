@@ -2,6 +2,7 @@
 layout: term
 title: serseri
 slug: serseri
+letter: S
 lisan: Farsça serserī
 anlamlar:
 - Belli bir işi ve yeri olmayan, başıboş (kimse)

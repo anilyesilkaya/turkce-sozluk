@@ -2,6 +2,7 @@
 layout: term
 title: bürokratlaşma
 slug: burokratlasma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bürokratlaşmak işi

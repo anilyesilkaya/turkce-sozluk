@@ -2,6 +2,7 @@
 layout: term
 title: kartotek
 slug: kartotek
+letter: K
 lisan: Fransızca cartothèque
 anlamlar:
 - Kartlar üstüne işlenmiş bilgilerin düzenli bir dizgeye göre derlenmesi

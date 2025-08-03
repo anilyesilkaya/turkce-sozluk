@@ -2,6 +2,7 @@
 layout: term
 title: af buyurun!
 slug: af-buyurun
+letter: A
 lisan: Türkçe
 anlamlar:
 - '"affedersiniz, affınızı rica ederim" anlamında kullanılan bir söz'

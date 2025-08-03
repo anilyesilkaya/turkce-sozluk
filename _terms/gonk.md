@@ -2,6 +2,7 @@
 layout: term
 title: gonk
 slug: gonk
+letter: G
 lisan: Fransızca gong
 anlamlar:
 - Keçe veya bez kaplı bir tokmakla vurularak uzun süreli ses veren, tepsi biçiminde, madenî bir çalgı

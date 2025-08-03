@@ -2,6 +2,7 @@
 layout: term
 title: susma
 slug: susma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Susmak işi

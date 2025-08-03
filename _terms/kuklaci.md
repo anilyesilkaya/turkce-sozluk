@@ -2,6 +2,7 @@
 layout: term
 title: kuklacı
 slug: kuklaci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kukla oynatan veya yapıp satan kimse

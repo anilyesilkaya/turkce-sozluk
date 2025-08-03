@@ -2,6 +2,7 @@
 layout: term
 title: hadisene
 slug: hadisene
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► haydisene

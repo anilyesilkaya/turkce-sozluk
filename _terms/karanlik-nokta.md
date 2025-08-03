@@ -2,6 +2,7 @@
 layout: term
 title: karanlık nokta
 slug: karanlik-nokta
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bilinmeyen, gizli, şüpheli konu

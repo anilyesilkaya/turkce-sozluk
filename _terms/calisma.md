@@ -2,6 +2,7 @@
 layout: term
 title: çalışma
 slug: calisma
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çalışmak işi; faaliyet

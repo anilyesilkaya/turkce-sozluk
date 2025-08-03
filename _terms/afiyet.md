@@ -2,6 +2,7 @@
 layout: term
 title: afiyet
 slug: afiyet
+letter: A
 lisan: Arapça ʿāfiyet
 anlamlar:
 - Ruhsal ve bedensel olarak sağlıklı, sıhhatli olma durumu

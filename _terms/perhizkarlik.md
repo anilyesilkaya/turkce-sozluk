@@ -2,6 +2,7 @@
 layout: term
 title: perhizkârlık
 slug: perhizkarlik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Perhizkâr olma durumu

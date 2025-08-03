@@ -2,6 +2,7 @@
 layout: term
 title: peylemek
 slug: peylemek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Bir şeyi önceden kendine ayırtmak

@@ -2,6 +2,7 @@
 layout: term
 title: zarar
 slug: zarar
+letter: Z
 lisan: Arapça żarar
 anlamlar:
 - Bir şeyin, bir olayın yol açtığı çıkar kaybı veya olumsuz, kötü sonuç; dokunca, ziyan, mazarrat, götürü, hüsran, muhatara

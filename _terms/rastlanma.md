@@ -2,6 +2,7 @@
 layout: term
 title: rastlanma
 slug: rastlanma
+letter: R
 lisan: Türkçe
 anlamlar:
 - Rastlanmak işi

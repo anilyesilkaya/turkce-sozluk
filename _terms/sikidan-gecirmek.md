@@ -2,6 +2,7 @@
 layout: term
 title: sıkıdan geçirmek
 slug: sikidan-gecirmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - dayak atmak

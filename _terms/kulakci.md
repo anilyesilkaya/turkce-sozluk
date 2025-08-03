@@ -2,6 +2,7 @@
 layout: term
 title: kulakçı
 slug: kulakci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kulak, burun, boğaz hekimi

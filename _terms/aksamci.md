@@ -2,6 +2,7 @@
 layout: term
 title: akşamcı
 slug: aksamci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Akşamları içki içme alışkanlığında olan kimse

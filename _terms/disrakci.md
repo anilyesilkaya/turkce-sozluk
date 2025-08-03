@@ -2,6 +2,7 @@
 layout: term
 title: dışrakçı
 slug: disrakci
+letter: D
 lisan: Türkçe
 anlamlar:
 - Ele alınan konuyu dışarıdan kavramaya çalışan

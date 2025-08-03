@@ -2,6 +2,7 @@
 layout: term
 title: bozuluş
 slug: bozulus
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bozulmak işi

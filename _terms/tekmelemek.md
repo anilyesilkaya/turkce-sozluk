@@ -2,6 +2,7 @@
 layout: term
 title: tekmelemek
 slug: tekmelemek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tekme vurmak, tekme atmak; tepiklemek

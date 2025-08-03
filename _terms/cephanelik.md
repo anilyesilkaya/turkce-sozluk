@@ -2,6 +2,7 @@
 layout: term
 title: cephanelik
 slug: cephanelik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cephanenin saklanmasına yarar kapalı ve korunmuş yer

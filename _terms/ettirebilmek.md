@@ -2,6 +2,7 @@
 layout: term
 title: ettirebilmek
 slug: ettirebilmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ettirme ihtimali veya imkânı bulunmak

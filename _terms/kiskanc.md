@@ -2,6 +2,7 @@
 layout: term
 title: kıskanç
 slug: kiskanc
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kıskanma huyunda olan (kimse); günücü, haset, hasetçi, hasetli, hasut

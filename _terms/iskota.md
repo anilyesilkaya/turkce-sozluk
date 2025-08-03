@@ -2,6 +2,7 @@
 layout: term
 title: iskota
 slug: iskota
+letter: I
 lisan: İtalyanca scotta
 anlamlar:
 - Yelkenleri açmak ve tutmak için alt köşelerine bağlanan halat, zincir ve palangadan oluşan donanım

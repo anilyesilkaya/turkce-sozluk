@@ -2,6 +2,7 @@
 layout: term
 title: biçimleme
 slug: bicimleme
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► biçimlendirme

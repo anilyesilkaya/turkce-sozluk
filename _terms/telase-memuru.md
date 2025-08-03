@@ -2,6 +2,7 @@
 layout: term
 title: telaşe memuru
 slug: telase-memuru
+letter: T
 lisan: Türkçe
 anlamlar:
 - Çabucak telaşa kapılan, aceleci kimse

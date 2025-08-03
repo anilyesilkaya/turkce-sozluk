@@ -2,6 +2,7 @@
 layout: term
 title: pay
 slug: pay
+letter: P
 lisan: Türkçe
 anlamlar:
 - Birden fazla kişi arasında bölüşülmüş bir bütünden, bu kişilerin her birine düşen bölüm; üleş, hak (I), hisse, sehim

@@ -2,6 +2,7 @@
 layout: term
 title: gizlenebilmek
 slug: gizlenebilmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gizlenme ihtimali veya imkânı bulunmak

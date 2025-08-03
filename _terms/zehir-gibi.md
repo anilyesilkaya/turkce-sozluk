@@ -2,6 +2,7 @@
 layout: term
 title: zehir gibi
 slug: zehir-gibi
+letter: Z
 lisan: Türkçe
 anlamlar:
 - çok acı

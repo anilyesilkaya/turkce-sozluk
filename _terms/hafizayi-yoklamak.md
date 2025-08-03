@@ -2,6 +2,7 @@
 layout: term
 title: hafızayı yoklamak
 slug: hafizayi-yoklamak
+letter: H
 lisan: Türkçe
 anlamlar:
 - hatırlamaya çalışmak

@@ -2,6 +2,7 @@
 layout: term
 title: tarayıcı
 slug: tarayici
+letter: T
 lisan: Türkçe
 anlamlar:
 - Kâğıt üzerindeki resim, yazı vb. simgeleri tanıyıp bilgisayar ortamına aktaran araç

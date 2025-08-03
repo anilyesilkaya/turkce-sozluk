@@ -2,6 +2,7 @@
 layout: term
 title: kalp sektesi
 slug: kalp-sektesi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalbin birdenbire durması; sekteikalp

@@ -2,6 +2,7 @@
 layout: term
 title: lüks mevki
 slug: luks-mevki
+letter: L
 lisan: Türkçe
 anlamlar:
 - ► birinci mevki

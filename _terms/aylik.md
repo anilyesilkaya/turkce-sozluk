@@ -2,6 +2,7 @@
 layout: term
 title: aylık
 slug: aylik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Birine, görevi karşılığı olarak veya geçimi için her ay ödenen para; maaş

@@ -2,6 +2,7 @@
 layout: term
 title: sabit telefon
 slug: sabit-telefon
+letter: S
 lisan: Türkçe
 anlamlar:
 - Belli bir yerde kablo bağlantısı ile çalışan telefon

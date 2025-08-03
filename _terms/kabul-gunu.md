@@ -2,6 +2,7 @@
 layout: term
 title: kabul günü
 slug: kabul-gunu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Ev hanımlarının konuk ağırladıkları belirli gün

@@ -2,6 +2,7 @@
 layout: term
 title: ilgi alanı
 slug: ilgi-alani
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bir kişi veya kuruluşun ilgilendiği konular

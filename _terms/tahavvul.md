@@ -2,6 +2,7 @@
 layout: term
 title: tahavvül
 slug: tahavvul
+letter: T
 lisan: Arapça taḥavvul
 anlamlar:
 - ► dönüşüm

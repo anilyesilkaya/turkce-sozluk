@@ -2,6 +2,7 @@
 layout: term
 title: tavuk köftesi
 slug: tavuk-koftesi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Haşlanıp ince kıyılmış tavuk etine ekmek içi, soğan, maydanoz, yumurta ve baharat eklenmesinden sonra hazırlanan karışımın yoğrulup galeta ununa bulanarak yağda kızartılmasıyla yapılan bir köfte türü

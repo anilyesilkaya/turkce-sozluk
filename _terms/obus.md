@@ -2,6 +2,7 @@
 layout: term
 title: obüs
 slug: obus
+letter: O
 lisan: Fransızca obus
 anlamlar:
 - Tank biçiminde veya kamyon, jip vb. bir araçla taşınabilir türleri olan, yüksek ve alçaktan mermi atabilen, orta menzilli, kısa namlulu ateşli silah

@@ -2,6 +2,7 @@
 layout: term
 title: mahluk
 slug: mahluk
+letter: M
 lisan: Arapça maḫlūḳ
 anlamlar:
 - ► yaratık

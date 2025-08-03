@@ -2,6 +2,7 @@
 layout: term
 title: göbeksiz
 slug: gobeksiz
+letter: G
 lisan: Türkçe
 anlamlar:
 - Göbeği olmayan

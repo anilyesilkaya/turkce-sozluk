@@ -2,6 +2,7 @@
 layout: term
 title: zekât keçisi
 slug: zekat-kecisi
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Yetersiz olan

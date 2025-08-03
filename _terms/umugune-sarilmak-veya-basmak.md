@@ -2,6 +2,7 @@
 layout: term
 title: ümüğüne sarılmak (veya basmak)
 slug: umugune-sarilmak-veya-basmak
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - bir iş için birini çok sıkıştırmak

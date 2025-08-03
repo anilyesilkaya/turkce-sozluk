@@ -2,6 +2,7 @@
 layout: term
 title: akdetmek
 slug: akdetmek
+letter: A
 lisan: Arapça ʿaḳd + Türkçe etmek
 anlamlar:
 - Barış, ittifak, mütareke, muahede, mukavele vb.ni yapmak; imzalamak

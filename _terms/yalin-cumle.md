@@ -2,6 +2,7 @@
 layout: term
 title: yalın cümle
 slug: yalin-cumle
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► basit cümle

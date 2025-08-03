@@ -2,6 +2,7 @@
 layout: term
 title: bağlaçlı tamlama
 slug: baglacli-tamlama
+letter: B
 lisan: Türkçe
 anlamlar:
 - Tamlayanları veya tamlananları arasında bağlaç olan ad veya sıfat tamlaması

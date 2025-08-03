@@ -2,6 +2,7 @@
 layout: term
 title: fayton
 slug: fayton
+letter: F
 lisan: Fransızca phaéton
 anlamlar:
 - Tek körüklü, dört tekerlekli, genellikle çift atlı binek arabası; payton

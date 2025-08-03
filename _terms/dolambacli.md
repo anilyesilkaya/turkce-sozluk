@@ -2,6 +2,7 @@
 layout: term
 title: dolambaçlı
 slug: dolambacli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dolambacı olan

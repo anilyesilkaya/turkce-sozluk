@@ -2,6 +2,7 @@
 layout: term
 title: havai fişek
 slug: havai-fisek
+letter: H
 lisan: Türkçe
 anlamlar:
 - Gece yapılan törenlerde yakılarak havaya uçurulan, renkli ışıklar saçan fişek

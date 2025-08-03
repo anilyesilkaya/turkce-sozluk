@@ -2,6 +2,7 @@
 layout: term
 title: dökmek
 slug: dokmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Sıvı veya tane durumunda olan şeyleri bulundukları kaptan başka bir yere boşaltmak

@@ -2,6 +2,7 @@
 layout: term
 title: ayaklı canavar
 slug: ayakli-canavar
+letter: A
 lisan: Türkçe
 anlamlar:
 - Çok hareketli, yaramaz, cin gibi çocuk

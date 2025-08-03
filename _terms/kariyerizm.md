@@ -2,6 +2,7 @@
 layout: term
 title: kariyerizm
 slug: kariyerizm
+letter: K
 lisan: Fransızca carriérisme
 anlamlar:
 - Kariyer yapmayı en yüksek amaç olarak gören düşünce sistemi

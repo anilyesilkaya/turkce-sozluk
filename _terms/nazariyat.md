@@ -2,6 +2,7 @@
 layout: term
 title: nazariyat
 slug: nazariyat
+letter: N
 lisan: Arapça naẓariyyāt
 anlamlar:
 - Kuramlar

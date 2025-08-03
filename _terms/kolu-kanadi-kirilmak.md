@@ -2,6 +2,7 @@
 layout: term
 title: kolu kanadı kırılmak
 slug: kolu-kanadi-kirilmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir şey yapamayacak duruma gelmek, çaresiz kalmak

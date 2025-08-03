@@ -2,6 +2,7 @@
 layout: term
 title: taalluk
 slug: taalluk
+letter: T
 lisan: Arapça taʿalluḳ
 anlamlar:
 - ► ilgi

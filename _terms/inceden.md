@@ -2,6 +2,7 @@
 layout: term
 title: inceden
 slug: inceden
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► ince yapılı

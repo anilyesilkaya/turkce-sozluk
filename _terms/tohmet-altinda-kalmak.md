@@ -2,6 +2,7 @@
 layout: term
 title: töhmet altında kalmak
 slug: tohmet-altinda-kalmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - suçu işlediği düşünülmek

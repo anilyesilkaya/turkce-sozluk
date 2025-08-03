@@ -2,6 +2,7 @@
 layout: term
 title: yan etki
 slug: yan-etki
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Tedavi için uygulanan ilacın kişide iyileştirme etkisi dışında sebep olduğu olumsuz etki; yan tesir

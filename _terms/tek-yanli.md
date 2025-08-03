@@ -2,6 +2,7 @@
 layout: term
 title: tek yanlı
 slug: tek-yanli
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► tek taraflı

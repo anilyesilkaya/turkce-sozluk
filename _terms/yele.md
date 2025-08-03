@@ -2,6 +2,7 @@
 layout: term
 title: yele
 slug: yele
+letter: Y
 lisan: Türkçe
 anlamlar:
 - At, aslan vb. hayvanların ensesinde veya boynunda bulunan ve saça benzeyen uzun kıllar; perçem

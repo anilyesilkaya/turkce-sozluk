@@ -2,6 +2,7 @@
 layout: term
 title: bilmece
 slug: bilmece
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir şeyin adını anmadan niteliklerini üstü kapalı söyleyerek o şeyin ne olduğunu bulmayı dinleyene veya okuyana bırakan oyun; muamma

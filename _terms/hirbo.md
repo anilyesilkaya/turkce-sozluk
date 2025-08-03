@@ -2,6 +2,7 @@
 layout: term
 title: hırbo
 slug: hirbo
+letter: H
 lisan: Rumca
 anlamlar:
 - İri yarı (kimse)

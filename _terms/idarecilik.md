@@ -2,6 +2,7 @@
 layout: term
 title: idarecilik
 slug: idarecilik
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► yöneticilik

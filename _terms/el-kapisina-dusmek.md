@@ -2,6 +2,7 @@
 layout: term
 title: el kapısına düşmek
 slug: el-kapisina-dusmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - yabancıya muhtaç olmak

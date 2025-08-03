@@ -2,6 +2,7 @@
 layout: term
 title: zil takıp oynamak
 slug: zil-takip-oynamak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - çok sevindiğini belli etmek

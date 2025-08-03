@@ -2,6 +2,7 @@
 layout: term
 title: sâdır
 slug: sadir
+letter: S
 lisan: Arapça ṣādir
 anlamlar:
 - Çıkan, görünen

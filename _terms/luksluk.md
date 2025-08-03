@@ -2,6 +2,7 @@
 layout: term
 title: lükslük
 slug: luksluk
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lüks olma durumu

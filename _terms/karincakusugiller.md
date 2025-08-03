@@ -2,6 +2,7 @@
 layout: term
 title: karıncakuşugiller
 slug: karincakusugiller
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karıncayiyengiller

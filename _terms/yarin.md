@@ -2,6 +2,7 @@
 layout: term
 title: yarın
 slug: yarin
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bugünden sonra gelecek ilk gün; ferda

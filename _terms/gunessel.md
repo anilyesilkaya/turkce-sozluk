@@ -2,6 +2,7 @@
 layout: term
 title: güneşsel
 slug: gunessel
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güneş'e ilişkin, Güneş'le ilgili

@@ -2,6 +2,7 @@
 layout: term
 title: çeşmibülbül
 slug: cesmibulbul
+letter: Ç
 lisan: Farsça çeşm + bulbul
 anlamlar:
 - Üzeri beyaz, sarmal süsler ve çiçek motifleri ile bezenmiş cam işi

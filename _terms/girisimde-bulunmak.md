@@ -2,6 +2,7 @@
 layout: term
 title: girişimde bulunmak
 slug: girisimde-bulunmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - davranmak, teşebbüs etmek

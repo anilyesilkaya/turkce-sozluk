@@ -2,6 +2,7 @@
 layout: term
 title: kendi
 slug: kendi
+letter: K
 lisan: Türkçe
 anlamlar:
 - İyelik ekleri alarak kişilerin öz varlığını anlatmaya yarayan dönüşlülük zamiri; zat

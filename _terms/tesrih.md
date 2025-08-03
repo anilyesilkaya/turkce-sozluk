@@ -2,6 +2,7 @@
 layout: term
 title: teşrih
 slug: tesrih
+letter: T
 lisan: Arapça teşrīḥ
 anlamlar:
 - Bir sorunu veya konuyu ele alıp en ince noktalarına kadar gözden geçirerek anlatma; açımlama

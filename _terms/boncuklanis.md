@@ -2,6 +2,7 @@
 layout: term
 title: boncuklanış
 slug: boncuklanis
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boncuklanmak işi

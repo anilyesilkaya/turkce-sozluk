@@ -2,6 +2,7 @@
 layout: term
 title: hipnotize etmek
 slug: hipnotize-etmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - hipnotizma yoluyla birini uyutmak

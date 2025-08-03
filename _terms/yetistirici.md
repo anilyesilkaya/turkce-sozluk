@@ -2,6 +2,7 @@
 layout: term
 title: yetiştirici
 slug: yetistirici
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► üretici

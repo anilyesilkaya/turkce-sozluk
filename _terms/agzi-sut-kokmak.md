@@ -2,6 +2,7 @@
 layout: term
 title: ağzı süt kokmak
 slug: agzi-sut-kokmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - çok genç ve toy olmak

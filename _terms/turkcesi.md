@@ -2,6 +2,7 @@
 layout: term
 title: Türkçesi
 slug: turkcesi
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► açıkçası

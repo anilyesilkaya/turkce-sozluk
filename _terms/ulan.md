@@ -2,6 +2,7 @@
 layout: term
 title: ulan
 slug: ulan
+letter: U
 lisan: Türkçe
 anlamlar:
 - Öfke, şaşkınlık ve nefret anlatan bir seslenme sözü; lan, ülen

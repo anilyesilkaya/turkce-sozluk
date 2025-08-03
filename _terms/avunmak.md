@@ -2,6 +2,7 @@
 layout: term
 title: avunmak
 slug: avunmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir şeyle uğraşarak acısını unutmak, sıkıntılardan uzaklaşmak; aldanmak, teselli bulmak, müteselli olmak

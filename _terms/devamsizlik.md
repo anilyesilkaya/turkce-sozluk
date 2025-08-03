@@ -2,6 +2,7 @@
 layout: term
 title: devamsızlık
 slug: devamsizlik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Okuluna düzenli bir biçimde devam etmeme

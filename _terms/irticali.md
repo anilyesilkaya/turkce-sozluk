@@ -2,6 +2,7 @@
 layout: term
 title: irticalî
 slug: irticali
+letter: I
 lisan: Arapça irticālį
 anlamlar:
 - ► doğaçlama

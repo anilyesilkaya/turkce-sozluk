@@ -2,6 +2,7 @@
 layout: term
 title: cembiyeli
 slug: cembiyeli
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cembiyesi olan

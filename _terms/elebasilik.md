@@ -2,6 +2,7 @@
 layout: term
 title: elebaşılık
 slug: elebasilik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Elebaşı olma durumu; sergerdelik

@@ -2,6 +2,7 @@
 layout: term
 title: ters yüzü
 slug: ters-yuzu
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► ters yüz

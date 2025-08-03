@@ -2,6 +2,7 @@
 layout: term
 title: törpülemek
 slug: torpulemek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Törpü ile düzeltmek

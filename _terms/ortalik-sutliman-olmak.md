@@ -2,6 +2,7 @@
 layout: term
 title: ortalık sütliman olmak
 slug: ortalik-sutliman-olmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - sakinleşmek, durulmak

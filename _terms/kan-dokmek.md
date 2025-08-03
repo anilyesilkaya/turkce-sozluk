@@ -2,6 +2,7 @@
 layout: term
 title: kan dökmek
 slug: kan-dokmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - ölüme yol açmak, cana kıymak

@@ -2,6 +2,7 @@
 layout: term
 title: elinden almak
 slug: elinden-almak
+letter: E
 lisan: Türkçe
 anlamlar:
 - bir şeyden mahrum etmek

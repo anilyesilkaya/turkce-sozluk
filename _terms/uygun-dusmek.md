@@ -2,6 +2,7 @@
 layout: term
 title: uygun düşmek
 slug: uygun-dusmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - yakışmak, yaraşmak, elverişli olmak

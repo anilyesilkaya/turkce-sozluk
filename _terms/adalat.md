@@ -2,6 +2,7 @@
 layout: term
 title: adalat
 slug: adalat
+letter: A
 lisan: Arapça ʿażālāt
 anlamlar:
 - Kaslar

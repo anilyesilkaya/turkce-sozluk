@@ -2,6 +2,7 @@
 layout: term
 title: nabzını tutmak
 slug: nabzini-tutmak
+letter: N
 lisan: Türkçe
 anlamlar:
 - nabzını saymak için bileğini tutmak

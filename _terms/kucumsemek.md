@@ -2,6 +2,7 @@
 layout: term
 title: küçümsemek
 slug: kucumsemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Değer ve önem vermemek; küçük görmek, küçüksemek

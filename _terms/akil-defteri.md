@@ -2,6 +2,7 @@
 layout: term
 title: akıl defteri
 slug: akil-defteri
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► ajanda

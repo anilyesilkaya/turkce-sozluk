@@ -2,6 +2,7 @@
 layout: term
 title: yenilikçi
 slug: yenilikci
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yenilikten yana olan; ceditçi

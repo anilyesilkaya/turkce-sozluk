@@ -2,6 +2,7 @@
 layout: term
 title: asli
 slug: asli
+letter: A
 lisan: Arapça aṣlī
 anlamlar:
 - ► birincil

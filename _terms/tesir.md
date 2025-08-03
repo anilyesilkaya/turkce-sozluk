@@ -2,6 +2,7 @@
 layout: term
 title: tesir
 slug: tesir
+letter: T
 lisan: Arapça teʾs̱īr
 anlamlar:
 - ► etki

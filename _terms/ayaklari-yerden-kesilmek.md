@@ -2,6 +2,7 @@
 layout: term
 title: ayakları yerden kesilmek
 slug: ayaklari-yerden-kesilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir taşıta binerek yürümekten kurtulmak

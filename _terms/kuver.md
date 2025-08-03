@@ -2,6 +2,7 @@
 layout: term
 title: kuver
 slug: kuver
+letter: K
 lisan: Fransızca couvert
 anlamlar:
 - Lokantalarda yemeklerin servisinden önce masaya serilen örtü

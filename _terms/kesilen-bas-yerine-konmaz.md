@@ -2,6 +2,7 @@
 layout: term
 title: kesilen baş yerine konmaz
 slug: kesilen-bas-yerine-konmaz
+letter: K
 lisan: Türkçe
 anlamlar:
 - '"kesin olarak yapılıp sonuçlandırılan iş, eski durumuna getirilemez" anlamında kullanılan bir söz'

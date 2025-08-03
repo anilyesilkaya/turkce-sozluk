@@ -2,6 +2,7 @@
 layout: term
 title: kontuvar
 slug: kontuvar
+letter: K
 lisan: Fransızca comptoir
 anlamlar:
 - Kara ve hava yolları ulaşımında bilet ve bagaj işlemlerinin yapıldığı tezgâh veya bölüm

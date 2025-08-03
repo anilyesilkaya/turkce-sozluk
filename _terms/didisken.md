@@ -2,6 +2,7 @@
 layout: term
 title: didişken
 slug: didisken
+letter: D
 lisan: Türkçe
 anlamlar:
 - Didişmekten hoşlanan

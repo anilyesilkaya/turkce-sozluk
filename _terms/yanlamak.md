@@ -2,6 +2,7 @@
 layout: term
 title: yanlamak
 slug: yanlamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yana yatmak, yana dönmek

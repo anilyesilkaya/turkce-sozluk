@@ -2,6 +2,7 @@
 layout: term
 title: sıkışma
 slug: sikisma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıkışmak durumu

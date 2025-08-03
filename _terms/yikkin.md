@@ -2,6 +2,7 @@
 layout: term
 title: yıkkın
 slug: yikkin
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► harap

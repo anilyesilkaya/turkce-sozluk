@@ -2,6 +2,7 @@
 layout: term
 title: bağlantısız ülkeler
 slug: baglantisiz-ulkeler
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağlantısızlık siyaseti izleyen ülkeler; bloksuz ülkeler

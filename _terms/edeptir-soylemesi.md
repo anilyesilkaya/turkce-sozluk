@@ -2,6 +2,7 @@
 layout: term
 title: edeptir söylemesi
 slug: edeptir-soylemesi
+letter: E
 lisan: Türkçe
 anlamlar:
 - '"affedersiniz, söylemesi ayıptır ama" anlamında kullanılan bir söz'

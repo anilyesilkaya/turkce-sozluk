@@ -2,6 +2,7 @@
 layout: term
 title: ya ya ya şa şa şa
 slug: ya-ya-ya-sa-sa-sa
+letter: Y
 lisan: Türkçe
 anlamlar:
 - karşılaşmalarda sporcuların veya seyircilerin 'yaşa' veya 'yaşasın' sözü yerine kullandıkları bir söz

@@ -2,6 +2,7 @@
 layout: term
 title: makinist
 slug: makinist
+letter: M
 lisan: Fransızca machiniste
 anlamlar:
 - Lokomotif, vapur, fabrika vb.nin makinesini işleten kimse

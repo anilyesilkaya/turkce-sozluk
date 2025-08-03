@@ -2,6 +2,7 @@
 layout: term
 title: gözdağı
 slug: gozdagi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Sonradan verilecek bir ceza ile korkutma, yıldırma

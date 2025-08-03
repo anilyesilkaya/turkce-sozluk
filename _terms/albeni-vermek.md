@@ -2,6 +2,7 @@
 layout: term
 title: albeni vermek
 slug: albeni-vermek
+letter: A
 lisan: Türkçe
 anlamlar:
 - çekiciliğini artırmak, ilgi toplamak, hoş ve güzel göstermek

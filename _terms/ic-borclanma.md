@@ -2,6 +2,7 @@
 layout: term
 title: iç borçlanma
 slug: ic-borclanma
+letter: I
 lisan: Türkçe
 anlamlar:
 - Devletin veya çeşitli kuruluşların yurt içinde piyasaya tahvil, bono vb. sürerek borç alma işi

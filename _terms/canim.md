@@ -2,6 +2,7 @@
 layout: term
 title: canım
 slug: canim
+letter: C
 lisan: Türkçe
 anlamlar:
 - çok sevdiğim

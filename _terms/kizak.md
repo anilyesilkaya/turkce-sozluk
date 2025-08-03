@@ -2,6 +2,7 @@
 layout: term
 title: kızak
 slug: kizak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kar veya buz üzerinde kayarak yol alan tekerleksiz taşıt

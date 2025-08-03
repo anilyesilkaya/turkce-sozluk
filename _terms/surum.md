@@ -2,6 +2,7 @@
 layout: term
 title: sürüm
 slug: surum
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir ticaret malının satılır olması; revaç

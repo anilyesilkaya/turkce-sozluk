@@ -2,6 +2,7 @@
 layout: term
 title: tenteli
 slug: tenteli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tentesi olan

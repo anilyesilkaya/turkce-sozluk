@@ -2,6 +2,7 @@
 layout: term
 title: ödüllendirici
 slug: odullendirici
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ödüllendiren (kimse, şey, yaklaşım); mükâfatlandırıcı

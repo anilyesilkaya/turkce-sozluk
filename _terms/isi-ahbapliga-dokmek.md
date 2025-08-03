@@ -2,6 +2,7 @@
 layout: term
 title: işi ahbaplığa dökmek
 slug: isi-ahbapliga-dokmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - yerli yersiz yakınlık göstermek

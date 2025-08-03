@@ -2,6 +2,7 @@
 layout: term
 title: bombardıman etmek
 slug: bombardiman-etmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - aralıksız bir biçimde top ateşi veya bomba ile bir yere saldırmak

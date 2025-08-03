@@ -2,6 +2,7 @@
 layout: term
 title: umuda kapılmak
 slug: umuda-kapilmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - olacağını düşünmek, hayal etmek

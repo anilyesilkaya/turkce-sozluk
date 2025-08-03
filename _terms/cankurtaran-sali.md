@@ -2,6 +2,7 @@
 layout: term
 title: cankurtaran salı
 slug: cankurtaran-sali
+letter: C
 lisan: Türkçe
 anlamlar:
 - Deniz kazalarında kullanılmak üzere gemilerde bulundurulan sal; can salı

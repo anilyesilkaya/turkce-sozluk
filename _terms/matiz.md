@@ -2,6 +2,7 @@
 layout: term
 title: matiz
 slug: matiz
+letter: M
 lisan: Rumca
 anlamlar:
 - Çok sarhoş

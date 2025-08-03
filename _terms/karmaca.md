@@ -2,6 +2,7 @@
 layout: term
 title: karmaca
 slug: karmaca
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sevilen müzik eserlerinden seçilmiş bölümlerin arka arkaya seslendirilmesiyle oluşan müzik parçası; potpuri

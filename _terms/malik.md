@@ -2,6 +2,7 @@
 layout: term
 title: malik
 slug: malik
+letter: M
 lisan: Arapça mālik
 anlamlar:
 - ► sahip

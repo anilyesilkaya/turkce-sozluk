@@ -2,6 +2,7 @@
 layout: term
 title: birleşme
 slug: birlesme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Birleşmek işi; vasl

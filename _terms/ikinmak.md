@@ -2,6 +2,7 @@
 layout: term
 title: ıkınmak
 slug: ikinmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - Herhangi bir nedenle soluğunu içinde tutarak kendini zorlamak

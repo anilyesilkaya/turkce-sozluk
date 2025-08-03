@@ -2,6 +2,7 @@
 layout: term
 title: âşıktaşlık etmek
 slug: asiktaslik-etmek
+letter: Â
 lisan: Türkçe
 anlamlar:
 - gönül eğlendirmek

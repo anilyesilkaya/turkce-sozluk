@@ -2,6 +2,7 @@
 layout: term
 title: dalgınca
 slug: dalginca
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dalgın bir biçimde, dalgın olarak

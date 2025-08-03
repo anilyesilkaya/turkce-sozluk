@@ -2,6 +2,7 @@
 layout: term
 title: iliğine (veya iliklerine) işlemek (veya geçmek)
 slug: iligine-veya-iliklerine-islemek-veya-gecmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - çok ıslanmak

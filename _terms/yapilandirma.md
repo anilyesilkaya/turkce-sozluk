@@ -2,6 +2,7 @@
 layout: term
 title: yapılandırma
 slug: yapilandirma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yapılandırmak işi

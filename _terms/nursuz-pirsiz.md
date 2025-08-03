@@ -2,6 +2,7 @@
 layout: term
 title: nursuz pirsiz
 slug: nursuz-pirsiz
+letter: N
 lisan: Türkçe
 anlamlar:
 - Sevimsiz, bakımsız

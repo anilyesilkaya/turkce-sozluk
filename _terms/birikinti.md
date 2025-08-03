@@ -2,6 +2,7 @@
 layout: term
 title: birikinti
 slug: birikinti
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir yerde kendi kendine birikmiş olan şey

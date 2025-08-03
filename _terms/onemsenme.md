@@ -2,6 +2,7 @@
 layout: term
 title: önemsenme
 slug: onemsenme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Önemsenmek işi

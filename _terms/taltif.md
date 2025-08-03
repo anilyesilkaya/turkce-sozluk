@@ -2,6 +2,7 @@
 layout: term
 title: taltif
 slug: taltif
+letter: T
 lisan: Arapça talṭīf
 anlamlar:
 - İyilik ederek gönül alma

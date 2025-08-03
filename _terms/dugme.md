@@ -2,6 +2,7 @@
 layout: term
 title: düğme
 slug: dugme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Giyecek, yorgan vb.nin bazı yerlerine ilikleyici veya süs olarak dikilen kemik, metal, sedef gibi sert maddelerden yapılmış küçük tutturma aracı

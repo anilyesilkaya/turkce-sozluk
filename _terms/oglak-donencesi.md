@@ -2,6 +2,7 @@
 layout: term
 title: Oğlak Dönencesi
 slug: oglak-donencesi
+letter: O
 lisan: Türkçe
 anlamlar:
 - Güney yarım kürede 21 Aralık günü öğle vaktinde güneş ışınlarının dik geldiği, Ekvator’a göre açısal uzaklığı 23° 27’ olan dönence; Kış Dönencesi

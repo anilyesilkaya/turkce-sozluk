@@ -2,6 +2,7 @@
 layout: term
 title: dinleyici
 slug: dinleyici
+letter: D
 lisan: Türkçe
 anlamlar:
 - Söylenen veya çalınan bir şeyi dinleyen kimse

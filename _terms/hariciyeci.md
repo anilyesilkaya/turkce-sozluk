@@ -2,6 +2,7 @@
 layout: term
 title: hariciyeci
 slug: hariciyeci
+letter: H
 lisan: Türkçe
 anlamlar:
 - Ameliyatla tedavi eden hekim

@@ -2,6 +2,7 @@
 layout: term
 title: kendi hâline bırakmak
 slug: kendi-haline-birakmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - ilgilenmemek, karışmamak

@@ -2,6 +2,7 @@
 layout: term
 title: ceza
 slug: ceza
+letter: C
 lisan: Arapça cezāʾ
 anlamlar:
 - Uygunsuz davranışlarda bulunanlara uygulanan üzüntü, sıkıntı, acı verici işlem veya yaptırım; ukubet

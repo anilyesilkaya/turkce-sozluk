@@ -2,6 +2,7 @@
 layout: term
 title: perhizkâr
 slug: perhizkar
+letter: P
 lisan: Farsça perhīzkār
 anlamlar:
 - Sürekli olarak perhiz yapan (kimse)

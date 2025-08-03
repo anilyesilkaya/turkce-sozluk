@@ -2,6 +2,7 @@
 layout: term
 title: dadanış
 slug: dadanis
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dadanmak işi

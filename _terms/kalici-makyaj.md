@@ -2,6 +2,7 @@
 layout: term
 title: kalıcı makyaj
 slug: kalici-makyaj
+letter: K
 lisan: Türkçe
 anlamlar:
 - Özellikle dudak, göz çevresi ve kaşların belirginleştirilmesi amacıyla kişiye özel olarak seçilmiş renklerin iğne yardımıyla üst deriye zerk edilmesiyle yapılan ve çok uzun süre ciltte kalan makyaj

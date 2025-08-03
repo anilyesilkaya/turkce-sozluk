@@ -2,6 +2,7 @@
 layout: term
 title: andavallıca
 slug: andavallica
+letter: A
 lisan: Türkçe
 anlamlar:
 - Andavallıya yakışan

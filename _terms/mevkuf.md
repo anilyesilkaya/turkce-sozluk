@@ -2,6 +2,7 @@
 layout: term
 title: mevkuf
 slug: mevkuf
+letter: M
 lisan: Arapça mevḳūf
 anlamlar:
 - Vakfedilmiş

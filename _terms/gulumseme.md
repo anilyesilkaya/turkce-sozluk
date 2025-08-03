@@ -2,6 +2,7 @@
 layout: term
 title: gülümseme
 slug: gulumseme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gülümsemek işi; tebessüm

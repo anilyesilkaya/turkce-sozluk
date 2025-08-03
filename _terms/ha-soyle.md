@@ -2,6 +2,7 @@
 layout: term
 title: ha şöyle
 slug: ha-soyle
+letter: H
 lisan: Türkçe
 anlamlar:
 - yapılan bir işin beğenildiğini anlatan bir söz

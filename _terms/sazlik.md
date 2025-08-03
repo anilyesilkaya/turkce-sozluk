@@ -2,6 +2,7 @@
 layout: term
 title: sazlık
 slug: sazlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sazları (I) çok olan yer

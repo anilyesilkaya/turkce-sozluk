@@ -2,6 +2,7 @@
 layout: term
 title: kekemeleşme
 slug: kekemelesme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kekemeleşmek işi

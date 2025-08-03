@@ -2,6 +2,7 @@
 layout: term
 title: nitrogliserin
 slug: nitrogliserin
+letter: N
 lisan: Fransızca nitroglycerine
 anlamlar:
 - Nitrik asit içine gliserin konularak elde edilen, uçuk sarı renkte, yağ kıvamında, güçlü patlayıcı özelliği olan madde

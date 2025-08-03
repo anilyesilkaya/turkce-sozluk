@@ -2,6 +2,7 @@
 layout: term
 title: odorimetre
 slug: odorimetre
+letter: O
 lisan: Fransızca odorimètre
 anlamlar:
 - ► kokuölçer

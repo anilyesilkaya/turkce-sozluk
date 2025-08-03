@@ -2,6 +2,7 @@
 layout: term
 title: resmiyet
 slug: resmiyet
+letter: R
 lisan: Arapça resmiyyet
 anlamlar:
 - ► resmîlik

@@ -2,6 +2,7 @@
 layout: term
 title: meryemana dikeni
 slug: meryemana-dikeni
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► deve dikeni

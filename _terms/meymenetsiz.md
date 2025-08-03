@@ -2,6 +2,7 @@
 layout: term
 title: meymenetsiz
 slug: meymenetsiz
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► uğursuz

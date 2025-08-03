@@ -2,6 +2,7 @@
 layout: term
 title: ağırlık basmak (veya çökmek)
 slug: agirlik-basmak-veya-cokmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - gevşeklik ve uyku gelmek

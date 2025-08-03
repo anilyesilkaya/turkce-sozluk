@@ -2,6 +2,7 @@
 layout: term
 title: patronluk
 slug: patronluk
+letter: P
 lisan: Türkçe
 anlamlar:
 - Patron olma durumu

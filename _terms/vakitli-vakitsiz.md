@@ -2,6 +2,7 @@
 layout: term
 title: vakitli vakitsiz
 slug: vakitli-vakitsiz
+letter: V
 lisan: Türkçe
 anlamlar:
 - Uygun zaman gözetmeden, gelişigüzel, rastgele zamanlarda; zamanlı zamansız

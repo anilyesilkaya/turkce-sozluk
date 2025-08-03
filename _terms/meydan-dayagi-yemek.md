@@ -2,6 +2,7 @@
 layout: term
 title: meydan dayağı yemek
 slug: meydan-dayagi-yemek
+letter: M
 lisan: Türkçe
 anlamlar:
 - herkesin içinde iyice dövülmek

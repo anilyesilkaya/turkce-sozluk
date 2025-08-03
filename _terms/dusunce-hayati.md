@@ -2,6 +2,7 @@
 layout: term
 title: düşünce hayatı
 slug: dusunce-hayati
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir kimsenin veya bir topluluğun düşüncelerinin tamamı; fikir hayatı, tefekkür dünyası

@@ -2,6 +2,7 @@
 layout: term
 title: laf etmek
 slug: laf-etmek
+letter: L
 lisan: Türkçe
 anlamlar:
 - söz etmek

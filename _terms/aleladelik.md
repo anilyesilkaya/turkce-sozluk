@@ -2,6 +2,7 @@
 layout: term
 title: aleladelik
 slug: aleladelik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alelade olma durumu

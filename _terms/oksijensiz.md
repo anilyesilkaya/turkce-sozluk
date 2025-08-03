@@ -2,6 +2,7 @@
 layout: term
 title: oksijensiz
 slug: oksijensiz
+letter: O
 lisan: Türkçe
 anlamlar:
 - Bileşiminde oksijen içermeyen

@@ -2,6 +2,7 @@
 layout: term
 title: deflemek
 slug: deflemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► kovmak

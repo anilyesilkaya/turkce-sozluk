@@ -2,6 +2,7 @@
 layout: term
 title: kuşaklı
 slug: kusakli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kuşağı olan

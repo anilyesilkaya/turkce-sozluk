@@ -2,6 +2,7 @@
 layout: term
 title: dirilmek
 slug: dirilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Güçlenip canlanmak

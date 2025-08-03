@@ -2,6 +2,7 @@
 layout: term
 title: kabul
 slug: kabul
+letter: K
 lisan: Arapça ḳabūl
 anlamlar:
 - Bir şeye isteyerek veya istemeyerek razı olma

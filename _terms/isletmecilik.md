@@ -2,6 +2,7 @@
 layout: term
 title: işletmecilik
 slug: isletmecilik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İşletmecinin yaptığı iş

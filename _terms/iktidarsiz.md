@@ -2,6 +2,7 @@
 layout: term
 title: iktidarsız
 slug: iktidarsiz
+letter: I
 lisan: Türkçe
 anlamlar:
 - Gücü, yeteneği olmayan, beceriksiz, yetersiz olan

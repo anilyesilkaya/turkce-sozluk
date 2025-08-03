@@ -2,6 +2,7 @@
 layout: term
 title: sancak
 slug: sancak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Çoğunlukla askerî birliklere verilen yazı işlemeli, kenarları saçaklı ve gönderli bayrak

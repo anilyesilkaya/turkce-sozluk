@@ -2,6 +2,7 @@
 layout: term
 title: zapt
 slug: zapt
+letter: Z
 lisan: Arapça żabṭ
 anlamlar:
 - Zor kullanarak ele geçirme

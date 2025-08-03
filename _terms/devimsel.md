@@ -2,6 +2,7 @@
 layout: term
 title: devimsel
 slug: devimsel
+letter: D
 lisan: Türkçe
 anlamlar:
 - Devinim durumunda olan; hareki

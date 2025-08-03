@@ -2,6 +2,7 @@
 layout: term
 title: kararmak
 slug: kararmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Rengi karaya dönmek

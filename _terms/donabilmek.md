@@ -2,6 +2,7 @@
 layout: term
 title: donabilmek
 slug: donabilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Donma ihtimali veya imkânı bulunmak

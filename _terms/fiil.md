@@ -2,6 +2,7 @@
 layout: term
 title: fiil
 slug: fiil
+letter: F
 lisan: Arapça fiʿl
 anlamlar:
 - ► eylem

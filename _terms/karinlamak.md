@@ -2,6 +2,7 @@
 layout: term
 title: karınlamak
 slug: karinlamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Gemi yanını dayamak

@@ -2,6 +2,7 @@
 layout: term
 title: ne kadar
 slug: ne-kadar
+letter: N
 lisan: Türkçe
 anlamlar:
 - nicelik bakımından miktar, ölçü, fiyat, zaman anlamlarıyla soru bildiren bir söz

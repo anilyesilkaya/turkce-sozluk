@@ -2,6 +2,7 @@
 layout: term
 title: uğultulu
 slug: ugultulu
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uğultusu olan, uğultu çıkaran

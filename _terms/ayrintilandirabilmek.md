@@ -2,6 +2,7 @@
 layout: term
 title: ayrıntılandırabilmek
 slug: ayrintilandirabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayrıntılandırma ihtimali veya imkânı bulunmak

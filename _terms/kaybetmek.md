@@ -2,6 +2,7 @@
 layout: term
 title: kaybetmek
 slug: kaybetmek
+letter: K
 lisan: Arapça ġayb + Türkçe etmek
 anlamlar:
 - ► yitirmek

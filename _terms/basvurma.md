@@ -2,6 +2,7 @@
 layout: term
 title: başvurma
 slug: basvurma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başvurmak işi

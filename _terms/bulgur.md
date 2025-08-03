@@ -2,6 +2,7 @@
 layout: term
 title: bulgur
 slug: bulgur
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kaynatılıp kurutulduktan ve kabuğu çıkarıldıktan sonra kırılan buğday

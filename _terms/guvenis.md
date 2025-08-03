@@ -2,6 +2,7 @@
 layout: term
 title: güveniş
 slug: guvenis
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güvenmek işi

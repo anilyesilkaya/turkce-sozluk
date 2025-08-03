@@ -2,6 +2,7 @@
 layout: term
 title: meletmek
 slug: meletmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - Meleme işini yaptırmak

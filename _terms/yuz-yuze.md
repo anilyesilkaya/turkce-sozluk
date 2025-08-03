@@ -2,6 +2,7 @@
 layout: term
 title: yüz yüze
 slug: yuz-yuze
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► karşı karşıya

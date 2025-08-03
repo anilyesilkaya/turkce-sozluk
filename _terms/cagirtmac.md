@@ -2,6 +2,7 @@
 layout: term
 title: çağırtmaç
 slug: cagirtmac
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► tellal

@@ -2,6 +2,7 @@
 layout: term
 title: korku vermek
 slug: korku-vermek
+letter: K
 lisan: Türkçe
 anlamlar:
 - korkutmak

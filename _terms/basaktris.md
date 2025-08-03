@@ -2,6 +2,7 @@
 layout: term
 title: başaktris
 slug: basaktris
+letter: B
 lisan: Türkçe baş + Fransızca actrice
 anlamlar:
 - ► başoyuncu (kadın)

@@ -2,6 +2,7 @@
 layout: term
 title: mekanizma
 slug: mekanizma
+letter: M
 lisan: İtalyanca meccanismo
 anlamlar:
 - ► düzenek

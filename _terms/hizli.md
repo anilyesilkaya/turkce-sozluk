@@ -2,6 +2,7 @@
 layout: term
 title: hızlı
 slug: hizli
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hızı çok olan; seri (II), süratli, şiddetli

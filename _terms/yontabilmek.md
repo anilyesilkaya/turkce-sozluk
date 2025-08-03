@@ -2,6 +2,7 @@
 layout: term
 title: yontabilmek
 slug: yontabilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yontma ihtimali veya imkânı bulunmak

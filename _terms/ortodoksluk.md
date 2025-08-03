@@ -2,6 +2,7 @@
 layout: term
 title: Ortodoksluk
 slug: ortodoksluk
+letter: O
 lisan: Türkçe
 anlamlar:
 - Ortodoks olma durumu

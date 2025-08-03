@@ -2,6 +2,7 @@
 layout: term
 title: doludizgin gitmek
 slug: doludizgin-gitmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - son hızla koşmak

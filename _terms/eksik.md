@@ -2,6 +2,7 @@
 layout: term
 title: eksik
 slug: eksik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Bir bölümü olmayan; kalık, noksan, natamam

@@ -2,6 +2,7 @@
 layout: term
 title: sarıcalık
 slug: saricalik
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► kloroz

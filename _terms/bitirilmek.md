@@ -2,6 +2,7 @@
 layout: term
 title: bitirilmek
 slug: bitirilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bitirme işine konu olmak; tamamlanmak

@@ -2,6 +2,7 @@
 layout: term
 title: zühul
 slug: zuhul
+letter: Z
 lisan: Arapça ẕuhūl
 anlamlar:
 - İş çokluğu veya dalgınlık sebebiyle yanılma, geciktirme, ihmal etme

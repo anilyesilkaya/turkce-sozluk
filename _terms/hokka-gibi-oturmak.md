@@ -2,6 +2,7 @@
 layout: term
 title: hokka gibi oturmak
 slug: hokka-gibi-oturmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - giysi vücuda iyice uymak

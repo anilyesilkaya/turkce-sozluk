@@ -2,6 +2,7 @@
 layout: term
 title: imparatoriçe
 slug: imparatorice
+letter: I
 lisan: Türkçe
 anlamlar:
 - İmparator eşi

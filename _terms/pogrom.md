@@ -2,6 +2,7 @@
 layout: term
 title: pogrom
 slug: pogrom
+letter: P
 lisan: Rusça
 anlamlar:
 - ► soykırım

@@ -2,6 +2,7 @@
 layout: term
 title: yönetim
 slug: yonetim
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yönetmek işi; idare

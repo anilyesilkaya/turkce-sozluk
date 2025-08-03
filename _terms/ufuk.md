@@ -2,6 +2,7 @@
 layout: term
 title: ufuk
 slug: ufuk
+letter: U
 lisan: Arapça ufḳ
 anlamlar:
 - Düz arazide veya açık denizde gökle yerin birleşir gibi göründüğü yer; çevren

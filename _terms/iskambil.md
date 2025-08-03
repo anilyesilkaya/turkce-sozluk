@@ -2,6 +2,7 @@
 layout: term
 title: iskambil
 slug: iskambil
+letter: I
 lisan: (Briscambille özel adından)
 anlamlar:
 - ► iskambil kâğıdı

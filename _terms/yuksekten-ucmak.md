@@ -2,6 +2,7 @@
 layout: term
 title: yüksekten uçmak
 slug: yuksekten-ucmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yükseklerde dolaşmak

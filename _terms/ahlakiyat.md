@@ -2,6 +2,7 @@
 layout: term
 title: ahlakiyat
 slug: ahlakiyat
+letter: A
 lisan: Arapça aḫlāḳiyāt
 anlamlar:
 - Ahlakla ilgili konular, görüşler

@@ -2,6 +2,7 @@
 layout: term
 title: muharrik
 slug: muharrik
+letter: M
 lisan: Arapça muḥarrik
 anlamlar:
 - ► devitken

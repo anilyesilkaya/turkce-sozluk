@@ -2,6 +2,7 @@
 layout: term
 title: beberuhi
 slug: beberuhi
+letter: B
 lisan: Türkçe bebe + Arapça rūhī
 anlamlar:
 - Kısa boylu erkek

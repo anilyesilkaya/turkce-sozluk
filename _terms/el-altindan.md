@@ -2,6 +2,7 @@
 layout: term
 title: el altından
 slug: el-altindan
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► gizlice

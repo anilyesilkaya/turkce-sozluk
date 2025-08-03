@@ -2,6 +2,7 @@
 layout: term
 title: bedir
 slug: bedir
+letter: B
 lisan: Arapça bedr
 anlamlar:
 - ► dolunay

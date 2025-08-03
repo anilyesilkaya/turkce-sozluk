@@ -2,6 +2,7 @@
 layout: term
 title: prefabrik konut
 slug: prefabrik-konut
+letter: P
 lisan: Türkçe
 anlamlar:
 - Duvar, kapı, pencere ve diğer elemanları fabrikasyon olarak üretilen ve konutun yapılacağı beton platform üzerine monte edilen konut; prefabrik ev

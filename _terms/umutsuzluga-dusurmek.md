@@ -2,6 +2,7 @@
 layout: term
 title: umutsuzluğa düşürmek
 slug: umutsuzluga-dusurmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - umutsuzluğa kapılmasına yol açmak

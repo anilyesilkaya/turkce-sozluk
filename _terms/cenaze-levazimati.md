@@ -2,6 +2,7 @@
 layout: term
 title: cenaze levazımatı
 slug: cenaze-levazimati
+letter: C
 lisan: Türkçe
 anlamlar:
 - Ölünün kefenlenmesi sırasında gerekli olan malzemeler

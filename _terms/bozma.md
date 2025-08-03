@@ -2,6 +2,7 @@
 layout: term
 title: bozma
 slug: bozma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bozmak işi; tağyir

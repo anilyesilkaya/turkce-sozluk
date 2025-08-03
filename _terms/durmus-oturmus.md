@@ -2,6 +2,7 @@
 layout: term
 title: durmuş oturmuş
 slug: durmus-oturmus
+letter: D
 lisan: Türkçe
 anlamlar:
 - Olgun, davranışları tutarlı (kimse)

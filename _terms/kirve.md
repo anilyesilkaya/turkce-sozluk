@@ -2,6 +2,7 @@
 layout: term
 title: kirve
 slug: kirve
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sünnet olan çocuğun bütün masraflarını üstlendikten sonra sünnet sırasında çocuğu kucağına alarak elini, kolunu tutan ve bütün hayatı boyunca çocuk üzerinde babasına yakın hak taşıyan kimse

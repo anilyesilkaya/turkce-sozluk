@@ -2,6 +2,7 @@
 layout: term
 title: yıldırım gibi
 slug: yildirim-gibi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - büyük bir hızla

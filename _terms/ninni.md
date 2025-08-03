@@ -2,6 +2,7 @@
 layout: term
 title: ninni
 slug: ninni
+letter: N
 lisan: Türkçe
 anlamlar:
 - Bebeklerin uyumasına yardımcı olmak için söylenen türkü

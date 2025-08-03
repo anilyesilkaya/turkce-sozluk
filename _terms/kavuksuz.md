@@ -2,6 +2,7 @@
 layout: term
 title: kavuksuz
 slug: kavuksuz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kavuk giymemiş

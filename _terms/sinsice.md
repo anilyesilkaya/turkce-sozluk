@@ -2,6 +2,7 @@
 layout: term
 title: sinsice
 slug: sinsice
+letter: S
 lisan: Türkçe
 anlamlar:
 - Gizlice, belli etmeden yapılan

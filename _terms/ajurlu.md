@@ -2,6 +2,7 @@
 layout: term
 title: ajurlu
 slug: ajurlu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Her yanı ajur biçiminde işlenmiş bulunan

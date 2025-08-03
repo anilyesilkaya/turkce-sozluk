@@ -2,6 +2,7 @@
 layout: term
 title: nahak
 slug: nahak
+letter: N
 lisan: Farsça nā + Arapça ḥaḳḳ
 anlamlar:
 - Haksız, gereksiz

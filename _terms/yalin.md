@@ -2,6 +2,7 @@
 layout: term
 title: yalın
 slug: yalin
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► süssüz

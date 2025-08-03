@@ -2,6 +2,7 @@
 layout: term
 title: diş geçirememek
 slug: dis-gecirememek
+letter: D
 lisan: Türkçe
 anlamlar:
 - gücü yetmemek

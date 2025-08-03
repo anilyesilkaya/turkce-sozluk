@@ -2,6 +2,7 @@
 layout: term
 title: mesnet
 slug: mesnet
+letter: M
 lisan: Arapça mesned
 anlamlar:
 - ► dayanak

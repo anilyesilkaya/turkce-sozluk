@@ -2,6 +2,7 @@
 layout: term
 title: güçlük
 slug: gucluk
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► zorluk

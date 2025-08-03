@@ -2,6 +2,7 @@
 layout: term
 title: ihtiyat etmek
 slug: ihtiyat-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - tedbirli ve ölçülü davranmak

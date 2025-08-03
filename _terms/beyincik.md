@@ -2,6 +2,7 @@
 layout: term
 title: beyincik
 slug: beyincik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kafatasının art bölümünde ve beynin altında, hareket dengesi merkezi olan organ

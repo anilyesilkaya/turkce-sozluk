@@ -2,6 +2,7 @@
 layout: term
 title: görünürlük
 slug: gorunurluk
+letter: G
 lisan: Türkçe
 anlamlar:
 - Görülebilen bir şeyin niteliği

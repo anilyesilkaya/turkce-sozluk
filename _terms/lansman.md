@@ -2,6 +2,7 @@
 layout: term
 title: lansman
 slug: lansman
+letter: L
 lisan: Fransızca lancement
 anlamlar:
 - ► tanıtım

@@ -2,6 +2,7 @@
 layout: term
 title: yalabık
 slug: yalabik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Alevin oynayarak parıldaması

@@ -2,6 +2,7 @@
 layout: term
 title: görünmez
 slug: gorunmez
+letter: G
 lisan: Türkçe
 anlamlar:
 - Görünmeyen, beklenmeyen

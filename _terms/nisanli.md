@@ -2,6 +2,7 @@
 layout: term
 title: nişanlı
 slug: nisanli
+letter: N
 lisan: Türkçe
 anlamlar:
 - Evlenmek için söz verip yüzük takmış olan kimse; adaklı, yavuklu

@@ -2,6 +2,7 @@
 layout: term
 title: mücehhez
 slug: mucehhez
+letter: M
 lisan: Arapça mucehhez
 anlamlar:
 - Bir işin olması için gerekli olan malzeme ile donanmış, donatılmış, teçhiz edilmiş

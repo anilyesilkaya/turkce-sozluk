@@ -2,6 +2,7 @@
 layout: term
 title: inhitat
 slug: inhitat
+letter: I
 lisan: Arapça inḥiṭāṭ
 anlamlar:
 - Son bulma, yıkılıp dağılma

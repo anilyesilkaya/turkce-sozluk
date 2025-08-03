@@ -2,6 +2,7 @@
 layout: term
 title: diken dutu
 slug: diken-dutu
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► böğürtlen

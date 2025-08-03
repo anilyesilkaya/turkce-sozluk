@@ -2,6 +2,7 @@
 layout: term
 title: ayağına geçirmek
 slug: ayagina-gecirmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir şeyi aceleyle giymek

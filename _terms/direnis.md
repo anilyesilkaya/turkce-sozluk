@@ -2,6 +2,7 @@
 layout: term
 title: direniş
 slug: direnis
+letter: D
 lisan: Türkçe
 anlamlar:
 - Direnmek işi

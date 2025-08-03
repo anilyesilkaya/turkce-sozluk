@@ -2,6 +2,7 @@
 layout: term
 title: soğuklama
 slug: soguklama
+letter: S
 lisan: Türkçe
 anlamlar:
 - Soğuklamak işi

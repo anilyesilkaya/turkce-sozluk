@@ -2,6 +2,7 @@
 layout: term
 title: hırıldayış
 slug: hirildayis
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hırıldamak işi

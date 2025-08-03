@@ -2,6 +2,7 @@
 layout: term
 title: ulusallaştırmak
 slug: ulusallastirmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► millîleştirmek

@@ -2,6 +2,7 @@
 layout: term
 title: meyve kabuğu
 slug: meyve-kabugu
+letter: M
 lisan: Türkçe
 anlamlar:
 - Meyvenin dış yüzeyini kaplayan kalın tabaka

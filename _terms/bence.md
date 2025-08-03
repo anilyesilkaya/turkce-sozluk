@@ -2,6 +2,7 @@
 layout: term
 title: bence
 slug: bence
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bana göre, benim düşüncemce

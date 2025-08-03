@@ -2,6 +2,7 @@
 layout: term
 title: küşne
 slug: kusne
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► karaburçak

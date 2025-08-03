@@ -2,6 +2,7 @@
 layout: term
 title: aç biilaç
 slug: ac-biilac
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aç ve bakımsız bir biçimde

@@ -2,6 +2,7 @@
 layout: term
 title: çıma
 slug: cima
+letter: Ç
 lisan: İtalyanca cima
 anlamlar:
 - Gemiyi iskeleye bağlamak için kullanılan halat

@@ -2,6 +2,7 @@
 layout: term
 title: damıtıcı
 slug: damitici
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► imbik

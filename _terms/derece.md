@@ -2,6 +2,7 @@
 layout: term
 title: derece
 slug: derece
+letter: D
 lisan: Arapça derece
 anlamlar:
 - ► aşama

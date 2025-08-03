@@ -2,6 +2,7 @@
 layout: term
 title: gittikçe
 slug: gittikce
+letter: G
 lisan: Türkçe
 anlamlar:
 - Zaman ilerledikçe; gitgide, gide gide, giderek, git git, yavaş yavaş, anbean, tedricen

@@ -2,6 +2,7 @@
 layout: term
 title: albaylık
 slug: albaylik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Albay olma durumu; miralaylık

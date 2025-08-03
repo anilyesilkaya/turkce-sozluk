@@ -2,6 +2,7 @@
 layout: term
 title: top patlıcan
 slug: top-patlican
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir tür yuvarlak ve etli patlıcan

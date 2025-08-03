@@ -2,6 +2,7 @@
 layout: term
 title: ağız değişikliği
 slug: agiz-degisikligi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yenilen veya yenilecek yemeğin çeşidinde yapılan değiştirme

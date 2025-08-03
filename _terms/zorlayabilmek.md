@@ -2,6 +2,7 @@
 layout: term
 title: zorlayabilmek
 slug: zorlayabilmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zorlama ihtimali veya imkânı bulunmak

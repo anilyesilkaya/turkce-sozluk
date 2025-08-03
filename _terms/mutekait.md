@@ -2,6 +2,7 @@
 layout: term
 title: mütekait
 slug: mutekait
+letter: M
 lisan: Arapça muteḳāʿid
 anlamlar:
 - ► emekli

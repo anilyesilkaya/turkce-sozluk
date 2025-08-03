@@ -2,6 +2,7 @@
 layout: term
 title: sabah namazı
 slug: sabah-namazi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sabah vakti kılınan namaz; sabah

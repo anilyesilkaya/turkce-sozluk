@@ -2,6 +2,7 @@
 layout: term
 title: bıcı bıcı
 slug: bici-bici
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çocuk dilinde yıkanma

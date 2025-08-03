@@ -2,6 +2,7 @@
 layout: term
 title: kırk basmak
 slug: kirk-basmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - doğum yapmış annenin ve bebeğin kırk gün dolmadan dışarı çıkarılmasının tehlikeli olacağını geleneksel olarak kabul etmek

@@ -2,6 +2,7 @@
 layout: term
 title: kestirilme
 slug: kestirilme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kestirilmek işi

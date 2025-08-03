@@ -2,6 +2,7 @@
 layout: term
 title: tembih
 slug: tembih
+letter: T
 lisan: Arapça tenbīh
 anlamlar:
 - Bir şeyin belli biçimde ve yolda yapılmasını söyleme, bunu üsteleyerek hatırlatma

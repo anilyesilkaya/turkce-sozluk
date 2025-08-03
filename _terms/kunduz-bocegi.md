@@ -2,6 +2,7 @@
 layout: term
 title: kunduz böceği
 slug: kunduz-bocegi
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kuduz böceği

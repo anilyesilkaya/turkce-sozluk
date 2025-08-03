@@ -2,6 +2,7 @@
 layout: term
 title: intak
 slug: intak
+letter: I
 lisan: Arapça inṭāḳ
 anlamlar:
 - Konuşturma, söyletme

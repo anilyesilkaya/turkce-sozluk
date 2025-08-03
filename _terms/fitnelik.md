@@ -2,6 +2,7 @@
 layout: term
 title: fitnelik
 slug: fitnelik
+letter: F
 lisan: Türkçe
 anlamlar:
 - Karıştırma, çekiştirme, ara bozma

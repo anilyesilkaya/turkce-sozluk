@@ -2,6 +2,7 @@
 layout: term
 title: top sağır
 slug: top-sagir
+letter: T
 lisan: Türkçe
 anlamlar:
 - Sağırlığı ileri derecede olan

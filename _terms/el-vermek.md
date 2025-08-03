@@ -2,6 +2,7 @@
 layout: term
 title: el vermek
 slug: el-vermek
+letter: E
 lisan: Türkçe
 anlamlar:
 - yardım etmek

@@ -2,6 +2,7 @@
 layout: term
 title: yufka yüreklilik
 slug: yufka-yureklilik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yufka yürekli olma durumu

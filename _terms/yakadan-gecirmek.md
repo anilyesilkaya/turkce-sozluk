@@ -2,6 +2,7 @@
 layout: term
 title: yakadan geçirmek
 slug: yakadan-gecirmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - evlatlığa kabul etmek

@@ -2,6 +2,7 @@
 layout: term
 title: ne şeytanı gör ne salavat getir
 slug: ne-seytani-gor-ne-salavat-getir
+letter: N
 lisan: Türkçe
 anlamlar:
 - gücünün yetmediği işe kalkışmamayı, kalkışılırsa da başkalarından medet ummamayı anlatmak için söylenen bir söz

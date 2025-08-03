@@ -2,6 +2,7 @@
 layout: term
 title: yufka yürekli
 slug: yufka-yurekli
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Kötü olaylardan çok çabuk etkilenen, üzülen; bağrı yufka

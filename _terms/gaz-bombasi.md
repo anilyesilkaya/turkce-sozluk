@@ -2,6 +2,7 @@
 layout: term
 title: gaz bombası
 slug: gaz-bombasi
+letter: G
 lisan: Türkçe
 anlamlar:
 - İçinde, atıldığında canlılara zarar verecek gazlar bulunan bomba

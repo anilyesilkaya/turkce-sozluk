@@ -2,6 +2,7 @@
 layout: term
 title: tuval
 slug: tuval
+letter: T
 lisan: Fransızca toile
 anlamlar:
 - Üzerine resim yapılan, gerdirilmiş keten, kenevir veya pamuklu kaba kumaş

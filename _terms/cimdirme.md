@@ -2,6 +2,7 @@
 layout: term
 title: çimdirme
 slug: cimdirme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çimdirmek işi

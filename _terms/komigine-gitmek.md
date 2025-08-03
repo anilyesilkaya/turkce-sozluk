@@ -2,6 +2,7 @@
 layout: term
 title: komiğine gitmek
 slug: komigine-gitmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - gülünç bulmak

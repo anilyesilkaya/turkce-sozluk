@@ -2,6 +2,7 @@
 layout: term
 title: imrenilme
 slug: imrenilme
+letter: I
 lisan: Türkçe
 anlamlar:
 - İmrenilmek işi

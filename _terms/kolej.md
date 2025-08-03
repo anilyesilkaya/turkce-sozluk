@@ -2,6 +2,7 @@
 layout: term
 title: kolej
 slug: kolej
+letter: K
 lisan: Fransızca collège
 anlamlar:
 - Öğretim programında yabancı bir dil öğretimine ağırlık veren okul

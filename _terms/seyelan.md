@@ -2,6 +2,7 @@
 layout: term
 title: seyelan
 slug: seyelan
+letter: S
 lisan: Arapça seyelān
 anlamlar:
 - Akma, akıntı

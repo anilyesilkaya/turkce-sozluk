@@ -2,6 +2,7 @@
 layout: term
 title: taze
 slug: taze
+letter: T
 lisan: Farsça tāze
 anlamlar:
 - Bozulmamış, bayatlamamış olan

@@ -2,6 +2,7 @@
 layout: term
 title: boyacı küpü
 slug: boyaci-kupu
+letter: B
 lisan: Türkçe
 anlamlar:
 - '"Makyajı fazla olan" anlamında boyacı küpüne girmiş gibi; bir işin kolaylıkla ve çabucak yapılamayacağını anlatan boyacı küpü mü bu? boyacı küpü değil ki vb. deyimlerde kullanılan bir söz'

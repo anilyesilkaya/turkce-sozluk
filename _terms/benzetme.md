@@ -2,6 +2,7 @@
 layout: term
 title: benzetme
 slug: benzetme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Benzetmek işi; benzeti, tanzir

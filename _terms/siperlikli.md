@@ -2,6 +2,7 @@
 layout: term
 title: siperlikli
 slug: siperlikli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Siperliği bulunan

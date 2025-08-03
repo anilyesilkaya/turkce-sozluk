@@ -2,6 +2,7 @@
 layout: term
 title: çömlek kebabı
 slug: comlek-kebabi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çömlek içinde pişirilen et yemeği

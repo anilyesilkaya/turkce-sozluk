@@ -2,6 +2,7 @@
 layout: term
 title: mecalsizlik
 slug: mecalsizlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► takatsizlik

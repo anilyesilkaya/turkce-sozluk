@@ -2,6 +2,7 @@
 layout: term
 title: Allah ziyade etsin
 slug: allah-ziyade-etsin
+letter: A
 lisan: Türkçe
 anlamlar:
 - '"Tanrı artırsın" anlamında kullanılan bir iyi dilek sözü'

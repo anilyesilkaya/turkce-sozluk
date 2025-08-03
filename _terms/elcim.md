@@ -2,6 +2,7 @@
 layout: term
 title: elçim
 slug: elcim
+letter: E
 lisan: Türkçe
 anlamlar:
 - Bir defada ele alınabilecek kadar az olan nesne

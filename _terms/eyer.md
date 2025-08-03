@@ -2,6 +2,7 @@
 layout: term
 title: eyer
 slug: eyer
+letter: E
 lisan: Türkçe
 anlamlar:
 - Binek hayvanlarının sırtına konulan, oturmaya yarayan nesne

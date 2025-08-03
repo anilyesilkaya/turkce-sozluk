@@ -2,6 +2,7 @@
 layout: term
 title: çatık surat
 slug: catik-surat
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► asık surat

@@ -2,6 +2,7 @@
 layout: term
 title: Ortaköy
 slug: ortakoy
+letter: O
 lisan: Türkçe
 anlamlar:
 - Aksaray iline bağlı ilçelerden biri

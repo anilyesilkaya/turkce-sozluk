@@ -2,6 +2,7 @@
 layout: term
 title: öğrenci yurdu
 slug: ogrenci-yurdu
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öğrencilerin barınmalarını, beslenmelerini ve çalışmalarını kolayca karşılayabilmeleri için özel olarak yapılmış yer veya bina; talebe yurdu

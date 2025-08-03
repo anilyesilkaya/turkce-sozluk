@@ -2,6 +2,7 @@
 layout: term
 title: adli yıl
 slug: adli-yil
+letter: A
 lisan: Türkçe
 anlamlar:
 - Mahkemelerin bir yıl içindeki çalışma süresi

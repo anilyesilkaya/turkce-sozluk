@@ -2,6 +2,7 @@
 layout: term
 title: korunma
 slug: korunma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Korunmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: patak
 slug: patak
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► dayak (I)

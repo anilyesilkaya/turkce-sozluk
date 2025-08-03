@@ -2,6 +2,7 @@
 layout: term
 title: donattırmak
 slug: donattirmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Donatma işini yaptırmak

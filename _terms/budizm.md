@@ -2,6 +2,7 @@
 layout: term
 title: Budizm
 slug: budizm
+letter: B
 lisan: Fransızca bouddhisme
 anlamlar:
 - ► Budistlik

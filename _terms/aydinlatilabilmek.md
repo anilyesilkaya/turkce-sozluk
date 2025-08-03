@@ -2,6 +2,7 @@
 layout: term
 title: aydınlatılabilmek
 slug: aydinlatilabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aydınlatılma ihtimali veya imkânı bulunmak

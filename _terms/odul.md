@@ -2,6 +2,7 @@
 layout: term
 title: ödül
 slug: odul
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Bir başarı karşılığında verilen armağan; mükâfat

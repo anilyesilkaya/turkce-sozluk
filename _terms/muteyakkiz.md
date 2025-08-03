@@ -2,6 +2,7 @@
 layout: term
 title: müteyakkız
 slug: muteyakkiz
+letter: M
 lisan: Arapça muteyaḳḳiż
 anlamlar:
 - ► uyanık

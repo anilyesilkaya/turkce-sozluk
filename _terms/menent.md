@@ -2,6 +2,7 @@
 layout: term
 title: menent
 slug: menent
+letter: M
 lisan: Farsça mānend
 anlamlar:
 - ► benzer

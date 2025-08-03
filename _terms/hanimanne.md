@@ -2,6 +2,7 @@
 layout: term
 title: hanımanne
 slug: hanimanne
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► kaynana

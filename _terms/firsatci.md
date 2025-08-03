@@ -2,6 +2,7 @@
 layout: term
 title: fırsatçı
 slug: firsatci
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fırsatları iyi değerlendiren, fırsat kollayan kimse

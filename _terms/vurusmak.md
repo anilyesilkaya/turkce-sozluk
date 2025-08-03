@@ -2,6 +2,7 @@
 layout: term
 title: vuruşmak
 slug: vurusmak
+letter: V
 lisan: Türkçe
 anlamlar:
 - Birbirini vurmak

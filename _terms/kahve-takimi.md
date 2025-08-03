@@ -2,6 +2,7 @@
 layout: term
 title: kahve takımı
 slug: kahve-takimi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Cezve, fincan, tabak vb.nden oluşan takım

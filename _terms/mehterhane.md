@@ -2,6 +2,7 @@
 layout: term
 title: mehterhane
 slug: mehterhane
+letter: M
 lisan: Farsça mihter + ḫāne
 anlamlar:
 - ► mehter takımı

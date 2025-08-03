@@ -2,6 +2,7 @@
 layout: term
 title: çılgıncasına
 slug: cilgincasina
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çılgınca

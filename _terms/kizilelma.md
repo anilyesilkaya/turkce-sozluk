@@ -2,6 +2,7 @@
 layout: term
 title: Kızılelma
 slug: kizilelma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Osmanlılar tarafından Roma ve Viyana şehirleri için kullanılan sembolik ad

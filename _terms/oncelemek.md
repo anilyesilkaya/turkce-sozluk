@@ -2,6 +2,7 @@
 layout: term
 title: öncelemek
 slug: oncelemek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Bir şeyi önceden yapmak, geri bırakmamak, öne almak; takdim etmek

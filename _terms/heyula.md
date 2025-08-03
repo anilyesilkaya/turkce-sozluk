@@ -2,6 +2,7 @@
 layout: term
 title: heyula
 slug: heyula
+letter: H
 lisan: Arapça heyūlāʾ
 anlamlar:
 - Korkunç hayal

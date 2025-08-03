@@ -2,6 +2,7 @@
 layout: term
 title: baltalık
 slug: baltalik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Sık sık kesimi yapılan orman

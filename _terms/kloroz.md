@@ -2,6 +2,7 @@
 layout: term
 title: kloroz
 slug: kloroz
+letter: K
 lisan: Fransızca chlorose
 anlamlar:
 - Kanda alyuvar sayısının azalmasından ileri gelen, genellikle genç kızlarda görülen kansızlık

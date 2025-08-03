@@ -2,6 +2,7 @@
 layout: term
 title: kereste
 slug: kereste
+letter: K
 lisan: Farsça kerāste
 anlamlar:
 - Tomrukların boyuna biçilmesiyle elde edilen ve marangozlukla inşaatta kullanılan nitelikli ağaç

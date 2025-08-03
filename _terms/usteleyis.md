@@ -2,6 +2,7 @@
 layout: term
 title: üsteleyiş
 slug: usteleyis
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üstelemek işi

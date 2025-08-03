@@ -2,6 +2,7 @@
 layout: term
 title: redüksiyon
 slug: reduksiyon
+letter: R
 lisan: Fransızca reduction
 anlamlar:
 - ► indirgeme

@@ -2,6 +2,7 @@
 layout: term
 title: tadat
 slug: tadat
+letter: T
 lisan: Arapça taʿdād
 anlamlar:
 - ► sayma

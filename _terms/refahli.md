@@ -2,6 +2,7 @@
 layout: term
 title: refahlı
 slug: refahli
+letter: R
 lisan: Türkçe
 anlamlar:
 - ► gönençli

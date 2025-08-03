@@ -2,6 +2,7 @@
 layout: term
 title: ciğerpare
 slug: cigerpare
+letter: C
 lisan: Farsça ciger + pāre
 anlamlar:
 - Çok sevilen kimse

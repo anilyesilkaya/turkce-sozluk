@@ -2,6 +2,7 @@
 layout: term
 title: eteği belinde
 slug: etegi-belinde
+letter: E
 lisan: Türkçe
 anlamlar:
 - Kıvrak ve hamarat

@@ -2,6 +2,7 @@
 layout: term
 title: müfit
 slug: mufit
+letter: M
 lisan: Arapça mufīd
 anlamlar:
 - ► yararlı

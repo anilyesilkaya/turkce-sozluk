@@ -2,6 +2,7 @@
 layout: term
 title: uzatmaları oynamak
 slug: uzatmalari-oynamak
+letter: U
 lisan: Türkçe
 anlamlar:
 - bir görevde son zamanlarını yaşamak

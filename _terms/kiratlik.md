@@ -2,6 +2,7 @@
 layout: term
 title: kıratlık
 slug: kiratlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Herhangi bir kırat değerinde olan (taş)

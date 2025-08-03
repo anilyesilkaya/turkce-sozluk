@@ -2,6 +2,7 @@
 layout: term
 title: aç
 slug: ac
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yemek yemesi gereken; tok karşıtı

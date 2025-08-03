@@ -2,6 +2,7 @@
 layout: term
 title: telaş
 slug: telas
+letter: T
 lisan: Arapça telāşī
 anlamlar:
 - Herhangi bir sebeple acelecilik; telaşe

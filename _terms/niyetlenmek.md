@@ -2,6 +2,7 @@
 layout: term
 title: niyetlenmek
 slug: niyetlenmek
+letter: N
 lisan: Türkçe
 anlamlar:
 - Niyet etmek, tasarlamak

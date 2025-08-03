@@ -2,6 +2,7 @@
 layout: term
 title: infilak etmek
 slug: infilak-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - patlamak

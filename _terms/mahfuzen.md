@@ -2,6 +2,7 @@
 layout: term
 title: mahfuzen
 slug: mahfuzen
+letter: M
 lisan: Arapça maḥfūẓen
 anlamlar:
 - Gözaltında olarak

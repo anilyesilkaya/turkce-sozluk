@@ -2,6 +2,7 @@
 layout: term
 title: bildirişme
 slug: bildirisme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bildirişmek işi

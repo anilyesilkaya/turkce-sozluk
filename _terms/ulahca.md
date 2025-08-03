@@ -2,6 +2,7 @@
 layout: term
 title: Ulahça
 slug: ulahca
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ulahların kullandığı dil

@@ -2,6 +2,7 @@
 layout: term
 title: nefis
 slug: nefis
+letter: N
 lisan: Arapça nefīs
 anlamlar:
 - Pek hoş, çok güzel

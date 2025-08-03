@@ -2,6 +2,7 @@
 layout: term
 title: devlethane
 slug: devlethane
+letter: D
 lisan: Arapça devlet + Farsça ḫāne
 anlamlar:
 - Nezaket gereği olarak "ev" anlamında kullanılan bir söz

@@ -2,6 +2,7 @@
 layout: term
 title: sigortasız
 slug: sigortasiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sigorta edilmemiş

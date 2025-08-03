@@ -2,6 +2,7 @@
 layout: term
 title: telgrafname
 slug: telgrafname
+letter: T
 lisan: Fransızca télégraphe + Farsça nāme
 anlamlar:
 - Telgraf metni

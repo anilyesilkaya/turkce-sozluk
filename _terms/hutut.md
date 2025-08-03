@@ -2,6 +2,7 @@
 layout: term
 title: hutut
 slug: hutut
+letter: H
 lisan: Arapça ḫuṭūṭ
 anlamlar:
 - Çizgiler

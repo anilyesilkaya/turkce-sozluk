@@ -2,6 +2,7 @@
 layout: term
 title: hasar almak
 slug: hasar-almak
+letter: H
 lisan: Türkçe
 anlamlar:
 - hasara uğramak

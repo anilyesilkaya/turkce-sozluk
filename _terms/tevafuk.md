@@ -2,6 +2,7 @@
 layout: term
 title: tevafuk
 slug: tevafuk
+letter: T
 lisan: Arapça tevāfuḳ
 anlamlar:
 - Birbirine uyma, uygun gelme

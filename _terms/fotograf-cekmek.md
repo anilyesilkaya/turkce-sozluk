@@ -2,6 +2,7 @@
 layout: term
 title: fotoğraf çekmek
 slug: fotograf-cekmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - fotoğraf makinesiyle görüntü tespit etmek

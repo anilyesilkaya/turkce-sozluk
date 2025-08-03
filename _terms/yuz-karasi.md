@@ -2,6 +2,7 @@
 layout: term
 title: yüz karası
 slug: yuz-karasi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Utanılacak bir durum veya şey; yüz kiri

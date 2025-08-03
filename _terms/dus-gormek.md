@@ -2,6 +2,7 @@
 layout: term
 title: düş görmek
 slug: dus-gormek
+letter: D
 lisan: Türkçe
 anlamlar:
 - rüya görmek

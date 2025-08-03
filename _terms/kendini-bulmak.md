@@ -2,6 +2,7 @@
 layout: term
 title: kendini bulmak
 slug: kendini-bulmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kişilik kazanmak

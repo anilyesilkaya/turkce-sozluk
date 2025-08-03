@@ -2,6 +2,7 @@
 layout: term
 title: gezinme
 slug: gezinme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gezinmek işi; cevelan

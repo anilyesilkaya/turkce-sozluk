@@ -2,6 +2,7 @@
 layout: term
 title: başı dumanlı
 slug: basi-dumanli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Doruğunu sis bürümüş (dağ)

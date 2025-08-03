@@ -2,6 +2,7 @@
 layout: term
 title: berberlik
 slug: berberlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Berberin yaptığı iş

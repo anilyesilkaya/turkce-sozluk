@@ -2,6 +2,7 @@
 layout: term
 title: bildik çıkmak
 slug: bildik-cikmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - birbirlerini eskiden bildiklerini veya ailece tanıştıklarını anlamak

@@ -2,6 +2,7 @@
 layout: term
 title: arpacı kumrusu
 slug: arpaci-kumrusu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir tür yerli tahtalı güvercin

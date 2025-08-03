@@ -2,6 +2,7 @@
 layout: term
 title: bardakaltı
 slug: bardakalti
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bardağın konulduğu yeri kirletmemesi için kullanılan, genellikle örgü, kâğıt veya plastik örtü

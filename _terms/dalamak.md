@@ -2,6 +2,7 @@
 layout: term
 title: dalamak
 slug: dalamak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Köpek, kurt vb. hayvanlar dişlemek, ısırmak; haşlamak

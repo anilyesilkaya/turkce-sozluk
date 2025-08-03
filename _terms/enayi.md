@@ -2,6 +2,7 @@
 layout: term
 title: enayi
 slug: enayi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Fazla bön, avanak, budala olan

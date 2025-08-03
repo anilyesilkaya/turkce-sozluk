@@ -2,6 +2,7 @@
 layout: term
 title: ponponlu
 slug: ponponlu
+letter: P
 lisan: Türkçe
 anlamlar:
 - Ponponu bulunan

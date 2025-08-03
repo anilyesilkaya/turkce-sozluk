@@ -2,6 +2,7 @@
 layout: term
 title: şok
 slug: sok
+letter: Ş
 lisan: Fransızca choc
 anlamlar:
 - Ani bir değişiklik sonucunda ortaya çıkan şaşkınlık

@@ -2,6 +2,7 @@
 layout: term
 title: karfiçe
 slug: karfice
+letter: K
 lisan: Rumca
 anlamlar:
 - Orta boy demir çivi

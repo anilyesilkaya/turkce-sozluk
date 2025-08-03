@@ -2,6 +2,7 @@
 layout: term
 title: yonca yaprağı
 slug: yonca-yapragi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Kara yollarında alt yoldan üst yola veya üst yoldan alt yola geçmeyi sağlayan, dört yapraklı yonca biçimindeki kavşak

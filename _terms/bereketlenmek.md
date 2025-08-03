@@ -2,6 +2,7 @@
 layout: term
 title: bereketlenmek
 slug: bereketlenmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► çoğalmak

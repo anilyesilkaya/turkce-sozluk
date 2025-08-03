@@ -2,6 +2,7 @@
 layout: term
 title: hesapçılık
 slug: hesapcilik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hesapçı olma durumu; hesabilik

@@ -2,6 +2,7 @@
 layout: term
 title: dakikası dakikasına
 slug: dakikasi-dakikasina
+letter: D
 lisan: Türkçe
 anlamlar:
 - Tam olarak

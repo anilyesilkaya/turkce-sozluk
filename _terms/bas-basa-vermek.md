@@ -2,6 +2,7 @@
 layout: term
 title: baş başa vermek
 slug: bas-basa-vermek
+letter: B
 lisan: Türkçe
 anlamlar:
 - iki veya daha çok kimse bir kenara çekilip konuşmak

@@ -2,6 +2,7 @@
 layout: term
 title: ayrımsızca
 slug: ayrimsizca
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► farksızca

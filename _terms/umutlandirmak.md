@@ -2,6 +2,7 @@
 layout: term
 title: umutlandırmak
 slug: umutlandirmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Umut vermek, umutlanmasına yol açmak; ümitlendirmek

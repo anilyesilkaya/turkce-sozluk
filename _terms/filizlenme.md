@@ -2,6 +2,7 @@
 layout: term
 title: filizlenme
 slug: filizlenme
+letter: F
 lisan: Türkçe
 anlamlar:
 - Filizlenmek işi

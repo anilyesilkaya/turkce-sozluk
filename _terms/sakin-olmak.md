@@ -2,6 +2,7 @@
 layout: term
 title: sakin olmak
 slug: sakin-olmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - bir yerde yerleşmek, oturmak

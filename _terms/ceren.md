@@ -2,6 +2,7 @@
 layout: term
 title: ceren
 slug: ceren
+letter: C
 lisan: Moğolca
 anlamlar:
 - ► ceylan

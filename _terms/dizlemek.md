@@ -2,6 +2,7 @@
 layout: term
 title: dizlemek
 slug: dizlemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dize kadar batmak

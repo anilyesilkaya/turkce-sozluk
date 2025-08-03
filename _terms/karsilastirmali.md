@@ -2,6 +2,7 @@
 layout: term
 title: karşılaştırmalı
 slug: karsilastirmali
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karşılaştırma yolu ile yapılan; mukayeseli

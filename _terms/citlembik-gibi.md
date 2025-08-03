@@ -2,6 +2,7 @@
 layout: term
 title: çitlembik gibi
 slug: citlembik-gibi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ufak tefek, esmer ve sevimli

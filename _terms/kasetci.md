@@ -2,6 +2,7 @@
 layout: term
 title: kasetçi
 slug: kasetci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaset satan kimse

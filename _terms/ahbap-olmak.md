@@ -2,6 +2,7 @@
 layout: term
 title: ahbap olmak
 slug: ahbap-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - arkadaş olmak, dostluk kurmak, yakınlık kurmak

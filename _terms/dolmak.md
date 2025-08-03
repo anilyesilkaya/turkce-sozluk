@@ -2,6 +2,7 @@
 layout: term
 title: dolmak
 slug: dolmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dolu duruma gelmek

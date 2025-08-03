@@ -2,6 +2,7 @@
 layout: term
 title: foyası meydana (veya ortaya) çıkmak
 slug: foyasi-meydana-veya-ortaya-cikmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - bir olay dolayısıyla bir kimsenin kötü niteliği ortaya çıkmak

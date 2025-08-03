@@ -2,6 +2,7 @@
 layout: term
 title: çatlamak
 slug: catlamak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Parçaları ayrılıp dağılmayacak bir biçimde yarılmak

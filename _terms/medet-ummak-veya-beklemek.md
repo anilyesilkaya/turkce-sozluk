@@ -2,6 +2,7 @@
 layout: term
 title: medet ummak (veya beklemek)
 slug: medet-ummak-veya-beklemek
+letter: M
 lisan: Türkçe
 anlamlar:
 - birinden veya bir şeyden yardım beklemek

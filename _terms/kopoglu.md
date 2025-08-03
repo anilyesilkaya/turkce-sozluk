@@ -2,6 +2,7 @@
 layout: term
 title: köpoğlu
 slug: kopoglu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kurnaz, işini bilen, düzenbaz, açıkgöz, uyanık kimse

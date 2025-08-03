@@ -2,6 +2,7 @@
 layout: term
 title: Mısır
 slug: misir
+letter: M
 lisan: Türkçe
 anlamlar:
 - '`Duymayan kalmadı` anlamındaki Mısır''daki sağır sultan bile duydu atasözünde geçen bir söz'

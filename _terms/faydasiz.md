@@ -2,6 +2,7 @@
 layout: term
 title: faydasız
 slug: faydasiz
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► yararsız

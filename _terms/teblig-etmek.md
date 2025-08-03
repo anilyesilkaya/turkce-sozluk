@@ -2,6 +2,7 @@
 layout: term
 title: tebliğ etmek
 slug: teblig-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - bildirmek

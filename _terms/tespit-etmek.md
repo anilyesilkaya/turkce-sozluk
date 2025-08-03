@@ -2,6 +2,7 @@
 layout: term
 title: tespit etmek
 slug: tespit-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - bir şeyi sağlam bir biçimde yerleştirmek, oynamaz duruma getirmek, saptamak

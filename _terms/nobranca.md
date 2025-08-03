@@ -2,6 +2,7 @@
 layout: term
 title: nobranca
 slug: nobranca
+letter: N
 lisan: Türkçe
 anlamlar:
 - Kaba, sert, kırıcı; nadanca

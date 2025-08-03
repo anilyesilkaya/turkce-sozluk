@@ -2,6 +2,7 @@
 layout: term
 title: sıçrama
 slug: sicrama
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıçramak işi

@@ -2,6 +2,7 @@
 layout: term
 title: alıngan
 slug: alingan
+letter: A
 lisan: Türkçe
 anlamlar:
 - Çabuk gücenen, çabuk kırılan

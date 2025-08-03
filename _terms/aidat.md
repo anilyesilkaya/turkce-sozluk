@@ -2,6 +2,7 @@
 layout: term
 title: aidat
 slug: aidat
+letter: A
 lisan: Arapça ʿaʾidāt
 anlamlar:
 - Dernek, kuruluş, kulüp üyelerinin belli sürelerde, belli miktarlarda ödedikleri para; ödenti

@@ -2,6 +2,7 @@
 layout: term
 title: çevirtilmek
 slug: cevirtilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çevrilmesi sağlanmak

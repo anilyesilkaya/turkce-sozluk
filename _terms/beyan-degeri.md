@@ -2,6 +2,7 @@
 layout: term
 title: beyan değeri
 slug: beyan-degeri
+letter: B
 lisan: Türkçe
 anlamlar:
 - İletkenler için akım geçirme yeteneğinin belirtisi

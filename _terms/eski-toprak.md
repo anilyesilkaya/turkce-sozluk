@@ -2,6 +2,7 @@
 layout: term
 title: eski toprak
 slug: eski-toprak
+letter: E
 lisan: Türkçe
 anlamlar:
 - Yaşlandığı hâlde dinç olan kimse

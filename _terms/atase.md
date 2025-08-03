@@ -2,6 +2,7 @@
 layout: term
 title: ataşe
 slug: atase
+letter: A
 lisan: Fransızca attaché
 anlamlar:
 - ► elçilik uzmanı

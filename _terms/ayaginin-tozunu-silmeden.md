@@ -2,6 +2,7 @@
 layout: term
 title: ayağının tozunu silmeden
 slug: ayaginin-tozunu-silmeden
+letter: A
 lisan: Türkçe
 anlamlar:
 - yoldan gelir gelmez, henüz dinlenmeden

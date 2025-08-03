@@ -2,6 +2,7 @@
 layout: term
 title: gönlünü söndürmek
 slug: gonlunu-sondurmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - küstürmek, kırmak, incitmek

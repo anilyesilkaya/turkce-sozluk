@@ -2,6 +2,7 @@
 layout: term
 title: akıl var, izan (veya mantık veya yakın) var
 slug: akil-var-izan-veya-mantik-veya-yakin-var
+letter: A
 lisan: Türkçe
 anlamlar:
 - '"herhangi bir şey bilgiye ve mantığa dayalı olarak yapılmalıdır" anlamında kullanılan bir söz'

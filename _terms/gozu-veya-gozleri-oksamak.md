@@ -2,6 +2,7 @@
 layout: term
 title: gözü (veya gözleri) okşamak
 slug: gozu-veya-gozleri-oksamak
+letter: G
 lisan: Türkçe
 anlamlar:
 - göze hoş görünmek

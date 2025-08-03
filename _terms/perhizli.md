@@ -2,6 +2,7 @@
 layout: term
 title: perhizli
 slug: perhizli
+letter: P
 lisan: Türkçe
 anlamlar:
 - Perhiz yapan (kimse)

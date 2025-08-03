@@ -2,6 +2,7 @@
 layout: term
 title: altyapısal
 slug: altyapisal
+letter: A
 lisan: Türkçe
 anlamlar:
 - Altyapı ile ilgili

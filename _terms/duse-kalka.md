@@ -2,6 +2,7 @@
 layout: term
 title: düşe kalka
 slug: duse-kalka
+letter: D
 lisan: Türkçe
 anlamlar:
 - Zor bir biçimde

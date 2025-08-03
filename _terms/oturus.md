@@ -2,6 +2,7 @@
 layout: term
 title: oturuş
 slug: oturus
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oturmak işi

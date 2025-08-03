@@ -2,6 +2,7 @@
 layout: term
 title: süzebilmek
 slug: suzebilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Süzme ihtimali veya imkânı bulunmak

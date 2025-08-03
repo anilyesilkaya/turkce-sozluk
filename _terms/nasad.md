@@ -2,6 +2,7 @@
 layout: term
 title: naşad
 slug: nasad
+letter: N
 lisan: Farsça nāşād
 anlamlar:
 - Üzüntülü, kederli, mahzun

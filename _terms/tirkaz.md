@@ -2,6 +2,7 @@
 layout: term
 title: tırkaz
 slug: tirkaz
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► kapı mandalı

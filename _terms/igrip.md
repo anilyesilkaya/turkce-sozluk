@@ -2,6 +2,7 @@
 layout: term
 title: ığrıp
 slug: igrip
+letter: I
 lisan: Rumca
 anlamlar:
 - Bir tür büyük balık ağı; ırıp

@@ -2,6 +2,7 @@
 layout: term
 title: istifini bozmamak
 slug: istifini-bozmamak
+letter: I
 lisan: Türkçe
 anlamlar:
 - aldırış etmeyip durum ve davranışını değiştirmemek

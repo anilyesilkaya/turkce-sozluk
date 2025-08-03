@@ -2,6 +2,7 @@
 layout: term
 title: dokumacı
 slug: dokumaci
+letter: D
 lisan: Türkçe
 anlamlar:
 - Kumaş dokuyan veya dokuma ticareti yapan kimse; dokuyucu

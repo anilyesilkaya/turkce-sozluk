@@ -2,6 +2,7 @@
 layout: term
 title: yangın
 slug: yangin
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Zarara yol açan büyük ateş

@@ -2,6 +2,7 @@
 layout: term
 title: makaslamak
 slug: makaslamak
+letter: M
 lisan: Türkçe
 anlamlar:
 - Makasla kesmek

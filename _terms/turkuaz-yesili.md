@@ -2,6 +2,7 @@
 layout: term
 title: turkuaz yeşili
 slug: turkuaz-yesili
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► turkuaz

@@ -2,6 +2,7 @@
 layout: term
 title: sizcesi
 slug: sizcesi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Size göre olanı

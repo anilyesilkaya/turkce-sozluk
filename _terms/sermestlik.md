@@ -2,6 +2,7 @@
 layout: term
 title: sermestlik
 slug: sermestlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► sarhoşluk

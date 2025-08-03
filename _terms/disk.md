@@ -2,6 +2,7 @@
 layout: term
 title: disk
 slug: disk
+letter: D
 lisan: Fransızca disque
 anlamlar:
 - Disk atmada kullanılan, erkekler için 2, kadınlar için 1 kilogram ağırlığında, genellikle metal bir çember ile çevrelenmiş tahta ağırşak

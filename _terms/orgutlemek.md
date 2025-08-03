@@ -2,6 +2,7 @@
 layout: term
 title: örgütlemek
 slug: orgutlemek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - İnsanları veya işleri örgütlü duruma getirmek; teşkilatlandırmak

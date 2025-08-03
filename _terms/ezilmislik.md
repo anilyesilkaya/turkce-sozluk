@@ -2,6 +2,7 @@
 layout: term
 title: ezilmişlik
 slug: ezilmislik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ezilmiş olma durumu

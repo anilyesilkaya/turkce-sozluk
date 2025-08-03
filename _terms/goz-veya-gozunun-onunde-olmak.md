@@ -2,6 +2,7 @@
 layout: term
 title: göz (veya gözünün) önünde olmak
 slug: goz-veya-gozunun-onunde-olmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - sürekli denetimi altında bulunmak

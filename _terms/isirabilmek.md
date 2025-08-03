@@ -2,6 +2,7 @@
 layout: term
 title: ısırabilmek
 slug: isirabilmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Isırma ihtimali veya imkânı bulunmak

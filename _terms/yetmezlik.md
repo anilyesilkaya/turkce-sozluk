@@ -2,6 +2,7 @@
 layout: term
 title: yetmezlik
 slug: yetmezlik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yetmeme durumu

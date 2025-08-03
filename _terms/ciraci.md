@@ -2,6 +2,7 @@
 layout: term
 title: çıracı
 slug: ciraci
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Eskiden sokaklarda dolaşarak çıra satan kimse

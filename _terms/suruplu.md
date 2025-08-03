@@ -2,6 +2,7 @@
 layout: term
 title: şuruplu
 slug: suruplu
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► şerbetli

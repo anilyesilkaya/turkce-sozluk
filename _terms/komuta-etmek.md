@@ -2,6 +2,7 @@
 layout: term
 title: komuta etmek
 slug: komuta-etmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - askerlikte yönetmek, kumanda etmek

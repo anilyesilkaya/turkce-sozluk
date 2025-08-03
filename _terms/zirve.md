@@ -2,6 +2,7 @@
 layout: term
 title: zirve
 slug: zirve
+letter: Z
 lisan: Arapça ẕirve
 anlamlar:
 - ► doruk

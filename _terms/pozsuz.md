@@ -2,6 +2,7 @@
 layout: term
 title: pozsuz
 slug: pozsuz
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► çalımsız

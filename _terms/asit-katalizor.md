@@ -2,6 +2,7 @@
 layout: term
 title: asit katalizör
 slug: asit-katalizor
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kimyasal reaksiyonları hızlandıran veya sentetik reçinelerin sertleştirilmesinde kullanılan organik veya inorganik asitler ile bunların tuzları

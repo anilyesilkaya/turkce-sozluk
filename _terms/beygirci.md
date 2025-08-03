@@ -2,6 +2,7 @@
 layout: term
 title: beygirci
 slug: beygirci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beygir besleyen veya kiraya veren kimse

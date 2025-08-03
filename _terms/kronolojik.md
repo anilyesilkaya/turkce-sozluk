@@ -2,6 +2,7 @@
 layout: term
 title: kronolojik
 slug: kronolojik
+letter: K
 lisan: Fransızca chronologique
 anlamlar:
 - ► zaman bilimsel

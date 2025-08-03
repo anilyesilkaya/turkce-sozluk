@@ -2,6 +2,7 @@
 layout: term
 title: cenaze duası
 slug: cenaze-duasi
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cenaze namazında okunan dua

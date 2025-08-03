@@ -2,6 +2,7 @@
 layout: term
 title: can arkadaşı
 slug: can-arkadasi
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► can dostu

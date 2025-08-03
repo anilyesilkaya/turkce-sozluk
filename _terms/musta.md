@@ -2,6 +2,7 @@
 layout: term
 title: muşta
 slug: musta
+letter: M
 lisan: Farsça muşte
 anlamlar:
 - Karşısındakine vurmak için özel olarak açılmış deliklerine parmakların geçirilmesi ile kullanılan demir parçası

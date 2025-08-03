@@ -2,6 +2,7 @@
 layout: term
 title: eleştiri
 slug: elestiri
+letter: E
 lisan: Türkçe
 anlamlar:
 - Bir insanı, bir eseri, bir konuyu doğru ve yanlış yanlarını bulup göstermek amacıyla inceleme işi; tenkit (I), muaheze

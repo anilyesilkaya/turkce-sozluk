@@ -2,6 +2,7 @@
 layout: term
 title: kiren
 slug: kiren
+letter: K
 lisan: Yunanca
 anlamlar:
 - ► kızılcık

@@ -2,6 +2,7 @@
 layout: term
 title: tümce
 slug: tumce
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► cümle

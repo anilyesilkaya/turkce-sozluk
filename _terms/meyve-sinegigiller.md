@@ -2,6 +2,7 @@
 layout: term
 title: meyve sineğigiller
 slug: meyve-sinegigiller
+letter: M
 lisan: Türkçe
 anlamlar:
 - Kanatlarında koyu renkli lekeler bulunan bir tür sinek familyası (Trypetidae)

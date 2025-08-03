@@ -2,6 +2,7 @@
 layout: term
 title: fışkırmak
 slug: fiskirmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - Gaz veya sıvılar bir yerden basınç etkisiyle yukarıya doğru birdenbire ve hızla çıkmak

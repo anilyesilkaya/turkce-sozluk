@@ -2,6 +2,7 @@
 layout: term
 title: çifte kumrular
 slug: cifte-kumrular
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Birbirini çok seven sevgili

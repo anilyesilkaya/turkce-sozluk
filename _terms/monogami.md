@@ -2,6 +2,7 @@
 layout: term
 title: monogami
 slug: monogami
+letter: M
 lisan: Fransızca monogamie
 anlamlar:
 - ► tek eşlilik

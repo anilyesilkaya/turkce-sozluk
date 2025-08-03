@@ -2,6 +2,7 @@
 layout: term
 title: laborant
 slug: laborant
+letter: L
 lisan: Almanca Laborant
 anlamlar:
 - Araştırmalarda, laboratuvar deneylerinde yardımcı olarak çalıştırılan kimse

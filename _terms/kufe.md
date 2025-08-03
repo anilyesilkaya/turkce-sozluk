@@ -2,6 +2,7 @@
 layout: term
 title: küfe
 slug: kufe
+letter: K
 lisan: Rumca
 anlamlar:
 - Genellikle söğüt veya başka ağaç dallarından örülen, yük taşımaya yarayan, kaba ve dayanıklı sepet

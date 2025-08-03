@@ -2,6 +2,7 @@
 layout: term
 title: umur
 slug: umur
+letter: U
 lisan: Arapça umūr
 anlamlar:
 - Aldırış etme, önem verme

@@ -2,6 +2,7 @@
 layout: term
 title: kırkbeşlik
 slug: kirkbeslik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çekirdeği 11,43 milimetre çapında olan mermiyi atabilen bir tabanca türü

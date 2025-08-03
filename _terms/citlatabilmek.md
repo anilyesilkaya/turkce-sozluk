@@ -2,6 +2,7 @@
 layout: term
 title: çıtlatabilmek
 slug: citlatabilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıtlatma ihtimali veya imkânı bulunmak

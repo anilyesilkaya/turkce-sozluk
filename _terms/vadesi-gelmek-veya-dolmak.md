@@ -2,6 +2,7 @@
 layout: term
 title: vadesi gelmek (veya dolmak)
 slug: vadesi-gelmek-veya-dolmak
+letter: V
 lisan: Türkçe
 anlamlar:
 - süresi dolmak, zamanı gelmek

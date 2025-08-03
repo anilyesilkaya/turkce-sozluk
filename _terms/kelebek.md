@@ -2,6 +2,7 @@
 layout: term
 title: kelebek
 slug: kelebek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Pul kanatlılardan, vücudu, kanatları ince pullarla ve türlü renklerle örtülü, dört kanatlı, çok sayıda türleri olan böceklere verilen genel ad

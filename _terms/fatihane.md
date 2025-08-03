@@ -2,6 +2,7 @@
 layout: term
 title: fatihane
 slug: fatihane
+letter: F
 lisan: Arapça fātiḥ + Farsça -āne
 anlamlar:
 - Fatih gibi, fatihe benzercesine

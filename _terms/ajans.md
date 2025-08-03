@@ -2,6 +2,7 @@
 layout: term
 title: ajans
 slug: ajans
+letter: A
 lisan: Fransızca agence
 anlamlar:
 - Haber toplama, yayma ve üyelerine dağıtma işiyle uğraşan kuruluş

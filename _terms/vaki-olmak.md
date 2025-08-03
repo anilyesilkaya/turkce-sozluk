@@ -2,6 +2,7 @@
 layout: term
 title: vaki olmak
 slug: vaki-olmak
+letter: V
 lisan: Türkçe
 anlamlar:
 - vuku bulmak, gerçekleşmek

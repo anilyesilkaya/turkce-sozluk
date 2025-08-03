@@ -2,6 +2,7 @@
 layout: term
 title: dalgalanıvermek
 slug: dalgalanivermek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çabucak veya ansızın dalgalanmak

@@ -2,6 +2,7 @@
 layout: term
 title: kışla
 slug: kisla
+letter: K
 lisan: Türkçe
 anlamlar:
 - Askerlerin toplu olarak barındıkları yapılar bütünü

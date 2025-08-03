@@ -2,6 +2,7 @@
 layout: term
 title: beybaba
 slug: beybaba
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çocukların babaları için kullandığı saygı sözü

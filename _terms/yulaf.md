@@ -2,6 +2,7 @@
 layout: term
 title: yulaf
 slug: yulaf
+letter: Y
 lisan: Rumca
 anlamlar:
 - Buğdaygillerden, en çok hayvan yemi olarak yetiştirilen otsu bitki (Avena sativa)

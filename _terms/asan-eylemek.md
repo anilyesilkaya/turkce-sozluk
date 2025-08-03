@@ -2,6 +2,7 @@
 layout: term
 title: asan eylemek
 slug: asan-eylemek
+letter: A
 lisan: Türkçe
 anlamlar:
 - kolaylaştırmak

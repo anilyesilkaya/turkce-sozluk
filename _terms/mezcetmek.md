@@ -2,6 +2,7 @@
 layout: term
 title: mezcetmek
 slug: mezcetmek
+letter: M
 lisan: Arapça mezc + Türkçe etmek
 anlamlar:
 - Birbirine katmak, katıştırmak

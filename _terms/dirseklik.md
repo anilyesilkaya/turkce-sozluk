@@ -2,6 +2,7 @@
 layout: term
 title: dirseklik
 slug: dirseklik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Koltuk, kanepe vb.nde dirsekleri dayamaya elverişli bölüm

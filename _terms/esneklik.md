@@ -2,6 +2,7 @@
 layout: term
 title: esneklik
 slug: esneklik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Esnek olma durumu; elastikiyet, suples

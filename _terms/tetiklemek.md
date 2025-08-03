@@ -2,6 +2,7 @@
 layout: term
 title: tetiklemek
 slug: tetiklemek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Harekete geçirmek

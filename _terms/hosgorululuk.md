@@ -2,6 +2,7 @@
 layout: term
 title: hoşgörülülük
 slug: hosgorululuk
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hoşgörülü olma, hoşgörü ile davranma durumu; hoşgörücülük, hoşgörürlük, anlayışlılık, müsamahakârlık, toleranslılık

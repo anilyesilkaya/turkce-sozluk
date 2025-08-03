@@ -2,6 +2,7 @@
 layout: term
 title: dert ortağı
 slug: dert-ortagi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Aynı derdin sıkıntısı içinde bulunanlardan her biri

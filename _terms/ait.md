@@ -2,6 +2,7 @@
 layout: term
 title: ait
 slug: ait
+letter: A
 lisan: Arapça ʿāʾid
 anlamlar:
 - “İlgilendiren” anlamında kullanılan bir söz; ilişkin, değgin

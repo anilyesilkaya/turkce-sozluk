@@ -2,6 +2,7 @@
 layout: term
 title: devran
 slug: devran
+letter: D
 lisan: Arapça devrān
 anlamlar:
 - ► dünya

@@ -2,6 +2,7 @@
 layout: term
 title: naftalinli
 slug: naftalinli
+letter: N
 lisan: Türkçe
 anlamlar:
 - Naftalinlenmiş

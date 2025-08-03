@@ -2,6 +2,7 @@
 layout: term
 title: besleme basın
 slug: besleme-basin
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çıkar uğruna, herhangi bir kuruluşun veya iktidardaki güçlerin görüşlerini savunan basın

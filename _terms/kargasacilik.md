@@ -2,6 +2,7 @@
 layout: term
 title: kargaşacılık
 slug: kargasacilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kargaşacı olma durumu

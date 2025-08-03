@@ -2,6 +2,7 @@
 layout: term
 title: özerk
 slug: ozerk
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Bir üst organa bağlı olmakla beraber kendine ait işleri ayrı bir yasayla kendisi düzenleme ve yönetme yetkisi olan (kuruluş, devlet vb.); muhtar, otonom

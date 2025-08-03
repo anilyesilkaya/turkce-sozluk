@@ -2,6 +2,7 @@
 layout: term
 title: lafı kısa kesmek
 slug: lafi-kisa-kesmek
+letter: L
 lisan: Türkçe
 anlamlar:
 - söyleyeceğini kısa veya özet olarak belirtmek, az ve öz konuşmak

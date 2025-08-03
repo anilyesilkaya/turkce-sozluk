@@ -2,6 +2,7 @@
 layout: term
 title: yakınlık duymak
 slug: yakinlik-duymak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - birine karşı sevgi veya ilgi duymak

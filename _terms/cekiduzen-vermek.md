@@ -2,6 +2,7 @@
 layout: term
 title: çekidüzen vermek
 slug: cekiduzen-vermek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - düzgün duruma getirmek, düzeltmek

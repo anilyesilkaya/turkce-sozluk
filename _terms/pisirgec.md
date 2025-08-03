@@ -2,6 +2,7 @@
 layout: term
 title: pişirgeç
 slug: pisirgec
+letter: P
 lisan: Türkçe
 anlamlar:
 - Ocakta börek pişirmeye yarayan alet

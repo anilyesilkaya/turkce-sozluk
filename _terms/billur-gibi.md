@@ -2,6 +2,7 @@
 layout: term
 title: billur gibi
 slug: billur-gibi
+letter: B
 lisan: Türkçe
 anlamlar:
 - çok duru, çok temiz (su)

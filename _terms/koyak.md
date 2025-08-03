@@ -2,6 +2,7 @@
 layout: term
 title: koyak
 slug: koyak
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► vadi

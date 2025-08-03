@@ -2,6 +2,7 @@
 layout: term
 title: kaçma
 slug: kacma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaçmak işi; firar

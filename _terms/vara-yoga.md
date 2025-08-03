@@ -2,6 +2,7 @@
 layout: term
 title: vara yoğa
 slug: vara-yoga
+letter: V
 lisan: Türkçe
 anlamlar:
 - Her şeye

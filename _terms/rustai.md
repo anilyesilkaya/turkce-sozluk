@@ -2,6 +2,7 @@
 layout: term
 title: rustai
 slug: rustai
+letter: R
 lisan: Farsça rūstā + Arapça -ī
 anlamlar:
 - ► köylü

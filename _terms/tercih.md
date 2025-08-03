@@ -2,6 +2,7 @@
 layout: term
 title: tercih
 slug: tercih
+letter: T
 lisan: Arapça tercīḥ
 anlamlar:
 - ► yeğleme

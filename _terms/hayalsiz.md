@@ -2,6 +2,7 @@
 layout: term
 title: hayalsiz
 slug: hayalsiz
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hayal edemeyen, hayali olmayan

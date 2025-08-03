@@ -2,6 +2,7 @@
 layout: term
 title: tıs kesilmek
 slug: tis-kesilmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - sessiz kalmak

@@ -2,6 +2,7 @@
 layout: term
 title: dikelmek
 slug: dikelmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► dikleşmek

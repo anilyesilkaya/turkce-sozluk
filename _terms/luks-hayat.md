@@ -2,6 +2,7 @@
 layout: term
 title: lüks hayat
 slug: luks-hayat
+letter: L
 lisan: Türkçe
 anlamlar:
 - Fazla masraf gerektiren şaşaalı, gösterişli ve göz kamaştırıcı yaşama biçimi

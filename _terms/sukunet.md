@@ -2,6 +2,7 @@
 layout: term
 title: sükûnet
 slug: sukunet
+letter: S
 lisan: Arapça sukūnet
 anlamlar:
 - ► dinginlik

@@ -2,6 +2,7 @@
 layout: term
 title: kazık gibi
 slug: kazik-gibi
+letter: K
 lisan: Türkçe
 anlamlar:
 - dimdik

@@ -2,6 +2,7 @@
 layout: term
 title: tereddüt etmek
 slug: tereddut-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - kararsız davranmak, duraksamak

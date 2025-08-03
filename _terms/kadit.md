@@ -2,6 +2,7 @@
 layout: term
 title: kadit
 slug: kadit
+letter: K
 lisan: Arapça ḳadīd
 anlamlar:
 - Çok zayıf

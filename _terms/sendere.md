@@ -2,6 +2,7 @@
 layout: term
 title: şendere
 slug: sendere
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Kaplamacılıkta kullanılan ince tahta

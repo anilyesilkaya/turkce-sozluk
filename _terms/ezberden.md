@@ -2,6 +2,7 @@
 layout: term
 title: ezberden
 slug: ezberden
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ezberleyerek, ezberlemiş olarak

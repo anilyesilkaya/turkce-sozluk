@@ -2,6 +2,7 @@
 layout: term
 title: sabitlemek
 slug: sabitlemek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sabit duruma getirmek

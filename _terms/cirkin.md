@@ -2,6 +2,7 @@
 layout: term
 title: çirkin
 slug: cirkin
+letter: Ç
 lisan: Farsça çirkīn
 anlamlar:
 - Göze veya kulağa hoş gelmeyen; bet (III), bed, güzel karşıtı

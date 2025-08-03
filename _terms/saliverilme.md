@@ -2,6 +2,7 @@
 layout: term
 title: salıverilme
 slug: saliverilme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Salıverilmek işi

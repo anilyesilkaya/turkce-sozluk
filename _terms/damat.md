@@ -2,6 +2,7 @@
 layout: term
 title: damat
 slug: damat
+letter: D
 lisan: Farsça dāmād
 anlamlar:
 - Evlenmekte olan bir erkeğe, evlenme töreni sırasında verilen ad; güvey, güveyi, eloğlu

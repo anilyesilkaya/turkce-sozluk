@@ -2,6 +2,7 @@
 layout: term
 title: çivicilik
 slug: civicilik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çivicinin yaptığı iş; mıhçılık

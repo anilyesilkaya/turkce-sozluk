@@ -2,6 +2,7 @@
 layout: term
 title: azotlu
 slug: azotlu
+letter: A
 lisan: Türkçe
 anlamlar:
 - İçinde azot bulunan

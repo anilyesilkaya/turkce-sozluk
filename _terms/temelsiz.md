@@ -2,6 +2,7 @@
 layout: term
 title: temelsiz
 slug: temelsiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Temeli olmayan

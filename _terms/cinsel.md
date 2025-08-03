@@ -2,6 +2,7 @@
 layout: term
 title: cinsel
 slug: cinsel
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cinsiyetle ilgili; cinsî, eşeysel, tensel, seksüel

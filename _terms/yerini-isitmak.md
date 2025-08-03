@@ -2,6 +2,7 @@
 layout: term
 title: yerini ısıtmak
 slug: yerini-isitmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - bir yerde uzun süre kalmak

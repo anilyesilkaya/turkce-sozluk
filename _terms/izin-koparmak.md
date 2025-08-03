@@ -2,6 +2,7 @@
 layout: term
 title: izin koparmak
 slug: izin-koparmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - güçlükle izin almak

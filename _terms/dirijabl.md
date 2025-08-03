@@ -2,6 +2,7 @@
 layout: term
 title: dirijabl
 slug: dirijabl
+letter: D
 lisan: Fransızca dirigeable
 anlamlar:
 - İçerisi gazla doldurulmuş, istenilen yere yöneltilebilen balon

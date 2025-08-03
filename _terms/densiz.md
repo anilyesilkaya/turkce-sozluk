@@ -2,6 +2,7 @@
 layout: term
 title: densiz
 slug: densiz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Yakışıksız ve saygısızca davranan (kimse)

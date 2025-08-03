@@ -2,6 +2,7 @@
 layout: term
 title: yolsuzluk
 slug: yolsuzluk
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yolsuz olma durumu

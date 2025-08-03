@@ -2,6 +2,7 @@
 layout: term
 title: müstemlekecilik
 slug: mustemlekecilik
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► sömürgecilik

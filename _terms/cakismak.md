@@ -2,6 +2,7 @@
 layout: term
 title: çakışmak
 slug: cakismak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Birbirine geçip kenetlenmek, takılmak

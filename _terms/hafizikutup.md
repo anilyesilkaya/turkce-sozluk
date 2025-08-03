@@ -2,6 +2,7 @@
 layout: term
 title: hafızıkütüp
 slug: hafizikutup
+letter: H
 lisan: Arapça ḥāfiẓ + kutub
 anlamlar:
 - Kütüphane memuru

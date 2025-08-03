@@ -2,6 +2,7 @@
 layout: term
 title: gayrimemnun
 slug: gayrimemnun
+letter: G
 lisan: Arapça ġayr + memnūn
 anlamlar:
 - Bulunduğu durumdan, yapılan işten memnun olmayan

@@ -2,6 +2,7 @@
 layout: term
 title: gocuksuz
 slug: gocuksuz
+letter: G
 lisan: Türkçe
 anlamlar:
 - Üzerinde gocuk olmayan

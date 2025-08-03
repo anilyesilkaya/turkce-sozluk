@@ -2,6 +2,7 @@
 layout: term
 title: şuurlandırılabilmek
 slug: suurlandirilabilmek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► bilinçlendirilebilmek

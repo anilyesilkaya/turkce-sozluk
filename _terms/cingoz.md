@@ -2,6 +2,7 @@
 layout: term
 title: cingöz
 slug: cingoz
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► açıkgöz

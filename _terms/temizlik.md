@@ -2,6 +2,7 @@
 layout: term
 title: temizlik
 slug: temizlik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Temiz olma durumu; arılık (I), paklık, sililik, ismet, saffet, nezafet

@@ -2,6 +2,7 @@
 layout: term
 title: tüberkülozlu
 slug: tuberkulozlu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tüberküloz hastalığına yakalanmış (hasta)

@@ -2,6 +2,7 @@
 layout: term
 title: öteberi
 slug: oteberi
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Önemsiz, ufak tefek şeyler

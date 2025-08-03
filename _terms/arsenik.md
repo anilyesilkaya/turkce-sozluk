@@ -2,6 +2,7 @@
 layout: term
 title: arsenik
 slug: arsenik
+letter: A
 lisan: Fransızca arsenic
 anlamlar:
 - Atom numarası 33, atom ağırlığı 74,91, yoğunluğu 5,7 olan, atmosfer basıncı altında 450 °C'de süblimleşen, maden filizlerinde çok yaygın bulunan, metal görünümünde basit element; sıçanotu, zırnık (simgesi As)

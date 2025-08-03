@@ -2,6 +2,7 @@
 layout: term
 title: ölçekleme
 slug: olcekleme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ölçeklemek işi

@@ -2,6 +2,7 @@
 layout: term
 title: makamsız
 slug: makamsiz
+letter: M
 lisan: Türkçe
 anlamlar:
 - Makamı olmayan

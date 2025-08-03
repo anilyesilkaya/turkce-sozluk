@@ -2,6 +2,7 @@
 layout: term
 title: utangaç
 slug: utangac
+letter: U
 lisan: Türkçe
 anlamlar:
 - Bir topluluk içinde gereken güven ve cesareti kendinde bulamayan, rahat konuşamayan ve rahat davranamayan; sıkılgan, utangan, mahcup

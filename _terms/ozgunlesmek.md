@@ -2,6 +2,7 @@
 layout: term
 title: özgünleşmek
 slug: ozgunlesmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Özgün duruma gelmek

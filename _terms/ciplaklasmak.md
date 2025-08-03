@@ -2,6 +2,7 @@
 layout: term
 title: çıplaklaşmak
 slug: ciplaklasmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıplak duruma gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: madde
 slug: madde
+letter: M
 lisan: Arapça mādde
 anlamlar:
 - Duyularla algılanabilen nesne

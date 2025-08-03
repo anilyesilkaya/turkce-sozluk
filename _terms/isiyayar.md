@@ -2,6 +2,7 @@
 layout: term
 title: ısıyayar
 slug: isiyayar
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bir akışkanda ısıyı her tarafa eşit olarak yaymaya yarayan alet; konvektör

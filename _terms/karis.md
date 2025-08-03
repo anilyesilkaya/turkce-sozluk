@@ -2,6 +2,7 @@
 layout: term
 title: karış
 slug: karis
+letter: K
 lisan: Türkçe
 anlamlar:
 - Parmaklar birbirinden uzak duracak biçimde gergin duran elde, başparmak ile serçe parmağın uçları arasındaki açıklık

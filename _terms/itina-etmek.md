@@ -2,6 +2,7 @@
 layout: term
 title: itina etmek
 slug: itina-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - özenmek, özen göstermek

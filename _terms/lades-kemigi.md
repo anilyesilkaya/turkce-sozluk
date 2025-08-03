@@ -2,6 +2,7 @@
 layout: term
 title: lades kemiği
 slug: lades-kemigi
+letter: L
 lisan: Türkçe
 anlamlar:
 - Kuşlarda göğüs kemiğinin üstünde iki kanat arasında bulunan "V" biçimindeki ince kemik

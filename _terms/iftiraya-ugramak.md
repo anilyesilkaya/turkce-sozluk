@@ -2,6 +2,7 @@
 layout: term
 title: iftiraya uğramak
 slug: iftiraya-ugramak
+letter: I
 lisan: Türkçe
 anlamlar:
 - kasıtlı ve asılsız suç yüklenmek

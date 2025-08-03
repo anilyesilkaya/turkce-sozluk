@@ -2,6 +2,7 @@
 layout: term
 title: gebe kalmak
 slug: gebe-kalmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - insan veya hayvanın karnında yavru oluşmak

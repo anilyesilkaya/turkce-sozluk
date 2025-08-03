@@ -2,6 +2,7 @@
 layout: term
 title: fazlalaşmak
 slug: fazlalasmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► çoğalmak

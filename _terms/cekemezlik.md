@@ -2,6 +2,7 @@
 layout: term
 title: çekemezlik
 slug: cekemezlik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çekememe durumu veya çekememekten, kıskançlıktan doğan davranış

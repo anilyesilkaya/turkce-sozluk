@@ -2,6 +2,7 @@
 layout: term
 title: kopuvermek
 slug: kopuvermek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Ansızın veya çabucak kopmak

@@ -2,6 +2,7 @@
 layout: term
 title: takacı
 slug: takaci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taka işleten kimse

@@ -2,6 +2,7 @@
 layout: term
 title: otoriter
 slug: otoriter
+letter: O
 lisan: Fransızca autoritaire
 anlamlar:
 - ► otoriteli

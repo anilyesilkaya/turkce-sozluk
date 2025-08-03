@@ -2,6 +2,7 @@
 layout: term
 title: yabani gül
 slug: yabani-gul
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yaban gülü

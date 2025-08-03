@@ -2,6 +2,7 @@
 layout: term
 title: ön belirti
 slug: on-belirti
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Belirtilerin ilki

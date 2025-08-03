@@ -2,6 +2,7 @@
 layout: term
 title: fıtraten
 slug: fitraten
+letter: F
 lisan: Arapça fiṭraten
 anlamlar:
 - ► yaradılışça

@@ -2,6 +2,7 @@
 layout: term
 title: yüreğine daral gelmek
 slug: yuregine-daral-gelmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - içi sıkılmak, bunalmak, huzursuz olmak

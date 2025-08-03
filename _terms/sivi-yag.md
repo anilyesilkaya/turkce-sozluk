@@ -2,6 +2,7 @@
 layout: term
 title: sıvı yağ
 slug: sivi-yag
+letter: S
 lisan: Türkçe
 anlamlar:
 - Havanın normal sıcaklığında sıvı durumunda bulunan her türlü yağ

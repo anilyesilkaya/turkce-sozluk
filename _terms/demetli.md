@@ -2,6 +2,7 @@
 layout: term
 title: demetli
 slug: demetli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Demet biçiminde olan

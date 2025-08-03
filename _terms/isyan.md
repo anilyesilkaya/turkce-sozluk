@@ -2,6 +2,7 @@
 layout: term
 title: isyan
 slug: isyan
+letter: I
 lisan: Arapça ʿiṣyān
 anlamlar:
 - ► başkaldırı

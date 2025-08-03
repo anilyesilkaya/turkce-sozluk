@@ -2,6 +2,7 @@
 layout: term
 title: fokurdatmak
 slug: fokurdatmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fokurdamasını sağlamak

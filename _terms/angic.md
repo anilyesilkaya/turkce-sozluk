@@ -2,6 +2,7 @@
 layout: term
 title: angıç
 slug: angic
+letter: A
 lisan: Türkçe
 anlamlar:
 - Harman zamanı fazla sap yüklemek için öküz ve at arabalarının iki tarafına takılan parmaklık; kanat

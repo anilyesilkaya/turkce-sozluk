@@ -2,6 +2,7 @@
 layout: term
 title: korse
 slug: korse
+letter: K
 lisan: Fransızca corset
 anlamlar:
 - İnce görünmek için kullanılan esnek iç giysisi

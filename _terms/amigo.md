@@ -2,6 +2,7 @@
 layout: term
 title: amigo
 slug: amigo
+letter: A
 lisan: İspanyolca amigo
 anlamlar:
 - Çoğunlukla spor yarışmalarında seyircileri coşturan kimse

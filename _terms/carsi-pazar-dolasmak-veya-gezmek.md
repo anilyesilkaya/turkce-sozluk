@@ -2,6 +2,7 @@
 layout: term
 title: çarşı pazar dolaşmak (veya gezmek)
 slug: carsi-pazar-dolasmak-veya-gezmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - alışveriş edilen her yeri dolaşmak

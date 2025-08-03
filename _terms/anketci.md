@@ -2,6 +2,7 @@
 layout: term
 title: anketçi
 slug: anketci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anket yapan kimse; anketör

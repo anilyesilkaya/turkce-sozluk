@@ -2,6 +2,7 @@
 layout: term
 title: konuşma
 slug: konusma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Konuşmak işi; musahabe

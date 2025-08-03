@@ -2,6 +2,7 @@
 layout: term
 title: kıtipiyoz
 slug: kitipiyoz
+letter: K
 lisan: Rumca
 anlamlar:
 - Değersiz, bayağı, kötü

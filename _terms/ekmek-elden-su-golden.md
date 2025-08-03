@@ -2,6 +2,7 @@
 layout: term
 title: ekmek elden su gölden
 slug: ekmek-elden-su-golden
+letter: E
 lisan: Türkçe
 anlamlar:
 - '"kendisi çalışmayıp başkasının kazancıyla geçinme durumu" anlamında kullanılan bir söz'

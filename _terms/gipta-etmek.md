@@ -2,6 +2,7 @@
 layout: term
 title: gıpta etmek
 slug: gipta-etmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - imrenmek

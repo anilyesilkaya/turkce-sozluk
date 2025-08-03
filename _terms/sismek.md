@@ -2,6 +2,7 @@
 layout: term
 title: şişmek
 slug: sismek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - İçi hava veya gazlarla dolarak gerilmek

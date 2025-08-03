@@ -2,6 +2,7 @@
 layout: term
 title: soluksuzluk
 slug: soluksuzluk
+letter: S
 lisan: Türkçe
 anlamlar:
 - Soluksuz olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: telakki
 slug: telakki
+letter: T
 lisan: Arapça telaḳḳī
 anlamlar:
 - ► anlayış

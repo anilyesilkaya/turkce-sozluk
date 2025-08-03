@@ -2,6 +2,7 @@
 layout: term
 title: post
 slug: post
+letter: P
 lisan: Farsça pūst
 anlamlar:
 - Tüylü hayvan derisi

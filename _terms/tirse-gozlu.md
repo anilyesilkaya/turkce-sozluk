@@ -2,6 +2,7 @@
 layout: term
 title: tirşe gözlü
 slug: tirse-gozlu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Gözü tirşe renkli olan

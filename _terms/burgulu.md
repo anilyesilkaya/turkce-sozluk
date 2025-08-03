@@ -2,6 +2,7 @@
 layout: term
 title: bürgülü
 slug: burgulu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bürgüsü olan

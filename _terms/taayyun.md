@@ -2,6 +2,7 @@
 layout: term
 title: taayyün
 slug: taayyun
+letter: T
 lisan: Arapça taʿayyun
 anlamlar:
 - Belli olma, ortaya çıkma, belirme

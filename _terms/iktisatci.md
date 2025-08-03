@@ -2,6 +2,7 @@
 layout: term
 title: iktisatçı
 slug: iktisatci
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► ekonomist

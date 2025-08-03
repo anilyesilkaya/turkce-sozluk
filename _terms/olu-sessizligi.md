@@ -2,6 +2,7 @@
 layout: term
 title: ölü sessizliği
 slug: olu-sessizligi
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► ölüm sessizliği

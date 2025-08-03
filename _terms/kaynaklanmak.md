@@ -2,6 +2,7 @@
 layout: term
 title: kaynaklanmak
 slug: kaynaklanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir yerden veya bir şeyden beslenmek

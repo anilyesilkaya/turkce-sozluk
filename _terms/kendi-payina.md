@@ -2,6 +2,7 @@
 layout: term
 title: kendi payına
 slug: kendi-payina
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kendi adına, kendine göre

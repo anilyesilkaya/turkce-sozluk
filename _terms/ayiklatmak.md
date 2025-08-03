@@ -2,6 +2,7 @@
 layout: term
 title: ayıklatmak
 slug: ayiklatmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayıklama işini yaptırmak

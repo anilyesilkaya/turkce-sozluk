@@ -2,6 +2,7 @@
 layout: term
 title: toplu iğne
 slug: toplu-igne
+letter: T
 lisan: Türkçe
 anlamlar:
 - Başında küçük bir toparlak bulunan iğne

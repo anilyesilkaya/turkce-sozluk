@@ -2,6 +2,7 @@
 layout: term
 title: ödenti
 slug: odenti
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► aidat

@@ -2,6 +2,7 @@
 layout: term
 title: dibek kafalı
 slug: dibek-kafali
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► kalın kafalı

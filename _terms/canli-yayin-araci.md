@@ -2,6 +2,7 @@
 layout: term
 title: canlı yayın aracı
 slug: canli-yayin-araci
+letter: C
 lisan: Türkçe
 anlamlar:
 - Olay, toplantı, etkinlik vb.nin yaşandığı anda olay yerinden bire bir aktarılabilmesi amacıyla kullanılan, özel donanıma sahip taşıt; naklen yayın aracı

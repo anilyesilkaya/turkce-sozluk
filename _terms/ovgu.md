@@ -2,6 +2,7 @@
 layout: term
 title: övgü
 slug: ovgu
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Birini, bir şeyi övmek için söylenen söz veya yazılan yazı; methiye

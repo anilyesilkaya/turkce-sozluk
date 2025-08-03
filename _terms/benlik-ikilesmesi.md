@@ -2,6 +2,7 @@
 layout: term
 title: benlik ikileşmesi
 slug: benlik-ikilesmesi
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► duygu durumu bozukluğu

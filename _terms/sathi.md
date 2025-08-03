@@ -2,6 +2,7 @@
 layout: term
 title: sathi
 slug: sathi
+letter: S
 lisan: Arapça saṭḥī
 anlamlar:
 - ► yüzeysel

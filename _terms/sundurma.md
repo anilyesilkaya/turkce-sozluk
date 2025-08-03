@@ -2,6 +2,7 @@
 layout: term
 title: sundurma
 slug: sundurma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sundurmak işi

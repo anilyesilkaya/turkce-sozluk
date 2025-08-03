@@ -2,6 +2,7 @@
 layout: term
 title: su yılanı
 slug: su-yilani
+letter: S
 lisan: Türkçe
 anlamlar:
 - Su yılanıgillerden, uzunluğu 50 santimetre kadar olan, su kenarlarında ve bağlarda yaşayan bir sürüngen (Natrix natrix)

@@ -2,6 +2,7 @@
 layout: term
 title: kümbet
 slug: kumbet
+letter: K
 lisan: Farsça gunbed
 anlamlar:
 - ► kubbe

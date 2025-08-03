@@ -2,6 +2,7 @@
 layout: term
 title: minder dışına atmak
 slug: minder-disina-atmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - ortadan kaldırmak, silmek, kovmak

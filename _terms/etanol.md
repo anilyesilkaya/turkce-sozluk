@@ -2,6 +2,7 @@
 layout: term
 title: etanol
 slug: etanol
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► alkol

@@ -2,6 +2,7 @@
 layout: term
 title: enstrümantal
 slug: enstrumantal
+letter: E
 lisan: Fransızca instrumental
 anlamlar:
 - ► sözsüz

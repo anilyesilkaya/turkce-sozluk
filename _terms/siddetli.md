@@ -2,6 +2,7 @@
 layout: term
 title: şiddetli
 slug: siddetli
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Etkisi çok olan; yeğin, zorlu, şedit

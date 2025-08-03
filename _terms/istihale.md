@@ -2,6 +2,7 @@
 layout: term
 title: istihale
 slug: istihale
+letter: I
 lisan: Arapça istiḥāle
 anlamlar:
 - Biçim değiştirme

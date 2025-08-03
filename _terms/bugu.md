@@ -2,6 +2,7 @@
 layout: term
 title: buğu
 slug: bugu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Soğuk bir cisim üzerinde ortamda bulunan havanın veya gazın yoğunlaşmasından ötürü meydana gelmiş ince sıvı katmanı

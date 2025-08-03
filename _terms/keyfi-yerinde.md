@@ -2,6 +2,7 @@
 layout: term
 title: keyfi yerinde
 slug: keyfi-yerinde
+letter: K
 lisan: Türkçe
 anlamlar:
 - Neşesi, sağlığı yerinde olan (kimse); keyfi yolunda

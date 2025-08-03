@@ -2,6 +2,7 @@
 layout: term
 title: bölük pörçük
 slug: boluk-porcuk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Parça parça olmuş; kırpık

@@ -2,6 +2,7 @@
 layout: term
 title: kamçılama
 slug: kamcilama
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kamçılamak işi

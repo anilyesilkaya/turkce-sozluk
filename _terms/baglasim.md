@@ -2,6 +2,7 @@
 layout: term
 title: bağlaşım
 slug: baglasim
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► eşleme

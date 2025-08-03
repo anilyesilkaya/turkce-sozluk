@@ -2,6 +2,7 @@
 layout: term
 title: defosuz
 slug: defosuz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Defosu olmayan

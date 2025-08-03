@@ -2,6 +2,7 @@
 layout: term
 title: metalik
 slug: metalik
+letter: M
 lisan: Fransızca métallique
 anlamlar:
 - ► madenî

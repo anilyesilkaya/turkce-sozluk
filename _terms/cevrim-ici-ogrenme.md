@@ -2,6 +2,7 @@
 layout: term
 title: çevrim içi öğrenme
 slug: cevrim-ici-ogrenme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Genel ağ ve bilişim teknolojileri aracılığı ile gerçekleştirilen öğrenme; elektronik öğrenme, e-öğrenme

@@ -2,6 +2,7 @@
 layout: term
 title: cenah
 slug: cenah
+letter: C
 lisan: Arapça cenāḥ
 anlamlar:
 - Kuşun kanadı

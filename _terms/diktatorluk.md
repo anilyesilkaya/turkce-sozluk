@@ -2,6 +2,7 @@
 layout: term
 title: diktatörlük
 slug: diktatorluk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Diktatör olma durumu; diktatorya

@@ -2,6 +2,7 @@
 layout: term
 title: şükrettirme
 slug: sukrettirme
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şükrettirmek işi

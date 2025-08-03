@@ -2,6 +2,7 @@
 layout: term
 title: leksikolojik
 slug: leksikolojik
+letter: L
 lisan: Fransızca lexicologique
 anlamlar:
 - Sözcük bilimi ile ilgili

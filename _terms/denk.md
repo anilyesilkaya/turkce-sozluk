@@ -2,6 +2,7 @@
 layout: term
 title: denk
 slug: denk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Yük hayvanlarının sağ ve soluna konulan iki yük parçasından her biri

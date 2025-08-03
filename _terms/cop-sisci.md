@@ -2,6 +2,7 @@
 layout: term
 title: çöp şişçi
 slug: cop-sisci
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çöp şiş yapan veya satan kimse

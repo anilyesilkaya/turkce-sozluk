@@ -2,6 +2,7 @@
 layout: term
 title: devriâlem
 slug: devrialem
+letter: D
 lisan: Arapça devr + ʿālem
 anlamlar:
 - Dünyayı dolaşma

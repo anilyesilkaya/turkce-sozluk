@@ -2,6 +2,7 @@
 layout: term
 title: bildirmek
 slug: bildirmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Herhangi bir şeyi haber vermek

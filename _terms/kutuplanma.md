@@ -2,6 +2,7 @@
 layout: term
 title: kutuplanma
 slug: kutuplanma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kutuplanmak işi; polarizasyon

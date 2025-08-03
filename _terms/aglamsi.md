@@ -2,6 +2,7 @@
 layout: term
 title: ağlamsı
 slug: aglamsi
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► ağlamaklı

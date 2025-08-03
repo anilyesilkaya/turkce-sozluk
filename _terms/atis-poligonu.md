@@ -2,6 +2,7 @@
 layout: term
 title: atış poligonu
 slug: atis-poligonu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ateşli silahların nitelikleri, eğitimi veya tatbikatı için tasarlanmış özel tesis; atış yeri, poligon

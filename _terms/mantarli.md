@@ -2,6 +2,7 @@
 layout: term
 title: mantarlı
 slug: mantarli
+letter: M
 lisan: Türkçe
 anlamlar:
 - İçinde mantar bulunan, içine mantar konulmuş olan

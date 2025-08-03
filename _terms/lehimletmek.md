@@ -2,6 +2,7 @@
 layout: term
 title: lehimletmek
 slug: lehimletmek
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lehim yaptırmak

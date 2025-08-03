@@ -2,6 +2,7 @@
 layout: term
 title: yemlikli
 slug: yemlikli
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yemliği olan

@@ -2,6 +2,7 @@
 layout: term
 title: tulumsular
 slug: tulumsular
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► tulumlular

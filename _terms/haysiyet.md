@@ -2,6 +2,7 @@
 layout: term
 title: haysiyet
 slug: haysiyet
+letter: H
 lisan: Arapça ḥays̱iyyet
 anlamlar:
 - ► saygınlık

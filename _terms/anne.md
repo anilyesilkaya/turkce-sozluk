@@ -2,6 +2,7 @@
 layout: term
 title: anne
 slug: anne
+letter: A
 lisan: Türkçe
 anlamlar:
 - Çocuğu olan kadın; aba (I), ana, kocakarı, nene, valide, mader

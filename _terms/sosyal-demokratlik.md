@@ -2,6 +2,7 @@
 layout: term
 title: sosyal demokratlık
 slug: sosyal-demokratlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sosyal demokrat olma durumu

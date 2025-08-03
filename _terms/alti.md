@@ -2,6 +2,7 @@
 layout: term
 title: altı
 slug: alti
+letter: A
 lisan: Türkçe
 anlamlar:
 - Beşten sonra gelen sayının adı; şeş

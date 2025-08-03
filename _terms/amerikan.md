@@ -2,6 +2,7 @@
 layout: term
 title: Amerikan
 slug: amerikan
+letter: A
 lisan: Fransızca américain
 anlamlar:
 - Amerikalılara özgü olan

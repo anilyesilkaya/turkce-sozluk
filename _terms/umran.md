@@ -2,6 +2,7 @@
 layout: term
 title: ümran
 slug: umran
+letter: Ü
 lisan: Arapça ʿumrān
 anlamlar:
 - ► bayındırlık

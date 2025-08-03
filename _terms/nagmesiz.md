@@ -2,6 +2,7 @@
 layout: term
 title: nağmesiz
 slug: nagmesiz
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nağmesi olmayan

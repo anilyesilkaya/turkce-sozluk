@@ -2,6 +2,7 @@
 layout: term
 title: makaslı
 slug: makasli
+letter: M
 lisan: Türkçe
 anlamlar:
 - Makası olan

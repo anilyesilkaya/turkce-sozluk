@@ -2,6 +2,7 @@
 layout: term
 title: canını vermek
 slug: canini-vermek
+letter: C
 lisan: Türkçe
 anlamlar:
 - kendisini feda etmek

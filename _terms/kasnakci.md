@@ -2,6 +2,7 @@
 layout: term
 title: kasnakçı
 slug: kasnakci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kasnak, elek, ölçek vb. tahta işleri yapan kimse

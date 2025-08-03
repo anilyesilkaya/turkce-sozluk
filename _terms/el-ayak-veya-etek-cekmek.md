@@ -2,6 +2,7 @@
 layout: term
 title: el ayak (veya etek) çekmek
 slug: el-ayak-veya-etek-cekmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - uzaklaşmak, kaybolmak

@@ -2,6 +2,7 @@
 layout: term
 title: zahmet çekmek
 slug: zahmet-cekmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - güçlükle karşılaşmak, sıkıntıya katlanmak

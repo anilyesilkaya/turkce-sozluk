@@ -2,6 +2,7 @@
 layout: term
 title: çimdik kadar
 slug: cimdik-kadar
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - çok az miktarda

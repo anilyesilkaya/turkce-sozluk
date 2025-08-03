@@ -2,6 +2,7 @@
 layout: term
 title: kifafınefis etmek
 slug: kifafinefis-etmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - yetinmek, kâfi görmek

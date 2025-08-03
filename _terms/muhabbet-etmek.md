@@ -2,6 +2,7 @@
 layout: term
 title: muhabbet etmek
 slug: muhabbet-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - karşılıklı, dostça konuşmak

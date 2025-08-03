@@ -2,6 +2,7 @@
 layout: term
 title: sorum
 slug: sorum
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► sorumluluk

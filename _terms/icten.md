@@ -2,6 +2,7 @@
 layout: term
 title: içten
 slug: icten
+letter: I
 lisan: Türkçe
 anlamlar:
 - Her türlü çıkar düşüncesinden uzak; ılım ılım, içtenlikli, kalpten, yürekten, kalbî, samimi

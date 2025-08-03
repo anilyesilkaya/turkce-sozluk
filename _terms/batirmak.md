@@ -2,6 +2,7 @@
 layout: term
 title: batırmak
 slug: batirmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir şeyin sıvı veya yumuşak bir maddenin içine gömülmesine yol açmak, batmasını sağlamak

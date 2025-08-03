@@ -2,6 +2,7 @@
 layout: term
 title: vidala
 slug: vidala
+letter: V
 lisan: İtalyanca vitello
 anlamlar:
 - Çanta ve ayakkabı yapılan tabaklanmış dana derisi

@@ -2,6 +2,7 @@
 layout: term
 title: tokuşturmak
 slug: tokusturmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Birbirine dokundurmak, çarpıştırmak

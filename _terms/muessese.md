@@ -2,6 +2,7 @@
 layout: term
 title: müessese
 slug: muessese
+letter: M
 lisan: Arapça muʾessese
 anlamlar:
 - ► kurum (II)

@@ -2,6 +2,7 @@
 layout: term
 title: zahme
 slug: zahme
+letter: Z
 lisan: Arapça żaḫme
 anlamlar:
 - ► mızrap

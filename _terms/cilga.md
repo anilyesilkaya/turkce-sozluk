@@ -2,6 +2,7 @@
 layout: term
 title: cılga
 slug: cilga
+letter: C
 lisan: Türkçe
 anlamlar:
 - Bir arazi veya dağlık alanda hayvanların veya insanların yürüyerek oluşturdukları ince, dar yol

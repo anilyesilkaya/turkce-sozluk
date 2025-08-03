@@ -2,6 +2,7 @@
 layout: term
 title: zübde
 slug: zubde
+letter: Z
 lisan: Arapça zubde
 anlamlar:
 - ► öz (I)

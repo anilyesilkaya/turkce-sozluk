@@ -2,6 +2,7 @@
 layout: term
 title: nasyonal sosyalizm
 slug: nasyonal-sosyalizm
+letter: N
 lisan: Türkçe
 anlamlar:
 - Hitler ve Nasyonal Sosyalist Partinin öğretisi

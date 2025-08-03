@@ -2,6 +2,7 @@
 layout: term
 title: yükün
 slug: yukun
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► iyon

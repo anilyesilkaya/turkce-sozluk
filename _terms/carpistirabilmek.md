@@ -2,6 +2,7 @@
 layout: term
 title: çarpıştırabilmek
 slug: carpistirabilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çarpıştırma ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: artma
 slug: artma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Artmak işi; tezayüt

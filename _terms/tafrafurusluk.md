@@ -2,6 +2,7 @@
 layout: term
 title: tafrafuruşluk
 slug: tafrafurusluk
+letter: T
 lisan: Türkçe
 anlamlar:
 - Böbürlenme, yüksekten atma

@@ -2,6 +2,7 @@
 layout: term
 title: tadını kaçırmak
 slug: tadini-kacirmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - güzel giden bir şeyi tatsız bir duruma sokacak ölçüsüzlüğe vardırmak

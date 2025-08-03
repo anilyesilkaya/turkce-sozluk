@@ -2,6 +2,7 @@
 layout: term
 title: silkelenme
 slug: silkelenme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Silkelenmek işi

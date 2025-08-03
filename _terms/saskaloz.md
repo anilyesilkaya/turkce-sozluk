@@ -2,6 +2,7 @@
 layout: term
 title: şaşkaloz
 slug: saskaloz
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şaşı olan (kimse)

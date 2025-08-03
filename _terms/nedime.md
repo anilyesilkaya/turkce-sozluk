@@ -2,6 +2,7 @@
 layout: term
 title: nedime
 slug: nedime
+letter: N
 lisan: Arapça nedīme
 anlamlar:
 - Gelinin düğün sırasında ihtiyaçlarını karşılamak üzere yanında bulunan yakın kız veya kadın arkadaşı

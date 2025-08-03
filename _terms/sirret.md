@@ -2,6 +2,7 @@
 layout: term
 title: şirret
 slug: sirret
+letter: Ş
 lisan: Arapça şirret
 anlamlar:
 - Kavga çıkarmaktan hoşlanan, çok konuşarak üste çıkan, karşısındakini bastıran, edepsiz (kimse)

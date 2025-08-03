@@ -2,6 +2,7 @@
 layout: term
 title: beyazın adı, esmerin tadı
 slug: beyazin-adi-esmerin-tadi
+letter: B
 lisan: Türkçe
 anlamlar:
 - “beyaz tenli olanlar güzel sayılsa da gerçek güzellik ve şirinlik esmerlerdedir” anlamında kullanılan bir söz

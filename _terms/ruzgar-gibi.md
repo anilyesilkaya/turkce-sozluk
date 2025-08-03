@@ -2,6 +2,7 @@
 layout: term
 title: rüzgâr gibi
 slug: ruzgar-gibi
+letter: R
 lisan: Türkçe
 anlamlar:
 - çabucak

@@ -2,6 +2,7 @@
 layout: term
 title: misafir ağırlamak
 slug: misafir-agirlamak
+letter: M
 lisan: Türkçe
 anlamlar:
 - konuğa gerekli ilgiyi göstermek, ikramda bulunmak

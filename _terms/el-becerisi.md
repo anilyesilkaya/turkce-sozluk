@@ -2,6 +2,7 @@
 layout: term
 title: el becerisi
 slug: el-becerisi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Elle iş yapabilme yeteneği

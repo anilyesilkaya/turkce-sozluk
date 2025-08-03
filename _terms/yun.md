@@ -2,6 +2,7 @@
 layout: term
 title: yün
 slug: yun
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Koyun tüyü

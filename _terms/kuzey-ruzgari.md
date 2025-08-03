@@ -2,6 +2,7 @@
 layout: term
 title: 'kuzey rüzgârı '
 slug: kuzey-ruzgari
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► poyraz

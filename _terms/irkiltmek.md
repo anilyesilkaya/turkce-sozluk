@@ -2,6 +2,7 @@
 layout: term
 title: irkiltmek
 slug: irkiltmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İrkilmesine sebep olmak

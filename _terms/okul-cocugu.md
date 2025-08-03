@@ -2,6 +2,7 @@
 layout: term
 title: okul çocuğu
 slug: okul-cocugu
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► öğrenci

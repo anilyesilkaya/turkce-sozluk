@@ -2,6 +2,7 @@
 layout: term
 title: aktif
 slug: aktif
+letter: A
 lisan: Fransızca actif
 anlamlar:
 - ► etkin

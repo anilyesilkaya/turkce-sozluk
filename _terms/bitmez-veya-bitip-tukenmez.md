@@ -2,6 +2,7 @@
 layout: term
 title: bitmez (veya bitip) tükenmez
 slug: bitmez-veya-bitip-tukenmez
+letter: B
 lisan: Türkçe
 anlamlar:
 - bitmeyen, sonu gelmeyen, uçsuz bucaksız

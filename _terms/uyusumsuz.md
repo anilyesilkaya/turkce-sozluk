@@ -2,6 +2,7 @@
 layout: term
 title: uyuşumsuz
 slug: uyusumsuz
+letter: U
 lisan: Türkçe
 anlamlar:
 - Aralarında uyuşum bulunmayan

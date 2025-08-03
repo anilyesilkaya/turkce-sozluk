@@ -2,6 +2,7 @@
 layout: term
 title: mikropsuz
 slug: mikropsuz
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mikrop içermeyen, mikroptan arındırılmış olan

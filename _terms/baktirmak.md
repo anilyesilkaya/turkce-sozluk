@@ -2,6 +2,7 @@
 layout: term
 title: baktırmak
 slug: baktirmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bakmasına yol açmak, bakmasını sağlamak

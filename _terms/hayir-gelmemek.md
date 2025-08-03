@@ -2,6 +2,7 @@
 layout: term
 title: hayır gelmemek
 slug: hayir-gelmemek
+letter: H
 lisan: Türkçe
 anlamlar:
 - yararlı olmamak

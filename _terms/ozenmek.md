@@ -2,6 +2,7 @@
 layout: term
 title: özenmek
 slug: ozenmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Beğendiği şeye benzemeye çalışmak, o şeyi yapmak için çaba göstermek

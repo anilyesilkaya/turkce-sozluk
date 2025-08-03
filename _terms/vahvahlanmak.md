@@ -2,6 +2,7 @@
 layout: term
 title: vahvahlanmak
 slug: vahvahlanmak
+letter: V
 lisan: Türkçe
 anlamlar:
 - Acınmak, yakınmak

@@ -2,6 +2,7 @@
 layout: term
 title: uğratma
 slug: ugratma
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uğratmak işi

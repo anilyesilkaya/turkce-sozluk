@@ -2,6 +2,7 @@
 layout: term
 title: denizcilik
 slug: denizcilik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Denizcinin yaptığı iş

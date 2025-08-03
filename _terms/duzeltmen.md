@@ -2,6 +2,7 @@
 layout: term
 title: düzeltmen
 slug: duzeltmen
+letter: D
 lisan: Türkçe
 anlamlar:
 - Basılmak üzere dizilmekte olan bir eserin provalarını düzeltme ile görevli kimse; düzeltici, musahhih

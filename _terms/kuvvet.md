@@ -2,6 +2,7 @@
 layout: term
 title: kuvvet
 slug: kuvvet
+letter: K
 lisan: Arapça ḳuvvet
 anlamlar:
 - Fiziksel güç; tüvan

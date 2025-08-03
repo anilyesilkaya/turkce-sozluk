@@ -2,6 +2,7 @@
 layout: term
 title: sancılı
 slug: sancili
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sancıya tutulan, sancısı olan

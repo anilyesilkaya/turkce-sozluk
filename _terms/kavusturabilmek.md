@@ -2,6 +2,7 @@
 layout: term
 title: kavuşturabilmek
 slug: kavusturabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kavuşturma ihtimali veya imkânı bulunmak

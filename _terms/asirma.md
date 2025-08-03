@@ -2,6 +2,7 @@
 layout: term
 title: aşırma
 slug: asirma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aşırmak işi; aşırtı

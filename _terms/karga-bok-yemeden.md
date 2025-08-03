@@ -2,6 +2,7 @@
 layout: term
 title: karga bok yemeden
 slug: karga-bok-yemeden
+letter: K
 lisan: Türkçe
 anlamlar:
 - çok erken bir saatte

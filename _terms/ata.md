@@ -2,6 +2,7 @@
 layout: term
 title: ata
 slug: ata
+letter: A
 lisan: Türkçe
 anlamlar:
 - Büyükbabadan başlayarak geriye doğru atalardan her biri; baba, dede, cet

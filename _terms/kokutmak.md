@@ -2,6 +2,7 @@
 layout: term
 title: kokutmak
 slug: kokutmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Hoş olmayan bir koku bırakmak

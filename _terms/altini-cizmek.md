@@ -2,6 +2,7 @@
 layout: term
 title: altını çizmek
 slug: altini-cizmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir sözün önemini belirtmek, üzerine dikkati çekmek, vurgulamak

@@ -2,6 +2,7 @@
 layout: term
 title: 'kalıp sabun '
 slug: kalip-sabun
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalıplara dökülerek yapılan sert sabun; katı sabun

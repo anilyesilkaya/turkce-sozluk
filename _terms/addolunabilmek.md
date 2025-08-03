@@ -2,6 +2,7 @@
 layout: term
 title: addolunabilmek
 slug: addolunabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► sayılabilmek

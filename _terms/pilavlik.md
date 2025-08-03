@@ -2,6 +2,7 @@
 layout: term
 title: pilavlık
 slug: pilavlik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pilav yapmaya elverişli

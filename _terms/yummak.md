@@ -2,6 +2,7 @@
 layout: term
 title: yummak
 slug: yummak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Kısarak kapamak, sıkarak kapalı duruma getirmek

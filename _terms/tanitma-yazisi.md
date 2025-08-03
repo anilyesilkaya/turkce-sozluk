@@ -2,6 +2,7 @@
 layout: term
 title: tanıtma yazısı
 slug: tanitma-yazisi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Kitap, dergi, film vb. eserlerin özelliklerini genel çizgileriyle anlatan yazı; tanıtmalık

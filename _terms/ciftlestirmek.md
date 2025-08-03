@@ -2,6 +2,7 @@
 layout: term
 title: çiftleştirmek
 slug: ciftlestirmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çift yapmak

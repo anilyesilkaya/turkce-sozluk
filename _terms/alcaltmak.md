@@ -2,6 +2,7 @@
 layout: term
 title: alçaltmak
 slug: alcaltmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alçak duruma getirmek

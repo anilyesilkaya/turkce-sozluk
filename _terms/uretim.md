@@ -2,6 +2,7 @@
 layout: term
 title: üretim
 slug: uretim
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Belirli faaliyet ve işlemler sonucu yeni bir mal veya hizmet meydana getirme; istihsal, prodüksiyon, tüketim karşıtı

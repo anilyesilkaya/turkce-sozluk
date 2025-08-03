@@ -2,6 +2,7 @@
 layout: term
 title: golf
 slug: golf
+letter: G
 lisan: Fransızca golf
 anlamlar:
 - Çimenlerle kaplı, açık, geniş bir alanda, ufak bir topu özel sopalarla ilerleterek belli bir deliğe sokma amaçlı oynanan oyun

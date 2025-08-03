@@ -2,6 +2,7 @@
 layout: term
 title: haydi canım sen de
 slug: haydi-canim-sen-de
+letter: H
 lisan: Türkçe
 anlamlar:
 - '"böyle şey olmaz, sana inanmam" anlamında kullanılan bir söz'

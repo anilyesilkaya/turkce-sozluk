@@ -2,6 +2,7 @@
 layout: term
 title: liyakatsizce
 slug: liyakatsizce
+letter: L
 lisan: Türkçe
 anlamlar:
 - Liyakatsiz bir biçimde

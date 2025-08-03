@@ -2,6 +2,7 @@
 layout: term
 title: çilekçilik
 slug: cilekcilik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çilek yetiştirme veya satma işi

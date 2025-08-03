@@ -2,6 +2,7 @@
 layout: term
 title: ayinicem
 slug: ayinicem
+letter: A
 lisan: Farsça āyīn + cemʿ
 anlamlar:
 - ► cem ayini

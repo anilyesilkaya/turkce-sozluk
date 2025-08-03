@@ -2,6 +2,7 @@
 layout: term
 title: boğum boğum
 slug: bogum-bogum
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çok boğumlu

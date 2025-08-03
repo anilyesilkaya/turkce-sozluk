@@ -2,6 +2,7 @@
 layout: term
 title: Cermence
 slug: cermence
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cermenlerin kullandığı dil

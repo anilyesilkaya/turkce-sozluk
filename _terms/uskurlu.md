@@ -2,6 +2,7 @@
 layout: term
 title: uskurlu
 slug: uskurlu
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uskuru olan

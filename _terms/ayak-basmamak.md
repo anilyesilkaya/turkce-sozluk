@@ -2,6 +2,7 @@
 layout: term
 title: ayak basmamak
 slug: ayak-basmamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir yere hiç uğramamak

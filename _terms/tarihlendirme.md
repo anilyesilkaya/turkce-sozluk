@@ -2,6 +2,7 @@
 layout: term
 title: tarihlendirme
 slug: tarihlendirme
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tarihlendirmek işi

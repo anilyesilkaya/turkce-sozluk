@@ -2,6 +2,7 @@
 layout: term
 title: zekâ yeteneği
 slug: zeka-yetenegi
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Bir kimsenin zihin gücü ve kabiliyeti

@@ -2,6 +2,7 @@
 layout: term
 title: biçimselleştirmek
 slug: bicimsellestirmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Biçimsel duruma getirmek; şekilselleştirmek

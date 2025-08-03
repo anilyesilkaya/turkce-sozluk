@@ -2,6 +2,7 @@
 layout: term
 title: lakap
 slug: lakap
+letter: L
 lisan: Arapça laḳab
 anlamlar:
 - Bir kimseye, bir aileye kendi adından ayrı olarak sonradan takılan, o kimsenin veya o ailenin bir özelliğinden kaynaklanan ad

@@ -2,6 +2,7 @@
 layout: term
 title: müşkülpesent
 slug: muskulpesent
+letter: M
 lisan: Arapça muşkil + Farsça -pesend
 anlamlar:
 - ► güçbeğenir

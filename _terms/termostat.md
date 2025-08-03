@@ -2,6 +2,7 @@
 layout: term
 title: termostat
 slug: termostat
+letter: T
 lisan: Fransızca thermostat
 anlamlar:
 - ► ısıdenetir

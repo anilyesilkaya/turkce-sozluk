@@ -2,6 +2,7 @@
 layout: term
 title: ilzam etmek
 slug: ilzam-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - susturmak

@@ -2,6 +2,7 @@
 layout: term
 title: kafa koçanı
 slug: kafa-kocani
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► nüfus cüzdanı

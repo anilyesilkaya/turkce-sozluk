@@ -2,6 +2,7 @@
 layout: term
 title: viran olmak
 slug: viran-olmak
+letter: V
 lisan: Türkçe
 anlamlar:
 - viran duruma gelmek, haraplaşmak

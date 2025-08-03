@@ -2,6 +2,7 @@
 layout: term
 title: yere sağlam basmak
 slug: yere-saglam-basmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - titiz ve dikkatli davranmak

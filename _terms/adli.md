@@ -2,6 +2,7 @@
 layout: term
 title: adli
 slug: adli
+letter: A
 lisan: Arapça ʿadlī
 anlamlar:
 - Adaletle ilgili

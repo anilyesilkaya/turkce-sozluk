@@ -2,6 +2,7 @@
 layout: term
 title: ağyar
 slug: agyar
+letter: A
 lisan: Arapça aġyār
 anlamlar:
 - Başkaları, yabancılar, eller

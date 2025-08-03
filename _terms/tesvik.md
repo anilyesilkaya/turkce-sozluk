@@ -2,6 +2,7 @@
 layout: term
 title: teşvik
 slug: tesvik
+letter: T
 lisan: Arapça teşvīḳ
 anlamlar:
 - ► isteklendirme

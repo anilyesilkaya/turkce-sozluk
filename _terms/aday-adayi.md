@@ -2,6 +2,7 @@
 layout: term
 title: aday adayı
 slug: aday-adayi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Herhangi bir işi yapmak, bir görevi üstlenmek için adaylık aşamasını kazanmak amacıyla başvuran kimse

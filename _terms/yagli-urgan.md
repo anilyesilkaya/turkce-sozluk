@@ -2,6 +2,7 @@
 layout: term
 title: yağlı urgan
 slug: yagli-urgan
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► darağacı

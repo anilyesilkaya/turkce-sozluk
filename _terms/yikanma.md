@@ -2,6 +2,7 @@
 layout: term
 title: yıkanma
 slug: yikanma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yıkanmak işi

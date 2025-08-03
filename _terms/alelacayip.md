@@ -2,6 +2,7 @@
 layout: term
 title: alelacayip
 slug: alelacayip
+letter: A
 lisan: Arapça ʿalā'l-ʿacāʾib
 anlamlar:
 - Çok acayip, şaşılacak nitelikte, pek garip

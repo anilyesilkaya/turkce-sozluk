@@ -2,6 +2,7 @@
 layout: term
 title: üstüvane
 slug: ustuvane
+letter: Ü
 lisan: Farsça ustuvāne
 anlamlar:
 - ► silindir

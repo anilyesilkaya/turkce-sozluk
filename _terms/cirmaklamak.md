@@ -2,6 +2,7 @@
 layout: term
 title: cırmaklamak
 slug: cirmaklamak
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► tırmalamak

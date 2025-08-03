@@ -2,6 +2,7 @@
 layout: term
 title: arziyat
 slug: arziyat
+letter: A
 lisan: Arapça arżiyyāt
 anlamlar:
 - ► yer bilimi

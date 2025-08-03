@@ -2,6 +2,7 @@
 layout: term
 title: yatık döner
 slug: yatik-doner
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► Oltu kebabı

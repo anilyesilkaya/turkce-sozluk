@@ -2,6 +2,7 @@
 layout: term
 title: yüze vurmak
 slug: yuze-vurmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yüzüne vurmak

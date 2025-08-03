@@ -2,6 +2,7 @@
 layout: term
 title: üstüne titremek
 slug: ustune-titremek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - bir şeye veya kimseye sevgi, özen göstermek

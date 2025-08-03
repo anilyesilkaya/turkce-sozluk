@@ -2,6 +2,7 @@
 layout: term
 title: sebzeci
 slug: sebzeci
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sebze satan kimse; zerzevatçı

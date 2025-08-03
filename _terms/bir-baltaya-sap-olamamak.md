@@ -2,6 +2,7 @@
 layout: term
 title: bir baltaya sap olamamak
 slug: bir-baltaya-sap-olamamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - belli bir iş sahibi olamamak

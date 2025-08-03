@@ -2,6 +2,7 @@
 layout: term
 title: sekizgen
 slug: sekizgen
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sekiz kenarlı çokgen

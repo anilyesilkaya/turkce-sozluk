@@ -2,6 +2,7 @@
 layout: term
 title: çabuklaştırılma
 slug: cabuklastirilma
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çabuklaştırılmak işi

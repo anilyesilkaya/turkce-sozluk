@@ -2,6 +2,7 @@
 layout: term
 title: yüzbeyüz
 slug: yuzbeyuz
+letter: Y
 lisan: Türkçe yüz + Farsça -be + Türkçe yüz
 anlamlar:
 - ► karşı karşıya

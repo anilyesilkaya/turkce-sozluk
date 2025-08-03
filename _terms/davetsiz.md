@@ -2,6 +2,7 @@
 layout: term
 title: davetsiz
 slug: davetsiz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çağrılmayan

@@ -2,6 +2,7 @@
 layout: term
 title: top sakal
 slug: top-sakal
+letter: T
 lisan: Türkçe
 anlamlar:
 - Çene bölgesinde yusyuvarlak düzeltilip kesilmiş olan, uzun ve gür sakal

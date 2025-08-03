@@ -2,6 +2,7 @@
 layout: term
 title: taşçı
 slug: tasci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taş yontan, satan veya taş ocağından taş çıkaran kimse

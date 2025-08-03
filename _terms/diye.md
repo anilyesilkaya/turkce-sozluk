@@ -2,6 +2,7 @@
 layout: term
 title: diye
 slug: diye
+letter: D
 lisan: Türkçe
 anlamlar:
 - Adında

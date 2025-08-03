@@ -2,6 +2,7 @@
 layout: term
 title: pörtlemek
 slug: portlemek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Göz, çeşitli sebeplerle açılmak, dışarıya doğru fırlamak

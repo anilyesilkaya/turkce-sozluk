@@ -2,6 +2,7 @@
 layout: term
 title: hünkâr
 slug: hunkar
+letter: H
 lisan: Farsça ḫunkār
 anlamlar:
 - Osmanlılarda yalnız padişahlar için kullanılan bir ünvan

@@ -2,6 +2,7 @@
 layout: term
 title: refakatçi
 slug: refakatci
+letter: R
 lisan: Türkçe
 anlamlar:
 - Hastanelerde hastanın yanında kalan, hastaya yardımcı olan kimse; eşlikçi

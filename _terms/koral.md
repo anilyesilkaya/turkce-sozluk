@@ -2,6 +2,7 @@
 layout: term
 title: koral
 slug: koral
+letter: K
 lisan: Fransızca choral
 anlamlar:
 - Koro için yazılmış dinî ezgi

@@ -2,6 +2,7 @@
 layout: term
 title: hırpanileşmek
 slug: hirpanilesmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - Derbeder, perişan, kılıksız bir duruma girmek

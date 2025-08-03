@@ -2,6 +2,7 @@
 layout: term
 title: tersinden okumak
 slug: tersinden-okumak
+letter: T
 lisan: Türkçe
 anlamlar:
 - yanlış anlamak

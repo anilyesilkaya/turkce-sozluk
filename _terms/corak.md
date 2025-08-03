@@ -2,6 +2,7 @@
 layout: term
 title: çorak
 slug: corak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Verimli olmayan (toprak); çöllük, hamhalat

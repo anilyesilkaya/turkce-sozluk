@@ -2,6 +2,7 @@
 layout: term
 title: gübreli
 slug: gubreli
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gübrelenmiş olan

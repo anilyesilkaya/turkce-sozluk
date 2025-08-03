@@ -2,6 +2,7 @@
 layout: term
 title: beceriklilik
 slug: beceriklilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Becerikli olma durumu; becerililik, maharetlilik, dirayet

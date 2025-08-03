@@ -2,6 +2,7 @@
 layout: term
 title: uyak
 slug: uyak
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► kafiye

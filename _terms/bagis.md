@@ -2,6 +2,7 @@
 layout: term
 title: bağış
 slug: bagis
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir kimsenin, kuruluşun veya ülkenin ayni veya nakdi varlıklarını kendi iradesi ile bir başka kişi, kurum veya tüzel kişiliklere karşılıksız olarak devretmesi; hibe, teberru

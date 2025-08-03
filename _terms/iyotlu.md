@@ -2,6 +2,7 @@
 layout: term
 title: iyotlu
 slug: iyotlu
+letter: I
 lisan: Türkçe
 anlamlar:
 - İyot içeren

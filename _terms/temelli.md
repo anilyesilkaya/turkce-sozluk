@@ -2,6 +2,7 @@
 layout: term
 title: temelli
 slug: temelli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Herhangi bir nitelikte temeli olan

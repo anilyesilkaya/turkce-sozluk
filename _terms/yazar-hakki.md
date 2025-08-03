@@ -2,6 +2,7 @@
 layout: term
 title: yazar hakkı
 slug: yazar-hakki
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► telif hakkı

@@ -2,6 +2,7 @@
 layout: term
 title: savurta savurta
 slug: savurta-savurta
+letter: S
 lisan: Türkçe
 anlamlar:
 - Savurarak

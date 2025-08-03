@@ -2,6 +2,7 @@
 layout: term
 title: düşünsel
 slug: dusunsel
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düşünce ile ilgili, düşünce sonucu ortaya çıkan, düşünceye dayanan; fikrî

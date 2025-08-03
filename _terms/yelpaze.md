@@ -2,6 +2,7 @@
 layout: term
 title: yelpaze
 slug: yelpaze
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Sallandığında küçük bir hava akımı yapan ve özellikle yüzü serinletmeye yarayan, katlanabilir, taşınabilir araç

@@ -2,6 +2,7 @@
 layout: term
 title: kıtlaşmak
 slug: kitlasmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - İhtiyacı karşılayamamak, kıt duruma gelmek

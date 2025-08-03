@@ -2,6 +2,7 @@
 layout: term
 title: dizdar
 slug: dizdar
+letter: D
 lisan: Farsça dizdār
 anlamlar:
 - Kale bekçisi, kale muhafızı

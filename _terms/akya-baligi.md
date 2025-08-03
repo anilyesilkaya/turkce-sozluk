@@ -2,6 +2,7 @@
 layout: term
 title: akya balığı
 slug: akya-baligi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Uskumrugillerden, ufak pullu, 10-60 kilogram gelebilen bir balık; akbalık (Lichia amia)

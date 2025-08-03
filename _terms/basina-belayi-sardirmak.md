@@ -2,6 +2,7 @@
 layout: term
 title: başına belayı sardırmak
 slug: basina-belayi-sardirmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - sıkıntılı bir duruma düşürmek

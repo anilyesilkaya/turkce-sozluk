@@ -2,6 +2,7 @@
 layout: term
 title: nefes etmek
 slug: nefes-etmek
+letter: N
 lisan: Türkçe
 anlamlar:
 - boş bir inanışa göre, rahatsızlığı, illeti geçirmek için okuyup üflemek

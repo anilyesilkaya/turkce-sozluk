@@ -2,6 +2,7 @@
 layout: term
 title: hunharlık
 slug: hunharlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hunhar olma durumu

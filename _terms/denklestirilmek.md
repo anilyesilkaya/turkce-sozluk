@@ -2,6 +2,7 @@
 layout: term
 title: denkleştirilmek
 slug: denklestirilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Denk duruma gelmesi sağlanmak

@@ -2,6 +2,7 @@
 layout: term
 title: uzlaşmalı
 slug: uzlasmali
+letter: U
 lisan: Türkçe
 anlamlar:
 - Aralarında uzlaşma bulunan

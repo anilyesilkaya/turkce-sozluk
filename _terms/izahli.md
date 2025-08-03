@@ -2,6 +2,7 @@
 layout: term
 title: izahlı
 slug: izahli
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► açıklamalı

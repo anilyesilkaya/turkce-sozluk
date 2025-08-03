@@ -2,6 +2,7 @@
 layout: term
 title: sarmalanmak
 slug: sarmalanmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sarmalama işine konu olmak veya sarmalama işi yapılmak

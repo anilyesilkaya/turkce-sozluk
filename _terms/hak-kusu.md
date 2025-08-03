@@ -2,6 +2,7 @@
 layout: term
 title: hak kuşu
 slug: hak-kusu
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► bataklık baykuşu

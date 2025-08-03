@@ -2,6 +2,7 @@
 layout: term
 title: füsun
 slug: fusun
+letter: F
 lisan: Farsça fusūn
 anlamlar:
 - ► büyü

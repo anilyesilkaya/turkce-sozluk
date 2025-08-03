@@ -2,6 +2,7 @@
 layout: term
 title: basma
 slug: basma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Basmak işi; tabetme

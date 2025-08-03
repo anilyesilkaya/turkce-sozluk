@@ -2,6 +2,7 @@
 layout: term
 title: süzücü
 slug: suzucu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Süzme özelliği olan

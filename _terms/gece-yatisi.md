@@ -2,6 +2,7 @@
 layout: term
 title: gece yatısı
 slug: gece-yatisi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Geceyi bir yerde konuk olarak geçirme

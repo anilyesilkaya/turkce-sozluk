@@ -2,6 +2,7 @@
 layout: term
 title: kısmen
 slug: kismen
+letter: K
 lisan: Arapça ḳismen
 anlamlar:
 - Bazı bakımdan, bazı yönden

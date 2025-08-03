@@ -2,6 +2,7 @@
 layout: term
 title: karo
 slug: karo
+letter: K
 lisan: Fransızca carreau
 anlamlar:
 - Betondan yapılmış dört köşe döşeme taşı

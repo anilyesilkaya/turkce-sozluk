@@ -2,6 +2,7 @@
 layout: term
 title: lavabolu
 slug: lavabolu
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lavabosu olan

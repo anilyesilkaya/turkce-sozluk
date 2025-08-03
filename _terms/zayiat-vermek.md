@@ -2,6 +2,7 @@
 layout: term
 title: zayiat vermek
 slug: zayiat-vermek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - kayba uğramak, zarar ziyan görmek

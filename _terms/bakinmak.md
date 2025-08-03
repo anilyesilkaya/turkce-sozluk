@@ -2,6 +2,7 @@
 layout: term
 title: bakınmak
 slug: bakinmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çevreye göz gezdirmek, araştırmak

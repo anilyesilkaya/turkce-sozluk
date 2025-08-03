@@ -2,6 +2,7 @@
 layout: term
 title: erdirebilmek
 slug: erdirebilmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Erdirme ihtimali veya imkânı bulunmak

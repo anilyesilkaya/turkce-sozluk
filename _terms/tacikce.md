@@ -2,6 +2,7 @@
 layout: term
 title: Tacikçe
 slug: tacikce
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taciklerin kullandığı dil

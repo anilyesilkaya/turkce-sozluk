@@ -2,6 +2,7 @@
 layout: term
 title: dümen neferi
 slug: dumen-neferi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Gemilerde dümeni kullanan kimse

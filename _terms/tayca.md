@@ -2,6 +2,7 @@
 layout: term
 title: Tayca
 slug: tayca
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taylandlıların kullandığı dil

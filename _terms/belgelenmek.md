@@ -2,6 +2,7 @@
 layout: term
 title: belgelenmek
 slug: belgelenmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belgeleme işine konu olmak

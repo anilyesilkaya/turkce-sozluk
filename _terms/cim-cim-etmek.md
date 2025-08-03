@@ -2,6 +2,7 @@
 layout: term
 title: çim çim etmek
 slug: cim-cim-etmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - isteksiz davranmak

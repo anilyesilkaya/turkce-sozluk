@@ -2,6 +2,7 @@
 layout: term
 title: idarece
 slug: idarece
+letter: I
 lisan: Türkçe
 anlamlar:
 - İdare yönünden, idare tarafından

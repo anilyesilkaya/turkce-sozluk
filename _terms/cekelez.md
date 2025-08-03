@@ -2,6 +2,7 @@
 layout: term
 title: çekelez
 slug: cekelez
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► sincap

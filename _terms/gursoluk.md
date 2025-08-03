@@ -2,6 +2,7 @@
 layout: term
 title: gürsoluk
 slug: gursoluk
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► soluk soluğa

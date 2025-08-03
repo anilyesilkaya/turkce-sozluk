@@ -2,6 +2,7 @@
 layout: term
 title: özdeşleme
 slug: ozdesleme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Özdeşlemek işi

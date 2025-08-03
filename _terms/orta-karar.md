@@ -2,6 +2,7 @@
 layout: term
 title: orta karar
 slug: orta-karar
+letter: O
 lisan: Türkçe
 anlamlar:
 - Orta derecede, biraz uygun

@@ -2,6 +2,7 @@
 layout: term
 title: kara haber
 slug: kara-haber
+letter: K
 lisan: Türkçe
 anlamlar:
 - Ölüm veya felaket haberi; kötü haber

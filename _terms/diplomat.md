@@ -2,6 +2,7 @@
 layout: term
 title: diplomat
 slug: diplomat
+letter: D
 lisan: Fransızca diplomate
 anlamlar:
 - Dış politikayla uğraşan ve ülkesini temsil etmekle görevlendirilen kimse

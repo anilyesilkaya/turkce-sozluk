@@ -2,6 +2,7 @@
 layout: term
 title: toparlanabilmek
 slug: toparlanabilmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Toparlanma ihtimali veya imkânı bulunmak

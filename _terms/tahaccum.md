@@ -2,6 +2,7 @@
 layout: term
 title: tahaccüm
 slug: tahaccum
+letter: T
 lisan: Arapça taḥaccum
 anlamlar:
 - ► büyüme

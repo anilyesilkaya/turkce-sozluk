@@ -2,6 +2,7 @@
 layout: term
 title: lohusa şerbeti
 slug: lohusa-serbeti
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lohusa şekerinden yapılan, doğum dolayısıyla kutlamaya gelenlere sunulan şerbet

@@ -2,6 +2,7 @@
 layout: term
 title: yosun bağlamak (veya tutmak)
 slug: yosun-baglamak-veya-tutmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - üzerini yosun kaplamak

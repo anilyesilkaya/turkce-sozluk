@@ -2,6 +2,7 @@
 layout: term
 title: tereddi
 slug: tereddi
+letter: T
 lisan: Arapça tereddī
 anlamlar:
 - ► yozlaşma

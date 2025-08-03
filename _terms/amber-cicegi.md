@@ -2,6 +2,7 @@
 layout: term
 title: amber çiçeği
 slug: amber-cicegi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Amber ağacının toparlak, fındık büyüklüğünde, altın sarısı renginde güzel kokulu çiçeği

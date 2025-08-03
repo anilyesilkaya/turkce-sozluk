@@ -2,6 +2,7 @@
 layout: term
 title: etüt
 slug: etut
+letter: E
 lisan: Fransızca étude
 anlamlar:
 - Herhangi bir konuda yapılan inceleme, araştırma

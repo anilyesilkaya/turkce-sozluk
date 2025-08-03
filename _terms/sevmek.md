@@ -2,6 +2,7 @@
 layout: term
 title: sevmek
 slug: sevmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sevgi ve bağlılık duymak

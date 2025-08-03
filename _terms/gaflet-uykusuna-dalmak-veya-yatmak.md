@@ -2,6 +2,7 @@
 layout: term
 title: gaflet uykusuna dalmak (veya yatmak)
 slug: gaflet-uykusuna-dalmak-veya-yatmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - dalgınlıktan ileri gelen uyuşukluk içinde olmak

@@ -2,6 +2,7 @@
 layout: term
 title: kendini dirhem dirhem satmak
 slug: kendini-dirhem-dirhem-satmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - çok nazlı davranmak, ağırdan almak

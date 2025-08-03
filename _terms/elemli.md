@@ -2,6 +2,7 @@
 layout: term
 title: elemli
 slug: elemli
+letter: E
 lisan: Türkçe
 anlamlar:
 - Kederi olan

@@ -2,6 +2,7 @@
 layout: term
 title: diyar
 slug: diyar
+letter: D
 lisan: Arapça diyār
 anlamlar:
 - ► ülke

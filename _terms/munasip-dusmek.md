@@ -2,6 +2,7 @@
 layout: term
 title: münasip düşmek
 slug: munasip-dusmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - uygun düşmek

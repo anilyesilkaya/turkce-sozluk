@@ -2,6 +2,7 @@
 layout: term
 title: giderayak
 slug: giderayak
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gitme anında, gitmek üzereyken

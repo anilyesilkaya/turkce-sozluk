@@ -2,6 +2,7 @@
 layout: term
 title: masasızlık
 slug: masasizlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Masasız olma durumu

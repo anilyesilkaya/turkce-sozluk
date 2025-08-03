@@ -2,6 +2,7 @@
 layout: term
 title: bürüyebilme
 slug: buruyebilme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bürüyebilmek işi

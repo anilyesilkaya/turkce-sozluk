@@ -2,6 +2,7 @@
 layout: term
 title: anırış
 slug: aniris
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anırmak işi

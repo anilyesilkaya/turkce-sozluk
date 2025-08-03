@@ -2,6 +2,7 @@
 layout: term
 title: zamanı avlamak
 slug: zamani-avlamak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - uygun zamanı bulmak

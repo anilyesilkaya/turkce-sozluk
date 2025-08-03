@@ -2,6 +2,7 @@
 layout: term
 title: postayı kesmek
 slug: postayi-kesmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - ilgiyi kesmek

@@ -2,6 +2,7 @@
 layout: term
 title: izafe etmek
 slug: izafe-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - bir şeyi başka bir şeye veya bir nedene bağlamak

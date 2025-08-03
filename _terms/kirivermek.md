@@ -2,6 +2,7 @@
 layout: term
 title: kırıvermek
 slug: kirivermek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çabucak kırmak

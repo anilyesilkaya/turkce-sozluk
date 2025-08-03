@@ -2,6 +2,7 @@
 layout: term
 title: anlam daralması
 slug: anlam-daralmasi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kelimenin anlam bakımından zamanla daralmaya uğrayarak eskiden ifade ettiği anlamın sadece bir bölümünü anlatır duruma gelmesi

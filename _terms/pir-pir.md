@@ -2,6 +2,7 @@
 layout: term
 title: pır pır
 slug: pir-pir
+letter: P
 lisan: Türkçe
 anlamlar:
 - Genellikle kuş kanadının çıkardığı ses

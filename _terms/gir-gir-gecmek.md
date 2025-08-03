@@ -2,6 +2,7 @@
 layout: term
 title: gır gır geçmek
 slug: gir-gir-gecmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - alay etmek

@@ -2,6 +2,7 @@
 layout: term
 title: zayıflayabilmek
 slug: zayiflayabilmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zayıflama ihtimali veya imkânı bulunmak

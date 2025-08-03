@@ -2,6 +2,7 @@
 layout: term
 title: bakış tarzı
 slug: bakis-tarzi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Algılama ve değerlendirme biçimi

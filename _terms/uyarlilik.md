@@ -2,6 +2,7 @@
 layout: term
 title: uyarlılık
 slug: uyarlilik
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► uyumluluk

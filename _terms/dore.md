@@ -2,6 +2,7 @@
 layout: term
 title: dore
 slug: dore
+letter: D
 lisan: Fransızca doré
 anlamlar:
 - ► altın sarısı

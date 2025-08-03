@@ -2,6 +2,7 @@
 layout: term
 title: açık celse
 slug: acik-celse
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► açık duruşma

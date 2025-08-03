@@ -2,6 +2,7 @@
 layout: term
 title: halledebilmek
 slug: halledebilmek
+letter: H
 lisan: Arapça ḥall + Türkçe edebilmek
 anlamlar:
 - Halletme ihtimali veya imkânı bulunmak

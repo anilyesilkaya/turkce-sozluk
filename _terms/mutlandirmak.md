@@ -2,6 +2,7 @@
 layout: term
 title: mutlandırmak
 slug: mutlandirmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mutlanmasına yol açmak, mutlanmasını sağlamak

@@ -2,6 +2,7 @@
 layout: term
 title: seyahat
 slug: seyahat
+letter: S
 lisan: Arapça siyāḥat
 anlamlar:
 - ► yolculuk

@@ -2,6 +2,7 @@
 layout: term
 title: öyle öyle
 slug: oyle-oyle
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► böylece

@@ -2,6 +2,7 @@
 layout: term
 title: ıslanış
 slug: islanis
+letter: I
 lisan: Türkçe
 anlamlar:
 - Islanmak işi

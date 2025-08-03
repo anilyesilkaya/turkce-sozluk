@@ -2,6 +2,7 @@
 layout: term
 title: perdah
 slug: perdah
+letter: P
 lisan: Farsça perdāḫt
 anlamlar:
 - Bir nesneye parlaklık verme

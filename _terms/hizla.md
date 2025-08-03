@@ -2,6 +2,7 @@
 layout: term
 title: hızla
 slug: hizla
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► çabucak

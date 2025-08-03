@@ -2,6 +2,7 @@
 layout: term
 title: kertikli
 slug: kertikli
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► çentikli

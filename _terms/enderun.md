@@ -2,6 +2,7 @@
 layout: term
 title: enderun
 slug: enderun
+letter: E
 lisan: Farsça enderūn
 anlamlar:
 - Klasik dönem Osmanlı saraylarında sultanın hayatını geçirdiği, harem ve hazine dairelerinin bulunduğu iç bölüm

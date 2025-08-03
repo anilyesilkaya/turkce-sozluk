@@ -2,6 +2,7 @@
 layout: term
 title: bir koşu
 slug: bir-kosu
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► çabucak

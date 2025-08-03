@@ -2,6 +2,7 @@
 layout: term
 title: sorit
 slug: sorit
+letter: S
 lisan: Fransızca sorite
 anlamlar:
 - Öncül sayısı ikiden çok olan tasımsal çıkarım

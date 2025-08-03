@@ -2,6 +2,7 @@
 layout: term
 title: uzun vadeli
 slug: uzun-vadeli
+letter: U
 lisan: Türkçe
 anlamlar:
 - Süresi uzun olan

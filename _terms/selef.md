@@ -2,6 +2,7 @@
 layout: term
 title: selef
 slug: selef
+letter: S
 lisan: Arapça selef
 anlamlar:
 - Bir görevde, meslekte kendinden önce bulunan ve yerine geçilen kimse; öncel, halef karşıtı

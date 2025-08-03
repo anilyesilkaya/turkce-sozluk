@@ -2,6 +2,7 @@
 layout: term
 title: geçimsizleşmek
 slug: gecimsizlesmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Çevresindekilerle iyi geçinememek

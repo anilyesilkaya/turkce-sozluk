@@ -2,6 +2,7 @@
 layout: term
 title: çılgına dönmek
 slug: cilgina-donmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - sevinç, öfke, kızgınlık, korku vb. duygular sonucu aşırı ölçüde heyecanlanmak

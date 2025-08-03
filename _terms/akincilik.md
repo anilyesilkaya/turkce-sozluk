@@ -2,6 +2,7 @@
 layout: term
 title: akıncılık
 slug: akincilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Akıncı olma durumu

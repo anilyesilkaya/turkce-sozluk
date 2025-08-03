@@ -2,6 +2,7 @@
 layout: term
 title: canevi
 slug: canevi
+letter: C
 lisan: Türkçe
 anlamlar:
 - Kalbin altındaki bölge

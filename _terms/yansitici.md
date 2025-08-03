@@ -2,6 +2,7 @@
 layout: term
 title: yansıtıcı
 slug: yansitici
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Işık, ses, görüntü vb.ni geri göndermek, yansımasını sağlamak amacıyla kullanılan araç; yansıtaç, reflektör

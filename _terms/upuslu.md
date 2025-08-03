@@ -2,6 +2,7 @@
 layout: term
 title: upuslu
 slug: upuslu
+letter: U
 lisan: Türkçe
 anlamlar:
 - Çok uslu

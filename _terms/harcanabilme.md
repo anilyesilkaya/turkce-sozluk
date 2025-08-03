@@ -2,6 +2,7 @@
 layout: term
 title: harcanabilme
 slug: harcanabilme
+letter: H
 lisan: Türkçe
 anlamlar:
 - Harcanabilmek işi

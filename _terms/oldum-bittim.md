@@ -2,6 +2,7 @@
 layout: term
 title: oldum bittim
 slug: oldum-bittim
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► oldum olası

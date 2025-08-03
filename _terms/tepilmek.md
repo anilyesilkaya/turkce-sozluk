@@ -2,6 +2,7 @@
 layout: term
 title: tepilmek
 slug: tepilmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tepme işi yapılmak

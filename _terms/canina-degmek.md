@@ -2,6 +2,7 @@
 layout: term
 title: canına değmek
 slug: canina-degmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - çok hoşlanmak

@@ -2,6 +2,7 @@
 layout: term
 title: kadın kadıncık
 slug: kadin-kadincik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Hanımefendi, terbiyeli, ağırbaşlı kadın

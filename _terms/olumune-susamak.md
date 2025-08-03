@@ -2,6 +2,7 @@
 layout: term
 title: ölümüne susamak
 slug: olumune-susamak
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ölümle sonuçlanabilecek davranışlarda bulunmak

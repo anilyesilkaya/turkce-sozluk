@@ -2,6 +2,7 @@
 layout: term
 title: caydırılmak
 slug: caydirilmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - Caydırma işi yapılmak

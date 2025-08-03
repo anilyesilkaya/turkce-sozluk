@@ -2,6 +2,7 @@
 layout: term
 title: erişkin
 slug: eriskin
+letter: E
 lisan: Türkçe
 anlamlar:
 - Beden gelişimi tamamlanmış olan; kâhil

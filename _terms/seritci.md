@@ -2,6 +2,7 @@
 layout: term
 title: şeritçi
 slug: seritci
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Süs şeridi yapan veya satan kimse

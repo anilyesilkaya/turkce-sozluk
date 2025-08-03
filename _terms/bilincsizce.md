@@ -2,6 +2,7 @@
 layout: term
 title: bilinçsizce
 slug: bilincsizce
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilinçsiz bir biçimde; şuursuzca

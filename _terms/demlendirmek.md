@@ -2,6 +2,7 @@
 layout: term
 title: demlendirmek
 slug: demlendirmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► demlemek

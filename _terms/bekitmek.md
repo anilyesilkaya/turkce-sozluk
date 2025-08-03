@@ -2,6 +2,7 @@
 layout: term
 title: bekitmek
 slug: bekitmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► tıkamak

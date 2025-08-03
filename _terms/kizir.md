@@ -2,6 +2,7 @@
 layout: term
 title: kizir
 slug: kizir
+letter: K
 lisan: Türkçe
 anlamlar:
 - Köy muhtarının yardımcısı

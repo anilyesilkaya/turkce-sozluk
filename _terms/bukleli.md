@@ -2,6 +2,7 @@
 layout: term
 title: bukleli
 slug: bukleli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kıvrım kıvrım olan (saç)

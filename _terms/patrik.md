@@ -2,6 +2,7 @@
 layout: term
 title: patrik
 slug: patrik
+letter: P
 lisan: Rumca
 anlamlar:
 - Ortodoks ve bazı Doğu kiliselerinin başkanı

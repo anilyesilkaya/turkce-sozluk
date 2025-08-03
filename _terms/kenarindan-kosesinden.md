@@ -2,6 +2,7 @@
 layout: term
 title: 'kenarından köşesinden '
 slug: kenarindan-kosesinden
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yakınından, şurasından burasından, herhangi bir yerinden

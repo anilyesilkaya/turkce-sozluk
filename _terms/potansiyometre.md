@@ -2,6 +2,7 @@
 layout: term
 title: potansiyometre
 slug: potansiyometre
+letter: P
 lisan: Fransızca potentiomètre
 anlamlar:
 - Bir elektrik devresinde iki nokta arasındaki elektrik yükü farkını ölçen alet

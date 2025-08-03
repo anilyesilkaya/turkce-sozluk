@@ -2,6 +2,7 @@
 layout: term
 title: unutturma
 slug: unutturma
+letter: U
 lisan: Türkçe
 anlamlar:
 - Unutturmak işi

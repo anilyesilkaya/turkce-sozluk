@@ -2,6 +2,7 @@
 layout: term
 title: duvar yüzlü
 slug: duvar-yuzlu
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► vurdumduymaz

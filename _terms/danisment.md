@@ -2,6 +2,7 @@
 layout: term
 title: danişment
 slug: danisment
+letter: D
 lisan: Farsça dānişmend
 anlamlar:
 - Tanzimattan önce, kadıların yanında yetişmek üzere görevlendirilen kimse

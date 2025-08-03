@@ -2,6 +2,7 @@
 layout: term
 title: emir altına almak
 slug: emir-altina-almak
+letter: E
 lisan: Türkçe
 anlamlar:
 - denetimi altına almak

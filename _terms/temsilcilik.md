@@ -2,6 +2,7 @@
 layout: term
 title: temsilcilik
 slug: temsilcilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Hak ve görev bakımından birinin veya bir topluluğun adına davranma görevi

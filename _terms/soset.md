@@ -2,6 +2,7 @@
 layout: term
 title: şoset
 slug: soset
+letter: Ş
 lisan: Fransızca chausette
 anlamlar:
 - ► soket çorap

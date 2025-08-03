@@ -2,6 +2,7 @@
 layout: term
 title: meyil
 slug: meyil
+letter: M
 lisan: Arapça meyl
 anlamlar:
 - Eğiklik, eğim, akıntı

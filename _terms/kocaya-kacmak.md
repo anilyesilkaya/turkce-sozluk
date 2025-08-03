@@ -2,6 +2,7 @@
 layout: term
 title: kocaya kaçmak
 slug: kocaya-kacmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kız ailesinin izni olmadan ve nikâhlanmadan bir erkekle kaçmak

@@ -2,6 +2,7 @@
 layout: term
 title: amir
 slug: amir
+letter: A
 lisan: Arapça āmir
 anlamlar:
 - Bir işte emir verme yetkisi bulunan kimse

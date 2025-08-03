@@ -2,6 +2,7 @@
 layout: term
 title: sırdaş
 slug: sirdas
+letter: S
 lisan: Türkçe
 anlamlar:
 - Birinin sırrını bilecek kadar ona yakın olan kimse; cankulağı, mahrem

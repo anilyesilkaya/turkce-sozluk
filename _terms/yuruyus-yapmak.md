@@ -2,6 +2,7 @@
 layout: term
 title: yürüyüş yapmak
 slug: yuruyus-yapmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - spor amacıyla yürümek

@@ -2,6 +2,7 @@
 layout: term
 title: horozlanmak
 slug: horozlanmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Kabadayı tavrı takınmak, çalım satmak

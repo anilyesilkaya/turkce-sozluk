@@ -2,6 +2,7 @@
 layout: term
 title: acıtmak
 slug: acitmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Acılık vermek

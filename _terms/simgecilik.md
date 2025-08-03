@@ -2,6 +2,7 @@
 layout: term
 title: simgecilik
 slug: simgecilik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Olayları yorumlamaya veya inançları anlatmaya yarayan simgeler sistemi; sembolizm

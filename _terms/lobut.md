@@ -2,6 +2,7 @@
 layout: term
 title: lobut
 slug: lobut
+letter: L
 lisan: Arapça nebbūt
 anlamlar:
 - Kalın, kısa ve düzgün sopa

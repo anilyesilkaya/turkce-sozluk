@@ -2,6 +2,7 @@
 layout: term
 title: gerisini sen getir
 slug: gerisini-sen-getir
+letter: G
 lisan: Türkçe
 anlamlar:
 - bir şey anlatırken sözü karıştırınca söylenen, “anlayıver işte” veya “arkasını anlarsın artık” anlamlarında kullanılan bir söz

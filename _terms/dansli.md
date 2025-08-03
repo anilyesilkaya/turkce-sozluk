@@ -2,6 +2,7 @@
 layout: term
 title: danslı
 slug: dansli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dans edilen

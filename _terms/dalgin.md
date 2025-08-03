@@ -2,6 +2,7 @@
 layout: term
 title: dalgın
 slug: dalgin
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çevresinde olup bitenleri fark edemeyecek kadar düşünceye dalan

@@ -2,6 +2,7 @@
 layout: term
 title: hatırında kalmak
 slug: hatirinda-kalmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - unutmamak, hatırlamak

@@ -2,6 +2,7 @@
 layout: term
 title: teşne olmak
 slug: tesne-olmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - çok istekli görünmek

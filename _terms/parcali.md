@@ -2,6 +2,7 @@
 layout: term
 title: parçalı
 slug: parcali
+letter: P
 lisan: Türkçe
 anlamlar:
 - Birden çok parçadan oluşmuş

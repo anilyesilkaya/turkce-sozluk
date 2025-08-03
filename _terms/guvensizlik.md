@@ -2,6 +2,7 @@
 layout: term
 title: güvensizlik
 slug: guvensizlik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güvensiz olma durumu; emniyetsizlik, itimatsızlık

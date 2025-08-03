@@ -2,6 +2,7 @@
 layout: term
 title: kazara
 slug: kazara
+letter: K
 lisan: Arapça ḳażāʾ + Farsça -rā
 anlamlar:
 - Kaza sonucu, yanlışlıkla, bilmeden; kazaen, ezkaza

@@ -2,6 +2,7 @@
 layout: term
 title: sakalına ak (veya kır) düşmek
 slug: sakalina-ak-veya-kir-dusmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - sakalı ağarmaya başlamak, yaşlanmak

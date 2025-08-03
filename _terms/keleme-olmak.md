@@ -2,6 +2,7 @@
 layout: term
 title: keleme olmak
 slug: keleme-olmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - bakımsız kalmak

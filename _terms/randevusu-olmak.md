@@ -2,6 +2,7 @@
 layout: term
 title: randevusu olmak
 slug: randevusu-olmak
+letter: R
 lisan: Türkçe
 anlamlar:
 - belli bir saatte, belli bir yerde buluşmak için biriyle sözleşmiş olmak

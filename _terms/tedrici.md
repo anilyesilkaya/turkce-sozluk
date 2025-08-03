@@ -2,6 +2,7 @@
 layout: term
 title: tedricî
 slug: tedrici
+letter: T
 lisan: Arapça tedrīcī
 anlamlar:
 - Derece derece, yavaş yavaş olan

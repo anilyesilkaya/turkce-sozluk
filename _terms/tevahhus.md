@@ -2,6 +2,7 @@
 layout: term
 title: tevahhuş
 slug: tevahhus
+letter: T
 lisan: Arapça tevaḥḥuş
 anlamlar:
 - ► ürkme

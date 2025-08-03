@@ -2,6 +2,7 @@
 layout: term
 title: straplez
 slug: straplez
+letter: S
 lisan: İngilizce strapless
 anlamlar:
 - ► askısız

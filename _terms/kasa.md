@@ -2,6 +2,7 @@
 layout: term
 title: kasa
 slug: kasa
+letter: K
 lisan: İtalyanca cassa
 anlamlar:
 - Para veya değerli eşya saklamaya yarayan çelik dolap

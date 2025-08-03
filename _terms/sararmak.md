@@ -2,6 +2,7 @@
 layout: term
 title: sararmak
 slug: sararmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sarı olmak, rengi sarıya dönmek

@@ -2,6 +2,7 @@
 layout: term
 title: metanetli
 slug: metanetli
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► dayanıklı

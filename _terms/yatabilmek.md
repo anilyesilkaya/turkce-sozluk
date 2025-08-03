@@ -2,6 +2,7 @@
 layout: term
 title: yatabilmek
 slug: yatabilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yatma ihtimali veya imkânı bulunmak

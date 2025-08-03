@@ -2,6 +2,7 @@
 layout: term
 title: aldatabilmek
 slug: aldatabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aldatma ihtimali veya imkânı bulunmak

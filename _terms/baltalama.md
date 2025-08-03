@@ -2,6 +2,7 @@
 layout: term
 title: baltalama
 slug: baltalama
+letter: B
 lisan: Türkçe
 anlamlar:
 - Baltalamak işi

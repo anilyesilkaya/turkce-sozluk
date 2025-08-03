@@ -2,6 +2,7 @@
 layout: term
 title: planör
 slug: planor
+letter: P
 lisan: Fransızca planeur
 anlamlar:
 - Hava akımlarından yararlanarak uçan, uçağa benzer motorsuz hava taşıtı

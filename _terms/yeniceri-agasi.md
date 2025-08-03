@@ -2,6 +2,7 @@
 layout: term
 title: yeniçeri ağası
 slug: yeniceri-agasi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yeniçeri Ocağının en yüksek rütbeli subayı ve komutanı

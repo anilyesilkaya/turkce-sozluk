@@ -2,6 +2,7 @@
 layout: term
 title: derman
 slug: derman
+letter: D
 lisan: Farsça dermān
 anlamlar:
 - ► takat

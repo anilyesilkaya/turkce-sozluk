@@ -2,6 +2,7 @@
 layout: term
 title: kanca
 slug: kanca
+letter: K
 lisan: İtalyanca gancio
 anlamlar:
 - Bir şey çekmeye yarar, ucu çengelli demir çubuk

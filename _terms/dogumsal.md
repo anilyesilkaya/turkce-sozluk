@@ -2,6 +2,7 @@
 layout: term
 title: doğumsal
 slug: dogumsal
+letter: D
 lisan: Türkçe
 anlamlar:
 - Doğumdan, soydan gelen

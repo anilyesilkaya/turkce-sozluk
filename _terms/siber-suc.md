@@ -2,6 +2,7 @@
 layout: term
 title: siber suç
 slug: siber-suc
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bilişim sistemlerinin güvenliğini, buna bağlı verileri ve kullanıcısını hedef alan ve bilişim sistemleri aracılığıyla işlenen suç

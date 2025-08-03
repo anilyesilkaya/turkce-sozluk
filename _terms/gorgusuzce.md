@@ -2,6 +2,7 @@
 layout: term
 title: görgüsüzce
 slug: gorgusuzce
+letter: G
 lisan: Türkçe
 anlamlar:
 - Görgüsüz bir biçimde olan

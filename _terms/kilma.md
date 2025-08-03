@@ -2,6 +2,7 @@
 layout: term
 title: kılma
 slug: kilma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kılmak işi

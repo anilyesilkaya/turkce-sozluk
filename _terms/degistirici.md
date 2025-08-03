@@ -2,6 +2,7 @@
 layout: term
 title: değiştirici
 slug: degistirici
+letter: D
 lisan: Türkçe
 anlamlar:
 - Değiştirme işini yapan kimse veya nesne

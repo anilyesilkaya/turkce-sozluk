@@ -2,6 +2,7 @@
 layout: term
 title: kımkım
 slug: kimkim
+letter: K
 lisan: Türkçe
 anlamlar:
 - Ağır ağır konuşan (kimse)

@@ -2,6 +2,7 @@
 layout: term
 title: peşrev
 slug: pesrev
+letter: P
 lisan: Farsça pīş-rev
 anlamlar:
 - Klasik Türk müziğinde faslın giriş taksiminden sonra, şarkıdan önce çalınan parça

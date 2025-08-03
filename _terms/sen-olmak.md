@@ -2,6 +2,7 @@
 layout: term
 title: şen olmak
 slug: sen-olmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - neşelenmek, sevinmek, mutlu olmak

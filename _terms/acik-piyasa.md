@@ -2,6 +2,7 @@
 layout: term
 title: açık piyasa
 slug: acik-piyasa
+letter: A
 lisan: Türkçe
 anlamlar:
 - Fiyatların tamamen arz ve talebe göre belirlendiği piyasa

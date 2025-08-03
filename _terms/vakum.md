@@ -2,6 +2,7 @@
 layout: term
 title: vakum
 slug: vakum
+letter: V
 lisan: Fransızca vacuum
 anlamlar:
 - Havası alınmış

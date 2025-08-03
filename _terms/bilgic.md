@@ -2,6 +2,7 @@
 layout: term
 title: bilgiç
 slug: bilgic
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilgili olan (kimse)

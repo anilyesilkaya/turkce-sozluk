@@ -2,6 +2,7 @@
 layout: term
 title: isteme
 slug: isteme
+letter: I
 lisan: Türkçe
 anlamlar:
 - İstemek işi; arzulama, istem

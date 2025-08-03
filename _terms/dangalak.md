@@ -2,6 +2,7 @@
 layout: term
 title: dangalak
 slug: dangalak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Akılsız, düşüncesiz kimse

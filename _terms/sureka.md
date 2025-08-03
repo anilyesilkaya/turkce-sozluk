@@ -2,6 +2,7 @@
 layout: term
 title: şürekâ
 slug: sureka
+letter: Ş
 lisan: Arapça şurekā
 anlamlar:
 - Ortaklar, şerikler

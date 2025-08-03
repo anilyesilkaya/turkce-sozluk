@@ -2,6 +2,7 @@
 layout: term
 title: kaldırım taşlı
 slug: kaldirim-tasli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaldırım taşı olan

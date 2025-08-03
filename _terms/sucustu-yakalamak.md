@@ -2,6 +2,7 @@
 layout: term
 title: suçüstü yakalamak
 slug: sucustu-yakalamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - suç işleyeni suçu işlediği sırada veya hareketinden çok az önce yakalamak

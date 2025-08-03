@@ -2,6 +2,7 @@
 layout: term
 title: aslanın ağzında olmak
 slug: aslanin-agzinda-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - elde edilmesi çok güç olmak

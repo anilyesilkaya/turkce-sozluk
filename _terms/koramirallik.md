@@ -2,6 +2,7 @@
 layout: term
 title: koramirallik
 slug: koramirallik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Koramiral olma durumu

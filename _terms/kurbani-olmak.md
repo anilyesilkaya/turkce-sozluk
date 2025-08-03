@@ -2,6 +2,7 @@
 layout: term
 title: kurbanı olmak
 slug: kurbani-olmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - uğruna ızdırap veya büyük üzüntü, sıkıntı çekmek, zarara girmek, ölmek

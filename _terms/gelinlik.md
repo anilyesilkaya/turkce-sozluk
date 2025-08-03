@@ -2,6 +2,7 @@
 layout: term
 title: gelinlik
 slug: gelinlik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gelin olma durumu

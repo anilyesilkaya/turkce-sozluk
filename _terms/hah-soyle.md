@@ -2,6 +2,7 @@
 layout: term
 title: hah şöyle
 slug: hah-soyle
+letter: H
 lisan: Türkçe
 anlamlar:
 - ha şöyle

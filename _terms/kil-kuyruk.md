@@ -2,6 +2,7 @@
 layout: term
 title: kıl kuyruk
 slug: kil-kuyruk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Zayıf, çelimsiz olan

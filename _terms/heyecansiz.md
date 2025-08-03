@@ -2,6 +2,7 @@
 layout: term
 title: heyecansız
 slug: heyecansiz
+letter: H
 lisan: Türkçe
 anlamlar:
 - Çabuk, kolay heyecanlanmayan

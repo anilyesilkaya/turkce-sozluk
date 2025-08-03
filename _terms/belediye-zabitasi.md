@@ -2,6 +2,7 @@
 layout: term
 title: belediye zabıtası
 slug: belediye-zabitasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kanunlarla belediyeye verilmiş emir ve yasakları belediye sınırları içerisinde takip etmekle görevli kolluk kuvveti; belediye polisi, zabıta

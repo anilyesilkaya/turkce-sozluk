@@ -2,6 +2,7 @@
 layout: term
 title: püskürtüş
 slug: puskurtus
+letter: P
 lisan: Türkçe
 anlamlar:
 - Püskürtmek işi

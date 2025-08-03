@@ -2,6 +2,7 @@
 layout: term
 title: tıkaç
 slug: tikac
+letter: T
 lisan: Türkçe
 anlamlar:
 - Herhangi bir şeyin delik veya ağzını tıkamaya yarayan nesne

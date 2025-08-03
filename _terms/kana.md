@@ -2,6 +2,7 @@
 layout: term
 title: kana
 slug: kana
+letter: K
 lisan: İtalyanca canna
 anlamlar:
 - Geminin çektiği suyu göstermek için baş ve kıç bodoslamaları üzerine konulan işaretler

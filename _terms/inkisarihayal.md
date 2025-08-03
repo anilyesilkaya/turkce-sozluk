@@ -2,6 +2,7 @@
 layout: term
 title: inkisarıhayal
 slug: inkisarihayal
+letter: I
 lisan: Arapça inkisār + ḫayāl
 anlamlar:
 - ► hayal kırıklığı

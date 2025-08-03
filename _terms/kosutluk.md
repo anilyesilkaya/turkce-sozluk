@@ -2,6 +2,7 @@
 layout: term
 title: koşutluk
 slug: kosutluk
+letter: K
 lisan: Türkçe
 anlamlar:
 - İki çizginin koşut olması; paralellik

@@ -2,6 +2,7 @@
 layout: term
 title: seman
 slug: seman
+letter: S
 lisan: Fransızca cément
 anlamlar:
 - Diş köklerini kaplayan sert madde

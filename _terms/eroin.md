@@ -2,6 +2,7 @@
 layout: term
 title: eroin
 slug: eroin
+letter: E
 lisan: Fransızca héroïne
 anlamlar:
 - Morfinden kimyasal yolla elde edilen uyuşturucu bir madde

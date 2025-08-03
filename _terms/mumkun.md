@@ -2,6 +2,7 @@
 layout: term
 title: mümkün
 slug: mumkun
+letter: M
 lisan: Arapça mumkin
 anlamlar:
 - Gerçekleşme imkânı bulunan; olası

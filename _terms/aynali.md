@@ -2,6 +2,7 @@
 layout: term
 title: aynalı
 slug: aynali
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aynası olan

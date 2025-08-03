@@ -2,6 +2,7 @@
 layout: term
 title: mineleme
 slug: mineleme
+letter: M
 lisan: Türkçe
 anlamlar:
 - Minelemek işi

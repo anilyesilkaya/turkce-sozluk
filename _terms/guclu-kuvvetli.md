@@ -2,6 +2,7 @@
 layout: term
 title: güçlü kuvvetli
 slug: guclu-kuvvetli
+letter: G
 lisan: Türkçe
 anlamlar:
 - Sağlığı, gücü, kuvveti yerinde olan

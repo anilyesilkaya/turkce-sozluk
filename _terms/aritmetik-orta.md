@@ -2,6 +2,7 @@
 layout: term
 title: aritmetik orta
 slug: aritmetik-orta
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir diziyi oluşturan sayıların toplamının, dizinin terim sayısına bölünmesiyle elde edilen sayı

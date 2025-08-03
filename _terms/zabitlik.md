@@ -2,6 +2,7 @@
 layout: term
 title: zabitlik
 slug: zabitlik
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zabit olma durumu

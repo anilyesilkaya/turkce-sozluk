@@ -2,6 +2,7 @@
 layout: term
 title: sömürmek
 slug: somurmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Üretim araçları sahipleri, başkalarının emeğine ve onların yarattıkları değerlere el koymak

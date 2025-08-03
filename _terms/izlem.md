@@ -2,6 +2,7 @@
 layout: term
 title: izlem
 slug: izlem
+letter: I
 lisan: Türkçe
 anlamlar:
 - İzlemek işi

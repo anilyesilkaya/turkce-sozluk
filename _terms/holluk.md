@@ -2,6 +2,7 @@
 layout: term
 title: höllük
 slug: holluk
+letter: H
 lisan: Türkçe
 anlamlar:
 - Kundak çocuklarının altına bez yerine konulan toprak

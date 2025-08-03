@@ -2,6 +2,7 @@
 layout: term
 title: limonlanmak
 slug: limonlanmak
+letter: L
 lisan: Türkçe
 anlamlar:
 - Limonlama işi yapılmak

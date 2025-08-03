@@ -2,6 +2,7 @@
 layout: term
 title: gözcülük etmek
 slug: gozculuk-etmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - kollamak, sağı solu kolaçan etmek

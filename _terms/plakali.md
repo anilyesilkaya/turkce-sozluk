@@ -2,6 +2,7 @@
 layout: term
 title: plakalı
 slug: plakali
+letter: P
 lisan: Türkçe
 anlamlar:
 - Üzerinde plaka bulunan

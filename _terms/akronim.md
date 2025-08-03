@@ -2,6 +2,7 @@
 layout: term
 title: akronim
 slug: akronim
+letter: A
 lisan: İngilizce acronym
 anlamlar:
 - ► kısaltma ad

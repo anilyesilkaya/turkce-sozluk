@@ -2,6 +2,7 @@
 layout: term
 title: hafif yollu
 slug: hafif-yollu
+letter: H
 lisan: Türkçe
 anlamlar:
 - Üstü kapalı, kısa bir açıklamayla, hissettirmeden

@@ -2,6 +2,7 @@
 layout: term
 title: sakız ağacı
 slug: sakiz-agaci
+letter: S
 lisan: Türkçe
 anlamlar:
 - Antep fıstığıgillerden, kışın yaprak dökmeyen, meyvesi üzümsü ve yağlı, bodur bir ağaç; sakız (Pistacia lentiscus)

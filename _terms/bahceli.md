@@ -2,6 +2,7 @@
 layout: term
 title: bahçeli
 slug: bahceli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bahçesi olan

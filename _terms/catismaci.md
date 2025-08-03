@@ -2,6 +2,7 @@
 layout: term
 title: çatışmacı
 slug: catismaci
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çatışma çıkaran kimse

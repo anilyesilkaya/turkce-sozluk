@@ -2,6 +2,7 @@
 layout: term
 title: mis sabunu
 slug: mis-sabunu
+letter: M
 lisan: Türkçe
 anlamlar:
 - Güzel kokulu sabun

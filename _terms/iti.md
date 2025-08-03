@@ -2,6 +2,7 @@
 layout: term
 title: iti
 slug: iti
+letter: I
 lisan: Türkçe
 anlamlar:
 - İtici güç, ilham verici

@@ -2,6 +2,7 @@
 layout: term
 title: paçaları sıvamak
 slug: pacalari-sivamak
+letter: P
 lisan: Türkçe
 anlamlar:
 - kolları sıvamak

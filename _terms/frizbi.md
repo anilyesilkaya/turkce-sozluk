@@ -2,6 +2,7 @@
 layout: term
 title: frizbi
 slug: frizbi
+letter: F
 lisan: İngilizce frisbee
 anlamlar:
 - Genellikle esnek ve dayanıklı plastikten yapılan, kenarları kıvrık, el ile kolay kavranabilen, fırlatılarak oynanan bir araç

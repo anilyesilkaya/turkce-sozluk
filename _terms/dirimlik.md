@@ -2,6 +2,7 @@
 layout: term
 title: dirimlik
 slug: dirimlik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Hayat, yaşam, sağlık

@@ -2,6 +2,7 @@
 layout: term
 title: damasko
 slug: damasko
+letter: D
 lisan: İtalyanca damasco
 anlamlar:
 - Çoğunlukla döşemelik olarak kullanılan, keten ve ipek karışımı bir kumaş türü

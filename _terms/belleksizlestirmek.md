@@ -2,6 +2,7 @@
 layout: term
 title: belleksizleştirmek
 slug: belleksizlestirmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Birinin veya bir şeyin geçmişle ilgisini kesip belleksiz duruma getirmek

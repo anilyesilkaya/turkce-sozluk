@@ -2,6 +2,7 @@
 layout: term
 title: handiyse
 slug: handiyse
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► neredeyse

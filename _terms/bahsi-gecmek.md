@@ -2,6 +2,7 @@
 layout: term
 title: bahsi geçmek
 slug: bahsi-gecmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir konu üzerinde konuşulmuş olmak

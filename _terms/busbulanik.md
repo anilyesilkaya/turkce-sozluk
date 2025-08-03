@@ -2,6 +2,7 @@
 layout: term
 title: busbulanık
 slug: busbulanik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çok bulanık

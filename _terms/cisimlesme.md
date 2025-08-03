@@ -2,6 +2,7 @@
 layout: term
 title: cisimleşme
 slug: cisimlesme
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cisimleşmek durumu

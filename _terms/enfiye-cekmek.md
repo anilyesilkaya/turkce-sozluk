@@ -2,6 +2,7 @@
 layout: term
 title: enfiye çekmek
 slug: enfiye-cekmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - keyiflenmek amacıyla çürütülmüş tütünden yapılan tozu burna nefes yoluyla almak

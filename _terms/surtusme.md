@@ -2,6 +2,7 @@
 layout: term
 title: sürtüşme
 slug: surtusme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sürtüşmek işi

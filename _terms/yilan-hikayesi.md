@@ -2,6 +2,7 @@
 layout: term
 title: yılan hikâyesi
 slug: yilan-hikayesi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Uzayıp giden, bir türlü sonuca bağlanamayan sorun

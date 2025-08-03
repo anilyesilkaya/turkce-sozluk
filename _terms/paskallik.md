@@ -2,6 +2,7 @@
 layout: term
 title: paskallık
 slug: paskallik
+letter: P
 lisan: Türkçe
 anlamlar:
 - İnsanı güldürüp eğlendirecek söz ve davranış

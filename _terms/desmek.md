@@ -2,6 +2,7 @@
 layout: term
 title: deşmek
 slug: desmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir yeri oymak, delmek, kazmak

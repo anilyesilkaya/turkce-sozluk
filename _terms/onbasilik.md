@@ -2,6 +2,7 @@
 layout: term
 title: onbaşılık
 slug: onbasilik
+letter: O
 lisan: Türkçe
 anlamlar:
 - Onbaşı olma durumu

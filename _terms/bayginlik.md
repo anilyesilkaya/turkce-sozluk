@@ -2,6 +2,7 @@
 layout: term
 title: baygınlık
 slug: bayginlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Baygın olma durumu; baygıntı

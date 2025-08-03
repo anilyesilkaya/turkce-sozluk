@@ -2,6 +2,7 @@
 layout: term
 title: ısıtma
 slug: isitma
+letter: I
 lisan: Türkçe
 anlamlar:
 - Isıtmak işi; teshin

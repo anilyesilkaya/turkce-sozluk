@@ -2,6 +2,7 @@
 layout: term
 title: ova
 slug: ova
+letter: O
 lisan: Türkçe
 anlamlar:
 - Çevrelerine göre çukurda kalmış, çoğunlukla alüvyonla örtülü, eğimi az, akarsuların derine gömülmediği, geniş veya dar düzlük; yazı (II)

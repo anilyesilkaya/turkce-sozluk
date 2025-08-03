@@ -2,6 +2,7 @@
 layout: term
 title: meşe
 slug: mese
+letter: M
 lisan: Farsça bīşe
 anlamlar:
 - Kayıngillerden, yaz kış yapraklarını dökmeyen türleri de bulunan, kerestesi dayanıklı bir orman ağacı (Quercus)

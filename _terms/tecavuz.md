@@ -2,6 +2,7 @@
 layout: term
 title: tecavüz
 slug: tecavuz
+letter: T
 lisan: Arapça tecāvuz
 anlamlar:
 - ► saldırı

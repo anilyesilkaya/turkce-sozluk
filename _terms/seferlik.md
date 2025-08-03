@@ -2,6 +2,7 @@
 layout: term
 title: seferlik
 slug: seferlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Herhangi bir defaya yetecek miktarda olan

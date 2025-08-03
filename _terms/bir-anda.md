@@ -2,6 +2,7 @@
 layout: term
 title: bir anda
 slug: bir-anda
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► çabucak

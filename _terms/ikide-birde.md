@@ -2,6 +2,7 @@
 layout: term
 title: ikide birde
 slug: ikide-birde
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► ikide bir

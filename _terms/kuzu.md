@@ -2,6 +2,7 @@
 layout: term
 title: kuzu
 slug: kuzu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Koyun yavrusu

@@ -2,6 +2,7 @@
 layout: term
 title: mideci
 slug: mideci
+letter: M
 lisan: Türkçe
 anlamlar:
 - Kendi çıkarlarından başka bir şey düşünmeyen (kimse)

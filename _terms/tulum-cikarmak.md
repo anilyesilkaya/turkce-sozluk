@@ -2,6 +2,7 @@
 layout: term
 title: tulum çıkarmak
 slug: tulum-cikarmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - hayvanın derisini yarmadan çıkarmak

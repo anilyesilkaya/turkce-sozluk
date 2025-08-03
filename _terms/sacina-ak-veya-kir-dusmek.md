@@ -2,6 +2,7 @@
 layout: term
 title: saçına ak (veya kır) düşmek
 slug: sacina-ak-veya-kir-dusmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - saçı ağarmaya başlamak, yaşlanmak

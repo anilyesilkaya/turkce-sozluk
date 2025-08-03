@@ -2,6 +2,7 @@
 layout: term
 title: bağışlanma
 slug: bagislanma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağışlanmak işi; affedilme, affolma, affolunma, bahşedilme

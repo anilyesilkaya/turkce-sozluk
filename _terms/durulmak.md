@@ -2,6 +2,7 @@
 layout: term
 title: durulmak
 slug: durulmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Durma işi yapılmak

@@ -2,6 +2,7 @@
 layout: term
 title: fenalık etmek
 slug: fenalik-etmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - kötülük etmek, kötülükte bulunmak

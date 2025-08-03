@@ -2,6 +2,7 @@
 layout: term
 title: portföy
 slug: portfoy
+letter: P
 lisan: Fransızca portefeuille
 anlamlar:
 - Banka, simsar veya bir aracı kuruluşun kendi elinde tuttuğu, istediği gibi tasarruf ettiği menkul değerler toplamı

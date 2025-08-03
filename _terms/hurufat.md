@@ -2,6 +2,7 @@
 layout: term
 title: hurufat
 slug: hurufat
+letter: H
 lisan: Arapça ḥurūfāt
 anlamlar:
 - Harfler

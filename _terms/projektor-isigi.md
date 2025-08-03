@@ -2,6 +2,7 @@
 layout: term
 title: projektör ışığı
 slug: projektor-isigi
+letter: P
 lisan: Türkçe
 anlamlar:
 - Işıldağın etrafa saçtığı ışık

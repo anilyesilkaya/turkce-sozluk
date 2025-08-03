@@ -2,6 +2,7 @@
 layout: term
 title: soğuk durmak
 slug: soguk-durmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - ilgisiz, sevimsiz davranmak

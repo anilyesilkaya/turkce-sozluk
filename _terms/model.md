@@ -2,6 +2,7 @@
 layout: term
 title: model
 slug: model
+letter: M
 lisan: Fransızca modèle
 anlamlar:
 - Resim, heykel vb. yapılırken baka baka benzetilmeye çalışılan nesne veya kimse; örnek

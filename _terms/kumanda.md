@@ -2,6 +2,7 @@
 layout: term
 title: kumanda
 slug: kumanda
+letter: K
 lisan: Fransızca commandé
 anlamlar:
 - ► komuta

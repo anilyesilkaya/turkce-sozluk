@@ -2,6 +2,7 @@
 layout: term
 title: pahalıya patlamak (veya mal olmak veya oturmak)
 slug: pahaliya-patlamak-veya-mal-olmak-veya-oturmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - çok para, özveri, emek gerektirmek

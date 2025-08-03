@@ -2,6 +2,7 @@
 layout: term
 title: Guatemalalı
 slug: guatemalali
+letter: G
 lisan: Türkçe
 anlamlar:
 - Guatemala’da yaşayan halk veya bu halkın soyundan olan kimse

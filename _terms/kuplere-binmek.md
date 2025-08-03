@@ -2,6 +2,7 @@
 layout: term
 title: küplere binmek
 slug: kuplere-binmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - çok öfkelenmek

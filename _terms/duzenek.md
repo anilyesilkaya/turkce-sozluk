@@ -2,6 +2,7 @@
 layout: term
 title: düzenek
 slug: duzenek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Belli bir sonuca ulaşmak için karmaşık bir biçimde düzenlenmiş organ veya parçalar birleşimi; tertibat, mekanizma, sistem

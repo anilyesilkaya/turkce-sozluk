@@ -2,6 +2,7 @@
 layout: term
 title: beğenilmek
 slug: begenilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - İyi ve güzel bulunmak

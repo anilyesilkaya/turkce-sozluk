@@ -2,6 +2,7 @@
 layout: term
 title: baterici
 slug: baterici
+letter: B
 lisan: Türkçe
 anlamlar:
 - Orkestrada vurmalı çalgıları kullanan kimse; davulcu, baterist

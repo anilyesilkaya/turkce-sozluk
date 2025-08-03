@@ -2,6 +2,7 @@
 layout: term
 title: gönülde şafak açmak
 slug: gonulde-safak-acmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - sevinmek, mutlu olmak

@@ -2,6 +2,7 @@
 layout: term
 title: çelikleşmek
 slug: celiklesmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çelik durumuna gelmek

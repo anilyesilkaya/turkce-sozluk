@@ -2,6 +2,7 @@
 layout: term
 title: yanlamasına
 slug: yanlamasina
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yan olarak, yana yatmış biçimde; yan yan

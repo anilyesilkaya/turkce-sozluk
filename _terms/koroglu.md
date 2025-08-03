@@ -2,6 +2,7 @@
 layout: term
 title: köroğlu
 slug: koroglu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kocanın karısına verdiği ad

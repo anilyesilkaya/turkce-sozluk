@@ -2,6 +2,7 @@
 layout: term
 title: tecelli etmek
 slug: tecelli-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - belirmek, görünmek, ortaya çıkmak, zuhur etmek, meydana çıkmak

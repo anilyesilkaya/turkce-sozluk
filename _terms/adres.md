@@ -2,6 +2,7 @@
 layout: term
 title: adres
 slug: adres
+letter: A
 lisan: Fransızca adresse
 anlamlar:
 - Herhangi bir kişi veya mekânın bulunduğu şehir, ilçe, mahalle, cadde, sokak, kapı veya daire numarasının belirtildiği bilgi; bulunak

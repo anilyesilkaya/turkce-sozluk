@@ -2,6 +2,7 @@
 layout: term
 title: ayakta
 slug: ayakta
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayağa kalkmış durumda

@@ -2,6 +2,7 @@
 layout: term
 title: üşengeçlik
 slug: usengeclik
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üşengeç olma durumu; üşenç, üşengenlik, tekâsül

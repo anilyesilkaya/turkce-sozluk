@@ -2,6 +2,7 @@
 layout: term
 title: sobeleme
 slug: sobeleme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sobelemek işi

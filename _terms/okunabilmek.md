@@ -2,6 +2,7 @@
 layout: term
 title: okunabilmek
 slug: okunabilmek
+letter: O
 lisan: Türkçe
 anlamlar:
 - Okunma ihtimali veya imkânı bulunmak

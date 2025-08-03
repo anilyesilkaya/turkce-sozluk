@@ -2,6 +2,7 @@
 layout: term
 title: tümevarım
 slug: tumevarim
+letter: T
 lisan: Türkçe
 anlamlar:
 - Teklik olandan, özel olandan genel olana giden, tek tek olgulardan genel önermelere varan yöntem; istikra, endüksiyon, tümdengelim karşıtı

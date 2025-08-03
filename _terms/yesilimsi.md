@@ -2,6 +2,7 @@
 layout: term
 title: yeşilimsi
 slug: yesilimsi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Rengi yeşili andıran, yeşile benzeyen; yeşilimtırak

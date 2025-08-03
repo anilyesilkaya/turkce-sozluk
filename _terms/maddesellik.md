@@ -2,6 +2,7 @@
 layout: term
 title: maddesellik
 slug: maddesellik
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► maddilik

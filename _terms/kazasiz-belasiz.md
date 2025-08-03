@@ -2,6 +2,7 @@
 layout: term
 title: kazasız belasız
 slug: kazasiz-belasiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kazaya veya güçlüğe, sıkıntıya uğramadan

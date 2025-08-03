@@ -2,6 +2,7 @@
 layout: term
 title: spiker
 slug: spiker
+letter: S
 lisan: Fransızca speaker
 anlamlar:
 - Radyo ve televizyonda programları, haberleri sunan kimse

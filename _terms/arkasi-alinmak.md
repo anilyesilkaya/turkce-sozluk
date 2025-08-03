@@ -2,6 +2,7 @@
 layout: term
 title: arkası alınmak
 slug: arkasi-alinmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - sona erdirilmek, bitirilmek, bir yerde durdurulmak

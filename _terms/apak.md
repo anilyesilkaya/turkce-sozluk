@@ -2,6 +2,7 @@
 layout: term
 title: apak
 slug: apak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► bembeyaz

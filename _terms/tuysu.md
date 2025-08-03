@@ -2,6 +2,7 @@
 layout: term
 title: tüysü
 slug: tuysu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tüye benzeyen

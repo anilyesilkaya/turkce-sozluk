@@ -2,6 +2,7 @@
 layout: term
 title: iyilik
 slug: iyilik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İyi olma durumu; salah

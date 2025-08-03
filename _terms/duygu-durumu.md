@@ -2,6 +2,7 @@
 layout: term
 title: duygu durumu
 slug: duygu-durumu
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► ruhsal durum

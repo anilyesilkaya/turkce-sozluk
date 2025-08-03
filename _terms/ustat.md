@@ -2,6 +2,7 @@
 layout: term
 title: üstat
 slug: ustat
+letter: Ü
 lisan: Farsça ustād
 anlamlar:
 - Bilim veya sanat alanlarından herhangi birinde üstün bilgisi ve yeteneği olan kimse

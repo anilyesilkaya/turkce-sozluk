@@ -2,6 +2,7 @@
 layout: term
 title: Yeşilyurt
 slug: yesilyurt
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Malatya iline bağlı ilçelerden biri

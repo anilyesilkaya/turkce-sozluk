@@ -2,6 +2,7 @@
 layout: term
 title: kaza kırım
 slug: kaza-kirim
+letter: K
 lisan: Türkçe
 anlamlar:
 - Uçak, helikopter vb.nde maddi hasar ile birlikte can kaybı da olan kaza

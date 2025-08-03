@@ -2,6 +2,7 @@
 layout: term
 title: bediiyat
 slug: bediiyat
+letter: B
 lisan: Arapça bedīʿiyyāt
 anlamlar:
 - Estetik bilimi, güzel sanatlar

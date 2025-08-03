@@ -2,6 +2,7 @@
 layout: term
 title: oğlaklamak
 slug: oglaklamak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Keçi, yavrulamak

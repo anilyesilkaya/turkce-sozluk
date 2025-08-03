@@ -2,6 +2,7 @@
 layout: term
 title: yanış
 slug: yanis
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yanmak işi

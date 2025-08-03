@@ -2,6 +2,7 @@
 layout: term
 title: arp
 slug: arp
+letter: A
 lisan: Fransızca harpe
 anlamlar:
 - Dik tutularak çalınan, üç köşeli, telli çalgı; harp (II)

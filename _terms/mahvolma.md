@@ -2,6 +2,7 @@
 layout: term
 title: mahvolma
 slug: mahvolma
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mahvolmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: isyan bayrağı (veya bayrağını) açmak (veya çekmek)
 slug: isyan-bayragi-veya-bayragini-acmak-veya-cekmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - karşı gelmek, başkaldırmak

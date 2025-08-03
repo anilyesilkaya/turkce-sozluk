@@ -2,6 +2,7 @@
 layout: term
 title: iyimserlik
 slug: iyimserlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - Genellikle her düşünce ve işi iyi olarak değerlendiren bir tutum veya kişilik özelliği; nikbinlik, optimizm

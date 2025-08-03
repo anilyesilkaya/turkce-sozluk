@@ -2,6 +2,7 @@
 layout: term
 title: endeksletmek
 slug: endeksletmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Endekse bağlatmak

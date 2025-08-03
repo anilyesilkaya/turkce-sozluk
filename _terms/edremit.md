@@ -2,6 +2,7 @@
 layout: term
 title: Edremit
 slug: edremit
+letter: E
 lisan: Türkçe
 anlamlar:
 - Balıkesir iline bağlı ilçelerden biri

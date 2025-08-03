@@ -2,6 +2,7 @@
 layout: term
 title: dişinden tırnağından artırmak
 slug: disinden-tirnagindan-artirmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - yiyecek giderlerini kısarak para biriktirmek

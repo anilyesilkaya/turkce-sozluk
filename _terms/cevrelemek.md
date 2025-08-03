@@ -2,6 +2,7 @@
 layout: term
 title: çevrelemek
 slug: cevrelemek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - İçine almak

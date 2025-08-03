@@ -2,6 +2,7 @@
 layout: term
 title: soluğu kesilmek (veya tutulmak)
 slug: solugu-kesilmek-veya-tutulmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - soluk alamaz duruma gelmek

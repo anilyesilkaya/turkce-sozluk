@@ -2,6 +2,7 @@
 layout: term
 title: yükseliş
 slug: yukselis
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yükselmek işi

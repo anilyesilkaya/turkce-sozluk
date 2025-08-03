@@ -2,6 +2,7 @@
 layout: term
 title: amor
 slug: amor
+letter: A
 lisan: Fransızca amour
 anlamlar:
 - ► aşk

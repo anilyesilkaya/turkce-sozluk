@@ -2,6 +2,7 @@
 layout: term
 title: işkenceci
 slug: iskenceci
+letter: I
 lisan: Türkçe
 anlamlar:
 - İşkence yapan kimse

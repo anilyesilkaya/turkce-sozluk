@@ -2,6 +2,7 @@
 layout: term
 title: yapmacık
 slug: yapmacik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - İçten olmayan (tavır, davranış, duygu); yapma, yapay, sahte, suni, zahirî, sofistike

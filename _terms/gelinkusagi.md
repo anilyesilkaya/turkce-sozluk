@@ -2,6 +2,7 @@
 layout: term
 title: gelinkuşağı
 slug: gelinkusagi
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► gökkuşağı

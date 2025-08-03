@@ -2,6 +2,7 @@
 layout: term
 title: hakem
 slug: hakem
+letter: H
 lisan: Arapça ḥakem
 anlamlar:
 - Tarafların aralarındaki anlaşmazlığı çözmek için yetkili olarak seçtikleri ve üzerinde anlaştıkları kişi; yargıcı

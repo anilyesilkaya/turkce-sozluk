@@ -2,6 +2,7 @@
 layout: term
 title: nerede
 slug: nerede
+letter: N
 lisan: Türkçe
 anlamlar:
 - Hangi yerde?

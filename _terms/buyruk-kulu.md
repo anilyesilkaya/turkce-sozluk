@@ -2,6 +2,7 @@
 layout: term
 title: buyruk kulu
 slug: buyruk-kulu
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► emir kulu

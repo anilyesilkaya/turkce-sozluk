@@ -2,6 +2,7 @@
 layout: term
 title: garajcı
 slug: garajci
+letter: G
 lisan: Türkçe
 anlamlar:
 - Otomobil, otobüs vb. taşıtları belli bir süre barındıran, gereğinde bakım ve onarımlarını yaptıran işletmeci

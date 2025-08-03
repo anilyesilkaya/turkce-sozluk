@@ -2,6 +2,7 @@
 layout: term
 title: saatlerce
 slug: saatlerce
+letter: S
 lisan: Türkçe
 anlamlar:
 - Uzun süre boyunca

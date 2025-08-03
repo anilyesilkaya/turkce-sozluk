@@ -2,6 +2,7 @@
 layout: term
 title: sardalya
 slug: sardalya
+letter: S
 lisan: Rumca
 anlamlar:
 - Hamsigillerden, ılık denizlerde yaşayan, gümüş renginde, pullu, konservesi ve tuzlaması yapılan küçük bir balık; ateş balığı (Sardina Pilchardus)

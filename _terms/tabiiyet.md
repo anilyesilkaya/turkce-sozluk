@@ -2,6 +2,7 @@
 layout: term
 title: tabiiyet
 slug: tabiiyet
+letter: T
 lisan: Arapça ṭabiʿiyyet
 anlamlar:
 - ► doğallık

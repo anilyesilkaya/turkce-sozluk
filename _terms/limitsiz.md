@@ -2,6 +2,7 @@
 layout: term
 title: limitsiz
 slug: limitsiz
+letter: L
 lisan: Türkçe
 anlamlar:
 - Herhangi bir limiti olmayan, sınırsız olan

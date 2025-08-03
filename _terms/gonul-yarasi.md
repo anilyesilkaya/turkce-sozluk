@@ -2,6 +2,7 @@
 layout: term
 title: gönül yarası
 slug: gonul-yarasi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Karşılıksız aşktan, özlemden, başarısızlıktan duyulan büyük keder, aşırı üzüntü; yürek yarası, dil yarası (II), kalp yarası

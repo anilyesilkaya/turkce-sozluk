@@ -2,6 +2,7 @@
 layout: term
 title: hatırlı
 slug: hatirli
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► saygın

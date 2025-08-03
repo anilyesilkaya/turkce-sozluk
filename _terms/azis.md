@@ -2,6 +2,7 @@
 layout: term
 title: azış
 slug: azis
+letter: A
 lisan: Türkçe
 anlamlar:
 - Azmak işi

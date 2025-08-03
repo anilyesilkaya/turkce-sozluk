@@ -2,6 +2,7 @@
 layout: term
 title: oyuna gelmek
 slug: oyuna-gelmek
+letter: O
 lisan: Türkçe
 anlamlar:
 - aldatılmak

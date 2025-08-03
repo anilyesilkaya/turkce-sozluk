@@ -2,6 +2,7 @@
 layout: term
 title: dallandırılmak
 slug: dallandirilmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dallanmasına yol açılmak, dallanması sağlanmak

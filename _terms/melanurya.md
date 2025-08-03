@@ -2,6 +2,7 @@
 layout: term
 title: melanurya
 slug: melanurya
+letter: M
 lisan: Rumca
 anlamlar:
 - İzmaritgillerden, gümüş renkli, eti kılçıklı bir Akdeniz balığı (Sparus melanuiya)

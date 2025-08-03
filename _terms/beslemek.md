@@ -2,6 +2,7 @@
 layout: term
 title: beşlemek
 slug: beslemek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir işi beş kez yapmak

@@ -2,6 +2,7 @@
 layout: term
 title: psikanaliz
 slug: psikanaliz
+letter: P
 lisan: Fransızca psychanalyse
 anlamlar:
 - Sigmund Freud’un geliştirdiği, bireyin uyumlu veya uyumsuz davranışlarının kaynağı sayılan bilinçaltı çatışma ve güdüleri araştırıp bilince çıkararak davranış sorunlarını çözme yöntemi; ruhsal çözümleme, ruhi çözümleme

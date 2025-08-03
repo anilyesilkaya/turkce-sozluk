@@ -2,6 +2,7 @@
 layout: term
 title: ölüyü güldürmek
 slug: oluyu-guldurmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - çok güldürmek

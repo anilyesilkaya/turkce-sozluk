@@ -2,6 +2,7 @@
 layout: term
 title: yağ kandili
 slug: yag-kandili
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► kandil

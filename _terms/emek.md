@@ -2,6 +2,7 @@
 layout: term
 title: emek
 slug: emek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Bir işin yapılması için harcanan beden ve kafa gücü; alın teri

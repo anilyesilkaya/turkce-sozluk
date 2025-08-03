@@ -2,6 +2,7 @@
 layout: term
 title: transit
 slug: transit
+letter: T
 lisan: Fransızca transit
 anlamlar:
 - Bir yerden dinlenmeden, beklemeden, durmadan (geçmek)

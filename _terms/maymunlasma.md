@@ -2,6 +2,7 @@
 layout: term
 title: maymunlaşma
 slug: maymunlasma
+letter: M
 lisan: Türkçe
 anlamlar:
 - Maymunlaşmak işi

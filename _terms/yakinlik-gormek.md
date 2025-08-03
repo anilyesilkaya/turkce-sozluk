@@ -2,6 +2,7 @@
 layout: term
 title: yakınlık görmek
 slug: yakinlik-gormek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ilgi, sevgi görmek

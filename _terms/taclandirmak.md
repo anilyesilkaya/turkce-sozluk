@@ -2,6 +2,7 @@
 layout: term
 title: taçlandırmak
 slug: taclandirmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taçlanma işini yaptırmak

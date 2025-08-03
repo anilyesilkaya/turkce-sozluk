@@ -2,6 +2,7 @@
 layout: term
 title: yoktan var etmek
 slug: yoktan-var-etmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yaratmak, ortaya çıkarmak

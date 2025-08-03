@@ -2,6 +2,7 @@
 layout: term
 title: kabarık deniz
 slug: kabarik-deniz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Gelgit olayında, deniz sularının yükselme esnasındaki durumu

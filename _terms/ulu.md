@@ -2,6 +2,7 @@
 layout: term
 title: ulu
 slug: ulu
+letter: U
 lisan: Türkçe
 anlamlar:
 - Erdemleri bakımından çok büyük, yüce olan; azametli

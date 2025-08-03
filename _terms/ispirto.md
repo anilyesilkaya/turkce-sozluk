@@ -2,6 +2,7 @@
 layout: term
 title: ispirto
 slug: ispirto
+letter: I
 lisan: İtalyanca spirito
 anlamlar:
 - ► alkol

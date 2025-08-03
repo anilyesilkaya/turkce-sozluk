@@ -2,6 +2,7 @@
 layout: term
 title: amanın
 slug: amanin
+letter: A
 lisan: Türkçe
 anlamlar:
 - Korkma ve şaşma sözü

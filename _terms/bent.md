@@ -2,6 +2,7 @@
 layout: term
 title: bent
 slug: bent
+letter: B
 lisan: Farsça bend
 anlamlar:
 - Su biriktirmek için akan suyun önüne yapılan set

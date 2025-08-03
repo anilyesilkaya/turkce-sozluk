@@ -2,6 +2,7 @@
 layout: term
 title: doyma noktası
 slug: doyma-noktasi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Doyuma ulaşma sınırı

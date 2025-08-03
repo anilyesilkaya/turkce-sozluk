@@ -2,6 +2,7 @@
 layout: term
 title: siperliksiz
 slug: siperliksiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Siperliği bulunmayan

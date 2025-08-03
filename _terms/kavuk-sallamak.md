@@ -2,6 +2,7 @@
 layout: term
 title: kavuk sallamak
 slug: kavuk-sallamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir kimseye yaranmak için onun söz veya davranışlarını uygun bulmak, onaylamak

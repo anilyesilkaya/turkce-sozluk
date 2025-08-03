@@ -2,6 +2,7 @@
 layout: term
 title: çırçıplak
 slug: circiplak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çırılçıplak

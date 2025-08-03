@@ -2,6 +2,7 @@
 layout: term
 title: saklanılmak
 slug: saklanilmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Saklanma işi yapılmak

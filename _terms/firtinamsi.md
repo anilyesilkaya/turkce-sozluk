@@ -2,6 +2,7 @@
 layout: term
 title: fırtınamsı
 slug: firtinamsi
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fırtınaya benzer, fırtına gibi

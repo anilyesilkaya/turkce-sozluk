@@ -2,6 +2,7 @@
 layout: term
 title: yakalıklı
 slug: yakalikli
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yakalığı olan

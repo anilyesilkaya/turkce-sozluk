@@ -2,6 +2,7 @@
 layout: term
 title: boyca
 slug: boyca
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boy bakımından

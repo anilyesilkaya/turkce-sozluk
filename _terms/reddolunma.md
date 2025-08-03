@@ -2,6 +2,7 @@
 layout: term
 title: reddolunma
 slug: reddolunma
+letter: R
 lisan: Türkçe
 anlamlar:
 - Reddolunmak durumu

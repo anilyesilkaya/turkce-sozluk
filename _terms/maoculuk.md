@@ -2,6 +2,7 @@
 layout: term
 title: Maoculuk
 slug: maoculuk
+letter: M
 lisan: Türkçe
 anlamlar:
 - Çin lideri Mao Çe-Tung'un düşüncelerine dayanan Marksist akım

@@ -2,6 +2,7 @@
 layout: term
 title: rahat duruş
 slug: rahat-durus
+letter: R
 lisan: Türkçe
 anlamlar:
 - Alıştırmalar arasında dinlenmek için eller arkaya dik olarak birleştirilmiş, bacaklar önde veya yana yarım adım duruşunda vücudun aldığı gevşek durum

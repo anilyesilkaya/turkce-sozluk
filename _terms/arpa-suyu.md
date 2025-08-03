@@ -2,6 +2,7 @@
 layout: term
 title: arpa suyu
 slug: arpa-suyu
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► bira

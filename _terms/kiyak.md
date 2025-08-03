@@ -2,6 +2,7 @@
 layout: term
 title: kıyak
 slug: kiyak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Benzerlerinden üstün olan, çok güzel

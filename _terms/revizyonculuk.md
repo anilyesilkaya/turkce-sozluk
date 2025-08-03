@@ -2,6 +2,7 @@
 layout: term
 title: revizyonculuk
 slug: revizyonculuk
+letter: R
 lisan: Türkçe
 anlamlar:
 - Bir öğretinin, bir anayasanın, bir antlaşmanın yeniden gözden geçirilmesi için savaşan kimse veya yeniden gözden geçirmeyi gerektiren görüş; revizyonizm

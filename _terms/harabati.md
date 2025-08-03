@@ -2,6 +2,7 @@
 layout: term
 title: harabati
 slug: harabati
+letter: H
 lisan: Arapça ḫarābātī
 anlamlar:
 - Maddi şeylere değer vermediği için üstüne başına özenmeyen

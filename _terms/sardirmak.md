@@ -2,6 +2,7 @@
 layout: term
 title: sardırmak
 slug: sardirmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sarma işini yaptırmak

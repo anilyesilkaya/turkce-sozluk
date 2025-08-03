@@ -2,6 +2,7 @@
 layout: term
 title: kendini tutmak
 slug: kendini-tutmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kendine hâkim olmak

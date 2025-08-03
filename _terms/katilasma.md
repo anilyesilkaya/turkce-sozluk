@@ -2,6 +2,7 @@
 layout: term
 title: katılaşma
 slug: katilasma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Katılaşmak işi

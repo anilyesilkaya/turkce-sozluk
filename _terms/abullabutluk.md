@@ -2,6 +2,7 @@
 layout: term
 title: abullabutluk
 slug: abullabutluk
+letter: A
 lisan: Türkçe
 anlamlar:
 - Abullabut olma durumu

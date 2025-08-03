@@ -2,6 +2,7 @@
 layout: term
 title: dinleme cihazı
 slug: dinleme-cihazi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çok küçük boyutlu, üzerinde mikrofonu bulunan ve belli bir ortamda bulunan seslerin gizli bir şekilde elde edilmesinde kullanılan elektronik aygıt; böcek

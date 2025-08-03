@@ -2,6 +2,7 @@
 layout: term
 title: acele işe şeytan karışır
 slug: acele-ise-seytan-karisir
+letter: A
 lisan: Türkçe
 anlamlar:
 - düşünüp taşınmadan ivedi olarak yapılan işten iyi sonuç alınamayacağını anlatan bir söz

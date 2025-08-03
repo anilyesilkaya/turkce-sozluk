@@ -2,6 +2,7 @@
 layout: term
 title: berkemal
 slug: berkemal
+letter: B
 lisan: Farsça ber + Arapça kemāl
 anlamlar:
 - Tam ve yolunda

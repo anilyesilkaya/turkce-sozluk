@@ -2,6 +2,7 @@
 layout: term
 title: orta ağırlık
 slug: orta-agirlik
+letter: O
 lisan: Türkçe
 anlamlar:
 - Boksta 71 kilogramdan 75 kilograma kadar olan boksörlerin ayrıldığı kategori; orta sıklet

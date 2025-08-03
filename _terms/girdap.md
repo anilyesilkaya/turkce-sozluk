@@ -2,6 +2,7 @@
 layout: term
 title: girdap
 slug: girdap
+letter: G
 lisan: Farsça girdāb
 anlamlar:
 - Suyun dönerek ve çukurlaşarak oluşturduğu alan

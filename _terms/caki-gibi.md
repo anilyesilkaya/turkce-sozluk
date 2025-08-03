@@ -2,6 +2,7 @@
 layout: term
 title: çakı gibi
 slug: caki-gibi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - canlı ve atik

@@ -2,6 +2,7 @@
 layout: term
 title: çekidüzen
 slug: cekiduzen
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Düzenli olma durumu

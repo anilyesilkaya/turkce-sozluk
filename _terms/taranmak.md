@@ -2,6 +2,7 @@
 layout: term
 title: taranmak
 slug: taranmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tarama işi yapılmak

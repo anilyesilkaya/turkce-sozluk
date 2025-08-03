@@ -2,6 +2,7 @@
 layout: term
 title: karındaş
 slug: karindas
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kardeş

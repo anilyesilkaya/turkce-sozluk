@@ -2,6 +2,7 @@
 layout: term
 title: hâlsizlik
 slug: halsizlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► takatsizlik

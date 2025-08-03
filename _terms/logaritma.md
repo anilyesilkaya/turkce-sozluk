@@ -2,6 +2,7 @@
 layout: term
 title: logaritma
 slug: logaritma
+letter: L
 lisan: Fransızca logarithme
 anlamlar:
 - Bir üssel eşitlikte taban ve sonuç belirliyken üssün bulunması yolu

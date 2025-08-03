@@ -2,6 +2,7 @@
 layout: term
 title: buhar kazanı
 slug: buhar-kazani
+letter: B
 lisan: Türkçe
 anlamlar:
 - Buhar elde etmekte kullanılan kazan

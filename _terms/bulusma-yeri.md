@@ -2,6 +2,7 @@
 layout: term
 title: buluşma yeri
 slug: bulusma-yeri
+letter: B
 lisan: Türkçe
 anlamlar:
 - Buluşulacak yer

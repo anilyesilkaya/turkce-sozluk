@@ -2,6 +2,7 @@
 layout: term
 title: tüttürebilmek
 slug: tutturebilmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tüttürme ihtimali veya imkânı bulunmak

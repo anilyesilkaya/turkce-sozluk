@@ -2,6 +2,7 @@
 layout: term
 title: başağrısı olmak
 slug: basagrisi-olmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - sıkıntı vermek, uğraştırmak

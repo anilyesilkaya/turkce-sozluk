@@ -2,6 +2,7 @@
 layout: term
 title: ciğeri sızlamak
 slug: cigeri-sizlamak
+letter: C
 lisan: Türkçe
 anlamlar:
 - yüreği sızlamak

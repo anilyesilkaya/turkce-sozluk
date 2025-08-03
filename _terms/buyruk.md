@@ -2,6 +2,7 @@
 layout: term
 title: buyruk
 slug: buyruk
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► emir

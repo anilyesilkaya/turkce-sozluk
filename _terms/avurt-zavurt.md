@@ -2,6 +2,7 @@
 layout: term
 title: avurt zavurt
 slug: avurt-zavurt
+letter: A
 lisan: Türkçe
 anlamlar:
 - “Beceremeyeceği şeyleri becerebilecekmiş gibi konuşmak; korkutucu sözler söylemek” anlamındaki avurt zavurt etmek deyiminde kullanılan bir söz

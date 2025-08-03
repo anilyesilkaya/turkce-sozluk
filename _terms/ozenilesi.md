@@ -2,6 +2,7 @@
 layout: term
 title: özenilesi
 slug: ozenilesi
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Özenilen, imrenilen

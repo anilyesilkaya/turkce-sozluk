@@ -2,6 +2,7 @@
 layout: term
 title: payandalık
 slug: payandalik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Destek görevinde bulunma

@@ -2,6 +2,7 @@
 layout: term
 title: yurtsuzlaşma
 slug: yurtsuzlasma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yurtsuzlaşmak durumu

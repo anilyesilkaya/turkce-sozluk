@@ -2,6 +2,7 @@
 layout: term
 title: Halik
 slug: halik
+letter: H
 lisan: Arapça ḫāliḳ
 anlamlar:
 - ► Allah

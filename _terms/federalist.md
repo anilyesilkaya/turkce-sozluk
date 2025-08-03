@@ -2,6 +2,7 @@
 layout: term
 title: federalist
 slug: federalist
+letter: F
 lisan: Fransızca fédéraliste
 anlamlar:
 - Federalizme bağlı olan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: değişmez
 slug: degismez
+letter: D
 lisan: Türkçe
 anlamlar:
 - Aynen kalan, değişikliğe uğramayan

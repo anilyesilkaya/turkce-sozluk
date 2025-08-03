@@ -2,6 +2,7 @@
 layout: term
 title: serserilik yapmak (veya etmek)
 slug: serserilik-yapmak-veya-etmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - serserice davranmak, çevreye rahatsızlık vermek

@@ -2,6 +2,7 @@
 layout: term
 title: cin mısırı
 slug: cin-misiri
+letter: C
 lisan: Türkçe
 anlamlar:
 - Ufak ve sert taneli, kavrulunca güzel patlayan mısır; cin darısı

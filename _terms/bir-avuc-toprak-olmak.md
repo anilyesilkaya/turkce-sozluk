@@ -2,6 +2,7 @@
 layout: term
 title: bir avuç toprak olmak
 slug: bir-avuc-toprak-olmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - ölmek

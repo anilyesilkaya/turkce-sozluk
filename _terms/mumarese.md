@@ -2,6 +2,7 @@
 layout: term
 title: mümarese
 slug: mumarese
+letter: M
 lisan: Arapça mumārese
 anlamlar:
 - ► yatkınlık

@@ -2,6 +2,7 @@
 layout: term
 title: gebertmek
 slug: gebertmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► öldürmek

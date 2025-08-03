@@ -2,6 +2,7 @@
 layout: term
 title: evet
 slug: evet
+letter: E
 lisan: Türkçe
 anlamlar:
 - “Öyledir” anlamında kullanılan bir doğrulama veya onaylama sözü; olur, oldu, tamam, ya (II), beli, ha (I), he (II)

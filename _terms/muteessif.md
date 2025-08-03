@@ -2,6 +2,7 @@
 layout: term
 title: müteessif
 slug: muteessif
+letter: M
 lisan: Arapça muteʾessif
 anlamlar:
 - Üzülen, esef eden

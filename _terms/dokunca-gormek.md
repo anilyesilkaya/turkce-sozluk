@@ -2,6 +2,7 @@
 layout: term
 title: dokunca görmek
 slug: dokunca-gormek
+letter: D
 lisan: Türkçe
 anlamlar:
 - zarara uğramak, harap olmak

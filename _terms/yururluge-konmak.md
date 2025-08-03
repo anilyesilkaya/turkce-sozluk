@@ -2,6 +2,7 @@
 layout: term
 title: yürürlüğe konmak
 slug: yururluge-konmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - bir kanun veya bir karar uygulama alanına konulmak

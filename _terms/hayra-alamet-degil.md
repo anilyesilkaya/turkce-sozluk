@@ -2,6 +2,7 @@
 layout: term
 title: hayra alamet değil
 slug: hayra-alamet-degil
+letter: H
 lisan: Türkçe
 anlamlar:
 - uğursuz sayılacak bir olay için kullanılan bir söz

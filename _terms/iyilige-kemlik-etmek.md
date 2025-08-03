@@ -2,6 +2,7 @@
 layout: term
 title: iyiliğe kemlik etmek
 slug: iyilige-kemlik-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - iyilik yapan birine kötülükle karşılık vermek

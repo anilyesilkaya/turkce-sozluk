@@ -2,6 +2,7 @@
 layout: term
 title: asma kat
 slug: asma-kat
+letter: A
 lisan: Türkçe
 anlamlar:
 - İmar mevzuatı açısından yüksekliği belli miktara ulaşan binalarda zemin katında düzenlenen, ait olduğu bağımsız bölümü tamamlayan ve bu bölümden bağlantı sağlayan kat; batar kat

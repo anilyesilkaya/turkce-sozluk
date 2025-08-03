@@ -2,6 +2,7 @@
 layout: term
 title: politika
 slug: politika
+letter: P
 lisan: İtalyanca politica
 anlamlar:
 - Devletin etkinliklerini amaç, yöntem ve içerik olarak düzenleme ve gerçekleştirme esaslarının bütünü; siyaset, siyasa

@@ -2,6 +2,7 @@
 layout: term
 title: Zümrüdüanka
 slug: zumruduanka
+letter: Z
 lisan: Farsça sī + murġ + Arapça ʿanḳā
 anlamlar:
 - ► Anka

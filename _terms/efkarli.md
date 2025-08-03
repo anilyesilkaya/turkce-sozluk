@@ -2,6 +2,7 @@
 layout: term
 title: efkârlı
 slug: efkarli
+letter: E
 lisan: Türkçe
 anlamlar:
 - Herhangi üzüntülü bir olay sebebiyle hüzünlenmiş olan

@@ -2,6 +2,7 @@
 layout: term
 title: rendeli
 slug: rendeli
+letter: R
 lisan: Türkçe
 anlamlar:
 - Rendesi olan, rendelenmiş

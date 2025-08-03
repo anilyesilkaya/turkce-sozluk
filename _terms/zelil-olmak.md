@@ -2,6 +2,7 @@
 layout: term
 title: zelil olmak
 slug: zelil-olmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - hor görülmek, aşağılanmak

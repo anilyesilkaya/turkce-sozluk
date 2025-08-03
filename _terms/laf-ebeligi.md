@@ -2,6 +2,7 @@
 layout: term
 title: laf ebeliği
 slug: laf-ebeligi
+letter: L
 lisan: Türkçe
 anlamlar:
 - Laf ebesi olma durumu; dil ebeliği, söz ebeliği

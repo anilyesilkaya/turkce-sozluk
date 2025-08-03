@@ -2,6 +2,7 @@
 layout: term
 title: ötümlülük
 slug: otumluluk
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► tonluluk

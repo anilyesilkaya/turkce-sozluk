@@ -2,6 +2,7 @@
 layout: term
 title: fena etmek
 slug: fena-etmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - kötü davranmak

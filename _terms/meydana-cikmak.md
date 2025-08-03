@@ -2,6 +2,7 @@
 layout: term
 title: meydana çıkmak
 slug: meydana-cikmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - ortaya çıkmak, görünmek

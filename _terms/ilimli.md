@@ -2,6 +2,7 @@
 layout: term
 title: ılımlı
 slug: ilimli
+letter: I
 lisan: Türkçe
 anlamlar:
 - Düşünce, iş vb.nde aşırıya kaçmayan; ölçülü, mutedil, itidalli

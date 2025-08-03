@@ -2,6 +2,7 @@
 layout: term
 title: bülbülleşmek
 slug: bulbullesmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bülbül gibi ötmek veya şakımak

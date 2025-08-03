@@ -2,6 +2,7 @@
 layout: term
 title: çullanma
 slug: cullanma
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çullanmak işi

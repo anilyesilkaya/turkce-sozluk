@@ -2,6 +2,7 @@
 layout: term
 title: unutulmak
 slug: unutulmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Unutma işine konu olmak

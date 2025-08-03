@@ -2,6 +2,7 @@
 layout: term
 title: ikibuçukluk
 slug: ikibucukluk
+letter: I
 lisan: Türkçe
 anlamlar:
 - Maçlarda top toplayan çocuklara ödenen iki buçuk lira sebebiyle verilen ad

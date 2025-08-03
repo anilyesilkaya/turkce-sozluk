@@ -2,6 +2,7 @@
 layout: term
 title: angarya (veya angaryasını) çekmek
 slug: angarya-veya-angaryasini-cekmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir işi isteksizce, hatır için yapmak zorunluluğunda olmak

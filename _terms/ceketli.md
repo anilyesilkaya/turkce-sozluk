@@ -2,6 +2,7 @@
 layout: term
 title: ceketli
 slug: ceketli
+letter: C
 lisan: Türkçe
 anlamlar:
 - Ceketi olan

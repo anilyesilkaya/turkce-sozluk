@@ -2,6 +2,7 @@
 layout: term
 title: ebet
 slug: ebet
+letter: E
 lisan: Arapça ebed
 anlamlar:
 - Sonu olmayan gelecek zaman; sonsuzluk

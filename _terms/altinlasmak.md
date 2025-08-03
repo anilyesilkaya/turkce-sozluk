@@ -2,6 +2,7 @@
 layout: term
 title: altınlaşmak
 slug: altinlasmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Altın durumu veya görünümü almak

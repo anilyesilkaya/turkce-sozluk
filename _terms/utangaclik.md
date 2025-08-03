@@ -2,6 +2,7 @@
 layout: term
 title: utangaçlık
 slug: utangaclik
+letter: U
 lisan: Türkçe
 anlamlar:
 - Utangaç olma durumu; bozum havası, mahcupluk, mahcubiyet

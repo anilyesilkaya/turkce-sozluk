@@ -2,6 +2,7 @@
 layout: term
 title: cinayet
 slug: cinayet
+letter: C
 lisan: Arapça cināyet
 anlamlar:
 - Bir canlıyı öldürme; kıya

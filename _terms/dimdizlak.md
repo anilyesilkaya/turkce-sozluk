@@ -2,6 +2,7 @@
 layout: term
 title: dımdızlak
 slug: dimdizlak
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► çırılçıplak

@@ -2,6 +2,7 @@
 layout: term
 title: hıyanet
 slug: hiyanet
+letter: H
 lisan: Arapça ḫiyānet
 anlamlar:
 - Kutsal sayılan şeylere el uzatma, kötülük etme veya karşı davranma; hıyanetlik, hainlik

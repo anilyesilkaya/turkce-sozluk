@@ -2,6 +2,7 @@
 layout: term
 title: '... yoluna'
 slug: yoluna
+letter: .
 lisan: Türkçe
 anlamlar:
 - '... uğruna'

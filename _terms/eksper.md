@@ -2,6 +2,7 @@
 layout: term
 title: eksper
 slug: eksper
+letter: E
 lisan: Fransızca expert
 anlamlar:
 - ► bilirkişi

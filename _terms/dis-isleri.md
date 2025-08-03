@@ -2,6 +2,7 @@
 layout: term
 title: dış işleri
 slug: dis-isleri
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir devletin başka devletlerle ilgili işleri; hariciye

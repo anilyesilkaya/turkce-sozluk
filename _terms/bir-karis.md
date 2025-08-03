@@ -2,6 +2,7 @@
 layout: term
 title: bir karış
 slug: bir-karis
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çok kısa

@@ -2,6 +2,7 @@
 layout: term
 title: miyavlama
 slug: miyavlama
+letter: M
 lisan: Türkçe
 anlamlar:
 - Miyavlamak işi

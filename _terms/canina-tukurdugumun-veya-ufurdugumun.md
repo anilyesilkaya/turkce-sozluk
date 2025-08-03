@@ -2,6 +2,7 @@
 layout: term
 title: canına tükürdüğümün (veya üfürdüğümün)
 slug: canina-tukurdugumun-veya-ufurdugumun
+letter: C
 lisan: Türkçe
 anlamlar:
 - kızgınlık ve öfke belirten bir söz

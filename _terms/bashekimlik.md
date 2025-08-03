@@ -2,6 +2,7 @@
 layout: term
 title: başhekimlik
 slug: bashekimlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başhekim olma durumu; başdoktorluk, baştabiplik, sertabiplik

@@ -2,6 +2,7 @@
 layout: term
 title: itimat etmek (veya beslemek)
 slug: itimat-etmek-veya-beslemek
+letter: I
 lisan: Türkçe
 anlamlar:
 - güvenmek

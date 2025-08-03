@@ -2,6 +2,7 @@
 layout: term
 title: delinmek
 slug: delinmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Delme işi yapılmak

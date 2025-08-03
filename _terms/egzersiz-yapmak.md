@@ -2,6 +2,7 @@
 layout: term
 title: egzersiz yapmak
 slug: egzersiz-yapmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - alıştırma yapmak

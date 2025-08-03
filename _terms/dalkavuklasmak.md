@@ -2,6 +2,7 @@
 layout: term
 title: dalkavuklaşmak
 slug: dalkavuklasmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dalkavukça davranmaya başlamak

@@ -2,6 +2,7 @@
 layout: term
 title: kabuk
 slug: kabuk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir şeyin üstünü kaplayan ve onu dış etkilere karşı koruyan, kendiliğinden oluşmuş sertçe bölüm; kışır

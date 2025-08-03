@@ -2,6 +2,7 @@
 layout: term
 title: askerlik yoklaması
 slug: askerlik-yoklamasi
+letter: A
 lisan: Türkçe
 anlamlar:
 - İlk kez askere gideceklerin nüfus kayıtlarının belirlenmesi ve askere çağrılması

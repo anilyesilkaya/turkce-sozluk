@@ -2,6 +2,7 @@
 layout: term
 title: cevap vermek
 slug: cevap-vermek
+letter: C
 lisan: Türkçe
 anlamlar:
 - karşılık olarak bildirmek veya söylemek

@@ -2,6 +2,7 @@
 layout: term
 title: ısırtmak
 slug: isirtmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - Isırmasına sebep olmak

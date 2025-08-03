@@ -2,6 +2,7 @@
 layout: term
 title: başmakale
 slug: basmakale
+letter: B
 lisan: Türkçe baş + Arapça maḳāle
 anlamlar:
 - ► başyazı

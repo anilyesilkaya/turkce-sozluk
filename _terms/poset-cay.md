@@ -2,6 +2,7 @@
 layout: term
 title: poşet çay
 slug: poset-cay
+letter: P
 lisan: Türkçe
 anlamlar:
 - Demlikte kullanılmak üzere torbacıklarla hazırlanmış çay

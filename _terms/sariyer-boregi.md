@@ -2,6 +2,7 @@
 layout: term
 title: Sarıyer böreği
 slug: sariyer-boregi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sarıyer ilçesine özgü bir börek türü

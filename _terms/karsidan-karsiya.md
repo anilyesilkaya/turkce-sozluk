@@ -2,6 +2,7 @@
 layout: term
 title: karşıdan karşıya
 slug: karsidan-karsiya
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir yandan öbür yana

@@ -2,6 +2,7 @@
 layout: term
 title: bağışlanmak
 slug: bagislanmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağışlama işine konu olmak, affa uğramak; affedilmek, affolmak, affolunmak, bahşedilmek

@@ -2,6 +2,7 @@
 layout: term
 title: kürdan
 slug: kurdan
+letter: K
 lisan: Fransızca cure-dent
 anlamlar:
 - Dişleri temizlemek için kullanılan küçük, ince çöp

@@ -2,6 +2,7 @@
 layout: term
 title: balyos
 slug: balyos
+letter: B
 lisan: Rumca
 anlamlar:
 - Osmanlı Devleti'nde Frenk ve özellikle Venedik elçilerine verilen ad

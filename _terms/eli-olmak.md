@@ -2,6 +2,7 @@
 layout: term
 title: eli olmak
 slug: eli-olmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - karışmış olmak, gizli bir ilgisi bulunmak

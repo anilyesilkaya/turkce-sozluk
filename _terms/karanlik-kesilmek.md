@@ -2,6 +2,7 @@
 layout: term
 title: karanlık kesilmek
 slug: karanlik-kesilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - ortalık birdenbire kararmak

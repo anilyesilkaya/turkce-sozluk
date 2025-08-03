@@ -2,6 +2,7 @@
 layout: term
 title: buharlı lokomotif
 slug: buharli-lokomotif
+letter: B
 lisan: Türkçe
 anlamlar:
 - Buhar gücüyle çalışan lokomotif; buharlı tren

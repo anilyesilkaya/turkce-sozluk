@@ -2,6 +2,7 @@
 layout: term
 title: karşılaştırmalı edebiyat
 slug: karsilastirmali-edebiyat
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karşılaştırma yöntemiyle çeşitli edebiyatlar arasındaki ilişkileri, benzerlikleri tespit etmeyi amaçlayan bilim dalı; mukayeseli edebiyat

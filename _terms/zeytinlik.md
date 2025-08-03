@@ -2,6 +2,7 @@
 layout: term
 title: zeytinlik
 slug: zeytinlik
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zeytin yetiştirilen alan

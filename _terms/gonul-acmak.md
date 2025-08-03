@@ -2,6 +2,7 @@
 layout: term
 title: gönül açmak
 slug: gonul-acmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - insanın iç sıkıntısını gidermek, iç açmak

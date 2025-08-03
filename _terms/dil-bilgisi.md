@@ -2,6 +2,7 @@
 layout: term
 title: dil bilgisi
 slug: dil-bilgisi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir dilin ses, biçim ve cümle yapısını inceleyip kurallarını tespit eden bilim; gramer

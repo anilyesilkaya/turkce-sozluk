@@ -2,6 +2,7 @@
 layout: term
 title: dergâh
 slug: dergah
+letter: D
 lisan: Farsça dergāh
 anlamlar:
 - ► tekke

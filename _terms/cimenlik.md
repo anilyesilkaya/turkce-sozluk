@@ -2,6 +2,7 @@
 layout: term
 title: çimenlik
 slug: cimenlik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çimeni olan yer

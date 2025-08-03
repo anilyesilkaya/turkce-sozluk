@@ -2,6 +2,7 @@
 layout: term
 title: saçını süpürge etmek
 slug: sacini-supurge-etmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - kadın özveri ile çalışıp hizmet etmek

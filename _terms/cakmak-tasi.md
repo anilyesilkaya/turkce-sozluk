@@ -2,6 +2,7 @@
 layout: term
 title: çakmak taşı
 slug: cakmak-tasi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Demir veya çeliğe sürtüldüğünde kıvılcım çıkartan bir kuvars türü

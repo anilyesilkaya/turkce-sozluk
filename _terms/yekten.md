@@ -2,6 +2,7 @@
 layout: term
 title: yekten
 slug: yekten
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► ansızın

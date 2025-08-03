@@ -2,6 +2,7 @@
 layout: term
 title: yürütebilmek
 slug: yurutebilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yürütme ihtimali veya imkânı bulunmak

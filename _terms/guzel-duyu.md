@@ -2,6 +2,7 @@
 layout: term
 title: güzel duyu
 slug: guzel-duyu
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► estetik

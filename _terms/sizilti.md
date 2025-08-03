@@ -2,6 +2,7 @@
 layout: term
 title: sızıltı
 slug: sizilti
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► sızlanma

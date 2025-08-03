@@ -2,6 +2,7 @@
 layout: term
 title: bildiğini okumak
 slug: bildigini-okumak
+letter: B
 lisan: Türkçe
 anlamlar:
 - herkes ne derse desin bildiği, istediği gibi davranmak

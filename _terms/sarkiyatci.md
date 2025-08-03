@@ -2,6 +2,7 @@
 layout: term
 title: Şarkiyatçı
 slug: sarkiyatci
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► Doğu bilimci

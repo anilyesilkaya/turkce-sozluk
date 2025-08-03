@@ -2,6 +2,7 @@
 layout: term
 title: testilik
 slug: testilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Eskiden evlerin iç avlularına su dolu testileri koymak için yapılan delikli tahta raf

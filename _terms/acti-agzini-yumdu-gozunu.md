@@ -2,6 +2,7 @@
 layout: term
 title: açtı ağzını, yumdu gözünü
 slug: acti-agzini-yumdu-gozunu
+letter: A
 lisan: Türkçe
 anlamlar:
 - '"öfkelenerek veya kızarak ağır sözler söyledi" anlamında kullanılan bir söz'

@@ -2,6 +2,7 @@
 layout: term
 title: tekli
 slug: tekli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tek yataklı otel odası

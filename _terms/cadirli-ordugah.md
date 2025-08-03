@@ -2,6 +2,7 @@
 layout: term
 title: çadırlı ordugâh
 slug: cadirli-ordugah
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çadırlarda barındırılan askerî güç

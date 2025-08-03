@@ -2,6 +2,7 @@
 layout: term
 title: mezada çıkarmak (veya koymak)
 slug: mezada-cikarmak-veya-koymak
+letter: M
 lisan: Türkçe
 anlamlar:
 - açık artırma yoluyla bir malı satışa çıkarmak

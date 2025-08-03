@@ -2,6 +2,7 @@
 layout: term
 title: dolaşılmak
 slug: dolasilmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dolaşma işi yapılmak

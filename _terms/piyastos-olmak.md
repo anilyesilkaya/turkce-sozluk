@@ -2,6 +2,7 @@
 layout: term
 title: piyastos olmak
 slug: piyastos-olmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - biri yakalanmak, tutuklanmak, ele geçmek enselenmek

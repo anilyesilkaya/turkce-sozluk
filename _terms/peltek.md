@@ -2,6 +2,7 @@
 layout: term
 title: peltek
 slug: peltek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Dilini dişlerinin arasına alır gibi konuşan ve bu yüzden s, z gibi sesleri kusurlu söyleyen (kimse)

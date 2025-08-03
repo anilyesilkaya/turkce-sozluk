@@ -2,6 +2,7 @@
 layout: term
 title: karaborsacı
 slug: karaborsaci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karaborsacılık yapan kimse

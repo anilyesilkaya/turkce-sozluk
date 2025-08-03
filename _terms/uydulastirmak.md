@@ -2,6 +2,7 @@
 layout: term
 title: uydulaştırmak
 slug: uydulastirmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uydu durumuna getirmek

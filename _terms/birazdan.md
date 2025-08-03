@@ -2,6 +2,7 @@
 layout: term
 title: birazdan
 slug: birazdan
+letter: B
 lisan: Türkçe
 anlamlar:
 - Az sonra

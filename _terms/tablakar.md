@@ -2,6 +2,7 @@
 layout: term
 title: tablakâr
 slug: tablakar
+letter: T
 lisan: Arapça ṭabla + Farsça -kār
 anlamlar:
 - ► tablacı

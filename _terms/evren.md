@@ -2,6 +2,7 @@
 layout: term
 title: Evren
 slug: evren
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ankara iline bağlı ilçelerden biri

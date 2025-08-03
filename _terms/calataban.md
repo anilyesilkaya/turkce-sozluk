@@ -2,6 +2,7 @@
 layout: term
 title: çalataban
 slug: calataban
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Hızlıca koşarak, kaçarak

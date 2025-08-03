@@ -2,6 +2,7 @@
 layout: term
 title: ırgatbaşı
 slug: irgatbasi
+letter: I
 lisan: Türkçe
 anlamlar:
 - Irgatlardan sorumlu kimse

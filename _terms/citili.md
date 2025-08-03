@@ -2,6 +2,7 @@
 layout: term
 title: çitili
 slug: citili
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çitilenmiş olan

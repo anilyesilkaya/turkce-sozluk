@@ -2,6 +2,7 @@
 layout: term
 title: arzululuk
 slug: arzululuk
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► isteklilik

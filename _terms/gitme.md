@@ -2,6 +2,7 @@
 layout: term
 title: gitme
 slug: gitme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gitmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: ilahlaşmak
 slug: ilahlasmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - İlah durumuna veya biçimine gelmek

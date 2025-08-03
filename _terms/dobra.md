@@ -2,6 +2,7 @@
 layout: term
 title: dobra
 slug: dobra
+letter: D
 lisan: Bulgarca
 anlamlar:
 - ► açık sözlü

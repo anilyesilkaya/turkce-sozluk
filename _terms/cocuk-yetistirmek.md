@@ -2,6 +2,7 @@
 layout: term
 title: çocuk yetiştirmek
 slug: cocuk-yetistirmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - çocuğu topluma yararlı bir duruma getirmek

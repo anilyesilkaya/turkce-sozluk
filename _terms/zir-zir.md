@@ -2,6 +2,7 @@
 layout: term
 title: zır zır
 slug: zir-zir
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Bıktırıcı ve sürekli bir ses çıkararak

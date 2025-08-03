@@ -2,6 +2,7 @@
 layout: term
 title: 'Karapapak Türkçesi '
 slug: karapapak-turkcesi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karapapak Türklerinin kullandığı konuşma dili; Karapapakça, Terekemece, Terekeme Türkçesi

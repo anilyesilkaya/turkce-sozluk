@@ -2,6 +2,7 @@
 layout: term
 title: merhametsizce
 slug: merhametsizce
+letter: M
 lisan: Türkçe
 anlamlar:
 - Merhamet etmeksizin, merhametsiz bir biçimde, acımadan; merhametsizcesine, kalpsizce

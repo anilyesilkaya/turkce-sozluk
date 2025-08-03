@@ -2,6 +2,7 @@
 layout: term
 title: ihtida
 slug: ihtida
+letter: I
 lisan: Arapça ihtidāʾ
 anlamlar:
 - Doğru yola girme, hidayete erme

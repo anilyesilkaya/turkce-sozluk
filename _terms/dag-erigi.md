@@ -2,6 +2,7 @@
 layout: term
 title: dağ eriği
 slug: dag-erigi
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► çakal eriği

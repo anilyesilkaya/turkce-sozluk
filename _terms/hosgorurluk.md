@@ -2,6 +2,7 @@
 layout: term
 title: hoşgörürlük
 slug: hosgorurluk
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► hoşgörülülük

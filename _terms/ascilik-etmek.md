@@ -2,6 +2,7 @@
 layout: term
 title: aşçılık etmek
 slug: ascilik-etmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - yemek pişirmek

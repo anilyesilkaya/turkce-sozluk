@@ -2,6 +2,7 @@
 layout: term
 title: kutucuk
 slug: kutucuk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Küçük kutu

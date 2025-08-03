@@ -2,6 +2,7 @@
 layout: term
 title: alışveriş merkezi
 slug: alisveris-merkezi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Mağazaların yoğun olarak bulunduğu yer

@@ -2,6 +2,7 @@
 layout: term
 title: bağrı yufka
 slug: bagri-yufka
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► yufka yürekli

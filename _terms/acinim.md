@@ -2,6 +2,7 @@
 layout: term
 title: açınım
 slug: acinim
+letter: A
 lisan: Türkçe
 anlamlar:
 - Açınmak işi

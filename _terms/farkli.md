@@ -2,6 +2,7 @@
 layout: term
 title: farklı
 slug: farkli
+letter: F
 lisan: Türkçe
 anlamlar:
 - Aralarında fark bulunan; değişik, ayrımlı, daha bir, alternatif

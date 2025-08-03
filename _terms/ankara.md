@@ -2,6 +2,7 @@
 layout: term
 title: Ankara
 slug: ankara
+letter: A
 lisan: Türkçe
 anlamlar:
 - Türkiye'nin İç Anadolu Bölgesi'nde yer alan illerinden biri, Türkiye'nin başkenti

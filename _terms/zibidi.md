@@ -2,6 +2,7 @@
 layout: term
 title: zibidi
 slug: zibidi
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Gülünç olacak derecede kısa ve dar giyinmiş olan

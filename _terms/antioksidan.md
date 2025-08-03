@@ -2,6 +2,7 @@
 layout: term
 title: antioksidan
 slug: antioksidan
+letter: A
 lisan: Fransızca antioxydant
 anlamlar:
 - Genellikle yağların, yağlı besinlerin uzun süre saklanabilmesi, beyaz renkli sebze ve meyvelerin kararmasının önlenmesi için kullanılan madde

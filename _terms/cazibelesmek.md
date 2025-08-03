@@ -2,6 +2,7 @@
 layout: term
 title: cazibeleşmek
 slug: cazibelesmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► çekicileşmek

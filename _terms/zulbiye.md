@@ -2,6 +2,7 @@
 layout: term
 title: zülbiye
 slug: zulbiye
+letter: Z
 lisan: Arapça zulbiye
 anlamlar:
 - ► Bergama tatlısı

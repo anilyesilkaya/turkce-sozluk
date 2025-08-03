@@ -2,6 +2,7 @@
 layout: term
 title: eğrelti
 slug: egrelti
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► eğrelti otu

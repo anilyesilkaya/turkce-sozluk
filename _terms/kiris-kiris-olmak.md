@@ -2,6 +2,7 @@
 layout: term
 title: kırış kırış olmak
 slug: kiris-kiris-olmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - çok kırışmak

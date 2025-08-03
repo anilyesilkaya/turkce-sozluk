@@ -2,6 +2,7 @@
 layout: term
 title: bunalıvermek
 slug: bunalivermek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çabucak bunalmak

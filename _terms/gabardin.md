@@ -2,6 +2,7 @@
 layout: term
 title: gabardin
 slug: gabardin
+letter: G
 lisan: Fransızca gabardine
 anlamlar:
 - Sık dokunmuş bir tür ince yünlü veya pamuklu kumaş

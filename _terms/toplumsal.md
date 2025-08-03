@@ -2,6 +2,7 @@
 layout: term
 title: toplumsal
 slug: toplumsal
+letter: T
 lisan: Türkçe
 anlamlar:
 - Toplumla ilgili, topluma ilişkin; içtimai, maşerî, sosyal

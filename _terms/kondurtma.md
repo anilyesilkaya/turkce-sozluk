@@ -2,6 +2,7 @@
 layout: term
 title: kondurtma
 slug: kondurtma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kondurtmak işi

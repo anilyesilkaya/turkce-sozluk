@@ -2,6 +2,7 @@
 layout: term
 title: gözetilmek
 slug: gozetilmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gözetme işi yapılmak veya gözetme işine konu olmak

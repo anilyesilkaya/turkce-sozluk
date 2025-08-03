@@ -2,6 +2,7 @@
 layout: term
 title: mintanlı
 slug: mintanli
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mintan giymiş olan

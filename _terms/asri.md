@@ -2,6 +2,7 @@
 layout: term
 title: asri
 slug: asri
+letter: A
 lisan: Arapça ʿaṣrī
 anlamlar:
 - ► çağdaş

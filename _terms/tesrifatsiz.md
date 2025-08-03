@@ -2,6 +2,7 @@
 layout: term
 title: teşrifatsız
 slug: tesrifatsiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Resmî veya geleneksel kurallara bağlı olmayan

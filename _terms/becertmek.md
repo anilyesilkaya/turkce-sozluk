@@ -2,6 +2,7 @@
 layout: term
 title: becertmek
 slug: becertmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Becerme işini yaptırmak

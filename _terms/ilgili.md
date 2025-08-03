@@ -2,6 +2,7 @@
 layout: term
 title: ilgili
 slug: ilgili
+letter: I
 lisan: Türkçe
 anlamlar:
 - İlgilenmiş olan, ilgisi bulunan; alakalı, alakadar, müntesip

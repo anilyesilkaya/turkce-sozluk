@@ -2,6 +2,7 @@
 layout: term
 title: adamsız
 slug: adamsiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Herhangi biri olmadan

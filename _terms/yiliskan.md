@@ -2,6 +2,7 @@
 layout: term
 title: yılışkan
 slug: yiliskan
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Hoşa gitmek düşüncesiyle sürekli olarak ve yapmacıklı bir biçimde gülen (kimse)

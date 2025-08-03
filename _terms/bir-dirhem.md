@@ -2,6 +2,7 @@
 layout: term
 title: bir dirhem
 slug: bir-dirhem
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çok az, hiç denecek kadar az

@@ -2,6 +2,7 @@
 layout: term
 title: zimmetli
 slug: zimmetli
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zimmet edilmiş

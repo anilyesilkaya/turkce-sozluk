@@ -2,6 +2,7 @@
 layout: term
 title: zamanlı zamansız
 slug: zamanli-zamansiz
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► vakitli vakitsiz

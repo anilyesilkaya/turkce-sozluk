@@ -2,6 +2,7 @@
 layout: term
 title: tekel
 slug: tekel
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir malın yapımının yalnızca bir kuruluşun elinde bulunduğu durum; inhisar, monopol

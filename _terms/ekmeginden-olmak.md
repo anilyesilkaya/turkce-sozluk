@@ -2,6 +2,7 @@
 layout: term
 title: ekmeğinden olmak
 slug: ekmeginden-olmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - geçimini sağlayan işinden zorunlu olarak ayrılmak

@@ -2,6 +2,7 @@
 layout: term
 title: Hanefi
 slug: hanefi
+letter: H
 lisan: Arapça ḥanefī
 anlamlar:
 - İslamiyet'in dört Sünni mezhebinden biri

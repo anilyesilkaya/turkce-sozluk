@@ -2,6 +2,7 @@
 layout: term
 title: kürk
 slug: kurk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bazı hayvanların, giyecek yapmak için işlenmiş postu

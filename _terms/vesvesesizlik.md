@@ -2,6 +2,7 @@
 layout: term
 title: vesvesesizlik
 slug: vesvesesizlik
+letter: V
 lisan: Türkçe
 anlamlar:
 - ► kuruntusuzluk

@@ -2,6 +2,7 @@
 layout: term
 title: dinamitleme
 slug: dinamitleme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dinamitlemek işi

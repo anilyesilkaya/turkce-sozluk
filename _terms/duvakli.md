@@ -2,6 +2,7 @@
 layout: term
 title: duvaklı
 slug: duvakli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Başı ve yüzü duvakla örtülü

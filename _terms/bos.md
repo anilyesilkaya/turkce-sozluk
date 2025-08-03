@@ -2,6 +2,7 @@
 layout: term
 title: boş
 slug: bos
+letter: B
 lisan: Türkçe
 anlamlar:
 - İçinde, üstünde hiç kimse veya hiçbir şey bulunmayan; hali, tehi, tıngır, dolu (II) karşıtı

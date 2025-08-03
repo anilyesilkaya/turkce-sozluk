@@ -2,6 +2,7 @@
 layout: term
 title: kahve değirmeni
 slug: kahve-degirmeni
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çekirdek durumundaki kahveyi öğütmeye yarayan, elle veya elektrikle işleyen araç

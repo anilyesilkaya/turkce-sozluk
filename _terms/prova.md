@@ -2,6 +2,7 @@
 layout: term
 title: prova
 slug: prova
+letter: P
 lisan: İtalyanca prova
 anlamlar:
 - Bir şeyin amacına uygun, istenilen düzeyde olup olmadığını anlamak için yapılan deneme

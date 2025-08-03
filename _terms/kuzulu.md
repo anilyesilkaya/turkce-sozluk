@@ -2,6 +2,7 @@
 layout: term
 title: kuzulu
 slug: kuzulu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kuzusu olan (koyun)

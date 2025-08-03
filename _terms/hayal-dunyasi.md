@@ -2,6 +2,7 @@
 layout: term
 title: hayal dünyası
 slug: hayal-dunyasi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Bir kimsenin hayal gücünün meydana getirdiği şeylerle dolu olan ve gerçeğin dışında kalan iç dünyası; hayal âlemi

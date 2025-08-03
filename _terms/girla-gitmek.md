@@ -2,6 +2,7 @@
 layout: term
 title: gırla gitmek
 slug: girla-gitmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - uzun sürmek, sürüp gitmek

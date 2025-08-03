@@ -2,6 +2,7 @@
 layout: term
 title: neyin nesi (kimin fesi)
 slug: neyin-nesi-kimin-fesi
+letter: N
 lisan: Türkçe
 anlamlar:
 - kimdir, nasıl bir kişidir?

@@ -2,6 +2,7 @@
 layout: term
 title: ağzını bozmak
 slug: agzini-bozmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - kaba sözler söylemek, küfretmek

@@ -2,6 +2,7 @@
 layout: term
 title: makta
 slug: makta
+letter: M
 lisan: Arapça maḳṭaʿ
 anlamlar:
 - Kalem ucunu düzeltmeye yarayan kemikten yapılmış araç

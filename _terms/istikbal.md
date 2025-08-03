@@ -2,6 +2,7 @@
 layout: term
 title: istikbal
 slug: istikbal
+letter: I
 lisan: Arapça istiḳbāl
 anlamlar:
 - ► gelecek

@@ -2,6 +2,7 @@
 layout: term
 title: iyi niyetli
 slug: iyi-niyetli
+letter: I
 lisan: Türkçe
 anlamlar:
 - İyi niyet sahibi

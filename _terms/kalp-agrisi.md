@@ -2,6 +2,7 @@
 layout: term
 title: kalp ağrısı
 slug: kalp-agrisi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Aşktan doğan üzüntü; yürek ağrısı

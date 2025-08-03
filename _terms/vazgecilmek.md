@@ -2,6 +2,7 @@
 layout: term
 title: vazgeçilmek
 slug: vazgecilmek
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vazgeçme işi yapılmak, feragat edilmek

@@ -2,6 +2,7 @@
 layout: term
 title: bileylemek
 slug: bileylemek
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bilemek

@@ -2,6 +2,7 @@
 layout: term
 title: santilitre
 slug: santilitre
+letter: S
 lisan: Fransızca centilitre
 anlamlar:
 - Bir litrenin yüzde biri (cl)

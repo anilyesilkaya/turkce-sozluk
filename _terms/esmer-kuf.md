@@ -2,6 +2,7 @@
 layout: term
 title: esmer küf
 slug: esmer-kuf
+letter: E
 lisan: Türkçe
 anlamlar:
 - Esmer küfler familyasının asalak hayata uyabilen örnek türü, özellikle arılarda öldürücü gelişmeler doğuran ilkel mantar (Mucor mucedo)

@@ -2,6 +2,7 @@
 layout: term
 title: engelleme
 slug: engelleme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Engellemek işi

@@ -2,6 +2,7 @@
 layout: term
 title: gereksinme duymak
 slug: gereksinme-duymak
+letter: G
 lisan: Türkçe
 anlamlar:
 - ihtiyacı olduğunu anlamak

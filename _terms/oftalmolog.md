@@ -2,6 +2,7 @@
 layout: term
 title: oftalmolog
 slug: oftalmolog
+letter: O
 lisan: Fransızca ophtalmologue
 anlamlar:
 - ► göz bilimci

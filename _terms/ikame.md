@@ -2,6 +2,7 @@
 layout: term
 title: ikame
 slug: ikame
+letter: I
 lisan: Arapça iḳāme
 anlamlar:
 - Bir şeyi başka bir şeyin yerine koyma, yerine kullanma

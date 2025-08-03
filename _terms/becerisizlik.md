@@ -2,6 +2,7 @@
 layout: term
 title: becerisizlik
 slug: becerisizlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► beceriksizlik

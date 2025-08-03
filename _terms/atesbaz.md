@@ -2,6 +2,7 @@
 layout: term
 title: ateşbaz
 slug: atesbaz
+letter: A
 lisan: Farsça āteşbāz
 anlamlar:
 - Ateşle hüner gösteren oyuncu

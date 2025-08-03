@@ -2,6 +2,7 @@
 layout: term
 title: buğdaysı meyve
 slug: bugdaysi-meyve
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çok ince olan kabuğu, zarından ayrılmayacak derecede kaynaşmış olan, tohum izlenimi veren bir kuru meyve; buğdaysı tane, buğdaysı tohum

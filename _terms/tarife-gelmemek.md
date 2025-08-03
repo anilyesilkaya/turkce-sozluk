@@ -2,6 +2,7 @@
 layout: term
 title: tarife gelmemek
 slug: tarife-gelmemek
+letter: T
 lisan: Türkçe
 anlamlar:
 - açıklanması güç olmak

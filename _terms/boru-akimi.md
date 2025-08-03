@@ -2,6 +2,7 @@
 layout: term
 title: boru akımı
 slug: boru-akimi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boru kaplamasının açık yerlerinden boruya girerek boru üzerinden akım uygulanan noktaya doğru akan ve anot yatağından toprağa geçen pozitif elektrik

@@ -2,6 +2,7 @@
 layout: term
 title: kurtarıvermek
 slug: kurtarivermek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çabucak kurtarmak

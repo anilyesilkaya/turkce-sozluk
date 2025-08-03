@@ -2,6 +2,7 @@
 layout: term
 title: gümbürdemek
 slug: gumburdemek
+letter: G
 lisan: Türkçe
 anlamlar:
 - '"Gümbür" diye ses çıkarmak'

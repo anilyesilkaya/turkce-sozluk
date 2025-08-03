@@ -2,6 +2,7 @@
 layout: term
 title: rağbet etmek (veya göstermek)
 slug: ragbet-etmek-veya-gostermek
+letter: R
 lisan: Türkçe
 anlamlar:
 - istemek, beğenmek, istekle karşılamak

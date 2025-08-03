@@ -2,6 +2,7 @@
 layout: term
 title: hail
 slug: hail
+letter: H
 lisan: Arapça ḥāʾil
 anlamlar:
 - ► engel

@@ -2,6 +2,7 @@
 layout: term
 title: açıklayıvermek
 slug: aciklayivermek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Çabucak veya kolayca açıklamak

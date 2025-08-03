@@ -2,6 +2,7 @@
 layout: term
 title: çocuk kalmak
 slug: cocuk-kalmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - büyümüş olmasına rağmen çocukça düşünceler taşıyıp çocuk gibi davranmak

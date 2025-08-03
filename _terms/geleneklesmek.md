@@ -2,6 +2,7 @@
 layout: term
 title: gelenekleşmek
 slug: geleneklesmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gelenek durumuna gelmek, gelenek değeri kazanmak; ananeleşmek

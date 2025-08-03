@@ -2,6 +2,7 @@
 layout: term
 title: merkat
 slug: merkat
+letter: M
 lisan: Arapça merḳad
 anlamlar:
 - Mezar, kabir

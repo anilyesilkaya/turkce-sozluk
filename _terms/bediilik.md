@@ -2,6 +2,7 @@
 layout: term
 title: bediilik
 slug: bediilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bedii olma durumu

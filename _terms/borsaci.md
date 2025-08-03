@@ -2,6 +2,7 @@
 layout: term
 title: borsacı
 slug: borsaci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Senet, bono, tahvil, hisse senedi vb. taşınır değerlerin alım satımı ve değişimi işiyle uğraşan kimse

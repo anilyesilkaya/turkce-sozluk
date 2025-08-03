@@ -2,6 +2,7 @@
 layout: term
 title: üreme
 slug: ureme
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üremek işi

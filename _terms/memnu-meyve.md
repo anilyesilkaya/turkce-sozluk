@@ -2,6 +2,7 @@
 layout: term
 title: memnu meyve
 slug: memnu-meyve
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► yasak meyve

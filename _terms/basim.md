@@ -2,6 +2,7 @@
 layout: term
 title: basım
 slug: basim
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► basımcılık

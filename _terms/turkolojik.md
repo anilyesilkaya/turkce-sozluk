@@ -2,6 +2,7 @@
 layout: term
 title: Türkolojik
 slug: turkolojik
+letter: T
 lisan: Fransızca turcologique
 anlamlar:
 - Türklük bilimi ile ilgili

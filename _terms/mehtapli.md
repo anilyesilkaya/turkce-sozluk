@@ -2,6 +2,7 @@
 layout: term
 title: mehtaplı
 slug: mehtapli
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► aylı

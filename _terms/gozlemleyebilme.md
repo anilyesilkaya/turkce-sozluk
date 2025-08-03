@@ -2,6 +2,7 @@
 layout: term
 title: gözlemleyebilme
 slug: gozlemleyebilme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gözlemleyebilmek işi

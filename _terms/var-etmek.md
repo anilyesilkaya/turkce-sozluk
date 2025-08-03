@@ -2,6 +2,7 @@
 layout: term
 title: var etmek
 slug: var-etmek
+letter: V
 lisan: Türkçe
 anlamlar:
 - meydana getirmek

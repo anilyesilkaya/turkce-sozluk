@@ -2,6 +2,7 @@
 layout: term
 title: değiştirebilmek
 slug: degistirebilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Değiştirmeye ihtimali veya imkânı bulunmak

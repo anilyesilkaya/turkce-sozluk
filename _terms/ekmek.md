@@ -2,6 +2,7 @@
 layout: term
 title: ekmek
 slug: ekmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Tahıl unundan yapılmış hamurun fırında, sacda veya tandırda pişirilmesiyle yapılan yiyecek; nan, nanıaziz

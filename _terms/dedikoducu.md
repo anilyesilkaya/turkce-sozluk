@@ -2,6 +2,7 @@
 layout: term
 title: dedikoducu
 slug: dedikoducu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çok dedikodu yapan; kovcu, gıybetçi, dillek, lakırtıcı

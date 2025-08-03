@@ -2,6 +2,7 @@
 layout: term
 title: sihirsiz
 slug: sihirsiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► büyüsüz

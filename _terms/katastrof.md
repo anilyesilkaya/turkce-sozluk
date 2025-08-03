@@ -2,6 +2,7 @@
 layout: term
 title: katastrof
 slug: katastrof
+letter: K
 lisan: Fransızca catastrophe
 anlamlar:
 - ► felaket

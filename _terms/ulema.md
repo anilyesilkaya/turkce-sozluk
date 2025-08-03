@@ -2,6 +2,7 @@
 layout: term
 title: ulema
 slug: ulema
+letter: U
 lisan: Arapça ʿulemā
 anlamlar:
 - Bilginler

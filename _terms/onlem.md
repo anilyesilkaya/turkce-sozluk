@@ -2,6 +2,7 @@
 layout: term
 title: önlem
 slug: onlem
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Kötü veya yanlış bir şeyi önleyecek yol; tedbir

@@ -2,6 +2,7 @@
 layout: term
 title: caz
 slug: caz
+letter: C
 lisan: İngilizce jazz
 anlamlar:
 - Başlangıçta Kuzey Amerika zencilerine aitken sonraları bütün dünyada benimsenen bir müzik türü

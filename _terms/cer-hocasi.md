@@ -2,6 +2,7 @@
 layout: term
 title: cer hocası
 slug: cer-hocasi
+letter: C
 lisan: Türkçe
 anlamlar:
 - Köylerde imamlık veya müezzinlik yaptığı için kendisine para ve erzak verilen medrese öğrencisi

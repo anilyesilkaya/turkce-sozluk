@@ -2,6 +2,7 @@
 layout: term
 title: akik
 slug: akik
+letter: A
 lisan: Arapça ʿaḳīḳ
 anlamlar:
 - Kalseduan kuvarsının bir türü olan, yüzük taşı, mühür vb. yapmakta kullanılan, türlü renklerde, yarı saydam, parlak ve değerli bir taş

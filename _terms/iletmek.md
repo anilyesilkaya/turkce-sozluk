@@ -2,6 +2,7 @@
 layout: term
 title: iletmek
 slug: iletmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Götürmek, ulaştırmak, nakletmek, geçirmek

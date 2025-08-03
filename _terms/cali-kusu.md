@@ -2,6 +2,7 @@
 layout: term
 title: çalı kuşu
 slug: cali-kusu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Serçegillerden, başı koyu kırmızı, gövdesine doğru rengi açılan, çalılık yerleri seven ötücü bir kuş (Troglodytes)

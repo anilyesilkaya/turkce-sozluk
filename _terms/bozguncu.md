@@ -2,6 +2,7 @@
 layout: term
 title: bozguncu
 slug: bozguncu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bozgunluk yaratan (kimse, güç vb.)

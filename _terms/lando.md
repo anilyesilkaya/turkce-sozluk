@@ -2,6 +2,7 @@
 layout: term
 title: lando
 slug: lando
+letter: L
 lisan: Fransızca landau
 anlamlar:
 - Dört tekerlekli, içinde dingillere paralel olarak düzenlenmiş karşılıklı iki oturma sırası bulunan, üstü açılıp kapanabilen çift körüklü binek arabası

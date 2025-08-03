@@ -2,6 +2,7 @@
 layout: term
 title: şirürji
 slug: sirurji
+letter: Ş
 lisan: Fransızca chirurgie
 anlamlar:
 - ► cerrahi

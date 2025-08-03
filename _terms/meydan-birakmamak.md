@@ -2,6 +2,7 @@
 layout: term
 title: meydan bırakmamak
 slug: meydan-birakmamak
+letter: M
 lisan: Türkçe
 anlamlar:
 - fırsat vermemek

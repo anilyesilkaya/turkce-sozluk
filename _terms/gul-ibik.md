@@ -2,6 +2,7 @@
 layout: term
 title: gül ibik
 slug: gul-ibik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güle benzer ibiği bulunan bir tür horoz veya tavuk

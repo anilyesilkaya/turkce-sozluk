@@ -2,6 +2,7 @@
 layout: term
 title: bağnazlık
 slug: bagnazlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir kimseye veya bir şeye aşırı düşkünlük ve tutkuyla bağlılık, bağnazca davranış; taassup, mutaassıplık, fanatiklik, fanatizm

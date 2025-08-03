@@ -2,6 +2,7 @@
 layout: term
 title: tarumar olmak
 slug: tarumar-olmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - dağılmak, karışmak, darmadağın olmak

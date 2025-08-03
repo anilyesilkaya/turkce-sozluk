@@ -2,6 +2,7 @@
 layout: term
 title: meyve almak
 slug: meyve-almak
+letter: M
 lisan: Türkçe
 anlamlar:
 - ürün elde etmek

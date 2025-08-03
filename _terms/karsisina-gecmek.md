@@ -2,6 +2,7 @@
 layout: term
 title: karşısına geçmek
 slug: karsisina-gecmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - karşı düşünceye katılmak

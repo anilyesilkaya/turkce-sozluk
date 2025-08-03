@@ -2,6 +2,7 @@
 layout: term
 title: yan pas
 slug: yan-pas
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Topla oynanan takım oyunlarında rakip kaleye doğru değil, kenar çizgilere doğru atılan pas

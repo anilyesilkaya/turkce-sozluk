@@ -2,6 +2,7 @@
 layout: term
 title: kaldırma
 slug: kaldirma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaldırmak işi

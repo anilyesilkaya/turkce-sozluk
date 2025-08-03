@@ -2,6 +2,7 @@
 layout: term
 title: ikamet etmek
 slug: ikamet-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - bir yerde oturmak

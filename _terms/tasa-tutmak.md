@@ -2,6 +2,7 @@
 layout: term
 title: taşa tutmak
 slug: tasa-tutmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - üst üste taş atmak, aralıksız taşlamak

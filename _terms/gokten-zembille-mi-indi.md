@@ -2,6 +2,7 @@
 layout: term
 title: gökten zembille mi indi
 slug: gokten-zembille-mi-indi
+letter: G
 lisan: Türkçe
 anlamlar:
 - '"Tanrı''nın özel olarak gönderdiği, saygınlık görmesini istediği bir kişi mi?" anlamında kullanılan bir söz'

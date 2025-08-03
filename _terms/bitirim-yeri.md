@@ -2,6 +2,7 @@
 layout: term
 title: bitirim yeri
 slug: bitirim-yeri
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► kumarhane

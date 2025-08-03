@@ -2,6 +2,7 @@
 layout: term
 title: afra tafra yapmak
 slug: afra-tafra-yapmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - kendini üstün göstermek, böbürlenmek

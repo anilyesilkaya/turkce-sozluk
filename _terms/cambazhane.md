@@ -2,6 +2,7 @@
 layout: term
 title: cambazhane
 slug: cambazhane
+letter: C
 lisan: Farsça cānbāz + ḫāne
 anlamlar:
 - Cambazların oyunlarını gösterdikleri yer

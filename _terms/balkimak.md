@@ -2,6 +2,7 @@
 layout: term
 title: balkımak
 slug: balkimak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Parlamak, parıldamak

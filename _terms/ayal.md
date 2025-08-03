@@ -2,6 +2,7 @@
 layout: term
 title: ayal
 slug: ayal
+letter: A
 lisan: Arapça ʿiyāl
 anlamlar:
 - Bir erkeğin eşi, hanımı

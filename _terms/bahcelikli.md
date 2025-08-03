@@ -2,6 +2,7 @@
 layout: term
 title: bahçelikli
 slug: bahcelikli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağı, bahçesi olan

@@ -2,6 +2,7 @@
 layout: term
 title: istintaç
 slug: istintac
+letter: I
 lisan: Arapça istintāc
 anlamlar:
 - Sonuç çıkarma

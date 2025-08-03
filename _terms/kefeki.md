@@ -2,6 +2,7 @@
 layout: term
 title: kefeki
 slug: kefeki
+letter: K
 lisan: Yunanca
 anlamlar:
 - ► küfeki

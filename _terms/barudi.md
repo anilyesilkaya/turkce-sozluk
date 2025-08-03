@@ -2,6 +2,7 @@
 layout: term
 title: barudi
 slug: barudi
+letter: B
 lisan: Farsça bārūd + Arapça -i
 anlamlar:
 - ► barut rengi

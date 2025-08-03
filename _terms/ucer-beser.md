@@ -2,6 +2,7 @@
 layout: term
 title: üçer beşer
 slug: ucer-beser
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Yaklaşık üçü beşi bir arada

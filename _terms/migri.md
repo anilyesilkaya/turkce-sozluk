@@ -2,6 +2,7 @@
 layout: term
 title: mıgri
 slug: migri
+letter: M
 lisan: Rumca
 anlamlar:
 - Sularımızda yaşayan bir tür yılan balığı (Conger conger)

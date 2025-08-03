@@ -2,6 +2,7 @@
 layout: term
 title: kasavetsiz
 slug: kasavetsiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► sıkıntısız

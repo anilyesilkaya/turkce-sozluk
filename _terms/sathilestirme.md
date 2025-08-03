@@ -2,6 +2,7 @@
 layout: term
 title: sathileştirme
 slug: sathilestirme
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► yüzeyselleştirme

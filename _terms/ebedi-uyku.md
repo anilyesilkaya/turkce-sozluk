@@ -2,6 +2,7 @@
 layout: term
 title: ebedî uyku
 slug: ebedi-uyku
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► ölüm

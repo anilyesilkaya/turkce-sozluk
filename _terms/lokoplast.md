@@ -2,6 +2,7 @@
 layout: term
 title: lökoplast
 slug: lokoplast
+letter: L
 lisan: Fransızca leucoplaste
 anlamlar:
 - Bitki hücrelerinde veya bazı kamçılılarda sitoplazma içinde bulunan ve genellikle nişasta taneciğini oluşturan cisimcik

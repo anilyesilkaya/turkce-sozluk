@@ -2,6 +2,7 @@
 layout: term
 title: tıkanıvermek
 slug: tikanivermek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Çabucak veya ansızın tıkanmak

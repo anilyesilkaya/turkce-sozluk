@@ -2,6 +2,7 @@
 layout: term
 title: lastik
 slug: lastik
+letter: L
 lisan: Fransızca élastique
 anlamlar:
 - Ayakkabı üzerine giyilen kauçuktan pabuç

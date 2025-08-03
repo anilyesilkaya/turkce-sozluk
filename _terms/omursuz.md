@@ -2,6 +2,7 @@
 layout: term
 title: ömürsüz
 slug: omursuz
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ömrü kısa olan

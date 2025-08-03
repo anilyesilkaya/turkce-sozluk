@@ -2,6 +2,7 @@
 layout: term
 title: karamsarlık
 slug: karamsarlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kötümserlik

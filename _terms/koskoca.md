@@ -2,6 +2,7 @@
 layout: term
 title: koskoca
 slug: koskoca
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çok büyük; muazzam

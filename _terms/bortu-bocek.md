@@ -2,6 +2,7 @@
 layout: term
 title: börtü böcek
 slug: bortu-bocek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çeşitli böcekler

@@ -2,6 +2,7 @@
 layout: term
 title: çıtayı yükseltmek
 slug: citayi-yukseltmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - hedefi yüksek belirlemek

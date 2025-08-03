@@ -2,6 +2,7 @@
 layout: term
 title: solüsyon
 slug: solusyon
+letter: S
 lisan: Fransızca solution
 anlamlar:
 - Özellikle lastikleri yapıştırmakta kullanılan koyu, yapışkan madde

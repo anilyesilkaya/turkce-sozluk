@@ -2,6 +2,7 @@
 layout: term
 title: özel girişimci
 slug: ozel-girisimci
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Özel girişimcilik yanlısı kimse veya görüş

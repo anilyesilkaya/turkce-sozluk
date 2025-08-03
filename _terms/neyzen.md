@@ -2,6 +2,7 @@
 layout: term
 title: neyzen
 slug: neyzen
+letter: N
 lisan: Farsça neyzen
 anlamlar:
 - Ney çalan kimse

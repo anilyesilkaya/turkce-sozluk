@@ -2,6 +2,7 @@
 layout: term
 title: arıtmak
 slug: aritmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Temiz duruma getirmek

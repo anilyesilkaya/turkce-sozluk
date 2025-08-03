@@ -2,6 +2,7 @@
 layout: term
 title: tamlık
 slug: tamlik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Eksik olmama durumu; tamamiyet

@@ -2,6 +2,7 @@
 layout: term
 title: soya eti
 slug: soya-eti
+letter: S
 lisan: Türkçe
 anlamlar:
 - Soya fasulyesinden elde edilen, beyaz peynire benzeyen, kolesterol içermeyen bir yiyecek türü; soya loru, tofu

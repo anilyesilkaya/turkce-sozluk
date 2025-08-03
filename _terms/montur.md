@@ -2,6 +2,7 @@
 layout: term
 title: montür
 slug: montur
+letter: M
 lisan: Fransızca monture
 anlamlar:
 - Çeşitli takılarda taşın yerleştirildiği çerçeve

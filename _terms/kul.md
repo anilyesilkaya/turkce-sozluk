@@ -2,6 +2,7 @@
 layout: term
 title: kül
 slug: kul
+letter: K
 lisan: Arapça kull
 anlamlar:
 - ► bütün

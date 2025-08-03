@@ -2,6 +2,7 @@
 layout: term
 title: denizpelidi
 slug: denizpelidi
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► denizpalamudu

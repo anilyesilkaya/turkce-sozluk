@@ -2,6 +2,7 @@
 layout: term
 title: mikâp
 slug: mikap
+letter: M
 lisan: Arapça mikʿab
 anlamlar:
 - ► küp (II)

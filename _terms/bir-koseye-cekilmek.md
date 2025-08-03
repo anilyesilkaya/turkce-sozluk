@@ -2,6 +2,7 @@
 layout: term
 title: bir köşeye çekilmek
 slug: bir-koseye-cekilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - hiçbir işe karışmayarak yaşamak

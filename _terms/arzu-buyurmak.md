@@ -2,6 +2,7 @@
 layout: term
 title: arzu buyurmak
 slug: arzu-buyurmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - istemek

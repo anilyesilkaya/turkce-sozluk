@@ -2,6 +2,7 @@
 layout: term
 title: zahmetli
 slug: zahmetli
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► eziyetli

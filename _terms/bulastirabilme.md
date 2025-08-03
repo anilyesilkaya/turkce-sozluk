@@ -2,6 +2,7 @@
 layout: term
 title: bulaştırabilme
 slug: bulastirabilme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bulaştırabilmek işi

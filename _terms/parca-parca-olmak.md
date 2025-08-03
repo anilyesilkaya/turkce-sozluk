@@ -2,6 +2,7 @@
 layout: term
 title: parça parça olmak
 slug: parca-parca-olmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - parçalara ayrılmak

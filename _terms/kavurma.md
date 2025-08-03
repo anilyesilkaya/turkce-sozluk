@@ -2,6 +2,7 @@
 layout: term
 title: kavurma
 slug: kavurma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kavurmak işi

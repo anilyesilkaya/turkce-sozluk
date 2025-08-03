@@ -2,6 +2,7 @@
 layout: term
 title: zımbırtı
 slug: zimbirti
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Telli bir çalgıyı acemice çalarak çıkarılan çirkin sesin adı

@@ -2,6 +2,7 @@
 layout: term
 title: belirginleştirmek
 slug: belirginlestirmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belirgin duruma getirmek

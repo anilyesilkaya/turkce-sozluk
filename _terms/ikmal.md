@@ -2,6 +2,7 @@
 layout: term
 title: ikmal
 slug: ikmal
+letter: I
 lisan: Arapça ikmāl
 anlamlar:
 - ► bütünleme

@@ -2,6 +2,7 @@
 layout: term
 title: askerî hastane
 slug: askeri-hastane
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bütün askerlerin ve aile bireylerinin tedavi edildiği sağlık kuruluşu; asker hastanesi

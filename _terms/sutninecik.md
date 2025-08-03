@@ -2,6 +2,7 @@
 layout: term
 title: sütninecik
 slug: sutninecik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sevgi duyulan sütanne

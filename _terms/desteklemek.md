@@ -2,6 +2,7 @@
 layout: term
 title: desteklemek
 slug: desteklemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Destek koymak

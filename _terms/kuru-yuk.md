@@ -2,6 +2,7 @@
 layout: term
 title: kuru yük
 slug: kuru-yuk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kara ve deniz taşıtlarıyla nakledilen katı madde, ticari eşya

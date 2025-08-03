@@ -2,6 +2,7 @@
 layout: term
 title: kapıaltı
 slug: kapialti
+letter: K
 lisan: Türkçe
 anlamlar:
 - Mahkûmların hapishaneye girerken çırılçıplak arandıkları yer

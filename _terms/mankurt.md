@@ -2,6 +2,7 @@
 layout: term
 title: mankurt
 slug: mankurt
+letter: M
 lisan: Türkçe
 anlamlar:
 - Ulusal kimlikten uzaklaşan, içinde bulunduğu topluma yabancılaşan

@@ -2,6 +2,7 @@
 layout: term
 title: seyretme
 slug: seyretme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Seyretmek işi

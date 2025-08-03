@@ -2,6 +2,7 @@
 layout: term
 title: harem ağası
 slug: harem-agasi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Osmanlı saraylarında ve büyük konaklarda haremle selamlık arasında hizmet gören zenci köle; hadım ağası, tavaşi

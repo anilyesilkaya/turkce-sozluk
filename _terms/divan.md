@@ -2,6 +2,7 @@
 layout: term
 title: divan
 slug: divan
+letter: D
 lisan: Arapça dīvān
 anlamlar:
 - Yüksek düzeydeki devlet adamlarının kurduğu büyük meclis

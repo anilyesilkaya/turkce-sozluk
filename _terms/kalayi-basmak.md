@@ -2,6 +2,7 @@
 layout: term
 title: kalayı basmak
 slug: kalayi-basmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - adamakıllı küfretmek

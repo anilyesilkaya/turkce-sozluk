@@ -2,6 +2,7 @@
 layout: term
 title: kılıfçı
 slug: kilifci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kılıflama işini yapan kimse

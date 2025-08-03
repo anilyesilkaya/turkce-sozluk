@@ -2,6 +2,7 @@
 layout: term
 title: amaç dışı
 slug: amac-disi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ulaşmak istenilen sonuç dışında olan

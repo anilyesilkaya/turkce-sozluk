@@ -2,6 +2,7 @@
 layout: term
 title: romanesk
 slug: romanesk
+letter: R
 lisan: Fransızca romanesque
 anlamlar:
 - Roman özelliği olan

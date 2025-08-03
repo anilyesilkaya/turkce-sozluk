@@ -2,6 +2,7 @@
 layout: term
 title: kalas
 slug: kalas
+letter: K
 lisan: (Romanya'da Galati şehrinin adından)
 anlamlar:
 - Kalın biçilmiş uzun tahta; ağaç

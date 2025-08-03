@@ -2,6 +2,7 @@
 layout: term
 title: boğuklaşabilme
 slug: boguklasabilme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boğuklaşabilmek işi

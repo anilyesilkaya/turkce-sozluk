@@ -2,6 +2,7 @@
 layout: term
 title: cidar
 slug: cidar
+letter: C
 lisan: Arapça cidār
 anlamlar:
 - ► duvar

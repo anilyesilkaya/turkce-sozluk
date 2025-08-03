@@ -2,6 +2,7 @@
 layout: term
 title: kelepçelemek
 slug: kelepcelemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kelepçe takmak

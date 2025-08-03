@@ -2,6 +2,7 @@
 layout: term
 title: uğranmak
 slug: ugranmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uğrama işi yapılmak

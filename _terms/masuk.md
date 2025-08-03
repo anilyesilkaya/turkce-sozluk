@@ -2,6 +2,7 @@
 layout: term
 title: maşuk
 slug: masuk
+letter: M
 lisan: Arapça maʿşūḳ
 anlamlar:
 - Sevilen, âşık olunan erkek

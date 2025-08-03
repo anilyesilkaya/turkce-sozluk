@@ -2,6 +2,7 @@
 layout: term
 title: inisiyatifi ele almak (veya geçirmek)
 slug: inisiyatifi-ele-almak-veya-gecirmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - karar verme yetkisini kullanmak

@@ -2,6 +2,7 @@
 layout: term
 title: neşeleniş
 slug: neselenis
+letter: N
 lisan: Türkçe
 anlamlar:
 - Neşelenmek işi

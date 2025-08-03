@@ -2,6 +2,7 @@
 layout: term
 title: latifeci
 slug: latifeci
+letter: L
 lisan: Türkçe
 anlamlar:
 - ► şakacı

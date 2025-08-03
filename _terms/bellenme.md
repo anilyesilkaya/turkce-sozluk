@@ -2,6 +2,7 @@
 layout: term
 title: bellenme
 slug: bellenme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bellenmek (II) işi

@@ -2,6 +2,7 @@
 layout: term
 title: hassaten
 slug: hassaten
+letter: H
 lisan: Arapça ḫāṣṣaten
 anlamlar:
 - ► özellikle

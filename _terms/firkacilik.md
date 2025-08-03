@@ -2,6 +2,7 @@
 layout: term
 title: fırkacılık
 slug: firkacilik
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► particilik

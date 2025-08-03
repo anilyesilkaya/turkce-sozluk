@@ -2,6 +2,7 @@
 layout: term
 title: gidilebilmek
 slug: gidilebilmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gidilme ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: vagon
 slug: vagon
+letter: V
 lisan: Fransızca wagon
 anlamlar:
 - Yük ve yolcu taşımakta kullanılan, lokomotifin çektiği demir yolu aracı

@@ -2,6 +2,7 @@
 layout: term
 title: ramp ışığına çıkarmak
 slug: ramp-isigina-cikarmak
+letter: R
 lisan: Türkçe
 anlamlar:
 - bir oyunu sahnelemek

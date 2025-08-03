@@ -2,6 +2,7 @@
 layout: term
 title: Altınyayla
 slug: altinyayla
+letter: A
 lisan: Türkçe
 anlamlar:
 - Burdur iline bağlı ilçelerden biri

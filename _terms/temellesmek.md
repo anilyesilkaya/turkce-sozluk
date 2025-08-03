@@ -2,6 +2,7 @@
 layout: term
 title: temelleşmek
 slug: temellesmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Temel tutmak, yerleşmek

@@ -2,6 +2,7 @@
 layout: term
 title: alışıklık
 slug: alisiklik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alışık olma durumu

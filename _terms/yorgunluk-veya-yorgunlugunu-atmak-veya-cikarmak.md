@@ -2,6 +2,7 @@
 layout: term
 title: yorgunluk (veya yorgunluğunu) atmak (veya çıkarmak)
 slug: yorgunluk-veya-yorgunlugunu-atmak-veya-cikarmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - dinlenmek

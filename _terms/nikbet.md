@@ -2,6 +2,7 @@
 layout: term
 title: nikbet
 slug: nikbet
+letter: N
 lisan: Arapça nekbet
 anlamlar:
 - Talihsizlik, felaket

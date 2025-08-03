@@ -2,6 +2,7 @@
 layout: term
 title: Zekeriya sofrası
 slug: zekeriya-sofrasi
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Bir dileğin gerçekleşmesi için kırk çeşit yiyecekle hazırlanan sofra

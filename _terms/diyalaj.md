@@ -2,6 +2,7 @@
 layout: term
 title: diyalaj
 slug: diyalaj
+letter: D
 lisan: Fransızca diallage
 anlamlar:
 - Piroksen cinsinden, doğal kalsiyum, magnezyum ve demir silikatı

@@ -2,6 +2,7 @@
 layout: term
 title: kılıçlı
 slug: kilicli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kılıç taşıyan

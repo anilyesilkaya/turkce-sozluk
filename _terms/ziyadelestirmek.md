@@ -2,6 +2,7 @@
 layout: term
 title: ziyadeleştirmek
 slug: ziyadelestirmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► çoğaltmak

@@ -2,6 +2,7 @@
 layout: term
 title: acımasızlık
 slug: acimasizlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Acımasız olma durumu; vahşet

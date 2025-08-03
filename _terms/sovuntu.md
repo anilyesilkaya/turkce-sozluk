@@ -2,6 +2,7 @@
 layout: term
 title: sövüntü
 slug: sovuntu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Hafif sövme yollu, kaba ve yakışıksız söz

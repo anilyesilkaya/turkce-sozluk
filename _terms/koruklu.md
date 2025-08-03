@@ -2,6 +2,7 @@
 layout: term
 title: körüklü
 slug: koruklu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Körüğü olan

@@ -2,6 +2,7 @@
 layout: term
 title: yerdegezen
 slug: yerdegezen
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yılan

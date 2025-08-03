@@ -2,6 +2,7 @@
 layout: term
 title: ferah fahur
 slug: ferah-fahur
+letter: F
 lisan: Türkçe
 anlamlar:
 - Bolluk içinde

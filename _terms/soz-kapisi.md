@@ -2,6 +2,7 @@
 layout: term
 title: söz kapısı
 slug: soz-kapisi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Söz töreninin yapıldığı yer veya ev

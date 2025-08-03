@@ -2,6 +2,7 @@
 layout: term
 title: tehirsiz
 slug: tehirsiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► gecikmesiz

@@ -2,6 +2,7 @@
 layout: term
 title: doğru bulmak
 slug: dogru-bulmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - uygun görmek, onamak

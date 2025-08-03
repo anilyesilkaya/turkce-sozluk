@@ -2,6 +2,7 @@
 layout: term
 title: çömlekçi
 slug: comlekci
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çanak, çömlek, testi yapan veya satan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: gömme dolap
 slug: gomme-dolap
+letter: G
 lisan: Türkçe
 anlamlar:
 - Duvarın içine yerleştirilmiş dolap; yerli dolap

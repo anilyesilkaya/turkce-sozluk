@@ -2,6 +2,7 @@
 layout: term
 title: yuvar yuvar
 slug: yuvar-yuvar
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yuvarlanır gibi

@@ -2,6 +2,7 @@
 layout: term
 title: sıdkı sıyrılmak
 slug: sidki-siyrilmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - birine karşı duyulan güven ve inancı yitirmek

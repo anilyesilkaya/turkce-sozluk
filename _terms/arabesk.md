@@ -2,6 +2,7 @@
 layout: term
 title: arabesk
 slug: arabesk
+letter: A
 lisan: Fransızca arabesque
 anlamlar:
 - Köyden kente göç eden toplulukların geleneksel yaşam tarzından çağdaş yaşam tarzına geçiş evresini yansıtan (kültür, sanat vb.)

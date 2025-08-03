@@ -2,6 +2,7 @@
 layout: term
 title: heyetiyle
 slug: heyetiyle
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► tamamen

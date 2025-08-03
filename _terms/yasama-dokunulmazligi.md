@@ -2,6 +2,7 @@
 layout: term
 title: yasama dokunulmazlığı
 slug: yasama-dokunulmazligi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yasama organı, Türkiye Büyük Millet Meclisi üyelerinin, görevlerini serbestçe yapabilmeleri için adli kovuşturma dışında kalmalarını sağlayan Anayasa ilkesi; milletvekili dokunulmazlığı, teşrii masuniyet

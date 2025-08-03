@@ -2,6 +2,7 @@
 layout: term
 title: iş vermek
 slug: is-vermek
+letter: I
 lisan: Türkçe
 anlamlar:
 - birine yapacak iş göstermek

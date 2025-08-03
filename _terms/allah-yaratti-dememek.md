@@ -2,6 +2,7 @@
 layout: term
 title: Allah yarattı dememek
 slug: allah-yaratti-dememek
+letter: A
 lisan: Türkçe
 anlamlar:
 - kıyasıya dövmek, çok hırpalamak

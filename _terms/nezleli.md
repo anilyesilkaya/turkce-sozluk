@@ -2,6 +2,7 @@
 layout: term
 title: nezleli
 slug: nezleli
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nezlesi olan

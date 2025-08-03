@@ -2,6 +2,7 @@
 layout: term
 title: nârına (veya nâra) yanmak
 slug: narina-veya-nara-yanmak
+letter: N
 lisan: Türkçe
 anlamlar:
 - ateşine yanmak

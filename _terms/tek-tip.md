@@ -2,6 +2,7 @@
 layout: term
 title: tek tip
 slug: tek-tip
+letter: T
 lisan: Türkçe
 anlamlar:
 - Aynı biçim veya nitelikte

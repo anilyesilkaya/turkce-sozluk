@@ -2,6 +2,7 @@
 layout: term
 title: kombina
 slug: kombina
+letter: K
 lisan: Fransızca combinat
 anlamlar:
 - Birkaç sanayi kuruluşunun tek yönetimde birleşmesi

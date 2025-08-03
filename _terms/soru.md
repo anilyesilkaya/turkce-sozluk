@@ -2,6 +2,7 @@
 layout: term
 title: soru
 slug: soru
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir şey öğrenmek için birine yöneltilen ve karşılık gerektiren söz veya yazı; istifham, sual

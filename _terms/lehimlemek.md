@@ -2,6 +2,7 @@
 layout: term
 title: lehimlemek
 slug: lehimlemek
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lehimle yapıştırmak, lehimle tutturmak

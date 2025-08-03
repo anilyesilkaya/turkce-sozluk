@@ -2,6 +2,7 @@
 layout: term
 title: müdebbir
 slug: mudebbir
+letter: M
 lisan: Arapça mudebbir
 anlamlar:
 - ► tedbirli

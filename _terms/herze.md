@@ -2,6 +2,7 @@
 layout: term
 title: herze
 slug: herze
+letter: H
 lisan: Farsça herze
 anlamlar:
 - Saçma sapan olan söz

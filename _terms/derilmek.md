@@ -2,6 +2,7 @@
 layout: term
 title: derilmek
 slug: derilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Derme işine konu olmak

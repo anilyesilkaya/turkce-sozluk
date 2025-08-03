@@ -2,6 +2,7 @@
 layout: term
 title: berdevam
 slug: berdevam
+letter: B
 lisan: Farsça ber + Arapça devām
 anlamlar:
 - Sürmekte olan, sürüp giden

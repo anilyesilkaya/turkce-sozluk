@@ -2,6 +2,7 @@
 layout: term
 title: usat
 slug: usat
+letter: U
 lisan: Arapça ʽuṣāt
 anlamlar:
 - İsyancılar, başkaldıranlar, asiler

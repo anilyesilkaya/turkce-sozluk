@@ -2,6 +2,7 @@
 layout: term
 title: minerolojik
 slug: minerolojik
+letter: M
 lisan: Fransızca minéralogique
 anlamlar:
 - ► mineral bilimsel

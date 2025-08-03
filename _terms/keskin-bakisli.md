@@ -2,6 +2,7 @@
 layout: term
 title: 'keskin bakışlı '
 slug: keskin-bakisli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Keskin bakışı olan

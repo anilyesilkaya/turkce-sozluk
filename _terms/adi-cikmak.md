@@ -2,6 +2,7 @@
 layout: term
 title: adı çıkmak
 slug: adi-cikmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - kötü bir ün kazanmak

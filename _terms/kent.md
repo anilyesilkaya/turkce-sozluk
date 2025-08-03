@@ -2,6 +2,7 @@
 layout: term
 title: kent
 slug: kent
+letter: K
 lisan: Soğdca
 anlamlar:
 - ► şehir

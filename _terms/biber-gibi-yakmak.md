@@ -2,6 +2,7 @@
 layout: term
 title: biber gibi yakmak
 slug: biber-gibi-yakmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - deri, göz vb.ni çok acıtmak

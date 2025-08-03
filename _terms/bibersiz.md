@@ -2,6 +2,7 @@
 layout: term
 title: bibersiz
 slug: bibersiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - İçine biber katılmamış

@@ -2,6 +2,7 @@
 layout: term
 title: cizye
 slug: cizye
+letter: C
 lisan: Arapça cizye
 anlamlar:
 - İslam ülkelerinde Müslüman olmayanlardan alınan bir vergi türü; kafa vergisi

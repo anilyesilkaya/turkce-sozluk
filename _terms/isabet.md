@@ -2,6 +2,7 @@
 layout: term
 title: isabet
 slug: isabet
+letter: I
 lisan: Arapça iṣābet
 anlamlar:
 - Hedefe varma, hedefi vurma

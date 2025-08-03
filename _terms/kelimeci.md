@@ -2,6 +2,7 @@
 layout: term
 title: kelimeci
 slug: kelimeci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Metin yazımında anlamdan ziyade şekle ve kelimelere önem veren

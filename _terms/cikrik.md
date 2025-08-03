@@ -2,6 +2,7 @@
 layout: term
 title: çıkrık
 slug: cikrik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Kuyudan kovayı çekmeye yarayan ve el ile çevrilen araç

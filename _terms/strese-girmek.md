@@ -2,6 +2,7 @@
 layout: term
 title: strese girmek
 slug: strese-girmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - gerilmek, sıkıntıya girmek

@@ -2,6 +2,7 @@
 layout: term
 title: kavurmak
 slug: kavurmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir şeyi bir kabın içinde kendisinden başka bir malzeme koymadan karıştıra karıştıra pişirmek

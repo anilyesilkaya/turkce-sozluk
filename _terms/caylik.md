@@ -2,6 +2,7 @@
 layout: term
 title: çaylık
 slug: caylik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çay ağaççıklarının yetiştiği yer

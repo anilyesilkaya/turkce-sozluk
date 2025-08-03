@@ -2,6 +2,7 @@
 layout: term
 title: zırıltı
 slug: zirilti
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zırıldama sırasında çıkan sesin adı

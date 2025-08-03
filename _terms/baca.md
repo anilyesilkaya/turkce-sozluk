@@ -2,6 +2,7 @@
 layout: term
 title: baca
 slug: baca
+letter: B
 lisan: Farsça bāce
 anlamlar:
 - Dumanı ocaktan çekip havaya vermeye yarayan yol

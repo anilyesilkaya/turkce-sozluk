@@ -2,6 +2,7 @@
 layout: term
 title: kepaze
 slug: kepaze
+letter: K
 lisan: Farsça kepāẕe
 anlamlar:
 - Niteliksiz olan, değersiz olan

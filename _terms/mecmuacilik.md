@@ -2,6 +2,7 @@
 layout: term
 title: mecmuacılık
 slug: mecmuacilik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Dergi işleriyle uğraşma

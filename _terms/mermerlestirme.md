@@ -2,6 +2,7 @@
 layout: term
 title: mermerleştirme
 slug: mermerlestirme
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mermerleştirmek işi

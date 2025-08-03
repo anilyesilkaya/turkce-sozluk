@@ -2,6 +2,7 @@
 layout: term
 title: çenesi açılmak
 slug: cenesi-acilmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - durmadan konuşmak, gevezelik etmek

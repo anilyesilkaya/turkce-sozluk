@@ -2,6 +2,7 @@
 layout: term
 title: istenmeyen durum
 slug: istenmeyen-durum
+letter: I
 lisan: Türkçe
 anlamlar:
 - Karşılaşılması beklenilmeyen durum

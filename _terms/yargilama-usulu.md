@@ -2,6 +2,7 @@
 layout: term
 title: yargılama usulü
 slug: yargilama-usulu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yargılama işi veya yöntemi; yargı usulü

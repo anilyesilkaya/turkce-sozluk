@@ -2,6 +2,7 @@
 layout: term
 title: gece bekçisi
 slug: gece-bekcisi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Geceleyin iş yerlerini veya kuruluşları bekleyen kimse

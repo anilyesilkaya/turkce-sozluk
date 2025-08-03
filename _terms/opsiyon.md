@@ -2,6 +2,7 @@
 layout: term
 title: opsiyon
 slug: opsiyon
+letter: O
 lisan: Fransızca option
 anlamlar:
 - ► bekletme süresi

@@ -2,6 +2,7 @@
 layout: term
 title: dünya başına yıkılmak
 slug: dunya-basina-yikilmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - çok sıkılmak, umutlarını yitirmek

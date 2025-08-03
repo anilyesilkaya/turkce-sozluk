@@ -2,6 +2,7 @@
 layout: term
 title: edi
 slug: edi
+letter: E
 lisan: Türkçe
 anlamlar:
 - İş yapma

@@ -2,6 +2,7 @@
 layout: term
 title: mafsal
 slug: mafsal
+letter: M
 lisan: Arapça mafṣal
 anlamlar:
 - ► eklem

@@ -2,6 +2,7 @@
 layout: term
 title: gönül (veya gönlünü) yakmak
 slug: gonul-veya-gonlunu-yakmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - insanı aşırı derecede etkilemek, sarsmak, kendinden geçmesine yol açmak

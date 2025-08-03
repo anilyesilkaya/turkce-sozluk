@@ -2,6 +2,7 @@
 layout: term
 title: içlik
 slug: iclik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İçe giyilen çamaşır

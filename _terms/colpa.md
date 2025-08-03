@@ -2,6 +2,7 @@
 layout: term
 title: çolpa
 slug: colpa
+letter: Ç
 lisan: Farsça çulāh + pā
 anlamlar:
 - Ayağı sakat olan

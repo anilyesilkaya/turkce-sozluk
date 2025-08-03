@@ -2,6 +2,7 @@
 layout: term
 title: çitmik
 slug: citmik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Üzüm salkımının küçük dalı

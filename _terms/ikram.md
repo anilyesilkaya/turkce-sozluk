@@ -2,6 +2,7 @@
 layout: term
 title: ikram
 slug: ikram
+letter: I
 lisan: Arapça ikrām
 anlamlar:
 - Konuğu ağırlama

@@ -2,6 +2,7 @@
 layout: term
 title: şebeke
 slug: sebeke
+letter: Ş
 lisan: Arapça şebeke
 anlamlar:
 - Ülke çapında yaygınlaştırılmış ulaşım ve iletişim örgüsü; ağ (I)

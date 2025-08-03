@@ -2,6 +2,7 @@
 layout: term
 title: adaletli
 slug: adaletli
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► adil

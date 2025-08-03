@@ -2,6 +2,7 @@
 layout: term
 title: manyakça
 slug: manyakca
+letter: M
 lisan: Türkçe
 anlamlar:
 - Manyağa yakışan

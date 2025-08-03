@@ -2,6 +2,7 @@
 layout: term
 title: tek örnek
 slug: tek-ornek
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► tekdüze

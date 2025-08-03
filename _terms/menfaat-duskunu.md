@@ -2,6 +2,7 @@
 layout: term
 title: menfaat düşkünü
 slug: menfaat-duskunu
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► çıkarcı

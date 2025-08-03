@@ -2,6 +2,7 @@
 layout: term
 title: derrace
 slug: derrace
+letter: D
 lisan: Arapça derrāce
 anlamlar:
 - ► bisiklet

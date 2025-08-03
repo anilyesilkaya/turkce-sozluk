@@ -2,6 +2,7 @@
 layout: term
 title: iradesini takınmak
 slug: iradesini-takinmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - kendine gelmek, toparlanmak

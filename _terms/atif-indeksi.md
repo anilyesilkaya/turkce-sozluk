@@ -2,6 +2,7 @@
 layout: term
 title: atıf indeksi
 slug: atif-indeksi
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► atıf dizini

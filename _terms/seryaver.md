@@ -2,6 +2,7 @@
 layout: term
 title: seryaver
 slug: seryaver
+letter: S
 lisan: Farsça ser + yāver
 anlamlar:
 - ► başyaver

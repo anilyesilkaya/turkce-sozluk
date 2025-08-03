@@ -2,6 +2,7 @@
 layout: term
 title: öbürleri
 slug: oburleri
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ötekiler, öbür kişiler veya şeyler, diğerleri

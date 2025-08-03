@@ -2,6 +2,7 @@
 layout: term
 title: serkeşlik
 slug: serkeslik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kafa tutma, başkaldırma, dikbaşlılık

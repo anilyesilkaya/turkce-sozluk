@@ -2,6 +2,7 @@
 layout: term
 title: püskülsüz
 slug: puskulsuz
+letter: P
 lisan: Türkçe
 anlamlar:
 - Püskülü olmayan

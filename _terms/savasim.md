@@ -2,6 +2,7 @@
 layout: term
 title: savaşım
 slug: savasim
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► mücadele

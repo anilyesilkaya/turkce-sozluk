@@ -2,6 +2,7 @@
 layout: term
 title: harita metot defteri
 slug: harita-metot-defteri
+letter: H
 lisan: Türkçe
 anlamlar:
 - Harita çizimleri için kullanılan metot defteri

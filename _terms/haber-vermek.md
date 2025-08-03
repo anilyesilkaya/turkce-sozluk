@@ -2,6 +2,7 @@
 layout: term
 title: haber vermek
 slug: haber-vermek
+letter: H
 lisan: Türkçe
 anlamlar:
 - bildirmek, haber ulaştırmak

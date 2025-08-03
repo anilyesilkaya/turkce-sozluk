@@ -2,6 +2,7 @@
 layout: term
 title: bağdadi
 slug: bagdadi
+letter: B
 lisan: Arapça baġdādī
 anlamlar:
 - Ağaç direkler üzerine çakılmış çıtalara sıva vurularak yapılan (duvar veya tavan)

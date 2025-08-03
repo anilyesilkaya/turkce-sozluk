@@ -2,6 +2,7 @@
 layout: term
 title: dönüşlü çatı
 slug: donuslu-cati
+letter: D
 lisan: Türkçe
 anlamlar:
 - 'Fiilin etkisinin özneye yöneldiğini bildiren, çoğu kez -n-, bazen de -l- veya -ş- ekleriyle kurulan çatı: sevinmek (sev-in-mek), yorulmak (yor-ul-mak), sıkışmak (sık-ış-mak) vb'

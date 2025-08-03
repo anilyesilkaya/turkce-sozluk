@@ -2,6 +2,7 @@
 layout: term
 title: tek vücut olmak
 slug: tek-vucut-olmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - birlikte hareket etmek

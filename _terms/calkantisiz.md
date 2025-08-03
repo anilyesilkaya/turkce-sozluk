@@ -2,6 +2,7 @@
 layout: term
 title: çalkantısız
 slug: calkantisiz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çalkantısı olmayan

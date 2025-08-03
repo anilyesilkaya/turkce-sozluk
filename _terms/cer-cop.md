@@ -2,6 +2,7 @@
 layout: term
 title: çer çöp
 slug: cer-cop
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çalı çırpı kırıntısı

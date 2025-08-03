@@ -2,6 +2,7 @@
 layout: term
 title: daraltılmak
 slug: daraltilmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Daraltma işi yapılmak

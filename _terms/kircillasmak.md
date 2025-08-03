@@ -2,6 +2,7 @@
 layout: term
 title: kırçıllaşmak
 slug: kircillasmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kırçıl duruma gelmek

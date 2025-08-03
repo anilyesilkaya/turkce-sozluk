@@ -2,6 +2,7 @@
 layout: term
 title: belirtme grubu
 slug: belirtme-grubu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir kelimenin taşıdığı kavramı daha belirgin ve anlaşılır duruma getirmek için kullanılan ve tamlamalardan daha geniş olan kelime dizisi

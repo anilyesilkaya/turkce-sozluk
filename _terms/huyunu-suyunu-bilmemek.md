@@ -2,6 +2,7 @@
 layout: term
 title: huyunu suyunu bilmemek
 slug: huyunu-suyunu-bilmemek
+letter: H
 lisan: Türkçe
 anlamlar:
 - iyi tanımamak, karakteri hakkında bilgisi olmamak

@@ -2,6 +2,7 @@
 layout: term
 title: öykücülük
 slug: oykuculuk
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► hikâyecilik

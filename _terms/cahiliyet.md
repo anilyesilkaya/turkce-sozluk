@@ -2,6 +2,7 @@
 layout: term
 title: cahiliyet
 slug: cahiliyet
+letter: C
 lisan: Arapça cāhiliyyet
 anlamlar:
 - ► bilgisizlik

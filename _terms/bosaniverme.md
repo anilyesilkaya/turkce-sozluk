@@ -2,6 +2,7 @@
 layout: term
 title: boşanıverme
 slug: bosaniverme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boşanıvermek işi

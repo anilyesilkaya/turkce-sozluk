@@ -2,6 +2,7 @@
 layout: term
 title: şöhret sahibi
 slug: sohret-sahibi
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Ün kazanmış (kimse)

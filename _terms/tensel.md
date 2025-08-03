@@ -2,6 +2,7 @@
 layout: term
 title: tensel
 slug: tensel
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bedene ait, tenle ilgili

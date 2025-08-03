@@ -2,6 +2,7 @@
 layout: term
 title: sürünüş
 slug: surunus
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sürünmek işi

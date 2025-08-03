@@ -2,6 +2,7 @@
 layout: term
 title: devam
 slug: devam
+letter: D
 lisan: Arapça devām
 anlamlar:
 - Sürme, sürüp gitme, kesilmeme, bitmeme

@@ -2,6 +2,7 @@
 layout: term
 title: lapçınlı
 slug: lapcinli
+letter: L
 lisan: Türkçe
 anlamlar:
 - Ayağına edik giymiş olan

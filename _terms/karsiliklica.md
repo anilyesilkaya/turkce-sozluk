@@ -2,6 +2,7 @@
 layout: term
 title: karşılıklıca
 slug: karsiliklica
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karşılıklı bir biçimde

@@ -2,6 +2,7 @@
 layout: term
 title: köftehor
 slug: koftehor
+letter: K
 lisan: Farsça kūfte-ḫor
 anlamlar:
 - Sevgiyle karışık bir azarlama sözü

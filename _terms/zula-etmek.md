@@ -2,6 +2,7 @@
 layout: term
 title: zula etmek
 slug: zula-etmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - çalmak, aşırmak

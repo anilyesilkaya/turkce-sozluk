@@ -2,6 +2,7 @@
 layout: term
 title: maksatlı
 slug: maksatli
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► amaçlı

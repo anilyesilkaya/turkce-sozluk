@@ -2,6 +2,7 @@
 layout: term
 title: bilgicilik
 slug: bilgicilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Antik Yunan felsefesinde eleştiri akımı; sofizm

@@ -2,6 +2,7 @@
 layout: term
 title: başarış
 slug: basaris
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başarmak işi

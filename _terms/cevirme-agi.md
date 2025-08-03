@@ -2,6 +2,7 @@
 layout: term
 title: çevirme ağı
 slug: cevirme-agi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Balık sürülerinin önce çevrelerinin sarılması, sonra ağın altının kapatılması yoluyla kaçmalarını önleyerek avlamayı sağlayan bir ağ türü

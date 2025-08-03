@@ -2,6 +2,7 @@
 layout: term
 title: ayvayı yemek
 slug: ayvayi-yemek
+letter: A
 lisan: Türkçe
 anlamlar:
 - kötü duruma düşmek, işi bozulmak

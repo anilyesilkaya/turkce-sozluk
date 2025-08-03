@@ -2,6 +2,7 @@
 layout: term
 title: ilham etmek (veya vermek)
 slug: ilham-etmek-veya-vermek
+letter: I
 lisan: Türkçe
 anlamlar:
 - içe doğmasına sebep olmak, esindirmek

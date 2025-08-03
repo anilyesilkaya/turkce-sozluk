@@ -2,6 +2,7 @@
 layout: term
 title: süblimleşmek
 slug: sublimlesmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir cisim, katı durumdan sıvı durumuna geçmeden doğrudan doğruya gaz durumuna dönüşmek

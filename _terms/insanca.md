@@ -2,6 +2,7 @@
 layout: term
 title: insanca
 slug: insanca
+letter: I
 lisan: Türkçe
 anlamlar:
 - İnsana yakışan, insana özgü olan, insanla ilgili; insani

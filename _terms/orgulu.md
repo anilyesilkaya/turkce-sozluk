@@ -2,6 +2,7 @@
 layout: term
 title: örgülü
 slug: orgulu
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Örgüsü olan, örgü biçiminde bulunan

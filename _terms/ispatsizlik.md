@@ -2,6 +2,7 @@
 layout: term
 title: ispatsızlık
 slug: ispatsizlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► kanıtsızlık

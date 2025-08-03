@@ -2,6 +2,7 @@
 layout: term
 title: tıngır tıngır
 slug: tingir-tingir
+letter: T
 lisan: Türkçe
 anlamlar:
 - Birbirine çarpan metal eşya sürekli ses çıkararak

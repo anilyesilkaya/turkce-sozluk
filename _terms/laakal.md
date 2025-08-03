@@ -2,6 +2,7 @@
 layout: term
 title: laakal
 slug: laakal
+letter: L
 lisan: Arapça lāaḳall
 anlamlar:
 - En azından, hiç olmazsa

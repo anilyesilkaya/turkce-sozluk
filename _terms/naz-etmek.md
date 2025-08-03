@@ -2,6 +2,7 @@
 layout: term
 title: naz etmek
 slug: naz-etmek
+letter: N
 lisan: Türkçe
 anlamlar:
 - nazlanmak

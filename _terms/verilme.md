@@ -2,6 +2,7 @@
 layout: term
 title: verilme
 slug: verilme
+letter: V
 lisan: Türkçe
 anlamlar:
 - Verilmek işi

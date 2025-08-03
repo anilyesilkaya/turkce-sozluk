@@ -2,6 +2,7 @@
 layout: term
 title: ilkelcilik
 slug: ilkelcilik
+letter: I
 lisan: Türkçe
 anlamlar:
 - Avrupa sanatının çağımıza kadar geçirdiği gelişmelerden habersiz görünen, ilkel ulusların sağlam, kaba, saf, yalın biçimli sanatını benimseyen görüş; primitivizm

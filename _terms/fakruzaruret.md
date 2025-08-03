@@ -2,6 +2,7 @@
 layout: term
 title: fakruzaruret
 slug: fakruzaruret
+letter: F
 lisan: Arapça faḳr + żarūret
 anlamlar:
 - İleri derecede yoksulluk

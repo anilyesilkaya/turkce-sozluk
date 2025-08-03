@@ -2,6 +2,7 @@
 layout: term
 title: pırtı
 slug: pirti
+letter: P
 lisan: Türkçe
 anlamlar:
 - Değersiz şey, eşya

@@ -2,6 +2,7 @@
 layout: term
 title: soruşturmacı
 slug: sorusturmaci
+letter: S
 lisan: Türkçe
 anlamlar:
 - Soruşturma yapan; soruşturucu

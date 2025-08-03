@@ -2,6 +2,7 @@
 layout: term
 title: bombok
 slug: bombok
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çok kötü, çok berbat

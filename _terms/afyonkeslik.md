@@ -2,6 +2,7 @@
 layout: term
 title: afyonkeşlik
 slug: afyonkeslik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Afyonkeş olma durumu

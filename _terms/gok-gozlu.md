@@ -2,6 +2,7 @@
 layout: term
 title: gök gözlü
 slug: gok-gozlu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gözleri mavi ile açık yeşil arası olan (kimse)

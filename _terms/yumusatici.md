@@ -2,6 +2,7 @@
 layout: term
 title: yumuşatıcı
 slug: yumusatici
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yumuşamayı sağlayan kimyasal madde

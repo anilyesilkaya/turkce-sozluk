@@ -2,6 +2,7 @@
 layout: term
 title: insafsızca
 slug: insafsizca
+letter: I
 lisan: Türkçe
 anlamlar:
 - İnsafsız bir biçimde; insafsızcasına

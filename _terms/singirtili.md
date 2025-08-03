@@ -2,6 +2,7 @@
 layout: term
 title: şıngırtılı
 slug: singirtili
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şıngırtı sesi çıkaran

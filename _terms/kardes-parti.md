@@ -2,6 +2,7 @@
 layout: term
 title: kardeş parti
 slug: kardes-parti
+letter: K
 lisan: Türkçe
 anlamlar:
 - Ortak bir amaca yönelen siyasi partilerin her biri

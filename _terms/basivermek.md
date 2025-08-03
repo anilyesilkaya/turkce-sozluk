@@ -2,6 +2,7 @@
 layout: term
 title: basıvermek
 slug: basivermek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çabucak basmak

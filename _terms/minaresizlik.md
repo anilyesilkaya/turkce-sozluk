@@ -2,6 +2,7 @@
 layout: term
 title: minaresizlik
 slug: minaresizlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Minaresiz olma durumu

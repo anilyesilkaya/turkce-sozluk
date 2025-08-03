@@ -2,6 +2,7 @@
 layout: term
 title: tam
 slug: tam
+letter: T
 lisan: Arapça tāmm
 anlamlar:
 - ► eksiksiz

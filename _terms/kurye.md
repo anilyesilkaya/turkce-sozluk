@@ -2,6 +2,7 @@
 layout: term
 title: kurye
 slug: kurye
+letter: K
 lisan: Fransızca courrier
 anlamlar:
 - Genellikle elçilik postasını yerine ulaştırmakla görevli kimse

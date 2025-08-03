@@ -2,6 +2,7 @@
 layout: term
 title: saygısızlık etmek
 slug: saygisizlik-etmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - saygısızca davranışta bulunmak veya söz sarf etmek

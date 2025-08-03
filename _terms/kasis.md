@@ -2,6 +2,7 @@
 layout: term
 title: kasis
 slug: kasis
+letter: K
 lisan: Fransızca cassis
 anlamlar:
 - Kara yolunda oluşmuş çukurlar ve tümsekler

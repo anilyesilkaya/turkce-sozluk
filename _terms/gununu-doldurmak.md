@@ -2,6 +2,7 @@
 layout: term
 title: gününü doldurmak
 slug: gununu-doldurmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - bir işin sona ermesi için gereken süreyi tamamlamak

@@ -2,6 +2,7 @@
 layout: term
 title: zorca
 slug: zorca
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Biraz zor

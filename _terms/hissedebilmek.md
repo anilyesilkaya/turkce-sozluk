@@ -2,6 +2,7 @@
 layout: term
 title: hissedebilmek
 slug: hissedebilmek
+letter: H
 lisan: Arapça ḥiss + Türkçe edebilmek
 anlamlar:
 - Hissetme ihtimali veya imkânı bulunmak

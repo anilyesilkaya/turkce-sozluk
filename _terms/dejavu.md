@@ -2,6 +2,7 @@
 layout: term
 title: dejavu
 slug: dejavu
+letter: D
 lisan: Fransızca déjà vu
 anlamlar:
 - ► görmüşlük duygusu

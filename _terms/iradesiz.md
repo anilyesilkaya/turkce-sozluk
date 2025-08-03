@@ -2,6 +2,7 @@
 layout: term
 title: iradesiz
 slug: iradesiz
+letter: I
 lisan: Türkçe
 anlamlar:
 - İradesi olmayan; istençsiz

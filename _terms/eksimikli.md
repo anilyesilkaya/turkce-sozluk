@@ -2,6 +2,7 @@
 layout: term
 title: ekşimikli
 slug: eksimikli
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ekşimiği olan

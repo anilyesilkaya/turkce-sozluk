@@ -2,6 +2,7 @@
 layout: term
 title: Acem külahı
 slug: acem-kulahi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Siyah kuzu derisinden yapılan başlık

@@ -2,6 +2,7 @@
 layout: term
 title: rolüne çıkmak
 slug: rolune-cikmak
+letter: R
 lisan: Türkçe
 anlamlar:
 - oyunda belli bir kişiliği sahnede oynamak

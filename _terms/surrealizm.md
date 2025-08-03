@@ -2,6 +2,7 @@
 layout: term
 title: sürrealizm
 slug: surrealizm
+letter: S
 lisan: Fransızca surréalisme
 anlamlar:
 - ► gerçeküstücülük

@@ -2,6 +2,7 @@
 layout: term
 title: filikalık
 slug: filikalik
+letter: F
 lisan: Türkçe
 anlamlar:
 - Herhangi bir filika sayısında olan

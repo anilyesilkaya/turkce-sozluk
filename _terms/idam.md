@@ -2,6 +2,7 @@
 layout: term
 title: idam
 slug: idam
+letter: I
 lisan: Arapça iʿdām
 anlamlar:
 - Kanunun verdiği hükümle öldürme, yok etme

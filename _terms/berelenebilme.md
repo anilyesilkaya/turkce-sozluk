@@ -2,6 +2,7 @@
 layout: term
 title: berelenebilme
 slug: berelenebilme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Berelenebilmek işi

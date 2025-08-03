@@ -2,6 +2,7 @@
 layout: term
 title: isteklenme
 slug: isteklenme
+letter: I
 lisan: Türkçe
 anlamlar:
 - İsteklenmek işi; heveslenme

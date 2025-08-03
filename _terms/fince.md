@@ -2,6 +2,7 @@
 layout: term
 title: Fince
 slug: fince
+letter: F
 lisan: Türkçe
 anlamlar:
 - Finlandiyalıların kullandığı dil

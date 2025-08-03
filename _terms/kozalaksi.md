@@ -2,6 +2,7 @@
 layout: term
 title: kozalaksı
 slug: kozalaksi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kozalağa benzeyen, kozalak görünüşünde olan, kozalak gibi; kozalağımsı

@@ -2,6 +2,7 @@
 layout: term
 title: adliye
 slug: adliye
+letter: A
 lisan: Arapça ʿadliyye
 anlamlar:
 - Hukuk ve adalet işlerini gören devlet kurumu

@@ -2,6 +2,7 @@
 layout: term
 title: gelgeççi
 slug: gelgecci
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gelip geçici, sebatkâr olmayan (kimse)

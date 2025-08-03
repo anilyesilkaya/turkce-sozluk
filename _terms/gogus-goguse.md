@@ -2,6 +2,7 @@
 layout: term
 title: göğüs göğüse
 slug: gogus-goguse
+letter: G
 lisan: Türkçe
 anlamlar:
 - Karşı karşıya, yüz yüze

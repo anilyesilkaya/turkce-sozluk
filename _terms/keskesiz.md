@@ -2,6 +2,7 @@
 layout: term
 title: keşkesiz
 slug: keskesiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Herhangi bir pişmanlık, bahane ileri sürmeyen

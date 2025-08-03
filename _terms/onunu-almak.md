@@ -2,6 +2,7 @@
 layout: term
 title: önünü almak
 slug: onunu-almak
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - önlemek

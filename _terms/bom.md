@@ -2,6 +2,7 @@
 layout: term
 title: bom
 slug: bom
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kararlaştırılan belli sayılarda ve katlarında o sayıyı söylemeyip “bom” deme esasına dayanan bir iskambil oyunu

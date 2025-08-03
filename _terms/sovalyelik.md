@@ -2,6 +2,7 @@
 layout: term
 title: şövalyelik
 slug: sovalyelik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şövalye olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: organ
 slug: organ
+letter: O
 lisan: Fransızca organe
 anlamlar:
 - Vücudun, belirli bir görev yapan ve sınırları kesin olarak belirlenmiş bölümü; aza, örgen, uzuv

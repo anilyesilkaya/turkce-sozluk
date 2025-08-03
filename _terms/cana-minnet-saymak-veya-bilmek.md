@@ -2,6 +2,7 @@
 layout: term
 title: cana minnet saymak (veya bilmek)
 slug: cana-minnet-saymak-veya-bilmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - bir lütuf olarak kabul etmek

@@ -2,6 +2,7 @@
 layout: term
 title: '... kim ... kim'
 slug: kim-kim
+letter: .
 lisan: Türkçe
 anlamlar:
 - yakıştırılan şeyin uygunsuzluğunu belirtmeye yarar

@@ -2,6 +2,7 @@
 layout: term
 title: kederlenmek
 slug: kederlenmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kederli olmak; mükedder olmak

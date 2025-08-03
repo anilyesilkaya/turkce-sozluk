@@ -2,6 +2,7 @@
 layout: term
 title: borç çorbası
 slug: borc-corbasi
+letter: B
 lisan: Rusça + Türkçe çorbası
 anlamlar:
 - Pancar, lahana, et üzerine krema konularak yapılan bir sebze çorbası

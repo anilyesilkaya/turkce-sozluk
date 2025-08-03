@@ -2,6 +2,7 @@
 layout: term
 title: nemlendirici
 slug: nemlendirici
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nemlendirmeye yarayan

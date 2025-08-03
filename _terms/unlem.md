@@ -2,6 +2,7 @@
 layout: term
 title: ünlem
 slug: unlem
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - 'Sevinç, kıvanç, acı, korku, şaşma vb. duyguları vurgulu olarak anlatan veya seslenme için kullanılan kelime; nida: Ah!, Oh!, Eyvah!; Kardeşim!, Canım! vb'

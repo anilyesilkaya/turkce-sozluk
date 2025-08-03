@@ -2,6 +2,7 @@
 layout: term
 title: mantıksallık
 slug: mantiksallik
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► mantıklılık

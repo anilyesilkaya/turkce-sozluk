@@ -2,6 +2,7 @@
 layout: term
 title: kanunen
 slug: kanunen
+letter: K
 lisan: Arapça ḳānūnen
 anlamlar:
 - Yasa gereğince, yasal olarak

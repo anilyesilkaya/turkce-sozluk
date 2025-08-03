@@ -2,6 +2,7 @@
 layout: term
 title: asfalt
 slug: asfalt
+letter: A
 lisan: Fransızca asphalte
 anlamlar:
 - Siyah renkte şekilsiz bir cins bitüm

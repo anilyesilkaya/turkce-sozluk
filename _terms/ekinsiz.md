@@ -2,6 +2,7 @@
 layout: term
 title: ekinsiz
 slug: ekinsiz
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ekini olmayan

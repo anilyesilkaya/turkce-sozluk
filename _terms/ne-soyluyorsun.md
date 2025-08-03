@@ -2,6 +2,7 @@
 layout: term
 title: ne söylüyorsun?
 slug: ne-soyluyorsun
+letter: N
 lisan: Türkçe
 anlamlar:
 - '"söylediğine dikkat ediyor musun?" anlamında kullanılan bir söz'

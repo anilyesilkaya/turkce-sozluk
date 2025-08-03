@@ -2,6 +2,7 @@
 layout: term
 title: zincifre
 slug: zincifre
+letter: Z
 lisan: Arapça zincefr, zuncufr
 anlamlar:
 - Kırmızı renkli doğal cıva sülfür

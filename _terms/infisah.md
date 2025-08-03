@@ -2,6 +2,7 @@
 layout: term
 title: infisah
 slug: infisah
+letter: I
 lisan: Arapça infisāḫ
 anlamlar:
 - ► bozulma

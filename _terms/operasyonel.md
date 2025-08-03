@@ -2,6 +2,7 @@
 layout: term
 title: operasyonel
 slug: operasyonel
+letter: O
 lisan: Fransızca opérationel
 anlamlar:
 - Operasyonla ilgili

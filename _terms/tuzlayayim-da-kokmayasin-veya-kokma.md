@@ -2,6 +2,7 @@
 layout: term
 title: tuzlayayım da kokmayasın (veya kokma)
 slug: tuzlayayim-da-kokmayasin-veya-kokma
+letter: T
 lisan: Türkçe
 anlamlar:
 - birine, düşüncesinde aldandığını ve aklının bir şeye ermediğini anlatmak için söylenen bir söz

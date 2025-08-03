@@ -2,6 +2,7 @@
 layout: term
 title: trapezci
 slug: trapezci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Trapezle gösteri yapan sanatçı; trapez

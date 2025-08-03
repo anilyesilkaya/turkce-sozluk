@@ -2,6 +2,7 @@
 layout: term
 title: askerlik şubesi
 slug: askerlik-subesi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Millî Savunma Bakanlığının yurttaşların askerlik işlemlerini yapmakla görevli birimi

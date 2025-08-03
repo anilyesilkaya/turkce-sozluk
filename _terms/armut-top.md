@@ -2,6 +2,7 @@
 layout: term
 title: armut top
 slug: armut-top
+letter: A
 lisan: Türkçe
 anlamlar:
 - Boksörün çalışmalarında kullandığı içi havalı, dışı deri, armut biçiminde top

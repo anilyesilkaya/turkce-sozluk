@@ -2,6 +2,7 @@
 layout: term
 title: mayıslı
 slug: mayisli
+letter: M
 lisan: Türkçe
 anlamlar:
 - Bolca taze sığır dışkısı karıştırılmış (toprak)

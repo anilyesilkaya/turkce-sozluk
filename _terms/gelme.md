@@ -2,6 +2,7 @@
 layout: term
 title: gelme
 slug: gelme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gelmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: alıntı
 slug: alinti
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir yazıya başka bir yazarın yazısından alınmış parça; aktarma, iktibas

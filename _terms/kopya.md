@@ -2,6 +2,7 @@
 layout: term
 title: kopya
 slug: kopya
+letter: K
 lisan: İtalyanca copia
 anlamlar:
 - Bir sanat eserinin veya yazılı bir metnin taklidi; eşlem, asıl karşıtı

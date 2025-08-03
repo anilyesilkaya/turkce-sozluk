@@ -2,6 +2,7 @@
 layout: term
 title: şıpıldamak
 slug: sipildamak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Su “şıpıl” diye ses çıkarmak

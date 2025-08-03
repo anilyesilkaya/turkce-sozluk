@@ -2,6 +2,7 @@
 layout: term
 title: abidevi
 slug: abidevi
+letter: A
 lisan: Arapça ābidevī
 anlamlar:
 - ► anıtsal

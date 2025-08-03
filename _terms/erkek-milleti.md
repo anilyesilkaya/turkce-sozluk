@@ -2,6 +2,7 @@
 layout: term
 title: erkek milleti
 slug: erkek-milleti
+letter: E
 lisan: Türkçe
 anlamlar:
 - Toplumun erkek cinsten oluşan bölümünün tümü

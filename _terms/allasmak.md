@@ -2,6 +2,7 @@
 layout: term
 title: allaşmak
 slug: allasmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kırmızı duruma gelmek

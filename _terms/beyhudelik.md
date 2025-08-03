@@ -2,6 +2,7 @@
 layout: term
 title: beyhudelik
 slug: beyhudelik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► yararsızlık

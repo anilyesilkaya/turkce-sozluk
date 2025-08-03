@@ -2,6 +2,7 @@
 layout: term
 title: eroinci
 slug: eroinci
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eroin bağımlısı kimse; eroinman

@@ -2,6 +2,7 @@
 layout: term
 title: söze son vermek
 slug: soze-son-vermek
+letter: S
 lisan: Türkçe
 anlamlar:
 - konuşmayı bitirmek

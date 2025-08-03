@@ -2,6 +2,7 @@
 layout: term
 title: ahret kardeşi
 slug: ahret-kardesi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kan bağı olmaksızın birbirlerini manevi olarak kardeş sayan kadınlardan her biri

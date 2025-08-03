@@ -2,6 +2,7 @@
 layout: term
 title: kesyapıştır
 slug: kesyapistir
+letter: K
 lisan: Türkçe
 anlamlar:
 - Seçilen bir metin veya nesneyi bulunduğu yerden silip bir başka yere taşıma işlemi

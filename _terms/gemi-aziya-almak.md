@@ -2,6 +2,7 @@
 layout: term
 title: gemi azıya almak
 slug: gemi-aziya-almak
+letter: G
 lisan: Türkçe
 anlamlar:
 - at, gemi azıları arasına alıp etkisiz bırakarak süvarisinin yönetiminden çıkmak ve alabildiğine koşmak

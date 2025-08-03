@@ -2,6 +2,7 @@
 layout: term
 title: konukluk
 slug: konukluk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Konuk olma durumu; misafirlik

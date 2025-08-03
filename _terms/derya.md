@@ -2,6 +2,7 @@
 layout: term
 title: derya
 slug: derya
+letter: D
 lisan: Farsça deryā
 anlamlar:
 - ► deniz

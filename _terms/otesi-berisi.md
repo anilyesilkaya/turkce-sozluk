@@ -2,6 +2,7 @@
 layout: term
 title: ötesi berisi
 slug: otesi-berisi
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Neyi varsa, bütün eşyaları

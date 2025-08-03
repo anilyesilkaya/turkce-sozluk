@@ -2,6 +2,7 @@
 layout: term
 title: biletini kesmek
 slug: biletini-kesmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - ölümüne karar vermek

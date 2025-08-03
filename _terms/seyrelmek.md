@@ -2,6 +2,7 @@
 layout: term
 title: seyrelmek
 slug: seyrelmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► seyrekleşmek

@@ -2,6 +2,7 @@
 layout: term
 title: tıkanmak
 slug: tikanmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tıkama işine konu olmak; bekinmek

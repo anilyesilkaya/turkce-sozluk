@@ -2,6 +2,7 @@
 layout: term
 title: hafifmeşreplik
 slug: hafifmesreplik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hafifmeşrep olma durumu

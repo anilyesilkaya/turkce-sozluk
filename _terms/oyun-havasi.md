@@ -2,6 +2,7 @@
 layout: term
 title: oyun havası
 slug: oyun-havasi
+letter: O
 lisan: Türkçe
 anlamlar:
 - Kıvrak ritimli ezgi

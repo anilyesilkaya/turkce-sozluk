@@ -2,6 +2,7 @@
 layout: term
 title: köyleşmek
 slug: koylesmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Köy durumuna gelmek

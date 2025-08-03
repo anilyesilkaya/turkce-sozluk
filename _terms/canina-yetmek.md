@@ -2,6 +2,7 @@
 layout: term
 title: canına yetmek
 slug: canina-yetmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - katlanamayacak duruma gelmek, bezmek, bıkmak

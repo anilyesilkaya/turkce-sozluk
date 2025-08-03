@@ -2,6 +2,7 @@
 layout: term
 title: kıpıştırmak
 slug: kipistirmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Göz kapaklarını üst üste birçok kez açıp kapamak

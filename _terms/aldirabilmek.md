@@ -2,6 +2,7 @@
 layout: term
 title: aldırabilmek
 slug: aldirabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aldırma ihtimali veya imkânı bulunmak

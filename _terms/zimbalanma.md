@@ -2,6 +2,7 @@
 layout: term
 title: zımbalanma
 slug: zimbalanma
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zımbalanmak işi

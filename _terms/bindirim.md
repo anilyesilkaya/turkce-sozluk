@@ -2,6 +2,7 @@
 layout: term
 title: bindirim
 slug: bindirim
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► zam

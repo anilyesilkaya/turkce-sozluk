@@ -2,6 +2,7 @@
 layout: term
 title: bir fincan kahvenin kırk yıl hatırı vardır
 slug: bir-fincan-kahvenin-kirk-yil-hatiri-vardir
+letter: B
 lisan: Türkçe
 anlamlar:
 - '"iyilik küçük de olsa unutulmaz" anlamında kullanılan bir söz'

@@ -2,6 +2,7 @@
 layout: term
 title: benlik
 slug: benlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir kimsenin öz varlığı, kişiliği, onu kendisi yapan şey

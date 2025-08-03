@@ -2,6 +2,7 @@
 layout: term
 title: dişilik
 slug: disilik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dişi cinsten olma durumu; müenneslik

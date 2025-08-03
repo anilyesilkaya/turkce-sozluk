@@ -2,6 +2,7 @@
 layout: term
 title: destegül
 slug: destegul
+letter: D
 lisan: Türkçe
 anlamlar:
 - Mevlevi dervişlerinin sema ederken giydikleri, boyu bel hizasında, yakasız, göğsü açık, kolları bileklere kadar dar gömlek

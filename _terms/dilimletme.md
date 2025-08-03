@@ -2,6 +2,7 @@
 layout: term
 title: dilimletme
 slug: dilimletme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dilimletmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: sivri akıllı
 slug: sivri-akilli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Acayip düşünceleri olan ve kimsenin aklını beğenmeyen (kimse); sivri fikirli

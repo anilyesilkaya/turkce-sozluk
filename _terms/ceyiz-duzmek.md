@@ -2,6 +2,7 @@
 layout: term
 title: çeyiz düzmek
 slug: ceyiz-duzmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - çeyiz hazırlamak

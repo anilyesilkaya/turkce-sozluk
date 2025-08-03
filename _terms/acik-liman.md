@@ -2,6 +2,7 @@
 layout: term
 title: açık liman
 slug: acik-liman
+letter: A
 lisan: Türkçe
 anlamlar:
 - Gemilerin idari açıdan kolayca girip çıktıkları liman

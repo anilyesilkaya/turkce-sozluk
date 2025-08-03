@@ -2,6 +2,7 @@
 layout: term
 title: azarlama
 slug: azarlama
+letter: A
 lisan: Türkçe
 anlamlar:
 - Azarlamak işi; fırça, muaheze, papara, paylama, zılgıt, takaza, tekdir, tevbih, saparta

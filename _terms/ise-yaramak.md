@@ -2,6 +2,7 @@
 layout: term
 title: işe yaramak
 slug: ise-yaramak
+letter: I
 lisan: Türkçe
 anlamlar:
 - kendisinden faydalanılmak, bir yerde kullanılmak

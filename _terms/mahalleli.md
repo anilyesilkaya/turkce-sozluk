@@ -2,6 +2,7 @@
 layout: term
 title: mahalleli
 slug: mahalleli
+letter: M
 lisan: Türkçe
 anlamlar:
 - Aynı mahallede oturan kimselerin bütünü

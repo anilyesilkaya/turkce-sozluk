@@ -2,6 +2,7 @@
 layout: term
 title: apolitik
 slug: apolitik
+letter: A
 lisan: Fransızca apolitique
 anlamlar:
 - Siyasi görüş ve olaylardan habersiz veya onlara kayıtsız kalan

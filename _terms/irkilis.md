@@ -2,6 +2,7 @@
 layout: term
 title: irkiliş
 slug: irkilis
+letter: I
 lisan: Türkçe
 anlamlar:
 - İrkilmek işi

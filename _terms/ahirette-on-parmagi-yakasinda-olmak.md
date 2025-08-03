@@ -2,6 +2,7 @@
 layout: term
 title: ahirette on parmağı yakasında olmak
 slug: ahirette-on-parmagi-yakasinda-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - kendisine karşı sorumlu olan kimseden ahirette hesap sormak

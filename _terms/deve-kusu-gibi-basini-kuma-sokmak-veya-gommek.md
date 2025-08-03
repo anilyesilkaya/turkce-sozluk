@@ -2,6 +2,7 @@
 layout: term
 title: deve kuşu gibi başını kuma sokmak (veya gömmek)
 slug: deve-kusu-gibi-basini-kuma-sokmak-veya-gommek
+letter: D
 lisan: Türkçe
 anlamlar:
 - bir tehlike, bir olay karşısında yararlı olmayacağı apaçık ortada olan kaçamak bir yola sapmak

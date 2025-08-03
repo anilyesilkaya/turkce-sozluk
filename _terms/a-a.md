@@ -2,6 +2,7 @@
 layout: term
 title: a, A
 slug: a-a
+letter: A
 lisan: Türkçe
 anlamlar:
 - Türk alfabesinin ilk sırasında yer alan ve a adı verilen bu harf, ses bilgisi bakımından kalın ünlülerin düz ve geniş olanını gösterir

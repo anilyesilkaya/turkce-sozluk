@@ -2,6 +2,7 @@
 layout: term
 title: dindar
 slug: dindar
+letter: D
 lisan: Arapça dīn + Farsça -dār
 anlamlar:
 - Din inancı güçlü, din kurallarına bağlı, dinin emirlerini yerine getiren (kimse); mütedeyyin

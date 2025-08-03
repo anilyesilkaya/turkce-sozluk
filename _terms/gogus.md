@@ -2,6 +2,7 @@
 layout: term
 title: göğüs
 slug: gogus
+letter: G
 lisan: Türkçe
 anlamlar:
 - Vücudun boyunla karın arasında bulunan ve kalp, akciğer vb. organları içine alan bölümü; bağır, sine

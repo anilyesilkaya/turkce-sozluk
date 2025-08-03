@@ -2,6 +2,7 @@
 layout: term
 title: geveleyivermek
 slug: geveleyivermek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Çabucak gevelemek

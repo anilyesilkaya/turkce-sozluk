@@ -2,6 +2,7 @@
 layout: term
 title: irdelenme
 slug: irdelenme
+letter: I
 lisan: Türkçe
 anlamlar:
 - İrdelenmek işi

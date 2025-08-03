@@ -2,6 +2,7 @@
 layout: term
 title: ağırlaşmak
 slug: agirlasmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağır duruma gelmek

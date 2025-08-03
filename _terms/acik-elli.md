@@ -2,6 +2,7 @@
 layout: term
 title: açık elli
 slug: acik-elli
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► cömert

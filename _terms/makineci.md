@@ -2,6 +2,7 @@
 layout: term
 title: makineci
 slug: makineci
+letter: M
 lisan: Türkçe
 anlamlar:
 - Makine satan veya onaran kimse

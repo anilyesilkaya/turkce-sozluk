@@ -2,6 +2,7 @@
 layout: term
 title: sönümlemek
 slug: sonumlemek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir salınım hareketinin genliğini küçültmek, azaltmak; itfa etmek

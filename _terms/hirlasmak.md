@@ -2,6 +2,7 @@
 layout: term
 title: hırlaşmak
 slug: hirlasmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Karşılıklı hırlamak; hırıldaşmak

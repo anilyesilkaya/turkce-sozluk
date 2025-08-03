@@ -2,6 +2,7 @@
 layout: term
 title: muasırlaşma
 slug: muasirlasma
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► çağdaşlaşma

@@ -2,6 +2,7 @@
 layout: term
 title: çalgın
 slug: calgin
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Sıcak veya soğuktan gelişemeyerek cılız kalan ekin

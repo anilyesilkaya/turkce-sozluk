@@ -2,6 +2,7 @@
 layout: term
 title: cimrileşmek
 slug: cimrilesmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cimri gibi davranmaya başlamak; pintileşmek

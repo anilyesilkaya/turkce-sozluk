@@ -2,6 +2,7 @@
 layout: term
 title: mandalsız
 slug: mandalsiz
+letter: M
 lisan: Türkçe
 anlamlar:
 - Üzerinde mandal bulunmayan

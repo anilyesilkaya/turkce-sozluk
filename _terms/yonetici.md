@@ -2,6 +2,7 @@
 layout: term
 title: yönetici
 slug: yonetici
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yönetme gücünü elinde bulunduran kişi, yöneten kişi; idareci, menajer

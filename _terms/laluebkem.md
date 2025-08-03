@@ -2,6 +2,7 @@
 layout: term
 title: lalüebkem
 slug: laluebkem
+letter: L
 lisan: Farsça lāl + Arapça ebkem
 anlamlar:
 - Dili tutulmuş, konuşamaz duruma gelmiş (kimse)

@@ -2,6 +2,7 @@
 layout: term
 title: kumpanya
 slug: kumpanya
+letter: K
 lisan: İtalyanca compagnia
 anlamlar:
 - Genellikle yabancı sınai, ticari ortaklık

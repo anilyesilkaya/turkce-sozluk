@@ -2,6 +2,7 @@
 layout: term
 title: hilkat garibesi
 slug: hilkat-garibesi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Bedeninde doğuştan normal olmayan gariplikler bulunan kimse

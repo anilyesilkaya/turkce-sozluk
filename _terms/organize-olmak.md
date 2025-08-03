@@ -2,6 +2,7 @@
 layout: term
 title: organize olmak
 slug: organize-olmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - düzenlenmek

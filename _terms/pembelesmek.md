@@ -2,6 +2,7 @@
 layout: term
 title: pembeleşmek
 slug: pembelesmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pembe bir renk almak

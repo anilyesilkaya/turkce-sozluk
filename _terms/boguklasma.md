@@ -2,6 +2,7 @@
 layout: term
 title: boğuklaşma
 slug: boguklasma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boğuklaşmak işi

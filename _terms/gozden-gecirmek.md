@@ -2,6 +2,7 @@
 layout: term
 title: gözden geçirmek
 slug: gozden-gecirmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - okumak

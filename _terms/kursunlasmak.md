@@ -2,6 +2,7 @@
 layout: term
 title: kurşunlaşmak
 slug: kursunlasmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kurşun gibi ağırlaşmak

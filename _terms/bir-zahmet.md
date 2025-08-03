@@ -2,6 +2,7 @@
 layout: term
 title: bir zahmet
 slug: bir-zahmet
+letter: B
 lisan: Türkçe
 anlamlar:
 - Size zor gelmezse, zahmet olmazsa

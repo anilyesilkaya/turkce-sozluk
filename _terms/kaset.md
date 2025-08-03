@@ -2,6 +2,7 @@
 layout: term
 title: kaset
 slug: kaset
+letter: K
 lisan: Fransızca cassette
 anlamlar:
 - İçinde, görüntü ve seslerin kaydedildiği, gerektiğinde yeniden kullanılmasını sağlayan bir manyetik şeridin bulunduğu küçük kutu; kutucuk

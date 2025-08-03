@@ -2,6 +2,7 @@
 layout: term
 title: çoban aldı bağa gitti, kurt aldı dağa gitti
 slug: coban-aldi-baga-gitti-kurt-aldi-daga-gitti
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - '"malını, varlığını başkaları kullandı, kendisine bir şey kalmadı" anlamında kullanılan bir söz'

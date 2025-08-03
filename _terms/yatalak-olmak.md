@@ -2,6 +2,7 @@
 layout: term
 title: yatalak olmak
 slug: yatalak-olmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yataktan kalkamayacak durumda hasta olmak, felçli duruma gelmek

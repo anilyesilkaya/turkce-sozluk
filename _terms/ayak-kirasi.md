@@ -2,6 +2,7 @@
 layout: term
 title: ayak kirası
 slug: ayak-kirasi
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► ayak teri

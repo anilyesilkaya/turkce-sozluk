@@ -2,6 +2,7 @@
 layout: term
 title: hakçası
 slug: hakcasi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Doğrusu, doğru olanı

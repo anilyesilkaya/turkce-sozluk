@@ -2,6 +2,7 @@
 layout: term
 title: dinozorlaşmak
 slug: dinozorlasmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dinozor gibi davranmak

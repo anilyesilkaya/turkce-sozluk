@@ -2,6 +2,7 @@
 layout: term
 title: soydur çeker, boktur kokar
 slug: soydur-ceker-boktur-kokar
+letter: S
 lisan: Türkçe
 anlamlar:
 - '"her insan veya yaratık az çok soyuna benzer" anlamında kullanılan bir söz'

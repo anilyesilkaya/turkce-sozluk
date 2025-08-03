@@ -2,6 +2,7 @@
 layout: term
 title: umut kırıklığı
 slug: umut-kirikligi
+letter: U
 lisan: Türkçe
 anlamlar:
 - Bir şeyin artık gerçekleşemeyeceği inancı; ümit kırıklığı

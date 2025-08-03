@@ -2,6 +2,7 @@
 layout: term
 title: el yatkınlığı
 slug: el-yatkinligi
+letter: E
 lisan: Türkçe
 anlamlar:
 - İşe alışmış olma durumu

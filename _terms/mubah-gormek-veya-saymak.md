@@ -2,6 +2,7 @@
 layout: term
 title: mübah görmek (veya saymak)
 slug: mubah-gormek-veya-saymak
+letter: M
 lisan: Türkçe
 anlamlar:
 - hoş görmek, sakıncasız bulmak

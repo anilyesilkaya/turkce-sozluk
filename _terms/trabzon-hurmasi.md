@@ -2,6 +2,7 @@
 layout: term
 title: Trabzon hurması
 slug: trabzon-hurmasi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Abanozgillerden, 15 metre kadar yükselebilen büyük bir ağaç; Japon hurması (Diospyros kaki)

@@ -2,6 +2,7 @@
 layout: term
 title: dolak
 slug: dolak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Tozluk yerine bacaklara ayak bileğinden dize kadar dolanan ensiz ve uzun kumaş parçası

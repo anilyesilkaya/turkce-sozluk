@@ -2,6 +2,7 @@
 layout: term
 title: eski defterleri yoklamak (veya karıştırmak)
 slug: eski-defterleri-yoklamak-veya-karistirmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - bir yarar umarak veya başka bir amaçla eski olayları yeniden ele almak

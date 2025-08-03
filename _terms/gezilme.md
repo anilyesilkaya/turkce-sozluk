@@ -2,6 +2,7 @@
 layout: term
 title: gezilme
 slug: gezilme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gezilmek işi

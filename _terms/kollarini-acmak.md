@@ -2,6 +2,7 @@
 layout: term
 title: kollarını açmak
 slug: kollarini-acmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - içtenlikle karşılamak veya kucaklamaya hazırlanmak, sevgisini ve dostluğunu göstermek

@@ -2,6 +2,7 @@
 layout: term
 title: ricat
 slug: ricat
+letter: R
 lisan: Arapça ricʿat
 anlamlar:
 - ► vazgeçme

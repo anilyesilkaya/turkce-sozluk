@@ -2,6 +2,7 @@
 layout: term
 title: sapa
 slug: sapa
+letter: S
 lisan: Türkçe
 anlamlar:
 - Merkezden uzak, kıyıda köşede kalmış

@@ -2,6 +2,7 @@
 layout: term
 title: sahiplenmek
 slug: sahiplenmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir şeye sahip çıkmak

@@ -2,6 +2,7 @@
 layout: term
 title: kaçar
 slug: kacar
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaç soru sıfatının üleştirme biçimi

@@ -2,6 +2,7 @@
 layout: term
 title: adli tabiplik
 slug: adli-tabiplik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Adli tabip olma durumu

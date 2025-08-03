@@ -2,6 +2,7 @@
 layout: term
 title: aldanış
 slug: aldanis
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aldanmak durumu

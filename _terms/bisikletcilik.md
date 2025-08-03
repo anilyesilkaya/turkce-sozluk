@@ -2,6 +2,7 @@
 layout: term
 title: bisikletçilik
 slug: bisikletcilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bisikletçinin yaptığı iş; çifttekercilik

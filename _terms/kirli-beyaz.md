@@ -2,6 +2,7 @@
 layout: term
 title: 'kirli beyaz '
 slug: kirli-beyaz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Beyazın griye çalan tonu

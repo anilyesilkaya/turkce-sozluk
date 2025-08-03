@@ -2,6 +2,7 @@
 layout: term
 title: inhisarında olmak
 slug: inhisarinda-olmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - tekelinde olmak

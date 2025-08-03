@@ -2,6 +2,7 @@
 layout: term
 title: Saray
 slug: saray
+letter: S
 lisan: Türkçe
 anlamlar:
 - Tekirdağ iline bağlı ilçelerden biri

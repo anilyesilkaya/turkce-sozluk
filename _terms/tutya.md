@@ -2,6 +2,7 @@
 layout: term
 title: tutya
 slug: tutya
+letter: T
 lisan: Arapça tūtiyā
 anlamlar:
 - ► çinko (I)

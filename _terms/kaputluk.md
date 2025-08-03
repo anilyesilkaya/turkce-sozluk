@@ -2,6 +2,7 @@
 layout: term
 title: kaputluk
 slug: kaputluk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaputların konulduğu yer

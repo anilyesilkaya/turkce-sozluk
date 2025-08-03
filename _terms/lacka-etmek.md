@@ -2,6 +2,7 @@
 layout: term
 title: laçka etmek
 slug: lacka-etmek
+letter: L
 lisan: Türkçe
 anlamlar:
 - bir halatı koyuverip boşaltmak

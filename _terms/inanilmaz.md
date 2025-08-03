@@ -2,6 +2,7 @@
 layout: term
 title: inanılmaz
 slug: inanilmaz
+letter: I
 lisan: Türkçe
 anlamlar:
 - İnanılması çok güç veya imkânsız olan

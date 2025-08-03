@@ -2,6 +2,7 @@
 layout: term
 title: dank
 slug: dank
+letter: D
 lisan: Türkçe
 anlamlar:
 - '"Bir olay sebebiyle birden ayılmak, doğruyu anlamak" anlamında dank etmek veya dank demek birleşik fiillerinde kullanılan bir söz'

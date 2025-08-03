@@ -2,6 +2,7 @@
 layout: term
 title: pötikareli
 slug: potikareli
+letter: P
 lisan: Türkçe
 anlamlar:
 - Üzerinde küçük kareler bulunan

@@ -2,6 +2,7 @@
 layout: term
 title: yargıcılık
 slug: yargicilik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► hakemlik

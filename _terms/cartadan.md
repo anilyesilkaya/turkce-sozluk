@@ -2,6 +2,7 @@
 layout: term
 title: cartadan
 slug: cartadan
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► cartadak

@@ -2,6 +2,7 @@
 layout: term
 title: kankurutan
 slug: kankurutan
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► adamotu

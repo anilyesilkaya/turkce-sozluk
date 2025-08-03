@@ -2,6 +2,7 @@
 layout: term
 title: öfkelenebilmek
 slug: ofkelenebilmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öfkelenme ihtimali veya imkânı bulunmak

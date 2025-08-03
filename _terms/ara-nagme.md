@@ -2,6 +2,7 @@
 layout: term
 title: ara nağme
 slug: ara-nagme
+letter: A
 lisan: Türkçe
 anlamlar:
 - Şarkı, türkü, köçekçe vb. küçük güfteli bestelerde, güftenin iki kıtası arasına, başına veya sonuna da gelebilen, sözsüz çalınan parça

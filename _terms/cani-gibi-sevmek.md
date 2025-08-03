@@ -2,6 +2,7 @@
 layout: term
 title: canı gibi sevmek
 slug: cani-gibi-sevmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - çok güçlü bir sevgiyle bağlanmak

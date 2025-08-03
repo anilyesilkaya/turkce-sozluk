@@ -2,6 +2,7 @@
 layout: term
 title: kuşun kanadıyla haber salmak
 slug: kusun-kanadiyla-haber-salmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - en hızlı bir biçimde haber vermek

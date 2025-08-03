@@ -2,6 +2,7 @@
 layout: term
 title: başı bağlı
 slug: basi-bagli
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► başı kapalı

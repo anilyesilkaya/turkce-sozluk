@@ -2,6 +2,7 @@
 layout: term
 title: yıkabilme
 slug: yikabilme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yıkabilmek işi

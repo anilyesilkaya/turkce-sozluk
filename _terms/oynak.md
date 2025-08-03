@@ -2,6 +2,7 @@
 layout: term
 title: oynak
 slug: oynak
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► hareketli

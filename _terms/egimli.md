@@ -2,6 +2,7 @@
 layout: term
 title: eğimli
 slug: egimli
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eğimi olan; meyilli

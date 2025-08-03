@@ -2,6 +2,7 @@
 layout: term
 title: Şarkçı
 slug: sarkci
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► Doğucu

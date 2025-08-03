@@ -2,6 +2,7 @@
 layout: term
 title: soygun
 slug: soygun
+letter: S
 lisan: Türkçe
 anlamlar:
 - Genellikle çete durumunda bir araya gelmiş haydutlar tarafından yapılan silahlı hırsızlık

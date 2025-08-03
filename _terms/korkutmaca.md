@@ -2,6 +2,7 @@
 layout: term
 title: korkutmaca
 slug: korkutmaca
+letter: K
 lisan: Türkçe
 anlamlar:
 - Korkutmak amacıyla yapılan şey veya davranış

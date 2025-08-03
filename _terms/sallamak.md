@@ -2,6 +2,7 @@
 layout: term
 title: sallamak
 slug: sallamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Düzenli bir biçimde ve hep aynı doğrultuda hareket ettirmek; sallayıvermek, ırgamak

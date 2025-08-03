@@ -2,6 +2,7 @@
 layout: term
 title: dirsizlik
 slug: dirsizlik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dirlik düzenlikten uzak durum

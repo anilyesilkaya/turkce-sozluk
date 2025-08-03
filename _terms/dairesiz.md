@@ -2,6 +2,7 @@
 layout: term
 title: dairesiz
 slug: dairesiz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dairesi olmayan

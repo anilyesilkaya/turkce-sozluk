@@ -2,6 +2,7 @@
 layout: term
 title: çıkıverme
 slug: cikiverme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıkıvermek işi

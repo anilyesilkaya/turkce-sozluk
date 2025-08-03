@@ -2,6 +2,7 @@
 layout: term
 title: cömertleşmek
 slug: comertlesmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cömertçe davranmak

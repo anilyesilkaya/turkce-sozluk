@@ -2,6 +2,7 @@
 layout: term
 title: askıda kalmak
 slug: askida-kalmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir iş bir engel dolayısıyla sonuca varamamak

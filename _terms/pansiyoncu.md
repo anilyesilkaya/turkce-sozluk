@@ -2,6 +2,7 @@
 layout: term
 title: pansiyoncu
 slug: pansiyoncu
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pansiyon sahibi

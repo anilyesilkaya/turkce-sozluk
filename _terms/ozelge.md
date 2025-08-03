@@ -2,6 +2,7 @@
 layout: term
 title: özelge
 slug: ozelge
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Bir konudaki görüşü ve yapılması gereken uygulamayı bildiren yazı

@@ -2,6 +2,7 @@
 layout: term
 title: onanmak
 slug: onanmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Onama işine konu olmak

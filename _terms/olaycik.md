@@ -2,6 +2,7 @@
 layout: term
 title: olaycık
 slug: olaycik
+letter: O
 lisan: Türkçe
 anlamlar:
 - Küçük, önemsiz olay

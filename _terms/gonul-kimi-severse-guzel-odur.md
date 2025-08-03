@@ -2,6 +2,7 @@
 layout: term
 title: gönül kimi severse güzel odur
 slug: gonul-kimi-severse-guzel-odur
+letter: G
 lisan: Türkçe
 anlamlar:
 - '"güzellik anlayışı kişiden kişiye değişir" anlamında kullanılan bir söz'

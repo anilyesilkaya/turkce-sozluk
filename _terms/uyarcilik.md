@@ -2,6 +2,7 @@
 layout: term
 title: uyarcılık
 slug: uyarcilik
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyarcı olma durumu

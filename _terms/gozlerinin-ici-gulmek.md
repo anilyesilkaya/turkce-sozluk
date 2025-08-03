@@ -2,6 +2,7 @@
 layout: term
 title: gözlerinin içi gülmek
 slug: gozlerinin-ici-gulmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - çok sevindiği yüzünden, gözlerinden belli olmak

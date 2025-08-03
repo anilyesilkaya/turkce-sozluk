@@ -2,6 +2,7 @@
 layout: term
 title: ahu parçası
 slug: ahu-parcasi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Çok güzel, çekici (kadın)

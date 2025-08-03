@@ -2,6 +2,7 @@
 layout: term
 title: tefecilik
 slug: tefecilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tefecinin işi; faizcilik, murabaha, murabahacılık

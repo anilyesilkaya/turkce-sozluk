@@ -2,6 +2,7 @@
 layout: term
 title: iyotlama
 slug: iyotlama
+letter: I
 lisan: Türkçe
 anlamlar:
 - İçme sularındaki mikropların iyot etkisiyle giderilmesi

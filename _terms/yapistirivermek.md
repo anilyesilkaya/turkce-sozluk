@@ -2,6 +2,7 @@
 layout: term
 title: yapıştırıvermek
 slug: yapistirivermek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Çabucak yapıştırmak

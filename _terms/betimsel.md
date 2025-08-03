@@ -2,6 +2,7 @@
 layout: term
 title: betimsel
 slug: betimsel
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► betimlemeli

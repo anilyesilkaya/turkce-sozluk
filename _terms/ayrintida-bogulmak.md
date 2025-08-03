@@ -2,6 +2,7 @@
 layout: term
 title: ayrıntıda boğulmak
 slug: ayrintida-bogulmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - gereksiz ayrıntılarla ilgilenmek zorunda kalmak

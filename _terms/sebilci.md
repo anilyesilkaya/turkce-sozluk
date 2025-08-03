@@ -2,6 +2,7 @@
 layout: term
 title: sebilci
 slug: sebilci
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sokaklarda dolaşarak sebil dağıtan kimse

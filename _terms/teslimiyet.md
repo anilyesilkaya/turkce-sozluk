@@ -2,6 +2,7 @@
 layout: term
 title: teslimiyet
 slug: teslimiyet
+letter: T
 lisan: Arapça teslīmiyyet
 anlamlar:
 - Teslim olma, kendini verme, boyun eğme

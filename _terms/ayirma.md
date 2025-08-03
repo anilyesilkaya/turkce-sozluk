@@ -2,6 +2,7 @@
 layout: term
 title: ayırma
 slug: ayirma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayırmak işi; şerh, tecrit

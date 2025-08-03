@@ -2,6 +2,7 @@
 layout: term
 title: uymazlık
 slug: uymazlik
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uymama durumu

@@ -2,6 +2,7 @@
 layout: term
 title: disk zımpara
 slug: disk-zimpara
+letter: D
 lisan: Türkçe
 anlamlar:
 - Mermer ve metal maddeleri kesmeye veya temizleyip parlatmaya yarayan alet

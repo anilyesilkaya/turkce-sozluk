@@ -2,6 +2,7 @@
 layout: term
 title: yaldızlamak
 slug: yaldizlamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir eşyayı yaldızla kaplamak, yaldız sürerek süslemek

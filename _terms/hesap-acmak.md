@@ -2,6 +2,7 @@
 layout: term
 title: hesap açmak
 slug: hesap-acmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - gereğinde çekilmek üzere bankaya yatırılan para için işlem yapmak

@@ -2,6 +2,7 @@
 layout: term
 title: milibar
 slug: milibar
+letter: M
 lisan: Fransızca millibar
 anlamlar:
 - Bir barın binde biri değerinde atmosfer basıncı ölçü birimi

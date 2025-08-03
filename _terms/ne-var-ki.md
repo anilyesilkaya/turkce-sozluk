@@ -2,6 +2,7 @@
 layout: term
 title: ne var ki
 slug: ne-var-ki
+letter: N
 lisan: Türkçe
 anlamlar:
 - aralarında aykırılık bulunan cümleleri bağlamaya yarayan bir söz

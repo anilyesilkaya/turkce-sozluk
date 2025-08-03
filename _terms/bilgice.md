@@ -2,6 +2,7 @@
 layout: term
 title: bilgice
 slug: bilgice
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilgi bakımından

@@ -2,6 +2,7 @@
 layout: term
 title: dörtleme
 slug: dortleme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dörtlemek işi

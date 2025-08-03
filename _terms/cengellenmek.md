@@ -2,6 +2,7 @@
 layout: term
 title: çengellenmek
 slug: cengellenmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çengel takılmak, çengelle tutturulmak

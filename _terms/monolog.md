@@ -2,6 +2,7 @@
 layout: term
 title: monolog
 slug: monolog
+letter: M
 lisan: Fransızca monologue
 anlamlar:
 - Bir oyunda, kişilerden birinin kendi kendine yaptığı konuşma

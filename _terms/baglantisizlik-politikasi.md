@@ -2,6 +2,7 @@
 layout: term
 title: bağlantısızlık politikası
 slug: baglantisizlik-politikasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bağlantısızlık siyaseti

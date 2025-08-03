@@ -2,6 +2,7 @@
 layout: term
 title: fındık altını
 slug: findik-altini
+letter: F
 lisan: Türkçe
 anlamlar:
 - Osmanlı Devleti'nde kenar süsleri fındığa benzediğinden bu adla anılan altın sikke; fındıki

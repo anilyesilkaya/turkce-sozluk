@@ -2,6 +2,7 @@
 layout: term
 title: ayrılaşma
 slug: ayrilasma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayrılaşmak durumu

@@ -2,6 +2,7 @@
 layout: term
 title: banka cüzdanı
 slug: banka-cuzdani
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bankada hesabı olanın yatırdığı ve çektiği paraların kaydedildiği defter; banka defteri, mevduat defteri

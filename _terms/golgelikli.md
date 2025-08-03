@@ -2,6 +2,7 @@
 layout: term
 title: gölgelikli
 slug: golgelikli
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gölgeliği olan

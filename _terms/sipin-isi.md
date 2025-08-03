@@ -2,6 +2,7 @@
 layout: term
 title: şıpın işi
 slug: sipin-isi
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Özensiz, çabucak yapılan iş

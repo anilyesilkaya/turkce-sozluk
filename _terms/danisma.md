@@ -2,6 +2,7 @@
 layout: term
 title: danışma
 slug: danisma
+letter: D
 lisan: Türkçe
 anlamlar:
 - Danışmak işi; müşavere, istişare, meşveret

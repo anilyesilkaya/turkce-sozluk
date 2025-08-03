@@ -2,6 +2,7 @@
 layout: term
 title: termonükleer
 slug: termonukleer
+letter: T
 lisan: Fransızca thermonucléaire
 anlamlar:
 - Ancak çok yüksek sıcaklıklarda, hafif elementler arasında doğan (çekirdeksel tepkime)

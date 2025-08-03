@@ -2,6 +2,7 @@
 layout: term
 title: azışmak
 slug: azismak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Gittikçe kızışmak, gitgide şiddetlenmek

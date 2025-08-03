@@ -2,6 +2,7 @@
 layout: term
 title: kılavuz
 slug: kilavuz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yol gösteren kimse; rehber, delil

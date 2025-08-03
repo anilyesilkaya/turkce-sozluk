@@ -2,6 +2,7 @@
 layout: term
 title: galeri
 slug: galeri
+letter: G
 lisan: Fransızca galerie
 anlamlar:
 - Bir yapının birçok bölümünü aynı katta birbirine bağlayan içten veya dıştan yapılmış geniş geçit

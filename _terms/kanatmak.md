@@ -2,6 +2,7 @@
 layout: term
 title: kanatmak
 slug: kanatmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kanamasına yol açmak veya kanamasını sağlamak

@@ -2,6 +2,7 @@
 layout: term
 title: kaynak
 slug: kaynak
+letter: K
 lisan: Türkçe
 anlamlar:
 - İki metal veya yapay parçayı ısıl yolla birleştirme yöntemi, kaynaştırıp yapıştırma işi

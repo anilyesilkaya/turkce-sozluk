@@ -2,6 +2,7 @@
 layout: term
 title: gülme
 slug: gulme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gülmek işi; hande

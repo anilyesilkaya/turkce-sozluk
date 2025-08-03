@@ -2,6 +2,7 @@
 layout: term
 title: esas vaziyete geçmek
 slug: esas-vaziyete-gecmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - hazır ol durumunu almak

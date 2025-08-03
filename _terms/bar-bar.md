@@ -2,6 +2,7 @@
 layout: term
 title: bar bar
 slug: bar-bar
+letter: B
 lisan: Türkçe
 anlamlar:
 - “Yüksek sesle bağırmak; apaçık görünmek, ortada olmak” anlamlarına gelen bar bar bağırmak deyiminde kullanılan bir söz

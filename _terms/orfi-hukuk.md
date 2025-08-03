@@ -2,6 +2,7 @@
 layout: term
 title: 'örfi hukuk '
 slug: orfi-hukuk
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Siyasi otoriteye ve halkın yerleşik değerlerine göre işletilen hukuk sistemi

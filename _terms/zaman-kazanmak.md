@@ -2,6 +2,7 @@
 layout: term
 title: zaman kazanmak
 slug: zaman-kazanmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - vakit kazanmak

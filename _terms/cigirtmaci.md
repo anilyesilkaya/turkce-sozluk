@@ -2,6 +2,7 @@
 layout: term
 title: çığırtmacı
 slug: cigirtmaci
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çığırtma çalan kimse

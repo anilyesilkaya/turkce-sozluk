@@ -2,6 +2,7 @@
 layout: term
 title: yudumlatmak
 slug: yudumlatmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yudumlama işini yaptırmak

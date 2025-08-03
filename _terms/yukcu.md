@@ -2,6 +2,7 @@
 layout: term
 title: yükçü
 slug: yukcu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► taşıyıcı

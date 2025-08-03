@@ -2,6 +2,7 @@
 layout: term
 title: yüreği boğazına tıkanmak
 slug: yuregi-bogazina-tikanmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - sıkılmak, üzülmek, dertlenmek

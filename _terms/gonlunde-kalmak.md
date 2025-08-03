@@ -2,6 +2,7 @@
 layout: term
 title: gönlünde kalmak
 slug: gonlunde-kalmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - çok istediği hâlde ulaşamamak, elde edememek

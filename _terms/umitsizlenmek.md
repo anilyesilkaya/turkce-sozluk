@@ -2,6 +2,7 @@
 layout: term
 title: ümitsizlenmek
 slug: umitsizlenmek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - ► umutsuzlanmak

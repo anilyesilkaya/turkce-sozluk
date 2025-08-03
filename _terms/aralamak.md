@@ -2,6 +2,7 @@
 layout: term
 title: aralamak
 slug: aralamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - İki şey arasında açıklık oluşturmak, az açmak

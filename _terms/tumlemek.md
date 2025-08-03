@@ -2,6 +2,7 @@
 layout: term
 title: tümlemek
 slug: tumlemek
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► bütünlemek

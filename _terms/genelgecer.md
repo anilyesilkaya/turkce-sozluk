@@ -2,6 +2,7 @@
 layout: term
 title: genelgeçer
 slug: genelgecer
+letter: G
 lisan: Türkçe
 anlamlar:
 - Toplum tarafından kabul edilen, hemen herkesçe benimsenen

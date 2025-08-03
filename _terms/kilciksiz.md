@@ -2,6 +2,7 @@
 layout: term
 title: kılçıksız
 slug: kilciksiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kılçığı olmayan

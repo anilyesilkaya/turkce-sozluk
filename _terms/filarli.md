@@ -2,6 +2,7 @@
 layout: term
 title: filarlı
 slug: filarli
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fiları olan

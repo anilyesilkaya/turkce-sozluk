@@ -2,6 +2,7 @@
 layout: term
 title: mülakat
 slug: mulakat
+letter: M
 lisan: Arapça mulāḳāt
 anlamlar:
 - Bir yerde buluşularak yapılan karşılıklı görüşme ve konuşma

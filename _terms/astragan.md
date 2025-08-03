@@ -2,6 +2,7 @@
 layout: term
 title: astragan
 slug: astragan
+letter: A
 lisan: Fransızca astrakan
 anlamlar:
 - Karakul kuzusunun kıvırcık ve parlak postu

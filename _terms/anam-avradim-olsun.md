@@ -2,6 +2,7 @@
 layout: term
 title: anam avradım olsun
 slug: anam-avradim-olsun
+letter: A
 lisan: Türkçe
 anlamlar:
 - birini kesin olarak inandırmak için söylenen çok kaba bir ant sözü

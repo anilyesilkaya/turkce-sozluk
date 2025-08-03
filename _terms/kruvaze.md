@@ -2,6 +2,7 @@
 layout: term
 title: kruvaze
 slug: kruvaze
+letter: K
 lisan: Fransızca croisé
 anlamlar:
 - Ön parçaları birbiri üzerine gelecek biçimde dikilen (ceket, yelek)

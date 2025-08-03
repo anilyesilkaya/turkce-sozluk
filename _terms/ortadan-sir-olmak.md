@@ -2,6 +2,7 @@
 layout: term
 title: ortadan sır olmak
 slug: ortadan-sir-olmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - kaybolmak, arkada iz bırakmadan gitmek

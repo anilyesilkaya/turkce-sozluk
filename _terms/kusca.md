@@ -2,6 +2,7 @@
 layout: term
 title: kuşça
 slug: kusca
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kuşa benzeyen

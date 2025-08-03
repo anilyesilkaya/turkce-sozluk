@@ -2,6 +2,7 @@
 layout: term
 title: tokalaşmak
 slug: tokalasmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Birbirinin elini sıkmak, el sıkışmak

@@ -2,6 +2,7 @@
 layout: term
 title: mandapost
 slug: mandapost
+letter: M
 lisan: Fransızca mandat-poste
 anlamlar:
 - Banka, postane vb. aracılığıyla gönderilen para

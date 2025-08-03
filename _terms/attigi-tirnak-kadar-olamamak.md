@@ -2,6 +2,7 @@
 layout: term
 title: attığı tırnak kadar olamamak
 slug: attigi-tirnak-kadar-olamamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir kimse, sözü edilenden daha değersiz olmak

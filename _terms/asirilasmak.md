@@ -2,6 +2,7 @@
 layout: term
 title: aşırılaşmak
 slug: asirilasmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aşırı duruma gelmek

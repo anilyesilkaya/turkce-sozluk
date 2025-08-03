@@ -2,6 +2,7 @@
 layout: term
 title: programlaştırma
 slug: programlastirma
+letter: P
 lisan: Türkçe
 anlamlar:
 - Programlaştırmak işi

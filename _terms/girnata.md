@@ -2,6 +2,7 @@
 layout: term
 title: gırnata
 slug: girnata
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► klarnet

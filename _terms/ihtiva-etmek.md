@@ -2,6 +2,7 @@
 layout: term
 title: ihtiva etmek
 slug: ihtiva-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - içine almak, içinde bulundurmak, içermek, kapsamak

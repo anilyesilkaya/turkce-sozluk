@@ -2,6 +2,7 @@
 layout: term
 title: yüreğine kurt düşmek
 slug: yuregine-kurt-dusmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - şüphelenmek, içine kurt düşmek

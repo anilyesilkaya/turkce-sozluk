@@ -2,6 +2,7 @@
 layout: term
 title: düşman başına
 slug: dusman-basina
+letter: D
 lisan: Türkçe
 anlamlar:
 - durumun kötü olduğunu göstermek için kullanılan bir söz

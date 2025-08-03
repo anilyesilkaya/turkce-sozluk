@@ -2,6 +2,7 @@
 layout: term
 title: ortalama
 slug: ortalama
+letter: O
 lisan: Türkçe
 anlamlar:
 - Ortalamak işi

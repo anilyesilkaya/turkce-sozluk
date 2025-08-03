@@ -2,6 +2,7 @@
 layout: term
 title: icap etmek
 slug: icap-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - gerekmek

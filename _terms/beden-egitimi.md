@@ -2,6 +2,7 @@
 layout: term
 title: beden eğitimi
 slug: beden-egitimi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Vücudu güçlendirmek ve sağlığı korumak amacıyla araçlı veya araçsız hareketler yapma; beden terbiyesi

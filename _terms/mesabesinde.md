@@ -2,6 +2,7 @@
 layout: term
 title: mesabesinde
 slug: mesabesinde
+letter: M
 lisan: Türkçe
 anlamlar:
 - Yerinde, değerinde, hükmünde

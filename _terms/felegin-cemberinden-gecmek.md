@@ -2,6 +2,7 @@
 layout: term
 title: feleğin çemberinden geçmek
 slug: felegin-cemberinden-gecmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - hayatta acı tatlı günler görmüş geçirmiş olmak, olgunlaşmış, deneyim kazanmış olmak

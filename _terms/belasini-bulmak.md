@@ -2,6 +2,7 @@
 layout: term
 title: belasını bulmak
 slug: belasini-bulmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - hak ettiği cezayı görmek

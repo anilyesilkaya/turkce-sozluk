@@ -2,6 +2,7 @@
 layout: term
 title: ağzını toplamak
 slug: agzini-toplamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - söylemekte olduğu kötü söz veya küfürleri kesmek

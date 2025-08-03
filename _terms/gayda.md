@@ -2,6 +2,7 @@
 layout: term
 title: gayda
 slug: gayda
+letter: G
 lisan: Türkçe
 anlamlar:
 - Kamıştan yapılmış çift düdük ve tulumdan oluşan, tiz sesli, nefesli, İskoçların millî çalgısı

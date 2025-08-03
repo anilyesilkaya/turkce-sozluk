@@ -2,6 +2,7 @@
 layout: term
 title: Hızır
 slug: hizir
+letter: H
 lisan: Arapça ḫiżr
 anlamlar:
 - '"Birinin en sıkışık zamanında, beklemediği biri, yardımına yetişmek" anlamındaki Hızır gibi (imdadına veya yardımına) yetişmek deyiminde geçen bir söz'

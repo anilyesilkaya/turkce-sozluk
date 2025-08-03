@@ -2,6 +2,7 @@
 layout: term
 title: salya
 slug: salya
+letter: S
 lisan: Rumca
 anlamlar:
 - Ağızdan sızan tükürük

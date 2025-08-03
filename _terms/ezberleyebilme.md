@@ -2,6 +2,7 @@
 layout: term
 title: ezberleyebilme
 slug: ezberleyebilme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ezberleyebilmek işi

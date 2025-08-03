@@ -2,6 +2,7 @@
 layout: term
 title: suçlanabilmek
 slug: suclanabilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Suçlanma ihtimali bulunmak

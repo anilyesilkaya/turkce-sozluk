@@ -2,6 +2,7 @@
 layout: term
 title: topraksız
 slug: topraksiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - İçinde toprak bulunmayan

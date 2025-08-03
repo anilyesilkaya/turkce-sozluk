@@ -2,6 +2,7 @@
 layout: term
 title: kundaklı
 slug: kundakli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kundağı olan

@@ -2,6 +2,7 @@
 layout: term
 title: azıtmak
 slug: azitmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Azgın duruma getirmek

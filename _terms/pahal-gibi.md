@@ -2,6 +2,7 @@
 layout: term
 title: pahal gibi
 slug: pahal-gibi
+letter: P
 lisan: Türkçe
 anlamlar:
 - aksi gibi

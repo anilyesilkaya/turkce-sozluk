@@ -2,6 +2,7 @@
 layout: term
 title: taşınmaz
 slug: tasinmaz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taşınamayan

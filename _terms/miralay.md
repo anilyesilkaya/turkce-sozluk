@@ -2,6 +2,7 @@
 layout: term
 title: miralay
 slug: miralay
+letter: M
 lisan: Farsça mīr + Türkçe alay
 anlamlar:
 - ► albay

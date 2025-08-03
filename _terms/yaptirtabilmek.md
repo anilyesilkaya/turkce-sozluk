@@ -2,6 +2,7 @@
 layout: term
 title: yaptırtabilmek
 slug: yaptirtabilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaptırtma ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: ulusluk
 slug: ulusluk
+letter: U
 lisan: Türkçe
 anlamlar:
 - Bir kimseyi, bir tüzel kişiyi veya bir şeyi ulusa bağlayan bağ

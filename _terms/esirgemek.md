@@ -2,6 +2,7 @@
 layout: term
 title: esirgemek
 slug: esirgemek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Birini korumak, himaye etmek

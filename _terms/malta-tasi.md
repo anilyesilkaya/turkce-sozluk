@@ -2,6 +2,7 @@
 layout: term
 title: Malta taşı
 slug: malta-tasi
+letter: M
 lisan: Türkçe
 anlamlar:
 - Bahçe, mutfak vb. yerleri döşemekte kullanılan, dört köşe, yassı, kolay kırılan bir taş türü

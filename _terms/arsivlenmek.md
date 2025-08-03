@@ -2,6 +2,7 @@
 layout: term
 title: arşivlenmek
 slug: arsivlenmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arşive kaldırılmak, arşivde saklanmak

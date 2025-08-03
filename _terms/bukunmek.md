@@ -2,6 +2,7 @@
 layout: term
 title: bükünmek
 slug: bukunmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bükülmek

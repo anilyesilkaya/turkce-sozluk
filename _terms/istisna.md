@@ -2,6 +2,7 @@
 layout: term
 title: istisna
 slug: istisna
+letter: I
 lisan: Arapça istis̱nāʾ
 anlamlar:
 - Bir kimse veya bir şeyi benzerlerinden ayrı tutma

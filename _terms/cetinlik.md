@@ -2,6 +2,7 @@
 layout: term
 title: çetinlik
 slug: cetinlik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çetin olma durumu; sertlik

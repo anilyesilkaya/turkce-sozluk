@@ -2,6 +2,7 @@
 layout: term
 title: iftar sofrası
 slug: iftar-sofrasi
+letter: I
 lisan: Türkçe
 anlamlar:
 - Ramazanda oruç açmak için hazırlanmış sofra

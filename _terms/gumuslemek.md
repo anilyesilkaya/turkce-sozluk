@@ -2,6 +2,7 @@
 layout: term
 title: gümüşlemek
 slug: gumuslemek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gümüşle kaplamak veya süslemek

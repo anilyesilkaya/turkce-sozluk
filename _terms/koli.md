@@ -2,6 +2,7 @@
 layout: term
 title: koli
 slug: koli
+letter: K
 lisan: Fransızca colis
 anlamlar:
 - Posta paketi

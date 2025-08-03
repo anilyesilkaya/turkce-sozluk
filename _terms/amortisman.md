@@ -2,6 +2,7 @@
 layout: term
 title: amortisman
 slug: amortisman
+letter: A
 lisan: Fransızca amortissement
 anlamlar:
 - ► yıpranma payı

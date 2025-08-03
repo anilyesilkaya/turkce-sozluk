@@ -2,6 +2,7 @@
 layout: term
 title: son bulmak
 slug: son-bulmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - bitmek, tükenmek

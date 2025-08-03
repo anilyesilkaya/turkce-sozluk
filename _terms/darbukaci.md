@@ -2,6 +2,7 @@
 layout: term
 title: darbukacı
 slug: darbukaci
+letter: D
 lisan: Türkçe
 anlamlar:
 - Darbuka çalan kimse

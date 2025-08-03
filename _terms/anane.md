@@ -2,6 +2,7 @@
 layout: term
 title: anane
 slug: anane
+letter: A
 lisan: Arapça ʿanʿane
 anlamlar:
 - ► gelenek

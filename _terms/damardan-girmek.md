@@ -2,6 +2,7 @@
 layout: term
 title: damardan girmek
 slug: damardan-girmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - karşısındaki kişiyi en fazla etkileyebilecek noktadan konuya girmek

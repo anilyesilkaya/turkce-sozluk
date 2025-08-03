@@ -2,6 +2,7 @@
 layout: term
 title: etraflıca
 slug: etraflica
+letter: E
 lisan: Türkçe
 anlamlar:
 - Derinlemesine, ayrıntılı olarak

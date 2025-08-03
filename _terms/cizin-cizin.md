@@ -2,6 +2,7 @@
 layout: term
 title: çizin çizin
 slug: cizin-cizin
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çizgi durumunda, sırayla

@@ -2,6 +2,7 @@
 layout: term
 title: iğdiş etmek
 slug: igdis-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - hayvanlarda erkeklik bezlerini çıkarmak veya körletmek; burmak, enemek

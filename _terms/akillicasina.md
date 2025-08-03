@@ -2,6 +2,7 @@
 layout: term
 title: akıllıcasına
 slug: akillicasina
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► akıllıca

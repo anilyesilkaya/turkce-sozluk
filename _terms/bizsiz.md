@@ -2,6 +2,7 @@
 layout: term
 title: bizsiz
 slug: bizsiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Biz olmaksızın

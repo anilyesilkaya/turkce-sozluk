@@ -2,6 +2,7 @@
 layout: term
 title: iki anlamlılık
 slug: iki-anlamlilik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İki anlama gelme durumu

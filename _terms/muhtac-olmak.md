@@ -2,6 +2,7 @@
 layout: term
 title: muhtaç olmak
 slug: muhtac-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - gereksinim duymak

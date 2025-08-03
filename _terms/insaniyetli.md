@@ -2,6 +2,7 @@
 layout: term
 title: insaniyetli
 slug: insaniyetli
+letter: I
 lisan: Türkçe
 anlamlar:
 - İnsanlığı olan; mürüvvetli

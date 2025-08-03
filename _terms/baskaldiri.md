@@ -2,6 +2,7 @@
 layout: term
 title: başkaldırı
 slug: baskaldiri
+letter: B
 lisan: Türkçe
 anlamlar:
 - Herhangi bir amaçla kurulu düzene veya devlet güçlerine karşı gelme; başkaldırma, kalkışma, isyan, kıyam

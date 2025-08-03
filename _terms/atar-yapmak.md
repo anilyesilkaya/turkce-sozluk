@@ -2,6 +2,7 @@
 layout: term
 title: atar yapmak
 slug: atar-yapmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - korkusuz, cesur bir biçimde güç gösterisi yapmak

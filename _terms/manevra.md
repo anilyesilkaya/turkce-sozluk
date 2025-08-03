@@ -2,6 +2,7 @@
 layout: term
 title: manevra
 slug: manevra
+letter: M
 lisan: İtalyanca manovra
 anlamlar:
 - Bir aletin işleyişini düzenleme, yönetme işi veya biçimi

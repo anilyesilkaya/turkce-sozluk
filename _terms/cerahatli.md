@@ -2,6 +2,7 @@
 layout: term
 title: cerahatli
 slug: cerahatli
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► irinli

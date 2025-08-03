@@ -2,6 +2,7 @@
 layout: term
 title: tavcı
 slug: tavci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Birini kandırarak, yüze gülerek aldatan kimse

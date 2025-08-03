@@ -2,6 +2,7 @@
 layout: term
 title: terennüm etmek
 slug: terennum-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - güzel ve alçak sesle şarkı söylemek

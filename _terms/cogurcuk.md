@@ -2,6 +2,7 @@
 layout: term
 title: çoğurcuk
 slug: cogurcuk
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Sığırcık

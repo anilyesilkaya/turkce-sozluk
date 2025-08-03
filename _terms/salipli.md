@@ -2,6 +2,7 @@
 layout: term
 title: salipli
 slug: salipli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Salibi olan

@@ -2,6 +2,7 @@
 layout: term
 title: cızbız köfte
 slug: cizbiz-kofte
+letter: C
 lisan: Türkçe
 anlamlar:
 - Izgarada kendi yağı ile pişirilen köfte; cızbız

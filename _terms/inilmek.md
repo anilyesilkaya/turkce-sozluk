@@ -2,6 +2,7 @@
 layout: term
 title: inilmek
 slug: inilmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İnme işi yapılmak

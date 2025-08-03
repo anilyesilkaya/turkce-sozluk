@@ -2,6 +2,7 @@
 layout: term
 title: aktarıcı
 slug: aktarici
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aktarma işini yapan; taşıyıcı

@@ -2,6 +2,7 @@
 layout: term
 title: budun betimci
 slug: budun-betimci
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► etnograf

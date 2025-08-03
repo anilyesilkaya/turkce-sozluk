@@ -2,6 +2,7 @@
 layout: term
 title: merakını çekmek (veya celbetmek)
 slug: merakini-cekmek-veya-celbetmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - ilgisini çekmek

@@ -2,6 +2,7 @@
 layout: term
 title: dağılabilme
 slug: dagilabilme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dağılabilmek işi

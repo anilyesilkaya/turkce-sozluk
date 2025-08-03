@@ -2,6 +2,7 @@
 layout: term
 title: telleyip pullamak
 slug: telleyip-pullamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - birçok süsle süslemek

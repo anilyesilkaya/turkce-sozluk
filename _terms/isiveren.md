@@ -2,6 +2,7 @@
 layout: term
 title: ısıveren
 slug: isiveren
+letter: I
 lisan: Türkçe
 anlamlar:
 - Isı açığa çıkaran, çevresine ısı salan (birleşme, tepkime); ekzotermik

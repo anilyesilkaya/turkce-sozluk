@@ -2,6 +2,7 @@
 layout: term
 title: pazarcılık
 slug: pazarcilik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pazarcının işi

@@ -2,6 +2,7 @@
 layout: term
 title: ladesli olmak
 slug: ladesli-olmak
+letter: L
 lisan: Türkçe
 anlamlar:
 - lades oyununa tutuşmak

@@ -2,6 +2,7 @@
 layout: term
 title: garantileyebilmek
 slug: garantileyebilmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Garantileme ihtimali veya imkânı bulunmak

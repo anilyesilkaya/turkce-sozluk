@@ -2,6 +2,7 @@
 layout: term
 title: korner
 slug: korner
+letter: K
 lisan: İngilizce corner
 anlamlar:
 - ► köşe

@@ -2,6 +2,7 @@
 layout: term
 title: cankulağı ile dinlemek
 slug: cankulagi-ile-dinlemek
+letter: C
 lisan: Türkçe
 anlamlar:
 - çok dikkatli dinlemek

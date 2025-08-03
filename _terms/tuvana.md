@@ -2,6 +2,7 @@
 layout: term
 title: tüvana
 slug: tuvana
+letter: T
 lisan: Farsça tevānā
 anlamlar:
 - ► dinç

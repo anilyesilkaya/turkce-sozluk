@@ -2,6 +2,7 @@
 layout: term
 title: taçlanmak
 slug: taclanmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taç giymek

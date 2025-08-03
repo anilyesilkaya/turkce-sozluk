@@ -2,6 +2,7 @@
 layout: term
 title: ayıkma
 slug: ayikma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayıkmak işi

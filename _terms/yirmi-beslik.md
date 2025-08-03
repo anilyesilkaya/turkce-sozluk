@@ -2,6 +2,7 @@
 layout: term
 title: yirmi beşlik
 slug: yirmi-beslik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yirmi beş kuruş veya lira değerinde para

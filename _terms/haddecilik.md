@@ -2,6 +2,7 @@
 layout: term
 title: haddecilik
 slug: haddecilik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Haddecinin yaptığı iş

@@ -2,6 +2,7 @@
 layout: term
 title: mühürsüz
 slug: muhursuz
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mührü olmayan

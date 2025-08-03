@@ -2,6 +2,7 @@
 layout: term
 title: yaşamüstü
 slug: yasamustu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - İnsan ömrünü aşan

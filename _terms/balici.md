@@ -2,6 +2,7 @@
 layout: term
 title: balici
 slug: balici
+letter: B
 lisan: Türkçe
 anlamlar:
 - Yapıştırıcıların içerisindeki uçucu kimyasalları özellikle soluma yoluyla uyuşturucu olarak kullanma bağımlılığı bulunan (kimse)

@@ -2,6 +2,7 @@
 layout: term
 title: türemiş sıfat
 slug: turemis-sifat
+letter: T
 lisan: Türkçe
 anlamlar:
 - 'Yapım ekiyle türetilmiş sıfat: akıl-lı (çocuk), sarı-şın (kız) gibi'

@@ -2,6 +2,7 @@
 layout: term
 title: hizmetçisiz
 slug: hizmetcisiz
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hizmetçi olmayan

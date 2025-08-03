@@ -2,6 +2,7 @@
 layout: term
 title: gerçekleştirmek
 slug: gerceklestirmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gerçek duruma getirmek; yapmak, ortaya koymak

@@ -2,6 +2,7 @@
 layout: term
 title: yokçuluk
 slug: yokculuk
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► nihilizm

@@ -2,6 +2,7 @@
 layout: term
 title: arabalı vapur
 slug: arabali-vapur
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kara yolu ve demir yolu araçları ile yolcuları bir kıyıdan öbür kıyıya geçirmeye yarayan gemi; arabalı, araba vapuru, feribot

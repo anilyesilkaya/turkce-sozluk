@@ -2,6 +2,7 @@
 layout: term
 title: yanıt
 slug: yanit
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► cevap

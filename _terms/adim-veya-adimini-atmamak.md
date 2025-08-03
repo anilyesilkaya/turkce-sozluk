@@ -2,6 +2,7 @@
 layout: term
 title: adım (veya adımını) atmamak
 slug: adim-veya-adimini-atmamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - gitmemek, uğramamak

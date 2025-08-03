@@ -2,6 +2,7 @@
 layout: term
 title: kayınpeder
 slug: kayinpeder
+letter: K
 lisan: Türkçe kayın + Farsça peder
 anlamlar:
 - ► kaynata

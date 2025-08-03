@@ -2,6 +2,7 @@
 layout: term
 title: incecik
 slug: incecik
+letter: I
 lisan: Türkçe
 anlamlar:
 - Çok ince

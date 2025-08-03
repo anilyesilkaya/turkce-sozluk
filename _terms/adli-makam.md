@@ -2,6 +2,7 @@
 layout: term
 title: adli makam
 slug: adli-makam
+letter: A
 lisan: Türkçe
 anlamlar:
 - Adalet işlerinin görüldüğü ve sonuca bağlandığı yer; adli merci

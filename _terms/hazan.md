@@ -2,6 +2,7 @@
 layout: term
 title: hazan
 slug: hazan
+letter: H
 lisan: Farsça ḫazān
 anlamlar:
 - ► sonbahar

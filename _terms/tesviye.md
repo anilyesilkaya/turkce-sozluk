@@ -2,6 +2,7 @@
 layout: term
 title: tesviye
 slug: tesviye
+letter: T
 lisan: Arapça tesviye
 anlamlar:
 - Düz duruma getirme; düzleme

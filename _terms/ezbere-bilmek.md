@@ -2,6 +2,7 @@
 layout: term
 title: ezbere bilmek
 slug: ezbere-bilmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - bir yerin her yanını iyice bilmek

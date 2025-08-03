@@ -2,6 +2,7 @@
 layout: term
 title: parlatıcı
 slug: parlatici
+letter: P
 lisan: Türkçe
 anlamlar:
 - Parlatma özelliği olan (nesne)

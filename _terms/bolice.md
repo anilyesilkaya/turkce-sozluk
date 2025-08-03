@@ -2,6 +2,7 @@
 layout: term
 title: boliçe
 slug: bolice
+letter: B
 lisan: İbranice
 anlamlar:
 - Yahudi kadını

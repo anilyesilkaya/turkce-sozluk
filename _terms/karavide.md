@@ -2,6 +2,7 @@
 layout: term
 title: karavide
 slug: karavide
+letter: K
 lisan: Rumca
 anlamlar:
 - ► kerevit

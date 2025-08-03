@@ -2,6 +2,7 @@
 layout: term
 title: baş olan boş olmaz
 slug: bas-olan-bos-olmaz
+letter: B
 lisan: Türkçe
 anlamlar:
 - '"bir yerde önder olan kimse taşıdığı değer dolayısıyla o yere gelmiştir" anlamında kullanılan bir söz'

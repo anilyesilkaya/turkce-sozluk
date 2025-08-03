@@ -2,6 +2,7 @@
 layout: term
 title: alyon kesilmek
 slug: alyon-kesilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - zenginlik taslamak

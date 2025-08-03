@@ -2,6 +2,7 @@
 layout: term
 title: iştah
 slug: istah
+letter: I
 lisan: Arapça iştihāʾ
 anlamlar:
 - Yemek yeme isteği; iştiha

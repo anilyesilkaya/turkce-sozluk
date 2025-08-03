@@ -2,6 +2,7 @@
 layout: term
 title: sıralı sırasız
 slug: sirali-sirasiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Yer veya zaman uygunluğu gözetmeksizin

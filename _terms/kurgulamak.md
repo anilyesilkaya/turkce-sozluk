@@ -2,6 +2,7 @@
 layout: term
 title: kurgulamak
 slug: kurgulamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Parçaları belli bir plana göre düzenlemek, konuları sıraya sokmak

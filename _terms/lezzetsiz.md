@@ -2,6 +2,7 @@
 layout: term
 title: lezzetsiz
 slug: lezzetsiz
+letter: L
 lisan: Türkçe
 anlamlar:
 - Tadı güzel olmayan

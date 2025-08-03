@@ -2,6 +2,7 @@
 layout: term
 title: her hâlde
 slug: her-halde
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► kesinlikle

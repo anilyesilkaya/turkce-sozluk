@@ -2,6 +2,7 @@
 layout: term
 title: budalalık
 slug: budalalik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► aptallık

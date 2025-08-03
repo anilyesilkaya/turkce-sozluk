@@ -2,6 +2,7 @@
 layout: term
 title: kabartıvermek
 slug: kabartivermek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çabucak kabartmak

@@ -2,6 +2,7 @@
 layout: term
 title: iştirakçi
 slug: istirakci
+letter: I
 lisan: Türkçe
 anlamlar:
 - Ortaklık eden, ortak olan

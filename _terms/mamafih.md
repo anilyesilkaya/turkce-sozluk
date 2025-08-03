@@ -2,6 +2,7 @@
 layout: term
 title: mamafih
 slug: mamafih
+letter: M
 lisan: Arapça maʿamāfīh
 anlamlar:
 - ► bununla birlikte

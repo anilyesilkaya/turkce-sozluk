@@ -2,6 +2,7 @@
 layout: term
 title: piyasaya almamak
 slug: piyasaya-almamak
+letter: P
 lisan: Türkçe
 anlamlar:
 - önem vermemek, değersiz görmek

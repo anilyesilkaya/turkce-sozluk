@@ -2,6 +2,7 @@
 layout: term
 title: barut kesilmek (veya olmak)
 slug: barut-kesilmek-veya-olmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - çok öfkelenmek

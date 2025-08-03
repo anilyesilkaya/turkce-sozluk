@@ -2,6 +2,7 @@
 layout: term
 title: açıklar livası olmak
 slug: aciklar-livasi-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - işsiz ve kazançsız kalmak

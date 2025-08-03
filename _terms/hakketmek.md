@@ -2,6 +2,7 @@
 layout: term
 title: hakketmek
 slug: hakketmek
+letter: H
 lisan: Arapça ḥakk + Türkçe etmek
 anlamlar:
 - ► kakmak

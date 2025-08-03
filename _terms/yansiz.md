@@ -2,6 +2,7 @@
 layout: term
 title: yansız
 slug: yansiz
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► tarafsız

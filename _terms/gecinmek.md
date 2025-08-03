@@ -2,6 +2,7 @@
 layout: term
 title: geçinmek
 slug: gecinmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Yaşamak için gerekeni sağlamak

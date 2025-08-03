@@ -2,6 +2,7 @@
 layout: term
 title: lekesiz
 slug: lekesiz
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lekesi olmayan

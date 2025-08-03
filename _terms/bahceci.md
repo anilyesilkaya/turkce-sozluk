@@ -2,6 +2,7 @@
 layout: term
 title: bahçeci
 slug: bahceci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çiçek, ağaç ve sebze yetiştirme işiyle uğraşan kimse

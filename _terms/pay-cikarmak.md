@@ -2,6 +2,7 @@
 layout: term
 title: pay çıkarmak
 slug: pay-cikarmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - bir olay veya durumdan gereken deneyimi kazanmak, tutulacak yolu belirlemek

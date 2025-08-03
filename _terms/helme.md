@@ -2,6 +2,7 @@
 layout: term
 title: helme
 slug: helme
+letter: H
 lisan: Arapça helīme
 anlamlar:
 - Fasulye, pirinç, buğday vb. taneler kaynatıldığında nişastanın çökelmesiyle oluşan koyu sıvı

@@ -2,6 +2,7 @@
 layout: term
 title: cazibedar
 slug: cazibedar
+letter: C
 lisan: Arapça cāẕibe + Farsça -dār
 anlamlar:
 - ► çekici

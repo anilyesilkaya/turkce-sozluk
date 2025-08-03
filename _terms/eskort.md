@@ -2,6 +2,7 @@
 layout: term
 title: eskort
 slug: eskort
+letter: E
 lisan: Fransızca escorte
 anlamlar:
 - ► koruma aracı

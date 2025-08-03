@@ -2,6 +2,7 @@
 layout: term
 title: derdini dökmek
 slug: derdini-dokmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - derdini, sıkıntılarını ayrıntılı olarak anlatmak, dile getirmek

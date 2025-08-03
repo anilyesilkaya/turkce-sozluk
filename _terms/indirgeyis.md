@@ -2,6 +2,7 @@
 layout: term
 title: indirgeyiş
 slug: indirgeyis
+letter: I
 lisan: Türkçe
 anlamlar:
 - İndirgemek işi

@@ -2,6 +2,7 @@
 layout: term
 title: tek parmaklılar
 slug: tek-parmaklilar
+letter: T
 lisan: Türkçe
 anlamlar:
 - Memeliler sınıfının otçul, geviş getirmeyen, beş parmaklı fil, üç parmaklı gergedan, tapir veya bir parmaklı toynaklıları içine alan alt takımı; tek tırnaklılar

@@ -2,6 +2,7 @@
 layout: term
 title: kara yağız
 slug: kara-yagiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Esmer olan (erkek)

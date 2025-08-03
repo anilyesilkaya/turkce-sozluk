@@ -2,6 +2,7 @@
 layout: term
 title: fıkırdatmak
 slug: fikirdatmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fıkır fıkır kaynatmak

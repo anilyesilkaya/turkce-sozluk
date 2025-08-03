@@ -2,6 +2,7 @@
 layout: term
 title: söyleşi
 slug: soylesi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Karşılıklı yapılan arkadaşça, dostça konuşma

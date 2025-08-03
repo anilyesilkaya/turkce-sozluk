@@ -2,6 +2,7 @@
 layout: term
 title: projektör ışığında olmak
 slug: projektor-isiginda-olmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - göz önünde bulunmak, ortada olmak

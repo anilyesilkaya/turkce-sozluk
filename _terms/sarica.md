@@ -2,6 +2,7 @@
 layout: term
 title: sarıca
 slug: sarica
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sarıyı andıran, sarıya yakın

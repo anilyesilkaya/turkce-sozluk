@@ -2,6 +2,7 @@
 layout: term
 title: buzlu cam
 slug: buzlu-cam
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir yüzü özel maddeyle donuklaştırılmış, yarı saydam cam

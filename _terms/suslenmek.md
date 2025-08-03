@@ -2,6 +2,7 @@
 layout: term
 title: süslenmek
 slug: suslenmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Süsleme işine konu olmak; bezenmek

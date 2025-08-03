@@ -2,6 +2,7 @@
 layout: term
 title: incirlik
 slug: incirlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İncir yetiştirilen alan; yemişlik

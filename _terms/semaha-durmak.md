@@ -2,6 +2,7 @@
 layout: term
 title: semaha durmak
 slug: semaha-durmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - semah dönmek

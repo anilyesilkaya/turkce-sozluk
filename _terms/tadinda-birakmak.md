@@ -2,6 +2,7 @@
 layout: term
 title: tadında bırakmak
 slug: tadinda-birakmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - aşırılığa kaçmamak

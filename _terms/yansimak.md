@@ -2,6 +2,7 @@
 layout: term
 title: yansımak
 slug: yansimak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Işık ve ses dalgaları yansıtıcı bir yüzeye çarparak yön değiştirmek; yansılamak, aksetmek

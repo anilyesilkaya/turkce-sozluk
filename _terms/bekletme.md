@@ -2,6 +2,7 @@
 layout: term
 title: bekletme
 slug: bekletme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bekletmek işi

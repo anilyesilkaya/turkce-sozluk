@@ -2,6 +2,7 @@
 layout: term
 title: yenileyebilmek
 slug: yenileyebilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yenileme ihtimali veya imkânı bulunmak

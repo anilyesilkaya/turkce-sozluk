@@ -2,6 +2,7 @@
 layout: term
 title: doymuş
 slug: doymus
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir şey yiyerek tok duruma gelmiş

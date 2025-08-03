@@ -2,6 +2,7 @@
 layout: term
 title: gönderilebilme
 slug: gonderilebilme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gönderilebilmek işi

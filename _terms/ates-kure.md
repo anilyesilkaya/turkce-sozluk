@@ -2,6 +2,7 @@
 layout: term
 title: ateş küre
 slug: ates-kure
+letter: A
 lisan: Türkçe
 anlamlar:
 - Erimiş hâlde olduğu sanılan yer çekirdeği; pirosfer

@@ -2,6 +2,7 @@
 layout: term
 title: kredi anlaşması
 slug: kredi-anlasmasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kredi alınması için yapılan anlaşma

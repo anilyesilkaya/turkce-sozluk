@@ -2,6 +2,7 @@
 layout: term
 title: yüzünden okumak
 slug: yuzunden-okumak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ezbere değil, yazılmış kâğıttan okumak

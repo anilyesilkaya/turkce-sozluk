@@ -2,6 +2,7 @@
 layout: term
 title: nehari
 slug: nehari
+letter: N
 lisan: Arapça nehārī
 anlamlar:
 - ► gündüzlü

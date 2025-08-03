@@ -2,6 +2,7 @@
 layout: term
 title: tasfiye
 slug: tasfiye
+letter: T
 lisan: Arapça taṣfiye
 anlamlar:
 - Arıtma, ayıklama, temizleme

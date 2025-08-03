@@ -2,6 +2,7 @@
 layout: term
 title: göstermecilik
 slug: gostermecilik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Cinsel organlarını gösterme biçiminde görülen ruhsal sapıklık; ut açıcılık, teşhircilik, eksibisyonizm

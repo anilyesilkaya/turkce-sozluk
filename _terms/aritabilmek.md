@@ -2,6 +2,7 @@
 layout: term
 title: arıtabilmek
 slug: aritabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arıtma ihtimali veya imkânı bulunmak

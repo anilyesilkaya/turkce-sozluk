@@ -2,6 +2,7 @@
 layout: term
 title: şişeci
 slug: siseci
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şişe alan veya satan kimse

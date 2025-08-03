@@ -2,6 +2,7 @@
 layout: term
 title: kalaba
 slug: kalaba
+letter: K
 lisan: Arapça ġalebe
 anlamlar:
 - ► kalabalık

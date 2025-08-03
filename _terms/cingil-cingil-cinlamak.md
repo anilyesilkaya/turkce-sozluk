@@ -2,6 +2,7 @@
 layout: term
 title: çıngıl çıngıl çınlamak
 slug: cingil-cingil-cinlamak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - metal eşyalar birbirine vurduğunda gür ve keskin ses çıkarmak

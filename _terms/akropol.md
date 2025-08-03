@@ -2,6 +2,7 @@
 layout: term
 title: akropol
 slug: akropol
+letter: A
 lisan: Fransızca acropole
 anlamlar:
 - Eski Yunan şehirlerinde, en önemli yapıların ve tapınakların bulunduğu iç kale

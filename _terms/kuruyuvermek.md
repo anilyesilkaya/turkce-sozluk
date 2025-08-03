@@ -2,6 +2,7 @@
 layout: term
 title: kuruyuvermek
 slug: kuruyuvermek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çabucak kurumak

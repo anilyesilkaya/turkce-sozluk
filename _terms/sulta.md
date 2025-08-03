@@ -2,6 +2,7 @@
 layout: term
 title: sulta
 slug: sulta
+letter: S
 lisan: Arapça sulṭa
 anlamlar:
 - ► otorite

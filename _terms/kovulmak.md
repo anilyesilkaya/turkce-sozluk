@@ -2,6 +2,7 @@
 layout: term
 title: kovulmak
 slug: kovulmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kovma işine konu olmak veya kovma işi yapılmak; defedilmek, sepetlenmek

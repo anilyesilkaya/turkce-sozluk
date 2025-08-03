@@ -2,6 +2,7 @@
 layout: term
 title: takrir
 slug: takrir
+letter: T
 lisan: Arapça taḳrīr
 anlamlar:
 - Belli bir yere yerleştirme, orada bulundurma

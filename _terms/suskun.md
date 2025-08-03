@@ -2,6 +2,7 @@
 layout: term
 title: suskun
 slug: suskun
+letter: S
 lisan: Türkçe
 anlamlar:
 - Çok az konuşan, sessiz, sakin olan; samut, sükûti

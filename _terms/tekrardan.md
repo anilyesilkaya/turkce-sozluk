@@ -2,6 +2,7 @@
 layout: term
 title: tekrardan
 slug: tekrardan
+letter: T
 lisan: Türkçe
 anlamlar:
 - 343 tekrar tekrar

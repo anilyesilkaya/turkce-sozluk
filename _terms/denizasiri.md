@@ -2,6 +2,7 @@
 layout: term
 title: denizaşırı
 slug: denizasiri
+letter: D
 lisan: Türkçe
 anlamlar:
 - Denizlerin ötesinde bulunan

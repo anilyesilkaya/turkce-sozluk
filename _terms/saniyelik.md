@@ -2,6 +2,7 @@
 layout: term
 title: saniyelik
 slug: saniyelik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Çok kısa süren

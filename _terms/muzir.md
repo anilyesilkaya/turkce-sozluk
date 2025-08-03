@@ -2,6 +2,7 @@
 layout: term
 title: muzır
 slug: muzir
+letter: M
 lisan: Arapça mużirr
 anlamlar:
 - ► zararlı

@@ -2,6 +2,7 @@
 layout: term
 title: tahattur etmek
 slug: tahattur-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - hatırlamak

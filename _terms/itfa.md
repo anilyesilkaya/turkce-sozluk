@@ -2,6 +2,7 @@
 layout: term
 title: itfa
 slug: itfa
+letter: I
 lisan: Arapça iṭfāʾ
 anlamlar:
 - ► söndürme

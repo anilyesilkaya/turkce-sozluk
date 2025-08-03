@@ -2,6 +2,7 @@
 layout: term
 title: hasıl etmek
 slug: hasil-etmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - ortaya çıkarmak

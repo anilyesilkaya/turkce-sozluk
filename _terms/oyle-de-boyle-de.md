@@ -2,6 +2,7 @@
 layout: term
 title: öyle de böyle de
 slug: oyle-de-boyle-de
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - her iki biçimde

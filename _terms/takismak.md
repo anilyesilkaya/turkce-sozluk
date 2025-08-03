@@ -2,6 +2,7 @@
 layout: term
 title: takışmak
 slug: takismak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Birbirine takılmak

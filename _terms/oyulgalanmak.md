@@ -2,6 +2,7 @@
 layout: term
 title: oyulgalanmak
 slug: oyulgalanmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Kumaş gelişigüzel dikilmek

@@ -2,6 +2,7 @@
 layout: term
 title: ganimet
 slug: ganimet
+letter: G
 lisan: Arapça ġanīmet
 anlamlar:
 - Savaşta düşmandan zorla ele geçirilen mal; şikâr

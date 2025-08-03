@@ -2,6 +2,7 @@
 layout: term
 title: süremsiz
 slug: suremsiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Belirli zaman ilgisi olmayan

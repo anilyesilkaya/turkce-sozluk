@@ -2,6 +2,7 @@
 layout: term
 title: akrabalık
 slug: akrabalik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Akraba olma durumu; asabiyet

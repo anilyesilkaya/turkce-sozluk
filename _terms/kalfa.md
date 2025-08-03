@@ -2,6 +2,7 @@
 layout: term
 title: kalfa
 slug: kalfa
+letter: K
 lisan: Arapça ḫalīfe
 anlamlar:
 - Aşaması çırakla usta arasında bulunan zanaatçı

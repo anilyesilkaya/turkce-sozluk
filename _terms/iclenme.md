@@ -2,6 +2,7 @@
 layout: term
 title: içlenme
 slug: iclenme
+letter: I
 lisan: Türkçe
 anlamlar:
 - İçlenmek işi veya durumu

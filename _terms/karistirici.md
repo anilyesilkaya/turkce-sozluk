@@ -2,6 +2,7 @@
 layout: term
 title: karıştırıcı
 slug: karistirici
+letter: K
 lisan: Türkçe
 anlamlar:
 - İki veya daha çok maddeyi birbiri içinde dağıtmaya, karıştırmaya yarayan araçların genel adı

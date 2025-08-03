@@ -2,6 +2,7 @@
 layout: term
 title: pupa
 slug: pupa
+letter: P
 lisan: İtalyanca poppa
 anlamlar:
 - Geminin arkası; kıç

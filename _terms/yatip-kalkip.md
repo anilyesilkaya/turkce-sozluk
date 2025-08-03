@@ -2,6 +2,7 @@
 layout: term
 title: yatıp kalkıp
 slug: yatip-kalkip
+letter: Y
 lisan: Türkçe
 anlamlar:
 - her zaman, hep

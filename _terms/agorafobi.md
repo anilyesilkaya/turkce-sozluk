@@ -2,6 +2,7 @@
 layout: term
 title: agorafobi
 slug: agorafobi
+letter: A
 lisan: Fransızca agoraphobie
 anlamlar:
 - ► alan korkusu

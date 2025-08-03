@@ -2,6 +2,7 @@
 layout: term
 title: yırtıcılık
 slug: yirticilik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yırtıcı olma durumu

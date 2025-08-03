@@ -2,6 +2,7 @@
 layout: term
 title: ulak çıkarmak
 slug: ulak-cikarmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - haberci göndermek, posta çıkarmak

@@ -2,6 +2,7 @@
 layout: term
 title: iblis
 slug: iblis
+letter: I
 lisan: Arapça iblīs
 anlamlar:
 - ► şeytan

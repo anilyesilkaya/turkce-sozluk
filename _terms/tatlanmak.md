@@ -2,6 +2,7 @@
 layout: term
 title: tatlanmak
 slug: tatlanmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tat kazanmak, tadı gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: patır patır
 slug: patir-patir
+letter: P
 lisan: Türkçe
 anlamlar:
 - Güçlü, gürültülü ses çıkararak

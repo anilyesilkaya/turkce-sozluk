@@ -2,6 +2,7 @@
 layout: term
 title: tunik
 slug: tunik
+letter: T
 lisan: Fransızca tunique
 anlamlar:
 - Pantolon veya etek üzerine giyilen, dizlere kadar inen üst giysisi

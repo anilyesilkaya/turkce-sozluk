@@ -2,6 +2,7 @@
 layout: term
 title: hırıldamak
 slug: hirildamak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hırıltılı bir ses çıkarmak

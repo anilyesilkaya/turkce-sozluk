@@ -2,6 +2,7 @@
 layout: term
 title: gemi
 slug: gemi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Su üstünde yüzen, insan ve yük taşımaya yarayan büyük taşıt; sefine

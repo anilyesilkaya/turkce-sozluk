@@ -2,6 +2,7 @@
 layout: term
 title: katma
 slug: katma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Katmak işi

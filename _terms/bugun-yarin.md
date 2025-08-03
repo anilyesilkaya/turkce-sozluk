@@ -2,6 +2,7 @@
 layout: term
 title: bugün yarın
 slug: bugun-yarin
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çok yakında, nerede ise

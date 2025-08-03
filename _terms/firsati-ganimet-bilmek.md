@@ -2,6 +2,7 @@
 layout: term
 title: fırsatı ganimet bilmek
 slug: firsati-ganimet-bilmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - çıkan fırsattan en iyi biçimde yararlanmak

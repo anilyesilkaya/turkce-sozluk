@@ -2,6 +2,7 @@
 layout: term
 title: canlanıverme
 slug: canlaniverme
+letter: C
 lisan: Türkçe
 anlamlar:
 - Canlanıvermek işi

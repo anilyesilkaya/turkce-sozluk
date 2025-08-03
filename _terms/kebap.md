@@ -2,6 +2,7 @@
 layout: term
 title: kebap
 slug: kebap
+letter: K
 lisan: Arapça kebāb
 anlamlar:
 - Doğrudan doğruya ateşte veya kap içinde susuz olarak pişirilmiş et

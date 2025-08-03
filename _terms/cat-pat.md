@@ -2,6 +2,7 @@
 layout: term
 title: çat pat
 slug: cat-pat
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Az çok ve yalan yanlış biçimde; çatır patır, çatra patra

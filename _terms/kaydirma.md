@@ -2,6 +2,7 @@
 layout: term
 title: kaydırma
 slug: kaydirma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaydırmak işi

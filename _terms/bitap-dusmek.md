@@ -2,6 +2,7 @@
 layout: term
 title: bitap düşmek
 slug: bitap-dusmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - bitkin düşmek

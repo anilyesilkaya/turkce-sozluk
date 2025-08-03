@@ -2,6 +2,7 @@
 layout: term
 title: ferahlatmak
 slug: ferahlatmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - Ferah duruma getirmek, rahatlatmak

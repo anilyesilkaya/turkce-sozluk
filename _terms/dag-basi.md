@@ -2,6 +2,7 @@
 layout: term
 title: dağ başı
 slug: dag-basi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dağın zirvesi, doruğu

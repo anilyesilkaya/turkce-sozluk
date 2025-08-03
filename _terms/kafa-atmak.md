@@ -2,6 +2,7 @@
 layout: term
 title: kafa atmak
 slug: kafa-atmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kavga sırasında karşıdakinin yüzüne, sert ve şiddetli bir biçimde kafayla vurmak

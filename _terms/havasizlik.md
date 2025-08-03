@@ -2,6 +2,7 @@
 layout: term
 title: havasızlık
 slug: havasizlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Havasız olma durumu

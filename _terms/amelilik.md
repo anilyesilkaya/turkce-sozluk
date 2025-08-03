@@ -2,6 +2,7 @@
 layout: term
 title: amelîlik
 slug: amelilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Amelî olma durumu

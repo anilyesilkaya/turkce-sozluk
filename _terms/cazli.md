@@ -2,6 +2,7 @@
 layout: term
 title: cazlı
 slug: cazli
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cazı olan

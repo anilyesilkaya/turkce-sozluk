@@ -2,6 +2,7 @@
 layout: term
 title: dönme dolap
 slug: donme-dolap
+letter: D
 lisan: Türkçe
 anlamlar:
 - Eğlence alanlarında, bir eksen çevresinde yukarıdan aşağı dönen ve oturma yerleri olan eğlence aracı; dolap

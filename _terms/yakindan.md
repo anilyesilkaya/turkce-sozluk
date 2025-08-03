@@ -2,6 +2,7 @@
 layout: term
 title: yakından
 slug: yakindan
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yakın bir yerden, yakın olarak

@@ -2,6 +2,7 @@
 layout: term
 title: batarya
 slug: batarya
+letter: B
 lisan: İtalyanca batteria
 anlamlar:
 - En küçük topçu birliği

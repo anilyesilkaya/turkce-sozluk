@@ -2,6 +2,7 @@
 layout: term
 title: karşılıksız aşk
 slug: karsiliksiz-ask
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kişinin kendince yarattığı aşk, tek yanlı aşk

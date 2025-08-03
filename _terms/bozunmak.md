@@ -2,6 +2,7 @@
 layout: term
 title: bozunmak
 slug: bozunmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Birleşik bir madde daha yalın bileşiklere veya bileşenlere tek yönlü olarak ayrılmak; dejenere olmak

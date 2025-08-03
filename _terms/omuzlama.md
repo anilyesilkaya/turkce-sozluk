@@ -2,6 +2,7 @@
 layout: term
 title: omuzlama
 slug: omuzlama
+letter: O
 lisan: Türkçe
 anlamlar:
 - Omuzlamak işi

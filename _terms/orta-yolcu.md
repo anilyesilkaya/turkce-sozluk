@@ -2,6 +2,7 @@
 layout: term
 title: orta yolcu
 slug: orta-yolcu
+letter: O
 lisan: Türkçe
 anlamlar:
 - Orta yolu seçen, orta yoldan yana olan kimse

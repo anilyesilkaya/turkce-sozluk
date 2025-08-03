@@ -2,6 +2,7 @@
 layout: term
 title: kovmak
 slug: kovmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sert veya küçük düşürücü sözlerle gitmesini söylemek; savmak, defetmek, deflemek

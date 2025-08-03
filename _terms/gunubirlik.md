@@ -2,6 +2,7 @@
 layout: term
 title: günübirlik
 slug: gunubirlik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gece kalmadan aynı gün dönmek üzere; günübirliğine

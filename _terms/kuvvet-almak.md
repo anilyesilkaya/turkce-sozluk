@@ -2,6 +2,7 @@
 layout: term
 title: kuvvet almak
 slug: kuvvet-almak
+letter: K
 lisan: Türkçe
 anlamlar:
 - herhangi bir yardımla gücü artmak, kuvvetlenmek

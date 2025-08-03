@@ -2,6 +2,7 @@
 layout: term
 title: damla taş
 slug: damla-tas
+letter: D
 lisan: Türkçe
 anlamlar:
 - Tıraş edilmeyerek yuvarlak ve cilalı bırakılmış, değerli veya yarı değerli taş

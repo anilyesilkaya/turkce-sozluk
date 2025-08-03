@@ -2,6 +2,7 @@
 layout: term
 title: sürpriz
 slug: surpriz
+letter: S
 lisan: Fransızca surprise
 anlamlar:
 - Beklenmeyen ve insanı şaşırtarak sevindiren veya üzen olay, beklenmedik durum; şaşırtı

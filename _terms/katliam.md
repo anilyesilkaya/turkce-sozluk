@@ -2,6 +2,7 @@
 layout: term
 title: katliam
 slug: katliam
+letter: K
 lisan: Arapça ḳatl + ʿāmm
 anlamlar:
 - ► kırım

@@ -2,6 +2,7 @@
 layout: term
 title: selektör
 slug: selektor
+letter: S
 lisan: Fransızca sélecteur
 anlamlar:
 - Tahılı yabancı maddelerden ayırmak için kullanılan aygıt

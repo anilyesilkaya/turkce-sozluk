@@ -2,6 +2,7 @@
 layout: term
 title: ağzı bozuk
 slug: agzi-bozuk
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► küfürbaz

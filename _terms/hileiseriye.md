@@ -2,6 +2,7 @@
 layout: term
 title: hileişeriye
 slug: hileiseriye
+letter: H
 lisan: Arapça ḥīle + şerʿiyye
 anlamlar:
 - Çözümü güç bir hukuki sorunu hukuk kurallarını zedelemeden çözümleme

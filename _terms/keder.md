@@ -2,6 +2,7 @@
 layout: term
 title: keder
 slug: keder
+letter: K
 lisan: Arapça keder
 anlamlar:
 - Maddi ve manevi olarak duyulan aşırı üzüntü; elem, ızdırap, inkıbaz

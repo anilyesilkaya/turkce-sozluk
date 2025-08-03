@@ -2,6 +2,7 @@
 layout: term
 title: aptal yerine koymak
 slug: aptal-yerine-koymak
+letter: A
 lisan: Türkçe
 anlamlar:
 - hiçbir şeyden anlamaz, bilmez sanmak, aptal gözüyle bakmak

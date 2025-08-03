@@ -2,6 +2,7 @@
 layout: term
 title: sırrolmak
 slug: sirrolmak
+letter: S
 lisan: Arapça sirr + Türkçe olmak
 anlamlar:
 - Bir şey veya kimse akılalmaz bir biçimde ortadan yok olmak

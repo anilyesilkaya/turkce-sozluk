@@ -2,6 +2,7 @@
 layout: term
 title: 'kafes kuşu '
 slug: kafes-kusu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kafeste yaşamaya alıştığı için dışarıda yaşayamayan kuş

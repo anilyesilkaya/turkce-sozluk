@@ -2,6 +2,7 @@
 layout: term
 title: paydos
 slug: paydos
+letter: P
 lisan: Rumca
 anlamlar:
 - İşi veya çalışmayı geçici olarak bırakma

@@ -2,6 +2,7 @@
 layout: term
 title: kuşaklanmak
 slug: kusaklanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kuşaklama işine konu olmak

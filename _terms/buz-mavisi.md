@@ -2,6 +2,7 @@
 layout: term
 title: buz mavisi
 slug: buz-mavisi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Mavinin beyaza çalan bir tonu

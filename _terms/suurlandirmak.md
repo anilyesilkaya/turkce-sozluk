@@ -2,6 +2,7 @@
 layout: term
 title: şuurlandırmak
 slug: suurlandirmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► bilinçlendirmek

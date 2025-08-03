@@ -2,6 +2,7 @@
 layout: term
 title: göl alası
 slug: gol-alasi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Avrupa ve Anadolu göllerinde yaşayan bir tür alabalık (Salmo lacus tris)

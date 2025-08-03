@@ -2,6 +2,7 @@
 layout: term
 title: sarsaklık
 slug: sarsaklik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sarsak olma durumu

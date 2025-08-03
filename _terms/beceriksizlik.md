@@ -2,6 +2,7 @@
 layout: term
 title: beceriksizlik
 slug: beceriksizlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beceriksiz olma durumu; becerisizlik, aciz, âcizlik, maharetsizlik

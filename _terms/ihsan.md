@@ -2,6 +2,7 @@
 layout: term
 title: ihsan
 slug: ihsan
+letter: I
 lisan: Arapça iḥsān
 anlamlar:
 - İyilik etme, iyi davranma

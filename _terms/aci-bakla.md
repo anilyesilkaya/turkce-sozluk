@@ -2,6 +2,7 @@
 layout: term
 title: acı bakla
 slug: aci-bakla
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► termiye

@@ -2,6 +2,7 @@
 layout: term
 title: beslenme
 slug: beslenme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Vücut için gerekli besin maddelerini alma; tagaddi

@@ -2,6 +2,7 @@
 layout: term
 title: nasılsa
 slug: nasilsa
+letter: N
 lisan: Türkçe
 anlamlar:
 - Herhangi bir sebeple veya bilinmeyen bir sebeple

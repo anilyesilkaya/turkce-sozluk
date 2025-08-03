@@ -2,6 +2,7 @@
 layout: term
 title: toplatılmak
 slug: toplatilmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Toplama işi yaptırılmak

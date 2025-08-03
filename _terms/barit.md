@@ -2,6 +2,7 @@
 layout: term
 title: barit
 slug: barit
+letter: B
 lisan: Fransızca baryte
 anlamlar:
 - Renksiz veya beyaz, sarı, gri renklerde olabilen, sondaz, dolgu vb. alanlarda kullanılan bir mineral; baritin, baryum sülfat Ba(OH)2

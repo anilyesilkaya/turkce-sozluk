@@ -2,6 +2,7 @@
 layout: term
 title: kapaklanmak
 slug: kapaklanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Ayağı takılıp yüzüstü düşmek

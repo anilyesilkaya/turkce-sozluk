@@ -2,6 +2,7 @@
 layout: term
 title: altınoluk
 slug: altinoluk
+letter: A
 lisan: Türkçe
 anlamlar:
 - İşlemeli kadın şalvarı

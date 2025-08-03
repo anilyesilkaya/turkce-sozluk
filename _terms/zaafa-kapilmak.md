@@ -2,6 +2,7 @@
 layout: term
 title: zaafa kapılmak
 slug: zaafa-kapilmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - direnme gücü gösterememek

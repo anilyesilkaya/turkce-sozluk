@@ -2,6 +2,7 @@
 layout: term
 title: gönlü akmak
 slug: gonlu-akmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - birine karşı güçlü sevgi duymak

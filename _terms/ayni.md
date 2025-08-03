@@ -2,6 +2,7 @@
 layout: term
 title: ayni
 slug: ayni
+letter: A
 lisan: Arapça ʿaynī
 anlamlar:
 - Nakit para dışında belirlenmiş bir mal veya eşya olarak verilen

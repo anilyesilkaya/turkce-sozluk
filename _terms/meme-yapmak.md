@@ -2,6 +2,7 @@
 layout: term
 title: meme yapmak
 slug: meme-yapmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - motorlu araçlarda platin elektrik akımını geçirmeyecek ölçüde oksitlenmek, işlevini yapmaz olmak

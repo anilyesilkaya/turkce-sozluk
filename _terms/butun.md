@@ -2,6 +2,7 @@
 layout: term
 title: bütün
 slug: butun
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► tam

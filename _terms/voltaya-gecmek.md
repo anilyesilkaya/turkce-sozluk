@@ -2,6 +2,7 @@
 layout: term
 title: voltaya geçmek
 slug: voltaya-gecmek
+letter: V
 lisan: Türkçe
 anlamlar:
 - volta atmaya başlamak

@@ -2,6 +2,7 @@
 layout: term
 title: hafif sanayi
 slug: hafif-sanayi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Çeşitli tüketim malları üreten sanayi

@@ -2,6 +2,7 @@
 layout: term
 title: Mardinli
 slug: mardinli
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mardin ilinden olan kimse

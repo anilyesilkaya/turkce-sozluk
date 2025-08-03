@@ -2,6 +2,7 @@
 layout: term
 title: suratı bir karış asılmak
 slug: surati-bir-karis-asilmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - öfkelenmek, kızmak ve somurtmak

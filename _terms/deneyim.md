@@ -2,6 +2,7 @@
 layout: term
 title: deneyim
 slug: deneyim
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir kimsenin belli bir sürede veya hayat boyu edindiği bilgilerin tamamı; deney, tecrübe, eksperyans

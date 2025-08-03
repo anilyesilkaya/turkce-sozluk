@@ -2,6 +2,7 @@
 layout: term
 title: Zatülkürsi
 slug: zatulkursi
+letter: Z
 lisan: Arapça ẕātu'l-kursī
 anlamlar:
 - ► Altıkardeş

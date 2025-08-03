@@ -2,6 +2,7 @@
 layout: term
 title: sütten kesmek
 slug: sutten-kesmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - emzirmeye son vermek

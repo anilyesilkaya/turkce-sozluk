@@ -2,6 +2,7 @@
 layout: term
 title: ağırlaştırma
 slug: agirlastirma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağırlaştırmak işi

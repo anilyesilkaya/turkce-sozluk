@@ -2,6 +2,7 @@
 layout: term
 title: karşı karşıya
 slug: karsi-karsiya
+letter: K
 lisan: Türkçe
 anlamlar:
 - Biri ötekinin karşısına gelecek biçimde, yüzleri birbirine dönük olarak; yüz yüze, yüzbeyüz, vicahen

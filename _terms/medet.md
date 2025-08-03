@@ -2,6 +2,7 @@
 layout: term
 title: medet
 slug: medet
+letter: M
 lisan: Arapça meded
 anlamlar:
 - Yardım, imdat

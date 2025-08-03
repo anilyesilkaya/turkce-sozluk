@@ -2,6 +2,7 @@
 layout: term
 title: burnundan ayrılmamak
 slug: burnundan-ayrilmamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - yanından gitmemek, uzaklaşmamak

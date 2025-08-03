@@ -2,6 +2,7 @@
 layout: term
 title: yaban
 slug: yaban
+letter: Y
 lisan: Farsça yābān
 anlamlar:
 - İnsan yaşamayan ıssız yer

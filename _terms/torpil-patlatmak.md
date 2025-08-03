@@ -2,6 +2,7 @@
 layout: term
 title: torpil patlatmak
 slug: torpil-patlatmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - bir işte kendisinin kayırılmasını sağlamak

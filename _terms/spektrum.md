@@ -2,6 +2,7 @@
 layout: term
 title: spektrum
 slug: spektrum
+letter: S
 lisan: İngilizce spectrum
 anlamlar:
 - ► çeşitlilik

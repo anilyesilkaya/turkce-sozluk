@@ -2,6 +2,7 @@
 layout: term
 title: dişlemek
 slug: dislemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir şeyin bir parçasını ısırmak veya koparmak

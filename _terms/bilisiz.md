@@ -2,6 +2,7 @@
 layout: term
 title: bilisiz
 slug: bilisiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bilgisiz

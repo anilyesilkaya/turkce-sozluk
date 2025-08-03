@@ -2,6 +2,7 @@
 layout: term
 title: ellişer
 slug: elliser
+letter: E
 lisan: Türkçe
 anlamlar:
 - Elli sıfatının üleştirme sayı sıfatı

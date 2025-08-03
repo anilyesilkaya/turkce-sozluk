@@ -2,6 +2,7 @@
 layout: term
 title: hurdalık
 slug: hurdalik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hurda yığını

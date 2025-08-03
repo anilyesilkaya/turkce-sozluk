@@ -2,6 +2,7 @@
 layout: term
 title: gürültü patırtı
 slug: gurultu-patirti
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gürültülü karışıklık; hengâm, kıyamet, şamata, takatuka

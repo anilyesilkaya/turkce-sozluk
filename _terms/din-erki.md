@@ -2,6 +2,7 @@
 layout: term
 title: din erki
 slug: din-erki
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► teokrasi

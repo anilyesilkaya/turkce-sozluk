@@ -2,6 +2,7 @@
 layout: term
 title: dil uzatmak
 slug: dil-uzatmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - bir kimse veya bir şey için kötü söylemek

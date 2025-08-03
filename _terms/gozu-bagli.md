@@ -2,6 +2,7 @@
 layout: term
 title: gözü bağlı
 slug: gozu-bagli
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► aymaz

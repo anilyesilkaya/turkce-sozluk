@@ -2,6 +2,7 @@
 layout: term
 title: çarık
 slug: carik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - İşlenmemiş sığır derisinden yapılan ve deliklerine geçirilen şeritle sıkıca bağlanan ayakkabı

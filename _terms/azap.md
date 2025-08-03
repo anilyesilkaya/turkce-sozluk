@@ -2,6 +2,7 @@
 layout: term
 title: azap
 slug: azap
+letter: A
 lisan: Arapça ʿazab
 anlamlar:
 - Anadolu'nun birçok bölgesinde çiftlik uşağı

@@ -2,6 +2,7 @@
 layout: term
 title: meziyetsizlik
 slug: meziyetsizlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Meziyetsiz olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: letarji
 slug: letarji
+letter: L
 lisan: Fransızca léthargie
 anlamlar:
 - Yaşama işlevlerinin ve bilincin çok zayıfladığı, çok derin ve sürekli patolojik uyku durumu

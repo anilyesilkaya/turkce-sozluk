@@ -2,6 +2,7 @@
 layout: term
 title: sinema tekniği
 slug: sinema-teknigi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir sinema filmini yaratmada kullanılan teknik araçlarla ilgili yöntem

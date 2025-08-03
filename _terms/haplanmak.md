@@ -2,6 +2,7 @@
 layout: term
 title: haplanmak
 slug: haplanmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Uyuşturucu özelliği olan hap içmiş olmak

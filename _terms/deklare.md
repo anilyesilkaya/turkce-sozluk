@@ -2,6 +2,7 @@
 layout: term
 title: deklare
 slug: deklare
+letter: D
 lisan: Fransızca déclaré
 anlamlar:
 - Gümrüklerde vergi konusu olacak eşya vb.ni resmî makama bildirme

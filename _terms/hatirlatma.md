@@ -2,6 +2,7 @@
 layout: term
 title: hatırlatma
 slug: hatirlatma
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► anımsatma

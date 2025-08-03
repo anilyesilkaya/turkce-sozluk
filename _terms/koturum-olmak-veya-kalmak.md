@@ -2,6 +2,7 @@
 layout: term
 title: kötürüm olmak (veya kalmak)
 slug: koturum-olmak-veya-kalmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - yaşlılık veya sakatlık sebebiyle yürüyememek

@@ -2,6 +2,7 @@
 layout: term
 title: kâtibe
 slug: katibe
+letter: K
 lisan: Arapça kātibe
 anlamlar:
 - Kadın yazman, kadın sekreter

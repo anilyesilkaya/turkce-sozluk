@@ -2,6 +2,7 @@
 layout: term
 title: süluk etmek
 slug: suluk-etmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - bir işe girmek

@@ -2,6 +2,7 @@
 layout: term
 title: ojelemek
 slug: ojelemek
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oje sürmek

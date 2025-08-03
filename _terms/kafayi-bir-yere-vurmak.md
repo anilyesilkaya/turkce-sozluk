@@ -2,6 +2,7 @@
 layout: term
 title: kafayı (bir yere) vurmak
 slug: kafayi-bir-yere-vurmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - hastalanıp yatağa düşmek

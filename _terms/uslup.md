@@ -2,6 +2,7 @@
 layout: term
 title: üslup
 slug: uslup
+letter: Ü
 lisan: Arapça uslūb
 anlamlar:
 - ► tarz

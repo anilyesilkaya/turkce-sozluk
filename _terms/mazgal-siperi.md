@@ -2,6 +2,7 @@
 layout: term
 title: 'mazgal siperi '
 slug: mazgal-siperi
+letter: M
 lisan: Türkçe
 anlamlar:
 - Kale burçlarına diş diş açılmış mazgalların çıkıntılı kısımları; mazgal dişi

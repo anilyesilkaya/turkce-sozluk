@@ -2,6 +2,7 @@
 layout: term
 title: eline bakmak
 slug: eline-bakmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - bir kimsenin yardımıyla geçinmek

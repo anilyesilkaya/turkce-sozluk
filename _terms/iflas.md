@@ -2,6 +2,7 @@
 layout: term
 title: iflas
 slug: iflas
+letter: I
 lisan: Arapça iflās
 anlamlar:
 - Borçlarını ödeyemediği mahkeme kararı ile tespit ve ilan olunan iş adamının durumu; batkı

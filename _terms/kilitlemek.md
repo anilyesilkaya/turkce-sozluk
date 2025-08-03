@@ -2,6 +2,7 @@
 layout: term
 title: kilitlemek
 slug: kilitlemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Anahtarla kilidi kapamak

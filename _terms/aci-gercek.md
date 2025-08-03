@@ -2,6 +2,7 @@
 layout: term
 title: acı gerçek
 slug: aci-gercek
+letter: A
 lisan: Türkçe
 anlamlar:
 - İstenmediği hâlde karşılaşılan sıkıntılı durum

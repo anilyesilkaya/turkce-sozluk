@@ -2,6 +2,7 @@
 layout: term
 title: şurupçu
 slug: surupcu
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► şerbetçi

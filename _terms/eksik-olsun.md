@@ -2,6 +2,7 @@
 layout: term
 title: eksik olsun
 slug: eksik-olsun
+letter: E
 lisan: Türkçe
 anlamlar:
 - '"gereği yok" anlamında kullanılan bir söz'

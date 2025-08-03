@@ -2,6 +2,7 @@
 layout: term
 title: peşin
 slug: pesin
+letter: P
 lisan: Farsça pīşīn
 anlamlar:
 - Bir alışverişte, alışveriş yapıldığı anda, alınan şeyin tesliminden önce veya teslimiyle birlikte ödenen; tirink, veresiye karşıtı

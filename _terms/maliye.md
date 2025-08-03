@@ -2,6 +2,7 @@
 layout: term
 title: maliye
 slug: maliye
+letter: M
 lisan: Arapça māliyye
 anlamlar:
 - Kamu ile ilgili işlerin yürütülmesi için gerekli gelirleri ve harcanan paraları düzenleyen kuralların bütünü

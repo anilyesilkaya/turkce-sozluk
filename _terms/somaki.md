@@ -2,6 +2,7 @@
 layout: term
 title: somaki
 slug: somaki
+letter: S
 lisan: Arapça summāḳī
 anlamlar:
 - Kızıl veya yeşil renkte, damarlı ve çok sert bir porfir türü mermer

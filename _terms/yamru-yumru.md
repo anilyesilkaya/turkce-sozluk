@@ -2,6 +2,7 @@
 layout: term
 title: yamru yumru
 slug: yamru-yumru
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Eğri büğrü, çarpık olan; yamuk yumuk

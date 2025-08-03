@@ -2,6 +2,7 @@
 layout: term
 title: yatıp kalkmak
 slug: yatip-kalkmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - gecelerini geçirmek

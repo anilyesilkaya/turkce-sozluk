@@ -2,6 +2,7 @@
 layout: term
 title: on paralık
 slug: on-paralik
+letter: O
 lisan: Türkçe
 anlamlar:
 - Değeri çok az veya değersiz

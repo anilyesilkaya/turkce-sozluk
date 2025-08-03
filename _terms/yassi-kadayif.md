@@ -2,6 +2,7 @@
 layout: term
 title: yassı kadayıf
 slug: yassi-kadayif
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yuvarlak ve kalın hazır yufka

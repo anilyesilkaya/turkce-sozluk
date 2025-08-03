@@ -2,6 +2,7 @@
 layout: term
 title: kan davası gütmek
 slug: kan-davasi-gutmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - intikam almak istemek

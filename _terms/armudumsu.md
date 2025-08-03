@@ -2,6 +2,7 @@
 layout: term
 title: armudumsu
 slug: armudumsu
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► armutsu

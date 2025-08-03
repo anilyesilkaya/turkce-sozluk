@@ -2,6 +2,7 @@
 layout: term
 title: masraf
 slug: masraf
+letter: M
 lisan: Arapça maṣrif
 anlamlar:
 - ► gider

@@ -2,6 +2,7 @@
 layout: term
 title: anat
 slug: anat
+letter: A
 lisan: Arapça ānāt
 anlamlar:
 - Anlar, zamanlar

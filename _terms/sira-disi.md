@@ -2,6 +2,7 @@
 layout: term
 title: sıra dışı
 slug: sira-disi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Alışılmışın dışında olan; olağan dışı, gayritabii, normalüstü, ekstrem

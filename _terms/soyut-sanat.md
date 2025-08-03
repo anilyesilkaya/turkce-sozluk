@@ -2,6 +2,7 @@
 layout: term
 title: soyut sanat
 slug: soyut-sanat
+letter: S
 lisan: Türkçe
 anlamlar:
 - Soyut gerçeği yansıtan sanat; abstre sanat

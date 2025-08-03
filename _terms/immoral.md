@@ -2,6 +2,7 @@
 layout: term
 title: immoral
 slug: immoral
+letter: I
 lisan: Fransızca immoral
 anlamlar:
 - ► töretanımaz

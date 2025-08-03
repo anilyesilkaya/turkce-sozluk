@@ -2,6 +2,7 @@
 layout: term
 title: mühtedilik
 slug: muhtedilik
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► dönmelik

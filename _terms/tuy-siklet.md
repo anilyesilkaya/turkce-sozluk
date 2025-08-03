@@ -2,6 +2,7 @@
 layout: term
 title: tüy sıklet
 slug: tuy-siklet
+letter: T
 lisan: Türkçe
 anlamlar:
 - 57 kiloda dövüşen boksör; tüy ağırlık

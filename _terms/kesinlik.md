@@ -2,6 +2,7 @@
 layout: term
 title: kesinlik
 slug: kesinlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kesin olma durumu; katiyet

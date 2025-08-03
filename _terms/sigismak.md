@@ -2,6 +2,7 @@
 layout: term
 title: sığışmak
 slug: sigismak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Ancak sığmak, güçlükle sığmak

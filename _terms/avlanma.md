@@ -2,6 +2,7 @@
 layout: term
 title: avlanma
 slug: avlanma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Avlanmak işi

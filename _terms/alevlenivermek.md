@@ -2,6 +2,7 @@
 layout: term
 title: alevlenivermek
 slug: alevlenivermek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Çabucak alevlenmek

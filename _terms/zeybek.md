@@ -2,6 +2,7 @@
 layout: term
 title: zeybek
 slug: zeybek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Batı Anadolu efesi

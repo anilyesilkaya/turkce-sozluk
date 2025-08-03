@@ -2,6 +2,7 @@
 layout: term
 title: keman
 slug: keman
+letter: K
 lisan: Farsça kemān
 anlamlar:
 - Dört teli olan, çenenin altına dayayarak çalınan yaylı saz

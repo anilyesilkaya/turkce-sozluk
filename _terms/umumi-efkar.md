@@ -2,6 +2,7 @@
 layout: term
 title: umumi efkâr
 slug: umumi-efkar
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► kamuoyu

@@ -2,6 +2,7 @@
 layout: term
 title: boğazlatılmak
 slug: bogazlatilmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boğazı kesilerek öldürülmesi sağlanmak

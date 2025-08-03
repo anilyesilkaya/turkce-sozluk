@@ -2,6 +2,7 @@
 layout: term
 title: genel zekâ
 slug: genel-zeka
+letter: G
 lisan: Türkçe
 anlamlar:
 - Zekâ testleriyle ölçülen değişik yetenek ve güçlerin becerilerin birleşimi

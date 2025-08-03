@@ -2,6 +2,7 @@
 layout: term
 title: teheyyüç
 slug: teheyyuc
+letter: T
 lisan: Arapça teheyyuc
 anlamlar:
 - ► heyecan

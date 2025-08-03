@@ -2,6 +2,7 @@
 layout: term
 title: ara kesit
 slug: ara-kesit
+letter: A
 lisan: Türkçe
 anlamlar:
 - Çizgilerin, yüzeylerin, katı cisimlerin birbirlerine rastladıkları ve kesiştikleri yer

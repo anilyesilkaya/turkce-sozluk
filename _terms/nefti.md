@@ -2,6 +2,7 @@
 layout: term
 title: neftî
 slug: nefti
+letter: N
 lisan: Farsça neft + Arapça -ī
 anlamlar:
 - Siyaha yakın koyu yeşil renk

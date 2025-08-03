@@ -2,6 +2,7 @@
 layout: term
 title: aşıt
 slug: asit
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kuytu yer

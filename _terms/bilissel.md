@@ -2,6 +2,7 @@
 layout: term
 title: bilişsel
 slug: bilissel
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilişle ilgili, zekânın işleyişiyle ilgili; kognitif

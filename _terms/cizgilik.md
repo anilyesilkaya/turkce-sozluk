@@ -2,6 +2,7 @@
 layout: term
 title: çizgilik
 slug: cizgilik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► cetvel

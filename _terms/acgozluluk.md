@@ -2,6 +2,7 @@
 layout: term
 title: açgözlülük
 slug: acgozluluk
+letter: A
 lisan: Türkçe
 anlamlar:
 - Açgözlü olma durumu; açgözlük, doymazlık, gözü doymazlık, harislik, tamahkârlık, tamah

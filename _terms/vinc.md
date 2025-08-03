@@ -2,6 +2,7 @@
 layout: term
 title: vinç
 slug: vinc
+letter: V
 lisan: İngilizce winch
 anlamlar:
 - Ağır yük kaldırmaya ve bir yere taşımaya yarayan araç

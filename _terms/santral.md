@@ -2,6 +2,7 @@
 layout: term
 title: santral
 slug: santral
+letter: S
 lisan: Fransızca central
 anlamlar:
 - Doğadaki başka enerji türlerini elektrik enerjisine çeviren fabrika

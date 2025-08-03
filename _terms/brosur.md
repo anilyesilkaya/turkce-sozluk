@@ -2,6 +2,7 @@
 layout: term
 title: broşür
 slug: brosur
+letter: B
 lisan: Fransızca brochure
 anlamlar:
 - ► kitapçık

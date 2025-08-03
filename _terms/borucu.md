@@ -2,6 +2,7 @@
 layout: term
 title: borucu
 slug: borucu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boru yapıp satan kimse

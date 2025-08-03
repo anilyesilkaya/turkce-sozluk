@@ -2,6 +2,7 @@
 layout: term
 title: yeniden
 slug: yeniden
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yeni baştan

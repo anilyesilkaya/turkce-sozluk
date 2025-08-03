@@ -2,6 +2,7 @@
 layout: term
 title: uyduruvermek
 slug: uyduruvermek
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ansızın veya kısa sürede uydurmak

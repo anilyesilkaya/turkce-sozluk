@@ -2,6 +2,7 @@
 layout: term
 title: sadık kalmak
 slug: sadik-kalmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - birine, bir şeye bağlılığını sürdürmek, bağlı kalmak

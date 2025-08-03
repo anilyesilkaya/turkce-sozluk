@@ -2,6 +2,7 @@
 layout: term
 title: ufuksuz
 slug: ufuksuz
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ufku olmayan

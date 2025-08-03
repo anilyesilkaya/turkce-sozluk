@@ -2,6 +2,7 @@
 layout: term
 title: güneş takvimi
 slug: gunes-takvimi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güneş'in görünürdeki günlük ve yıllık hareketine göre düzenlenen takvim

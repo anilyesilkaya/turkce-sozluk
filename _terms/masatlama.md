@@ -2,6 +2,7 @@
 layout: term
 title: 'masatlama '
 slug: masatlama
+letter: M
 lisan: Türkçe
 anlamlar:
 - Masatlamak işi

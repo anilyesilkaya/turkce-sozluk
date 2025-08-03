@@ -2,6 +2,7 @@
 layout: term
 title: yüreğini kaplamak
 slug: yuregini-kaplamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - endişe ve üzüntü duymak

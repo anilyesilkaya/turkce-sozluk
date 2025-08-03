@@ -2,6 +2,7 @@
 layout: term
 title: çulsuz
 slug: culsuz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çulu olmayan

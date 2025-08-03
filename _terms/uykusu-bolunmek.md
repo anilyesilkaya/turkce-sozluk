@@ -2,6 +2,7 @@
 layout: term
 title: uykusu bölünmek
 slug: uykusu-bolunmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - yeterince uyumadan uyanmak veya uyandırılmak

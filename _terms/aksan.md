@@ -2,6 +2,7 @@
 layout: term
 title: aksan
 slug: aksan
+letter: A
 lisan: Fransızca accent
 anlamlar:
 - Ölçünlü dile nazaran herhangi bir bölgeye veya yabancılara özgü ses perdesi değişiklikleri

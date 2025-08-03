@@ -2,6 +2,7 @@
 layout: term
 title: çıbanlaşmak
 slug: cibanlasmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıban durumuna gelmek

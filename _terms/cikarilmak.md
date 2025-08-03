@@ -2,6 +2,7 @@
 layout: term
 title: çıkarılmak
 slug: cikarilmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıkarma işine konu olmak

@@ -2,6 +2,7 @@
 layout: term
 title: televizyoncu
 slug: televizyoncu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Televizyon satan kimse

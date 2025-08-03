@@ -2,6 +2,7 @@
 layout: term
 title: durmuş oturmuşluk
 slug: durmus-oturmusluk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Durmuş oturmuş olma durumu

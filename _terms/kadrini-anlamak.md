@@ -2,6 +2,7 @@
 layout: term
 title: kadrini anlamak
 slug: kadrini-anlamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - değerinin farkına varmak

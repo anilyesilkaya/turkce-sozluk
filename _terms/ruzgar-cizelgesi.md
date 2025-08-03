@@ -2,6 +2,7 @@
 layout: term
 title: rüzgâr çizelgesi
 slug: ruzgar-cizelgesi
+letter: R
 lisan: Türkçe
 anlamlar:
 - Rüzgâr hızının deniz miline göre tanımlanmasını ve sınıflandırılmasını gösteren çizelge

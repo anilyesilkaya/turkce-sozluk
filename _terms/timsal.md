@@ -2,6 +2,7 @@
 layout: term
 title: timsal
 slug: timsal
+letter: T
 lisan: Arapça tims̱āl
 anlamlar:
 - ► simge

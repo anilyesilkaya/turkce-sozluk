@@ -2,6 +2,7 @@
 layout: term
 title: kümelenmek
 slug: kumelenmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir yere toplanmak

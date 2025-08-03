@@ -2,6 +2,7 @@
 layout: term
 title: oynattırmak
 slug: oynattirmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oynatma işini yaptırmak

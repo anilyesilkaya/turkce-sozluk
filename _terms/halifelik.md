@@ -2,6 +2,7 @@
 layout: term
 title: halifelik
 slug: halifelik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Halife olma durumu

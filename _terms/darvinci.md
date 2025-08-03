@@ -2,6 +2,7 @@
 layout: term
 title: Darvinci
 slug: darvinci
+letter: D
 lisan: Türkçe
 anlamlar:
 - Darvincilik görüşünü benimseyen

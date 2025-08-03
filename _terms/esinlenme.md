@@ -2,6 +2,7 @@
 layout: term
 title: esinlenme
 slug: esinlenme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Esinlenmek işi

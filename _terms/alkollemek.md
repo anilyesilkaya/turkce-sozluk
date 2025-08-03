@@ -2,6 +2,7 @@
 layout: term
 title: alkollemek
 slug: alkollemek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir yere veya bir şeye alkol sürmek

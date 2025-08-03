@@ -2,6 +2,7 @@
 layout: term
 title: bililtizam
 slug: bililtizam
+letter: B
 lisan: Arapça bi'l-iltizām
 anlamlar:
 - ► bilerek

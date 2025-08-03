@@ -2,6 +2,7 @@
 layout: term
 title: Cermen dilleri
 slug: cermen-dilleri
+letter: C
 lisan: Türkçe
 anlamlar:
 - Kuzey Avrupa'da konuşulan, Hint-Avrupa dil ailesinin bir kolu

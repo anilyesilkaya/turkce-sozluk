@@ -2,6 +2,7 @@
 layout: term
 title: müdafaa etmek
 slug: mudafaa-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - savunmak

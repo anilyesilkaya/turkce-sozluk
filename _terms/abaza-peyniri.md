@@ -2,6 +2,7 @@
 layout: term
 title: Abaza peyniri
 slug: abaza-peyniri
+letter: A
 lisan: Türkçe
 anlamlar:
 - İnek sütünden yapılan ve yassı biçimde dilimlenen bir kaşar peyniri türü; Abhaz peyniri

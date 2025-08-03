@@ -2,6 +2,7 @@
 layout: term
 title: gözü olmak
 slug: gozu-olmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - bir şeyi ele geçirmek isteği beslemek

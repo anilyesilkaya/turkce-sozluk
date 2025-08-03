@@ -2,6 +2,7 @@
 layout: term
 title: operatörleşmek
 slug: operatorlesmek
+letter: O
 lisan: Türkçe
 anlamlar:
 - Operatör olmak, operatör gibi davranmak

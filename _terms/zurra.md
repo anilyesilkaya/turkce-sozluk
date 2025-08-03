@@ -2,6 +2,7 @@
 layout: term
 title: zürra
 slug: zurra
+letter: Z
 lisan: Arapça zurrāʿ
 anlamlar:
 - Çiftçiler

@@ -2,6 +2,7 @@
 layout: term
 title: şaz
 slug: saz
+letter: Ş
 lisan: Arapça şāẕẕ
 anlamlar:
 - ► kural dışı

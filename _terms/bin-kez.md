@@ -2,6 +2,7 @@
 layout: term
 title: bin kez
 slug: bin-kez
+letter: B
 lisan: Türkçe
 anlamlar:
 - Pek çok kere; bin kere

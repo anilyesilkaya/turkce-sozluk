@@ -2,6 +2,7 @@
 layout: term
 title: temyiz
 slug: temyiz
+letter: T
 lisan: Arapça temyīz
 anlamlar:
 - Ayırt etme

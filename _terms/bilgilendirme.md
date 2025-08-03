@@ -2,6 +2,7 @@
 layout: term
 title: bilgilendirme
 slug: bilgilendirme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilgilendirmek işi

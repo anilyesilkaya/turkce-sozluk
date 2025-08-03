@@ -2,6 +2,7 @@
 layout: term
 title: yenge
 slug: yenge
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir kimsenin kardeşinin, dayısının veya amcasının karısı; bula

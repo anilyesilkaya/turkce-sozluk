@@ -2,6 +2,7 @@
 layout: term
 title: çakıntı
 slug: cakinti
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Şimşek, yıldız, güneş, ışık vb.nin birdenbire ve geçici olarak verdiği aydınlık durumu

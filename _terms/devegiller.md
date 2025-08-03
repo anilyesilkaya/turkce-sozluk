@@ -2,6 +2,7 @@
 layout: term
 title: devegiller
 slug: devegiller
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çift toynaklılardan, örnek hayvanı deve olan memeli hayvanlar familyası

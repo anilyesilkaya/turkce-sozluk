@@ -2,6 +2,7 @@
 layout: term
 title: güvenlik engeli
 slug: guvenlik-engeli
+letter: G
 lisan: Türkçe
 anlamlar:
 - Müze, sergi vb. yerlerde gerildiği yerin gerisine geçişi yasaklayan ip, naylon, zincir vb. maddelerden yapılmış engel

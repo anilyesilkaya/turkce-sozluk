@@ -2,6 +2,7 @@
 layout: term
 title: kanaviçe
 slug: kanavice
+letter: K
 lisan: İtalyanca canovaccio
 anlamlar:
 - El işleri için kullanılan seyrek dokunmuş keten bezi

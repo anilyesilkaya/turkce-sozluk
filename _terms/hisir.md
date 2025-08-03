@@ -2,6 +2,7 @@
 layout: term
 title: hışır
 slug: hisir
+letter: H
 lisan: Türkçe
 anlamlar:
 - Olmamış meyve

@@ -2,6 +2,7 @@
 layout: term
 title: ferahlık
 slug: ferahlik
+letter: F
 lisan: Türkçe
 anlamlar:
 - Ferah olma durumu; hafiflik

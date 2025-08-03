@@ -2,6 +2,7 @@
 layout: term
 title: ezicilik
 slug: ezicilik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ezici olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: parti ocağı
 slug: parti-ocagi
+letter: P
 lisan: Türkçe
 anlamlar:
 - Parti çalışmalarının yapıldığı en küçük birim

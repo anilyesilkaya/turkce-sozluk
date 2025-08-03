@@ -2,6 +2,7 @@
 layout: term
 title: cidden
 slug: cidden
+letter: C
 lisan: Arapça cidden
 anlamlar:
 - ► gerçekten

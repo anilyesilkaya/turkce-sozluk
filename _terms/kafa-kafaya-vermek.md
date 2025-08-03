@@ -2,6 +2,7 @@
 layout: term
 title: kafa kafaya vermek
 slug: kafa-kafaya-vermek
+letter: K
 lisan: Türkçe
 anlamlar:
 - iki veya birkaç kişi bir kenara çekilip konuşmak

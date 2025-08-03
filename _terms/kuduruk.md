@@ -2,6 +2,7 @@
 layout: term
 title: kuduruk
 slug: kuduruk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kudurmuş (insan veya hayvan); akur

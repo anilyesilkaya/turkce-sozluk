@@ -2,6 +2,7 @@
 layout: term
 title: boyunsuz
 slug: boyunsuz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boynu olmayan

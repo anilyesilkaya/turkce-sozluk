@@ -2,6 +2,7 @@
 layout: term
 title: sere serpe
 slug: sere-serpe
+letter: S
 lisan: Türkçe
 anlamlar:
 - Serbest, rahat bir biçimde, çekinmeden

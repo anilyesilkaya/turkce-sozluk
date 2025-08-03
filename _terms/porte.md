@@ -2,6 +2,7 @@
 layout: term
 title: porte
 slug: porte
+letter: P
 lisan: Fransızca portée
 anlamlar:
 - Bir işin genişlik, önem derecesi, etki alanı

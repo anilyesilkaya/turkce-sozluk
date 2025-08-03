@@ -2,6 +2,7 @@
 layout: term
 title: kof
 slug: kof
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kuruyarak veya çürüyerek içi boşalmış olan

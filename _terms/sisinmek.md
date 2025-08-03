@@ -2,6 +2,7 @@
 layout: term
 title: şişinmek
 slug: sisinmek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Başkalarına yüksekten bakar gibi bir tavır takınmak, böbürlendiğini davranışlarıyla belli etmek

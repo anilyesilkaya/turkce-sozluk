@@ -2,6 +2,7 @@
 layout: term
 title: duygululuk
 slug: duygululuk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Tepkilerin öncelikle duygulara dayanması durumu; hislilik

@@ -2,6 +2,7 @@
 layout: term
 title: domuz gibi
 slug: domuz-gibi
+letter: D
 lisan: Türkçe
 anlamlar:
 - kötü huylu ve hain

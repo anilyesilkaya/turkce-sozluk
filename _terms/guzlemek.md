@@ -2,6 +2,7 @@
 layout: term
 title: güzlemek
 slug: guzlemek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Sonbaharı bir yerde geçirmek

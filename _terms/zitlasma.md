@@ -2,6 +2,7 @@
 layout: term
 title: zıtlaşma
 slug: zitlasma
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zıtlaşmak işi; zıtlanma

@@ -2,6 +2,7 @@
 layout: term
 title: poster
 slug: poster
+letter: P
 lisan: Fransızca poster
 anlamlar:
 - Duvara asılan büyük boy resim

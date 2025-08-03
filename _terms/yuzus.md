@@ -2,6 +2,7 @@
 layout: term
 title: yüzüş
 slug: yuzus
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yüzmek işi

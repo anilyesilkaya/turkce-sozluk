@@ -2,6 +2,7 @@
 layout: term
 title: soy kütüğü
 slug: soy-kutugu
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► soyağacı

@@ -2,6 +2,7 @@
 layout: term
 title: not düşmek
 slug: not-dusmek
+letter: N
 lisan: Türkçe
 anlamlar:
 - not yazmak

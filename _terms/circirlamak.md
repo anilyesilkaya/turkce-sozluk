@@ -2,6 +2,7 @@
 layout: term
 title: çırçırlamak
 slug: circirlamak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Pamuk, keten, kendir vb. bitkisel dokuma ham maddelerini çekirdek veya kabuklarından temizlemek

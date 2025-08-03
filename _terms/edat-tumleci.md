@@ -2,6 +2,7 @@
 layout: term
 title: edat tümleci
 slug: edat-tumleci
+letter: E
 lisan: Türkçe
 anlamlar:
 - Adın edatla oluşturduğu genellikle zarf tümleci görevinde kullanılan kelime grubu, edat grubu, edatlı tümleç, ilgeçli tümleç

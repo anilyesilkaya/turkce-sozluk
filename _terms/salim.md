@@ -2,6 +2,7 @@
 layout: term
 title: salim
 slug: salim
+letter: S
 lisan: Arapça sālim
 anlamlar:
 - Sakin, huzurlu olan

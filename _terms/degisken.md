@@ -2,6 +2,7 @@
 layout: term
 title: değişken
 slug: degisken
+letter: D
 lisan: Türkçe
 anlamlar:
 - Değişme özelliği gösteren, çok değişen, değişebilir; mütehavvil

@@ -2,6 +2,7 @@
 layout: term
 title: bulgurumsu
 slug: bulgurumsu
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bulgursu

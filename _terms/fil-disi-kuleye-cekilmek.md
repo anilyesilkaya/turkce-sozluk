@@ -2,6 +2,7 @@
 layout: term
 title: fil dişi kuleye çekilmek
 slug: fil-disi-kuleye-cekilmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - herkesi küçümseyip kendisine özgü dünyasına çekilmek

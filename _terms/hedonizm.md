@@ -2,6 +2,7 @@
 layout: term
 title: hedonizm
 slug: hedonizm
+letter: H
 lisan: Fransızca hédonisme
 anlamlar:
 - ► hazcılık

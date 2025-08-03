@@ -2,6 +2,7 @@
 layout: term
 title: artırmak
 slug: artirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Artmasını sağlamak

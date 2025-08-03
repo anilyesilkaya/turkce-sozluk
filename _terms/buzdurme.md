@@ -2,6 +2,7 @@
 layout: term
 title: büzdürme
 slug: buzdurme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Büzdürmek işi

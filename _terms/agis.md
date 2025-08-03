@@ -2,6 +2,7 @@
 layout: term
 title: ağış
 slug: agis
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: çağıltı
 slug: cagilti
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Suyun, akarken taşlara, kayalara çarparak çıkardığı sesin adı

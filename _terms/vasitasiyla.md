@@ -2,6 +2,7 @@
 layout: term
 title: vasıtasıyla
 slug: vasitasiyla
+letter: V
 lisan: Türkçe
 anlamlar:
 - ► aracılığıyla

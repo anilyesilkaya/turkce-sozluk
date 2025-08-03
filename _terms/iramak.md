@@ -2,6 +2,7 @@
 layout: term
 title: ıramak
 slug: iramak
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► uzaklaşmak

@@ -2,6 +2,7 @@
 layout: term
 title: kınalanmak
 slug: kinalanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kına konulmak, kına yakılmak

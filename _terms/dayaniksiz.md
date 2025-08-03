@@ -2,6 +2,7 @@
 layout: term
 title: dayanıksız
 slug: dayaniksiz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dayanmayan, sağlam olmayan; ömürsüz, metanetsiz, mukavemetsiz

@@ -2,6 +2,7 @@
 layout: term
 title: boyut
 slug: boyut
+letter: B
 lisan: Türkçe
 anlamlar:
 - Cisme ait uzunluğun, derinliğin ve genişliğin ifade ettiği bütün; ebat

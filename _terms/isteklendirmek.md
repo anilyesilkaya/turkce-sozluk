@@ -2,6 +2,7 @@
 layout: term
 title: isteklendirmek
 slug: isteklendirmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Birinde bir şey yapma isteğini uyandırmak; heveslendirmek, teşvik etmek, motive etmek

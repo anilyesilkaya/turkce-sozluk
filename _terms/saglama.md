@@ -2,6 +2,7 @@
 layout: term
 title: sağlama
 slug: saglama
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sağlamak işi

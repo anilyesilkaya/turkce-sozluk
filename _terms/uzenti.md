@@ -2,6 +2,7 @@
 layout: term
 title: üzenti
 slug: uzenti
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Manevi hazdan yoksunluk

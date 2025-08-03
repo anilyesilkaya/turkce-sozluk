@@ -2,6 +2,7 @@
 layout: term
 title: nurlu
 slug: nurlu
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► ışıklı

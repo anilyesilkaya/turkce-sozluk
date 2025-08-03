@@ -2,6 +2,7 @@
 layout: term
 title: curcuna
 slug: curcuna
+letter: C
 lisan: Türkçe
 anlamlar:
 - Gürültülü, karışık durum

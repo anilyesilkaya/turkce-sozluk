@@ -2,6 +2,7 @@
 layout: term
 title: zorunluluk
 slug: zorunluluk
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Yapmak zorunda kalma durumu; gereklilik, mecburluk, mecburiyet, mecburilik, zaruret, ıztırar, zor, zorun, zorunluk, zarurilik

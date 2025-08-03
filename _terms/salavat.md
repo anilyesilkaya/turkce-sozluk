@@ -2,6 +2,7 @@
 layout: term
 title: salavat
 slug: salavat
+letter: S
 lisan: Arapça ṣalavāt
 anlamlar:
 - Namazlar

@@ -2,6 +2,7 @@
 layout: term
 title: setliç
 slug: setlic
+letter: S
 lisan: Almanca Sedlitz
 anlamlar:
 - Kabızlık giderici bir maden suyu

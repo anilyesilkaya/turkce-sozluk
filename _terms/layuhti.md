@@ -2,6 +2,7 @@
 layout: term
 title: layuhti
 slug: layuhti
+letter: L
 lisan: Arapça lāyuḫṭī
 anlamlar:
 - Hata işlemeyen, yanlış yapmayan

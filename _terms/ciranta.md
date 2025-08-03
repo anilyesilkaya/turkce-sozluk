@@ -2,6 +2,7 @@
 layout: term
 title: ciranta
 slug: ciranta
+letter: C
 lisan: İtalyanca giranta
 anlamlar:
 - Bir senedi ciro eden kimse

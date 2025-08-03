@@ -2,6 +2,7 @@
 layout: term
 title: habbe
 slug: habbe
+letter: H
 lisan: Arapça ḥabbe
 anlamlar:
 - Tahıl tanesi; evin

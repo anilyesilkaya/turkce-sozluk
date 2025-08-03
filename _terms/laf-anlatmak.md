@@ -2,6 +2,7 @@
 layout: term
 title: laf anlatmak
 slug: laf-anlatmak
+letter: L
 lisan: Türkçe
 anlamlar:
 - sözünü dinletmek, karşıdakini ikna edinceye kadar konuşmak

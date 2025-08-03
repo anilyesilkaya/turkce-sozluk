@@ -2,6 +2,7 @@
 layout: term
 title: namuslu
 slug: namuslu
+letter: N
 lisan: Türkçe
 anlamlar:
 - Ahlak kurallarına uygun olarak davranan; namuskâr

@@ -2,6 +2,7 @@
 layout: term
 title: parke
 slug: parke
+letter: P
 lisan: Fransızca parquet
 anlamlar:
 - Konut, iş yeri vb. yerlerin tabanını döşemek için çeşitli boyutlarda, ince, uzunca tahta parçalarının veya yapay malzemenin belirli bir düzene göre yerleştirilmesiyle yapılan döşeme

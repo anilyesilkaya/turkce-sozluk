@@ -2,6 +2,7 @@
 layout: term
 title: beynamaz
 slug: beynamaz
+letter: B
 lisan: Farsça bīnamāz
 anlamlar:
 - Namaz kılmayan (kimse)

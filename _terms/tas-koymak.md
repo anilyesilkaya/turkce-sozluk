@@ -2,6 +2,7 @@
 layout: term
 title: taş koymak
 slug: tas-koymak
+letter: T
 lisan: Türkçe
 anlamlar:
 - engelleyecek biçimde davranmak

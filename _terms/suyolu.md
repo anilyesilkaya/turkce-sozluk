@@ -2,6 +2,7 @@
 layout: term
 title: suyolu
 slug: suyolu
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► sutaş

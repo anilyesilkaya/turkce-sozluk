@@ -2,6 +2,7 @@
 layout: term
 title: yazdırtmak
 slug: yazdirtmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yazdırma işini yaptırmak

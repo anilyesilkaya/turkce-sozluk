@@ -2,6 +2,7 @@
 layout: term
 title: uvertür yapmak
 slug: uvertur-yapmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - pokerde oyunu açmak

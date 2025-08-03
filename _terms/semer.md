@@ -2,6 +2,7 @@
 layout: term
 title: semer
 slug: semer
+letter: S
 lisan: Rumca
 anlamlar:
 - At, eşek, katır vb. hayvanların sırtına yerleştirilen, üzerine yük bağlanan veya binilen, iskeleti ağaçtan araç

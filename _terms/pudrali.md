@@ -2,6 +2,7 @@
 layout: term
 title: pudralı
 slug: pudrali
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pudra sürülmüş olan (yüz, cilt)

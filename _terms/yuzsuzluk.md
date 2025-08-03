@@ -2,6 +2,7 @@
 layout: term
 title: yüzsüzlük
 slug: yuzsuzluk
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► utanmazlık

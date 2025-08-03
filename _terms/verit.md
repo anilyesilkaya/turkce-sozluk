@@ -2,6 +2,7 @@
 layout: term
 title: verit
 slug: verit
+letter: V
 lisan: Arapça verīd
 anlamlar:
 - ► toplardamar

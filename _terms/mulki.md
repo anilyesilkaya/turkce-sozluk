@@ -2,6 +2,7 @@
 layout: term
 title: mülki
 slug: mulki
+letter: M
 lisan: Arapça mulkī
 anlamlar:
 - Bir ülkeyle ilgili olan

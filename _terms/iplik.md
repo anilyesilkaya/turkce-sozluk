@@ -2,6 +2,7 @@
 layout: term
 title: iplik
 slug: iplik
+letter: I
 lisan: Türkçe
 anlamlar:
 - Pamuk, keten, yün, ipek, naylon vb. dokuma maddelerinin uzun, ince liflerinden her biri; ip

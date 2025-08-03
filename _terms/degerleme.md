@@ -2,6 +2,7 @@
 layout: term
 title: değerleme
 slug: degerleme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Değerlemek işi

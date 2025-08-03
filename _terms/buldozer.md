@@ -2,6 +2,7 @@
 layout: term
 title: buldozer
 slug: buldozer
+letter: B
 lisan: Fransızca bulldozer
 anlamlar:
 - Önündeki geniş bıçakla toprağı sıyırıp kaldıran, tekerlekli veya paletli bir yol makinesi

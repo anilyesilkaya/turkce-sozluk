@@ -2,6 +2,7 @@
 layout: term
 title: bal dök de yala
 slug: bal-dok-de-yala
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir yerin çok temiz olduğunu anlatan bir söz

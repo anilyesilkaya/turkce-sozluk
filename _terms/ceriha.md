@@ -2,6 +2,7 @@
 layout: term
 title: ceriha
 slug: ceriha
+letter: C
 lisan: Arapça cerīḥa
 anlamlar:
 - ► yara

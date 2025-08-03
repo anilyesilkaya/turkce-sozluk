@@ -2,6 +2,7 @@
 layout: term
 title: iş çevirmek
 slug: is-cevirmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - gizli, dolambaçlı bir iş yapmak

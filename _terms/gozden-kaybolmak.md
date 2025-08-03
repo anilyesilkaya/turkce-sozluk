@@ -2,6 +2,7 @@
 layout: term
 title: gözden kaybolmak
 slug: gozden-kaybolmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - ortadan çekilmek veya görünmez olmak, kaybolmak

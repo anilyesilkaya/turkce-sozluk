@@ -2,6 +2,7 @@
 layout: term
 title: aşıcılık
 slug: asicilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aşıcının yaptığı iş

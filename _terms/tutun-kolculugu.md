@@ -2,6 +2,7 @@
 layout: term
 title: tütün kolculuğu
 slug: tutun-kolculugu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tütün kolcusunun yaptığı iş; reji kolculuğu

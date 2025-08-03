@@ -2,6 +2,7 @@
 layout: term
 title: tavus çıkarmak
 slug: tavus-cikarmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - sarhoş kusmak

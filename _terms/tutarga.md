@@ -2,6 +2,7 @@
 layout: term
 title: tutarga
 slug: tutarga
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► sara

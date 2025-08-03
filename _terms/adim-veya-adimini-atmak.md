@@ -2,6 +2,7 @@
 layout: term
 title: adım (veya adımını) atmak
 slug: adim-veya-adimini-atmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - yürümek için ayağını öne doğru uzatıp basmak

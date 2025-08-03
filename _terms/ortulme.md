@@ -2,6 +2,7 @@
 layout: term
 title: örtülme
 slug: ortulme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Örtülmek işi

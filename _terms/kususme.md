@@ -2,6 +2,7 @@
 layout: term
 title: küsüşme
 slug: kususme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Küsüşmek işi

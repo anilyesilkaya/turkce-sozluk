@@ -2,6 +2,7 @@
 layout: term
 title: soğuk
 slug: soguk
+letter: S
 lisan: Türkçe
 anlamlar:
 - Isısı düşük olan, sıcak karşıtı

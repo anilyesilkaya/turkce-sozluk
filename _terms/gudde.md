@@ -2,6 +2,7 @@
 layout: term
 title: gudde
 slug: gudde
+letter: G
 lisan: Arapça ġudde
 anlamlar:
 - ► beze (I)

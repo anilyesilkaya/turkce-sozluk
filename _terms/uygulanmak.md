@@ -2,6 +2,7 @@
 layout: term
 title: uygulanmak
 slug: uygulanmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uygulama işine konu olmak

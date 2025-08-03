@@ -2,6 +2,7 @@
 layout: term
 title: mütesanit
 slug: mutesanit
+letter: M
 lisan: Arapça mutesānid
 anlamlar:
 - Dayanışma içinde olan (kimse)

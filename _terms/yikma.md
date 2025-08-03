@@ -2,6 +2,7 @@
 layout: term
 title: yıkma
 slug: yikma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yıkmak işi

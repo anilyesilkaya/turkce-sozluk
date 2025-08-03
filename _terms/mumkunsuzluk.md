@@ -2,6 +2,7 @@
 layout: term
 title: 'mümkünsüzlük '
 slug: mumkunsuzluk
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mümkün olmama durumu

@@ -2,6 +2,7 @@
 layout: term
 title: raks
 slug: raks
+letter: R
 lisan: Arapça raḳṣ
 anlamlar:
 - ► dans

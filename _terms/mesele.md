@@ -2,6 +2,7 @@
 layout: term
 title: mesele
 slug: mesele
+letter: M
 lisan: Arapça mesʾele
 anlamlar:
 - ► sorun

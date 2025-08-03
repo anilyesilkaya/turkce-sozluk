@@ -2,6 +2,7 @@
 layout: term
 title: dosyası dürülmek
 slug: dosyasi-durulmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - defteri dürülmek

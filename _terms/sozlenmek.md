@@ -2,6 +2,7 @@
 layout: term
 title: sözlenmek
 slug: sozlenmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Evlenmek için anlaşarak kesin karar vermek

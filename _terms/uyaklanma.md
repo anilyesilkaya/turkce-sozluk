@@ -2,6 +2,7 @@
 layout: term
 title: uyaklanma
 slug: uyaklanma
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► kafiyelenme

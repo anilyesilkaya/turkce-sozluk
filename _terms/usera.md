@@ -2,6 +2,7 @@
 layout: term
 title: üsera
 slug: usera
+letter: Ü
 lisan: Arapça userā
 anlamlar:
 - Esirler, köleler

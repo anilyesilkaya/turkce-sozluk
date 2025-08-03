@@ -2,6 +2,7 @@
 layout: term
 title: teselsül etmek
 slug: teselsul-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - kesintisiz, zincirleme sürüp gitmek

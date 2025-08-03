@@ -2,6 +2,7 @@
 layout: term
 title: temperleme
 slug: temperleme
+letter: T
 lisan: Türkçe
 anlamlar:
 - Temperlemek işi

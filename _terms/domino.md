@@ -2,6 +2,7 @@
 layout: term
 title: domino
 slug: domino
+letter: D
 lisan: Fransızca domino
 anlamlar:
 - Üzerleri noktalarla işaretli dikdörtgen biçiminde yirmi sekiz taşla masa üzerinde oynanan bir oyun

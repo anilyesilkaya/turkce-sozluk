@@ -2,6 +2,7 @@
 layout: term
 title: bal mumu
 slug: bal-mumu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Arıların peteklerini yapmak için karın halkaları arasından salgıladıkları yumuşak ve sarımsı madde; mum, şem

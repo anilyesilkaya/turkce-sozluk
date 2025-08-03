@@ -2,6 +2,7 @@
 layout: term
 title: kendini aşağı (veya küçük) görmek
 slug: kendini-asagi-veya-kucuk-gormek
+letter: K
 lisan: Türkçe
 anlamlar:
 - kendini başkalarından değersiz görmek

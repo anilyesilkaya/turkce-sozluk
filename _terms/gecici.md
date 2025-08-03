@@ -2,6 +2,7 @@
 layout: term
 title: geçici
 slug: gecici
+letter: G
 lisan: Türkçe
 anlamlar:
 - Çok sürmeyen

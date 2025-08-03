@@ -2,6 +2,7 @@
 layout: term
 title: marazi
 slug: marazi
+letter: M
 lisan: Arapça marażī
 anlamlar:
 - Hastalıkla ilgili; sayrıl

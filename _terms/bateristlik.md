@@ -2,6 +2,7 @@
 layout: term
 title: bateristlik
 slug: bateristlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► batericilik

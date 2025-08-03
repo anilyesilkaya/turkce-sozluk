@@ -2,6 +2,7 @@
 layout: term
 title: dört köşe
 slug: dort-kose
+letter: D
 lisan: Türkçe
 anlamlar:
 - Kare biçiminde olan

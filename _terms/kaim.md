@@ -2,6 +2,7 @@
 layout: term
 title: kaim
 slug: kaim
+letter: K
 lisan: Arapça ḳāʾim
 anlamlar:
 - Başka bir şeyin yerine geçen

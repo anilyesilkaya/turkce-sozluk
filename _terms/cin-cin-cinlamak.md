@@ -2,6 +2,7 @@
 layout: term
 title: çın çın çınlamak
 slug: cin-cin-cinlamak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - gür ve keskin ses çıkarmak

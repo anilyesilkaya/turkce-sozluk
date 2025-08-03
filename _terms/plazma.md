@@ -2,6 +2,7 @@
 layout: term
 title: plazma
 slug: plazma
+letter: P
 lisan: Fransızca plasma
 anlamlar:
 - Kanda alyuvarlarla akyuvarların içinde bulunduğu sıvı

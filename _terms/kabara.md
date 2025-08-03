@@ -2,6 +2,7 @@
 layout: term
 title: kabara
 slug: kabara
+letter: K
 lisan: Türkçe
 anlamlar:
 - Dayanıklılık sağlamak amacıyla, ayakkabıların altına çakılan, yassı ve iri başlı demir çivi

@@ -2,6 +2,7 @@
 layout: term
 title: kerem
 slug: kerem
+letter: K
 lisan: Arapça kerem
 anlamlar:
 - ► soyluluk

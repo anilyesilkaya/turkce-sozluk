@@ -2,6 +2,7 @@
 layout: term
 title: orantı
 slug: oranti
+letter: O
 lisan: Türkçe
 anlamlar:
 - Bir şeyi oluşturan parçaların kendi aralarında ve parçalarla bütün arasında bulunan uygunluk; oran, tenasüp

@@ -2,6 +2,7 @@
 layout: term
 title: çevrecilik
 slug: cevrecilik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çevrecinin yaptığı iş

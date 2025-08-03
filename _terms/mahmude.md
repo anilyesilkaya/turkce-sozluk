@@ -2,6 +2,7 @@
 layout: term
 title: mahmude
 slug: mahmude
+letter: M
 lisan: Arapça maḥmūde
 anlamlar:
 - Çit sarmaşığıgillerden, yaprakları ok ucu biçiminde, çiçekleri soluk sarı renkte, 50-100 santimetre boyunda, çok yıllık ve otsu bir bitki (Convolvulus scammonia)

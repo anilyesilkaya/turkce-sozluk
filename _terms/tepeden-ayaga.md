@@ -2,6 +2,7 @@
 layout: term
 title: tepeden ayağa
 slug: tepeden-ayaga
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► tamamen

@@ -2,6 +2,7 @@
 layout: term
 title: basamaklandırmak
 slug: basamaklandirmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Basamaklara ayırmak

@@ -2,6 +2,7 @@
 layout: term
 title: pabuç
 slug: pabuc
+letter: P
 lisan: Farsça pāpūş
 anlamlar:
 - ► ayakkabı

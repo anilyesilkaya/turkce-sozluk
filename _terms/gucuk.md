@@ -2,6 +2,7 @@
 layout: term
 title: gücük
 slug: gucuk
+letter: G
 lisan: Türkçe
 anlamlar:
 - Kısa, bodur, gelişmemiş

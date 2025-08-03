@@ -2,6 +2,7 @@
 layout: term
 title: hafızlama
 slug: hafizlama
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hafızlamak işi

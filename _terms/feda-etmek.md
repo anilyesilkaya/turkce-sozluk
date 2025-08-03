@@ -2,6 +2,7 @@
 layout: term
 title: feda etmek
 slug: feda-etmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - kıymak, gözden çıkarmak

@@ -2,6 +2,7 @@
 layout: term
 title: kırdırma
 slug: kirdirma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kırdırmak işi

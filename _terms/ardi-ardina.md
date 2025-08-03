@@ -2,6 +2,7 @@
 layout: term
 title: ardı ardına
 slug: ardi-ardina
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ara vermeden, aralıksız olarak, sürekli bir biçimde

@@ -2,6 +2,7 @@
 layout: term
 title: kendine gelmek
 slug: kendine-gelmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - ayılmak

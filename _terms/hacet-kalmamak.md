@@ -2,6 +2,7 @@
 layout: term
 title: hacet kalmamak
 slug: hacet-kalmamak
+letter: H
 lisan: Türkçe
 anlamlar:
 - gereği olmamak

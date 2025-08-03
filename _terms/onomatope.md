@@ -2,6 +2,7 @@
 layout: term
 title: onomatope
 slug: onomatope
+letter: O
 lisan: Fransızca onomatopée
 anlamlar:
 - ► yansımalı kelime

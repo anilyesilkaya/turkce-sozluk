@@ -2,6 +2,7 @@
 layout: term
 title: öksürtmek
 slug: oksurtmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öksürmesini sağlamak, öksürmesine sebep olmak

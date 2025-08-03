@@ -2,6 +2,7 @@
 layout: term
 title: kurallı tümce
 slug: kuralli-tumce
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kurallı cümle

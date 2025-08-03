@@ -2,6 +2,7 @@
 layout: term
 title: röntgenci
 slug: rontgenci
+letter: R
 lisan: Türkçe
 anlamlar:
 - Röntgen ışınları uzmanı

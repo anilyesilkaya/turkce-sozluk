@@ -2,6 +2,7 @@
 layout: term
 title: kendini satmak
 slug: kendini-satmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kendisinde olmayan iyi nitelikleri varmış gibi göstermek

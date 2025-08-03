@@ -2,6 +2,7 @@
 layout: term
 title: vektör
 slug: vektor
+letter: V
 lisan: Fransızca vecteur
 anlamlar:
 - Doğrultusu, yönü, uzunluğu belirli olan ve bir ok işaretiyle gösterilen doğru çizgi; yöney

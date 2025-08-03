@@ -2,6 +2,7 @@
 layout: term
 title: kurban vermek
 slug: kurban-vermek
+letter: K
 lisan: Türkçe
 anlamlar:
 - can kaybına uğramak

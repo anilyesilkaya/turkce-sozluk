@@ -2,6 +2,7 @@
 layout: term
 title: adı sanı olmak
 slug: adi-sani-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - bilinmek, tanınmak, ünlü olmak

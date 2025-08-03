@@ -2,6 +2,7 @@
 layout: term
 title: avlayış
 slug: avlayis
+letter: A
 lisan: Türkçe
 anlamlar:
 - Avlamak işi

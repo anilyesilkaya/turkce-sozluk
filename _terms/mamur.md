@@ -2,6 +2,7 @@
 layout: term
 title: mamur
 slug: mamur
+letter: M
 lisan: Arapça maʿmūr
 anlamlar:
 - ► bayındır

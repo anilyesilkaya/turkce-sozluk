@@ -2,6 +2,7 @@
 layout: term
 title: saadet
 slug: saadet
+letter: S
 lisan: Arapça saʿādet
 anlamlar:
 - ► mutluluk

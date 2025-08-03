@@ -2,6 +2,7 @@
 layout: term
 title: dilli
 slug: dilli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dili olan

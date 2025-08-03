@@ -2,6 +2,7 @@
 layout: term
 title: mola taşı
 slug: mola-tasi
+letter: M
 lisan: Türkçe
 anlamlar:
 - Hamalların sırtlarındaki yükü dayayarak dinlenmeleri için sokak kenarlarına konulmuş yüksekçe taş

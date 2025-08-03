@@ -2,6 +2,7 @@
 layout: term
 title: yaman
 slug: yaman
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Güç, etki veya beceri bakımından alışılmışın üzerinde olan (kimse)

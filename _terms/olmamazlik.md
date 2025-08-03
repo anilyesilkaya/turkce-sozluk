@@ -2,6 +2,7 @@
 layout: term
 title: olmamazlık
 slug: olmamazlik
+letter: O
 lisan: Türkçe
 anlamlar:
 - bk. olmazlık

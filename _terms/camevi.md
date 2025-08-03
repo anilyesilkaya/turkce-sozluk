@@ -2,6 +2,7 @@
 layout: term
 title: camevi
 slug: camevi
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► camcı

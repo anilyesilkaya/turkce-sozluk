@@ -2,6 +2,7 @@
 layout: term
 title: çiçek tacı
 slug: cicek-taci
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çiçeklerin üreme organlarının çevresinde türlü renkte yaprakçıklardan oluşan ve böcekleri çeken organ; tüveyç

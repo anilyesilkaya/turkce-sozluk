@@ -2,6 +2,7 @@
 layout: term
 title: afacanlık
 slug: afacanlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Afacan olma durumu

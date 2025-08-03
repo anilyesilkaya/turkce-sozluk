@@ -2,6 +2,7 @@
 layout: term
 title: imalat
 slug: imalat
+letter: I
 lisan: Arapça iʿmālāt
 anlamlar:
 - Ham madde işlenerek yapılan her türlü mal

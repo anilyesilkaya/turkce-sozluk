@@ -2,6 +2,7 @@
 layout: term
 title: belirli
 slug: belirli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Açık ve kesin olarak sınırlanmış veya kararlaştırılmış olan; belli  (II), muayyen

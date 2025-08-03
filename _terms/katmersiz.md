@@ -2,6 +2,7 @@
 layout: term
 title: katmersiz
 slug: katmersiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Katmeri olmayan

@@ -2,6 +2,7 @@
 layout: term
 title: kürek
 slug: kurek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Toprak, kömür vb.ni bir yerden bir yere alıp atmaya, taşımaya yarayan ve yayvan bir bölümü, buna bağlı uzun bir sapı bulunan araç

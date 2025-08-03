@@ -2,6 +2,7 @@
 layout: term
 title: anıştırma
 slug: anistirma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anıştırmak işi; ima

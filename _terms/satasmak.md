@@ -2,6 +2,7 @@
 layout: term
 title: sataşmak
 slug: satasmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir kimseyi rahatsız edecek davranışta bulunmak; bulaşmak, dahletmek

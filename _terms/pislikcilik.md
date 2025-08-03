@@ -2,6 +2,7 @@
 layout: term
 title: pislikçilik
 slug: pislikcilik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pislikçinin işi

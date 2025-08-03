@@ -2,6 +2,7 @@
 layout: term
 title: baltabaş
 slug: baltabas
+letter: B
 lisan: Türkçe
 anlamlar:
 - Baş bodoslaması omurga hattına dikey olarak çelik lamadan yapılmış gemi

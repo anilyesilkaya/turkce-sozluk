@@ -2,6 +2,7 @@
 layout: term
 title: uyuyuvermek
 slug: uyuyuvermek
+letter: U
 lisan: Türkçe
 anlamlar:
 - Çabucak uyumak

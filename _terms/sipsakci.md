@@ -2,6 +2,7 @@
 layout: term
 title: şipşakçı
 slug: sipsakci
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şehir ve kasaba meydanlarına kurdukları üçayak ve üzerindeki ahşap sandıklı fotoğraf makineleriyle şipşak çekim yapan kimse; şipşak, alaminütçü

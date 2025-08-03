@@ -2,6 +2,7 @@
 layout: term
 title: iş (birine) kalmak
 slug: is-birine-kalmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - işin bitmesi için asıl gayret birine düşmek

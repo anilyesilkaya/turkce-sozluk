@@ -2,6 +2,7 @@
 layout: term
 title: germe
 slug: germe
+letter: G
 lisan: Türkçe
 anlamlar:
 - Germek işi

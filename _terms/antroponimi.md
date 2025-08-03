@@ -2,6 +2,7 @@
 layout: term
 title: antroponimi
 slug: antroponimi
+letter: A
 lisan: Fransızca anthroponymie
 anlamlar:
 - Kişi adlarının ortaya çıkışlarını, kuruluşlarını, işlevlerini ve dil bilgisel gelişimlerini inceleyen ad biliminin alt kolu

@@ -2,6 +2,7 @@
 layout: term
 title: seyretmek
 slug: seyretmek
+letter: S
 lisan: Arapça seyr + Türkçe etmek
 anlamlar:
 - Bir şeyin durumunu, oluşumunu gözlemek, bakmak

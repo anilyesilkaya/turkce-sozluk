@@ -2,6 +2,7 @@
 layout: term
 title: şaftı kaymak
 slug: safti-kaymak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - aşırı yorgunluk, üzüntü, yıpranma gibi sebeplerle bedensel ve ruhsal yönden dengesini kaybederek kötü görünmek

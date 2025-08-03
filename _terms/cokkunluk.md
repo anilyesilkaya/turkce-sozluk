@@ -2,6 +2,7 @@
 layout: term
 title: çökkünlük
 slug: cokkunluk
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çökkün olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: esbap
 slug: esbap
+letter: E
 lisan: Arapça esbāb
 anlamlar:
 - Sebepler

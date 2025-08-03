@@ -2,6 +2,7 @@
 layout: term
 title: temenna etmek
 slug: temenna-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - öne doğru eğildikten sonra doğrulurken eli başa götürerek selam vermek

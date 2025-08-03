@@ -2,6 +2,7 @@
 layout: term
 title: ülkü
 slug: ulku
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Amaç edinilen, ulaşılmak istenen şey; dava, ideal

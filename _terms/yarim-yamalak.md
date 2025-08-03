@@ -2,6 +2,7 @@
 layout: term
 title: yarım yamalak
 slug: yarim-yamalak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Kusurlu, eksik olan; çat pat

@@ -2,6 +2,7 @@
 layout: term
 title: kanı sıcak
 slug: kani-sicak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sevimli, kendini çabuk sevdiren (kimse)

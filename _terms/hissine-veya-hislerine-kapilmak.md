@@ -2,6 +2,7 @@
 layout: term
 title: hissine (veya hislerine) kapılmak
 slug: hissine-veya-hislerine-kapilmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - duygusal davranmak

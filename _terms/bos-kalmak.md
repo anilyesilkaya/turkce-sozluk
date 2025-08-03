@@ -2,6 +2,7 @@
 layout: term
 title: boş kalmak
 slug: bos-kalmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - kimse oturmamak

@@ -2,6 +2,7 @@
 layout: term
 title: her işin (veya şeyin) başı sağlık
 slug: her-isin-veya-seyin-basi-saglik
+letter: H
 lisan: Türkçe
 anlamlar:
 - '"insanın yapacağı her şey vücut sağlığına bağlıdır" anlamında kullanılan bir söz'

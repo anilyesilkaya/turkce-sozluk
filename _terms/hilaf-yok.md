@@ -2,6 +2,7 @@
 layout: term
 title: hilaf yok
 slug: hilaf-yok
+letter: H
 lisan: Türkçe
 anlamlar:
 - '"yalan değil, yalan yok" anlamında kullanılan bir söz'

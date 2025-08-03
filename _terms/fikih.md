@@ -2,6 +2,7 @@
 layout: term
 title: fıkıh
 slug: fikih
+letter: F
 lisan: Arapça fiḳh
 anlamlar:
 - Bir şeyi derinlemesine anlayıp bilme

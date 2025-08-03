@@ -2,6 +2,7 @@
 layout: term
 title: duyarlık
 slug: duyarlik
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► duyarlılık

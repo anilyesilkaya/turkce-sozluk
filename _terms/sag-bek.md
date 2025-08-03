@@ -2,6 +2,7 @@
 layout: term
 title: sağ bek
 slug: sag-bek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir takımın savunmasının sağ tarafında yer alan oyuncusu

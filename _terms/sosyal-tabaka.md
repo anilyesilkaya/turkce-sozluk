@@ -2,6 +2,7 @@
 layout: term
 title: sosyal tabaka
 slug: sosyal-tabaka
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir toplumda yaşama biçimi, maddi imkân, öğrenim durumu bakımlarından birbirine benzeyen kişilerin oluşturduğu sınıf; sosyal sınıf, toplumsal tabaka

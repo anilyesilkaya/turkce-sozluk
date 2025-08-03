@@ -2,6 +2,7 @@
 layout: term
 title: mücerret
 slug: mucerret
+letter: M
 lisan: Arapça mucerred
 anlamlar:
 - ► soyut

@@ -2,6 +2,7 @@
 layout: term
 title: ferdîlik
 slug: ferdilik
+letter: F
 lisan: Türkçe
 anlamlar:
 - Bireysel olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: ulam
 slug: ulam
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► kategori

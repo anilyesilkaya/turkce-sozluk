@@ -2,6 +2,7 @@
 layout: term
 title: vualet
 slug: vualet
+letter: V
 lisan: Fransızca vualet
 anlamlar:
 - Kadınların kullandığı, şapka, taç, toka ve benzerlerinde bulunan, yüzü örten, ince hafif tül

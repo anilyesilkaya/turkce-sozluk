@@ -2,6 +2,7 @@
 layout: term
 title: balta ibikli
 slug: balta-ibikli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Baltaya benzer ibiği bulunan (horoz veya tavuk)

@@ -2,6 +2,7 @@
 layout: term
 title: soyut isim
 slug: soyut-isim
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► soyut ad

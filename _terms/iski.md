@@ -2,6 +2,7 @@
 layout: term
 title: ışkı
 slug: iski
+letter: I
 lisan: Türkçe
 anlamlar:
 - Derilerin fazlalıklarını ve yağlarını kazımak ve tahtaları yontmak için kullanılan iki ucu saplı, eğri bıçak

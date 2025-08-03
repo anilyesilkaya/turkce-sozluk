@@ -2,6 +2,7 @@
 layout: term
 title: tefehhüm
 slug: tefehhum
+letter: T
 lisan: Arapça tefehhum
 anlamlar:
 - ► anlama

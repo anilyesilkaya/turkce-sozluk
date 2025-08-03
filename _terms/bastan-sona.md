@@ -2,6 +2,7 @@
 layout: term
 title: baştan sona
 slug: bastan-sona
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► her zaman

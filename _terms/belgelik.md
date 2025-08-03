@@ -2,6 +2,7 @@
 layout: term
 title: belgelik
 slug: belgelik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► arşiv

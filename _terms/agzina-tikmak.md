@@ -2,6 +2,7 @@
 layout: term
 title: ağzına tıkmak
 slug: agzina-tikmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - susturmak, konuşmasına engel olmak

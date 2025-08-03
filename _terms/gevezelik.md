@@ -2,6 +2,7 @@
 layout: term
 title: gevezelik
 slug: gevezelik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Geveze olma durumu; yeşillik, zevzeklik, lafazanlık, mavra

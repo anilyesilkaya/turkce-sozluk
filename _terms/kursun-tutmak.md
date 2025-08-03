@@ -2,6 +2,7 @@
 layout: term
 title: kurşun tutmak
 slug: kursun-tutmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kurşuna hedef olmak, kurşun değecek gibi olmak

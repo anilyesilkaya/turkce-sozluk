@@ -2,6 +2,7 @@
 layout: term
 title: anında
 slug: aninda
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► çabucak

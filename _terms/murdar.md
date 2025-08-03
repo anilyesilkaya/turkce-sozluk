@@ -2,6 +2,7 @@
 layout: term
 title: murdar
 slug: murdar
+letter: M
 lisan: Farsça murdār
 anlamlar:
 - ► kirli

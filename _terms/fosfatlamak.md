@@ -2,6 +2,7 @@
 layout: term
 title: fosfatlamak
 slug: fosfatlamak
+letter: F
 lisan: Türkçe
 anlamlar:
 - Ekilen topraklara fosfatlı gübre vermek

@@ -2,6 +2,7 @@
 layout: term
 title: biseksüel
 slug: biseksuel
+letter: B
 lisan: Fransızca bisexuel
 anlamlar:
 - Hem kendi cinsini hem de karşı cinsi arzulayan

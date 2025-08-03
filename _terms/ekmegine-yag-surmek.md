@@ -2,6 +2,7 @@
 layout: term
 title: ekmeğine yağ sürmek
 slug: ekmegine-yag-surmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - istemediği hâlde birinin işine yarayacak biçimde davranmak

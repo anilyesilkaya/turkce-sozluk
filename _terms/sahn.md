@@ -2,6 +2,7 @@
 layout: term
 title: sahn
 slug: sahn
+letter: S
 lisan: Arapça ṣaḥn
 anlamlar:
 - ► avlu

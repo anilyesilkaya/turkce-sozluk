@@ -2,6 +2,7 @@
 layout: term
 title: kara cümle
 slug: kara-cumle
+letter: K
 lisan: Türkçe
 anlamlar:
 - Aritmetikte dört işlem

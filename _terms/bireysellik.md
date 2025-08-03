@@ -2,6 +2,7 @@
 layout: term
 title: bireysellik
 slug: bireysellik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir kişiyi benzerlerinden ayıran özelliklerin bütünü, ferdiyet

@@ -2,6 +2,7 @@
 layout: term
 title: tespih ağacıgiller
 slug: tespih-agacigiller
+letter: T
 lisan: Türkçe
 anlamlar:
 - İki çeneklilerden, tespih ağacı ve maun ağacı ile benzer cinsleri içine alan bir bitki familyası

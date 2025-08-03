@@ -2,6 +2,7 @@
 layout: term
 title: ağmak
 slug: agmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yükselmek, yukarı doğru çıkmak; inmek

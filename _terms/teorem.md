@@ -2,6 +2,7 @@
 layout: term
 title: teorem
 slug: teorem
+letter: T
 lisan: Fransızca théorème
 anlamlar:
 - Kanıtlanabilen bilimsel önerme

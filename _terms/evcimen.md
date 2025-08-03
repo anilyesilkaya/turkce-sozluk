@@ -2,6 +2,7 @@
 layout: term
 title: evcimen
 slug: evcimen
+letter: E
 lisan: Türkçe
 anlamlar:
 - Evine, ailesine çok bağlı (kimse)

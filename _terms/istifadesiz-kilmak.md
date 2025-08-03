@@ -2,6 +2,7 @@
 layout: term
 title: istifadesiz kılmak
 slug: istifadesiz-kilmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - yararsız bir duruma getirmek

@@ -2,6 +2,7 @@
 layout: term
 title: dış hatlar
 slug: dis-hatlar
+letter: D
 lisan: Türkçe
 anlamlar:
 - Yurt dışı ulaşımını sağlayan yol

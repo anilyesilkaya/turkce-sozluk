@@ -2,6 +2,7 @@
 layout: term
 title: değişebilme
 slug: degisebilme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Değişebilmek işi

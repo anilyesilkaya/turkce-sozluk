@@ -2,6 +2,7 @@
 layout: term
 title: tamponlamak
 slug: tamponlamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tampon koymak, yerleştirmek

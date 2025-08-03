@@ -2,6 +2,7 @@
 layout: term
 title: bölücü
 slug: bolucu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bölme işini yapan

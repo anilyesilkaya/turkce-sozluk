@@ -2,6 +2,7 @@
 layout: term
 title: talih
 slug: talih
+letter: T
 lisan: Arapça ṭāliʿ
 anlamlar:
 - ► baht

@@ -2,6 +2,7 @@
 layout: term
 title: yastıklamak
 slug: yastiklamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Otururken dayanmak için arkasına yastık koymak

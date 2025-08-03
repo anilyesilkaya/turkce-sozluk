@@ -2,6 +2,7 @@
 layout: term
 title: bilek saati
 slug: bilek-saati
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► kol saati

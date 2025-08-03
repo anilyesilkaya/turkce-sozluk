@@ -2,6 +2,7 @@
 layout: term
 title: tulumbacı
 slug: tulumbaci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Mahallelerde bulundurulan yangın tulumbalarını, yangın olan yerlere götüren ve orada yangının söndürülmesine yardım eden kimse

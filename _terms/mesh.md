@@ -2,6 +2,7 @@
 layout: term
 title: mesh
 slug: mesh
+letter: M
 lisan: Arapça mesḥ
 anlamlar:
 - Bir şeyi elle sıvazlama

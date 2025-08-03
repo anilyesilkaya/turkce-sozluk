@@ -2,6 +2,7 @@
 layout: term
 title: açlık grevi
 slug: aclik-grevi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kendisine veya başkalarına yapılan bir haksızlığı protesto için bir kimsenin veya grubun aç durarak gösterdiği tepki

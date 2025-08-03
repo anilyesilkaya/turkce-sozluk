@@ -2,6 +2,7 @@
 layout: term
 title: merinos koyunu
 slug: merinos-koyunu
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► merinos

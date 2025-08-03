@@ -2,6 +2,7 @@
 layout: term
 title: hafızali
 slug: hafizali
+letter: H
 lisan: Türkçe
 anlamlar:
 - Seyrek taneli, kalın kabuklu, etli ve parlak altın sarısı renginde büyük taneli bir tür üzüm

@@ -2,6 +2,7 @@
 layout: term
 title: mazuryum
 slug: mazuryum
+letter: M
 lisan: Fransızca masurium
 anlamlar:
 - ► teknetyum

@@ -2,6 +2,7 @@
 layout: term
 title: melamet
 slug: melamet
+letter: M
 lisan: Arapça melāmet
 anlamlar:
 - ► kınama

@@ -2,6 +2,7 @@
 layout: term
 title: silahaltında bulunmak
 slug: silahaltinda-bulunmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - askerlik görevini yapmak

@@ -2,6 +2,7 @@
 layout: term
 title: şizoit
 slug: sizoit
+letter: Ş
 lisan: Fransızca schizoide
 anlamlar:
 - ► bozuk (I)

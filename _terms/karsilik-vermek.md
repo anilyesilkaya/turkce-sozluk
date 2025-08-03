@@ -2,6 +2,7 @@
 layout: term
 title: karşılık vermek
 slug: karsilik-vermek
+letter: K
 lisan: Türkçe
 anlamlar:
 - küçük büyüğüne karşı gelmek

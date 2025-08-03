@@ -2,6 +2,7 @@
 layout: term
 title: faraş
 slug: faras
+letter: F
 lisan: Arapça ferrāş
 anlamlar:
 - Toplanan süprüntüleri alıp atmak için kullanılan teneke veya plastikten yapılmış bir tür kürek

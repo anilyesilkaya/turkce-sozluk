@@ -2,6 +2,7 @@
 layout: term
 title: telefon kulübesi
 slug: telefon-kulubesi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Şehir veya mahallelerin belli yerlerinde telefon edilebilecek özel yer; telefon kabini

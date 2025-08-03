@@ -2,6 +2,7 @@
 layout: term
 title: eyersiz
 slug: eyersiz
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eyer vurulmamış, sırtına eyer konulmamış (at)

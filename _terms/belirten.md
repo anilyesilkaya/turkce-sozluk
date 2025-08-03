@@ -2,6 +2,7 @@
 layout: term
 title: belirten
 slug: belirten
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► tamlayan

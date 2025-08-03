@@ -2,6 +2,7 @@
 layout: term
 title: metris
 slug: metris
+letter: M
 lisan: Arapça metres
 anlamlar:
 - Askerin çarpışma sırasında korunması için yapılan toprak siper

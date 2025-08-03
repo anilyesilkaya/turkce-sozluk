@@ -2,6 +2,7 @@
 layout: term
 title: ortaklık kurmak
 slug: ortaklik-kurmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - şirket, kumpanya açmak veya çalıştırmak

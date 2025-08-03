@@ -2,6 +2,7 @@
 layout: term
 title: gözlerini duman kaplamak
 slug: gozlerini-duman-kaplamak
+letter: G
 lisan: Türkçe
 anlamlar:
 - uyuşuk, sersem bir hâlde olmak

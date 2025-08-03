@@ -2,6 +2,7 @@
 layout: term
 title: iğnelenme
 slug: ignelenme
+letter: I
 lisan: Türkçe
 anlamlar:
 - İğnelenmek işi

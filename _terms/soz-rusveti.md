@@ -2,6 +2,7 @@
 layout: term
 title: söz rüşveti
 slug: soz-rusveti
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir çıkar sağlamak için bir kimseyi övme

@@ -2,6 +2,7 @@
 layout: term
 title: ahir zaman
 slug: ahir-zaman
+letter: A
 lisan: Türkçe
 anlamlar:
 - Son zaman

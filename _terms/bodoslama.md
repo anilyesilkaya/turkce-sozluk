@@ -2,6 +2,7 @@
 layout: term
 title: bodoslama
 slug: bodoslama
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bodoslamak işi

@@ -2,6 +2,7 @@
 layout: term
 title: gözü ilişmek
 slug: gozu-ilismek
+letter: G
 lisan: Türkçe
 anlamlar:
 - birdenbire veya istemeden görmek

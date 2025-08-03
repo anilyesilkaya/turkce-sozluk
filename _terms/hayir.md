@@ -2,6 +2,7 @@
 layout: term
 title: hayır
 slug: hayir
+letter: H
 lisan: Arapça ḫayr
 anlamlar:
 - '"Yok, öyle değil, olmaz" anlamlarında onamama, inkâr bildiren bir söz'

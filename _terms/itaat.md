@@ -2,6 +2,7 @@
 layout: term
 title: itaat
 slug: itaat
+letter: I
 lisan: Arapça iṭāʿat
 anlamlar:
 - Söz dinleme, boyun eğme, buyruğa uyma

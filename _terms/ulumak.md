@@ -2,6 +2,7 @@
 layout: term
 title: ulumak
 slug: ulumak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Köpek, kurt, çakal vb. hayvanlar uzun, iniltili, ağlar gibi bir ses çıkarmak

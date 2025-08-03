@@ -2,6 +2,7 @@
 layout: term
 title: tepeden bakmak
 slug: tepeden-bakmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - küçümsemek

@@ -2,6 +2,7 @@
 layout: term
 title: oyunlaştırmak
 slug: oyunlastirmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Tiyatro türünden olmayan herhangi bir eseri teknik yönden oynanabilir duruma getirmek

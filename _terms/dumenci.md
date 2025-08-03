@@ -2,6 +2,7 @@
 layout: term
 title: dümenci
 slug: dumenci
+letter: D
 lisan: Türkçe
 anlamlar:
 - Gemilerde dümeni kullanan kimse

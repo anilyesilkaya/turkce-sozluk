@@ -2,6 +2,7 @@
 layout: term
 title: feminenleşme
 slug: feminenlesme
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► kadınsılaşma

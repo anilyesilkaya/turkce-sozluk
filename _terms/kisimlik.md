@@ -2,6 +2,7 @@
 layout: term
 title: kısımlık
 slug: kisimlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► bölümlük

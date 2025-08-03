@@ -2,6 +2,7 @@
 layout: term
 title: viyaklama
 slug: viyaklama
+letter: V
 lisan: Türkçe
 anlamlar:
 - Viyaklamak işi

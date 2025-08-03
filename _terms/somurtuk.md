@@ -2,6 +2,7 @@
 layout: term
 title: somurtuk
 slug: somurtuk
+letter: S
 lisan: Türkçe
 anlamlar:
 - Asık suratlı, yüzü gülmez, sıkıntılı, çekilmez

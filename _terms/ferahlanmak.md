@@ -2,6 +2,7 @@
 layout: term
 title: ferahlanmak
 slug: ferahlanmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► ferahlamak

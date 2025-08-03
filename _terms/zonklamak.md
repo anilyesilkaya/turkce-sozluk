@@ -2,6 +2,7 @@
 layout: term
 title: zonklamak
 slug: zonklamak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Vücudun bir yeri nabız atışı gibi, kesik kesik ağrımak veya sancımak

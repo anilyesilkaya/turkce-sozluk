@@ -2,6 +2,7 @@
 layout: term
 title: zambırından geçilmemek
 slug: zambirindan-gecilmemek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - çalımından geçilmemek

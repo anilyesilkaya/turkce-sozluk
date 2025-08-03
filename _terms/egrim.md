@@ -2,6 +2,7 @@
 layout: term
 title: eğrim
 slug: egrim
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eğri, dalgalı olan

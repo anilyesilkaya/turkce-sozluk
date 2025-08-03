@@ -2,6 +2,7 @@
 layout: term
 title: görmece
 slug: gormece
+letter: G
 lisan: Türkçe
 anlamlar:
 - Görmek koşuluyla

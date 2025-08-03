@@ -2,6 +2,7 @@
 layout: term
 title: eşey
 slug: esey
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► cinsiyet

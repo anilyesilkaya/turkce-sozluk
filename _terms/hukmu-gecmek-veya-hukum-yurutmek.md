@@ -2,6 +2,7 @@
 layout: term
 title: hükmü geçmek (veya hüküm yürütmek)
 slug: hukmu-gecmek-veya-hukum-yurutmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - gücü yetmek, sözü geçmek

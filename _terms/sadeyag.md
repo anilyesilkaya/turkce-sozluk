@@ -2,6 +2,7 @@
 layout: term
 title: sadeyağ
 slug: sadeyag
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► tereyağı

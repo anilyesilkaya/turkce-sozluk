@@ -2,6 +2,7 @@
 layout: term
 title: enayi dümbeleği
 slug: enayi-dumbelegi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Çok enayi

@@ -2,6 +2,7 @@
 layout: term
 title: çalık kavak
 slug: calik-kavak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Dalları sepetçilikte kullanılan bir tür kavak; sepetçi kavağı

@@ -2,6 +2,7 @@
 layout: term
 title: belediye nikâhı
 slug: belediye-nikahi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Medeni kanuna göre kıyılan resmî nikâh

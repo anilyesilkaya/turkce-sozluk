@@ -2,6 +2,7 @@
 layout: term
 title: ölüsü kınalı
 slug: olusu-kinali
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► ölüsü kandilli

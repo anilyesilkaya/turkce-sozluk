@@ -2,6 +2,7 @@
 layout: term
 title: cesaret almak (veya bulmak)
 slug: cesaret-almak-veya-bulmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - herhangi bir durumdan, davranıştan veya kişiden güç almak

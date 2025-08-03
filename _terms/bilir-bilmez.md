@@ -2,6 +2,7 @@
 layout: term
 title: bilir bilmez
 slug: bilir-bilmez
+letter: B
 lisan: Türkçe
 anlamlar:
 - yarım bilgi ile, bilip bilmediğine aldırmadan

@@ -2,6 +2,7 @@
 layout: term
 title: hafifsenmek
 slug: hafifsenmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hafifsemek işi yapılmak

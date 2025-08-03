@@ -2,6 +2,7 @@
 layout: term
 title: tavsatmak
 slug: tavsatmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tavsamasına sebep olmak

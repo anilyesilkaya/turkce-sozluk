@@ -2,6 +2,7 @@
 layout: term
 title: horoz bakışı
 slug: horoz-bakisi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Dik ve ters bakış

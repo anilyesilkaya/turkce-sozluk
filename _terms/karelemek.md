@@ -2,6 +2,7 @@
 layout: term
 title: karelemek
 slug: karelemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karelere ayırmak

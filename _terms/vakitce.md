@@ -2,6 +2,7 @@
 layout: term
 title: vakitçe
 slug: vakitce
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vakit bakımından, vakte göre

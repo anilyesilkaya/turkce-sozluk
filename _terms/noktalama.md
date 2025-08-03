@@ -2,6 +2,7 @@
 layout: term
 title: noktalama
 slug: noktalama
+letter: N
 lisan: Türkçe
 anlamlar:
 - Noktalamak işi; tenkit

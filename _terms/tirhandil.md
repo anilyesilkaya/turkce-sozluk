@@ -2,6 +2,7 @@
 layout: term
 title: tirhandil
 slug: tirhandil
+letter: T
 lisan: Rumca
 anlamlar:
 - Yelken ve kürekle yürütülen ve genellikle Bodrum'a özgü dayanıklı ve zarif tekne türü

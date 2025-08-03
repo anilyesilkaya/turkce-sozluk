@@ -2,6 +2,7 @@
 layout: term
 title: ak ağa
 slug: ak-aga
+letter: A
 lisan: Türkçe
 anlamlar:
 - Haremlerde hizmet gören hadım ağalarının beyaz ırktan olanı

@@ -2,6 +2,7 @@
 layout: term
 title: çözülebilmek
 slug: cozulebilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çözülme ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: inekçilik
 slug: inekcilik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İnekçinin yaptığı iş

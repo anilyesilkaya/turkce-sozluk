@@ -2,6 +2,7 @@
 layout: term
 title: acayip olmak
 slug: acayip-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - yadırganacak bir duruma gelmek

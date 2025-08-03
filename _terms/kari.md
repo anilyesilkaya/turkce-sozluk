@@ -2,6 +2,7 @@
 layout: term
 title: kari
 slug: kari
+letter: K
 lisan: Arapça ḳāriʾ
 anlamlar:
 - ► okuyucu

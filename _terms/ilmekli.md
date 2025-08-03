@@ -2,6 +2,7 @@
 layout: term
 title: ilmekli
 slug: ilmekli
+letter: I
 lisan: Türkçe
 anlamlar:
 - Kolay çözülür biçimde düğümlenmiş; ilmikli

@@ -2,6 +2,7 @@
 layout: term
 title: çiğ
 slug: cig
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Pişmemiş veya az pişmiş

@@ -2,6 +2,7 @@
 layout: term
 title: mukavemet
 slug: mukavemet
+letter: M
 lisan: Arapça muḳāvemet
 anlamlar:
 - Bir şeye veya kimseye karşı durma, karşı koyma, dayanma gücü

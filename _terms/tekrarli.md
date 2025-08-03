@@ -2,6 +2,7 @@
 layout: term
 title: tekrarlı
 slug: tekrarli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Üst üste veya tekrar tekrar yapılan, tekrar edilen; yinelemeli, mükerrer

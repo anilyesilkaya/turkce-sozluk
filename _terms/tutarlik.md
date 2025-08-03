@@ -2,6 +2,7 @@
 layout: term
 title: tutarlık
 slug: tutarlik
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► tutarlılık

@@ -2,6 +2,7 @@
 layout: term
 title: imkânsızlık
 slug: imkansizlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İmkânsız olma durumu; gayrikabillik, gayrimümkünlük

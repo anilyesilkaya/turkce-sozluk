@@ -2,6 +2,7 @@
 layout: term
 title: hüsran
 slug: husran
+letter: H
 lisan: Arapça ḫusrān
 anlamlar:
 - Beklenilen şeyin elde edilememesi yüzünden duyulan acı; batkı

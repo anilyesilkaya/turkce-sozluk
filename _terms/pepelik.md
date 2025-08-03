@@ -2,6 +2,7 @@
 layout: term
 title: pepelik
 slug: pepelik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pepe olma durumu; pepemelik

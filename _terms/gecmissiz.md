@@ -2,6 +2,7 @@
 layout: term
 title: geçmişsiz
 slug: gecmissiz
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bir geçmişi olmayan

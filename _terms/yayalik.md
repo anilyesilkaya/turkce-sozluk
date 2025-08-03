@@ -2,6 +2,7 @@
 layout: term
 title: yayalık
 slug: yayalik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaya olma durumu

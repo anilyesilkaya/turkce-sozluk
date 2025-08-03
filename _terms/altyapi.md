@@ -2,6 +2,7 @@
 layout: term
 title: altyapı
 slug: altyapi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir yerleşim yeri veya bir yapı için gerekli olan yol, kanalizasyon, su, elektrik vb. tesisatın tümü

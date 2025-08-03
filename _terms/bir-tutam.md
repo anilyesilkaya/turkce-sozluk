@@ -2,6 +2,7 @@
 layout: term
 title: bir tutam
 slug: bir-tutam
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çok az; bir tutamlık

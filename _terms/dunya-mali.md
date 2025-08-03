@@ -2,6 +2,7 @@
 layout: term
 title: dünya malı
 slug: dunya-mali
+letter: D
 lisan: Türkçe
 anlamlar:
 - Varlık, servet

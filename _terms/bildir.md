@@ -2,6 +2,7 @@
 layout: term
 title: bıldır
 slug: bildir
+letter: B
 lisan: Türkçe
 anlamlar:
 - Geçen yıl, bir yıl önce

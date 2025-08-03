@@ -2,6 +2,7 @@
 layout: term
 title: oyun etmek
 slug: oyun-etmek
+letter: O
 lisan: Türkçe
 anlamlar:
 - kurnazlıkla birini aldatmak

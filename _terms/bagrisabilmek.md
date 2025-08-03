@@ -2,6 +2,7 @@
 layout: term
 title: bağrışabilmek
 slug: bagrisabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağrışma ihtimali veya imkânı bulunmak

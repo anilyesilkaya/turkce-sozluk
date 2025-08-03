@@ -2,6 +2,7 @@
 layout: term
 title: boynu bükük
 slug: boynu-bukuk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Üzgün, kırılmış, acınacak ve yardım bekler bir durumda, zavallı bir biçimde

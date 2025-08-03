@@ -2,6 +2,7 @@
 layout: term
 title: ihtiyaca cevap vermek
 slug: ihtiyaca-cevap-vermek
+letter: I
 lisan: Türkçe
 anlamlar:
 - gereksinimi karşılamak

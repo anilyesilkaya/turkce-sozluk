@@ -2,6 +2,7 @@
 layout: term
 title: intihap etmek
 slug: intihap-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - seçmek

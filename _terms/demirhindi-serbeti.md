@@ -2,6 +2,7 @@
 layout: term
 title: demirhindi şerbeti
 slug: demirhindi-serbeti
+letter: D
 lisan: Türkçe
 anlamlar:
 - Demirhindiden yapılan bir şerbet türü; demirhindi

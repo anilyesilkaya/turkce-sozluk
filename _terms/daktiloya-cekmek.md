@@ -2,6 +2,7 @@
 layout: term
 title: daktiloya çekmek
 slug: daktiloya-cekmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - yazı makinesiyle yazmak

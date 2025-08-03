@@ -2,6 +2,7 @@
 layout: term
 title: tendürüst
 slug: tendurust
+letter: T
 lisan: Farsça ten + durust
 anlamlar:
 - ► dinç

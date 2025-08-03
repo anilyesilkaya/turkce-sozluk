@@ -2,6 +2,7 @@
 layout: term
 title: askercilik
 slug: askercilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Askerci olma durumu

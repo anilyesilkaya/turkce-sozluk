@@ -2,6 +2,7 @@
 layout: term
 title: değersiz
 slug: degersiz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Değeri olmayan veya değeri çok az olan; derme çatma, kıymetsiz

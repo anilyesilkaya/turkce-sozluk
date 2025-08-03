@@ -2,6 +2,7 @@
 layout: term
 title: gaddarlık
 slug: gaddarlik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gaddar olma durumu; kıyıcılık

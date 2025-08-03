@@ -2,6 +2,7 @@
 layout: term
 title: tepme
 slug: tepme
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tepmek işi

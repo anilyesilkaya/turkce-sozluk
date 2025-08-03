@@ -2,6 +2,7 @@
 layout: term
 title: tortulaşmak
 slug: tortulasmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tortu durumuna gelmek; tortullaşmak

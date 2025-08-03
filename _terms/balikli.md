@@ -2,6 +2,7 @@
 layout: term
 title: balıklı
 slug: balikli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Balığı olan

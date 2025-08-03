@@ -2,6 +2,7 @@
 layout: term
 title: salli barik
 slug: salli-barik
+letter: S
 lisan: Türkçe
 anlamlar:
 - “Allahümme salli” ve “Allahümme barik” sözleriyle başlayan namaz dualarına verilen ad

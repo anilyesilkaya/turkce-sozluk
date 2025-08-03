@@ -2,6 +2,7 @@
 layout: term
 title: sakat
 slug: sakat
+letter: S
 lisan: Arapça saḳaṭ
 anlamlar:
 - Doğuştan veya sonradan herhangi bir nedenle bedensel, zihinsel, ruhsal, duyusal veya sosyal yeteneklerini çeşitli derecelerde kaybetmiş, toplumsal yaşama uyum sağlama ve günlük gereksinimlerini karşılama güçlükleri çeken (kimse); alil, muallel

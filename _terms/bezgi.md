@@ -2,6 +2,7 @@
 layout: term
 title: bezgi
 slug: bezgi
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bezginlik

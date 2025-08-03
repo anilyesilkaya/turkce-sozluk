@@ -2,6 +2,7 @@
 layout: term
 title: olmadık
 slug: olmadik
+letter: O
 lisan: Türkçe
 anlamlar:
 - Daha önce olmamış, olağan karşıtı

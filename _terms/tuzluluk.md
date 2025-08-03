@@ -2,6 +2,7 @@
 layout: term
 title: tuzluluk
 slug: tuzluluk
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tuzlu olma durumu

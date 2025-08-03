@@ -2,6 +2,7 @@
 layout: term
 title: abak
 slug: abak
+letter: A
 lisan: Fransızca abaque
 anlamlar:
 - ► sayı boncuğu

@@ -2,6 +2,7 @@
 layout: term
 title: palalık
 slug: palalik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Çatı kirişinin yanı

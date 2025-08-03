@@ -2,6 +2,7 @@
 layout: term
 title: ekşi yüz
 slug: eksi-yuz
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► ekşi surat

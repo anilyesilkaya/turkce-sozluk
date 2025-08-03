@@ -2,6 +2,7 @@
 layout: term
 title: kaybolabilmek
 slug: kaybolabilmek
+letter: K
 lisan: Arapça ġayb + Türkçe olabilmek
 anlamlar:
 - Kaybolma ihtimali veya imkânı bulunmak

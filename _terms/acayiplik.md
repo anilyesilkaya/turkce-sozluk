@@ -2,6 +2,7 @@
 layout: term
 title: acayiplik
 slug: acayiplik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Acayip olma durumu; yabansılık, gariplik, tuhaflık

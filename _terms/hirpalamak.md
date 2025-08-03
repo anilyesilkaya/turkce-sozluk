@@ -2,6 +2,7 @@
 layout: term
 title: hırpalamak
 slug: hirpalamak
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► örselemek

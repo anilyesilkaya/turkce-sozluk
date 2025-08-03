@@ -2,6 +2,7 @@
 layout: term
 title: gösteri yapmak
 slug: gosteri-yapmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - topluluk önünde bir beceri veya oyunu sergilemek

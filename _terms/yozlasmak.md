@@ -2,6 +2,7 @@
 layout: term
 title: yozlaşmak
 slug: yozlasmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Kişi, toplum vb. özündeki iyi niteliklerini,  değer yargılarını, birtakım dış etkenlerle yitirerek bozulmak, kötüye gitmek; dejenereleşmek, dejenere olmak, tereddi etmek

@@ -2,6 +2,7 @@
 layout: term
 title: elektrik süpürgesi
 slug: elektrik-supurgesi
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► elektrikli süpürge

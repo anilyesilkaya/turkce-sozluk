@@ -2,6 +2,7 @@
 layout: term
 title: kağnı arabası
 slug: kagni-arabasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kağnı

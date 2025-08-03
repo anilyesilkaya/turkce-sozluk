@@ -2,6 +2,7 @@
 layout: term
 title: bedel
 slug: bedel
+letter: B
 lisan: Arapça bedel
 anlamlar:
 - ► fiyat

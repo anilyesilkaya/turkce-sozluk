@@ -2,6 +2,7 @@
 layout: term
 title: acemilik
 slug: acemilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Acemi olma durumu

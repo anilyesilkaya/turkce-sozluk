@@ -2,6 +2,7 @@
 layout: term
 title: kartelleşme
 slug: kartellesme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kartel kurma işi

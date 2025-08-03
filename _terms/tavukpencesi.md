@@ -2,6 +2,7 @@
 layout: term
 title: tavukpençesi
 slug: tavukpencesi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tropikal bölgelerin karakteristik çim bitkisi

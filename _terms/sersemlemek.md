@@ -2,6 +2,7 @@
 layout: term
 title: sersemlemek
 slug: sersemlemek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sersem duruma gelmek

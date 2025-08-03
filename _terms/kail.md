@@ -2,6 +2,7 @@
 layout: term
 title: kail
 slug: kail
+letter: K
 lisan: Arapça ḳāʾil
 anlamlar:
 - Söyleyen

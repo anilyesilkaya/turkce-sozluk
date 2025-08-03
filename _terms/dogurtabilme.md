@@ -2,6 +2,7 @@
 layout: term
 title: doğurtabilme
 slug: dogurtabilme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Doğurtabilmek işi

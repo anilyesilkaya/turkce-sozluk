@@ -2,6 +2,7 @@
 layout: term
 title: gölge etmek
 slug: golge-etmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - ışığa engel olmak

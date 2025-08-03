@@ -2,6 +2,7 @@
 layout: term
 title: lal etmek
 slug: lal-etmek
+letter: L
 lisan: Türkçe
 anlamlar:
 - birini konuşamaz duruma sokmak

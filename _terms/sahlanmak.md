@@ -2,6 +2,7 @@
 layout: term
 title: şahlanmak
 slug: sahlanmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - At, ön ayaklarını yerden keserek arka ayakları üstünde durmak; şaha kalkmak

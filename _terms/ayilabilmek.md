@@ -2,6 +2,7 @@
 layout: term
 title: ayılabilmek
 slug: ayilabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayılma ihtimali veya imkânı bulunmak

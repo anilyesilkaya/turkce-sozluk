@@ -2,6 +2,7 @@
 layout: term
 title: programlamak
 slug: programlamak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Programa bağlamak, bir şeyin programını yapmak

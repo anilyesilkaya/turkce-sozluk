@@ -2,6 +2,7 @@
 layout: term
 title: ucuzluk
 slug: ucuzluk
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ucuz olma durumu; ferahi

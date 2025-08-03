@@ -2,6 +2,7 @@
 layout: term
 title: lüks
 slug: luks
+letter: L
 lisan: Fransızca lux
 anlamlar:
 - Aydınlatma ölçü birimi

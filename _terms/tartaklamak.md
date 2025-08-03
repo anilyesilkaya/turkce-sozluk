@@ -2,6 +2,7 @@
 layout: term
 title: tartaklamak
 slug: tartaklamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Çekerek ve iterek hırpalamak

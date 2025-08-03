@@ -2,6 +2,7 @@
 layout: term
 title: misafir odası
 slug: misafir-odasi
+letter: M
 lisan: Türkçe
 anlamlar:
 - Evlerde konukların alındığı oda

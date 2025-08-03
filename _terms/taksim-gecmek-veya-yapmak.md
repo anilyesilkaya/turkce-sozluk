@@ -2,6 +2,7 @@
 layout: term
 title: taksim geçmek (veya yapmak)
 slug: taksim-gecmek-veya-yapmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - klasik Türk müziğinde faslın başında ve ortasında doğaçlama yöntemiyle müzik icra etmek

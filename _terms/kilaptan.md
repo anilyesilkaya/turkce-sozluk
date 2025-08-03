@@ -2,6 +2,7 @@
 layout: term
 title: kılaptan
 slug: kilaptan
+letter: K
 lisan: Arapça ḳullāb + Farsça -dān
 anlamlar:
 - Pirinç, bakır, kalay vb. madenlerden çekilerek gümüş ve altın yaldız vurulmuş ince metal iplik

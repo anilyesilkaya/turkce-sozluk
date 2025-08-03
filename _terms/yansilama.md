@@ -2,6 +2,7 @@
 layout: term
 title: yansılama
 slug: yansilama
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yansıma

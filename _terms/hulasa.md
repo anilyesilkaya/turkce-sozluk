@@ -2,6 +2,7 @@
 layout: term
 title: hülasa
 slug: hulasa
+letter: H
 lisan: Arapça ḫulāṣa
 anlamlar:
 - ► özet

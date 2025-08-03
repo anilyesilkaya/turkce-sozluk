@@ -2,6 +2,7 @@
 layout: term
 title: lafa dalmak
 slug: lafa-dalmak
+letter: L
 lisan: Türkçe
 anlamlar:
 - uzun süren bir sohbette bulunmak, çok konuşmak

@@ -2,6 +2,7 @@
 layout: term
 title: lalalık
 slug: lalalik
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lala olma durumu

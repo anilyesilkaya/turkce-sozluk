@@ -2,6 +2,7 @@
 layout: term
 title: vidolu
 slug: vidolu
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vido ile oynanan

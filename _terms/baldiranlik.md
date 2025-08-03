@@ -2,6 +2,7 @@
 layout: term
 title: baldıranlık
 slug: baldiranlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Baldıranın çokça yetiştiği yer

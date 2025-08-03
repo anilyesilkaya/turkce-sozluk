@@ -2,6 +2,7 @@
 layout: term
 title: torpido
 slug: torpido
+letter: T
 lisan: Almanca Torpedo
 anlamlar:
 - Otomobillerde, içinde sürücü için gerekli şeylerin bulunduğu kapaklı küçük bölme; torpido gözü

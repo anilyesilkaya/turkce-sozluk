@@ -2,6 +2,7 @@
 layout: term
 title: tüpçü
 slug: tupcu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tüp gaz satan veya dağıtan kimse

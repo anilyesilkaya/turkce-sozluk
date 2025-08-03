@@ -2,6 +2,7 @@
 layout: term
 title: görüş açısı
 slug: gorus-acisi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bir şeyi görebilme alanı

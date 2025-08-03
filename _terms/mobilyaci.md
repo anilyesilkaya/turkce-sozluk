@@ -2,6 +2,7 @@
 layout: term
 title: mobilyacı
 slug: mobilyaci
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mobilya yapan veya satan kimse

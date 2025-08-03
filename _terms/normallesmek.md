@@ -2,6 +2,7 @@
 layout: term
 title: normalleşmek
 slug: normallesmek
+letter: N
 lisan: Türkçe
 anlamlar:
 - Normal duruma gelmek, normal olmak

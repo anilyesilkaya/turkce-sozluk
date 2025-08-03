@@ -2,6 +2,7 @@
 layout: term
 title: diksiyon
 slug: diksiyon
+letter: D
 lisan: Fransızca diction
 anlamlar:
 - Seslerin, sözlerin, vurguların, anlam ve heyecan duraklarını kurallarına uygun olarak söyleme biçimi

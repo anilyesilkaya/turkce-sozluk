@@ -2,6 +2,7 @@
 layout: term
 title: zeytingiller
 slug: zeytingiller
+letter: Z
 lisan: Türkçe
 anlamlar:
 - İki çeneklilerden, zeytin, leylak, dişbudak, yasemin vb. bitkileri içine alan ağaç veya ağaççıklar familyası

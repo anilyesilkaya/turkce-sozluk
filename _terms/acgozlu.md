@@ -2,6 +2,7 @@
 layout: term
 title: açgözlü
 slug: acgozlu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Mala, yiyeceğe ve içeceğe doymak bilmeyen; açgöz, gözü aç, gözü doymaz, haris, tamahkâr, tokgözlü karşıtı

@@ -2,6 +2,7 @@
 layout: term
 title: camit
 slug: camit
+letter: C
 lisan: Arapça cāmid
 anlamlar:
 - ► cansız

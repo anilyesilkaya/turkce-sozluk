@@ -2,6 +2,7 @@
 layout: term
 title: leblebiden nem kapmak
 slug: leblebiden-nem-kapmak
+letter: L
 lisan: Türkçe
 anlamlar:
 - en küçük bir olay veya davranıştan olumsuz etkilenmek

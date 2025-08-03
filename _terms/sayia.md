@@ -2,6 +2,7 @@
 layout: term
 title: şayia
 slug: sayia
+letter: Ş
 lisan: Arapça şāyiʿa
 anlamlar:
 - Yayılmış haber, yaygın söylenti; duyultu

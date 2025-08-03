@@ -2,6 +2,7 @@
 layout: term
 title: muvazeneli
 slug: muvazeneli
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► dengeli

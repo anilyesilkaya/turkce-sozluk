@@ -2,6 +2,7 @@
 layout: term
 title: bostan kuyusu
 slug: bostan-kuyusu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Sebze bahçesini sulamak için bostan dolabıyla su çıkarılan kuyu

@@ -2,6 +2,7 @@
 layout: term
 title: zirzop
 slug: zirzop
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► zıpır

@@ -2,6 +2,7 @@
 layout: term
 title: daralabilme
 slug: daralabilme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Daralabilmek işi

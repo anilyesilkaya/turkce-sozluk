@@ -2,6 +2,7 @@
 layout: term
 title: çıkıcı dizi
 slug: cikici-dizi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Kalından inceye gitme özelliği gösteren dizi

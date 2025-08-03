@@ -2,6 +2,7 @@
 layout: term
 title: dellenmek
 slug: dellenmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► delirmek

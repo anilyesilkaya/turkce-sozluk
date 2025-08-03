@@ -2,6 +2,7 @@
 layout: term
 title: hinoğluhinleşmek
 slug: hinogluhinlesmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - Çok kurnazlaşmak, her dönemin şartlarına uymak

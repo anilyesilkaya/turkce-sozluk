@@ -2,6 +2,7 @@
 layout: term
 title: yeteneksizlik
 slug: yeteneksizlik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yeteneksiz olma durumu; istidatsızlık, kabiliyetsizlik

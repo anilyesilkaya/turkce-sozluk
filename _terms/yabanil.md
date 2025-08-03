@@ -2,6 +2,7 @@
 layout: term
 title: yabanıl
 slug: yabanil
+letter: Y
 lisan: Türkçe
 anlamlar:
 - İlkel yaşayan (kimse)

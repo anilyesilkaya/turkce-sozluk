@@ -2,6 +2,7 @@
 layout: term
 title: sadelik
 slug: sadelik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Yalın olma durumu

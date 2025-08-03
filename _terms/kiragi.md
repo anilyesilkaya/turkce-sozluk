@@ -2,6 +2,7 @@
 layout: term
 title: kırağı
 slug: kiragi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Su buğusunun soğuk havalarda, yerde, bitkiler, ağaçlar ve öteki nesneler üzerinde donmasıyla oluşan ince tabaka

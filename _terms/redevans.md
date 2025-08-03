@@ -2,6 +2,7 @@
 layout: term
 title: redevans
 slug: redevans
+letter: R
 lisan: Fransızca redevance
 anlamlar:
 - Bir berat, lisans hakkı veya ticari marka sahibinin bunu devrettiği firmalardan aldığı maddi karşılık

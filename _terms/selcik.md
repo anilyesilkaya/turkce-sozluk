@@ -2,6 +2,7 @@
 layout: term
 title: selcik
 slug: selcik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Küçük sel

@@ -2,6 +2,7 @@
 layout: term
 title: cimrilik etmek
 slug: cimrilik-etmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - cimrice davranmak, pintileşmek

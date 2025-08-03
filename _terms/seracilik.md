@@ -2,6 +2,7 @@
 layout: term
 title: seracılık
 slug: seracilik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Seracının yaptığı iş

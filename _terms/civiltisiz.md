@@ -2,6 +2,7 @@
 layout: term
 title: cıvıltısız
 slug: civiltisiz
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cıvıltısı olmayan

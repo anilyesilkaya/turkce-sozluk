@@ -2,6 +2,7 @@
 layout: term
 title: feragat etmek (veya göstermek)
 slug: feragat-etmek-veya-gostermek
+letter: F
 lisan: Türkçe
 anlamlar:
 - hakkından vazgeçmek, el çekmek

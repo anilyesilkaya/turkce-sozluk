@@ -2,6 +2,7 @@
 layout: term
 title: ayak basmak
 slug: ayak-basmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir yere varmak, ulaşmak

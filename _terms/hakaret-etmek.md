@@ -2,6 +2,7 @@
 layout: term
 title: hakaret etmek
 slug: hakaret-etmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - bir şeyi veya bir kimseyi aşağılık ve değersiz gösterecek biçimde davranmak

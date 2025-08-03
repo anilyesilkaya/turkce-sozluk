@@ -2,6 +2,7 @@
 layout: term
 title: nezaketsizlik
 slug: nezaketsizlik
+letter: N
 lisan: Türkçe
 anlamlar:
 - İnce ve nazik olmama durumu

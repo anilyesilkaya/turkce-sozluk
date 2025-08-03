@@ -2,6 +2,7 @@
 layout: term
 title: çizmeli
 slug: cizmeli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çizmesi olan

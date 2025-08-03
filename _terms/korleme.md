@@ -2,6 +2,7 @@
 layout: term
 title: körleme
 slug: korleme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Hedef gözetmeksizin, nişan almadan

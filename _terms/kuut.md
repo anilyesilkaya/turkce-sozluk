@@ -2,6 +2,7 @@
 layout: term
 title: kuut
 slug: kuut
+letter: K
 lisan: Arapça ḳuʿūd
 anlamlar:
 - Namazın oturularak kılınan kısmı

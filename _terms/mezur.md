@@ -2,6 +2,7 @@
 layout: term
 title: mezür
 slug: mezur
+letter: M
 lisan: Fransızca mesure
 anlamlar:
 - ► mezura

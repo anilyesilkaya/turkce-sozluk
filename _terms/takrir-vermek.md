@@ -2,6 +2,7 @@
 layout: term
 title: takrir vermek
 slug: takrir-vermek
+letter: T
 lisan: Türkçe
 anlamlar:
 - tapu dairesinde taşınmaz malını başkasına sattığını veya ipotek ettiğini sözle ifade etmek

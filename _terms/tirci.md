@@ -2,6 +2,7 @@
 layout: term
 title: tırcı
 slug: tirci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tır kullanarak taşımacılık yapan (kimse)

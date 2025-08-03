@@ -2,6 +2,7 @@
 layout: term
 title: rapsodi
 slug: rapsodi
+letter: R
 lisan: Fransızca rhapsodie
 anlamlar:
 - İçinde, Homeros'un şiirlerindeki olaylardan birini işleyen şarkı veya parça

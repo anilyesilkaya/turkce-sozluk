@@ -2,6 +2,7 @@
 layout: term
 title: ladin
 slug: ladin
+letter: L
 lisan: Türkçe
 anlamlar:
 - Çamgillerden, 50-60 metre yüksekliğinde, düz gövdeli, kozalağı aşağıya doğru sarkık, kerestesi ve reçinesi değerli, çam türüne çok yakın bir orman ağacı (Picea)

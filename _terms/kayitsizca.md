@@ -2,6 +2,7 @@
 layout: term
 title: kayıtsızca
 slug: kayitsizca
+letter: K
 lisan: Türkçe
 anlamlar:
 - (kayıtsı'zca) İlgisiz, aldırmaz bir biçimde

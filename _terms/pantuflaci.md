@@ -2,6 +2,7 @@
 layout: term
 title: pantuflacı
 slug: pantuflaci
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pantufla yapan veya satan kimse

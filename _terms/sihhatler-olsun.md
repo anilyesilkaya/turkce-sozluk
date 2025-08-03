@@ -2,6 +2,7 @@
 layout: term
 title: sıhhatler olsun
 slug: sihhatler-olsun
+letter: S
 lisan: Türkçe
 anlamlar:
 - yıkananlara veya tıraş olanlara söylenen bir nezaket sözü

@@ -2,6 +2,7 @@
 layout: term
 title: kafalı
 slug: kafali
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kafası olan

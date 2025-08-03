@@ -2,6 +2,7 @@
 layout: term
 title: umut
 slug: umut
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ummaktan doğan duygu; umu, ümit

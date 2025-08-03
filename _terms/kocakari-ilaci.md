@@ -2,6 +2,7 @@
 layout: term
 title: kocakarı ilacı
 slug: kocakari-ilaci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Hekim olmayan kimselerin yaptıkları veya salık verdikleri, hekimlikte kullanılmayan ilaç

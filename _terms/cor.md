@@ -2,6 +2,7 @@
 layout: term
 title: çor
 slug: cor
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► hastalık

@@ -2,6 +2,7 @@
 layout: term
 title: yapılmak
 slug: yapilmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yapma işine konu olmak

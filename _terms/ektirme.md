@@ -2,6 +2,7 @@
 layout: term
 title: ektirme
 slug: ektirme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ektirmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: loşlaştırmak
 slug: loslastirmak
+letter: L
 lisan: Türkçe
 anlamlar:
 - Loş bir duruma getirmek

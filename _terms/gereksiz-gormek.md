@@ -2,6 +2,7 @@
 layout: term
 title: gereksiz görmek
 slug: gereksiz-gormek
+letter: G
 lisan: Türkçe
 anlamlar:
 - gereği olmadığını düşünmek

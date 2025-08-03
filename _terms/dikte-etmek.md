@@ -2,6 +2,7 @@
 layout: term
 title: dikte etmek
 slug: dikte-etmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - yazdırmak için söylemek

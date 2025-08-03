@@ -2,6 +2,7 @@
 layout: term
 title: uyuşturulabilmek
 slug: uyusturulabilmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyuşturulma ihtimali veya imkânı bulunmak

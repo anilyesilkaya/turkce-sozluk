@@ -2,6 +2,7 @@
 layout: term
 title: ödeme
 slug: odeme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ödemek işi; ifa, tediye

@@ -2,6 +2,7 @@
 layout: term
 title: az çok
 slug: az-cok
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► bir parça

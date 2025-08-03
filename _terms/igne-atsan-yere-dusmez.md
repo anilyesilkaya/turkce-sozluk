@@ -2,6 +2,7 @@
 layout: term
 title: iğne atsan yere düşmez
 slug: igne-atsan-yere-dusmez
+letter: I
 lisan: Türkçe
 anlamlar:
 - çok kalabalık

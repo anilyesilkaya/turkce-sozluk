@@ -2,6 +2,7 @@
 layout: term
 title: hemen
 slug: hemen
+letter: H
 lisan: Farsça hemān
 anlamlar:
 - ► çabucak

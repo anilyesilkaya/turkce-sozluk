@@ -2,6 +2,7 @@
 layout: term
 title: heveslilik
 slug: heveslilik
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► isteklilik

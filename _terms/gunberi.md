@@ -2,6 +2,7 @@
 layout: term
 title: günberi
 slug: gunberi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Dünya'nın, Güneş'e en yakın bulunduğu nokta

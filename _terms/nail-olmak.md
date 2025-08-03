@@ -2,6 +2,7 @@
 layout: term
 title: nail olmak
 slug: nail-olmak
+letter: N
 lisan: Türkçe
 anlamlar:
 - erişmek, ulaşmak, kavuşmak

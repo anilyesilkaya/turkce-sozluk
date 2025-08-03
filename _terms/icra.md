@@ -2,6 +2,7 @@
 layout: term
 title: icra
 slug: icra
+letter: I
 lisan: Arapça icrāʾ
 anlamlar:
 - Yapma, yerine getirme

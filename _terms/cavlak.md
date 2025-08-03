@@ -2,6 +2,7 @@
 layout: term
 title: cavlak
 slug: cavlak
+letter: C
 lisan: Türkçe
 anlamlar:
 - “Ölmek" anlamındaki cavlağı çekmek deyiminde geçen bir söz

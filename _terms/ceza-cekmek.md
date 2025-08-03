@@ -2,6 +2,7 @@
 layout: term
 title: ceza çekmek
 slug: ceza-cekmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - hapiste yatmak

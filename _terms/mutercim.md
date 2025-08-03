@@ -2,6 +2,7 @@
 layout: term
 title: mütercim
 slug: mutercim
+letter: M
 lisan: Arapça mutercim
 anlamlar:
 - ► çevirmen

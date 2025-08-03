@@ -2,6 +2,7 @@
 layout: term
 title: burulabilme
 slug: burulabilme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Burulabilmek işi

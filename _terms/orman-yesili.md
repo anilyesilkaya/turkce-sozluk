@@ -2,6 +2,7 @@
 layout: term
 title: orman yeşili
 slug: orman-yesili
+letter: O
 lisan: Türkçe
 anlamlar:
 - Koyu yeşil renk

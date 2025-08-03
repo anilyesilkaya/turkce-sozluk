@@ -2,6 +2,7 @@
 layout: term
 title: katılaşmak
 slug: katilasmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Katı duruma gelmek

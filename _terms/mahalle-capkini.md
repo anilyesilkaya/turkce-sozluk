@@ -2,6 +2,7 @@
 layout: term
 title: mahalle çapkını
 slug: mahalle-capkini
+letter: M
 lisan: Türkçe
 anlamlar:
 - Başka mahallelerde çapkınlık edemeyecek kadar beceriksiz kimse

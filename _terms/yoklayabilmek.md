@@ -2,6 +2,7 @@
 layout: term
 title: yoklayabilmek
 slug: yoklayabilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yoklama ihtimali veya imkânı bulunmak

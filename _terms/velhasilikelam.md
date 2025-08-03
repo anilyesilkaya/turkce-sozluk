@@ -2,6 +2,7 @@
 layout: term
 title: velhasılıkelam
 slug: velhasilikelam
+letter: V
 lisan: Arapça ve'l-ḥāṣil + kelām
 anlamlar:
 - ► kısacası

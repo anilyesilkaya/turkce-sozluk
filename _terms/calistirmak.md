@@ -2,6 +2,7 @@
 layout: term
 title: çalıştırmak
 slug: calistirmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çalışmasını sağlamak

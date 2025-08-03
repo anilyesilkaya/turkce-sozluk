@@ -2,6 +2,7 @@
 layout: term
 title: şarapnel
 slug: sarapnel
+letter: Ş
 lisan: Fransızca shrapnel
 anlamlar:
 - Patladığında etrafa küçük parçalar saçan bir tür top mermisi

@@ -2,6 +2,7 @@
 layout: term
 title: alfabe dışı
 slug: alfabe-disi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir milletin alfabesinde bulunmayan

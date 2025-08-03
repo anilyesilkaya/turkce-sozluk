@@ -2,6 +2,7 @@
 layout: term
 title: hamam kesesi
 slug: hamam-kesesi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hamamda kiri çıkarmak için kullanılan kıldan veya kenevirden örülmüş, ele geçirilebilen kese

@@ -2,6 +2,7 @@
 layout: term
 title: esneyiş
 slug: esneyis
+letter: E
 lisan: Türkçe
 anlamlar:
 - Esnemek işi

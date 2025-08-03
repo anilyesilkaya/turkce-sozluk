@@ -2,6 +2,7 @@
 layout: term
 title: dövme
 slug: dovme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dövmek işi; pataklama, sopalama

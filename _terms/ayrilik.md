@@ -2,6 +2,7 @@
 layout: term
 title: ayrılık
 slug: ayrilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayrı olma durumu

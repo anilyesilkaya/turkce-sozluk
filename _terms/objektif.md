@@ -2,6 +2,7 @@
 layout: term
 title: objektif
 slug: objektif
+letter: O
 lisan: Fransızca objectif
 anlamlar:
 - ► nesnel, subjektif karşıtı

@@ -2,6 +2,7 @@
 layout: term
 title: benimseyivermek
 slug: benimseyivermek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çabucak benimsemek

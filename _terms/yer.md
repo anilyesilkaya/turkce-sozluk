@@ -2,6 +2,7 @@
 layout: term
 title: yer
 slug: yer
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir şeyin, bir kimsenin kapladığı veya kaplayabileceği boşluk; mahal, mevzi

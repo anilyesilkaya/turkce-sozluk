@@ -2,6 +2,7 @@
 layout: term
 title: didinmek
 slug: didinmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çok güçlük çekerek sürekli çalışmak

@@ -2,6 +2,7 @@
 layout: term
 title: tel dolap
 slug: tel-dolap
+letter: T
 lisan: Türkçe
 anlamlar:
 - Yanları ve kapağı ince delikli telden yapılmış dolap

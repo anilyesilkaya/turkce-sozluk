@@ -2,6 +2,7 @@
 layout: term
 title: bariyerli
 slug: bariyerli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bariyeri olan

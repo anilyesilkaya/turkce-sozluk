@@ -2,6 +2,7 @@
 layout: term
 title: ağzına almak
 slug: agzina-almak
+letter: A
 lisan: Türkçe
 anlamlar:
 - yemek, içmek

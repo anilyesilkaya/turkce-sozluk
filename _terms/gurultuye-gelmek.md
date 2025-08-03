@@ -2,6 +2,7 @@
 layout: term
 title: gürültüye gelmek
 slug: gurultuye-gelmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - bir iş, bir düşünce vb. telaş ve karışıklığa rastlayarak ilgi çekmemek, üzerinde durulmamak

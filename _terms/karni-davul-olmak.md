@@ -2,6 +2,7 @@
 layout: term
 title: karnı davul olmak
 slug: karni-davul-olmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - hamileliği belirgin duruma gelmek

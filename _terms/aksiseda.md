@@ -2,6 +2,7 @@
 layout: term
 title: aksiseda
 slug: aksiseda
+letter: A
 lisan: Arapça ʿaks + ṣadā
 anlamlar:
 - ► yankı

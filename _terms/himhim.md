@@ -2,6 +2,7 @@
 layout: term
 title: hımhım
 slug: himhim
+letter: H
 lisan: Türkçe
 anlamlar:
 - Sesleri genizden çıkararak konuşan (kimse)

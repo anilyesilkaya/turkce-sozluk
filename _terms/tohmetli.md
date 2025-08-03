@@ -2,6 +2,7 @@
 layout: term
 title: töhmetli
 slug: tohmetli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Suçlanmış

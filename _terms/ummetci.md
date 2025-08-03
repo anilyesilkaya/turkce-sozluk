@@ -2,6 +2,7 @@
 layout: term
 title: ümmetçi
 slug: ummetci
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Ümmetçilik yanlısı olan (kimse, görüş vb.)

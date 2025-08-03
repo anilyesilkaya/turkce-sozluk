@@ -2,6 +2,7 @@
 layout: term
 title: beyaztilki
 slug: beyaztilki
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kuzey yarım kürenin tundralarında yaşayan beyaz renkli bir tür tilki

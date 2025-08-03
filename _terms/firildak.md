@@ -2,6 +2,7 @@
 layout: term
 title: fırıldak
 slug: firildak
+letter: F
 lisan: Türkçe
 anlamlar:
 - Rüzgârla dönen, çember biçiminde çocuk oyuncağı

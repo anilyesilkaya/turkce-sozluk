@@ -2,6 +2,7 @@
 layout: term
 title: devede kulak (veya kulak gibi) kalmak
 slug: devede-kulak-veya-kulak-gibi-kalmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - çok az önemi olmak, söz etmeye değer bulmamak

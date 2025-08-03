@@ -2,6 +2,7 @@
 layout: term
 title: yumuşaklaşmak
 slug: yumusaklasmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yumuşak bir duruma gelmek

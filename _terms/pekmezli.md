@@ -2,6 +2,7 @@
 layout: term
 title: pekmezli
 slug: pekmezli
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pekmezi olan veya içinde pekmez bulunan

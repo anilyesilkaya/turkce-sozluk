@@ -2,6 +2,7 @@
 layout: term
 title: çıplak
 slug: ciplak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Üstünde bulunması gereken giysi, örtü vb. bulunmayan; ari, üryan, nü, cıbıl, cıbıldak, cılcıbık, şallak, yalıncak

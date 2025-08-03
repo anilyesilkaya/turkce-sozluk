@@ -2,6 +2,7 @@
 layout: term
 title: Tunguzca
 slug: tunguzca
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tunguzların kullandığı dil

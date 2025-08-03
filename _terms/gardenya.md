@@ -2,6 +2,7 @@
 layout: term
 title: gardenya
 slug: gardenya
+letter: G
 lisan: Fransızca gardénia
 anlamlar:
 - Kök boyasıgillerden, sıcak bölgelerde yetişen bir ağaç veya ağaççık cinsi (Gardenia)

@@ -2,6 +2,7 @@
 layout: term
 title: müdrike
 slug: mudrike
+letter: M
 lisan: Arapça mudrike
 anlamlar:
 - ► anlık (II)

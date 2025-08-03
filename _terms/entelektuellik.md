@@ -2,6 +2,7 @@
 layout: term
 title: entelektüellik
 slug: entelektuellik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Entelektüel olma

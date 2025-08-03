@@ -2,6 +2,7 @@
 layout: term
 title: iğne yapraklılar
 slug: igne-yapraklilar
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► kozalaklılar

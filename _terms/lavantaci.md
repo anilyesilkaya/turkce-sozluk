@@ -2,6 +2,7 @@
 layout: term
 title: lavantacı
 slug: lavantaci
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lavanta yapan kimse

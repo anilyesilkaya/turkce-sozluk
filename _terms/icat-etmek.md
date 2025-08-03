@@ -2,6 +2,7 @@
 layout: term
 title: icat etmek
 slug: icat-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - o zamana kadar kimsenin bilmediği, henüz yapmadığı bir şey yaratmak; bulmak

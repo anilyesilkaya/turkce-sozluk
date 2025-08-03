@@ -2,6 +2,7 @@
 layout: term
 title: para sızdırmak (veya koparmak)
 slug: para-sizdirmak-veya-koparmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - zorlayarak veya kandırarak birinden para almak

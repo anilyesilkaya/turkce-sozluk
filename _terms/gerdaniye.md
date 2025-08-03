@@ -2,6 +2,7 @@
 layout: term
 title: gerdaniye
 slug: gerdaniye
+letter: G
 lisan: Farsça gerdān + Arapça -iyye
 anlamlar:
 - Türk müziğinde rast ve hüseynî makamlarının birleşmesinden meydana gelen ve dügâh perdesinde karar kılan bir birleşik makam

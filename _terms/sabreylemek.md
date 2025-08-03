@@ -2,6 +2,7 @@
 layout: term
 title: sabreylemek
 slug: sabreylemek
+letter: S
 lisan: Arapça ṣabr + Türkçe eylemek
 anlamlar:
 - ► sabretmek

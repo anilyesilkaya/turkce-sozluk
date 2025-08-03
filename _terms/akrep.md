@@ -2,6 +2,7 @@
 layout: term
 title: akrep
 slug: akrep
+letter: A
 lisan: Arapça ʿaḳreb
 anlamlar:
 - Akreplerden, sıcak ve nemli yerlerde yaşayan, kıvrık ve kalkık kuyruğunda zehirli iğnesi olan bir tür böcek; kuyruklu (Scorpio)

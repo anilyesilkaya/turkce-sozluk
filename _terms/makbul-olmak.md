@@ -2,6 +2,7 @@
 layout: term
 title: makbul olmak
 slug: makbul-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - beğenilmek

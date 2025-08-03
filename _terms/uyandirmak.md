@@ -2,6 +2,7 @@
 layout: term
 title: uyandırmak
 slug: uyandirmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyanmasına yol açmak; kaldırmak

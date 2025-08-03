@@ -2,6 +2,7 @@
 layout: term
 title: kaldırabilmek
 slug: kaldirabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaldırma ihtimali veya imkânı bulunmak

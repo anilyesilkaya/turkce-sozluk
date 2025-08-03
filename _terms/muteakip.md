@@ -2,6 +2,7 @@
 layout: term
 title: müteakip
 slug: muteakip
+letter: M
 lisan: Arapça muteʿāḳib
 anlamlar:
 - -den sonra

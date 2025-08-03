@@ -2,6 +2,7 @@
 layout: term
 title: plaseleme
 slug: plaseleme
+letter: P
 lisan: Türkçe
 anlamlar:
 - Plaselemek işi

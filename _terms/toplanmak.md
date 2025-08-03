@@ -2,6 +2,7 @@
 layout: term
 title: toplanmak
 slug: toplanmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Toplama işine konu olmak

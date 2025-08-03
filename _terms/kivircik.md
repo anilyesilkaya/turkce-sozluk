@@ -2,6 +2,7 @@
 layout: term
 title: kıvırcık
 slug: kivircik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Küçük küçük kıvrımları olan

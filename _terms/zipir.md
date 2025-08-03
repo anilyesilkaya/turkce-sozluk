@@ -2,6 +2,7 @@
 layout: term
 title: zıpır
 slug: zipir
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Şımarık ve delice tavırlı, hareketlerinde ölçüsüz; hırtapoz, zırtapoz, zirzop

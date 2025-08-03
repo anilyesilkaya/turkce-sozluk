@@ -2,6 +2,7 @@
 layout: term
 title: yol etmek
 slug: yol-etmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - o yere sık sık gitmek

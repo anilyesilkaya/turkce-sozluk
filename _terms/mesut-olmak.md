@@ -2,6 +2,7 @@
 layout: term
 title: mesut olmak
 slug: mesut-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - mutlu olmak, onmak

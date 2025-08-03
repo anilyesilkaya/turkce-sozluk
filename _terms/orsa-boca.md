@@ -2,6 +2,7 @@
 layout: term
 title: orsa boca
 slug: orsa-boca
+letter: O
 lisan: Türkçe
 anlamlar:
 - Geminin bazen rüzgâr yönüne yaklaşarak, bazen ondan uzaklaşarak yol alması

@@ -2,6 +2,7 @@
 layout: term
 title: kimse
 slug: kimse
+letter: K
 lisan: Türkçe
 anlamlar:
 - Herhangi bir kişi, kim olduğu bilinmeyen kişi

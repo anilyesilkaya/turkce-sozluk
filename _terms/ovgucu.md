@@ -2,6 +2,7 @@
 layout: term
 title: övgücü
 slug: ovgucu
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Birini veya bir şeyi öven kimse; övücü

@@ -2,6 +2,7 @@
 layout: term
 title: çöğme
 slug: cogme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çöğmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: konvansiyon
 slug: konvansiyon
+letter: K
 lisan: Fransızca convention
 anlamlar:
 - ► anlaşma

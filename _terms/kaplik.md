@@ -2,6 +2,7 @@
 layout: term
 title: kaplık
 slug: kaplik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kap kacak koymaya yarayan yer

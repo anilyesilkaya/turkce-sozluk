@@ -2,6 +2,7 @@
 layout: term
 title: müteessir
 slug: muteessir
+letter: M
 lisan: Arapça muteʾes̱s̱ir
 anlamlar:
 - ► üzüntülü

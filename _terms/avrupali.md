@@ -2,6 +2,7 @@
 layout: term
 title: Avrupalı
 slug: avrupali
+letter: A
 lisan: Türkçe
 anlamlar:
 - Avrupa'da yaşayan, Avrupa halkından olan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: coplatma
 slug: coplatma
+letter: C
 lisan: Türkçe
 anlamlar:
 - Coplatmak işi

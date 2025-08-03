@@ -2,6 +2,7 @@
 layout: term
 title: cart cart ötmek
 slug: cart-cart-otmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - çok konuşmak

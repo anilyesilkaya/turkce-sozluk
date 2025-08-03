@@ -2,6 +2,7 @@
 layout: term
 title: terane
 slug: terane
+letter: T
 lisan: Farsça terāne
 anlamlar:
 - Ezgi, makam, nağme

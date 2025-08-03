@@ -2,6 +2,7 @@
 layout: term
 title: afurlu tafurlu
 slug: afurlu-tafurlu
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► afralı tafralı

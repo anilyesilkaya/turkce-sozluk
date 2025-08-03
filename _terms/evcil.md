@@ -2,6 +2,7 @@
 layout: term
 title: evcil
 slug: evcil
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eve ve insana alışmış, kendisinden yararlanılabilen (hayvan); ehlî, yabani karşıtı

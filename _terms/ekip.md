@@ -2,6 +2,7 @@
 layout: term
 title: ekip
 slug: ekip
+letter: E
 lisan: Fransızca équipe
 anlamlar:
 - Görev bakımından birbirini tamamlayan kimselerin topluluğu; takım, grup, kadro

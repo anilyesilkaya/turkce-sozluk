@@ -2,6 +2,7 @@
 layout: term
 title: saygı duymak (veya beslemek)
 slug: saygi-duymak-veya-beslemek
+letter: S
 lisan: Türkçe
 anlamlar:
 - birine, bir şeye karşı saygı hissetmek

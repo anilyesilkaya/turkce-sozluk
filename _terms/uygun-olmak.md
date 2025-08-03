@@ -2,6 +2,7 @@
 layout: term
 title: uygun olmak
 slug: uygun-olmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - isabetli, yerinde olmak

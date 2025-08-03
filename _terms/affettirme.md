@@ -2,6 +2,7 @@
 layout: term
 title: affettirme
 slug: affettirme
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► bağışlatma

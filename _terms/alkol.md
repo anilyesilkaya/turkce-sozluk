@@ -2,6 +2,7 @@
 layout: term
 title: alkol
 slug: alkol
+letter: A
 lisan: Fransızca alcool
 anlamlar:
 - Bira, şarap vb. sıvıların veya pancar, patates nişastasının şekere dönüştürülmesi sonucu ortaya çıkan glikoz çözeltilerin mayalaşmış özlerinin damıtılmasıyla elde edilen, kokulu, uçucu, yanıcı, renksiz sıvı; ispirto, etanol, etil alkol

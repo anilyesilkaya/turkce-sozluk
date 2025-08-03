@@ -2,6 +2,7 @@
 layout: term
 title: bayındırlık
 slug: bayindirlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bayındır olma durumu; ümran, mamurluk

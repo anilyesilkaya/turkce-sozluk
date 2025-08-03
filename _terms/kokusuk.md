@@ -2,6 +2,7 @@
 layout: term
 title: kokuşuk
 slug: kokusuk
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kokmuş

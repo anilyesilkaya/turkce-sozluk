@@ -2,6 +2,7 @@
 layout: term
 title: haram olmak
 slug: haram-olmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - bir şeyden gereği gibi yararlanamamak

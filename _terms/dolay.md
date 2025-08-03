@@ -2,6 +2,7 @@
 layout: term
 title: dolay
 slug: dolay
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir yeri saran başka yerlerin bütünü; civar

@@ -2,6 +2,7 @@
 layout: term
 title: kıymasız
 slug: kiymasiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - İçinde kıyma bulunmayan (yemek)

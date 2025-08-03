@@ -2,6 +2,7 @@
 layout: term
 title: gelecek zaman görünümü
 slug: gelecek-zaman-gorunumu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gelecek zaman sıfat-fiiliyle yardımcı fiilin birlikte kullanılmasından ortaya çıkan ve niyet kavramı veren görünüm

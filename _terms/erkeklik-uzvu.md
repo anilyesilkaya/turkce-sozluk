@@ -2,6 +2,7 @@
 layout: term
 title: erkeklik uzvu
 slug: erkeklik-uzvu
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► erkeklik organı

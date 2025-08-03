@@ -2,6 +2,7 @@
 layout: term
 title: tevatür
 slug: tevatur
+letter: T
 lisan: Arapça tevātur
 anlamlar:
 - Yaygın söylenti

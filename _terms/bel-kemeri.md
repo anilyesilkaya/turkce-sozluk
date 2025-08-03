@@ -2,6 +2,7 @@
 layout: term
 title: bel kemeri
 slug: bel-kemeri
+letter: B
 lisan: Türkçe
 anlamlar:
 - Elbise üzerinden bele dolayarak bir toka ile tutturulan, deri, kumaş veya metalden yapılan özel bağ; bel bağı

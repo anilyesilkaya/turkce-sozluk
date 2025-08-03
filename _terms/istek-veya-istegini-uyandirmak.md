@@ -2,6 +2,7 @@
 layout: term
 title: istek (veya isteğini) uyandırmak
 slug: istek-veya-istegini-uyandirmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - istemesine, arzu duymasına yol açmak

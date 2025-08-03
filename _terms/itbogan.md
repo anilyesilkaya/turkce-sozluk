@@ -2,6 +2,7 @@
 layout: term
 title: itboğan
 slug: itbogan
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► kurtboğan

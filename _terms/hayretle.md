@@ -2,6 +2,7 @@
 layout: term
 title: hayretle
 slug: hayretle
+letter: H
 lisan: Türkçe
 anlamlar:
 - Şaşkın bir biçimde

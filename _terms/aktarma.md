@@ -2,6 +2,7 @@
 layout: term
 title: aktarma
 slug: aktarma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aktarmak işi

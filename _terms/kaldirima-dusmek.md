@@ -2,6 +2,7 @@
 layout: term
 title: kaldırıma düşmek
 slug: kaldirima-dusmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - önemini, değerini yitirmek

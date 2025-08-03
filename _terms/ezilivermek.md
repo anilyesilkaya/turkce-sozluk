@@ -2,6 +2,7 @@
 layout: term
 title: ezilivermek
 slug: ezilivermek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Çabucak veya kısa sürede ezilmek

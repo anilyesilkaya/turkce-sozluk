@@ -2,6 +2,7 @@
 layout: term
 title: yağ asidi
 slug: yag-asidi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Esterlerle bileşikler yaparak yağ moleküllerini meydana getiren maddeler

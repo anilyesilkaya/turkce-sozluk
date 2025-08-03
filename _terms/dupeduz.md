@@ -2,6 +2,7 @@
 layout: term
 title: düpedüz
 slug: dupeduz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çok düz ve doğru bir biçimde, dümdüz olarak

@@ -2,6 +2,7 @@
 layout: term
 title: damdan düşercesine
 slug: damdan-dusercesine
+letter: D
 lisan: Türkçe
 anlamlar:
 - birdenbire ve yersiz olarak

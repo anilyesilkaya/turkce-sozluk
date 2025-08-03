@@ -2,6 +2,7 @@
 layout: term
 title: alan talan etmek
 slug: alan-talan-etmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - darmadağınık bir duruma getirmek, altüst etmek

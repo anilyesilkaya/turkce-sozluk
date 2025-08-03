@@ -2,6 +2,7 @@
 layout: term
 title: zürriyetli
 slug: zurriyetli
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Dölü olan, soyu olan

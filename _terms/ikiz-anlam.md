@@ -2,6 +2,7 @@
 layout: term
 title: ikiz anlam
 slug: ikiz-anlam
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bir anlatımın, iki türlü anlam verecek biçimde kurulmuş olması

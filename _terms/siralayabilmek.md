@@ -2,6 +2,7 @@
 layout: term
 title: sıralayabilmek
 slug: siralayabilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıralama ihtimali veya imkânı bulunmak

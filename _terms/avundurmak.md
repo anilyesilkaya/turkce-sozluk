@@ -2,6 +2,7 @@
 layout: term
 title: avundurmak
 slug: avundurmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► avutmak

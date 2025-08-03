@@ -2,6 +2,7 @@
 layout: term
 title: taayyüş etmek
 slug: taayyus-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - geçimini sağlamak

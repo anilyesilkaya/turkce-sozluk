@@ -2,6 +2,7 @@
 layout: term
 title: yalın durum
 slug: yalin-durum
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Adın, fiile veya ada eksiz olarak bağlanması durumu; yalın hâl, mücerret, nominatif

@@ -2,6 +2,7 @@
 layout: term
 title: sarhoşlaşmak
 slug: sarhoslasmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sarhoş duruma gelmek; sarhoş olmak

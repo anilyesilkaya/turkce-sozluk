@@ -2,6 +2,7 @@
 layout: term
 title: duruşma
 slug: durusma
+letter: D
 lisan: Türkçe
 anlamlar:
 - Davacı ile davalının yargıç karşısında hazır bulundukları yargılama evresi; dava, murafaa

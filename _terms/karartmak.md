@@ -2,6 +2,7 @@
 layout: term
 title: karartmak
 slug: karartmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Rengini karaya çevirmek; yakmak

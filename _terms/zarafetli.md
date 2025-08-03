@@ -2,6 +2,7 @@
 layout: term
 title: zarafetli
 slug: zarafetli
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► zarif

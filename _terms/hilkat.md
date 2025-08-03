@@ -2,6 +2,7 @@
 layout: term
 title: hilkat
 slug: hilkat
+letter: H
 lisan: Arapça ḫilḳat
 anlamlar:
 - ► yaradılış

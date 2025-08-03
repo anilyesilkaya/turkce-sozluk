@@ -2,6 +2,7 @@
 layout: term
 title: repertuvar
 slug: repertuvar
+letter: R
 lisan: Fransızca répertoire
 anlamlar:
 - Sanatçının söylemek üzere çalışıp hazırlandığı şarkı veya türkü listesi

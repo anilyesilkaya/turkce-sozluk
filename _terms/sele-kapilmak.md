@@ -2,6 +2,7 @@
 layout: term
 title: sele kapılmak
 slug: sele-kapilmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - selle sürüklenip gitmek

@@ -2,6 +2,7 @@
 layout: term
 title: bu şekilde
 slug: bu-sekilde
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► böyle

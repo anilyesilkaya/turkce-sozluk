@@ -2,6 +2,7 @@
 layout: term
 title: cadılaşmak
 slug: cadilasmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - Kadın huysuz gibi davranmaya başlamak

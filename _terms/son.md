@@ -2,6 +2,7 @@
 layout: term
 title: son
 slug: son
+letter: S
 lisan: Türkçe
 anlamlar:
 - Şimdiki zamana en yakın zamandan beri olan veya bu zamanda yapılmış, olmuş olan; encam, hatime, ilk karşıtı

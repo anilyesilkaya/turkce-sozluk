@@ -2,6 +2,7 @@
 layout: term
 title: vesvesesiz
 slug: vesvesesiz
+letter: V
 lisan: Türkçe
 anlamlar:
 - ► kuruntusuz

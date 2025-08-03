@@ -2,6 +2,7 @@
 layout: term
 title: cephaneci
 slug: cephaneci
+letter: C
 lisan: Türkçe
 anlamlar:
 - Kara, deniz ve hava birliklerinde cephanelik görevlisi veya sorumlusu olan kimse

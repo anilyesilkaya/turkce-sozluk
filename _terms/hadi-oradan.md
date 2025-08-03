@@ -2,6 +2,7 @@
 layout: term
 title: hadi oradan
 slug: hadi-oradan
+letter: H
 lisan: Türkçe
 anlamlar:
 - haydi oradan

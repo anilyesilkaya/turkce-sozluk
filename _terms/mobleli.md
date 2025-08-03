@@ -2,6 +2,7 @@
 layout: term
 title: möbleli
 slug: mobleli
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► mobilyalı

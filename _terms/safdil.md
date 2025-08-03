@@ -2,6 +2,7 @@
 layout: term
 title: safdil
 slug: safdil
+letter: S
 lisan: Arapça ṣāf + Farsça dil
 anlamlar:
 - ► saf (II)

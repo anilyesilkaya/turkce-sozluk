@@ -2,6 +2,7 @@
 layout: term
 title: yansızlık
 slug: yansizlik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► tarafsızlık

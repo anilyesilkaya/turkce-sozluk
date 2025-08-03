@@ -2,6 +2,7 @@
 layout: term
 title: tüydürmek
 slug: tuydurmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► çalmak

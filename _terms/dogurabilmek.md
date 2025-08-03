@@ -2,6 +2,7 @@
 layout: term
 title: doğurabilmek
 slug: dogurabilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Doğurma ihtimali veya imkânı bulunmak

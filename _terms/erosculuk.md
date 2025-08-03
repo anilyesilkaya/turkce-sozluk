@@ -2,6 +2,7 @@
 layout: term
 title: erosçuluk
 slug: erosculuk
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► erotizm

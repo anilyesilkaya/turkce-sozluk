@@ -2,6 +2,7 @@
 layout: term
 title: başrol
 slug: basrol
+letter: B
 lisan: Türkçe baş + Fransızca rôle
 anlamlar:
 - Tiyatro, sinema veya televizyon dizisinde en önemli rol

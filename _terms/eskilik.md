@@ -2,6 +2,7 @@
 layout: term
 title: eskilik
 slug: eskilik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eski olma durumu; antikite

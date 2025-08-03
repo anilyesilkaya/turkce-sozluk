@@ -2,6 +2,7 @@
 layout: term
 title: ılgım salgım
 slug: ilgim-salgim
+letter: I
 lisan: Türkçe
 anlamlar:
 - Belli belirsiz bir biçimde

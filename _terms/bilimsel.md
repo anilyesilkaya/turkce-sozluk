@@ -2,6 +2,7 @@
 layout: term
 title: bilimsel
 slug: bilimsel
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilimle ilgili, bilime dayanan; ilmî

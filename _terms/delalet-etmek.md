@@ -2,6 +2,7 @@
 layout: term
 title: delalet etmek
 slug: delalet-etmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - yol göstermek

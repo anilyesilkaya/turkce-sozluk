@@ -2,6 +2,7 @@
 layout: term
 title: uçukluk
 slug: ucukluk
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uçuk olma durumu

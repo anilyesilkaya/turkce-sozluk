@@ -2,6 +2,7 @@
 layout: term
 title: elipsoit
 slug: elipsoit
+letter: E
 lisan: Fransızca ellipsoïde
 anlamlar:
 - Elipse benzeyen

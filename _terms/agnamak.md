@@ -2,6 +2,7 @@
 layout: term
 title: ağnamak
 slug: agnamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Hayvan yere yatıp yuvarlanmak

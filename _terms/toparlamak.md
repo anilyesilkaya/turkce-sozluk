@@ -2,6 +2,7 @@
 layout: term
 title: toparlamak
 slug: toparlamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir araya getirmek, toplu bir duruma sokmak

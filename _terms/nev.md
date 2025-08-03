@@ -2,6 +2,7 @@
 layout: term
 title: nev
 slug: nev
+letter: N
 lisan: Arapça nevʿ
 anlamlar:
 - Çeşit, cins, tür

@@ -2,6 +2,7 @@
 layout: term
 title: sırmalı
 slug: sirmali
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sırma ile işlenmiş veya süslenmiş

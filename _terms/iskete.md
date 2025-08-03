@@ -2,6 +2,7 @@
 layout: term
 title: iskete
 slug: iskete
+letter: I
 lisan: Rumca
 anlamlar:
 - Serçegillerden, gagaları dişli, zararlı böcek ve kurtlarla beslenen, güzel sesli bir kuş (Parus ater)

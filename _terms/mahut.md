@@ -2,6 +2,7 @@
 layout: term
 title: mahut
 slug: mahut
+letter: M
 lisan: Arapça maʿhūd
 anlamlar:
 - Bilinen, adı geçen, sözü geçen

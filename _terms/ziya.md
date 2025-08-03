@@ -2,6 +2,7 @@
 layout: term
 title: ziya
 slug: ziya
+letter: Z
 lisan: Arapça żiyāʾ
 anlamlar:
 - ► ışık

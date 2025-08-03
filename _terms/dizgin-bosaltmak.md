@@ -2,6 +2,7 @@
 layout: term
 title: dizgin boşaltmak
 slug: dizgin-bosaltmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - atı hızlı bir biçimde sürmek

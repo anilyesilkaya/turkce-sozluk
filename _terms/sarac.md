@@ -2,6 +2,7 @@
 layout: term
 title: saraç
 slug: sarac
+letter: S
 lisan: Arapça serrāc
 anlamlar:
 - Koşum ve eyer takımları yapan veya satan kimse

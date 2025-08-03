@@ -2,6 +2,7 @@
 layout: term
 title: tatsızlaşmak
 slug: tatsizlasmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tadı azalmak, tadı kalmamak

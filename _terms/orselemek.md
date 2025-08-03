@@ -2,6 +2,7 @@
 layout: term
 title: örselemek
 slug: orselemek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Yıpratmak, eskitmek, hırpalamak, zedelemek

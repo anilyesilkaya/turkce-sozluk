@@ -2,6 +2,7 @@
 layout: term
 title: turaç
 slug: turac
+letter: T
 lisan: Arapça durrāc
 anlamlar:
 - Sülüngillerden, uzunluğu 34 santimetre olan, soyu azalmış bir tür kuş (Tetrao francolinus)

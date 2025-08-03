@@ -2,6 +2,7 @@
 layout: term
 title: döküm
 slug: dokum
+letter: D
 lisan: Türkçe
 anlamlar:
 - Kalıba dökme işi ve bunun yapılış yöntemi

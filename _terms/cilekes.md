@@ -2,6 +2,7 @@
 layout: term
 title: çilekeş
 slug: cilekes
+letter: Ç
 lisan: Farsça çillekeş
 anlamlar:
 - Hayatı boyunca birçok sıkıntı ve üzüntü çekmiş (kimse)

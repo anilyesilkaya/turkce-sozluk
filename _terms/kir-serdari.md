@@ -2,6 +2,7 @@
 layout: term
 title: kır serdarı
 slug: kir-serdari
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kırlarda eşkıyanın ardına düşüp yolların güvenliğini sağlamakla görevlilerin başı

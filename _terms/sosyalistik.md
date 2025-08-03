@@ -2,6 +2,7 @@
 layout: term
 title: sosyalistik
 slug: sosyalistik
+letter: S
 lisan: Fransızca socialistique
 anlamlar:
 - Toplumculukla ilgili, toplumculuğa ait

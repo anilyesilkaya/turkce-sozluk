@@ -2,6 +2,7 @@
 layout: term
 title: geçim derdi
 slug: gecim-derdi
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► geçim sıkıntısı

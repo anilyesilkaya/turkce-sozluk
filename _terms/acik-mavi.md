@@ -2,6 +2,7 @@
 layout: term
 title: açık mavi
 slug: acik-mavi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Mavinin bir veya birkaç ton açığı

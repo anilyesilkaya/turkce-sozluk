@@ -2,6 +2,7 @@
 layout: term
 title: açık kart
 slug: acik-kart
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► açık çek

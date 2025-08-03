@@ -2,6 +2,7 @@
 layout: term
 title: oranlamak
 slug: oranlamak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Ölçmek, hesaplamak, hesap etmek

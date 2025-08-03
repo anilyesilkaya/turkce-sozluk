@@ -2,6 +2,7 @@
 layout: term
 title: ekmeğini taştan çıkarmak
 slug: ekmegini-tastan-cikarmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - geçimini sağlamakta çok becerikli olmak

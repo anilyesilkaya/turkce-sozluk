@@ -2,6 +2,7 @@
 layout: term
 title: sefa geldin (veya geldiniz)
 slug: sefa-geldin-veya-geldiniz
+letter: S
 lisan: Türkçe
 anlamlar:
 - '"hoş geldin, hoş geldiniz" anlamında kullanılan ağırlama, karşılama sözü'

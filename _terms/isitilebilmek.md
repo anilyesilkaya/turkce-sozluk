@@ -2,6 +2,7 @@
 layout: term
 title: işitilebilmek
 slug: isitilebilmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İşitilme ihtimali bulunmak

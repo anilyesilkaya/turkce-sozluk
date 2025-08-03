@@ -2,6 +2,7 @@
 layout: term
 title: otlak
 slug: otlak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Hayvan otlatılan yer; salmalık, yaylak, mera, örü (II), yaylım

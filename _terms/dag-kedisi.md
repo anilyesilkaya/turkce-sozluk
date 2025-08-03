@@ -2,6 +2,7 @@
 layout: term
 title: dağ kedisi
 slug: dag-kedisi
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► yaban kedisi

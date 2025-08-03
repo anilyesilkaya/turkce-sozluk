@@ -2,6 +2,7 @@
 layout: term
 title: alıştırma
 slug: alistirma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alıştırmak işi

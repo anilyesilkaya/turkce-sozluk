@@ -2,6 +2,7 @@
 layout: term
 title: latifçe
 slug: latifce
+letter: L
 lisan: Türkçe
 anlamlar:
 - Latif, hoş

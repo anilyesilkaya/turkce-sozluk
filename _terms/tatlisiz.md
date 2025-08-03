@@ -2,6 +2,7 @@
 layout: term
 title: tatlısız
 slug: tatlisiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tatlısı olmayan, içinde tatlı bulunmayan

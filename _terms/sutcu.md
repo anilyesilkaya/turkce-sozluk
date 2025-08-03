@@ -2,6 +2,7 @@
 layout: term
 title: sütçü
 slug: sutcu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Süt satan kimse

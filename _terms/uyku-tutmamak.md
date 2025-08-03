@@ -2,6 +2,7 @@
 layout: term
 title: uyku tutmamak
 slug: uyku-tutmamak
+letter: U
 lisan: Türkçe
 anlamlar:
 - uyuyamamak

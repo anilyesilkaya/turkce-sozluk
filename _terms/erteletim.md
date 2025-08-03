@@ -2,6 +2,7 @@
 layout: term
 title: erteletim
 slug: erteletim
+letter: E
 lisan: Türkçe
 anlamlar:
 - Resmî geciktirme; moratoryum

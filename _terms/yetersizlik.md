@@ -2,6 +2,7 @@
 layout: term
 title: yetersizlik
 slug: yetersizlik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yetersiz olma durumu; ehliyetsizlik, fakirlik, kifayetsizlik, yoksulluk

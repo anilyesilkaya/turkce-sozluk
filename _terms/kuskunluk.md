@@ -2,6 +2,7 @@
 layout: term
 title: küskünlük
 slug: kuskunluk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Küskün olma durumu; küsü

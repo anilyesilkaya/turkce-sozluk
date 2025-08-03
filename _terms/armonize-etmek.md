@@ -2,6 +2,7 @@
 layout: term
 title: armonize etmek
 slug: armonize-etmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - herhangi bir melodiye eşlik etmesi için onunla uyumlu bölümler besteleyerek müzikal yapıtlar meydana getirmek

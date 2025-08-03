@@ -2,6 +2,7 @@
 layout: term
 title: çalçenelik
 slug: calcenelik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çalçene olma durumu

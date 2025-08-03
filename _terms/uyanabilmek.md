@@ -2,6 +2,7 @@
 layout: term
 title: uyanabilmek
 slug: uyanabilmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyanma ihtimali veya imkânı bulunmak

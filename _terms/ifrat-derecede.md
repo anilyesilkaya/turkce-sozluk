@@ -2,6 +2,7 @@
 layout: term
 title: ifrat derecede
 slug: ifrat-derecede
+letter: I
 lisan: Türkçe
 anlamlar:
 - Aşırı ölçüde

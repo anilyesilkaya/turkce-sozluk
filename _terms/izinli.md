@@ -2,6 +2,7 @@
 layout: term
 title: izinli
 slug: izinli
+letter: I
 lisan: Türkçe
 anlamlar:
 - İzin alarak belli bir süre için bir yerden ayrılmış

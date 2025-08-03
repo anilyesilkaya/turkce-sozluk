@@ -2,6 +2,7 @@
 layout: term
 title: pansuman
 slug: pansuman
+letter: P
 lisan: Fransızca pansement
 anlamlar:
 - Yara temizliği ve bakımı

@@ -2,6 +2,7 @@
 layout: term
 title: övülmek
 slug: ovulmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Övme işine konu olmak

@@ -2,6 +2,7 @@
 layout: term
 title: gelir
 slug: gelir
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bir kimseye veya topluluğa belli zamanlarda, belli yerlerden gelen para; hasılat, varidat

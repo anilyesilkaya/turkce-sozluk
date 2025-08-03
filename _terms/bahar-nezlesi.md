@@ -2,6 +2,7 @@
 layout: term
 title: bahar nezlesi
 slug: bahar-nezlesi
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► saman nezlesi

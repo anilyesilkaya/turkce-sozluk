@@ -2,6 +2,7 @@
 layout: term
 title: katmerli iyelik
 slug: katmerli-iyelik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Üst üste kullanılmış iki iyelik eki

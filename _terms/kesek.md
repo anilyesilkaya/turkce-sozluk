@@ -2,6 +2,7 @@
 layout: term
 title: kesek
 slug: kesek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bel, çapa veya sabanın topraktan kaldırdığı iri parça

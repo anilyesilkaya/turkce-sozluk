@@ -2,6 +2,7 @@
 layout: term
 title: eklektizm
 slug: eklektizm
+letter: E
 lisan: Fransızca éclectisme
 anlamlar:
 - ► seçmecilik

@@ -2,6 +2,7 @@
 layout: term
 title: çoğaltabilme
 slug: cogaltabilme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çoğaltabilmek işi

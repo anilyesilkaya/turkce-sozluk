@@ -2,6 +2,7 @@
 layout: term
 title: yaramazlık
 slug: yaramazlik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaramaz olma durumu

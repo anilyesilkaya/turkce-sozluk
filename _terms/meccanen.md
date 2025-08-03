@@ -2,6 +2,7 @@
 layout: term
 title: meccanen
 slug: meccanen
+letter: M
 lisan: Arapça meccānen
 anlamlar:
 - ► bedava

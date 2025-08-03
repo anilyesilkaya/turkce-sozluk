@@ -2,6 +2,7 @@
 layout: term
 title: insafsız
 slug: insafsiz
+letter: I
 lisan: Türkçe
 anlamlar:
 - İnsafı olmayan

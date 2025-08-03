@@ -2,6 +2,7 @@
 layout: term
 title: emektar
 slug: emektar
+letter: E
 lisan: Türkçe emek + Farsça -dār
 anlamlar:
 - Bir görevde uzun süre kalıp o işe emeği geçmiş olan (kimse)

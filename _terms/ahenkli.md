@@ -2,6 +2,7 @@
 layout: term
 title: ahenkli
 slug: ahenkli
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► uyumlu

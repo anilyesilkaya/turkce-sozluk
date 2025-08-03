@@ -2,6 +2,7 @@
 layout: term
 title: yavuklu
 slug: yavuklu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► nişanlı

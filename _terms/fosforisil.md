@@ -2,6 +2,7 @@
 layout: term
 title: fosforışıl
 slug: fosforisil
+letter: F
 lisan: Fransızca phosphore + Türkçe ışıl
 anlamlar:
 - Fosforışı özelliği olan

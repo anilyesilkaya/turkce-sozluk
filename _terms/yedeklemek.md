@@ -2,6 +2,7 @@
 layout: term
 title: yedeklemek
 slug: yedeklemek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir şeyin yedeğini sağlamak

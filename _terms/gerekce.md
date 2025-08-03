@@ -2,6 +2,7 @@
 layout: term
 title: gerekçe
 slug: gerekce
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bir şeyi gerekli duruma getiren, yapılmasına sebep olan şey, gerektirici sebep; mucip sebep, esbabımucibe

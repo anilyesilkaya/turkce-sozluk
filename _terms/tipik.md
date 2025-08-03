@@ -2,6 +2,7 @@
 layout: term
 title: tipik
 slug: tipik
+letter: T
 lisan: Fransızca typique
 anlamlar:
 - Bir kimseyi veya nesneyi niteleyen; karakteristik

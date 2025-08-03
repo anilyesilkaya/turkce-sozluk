@@ -2,6 +2,7 @@
 layout: term
 title: hardallık
 slug: hardallik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hardal yapımında kullanılan malzeme

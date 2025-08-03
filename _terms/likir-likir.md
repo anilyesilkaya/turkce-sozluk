@@ -2,6 +2,7 @@
 layout: term
 title: lıkır lıkır
 slug: likir-likir
+letter: L
 lisan: Türkçe
 anlamlar:
 - '"Lık lık" diye ses çıkararak'

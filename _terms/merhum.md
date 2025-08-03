@@ -2,6 +2,7 @@
 layout: term
 title: merhum
 slug: merhum
+letter: M
 lisan: Arapça merḥūm
 anlamlar:
 - Ölmüş Müslüman erkek; rahmetli, rahmetlik

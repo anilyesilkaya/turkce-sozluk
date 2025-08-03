@@ -2,6 +2,7 @@
 layout: term
 title: deli olmak
 slug: deli-olmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - birini çok sevmek

@@ -2,6 +2,7 @@
 layout: term
 title: havaleli
 slug: havaleli
+letter: H
 lisan: Türkçe
 anlamlar:
 - Havalesi olan

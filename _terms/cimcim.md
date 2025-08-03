@@ -2,6 +2,7 @@
 layout: term
 title: çimçim
 slug: cimcim
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Ege Bölgesi’ne özgü, haşlanarak, kızartılarak, sotelenerek yenebilen, lezzetli, aynı zamanda levrek, karagöz, lagos vb. balıkların avlanmasında cansız yem olarak kullanılan küçük karides

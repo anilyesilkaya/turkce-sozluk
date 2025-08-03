@@ -2,6 +2,7 @@
 layout: term
 title: yuvarlanmak
 slug: yuvarlanmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Kendi üzerinde dönerek hareket etmek; tekerlenmek

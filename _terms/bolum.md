@@ -2,6 +2,7 @@
 layout: term
 title: bölüm
 slug: bolum
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir bütünü oluşturan parçaların her biri; fasıl, kısım

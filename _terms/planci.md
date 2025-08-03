@@ -2,6 +2,7 @@
 layout: term
 title: plancı
 slug: planci
+letter: P
 lisan: Türkçe
 anlamlar:
 - Plan hazırlayan veya yapan kimse

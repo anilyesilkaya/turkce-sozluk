@@ -2,6 +2,7 @@
 layout: term
 title: olabilirlik
 slug: olabilirlik
+letter: O
 lisan: Türkçe
 anlamlar:
 - Olabilir olma durumu; olurluk, mümkünlük

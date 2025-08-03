@@ -2,6 +2,7 @@
 layout: term
 title: kuçmak
 slug: kucmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kucaklamak

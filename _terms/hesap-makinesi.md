@@ -2,6 +2,7 @@
 layout: term
 title: hesap makinesi
 slug: hesap-makinesi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Birçok sayısal işlemi yapmaya yarayan araç

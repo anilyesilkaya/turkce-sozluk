@@ -2,6 +2,7 @@
 layout: term
 title: ümit kesmek
 slug: umit-kesmek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - umut kesmek

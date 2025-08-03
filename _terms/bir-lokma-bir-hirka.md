@@ -2,6 +2,7 @@
 layout: term
 title: bir lokma bir hırka
 slug: bir-lokma-bir-hirka
+letter: B
 lisan: Türkçe
 anlamlar:
 - hayatta azla yetinmeyi, dervişçe geçinmeyi anlatan bir söz

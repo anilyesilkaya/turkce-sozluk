@@ -2,6 +2,7 @@
 layout: term
 title: istavroz
 slug: istavroz
+letter: I
 lisan: Rumca
 anlamlar:
 - ► haç

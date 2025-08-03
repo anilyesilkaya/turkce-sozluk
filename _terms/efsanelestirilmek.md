@@ -2,6 +2,7 @@
 layout: term
 title: efsaneleştirilmek
 slug: efsanelestirilmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Efsane niteliği kazandırılmak

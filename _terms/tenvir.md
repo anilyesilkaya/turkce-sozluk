@@ -2,6 +2,7 @@
 layout: term
 title: tenvir
 slug: tenvir
+letter: T
 lisan: Arapça tenvīr
 anlamlar:
 - ► aydınlatma

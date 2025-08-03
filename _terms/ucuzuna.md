@@ -2,6 +2,7 @@
 layout: term
 title: ucuzuna
 slug: ucuzuna
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► ucuzca

@@ -2,6 +2,7 @@
 layout: term
 title: moruklamak
 slug: moruklamak
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► yaşlanmak

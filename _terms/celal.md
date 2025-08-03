@@ -2,6 +2,7 @@
 layout: term
 title: celal
 slug: celal
+letter: C
 lisan: Arapça celāl
 anlamlar:
 - ► ululuk

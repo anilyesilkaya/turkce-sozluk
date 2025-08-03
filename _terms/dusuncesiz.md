@@ -2,6 +2,7 @@
 layout: term
 title: düşüncesiz
 slug: dusuncesiz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düşüncesi olmayan

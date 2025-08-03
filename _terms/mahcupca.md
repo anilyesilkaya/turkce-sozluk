@@ -2,6 +2,7 @@
 layout: term
 title: mahcupça
 slug: mahcupca
+letter: M
 lisan: Türkçe
 anlamlar:
 - Utangaç bir biçimde; mahcubane

@@ -2,6 +2,7 @@
 layout: term
 title: şuncası
 slug: suncasi
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şu kadarı

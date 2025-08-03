@@ -2,6 +2,7 @@
 layout: term
 title: çakal
 slug: cakal
+letter: Ç
 lisan: Farsça şaġāl
 anlamlar:
 - Etoburlardan, sürü hâlinde yaşayan, kurttan küçük bir yaban hayvanı (Canis aureus)

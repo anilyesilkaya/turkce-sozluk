@@ -2,6 +2,7 @@
 layout: term
 title: usandırıcı
 slug: usandirici
+letter: U
 lisan: Türkçe
 anlamlar:
 - Usanç verici

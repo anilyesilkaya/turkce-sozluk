@@ -2,6 +2,7 @@
 layout: term
 title: 'kardeş kanı '
 slug: kardes-kani
+letter: K
 lisan: Türkçe
 anlamlar:
 - Aralarında kan bağı olanların kanı

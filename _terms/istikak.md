@@ -2,6 +2,7 @@
 layout: term
 title: iştikak
 slug: istikak
+letter: I
 lisan: Arapça iştiḳāḳ
 anlamlar:
 - Yarılmış bir şeyin bir bölümünü alma

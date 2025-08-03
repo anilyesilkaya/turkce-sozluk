@@ -2,6 +2,7 @@
 layout: term
 title: kısıt
 slug: kisit
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kişinin yurttaşlık haklarını kullanma yetkisinin yargı kuruluşları tarafından kaldırılması

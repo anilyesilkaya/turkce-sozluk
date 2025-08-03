@@ -2,6 +2,7 @@
 layout: term
 title: çöpçülük
 slug: copculuk
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çöpçünün yaptığı iş; gübürcülük

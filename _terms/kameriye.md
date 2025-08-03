@@ -2,6 +2,7 @@
 layout: term
 title: kameriye
 slug: kameriye
+letter: K
 lisan: İtalyanca camerilla
 anlamlar:
 - Bahçelerde yazın oturulmak için ahşap veya metalden yapılan, üstü kubbeli, kenarları açık veya kafesli, yeşillik vb. ile çevrili olan alan; çardak, gazebo

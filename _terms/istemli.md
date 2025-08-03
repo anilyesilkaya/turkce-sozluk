@@ -2,6 +2,7 @@
 layout: term
 title: istemli
 slug: istemli
+letter: I
 lisan: Türkçe
 anlamlar:
 - Yapılıp yapılmaması insanın kendi isteğine bağlı olan

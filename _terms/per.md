@@ -2,6 +2,7 @@
 layout: term
 title: per
 slug: per
+letter: P
 lisan: Fransızca paire
 anlamlar:
 - Bazı iskambil oyunlarında farklı renklerden iki benzer kartın bir arada bulunma durumu

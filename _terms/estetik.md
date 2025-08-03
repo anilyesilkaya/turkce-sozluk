@@ -2,6 +2,7 @@
 layout: term
 title: estetik
 slug: estetik
+letter: E
 lisan: Fransızca esthétique
 anlamlar:
 - Sanatsal yaratının genel yasalarıyla sanatta ve hayatta güzelliğin kuramsal bilimi; güzel duyu, bedii, bediiyat

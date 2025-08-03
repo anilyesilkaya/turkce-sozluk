@@ -2,6 +2,7 @@
 layout: term
 title: mum gibi
 slug: mum-gibi
+letter: M
 lisan: Türkçe
 anlamlar:
 - dosdoğru, dimdik

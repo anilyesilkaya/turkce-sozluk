@@ -2,6 +2,7 @@
 layout: term
 title: benzine kan gelmek
 slug: benzine-kan-gelmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - sağlıklı duruma gelmek, canlanmak

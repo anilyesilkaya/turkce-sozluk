@@ -2,6 +2,7 @@
 layout: term
 title: üzerlik
 slug: uzerlik
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Sedef otugillerden, yaprakları almaşık, çiçekleri beyaz renkte, susama benzeyen tohumları acı olan, halk hekimliğinde tedavi amaçlı, tütsü olarak kullanılan bir bitki (Peganum harmala)

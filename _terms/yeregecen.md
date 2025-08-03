@@ -2,6 +2,7 @@
 layout: term
 title: yeregeçen
 slug: yeregecen
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► havuç

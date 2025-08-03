@@ -2,6 +2,7 @@
 layout: term
 title: bir sıkımlık canı olmak
 slug: bir-sikimlik-cani-olmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - çok cılız ve güçsüz olmak

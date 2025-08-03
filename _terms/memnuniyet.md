@@ -2,6 +2,7 @@
 layout: term
 title: memnuniyet
 slug: memnuniyet
+letter: M
 lisan: Arapça memnūniyyet
 anlamlar:
 - Memnun olma, sevinç duyma, sevinme

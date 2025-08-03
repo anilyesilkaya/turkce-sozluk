@@ -2,6 +2,7 @@
 layout: term
 title: armudi
 slug: armudi
+letter: A
 lisan: Farsça armūd + Arapça -į
 anlamlar:
 - Armut biçiminde olan

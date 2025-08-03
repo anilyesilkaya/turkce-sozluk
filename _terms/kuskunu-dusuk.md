@@ -2,6 +2,7 @@
 layout: term
 title: kuskunu düşük
 slug: kuskunu-dusuk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kuskun yeri sağrıdan aşağı olan (at)

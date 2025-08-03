@@ -2,6 +2,7 @@
 layout: term
 title: beze
 slug: beze
+letter: B
 lisan: Fransızca baiser
 anlamlar:
 - Yumurta akı ve pudra şekeri ile yapılan bir çeşit pasta türü

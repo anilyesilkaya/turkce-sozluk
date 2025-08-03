@@ -2,6 +2,7 @@
 layout: term
 title: yüreği yufka
 slug: yuregi-yufka
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Üzüntülü, acıklı durumlara dayanamayan, merhametli olan (kimse)

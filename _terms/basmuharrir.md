@@ -2,6 +2,7 @@
 layout: term
 title: başmuharrir
 slug: basmuharrir
+letter: B
 lisan: Türkçe baş + Arapça muḥarrir
 anlamlar:
 - ► başyazar

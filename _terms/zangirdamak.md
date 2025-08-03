@@ -2,6 +2,7 @@
 layout: term
 title: zangırdamak
 slug: zangirdamak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Güçlü bir ses çıkararak titremek veya sallanmak; zıngıldamak, zıngırdamak

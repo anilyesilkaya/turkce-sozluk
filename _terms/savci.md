@@ -2,6 +2,7 @@
 layout: term
 title: savcı
 slug: savci
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kamu yararını gözetmek amacıyla devlet adına dava açmaya yetkili olan, mahkemelerde tespit ettiği suç delillerini ortaya koyarak sanıkları kovuşturan görevli; müddeiumumi

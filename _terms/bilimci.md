@@ -2,6 +2,7 @@
 layout: term
 title: bilimci
 slug: bilimci
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bilim adamı

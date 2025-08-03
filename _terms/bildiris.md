@@ -2,6 +2,7 @@
 layout: term
 title: bildiriş
 slug: bildiris
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bildirmek işi

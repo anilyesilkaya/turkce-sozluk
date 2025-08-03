@@ -2,6 +2,7 @@
 layout: term
 title: testere balığı
 slug: testere-baligi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Testere balığıgillerden, Atlantik Okyanusu ve Akdeniz’de yaşayan, burnu uzun ve burnunun iki yanında testere gibi dişleri bulunan, köpek balığına benzer iri bir balık; marangoz balığı (Pristis pristis)

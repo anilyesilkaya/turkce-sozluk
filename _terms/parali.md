@@ -2,6 +2,7 @@
 layout: term
 title: paralı
 slug: parali
+letter: P
 lisan: Türkçe
 anlamlar:
 - Parası çok olan, zengin (kimse)

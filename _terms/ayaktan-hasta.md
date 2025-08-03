@@ -2,6 +2,7 @@
 layout: term
 title: ayaktan hasta
 slug: ayaktan-hasta
+letter: A
 lisan: Türkçe
 anlamlar:
 - Hastanede birkaç saat yatırılarak tetkik ve tedavisi yapılan hasta

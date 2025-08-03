@@ -2,6 +2,7 @@
 layout: term
 title: tedavi
 slug: tedavi
+letter: T
 lisan: Arapça tedāvī
 anlamlar:
 - Çeşitli yöntemlerle hastalığı iyileştirme; terapi

@@ -2,6 +2,7 @@
 layout: term
 title: şövalye
 slug: sovalye
+letter: Ş
 lisan: Fransızca chevalier
 anlamlar:
 - Eski Roma'da üç sınıftan ikincisinin üyesi olan yurttaş

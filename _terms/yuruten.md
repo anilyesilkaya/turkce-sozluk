@@ -2,6 +2,7 @@
 layout: term
 title: yürüten
 slug: yuruten
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yürüteç

@@ -2,6 +2,7 @@
 layout: term
 title: bölünme
 slug: bolunme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bölünmek işi

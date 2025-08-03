@@ -2,6 +2,7 @@
 layout: term
 title: prenslik
 slug: prenslik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Prens olma durumu

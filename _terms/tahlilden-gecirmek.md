@@ -2,6 +2,7 @@
 layout: term
 title: tahlilden geçirmek
 slug: tahlilden-gecirmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - gözden geçirmek

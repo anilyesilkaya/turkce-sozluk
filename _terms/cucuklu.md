@@ -2,6 +2,7 @@
 layout: term
 title: cücüklü
 slug: cucuklu
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cücüğü olan

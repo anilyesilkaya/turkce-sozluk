@@ -2,6 +2,7 @@
 layout: term
 title: burhan
 slug: burhan
+letter: B
 lisan: Arapça burhān
 anlamlar:
 - ► kanıt

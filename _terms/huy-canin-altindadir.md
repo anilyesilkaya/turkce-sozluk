@@ -2,6 +2,7 @@
 layout: term
 title: huy canın altındadır
 slug: huy-canin-altindadir
+letter: H
 lisan: Türkçe
 anlamlar:
 - '"doğuştan gelen özellikler değiştirilemez" anlamında kullanılan bir söz'

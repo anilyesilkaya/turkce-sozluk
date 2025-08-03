@@ -2,6 +2,7 @@
 layout: term
 title: kafasızlık
 slug: kafasizlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kafasız olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: sübekli
 slug: subekli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sübeği olan

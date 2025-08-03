@@ -2,6 +2,7 @@
 layout: term
 title: yalın kat
 slug: yalin-kat
+letter: Y
 lisan: Türkçe
 anlamlar:
 - İnce, tek katı olan

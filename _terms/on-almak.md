@@ -2,6 +2,7 @@
 layout: term
 title: ön almak
 slug: on-almak
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - önlemek, engellemek

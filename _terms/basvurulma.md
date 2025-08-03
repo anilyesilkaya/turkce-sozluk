@@ -2,6 +2,7 @@
 layout: term
 title: başvurulma
 slug: basvurulma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başvurulmak durumu

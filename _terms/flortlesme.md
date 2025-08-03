@@ -2,6 +2,7 @@
 layout: term
 title: flörtleşme
 slug: flortlesme
+letter: F
 lisan: Türkçe
 anlamlar:
 - Flörtleşmek işi

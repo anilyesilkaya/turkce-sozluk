@@ -2,6 +2,7 @@
 layout: term
 title: dar vakit
 slug: dar-vakit
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► dar zaman

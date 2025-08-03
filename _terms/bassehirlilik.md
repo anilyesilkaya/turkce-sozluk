@@ -2,6 +2,7 @@
 layout: term
 title: başşehirlilik
 slug: bassehirlilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► başkentlilik

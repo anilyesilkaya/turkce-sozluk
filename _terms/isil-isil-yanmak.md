@@ -2,6 +2,7 @@
 layout: term
 title: ışıl ışıl yanmak
 slug: isil-isil-yanmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - parlamak

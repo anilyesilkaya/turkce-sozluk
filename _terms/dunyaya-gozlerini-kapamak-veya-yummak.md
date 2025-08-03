@@ -2,6 +2,7 @@
 layout: term
 title: dünyaya gözlerini kapamak (veya yummak)
 slug: dunyaya-gozlerini-kapamak-veya-yummak
+letter: D
 lisan: Türkçe
 anlamlar:
 - ölmek

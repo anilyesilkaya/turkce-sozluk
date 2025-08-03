@@ -2,6 +2,7 @@
 layout: term
 title: mapus
 slug: mapus
+letter: M
 lisan: Arapça maḥbūs
 anlamlar:
 - ► mahpus

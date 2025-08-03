@@ -2,6 +2,7 @@
 layout: term
 title: sözsel
 slug: sozsel
+letter: S
 lisan: Türkçe
 anlamlar:
 - Söze ilişkin, sözle ilgili

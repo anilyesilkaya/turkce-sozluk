@@ -2,6 +2,7 @@
 layout: term
 title: belirtilen
 slug: belirtilen
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► tamlanan

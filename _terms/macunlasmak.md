@@ -2,6 +2,7 @@
 layout: term
 title: macunlaşmak
 slug: macunlasmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - Macun koyuluğuna gelmek

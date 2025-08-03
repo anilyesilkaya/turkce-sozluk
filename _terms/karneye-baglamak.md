@@ -2,6 +2,7 @@
 layout: term
 title: karneye bağlamak
 slug: karneye-baglamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - karne ile satmaya başlamak

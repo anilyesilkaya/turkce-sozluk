@@ -2,6 +2,7 @@
 layout: term
 title: beynini kurcalamak
 slug: beynini-kurcalamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - aklı sürekli bir konu üzerinde takılıp kalmak

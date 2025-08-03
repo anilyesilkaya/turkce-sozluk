@@ -2,6 +2,7 @@
 layout: term
 title: fokurdama
 slug: fokurdama
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fokurdamak işi

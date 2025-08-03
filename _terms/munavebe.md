@@ -2,6 +2,7 @@
 layout: term
 title: münavebe
 slug: munavebe
+letter: M
 lisan: Arapça munāvebe
 anlamlar:
 - ► nöbetleşme

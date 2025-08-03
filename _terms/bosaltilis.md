@@ -2,6 +2,7 @@
 layout: term
 title: boşaltılış
 slug: bosaltilis
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boşaltılmak işi

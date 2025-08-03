@@ -2,6 +2,7 @@
 layout: term
 title: el ele vermek
 slug: el-ele-vermek
+letter: E
 lisan: Türkçe
 anlamlar:
 - el tutuşmak

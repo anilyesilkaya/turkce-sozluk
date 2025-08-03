@@ -2,6 +2,7 @@
 layout: term
 title: kıvranma
 slug: kivranma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kıvranmak işi

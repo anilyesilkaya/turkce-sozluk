@@ -2,6 +2,7 @@
 layout: term
 title: kostak
 slug: kostak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Zarif, kibar, çalımlı, güzel giyinmiş, yakışıklı (erkek)

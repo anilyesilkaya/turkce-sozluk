@@ -2,6 +2,7 @@
 layout: term
 title: abdülleziz
 slug: abdulleziz
+letter: A
 lisan: Arapça ḥabb + leẕīẕ
 anlamlar:
 - Akdeniz Bölgesi'nde ve Afrika'da yetişen, çok yıllık, yumrulu ve otsu bir bitki (Cyperus esculentus)

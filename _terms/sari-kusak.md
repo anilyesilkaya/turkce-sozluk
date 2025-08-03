@@ -2,6 +2,7 @@
 layout: term
 title: sarı kuşak
 slug: sari-kusak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Karate, tekvando vb. sporlarda başlangıç derecesinden sonra alınan ikinci kuşak

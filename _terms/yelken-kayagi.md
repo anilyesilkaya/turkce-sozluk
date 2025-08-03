@@ -2,6 +2,7 @@
 layout: term
 title: yelken kayağı
 slug: yelken-kayagi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► sörf

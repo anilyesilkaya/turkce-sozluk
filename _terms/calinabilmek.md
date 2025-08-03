@@ -2,6 +2,7 @@
 layout: term
 title: çalınabilmek
 slug: calinabilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çalınma ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: serpili
 slug: serpili
+letter: S
 lisan: Türkçe
 anlamlar:
 - Serpilmiş

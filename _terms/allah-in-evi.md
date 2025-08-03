@@ -2,6 +2,7 @@
 layout: term
 title: Allah'ın evi
 slug: allah-in-evi
+letter: A
 lisan: Türkçe
 anlamlar:
 - cami, mescit

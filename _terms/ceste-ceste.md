@@ -2,6 +2,7 @@
 layout: term
 title: ceste ceste
 slug: ceste-ceste
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► parça parça

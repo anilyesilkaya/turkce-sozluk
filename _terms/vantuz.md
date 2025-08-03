@@ -2,6 +2,7 @@
 layout: term
 title: vantuz
 slug: vantuz
+letter: V
 lisan: Fransızca ventouse
 anlamlar:
 - Deri üzerine yapıştırılarak çekip emmeye yarayan şişe vb. alet; çekmen

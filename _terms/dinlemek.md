@@ -2,6 +2,7 @@
 layout: term
 title: dinlemek
 slug: dinlemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - İşitmek için kulak vermek

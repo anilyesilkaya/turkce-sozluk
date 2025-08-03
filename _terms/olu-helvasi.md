@@ -2,6 +2,7 @@
 layout: term
 title: ölü helvası
 slug: olu-helvasi
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ölüevinde pişirilip konuklara dağıtılan un veya irmik helvası

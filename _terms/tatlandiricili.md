@@ -2,6 +2,7 @@
 layout: term
 title: tatlandırıcılı
 slug: tatlandiricili
+letter: T
 lisan: Türkçe
 anlamlar:
 - İçinde tatlandırıcı bulunan

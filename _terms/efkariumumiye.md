@@ -2,6 +2,7 @@
 layout: term
 title: efkârıumumiye
 slug: efkariumumiye
+letter: E
 lisan: Arapça efkār + ʿumūmiyye
 anlamlar:
 - ► kamuoyu

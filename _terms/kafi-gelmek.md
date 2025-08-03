@@ -2,6 +2,7 @@
 layout: term
 title: kâfi gelmek
 slug: kafi-gelmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - yetmek, yetişmek

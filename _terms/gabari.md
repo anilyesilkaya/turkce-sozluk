@@ -2,6 +2,7 @@
 layout: term
 title: gabari
 slug: gabari
+letter: G
 lisan: Fransızca gabarit
 anlamlar:
 - Bazı eşyaya verilmesi gereken boyutları, yan görüşü çizmeye, hazırlamaya veya denetlemeye yarayan örnek

@@ -2,6 +2,7 @@
 layout: term
 title: keramet sahibi
 slug: keramet-sahibi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Keramet gösterebilen (kimse)

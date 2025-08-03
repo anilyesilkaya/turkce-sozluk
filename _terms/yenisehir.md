@@ -2,6 +2,7 @@
 layout: term
 title: Yenişehir
 slug: yenisehir
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bursa iline bağlı ilçelerden biri

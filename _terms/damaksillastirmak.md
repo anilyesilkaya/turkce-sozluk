@@ -2,6 +2,7 @@
 layout: term
 title: damaksıllaştırmak
 slug: damaksillastirmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir fonemin boğumlanma noktasını sert damağa doğru kaydırmak

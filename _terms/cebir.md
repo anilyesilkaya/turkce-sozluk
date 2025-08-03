@@ -2,6 +2,7 @@
 layout: term
 title: cebir
 slug: cebir
+letter: C
 lisan: Arapça cebr
 anlamlar:
 - Artı ve eksi gerçek sayılarla, bunların yerini tutan harfler yardımıyla nicelikler arasında genel bağlantılar kuran matematik kolu

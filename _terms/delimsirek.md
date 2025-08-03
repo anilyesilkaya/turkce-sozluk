@@ -2,6 +2,7 @@
 layout: term
 title: delimsirek
 slug: delimsirek
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► delice

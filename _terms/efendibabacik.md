@@ -2,6 +2,7 @@
 layout: term
 title: efendibabacık
 slug: efendibabacik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Efendibaba sözünün sevgiyle dolu söylenen biçimi

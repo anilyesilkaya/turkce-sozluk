@@ -2,6 +2,7 @@
 layout: term
 title: istidatlılık
 slug: istidatlilik
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► yeteneklilik

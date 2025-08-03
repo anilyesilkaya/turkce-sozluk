@@ -2,6 +2,7 @@
 layout: term
 title: müjdeleşmek
 slug: mujdelesmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - Birbirine müjde vermek, birbirini müjdelemek

@@ -2,6 +2,7 @@
 layout: term
 title: hurmalık
 slug: hurmalik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hurma ağacı çok olan yer

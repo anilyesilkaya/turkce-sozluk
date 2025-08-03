@@ -2,6 +2,7 @@
 layout: term
 title: başörtülü
 slug: basortulu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başörtüsü olan

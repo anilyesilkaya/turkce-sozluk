@@ -2,6 +2,7 @@
 layout: term
 title: pitoresk
 slug: pitoresk
+letter: P
 lisan: Fransızca pittoresque
 anlamlar:
 - ► resimsi

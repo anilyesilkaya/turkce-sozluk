@@ -2,6 +2,7 @@
 layout: term
 title: berhudar ol!
 slug: berhudar-ol
+letter: B
 lisan: Türkçe
 anlamlar:
 - '"iyi günler göresin" anlamında kullanılan bir iyi dilek sözü'

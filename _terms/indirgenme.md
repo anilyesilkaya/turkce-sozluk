@@ -2,6 +2,7 @@
 layout: term
 title: indirgenme
 slug: indirgenme
+letter: I
 lisan: Türkçe
 anlamlar:
 - İndirgenmek işi

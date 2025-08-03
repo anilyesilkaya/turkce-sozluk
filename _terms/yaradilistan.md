@@ -2,6 +2,7 @@
 layout: term
 title: yaradılıştan
 slug: yaradilistan
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Doğumla beraber, yaradılıştan beri; anadan doğma, doğuştan, kudretten, taban (II), maderzat

@@ -2,6 +2,7 @@
 layout: term
 title: aynı fotoğraf karesinde yer almak
 slug: ayni-fotograf-karesinde-yer-almak
+letter: A
 lisan: Türkçe
 anlamlar:
 - kameranın çektiği görüntü içinde birlikte bulunmak

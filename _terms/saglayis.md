@@ -2,6 +2,7 @@
 layout: term
 title: sağlayış
 slug: saglayis
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sağlamak işi

@@ -2,6 +2,7 @@
 layout: term
 title: binlik
 slug: binlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bini bir arada, bin taneden oluşmuş, bin tane alabilen

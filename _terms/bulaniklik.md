@@ -2,6 +2,7 @@
 layout: term
 title: bulanıklık
 slug: bulaniklik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bulanık olma durumu

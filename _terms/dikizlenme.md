@@ -2,6 +2,7 @@
 layout: term
 title: dikizlenme
 slug: dikizlenme
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► gözetlenme

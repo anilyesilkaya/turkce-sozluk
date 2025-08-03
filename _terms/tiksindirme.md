@@ -2,6 +2,7 @@
 layout: term
 title: tiksindirme
 slug: tiksindirme
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tiksindirmek işi

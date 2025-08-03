@@ -2,6 +2,7 @@
 layout: term
 title: tutukluk yapmak
 slug: tutukluk-yapmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - silah çalışmaz olmak

@@ -2,6 +2,7 @@
 layout: term
 title: kadavra
 slug: kadavra
+letter: K
 lisan: İtalyanca cadavere
 anlamlar:
 - Tıp öğretiminde, üzerinde çalışma yapılan ölü insan veya hayvan vücudu

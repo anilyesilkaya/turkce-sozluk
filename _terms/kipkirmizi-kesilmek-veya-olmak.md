@@ -2,6 +2,7 @@
 layout: term
 title: kıpkırmızı kesilmek (veya olmak)
 slug: kipkirmizi-kesilmek-veya-olmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - yüz herhangi bir nedenle çok kızarmak

@@ -2,6 +2,7 @@
 layout: term
 title: aslan kesilmek
 slug: aslan-kesilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - aslan gibi güçlü ve cesur duruma gelmek

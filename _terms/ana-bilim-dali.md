@@ -2,6 +2,7 @@
 layout: term
 title: ana bilim dalı
 slug: ana-bilim-dali
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yükseköğretim kurumlarında bölümlerin alt bilim veya uzmanlık dallarından her biri; kürsü

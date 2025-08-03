@@ -2,6 +2,7 @@
 layout: term
 title: çağdaşlaştırabilmek
 slug: cagdaslastirabilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çağdaşlaştırma ihtimali veya imkânı bulunmak

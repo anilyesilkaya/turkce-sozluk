@@ -2,6 +2,7 @@
 layout: term
 title: vabeste
 slug: vabeste
+letter: V
 lisan: Farsça vābeste
 anlamlar:
 - ► bağlı

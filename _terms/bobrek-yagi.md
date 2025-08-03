@@ -2,6 +2,7 @@
 layout: term
 title: böbrek yağı
 slug: bobrek-yagi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kasaplık hayvanların böbreklerinin çevresinde oluşan yağ

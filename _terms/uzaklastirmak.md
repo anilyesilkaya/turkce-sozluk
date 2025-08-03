@@ -2,6 +2,7 @@
 layout: term
 title: uzaklaştırmak
 slug: uzaklastirmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uzağa götürmek

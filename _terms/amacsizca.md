@@ -2,6 +2,7 @@
 layout: term
 title: amaçsızca
 slug: amacsizca
+letter: A
 lisan: Türkçe
 anlamlar:
 - Amaçsız bir biçimde; amaçsızcasına

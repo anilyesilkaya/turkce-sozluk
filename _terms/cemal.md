@@ -2,6 +2,7 @@
 layout: term
 title: cemal
 slug: cemal
+letter: C
 lisan: Arapça cemāl
 anlamlar:
 - Yüz güzelliği

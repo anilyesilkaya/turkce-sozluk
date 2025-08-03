@@ -2,6 +2,7 @@
 layout: term
 title: şerbet gibi
 slug: serbet-gibi
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - çok tatlı

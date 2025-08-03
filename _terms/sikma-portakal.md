@@ -2,6 +2,7 @@
 layout: term
 title: sıkma portakal
 slug: sikma-portakal
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıkılmış portakal suyu

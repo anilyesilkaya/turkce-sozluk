@@ -2,6 +2,7 @@
 layout: term
 title: gayur
 slug: gayur
+letter: G
 lisan: Arapça ġayūr
 anlamlar:
 - Gayreti olan, gayretli, çok çalışkan

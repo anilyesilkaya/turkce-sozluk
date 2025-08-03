@@ -2,6 +2,7 @@
 layout: term
 title: uçarı
 slug: ucari
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ele avuca sığmaz, çok haşarı (kimse)

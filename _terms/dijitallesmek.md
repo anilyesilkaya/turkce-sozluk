@@ -2,6 +2,7 @@
 layout: term
 title: dijitalleşmek
 slug: dijitallesmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► sayısallaşmak

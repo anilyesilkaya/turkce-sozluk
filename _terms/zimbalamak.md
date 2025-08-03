@@ -2,6 +2,7 @@
 layout: term
 title: zımbalamak
 slug: zimbalamak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Bir şeyin üzerinde zımba ile delik açmak

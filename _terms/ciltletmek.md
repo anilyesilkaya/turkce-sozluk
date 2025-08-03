@@ -2,6 +2,7 @@
 layout: term
 title: ciltletmek
 slug: ciltletmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - Ciltleme işini yaptırmak

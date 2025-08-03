@@ -2,6 +2,7 @@
 layout: term
 title: soğutma
 slug: sogutma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Soğutmak işi

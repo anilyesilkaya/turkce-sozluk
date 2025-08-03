@@ -2,6 +2,7 @@
 layout: term
 title: yabani kiraz
 slug: yabani-kiraz
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Ana vatanı Türkiye olan bir tür kiraz (Cerasus microcarpa)

@@ -2,6 +2,7 @@
 layout: term
 title: firik
 slug: firik
+letter: F
 lisan: Türkçe
 anlamlar:
 - Olgunlaşmak üzere olan tahıl

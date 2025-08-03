@@ -2,6 +2,7 @@
 layout: term
 title: çıtırbom
 slug: citirbom
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► türedi

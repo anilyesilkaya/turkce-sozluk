@@ -2,6 +2,7 @@
 layout: term
 title: muhtariyet
 slug: muhtariyet
+letter: M
 lisan: Arapça muḫtāriyyet
 anlamlar:
 - ► özerklik

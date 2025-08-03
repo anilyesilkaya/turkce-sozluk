@@ -2,6 +2,7 @@
 layout: term
 title: taşırmak
 slug: tasirmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taşmasına yol açmak

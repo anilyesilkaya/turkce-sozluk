@@ -2,6 +2,7 @@
 layout: term
 title: yarı orta sıklet
 slug: yari-orta-siklet
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Boksta sporcuların 71 kilogramdan 75 kilograma kadar olan ağırlıkları

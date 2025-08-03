@@ -2,6 +2,7 @@
 layout: term
 title: kurultay
 slug: kurultay
+letter: K
 lisan: Moğolca
 anlamlar:
 - Önceden tespit edilen bir alanda konuşmacıların bildiri sunarak katıldığı, belirli aralıklarla düzenlenen bilimsel toplantı; kongre

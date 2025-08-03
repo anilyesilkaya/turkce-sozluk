@@ -2,6 +2,7 @@
 layout: term
 title: pörtletme
 slug: portletme
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pörtletmek işi

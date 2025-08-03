@@ -2,6 +2,7 @@
 layout: term
 title: çivi yazısı
 slug: civi-yazisi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Eski Farsların, Medlerin ve Asurluların kullandığı yazı

@@ -2,6 +2,7 @@
 layout: term
 title: netice vermek
 slug: netice-vermek
+letter: N
 lisan: Türkçe
 anlamlar:
 - sonuç vermek

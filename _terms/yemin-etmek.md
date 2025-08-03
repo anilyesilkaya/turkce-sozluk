@@ -2,6 +2,7 @@
 layout: term
 title: yemin etmek
 slug: yemin-etmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ant içmek

@@ -2,6 +2,7 @@
 layout: term
 title: karşılaşmacı
 slug: karsilasmaci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Müsabakada yarışanların her biri

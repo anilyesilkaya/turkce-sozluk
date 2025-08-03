@@ -2,6 +2,7 @@
 layout: term
 title: külliyet
 slug: kulliyet
+letter: K
 lisan: Arapça kulliyyet
 anlamlar:
 - Bütünlük, tümlük

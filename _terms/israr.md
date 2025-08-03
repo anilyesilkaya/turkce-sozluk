@@ -2,6 +2,7 @@
 layout: term
 title: ısrar
 slug: israr
+letter: I
 lisan: Arapça iṣrār
 anlamlar:
 - Direnme, ayak direme, üsteleme, üstünde durma

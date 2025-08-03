@@ -2,6 +2,7 @@
 layout: term
 title: salkıma
 slug: salkima
+letter: S
 lisan: Türkçe
 anlamlar:
 - Salkımak durumu

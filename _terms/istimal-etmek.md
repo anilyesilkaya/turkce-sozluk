@@ -2,6 +2,7 @@
 layout: term
 title: istimal etmek
 slug: istimal-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - kullanmak

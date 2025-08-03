@@ -2,6 +2,7 @@
 layout: term
 title: orkestra
 slug: orkestra
+letter: O
 lisan: İtalyanca orchestra
 anlamlar:
 - Yaylı, üflemeli ve vurmalı çalgılar topluluğu

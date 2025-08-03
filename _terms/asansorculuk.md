@@ -2,6 +2,7 @@
 layout: term
 title: asansörcülük
 slug: asansorculuk
+letter: A
 lisan: Türkçe
 anlamlar:
 - Asansörcünün işi

@@ -2,6 +2,7 @@
 layout: term
 title: gülgüli
 slug: gulguli
+letter: G
 lisan: Farsça gul + gul + Arapça -ī
 anlamlar:
 - Gül renginde olan

@@ -2,6 +2,7 @@
 layout: term
 title: tahkikat
 slug: tahkikat
+letter: T
 lisan: Arapça taḥḳīḳāt
 anlamlar:
 - ► soruşturma

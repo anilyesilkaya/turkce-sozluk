@@ -2,6 +2,7 @@
 layout: term
 title: hürriyetçi
 slug: hurriyetci
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► özgürlükçü

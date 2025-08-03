@@ -2,6 +2,7 @@
 layout: term
 title: ana yurt
 slug: ana-yurt
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► ana vatan

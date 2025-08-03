@@ -2,6 +2,7 @@
 layout: term
 title: temizlenmek
 slug: temizlenmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Temiz duruma gelmek; arınmak, paklanmak

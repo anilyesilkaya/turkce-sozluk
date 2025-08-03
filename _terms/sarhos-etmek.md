@@ -2,6 +2,7 @@
 layout: term
 title: sarhoş etmek
 slug: sarhos-etmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - alkol veya keyif verici maddeyle sarhoş olmasına yol açmak

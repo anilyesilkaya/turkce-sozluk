@@ -2,6 +2,7 @@
 layout: term
 title: değini
 slug: degini
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► değinme

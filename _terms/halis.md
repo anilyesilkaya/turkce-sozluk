@@ -2,6 +2,7 @@
 layout: term
 title: halis
 slug: halis
+letter: H
 lisan: Arapça ḫāliṣ
 anlamlar:
 - ► saf (II)

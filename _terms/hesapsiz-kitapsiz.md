@@ -2,6 +2,7 @@
 layout: term
 title: hesapsız kitapsız
 slug: hesapsiz-kitapsiz
+letter: H
 lisan: Türkçe
 anlamlar:
 - Deftere geçirmeden veya belgeye bağlamadan

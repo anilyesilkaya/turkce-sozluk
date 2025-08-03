@@ -2,6 +2,7 @@
 layout: term
 title: saçaklanmak
 slug: sacaklanmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kenarları saçak gibi olmak

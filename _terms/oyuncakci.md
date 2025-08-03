@@ -2,6 +2,7 @@
 layout: term
 title: oyuncakçı
 slug: oyuncakci
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oyuncak yapan veya satan kimse

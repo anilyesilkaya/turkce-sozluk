@@ -2,6 +2,7 @@
 layout: term
 title: hasret gidermek
 slug: hasret-gidermek
+letter: H
 lisan: Türkçe
 anlamlar:
 - özleme son vermek, kavuşmak

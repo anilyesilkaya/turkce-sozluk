@@ -2,6 +2,7 @@
 layout: term
 title: çıkılama
 slug: cikilama
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıkılamak işi

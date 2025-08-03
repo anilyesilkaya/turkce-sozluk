@@ -2,6 +2,7 @@
 layout: term
 title: gine
 slug: gine
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► yine

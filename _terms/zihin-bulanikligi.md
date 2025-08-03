@@ -2,6 +2,7 @@
 layout: term
 title: zihin bulanıklığı
 slug: zihin-bulanikligi
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► zihin karışıklığı

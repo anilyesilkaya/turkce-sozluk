@@ -2,6 +2,7 @@
 layout: term
 title: payansız olmak
 slug: payansiz-olmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - sonsuz, bitmez tükenmez olmak

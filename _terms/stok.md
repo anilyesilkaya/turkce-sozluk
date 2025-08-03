@@ -2,6 +2,7 @@
 layout: term
 title: stok
 slug: stok
+letter: S
 lisan: Fransızca stock
 anlamlar:
 - Bir satış yerinde satışa hazır bulundurulan malların tümü; yığılım, istif

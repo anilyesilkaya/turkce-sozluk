@@ -2,6 +2,7 @@
 layout: term
 title: yalan dolan
 slug: yalan-dolan
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Gerçek dışı söylenen birçok söz

@@ -2,6 +2,7 @@
 layout: term
 title: senetli sepetli
 slug: senetli-sepetli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir iş yazılı bir belgeye dayandırılarak (yapılmak)

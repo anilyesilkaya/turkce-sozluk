@@ -2,6 +2,7 @@
 layout: term
 title: satıp savmak
 slug: satip-savmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - gereken parayı sağlamak için elindeki malı ucuza satıp tüketmek, yok pahasına elden çıkarmak

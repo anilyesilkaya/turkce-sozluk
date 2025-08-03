@@ -2,6 +2,7 @@
 layout: term
 title: derlenip toparlanmak
 slug: derlenip-toparlanmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - kendi kendine çeki düzen vermek, dağınıklıktan, düzensizlikten kurtulmak

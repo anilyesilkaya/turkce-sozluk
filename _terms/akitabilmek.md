@@ -2,6 +2,7 @@
 layout: term
 title: akıtabilmek
 slug: akitabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Akmasını sağlama ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: tütme
 slug: tutme
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tütmek işi

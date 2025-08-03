@@ -2,6 +2,7 @@
 layout: term
 title: dırlanmak
 slug: dirlanmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Herkesi tedirgin edecek, bezdirecek biçimde söylenmek

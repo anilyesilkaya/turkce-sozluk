@@ -2,6 +2,7 @@
 layout: term
 title: ablacılık
 slug: ablacilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► sevicilik

@@ -2,6 +2,7 @@
 layout: term
 title: dönüşlülük zamiri
 slug: donusluluk-zamiri
+letter: D
 lisan: Türkçe
 anlamlar:
 - 'Yapılan işin yapana döndüğünü gösteren, kişi kavramını pekiştiren ve kişilere göre çekimlenebilen “kendi” sözü: kendim, kendin, kendisi vb'

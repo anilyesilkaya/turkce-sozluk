@@ -2,6 +2,7 @@
 layout: term
 title: kışkırtma
 slug: kiskirtma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kışkırtmak işi; kışkırtı, tahrik

@@ -2,6 +2,7 @@
 layout: term
 title: kail olmak
 slug: kail-olmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - razı olmak

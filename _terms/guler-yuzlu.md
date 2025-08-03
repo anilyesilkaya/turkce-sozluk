@@ -2,6 +2,7 @@
 layout: term
 title: güler yüzlü
 slug: guler-yuzlu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Yakınlık gösteren, içten davranan

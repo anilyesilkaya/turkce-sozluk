@@ -2,6 +2,7 @@
 layout: term
 title: tasarruf etmek
 slug: tasarruf-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - bir malın sahibi olmak, onu istediği gibi kullanmak

@@ -2,6 +2,7 @@
 layout: term
 title: sınır boyu
 slug: sinir-boyu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Ülke sınırları; uç, hudut boyu, serhat

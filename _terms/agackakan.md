@@ -2,6 +2,7 @@
 layout: term
 title: ağaçkakan
 slug: agackakan
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağaçkakangillerden, gagasıyla ağaçları oyabilen ve ağaç kurtlarını yiyerek beslenen, uzun gagalı kuş (Picus)

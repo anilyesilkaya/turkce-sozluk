@@ -2,6 +2,7 @@
 layout: term
 title: ban
 slug: ban
+letter: B
 lisan: Hırv.
 anlamlar:
 - Osmanlı Devleti'nde Macaristan ve Hırvatistan'da sancak beylerine ve küçük prenslere verilen ünvan

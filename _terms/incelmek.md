@@ -2,6 +2,7 @@
 layout: term
 title: incelmek
 slug: incelmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İnce duruma gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: yer almak
 slug: yer-almak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - bir işi hazırlayanlar arasında bulunmak

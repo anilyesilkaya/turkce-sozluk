@@ -2,6 +2,7 @@
 layout: term
 title: talihsizlik
 slug: talihsizlik
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► bahtsızlık

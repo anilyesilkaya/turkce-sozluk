@@ -2,6 +2,7 @@
 layout: term
 title: çıpa
 slug: cipa
+letter: Ç
 lisan: İtalyanca ceppo
 anlamlar:
 - Gemilerin dalgalara, akıntılara kapılarak yer değiştirmemesi için suya atılan, zincirle gemiye bağlı bulunan, ucu çengelli ağır demir araç; çapa, çipo, demir

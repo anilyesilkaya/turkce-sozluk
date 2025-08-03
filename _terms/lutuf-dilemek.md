@@ -2,6 +2,7 @@
 layout: term
 title: lütuf dilemek
 slug: lutuf-dilemek
+letter: L
 lisan: Türkçe
 anlamlar:
 - iyilik istemek

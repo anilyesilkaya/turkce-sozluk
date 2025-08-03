@@ -2,6 +2,7 @@
 layout: term
 title: şaşkın şavalak
 slug: saskin-savalak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şaşkın bir biçimde

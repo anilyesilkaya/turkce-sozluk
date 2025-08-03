@@ -2,6 +2,7 @@
 layout: term
 title: hoparlör
 slug: hoparlor
+letter: H
 lisan: Fransızca haut-parleur
 anlamlar:
 - Elektrik dalgalarını ses dalgasına çeviren ve gerektiğinde sesi yükseltmeye yarayan alet

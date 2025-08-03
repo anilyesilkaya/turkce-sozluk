@@ -2,6 +2,7 @@
 layout: term
 title: dik
 slug: dik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Yatay bir düzleme göre yer çekimi doğrultusunda bulunan, eğik olmayan

@@ -2,6 +2,7 @@
 layout: term
 title: kıyım
 slug: kiyim
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kıymak işi

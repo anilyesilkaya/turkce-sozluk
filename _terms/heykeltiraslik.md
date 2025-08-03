@@ -2,6 +2,7 @@
 layout: term
 title: heykeltıraşlık
 slug: heykeltiraslik
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► heykelcilik

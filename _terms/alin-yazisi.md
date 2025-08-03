@@ -2,6 +2,7 @@
 layout: term
 title: alın yazısı
 slug: alin-yazisi
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► yazgı

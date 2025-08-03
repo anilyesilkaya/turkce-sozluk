@@ -2,6 +2,7 @@
 layout: term
 title: tevazu
 slug: tevazu
+letter: T
 lisan: Arapça tevāżuʿ
 anlamlar:
 - ► alçak gönüllülük

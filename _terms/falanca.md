@@ -2,6 +2,7 @@
 layout: term
 title: falanca
 slug: falanca
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► falan

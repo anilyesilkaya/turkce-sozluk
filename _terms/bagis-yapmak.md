@@ -2,6 +2,7 @@
 layout: term
 title: bağış yapmak
 slug: bagis-yapmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - bağışlamak

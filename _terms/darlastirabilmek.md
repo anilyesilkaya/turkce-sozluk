@@ -2,6 +2,7 @@
 layout: term
 title: darlaştırabilmek
 slug: darlastirabilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Darlaştırma ihtimali veya imkânı bulunmak

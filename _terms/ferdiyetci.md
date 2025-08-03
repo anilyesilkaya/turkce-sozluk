@@ -2,6 +2,7 @@
 layout: term
 title: ferdiyetçi
 slug: ferdiyetci
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► bireyci

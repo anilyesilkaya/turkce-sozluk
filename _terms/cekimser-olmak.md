@@ -2,6 +2,7 @@
 layout: term
 title: çekimser olmak
 slug: cekimser-olmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - kararsız kalmak

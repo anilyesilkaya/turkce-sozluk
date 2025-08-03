@@ -2,6 +2,7 @@
 layout: term
 title: basımcı
 slug: basimci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Basımevi işleten kimse; matbaacı

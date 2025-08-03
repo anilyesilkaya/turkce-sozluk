@@ -2,6 +2,7 @@
 layout: term
 title: müsaade
 slug: musaade
+letter: M
 lisan: Arapça musāʿade
 anlamlar:
 - ► izin

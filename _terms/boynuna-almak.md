@@ -2,6 +2,7 @@
 layout: term
 title: boynuna almak
 slug: boynuna-almak
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir şeyi borç veya ödev olarak üzerine almak

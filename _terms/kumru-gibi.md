@@ -2,6 +2,7 @@
 layout: term
 title: kumru gibi
 slug: kumru-gibi
+letter: K
 lisan: Türkçe
 anlamlar:
 - kendi dünyasına çekilmiş

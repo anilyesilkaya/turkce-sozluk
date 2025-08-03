@@ -2,6 +2,7 @@
 layout: term
 title: örselenme
 slug: orselenme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Örselenmek işi

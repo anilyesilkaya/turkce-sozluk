@@ -2,6 +2,7 @@
 layout: term
 title: şapkalı
 slug: sapkali
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şapka giymiş olan (kimse)

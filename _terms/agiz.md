@@ -2,6 +2,7 @@
 layout: term
 title: ağız
 slug: agiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yüzde, avurtlarla iki çene arasında bulunan, ses çıkarmaya, soluk alıp vermeye yarayan ve besinlerin sindirilmeye başlandığı organ

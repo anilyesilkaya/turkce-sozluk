@@ -2,6 +2,7 @@
 layout: term
 title: kesinlemek
 slug: kesinlemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir şeyi kesinleştirmek

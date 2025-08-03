@@ -2,6 +2,7 @@
 layout: term
 title: dulda
 slug: dulda
+letter: D
 lisan: Türkçe
 anlamlar:
 - Yağmur, güneş ve rüzgârın etkileyemediği gizli, kuytu yer; siper

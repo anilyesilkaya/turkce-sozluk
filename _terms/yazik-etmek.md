@@ -2,6 +2,7 @@
 layout: term
 title: yazık etmek
 slug: yazik-etmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - boş yere zarar vermek

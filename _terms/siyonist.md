@@ -2,6 +2,7 @@
 layout: term
 title: siyonist
 slug: siyonist
+letter: S
 lisan: Fransızca sioniste
 anlamlar:
 - Siyonizmle ilgili

@@ -2,6 +2,7 @@
 layout: term
 title: haşlak
 slug: haslak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Kızgın, kaynar, çok sıcak

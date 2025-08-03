@@ -2,6 +2,7 @@
 layout: term
 title: savmak
 slug: savmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - İstenmeyen birini yanından uzaklaştırmak; defetmek, deflemek, tardetmek

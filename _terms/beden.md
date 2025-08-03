@@ -2,6 +2,7 @@
 layout: term
 title: beden
 slug: beden
+letter: B
 lisan: Arapça beden
 anlamlar:
 - İnsan ve hayvan vücudunda baş, kol ve bacaklar dışında kalan bölüm; gövde

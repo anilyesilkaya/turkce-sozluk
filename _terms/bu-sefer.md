@@ -2,6 +2,7 @@
 layout: term
 title: bu sefer
 slug: bu-sefer
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bu defa, bu kez

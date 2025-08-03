@@ -2,6 +2,7 @@
 layout: term
 title: aile
 slug: aile
+letter: A
 lisan: Arapça ʿaʾile
 anlamlar:
 - Evlilik ve kan bağına dayanan, karı, koca, çocuklar, kardeşler arasındaki ilişkilerin oluşturduğu toplum içindeki en küçük birlik; ev, familya

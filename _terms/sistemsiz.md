@@ -2,6 +2,7 @@
 layout: term
 title: sistemsiz
 slug: sistemsiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► düzensiz

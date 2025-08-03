@@ -2,6 +2,7 @@
 layout: term
 title: yaban keteni
 slug: yaban-keteni
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► su keteni

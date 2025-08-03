@@ -2,6 +2,7 @@
 layout: term
 title: odunsu
 slug: odunsu
+letter: O
 lisan: Türkçe
 anlamlar:
 - Odunu andıran, oduna benzeyen, odun gibi; odunumsu

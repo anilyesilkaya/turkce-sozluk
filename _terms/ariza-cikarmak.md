@@ -2,6 +2,7 @@
 layout: term
 title: arıza çıkarmak
 slug: ariza-cikarmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - arıza yapmak

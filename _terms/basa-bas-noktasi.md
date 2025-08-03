@@ -2,6 +2,7 @@
 layout: term
 title: başa baş noktası
 slug: basa-bas-noktasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir yabancı paranın veya değerli kâğıdın piyasa değeri ile üstünde yazılı değerin aynı olması durumu

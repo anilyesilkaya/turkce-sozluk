@@ -2,6 +2,7 @@
 layout: term
 title: fütursuz
 slug: futursuz
+letter: F
 lisan: Türkçe
 anlamlar:
 - Hiçbir şeye aldırmayan, hiçbir şeyden çekinmeyen

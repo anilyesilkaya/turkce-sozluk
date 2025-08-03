@@ -2,6 +2,7 @@
 layout: term
 title: kararıvermek
 slug: kararivermek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Ansızın veya çabucak kararmak

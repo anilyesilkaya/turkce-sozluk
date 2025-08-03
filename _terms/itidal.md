@@ -2,6 +2,7 @@
 layout: term
 title: itidal
 slug: itidal
+letter: I
 lisan: Arapça iʿtidāl
 anlamlar:
 - ► ölçülülük

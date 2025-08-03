@@ -2,6 +2,7 @@
 layout: term
 title: kesir
 slug: kesir
+letter: K
 lisan: Arapça kesr
 anlamlar:
 - Bir birimin bölündüğü eşit parçalardan birini veya birkaçını anlatan sayı

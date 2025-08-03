@@ -2,6 +2,7 @@
 layout: term
 title: uzattırıvermek
 slug: uzattirivermek
+letter: U
 lisan: Türkçe
 anlamlar:
 - Çabucak veya ansızın uzatmak

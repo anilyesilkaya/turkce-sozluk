@@ -2,6 +2,7 @@
 layout: term
 title: cerahat
 slug: cerahat
+letter: C
 lisan: Arapça cerāḥat
 anlamlar:
 - ► irin

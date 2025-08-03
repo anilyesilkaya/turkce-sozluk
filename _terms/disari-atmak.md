@@ -2,6 +2,7 @@
 layout: term
 title: dışarı atmak
 slug: disari-atmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - kovmak

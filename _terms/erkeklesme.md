@@ -2,6 +2,7 @@
 layout: term
 title: erkekleşme
 slug: erkeklesme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Erkekleşmek işi

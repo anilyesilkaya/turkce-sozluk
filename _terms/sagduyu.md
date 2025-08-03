@@ -2,6 +2,7 @@
 layout: term
 title: sağduyu
 slug: sagduyu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Doğru, akla uygun yargılar verme yeteneği; aklıselim, hissiselim

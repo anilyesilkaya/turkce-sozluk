@@ -2,6 +2,7 @@
 layout: term
 title: pıtrak
 slug: pitrak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Sarı çiçekli, dikenli bir yıllık otsu bitki (Xantium spinosum)

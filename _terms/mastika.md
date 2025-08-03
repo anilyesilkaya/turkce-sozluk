@@ -2,6 +2,7 @@
 layout: term
 title: mastika
 slug: mastika
+letter: M
 lisan: Rumca
 anlamlar:
 - ► sakız rakısı

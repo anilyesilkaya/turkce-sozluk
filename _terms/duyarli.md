@@ -2,6 +2,7 @@
 layout: term
 title: duyarlı
 slug: duyarli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dış etkenlere karşı duyarlığı olan; duygun, hassas

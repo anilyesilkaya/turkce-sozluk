@@ -2,6 +2,7 @@
 layout: term
 title: maraton
 slug: maraton
+letter: M
 lisan: Fransızca marathon
 anlamlar:
 - 42.195 metrelik en uzun yol koşusu

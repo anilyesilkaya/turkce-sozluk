@@ -2,6 +2,7 @@
 layout: term
 title: materyalizm
 slug: materyalizm
+letter: M
 lisan: Fransızca matérialisme
 anlamlar:
 - ► maddecilik

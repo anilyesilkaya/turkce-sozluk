@@ -2,6 +2,7 @@
 layout: term
 title: olaylama
 slug: olaylama
+letter: O
 lisan: Türkçe
 anlamlar:
 - Roman, hikâye, tiyatro eseri vb. edebî türlerde olayları oluşturma, yansıtma

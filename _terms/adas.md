@@ -2,6 +2,7 @@
 layout: term
 title: adaş
 slug: adas
+letter: A
 lisan: Türkçe
 anlamlar:
 - Adları aynı olanlardan her biri

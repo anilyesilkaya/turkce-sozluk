@@ -2,6 +2,7 @@
 layout: term
 title: dostlar başına
 slug: dostlar-basina
+letter: D
 lisan: Türkçe
 anlamlar:
 - bir şeyi dostları için de dilemek amacıyla kullanılan bir iyi dilek sözü

@@ -2,6 +2,7 @@
 layout: term
 title: görgü fukarası
 slug: gorgu-fukarasi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Görgüsü az olan, görgüsüz (kimse)

@@ -2,6 +2,7 @@
 layout: term
 title: damga yemek
 slug: damga-yemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - biri kötü bir yargıya veya nitelenmeye uğramak

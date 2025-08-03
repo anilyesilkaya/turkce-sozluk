@@ -2,6 +2,7 @@
 layout: term
 title: Tanrı misafiri
 slug: tanri-misafiri
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tanınmayan, çağrılmadan kendiliğinden gelen konuk

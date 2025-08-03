@@ -2,6 +2,7 @@
 layout: term
 title: evcik
 slug: evcik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Küçük, sevimli ev

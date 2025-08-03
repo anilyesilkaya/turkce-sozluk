@@ -2,6 +2,7 @@
 layout: term
 title: sürükleme
 slug: surukleme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sürüklemek işi

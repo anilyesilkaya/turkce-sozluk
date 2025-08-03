@@ -2,6 +2,7 @@
 layout: term
 title: tamirat
 slug: tamirat
+letter: T
 lisan: Arapça taʿmīrāt
 anlamlar:
 - ► onarım

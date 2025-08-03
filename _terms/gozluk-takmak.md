@@ -2,6 +2,7 @@
 layout: term
 title: gözlük takmak
 slug: gozluk-takmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - gözlük kullanmak

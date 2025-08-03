@@ -2,6 +2,7 @@
 layout: term
 title: miras yemek
 slug: miras-yemek
+letter: M
 lisan: Türkçe
 anlamlar:
 - kendine kalan mirası tüketmek

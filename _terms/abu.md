@@ -2,6 +2,7 @@
 layout: term
 title: abu
 slug: abu
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► abo

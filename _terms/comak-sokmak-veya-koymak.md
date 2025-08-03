@@ -2,6 +2,7 @@
 layout: term
 title: çomak sokmak (veya koymak)
 slug: comak-sokmak-veya-koymak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - bir işi aksatan, engelleyen davranışta bulunmak

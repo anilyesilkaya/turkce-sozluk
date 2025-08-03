@@ -2,6 +2,7 @@
 layout: term
 title: programsızlık
 slug: programsizlik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Programsız olma durumu

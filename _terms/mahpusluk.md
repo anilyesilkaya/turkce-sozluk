@@ -2,6 +2,7 @@
 layout: term
 title: mahpusluk
 slug: mahpusluk
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mahpus olma durumu

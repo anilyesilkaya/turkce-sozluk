@@ -2,6 +2,7 @@
 layout: term
 title: denizci
 slug: denizci
+letter: D
 lisan: Türkçe
 anlamlar:
 - Denizle ilgili işlerde çalışan kimse

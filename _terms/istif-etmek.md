@@ -2,6 +2,7 @@
 layout: term
 title: istif etmek
 slug: istif-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - yıkılmayacak bir biçimde, düzgünce yerleştirmek

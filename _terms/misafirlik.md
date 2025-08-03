@@ -2,6 +2,7 @@
 layout: term
 title: misafirlik
 slug: misafirlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► konukluk

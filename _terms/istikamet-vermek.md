@@ -2,6 +2,7 @@
 layout: term
 title: istikamet vermek
 slug: istikamet-vermek
+letter: I
 lisan: Türkçe
 anlamlar:
 - yön vermek, yöneltmek

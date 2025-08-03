@@ -2,6 +2,7 @@
 layout: term
 title: ahlak zabıtası
 slug: ahlak-zabitasi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Büyükşehir halkının sosyal ve sağlık durumunu koruyan, şehir düzeni için çalışan teşkilat

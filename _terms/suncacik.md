@@ -2,6 +2,7 @@
 layout: term
 title: şuncacık
 slug: suncacik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şu kadarcık, birazcık

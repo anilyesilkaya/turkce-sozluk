@@ -2,6 +2,7 @@
 layout: term
 title: eşekoğlueşek
 slug: esekogluesek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Kurnaz, işini bilen, düzenbaz, açıkgöz, uyanık kimse

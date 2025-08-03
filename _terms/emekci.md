@@ -2,6 +2,7 @@
 layout: term
 title: emekçi
 slug: emekci
+letter: E
 lisan: Türkçe
 anlamlar:
 - Geçimini beden gücüyle sağlayan kimse

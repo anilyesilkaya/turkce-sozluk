@@ -2,6 +2,7 @@
 layout: term
 title: içi almamak
 slug: ici-almamak
+letter: I
 lisan: Türkçe
 anlamlar:
 - midesi kabul etmemek

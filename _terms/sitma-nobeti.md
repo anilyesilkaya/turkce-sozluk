@@ -2,6 +2,7 @@
 layout: term
 title: sıtma nöbeti
 slug: sitma-nobeti
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıtma hastalığında karşılaşılan ateş ve titreme durumu; humma

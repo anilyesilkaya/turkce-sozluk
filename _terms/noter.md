@@ -2,6 +2,7 @@
 layout: term
 title: noter
 slug: noter
+letter: N
 lisan: Fransızca notaire
 anlamlar:
 - Çeşitli belge ve işlemlere geçerlik kazandırmak ve yasanın öngördüğü diğer görevleri yerine getirmekle yükümlü, belli nitelikleri ve kendine özgü bir hukuk statüsü olan kamu görevlisi; kâtibiadil

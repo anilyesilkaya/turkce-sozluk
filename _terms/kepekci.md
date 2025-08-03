@@ -2,6 +2,7 @@
 layout: term
 title: kepekçi
 slug: kepekci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kepek satan kimse

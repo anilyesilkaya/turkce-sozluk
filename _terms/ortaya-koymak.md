@@ -2,6 +2,7 @@
 layout: term
 title: ortaya koymak
 slug: ortaya-koymak
+letter: O
 lisan: Türkçe
 anlamlar:
 - herkesin görebileceği yere koymak

@@ -2,6 +2,7 @@
 layout: term
 title: borda
 slug: borda
+letter: B
 lisan: İtalyanca borda
 anlamlar:
 - Geminin veya kayığın su üstünde kalan kısmının yanı, alabanda karşıtı

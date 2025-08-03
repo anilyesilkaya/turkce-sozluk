@@ -2,6 +2,7 @@
 layout: term
 title: yabanileştirme
 slug: yabanilestirme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yabanileştirmek durumu; vahşileştirme

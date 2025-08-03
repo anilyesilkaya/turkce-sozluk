@@ -2,6 +2,7 @@
 layout: term
 title: belası
 slug: belasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - -den dolayı, sebebiyle

@@ -2,6 +2,7 @@
 layout: term
 title: kompakt
 slug: kompakt
+letter: K
 lisan: Fransızca compact
 anlamlar:
 - ► yoğun

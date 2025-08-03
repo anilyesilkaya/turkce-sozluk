@@ -2,6 +2,7 @@
 layout: term
 title: hakiki
 slug: hakiki
+letter: H
 lisan: Arapça ḥaḳīḳī
 anlamlar:
 - ► gerçek

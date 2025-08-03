@@ -2,6 +2,7 @@
 layout: term
 title: nahak yere
 slug: nahak-yere
+letter: N
 lisan: Türkçe
 anlamlar:
 - Haksız, gereksiz olarak, boş yere, boşuna

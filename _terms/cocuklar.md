@@ -2,6 +2,7 @@
 layout: term
 title: çocuklar!
 slug: cocuklar
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - '"arkadaşlar!" anlamında kullanılan bir seslenme sözü'

@@ -2,6 +2,7 @@
 layout: term
 title: baba yerli
 slug: baba-yerli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Baba yerliliğe ilişkin olan, baba yerliliğe dayanan

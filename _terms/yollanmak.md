@@ -2,6 +2,7 @@
 layout: term
 title: yollanmak
 slug: yollanmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yollama işi yapılmak, gönderilmek

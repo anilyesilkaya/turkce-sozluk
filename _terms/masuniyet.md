@@ -2,6 +2,7 @@
 layout: term
 title: masuniyet
 slug: masuniyet
+letter: M
 lisan: Arapça maṣūniyyet
 anlamlar:
 - Korunmuş olma durumu

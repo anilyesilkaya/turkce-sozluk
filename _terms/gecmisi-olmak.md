@@ -2,6 +2,7 @@
 layout: term
 title: … geçmişi (olmak)
 slug: gecmisi-olmak
+letter: …
 lisan: Türkçe
 anlamlar:
 - o şeyi geçirmiş veya yapmış (olmak)

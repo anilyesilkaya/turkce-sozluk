@@ -2,6 +2,7 @@
 layout: term
 title: münasebet
 slug: munasebet
+letter: M
 lisan: Arapça munāsebet
 anlamlar:
 - ► ilişki

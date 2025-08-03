@@ -2,6 +2,7 @@
 layout: term
 title: klostrofobik
 slug: klostrofobik
+letter: K
 lisan: Fransızca claustrophbique
 anlamlar:
 - Kapalı yer korkusuna ait, bu korkuyla ilgili

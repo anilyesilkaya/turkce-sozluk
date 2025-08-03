@@ -2,6 +2,7 @@
 layout: term
 title: perdeci
 slug: perdeci
+letter: P
 lisan: Türkçe
 anlamlar:
 - Perde satan veya diken kimse

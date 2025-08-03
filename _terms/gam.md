@@ -2,6 +2,7 @@
 layout: term
 title: gam
 slug: gam
+letter: G
 lisan: Fransızca gamme
 anlamlar:
 - Sekiz notanın kalın sesten inceye veya inceden kalına gitmek üzere sıralanmış dizisi; skala

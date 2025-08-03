@@ -2,6 +2,7 @@
 layout: term
 title: harı geçmek
 slug: hari-gecmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - ateşin etkisi azalmak

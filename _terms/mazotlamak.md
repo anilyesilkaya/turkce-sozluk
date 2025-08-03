@@ -2,6 +2,7 @@
 layout: term
 title: mazotlamak
 slug: mazotlamak
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mazot tabakasıyla kaplamak

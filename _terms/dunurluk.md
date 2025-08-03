@@ -2,6 +2,7 @@
 layout: term
 title: dünürlük
 slug: dunurluk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dünür olma durumu

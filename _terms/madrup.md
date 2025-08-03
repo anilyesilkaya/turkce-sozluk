@@ -2,6 +2,7 @@
 layout: term
 title: madrup
 slug: madrup
+letter: M
 lisan: Arapça maḍrūb
 anlamlar:
 - Dövülmüş (kimse)

@@ -2,6 +2,7 @@
 layout: term
 title: yürekten
 slug: yurekten
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► içten

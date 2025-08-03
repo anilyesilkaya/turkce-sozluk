@@ -2,6 +2,7 @@
 layout: term
 title: didon
 slug: didon
+letter: D
 lisan: Fransızca guidon
 anlamlar:
 - Bisiklet sürücüsünün elle tutarak bisikleti yönettiği ön bölüm

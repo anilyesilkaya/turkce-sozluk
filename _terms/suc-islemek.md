@@ -2,6 +2,7 @@
 layout: term
 title: suç işlemek
 slug: suc-islemek
+letter: S
 lisan: Türkçe
 anlamlar:
 - yasaya, töreye aykırı bir davranışta veya harekette bulunmak

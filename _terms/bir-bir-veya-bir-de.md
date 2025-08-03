@@ -2,6 +2,7 @@
 layout: term
 title: bir ... bir (veya bir de)
 slug: bir-bir-veya-bir-de
+letter: B
 lisan: Türkçe
 anlamlar:
 - hem ... hem

@@ -2,6 +2,7 @@
 layout: term
 title: mazmun
 slug: mazmun
+letter: M
 lisan: Arapça mażmūn
 anlamlar:
 - ► anlam

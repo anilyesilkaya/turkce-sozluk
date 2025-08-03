@@ -2,6 +2,7 @@
 layout: term
 title: intibak
 slug: intibak
+letter: I
 lisan: Arapça inṭibāḳ
 anlamlar:
 - ► uyum

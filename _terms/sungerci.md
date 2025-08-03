@@ -2,6 +2,7 @@
 layout: term
 title: süngerci
 slug: sungerci
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► sünger avcısı

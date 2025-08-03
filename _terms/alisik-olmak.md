@@ -2,6 +2,7 @@
 layout: term
 title: alışık olmak
 slug: alisik-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - alışkın olmak

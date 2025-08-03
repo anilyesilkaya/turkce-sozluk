@@ -2,6 +2,7 @@
 layout: term
 title: duası tutmak
 slug: duasi-tutmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - duası gerçekleşmek

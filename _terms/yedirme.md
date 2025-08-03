@@ -2,6 +2,7 @@
 layout: term
 title: yedirme
 slug: yedirme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yedirmek işi

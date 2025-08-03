@@ -2,6 +2,7 @@
 layout: term
 title: hiddet
 slug: hiddet
+letter: H
 lisan: Arapça ḥiddet
 anlamlar:
 - ► öfke

@@ -2,6 +2,7 @@
 layout: term
 title: dosya
 slug: dosya
+letter: D
 lisan: Fransızca dossier
 anlamlar:
 - Aynı konu, aynı kimse, aynı işle ilgili belgeler bütünü

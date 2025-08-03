@@ -2,6 +2,7 @@
 layout: term
 title: baba dostu
 slug: baba-dostu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çok eski, hayırlı aile dostu

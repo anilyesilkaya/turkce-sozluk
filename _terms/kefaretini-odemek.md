@@ -2,6 +2,7 @@
 layout: term
 title: kefaretini ödemek
 slug: kefaretini-odemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir suçun, bir kabahatin bağışlanması için karşılık ödemek

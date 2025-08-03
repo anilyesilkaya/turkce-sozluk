@@ -2,6 +2,7 @@
 layout: term
 title: yaka
 slug: yaka
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Giysilerin boyna gelen, boynu çeviren bölümü

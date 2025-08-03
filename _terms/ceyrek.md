@@ -2,6 +2,7 @@
 layout: term
 title: çeyrek
 slug: ceyrek
+letter: Ç
 lisan: Farsça çār + yek
 anlamlar:
 - Dörtte bir

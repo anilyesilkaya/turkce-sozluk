@@ -2,6 +2,7 @@
 layout: term
 title: boş kafalı
 slug: bos-kafali
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilgisi olmayan

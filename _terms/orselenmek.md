@@ -2,6 +2,7 @@
 layout: term
 title: örselenmek
 slug: orselenmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Örseleme işine konu olmak

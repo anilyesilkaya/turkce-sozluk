@@ -2,6 +2,7 @@
 layout: term
 title: mecnunca
 slug: mecnunca
+letter: M
 lisan: Türkçe
 anlamlar:
 - Çılgın bir biçimde, delice, deli gibi; mecnuncasına, mecnunane

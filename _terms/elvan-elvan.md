@@ -2,6 +2,7 @@
 layout: term
 title: elvan elvan
 slug: elvan-elvan
+letter: E
 lisan: Türkçe
 anlamlar:
 - Türlü türlü olan

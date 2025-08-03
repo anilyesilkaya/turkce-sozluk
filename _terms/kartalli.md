@@ -2,6 +2,7 @@
 layout: term
 title: kartallı
 slug: kartalli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Üzerinde kartal resmi bulunan

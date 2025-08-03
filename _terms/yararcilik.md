@@ -2,6 +2,7 @@
 layout: term
 title: yararcılık
 slug: yararcilik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Ahlaki iş ve davranışlarda yararın ilke edinilmesi

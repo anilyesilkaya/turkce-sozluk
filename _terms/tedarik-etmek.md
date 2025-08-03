@@ -2,6 +2,7 @@
 layout: term
 title: tedarik etmek
 slug: tedarik-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - bulmak, sağlamak

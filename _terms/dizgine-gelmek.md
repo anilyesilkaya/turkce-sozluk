@@ -2,6 +2,7 @@
 layout: term
 title: dizgine gelmek
 slug: dizgine-gelmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - düzelmek, belli bir disipline ve sisteme girmek

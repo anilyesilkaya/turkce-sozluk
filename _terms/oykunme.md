@@ -2,6 +2,7 @@
 layout: term
 title: öykünme
 slug: oykunme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► taklit

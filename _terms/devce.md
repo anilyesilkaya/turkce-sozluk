@@ -2,6 +2,7 @@
 layout: term
 title: devce
 slug: devce
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dev gibi

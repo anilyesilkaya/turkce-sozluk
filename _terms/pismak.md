@@ -2,6 +2,7 @@
 layout: term
 title: pısmak
 slug: pismak
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► sinmek

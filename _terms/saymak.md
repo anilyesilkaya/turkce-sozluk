@@ -2,6 +2,7 @@
 layout: term
 title: saymak
 slug: saymak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir şeyin kaç tane olduğunu anlamak için bunları birer birer elden veya gözden geçirmek, sayısını bulmak

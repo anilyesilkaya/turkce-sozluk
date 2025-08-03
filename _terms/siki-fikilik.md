@@ -2,6 +2,7 @@
 layout: term
 title: sıkı fıkılık
 slug: siki-fikilik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıkı fıkı olma durumu

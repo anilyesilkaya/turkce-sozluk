@@ -2,6 +2,7 @@
 layout: term
 title: iskarpin
 slug: iskarpin
+letter: I
 lisan: Fransızca escarpin
 anlamlar:
 - Ökçeli, konçsuz ayakkabı

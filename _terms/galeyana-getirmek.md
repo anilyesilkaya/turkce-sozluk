@@ -2,6 +2,7 @@
 layout: term
 title: galeyana getirmek
 slug: galeyana-getirmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - coşturmak

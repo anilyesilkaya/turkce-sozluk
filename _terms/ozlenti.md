@@ -2,6 +2,7 @@
 layout: term
 title: özlenti
 slug: ozlenti
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► özlem

@@ -2,6 +2,7 @@
 layout: term
 title: şuuraltı
 slug: suuralti
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► bilinçaltı

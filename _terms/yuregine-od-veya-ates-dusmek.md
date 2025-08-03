@@ -2,6 +2,7 @@
 layout: term
 title: yüreğine od (veya ateş) düşmek
 slug: yuregine-od-veya-ates-dusmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - felakete uğramak, çok üzülmek

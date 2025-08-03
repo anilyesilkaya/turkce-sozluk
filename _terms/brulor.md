@@ -2,6 +2,7 @@
 layout: term
 title: brülör
 slug: brulor
+letter: B
 lisan: Fransızca brûleur
 anlamlar:
 - Sıvı yakıtı kolayca yanabilecek taneciklere ayırarak püskürten araç; yakmaç

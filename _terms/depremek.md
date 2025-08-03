@@ -2,6 +2,7 @@
 layout: term
 title: depremek
 slug: depremek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Hareket etmek, yerinden oynamak

@@ -2,6 +2,7 @@
 layout: term
 title: altınlı
 slug: altinli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Altına sahip olan (kimse)

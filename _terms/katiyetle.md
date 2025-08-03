@@ -2,6 +2,7 @@
 layout: term
 title: katiyetle
 slug: katiyetle
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kesinlikle

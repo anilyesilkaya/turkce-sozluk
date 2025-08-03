@@ -2,6 +2,7 @@
 layout: term
 title: dökülgen
 slug: dokulgen
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dökülme özelliği olan

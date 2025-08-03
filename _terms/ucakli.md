@@ -2,6 +2,7 @@
 layout: term
 title: uçaklı
 slug: ucakli
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uçağı olan

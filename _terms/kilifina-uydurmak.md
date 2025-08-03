@@ -2,6 +2,7 @@
 layout: term
 title: kılıfına uydurmak
 slug: kilifina-uydurmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir durum ve tutuma, yöntemine uygun biçim vermek

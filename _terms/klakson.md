@@ -2,6 +2,7 @@
 layout: term
 title: klakson
 slug: klakson
+letter: K
 lisan: Fransızca klaxon
 anlamlar:
 - ► korna

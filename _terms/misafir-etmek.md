@@ -2,6 +2,7 @@
 layout: term
 title: misafir etmek
 slug: misafir-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - konuk olarak karşılayıp yedirip içirmek, yatırmak

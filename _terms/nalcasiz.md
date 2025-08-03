@@ -2,6 +2,7 @@
 layout: term
 title: nalçasız
 slug: nalcasiz
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nalçası olmayan

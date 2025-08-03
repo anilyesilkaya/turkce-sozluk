@@ -2,6 +2,7 @@
 layout: term
 title: düşüncel
 slug: dusuncel
+letter: D
 lisan: Türkçe
 anlamlar:
 - Gerçekte olmayıp yalnızca düşüncede, tasarım içinde var olan

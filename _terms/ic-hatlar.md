@@ -2,6 +2,7 @@
 layout: term
 title: iç hatlar
 slug: ic-hatlar
+letter: I
 lisan: Türkçe
 anlamlar:
 - Yurt içi ulaşımını sağlayan yol

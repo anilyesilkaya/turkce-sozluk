@@ -2,6 +2,7 @@
 layout: term
 title: akla karayı seçmek
 slug: akla-karayi-secmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir işi başarıncaya değin çok sıkıntı çekmek, güçlüklerle karşılaşmak

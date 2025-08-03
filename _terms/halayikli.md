@@ -2,6 +2,7 @@
 layout: term
 title: halayıklı
 slug: halayikli
+letter: H
 lisan: Türkçe
 anlamlar:
 - Halayığı olan

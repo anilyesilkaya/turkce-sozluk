@@ -2,6 +2,7 @@
 layout: term
 title: hamlık
 slug: hamlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Ham olma durumu

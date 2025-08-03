@@ -2,6 +2,7 @@
 layout: term
 title: damak tadı
 slug: damak-tadi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Yiyeceklerden alınan lezzet

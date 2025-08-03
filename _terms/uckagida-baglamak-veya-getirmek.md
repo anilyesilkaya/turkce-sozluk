@@ -2,6 +2,7 @@
 layout: term
 title: üçkâğıda bağlamak (veya getirmek)
 slug: uckagida-baglamak-veya-getirmek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - karşısındakini şaşırtarak aldatmak

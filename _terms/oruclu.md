@@ -2,6 +2,7 @@
 layout: term
 title: oruçlu
 slug: oruclu
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oruç tutan (kimse); niyetli, ağzı kilitli

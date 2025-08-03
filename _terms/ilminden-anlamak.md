@@ -2,6 +2,7 @@
 layout: term
 title: ilminden anlamak
 slug: ilminden-anlamak
+letter: I
 lisan: Türkçe
 anlamlar:
 - herhangi bir şeyin uzmanı olmak

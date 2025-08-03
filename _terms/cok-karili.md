@@ -2,6 +2,7 @@
 layout: term
 title: çok karılı
 slug: cok-karili
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Birden çok karısı olan

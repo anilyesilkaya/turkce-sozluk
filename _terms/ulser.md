@@ -2,6 +2,7 @@
 layout: term
 title: ülser
 slug: ulser
+letter: Ü
 lisan: Fransızca ulcère
 anlamlar:
 - ► yara

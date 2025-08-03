@@ -2,6 +2,7 @@
 layout: term
 title: örtünüş
 slug: ortunus
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Örtünmek işi

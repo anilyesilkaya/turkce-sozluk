@@ -2,6 +2,7 @@
 layout: term
 title: bayramda seyranda
 slug: bayramda-seyranda
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► seyrek

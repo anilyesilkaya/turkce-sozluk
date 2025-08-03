@@ -2,6 +2,7 @@
 layout: term
 title: aman vermek
 slug: aman-vermek
+letter: A
 lisan: Türkçe
 anlamlar:
 - canını bağışlamak, öldürmemek

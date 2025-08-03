@@ -2,6 +2,7 @@
 layout: term
 title: taraftarlık
 slug: taraftarlik
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► yandaşlık

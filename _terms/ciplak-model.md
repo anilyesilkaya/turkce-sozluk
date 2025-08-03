@@ -2,6 +2,7 @@
 layout: term
 title: çıplak model
 slug: ciplak-model
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir ressama veya heykeltıraşa çıplak olarak modellik yapan kimse

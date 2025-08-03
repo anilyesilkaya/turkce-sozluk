@@ -2,6 +2,7 @@
 layout: term
 title: elinden geleni yapmak
 slug: elinden-geleni-yapmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - gücünün yettiği kadarını yapmak

@@ -2,6 +2,7 @@
 layout: term
 title: oldubittiye getirmek
 slug: oldubittiye-getirmek
+letter: O
 lisan: Türkçe
 anlamlar:
 - geri dönülmesi güç veya olanaksız bir durum yaratmak; emrivaki yapmak

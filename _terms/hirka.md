@@ -2,6 +2,7 @@
 layout: term
 title: hırka
 slug: hirka
+letter: H
 lisan: Arapça ḫirḳa
 anlamlar:
 - Genellikle soğuktan korunmak için giyilen, bazen içi pamukla beslenmiş, ceket biçiminde, önden açık, kollu üst giysisi

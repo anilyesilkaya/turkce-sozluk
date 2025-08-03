@@ -2,6 +2,7 @@
 layout: term
 title: orak işi
 slug: orak-isi
+letter: O
 lisan: Türkçe
 anlamlar:
 - Orakla ekin, ot vb. biçme

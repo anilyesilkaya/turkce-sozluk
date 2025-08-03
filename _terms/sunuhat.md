@@ -2,6 +2,7 @@
 layout: term
 title: sünuhat
 slug: sunuhat
+letter: S
 lisan: Arapça sünūḥāt
 anlamlar:
 - Akla gelen şeyler, zihinden geçirilen şeyler

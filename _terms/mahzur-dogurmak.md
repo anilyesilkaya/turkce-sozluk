@@ -2,6 +2,7 @@
 layout: term
 title: mahzur doğurmak
 slug: mahzur-dogurmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - ortaya engel çıkarmak, sakınca yaratmak

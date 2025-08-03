@@ -2,6 +2,7 @@
 layout: term
 title: kolon
 slug: kolon
+letter: K
 lisan: Fransızca côlon
 anlamlar:
 - Kalın bağırsağın gödenden önceki bölümü

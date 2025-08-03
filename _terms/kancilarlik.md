@@ -2,6 +2,7 @@
 layout: term
 title: kançılarlık
 slug: kancilarlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kançıların yaptığı iş

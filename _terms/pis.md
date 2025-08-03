@@ -2,6 +2,7 @@
 layout: term
 title: pis
 slug: pis
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► kirli

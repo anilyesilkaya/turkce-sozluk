@@ -2,6 +2,7 @@
 layout: term
 title: ayıplı
 slug: ayipli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayıbı, kusuru olan

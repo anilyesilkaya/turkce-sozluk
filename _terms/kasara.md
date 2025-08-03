@@ -2,6 +2,7 @@
 layout: term
 title: kasara
 slug: kasara
+letter: K
 lisan: İtalyanca cassero
 anlamlar:
 - Geminin baş ve kıç tarafında, asıl güverteden yüksek olan kısa güverte

@@ -2,6 +2,7 @@
 layout: term
 title: biçilmek
 slug: bicilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Biçme işine konu olmak

@@ -2,6 +2,7 @@
 layout: term
 title: elinin tersiyle itmek
 slug: elinin-tersiyle-itmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - reddetmek, kabul etmemek

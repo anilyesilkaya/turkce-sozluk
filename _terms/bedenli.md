@@ -2,6 +2,7 @@
 layout: term
 title: bedenli
 slug: bedenli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bedeni olan

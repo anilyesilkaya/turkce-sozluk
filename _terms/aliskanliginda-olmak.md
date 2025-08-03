@@ -2,6 +2,7 @@
 layout: term
 title: alışkanlığında olmak
 slug: aliskanliginda-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - iyice alışık bulunmak, huy hâline getirmek

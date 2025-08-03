@@ -2,6 +2,7 @@
 layout: term
 title: söğüş
 slug: sogus
+letter: S
 lisan: Türkçe
 anlamlar:
 - Soğuk olarak yenen haşlanmış et

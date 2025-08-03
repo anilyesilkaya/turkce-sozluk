@@ -2,6 +2,7 @@
 layout: term
 title: hoşlanmak
 slug: hoslanmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hoşuna gitmek, hoş bulmak; hazzetmek, hoşlaşmak

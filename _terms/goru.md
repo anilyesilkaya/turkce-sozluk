@@ -2,6 +2,7 @@
 layout: term
 title: görü
 slug: goru
+letter: G
 lisan: Türkçe
 anlamlar:
 - Görme yetisi

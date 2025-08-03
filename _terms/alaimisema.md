@@ -2,6 +2,7 @@
 layout: term
 title: alaimisema
 slug: alaimisema
+letter: A
 lisan: Arapça ʿalā´im + semā
 anlamlar:
 - ► gökkuşağı

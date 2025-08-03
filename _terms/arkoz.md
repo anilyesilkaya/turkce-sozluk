@@ -2,6 +2,7 @@
 layout: term
 title: arkoz
 slug: arkoz
+letter: A
 lisan: Fransızca arkose
 anlamlar:
 - Birleşiminde feldspat bulunan, kum taşı türünden bir tortul kayaç

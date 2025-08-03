@@ -2,6 +2,7 @@
 layout: term
 title: limbo
 slug: limbo
+letter: L
 lisan: İtalyanca limbo
 anlamlar:
 - Irmaklarda, sığ sularda yük taşıyan bir tekne türü

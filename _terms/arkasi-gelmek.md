@@ -2,6 +2,7 @@
 layout: term
 title: arkası gelmek
 slug: arkasi-gelmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - devamlı olmak, süreklilik göstermek

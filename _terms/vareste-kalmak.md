@@ -2,6 +2,7 @@
 layout: term
 title: vareste kalmak
 slug: vareste-kalmak
+letter: V
 lisan: Türkçe
 anlamlar:
 - bir şeyi yapıp yapmamakta özgür bırakılmak

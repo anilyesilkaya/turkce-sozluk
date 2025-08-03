@@ -2,6 +2,7 @@
 layout: term
 title: başıboşluk
 slug: basibosluk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başıboş olma durumu

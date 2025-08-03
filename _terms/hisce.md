@@ -2,6 +2,7 @@
 layout: term
 title: hisçe
 slug: hisce
+letter: H
 lisan: Türkçe
 anlamlar:
 - His bakımından

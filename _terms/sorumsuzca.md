@@ -2,6 +2,7 @@
 layout: term
 title: sorumsuzca
 slug: sorumsuzca
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sorumsuz bir biçimde; mesuliyetsizce

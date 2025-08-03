@@ -2,6 +2,7 @@
 layout: term
 title: akide şekeri
 slug: akide-sekeri
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► akide (II)

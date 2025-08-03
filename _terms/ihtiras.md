@@ -2,6 +2,7 @@
 layout: term
 title: ihtiras
 slug: ihtiras
+letter: I
 lisan: Arapça iḥtirāṣ
 anlamlar:
 - Aşırı, güçlü istek

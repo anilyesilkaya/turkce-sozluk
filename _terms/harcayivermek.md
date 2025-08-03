@@ -2,6 +2,7 @@
 layout: term
 title: harcayıvermek
 slug: harcayivermek
+letter: H
 lisan: Türkçe
 anlamlar:
 - Çabucak harcamak

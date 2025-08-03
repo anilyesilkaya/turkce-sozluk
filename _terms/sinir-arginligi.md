@@ -2,6 +2,7 @@
 layout: term
 title: sinir argınlığı
 slug: sinir-arginligi
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► nevrasteni

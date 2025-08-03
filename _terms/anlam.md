@@ -2,6 +2,7 @@
 layout: term
 title: anlam
 slug: anlam
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir kelimeden, bir sözden, bir davranış veya olgudan anlaşılan şey, bunların hatırlattığı düşünce; mana

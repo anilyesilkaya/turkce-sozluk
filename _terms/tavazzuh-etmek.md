@@ -2,6 +2,7 @@
 layout: term
 title: tavazzuh etmek
 slug: tavazzuh-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - aydınlanmak, açıklık kazanmak, belirli duruma gelmek

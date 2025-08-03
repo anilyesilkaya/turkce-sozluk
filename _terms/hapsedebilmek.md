@@ -2,6 +2,7 @@
 layout: term
 title: hapsedebilmek
 slug: hapsedebilmek
+letter: H
 lisan: Arapça ḥabs + Türkçe edebilmek
 anlamlar:
 - Hapsetme ihtimali veya imkânı bulunmak

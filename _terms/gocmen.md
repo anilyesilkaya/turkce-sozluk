@@ -2,6 +2,7 @@
 layout: term
 title: göçmen
 slug: gocmen
+letter: G
 lisan: Türkçe
 anlamlar:
 - Kendi ülkesinden ayrılarak yerleşmek için başka ülkeye giden (kimse, aile veya topluluk); muhacir

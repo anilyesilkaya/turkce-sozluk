@@ -2,6 +2,7 @@
 layout: term
 title: galat
 slug: galat
+letter: G
 lisan: Arapça ġalaṭ
 anlamlar:
 - Yanlış kelime veya söz

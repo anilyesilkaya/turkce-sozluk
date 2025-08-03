@@ -2,6 +2,7 @@
 layout: term
 title: rütbe
 slug: rutbe
+letter: R
 lisan: Arapça rutbe
 anlamlar:
 - Subay, astsubay ve polislerin sahip olduğu, astlık üstlük ilişkilerini düzenleyen basamak; paye

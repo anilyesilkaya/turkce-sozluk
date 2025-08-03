@@ -2,6 +2,7 @@
 layout: term
 title: yedikleri içtikleri ayrı gitmemek
 slug: yedikleri-ictikleri-ayri-gitmemek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - her zaman bir arada olmak ve sıkı ilişki içinde bulunmak

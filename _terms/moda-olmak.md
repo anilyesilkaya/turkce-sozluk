@@ -2,6 +2,7 @@
 layout: term
 title: moda olmak
 slug: moda-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - yaygın duruma gelmek, herkesçe kabul edilmek

@@ -2,6 +2,7 @@
 layout: term
 title: arslan
 slug: arslan
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► aslan

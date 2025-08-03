@@ -2,6 +2,7 @@
 layout: term
 title: geyik dikeni
 slug: geyik-dikeni
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► alıç

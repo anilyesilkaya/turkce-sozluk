@@ -2,6 +2,7 @@
 layout: term
 title: kasıntısız
 slug: kasintisiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kasıntısı olmayan

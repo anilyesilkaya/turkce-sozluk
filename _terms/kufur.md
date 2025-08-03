@@ -2,6 +2,7 @@
 layout: term
 title: küfür
 slug: kufur
+letter: K
 lisan: Arapça kufr
 anlamlar:
 - Sövmek için söylenen söz; kalay, sövgü

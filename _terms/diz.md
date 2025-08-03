@@ -2,6 +2,7 @@
 layout: term
 title: diz
 slug: diz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Kaval, baldır ve uyluk kemiğinin birleştiği yer

@@ -2,6 +2,7 @@
 layout: term
 title: çırpıntılı
 slug: cirpintili
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Ufak ve oynak dalgalı (deniz)

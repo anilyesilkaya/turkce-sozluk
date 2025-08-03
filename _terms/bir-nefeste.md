@@ -2,6 +2,7 @@
 layout: term
 title: bir nefeste
 slug: bir-nefeste
+letter: B
 lisan: Türkçe
 anlamlar:
 - Ara vermeden (içmek, konuşmak)

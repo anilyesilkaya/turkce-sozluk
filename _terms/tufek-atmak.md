@@ -2,6 +2,7 @@
 layout: term
 title: tüfek atmak
 slug: tufek-atmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - tüfekle ateş etmek

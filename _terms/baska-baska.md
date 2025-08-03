@@ -2,6 +2,7 @@
 layout: term
 title: başka başka
 slug: baska-baska
+letter: B
 lisan: Türkçe
 anlamlar:
 - Her biri değişik

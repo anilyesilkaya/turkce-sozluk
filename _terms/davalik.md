@@ -2,6 +2,7 @@
 layout: term
 title: davalık
 slug: davalik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Davayı gerektiren

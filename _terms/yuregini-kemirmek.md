@@ -2,6 +2,7 @@
 layout: term
 title: yüreğini kemirmek
 slug: yuregini-kemirmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - içini kemirmek, tedirgin olmak

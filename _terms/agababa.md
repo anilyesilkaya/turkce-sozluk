@@ -2,6 +2,7 @@
 layout: term
 title: ağababa
 slug: agababa
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► ata

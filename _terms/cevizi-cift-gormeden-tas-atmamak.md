@@ -2,6 +2,7 @@
 layout: term
 title: cevizi çift görmeden taş atmamak
 slug: cevizi-cift-gormeden-tas-atmamak
+letter: C
 lisan: Türkçe
 anlamlar:
 - işi sağlama almadan yapmamak

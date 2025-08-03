@@ -2,6 +2,7 @@
 layout: term
 title: cızgara
 slug: cizgara
+letter: C
 lisan: Türkçe
 anlamlar:
 - Toplu olarak Türk müziği icra edilirken kullanılan bir yaylı saz türü

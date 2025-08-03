@@ -2,6 +2,7 @@
 layout: term
 title: lahit
 slug: lahit
+letter: L
 lisan: Arapça laḥd
 anlamlar:
 - Duvarları taş veya tuğladan, üstü taş bir kapakla örtülü mezar

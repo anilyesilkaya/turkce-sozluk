@@ -2,6 +2,7 @@
 layout: term
 title: gözetici
 slug: gozetici
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gözetleme yapan kimse; sürveyan

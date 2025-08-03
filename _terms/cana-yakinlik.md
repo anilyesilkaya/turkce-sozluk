@@ -2,6 +2,7 @@
 layout: term
 title: cana yakınlık
 slug: cana-yakinlik
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► sıcakkanlılık

@@ -2,6 +2,7 @@
 layout: term
 title: bandaj
 slug: bandaj
+letter: B
 lisan: Fransızca bandage
 anlamlar:
 - Sargı ile sarma

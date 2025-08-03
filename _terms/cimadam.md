@@ -2,6 +2,7 @@
 layout: term
 title: çimadam
 slug: cimadam
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - İçine çim tohumu ve talaş doldurulan naylon çoraba insan kafası biçimi verilerek meydana getirilen bir tür eğlencelik bitki

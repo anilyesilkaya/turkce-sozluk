@@ -2,6 +2,7 @@
 layout: term
 title: nihilizm
 slug: nihilizm
+letter: N
 lisan: Fransızca nihilisme
 anlamlar:
 - Var olan bütün varlıkları, değerleri ve gerçekleri reddeden bir öğreti

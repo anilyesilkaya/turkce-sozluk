@@ -2,6 +2,7 @@
 layout: term
 title: satılma
 slug: satilma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Satılmak işi

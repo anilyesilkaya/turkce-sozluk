@@ -2,6 +2,7 @@
 layout: term
 title: entrika çevirmek
 slug: entrika-cevirmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - entrika ile amacına ermeye çalışmak, dolap çevirmek

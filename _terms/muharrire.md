@@ -2,6 +2,7 @@
 layout: term
 title: muharrire
 slug: muharrire
+letter: M
 lisan: Arapça muḥarrire
 anlamlar:
 - Kadın yazar

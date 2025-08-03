@@ -2,6 +2,7 @@
 layout: term
 title: miyar
 slug: miyar
+letter: M
 lisan: Arapça miʿyār
 anlamlar:
 - Değerli madenlerde yasanın istediği ağırlık, saflık ve değer derecesini gösteren ölçü

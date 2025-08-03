@@ -2,6 +2,7 @@
 layout: term
 title: kakmalı
 slug: kakmali
+letter: K
 lisan: Türkçe
 anlamlar:
 - Üzerinde kakma işi bulunan

@@ -2,6 +2,7 @@
 layout: term
 title: voli çevirmek
 slug: voli-cevirmek
+letter: V
 lisan: Türkçe
 anlamlar:
 - voli ile balık avlamak

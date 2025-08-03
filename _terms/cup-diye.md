@@ -2,6 +2,7 @@
 layout: term
 title: cup diye
 slug: cup-diye
+letter: C
 lisan: Türkçe
 anlamlar:
 - cup sesi çıkararak

@@ -2,6 +2,7 @@
 layout: term
 title: kolokyum
 slug: kolokyum
+letter: K
 lisan: Latince
 anlamlar:
 - ► konuşu

@@ -2,6 +2,7 @@
 layout: term
 title: kolluk
 slug: kolluk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Teftiş veya güvenliği sağlamak amacıyla dolaşan asker, polis veya jandarma topluluğu; kol (II), karakol, kulluk (II), devriye

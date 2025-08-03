@@ -2,6 +2,7 @@
 layout: term
 title: zehaba (veya zehabına) kapılmak
 slug: zehaba-veya-zehabina-kapilmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - kuruntuya düşmek; vesveselenmek

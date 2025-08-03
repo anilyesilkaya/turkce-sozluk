@@ -2,6 +2,7 @@
 layout: term
 title: sikkeci
 slug: sikkeci
+letter: S
 lisan: Türkçe
 anlamlar:
 - Darphanede madenî paralara damga vuran kimse

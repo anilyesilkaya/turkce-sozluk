@@ -2,6 +2,7 @@
 layout: term
 title: para dökmek (veya akıtmak)
 slug: para-dokmek-veya-akitmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - çok para harcamak

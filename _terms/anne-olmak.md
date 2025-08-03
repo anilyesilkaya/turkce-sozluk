@@ -2,6 +2,7 @@
 layout: term
 title: anne olmak
 slug: anne-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - kadın, çocuk sahibi olmak

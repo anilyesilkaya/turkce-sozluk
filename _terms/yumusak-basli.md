@@ -2,6 +2,7 @@
 layout: term
 title: yumuşak başlı
 slug: yumusak-basli
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► uysal

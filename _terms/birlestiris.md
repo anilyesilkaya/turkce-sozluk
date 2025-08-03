@@ -2,6 +2,7 @@
 layout: term
 title: birleştiriş
 slug: birlestiris
+letter: B
 lisan: Türkçe
 anlamlar:
 - Birleştirmek işi

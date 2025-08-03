@@ -2,6 +2,7 @@
 layout: term
 title: cılk olmak
 slug: cilk-olmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - çok sulanmak

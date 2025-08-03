@@ -2,6 +2,7 @@
 layout: term
 title: ihlal
 slug: ihlal
+letter: I
 lisan: Arapça iḫlāl
 anlamlar:
 - Bozma, zarar verme

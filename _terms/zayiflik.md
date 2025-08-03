@@ -2,6 +2,7 @@
 layout: term
 title: zayıflık
 slug: zayiflik
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zayıf olma durumu; arıklık, çirozluk, nahiflik, zafiyet

@@ -2,6 +2,7 @@
 layout: term
 title: mahkûm etmek
 slug: mahkum-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - hüküm giydirmek

@@ -2,6 +2,7 @@
 layout: term
 title: me
 slug: me
+letter: M
 lisan: Türkçe
 anlamlar:
 - Koyun, kuzu vb. hayvanların çıkardığı ses

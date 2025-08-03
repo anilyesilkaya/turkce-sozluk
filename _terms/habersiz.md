@@ -2,6 +2,7 @@
 layout: term
 title: habersiz
 slug: habersiz
+letter: H
 lisan: Türkçe
 anlamlar:
 - Haberi olmayan, haber almamış, hiçbir bilgisi olmayan; bihaber

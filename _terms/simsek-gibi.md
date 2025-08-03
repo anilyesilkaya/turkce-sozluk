@@ -2,6 +2,7 @@
 layout: term
 title: şimşek gibi
 slug: simsek-gibi
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - çok hızlı

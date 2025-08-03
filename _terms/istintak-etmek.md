@@ -2,6 +2,7 @@
 layout: term
 title: istintak etmek
 slug: istintak-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - sorguya çekmek

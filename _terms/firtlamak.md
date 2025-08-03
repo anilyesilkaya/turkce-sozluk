@@ -2,6 +2,7 @@
 layout: term
 title: fırtlamak
 slug: firtlamak
+letter: F
 lisan: Türkçe
 anlamlar:
 - Baskı sonucu birdenbire yerinden çıkmak

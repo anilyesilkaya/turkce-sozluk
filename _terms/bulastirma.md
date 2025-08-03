@@ -2,6 +2,7 @@
 layout: term
 title: bulaştırma
 slug: bulastirma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bulaştırmak işi; bulatma, sıvaştırma

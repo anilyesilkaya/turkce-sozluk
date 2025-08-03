@@ -2,6 +2,7 @@
 layout: term
 title: bari
 slug: bari
+letter: B
 lisan: Farsça bārī
 anlamlar:
 - Bu durum karşısında; hiç değilse, hiç olmazsa

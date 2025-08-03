@@ -2,6 +2,7 @@
 layout: term
 title: ceza reisi
 slug: ceza-reisi
+letter: C
 lisan: Türkçe
 anlamlar:
 - Ağır ceza mahkemesinin başkanı

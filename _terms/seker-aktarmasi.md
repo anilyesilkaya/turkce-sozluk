@@ -2,6 +2,7 @@
 layout: term
 title: şeker aktarması
 slug: seker-aktarmasi
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - İşaretlerle iletişim kurma, gizlice haberleşme

@@ -2,6 +2,7 @@
 layout: term
 title: reyhani
 slug: reyhani
+letter: R
 lisan: Arapça reyḥānī
 anlamlar:
 - İnce nakışlı

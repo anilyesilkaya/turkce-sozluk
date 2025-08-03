@@ -2,6 +2,7 @@
 layout: term
 title: bir kalem geçmek
 slug: bir-kalem-gecmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - boş vermek, bir an için göz ardı etmek

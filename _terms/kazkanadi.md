@@ -2,6 +2,7 @@
 layout: term
 title: kazkanadı
 slug: kazkanadi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Güreşte rakibi arkadan ve yandan sarıp başını koltuk altına alarak elleri koltukları altından geçirerek sırtında veya ensesinde birleştirme biçimindeki oyun

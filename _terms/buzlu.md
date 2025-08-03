@@ -2,6 +2,7 @@
 layout: term
 title: buzlu
 slug: buzlu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Buz tutmuş, buz bağlamış olan

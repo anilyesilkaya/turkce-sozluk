@@ -2,6 +2,7 @@
 layout: term
 title: kültürel
 slug: kulturel
+letter: K
 lisan: Fransızca culturel
 anlamlar:
 - Kültüre ilişkin, kültürle ilgili; ekinsel

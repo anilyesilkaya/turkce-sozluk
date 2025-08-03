@@ -2,6 +2,7 @@
 layout: term
 title: sahneye çıkmak
 slug: sahneye-cikmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - tiyatro, müzik vb. sanatçılar için sanatını izleyici önünde uygulamak, göstermek

@@ -2,6 +2,7 @@
 layout: term
 title: mülhiye
 slug: mulhiye
+letter: M
 lisan: Arapça mulūḫiyye
 anlamlar:
 - Ihlamurgillerden, yaprakları sebze ve yeşillik olarak kullanılan bir bitki; Yahudi ebegümeci, mühliye (Corchorus olitorius)

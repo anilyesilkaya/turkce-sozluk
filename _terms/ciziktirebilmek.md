@@ -2,6 +2,7 @@
 layout: term
 title: çiziktirebilmek
 slug: ciziktirebilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çiziktirme ihtimali veya imkânı bulunmak

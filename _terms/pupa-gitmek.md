@@ -2,6 +2,7 @@
 layout: term
 title: pupa gitmek
 slug: pupa-gitmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - yelken arkadan esen rüzgârla şişmiş olarak tam yolla gitmek

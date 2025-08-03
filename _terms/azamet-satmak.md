@@ -2,6 +2,7 @@
 layout: term
 title: azamet satmak
 slug: azamet-satmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - kurumlanmak (II)

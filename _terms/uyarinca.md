@@ -2,6 +2,7 @@
 layout: term
 title: uyarınca
 slug: uyarinca
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► gereğince

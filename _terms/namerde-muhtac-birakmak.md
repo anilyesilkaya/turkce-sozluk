@@ -2,6 +2,7 @@
 layout: term
 title: namerde muhtaç bırakmak
 slug: namerde-muhtac-birakmak
+letter: N
 lisan: Türkçe
 anlamlar:
 - güvenilmeyecek kimselerden yardım istemek zorunda bırakmak

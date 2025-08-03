@@ -2,6 +2,7 @@
 layout: term
 title: basınçlanma
 slug: basinclanma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Dalgıcın dipten yukarı çıkarken vurgun yemesini önlemek amacıyla uymak ve beklemek zorunda olduğu çıkış zamanı; aksona

@@ -2,6 +2,7 @@
 layout: term
 title: çok başlı
 slug: cok-basli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Birden fazla başı olan

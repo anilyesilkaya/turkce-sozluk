@@ -2,6 +2,7 @@
 layout: term
 title: uykuda gezmek
 slug: uykuda-gezmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - beyindeki muhtemel bir yapı bozukluğu sebebiyle geceleri uykudan kalkıp fakında olmadan bilinçsizce dolaşmak

@@ -2,6 +2,7 @@
 layout: term
 title: çulha kuşu
 slug: culha-kusu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Baştankaragillerden, 10-11 cm boyunda, yuvasını çeşitli liflerden asılı torba biçiminde ve yalnız kendi girebileceği bir delik bırakacak şekilde yapan, sırtı kahverengi, karnı açık renk, küçük böcek ve örümceklerle beslenen bir iskete kuşu türü (Parus pendulinus)

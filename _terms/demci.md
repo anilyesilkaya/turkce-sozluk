@@ -2,6 +2,7 @@
 layout: term
 title: demci
 slug: demci
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► sarhoş

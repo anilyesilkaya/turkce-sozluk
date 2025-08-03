@@ -2,6 +2,7 @@
 layout: term
 title: başı üstünde yeri olmak
 slug: basi-ustunde-yeri-olmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - her zaman iyi karşılanmak, ağırlanmak

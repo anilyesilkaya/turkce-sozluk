@@ -2,6 +2,7 @@
 layout: term
 title: Yafa portakalı
 slug: yafa-portakali
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Kalın kabuklu, bir portakal türü

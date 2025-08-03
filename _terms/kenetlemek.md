@@ -2,6 +2,7 @@
 layout: term
 title: kenetlemek
 slug: kenetlemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kenetle tutturmak veya kenetle birbirine bağlamak

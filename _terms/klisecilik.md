@@ -2,6 +2,7 @@
 layout: term
 title: klişecilik
 slug: klisecilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Klişecinin yaptığı iş

@@ -2,6 +2,7 @@
 layout: term
 title: damat girmek
 slug: damat-girmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - aileye güveyi olarak katılmak

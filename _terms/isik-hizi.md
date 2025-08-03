@@ -2,6 +2,7 @@
 layout: term
 title: ışık hızı
 slug: isik-hizi
+letter: I
 lisan: Türkçe
 anlamlar:
 - Işığın bir saniyede aldığı yol

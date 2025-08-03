@@ -2,6 +2,7 @@
 layout: term
 title: bütçe açığı
 slug: butce-acigi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bütçede belirlenen giderlerin gelirlerden çok olması durumu

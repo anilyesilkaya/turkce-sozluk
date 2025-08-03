@@ -2,6 +2,7 @@
 layout: term
 title: pelteleşme
 slug: peltelesme
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pelteleşmek işi

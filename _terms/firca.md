@@ -2,6 +2,7 @@
 layout: term
 title: fırça
 slug: firca
+letter: F
 lisan: Rumca
 anlamlar:
 - Bir şeyin tozunu, kirini gidermekte veya bir şeye boya, cila sürmekte kullanılan, bir araya getirilerek bağlanmış kıl vb.nden yapılan araç

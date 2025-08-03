@@ -2,6 +2,7 @@
 layout: term
 title: dalöğlen
 slug: daloglen
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► dalöğle

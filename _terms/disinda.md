@@ -2,6 +2,7 @@
 layout: term
 title: dışında
 slug: disinda
+letter: D
 lisan: Türkçe
 anlamlar:
 - -den başka, sayılmazsa

@@ -2,6 +2,7 @@
 layout: term
 title: eşeğin ölümü köpeğe ziyafettir (veya düğündür)
 slug: esegin-olumu-kopege-ziyafettir-veya-dugundur
+letter: E
 lisan: Türkçe
 anlamlar:
 - '"bir kişinin uğradığı zarar kimi zaman bir başkası için çıkar kaynağı olur" anlamında kullanılan bir söz'

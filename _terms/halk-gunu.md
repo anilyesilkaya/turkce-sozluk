@@ -2,6 +2,7 @@
 layout: term
 title: halk günü
 slug: halk-gunu
+letter: H
 lisan: Türkçe
 anlamlar:
 - Vali, belediye başkanı vb.nin sorunlarını dinlemek için halkla görüştüğü gün

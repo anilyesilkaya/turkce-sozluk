@@ -2,6 +2,7 @@
 layout: term
 title: açık yürekli
 slug: acik-yurekli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Düşündüğünü olduğu gibi söyleyen, içi temiz, gizli yönü olmayan (kimse); samimi, açık kalpli

@@ -2,6 +2,7 @@
 layout: term
 title: açık dolaşım sistemi
 slug: acik-dolasim-sistemi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Genellikle bütün eklem bacaklılarda ve birçok yumuşakçada bulunan atardamar ve kan boşluğundan oluşmuş açık bir dolaşım sistemi

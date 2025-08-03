@@ -2,6 +2,7 @@
 layout: term
 title: çabalamak
 slug: cabalamak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Güç bir durumdan kurtulmaya uğraşmak

@@ -2,6 +2,7 @@
 layout: term
 title: balta ibik
 slug: balta-ibik
+letter: B
 lisan: Türkçe
 anlamlar:
 - İbiği baltaya benzeyen (horoz)

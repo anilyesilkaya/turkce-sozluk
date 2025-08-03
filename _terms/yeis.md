@@ -2,6 +2,7 @@
 layout: term
 title: yeis
 slug: yeis
+letter: Y
 lisan: Arapça yeʾs
 anlamlar:
 - Umutsuzluktan doğan karamsarlık, üzüntü

@@ -2,6 +2,7 @@
 layout: term
 title: dişileşmek
 slug: disilesmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dişiye özgü davranışta bulunmak

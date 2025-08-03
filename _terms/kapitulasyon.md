@@ -2,6 +2,7 @@
 layout: term
 title: kapitülasyon
 slug: kapitulasyon
+letter: K
 lisan: Fransızca capitulation
 anlamlar:
 - Bir ülkede yurttaşların zararına olarak yabancılara verilen ayrıcalık hakları

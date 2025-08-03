@@ -2,6 +2,7 @@
 layout: term
 title: hayvanoğluhayvan
 slug: hayvanogluhayvan
+letter: H
 lisan: Türkçe
 anlamlar:
 - Kurnaz, işini bilen, düzenbaz, açıkgöz, uyanık kimse

@@ -2,6 +2,7 @@
 layout: term
 title: numunelik
 slug: numunelik
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► örneklik

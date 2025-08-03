@@ -2,6 +2,7 @@
 layout: term
 title: abajur
 slug: abajur
+letter: A
 lisan: Fransızca abat-jour
 anlamlar:
 - Işığı bir yere toplamak, doğrudan doğruya gözlere vurmasını önlemek için kullanılan, kâğıt, kumaş, maden veya renkli camdan yapılmış lamba siperi

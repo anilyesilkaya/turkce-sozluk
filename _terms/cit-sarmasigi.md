@@ -2,6 +2,7 @@
 layout: term
 title: çit sarmaşığı
 slug: cit-sarmasigi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çit sarmaşığıgillerin örnek bitkisi olan, genellikle tarla kenarlarında yetişen, beyaz çiçekli, tüysüz ve uzun saplı, çok yıllık ve otsu bir bitki (Convolvulus sepium)

@@ -2,6 +2,7 @@
 layout: term
 title: sayısızlık
 slug: sayisizlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sayısız olma durumu

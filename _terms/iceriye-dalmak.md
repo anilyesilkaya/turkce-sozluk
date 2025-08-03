@@ -2,6 +2,7 @@
 layout: term
 title: içeriye dalmak
 slug: iceriye-dalmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - kapalı bir yere hızlıca girmek

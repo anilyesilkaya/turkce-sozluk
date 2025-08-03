@@ -2,6 +2,7 @@
 layout: term
 title: cozutmak
 slug: cozutmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - Aklını kaybetmek

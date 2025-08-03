@@ -2,6 +2,7 @@
 layout: term
 title: görecelik
 slug: gorecelik
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► bağıntılılık

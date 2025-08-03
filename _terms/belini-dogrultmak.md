@@ -2,6 +2,7 @@
 layout: term
 title: belini doğrultmak
 slug: belini-dogrultmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - yeniden durumunu düzeltmek

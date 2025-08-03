@@ -2,6 +2,7 @@
 layout: term
 title: diminuendo
 slug: diminuendo
+letter: D
 lisan: İtalyanca diminuendo
 anlamlar:
 - Müzik parçasının başında ">" işaretiyle gösterilen nota terimi

@@ -2,6 +2,7 @@
 layout: term
 title: karılık etmek
 slug: karilik-etmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - evli bir kadın kocasına olan görevini yerine getirmek

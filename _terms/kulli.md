@@ -2,6 +2,7 @@
 layout: term
 title: külli
 slug: kulli
+letter: K
 lisan: Arapça kullī
 anlamlar:
 - Bütüne ve genele ilişkin

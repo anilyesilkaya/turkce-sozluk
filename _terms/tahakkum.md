@@ -2,6 +2,7 @@
 layout: term
 title: tahakküm
 slug: tahakkum
+letter: T
 lisan: Arapça taḥakkum
 anlamlar:
 - Baskı yaparak hükmetme, zorbalıkla hüküm sürme

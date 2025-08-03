@@ -2,6 +2,7 @@
 layout: term
 title: hava tebdili
 slug: hava-tebdili
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► hava değişimi

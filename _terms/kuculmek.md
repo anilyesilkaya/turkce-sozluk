@@ -2,6 +2,7 @@
 layout: term
 title: küçülmek
 slug: kuculmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Büyükken herhangi bir sebeple küçük duruma gelmek; ufalmak

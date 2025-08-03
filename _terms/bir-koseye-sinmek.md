@@ -2,6 +2,7 @@
 layout: term
 title: bir köşeye sinmek
 slug: bir-koseye-sinmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - kimsenin görmeyeceği bir yere saklanmak, gizlenmek, sesi çıkmaz olmak

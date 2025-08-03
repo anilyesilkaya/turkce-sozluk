@@ -2,6 +2,7 @@
 layout: term
 title: sebeplenmek
 slug: sebeplenmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kendisine dolaylı olarak yarar sağlamak

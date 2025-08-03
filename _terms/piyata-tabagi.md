@@ -2,6 +2,7 @@
 layout: term
 title: piyata tabağı
 slug: piyata-tabagi
+letter: P
 lisan: Türkçe
 anlamlar:
 - Düz ve büyük yemek tabağı

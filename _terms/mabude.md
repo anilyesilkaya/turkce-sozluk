@@ -2,6 +2,7 @@
 layout: term
 title: mabude
 slug: mabude
+letter: M
 lisan: Arapça maʿbūde
 anlamlar:
 - ► tanrıça

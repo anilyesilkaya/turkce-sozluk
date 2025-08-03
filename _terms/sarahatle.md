@@ -2,6 +2,7 @@
 layout: term
 title: sarahatle
 slug: sarahatle
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► sarahaten

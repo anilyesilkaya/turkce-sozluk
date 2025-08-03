@@ -2,6 +2,7 @@
 layout: term
 title: yapabilmek
 slug: yapabilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yapma ihtimali veya imkânı bulunmak

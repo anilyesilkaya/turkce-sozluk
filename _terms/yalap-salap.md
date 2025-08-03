@@ -2,6 +2,7 @@
 layout: term
 title: yalap şalap
 slug: yalap-salap
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► üstünkörü

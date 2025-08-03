@@ -2,6 +2,7 @@
 layout: term
 title: kethüda
 slug: kethuda
+letter: K
 lisan: Farsça ked + ḫudā
 anlamlar:
 - Zengin kimselerin ve devlet büyüklerinin buyruğunda çalışan, onların birtakım işlerini gören kimse; kâhya

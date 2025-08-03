@@ -2,6 +2,7 @@
 layout: term
 title: maltız
 slug: maltiz
+letter: M
 lisan: İtalyanca maltese
 anlamlar:
 - Çoğunlukla yemek pişirmekte kullanılan, içinde ızgarası bulunan, ayaklı ve taşınır ocak

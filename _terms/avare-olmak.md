@@ -2,6 +2,7 @@
 layout: term
 title: avare olmak
 slug: avare-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - işsiz güçsüz dolaşmak

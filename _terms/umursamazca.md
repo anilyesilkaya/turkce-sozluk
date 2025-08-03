@@ -2,6 +2,7 @@
 layout: term
 title: umursamazca
 slug: umursamazca
+letter: U
 lisan: Türkçe
 anlamlar:
 - Umursamaz bir biçimde; umursamazcasına

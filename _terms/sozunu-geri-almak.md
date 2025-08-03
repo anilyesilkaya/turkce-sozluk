@@ -2,6 +2,7 @@
 layout: term
 title: sözünü geri almak
 slug: sozunu-geri-almak
+letter: S
 lisan: Türkçe
 anlamlar:
 - üstüne aldığı bir işten vazgeçtiğini söylemek

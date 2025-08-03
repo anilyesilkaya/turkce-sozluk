@@ -2,6 +2,7 @@
 layout: term
 title: açıklıkla
 slug: aciklikla
+letter: A
 lisan: Türkçe
 anlamlar:
 - Açık bir biçimde, açık olarak

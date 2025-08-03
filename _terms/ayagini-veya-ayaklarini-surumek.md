@@ -2,6 +2,7 @@
 layout: term
 title: ayağını (veya ayaklarını) sürümek
 slug: ayagini-veya-ayaklarini-surumek
+letter: A
 lisan: Türkçe
 anlamlar:
 - verilen bir işi ağırdan almak

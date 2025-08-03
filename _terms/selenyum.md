@@ -2,6 +2,7 @@
 layout: term
 title: selenyum
 slug: selenyum
+letter: S
 lisan: Fransızca sélénium
 anlamlar:
 - Atom numarası 34, yoğunluğu 4,8 olan, 217 °C'de eriyen, ısı ve elektriği ileten, genellikle telsiz telefon, televizyon yapımında kullanılan bir element (simgesi Se)

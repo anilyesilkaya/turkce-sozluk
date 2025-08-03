@@ -2,6 +2,7 @@
 layout: term
 title: istençsiz
 slug: istencsiz
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► iradesiz

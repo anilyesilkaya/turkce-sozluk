@@ -2,6 +2,7 @@
 layout: term
 title: yaldızcılık
 slug: yaldizcilik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaldızcının işi

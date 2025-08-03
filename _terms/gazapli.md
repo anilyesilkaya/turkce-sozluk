@@ -2,6 +2,7 @@
 layout: term
 title: gazaplı
 slug: gazapli
+letter: G
 lisan: Türkçe
 anlamlar:
 - Öfkeli, kızgın, hiddetli olan

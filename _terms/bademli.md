@@ -2,6 +2,7 @@
 layout: term
 title: bademli
 slug: bademli
+letter: B
 lisan: Türkçe
 anlamlar:
 - İçinde badem bulunan (yiyecek)

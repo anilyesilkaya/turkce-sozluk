@@ -2,6 +2,7 @@
 layout: term
 title: parçalamak
 slug: parcalamak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Parçalara ayırmak, bütünlüğünü bozmak, parça parça etmek; paralamak

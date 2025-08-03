@@ -2,6 +2,7 @@
 layout: term
 title: kalça kemiği
 slug: kalca-kemigi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yassı, geniş, girintisi ve çıkıntısı çok olan, leğen veya kemik çatının ön ve yan bölümlerini oluşturan bir çift kemik; oma

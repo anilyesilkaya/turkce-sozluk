@@ -2,6 +2,7 @@
 layout: term
 title: bacı
 slug: baci
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► kız kardeş

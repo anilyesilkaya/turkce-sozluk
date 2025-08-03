@@ -2,6 +2,7 @@
 layout: term
 title: yutma
 slug: yutma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yutmak işi

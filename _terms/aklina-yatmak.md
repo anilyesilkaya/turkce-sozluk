@@ -2,6 +2,7 @@
 layout: term
 title: aklına yatmak
 slug: aklina-yatmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - doğru olduğunu kabul etmek

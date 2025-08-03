@@ -2,6 +2,7 @@
 layout: term
 title: övünmek
 slug: ovunmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Bir niteliği sebebiyle kendini yücelmiş sayarak bundan abartmalı bir biçimde söz etmek; kıvançlanmak, iftihar etmek

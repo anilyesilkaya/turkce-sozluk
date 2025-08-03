@@ -2,6 +2,7 @@
 layout: term
 title: tortulaşma
 slug: tortulasma
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tortulaşmak durumu

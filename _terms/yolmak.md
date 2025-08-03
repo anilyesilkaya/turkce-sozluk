@@ -2,6 +2,7 @@
 layout: term
 title: yolmak
 slug: yolmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bitki, tüy vb.ni çekerek yerinden çıkarmak, çekip koparmak; almak

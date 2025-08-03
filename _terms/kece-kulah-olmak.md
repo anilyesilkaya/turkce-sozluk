@@ -2,6 +2,7 @@
 layout: term
 title: keçe külah olmak
 slug: kece-kulah-olmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - ordudan veya resmî görevden çıkarılmak

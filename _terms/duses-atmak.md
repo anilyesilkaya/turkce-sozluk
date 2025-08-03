@@ -2,6 +2,7 @@
 layout: term
 title: düşeş atmak
 slug: duses-atmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - tavlada zarlar altı altı gelmek

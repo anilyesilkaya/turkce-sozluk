@@ -2,6 +2,7 @@
 layout: term
 title: önlük
 slug: onluk
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Herhangi bir iş genellikle de yemek yaparken giysi kirlenmesin diye giyilen, boyundan askılı ve bele bağlanan örtü; iş önlüğü, prostela

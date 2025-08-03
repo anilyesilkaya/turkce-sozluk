@@ -2,6 +2,7 @@
 layout: term
 title: hasılı
 slug: hasili
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► kısacası

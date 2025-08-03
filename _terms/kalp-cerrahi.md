@@ -2,6 +2,7 @@
 layout: term
 title: kalp cerrahı
 slug: kalp-cerrahi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalp ameliyatı konusunda uzmanlaşmış cerrah

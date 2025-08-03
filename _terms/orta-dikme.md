@@ -2,6 +2,7 @@
 layout: term
 title: orta dikme
 slug: orta-dikme
+letter: O
 lisan: Türkçe
 anlamlar:
 - Bir doğru parçasına orta noktasında dik olan doğru

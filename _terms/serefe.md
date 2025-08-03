@@ -2,6 +2,7 @@
 layout: term
 title: şerefe
 slug: serefe
+letter: Ş
 lisan: Arapça şerefe
 anlamlar:
 - Minarenin gövdesini çepeçevre dolaşan, korkuluklu, ezan okunan yer

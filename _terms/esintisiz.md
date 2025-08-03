@@ -2,6 +2,7 @@
 layout: term
 title: esintisiz
 slug: esintisiz
+letter: E
 lisan: Türkçe
 anlamlar:
 - Esintisi olmayan

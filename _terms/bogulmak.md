@@ -2,6 +2,7 @@
 layout: term
 title: boğulmak
 slug: bogulmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boğma işine konu olmak

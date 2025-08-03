@@ -2,6 +2,7 @@
 layout: term
 title: artçı deprem
 slug: artci-deprem
+letter: A
 lisan: Türkçe
 anlamlar:
 - Asıl depremden sonra meydana gelen şiddet ve büyüklük bakımından daha küçük olan deprem; artçı sarsıntı, artçı şok

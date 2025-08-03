@@ -2,6 +2,7 @@
 layout: term
 title: haşiş
 slug: hasis
+letter: H
 lisan: Arapça ḥaşīş
 anlamlar:
 - Hint kenevirinden çıkarılan esrar

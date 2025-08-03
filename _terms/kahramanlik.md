@@ -2,6 +2,7 @@
 layout: term
 title: kahramanlık
 slug: kahramanlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kahramanca davranış; yiğitlik

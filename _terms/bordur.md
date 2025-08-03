@@ -2,6 +2,7 @@
 layout: term
 title: bordür
 slug: bordur
+letter: B
 lisan: Fransızca bordure
 anlamlar:
 - Kaldırımların kenarlarında bulunan taşlar; kenar taşı

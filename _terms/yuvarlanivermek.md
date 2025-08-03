@@ -2,6 +2,7 @@
 layout: term
 title: yuvarlanıvermek
 slug: yuvarlanivermek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Ansızın yuvarlanmak

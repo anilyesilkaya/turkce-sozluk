@@ -2,6 +2,7 @@
 layout: term
 title: yaftalanmak
 slug: yaftalanmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yafta asılmak veya yapıştırılmak

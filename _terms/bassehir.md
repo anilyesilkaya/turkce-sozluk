@@ -2,6 +2,7 @@
 layout: term
 title: başşehir
 slug: bassehir
+letter: B
 lisan: Türkçe baş + Farsça şehr
 anlamlar:
 - ► başkent

@@ -2,6 +2,7 @@
 layout: term
 title: emekliye ayrılmak (veya çıkmak)
 slug: emekliye-ayrilmak-veya-cikmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - emekli olmak, tekaüde sevk olunmak

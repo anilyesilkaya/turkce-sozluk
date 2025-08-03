@@ -2,6 +2,7 @@
 layout: term
 title: antikalık
 slug: antikalik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Antika olma durumu

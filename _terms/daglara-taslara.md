@@ -2,6 +2,7 @@
 layout: term
 title: dağlara taşlara
 slug: daglara-taslara
+letter: D
 lisan: Türkçe
 anlamlar:
 - kötü bir durumdan söz edilirken "hepimizden ırak olsun" anlamında kullanılan bir söz

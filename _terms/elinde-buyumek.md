@@ -2,6 +2,7 @@
 layout: term
 title: elinde büyümek
 slug: elinde-buyumek
+letter: E
 lisan: Türkçe
 anlamlar:
 - büyütülmek, bakılmak

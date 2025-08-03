@@ -2,6 +2,7 @@
 layout: term
 title: hareketli
 slug: hareketli
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hareketi olan, yer değiştirebilen; devingen, oynak, müteharrik, mobilize

@@ -2,6 +2,7 @@
 layout: term
 title: tüttürüş
 slug: tutturus
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tüttürmek işi

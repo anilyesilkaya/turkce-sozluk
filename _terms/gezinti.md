@@ -2,6 +2,7 @@
 layout: term
 title: gezinti
 slug: gezinti
+letter: G
 lisan: Türkçe
 anlamlar:
 - Uzak olmayan bir yere yapılan gezi; teferrüç, tenezzüh

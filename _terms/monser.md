@@ -2,6 +2,7 @@
 layout: term
 title: monşer
 slug: monser
+letter: M
 lisan: Fransızca monchère
 anlamlar:
 - '"Azizim, dostum" anlamında kullanılan bir seslenme sözü'

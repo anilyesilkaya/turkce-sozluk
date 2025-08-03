@@ -2,6 +2,7 @@
 layout: term
 title: mânia
 slug: mania
+letter: M
 lisan: Arapça māniʿa
 anlamlar:
 - ► engel

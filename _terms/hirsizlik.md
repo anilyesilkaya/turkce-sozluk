@@ -2,6 +2,7 @@
 layout: term
 title: hırsızlık
 slug: hirsizlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Başkasına ait olan bir şeyi çalmak suretiyle işlenen suç; sirkat, uğruluk

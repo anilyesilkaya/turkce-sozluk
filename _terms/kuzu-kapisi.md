@@ -2,6 +2,7 @@
 layout: term
 title: kuzu kapısı
 slug: kuzu-kapisi
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kuzu kapı

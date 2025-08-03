@@ -2,6 +2,7 @@
 layout: term
 title: öyküleme
 slug: oykuleme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öykülemek işi

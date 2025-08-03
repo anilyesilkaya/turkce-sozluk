@@ -2,6 +2,7 @@
 layout: term
 title: saplanıvermek
 slug: saplanivermek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Aniden saplanmak

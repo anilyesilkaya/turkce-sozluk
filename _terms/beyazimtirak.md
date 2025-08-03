@@ -2,6 +2,7 @@
 layout: term
 title: beyazımtırak
 slug: beyazimtirak
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► beyazımsı

@@ -2,6 +2,7 @@
 layout: term
 title: ipliği pazara çıkmak
 slug: ipligi-pazara-cikmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - kötü nitelik ve suçları ortaya çıkmak

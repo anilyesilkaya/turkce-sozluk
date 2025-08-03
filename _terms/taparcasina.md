@@ -2,6 +2,7 @@
 layout: term
 title: taparcasına
 slug: taparcasina
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tapar biçimde, aşırı sevgiyle

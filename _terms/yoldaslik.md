@@ -2,6 +2,7 @@
 layout: term
 title: yoldaşlık
 slug: yoldaslik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yoldaş olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: sabit
 slug: sabit
+letter: S
 lisan: Arapça s̱ābit
 anlamlar:
 - Yerinden oynamayan, yerini değiştirmeyen; durağan

@@ -2,6 +2,7 @@
 layout: term
 title: yalnızcılık
 slug: yalnizcilik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Uluslararası konulara ve anlaşmazlıklara katılmama siyaseti; infiratçılık

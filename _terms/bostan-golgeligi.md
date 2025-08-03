@@ -2,6 +2,7 @@
 layout: term
 title: bostan gölgeliği
 slug: bostan-golgeligi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağ ve bahçelerde gölgelenmek veya yağmurdan korunmak için yapılan, üstü örtülü, basit gölgelik

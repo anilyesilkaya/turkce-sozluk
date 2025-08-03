@@ -2,6 +2,7 @@
 layout: term
 title: dermatolojik
 slug: dermatolojik
+letter: D
 lisan: Fransızca dermatologique
 anlamlar:
 - Dermatoloji ile ilgili

@@ -2,6 +2,7 @@
 layout: term
 title: hürmetsizlik
 slug: hurmetsizlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► saygısızlık

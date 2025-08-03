@@ -2,6 +2,7 @@
 layout: term
 title: buracıkta
 slug: buracikta
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çok yakın bir yerde

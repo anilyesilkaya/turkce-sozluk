@@ -2,6 +2,7 @@
 layout: term
 title: tıkıverme
 slug: tikiverme
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tıkıvermek işi

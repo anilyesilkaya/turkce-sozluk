@@ -2,6 +2,7 @@
 layout: term
 title: sent
 slug: sent
+letter: S
 lisan: İngilizce cent
 anlamlar:
 - Doların yüzde biri değerinde para birimi

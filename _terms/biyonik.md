@@ -2,6 +2,7 @@
 layout: term
 title: biyonik
 slug: biyonik
+letter: B
 lisan: Fransızca bionique
 anlamlar:
 - Biyoloji ve elektronikle ilgili olan; dirim kurgusal

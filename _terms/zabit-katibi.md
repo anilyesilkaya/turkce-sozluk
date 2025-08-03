@@ -2,6 +2,7 @@
 layout: term
 title: zabıt kâtibi
 slug: zabit-katibi
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Adliyelerde yazı işlerinden sorumlu memur

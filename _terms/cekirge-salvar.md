@@ -2,6 +2,7 @@
 layout: term
 title: çekirge şalvar
 slug: cekirge-salvar
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Paçaları çok dar, bacak bölümü geniş olarak dikilmiş şalvar

@@ -2,6 +2,7 @@
 layout: term
 title: bitişken
 slug: bitisken
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bitişme özelliği olan; eklemeli, iltisaki

@@ -2,6 +2,7 @@
 layout: term
 title: kuru yemiş
 slug: kuru-yemis
+letter: K
 lisan: Türkçe
 anlamlar:
 - Fındık, fıstık, leblebi gibi yemek dışında yenilen yiyecekler; meyvehoş

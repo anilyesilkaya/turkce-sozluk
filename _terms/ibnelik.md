@@ -2,6 +2,7 @@
 layout: term
 title: ibnelik
 slug: ibnelik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İbne olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: yukarıdan bakmak
 slug: yukaridan-bakmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - kendini karşısındakinden üstün görmek

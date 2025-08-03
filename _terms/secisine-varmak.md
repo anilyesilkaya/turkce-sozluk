@@ -2,6 +2,7 @@
 layout: term
 title: seçisine varmak
 slug: secisine-varmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - ayrıntıyı anlamak

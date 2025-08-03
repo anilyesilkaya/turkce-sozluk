@@ -2,6 +2,7 @@
 layout: term
 title: yara
 slug: yara
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Keskin bir şeyle veya bir vuruşla vücutta oluşan derin kesik; ceriha

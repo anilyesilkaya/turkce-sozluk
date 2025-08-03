@@ -2,6 +2,7 @@
 layout: term
 title: bulanıklaştırılmak
 slug: bulaniklastirilmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bulanık bir duruma getirilmek

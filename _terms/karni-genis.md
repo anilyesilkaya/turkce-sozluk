@@ -2,6 +2,7 @@
 layout: term
 title: karnı geniş
 slug: karni-genis
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çok yemek yiyen, obur (kimse)

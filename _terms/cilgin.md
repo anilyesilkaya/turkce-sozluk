@@ -2,6 +2,7 @@
 layout: term
 title: çılgın
 slug: cilgin
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Aşırı davranışlarda bulunan

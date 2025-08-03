@@ -2,6 +2,7 @@
 layout: term
 title: süngülenmek
 slug: sungulenmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Süngüleme işi yapılmak

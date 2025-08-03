@@ -2,6 +2,7 @@
 layout: term
 title: demir rengi
 slug: demir-rengi
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► kül rengi

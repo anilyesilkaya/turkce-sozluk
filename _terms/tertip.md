@@ -2,6 +2,7 @@
 layout: term
 title: tertip
 slug: tertip
+letter: T
 lisan: Arapça tertīb
 anlamlar:
 - ► sıralama

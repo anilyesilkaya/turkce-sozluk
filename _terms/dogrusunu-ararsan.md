@@ -2,6 +2,7 @@
 layout: term
 title: doğrusunu ararsan
 slug: dogrusunu-ararsan
+letter: D
 lisan: Türkçe
 anlamlar:
 - “doğrusunu söylemek gerekirse” anlamında kullanılan bir söz

@@ -2,6 +2,7 @@
 layout: term
 title: genel görüşme
 slug: genel-gorusme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Toplumla veya devletin faaliyetleriyle ilgili konuların Türkiye Büyük Millet Meclisi genel kurulunda görüşülmesi

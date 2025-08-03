@@ -2,6 +2,7 @@
 layout: term
 title: çalısız
 slug: calisiz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çalısı olmayan

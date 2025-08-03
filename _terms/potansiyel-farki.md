@@ -2,6 +2,7 @@
 layout: term
 title: potansiyel farkı
 slug: potansiyel-farki
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► gerilim

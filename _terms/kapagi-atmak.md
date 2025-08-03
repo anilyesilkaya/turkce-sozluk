@@ -2,6 +2,7 @@
 layout: term
 title: kapağı atmak
 slug: kapagi-atmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - sıkıntısız, rahat bir yere sığınmak, kaçıp kurtulmak

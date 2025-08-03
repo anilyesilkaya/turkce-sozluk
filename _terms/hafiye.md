@@ -2,6 +2,7 @@
 layout: term
 title: hafiye
 slug: hafiye
+letter: H
 lisan: Arapça ḫafiyye
 anlamlar:
 - ► dedektif

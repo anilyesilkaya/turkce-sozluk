@@ -2,6 +2,7 @@
 layout: term
 title: tırıs
 slug: tiris
+letter: T
 lisan: Türkçe
 anlamlar:
 - Atın kısa adımlarla hızlı yürüyüşü

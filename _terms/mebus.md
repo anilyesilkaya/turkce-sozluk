@@ -2,6 +2,7 @@
 layout: term
 title: mebus
 slug: mebus
+letter: M
 lisan: Arapça mebʿūs̱
 anlamlar:
 - ► milletvekili

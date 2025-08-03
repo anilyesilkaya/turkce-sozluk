@@ -2,6 +2,7 @@
 layout: term
 title: cayırdama
 slug: cayirdama
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cayırdamak işi

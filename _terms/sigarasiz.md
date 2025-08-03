@@ -2,6 +2,7 @@
 layout: term
 title: sigarasız
 slug: sigarasiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sigarası olmayan

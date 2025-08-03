@@ -2,6 +2,7 @@
 layout: term
 title: elinde olmak
 slug: elinde-olmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - isteyince o işi yapabilmek

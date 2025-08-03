@@ -2,6 +2,7 @@
 layout: term
 title: fidanlık
 slug: fidanlik
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fidan yetiştirilen yer; dikmelik

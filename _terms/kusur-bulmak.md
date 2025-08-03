@@ -2,6 +2,7 @@
 layout: term
 title: kusur bulmak
 slug: kusur-bulmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir şeyin eksikliğini, özrünü görmek

@@ -2,6 +2,7 @@
 layout: term
 title: sözün ardı boşa çıkmak
 slug: sozun-ardi-bosa-cikmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - söz olumlu sonuca ulaşmamak

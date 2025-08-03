@@ -2,6 +2,7 @@
 layout: term
 title: canlanış
 slug: canlanis
+letter: C
 lisan: Türkçe
 anlamlar:
 - Canlanmak işi

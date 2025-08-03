@@ -2,6 +2,7 @@
 layout: term
 title: sırıtış
 slug: siritis
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sırıtmak işi

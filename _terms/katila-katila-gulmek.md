@@ -2,6 +2,7 @@
 layout: term
 title: katıla katıla gülmek
 slug: katila-katila-gulmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - aşırı derecede gülmek

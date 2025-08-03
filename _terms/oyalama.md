@@ -2,6 +2,7 @@
 layout: term
 title: oyalama
 slug: oyalama
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oyalamak işi

@@ -2,6 +2,7 @@
 layout: term
 title: müteneffir
 slug: muteneffir
+letter: M
 lisan: Arapça muteneffir
 anlamlar:
 - İğrenmiş, tiksinmiş

@@ -2,6 +2,7 @@
 layout: term
 title: okuryazar
 slug: okuryazar
+letter: O
 lisan: Türkçe
 anlamlar:
 - Okuması yazması olan, öğrenim görmüş (kimse)

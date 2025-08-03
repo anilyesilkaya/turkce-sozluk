@@ -2,6 +2,7 @@
 layout: term
 title: canhıraş
 slug: canhiras
+letter: C
 lisan: Farsça cānḫirāş
 anlamlar:
 - Yürek paralayan, iç tırmalayan, tüyler ürpertecek kadar korkunç

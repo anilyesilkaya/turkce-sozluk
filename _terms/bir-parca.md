@@ -2,6 +2,7 @@
 layout: term
 title: bir parça
 slug: bir-parca
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çok az; az buçuk, az çok

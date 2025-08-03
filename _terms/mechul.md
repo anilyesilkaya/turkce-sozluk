@@ -2,6 +2,7 @@
 layout: term
 title: meçhul
 slug: mechul
+letter: M
 lisan: Arapça mechūl
 anlamlar:
 - Bilinmeyen, bilinmedik

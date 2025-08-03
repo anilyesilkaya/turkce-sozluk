@@ -2,6 +2,7 @@
 layout: term
 title: takarrüp
 slug: takarrup
+letter: T
 lisan: Arapça taḳarrub
 anlamlar:
 - Yakınlaşma, yaklaşma, yanaşma

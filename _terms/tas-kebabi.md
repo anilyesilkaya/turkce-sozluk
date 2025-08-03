@@ -2,6 +2,7 @@
 layout: term
 title: tas kebabı
 slug: tas-kebabi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Yağsız kuşbaşı etlerin üzerine tas kapatılıp pirinç, soğan, patates vb. malzeme ile hazırlanan bir yemek türü

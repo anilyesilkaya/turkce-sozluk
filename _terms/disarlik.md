@@ -2,6 +2,7 @@
 layout: term
 title: dışarlık
 slug: disarlik
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► taşra

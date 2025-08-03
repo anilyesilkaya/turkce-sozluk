@@ -2,6 +2,7 @@
 layout: term
 title: akıllandırma
 slug: akillandirma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Akıllandırmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: arasız
 slug: arasiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► aralıksız

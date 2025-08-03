@@ -2,6 +2,7 @@
 layout: term
 title: kaptıkaçtı
 slug: kaptikacti
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yolcu taşımakta kullanılan motorlu küçük taşıt

@@ -2,6 +2,7 @@
 layout: term
 title: silgi
 slug: silgi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kalem veya daktiloyla yazılmış, çizilmiş şeyleri silmeye yarayan, birleşiminde kauçuk olan nesne

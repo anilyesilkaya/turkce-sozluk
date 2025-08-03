@@ -2,6 +2,7 @@
 layout: term
 title: dağ sıçanı
 slug: dag-sicani
+letter: D
 lisan: Türkçe
 anlamlar:
 - Kemiriciler takımının sincapgiller familyasından, postu beğenilen bir tür memeli (Marmota marmota)

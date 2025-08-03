@@ -2,6 +2,7 @@
 layout: term
 title: bozdurmak
 slug: bozdurmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bozma işini yaptırmak; bozdurtmak

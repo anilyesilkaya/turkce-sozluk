@@ -2,6 +2,7 @@
 layout: term
 title: ziyafet
 slug: ziyafet
+letter: Z
 lisan: Arapça żiyāfet
 anlamlar:
 - Eğlenmek veya bir olayı kutlamak amacıyla birçok kimsenin bir araya gelerek yedikleri yemek; şölen, toy (II)

@@ -2,6 +2,7 @@
 layout: term
 title: altar
 slug: altar
+letter: A
 lisan: Latince
 anlamlar:
 - ► sunak

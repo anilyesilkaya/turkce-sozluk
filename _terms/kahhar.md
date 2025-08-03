@@ -2,6 +2,7 @@
 layout: term
 title: kahhar
 slug: kahhar
+letter: K
 lisan: Arapça ḳahhār
 anlamlar:
 - Kahreden, yok eden

@@ -2,6 +2,7 @@
 layout: term
 title: sipsi
 slug: sipsi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Ağaç dallarından yapılan düdük

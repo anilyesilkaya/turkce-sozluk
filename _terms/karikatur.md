@@ -2,6 +2,7 @@
 layout: term
 title: karikatür
 slug: karikatur
+letter: K
 lisan: Fransızca caricature
 anlamlar:
 - İnsan ve toplumla ilgili her tür olayı konu alarak abartılı bir biçimde veren, düşündürücü ve güldürücü resim

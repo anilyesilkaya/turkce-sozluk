@@ -2,6 +2,7 @@
 layout: term
 title: direksiyon
 slug: direksiyon
+letter: D
 lisan: Fransızca direction
 anlamlar:
 - Taşıta istenilen yönü vermeye ve taşıtı belirli bir doğrultuda götürmeye yarayan düzenek; yönelteç

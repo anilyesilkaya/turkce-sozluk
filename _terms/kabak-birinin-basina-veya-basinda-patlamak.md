@@ -2,6 +2,7 @@
 layout: term
 title: kabak (birinin) başına (veya başında) patlamak
 slug: kabak-birinin-basina-veya-basinda-patlamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - birçok kimsenin ilgili olduğu bir olaydan, yalnızca bir kimse zarar veya ceza görmek

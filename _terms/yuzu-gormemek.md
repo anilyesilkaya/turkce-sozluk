@@ -2,6 +2,7 @@
 layout: term
 title: yüzü görmemek
 slug: yuzu-gormemek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - '...-den yoksun olmak, uzak bulunmak'

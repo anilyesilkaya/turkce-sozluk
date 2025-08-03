@@ -2,6 +2,7 @@
 layout: term
 title: savcılık
 slug: savcilik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Savcı olma durumu; müddeiumumilik

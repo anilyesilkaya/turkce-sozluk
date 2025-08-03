@@ -2,6 +2,7 @@
 layout: term
 title: eline düşmek
 slug: eline-dusmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - egemenliği, buyruğu altına girmek

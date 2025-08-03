@@ -2,6 +2,7 @@
 layout: term
 title: nota
 slug: nota
+letter: N
 lisan: İtalyanca nota
 anlamlar:
 - Bir müzik sesini belirtmeye yarayan işaret

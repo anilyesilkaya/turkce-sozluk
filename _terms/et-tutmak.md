@@ -2,6 +2,7 @@
 layout: term
 title: et tutmak
 slug: et-tutmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - et bağlamak

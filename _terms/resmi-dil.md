@@ -2,6 +2,7 @@
 layout: term
 title: resmî dil
 slug: resmi-dil
+letter: R
 lisan: Türkçe
 anlamlar:
 - Bir devletin sınırları içerisinde yönetimde, hukukta, eğitimde ve ticarette gerek sözlü gerekse yazılı iletişimde kullanılan, genellikle kanunla belirlenen dil; devlet dili

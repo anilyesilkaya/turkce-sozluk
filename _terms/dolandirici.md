@@ -2,6 +2,7 @@
 layout: term
 title: dolandırıcı
 slug: dolandirici
+letter: D
 lisan: Türkçe
 anlamlar:
 - Birini aldatarak mal veya parasını alan kimse; ayyar, tokatçı

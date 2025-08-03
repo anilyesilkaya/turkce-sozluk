@@ -2,6 +2,7 @@
 layout: term
 title: çekimli
 slug: cekimli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çekimi olan, alımlı olan; cazibeli

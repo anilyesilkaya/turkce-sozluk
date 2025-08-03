@@ -2,6 +2,7 @@
 layout: term
 title: sinekkaydı
 slug: sinekkaydi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Özenle yapılmış (sakal tıraşı)

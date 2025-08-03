@@ -2,6 +2,7 @@
 layout: term
 title: yol kesmek
 slug: yol-kesmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - geçmesine engel olmak, durdurmak

@@ -2,6 +2,7 @@
 layout: term
 title: tarih
 slug: tarih
+letter: T
 lisan: Arapça tārīḫ
 anlamlar:
 - Bir olayın gününü, ayını ve yılını bildiren söz

@@ -2,6 +2,7 @@
 layout: term
 title: öğürtü
 slug: ogurtu
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öğürmek işi

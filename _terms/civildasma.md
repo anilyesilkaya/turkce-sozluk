@@ -2,6 +2,7 @@
 layout: term
 title: cıvıldaşma
 slug: civildasma
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cıvıldaşmak işi

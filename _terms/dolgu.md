@@ -2,6 +2,7 @@
 layout: term
 title: dolgu
 slug: dolgu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir oyuğun, bir kovuğun içine doldurulan madde

@@ -2,6 +2,7 @@
 layout: term
 title: lostra salonu
 slug: lostra-salonu
+letter: L
 lisan: Türkçe
 anlamlar:
 - Ayakkabı boyanılan kapalı yer

@@ -2,6 +2,7 @@
 layout: term
 title: konsomasyon
 slug: konsomasyon
+letter: K
 lisan: Fransızca consommation
 anlamlar:
 - Gazino, bar vb. eğlence yerlerinde yenilip içilen şey

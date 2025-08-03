@@ -2,6 +2,7 @@
 layout: term
 title: tabaka
 slug: tabaka
+letter: T
 lisan: İtalyanca tabacco
 anlamlar:
 - ► sigara tabakası

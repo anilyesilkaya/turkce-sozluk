@@ -2,6 +2,7 @@
 layout: term
 title: kondu
 slug: kondu
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► gecekondu

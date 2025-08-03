@@ -2,6 +2,7 @@
 layout: term
 title: zampara
 slug: zampara
+letter: Z
 lisan: Farsça zenbāre
 anlamlar:
 - Sürekli kadın peşinde koşan, kadınlara düşkün (erkek); kadıncıl, keskin, zendost

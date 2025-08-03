@@ -2,6 +2,7 @@
 layout: term
 title: çıkkınlaşma
 slug: cikkinlasma
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıkkınlaşmak işi

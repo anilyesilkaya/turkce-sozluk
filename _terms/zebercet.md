@@ -2,6 +2,7 @@
 layout: term
 title: zebercet
 slug: zebercet
+letter: Z
 lisan: Arapça zeberced
 anlamlar:
 - Sarı renkte ve cam parlaklığında, doğal demir ve magnezyum silikat; krizolit

@@ -2,6 +2,7 @@
 layout: term
 title: solucan
 slug: solucan
+letter: S
 lisan: Türkçe
 anlamlar:
 - Yuvarlak veya yassı, uzun kurtlara verilen genel ad

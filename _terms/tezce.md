@@ -2,6 +2,7 @@
 layout: term
 title: tezce
 slug: tezce
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► çabucak

@@ -2,6 +2,7 @@
 layout: term
 title: oylum
 slug: oylum
+letter: O
 lisan: Türkçe
 anlamlar:
 - İçi oyulmuş, çukur duruma getirilmiş

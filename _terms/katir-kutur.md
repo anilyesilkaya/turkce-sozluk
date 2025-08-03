@@ -2,6 +2,7 @@
 layout: term
 title: katır kutur
 slug: katir-kutur
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sert duruma gelmiş, sertleşmiş; katur kutur

@@ -2,6 +2,7 @@
 layout: term
 title: ezginlik
 slug: ezginlik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ezgin olma durumu

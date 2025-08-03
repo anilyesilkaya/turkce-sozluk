@@ -2,6 +2,7 @@
 layout: term
 title: başefendi
 slug: basefendi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Devlet dairelerinde kıdemli memur

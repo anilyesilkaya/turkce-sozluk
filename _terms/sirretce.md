@@ -2,6 +2,7 @@
 layout: term
 title: şirretçe
 slug: sirretce
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şirret bir biçimde

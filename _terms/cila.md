@@ -2,6 +2,7 @@
 layout: term
 title: cila
 slug: cila
+letter: C
 lisan: Arapça cilāʾ
 anlamlar:
 - Bir şeyi parlatmak için kullanılan kimyasal bileşik

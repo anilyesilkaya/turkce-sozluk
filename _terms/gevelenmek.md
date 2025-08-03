@@ -2,6 +2,7 @@
 layout: term
 title: gevelenmek
 slug: gevelenmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Geveleme işi yapılmak

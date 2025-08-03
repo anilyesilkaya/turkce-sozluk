@@ -2,6 +2,7 @@
 layout: term
 title: aynı zamanda
 slug: ayni-zamanda
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aynı anda

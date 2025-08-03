@@ -2,6 +2,7 @@
 layout: term
 title: geri kalmak
 slug: geri-kalmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - arkada kalmak

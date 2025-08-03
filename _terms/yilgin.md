@@ -2,6 +2,7 @@
 layout: term
 title: yılgın
 slug: yilgin
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yılmış, korkmuş olan

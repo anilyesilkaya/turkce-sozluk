@@ -2,6 +2,7 @@
 layout: term
 title: müstefit etmek
 slug: mustefit-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - yararlandırmak

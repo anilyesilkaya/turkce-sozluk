@@ -2,6 +2,7 @@
 layout: term
 title: dalkıran
 slug: dalkiran
+letter: D
 lisan: Türkçe
 anlamlar:
 - Kabuk böcekleri familyasından, fındık ağaçlarında yaşayan kın kanatlı böcek (Anisandrus dispar)

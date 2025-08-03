@@ -2,6 +2,7 @@
 layout: term
 title: tiksindirmek
 slug: tiksindirmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tiksinmesine yol açmak

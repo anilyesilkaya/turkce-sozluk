@@ -2,6 +2,7 @@
 layout: term
 title: başörtü
 slug: basortu
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► başörtüsü

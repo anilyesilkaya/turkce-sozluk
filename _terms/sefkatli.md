@@ -2,6 +2,7 @@
 layout: term
 title: şefkatli
 slug: sefkatli
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► sevecen

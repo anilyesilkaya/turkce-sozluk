@@ -2,6 +2,7 @@
 layout: term
 title: savsaklama
 slug: savsaklama
+letter: S
 lisan: Türkçe
 anlamlar:
 - Savsaklamak işi; ihmal

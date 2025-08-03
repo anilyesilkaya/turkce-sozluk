@@ -2,6 +2,7 @@
 layout: term
 title: başına dikilmek
 slug: basina-dikilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - birinin yanından uzaklaşmamak, onu denetim altında bulundurmak

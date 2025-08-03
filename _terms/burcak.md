@@ -2,6 +2,7 @@
 layout: term
 title: burçak
 slug: burcak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Baklagillerden, taneleri hayvan yemi olarak kullanılan yıllık bir yem bitkisi (Vicia ervilia)

@@ -2,6 +2,7 @@
 layout: term
 title: gözene
 slug: gozene
+letter: G
 lisan: Türkçe
 anlamlar:
 - Kovandan bal alırken arılardan korunmak için başa giyilen, ön tarafı telden başlık; gözlük

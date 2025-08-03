@@ -2,6 +2,7 @@
 layout: term
 title: salma salmak
 slug: salma-salmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - genellikle köylerde işlerin görülmesi için ihtiyar heyetinin kararıyla her evden para toplamak

@@ -2,6 +2,7 @@
 layout: term
 title: irtibatsız
 slug: irtibatsiz
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► bağlantısız

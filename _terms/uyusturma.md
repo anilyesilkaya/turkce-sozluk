@@ -2,6 +2,7 @@
 layout: term
 title: uyuşturma
 slug: uyusturma
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyuşturmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: kıçtan bacaklı
 slug: kictan-bacakli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kısa boylu (kimse)

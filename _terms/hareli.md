@@ -2,6 +2,7 @@
 layout: term
 title: hareli
 slug: hareli
+letter: H
 lisan: Türkçe
 anlamlar:
 - Haresi olan; menevişli

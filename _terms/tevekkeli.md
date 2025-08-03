@@ -2,6 +2,7 @@
 layout: term
 title: tevekkeli
 slug: tevekkeli
+letter: T
 lisan: Arapça tevekkül'den
 anlamlar:
 - ► boşuna

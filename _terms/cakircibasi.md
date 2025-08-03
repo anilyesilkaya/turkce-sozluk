@@ -2,6 +2,7 @@
 layout: term
 title: çakırcıbaşı
 slug: cakircibasi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Osmanlı Devleti’nde çakırcıların yöneticisi olan kimse

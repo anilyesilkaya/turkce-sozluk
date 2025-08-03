@@ -2,6 +2,7 @@
 layout: term
 title: bulaştırıcı
 slug: bulastirici
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bulaşıcı hastalığı taşıyan ve başkalarına bulaştıran

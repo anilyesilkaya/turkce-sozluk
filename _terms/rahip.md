@@ -2,6 +2,7 @@
 layout: term
 title: rahip
 slug: rahip
+letter: R
 lisan: Arapça rāhib
 anlamlar:
 - Hristiyanlarda genellikle manastırda yaşayan evlenmemiş papaz; keşiş, karabaş

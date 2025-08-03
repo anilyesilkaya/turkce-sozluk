@@ -2,6 +2,7 @@
 layout: term
 title: iktibas
 slug: iktibas
+letter: I
 lisan: Arapça iḳtibās
 anlamlar:
 - Ödünç alma

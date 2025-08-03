@@ -2,6 +2,7 @@
 layout: term
 title: pofurdamak
 slug: pofurdamak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Can sıkıntısı sebebiyle sesli nefes vermek

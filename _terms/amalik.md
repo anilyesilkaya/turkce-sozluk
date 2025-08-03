@@ -2,6 +2,7 @@
 layout: term
 title: âmâlık
 slug: amalik
+letter: Â
 lisan: Türkçe
 anlamlar:
 - ► görme engellilik

@@ -2,6 +2,7 @@
 layout: term
 title: sokuşturmak
 slug: sokusturmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Dar bir yere zorla veya iterek sokmak

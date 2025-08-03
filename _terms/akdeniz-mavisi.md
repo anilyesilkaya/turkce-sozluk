@@ -2,6 +2,7 @@
 layout: term
 title: Akdeniz mavisi
 slug: akdeniz-mavisi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Parlak ve canlı mavi

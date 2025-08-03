@@ -2,6 +2,7 @@
 layout: term
 title: e-fatura
 slug: e-fatura
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► elektronik fatura

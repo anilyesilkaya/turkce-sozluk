@@ -2,6 +2,7 @@
 layout: term
 title: meşguliyet
 slug: mesguliyet
+letter: M
 lisan: Arapça meşġūliyyet
 anlamlar:
 - Meşgul olma, uğraşma durumu

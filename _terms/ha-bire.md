@@ -2,6 +2,7 @@
 layout: term
 title: ha bire
 slug: ha-bire
+letter: H
 lisan: Türkçe
 anlamlar:
 - durmadan, ara vermeden, arka arkaya, sürekli olarak

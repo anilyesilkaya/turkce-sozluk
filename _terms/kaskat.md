@@ -2,6 +2,7 @@
 layout: term
 title: kaskat
 slug: kaskat
+letter: K
 lisan: Fransızca cascade
 anlamlar:
 - ► şelale

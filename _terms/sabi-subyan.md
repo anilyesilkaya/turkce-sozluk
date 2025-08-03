@@ -2,6 +2,7 @@
 layout: term
 title: sabi sübyan
 slug: sabi-subyan
+letter: S
 lisan: Türkçe
 anlamlar:
 - Küçük çocuklar

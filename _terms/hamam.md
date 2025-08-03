@@ -2,6 +2,7 @@
 layout: term
 title: hamam
 slug: hamam
+letter: H
 lisan: Arapça ḥammām
 anlamlar:
 - Yıkanılacak yer; ısıdam, sıcak

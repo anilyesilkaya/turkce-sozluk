@@ -2,6 +2,7 @@
 layout: term
 title: sallantı
 slug: sallanti
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sallanmak işi

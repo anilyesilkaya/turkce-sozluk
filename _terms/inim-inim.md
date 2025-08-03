@@ -2,6 +2,7 @@
 layout: term
 title: inim inim
 slug: inim-inim
+letter: I
 lisan: Türkçe
 anlamlar:
 - '"Sürekli olarak inlemek, çok sıkıntıda olmak" anlamlarındaki inim inim inlemek ve "birini büyük sıkıntıya sokmak" anlamındaki inim inim inletmek deyimlerinde geçen bir söz'

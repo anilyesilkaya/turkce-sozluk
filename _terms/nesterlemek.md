@@ -2,6 +2,7 @@
 layout: term
 title: neşterlemek
 slug: nesterlemek
+letter: N
 lisan: Türkçe
 anlamlar:
 - Neşterle kesmek

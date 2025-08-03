@@ -2,6 +2,7 @@
 layout: term
 title: oğlancık
 slug: oglancik
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oğullara sevgiyle yaklaşıldığını belirten bir söz

@@ -2,6 +2,7 @@
 layout: term
 title: ifrit
 slug: ifrit
+letter: I
 lisan: Arapça ʿifrīt
 anlamlar:
 - Doğu masal ve efsanelerinde kötü, korkunç cin

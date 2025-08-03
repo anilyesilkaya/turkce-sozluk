@@ -2,6 +2,7 @@
 layout: term
 title: bakma
 slug: bakma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bakmak işi

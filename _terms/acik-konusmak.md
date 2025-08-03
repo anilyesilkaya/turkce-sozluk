@@ -2,6 +2,7 @@
 layout: term
 title: açık konuşmak
 slug: acik-konusmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - gerçeği çekinmeden söylemek

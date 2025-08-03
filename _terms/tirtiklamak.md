@@ -2,6 +2,7 @@
 layout: term
 title: tırtıklamak
 slug: tirtiklamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Düz bir zemin üzerine çentik açmak

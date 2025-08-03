@@ -2,6 +2,7 @@
 layout: term
 title: pençe vurmak
 slug: pence-vurmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - pençelemek

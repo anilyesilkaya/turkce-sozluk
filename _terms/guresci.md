@@ -2,6 +2,7 @@
 layout: term
 title: güreşçi
 slug: guresci
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güreş yapan, güreşen kimse; pehlivan

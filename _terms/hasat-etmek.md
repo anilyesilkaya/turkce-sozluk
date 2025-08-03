@@ -2,6 +2,7 @@
 layout: term
 title: haşat etmek
 slug: hasat-etmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - bozmak, kullanılmaz duruma getirmek

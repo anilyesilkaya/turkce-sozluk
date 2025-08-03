@@ -2,6 +2,7 @@
 layout: term
 title: ağda
 slug: agda
+letter: A
 lisan: Arapça ʿaḳīde
 anlamlar:
 - Kaynatılarak çok koyu ve yapışkan bir macun durumuna getirilen pekmez veya limonlu şeker eriyiği

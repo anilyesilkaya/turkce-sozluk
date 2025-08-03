@@ -2,6 +2,7 @@
 layout: term
 title: aktarım
 slug: aktarim
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aktarmak işi

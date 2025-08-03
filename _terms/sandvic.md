@@ -2,6 +2,7 @@
 layout: term
 title: sandviç
 slug: sandvic
+letter: S
 lisan: İngilizce sandwich
 anlamlar:
 - İki ince ekmek dilimi arasına tereyağı, peynir, sucuk vb. konularak hazırlanan yiyecek

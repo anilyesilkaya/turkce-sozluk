@@ -2,6 +2,7 @@
 layout: term
 title: kaşıtmak
 slug: kasitmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaşıma işini yaptırmak

@@ -2,6 +2,7 @@
 layout: term
 title: baget
 slug: baget
+letter: B
 lisan: Fransızca baguette
 anlamlar:
 - Bateri çalmaya yarayan ince, kısa çubuk

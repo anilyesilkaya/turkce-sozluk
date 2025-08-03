@@ -2,6 +2,7 @@
 layout: term
 title: boyun eğmek
 slug: boyun-egmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - isteyerek veya istemeyerek uymak, katlanmak

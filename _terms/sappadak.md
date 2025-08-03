@@ -2,6 +2,7 @@
 layout: term
 title: şappadak
 slug: sappadak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► ansızın

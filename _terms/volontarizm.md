@@ -2,6 +2,7 @@
 layout: term
 title: volontarizm
 slug: volontarizm
+letter: V
 lisan: Fransızca volontarisme
 anlamlar:
 - ► iradecilik

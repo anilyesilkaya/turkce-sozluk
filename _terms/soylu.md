@@ -2,6 +2,7 @@
 layout: term
 title: soylu
 slug: soylu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Doğuştan veya hükümdar buyruğuyla, bazı ayrıcalıklara sahip olan ve özel ünvanlar taşıyan (kimse); asaletli, asil, asilzade, kerim, aristokrat

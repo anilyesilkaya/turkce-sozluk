@@ -2,6 +2,7 @@
 layout: term
 title: billahi
 slug: billahi
+letter: B
 lisan: Arapça billahi
 anlamlar:
 - ► vallahi

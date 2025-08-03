@@ -2,6 +2,7 @@
 layout: term
 title: ciyak ciyak
 slug: ciyak-ciyak
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► cıyak cıyak

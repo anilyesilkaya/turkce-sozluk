@@ -2,6 +2,7 @@
 layout: term
 title: bitişimli
 slug: bitisimli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bitişme özelliği olan

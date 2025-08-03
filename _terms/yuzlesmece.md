@@ -2,6 +2,7 @@
 layout: term
 title: yüzleşmece
 slug: yuzlesmece
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yüz yüze gelerek

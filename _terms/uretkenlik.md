@@ -2,6 +2,7 @@
 layout: term
 title: üretkenlik
 slug: uretkenlik
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üretken olma durumu

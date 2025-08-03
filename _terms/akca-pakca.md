@@ -2,6 +2,7 @@
 layout: term
 title: akça pakça
 slug: akca-pakca
+letter: A
 lisan: Türkçe
 anlamlar:
 - Beyaz, temiz olan

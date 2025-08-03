@@ -2,6 +2,7 @@
 layout: term
 title: terbiyeci
 slug: terbiyeci
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► eğitimci

@@ -2,6 +2,7 @@
 layout: term
 title: sadrazamlık
 slug: sadrazamlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sadrazam olma durumu; sadaret

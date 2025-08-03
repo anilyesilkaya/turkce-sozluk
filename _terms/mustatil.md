@@ -2,6 +2,7 @@
 layout: term
 title: mustatil
 slug: mustatil
+letter: M
 lisan: Arapça mustaṭīl
 anlamlar:
 - ► dikdörtgen

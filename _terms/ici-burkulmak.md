@@ -2,6 +2,7 @@
 layout: term
 title: içi burkulmak
 slug: ici-burkulmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - bir şeye çok üzülmek

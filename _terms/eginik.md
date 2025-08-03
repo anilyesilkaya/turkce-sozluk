@@ -2,6 +2,7 @@
 layout: term
 title: eğinik
 slug: eginik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eğilmiş olan; eğik

@@ -2,6 +2,7 @@
 layout: term
 title: kütürdemek
 slug: kuturdemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - '"Kütür" diye ses çıkarmak'

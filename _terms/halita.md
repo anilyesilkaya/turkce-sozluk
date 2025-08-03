@@ -2,6 +2,7 @@
 layout: term
 title: halita
 slug: halita
+letter: H
 lisan: Arapça ḫalīṭa
 anlamlar:
 - ► alaşım

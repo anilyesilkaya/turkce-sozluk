@@ -2,6 +2,7 @@
 layout: term
 title: sızdırma
 slug: sizdirma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sızdırmak işi; sızırma

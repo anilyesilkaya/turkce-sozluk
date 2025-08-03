@@ -2,6 +2,7 @@
 layout: term
 title: ölçeklemek
 slug: olceklemek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Herhangi bir bütüne ait parametre ve değerleri kullanıcıya daha anlamlı gelecek biçimde düzenlemek

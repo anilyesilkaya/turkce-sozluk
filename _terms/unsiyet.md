@@ -2,6 +2,7 @@
 layout: term
 title: ünsiyet
 slug: unsiyet
+letter: Ü
 lisan: Arapça unsiyyet
 anlamlar:
 - ► yakınlık

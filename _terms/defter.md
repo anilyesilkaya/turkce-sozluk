@@ -2,6 +2,7 @@
 layout: term
 title: defter
 slug: defter
+letter: D
 lisan: Arapça defter
 anlamlar:
 - Genellikle hafif bir kapak içerisinde, yazı yazmak için bir araya tutturulmuş kâğıt yaprakları

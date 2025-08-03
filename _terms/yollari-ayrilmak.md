@@ -2,6 +2,7 @@
 layout: term
 title: yolları ayrılmak
 slug: yollari-ayrilmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - iki kişi veya topluluk arasında görüş, düşünce ayrılığı ortaya çıkmak, ayrı görüş ve düşünceleri benimsemek

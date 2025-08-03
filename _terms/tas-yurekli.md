@@ -2,6 +2,7 @@
 layout: term
 title: taş yürekli
 slug: tas-yurekli
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► merhametsiz

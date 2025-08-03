@@ -2,6 +2,7 @@
 layout: term
 title: boyut kazanmak
 slug: boyut-kazanmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - yeni bir durum, içerik, genişlik, kapsam kazanmak

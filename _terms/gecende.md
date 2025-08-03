@@ -2,6 +2,7 @@
 layout: term
 title: geçende
 slug: gecende
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► geçenlerde

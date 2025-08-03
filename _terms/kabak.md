@@ -2,6 +2,7 @@
 layout: term
 title: kabak
 slug: kabak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kabakgillerden, sürüngen gövdeli, sarı çiçekli, birçok türü olan bir bitki (Cucurbita)

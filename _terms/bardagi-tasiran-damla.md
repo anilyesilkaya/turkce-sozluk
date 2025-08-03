@@ -2,6 +2,7 @@
 layout: term
 title: bardağı taşıran damla
 slug: bardagi-tasiran-damla
+letter: B
 lisan: Türkçe
 anlamlar:
 - sabır tüketen aşırı davranış veya durum

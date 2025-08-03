@@ -2,6 +2,7 @@
 layout: term
 title: tedrisat
 slug: tedrisat
+letter: T
 lisan: Arapça tedrīsāt
 anlamlar:
 - ► öğretim

@@ -2,6 +2,7 @@
 layout: term
 title: dirhem
 slug: dirhem
+letter: D
 lisan: Arapça dirhem
 anlamlar:
 - Okkanın dört yüzde birine eşit olan, 3,207 gramlık eski bir ağırlık ölçüsü

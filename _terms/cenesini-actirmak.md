@@ -2,6 +2,7 @@
 layout: term
 title: çenesini açtırmak
 slug: cenesini-actirmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - söz fırsatı vermek

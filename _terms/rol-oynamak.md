@@ -2,6 +2,7 @@
 layout: term
 title: rol oynamak
 slug: rol-oynamak
+letter: R
 lisan: Türkçe
 anlamlar:
 - oyunda rol almak

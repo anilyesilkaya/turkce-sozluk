@@ -2,6 +2,7 @@
 layout: term
 title: platform
 slug: platform
+letter: P
 lisan: Fransızca plate-forme
 anlamlar:
 - Ahşap, taş, metal vb. bir maddeden yapılmış, düz ve yüksekçe yer

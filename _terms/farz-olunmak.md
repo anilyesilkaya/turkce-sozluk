@@ -2,6 +2,7 @@
 layout: term
 title: farz olunmak
 slug: farz-olunmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - varsayılmak

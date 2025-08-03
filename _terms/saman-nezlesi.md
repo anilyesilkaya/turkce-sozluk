@@ -2,6 +2,7 @@
 layout: term
 title: saman nezlesi
 slug: saman-nezlesi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Genellikle bahar aylarında görülen, çiçek tozlarına karşı alerjiden ileri gelen nezle; bahar nezlesi

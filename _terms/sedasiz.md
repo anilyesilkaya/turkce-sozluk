@@ -2,6 +2,7 @@
 layout: term
 title: sedasız
 slug: sedasiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► tonsuz

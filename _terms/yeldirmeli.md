@@ -2,6 +2,7 @@
 layout: term
 title: yeldirmeli
 slug: yeldirmeli
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yeldirmesi olan

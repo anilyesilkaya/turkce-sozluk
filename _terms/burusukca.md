@@ -2,6 +2,7 @@
 layout: term
 title: buruşukça
 slug: burusukca
+letter: B
 lisan: Türkçe
 anlamlar:
 - Biraz buruşuk olan, pek düzgün olmayan

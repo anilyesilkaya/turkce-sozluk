@@ -2,6 +2,7 @@
 layout: term
 title: vatani
 slug: vatani
+letter: V
 lisan: Arapça vaṭanī
 anlamlar:
 - ► yurtsal

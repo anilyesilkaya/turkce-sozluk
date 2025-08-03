@@ -2,6 +2,7 @@
 layout: term
 title: şaşırtı
 slug: sasirti
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► sürpriz

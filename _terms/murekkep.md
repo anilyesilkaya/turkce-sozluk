@@ -2,6 +2,7 @@
 layout: term
 title: mürekkep
 slug: murekkep
+letter: M
 lisan: Arapça murekkeb
 anlamlar:
 - Yazı yazmak, desen çizmek veya basmak için kullanılan, türlü renklerde sıvı madde

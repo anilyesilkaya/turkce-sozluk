@@ -2,6 +2,7 @@
 layout: term
 title: sabit olmak
 slug: sabit-olmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - bir şeyin varlığı, gerçekliği kesin olarak belli olmak

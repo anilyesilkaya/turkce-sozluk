@@ -2,6 +2,7 @@
 layout: term
 title: tamamlanmak
 slug: tamamlanmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tam ve eksiksiz duruma getirilmek

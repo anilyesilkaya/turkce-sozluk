@@ -2,6 +2,7 @@
 layout: term
 title: pençeleşmek
 slug: pencelesmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pençe pençeye gelmek, kavga etmek, dövüşmek

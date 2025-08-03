@@ -2,6 +2,7 @@
 layout: term
 title: yumuşacık
 slug: yumusacik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Hoşa giden, istenilen yumuşaklıkta olan, çok yumuşak olan

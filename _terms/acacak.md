@@ -2,6 +2,7 @@
 layout: term
 title: açacak
 slug: acacak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Şişelenmiş bazı içeceklerin kapaklarını açmaya yarayan araç

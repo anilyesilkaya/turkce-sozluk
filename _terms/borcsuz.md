@@ -2,6 +2,7 @@
 layout: term
 title: borçsuz
 slug: borcsuz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Borcu olmayan

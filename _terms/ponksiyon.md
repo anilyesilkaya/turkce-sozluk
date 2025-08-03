@@ -2,6 +2,7 @@
 layout: term
 title: ponksiyon
 slug: ponksiyon
+letter: P
 lisan: Fransızca ponction
 anlamlar:
 - Vücudun herhangi bir boşluğunda bulunan bir sıvıyı akıtmak veya çekmek için içi boydan boya açık bir iğneyi batırma işi

@@ -2,6 +2,7 @@
 layout: term
 title: defolu
 slug: defolu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Defosu olan, bozuk, kusurlu, ayıplı olan (kumaş, giysi, mal vb.); özürlü

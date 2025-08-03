@@ -2,6 +2,7 @@
 layout: term
 title: kazığa vurmak
 slug: kaziga-vurmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir kimseyi yere dikilmiş ucu sivri bir kazığa oturtarak öldürmek

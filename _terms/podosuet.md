@@ -2,6 +2,7 @@
 layout: term
 title: podösüet
 slug: podosuet
+letter: P
 lisan: Fransızca peau de suède
 anlamlar:
 - ► süet

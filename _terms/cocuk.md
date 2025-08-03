@@ -2,6 +2,7 @@
 layout: term
 title: çocuk
 slug: cocuk
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bebeklik ile erginlik arasındaki gelişme döneminde bulunan oğlan veya kız; yavru, bala, uşak, velet

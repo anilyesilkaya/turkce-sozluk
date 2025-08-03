@@ -2,6 +2,7 @@
 layout: term
 title: ihtisas
 slug: ihtisas
+letter: I
 lisan: Arapça iḫtiṣāṣ
 anlamlar:
 - ► uzmanlaşma

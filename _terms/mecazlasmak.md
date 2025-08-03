@@ -2,6 +2,7 @@
 layout: term
 title: mecazlaşmak
 slug: mecazlasmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mecaz duruma gelmek

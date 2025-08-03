@@ -2,6 +2,7 @@
 layout: term
 title: kaynakçı
 slug: kaynakci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaynak yapan kimse

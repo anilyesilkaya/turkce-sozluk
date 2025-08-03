@@ -2,6 +2,7 @@
 layout: term
 title: evliya gibi
 slug: evliya-gibi
+letter: E
 lisan: Türkçe
 anlamlar:
 - uysal (kimse)

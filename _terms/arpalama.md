@@ -2,6 +2,7 @@
 layout: term
 title: arpalama
 slug: arpalama
+letter: A
 lisan: Türkçe
 anlamlar:
 - Atların ayaklarında görülen ve rahat yürümelerini önleyen bir hastalık

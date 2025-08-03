@@ -2,6 +2,7 @@
 layout: term
 title: metanet göstermek
 slug: metanet-gostermek
+letter: M
 lisan: Türkçe
 anlamlar:
 - kötü bir duruma katlanmak, dayanmak

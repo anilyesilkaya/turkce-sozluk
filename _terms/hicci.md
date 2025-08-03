@@ -2,6 +2,7 @@
 layout: term
 title: hiççi
 slug: hicci
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► nihilist

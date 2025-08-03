@@ -2,6 +2,7 @@
 layout: term
 title: daüssıla
 slug: daussila
+letter: D
 lisan: Arapça dāʾ + ṣila
 anlamlar:
 - ► yurt özlemi

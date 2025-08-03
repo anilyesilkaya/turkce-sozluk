@@ -2,6 +2,7 @@
 layout: term
 title: sazcı
 slug: sazci
+letter: S
 lisan: Türkçe
 anlamlar:
 - Saz çalan kimse; sazende

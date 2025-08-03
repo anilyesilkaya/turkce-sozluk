@@ -2,6 +2,7 @@
 layout: term
 title: otolit
 slug: otolit
+letter: O
 lisan: Fransızca otolite
 anlamlar:
 - ► işitme taşı

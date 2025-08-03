@@ -2,6 +2,7 @@
 layout: term
 title: kurban
 slug: kurban
+letter: K
 lisan: Arapça ḳurbān
 anlamlar:
 - Dinin buyruğunu veya bir adağı yerine getirmek için kesilen ve belli özellikleri taşıyan hayvan

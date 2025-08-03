@@ -2,6 +2,7 @@
 layout: term
 title: başmuallim
 slug: basmuallim
+letter: B
 lisan: Türkçe baş + Arapça muʿallim
 anlamlar:
 - ► başöğretmen

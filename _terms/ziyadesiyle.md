@@ -2,6 +2,7 @@
 layout: term
 title: ziyadesiyle
 slug: ziyadesiyle
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► fazlasıyla

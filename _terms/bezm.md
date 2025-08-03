@@ -2,6 +2,7 @@
 layout: term
 title: bezm
 slug: bezm
+letter: B
 lisan: Farsça bezm
 anlamlar:
 - İçkili, eğlenceli sohbet meclisi

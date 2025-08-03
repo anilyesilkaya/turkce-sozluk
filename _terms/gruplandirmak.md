@@ -2,6 +2,7 @@
 layout: term
 title: gruplandırmak
 slug: gruplandirmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gruplara ayırmak

@@ -2,6 +2,7 @@
 layout: term
 title: aklı gitmek
 slug: akli-gitmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - şaşırmak, korkmak

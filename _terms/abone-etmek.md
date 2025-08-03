@@ -2,6 +2,7 @@
 layout: term
 title: abone etmek
 slug: abone-etmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir şeyi belli bir süre için almasını sağlamak, sürdürümlemek

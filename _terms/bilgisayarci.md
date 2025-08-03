@@ -2,6 +2,7 @@
 layout: term
 title: bilgisayarcı
 slug: bilgisayarci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilgisayar alım satımı yapan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: kuşkulandırma
 slug: kuskulandirma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kuşkulandırmak işi; işkillendirme, şüphelendirme

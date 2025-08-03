@@ -2,6 +2,7 @@
 layout: term
 title: tavşanı araba ile avlamak
 slug: tavsani-araba-ile-avlamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - taşıt farlarını üzerine tutarak tavşanı avlamak

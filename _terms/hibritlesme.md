@@ -2,6 +2,7 @@
 layout: term
 title: hibritleşme
 slug: hibritlesme
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► melezleşme

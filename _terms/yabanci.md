@@ -2,6 +2,7 @@
 layout: term
 title: yabancı
 slug: yabanci
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Başka bir milletten olan, başka devlet uyruğunda olan (kimse); bigâne, ecnebi

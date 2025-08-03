@@ -2,6 +2,7 @@
 layout: term
 title: cevher yumurtlamak
 slug: cevher-yumurtlamak
+letter: C
 lisan: Türkçe
 anlamlar:
 - değerli sözler söylediğini sanarak saçmalamak

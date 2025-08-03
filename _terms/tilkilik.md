@@ -2,6 +2,7 @@
 layout: term
 title: tilkilik
 slug: tilkilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Kurnazlık veya kurnazca davranış

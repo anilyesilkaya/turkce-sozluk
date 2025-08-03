@@ -2,6 +2,7 @@
 layout: term
 title: iç cümle
 slug: ic-cumle
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bir cümle içinde tümleç gibi kullanılan başka bir cümle; iç tümce

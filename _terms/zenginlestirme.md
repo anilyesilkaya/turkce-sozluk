@@ -2,6 +2,7 @@
 layout: term
 title: zenginleştirme
 slug: zenginlestirme
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zenginleştirmek işi

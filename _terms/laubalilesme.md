@@ -2,6 +2,7 @@
 layout: term
 title: laubalileşme
 slug: laubalilesme
+letter: L
 lisan: Türkçe
 anlamlar:
 - Laubalileşmek işi

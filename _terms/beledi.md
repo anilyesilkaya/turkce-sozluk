@@ -2,6 +2,7 @@
 layout: term
 title: beledi
 slug: beledi
+letter: B
 lisan: Arapça beledī
 anlamlar:
 - Şehirle ilgili

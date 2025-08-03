@@ -2,6 +2,7 @@
 layout: term
 title: hamamcı
 slug: hamamci
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hamam işleten kimse

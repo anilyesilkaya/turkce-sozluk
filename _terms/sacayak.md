@@ -2,6 +2,7 @@
 layout: term
 title: sacayak
 slug: sacayak
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► sacayağı

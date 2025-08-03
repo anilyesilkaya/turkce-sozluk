@@ -2,6 +2,7 @@
 layout: term
 title: muhatap
 slug: muhatap
+letter: M
 lisan: Arapça muḫāṭab
 anlamlar:
 - Kendisine söz söylenilen kimse, kendisiyle konuşulan kimse

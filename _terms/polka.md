@@ -2,6 +2,7 @@
 layout: term
 title: polka
 slug: polka
+letter: P
 lisan: Leh. polka
 anlamlar:
 - Bir tür Polonya dansı

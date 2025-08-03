@@ -2,6 +2,7 @@
 layout: term
 title: tekeffül
 slug: tekefful
+letter: T
 lisan: Arapça tekefful
 anlamlar:
 - ► yükümlenme

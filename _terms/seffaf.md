@@ -2,6 +2,7 @@
 layout: term
 title: şeffaf
 slug: seffaf
+letter: Ş
 lisan: Arapça şeffāf
 anlamlar:
 - İçinden ışığın geçmesine ve arkasındaki şeylerin görülmesine engel olmayan (cisim); saydam, transparan

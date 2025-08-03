@@ -2,6 +2,7 @@
 layout: term
 title: kirizmalama
 slug: kirizmalama
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kirizmalamak işi

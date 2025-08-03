@@ -2,6 +2,7 @@
 layout: term
 title: bozkırlaşmak
 slug: bozkirlasmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bozkır durumuna gelmek

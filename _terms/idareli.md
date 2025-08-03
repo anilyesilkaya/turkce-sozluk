@@ -2,6 +2,7 @@
 layout: term
 title: idareli
 slug: idareli
+letter: I
 lisan: Türkçe
 anlamlar:
 - İdare etmesini bilen, iyi yöneten

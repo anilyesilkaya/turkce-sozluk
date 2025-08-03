@@ -2,6 +2,7 @@
 layout: term
 title: niçinli
 slug: nicinli
+letter: N
 lisan: Türkçe
 anlamlar:
 - Herhangi bir soruya gerek duyan; nedenli

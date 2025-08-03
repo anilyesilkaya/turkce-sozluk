@@ -2,6 +2,7 @@
 layout: term
 title: robot
 slug: robot
+letter: R
 lisan: Fransızca robot
 anlamlar:
 - Belirli bir işi yerine getirmek için manyetizma ile kendisine çeşitli işler yaptırılabilen otomatik araç

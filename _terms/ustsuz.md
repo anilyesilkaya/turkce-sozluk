@@ -2,6 +2,7 @@
 layout: term
 title: üstsüz
 slug: ustsuz
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Belden üst kısmında giysi olmayan

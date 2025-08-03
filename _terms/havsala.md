@@ -2,6 +2,7 @@
 layout: term
 title: havsala
 slug: havsala
+letter: H
 lisan: Arapça ḥavṣala
 anlamlar:
 - Kuşun kursağı

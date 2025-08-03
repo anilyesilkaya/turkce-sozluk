@@ -2,6 +2,7 @@
 layout: term
 title: ısındırma
 slug: isindirma
+letter: I
 lisan: Türkçe
 anlamlar:
 - Isındırmak işi

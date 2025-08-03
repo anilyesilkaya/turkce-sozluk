@@ -2,6 +2,7 @@
 layout: term
 title: dokümanter
 slug: dokumanter
+letter: D
 lisan: Fransızca documentaire
 anlamlar:
 - ► belgesel

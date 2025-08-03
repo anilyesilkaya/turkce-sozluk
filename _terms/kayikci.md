@@ -2,6 +2,7 @@
 layout: term
 title: kayıkçı
 slug: kayikci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kayıkla insan veya yük taşıyan kimse

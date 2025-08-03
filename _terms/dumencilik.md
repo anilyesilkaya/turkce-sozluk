@@ -2,6 +2,7 @@
 layout: term
 title: dümencilik
 slug: dumencilik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dümencinin yaptığı iş

@@ -2,6 +2,7 @@
 layout: term
 title: santrifüj
 slug: santrifuj
+letter: S
 lisan: Fransızca centrifuge
 anlamlar:
 - ► merkezkaç

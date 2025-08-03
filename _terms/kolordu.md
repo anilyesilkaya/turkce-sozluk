@@ -2,6 +2,7 @@
 layout: term
 title: kolordu
 slug: kolordu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Değişik sayıda tümen ve savaş destek birliklerinden kurulu büyük askerî birlik

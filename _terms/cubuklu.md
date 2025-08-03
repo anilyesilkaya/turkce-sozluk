@@ -2,6 +2,7 @@
 layout: term
 title: çubuklu
 slug: cubuklu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çubuğu olan

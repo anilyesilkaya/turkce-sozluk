@@ -2,6 +2,7 @@
 layout: term
 title: merhabalaşma
 slug: merhabalasma
+letter: M
 lisan: Türkçe
 anlamlar:
 - Merhabalaşmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: betik
 slug: betik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► kitap

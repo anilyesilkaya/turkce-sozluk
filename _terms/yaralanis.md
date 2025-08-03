@@ -2,6 +2,7 @@
 layout: term
 title: yaralanış
 slug: yaralanis
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaralanmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: yarar
 slug: yarar
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir işten elde edilen iyi sonuç; getiri, kazanç, fayda, kâr, avantaj

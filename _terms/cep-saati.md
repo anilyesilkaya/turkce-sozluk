@@ -2,6 +2,7 @@
 layout: term
 title: cep saati
 slug: cep-saati
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cepte taşınan saat

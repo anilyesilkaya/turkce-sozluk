@@ -2,6 +2,7 @@
 layout: term
 title: kartlı telefon
 slug: kartli-telefon
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kontör yüklenerek kullanılan cep telefonu

@@ -2,6 +2,7 @@
 layout: term
 title: beyinsizlik
 slug: beyinsizlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beyinsiz olma durumu

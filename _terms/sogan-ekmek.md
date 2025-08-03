@@ -2,6 +2,7 @@
 layout: term
 title: soğan ekmek
 slug: sogan-ekmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Ucuz ve kolay ulaşılabilen yiyecek

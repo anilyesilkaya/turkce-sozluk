@@ -2,6 +2,7 @@
 layout: term
 title: susta
 slug: susta
+letter: S
 lisan: Rumca
 anlamlar:
 - Emniyet yayı

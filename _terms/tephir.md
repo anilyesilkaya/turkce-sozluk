@@ -2,6 +2,7 @@
 layout: term
 title: tephir
 slug: tephir
+letter: T
 lisan: Arapça tebḫīr
 anlamlar:
 - Buharlaşma, buharlaştırma

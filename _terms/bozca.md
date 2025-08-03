@@ -2,6 +2,7 @@
 layout: term
 title: bozca
 slug: bozca
+letter: B
 lisan: Türkçe
 anlamlar:
 - Rengi boza çalan

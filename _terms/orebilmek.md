@@ -2,6 +2,7 @@
 layout: term
 title: örebilmek
 slug: orebilmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Örme ihtimali veya imkânı bulunmak

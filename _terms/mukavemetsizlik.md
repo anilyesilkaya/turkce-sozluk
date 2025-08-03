@@ -2,6 +2,7 @@
 layout: term
 title: mukavemetsizlik
 slug: mukavemetsizlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mukavemetsiz olma durumu

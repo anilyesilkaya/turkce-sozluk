@@ -2,6 +2,7 @@
 layout: term
 title: sürdürümcü
 slug: surdurumcu
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► abone

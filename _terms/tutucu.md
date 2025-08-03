@@ -2,6 +2,7 @@
 layout: term
 title: tutucu
 slug: tutucu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Mevcut toplumsal düzeni, düşünceleri ve kurumları değiştirmeden olduğu gibi korumak isteyen (kimse); muhafazakâr, konservatör

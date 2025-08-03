@@ -2,6 +2,7 @@
 layout: term
 title: melekût
 slug: melekut
+letter: M
 lisan: Arapça melekūt
 anlamlar:
 - Ruhlar ve melekler âlemi

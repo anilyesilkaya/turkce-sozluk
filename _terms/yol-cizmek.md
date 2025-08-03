@@ -2,6 +2,7 @@
 layout: term
 title: yol çizmek
 slug: yol-cizmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - bir konuda plan yapmak

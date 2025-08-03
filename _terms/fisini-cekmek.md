@@ -2,6 +2,7 @@
 layout: term
 title: fişini çekmek
 slug: fisini-cekmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - birine zarar vermek

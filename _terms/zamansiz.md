@@ -2,6 +2,7 @@
 layout: term
 title: zamansız
 slug: zamansiz
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Uygun olmayan bir zamanda yapılan, vakitsiz

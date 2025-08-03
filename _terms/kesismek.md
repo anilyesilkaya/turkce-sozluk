@@ -2,6 +2,7 @@
 layout: term
 title: kesişmek
 slug: kesismek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Birbirini kesmek

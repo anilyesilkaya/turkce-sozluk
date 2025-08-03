@@ -2,6 +2,7 @@
 layout: term
 title: mütehayyir
 slug: mutehayyir
+letter: M
 lisan: Arapça muteḥayyir
 anlamlar:
 - Şaşmış, şaşırmış olan

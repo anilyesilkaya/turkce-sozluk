@@ -2,6 +2,7 @@
 layout: term
 title: kudretten
 slug: kudretten
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► yaradılıştan

@@ -2,6 +2,7 @@
 layout: term
 title: kafasını tütsülemek
 slug: kafasini-tutsulemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - sarhoş etmek

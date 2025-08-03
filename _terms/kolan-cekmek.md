@@ -2,6 +2,7 @@
 layout: term
 title: kolan çekmek
 slug: kolan-cekmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - kayığı karadan halatla çekmek, yedekçilik etmek

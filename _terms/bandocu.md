@@ -2,6 +2,7 @@
 layout: term
 title: bandocu
 slug: bandocu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bandoda görevi olan kimse; mızıkacı

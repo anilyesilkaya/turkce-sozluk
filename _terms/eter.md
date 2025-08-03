@@ -2,6 +2,7 @@
 layout: term
 title: eter
 slug: eter
+letter: E
 lisan: Fransızca éther
 anlamlar:
 - Oksijenli asitlerin alkollerle birleşmesinden oluşan sıvılar

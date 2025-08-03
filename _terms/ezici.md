@@ -2,6 +2,7 @@
 layout: term
 title: ezici
 slug: ezici
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ezme işini yapan (kimse veya şey)

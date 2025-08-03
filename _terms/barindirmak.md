@@ -2,6 +2,7 @@
 layout: term
 title: barındırmak
 slug: barindirmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Barınmasını sağlamak

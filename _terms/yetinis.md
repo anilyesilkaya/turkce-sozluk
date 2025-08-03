@@ -2,6 +2,7 @@
 layout: term
 title: yetiniş
 slug: yetinis
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yetinmek durumu

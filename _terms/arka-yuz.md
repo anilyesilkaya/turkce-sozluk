@@ -2,6 +2,7 @@
 layout: term
 title: arka yüz
 slug: arka-yuz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir şeyin arkada kalan yüzü

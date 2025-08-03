@@ -2,6 +2,7 @@
 layout: term
 title: merhametli
 slug: merhametli
+letter: M
 lisan: Türkçe
 anlamlar:
 - Acıması olan, merhamet eden

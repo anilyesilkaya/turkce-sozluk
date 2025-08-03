@@ -2,6 +2,7 @@
 layout: term
 title: kaldırımları arşınlamak
 slug: kaldirimlari-arsinlamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - işsiz güçsüz dolaşmak

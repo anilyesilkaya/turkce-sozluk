@@ -2,6 +2,7 @@
 layout: term
 title: tatmak
 slug: tatmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Dil yardımıyla bir şeyin tadının nasıl olduğunu anlamak

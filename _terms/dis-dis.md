@@ -2,6 +2,7 @@
 layout: term
 title: diş diş
 slug: dis-dis
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çıkıntıları olan

@@ -2,6 +2,7 @@
 layout: term
 title: ileri
 slug: ileri
+letter: I
 lisan: Türkçe
 anlamlar:
 - Herhangi bir şeye göre daha ötede olan yer, geri karşıtı

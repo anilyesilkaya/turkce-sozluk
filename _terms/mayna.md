@@ -2,6 +2,7 @@
 layout: term
 title: mayna
 slug: mayna
+letter: M
 lisan: İtalyanca maina
 anlamlar:
 - Yelken, filika vb.ni aşağıya indirme

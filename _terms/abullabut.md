@@ -2,6 +2,7 @@
 layout: term
 title: abullabut
 slug: abullabut
+letter: A
 lisan: Türkçe
 anlamlar:
 - Söz ve davranışlarında incelikten yoksun olan (kimse)

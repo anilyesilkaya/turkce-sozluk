@@ -2,6 +2,7 @@
 layout: term
 title: dönülme
 slug: donulme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dönülmek işi

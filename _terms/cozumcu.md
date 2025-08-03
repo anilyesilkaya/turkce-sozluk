@@ -2,6 +2,7 @@
 layout: term
 title: çözümcü
 slug: cozumcu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çözüm getiren kimse

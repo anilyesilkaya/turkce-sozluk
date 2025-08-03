@@ -2,6 +2,7 @@
 layout: term
 title: susturabilmek
 slug: susturabilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Susturma ihtimali veya imkânı bulunmak

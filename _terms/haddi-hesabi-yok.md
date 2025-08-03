@@ -2,6 +2,7 @@
 layout: term
 title: haddi hesabı yok
 slug: haddi-hesabi-yok
+letter: H
 lisan: Türkçe
 anlamlar:
 - sayılamayacak kadar çok, sınırsız, ölçüsüz

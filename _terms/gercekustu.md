@@ -2,6 +2,7 @@
 layout: term
 title: gerçeküstü
 slug: gercekustu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gerçeği aşan, gerçeğin üstündeki gerçek; sürreal, sürrealite

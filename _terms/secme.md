@@ -2,6 +2,7 @@
 layout: term
 title: seçme
 slug: secme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Seçmek işi; saylama, ihtiyar (II), intihap, seleksiyon

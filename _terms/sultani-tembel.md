@@ -2,6 +2,7 @@
 layout: term
 title: sultani tembel
 slug: sultani-tembel
+letter: S
 lisan: Türkçe
 anlamlar:
 - Tembel, iş görmekten hoşlanmayan

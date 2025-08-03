@@ -2,6 +2,7 @@
 layout: term
 title: yerleşim merkezi
 slug: yerlesim-merkezi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - İl, ilçe, köy gibi halkın bir arada yaşadığı yerler; meskûn mahal

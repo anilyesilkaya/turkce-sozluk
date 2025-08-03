@@ -2,6 +2,7 @@
 layout: term
 title: tohum
 slug: tohum
+letter: T
 lisan: Farsça tuḫm
 anlamlar:
 - Bitkilerde döllenme sonunda yumurtacıktan oluşan ve yeni bir bitki oluşmasını sağlayan tane; ekecek

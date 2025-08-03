@@ -2,6 +2,7 @@
 layout: term
 title: arka bulmak
 slug: arka-bulmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir koruyucu, kayırıcı bulmak

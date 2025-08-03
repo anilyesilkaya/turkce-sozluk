@@ -2,6 +2,7 @@
 layout: term
 title: boyun bağı
 slug: boyun-bagi
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► kravat

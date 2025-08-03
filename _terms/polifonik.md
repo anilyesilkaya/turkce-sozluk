@@ -2,6 +2,7 @@
 layout: term
 title: polifonik
 slug: polifonik
+letter: P
 lisan: Fransızca polyphonique
 anlamlar:
 - ► çok sesli

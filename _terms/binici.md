@@ -2,6 +2,7 @@
 layout: term
 title: binici
 slug: binici
+letter: B
 lisan: Türkçe
 anlamlar:
 - Ata binen kimse

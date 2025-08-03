@@ -2,6 +2,7 @@
 layout: term
 title: balya makinesi
 slug: balya-makinesi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Değişik tarım veya sanayi ürünlerini ip, çember vb. ile balyalama işini yapan alet

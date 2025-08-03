@@ -2,6 +2,7 @@
 layout: term
 title: müdellel
 slug: mudellel
+letter: M
 lisan: Arapça mudellel
 anlamlar:
 - Kanıtlanmış, kanıtlı

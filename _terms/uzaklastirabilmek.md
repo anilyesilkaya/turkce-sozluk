@@ -2,6 +2,7 @@
 layout: term
 title: uzaklaştırabilmek
 slug: uzaklastirabilmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uzaklaştırma ihtimali veya imkânı bulunmak

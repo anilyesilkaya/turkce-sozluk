@@ -2,6 +2,7 @@
 layout: term
 title: fesatçı
 slug: fesatci
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► arabozan

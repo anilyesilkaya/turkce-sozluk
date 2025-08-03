@@ -2,6 +2,7 @@
 layout: term
 title: acıma
 slug: acima
+letter: A
 lisan: Türkçe
 anlamlar:
 - Acımak durumu

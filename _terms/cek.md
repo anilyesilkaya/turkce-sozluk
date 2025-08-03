@@ -2,6 +2,7 @@
 layout: term
 title: çek
 slug: cek
+letter: Ç
 lisan: İngilizce check
 anlamlar:
 - Bir kimsenin, satın aldığı hizmet veya ürün karşılığında para yerine verdiği ve karşılığı banka hesabından ödenen yazılı belge

@@ -2,6 +2,7 @@
 layout: term
 title: sarım
 slug: sarim
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sarmak işi

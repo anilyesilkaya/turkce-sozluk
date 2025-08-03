@@ -2,6 +2,7 @@
 layout: term
 title: gönül verme evliye, eve gider unutur
 slug: gonul-verme-evliye-eve-gider-unutur
+letter: G
 lisan: Türkçe
 anlamlar:
 - '"bir kadın, evli bir erkeğe gönlünü kaptırmamalıdır" anlamında kullanılan bir söz'

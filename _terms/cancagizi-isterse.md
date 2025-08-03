@@ -2,6 +2,7 @@
 layout: term
 title: cancağızı isterse
 slug: cancagizi-isterse
+letter: C
 lisan: Türkçe
 anlamlar:
 - kendisi isterse, içinden gelirse

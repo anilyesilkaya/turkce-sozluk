@@ -2,6 +2,7 @@
 layout: term
 title: çitleme
 slug: citleme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çitlemek işi

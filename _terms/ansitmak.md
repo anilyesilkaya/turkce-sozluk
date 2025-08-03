@@ -2,6 +2,7 @@
 layout: term
 title: ansıtmak
 slug: ansitmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► anımsatmak

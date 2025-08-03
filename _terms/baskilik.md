@@ -2,6 +2,7 @@
 layout: term
 title: baskılık
 slug: baskilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Baskı için uygun olan

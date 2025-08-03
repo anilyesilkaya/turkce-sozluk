@@ -2,6 +2,7 @@
 layout: term
 title: sıhhi imdat
 slug: sihhi-imdat
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► ilk yardım

@@ -2,6 +2,7 @@
 layout: term
 title: kafası tembel
 slug: kafasi-tembel
+letter: K
 lisan: Türkçe
 anlamlar:
 - Basireti olmayan (kimse)

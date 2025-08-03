@@ -2,6 +2,7 @@
 layout: term
 title: doyuran
 slug: doyuran
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir sıvının içinde eriyerek onu doyma durumuna getiren (madde)

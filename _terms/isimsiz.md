@@ -2,6 +2,7 @@
 layout: term
 title: isimsiz
 slug: isimsiz
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► adsız

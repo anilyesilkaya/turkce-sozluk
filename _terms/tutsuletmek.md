@@ -2,6 +2,7 @@
 layout: term
 title: tütsületmek
 slug: tutsuletmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tütsüleme işini yaptırmak

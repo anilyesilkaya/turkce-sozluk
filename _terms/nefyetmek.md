@@ -2,6 +2,7 @@
 layout: term
 title: nefyetmek
 slug: nefyetmek
+letter: N
 lisan: Arapça nefy + Türkçe etmek
 anlamlar:
 - Sürgüne göndermek

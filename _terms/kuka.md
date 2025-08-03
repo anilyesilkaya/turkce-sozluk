@@ -2,6 +2,7 @@
 layout: term
 title: kuka
 slug: kuka
+letter: K
 lisan: Rumca
 anlamlar:
 - Tespih, sigara ağızlığı vb.nin yapımında kullanılan, siyah veya sütlü kahve renginde Hindistan cevizi kökü

@@ -2,6 +2,7 @@
 layout: term
 title: kıtır kıtır kesmek
 slug: kitir-kitir-kesmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - bıçak veya kesici bir aletle acımaksızın yaralamak veya öldürmek

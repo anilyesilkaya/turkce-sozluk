@@ -2,6 +2,7 @@
 layout: term
 title: paralıca
 slug: paralica
+letter: P
 lisan: Türkçe
 anlamlar:
 - Epey parası olan

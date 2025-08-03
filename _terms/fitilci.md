@@ -2,6 +2,7 @@
 layout: term
 title: fitilci
 slug: fitilci
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fitil yapan veya satan kimse

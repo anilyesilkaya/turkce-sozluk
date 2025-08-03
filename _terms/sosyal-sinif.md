@@ -2,6 +2,7 @@
 layout: term
 title: sosyal sınıf
 slug: sosyal-sinif
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► sosyal tabaka

@@ -2,6 +2,7 @@
 layout: term
 title: motifli
 slug: motifli
+letter: M
 lisan: Türkçe
 anlamlar:
 - Motifi olan

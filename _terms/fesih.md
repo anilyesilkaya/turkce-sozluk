@@ -2,6 +2,7 @@
 layout: term
 title: fesih
 slug: fesih
+letter: F
 lisan: Arapça fesḫ
 anlamlar:
 - Verilmiş bir yargıyı kaldırma, bozma

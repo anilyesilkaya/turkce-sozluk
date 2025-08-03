@@ -2,6 +2,7 @@
 layout: term
 title: alesta
 slug: alesta
+letter: A
 lisan: İtalyanca allesta
 anlamlar:
 - Harekete hazır, hazır durumda olan

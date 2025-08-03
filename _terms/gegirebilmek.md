@@ -2,6 +2,7 @@
 layout: term
 title: geğirebilmek
 slug: gegirebilmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Geğirme ihtimali bulunmak

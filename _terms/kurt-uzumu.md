@@ -2,6 +2,7 @@
 layout: term
 title: 'kurt üzümü '
 slug: kurt-uzumu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Ana vatanı Tibet, Nepal ve Himalayalar olan, kışın yapraklarını döken, gövdesi biraz dikenli, odunsu bir çalı

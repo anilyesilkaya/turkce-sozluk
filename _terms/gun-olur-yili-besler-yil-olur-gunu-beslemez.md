@@ -2,6 +2,7 @@
 layout: term
 title: gün olur yılı besler, yıl olur günü beslemez
 slug: gun-olur-yili-besler-yil-olur-gunu-beslemez
+letter: G
 lisan: Türkçe
 anlamlar:
 - '"ticarette kazanç, günü gününe uymaz" anlamında kullanılan bir söz'

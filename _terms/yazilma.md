@@ -2,6 +2,7 @@
 layout: term
 title: yazılma
 slug: yazilma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yazılmak işi; kaydolma

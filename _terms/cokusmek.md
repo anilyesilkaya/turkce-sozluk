@@ -2,6 +2,7 @@
 layout: term
 title: çöküşmek
 slug: cokusmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Birlikte çökmek

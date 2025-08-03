@@ -2,6 +2,7 @@
 layout: term
 title: bigâne
 slug: bigane
+letter: B
 lisan: Farsça bīgāne
 anlamlar:
 - ► yabancı

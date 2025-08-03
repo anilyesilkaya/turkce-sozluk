@@ -2,6 +2,7 @@
 layout: term
 title: ne hacet
 slug: ne-hacet
+letter: N
 lisan: Türkçe
 anlamlar:
 - gereksiz, gerek yok

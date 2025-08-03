@@ -2,6 +2,7 @@
 layout: term
 title: kafası (veya kafasına) takılmak
 slug: kafasi-veya-kafasina-takilmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - zihni bir şeyle sürekli olarak uğraşmak

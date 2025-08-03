@@ -2,6 +2,7 @@
 layout: term
 title: armonik
 slug: armonik
+letter: A
 lisan: Fransızca harmonique
 anlamlar:
 - Armoni ile ilgili olan

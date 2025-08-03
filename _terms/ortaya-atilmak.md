@@ -2,6 +2,7 @@
 layout: term
 title: ortaya atılmak
 slug: ortaya-atilmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - ileri sürülmek, herkesin bilgisine sunulmak

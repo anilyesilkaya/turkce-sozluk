@@ -2,6 +2,7 @@
 layout: term
 title: öylece
 slug: oylece
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Tam öyle; o biçimde, o şekilde

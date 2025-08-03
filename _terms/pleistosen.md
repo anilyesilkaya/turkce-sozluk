@@ -2,6 +2,7 @@
 layout: term
 title: pleistosen
 slug: pleistosen
+letter: P
 lisan: Fransızca pléistocène
 anlamlar:
 - ► Buzul Çağı

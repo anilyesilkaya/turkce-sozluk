@@ -2,6 +2,7 @@
 layout: term
 title: tahakkuk etmek
 slug: tahakkuk-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - gerçekleşmek

@@ -2,6 +2,7 @@
 layout: term
 title: yufka
 slug: yufka
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Oklava ile açılan ince, yuvarlak hamur yaprağı

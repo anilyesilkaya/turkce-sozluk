@@ -2,6 +2,7 @@
 layout: term
 title: büyümek
 slug: buyumek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Organizmanın bütününde veya bu bütünün bir bölümünde boyutlar artmak, irileşmek, eskisinden büyük duruma gelmek

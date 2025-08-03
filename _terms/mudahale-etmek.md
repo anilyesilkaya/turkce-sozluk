@@ -2,6 +2,7 @@
 layout: term
 title: müdahale etmek
 slug: mudahale-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - karışmak, araya girmek, el atmak

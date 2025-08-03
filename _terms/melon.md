@@ -2,6 +2,7 @@
 layout: term
 title: melon
 slug: melon
+letter: M
 lisan: Fransızca melon
 anlamlar:
 - Yuvarlak ve bombeli (şapka)

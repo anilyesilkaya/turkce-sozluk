@@ -2,6 +2,7 @@
 layout: term
 title: indirivermek
 slug: indirivermek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Çabucak veya kısa sürede indirmek

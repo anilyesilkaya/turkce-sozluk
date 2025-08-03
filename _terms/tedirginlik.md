@@ -2,6 +2,7 @@
 layout: term
 title: tedirginlik
 slug: tedirginlik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tedirgin olma durumu

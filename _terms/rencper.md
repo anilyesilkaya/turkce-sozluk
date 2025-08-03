@@ -2,6 +2,7 @@
 layout: term
 title: rençper
 slug: rencper
+letter: R
 lisan: Farsça rencber
 anlamlar:
 - Tarla, bağ, bahçe, yapı ve toprak işlerinde ağır işleri gören gündelikçi; ırgat

@@ -2,6 +2,7 @@
 layout: term
 title: saçını başını yolmak
 slug: sacini-basini-yolmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - çok üzülmek, üzüntüsünden dövünmek

@@ -2,6 +2,7 @@
 layout: term
 title: cırlak cırlak
 slug: cirlak-cirlak
+letter: C
 lisan: Türkçe
 anlamlar:
 - Çok tiz ve ince bir sesle

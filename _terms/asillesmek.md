@@ -2,6 +2,7 @@
 layout: term
 title: asilleşmek
 slug: asillesmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► soylulaşmak

@@ -2,6 +2,7 @@
 layout: term
 title: kaşeletme
 slug: kaseletme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaşeletmek işi

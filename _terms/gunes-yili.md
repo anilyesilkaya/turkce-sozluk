@@ -2,6 +2,7 @@
 layout: term
 title: güneş yılı
 slug: gunes-yili
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güneş'in görünürdeki yıllık hareketine göre tanımlanan yıl

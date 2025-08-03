@@ -2,6 +2,7 @@
 layout: term
 title: arpa ekmeği
 slug: arpa-ekmegi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arpa unundan yapılan ekmek

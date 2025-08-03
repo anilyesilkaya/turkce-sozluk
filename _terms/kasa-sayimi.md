@@ -2,6 +2,7 @@
 layout: term
 title: kasa sayımı
 slug: kasa-sayimi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Günlük kasa mevcudunun kasanın devredilmesinden önce sayılıp belirlenmesi

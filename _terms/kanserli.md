@@ -2,6 +2,7 @@
 layout: term
 title: kanserli
 slug: kanserli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kanser niteliğinde olan

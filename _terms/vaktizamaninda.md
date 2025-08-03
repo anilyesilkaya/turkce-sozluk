@@ -2,6 +2,7 @@
 layout: term
 title: vaktizamanında
 slug: vaktizamaninda
+letter: V
 lisan: Türkçe
 anlamlar:
 - ► bir zamanlar

@@ -2,6 +2,7 @@
 layout: term
 title: enli
 slug: enli
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► geniş

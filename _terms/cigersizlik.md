@@ -2,6 +2,7 @@
 layout: term
 title: ciğersizlik
 slug: cigersizlik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Ciğersiz olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: sandık
 slug: sandik
+letter: S
 lisan: Arapça ṣandūḳ
 anlamlar:
 - İçine çeşitli şeyler konulan, tahtadan yapılmış, kapaklı ev eşyası

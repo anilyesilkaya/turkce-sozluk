@@ -2,6 +2,7 @@
 layout: term
 title: ustabaşı
 slug: ustabasi
+letter: U
 lisan: Türkçe
 anlamlar:
 - Bir iş yerinde çalışan ustaların başı olan ve onları denetleyen kimse; formen

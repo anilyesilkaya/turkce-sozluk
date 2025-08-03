@@ -2,6 +2,7 @@
 layout: term
 title: bağdaşım
 slug: bagdasim
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► insicam

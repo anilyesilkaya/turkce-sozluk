@@ -2,6 +2,7 @@
 layout: term
 title: yerinde saymak
 slug: yerinde-saymak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yürür gibi yaparak hep aynı yerde, sürekli olarak ayağın birini kaldırıp birini basmak

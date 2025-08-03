@@ -2,6 +2,7 @@
 layout: term
 title: sakıncalı
 slug: sakincali
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sakınmayı, çekinmeyi gerektiren; mahzurlu

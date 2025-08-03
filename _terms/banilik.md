@@ -2,6 +2,7 @@
 layout: term
 title: banilik
 slug: banilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bani olma durumu

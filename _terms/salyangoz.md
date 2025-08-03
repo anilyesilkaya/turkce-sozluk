@@ -2,6 +2,7 @@
 layout: term
 title: salyangoz
 slug: salyangoz
+letter: S
 lisan: Rumca
 anlamlar:
 - Yumuşakçalardan, bahçelerin nemli yerlerinde yaşayan, sarmal kabuklu küçük hayvan (Helix)

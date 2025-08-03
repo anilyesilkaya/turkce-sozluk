@@ -2,6 +2,7 @@
 layout: term
 title: dehşetli
 slug: dehsetli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Korku veya ürküntü veren

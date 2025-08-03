@@ -2,6 +2,7 @@
 layout: term
 title: mumlamak
 slug: mumlamak
+letter: M
 lisan: Türkçe
 anlamlar:
 - Bal mumu sürmek, bal mumuna batırmak

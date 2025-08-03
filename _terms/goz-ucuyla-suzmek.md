@@ -2,6 +2,7 @@
 layout: term
 title: göz ucuyla süzmek
 slug: goz-ucuyla-suzmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - iyice tanımak, bilmek veya dikkat çekmek amacıyla hafif kısık gözle incelemek, bakmak

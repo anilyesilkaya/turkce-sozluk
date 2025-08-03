@@ -2,6 +2,7 @@
 layout: term
 title: donanma şenliği
 slug: donanma-senligi
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► donanma gecesi

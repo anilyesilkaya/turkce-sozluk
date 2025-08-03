@@ -2,6 +2,7 @@
 layout: term
 title: kuşkulandırmak
 slug: kuskulandirmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kuşkuya düşürmek, kuşkulanmasına yol açmak; gıcıklamak, işkillendirmek, şüphelendirmek

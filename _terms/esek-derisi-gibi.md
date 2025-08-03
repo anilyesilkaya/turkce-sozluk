@@ -2,6 +2,7 @@
 layout: term
 title: eşek derisi gibi
 slug: esek-derisi-gibi
+letter: E
 lisan: Türkçe
 anlamlar:
 - derisi çok kalın

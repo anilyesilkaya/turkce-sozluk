@@ -2,6 +2,7 @@
 layout: term
 title: aksiliği üstünde (olmak)
 slug: aksiligi-ustunde-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - olumsuz davranış içerisinde (olmak)

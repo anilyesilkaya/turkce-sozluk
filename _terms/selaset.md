@@ -2,6 +2,7 @@
 layout: term
 title: selaset
 slug: selaset
+letter: S
 lisan: Arapça selāset
 anlamlar:
 - ► akıcılık

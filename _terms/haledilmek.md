@@ -2,6 +2,7 @@
 layout: term
 title: haledilmek
 slug: haledilmek
+letter: H
 lisan: Arapça ḫal´ + Türkçe edilmek
 anlamlar:
 - Tahttan indirilmek

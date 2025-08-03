@@ -2,6 +2,7 @@
 layout: term
 title: şeker hastalığı
 slug: seker-hastaligi
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Kanda şeker düzeyinin normal değerlerin üzerine çıkması sonucu çok su içme, çok yemek yeme, çok idrar yapma ve idrarda şeker bulunması ile beliren hastalık; şeker, diyabet

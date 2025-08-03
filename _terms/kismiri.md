@@ -2,6 +2,7 @@
 layout: term
 title: kişmiri
 slug: kismiri
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► çekici

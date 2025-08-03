@@ -2,6 +2,7 @@
 layout: term
 title: yoklamak
 slug: yoklamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Dokunarak incelemek; yordamlamak

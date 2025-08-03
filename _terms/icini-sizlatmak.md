@@ -2,6 +2,7 @@
 layout: term
 title: içini sızlatmak
 slug: icini-sizlatmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - üzülmesine sebep olmak

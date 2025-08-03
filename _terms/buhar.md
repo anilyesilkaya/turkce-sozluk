@@ -2,6 +2,7 @@
 layout: term
 title: buhar
 slug: buhar
+letter: B
 lisan: Arapça buḫār
 anlamlar:
 - Isı etkisiyle sıvıların ve bazı katıların dönüştükleri gaz durumu

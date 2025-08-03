@@ -2,6 +2,7 @@
 layout: term
 title: göz kesesi
 slug: goz-kesesi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gözlerin hemen altında derinin ve kasların bozulması sonucu oluşan şişkinlik

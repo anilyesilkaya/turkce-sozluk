@@ -2,6 +2,7 @@
 layout: term
 title: mecalsizleştirmek
 slug: mecalsizlestirmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► takatsizleştirmek

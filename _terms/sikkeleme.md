@@ -2,6 +2,7 @@
 layout: term
 title: sikkeleme
 slug: sikkeleme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sikkelemek işi

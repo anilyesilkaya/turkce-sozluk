@@ -2,6 +2,7 @@
 layout: term
 title: güneş hayvancıkları
 slug: gunes-hayvanciklari
+letter: G
 lisan: Türkçe
 anlamlar:
 - Kök bacaklılardan, ışın biçimindeki yalancı bacaklarıyla hareket eden bir hücreli hayvanlar takımı; günsüler

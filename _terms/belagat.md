@@ -2,6 +2,7 @@
 layout: term
 title: belagat
 slug: belagat
+letter: B
 lisan: Arapça belāġat
 anlamlar:
 - İyi konuşma, sözle inandırma yeteneği

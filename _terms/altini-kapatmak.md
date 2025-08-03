@@ -2,6 +2,7 @@
 layout: term
 title: altını kapatmak
 slug: altini-kapatmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ocağın alevini kapatmak

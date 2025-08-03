@@ -2,6 +2,7 @@
 layout: term
 title: çoksatar
 slug: coksatar
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - En çok satılan yayın

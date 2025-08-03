@@ -2,6 +2,7 @@
 layout: term
 title: donanma gecesi
 slug: donanma-gecesi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bayramlarda, sevinçli günlerde bayrak, ışık kullanılarak, havai fişek atılarak yapılan şenlik; donanma, donanma şenliği

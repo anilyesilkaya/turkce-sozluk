@@ -2,6 +2,7 @@
 layout: term
 title: beynini uyuşturmak
 slug: beynini-uyusturmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - düşünemez hâle getirmek

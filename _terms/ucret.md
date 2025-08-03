@@ -2,6 +2,7 @@
 layout: term
 title: ücret
 slug: ucret
+letter: Ü
 lisan: Arapça ucret
 anlamlar:
 - İş gücünün karşılığı olan para veya mal; ecir

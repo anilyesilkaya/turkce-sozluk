@@ -2,6 +2,7 @@
 layout: term
 title: ekşitmek
 slug: eksitmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ekşimesine yol açmak

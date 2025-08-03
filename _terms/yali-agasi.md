@@ -2,6 +2,7 @@
 layout: term
 title: yalı ağası
 slug: yali-agasi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Kıyıları korumakla görevli komutan

@@ -2,6 +2,7 @@
 layout: term
 title: maarifçi
 slug: maarifci
+letter: M
 lisan: Türkçe
 anlamlar:
 - Öğretim ve eğitim kurum veya kuruluşlarında çalışan kimse

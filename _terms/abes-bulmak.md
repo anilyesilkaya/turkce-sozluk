@@ -2,6 +2,7 @@
 layout: term
 title: abes bulmak
 slug: abes-bulmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - gereksiz, saçma sapan olarak kabul etmek

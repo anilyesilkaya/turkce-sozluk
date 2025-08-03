@@ -2,6 +2,7 @@
 layout: term
 title: kokteyl
 slug: kokteyl
+letter: K
 lisan: İngilizce cocktail
 anlamlar:
 - Türlü içkiler karıştırılarak yapılan içki

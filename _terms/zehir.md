@@ -2,6 +2,7 @@
 layout: term
 title: zehir
 slug: zehir
+letter: Z
 lisan: Farsça zehr
 anlamlar:
 - Organizmaya girdiğinde kimyasal etkisiyle fizyolojik görevleri bozan ve miktarına göre canlıyı öldürebilen madde; ağı, sem (I), zıkkım

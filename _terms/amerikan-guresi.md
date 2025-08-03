@@ -2,6 +2,7 @@
 layout: term
 title: Amerikan güreşi
 slug: amerikan-guresi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Güreşin belli bazı kurallarına uyularak daha çok eğlence amaçlı gerçekleştirilen dövüş gösterisi

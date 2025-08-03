@@ -2,6 +2,7 @@
 layout: term
 title: düğürcük
 slug: dugurcuk
+letter: D
 lisan: Türkçe
 anlamlar:
 - İnce bulgur

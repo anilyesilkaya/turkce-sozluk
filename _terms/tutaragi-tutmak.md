@@ -2,6 +2,7 @@
 layout: term
 title: tutarağı tutmak
 slug: tutaragi-tutmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - huysuzluğu depreşmek, aşırı istekte bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: itibar
 slug: itibar
+letter: I
 lisan: Arapça iʿtibār
 anlamlar:
 - ► saygınlık

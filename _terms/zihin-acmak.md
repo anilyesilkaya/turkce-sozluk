@@ -2,6 +2,7 @@
 layout: term
 title: zihin açmak
 slug: zihin-acmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - zihni daha iyi çalışır duruma getirmek

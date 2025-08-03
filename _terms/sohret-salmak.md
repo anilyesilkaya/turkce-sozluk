@@ -2,6 +2,7 @@
 layout: term
 title: şöhret salmak
 slug: sohret-salmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ünü yayılmak

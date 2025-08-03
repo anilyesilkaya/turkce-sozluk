@@ -2,6 +2,7 @@
 layout: term
 title: kavimleşme
 slug: kavimlesme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kavimleşmek durumu

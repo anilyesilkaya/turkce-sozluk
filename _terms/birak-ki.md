@@ -2,6 +2,7 @@
 layout: term
 title: bırak ki
 slug: birak-ki
+letter: B
 lisan: Türkçe
 anlamlar:
 - varsay ki

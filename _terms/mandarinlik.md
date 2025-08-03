@@ -2,6 +2,7 @@
 layout: term
 title: mandarinlik
 slug: mandarinlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mandarin olma durumu

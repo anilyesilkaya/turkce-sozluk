@@ -2,6 +2,7 @@
 layout: term
 title: orman çayırı
 slug: orman-cayiri
+letter: O
 lisan: Türkçe
 anlamlar:
 - Orman içerisindeki açıklıklarda veya orman ağaçlarının altında yetişen doğal çayır

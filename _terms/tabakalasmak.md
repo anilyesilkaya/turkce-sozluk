@@ -2,6 +2,7 @@
 layout: term
 title: tabakalaşmak
 slug: tabakalasmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tabaka (I) durumuna gelmek

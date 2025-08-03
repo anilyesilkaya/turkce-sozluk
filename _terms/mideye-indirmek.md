@@ -2,6 +2,7 @@
 layout: term
 title: mideye indirmek
 slug: mideye-indirmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - yemek içmek

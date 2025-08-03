@@ -2,6 +2,7 @@
 layout: term
 title: açtırmak
 slug: actirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Açma işini yaptırmak

@@ -2,6 +2,7 @@
 layout: term
 title: kauçuk
 slug: kaucuk
+letter: K
 lisan: Fransızca caoutchouc
 anlamlar:
 - Gövdesi odunsu, öz suyu yapışkan, süt kıvamında, yaprakları oval biçimli, parlak ve kalın, sıcak ülke bitkisi; kauçuk ağacı, lastik ağacı (Ficus elastica)

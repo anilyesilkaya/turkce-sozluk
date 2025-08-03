@@ -2,6 +2,7 @@
 layout: term
 title: gamzeli
 slug: gamzeli
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gamzesi olan

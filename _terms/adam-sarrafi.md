@@ -2,6 +2,7 @@
 layout: term
 title: adam sarrafı
 slug: adam-sarrafi
+letter: A
 lisan: Türkçe
 anlamlar:
 - İnsanların karakterini çabuk anlayacak duruma gelmiş kimse; insan sarrafı

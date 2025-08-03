@@ -2,6 +2,7 @@
 layout: term
 title: abanili
 slug: abanili
+letter: A
 lisan: Türkçe
 anlamlar:
 - Abanisi olan

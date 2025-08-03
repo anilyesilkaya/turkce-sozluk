@@ -2,6 +2,7 @@
 layout: term
 title: dirsek çürütmek
 slug: dirsek-curutmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - okumak için çok emek sarf etmek

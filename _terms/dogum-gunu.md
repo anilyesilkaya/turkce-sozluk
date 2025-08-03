@@ -2,6 +2,7 @@
 layout: term
 title: doğum günü
 slug: dogum-gunu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir kimsenin doğduğu gün

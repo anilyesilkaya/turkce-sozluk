@@ -2,6 +2,7 @@
 layout: term
 title: ram olmak
 slug: ram-olmak
+letter: R
 lisan: Türkçe
 anlamlar:
 - boyun eğmek, itaat etmek

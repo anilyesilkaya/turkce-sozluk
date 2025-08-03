@@ -2,6 +2,7 @@
 layout: term
 title: çelikleştirmek
 slug: celiklestirmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çelik durumuna getirmek

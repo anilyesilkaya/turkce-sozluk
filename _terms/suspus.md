@@ -2,6 +2,7 @@
 layout: term
 title: suspus
 slug: suspus
+letter: S
 lisan: Türkçe
 anlamlar:
 - Susmuş, sinmiş

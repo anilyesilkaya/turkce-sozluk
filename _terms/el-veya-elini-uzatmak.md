@@ -2,6 +2,7 @@
 layout: term
 title: el (veya elini) uzatmak
 slug: el-veya-elini-uzatmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - birinden bir hakkı almaya kalkışmak

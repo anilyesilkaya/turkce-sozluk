@@ -2,6 +2,7 @@
 layout: term
 title: renklendirebilme
 slug: renklendirebilme
+letter: R
 lisan: Türkçe
 anlamlar:
 - Renklendirebilmek işi

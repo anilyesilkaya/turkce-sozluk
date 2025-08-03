@@ -2,6 +2,7 @@
 layout: term
 title: ayazlatma
 slug: ayazlatma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayazlatmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: yer özekçil
 slug: yer-ozekcil
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yermerkezci

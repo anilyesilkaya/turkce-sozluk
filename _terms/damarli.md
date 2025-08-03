@@ -2,6 +2,7 @@
 layout: term
 title: damarlı
 slug: damarli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Damarı olan

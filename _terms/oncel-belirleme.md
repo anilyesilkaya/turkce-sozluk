@@ -2,6 +2,7 @@
 layout: term
 title: öncel belirleme
 slug: oncel-belirleme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Tanrı'nın her şeyi önceden bildiği dogmasına dayanılarak her şeyin önceden Tanrı tarafından düzenlenmiş olduğunu anlatan terim

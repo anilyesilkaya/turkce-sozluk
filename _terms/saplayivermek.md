@@ -2,6 +2,7 @@
 layout: term
 title: saplayıvermek
 slug: saplayivermek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Çabucak saplamak

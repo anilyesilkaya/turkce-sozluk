@@ -2,6 +2,7 @@
 layout: term
 title: mübarek
 slug: mubarek
+letter: M
 lisan: Arapça mubārek
 anlamlar:
 - ► kutsal

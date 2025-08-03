@@ -2,6 +2,7 @@
 layout: term
 title: buldurtmak
 slug: buldurtmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bulmasını veya buldurmasını sağlamak

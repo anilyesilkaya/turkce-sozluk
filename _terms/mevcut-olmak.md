@@ -2,6 +2,7 @@
 layout: term
 title: mevcut olmak
 slug: mevcut-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - var olmak, bulunmak

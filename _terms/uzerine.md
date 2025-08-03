@@ -2,6 +2,7 @@
 layout: term
 title: üzerine
 slug: uzerine
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - ► üstüne

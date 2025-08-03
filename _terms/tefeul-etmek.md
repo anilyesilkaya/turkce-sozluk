@@ -2,6 +2,7 @@
 layout: term
 title: tefeül etmek
 slug: tefeul-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - fala bakmak, fal açmak

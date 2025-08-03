@@ -2,6 +2,7 @@
 layout: term
 title: bunaltabilmek
 slug: bunaltabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bunaltma ihtimali veya imkânı bulunmak

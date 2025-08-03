@@ -2,6 +2,7 @@
 layout: term
 title: kavim kardaş
 slug: kavim-kardas
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bütün akrabalar, tanıdıklar

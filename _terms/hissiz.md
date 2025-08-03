@@ -2,6 +2,7 @@
 layout: term
 title: hissiz
 slug: hissiz
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► duygusuz

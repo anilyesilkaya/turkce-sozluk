@@ -2,6 +2,7 @@
 layout: term
 title: sanık
 slug: sanik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Suçlu olduğu sanılarak mahkemeye sevk edilmiş kimse; maznun

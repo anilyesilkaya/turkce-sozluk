@@ -2,6 +2,7 @@
 layout: term
 title: maskarata
 slug: maskarata
+letter: M
 lisan: İtalyanca mascherata
 anlamlar:
 - Ayakkabının üst yüzünün ön tarafında dikişle ayrılan burun bölümü

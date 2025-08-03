@@ -2,6 +2,7 @@
 layout: term
 title: hukukçu
 slug: hukukcu
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hukuku meslek edinen, hukukla uğraşan kimse; tüzeci

@@ -2,6 +2,7 @@
 layout: term
 title: müstebit
 slug: mustebit
+letter: M
 lisan: Arapça mustebidd
 anlamlar:
 - ► zorba

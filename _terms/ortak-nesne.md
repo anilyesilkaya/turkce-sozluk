@@ -2,6 +2,7 @@
 layout: term
 title: ortak nesne
 slug: ortak-nesne
+letter: O
 lisan: Türkçe
 anlamlar:
 - Birden çok yüklemin bağlı bulunduğu nesne

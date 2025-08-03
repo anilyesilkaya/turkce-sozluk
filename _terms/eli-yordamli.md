@@ -2,6 +2,7 @@
 layout: term
 title: eli yordamlı
 slug: eli-yordamli
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eli işe yakışır, yatkın olan (kimse)

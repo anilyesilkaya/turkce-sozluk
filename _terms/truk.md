@@ -2,6 +2,7 @@
 layout: term
 title: trük
 slug: truk
+letter: T
 lisan: Fransızca truc
 anlamlar:
 - Sinema veya tiyatroda teknik ustalıkla yapılan gösteri

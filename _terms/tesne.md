@@ -2,6 +2,7 @@
 layout: term
 title: teşne
 slug: tesne
+letter: T
 lisan: Farsça teşne
 anlamlar:
 - Susamış

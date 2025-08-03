@@ -2,6 +2,7 @@
 layout: term
 title: maruz
 slug: maruz
+letter: M
 lisan: Arapça maʿrūż
 anlamlar:
 - Bir olayın, bir durumun etkisinde veya bir olay veya durumla karşı karşıya bulunan

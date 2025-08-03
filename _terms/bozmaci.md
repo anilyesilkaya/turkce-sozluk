@@ -2,6 +2,7 @@
 layout: term
 title: bozmacı
 slug: bozmaci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bozma işini yapan kimse

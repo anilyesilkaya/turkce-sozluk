@@ -2,6 +2,7 @@
 layout: term
 title: kalp çarpıntısı
 slug: kalp-carpintisi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalbin düzensiz veya hızlı çalışması; halecan, helecan

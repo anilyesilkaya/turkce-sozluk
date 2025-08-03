@@ -2,6 +2,7 @@
 layout: term
 title: revnak
 slug: revnak
+letter: R
 lisan: Arapça revnaḳ
 anlamlar:
 - ► parlaklık

@@ -2,6 +2,7 @@
 layout: term
 title: kelimecilik
 slug: kelimecilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Metin yazımında anlamdan ziyade şekle ve kelimelere önem vererek sanatlı bir anlatımı tercih etme

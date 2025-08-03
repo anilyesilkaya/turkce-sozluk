@@ -2,6 +2,7 @@
 layout: term
 title: tehlikelilik
 slug: tehlikelilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tehlikeli olma durumu

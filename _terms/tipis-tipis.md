@@ -2,6 +2,7 @@
 layout: term
 title: tıpış tıpış
 slug: tipis-tipis
+letter: T
 lisan: Türkçe
 anlamlar:
 - Kısa adımlarla çabuk yürüyerek

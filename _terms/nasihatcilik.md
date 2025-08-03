@@ -2,6 +2,7 @@
 layout: term
 title: nasihatçilik
 slug: nasihatcilik
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nasihatçinin işi

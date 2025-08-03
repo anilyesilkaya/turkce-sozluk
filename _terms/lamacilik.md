@@ -2,6 +2,7 @@
 layout: term
 title: lamacılık
 slug: lamacilik
+letter: L
 lisan: Türkçe
 anlamlar:
 - Budizm'in Orta Asya ve özellikle Tibet'te yaşayan biçimi; lamaizm

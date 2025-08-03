@@ -2,6 +2,7 @@
 layout: term
 title: rehabilitasyon
 slug: rehabilitasyon
+letter: R
 lisan: Fransızca réhabilitation
 anlamlar:
 - ► iyileştirme

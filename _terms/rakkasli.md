@@ -2,6 +2,7 @@
 layout: term
 title: rakkaslı
 slug: rakkasli
+letter: R
 lisan: Türkçe
 anlamlar:
 - Sarkacı olan

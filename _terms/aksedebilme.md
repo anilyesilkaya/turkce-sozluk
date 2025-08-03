@@ -2,6 +2,7 @@
 layout: term
 title: aksedebilme
 slug: aksedebilme
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► yansıyabilme

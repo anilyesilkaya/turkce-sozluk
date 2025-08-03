@@ -2,6 +2,7 @@
 layout: term
 title: kürsü hocası
 slug: kursu-hocasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Camilerde kürsüden vaaz veren hoca; kürsü şeyhi

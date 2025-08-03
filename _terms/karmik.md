@@ -2,6 +2,7 @@
 layout: term
 title: karmık
 slug: karmik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çay ağzında yapılan balıkçı büğeti

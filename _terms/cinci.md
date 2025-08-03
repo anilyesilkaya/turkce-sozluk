@@ -2,6 +2,7 @@
 layout: term
 title: cinci
 slug: cinci
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cin çağırma, onlarla konuşma vb. iddialarla geçimini sağlayan (kimse)

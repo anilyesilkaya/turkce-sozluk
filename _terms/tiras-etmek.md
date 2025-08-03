@@ -2,6 +2,7 @@
 layout: term
 title: tıraş etmek
 slug: tiras-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - tıraş işini yapmak, yülümek

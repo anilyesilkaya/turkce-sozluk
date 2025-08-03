@@ -2,6 +2,7 @@
 layout: term
 title: bulaşıcı hastalık
 slug: bulasici-hastalik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Mikrop, parazit, virüs vb. etkenlerle yayılan hastalık

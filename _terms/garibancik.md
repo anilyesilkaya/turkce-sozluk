@@ -2,6 +2,7 @@
 layout: term
 title: garibancık
 slug: garibancik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Kimsesiz ve zavallılara sevgiyle yaklaşıldığını belirten bir söz

@@ -2,6 +2,7 @@
 layout: term
 title: bollaşmak
 slug: bollasmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bol duruma gelmek; genişlemek, bolalmak

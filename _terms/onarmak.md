@@ -2,6 +2,7 @@
 layout: term
 title: onarmak
 slug: onarmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Bozulmuş, eskimiş olan bir şeyi düzeltip işler veya kullanılır duruma sokmak, işe yarar duruma getirmek; tamir etmek

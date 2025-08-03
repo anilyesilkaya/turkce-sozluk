@@ -2,6 +2,7 @@
 layout: term
 title: artıkçı
 slug: artikci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Başkalarının artıklarını yiyerek veya kullanarak geçinen

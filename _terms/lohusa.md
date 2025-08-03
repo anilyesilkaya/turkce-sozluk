@@ -2,6 +2,7 @@
 layout: term
 title: lohusa
 slug: lohusa
+letter: L
 lisan: Rumca
 anlamlar:
 - Yeni doğum yapmış kadın

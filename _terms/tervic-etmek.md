@@ -2,6 +2,7 @@
 layout: term
 title: terviç etmek
 slug: tervic-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - bir düşünceyi tutmak, desteklemek

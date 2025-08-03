@@ -2,6 +2,7 @@
 layout: term
 title: höt
 slug: hot
+letter: H
 lisan: Türkçe
 anlamlar:
 - Korkutmak veya dikkati kendi üzerine çekmek için söylenen bir söz

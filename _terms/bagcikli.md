@@ -2,6 +2,7 @@
 layout: term
 title: bağcıklı
 slug: bagcikli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağcığı olan, bağcığı bulunan

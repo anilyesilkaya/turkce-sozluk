@@ -2,6 +2,7 @@
 layout: term
 title: çipilleşme
 slug: cipillesme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çipilleşmek işi

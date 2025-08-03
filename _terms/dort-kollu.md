@@ -2,6 +2,7 @@
 layout: term
 title: dört kollu
 slug: dort-kollu
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► tabut

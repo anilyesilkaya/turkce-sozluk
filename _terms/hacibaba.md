@@ -2,6 +2,7 @@
 layout: term
 title: hacıbaba
 slug: hacibaba
+letter: H
 lisan: Türkçe
 anlamlar:
 - Yardımsever, sevecen tavırlı ihtiyar

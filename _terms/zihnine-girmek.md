@@ -2,6 +2,7 @@
 layout: term
 title: zihnine girmek
 slug: zihnine-girmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - düşüncesini değiştirmesine yol açmak

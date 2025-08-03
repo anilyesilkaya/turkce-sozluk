@@ -2,6 +2,7 @@
 layout: term
 title: maviş
 slug: mavis
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mavi gözlü olan (kimse)

@@ -2,6 +2,7 @@
 layout: term
 title: sözünden çıkmamak
 slug: sozunden-cikmamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - birinin isteklerine, öğütlerine, sözlerine uyarak davranmak

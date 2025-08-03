@@ -2,6 +2,7 @@
 layout: term
 title: muazzam
 slug: muazzam
+letter: M
 lisan: Arapça muʿaẓẓam
 anlamlar:
 - ► koskoca

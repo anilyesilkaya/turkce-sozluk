@@ -2,6 +2,7 @@
 layout: term
 title: zephiye
 slug: zephiye
+letter: Z
 lisan: Arapça ẕebḥiyye
 anlamlar:
 - Kesimevinde kesilen hayvanlar için kasapların ödedikleri vergi

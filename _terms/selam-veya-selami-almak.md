@@ -2,6 +2,7 @@
 layout: term
 title: selam (veya selamı) almak
 slug: selam-veya-selami-almak
+letter: S
 lisan: Türkçe
 anlamlar:
 - birinin selamlamasına karşılık vermek

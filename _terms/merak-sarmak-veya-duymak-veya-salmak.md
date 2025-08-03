@@ -2,6 +2,7 @@
 layout: term
 title: merak sarmak (veya duymak veya salmak)
 slug: merak-sarmak-veya-duymak-veya-salmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - bir şeyi edinme, yapma veya onunla uğraşma isteğine kapılmak, bir şeye eğilim duymak

@@ -2,6 +2,7 @@
 layout: term
 title: hicviye
 slug: hicviye
+letter: H
 lisan: Arapça hecviyye
 anlamlar:
 - ► yergi

@@ -2,6 +2,7 @@
 layout: term
 title: testi
 slug: testi
+letter: T
 lisan: Farsça destī
 anlamlar:
 - Toprak, cam, metal vb. maddelerden yapılan, geniş gövdeli, dar boğazlı, emzikli veya emziksiz su kabı

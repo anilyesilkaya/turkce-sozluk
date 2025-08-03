@@ -2,6 +2,7 @@
 layout: term
 title: doğuvermek
 slug: doguvermek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Ansızın doğmak

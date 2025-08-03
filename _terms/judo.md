@@ -2,6 +2,7 @@
 layout: term
 title: judo
 slug: judo
+letter: J
 lisan: Fransızca judo
 anlamlar:
 - Jiujitsudan gelişmiş, tutmalara, fırlatmalara, hareketsiz bırakmalara dayanan, Japon kökenli silahsız yapılan dövüş sporu

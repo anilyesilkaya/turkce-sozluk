@@ -2,6 +2,7 @@
 layout: term
 title: müze
 slug: muze
+letter: M
 lisan: Fransızca musée
 anlamlar:
 - Sanat ve bilim eserlerinin veya sanat ve bilime yarayan nesnelerin saklandığı, halka gösterilmek için sergilendiği yer

@@ -2,6 +2,7 @@
 layout: term
 title: güneşlik
 slug: guneslik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güneş ışınlarına engel olan perde veya buna benzer gereç

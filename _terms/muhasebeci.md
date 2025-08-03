@@ -2,6 +2,7 @@
 layout: term
 title: muhasebeci
 slug: muhasebeci
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► sayman

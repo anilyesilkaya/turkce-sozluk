@@ -2,6 +2,7 @@
 layout: term
 title: talip olmak
 slug: talip-olmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - istekli olmak

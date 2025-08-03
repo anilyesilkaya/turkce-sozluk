@@ -2,6 +2,7 @@
 layout: term
 title: eziyetli
 slug: eziyetli
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eziyet çekerek yapılan; zahmetli

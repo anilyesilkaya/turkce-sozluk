@@ -2,6 +2,7 @@
 layout: term
 title: otostopçuluk
 slug: otostopculuk
+letter: O
 lisan: Türkçe
 anlamlar:
 - Otostop yapma işi

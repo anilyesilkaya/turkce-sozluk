@@ -2,6 +2,7 @@
 layout: term
 title: turna
 slug: turna
+letter: T
 lisan: Türkçe
 anlamlar:
 - Turnagillerden, Avrupa ve Kuzey Afrika'da toplu olarak yaşayan, göçebe, iri bir kuş (Grus grus)

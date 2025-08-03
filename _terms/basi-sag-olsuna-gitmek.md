@@ -2,6 +2,7 @@
 layout: term
 title: başı sağ olsuna gitmek
 slug: basi-sag-olsuna-gitmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - başsağlığı dilemeye gitmek

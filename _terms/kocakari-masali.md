@@ -2,6 +2,7 @@
 layout: term
 title: kocakarı masalı
 slug: kocakari-masali
+letter: K
 lisan: Türkçe
 anlamlar:
 - Avutucu ve eğlendirici nitelikli masal

@@ -2,6 +2,7 @@
 layout: term
 title: nesnelleşme
 slug: nesnellesme
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nesnelleşmek durumu

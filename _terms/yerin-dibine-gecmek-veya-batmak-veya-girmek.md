@@ -2,6 +2,7 @@
 layout: term
 title: yerin dibine geçmek (veya batmak veya girmek)
 slug: yerin-dibine-gecmek-veya-batmak-veya-girmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - çok utanıp sıkılmak

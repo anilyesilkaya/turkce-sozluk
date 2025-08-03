@@ -2,6 +2,7 @@
 layout: term
 title: ciltsiz
 slug: ciltsiz
+letter: C
 lisan: Türkçe
 anlamlar:
 - Ciltlenmemiş olan

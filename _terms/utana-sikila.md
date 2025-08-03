@@ -2,6 +2,7 @@
 layout: term
 title: utana sıkıla
 slug: utana-sikila
+letter: U
 lisan: Türkçe
 anlamlar:
 - Çok utanıp sıkılarak, utanıp sıkılmış bir biçimde

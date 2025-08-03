@@ -2,6 +2,7 @@
 layout: term
 title: eli yüzü düzgünlük
 slug: eli-yuzu-duzgunluk
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eli yüzü düzgün olma durumu

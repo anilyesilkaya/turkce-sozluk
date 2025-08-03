@@ -2,6 +2,7 @@
 layout: term
 title: soyulmak
 slug: soyulmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Soyma işine konu olmak

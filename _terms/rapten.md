@@ -2,6 +2,7 @@
 layout: term
 title: rapten
 slug: rapten
+letter: R
 lisan: Arapça rabṭen
 anlamlar:
 - Bağlı olarak, tutturulmuş biçimde

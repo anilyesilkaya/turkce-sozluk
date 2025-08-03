@@ -2,6 +2,7 @@
 layout: term
 title: gürbüzleşmek
 slug: gurbuzlesmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gelişmek, gürbüz duruma gelmek

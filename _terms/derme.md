@@ -2,6 +2,7 @@
 layout: term
 title: derme
 slug: derme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dermek işi

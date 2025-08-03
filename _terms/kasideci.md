@@ -2,6 +2,7 @@
 layout: term
 title: kasideci
 slug: kasideci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaside yazan şair

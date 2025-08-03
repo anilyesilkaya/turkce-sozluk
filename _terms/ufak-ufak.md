@@ -2,6 +2,7 @@
 layout: term
 title: ufak ufak
 slug: ufak-ufak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Küçük küçük, hafif hafif

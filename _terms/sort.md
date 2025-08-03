@@ -2,6 +2,7 @@
 layout: term
 title: şort
 slug: sort
+letter: Ş
 lisan: İngilizce short
 anlamlar:
 - Paçaları dizlerin yukarısında olan kısa pantolon

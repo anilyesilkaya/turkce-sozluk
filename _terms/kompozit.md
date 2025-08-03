@@ -2,6 +2,7 @@
 layout: term
 title: kompozit
 slug: kompozit
+letter: K
 lisan: Fransızca composite
 anlamlar:
 - ► karma

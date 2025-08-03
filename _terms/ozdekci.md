@@ -2,6 +2,7 @@
 layout: term
 title: özdekçi
 slug: ozdekci
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► maddeci

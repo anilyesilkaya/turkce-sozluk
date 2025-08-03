@@ -2,6 +2,7 @@
 layout: term
 title: husye
 slug: husye
+letter: H
 lisan: Arapça ḫuṣye
 anlamlar:
 - ► taşak

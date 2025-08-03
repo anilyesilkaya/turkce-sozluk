@@ -2,6 +2,7 @@
 layout: term
 title: vuruş
 slug: vurus
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vurmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: balon gemisi
 slug: balon-gemisi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Üzerindeki balonları belirli yüksekliğe çıkararak savaş uçaklarının faaliyetini engellemek, düşman kuvvetlerini gözetlemek vb. görevlerde kullanılan gemi

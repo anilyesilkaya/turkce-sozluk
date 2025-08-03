@@ -2,6 +2,7 @@
 layout: term
 title: ahzüita
 slug: ahzuita
+letter: A
 lisan: Arapça aḫẕ + iʿṭāʾ
 anlamlar:
 - ► alışveriş

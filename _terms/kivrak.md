@@ -2,6 +2,7 @@
 layout: term
 title: kıvrak
 slug: kivrak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Canlı, hareketli, atik olan

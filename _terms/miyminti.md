@@ -2,6 +2,7 @@
 layout: term
 title: mıymıntı
 slug: miyminti
+letter: M
 lisan: Türkçe
 anlamlar:
 - İnsanın sabrını tüketecek derecede yavaş ve mızmızca iş gören (kimse)

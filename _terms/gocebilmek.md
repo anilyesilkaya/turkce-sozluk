@@ -2,6 +2,7 @@
 layout: term
 title: göçebilmek
 slug: gocebilmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Göçme ihtimali veya imkânı bulunmak

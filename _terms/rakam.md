@@ -2,6 +2,7 @@
 layout: term
 title: rakam
 slug: rakam
+letter: R
 lisan: Arapça raḳam
 anlamlar:
 - Sayıları göstermek için kullanılan işaretlerden her biri

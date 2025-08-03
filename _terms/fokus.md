@@ -2,6 +2,7 @@
 layout: term
 title: fokus
 slug: fokus
+letter: F
 lisan: İngilizce focus
 anlamlar:
 - ► odak

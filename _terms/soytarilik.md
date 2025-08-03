@@ -2,6 +2,7 @@
 layout: term
 title: soytarılık
 slug: soytarilik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Soytarı olma durumu; kaşmerlik

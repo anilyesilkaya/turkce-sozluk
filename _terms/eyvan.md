@@ -2,6 +2,7 @@
 layout: term
 title: eyvan
 slug: eyvan
+letter: E
 lisan: Farsça eyvān
 anlamlar:
 - Genel olarak binaların ortasında bulunan ve iç avluya açılan, üstü çoğunlukla tonozla örtülü, üç tarafı kapalı, bir tarafı tamamen açık yer; ayvan

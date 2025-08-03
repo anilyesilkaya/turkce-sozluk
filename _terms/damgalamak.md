@@ -2,6 +2,7 @@
 layout: term
 title: damgalamak
 slug: damgalamak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir şeyin üzerine damga ile işaret yapmak, damga vurmak

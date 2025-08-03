@@ -2,6 +2,7 @@
 layout: term
 title: nohudi
 slug: nohudi
+letter: N
 lisan: Farsça noḫūd + Arapça -ī
 anlamlar:
 - ► nohut rengi

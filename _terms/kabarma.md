@@ -2,6 +2,7 @@
 layout: term
 title: kabarma
 slug: kabarma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kabarmak işi

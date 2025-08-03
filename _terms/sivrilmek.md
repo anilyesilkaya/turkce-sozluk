@@ -2,6 +2,7 @@
 layout: term
 title: sivrilmek
 slug: sivrilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sivri duruma gelmek; sivrileşmek

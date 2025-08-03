@@ -2,6 +2,7 @@
 layout: term
 title: apolet
 slug: apolet
+letter: A
 lisan: Fransızca épaulette
 anlamlar:
 - Subaylarda üniformaların omuzlarına takılan, rütbenin sembolünü gösteren parça; omuzluk

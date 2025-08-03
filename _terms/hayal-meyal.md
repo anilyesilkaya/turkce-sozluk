@@ -2,6 +2,7 @@
 layout: term
 title: hayal meyal
 slug: hayal-meyal
+letter: H
 lisan: Türkçe
 anlamlar:
 - Belli belirsiz, açık seçik olmayan

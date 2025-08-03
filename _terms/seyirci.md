@@ -2,6 +2,7 @@
 layout: term
 title: seyirci
 slug: seyirci
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir olayı gören, izleyen kimse; izleyici

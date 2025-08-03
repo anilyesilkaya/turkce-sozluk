@@ -2,6 +2,7 @@
 layout: term
 title: aklı başına gelmek
 slug: akli-basina-gelmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - davranışlarının yanlışlığını sezerek doğru yolu bulmak

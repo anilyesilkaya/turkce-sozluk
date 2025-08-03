@@ -2,6 +2,7 @@
 layout: term
 title: abeslik
 slug: abeslik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Abes olma durumu

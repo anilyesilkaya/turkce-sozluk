@@ -2,6 +2,7 @@
 layout: term
 title: kiler
 slug: kiler
+letter: K
 lisan: Farsça kilār
 anlamlar:
 - Evlerde yiyecek, içecek ve erzakın saklandığı oda, ambar veya dolap

@@ -2,6 +2,7 @@
 layout: term
 title: okapi
 slug: okapi
+letter: O
 lisan: Fransızca okapi
 anlamlar:
 - Geviş getirenlerden, Kongo'da bataklık ormanlarda yaşayan, büyük bir antilop boyunda, zürafa gibi uzun boyunlu, tıknaz gövdeli, gövdesi kızıl kestane renginde, ön bacakları ve vücudunun arka tarafı beyaz çizgili, uzun ve ince kuyruklu, geviş getiren memeli bir hayvan (Okapia johnstoni)

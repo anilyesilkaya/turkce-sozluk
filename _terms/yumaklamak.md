@@ -2,6 +2,7 @@
 layout: term
 title: yumaklamak
 slug: yumaklamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yumak durumuna getirmek

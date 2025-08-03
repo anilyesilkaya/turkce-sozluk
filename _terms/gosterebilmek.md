@@ -2,6 +2,7 @@
 layout: term
 title: gösterebilmek
 slug: gosterebilmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gösterme ihtimali veya imkânı bulunmak

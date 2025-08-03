@@ -2,6 +2,7 @@
 layout: term
 title: cemaatli
 slug: cemaatli
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cemaati olan

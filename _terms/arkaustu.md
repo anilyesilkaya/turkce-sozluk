@@ -2,6 +2,7 @@
 layout: term
 title: arkaüstü
 slug: arkaustu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arkası yere gelecek bir biçimde

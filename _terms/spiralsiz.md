@@ -2,6 +2,7 @@
 layout: term
 title: spiralsiz
 slug: spiralsiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Spirali olmayan

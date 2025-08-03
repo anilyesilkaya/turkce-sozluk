@@ -2,6 +2,7 @@
 layout: term
 title: üstüne yürümek
 slug: ustune-yurumek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - korkutmak, yıldırmak amacıyla saldıracakmış gibi yapmak

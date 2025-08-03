@@ -2,6 +2,7 @@
 layout: term
 title: davlumbaz
 slug: davlumbaz
+letter: D
 lisan: Arapça ṭabl + Farsça -bāz
 anlamlar:
 - Mutfak duvarlarında ocak, fırın vb.nin dumanlarını ve kokularını toplayıp bacaya vermeye yarayan aspiratör ile donatılmış, piramidimsi biçimde çıkıntı

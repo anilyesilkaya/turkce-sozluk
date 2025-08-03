@@ -2,6 +2,7 @@
 layout: term
 title: hıyaroğluhıyar
 slug: hiyarogluhiyar
+letter: H
 lisan: Türkçe
 anlamlar:
 - Kurnaz, işini bilen, düzenbaz, açıkgöz, uyanık kimse

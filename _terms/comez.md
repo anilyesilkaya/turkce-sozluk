@@ -2,6 +2,7 @@
 layout: term
 title: çömez
 slug: comez
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Medreselerde müderrisin hizmetine bakan ve ondan ders alan öğrenci

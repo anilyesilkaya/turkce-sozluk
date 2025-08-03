@@ -2,6 +2,7 @@
 layout: term
 title: tamir görmek
 slug: tamir-gormek
+letter: T
 lisan: Türkçe
 anlamlar:
 - onarılmak, düzeltilmek, yenilenmek

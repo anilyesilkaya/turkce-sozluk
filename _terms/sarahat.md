@@ -2,6 +2,7 @@
 layout: term
 title: sarahat
 slug: sarahat
+letter: S
 lisan: Arapça ṣarāḥat
 anlamlar:
 - ► belginlik

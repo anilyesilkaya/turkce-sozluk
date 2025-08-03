@@ -2,6 +2,7 @@
 layout: term
 title: yakamoz
 slug: yakamoz
+letter: Y
 lisan: Rumca
 anlamlar:
 - Denizde balıkların veya küreklerin kımıldanışıyla oluşan parıltı

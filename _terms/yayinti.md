@@ -2,6 +2,7 @@
 layout: term
 title: yayıntı
 slug: yayinti
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yayılmış, dağılmış şeyler

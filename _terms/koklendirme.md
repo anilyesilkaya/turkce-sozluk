@@ -2,6 +2,7 @@
 layout: term
 title: köklendirme
 slug: koklendirme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Köklendirmek işi

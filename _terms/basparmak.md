@@ -2,6 +2,7 @@
 layout: term
 title: başparmak
 slug: basparmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - El ve ayakta bulunan en kalın parmak; badem parmak

@@ -2,6 +2,7 @@
 layout: term
 title: kolektör
 slug: kolektor
+letter: K
 lisan: Fransızca collecteur
 anlamlar:
 - Atık suların akmasını sağlayan boru

@@ -2,6 +2,7 @@
 layout: term
 title: desteklenmek
 slug: desteklenmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Destekleme işine konu olmak; beslenmek

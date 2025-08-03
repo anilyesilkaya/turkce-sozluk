@@ -2,6 +2,7 @@
 layout: term
 title: vicdanlı
 slug: vicdanli
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vicdanı olan

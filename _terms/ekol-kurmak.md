@@ -2,6 +2,7 @@
 layout: term
 title: ekol kurmak
 slug: ekol-kurmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - bir ekol oluşturmak

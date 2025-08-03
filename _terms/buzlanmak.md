@@ -2,6 +2,7 @@
 layout: term
 title: buzlanmak
 slug: buzlanmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Buzla kaplanmak, buz tutmak

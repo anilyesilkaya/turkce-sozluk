@@ -2,6 +2,7 @@
 layout: term
 title: kesinti
 slug: kesinti
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kesilen parça

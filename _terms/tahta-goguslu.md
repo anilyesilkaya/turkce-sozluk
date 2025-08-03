@@ -2,6 +2,7 @@
 layout: term
 title: tahta göğüslü
 slug: tahta-goguslu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Göğsü küçük olan; tahta göğüs

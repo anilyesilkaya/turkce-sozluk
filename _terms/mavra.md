@@ -2,6 +2,7 @@
 layout: term
 title: mavra
 slug: mavra
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► gevezelik

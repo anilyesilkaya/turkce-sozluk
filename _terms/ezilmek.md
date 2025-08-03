@@ -2,6 +2,7 @@
 layout: term
 title: ezilmek
 slug: ezilmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ezme işine konu olmak

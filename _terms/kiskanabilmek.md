@@ -2,6 +2,7 @@
 layout: term
 title: kıskanabilmek
 slug: kiskanabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kıskanma ihtimali veya imkânı bulunmak

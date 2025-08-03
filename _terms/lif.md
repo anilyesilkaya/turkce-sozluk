@@ -2,6 +2,7 @@
 layout: term
 title: lif
 slug: lif
+letter: L
 lisan: Arapça līf
 anlamlar:
 - Her türlü maddeyi oluşturan çok ince ve uzun parça

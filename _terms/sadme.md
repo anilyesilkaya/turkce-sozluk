@@ -2,6 +2,7 @@
 layout: term
 title: sadme
 slug: sadme
+letter: S
 lisan: Arapça ṣadme
 anlamlar:
 - Çarpışma, tokuşma, vurma

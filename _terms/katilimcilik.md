@@ -2,6 +2,7 @@
 layout: term
 title: katılımcılık
 slug: katilimcilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Katılımcı olma durumu

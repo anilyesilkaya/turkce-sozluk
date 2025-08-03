@@ -2,6 +2,7 @@
 layout: term
 title: cırcır delgi
 slug: circir-delgi
+letter: C
 lisan: Türkçe
 anlamlar:
 - Dönme hareketini yivli gövdesi üzerindeki parçanın ileri geri itilmesinden alan ve küçük delikler açmak için kullanılan araç

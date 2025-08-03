@@ -2,6 +2,7 @@
 layout: term
 title: umutsuzluğa düşmek (veya kapılmak)
 slug: umutsuzluga-dusmek-veya-kapilmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - umudu kalmamak, güveni sarsılmak, olumsuzluğa sürüklenmek

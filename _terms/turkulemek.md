@@ -2,6 +2,7 @@
 layout: term
 title: türkülemek
 slug: turkulemek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Türkü yakmak

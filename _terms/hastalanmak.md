@@ -2,6 +2,7 @@
 layout: term
 title: hastalanmak
 slug: hastalanmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Sağlığı bozulmak, esenliği yerinde olmamak; rahatsızlanmak, hasta olmak

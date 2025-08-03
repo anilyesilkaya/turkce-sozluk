@@ -2,6 +2,7 @@
 layout: term
 title: deveci
 slug: deveci
+letter: D
 lisan: Türkçe
 anlamlar:
 - Deve sahibi, deve kiralayan kimse

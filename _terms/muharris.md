@@ -2,6 +2,7 @@
 layout: term
 title: muharriş
 slug: muharris
+letter: M
 lisan: Arapça muḫarriş
 anlamlar:
 - Tırmalayan, tahriş eden

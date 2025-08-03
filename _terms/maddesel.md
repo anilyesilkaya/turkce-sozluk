@@ -2,6 +2,7 @@
 layout: term
 title: maddesel
 slug: maddesel
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► maddi

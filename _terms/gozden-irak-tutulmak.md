@@ -2,6 +2,7 @@
 layout: term
 title: gözden ırak tutulmak
 slug: gozden-irak-tutulmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - önem verilmemek, değersiz bulmak

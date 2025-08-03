@@ -2,6 +2,7 @@
 layout: term
 title: çoluk çocuğa karışmak
 slug: coluk-cocuga-karismak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - evlenip çocukları dünyaya gelmek

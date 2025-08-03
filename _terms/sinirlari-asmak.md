@@ -2,6 +2,7 @@
 layout: term
 title: sınırları aşmak
 slug: sinirlari-asmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - haddini aşmak

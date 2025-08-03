@@ -2,6 +2,7 @@
 layout: term
 title: tatarcık
 slug: tatarcik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Sıcak ülkelerde, özellikle Akdeniz çevresinde yaşayan, türlü hastalıklara yol açan küçük bir sinek; yakarca (Phlebotomus)

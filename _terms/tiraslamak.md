@@ -2,6 +2,7 @@
 layout: term
 title: tıraşlamak
 slug: tiraslamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Saç, sakal vb.ni seyreltmek, kazımak, tıraş etmek

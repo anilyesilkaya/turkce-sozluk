@@ -2,6 +2,7 @@
 layout: term
 title: tanımlık
 slug: tanimlik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Dillerde genellikle adlardan önce gelerek adlar arasındaki belirlilik belirsizlik, teklik çokluk, dişillik erillik, vb. durumları gösteren biçim birimi; harfitarif

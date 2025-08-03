@@ -2,6 +2,7 @@
 layout: term
 title: çıkmaz
 slug: cikmaz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Sonu kapalı, çıkış yeri olmayan, hiçbir yere ulaşamayan yol, sokak

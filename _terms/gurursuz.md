@@ -2,6 +2,7 @@
 layout: term
 title: gurursuz
 slug: gurursuz
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gururu olmayan; azametsiz

@@ -2,6 +2,7 @@
 layout: term
 title: yolcu salonu
 slug: yolcu-salonu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Liman, istasyon, otogar vb. yerlerde, yolcuların giderken veya gelirken oturma, dinlenme imkânını buldukları yer

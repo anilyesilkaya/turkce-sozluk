@@ -2,6 +2,7 @@
 layout: term
 title: cinnet geçirmek
 slug: cinnet-gecirmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - delirmek, aklını kaçırmak

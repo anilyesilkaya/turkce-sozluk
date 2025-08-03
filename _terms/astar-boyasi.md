@@ -2,6 +2,7 @@
 layout: term
 title: astar boyası
 slug: astar-boyasi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Boyacılıkta asıl boyadan önce sürülen, kiri kapatmak ve sürülecek boyanın dayanıklılığını artırmak için kullanılan boya

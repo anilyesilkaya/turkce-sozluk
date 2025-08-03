@@ -2,6 +2,7 @@
 layout: term
 title: ip
 slug: ip
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► iplik

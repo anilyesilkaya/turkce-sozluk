@@ -2,6 +2,7 @@
 layout: term
 title: ava çıkmak
 slug: ava-cikmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - avlanmak için gitmek

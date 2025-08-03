@@ -2,6 +2,7 @@
 layout: term
 title: zombileşmek
 slug: zombilesmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zombi durumuna gelmek

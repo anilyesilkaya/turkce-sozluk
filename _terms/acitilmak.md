@@ -2,6 +2,7 @@
 layout: term
 title: acıtılmak
 slug: acitilmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Acıtma işine konu olmak

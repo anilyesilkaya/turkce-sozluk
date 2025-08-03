@@ -2,6 +2,7 @@
 layout: term
 title: iğrendirme
 slug: igrendirme
+letter: I
 lisan: Türkçe
 anlamlar:
 - İğrendirmek işi

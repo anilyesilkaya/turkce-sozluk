@@ -2,6 +2,7 @@
 layout: term
 title: yanmak
 slug: yanmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Birleşiminde karbon bulunan maddeler, ısı ve ışık yayarak kül durumuna geçip yok olmak

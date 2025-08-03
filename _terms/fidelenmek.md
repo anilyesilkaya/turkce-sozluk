@@ -2,6 +2,7 @@
 layout: term
 title: fidelenmek
 slug: fidelenmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fide toprağa dikilmek

@@ -2,6 +2,7 @@
 layout: term
 title: tabasbus
 slug: tabasbus
+letter: T
 lisan: Arapça tabaṣbuṣ
 anlamlar:
 - ► dalkavukluk

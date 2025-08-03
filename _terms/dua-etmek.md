@@ -2,6 +2,7 @@
 layout: term
 title: dua etmek
 slug: dua-etmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Allah'a yalvarmak

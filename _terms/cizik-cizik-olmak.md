@@ -2,6 +2,7 @@
 layout: term
 title: çizik çizik olmak
 slug: cizik-cizik-olmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - düzensiz kısa çizgiler biçiminde olmak

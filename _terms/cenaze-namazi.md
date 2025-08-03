@@ -2,6 +2,7 @@
 layout: term
 title: cenaze namazı
 slug: cenaze-namazi
+letter: C
 lisan: Türkçe
 anlamlar:
 - Gömülmeden önce musalla taşına konulmuş cenazenin önünde diğer namazlardan farklı olarak rükûya ve secdeye varmadan yalnız ayakta kılınan namaz

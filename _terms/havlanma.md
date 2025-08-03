@@ -2,6 +2,7 @@
 layout: term
 title: havlanma
 slug: havlanma
+letter: H
 lisan: Türkçe
 anlamlar:
 - Havlanmak durumu

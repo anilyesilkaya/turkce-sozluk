@@ -2,6 +2,7 @@
 layout: term
 title: ahmaklık
 slug: ahmaklik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ahmak olma durumu; hamakat

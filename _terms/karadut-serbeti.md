@@ -2,6 +2,7 @@
 layout: term
 title: karadut şerbeti
 slug: karadut-serbeti
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karadut meyvesinden yapılan bir şerbet türü

@@ -2,6 +2,7 @@
 layout: term
 title: taşıyıcı anne
 slug: tasiyici-anne
+letter: T
 lisan: Türkçe
 anlamlar:
 - Başka bir çiftin laboratuvar ortamında döllenmiş yumurtası rahmine yerleştirilip hamilelik dönemini geçiren, doğumdan sonra bebeği genetik aileye teslim eden kadın

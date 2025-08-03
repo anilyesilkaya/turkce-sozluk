@@ -2,6 +2,7 @@
 layout: term
 title: hedef göstermek
 slug: hedef-gostermek
+letter: H
 lisan: Türkçe
 anlamlar:
 - birini kötü bir durumda kalması için hedef hâline getirmek

@@ -2,6 +2,7 @@
 layout: term
 title: talim
 slug: talim
+letter: T
 lisan: Arapça taʿlīm
 anlamlar:
 - ► öğretim

@@ -2,6 +2,7 @@
 layout: term
 title: bebecik
 slug: bebecik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bebeklere sevgiyle yaklaşıldığını belirten bir söz

@@ -2,6 +2,7 @@
 layout: term
 title: despotluk
 slug: despotluk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Despot olma durumu; despotizm

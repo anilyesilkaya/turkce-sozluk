@@ -2,6 +2,7 @@
 layout: term
 title: baş başa
 slug: bas-basa
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başkaları olmadan birbirleriyle yalnız olarak

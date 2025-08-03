@@ -2,6 +2,7 @@
 layout: term
 title: oran
 slug: oran
+letter: O
 lisan: Türkçe
 anlamlar:
 - Büyüklük, nicelik, derece bakımından iki şey arasında veya parça ile bütün arasında bulunan bağıntı; nispet, rasyo

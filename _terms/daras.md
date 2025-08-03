@@ -2,6 +2,7 @@
 layout: term
 title: daraş
 slug: daras
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dar, kasvetli olan (yer)

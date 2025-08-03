@@ -2,6 +2,7 @@
 layout: term
 title: izolatör
 slug: izolator
+letter: I
 lisan: Fransızca isolateur
 anlamlar:
 - ► yalıtkan

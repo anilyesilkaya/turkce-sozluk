@@ -2,6 +2,7 @@
 layout: term
 title: bezemeli
 slug: bezemeli
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► süslü

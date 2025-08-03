@@ -2,6 +2,7 @@
 layout: term
 title: dürümlemek
 slug: durumlemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dürüm biçiminde sarmak, kıvırmak

@@ -2,6 +2,7 @@
 layout: term
 title: tabiatıyla
 slug: tabiatiyla
+letter: T
 lisan: Türkçe
 anlamlar:
 - Doğal bir biçimde, tabii olarak

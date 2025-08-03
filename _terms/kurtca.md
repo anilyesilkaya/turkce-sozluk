@@ -2,6 +2,7 @@
 layout: term
 title: kurtça
 slug: kurtca
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kurda benzer biçimde

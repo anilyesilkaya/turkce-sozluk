@@ -2,6 +2,7 @@
 layout: term
 title: cesaretlendirmek
 slug: cesaretlendirmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - Korkusunu ve çekingenliğini gidermek; cesaret vermek, cüretlendirmek

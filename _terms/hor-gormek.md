@@ -2,6 +2,7 @@
 layout: term
 title: hor görmek
 slug: hor-gormek
+letter: H
 lisan: Türkçe
 anlamlar:
 - bir kimseyi, bir hareketi küçük görmek, değersiz bulmak

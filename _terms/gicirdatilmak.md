@@ -2,6 +2,7 @@
 layout: term
 title: gıcırdatılmak
 slug: gicirdatilmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gıcırdatma işi yapılmak

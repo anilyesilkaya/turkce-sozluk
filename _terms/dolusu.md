@@ -2,6 +2,7 @@
 layout: term
 title: dolusu
 slug: dolusu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dolduracak kadar

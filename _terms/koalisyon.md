@@ -2,6 +2,7 @@
 layout: term
 title: koalisyon
 slug: koalisyon
+letter: K
 lisan: Fransızca coalition
 anlamlar:
 - Çeşitli güçlerin bir araya gelmesiyle oluşturulan birlik; ortak yönetim

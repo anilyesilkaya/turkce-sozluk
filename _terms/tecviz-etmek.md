@@ -2,6 +2,7 @@
 layout: term
 title: tecviz etmek
 slug: tecviz-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - uygun bulmak, izin vermek

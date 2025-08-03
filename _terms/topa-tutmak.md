@@ -2,6 +2,7 @@
 layout: term
 title: topa tutmak
 slug: topa-tutmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - üzerine topla ateş etmek

@@ -2,6 +2,7 @@
 layout: term
 title: eylemek
 slug: eylemek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Bir kişiden veya bir şeyden yoksun bırakmak

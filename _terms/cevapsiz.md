@@ -2,6 +2,7 @@
 layout: term
 title: cevapsız
 slug: cevapsiz
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cevabı verilmemiş; yanıtsız

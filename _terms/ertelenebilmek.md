@@ -2,6 +2,7 @@
 layout: term
 title: ertelenebilmek
 slug: ertelenebilmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ertelenme ihtimali veya imkânı bulunmak

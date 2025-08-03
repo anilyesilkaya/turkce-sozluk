@@ -2,6 +2,7 @@
 layout: term
 title: ağır yara
 slug: agir-yara
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bedendeki derin ve ciddi yara

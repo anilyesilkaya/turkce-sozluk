@@ -2,6 +2,7 @@
 layout: term
 title: beka
 slug: beka
+letter: B
 lisan: Arapça beḳā
 anlamlar:
 - ► kalıcılık

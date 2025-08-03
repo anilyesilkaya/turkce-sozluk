@@ -2,6 +2,7 @@
 layout: term
 title: yürek burkmak
 slug: yurek-burkmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - insanın içini acıyla doldurmak, insana çok üzüntü vermek

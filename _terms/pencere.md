@@ -2,6 +2,7 @@
 layout: term
 title: pencere
 slug: pencere
+letter: P
 lisan: Farsça pencere
 anlamlar:
 - Yapıları veya tren, vapur vb. ulaşım araçlarını aydınlatmak, havalandırmak amacıyla yapılan, çerçeve, cam, panjur, perde gibi eklentilerle daha kullanışlı bir duruma getirilen açıklık

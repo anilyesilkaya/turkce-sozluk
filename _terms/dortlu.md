@@ -2,6 +2,7 @@
 layout: term
 title: dörtlü
 slug: dortlu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dört parçadan oluşan, kendinde herhangi bir şeyden dört tane bulunan; murabba (I)

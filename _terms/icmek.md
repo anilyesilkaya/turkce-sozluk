@@ -2,6 +2,7 @@
 layout: term
 title: içmek
 slug: icmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bir sıvıyı ağza alıp yutmak

@@ -2,6 +2,7 @@
 layout: term
 title: kavissiz
 slug: kavissiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kavisi olmayan

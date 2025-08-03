@@ -2,6 +2,7 @@
 layout: term
 title: kolajlanmak
 slug: kolajlanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kolajlamak işi yapılmak

@@ -2,6 +2,7 @@
 layout: term
 title: komşuluk
 slug: komsuluk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Komşu olma durumu

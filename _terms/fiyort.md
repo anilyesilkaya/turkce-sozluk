@@ -2,6 +2,7 @@
 layout: term
 title: fiyort
 slug: fiyort
+letter: F
 lisan: Fransızca fjord
 anlamlar:
 - Deniz seviyesinin yükselmesi sonucunda dar ve uzun körfeze dönüşen buzul vadisi

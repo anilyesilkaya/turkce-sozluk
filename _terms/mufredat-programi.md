@@ -2,6 +2,7 @@
 layout: term
 title: müfredat programı
 slug: mufredat-programi
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► öğretim programı

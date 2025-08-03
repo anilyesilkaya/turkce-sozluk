@@ -2,6 +2,7 @@
 layout: term
 title: naat
 slug: naat
+letter: N
 lisan: Arapça naʿt
 anlamlar:
 - Bir şeyin niteliklerini övme

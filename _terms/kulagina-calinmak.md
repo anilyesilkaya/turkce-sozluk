@@ -2,6 +2,7 @@
 layout: term
 title: kulağına çalınmak
 slug: kulagina-calinmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - başkasına söylenirken kendisi de duymuş olmak

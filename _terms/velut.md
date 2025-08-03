@@ -2,6 +2,7 @@
 layout: term
 title: velut
 slug: velut
+letter: V
 lisan: Arapça velūd
 anlamlar:
 - ► doğurgan

@@ -2,6 +2,7 @@
 layout: term
 title: sporlaştırmak
 slug: sporlastirmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kıyafet vb.ni spor duruma getirmek

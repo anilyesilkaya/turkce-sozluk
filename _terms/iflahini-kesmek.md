@@ -2,6 +2,7 @@
 layout: term
 title: iflahını kesmek
 slug: iflahini-kesmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - gücünü tüketmek, bir daha düzelemeyecek bir duruma getirmek

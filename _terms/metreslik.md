@@ -2,6 +2,7 @@
 layout: term
 title: metreslik
 slug: metreslik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Metres olma durumu

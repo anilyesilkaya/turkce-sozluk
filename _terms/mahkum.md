@@ -2,6 +2,7 @@
 layout: term
 title: mahkûm
 slug: mahkum
+letter: M
 lisan: Arapça maḥkūm
 anlamlar:
 - ► hükümlü

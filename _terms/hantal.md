@@ -2,6 +2,7 @@
 layout: term
 title: hantal
 slug: hantal
+letter: H
 lisan: Türkçe
 anlamlar:
 - Kocaman, iri, kaba

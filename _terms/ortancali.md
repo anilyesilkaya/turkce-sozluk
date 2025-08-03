@@ -2,6 +2,7 @@
 layout: term
 title: ortancalı
 slug: ortancali
+letter: O
 lisan: Türkçe
 anlamlar:
 - Ortancası (II) olan

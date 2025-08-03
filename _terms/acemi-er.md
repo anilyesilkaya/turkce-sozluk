@@ -2,6 +2,7 @@
 layout: term
 title: acemi er
 slug: acemi-er
+letter: A
 lisan: Türkçe
 anlamlar:
 - Askere yeni alınan ve eğitim dönemini henüz tamamlamamış er; kuş

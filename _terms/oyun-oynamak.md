@@ -2,6 +2,7 @@
 layout: term
 title: oyun oynamak
 slug: oyun-oynamak
+letter: O
 lisan: Türkçe
 anlamlar:
 - birini aldatmak, kandırmak

@@ -2,6 +2,7 @@
 layout: term
 title: ilave
 slug: ilave
+letter: I
 lisan: Arapça ʿilāve
 anlamlar:
 - Ekleme, ulama

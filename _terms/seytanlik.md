@@ -2,6 +2,7 @@
 layout: term
 title: şeytanlık
 slug: seytanlik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şeytan olma durumu; şeytanet

@@ -2,6 +2,7 @@
 layout: term
 title: püskürme
 slug: puskurme
+letter: P
 lisan: Türkçe
 anlamlar:
 - Püskürmek işi

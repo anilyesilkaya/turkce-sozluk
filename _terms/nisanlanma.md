@@ -2,6 +2,7 @@
 layout: term
 title: nişanlanma
 slug: nisanlanma
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nişanlanmak işi; adaklanma, yavuklanma

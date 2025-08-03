@@ -2,6 +2,7 @@
 layout: term
 title: dinim hakkı için (veya aşkına)
 slug: dinim-hakki-icin-veya-askina
+letter: D
 lisan: Türkçe
 anlamlar:
 - '"dinimi tanık tutarım" anlamında kullanılan bir ant sözü'

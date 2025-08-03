@@ -2,6 +2,7 @@
 layout: term
 title: ekolojist
 slug: ekolojist
+letter: E
 lisan: Fransızca écologiste
 anlamlar:
 - Ekolojizmi savunan kimse

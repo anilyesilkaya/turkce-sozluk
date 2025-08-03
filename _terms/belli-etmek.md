@@ -2,6 +2,7 @@
 layout: term
 title: belli etmek
 slug: belli-etmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - açıklamak, iyice görünür ve anlaşılır bir duruma getirmek

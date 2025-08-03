@@ -2,6 +2,7 @@
 layout: term
 title: çıralık
 slug: ciralik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıra olarak kullanılmaya elverişli (ağaç, tahta)

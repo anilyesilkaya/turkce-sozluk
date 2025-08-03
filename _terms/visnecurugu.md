@@ -2,6 +2,7 @@
 layout: term
 title: vişneçürüğü
 slug: visnecurugu
+letter: V
 lisan: Türkçe
 anlamlar:
 - Çürük vişne rengi

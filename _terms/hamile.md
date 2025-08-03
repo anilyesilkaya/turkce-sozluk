@@ -2,6 +2,7 @@
 layout: term
 title: hamile
 slug: hamile
+letter: H
 lisan: Arapça ḥāmile
 anlamlar:
 - ► gebe

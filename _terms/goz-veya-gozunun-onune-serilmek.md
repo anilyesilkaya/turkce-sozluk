@@ -2,6 +2,7 @@
 layout: term
 title: göz (veya gözünün) önüne serilmek
 slug: goz-veya-gozunun-onune-serilmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - görülmek, bütün çıplaklığıyla ortaya çıkmak

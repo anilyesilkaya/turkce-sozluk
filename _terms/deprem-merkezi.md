@@ -2,6 +2,7 @@
 layout: term
 title: deprem merkezi
 slug: deprem-merkezi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Depremde kırılmaların başladığı ve birikmiş enerjinin çevreye yayıldığı nokta; deprem ocağı, deprem odağı, hiposantır

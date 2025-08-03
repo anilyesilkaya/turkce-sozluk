@@ -2,6 +2,7 @@
 layout: term
 title: dilemek
 slug: dilemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Birinden bir şeyin yapılmasını istemek; rica etmek

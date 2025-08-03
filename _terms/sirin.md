@@ -2,6 +2,7 @@
 layout: term
 title: şirin
 slug: sirin
+letter: Ş
 lisan: Farsça şīrīn
 anlamlar:
 - ► sevimli

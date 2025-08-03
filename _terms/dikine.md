@@ -2,6 +2,7 @@
 layout: term
 title: dikine
 slug: dikine
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dikey olarak; diklemesine

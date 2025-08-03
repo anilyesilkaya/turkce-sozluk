@@ -2,6 +2,7 @@
 layout: term
 title: sınırlarını (veya sınırını) zorlamak
 slug: sinirlarini-veya-sinirini-zorlamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - en son noktaya kadar çaba göstermek

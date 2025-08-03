@@ -2,6 +2,7 @@
 layout: term
 title: dondurma
 slug: dondurma
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dondurmak işi; buydurma

@@ -2,6 +2,7 @@
 layout: term
 title: Türk
 slug: turk
+letter: T
 lisan: Türkçe
 anlamlar:
 - Dünyanın çeşitli bölgelerinde yaşayan, Türkçenin değişik lehçelerini konuşan soy ve bu soydan olan kimse

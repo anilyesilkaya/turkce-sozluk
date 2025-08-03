@@ -2,6 +2,7 @@
 layout: term
 title: derin
 slug: derin
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dibi yüzeyinden veya ağzından uzak olan

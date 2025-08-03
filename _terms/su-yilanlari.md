@@ -2,6 +2,7 @@
 layout: term
 title: su yılanları
 slug: su-yilanlari
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sürüngenler sınıfının bazı zehirli ve zehirsiz yılanları kapsayan geniş bir bölümü

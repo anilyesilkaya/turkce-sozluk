@@ -2,6 +2,7 @@
 layout: term
 title: 'öz bakım gücü '
 slug: oz-bakim-gucu
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Bireyin yaşamını iyi ve sağlıklı durumda sürdürebilme yeteneği

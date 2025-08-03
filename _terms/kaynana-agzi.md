@@ -2,6 +2,7 @@
 layout: term
 title: kaynana ağzı
 slug: kaynana-agzi
+letter: K
 lisan: Türkçe
 anlamlar:
 - İleri geri veya yersiz konuşma, gereksiz dedikodu yapma

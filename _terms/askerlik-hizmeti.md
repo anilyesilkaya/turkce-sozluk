@@ -2,6 +2,7 @@
 layout: term
 title: askerlik hizmeti
 slug: askerlik-hizmeti
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► askerlik

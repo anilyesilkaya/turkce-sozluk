@@ -2,6 +2,7 @@
 layout: term
 title: devşirebilmek
 slug: devsirebilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Devşirme ihtimali veya imkânı bulunmak

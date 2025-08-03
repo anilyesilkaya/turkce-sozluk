@@ -2,6 +2,7 @@
 layout: term
 title: hece vezni
 slug: hece-vezni
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► hece ölçüsü

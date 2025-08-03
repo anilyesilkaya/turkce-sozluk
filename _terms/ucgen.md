@@ -2,6 +2,7 @@
 layout: term
 title: üçgen
 slug: ucgen
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Aynı doğrultuda bulunmayan üç noktanın ikişer ikişer birleştirilmesi ile meydana gelen, üç kenarlı ve üç açılı kapalı yüzey; müselles

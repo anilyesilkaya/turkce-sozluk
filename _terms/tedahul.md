@@ -2,6 +2,7 @@
 layout: term
 title: tedahül
 slug: tedahul
+letter: T
 lisan: Arapça tedāḫul
 anlamlar:
 - Birbirinin içine girme

@@ -2,6 +2,7 @@
 layout: term
 title: pullu
 slug: pullu
+letter: P
 lisan: Türkçe
 anlamlar:
 - Üzerine pul yapıştırılmış

@@ -2,6 +2,7 @@
 layout: term
 title: dudak (veya dudağını) bükmek
 slug: dudak-veya-dudagini-bukmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - bir şeyi beğenmediğini, küçümsediğini belli etmek, umursamamak, pek aldırış etmemek

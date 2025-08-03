@@ -2,6 +2,7 @@
 layout: term
 title: eşlikçi
 slug: eslikci
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eşlik eden

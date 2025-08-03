@@ -2,6 +2,7 @@
 layout: term
 title: bozgun
 slug: bozgun
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir toplulukta karşılıklı güvenin bozulması ile beliren karışıklık; bozgunluk

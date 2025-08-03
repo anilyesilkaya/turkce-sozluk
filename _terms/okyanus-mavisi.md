@@ -2,6 +2,7 @@
 layout: term
 title: okyanus mavisi
 slug: okyanus-mavisi
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► koyu mavi

@@ -2,6 +2,7 @@
 layout: term
 title: sedef kakmalı
 slug: sedef-kakmali
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sedef kakması olan

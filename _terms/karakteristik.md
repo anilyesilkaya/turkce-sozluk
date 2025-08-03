@@ -2,6 +2,7 @@
 layout: term
 title: karakteristik
 slug: karakteristik
+letter: K
 lisan: Fransızca caractéristique
 anlamlar:
 - Bir kimse veya nesneye özgü olan (ayırıcı nitelik); tipik

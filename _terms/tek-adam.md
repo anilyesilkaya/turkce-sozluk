@@ -2,6 +2,7 @@
 layout: term
 title: tek adam
 slug: tek-adam
+letter: T
 lisan: Türkçe
 anlamlar:
 - Teklik özelliğini gösteren kimse

@@ -2,6 +2,7 @@
 layout: term
 title: sucuk
 slug: sucuk
+letter: S
 lisan: Türkçe
 anlamlar:
 - Şişirilip kurutulmuş bağırsak içine baharatlı kıyma doldurularak yapılan bir yiyecek türü

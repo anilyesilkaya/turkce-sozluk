@@ -2,6 +2,7 @@
 layout: term
 title: tavşan atlet
 slug: tavsan-atlet
+letter: T
 lisan: Türkçe
 anlamlar:
 - Atletizm yarışlarında rekor kırılabilmesi için tempoyu yüksek tutup belirli bir mesafeyi diğer atletlerin önünde koştuktan sonra pistten çıkan atlet; tavşan

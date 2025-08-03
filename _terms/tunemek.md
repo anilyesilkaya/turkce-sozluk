@@ -2,6 +2,7 @@
 layout: term
 title: tünemek
 slug: tunemek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Kuşlar ve kümes hayvanları uyumak için bir dala veya sırığa konmak; tüneklemek

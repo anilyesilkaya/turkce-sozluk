@@ -2,6 +2,7 @@
 layout: term
 title: badısaba
 slug: badisaba
+letter: B
 lisan: Farsça bād + Arapça ṣabā
 anlamlar:
 - Serin ve tatlı esen bahar rüzgârı

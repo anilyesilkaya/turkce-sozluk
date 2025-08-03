@@ -2,6 +2,7 @@
 layout: term
 title: muhteviyat
 slug: muhteviyat
+letter: M
 lisan: Arapça muḥteveyāt
 anlamlar:
 - İçerikler

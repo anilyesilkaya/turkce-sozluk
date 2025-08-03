@@ -2,6 +2,7 @@
 layout: term
 title: görüşebilmek
 slug: gorusebilmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Görüşme imkânı veya ihtimali bulunmak

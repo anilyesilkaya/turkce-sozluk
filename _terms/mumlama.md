@@ -2,6 +2,7 @@
 layout: term
 title: mumlama
 slug: mumlama
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mumlamak işi

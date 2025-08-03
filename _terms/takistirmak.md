@@ -2,6 +2,7 @@
 layout: term
 title: takıştırmak
 slug: takistirmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Küpe, bilezik, yüzük vb. süs eşyasını çokça takmak

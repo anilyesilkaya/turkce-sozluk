@@ -2,6 +2,7 @@
 layout: term
 title: püsürüklük
 slug: pusurukluk
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► pısırıklık

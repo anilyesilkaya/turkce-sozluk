@@ -2,6 +2,7 @@
 layout: term
 title: nazire
 slug: nazire
+letter: N
 lisan: Arapça naẓīre
 anlamlar:
 - Karşılık olarak, benzetilerek yapılan davranış, söz

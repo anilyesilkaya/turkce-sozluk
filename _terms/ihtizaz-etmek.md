@@ -2,6 +2,7 @@
 layout: term
 title: ihtizaz etmek
 slug: ihtizaz-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - titreşmek

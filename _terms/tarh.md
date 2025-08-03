@@ -2,6 +2,7 @@
 layout: term
 title: tarh
 slug: tarh
+letter: T
 lisan: Arapça ṭarḥ
 anlamlar:
 - Bahçelerde çiçek dikmeye ayrılmış yer

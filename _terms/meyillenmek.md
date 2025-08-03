@@ -2,6 +2,7 @@
 layout: term
 title: 'meyillenmek '
 slug: meyillenmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► meyletmek

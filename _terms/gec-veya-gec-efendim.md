@@ -2,6 +2,7 @@
 layout: term
 title: geç! (veya geç efendim!)
 slug: gec-veya-gec-efendim
+letter: G
 lisan: Türkçe
 anlamlar:
 - '"kulak asma, önem verme!" anlamında kullanılan bir söz'

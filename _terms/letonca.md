@@ -2,6 +2,7 @@
 layout: term
 title: Letonca
 slug: letonca
+letter: L
 lisan: Türkçe
 anlamlar:
 - Letonyalılar tarafından kullanılan dil; Letçe

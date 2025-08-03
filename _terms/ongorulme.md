@@ -2,6 +2,7 @@
 layout: term
 title: öngörülme
 slug: ongorulme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öngörülmek işi

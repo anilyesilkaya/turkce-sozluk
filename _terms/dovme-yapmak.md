@@ -2,6 +2,7 @@
 layout: term
 title: dövme yapmak
 slug: dovme-yapmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - vücuda dövme işlemek

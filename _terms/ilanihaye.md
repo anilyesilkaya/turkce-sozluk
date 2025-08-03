@@ -2,6 +2,7 @@
 layout: term
 title: ilanihaye
 slug: ilanihaye
+letter: I
 lisan: Arapça ilānihāye
 anlamlar:
 - Sonsuza kadar

@@ -2,6 +2,7 @@
 layout: term
 title: oturak
 slug: oturak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oturulacak yer veya şey

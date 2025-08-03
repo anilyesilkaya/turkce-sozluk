@@ -2,6 +2,7 @@
 layout: term
 title: sancımak
 slug: sancimak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sancı vermek; burmak, burulmak

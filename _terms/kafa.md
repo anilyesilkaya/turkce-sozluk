@@ -2,6 +2,7 @@
 layout: term
 title: kafa
 slug: kafa
+letter: K
 lisan: Arapça ḳafā
 anlamlar:
 - ► baş

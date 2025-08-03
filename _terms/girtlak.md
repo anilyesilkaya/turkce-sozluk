@@ -2,6 +2,7 @@
 layout: term
 title: gırtlak
 slug: girtlak
+letter: G
 lisan: Türkçe
 anlamlar:
 - Soluk borusunun üst bölümü; ümük, imik, hançere

@@ -2,6 +2,7 @@
 layout: term
 title: kara liste
 slug: kara-liste
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sakıncalı sayılan veya cezalandırılması düşünülen kimse, grup, ülke vb.nin listesi

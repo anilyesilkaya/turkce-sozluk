@@ -2,6 +2,7 @@
 layout: term
 title: portör
 slug: portor
+letter: P
 lisan: Fransızca porteur
 anlamlar:
 - ► taşıyıcı

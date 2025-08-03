@@ -2,6 +2,7 @@
 layout: term
 title: huri
 slug: huri
+letter: H
 lisan: Arapça ḥūrī
 anlamlar:
 - Cennette yaşadığına inanılan dişi varlık

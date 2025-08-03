@@ -2,6 +2,7 @@
 layout: term
 title: hazcılık
 slug: hazcilik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Zevki, insan hayatının tek değer ve amacı sayan, haz veren her şeyin iyi olduğunu kabul eden öğreti; hedonizm

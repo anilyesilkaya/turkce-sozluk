@@ -2,6 +2,7 @@
 layout: term
 title: fincan
 slug: fincan
+letter: F
 lisan: Arapça fincān
 anlamlar:
 - Çay, kahve vb. sıcak şeyler içmekte kullanılan, genellikle kulplu, porselen veya camdan yapılmış küçük kap

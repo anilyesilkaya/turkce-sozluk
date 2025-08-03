@@ -2,6 +2,7 @@
 layout: term
 title: korumak
 slug: korumak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir kimseyi veya bir şeyi dış etkilerden, tehlikeden, zor bir durumdan uzak tutmak; muhafaza etmek, vikaye etmek, sıyanet etmek

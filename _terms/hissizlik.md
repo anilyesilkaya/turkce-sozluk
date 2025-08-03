@@ -2,6 +2,7 @@
 layout: term
 title: hissizlik
 slug: hissizlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► duygusuzluk

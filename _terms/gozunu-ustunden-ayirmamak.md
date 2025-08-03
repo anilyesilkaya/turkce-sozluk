@@ -2,6 +2,7 @@
 layout: term
 title: gözünü üstünden ayırmamak
 slug: gozunu-ustunden-ayirmamak
+letter: G
 lisan: Türkçe
 anlamlar:
 - sürekli denetim altında bulundurmak

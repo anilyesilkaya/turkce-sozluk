@@ -2,6 +2,7 @@
 layout: term
 title: ince ünlü
 slug: ince-unlu
+letter: I
 lisan: Türkçe
 anlamlar:
 - 'Dilin ön damağa doğru kabarmasıyla oluşan ünlü; ön ünlü: e, i, ö, ü'

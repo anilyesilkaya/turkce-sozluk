@@ -2,6 +2,7 @@
 layout: term
 title: güzel duyusal
 slug: guzel-duyusal
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► estetik

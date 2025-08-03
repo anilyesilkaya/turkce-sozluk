@@ -2,6 +2,7 @@
 layout: term
 title: çimleme
 slug: cimleme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çimlemek işi

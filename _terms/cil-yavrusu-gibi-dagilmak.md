@@ -2,6 +2,7 @@
 layout: term
 title: çil yavrusu gibi dağılmak
 slug: cil-yavrusu-gibi-dagilmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - toplu olarak bulunan insanların her biri bir yana dağılmak

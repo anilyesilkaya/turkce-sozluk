@@ -2,6 +2,7 @@
 layout: term
 title: tiksinti
 slug: tiksinti
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tiksinme işi, tiksinme; ikrahlık

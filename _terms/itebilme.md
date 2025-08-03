@@ -2,6 +2,7 @@
 layout: term
 title: itebilme
 slug: itebilme
+letter: I
 lisan: Türkçe
 anlamlar:
 - İtebilmek işi

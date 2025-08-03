@@ -2,6 +2,7 @@
 layout: term
 title: mihman
 slug: mihman
+letter: M
 lisan: Farsça mihmān
 anlamlar:
 - ► konuk

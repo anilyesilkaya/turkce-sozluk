@@ -2,6 +2,7 @@
 layout: term
 title: damla
 slug: damla
+letter: D
 lisan: Türkçe
 anlamlar:
 - Yuvarlak biçimde, çok küçük miktarda sıvı; katre

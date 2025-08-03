@@ -2,6 +2,7 @@
 layout: term
 title: başyıldız
 slug: basyildiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çift yıldızlarda kütlesi büyük olan yıldız

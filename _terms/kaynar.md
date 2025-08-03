@@ -2,6 +2,7 @@
 layout: term
 title: kaynar
 slug: kaynar
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaynamakta olan

@@ -2,6 +2,7 @@
 layout: term
 title: çok görmek
 slug: cok-gormek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - yadırgamak

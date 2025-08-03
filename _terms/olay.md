@@ -2,6 +2,7 @@
 layout: term
 title: olay
 slug: olay
+letter: O
 lisan: Türkçe
 anlamlar:
 - Ortaya çıkan, oluşan durum, ilgi çeken veya çekebilecek nitelikte olan her türlü iş; hadise, vaka

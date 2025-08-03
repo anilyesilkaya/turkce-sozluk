@@ -2,6 +2,7 @@
 layout: term
 title: sportmen
 slug: sportmen
+letter: S
 lisan: Fransızca sportsman
 anlamlar:
 - ► sporcu

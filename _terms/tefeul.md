@@ -2,6 +2,7 @@
 layout: term
 title: tefeül
 slug: tefeul
+letter: T
 lisan: Arapça tefeʾul
 anlamlar:
 - Fal açma, fala bakma

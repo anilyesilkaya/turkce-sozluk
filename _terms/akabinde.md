@@ -2,6 +2,7 @@
 layout: term
 title: akabinde
 slug: akabinde
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arkasından, hemen arkadan, ardından, hemen ardından

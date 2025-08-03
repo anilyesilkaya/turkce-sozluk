@@ -2,6 +2,7 @@
 layout: term
 title: çıkış yeri
 slug: cikis-yeri
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir yerden çıkmak için kullanılan nokta; çıkım

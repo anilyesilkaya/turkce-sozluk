@@ -2,6 +2,7 @@
 layout: term
 title: site
 slug: site
+letter: S
 lisan: Fransızca cité
 anlamlar:
 - ► şehir

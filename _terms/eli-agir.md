@@ -2,6 +2,7 @@
 layout: term
 title: eli ağır
 slug: eli-agir
+letter: E
 lisan: Türkçe
 anlamlar:
 - Yavaş iş gören; ağırelli

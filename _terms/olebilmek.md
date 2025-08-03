@@ -2,6 +2,7 @@
 layout: term
 title: ölebilmek
 slug: olebilmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ölme ihtimali bulunmak

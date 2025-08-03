@@ -2,6 +2,7 @@
 layout: term
 title: yırtılmak
 slug: yirtilmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yırtma işi yapılmak veya yırtma işine konu olmak

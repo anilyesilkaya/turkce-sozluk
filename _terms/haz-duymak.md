@@ -2,6 +2,7 @@
 layout: term
 title: haz duymak
 slug: haz-duymak
+letter: H
 lisan: Türkçe
 anlamlar:
 - hoşlanmak

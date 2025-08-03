@@ -2,6 +2,7 @@
 layout: term
 title: diriltebilme
 slug: diriltebilme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Diriltebilmek işi

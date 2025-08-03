@@ -2,6 +2,7 @@
 layout: term
 title: izlenim (veya izlemini) bırakmak (veya vermek)
 slug: izlenim-veya-izlemini-birakmak-veya-vermek
+letter: I
 lisan: Türkçe
 anlamlar:
 - etki bırakmak

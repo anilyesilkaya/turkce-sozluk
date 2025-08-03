@@ -2,6 +2,7 @@
 layout: term
 title: tutuklanma
 slug: tutuklanma
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tutuklanmak işi

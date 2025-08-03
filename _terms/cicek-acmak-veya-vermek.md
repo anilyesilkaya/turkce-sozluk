@@ -2,6 +2,7 @@
 layout: term
 title: çiçek açmak (veya vermek)
 slug: cicek-acmak-veya-vermek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - çiçeklenmek

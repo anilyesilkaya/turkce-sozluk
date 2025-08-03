@@ -2,6 +2,7 @@
 layout: term
 title: fiyatlı
 slug: fiyatli
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fiyatı olan

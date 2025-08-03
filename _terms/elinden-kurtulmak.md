@@ -2,6 +2,7 @@
 layout: term
 title: elinden kurtulmak
 slug: elinden-kurtulmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - birinden kaçmayı başarmak

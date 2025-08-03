@@ -2,6 +2,7 @@
 layout: term
 title: lam cim dememek
 slug: lam-cim-dememek
+letter: L
 lisan: Türkçe
 anlamlar:
 - bahane kabul etmemek

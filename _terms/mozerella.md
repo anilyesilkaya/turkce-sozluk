@@ -2,6 +2,7 @@
 layout: term
 title: mozerella
 slug: mozerella
+letter: M
 lisan: İtalyanca mozzarella
 anlamlar:
 - İnek sütünden yapılan, küçük, yağlı, yuvarlak biçimde kızartılarak da yenilen bir peynir türü

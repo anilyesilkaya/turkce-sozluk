@@ -2,6 +2,7 @@
 layout: term
 title: tundra
 slug: tundra
+letter: T
 lisan: Fransızca toundra
 anlamlar:
 - Kutuplara yakın bölgelerin bitki örtüsü

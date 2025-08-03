@@ -2,6 +2,7 @@
 layout: term
 title: levhacı
 slug: levhaci
+letter: L
 lisan: Türkçe
 anlamlar:
 - Levha yapan veya satan kimse

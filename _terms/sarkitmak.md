@@ -2,6 +2,7 @@
 layout: term
 title: sarkıtmak
 slug: sarkitmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir şeyin sarkmasını sağlamak; bırakmak, salmak

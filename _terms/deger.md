@@ -2,6 +2,7 @@
 layout: term
 title: değer
 slug: deger
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir şeyin önemini belirlemeye yarayan soyut ölçü, bir şeyin değdiği karşılık; fehamet, kadir (I), kıymet

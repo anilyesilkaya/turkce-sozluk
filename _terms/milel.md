@@ -2,6 +2,7 @@
 layout: term
 title: milel
 slug: milel
+letter: M
 lisan: Arapça milel
 anlamlar:
 - Milletler

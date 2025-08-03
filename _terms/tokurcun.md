@@ -2,6 +2,7 @@
 layout: term
 title: tokurcun
 slug: tokurcun
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► dokurcun

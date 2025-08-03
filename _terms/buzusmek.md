@@ -2,6 +2,7 @@
 layout: term
 title: büzüşmek
 slug: buzusmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Büzülerek alan hacmini küçültmek

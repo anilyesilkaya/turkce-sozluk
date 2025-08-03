@@ -2,6 +2,7 @@
 layout: term
 title: köçek
 slug: kocek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kadın kılığına giren, müzik eşliğinde parmak zilleriyle oynamayı kendine meslek edinen erkek

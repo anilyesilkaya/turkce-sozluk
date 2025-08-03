@@ -2,6 +2,7 @@
 layout: term
 title: aposteriori
 slug: aposteriori
+letter: A
 lisan: Fransızca a posteriori
 anlamlar:
 - ► sonsal

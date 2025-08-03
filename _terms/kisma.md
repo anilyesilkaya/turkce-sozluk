@@ -2,6 +2,7 @@
 layout: term
 title: kısma
 slug: kisma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kısmak işi

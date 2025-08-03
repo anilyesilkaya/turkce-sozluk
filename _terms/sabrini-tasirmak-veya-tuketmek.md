@@ -2,6 +2,7 @@
 layout: term
 title: sabrını taşırmak (veya tüketmek)
 slug: sabrini-tasirmak-veya-tuketmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - karşısındakini artık katlanamaz, dayanamaz duruma getirmek

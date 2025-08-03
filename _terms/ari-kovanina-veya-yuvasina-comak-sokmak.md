@@ -2,6 +2,7 @@
 layout: term
 title: arı kovanına (veya yuvasına) çomak sokmak
 slug: ari-kovanina-veya-yuvasina-comak-sokmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - tehlikeli kişiyi kışkırtmak

@@ -2,6 +2,7 @@
 layout: term
 title: yarılıvermek
 slug: yarilivermek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Ansızın yarılmak

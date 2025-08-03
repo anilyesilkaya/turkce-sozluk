@@ -2,6 +2,7 @@
 layout: term
 title: iş çıkarmak
 slug: is-cikarmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - çok iş yapmak

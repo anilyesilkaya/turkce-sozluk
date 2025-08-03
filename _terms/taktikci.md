@@ -2,6 +2,7 @@
 layout: term
 title: taktikçi
 slug: taktikci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taktik uygulamasında becerikli olan kimse

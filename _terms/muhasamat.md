@@ -2,6 +2,7 @@
 layout: term
 title: muhasamat
 slug: muhasamat
+letter: M
 lisan: Arapça muḫāṣamāt
 anlamlar:
 - ► düşmanlık

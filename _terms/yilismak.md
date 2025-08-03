@@ -2,6 +2,7 @@
 layout: term
 title: yılışmak
 slug: yilismak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yapmacık davranışlarla hoş görünmeye çalışmak

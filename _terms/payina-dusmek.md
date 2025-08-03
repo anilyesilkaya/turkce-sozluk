@@ -2,6 +2,7 @@
 layout: term
 title: payına düşmek
 slug: payina-dusmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - bölüşmede hisse ayrılmak, belirli bir bölüm verilmek

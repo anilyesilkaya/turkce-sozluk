@@ -2,6 +2,7 @@
 layout: term
 title: semizlemek
 slug: semizlemek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Semiz duruma gelmek; semirmek

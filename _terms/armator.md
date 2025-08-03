@@ -2,6 +2,7 @@
 layout: term
 title: armatör
 slug: armator
+letter: A
 lisan: Fransızca armateur
 anlamlar:
 - Ticaret gemisi sahibi; donatan

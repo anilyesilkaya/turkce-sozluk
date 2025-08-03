@@ -2,6 +2,7 @@
 layout: term
 title: korakor
 slug: korakor
+letter: K
 lisan: Fransızca corps à corps
 anlamlar:
 - Bütün gücünü kullanarak

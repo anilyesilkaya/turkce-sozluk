@@ -2,6 +2,7 @@
 layout: term
 title: gür
 slug: gur
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bol ve güçlü olarak çıkan veya fışkıran

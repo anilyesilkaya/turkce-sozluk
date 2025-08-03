@@ -2,6 +2,7 @@
 layout: term
 title: sihirkâr
 slug: sihirkar
+letter: S
 lisan: Arapça siḥr + Farsça -kār
 anlamlar:
 - ► büyülü

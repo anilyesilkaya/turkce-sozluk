@@ -2,6 +2,7 @@
 layout: term
 title: küçükle küçük, büyükle büyük olmak
 slug: kucukle-kucuk-buyukle-buyuk-olmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - her yaştaki kişilere karşı dostça, arkadaşça davranmak

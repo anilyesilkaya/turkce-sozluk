@@ -2,6 +2,7 @@
 layout: term
 title: imrenti
 slug: imrenti
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► imrenme

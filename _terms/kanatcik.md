@@ -2,6 +2,7 @@
 layout: term
 title: kanatçık
 slug: kanatcik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Küçük kanat

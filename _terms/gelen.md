@@ -2,6 +2,7 @@
 layout: term
 title: gelen
 slug: gelen
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gelme işini yapan (kimse veya nesne)

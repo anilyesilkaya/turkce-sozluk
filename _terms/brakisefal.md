@@ -2,6 +2,7 @@
 layout: term
 title: brakisefal
 slug: brakisefal
+letter: B
 lisan: Fransızca brachycéphale
 anlamlar:
 - Kafatasının genişliği ile uzunluğu hemen hemen eşit olan (kimse); kısa kafalı

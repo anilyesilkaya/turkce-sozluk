@@ -2,6 +2,7 @@
 layout: term
 title: bıyık bırakmak
 slug: biyik-birakmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - bıyık uzatmak

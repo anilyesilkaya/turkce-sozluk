@@ -2,6 +2,7 @@
 layout: term
 title: kayıtsızlık
 slug: kayitsizlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► ilgisizlik

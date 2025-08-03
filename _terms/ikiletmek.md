@@ -2,6 +2,7 @@
 layout: term
 title: ikiletmek
 slug: ikiletmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İkilemesine yol açmak

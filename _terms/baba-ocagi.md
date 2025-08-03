@@ -2,6 +2,7 @@
 layout: term
 title: baba ocağı
 slug: baba-ocagi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Babadan, dededen kalma mülk veya bir kimsenin içinde doğup büyüdüğü, yaşadığı ev, toprak, yurt; babaevi, baba bucağı, baba yurdu

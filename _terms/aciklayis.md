@@ -2,6 +2,7 @@
 layout: term
 title: açıklayış
 slug: aciklayis
+letter: A
 lisan: Türkçe
 anlamlar:
 - Açıklamak işi

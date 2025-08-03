@@ -2,6 +2,7 @@
 layout: term
 title: kaza kırım ekibi
 slug: kaza-kirim-ekibi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Uçak, helikopter vb. kazalarının nedenini, nasıl geliştiğini, ortaya çıkan hasarı karakutular incelenmeden önce ayrıntılı bir biçimde araştıran, bağımsız kurul; kaza kırım heyeti

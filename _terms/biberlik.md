@@ -2,6 +2,7 @@
 layout: term
 title: biberlik
 slug: biberlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Biber konulan küçük kap

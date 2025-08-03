@@ -2,6 +2,7 @@
 layout: term
 title: düzine
 slug: duzine
+letter: D
 lisan: İtalyanca dozzina
 anlamlar:
 - Aynı cinsten on iki parçanın oluşturduğu takım

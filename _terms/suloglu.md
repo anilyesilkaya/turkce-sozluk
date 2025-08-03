@@ -2,6 +2,7 @@
 layout: term
 title: Süloğlu
 slug: suloglu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Edirne iline bağlı ilçelerden biri

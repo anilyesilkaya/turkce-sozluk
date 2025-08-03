@@ -2,6 +2,7 @@
 layout: term
 title: karımak
 slug: karimak
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► yaşlanmak

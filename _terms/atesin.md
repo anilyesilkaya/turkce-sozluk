@@ -2,6 +2,7 @@
 layout: term
 title: ateşin
 slug: atesin
+letter: A
 lisan: Farsça āteşīn
 anlamlar:
 - Ateş renginde olan

@@ -2,6 +2,7 @@
 layout: term
 title: yanlış
 slug: yanlis
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir kurala, bir ilkeye, bir gerçeğe uymama durumu; hata

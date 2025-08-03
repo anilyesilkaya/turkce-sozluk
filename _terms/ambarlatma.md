@@ -2,6 +2,7 @@
 layout: term
 title: ambarlatma
 slug: ambarlatma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ambarlatmak işi

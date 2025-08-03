@@ -2,6 +2,7 @@
 layout: term
 title: tavsiye
 slug: tavsiye
+letter: T
 lisan: Arapça tavṣiye
 anlamlar:
 - Öğütleme, öğüt verme, yol gösterme

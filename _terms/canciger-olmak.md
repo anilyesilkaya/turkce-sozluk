@@ -2,6 +2,7 @@
 layout: term
 title: canciğer olmak
 slug: canciger-olmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - birbiriyle çok yakın arkadaş olmak

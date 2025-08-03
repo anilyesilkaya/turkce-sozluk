@@ -2,6 +2,7 @@
 layout: term
 title: esef olunmak
 slug: esef-olunmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - üzüntü duyulmak

@@ -2,6 +2,7 @@
 layout: term
 title: 'perde beton '
 slug: perde-beton
+letter: P
 lisan: Türkçe
 anlamlar:
 - Binanın subasman hizasındaki duvarlarının deprem, sel vb. afetlere karşı sağlam olması için kullanılan sıkıştırılmış beton

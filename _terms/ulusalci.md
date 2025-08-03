@@ -2,6 +2,7 @@
 layout: term
 title: ulusalcı
 slug: ulusalci
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► milliyetçi

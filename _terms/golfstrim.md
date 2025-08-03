@@ -2,6 +2,7 @@
 layout: term
 title: golfstrim
 slug: golfstrim
+letter: G
 lisan: İngilizce Gulf Stream
 anlamlar:
 - Atlas Okyanusu’nda Ekvatoral bölgeden başlayarak Avrupa kıyılarına kadar uzanan ve Batı Avrupa’nın iklimini yumuşatan sıcak su akıntısı

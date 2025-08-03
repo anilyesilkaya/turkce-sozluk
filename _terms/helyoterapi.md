@@ -2,6 +2,7 @@
 layout: term
 title: helyoterapi
 slug: helyoterapi
+letter: H
 lisan: Fransızca héliothérapie
 anlamlar:
 - Güneş ışınlarıyla tedavi

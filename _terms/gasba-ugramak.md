@@ -2,6 +2,7 @@
 layout: term
 title: gasba uğramak
 slug: gasba-ugramak
+letter: G
 lisan: Türkçe
 anlamlar:
 - sahibinin izni ve haberi olmadan malı zorla alınmak; gasbedilmek

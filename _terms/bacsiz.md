@@ -2,6 +2,7 @@
 layout: term
 title: baçsız
 slug: bacsiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Baç ödenmeyen

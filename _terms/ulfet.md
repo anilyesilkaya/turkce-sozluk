@@ -2,6 +2,7 @@
 layout: term
 title: ülfet
 slug: ulfet
+letter: Ü
 lisan: Arapça ulfet
 anlamlar:
 - ► alışma

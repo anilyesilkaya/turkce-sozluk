@@ -2,6 +2,7 @@
 layout: term
 title: şekerci
 slug: sekerci
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şeker ve şekerleme yapan veya satan kimse

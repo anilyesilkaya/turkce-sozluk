@@ -2,6 +2,7 @@
 layout: term
 title: katkısız
 slug: katkisiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Üzerine veya içine hiçbir şey katılmamış; sağ (II)

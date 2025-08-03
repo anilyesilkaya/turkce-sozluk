@@ -2,6 +2,7 @@
 layout: term
 title: çıkarma gemisi
 slug: cikarma-gemisi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıkarma yapılacak kıyıya asker, araç ve cephane taşımaya yarayan, altı düz küçük deniz aracı

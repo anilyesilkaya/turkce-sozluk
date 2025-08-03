@@ -2,6 +2,7 @@
 layout: term
 title: çıkmaza sokmak
 slug: cikmaza-sokmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - bir işi, bir durumu çözümlenemez, güç bir duruma getirmek

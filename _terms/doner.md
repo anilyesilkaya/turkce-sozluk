@@ -2,6 +2,7 @@
 layout: term
 title: döner
 slug: doner
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dönmekte olan, dönen, dönecek biçimde düzenlenen

@@ -2,6 +2,7 @@
 layout: term
 title: af dilemek
 slug: af-dilemek
+letter: A
 lisan: Türkçe
 anlamlar:
 - işlenen hata veya suç için bağışlanmayı istemek

@@ -2,6 +2,7 @@
 layout: term
 title: böbürlenmek
 slug: boburlenmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Övünerek kabarmak, üstünlük taslamak

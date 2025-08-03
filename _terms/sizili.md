@@ -2,6 +2,7 @@
 layout: term
 title: sızılı
 slug: sizili
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sızısı olan

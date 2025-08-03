@@ -2,6 +2,7 @@
 layout: term
 title: uçkuruna gevşek (veya düşkün) olmak
 slug: uckuruna-gevsek-veya-duskun-olmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - cinsel isteklerin tutkunu olmak

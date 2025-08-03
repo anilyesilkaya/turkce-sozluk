@@ -2,6 +2,7 @@
 layout: term
 title: kasti
 slug: kasti
+letter: K
 lisan: Arapça ḳaṣdī
 anlamlar:
 - Bilerek, isteyerek yapılan

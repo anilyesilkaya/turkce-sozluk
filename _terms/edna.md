@@ -2,6 +2,7 @@
 layout: term
 title: edna
 slug: edna
+letter: E
 lisan: Arapça ednā
 anlamlar:
 - Çok aşağı, en alt düzeyde

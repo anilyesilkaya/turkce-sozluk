@@ -2,6 +2,7 @@
 layout: term
 title: kuyu anası
 slug: kuyu-anasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Öcü, umacı

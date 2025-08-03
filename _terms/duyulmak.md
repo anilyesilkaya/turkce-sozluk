@@ -2,6 +2,7 @@
 layout: term
 title: duyulmak
 slug: duyulmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Duyma işine konu olmak; işitilmek

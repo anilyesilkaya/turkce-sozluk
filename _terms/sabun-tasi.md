@@ -2,6 +2,7 @@
 layout: term
 title: sabun taşı
 slug: sabun-tasi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Terzilerin kumaşı işaretlemek için kullandıkları, yeşilimsi veya beyaz renkli, sertliği 1 olan magnezyum silikat

@@ -2,6 +2,7 @@
 layout: term
 title: pabuç bırakmamak
 slug: pabuc-birakmamak
+letter: P
 lisan: Türkçe
 anlamlar:
 - yapacağından vazgeçmemek, hiçbir şeye aldırmamak, korkmamak

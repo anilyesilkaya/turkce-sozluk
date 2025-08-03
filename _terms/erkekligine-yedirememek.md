@@ -2,6 +2,7 @@
 layout: term
 title: erkekliğine yedirememek
 slug: erkekligine-yedirememek
+letter: E
 lisan: Türkçe
 anlamlar:
 - mertliğe, yiğitliğe yakıştıramamak

@@ -2,6 +2,7 @@
 layout: term
 title: geriye yürümek
 slug: geriye-yurumek
+letter: G
 lisan: Türkçe
 anlamlar:
 - öncesini kapsamak

@@ -2,6 +2,7 @@
 layout: term
 title: mabet
 slug: mabet
+letter: M
 lisan: Arapça maʿbed
 anlamlar:
 - İçinde ibadet edilen yapı; tapınak, ibadethane, ibadetgâh

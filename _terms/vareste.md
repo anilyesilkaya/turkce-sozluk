@@ -2,6 +2,7 @@
 layout: term
 title: vareste
 slug: vareste
+letter: V
 lisan: Farsça vāreste
 anlamlar:
 - Kurtulmuş

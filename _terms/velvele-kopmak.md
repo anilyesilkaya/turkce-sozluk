@@ -2,6 +2,7 @@
 layout: term
 title: velvele kopmak
 slug: velvele-kopmak
+letter: V
 lisan: Türkçe
 anlamlar:
 - büyük gürültü çıkmak

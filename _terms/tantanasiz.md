@@ -2,6 +2,7 @@
 layout: term
 title: tantanasız
 slug: tantanasiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tantanası olmayan

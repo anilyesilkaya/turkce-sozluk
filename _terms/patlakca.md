@@ -2,6 +2,7 @@
 layout: term
 title: patlakça
 slug: patlakca
+letter: P
 lisan: Türkçe
 anlamlar:
 - Patlak gibi, patlağa benzer

@@ -2,6 +2,7 @@
 layout: term
 title: yazıklanmak
 slug: yaziklanmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Çok üzülmek, acınmak; teessüf etmek

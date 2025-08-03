@@ -2,6 +2,7 @@
 layout: term
 title: bekrilik
 slug: bekrilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► ayyaşlık

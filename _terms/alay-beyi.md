@@ -2,6 +2,7 @@
 layout: term
 title: alay beyi
 slug: alay-beyi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Albay rütbesinde jandarma alay komutanı; çeribaşı

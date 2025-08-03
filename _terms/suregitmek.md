@@ -2,6 +2,7 @@
 layout: term
 title: süregitmek
 slug: suregitmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Aynı biçimde devam etmek

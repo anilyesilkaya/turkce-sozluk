@@ -2,6 +2,7 @@
 layout: term
 title: el yordamıyla
 slug: el-yordamiyla
+letter: E
 lisan: Türkçe
 anlamlar:
 - Görmeden, elle yoklayarak; el yordamı

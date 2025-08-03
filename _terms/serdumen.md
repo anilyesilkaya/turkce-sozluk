@@ -2,6 +2,7 @@
 layout: term
 title: serdümen
 slug: serdumen
+letter: S
 lisan: Farsça ser + İtalyanca timone
 anlamlar:
 - Dümen kullanmakla görevli bilgili ve deneyimli tayfa

@@ -2,6 +2,7 @@
 layout: term
 title: lapçın
 slug: lapcin
+letter: L
 lisan: Farsça lāpçīn
 anlamlar:
 - ► edik

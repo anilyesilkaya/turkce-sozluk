@@ -2,6 +2,7 @@
 layout: term
 title: düze inmek
 slug: duze-inmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - eşkıyalıktan vazgeçmek

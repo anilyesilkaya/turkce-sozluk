@@ -2,6 +2,7 @@
 layout: term
 title: gedilme
 slug: gedilme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gedilmek durumu

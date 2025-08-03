@@ -2,6 +2,7 @@
 layout: term
 title: yaşında
 slug: yasinda
+letter: Y
 lisan: Türkçe
 anlamlar:
 - bir yaşını henüz bitirmiş

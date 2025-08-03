@@ -2,6 +2,7 @@
 layout: term
 title: dünyacı
 slug: dunyaci
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dünyacılık yanlısı kimse; seküler (II), sekülarist

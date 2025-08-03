@@ -2,6 +2,7 @@
 layout: term
 title: koca koca
 slug: koca-koca
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çok büyük

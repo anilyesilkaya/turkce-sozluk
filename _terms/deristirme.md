@@ -2,6 +2,7 @@
 layout: term
 title: deriştirme
 slug: deristirme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Deriştirmek işi

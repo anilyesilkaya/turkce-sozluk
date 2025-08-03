@@ -2,6 +2,7 @@
 layout: term
 title: ölçüştürmek
 slug: olcusturmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ölçüşme işini yaptırmak

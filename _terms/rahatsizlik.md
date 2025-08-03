@@ -2,6 +2,7 @@
 layout: term
 title: rahatsızlık
 slug: rahatsizlik
+letter: R
 lisan: Türkçe
 anlamlar:
 - Rahatsız olma durumu, tedirginlik

@@ -2,6 +2,7 @@
 layout: term
 title: dadılı
 slug: dadili
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dadısı olan

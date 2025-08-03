@@ -2,6 +2,7 @@
 layout: term
 title: meftunluk
 slug: meftunluk
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► tutkunluk

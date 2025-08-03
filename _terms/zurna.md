@@ -2,6 +2,7 @@
 layout: term
 title: zurna
 slug: zurna
+letter: Z
 lisan: Farsça surnāy
 anlamlar:
 - Ağaçtan yapılan, iki karış boyunda, ağız bölümü yayvan, keskin bir ses çıkaran ve çoğu zaman davulla veya dümbelekle birlikte çalınan nefesli çalgı

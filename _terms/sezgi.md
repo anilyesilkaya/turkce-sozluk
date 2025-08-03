@@ -2,6 +2,7 @@
 layout: term
 title: sezgi
 slug: sezgi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sezme yeteneği; sezi

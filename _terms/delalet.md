@@ -2,6 +2,7 @@
 layout: term
 title: delalet
 slug: delalet
+letter: D
 lisan: Arapça delālet
 anlamlar:
 - ► kılavuzluk

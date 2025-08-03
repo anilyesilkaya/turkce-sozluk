@@ -2,6 +2,7 @@
 layout: term
 title: bir şey (veya şeyler) olmak
 slug: bir-sey-veya-seyler-olmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - huyu, durumu, tutumu değişmek, yeni huylar edinmek

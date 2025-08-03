@@ -2,6 +2,7 @@
 layout: term
 title: teehhür
 slug: teehhur
+letter: T
 lisan: Arapça teʾaḫḫur
 anlamlar:
 - ► gecikme

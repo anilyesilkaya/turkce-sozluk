@@ -2,6 +2,7 @@
 layout: term
 title: tecvit
 slug: tecvit
+letter: T
 lisan: Arapça tecvīd
 anlamlar:
 - Kelimelerin söylenişinde, seslerin çıkaklarına, uzunluk ve kısalıklarına göre okunması

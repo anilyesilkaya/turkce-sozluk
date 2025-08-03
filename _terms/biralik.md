@@ -2,6 +2,7 @@
 layout: term
 title: biralık
 slug: biralik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bira yapmakta kullanılan

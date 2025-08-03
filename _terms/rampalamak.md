@@ -2,6 +2,7 @@
 layout: term
 title: rampalamak
 slug: rampalamak
+letter: R
 lisan: Türkçe
 anlamlar:
 - Rampa etmek

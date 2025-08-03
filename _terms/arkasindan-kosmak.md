@@ -2,6 +2,7 @@
 layout: term
 title: arkasından koşmak
 slug: arkasindan-kosmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - iş yaptırmak için birinin arzusunu kollamak, görüşme fırsatı aramak

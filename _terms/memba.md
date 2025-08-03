@@ -2,6 +2,7 @@
 layout: term
 title: memba
 slug: memba
+letter: M
 lisan: Arapça menbaʿ
 anlamlar:
 - ► kaynak (I)

@@ -2,6 +2,7 @@
 layout: term
 title: kifayetsizlik
 slug: kifayetsizlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► yetersizlik

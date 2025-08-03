@@ -2,6 +2,7 @@
 layout: term
 title: bilinemezci
 slug: bilinemezci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilginin bağıntılı olduğuna inanan (kimse)

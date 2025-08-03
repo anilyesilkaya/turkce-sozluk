@@ -2,6 +2,7 @@
 layout: term
 title: ressam sehpası
 slug: ressam-sehpasi
+letter: R
 lisan: Türkçe
 anlamlar:
 - Ressamların üzerine tuval, resim kâğıdı vb. yerleştirerek kullandıkları, genellikle ahşaptan yapılmış, üç veya dört ayaklı özel sehpa; resim sehpası, şövale

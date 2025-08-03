@@ -2,6 +2,7 @@
 layout: term
 title: çağ dışı
 slug: cag-disi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çağın gerektirdiği şartların gerisinde kalmış, çağdaş olmayan; köhne

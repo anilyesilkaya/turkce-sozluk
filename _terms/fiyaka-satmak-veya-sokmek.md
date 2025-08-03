@@ -2,6 +2,7 @@
 layout: term
 title: fiyaka satmak (veya sökmek)
 slug: fiyaka-satmak-veya-sokmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - gösteriş yapmak, caka yapmak, çalım satmak

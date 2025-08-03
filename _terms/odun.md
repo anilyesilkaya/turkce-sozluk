@@ -2,6 +2,7 @@
 layout: term
 title: odun
 slug: odun
+letter: O
 lisan: Türkçe
 anlamlar:
 - Yakılmak için kesilmiş, parçalanmış ağaç

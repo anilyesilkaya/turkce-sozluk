@@ -2,6 +2,7 @@
 layout: term
 title: muhasara altına almak
 slug: muhasara-altina-almak
+letter: M
 lisan: Türkçe
 anlamlar:
 - kuşatmak

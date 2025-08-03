@@ -2,6 +2,7 @@
 layout: term
 title: dinamo
 slug: dinamo
+letter: D
 lisan: Fransızca dynamo
 anlamlar:
 - ► üreteç

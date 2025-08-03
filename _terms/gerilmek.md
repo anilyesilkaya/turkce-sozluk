@@ -2,6 +2,7 @@
 layout: term
 title: gerilmek
 slug: gerilmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Germe işi yapılmak, gergin duruma gelmek, belirli bir uzama ile çekilmek

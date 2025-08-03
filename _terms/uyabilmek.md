@@ -2,6 +2,7 @@
 layout: term
 title: uyabilmek
 slug: uyabilmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyma ihtimali veya imkânı bulunmak

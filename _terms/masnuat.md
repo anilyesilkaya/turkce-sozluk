@@ -2,6 +2,7 @@
 layout: term
 title: masnuat
 slug: masnuat
+letter: M
 lisan: Arapça maṣnūʿāt
 anlamlar:
 - Sanatla yapılmış şeyler, sanat eserleri

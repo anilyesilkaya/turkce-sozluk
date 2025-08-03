@@ -2,6 +2,7 @@
 layout: term
 title: aman aralık vermemek
 slug: aman-aralik-vermemek
+letter: A
 lisan: Türkçe
 anlamlar:
 - göz açtırmamak, fırsat vermemek

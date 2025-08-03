@@ -2,6 +2,7 @@
 layout: term
 title: papaz
 slug: papaz
+letter: P
 lisan: Rumca
 anlamlar:
 - Hristiyan din adamı; peder

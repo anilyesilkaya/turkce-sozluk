@@ -2,6 +2,7 @@
 layout: term
 title: bunalım
 slug: bunalim
+letter: B
 lisan: Türkçe
 anlamlar:
 - Yolunda giden bir süreçte ani olarak beliren aykırılık; bunluk, buhran, kriz

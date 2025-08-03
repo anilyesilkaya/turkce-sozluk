@@ -2,6 +2,7 @@
 layout: term
 title: müşfiklik
 slug: musfiklik
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► sevecenlik

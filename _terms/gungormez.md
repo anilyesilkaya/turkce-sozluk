@@ -2,6 +2,7 @@
 layout: term
 title: güngörmez
 slug: gungormez
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güneş ışığı almayan (yer)

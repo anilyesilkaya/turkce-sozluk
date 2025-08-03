@@ -2,6 +2,7 @@
 layout: term
 title: kerestecilik
 slug: kerestecilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kerestecinin yaptığı iş

@@ -2,6 +2,7 @@
 layout: term
 title: güderi
 slug: guderi
+letter: G
 lisan: Farsça gevderī
 anlamlar:
 - Genellikle geyik veya keçi derisinden yapılmış yumuşak ve mat meşin

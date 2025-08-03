@@ -2,6 +2,7 @@
 layout: term
 title: sarkıntı
 slug: sarkinti
+letter: S
 lisan: Türkçe
 anlamlar:
 - Aşağı doğru uzanan, sarkan şey

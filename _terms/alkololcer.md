@@ -2,6 +2,7 @@
 layout: term
 title: alkolölçer
 slug: alkololcer
+letter: A
 lisan: Türkçe
 anlamlar:
 - Sıvılardaki alkol oranını ölçmeye yarayan cihaz; alkolmetre

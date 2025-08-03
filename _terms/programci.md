@@ -2,6 +2,7 @@
 layout: term
 title: programcı
 slug: programci
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► yapımcı

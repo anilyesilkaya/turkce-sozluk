@@ -2,6 +2,7 @@
 layout: term
 title: günaha girmek
 slug: gunaha-girmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - dinî bakımdan suç sayılan bir iş yapmak

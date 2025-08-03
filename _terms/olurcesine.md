@@ -2,6 +2,7 @@
 layout: term
 title: ölürcesine
 slug: olurcesine
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► ölesiye

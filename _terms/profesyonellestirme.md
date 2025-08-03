@@ -2,6 +2,7 @@
 layout: term
 title: profesyonelleştirme
 slug: profesyonellestirme
+letter: P
 lisan: Türkçe
 anlamlar:
 - Profesyonelleştirmek işi

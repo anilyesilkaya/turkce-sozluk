@@ -2,6 +2,7 @@
 layout: term
 title: masumiyet
 slug: masumiyet
+letter: M
 lisan: Arapça maʿṣūmiyyet
 anlamlar:
 - ► masumluk

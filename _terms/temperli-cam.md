@@ -2,6 +2,7 @@
 layout: term
 title: temperli cam
 slug: temperli-cam
+letter: T
 lisan: Türkçe
 anlamlar:
 - Kırılmaya ve ısıya karşı normal camlara göre daha dayanıklı, kırıldığında keskin olmayan küçük parçacıklara ayrılan cam

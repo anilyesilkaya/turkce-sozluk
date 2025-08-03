@@ -2,6 +2,7 @@
 layout: term
 title: nispi
 slug: nispi
+letter: N
 lisan: Arapça nisbī
 anlamlar:
 - Birbirine göre (olan), önceki duruma göre

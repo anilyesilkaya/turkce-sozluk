@@ -2,6 +2,7 @@
 layout: term
 title: putrel
 slug: putrel
+letter: P
 lisan: Fransızca poutrelle
 anlamlar:
 - ► bağlama

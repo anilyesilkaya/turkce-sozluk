@@ -2,6 +2,7 @@
 layout: term
 title: alfenit
 slug: alfenit
+letter: A
 lisan: Fransızca alfénide
 anlamlar:
 - İçinde bakır, çinko, nikel bulunan ve çatal bıçak takımı yapımında kullanılan gümüşlü bir alaşım

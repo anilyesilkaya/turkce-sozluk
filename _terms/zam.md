@@ -2,6 +2,7 @@
 layout: term
 title: zam
 slug: zam
+letter: Z
 lisan: Arapça żamm
 anlamlar:
 - Bir şeyin fiyatını artırma; bindirim

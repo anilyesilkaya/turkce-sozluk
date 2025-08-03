@@ -2,6 +2,7 @@
 layout: term
 title: siniri tutmak
 slug: siniri-tutmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - birdenbire sinirlenmek veya davranışlarını denetleyememek

@@ -2,6 +2,7 @@
 layout: term
 title: gâvurca
 slug: gavurca
+letter: G
 lisan: Türkçe
 anlamlar:
 - Batılıların konuştuğu yabancı dillerden herhangi biri

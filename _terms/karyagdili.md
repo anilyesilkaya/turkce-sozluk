@@ -2,6 +2,7 @@
 layout: term
 title: karyağdılı
 slug: karyagdili
+letter: K
 lisan: Türkçe
 anlamlar:
 - Üstünde beyaz benekler bulunan

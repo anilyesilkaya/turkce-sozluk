@@ -2,6 +2,7 @@
 layout: term
 title: arıtıcı
 slug: aritici
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arıtma özelliği olan (şey)

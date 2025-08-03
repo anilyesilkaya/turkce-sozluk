@@ -2,6 +2,7 @@
 layout: term
 title: can bulmak
 slug: can-bulmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - dirilmek, canlanmak

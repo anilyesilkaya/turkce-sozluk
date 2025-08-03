@@ -2,6 +2,7 @@
 layout: term
 title: ağustos
 slug: agustos
+letter: A
 lisan: Yunanca
 anlamlar:
 - Yılın sekizinci ayı

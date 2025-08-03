@@ -2,6 +2,7 @@
 layout: term
 title: postmodernizm
 slug: postmodernizm
+letter: P
 lisan: Fransızca postmodernisme
 anlamlar:
 - Modernist arayışın canlılığını kaybetmesinden sonra XX. yüzyılın ikinci yarısında ortaya çıkan çeşitli üslup ve yönelişlerin adı

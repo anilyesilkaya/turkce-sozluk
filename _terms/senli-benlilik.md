@@ -2,6 +2,7 @@
 layout: term
 title: senli benlilik
 slug: senli-benlilik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Senli benli olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: yeteneksiz
 slug: yeteneksiz
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yeteneği olmayan; istidatsız, kabiliyetsiz

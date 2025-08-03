@@ -2,6 +2,7 @@
 layout: term
 title: harlama
 slug: harlama
+letter: H
 lisan: Türkçe
 anlamlar:
 - Harlamak işi

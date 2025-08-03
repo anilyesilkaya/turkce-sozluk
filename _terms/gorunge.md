@@ -2,6 +2,7 @@
 layout: term
 title: görünge
 slug: gorunge
+letter: G
 lisan: Türkçe
 anlamlar:
 - Eşya ve nesnelerin uzaktan görünüşü; perspektif

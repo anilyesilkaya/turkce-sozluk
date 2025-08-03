@@ -2,6 +2,7 @@
 layout: term
 title: uzanabilmek
 slug: uzanabilmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uzanma ihtimali veya imkânı bulunmak

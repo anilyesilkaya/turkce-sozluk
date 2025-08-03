@@ -2,6 +2,7 @@
 layout: term
 title: kombinezon
 slug: kombinezon
+letter: K
 lisan: Fransızca combinaison
 anlamlar:
 - Bir işi başarıya ulaştırmak için alınan önlemler bütünü

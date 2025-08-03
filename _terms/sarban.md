@@ -2,6 +2,7 @@
 layout: term
 title: sarban
 slug: sarban
+letter: S
 lisan: Farsça sārbān
 anlamlar:
 - ► deveci

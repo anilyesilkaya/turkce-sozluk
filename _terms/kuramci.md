@@ -2,6 +2,7 @@
 layout: term
 title: kuramcı
 slug: kuramci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kuram ortaya koyan kimse, kurama bağlı olan; nazariyatçı, nazariyeci, teorisyen

@@ -2,6 +2,7 @@
 layout: term
 title: aşırmak
 slug: asirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yüksek veya geçilmesi güç bir yerin üstünden diğer yanına geçirmek; aşırtmak

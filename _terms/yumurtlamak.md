@@ -2,6 +2,7 @@
 layout: term
 title: yumurtlamak
 slug: yumurtlamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Tavuk, kuş, balık vb. yumurta yapmak

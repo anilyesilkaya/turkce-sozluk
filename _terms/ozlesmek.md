@@ -2,6 +2,7 @@
 layout: term
 title: özleşmek
 slug: ozlesmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öz durumuna veya özlü bir duruma gelmek

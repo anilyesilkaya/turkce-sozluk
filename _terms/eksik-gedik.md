@@ -2,6 +2,7 @@
 layout: term
 title: eksik gedik
 slug: eksik-gedik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Gereksinim duyulan ufak tefek şeyler

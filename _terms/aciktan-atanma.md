@@ -2,6 +2,7 @@
 layout: term
 title: açıktan atanma
 slug: aciktan-atanma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Açıktan atanmak işi

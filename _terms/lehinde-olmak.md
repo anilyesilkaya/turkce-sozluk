@@ -2,6 +2,7 @@
 layout: term
 title: lehinde olmak
 slug: lehinde-olmak
+letter: L
 lisan: Türkçe
 anlamlar:
 - bir şeyin tarafını tutmuş olmak

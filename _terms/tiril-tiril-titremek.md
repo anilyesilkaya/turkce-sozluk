@@ -2,6 +2,7 @@
 layout: term
 title: tiril tiril titremek
 slug: tiril-tiril-titremek
+letter: T
 lisan: Türkçe
 anlamlar:
 - çok üşümek

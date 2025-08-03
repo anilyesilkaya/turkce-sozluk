@@ -2,6 +2,7 @@
 layout: term
 title: bertmek
 slug: bertmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bertilmek

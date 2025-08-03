@@ -2,6 +2,7 @@
 layout: term
 title: kızdırmak
 slug: kizdirmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kızmasına neden olmak, kızmasını sağlamak

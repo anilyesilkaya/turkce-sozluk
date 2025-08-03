@@ -2,6 +2,7 @@
 layout: term
 title: rutubet
 slug: rutubet
+letter: R
 lisan: Arapça ruṭūbet
 anlamlar:
 - ► nem

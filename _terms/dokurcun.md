@@ -2,6 +2,7 @@
 layout: term
 title: dokurcun
 slug: dokurcun
+letter: D
 lisan: Türkçe
 anlamlar:
 - Ot veya ekin yığını

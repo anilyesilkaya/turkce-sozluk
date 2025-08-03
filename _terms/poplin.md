@@ -2,6 +2,7 @@
 layout: term
 title: poplin
 slug: poplin
+letter: P
 lisan: İngilizce poplin
 anlamlar:
 - Pamuk, keten veya ipekten sık dokunmuş ince bir kumaş türü

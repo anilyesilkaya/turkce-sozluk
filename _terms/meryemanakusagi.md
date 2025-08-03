@@ -2,6 +2,7 @@
 layout: term
 title: meryemanakuşağı
 slug: meryemanakusagi
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► gökkuşağı

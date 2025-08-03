@@ -2,6 +2,7 @@
 layout: term
 title: evrik
 slug: evrik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Başka bir önermeye, teoreme veya probleme göre terimleri ters durumda olan (önerme, teorem veya problem)

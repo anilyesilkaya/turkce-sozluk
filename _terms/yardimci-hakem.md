@@ -2,6 +2,7 @@
 layout: term
 title: yardımcı hakem
 slug: yardimci-hakem
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Karşılaşmalarda sayıları, uyarmaları tespit eden ve sonuç ile birlikte tutanağı yazıp imza eden yetkili; yan hakem, yan yargıcı, yardımcı yargıcı

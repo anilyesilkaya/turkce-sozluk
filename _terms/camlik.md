@@ -2,6 +2,7 @@
 layout: term
 title: çamlık
 slug: camlik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çam ağaçları çok olan yer

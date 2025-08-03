@@ -2,6 +2,7 @@
 layout: term
 title: yalın tümce
 slug: yalin-tumce
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► basit cümle

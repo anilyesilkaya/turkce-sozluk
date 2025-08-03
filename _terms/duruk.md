@@ -2,6 +2,7 @@
 layout: term
 title: duruk
 slug: duruk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Hareketi olmayan, belirli bir süre değişmeyen; statik, dinamik karşıtı

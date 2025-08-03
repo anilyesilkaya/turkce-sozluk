@@ -2,6 +2,7 @@
 layout: term
 title: frikik
 slug: frikik
+letter: F
 lisan: İngilizce free-kick
 anlamlar:
 - ► serbest vuruş

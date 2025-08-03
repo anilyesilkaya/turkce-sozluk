@@ -2,6 +2,7 @@
 layout: term
 title: tozlu
 slug: tozlu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Toza bulanmış veya tozu olan

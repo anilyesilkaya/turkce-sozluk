@@ -2,6 +2,7 @@
 layout: term
 title: cefakârlık
 slug: cefakarlik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cefakâr olma durumu

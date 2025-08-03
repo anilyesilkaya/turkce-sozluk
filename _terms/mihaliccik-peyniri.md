@@ -2,6 +2,7 @@
 layout: term
 title: Mihalıççık peyniri
 slug: mihaliccik-peyniri
+letter: M
 lisan: Türkçe
 anlamlar:
 - Uzun ve büyük kalıplar hâlinde hazırlanan, çok tuzlu ve gözenekli sert bir peynir türü

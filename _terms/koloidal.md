@@ -2,6 +2,7 @@
 layout: term
 title: koloidal
 slug: koloidal
+letter: K
 lisan: Fransızca colloïdal
 anlamlar:
 - Zamk, jelatin yapısında olan, koloit nitelikleri taşıyan

@@ -2,6 +2,7 @@
 layout: term
 title: tüberkülin testi
 slug: tuberkulin-testi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir kimsede tüberküloz bulunup bulunmadığını anlamak amacıyla deri altına tüberkülin aşılama

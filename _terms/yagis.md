@@ -2,6 +2,7 @@
 layout: term
 title: yağış
 slug: yagis
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yağmak işi

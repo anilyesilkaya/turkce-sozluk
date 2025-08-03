@@ -2,6 +2,7 @@
 layout: term
 title: önsezi
 slug: onsezi
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Hiçbir belirti yokken bir şeyin olacağını sezme, içe doğma; hissikablelvuku, altıncı duyu, altıncı his

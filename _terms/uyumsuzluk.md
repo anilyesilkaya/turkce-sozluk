@@ -2,6 +2,7 @@
 layout: term
 title: uyumsuzluk
 slug: uyumsuzluk
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyumsuz olma durumu; ahenksizlik, imtizaçsızlık

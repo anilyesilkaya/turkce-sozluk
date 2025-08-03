@@ -2,6 +2,7 @@
 layout: term
 title: otluk
 slug: otluk
+letter: O
 lisan: Türkçe
 anlamlar:
 - Otu bol olan yer

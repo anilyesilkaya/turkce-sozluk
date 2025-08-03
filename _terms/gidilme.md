@@ -2,6 +2,7 @@
 layout: term
 title: gidilme
 slug: gidilme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gidilmek işi

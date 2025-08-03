@@ -2,6 +2,7 @@
 layout: term
 title: merak olmak
 slug: merak-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - anlamak veya öğrenmek isteği olmak

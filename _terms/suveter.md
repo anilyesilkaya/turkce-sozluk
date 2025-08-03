@@ -2,6 +2,7 @@
 layout: term
 title: süveter
 slug: suveter
+letter: S
 lisan: İngilizce sweater
 anlamlar:
 - Genellikle altına gömlek veya bluz giyilen kolsuz kazak

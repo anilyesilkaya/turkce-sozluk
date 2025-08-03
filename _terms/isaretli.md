@@ -2,6 +2,7 @@
 layout: term
 title: işaretli
 slug: isaretli
+letter: I
 lisan: Türkçe
 anlamlar:
 - İşareti olan, işaretle belirlenmiş olan

@@ -2,6 +2,7 @@
 layout: term
 title: cillop
 slug: cillop
+letter: C
 lisan: Türkçe
 anlamlar:
 - Parlak ve pürüzsüz olan

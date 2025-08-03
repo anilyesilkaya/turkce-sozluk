@@ -2,6 +2,7 @@
 layout: term
 title: seciye
 slug: seciye
+letter: S
 lisan: Arapça seciyye
 anlamlar:
 - ► karakter

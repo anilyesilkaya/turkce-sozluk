@@ -2,6 +2,7 @@
 layout: term
 title: tokurdatmak
 slug: tokurdatmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tokurdama işini yaptırmak

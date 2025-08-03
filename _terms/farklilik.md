@@ -2,6 +2,7 @@
 layout: term
 title: farklılık
 slug: farklilik
+letter: F
 lisan: Türkçe
 anlamlar:
 - Farklı olma durumu; ayrımlılık, ayrışım, değişiklik, tefavüt

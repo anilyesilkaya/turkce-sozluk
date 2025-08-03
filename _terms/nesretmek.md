@@ -2,6 +2,7 @@
 layout: term
 title: neşretmek
 slug: nesretmek
+letter: N
 lisan: Arapça neşr + Türkçe etmek
 anlamlar:
 - Yaymak, dağıtmak, saçmak

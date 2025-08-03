@@ -2,6 +2,7 @@
 layout: term
 title: yarıçap
 slug: yaricap
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Çemberin herhangi bir noktasıyla merkezini birleştiren doğru parçası; nısıf kutur

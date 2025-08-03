@@ -2,6 +2,7 @@
 layout: term
 title: düşman
 slug: dusman
+letter: D
 lisan: Farsça duşmān
 anlamlar:
 - Birinin kötülüğünü isteyen, ondan nefret eden, ona zarar vermeye çalışan kimse; yağı, hasım, husumetli, dost karşıtı

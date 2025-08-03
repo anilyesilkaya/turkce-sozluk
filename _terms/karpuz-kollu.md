@@ -2,6 +2,7 @@
 layout: term
 title: karpuz kollu
 slug: karpuz-kollu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karpuz kolu olan

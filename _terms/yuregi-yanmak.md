@@ -2,6 +2,7 @@
 layout: term
 title: yüreği yanmak
 slug: yuregi-yanmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - çok acımak

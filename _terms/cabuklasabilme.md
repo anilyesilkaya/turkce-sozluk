@@ -2,6 +2,7 @@
 layout: term
 title: çabuklaşabilme
 slug: cabuklasabilme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çabuklaşabilmek işi

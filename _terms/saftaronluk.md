@@ -2,6 +2,7 @@
 layout: term
 title: saftaronluk
 slug: saftaronluk
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► saftiriklik

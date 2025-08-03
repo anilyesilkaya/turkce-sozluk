@@ -2,6 +2,7 @@
 layout: term
 title: uçuvermek
 slug: ucuvermek
+letter: U
 lisan: Türkçe
 anlamlar:
 - Çabucak uçmak

@@ -2,6 +2,7 @@
 layout: term
 title: rahmetlik
 slug: rahmetlik
+letter: R
 lisan: Türkçe
 anlamlar:
 - ► merhume

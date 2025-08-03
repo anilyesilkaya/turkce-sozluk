@@ -2,6 +2,7 @@
 layout: term
 title: evgin
 slug: evgin
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► acil

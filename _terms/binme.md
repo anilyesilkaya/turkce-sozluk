@@ -2,6 +2,7 @@
 layout: term
 title: binme
 slug: binme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Binmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: puro
 slug: puro
+letter: P
 lisan: İtalyanca puro
 anlamlar:
 - ► yaprak sigarası

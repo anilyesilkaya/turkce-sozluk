@@ -2,6 +2,7 @@
 layout: term
 title: dürtü
 slug: durtu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bedensel veya ruhsal dengenin değişmesi sonucu ortaya çıkan ve canlıyı türlü tepkilere sürükleyebilen içten gelen gerilim

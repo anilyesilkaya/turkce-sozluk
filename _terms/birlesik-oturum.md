@@ -2,6 +2,7 @@
 layout: term
 title: birleşik oturum
 slug: birlesik-oturum
+letter: B
 lisan: Türkçe
 anlamlar:
 - İki veya daha çok kurulun bir arada yaptığı oturum

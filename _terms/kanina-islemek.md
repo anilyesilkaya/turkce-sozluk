@@ -2,6 +2,7 @@
 layout: term
 title: kanına işlemek
 slug: kanina-islemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir şeyi aşırı ölçüde benimsemek

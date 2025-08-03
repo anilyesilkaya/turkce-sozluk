@@ -2,6 +2,7 @@
 layout: term
 title: alkolsüz
 slug: alkolsuz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alkolü olmayan

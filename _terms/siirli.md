@@ -2,6 +2,7 @@
 layout: term
 title: şiirli
 slug: siirli
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şiir havasında olan

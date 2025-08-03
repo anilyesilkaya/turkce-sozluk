@@ -2,6 +2,7 @@
 layout: term
 title: dağ servisi
 slug: dag-servisi
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► sedir (II)

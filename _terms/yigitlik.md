@@ -2,6 +2,7 @@
 layout: term
 title: yiğitlik
 slug: yigitlik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yiğit olma durumu, yiğitçe davranış; erlik, mertlik, besalet, celadet, mürüvvet, şecaat

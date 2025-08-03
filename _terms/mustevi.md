@@ -2,6 +2,7 @@
 layout: term
 title: müstevi
 slug: mustevi
+letter: M
 lisan: Arapça mustevī
 anlamlar:
 - ► düz (I)

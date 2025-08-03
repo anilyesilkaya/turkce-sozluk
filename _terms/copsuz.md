@@ -2,6 +2,7 @@
 layout: term
 title: çöpsüz
 slug: copsuz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çöpü olmayan

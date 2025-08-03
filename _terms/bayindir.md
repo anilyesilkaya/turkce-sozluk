@@ -2,6 +2,7 @@
 layout: term
 title: Bayındır
 slug: bayindir
+letter: B
 lisan: Türkçe
 anlamlar:
 - Oğuz Türklerinin yirmi dört boyundan biri

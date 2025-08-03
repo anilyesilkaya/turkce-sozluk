@@ -2,6 +2,7 @@
 layout: term
 title: hem ... hem ...
 slug: hem-hem
+letter: H
 lisan: Türkçe
 anlamlar:
 - Görevdeş ögeleri ya eşitlik ve birlikte olma ya da birbirine karşıt olma işlevi ile sıralayan ve bağlayan tekrarlamalı bir söz, ne ... ne ... karşıtı

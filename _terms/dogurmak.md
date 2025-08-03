@@ -2,6 +2,7 @@
 layout: term
 title: doğurmak
 slug: dogurmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Yavru dünyaya getirmek; vermek, doğum yapmak

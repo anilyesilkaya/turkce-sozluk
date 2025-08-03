@@ -2,6 +2,7 @@
 layout: term
 title: yasa dışı
 slug: yasa-disi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yasalara, yasa kurallarına uymayan; kanun dışı, gayrikanuni, gayrimeşru, illegal

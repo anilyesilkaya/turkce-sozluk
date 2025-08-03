@@ -2,6 +2,7 @@
 layout: term
 title: öte yandan
 slug: ote-yandan
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Diğer taraftan, başka bir yönden, karşılık olarak

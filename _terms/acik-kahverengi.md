@@ -2,6 +2,7 @@
 layout: term
 title: açık kahverengi
 slug: acik-kahverengi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kahverenginin bir veya birkaç ton açığı; devetüyü, sütlü kahve, kestane rengi, kestane dorusu, pekmezköpüğü

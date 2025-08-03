@@ -2,6 +2,7 @@
 layout: term
 title: kulunç
 slug: kulunc
+letter: K
 lisan: Arapça ḳulunc
 anlamlar:
 - Şiddetli omuz ve sırt ağrısı

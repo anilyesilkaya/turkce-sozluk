@@ -2,6 +2,7 @@
 layout: term
 title: sağlamca
 slug: saglamca
+letter: S
 lisan: Türkçe
 anlamlar:
 - Oldukça sağlam, sağlama yakın

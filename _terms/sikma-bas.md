@@ -2,6 +2,7 @@
 layout: term
 title: sıkma baş
 slug: sikma-bas
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kadınların ince bir kumaşla saçlarını sararak yaptıkları bir saç bağlama biçimi

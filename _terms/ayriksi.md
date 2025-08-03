@@ -2,6 +2,7 @@
 layout: term
 title: ayrıksı
 slug: ayriksi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alışılagelmiş töre ve davranışlara aykırı olan; eksantrik

@@ -2,6 +2,7 @@
 layout: term
 title: çilecilik
 slug: cilecilik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Dinî amaçlarla ve törelere bağlı olarak doğal eğilimleri ve beden isteklerini yenmek için isteyerek acı çekme

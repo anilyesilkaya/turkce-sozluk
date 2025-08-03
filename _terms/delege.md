@@ -2,6 +2,7 @@
 layout: term
 title: delege
 slug: delege
+letter: D
 lisan: Fransızca délégué
 anlamlar:
 - Kendisine yetki verilerek bir yere veya birinin katına gönderilen kimse; murahhas

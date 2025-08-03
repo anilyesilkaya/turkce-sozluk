@@ -2,6 +2,7 @@
 layout: term
 title: ufalayıcı
 slug: ufalayici
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ufalama işini yapan

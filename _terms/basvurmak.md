@@ -2,6 +2,7 @@
 layout: term
 title: başvurmak
 slug: basvurmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir işin yapılması için bir kimsenin aracılığını istemek

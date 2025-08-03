@@ -2,6 +2,7 @@
 layout: term
 title: biçimlendirmek
 slug: bicimlendirmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir şeye belirli bir biçim vermek; biçimlemek, şekillendirmek

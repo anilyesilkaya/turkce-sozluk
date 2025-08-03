@@ -2,6 +2,7 @@
 layout: term
 title: varaka
 slug: varaka
+letter: V
 lisan: Arapça varaḳa
 anlamlar:
 - ► varak

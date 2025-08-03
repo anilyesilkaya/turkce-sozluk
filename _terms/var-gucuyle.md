@@ -2,6 +2,7 @@
 layout: term
 title: var gücüyle
 slug: var-gucuyle
+letter: V
 lisan: Türkçe
 anlamlar:
 - Olanca gücüyle; var kuvvetiyle

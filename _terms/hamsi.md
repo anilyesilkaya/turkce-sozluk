@@ -2,6 +2,7 @@
 layout: term
 title: hamsi
 slug: hamsi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hamsigillerden, Akdeniz, Karadeniz ve Batı Avrupa kıyılarında avlanan, 10-12 santimetre boyunda, ince uzun bir balık (Engraulis encrasicholus)

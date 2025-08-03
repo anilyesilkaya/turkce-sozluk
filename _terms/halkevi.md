@@ -2,6 +2,7 @@
 layout: term
 title: halkevi
 slug: halkevi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Halkı eğitip millî birliğe ve ülküye yöneltmek amacıyla açılan kuruluş

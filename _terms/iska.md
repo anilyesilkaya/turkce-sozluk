@@ -2,6 +2,7 @@
 layout: term
 title: ıska
 slug: iska
+letter: I
 lisan: Türkçe
 anlamlar:
 - Üzerinde durmama, önem vermeme

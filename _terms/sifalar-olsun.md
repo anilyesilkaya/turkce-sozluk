@@ -2,6 +2,7 @@
 layout: term
 title: şifalar olsun
 slug: sifalar-olsun
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - aksıranlara, banyodan çıkanlara veya ilaç içenlere söylenen bir iyi dilek sözü

@@ -2,6 +2,7 @@
 layout: term
 title: eşek inadı
 slug: esek-inadi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Söylediğinden veya yaptığından dönmeme, çok direnme

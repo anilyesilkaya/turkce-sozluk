@@ -2,6 +2,7 @@
 layout: term
 title: kırpmak
 slug: kirpmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Parçalara ayırmak, kesmek

@@ -2,6 +2,7 @@
 layout: term
 title: ırz
 slug: irz
+letter: I
 lisan: Arapça ʿirż
 anlamlar:
 - Bir kimsenin, başkaları tarafından dokunulmaması ve saygı gösterilmesi gereken iffeti

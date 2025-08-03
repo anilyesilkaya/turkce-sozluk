@@ -2,6 +2,7 @@
 layout: term
 title: fistan
 slug: fistan
+letter: F
 lisan: Rumca
 anlamlar:
 - Tek parça kadın giysisi

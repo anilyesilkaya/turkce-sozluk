@@ -2,6 +2,7 @@
 layout: term
 title: titr
 slug: titr
+letter: T
 lisan: Fransızca titre
 anlamlar:
 - ► ünvan

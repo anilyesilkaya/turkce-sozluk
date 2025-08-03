@@ -2,6 +2,7 @@
 layout: term
 title: askısız
 slug: askisiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Askısı olmayan; straplez

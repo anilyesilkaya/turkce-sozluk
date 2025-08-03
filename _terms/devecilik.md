@@ -2,6 +2,7 @@
 layout: term
 title: devecilik
 slug: devecilik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Devecinin yaptığı iş

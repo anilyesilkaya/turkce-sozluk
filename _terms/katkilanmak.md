@@ -2,6 +2,7 @@
 layout: term
 title: katkılanmak
 slug: katkilanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - İçine bir katkı karışmak

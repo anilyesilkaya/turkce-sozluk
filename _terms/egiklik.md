@@ -2,6 +2,7 @@
 layout: term
 title: eğiklik
 slug: egiklik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eğik olma durumu; eğim, yamukluk, meyil

@@ -2,6 +2,7 @@
 layout: term
 title: çeyreklemek
 slug: ceyreklemek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Yatan bir kimsenin, özellikle süt çocuklarının kollarını ve bacaklarını çaprazlayarak vücutlarına idman yaptırmak

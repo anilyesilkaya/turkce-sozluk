@@ -2,6 +2,7 @@
 layout: term
 title: bravo
 slug: bravo
+letter: B
 lisan: İtalyanca bravo
 anlamlar:
 - '"Aferin, yaşa" anlamlarında beğeni bildiren bir söz'

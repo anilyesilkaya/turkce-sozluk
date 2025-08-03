@@ -2,6 +2,7 @@
 layout: term
 title: gerçeklenmek
 slug: gerceklenmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bir şeyin doğruluğu herhangi bir şeyle ortaya konulmak; doğrulanmak, teyit edilmek

@@ -2,6 +2,7 @@
 layout: term
 title: sık sık
 slug: sik-sik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Az aralıklarla

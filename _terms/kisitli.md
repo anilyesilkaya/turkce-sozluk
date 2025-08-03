@@ -2,6 +2,7 @@
 layout: term
 title: kısıtlı
 slug: kisitli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kısıtlanmış, kısıt altına alınmış; mahcur

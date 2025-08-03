@@ -2,6 +2,7 @@
 layout: term
 title: duyarsızlık
 slug: duyarsizlik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Duyarsız olma durumu

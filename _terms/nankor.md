@@ -2,6 +2,7 @@
 layout: term
 title: nankör
 slug: nankor
+letter: N
 lisan: Farsça nānkūr
 anlamlar:
 - ► iyilikbilmez

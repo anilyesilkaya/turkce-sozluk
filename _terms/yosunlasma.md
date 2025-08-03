@@ -2,6 +2,7 @@
 layout: term
 title: yosunlaşma
 slug: yosunlasma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yosunlaşmak durumu

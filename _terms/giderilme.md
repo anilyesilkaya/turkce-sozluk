@@ -2,6 +2,7 @@
 layout: term
 title: giderilme
 slug: giderilme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Giderilmek işi

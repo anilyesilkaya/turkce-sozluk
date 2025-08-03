@@ -2,6 +2,7 @@
 layout: term
 title: sağlanmak
 slug: saglanmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sağlama işine konu olmak

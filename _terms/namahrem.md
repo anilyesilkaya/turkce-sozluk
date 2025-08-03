@@ -2,6 +2,7 @@
 layout: term
 title: namahrem
 slug: namahrem
+letter: N
 lisan: Farsça nā + Arapça maḥrem
 anlamlar:
 - Evlenmelerinde yasa bakımından sakınca olmayan (kadın ve erkek)

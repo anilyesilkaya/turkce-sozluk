@@ -2,6 +2,7 @@
 layout: term
 title: palaz
 slug: palaz
+letter: P
 lisan: Türkçe
 anlamlar:
 - Kaz, ördek, güvercin vb. bazı kuş yavrularının civcivlikten sonraki durumu; badik

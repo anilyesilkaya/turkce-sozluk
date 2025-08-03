@@ -2,6 +2,7 @@
 layout: term
 title: günlük güneşlik
 slug: gunluk-guneslik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Açık ve bol ışıklı, sıcak, yağışsız (yer veya hava)

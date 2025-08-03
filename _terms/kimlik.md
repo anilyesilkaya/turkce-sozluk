@@ -2,6 +2,7 @@
 layout: term
 title: kimlik
 slug: kimlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Toplumsal bir varlık olarak insanın nasıl bir kimse olduğunu gösteren belirti, nitelik ve özelliklerin bütünü; etiket

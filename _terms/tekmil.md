@@ -2,6 +2,7 @@
 layout: term
 title: tekmil
 slug: tekmil
+letter: T
 lisan: Arapça tekmīl
 anlamlar:
 - Bir şeyi tamamlama, bitirme

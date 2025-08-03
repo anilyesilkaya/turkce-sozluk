@@ -2,6 +2,7 @@
 layout: term
 title: külçe
 slug: kulce
+letter: K
 lisan: Farsça kulīçe
 anlamlar:
 - Eritilerek kalıba dökülmüş maden veya alaşım; külte

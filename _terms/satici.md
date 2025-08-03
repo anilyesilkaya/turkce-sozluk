@@ -2,6 +2,7 @@
 layout: term
 title: satıcı
 slug: satici
+letter: S
 lisan: Türkçe
 anlamlar:
 - Alıcıya mal satan kimse; vandöz

@@ -2,6 +2,7 @@
 layout: term
 title: üfürme
 slug: ufurme
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üfürmek işi

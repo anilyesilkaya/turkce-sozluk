@@ -2,6 +2,7 @@
 layout: term
 title: tutuksuz
 slug: tutuksuz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tutuklanmadan yargılanan

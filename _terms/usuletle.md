@@ -2,6 +2,7 @@
 layout: term
 title: usuletle
 slug: usuletle
+letter: U
 lisan: Türkçe
 anlamlar:
 - Usulüne uygun biçimde

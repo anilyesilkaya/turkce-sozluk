@@ -2,6 +2,7 @@
 layout: term
 title: yine
 slug: yine
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir kez daha; gene, gine

@@ -2,6 +2,7 @@
 layout: term
 title: sıyırtmak
 slug: siyirtmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıyırma işini yaptırmak

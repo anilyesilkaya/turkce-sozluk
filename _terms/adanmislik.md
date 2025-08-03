@@ -2,6 +2,7 @@
 layout: term
 title: adanmışlık
 slug: adanmislik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Adanmış olma durumu

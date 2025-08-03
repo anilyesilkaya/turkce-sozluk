@@ -2,6 +2,7 @@
 layout: term
 title: güz çiğdemi
 slug: guz-cigdemi
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► acı çiğdem

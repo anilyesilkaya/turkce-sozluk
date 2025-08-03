@@ -2,6 +2,7 @@
 layout: term
 title: çalakürek
 slug: calakurek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Sürekli kürek çekerek

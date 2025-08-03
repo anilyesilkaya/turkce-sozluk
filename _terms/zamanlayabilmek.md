@@ -2,6 +2,7 @@
 layout: term
 title: zamanlayabilmek
 slug: zamanlayabilmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zamanlama ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: tahmishane
 slug: tahmishane
+letter: T
 lisan: Arapça tahmįs + Farsça ḫāne
 anlamlar:
 - Kahve tanelerinin kavrularak ve öğütülerek  kuru kahve hâline getirildiği yer

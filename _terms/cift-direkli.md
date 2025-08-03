@@ -2,6 +2,7 @@
 layout: term
 title: çift direkli
 slug: cift-direkli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - İki direği bulunan

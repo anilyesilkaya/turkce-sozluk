@@ -2,6 +2,7 @@
 layout: term
 title: arşivcilik
 slug: arsivcilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arşivcinin yaptığı iş; belgelikçilik

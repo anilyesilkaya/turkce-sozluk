@@ -2,6 +2,7 @@
 layout: term
 title: telaşe müdürlüğü
 slug: telase-mudurlugu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Telaşe müdürü olma durumu

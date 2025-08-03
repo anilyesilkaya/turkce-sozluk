@@ -2,6 +2,7 @@
 layout: term
 title: gümrüklü
 slug: gumruklu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gümrük vergisi ödenmesi gerekli olan

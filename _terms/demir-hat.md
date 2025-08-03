@@ -2,6 +2,7 @@
 layout: term
 title: demir hat
 slug: demir-hat
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► demir yolu

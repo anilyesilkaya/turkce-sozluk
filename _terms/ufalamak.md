@@ -2,6 +2,7 @@
 layout: term
 title: ufalamak
 slug: ufalamak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Kırarak, ovarak veya ezerek ufak parçalara ayırmak

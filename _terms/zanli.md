@@ -2,6 +2,7 @@
 layout: term
 title: zanlı
 slug: zanli
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► şüpheli

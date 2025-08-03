@@ -2,6 +2,7 @@
 layout: term
 title: tüy gibi
 slug: tuy-gibi
+letter: T
 lisan: Türkçe
 anlamlar:
 - çok hafif

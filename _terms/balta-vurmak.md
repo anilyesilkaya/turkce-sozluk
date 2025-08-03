@@ -2,6 +2,7 @@
 layout: term
 title: balta vurmak
 slug: balta-vurmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - balta ile kesmek, parçalamak

@@ -2,6 +2,7 @@
 layout: term
 title: bahis
 slug: bahis
+letter: B
 lisan: Arapça baḥs̱
 anlamlar:
 - Üzerinde konuşulan konu

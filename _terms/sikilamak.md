@@ -2,6 +2,7 @@
 layout: term
 title: sıkılamak
 slug: sikilamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıkı duruma getirmek

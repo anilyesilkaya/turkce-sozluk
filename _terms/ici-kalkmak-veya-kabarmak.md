@@ -2,6 +2,7 @@
 layout: term
 title: içi kalkmak (veya kabarmak)
 slug: ici-kalkmak-veya-kabarmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - iğrenmek

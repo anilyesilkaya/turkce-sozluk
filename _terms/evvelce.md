@@ -2,6 +2,7 @@
 layout: term
 title: evvelce
 slug: evvelce
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► önceden

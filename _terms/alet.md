@@ -2,6 +2,7 @@
 layout: term
 title: alet
 slug: alet
+letter: A
 lisan: Arapça ālet
 anlamlar:
 - Bir el işini veya mekanik bir işi gerçekleştirmek için özel olarak yapılmış nesne

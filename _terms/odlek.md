@@ -2,6 +2,7 @@
 layout: term
 title: ödlek
 slug: odlek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► korkak

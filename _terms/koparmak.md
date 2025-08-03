@@ -2,6 +2,7 @@
 layout: term
 title: koparmak
 slug: koparmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kopmasını sağlamak, kopmasına yol açmak; kapmak

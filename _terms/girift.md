@@ -2,6 +2,7 @@
 layout: term
 title: girift
 slug: girift
+letter: G
 lisan: Farsça girift
 anlamlar:
 - Birbirinin içine girip karışmış; girişik, çapraşık

@@ -2,6 +2,7 @@
 layout: term
 title: tecelli
 slug: tecelli
+letter: T
 lisan: Arapça tecellī
 anlamlar:
 - Belirme, görünme, ortaya çıkma, zuhur etme, meydana çıkma

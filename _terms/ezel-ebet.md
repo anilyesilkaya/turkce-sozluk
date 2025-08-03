@@ -2,6 +2,7 @@
 layout: term
 title: ezel ebet
 slug: ezel-ebet
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ezelden ebede kadar

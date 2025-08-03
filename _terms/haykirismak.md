@@ -2,6 +2,7 @@
 layout: term
 title: haykırışmak
 slug: haykirismak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Karşılıklı haykırmak

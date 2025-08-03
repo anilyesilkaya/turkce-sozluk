@@ -2,6 +2,7 @@
 layout: term
 title: araf
 slug: araf
+letter: A
 lisan: Arapça aʿrāf
 anlamlar:
 - İslam inancına göre cennet ile cehennem arasında bir yer

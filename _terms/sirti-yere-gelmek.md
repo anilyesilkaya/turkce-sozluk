@@ -2,6 +2,7 @@
 layout: term
 title: sırtı yere gelmek
 slug: sirti-yere-gelmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - yenilmek, alt olmak

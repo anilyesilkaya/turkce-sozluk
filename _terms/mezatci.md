@@ -2,6 +2,7 @@
 layout: term
 title: mezatçı
 slug: mezatci
+letter: M
 lisan: Türkçe
 anlamlar:
 - Arttırma ile satışı yönlendiren kimse

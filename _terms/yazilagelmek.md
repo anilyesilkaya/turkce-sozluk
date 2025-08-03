@@ -2,6 +2,7 @@
 layout: term
 title: yazılagelmek
 slug: yazilagelmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Eskiden beri yazılır olmak

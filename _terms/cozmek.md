@@ -2,6 +2,7 @@
 layout: term
 title: çözmek
 slug: cozmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Düğümlü, bağlı veya sarılı bir şeyi açmak

@@ -2,6 +2,7 @@
 layout: term
 title: akil baliğ olmak
 slug: akil-balig-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ergenleşmek

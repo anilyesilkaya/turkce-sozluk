@@ -2,6 +2,7 @@
 layout: term
 title: hami
 slug: hami
+letter: H
 lisan: Arapça ḥāmī
 anlamlar:
 - ► koruyucu

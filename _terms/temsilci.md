@@ -2,6 +2,7 @@
 layout: term
 title: temsilci
 slug: temsilci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Hak ve görev bakımından birinin veya bir topluluğun adına davranan kimse; mümessil

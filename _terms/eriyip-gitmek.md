@@ -2,6 +2,7 @@
 layout: term
 title: eriyip gitmek
 slug: eriyip-gitmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - yok olmak

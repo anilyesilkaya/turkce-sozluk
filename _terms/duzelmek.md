@@ -2,6 +2,7 @@
 layout: term
 title: düzelmek
 slug: duzelmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► düzleşmek

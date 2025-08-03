@@ -2,6 +2,7 @@
 layout: term
 title: talandan geçmek
 slug: talandan-gecmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - yağmalanmak

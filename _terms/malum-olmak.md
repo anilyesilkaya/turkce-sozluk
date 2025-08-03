@@ -2,6 +2,7 @@
 layout: term
 title: malum olmak
 slug: malum-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - içine doğmak

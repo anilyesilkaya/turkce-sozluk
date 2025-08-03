@@ -2,6 +2,7 @@
 layout: term
 title: çırılçıplak
 slug: cirilciplak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Tamamen çıplak; çırçıplak, dımdızlak, anadan doğma, anadan üryan

@@ -2,6 +2,7 @@
 layout: term
 title: tandır böreği
 slug: tandir-boregi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Mayalı hamurdan ince açılan yufkanın içine kıyma, peynir, patates, ıspanak vb. konulup tandırda pişirilen bir börek türü

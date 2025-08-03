@@ -2,6 +2,7 @@
 layout: term
 title: kantarcı
 slug: kantarci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kantar yapıp satan kimse

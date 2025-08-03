@@ -2,6 +2,7 @@
 layout: term
 title: makasçılık
 slug: makascilik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Makasçının görevi

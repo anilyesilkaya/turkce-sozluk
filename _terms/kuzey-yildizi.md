@@ -2,6 +2,7 @@
 layout: term
 title: Kuzey Yıldızı
 slug: kuzey-yildizi
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► Kutup Yıldızı

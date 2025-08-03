@@ -2,6 +2,7 @@
 layout: term
 title: süzgün göz
 slug: suzgun-goz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Süzgün veya ölgün bakışlarla bakan göz

@@ -2,6 +2,7 @@
 layout: term
 title: türbe eriği
 slug: turbe-erigi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Gülgillerden, tatlı, küçük çekirdekli, etinden kolay sıyrılabilen, mayhoş bir tür erik

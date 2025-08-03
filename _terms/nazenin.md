@@ -2,6 +2,7 @@
 layout: term
 title: nazenin
 slug: nazenin
+letter: N
 lisan: Farsça nāzenīn
 anlamlar:
 - ► nazlı

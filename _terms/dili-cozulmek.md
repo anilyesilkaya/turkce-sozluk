@@ -2,6 +2,7 @@
 layout: term
 title: dili çözülmek
 slug: dili-cozulmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - konuşamayan veya susan kişi konuşmaya başlamak

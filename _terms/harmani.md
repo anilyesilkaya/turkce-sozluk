@@ -2,6 +2,7 @@
 layout: term
 title: harmani
 slug: harmani
+letter: H
 lisan: Türkçe
 anlamlar:
 - Bütün vücudu saran, kolsuz ve bazen kukuletalı bir tür üst giysisi; harmaniye

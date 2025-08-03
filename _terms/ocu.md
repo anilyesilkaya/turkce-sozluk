@@ -2,6 +2,7 @@
 layout: term
 title: öcü
 slug: ocu
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Küçük çocukları korkutmak için uydurulmuş hayalî yaratık; umacı

@@ -2,6 +2,7 @@
 layout: term
 title: türküleştirilmek
 slug: turkulestirilmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Türkü durumuna getirilmek

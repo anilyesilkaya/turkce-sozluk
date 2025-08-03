@@ -2,6 +2,7 @@
 layout: term
 title: ekol
 slug: ekol
+letter: E
 lisan: Fransızca école
 anlamlar:
 - Bir bilim ve sanat kolunda ayrı nitelik ve özellikleri bulunan yöntem veya akım; okul

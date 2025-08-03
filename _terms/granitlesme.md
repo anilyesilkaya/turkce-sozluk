@@ -2,6 +2,7 @@
 layout: term
 title: granitleşme
 slug: granitlesme
+letter: G
 lisan: Türkçe
 anlamlar:
 - İç kuvvetlerin etkisiyle yer yuvarlağı içindeki kayanın granite dönüşmesi

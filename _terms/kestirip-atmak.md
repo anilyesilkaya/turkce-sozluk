@@ -2,6 +2,7 @@
 layout: term
 title: kestirip atmak
 slug: kestirip-atmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - ayrıntılı düşünmeden kesin yargıya varmak

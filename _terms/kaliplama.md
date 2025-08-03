@@ -2,6 +2,7 @@
 layout: term
 title: kalıplama
 slug: kaliplama
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalıplamak işi

@@ -2,6 +2,7 @@
 layout: term
 title: darmadağın
 slug: darmadagin
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çok dağınık ve karışık; darmadağınık, tarumar

@@ -2,6 +2,7 @@
 layout: term
 title: kokulu
 slug: kokulu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kokusu olan

@@ -2,6 +2,7 @@
 layout: term
 title: çökebilmek
 slug: cokebilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çökme ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: maddeci
 slug: maddeci
+letter: M
 lisan: Türkçe
 anlamlar:
 - Para, mal vb.ne çok önem veren kimse

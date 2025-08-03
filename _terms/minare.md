@@ -2,6 +2,7 @@
 layout: term
 title: minare
 slug: minare
+letter: M
 lisan: Arapça menāre
 anlamlar:
 - Camilerde müezzinin ezan okuduğu, sela verdiği, şerefesi olan, çoğunlukla taştan, yüksek ve ince yapı

@@ -2,6 +2,7 @@
 layout: term
 title: kudretli
 slug: kudretli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kudret sahibi olan

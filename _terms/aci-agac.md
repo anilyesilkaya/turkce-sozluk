@@ -2,6 +2,7 @@
 layout: term
 title: acı ağaç
 slug: aci-agac
+letter: A
 lisan: Türkçe
 anlamlar:
 - Sedef otugillerden, sıcak ülkelerde yetişen, kabuğu ve odunu hekimlikte kullanılan küçük bir ağaç; kavasya (Quassia amara)

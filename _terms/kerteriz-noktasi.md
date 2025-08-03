@@ -2,6 +2,7 @@
 layout: term
 title: kerteriz noktası
 slug: kerteriz-noktasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Geminin bulunduğu yeri anlamak için kerteriz almaya yarayan fener kulesi, duba, şamandıra vb.nin harita üzerindeki yeri

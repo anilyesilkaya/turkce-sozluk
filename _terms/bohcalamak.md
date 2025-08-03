@@ -2,6 +2,7 @@
 layout: term
 title: bohçalamak
 slug: bohcalamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir şeyi bohça içine koyup sarmak

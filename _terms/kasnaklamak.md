@@ -2,6 +2,7 @@
 layout: term
 title: kasnaklamak
 slug: kasnaklamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kasnak içine almak; çemberlemek

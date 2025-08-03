@@ -2,6 +2,7 @@
 layout: term
 title: damalı
 slug: damali
+letter: D
 lisan: Türkçe
 anlamlar:
 - Üstünde dama tahtasındaki gibi kareler bulunan

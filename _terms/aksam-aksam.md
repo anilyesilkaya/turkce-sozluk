@@ -2,6 +2,7 @@
 layout: term
 title: akşam akşam
 slug: aksam-aksam
+letter: A
 lisan: Türkçe
 anlamlar:
 - Akşam vaktinde

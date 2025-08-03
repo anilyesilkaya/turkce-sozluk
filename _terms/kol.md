@@ -2,6 +2,7 @@
 layout: term
 title: kol
 slug: kol
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kolluk (II)

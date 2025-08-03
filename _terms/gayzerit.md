@@ -2,6 +2,7 @@
 layout: term
 title: gayzerit
 slug: gayzerit
+letter: G
 lisan: Fransızca geysérite
 anlamlar:
 - ► kaynaç taşı

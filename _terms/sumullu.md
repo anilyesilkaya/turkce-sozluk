@@ -2,6 +2,7 @@
 layout: term
 title: şümullü
 slug: sumullu
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► kapsamlı

@@ -2,6 +2,7 @@
 layout: term
 title: gözünden (veya gözlerinden) uyku akmak
 slug: gozunden-veya-gozlerinden-uyku-akmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - çok uykulu olmak

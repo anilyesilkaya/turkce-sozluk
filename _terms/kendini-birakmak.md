@@ -2,6 +2,7 @@
 layout: term
 title: kendini bırakmak
 slug: kendini-birakmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kendine özen göstermemek

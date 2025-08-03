@@ -2,6 +2,7 @@
 layout: term
 title: atmosfer
 slug: atmosfer
+letter: A
 lisan: Fransızca atmosphère
 anlamlar:
 - Yeri veya herhangi bir gök cismini saran gaz tabakası; gaz yuvarı

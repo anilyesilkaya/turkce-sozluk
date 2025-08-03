@@ -2,6 +2,7 @@
 layout: term
 title: belli başlı
 slug: belli-basli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başta gelen

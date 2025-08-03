@@ -2,6 +2,7 @@
 layout: term
 title: linç etmek
 slug: linc-etmek
+letter: L
 lisan: Türkçe
 anlamlar:
 - yargılamadan öldürmek

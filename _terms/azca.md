@@ -2,6 +2,7 @@
 layout: term
 title: azca
 slug: azca
+letter: A
 lisan: Türkçe
 anlamlar:
 - Oldukça az

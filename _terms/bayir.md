@@ -2,6 +2,7 @@
 layout: term
 title: bayır
 slug: bayir
+letter: B
 lisan: Türkçe
 anlamlar:
 - Küçük yokuş; belen, kıran (II), şev

@@ -2,6 +2,7 @@
 layout: term
 title: gülümsemek
 slug: gulumsemek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güler gibi olmak, hafifçe gülmek

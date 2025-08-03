@@ -2,6 +2,7 @@
 layout: term
 title: binbir
 slug: binbir
+letter: B
 lisan: Türkçe
 anlamlar:
 - Pek çok, çok sayıda

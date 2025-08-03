@@ -2,6 +2,7 @@
 layout: term
 title: yaşam kavgası
 slug: yasam-kavgasi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► hayat mücadelesi

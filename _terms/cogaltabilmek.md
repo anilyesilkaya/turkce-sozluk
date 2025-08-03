@@ -2,6 +2,7 @@
 layout: term
 title: çoğaltabilmek
 slug: cogaltabilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çoğaltma ihtimali veya imkânı bulunmak

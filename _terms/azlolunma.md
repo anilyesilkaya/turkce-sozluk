@@ -2,6 +2,7 @@
 layout: term
 title: azlolunma
 slug: azlolunma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Azlolunmak işi

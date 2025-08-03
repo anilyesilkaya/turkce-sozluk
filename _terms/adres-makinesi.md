@@ -2,6 +2,7 @@
 layout: term
 title: adres makinesi
 slug: adres-makinesi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Posta gönderilerinin üzerine adres bilgilerini basan alet

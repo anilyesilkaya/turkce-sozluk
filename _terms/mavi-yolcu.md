@@ -2,6 +2,7 @@
 layout: term
 title: mavi yolcu
 slug: mavi-yolcu
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mavi yolculuğa çıkan kimse

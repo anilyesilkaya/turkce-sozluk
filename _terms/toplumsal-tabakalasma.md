@@ -2,6 +2,7 @@
 layout: term
 title: toplumsal tabakalaşma
 slug: toplumsal-tabakalasma
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► sosyal tabakalaşma

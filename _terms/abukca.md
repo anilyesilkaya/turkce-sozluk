@@ -2,6 +2,7 @@
 layout: term
 title: abukça
 slug: abukca
+letter: A
 lisan: Türkçe
 anlamlar:
 - Saçma bir biçimde

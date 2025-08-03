@@ -2,6 +2,7 @@
 layout: term
 title: kolpoya düşmek (veya gelmek)
 slug: kolpoya-dusmek-veya-gelmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - oyuna gelmek, tuzağa düşmek

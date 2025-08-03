@@ -2,6 +2,7 @@
 layout: term
 title: korkulu
 slug: korkulu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Korku veren, korkutan

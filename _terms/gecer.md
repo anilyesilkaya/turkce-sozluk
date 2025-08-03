@@ -2,6 +2,7 @@
 layout: term
 title: geçer
 slug: gecer
+letter: G
 lisan: Türkçe
 anlamlar:
 - Yürürlükte bulunan, geçerliği olan, kullanılan

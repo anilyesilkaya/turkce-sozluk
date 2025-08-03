@@ -2,6 +2,7 @@
 layout: term
 title: ödenekli tiyatro
 slug: odenekli-tiyatro
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Kamu genel bütçesinden belirlenmiş kuralları yerine getirerek pay alan özel tiyatro

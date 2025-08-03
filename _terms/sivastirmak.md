@@ -2,6 +2,7 @@
 layout: term
 title: sıvaştırmak
 slug: sivastirmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► bulaştırmak

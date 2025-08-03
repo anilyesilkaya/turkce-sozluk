@@ -2,6 +2,7 @@
 layout: term
 title: çetrefil
 slug: cetrefil
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Karışıklığı dolayısıyla, anlaşılması veya sonuca bağlanması güç

@@ -2,6 +2,7 @@
 layout: term
 title: inceleme
 slug: inceleme
+letter: I
 lisan: Türkçe
 anlamlar:
 - İncelemek işi; tetkik

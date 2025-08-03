@@ -2,6 +2,7 @@
 layout: term
 title: cehil
 slug: cehil
+letter: C
 lisan: Arapça cehl
 anlamlar:
 - ► bilgisizlik

@@ -2,6 +2,7 @@
 layout: term
 title: irkilmek
 slug: irkilmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Vücudun bir yeri dışarıdan gelen bir uyarıcının etkisiyle kanlanıp şişmek; taharrüş etmek

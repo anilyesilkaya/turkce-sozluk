@@ -2,6 +2,7 @@
 layout: term
 title: ihtirassızlık
 slug: ihtirassizlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İhtirassız olma durumu

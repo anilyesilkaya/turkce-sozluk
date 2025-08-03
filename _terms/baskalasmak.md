@@ -2,6 +2,7 @@
 layout: term
 title: başkalaşmak
 slug: baskalasmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başka bir varlığa, niteliğe dönüşmek, değişmek, farklılık kazanmak

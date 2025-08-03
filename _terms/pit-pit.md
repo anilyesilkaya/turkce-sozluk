@@ -2,6 +2,7 @@
 layout: term
 title: pıt pıt
 slug: pit-pit
+letter: P
 lisan: Türkçe
 anlamlar:
 - Arka arkaya “pıt” sesi çıkararak

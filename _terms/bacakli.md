@@ -2,6 +2,7 @@
 layout: term
 title: bacaklı
 slug: bacakli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bacağı olan

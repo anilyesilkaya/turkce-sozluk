@@ -2,6 +2,7 @@
 layout: term
 title: abluka
 slug: abluka
+letter: A
 lisan: İtalyanca ablóco
 anlamlar:
 - ► kuşatma

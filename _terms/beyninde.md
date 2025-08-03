@@ -2,6 +2,7 @@
 layout: term
 title: beyninde
 slug: beyninde
+letter: B
 lisan: Türkçe
 anlamlar:
 - Arasında

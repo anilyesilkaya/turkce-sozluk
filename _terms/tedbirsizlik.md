@@ -2,6 +2,7 @@
 layout: term
 title: tedbirsizlik
 slug: tedbirsizlik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tedbirsiz olma durumu

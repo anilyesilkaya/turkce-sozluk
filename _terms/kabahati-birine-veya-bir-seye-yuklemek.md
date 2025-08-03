@@ -2,6 +2,7 @@
 layout: term
 title: kabahati (birine veya bir şeye) yüklemek
 slug: kabahati-birine-veya-bir-seye-yuklemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - işlediği bir suçu başkasının üzerine atmak

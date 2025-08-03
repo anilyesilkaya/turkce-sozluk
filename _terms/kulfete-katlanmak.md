@@ -2,6 +2,7 @@
 layout: term
 title: külfete katlanmak
 slug: kulfete-katlanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - sıkıntıya, zorluğa dayanmak

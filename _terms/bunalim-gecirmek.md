@@ -2,6 +2,7 @@
 layout: term
 title: bunalım geçirmek
 slug: bunalim-gecirmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - herhangi bir sebeple oluşan bunalımı, bozgunu yaşamak

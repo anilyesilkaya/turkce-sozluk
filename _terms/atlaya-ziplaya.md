@@ -2,6 +2,7 @@
 layout: term
 title: atlaya zıplaya
 slug: atlaya-ziplaya
+letter: A
 lisan: Türkçe
 anlamlar:
 - Atlayarak

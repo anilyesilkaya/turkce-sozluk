@@ -2,6 +2,7 @@
 layout: term
 title: turp filizi
 slug: turp-filizi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Turp rengi

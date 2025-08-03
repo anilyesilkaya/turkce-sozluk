@@ -2,6 +2,7 @@
 layout: term
 title: anlatılmak
 slug: anlatilmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anlatma işine konu olmak

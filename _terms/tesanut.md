@@ -2,6 +2,7 @@
 layout: term
 title: tesanüt
 slug: tesanut
+letter: T
 lisan: Arapça tesānud
 anlamlar:
 - ► omuzdaşlık

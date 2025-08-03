@@ -2,6 +2,7 @@
 layout: term
 title: katlı
 slug: katli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Katlanmış, bükülmüş

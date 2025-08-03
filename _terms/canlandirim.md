@@ -2,6 +2,7 @@
 layout: term
 title: canlandırım
 slug: canlandirim
+letter: C
 lisan: Türkçe
 anlamlar:
 - Ortada kalan kalıntılarına göre bir eserin ana tasarısına uygun olarak yeniden çizimi

@@ -2,6 +2,7 @@
 layout: term
 title: derinleşme
 slug: derinlesme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Derinleşmek durumu

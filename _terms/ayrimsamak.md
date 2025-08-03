@@ -2,6 +2,7 @@
 layout: term
 title: ayrımsamak
 slug: ayrimsamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir şeyi anlamak, bir şeyi görmek

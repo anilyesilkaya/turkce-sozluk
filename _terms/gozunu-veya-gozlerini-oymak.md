@@ -2,6 +2,7 @@
 layout: term
 title: gözünü (veya gözlerini) oymak
 slug: gozunu-veya-gozlerini-oymak
+letter: G
 lisan: Türkçe
 anlamlar:
 - çok kötülük etmek

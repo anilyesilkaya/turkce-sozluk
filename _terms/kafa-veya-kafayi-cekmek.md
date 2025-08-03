@@ -2,6 +2,7 @@
 layout: term
 title: kafa (veya kafayı) çekmek
 slug: kafa-veya-kafayi-cekmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - içki içmek

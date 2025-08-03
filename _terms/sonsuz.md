@@ -2,6 +2,7 @@
 layout: term
 title: sonsuz
 slug: sonsuz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sonu olmayan, bitmeyen, ucu bucağı olmayan, hep kalacak olan; bengi (I), bitimsiz, tükenmez, sonrasız, ebedî, ilanihaye, namütenahi, payansız

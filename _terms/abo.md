@@ -2,6 +2,7 @@
 layout: term
 title: abo
 slug: abo
+letter: A
 lisan: Türkçe
 anlamlar:
 - Şaşma, hayret ve korku bildiren bir söz; abu

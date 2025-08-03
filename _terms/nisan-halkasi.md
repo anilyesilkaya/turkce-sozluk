@@ -2,6 +2,7 @@
 layout: term
 title: nişan halkası
 slug: nisan-halkasi
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► nişan yüzüğü

@@ -2,6 +2,7 @@
 layout: term
 title: sümbül
 slug: sumbul
+letter: S
 lisan: Farsça sunbul
 anlamlar:
 - Zambakgillerden, soğanla üretilen, keskin kokulu ve türlü renkli, çok yıllık bir süs bitkisi (Hyacinthus orientalis)

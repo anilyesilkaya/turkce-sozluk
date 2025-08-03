@@ -2,6 +2,7 @@
 layout: term
 title: mazgallı
 slug: mazgalli
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mazgalları olan

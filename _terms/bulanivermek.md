@@ -2,6 +2,7 @@
 layout: term
 title: bulanıvermek
 slug: bulanivermek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çabucak bulanmak

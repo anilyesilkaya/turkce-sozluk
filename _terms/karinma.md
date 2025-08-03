@@ -2,6 +2,7 @@
 layout: term
 title: karınma
 slug: karinma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karınmak işi

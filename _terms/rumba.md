@@ -2,6 +2,7 @@
 layout: term
 title: rumba
 slug: rumba
+letter: R
 lisan: Fransızca rumba
 anlamlar:
 - Küba'dan Amerika ve Avrupa'ya yayılan bir dans

@@ -2,6 +2,7 @@
 layout: term
 title: ümük
 slug: umuk
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - ► boğaz

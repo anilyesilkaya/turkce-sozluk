@@ -2,6 +2,7 @@
 layout: term
 title: lagün
 slug: lagun
+letter: L
 lisan: Fransızca lagune
 anlamlar:
 - Açık denizden bir kum setiyle ayrılan veya kıyı dilinin gelişmesiyle göl biçimini alan sığ koy veya körfez; deniz kulağı

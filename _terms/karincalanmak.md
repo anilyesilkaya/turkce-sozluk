@@ -2,6 +2,7 @@
 layout: term
 title: karıncalanmak
 slug: karincalanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir yere, bir şey üzerine karınca üşüşmek

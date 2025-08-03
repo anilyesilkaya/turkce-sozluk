@@ -2,6 +2,7 @@
 layout: term
 title: gezelemek
 slug: gezelemek
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► gezinmek

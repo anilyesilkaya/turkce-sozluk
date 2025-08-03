@@ -2,6 +2,7 @@
 layout: term
 title: bağımlı
 slug: bagimli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başka bir şeyin istemine, gücüne veya yardımına bağlı olan, özgürlüğü, özerkliği olmayan; tabi (I)

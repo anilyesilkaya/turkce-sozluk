@@ -2,6 +2,7 @@
 layout: term
 title: muvakkaten
 slug: muvakkaten
+letter: M
 lisan: Arapça muvaḳḳaten
 anlamlar:
 - Az bir zaman süresince, geçici olarak, eğreti olarak

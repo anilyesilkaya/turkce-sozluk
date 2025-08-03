@@ -2,6 +2,7 @@
 layout: term
 title: züppece
 slug: zuppece
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Züppeye yakışır bir biçimde

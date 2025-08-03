@@ -2,6 +2,7 @@
 layout: term
 title: fışkırma
 slug: fiskirma
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fışkırmak işi

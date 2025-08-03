@@ -2,6 +2,7 @@
 layout: term
 title: bileştirme
 slug: bilestirme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bileştirmek işi

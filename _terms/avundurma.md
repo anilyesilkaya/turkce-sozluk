@@ -2,6 +2,7 @@
 layout: term
 title: avundurma
 slug: avundurma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Avundurmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: bağlantısız
 slug: baglantisiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Aralarında bağlantı bulunmayan; irtibatsız, rabıtasız, angajmansız

@@ -2,6 +2,7 @@
 layout: term
 title: müsaade almak
 slug: musaade-almak
+letter: M
 lisan: Türkçe
 anlamlar:
 - izin almak

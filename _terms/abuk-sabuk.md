@@ -2,6 +2,7 @@
 layout: term
 title: abuk sabuk
 slug: abuk-sabuk
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► saçma

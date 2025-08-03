@@ -2,6 +2,7 @@
 layout: term
 title: yeni yeni
 slug: yeni-yeni
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yeni olarak, bugünlerde, çok yakınlarda

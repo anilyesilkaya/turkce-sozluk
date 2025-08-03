@@ -2,6 +2,7 @@
 layout: term
 title: bilahare
 slug: bilahare
+letter: B
 lisan: Arapça bi'l-āḫire
 anlamlar:
 - ► sonra

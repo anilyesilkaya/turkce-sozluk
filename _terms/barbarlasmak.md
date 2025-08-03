@@ -2,6 +2,7 @@
 layout: term
 title: barbarlaşmak
 slug: barbarlasmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Barbar gibi davranmak

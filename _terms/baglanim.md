@@ -2,6 +2,7 @@
 layout: term
 title: bağlanım
 slug: baglanim
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağlanmak işi

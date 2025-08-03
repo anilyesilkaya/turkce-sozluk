@@ -2,6 +2,7 @@
 layout: term
 title: iyi kötü
 slug: iyi-kotu
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► şöyle böyle

@@ -2,6 +2,7 @@
 layout: term
 title: ananasgiller
 slug: ananasgiller
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir çeneklilerden, sıcak ülkelerde yetişen ve örneği ananas olan bitki familyası

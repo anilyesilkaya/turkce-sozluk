@@ -2,6 +2,7 @@
 layout: term
 title: başkaldırma
 slug: baskaldirma
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► başkaldırı

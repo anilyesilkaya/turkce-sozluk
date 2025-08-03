@@ -2,6 +2,7 @@
 layout: term
 title: sinir
 slug: sinir
+letter: S
 lisan: Türkçe
 anlamlar:
 - Duyu ve hareket uyarılarını beyinden organlara, organlardan beyne ileten beyazımsı teller ve bu tellerin oluşturduğu demet; asap

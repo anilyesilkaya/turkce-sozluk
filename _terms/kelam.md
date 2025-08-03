@@ -2,6 +2,7 @@
 layout: term
 title: kelam
 slug: kelam
+letter: K
 lisan: Arapça kelām
 anlamlar:
 - ► söz

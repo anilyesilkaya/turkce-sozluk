@@ -2,6 +2,7 @@
 layout: term
 title: sıcaklık
 slug: sicaklik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıcak olan şeyin durumu, etkisi veya sıcak olan şeyin niteliği; alev (I), hararet

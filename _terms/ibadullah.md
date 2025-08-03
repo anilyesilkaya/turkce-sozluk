@@ -2,6 +2,7 @@
 layout: term
 title: ibadullah
 slug: ibadullah
+letter: I
 lisan: Arapça ʿibādullah
 anlamlar:
 - Tanrı'nın kulları

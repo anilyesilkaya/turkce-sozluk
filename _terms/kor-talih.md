@@ -2,6 +2,7 @@
 layout: term
 title: kör talih
 slug: kor-talih
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kötü olan kader

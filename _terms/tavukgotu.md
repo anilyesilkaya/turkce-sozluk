@@ -2,6 +2,7 @@
 layout: term
 title: tavukgötü
 slug: tavukgotu
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► siğil

@@ -2,6 +2,7 @@
 layout: term
 title: topal
 slug: topal
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bacak veya ayağındaki sakatlık sebebiyle seker gibi veya iki adımda bir, bir yana eğilerek yürüyen (insan veya hayvan)

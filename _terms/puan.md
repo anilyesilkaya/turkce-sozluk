@@ -2,6 +2,7 @@
 layout: term
 title: puan
 slug: puan
+letter: P
 lisan: Fransızca point
 anlamlar:
 - Çeşitli spor karşılaşmalarında kullanılan ölçüsü ve değeri değişken birim

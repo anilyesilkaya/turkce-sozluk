@@ -2,6 +2,7 @@
 layout: term
 title: format
 slug: format
+letter: F
 lisan: İngilizce format
 anlamlar:
 - ► biçim (II)

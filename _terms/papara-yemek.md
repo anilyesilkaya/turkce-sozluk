@@ -2,6 +2,7 @@
 layout: term
 title: papara yemek
 slug: papara-yemek
+letter: P
 lisan: Türkçe
 anlamlar:
 - azar işitmek

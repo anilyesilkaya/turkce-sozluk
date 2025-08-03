@@ -2,6 +2,7 @@
 layout: term
 title: mecnun
 slug: mecnun
+letter: M
 lisan: Arapça mecnūn
 anlamlar:
 - Sevdadan ötürü kendini kaybetmiş

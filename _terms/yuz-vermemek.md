@@ -2,6 +2,7 @@
 layout: term
 title: yüz vermemek
 slug: yuz-vermemek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ilgi, yakınlık göstermemek

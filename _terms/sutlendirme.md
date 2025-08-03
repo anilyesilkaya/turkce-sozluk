@@ -2,6 +2,7 @@
 layout: term
 title: sütlendirme
 slug: sutlendirme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sütlendirmek işi

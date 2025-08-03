@@ -2,6 +2,7 @@
 layout: term
 title: balçıklaşmak
 slug: balciklasmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Balçık durumuna gelmek

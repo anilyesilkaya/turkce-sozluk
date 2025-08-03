@@ -2,6 +2,7 @@
 layout: term
 title: şoför mahalli
 slug: sofor-mahalli
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Ağır vasıtaların önünde yer alan, şoförün ve yanındakilerin oturması için düzenlenmiş bölüm

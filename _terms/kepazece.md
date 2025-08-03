@@ -2,6 +2,7 @@
 layout: term
 title: kepazece
 slug: kepazece
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kepazeye yakışır

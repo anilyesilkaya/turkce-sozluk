@@ -2,6 +2,7 @@
 layout: term
 title: ziyaret etmek
 slug: ziyaret-etmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - birini görmeye gitmek

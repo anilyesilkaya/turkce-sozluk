@@ -2,6 +2,7 @@
 layout: term
 title: figüranlık
 slug: figuranlik
+letter: F
 lisan: Türkçe
 anlamlar:
 - Figüranın yaptığı iş

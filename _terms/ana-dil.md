@@ -2,6 +2,7 @@
 layout: term
 title: ana dil
 slug: ana-dil
+letter: A
 lisan: Türkçe
 anlamlar:
 - Zaman içerisinde ses, biçim ve anlam bakımından birbirinden az çok farklılaşmış olan dillerin ortak kaynağı kabul edilen dil

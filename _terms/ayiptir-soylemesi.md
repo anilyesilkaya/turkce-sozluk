@@ -2,6 +2,7 @@
 layout: term
 title: ayıptır söylemesi
 slug: ayiptir-soylemesi
+letter: A
 lisan: Türkçe
 anlamlar:
 - '"bunu söylemek size karşı saygısızlık olacak ancak söylemek zorundayım" anlamında özür dilemek için kullanılan bir söz'

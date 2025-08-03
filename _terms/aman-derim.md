@@ -2,6 +2,7 @@
 layout: term
 title: aman derim!
 slug: aman-derim
+letter: A
 lisan: Türkçe
 anlamlar:
 - '"sakın ha, böyle bir iş yapayım deme" anlamında kullanılan bir söz'

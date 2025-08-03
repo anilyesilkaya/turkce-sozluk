@@ -2,6 +2,7 @@
 layout: term
 title: ok yaydan (veya yayından) çıkmak
 slug: ok-yaydan-veya-yayindan-cikmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - geri dönülemeyecek bir iş yapmak

@@ -2,6 +2,7 @@
 layout: term
 title: karıştırıcılık
 slug: karistiricilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► fitnecilik

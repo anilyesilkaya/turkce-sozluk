@@ -2,6 +2,7 @@
 layout: term
 title: fırfırlı
 slug: firfirli
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fırfırı olan; farbalalı, farbalı

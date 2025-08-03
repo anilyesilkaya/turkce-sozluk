@@ -2,6 +2,7 @@
 layout: term
 title: barut fıçısı gibi
 slug: barut-ficisi-gibi
+letter: B
 lisan: Türkçe
 anlamlar:
 - çok kızgın, sinirli (kimse)

@@ -2,6 +2,7 @@
 layout: term
 title: yazıcı
 slug: yazici
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yazar

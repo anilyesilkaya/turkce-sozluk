@@ -2,6 +2,7 @@
 layout: term
 title: curcuna havası
 slug: curcuna-havasi
+letter: C
 lisan: Türkçe
 anlamlar:
 - Karışık, gürültülü durum

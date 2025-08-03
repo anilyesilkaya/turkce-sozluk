@@ -2,6 +2,7 @@
 layout: term
 title: radikalleşmek
 slug: radikallesmek
+letter: R
 lisan: Türkçe
 anlamlar:
 - Köktenci olmak

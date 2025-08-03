@@ -2,6 +2,7 @@
 layout: term
 title: bütünleşebilmek
 slug: butunlesebilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bütünleşme ihtimali veya imkânı bulunmak

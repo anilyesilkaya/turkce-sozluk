@@ -2,6 +2,7 @@
 layout: term
 title: hiç
 slug: hic
+letter: H
 lisan: Farsça hīç
 anlamlar:
 - Olumsuz yargılı cümlelerde fiilin anlamını pekiştiren bir söz

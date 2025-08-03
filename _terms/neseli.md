@@ -2,6 +2,7 @@
 layout: term
 title: neşeli
 slug: neseli
+letter: N
 lisan: Türkçe
 anlamlar:
 - Neşesi olan; keyifli, pürneşe

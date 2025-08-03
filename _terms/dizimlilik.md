@@ -2,6 +2,7 @@
 layout: term
 title: dizimlilik
 slug: dizimlilik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dizilmiş olma durumu

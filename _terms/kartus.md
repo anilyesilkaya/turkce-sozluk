@@ -2,6 +2,7 @@
 layout: term
 title: kartuş
 slug: kartus
+letter: K
 lisan: Fransızca cartouche
 anlamlar:
 - Merminin arkasından namluya sürülen bezden veya kartondan barut kesesi; hartuç

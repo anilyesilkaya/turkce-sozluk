@@ -2,6 +2,7 @@
 layout: term
 title: nadiren
 slug: nadiren
+letter: N
 lisan: Arapça nādiren
 anlamlar:
 - ► seyrek

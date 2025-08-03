@@ -2,6 +2,7 @@
 layout: term
 title: hakkı tanımak
 slug: hakki-tanimak
+letter: H
 lisan: Türkçe
 anlamlar:
 - izin vermek

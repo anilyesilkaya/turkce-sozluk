@@ -2,6 +2,7 @@
 layout: term
 title: danışıklı dövüş
 slug: danisikli-dovus
+letter: D
 lisan: Türkçe
 anlamlar:
 - Başkalarını aldatmak veya atlatmak için önceden yapılmış gizli anlaşmaya dayanan davranış

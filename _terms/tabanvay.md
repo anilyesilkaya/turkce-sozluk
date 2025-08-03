@@ -2,6 +2,7 @@
 layout: term
 title: tabanvay
 slug: tabanvay
+letter: T
 lisan: Türkçe taban + İngilizce way
 anlamlar:
 - ► yayan

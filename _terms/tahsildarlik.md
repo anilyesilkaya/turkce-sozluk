@@ -2,6 +2,7 @@
 layout: term
 title: tahsildarlık
 slug: tahsildarlik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tahsildarın görevi; alımcılık, vergicilik

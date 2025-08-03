@@ -2,6 +2,7 @@
 layout: term
 title: numaralı
 slug: numarali
+letter: N
 lisan: Türkçe
 anlamlar:
 - Belli bir numarası olan

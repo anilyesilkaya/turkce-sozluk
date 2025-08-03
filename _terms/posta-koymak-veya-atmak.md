@@ -2,6 +2,7 @@
 layout: term
 title: posta koymak (veya atmak)
 slug: posta-koymak-veya-atmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - birini korkutmak, gözdağı vermek

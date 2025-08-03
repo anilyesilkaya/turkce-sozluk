@@ -2,6 +2,7 @@
 layout: term
 title: hazırlık devresi
 slug: hazirlik-devresi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hazırlık dönemi

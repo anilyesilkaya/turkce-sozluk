@@ -2,6 +2,7 @@
 layout: term
 title: eşlik etmek
 slug: eslik-etmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - bir solist, bir çalgı veya orkestra ile birlikte müzik icra etmek, refakat etmek

@@ -2,6 +2,7 @@
 layout: term
 title: bahtına küsmek
 slug: bahtina-kusmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - kötü yazgısından yakınmak

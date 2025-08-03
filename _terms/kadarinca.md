@@ -2,6 +2,7 @@
 layout: term
 title: kadarınca
 slug: kadarinca
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kadar

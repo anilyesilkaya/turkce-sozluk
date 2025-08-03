@@ -2,6 +2,7 @@
 layout: term
 title: başına bela olmak (veya kesilmek)
 slug: basina-bela-olmak-veya-kesilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - sıkıntı vermek, tedirgin etmek, musallat olmak

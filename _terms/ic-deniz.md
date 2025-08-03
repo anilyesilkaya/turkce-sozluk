@@ -2,6 +2,7 @@
 layout: term
 title: iç deniz
 slug: ic-deniz
+letter: I
 lisan: Türkçe
 anlamlar:
 - Boğazlarla ana denize bağlı olan deniz; dâhilî deniz

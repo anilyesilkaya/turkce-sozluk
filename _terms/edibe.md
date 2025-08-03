@@ -2,6 +2,7 @@
 layout: term
 title: edibe
 slug: edibe
+letter: E
 lisan: Arapça edįbe
 anlamlar:
 - Edebiyatla uğraşan, edebî eser veren kadın

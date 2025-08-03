@@ -2,6 +2,7 @@
 layout: term
 title: sıcak
 slug: sicak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Yakmayacak derecede ısısı olan, yakmayacak kadar ısı veren, soğuk karşıtı

@@ -2,6 +2,7 @@
 layout: term
 title: silki
 slug: silki
+letter: S
 lisan: Türkçe
 anlamlar:
 - Uykuda sıçrama

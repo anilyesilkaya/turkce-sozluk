@@ -2,6 +2,7 @@
 layout: term
 title: güvenebilmek
 slug: guvenebilmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güvenme ihtimali veya imkânı bulunmak

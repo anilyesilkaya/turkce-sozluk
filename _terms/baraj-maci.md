@@ -2,6 +2,7 @@
 layout: term
 title: baraj maçı
 slug: baraj-maci
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► eleme

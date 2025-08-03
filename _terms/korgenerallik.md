@@ -2,6 +2,7 @@
 layout: term
 title: korgenerallik
 slug: korgenerallik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Korgeneral olma durumu; feriklik

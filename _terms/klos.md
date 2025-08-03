@@ -2,6 +2,7 @@
 layout: term
 title: kloş
 slug: klos
+letter: K
 lisan: Fransızca cloche
 anlamlar:
 - Alt tarafı çan biçiminde genişleyen (etek)

@@ -2,6 +2,7 @@
 layout: term
 title: tül
 slug: tul
+letter: T
 lisan: Fransızca tulle
 anlamlar:
 - Çok ince gözenekli pamuk, ipek veya sentetik dokuma

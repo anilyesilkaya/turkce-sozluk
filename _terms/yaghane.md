@@ -2,6 +2,7 @@
 layout: term
 title: yağhane
 slug: yaghane
+letter: Y
 lisan: Türkçe yağ + Farsça ḫāne
 anlamlar:
 - Bitkisel ve hayvansal yağ elde edilen yer

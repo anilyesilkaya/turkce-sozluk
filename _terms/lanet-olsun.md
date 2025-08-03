@@ -2,6 +2,7 @@
 layout: term
 title: lanet olsun!
 slug: lanet-olsun
+letter: L
 lisan: Türkçe
 anlamlar:
 - Öfke veya kini ifade etmek için kullanlan bir ilenme sözü

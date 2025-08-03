@@ -2,6 +2,7 @@
 layout: term
 title: hunnak
 slug: hunnak
+letter: H
 lisan: Arapça ḫunnāḳ
 anlamlar:
 - ► anjin

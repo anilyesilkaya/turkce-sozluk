@@ -2,6 +2,7 @@
 layout: term
 title: çok olmak
 slug: cok-olmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - haddini aşarak karşısındakini usandırmak

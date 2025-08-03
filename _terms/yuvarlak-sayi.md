@@ -2,6 +2,7 @@
 layout: term
 title: yuvarlak sayı
 slug: yuvarlak-sayi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bütüne tamamlanmış sayı; toparlak sayı, toparlak rakam

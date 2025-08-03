@@ -2,6 +2,7 @@
 layout: term
 title: küstahlaşmak
 slug: kustahlasmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Küstah duruma gelmek

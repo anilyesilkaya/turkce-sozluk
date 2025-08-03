@@ -2,6 +2,7 @@
 layout: term
 title: kaçışma
 slug: kacisma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaçışmak işi

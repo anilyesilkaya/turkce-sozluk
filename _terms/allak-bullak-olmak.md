@@ -2,6 +2,7 @@
 layout: term
 title: allak bullak olmak
 slug: allak-bullak-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - çok karışık duruma gelmek, altı üstüne gelmek, karmakarışık olmak, düzeni bozulmak

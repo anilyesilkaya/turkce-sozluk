@@ -2,6 +2,7 @@
 layout: term
 title: çalışkan
 slug: caliskan
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Gayretli, çalışmayı seven; yüğrük, gayretkeş

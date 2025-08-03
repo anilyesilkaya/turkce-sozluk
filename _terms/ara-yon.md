@@ -2,6 +2,7 @@
 layout: term
 title: ara yön
 slug: ara-yon
+letter: A
 lisan: Türkçe
 anlamlar:
 - Dört ana yönden ikisi arasında olan yönlerden her biri; asyön

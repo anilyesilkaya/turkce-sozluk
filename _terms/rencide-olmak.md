@@ -2,6 +2,7 @@
 layout: term
 title: rencide olmak
 slug: rencide-olmak
+letter: R
 lisan: Türkçe
 anlamlar:
 - incinmek, kalbi kırılmak

@@ -2,6 +2,7 @@
 layout: term
 title: kazınmak
 slug: kazinmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kendi kendini kazımak

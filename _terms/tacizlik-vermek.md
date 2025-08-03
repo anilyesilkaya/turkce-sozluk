@@ -2,6 +2,7 @@
 layout: term
 title: tacizlik vermek
 slug: tacizlik-vermek
+letter: T
 lisan: Türkçe
 anlamlar:
 - tedirgin etmek

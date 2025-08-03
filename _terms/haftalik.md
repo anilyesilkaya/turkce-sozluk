@@ -2,6 +2,7 @@
 layout: term
 title: haftalık
 slug: haftalik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Haftada bir ödenen para

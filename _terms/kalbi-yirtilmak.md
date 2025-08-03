@@ -2,6 +2,7 @@
 layout: term
 title: kalbi yırtılmak
 slug: kalbi-yirtilmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - acı duymak

@@ -2,6 +2,7 @@
 layout: term
 title: gönülsüzce
 slug: gonulsuzce
+letter: G
 lisan: Türkçe
 anlamlar:
 - İsteksiz bir biçimde, istemeyerek

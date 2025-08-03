@@ -2,6 +2,7 @@
 layout: term
 title: buyuru
 slug: buyuru
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► emir

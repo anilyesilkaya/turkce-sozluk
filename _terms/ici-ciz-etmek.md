@@ -2,6 +2,7 @@
 layout: term
 title: içi cız etmek
 slug: ici-ciz-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - ansızın içi sızlamak

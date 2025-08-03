@@ -2,6 +2,7 @@
 layout: term
 title: hermafrodit
 slug: hermafrodit
+letter: H
 lisan: İngilizce hermaphrodite
 anlamlar:
 - ► erdişi

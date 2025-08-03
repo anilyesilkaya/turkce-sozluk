@@ -2,6 +2,7 @@
 layout: term
 title: hububat
 slug: hububat
+letter: H
 lisan: Arapça ḥubūbāt
 anlamlar:
 - ► tahıl

@@ -2,6 +2,7 @@
 layout: term
 title: proje
 slug: proje
+letter: P
 lisan: Fransızca projet
 anlamlar:
 - Değişik alanlarda önceden plan ve programa alınmış, maliyeti hesaplanmış, kurum ve kuruluşların yönetim organları tarafından onaylanmış, kısa ve uzun vadeye bağlanarak özel kurum veya devlet adına gerçekleştirilmesi kabul edilmiş bilimsel çalışma tasarısı

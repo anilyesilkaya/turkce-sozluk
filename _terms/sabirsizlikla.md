@@ -2,6 +2,7 @@
 layout: term
 title: sabırsızlıkla
 slug: sabirsizlikla
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sabır göstermeden, sabredemeyerek, sabırsız bir biçimde

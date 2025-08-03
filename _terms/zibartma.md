@@ -2,6 +2,7 @@
 layout: term
 title: zıbartma
 slug: zibartma
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zıbartmak işi

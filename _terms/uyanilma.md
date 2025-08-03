@@ -2,6 +2,7 @@
 layout: term
 title: uyanılma
 slug: uyanilma
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyanılmak işi

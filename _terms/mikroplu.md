@@ -2,6 +2,7 @@
 layout: term
 title: mikroplu
 slug: mikroplu
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mikrop içeren, mikropla bulaşan; intani, mikrobik

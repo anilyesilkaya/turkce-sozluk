@@ -2,6 +2,7 @@
 layout: term
 title: içerleme
 slug: icerleme
+letter: I
 lisan: Türkçe
 anlamlar:
 - İçerlemek işi

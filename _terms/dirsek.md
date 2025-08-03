@@ -2,6 +2,7 @@
 layout: term
 title: dirsek
 slug: dirsek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Kol ile ön kol arasındaki eklemin arka yanı

@@ -2,6 +2,7 @@
 layout: term
 title: kaşık kadar
 slug: kasik-kadar
+letter: K
 lisan: Türkçe
 anlamlar:
 - çok küçük

@@ -2,6 +2,7 @@
 layout: term
 title: yaban çileği
 slug: yaban-cilegi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► dağ çileği

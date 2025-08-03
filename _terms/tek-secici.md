@@ -2,6 +2,7 @@
 layout: term
 title: tek seçici
 slug: tek-secici
+letter: T
 lisan: Türkçe
 anlamlar:
 - Herhangi bir seçimde tek yetkili olan kimse

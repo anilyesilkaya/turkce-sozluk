@@ -2,6 +2,7 @@
 layout: term
 title: kütlü
 slug: kutlu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çekirdekli, çiğitli pamuk

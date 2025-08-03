@@ -2,6 +2,7 @@
 layout: term
 title: özgülemek
 slug: ozgulemek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Bir şey veya bir yeri birine, bir şeye ayırmak, vermek, hasretmek, tahsis etmek

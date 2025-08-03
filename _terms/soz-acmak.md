@@ -2,6 +2,7 @@
 layout: term
 title: söz açmak
 slug: soz-acmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - bir konu üzerine konuşmaya başlamak

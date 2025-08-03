@@ -2,6 +2,7 @@
 layout: term
 title: yakınlarda
 slug: yakinlarda
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yakın yerlerde, çevrede

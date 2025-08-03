@@ -2,6 +2,7 @@
 layout: term
 title: abandırmak
 slug: abandirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir kimsenin veya bir şeyin bir yere veya bir kimseye yaslanmasını sağlamak

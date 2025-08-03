@@ -2,6 +2,7 @@
 layout: term
 title: nüfuzkâr
 slug: nufuzkar
+letter: N
 lisan: Arapça nufūẕ + Farsça -kār
 anlamlar:
 - Etkileyici, güçlü

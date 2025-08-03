@@ -2,6 +2,7 @@
 layout: term
 title: yakıştırılma
 slug: yakistirilma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yakıştırılmak işi

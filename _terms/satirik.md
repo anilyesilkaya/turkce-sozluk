@@ -2,6 +2,7 @@
 layout: term
 title: satirik
 slug: satirik
+letter: S
 lisan: Fransızca satirique
 anlamlar:
 - Yergi ile ilgili, yergi niteliğinde olan

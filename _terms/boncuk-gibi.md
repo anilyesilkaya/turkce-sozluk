@@ -2,6 +2,7 @@
 layout: term
 title: boncuk gibi
 slug: boncuk-gibi
+letter: B
 lisan: Türkçe
 anlamlar:
 - çok küçük

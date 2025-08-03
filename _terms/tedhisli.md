@@ -2,6 +2,7 @@
 layout: term
 title: tedhişli
 slug: tedhisli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Terör dolu

@@ -2,6 +2,7 @@
 layout: term
 title: homurdamak
 slug: homurdamak
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► homurdanmak

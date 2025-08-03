@@ -2,6 +2,7 @@
 layout: term
 title: borsa
 slug: borsa
+letter: B
 lisan: İtalyanca borsa
 anlamlar:
 - Senet, bono, tahvil, hisse senedi vb. taşınır değerlerin alım satımının yapıldığı piyasa

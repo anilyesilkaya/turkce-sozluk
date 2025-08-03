@@ -2,6 +2,7 @@
 layout: term
 title: fırlatabilmek
 slug: firlatabilmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fırlatma ihtimali veya imkânı bulunmak

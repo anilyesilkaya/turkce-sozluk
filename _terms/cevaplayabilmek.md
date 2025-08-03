@@ -2,6 +2,7 @@
 layout: term
 title: cevaplayabilmek
 slug: cevaplayabilmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cevaplama ihtimali veya imkânı bulunmak; yanıtlayabilmek

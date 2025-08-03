@@ -2,6 +2,7 @@
 layout: term
 title: kanca burunlu
 slug: kanca-burunlu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Burnunun ucu dudağına doğru eğik ve ince olan (kimse)

@@ -2,6 +2,7 @@
 layout: term
 title: sağlıcakla
 slug: saglicakla
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sağlıkla, rahatlık içinde

@@ -2,6 +2,7 @@
 layout: term
 title: pırıltılı
 slug: piriltili
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pırıltı ve parlak olan

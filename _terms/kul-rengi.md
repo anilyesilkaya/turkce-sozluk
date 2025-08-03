@@ -2,6 +2,7 @@
 layout: term
 title: kül rengi
 slug: kul-rengi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Odunun yanmasıyla oluşan külün akla kara arasındaki rengi; boz, demir rengi, demirî, gri

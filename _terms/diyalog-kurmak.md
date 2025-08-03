@@ -2,6 +2,7 @@
 layout: term
 title: diyalog kurmak
 slug: diyalog-kurmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - anlaşma ve uyum sağlayacak yolda karşılıklı konuşmak

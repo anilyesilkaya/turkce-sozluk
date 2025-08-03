@@ -2,6 +2,7 @@
 layout: term
 title: haberleşebilmek
 slug: haberlesebilmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - Haberleşme ihtimali veya imkânı bulunmak

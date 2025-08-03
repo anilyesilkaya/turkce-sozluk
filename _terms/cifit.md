@@ -2,6 +2,7 @@
 layout: term
 title: çıfıt
 slug: cifit
+letter: Ç
 lisan: Arapça ceḥūd
 anlamlar:
 - Hile yapan

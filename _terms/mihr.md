@@ -2,6 +2,7 @@
 layout: term
 title: mihr
 slug: mihr
+letter: M
 lisan: Arapça mehr
 anlamlar:
 - Müslüman bir erkeğin nikâh esnasında eşine vermeyi kabullendiği mal veya para

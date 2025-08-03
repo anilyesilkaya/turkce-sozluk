@@ -2,6 +2,7 @@
 layout: term
 title: türkü söylemek
 slug: turku-soylemek
+letter: T
 lisan: Türkçe
 anlamlar:
 - ezgisiyle bir türküyü seslendirmek

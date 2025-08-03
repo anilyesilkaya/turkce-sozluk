@@ -2,6 +2,7 @@
 layout: term
 title: ümitlenmek
 slug: umitlenmek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - ► umutlanmak

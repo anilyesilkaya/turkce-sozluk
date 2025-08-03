@@ -2,6 +2,7 @@
 layout: term
 title: kenar gezmek
 slug: kenar-gezmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir şeyden uzaklaşmış olmak

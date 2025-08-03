@@ -2,6 +2,7 @@
 layout: term
 title: agresif
 slug: agresif
+letter: A
 lisan: Fransızca agressif
 anlamlar:
 - ► saldırgan

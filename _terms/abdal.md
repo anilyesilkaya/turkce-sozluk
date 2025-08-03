@@ -2,6 +2,7 @@
 layout: term
 title: abdal
 slug: abdal
+letter: A
 lisan: Arapça abdāl
 anlamlar:
 - Dilenci kılıklı, üstü başı perişan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: maşrık
 slug: masrik
+letter: M
 lisan: Arapça maşriḳ
 anlamlar:
 - ► doğu

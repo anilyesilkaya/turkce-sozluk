@@ -2,6 +2,7 @@
 layout: term
 title: şümullülük
 slug: sumulluluk
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► kapsamlılık

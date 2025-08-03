@@ -2,6 +2,7 @@
 layout: term
 title: orospuluk
 slug: orospuluk
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► fahişelik

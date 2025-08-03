@@ -2,6 +2,7 @@
 layout: term
 title: çevirmek
 slug: cevirmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir şeyin yönünü değiştirmek

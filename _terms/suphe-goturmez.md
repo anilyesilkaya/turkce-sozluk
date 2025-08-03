@@ -2,6 +2,7 @@
 layout: term
 title: şüphe götürmez
 slug: suphe-goturmez
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - kuşku duyulacak bir tarafı olmayan

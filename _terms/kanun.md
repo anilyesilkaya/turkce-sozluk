@@ -2,6 +2,7 @@
 layout: term
 title: kânun
 slug: kanun
+letter: K
 lisan: Arapça kānūn
 anlamlar:
 - Eski takvimde aralık ve ocak ayları için kullanılan ortak isim

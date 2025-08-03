@@ -2,6 +2,7 @@
 layout: term
 title: çözünürlük
 slug: cozunurluk
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir maddenin başka bir madde içinde çözünme özelliği; resolüsyon

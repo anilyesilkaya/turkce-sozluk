@@ -2,6 +2,7 @@
 layout: term
 title: avlatmak
 slug: avlatmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Avlanma işini yaptırmak

@@ -2,6 +2,7 @@
 layout: term
 title: banlamak
 slug: banlamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Horoz ötmek

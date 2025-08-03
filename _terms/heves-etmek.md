@@ -2,6 +2,7 @@
 layout: term
 title: heves etmek
 slug: heves-etmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - bir şeye karşı istek duymak, eğilimli olmak

@@ -2,6 +2,7 @@
 layout: term
 title: tırmalamak
 slug: tirmalamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tırnaklarıyla çizmek; tırnaklamak, tırmıklamak, cırmalamak, cırmaklamak, cırnaklamak

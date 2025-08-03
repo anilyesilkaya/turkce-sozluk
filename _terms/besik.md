@@ -2,6 +2,7 @@
 layout: term
 title: beşik
 slug: besik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bebekleri yatırmaya ve sallayarak uyutmaya yarayan, tahta veya demirden yapılmış sallanır bir tür küçük karyola

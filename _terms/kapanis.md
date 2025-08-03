@@ -2,6 +2,7 @@
 layout: term
 title: kapanış
 slug: kapanis
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kapanmak işi

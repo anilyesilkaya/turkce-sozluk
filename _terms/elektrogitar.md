@@ -2,6 +2,7 @@
 layout: term
 title: elektrogitar
 slug: elektrogitar
+letter: E
 lisan: Fransızca électro-guitare
 anlamlar:
 - Elektrikten yararlanılarak sesi yükseltilen gitar

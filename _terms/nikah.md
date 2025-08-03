@@ -2,6 +2,7 @@
 layout: term
 title: nikâh
 slug: nikah
+letter: N
 lisan: Arapça nikāḥ
 anlamlar:
 - Bir erkekle bir kadının evlilik birliği kurmasını sağlayacak yasal işlem; evlilik akdi, akit

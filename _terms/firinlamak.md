@@ -2,6 +2,7 @@
 layout: term
 title: fırınlamak
 slug: firinlamak
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fırında pişirmek

@@ -2,6 +2,7 @@
 layout: term
 title: uçaksavar
 slug: ucaksavar
+letter: U
 lisan: Türkçe
 anlamlar:
 - Hava hedeflerine karşı yerden kullanılan silahlara verilen genel ad

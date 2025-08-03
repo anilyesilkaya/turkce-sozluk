@@ -2,6 +2,7 @@
 layout: term
 title: aması maması yok!
 slug: amasi-mamasi-yok
+letter: A
 lisan: Türkçe
 anlamlar:
 - hiçbir özrün geçerli olamayacağını anlatan bir söz

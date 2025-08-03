@@ -2,6 +2,7 @@
 layout: term
 title: çalıştırılış
 slug: calistirilis
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çalıştırılmak işi

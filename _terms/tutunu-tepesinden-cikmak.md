@@ -2,6 +2,7 @@
 layout: term
 title: tütünü tepesinden çıkmak
 slug: tutunu-tepesinden-cikmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - dumanı tepesinden çıkmak

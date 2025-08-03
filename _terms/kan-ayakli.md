@@ -2,6 +2,7 @@
 layout: term
 title: kan ayaklı
 slug: kan-ayakli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çaresiz, zavallı

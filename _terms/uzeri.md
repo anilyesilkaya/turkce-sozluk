@@ -2,6 +2,7 @@
 layout: term
 title: üzeri
 slug: uzeri
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - ► üst

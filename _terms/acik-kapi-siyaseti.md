@@ -2,6 +2,7 @@
 layout: term
 title: açık kapı siyaseti
 slug: acik-kapi-siyaseti
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► açık kapı politikası

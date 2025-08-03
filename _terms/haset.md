@@ -2,6 +2,7 @@
 layout: term
 title: haset
 slug: haset
+letter: H
 lisan: Arapça ḥased
 anlamlar:
 - ► kıskançlık

@@ -2,6 +2,7 @@
 layout: term
 title: dolmuşçu
 slug: dolmuscu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dolmuş işleten kimse

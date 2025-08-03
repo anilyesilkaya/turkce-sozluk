@@ -2,6 +2,7 @@
 layout: term
 title: umulmadık
 slug: umulmadik
+letter: U
 lisan: Türkçe
 anlamlar:
 - Beklenmeyen, umulmayan

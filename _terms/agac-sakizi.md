@@ -2,6 +2,7 @@
 layout: term
 title: ağaç sakızı
 slug: agac-sakizi
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► reçine

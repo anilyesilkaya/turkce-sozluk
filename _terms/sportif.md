@@ -2,6 +2,7 @@
 layout: term
 title: sportif
 slug: sportif
+letter: S
 lisan: Fransızca sportif
 anlamlar:
 - Sporla ilgili

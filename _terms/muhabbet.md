@@ -2,6 +2,7 @@
 layout: term
 title: muhabbet
 slug: muhabbet
+letter: M
 lisan: Arapça maḥabbet
 anlamlar:
 - ► sevgi

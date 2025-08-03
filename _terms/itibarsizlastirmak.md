@@ -2,6 +2,7 @@
 layout: term
 title: itibarsızlaştırmak
 slug: itibarsizlastirmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - İtibarsız duruma getirmek

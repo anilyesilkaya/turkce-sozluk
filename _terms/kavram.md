@@ -2,6 +2,7 @@
 layout: term
 title: kavram
 slug: kavram
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir nesnenin veya düşüncenin zihindeki soyut ve genel tasarımı; mefhum, fehva, konsept, nosyon

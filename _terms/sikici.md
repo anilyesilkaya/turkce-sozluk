@@ -2,6 +2,7 @@
 layout: term
 title: sıkıcı
 slug: sikici
+letter: S
 lisan: Türkçe
 anlamlar:
 - İç sıkan, can sıkan, tedirgin eden

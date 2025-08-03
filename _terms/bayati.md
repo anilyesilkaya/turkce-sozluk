@@ -2,6 +2,7 @@
 layout: term
 title: bayati
 slug: bayati
+letter: B
 lisan: Farsça bayāt + Arapça -ī
 anlamlar:
 - Klasik Türk müziğinde uşşak dörtlüsüne buselik beşlisi katılmasıyla yapılmış eski bir makam

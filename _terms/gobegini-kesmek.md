@@ -2,6 +2,7 @@
 layout: term
 title: göbeğini kesmek
 slug: gobegini-kesmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - çocuğun göbeğiyle etene arasındaki damar örgüsünü kesmek

@@ -2,6 +2,7 @@
 layout: term
 title: bambaşkalık
 slug: bambaskalik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bambaşka olma durumu

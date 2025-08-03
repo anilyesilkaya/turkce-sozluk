@@ -2,6 +2,7 @@
 layout: term
 title: hilebaz
 slug: hilebaz
+letter: H
 lisan: Arapça ḥīle + Farsça -bāz
 anlamlar:
 - ► hileci

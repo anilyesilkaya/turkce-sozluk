@@ -2,6 +2,7 @@
 layout: term
 title: fesat kumkuması
 slug: fesat-kumkumasi
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fesat kaynağı, ortaklığı karıştırmayı huy edinmiş, kötülük peşinde koşan kimse

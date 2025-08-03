@@ -2,6 +2,7 @@
 layout: term
 title: bağırdak
 slug: bagirdak
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bağıldak

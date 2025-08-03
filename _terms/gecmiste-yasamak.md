@@ -2,6 +2,7 @@
 layout: term
 title: geçmişte yaşamak
 slug: gecmiste-yasamak
+letter: G
 lisan: Türkçe
 anlamlar:
 - kendisini bulunulan zamanda değil de geçmiş günlerde yaşıyormuş gibi hissetmek

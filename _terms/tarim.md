@@ -2,6 +2,7 @@
 layout: term
 title: tarım
 slug: tarim
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bitkisel ve hayvansal ürünlerin üretilmesi, kalite ve verimlerinin yükseltilmesi, uygun koşullarda korunması, işlenip değerlendirilmesi ve pazarlanması; ziraat, kültür

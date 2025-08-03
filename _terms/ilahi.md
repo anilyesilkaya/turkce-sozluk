@@ -2,6 +2,7 @@
 layout: term
 title: İlahî
 slug: ilahi
+letter: İ
 lisan: Arapça ilāhį
 anlamlar:
 - Ey Allah'ım

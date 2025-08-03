@@ -2,6 +2,7 @@
 layout: term
 title: hırboluk
 slug: hirboluk
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hırbo olma durumu

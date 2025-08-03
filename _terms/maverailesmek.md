@@ -2,6 +2,7 @@
 layout: term
 title: 'maveraileşmek '
 slug: maverailesmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► uhrevileşmek

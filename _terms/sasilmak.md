@@ -2,6 +2,7 @@
 layout: term
 title: şaşılmak
 slug: sasilmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şaşkınlığa uğranılmak

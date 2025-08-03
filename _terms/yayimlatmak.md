@@ -2,6 +2,7 @@
 layout: term
 title: yayımlatmak
 slug: yayimlatmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yayımlanmasına sebep olmak, yayımlanmasına imkân sağlamak

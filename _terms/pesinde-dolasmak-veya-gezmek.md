@@ -2,6 +2,7 @@
 layout: term
 title: peşinde dolaşmak (veya gezmek)
 slug: pesinde-dolasmak-veya-gezmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - bir amaçla birisini izlemek

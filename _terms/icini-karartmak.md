@@ -2,6 +2,7 @@
 layout: term
 title: içini karartmak
 slug: icini-karartmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - bunalıma veya sıkıntıya sokmak, endişeye düşürmek

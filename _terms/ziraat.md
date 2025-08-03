@@ -2,6 +2,7 @@
 layout: term
 title: ziraat
 slug: ziraat
+letter: Z
 lisan: Arapça zirāʿat
 anlamlar:
 - ► tarım

@@ -2,6 +2,7 @@
 layout: term
 title: ileri sürmek
 slug: ileri-surmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - öne doğru yürütmek

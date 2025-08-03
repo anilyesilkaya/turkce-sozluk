@@ -2,6 +2,7 @@
 layout: term
 title: tomarla
 slug: tomarla
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► pek çok

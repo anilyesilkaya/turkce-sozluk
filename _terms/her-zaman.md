@@ -2,6 +2,7 @@
 layout: term
 title: her zaman
 slug: her-zaman
+letter: H
 lisan: Türkçe
 anlamlar:
 - Ara vermeden, sürekli olarak; baştan sona, her daim, her dem

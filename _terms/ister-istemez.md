@@ -2,6 +2,7 @@
 layout: term
 title: ister istemez
 slug: ister-istemez
+letter: I
 lisan: Türkçe
 anlamlar:
 - Zorunlu olarak, elinde olmadan; çaresiz, çarnaçar

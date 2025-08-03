@@ -2,6 +2,7 @@
 layout: term
 title: sofuluk
 slug: sofuluk
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sofu olma durumu

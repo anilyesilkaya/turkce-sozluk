@@ -2,6 +2,7 @@
 layout: term
 title: mukayeseli
 slug: mukayeseli
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► karşılaştırmalı

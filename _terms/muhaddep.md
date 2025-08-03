@@ -2,6 +2,7 @@
 layout: term
 title: muhaddep
 slug: muhaddep
+letter: M
 lisan: Arapça muḥaddeb
 anlamlar:
 - ► dışbükey

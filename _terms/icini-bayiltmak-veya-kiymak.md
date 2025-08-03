@@ -2,6 +2,7 @@
 layout: term
 title: içini bayıltmak (veya kıymak)
 slug: icini-bayiltmak-veya-kiymak
+letter: I
 lisan: Türkçe
 anlamlar:
 - tatlı, ağır gelip artık yiyememek

@@ -2,6 +2,7 @@
 layout: term
 title: boyanmak
 slug: boyanmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boyama işi yapılmak

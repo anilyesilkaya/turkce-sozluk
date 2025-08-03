@@ -2,6 +2,7 @@
 layout: term
 title: bağcık
 slug: bagcik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağlama işinde kullanılan şerit biçiminde bağ

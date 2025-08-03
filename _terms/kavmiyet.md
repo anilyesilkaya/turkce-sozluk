@@ -2,6 +2,7 @@
 layout: term
 title: kavmiyet
 slug: kavmiyet
+letter: K
 lisan: Arapça ḳavmiyyet
 anlamlar:
 - Bir kavmin kendine özgü özellikleri

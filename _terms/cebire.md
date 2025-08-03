@@ -2,6 +2,7 @@
 layout: term
 title: cebire
 slug: cebire
+letter: C
 lisan: Arapça cebīre
 anlamlar:
 - Kırık ve çıkık kemikleri yerinde tutmak için kullanılan tahta, mukavva veya tenekeden yapılmış, üzeri sargıyla kaplanan levha; süyek, koaptör

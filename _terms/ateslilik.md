@@ -2,6 +2,7 @@
 layout: term
 title: ateşlilik
 slug: ateslilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ateşli olma durumu

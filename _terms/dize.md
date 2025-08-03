@@ -2,6 +2,7 @@
 layout: term
 title: dize
 slug: dize
+letter: D
 lisan: Türkçe
 anlamlar:
 - Şiirin satırlarından her biri; mısra

@@ -2,6 +2,7 @@
 layout: term
 title: makamında
 slug: makaminda
+letter: M
 lisan: Türkçe
 anlamlar:
 - Yerinde, biçiminde, tarzında

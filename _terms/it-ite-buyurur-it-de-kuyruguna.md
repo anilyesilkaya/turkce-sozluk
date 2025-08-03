@@ -2,6 +2,7 @@
 layout: term
 title: it ite (buyurur), it de kuyruğuna
 slug: it-ite-buyurur-it-de-kuyruguna
+letter: I
 lisan: Türkçe
 anlamlar:
 - '"işi yapmak istemeyen onu mutlaka başkasına ısmarlar" anlamında kullanılan bir söz'

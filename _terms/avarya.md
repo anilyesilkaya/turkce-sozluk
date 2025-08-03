@@ -2,6 +2,7 @@
 layout: term
 title: avarya
 slug: avarya
+letter: A
 lisan: İtalyanca avaria
 anlamlar:
 - Bir deniz yolculuğunda geminin veya yükünün gördüğü zarar

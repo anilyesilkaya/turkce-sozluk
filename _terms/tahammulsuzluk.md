@@ -2,6 +2,7 @@
 layout: term
 title: tahammülsüzlük
 slug: tahammulsuzluk
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tahammülsüz olma durumu

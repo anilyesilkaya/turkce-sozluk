@@ -2,6 +2,7 @@
 layout: term
 title: okyanus
 slug: okyanus
+letter: O
 lisan: Arapça ukyānūs
 anlamlar:
 - Kıtaları birbirinden ayıran deniz; ana deniz, umman

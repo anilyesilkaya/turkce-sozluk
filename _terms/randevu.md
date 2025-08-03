@@ -2,6 +2,7 @@
 layout: term
 title: randevu
 slug: randevu
+letter: R
 lisan: Fransızca rendez-vous
 anlamlar:
 - Belli bir saatte, belli bir yerde iki veya daha çok kişi arasında kararlaştırılan buluşma; termin

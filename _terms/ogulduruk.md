@@ -2,6 +2,7 @@
 layout: term
 title: oğulduruk
 slug: ogulduruk
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► döl yatağı

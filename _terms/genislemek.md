@@ -2,6 +2,7 @@
 layout: term
 title: genişlemek
 slug: genislemek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Geniş duruma gelmek; büyümek, genelmek

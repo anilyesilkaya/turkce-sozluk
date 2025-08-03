@@ -2,6 +2,7 @@
 layout: term
 title: kara kış
 slug: kara-kis
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kış ortası, kışın en şiddetli zamanı; zemheri

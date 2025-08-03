@@ -2,6 +2,7 @@
 layout: term
 title: kaşla göz arasında
 slug: kasla-goz-arasinda
+letter: K
 lisan: Türkçe
 anlamlar:
 - kimsenin sezmesine imkân vermeyecek kadar kısa bir zaman içinde, çok çabuk

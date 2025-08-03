@@ -2,6 +2,7 @@
 layout: term
 title: orkestracı
 slug: orkestraci
+letter: O
 lisan: Türkçe
 anlamlar:
 - Orkestrada görevli kimse

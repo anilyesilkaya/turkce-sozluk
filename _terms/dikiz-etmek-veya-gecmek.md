@@ -2,6 +2,7 @@
 layout: term
 title: dikiz etmek (veya geçmek)
 slug: dikiz-etmek-veya-gecmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - gözetlemek

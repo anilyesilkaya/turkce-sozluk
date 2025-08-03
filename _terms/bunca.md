@@ -2,6 +2,7 @@
 layout: term
 title: bunca
 slug: bunca
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bu kadar çok

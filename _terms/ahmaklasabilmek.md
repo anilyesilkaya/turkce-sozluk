@@ -2,6 +2,7 @@
 layout: term
 title: ahmaklaşabilmek
 slug: ahmaklasabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ahmaklaşma ihtimali bulunmak

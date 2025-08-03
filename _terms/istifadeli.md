@@ -2,6 +2,7 @@
 layout: term
 title: istifadeli
 slug: istifadeli
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► yararlı

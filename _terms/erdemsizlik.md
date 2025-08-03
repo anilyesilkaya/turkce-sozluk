@@ -2,6 +2,7 @@
 layout: term
 title: erdemsizlik
 slug: erdemsizlik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Erdemsiz olma durumu; faziletsizlik

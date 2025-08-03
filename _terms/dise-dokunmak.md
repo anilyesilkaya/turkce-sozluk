@@ -2,6 +2,7 @@
 layout: term
 title: dişe dokunmak
 slug: dise-dokunmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - işe yarar olmak, önemli olmak, yerinde ve anlamlı olmak
