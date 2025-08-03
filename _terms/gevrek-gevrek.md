@@ -2,6 +2,7 @@
 layout: term
 title: gevrek gevrek
 slug: gevrek-gevrek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Neşeli, keyifli ve kendine güvenli biçimde

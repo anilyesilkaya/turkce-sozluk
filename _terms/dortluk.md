@@ -2,6 +2,7 @@
 layout: term
 title: dörtlük
 slug: dortluk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Birbirine dik iki çap boyunca dörde bölünmüş dairenin her bir dilimi

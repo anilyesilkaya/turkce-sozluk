@@ -2,6 +2,7 @@
 layout: term
 title: amca kızı
 slug: amca-kizi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Amcanın kızı; emmi kızı

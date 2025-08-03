@@ -2,6 +2,7 @@
 layout: term
 title: uyarabilmek
 slug: uyarabilmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyarma ihtimali veya imkânı bulunmak

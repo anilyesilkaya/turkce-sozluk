@@ -2,6 +2,7 @@
 layout: term
 title: dumana boğmak
 slug: dumana-bogmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - duman içinde bırakmak

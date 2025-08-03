@@ -2,6 +2,7 @@
 layout: term
 title: cinsiyetçi
 slug: cinsiyetci
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cinsiyetçilik yanlısı olan (kimse)

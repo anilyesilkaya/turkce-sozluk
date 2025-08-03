@@ -2,6 +2,7 @@
 layout: term
 title: kort
 slug: kort
+letter: K
 lisan: İngilizce court
 anlamlar:
 - Tenis oynanan alan; tenis sahası, tenis kortu

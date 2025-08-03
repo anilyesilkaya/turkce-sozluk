@@ -2,6 +2,7 @@
 layout: term
 title: bilek
 slug: bilek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Elle kolun, ayakla bacağın birleştiği bölüm

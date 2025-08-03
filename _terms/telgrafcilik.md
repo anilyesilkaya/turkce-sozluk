@@ -2,6 +2,7 @@
 layout: term
 title: telgrafçılık
 slug: telgrafcilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Telgrafçı olma durumu

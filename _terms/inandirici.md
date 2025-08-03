@@ -2,6 +2,7 @@
 layout: term
 title: inandırıcı
 slug: inandirici
+letter: I
 lisan: Türkçe
 anlamlar:
 - İnandıran, inandırma özelliği olan; doyurucu

@@ -2,6 +2,7 @@
 layout: term
 title: salma
 slug: salma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Salmak işi

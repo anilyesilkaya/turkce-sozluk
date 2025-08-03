@@ -2,6 +2,7 @@
 layout: term
 title: boğmaca
 slug: bogmaca
+letter: B
 lisan: Türkçe
 anlamlar:
 - Genellikle çocuklarda öksürük nöbetleriyle kendisini gösteren bulaşıcı bir hastalık

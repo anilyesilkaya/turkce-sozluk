@@ -2,6 +2,7 @@
 layout: term
 title: arsıulusal
 slug: arsiulusal
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► uluslararası

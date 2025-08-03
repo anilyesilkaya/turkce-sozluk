@@ -2,6 +2,7 @@
 layout: term
 title: arz derecesi
 slug: arz-derecesi
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► enlem

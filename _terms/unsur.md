@@ -2,6 +2,7 @@
 layout: term
 title: unsur
 slug: unsur
+letter: U
 lisan: Arapça ʿunṣur
 anlamlar:
 - ► öge

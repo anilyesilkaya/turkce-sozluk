@@ -2,6 +2,7 @@
 layout: term
 title: yoksul
 slug: yoksul
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Geçinmekte çok sıkıntı çeken, geçimini güçlükle sağlayan (kimse, toplum, ülke); yoksuz, yokluklu, çulsuz, varlıksız, variyetsiz, yok yoksul, fakir, fukara, beş parasız, parasız, sersefil, zengin, varsıl karşıtı

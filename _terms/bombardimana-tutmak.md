@@ -2,6 +2,7 @@
 layout: term
 title: bombardımana tutmak
 slug: bombardimana-tutmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - bombardıman etmek

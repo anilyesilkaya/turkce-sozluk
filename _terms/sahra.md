@@ -2,6 +2,7 @@
 layout: term
 title: sahra
 slug: sahra
+letter: S
 lisan: Arapça ṣaḥrāʾ
 anlamlar:
 - ► çöl

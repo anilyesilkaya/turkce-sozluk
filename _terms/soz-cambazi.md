@@ -2,6 +2,7 @@
 layout: term
 title: söz cambazı
 slug: soz-cambazi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Söz söylemesini iyi bilen, ağzı laf yapan kimse

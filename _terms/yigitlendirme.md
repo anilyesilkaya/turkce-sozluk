@@ -2,6 +2,7 @@
 layout: term
 title: yiğitlendirme
 slug: yigitlendirme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yiğitlendirmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: hoppa
 slug: hoppa
+letter: H
 lisan: Türkçe
 anlamlar:
 - Yaşına uymayan davranışlarda bulunan; delişmen, koket, ağırbaşlı karşıtı

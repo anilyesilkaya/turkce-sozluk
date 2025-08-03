@@ -2,6 +2,7 @@
 layout: term
 title: kımıltı
 slug: kimilti
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kıpırtı

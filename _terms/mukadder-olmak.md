@@ -2,6 +2,7 @@
 layout: term
 title: mukadder olmak
 slug: mukadder-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - alnında yazılı olmak, belirlenmiş olmak

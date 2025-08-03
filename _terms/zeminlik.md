@@ -2,6 +2,7 @@
 layout: term
 title: zeminlik
 slug: zeminlik
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Yer altı barınağı

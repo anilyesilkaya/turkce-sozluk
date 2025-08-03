@@ -2,6 +2,7 @@
 layout: term
 title: elektronik belge
 slug: elektronik-belge
+letter: E
 lisan: Türkçe
 anlamlar:
 - Elektronik ortama kaydedilmiş her türlü iş ve işleme ait belge; e-belge

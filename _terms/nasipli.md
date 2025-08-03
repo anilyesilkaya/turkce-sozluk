@@ -2,6 +2,7 @@
 layout: term
 title: nasipli
 slug: nasipli
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► kısmetli

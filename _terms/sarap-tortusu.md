@@ -2,6 +2,7 @@
 layout: term
 title: şarap tortusu
 slug: sarap-tortusu
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şarap fıçısının dibine toplanan çökelti

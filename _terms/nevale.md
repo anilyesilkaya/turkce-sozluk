@@ -2,6 +2,7 @@
 layout: term
 title: nevale
 slug: nevale
+letter: N
 lisan: Arapça nevāle
 anlamlar:
 - ► azık

@@ -2,6 +2,7 @@
 layout: term
 title: büyültme
 slug: buyultme
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► büyütme

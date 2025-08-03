@@ -2,6 +2,7 @@
 layout: term
 title: siyasal
 slug: siyasal
+letter: S
 lisan: Arapça siyāset + Fransızca -l
 anlamlar:
 - Politika ile ilgili; siyasi, politik

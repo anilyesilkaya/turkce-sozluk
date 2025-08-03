@@ -2,6 +2,7 @@
 layout: term
 title: levantenlik
 slug: levantenlik
+letter: L
 lisan: Türkçe
 anlamlar:
 - Levanten olma durumu

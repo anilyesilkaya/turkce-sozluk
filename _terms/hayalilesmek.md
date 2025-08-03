@@ -2,6 +2,7 @@
 layout: term
 title: hayalîleşmek
 slug: hayalilesmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hayalî bir duruma gelmek

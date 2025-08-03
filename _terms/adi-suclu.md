@@ -2,6 +2,7 @@
 layout: term
 title: adi suçlu
 slug: adi-suclu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Basit suçları işleyen kimse

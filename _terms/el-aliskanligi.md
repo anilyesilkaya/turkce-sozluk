@@ -2,6 +2,7 @@
 layout: term
 title: el alışkanlığı
 slug: el-aliskanligi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Bir iş veya hareketin birçok kez yapılması ile kazanılan özellik

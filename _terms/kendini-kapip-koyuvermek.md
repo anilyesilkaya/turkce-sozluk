@@ -2,6 +2,7 @@
 layout: term
 title: kendini (kapıp) koyuvermek
 slug: kendini-kapip-koyuvermek
+letter: K
 lisan: Türkçe
 anlamlar:
 - kendine özen göstermemek, kötümser olmak

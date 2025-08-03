@@ -2,6 +2,7 @@
 layout: term
 title: faulsüz
 slug: faulsuz
+letter: F
 lisan: Türkçe
 anlamlar:
 - Faulü olmayan, faul yapmayan

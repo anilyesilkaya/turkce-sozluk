@@ -2,6 +2,7 @@
 layout: term
 title: Panturanizm
 slug: panturanizm
+letter: P
 lisan: Fransızca pantouranisme
 anlamlar:
 - ► Turancılık

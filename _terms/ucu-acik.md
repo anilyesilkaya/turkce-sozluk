@@ -2,6 +2,7 @@
 layout: term
 title: ucu açık
 slug: ucu-acik
+letter: U
 lisan: Türkçe
 anlamlar:
 - Sonucu belli olmayan

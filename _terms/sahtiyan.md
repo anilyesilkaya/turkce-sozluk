@@ -2,6 +2,7 @@
 layout: term
 title: sahtiyan
 slug: sahtiyan
+letter: S
 lisan: Farsça saḫtiyān
 anlamlar:
 - Tabaklanarak boyanmış ve cilalanmış genellikle keçi derisi

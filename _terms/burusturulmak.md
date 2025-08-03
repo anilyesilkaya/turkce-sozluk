@@ -2,6 +2,7 @@
 layout: term
 title: buruşturulmak
 slug: burusturulmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Buruşuk duruma getirilmek

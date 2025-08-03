@@ -2,6 +2,7 @@
 layout: term
 title: lazanya
 slug: lazanya
+letter: L
 lisan: İtalyanca lasagna
 anlamlar:
 - Bir tür İtalyan makarnası

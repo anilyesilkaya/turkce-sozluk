@@ -2,6 +2,7 @@
 layout: term
 title: arsızlaştırmak
 slug: arsizlastirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arsız bir duruma getirmek, arsızlaşmasına yol açmak

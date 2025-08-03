@@ -2,6 +2,7 @@
 layout: term
 title: mahsur kalmak
 slug: mahsur-kalmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - bir yerden çıkamamak

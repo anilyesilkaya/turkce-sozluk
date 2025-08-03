@@ -2,6 +2,7 @@
 layout: term
 title: börülce
 slug: borulce
+letter: B
 lisan: Türkçe
 anlamlar:
 - Baklagillerden, fasulyeye benzer bir bitki; böğrülce (Vigna sinensis)

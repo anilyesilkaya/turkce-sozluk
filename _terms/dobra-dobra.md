@@ -2,6 +2,7 @@
 layout: term
 title: dobra dobra
 slug: dobra-dobra
+letter: D
 lisan: Türkçe
 anlamlar:
 - Sakınmadan, çekinmeden, apaçık biçimde

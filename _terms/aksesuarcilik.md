@@ -2,6 +2,7 @@
 layout: term
 title: aksesuarcılık
 slug: aksesuarcilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aksesuarcının yaptığı iş

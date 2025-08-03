@@ -2,6 +2,7 @@
 layout: term
 title: paranoit
 slug: paranoit
+letter: P
 lisan: Fransızca paranoïde
 anlamlar:
 - Paranoya ile ilgili

@@ -2,6 +2,7 @@
 layout: term
 title: soysuz
 slug: soysuz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Soyuna özgü nitelikleri kaybeden; dejenere

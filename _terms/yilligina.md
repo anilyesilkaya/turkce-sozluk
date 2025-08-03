@@ -2,6 +2,7 @@
 layout: term
 title: yıllığına
 slug: yilligina
+letter: Y
 lisan: Türkçe
 anlamlar:
 - '... yıl için, ... yıl süreyle'

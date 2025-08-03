@@ -2,6 +2,7 @@
 layout: term
 title: 'paralı yatılı '
 slug: parali-yatili
+letter: P
 lisan: Türkçe
 anlamlar:
 - Ortaöğretim kurumları pansiyonlarında ücret karşılığında barınan, örgün ve resmî ortaöğretim kurumlarında öğrenim gören (öğrenci)

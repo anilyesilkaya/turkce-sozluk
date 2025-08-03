@@ -2,6 +2,7 @@
 layout: term
 title: yalvarışlı
 slug: yalvarisli
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yalvarır bir biçimde

@@ -2,6 +2,7 @@
 layout: term
 title: iç deri
 slug: ic-deri
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bitkilerin kök, sap ve yapraklarında kabuğun iç bölümü; endoderm

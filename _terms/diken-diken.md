@@ -2,6 +2,7 @@
 layout: term
 title: diken diken
 slug: diken-diken
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dikeni bol

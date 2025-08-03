@@ -2,6 +2,7 @@
 layout: term
 title: şunun bunun
 slug: sunun-bunun
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - herkesin, el âlemin

@@ -2,6 +2,7 @@
 layout: term
 title: üstüne olmamak
 slug: ustune-olmamak
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - daha üstü, iyisi bulunmamak

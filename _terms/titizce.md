@@ -2,6 +2,7 @@
 layout: term
 title: titizce
 slug: titizce
+letter: T
 lisan: Türkçe
 anlamlar:
 - Titiz bir biçimde

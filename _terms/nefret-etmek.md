@@ -2,6 +2,7 @@
 layout: term
 title: nefret etmek
 slug: nefret-etmek
+letter: N
 lisan: Türkçe
 anlamlar:
 - birine veya bir şeye karşı nefret duygusuyla dolu olmak

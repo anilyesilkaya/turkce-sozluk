@@ -2,6 +2,7 @@
 layout: term
 title: yüksekten almak
 slug: yuksekten-almak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - olduğundan fazla böbürlenmek, abartılı davranmak

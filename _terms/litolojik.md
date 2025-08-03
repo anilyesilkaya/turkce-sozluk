@@ -2,6 +2,7 @@
 layout: term
 title: litolojik
 slug: litolojik
+letter: L
 lisan: Fransızca lithologique
 anlamlar:
 - ► taş bilimsel

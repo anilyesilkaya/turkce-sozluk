@@ -2,6 +2,7 @@
 layout: term
 title: çenebaz
 slug: cenebaz
+letter: Ç
 lisan: Farsça çānebāz
 anlamlar:
 - Çok konuşan; çenesi kuvvetli, çeneli

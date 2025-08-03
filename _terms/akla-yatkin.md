@@ -2,6 +2,7 @@
 layout: term
 title: akla yatkın
 slug: akla-yatkin
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aklın kabul edebileceği, makul olan

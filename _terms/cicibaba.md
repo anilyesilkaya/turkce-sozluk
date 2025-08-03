@@ -2,6 +2,7 @@
 layout: term
 title: cicibaba
 slug: cicibaba
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► üvey baba

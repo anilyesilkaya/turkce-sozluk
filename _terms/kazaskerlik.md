@@ -2,6 +2,7 @@
 layout: term
 title: kazaskerlik
 slug: kazaskerlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kazaskerin yaptığı iş

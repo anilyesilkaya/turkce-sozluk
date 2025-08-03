@@ -2,6 +2,7 @@
 layout: term
 title: bindallı
 slug: bindalli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çoğunlukla mor kadife üzerine sırma ile kabartma dal, yaprak ve çiçek işlenmiş, uzun kollu, boyu yere kadar uzanan, önü açık giysi

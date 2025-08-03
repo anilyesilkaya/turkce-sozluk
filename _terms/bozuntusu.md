@@ -2,6 +2,7 @@
 layout: term
 title: '... bozuntusu'
 slug: bozuntusu
+letter: .
 lisan: Türkçe
 anlamlar:
 - işin ehli olmadığı hâlde bir işte ehilmiş gibi görünen kimse

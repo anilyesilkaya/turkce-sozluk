@@ -2,6 +2,7 @@
 layout: term
 title: gâvur
 slug: gavur
+letter: G
 lisan: Farsça gebr
 anlamlar:
 - Dinsiz kimse

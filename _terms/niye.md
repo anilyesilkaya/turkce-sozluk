@@ -2,6 +2,7 @@
 layout: term
 title: niye
 slug: niye
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► niçin

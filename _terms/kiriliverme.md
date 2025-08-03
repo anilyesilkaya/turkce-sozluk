@@ -2,6 +2,7 @@
 layout: term
 title: kırılıverme
 slug: kiriliverme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kırılıvermek işi

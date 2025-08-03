@@ -2,6 +2,7 @@
 layout: term
 title: gibili
 slug: gibili
+letter: G
 lisan: Türkçe
 anlamlar:
 - Herhangi bir şeye benzeten

@@ -2,6 +2,7 @@
 layout: term
 title: ihtimal vermek
 slug: ihtimal-vermek
+letter: I
 lisan: Türkçe
 anlamlar:
 - bir şeyin gerçekleşebileceğini, olabileceğini düşünmek

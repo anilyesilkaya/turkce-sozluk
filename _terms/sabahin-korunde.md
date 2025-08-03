@@ -2,6 +2,7 @@
 layout: term
 title: sabahın köründe
 slug: sabahin-korunde
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sabahın erken saatlerinde

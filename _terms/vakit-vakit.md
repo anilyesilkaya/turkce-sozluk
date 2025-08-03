@@ -2,6 +2,7 @@
 layout: term
 title: vakit vakit
 slug: vakit-vakit
+letter: V
 lisan: Türkçe
 anlamlar:
 - ► ara sıra

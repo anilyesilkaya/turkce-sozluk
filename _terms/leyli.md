@@ -2,6 +2,7 @@
 layout: term
 title: leyli
 slug: leyli
+letter: L
 lisan: Arapça leylī
 anlamlar:
 - ► yatılı

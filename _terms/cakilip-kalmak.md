@@ -2,6 +2,7 @@
 layout: term
 title: çakılıp kalmak
 slug: cakilip-kalmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - bir yerde uzun süre hareketsiz kalmak

@@ -2,6 +2,7 @@
 layout: term
 title: zemberek gibi
 slug: zemberek-gibi
+letter: Z
 lisan: Türkçe
 anlamlar:
 - birdenbire, aniden

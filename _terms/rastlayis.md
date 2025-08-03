@@ -2,6 +2,7 @@
 layout: term
 title: rastlayış
 slug: rastlayis
+letter: R
 lisan: Türkçe
 anlamlar:
 - Rastlamak işi

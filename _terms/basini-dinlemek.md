@@ -2,6 +2,7 @@
 layout: term
 title: başını dinlemek
 slug: basini-dinlemek
+letter: B
 lisan: Türkçe
 anlamlar:
 - kafasını dinlemek

@@ -2,6 +2,7 @@
 layout: term
 title: silsilename
 slug: silsilename
+letter: S
 lisan: Arapça silsile + Farsça nāme
 anlamlar:
 - Bir kimsenin silsilesini gösteren çizelge

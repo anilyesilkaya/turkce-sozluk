@@ -2,6 +2,7 @@
 layout: term
 title: siyahlı
 slug: siyahli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Siyahı bulunan

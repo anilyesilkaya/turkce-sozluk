@@ -2,6 +2,7 @@
 layout: term
 title: çizgilemek
 slug: cizgilemek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çizgi çekmek, karikatür çizmek

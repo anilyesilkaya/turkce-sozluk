@@ -2,6 +2,7 @@
 layout: term
 title: sağlık kontrolü
 slug: saglik-kontrolu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Muayeneden sonra hastalığın seyrinin denetimi

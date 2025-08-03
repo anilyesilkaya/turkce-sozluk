@@ -2,6 +2,7 @@
 layout: term
 title: sırım gibi
 slug: sirim-gibi
+letter: S
 lisan: Türkçe
 anlamlar:
 - ince yapılı ve güçlü

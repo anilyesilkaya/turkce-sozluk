@@ -2,6 +2,7 @@
 layout: term
 title: boydak
 slug: boydak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Yükü olmayan yaya

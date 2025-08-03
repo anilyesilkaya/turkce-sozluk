@@ -2,6 +2,7 @@
 layout: term
 title: kiremit rengi
 slug: kiremit-rengi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kahverengiye çalan kızıl kırmızı renk

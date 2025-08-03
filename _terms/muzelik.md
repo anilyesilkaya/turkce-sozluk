@@ -2,6 +2,7 @@
 layout: term
 title: müzelik
 slug: muzelik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Müzeye konulacak değerde veya eskilikte olan

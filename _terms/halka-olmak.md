@@ -2,6 +2,7 @@
 layout: term
 title: halka olmak
 slug: halka-olmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - bir çember biçiminde dizilmek

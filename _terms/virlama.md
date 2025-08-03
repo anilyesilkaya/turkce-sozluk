@@ -2,6 +2,7 @@
 layout: term
 title: vırlama
 slug: virlama
+letter: V
 lisan: Türkçe
 anlamlar:
 - ► vırıldama

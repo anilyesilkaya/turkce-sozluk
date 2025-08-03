@@ -2,6 +2,7 @@
 layout: term
 title: Arnavutlaşmak
 slug: arnavutlasmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arnavutlara özgü yaşayış tarzını benimsemek

@@ -2,6 +2,7 @@
 layout: term
 title: radyasyon
 slug: radyasyon
+letter: R
 lisan: Fransızca radiation
 anlamlar:
 - Işın veya tanecik yayımı; ışıma, ışınım

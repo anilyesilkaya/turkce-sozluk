@@ -2,6 +2,7 @@
 layout: term
 title: temkinlilik
 slug: temkinlilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Temkinli olma durumu

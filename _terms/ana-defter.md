@@ -2,6 +2,7 @@
 layout: term
 title: ana defter
 slug: ana-defter
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► büyük defter

@@ -2,6 +2,7 @@
 layout: term
 title: mükemmelen
 slug: mukemmelen
+letter: M
 lisan: Arapça mukemmelen
 anlamlar:
 - Eksiksiz, kusursuz olarak

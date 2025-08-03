@@ -2,6 +2,7 @@
 layout: term
 title: alışılmamış
 slug: alisilmamis
+letter: A
 lisan: Türkçe
 anlamlar:
 - Nadir, bilinmeyen, az rastlanan

@@ -2,6 +2,7 @@
 layout: term
 title: hırıltı
 slug: hirilti
+letter: H
 lisan: Türkçe
 anlamlar:
 - Boğazdan herhangi bir nedenle boğuk çıkan ses; harhara

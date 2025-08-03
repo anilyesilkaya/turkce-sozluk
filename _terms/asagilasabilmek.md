@@ -2,6 +2,7 @@
 layout: term
 title: aşağılaşabilmek
 slug: asagilasabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aşağılaşma ihtimali bulunmak

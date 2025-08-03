@@ -2,6 +2,7 @@
 layout: term
 title: yağlatmak
 slug: yaglatmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yağlama işini yaptırmak

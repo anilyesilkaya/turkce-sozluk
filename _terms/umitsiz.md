@@ -2,6 +2,7 @@
 layout: term
 title: ümitsiz
 slug: umitsiz
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - ► umutsuz

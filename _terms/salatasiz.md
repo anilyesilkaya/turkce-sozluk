@@ -2,6 +2,7 @@
 layout: term
 title: salatasız
 slug: salatasiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Salata bulunmayan

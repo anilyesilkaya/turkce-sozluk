@@ -2,6 +2,7 @@
 layout: term
 title: canlı model
 slug: canli-model
+letter: C
 lisan: Türkçe
 anlamlar:
 - Heykel, resim vb. çalışmalarda model olarak yararlanılan kadın veya erkek

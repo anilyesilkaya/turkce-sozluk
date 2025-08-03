@@ -2,6 +2,7 @@
 layout: term
 title: albüm
 slug: album
+letter: A
 lisan: Fransızca album
 anlamlar:
 - Fotoğraf, pul vb.ni dizip saklamaya yarayan bir defter türü; resimlik

@@ -2,6 +2,7 @@
 layout: term
 title: müştereken
 slug: mustereken
+letter: M
 lisan: Arapça muştereken
 anlamlar:
 - ► ortaklaşa

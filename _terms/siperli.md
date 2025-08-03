@@ -2,6 +2,7 @@
 layout: term
 title: siperli
 slug: siperli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Siperi olan

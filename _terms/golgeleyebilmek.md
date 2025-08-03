@@ -2,6 +2,7 @@
 layout: term
 title: gölgeleyebilmek
 slug: golgeleyebilmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gölgeleme ihtimali veya imkânı bulunmak

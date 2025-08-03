@@ -2,6 +2,7 @@
 layout: term
 title: dâhiliyeci
 slug: dahiliyeci
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► iç hastalıkları uzmanı

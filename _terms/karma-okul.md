@@ -2,6 +2,7 @@
 layout: term
 title: karma okul
 slug: karma-okul
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karma eğitim uygulanan okul

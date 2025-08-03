@@ -2,6 +2,7 @@
 layout: term
 title: püriten
 slug: puriten
+letter: P
 lisan: Fransızca puritain
 anlamlar:
 - Kutsal kitapları yeniden ve değişik bir anlayışla okumaya özen gösteren

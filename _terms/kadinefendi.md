@@ -2,6 +2,7 @@
 layout: term
 title: kadınefendi
 slug: kadinefendi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Osmanlı Devleti’nde XVIII. yüzyılın başlarından itibaren padişahların doğum yapan eşlerine verilen ünvan

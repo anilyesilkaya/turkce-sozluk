@@ -2,6 +2,7 @@
 layout: term
 title: şimdicik
 slug: simdicik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Hemen şimdi, şu anda

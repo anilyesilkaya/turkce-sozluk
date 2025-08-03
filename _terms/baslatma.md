@@ -2,6 +2,7 @@
 layout: term
 title: başlatma
 slug: baslatma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başlatmak işi

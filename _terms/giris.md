@@ -2,6 +2,7 @@
 layout: term
 title: giriş
 slug: giris
+letter: G
 lisan: Türkçe
 anlamlar:
 - Girmek işi

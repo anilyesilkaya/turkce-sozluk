@@ -2,6 +2,7 @@
 layout: term
 title: ikrar vermek
 slug: ikrar-vermek
+letter: I
 lisan: Türkçe
 anlamlar:
 - söz vermek

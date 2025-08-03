@@ -2,6 +2,7 @@
 layout: term
 title: inilti
 slug: inilti
+letter: I
 lisan: Türkçe
 anlamlar:
 - İnleme sırasında çıkan sesin adı; enin

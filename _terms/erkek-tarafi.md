@@ -2,6 +2,7 @@
 layout: term
 title: erkek tarafı
 slug: erkek-tarafi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Evlenme sürecinde olan erkeğin ailesi ve akrabaları; oğlan tarafı

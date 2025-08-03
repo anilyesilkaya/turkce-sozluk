@@ -2,6 +2,7 @@
 layout: term
 title: modern
 slug: modern
+letter: M
 lisan: Fransızca moderne
 anlamlar:
 - ► çağdaş

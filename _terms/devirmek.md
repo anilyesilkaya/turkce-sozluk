@@ -2,6 +2,7 @@
 layout: term
 title: devirmek
 slug: devirmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Ayakta veya dik duran bir şeyi düşürmek, yatay duruma getirmek

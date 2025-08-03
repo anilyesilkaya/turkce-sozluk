@@ -2,6 +2,7 @@
 layout: term
 title: varyete
 slug: varyete
+letter: V
 lisan: Fransızca variété
 anlamlar:
 - Şarkı, dans, hokkabazlık, temsil gibi aralarında ilişki bulunmayan farklı oyunlardan oluşan gösteri

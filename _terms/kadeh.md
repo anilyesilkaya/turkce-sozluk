@@ -2,6 +2,7 @@
 layout: term
 title: kadeh
 slug: kadeh
+letter: K
 lisan: Arapça ḳadeḥ
 anlamlar:
 - İçki içmeye yarayan ayaklı bardak; cam

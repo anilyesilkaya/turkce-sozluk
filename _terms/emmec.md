@@ -2,6 +2,7 @@
 layout: term
 title: emmeç
 slug: emmec
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► aspiratör

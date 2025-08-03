@@ -2,6 +2,7 @@
 layout: term
 title: aforoz etmek
 slug: aforoz-etmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - aforozlamak

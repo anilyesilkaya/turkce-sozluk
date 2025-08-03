@@ -2,6 +2,7 @@
 layout: term
 title: adamcıl
 slug: adamcil
+letter: A
 lisan: Türkçe
 anlamlar:
 - İnsandan ürkmeyen, insana alışmış olan, insana sokulan, sıcakkanlı, munis

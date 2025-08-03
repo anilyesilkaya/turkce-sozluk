@@ -2,6 +2,7 @@
 layout: term
 title: yüz (veya yüzünün) akı ile çıkmak
 slug: yuz-veya-yuzunun-aki-ile-cikmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - bir işi kendi saygınlığını yitirmeden eksiksiz ve başarılı olarak yapıp bitirmek

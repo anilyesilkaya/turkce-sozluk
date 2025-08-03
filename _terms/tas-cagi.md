@@ -2,6 +2,7 @@
 layout: term
 title: Taş Çağı
 slug: tas-cagi
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► Taş Devri

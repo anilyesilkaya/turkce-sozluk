@@ -2,6 +2,7 @@
 layout: term
 title: kavuşulmak
 slug: kavusulmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir araya gelinmek

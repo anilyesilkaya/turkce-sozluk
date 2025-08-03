@@ -2,6 +2,7 @@
 layout: term
 title: can acısı
 slug: can-acisi
+letter: C
 lisan: Türkçe
 anlamlar:
 - Vücudun herhangi bir yerinde duyulan şiddetli acı

@@ -2,6 +2,7 @@
 layout: term
 title: pandomim
 slug: pandomim
+letter: P
 lisan: Fransızca pantomime
 anlamlar:
 - ► sözsüz oyun

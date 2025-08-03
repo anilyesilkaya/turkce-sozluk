@@ -2,6 +2,7 @@
 layout: term
 title: kavlince
 slug: kavlince
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kavline göre, sözüne bakarak

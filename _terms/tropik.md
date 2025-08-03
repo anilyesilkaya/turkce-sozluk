@@ -2,6 +2,7 @@
 layout: term
 title: tropik
 slug: tropik
+letter: T
 lisan: Fransızca tropique
 anlamlar:
 - Dönenceler çevresinde olan

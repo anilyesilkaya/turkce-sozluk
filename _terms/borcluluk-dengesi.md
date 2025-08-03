@@ -2,6 +2,7 @@
 layout: term
 title: borçluluk dengesi
 slug: borcluluk-dengesi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir ülkenin belli bir tarihe kadar birikmiş dış borç ve alacaklarını gösteren durum veya belge

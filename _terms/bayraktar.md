@@ -2,6 +2,7 @@
 layout: term
 title: bayraktar
 slug: bayraktar
+letter: B
 lisan: Türkçe bayrak + Farsça -dār
 anlamlar:
 - Bayrağı taşımakla görevli kimse

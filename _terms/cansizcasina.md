@@ -2,6 +2,7 @@
 layout: term
 title: cansızcasına
 slug: cansizcasina
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► cansızca

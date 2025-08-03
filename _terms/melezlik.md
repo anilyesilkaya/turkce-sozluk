@@ -2,6 +2,7 @@
 layout: term
 title: melezlik
 slug: melezlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Melez olma durumu; kırmalık

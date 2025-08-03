@@ -2,6 +2,7 @@
 layout: term
 title: rezerv
 slug: rezerv
+letter: R
 lisan: Fransızca réserve
 anlamlar:
 - Saklanmış, biriktirilmiş şey

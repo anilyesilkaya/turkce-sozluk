@@ -2,6 +2,7 @@
 layout: term
 title: laf kaynayıp gitmek
 slug: laf-kaynayip-gitmek
+letter: L
 lisan: Türkçe
 anlamlar:
 - söz boşa söylenmek, anlaşılmaz olmak, hiçbir etki yapmamak

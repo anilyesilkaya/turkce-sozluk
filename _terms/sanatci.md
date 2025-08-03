@@ -2,6 +2,7 @@
 layout: term
 title: sanatçı
 slug: sanatci
+letter: S
 lisan: Türkçe
 anlamlar:
 - Güzel sanatların herhangi bir dalında yaratıcılığı olan, eser veren kimse; sanat adamı, sanat eri, sanatkâr

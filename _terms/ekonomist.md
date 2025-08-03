@@ -2,6 +2,7 @@
 layout: term
 title: ekonomist
 slug: ekonomist
+letter: E
 lisan: Fransızca économiste
 anlamlar:
 - Ekonomi uzmanı; iktisatçı

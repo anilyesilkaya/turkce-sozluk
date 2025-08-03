@@ -2,6 +2,7 @@
 layout: term
 title: ayrıntılı
 slug: ayrintili
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayrıntısı olan; detaylı, ince, derin, teferruatlı, tafsilatlı, mufassal

@@ -2,6 +2,7 @@
 layout: term
 title: tıklatılmak
 slug: tiklatilmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tıklatma işi yapılmak

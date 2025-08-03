@@ -2,6 +2,7 @@
 layout: term
 title: lakayt
 slug: lakayt
+letter: L
 lisan: Türkçe
 anlamlar:
 - 343 lakayıt

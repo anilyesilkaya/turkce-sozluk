@@ -2,6 +2,7 @@
 layout: term
 title: artsız arasız
 slug: artsiz-arasiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ara vermeksizin

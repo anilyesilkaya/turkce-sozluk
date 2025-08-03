@@ -2,6 +2,7 @@
 layout: term
 title: dallanma
 slug: dallanma
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dallanmak işi

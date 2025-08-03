@@ -2,6 +2,7 @@
 layout: term
 title: şinanay
 slug: sinanay
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Sevinç, mutluluk, hoşnutluk, kıvanç belirten bir söz

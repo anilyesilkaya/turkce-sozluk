@@ -2,6 +2,7 @@
 layout: term
 title: fahiş
 slug: fahis
+letter: F
 lisan: Arapça fāḥiş
 anlamlar:
 - Ölçüyü aşan, aşırı, çok fazla olan

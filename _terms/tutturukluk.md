@@ -2,6 +2,7 @@
 layout: term
 title: tutturukluk
 slug: tutturukluk
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tutturuk olma durumu

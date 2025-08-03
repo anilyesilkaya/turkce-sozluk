@@ -2,6 +2,7 @@
 layout: term
 title: kulak (veya kulaklarını) tıkamak
 slug: kulak-veya-kulaklarini-tikamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir şeyi duymazlıktan gelmek

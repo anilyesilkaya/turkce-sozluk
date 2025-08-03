@@ -2,6 +2,7 @@
 layout: term
 title: koketlik
 slug: koketlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Koket olma durumu

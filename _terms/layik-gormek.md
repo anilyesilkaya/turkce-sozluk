@@ -2,6 +2,7 @@
 layout: term
 title: layık görmek
 slug: layik-gormek
+letter: L
 lisan: Türkçe
 anlamlar:
 - yakıştırmak, uygun görmek

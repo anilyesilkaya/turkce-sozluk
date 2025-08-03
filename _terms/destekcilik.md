@@ -2,6 +2,7 @@
 layout: term
 title: destekçilik
 slug: destekcilik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Destekçi olma durumu

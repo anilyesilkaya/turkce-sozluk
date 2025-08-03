@@ -2,6 +2,7 @@
 layout: term
 title: sudan
 slug: sudan
+letter: S
 lisan: Türkçe
 anlamlar:
 - Baştan savma, inandırıcı olmaktan uzak olan

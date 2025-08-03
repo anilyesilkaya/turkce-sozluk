@@ -2,6 +2,7 @@
 layout: term
 title: adali
 slug: adali
+letter: A
 lisan: Arapça ‘ażāli
 anlamlar:
 - ► kaslı

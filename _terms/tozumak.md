@@ -2,6 +2,7 @@
 layout: term
 title: tozumak
 slug: tozumak
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► tozmak

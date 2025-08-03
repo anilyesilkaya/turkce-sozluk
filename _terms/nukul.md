@@ -2,6 +2,7 @@
 layout: term
 title: nükûl
 slug: nukul
+letter: N
 lisan: Arapça nukūl
 anlamlar:
 - ► vazgeçme

@@ -2,6 +2,7 @@
 layout: term
 title: sulu gözlü
 slug: sulu-gozlu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Çok önemsiz olaylarda bile gözyaşlarını tutamayan, ağlayan (kimse); gözü sulu, sulu göz

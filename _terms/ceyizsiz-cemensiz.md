@@ -2,6 +2,7 @@
 layout: term
 title: çeyizsiz çemensiz
 slug: ceyizsiz-cemensiz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çeyizi olmayan

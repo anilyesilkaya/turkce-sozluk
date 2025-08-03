@@ -2,6 +2,7 @@
 layout: term
 title: arkasızlık
 slug: arkasizlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arkasız olma durumu

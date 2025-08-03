@@ -2,6 +2,7 @@
 layout: term
 title: çaprazlama
 slug: caprazlama
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çapraz olarak; çaprazlamasına, kılıçlama, kirişleme, makaslama, çaprazvari

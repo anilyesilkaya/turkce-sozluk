@@ -2,6 +2,7 @@
 layout: term
 title: kaymak taşı
 slug: kaymak-tasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Parlatılmaya elverişli, yumuşak, beyaz, yarı saydam bir mermer türü; su mermeri, albatr

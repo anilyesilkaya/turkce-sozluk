@@ -2,6 +2,7 @@
 layout: term
 title: çuşka
 slug: cuska
+letter: Ç
 lisan: Bulgarca
 anlamlar:
 - Acı kırmızıbiber

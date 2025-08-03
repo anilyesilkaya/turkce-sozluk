@@ -2,6 +2,7 @@
 layout: term
 title: bakıcı
 slug: bakici
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bakma işiyle görevlendirilen kimse

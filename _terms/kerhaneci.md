@@ -2,6 +2,7 @@
 layout: term
 title: kerhaneci
 slug: kerhaneci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kerhane işleten kimse

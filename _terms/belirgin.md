@@ -2,6 +2,7 @@
 layout: term
 title: belirgin
 slug: belirgin
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belirmiş durumda olan, göze çarpan; bariz, sarih

@@ -2,6 +2,7 @@
 layout: term
 title: letafet
 slug: letafet
+letter: L
 lisan: Arapça leṭāfet
 anlamlar:
 - ► hoşluk

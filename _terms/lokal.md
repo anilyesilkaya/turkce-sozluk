@@ -2,6 +2,7 @@
 layout: term
 title: lokal
 slug: lokal
+letter: L
 lisan: Fransızca local
 anlamlar:
 - Müzikli eğlencelerin yapıldığı yer

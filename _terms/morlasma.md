@@ -2,6 +2,7 @@
 layout: term
 title: morlaşma
 slug: morlasma
+letter: M
 lisan: Türkçe
 anlamlar:
 - Morlaşmak işi

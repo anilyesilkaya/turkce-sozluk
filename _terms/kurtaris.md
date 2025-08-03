@@ -2,6 +2,7 @@
 layout: term
 title: kurtarış
 slug: kurtaris
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kurtarmak işi

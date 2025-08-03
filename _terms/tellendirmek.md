@@ -2,6 +2,7 @@
 layout: term
 title: tellendirmek
 slug: tellendirmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Sigara, nargile, çubuk vb.ni keyifle tüttürerek içmek

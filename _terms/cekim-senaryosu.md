@@ -2,6 +2,7 @@
 layout: term
 title: çekim senaryosu
 slug: cekim-senaryosu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çekimlere bölünmüş, her çekimin sayısı belirtilmiş, çevirim için bütün teknik açıklamaları ve konuşmaları içine alan senaryo; çevirim senaryosu

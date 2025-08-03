@@ -2,6 +2,7 @@
 layout: term
 title: tehalük
 slug: tehaluk
+letter: T
 lisan: Arapça tehāluk
 anlamlar:
 - Can atma, çok isteme

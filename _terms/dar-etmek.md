@@ -2,6 +2,7 @@
 layout: term
 title: dar etmek
 slug: dar-etmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - bir kimseyi sıkıntıya sokmak

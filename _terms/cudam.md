@@ -2,6 +2,7 @@
 layout: term
 title: cudam
 slug: cudam
+letter: C
 lisan: Türkçe
 anlamlar:
 - Beceriksiz, güçsüz, görgüsüz kimse

@@ -2,6 +2,7 @@
 layout: term
 title: abandone etmek
 slug: abandone-etmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - dövüşemeyecek duruma getirmek, sersemletmek

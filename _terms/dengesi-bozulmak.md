@@ -2,6 +2,7 @@
 layout: term
 title: dengesi bozulmak
 slug: dengesi-bozulmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - dik durumdan düşecek duruma gelmek

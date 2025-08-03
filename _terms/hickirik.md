@@ -2,6 +2,7 @@
 layout: term
 title: hıçkırık
 slug: hickirik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Çok yemek yeme veya sinirsel bir nedenle ve istemsiz olarak diyafram kasının kasılmasıyla hava akciğerlere geçerken boğazdan çıkan ve düzgün aralıklarla tekrarlanan ses

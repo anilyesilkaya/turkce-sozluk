@@ -2,6 +2,7 @@
 layout: term
 title: davalı
 slug: davali
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dava edilen (kimse); mahkemeli, müddeaaleyh, müddeialeyh

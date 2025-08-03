@@ -2,6 +2,7 @@
 layout: term
 title: ağzından kapmak
 slug: agzindan-kapmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - birinin bildiği şeyleri, ustalıklı konuşmalarla ona sezdirmeden öğrenmek

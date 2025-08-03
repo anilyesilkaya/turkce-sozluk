@@ -2,6 +2,7 @@
 layout: term
 title: Anadolu
 slug: anadolu
+letter: A
 lisan: \492
 anlamlar:
 - Ön Asya'nın bir parçası olarak Türkiye'nin Asya kıtasında bulunan toprağı; Küçük Asya

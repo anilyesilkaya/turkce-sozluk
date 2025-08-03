@@ -2,6 +2,7 @@
 layout: term
 title: bel vermek
 slug: bel-vermek
+letter: B
 lisan: Türkçe
 anlamlar:
 - duvar gibi dik şeyler dışarıya veya tavan gibi yatay şeyler aşağıya doğru kamburlaşmak

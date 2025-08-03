@@ -2,6 +2,7 @@
 layout: term
 title: çelik kalemi
 slug: celik-kalemi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Her türlü metal, tahta ve taşları kesme, oyma ve yontma işlerinde çekiçle vurarak kullanılan, çelikten yapılmış, keskin uçlu alet

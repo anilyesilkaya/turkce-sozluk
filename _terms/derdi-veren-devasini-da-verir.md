@@ -2,6 +2,7 @@
 layout: term
 title: derdi veren devasını da verir
 slug: derdi-veren-devasini-da-verir
+letter: D
 lisan: Türkçe
 anlamlar:
 - '"her sıkıntının, üzüntünün bir çaresi vardır" anlamında kullanılan bir söz'

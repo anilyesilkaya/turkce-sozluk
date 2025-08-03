@@ -2,6 +2,7 @@
 layout: term
 title: delmece
 slug: delmece
+letter: D
 lisan: Türkçe
 anlamlar:
 - Delecek biçimde

@@ -2,6 +2,7 @@
 layout: term
 title: cezbelenmek
 slug: cezbelenmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cezbeye tutulmak, kendinden geçmek, kendini kaybetmek

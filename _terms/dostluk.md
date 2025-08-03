@@ -2,6 +2,7 @@
 layout: term
 title: dostluk
 slug: dostluk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dost olma durumu; mihribanlık, ülfet

@@ -2,6 +2,7 @@
 layout: term
 title: taam
 slug: taam
+letter: T
 lisan: Arapça ṭaʿām
 anlamlar:
 - ► yemek (I)

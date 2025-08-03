@@ -2,6 +2,7 @@
 layout: term
 title: çok yüzlülük
 slug: cok-yuzluluk
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çok yüzlü olma durumu

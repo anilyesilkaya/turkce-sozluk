@@ -2,6 +2,7 @@
 layout: term
 title: ikileme
 slug: ikileme
+letter: I
 lisan: Türkçe
 anlamlar:
 - İkilemek işi

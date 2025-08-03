@@ -2,6 +2,7 @@
 layout: term
 title: Bozkurt
 slug: bozkurt
+letter: B
 lisan: Türkçe
 anlamlar:
 - Denizli iline bağlı ilçelerden biri

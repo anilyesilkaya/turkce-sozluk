@@ -2,6 +2,7 @@
 layout: term
 title: oluk oluk
 slug: oluk-oluk
+letter: O
 lisan: Türkçe
 anlamlar:
 - Pek çok

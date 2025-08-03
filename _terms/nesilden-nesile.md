@@ -2,6 +2,7 @@
 layout: term
 title: nesilden nesile
 slug: nesilden-nesile
+letter: N
 lisan: Türkçe
 anlamlar:
 - Kuşaktan kuşağa, kuşaklar boyunca

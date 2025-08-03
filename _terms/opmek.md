@@ -2,6 +2,7 @@
 layout: term
 title: öpmek
 slug: opmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Sevgi, saygı, bağlılık, teşekkür belirtmek amacıyla dudaklarını bir şeye veya birine değdirmek

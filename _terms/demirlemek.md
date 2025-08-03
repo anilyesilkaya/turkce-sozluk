@@ -2,6 +2,7 @@
 layout: term
 title: demirlemek
 slug: demirlemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Kapı ve pencerenin kol demirini takmak, kapatmak

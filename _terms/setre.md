@@ -2,6 +2,7 @@
 layout: term
 title: setre
 slug: setre
+letter: S
 lisan: Arapça setre
 anlamlar:
 - Düz yakalı, önü ilikli bir ceket türü

@@ -2,6 +2,7 @@
 layout: term
 title: meyletmek
 slug: meyletmek
+letter: M
 lisan: Arapça meyl + Türkçe etmek
 anlamlar:
 - Eğilmek; meyillenmek

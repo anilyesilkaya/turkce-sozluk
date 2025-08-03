@@ -2,6 +2,7 @@
 layout: term
 title: lonca
 slug: lonca
+letter: L
 lisan: İtalyanca loggia
 anlamlar:
 - Belli bir iş kolunda usta, kalfa ve çırakları içine alan esnaf kuruluşu; korporasyon

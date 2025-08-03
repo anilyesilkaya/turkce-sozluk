@@ -2,6 +2,7 @@
 layout: term
 title: batak
 slug: batak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Üzerine basıldığında çöken çamurlaşmış toprak

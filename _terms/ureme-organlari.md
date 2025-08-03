@@ -2,6 +2,7 @@
 layout: term
 title: üreme organları
 slug: ureme-organlari
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Organizmada üreme görevi için birlikte oluşmuş organlar bütünü

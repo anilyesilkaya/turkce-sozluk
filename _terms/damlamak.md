@@ -2,6 +2,7 @@
 layout: term
 title: damlamak
 slug: damlamak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Damla durumunda tane tane düşmek

@@ -2,6 +2,7 @@
 layout: term
 title: aratmak
 slug: aratmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arama işini bir başkasına yaptırmak

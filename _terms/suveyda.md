@@ -2,6 +2,7 @@
 layout: term
 title: süveyda
 slug: suveyda
+letter: S
 lisan: Arapça suveydā
 anlamlar:
 - Kalbin ortasında var olduğuna inanılan siyah benek

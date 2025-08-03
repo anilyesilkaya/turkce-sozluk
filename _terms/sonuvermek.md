@@ -2,6 +2,7 @@
 layout: term
 title: sönüvermek
 slug: sonuvermek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Ansızın veya çabucak sönmek

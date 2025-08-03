@@ -2,6 +2,7 @@
 layout: term
 title: huşunet
 slug: husunet
+letter: H
 lisan: Arapça ḫuşūnet
 anlamlar:
 - ► sertlik

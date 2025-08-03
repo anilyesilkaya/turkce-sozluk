@@ -2,6 +2,7 @@
 layout: term
 title: lokmacık
 slug: lokmacik
+letter: L
 lisan: Türkçe
 anlamlar:
 - Küçük lokma

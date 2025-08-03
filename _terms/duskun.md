@@ -2,6 +2,7 @@
 layout: term
 title: düşkün
 slug: duskun
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir şeye kendini aşırı vermiş olan, çok bağlı; tutkun

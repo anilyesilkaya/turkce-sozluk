@@ -2,6 +2,7 @@
 layout: term
 title: ballamak
 slug: ballamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bal sürmek

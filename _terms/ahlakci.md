@@ -2,6 +2,7 @@
 layout: term
 title: ahlakçı
 slug: ahlakci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ahlak konularını inceleyen filozof veya bu konularla uğraşan kimse

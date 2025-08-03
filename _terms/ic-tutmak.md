@@ -2,6 +2,7 @@
 layout: term
 title: iç tutmak
 slug: ic-tutmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - yemişin içi oluşmak

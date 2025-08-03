@@ -2,6 +2,7 @@
 layout: term
 title: zahirde
 slug: zahirde
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► görünüşte

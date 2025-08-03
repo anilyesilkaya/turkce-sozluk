@@ -2,6 +2,7 @@
 layout: term
 title: tekellüf
 slug: tekelluf
+letter: T
 lisan: Arapça tekelluf
 anlamlar:
 - Zahmet veren bir iş görme, güçlüğe katlanma

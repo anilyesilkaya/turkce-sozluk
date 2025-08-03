@@ -2,6 +2,7 @@
 layout: term
 title: haseki
 slug: haseki
+letter: H
 lisan: Arapça ḫāṣṣe + Farsça -gi
 anlamlar:
 - Osmanlı Devleti'nde bir görevde eskimiş olanlara verilen ünvan

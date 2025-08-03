@@ -2,6 +2,7 @@
 layout: term
 title: temin
 slug: temin
+letter: T
 lisan: Arapça teʾmīn
 anlamlar:
 - Korkusunu giderme, inanç verme

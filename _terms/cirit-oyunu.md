@@ -2,6 +2,7 @@
 layout: term
 title: cirit oyunu
 slug: cirit-oyunu
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► cirit

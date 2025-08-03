@@ -2,6 +2,7 @@
 layout: term
 title: krem rengi
 slug: krem-rengi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Saman renginin bir veya birkaç ton açığı; krem, açık saman rengi, balköpüğü, bal sarısı

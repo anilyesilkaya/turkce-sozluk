@@ -2,6 +2,7 @@
 layout: term
 title: çehre züğürdü
 slug: cehre-zugurdu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Yüzü çirkin olan kimse

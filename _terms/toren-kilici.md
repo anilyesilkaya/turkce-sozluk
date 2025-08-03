@@ -2,6 +2,7 @@
 layout: term
 title: tören kılıcı
 slug: toren-kilici
+letter: T
 lisan: Türkçe
 anlamlar:
 - Törenlerde takılan kılıç; merasim kılıcı

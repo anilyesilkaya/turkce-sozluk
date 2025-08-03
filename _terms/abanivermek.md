@@ -2,6 +2,7 @@
 layout: term
 title: abanıvermek
 slug: abanivermek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ansızın, çabucak abanmak

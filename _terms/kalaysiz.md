@@ -2,6 +2,7 @@
 layout: term
 title: kalaysız
 slug: kalaysiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalaylanmamış (kap)

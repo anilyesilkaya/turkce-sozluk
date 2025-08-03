@@ -2,6 +2,7 @@
 layout: term
 title: peşkeş çekmek
 slug: peskes-cekmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - başkasının malını birine armağan etmek

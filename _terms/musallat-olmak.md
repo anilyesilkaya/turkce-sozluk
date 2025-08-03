@@ -2,6 +2,7 @@
 layout: term
 title: musallat olmak
 slug: musallat-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - birini sürekli rahatsız etmek, birine sataşmak, peşini hiç bırakmamak

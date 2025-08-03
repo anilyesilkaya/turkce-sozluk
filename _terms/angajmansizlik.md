@@ -2,6 +2,7 @@
 layout: term
 title: angajmansızlık
 slug: angajmansizlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► bağlantısızlık

@@ -2,6 +2,7 @@
 layout: term
 title: çıkarcılık
 slug: cikarcilik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıkarcı olma durumu; çıkarseverlik, menfaatçilik, menfaatperestlik, menfaatperverlik, menfaat düşkünlüğü

@@ -2,6 +2,7 @@
 layout: term
 title: ulvi
 slug: ulvi
+letter: U
 lisan: Arapça ʿulvī
 anlamlar:
 - ► yüce

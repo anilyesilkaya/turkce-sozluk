@@ -2,6 +2,7 @@
 layout: term
 title: dumanı üstünde
 slug: dumani-ustunde
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çok taze (sebze, meyve, yemek vb.)

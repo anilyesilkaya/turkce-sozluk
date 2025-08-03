@@ -2,6 +2,7 @@
 layout: term
 title: patinaj
 slug: patinaj
+letter: P
 lisan: Fransızca patinage
 anlamlar:
 - ► buz pateni

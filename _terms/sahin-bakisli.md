@@ -2,6 +2,7 @@
 layout: term
 title: şahin bakışlı
 slug: sahin-bakisli
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Bakışları sert ve keskin olan

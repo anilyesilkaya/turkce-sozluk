@@ -2,6 +2,7 @@
 layout: term
 title: kurabilmek
 slug: kurabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kurma ihtimali veya imkânı bulunmak

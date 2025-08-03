@@ -2,6 +2,7 @@
 layout: term
 title: tediye etmek
 slug: tediye-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - ödemek

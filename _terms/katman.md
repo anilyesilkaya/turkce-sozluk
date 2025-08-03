@@ -2,6 +2,7 @@
 layout: term
 title: katman
 slug: katman
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kat (I)

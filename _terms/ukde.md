@@ -2,6 +2,7 @@
 layout: term
 title: ukde
 slug: ukde
+letter: U
 lisan: Arapça ʿuḳde
 anlamlar:
 - İçe dert olan şey

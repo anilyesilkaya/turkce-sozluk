@@ -2,6 +2,7 @@
 layout: term
 title: ipucu
 slug: ipucu
+letter: I
 lisan: Türkçe
 anlamlar:
 - İnsanı aradığı gerçeğe ulaştırabilecek belirti

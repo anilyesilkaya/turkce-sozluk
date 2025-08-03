@@ -2,6 +2,7 @@
 layout: term
 title: karman çorman olmak
 slug: karman-corman-olmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - çok karışık ve düzensiz duruma gelmek

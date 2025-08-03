@@ -2,6 +2,7 @@
 layout: term
 title: keskinleştirmek
 slug: keskinlestirmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Keskin duruma getirmek

@@ -2,6 +2,7 @@
 layout: term
 title: dünden
 slug: dunden
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir önceki günden

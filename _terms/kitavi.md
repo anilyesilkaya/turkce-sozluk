@@ -2,6 +2,7 @@
 layout: term
 title: 'kıtavi '
 slug: kitavi
+letter: K
 lisan: Arapça ḳiṭʿavī
 anlamlar:
 - ► kıtasal

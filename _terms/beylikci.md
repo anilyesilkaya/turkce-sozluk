@@ -2,6 +2,7 @@
 layout: term
 title: beylikçi
 slug: beylikci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Divan kâtiplerinin başı, reisi

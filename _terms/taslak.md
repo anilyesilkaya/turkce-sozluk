@@ -2,6 +2,7 @@
 layout: term
 title: taslak
 slug: taslak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir şeyi, bir sanat veya edebiyat eserini ana çizgileriyle, türlü bölümleriyle belirten ön çalışma

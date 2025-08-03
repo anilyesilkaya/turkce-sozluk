@@ -2,6 +2,7 @@
 layout: term
 title: lobi
 slug: lobi
+letter: L
 lisan: Fransızca lobby
 anlamlar:
 - Bir yapının kapısından içeri girildiğinde görülen ilk boşluk; dalan

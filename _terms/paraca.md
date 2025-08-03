@@ -2,6 +2,7 @@
 layout: term
 title: paraca
 slug: paraca
+letter: P
 lisan: Türkçe
 anlamlar:
 - Para ile ilgili olarak, para bakımından

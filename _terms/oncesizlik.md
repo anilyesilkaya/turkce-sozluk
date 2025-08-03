@@ -2,6 +2,7 @@
 layout: term
 title: öncesizlik
 slug: oncesizlik
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öncesi olmama durumu

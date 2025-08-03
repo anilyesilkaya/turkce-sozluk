@@ -2,6 +2,7 @@
 layout: term
 title: doluşulmak
 slug: dolusulmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Topluca bir yere girilmek; dolunmak

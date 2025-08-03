@@ -2,6 +2,7 @@
 layout: term
 title: eyvahlar olsun
 slug: eyvahlar-olsun
+letter: E
 lisan: Türkçe
 anlamlar:
 - vah vah, pek yazık

@@ -2,6 +2,7 @@
 layout: term
 title: kulağı ters taraftan göstermek
 slug: kulagi-ters-taraftan-gostermek
+letter: K
 lisan: Türkçe
 anlamlar:
 - kolay yolu varken bir işi daha zor ve uzun yollar kullanarak yapmak

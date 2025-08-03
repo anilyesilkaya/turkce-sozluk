@@ -2,6 +2,7 @@
 layout: term
 title: yerli yersiz
 slug: yerli-yersiz
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Uygun zamanı olup olmadığı düşünülmeden, nereye varacağı düşünülmeksizin; münasebetli münasebetsiz, ölçüsüz

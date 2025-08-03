@@ -2,6 +2,7 @@
 layout: term
 title: veresiye almak
 slug: veresiye-almak
+letter: V
 lisan: Türkçe
 anlamlar:
 - malı parasını daha sonra vermek şartıyla almak

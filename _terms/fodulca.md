@@ -2,6 +2,7 @@
 layout: term
 title: fodulca
 slug: fodulca
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fodul gibi

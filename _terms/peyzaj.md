@@ -2,6 +2,7 @@
 layout: term
 title: peyzaj
 slug: peyzaj
+letter: P
 lisan: Fransızca paysage
 anlamlar:
 - Kır resmi

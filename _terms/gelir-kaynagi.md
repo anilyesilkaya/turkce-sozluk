@@ -2,6 +2,7 @@
 layout: term
 title: gelir kaynağı
 slug: gelir-kaynagi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Para sağlama yeri veya faaliyeti

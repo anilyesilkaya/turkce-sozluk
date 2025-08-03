@@ -2,6 +2,7 @@
 layout: term
 title: bende
 slug: bende
+letter: B
 lisan: Farsça bende
 anlamlar:
 - ► köle

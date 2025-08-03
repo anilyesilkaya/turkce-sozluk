@@ -2,6 +2,7 @@
 layout: term
 title: bir ayağı çukurda olmak
 slug: bir-ayagi-cukurda-olmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - ağır hastalık vb. sebeplerle yaşayacak çok az zamanı kalmış olmak

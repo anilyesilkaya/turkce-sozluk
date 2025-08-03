@@ -2,6 +2,7 @@
 layout: term
 title: unsu
 slug: unsu
+letter: U
 lisan: Türkçe
 anlamlar:
 - Un gibi olan, unu andıran

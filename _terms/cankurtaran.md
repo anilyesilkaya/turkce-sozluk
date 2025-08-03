@@ -2,6 +2,7 @@
 layout: term
 title: cankurtaran
 slug: cankurtaran
+letter: C
 lisan: Türkçe
 anlamlar:
 - Hasta veya yaralı taşımaya uygun hazırlanmış özel araç; ambulans

@@ -2,6 +2,7 @@
 layout: term
 title: ağırayak
 slug: agirayak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Doğurması yakın (kadın)

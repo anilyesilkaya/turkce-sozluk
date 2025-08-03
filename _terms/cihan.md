@@ -2,6 +2,7 @@
 layout: term
 title: cihan
 slug: cihan
+letter: C
 lisan: Farsça cihān
 anlamlar:
 - ► evren

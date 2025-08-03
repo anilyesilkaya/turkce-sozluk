@@ -2,6 +2,7 @@
 layout: term
 title: kestirim
 slug: kestirim
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► tahmin

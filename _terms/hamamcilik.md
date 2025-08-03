@@ -2,6 +2,7 @@
 layout: term
 title: hamamcılık
 slug: hamamcilik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hamamcının yaptığı iş

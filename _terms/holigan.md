@@ -2,6 +2,7 @@
 layout: term
 title: holigan
 slug: holigan
+letter: H
 lisan: İngilizce hooligan
 anlamlar:
 - Fanatizmden beslenen, aşırı davranışlarda bulunan ve çevreye zarar vermeye eğilimli taraftar

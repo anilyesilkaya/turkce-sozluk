@@ -2,6 +2,7 @@
 layout: term
 title: sıfır
 slug: sifir
+letter: S
 lisan: Arapça ṣifr
 anlamlar:
 - Kendi başına değeri olmayan, ondalık sayı sisteminde sağına geldiği rakamı on kere büyüten işaret (0)

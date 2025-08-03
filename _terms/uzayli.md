@@ -2,6 +2,7 @@
 layout: term
 title: uzaylı
 slug: uzayli
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uzayda yaşadığı varsayılan (canlı)

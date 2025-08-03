@@ -2,6 +2,7 @@
 layout: term
 title: sakal
 slug: sakal
+letter: S
 lisan: Türkçe
 anlamlar:
 - Yetişkin erkeklerde yanak ve alt çenede çıkan kılların tümü

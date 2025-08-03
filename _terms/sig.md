@@ -2,6 +2,7 @@
 layout: term
 title: sığ
 slug: sig
+letter: S
 lisan: Türkçe
 anlamlar:
 - Derinliği az, dibi yüzeyine yakın olan (göl, deniz, akarsu vb.)

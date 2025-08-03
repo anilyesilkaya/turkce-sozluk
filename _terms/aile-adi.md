@@ -2,6 +2,7 @@
 layout: term
 title: aile adı
 slug: aile-adi
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► soyadı

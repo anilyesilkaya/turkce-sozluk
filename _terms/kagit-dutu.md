@@ -2,6 +2,7 @@
 layout: term
 title: kâğıt dutu
 slug: kagit-dutu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Dutgillerden, Çin'de ve Japonya'da yetişen, kabuğundan kâğıt yapılan bir ağaç; kâğıt ağacı (Broussenetia papyrifera)

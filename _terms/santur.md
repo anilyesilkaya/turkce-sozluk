@@ -2,6 +2,7 @@
 layout: term
 title: santur
 slug: santur
+letter: S
 lisan: Farsça sentūr
 anlamlar:
 - Kanuna benzeyen, tokmaklarla çalınan bir tür telli çalgı

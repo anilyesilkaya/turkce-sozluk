@@ -2,6 +2,7 @@
 layout: term
 title: karakuşi
 slug: karakusi
+letter: K
 lisan: Türkçe karakuş + Arapça -ī
 anlamlar:
 - Kanun, kural, mantık ölçülerine dayanmayan

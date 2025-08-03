@@ -2,6 +2,7 @@
 layout: term
 title: bulamak
 slug: bulamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir nesnenin her yanını bir şeye değdirerek üstünü onunla kaplamak; belemek

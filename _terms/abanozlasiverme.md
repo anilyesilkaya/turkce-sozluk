@@ -2,6 +2,7 @@
 layout: term
 title: abanozlaşıverme
 slug: abanozlasiverme
+letter: A
 lisan: Türkçe
 anlamlar:
 - Abanozlaşıvermek durumu

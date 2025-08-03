@@ -2,6 +2,7 @@
 layout: term
 title: vikaye etmek
 slug: vikaye-etmek
+letter: V
 lisan: Türkçe
 anlamlar:
 - korumak

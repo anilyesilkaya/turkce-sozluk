@@ -2,6 +2,7 @@
 layout: term
 title: hışıl hışıl
 slug: hisil-hisil
+letter: H
 lisan: Türkçe
 anlamlar:
 - '"Hışıltı" sesi çıkararak, hışıldayarak'

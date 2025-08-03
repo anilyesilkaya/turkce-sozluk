@@ -2,6 +2,7 @@
 layout: term
 title: obruklu
 slug: obruklu
+letter: O
 lisan: Türkçe
 anlamlar:
 - Obruğu olan

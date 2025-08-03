@@ -2,6 +2,7 @@
 layout: term
 title: çeviklik
 slug: ceviklik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çevikçe davranış; atiklik

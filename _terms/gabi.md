@@ -2,6 +2,7 @@
 layout: term
 title: gabi
 slug: gabi
+letter: G
 lisan: Arapça ġabī
 anlamlar:
 - ► kalın kafalı

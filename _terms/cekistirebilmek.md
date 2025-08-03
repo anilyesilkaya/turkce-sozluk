@@ -2,6 +2,7 @@
 layout: term
 title: çekiştirebilmek
 slug: cekistirebilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çekiştirme ihtimali veya imkânı bulunmak

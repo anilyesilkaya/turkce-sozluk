@@ -2,6 +2,7 @@
 layout: term
 title: verme
 slug: verme
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vermek işi; lütfetme, lütfeyleme

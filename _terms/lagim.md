@@ -2,6 +2,7 @@
 layout: term
 title: lağım
 slug: lagim
+letter: L
 lisan: Arapça laġm
 anlamlar:
 - Bir yerleşim merkezinde pis suların akıp gitmesi için yer altında açılmış kanal; geriz, keriz (II)

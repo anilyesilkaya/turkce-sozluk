@@ -2,6 +2,7 @@
 layout: term
 title: uyarı cezası
 slug: uyari-cezasi
+letter: U
 lisan: Türkçe
 anlamlar:
 - Görevli birisine işlediği suçtan dolayı soruşturma sonunda verilen ihtar cezası

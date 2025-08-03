@@ -2,6 +2,7 @@
 layout: term
 title: asparagas
 slug: asparagas
+letter: A
 lisan: İngilizce asparagus
 anlamlar:
 - ► şişirme haber

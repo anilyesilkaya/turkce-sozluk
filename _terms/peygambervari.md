@@ -2,6 +2,7 @@
 layout: term
 title: peygambervari
 slug: peygambervari
+letter: P
 lisan: Farsça peyġam-ber-vārī
 anlamlar:
 - Peygamber gibi

@@ -2,6 +2,7 @@
 layout: term
 title: ümit etmek
 slug: umit-etmek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - umut etmek

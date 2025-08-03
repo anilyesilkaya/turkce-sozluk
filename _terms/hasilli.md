@@ -2,6 +2,7 @@
 layout: term
 title: haşıllı
 slug: hasilli
+letter: H
 lisan: Türkçe
 anlamlar:
 - Haşıl içine konulmuş

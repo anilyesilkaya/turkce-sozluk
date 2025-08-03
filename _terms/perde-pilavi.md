@@ -2,6 +2,7 @@
 layout: term
 title: 'perde pilavı '
 slug: perde-pilavi
+letter: P
 lisan: Türkçe
 anlamlar:
 - Et, badem içi vb. kullanılıp etrafı hamurla kaplanarak pişirilen pirinç pilavı; perdeli pilav

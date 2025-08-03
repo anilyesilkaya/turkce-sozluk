@@ -2,6 +2,7 @@
 layout: term
 title: ezebilme
 slug: ezebilme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ezebilmek işi

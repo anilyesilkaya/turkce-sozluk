@@ -2,6 +2,7 @@
 layout: term
 title: bağlılaşım
 slug: baglilasim
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bağıntı

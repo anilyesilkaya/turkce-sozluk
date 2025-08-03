@@ -2,6 +2,7 @@
 layout: term
 title: yıldız rüzgârı
 slug: yildiz-ruzgari
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Kuzeyden esen soğuk yel; yıldız yeli

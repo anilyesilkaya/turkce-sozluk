@@ -2,6 +2,7 @@
 layout: term
 title: alakarga
 slug: alakarga
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kargagillerden, iri gövdeli, ötücü, tüyleri alacalı bir tür kuş; kestane kargası (Garrulus glandarius)

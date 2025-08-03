@@ -2,6 +2,7 @@
 layout: term
 title: çabukluk
 slug: cabukluk
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çabuk olma durumu; atiklik, acelelik, hızlılık, ivinti, sürat

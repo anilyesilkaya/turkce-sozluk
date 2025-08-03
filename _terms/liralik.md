@@ -2,6 +2,7 @@
 layout: term
 title: liralık
 slug: liralik
+letter: L
 lisan: Türkçe
 anlamlar:
 - Herhangi bir lira değerinde olan

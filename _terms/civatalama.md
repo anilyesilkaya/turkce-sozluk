@@ -2,6 +2,7 @@
 layout: term
 title: cıvatalama
 slug: civatalama
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cıvatalamak işi

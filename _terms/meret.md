@@ -2,6 +2,7 @@
 layout: term
 title: meret
 slug: meret
+letter: M
 lisan: Arapça mārid
 anlamlar:
 - Sıkıntı veren, hoşlanılmayan şeyler veya kimseler için kullanılan sövgü sözü

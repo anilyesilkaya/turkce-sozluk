@@ -2,6 +2,7 @@
 layout: term
 title: bilaistisna
 slug: bilaistisna
+letter: B
 lisan: Arapça bilāistis̱nā
 anlamlar:
 - ► istisnasız

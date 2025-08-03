@@ -2,6 +2,7 @@
 layout: term
 title: sof
 slug: sof
+letter: S
 lisan: Arapça ṣūf
 anlamlar:
 - Bir çeşit sertçe, ince yünlü kumaş

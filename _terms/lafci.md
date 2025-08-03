@@ -2,6 +2,7 @@
 layout: term
 title: lafçı
 slug: lafci
+letter: L
 lisan: Türkçe
 anlamlar:
 - ► geveze

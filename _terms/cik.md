@@ -2,6 +2,7 @@
 layout: term
 title: cık
 slug: cik
+letter: C
 lisan: Türkçe
 anlamlar:
 - '"Yok, olmaz" anlamında kullanılan bir söz'

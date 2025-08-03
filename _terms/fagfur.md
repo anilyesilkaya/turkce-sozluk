@@ -2,6 +2,7 @@
 layout: term
 title: fağfur
 slug: fagfur
+letter: F
 lisan: Farsça faġfūr
 anlamlar:
 - Çin imparatorlarına verilen ünvan

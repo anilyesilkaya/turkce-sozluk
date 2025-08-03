@@ -2,6 +2,7 @@
 layout: term
 title: istidatlı
 slug: istidatli
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► yetenekli

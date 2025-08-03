@@ -2,6 +2,7 @@
 layout: term
 title: anca
 slug: anca
+letter: A
 lisan: Türkçe
 anlamlar:
 - O kadar

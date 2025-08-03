@@ -2,6 +2,7 @@
 layout: term
 title: veri
 slug: veri
+letter: V
 lisan: Türkçe
 anlamlar:
 - Bir araştırmanın, bir tartışmanın, bir muhakemenin temeli olan ana öge; muta (I), data, done

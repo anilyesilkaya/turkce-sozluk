@@ -2,6 +2,7 @@
 layout: term
 title: budun
 slug: budun
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► kavim

@@ -2,6 +2,7 @@
 layout: term
 title: şaşmazlık
 slug: sasmazlik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şaşmaz olma durumu

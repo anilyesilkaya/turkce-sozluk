@@ -2,6 +2,7 @@
 layout: term
 title: puan tutturmak
 slug: puan-tutturmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - gereken sayıda puan kazanmak

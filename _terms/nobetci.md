@@ -2,6 +2,7 @@
 layout: term
 title: nöbetçi
 slug: nobetci
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nöbet bekleyen, nöbet sırası kendisinde olan kimse; nokta

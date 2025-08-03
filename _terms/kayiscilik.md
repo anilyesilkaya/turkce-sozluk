@@ -2,6 +2,7 @@
 layout: term
 title: kayışçılık
 slug: kayiscilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kayışçının yaptığı iş

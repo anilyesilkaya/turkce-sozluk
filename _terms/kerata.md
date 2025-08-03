@@ -2,6 +2,7 @@
 layout: term
 title: kerata
 slug: kerata
+letter: K
 lisan: Rumca
 anlamlar:
 - ► çekecek

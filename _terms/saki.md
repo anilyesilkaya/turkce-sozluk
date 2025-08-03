@@ -2,6 +2,7 @@
 layout: term
 title: şaki
 slug: saki
+letter: Ş
 lisan: Arapça şaḳī
 anlamlar:
 - ► haydut

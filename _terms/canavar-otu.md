@@ -2,6 +2,7 @@
 layout: term
 title: canavar otu
 slug: canavar-otu
+letter: C
 lisan: Türkçe
 anlamlar:
 - Canavar otugiller familyasının örnek türlerinden olan ve kenevirle tütün köklerinin asalaklarından biri sayılan çiçekli bitki (Orobanche ramosa)

@@ -2,6 +2,7 @@
 layout: term
 title: bantlamak
 slug: bantlamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bantla iki şeyi birbirine tutturmak, bant yapıştırmak

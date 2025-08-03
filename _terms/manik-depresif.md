@@ -2,6 +2,7 @@
 layout: term
 title: 'manik depresif '
 slug: manik-depresif
+letter: M
 lisan: İngilizce manic-depressive
 anlamlar:
 - Duygu durumu bozukluğu olan (kimse)

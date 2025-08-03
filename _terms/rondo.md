@@ -2,6 +2,7 @@
 layout: term
 title: rondo
 slug: rondo
+letter: R
 lisan: Fransızca rondeau
 anlamlar:
 - Dönen bıçakları sayesinde içine konulan gıdaları kıyma, parçalama, doğrama işine yarayan mutfak aleti

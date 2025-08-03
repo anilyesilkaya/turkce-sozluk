@@ -2,6 +2,7 @@
 layout: term
 title: çığıltı
 slug: cigilti
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çığlıkla karışık ses

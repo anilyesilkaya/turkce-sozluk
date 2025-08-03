@@ -2,6 +2,7 @@
 layout: term
 title: cillop gibi
 slug: cillop-gibi
+letter: C
 lisan: Türkçe
 anlamlar:
 - parlak ve pürüzsüz bir biçimde

@@ -2,6 +2,7 @@
 layout: term
 title: ışıltılı
 slug: isiltili
+letter: I
 lisan: Türkçe
 anlamlar:
 - Işıltısı olan, ışıltı yapan; ışıl ışıl

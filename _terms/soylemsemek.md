@@ -2,6 +2,7 @@
 layout: term
 title: söylemsemek
 slug: soylemsemek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Söyleniş özelliği taşımak

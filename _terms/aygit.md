@@ -2,6 +2,7 @@
 layout: term
 title: aygıt
 slug: aygit
+letter: A
 lisan: Türkçe
 anlamlar:
 - Birçok parçadan yapılmış alet; cihaz

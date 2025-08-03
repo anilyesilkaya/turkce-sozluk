@@ -2,6 +2,7 @@
 layout: term
 title: 'kara yazılı '
 slug: kara-yazili
+letter: K
 lisan: Türkçe
 anlamlar:
 - Alın yazısı kötü yazılan

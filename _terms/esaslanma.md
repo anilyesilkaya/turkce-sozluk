@@ -2,6 +2,7 @@
 layout: term
 title: esaslanma
 slug: esaslanma
+letter: E
 lisan: Türkçe
 anlamlar:
 - Esaslanmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: kilizman
 slug: kilizman
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sazlık, kamışlık

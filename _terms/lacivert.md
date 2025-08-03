@@ -2,6 +2,7 @@
 layout: term
 title: lacivert
 slug: lacivert
+letter: L
 lisan: Farsça lācverd
 anlamlar:
 - Mor ve mavinin karışımından ortaya çıkan renk

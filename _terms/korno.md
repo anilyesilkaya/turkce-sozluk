@@ -2,6 +2,7 @@
 layout: term
 title: korno
 slug: korno
+letter: K
 lisan: İtalyanca corno
 anlamlar:
 - Savaşlarda çağrı aracı olarak kullanılan boynuz veya fil dişi boru

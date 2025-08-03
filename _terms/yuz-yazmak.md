@@ -2,6 +2,7 @@
 layout: term
 title: yüz yazmak
 slug: yuz-yazmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - makyaj yapmak

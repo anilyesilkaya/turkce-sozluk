@@ -2,6 +2,7 @@
 layout: term
 title: azotölçer
 slug: azotolcer
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir organik maddede bulunan azotun gaz hacmini ayarlamaya yarayan aygıt; azotometre

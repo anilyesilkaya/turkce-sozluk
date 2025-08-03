@@ -2,6 +2,7 @@
 layout: term
 title: yol bel
 slug: yol-bel
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Geçilen yer

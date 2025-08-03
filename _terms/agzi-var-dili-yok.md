@@ -2,6 +2,7 @@
 layout: term
 title: ağzı var dili yok
 slug: agzi-var-dili-yok
+letter: A
 lisan: Türkçe
 anlamlar:
 - '"pek sessiz, kendi hâlinde" anlamında kullanılan bir söz'

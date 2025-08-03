@@ -2,6 +2,7 @@
 layout: term
 title: elemge
 slug: elemge
+letter: E
 lisan: Türkçe
 anlamlar:
 - Çile durumundaki ipliği yumak yapmak veya masuraya sarmak için kullanılan, bir eksen üzerinde dönen araç

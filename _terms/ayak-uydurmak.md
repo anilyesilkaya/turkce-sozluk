@@ -2,6 +2,7 @@
 layout: term
 title: ayak uydurmak
 slug: ayak-uydurmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - yürüyüşte adım atışını başkalarınınkine uydurmak

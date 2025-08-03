@@ -2,6 +2,7 @@
 layout: term
 title: akşamcılık etmek
 slug: aksamcilik-etmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - akşamcılar içki içmek amacıyla bir araya gelmek

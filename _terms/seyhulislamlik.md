@@ -2,6 +2,7 @@
 layout: term
 title: şeyhülislamlık
 slug: seyhulislamlik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şeyhülislam olma durumu

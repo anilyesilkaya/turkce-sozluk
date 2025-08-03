@@ -2,6 +2,7 @@
 layout: term
 title: süreç
 slug: surec
+letter: S
 lisan: Türkçe
 anlamlar:
 - Aralarında birlik olan veya belli bir düzen veya zaman içinde tekrarlanan, ilerleyen, gelişen olay ve hareketler dizisi; vetire, proses

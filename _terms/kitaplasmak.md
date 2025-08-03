@@ -2,6 +2,7 @@
 layout: term
 title: kitaplaşmak
 slug: kitaplasmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kitap durumuna gelmek

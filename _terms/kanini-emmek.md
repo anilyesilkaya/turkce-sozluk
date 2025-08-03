@@ -2,6 +2,7 @@
 layout: term
 title: kanını emmek
 slug: kanini-emmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - insafsızca sömürmek

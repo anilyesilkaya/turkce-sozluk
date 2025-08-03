@@ -2,6 +2,7 @@
 layout: term
 title: deneyimli
 slug: deneyimli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Deneyim kazanmış olan; dünya görmüş, tecrübeli, anaç

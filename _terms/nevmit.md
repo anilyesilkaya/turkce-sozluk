@@ -2,6 +2,7 @@
 layout: term
 title: nevmit
 slug: nevmit
+letter: N
 lisan: Farsça nevmīd
 anlamlar:
 - ► umutsuz

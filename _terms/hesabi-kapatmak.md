@@ -2,6 +2,7 @@
 layout: term
 title: hesabı kapatmak
 slug: hesabi-kapatmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - her türlü ilişkiyi bitirmek, sona erdirmek

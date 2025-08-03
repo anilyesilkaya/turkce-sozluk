@@ -2,6 +2,7 @@
 layout: term
 title: çiftetelli
 slug: ciftetelli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Göğüs ve göbek titreterek, gerdan kırarak oynanan bir oyun

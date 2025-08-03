@@ -2,6 +2,7 @@
 layout: term
 title: kemerli
 slug: kemerli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Üzerinde kemeri olan veya kemer takılmış olan

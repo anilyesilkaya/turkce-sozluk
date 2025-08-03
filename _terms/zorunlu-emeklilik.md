@@ -2,6 +2,7 @@
 layout: term
 title: zorunlu emeklilik
 slug: zorunlu-emeklilik
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Yasalarda belirlenmiş, belirtilen şartların ortaya çıkması durumunda, kişinin isteğine bağlı olmayan emeklilik

@@ -2,6 +2,7 @@
 layout: term
 title: yenmek
 slug: yenmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yemek işine konu olmak

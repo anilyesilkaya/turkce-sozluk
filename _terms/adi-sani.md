@@ -2,6 +2,7 @@
 layout: term
 title: adı sanı
 slug: adi-sani
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir kimsenin kimliği

@@ -2,6 +2,7 @@
 layout: term
 title: Venüs
 slug: venus
+letter: V
 lisan: Fransızca vénus
 anlamlar:
 - ► Çoban Yıldızı

@@ -2,6 +2,7 @@
 layout: term
 title: mücerrep
 slug: mucerrep
+letter: M
 lisan: Arapça mucerreb
 anlamlar:
 - Tecrübe edilmiş, denenmiş, sınanmış

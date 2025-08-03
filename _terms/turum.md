@@ -2,6 +2,7 @@
 layout: term
 title: türüm
 slug: turum
+letter: T
 lisan: Türkçe
 anlamlar:
 - Varlıkların oluşumu

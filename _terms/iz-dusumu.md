@@ -2,6 +2,7 @@
 layout: term
 title: iz düşümü
 slug: iz-dusumu
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► projeksiyon

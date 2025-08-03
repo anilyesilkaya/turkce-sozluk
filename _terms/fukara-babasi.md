@@ -2,6 +2,7 @@
 layout: term
 title: fukara babası
 slug: fukara-babasi
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► fakir fukara babası

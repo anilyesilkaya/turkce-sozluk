@@ -2,6 +2,7 @@
 layout: term
 title: çatık kaşlı
 slug: catik-kasli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Kaşları birbirine çok yakın ve çatık olan (kimse)

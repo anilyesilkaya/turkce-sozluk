@@ -2,6 +2,7 @@
 layout: term
 title: sabah akşam
 slug: sabah-aksam
+letter: S
 lisan: Türkçe
 anlamlar:
 - Her an

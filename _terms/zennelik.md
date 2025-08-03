@@ -2,6 +2,7 @@
 layout: term
 title: zennelik
 slug: zennelik
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zenne rolü

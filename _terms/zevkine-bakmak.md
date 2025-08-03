@@ -2,6 +2,7 @@
 layout: term
 title: zevkine bakmak
 slug: zevkine-bakmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - yalnız kendi eğlencesini düşünmek

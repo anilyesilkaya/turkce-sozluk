@@ -2,6 +2,7 @@
 layout: term
 title: kanıtsızlık
 slug: kanitsizlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kanıtsız olma durumu; ispatsızlık

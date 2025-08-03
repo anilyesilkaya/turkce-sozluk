@@ -2,6 +2,7 @@
 layout: term
 title: soytarı
 slug: soytari
+letter: S
 lisan: Arapça saʿterī
 anlamlar:
 - Söz ve davranışlarıyla halkı güldürüp eğlendiren kimse; kaşmer

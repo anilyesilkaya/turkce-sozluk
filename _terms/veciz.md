@@ -2,6 +2,7 @@
 layout: term
 title: veciz
 slug: veciz
+letter: V
 lisan: Arapça vecīz
 anlamlar:
 - Kısa ve etkili (ifade, söz); lakonik

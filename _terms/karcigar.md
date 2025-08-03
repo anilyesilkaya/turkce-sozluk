@@ -2,6 +2,7 @@
 layout: term
 title: karcığar
 slug: karcigar
+letter: K
 lisan: Türkçe
 anlamlar:
 - Klasik Türk müziğinde hareketli bir makam

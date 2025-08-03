@@ -2,6 +2,7 @@
 layout: term
 title: başöğretmenlik
 slug: basogretmenlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başöğretmen olma durumu; başmuallimlik

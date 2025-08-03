@@ -2,6 +2,7 @@
 layout: term
 title: kopça
 slug: kopca
+letter: K
 lisan: Bulgarca kopça
 anlamlar:
 - Bir giysinin iki yanını bitiştirmeye yarayan ve metal bir halka ile bir çengelden oluşan araç; agraf

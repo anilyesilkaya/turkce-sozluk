@@ -2,6 +2,7 @@
 layout: term
 title: imame
 slug: imame
+letter: I
 lisan: Arapça ʿimāme
 anlamlar:
 - Tespihlerin baş tarafına geçirilen uzunca parça

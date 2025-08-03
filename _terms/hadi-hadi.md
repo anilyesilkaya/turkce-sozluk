@@ -2,6 +2,7 @@
 layout: term
 title: hadi hadi
 slug: hadi-hadi
+letter: H
 lisan: Türkçe
 anlamlar:
 - '"Kısa kes, işi uzatma, bizi aldatamazsın" anlamlarında kullanılan bir söz'

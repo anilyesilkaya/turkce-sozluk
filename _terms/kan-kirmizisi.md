@@ -2,6 +2,7 @@
 layout: term
 title: 'kan kırmızısı '
 slug: kan-kirmizisi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çok kırmızı; kan kırmızı

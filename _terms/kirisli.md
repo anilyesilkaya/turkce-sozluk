@@ -2,6 +2,7 @@
 layout: term
 title: kirişli
 slug: kirisli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kirişi olan

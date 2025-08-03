@@ -2,6 +2,7 @@
 layout: term
 title: formatör
 slug: formator
+letter: F
 lisan: Fransızca formatuer
 anlamlar:
 - Belirli bir alanda özel bir eğitimden geçirilerek yetiştirilen öğretici

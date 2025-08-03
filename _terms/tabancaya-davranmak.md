@@ -2,6 +2,7 @@
 layout: term
 title: tabancaya davranmak
 slug: tabancaya-davranmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - ateş etmek için tabancayı bulunduğu yerden almaya kalkışmak

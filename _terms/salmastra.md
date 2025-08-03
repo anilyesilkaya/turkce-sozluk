@@ -2,6 +2,7 @@
 layout: term
 title: salmastra
 slug: salmastra
+letter: S
 lisan: İtalyanca salmastra
 anlamlar:
 - Halat tellerinden saç gibi örülmüş olan ip

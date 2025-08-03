@@ -2,6 +2,7 @@
 layout: term
 title: büvet
 slug: buvet
+letter: B
 lisan: Fransızca buvette
 anlamlar:
 - İstasyon, tiyatro, sinema vb. yerlerde yiyecek ve içecek satılan küçük büfe

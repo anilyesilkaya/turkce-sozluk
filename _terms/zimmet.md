@@ -2,6 +2,7 @@
 layout: term
 title: zimmet
 slug: zimmet
+letter: Z
 lisan: Arapça ẕimmet
 anlamlar:
 - Üstünde olan şey

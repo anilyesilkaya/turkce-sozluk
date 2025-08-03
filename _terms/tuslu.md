@@ -2,6 +2,7 @@
 layout: term
 title: tuşlu
 slug: tuslu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tuşu olan

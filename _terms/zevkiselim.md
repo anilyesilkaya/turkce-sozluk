@@ -2,6 +2,7 @@
 layout: term
 title: zevkiselim
 slug: zevkiselim
+letter: Z
 lisan: Arapça ẕevḳ + selīm
 anlamlar:
 - En yüksek zevk

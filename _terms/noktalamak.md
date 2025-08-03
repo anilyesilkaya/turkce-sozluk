@@ -2,6 +2,7 @@
 layout: term
 title: noktalamak
 slug: noktalamak
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nokta koymak

@@ -2,6 +2,7 @@
 layout: term
 title: işe sarılmak
 slug: ise-sarilmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - kendini tamamen bir şeye veya işe vermek

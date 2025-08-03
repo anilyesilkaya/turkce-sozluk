@@ -2,6 +2,7 @@
 layout: term
 title: harıl harıl
 slug: haril-haril
+letter: H
 lisan: Türkçe
 anlamlar:
 - Aralıksız olarak

@@ -2,6 +2,7 @@
 layout: term
 title: sofracı
 slug: sofraci
+letter: S
 lisan: Türkçe
 anlamlar:
 - Saraylarda, konaklarda sofrayı kurma, kaldırma, yemeği dağıtma vb. işlerle görevlendirilmiş kimse

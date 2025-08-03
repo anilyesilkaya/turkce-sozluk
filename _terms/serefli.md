@@ -2,6 +2,7 @@
 layout: term
 title: şerefli
 slug: serefli
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şerefi olan; onurlu

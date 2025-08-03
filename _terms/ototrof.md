@@ -2,6 +2,7 @@
 layout: term
 title: ototrof
 slug: ototrof
+letter: O
 lisan: Fransızca autotrophe
 anlamlar:
 - ► özbeslenen

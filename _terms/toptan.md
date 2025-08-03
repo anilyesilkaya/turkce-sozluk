@@ -2,6 +2,7 @@
 layout: term
 title: toptan
 slug: toptan
+letter: T
 lisan: Türkçe
 anlamlar:
 - Büyük ölçüde, çok miktarda yapılan (alışveriş), perakende karşıtı

@@ -2,6 +2,7 @@
 layout: term
 title: yoz
 slug: yoz
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Doğada olduğu gibi kalarak işlenmemiş olan

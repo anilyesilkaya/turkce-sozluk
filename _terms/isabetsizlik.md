@@ -2,6 +2,7 @@
 layout: term
 title: isabetsizlik
 slug: isabetsizlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İsabetsiz olma durumu

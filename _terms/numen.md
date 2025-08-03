@@ -2,6 +2,7 @@
 layout: term
 title: numen
 slug: numen
+letter: N
 lisan: Fransızca noumène
 anlamlar:
 - Nesnenin kendisi, görüngü karşıtı

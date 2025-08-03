@@ -2,6 +2,7 @@
 layout: term
 title: uyutum
 slug: uyutum
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► hipnoz

@@ -2,6 +2,7 @@
 layout: term
 title: pabuççu
 slug: pabuccu
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► ayakkabıcı

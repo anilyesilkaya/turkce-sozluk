@@ -2,6 +2,7 @@
 layout: term
 title: kıpkısa
 slug: kipkisa
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çok kısa

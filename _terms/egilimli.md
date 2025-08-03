@@ -2,6 +2,7 @@
 layout: term
 title: eğilimli
 slug: egilimli
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eğilimi olan; meyyal, tandanslı

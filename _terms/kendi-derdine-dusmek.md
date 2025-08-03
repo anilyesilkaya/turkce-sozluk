@@ -2,6 +2,7 @@
 layout: term
 title: kendi derdine düşmek
 slug: kendi-derdine-dusmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - kendi sorunu sebebiyle başka şeyle ilgilenememek

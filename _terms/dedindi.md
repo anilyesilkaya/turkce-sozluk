@@ -2,6 +2,7 @@
 layout: term
 title: dedindi
 slug: dedindi
+letter: D
 lisan: Türkçe
 anlamlar:
 - “daha önceden söylemiştin” anlamında kullanılan bir söz

@@ -2,6 +2,7 @@
 layout: term
 title: eş değerli
 slug: es-degerli
+letter: E
 lisan: Türkçe
 anlamlar:
 - Değerleri eşit olan

@@ -2,6 +2,7 @@
 layout: term
 title: kadınlı erkekli
 slug: kadinli-erkekli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kadın erkek karışık

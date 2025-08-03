@@ -2,6 +2,7 @@
 layout: term
 title: börekçi
 slug: borekci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Börek yapan veya satan kimse

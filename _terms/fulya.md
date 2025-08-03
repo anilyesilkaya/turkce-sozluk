@@ -2,6 +2,7 @@
 layout: term
 title: fulya
 slug: fulya
+letter: F
 lisan: İtalyanca pulia
 anlamlar:
 - Nergisgillerden, soğan köklü bir bitki; soğan çiçeği, zerrin (Narcissus jonquilla)

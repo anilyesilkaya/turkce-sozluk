@@ -2,6 +2,7 @@
 layout: term
 title: kenar mahalle
 slug: kenar-mahalle
+letter: K
 lisan: Türkçe
 anlamlar:
 - Şehrin merkezinden uzak ve çoğu eğitim düzeyi düşük yoksul halkın oturduğu semt; kenar semt

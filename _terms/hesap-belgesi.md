@@ -2,6 +2,7 @@
 layout: term
 title: hesap belgesi
 slug: hesap-belgesi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Bankalarda çekilen veya yatırılan para karşılığında verilen belge; dekont

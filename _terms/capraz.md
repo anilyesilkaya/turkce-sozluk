@@ -2,6 +2,7 @@
 layout: term
 title: çapraz
 slug: capraz
+letter: Ç
 lisan: Farsça çep + rāst
 anlamlar:
 - Eğik olarak birbiriyle kesişen

@@ -2,6 +2,7 @@
 layout: term
 title: tehalük göstermek
 slug: tehaluk-gostermek
+letter: T
 lisan: Türkçe
 anlamlar:
 - can atmak, çok istemek

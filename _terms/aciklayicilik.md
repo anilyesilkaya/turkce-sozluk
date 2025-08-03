@@ -2,6 +2,7 @@
 layout: term
 title: açıklayıcılık
 slug: aciklayicilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Açıklayıcı olma durumu

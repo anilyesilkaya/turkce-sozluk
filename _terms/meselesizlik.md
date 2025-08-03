@@ -2,6 +2,7 @@
 layout: term
 title: meselesizlik
 slug: meselesizlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► sorunsuzluk

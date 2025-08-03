@@ -2,6 +2,7 @@
 layout: term
 title: enseleyebilmek
 slug: enseleyebilmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Enseleme ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: bağlattırmak
 slug: baglattirmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağlatma işini yaptırmak

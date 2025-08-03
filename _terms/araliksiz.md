@@ -2,6 +2,7 @@
 layout: term
 title: aralıksız
 slug: araliksiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Birbirine bitişik olan, aralarında açıklık bulunmayan

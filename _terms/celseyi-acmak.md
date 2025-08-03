@@ -2,6 +2,7 @@
 layout: term
 title: celseyi açmak
 slug: celseyi-acmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - oturumu açmak

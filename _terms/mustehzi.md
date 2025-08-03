@@ -2,6 +2,7 @@
 layout: term
 title: müstehzi
 slug: mustehzi
+letter: M
 lisan: Arapça mustehzī
 anlamlar:
 - ► alaycı

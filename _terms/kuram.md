@@ -2,6 +2,7 @@
 layout: term
 title: kuram
 slug: kuram
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sistemli bir biçimde düzenlenmiş birçok olayı açıklayan ve bir bilime temel olan kurallar, yasalar bütünü; nazariyat, nazariye, teori

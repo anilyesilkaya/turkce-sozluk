@@ -2,6 +2,7 @@
 layout: term
 title: burun kıvırmak
 slug: burun-kivirmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - önem vermemek, küçümsemek, beğenmemek

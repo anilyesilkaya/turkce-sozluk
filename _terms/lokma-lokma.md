@@ -2,6 +2,7 @@
 layout: term
 title: 'lokma lokma '
 slug: lokma-lokma
+letter: L
 lisan: Türkçe
 anlamlar:
 - Parçalar hâlinde

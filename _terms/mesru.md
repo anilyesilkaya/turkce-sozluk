@@ -2,6 +2,7 @@
 layout: term
 title: meşru
 slug: mesru
+letter: M
 lisan: Arapça meşrūʿ
 anlamlar:
 - ► yasal

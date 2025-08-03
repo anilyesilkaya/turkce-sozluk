@@ -2,6 +2,7 @@
 layout: term
 title: tesdis
 slug: tesdis
+letter: T
 lisan: Arapça tesdīs
 anlamlar:
 - Sayısını altıya çıkarma veya altıya bölme

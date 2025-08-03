@@ -2,6 +2,7 @@
 layout: term
 title: kontrat
 slug: kontrat
+letter: K
 lisan: Fransızca contrat
 anlamlar:
 - ► sözleşme

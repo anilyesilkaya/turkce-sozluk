@@ -2,6 +2,7 @@
 layout: term
 title: kökü kazınmak
 slug: koku-kazinmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir daha ortaya çıkamayacak biçimde yok edilmek

@@ -2,6 +2,7 @@
 layout: term
 title: kukla tiyatrosu
 slug: kukla-tiyatrosu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kukla oyununun yapıldığı tiyatro

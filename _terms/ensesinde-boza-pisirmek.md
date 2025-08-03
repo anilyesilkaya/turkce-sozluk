@@ -2,6 +2,7 @@
 layout: term
 title: ensesinde boza pişirmek
 slug: ensesinde-boza-pisirmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - ısıtmak, kızgın duruma getirmek

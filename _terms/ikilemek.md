@@ -2,6 +2,7 @@
 layout: term
 title: ikilemek
 slug: ikilemek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bir şeyin sayısını ikiye çıkarmak; çiftlemek

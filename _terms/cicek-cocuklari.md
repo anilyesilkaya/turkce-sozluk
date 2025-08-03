@@ -2,6 +2,7 @@
 layout: term
 title: çiçek çocukları
 slug: cicek-cocuklari
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çağdaş toplumu eleştiren, özgürlük hareketlerini destekleyen, kendine özgü düşüncelerini sergileyen gençlik kesimi

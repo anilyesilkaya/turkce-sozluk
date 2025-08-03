@@ -2,6 +2,7 @@
 layout: term
 title: ahlaki
 slug: ahlaki
+letter: A
 lisan: Arapça aḫlāḳī
 anlamlar:
 - Ahlaka uygun, ahlakla ilgili; aktöresel, sağtöresel, törel, etik

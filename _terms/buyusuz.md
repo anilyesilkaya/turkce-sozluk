@@ -2,6 +2,7 @@
 layout: term
 title: büyüsüz
 slug: buyusuz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Büyüsü olmayan; sihirsiz

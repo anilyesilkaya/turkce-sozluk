@@ -2,6 +2,7 @@
 layout: term
 title: denizleylakları
 slug: denizleylaklari
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► denizlaleleri

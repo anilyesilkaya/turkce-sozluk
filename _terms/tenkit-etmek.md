@@ -2,6 +2,7 @@
 layout: term
 title: tenkit etmek
 slug: tenkit-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - eleştirmek

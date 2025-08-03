@@ -2,6 +2,7 @@
 layout: term
 title: işten güçten kalmak
 slug: isten-gucten-kalmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - herhangi bir sebeple çalışamamak

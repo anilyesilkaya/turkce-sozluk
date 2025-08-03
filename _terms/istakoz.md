@@ -2,6 +2,7 @@
 layout: term
 title: ıstakoz
 slug: istakoz
+letter: I
 lisan: Rumca
 anlamlar:
 - Istakozlardan, suda yaşayan, birinci ayak çifti güçlü iki kıskaç durumunda gelişmiş bulunan, beyaz eti için avlanan iri bir böcek (Homarus vulgaris)

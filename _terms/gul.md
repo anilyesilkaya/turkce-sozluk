@@ -2,6 +2,7 @@
 layout: term
 title: gül
 slug: gul
+letter: G
 lisan: Farsça gul
 anlamlar:
 - Gülgillerin örnek bitkisi (Rosa)

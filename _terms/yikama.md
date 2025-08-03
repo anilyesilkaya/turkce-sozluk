@@ -2,6 +2,7 @@
 layout: term
 title: yıkama
 slug: yikama
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yıkamak işi; yuma

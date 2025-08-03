@@ -2,6 +2,7 @@
 layout: term
 title: adamlık
 slug: adamlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► insanlık

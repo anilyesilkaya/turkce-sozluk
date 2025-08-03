@@ -2,6 +2,7 @@
 layout: term
 title: beton suratlı
 slug: beton-suratli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Düşüncelerini, duygularını yüzünden belli etmeyen

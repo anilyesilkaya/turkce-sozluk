@@ -2,6 +2,7 @@
 layout: term
 title: bileştirmek
 slug: bilestirmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bileşmesini sağlamak

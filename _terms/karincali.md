@@ -2,6 +2,7 @@
 layout: term
 title: karıncalı
 slug: karincali
+letter: K
 lisan: Türkçe
 anlamlar:
 - İçinde, üstünde karınca bulunan

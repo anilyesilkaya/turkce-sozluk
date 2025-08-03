@@ -2,6 +2,7 @@
 layout: term
 title: yetenekli
 slug: yetenekli
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yeteneği olan; çaplı, istidatlı, kabiliyetli

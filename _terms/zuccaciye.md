@@ -2,6 +2,7 @@
 layout: term
 title: züccaciye
 slug: zuccaciye
+letter: Z
 lisan: Arapça zucāciyye
 anlamlar:
 - Cam, porselen vb. maddelerden yapılmış bardak, tabak vb. eşya; cıncık

@@ -2,6 +2,7 @@
 layout: term
 title: itiraf etmek
 slug: itiraf-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - başkaları tarafından bilinmesi sakıncalı görülen bir gerçeği saklamaktan vazgeçip açıklamak, söylemek, bildirmek

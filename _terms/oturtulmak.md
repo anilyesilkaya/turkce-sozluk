@@ -2,6 +2,7 @@
 layout: term
 title: oturtulmak
 slug: oturtulmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oturtma işine konu olmak

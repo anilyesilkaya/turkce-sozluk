@@ -2,6 +2,7 @@
 layout: term
 title: gözünü karartmak
 slug: gozunu-karartmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - bir işe atılırken hiçbir şeyden çekinmemek

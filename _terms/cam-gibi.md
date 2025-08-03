@@ -2,6 +2,7 @@
 layout: term
 title: cam gibi
 slug: cam-gibi
+letter: C
 lisan: Türkçe
 anlamlar:
 - arkası görünen, saydam, şeffaf

@@ -2,6 +2,7 @@
 layout: term
 title: kabadayı
 slug: kabadayi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kendine özgü namus kurallarını esas alıp toplum kurallarının dışına çıkarak zorbalık yapan, etrafa meydan okuyan kimse; bıçkın, dayı, efe

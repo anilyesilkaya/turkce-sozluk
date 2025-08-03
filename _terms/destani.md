@@ -2,6 +2,7 @@
 layout: term
 title: destani
 slug: destani
+letter: D
 lisan: Farsça destān + Arapça -ī
 anlamlar:
 - ► destansı

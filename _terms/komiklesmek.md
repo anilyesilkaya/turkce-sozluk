@@ -2,6 +2,7 @@
 layout: term
 title: komikleşmek
 slug: komiklesmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► gülünçleşmek

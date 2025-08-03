@@ -2,6 +2,7 @@
 layout: term
 title: cehennemin dibi (veya bucağı)
 slug: cehennemin-dibi-veya-bucagi
+letter: C
 lisan: Türkçe
 anlamlar:
 - çok uzak yer

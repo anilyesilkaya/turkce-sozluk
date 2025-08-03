@@ -2,6 +2,7 @@
 layout: term
 title: kapama
 slug: kapama
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kapamak işi

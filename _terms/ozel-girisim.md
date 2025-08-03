@@ -2,6 +2,7 @@
 layout: term
 title: özel girişim
 slug: ozel-girisim
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► özel sektör

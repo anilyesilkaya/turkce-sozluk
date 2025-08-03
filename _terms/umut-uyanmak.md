@@ -2,6 +2,7 @@
 layout: term
 title: umut uyanmak
 slug: umut-uyanmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - umut doğmak, umut belirmek

@@ -2,6 +2,7 @@
 layout: term
 title: korumalı
 slug: korumali
+letter: K
 lisan: Türkçe
 anlamlar:
 - Korunan

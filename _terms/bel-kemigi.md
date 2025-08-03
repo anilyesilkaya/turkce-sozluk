@@ -2,6 +2,7 @@
 layout: term
 title: bel kemiği
 slug: bel-kemigi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Omurganın beli oluşturan bölümü; oma, amudufıkari

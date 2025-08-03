@@ -2,6 +2,7 @@
 layout: term
 title: toprak
 slug: toprak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Yer kabuğunun, toz durumuna gelmiş türlü kütle kırıntılarıyla, çürümüş organik cisimlerden oluşan ve canlılara yaşama ortamı sağlayan yüzey bölümü; kara yer, hâk, türap

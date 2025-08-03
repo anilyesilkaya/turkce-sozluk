@@ -2,6 +2,7 @@
 layout: term
 title: bant doldurmak
 slug: bant-doldurmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir banda ses kaydetmek

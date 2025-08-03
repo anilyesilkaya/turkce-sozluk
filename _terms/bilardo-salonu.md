@@ -2,6 +2,7 @@
 layout: term
 title: bilardo salonu
 slug: bilardo-salonu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilardo oyununun oynatıldığı yer

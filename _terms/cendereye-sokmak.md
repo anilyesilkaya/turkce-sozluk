@@ -2,6 +2,7 @@
 layout: term
 title: cendereye sokmak
 slug: cendereye-sokmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - manevi açıdan baskı altına almak

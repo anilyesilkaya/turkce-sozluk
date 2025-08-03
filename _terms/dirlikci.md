@@ -2,6 +2,7 @@
 layout: term
 title: dirlikçi
 slug: dirlikci
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dirlik sahibi olan kimse

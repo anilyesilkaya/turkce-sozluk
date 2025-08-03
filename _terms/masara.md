@@ -2,6 +2,7 @@
 layout: term
 title: masara
 slug: masara
+letter: M
 lisan: Arapça maʿṣara
 anlamlar:
 - Küçük, dar yer veya hücre

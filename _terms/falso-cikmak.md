@@ -2,6 +2,7 @@
 layout: term
 title: falso çıkmak
 slug: falso-cikmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - bozuk olmak

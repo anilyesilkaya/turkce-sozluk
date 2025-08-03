@@ -2,6 +2,7 @@
 layout: term
 title: iyiden iyiye
 slug: iyiden-iyiye
+letter: I
 lisan: Türkçe
 anlamlar:
 - Adamakıllı, çok iyi, gereği gibi; domuzuna

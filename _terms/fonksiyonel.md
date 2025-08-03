@@ -2,6 +2,7 @@
 layout: term
 title: fonksiyonel
 slug: fonksiyonel
+letter: F
 lisan: Fransızca fonctionnel
 anlamlar:
 - ► işlevsel

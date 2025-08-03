@@ -2,6 +2,7 @@
 layout: term
 title: benimsenmek
 slug: benimsenmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Benimseme işine konu olmak

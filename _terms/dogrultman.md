@@ -2,6 +2,7 @@
 layout: term
 title: doğrultman
 slug: dogrultman
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir nokta veya bir çizginin hareketine yön vererek bu hareketi yöneten şey

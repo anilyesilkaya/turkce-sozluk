@@ -2,6 +2,7 @@
 layout: term
 title: televizyon alıcısı
 slug: televizyon-alicisi
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► televizyon

@@ -2,6 +2,7 @@
 layout: term
 title: içre
 slug: icre
+letter: I
 lisan: Türkçe
 anlamlar:
 - İçerisinde

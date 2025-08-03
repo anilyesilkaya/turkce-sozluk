@@ -2,6 +2,7 @@
 layout: term
 title: çırpıcı
 slug: cirpici
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çırpma işini yapan kimse veya şey

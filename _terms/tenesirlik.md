@@ -2,6 +2,7 @@
 layout: term
 title: teneşirlik
 slug: tenesirlik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Cami avlularında teneşir ve tabut konulan yer

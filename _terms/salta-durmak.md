@@ -2,6 +2,7 @@
 layout: term
 title: salta durmak
 slug: salta-durmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - köpek arka ayakları üzerine kalkmak

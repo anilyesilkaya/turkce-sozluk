@@ -2,6 +2,7 @@
 layout: term
 title: vâle
 slug: vale
+letter: V
 lisan: Farsça vāle
 anlamlar:
 - Genişlikleri ve çözgü tellerinin sayısı yönünden taftaya benzeyen, dokunduktan sonra pişirilmiş, ince ipekli kumaş

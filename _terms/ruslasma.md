@@ -2,6 +2,7 @@
 layout: term
 title: Ruslaşma
 slug: ruslasma
+letter: R
 lisan: Türkçe
 anlamlar:
 - Ruslaşmak durumu

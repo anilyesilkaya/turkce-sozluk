@@ -2,6 +2,7 @@
 layout: term
 title: terazilenmek
 slug: terazilenmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► dengelenmek

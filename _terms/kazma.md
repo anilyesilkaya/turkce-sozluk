@@ -2,6 +2,7 @@
 layout: term
 title: kazma
 slug: kazma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kazmak işi

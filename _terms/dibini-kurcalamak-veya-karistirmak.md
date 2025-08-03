@@ -2,6 +2,7 @@
 layout: term
 title: dibini kurcalamak (veya karıştırmak)
 slug: dibini-kurcalamak-veya-karistirmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - koz olarak kullanabilecek bir şeyler bulmak için araştırmak, sorup öğrenmek

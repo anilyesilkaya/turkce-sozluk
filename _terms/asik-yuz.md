@@ -2,6 +2,7 @@
 layout: term
 title: asık yüz
 slug: asik-yuz
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► asık surat

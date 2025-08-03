@@ -2,6 +2,7 @@
 layout: term
 title: çubuklama
 slug: cubuklama
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çubuklamak işi

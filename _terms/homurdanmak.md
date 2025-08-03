@@ -2,6 +2,7 @@
 layout: term
 title: homurdanmak
 slug: homurdanmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Öfke, kızgınlık, can sıkıntısıyla anlaşılmaz sesler çıkarmak; homurdamak

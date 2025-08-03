@@ -2,6 +2,7 @@
 layout: term
 title: napalm
 slug: napalm
+letter: N
 lisan: Fransızca napalm
 anlamlar:
 - Yangın bombalarının doldurulmasında kullanılan, alüminyum veya sodyum palmitatla kıvamlaştırılmış madde

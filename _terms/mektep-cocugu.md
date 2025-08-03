@@ -2,6 +2,7 @@
 layout: term
 title: mektep çocuğu
 slug: mektep-cocugu
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► öğrenci

@@ -2,6 +2,7 @@
 layout: term
 title: tutarlılık
 slug: tutarlilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tutarlı olma durumu; tutarlık

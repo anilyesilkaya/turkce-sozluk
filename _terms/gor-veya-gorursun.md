@@ -2,6 +2,7 @@
 layout: term
 title: gör (veya görürsün)
 slug: gor-veya-gorursun
+letter: G
 lisan: Türkçe
 anlamlar:
 - '"işin sonucunu anla, anlarsın" anlamında kullanılan bir tehdit sözü'

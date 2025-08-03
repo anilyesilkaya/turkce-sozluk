@@ -2,6 +2,7 @@
 layout: term
 title: binmek
 slug: binmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Yüksek bir şeyin veya bir hayvanın üstüne çıkıp ayaklarını sallandırarak oturmak

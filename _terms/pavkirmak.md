@@ -2,6 +2,7 @@
 layout: term
 title: pavkırmak
 slug: pavkirmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Tilki veya çakal ulumak

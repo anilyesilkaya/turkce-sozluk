@@ -2,6 +2,7 @@
 layout: term
 title: çok geçmeden
 slug: cok-gecmeden
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Kısa bir süre sonra

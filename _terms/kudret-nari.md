@@ -2,6 +2,7 @@
 layout: term
 title: kudret narı
 slug: kudret-nari
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sarı çiçekli, parçalı yapraklı, tırmanıcı ve bir yıllık otsu bir bitki (Momordica charantia)

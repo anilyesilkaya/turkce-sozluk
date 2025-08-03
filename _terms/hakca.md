@@ -2,6 +2,7 @@
 layout: term
 title: hakça
 slug: hakca
+letter: H
 lisan: Türkçe
 anlamlar:
 - Adalete uygun bir biçimde, doğrulukla; adilane

@@ -2,6 +2,7 @@
 layout: term
 title: basamaklama
 slug: basamaklama
+letter: B
 lisan: Türkçe
 anlamlar:
 - Basamaklamak işi

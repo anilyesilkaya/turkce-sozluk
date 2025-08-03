@@ -2,6 +2,7 @@
 layout: term
 title: hedef olmak
 slug: hedef-olmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - hoş olmayan herhangi bir davranışa uğramak

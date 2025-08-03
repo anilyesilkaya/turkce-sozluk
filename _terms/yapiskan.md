@@ -2,6 +2,7 @@
 layout: term
 title: yapışkan
 slug: yapiskan
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yapışma özelliği olan; lüzucetli, lüzuci

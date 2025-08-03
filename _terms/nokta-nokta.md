@@ -2,6 +2,7 @@
 layout: term
 title: nokta nokta
 slug: nokta-nokta
+letter: N
 lisan: Türkçe
 anlamlar:
 - Hafif hafif, belli belirsiz

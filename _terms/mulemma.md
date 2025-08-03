@@ -2,6 +2,7 @@
 layout: term
 title: mülemma
 slug: mulemma
+letter: M
 lisan: Arapça mulemmaʿ
 anlamlar:
 - Alaca renkli, renk renk

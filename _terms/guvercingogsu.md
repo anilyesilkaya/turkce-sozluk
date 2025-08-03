@@ -2,6 +2,7 @@
 layout: term
 title: güvercingöğsü
 slug: guvercingogsu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Yeşil ile mavi arasında böcekkabuğuna benzer dalgalı ve değişken renk

@@ -2,6 +2,7 @@
 layout: term
 title: steril
 slug: steril
+letter: S
 lisan: Fransızca stérile
 anlamlar:
 - ► arınık

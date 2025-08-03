@@ -2,6 +2,7 @@
 layout: term
 title: bakkal çakkal
 slug: bakkal-cakkal
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bakkal için kullanılan küçümseme sözü

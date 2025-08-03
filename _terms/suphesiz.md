@@ -2,6 +2,7 @@
 layout: term
 title: şüphesiz
 slug: suphesiz
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► kuşkusuz

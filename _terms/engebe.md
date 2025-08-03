@@ -2,6 +2,7 @@
 layout: term
 title: engebe
 slug: engebe
+letter: E
 lisan: Türkçe
 anlamlar:
 - Deprem, rüzgâr, sel vb. iç ve dış etmenlerin etkisiyle oluşan yayla, ova, koyak, çukur, dağ vb. biçimlerin bütünü; yüzey şekilleri, arıza, avarız

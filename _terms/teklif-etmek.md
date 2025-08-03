@@ -2,6 +2,7 @@
 layout: term
 title: teklif etmek
 slug: teklif-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - teklifte bulunmak

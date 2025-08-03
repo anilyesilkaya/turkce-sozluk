@@ -2,6 +2,7 @@
 layout: term
 title: aşina olmak
 slug: asina-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - tanımak, bilmek

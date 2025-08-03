@@ -2,6 +2,7 @@
 layout: term
 title: yosmalık
 slug: yosmalik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yosma olma durumu

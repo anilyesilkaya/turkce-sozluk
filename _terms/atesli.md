@@ -2,6 +2,7 @@
 layout: term
 title: ateşli
 slug: atesli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ateşi olan

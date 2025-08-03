@@ -2,6 +2,7 @@
 layout: term
 title: ada tavşanı
 slug: ada-tavsani
+letter: A
 lisan: Türkçe
 anlamlar:
 - Evcil cinsleri de olan, tavşana yakın bir kemirici memeli; yaban tavşanı (Oryctolagus cuniculus)

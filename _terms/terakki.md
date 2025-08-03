@@ -2,6 +2,7 @@
 layout: term
 title: terakki
 slug: terakki
+letter: T
 lisan: Arapça teraḳḳī
 anlamlar:
 - İlerleme, yükselme, gelişme

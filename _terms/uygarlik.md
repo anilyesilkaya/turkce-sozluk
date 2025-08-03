@@ -2,6 +2,7 @@
 layout: term
 title: uygarlık
 slug: uygarlik
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uygar olma durumu; medeniyet, medenilik

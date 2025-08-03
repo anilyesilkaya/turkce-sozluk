@@ -2,6 +2,7 @@
 layout: term
 title: inat
 slug: inat
+letter: I
 lisan: Arapça ʿinād
 anlamlar:
 - Bir konuda direnme, ayak direme; direnim

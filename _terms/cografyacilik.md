@@ -2,6 +2,7 @@
 layout: term
 title: coğrafyacılık
 slug: cografyacilik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Coğrafyacının yaptığı iş

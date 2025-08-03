@@ -2,6 +2,7 @@
 layout: term
 title: asma yaprağı
 slug: asma-yapragi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Zeytinyağlı ve etli sarma yapmakta kullanılan üzüm yaprağı

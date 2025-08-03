@@ -2,6 +2,7 @@
 layout: term
 title: dilenci vapuru
 slug: dilenci-vapuru
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bütün iskelelere uğrayarak sefer yapan vapur

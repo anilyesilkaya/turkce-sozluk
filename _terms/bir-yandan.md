@@ -2,6 +2,7 @@
 layout: term
 title: bir yandan
 slug: bir-yandan
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir taraftan, hem ... hem

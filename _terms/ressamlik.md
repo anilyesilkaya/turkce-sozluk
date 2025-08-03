@@ -2,6 +2,7 @@
 layout: term
 title: ressamlık
 slug: ressamlik
+letter: R
 lisan: Türkçe
 anlamlar:
 - Ressam olma durumu

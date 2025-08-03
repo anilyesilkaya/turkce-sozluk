@@ -2,6 +2,7 @@
 layout: term
 title: ser verip sır vermemek
 slug: ser-verip-sir-vermemek
+letter: S
 lisan: Türkçe
 anlamlar:
 - ağzı sıkı olmak

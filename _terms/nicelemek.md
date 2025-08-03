@@ -2,6 +2,7 @@
 layout: term
 title: nicelemek
 slug: nicelemek
+letter: N
 lisan: Türkçe
 anlamlar:
 - Bir şeyi sayı, ölçü vb. ile bildirmek

@@ -2,6 +2,7 @@
 layout: term
 title: imtihan etmek
 slug: imtihan-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - bilgi derecesini ölçmek

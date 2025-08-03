@@ -2,6 +2,7 @@
 layout: term
 title: fırdöndü
 slug: firdondu
+letter: F
 lisan: Türkçe
 anlamlar:
 - Biri döndüğünde ötekinin de dönmesini engellemek için uç uca getirilerek serbest bir eksenle bağlanmış çift halka

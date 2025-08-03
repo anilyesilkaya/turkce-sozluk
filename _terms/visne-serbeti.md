@@ -2,6 +2,7 @@
 layout: term
 title: vişne şerbeti
 slug: visne-serbeti
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vişne şurubu

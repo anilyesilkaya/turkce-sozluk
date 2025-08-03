@@ -2,6 +2,7 @@
 layout: term
 title: mürteci
 slug: murteci
+letter: M
 lisan: Arapça murteciʿ
 anlamlar:
 - ► gerici (I)

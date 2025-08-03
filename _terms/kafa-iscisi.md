@@ -2,6 +2,7 @@
 layout: term
 title: kafa işçisi
 slug: kafa-iscisi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Beyin gücü ile ortaya eser koyan, araştıran, inceleyip eleştiren kimse

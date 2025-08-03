@@ -2,6 +2,7 @@
 layout: term
 title: saflaştırma
 slug: saflastirma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Saflaştırmak (II) işi

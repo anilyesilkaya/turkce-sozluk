@@ -2,6 +2,7 @@
 layout: term
 title: bağışık
 slug: bagisik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Herhangi bir ödevin veya yükümlülüğün dışında kalan

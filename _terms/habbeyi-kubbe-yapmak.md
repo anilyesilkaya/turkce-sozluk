@@ -2,6 +2,7 @@
 layout: term
 title: habbeyi kubbe yapmak
 slug: habbeyi-kubbe-yapmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - önemsiz bir şeyi abartmak

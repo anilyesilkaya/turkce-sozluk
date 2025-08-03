@@ -2,6 +2,7 @@
 layout: term
 title: ışılak
 slug: isilak
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► parıltı

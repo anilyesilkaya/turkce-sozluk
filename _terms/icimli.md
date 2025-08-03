@@ -2,6 +2,7 @@
 layout: term
 title: içimli
 slug: icimli
+letter: I
 lisan: Türkçe
 anlamlar:
 - İçimi herhangi bir nitelikte olan

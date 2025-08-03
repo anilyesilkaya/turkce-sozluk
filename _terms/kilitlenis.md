@@ -2,6 +2,7 @@
 layout: term
 title: kilitleniş
 slug: kilitlenis
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kilitlenmek işi

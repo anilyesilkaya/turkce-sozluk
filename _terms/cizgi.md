@@ -2,6 +2,7 @@
 layout: term
 title: çizgi
 slug: cizgi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çizilerek veya çeşitli yollarla oluşmuş iz; cızık, çizi, çizik, hat, tahrir

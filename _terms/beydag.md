@@ -2,6 +2,7 @@
 layout: term
 title: Beydağ
 slug: beydag
+letter: B
 lisan: Türkçe
 anlamlar:
 - İzmir iline bağlı ilçelerden biri

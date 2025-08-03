@@ -2,6 +2,7 @@
 layout: term
 title: kırışmaca
 slug: kirismaca
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karşılıklı olarak birbirini öldürme

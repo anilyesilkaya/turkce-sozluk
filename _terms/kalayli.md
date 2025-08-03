@@ -2,6 +2,7 @@
 layout: term
 title: kalaylı
 slug: kalayli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalaylanmış (kap)

@@ -2,6 +2,7 @@
 layout: term
 title: dosdoğru
 slug: dosdogru
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çok doğru

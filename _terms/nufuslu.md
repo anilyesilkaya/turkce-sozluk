@@ -2,6 +2,7 @@
 layout: term
 title: nüfuslu
 slug: nufuslu
+letter: N
 lisan: Türkçe
 anlamlar:
 - Herhangi bir nüfusa sahip olan

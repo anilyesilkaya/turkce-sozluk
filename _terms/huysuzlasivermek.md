@@ -2,6 +2,7 @@
 layout: term
 title: huysuzlaşıvermek
 slug: huysuzlasivermek
+letter: H
 lisan: Türkçe
 anlamlar:
 - Çabucak veya ansızın huysuzlaşmak

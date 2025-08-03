@@ -2,6 +2,7 @@
 layout: term
 title: budama
 slug: budama
+letter: B
 lisan: Türkçe
 anlamlar:
 - Budamak işi

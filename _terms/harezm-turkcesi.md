@@ -2,6 +2,7 @@
 layout: term
 title: Harezm Türkçesi
 slug: harezm-turkcesi
+letter: H
 lisan: Türkçe
 anlamlar:
 - XIII-XIV. yüzyıllarda Türkistan’da Harezm bölgesinde kullanılmış olan konuşma ve yazı dili; Harezmce

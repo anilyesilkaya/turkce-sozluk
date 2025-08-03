@@ -2,6 +2,7 @@
 layout: term
 title: toplaşmak
 slug: toplasmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► toplanmak

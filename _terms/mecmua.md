@@ -2,6 +2,7 @@
 layout: term
 title: mecmua
 slug: mecmua
+letter: M
 lisan: Arapça mecmūʿa
 anlamlar:
 - ► dergi

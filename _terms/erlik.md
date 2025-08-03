@@ -2,6 +2,7 @@
 layout: term
 title: erlik
 slug: erlik
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► yiğitlik

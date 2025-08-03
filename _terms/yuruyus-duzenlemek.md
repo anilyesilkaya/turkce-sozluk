@@ -2,6 +2,7 @@
 layout: term
 title: yürüyüş düzenlemek
 slug: yuruyus-duzenlemek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - bir olayı protesto etmek veya bir konuya dikkat çekmek amacıyla toplu yürüyüş tertip etmek

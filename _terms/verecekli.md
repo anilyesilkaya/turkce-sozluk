@@ -2,6 +2,7 @@
 layout: term
 title: verecekli
 slug: verecekli
+letter: V
 lisan: Türkçe
 anlamlar:
 - ► borçlu, alacaklı karşıtı

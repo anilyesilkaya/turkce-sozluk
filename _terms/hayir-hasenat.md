@@ -2,6 +2,7 @@
 layout: term
 title: hayır hasenat
 slug: hayir-hasenat
+letter: H
 lisan: Arapça ḫayr ḥasenāt
 anlamlar:
 - Yararlı güzel şeyler

@@ -2,6 +2,7 @@
 layout: term
 title: ister misin?
 slug: ister-misin
+letter: I
 lisan: Türkçe
 anlamlar:
 - '"ya olursa" anlamında kullanılan bir söz'

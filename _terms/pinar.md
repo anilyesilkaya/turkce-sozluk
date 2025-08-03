@@ -2,6 +2,7 @@
 layout: term
 title: pınar
 slug: pinar
+letter: P
 lisan: Türkçe
 anlamlar:
 - Yerden kaynayarak çıkan su; bulak, göze

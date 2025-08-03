@@ -2,6 +2,7 @@
 layout: term
 title: çeyizlemek
 slug: ceyizlemek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çeyiz hazırlamak

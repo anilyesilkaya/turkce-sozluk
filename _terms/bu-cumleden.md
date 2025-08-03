@@ -2,6 +2,7 @@
 layout: term
 title: bu cümleden
 slug: bu-cumleden
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bunlar arasında, bunlar gibi

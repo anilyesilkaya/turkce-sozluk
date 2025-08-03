@@ -2,6 +2,7 @@
 layout: term
 title: çıkınlamak
 slug: cikinlamak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıkına koyup bağlamak

@@ -2,6 +2,7 @@
 layout: term
 title: yer yer
 slug: yer-yer
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► ara sıra

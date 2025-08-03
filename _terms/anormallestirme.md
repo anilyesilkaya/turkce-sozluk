@@ -2,6 +2,7 @@
 layout: term
 title: anormalleştirme
 slug: anormallestirme
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anormalleştirmek işi

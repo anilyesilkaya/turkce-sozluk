@@ -2,6 +2,7 @@
 layout: term
 title: buncağız
 slug: buncagiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bu kadar çok

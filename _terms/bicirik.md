@@ -2,6 +2,7 @@
 layout: term
 title: bıcırık
 slug: bicirik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Küçük çocuklar için kullanılan sevgi sözü

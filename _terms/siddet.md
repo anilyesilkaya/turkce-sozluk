@@ -2,6 +2,7 @@
 layout: term
 title: şiddet
 slug: siddet
+letter: Ş
 lisan: Arapça şiddet
 anlamlar:
 - Bir hareketin, bir gücün derecesi; yeğinlik

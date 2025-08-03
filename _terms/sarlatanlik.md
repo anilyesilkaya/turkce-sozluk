@@ -2,6 +2,7 @@
 layout: term
 title: şarlatanlık
 slug: sarlatanlik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şarlatan olma durumu

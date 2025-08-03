@@ -2,6 +2,7 @@
 layout: term
 title: şampanyalı
 slug: sampanyali
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şampanya verilen

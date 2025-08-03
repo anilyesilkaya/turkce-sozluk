@@ -2,6 +2,7 @@
 layout: term
 title: çınlama
 slug: cinlama
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çınlamak işi

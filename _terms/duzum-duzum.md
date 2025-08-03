@@ -2,6 +2,7 @@
 layout: term
 title: düzüm düzüm
 slug: duzum-duzum
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► dizim dizim

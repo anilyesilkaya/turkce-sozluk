@@ -2,6 +2,7 @@
 layout: term
 title: çupra
 slug: cupra
+letter: Ç
 lisan: Rumca
 anlamlar:
 - ► çipura

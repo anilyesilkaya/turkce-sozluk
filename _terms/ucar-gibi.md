@@ -2,6 +2,7 @@
 layout: term
 title: uçar gibi
 slug: ucar-gibi
+letter: U
 lisan: Türkçe
 anlamlar:
 - büyük bir hızla, kanatlanmış gibi

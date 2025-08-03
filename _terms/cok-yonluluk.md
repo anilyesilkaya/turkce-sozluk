@@ -2,6 +2,7 @@
 layout: term
 title: çok yönlülük
 slug: cok-yonluluk
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çok yönlü olma durumu; çok taraflılık

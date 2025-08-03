@@ -2,6 +2,7 @@
 layout: term
 title: deklare etmek
 slug: deklare-etmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - gümrüklerde vergi konusu olacak eşya vb.ni resmî makama bildirmek

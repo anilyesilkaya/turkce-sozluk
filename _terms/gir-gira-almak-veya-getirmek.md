@@ -2,6 +2,7 @@
 layout: term
 title: gır gıra almak (veya getirmek)
 slug: gir-gira-almak-veya-getirmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - alaya almak

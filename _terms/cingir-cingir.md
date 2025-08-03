@@ -2,6 +2,7 @@
 layout: term
 title: çıngır çıngır
 slug: cingir-cingir
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıngırak sesine benzer bir ses

@@ -2,6 +2,7 @@
 layout: term
 title: kirpikliler
 slug: kirpikliler
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir hücreli hayvanlardan, üzerleri hareketlerini sağlayan kirpik biçimindeki uzantılarla kaplı organizmalar sınıfı

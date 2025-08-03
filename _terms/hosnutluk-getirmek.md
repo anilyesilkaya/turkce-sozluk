@@ -2,6 +2,7 @@
 layout: term
 title: hoşnutluk getirmek
 slug: hosnutluk-getirmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - memnun olduğunu göstermek

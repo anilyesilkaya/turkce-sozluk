@@ -2,6 +2,7 @@
 layout: term
 title: görünüm
 slug: gorunum
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bir şeyin dıştan bakıldığında görünen biçimi, görünme durumu; zevahir, fotoğraf, vizyon

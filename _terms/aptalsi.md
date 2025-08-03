@@ -2,6 +2,7 @@
 layout: term
 title: aptalsı
 slug: aptalsi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aptal gibi, aptala benzer; aptalımsı

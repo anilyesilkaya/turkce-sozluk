@@ -2,6 +2,7 @@
 layout: term
 title: feminizm
 slug: feminizm
+letter: F
 lisan: Fransızca féminisme
 anlamlar:
 - Toplumda kadının haklarını çoğaltma, erkeğinkiler düzeyine çıkarma, eşitlik sağlama amacını güden düşünce akımı; kadın hareketi

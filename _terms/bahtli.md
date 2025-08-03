@@ -2,6 +2,7 @@
 layout: term
 title: bahtlı
 slug: bahtli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Yazgısı iyi olan; talihli

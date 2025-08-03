@@ -2,6 +2,7 @@
 layout: term
 title: 'keriz '
 slug: keriz
+letter: K
 lisan: (Çingenece keres'ten)
 anlamlar:
 - ► kumar

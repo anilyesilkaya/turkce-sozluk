@@ -2,6 +2,7 @@
 layout: term
 title: hacı kandil
 slug: haci-kandil
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► hacı fışfış

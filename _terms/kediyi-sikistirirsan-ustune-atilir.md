@@ -2,6 +2,7 @@
 layout: term
 title: kediyi sıkıştırırsan üstüne atılır
 slug: kediyi-sikistirirsan-ustune-atilir
+letter: K
 lisan: Türkçe
 anlamlar:
 - '"senden çekinen, korkan kişi, çok sıkıştırırsan sana karşı gelir" anlamında kullanılan bir söz'

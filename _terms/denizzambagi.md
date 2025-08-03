@@ -2,6 +2,7 @@
 layout: term
 title: denizzambağı
 slug: denizzambagi
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► denizlalesi

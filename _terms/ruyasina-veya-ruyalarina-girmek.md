@@ -2,6 +2,7 @@
 layout: term
 title: rüyasına (veya rüyalarına) girmek
 slug: ruyasina-veya-ruyalarina-girmek
+letter: R
 lisan: Türkçe
 anlamlar:
 - rüyasında görmek

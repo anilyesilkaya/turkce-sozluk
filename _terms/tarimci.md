@@ -2,6 +2,7 @@
 layout: term
 title: tarımcı
 slug: tarimci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tarım işleriyle uğraşan kimse; ziraatçı

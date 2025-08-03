@@ -2,6 +2,7 @@
 layout: term
 title: çil çil
 slug: cil-cil
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Pırıl pırıl, parlak olan

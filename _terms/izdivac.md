@@ -2,6 +2,7 @@
 layout: term
 title: izdivaç
 slug: izdivac
+letter: I
 lisan: Arapça izdivāc
 anlamlar:
 - ► evlenme

@@ -2,6 +2,7 @@
 layout: term
 title: çetrefilce
 slug: cetrefilce
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Biraz çetrefil

@@ -2,6 +2,7 @@
 layout: term
 title: çatal
 slug: catal
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Yemek yerken kullanılan iki, üç veya dört uzun dişli çoğunlukla metal araç

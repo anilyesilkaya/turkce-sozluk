@@ -2,6 +2,7 @@
 layout: term
 title: beyaz yalan
 slug: beyaz-yalan
+letter: B
 lisan: Türkçe
 anlamlar:
 - Karşısındakini üzmemek veya zarar vermemek için söylenen masumca yalan

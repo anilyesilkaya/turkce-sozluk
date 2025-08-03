@@ -2,6 +2,7 @@
 layout: term
 title: azil
 slug: azil
+letter: A
 lisan: Arapça ʿazl
 anlamlar:
 - Görevden alma

@@ -2,6 +2,7 @@
 layout: term
 title: itaat etmek
 slug: itaat-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - söz dinlemek, boyun eğmek, verilen buyruğa uymak

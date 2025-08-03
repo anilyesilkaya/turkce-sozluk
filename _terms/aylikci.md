@@ -2,6 +2,7 @@
 layout: term
 title: aylıkçı
 slug: aylikci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aylıkla çalışan kimse

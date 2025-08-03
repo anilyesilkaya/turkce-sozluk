@@ -2,6 +2,7 @@
 layout: term
 title: kilit kürek olmak
 slug: kilit-kurek-olmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir yeri korumak, o yerin güvenilir, sağlam adamı olmak

@@ -2,6 +2,7 @@
 layout: term
 title: bodrum katı
 slug: bodrum-kati
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir yapının zemin katının altında olan ve oturulabilen en alt katı

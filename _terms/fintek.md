@@ -2,6 +2,7 @@
 layout: term
 title: fintek
 slug: fintek
+letter: F
 lisan: İngilizce fintech
 anlamlar:
 - Finansal hizmetleri yenilikçi, tamamlayıcı ve hızlandırıcı iş modelleri ile sayısal teknolojiler kullanarak sunan kuruluş veya ürün

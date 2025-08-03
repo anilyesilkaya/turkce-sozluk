@@ -2,6 +2,7 @@
 layout: term
 title: dolap beygiri gibi dönüp durmak (veya dolaşmak)
 slug: dolap-beygiri-gibi-donup-durmak-veya-dolasmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - dar bir çevrede hep aynı işi yapmak

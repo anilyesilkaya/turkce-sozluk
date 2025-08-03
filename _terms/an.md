@@ -2,6 +2,7 @@
 layout: term
 title: an
 slug: an
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► bellek

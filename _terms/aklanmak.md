@@ -2,6 +2,7 @@
 layout: term
 title: aklanmak
 slug: aklanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ak olmak; temizlenmek

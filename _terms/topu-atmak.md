@@ -2,6 +2,7 @@
 layout: term
 title: topu atmak
 slug: topu-atmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - iflas etmek

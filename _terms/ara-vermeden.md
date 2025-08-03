@@ -2,6 +2,7 @@
 layout: term
 title: ara vermeden
 slug: ara-vermeden
+letter: A
 lisan: Türkçe
 anlamlar:
 - sürekli olarak, durmadan

@@ -2,6 +2,7 @@
 layout: term
 title: tamamlatmak
 slug: tamamlatmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tamamlanmasını sağlamak

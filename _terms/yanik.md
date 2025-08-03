@@ -2,6 +2,7 @@
 layout: term
 title: yanık
 slug: yanik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yanmakta olan

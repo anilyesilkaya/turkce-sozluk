@@ -2,6 +2,7 @@
 layout: term
 title: üvey anne
 slug: uvey-anne
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Öz olmayan anne; analık, üvey ana, cicianne

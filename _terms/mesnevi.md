@@ -2,6 +2,7 @@
 layout: term
 title: mesnevi
 slug: mesnevi
+letter: M
 lisan: Arapça mes̱nevī
 anlamlar:
 - Her beyti ayrı uyaklı bir divan edebiyatı nazım biçimi

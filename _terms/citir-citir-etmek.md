@@ -2,6 +2,7 @@
 layout: term
 title: çıtır çıtır etmek
 slug: citir-citir-etmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - çıtırdamak

@@ -2,6 +2,7 @@
 layout: term
 title: otorite sağlamak (veya temin etmek)
 slug: otorite-saglamak-veya-temin-etmek
+letter: O
 lisan: Türkçe
 anlamlar:
 - yetki kurmak veya yetki sahibi olmak

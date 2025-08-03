@@ -2,6 +2,7 @@
 layout: term
 title: acımasızca
 slug: acimasizca
+letter: A
 lisan: Türkçe
 anlamlar:
 - Acımasız olarak, acımasız bir biçimde; acımasızcasına, zalimce, zalimcesine, zalimane

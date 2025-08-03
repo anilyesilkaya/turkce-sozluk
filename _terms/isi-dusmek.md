@@ -2,6 +2,7 @@
 layout: term
 title: işi düşmek
 slug: isi-dusmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - birinin yardımına gereksinim duymak

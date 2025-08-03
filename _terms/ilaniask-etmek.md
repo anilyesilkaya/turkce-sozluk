@@ -2,6 +2,7 @@
 layout: term
 title: ilanıaşk etmek
 slug: ilaniask-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - bir erkek bir kadına veya bir kadın bir erkeğe kendisini sevdiğini söylemek

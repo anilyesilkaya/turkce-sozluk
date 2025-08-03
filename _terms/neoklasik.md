@@ -2,6 +2,7 @@
 layout: term
 title: neoklasik
 slug: neoklasik
+letter: N
 lisan: Fransızca néoclassique
 anlamlar:
 - Neoklasisizm yanlısı

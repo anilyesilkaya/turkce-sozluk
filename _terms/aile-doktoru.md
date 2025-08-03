@@ -2,6 +2,7 @@
 layout: term
 title: aile doktoru
 slug: aile-doktoru
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir ailenin bireylerinin sağlık işleriyle özel olarak ilgilenen doktor; aile hekimi

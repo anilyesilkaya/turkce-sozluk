@@ -2,6 +2,7 @@
 layout: term
 title: ekin iti
 slug: ekin-iti
+letter: E
 lisan: Türkçe
 anlamlar:
 - Başını dik tutup herkese yüksekten bakan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: ense kökü
 slug: ense-koku
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ensenin gövde ile birleştiği yer

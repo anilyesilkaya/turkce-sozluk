@@ -2,6 +2,7 @@
 layout: term
 title: ıstampa
 slug: istampa
+letter: I
 lisan: İtalyanca stampa
 anlamlar:
 - Ağaç, metal vb. üzerine oyulduktan sonra bir yere basılan biçim

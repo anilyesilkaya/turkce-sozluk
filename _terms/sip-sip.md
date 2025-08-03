@@ -2,6 +2,7 @@
 layout: term
 title: şıp şıp
 slug: sip-sip
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - '"Şıp" sesi çıkararak'

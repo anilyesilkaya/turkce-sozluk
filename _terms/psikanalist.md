@@ -2,6 +2,7 @@
 layout: term
 title: psikanalist
 slug: psikanalist
+letter: P
 lisan: Fransızca psychanaliste
 anlamlar:
 - ► psikanalizci

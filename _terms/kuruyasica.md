@@ -2,6 +2,7 @@
 layout: term
 title: kuruyasıca
 slug: kuruyasica
+letter: K
 lisan: Türkçe
 anlamlar:
 - İşe yaramaz, kötü

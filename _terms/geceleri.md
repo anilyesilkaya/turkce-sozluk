@@ -2,6 +2,7 @@
 layout: term
 title: geceleri
 slug: geceleri
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gece vaktinde

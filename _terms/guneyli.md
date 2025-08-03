@@ -2,6 +2,7 @@
 layout: term
 title: Güneyli
 slug: guneyli
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güney bölgelerinden olan (kimse veya topluluk); Cenuplu

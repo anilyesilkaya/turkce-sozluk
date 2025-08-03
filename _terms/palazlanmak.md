@@ -2,6 +2,7 @@
 layout: term
 title: palazlanmak
 slug: palazlanmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Gelişmek, iri duruma gelmek, büyümek

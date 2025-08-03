@@ -2,6 +2,7 @@
 layout: term
 title: plansız
 slug: plansiz
+letter: P
 lisan: Türkçe
 anlamlar:
 - Belirli bir planı olmayan

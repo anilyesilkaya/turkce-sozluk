@@ -2,6 +2,7 @@
 layout: term
 title: çargâh
 slug: cargah
+letter: Ç
 lisan: Farsça çārgāh
 anlamlar:
 - Türk müziğinde "do" perdesinin adı

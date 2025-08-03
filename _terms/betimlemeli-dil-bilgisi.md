@@ -2,6 +2,7 @@
 layout: term
 title: betimlemeli dil bilgisi
 slug: betimlemeli-dil-bilgisi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir dilin belirli bir dönem veya alanını inceleyen dil bilgisi; betimsel dil bilgisi, tasvirî dil bilgisi

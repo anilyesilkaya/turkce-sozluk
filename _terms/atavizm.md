@@ -2,6 +2,7 @@
 layout: term
 title: atavizm
 slug: atavizm
+letter: A
 lisan: Fransızca atavisme
 anlamlar:
 - ► atacılık

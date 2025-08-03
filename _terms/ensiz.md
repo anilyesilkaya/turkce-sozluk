@@ -2,6 +2,7 @@
 layout: term
 title: ensiz
 slug: ensiz
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eni küçük olan; dar (I)

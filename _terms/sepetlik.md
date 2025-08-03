@@ -2,6 +2,7 @@
 layout: term
 title: sepetlik
 slug: sepetlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sepet yapmaya elverişli olan

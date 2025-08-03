@@ -2,6 +2,7 @@
 layout: term
 title: metîn
 slug: metin
+letter: M
 lisan: Arapça metīn
 anlamlar:
 - ► dayanıklı

@@ -2,6 +2,7 @@
 layout: term
 title: barbakan
 slug: barbakan
+letter: B
 lisan: Fransızca barbacane
 anlamlar:
 - Kale duvarlarında düşmana ok atmak için açılmış delik

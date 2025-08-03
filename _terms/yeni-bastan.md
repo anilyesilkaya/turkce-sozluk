@@ -2,6 +2,7 @@
 layout: term
 title: yeni baştan
 slug: yeni-bastan
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Baştan başlayarak; bir daha, yeniden, tekrar

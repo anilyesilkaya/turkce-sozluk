@@ -2,6 +2,7 @@
 layout: term
 title: gurur meselesi yapmak
 slug: gurur-meselesi-yapmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - onurundan ödün vermemek adına tutumundan vazgeçmemek

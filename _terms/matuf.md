@@ -2,6 +2,7 @@
 layout: term
 title: matuf
 slug: matuf
+letter: M
 lisan: Arapça maʿṭūf
 anlamlar:
 - Bir yöne eğilmiş

@@ -2,6 +2,7 @@
 layout: term
 title: tüp geçit
 slug: tup-gecit
+letter: T
 lisan: Türkçe
 anlamlar:
 - Nehirlerin, kanalların, denizlerin iki yakasını su altından bağlayarak ulaşımı sağlayan yol

@@ -2,6 +2,7 @@
 layout: term
 title: ceza kesmek
 slug: ceza-kesmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - görevli para cezası yazmak

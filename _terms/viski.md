@@ -2,6 +2,7 @@
 layout: term
 title: viski
 slug: viski
+letter: V
 lisan: İngilizce whisky
 anlamlar:
 - Mayalanmış tahıl hamurundan damıtılarak elde edilen, alkollü içki

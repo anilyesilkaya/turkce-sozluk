@@ -2,6 +2,7 @@
 layout: term
 title: binbaşılık
 slug: binbasilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Binbaşı olma durumu

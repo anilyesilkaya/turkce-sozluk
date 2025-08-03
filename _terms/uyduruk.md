@@ -2,6 +2,7 @@
 layout: term
 title: uyduruk
 slug: uyduruk
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► uydurma

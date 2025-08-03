@@ -2,6 +2,7 @@
 layout: term
 title: sancısı tutmak
 slug: sancisi-tutmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - birdenbire ve şiddetli bir ağrı gelmek

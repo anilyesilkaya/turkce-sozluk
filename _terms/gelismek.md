@@ -2,6 +2,7 @@
 layout: term
 title: gelişmek
 slug: gelismek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Büyüyüp boy atmak, yetişmek; neşvünema bulmak

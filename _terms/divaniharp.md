@@ -2,6 +2,7 @@
 layout: term
 title: divanıharp
 slug: divaniharp
+letter: D
 lisan: Arapça dīvān + ḥarb
 anlamlar:
 - Askerî mahkeme

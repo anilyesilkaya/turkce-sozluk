@@ -2,6 +2,7 @@
 layout: term
 title: tarhana çorbası
 slug: tarhana-corbasi
+letter: T
 lisan: Türkçe
 anlamlar:
 - İçine tarhana katılarak hazırlanan çorba; tarhana

@@ -2,6 +2,7 @@
 layout: term
 title: siftinme
 slug: siftinme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Siftinmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: şifa
 slug: sifa
+letter: Ş
 lisan: Arapça şifāʾ
 anlamlar:
 - Bedensel veya ruhsal bir hastalığın son bulması, hastalıktan kurtulma; onma

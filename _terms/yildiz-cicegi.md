@@ -2,6 +2,7 @@
 layout: term
 title: yıldız çiçeği
 slug: yildiz-cicegi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Birleşikgillerden çiçekleri katmerli, yıldız biçiminde ve türlü renkte bir süs bitkisi; dalya (II) (Dahlia)

@@ -2,6 +2,7 @@
 layout: term
 title: eke
 slug: eke
+letter: E
 lisan: Türkçe
 anlamlar:
 - Yaşlı olan (insan veya hayvan)

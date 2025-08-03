@@ -2,6 +2,7 @@
 layout: term
 title: dalgacı
 slug: dalgaci
+letter: D
 lisan: Türkçe
 anlamlar:
 - İşine gereken önem ve dikkati göstermeyen (kimse)

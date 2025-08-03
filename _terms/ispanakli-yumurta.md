@@ -2,6 +2,7 @@
 layout: term
 title: ıspanaklı yumurta
 slug: ispanakli-yumurta
+letter: I
 lisan: Türkçe
 anlamlar:
 - Haşlanmış ve yağda hafif kavrulmuş ıspanağın içine yumurta kırılması ile hazırlanan yemek

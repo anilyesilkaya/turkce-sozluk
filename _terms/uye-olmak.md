@@ -2,6 +2,7 @@
 layout: term
 title: üye olmak
 slug: uye-olmak
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - bir kuruluşa üye olarak girmek

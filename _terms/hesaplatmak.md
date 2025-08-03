@@ -2,6 +2,7 @@
 layout: term
 title: hesaplatmak
 slug: hesaplatmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hesap ettirmek

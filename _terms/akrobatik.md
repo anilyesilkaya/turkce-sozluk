@@ -2,6 +2,7 @@
 layout: term
 title: akrobatik
 slug: akrobatik
+letter: A
 lisan: Fransızca acrobatique
 anlamlar:
 - Cambazlık ile ilgili

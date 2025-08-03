@@ -2,6 +2,7 @@
 layout: term
 title: yan yana
 slug: yan-yana
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Birbirinin yanında olan

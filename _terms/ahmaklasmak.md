@@ -2,6 +2,7 @@
 layout: term
 title: ahmaklaşmak
 slug: ahmaklasmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aklını gereği gibi kullanamamak

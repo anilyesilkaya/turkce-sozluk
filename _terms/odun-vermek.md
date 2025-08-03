@@ -2,6 +2,7 @@
 layout: term
 title: ödün vermek
 slug: odun-vermek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ödünle uzlaşma sağlamak

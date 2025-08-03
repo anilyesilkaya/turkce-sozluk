@@ -2,6 +2,7 @@
 layout: term
 title: resmîleştirilmek
 slug: resmilestirilmek
+letter: R
 lisan: Türkçe
 anlamlar:
 - Resmî duruma getirilmek

@@ -2,6 +2,7 @@
 layout: term
 title: mayınlı
 slug: mayinli
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mayını olan, mayınlanmış yer

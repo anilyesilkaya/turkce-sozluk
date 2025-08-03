@@ -2,6 +2,7 @@
 layout: term
 title: Balıkesir
 slug: balikesir
+letter: B
 lisan: Türkçe
 anlamlar:
 - Türkiye'nin Marmara Bölgesi'nde yer alan illerinden biri

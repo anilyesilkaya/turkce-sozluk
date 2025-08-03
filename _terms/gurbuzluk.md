@@ -2,6 +2,7 @@
 layout: term
 title: gürbüzlük
 slug: gurbuzluk
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gürbüz olma durumu

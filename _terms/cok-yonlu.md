@@ -2,6 +2,7 @@
 layout: term
 title: çok yönlü
 slug: cok-yonlu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - İkiden çok yönü olan; çok taraflı, polifonik

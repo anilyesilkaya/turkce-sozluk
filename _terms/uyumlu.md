@@ -2,6 +2,7 @@
 layout: term
 title: uyumlu
 slug: uyumlu
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyumu olan; uyarlı, ahenkli, imtizaçlı

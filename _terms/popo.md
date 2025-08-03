@@ -2,6 +2,7 @@
 layout: term
 title: popo
 slug: popo
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► kıç

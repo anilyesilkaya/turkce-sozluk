@@ -2,6 +2,7 @@
 layout: term
 title: balıkçılık
 slug: balikcilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Balıkçının yaptığı iş

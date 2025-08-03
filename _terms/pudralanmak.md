@@ -2,6 +2,7 @@
 layout: term
 title: pudralanmak
 slug: pudralanmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pudralama işi yapılmak

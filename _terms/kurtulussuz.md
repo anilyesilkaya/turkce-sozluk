@@ -2,6 +2,7 @@
 layout: term
 title: kurtuluşsuz
 slug: kurtulussuz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kurtuluşu olmayan

@@ -2,6 +2,7 @@
 layout: term
 title: açtırma
 slug: actirma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Açtırmak işi

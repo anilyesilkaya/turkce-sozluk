@@ -2,6 +2,7 @@
 layout: term
 title: petrol lambası
 slug: petrol-lambasi
+letter: P
 lisan: Türkçe
 anlamlar:
 - İçinde petrol ürünleri yakılarak aydınlatmayı sağlayan araç

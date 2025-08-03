@@ -2,6 +2,7 @@
 layout: term
 title: görevden (veya görevinden) ayrılmak
 slug: gorevden-veya-gorevinden-ayrilmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - yapmakta olduğu işi bırakmak

@@ -2,6 +2,7 @@
 layout: term
 title: lakinsiz
 slug: lakinsiz
+letter: L
 lisan: Türkçe
 anlamlar:
 - Herhangi bir bahane, şart ileri sürmeyen

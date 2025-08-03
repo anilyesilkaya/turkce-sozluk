@@ -2,6 +2,7 @@
 layout: term
 title: telif etmek
 slug: telif-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - uzlaştırmak

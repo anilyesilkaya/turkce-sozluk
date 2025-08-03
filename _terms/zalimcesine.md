@@ -2,6 +2,7 @@
 layout: term
 title: zalimcesine
 slug: zalimcesine
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► acımasızca

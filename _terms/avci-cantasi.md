@@ -2,6 +2,7 @@
 layout: term
 title: avcı çantası
 slug: avci-cantasi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kara avında avcının avını koyduğu ağ biçiminde çanta; celbe

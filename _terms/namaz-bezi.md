@@ -2,6 +2,7 @@
 layout: term
 title: namaz bezi
 slug: namaz-bezi
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► namaz örtüsü

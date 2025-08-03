@@ -2,6 +2,7 @@
 layout: term
 title: içli dışlı olmak
 slug: icli-disli-olmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - karşılıklı olarak candan ve içten davranmak, teklifsiz görüşmek

@@ -2,6 +2,7 @@
 layout: term
 title: kont
 slug: kont
+letter: K
 lisan: Fransızca comte
 anlamlar:
 - Roma imparatorunun anlaşma sağladığı yabancı ülke yöneticisi

@@ -2,6 +2,7 @@
 layout: term
 title: eritmek
 slug: eritmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Erimesini sağlamak, erimesine yol açmak

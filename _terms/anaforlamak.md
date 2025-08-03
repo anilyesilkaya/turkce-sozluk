@@ -2,6 +2,7 @@
 layout: term
 title: anaforlamak
 slug: anaforlamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yolsuzluk yaparak kazanç elde etmek

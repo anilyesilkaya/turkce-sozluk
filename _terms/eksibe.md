@@ -2,6 +2,7 @@
 layout: term
 title: eksibe
 slug: eksibe
+letter: E
 lisan: Arapça eks̱ibe
 anlamlar:
 - ► kumul

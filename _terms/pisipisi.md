@@ -2,6 +2,7 @@
 layout: term
 title: pisipisi
 slug: pisipisi
+letter: P
 lisan: Türkçe
 anlamlar:
 - Çocuk dilinde kedi

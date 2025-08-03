@@ -2,6 +2,7 @@
 layout: term
 title: dün
 slug: dun
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bugünden bir önceki gün

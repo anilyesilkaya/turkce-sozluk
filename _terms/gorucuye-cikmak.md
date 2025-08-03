@@ -2,6 +2,7 @@
 layout: term
 title: görücüye çıkmak
 slug: gorucuye-cikmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - evlenmesi söz konusu olan kız görücüye görünmek

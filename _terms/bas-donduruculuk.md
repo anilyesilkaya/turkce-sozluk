@@ -2,6 +2,7 @@
 layout: term
 title: baş döndürücülük
 slug: bas-donduruculuk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Baş döndürücü olma durumu

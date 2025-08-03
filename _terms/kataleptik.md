@@ -2,6 +2,7 @@
 layout: term
 title: kataleptik
 slug: kataleptik
+letter: K
 lisan: Fransızca cataleptique
 anlamlar:
 - Katalepsi ile ilgili

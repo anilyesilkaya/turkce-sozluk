@@ -2,6 +2,7 @@
 layout: term
 title: ofsayt
 slug: ofsayt
+letter: O
 lisan: İngilizce off side
 anlamlar:
 - Futbolda hücuma geçen takımın en az bir oyuncusunun kafasının, vücudunun veya ayağının bir bölümünün topla oynandığı anda rakip takımın kale çizgisine, o takımın en yakın oyuncusundan daha yakın bulunması durumu

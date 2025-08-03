@@ -2,6 +2,7 @@
 layout: term
 title: kıraat etmek
 slug: kiraat-etmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kur'an'ı belli kural ve işaretlere göre okumak

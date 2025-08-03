@@ -2,6 +2,7 @@
 layout: term
 title: köseyle alay edenin top sakalı kara gerek
 slug: koseyle-alay-edenin-top-sakali-kara-gerek
+letter: K
 lisan: Türkçe
 anlamlar:
 - '"başkasının eksikleriyle eğlenen kimsenin kendisi kusursuz olmalıdır" anlamında kullanılan bir söz'

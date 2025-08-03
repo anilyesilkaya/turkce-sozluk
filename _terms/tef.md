@@ -2,6 +2,7 @@
 layout: term
 title: tef
 slug: tef
+letter: T
 lisan: Farsça def
 anlamlar:
 - Zilli bir kasnağa geçirilmiş kursak zarından oluşan çalgı

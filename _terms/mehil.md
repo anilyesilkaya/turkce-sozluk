@@ -2,6 +2,7 @@
 layout: term
 title: mehil
 slug: mehil
+letter: M
 lisan: Arapça mehl
 anlamlar:
 - Bir işin tamamlanması için tanınan ek süre; önel

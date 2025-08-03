@@ -2,6 +2,7 @@
 layout: term
 title: soydurmak
 slug: soydurmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Soyma işini yaptırmak

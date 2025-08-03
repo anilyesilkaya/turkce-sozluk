@@ -2,6 +2,7 @@
 layout: term
 title: kül olmak
 slug: kul-olmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - bütünüyle yanmak

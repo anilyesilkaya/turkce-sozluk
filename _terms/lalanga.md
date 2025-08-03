@@ -2,6 +2,7 @@
 layout: term
 title: lalanga
 slug: lalanga
+letter: L
 lisan: Rumca
 anlamlar:
 - Yağda kızartılarak üzerine şeker veya şerbet dökülen bir hamur tatlısı

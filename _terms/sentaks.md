@@ -2,6 +2,7 @@
 layout: term
 title: sentaks
 slug: sentaks
+letter: S
 lisan: Fransızca syntaxe
 anlamlar:
 - ► cümle bilgisi

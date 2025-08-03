@@ -2,6 +2,7 @@
 layout: term
 title: serilmek
 slug: serilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Serme işi yapılmak; yayılmak

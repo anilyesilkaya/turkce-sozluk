@@ -2,6 +2,7 @@
 layout: term
 title: vesaire
 slug: vesaire
+letter: V
 lisan: Arapça ve + sāʾire
 anlamlar:
 - ► ve benzeri

@@ -2,6 +2,7 @@
 layout: term
 title: Acemleşme
 slug: acemlesme
+letter: A
 lisan: Türkçe
 anlamlar:
 - Acemleşmek durumu; Farslaşma

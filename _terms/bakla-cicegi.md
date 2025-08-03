@@ -2,6 +2,7 @@
 layout: term
 title: bakla çiçeği
 slug: bakla-cicegi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Sarımtırak eflatuna çalan beyaz renkte bir bitki

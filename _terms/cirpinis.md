@@ -2,6 +2,7 @@
 layout: term
 title: çırpınış
 slug: cirpinis
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çırpınmak işi

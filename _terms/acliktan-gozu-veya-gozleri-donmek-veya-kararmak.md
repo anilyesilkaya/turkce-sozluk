@@ -2,6 +2,7 @@
 layout: term
 title: açlıktan gözü (veya gözleri) dönmek (veya kararmak)
 slug: acliktan-gozu-veya-gozleri-donmek-veya-kararmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - çok acıkmak

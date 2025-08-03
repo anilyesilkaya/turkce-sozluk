@@ -2,6 +2,7 @@
 layout: term
 title: palaska
 slug: palaska
+letter: P
 lisan: Macarca balaksa
 anlamlar:
 - Askerlerin bellerine bağladıkları veya göğüslerine çaprazlama taktıkları, üzerinde fişek, kasatura vb. koymak için yerleri bulunan, genellikle köseleden yapılmış kayış

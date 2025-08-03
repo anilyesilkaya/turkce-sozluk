@@ -2,6 +2,7 @@
 layout: term
 title: şişiriş
 slug: sisiris
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şişirmek işi

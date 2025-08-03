@@ -2,6 +2,7 @@
 layout: term
 title: balonvari
 slug: balonvari
+letter: B
 lisan: Fransızca ballon + Farsça -vārī
 anlamlar:
 - Balona benzer, balon gibi

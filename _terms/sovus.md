@@ -2,6 +2,7 @@
 layout: term
 title: sövüş
 slug: sovus
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sövmek işi

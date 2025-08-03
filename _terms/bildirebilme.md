@@ -2,6 +2,7 @@
 layout: term
 title: bildirebilme
 slug: bildirebilme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bildirebilmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: çizgileşmek
 slug: cizgilesmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çizgi durumuna gelmek

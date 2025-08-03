@@ -2,6 +2,7 @@
 layout: term
 title: hırs
 slug: hirs
+letter: H
 lisan: Arapça ḥirṣ
 anlamlar:
 - Bir şeyi elde etmek için duyulan, önüne geçilmez derecede kuvvetli istek, aşırı tutku

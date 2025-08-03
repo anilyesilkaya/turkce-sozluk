@@ -2,6 +2,7 @@
 layout: term
 title: abanozlaşmak
 slug: abanozlasmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağaç gibi maddeler suda uzun süre kalarak kararmak

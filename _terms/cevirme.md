@@ -2,6 +2,7 @@
 layout: term
 title: çevirme
 slug: cevirme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çevirmek işi; tedvir

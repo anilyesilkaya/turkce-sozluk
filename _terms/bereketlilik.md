@@ -2,6 +2,7 @@
 layout: term
 title: bereketlilik
 slug: bereketlilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bereketli olma durumu

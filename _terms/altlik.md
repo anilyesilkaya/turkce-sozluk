@@ -2,6 +2,7 @@
 layout: term
 title: altlık
 slug: altlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Tabak, bardak vb. nesnelerin altına konulan şey

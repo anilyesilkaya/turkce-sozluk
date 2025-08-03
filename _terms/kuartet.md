@@ -2,6 +2,7 @@
 layout: term
 title: kuartet
 slug: kuartet
+letter: K
 lisan: Fransızca quartette
 anlamlar:
 - ► dörtlü

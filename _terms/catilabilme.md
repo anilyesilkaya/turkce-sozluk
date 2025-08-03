@@ -2,6 +2,7 @@
 layout: term
 title: çatılabilme
 slug: catilabilme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çatılabilmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: zıpka
 slug: zipka
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Karadeniz kıyısı halkının giydiği dar paçalı potur

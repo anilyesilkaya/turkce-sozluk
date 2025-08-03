@@ -2,6 +2,7 @@
 layout: term
 title: makasçı
 slug: makasci
+letter: M
 lisan: Türkçe
 anlamlar:
 - Makas yapan veya satan kimse

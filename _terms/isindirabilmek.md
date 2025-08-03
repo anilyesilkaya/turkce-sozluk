@@ -2,6 +2,7 @@
 layout: term
 title: ısındırabilmek
 slug: isindirabilmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Isındırma ihtimali veya imkânı bulunmak

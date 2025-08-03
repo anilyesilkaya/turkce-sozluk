@@ -2,6 +2,7 @@
 layout: term
 title: sergilenmek
 slug: sergilenmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sergileme işi yapılmak

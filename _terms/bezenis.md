@@ -2,6 +2,7 @@
 layout: term
 title: bezeniş
 slug: bezenis
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bezenmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: durdurmak
 slug: durdurmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Durmasını sağlamak; bastırmak, çevirmek, eğlemek, yenmek (I)

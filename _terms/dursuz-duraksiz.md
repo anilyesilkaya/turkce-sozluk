@@ -2,6 +2,7 @@
 layout: term
 title: dursuz duraksız
 slug: dursuz-duraksiz
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► durmadan

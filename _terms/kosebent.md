@@ -2,6 +2,7 @@
 layout: term
 title: köşebent
 slug: kosebent
+letter: K
 lisan: Farsça gūşe + bend
 anlamlar:
 - Bir yere fotoğraf yapıştırmaya yarayan, üçgen biçiminde arkası zamklı küçük kâğıt

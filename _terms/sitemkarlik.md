@@ -2,6 +2,7 @@
 layout: term
 title: sitemkârlık
 slug: sitemkarlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sitemkâr olma durumu

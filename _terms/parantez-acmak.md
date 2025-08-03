@@ -2,6 +2,7 @@
 layout: term
 title: parantez açmak
 slug: parantez-acmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - söz veya yazının içine, sözü edilen konu ile ilgili bir bölüm koymak

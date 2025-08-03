@@ -2,6 +2,7 @@
 layout: term
 title: fitilsiz
 slug: fitilsiz
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fitili olmayan

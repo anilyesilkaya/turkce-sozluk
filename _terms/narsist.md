@@ -2,6 +2,7 @@
 layout: term
 title: narsist
 slug: narsist
+letter: N
 lisan: Fransızca narcissiste
 anlamlar:
 - ► özsever

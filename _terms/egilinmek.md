@@ -2,6 +2,7 @@
 layout: term
 title: eğilinmek
 slug: egilinmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eğilme işi yapılmak

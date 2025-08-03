@@ -2,6 +2,7 @@
 layout: term
 title: salahiyetli
 slug: salahiyetli
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► yetkili

@@ -2,6 +2,7 @@
 layout: term
 title: milyem
 slug: milyem
+letter: M
 lisan: Fransızca millième
 anlamlar:
 - Alaşım içindeki altın miktarını binde oranı ile ifade eden ölçü birimi

@@ -2,6 +2,7 @@
 layout: term
 title: 'lüzumsuz insan '
 slug: luzumsuz-insan
+letter: L
 lisan: Türkçe
 anlamlar:
 - Bir iş için gereken nitelikleri taşımadığı hâlde orada görevli olarak bulunan kimse; lüzumsuz adam

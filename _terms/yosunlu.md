@@ -2,6 +2,7 @@
 layout: term
 title: yosunlu
 slug: yosunlu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yosunu olan, yosunla kaplanmış olan

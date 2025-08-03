@@ -2,6 +2,7 @@
 layout: term
 title: marangoz balığı
 slug: marangoz-baligi
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► testere balığı

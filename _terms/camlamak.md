@@ -2,6 +2,7 @@
 layout: term
 title: camlamak
 slug: camlamak
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cam takmak

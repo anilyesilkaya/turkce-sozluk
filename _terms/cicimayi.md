@@ -2,6 +2,7 @@
 layout: term
 title: cicimayı
 slug: cicimayi
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► balayı

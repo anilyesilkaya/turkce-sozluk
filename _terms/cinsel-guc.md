@@ -2,6 +2,7 @@
 layout: term
 title: cinsel güç
 slug: cinsel-guc
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cinsel birleşme görevini yerine getirme kuvveti; iktidar

@@ -2,6 +2,7 @@
 layout: term
 title: emrihak vaki olmak
 slug: emrihak-vaki-olmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - ölmek

@@ -2,6 +2,7 @@
 layout: term
 title: termosifon
 slug: termosifon
+letter: T
 lisan: Fransızca thermosiphon
 anlamlar:
 - Soğuk suyu ısıtan, bir kazan ve içindeki borulardan oluşmuş araç

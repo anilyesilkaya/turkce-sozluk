@@ -2,6 +2,7 @@
 layout: term
 title: efil efil etmek
 slug: efil-efil-etmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - rüzgârda dalgalanmak

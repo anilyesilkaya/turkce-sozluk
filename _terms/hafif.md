@@ -2,6 +2,7 @@
 layout: term
 title: hafif
 slug: hafif
+letter: H
 lisan: Arapça ḫafīf
 anlamlar:
 - Tartıda ağırlığı az gelen; yeğni, ağır karşıtı

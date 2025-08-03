@@ -2,6 +2,7 @@
 layout: term
 title: hiciv
 slug: hiciv
+letter: H
 lisan: Arapça hecv
 anlamlar:
 - ► yergi

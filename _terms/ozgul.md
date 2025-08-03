@@ -2,6 +2,7 @@
 layout: term
 title: özgül
 slug: ozgul
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Bir türle ilgili, bir türe ilişkin

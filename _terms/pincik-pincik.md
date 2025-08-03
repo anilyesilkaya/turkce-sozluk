@@ -2,6 +2,7 @@
 layout: term
 title: 'pinçik pinçik '
 slug: pincik-pincik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Küçük küçük, ufak ufak durumda olan

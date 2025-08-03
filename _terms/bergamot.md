@@ -2,6 +2,7 @@
 layout: term
 title: bergamot
 slug: bergamot
+letter: B
 lisan: Fransızca bergamote
 anlamlar:
 - Turunçgillerden bir ağaç (Citrus bergamia)

@@ -2,6 +2,7 @@
 layout: term
 title: bağ bozumu
 slug: bag-bozumu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağda üzümlerin tamamen toplanması, bağların bozulması

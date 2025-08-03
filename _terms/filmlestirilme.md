@@ -2,6 +2,7 @@
 layout: term
 title: filmleştirilme
 slug: filmlestirilme
+letter: F
 lisan: Türkçe
 anlamlar:
 - Filmleştirilmek işi

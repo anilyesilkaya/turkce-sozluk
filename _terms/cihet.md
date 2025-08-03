@@ -2,6 +2,7 @@
 layout: term
 title: cihet
 slug: cihet
+letter: C
 lisan: Arapça cihet
 anlamlar:
 - ► yön

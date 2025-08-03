@@ -2,6 +2,7 @@
 layout: term
 title: göbek havası
 slug: gobek-havasi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Sanat değeri olmayan, hafif, eğlenmek amacıyla çalınan veya söylenen oyun havaları

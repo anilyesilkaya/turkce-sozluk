@@ -2,6 +2,7 @@
 layout: term
 title: akort
 slug: akort
+letter: A
 lisan: Fransızca accord
 anlamlar:
 - Doğru ses vermesi için  bir çalgıda yapılan ayar; düzen

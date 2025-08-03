@@ -2,6 +2,7 @@
 layout: term
 title: uykusu derin olmak
 slug: uykusu-derin-olmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - uykusu ağır olmak

@@ -2,6 +2,7 @@
 layout: term
 title: özgü olmak
 slug: ozgu-olmak
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - birine, bir şeye ait olmak

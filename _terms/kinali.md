@@ -2,6 +2,7 @@
 layout: term
 title: kınalı
 slug: kinali
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kına ile boyanmış olan

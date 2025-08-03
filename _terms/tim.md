@@ -2,6 +2,7 @@
 layout: term
 title: tim
 slug: tim
+letter: T
 lisan: Türkçe
 anlamlar:
 - “Yavaş ve aynı ritimde koşmak” anlamında tim tim koşmak birleşik fiilinde kullanılan bir söz

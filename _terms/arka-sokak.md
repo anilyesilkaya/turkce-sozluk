@@ -2,6 +2,7 @@
 layout: term
 title: arka sokak
 slug: arka-sokak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ana yola açılan ikinci derecedeki sokak

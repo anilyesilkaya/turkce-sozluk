@@ -2,6 +2,7 @@
 layout: term
 title: pelteleşmek
 slug: peltelesmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pelte kıvamını almak

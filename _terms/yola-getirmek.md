@@ -2,6 +2,7 @@
 layout: term
 title: yola getirmek
 slug: yola-getirmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - birinin bir konudaki ters tutumunu düzeltmek

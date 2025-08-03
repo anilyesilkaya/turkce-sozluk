@@ -2,6 +2,7 @@
 layout: term
 title: kızartılmak
 slug: kizartilmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kızartma işi yapılmak

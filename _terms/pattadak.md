@@ -2,6 +2,7 @@
 layout: term
 title: pattadak
 slug: pattadak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Ansızın; pattadan

@@ -2,6 +2,7 @@
 layout: term
 title: silindir şapka
 slug: silindir-sapka
+letter: S
 lisan: Türkçe
 anlamlar:
 - Resmî törenlerde sivillerin giydiği, silindir biçiminde siyah şapka; silindir

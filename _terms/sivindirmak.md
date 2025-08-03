@@ -2,6 +2,7 @@
 layout: term
 title: sıvındırmak
 slug: sivindirmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir gazın veya buharın sıcaklık derecesini düşürmek, basıncını artırmak yoluyla onu sıvı durumuna getirmek

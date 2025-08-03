@@ -2,6 +2,7 @@
 layout: term
 title: arkadaşça
 slug: arkadasca
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arkadaş olarak

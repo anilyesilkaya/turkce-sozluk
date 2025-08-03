@@ -2,6 +2,7 @@
 layout: term
 title: takvim
 slug: takvim
+letter: T
 lisan: Arapça taḳvīm
 anlamlar:
 - Zamanı yıllara, aylara ve günlere ayıran yöntem

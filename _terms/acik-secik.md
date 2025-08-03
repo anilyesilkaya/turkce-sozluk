@@ -2,6 +2,7 @@
 layout: term
 title: açık seçik
 slug: acik-secik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Çok açık, çok belirgin

@@ -2,6 +2,7 @@
 layout: term
 title: şıvgın
 slug: sivgin
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Budanmış yaşlı ağaçların budanan yerlerinden çıkan taze sürgün; çıvgın

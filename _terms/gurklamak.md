@@ -2,6 +2,7 @@
 layout: term
 title: gurklamak
 slug: gurklamak
+letter: G
 lisan: Türkçe
 anlamlar:
 - Kuluçka olmak

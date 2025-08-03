@@ -2,6 +2,7 @@
 layout: term
 title: sıyırtma
 slug: siyirtma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıyırtmak işi

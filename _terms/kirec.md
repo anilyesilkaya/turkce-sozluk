@@ -2,6 +2,7 @@
 layout: term
 title: kireç
 slug: kirec
+letter: K
 lisan: Farsça gireç
 anlamlar:
 - Mermer, tebeşir, kireç taşı, alçı taşı gibi birçok taşın özünü oluşturan kalsiyum oksit (CaO)

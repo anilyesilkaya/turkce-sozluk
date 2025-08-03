@@ -2,6 +2,7 @@
 layout: term
 title: kımıldayış
 slug: kimildayis
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kımıldamak işi; kıpırdayış, kıprayış

@@ -2,6 +2,7 @@
 layout: term
 title: yanıklık
 slug: yaniklik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yanık olma durumu

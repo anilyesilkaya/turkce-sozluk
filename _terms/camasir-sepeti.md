@@ -2,6 +2,7 @@
 layout: term
 title: çamaşır sepeti
 slug: camasir-sepeti
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Kirli veya yıkanmış çamaşırların içinde toplandığı sepet

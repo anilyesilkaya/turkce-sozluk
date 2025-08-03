@@ -2,6 +2,7 @@
 layout: term
 title: tokmak
 slug: tokmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Ağaçtan yapılmış iri çekiç

@@ -2,6 +2,7 @@
 layout: term
 title: pürtük pürtük
 slug: purtuk-purtuk
+letter: P
 lisan: Türkçe
 anlamlar:
 - Üzerinde pürtükler bulunan

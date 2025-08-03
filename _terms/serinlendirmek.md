@@ -2,6 +2,7 @@
 layout: term
 title: serinlendirmek
 slug: serinlendirmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Serinlenme işini yaptırmak

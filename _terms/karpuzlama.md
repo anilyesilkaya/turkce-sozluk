@@ -2,6 +2,7 @@
 layout: term
 title: 'karpuzlama '
 slug: karpuzlama
+letter: K
 lisan: Türkçe
 anlamlar:
 - Herhangi bir şeyi alttan tutup karpuz atar gibi (karşıya atma)

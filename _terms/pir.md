@@ -2,6 +2,7 @@
 layout: term
 title: pir
 slug: pir
+letter: P
 lisan: Farsça pīr
 anlamlar:
 - Yaşlı, koca, ihtiyar kimse

@@ -2,6 +2,7 @@
 layout: term
 title: afallaşmak
 slug: afallasmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Şaşkınlık içinde kalmak, şaşırıp bir şey yapamaz olmak

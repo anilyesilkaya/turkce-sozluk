@@ -2,6 +2,7 @@
 layout: term
 title: kaldırım mühendisi
 slug: kaldirim-muhendisi
+letter: K
 lisan: Türkçe
 anlamlar:
 - İşsiz güçsüz sokaklarda dolaşan kimse

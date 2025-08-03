@@ -2,6 +2,7 @@
 layout: term
 title: bakılma
 slug: bakilma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bakılmak işi

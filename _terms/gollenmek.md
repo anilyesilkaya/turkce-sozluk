@@ -2,6 +2,7 @@
 layout: term
 title: göllenmek
 slug: gollenmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Su, çukurlarda birikmek, gölcük olmak

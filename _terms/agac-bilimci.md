@@ -2,6 +2,7 @@
 layout: term
 title: ağaç bilimci
 slug: agac-bilimci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağaç bilimi ile uğraşan kimse; dendrolojist, dendrolog

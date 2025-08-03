@@ -2,6 +2,7 @@
 layout: term
 title: tavla
 slug: tavla
+letter: T
 lisan: İtalyanca tavola
 anlamlar:
 - Bölümlere ayrılmış iki yanlı tahta üzerinde on beşerden otuz pul ve iki zarla iki kişinin karşılıklı oynadığı oyun

@@ -2,6 +2,7 @@
 layout: term
 title: havaya uçmak
 slug: havaya-ucmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - patlama dolayısıyla zarar görmek

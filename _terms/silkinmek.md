@@ -2,6 +2,7 @@
 layout: term
 title: silkinmek
 slug: silkinmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Üstünü silkmek

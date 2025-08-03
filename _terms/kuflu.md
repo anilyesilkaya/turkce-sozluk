@@ -2,6 +2,7 @@
 layout: term
 title: küflü
 slug: kuflu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Küflenmiş olan

@@ -2,6 +2,7 @@
 layout: term
 title: üs
 slug: us
+letter: Ü
 lisan: Arapça uss
 anlamlar:
 - ► esas

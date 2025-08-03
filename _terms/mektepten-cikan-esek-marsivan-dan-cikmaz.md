@@ -2,6 +2,7 @@
 layout: term
 title: mektepten çıkan eşek Marsıvan'dan çıkmaz
 slug: mektepten-cikan-esek-marsivan-dan-cikmaz
+letter: M
 lisan: Türkçe
 anlamlar:
 - '"öğrenim görmüş olsalar bile bazıları eğitilmemiş gibi davranabilirler" anlamında kullanılan bir söz'

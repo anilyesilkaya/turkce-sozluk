@@ -2,6 +2,7 @@
 layout: term
 title: ve
 slug: ve
+letter: V
 lisan: Arapça ve
 anlamlar:
 - İki kelime veya iki cümle arasına girerek aralarında bir bağ olduğunu anlatan söz

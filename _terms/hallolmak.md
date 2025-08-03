@@ -2,6 +2,7 @@
 layout: term
 title: hallolmak
 slug: hallolmak
+letter: H
 lisan: Arapça ḥall + Türkçe olmak
 anlamlar:
 - Çözümlenmek, sonuçlanmak

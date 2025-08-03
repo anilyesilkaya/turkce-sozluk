@@ -2,6 +2,7 @@
 layout: term
 title: çölleşmek
 slug: collesmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir arazi, verimli toprağı akıp çöl durumuna gelmek

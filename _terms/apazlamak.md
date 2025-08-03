@@ -2,6 +2,7 @@
 layout: term
 title: apazlamak
 slug: apazlamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► avuçlamak

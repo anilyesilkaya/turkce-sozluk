@@ -2,6 +2,7 @@
 layout: term
 title: sus payı
 slug: sus-payi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Susması, karşı gelmemesi veya bildiği bir sırrı yaymaması için birine verilen para vb. şey; susmalık, hakkısükût, sükût hakkı

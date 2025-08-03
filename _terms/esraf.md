@@ -2,6 +2,7 @@
 layout: term
 title: eşraf
 slug: esraf
+letter: E
 lisan: Arapça eşrāf
 anlamlar:
 - Bir yerin zenginleri, sözü geçenler, ileri gelenler

@@ -2,6 +2,7 @@
 layout: term
 title: dondurucu
 slug: dondurucu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Donduran

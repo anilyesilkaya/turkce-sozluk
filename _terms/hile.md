@@ -2,6 +2,7 @@
 layout: term
 title: hile
 slug: hile
+letter: H
 lisan: Arapça ḥīle
 anlamlar:
 - Birini aldatmak, yanıltmak için yapılan düzen; al (II), dolap, dümen, oyun, ayak oyunu, fen, fent, fesat, nakış

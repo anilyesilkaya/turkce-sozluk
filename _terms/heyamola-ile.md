@@ -2,6 +2,7 @@
 layout: term
 title: heyamola ile
 slug: heyamola-ile
+letter: H
 lisan: Türkçe
 anlamlar:
 - bir işin ancak büyük güçlüklere katlanılarak ve birçok kişinin yardımıyla yapılabileceğini anlatan bir söz

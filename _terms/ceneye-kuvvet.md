@@ -2,6 +2,7 @@
 layout: term
 title: çeneye kuvvet
 slug: ceneye-kuvvet
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Konuşma gücüyle, durmadan konuşup söyleyerek

@@ -2,6 +2,7 @@
 layout: term
 title: boya fırçası
 slug: boya-fircasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boya sürmek veya resim yapmak için kullanılan değişik tür ve ölçülerde fırça

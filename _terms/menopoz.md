@@ -2,6 +2,7 @@
 layout: term
 title: menopoz
 slug: menopoz
+letter: M
 lisan: Fransızca ménopause
 anlamlar:
 - Kadınlarda gebe kalma ve doğurma yeteneğinin sona ermesi, âdetten kesilme; yaş dönümü, âdetgörmezlik

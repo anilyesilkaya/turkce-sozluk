@@ -2,6 +2,7 @@
 layout: term
 title: etliye sütlüye karışmamak
 slug: etliye-sutluye-karismamak
+letter: E
 lisan: Türkçe
 anlamlar:
 - toplum içindeki çeşitli hareketlerden uzak durmak, hiçbir şeyle ilgilenmemek, tartışmalı konulardan kaçınmak

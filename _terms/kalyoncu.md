@@ -2,6 +2,7 @@
 layout: term
 title: kalyoncu
 slug: kalyoncu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalyonculuk yapan kimse

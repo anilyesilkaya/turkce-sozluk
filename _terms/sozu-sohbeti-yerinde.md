@@ -2,6 +2,7 @@
 layout: term
 title: sözü sohbeti yerinde
 slug: sozu-sohbeti-yerinde
+letter: S
 lisan: Türkçe
 anlamlar:
 - güzel, oyalayıcı, kırmadan konuşan

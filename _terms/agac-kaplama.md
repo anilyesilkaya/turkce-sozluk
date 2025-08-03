@@ -2,6 +2,7 @@
 layout: term
 title: ağaç kaplama
 slug: agac-kaplama
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kapalı mekânları yalıtmak ve güzelleştirmek amacıyla ağaç ürünlerinden yararlanılarak yapılan kaplama

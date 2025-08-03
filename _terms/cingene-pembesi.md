@@ -2,6 +2,7 @@
 layout: term
 title: Çingene pembesi
 slug: cingene-pembesi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Göz alıcı pembe renk

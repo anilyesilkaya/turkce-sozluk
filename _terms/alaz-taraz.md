@@ -2,6 +2,7 @@
 layout: term
 title: alaz taraz
 slug: alaz-taraz
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► dağınık

@@ -2,6 +2,7 @@
 layout: term
 title: çekicileştirebilmek
 slug: cekicilestirebilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çekicileştirme ihtimali veya imkânı bulunmak; cazipleştirebilmek

@@ -2,6 +2,7 @@
 layout: term
 title: kalebent etmek
 slug: kalebent-etmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - suçluluğu yüzünden mahkûm etmek

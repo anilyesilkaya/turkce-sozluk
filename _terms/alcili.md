@@ -2,6 +2,7 @@
 layout: term
 title: alçılı
 slug: alcili
+letter: A
 lisan: Türkçe
 anlamlar:
 - İçinde alçı bulunan

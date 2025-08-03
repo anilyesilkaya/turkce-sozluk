@@ -2,6 +2,7 @@
 layout: term
 title: güneşlenmek
 slug: guneslenmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güneş ışınlarından vücudun yararlanmasını sağlamak; güneşlemek

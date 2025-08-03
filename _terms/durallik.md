@@ -2,6 +2,7 @@
 layout: term
 title: durallık
 slug: durallik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dural olma durumu

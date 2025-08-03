@@ -2,6 +2,7 @@
 layout: term
 title: gürüldemek
 slug: guruldemek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Çok hızlı ve gürültülü ses çıkarmak

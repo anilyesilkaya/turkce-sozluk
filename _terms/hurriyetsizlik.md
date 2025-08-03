@@ -2,6 +2,7 @@
 layout: term
 title: hürriyetsizlik
 slug: hurriyetsizlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► özgürlüksüzlük

@@ -2,6 +2,7 @@
 layout: term
 title: kuruş
 slug: kurus
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kurmak işi

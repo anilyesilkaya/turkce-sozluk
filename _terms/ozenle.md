@@ -2,6 +2,7 @@
 layout: term
 title: özenle
 slug: ozenle
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Titizlik göstererek

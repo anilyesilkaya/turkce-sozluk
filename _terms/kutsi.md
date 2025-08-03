@@ -2,6 +2,7 @@
 layout: term
 title: kutsi
 slug: kutsi
+letter: K
 lisan: Arapça ḳudsī
 anlamlar:
 - ► kutsal

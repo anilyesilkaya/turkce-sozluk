@@ -2,6 +2,7 @@
 layout: term
 title: umuş
 slug: umus
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ummak işi

@@ -2,6 +2,7 @@
 layout: term
 title: şergil
 slug: sergil
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Askıntı, baş belası

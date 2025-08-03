@@ -2,6 +2,7 @@
 layout: term
 title: kasır
 slug: kasir
+letter: K
 lisan: Arapça ḳaṣr
 anlamlar:
 - ► köşk

@@ -2,6 +2,7 @@
 layout: term
 title: şıp diye
 slug: sip-diye
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - '"şıp" sesi çıkararak'

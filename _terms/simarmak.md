@@ -2,6 +2,7 @@
 layout: term
 title: şımarmak
 slug: simarmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Kendisine gösterilen sevgi ve saygıdan veya verilen değerden yüreklenerek yersiz ve aşırı davranışlarda bulunmak

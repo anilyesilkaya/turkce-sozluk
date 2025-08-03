@@ -2,6 +2,7 @@
 layout: term
 title: hipnotize olmak
 slug: hipnotize-olmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - hipnotizma yoluyla etki altında kalmak

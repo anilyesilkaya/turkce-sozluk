@@ -2,6 +2,7 @@
 layout: term
 title: bir dizi
 slug: bir-dizi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Art arda gelen

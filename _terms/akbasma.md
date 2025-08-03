@@ -2,6 +2,7 @@
 layout: term
 title: akbasma
 slug: akbasma
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► katarakt

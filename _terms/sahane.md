@@ -2,6 +2,7 @@
 layout: term
 title: şahane
 slug: sahane
+letter: Ş
 lisan: Farsça şāhāne
 anlamlar:
 - Hükümdarla ilgili, hükümdara özgü olan

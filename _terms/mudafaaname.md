@@ -2,6 +2,7 @@
 layout: term
 title: müdafaaname
 slug: mudafaaname
+letter: M
 lisan: Arapça mudāfaʿa + Farsça nāme
 anlamlar:
 - ► savunma

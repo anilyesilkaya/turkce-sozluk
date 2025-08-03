@@ -2,6 +2,7 @@
 layout: term
 title: zül
 slug: zul
+letter: Z
 lisan: Arapça ẕull
 anlamlar:
 - ► alçalma

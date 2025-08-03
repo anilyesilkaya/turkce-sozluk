@@ -2,6 +2,7 @@
 layout: term
 title: artistçe
 slug: artistce
+letter: A
 lisan: Türkçe
 anlamlar:
 - Artiste benzer bir biçimde

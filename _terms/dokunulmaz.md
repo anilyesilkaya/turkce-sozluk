@@ -2,6 +2,7 @@
 layout: term
 title: dokunulmaz
 slug: dokunulmaz
+letter: D
 lisan: Türkçe
 anlamlar:
 - İlişilmez, el sürülmez, taarruzdan korunmuş

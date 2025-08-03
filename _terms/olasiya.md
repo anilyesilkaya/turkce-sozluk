@@ -2,6 +2,7 @@
 layout: term
 title: olasıya
 slug: olasiya
+letter: O
 lisan: Türkçe
 anlamlar:
 - Olabileceği ölçüde, olabileceği kadar

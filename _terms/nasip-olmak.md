@@ -2,6 +2,7 @@
 layout: term
 title: nasip olmak
 slug: nasip-olmak
+letter: N
 lisan: Türkçe
 anlamlar:
 - fırsat düşmek, elvermek

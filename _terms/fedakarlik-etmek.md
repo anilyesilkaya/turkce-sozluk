@@ -2,6 +2,7 @@
 layout: term
 title: fedakârlık etmek
 slug: fedakarlik-etmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - özverili davranmak

@@ -2,6 +2,7 @@
 layout: term
 title: isteyebilme
 slug: isteyebilme
+letter: I
 lisan: Türkçe
 anlamlar:
 - İsteyebilmek işi; arzulayabilme

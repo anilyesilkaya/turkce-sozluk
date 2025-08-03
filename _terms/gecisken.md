@@ -2,6 +2,7 @@
 layout: term
 title: geçişken
 slug: gecisken
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bir durumdan başka bir duruma geçme özelliği olan

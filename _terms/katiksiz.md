@@ -2,6 +2,7 @@
 layout: term
 title: katıksız
 slug: katiksiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Katığı olmayan; yavan

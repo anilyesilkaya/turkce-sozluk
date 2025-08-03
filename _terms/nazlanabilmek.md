@@ -2,6 +2,7 @@
 layout: term
 title: nazlanabilmek
 slug: nazlanabilmek
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nazlanma ihtimali veya imkânı bulunmak

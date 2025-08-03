@@ -2,6 +2,7 @@
 layout: term
 title: zevzeklik
 slug: zevzeklik
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► gevezelik

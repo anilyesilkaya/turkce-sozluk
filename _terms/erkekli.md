@@ -2,6 +2,7 @@
 layout: term
 title: erkekli
 slug: erkekli
+letter: E
 lisan: Türkçe
 anlamlar:
 - Erkeği olan

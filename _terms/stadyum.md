@@ -2,6 +2,7 @@
 layout: term
 title: stadyum
 slug: stadyum
+letter: S
 lisan: Latince
 anlamlar:
 - Takım oyunları, atletizm karşılaşmaları ve çeşitli törenlerin yapılabilmesi, seyircilerin de bunları izleyebilmesi için elverişli oturma yerleri olan alan, stat

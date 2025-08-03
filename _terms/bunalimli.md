@@ -2,6 +2,7 @@
 layout: term
 title: bunalımlı
 slug: bunalimli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Gerginlik, sıkıntı veren, gerginliği olan; buhranlı

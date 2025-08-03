@@ -2,6 +2,7 @@
 layout: term
 title: hademelik
 slug: hademelik
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► hizmetlilik

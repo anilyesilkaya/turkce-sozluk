@@ -2,6 +2,7 @@
 layout: term
 title: köpek
 slug: kopek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Köpekgillerden, boy ve biçim bakımından pek çok cinsi olan, çok iyi koku alan, sadık, bekçilik ve avcılık gibi işler için beslenen memeli hayvan; kapik (I), it  (Canis familiaris)

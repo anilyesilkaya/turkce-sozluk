@@ -2,6 +2,7 @@
 layout: term
 title: polisevi
 slug: polisevi
+letter: P
 lisan: Türkçe
 anlamlar:
 - Emniyet mensuplarının dinlenmek ve barınmak amacıyla kullandığı bina

@@ -2,6 +2,7 @@
 layout: term
 title: peşinen
 slug: pesinen
+letter: P
 lisan: Farsça pīşīn + Arapça -en
 anlamlar:
 - Peşin olarak

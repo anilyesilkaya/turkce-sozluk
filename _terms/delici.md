@@ -2,6 +2,7 @@
 layout: term
 title: delici
 slug: delici
+letter: D
 lisan: Türkçe
 anlamlar:
 - Delen, delme işini yapan kimse veya nesne

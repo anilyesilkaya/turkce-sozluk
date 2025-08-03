@@ -2,6 +2,7 @@
 layout: term
 title: aylaklık
 slug: aylaklik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aylak olma durumu

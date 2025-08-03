@@ -2,6 +2,7 @@
 layout: term
 title: erişilebilmek
 slug: erisilebilmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Erişilme ihtimali veya imkânı bulunmak

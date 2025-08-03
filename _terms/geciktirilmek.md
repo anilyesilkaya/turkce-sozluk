@@ -2,6 +2,7 @@
 layout: term
 title: geciktirilmek
 slug: geciktirilmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gecikmesine yol açılmak

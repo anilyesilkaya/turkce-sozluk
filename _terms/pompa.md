@@ -2,6 +2,7 @@
 layout: term
 title: pompa
 slug: pompa
+letter: P
 lisan: İtalyanca pompa
 anlamlar:
 - Hava veya herhangi bir akışkanı bir yerden başka bir yere aktarmaya yarayan makine

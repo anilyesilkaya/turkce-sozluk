@@ -2,6 +2,7 @@
 layout: term
 title: şıkır şıkır
 slug: sikir-sikir
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Parlak, pırıl pırıl olan

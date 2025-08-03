@@ -2,6 +2,7 @@
 layout: term
 title: mühresenk
 slug: muhresenk
+letter: M
 lisan: Farsça muhre + seng
 anlamlar:
 - ► balgam taşı

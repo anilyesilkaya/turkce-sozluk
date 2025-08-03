@@ -2,6 +2,7 @@
 layout: term
 title: görmemişlik
 slug: gormemislik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Görmemiş olma durumu

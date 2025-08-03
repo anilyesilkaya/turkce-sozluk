@@ -2,6 +2,7 @@
 layout: term
 title: ipipullah
 slug: ipipullah
+letter: I
 lisan: Türkçe ip + i + Arapça billāh
 anlamlar:
 - “Elinde avucunda hiçbir şey kalmamış kimse” ve “hiç kimsesi kalmamış kimse” anlamlarındaki ipipullah sivri külah deyiminde geçen bir söz

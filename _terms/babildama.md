@@ -2,6 +2,7 @@
 layout: term
 title: babıldama
 slug: babildama
+letter: B
 lisan: Türkçe
 anlamlar:
 - Babıldamak işi

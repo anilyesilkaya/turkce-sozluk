@@ -2,6 +2,7 @@
 layout: term
 title: buharlı
 slug: buharli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Buharı olan

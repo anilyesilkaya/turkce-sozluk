@@ -2,6 +2,7 @@
 layout: term
 title: eli ayağı tutmak
 slug: eli-ayagi-tutmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - beden gücü yerinde olmak

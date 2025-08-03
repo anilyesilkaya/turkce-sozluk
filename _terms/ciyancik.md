@@ -2,6 +2,7 @@
 layout: term
 title: çıyancık
 slug: ciyancik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► kurtpençesi

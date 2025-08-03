@@ -2,6 +2,7 @@
 layout: term
 title: gençten
 slug: gencten
+letter: G
 lisan: Türkçe
 anlamlar:
 - Genç sayılan (kimse)

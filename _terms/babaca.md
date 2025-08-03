@@ -2,6 +2,7 @@
 layout: term
 title: babaca
 slug: babaca
+letter: B
 lisan: Türkçe
 anlamlar:
 - Baba gibi, babaya yakışır

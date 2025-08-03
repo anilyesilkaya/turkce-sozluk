@@ -2,6 +2,7 @@
 layout: term
 title: pöstekiyi sermek
 slug: postekiyi-sermek
+letter: P
 lisan: Türkçe
 anlamlar:
 - gittiği yerde uzun süre kalmak, postu sermek

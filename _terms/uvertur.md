@@ -2,6 +2,7 @@
 layout: term
 title: uvertür
 slug: uvertur
+letter: U
 lisan: Fransızca ouverture
 anlamlar:
 - Opera, bale veya konçertonun açılışındaki parça

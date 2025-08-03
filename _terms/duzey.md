@@ -2,6 +2,7 @@
 layout: term
 title: düzey
 slug: duzey
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir yüzeyin veya bir noktanın yüksekliğindeki yatay sınır; seviye

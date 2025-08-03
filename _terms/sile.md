@@ -2,6 +2,7 @@
 layout: term
 title: Şile
 slug: sile
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - İstanbul iline bağlı ilçelerden biri

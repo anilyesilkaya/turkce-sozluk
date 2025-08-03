@@ -2,6 +2,7 @@
 layout: term
 title: özek
 slug: ozek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► merkez

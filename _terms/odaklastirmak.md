@@ -2,6 +2,7 @@
 layout: term
 title: odaklaştırmak
 slug: odaklastirmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Bir ışık demetini veya elektron akışını bir noktaya toplamak

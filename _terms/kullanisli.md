@@ -2,6 +2,7 @@
 layout: term
 title: kullanışlı
 slug: kullanisli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Rahatça kullanılabilen; ergonomik

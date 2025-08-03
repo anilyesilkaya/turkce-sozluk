@@ -2,6 +2,7 @@
 layout: term
 title: haram
 slug: haram
+letter: H
 lisan: Arapça ḥarām
 anlamlar:
 - Din kurallarına aykırı olan, dinî bakımdan yasak olan, helal karşıtı

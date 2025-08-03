@@ -2,6 +2,7 @@
 layout: term
 title: füsunkâr
 slug: fusunkar
+letter: F
 lisan: Farsça fusūnkār
 anlamlar:
 - ► büyülü

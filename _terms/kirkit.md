@@ -2,6 +2,7 @@
 layout: term
 title: kirkit
 slug: kirkit
+letter: K
 lisan: Türkçe
 anlamlar:
 - Dokumacılıkta atkı ipliğini sıkıştırmak için kullanılan, demirden veya ağaçtan yapılmış dişli araç

@@ -2,6 +2,7 @@
 layout: term
 title: zilyet
 slug: zilyet
+letter: Z
 lisan: Arapça ẕi'l-yed
 anlamlar:
 - Sahibi kendisi olsun olmasın bir malı kullanmakta olan, elinde tutan kimse; eldeci

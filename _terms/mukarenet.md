@@ -2,6 +2,7 @@
 layout: term
 title: mukarenet
 slug: mukarenet
+letter: M
 lisan: Arapça muḳārenet
 anlamlar:
 - ► yaklaşma

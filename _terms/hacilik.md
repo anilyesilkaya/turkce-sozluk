@@ -2,6 +2,7 @@
 layout: term
 title: hacılık
 slug: hacilik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hacı olma durumu

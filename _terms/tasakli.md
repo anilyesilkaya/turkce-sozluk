@@ -2,6 +2,7 @@
 layout: term
 title: taşaklı
 slug: tasakli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taşağı olan

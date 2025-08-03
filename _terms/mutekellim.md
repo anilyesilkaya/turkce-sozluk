@@ -2,6 +2,7 @@
 layout: term
 title: mütekellim
 slug: mutekellim
+letter: M
 lisan: Arapça mutekellim
 anlamlar:
 - Söyleyen, konuşan

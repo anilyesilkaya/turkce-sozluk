@@ -2,6 +2,7 @@
 layout: term
 title: casusluk
 slug: casusluk
+letter: C
 lisan: Türkçe
 anlamlar:
 - Casus olma durumu; çaşıtlık, ajanlık, espiyonaj

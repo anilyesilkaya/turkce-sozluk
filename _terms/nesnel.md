@@ -2,6 +2,7 @@
 layout: term
 title: nesnel
 slug: nesnel
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nesne ile ilgili, nesneye ilişkin; objektif,  öznel karşıtı

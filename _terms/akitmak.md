@@ -2,6 +2,7 @@
 layout: term
 title: akıtmak
 slug: akitmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Akmasını sağlamak, akmasına yol açmak; dökmek

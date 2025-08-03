@@ -2,6 +2,7 @@
 layout: term
 title: duyumsuzluk
 slug: duyumsuzluk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Duyumsuz olma durumu

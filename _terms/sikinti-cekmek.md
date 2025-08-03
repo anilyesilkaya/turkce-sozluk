@@ -2,6 +2,7 @@
 layout: term
 title: sıkıntı çekmek
 slug: sikinti-cekmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - zorluk veya yoksulluk içinde yaşamak

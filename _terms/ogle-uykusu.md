@@ -2,6 +2,7 @@
 layout: term
 title: öğle uykusu
 slug: ogle-uykusu
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Genellikle öğle yemeğinden sonraki kısa süreli uyku

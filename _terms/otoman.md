@@ -2,6 +2,7 @@
 layout: term
 title: otoman
 slug: otoman
+letter: O
 lisan: Fransızca ottoman
 anlamlar:
 - Bir tür ipekli kumaş

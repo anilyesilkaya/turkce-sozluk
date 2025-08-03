@@ -2,6 +2,7 @@
 layout: term
 title: hicret
 slug: hicret
+letter: H
 lisan: Arapça hicret
 anlamlar:
 - ► göç

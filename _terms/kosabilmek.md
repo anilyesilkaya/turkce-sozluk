@@ -2,6 +2,7 @@
 layout: term
 title: koşabilmek
 slug: kosabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Koşma ihtimali veya imkânı bulunmak

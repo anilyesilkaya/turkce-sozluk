@@ -2,6 +2,7 @@
 layout: term
 title: mahlut
 slug: mahlut
+letter: M
 lisan: Arapça maḫlūṭ
 anlamlar:
 - ► katışık

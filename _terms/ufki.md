@@ -2,6 +2,7 @@
 layout: term
 title: ufki
 slug: ufki
+letter: U
 lisan: Arapça ufḳī
 anlamlar:
 - ► yatay

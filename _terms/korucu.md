@@ -2,6 +2,7 @@
 layout: term
 title: korucu
 slug: korucu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Orman veya kır bekçisi

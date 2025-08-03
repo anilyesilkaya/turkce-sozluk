@@ -2,6 +2,7 @@
 layout: term
 title: varagelmek
 slug: varagelmek
+letter: V
 lisan: Türkçe
 anlamlar:
 - Başlangıcından beri aynı biçimde sürmek, devam etmek

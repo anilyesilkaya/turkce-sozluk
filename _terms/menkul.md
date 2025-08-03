@@ -2,6 +2,7 @@
 layout: term
 title: menkul
 slug: menkul
+letter: M
 lisan: Arapça menḳūl
 anlamlar:
 - Bir yerden bir yere taşınabilen (mal)

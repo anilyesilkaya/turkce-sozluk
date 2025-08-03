@@ -2,6 +2,7 @@
 layout: term
 title: muaheze
 slug: muaheze
+letter: M
 lisan: Arapça muʿāḫaẕe
 anlamlar:
 - ► kınama

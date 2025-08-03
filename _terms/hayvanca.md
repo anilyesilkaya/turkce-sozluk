@@ -2,6 +2,7 @@
 layout: term
 title: hayvanca
 slug: hayvanca
+letter: H
 lisan: Türkçe
 anlamlar:
 - Çok kaba ve hoyrat; hayvani

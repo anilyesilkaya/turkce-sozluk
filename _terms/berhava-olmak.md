@@ -2,6 +2,7 @@
 layout: term
 title: berhava olmak
 slug: berhava-olmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - patlama yolu ile havaya uçmak

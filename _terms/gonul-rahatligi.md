@@ -2,6 +2,7 @@
 layout: term
 title: gönül rahatlığı
 slug: gonul-rahatligi
+letter: G
 lisan: Türkçe
 anlamlar:
 - İç rahatlığı, iç huzuru, baş dinçliği; huzur, itminan

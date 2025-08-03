@@ -2,6 +2,7 @@
 layout: term
 title: kaba sofu
 slug: kaba-sofu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Dini sadece şekilden ibaret gören, şekille ilgili konularda olması gerekenden fazla ve aşırı derecede titiz olan kimse

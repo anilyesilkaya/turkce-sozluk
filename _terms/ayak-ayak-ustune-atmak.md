@@ -2,6 +2,7 @@
 layout: term
 title: ayak ayak üstüne atmak
 slug: ayak-ayak-ustune-atmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - otururken bir bacağını ötekinin üstüne almak

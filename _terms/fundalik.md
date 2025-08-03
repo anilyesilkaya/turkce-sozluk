@@ -2,6 +2,7 @@
 layout: term
 title: fundalık
 slug: fundalik
+letter: F
 lisan: Türkçe
 anlamlar:
 - Funda ile kaplı yer

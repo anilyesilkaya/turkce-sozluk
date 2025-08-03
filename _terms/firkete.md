@@ -2,6 +2,7 @@
 layout: term
 title: firkete
 slug: firkete
+letter: F
 lisan: İtalyanca forchetta
 anlamlar:
 - Kadınların saçlarını tutturmak için kullandıkları U biçimindeki naylon veya telden saç tokası

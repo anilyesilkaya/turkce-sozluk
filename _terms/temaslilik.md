@@ -2,6 +2,7 @@
 layout: term
 title: temaslılık
 slug: temaslilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Temaslı olma durumu

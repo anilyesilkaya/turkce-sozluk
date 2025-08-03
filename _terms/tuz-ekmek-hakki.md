@@ -2,6 +2,7 @@
 layout: term
 title: tuz ekmek hakkı
 slug: tuz-ekmek-hakki
+letter: T
 lisan: Türkçe
 anlamlar:
 - Birinin ekmek yedirip iyilik ettiği kimse üzerindeki manevi hakkı

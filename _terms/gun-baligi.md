@@ -2,6 +2,7 @@
 layout: term
 title: gün balığı
 slug: gun-baligi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Lapinagillerden, kırmızı renkli, siyah benekli bir balık (Julis turcica)

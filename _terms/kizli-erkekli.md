@@ -2,6 +2,7 @@
 layout: term
 title: kızlı erkekli
 slug: kizli-erkekli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kız erkek karışık

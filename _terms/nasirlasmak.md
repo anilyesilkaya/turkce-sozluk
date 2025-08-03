@@ -2,6 +2,7 @@
 layout: term
 title: nasırlaşmak
 slug: nasirlasmak
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nasır oluşmak; nasırlanmak

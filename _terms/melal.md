@@ -2,6 +2,7 @@
 layout: term
 title: melal
 slug: melal
+letter: M
 lisan: Arapça melāl
 anlamlar:
 - ► usanç

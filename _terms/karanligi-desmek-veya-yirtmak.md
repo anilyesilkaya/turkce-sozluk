@@ -2,6 +2,7 @@
 layout: term
 title: karanlığı deşmek (veya yırtmak)
 slug: karanligi-desmek-veya-yirtmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - karanlıkta görmeye çalışmak, aydınlığa çıkmak için çaba harcamak

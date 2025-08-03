@@ -2,6 +2,7 @@
 layout: term
 title: hayır sahibi
 slug: hayir-sahibi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hayırsever kimse

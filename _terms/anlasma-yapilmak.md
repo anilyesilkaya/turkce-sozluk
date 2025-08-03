@@ -2,6 +2,7 @@
 layout: term
 title: anlaşma yapılmak
 slug: anlasma-yapilmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - anlaşma belgesi düzenlenip imzalanmak

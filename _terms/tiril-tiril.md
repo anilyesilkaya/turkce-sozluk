@@ -2,6 +2,7 @@
 layout: term
 title: tiril tiril
 slug: tiril-tiril
+letter: T
 lisan: Türkçe
 anlamlar:
 - Titrer gibi dalgalanan, ince (kumaş, elbise)

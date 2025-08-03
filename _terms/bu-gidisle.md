@@ -2,6 +2,7 @@
 layout: term
 title: bu gidişle
 slug: bu-gidisle
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bu biçimde, bu tarzda

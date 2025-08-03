@@ -2,6 +2,7 @@
 layout: term
 title: atfedebilmek
 slug: atfedebilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Atfetme ihtimali veya imkânı bulunmak

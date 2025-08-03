@@ -2,6 +2,7 @@
 layout: term
 title: arslanlı
 slug: arslanli
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► aslanlı

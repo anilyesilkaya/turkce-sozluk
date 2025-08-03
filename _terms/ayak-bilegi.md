@@ -2,6 +2,7 @@
 layout: term
 title: ayak bileği
 slug: ayak-bilegi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Baldır kemikleriyle tarak kemikleri arasında bulunan ve yedi kemikten oluşan ayağın arka bölümü

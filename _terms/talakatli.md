@@ -2,6 +2,7 @@
 layout: term
 title: talakatli
 slug: talakatli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Sözü düzgün ve güzel söyleyerek

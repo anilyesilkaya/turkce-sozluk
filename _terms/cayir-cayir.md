@@ -2,6 +2,7 @@
 layout: term
 title: cayır cayır
 slug: cayir-cayir
+letter: C
 lisan: Türkçe
 anlamlar:
 - Şiddetli, çabuk ve etkili bir biçimde (yanmak, yırtılmak vb.)

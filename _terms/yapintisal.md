@@ -2,6 +2,7 @@
 layout: term
 title: yapıntısal
 slug: yapintisal
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yapıntı ile ilgili, yapıntıya ait

@@ -2,6 +2,7 @@
 layout: term
 title: maganda kurşunu
 slug: maganda-kursunu
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► serseri kurşun

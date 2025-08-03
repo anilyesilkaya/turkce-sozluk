@@ -2,6 +2,7 @@
 layout: term
 title: cülusiye
 slug: culusiye
+letter: C
 lisan: Arapça culūsiyye
 anlamlar:
 - Hükümdarların cülus törenlerinde dağıttığı bahşiş

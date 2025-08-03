@@ -2,6 +2,7 @@
 layout: term
 title: tarak otugiller
 slug: tarak-otugiller
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bitişik taç yapraklı iki çeneklilerden bir familya

@@ -2,6 +2,7 @@
 layout: term
 title: gözlerinde şimşek çakmak
 slug: gozlerinde-simsek-cakmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - aşırı parlamak

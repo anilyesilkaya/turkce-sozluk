@@ -2,6 +2,7 @@
 layout: term
 title: dürülmek
 slug: durulmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dürme işine konu olmak veya dürme işi yapılmak

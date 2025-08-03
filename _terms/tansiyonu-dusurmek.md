@@ -2,6 +2,7 @@
 layout: term
 title: tansiyonu düşürmek
 slug: tansiyonu-dusurmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - gerilimi azaltmak

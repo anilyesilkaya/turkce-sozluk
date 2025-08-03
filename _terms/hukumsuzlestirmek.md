@@ -2,6 +2,7 @@
 layout: term
 title: hükümsüzleştirmek
 slug: hukumsuzlestirmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - Yürürlükten çıkarmak, yürürlükten kaldırmak

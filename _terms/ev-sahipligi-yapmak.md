@@ -2,6 +2,7 @@
 layout: term
 title: ev sahipliği yapmak
 slug: ev-sahipligi-yapmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - konukları güler yüzlü davranıp iyi ağırlamak

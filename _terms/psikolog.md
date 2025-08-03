@@ -2,6 +2,7 @@
 layout: term
 title: psikolog
 slug: psikolog
+letter: P
 lisan: Fransızca psychologue
 anlamlar:
 - Bir grubun veya bireyin davranışlarını, hareket etme biçimlerini, dürtülerini inceleyen, öğrendiği bilgi ve beceriler ile nedenleri açıklayıp çözüm üretmeye çalışan kimse; ruh bilimci, ruhiyatçı

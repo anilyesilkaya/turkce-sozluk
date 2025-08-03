@@ -2,6 +2,7 @@
 layout: term
 title: cadısüpürgesi
 slug: cadisupurgesi
+letter: C
 lisan: Türkçe
 anlamlar:
 - Emeçleri özellikle dal uçlarındaki kabuk altında sıkı bir ağ örerek çekirdekli yemiş ağaçlarının çiçeklenmesine, dolayısıyla meyve verimine engel olan asklı mantar (Taphrina cerasi)

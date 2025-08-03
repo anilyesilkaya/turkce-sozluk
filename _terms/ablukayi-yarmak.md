@@ -2,6 +2,7 @@
 layout: term
 title: ablukayı yarmak
 slug: ablukayi-yarmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - kuşatılan bölgeden zor kullanarak dışarı çıkmak

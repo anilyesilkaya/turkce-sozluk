@@ -2,6 +2,7 @@
 layout: term
 title: kaskatılık
 slug: kaskatilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaskatı olma durumu

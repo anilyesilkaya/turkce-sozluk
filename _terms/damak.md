@@ -2,6 +2,7 @@
 layout: term
 title: damak
 slug: damak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Ağız boşluğunun tavanı

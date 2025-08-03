@@ -2,6 +2,7 @@
 layout: term
 title: temiz
 slug: temiz
+letter: T
 lisan: Arapça temyīz
 anlamlar:
 - Kirli, lekeli, pis, bulaşık olmayan; arı (I), pak, sili (II), tahir, hijyen, hijyenik

@@ -2,6 +2,7 @@
 layout: term
 title: başöğretmen
 slug: basogretmen
+letter: B
 lisan: Türkçe
 anlamlar:
 - İlkokullarda yönetimden sorumlu olan öğretmen; müdür, başmuallim

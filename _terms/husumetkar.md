@@ -2,6 +2,7 @@
 layout: term
 title: husumetkâr
 slug: husumetkar
+letter: H
 lisan: Arapça ḫuṣūmet + Farsça -kār
 anlamlar:
 - Düşmanlık besleyen, kin güden (kimse)

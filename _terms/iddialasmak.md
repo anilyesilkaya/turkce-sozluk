@@ -2,6 +2,7 @@
 layout: term
 title: iddialaşmak
 slug: iddialasmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - Karşılıklı iddiaya girmek

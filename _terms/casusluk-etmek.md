@@ -2,6 +2,7 @@
 layout: term
 title: casusluk etmek
 slug: casusluk-etmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - casus olarak çalışmak

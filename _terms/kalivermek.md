@@ -2,6 +2,7 @@
 layout: term
 title: kalıvermek
 slug: kalivermek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Öylece kalmak

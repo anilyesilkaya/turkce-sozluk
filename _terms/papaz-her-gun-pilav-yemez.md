@@ -2,6 +2,7 @@
 layout: term
 title: papaz her gün pilav yemez
 slug: papaz-her-gun-pilav-yemez
+letter: P
 lisan: Türkçe
 anlamlar:
 - '"bir insanı hep aynı hileyle kandıramazsın" anlamında kullanılan bir söz'

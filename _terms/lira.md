@@ -2,6 +2,7 @@
 layout: term
 title: lira
 slug: lira
+letter: L
 lisan: İtalyanca lira
 anlamlar:
 - Yüz kuruş değerinde Türkiye'nin para birimi; teklik

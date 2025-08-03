@@ -2,6 +2,7 @@
 layout: term
 title: kiralama
 slug: kiralama
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kiralamak işi; isticar

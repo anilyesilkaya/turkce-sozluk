@@ -2,6 +2,7 @@
 layout: term
 title: idareci
 slug: idareci
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► yönetici

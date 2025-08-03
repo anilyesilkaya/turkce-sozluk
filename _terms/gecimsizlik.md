@@ -2,6 +2,7 @@
 layout: term
 title: geçimsizlik
 slug: gecimsizlik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Geçimsiz olma durumu; bağdaşmazlık, dirliksizlik

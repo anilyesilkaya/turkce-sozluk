@@ -2,6 +2,7 @@
 layout: term
 title: abazanlık
 slug: abazanlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Abazan olma durumu

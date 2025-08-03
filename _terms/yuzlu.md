@@ -2,6 +2,7 @@
 layout: term
 title: yüzlü
 slug: yuzlu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yüzü herhangi bir nitelikte olan; benizli, simalı, çehreli, suratlı

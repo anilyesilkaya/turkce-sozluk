@@ -2,6 +2,7 @@
 layout: term
 title: mısır unu
 slug: misir-unu
+letter: M
 lisan: Türkçe
 anlamlar:
 - Kuru mısır tanelerinin öğütülmesiyle elde edilen un

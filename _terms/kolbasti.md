@@ -2,6 +2,7 @@
 layout: term
 title: kolbastı
 slug: kolbasti
+letter: K
 lisan: Türkçe
 anlamlar:
 - Güreşte ayağı kapılan güreşçinin, rakibinin ayağını tutmasıyla ortaya çıkan geçersizlik durumu

@@ -2,6 +2,7 @@
 layout: term
 title: cömertçe
 slug: comertce
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cömert bir biçimde, sakınmadan

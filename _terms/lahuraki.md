@@ -2,6 +2,7 @@
 layout: term
 title: lahuraki
 slug: lahuraki
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lahor'da yapılan (bir tür şal kumaşı); lahuri

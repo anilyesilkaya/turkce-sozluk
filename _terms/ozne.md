@@ -2,6 +2,7 @@
 layout: term
 title: özne
 slug: ozne
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - 'Cümlede yüklemin belirttiği işi yapan veya bir oluşa konu olan öge; fail, süje: "Çocuk konuştu." "Çocuk henüz yürüdü." cümlelerinde "çocuk" sözü öznedir'

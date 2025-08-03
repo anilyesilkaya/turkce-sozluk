@@ -2,6 +2,7 @@
 layout: term
 title: oksijenlenmek
 slug: oksijenlenmek
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oksijen ile birleşmek

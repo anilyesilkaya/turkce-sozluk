@@ -2,6 +2,7 @@
 layout: term
 title: tüketici
 slug: tuketici
+letter: T
 lisan: Türkçe
 anlamlar:
 - Mal ve hizmetlerden yararlanan, satın alıp kullanan, tüketen kimse; müstehlik, üretici karşıtı

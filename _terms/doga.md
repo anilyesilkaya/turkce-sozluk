@@ -2,6 +2,7 @@
 layout: term
 title: doğa
 slug: doga
+letter: D
 lisan: Türkçe
 anlamlar:
 - Kendi kuralları çerçevesinde sürekli gelişen, değişen canlı ve cansız varlıkların hepsi; tabiat, natür

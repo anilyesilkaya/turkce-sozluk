@@ -2,6 +2,7 @@
 layout: term
 title: ahval
 slug: ahval
+letter: A
 lisan: Arapça aḥvāl
 anlamlar:
 - Durumlar, hâller, vaziyetler

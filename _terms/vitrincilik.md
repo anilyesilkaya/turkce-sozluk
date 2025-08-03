@@ -2,6 +2,7 @@
 layout: term
 title: vitrincilik
 slug: vitrincilik
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vitrincinin yaptığı iş

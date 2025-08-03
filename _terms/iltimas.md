@@ -2,6 +2,7 @@
 layout: term
 title: iltimas
 slug: iltimas
+letter: I
 lisan: Arapça iltimās
 anlamlar:
 - ► kayırma

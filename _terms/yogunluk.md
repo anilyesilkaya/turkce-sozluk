@@ -2,6 +2,7 @@
 layout: term
 title: yoğunluk
 slug: yogunluk
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yoğun olma durumu; sel

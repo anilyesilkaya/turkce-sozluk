@@ -2,6 +2,7 @@
 layout: term
 title: istenç
 slug: istenc
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► irade

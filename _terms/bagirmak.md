@@ -2,6 +2,7 @@
 layout: term
 title: bağırmak
 slug: bagirmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - İnsan yüksek ve gür ses çıkarmak; banlamak

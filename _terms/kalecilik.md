@@ -2,6 +2,7 @@
 layout: term
 title: kalecilik
 slug: kalecilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaleci olma durumu

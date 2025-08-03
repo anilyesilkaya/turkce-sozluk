@@ -2,6 +2,7 @@
 layout: term
 title: tıbbiye
 slug: tibbiye
+letter: T
 lisan: Arapça ṭibbiyye
 anlamlar:
 - Doktor yetiştiren fakülte

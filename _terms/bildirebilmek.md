@@ -2,6 +2,7 @@
 layout: term
 title: bildirebilmek
 slug: bildirebilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bildirme ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: eşitlik
 slug: esitlik
+letter: E
 lisan: Türkçe
 anlamlar:
 - İki veya daha çok şeyin eşit olması durumu; müsavilik, uygunluk, müsavat, muadelet

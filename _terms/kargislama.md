@@ -2,6 +2,7 @@
 layout: term
 title: kargışlama
 slug: kargislama
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► ilenme

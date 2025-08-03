@@ -2,6 +2,7 @@
 layout: term
 title: kızcağız
 slug: kizcagiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kendisine şefkat ve acıma duyulan kız

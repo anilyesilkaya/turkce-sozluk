@@ -2,6 +2,7 @@
 layout: term
 title: amme davası
 slug: amme-davasi
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► kamu davası

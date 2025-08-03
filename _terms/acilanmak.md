@@ -2,6 +2,7 @@
 layout: term
 title: acılanmak
 slug: acilanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Tadı acı olmak, acı duruma gelmek

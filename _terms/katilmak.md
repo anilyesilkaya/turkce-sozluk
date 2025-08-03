@@ -2,6 +2,7 @@
 layout: term
 title: katılmak
 slug: katilmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Aşırı derecede gülme, ağlama, gıdıklanma, korkma vb. tepkiler sırasında, solunum kaslarının kasılmasından dolayı soluk kesilmek

@@ -2,6 +2,7 @@
 layout: term
 title: inceleyici
 slug: inceleyici
+letter: I
 lisan: Türkçe
 anlamlar:
 - İnceleyen, araştırma yapan kimse; müdekkik

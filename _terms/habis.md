@@ -2,6 +2,7 @@
 layout: term
 title: habis
 slug: habis
+letter: H
 lisan: Arapça ḫabīs̱
 anlamlar:
 - Kötü, alçak, soysuz (kimse)

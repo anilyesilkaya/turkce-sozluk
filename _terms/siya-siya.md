@@ -2,6 +2,7 @@
 layout: term
 title: siya siya
 slug: siya-siya
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► yavaş yavaş

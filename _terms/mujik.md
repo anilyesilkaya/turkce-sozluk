@@ -2,6 +2,7 @@
 layout: term
 title: mujik
 slug: mujik
+letter: M
 lisan: Rusça
 anlamlar:
 - Rus köylüsü

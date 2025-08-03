@@ -2,6 +2,7 @@
 layout: term
 title: muharebe
 slug: muharebe
+letter: M
 lisan: Arapça muḥārebe
 anlamlar:
 - Savaşta yapılan çarpışmalardan her biri

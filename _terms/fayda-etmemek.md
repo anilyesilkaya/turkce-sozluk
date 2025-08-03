@@ -2,6 +2,7 @@
 layout: term
 title: fayda etmemek
 slug: fayda-etmemek
+letter: F
 lisan: Türkçe
 anlamlar:
 - etkisi olmamak, işe yaramamak, yararlı olmamak

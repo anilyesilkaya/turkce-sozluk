@@ -2,6 +2,7 @@
 layout: term
 title: trajedi
 slug: trajedi
+letter: T
 lisan: Fransızca tragédie
 anlamlar:
 - Konusunu efsanelerden veya tarihsel olaylardan alan, acıklı sonuçlarla bağlanan bir tür tiyatro eseri;  ağlatı, facia, tragedya

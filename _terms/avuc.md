@@ -2,6 +2,7 @@
 layout: term
 title: avuç
 slug: avuc
+letter: A
 lisan: Türkçe
 anlamlar:
 - Elin parmak uçlarıyla bilek arasındaki iç bölümü; apaz, hapaz, koşam

@@ -2,6 +2,7 @@
 layout: term
 title: kasatura
 slug: kasatura
+letter: K
 lisan: İtalyanca cacciatora
 anlamlar:
 - Süngü gibi tüfeğin namlusu ucuna takılan veya bel kayışına asılı olarak taşınan bir bıçak türü

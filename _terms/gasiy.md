@@ -2,6 +2,7 @@
 layout: term
 title: gaşiy
 slug: gasiy
+letter: G
 lisan: Arapça ġaşy
 anlamlar:
 - ► esrime

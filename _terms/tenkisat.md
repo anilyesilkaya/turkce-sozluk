@@ -2,6 +2,7 @@
 layout: term
 title: tenkisat
 slug: tenkisat
+letter: T
 lisan: Arapça tenḳīṣāt
 anlamlar:
 - Eksiltmeler

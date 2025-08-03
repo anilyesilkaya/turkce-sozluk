@@ -2,6 +2,7 @@
 layout: term
 title: moral çöküntüsü
 slug: moral-cokuntusu
+letter: M
 lisan: Türkçe
 anlamlar:
 - Manevi dirençsizlik, ruhsal yönden direnememe, cesareti yitirme, demoralizasyon

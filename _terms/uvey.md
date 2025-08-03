@@ -2,6 +2,7 @@
 layout: term
 title: üvey
 slug: uvey
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Yalnız yasaca akraba sayılan, aralarında kan bağı bulunmayan, öz olmayan

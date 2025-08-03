@@ -2,6 +2,7 @@
 layout: term
 title: yüzeyleşme
 slug: yuzeylesme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yüzeyselleşme

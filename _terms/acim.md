@@ -2,6 +2,7 @@
 layout: term
 title: açım
 slug: acim
+letter: A
 lisan: Türkçe
 anlamlar:
 - Açmak işi

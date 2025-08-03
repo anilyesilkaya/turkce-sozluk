@@ -2,6 +2,7 @@
 layout: term
 title: hakikatsizlik
 slug: hakikatsizlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► vefasızlık

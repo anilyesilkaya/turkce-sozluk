@@ -2,6 +2,7 @@
 layout: term
 title: arlılık
 slug: arlilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► utanma duygusu

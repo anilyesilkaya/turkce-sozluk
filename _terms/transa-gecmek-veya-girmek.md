@@ -2,6 +2,7 @@
 layout: term
 title: transa geçmek (veya girmek)
 slug: transa-gecmek-veya-girmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - kendinden geçmek, içinde bulunduğu ortamdan başka bir dünyaya veya havaya geçmek

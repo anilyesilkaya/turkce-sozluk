@@ -2,6 +2,7 @@
 layout: term
 title: küfretmek
 slug: kufretmek
+letter: K
 lisan: Arapça kufr + Türkçe etmek
 anlamlar:
 - ► sövmek

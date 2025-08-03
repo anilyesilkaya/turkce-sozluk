@@ -2,6 +2,7 @@
 layout: term
 title: özenç
 slug: ozenc
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► istek

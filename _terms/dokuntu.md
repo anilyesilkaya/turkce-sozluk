@@ -2,6 +2,7 @@
 layout: term
 title: döküntü
 slug: dokuntu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dökülmüş, saçılmış şeyler

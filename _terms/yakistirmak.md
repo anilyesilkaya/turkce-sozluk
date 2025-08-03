@@ -2,6 +2,7 @@
 layout: term
 title: yakıştırmak
 slug: yakistirmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yakışacak bir duruma getirmek, uygun duruma koymak

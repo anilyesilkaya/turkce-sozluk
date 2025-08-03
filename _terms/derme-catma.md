@@ -2,6 +2,7 @@
 layout: term
 title: derme çatma
 slug: derme-catma
+letter: D
 lisan: Türkçe
 anlamlar:
 - Gelişigüzel toplanmış, aralarında uygunluk bulunmayan

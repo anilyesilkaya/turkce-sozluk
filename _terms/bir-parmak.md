@@ -2,6 +2,7 @@
 layout: term
 title: bir parmak
 slug: bir-parmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kısa boylu

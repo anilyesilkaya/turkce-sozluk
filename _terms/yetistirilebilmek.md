@@ -2,6 +2,7 @@
 layout: term
 title: yetiştirilebilmek
 slug: yetistirilebilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yetiştirme ihtimali veya imkânı bulunmak

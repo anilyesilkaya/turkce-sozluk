@@ -2,6 +2,7 @@
 layout: term
 title: megalomani
 slug: megalomani
+letter: M
 lisan: Fransızca mégalomanie
 anlamlar:
 - ► büyüklük hastalığı

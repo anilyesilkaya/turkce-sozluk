@@ -2,6 +2,7 @@
 layout: term
 title: örgütsüz
 slug: orgutsuz
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Örgütlenmiş olmayan; teşkilatsız

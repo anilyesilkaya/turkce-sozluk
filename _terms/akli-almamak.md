@@ -2,6 +2,7 @@
 layout: term
 title: aklı almamak
 slug: akli-almamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - biri bir şeyi anlayamamak, kavrayamamak

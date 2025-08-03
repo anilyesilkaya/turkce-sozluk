@@ -2,6 +2,7 @@
 layout: term
 title: torba
 slug: torba
+letter: T
 lisan: Türkçe
 anlamlar:
 - Genellikle pamuk ve kıldan dokunmuş, türlü boy ve biçimde, ağzı büzülüp bağlanabilen araç

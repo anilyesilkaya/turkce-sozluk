@@ -2,6 +2,7 @@
 layout: term
 title: cüda kalmak
 slug: cuda-kalmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - ayrı düşmek

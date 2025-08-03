@@ -2,6 +2,7 @@
 layout: term
 title: 'lap lap '
 slug: lap-lap
+letter: L
 lisan: Türkçe
 anlamlar:
 - Ayağına büyük gelen ayakkabı vb. giymiş birinin yürürken çıkardığı ses

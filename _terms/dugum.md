@@ -2,6 +2,7 @@
 layout: term
 title: düğüm
 slug: dugum
+letter: D
 lisan: Türkçe
 anlamlar:
 - İplik, ip, halat vb. bükülebilir şeyleri kıvırıp kendi üzerine veya birbirine dolayarak yapılan boğum; düğmük

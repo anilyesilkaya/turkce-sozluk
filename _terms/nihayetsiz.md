@@ -2,6 +2,7 @@
 layout: term
 title: nihayetsiz
 slug: nihayetsiz
+letter: N
 lisan: Türkçe
 anlamlar:
 - Sonsuz, sonu gelmez, bitip tükenmez

@@ -2,6 +2,7 @@
 layout: term
 title: fistolu
 slug: fistolu
+letter: F
 lisan: Türkçe
 anlamlar:
 - Üzerine fisto dikilmiş olan

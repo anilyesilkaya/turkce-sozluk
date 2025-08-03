@@ -2,6 +2,7 @@
 layout: term
 title: hatıra
 slug: hatira
+letter: H
 lisan: Arapça ḫāṭira
 anlamlar:
 - Bir kimseyi veya olayı anımsatan nesne; andaç, anmalık, bergüzar, yadigâr

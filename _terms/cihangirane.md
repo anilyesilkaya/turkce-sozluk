@@ -2,6 +2,7 @@
 layout: term
 title: cihangirane
 slug: cihangirane
+letter: C
 lisan: Farsça cihāngīrāne
 anlamlar:
 - Cihangire yakışır bir biçimde

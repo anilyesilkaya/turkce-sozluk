@@ -2,6 +2,7 @@
 layout: term
 title: karoça
 slug: karoca
+letter: K
 lisan: İtalyanca carrozza
 anlamlar:
 - Atlarla çekilen, dört tekerlekli, yaylı, üstü örtülü binek arabası

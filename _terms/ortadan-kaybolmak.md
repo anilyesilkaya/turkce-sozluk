@@ -2,6 +2,7 @@
 layout: term
 title: ortadan kaybolmak
 slug: ortadan-kaybolmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - saklanmak, bulunmaz olmak

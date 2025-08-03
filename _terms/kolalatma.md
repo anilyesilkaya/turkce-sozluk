@@ -2,6 +2,7 @@
 layout: term
 title: kolalatma
 slug: kolalatma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kolalatmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: çıkır çıkır
 slug: cikir-cikir
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Birbirine vurduğunda metalik ses çıkaran

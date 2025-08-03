@@ -2,6 +2,7 @@
 layout: term
 title: köprü
 slug: kopru
+letter: K
 lisan: Türkçe
 anlamlar:
 - Herhangi bir engelle ayrılmış iki yakayı birbirine bağlayan veya trafik akımının, başka bir trafik akımını kesmeden üstten geçmesini sağlayan ahşap, kâgir, beton veya demir yapı

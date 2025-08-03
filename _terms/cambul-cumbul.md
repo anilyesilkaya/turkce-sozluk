@@ -2,6 +2,7 @@
 layout: term
 title: cambul cumbul
 slug: cambul-cumbul
+letter: C
 lisan: Türkçe
 anlamlar:
 - Çok sulu, suyu bol (yemek)

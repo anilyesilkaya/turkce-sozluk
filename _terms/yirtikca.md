@@ -2,6 +2,7 @@
 layout: term
 title: yırtıkça
 slug: yirtikca
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Girişken, becerikli olan

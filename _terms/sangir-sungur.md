@@ -2,6 +2,7 @@
 layout: term
 title: şangır şungur
 slug: sangir-sungur
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Büyük bir şangırtı çıkararak

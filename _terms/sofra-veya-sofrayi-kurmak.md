@@ -2,6 +2,7 @@
 layout: term
 title: sofra (veya sofrayı) kurmak
 slug: sofra-veya-sofrayi-kurmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - yemek yemek için sofra takımını dizmek ve yiyecekleri hazırlamak

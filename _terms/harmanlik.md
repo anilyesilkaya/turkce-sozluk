@@ -2,6 +2,7 @@
 layout: term
 title: harmanlık
 slug: harmanlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Harman için gerekli eşya

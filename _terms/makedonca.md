@@ -2,6 +2,7 @@
 layout: term
 title: Makedonca
 slug: makedonca
+letter: M
 lisan: Türkçe
 anlamlar:
 - Makedonların kullandığı dil

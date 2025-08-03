@@ -2,6 +2,7 @@
 layout: term
 title: yılanlı
 slug: yilanli
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yılanı olan

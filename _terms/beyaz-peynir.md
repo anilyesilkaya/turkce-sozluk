@@ -2,6 +2,7 @@
 layout: term
 title: beyaz peynir
 slug: beyaz-peynir
+letter: B
 lisan: Türkçe
 anlamlar:
 - Koyun, keçi, inek veya manda sütünden mayalanarak yapılan, besleyici gücü fazla olan bir peynir türü

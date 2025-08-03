@@ -2,6 +2,7 @@
 layout: term
 title: destelenme
 slug: destelenme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Destelenmek işi

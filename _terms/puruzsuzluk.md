@@ -2,6 +2,7 @@
 layout: term
 title: pürüzsüzlük
 slug: puruzsuzluk
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pürüzsüz olma durumu

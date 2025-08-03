@@ -2,6 +2,7 @@
 layout: term
 title: millîci
 slug: millici
+letter: M
 lisan: Türkçe
 anlamlar:
 - Kurtuluş Savaşı sırasında Ankara hükûmeti yanlısı

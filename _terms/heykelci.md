@@ -2,6 +2,7 @@
 layout: term
 title: heykelci
 slug: heykelci
+letter: H
 lisan: Türkçe
 anlamlar:
 - Heykel yapan sanatçı; heykeltıraş, yontucu

@@ -2,6 +2,7 @@
 layout: term
 title: hosteslik
 slug: hosteslik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hostes olma durumu

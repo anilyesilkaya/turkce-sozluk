@@ -2,6 +2,7 @@
 layout: term
 title: yumulmak
 slug: yumulmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Kapanmak, örtülmek

@@ -2,6 +2,7 @@
 layout: term
 title: yolunu kesmek
 slug: yolunu-kesmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - engel olmak, engellemek

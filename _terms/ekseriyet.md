@@ -2,6 +2,7 @@
 layout: term
 title: ekseriyet
 slug: ekseriyet
+letter: E
 lisan: Arapça eks̱eriyyet
 anlamlar:
 - ► çoğunluk

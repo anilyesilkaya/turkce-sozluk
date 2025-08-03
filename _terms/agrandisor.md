@@ -2,6 +2,7 @@
 layout: term
 title: agrandisör
 slug: agrandisor
+letter: A
 lisan: Fransızca agrandisseur
 anlamlar:
 - ► büyülteç

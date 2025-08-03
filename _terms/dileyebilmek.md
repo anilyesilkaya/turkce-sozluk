@@ -2,6 +2,7 @@
 layout: term
 title: dileyebilmek
 slug: dileyebilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dileme ihtimali veya imkânı bulunmak

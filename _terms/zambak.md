@@ -2,6 +2,7 @@
 layout: term
 title: zambak
 slug: zambak
+letter: Z
 lisan: Arapça zanbaḳ
 anlamlar:
 - Zambakgillerden, 90-100 santimetre yüksekliğinde, güzel ve iri çiçeği diş ve yüz şişlerinin tedavisinde kullanılan, çok yıllık bir süs bitkisi; ak zambak, top zambak (Lilium candidum)

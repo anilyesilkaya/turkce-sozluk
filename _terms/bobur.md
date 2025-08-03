@@ -2,6 +2,7 @@
 layout: term
 title: böbür
 slug: bobur
+letter: B
 lisan: Farsça bebr
 anlamlar:
 - Memelilerden, sıcak ülkelerde yaşayan, derisi benekli, yırtıcı hayvan (Hyrax syriensis)

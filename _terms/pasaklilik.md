@@ -2,6 +2,7 @@
 layout: term
 title: pasaklılık
 slug: pasaklilik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pasaklı olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: dünyaya gözlerini açmak
 slug: dunyaya-gozlerini-acmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - doğmak

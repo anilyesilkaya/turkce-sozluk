@@ -2,6 +2,7 @@
 layout: term
 title: uyrukluk
 slug: uyrukluk
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyruk olma durumu; tabiiyet (II)

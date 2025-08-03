@@ -2,6 +2,7 @@
 layout: term
 title: tablo çizmek
 slug: tablo-cizmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - durumu detaylıca anlatmak

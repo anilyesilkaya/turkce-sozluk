@@ -2,6 +2,7 @@
 layout: term
 title: kâhyalık
 slug: kahyalik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kâhya olma durumu

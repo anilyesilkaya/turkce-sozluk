@@ -2,6 +2,7 @@
 layout: term
 title: hergelelik
 slug: hergelelik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hergele olma durumu

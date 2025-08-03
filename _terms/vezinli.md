@@ -2,6 +2,7 @@
 layout: term
 title: vezinli
 slug: vezinli
+letter: V
 lisan: Türkçe
 anlamlar:
 - ► ölçülü

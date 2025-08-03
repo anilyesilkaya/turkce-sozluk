@@ -2,6 +2,7 @@
 layout: term
 title: ağdalı
 slug: agdali
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağda kıvamına gelmiş

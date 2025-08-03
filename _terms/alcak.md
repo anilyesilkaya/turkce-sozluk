@@ -2,6 +2,7 @@
 layout: term
 title: alçak
 slug: alcak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yerden uzaklığı az olan, yüksek karşıtı

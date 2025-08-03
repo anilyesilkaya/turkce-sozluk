@@ -2,6 +2,7 @@
 layout: term
 title: hafif müzik
 slug: hafif-muzik
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► pop müzik

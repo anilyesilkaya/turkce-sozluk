@@ -2,6 +2,7 @@
 layout: term
 title: bozuk para
 slug: bozuk-para
+letter: B
 lisan: Türkçe
 anlamlar:
 - Ufak birimlere ayrılmış madenî para; ufaklık, ufak para, bozuk (I), bozukluk

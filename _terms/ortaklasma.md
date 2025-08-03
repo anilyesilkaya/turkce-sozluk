@@ -2,6 +2,7 @@
 layout: term
 title: ortaklaşma
 slug: ortaklasma
+letter: O
 lisan: Türkçe
 anlamlar:
 - Ortaklaşmak işi; kolektifleşme

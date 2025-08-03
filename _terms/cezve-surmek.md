@@ -2,6 +2,7 @@
 layout: term
 title: cezve sürmek
 slug: cezve-surmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - kahveyi pişirmek için cezveyi ateşe koymak

@@ -2,6 +2,7 @@
 layout: term
 title: hakarete uğramak
 slug: hakarete-ugramak
+letter: H
 lisan: Türkçe
 anlamlar:
 - hakaret görmek, küçültücü söz veya davranışa maruz kalmak

@@ -2,6 +2,7 @@
 layout: term
 title: caniyane
 slug: caniyane
+letter: C
 lisan: Arapça cāni + Farsça -āne
 anlamlar:
 - ► canice

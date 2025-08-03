@@ -2,6 +2,7 @@
 layout: term
 title: kuraklık
 slug: kuraklik
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► yağışsızlık

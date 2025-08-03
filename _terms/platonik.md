@@ -2,6 +2,7 @@
 layout: term
 title: platonik
 slug: platonik
+letter: P
 lisan: Fransızca platonique
 anlamlar:
 - Gerçekte var olmayan, karşılığı bulunmayan, hayalde yaşatılan, hep öyle kalması istenilen (aşk, sevgi ve ilgi); eflatuni

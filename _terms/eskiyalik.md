@@ -2,6 +2,7 @@
 layout: term
 title: eşkıyalık
 slug: eskiyalik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eşkıya olma durumu

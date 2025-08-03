@@ -2,6 +2,7 @@
 layout: term
 title: paspaslama
 slug: paspaslama
+letter: P
 lisan: Türkçe
 anlamlar:
 - Paspaslamak işi

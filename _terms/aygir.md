@@ -2,6 +2,7 @@
 layout: term
 title: aygır
 slug: aygir
+letter: A
 lisan: Türkçe
 anlamlar:
 - Damızlık erkek at

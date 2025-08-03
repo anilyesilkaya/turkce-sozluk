@@ -2,6 +2,7 @@
 layout: term
 title: sebepsizce
 slug: sebepsizce
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir sebebi olmaksızın

@@ -2,6 +2,7 @@
 layout: term
 title: kalaylamak
 slug: kalaylamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Oksitlenmeden korumak için bir metal parçasını veya kabı kalay tabakası ile kaplamak

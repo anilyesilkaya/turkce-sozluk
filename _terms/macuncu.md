@@ -2,6 +2,7 @@
 layout: term
 title: macuncu
 slug: macuncu
+letter: M
 lisan: Türkçe
 anlamlar:
 - Macun yapan veya satan kimse

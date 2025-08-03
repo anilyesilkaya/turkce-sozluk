@@ -2,6 +2,7 @@
 layout: term
 title: angudi
 slug: angudi
+letter: A
 lisan: Türkçe angut + Arapça -ī
 anlamlar:
 - Angut kuşunun rengi

@@ -2,6 +2,7 @@
 layout: term
 title: mecbur tutmak
 slug: mecbur-tutmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - zorlamak, yükümlü saymak, mecbur etmek

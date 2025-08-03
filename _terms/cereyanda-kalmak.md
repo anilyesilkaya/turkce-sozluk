@@ -2,6 +2,7 @@
 layout: term
 title: cereyanda kalmak
 slug: cereyanda-kalmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - kapalı bir yerde, karşılıklı açık pencere veya kapı arasında meydana gelen hava akıntısında kalmak

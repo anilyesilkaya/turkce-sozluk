@@ -2,6 +2,7 @@
 layout: term
 title: güce sarmak
 slug: guce-sarmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - bir iş güç bir duruma gelmek, güçleşmek

@@ -2,6 +2,7 @@
 layout: term
 title: kızıltı
 slug: kizilti
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir yerden yansıyan hafif kızıl renk, solgun kızıl

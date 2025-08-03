@@ -2,6 +2,7 @@
 layout: term
 title: karartı
 slug: kararti
+letter: K
 lisan: Türkçe
 anlamlar:
 - Uzaklık ve karanlık sebebiyle kim veya ne olduğu seçilemeyen, belli belirsiz, koyu renkli biçim; karaltı

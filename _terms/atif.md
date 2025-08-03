@@ -2,6 +2,7 @@
 layout: term
 title: atıf
 slug: atif
+letter: A
 lisan: Arapça ʿaṭf
 anlamlar:
 - Bir tarafa çevirme

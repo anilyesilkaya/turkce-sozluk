@@ -2,6 +2,7 @@
 layout: term
 title: şakır şukur
 slug: sakir-sukur
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Fazlaca şakırtı çıkararak

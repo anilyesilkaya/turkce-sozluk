@@ -2,6 +2,7 @@
 layout: term
 title: dertop etmek
 slug: dertop-etmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - toplayıp bir araya getirmek, toparlamak

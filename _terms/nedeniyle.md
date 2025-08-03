@@ -2,6 +2,7 @@
 layout: term
 title: nedeniyle
 slug: nedeniyle
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► sebebiyle

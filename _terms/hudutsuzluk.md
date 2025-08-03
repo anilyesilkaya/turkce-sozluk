@@ -2,6 +2,7 @@
 layout: term
 title: hudutsuzluk
 slug: hudutsuzluk
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► sınırsızlık

@@ -2,6 +2,7 @@
 layout: term
 title: kırpıştırmak
 slug: kirpistirmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Göz kapaklarını çabuk çabuk açıp kapamak, kırpıp durmak

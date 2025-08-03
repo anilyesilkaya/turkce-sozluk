@@ -2,6 +2,7 @@
 layout: term
 title: yıllarca
 slug: yillarca
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yıllar boyu, birçok yıl; senelerce

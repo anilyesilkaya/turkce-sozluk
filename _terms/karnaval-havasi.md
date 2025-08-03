@@ -2,6 +2,7 @@
 layout: term
 title: 'karnaval havası '
 slug: karnaval-havasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Şenlikli, coşkulu ortam

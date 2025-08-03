@@ -2,6 +2,7 @@
 layout: term
 title: izansızca
 slug: izansizca
+letter: I
 lisan: Türkçe
 anlamlar:
 - Anlayışsıza yakışan

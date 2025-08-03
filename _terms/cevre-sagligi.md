@@ -2,6 +2,7 @@
 layout: term
 title: çevre sağlığı
 slug: cevre-sagligi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Belli bir çevrede yaşayan kişilerin sağlığını etkileyen dış faktörler ve alınan önlemler

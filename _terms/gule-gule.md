@@ -2,6 +2,7 @@
 layout: term
 title: güle güle
 slug: gule-gule
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gülerek

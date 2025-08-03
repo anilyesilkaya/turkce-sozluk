@@ -2,6 +2,7 @@
 layout: term
 title: kınasız
 slug: kinasiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kına ile boyanmamış

@@ -2,6 +2,7 @@
 layout: term
 title: kamçılamak
 slug: kamcilamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kamçı ile vurmak

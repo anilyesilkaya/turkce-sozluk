@@ -2,6 +2,7 @@
 layout: term
 title: binaen
 slug: binaen
+letter: B
 lisan: Arapça bināʾen
 anlamlar:
 - Dayanarak

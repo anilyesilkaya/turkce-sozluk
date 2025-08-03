@@ -2,6 +2,7 @@
 layout: term
 title: sistemci
 slug: sistemci
+letter: S
 lisan: Türkçe
 anlamlar:
 - Planlı programlı yaşamayı seven kimse

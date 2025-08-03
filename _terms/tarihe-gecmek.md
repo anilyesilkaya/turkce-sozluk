@@ -2,6 +2,7 @@
 layout: term
 title: tarihe geçmek
 slug: tarihe-gecmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - önemi bakımından unutulmayacak bir durum kazanmak

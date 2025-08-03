@@ -2,6 +2,7 @@
 layout: term
 title: muslin
 slug: muslin
+letter: M
 lisan: Fransızca mousseline
 anlamlar:
 - Sık dokunmuş, parlak, ince, yumuşak bir kumaş türü

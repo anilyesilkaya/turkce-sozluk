@@ -2,6 +2,7 @@
 layout: term
 title: zorlamasız
 slug: zorlamasiz
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zorlaması olmayan, zorlamayan

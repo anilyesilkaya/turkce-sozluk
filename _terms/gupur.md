@@ -2,6 +2,7 @@
 layout: term
 title: güpür
 slug: gupur
+letter: G
 lisan: Fransızca guipure
 anlamlar:
 - İplikten veya ipekten olan, geniş ilmeklerden oluşan bir dantel türü

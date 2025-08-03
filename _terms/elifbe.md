@@ -2,6 +2,7 @@
 layout: term
 title: elifbe
 slug: elifbe
+letter: E
 lisan: Arapça elif + be
 anlamlar:
 - ► elifba

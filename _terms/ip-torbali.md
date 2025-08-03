@@ -2,6 +2,7 @@
 layout: term
 title: ip torbalı
 slug: ip-torbali
+letter: I
 lisan: Türkçe
 anlamlar:
 - Elinde pazar filesi olan

@@ -2,6 +2,7 @@
 layout: term
 title: rayihalı
 slug: rayihali
+letter: R
 lisan: Türkçe
 anlamlar:
 - Güzel kokulu

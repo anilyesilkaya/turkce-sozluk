@@ -2,6 +2,7 @@
 layout: term
 title: bireyleştirme
 slug: bireylestirme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bireyleştirmek işi

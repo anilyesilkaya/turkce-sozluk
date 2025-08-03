@@ -2,6 +2,7 @@
 layout: term
 title: yaygara
 slug: yaygara
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Gereksiz olarak yüksek sesle bağırıp çağırma

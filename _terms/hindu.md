@@ -2,6 +2,7 @@
 layout: term
 title: Hindu
 slug: hindu
+letter: H
 lisan: Farsça hindū
 anlamlar:
 - Hindistan'ın resmî dili

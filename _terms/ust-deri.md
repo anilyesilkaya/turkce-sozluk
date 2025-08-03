@@ -2,6 +2,7 @@
 layout: term
 title: üst deri
 slug: ust-deri
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Deriyi oluşturan iki tabakadan dışta olanı; epiderm

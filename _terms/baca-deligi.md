@@ -2,6 +2,7 @@
 layout: term
 title: 'baca deliği '
 slug: baca-deligi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Soba, fırın vb.ndeki duman veya kötü kokuları bacaya verecek olan borunun girdiği delik

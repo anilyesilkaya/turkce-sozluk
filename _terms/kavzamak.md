@@ -2,6 +2,7 @@
 layout: term
 title: kavzamak
 slug: kavzamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sıkı tutmak

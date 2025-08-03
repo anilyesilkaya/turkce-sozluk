@@ -2,6 +2,7 @@
 layout: term
 title: ocaklık
 slug: ocaklik
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► ocak

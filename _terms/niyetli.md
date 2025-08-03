@@ -2,6 +2,7 @@
 layout: term
 title: niyetli
 slug: niyetli
+letter: N
 lisan: Türkçe
 anlamlar:
 - Niyeti olan, niyet eden

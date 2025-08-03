@@ -2,6 +2,7 @@
 layout: term
 title: arkalı
 slug: arkali
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arkası olan

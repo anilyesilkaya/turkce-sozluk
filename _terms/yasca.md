@@ -2,6 +2,7 @@
 layout: term
 title: yaşça
 slug: yasca
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaş bakımından

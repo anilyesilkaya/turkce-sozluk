@@ -2,6 +2,7 @@
 layout: term
 title: tepki
 slug: tepki
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir cismin kendini iten veya sıkıştıran başka bir cisme gösterdiği karşı etki; reaksiyon

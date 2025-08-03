@@ -2,6 +2,7 @@
 layout: term
 title: çantasız
 slug: cantasiz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çantası olmayan

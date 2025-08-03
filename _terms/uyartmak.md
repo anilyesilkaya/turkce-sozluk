@@ -2,6 +2,7 @@
 layout: term
 title: uyartmak
 slug: uyartmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyarma işini yaptırmak

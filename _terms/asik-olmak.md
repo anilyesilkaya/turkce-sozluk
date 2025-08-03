@@ -2,6 +2,7 @@
 layout: term
 title: âşık olmak
 slug: asik-olmak
+letter: Â
 lisan: Türkçe
 anlamlar:
 - sevmek, tutulmak

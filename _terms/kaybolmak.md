@@ -2,6 +2,7 @@
 layout: term
 title: kaybolmak
 slug: kaybolmak
+letter: K
 lisan: Arapça ġayb + Türkçe olmak
 anlamlar:
 - ► yitmek

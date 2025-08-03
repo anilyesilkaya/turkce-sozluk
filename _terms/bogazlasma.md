@@ -2,6 +2,7 @@
 layout: term
 title: boğazlaşma
 slug: bogazlasma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boğazlaşmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: kaçırılma
 slug: kacirilma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaçırılmak işi

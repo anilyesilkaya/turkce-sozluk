@@ -2,6 +2,7 @@
 layout: term
 title: tokaçlamak
 slug: tokaclamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Çamaşırı tokaçla dövmek

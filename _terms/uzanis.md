@@ -2,6 +2,7 @@
 layout: term
 title: uzanış
 slug: uzanis
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uzanmak işi

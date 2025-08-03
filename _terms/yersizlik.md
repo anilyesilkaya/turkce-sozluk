@@ -2,6 +2,7 @@
 layout: term
 title: yersizlik
 slug: yersizlik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yeri olmama veya yeri yeterli olmama durumu

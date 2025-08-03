@@ -2,6 +2,7 @@
 layout: term
 title: şedit
 slug: sedit
+letter: Ş
 lisan: Arapça şedīd
 anlamlar:
 - ► şiddetli

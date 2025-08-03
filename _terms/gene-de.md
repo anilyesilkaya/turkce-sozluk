@@ -2,6 +2,7 @@
 layout: term
 title: gene de
 slug: gene-de
+letter: G
 lisan: Türkçe
 anlamlar:
 - öyle olduğu hâlde, rağmen

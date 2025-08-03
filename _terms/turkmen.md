@@ -2,6 +2,7 @@
 layout: term
 title: Türkmen
 slug: turkmen
+letter: T
 lisan: Türkçe
 anlamlar:
 - Oğuz soyundan gelen Türk topluluğu

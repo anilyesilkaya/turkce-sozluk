@@ -2,6 +2,7 @@
 layout: term
 title: çökelme
 slug: cokelme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir sıvının içinde erimiş durumda olan katı maddenin bir ayıracın yardımıyla sıvının dibine çökmesi, tortu oluşması; teressüp, sedimantasyon

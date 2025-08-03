@@ -2,6 +2,7 @@
 layout: term
 title: metrelik
 slug: metrelik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Uzunluğu herhangi bir metre olan

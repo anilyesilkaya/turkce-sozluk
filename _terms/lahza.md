@@ -2,6 +2,7 @@
 layout: term
 title: lahza
 slug: lahza
+letter: L
 lisan: Arapça laḥẓa
 anlamlar:
 - ► an (I)

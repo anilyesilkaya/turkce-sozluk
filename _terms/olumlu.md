@@ -2,6 +2,7 @@
 layout: term
 title: olumlu
 slug: olumlu
+letter: O
 lisan: Türkçe
 anlamlar:
 - Gözetilen amaca veya beklenilene uygun, yararlı; müspet, pozitif

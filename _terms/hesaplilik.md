@@ -2,6 +2,7 @@
 layout: term
 title: hesaplılık
 slug: hesaplilik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hesaplı olma durumu

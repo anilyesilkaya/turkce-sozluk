@@ -2,6 +2,7 @@
 layout: term
 title: anımsanma
 slug: animsanma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anımsanmak işi; hatırlanma

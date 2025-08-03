@@ -2,6 +2,7 @@
 layout: term
 title: lustrin
 slug: lustrin
+letter: L
 lisan: Fransızca lustring
 anlamlar:
 - Parlak kumaş kullanılarak yapılmış (ayakkabı)

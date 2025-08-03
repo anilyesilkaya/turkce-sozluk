@@ -2,6 +2,7 @@
 layout: term
 title: belli belirsiz
 slug: belli-belirsiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Zorlukla seçilebilen, açıkça görülemeyen, belirli olmayan

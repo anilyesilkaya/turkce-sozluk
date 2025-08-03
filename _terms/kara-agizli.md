@@ -2,6 +2,7 @@
 layout: term
 title: kara ağızlı
 slug: kara-agizli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kara çalıcı, iftira eden

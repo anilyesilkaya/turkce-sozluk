@@ -2,6 +2,7 @@
 layout: term
 title: iğfal etmek
 slug: igfal-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - aldatmak

@@ -2,6 +2,7 @@
 layout: term
 title: bütüncül
 slug: butuncul
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► totaliter

@@ -2,6 +2,7 @@
 layout: term
 title: eşitlik durumu
 slug: esitlik-durumu
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ad soylu sözlerde eşitlik veya benzerlik bildiren, gibi, kadar edatları veya -ca eki ile kurulan durum; eşitlik hâli

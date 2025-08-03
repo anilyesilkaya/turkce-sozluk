@@ -2,6 +2,7 @@
 layout: term
 title: ele avuca sığmamak
 slug: ele-avuca-sigmamak
+letter: E
 lisan: Türkçe
 anlamlar:
 - söz dinlememek, baskı altına alınmamak, zapt edilememek

@@ -2,6 +2,7 @@
 layout: term
 title: gri propaganda
 slug: gri-propaganda
+letter: G
 lisan: Türkçe
 anlamlar:
 - Hedef kitleyi, kaynağı belli ve görünür olmayan bilgilerle zihninde çelişki yaratarak yönlendirmeyi amaçlayan propaganda türü

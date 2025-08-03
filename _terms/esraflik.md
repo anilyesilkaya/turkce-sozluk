@@ -2,6 +2,7 @@
 layout: term
 title: eşraflık
 slug: esraflik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eşraf olma durumu

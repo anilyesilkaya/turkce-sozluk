@@ -2,6 +2,7 @@
 layout: term
 title: kapıcı
 slug: kapici
+letter: K
 lisan: Türkçe
 anlamlar:
 - Apartman, site vb. yerlerde bekçilik, temizlik, alışveriş gibi işlerle görevli kimse

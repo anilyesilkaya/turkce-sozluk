@@ -2,6 +2,7 @@
 layout: term
 title: somurtkanlık
 slug: somurtkanlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Somurtkan olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: üstünden atmak
 slug: ustunden-atmak
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - bir şeyi ödev olarak kabul etmemek

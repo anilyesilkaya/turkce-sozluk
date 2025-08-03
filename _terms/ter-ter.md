@@ -2,6 +2,7 @@
 layout: term
 title: ter ter
 slug: ter-ter
+letter: T
 lisan: Türkçe
 anlamlar:
 - '"Direnmek, istememek, inat etmek, sinirlenmek" anlamlarındaki ter ter tepinmek deyiminde geçen bir söz'

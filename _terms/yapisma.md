@@ -2,6 +2,7 @@
 layout: term
 title: yapışma
 slug: yapisma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yapışmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: yozlaşık
 slug: yozlasik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yozlaşmış

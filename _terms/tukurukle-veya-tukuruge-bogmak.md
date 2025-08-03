@@ -2,6 +2,7 @@
 layout: term
 title: tükürükle (veya tükürüğe) boğmak
 slug: tukurukle-veya-tukuruge-bogmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - çok ağır hakarette bulunmak

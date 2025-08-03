@@ -2,6 +2,7 @@
 layout: term
 title: anamalcı
 slug: anamalci
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► sermayeci

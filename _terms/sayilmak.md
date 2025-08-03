@@ -2,6 +2,7 @@
 layout: term
 title: sayılmak
 slug: sayilmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sayma işine konu olmak; addedilmek, addolunmak

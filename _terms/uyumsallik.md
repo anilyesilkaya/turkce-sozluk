@@ -2,6 +2,7 @@
 layout: term
 title: uyumsallık
 slug: uyumsallik
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyumsal olma durumu

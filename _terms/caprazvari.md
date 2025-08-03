@@ -2,6 +2,7 @@
 layout: term
 title: çaprazvari
 slug: caprazvari
+letter: Ç
 lisan: Farsça çep + rāst + -vārī
 anlamlar:
 - ► çaprazlama

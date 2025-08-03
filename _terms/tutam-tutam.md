@@ -2,6 +2,7 @@
 layout: term
 title: tutam tutam
 slug: tutam-tutam
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tutulacak kadar birçoğu bir arada olan

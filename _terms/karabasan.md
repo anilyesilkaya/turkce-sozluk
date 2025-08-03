@@ -2,6 +2,7 @@
 layout: term
 title: karabasan
 slug: karabasan
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sıkıntılı ve korkulu düş; kâbus

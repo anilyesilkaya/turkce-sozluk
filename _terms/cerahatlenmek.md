@@ -2,6 +2,7 @@
 layout: term
 title: cerahatlenmek
 slug: cerahatlenmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - Yara irin toplamak

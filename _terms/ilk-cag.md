@@ -2,6 +2,7 @@
 layout: term
 title: İlk Çağ
 slug: ilk-cag
+letter: İ
 lisan: Türkçe
 anlamlar:
 - En eski zamanlardan başlayarak Batı Roma İmparatorluğu'nun çöküş yılı olan miladi 476'ya kadar süren çağ; antikite

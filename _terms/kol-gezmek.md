@@ -2,6 +2,7 @@
 layout: term
 title: kol gezmek
 slug: kol-gezmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - güvenlik amacıyla dolaşmak

@@ -2,6 +2,7 @@
 layout: term
 title: taşralı
 slug: tasrali
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taşra halkından olan (kimse); dışarılı, dışarlıklı

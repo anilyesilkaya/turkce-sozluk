@@ -2,6 +2,7 @@
 layout: term
 title: debdebeli
 slug: debdebeli
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► görkemli

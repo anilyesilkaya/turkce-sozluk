@@ -2,6 +2,7 @@
 layout: term
 title: kullanılmak
 slug: kullanilmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kullanma işine konu olmak; yemek (II)

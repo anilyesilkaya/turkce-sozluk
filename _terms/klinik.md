@@ -2,6 +2,7 @@
 layout: term
 title: klinik
 slug: klinik
+letter: K
 lisan: Fransızca clinique
 anlamlar:
 - Hastanın bakıldığı, muayene edildiği yer; seririyat

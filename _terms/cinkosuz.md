@@ -2,6 +2,7 @@
 layout: term
 title: çinkosuz
 slug: cinkosuz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - İçinde çinko bulundurmayan

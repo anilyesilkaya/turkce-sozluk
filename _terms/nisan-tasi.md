@@ -2,6 +2,7 @@
 layout: term
 title: 'nişan taşı '
 slug: nisan-tasi
+letter: N
 lisan: Türkçe
 anlamlar:
 - Herhangi bir yeri işaretlemek için konulmuş taş

@@ -2,6 +2,7 @@
 layout: term
 title: krater gölü
 slug: krater-golu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yanardağ ağzında oluşmuş göl

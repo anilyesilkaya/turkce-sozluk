@@ -2,6 +2,7 @@
 layout: term
 title: aharlı
 slug: aharli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Üzerine ahar sürülmüş olan

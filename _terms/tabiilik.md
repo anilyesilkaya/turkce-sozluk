@@ -2,6 +2,7 @@
 layout: term
 title: tabiilik
 slug: tabiilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► doğallık

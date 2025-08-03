@@ -2,6 +2,7 @@
 layout: term
 title: bilim dışı
 slug: bilim-disi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilime aykırı, bilime uymaz

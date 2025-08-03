@@ -2,6 +2,7 @@
 layout: term
 title: başçavuş
 slug: bascavus
+letter: B
 lisan: Türkçe
 anlamlar:
 - Astsubay başçavuş

@@ -2,6 +2,7 @@
 layout: term
 title: burnuna halkayı takmak
 slug: burnuna-halkayi-takmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - istediği gibi yönetmek, her istediğini yaptırmak

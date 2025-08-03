@@ -2,6 +2,7 @@
 layout: term
 title: kaolin
 slug: kaolin
+letter: K
 lisan: Fransızca kaolin
 anlamlar:
 - ► arı kil

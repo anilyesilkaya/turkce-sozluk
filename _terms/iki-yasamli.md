@@ -2,6 +2,7 @@
 layout: term
 title: iki yaşamlı
 slug: iki-yasamli
+letter: I
 lisan: Türkçe
 anlamlar:
 - Hem suyun içinde hem karada yaşayabilen; iki yaşayışlı, amfibik

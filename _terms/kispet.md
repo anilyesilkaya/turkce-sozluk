@@ -2,6 +2,7 @@
 layout: term
 title: kispet
 slug: kispet
+letter: K
 lisan: Arapça kisvet
 anlamlar:
 - Yağlı güreşte pehlivanların giydikleri, belden baldıra kadar uzanan, dar paçalı meşin pantolon

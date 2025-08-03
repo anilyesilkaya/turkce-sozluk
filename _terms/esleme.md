@@ -2,6 +2,7 @@
 layout: term
 title: eşleme
 slug: esleme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eşlemek işi; bağlaşım

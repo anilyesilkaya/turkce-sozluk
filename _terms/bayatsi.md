@@ -2,6 +2,7 @@
 layout: term
 title: bayatsı
 slug: bayatsi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bayatlamaya başlamış

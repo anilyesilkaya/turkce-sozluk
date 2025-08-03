@@ -2,6 +2,7 @@
 layout: term
 title: santrforluk
 slug: santrforluk
+letter: S
 lisan: Türkçe
 anlamlar:
 - Santrforun işi

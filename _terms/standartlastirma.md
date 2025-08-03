@@ -2,6 +2,7 @@
 layout: term
 title: standartlaştırma
 slug: standartlastirma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Standartlaştırmak işi

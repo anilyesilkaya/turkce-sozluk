@@ -2,6 +2,7 @@
 layout: term
 title: bulutsuz
 slug: bulutsuz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bulutu bulunmayan

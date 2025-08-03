@@ -2,6 +2,7 @@
 layout: term
 title: gıcık etmek
 slug: gicik-etmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - sinirlendirmek, öfkelendirmek, kızdırmak

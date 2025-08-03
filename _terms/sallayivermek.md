@@ -2,6 +2,7 @@
 layout: term
 title: sallayıvermek
 slug: sallayivermek
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► sallamak

@@ -2,6 +2,7 @@
 layout: term
 title: sırnaşma
 slug: sirnasma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sırnaşmak işi

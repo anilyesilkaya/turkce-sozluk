@@ -2,6 +2,7 @@
 layout: term
 title: muammalı
 slug: muammali
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► tekinsiz

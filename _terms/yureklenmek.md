@@ -2,6 +2,7 @@
 layout: term
 title: yüreklenmek
 slug: yureklenmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Korkusuz duruma gelmek

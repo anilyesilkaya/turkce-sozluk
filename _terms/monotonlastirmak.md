@@ -2,6 +2,7 @@
 layout: term
 title: monotonlaştırmak
 slug: monotonlastirmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► tekdüzeleştirmek

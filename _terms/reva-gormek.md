@@ -2,6 +2,7 @@
 layout: term
 title: reva görmek
 slug: reva-gormek
+letter: R
 lisan: Türkçe
 anlamlar:
 - bir davranışı, bir olayı bir kimse için uygun görmek

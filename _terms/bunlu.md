@@ -2,6 +2,7 @@
 layout: term
 title: bunlu
 slug: bunlu
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► sıkıntılı

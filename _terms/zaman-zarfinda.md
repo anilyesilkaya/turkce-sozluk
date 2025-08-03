@@ -2,6 +2,7 @@
 layout: term
 title: zaman zarfında
 slug: zaman-zarfinda
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Belirli bir süre içerisinde

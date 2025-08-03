@@ -2,6 +2,7 @@
 layout: term
 title: yağlama
 slug: yaglama
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yağlamak işi

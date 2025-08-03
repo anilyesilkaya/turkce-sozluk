@@ -2,6 +2,7 @@
 layout: term
 title: havasını almak
 slug: havasini-almak
+letter: H
 lisan: Türkçe
 anlamlar:
 - kalorifer peteğinde oluşan havayı boşaltarak sıvı maddenin dolmasını sağlamak

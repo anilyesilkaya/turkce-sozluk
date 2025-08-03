@@ -2,6 +2,7 @@
 layout: term
 title: oyun yapmak
 slug: oyun-yapmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - güreşte rakibe oyun uygulamak

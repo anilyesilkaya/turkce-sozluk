@@ -2,6 +2,7 @@
 layout: term
 title: şarıldamak
 slug: sarildamak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Su bol bol akarken "şarıltı" sesi çıkarmak; şarlamak

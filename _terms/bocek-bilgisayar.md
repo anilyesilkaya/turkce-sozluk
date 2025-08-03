@@ -2,6 +2,7 @@
 layout: term
 title: böcek bilgisayar
 slug: bocek-bilgisayar
+letter: B
 lisan: Türkçe
 anlamlar:
 - Afet sonrası arama kurtarma çalışmalarında hamam böceğinin doğal özelliklerinden yararlanılarak kullanılan bilgisayar sistemi

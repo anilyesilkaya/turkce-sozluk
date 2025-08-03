@@ -2,6 +2,7 @@
 layout: term
 title: vükela
 slug: vukela
+letter: V
 lisan: Arapça vukelā
 anlamlar:
 - Osmanlı Devleti'nde bakanlar, vekiller

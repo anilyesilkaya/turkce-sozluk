@@ -2,6 +2,7 @@
 layout: term
 title: ihata etmek
 slug: ihata-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - çevirmek, çevrelemek, kuşatmak, sarmak

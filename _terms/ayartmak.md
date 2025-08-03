@@ -2,6 +2,7 @@
 layout: term
 title: ayartmak
 slug: ayartmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Baştan çıkarmak, doğru yoldan saptırmak

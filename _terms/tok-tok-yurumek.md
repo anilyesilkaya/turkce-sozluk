@@ -2,6 +2,7 @@
 layout: term
 title: tok tok yürümek
 slug: tok-tok-yurumek
+letter: T
 lisan: Türkçe
 anlamlar:
 - kendinden emin, heybetli bir biçimde yürümek

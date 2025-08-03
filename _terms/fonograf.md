@@ -2,6 +2,7 @@
 layout: term
 title: fonograf
 slug: fonograf
+letter: F
 lisan: Fransızca phonographe
 anlamlar:
 - ► gramofon

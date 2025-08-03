@@ -2,6 +2,7 @@
 layout: term
 title: geçim dünyası
 slug: gecim-dunyasi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Kişinin yaşamını sürdürebilmesi için gerekli olan şeyler bütünü

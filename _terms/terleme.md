@@ -2,6 +2,7 @@
 layout: term
 title: terleme
 slug: terleme
+letter: T
 lisan: Türkçe
 anlamlar:
 - Terlemek işi

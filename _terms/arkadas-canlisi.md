@@ -2,6 +2,7 @@
 layout: term
 title: arkadaş canlısı
 slug: arkadas-canlisi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arkadaşlığa değer veren, arkadaşlarına çok düşkün (kimse); dost canlısı

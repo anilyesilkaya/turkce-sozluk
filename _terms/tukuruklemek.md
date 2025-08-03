@@ -2,6 +2,7 @@
 layout: term
 title: tükürüklemek
 slug: tukuruklemek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tükürükle ıslatmak

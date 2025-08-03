@@ -2,6 +2,7 @@
 layout: term
 title: teşrifatçılık
 slug: tesrifatcilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Teşrifatçı olma durumu

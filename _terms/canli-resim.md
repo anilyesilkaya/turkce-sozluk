@@ -2,6 +2,7 @@
 layout: term
 title: canlı resim
 slug: canli-resim
+letter: C
 lisan: Türkçe
 anlamlar:
 - Bir hareketi parçalarına ayırıp bunların elle yapılan resimlerinin alıcıyla tek tek çevrilmesine dayanan ve gösterimde sürekli bir hareketi ortaya koyan film tekniği

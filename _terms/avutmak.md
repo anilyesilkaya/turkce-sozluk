@@ -2,6 +2,7 @@
 layout: term
 title: avutmak
 slug: avutmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir kimsenin acısını veya sıkıntısını yatıştırmak; avundurmak, teselli etmek

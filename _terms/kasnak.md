@@ -2,6 +2,7 @@
 layout: term
 title: kasnak
 slug: kasnak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Enli çember

@@ -2,6 +2,7 @@
 layout: term
 title: gülkurusu
 slug: gulkurusu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Mor ve kırmızının karışımından ortaya çıkan renk

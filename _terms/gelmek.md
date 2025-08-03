@@ -2,6 +2,7 @@
 layout: term
 title: gelmek
 slug: gelmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Ulaşmak, varmak

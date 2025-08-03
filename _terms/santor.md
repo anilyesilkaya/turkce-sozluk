@@ -2,6 +2,7 @@
 layout: term
 title: şantör
 slug: santor
+letter: Ş
 lisan: Fransızca chanteur
 anlamlar:
 - Erkek şarkıcı

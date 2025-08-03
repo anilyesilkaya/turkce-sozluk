@@ -2,6 +2,7 @@
 layout: term
 title: cızırdatma
 slug: cizirdatma
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cızırdatmak işi; cızıldatma

@@ -2,6 +2,7 @@
 layout: term
 title: mukannen
 slug: mukannen
+letter: M
 lisan: Arapça muḳannen
 anlamlar:
 - Belli, belirli, kesinleşmiş, şaşmaz

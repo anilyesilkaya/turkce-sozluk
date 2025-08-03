@@ -2,6 +2,7 @@
 layout: term
 title: ışıksızlık
 slug: isiksizlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - Işıksız olma durumu; ziyasızlık

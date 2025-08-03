@@ -2,6 +2,7 @@
 layout: term
 title: ece
 slug: ece
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► kraliçe

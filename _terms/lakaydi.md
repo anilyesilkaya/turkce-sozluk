@@ -2,6 +2,7 @@
 layout: term
 title: lakaydi
 slug: lakaydi
+letter: L
 lisan: Arapça lāḳaydī
 anlamlar:
 - ► ilgisizlik

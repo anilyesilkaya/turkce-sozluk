@@ -2,6 +2,7 @@
 layout: term
 title: protesto
 slug: protesto
+letter: P
 lisan: İtalyanca protesto
 anlamlar:
 - Bir davranışı, bir düşünceyi, bir uygulamayı haksız, yersiz, gereksiz bularak karşı çıkma, kabul etmeme

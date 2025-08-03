@@ -2,6 +2,7 @@
 layout: term
 title: bağırıvermek
 slug: bagirivermek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Ansızın, birdenbire bağırmak

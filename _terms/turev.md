@@ -2,6 +2,7 @@
 layout: term
 title: türev
 slug: turev
+letter: T
 lisan: Türkçe
 anlamlar:
 - Türemiş veya üretilmiş şey

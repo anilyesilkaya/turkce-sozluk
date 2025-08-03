@@ -2,6 +2,7 @@
 layout: term
 title: heyheysiz
 slug: heyheysiz
+letter: H
 lisan: Türkçe
 anlamlar:
 - Sinirlenmemiş, sakin görünen

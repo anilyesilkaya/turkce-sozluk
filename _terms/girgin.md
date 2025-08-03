@@ -2,6 +2,7 @@
 layout: term
 title: girgin
 slug: girgin
+letter: G
 lisan: Türkçe
 anlamlar:
 - Herkesle çabucak yakınlık kurarak işini yürütebilen, pısırık karşıtı

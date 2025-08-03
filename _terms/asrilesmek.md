@@ -2,6 +2,7 @@
 layout: term
 title: asrileşmek
 slug: asrilesmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► çağdaşlaşmak

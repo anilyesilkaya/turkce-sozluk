@@ -2,6 +2,7 @@
 layout: term
 title: sadakat göstermek
 slug: sadakat-gostermek
+letter: S
 lisan: Türkçe
 anlamlar:
 - bağlı kalmak

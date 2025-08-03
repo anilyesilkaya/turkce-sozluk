@@ -2,6 +2,7 @@
 layout: term
 title: günü (veya gününü) kurtarmak
 slug: gunu-veya-gununu-kurtarmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - günün ağır koşullarını ve engellerini bir biçimde atlatmak

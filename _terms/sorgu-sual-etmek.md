@@ -2,6 +2,7 @@
 layout: term
 title: sorgu sual etmek
 slug: sorgu-sual-etmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - araştırma, soruşturma veya sorgulama amacıyla sorular sormak

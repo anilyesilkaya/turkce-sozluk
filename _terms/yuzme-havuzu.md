@@ -2,6 +2,7 @@
 layout: term
 title: yüzme havuzu
 slug: yuzme-havuzu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Spor, sağlık ve eğlence amacıyla kullanılan, belirli derinlikleri bulunan havuz; pisin

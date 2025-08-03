@@ -2,6 +2,7 @@
 layout: term
 title: lifli
 slug: lifli
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lifi olan

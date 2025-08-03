@@ -2,6 +2,7 @@
 layout: term
 title: Helenistik
 slug: helenistik
+letter: H
 lisan: Fransızca hellénistique
 anlamlar:
 - Helen kültürüne, tarihine, diline ve edebiyatına ait olan

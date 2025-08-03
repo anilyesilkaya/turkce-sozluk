@@ -2,6 +2,7 @@
 layout: term
 title: üfleyebilmek
 slug: ufleyebilmek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üfleme ihtimali veya imkânı bulunmak

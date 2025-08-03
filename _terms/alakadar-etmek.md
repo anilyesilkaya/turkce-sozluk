@@ -2,6 +2,7 @@
 layout: term
 title: alakadar etmek
 slug: alakadar-etmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - ilgilendirmek

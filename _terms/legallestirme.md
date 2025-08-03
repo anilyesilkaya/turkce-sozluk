@@ -2,6 +2,7 @@
 layout: term
 title: legalleştirme
 slug: legallestirme
+letter: L
 lisan: Türkçe
 anlamlar:
 - Legalleştirmek işi

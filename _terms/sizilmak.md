@@ -2,6 +2,7 @@
 layout: term
 title: sızılmak
 slug: sizilmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sızma işi yapılmak

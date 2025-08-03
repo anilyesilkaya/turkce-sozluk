@@ -2,6 +2,7 @@
 layout: term
 title: tolüen
 slug: toluen
+letter: T
 lisan: Fransızca toluène
 anlamlar:
 - Maden kömürü katranından çıkarılan, eritici ve leke çıkarıcı olarak kullanılan, yanabilir sıvı hidrokarbür (CH)

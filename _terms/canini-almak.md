@@ -2,6 +2,7 @@
 layout: term
 title: canını almak
 slug: canini-almak
+letter: C
 lisan: Türkçe
 anlamlar:
 - öldürmek

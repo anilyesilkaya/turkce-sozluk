@@ -2,6 +2,7 @@
 layout: term
 title: üstüne sevmek
 slug: ustune-sevmek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - birini severken bir başkasını daha sevmek

@@ -2,6 +2,7 @@
 layout: term
 title: usta elinden çıkmak
 slug: usta-elinden-cikmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - işinin ehli olan bir kimse tarafından yapılmak

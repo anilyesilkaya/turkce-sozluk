@@ -2,6 +2,7 @@
 layout: term
 title: çalışkanlık
 slug: caliskanlik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çalışkan olma durumu

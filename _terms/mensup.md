@@ -2,6 +2,7 @@
 layout: term
 title: mensup
 slug: mensup
+letter: M
 lisan: Arapça mensūb
 anlamlar:
 - Bir yerle veya bir kimseyle bağlantısı olan, ilişkili, -den olan, -e bağlı (kimse)

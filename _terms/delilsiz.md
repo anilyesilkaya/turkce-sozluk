@@ -2,6 +2,7 @@
 layout: term
 title: delilsiz
 slug: delilsiz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Delili olmayan

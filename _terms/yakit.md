@@ -2,6 +2,7 @@
 layout: term
 title: yakıt
 slug: yakit
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Doğal gaz, mazot gibi ısı sağlamak amacıyla yakılan madde

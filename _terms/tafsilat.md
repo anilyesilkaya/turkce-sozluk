@@ -2,6 +2,7 @@
 layout: term
 title: tafsilat
 slug: tafsilat
+letter: T
 lisan: Arapça tafṣīlāt
 anlamlar:
 - ► ayrıntı

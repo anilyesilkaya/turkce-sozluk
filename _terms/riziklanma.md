@@ -2,6 +2,7 @@
 layout: term
 title: rızıklanma
 slug: riziklanma
+letter: R
 lisan: Türkçe
 anlamlar:
 - Rızıklanmak işi

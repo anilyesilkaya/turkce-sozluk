@@ -2,6 +2,7 @@
 layout: term
 title: nesi
 slug: nesi
+letter: N
 lisan: Türkçe
 anlamlar:
 - Akrabası mı, yakını mı?

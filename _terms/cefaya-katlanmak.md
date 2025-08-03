@@ -2,6 +2,7 @@
 layout: term
 title: cefaya katlanmak
 slug: cefaya-katlanmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - aşırı eziyete veya sıkıntıya katlanmak

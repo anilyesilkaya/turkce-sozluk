@@ -2,6 +2,7 @@
 layout: term
 title: tavzih etmek
 slug: tavzih-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - açıklamak

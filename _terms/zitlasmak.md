@@ -2,6 +2,7 @@
 layout: term
 title: zıtlaşmak
 slug: zitlasmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Birbirine karşı ters davranmak; zıtlanmak

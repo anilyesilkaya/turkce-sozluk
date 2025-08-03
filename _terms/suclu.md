@@ -2,6 +2,7 @@
 layout: term
 title: suçlu
 slug: suclu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Suç işlemiş, suçu olan (kimse); mücrim

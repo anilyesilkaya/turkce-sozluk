@@ -2,6 +2,7 @@
 layout: term
 title: müzahrefat
 slug: muzahrefat
+letter: M
 lisan: Arapça muzaḫrefāt
 anlamlar:
 - Süprüntüler, pislikler

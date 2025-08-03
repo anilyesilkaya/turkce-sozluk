@@ -2,6 +2,7 @@
 layout: term
 title: olmazlık
 slug: olmazlik
+letter: O
 lisan: Türkçe
 anlamlar:
 - Olmazlı olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: üçkat
 slug: uckat
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Bir kumaş örgüsünde üç ipliğin bir iplik yerine kullanılması

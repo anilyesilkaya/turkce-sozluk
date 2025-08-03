@@ -2,6 +2,7 @@
 layout: term
 title: bühtan etmek
 slug: buhtan-etmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - iftira etmek

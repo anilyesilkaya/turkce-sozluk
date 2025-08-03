@@ -2,6 +2,7 @@
 layout: term
 title: görümlük
 slug: gorumluk
+letter: G
 lisan: Türkçe
 anlamlar:
 - Yalnız görülmek için konulan nesne

@@ -2,6 +2,7 @@
 layout: term
 title: kirlenme
 slug: kirlenme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kirlenmek işi

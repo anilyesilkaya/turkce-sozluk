@@ -2,6 +2,7 @@
 layout: term
 title: doğru dürüst
 slug: dogru-durust
+letter: D
 lisan: Türkçe
 anlamlar:
 - Kusursuz, yanlışsız olan

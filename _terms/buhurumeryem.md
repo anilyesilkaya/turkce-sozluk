@@ -2,6 +2,7 @@
 layout: term
 title: buhurumeryem
 slug: buhurumeryem
+letter: B
 lisan: Arapça baḫūr + meryem
 anlamlar:
 - ► siklamen

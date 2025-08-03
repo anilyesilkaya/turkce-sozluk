@@ -2,6 +2,7 @@
 layout: term
 title: yıldızlamak
 slug: yildizlamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Rüzgâr kuzeyden esmeye başlamak

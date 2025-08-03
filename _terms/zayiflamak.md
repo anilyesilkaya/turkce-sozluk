@@ -2,6 +2,7 @@
 layout: term
 title: zayıflamak
 slug: zayiflamak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zayıf duruma gelmek; incelmek, telesimek

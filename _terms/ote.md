@@ -2,6 +2,7 @@
 layout: term
 title: öte
 slug: ote
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Konuşanın temel olarak aldığı bir şeyden daha uzak olan yer veya şey; mavera, beri karşıtı

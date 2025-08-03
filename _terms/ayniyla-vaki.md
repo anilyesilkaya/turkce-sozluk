@@ -2,6 +2,7 @@
 layout: term
 title: aynıyla vaki
 slug: ayniyla-vaki
+letter: A
 lisan: Türkçe
 anlamlar:
 - tamı tamına olan, olduğu gibi gerçekleşen

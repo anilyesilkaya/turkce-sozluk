@@ -2,6 +2,7 @@
 layout: term
 title: bazilika
 slug: bazilika
+letter: B
 lisan: İtalyanca basilica
 anlamlar:
 - İçi, ortadaki yüksek, yanlardakiler daha alçak olmak üzere iki sıra sütunla üç salona ayrılmış, dikdörtgen biçiminde büyük kilise

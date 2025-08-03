@@ -2,6 +2,7 @@
 layout: term
 title: su yapmak
 slug: su-yapmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - gemi veya sandalın içine dibinden su girmek

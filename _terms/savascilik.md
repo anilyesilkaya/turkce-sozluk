@@ -2,6 +2,7 @@
 layout: term
 title: savaşçılık
 slug: savascilik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Savaşçı olma durumu; savaşkanlık, cengâverlik, cenkçilik

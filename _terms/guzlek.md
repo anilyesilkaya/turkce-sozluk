@@ -2,6 +2,7 @@
 layout: term
 title: güzlek
 slug: guzlek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güz yağmuru

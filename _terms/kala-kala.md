@@ -2,6 +2,7 @@
 layout: term
 title: kala kala
 slug: kala-kala
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bütünü, olup olacağı

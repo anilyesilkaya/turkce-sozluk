@@ -2,6 +2,7 @@
 layout: term
 title: bir dereceye kadar
 slug: bir-dereceye-kadar
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir noktaya veya bir sınıra kadar

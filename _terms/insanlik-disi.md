@@ -2,6 +2,7 @@
 layout: term
 title: insanlık dışı
 slug: insanlik-disi
+letter: I
 lisan: Türkçe
 anlamlar:
 - İnsanca olmayan, insana veya insanlığa yakışmayan

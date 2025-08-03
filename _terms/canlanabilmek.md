@@ -2,6 +2,7 @@
 layout: term
 title: canlanabilmek
 slug: canlanabilmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - Canlanma ihtimali veya imkânı bulunmak

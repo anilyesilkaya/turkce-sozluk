@@ -2,6 +2,7 @@
 layout: term
 title: baraj ateşi
 slug: baraj-atesi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bataryanın yoğun yaylım ateşi; bar ateşi

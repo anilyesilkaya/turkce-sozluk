@@ -2,6 +2,7 @@
 layout: term
 title: düğmük atmak
 slug: dugmuk-atmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - düğümlemek

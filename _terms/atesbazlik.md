@@ -2,6 +2,7 @@
 layout: term
 title: ateşbazlık
 slug: atesbazlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ateşbazın yaptığı iş

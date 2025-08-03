@@ -2,6 +2,7 @@
 layout: term
 title: mürettep
 slug: murettep
+letter: M
 lisan: Arapça muretteb
 anlamlar:
 - ► dizili

@@ -2,6 +2,7 @@
 layout: term
 title: çitilmek
 slug: citilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çitme işine konu olmak

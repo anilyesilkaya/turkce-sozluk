@@ -2,6 +2,7 @@
 layout: term
 title: çinici
 slug: cinici
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çini yapan veya satan kimse

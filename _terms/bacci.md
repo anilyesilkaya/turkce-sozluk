@@ -2,6 +2,7 @@
 layout: term
 title: baççı
 slug: bacci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Baç alan kimse

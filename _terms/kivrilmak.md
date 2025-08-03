@@ -2,6 +2,7 @@
 layout: term
 title: kıvrılmak
 slug: kivrilmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Eğrilip bükülmek

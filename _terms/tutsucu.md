@@ -2,6 +2,7 @@
 layout: term
 title: tütsücü
 slug: tutsucu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tütsü yapan (kimse)

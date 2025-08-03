@@ -2,6 +2,7 @@
 layout: term
 title: cenabet
 slug: cenabet
+letter: C
 lisan: Arapça cenābet
 anlamlar:
 - ► cünüp

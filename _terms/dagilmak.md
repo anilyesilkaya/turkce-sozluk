@@ -2,6 +2,7 @@
 layout: term
 title: dağılmak
 slug: dagilmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Toplu durumdayken ayrılıp birbirinden uzaklaşmak

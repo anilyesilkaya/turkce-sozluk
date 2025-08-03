@@ -2,6 +2,7 @@
 layout: term
 title: çıtçıt
 slug: citcit
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Üzerinde dikili bulundukları şeyin iki kenarını üst üste getirerek birleştirmeye ve tutturmaya yarayan, iki parçadan yapılmış metal nesne; fermejüp

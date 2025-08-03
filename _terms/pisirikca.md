@@ -2,6 +2,7 @@
 layout: term
 title: pısırıkça
 slug: pisirikca
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pısırık gibi, pısırığa yaraşır bir biçimde

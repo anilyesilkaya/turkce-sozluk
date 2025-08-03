@@ -2,6 +2,7 @@
 layout: term
 title: merserize
 slug: merserize
+letter: M
 lisan: Fransızca mercerisé
 anlamlar:
 - Kimyasal bir yöntemle parlaklık verilmiş pamuk ipliği

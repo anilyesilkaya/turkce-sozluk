@@ -2,6 +2,7 @@
 layout: term
 title: zeki
 slug: zeki
+letter: Z
 lisan: Arapça ẕekī
 anlamlar:
 - Anlama, kavrama yeteneği olan, zekâsı olan; anlaklı, zeyrek

@@ -2,6 +2,7 @@
 layout: term
 title: efendilik
 slug: efendilik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Efendiye yakışır özellik, efendice davranış

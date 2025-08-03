@@ -2,6 +2,7 @@
 layout: term
 title: tefrik etmek
 slug: tefrik-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - ayrımlamak

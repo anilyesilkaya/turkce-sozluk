@@ -2,6 +2,7 @@
 layout: term
 title: akarsu gibi
 slug: akarsu-gibi
+letter: A
 lisan: Türkçe
 anlamlar:
 - aralıksız, kesintisiz

@@ -2,6 +2,7 @@
 layout: term
 title: geçenlerde
 slug: gecenlerde
+letter: G
 lisan: Türkçe
 anlamlar:
 - Yakın bir geçmişte; yakında; geçende

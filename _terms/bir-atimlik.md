@@ -2,6 +2,7 @@
 layout: term
 title: bir atımlık
 slug: bir-atimlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Silahı doldurmaya yetecek veya en az bir kez atış yapabilecek miktarda olan

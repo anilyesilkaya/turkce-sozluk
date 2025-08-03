@@ -2,6 +2,7 @@
 layout: term
 title: tebessüm
 slug: tebessum
+letter: T
 lisan: Arapça tebessum
 anlamlar:
 - ► gülümseme

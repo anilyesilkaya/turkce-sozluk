@@ -2,6 +2,7 @@
 layout: term
 title: malumattar
 slug: malumattar
+letter: M
 lisan: Arapça maʿlūmāt + Farsça -dār
 anlamlar:
 - ► bilgili

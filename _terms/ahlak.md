@@ -2,6 +2,7 @@
 layout: term
 title: ahlak
 slug: ahlak
+letter: A
 lisan: Arapça aḫlāḳ
 anlamlar:
 - Bir toplum içinde kişilerin uymak zorunda oldukları davranış biçimleri ve kuralları; aktöre, sağtöre

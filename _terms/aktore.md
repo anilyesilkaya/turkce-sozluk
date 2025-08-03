@@ -2,6 +2,7 @@
 layout: term
 title: aktöre
 slug: aktore
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► ahlak

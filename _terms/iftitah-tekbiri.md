@@ -2,6 +2,7 @@
 layout: term
 title: iftitah tekbiri
 slug: iftitah-tekbiri
+letter: I
 lisan: Türkçe
 anlamlar:
 - Namaza başlarken söylenen tekbir; başlama tekbiri

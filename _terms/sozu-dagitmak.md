@@ -2,6 +2,7 @@
 layout: term
 title: sözü dağıtmak
 slug: sozu-dagitmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - konuşurken birçok konuya değinerek anlatmak isteği konudan uzaklaşmak

@@ -2,6 +2,7 @@
 layout: term
 title: kişniş
 slug: kisnis
+letter: K
 lisan: Farsça kişnīc
 anlamlar:
 - Maydanozgillerden, yaprakları maydanozu andıran, 20-60 santimetre yüksekliğinde, tüysüz, bir yıllık ve otsu bir bitki (Coriandrum sativum)

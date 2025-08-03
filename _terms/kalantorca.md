@@ -2,6 +2,7 @@
 layout: term
 title: kalantorca
 slug: kalantorca
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalantor gibi, kalantora yaraşır bir biçimde

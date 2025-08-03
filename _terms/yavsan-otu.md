@@ -2,6 +2,7 @@
 layout: term
 title: yavşan otu
 slug: yavsan-otu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Sıracagillerden, mavi ve beyaz renkte çiçekler açan, kokulu, acı, kaynatılıp suyu ilaç olarak içilen bir bitki; yavşan (Artemisia)

@@ -2,6 +2,7 @@
 layout: term
 title: karga etmek
 slug: karga-etmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - tulumbanın kurumuş kösele supaplarını ıslatarak şişirmek için üzerinden su döküp kolu işletmek

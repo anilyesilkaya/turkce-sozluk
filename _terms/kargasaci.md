@@ -2,6 +2,7 @@
 layout: term
 title: kargaşacı
 slug: kargasaci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kargaşa çıkaran kimse

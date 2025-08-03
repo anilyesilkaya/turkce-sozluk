@@ -2,6 +2,7 @@
 layout: term
 title: hasbi geçmek
 slug: hasbi-gecmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - bir şeye önem vermemek, ilgi göstermemek

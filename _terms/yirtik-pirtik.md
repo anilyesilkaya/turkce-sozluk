@@ -2,6 +2,7 @@
 layout: term
 title: yırtık pırtık
 slug: yirtik-pirtik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Parça parça olmuş, eskiyip parçalanmış

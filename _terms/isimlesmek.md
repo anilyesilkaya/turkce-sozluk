@@ -2,6 +2,7 @@
 layout: term
 title: isimleşmek
 slug: isimlesmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► adlaşmak

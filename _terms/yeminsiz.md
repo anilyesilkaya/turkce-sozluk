@@ -2,6 +2,7 @@
 layout: term
 title: yeminsiz
 slug: yeminsiz
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yemine dayanmayan

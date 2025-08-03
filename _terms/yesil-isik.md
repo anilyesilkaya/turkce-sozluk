@@ -2,6 +2,7 @@
 layout: term
 title: yeşil ışık
 slug: yesil-isik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Trafikte yolun geçişe açık olduğunu gösteren ışık

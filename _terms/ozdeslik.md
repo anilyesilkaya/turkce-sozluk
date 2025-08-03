@@ -2,6 +2,7 @@
 layout: term
 title: özdeşlik
 slug: ozdeslik
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► aynılık

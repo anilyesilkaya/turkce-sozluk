@@ -2,6 +2,7 @@
 layout: term
 title: başıbozuk alayı
 slug: basibozuk-alayi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Savaş sırasında askerlerin arasına katılan sivil savaşçılardan oluşan alay

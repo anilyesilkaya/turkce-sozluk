@@ -2,6 +2,7 @@
 layout: term
 title: özleştirmek
 slug: ozlestirmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öz durumuna getirmek, özlü durum kazandırmak

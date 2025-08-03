@@ -2,6 +2,7 @@
 layout: term
 title: aklına şaşayım (veya şaşarım)
 slug: aklina-sasayim-veya-sasarim
+letter: A
 lisan: Türkçe
 anlamlar:
 - akıllıca olmayan bir davranış karşısında "bu akıllıca bir davranış değil" anlamında kullanılan bir söz

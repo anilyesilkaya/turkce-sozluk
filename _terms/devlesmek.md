@@ -2,6 +2,7 @@
 layout: term
 title: devleşmek
 slug: devlesmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çok büyümek, irileşmek

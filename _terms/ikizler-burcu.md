@@ -2,6 +2,7 @@
 layout: term
 title: İkizler Burcu
 slug: ikizler-burcu
+letter: İ
 lisan: Türkçe
 anlamlar:
 - Zodyak üzerinde Boğa Burcu ile Yengeç Burcu arasında bulunan takımyıldızın adı; İkizler, Cevza

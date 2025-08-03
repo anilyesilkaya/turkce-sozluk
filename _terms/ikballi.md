@@ -2,6 +2,7 @@
 layout: term
 title: ikballi
 slug: ikballi
+letter: I
 lisan: Türkçe
 anlamlar:
 - İkbale ermiş olan, talihi olan

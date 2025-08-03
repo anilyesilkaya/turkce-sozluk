@@ -2,6 +2,7 @@
 layout: term
 title: dağ köyü
 slug: dag-koyu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dağlık yerlerde kurulmuş yerleşim yeri

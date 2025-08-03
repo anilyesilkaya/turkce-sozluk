@@ -2,6 +2,7 @@
 layout: term
 title: isal etmek
 slug: isal-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - ulaştırmak

@@ -2,6 +2,7 @@
 layout: term
 title: çözümleyici
 slug: cozumleyici
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çözümleme özelliği olan, çözümleyen

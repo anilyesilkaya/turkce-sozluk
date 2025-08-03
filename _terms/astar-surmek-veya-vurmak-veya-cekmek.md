@@ -2,6 +2,7 @@
 layout: term
 title: astar sürmek (veya vurmak veya çekmek)
 slug: astar-surmek-veya-vurmak-veya-cekmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - astar boyası ile boyamak

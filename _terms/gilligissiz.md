@@ -2,6 +2,7 @@
 layout: term
 title: gıllıgışsız
 slug: gilligissiz
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gizli amacı olmayan

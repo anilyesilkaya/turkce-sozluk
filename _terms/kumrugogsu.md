@@ -2,6 +2,7 @@
 layout: term
 title: kumrugöğsü
 slug: kumrugogsu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Açık gri renk

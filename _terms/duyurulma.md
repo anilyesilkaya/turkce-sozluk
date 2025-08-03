@@ -2,6 +2,7 @@
 layout: term
 title: duyurulma
 slug: duyurulma
+letter: D
 lisan: Türkçe
 anlamlar:
 - Duyurulmak işi

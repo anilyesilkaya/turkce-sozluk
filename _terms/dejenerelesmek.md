@@ -2,6 +2,7 @@
 layout: term
 title: dejenereleşmek
 slug: dejenerelesmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► soysuzlaşmak

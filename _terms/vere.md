@@ -2,6 +2,7 @@
 layout: term
 title: vere
 slug: vere
+letter: V
 lisan: Türkçe
 anlamlar:
 - ► vire

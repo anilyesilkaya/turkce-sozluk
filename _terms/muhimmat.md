@@ -2,6 +2,7 @@
 layout: term
 title: mühimmat
 slug: muhimmat
+letter: M
 lisan: Arapça muhimmāt
 anlamlar:
 - Savaşta kullanılan top, tüfek vb. savaş gereçleri

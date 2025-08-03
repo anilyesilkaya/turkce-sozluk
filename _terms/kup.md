@@ -2,6 +2,7 @@
 layout: term
 title: küp
 slug: kup
+letter: K
 lisan: Fransızca cube
 anlamlar:
 - Üç boyutlu, alanları birbirine eşit altı karenin dik açılarla birleşmesinden oluşan altı yüzlü geometrik şekil; mikâp

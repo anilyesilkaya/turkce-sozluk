@@ -2,6 +2,7 @@
 layout: term
 title: ambarda kurutma
 slug: ambarda-kurutma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kapalı bir yerde, güçlü bir vantilatör kullanılarak sağlanan hava akımı ile yeşil ve sulu yemlerin kurutulması

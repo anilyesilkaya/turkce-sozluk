@@ -2,6 +2,7 @@
 layout: term
 title: sefilane
 slug: sefilane
+letter: S
 lisan: Arapça sefīl + Farsça -āne
 anlamlar:
 - ► sefilce

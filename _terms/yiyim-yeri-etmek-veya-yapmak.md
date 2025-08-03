@@ -2,6 +2,7 @@
 layout: term
 title: yiyim yeri etmek (veya yapmak)
 slug: yiyim-yeri-etmek-veya-yapmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - bir yeri kendi çıkarına kullanmak

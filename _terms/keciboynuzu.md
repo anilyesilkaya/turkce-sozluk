@@ -2,6 +2,7 @@
 layout: term
 title: keçiboynuzu
 slug: keciboynuzu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Baklagillerden, kerestesi marangozlukta, kabukları tabaklıkta kullanılan bir ağaç; harnup (Ceratonia siliqua)

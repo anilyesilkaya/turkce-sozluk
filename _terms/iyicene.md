@@ -2,6 +2,7 @@
 layout: term
 title: iyicene
 slug: iyicene
+letter: I
 lisan: Türkçe
 anlamlar:
 - Tam olarak, adamakıllı

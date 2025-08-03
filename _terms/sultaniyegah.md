@@ -2,6 +2,7 @@
 layout: term
 title: sultaniyegâh
 slug: sultaniyegah
+letter: S
 lisan: Arapça sulṭānī + Farsça yegāh
 anlamlar:
 - Klasik Türk müziği makamlarından biri

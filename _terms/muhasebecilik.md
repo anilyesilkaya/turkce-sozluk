@@ -2,6 +2,7 @@
 layout: term
 title: muhasebecilik
 slug: muhasebecilik
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► saymanlık

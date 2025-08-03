@@ -2,6 +2,7 @@
 layout: term
 title: tahammüllü
 slug: tahammullu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tahammülü olan

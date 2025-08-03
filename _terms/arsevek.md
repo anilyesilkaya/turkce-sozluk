@@ -2,6 +2,7 @@
 layout: term
 title: arşevek
 slug: arsevek
+letter: A
 lisan: Fransızca archevèque
 anlamlar:
 - ► başpiskopos

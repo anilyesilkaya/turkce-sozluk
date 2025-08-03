@@ -2,6 +2,7 @@
 layout: term
 title: otomatizm
 slug: otomatizm
+letter: O
 lisan: Fransızca automatisme
 anlamlar:
 - öz devinim

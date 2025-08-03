@@ -2,6 +2,7 @@
 layout: term
 title: uzunlamasına
 slug: uzunlamasina
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ene dik olarak; boylamasına, boyuna, tulani

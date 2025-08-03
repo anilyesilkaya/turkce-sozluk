@@ -2,6 +2,7 @@
 layout: term
 title: tokgözlü
 slug: tokgozlu
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► gözü tok, açgözlü karşıtı

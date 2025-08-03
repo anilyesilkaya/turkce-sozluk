@@ -2,6 +2,7 @@
 layout: term
 title: ordugâh
 slug: ordugah
+letter: O
 lisan: Türkçe ordu + Farsça -gāh
 anlamlar:
 - Ordunun konakladığı yer

@@ -2,6 +2,7 @@
 layout: term
 title: yedi göbek
 slug: yedi-gobek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir soyun bilinen en büyüğü

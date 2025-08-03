@@ -2,6 +2,7 @@
 layout: term
 title: boşaltabilmek
 slug: bosaltabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boşaltma ihtimali veya imkânı bulunmak

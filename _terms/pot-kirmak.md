@@ -2,6 +2,7 @@
 layout: term
 title: pot kırmak
 slug: pot-kirmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - yersiz ve karşısındakine dokunacak söz söylemek, gaf yapmak

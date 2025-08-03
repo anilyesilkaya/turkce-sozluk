@@ -2,6 +2,7 @@
 layout: term
 title: azimet
 slug: azimet
+letter: A
 lisan: Arapça ʿazīmet
 anlamlar:
 - ► gidiş

@@ -2,6 +2,7 @@
 layout: term
 title: başına dikmek
 slug: basina-dikmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - birini veya bir şeyi korumak için bir kimseyi görevlendirmek

@@ -2,6 +2,7 @@
 layout: term
 title: gösterişsiz
 slug: gosterissiz
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gösterişi olmayan; cakasız, fiyakasız, şansız, mütevazı

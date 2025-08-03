@@ -2,6 +2,7 @@
 layout: term
 title: askercesine
 slug: askercesine
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► askerce

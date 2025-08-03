@@ -2,6 +2,7 @@
 layout: term
 title: filiz vermek
 slug: filiz-vermek
+letter: F
 lisan: Türkçe
 anlamlar:
 - sürgün çıkmaya başlamak

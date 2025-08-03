@@ -2,6 +2,7 @@
 layout: term
 title: deve yapmak (veya etmek)
 slug: deve-yapmak-veya-etmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - başkasının malını kendine mal etmek

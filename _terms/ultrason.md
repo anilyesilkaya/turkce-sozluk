@@ -2,6 +2,7 @@
 layout: term
 title: ultrason
 slug: ultrason
+letter: U
 lisan: Fransızca ultrason
 anlamlar:
 - İnsan kulağının alamayacağı nitelikte olan yüksek frekanslı ses titreşimi; yansılanım

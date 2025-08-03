@@ -2,6 +2,7 @@
 layout: term
 title: oral
 slug: oral
+letter: O
 lisan: Fransızca oral
 anlamlar:
 - ► ağızcıl

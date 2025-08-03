@@ -2,6 +2,7 @@
 layout: term
 title: dazlaklaşmak
 slug: dazlaklasmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - İnsanın tepesindeki saçı dökülmüş olmak, dazlak duruma gelmek

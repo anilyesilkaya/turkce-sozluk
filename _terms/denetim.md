@@ -2,6 +2,7 @@
 layout: term
 title: denetim
 slug: denetim
+letter: D
 lisan: Türkçe
 anlamlar:
 - Denetlemek işi

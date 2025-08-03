@@ -2,6 +2,7 @@
 layout: term
 title: salaklık
 slug: salaklik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Salak olma durumu, salozluk

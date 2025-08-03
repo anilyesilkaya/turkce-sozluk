@@ -2,6 +2,7 @@
 layout: term
 title: dersiz topsuz
 slug: dersiz-topsuz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düzensiz, karmakarışık olan

@@ -2,6 +2,7 @@
 layout: term
 title: iftira atmak
 slug: iftira-atmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - iftira etmek

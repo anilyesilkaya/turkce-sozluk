@@ -2,6 +2,7 @@
 layout: term
 title: kikla
 slug: kikla
+letter: K
 lisan: Türkçe
 anlamlar:
 - Lapinagillerden, güzel renkli, 50 santimetre uzunluğunda bir balık (Labrus berggylta)

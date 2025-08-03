@@ -2,6 +2,7 @@
 layout: term
 title: kabına sığmamak
 slug: kabina-sigmamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - duygularına engel olamayıp taşkın davranışlarda bulunmak

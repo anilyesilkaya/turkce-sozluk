@@ -2,6 +2,7 @@
 layout: term
 title: karnıkara
 slug: karnikara
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► börülce

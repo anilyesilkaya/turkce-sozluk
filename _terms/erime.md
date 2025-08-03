@@ -2,6 +2,7 @@
 layout: term
 title: erime
 slug: erime
+letter: E
 lisan: Türkçe
 anlamlar:
 - Erimek işi

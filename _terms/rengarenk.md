@@ -2,6 +2,7 @@
 layout: term
 title: rengârenk
 slug: rengarenk
+letter: R
 lisan: Farsça rengāreng
 anlamlar:
 - Çeşitli renkleri olan, renk renk

@@ -2,6 +2,7 @@
 layout: term
 title: kesivermek
 slug: kesivermek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Ansızın kesmek

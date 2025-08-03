@@ -2,6 +2,7 @@
 layout: term
 title: mübaşir
 slug: mubasir
+letter: M
 lisan: Arapça mubāşir
 anlamlar:
 - Mahkemede duruşmaya girecekleri ve tanıkları çağıran, yargıcın emirlerini bildiren, kâğıtları getirip götüren görevli; çağrıcı

@@ -2,6 +2,7 @@
 layout: term
 title: senet
 slug: senet
+letter: S
 lisan: Arapça sened
 anlamlar:
 - Bir kimsenin yapmaya veya ödemeye borçlu olduğu şeyi göstermek için imzaladığı resmî kâğıt; belgit

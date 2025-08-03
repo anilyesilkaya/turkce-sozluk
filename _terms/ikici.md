@@ -2,6 +2,7 @@
 layout: term
 title: ikici
 slug: ikici
+letter: I
 lisan: Türkçe
 anlamlar:
 - İkicilik felsefesini kabul eden; düalist

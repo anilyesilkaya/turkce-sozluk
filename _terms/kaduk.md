@@ -2,6 +2,7 @@
 layout: term
 title: kadük
 slug: kaduk
+letter: K
 lisan: Fransızca caduc
 anlamlar:
 - Değerini, önemini yitirmiş, geçerliliği ve hükmü  kalmamış, eskimiş

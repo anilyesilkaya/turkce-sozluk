@@ -2,6 +2,7 @@
 layout: term
 title: aklı zıvanadan çıkmak
 slug: akli-zivanadan-cikmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - delirmek, aklını oynatmak

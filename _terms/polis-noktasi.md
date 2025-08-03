@@ -2,6 +2,7 @@
 layout: term
 title: polis noktası
 slug: polis-noktasi
+letter: P
 lisan: Türkçe
 anlamlar:
 - Polisin karakol dışında konuşlandığı yer

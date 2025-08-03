@@ -2,6 +2,7 @@
 layout: term
 title: bürüklü
 slug: buruklu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bürük giyinmiş olan

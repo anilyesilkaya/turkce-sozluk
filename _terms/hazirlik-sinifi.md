@@ -2,6 +2,7 @@
 layout: term
 title: hazırlık sınıfı
 slug: hazirlik-sinifi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Öğrencilere, belli bir öğretim programını izlemek veya belli bir okulda okumak için gerekli temel anlayış, bilgi ve becerileri kazandırmak amacıyla bir okula, bir üniversiteye bağlı olarak açılan öğretim öncesi sınıf; hazırlık

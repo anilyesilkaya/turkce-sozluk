@@ -2,6 +2,7 @@
 layout: term
 title: yoksuzluk
 slug: yoksuzluk
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yoksulluk

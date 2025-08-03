@@ -2,6 +2,7 @@
 layout: term
 title: kanıksayabilmek
 slug: kaniksayabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kanıksama ihtimali veya imkânı bulunmak

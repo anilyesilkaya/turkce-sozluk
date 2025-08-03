@@ -2,6 +2,7 @@
 layout: term
 title: kapanık
 slug: kapanik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kapanmış

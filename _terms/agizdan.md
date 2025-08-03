@@ -2,6 +2,7 @@
 layout: term
 title: ağızdan
 slug: agizdan
+letter: A
 lisan: Türkçe
 anlamlar:
 - Sözlü olarak

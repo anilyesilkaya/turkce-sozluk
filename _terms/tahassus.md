@@ -2,6 +2,7 @@
 layout: term
 title: tahassüs
 slug: tahassus
+letter: T
 lisan: Arapça taḥassus
 anlamlar:
 - ► duygulanma

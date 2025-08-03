@@ -2,6 +2,7 @@
 layout: term
 title: ateş gecesi
 slug: ates-gecesi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Hristiyanlarda 24 Haziran'a rastlayan Yahya Yortusu'nun, meydanlarda ateş yakılıp bu ateşin üstünden atlanarak ve çevresinde oynanarak kutlanan bir önceki gecesi

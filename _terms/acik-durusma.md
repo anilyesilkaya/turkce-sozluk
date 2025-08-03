@@ -2,6 +2,7 @@
 layout: term
 title: açık duruşma
 slug: acik-durusma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Herkesin dinleyebileceği duruşma; açık celse

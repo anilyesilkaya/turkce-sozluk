@@ -2,6 +2,7 @@
 layout: term
 title: itinalı
 slug: itinali
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► özenli

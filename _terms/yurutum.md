@@ -2,6 +2,7 @@
 layout: term
 title: yürütüm
 slug: yurutum
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yürütmek işi

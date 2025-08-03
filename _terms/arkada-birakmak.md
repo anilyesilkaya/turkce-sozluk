@@ -2,6 +2,7 @@
 layout: term
 title: arkada bırakmak
 slug: arkada-birakmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir şeyden epey uzaklaşmış bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: puantiyeli
 slug: puantiyeli
+letter: P
 lisan: Türkçe
 anlamlar:
 - Noktalı, benekli (kumaş)

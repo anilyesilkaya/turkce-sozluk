@@ -2,6 +2,7 @@
 layout: term
 title: uygun adım
 slug: uygun-adim
+letter: U
 lisan: Türkçe
 anlamlar:
 - Adım atışta birliği gerektiren, grup olarak yapılan bir yürüyüş türü

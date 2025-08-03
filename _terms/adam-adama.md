@@ -2,6 +2,7 @@
 layout: term
 title: adam adama
 slug: adam-adama
+letter: A
 lisan: Türkçe
 anlamlar:
 - Gölge gibi izleyerek

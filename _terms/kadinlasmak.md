@@ -2,6 +2,7 @@
 layout: term
 title: kadınlaşmak
 slug: kadinlasmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çocukluk çağından çıkıp kadınlık çağına girmek

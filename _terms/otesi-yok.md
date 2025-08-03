@@ -2,6 +2,7 @@
 layout: term
 title: ötesi yok
 slug: otesi-yok
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - '"diyecek daha bir şey yok" anlamında kullanılan bir söz'

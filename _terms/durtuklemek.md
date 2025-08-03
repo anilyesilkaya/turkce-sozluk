@@ -2,6 +2,7 @@
 layout: term
 title: dürtüklemek
 slug: durtuklemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Üst üste birkaç kez dürtmek

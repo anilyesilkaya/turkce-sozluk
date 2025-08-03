@@ -2,6 +2,7 @@
 layout: term
 title: numune
 slug: numune
+letter: N
 lisan: Farsça numūne
 anlamlar:
 - ► örnek

@@ -2,6 +2,7 @@
 layout: term
 title: aktüelleştirmek
 slug: aktuellestirmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► güncelleştirmek

@@ -2,6 +2,7 @@
 layout: term
 title: kurtçul
 slug: kurtcul
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kurtçuklarla beslenen (hayvan)

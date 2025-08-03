@@ -2,6 +2,7 @@
 layout: term
 title: odacı
 slug: odaci
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► hizmetli

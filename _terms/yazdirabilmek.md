@@ -2,6 +2,7 @@
 layout: term
 title: yazdırabilmek
 slug: yazdirabilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yazdırma ihtimali veya imkânı bulunmak

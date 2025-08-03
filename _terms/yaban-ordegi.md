@@ -2,6 +2,7 @@
 layout: term
 title: yaban ördeği
 slug: yaban-ordegi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Ördekgillerden, evcil ördeğe benzeyen, yeşil boyunlu bir tür ördek (Anas boschas)

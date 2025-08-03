@@ -2,6 +2,7 @@
 layout: term
 title: arkasına almak
 slug: arkasina-almak
+letter: A
 lisan: Türkçe
 anlamlar:
 - sırtına yüklemek, taşımak

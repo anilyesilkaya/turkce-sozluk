@@ -2,6 +2,7 @@
 layout: term
 title: obskürantizm
 slug: obskurantizm
+letter: O
 lisan: Fransızca obscurantisme
 anlamlar:
 - ► bilmesinlercilik

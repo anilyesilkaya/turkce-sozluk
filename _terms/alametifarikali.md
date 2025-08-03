@@ -2,6 +2,7 @@
 layout: term
 title: alametifarikalı
 slug: alametifarikali
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayırıcı niteliği, özelliği olan

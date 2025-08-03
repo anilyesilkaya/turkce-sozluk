@@ -2,6 +2,7 @@
 layout: term
 title: büyük laf etmek
 slug: buyuk-laf-etmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - büyük söylemek

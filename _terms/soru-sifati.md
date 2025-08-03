@@ -2,6 +2,7 @@
 layout: term
 title: soru sıfatı
 slug: soru-sifati
+letter: S
 lisan: Türkçe
 anlamlar:
 - Adın yerini, sayısını, durumunu soru yoluyla belirten sıfat

@@ -2,6 +2,7 @@
 layout: term
 title: yemek yemek
 slug: yemek-yemek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - karın doyurmak

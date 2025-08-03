@@ -2,6 +2,7 @@
 layout: term
 title: dostsuz
 slug: dostsuz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dostu olmayan

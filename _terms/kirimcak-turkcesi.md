@@ -2,6 +2,7 @@
 layout: term
 title: 'Kırımçak Türkçesi '
 slug: kirimcak-turkcesi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kırımçak Türklerinin kullandığı konuşma dili; Kırımçakça

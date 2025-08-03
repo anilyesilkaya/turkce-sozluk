@@ -2,6 +2,7 @@
 layout: term
 title: silktirmek
 slug: silktirmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Silkme işini yaptırmak

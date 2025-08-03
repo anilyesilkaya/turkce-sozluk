@@ -2,6 +2,7 @@
 layout: term
 title: küsuf
 slug: kusuf
+letter: K
 lisan: Arapça kusūf
 anlamlar:
 - ► Güneş tutulması

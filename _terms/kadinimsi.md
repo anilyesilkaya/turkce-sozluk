@@ -2,6 +2,7 @@
 layout: term
 title: kadınımsı
 slug: kadinimsi
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kadınsı

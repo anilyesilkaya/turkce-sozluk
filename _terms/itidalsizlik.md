@@ -2,6 +2,7 @@
 layout: term
 title: itidalsizlik
 slug: itidalsizlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İtidalsiz olma durumu

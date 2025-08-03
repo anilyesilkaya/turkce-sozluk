@@ -2,6 +2,7 @@
 layout: term
 title: deniz mavisi
 slug: deniz-mavisi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Deniz renginde koyuca mavi

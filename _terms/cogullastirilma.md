@@ -2,6 +2,7 @@
 layout: term
 title: çoğullaştırılma
 slug: cogullastirilma
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çoğullaştırılmak işi

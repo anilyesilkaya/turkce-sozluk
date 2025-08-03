@@ -2,6 +2,7 @@
 layout: term
 title: özensiz
 slug: ozensiz
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Özen gösterilmeyen (iş); itinasız

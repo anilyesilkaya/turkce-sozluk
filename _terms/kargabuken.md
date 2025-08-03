@@ -2,6 +2,7 @@
 layout: term
 title: kargabüken
 slug: kargabuken
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bitişik taç yapraklı iki çeneklilerden, yaprakları karşılıklı, çiçekleri talkım durumunda olan, meyvesi zehirli bir ağaç (Stryhnos nux-vomice)

@@ -2,6 +2,7 @@
 layout: term
 title: dayanılmaz
 slug: dayanilmaz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Karşı konulamaz veya karşı çıkılamaz (kimse veya şey); tahammülfersa

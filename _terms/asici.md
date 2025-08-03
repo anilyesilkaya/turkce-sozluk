@@ -2,6 +2,7 @@
 layout: term
 title: aşıcı
 slug: asici
+letter: A
 lisan: Türkçe
 anlamlar:
 - Vücuda aşı yapan kimse

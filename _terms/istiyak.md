@@ -2,6 +2,7 @@
 layout: term
 title: iştiyak
 slug: istiyak
+letter: I
 lisan: Arapça iştiyāḳ
 anlamlar:
 - ► özleme

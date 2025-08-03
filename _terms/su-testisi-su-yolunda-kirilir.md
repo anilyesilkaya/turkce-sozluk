@@ -2,6 +2,7 @@
 layout: term
 title: su testisi su yolunda kırılır
 slug: su-testisi-su-yolunda-kirilir
+letter: S
 lisan: Türkçe
 anlamlar:
 - '"bir kişi amaç edindiği işte kazaya uğrar" anlamında kullanılan bir söz'

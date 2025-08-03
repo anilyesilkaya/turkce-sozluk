@@ -2,6 +2,7 @@
 layout: term
 title: şekersi
 slug: sekersi
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şekere benzeyen, şekeri andıran; şekerimsi

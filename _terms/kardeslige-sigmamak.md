@@ -2,6 +2,7 @@
 layout: term
 title: kardeşliğe sığmamak
 slug: kardeslige-sigmamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kardeşlik ilişkilerinin aksine birbirlerine kötü davranmak

@@ -2,6 +2,7 @@
 layout: term
 title: kazıklamak
 slug: kaziklamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir tarla veya arsanın sınırını belirtmek için kazık çakmak

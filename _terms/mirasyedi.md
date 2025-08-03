@@ -2,6 +2,7 @@
 layout: term
 title: mirasyedi
 slug: mirasyedi
+letter: M
 lisan: Türkçe
 anlamlar:
 - Kendisine önemli bir miras kalan, mirasa konan kimse

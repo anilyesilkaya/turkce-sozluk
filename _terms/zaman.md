@@ -2,6 +2,7 @@
 layout: term
 title: zaman
 slug: zaman
+letter: Z
 lisan: Arapça zamān
 anlamlar:
 - Bir işin, bir oluşun içinde geçtiği, geçeceği veya geçmekte olduğu süre; hengâm, vakit

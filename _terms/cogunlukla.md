@@ -2,6 +2,7 @@
 layout: term
 title: çoğunlukla
 slug: cogunlukla
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çoğunluğa dayanılarak; ekseriyetle

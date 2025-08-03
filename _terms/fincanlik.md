@@ -2,6 +2,7 @@
 layout: term
 title: fincanlık
 slug: fincanlik
+letter: F
 lisan: Türkçe
 anlamlar:
 - Miktarı herhangi bir fincan kadar olan

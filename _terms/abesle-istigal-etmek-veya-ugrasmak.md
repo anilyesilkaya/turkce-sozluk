@@ -2,6 +2,7 @@
 layout: term
 title: abesle iştigal etmek (veya uğraşmak)
 slug: abesle-istigal-etmek-veya-ugrasmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - yersiz, yararsız işlerle vakit öldürmek

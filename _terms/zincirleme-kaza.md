@@ -2,6 +2,7 @@
 layout: term
 title: zincirleme kaza
 slug: zincirleme-kaza
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Üç veya daha çok aracın trafik kazasına karışması durumu

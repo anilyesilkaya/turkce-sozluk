@@ -2,6 +2,7 @@
 layout: term
 title: çağrı
 slug: cagri
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Birinin bir yere gelmesini isteme; davet

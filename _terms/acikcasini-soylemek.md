@@ -2,6 +2,7 @@
 layout: term
 title: açıkçasını söylemek
 slug: acikcasini-soylemek
+letter: A
 lisan: Türkçe
 anlamlar:
 - doğrusunu, açık olanını, anlaşılır biçimini söylemek

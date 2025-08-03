@@ -2,6 +2,7 @@
 layout: term
 title: bulgurluk
 slug: bulgurluk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bulgur yapmaya elverişli

@@ -2,6 +2,7 @@
 layout: term
 title: tavus kuşu
 slug: tavus-kusu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Sülüngillerden, erkeğinin tüyleri uzun, kuyruğu parlak, güzel renkli, acı ve tiz sesli, süs hayvanı olarak beslenen bir kuş; tavus (Pavo)

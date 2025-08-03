@@ -2,6 +2,7 @@
 layout: term
 title: çatlak ses
 slug: catlak-ses
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Pürüzlü, bozuk ses

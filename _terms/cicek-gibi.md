@@ -2,6 +2,7 @@
 layout: term
 title: çiçek gibi
 slug: cicek-gibi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - temiz, bakımlı, güzel

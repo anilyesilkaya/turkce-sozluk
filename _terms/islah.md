@@ -2,6 +2,7 @@
 layout: term
 title: ıslah
 slug: islah
+letter: I
 lisan: Arapça iṣlāḥ
 anlamlar:
 - ► iyileştirme

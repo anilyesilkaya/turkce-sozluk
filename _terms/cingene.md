@@ -2,6 +2,7 @@
 layout: term
 title: Çingene
 slug: cingene
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Hindistan'dan çıktıkları söylenen, dünyanın çeşitli yerlerinde yaşayan bir topluluk; Çigan, Çingen, Kıpti, Roman

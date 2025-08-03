@@ -2,6 +2,7 @@
 layout: term
 title: tümellik
 slug: tumellik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tümel olma durumu

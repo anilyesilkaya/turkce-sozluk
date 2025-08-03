@@ -2,6 +2,7 @@
 layout: term
 title: kesmik
 slug: kesmik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kesilmiş sütün koyu bölümü

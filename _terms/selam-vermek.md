@@ -2,6 +2,7 @@
 layout: term
 title: selam vermek
 slug: selam-vermek
+letter: S
 lisan: Türkçe
 anlamlar:
 - selamlamak

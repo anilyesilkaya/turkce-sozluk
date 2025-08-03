@@ -2,6 +2,7 @@
 layout: term
 title: tabi tutmak
 slug: tabi-tutmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - tabi kılmak

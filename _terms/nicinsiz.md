@@ -2,6 +2,7 @@
 layout: term
 title: niçinsiz
 slug: nicinsiz
+letter: N
 lisan: Türkçe
 anlamlar:
 - Herhangi bir soruya gerek duymayan; nedensiz

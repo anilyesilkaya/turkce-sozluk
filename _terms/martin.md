@@ -2,6 +2,7 @@
 layout: term
 title: martin
 slug: martin
+letter: M
 lisan: İngilizce (Friedrich Martini özel adından)
 anlamlar:
 - Tek kurşun atan bir tür tüfek

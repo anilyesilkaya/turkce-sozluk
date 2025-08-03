@@ -2,6 +2,7 @@
 layout: term
 title: edepsizcesine
 slug: edepsizcesine
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► edepsizce

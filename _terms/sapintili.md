@@ -2,6 +2,7 @@
 layout: term
 title: sapıntılı
 slug: sapintili
+letter: S
 lisan: Türkçe
 anlamlar:
 - Yolundan, gidişinden, normal durumundan sapmış olan

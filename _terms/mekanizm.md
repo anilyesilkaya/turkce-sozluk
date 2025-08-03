@@ -2,6 +2,7 @@
 layout: term
 title: mekanizm
 slug: mekanizm
+letter: M
 lisan: Fransızca mécanisme
 anlamlar:
 - ► mekanikçilik

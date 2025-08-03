@@ -2,6 +2,7 @@
 layout: term
 title: kesiksiz
 slug: kesiksiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kesilmeden süren

@@ -2,6 +2,7 @@
 layout: term
 title: kıyafetsiz
 slug: kiyafetsiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► giysisiz

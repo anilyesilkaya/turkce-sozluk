@@ -2,6 +2,7 @@
 layout: term
 title: ilaveli
 slug: ilaveli
+letter: I
 lisan: Türkçe
 anlamlar:
 - Eki olan

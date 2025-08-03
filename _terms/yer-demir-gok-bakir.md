@@ -2,6 +2,7 @@
 layout: term
 title: yer demir gök bakır
 slug: yer-demir-gok-bakir
+letter: Y
 lisan: Türkçe
 anlamlar:
 - çorak ve sıcak bir yeri niteler

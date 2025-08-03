@@ -2,6 +2,7 @@
 layout: term
 title: hapislerde çürümek
 slug: hapislerde-curumek
+letter: H
 lisan: Türkçe
 anlamlar:
 - çok uzun süre hapis yatmak

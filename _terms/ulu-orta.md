@@ -2,6 +2,7 @@
 layout: term
 title: ulu orta
 slug: ulu-orta
+letter: U
 lisan: Türkçe
 anlamlar:
 - Herkesin içinde aleni bir biçimde, çekinmeksizin

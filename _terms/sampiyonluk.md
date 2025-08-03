@@ -2,6 +2,7 @@
 layout: term
 title: şampiyonluk
 slug: sampiyonluk
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şampiyon olma durumu; bökelik, şampiyona

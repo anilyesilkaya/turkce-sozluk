@@ -2,6 +2,7 @@
 layout: term
 title: takatsizlik
 slug: takatsizlik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Takatsiz olma durumu; dermansızlık, hâlsizlik, mecalsizlik

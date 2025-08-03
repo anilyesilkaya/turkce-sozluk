@@ -2,6 +2,7 @@
 layout: term
 title: topallamak
 slug: topallamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bacak veya ayağındaki sakatlık sebebiyle seker gibi veya iki adımda, bir yana eğilerek yürümek

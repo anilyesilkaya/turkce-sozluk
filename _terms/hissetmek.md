@@ -2,6 +2,7 @@
 layout: term
 title: hissetmek
 slug: hissetmek
+letter: H
 lisan: Arapça ḥiss + Türkçe etmek
 anlamlar:
 - ► duymak

@@ -2,6 +2,7 @@
 layout: term
 title: aşağılamak
 slug: asagilamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Değerinden düşük göstermek

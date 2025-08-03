@@ -2,6 +2,7 @@
 layout: term
 title: çığır
 slug: cigir
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çığın kar üzerinde açtığı iz

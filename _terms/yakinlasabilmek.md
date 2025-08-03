@@ -2,6 +2,7 @@
 layout: term
 title: yakınlaşabilmek
 slug: yakinlasabilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yakınlaşma ihtimali veya imkânı bulunmak

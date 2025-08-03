@@ -2,6 +2,7 @@
 layout: term
 title: 'kahkaha fırtınası kopmak '
 slug: kahkaha-firtinasi-kopmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - birdenbire toplu olarak kahkaha atma

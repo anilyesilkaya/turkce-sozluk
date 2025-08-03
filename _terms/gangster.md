@@ -2,6 +2,7 @@
 layout: term
 title: gangster
 slug: gangster
+letter: G
 lisan: Fransızca gangster
 anlamlar:
 - Yasa dışı işler yapan çete üyesi

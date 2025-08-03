@@ -2,6 +2,7 @@
 layout: term
 title: etkililik
 slug: etkililik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Etkili olma durumu; tesirlilik, müessiriyet

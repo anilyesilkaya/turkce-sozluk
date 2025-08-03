@@ -2,6 +2,7 @@
 layout: term
 title: jurnal etmek
 slug: jurnal-etmek
+letter: J
 lisan: Türkçe
 anlamlar:
 - biriyle ilgili olarak yetkililere kötülemek, ihbar yazısı vermek veya böyle bir bilgiyi iletmek

@@ -2,6 +2,7 @@
 layout: term
 title: söylemek
 slug: soylemek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Düşündüğünü veya bildiğini sözle anlatmak; buyurmak

@@ -2,6 +2,7 @@
 layout: term
 title: ayrıksız
 slug: ayriksiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► istisnasız

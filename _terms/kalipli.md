@@ -2,6 +2,7 @@
 layout: term
 title: kalıplı
 slug: kalipli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalıplanmış olan

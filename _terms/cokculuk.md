@@ -2,6 +2,7 @@
 layout: term
 title: çokçuluk
 slug: cokculuk
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Gerçekçiliğin açıklanmasında birden çok ilkenin temelde bulunduğunu kabul eden öğreti; plüralizm, tekçilik karşıtı

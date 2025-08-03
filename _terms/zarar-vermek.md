@@ -2,6 +2,7 @@
 layout: term
 title: zarar vermek
 slug: zarar-vermek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - kötülük etmek

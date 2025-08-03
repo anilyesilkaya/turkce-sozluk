@@ -2,6 +2,7 @@
 layout: term
 title: moher
 slug: moher
+letter: M
 lisan: Fransızca mohair
 anlamlar:
 - ► tiftik

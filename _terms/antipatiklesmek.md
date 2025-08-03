@@ -2,6 +2,7 @@
 layout: term
 title: antipatikleşmek
 slug: antipatiklesmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► sevimsizleşmek

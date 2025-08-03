@@ -2,6 +2,7 @@
 layout: term
 title: tersinir
 slug: tersinir
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir olayın ortaya çıkma şartlarındaki sonsuz küçük bir değişikliğin etkisiyle herhangi bir anda yön değiştirebilen (kimyasal, fiziksel ve mekanik dönüşüm)

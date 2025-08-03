@@ -2,6 +2,7 @@
 layout: term
 title: montajcı
 slug: montajci
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► kurgucu

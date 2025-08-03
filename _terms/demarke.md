@@ -2,6 +2,7 @@
 layout: term
 title: demarke
 slug: demarke
+letter: D
 lisan: Fransızca demarké
 anlamlar:
 - Sıyrılmış, boşta kalmış

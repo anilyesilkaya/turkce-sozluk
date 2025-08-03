@@ -2,6 +2,7 @@
 layout: term
 title: notlandırmak
 slug: notlandirmak
+letter: N
 lisan: Türkçe
 anlamlar:
 - Not vermek

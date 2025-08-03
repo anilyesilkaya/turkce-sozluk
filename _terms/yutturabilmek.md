@@ -2,6 +2,7 @@
 layout: term
 title: yutturabilmek
 slug: yutturabilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yutturma ihtimali veya imkânı bulunmak

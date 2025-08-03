@@ -2,6 +2,7 @@
 layout: term
 title: gribal
 slug: gribal
+letter: G
 lisan: Fransızca grippal
 anlamlar:
 - Grip hastalığıyla ilgili

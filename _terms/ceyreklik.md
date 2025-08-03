@@ -2,6 +2,7 @@
 layout: term
 title: çeyreklik
 slug: ceyreklik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çeyrek altın

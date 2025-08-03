@@ -2,6 +2,7 @@
 layout: term
 title: mengene
 slug: mengene
+letter: M
 lisan: Rumca
 anlamlar:
 - Onarma, işleme, düzeltme vb. işlemlerin uygulanacağı nesneyi sıkıştırıp istenildiği gibi tutturmaya yarayan bir tür alet

@@ -2,6 +2,7 @@
 layout: term
 title: kötü
 slug: kotu
+letter: K
 lisan: Türkçe
 anlamlar:
 - İstenilen, beğenilen nitelikte olmayan, hoşa gitmeyen; bet (III), yaş (II), yavuz, bed, berbat, fena (I), iyi karşıtı

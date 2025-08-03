@@ -2,6 +2,7 @@
 layout: term
 title: kemha
 slug: kemha
+letter: K
 lisan: Farsça kemḫā
 anlamlar:
 - Bir tür ipek kumaş

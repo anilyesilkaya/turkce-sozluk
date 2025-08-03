@@ -2,6 +2,7 @@
 layout: term
 title: davranabilmek
 slug: davranabilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Davranma ihtimali veya imkânı bulunmak

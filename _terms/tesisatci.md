@@ -2,6 +2,7 @@
 layout: term
 title: tesisatçı
 slug: tesisatci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tesisatı döşeyen kimse; döşeyici, döşemci

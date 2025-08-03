@@ -2,6 +2,7 @@
 layout: term
 title: sipsivri
 slug: sipsivri
+letter: S
 lisan: Türkçe
 anlamlar:
 - Çok sivri

@@ -2,6 +2,7 @@
 layout: term
 title: yollatmak
 slug: yollatmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yollama işini yaptırmak

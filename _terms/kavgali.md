@@ -2,6 +2,7 @@
 layout: term
 title: kavgalı
 slug: kavgali
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kavgayla yapılan veya içine kavga karışan; nizalı

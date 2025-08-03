@@ -2,6 +2,7 @@
 layout: term
 title: kızılşap
 slug: kizilsap
+letter: K
 lisan: Türkçe
 anlamlar:
 - Açık eflatun renk

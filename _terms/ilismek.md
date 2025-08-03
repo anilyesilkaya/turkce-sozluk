@@ -2,6 +2,7 @@
 layout: term
 title: ilişmek
 slug: ilismek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bir şeye hafifçe dokunmak

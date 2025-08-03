@@ -2,6 +2,7 @@
 layout: term
 title: evrim
 slug: evrim
+letter: E
 lisan: Türkçe
 anlamlar:
 - Zaman içinde birdenbire olmayan, kesintisiz, niteliksel ve niceliksel gelişme süreci

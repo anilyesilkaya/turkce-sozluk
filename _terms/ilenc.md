@@ -2,6 +2,7 @@
 layout: term
 title: ilenç
 slug: ilenc
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► beddua

@@ -2,6 +2,7 @@
 layout: term
 title: yavuzlanma
 slug: yavuzlanma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yavuzlanmak durumu

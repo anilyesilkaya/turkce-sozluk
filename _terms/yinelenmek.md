@@ -2,6 +2,7 @@
 layout: term
 title: yinelenmek
 slug: yinelenmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► tekrarlanmak

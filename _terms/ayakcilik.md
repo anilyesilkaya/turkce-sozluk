@@ -2,6 +2,7 @@
 layout: term
 title: ayakçılık
 slug: ayakcilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayakçının yaptığı iş

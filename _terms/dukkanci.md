@@ -2,6 +2,7 @@
 layout: term
 title: dükkâncı
 slug: dukkanci
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dükkân işleten kimse

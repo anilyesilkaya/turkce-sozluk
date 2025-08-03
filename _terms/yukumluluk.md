@@ -2,6 +2,7 @@
 layout: term
 title: yükümlülük
 slug: yukumluluk
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yapılması zorunlu olan iş veya bir işi yapma zorunluluğu; mecburluk, mükelleflik, yüküm, mecburiyet, mükellefiyet, obligasyon

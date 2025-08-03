@@ -2,6 +2,7 @@
 layout: term
 title: arına dokunmak
 slug: arina-dokunmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - utanç duymak

@@ -2,6 +2,7 @@
 layout: term
 title: ulusal
 slug: ulusal
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► millî

@@ -2,6 +2,7 @@
 layout: term
 title: parmağına dolamak
 slug: parmagina-dolamak
+letter: P
 lisan: Türkçe
 anlamlar:
 - bir konuyu, bir kimseyi ele alıp sürekli uğraşmak, diline dolamak

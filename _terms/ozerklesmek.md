@@ -2,6 +2,7 @@
 layout: term
 title: özerkleşmek
 slug: ozerklesmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Özerk duruma gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: evcil hayvan
 slug: evcil-hayvan
+letter: E
 lisan: Türkçe
 anlamlar:
 - Evde bakılabilen, insana alışmış olan, evcilleştirilmiş hayvan

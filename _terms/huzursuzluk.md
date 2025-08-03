@@ -2,6 +2,7 @@
 layout: term
 title: huzursuzluk
 slug: huzursuzluk
+letter: H
 lisan: Türkçe
 anlamlar:
 - Huzursuz olma durumu; kaynaşma

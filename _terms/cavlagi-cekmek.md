@@ -2,6 +2,7 @@
 layout: term
 title: cavlağı çekmek
 slug: cavlagi-cekmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - ölmek

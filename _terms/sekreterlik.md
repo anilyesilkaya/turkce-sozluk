@@ -2,6 +2,7 @@
 layout: term
 title: sekreterlik
 slug: sekreterlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sekreterin görevi; yazmanlık, kâtiplik, kitabet

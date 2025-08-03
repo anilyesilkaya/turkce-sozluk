@@ -2,6 +2,7 @@
 layout: term
 title: hadi canım
 slug: hadi-canim
+letter: H
 lisan: Türkçe
 anlamlar:
 - teşvik, gayretlendirme sözü

@@ -2,6 +2,7 @@
 layout: term
 title: cici
 slug: cici
+letter: C
 lisan: Türkçe
 anlamlar:
 - Sevimli, cana yakın, hoş, güzel, hoşa giden

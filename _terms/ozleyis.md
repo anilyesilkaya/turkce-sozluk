@@ -2,6 +2,7 @@
 layout: term
 title: özleyiş
 slug: ozleyis
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Özlemek işi

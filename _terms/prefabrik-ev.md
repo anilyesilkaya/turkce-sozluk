@@ -2,6 +2,7 @@
 layout: term
 title: prefabrik ev
 slug: prefabrik-ev
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► prefabrik konut

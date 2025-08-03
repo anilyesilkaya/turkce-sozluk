@@ -2,6 +2,7 @@
 layout: term
 title: çarpma
 slug: carpma
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çarpmak işi

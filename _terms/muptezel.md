@@ -2,6 +2,7 @@
 layout: term
 title: müptezel
 slug: muptezel
+letter: M
 lisan: Arapça mubteẕel
 anlamlar:
 - Saygınlığını yitirmiş

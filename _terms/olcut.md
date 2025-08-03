@@ -2,6 +2,7 @@
 layout: term
 title: ölçüt
 slug: olcut
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Bir yargıya varmak veya değer vermek için başvurulan ilke; ölçü, kıstas, mısdak, miyar, kriter

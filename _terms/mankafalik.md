@@ -2,6 +2,7 @@
 layout: term
 title: mankafalık
 slug: mankafalik
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► kalın kafalılık

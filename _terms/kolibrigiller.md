@@ -2,6 +2,7 @@
 layout: term
 title: kolibrigiller
 slug: kolibrigiller
+letter: K
 lisan: Türkçe
 anlamlar:
 - Omurgalı hayvanlardan, kuşlar sınıfına giren bir familya

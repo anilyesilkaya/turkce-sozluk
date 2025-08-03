@@ -2,6 +2,7 @@
 layout: term
 title: boğazı düğümlenmek
 slug: bogazi-dugumlenmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - üzüntüden boğazı tıkanmak

@@ -2,6 +2,7 @@
 layout: term
 title: çiğnetilmek
 slug: cignetilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çiğnenmesi sağlanmak

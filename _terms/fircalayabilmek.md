@@ -2,6 +2,7 @@
 layout: term
 title: fırçalayabilmek
 slug: fircalayabilmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fırçalama ihtimali veya imkânı bulunmak

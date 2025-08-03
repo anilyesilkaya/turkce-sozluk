@@ -2,6 +2,7 @@
 layout: term
 title: yoksulluk
 slug: yoksulluk
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yoksul olma durumu; fakirlik, fukaralık, beş parasızlık, yokluk, yoksuzluk, variyetsizlik, sefillik, sefalet, fakr, meskenet

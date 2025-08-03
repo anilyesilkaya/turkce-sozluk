@@ -2,6 +2,7 @@
 layout: term
 title: ihtiyarca
 slug: ihtiyarca
+letter: I
 lisan: Türkçe
 anlamlar:
 - Biraz yaşlıca

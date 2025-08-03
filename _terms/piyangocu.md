@@ -2,6 +2,7 @@
 layout: term
 title: piyangocu
 slug: piyangocu
+letter: P
 lisan: Türkçe
 anlamlar:
 - Piyango satılan yer veya piyango satan kimse

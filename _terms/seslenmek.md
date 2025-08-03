@@ -2,6 +2,7 @@
 layout: term
 title: seslenmek
 slug: seslenmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Uzaktan bağırarak çağırmak; ünlemek

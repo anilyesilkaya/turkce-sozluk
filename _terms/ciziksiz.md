@@ -2,6 +2,7 @@
 layout: term
 title: çiziksiz
 slug: ciziksiz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çiziği olmayan

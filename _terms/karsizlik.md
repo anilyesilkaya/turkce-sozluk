@@ -2,6 +2,7 @@
 layout: term
 title: kârsızlık
 slug: karsizlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kârsız olma durumu

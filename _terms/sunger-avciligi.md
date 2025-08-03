@@ -2,6 +2,7 @@
 layout: term
 title: sünger avcılığı
 slug: sunger-avciligi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sünger avcısının yaptığı iş; süngercilik

@@ -2,6 +2,7 @@
 layout: term
 title: ifildeme
 slug: ifildeme
+letter: I
 lisan: Türkçe
 anlamlar:
 - İfildemek işi

@@ -2,6 +2,7 @@
 layout: term
 title: temel taşı
 slug: temel-tasi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir yapının temeline konan taş

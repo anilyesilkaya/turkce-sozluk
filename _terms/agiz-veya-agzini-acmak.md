@@ -2,6 +2,7 @@
 layout: term
 title: ağız (veya ağzını) açmak
 slug: agiz-veya-agzini-acmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - konuşmaya başlamak

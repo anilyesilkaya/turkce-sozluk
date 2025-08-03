@@ -2,6 +2,7 @@
 layout: term
 title: altuni
 slug: altuni
+letter: A
 lisan: Türkçe altun + Arapça -ī
 anlamlar:
 - ► altın sarısı

@@ -2,6 +2,7 @@
 layout: term
 title: haber atlamak
 slug: haber-atlamak
+letter: H
 lisan: Türkçe
 anlamlar:
 - gazetecilikte bir haberi vaktinde yayımlayamamak

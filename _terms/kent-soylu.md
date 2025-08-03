@@ -2,6 +2,7 @@
 layout: term
 title: kent soylu
 slug: kent-soylu
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► burjuva

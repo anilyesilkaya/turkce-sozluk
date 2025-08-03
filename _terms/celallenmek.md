@@ -2,6 +2,7 @@
 layout: term
 title: celallenmek
 slug: celallenmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - Öfkelenmek, kızmak

@@ -2,6 +2,7 @@
 layout: term
 title: göz erimi
 slug: goz-erimi
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► ufuk

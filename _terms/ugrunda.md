@@ -2,6 +2,7 @@
 layout: term
 title: uğrunda
 slug: ugrunda
+letter: U
 lisan: Türkçe
 anlamlar:
 - Amacında, yolunda

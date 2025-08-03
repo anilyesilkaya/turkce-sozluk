@@ -2,6 +2,7 @@
 layout: term
 title: titrek
 slug: titrek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Titreyen; lerzan

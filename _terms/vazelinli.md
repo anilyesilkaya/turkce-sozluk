@@ -2,6 +2,7 @@
 layout: term
 title: vazelinli
 slug: vazelinli
+letter: V
 lisan: Türkçe
 anlamlar:
 - İçinde vazelin olan

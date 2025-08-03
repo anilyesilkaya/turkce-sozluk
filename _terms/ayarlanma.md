@@ -2,6 +2,7 @@
 layout: term
 title: ayarlanma
 slug: ayarlanma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayarlanmak işi

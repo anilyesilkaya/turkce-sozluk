@@ -2,6 +2,7 @@
 layout: term
 title: deve tüyü
 slug: deve-tuyu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Deveden elde edilen yün, kıl

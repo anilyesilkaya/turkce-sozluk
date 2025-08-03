@@ -2,6 +2,7 @@
 layout: term
 title: süzgü
 slug: suzgu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Delikli çanak

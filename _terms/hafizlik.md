@@ -2,6 +2,7 @@
 layout: term
 title: hafızlık
 slug: hafizlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hafız olma durumu

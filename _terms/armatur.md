@@ -2,6 +2,7 @@
 layout: term
 title: armatür
 slug: armatur
+letter: A
 lisan: Fransızca armature
 anlamlar:
 - Banyo ve mutfaklarda sıcak ve soğuk su akıtma özelliği bulunan musluk

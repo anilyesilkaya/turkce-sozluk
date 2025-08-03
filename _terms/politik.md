@@ -2,6 +2,7 @@
 layout: term
 title: politik
 slug: politik
+letter: P
 lisan: Fransızca politique
 anlamlar:
 - ► siyasal

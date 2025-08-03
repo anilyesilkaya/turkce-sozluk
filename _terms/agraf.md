@@ -2,6 +2,7 @@
 layout: term
 title: agraf
 slug: agraf
+letter: A
 lisan: Fransızca agrafe
 anlamlar:
 - ► kopça

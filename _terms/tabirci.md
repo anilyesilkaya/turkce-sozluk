@@ -2,6 +2,7 @@
 layout: term
 title: tabirci
 slug: tabirci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Rüya yorumlayan kimse; yorumcu

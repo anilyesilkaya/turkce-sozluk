@@ -2,6 +2,7 @@
 layout: term
 title: tüycük
 slug: tuycuk
+letter: T
 lisan: Türkçe
 anlamlar:
 - Küçük tüy, ince kıl

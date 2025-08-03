@@ -2,6 +2,7 @@
 layout: term
 title: damdan düşer gibi
 slug: damdan-duser-gibi
+letter: D
 lisan: Türkçe
 anlamlar:
 - birdenbire ve yersiz olarak

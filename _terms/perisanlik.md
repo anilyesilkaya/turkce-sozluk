@@ -2,6 +2,7 @@
 layout: term
 title: perişanlık
 slug: perisanlik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Perişan olma durumu; perişani

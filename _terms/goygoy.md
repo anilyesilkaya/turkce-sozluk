@@ -2,6 +2,7 @@
 layout: term
 title: goygoy
 slug: goygoy
+letter: G
 lisan: Türkçe
 anlamlar:
 - Muharrem ayında kapı kapı dolaşıp yiyecek maddesi dilenenlerin söyledikleri mâni, kaside vb.; hoygoygoy

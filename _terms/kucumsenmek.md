@@ -2,6 +2,7 @@
 layout: term
 title: küçümsenmek
 slug: kucumsenmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Küçümseme işi yapılmak

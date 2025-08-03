@@ -2,6 +2,7 @@
 layout: term
 title: mangal gibi yüreği olmak
 slug: mangal-gibi-yuregi-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - cesareti çok olmak

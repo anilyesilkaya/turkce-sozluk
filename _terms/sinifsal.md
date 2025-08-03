@@ -2,6 +2,7 @@
 layout: term
 title: sınıfsal
 slug: sinifsal
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sınıfla ilgili

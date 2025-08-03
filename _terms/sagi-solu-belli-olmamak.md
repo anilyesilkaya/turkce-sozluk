@@ -2,6 +2,7 @@
 layout: term
 title: sağı solu (belli) olmamak
 slug: sagi-solu-belli-olmamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - nasıl davranacağı kestirilmez olmak

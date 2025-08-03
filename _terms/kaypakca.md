@@ -2,6 +2,7 @@
 layout: term
 title: kaypakça
 slug: kaypakca
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaypak gibi

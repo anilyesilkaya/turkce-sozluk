@@ -2,6 +2,7 @@
 layout: term
 title: sabah ola, hayrola
 slug: sabah-ola-hayrola
+letter: S
 lisan: Türkçe
 anlamlar:
 - '"sabah olsun, o vakte kadar iş belki düzelir" anlamında kullanılan bir söz'

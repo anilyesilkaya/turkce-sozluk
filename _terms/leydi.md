@@ -2,6 +2,7 @@
 layout: term
 title: leydi
 slug: leydi
+letter: L
 lisan: İngilizce lady
 anlamlar:
 - ► hanım

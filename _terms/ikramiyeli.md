@@ -2,6 +2,7 @@
 layout: term
 title: ikramiyeli
 slug: ikramiyeli
+letter: I
 lisan: Türkçe
 anlamlar:
 - İkramiyesi olan

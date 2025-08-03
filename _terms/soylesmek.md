@@ -2,6 +2,7 @@
 layout: term
 title: söyleşmek
 slug: soylesmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Karşılıklı konuşmak, hasbihâl etmek, sohbet etmek

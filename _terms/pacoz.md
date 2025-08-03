@@ -2,6 +2,7 @@
 layout: term
 title: paçoz
 slug: pacoz
+letter: P
 lisan: Rumca
 anlamlar:
 - Kefal türünden bir balık (Mugil cephalus)

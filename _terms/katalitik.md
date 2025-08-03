@@ -2,6 +2,7 @@
 layout: term
 title: katalitik
 slug: katalitik
+letter: K
 lisan: Fransızca catalytique
 anlamlar:
 - Katalizle ilgili, kataliz niteliğinde olan

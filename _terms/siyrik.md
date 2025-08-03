@@ -2,6 +2,7 @@
 layout: term
 title: sıyrık
 slug: siyrik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Çarpma veya vurma sonucunda vücutta hafifçe kazınmış, zedelenmiş, soyulmuş, kanamış yer; sıyrıntı

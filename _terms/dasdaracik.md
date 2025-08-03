@@ -2,6 +2,7 @@
 layout: term
 title: dasdaracık
 slug: dasdaracik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çok dar

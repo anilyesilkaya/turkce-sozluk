@@ -2,6 +2,7 @@
 layout: term
 title: erupsiyon
 slug: erupsiyon
+letter: E
 lisan: Fransızca éruption
 anlamlar:
 - Yanardağın püskürmesi

@@ -2,6 +2,7 @@
 layout: term
 title: egosantrik
 slug: egosantrik
+letter: E
 lisan: Fransızca égocentrique
 anlamlar:
 - ► beniçinci

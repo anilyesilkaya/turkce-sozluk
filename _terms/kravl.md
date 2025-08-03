@@ -2,6 +2,7 @@
 layout: term
 title: kravl
 slug: kravl
+letter: K
 lisan: İngilizce crawl
 anlamlar:
 - Dizleri bükmeksizin bacakları hızla hareket ettirerek kulaçla yüzme

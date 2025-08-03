@@ -2,6 +2,7 @@
 layout: term
 title: tersbeşik
 slug: tersbesik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Sırtüstü yatıp kollarla, bükülü durumdaki dizleri kavrayarak sırt üzerinde baş ve ayak yönünde sallanma

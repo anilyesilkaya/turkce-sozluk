@@ -2,6 +2,7 @@
 layout: term
 title: sergerde
 slug: sergerde
+letter: S
 lisan: Farsça ser + gerde
 anlamlar:
 - ► elebaşı

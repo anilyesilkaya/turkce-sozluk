@@ -2,6 +2,7 @@
 layout: term
 title: fars
 slug: fars
+letter: F
 lisan: Fransızca farce
 anlamlar:
 - ► güldürü

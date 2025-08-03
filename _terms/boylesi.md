@@ -2,6 +2,7 @@
 layout: term
 title: böylesi
 slug: boylesi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bunun gibisi, bu biçimde olanı

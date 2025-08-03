@@ -2,6 +2,7 @@
 layout: term
 title: borusu ötmek
 slug: borusu-otmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - sözü geçmek, yetkisi olmak

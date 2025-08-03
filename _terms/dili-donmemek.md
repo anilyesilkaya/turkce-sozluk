@@ -2,6 +2,7 @@
 layout: term
 title: dili dönmemek
 slug: dili-donmemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - bir sözü doğru, düzgün söylemeyi becerememek

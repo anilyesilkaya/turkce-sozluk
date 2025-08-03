@@ -2,6 +2,7 @@
 layout: term
 title: acıyabilmek
 slug: aciyabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Acıma ihtimali veya imkânı bulunmak

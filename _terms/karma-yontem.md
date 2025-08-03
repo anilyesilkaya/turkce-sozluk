@@ -2,6 +2,7 @@
 layout: term
 title: 'karma yöntem '
 slug: karma-yontem
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir çalışma ve uygulamada birden fazla yöntemin birlikte kullanıldığı yöntem

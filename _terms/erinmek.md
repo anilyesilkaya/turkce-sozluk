@@ -2,6 +2,7 @@
 layout: term
 title: erinmek
 slug: erinmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► üşenmek

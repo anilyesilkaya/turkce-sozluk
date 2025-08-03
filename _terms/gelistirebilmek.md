@@ -2,6 +2,7 @@
 layout: term
 title: geliştirebilmek
 slug: gelistirebilmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Geliştirme ihtimali veya imkânı bulunmak

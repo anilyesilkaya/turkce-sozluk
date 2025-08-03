@@ -2,6 +2,7 @@
 layout: term
 title: uçuklamak
 slug: ucuklamak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uçuk (II) oluşmak

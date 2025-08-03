@@ -2,6 +2,7 @@
 layout: term
 title: oburluk
 slug: oburluk
+letter: O
 lisan: Türkçe
 anlamlar:
 - Obur olma durumu

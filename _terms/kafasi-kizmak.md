@@ -2,6 +2,7 @@
 layout: term
 title: kafası kızmak
 slug: kafasi-kizmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - öfkelenmek

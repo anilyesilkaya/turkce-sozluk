@@ -2,6 +2,7 @@
 layout: term
 title: ahlak dışı
 slug: ahlak-disi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Genel ahlak kurallarına uygun olmayan; gayriahlaki

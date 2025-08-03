@@ -2,6 +2,7 @@
 layout: term
 title: yaya
 slug: yaya
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yürüyerek giden kimse; piyade (I)

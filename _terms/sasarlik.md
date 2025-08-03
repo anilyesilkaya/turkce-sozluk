@@ -2,6 +2,7 @@
 layout: term
 title: şaşarlık
 slug: sasarlik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Doğru olandan, olması gerekenden uzaklaşma durumu

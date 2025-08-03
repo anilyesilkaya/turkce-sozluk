@@ -2,6 +2,7 @@
 layout: term
 title: anlık oluşum
 slug: anlik-olusum
+letter: A
 lisan: Türkçe
 anlamlar:
 - Daha önce dilde var olmayan karmaşık bir yapıyı ivedi olarak adlandırmak üzere konuşur veya yazar tarafından uydurulan, çoğu kez yaratıcı, sanatlı anlatım için kullanılan, geçici ve sözlükselleşmenin ilk aşaması olan kelime

@@ -2,6 +2,7 @@
 layout: term
 title: tasavvuf
 slug: tasavvuf
+letter: T
 lisan: Arapça taṣavvuf
 anlamlar:
 - Tanrı'nın niteliğini ve evrenin oluşumunu varlık birliği anlayışıyla açıklayan dinî ve felsefi akım

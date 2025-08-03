@@ -2,6 +2,7 @@
 layout: term
 title: hıyarağası
 slug: hiyaragasi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Görgüsüz, kaba saba, yontulmamış (kimse); hıyarağa

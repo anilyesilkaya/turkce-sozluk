@@ -2,6 +2,7 @@
 layout: term
 title: çevrelik etmek
 slug: cevrelik-etmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - içinde bulunulacak ortam oluşmasını sağlamak

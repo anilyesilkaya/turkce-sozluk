@@ -2,6 +2,7 @@
 layout: term
 title: kitapçı
 slug: kitapci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kitap satan kimse veya yer

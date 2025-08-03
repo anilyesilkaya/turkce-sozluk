@@ -2,6 +2,7 @@
 layout: term
 title: çıkış tüneli
 slug: cikis-tuneli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Soyunma odalarından sahaya güven içinde giriş çıkışı sağlayan kapalı geçit

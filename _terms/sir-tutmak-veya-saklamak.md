@@ -2,6 +2,7 @@
 layout: term
 title: sır tutmak (veya saklamak)
 slug: sir-tutmak-veya-saklamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - bir sırrı açığa vurmamak, başkasına söylememek

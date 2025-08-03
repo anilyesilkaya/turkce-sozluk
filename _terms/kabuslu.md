@@ -2,6 +2,7 @@
 layout: term
 title: kâbuslu
 slug: kabuslu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karabasan dolu, sıkıntılı ve korkulu

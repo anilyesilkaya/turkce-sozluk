@@ -2,6 +2,7 @@
 layout: term
 title: dizaynlı
 slug: dizaynli
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► tasarımlı

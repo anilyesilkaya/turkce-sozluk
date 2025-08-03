@@ -2,6 +2,7 @@
 layout: term
 title: güvenceli
 slug: guvenceli
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güvencesi olan, güvence sağlayan; garantili

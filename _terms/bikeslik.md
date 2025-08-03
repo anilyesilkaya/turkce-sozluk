@@ -2,6 +2,7 @@
 layout: term
 title: bikeslik
 slug: bikeslik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► kimsesizlik

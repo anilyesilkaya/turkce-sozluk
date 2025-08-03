@@ -2,6 +2,7 @@
 layout: term
 title: mükemmeliyetçi
 slug: mukemmeliyetci
+letter: M
 lisan: Türkçe
 anlamlar:
 - Her şeyin mükemmel olmasını isteyen (kimse)

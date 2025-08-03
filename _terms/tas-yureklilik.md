@@ -2,6 +2,7 @@
 layout: term
 title: taş yüreklilik
 slug: tas-yureklilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► merhametsizlik

@@ -2,6 +2,7 @@
 layout: term
 title: can boğazdan gelir (veya geçer)
 slug: can-bogazdan-gelir-veya-gecer
+letter: C
 lisan: Türkçe
 anlamlar:
 - '"insan yiyeceğine önem vererek güçlenebilir veya yemeden yaşamak mümkün değildir" anlamında kullanılan bir söz'

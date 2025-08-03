@@ -2,6 +2,7 @@
 layout: term
 title: rüzgârlı
 slug: ruzgarli
+letter: R
 lisan: Türkçe
 anlamlar:
 - Rüzgâr alan, rüzgâra açık; yelli

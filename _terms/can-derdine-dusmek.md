@@ -2,6 +2,7 @@
 layout: term
 title: can derdine düşmek
 slug: can-derdine-dusmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - ölüm korkusuna kapılmak

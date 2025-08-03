@@ -2,6 +2,7 @@
 layout: term
 title: solidarist
 slug: solidarist
+letter: S
 lisan: Fransızca solidariste
 anlamlar:
 - ► dayanışmacı

@@ -2,6 +2,7 @@
 layout: term
 title: hüsnüniyet
 slug: husnuniyet
+letter: H
 lisan: Arapça ḥusn + niyyet
 anlamlar:
 - ► iyi niyet

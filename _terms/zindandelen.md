@@ -2,6 +2,7 @@
 layout: term
 title: zindandelen
 slug: zindandelen
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Palamut balığının iki kilodan ağır olanı

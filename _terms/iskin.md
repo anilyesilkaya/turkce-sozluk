@@ -2,6 +2,7 @@
 layout: term
 title: ışkın
 slug: iskin
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bahar aylarında yüksek kayalık yerlerde ve dağlarda yetişen, vitamin değeri yüksek, çiğ veya pişmiş olarak tüketilebilen bir tür ot (Reun ribes)

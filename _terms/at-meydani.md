@@ -2,6 +2,7 @@
 layout: term
 title: at meydanı
 slug: at-meydani
+letter: A
 lisan: Türkçe
 anlamlar:
 - Atların pazarlandığı yer

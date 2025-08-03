@@ -2,6 +2,7 @@
 layout: term
 title: her çok azdan olur
 slug: her-cok-azdan-olur
+letter: H
 lisan: Türkçe
 anlamlar:
 - '"çoğu elde etmek için azları biriktirmek gerekir" anlamında kullanılan bir söz'

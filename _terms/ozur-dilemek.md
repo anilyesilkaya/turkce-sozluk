@@ -2,6 +2,7 @@
 layout: term
 title: özür dilemek
 slug: ozur-dilemek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - özrünü ileri sürerek bir işi yapmayı istememek, bir işten bağışlanmasını istemek

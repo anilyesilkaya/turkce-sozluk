@@ -2,6 +2,7 @@
 layout: term
 title: kafaya almak
 slug: kafaya-almak
+letter: K
 lisan: Türkçe
 anlamlar:
 - zaaflarından yararlanarak kandırmak, oyuna getirmek

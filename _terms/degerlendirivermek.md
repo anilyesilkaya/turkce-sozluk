@@ -2,6 +2,7 @@
 layout: term
 title: değerlendirivermek
 slug: degerlendirivermek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çabucak değerlendirmek

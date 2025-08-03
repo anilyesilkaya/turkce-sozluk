@@ -2,6 +2,7 @@
 layout: term
 title: kekemelik
 slug: kekemelik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kekeme olma durumu; kekelik, rekâket

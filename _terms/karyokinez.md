@@ -2,6 +2,7 @@
 layout: term
 title: karyokinez
 slug: karyokinez
+letter: K
 lisan: Fransızca caryocinèse
 anlamlar:
 - Çok hücreli canlılarda hücrenin belli evrelerden geçerek çoğalması; mitoz

@@ -2,6 +2,7 @@
 layout: term
 title: açıkgözlük
 slug: acikgozluk
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► açıkgözlülük

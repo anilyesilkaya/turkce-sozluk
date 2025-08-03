@@ -2,6 +2,7 @@
 layout: term
 title: zırhlı araç
 slug: zirhli-arac
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Savaşta veya savaş dışında güvenliği sağlamak için zırh ile kaplanmış araç

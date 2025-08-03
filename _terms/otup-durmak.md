@@ -2,6 +2,7 @@
 layout: term
 title: ötüp durmak
 slug: otup-durmak
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - sürekli ötme sesi çıkarmak

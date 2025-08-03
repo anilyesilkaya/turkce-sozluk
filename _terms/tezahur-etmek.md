@@ -2,6 +2,7 @@
 layout: term
 title: tezahür etmek
 slug: tezahur-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - ortaya çıkmak

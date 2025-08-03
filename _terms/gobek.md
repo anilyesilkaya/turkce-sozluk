@@ -2,6 +2,7 @@
 layout: term
 title: göbek
 slug: gobek
+letter: G
 lisan: Türkçe
 anlamlar:
 - İnsan ve memeli hayvanlarda göbek bağının düşmesinden sonra karnın ortasında bulunan çukurluk

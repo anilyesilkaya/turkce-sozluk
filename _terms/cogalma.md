@@ -2,6 +2,7 @@
 layout: term
 title: çoğalma
 slug: cogalma
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çoğalmak işi; fazlalaşma, ziyadeleşme, tekessür

@@ -2,6 +2,7 @@
 layout: term
 title: derecelemek
 slug: derecelemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Derecelere ayırmak

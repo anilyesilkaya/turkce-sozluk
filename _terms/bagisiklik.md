@@ -2,6 +2,7 @@
 layout: term
 title: bağışıklık
 slug: bagisiklik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bazı mikroplara karşı aşı veya doğal yolla kazanılmış direnç durumu

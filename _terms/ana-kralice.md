@@ -2,6 +2,7 @@
 layout: term
 title: ana kraliçe
 slug: ana-kralice
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kralın annesi

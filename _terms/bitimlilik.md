@@ -2,6 +2,7 @@
 layout: term
 title: bitimlilik
 slug: bitimlilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Sonlu olma durumu

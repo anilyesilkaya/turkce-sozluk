@@ -2,6 +2,7 @@
 layout: term
 title: mazi
 slug: mazi
+letter: M
 lisan: Arapça māżī
 anlamlar:
 - ► geçmiş

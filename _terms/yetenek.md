@@ -2,6 +2,7 @@
 layout: term
 title: yetenek
 slug: yetenek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir kimsenin bir şeyi anlama veya yapabilme niteliği; istidat, kabiliyet

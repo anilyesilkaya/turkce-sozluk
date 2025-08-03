@@ -2,6 +2,7 @@
 layout: term
 title: diyalekt
 slug: diyalekt
+letter: D
 lisan: Fransızca dialecte
 anlamlar:
 - ► lehçe

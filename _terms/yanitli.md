@@ -2,6 +2,7 @@
 layout: term
 title: yanıtlı
 slug: yanitli
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► cevaplı

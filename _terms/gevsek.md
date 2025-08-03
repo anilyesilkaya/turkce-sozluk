@@ -2,6 +2,7 @@
 layout: term
 title: gevşek
 slug: gevsek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Sıkı veya gergin olmayan, gevşemiş olan

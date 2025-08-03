@@ -2,6 +2,7 @@
 layout: term
 title: altışar
 slug: altisar
+letter: A
 lisan: Türkçe
 anlamlar:
 - Altı sayısının üleştirme sayı sıfatı

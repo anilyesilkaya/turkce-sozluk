@@ -2,6 +2,7 @@
 layout: term
 title: konu komşu
 slug: konu-komsu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bütün komşular, birbirine yakın yerde oturan kimseler

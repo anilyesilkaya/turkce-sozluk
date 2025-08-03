@@ -2,6 +2,7 @@
 layout: term
 title: akburçak
 slug: akburcak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► mürdümük

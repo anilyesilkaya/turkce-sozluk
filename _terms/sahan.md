@@ -2,6 +2,7 @@
 layout: term
 title: sahan
 slug: sahan
+letter: S
 lisan: Arapça ṣaḥn
 anlamlar:
 - Derinliği az olan kap

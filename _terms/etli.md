@@ -2,6 +2,7 @@
 layout: term
 title: etli
 slug: etli
+letter: E
 lisan: Türkçe
 anlamlar:
 - İçinde et bulunan

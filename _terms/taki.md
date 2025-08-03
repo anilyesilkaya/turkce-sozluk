@@ -2,6 +2,7 @@
 layout: term
 title: takı
 slug: taki
+letter: T
 lisan: Türkçe
 anlamlar:
 - Çoğunlukla evlenen veya nişanlanan birine armağan olarak verilen küpe, bilezik, yüzük, zincir gibi şeylerin tümü

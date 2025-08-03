@@ -2,6 +2,7 @@
 layout: term
 title: sarımsaklı
 slug: sarimsakli
+letter: S
 lisan: Türkçe
 anlamlar:
 - İçinde sarımsak bulunan

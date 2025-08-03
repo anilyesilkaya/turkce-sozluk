@@ -2,6 +2,7 @@
 layout: term
 title: börek açmak
 slug: borek-acmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - börek yapmak için hamurdan ince yufkalar hazırlamak

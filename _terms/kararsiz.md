@@ -2,6 +2,7 @@
 layout: term
 title: kararsız
 slug: kararsiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kararı olmayan

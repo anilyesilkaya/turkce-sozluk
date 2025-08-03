@@ -2,6 +2,7 @@
 layout: term
 title: gibisiz
 slug: gibisiz
+letter: G
 lisan: Türkçe
 anlamlar:
 - Herhangi bir şeye benzetmeyen

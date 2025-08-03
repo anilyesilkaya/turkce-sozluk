@@ -2,6 +2,7 @@
 layout: term
 title: muhakeme yürütmek
 slug: muhakeme-yurutmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - düşünmek, fikir yürütmek

@@ -2,6 +2,7 @@
 layout: term
 title: yadsıma
 slug: yadsima
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yadsımak işi; yokumsama, inkâr

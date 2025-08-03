@@ -2,6 +2,7 @@
 layout: term
 title: limonata bardağı
 slug: limonata-bardagi
+letter: L
 lisan: Türkçe
 anlamlar:
 - Limonata içmek için kullanılan ince, uzun cam bardak

@@ -2,6 +2,7 @@
 layout: term
 title: ıslak
 slug: islak
+letter: I
 lisan: Türkçe
 anlamlar:
 - Suya batırılmış, üzerine su dökülmüş veya yağmurdan ıslanmış olan; yaş (II)

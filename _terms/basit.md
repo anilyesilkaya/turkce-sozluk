@@ -2,6 +2,7 @@
 layout: term
 title: basit
 slug: basit
+letter: B
 lisan: Arapça basīṭ
 anlamlar:
 - Yapılması veya anlaşılması kolay olan, karışık olmayan; amiyane

@@ -2,6 +2,7 @@
 layout: term
 title: izafet
 slug: izafet
+letter: I
 lisan: Arapça iżāfet
 anlamlar:
 - ► bağıntı

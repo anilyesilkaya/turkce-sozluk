@@ -2,6 +2,7 @@
 layout: term
 title: boşanmak
 slug: bosanmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Karı ve koca mahkeme kararı ile evlilik birliğini bitirmek; ayrılmak

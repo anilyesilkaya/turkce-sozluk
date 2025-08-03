@@ -2,6 +2,7 @@
 layout: term
 title: doğrulmak
 slug: dogrulmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Eğik veya eğri bir şey, düz bir duruma gelmek

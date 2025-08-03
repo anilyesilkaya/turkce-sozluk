@@ -2,6 +2,7 @@
 layout: term
 title: savan
 slug: savan
+letter: S
 lisan: Türkçe
 anlamlar:
 - Pamuk ipliğinden yapılan kalınca kilim

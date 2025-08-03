@@ -2,6 +2,7 @@
 layout: term
 title: şekerli
 slug: sekerli
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - İçinde şeker bulunan

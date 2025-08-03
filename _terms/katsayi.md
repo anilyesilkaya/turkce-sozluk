@@ -2,6 +2,7 @@
 layout: term
 title: katsayı
 slug: katsayi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir niceliğin kaç katı alındığını gösteren sayı; emsal

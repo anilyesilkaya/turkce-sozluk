@@ -2,6 +2,7 @@
 layout: term
 title: dalabilmek
 slug: dalabilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dalma ihtimali veya imkânı bulunmak

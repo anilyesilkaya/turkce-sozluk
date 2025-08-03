@@ -2,6 +2,7 @@
 layout: term
 title: midecilik
 slug: midecilik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mideci olma durumu

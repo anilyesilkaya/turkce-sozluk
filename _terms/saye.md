@@ -2,6 +2,7 @@
 layout: term
 title: saye
 slug: saye
+letter: S
 lisan: Farsça sāye
 anlamlar:
 - ► gölge

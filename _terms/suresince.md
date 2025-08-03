@@ -2,6 +2,7 @@
 layout: term
 title: süresince
 slug: suresince
+letter: S
 lisan: Türkçe
 anlamlar:
 - Süresi kadar; boyunca

@@ -2,6 +2,7 @@
 layout: term
 title: otomatiklik
 slug: otomatiklik
+letter: O
 lisan: Türkçe
 anlamlar:
 - Otomatik olma durumu

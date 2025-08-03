@@ -2,6 +2,7 @@
 layout: term
 title: küskütük
 slug: kuskutuk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çok sarhoş

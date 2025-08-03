@@ -2,6 +2,7 @@
 layout: term
 title: secde etmek
 slug: secde-etmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - alnı, eli, ayakları, dizleri, ayak parmaklarını yere değdirmek

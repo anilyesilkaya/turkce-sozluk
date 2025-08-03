@@ -2,6 +2,7 @@
 layout: term
 title: kördüğüm
 slug: kordugum
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çözülemeyen, ilmiksiz düğüm

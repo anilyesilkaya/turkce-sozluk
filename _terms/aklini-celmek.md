@@ -2,6 +2,7 @@
 layout: term
 title: aklını çelmek
 slug: aklini-celmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - niyetinden, kararından caydırmak

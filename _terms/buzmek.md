@@ -2,6 +2,7 @@
 layout: term
 title: büzmek
 slug: buzmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Buruşturarak, sıkıştırarak veya kıvrım yaparak bir şeyin alanını ve hacmini küçültmek

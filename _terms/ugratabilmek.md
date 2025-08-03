@@ -2,6 +2,7 @@
 layout: term
 title: uğratabilmek
 slug: ugratabilmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uğratma ihtimali veya imkânı bulunmak

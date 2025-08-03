@@ -2,6 +2,7 @@
 layout: term
 title: başı açık
 slug: basi-acik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başı örtülü olmayan (kadın)

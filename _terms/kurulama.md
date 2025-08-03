@@ -2,6 +2,7 @@
 layout: term
 title: kurulama
 slug: kurulama
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kurulamak işi

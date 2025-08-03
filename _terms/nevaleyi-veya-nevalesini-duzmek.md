@@ -2,6 +2,7 @@
 layout: term
 title: nevaleyi (veya nevalesini) düzmek
 slug: nevaleyi-veya-nevalesini-duzmek
+letter: N
 lisan: Türkçe
 anlamlar:
 - gerekli yiyecek ve içeceği sağlamak

@@ -2,6 +2,7 @@
 layout: term
 title: soloculuk
 slug: soloculuk
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► solistlik

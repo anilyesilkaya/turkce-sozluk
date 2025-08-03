@@ -2,6 +2,7 @@
 layout: term
 title: saman gibi
 slug: saman-gibi
+letter: S
 lisan: Türkçe
 anlamlar:
 - tatsız, yavan

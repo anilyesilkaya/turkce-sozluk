@@ -2,6 +2,7 @@
 layout: term
 title: vebali boynuna
 slug: vebali-boynuna
+letter: V
 lisan: Türkçe
 anlamlar:
 - '"ben karışmam, sorumluluk sana veya ona düşer" anlamında kullanılan bir söz'

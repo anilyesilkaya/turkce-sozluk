@@ -2,6 +2,7 @@
 layout: term
 title: kuyruğu dikmek
 slug: kuyrugu-dikmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - hayvan koşmaya başlamak

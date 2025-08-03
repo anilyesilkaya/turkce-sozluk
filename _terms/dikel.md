@@ -2,6 +2,7 @@
 layout: term
 title: dikel
 slug: dikel
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► meni

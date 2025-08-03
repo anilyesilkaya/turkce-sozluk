@@ -2,6 +2,7 @@
 layout: term
 title: doyumluluk
 slug: doyumluluk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Doyumlu olma durumu

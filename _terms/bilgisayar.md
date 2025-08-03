@@ -2,6 +2,7 @@
 layout: term
 title: bilgisayar
 slug: bilgisayar
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belleğine yüklenmiş program uyarınca aritmetik ve mantık işlemleri yapabilen, sonuca göre karar verip programdaki akışı değiştirebilen, çevresiyle etkileşimde bulunabilen, girdi ve sonuç verilerini belleğinde tutabilen aygıt; elektronik beyin

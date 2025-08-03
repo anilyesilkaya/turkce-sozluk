@@ -2,6 +2,7 @@
 layout: term
 title: tarih değiştirme çizgisi
 slug: tarih-degistirme-cizgisi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Güney Kutbu ile Kuzey Kutbu arasında uzanan, uluslararası gün çizgisi olarak da bilinen, bir takvim gününden bir sonrakine geçişi belirleyen sanal çizgi

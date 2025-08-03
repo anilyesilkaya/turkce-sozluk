@@ -2,6 +2,7 @@
 layout: term
 title: ocaksız
 slug: ocaksiz
+letter: O
 lisan: Türkçe
 anlamlar:
 - Ocağı olmayan

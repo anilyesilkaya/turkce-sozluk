@@ -2,6 +2,7 @@
 layout: term
 title: ellili
 slug: ellili
+letter: E
 lisan: Türkçe
 anlamlar:
 - Elli parçası bulunan, elli parçadan oluşan

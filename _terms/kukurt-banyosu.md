@@ -2,6 +2,7 @@
 layout: term
 title: 'kükürt banyosu '
 slug: kukurt-banyosu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sağlık vb. amaçlarla bedenin bir bölümünü veya bütününü bir süre kükürtlü su veya çamur içinde bulundurma

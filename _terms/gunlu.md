@@ -2,6 +2,7 @@
 layout: term
 title: günlü
 slug: gunlu
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► tarihli

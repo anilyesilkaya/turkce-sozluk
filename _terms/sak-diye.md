@@ -2,6 +2,7 @@
 layout: term
 title: şak diye
 slug: sak-diye
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ansızın

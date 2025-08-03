@@ -2,6 +2,7 @@
 layout: term
 title: sabahki
 slug: sabahki
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sabaha özgü, sabah olan, sabah yapılan

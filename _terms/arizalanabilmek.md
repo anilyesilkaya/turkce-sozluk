@@ -2,6 +2,7 @@
 layout: term
 title: arızalanabilmek
 slug: arizalanabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arızalanma ihtimali bulunmak

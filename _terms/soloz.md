@@ -2,6 +2,7 @@
 layout: term
 title: soloz
 slug: soloz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir tür iskambil oyunu

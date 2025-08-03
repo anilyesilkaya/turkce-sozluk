@@ -2,6 +2,7 @@
 layout: term
 title: hazır para
 slug: hazir-para
+letter: H
 lisan: Türkçe
 anlamlar:
 - Elde mevcut para

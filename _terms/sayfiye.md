@@ -2,6 +2,7 @@
 layout: term
 title: sayfiye
 slug: sayfiye
+letter: S
 lisan: Arapça ṣayfiyye
 anlamlar:
 - Yaz mevsimini geçirmek için gidilen yer veya ev

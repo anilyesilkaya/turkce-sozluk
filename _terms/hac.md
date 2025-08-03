@@ -2,6 +2,7 @@
 layout: term
 title: haç
 slug: hac
+letter: H
 lisan: Farsça ḫāc
 anlamlar:
 - Doksan derecelik açılarla birbirini kesen iki doğru parçasından oluşarak Hz. İsa’nın çarmıhtaki duruşunu temsil eden Hristiyanlık sembolü; istavroz, put (I), salip

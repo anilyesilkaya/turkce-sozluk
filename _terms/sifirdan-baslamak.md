@@ -2,6 +2,7 @@
 layout: term
 title: sıfırdan başlamak
 slug: sifirdan-baslamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - en baştan, hiçbir şeye sahip olmadan bir işe girişmek

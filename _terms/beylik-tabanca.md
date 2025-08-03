@@ -2,6 +2,7 @@
 layout: term
 title: beylik tabanca
 slug: beylik-tabanca
+letter: B
 lisan: Türkçe
 anlamlar:
 - Ordu veya emniyet mensuplarına görev dolayısıyla verilen tabanca

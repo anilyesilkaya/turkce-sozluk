@@ -2,6 +2,7 @@
 layout: term
 title: şilep
 slug: silep
+letter: Ş
 lisan: Almanca Schlepp
 anlamlar:
 - ► yük gemisi

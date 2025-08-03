@@ -2,6 +2,7 @@
 layout: term
 title: kapkaççı
 slug: kapkacci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kapıp kaçmak yoluyla hırsızlık yapan kimse

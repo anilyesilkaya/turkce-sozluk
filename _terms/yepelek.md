@@ -2,6 +2,7 @@
 layout: term
 title: yepelek
 slug: yepelek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► narin

@@ -2,6 +2,7 @@
 layout: term
 title: 'kalçın ağızlı '
 slug: kalcin-agizli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Ağzı gevşek, geveze olan (kimse)

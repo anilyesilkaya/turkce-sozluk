@@ -2,6 +2,7 @@
 layout: term
 title: 'kaçkaç '
 slug: kackac
+letter: K
 lisan: Türkçe
 anlamlar:
 - Baskın veya işgal sırasında halkın toplu hâlde yerini yurdunu terk etmek zorunda kalması

@@ -2,6 +2,7 @@
 layout: term
 title: kulağı tıkalı
 slug: kulagi-tikali
+letter: K
 lisan: Türkçe
 anlamlar:
 - Ağır işiten

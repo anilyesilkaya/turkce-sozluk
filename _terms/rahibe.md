@@ -2,6 +2,7 @@
 layout: term
 title: rahibe
 slug: rahibe
+letter: R
 lisan: Arapça rāhibe
 anlamlar:
 - Kadın rahip

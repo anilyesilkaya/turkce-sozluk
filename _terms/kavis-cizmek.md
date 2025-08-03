@@ -2,6 +2,7 @@
 layout: term
 title: kavis çizmek
 slug: kavis-cizmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - yay biçiminde yol izlemek

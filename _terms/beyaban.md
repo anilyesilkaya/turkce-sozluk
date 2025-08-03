@@ -2,6 +2,7 @@
 layout: term
 title: beyaban
 slug: beyaban
+letter: B
 lisan: Farsça beyābān
 anlamlar:
 - ► çöl

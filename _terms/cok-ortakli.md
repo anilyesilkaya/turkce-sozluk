@@ -2,6 +2,7 @@
 layout: term
 title: çok ortaklı
 slug: cok-ortakli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Birçok ortaktan oluşan (şirket); anonim

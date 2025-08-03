@@ -2,6 +2,7 @@
 layout: term
 title: inme
 slug: inme
+letter: I
 lisan: Türkçe
 anlamlar:
 - İnmek işi

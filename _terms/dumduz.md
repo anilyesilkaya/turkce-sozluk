@@ -2,6 +2,7 @@
 layout: term
 title: dümdüz
 slug: dumduz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çok düz

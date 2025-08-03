@@ -2,6 +2,7 @@
 layout: term
 title: verevine
 slug: verevine
+letter: V
 lisan: Türkçe
 anlamlar:
 - Verev biçimi verilerek

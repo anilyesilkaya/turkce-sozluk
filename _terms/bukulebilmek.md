@@ -2,6 +2,7 @@
 layout: term
 title: bükülebilmek
 slug: bukulebilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bükülme ihtimali veya imkânı bulunmak

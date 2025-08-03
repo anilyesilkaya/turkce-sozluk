@@ -2,6 +2,7 @@
 layout: term
 title: denizşakayığı
 slug: denizsakayigi
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► denizgülü

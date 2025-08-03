@@ -2,6 +2,7 @@
 layout: term
 title: başarısızlığa uğramak
 slug: basarisizliga-ugramak
+letter: B
 lisan: Türkçe
 anlamlar:
 - başarısız olmak

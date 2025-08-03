@@ -2,6 +2,7 @@
 layout: term
 title: taraf
 slug: taraf
+letter: T
 lisan: Arapça ṭaraf
 anlamlar:
 - Ön, arka, sağ, sol, üst, alt vb. yanların her biri; yüz (II), cenah, canip

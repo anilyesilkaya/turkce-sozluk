@@ -2,6 +2,7 @@
 layout: term
 title: müstahak olmak
 slug: mustahak-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - hak kazanmak, layık olmak

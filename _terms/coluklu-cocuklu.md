@@ -2,6 +2,7 @@
 layout: term
 title: çoluklu çocuklu
 slug: coluklu-cocuklu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çoluk çocuğu olan

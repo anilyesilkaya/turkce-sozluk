@@ -2,6 +2,7 @@
 layout: term
 title: asabileşmek
 slug: asabilesmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► sinirlenmek

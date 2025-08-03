@@ -2,6 +2,7 @@
 layout: term
 title: kültürsüzleşmek
 slug: kultursuzlesmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kültürsüz duruma gelmek

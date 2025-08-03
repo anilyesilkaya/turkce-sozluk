@@ -2,6 +2,7 @@
 layout: term
 title: aylanma
 slug: aylanma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aylanmak işi

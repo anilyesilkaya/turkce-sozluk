@@ -2,6 +2,7 @@
 layout: term
 title: yedekçilik
 slug: yedekcilik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yedekçinin yaptığı iş; kolancılık

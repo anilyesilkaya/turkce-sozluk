@@ -2,6 +2,7 @@
 layout: term
 title: kafasız
 slug: kafasiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kafası olmayan

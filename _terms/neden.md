@@ -2,6 +2,7 @@
 layout: term
 title: neden
 slug: neden
+letter: N
 lisan: Türkçe
 anlamlar:
 - Bir olayı doğuran başka bir olayı sormak için kullanılan bir söz; ne

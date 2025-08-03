@@ -2,6 +2,7 @@
 layout: term
 title: rejisörlük odası
 slug: rejisorluk-odasi
+letter: R
 lisan: Türkçe
 anlamlar:
 - ► reji odası

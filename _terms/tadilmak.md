@@ -2,6 +2,7 @@
 layout: term
 title: tadılmak
 slug: tadilmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tatma işi yapılmak

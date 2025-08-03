@@ -2,6 +2,7 @@
 layout: term
 title: tüfek
 slug: tufek
+letter: T
 lisan: Farsça tufeng
 anlamlar:
 - Savaş veya avda kullanılan, uzun namlulu ateşli silah; delikli demir

@@ -2,6 +2,7 @@
 layout: term
 title: aldanmak
 slug: aldanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Görünüşe bakarak yanlış bir yargıya varmak

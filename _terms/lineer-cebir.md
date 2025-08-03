@@ -2,6 +2,7 @@
 layout: term
 title: 'lineer cebir '
 slug: lineer-cebir
+letter: L
 lisan: Türkçe
 anlamlar:
 - ► doğrusal cebir

@@ -2,6 +2,7 @@
 layout: term
 title: çizdirilmek
 slug: cizdirilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çizdirme işine konu olmak

@@ -2,6 +2,7 @@
 layout: term
 title: eğrilmek
 slug: egrilmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eğri duruma gelmek

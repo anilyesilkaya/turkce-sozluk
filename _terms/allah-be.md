@@ -2,6 +2,7 @@
 layout: term
 title: Allah be
 slug: allah-be
+letter: A
 lisan: Türkçe
 anlamlar:
 - şaşırma, beğenme vb. duyguların belirtilmesinde anlamı kuvvetlendirmek için kullanılan bir söz

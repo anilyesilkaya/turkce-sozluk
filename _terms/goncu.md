@@ -2,6 +2,7 @@
 layout: term
 title: göncü
 slug: goncu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Ham veya işlenmiş deri satan kimse

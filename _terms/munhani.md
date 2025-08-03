@@ -2,6 +2,7 @@
 layout: term
 title: münhani
 slug: munhani
+letter: M
 lisan: Arapça munḥanī
 anlamlar:
 - ► eğri

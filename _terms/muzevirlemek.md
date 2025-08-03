@@ -2,6 +2,7 @@
 layout: term
 title: müzevirlemek
 slug: muzevirlemek
+letter: M
 lisan: Türkçe
 anlamlar:
 - Birinin başkası aleyhine yaptıkları veya söylediklerini karşı tarafa iletmek, söz taşımak, ara bozmak

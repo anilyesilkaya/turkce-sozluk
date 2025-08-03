@@ -2,6 +2,7 @@
 layout: term
 title: Kış Dönencesi
 slug: kis-donencesi
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► Oğlak Dönencesi

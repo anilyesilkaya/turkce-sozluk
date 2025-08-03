@@ -2,6 +2,7 @@
 layout: term
 title: kıvracık
 slug: kivracik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Derli toplu ve işi kolay

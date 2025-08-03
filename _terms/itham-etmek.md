@@ -2,6 +2,7 @@
 layout: term
 title: itham etmek
 slug: itham-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - suçlamak, suçlu görmek

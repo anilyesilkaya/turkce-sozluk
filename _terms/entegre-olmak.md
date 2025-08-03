@@ -2,6 +2,7 @@
 layout: term
 title: entegre olmak
 slug: entegre-olmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - bütünleşmek

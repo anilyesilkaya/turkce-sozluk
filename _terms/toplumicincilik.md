@@ -2,6 +2,7 @@
 layout: term
 title: toplumiçincilik
 slug: toplumicincilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► toplummerkezcilik

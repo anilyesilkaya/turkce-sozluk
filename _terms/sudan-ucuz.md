@@ -2,6 +2,7 @@
 layout: term
 title: sudan ucuz
 slug: sudan-ucuz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Çok ucuz, bedava olan

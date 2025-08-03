@@ -2,6 +2,7 @@
 layout: term
 title: lider
 slug: lider
+letter: L
 lisan: Fransızca leader
 anlamlar:
 - ► önder

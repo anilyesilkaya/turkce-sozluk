@@ -2,6 +2,7 @@
 layout: term
 title: cızırtılı
 slug: cizirtili
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cızırdayan, cızırtısı olan; cızıltılı

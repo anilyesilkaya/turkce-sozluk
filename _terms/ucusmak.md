@@ -2,6 +2,7 @@
 layout: term
 title: uçuşmak
 slug: ucusmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Hep birlikte uçmak

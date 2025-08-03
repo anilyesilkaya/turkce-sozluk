@@ -2,6 +2,7 @@
 layout: term
 title: ayrıştırmak
 slug: ayristirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bütünün bozulmasına sebep olmak

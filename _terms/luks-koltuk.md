@@ -2,6 +2,7 @@
 layout: term
 title: lüks koltuk
 slug: luks-koltuk
+letter: L
 lisan: Türkçe
 anlamlar:
 - Salonun arka ve yan taraflarında özel bölmelerde yer alan ve ücreti farklı olan koltuk

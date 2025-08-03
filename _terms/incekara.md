@@ -2,6 +2,7 @@
 layout: term
 title: incekara
 slug: incekara
+letter: I
 lisan: Türkçe
 anlamlar:
 - İnce kabuklu, siyah renkli bir üzüm çeşidi

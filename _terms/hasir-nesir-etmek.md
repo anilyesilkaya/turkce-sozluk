@@ -2,6 +2,7 @@
 layout: term
 title: haşır neşir etmek
 slug: hasir-nesir-etmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - kaynaştırmak, bir arada bulundurmak

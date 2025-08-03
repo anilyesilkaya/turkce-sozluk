@@ -2,6 +2,7 @@
 layout: term
 title: makaslanmak
 slug: makaslanmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - Makas almak işine konu olmak

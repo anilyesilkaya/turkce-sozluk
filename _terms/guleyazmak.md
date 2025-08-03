@@ -2,6 +2,7 @@
 layout: term
 title: güleyazmak
 slug: guleyazmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - Az kalsın gülmek

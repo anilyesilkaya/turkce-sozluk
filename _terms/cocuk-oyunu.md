@@ -2,6 +2,7 @@
 layout: term
 title: çocuk oyunu
 slug: cocuk-oyunu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çocukların oynadığı oyun

@@ -2,6 +2,7 @@
 layout: term
 title: canı çıkmak
 slug: cani-cikmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - çok yorulmak veya çok zorluk çekmek

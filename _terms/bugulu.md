@@ -2,6 +2,7 @@
 layout: term
 title: buğulu
 slug: bugulu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Üzerinde buğu bulunan, buğulanmış

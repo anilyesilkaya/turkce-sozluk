@@ -2,6 +2,7 @@
 layout: term
 title: kararname
 slug: kararname
+letter: K
 lisan: Arapça ḳarār + Farsça nāme
 anlamlar:
 - Cumhurbaşkanının onayladığı hükûmet kararı

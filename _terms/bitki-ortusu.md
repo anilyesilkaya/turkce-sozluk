@@ -2,6 +2,7 @@
 layout: term
 title: bitki örtüsü
 slug: bitki-ortusu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Herhangi bir yer, bölge veya coğrafyada o çevrenin doğal şartlarına uygun olarak gelişen, ekolojik istekleri benzer olan bitkilerin meydana getirdiği topluluk; vejetasyon

@@ -2,6 +2,7 @@
 layout: term
 title: dalgündüz
 slug: dalgunduz
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► güpegündüz

@@ -2,6 +2,7 @@
 layout: term
 title: alavere
 slug: alavere
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir şeyin elden ele geçmesi

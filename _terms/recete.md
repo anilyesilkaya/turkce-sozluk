@@ -2,6 +2,7 @@
 layout: term
 title: reçete
 slug: recete
+letter: R
 lisan: İtalyanca ricetta
 anlamlar:
 - Üzerinde doktorun hastası için gerekli gördüğü ilaçlarla, bunların kullanılış biçimleri yazılı olan kâğıt

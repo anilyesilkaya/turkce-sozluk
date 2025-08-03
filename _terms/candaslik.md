@@ -2,6 +2,7 @@
 layout: term
 title: candaşlık
 slug: candaslik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Can dostu olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: koçu
 slug: kocu
+letter: K
 lisan: Macarca kocsi
 anlamlar:
 - Süslü bir tür gezme arabası

@@ -2,6 +2,7 @@
 layout: term
 title: riyasız
 slug: riyasiz
+letter: R
 lisan: Türkçe
 anlamlar:
 - Olduğu gibi görünen, ikiyüzlü davranmayan

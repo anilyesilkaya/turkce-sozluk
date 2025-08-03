@@ -2,6 +2,7 @@
 layout: term
 title: talanlamak
 slug: talanlamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► yağmalamak

@@ -2,6 +2,7 @@
 layout: term
 title: kırıcılaşma
 slug: kiricilasma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kırıcılaşmak durumu

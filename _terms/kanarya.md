@@ -2,6 +2,7 @@
 layout: term
 title: kanarya
 slug: kanarya
+letter: K
 lisan: İspanyolca canario
 anlamlar:
 - İspinozgillerden, yeşilimsi veya sarı tüylü, koni biçiminde küçük gagalı, ötücü kuş (Serinus canaria)

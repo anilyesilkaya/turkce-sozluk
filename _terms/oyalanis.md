@@ -2,6 +2,7 @@
 layout: term
 title: oyalanış
 slug: oyalanis
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oyalanmak işi

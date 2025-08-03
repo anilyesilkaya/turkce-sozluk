@@ -2,6 +2,7 @@
 layout: term
 title: süt çalmak
 slug: sut-calmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - bozuk süt, çocuğu hasta etmek

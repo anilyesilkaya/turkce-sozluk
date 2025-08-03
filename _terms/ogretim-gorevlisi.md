@@ -2,6 +2,7 @@
 layout: term
 title: öğretim görevlisi
 slug: ogretim-gorevlisi
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Yükseköğretim kurumlarında sadece ders vermek ve uygulama yaptırmakla yükümlü olan öğretim elemanı

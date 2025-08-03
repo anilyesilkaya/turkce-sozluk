@@ -2,6 +2,7 @@
 layout: term
 title: gergedan böceği
 slug: gergedan-bocegi
+letter: G
 lisan: Türkçe
 anlamlar:
 - 4 santimetreye yakın boyda, erkeklerinde sert bir boynuz bulunan ve kurtçuk evresini, ağaç kökü kemirerek geçiren kın kanatlı böcek (Oryctes nasicornis)

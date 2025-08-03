@@ -2,6 +2,7 @@
 layout: term
 title: peklik
 slug: peklik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pek olma durumu

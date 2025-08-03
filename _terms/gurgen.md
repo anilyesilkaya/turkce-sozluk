@@ -2,6 +2,7 @@
 layout: term
 title: gürgen
 slug: gurgen
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gürgengillerden, Karadeniz kıyılarındaki ormanlarda çok yetişen, kerestesi değerli bir ağaç; karagürgen (Carpinus betulus)

@@ -2,6 +2,7 @@
 layout: term
 title: külot
 slug: kulot
+letter: K
 lisan: Fransızca culotte
 anlamlar:
 - Vücudun belden aşağısına giyilen uzun veya kısa iç çamaşırı; don (I)

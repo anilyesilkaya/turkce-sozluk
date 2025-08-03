@@ -2,6 +2,7 @@
 layout: term
 title: hayvansal
 slug: hayvansal
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hayvanla ilgili; hayvani

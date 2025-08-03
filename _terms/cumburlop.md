@@ -2,6 +2,7 @@
 layout: term
 title: cumburlop
 slug: cumburlop
+letter: C
 lisan: Türkçe
 anlamlar:
 - Ağır bir cismin suya düştüğü zaman çıkardığı ses

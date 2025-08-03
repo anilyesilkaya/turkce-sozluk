@@ -2,6 +2,7 @@
 layout: term
 title: muaşeret adabı
 slug: muaseret-adabi
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► görgü kuralları

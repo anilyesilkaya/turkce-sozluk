@@ -2,6 +2,7 @@
 layout: term
 title: hey
 slug: hey
+letter: H
 lisan: Türkçe
 anlamlar:
 - Seslenmek veya ilgi ve dikkat çekmek için söylenen bir söz

@@ -2,6 +2,7 @@
 layout: term
 title: lamelif çevirmek (veya çizmek veya çekmek)
 slug: lamelif-cevirmek-veya-cizmek-veya-cekmek
+letter: L
 lisan: Türkçe
 anlamlar:
 - kısa bir süre dolaşıp gelmek

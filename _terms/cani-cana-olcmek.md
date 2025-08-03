@@ -2,6 +2,7 @@
 layout: term
 title: canı cana ölçmek
 slug: cani-cana-olcmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - başkasına yapılacak şeyi kendisine yapılacak gibi düşünmek

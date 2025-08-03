@@ -2,6 +2,7 @@
 layout: term
 title: fikir adamı
 slug: fikir-adami
+letter: F
 lisan: Türkçe
 anlamlar:
 - Herhangi bir düşünce alanındaki görüşlerine değer verilen kimse

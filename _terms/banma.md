@@ -2,6 +2,7 @@
 layout: term
 title: banma
 slug: banma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Banmak işi

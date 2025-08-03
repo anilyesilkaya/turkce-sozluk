@@ -2,6 +2,7 @@
 layout: term
 title: işi (bir şeye) vurmak
 slug: isi-bir-seye-vurmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - işi değiştirmek

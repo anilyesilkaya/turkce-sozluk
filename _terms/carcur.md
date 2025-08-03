@@ -2,6 +2,7 @@
 layout: term
 title: çarçur
 slug: carcur
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - '"Gereksiz yerlere harcayıp tüketmek" anlamındaki çarçur etmek ve "gereksiz yere harcanmak, ziyan olmak" anlamlarındaki çarçur olmak birleşik fiillerinde geçen bir söz'

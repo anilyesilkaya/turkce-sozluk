@@ -2,6 +2,7 @@
 layout: term
 title: meclis kurmak
 slug: meclis-kurmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - birkaç kişi konuşmak veya eğlenmek için toplanmak

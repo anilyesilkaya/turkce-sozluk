@@ -2,6 +2,7 @@
 layout: term
 title: numara
 slug: numara
+letter: N
 lisan: İtalyanca numero
 anlamlar:
 - Bir şeyin bir dizi içindeki yerini gösteren sayı, rakam

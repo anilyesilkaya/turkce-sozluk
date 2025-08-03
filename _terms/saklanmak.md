@@ -2,6 +2,7 @@
 layout: term
 title: saklanmak
 slug: saklanmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kendini saklamak; gizlenmek

@@ -2,6 +2,7 @@
 layout: term
 title: tashih
 slug: tashih
+letter: T
 lisan: Arapça taṣḥīḥ
 anlamlar:
 - ► düzelti

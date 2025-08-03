@@ -2,6 +2,7 @@
 layout: term
 title: dansöz
 slug: dansoz
+letter: D
 lisan: Fransızca danseuse
 anlamlar:
 - Dans etmeyi meslek edinmiş kadın

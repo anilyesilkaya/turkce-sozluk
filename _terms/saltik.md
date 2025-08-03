@@ -2,6 +2,7 @@
 layout: term
 title: saltık
 slug: saltik
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► mutlak

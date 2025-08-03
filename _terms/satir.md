@@ -2,6 +2,7 @@
 layout: term
 title: şatır
 slug: satir
+letter: Ş
 lisan: Arapça şāṭir
 anlamlar:
 - Neşeli, keyifli, şen olan

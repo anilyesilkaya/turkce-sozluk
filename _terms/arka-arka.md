@@ -2,6 +2,7 @@
 layout: term
 title: arka arka
 slug: arka-arka
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► geri geri

@@ -2,6 +2,7 @@
 layout: term
 title: eklenti
 slug: eklenti
+letter: E
 lisan: Türkçe
 anlamlar:
 - Bir şeye eklenmiş olan, ek durumunda bulunan parça

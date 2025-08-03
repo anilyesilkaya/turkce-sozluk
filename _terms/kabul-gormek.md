@@ -2,6 +2,7 @@
 layout: term
 title: kabul görmek
 slug: kabul-gormek
+letter: K
 lisan: Türkçe
 anlamlar:
 - kabul edilmek, onaylanmak

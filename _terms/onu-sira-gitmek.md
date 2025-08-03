@@ -2,6 +2,7 @@
 layout: term
 title: önü sıra gitmek
 slug: onu-sira-gitmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - önünde yürümek

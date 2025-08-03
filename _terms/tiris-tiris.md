@@ -2,6 +2,7 @@
 layout: term
 title: tırıs tırıs
 slug: tiris-tiris
+letter: T
 lisan: Türkçe
 anlamlar:
 - Hızlı bir biçimde; tırıs pırıs

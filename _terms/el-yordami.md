@@ -2,6 +2,7 @@
 layout: term
 title: el yordamı
 slug: el-yordami
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► el yordamıyla

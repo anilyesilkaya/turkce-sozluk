@@ -2,6 +2,7 @@
 layout: term
 title: fer
 slug: fer
+letter: F
 lisan: Farsça fer
 anlamlar:
 - Bir şeyin parlak olması

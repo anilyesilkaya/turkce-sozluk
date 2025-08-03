@@ -2,6 +2,7 @@
 layout: term
 title: bir lahzada
 slug: bir-lahzada
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► çabucak

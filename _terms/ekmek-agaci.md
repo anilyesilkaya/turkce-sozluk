@@ -2,6 +2,7 @@
 layout: term
 title: ekmek ağacı
 slug: ekmek-agaci
+letter: E
 lisan: Türkçe
 anlamlar:
 - Dutgillerden, sıcak ülkelerde yetişen, bol meyve veren, yaprakları beş veya yedi parçalı, çiçekleri küçük bir ağaç (Artocarpus incisa)

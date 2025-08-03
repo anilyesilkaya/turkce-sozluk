@@ -2,6 +2,7 @@
 layout: term
 title: yaraş
 slug: yaras
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Girişken olan (kimse)

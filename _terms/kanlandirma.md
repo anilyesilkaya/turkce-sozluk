@@ -2,6 +2,7 @@
 layout: term
 title: kanlandırma
 slug: kanlandirma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kanlandırmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: infilak
 slug: infilak
+letter: I
 lisan: Arapça infilāḳ
 anlamlar:
 - Güçlü bir biçimde patlama

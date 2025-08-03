@@ -2,6 +2,7 @@
 layout: term
 title: yolak
 slug: yolak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► patika

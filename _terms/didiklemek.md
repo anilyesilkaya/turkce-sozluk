@@ -2,6 +2,7 @@
 layout: term
 title: didiklemek
 slug: didiklemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çekiştirerek veya ısırarak parçalamak

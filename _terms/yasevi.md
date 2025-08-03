@@ -2,6 +2,7 @@
 layout: term
 title: yasevi
 slug: yasevi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► ölüevi

@@ -2,6 +2,7 @@
 layout: term
 title: tevdiat
 slug: tevdiat
+letter: T
 lisan: Arapça tevdīʿāt
 anlamlar:
 - ► mevduat

@@ -2,6 +2,7 @@
 layout: term
 title: cevhersiz
 slug: cevhersiz
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cevheri olmayan

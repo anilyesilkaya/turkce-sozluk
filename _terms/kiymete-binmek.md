@@ -2,6 +2,7 @@
 layout: term
 title: kıymete binmek
 slug: kiymete-binmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - çok değerli duruma gelmek

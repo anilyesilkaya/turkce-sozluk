@@ -2,6 +2,7 @@
 layout: term
 title: ruhlu
 slug: ruhlu
+letter: R
 lisan: Türkçe
 anlamlar:
 - Görünüşü veya ruhsal durumu herhangi bir nitelikte olan

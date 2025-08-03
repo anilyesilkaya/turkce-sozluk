@@ -2,6 +2,7 @@
 layout: term
 title: telefon
 slug: telefon
+letter: T
 lisan: Fransızca téléphone
 anlamlar:
 - Konuşmaları ileten ve yansıtan düzenek

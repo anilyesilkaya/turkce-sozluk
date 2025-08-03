@@ -2,6 +2,7 @@
 layout: term
 title: nazikleşmek
 slug: naziklesmek
+letter: N
 lisan: Türkçe
 anlamlar:
 - İnce, saygılı bir biçimde davranır olmak

@@ -2,6 +2,7 @@
 layout: term
 title: bitkinleşme
 slug: bitkinlesme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bitkinleşmek durumu

@@ -2,6 +2,7 @@
 layout: term
 title: yekûn
 slug: yekun
+letter: Y
 lisan: Arapça yekūn
 anlamlar:
 - ► toplam

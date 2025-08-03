@@ -2,6 +2,7 @@
 layout: term
 title: otonomi
 slug: otonomi
+letter: O
 lisan: Fransızca autonomie
 anlamlar:
 - ► özerklik

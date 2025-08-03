@@ -2,6 +2,7 @@
 layout: term
 title: lirik
 slug: lirik
+letter: L
 lisan: Fransızca lyrique
 anlamlar:
 - Coşkun, ilhamla dolu

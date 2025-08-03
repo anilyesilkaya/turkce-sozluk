@@ -2,6 +2,7 @@
 layout: term
 title: balıkçı düğümü
 slug: balikci-dugumu
+letter: B
 lisan: Türkçe
 anlamlar:
 - İşleme başlangıcında yapılan ve sonra kolayca çözülerek yapılan düğüm şekli

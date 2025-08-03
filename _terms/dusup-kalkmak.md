@@ -2,6 +2,7 @@
 layout: term
 title: düşüp kalkmak
 slug: dusup-kalkmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - erkek kadınla veya kadın erkekle yasa ve töre dışı yakın ilişki kurmak

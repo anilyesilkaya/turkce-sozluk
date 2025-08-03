@@ -2,6 +2,7 @@
 layout: term
 title: kotarma
 slug: kotarma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kotarmak işi

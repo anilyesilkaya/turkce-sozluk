@@ -2,6 +2,7 @@
 layout: term
 title: yaşlıca
 slug: yaslica
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Biraz yaşlı olan

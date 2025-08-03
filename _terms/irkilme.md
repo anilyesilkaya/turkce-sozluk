@@ -2,6 +2,7 @@
 layout: term
 title: irkilme
 slug: irkilme
+letter: I
 lisan: Türkçe
 anlamlar:
 - İrkilmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: hareketsiz
 slug: hareketsiz
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hareket etmeyen, yerinden kımıldamayan, durgun olan; durağan

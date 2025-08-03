@@ -2,6 +2,7 @@
 layout: term
 title: rücu etmek
 slug: rucu-etmek
+letter: R
 lisan: Türkçe
 anlamlar:
 - geri dönmek

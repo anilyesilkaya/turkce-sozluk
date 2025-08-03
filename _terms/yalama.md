@@ -2,6 +2,7 @@
 layout: term
 title: yalama
 slug: yalama
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yalamak işi

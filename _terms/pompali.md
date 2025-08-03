@@ -2,6 +2,7 @@
 layout: term
 title: pompalı
 slug: pompali
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pompası olan

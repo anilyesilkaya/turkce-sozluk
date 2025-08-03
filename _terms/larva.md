@@ -2,6 +2,7 @@
 layout: term
 title: larva
 slug: larva
+letter: L
 lisan: Latince
 anlamlar:
 - ► kurtçuk

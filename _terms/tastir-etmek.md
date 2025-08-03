@@ -2,6 +2,7 @@
 layout: term
 title: tastir etmek
 slug: tastir-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - yazmak

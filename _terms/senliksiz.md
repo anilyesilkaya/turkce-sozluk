@@ -2,6 +2,7 @@
 layout: term
 title: şenliksiz
 slug: senliksiz
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Eğlenceli olmayan; eğlencesiz

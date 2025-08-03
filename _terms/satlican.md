@@ -2,6 +2,7 @@
 layout: term
 title: satlıcan
 slug: satlican
+letter: S
 lisan: Arapça ẕāt + cenb
 anlamlar:
 - ► zatülcenp

@@ -2,6 +2,7 @@
 layout: term
 title: kılgı
 slug: kilgi
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► uygulama

@@ -2,6 +2,7 @@
 layout: term
 title: zıvana
 slug: zivana
+letter: Z
 lisan: Farsça zubāne
 anlamlar:
 - İki ucu açık küçük boru

@@ -2,6 +2,7 @@
 layout: term
 title: reddedilmek
 slug: reddedilmek
+letter: R
 lisan: Türkçe
 anlamlar:
 - Reddetme işine konu olmak

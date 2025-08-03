@@ -2,6 +2,7 @@
 layout: term
 title: aleni
 slug: aleni
+letter: A
 lisan: Arapça ʿalenī
 anlamlar:
 - Açık, ortada, meydanda, herkesin içinde yapılan

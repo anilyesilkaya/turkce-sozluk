@@ -2,6 +2,7 @@
 layout: term
 title: demlik
 slug: demlik
+letter: D
 lisan: Türkçe
 anlamlar:
 - İçerisinde çay demlenen porselen veya metalden yapılmış küçük çaydanlık

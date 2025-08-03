@@ -2,6 +2,7 @@
 layout: term
 title: nefretlik
 slug: nefretlik
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nefret etme durumu, nefret

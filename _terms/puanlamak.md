@@ -2,6 +2,7 @@
 layout: term
 title: puanlamak
 slug: puanlamak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Sorulara verilen cevapları puan olarak değerlendirmek; puan vermek

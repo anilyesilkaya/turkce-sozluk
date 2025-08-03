@@ -2,6 +2,7 @@
 layout: term
 title: gailesiz
 slug: gailesiz
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gaile çıkarmayan

@@ -2,6 +2,7 @@
 layout: term
 title: cari kur
 slug: cari-kur
+letter: C
 lisan: Türkçe
 anlamlar:
 - Piyasada arz ve talep sonucu belirlenen kur

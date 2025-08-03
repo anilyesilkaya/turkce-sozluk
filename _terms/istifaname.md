@@ -2,6 +2,7 @@
 layout: term
 title: istifaname
 slug: istifaname
+letter: I
 lisan: Arapça istiʿfā + Farsça nāme
 anlamlar:
 - ► istifa

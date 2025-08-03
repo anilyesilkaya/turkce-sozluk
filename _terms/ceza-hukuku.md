@@ -2,6 +2,7 @@
 layout: term
 title: ceza hukuku
 slug: ceza-hukuku
+letter: C
 lisan: Türkçe
 anlamlar:
 - Suç kapsamı içine giren eylemler ile bunlara uygulanacak cezaları inceleyen hukuk dalı

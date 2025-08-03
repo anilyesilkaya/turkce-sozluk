@@ -2,6 +2,7 @@
 layout: term
 title: lavaj yapmak
 slug: lavaj-yapmak
+letter: L
 lisan: Türkçe
 anlamlar:
 - herhangi bir organı mikroplardan temizlemek amacıyla yıkamak, arıtmak

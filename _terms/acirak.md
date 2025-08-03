@@ -2,6 +2,7 @@
 layout: term
 title: acırak
 slug: acirak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Az acı

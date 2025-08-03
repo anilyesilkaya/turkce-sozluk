@@ -2,6 +2,7 @@
 layout: term
 title: mızıkalı
 slug: mizikali
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mızıkası olan

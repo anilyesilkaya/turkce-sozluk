@@ -2,6 +2,7 @@
 layout: term
 title: perişan etmek
 slug: perisan-etmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - dağıtmak, düzenini bozmak

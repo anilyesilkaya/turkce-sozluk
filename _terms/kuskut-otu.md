@@ -2,6 +2,7 @@
 layout: term
 title: 'küsküt otu '
 slug: kuskut-otu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çit sarmaşığıgillerden, ince uzun ipliksi saplarıyla, asma, baklagiller ve bazı meyve ağaçlarına sarılarak onları sömüren, klorofilsiz, asalak bir bitki; bağboğan, cinsaçı, küsküt, şeytansaçı (Cuscuta)

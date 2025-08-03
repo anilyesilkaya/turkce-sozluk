@@ -2,6 +2,7 @@
 layout: term
 title: rikkatli
 slug: rikkatli
+letter: R
 lisan: Türkçe
 anlamlar:
 - Nazik, kibar, ince

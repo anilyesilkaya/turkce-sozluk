@@ -2,6 +2,7 @@
 layout: term
 title: on parmağında on kara
 slug: on-parmaginda-on-kara
+letter: O
 lisan: Türkçe
 anlamlar:
 - herkesi lekelemek huyu olanlar için kullanılan bir söz

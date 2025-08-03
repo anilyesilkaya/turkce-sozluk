@@ -2,6 +2,7 @@
 layout: term
 title: bakadurmak
 slug: bakadurmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bakma işini sürdürmek

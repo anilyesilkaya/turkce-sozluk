@@ -2,6 +2,7 @@
 layout: term
 title: borç takmak
 slug: borc-takmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - borcunu ödememek

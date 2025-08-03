@@ -2,6 +2,7 @@
 layout: term
 title: aktör
 slug: aktor
+letter: A
 lisan: Fransızca acteur
 anlamlar:
 - ► (erkek) oyuncu

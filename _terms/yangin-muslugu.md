@@ -2,6 +2,7 @@
 layout: term
 title: yangın musluğu
 slug: yangin-muslugu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Cadde ve sokaklarda su şebekesine bağlı olarak belirli yerlere yerleştirilmiş, üzerine hortum takılabilen kalın musluk

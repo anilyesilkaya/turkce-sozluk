@@ -2,6 +2,7 @@
 layout: term
 title: cenaze alayı
 slug: cenaze-alayi
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cenazenin arkasından yürüyen devlet erkânı, polis, bando vb. topluluk

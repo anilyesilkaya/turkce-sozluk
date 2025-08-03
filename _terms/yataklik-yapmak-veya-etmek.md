@@ -2,6 +2,7 @@
 layout: term
 title: yataklık yapmak (veya etmek)
 slug: yataklik-yapmak-veya-etmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - suçluları gizlice barındırmak, suçlulara yardım etmek

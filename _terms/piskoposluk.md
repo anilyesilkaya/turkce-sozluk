@@ -2,6 +2,7 @@
 layout: term
 title: piskoposluk
 slug: piskoposluk
+letter: P
 lisan: Türkçe
 anlamlar:
 - Piskoposun yönettiği bölge; piskoposhane

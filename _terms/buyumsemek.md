@@ -2,6 +2,7 @@
 layout: term
 title: büyümsemek
 slug: buyumsemek
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► büyüksemek

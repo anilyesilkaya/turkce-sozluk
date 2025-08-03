@@ -2,6 +2,7 @@
 layout: term
 title: yepyeni
 slug: yepyeni
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Çok yeni, hiç kullanılmamış; gıcır gıcır

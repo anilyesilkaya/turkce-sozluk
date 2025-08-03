@@ -2,6 +2,7 @@
 layout: term
 title: kimsesiz
 slug: kimsesiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Annesi babası, yakını, koruyucusu olmayan (kimse); öksüz, sahipsiz, bikes

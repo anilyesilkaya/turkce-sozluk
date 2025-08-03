@@ -2,6 +2,7 @@
 layout: term
 title: öğürmek
 slug: ogurmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Kusarken veya kusacak gibi olurken "öğürtü" sesi çıkarmak

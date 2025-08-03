@@ -2,6 +2,7 @@
 layout: term
 title: tüyo
 slug: tuyo
+letter: T
 lisan: Fransızca tuyau
 anlamlar:
 - Herhangi bir konuda verilen gizli bilgi

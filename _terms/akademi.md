@@ -2,6 +2,7 @@
 layout: term
 title: akademi
 slug: akademi
+letter: A
 lisan: Fransızca académie
 anlamlar:
 - Birçok ülkede bilim ve sanat alanında akademik çalışmalar yapan bilimsel kurum

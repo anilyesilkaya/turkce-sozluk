@@ -2,6 +2,7 @@
 layout: term
 title: sayısallaşmak
 slug: sayisallasmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Yazı, fotoğraf, harita vb. fiziki veriler bilgisayar, akıllı telefon, tablet vb. teknolojik araçlar tarafından okunabilecek, düzenlenebilecek ve gerektiğinde kullanılabilecek biçimde elektronik ortama aktarılmak; dijitalleşmek

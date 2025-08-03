@@ -2,6 +2,7 @@
 layout: term
 title: uçsuzluk
 slug: ucsuzluk
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uçsuz olma durumu

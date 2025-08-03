@@ -2,6 +2,7 @@
 layout: term
 title: acımsılık
 slug: acimsilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Acımsı olma durumu; acımtıraklık

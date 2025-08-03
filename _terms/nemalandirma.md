@@ -2,6 +2,7 @@
 layout: term
 title: nemalandırma
 slug: nemalandirma
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nemalandırmak işi

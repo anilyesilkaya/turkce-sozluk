@@ -2,6 +2,7 @@
 layout: term
 title: ezoterik sembol
 slug: ezoterik-sembol
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ezoterik örgütlerin kendi aralarında kullandıkları sembol

@@ -2,6 +2,7 @@
 layout: term
 title: bir damla
 slug: bir-damla
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çok az

@@ -2,6 +2,7 @@
 layout: term
 title: bizce
 slug: bizce
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bize göre, bizim düşüncemizce

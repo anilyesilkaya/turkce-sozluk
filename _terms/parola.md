@@ -2,6 +2,7 @@
 layout: term
 title: parola
 slug: parola
+letter: P
 lisan: İtalyanca parola
 anlamlar:
 - Askerlerin birbirlerini tanımalarını sağlayan ve kendi aralarında önceden kararlaştırdıkları kelime veya söz

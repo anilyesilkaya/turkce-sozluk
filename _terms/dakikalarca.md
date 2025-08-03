@@ -2,6 +2,7 @@
 layout: term
 title: dakikalarca
 slug: dakikalarca
+letter: D
 lisan: Türkçe
 anlamlar:
 - Uzun süre

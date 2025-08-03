@@ -2,6 +2,7 @@
 layout: term
 title: boynu altında kalsın!
 slug: boynu-altinda-kalsin
+letter: B
 lisan: Türkçe
 anlamlar:
 - '"ölsün, gebersin!" anlamında kullanılan bir ilenme sözü'

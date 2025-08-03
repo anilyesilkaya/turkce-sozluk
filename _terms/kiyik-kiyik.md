@@ -2,6 +2,7 @@
 layout: term
 title: 'kıyık kıyık '
 slug: kiyik-kiyik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bölük pörçük olan

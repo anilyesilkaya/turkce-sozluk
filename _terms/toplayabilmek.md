@@ -2,6 +2,7 @@
 layout: term
 title: toplayabilmek
 slug: toplayabilmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Toplama ihtimali veya imkânı bulunmak

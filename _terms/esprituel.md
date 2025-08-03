@@ -2,6 +2,7 @@
 layout: term
 title: espritüel
 slug: esprituel
+letter: E
 lisan: Fransızca esprituel
 anlamlar:
 - Yerinde ve zamanında, güzel ve hoş karşılanan, ince anlamlı, düşündürücü söz söyleyen, nükte yapan (kimse)

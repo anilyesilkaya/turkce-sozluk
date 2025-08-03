@@ -2,6 +2,7 @@
 layout: term
 title: Bolulu
 slug: bolulu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bolu ilinden olan kimse

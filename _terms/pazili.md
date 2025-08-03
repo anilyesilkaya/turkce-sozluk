@@ -2,6 +2,7 @@
 layout: term
 title: pazılı
 slug: pazili
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pazısı olan

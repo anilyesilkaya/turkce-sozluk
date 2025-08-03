@@ -2,6 +2,7 @@
 layout: term
 title: telesimek
 slug: telesimek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Yorulmak, güçsüz kalmak, yorgunluktan bayılacak duruma gelmek

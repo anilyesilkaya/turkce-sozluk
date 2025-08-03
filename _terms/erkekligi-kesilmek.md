@@ -2,6 +2,7 @@
 layout: term
 title: erkekliği kesilmek
 slug: erkekligi-kesilmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - erkek fizyolojik görevini yerine getirememek

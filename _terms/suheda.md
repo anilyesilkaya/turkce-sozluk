@@ -2,6 +2,7 @@
 layout: term
 title: şüheda
 slug: suheda
+letter: Ş
 lisan: Arapça şuhedāʾ
 anlamlar:
 - Şehitler

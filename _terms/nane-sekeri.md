@@ -2,6 +2,7 @@
 layout: term
 title: nane şekeri
 slug: nane-sekeri
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nane ruhu karıştırılarak yapılan bir tür şeker

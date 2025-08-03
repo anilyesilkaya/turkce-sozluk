@@ -2,6 +2,7 @@
 layout: term
 title: söz birliği etmek
 slug: soz-birligi-etmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - ağız birliği etmek

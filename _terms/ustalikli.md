@@ -2,6 +2,7 @@
 layout: term
 title: ustalıklı
 slug: ustalikli
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ustalıkla yapılmış

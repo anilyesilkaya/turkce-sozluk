@@ -2,6 +2,7 @@
 layout: term
 title: seyirlik oyun
 slug: seyirlik-oyun
+letter: S
 lisan: Türkçe
 anlamlar:
 - Seyirci önünde gösterilen, genellikle beceriye dayanan, eğlendirici nitelikteki oyun

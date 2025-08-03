@@ -2,6 +2,7 @@
 layout: term
 title: zımbalanmak
 slug: zimbalanmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zımba ile delik açılmak

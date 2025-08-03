@@ -2,6 +2,7 @@
 layout: term
 title: usçu
 slug: uscu
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► akılcı

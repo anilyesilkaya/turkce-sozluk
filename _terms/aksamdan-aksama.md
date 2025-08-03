@@ -2,6 +2,7 @@
 layout: term
 title: akşamdan akşama
 slug: aksamdan-aksama
+letter: A
 lisan: Türkçe
 anlamlar:
 - Her akşam üst üste

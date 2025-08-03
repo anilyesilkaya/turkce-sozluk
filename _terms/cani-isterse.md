@@ -2,6 +2,7 @@
 layout: term
 title: canı isterse
 slug: cani-isterse
+letter: C
 lisan: Türkçe
 anlamlar:
 - '"kabul etmezse etmesin" anlamında kullanılan bir söz'

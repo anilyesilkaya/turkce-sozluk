@@ -2,6 +2,7 @@
 layout: term
 title: Boşnakça
 slug: bosnakca
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boşnakların kullandığı dil

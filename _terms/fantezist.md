@@ -2,6 +2,7 @@
 layout: term
 title: fantezist
 slug: fantezist
+letter: F
 lisan: Fransızca fantaisiste
 anlamlar:
 - Fantezi meraklısı, fanteziye düşkün kimse

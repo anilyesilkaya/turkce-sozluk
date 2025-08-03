@@ -2,6 +2,7 @@
 layout: term
 title: çarşılı
 slug: carsili
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çarşı esnafı

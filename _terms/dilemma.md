@@ -2,6 +2,7 @@
 layout: term
 title: dilemma
 slug: dilemma
+letter: D
 lisan: Yunanca
 anlamlar:
 - ► ikilem

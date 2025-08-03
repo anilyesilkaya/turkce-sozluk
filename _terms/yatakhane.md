@@ -2,6 +2,7 @@
 layout: term
 title: yatakhane
 slug: yatakhane
+letter: Y
 lisan: Türkçe yatak + Farsça ḫāne
 anlamlar:
 - Okul, fabrika vb. yerlerde yatakların konulduğu yer

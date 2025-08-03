@@ -2,6 +2,7 @@
 layout: term
 title: kazabilmek
 slug: kazabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kazma ihtimali veya imkânı bulunmak

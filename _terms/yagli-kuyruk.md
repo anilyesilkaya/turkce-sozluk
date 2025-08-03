@@ -2,6 +2,7 @@
 layout: term
 title: yağlı kuyruk
 slug: yagli-kuyruk
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Kolayca ve bolca yararlanılabilecek kaynak

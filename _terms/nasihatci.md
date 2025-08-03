@@ -2,6 +2,7 @@
 layout: term
 title: nasihatçi
 slug: nasihatci
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► öğütçü

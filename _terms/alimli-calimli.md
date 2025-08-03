@@ -2,6 +2,7 @@
 layout: term
 title: alımlı çalımlı
 slug: alimli-calimli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Çekici hareketleri olan

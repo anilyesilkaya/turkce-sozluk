@@ -2,6 +2,7 @@
 layout: term
 title: özgürce
 slug: ozgurce
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Özgür bir biçimde; özgürcesine

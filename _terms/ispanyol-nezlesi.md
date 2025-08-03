@@ -2,6 +2,7 @@
 layout: term
 title: İspanyol nezlesi
 slug: ispanyol-nezlesi
+letter: İ
 lisan: Türkçe
 anlamlar:
 - ► grip

@@ -2,6 +2,7 @@
 layout: term
 title: mekâncı
 slug: mekanci
+letter: M
 lisan: Türkçe
 anlamlar:
 - Bir yeri kendisine mekân tutan kimse

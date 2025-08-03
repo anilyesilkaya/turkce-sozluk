@@ -2,6 +2,7 @@
 layout: term
 title: Kova Burcu
 slug: kova-burcu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Zodyak üzerinde Oğlak Burcu ile Balık Burcu arasında bulunan takımyıldızın adı; Kova

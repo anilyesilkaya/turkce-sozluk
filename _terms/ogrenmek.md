@@ -2,6 +2,7 @@
 layout: term
 title: öğrenmek
 slug: ogrenmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Bilgi edinmek; bellemek (I)

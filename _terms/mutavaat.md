@@ -2,6 +2,7 @@
 layout: term
 title: mutavaat
 slug: mutavaat
+letter: M
 lisan: Arapça muṭāvaʿat
 anlamlar:
 - Boyun eğme

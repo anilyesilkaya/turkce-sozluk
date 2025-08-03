@@ -2,6 +2,7 @@
 layout: term
 title: şablon
 slug: sablon
+letter: Ş
 lisan: Almanca Schablone
 anlamlar:
 - Üzerindeki harf ve şekillerin çevre çizgileri kalem ucu girecek biçimde oyuk olan, bu çizgilerden kalemle istenilen biçim elde edilen, metal veya plastikten cetvel

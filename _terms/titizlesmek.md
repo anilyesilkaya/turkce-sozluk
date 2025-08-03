@@ -2,6 +2,7 @@
 layout: term
 title: titizleşmek
 slug: titizlesmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► titizlenmek

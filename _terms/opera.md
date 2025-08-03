@@ -2,6 +2,7 @@
 layout: term
 title: opera
 slug: opera
+letter: O
 lisan: İtalyanca opera
 anlamlar:
 - Sözlerinin bütünü veya çoğu şarkılı olarak söylenen müzikli tiyatro eseri

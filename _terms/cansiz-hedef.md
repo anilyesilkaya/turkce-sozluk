@@ -2,6 +2,7 @@
 layout: term
 title: cansız hedef
 slug: cansiz-hedef
+letter: C
 lisan: Türkçe
 anlamlar:
 - İnsan ve hayvan dışında ateş etmek için seçilen hedef

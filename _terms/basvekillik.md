@@ -2,6 +2,7 @@
 layout: term
 title: başvekillik
 slug: basvekillik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► başbakanlık

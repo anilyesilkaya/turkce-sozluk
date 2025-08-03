@@ -2,6 +2,7 @@
 layout: term
 title: riyal
 slug: riyal
+letter: R
 lisan: İspanyolca real
 anlamlar:
 - Pesetanın dörtte biri değerinde İspanya’nın para birimi

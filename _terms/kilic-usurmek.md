@@ -2,6 +2,7 @@
 layout: term
 title: kılıç üşürmek
 slug: kilic-usurmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - kılıç çekerek saldırmak

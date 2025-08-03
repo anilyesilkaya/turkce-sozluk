@@ -2,6 +2,7 @@
 layout: term
 title: han kapısından teğelti atmak
 slug: han-kapisindan-tegelti-atmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - defetmek, kovmak

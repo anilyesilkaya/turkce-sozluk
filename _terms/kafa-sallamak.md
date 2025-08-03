@@ -2,6 +2,7 @@
 layout: term
 title: kafa sallamak
 slug: kafa-sallamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - ikaz etmek için başını iki yana veya öne arkaya hafifçe eğmek

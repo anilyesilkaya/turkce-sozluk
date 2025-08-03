@@ -2,6 +2,7 @@
 layout: term
 title: günahkâr
 slug: gunahkar
+letter: G
 lisan: Farsça gunāhkār
 anlamlar:
 - Günah işlemiş, günahı olan; günahlı

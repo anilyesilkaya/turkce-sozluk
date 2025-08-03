@@ -2,6 +2,7 @@
 layout: term
 title: içi kağşamak
 slug: ici-kagsamak
+letter: I
 lisan: Türkçe
 anlamlar:
 - isteksiz ve gönülsüz olmak

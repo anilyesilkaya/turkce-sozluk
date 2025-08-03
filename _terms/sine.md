@@ -2,6 +2,7 @@
 layout: term
 title: sine
 slug: sine
+letter: S
 lisan: Farsça sīne
 anlamlar:
 - ► göğüs

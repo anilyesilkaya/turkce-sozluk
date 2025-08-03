@@ -2,6 +2,7 @@
 layout: term
 title: operakomik
 slug: operakomik
+letter: O
 lisan: Fransızca opéra-comique
 anlamlar:
 - Konuşmalı ve şarkılı bölümlerin bir arada bulunduğu oyun

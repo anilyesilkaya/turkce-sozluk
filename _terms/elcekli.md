@@ -2,6 +2,7 @@
 layout: term
 title: elçekli
 slug: elcekli
+letter: E
 lisan: Türkçe
 anlamlar:
 - Elçeği olan

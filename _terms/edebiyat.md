@@ -2,6 +2,7 @@
 layout: term
 title: edebiyat
 slug: edebiyat
+letter: E
 lisan: Arapça edebiyyāt
 anlamlar:
 - Olay, düşünce, duygu ve hayallerin dil aracılığıyla sözlü veya yazılı olarak biçimlendirilmesi sanatı; yazın (II), gökçe yazın

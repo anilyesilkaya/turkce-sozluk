@@ -2,6 +2,7 @@
 layout: term
 title: bedenen
 slug: bedenen
+letter: B
 lisan: Arapça bedenen
 anlamlar:
 - Beden bakımından

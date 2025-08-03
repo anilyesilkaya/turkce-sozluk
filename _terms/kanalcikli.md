@@ -2,6 +2,7 @@
 layout: term
 title: kanalcıklı
 slug: kanalcikli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kanalcığı olan

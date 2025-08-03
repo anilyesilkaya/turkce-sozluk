@@ -2,6 +2,7 @@
 layout: term
 title: zail olmak
 slug: zail-olmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - yok olmak, ortadan kalkmak

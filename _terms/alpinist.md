@@ -2,6 +2,7 @@
 layout: term
 title: alpinist
 slug: alpinist
+letter: A
 lisan: Fransızca alpiniste
 anlamlar:
 - ► dağcı

@@ -2,6 +2,7 @@
 layout: term
 title: pişmanlık duymak (veya getirmek)
 slug: pismanlik-duymak-veya-getirmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - pişman olmak

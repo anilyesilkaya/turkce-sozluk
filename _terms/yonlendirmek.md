@@ -2,6 +2,7 @@
 layout: term
 title: yönlendirmek
 slug: yonlendirmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir kimsenin davranış, tutum, yapacağı iş vb. alanlarda izleyeceği yolu göstermek

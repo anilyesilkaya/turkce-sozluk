@@ -2,6 +2,7 @@
 layout: term
 title: folk müziği
 slug: folk-muzigi
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► halk müziği

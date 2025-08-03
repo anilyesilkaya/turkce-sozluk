@@ -2,6 +2,7 @@
 layout: term
 title: aklıma gelen başıma geldi
 slug: aklima-gelen-basima-geldi
+letter: A
 lisan: Türkçe
 anlamlar:
 - '"olmasından korktuğum şey oldu" anlamında kullanılan bir söz'

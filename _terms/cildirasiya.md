@@ -2,6 +2,7 @@
 layout: term
 title: çıldırasıya
 slug: cildirasiya
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çılgınca

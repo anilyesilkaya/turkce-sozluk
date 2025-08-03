@@ -2,6 +2,7 @@
 layout: term
 title: larvacıl
 slug: larvacil
+letter: L
 lisan: Türkçe
 anlamlar:
 - Larvayla beslenen (hayvan)

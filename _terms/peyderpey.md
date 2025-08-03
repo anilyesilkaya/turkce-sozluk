@@ -2,6 +2,7 @@
 layout: term
 title: peyderpey
 slug: peyderpey
+letter: P
 lisan: Farsça peyderpey
 anlamlar:
 - Azar azar, bölüm bölüm, yavaş yavaş

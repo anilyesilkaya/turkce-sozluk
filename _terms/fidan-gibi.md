@@ -2,6 +2,7 @@
 layout: term
 title: fidan gibi
 slug: fidan-gibi
+letter: F
 lisan: Türkçe
 anlamlar:
 - ince ve uzun (boy)

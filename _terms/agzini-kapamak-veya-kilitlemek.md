@@ -2,6 +2,7 @@
 layout: term
 title: ağzını kapamak (veya kilitlemek)
 slug: agzini-kapamak-veya-kilitlemek
+letter: A
 lisan: Türkçe
 anlamlar:
 - susmak, bir şey söylemek istememek

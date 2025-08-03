@@ -2,6 +2,7 @@
 layout: term
 title: acıkıvermek
 slug: acikivermek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Çabucak acıkmak

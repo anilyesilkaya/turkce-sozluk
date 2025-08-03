@@ -2,6 +2,7 @@
 layout: term
 title: müstehap
 slug: mustehap
+letter: M
 lisan: Arapça musteḥabb
 anlamlar:
 - Hoşa giden, sevilen, beğenilen

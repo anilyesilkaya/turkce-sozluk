@@ -2,6 +2,7 @@
 layout: term
 title: altınsız
 slug: altinsiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Altına sahip olmayan (kimse)

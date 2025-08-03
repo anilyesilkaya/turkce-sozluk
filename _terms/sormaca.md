@@ -2,6 +2,7 @@
 layout: term
 title: sormaca
 slug: sormaca
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► anket

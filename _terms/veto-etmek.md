@@ -2,6 +2,7 @@
 layout: term
 title: veto etmek
 slug: veto-etmek
+letter: V
 lisan: Türkçe
 anlamlar:
 - reddetmek, kabul etmemek

@@ -2,6 +2,7 @@
 layout: term
 title: sucu
 slug: sucu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Su satan veya evlere su taşıyan kimse

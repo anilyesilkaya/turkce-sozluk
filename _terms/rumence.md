@@ -2,6 +2,7 @@
 layout: term
 title: Rumence
 slug: rumence
+letter: R
 lisan: Türkçe
 anlamlar:
 - Rumenlerin kullandığı dil

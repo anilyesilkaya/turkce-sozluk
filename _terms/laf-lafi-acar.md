@@ -2,6 +2,7 @@
 layout: term
 title: laf lafı açar
 slug: laf-lafi-acar
+letter: L
 lisan: Türkçe
 anlamlar:
 - '"bir konu üzerinde konuşulurken ilgisi dolayısıyla söz başka bir konuya geçer, sohbet uzar, gider" anlamında kullanılan bir söz'

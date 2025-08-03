@@ -2,6 +2,7 @@
 layout: term
 title: emeline alet etmek
 slug: emeline-alet-etmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - birini veya bir şeyi kendi istekleri doğrultusunda kullanmak

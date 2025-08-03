@@ -2,6 +2,7 @@
 layout: term
 title: toparlanış
 slug: toparlanis
+letter: T
 lisan: Türkçe
 anlamlar:
 - Toparlanmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: teslim
 slug: teslim
+letter: T
 lisan: Arapça teslīm
 anlamlar:
 - Bir şeyi sahibine verme

@@ -2,6 +2,7 @@
 layout: term
 title: yaşı yerde (veya toprakta) sayılası
 slug: yasi-yerde-veya-toprakta-sayilasi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - '"ölsün" anlamında kullanılan bir ilenme sözü'

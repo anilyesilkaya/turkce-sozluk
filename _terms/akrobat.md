@@ -2,6 +2,7 @@
 layout: term
 title: akrobat
 slug: akrobat
+letter: A
 lisan: Fransızca acrobate
 anlamlar:
 - ► cambaz

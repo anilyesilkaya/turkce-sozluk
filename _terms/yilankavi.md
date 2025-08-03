@@ -2,6 +2,7 @@
 layout: term
 title: yılankavi
 slug: yilankavi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Dolambaçlı, dolanarak giden

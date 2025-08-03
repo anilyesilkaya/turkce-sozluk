@@ -2,6 +2,7 @@
 layout: term
 title: dökülüp saçılmak
 slug: dokulup-sacilmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - soyunmak, çok açılmak

@@ -2,6 +2,7 @@
 layout: term
 title: azgınlaşmak
 slug: azginlasmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Azgın duruma gelmek

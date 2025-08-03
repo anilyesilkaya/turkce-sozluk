@@ -2,6 +2,7 @@
 layout: term
 title: rahatsızlık duymak
 slug: rahatsizlik-duymak
+letter: R
 lisan: Türkçe
 anlamlar:
 - tedirgin olmak, huzurunun ve rahatının kaçtığını hissetmek

@@ -2,6 +2,7 @@
 layout: term
 title: vesika
 slug: vesika
+letter: V
 lisan: Arapça ves̱īḳa
 anlamlar:
 - ► belge

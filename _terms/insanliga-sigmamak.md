@@ -2,6 +2,7 @@
 layout: term
 title: insanlığa sığmamak
 slug: insanliga-sigmamak
+letter: I
 lisan: Türkçe
 anlamlar:
 - insanı insan yapan, insanın doğasını oluşturan niteliklere yakışmamak

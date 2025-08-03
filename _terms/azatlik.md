@@ -2,6 +2,7 @@
 layout: term
 title: azatlık
 slug: azatlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Azat olma durumu

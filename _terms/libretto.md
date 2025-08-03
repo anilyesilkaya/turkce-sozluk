@@ -2,6 +2,7 @@
 layout: term
 title: libretto
 slug: libretto
+letter: L
 lisan: İtalyanca libretto
 anlamlar:
 - Bir operanın sözlerinin yazılı bulunduğu kitap

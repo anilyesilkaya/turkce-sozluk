@@ -2,6 +2,7 @@
 layout: term
 title: açık kredi
 slug: acik-kredi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bankaların güvendikleri müşterilere rehin, ipotek veya kefil istemeksizin verdikleri borç para

@@ -2,6 +2,7 @@
 layout: term
 title: eninde sonunda
 slug: eninde-sonunda
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► önünde sonunda

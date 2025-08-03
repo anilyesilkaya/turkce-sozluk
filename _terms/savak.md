@@ -2,6 +2,7 @@
 layout: term
 title: savak
 slug: savak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Suyu başka yöne akıtmak için yapılan düzenek

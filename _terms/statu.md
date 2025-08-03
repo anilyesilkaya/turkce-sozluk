@@ -2,6 +2,7 @@
 layout: term
 title: statü
 slug: statu
+letter: S
 lisan: Fransızca statut
 anlamlar:
 - Bir kimsenin, bir kurum veya bir toplum içindeki durumu

@@ -2,6 +2,7 @@
 layout: term
 title: kovalatma
 slug: kovalatma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kovalatmak işi

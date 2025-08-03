@@ -2,6 +2,7 @@
 layout: term
 title: aksine
 slug: aksine
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► tersine

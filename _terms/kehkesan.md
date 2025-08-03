@@ -2,6 +2,7 @@
 layout: term
 title: Kehkeşan
 slug: kehkesan
+letter: K
 lisan: Farsça kehkeşān
 anlamlar:
 - ► Samanyolu

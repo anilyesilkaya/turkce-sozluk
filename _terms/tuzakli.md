@@ -2,6 +2,7 @@
 layout: term
 title: tuzaklı
 slug: tuzakli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tuzağı bulunan

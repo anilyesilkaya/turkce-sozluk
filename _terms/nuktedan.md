@@ -2,6 +2,7 @@
 layout: term
 title: nüktedan
 slug: nuktedan
+letter: N
 lisan: Arapça nukte + Farsça -dān
 anlamlar:
 - ► nükteci

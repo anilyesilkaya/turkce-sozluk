@@ -2,6 +2,7 @@
 layout: term
 title: perhize çekmek
 slug: perhize-cekmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - perhizi titizlikle uygulamak

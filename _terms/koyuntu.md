@@ -2,6 +2,7 @@
 layout: term
 title: koyuntu
 slug: koyuntu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sıkıntı, üzüntü, keder

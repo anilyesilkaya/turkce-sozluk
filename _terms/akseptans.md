@@ -2,6 +2,7 @@
 layout: term
 title: akseptans
 slug: akseptans
+letter: A
 lisan: İngilizce acceptance
 anlamlar:
 - Yabancı ülkelerde okuyacak öğrenciler için yabancı üniversitenin ilgililerince gönderilen kabul belgesi

@@ -2,6 +2,7 @@
 layout: term
 title: loşça
 slug: losca
+letter: L
 lisan: Türkçe
 anlamlar:
 - Az ışık almış, yarı karanlık

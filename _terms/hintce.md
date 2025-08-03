@@ -2,6 +2,7 @@
 layout: term
 title: Hintçe
 slug: hintce
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hintlerin kullandığı dil

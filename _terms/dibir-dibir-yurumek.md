@@ -2,6 +2,7 @@
 layout: term
 title: dıbır dıbır yürümek
 slug: dibir-dibir-yurumek
+letter: D
 lisan: Türkçe
 anlamlar:
 - hafif ve düzenli biçimde ses çıkararak yürümek

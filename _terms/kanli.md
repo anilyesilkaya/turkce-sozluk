@@ -2,6 +2,7 @@
 layout: term
 title: kanlı
 slug: kanli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kan bulaşmış

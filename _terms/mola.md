@@ -2,6 +2,7 @@
 layout: term
 title: mola
 slug: mola
+letter: M
 lisan: İtalyanca mola
 anlamlar:
 - Yorgunluğu gidermek için duraklama

@@ -2,6 +2,7 @@
 layout: term
 title: güleçlik
 slug: guleclik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güleç olma durumu

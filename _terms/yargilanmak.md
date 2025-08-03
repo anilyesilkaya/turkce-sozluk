@@ -2,6 +2,7 @@
 layout: term
 title: yargılanmak
 slug: yargilanmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yargılama işi yapılmak

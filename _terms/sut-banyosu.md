@@ -2,6 +2,7 @@
 layout: term
 title: süt banyosu
 slug: sut-banyosu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sağlık vb. amaçlarla içerisine süt katılmış suyla yapılan banyo

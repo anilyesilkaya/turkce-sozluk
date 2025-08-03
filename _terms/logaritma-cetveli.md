@@ -2,6 +2,7 @@
 layout: term
 title: 'logaritma cetveli '
 slug: logaritma-cetveli
+letter: L
 lisan: Türkçe
 anlamlar:
 - ► logaritma tablosu

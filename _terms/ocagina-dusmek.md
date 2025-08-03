@@ -2,6 +2,7 @@
 layout: term
 title: ocağına düşmek
 slug: ocagina-dusmek
+letter: O
 lisan: Türkçe
 anlamlar:
 - istemediği hâlde birinin yardımına muhtaç kalmak

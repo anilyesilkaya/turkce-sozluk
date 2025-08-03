@@ -2,6 +2,7 @@
 layout: term
 title: bitlenme
 slug: bitlenme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bitlenmek işi

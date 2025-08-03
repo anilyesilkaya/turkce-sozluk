@@ -2,6 +2,7 @@
 layout: term
 title: cirit ucu
 slug: cirit-ucu
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cirit sopasının ucundaki demir, temren

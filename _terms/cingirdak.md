@@ -2,6 +2,7 @@
 layout: term
 title: çıngırdak
 slug: cingirdak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çıngırak

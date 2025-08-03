@@ -2,6 +2,7 @@
 layout: term
 title: buhur
 slug: buhur
+letter: B
 lisan: Arapça baḫūr
 anlamlar:
 - Dinî törenlerde yakılan kokulu ağaç vb. maddeler

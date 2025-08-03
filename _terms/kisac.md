@@ -2,6 +2,7 @@
 layout: term
 title: kısaç
 slug: kisac
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kıskaç

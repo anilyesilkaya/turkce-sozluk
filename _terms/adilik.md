@@ -2,6 +2,7 @@
 layout: term
 title: adilik
 slug: adilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► aşağılık

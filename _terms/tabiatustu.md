@@ -2,6 +2,7 @@
 layout: term
 title: tabiatüstü
 slug: tabiatustu
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► doğaüstü

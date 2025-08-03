@@ -2,6 +2,7 @@
 layout: term
 title: isteme kipleri
 slug: isteme-kipleri
+letter: I
 lisan: Türkçe
 anlamlar:
 - Dilek, istek, gereklik ve emir kavramları veren kipler

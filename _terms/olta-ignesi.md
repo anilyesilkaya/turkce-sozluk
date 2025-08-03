@@ -2,6 +2,7 @@
 layout: term
 title: olta iğnesi
 slug: olta-ignesi
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oltanın ucuna takılan ve biçimlerine göre değişik adlarla anılan küçük çengel

@@ -2,6 +2,7 @@
 layout: term
 title: 'Karahanlı Türkçesi '
 slug: karahanli-turkcesi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karahanlı Devleti’nde kullanılan konuşma ve yazı dili; Karahanlıca, Hakaniye Türkçesi

@@ -2,6 +2,7 @@
 layout: term
 title: hatırlamak
 slug: hatirlamak
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► anımsamak

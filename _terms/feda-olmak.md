@@ -2,6 +2,7 @@
 layout: term
 title: feda olmak
 slug: feda-olmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - uğrunda yok olmak

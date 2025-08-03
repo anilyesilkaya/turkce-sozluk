@@ -2,6 +2,7 @@
 layout: term
 title: sonuncu
 slug: sonuncu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Zaman, yer, sıra bakımından başkalarına göre sonda olan kimse, şey

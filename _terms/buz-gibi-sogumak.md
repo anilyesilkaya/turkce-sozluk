@@ -2,6 +2,7 @@
 layout: term
 title: buz gibi soğumak
 slug: buz-gibi-sogumak
+letter: B
 lisan: Türkçe
 anlamlar:
 - birine veya bir şeye karşı eski sevgisi birdenbire yok olmak, nefret etmeye başlamak

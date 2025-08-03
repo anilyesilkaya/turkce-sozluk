@@ -2,6 +2,7 @@
 layout: term
 title: kafadan kontaklık
 slug: kafadan-kontaklik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kafadan kontak olma durumu

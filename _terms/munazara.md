@@ -2,6 +2,7 @@
 layout: term
 title: münazara
 slug: munazara
+letter: M
 lisan: Arapça munāẓara
 anlamlar:
 - Bir konu üzerinde, belli kural ve yöntemlere uyularak yapılan tartışma

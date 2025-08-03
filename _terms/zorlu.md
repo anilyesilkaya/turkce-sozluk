@@ -2,6 +2,7 @@
 layout: term
 title: zorlu
 slug: zorlu
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► şiddetli

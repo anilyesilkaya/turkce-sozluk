@@ -2,6 +2,7 @@
 layout: term
 title: tergal
 slug: tergal
+letter: T
 lisan: Fransızca tergal
 anlamlar:
 - ► terilen

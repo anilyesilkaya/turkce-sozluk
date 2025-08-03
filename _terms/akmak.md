@@ -2,6 +2,7 @@
 layout: term
 title: akmak
 slug: akmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Sıvı maddeler veya çok ince taneli katı maddeler bir yerden başka bir yere doğru gitmek

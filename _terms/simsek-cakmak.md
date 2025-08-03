@@ -2,6 +2,7 @@
 layout: term
 title: şimşek çakmak
 slug: simsek-cakmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - şimşek oluşmak

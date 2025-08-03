@@ -2,6 +2,7 @@
 layout: term
 title: yemin kasem
 slug: yemin-kasem
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yemin ederek

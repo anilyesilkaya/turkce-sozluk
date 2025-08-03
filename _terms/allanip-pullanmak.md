@@ -2,6 +2,7 @@
 layout: term
 title: allanıp pullanmak
 slug: allanip-pullanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - çok süslenmek

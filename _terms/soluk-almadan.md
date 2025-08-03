@@ -2,6 +2,7 @@
 layout: term
 title: soluk almadan
 slug: soluk-almadan
+letter: S
 lisan: Türkçe
 anlamlar:
 - Büyük bir dikkatle

@@ -2,6 +2,7 @@
 layout: term
 title: saf
 slug: saf
+letter: S
 lisan: Arapça ṣāf
 anlamlar:
 - İçine başka şeyler karışmamış olan; katışıksız, doğal, halis, has, öz (II), som (I)

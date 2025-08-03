@@ -2,6 +2,7 @@
 layout: term
 title: konuk köşesi
 slug: konuk-kosesi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Konukların oturması için hazırlanmış özel yer

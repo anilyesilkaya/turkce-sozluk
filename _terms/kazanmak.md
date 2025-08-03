@@ -2,6 +2,7 @@
 layout: term
 title: kazanmak
 slug: kazanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kazanç sağlamak

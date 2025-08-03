@@ -2,6 +2,7 @@
 layout: term
 title: çekiver kuyruğunu
 slug: cekiver-kuyrugunu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - '"artık ondan hayır bekleme" anlamında kullanılan bir söz'

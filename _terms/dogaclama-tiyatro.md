@@ -2,6 +2,7 @@
 layout: term
 title: doğaçlama tiyatro
 slug: dogaclama-tiyatro
+letter: D
 lisan: Türkçe
 anlamlar:
 - Önceden yazılmış metne dayanmayan, taslağı önceden kararlaştırılmış olan halk tiyatrosu; tuluat tiyatrosu

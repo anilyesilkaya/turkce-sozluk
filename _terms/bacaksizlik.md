@@ -2,6 +2,7 @@
 layout: term
 title: bacaksızlık
 slug: bacaksizlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bacaksız olma durumu

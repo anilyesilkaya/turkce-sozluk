@@ -2,6 +2,7 @@
 layout: term
 title: polen
 slug: polen
+letter: P
 lisan: Fransızca pollen
 anlamlar:
 - Çiçek tozu

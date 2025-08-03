@@ -2,6 +2,7 @@
 layout: term
 title: mahvetmek
 slug: mahvetmek
+letter: M
 lisan: Arapça maḥv + Türkçe etmek
 anlamlar:
 - Yok etmek

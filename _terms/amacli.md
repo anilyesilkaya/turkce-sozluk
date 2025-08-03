@@ -2,6 +2,7 @@
 layout: term
 title: amaçlı
 slug: amacli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Amacı olan; gayeli, maksatlı

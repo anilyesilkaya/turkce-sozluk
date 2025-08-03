@@ -2,6 +2,7 @@
 layout: term
 title: suratlı
 slug: suratli
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► yüzlü

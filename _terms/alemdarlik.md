@@ -2,6 +2,7 @@
 layout: term
 title: alemdarlık
 slug: alemdarlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alemdarın yaptığı iş

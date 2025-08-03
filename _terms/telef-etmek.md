@@ -2,6 +2,7 @@
 layout: term
 title: telef etmek
 slug: telef-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - hayvanı öldürmek

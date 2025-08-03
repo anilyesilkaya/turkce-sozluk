@@ -2,6 +2,7 @@
 layout: term
 title: sansür
 slug: sansur
+letter: S
 lisan: Fransızca censure
 anlamlar:
 - Her türlü yayının, sinema ve tiyatro eserinin hükûmetçe önceden denetlenmesi işi; sıkı denetim

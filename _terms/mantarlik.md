@@ -2,6 +2,7 @@
 layout: term
 title: mantarlık
 slug: mantarlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Yenilebilen mantarların yetiştirildiği yer

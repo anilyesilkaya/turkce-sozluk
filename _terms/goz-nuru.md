@@ -2,6 +2,7 @@
 layout: term
 title: göz nuru
 slug: goz-nuru
+letter: G
 lisan: Türkçe
 anlamlar:
 - Yoğun bir emek sonucu ortaya çıkan iş

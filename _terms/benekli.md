@@ -2,6 +2,7 @@
 layout: term
 title: benekli
 slug: benekli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Benekleri bulunan

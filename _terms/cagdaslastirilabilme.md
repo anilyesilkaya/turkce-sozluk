@@ -2,6 +2,7 @@
 layout: term
 title: çağdaşlaştırılabilme
 slug: cagdaslastirilabilme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çağdaşlaştırılabilmek işi

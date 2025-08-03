@@ -2,6 +2,7 @@
 layout: term
 title: çatışma
 slug: catisma
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çatışmak işi

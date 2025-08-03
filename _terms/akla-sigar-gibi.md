@@ -2,6 +2,7 @@
 layout: term
 title: akla sığar gibi
 slug: akla-sigar-gibi
+letter: A
 lisan: Türkçe
 anlamlar:
 - aklın kabul edebileceği bir biçimde, makul

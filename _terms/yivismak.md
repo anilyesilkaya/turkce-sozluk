@@ -2,6 +2,7 @@
 layout: term
 title: yıvışmak
 slug: yivismak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Cıvık bir duruma gelmek

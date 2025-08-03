@@ -2,6 +2,7 @@
 layout: term
 title: borçlu
 slug: borclu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Borcu olan, borç almış olan; verecekli, medyun, alacaklı karşıtı

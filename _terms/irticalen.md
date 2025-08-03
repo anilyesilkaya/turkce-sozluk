@@ -2,6 +2,7 @@
 layout: term
 title: irticalen
 slug: irticalen
+letter: I
 lisan: Arapça irticālen
 anlamlar:
 - ► doğaçlama

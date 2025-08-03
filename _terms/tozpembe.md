@@ -2,6 +2,7 @@
 layout: term
 title: tozpembe
 slug: tozpembe
+letter: T
 lisan: Türkçe
 anlamlar:
 - Açık pembe renk

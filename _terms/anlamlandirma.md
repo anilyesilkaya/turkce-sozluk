@@ -2,6 +2,7 @@
 layout: term
 title: anlamlandırma
 slug: anlamlandirma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anlamlandırmak işi; anlamlama

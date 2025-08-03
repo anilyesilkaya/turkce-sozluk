@@ -2,6 +2,7 @@
 layout: term
 title: aması var
 slug: amasi-var
+letter: A
 lisan: Türkçe
 anlamlar:
 - '"herkesin bilmediği sakıncası veya kusurları var" anlamında kullanılan bir söz'

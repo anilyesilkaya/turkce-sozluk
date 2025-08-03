@@ -2,6 +2,7 @@
 layout: term
 title: almaş
 slug: almas
+letter: A
 lisan: Türkçe
 anlamlar:
 - İki veya daha çok şeyin sıra ile değiştirilerek kullanılması veya kendiliğinden değişerek çalışması; keşikleme, münavebe

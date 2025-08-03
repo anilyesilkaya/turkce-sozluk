@@ -2,6 +2,7 @@
 layout: term
 title: ditmek
 slug: ditmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Yün, pamuk vb.ni tellere ayırarak kabartmak

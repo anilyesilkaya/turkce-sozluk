@@ -2,6 +2,7 @@
 layout: term
 title: vehimli
 slug: vehimli
+letter: V
 lisan: Türkçe
 anlamlar:
 - ► kuruntulu

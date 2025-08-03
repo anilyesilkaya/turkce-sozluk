@@ -2,6 +2,7 @@
 layout: term
 title: çivici
 slug: civici
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çivi yapan veya satan kimse; mıhçı

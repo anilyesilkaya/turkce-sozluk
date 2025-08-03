@@ -2,6 +2,7 @@
 layout: term
 title: yatıştırma
 slug: yatistirma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yatıştırmak işi

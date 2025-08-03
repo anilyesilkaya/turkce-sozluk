@@ -2,6 +2,7 @@
 layout: term
 title: şallak
 slug: sallak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► çıplak

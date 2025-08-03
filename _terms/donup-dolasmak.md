@@ -2,6 +2,7 @@
 layout: term
 title: dönüp dolaşmak
 slug: donup-dolasmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - uzun süre gezmek

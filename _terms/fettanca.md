@@ -2,6 +2,7 @@
 layout: term
 title: fettanca
 slug: fettanca
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fettan gibi

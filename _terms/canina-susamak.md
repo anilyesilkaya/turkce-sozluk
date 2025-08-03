@@ -2,6 +2,7 @@
 layout: term
 title: canına susamak
 slug: canina-susamak
+letter: C
 lisan: Türkçe
 anlamlar:
 - birini öldürmeyi istemek

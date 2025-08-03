@@ -2,6 +2,7 @@
 layout: term
 title: satabilmek
 slug: satabilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Satma ihtimali veya imkânı bulunmak

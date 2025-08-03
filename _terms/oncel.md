@@ -2,6 +2,7 @@
 layout: term
 title: öncel
 slug: oncel
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► ilk

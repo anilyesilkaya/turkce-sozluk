@@ -2,6 +2,7 @@
 layout: term
 title: şahniş
 slug: sahnis
+letter: Ş
 lisan: Farsça şāhnīş
 anlamlar:
 - ► şahnişin

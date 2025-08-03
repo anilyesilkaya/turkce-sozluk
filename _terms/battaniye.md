@@ -2,6 +2,7 @@
 layout: term
 title: battaniye
 slug: battaniye
+letter: B
 lisan: Arapça baṭṭāniyye
 anlamlar:
 - Yorgan yerine veya yorgan üstünde kullanılan, çoğu yünden dokunmuş kalınca örtü

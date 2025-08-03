@@ -2,6 +2,7 @@
 layout: term
 title: çift dikiş
 slug: cift-dikis
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Birbirlerinden geçen iki sıra düz dikiş

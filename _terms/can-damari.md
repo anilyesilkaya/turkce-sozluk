@@ -2,6 +2,7 @@
 layout: term
 title: can damarı
 slug: can-damari
+letter: C
 lisan: Türkçe
 anlamlar:
 - En önemli veya hassas nokta, bir şeyin yaşaması için en önemli araç

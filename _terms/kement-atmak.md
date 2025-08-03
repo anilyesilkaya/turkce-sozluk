@@ -2,6 +2,7 @@
 layout: term
 title: kement atmak
 slug: kement-atmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kemendi bir ucu elde kalacak biçimde ileri doğru fırlatmak

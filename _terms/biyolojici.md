@@ -2,6 +2,7 @@
 layout: term
 title: biyolojici
 slug: biyolojici
+letter: B
 lisan: Türkçe
 anlamlar:
 - Okulda biyoloji dersini veren öğretmen

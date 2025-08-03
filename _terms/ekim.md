@@ -2,6 +2,7 @@
 layout: term
 title: ekim
 slug: ekim
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ekmek işi

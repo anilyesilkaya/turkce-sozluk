@@ -2,6 +2,7 @@
 layout: term
 title: uyku semesi
 slug: uyku-semesi
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► uyku sersemi

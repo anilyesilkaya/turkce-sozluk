@@ -2,6 +2,7 @@
 layout: term
 title: çarkçı
 slug: carkci
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Kesici aletleri çarkla bileyen kimse; bileyici

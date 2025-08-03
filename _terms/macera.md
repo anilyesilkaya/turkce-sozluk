@@ -2,6 +2,7 @@
 layout: term
 title: macera
 slug: macera
+letter: M
 lisan: Arapça mācerā
 anlamlar:
 - Baştan geçen ilginç olay veya olaylar zinciri; serüven, sergüzeşt, avantür

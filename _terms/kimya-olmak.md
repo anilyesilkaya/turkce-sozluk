@@ -2,6 +2,7 @@
 layout: term
 title: kimya olmak
 slug: kimya-olmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - bulunmaz olmak

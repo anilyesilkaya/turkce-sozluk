@@ -2,6 +2,7 @@
 layout: term
 title: duvaklanmak
 slug: duvaklanmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Duvak örtünmek

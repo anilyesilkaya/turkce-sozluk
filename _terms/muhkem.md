@@ -2,6 +2,7 @@
 layout: term
 title: muhkem
 slug: muhkem
+letter: M
 lisan: Arapça muḥkem
 anlamlar:
 - ► sağlam

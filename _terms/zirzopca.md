@@ -2,6 +2,7 @@
 layout: term
 title: zirzopça
 slug: zirzopca
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► zıpırca

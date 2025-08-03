@@ -2,6 +2,7 @@
 layout: term
 title: orta hâlli
 slug: orta-halli
+letter: O
 lisan: Türkçe
 anlamlar:
 - Gelir düzeyi ne düşük ne de yüksek olan

@@ -2,6 +2,7 @@
 layout: term
 title: Bulgarca
 slug: bulgarca
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bulgarların kullandığı dil

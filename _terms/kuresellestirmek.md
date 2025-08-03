@@ -2,6 +2,7 @@
 layout: term
 title: küreselleştirmek
 slug: kuresellestirmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Küreselleşme işini yaptırmak; globalleştirmek

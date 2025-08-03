@@ -2,6 +2,7 @@
 layout: term
 title: miskinleşmek
 slug: miskinlesmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - Uyuşuk, tembel duruma gelmek

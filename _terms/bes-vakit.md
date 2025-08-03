@@ -2,6 +2,7 @@
 layout: term
 title: beş vakit
 slug: bes-vakit
+letter: B
 lisan: Türkçe
 anlamlar:
 - Günün sabah, öğle, ikindi, akşam ve yatsı zamanları

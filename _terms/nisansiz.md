@@ -2,6 +2,7 @@
 layout: term
 title: nişansız
 slug: nisansiz
+letter: N
 lisan: Türkçe
 anlamlar:
 - Belirleyici bir işareti, alameti, nişanı olmayan

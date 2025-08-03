@@ -2,6 +2,7 @@
 layout: term
 title: termit
 slug: termit
+letter: T
 lisan: Fransızca termite
 anlamlar:
 - ► akkarınca

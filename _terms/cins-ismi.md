@@ -2,6 +2,7 @@
 layout: term
 title: cins ismi
 slug: cins-ismi
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► cins adı

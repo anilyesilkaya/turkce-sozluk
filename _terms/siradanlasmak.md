@@ -2,6 +2,7 @@
 layout: term
 title: sıradanlaşmak
 slug: siradanlasmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► bayağılaşmak

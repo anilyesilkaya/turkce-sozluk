@@ -2,6 +2,7 @@
 layout: term
 title: taç yaprak
 slug: tac-yaprak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tacı oluşturan yaprakçıklardan her biri; taç yaprağı

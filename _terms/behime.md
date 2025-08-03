@@ -2,6 +2,7 @@
 layout: term
 title: behime
 slug: behime
+letter: B
 lisan: Arapça behīme
 anlamlar:
 - Dört ayaklı hayvan

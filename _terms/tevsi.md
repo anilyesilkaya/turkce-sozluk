@@ -2,6 +2,7 @@
 layout: term
 title: tevsi
 slug: tevsi
+letter: T
 lisan: Arapça tevsīʿ
 anlamlar:
 - ► genişletme

@@ -2,6 +2,7 @@
 layout: term
 title: montgomer
 slug: montgomer
+letter: M
 lisan: (Montgomery özel adından)
 anlamlar:
 - ► mont

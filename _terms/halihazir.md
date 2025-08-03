@@ -2,6 +2,7 @@
 layout: term
 title: hâlihazır
 slug: halihazir
+letter: H
 lisan: Arapça ḥāl + ḥāżir
 anlamlar:
 - Şimdiki durum, bugünkü durum

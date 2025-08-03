@@ -2,6 +2,7 @@
 layout: term
 title: çıkık
 slug: cikik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir kemik veya organın yerinden çıkmış olması

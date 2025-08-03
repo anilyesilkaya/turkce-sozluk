@@ -2,6 +2,7 @@
 layout: term
 title: gezdirici
 slug: gezdirici
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gezdiren kimse

@@ -2,6 +2,7 @@
 layout: term
 title: mapa
 slug: mapa
+letter: M
 lisan: İtalyanca mappa
 anlamlar:
 - Ucu halkalı cıvata

@@ -2,6 +2,7 @@
 layout: term
 title: çekinti
 slug: cekinti
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Duraksama, kararsızlık, tereddüt

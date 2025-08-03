@@ -2,6 +2,7 @@
 layout: term
 title: gözcü
 slug: gozcu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gözlemleme veya gözetleme işini yapan kimse; dideban

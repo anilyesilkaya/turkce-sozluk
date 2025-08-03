@@ -2,6 +2,7 @@
 layout: term
 title: nazırlık
 slug: nazirlik
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nazır olma durumu

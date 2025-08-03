@@ -2,6 +2,7 @@
 layout: term
 title: yemenili
 slug: yemenili
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yemeni takmış olan

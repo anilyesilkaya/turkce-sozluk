@@ -2,6 +2,7 @@
 layout: term
 title: plaket töreni
 slug: plaket-toreni
+letter: P
 lisan: Türkçe
 anlamlar:
 - Kişilere veya kurumlara bir hizmetine, bir başarısına karşılık olarak veya teşekkür amaçlı onurluk verme toplantısı

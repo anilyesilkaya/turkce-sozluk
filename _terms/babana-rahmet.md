@@ -2,6 +2,7 @@
 layout: term
 title: babana rahmet
 slug: babana-rahmet
+letter: B
 lisan: Türkçe
 anlamlar:
 - yapılan bir iş, bir davranış karşısında "Allah senden razı olsun." anlamında kullanılan bir söz

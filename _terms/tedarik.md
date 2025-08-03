@@ -2,6 +2,7 @@
 layout: term
 title: tedarik
 slug: tedarik
+letter: T
 lisan: Arapça tedāruk
 anlamlar:
 - Araştırıp bulma, sağlama, elde etme

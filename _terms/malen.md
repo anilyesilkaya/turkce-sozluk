@@ -2,6 +2,7 @@
 layout: term
 title: malen
 slug: malen
+letter: M
 lisan: Arapça mālen
 anlamlar:
 - ► malca

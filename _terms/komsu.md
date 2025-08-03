@@ -2,6 +2,7 @@
 layout: term
 title: komşu
 slug: komsu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Konutları yakın olan kimselerin birbirine göre aldıkları ad

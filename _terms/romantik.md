@@ -2,6 +2,7 @@
 layout: term
 title: romantik
 slug: romantik
+letter: R
 lisan: Fransızca romantique
 anlamlar:
 - Davranışlarında duygu ve coşkunun aşırı ölçüde etkisi bulunan

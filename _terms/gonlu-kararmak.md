@@ -2,6 +2,7 @@
 layout: term
 title: gönlü kararmak
 slug: gonlu-kararmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - iç sıkıntısı duymak, kötü şeyler hissetmek

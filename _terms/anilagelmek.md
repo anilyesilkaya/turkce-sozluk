@@ -2,6 +2,7 @@
 layout: term
 title: anılagelmek
 slug: anilagelmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Sürekli olarak anılmak

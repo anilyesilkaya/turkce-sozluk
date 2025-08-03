@@ -2,6 +2,7 @@
 layout: term
 title: büfeci
 slug: bufeci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Büfe işleten kimse

@@ -2,6 +2,7 @@
 layout: term
 title: horoz sıklet
 slug: horoz-siklet
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► hafif sıklet

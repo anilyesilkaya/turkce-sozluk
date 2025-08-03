@@ -2,6 +2,7 @@
 layout: term
 title: haysiyetine dokunmak
 slug: haysiyetine-dokunmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - onuru incinmek

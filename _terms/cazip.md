@@ -2,6 +2,7 @@
 layout: term
 title: cazip
 slug: cazip
+letter: C
 lisan: Arapça cāẕib
 anlamlar:
 - ► çekici

@@ -2,6 +2,7 @@
 layout: term
 title: seyrek
 slug: seyrek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Benzerleri veya parçaları arasında çok aralık bulunan, aralıklı, sık karşıtı

@@ -2,6 +2,7 @@
 layout: term
 title: reyhan
 slug: reyhan
+letter: R
 lisan: Arapça reyḥān
 anlamlar:
 - ► fesleğen

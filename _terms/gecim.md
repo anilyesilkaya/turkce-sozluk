@@ -2,6 +2,7 @@
 layout: term
 title: geçim
 slug: gecim
+letter: G
 lisan: Türkçe
 anlamlar:
 - Geçinmek işi; maişet

@@ -2,6 +2,7 @@
 layout: term
 title: helezon
 slug: helezon
+letter: H
 lisan: Arapça ḥalezūn
 anlamlar:
 - Kıvrımlı, yılankavi biçim

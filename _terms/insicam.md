@@ -2,6 +2,7 @@
 layout: term
 title: insicam
 slug: insicam
+letter: I
 lisan: Arapça insicām
 anlamlar:
 - Benzer nesneler arasındaki veya bir bütünü oluşturan parçalar arasındaki uyum; bağdaşım

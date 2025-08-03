@@ -2,6 +2,7 @@
 layout: term
 title: kapıda
 slug: kapida
+letter: K
 lisan: Türkçe
 anlamlar:
 - Gelmek üzere

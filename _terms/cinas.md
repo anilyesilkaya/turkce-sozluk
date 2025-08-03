@@ -2,6 +2,7 @@
 layout: term
 title: cinas
 slug: cinas
+letter: C
 lisan: Arapça cinās
 anlamlar:
 - Çok anlamlı bir kelimeye, her defasında başka bir anlam yükleyerek birbirine yakın birkaç yerde kullanma

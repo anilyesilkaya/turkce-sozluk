@@ -2,6 +2,7 @@
 layout: term
 title: laf yetiştirmek
 slug: laf-yetistirmek
+letter: L
 lisan: Türkçe
 anlamlar:
 - birinin söylediklerine olur olmaz karşılık vermek, çene yarıştırmaya kalkmak

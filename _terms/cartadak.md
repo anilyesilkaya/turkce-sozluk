@@ -2,6 +2,7 @@
 layout: term
 title: cartadak
 slug: cartadak
+letter: C
 lisan: Türkçe
 anlamlar:
 - Birdenbire ve gürültü ile; cartadan

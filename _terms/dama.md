@@ -2,6 +2,7 @@
 layout: term
 title: dama
 slug: dama
+letter: D
 lisan: İtalyanca dama
 anlamlar:
 - Karelere ayrılmış zemin üzerinde on altı taşla iki kişi arasında oynanan oyun

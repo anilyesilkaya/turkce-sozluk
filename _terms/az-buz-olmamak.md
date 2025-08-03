@@ -2,6 +2,7 @@
 layout: term
 title: az buz olmamak
 slug: az-buz-olmamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir şey azımsanacak kadar olmamak

@@ -2,6 +2,7 @@
 layout: term
 title: apış arası
 slug: apis-arasi
+letter: A
 lisan: Türkçe
 anlamlar:
 - İki bacağın arasında kalan yer

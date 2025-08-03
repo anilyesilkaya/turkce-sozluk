@@ -2,6 +2,7 @@
 layout: term
 title: renkli işitme
 slug: renkli-isitme
+letter: R
 lisan: Türkçe
 anlamlar:
 - Ses duyumu sırasında göze birtakım renklerin görünmesi durumu

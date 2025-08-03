@@ -2,6 +2,7 @@
 layout: term
 title: aciz
 slug: aciz
+letter: A
 lisan: Arapça ʿacz
 anlamlar:
 - ► güçsüzlük

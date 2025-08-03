@@ -2,6 +2,7 @@
 layout: term
 title: abanoz
 slug: abanoz
+letter: A
 lisan: Farsça ābnūs
 anlamlar:
 - Abanozgillerden, sıcak ülkelerde yetişen, kerestesinden yararlanılan birçok ağacın ortak adı (Diospyros ebenum)

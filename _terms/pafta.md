@@ -2,6 +2,7 @@
 layout: term
 title: pafta
 slug: pafta
+letter: P
 lisan: Farsça bāfte
 anlamlar:
 - Bir bölgenin kadastro durumunu gösteren değişik malzemeler üzerine yapılmış parselleme çizgilerinin bütünü

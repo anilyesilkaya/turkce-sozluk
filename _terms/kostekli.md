@@ -2,6 +2,7 @@
 layout: term
 title: köstekli
 slug: kostekli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kösteği olan

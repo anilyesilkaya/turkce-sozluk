@@ -2,6 +2,7 @@
 layout: term
 title: darbe
 slug: darbe
+letter: D
 lisan: Arapça ḍarbe
 anlamlar:
 - Vücut üzerine bir cisimle yapılan sert vuruş

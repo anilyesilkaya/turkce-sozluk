@@ -2,6 +2,7 @@
 layout: term
 title: acente
 slug: acente
+letter: A
 lisan: İtalyanca agente
 anlamlar:
 - Bir kuruluşun yaptığı işi onun adına kazanç karşılığında yürüten daha küçük kuruluş

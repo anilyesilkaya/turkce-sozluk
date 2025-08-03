@@ -2,6 +2,7 @@
 layout: term
 title: karnavalsı
 slug: karnavalsi
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► karnavalımsı

@@ -2,6 +2,7 @@
 layout: term
 title: umarsızlık
 slug: umarsizlik
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► çaresizlik

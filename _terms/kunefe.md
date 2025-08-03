@@ -2,6 +2,7 @@
 layout: term
 title: künefe
 slug: kunefe
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sıcak yenilen bir tür peynirli tel kadayıf

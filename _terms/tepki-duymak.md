@@ -2,6 +2,7 @@
 layout: term
 title: tepki duymak
 slug: tepki-duymak
+letter: T
 lisan: Türkçe
 anlamlar:
 - bir olay veya durum karşısındaki düşüncesini söz veya davranışla belirtmek, tepki koymak

@@ -2,6 +2,7 @@
 layout: term
 title: çifte ezan
 slug: cifte-ezan
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Birbirine yakın camilerde biri durup biri okumak suretiyle iki müezzin tarafından karşılıklı okunan ezan

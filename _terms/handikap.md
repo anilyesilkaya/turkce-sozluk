@@ -2,6 +2,7 @@
 layout: term
 title: handikap
 slug: handikap
+letter: H
 lisan: İngilizce handicap
 anlamlar:
 - ► engel

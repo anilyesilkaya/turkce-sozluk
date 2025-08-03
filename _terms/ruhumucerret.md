@@ -2,6 +2,7 @@
 layout: term
 title: ruhumücerret
 slug: ruhumucerret
+letter: R
 lisan: Arapça rūḥ + mucerred
 anlamlar:
 - Katışık ve karışık olmayan ruh

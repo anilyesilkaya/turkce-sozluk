@@ -2,6 +2,7 @@
 layout: term
 title: misyoner
 slug: misyoner
+letter: M
 lisan: Fransızca missionnaire
 anlamlar:
 - Bir dini, özellikle Hristiyanlığı yaymakla görevli kimse

@@ -2,6 +2,7 @@
 layout: term
 title: iyileşmek
 slug: iyilesmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İyi duruma gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: tekdir etmek
 slug: tekdir-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - azarlamak

@@ -2,6 +2,7 @@
 layout: term
 title: dördül
 slug: dordul
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► kare

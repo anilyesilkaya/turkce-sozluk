@@ -2,6 +2,7 @@
 layout: term
 title: karaçalı
 slug: karacali
+letter: K
 lisan: Türkçe
 anlamlar:
 - Hünnapgillerden, kurak yerlerde yetişen, çiçekleri altın sarısı renginde, dikenli bir bitki; çalı dikeni (Paliurus spinosa)

@@ -2,6 +2,7 @@
 layout: term
 title: agulama
 slug: agulama
+letter: A
 lisan: Türkçe
 anlamlar:
 - Agulamak işi; gığıldama

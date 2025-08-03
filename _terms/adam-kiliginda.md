@@ -2,6 +2,7 @@
 layout: term
 title: adam kılığında
 slug: adam-kiliginda
+letter: A
 lisan: Türkçe
 anlamlar:
 - Görünüşü insana benzer biçimde veya insan özelliklerini taşır biçimde

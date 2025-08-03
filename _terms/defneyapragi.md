@@ -2,6 +2,7 @@
 layout: term
 title: defneyaprağı
 slug: defneyapragi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Hanigillerden, lüferin küçük boylularına verilen özel bir ad (Pomatomus saltatrix)

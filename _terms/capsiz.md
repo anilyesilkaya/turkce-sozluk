@@ -2,6 +2,7 @@
 layout: term
 title: çapsız
 slug: capsiz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çapı geniş olmayan

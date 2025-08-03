@@ -2,6 +2,7 @@
 layout: term
 title: yadsıyabilmek
 slug: yadsiyabilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yadsıma ihtimali veya imkânı bulunmak

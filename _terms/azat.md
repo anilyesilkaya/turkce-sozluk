@@ -2,6 +2,7 @@
 layout: term
 title: azat
 slug: azat
+letter: A
 lisan: Farsça āzād
 anlamlar:
 - Serbest bırakma

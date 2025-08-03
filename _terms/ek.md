@@ -2,6 +2,7 @@
 layout: term
 title: ek
 slug: ek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Bir şeyin eksiğini tamamlamak için ona katılan parça; takviye, zeyil

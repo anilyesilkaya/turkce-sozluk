@@ -2,6 +2,7 @@
 layout: term
 title: gülüşmek
 slug: gulusmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Karşılıklı veya birlikte gülmek

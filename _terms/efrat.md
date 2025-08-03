@@ -2,6 +2,7 @@
 layout: term
 title: efrat
 slug: efrat
+letter: E
 lisan: Arapça efrād
 anlamlar:
 - Bireyler, fertler

@@ -2,6 +2,7 @@
 layout: term
 title: bileğili
 slug: bilegili
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bileyli

@@ -2,6 +2,7 @@
 layout: term
 title: dirseklemek
 slug: dirseklemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dirsekle vurmak, dirsekle itmek

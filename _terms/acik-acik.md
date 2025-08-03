@@ -2,6 +2,7 @@
 layout: term
 title: açık açık
 slug: acik-acik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Saklamaksızın

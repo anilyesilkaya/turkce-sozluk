@@ -2,6 +2,7 @@
 layout: term
 title: alelhesap
 slug: alelhesap
+letter: A
 lisan: Arapça ʿalā'l-ḥisāb
 anlamlar:
 - Hesaba sayarak

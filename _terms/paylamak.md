@@ -2,6 +2,7 @@
 layout: term
 title: paylamak
 slug: paylamak
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► azarlamak

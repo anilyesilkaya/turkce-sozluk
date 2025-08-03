@@ -2,6 +2,7 @@
 layout: term
 title: süregelmek
 slug: suregelmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Başlangıcından beri aynı biçimde sürmek, devam etmek

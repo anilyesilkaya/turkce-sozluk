@@ -2,6 +2,7 @@
 layout: term
 title: gazino
 slug: gazino
+letter: G
 lisan: İtalyanca casino
 anlamlar:
 - Yemek yenilen, gösteri izlenen, müzik dinlenen, bazen oyun sergilenen eğlence yeri

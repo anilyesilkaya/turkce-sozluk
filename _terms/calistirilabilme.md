@@ -2,6 +2,7 @@
 layout: term
 title: çalıştırılabilme
 slug: calistirilabilme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çalıştırılabilmek işi

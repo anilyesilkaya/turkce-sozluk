@@ -2,6 +2,7 @@
 layout: term
 title: vakarsızlık
 slug: vakarsizlik
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vakarsız olma durumu

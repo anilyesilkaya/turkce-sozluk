@@ -2,6 +2,7 @@
 layout: term
 title: çekirdekten yetişme
 slug: cekirdekten-yetisme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Herhangi bir işte, meslekte, küçük yaştan veya ilk kademeden başlayarak yetişmiş

@@ -2,6 +2,7 @@
 layout: term
 title: dertlenme
 slug: dertlenme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dertlenmek işi

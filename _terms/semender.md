@@ -2,6 +2,7 @@
 layout: term
 title: semender
 slug: semender
+letter: S
 lisan: Farsça semender
 anlamlar:
 - Semendergillerden, uzun gövdeli, dört bacaklı, kuyruklu, kertenkeleye benzeyen, birçok türü bulunan bir hayvan; salamandra (Salamandra)

@@ -2,6 +2,7 @@
 layout: term
 title: addan türeme eylem
 slug: addan-tureme-eylem
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ad kökünden fiil yapım ekiyle yapılmış fiil gövdesi, isimden türeme fiil

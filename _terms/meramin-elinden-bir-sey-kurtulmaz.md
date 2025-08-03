@@ -2,6 +2,7 @@
 layout: term
 title: meramın elinden bir şey kurtulmaz
 slug: meramin-elinden-bir-sey-kurtulmaz
+letter: M
 lisan: Türkçe
 anlamlar:
 - '"bir şey yapmaya azmeden ve ona dört elle sarılan kişi, kesinlikle başarıya ulaşır" anlamında kullanılan bir söz'

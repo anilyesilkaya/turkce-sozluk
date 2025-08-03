@@ -2,6 +2,7 @@
 layout: term
 title: tertipsiz
 slug: tertipsiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► düzensiz

@@ -2,6 +2,7 @@
 layout: term
 title: demetlemek
 slug: demetlemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Demet yapmak, demet durumunda ayırıp bağlamak

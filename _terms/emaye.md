@@ -2,6 +2,7 @@
 layout: term
 title: emaye
 slug: emaye
+letter: E
 lisan: Fransızca émaillé
 anlamlar:
 - Üzeri emayla kaplanmış olan

@@ -2,6 +2,7 @@
 layout: term
 title: doğruculuk
 slug: dogruculuk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Doğrucu olma durumu; harbicilik

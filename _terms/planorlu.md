@@ -2,6 +2,7 @@
 layout: term
 title: planörlü
 slug: planorlu
+letter: P
 lisan: Türkçe
 anlamlar:
 - Planörü olan

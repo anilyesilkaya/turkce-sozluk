@@ -2,6 +2,7 @@
 layout: term
 title: zarılanmak
 slug: zarilanmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - İçli içli ağlamak

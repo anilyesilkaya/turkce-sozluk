@@ -2,6 +2,7 @@
 layout: term
 title: ihtiyarlatmak
 slug: ihtiyarlatmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - Yaşlanmasına sebep olmak

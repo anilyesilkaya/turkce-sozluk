@@ -2,6 +2,7 @@
 layout: term
 title: dargınlık
 slug: darginlik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dargın olma durumu

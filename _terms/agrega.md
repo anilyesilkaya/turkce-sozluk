@@ -2,6 +2,7 @@
 layout: term
 title: agrega
 slug: agrega
+letter: A
 lisan: Fransızca agrégat
 anlamlar:
 - ► katışmaç

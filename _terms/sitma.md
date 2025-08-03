@@ -2,6 +2,7 @@
 layout: term
 title: sıtma
 slug: sitma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Anofel türü sivrisineğin sokmasıyla insandan insana bulaşan, titreme, ateş ve ter nöbetleriyle kendini gösteren bir hastalık; ısıtma, malarya

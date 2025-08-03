@@ -2,6 +2,7 @@
 layout: term
 title: dikkat
 slug: dikkat
+letter: D
 lisan: Arapça diḳḳat
 anlamlar:
 - Duygularla düşünceyi bir şey üzerinde toplama

@@ -2,6 +2,7 @@
 layout: term
 title: teşkil
 slug: teskil
+letter: T
 lisan: Arapça teşkīl
 anlamlar:
 - Oluşturma, ortaya çıkarma, meydana getirme

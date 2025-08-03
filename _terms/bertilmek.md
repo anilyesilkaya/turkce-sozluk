@@ -2,6 +2,7 @@
 layout: term
 title: bertilmek
 slug: bertilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çarpma, sıkışma, burkulma vb. etkenlerle vücudun bir yeri ağrı verir duruma gelmek; bertmek

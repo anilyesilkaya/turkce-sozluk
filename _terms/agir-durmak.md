@@ -2,6 +2,7 @@
 layout: term
 title: ağır durmak
 slug: agir-durmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ciddi, ağırbaşlı, oturaklı, soğukkanlı hareket etmek

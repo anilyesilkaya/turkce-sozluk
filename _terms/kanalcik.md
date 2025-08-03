@@ -2,6 +2,7 @@
 layout: term
 title: kanalcık
 slug: kanalcik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Küçük kanal; kanalet

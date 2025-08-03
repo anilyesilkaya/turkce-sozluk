@@ -2,6 +2,7 @@
 layout: term
 title: afallatmak
 slug: afallatmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Şaşkınlığa düşürerek sersemleştirmek

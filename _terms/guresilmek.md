@@ -2,6 +2,7 @@
 layout: term
 title: güreşilmek
 slug: guresilmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güreş yapılmak

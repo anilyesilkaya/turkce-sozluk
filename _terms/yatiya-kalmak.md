@@ -2,6 +2,7 @@
 layout: term
 title: yatıya kalmak
 slug: yatiya-kalmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - gidilen yerde geceyi geçirmek

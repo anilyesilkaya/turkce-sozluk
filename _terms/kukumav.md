@@ -2,6 +2,7 @@
 layout: term
 title: kukumav
 slug: kukumav
+letter: K
 lisan: Rumca
 anlamlar:
 - ► kukumav kuşu

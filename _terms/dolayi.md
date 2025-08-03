@@ -2,6 +2,7 @@
 layout: term
 title: dolayı
 slug: dolayi
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► ötürü

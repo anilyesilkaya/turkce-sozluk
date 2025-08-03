@@ -2,6 +2,7 @@
 layout: term
 title: altes
 slug: altes
+letter: A
 lisan: Fransızca altesse
 anlamlar:
 - Prens ve prenseslere verilen şeref ünvanı

@@ -2,6 +2,7 @@
 layout: term
 title: başkentlik
 slug: baskentlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başkent olma durumu; başşehirlik

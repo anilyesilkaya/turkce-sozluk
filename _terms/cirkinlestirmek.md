@@ -2,6 +2,7 @@
 layout: term
 title: çirkinleştirmek
 slug: cirkinlestirmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çirkin bir duruma getirmek

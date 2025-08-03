@@ -2,6 +2,7 @@
 layout: term
 title: gurbete (veya gurbet ele) düşmek
 slug: gurbete-veya-gurbet-ele-dusmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - aile ocağından uzak bir yere gitmek

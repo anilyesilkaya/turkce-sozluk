@@ -2,6 +2,7 @@
 layout: term
 title: zindan
 slug: zindan
+letter: Z
 lisan: Farsça zindān
 anlamlar:
 - Tutuklu veya hükümlülerin içine konulduğu kapalı yer

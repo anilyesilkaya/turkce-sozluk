@@ -2,6 +2,7 @@
 layout: term
 title: enerji
 slug: enerji
+letter: E
 lisan: Fransızca énergie
 anlamlar:
 - Maddede var olan ve ısı, ışık biçiminde ortaya çıkan güç; erke

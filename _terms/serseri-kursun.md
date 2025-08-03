@@ -2,6 +2,7 @@
 layout: term
 title: serseri kurşun
 slug: serseri-kursun
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir başkasına veya hedef gözetilmeksizin atıldığı hâlde başka bir kimsenin ölmesine veya yaralanmasına neden olan kurşun; kör kurşun, maganda kurşunu

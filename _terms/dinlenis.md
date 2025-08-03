@@ -2,6 +2,7 @@
 layout: term
 title: dinleniş
 slug: dinlenis
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dinlenmek işi

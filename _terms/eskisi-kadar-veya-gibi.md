@@ -2,6 +2,7 @@
 layout: term
 title: eskisi kadar (veya gibi)
 slug: eskisi-kadar-veya-gibi
+letter: E
 lisan: Türkçe
 anlamlar:
 - eskiden olduğu gibi, eskiden olduğu biçimde

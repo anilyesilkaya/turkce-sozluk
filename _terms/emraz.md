@@ -2,6 +2,7 @@
 layout: term
 title: emraz
 slug: emraz
+letter: E
 lisan: Arapça emrāż
 anlamlar:
 - Hastalıklar

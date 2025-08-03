@@ -2,6 +2,7 @@
 layout: term
 title: melek
 slug: melek
+letter: M
 lisan: Arapça melek
 anlamlar:
 - Tanrı ile insan arasında aracılık yaptığına ve nurdan yaratıldığına  inanılan manevi varlık; ferişte

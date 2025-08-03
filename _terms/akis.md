@@ -2,6 +2,7 @@
 layout: term
 title: akis
 slug: akis
+letter: A
 lisan: Arapça ʿaks
 anlamlar:
 - ► yansı

@@ -2,6 +2,7 @@
 layout: term
 title: sincap rengi
 slug: sincap-rengi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kahverengi ile kurşun rengi arasında olan renk; sincabi

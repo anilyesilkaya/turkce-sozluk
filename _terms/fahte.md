@@ -2,6 +2,7 @@
 layout: term
 title: fahte
 slug: fahte
+letter: F
 lisan: Farsça fāḫte
 anlamlar:
 - Klasik Türk müziğinde genellikle ilahi, beste ve özellikle peşrev formlarında kullanılan, yirmi zamanlı ve on iki vuruşlu bir büyük usul

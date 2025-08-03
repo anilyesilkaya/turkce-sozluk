@@ -2,6 +2,7 @@
 layout: term
 title: dişine vurmak
 slug: disine-vurmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - ısırmak, dişlemek

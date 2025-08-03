@@ -2,6 +2,7 @@
 layout: term
 title: tam not
 slug: tam-not
+letter: T
 lisan: Türkçe
 anlamlar:
 - '"Değerlendirmede en yüksek dereceyi almak, üstün başarı göstermek" anlamlarındaki tam not almak ve "değerlendirmede en yüksek dereceyi vermek" anlamındaki tam not vermek deyimlerinde kullanılan bir söz'

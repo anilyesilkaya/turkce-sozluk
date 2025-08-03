@@ -2,6 +2,7 @@
 layout: term
 title: tuz
 slug: tuz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Kokusuz, suda eriyen, yiyecekleri korumada ve tatlandırmada kullanılan billursu madde

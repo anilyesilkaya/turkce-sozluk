@@ -2,6 +2,7 @@
 layout: term
 title: biilaç
 slug: biilac
+letter: B
 lisan: Farsça bī + Arapça ʿilāc
 anlamlar:
 - ► ilaçsız

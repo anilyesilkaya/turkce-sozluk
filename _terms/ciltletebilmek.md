@@ -2,6 +2,7 @@
 layout: term
 title: ciltletebilmek
 slug: ciltletebilmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - Ciltletme ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: kavgasız
 slug: kavgasiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kavgası olmayan; nizasız

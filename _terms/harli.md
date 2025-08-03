@@ -2,6 +2,7 @@
 layout: term
 title: harlı
 slug: harli
+letter: H
 lisan: Türkçe
 anlamlar:
 - Kuvvetli bir biçimde

@@ -2,6 +2,7 @@
 layout: term
 title: tahakküm etmek
 slug: tahakkum-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - zorbalık etmek, hükmetmek

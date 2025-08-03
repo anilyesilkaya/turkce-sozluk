@@ -2,6 +2,7 @@
 layout: term
 title: yedek subay
 slug: yedek-subay
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Askerliği meslek olarak seçmediği hâlde, yurt ödevi için kanunlara göre belli bir süre orduda subay olarak çalışan kimse

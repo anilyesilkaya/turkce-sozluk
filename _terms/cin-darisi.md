@@ -2,6 +2,7 @@
 layout: term
 title: cin darısı
 slug: cin-darisi
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► cin mısırı

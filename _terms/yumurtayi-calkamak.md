@@ -2,6 +2,7 @@
 layout: term
 title: yumurtayı çalkamak
 slug: yumurtayi-calkamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - hayvan, üstüne oturduğu yumurtayı çevirmek

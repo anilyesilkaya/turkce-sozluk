@@ -2,6 +2,7 @@
 layout: term
 title: ensesi kalın
 slug: ensesi-kalin
+letter: E
 lisan: Türkçe
 anlamlar:
 - Güçlü, istediğini yapabilen, sözü geçer (kimse)

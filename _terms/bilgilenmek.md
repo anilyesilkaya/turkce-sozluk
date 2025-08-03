@@ -2,6 +2,7 @@
 layout: term
 title: bilgilenmek
 slug: bilgilenmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilgi sahibi olmak

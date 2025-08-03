@@ -2,6 +2,7 @@
 layout: term
 title: kavgaya girişmek (veya tutuşmak)
 slug: kavgaya-girismek-veya-tutusmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kavgaya başlamak

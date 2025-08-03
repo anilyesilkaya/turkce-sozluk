@@ -2,6 +2,7 @@
 layout: term
 title: susarımsağı
 slug: susarimsagi
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► kurtluca

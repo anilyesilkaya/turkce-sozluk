@@ -2,6 +2,7 @@
 layout: term
 title: başı dönmek
 slug: basi-donmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - insana eşyanın dönmesi, ayağının altından yerin çekilmesi vb. bir duygu gelmek

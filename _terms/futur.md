@@ -2,6 +2,7 @@
 layout: term
 title: fütur
 slug: futur
+letter: F
 lisan: Arapça futūr
 anlamlar:
 - Bezginliğin verdiği gevşeklik ve gayretsizlik

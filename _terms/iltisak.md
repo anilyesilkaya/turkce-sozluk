@@ -2,6 +2,7 @@
 layout: term
 title: iltisak
 slug: iltisak
+letter: I
 lisan: Arapça iltiṣāḳ
 anlamlar:
 - Bağlantılı olma

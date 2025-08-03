@@ -2,6 +2,7 @@
 layout: term
 title: kül bağlamak
 slug: kul-baglamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - ateş sönmek

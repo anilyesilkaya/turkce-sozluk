@@ -2,6 +2,7 @@
 layout: term
 title: plan
 slug: plan
+letter: P
 lisan: Fransızca plan
 anlamlar:
 - Bir işin, bir eserin gerçekleştirilmesi, bir konunun yolunda yürümesi için uyulması tasarlanan düzen

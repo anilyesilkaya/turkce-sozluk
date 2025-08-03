@@ -2,6 +2,7 @@
 layout: term
 title: tedirgin olmak
 slug: tedirgin-olmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - rahatı, huzuru kaçmak

@@ -2,6 +2,7 @@
 layout: term
 title: tedvin
 slug: tedvin
+letter: T
 lisan: Arapça tedvīn
 anlamlar:
 - ► derleme

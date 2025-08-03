@@ -2,6 +2,7 @@
 layout: term
 title: eliböğründe
 slug: elibogrunde
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ahşap yapılarda çıkmaların altına eğik ve aralıklı olarak konulan ahşap destek

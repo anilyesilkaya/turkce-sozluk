@@ -2,6 +2,7 @@
 layout: term
 title: daktilo
 slug: daktilo
+letter: D
 lisan: Fransızca dactylo
 anlamlar:
 - ► yazı makinesi

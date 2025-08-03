@@ -2,6 +2,7 @@
 layout: term
 title: sarışın
 slug: sarisin
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sarı saçlı ve ak tenli (kimse)

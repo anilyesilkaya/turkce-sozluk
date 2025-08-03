@@ -2,6 +2,7 @@
 layout: term
 title: gözleri kan çanağına dönmek (veya kanlanmak)
 slug: gozleri-kan-canagina-donmek-veya-kanlanmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - uykusuzluk, yorgunluk, ağlama vb. sebeplerle gözleri çok kızarmak

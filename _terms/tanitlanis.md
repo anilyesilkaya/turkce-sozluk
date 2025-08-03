@@ -2,6 +2,7 @@
 layout: term
 title: tanıtlanış
 slug: tanitlanis
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tanıtlanmak işi; ispatlanış

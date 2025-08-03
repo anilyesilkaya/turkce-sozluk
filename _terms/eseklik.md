@@ -2,6 +2,7 @@
 layout: term
 title: eşeklik
 slug: eseklik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Anlayışsızlık ve kaba davranış

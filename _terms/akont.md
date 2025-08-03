@@ -2,6 +2,7 @@
 layout: term
 title: akont
 slug: akont
+letter: A
 lisan: Fransızca àcompte
 anlamlar:
 - Bir borca karşılık, hesabı daha sonra görülmek üzere yapılan kısmi ödeme

@@ -2,6 +2,7 @@
 layout: term
 title: ötekileştirmek
 slug: otekilestirmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► dışlamak

@@ -2,6 +2,7 @@
 layout: term
 title: ırgat
 slug: irgat
+letter: I
 lisan: Rumca
 anlamlar:
 - Tarım işçisi; rençper

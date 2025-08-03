@@ -2,6 +2,7 @@
 layout: term
 title: ayetlik
 slug: ayetlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Seccade ve bazı halılara işlenen dikdörtgen şeklindeki çerçeve

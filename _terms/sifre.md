@@ -2,6 +2,7 @@
 layout: term
 title: şifre
 slug: sifre
+letter: Ş
 lisan: Fransızca chiffre
 anlamlar:
 - Gizli haberleşmeye yarayan işaretlerin tümü; kod

@@ -2,6 +2,7 @@
 layout: term
 title: reasürans
 slug: reasurans
+letter: R
 lisan: Fransızca réassurance
 anlamlar:
 - ► ikili sigorta

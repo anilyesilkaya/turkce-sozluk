@@ -2,6 +2,7 @@
 layout: term
 title: tapışlama
 slug: tapislama
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tapışlamak işi

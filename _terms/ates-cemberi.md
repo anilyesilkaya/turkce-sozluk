@@ -2,6 +2,7 @@
 layout: term
 title: ateş çemberi
 slug: ates-cemberi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Büyük Okyanus havzasını çevreleyen ve kabaca bir at nalını andıran, dünyanın en önemli ve en büyük deprem ve volkan kuşağı; Pasifik ateş çemberi

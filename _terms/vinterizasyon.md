@@ -2,6 +2,7 @@
 layout: term
 title: vinterizasyon
 slug: vinterizasyon
+letter: V
 lisan: Fransızca wintérisation
 anlamlar:
 - Kademeli olarak soğutulan ve düşük sıcaklıklarda yavaşça karıştırılıp bekletilerek elde edilen donmuş asitlerin süzülerek yağdan uzaklaştırılması

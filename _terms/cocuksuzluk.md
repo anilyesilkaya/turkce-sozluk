@@ -2,6 +2,7 @@
 layout: term
 title: çocuksuzluk
 slug: cocuksuzluk
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çocuksuz olma durumu

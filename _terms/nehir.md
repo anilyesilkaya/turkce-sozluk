@@ -2,6 +2,7 @@
 layout: term
 title: nehir
 slug: nehir
+letter: N
 lisan: Arapça nehr
 anlamlar:
 - ► ırmak

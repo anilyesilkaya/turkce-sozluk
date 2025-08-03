@@ -2,6 +2,7 @@
 layout: term
 title: istismar
 slug: istismar
+letter: I
 lisan: Arapça istis̱mār
 anlamlar:
 - Birinin iyi niyetini kötüye kullanma

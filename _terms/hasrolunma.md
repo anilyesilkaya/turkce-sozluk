@@ -2,6 +2,7 @@
 layout: term
 title: hasrolunma
 slug: hasrolunma
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hasrolunmak durumu

@@ -2,6 +2,7 @@
 layout: term
 title: tiril tiril giyinmek
 slug: tiril-tiril-giyinmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - tertemiz biçimde

@@ -2,6 +2,7 @@
 layout: term
 title: tastir
 slug: tastir
+letter: T
 lisan: Arapça tasṭīr
 anlamlar:
 - Yazı yazma

@@ -2,6 +2,7 @@
 layout: term
 title: 'kafa vergisi '
 slug: kafa-vergisi
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► cizye

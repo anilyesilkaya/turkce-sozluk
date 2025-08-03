@@ -2,6 +2,7 @@
 layout: term
 title: gemici
 slug: gemici
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gemide çalışan veya gemi işleten kimse

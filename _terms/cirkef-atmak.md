@@ -2,6 +2,7 @@
 layout: term
 title: çirkef atmak
 slug: cirkef-atmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - iftira atmak

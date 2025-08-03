@@ -2,6 +2,7 @@
 layout: term
 title: mırıldanabilmek
 slug: mirildanabilmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mırıldanma ihtimali veya imkânı bulunmak

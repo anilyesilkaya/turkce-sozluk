@@ -2,6 +2,7 @@
 layout: term
 title: terletmek
 slug: terletmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Terlemesine sebep olmak

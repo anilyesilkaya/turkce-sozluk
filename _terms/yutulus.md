@@ -2,6 +2,7 @@
 layout: term
 title: yutuluş
 slug: yutulus
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yutulmak işi

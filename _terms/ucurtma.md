@@ -2,6 +2,7 @@
 layout: term
 title: uçurtma
 slug: ucurtma
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uçurtmak işi

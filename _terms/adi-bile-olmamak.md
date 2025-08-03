@@ -2,6 +2,7 @@
 layout: term
 title: adı (bile) olmamak
 slug: adi-bile-olmamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - değeri olmamak

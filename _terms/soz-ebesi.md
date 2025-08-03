@@ -2,6 +2,7 @@
 layout: term
 title: söz ebesi
 slug: soz-ebesi
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► laf ebesi

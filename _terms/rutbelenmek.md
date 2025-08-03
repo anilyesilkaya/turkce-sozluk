@@ -2,6 +2,7 @@
 layout: term
 title: rütbelenmek
 slug: rutbelenmek
+letter: R
 lisan: Türkçe
 anlamlar:
 - Rütbesine göre sıralanmak

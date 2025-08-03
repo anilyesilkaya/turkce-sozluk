@@ -2,6 +2,7 @@
 layout: term
 title: direnç
 slug: direnc
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dayanma, karşı koyma gücü; dayanırlık, mukavemet

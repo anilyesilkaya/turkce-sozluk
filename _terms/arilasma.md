@@ -2,6 +2,7 @@
 layout: term
 title: arılaşma
 slug: arilasma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arılaşmak durumu; arılanma

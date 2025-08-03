@@ -2,6 +2,7 @@
 layout: term
 title: basmalık
 slug: basmalik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Üzerine basılacak şey

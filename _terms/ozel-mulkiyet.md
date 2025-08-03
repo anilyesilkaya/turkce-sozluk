@@ -2,6 +2,7 @@
 layout: term
 title: özel mülkiyet
 slug: ozel-mulkiyet
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Kişinin sahip olduğu taşınır veya taşınmaz mal

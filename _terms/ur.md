@@ -2,6 +2,7 @@
 layout: term
 title: ur
 slug: ur
+letter: U
 lisan: Türkçe
 anlamlar:
 - Hücrelerin aşırı çoğalmasıyla insan, hayvan veya bitki dokularında oluşan ve büyüme eğilimi gösteren yumru; bağa, Çingene ahtapotu, dert, tümör, neoplazma, vejetasyon

@@ -2,6 +2,7 @@
 layout: term
 title: heybetli
 slug: heybetli
+letter: H
 lisan: Türkçe
 anlamlar:
 - Görünüşü korku ve saygı uyandıran

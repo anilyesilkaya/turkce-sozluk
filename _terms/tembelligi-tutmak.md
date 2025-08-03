@@ -2,6 +2,7 @@
 layout: term
 title: tembelliği tutmak
 slug: tembelligi-tutmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - tembelleşmek

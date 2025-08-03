@@ -2,6 +2,7 @@
 layout: term
 title: tedhiş etmek
 slug: tedhis-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - dehşete düşürmek, korkutmak

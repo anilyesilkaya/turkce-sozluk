@@ -2,6 +2,7 @@
 layout: term
 title: metil
 slug: metil
+letter: M
 lisan: Fransızca méthyle
 anlamlar:
 - Doymuş hidrokarbon kökleri serisinin ilk basamağı

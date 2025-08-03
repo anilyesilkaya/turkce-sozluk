@@ -2,6 +2,7 @@
 layout: term
 title: cozurtmak
 slug: cozurtmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► cozurdatmak

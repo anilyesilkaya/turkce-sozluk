@@ -2,6 +2,7 @@
 layout: term
 title: medeniyetsiz
 slug: medeniyetsiz
+letter: M
 lisan: Türkçe
 anlamlar:
 - Uygarlaşmamış

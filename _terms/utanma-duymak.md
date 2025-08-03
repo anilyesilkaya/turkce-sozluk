@@ -2,6 +2,7 @@
 layout: term
 title: utanma duymak
 slug: utanma-duymak
+letter: U
 lisan: Türkçe
 anlamlar:
 - utanmak

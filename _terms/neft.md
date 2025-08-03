@@ -2,6 +2,7 @@
 layout: term
 title: neft
 slug: neft
+letter: N
 lisan: Farsça neft
 anlamlar:
 - Organik maddelerin ayrışmasından oluşan tutuşur sıvıların birçoğu

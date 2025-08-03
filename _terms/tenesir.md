@@ -2,6 +2,7 @@
 layout: term
 title: teneşir
 slug: tenesir
+letter: T
 lisan: Farsça tenşūr
 anlamlar:
 - Üzerinde ölü yıkanan ayaklı tahta; salacak, teneşir tahtası

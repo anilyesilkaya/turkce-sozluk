@@ -2,6 +2,7 @@
 layout: term
 title: düşünebilmek
 slug: dusunebilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düşünme ihtimali veya imkânı bulunmak

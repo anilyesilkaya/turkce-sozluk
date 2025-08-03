@@ -2,6 +2,7 @@
 layout: term
 title: çirkefçe
 slug: cirkefce
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çirkefe yakışır

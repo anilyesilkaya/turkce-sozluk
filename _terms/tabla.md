@@ -2,6 +2,7 @@
 layout: term
 title: tabla
 slug: tabla
+letter: T
 lisan: Arapça ṭabla
 anlamlar:
 - Satıcı vb.nin kullandığı tahtadan tepsi

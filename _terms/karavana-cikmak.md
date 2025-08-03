@@ -2,6 +2,7 @@
 layout: term
 title: karavana çıkmak
 slug: karavana-cikmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - yemek hazırlanmak veya gelmek

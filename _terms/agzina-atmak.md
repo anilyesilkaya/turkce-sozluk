@@ -2,6 +2,7 @@
 layout: term
 title: ağzına atmak
 slug: agzina-atmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - yemek için ağzına koymak

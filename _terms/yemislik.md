@@ -2,6 +2,7 @@
 layout: term
 title: yemişlik
 slug: yemislik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► meyvelik

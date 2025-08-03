@@ -2,6 +2,7 @@
 layout: term
 title: divan durmak
 slug: divan-durmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - el pençe divan durmak

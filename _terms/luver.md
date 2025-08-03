@@ -2,6 +2,7 @@
 layout: term
 title: lüver
 slug: luver
+letter: L
 lisan: Fransızca revolver
 anlamlar:
 - ► altıpatlar

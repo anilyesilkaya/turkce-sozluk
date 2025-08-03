@@ -2,6 +2,7 @@
 layout: term
 title: sağ esen
 slug: sag-esen
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► sağlıkla

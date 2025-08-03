@@ -2,6 +2,7 @@
 layout: term
 title: hödüklük
 slug: hodukluk
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hödük olma durumu

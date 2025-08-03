@@ -2,6 +2,7 @@
 layout: term
 title: adamcağız
 slug: adamcagiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kendisine sevgi veya acıma duyulan erkek

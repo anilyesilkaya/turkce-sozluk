@@ -2,6 +2,7 @@
 layout: term
 title: yırtmak
 slug: yirtmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Kâğıt, kumaş gibi bükülüp katlanan şeyleri parçalamak

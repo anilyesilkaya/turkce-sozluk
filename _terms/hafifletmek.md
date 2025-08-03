@@ -2,6 +2,7 @@
 layout: term
 title: hafifletmek
 slug: hafifletmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hafiflemesine yol açmak; hafifleştirmek, yeğniltmek, tahfif etmek

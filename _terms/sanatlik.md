@@ -2,6 +2,7 @@
 layout: term
 title: sanatlık
 slug: sanatlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► sanatsal

@@ -2,6 +2,7 @@
 layout: term
 title: manevi ilim
 slug: manevi-ilim
+letter: M
 lisan: Türkçe
 anlamlar:
 - Din bilimlerine ait bilim dallarının tümü

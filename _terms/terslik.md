@@ -2,6 +2,7 @@
 layout: term
 title: terslik
 slug: terslik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Ters olma durumu

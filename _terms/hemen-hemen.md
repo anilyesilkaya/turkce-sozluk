@@ -2,6 +2,7 @@
 layout: term
 title: hemen hemen
 slug: hemen-hemen
+letter: H
 lisan: Türkçe
 anlamlar:
 - Nerede ise, az zaman sonra

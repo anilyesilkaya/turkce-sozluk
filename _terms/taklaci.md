@@ -2,6 +2,7 @@
 layout: term
 title: taklacı
 slug: taklaci
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► taklacı güvercin

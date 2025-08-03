@@ -2,6 +2,7 @@
 layout: term
 title: 'karpuz lamba '
 slug: karpuz-lamba
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► lamba karpuzu

@@ -2,6 +2,7 @@
 layout: term
 title: basso
 slug: basso
+letter: B
 lisan: İtalyanca basso
 anlamlar:
 - ► bas

@@ -2,6 +2,7 @@
 layout: term
 title: araz
 slug: araz
+letter: A
 lisan: Arapça ʿaraż
 anlamlar:
 - ► ilinek

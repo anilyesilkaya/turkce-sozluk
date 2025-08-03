@@ -2,6 +2,7 @@
 layout: term
 title: büzülmek
 slug: buzulmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Büzme işi yapılmak

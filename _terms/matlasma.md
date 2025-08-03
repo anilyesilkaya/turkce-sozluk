@@ -2,6 +2,7 @@
 layout: term
 title: matlaşma
 slug: matlasma
+letter: M
 lisan: Türkçe
 anlamlar:
 - Matlaşmak işi

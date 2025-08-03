@@ -2,6 +2,7 @@
 layout: term
 title: nefret
 slug: nefret
+letter: N
 lisan: Arapça nefret
 anlamlar:
 - Bir kimsenin kötülüğünü, mutsuzluğunu istemeye yönelik duygu

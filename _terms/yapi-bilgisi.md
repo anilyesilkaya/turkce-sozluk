@@ -2,6 +2,7 @@
 layout: term
 title: yapı bilgisi
 slug: yapi-bilgisi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Belirli ölçü ve kurallara göre yapıları tasarlama bilgisi

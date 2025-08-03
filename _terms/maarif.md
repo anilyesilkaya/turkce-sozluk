@@ -2,6 +2,7 @@
 layout: term
 title: maarif
 slug: maarif
+letter: M
 lisan: Arapça maʿārif
 anlamlar:
 - Bilgi ve kültür

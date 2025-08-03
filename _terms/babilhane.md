@@ -2,6 +2,7 @@
 layout: term
 title: babilhane
 slug: babilhane
+letter: B
 lisan: Farsça bābil + Farsça ḫāne
 anlamlar:
 - ► genelev

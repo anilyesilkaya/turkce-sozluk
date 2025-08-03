@@ -2,6 +2,7 @@
 layout: term
 title: büsbütün
 slug: busbutun
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► tamamen

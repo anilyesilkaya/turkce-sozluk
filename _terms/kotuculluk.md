@@ -2,6 +2,7 @@
 layout: term
 title: kötücüllük
 slug: kotuculluk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kötücül olma durumu

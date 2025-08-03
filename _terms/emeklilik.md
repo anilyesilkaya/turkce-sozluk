@@ -2,6 +2,7 @@
 layout: term
 title: emeklilik
 slug: emeklilik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Emekli olma durumu; tekaütlük

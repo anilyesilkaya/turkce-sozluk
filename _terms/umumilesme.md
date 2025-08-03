@@ -2,6 +2,7 @@
 layout: term
 title: umumileşme
 slug: umumilesme
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► genelleşme

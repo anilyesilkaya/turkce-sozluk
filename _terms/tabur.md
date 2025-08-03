@@ -2,6 +2,7 @@
 layout: term
 title: tabur
 slug: tabur
+letter: T
 lisan: Türkçe
 anlamlar:
 - Dört bölükten kurulan, bir binbaşının komutasındaki asker birliği

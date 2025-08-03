@@ -2,6 +2,7 @@
 layout: term
 title: susmalık
 slug: susmalik
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► sus payı

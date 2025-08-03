@@ -2,6 +2,7 @@
 layout: term
 title: mahkûmane
 slug: mahkumane
+letter: M
 lisan: Arapça maḥkūm + Farsça -āne
 anlamlar:
 - Mahkûma yaraşır bir biçimde

@@ -2,6 +2,7 @@
 layout: term
 title: leyleğin attığı yavru
 slug: leylegin-attigi-yavru
+letter: L
 lisan: Türkçe
 anlamlar:
 - çevresinde yeteri kadar ilgi görmeyen kimse

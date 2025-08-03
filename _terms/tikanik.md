@@ -2,6 +2,7 @@
 layout: term
 title: tıkanık
 slug: tikanik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tıkanmış olan

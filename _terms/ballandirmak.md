@@ -2,6 +2,7 @@
 layout: term
 title: ballandırmak
 slug: ballandirmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir yere bal vb. bulaştırmak

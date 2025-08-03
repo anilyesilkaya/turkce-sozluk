@@ -2,6 +2,7 @@
 layout: term
 title: yayık yaymak
 slug: yayik-yaymak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - sütün ayranını ve yağını ayırmak için yayığı çalkalamak

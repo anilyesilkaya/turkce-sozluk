@@ -2,6 +2,7 @@
 layout: term
 title: yalıtkanlık
 slug: yalitkanlik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yalıtkan olma durumu

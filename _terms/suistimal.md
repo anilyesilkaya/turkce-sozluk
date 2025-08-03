@@ -2,6 +2,7 @@
 layout: term
 title: suistimal
 slug: suistimal
+letter: S
 lisan: Arapça sūʾ + istiʿmāl
 anlamlar:
 - Görev, yetki vb.ni kötüye kullanma

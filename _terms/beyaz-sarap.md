@@ -2,6 +2,7 @@
 layout: term
 title: beyaz şarap
 slug: beyaz-sarap
+letter: B
 lisan: Türkçe
 anlamlar:
 - Sadece beyaz üzüm şırasından yapılan şarap

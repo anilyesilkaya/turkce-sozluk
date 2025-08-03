@@ -2,6 +2,7 @@
 layout: term
 title: puflama
 slug: puflama
+letter: P
 lisan: Türkçe
 anlamlar:
 - Puflamak işi

@@ -2,6 +2,7 @@
 layout: term
 title: gümrük
 slug: gumruk
+letter: G
 lisan: Rumca
 anlamlar:
 - Bir ülkeye giren veya bir ülkeden çıkan mal ve eşya üzerinden alınan vergi

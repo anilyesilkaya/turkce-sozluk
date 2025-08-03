@@ -2,6 +2,7 @@
 layout: term
 title: ellik
 slug: ellik
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► eldiven

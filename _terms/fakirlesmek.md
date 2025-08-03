@@ -2,6 +2,7 @@
 layout: term
 title: fakirleşmek
 slug: fakirlesmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► yoksullaşmak

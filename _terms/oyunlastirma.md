@@ -2,6 +2,7 @@
 layout: term
 title: oyunlaştırma
 slug: oyunlastirma
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oyunlaştırmak işi

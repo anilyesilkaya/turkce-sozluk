@@ -2,6 +2,7 @@
 layout: term
 title: istasyon
 slug: istasyon
+letter: I
 lisan: Fransızca station
 anlamlar:
 - Tren, metro durağı

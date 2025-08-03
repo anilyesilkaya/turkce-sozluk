@@ -2,6 +2,7 @@
 layout: term
 title: gölge gibi
 slug: golge-gibi
+letter: G
 lisan: Türkçe
 anlamlar:
 - varlığını belli etmeden, gizlice

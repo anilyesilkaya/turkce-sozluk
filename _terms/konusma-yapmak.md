@@ -2,6 +2,7 @@
 layout: term
 title: konuşma yapmak
 slug: konusma-yapmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - topluluk karşısında bir konuda konuşmak

@@ -2,6 +2,7 @@
 layout: term
 title: mübalağacı
 slug: mubalagaci
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► abartıcı

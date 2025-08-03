@@ -2,6 +2,7 @@
 layout: term
 title: bağrını ezmek
 slug: bagrini-ezmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - üzülmek, dertlenmek

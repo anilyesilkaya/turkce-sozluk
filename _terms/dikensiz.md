@@ -2,6 +2,7 @@
 layout: term
 title: dikensiz
 slug: dikensiz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dikeni olmayan

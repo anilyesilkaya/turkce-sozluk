@@ -2,6 +2,7 @@
 layout: term
 title: yaraşmak
 slug: yarasmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yakışmak, uymak

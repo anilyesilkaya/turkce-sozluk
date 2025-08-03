@@ -2,6 +2,7 @@
 layout: term
 title: çimdiklenmek
 slug: cimdiklenmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çimdik atılmak

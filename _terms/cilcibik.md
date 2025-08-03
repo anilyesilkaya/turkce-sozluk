@@ -2,6 +2,7 @@
 layout: term
 title: cılcıbık
 slug: cilcibik
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► çıplak

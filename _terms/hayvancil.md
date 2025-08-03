@@ -2,6 +2,7 @@
 layout: term
 title: hayvancıl
 slug: hayvancil
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hayvan seven

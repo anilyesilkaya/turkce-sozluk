@@ -2,6 +2,7 @@
 layout: term
 title: buhran
 slug: buhran
+letter: B
 lisan: Arapça buḥrān
 anlamlar:
 - ► bunalım

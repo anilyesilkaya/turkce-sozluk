@@ -2,6 +2,7 @@
 layout: term
 title: girdisi çıktısı
 slug: girdisi-ciktisi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bilinmeyen karışık yönler, ayrıntılar

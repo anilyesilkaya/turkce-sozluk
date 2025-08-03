@@ -2,6 +2,7 @@
 layout: term
 title: eksilmek
 slug: eksilmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eskisinden daha az, daha eksik duruma gelmek; düşmek

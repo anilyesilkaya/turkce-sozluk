@@ -2,6 +2,7 @@
 layout: term
 title: esirmek
 slug: esirmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Sarhoş olmak

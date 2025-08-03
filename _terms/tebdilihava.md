@@ -2,6 +2,7 @@
 layout: term
 title: tebdilihava
 slug: tebdilihava
+letter: T
 lisan: Arapça tebdīl + havā
 anlamlar:
 - ► hava değişimi

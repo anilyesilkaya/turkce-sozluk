@@ -2,6 +2,7 @@
 layout: term
 title: kurucu
 slug: kurucu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir kurumun, bir işin kurulmasını sağlayan; bani, müessis

@@ -2,6 +2,7 @@
 layout: term
 title: psikasteni
 slug: psikasteni
+letter: P
 lisan: Fransızca psychasthénie
 anlamlar:
 - Kuruntu, şüphecilik, aşırı titizlik, kararsızlık, saplantı, tekrarlayıcı hareket vb. ile kendini gösteren bir tür akıl hastalığı

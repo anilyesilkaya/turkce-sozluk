@@ -2,6 +2,7 @@
 layout: term
 title: çile çekmek
 slug: cile-cekmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - büyük sıkıntı ve üzüntü içinde yaşamak

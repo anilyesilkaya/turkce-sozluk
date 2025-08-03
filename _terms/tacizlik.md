@@ -2,6 +2,7 @@
 layout: term
 title: tacizlik
 slug: tacizlik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tedirginlik verme

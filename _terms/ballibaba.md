@@ -2,6 +2,7 @@
 layout: term
 title: ballıbaba
 slug: ballibaba
+letter: B
 lisan: Türkçe
 anlamlar:
 - Ballıbabagillerden, yaprakları çoğu zaman beyaz benekli ve tüycük kaplı, dört köşe saplı, beyaz çiçekli ve çok yıllık otsu bir bitki; ballık (Lamiumalbum)

@@ -2,6 +2,7 @@
 layout: term
 title: kirişlemek
 slug: kirislemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kirişi çekip germek

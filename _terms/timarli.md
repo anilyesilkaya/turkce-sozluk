@@ -2,6 +2,7 @@
 layout: term
 title: tımarlı
 slug: timarli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tımar (II) sahibi olan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: bedesten
 slug: bedesten
+letter: B
 lisan: Farsça bezistān
 anlamlar:
 - Kumaş, mücevher vb. değerli eşyaların alınıp satıldığı kapalı çarşı

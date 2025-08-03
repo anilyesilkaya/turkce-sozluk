@@ -2,6 +2,7 @@
 layout: term
 title: enkaz
 slug: enkaz
+letter: E
 lisan: Arapça enḳāż
 anlamlar:
 - ► çöküntü

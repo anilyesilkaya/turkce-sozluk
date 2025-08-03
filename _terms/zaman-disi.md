@@ -2,6 +2,7 @@
 layout: term
 title: zaman dışı
 slug: zaman-disi
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zamanın dışında gerçekleşmiş olan

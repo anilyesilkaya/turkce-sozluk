@@ -2,6 +2,7 @@
 layout: term
 title: semirme
 slug: semirme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Semiz duruma gelme

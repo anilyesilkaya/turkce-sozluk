@@ -2,6 +2,7 @@
 layout: term
 title: sefasını sürmek
 slug: sefasini-surmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - bir durumun getirdiği, sağladığı olanaklardan yararlanmak

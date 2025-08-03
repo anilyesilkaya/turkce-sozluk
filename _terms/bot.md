@@ -2,6 +2,7 @@
 layout: term
 title: bot
 slug: bot
+letter: B
 lisan: Fransızca botte
 anlamlar:
 - Uzun konçlu, kapalı ayakkabı

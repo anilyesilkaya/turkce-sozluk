@@ -2,6 +2,7 @@
 layout: term
 title: mahrut
 slug: mahrut
+letter: M
 lisan: Arapça maḫrūṭ
 anlamlar:
 - ► koni

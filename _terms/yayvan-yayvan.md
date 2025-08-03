@@ -2,6 +2,7 @@
 layout: term
 title: yayvan yayvan
 slug: yayvan-yayvan
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Sesleri yayarak, uzatarak

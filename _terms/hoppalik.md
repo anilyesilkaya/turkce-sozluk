@@ -2,6 +2,7 @@
 layout: term
 title: hoppalık
 slug: hoppalik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hoppa olma durumu; delişmenlik, koketlik

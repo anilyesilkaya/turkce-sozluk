@@ -2,6 +2,7 @@
 layout: term
 title: göz kapağı
 slug: goz-kapagi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Göz yuvarlarının önünde bulunan, birbirine yaklaşarak gözü örten, kenarlarında kirpikler bulunan koruyucu organ

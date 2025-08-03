@@ -2,6 +2,7 @@
 layout: term
 title: morötesi
 slug: morotesi
+letter: M
 lisan: Türkçe
 anlamlar:
 - Gözle görülmeyen, dalga boyları yaklaşık 4000 angströmle 200 angström arasında olan, mor ışının ötesinde yer alan, yapay olarak da elde edilip tıpta kullanılan bir ışınım; ultraviyole

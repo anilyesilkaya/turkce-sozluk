@@ -2,6 +2,7 @@
 layout: term
 title: deşarj olmak
 slug: desarj-olmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - akü, pil gücünü yitirmek

@@ -2,6 +2,7 @@
 layout: term
 title: neye
 slug: neye
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► niçin

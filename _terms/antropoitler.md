@@ -2,6 +2,7 @@
 layout: term
 title: antropoitler
 slug: antropoitler
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► insansılar

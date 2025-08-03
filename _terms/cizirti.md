@@ -2,6 +2,7 @@
 layout: term
 title: cızırtı
 slug: cizirti
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cızırdama sırasında çıkan sesin adı; cızıltı

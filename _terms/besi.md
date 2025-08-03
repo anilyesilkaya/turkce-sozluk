@@ -2,6 +2,7 @@
 layout: term
 title: besi
 slug: besi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Yaşatmak ve geliştirmek için gereken besinleri yedirip içirme işi

@@ -2,6 +2,7 @@
 layout: term
 title: tıpı tıpına
 slug: tipi-tipina
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tastamam, aynen

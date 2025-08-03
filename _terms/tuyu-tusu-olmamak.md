@@ -2,6 +2,7 @@
 layout: term
 title: tüyü tüsü olmamak
 slug: tuyu-tusu-olmamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - henüz sakalı çıkmamış olmak

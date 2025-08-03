@@ -2,6 +2,7 @@
 layout: term
 title: ortaya dökmek
 slug: ortaya-dokmek
+letter: O
 lisan: Türkçe
 anlamlar:
 - çıkarmak, göstermek

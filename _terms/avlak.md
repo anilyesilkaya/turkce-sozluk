@@ -2,6 +2,7 @@
 layout: term
 title: avlak
 slug: avlak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Avlanmaya uygun olan yer

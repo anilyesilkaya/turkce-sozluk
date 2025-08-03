@@ -2,6 +2,7 @@
 layout: term
 title: altından kalkmak
 slug: altindan-kalkmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - zor bir işi başarmak

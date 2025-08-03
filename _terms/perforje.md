@@ -2,6 +2,7 @@
 layout: term
 title: perforje
 slug: perforje
+letter: P
 lisan: İngilizce perforje
 anlamlar:
 - ► delik

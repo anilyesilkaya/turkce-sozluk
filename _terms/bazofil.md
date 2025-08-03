@@ -2,6 +2,7 @@
 layout: term
 title: bazofil
 slug: bazofil
+letter: B
 lisan: Fransızca basophile
 anlamlar:
 - Baz veya bazik alkali özelliği üstün olan bitki

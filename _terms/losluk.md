@@ -2,6 +2,7 @@
 layout: term
 title: loşluk
 slug: losluk
+letter: L
 lisan: Türkçe
 anlamlar:
 - Loş olma durumu

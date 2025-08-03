@@ -2,6 +2,7 @@
 layout: term
 title: seçilmişlik
 slug: secilmislik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Seçilmiş olma durumu

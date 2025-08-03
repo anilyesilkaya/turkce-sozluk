@@ -2,6 +2,7 @@
 layout: term
 title: yüz kızartmak
 slug: yuz-kizartmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - sıkılarak yalvarmak

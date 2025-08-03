@@ -2,6 +2,7 @@
 layout: term
 title: ümera
 slug: umera
+letter: Ü
 lisan: Arapça umerā
 anlamlar:
 - Beyler, amirler

@@ -2,6 +2,7 @@
 layout: term
 title: belirsizleşebilme
 slug: belirsizlesebilme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belirsizleşebilmek işi

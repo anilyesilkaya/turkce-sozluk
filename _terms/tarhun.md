@@ -2,6 +2,7 @@
 layout: term
 title: tarhun
 slug: tarhun
+letter: T
 lisan: Arapça ṭarḫūn
 anlamlar:
 - Birleşikgillerden, hekimlikte kullanılan, güzel kokulu bir bitki (Artemisia dracunculus)

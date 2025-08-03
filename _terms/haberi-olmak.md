@@ -2,6 +2,7 @@
 layout: term
 title: haberi olmak
 slug: haberi-olmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - bilgisi olmak, bilmek

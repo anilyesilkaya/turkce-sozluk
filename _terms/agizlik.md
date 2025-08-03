@@ -2,6 +2,7 @@
 layout: term
 title: ağızlık
 slug: agizlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir ucuna sigara takılan, öbür ucundan nefes çekilen çubuk biçimindeki araç

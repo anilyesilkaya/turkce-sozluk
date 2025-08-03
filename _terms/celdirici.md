@@ -2,6 +2,7 @@
 layout: term
 title: çeldirici
 slug: celdirici
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Test sınavında, sorunun cevapları arasında doğruya en yakın görünen ancak yanlış olan cevap seçeneği

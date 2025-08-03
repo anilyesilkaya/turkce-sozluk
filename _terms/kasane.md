@@ -2,6 +2,7 @@
 layout: term
 title: kâşane
 slug: kasane
+letter: K
 lisan: Farsça kāşāne
 anlamlar:
 - Büyük, süslü köşk, saray vb. yapı

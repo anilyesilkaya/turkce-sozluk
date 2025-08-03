@@ -2,6 +2,7 @@
 layout: term
 title: deniz kaplumbağası
 slug: deniz-kaplumbagasi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Denizlerde yaşayan ve ayaklarını yüzgeç gibi kullanan bir deniz hayvanı

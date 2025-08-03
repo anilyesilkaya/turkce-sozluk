@@ -2,6 +2,7 @@
 layout: term
 title: sarf
 slug: sarf
+letter: S
 lisan: Arapça ṣarf
 anlamlar:
 - Harcama, tüketme, kullanma

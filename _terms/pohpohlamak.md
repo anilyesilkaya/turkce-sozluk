@@ -2,6 +2,7 @@
 layout: term
 title: pohpohlamak
 slug: pohpohlamak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Birini, yüzüne karşı gereğinden çok övmek; koltuklamak, okkalamak, pehpehlemek

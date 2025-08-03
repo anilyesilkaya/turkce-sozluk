@@ -2,6 +2,7 @@
 layout: term
 title: heterodoks
 slug: heterodoks
+letter: H
 lisan: Fransızca hétérodoxe
 anlamlar:
 - Kabul edilmiş din kurallarına aykırı

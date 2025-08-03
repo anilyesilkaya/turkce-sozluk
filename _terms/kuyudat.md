@@ -2,6 +2,7 @@
 layout: term
 title: kuyudat
 slug: kuyudat
+letter: K
 lisan: Arapça ḳuyūdāt
 anlamlar:
 - Resmî defterdeki kayıtlar

@@ -2,6 +2,7 @@
 layout: term
 title: çift
 slug: cift
+letter: Ç
 lisan: Farsça cuft
 anlamlar:
 - Birbirini tamamlayan iki tekten oluşan (nesneler)

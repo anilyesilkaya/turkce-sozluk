@@ -2,6 +2,7 @@
 layout: term
 title: betimlemeci
 slug: betimlemeci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Betimlemeye ağırlık veren; tasvirci

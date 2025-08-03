@@ -2,6 +2,7 @@
 layout: term
 title: laubalice
 slug: laubalice
+letter: L
 lisan: Türkçe
 anlamlar:
 - Laubaliye yakın

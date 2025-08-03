@@ -2,6 +2,7 @@
 layout: term
 title: kökleşmek
 slug: koklesmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Güçlü bir biçimde yerleşmek, yer etmek, kök salmak; esaslanmak

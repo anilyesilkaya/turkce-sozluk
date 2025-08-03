@@ -2,6 +2,7 @@
 layout: term
 title: maraza
 slug: maraza
+letter: M
 lisan: Arapça maraża
 anlamlar:
 - ► hastalık

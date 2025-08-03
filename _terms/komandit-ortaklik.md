@@ -2,6 +2,7 @@
 layout: term
 title: komandit ortaklık
 slug: komandit-ortaklik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Alacaklılara karşı en az bir sınırlı, bir de sınırsız sorumlu ortağı bulunması gereken, tüzel kişiliği olan ortaklık; komandit şirket

@@ -2,6 +2,7 @@
 layout: term
 title: su vermek
 slug: su-vermek
+letter: S
 lisan: Türkçe
 anlamlar:
 - bitkileri sulamak

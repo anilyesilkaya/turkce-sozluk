@@ -2,6 +2,7 @@
 layout: term
 title: eşelenmek
 slug: eselenmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eşeleme işi yapılmak

@@ -2,6 +2,7 @@
 layout: term
 title: kan (veya kanı) başına çıkmak (veya sıçramak veya toplanmak)
 slug: kan-veya-kani-basina-cikmak-veya-sicramak-veya-toplanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - öfkelenmek

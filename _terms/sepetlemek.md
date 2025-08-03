@@ -2,6 +2,7 @@
 layout: term
 title: sepetlemek
 slug: sepetlemek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Meyve, sebze vb.ni sepete koymak, sepete yerleştirmek

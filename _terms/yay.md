@@ -2,6 +2,7 @@
 layout: term
 title: yay
 slug: yay
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Ok atmaya yarayan, iki ucu arasına kiriş gerilmiş, eğri ağaç veya metal çubuk

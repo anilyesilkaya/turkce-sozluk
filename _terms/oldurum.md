@@ -2,6 +2,7 @@
 layout: term
 title: öldürüm
 slug: oldurum
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öldürmek işi

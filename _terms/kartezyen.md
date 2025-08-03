@@ -2,6 +2,7 @@
 layout: term
 title: Kartezyen
 slug: kartezyen
+letter: K
 lisan: Fransızca cartésien
 anlamlar:
 - ► Dekartçı

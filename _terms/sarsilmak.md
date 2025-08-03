@@ -2,6 +2,7 @@
 layout: term
 title: sarsılmak
 slug: sarsilmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sarsma işine konu olmak

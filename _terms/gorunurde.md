@@ -2,6 +2,7 @@
 layout: term
 title: görünürde
 slug: gorunurde
+letter: G
 lisan: Türkçe
 anlamlar:
 - Dıştan bakınca, görünüşe göre, ortada, meydanda

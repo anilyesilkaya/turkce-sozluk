@@ -2,6 +2,7 @@
 layout: term
 title: çevrilmek
 slug: cevrilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çevirme işine konu olmak

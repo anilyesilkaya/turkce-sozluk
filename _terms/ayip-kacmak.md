@@ -2,6 +2,7 @@
 layout: term
 title: ayıp kaçmak
 slug: ayip-kacmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - uygun düşmemek

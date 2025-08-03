@@ -2,6 +2,7 @@
 layout: term
 title: kontralto
 slug: kontralto
+letter: K
 lisan: İtalyanca contralto
 anlamlar:
 - Kadın seslerinin en kalını; alto

@@ -2,6 +2,7 @@
 layout: term
 title: sekülerleşme
 slug: sekulerlesme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sekülerleşmek durumu

@@ -2,6 +2,7 @@
 layout: term
 title: karamandola
 slug: karamandola
+letter: K
 lisan: Rumca
 anlamlar:
 - Genellikle ayakkabı yüzü yapılan bir tür sağlam ve parlak kumaş

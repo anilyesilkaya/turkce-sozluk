@@ -2,6 +2,7 @@
 layout: term
 title: açılım
 slug: acilim
+letter: A
 lisan: Türkçe
 anlamlar:
 - Açılmak işi

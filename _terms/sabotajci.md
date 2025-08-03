@@ -2,6 +2,7 @@
 layout: term
 title: sabotajcı
 slug: sabotajci
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► baltalayıcı

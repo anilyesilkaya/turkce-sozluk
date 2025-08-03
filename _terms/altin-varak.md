@@ -2,6 +2,7 @@
 layout: term
 title: altın varak
 slug: altin-varak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Altının tezhip, mimarlık, mobilyacılık, ciltçilik vb. alanlarda süsleme aracı olarak kullanılabilmesi için ince tabaka hâlinde hazırlanmış biçimi

@@ -2,6 +2,7 @@
 layout: term
 title: feminist
 slug: feminist
+letter: F
 lisan: Fransızca féministe
 anlamlar:
 - Feminizm yanlısı kimse veya görüş

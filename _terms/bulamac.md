@@ -2,6 +2,7 @@
 layout: term
 title: bulamaç
 slug: bulamac
+letter: B
 lisan: Türkçe
 anlamlar:
 - Sulu, cıvık hamur

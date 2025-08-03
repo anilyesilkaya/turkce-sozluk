@@ -2,6 +2,7 @@
 layout: term
 title: temiz kan
 slug: temiz-kan
+letter: T
 lisan: Türkçe
 anlamlar:
 - Atardamarlarda dolaşan, akciğerlerden aldığı oksijeni taşıyarak vücudun her yanına giden kan

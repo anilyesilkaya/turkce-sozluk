@@ -2,6 +2,7 @@
 layout: term
 title: amonyak
 slug: amonyak
+letter: A
 lisan: Fransızca ammoniaque
 anlamlar:
 - Azot ve hidrojen birleşimi olan, keskin kokulu bir gaz (NH3)

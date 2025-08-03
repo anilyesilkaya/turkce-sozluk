@@ -2,6 +2,7 @@
 layout: term
 title: başyazman
 slug: basyazman
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► başkâtip

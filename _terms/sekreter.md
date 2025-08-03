@@ -2,6 +2,7 @@
 layout: term
 title: sekreter
 slug: sekreter
+letter: S
 lisan: Fransızca secrétaire
 anlamlar:
 - Özel veya kamu kuruluşlarında belli bir makama, kişiye yardımcı olmak amacıyla haberleşmeyi sağlayan, yazışma yapabilen görevli; yazman, kâtip

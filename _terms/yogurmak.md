@@ -2,6 +2,7 @@
 layout: term
 title: yoğurmak
 slug: yogurmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Katı veya toz durumundaki bir maddeyi herhangi bir sıvı ile karıştırarak hamur durumuna getirmek

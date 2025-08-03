@@ -2,6 +2,7 @@
 layout: term
 title: felç
 slug: felc
+letter: F
 lisan: Arapça felc
 anlamlar:
 - ► inme

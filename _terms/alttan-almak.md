@@ -2,6 +2,7 @@
 layout: term
 title: alttan almak
 slug: alttan-almak
+letter: A
 lisan: Türkçe
 anlamlar:
 - sert konuşan bir kimseye yumuşak bir dil kullanmak, aşağıdan almak

@@ -2,6 +2,7 @@
 layout: term
 title: ebedî
 slug: ebedi
+letter: E
 lisan: Arapça ebedī
 anlamlar:
 - ► sonsuz

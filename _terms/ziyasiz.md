@@ -2,6 +2,7 @@
 layout: term
 title: ziyasız
 slug: ziyasiz
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► ışıksız

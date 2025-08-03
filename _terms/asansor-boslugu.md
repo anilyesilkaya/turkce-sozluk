@@ -2,6 +2,7 @@
 layout: term
 title: asansör boşluğu
 slug: asansor-boslugu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Binalarda asansörün işlemesi için bırakılan boşluk

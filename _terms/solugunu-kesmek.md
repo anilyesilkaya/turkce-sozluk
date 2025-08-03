@@ -2,6 +2,7 @@
 layout: term
 title: soluğunu kesmek
 slug: solugunu-kesmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - bir şey çok heyecan veya korku vermek

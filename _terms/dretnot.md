@@ -2,6 +2,7 @@
 layout: term
 title: dretnot
 slug: dretnot
+letter: D
 lisan: İngilizce dreadnought
 anlamlar:
 - XX. yüzyılın başlarında kullanılan bir zırhlı tipi

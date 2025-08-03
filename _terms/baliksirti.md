@@ -2,6 +2,7 @@
 layout: term
 title: balıksırtı
 slug: baliksirti
+letter: B
 lisan: Türkçe
 anlamlar:
 - Balık iskeleti biçiminde birbirine paralel ve çapraz çizgili kumaş deseni

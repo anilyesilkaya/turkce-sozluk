@@ -2,6 +2,7 @@
 layout: term
 title: dara
 slug: dara
+letter: D
 lisan: İtalyanca tara
 anlamlar:
 - Kabıyla birlikte tartılan bir nesnenin kabının ağırlığı

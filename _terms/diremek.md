@@ -2,6 +2,7 @@
 layout: term
 title: diremek
 slug: diremek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir şeyi dikine koymak, dayamak, durdurmak

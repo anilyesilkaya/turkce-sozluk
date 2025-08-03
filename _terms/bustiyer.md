@@ -2,6 +2,7 @@
 layout: term
 title: büstiyer
 slug: bustiyer
+letter: B
 lisan: Fransızca bustier
 anlamlar:
 - Kadınların kullandığı, koltuk altından başlayıp basene kadar uzanabilen, çoğunlukla ceket vb. kıyafetlerin altına giyilen askısız bluz

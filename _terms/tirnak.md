@@ -2,6 +2,7 @@
 layout: term
 title: tırnak
 slug: tirnak
+letter: T
 lisan: Türkçe
 anlamlar:
 - İnsanda ve birçok omurgalı hayvanda parmak uçlarının dış bölümünü örten boynuzsu tabaka

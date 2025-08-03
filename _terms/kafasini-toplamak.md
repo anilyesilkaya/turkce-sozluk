@@ -2,6 +2,7 @@
 layout: term
 title: kafasını toplamak
 slug: kafasini-toplamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - sağlıklı düşünebilir olmak

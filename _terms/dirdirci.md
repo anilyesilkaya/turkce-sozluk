@@ -2,6 +2,7 @@
 layout: term
 title: dırdırcı
 slug: dirdirci
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bezdirici söz etme alışkanlığı olan, geveze, yerli yersiz konuşan (kimse)

@@ -2,6 +2,7 @@
 layout: term
 title: zıbarmak
 slug: zibarmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► ölmek

@@ -2,6 +2,7 @@
 layout: term
 title: mumluk
 slug: mumluk
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► şamdan

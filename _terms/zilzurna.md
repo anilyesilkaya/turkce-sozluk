@@ -2,6 +2,7 @@
 layout: term
 title: zilzurna
 slug: zilzurna
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Kendini bilmeyecek ölçüde olan

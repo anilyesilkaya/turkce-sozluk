@@ -2,6 +2,7 @@
 layout: term
 title: gerilemek
 slug: gerilemek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Geri çekilmek, geriye çekilmek

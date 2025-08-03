@@ -2,6 +2,7 @@
 layout: term
 title: kehanette bulunmak
 slug: kehanette-bulunmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kâhinlik etmek

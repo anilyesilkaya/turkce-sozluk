@@ -2,6 +2,7 @@
 layout: term
 title: iptida
 slug: iptida
+letter: I
 lisan: Arapça ibtidāʾ
 anlamlar:
 - ► başlangıç

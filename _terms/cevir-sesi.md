@@ -2,6 +2,7 @@
 layout: term
 title: çevir sesi
 slug: cevir-sesi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Telefon numarasının aranmaya hazır olduğunu belirten ince ve monoton ses; sinyal, çevir sinyali

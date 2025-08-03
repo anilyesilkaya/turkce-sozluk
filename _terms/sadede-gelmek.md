@@ -2,6 +2,7 @@
 layout: term
 title: sadede gelmek
 slug: sadede-gelmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - konuyla ilgisiz sözleri bırakarak asıl konuya dönmek

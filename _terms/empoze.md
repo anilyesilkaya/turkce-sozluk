@@ -2,6 +2,7 @@
 layout: term
 title: empoze
 slug: empoze
+letter: E
 lisan: Fransızca imposé
 anlamlar:
 - '"Dayatmak" anlamındaki empoze etmek birleşik fiilinde geçen bir söz'

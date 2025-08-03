@@ -2,6 +2,7 @@
 layout: term
 title: cilalanmak
 slug: cilalanmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cilalama işine konu olmak

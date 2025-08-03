@@ -2,6 +2,7 @@
 layout: term
 title: caziplik
 slug: caziplik
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► çekicilik

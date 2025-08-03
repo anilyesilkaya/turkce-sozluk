@@ -2,6 +2,7 @@
 layout: term
 title: çıplaklık
 slug: ciplaklik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıplak olma durumu; cıbıldaklık

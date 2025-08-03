@@ -2,6 +2,7 @@
 layout: term
 title: banjo
 slug: banjo
+letter: B
 lisan: Fransızca banjo
 anlamlar:
 - Amerika zencilerinin çaldığı gitar biçiminde, madenî gövdesi olan beş veya daha çok telli bir müzik aleti

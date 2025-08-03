@@ -2,6 +2,7 @@
 layout: term
 title: masun
 slug: masun
+letter: M
 lisan: Arapça maṣūn
 anlamlar:
 - Korunan, korunmuş

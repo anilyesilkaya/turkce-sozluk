@@ -2,6 +2,7 @@
 layout: term
 title: koruyuş
 slug: koruyus
+letter: K
 lisan: Türkçe
 anlamlar:
 - Korumak işi

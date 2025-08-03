@@ -2,6 +2,7 @@
 layout: term
 title: yıkı
 slug: yiki
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► harabe

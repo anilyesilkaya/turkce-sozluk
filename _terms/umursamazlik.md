@@ -2,6 +2,7 @@
 layout: term
 title: umursamazlık
 slug: umursamazlik
+letter: U
 lisan: Türkçe
 anlamlar:
 - Umursamama, aldırış etmeme durumu

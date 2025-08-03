@@ -2,6 +2,7 @@
 layout: term
 title: çınayaz
 slug: cinayaz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Açık, mehtaplı, çok soğuk hava

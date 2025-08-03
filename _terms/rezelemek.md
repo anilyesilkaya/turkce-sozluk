@@ -2,6 +2,7 @@
 layout: term
 title: rezelemek
 slug: rezelemek
+letter: R
 lisan: Türkçe
 anlamlar:
 - Reze ile kapamak

@@ -2,6 +2,7 @@
 layout: term
 title: çıkrıkçı
 slug: cikrikci
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıkrık yapıp satan kimse

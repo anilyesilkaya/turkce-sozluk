@@ -2,6 +2,7 @@
 layout: term
 title: bağbanlık
 slug: bagbanlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağbanın yaptığı iş

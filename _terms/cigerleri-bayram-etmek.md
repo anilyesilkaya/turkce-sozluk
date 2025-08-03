@@ -2,6 +2,7 @@
 layout: term
 title: ciğerleri bayram etmek
 slug: cigerleri-bayram-etmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - her zamankinden daha iyi cins sigara içmek

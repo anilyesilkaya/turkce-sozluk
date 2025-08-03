@@ -2,6 +2,7 @@
 layout: term
 title: gümbürtü
 slug: gumburtu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Birdenbire yankılı ve derinden gelen patlama, yıkılma, çarpma sesinin adı

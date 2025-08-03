@@ -2,6 +2,7 @@
 layout: term
 title: kapmak
 slug: kapmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Birdenbire yakalayarak, çekerek almak

@@ -2,6 +2,7 @@
 layout: term
 title: fütur etmemek
 slug: futur-etmemek
+letter: F
 lisan: Türkçe
 anlamlar:
 - umursamamak, önemsememek

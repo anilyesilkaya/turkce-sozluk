@@ -2,6 +2,7 @@
 layout: term
 title: tazı
 slug: tazi
+letter: T
 lisan: Farsça tāzī
 anlamlar:
 - Genellikle tavşan avında kullanılan, uzun bacaklı, çekik karınlı, çok çevik bir tür köpek (Canis familiaris grajus hibernicus)

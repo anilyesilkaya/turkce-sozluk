@@ -2,6 +2,7 @@
 layout: term
 title: gönlünü karartmak
 slug: gonlunu-karartmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - yaşamaya karşı sevgi ve isteğini azaltmak

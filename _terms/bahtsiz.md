@@ -2,6 +2,7 @@
 layout: term
 title: bahtsız
 slug: bahtsiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Yazgısı kötü olan; talihsiz, bedbaht, bibaht

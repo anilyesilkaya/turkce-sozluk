@@ -2,6 +2,7 @@
 layout: term
 title: cirit atmak
 slug: cirit-atmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - cirit oyununda değneği ileri atmak

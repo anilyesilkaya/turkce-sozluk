@@ -2,6 +2,7 @@
 layout: term
 title: taşmak
 slug: tasmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Sıvı maddeler, içinde bulundukları kaba sığmayacak kadar çoğalma ve kabarma yüzünden kenarları aşmak

@@ -2,6 +2,7 @@
 layout: term
 title: zırhlandırmak
 slug: zirhlandirmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zırhla kaplamak

@@ -2,6 +2,7 @@
 layout: term
 title: dilcik
 slug: dilcik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Buğdaygillerde, yaprak ayası ile yaprak kınının birbirinden ayrıldığı yerde bulunan sivri uçlu, küçük, saydam çıkıntı

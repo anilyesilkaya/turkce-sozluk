@@ -2,6 +2,7 @@
 layout: term
 title: bitiklik
 slug: bitiklik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bitik olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: değerlemek
 slug: degerlemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Değer belirtmek

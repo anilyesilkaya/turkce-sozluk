@@ -2,6 +2,7 @@
 layout: term
 title: sade kahve
 slug: sade-kahve
+letter: S
 lisan: Türkçe
 anlamlar:
 - İçine şeker konulmadan pişirilen Türk kahvesi

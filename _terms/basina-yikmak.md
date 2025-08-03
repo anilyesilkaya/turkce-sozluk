@@ -2,6 +2,7 @@
 layout: term
 title: başına yıkmak
 slug: basina-yikmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - harap etmek, zor durumda bırakmak

@@ -2,6 +2,7 @@
 layout: term
 title: alış fiyatı
 slug: alis-fiyati
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir mal için alım karşılığı ödenen para

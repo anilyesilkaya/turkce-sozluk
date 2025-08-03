@@ -2,6 +2,7 @@
 layout: term
 title: hilat
 slug: hilat
+letter: H
 lisan: Arapça ḫilʿat
 anlamlar:
 - ► kaftan

@@ -2,6 +2,7 @@
 layout: term
 title: kalp (veya kalbini) kırmak
 slug: kalp-veya-kalbini-kirmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - gönül kırmak

@@ -2,6 +2,7 @@
 layout: term
 title: risale
 slug: risale
+letter: R
 lisan: Arapça risāle
 anlamlar:
 - ► kitapçık

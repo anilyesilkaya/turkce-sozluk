@@ -2,6 +2,7 @@
 layout: term
 title: alevli
 slug: alevli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alevi olan, alevlenmiş

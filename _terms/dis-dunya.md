@@ -2,6 +2,7 @@
 layout: term
 title: dış dünya
 slug: dis-dunya
+letter: D
 lisan: Türkçe
 anlamlar:
 - Ülke dışı

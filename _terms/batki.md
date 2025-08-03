@@ -2,6 +2,7 @@
 layout: term
 title: batkı
 slug: batki
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► hüsran

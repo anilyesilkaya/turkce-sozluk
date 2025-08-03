@@ -2,6 +2,7 @@
 layout: term
 title: yerey
 slug: yerey
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► arazi

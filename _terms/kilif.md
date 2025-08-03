@@ -2,6 +2,7 @@
 layout: term
 title: kılıf
 slug: kilif
+letter: K
 lisan: Arapça ġilāf
 anlamlar:
 - Bir şeyi korumak için kendi biçimine göre, çoğunlukla yumuşak bir nesneden yapılmış özel kap; zarf

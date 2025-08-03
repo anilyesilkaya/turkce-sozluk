@@ -2,6 +2,7 @@
 layout: term
 title: çopur
 slug: copur
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Yüzü çiçek hastalığından kalma küçük yara izleri taşıyan, aşırı çiçek bozuğu olan (kimse); işkembe suratlı

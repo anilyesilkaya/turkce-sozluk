@@ -2,6 +2,7 @@
 layout: term
 title: kıvrıntı
 slug: kivrinti
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kıvrım

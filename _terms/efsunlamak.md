@@ -2,6 +2,7 @@
 layout: term
 title: efsunlamak
 slug: efsunlamak
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► büyülemek

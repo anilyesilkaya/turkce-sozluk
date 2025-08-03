@@ -2,6 +2,7 @@
 layout: term
 title: yeme
 slug: yeme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yemek işi

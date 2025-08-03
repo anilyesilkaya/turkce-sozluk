@@ -2,6 +2,7 @@
 layout: term
 title: hakikatsiz çıkmak
 slug: hakikatsiz-cikmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - yakınlığı ve bağlılığı sürekli olmamak

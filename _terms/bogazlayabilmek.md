@@ -2,6 +2,7 @@
 layout: term
 title: boğazlayabilmek
 slug: bogazlayabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boğazlama ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: kadrini bilmek
 slug: kadrini-bilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - değerini bilmek, yararlanmak

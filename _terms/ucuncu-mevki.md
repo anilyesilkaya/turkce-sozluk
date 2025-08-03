@@ -2,6 +2,7 @@
 layout: term
 title: üçüncü mevki
 slug: ucuncu-mevki
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Gemi, tren vb. taşıtlarda veya tiyatro, sinema vb. yerlerde normal tarifeden ucuz olan ve daha az hizmet verilen mevki; üçüncü sınıf

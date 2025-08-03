@@ -2,6 +2,7 @@
 layout: term
 title: bilmezlenmek
 slug: bilmezlenmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilmiyor gibi görünmek, bilmezlikten gelmek; tecahül etmek

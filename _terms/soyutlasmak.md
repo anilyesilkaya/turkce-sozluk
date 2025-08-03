@@ -2,6 +2,7 @@
 layout: term
 title: soyutlaşmak
 slug: soyutlasmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Soyut duruma gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: meslektaş
 slug: meslektas
+letter: M
 lisan: Türkçe
 anlamlar:
 - Aynı meslekten olanlardan her biri

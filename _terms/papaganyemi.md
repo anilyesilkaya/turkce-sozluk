@@ -2,6 +2,7 @@
 layout: term
 title: papağanyemi
 slug: papaganyemi
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► yalancı safran

@@ -2,6 +2,7 @@
 layout: term
 title: onur duymak
 slug: onur-duymak
+letter: O
 lisan: Türkçe
 anlamlar:
 - onurlanmak

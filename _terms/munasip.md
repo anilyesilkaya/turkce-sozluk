@@ -2,6 +2,7 @@
 layout: term
 title: münasip
 slug: munasip
+letter: M
 lisan: Arapça munāsib
 anlamlar:
 - ► yerinde

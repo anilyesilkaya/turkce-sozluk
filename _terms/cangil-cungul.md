@@ -2,6 +2,7 @@
 layout: term
 title: çangıl çungul
 slug: cangil-cungul
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çangır çungur

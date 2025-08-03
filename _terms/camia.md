@@ -2,6 +2,7 @@
 layout: term
 title: camia
 slug: camia
+letter: C
 lisan: Arapça cāmiʿa
 anlamlar:
 - Ortak eğilimleri nedeniyle bir araya gelerek birlik oluşturan insan topluluğu

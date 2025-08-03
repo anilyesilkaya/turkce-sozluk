@@ -2,6 +2,7 @@
 layout: term
 title: ailevi
 slug: ailevi
+letter: A
 lisan: Arapça ʿā´ilevį
 anlamlar:
 - Aileye dayalı

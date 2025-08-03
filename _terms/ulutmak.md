@@ -2,6 +2,7 @@
 layout: term
 title: ulutmak
 slug: ulutmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ulumasını sağlamak

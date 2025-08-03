@@ -2,6 +2,7 @@
 layout: term
 title: yerleşmek
 slug: yerlesmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yerine iyice oturmak, yerinde sabit olmak

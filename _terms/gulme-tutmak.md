@@ -2,6 +2,7 @@
 layout: term
 title: gülme tutmak
 slug: gulme-tutmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - kendini tutamayıp gülmek

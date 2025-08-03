@@ -2,6 +2,7 @@
 layout: term
 title: civcivlik
 slug: civcivlik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Civciv olma durumu

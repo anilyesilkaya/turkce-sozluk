@@ -2,6 +2,7 @@
 layout: term
 title: içine sinmek
 slug: icine-sinmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - isteğince olduğu için huzur ve mutluluk duymak

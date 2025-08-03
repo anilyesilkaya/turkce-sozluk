@@ -2,6 +2,7 @@
 layout: term
 title: kısıtlayabilmek
 slug: kisitlayabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kısıtlama ihtimali veya imkânı bulunmak

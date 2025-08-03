@@ -2,6 +2,7 @@
 layout: term
 title: içeriksiz
 slug: iceriksiz
+letter: I
 lisan: Türkçe
 anlamlar:
 - İçeriği olmayan

@@ -2,6 +2,7 @@
 layout: term
 title: mucip olmak
 slug: mucip-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - gerektirmek

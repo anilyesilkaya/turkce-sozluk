@@ -2,6 +2,7 @@
 layout: term
 title: su almak
 slug: su-almak
+letter: S
 lisan: Türkçe
 anlamlar:
 - suyu içine çekmek

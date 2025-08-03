@@ -2,6 +2,7 @@
 layout: term
 title: üleştirme sıfatı
 slug: ulestirme-sifati
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - 'Sayı adlarına -ar, -şar ekleri getirilerek kurulan ve ilgili nesneyi paylaştırma, dağıtma, ayırma vb. yönleriyle gösteren sıfat: otuzar (kitap), ikişer (kalem) vb'

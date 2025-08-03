@@ -2,6 +2,7 @@
 layout: term
 title: zırıl zırıl
 slug: ziril-ziril
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► hüngür hüngür

@@ -2,6 +2,7 @@
 layout: term
 title: su tankeri
 slug: su-tankeri
+letter: S
 lisan: Türkçe
 anlamlar:
 - Su taşımaya yarayan tanker

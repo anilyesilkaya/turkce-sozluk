@@ -2,6 +2,7 @@
 layout: term
 title: girme
 slug: girme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Girmek işi; intisap

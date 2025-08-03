@@ -2,6 +2,7 @@
 layout: term
 title: fecaat
 slug: fecaat
+letter: F
 lisan: Arapça fecāʿat
 anlamlar:
 - Çok acıklı, yürekler acısı durum

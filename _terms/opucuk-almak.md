@@ -2,6 +2,7 @@
 layout: term
 title: öpücük almak
 slug: opucuk-almak
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - fırsatını bulup öpmek

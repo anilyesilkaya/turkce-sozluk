@@ -2,6 +2,7 @@
 layout: term
 title: yarım sol etmek
 slug: yarim-sol-etmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - sol yana biraz yönelmek

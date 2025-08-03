@@ -2,6 +2,7 @@
 layout: term
 title: müessif
 slug: muessif
+letter: M
 lisan: Arapça muʾessif
 anlamlar:
 - Üzücü, üzüntü veren

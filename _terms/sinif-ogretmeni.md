@@ -2,6 +2,7 @@
 layout: term
 title: sınıf öğretmeni
 slug: sinif-ogretmeni
+letter: S
 lisan: Türkçe
 anlamlar:
 - İlkokul öğretmeni; sınıf muallimi

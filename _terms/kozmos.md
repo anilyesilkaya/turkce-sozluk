@@ -2,6 +2,7 @@
 layout: term
 title: kozmos
 slug: kozmos
+letter: K
 lisan: Fransızca cosmos
 anlamlar:
 - ► evren

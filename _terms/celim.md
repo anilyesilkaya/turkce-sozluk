@@ -2,6 +2,7 @@
 layout: term
 title: çelim
 slug: celim
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► güç (I)

@@ -2,6 +2,7 @@
 layout: term
 title: ıkıntı
 slug: ikinti
+letter: I
 lisan: Türkçe
 anlamlar:
 - Ikınmak işi

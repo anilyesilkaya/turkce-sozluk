@@ -2,6 +2,7 @@
 layout: term
 title: lösemili
 slug: losemili
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lösemi hastalığına yakalanmış olan

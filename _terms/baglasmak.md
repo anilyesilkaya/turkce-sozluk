@@ -2,6 +2,7 @@
 layout: term
 title: bağlaşmak
 slug: baglasmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir şey yapmak için birbirine antlaşma veya sözleşme ile bağlanmak, ittifak etmek

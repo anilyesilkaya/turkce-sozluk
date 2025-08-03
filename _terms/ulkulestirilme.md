@@ -2,6 +2,7 @@
 layout: term
 title: ülküleştirilme
 slug: ulkulestirilme
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Ülküleştirilmek işi

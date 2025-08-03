@@ -2,6 +2,7 @@
 layout: term
 title: harekât
 slug: harekat
+letter: H
 lisan: Arapça ḥarekāt
 anlamlar:
 - Davranışlar, işler

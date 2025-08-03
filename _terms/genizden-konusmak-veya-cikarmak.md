@@ -2,6 +2,7 @@
 layout: term
 title: genizden konuşmak (veya çıkarmak)
 slug: genizden-konusmak-veya-cikarmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - burnu tıkalı gibi konuşmak

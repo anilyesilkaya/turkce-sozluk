@@ -2,6 +2,7 @@
 layout: term
 title: dört kaşlı
 slug: dort-kasli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bıyığı yeni terleyen (delikanlı)

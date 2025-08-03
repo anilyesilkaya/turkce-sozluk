@@ -2,6 +2,7 @@
 layout: term
 title: inzibat meclisi
 slug: inzibat-meclisi
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► disiplin kurulu

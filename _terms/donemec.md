@@ -2,6 +2,7 @@
 layout: term
 title: dönemeç
 slug: donemec
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir yolun yön değiştirdiği yer; bük (I), büklüm, büküntü, kıvrım, kıvrıntı, viraj

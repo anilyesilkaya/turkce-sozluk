@@ -2,6 +2,7 @@
 layout: term
 title: elini çabuk tutmak
 slug: elini-cabuk-tutmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - gerekli önlemi zamanında almak

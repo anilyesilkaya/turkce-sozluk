@@ -2,6 +2,7 @@
 layout: term
 title: kargaşalık
 slug: kargasalik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kargaşa durumu; alavere, ifsat

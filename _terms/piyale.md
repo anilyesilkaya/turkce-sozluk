@@ -2,6 +2,7 @@
 layout: term
 title: piyale
 slug: piyale
+letter: P
 lisan: Farsça piyāle
 anlamlar:
 - Şarap bardağı, içki kadehi

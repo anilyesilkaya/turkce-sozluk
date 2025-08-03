@@ -2,6 +2,7 @@
 layout: term
 title: yordam
 slug: yordam
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► alışkanlık

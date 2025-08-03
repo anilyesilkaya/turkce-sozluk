@@ -2,6 +2,7 @@
 layout: term
 title: mahalle muhtarı
 slug: mahalle-muhtari
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► muhtar

@@ -2,6 +2,7 @@
 layout: term
 title: eli yüreğinde
 slug: eli-yureginde
+letter: E
 lisan: Türkçe
 anlamlar:
 - Heyecanlı bir biçimde

@@ -2,6 +2,7 @@
 layout: term
 title: solak
 slug: solak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Genellikle sol elini kullanan kimse

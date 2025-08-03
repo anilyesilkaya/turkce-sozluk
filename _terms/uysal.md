@@ -2,6 +2,7 @@
 layout: term
 title: uysal
 slug: uysal
+letter: U
 lisan: Türkçe
 anlamlar:
 - Başkalarına kolayca uyabilen, sözlerini dinleyip karşı gelmeyen; yumuşak başlı, munis

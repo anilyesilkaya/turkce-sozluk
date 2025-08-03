@@ -2,6 +2,7 @@
 layout: term
 title: düyek
 slug: duyek
+letter: D
 lisan: Farsça dū + yek
 anlamlar:
 - Türk müziğinde bir usul

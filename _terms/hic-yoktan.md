@@ -2,6 +2,7 @@
 layout: term
 title: hiç yoktan
 slug: hic-yoktan
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hiçbir sebep veya zorunluluk yokken, sebepsiz olarak

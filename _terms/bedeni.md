@@ -2,6 +2,7 @@
 layout: term
 title: bedenî
 slug: bedeni
+letter: B
 lisan: Arapça bedenī
 anlamlar:
 - ► bedensel

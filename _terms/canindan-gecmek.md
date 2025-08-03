@@ -2,6 +2,7 @@
 layout: term
 title: canından geçmek
 slug: canindan-gecmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - ölmek için hazır olmak

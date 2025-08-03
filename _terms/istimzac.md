@@ -2,6 +2,7 @@
 layout: term
 title: istimzaç
 slug: istimzac
+letter: I
 lisan: Arapça istimzāc
 anlamlar:
 - Bir kimsenin huyunu, kişiliğini tanımak için araştırma

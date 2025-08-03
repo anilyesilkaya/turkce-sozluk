@@ -2,6 +2,7 @@
 layout: term
 title: kalıpsızlık
 slug: kalipsizlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalıpsız olma durumu

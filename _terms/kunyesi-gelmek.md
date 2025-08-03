@@ -2,6 +2,7 @@
 layout: term
 title: künyesi gelmek
 slug: kunyesi-gelmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - savaşta bir askerin ölüm haberi kendi evine bildirilmek

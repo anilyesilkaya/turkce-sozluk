@@ -2,6 +2,7 @@
 layout: term
 title: marjinal
 slug: marjinal
+letter: M
 lisan: Fransızca marginal
 anlamlar:
 - ► aykırı

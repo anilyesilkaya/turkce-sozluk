@@ -2,6 +2,7 @@
 layout: term
 title: dörtnal
 slug: dortnal
+letter: D
 lisan: Türkçe
 anlamlar:
 - Atın en hızlı koşma biçimi

@@ -2,6 +2,7 @@
 layout: term
 title: hemoroit
 slug: hemoroit
+letter: H
 lisan: Fransızca hémorroïde
 anlamlar:
 - ► basur

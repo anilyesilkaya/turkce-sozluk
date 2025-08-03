@@ -2,6 +2,7 @@
 layout: term
 title: röportör
 slug: roportor
+letter: R
 lisan: Fransızca reporteur
 anlamlar:
 - Röportaj yapan kimse

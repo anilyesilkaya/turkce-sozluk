@@ -2,6 +2,7 @@
 layout: term
 title: oltacı
 slug: oltaci
+letter: O
 lisan: Türkçe
 anlamlar:
 - Balık avlamada kullanılan gereçleri satan kimse

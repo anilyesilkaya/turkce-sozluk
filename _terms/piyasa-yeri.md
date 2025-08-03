@@ -2,6 +2,7 @@
 layout: term
 title: piyasa yeri
 slug: piyasa-yeri
+letter: P
 lisan: Türkçe
 anlamlar:
 - Alışverişin çok olduğu yer

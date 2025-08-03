@@ -2,6 +2,7 @@
 layout: term
 title: çifte standart
 slug: cifte-standart
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Kişiye veya duruma göre farklı davranışlarda bulunma, tutarlı olmama

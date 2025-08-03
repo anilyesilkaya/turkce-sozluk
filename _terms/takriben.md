@@ -2,6 +2,7 @@
 layout: term
 title: takriben
 slug: takriben
+letter: T
 lisan: Arapça taḳrīben
 anlamlar:
 - ► aşağı yukarı

@@ -2,6 +2,7 @@
 layout: term
 title: takılma
 slug: takilma
+letter: T
 lisan: Türkçe
 anlamlar:
 - Takılmak işi

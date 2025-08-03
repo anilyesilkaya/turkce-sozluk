@@ -2,6 +2,7 @@
 layout: term
 title: barındırabilme
 slug: barindirabilme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Barındırabilmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: yaklaşmak
 slug: yaklasmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Aradaki mesafeyi azaltacak biçimde ilerlemek, aradaki uzaklığı azaltmak veya büsbütün ortadan kaldırmak için ileri gitmek

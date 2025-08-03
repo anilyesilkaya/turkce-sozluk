@@ -2,6 +2,7 @@
 layout: term
 title: zorlamak
 slug: zorlamak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak; zor kullanmak, mecbur etmek, cebretmek

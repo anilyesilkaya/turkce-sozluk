@@ -2,6 +2,7 @@
 layout: term
 title: perdahçı
 slug: perdahci
+letter: P
 lisan: Türkçe
 anlamlar:
 - Bazı parlatıcı maddelerle cila yapan kimse

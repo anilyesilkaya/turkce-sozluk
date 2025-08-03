@@ -2,6 +2,7 @@
 layout: term
 title: diskur geçmek (veya çekmek)
 slug: diskur-gecmek-veya-cekmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - nutuk verir gibi konuşmak

@@ -2,6 +2,7 @@
 layout: term
 title: anarşistlik
 slug: anarsistlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anarşist olma durumu

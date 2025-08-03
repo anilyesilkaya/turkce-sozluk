@@ -2,6 +2,7 @@
 layout: term
 title: talk pudrası
 slug: talk-pudrasi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Nişasta, bizmut, karbonat vb. ile karıştırılarak yapılan, özellikle bebeklerin pişik gibi deri hastalıkları için kullanılan pudra

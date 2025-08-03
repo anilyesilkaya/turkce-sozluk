@@ -2,6 +2,7 @@
 layout: term
 title: kik
 slug: kik
+letter: K
 lisan: İngilizce gig
 anlamlar:
 - ► futa

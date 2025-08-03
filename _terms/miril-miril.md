@@ -2,6 +2,7 @@
 layout: term
 title: mırıl mırıl
 slug: miril-miril
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mırıltılı ses çıkararak

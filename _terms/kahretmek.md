@@ -2,6 +2,7 @@
 layout: term
 title: kahretmek
 slug: kahretmek
+letter: K
 lisan: Arapça ḳahr + Türkçe etmek
 anlamlar:
 - Ezmek, perişan etmek

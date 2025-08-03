@@ -2,6 +2,7 @@
 layout: term
 title: ciğer yarası
 slug: ciger-yarasi
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► evlat acısı

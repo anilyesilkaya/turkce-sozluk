@@ -2,6 +2,7 @@
 layout: term
 title: rezeksiyon
 slug: rezeksiyon
+letter: R
 lisan: Fransızca résection
 anlamlar:
 - Sağlam kısımları korumak ve gerekiyorsa o kısımların bağlantısını yeniden kurmak suretiyle bir organın bir parçasını kesip çıkarmak için yapılan cerrahi müdahale

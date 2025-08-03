@@ -2,6 +2,7 @@
 layout: term
 title: taşlar yerine oturmak
 slug: taslar-yerine-oturmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - her şey yerli yerinde olmak

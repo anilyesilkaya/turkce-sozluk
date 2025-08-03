@@ -2,6 +2,7 @@
 layout: term
 title: ayılmak
 slug: ayilmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Sarhoşluk, baygınlık vb. bir durumdan kurtulmak, kendine gelmek; ayıkmak, aymak

@@ -2,6 +2,7 @@
 layout: term
 title: bu kabîl
 slug: bu-kabil
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► böyle

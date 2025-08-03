@@ -2,6 +2,7 @@
 layout: term
 title: camcı
 slug: camci
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cam ticaretini veya cam takmayı meslek edinmiş kimse

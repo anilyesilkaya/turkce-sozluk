@@ -2,6 +2,7 @@
 layout: term
 title: işveren
 slug: isveren
+letter: I
 lisan: Türkçe
 anlamlar:
 - İşçileri ücretle çalıştıran gerçek veya tüzel kişi; çalıştıran, patron (I)

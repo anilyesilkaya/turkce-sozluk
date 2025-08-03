@@ -2,6 +2,7 @@
 layout: term
 title: dolaştırmak
 slug: dolastirmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dolaşma işini yaptırmak; dolandırmak

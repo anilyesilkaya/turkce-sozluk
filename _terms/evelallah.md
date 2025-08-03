@@ -2,6 +2,7 @@
 layout: term
 title: evelallah
 slug: evelallah
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► kesinlikle

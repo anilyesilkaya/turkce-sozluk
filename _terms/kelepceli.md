@@ -2,6 +2,7 @@
 layout: term
 title: kelepçeli
 slug: kelepceli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kelepçesi olan

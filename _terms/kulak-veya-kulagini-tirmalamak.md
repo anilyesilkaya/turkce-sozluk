@@ -2,6 +2,7 @@
 layout: term
 title: kulak (veya kulağını) tırmalamak
 slug: kulak-veya-kulagini-tirmalamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kulağı rahatsız etmek

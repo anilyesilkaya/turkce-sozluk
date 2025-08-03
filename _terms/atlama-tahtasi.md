@@ -2,6 +2,7 @@
 layout: term
 title: atlama tahtası
 slug: atlama-tahtasi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Atletizm yarışmalarında tek adım veya üç adım atlamada kullanılan sıçrama tahtası

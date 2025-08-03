@@ -2,6 +2,7 @@
 layout: term
 title: tahammülfersa
 slug: tahammulfersa
+letter: T
 lisan: Arapça taḥammul + Farsça -fersā
 anlamlar:
 - ► dayanılmaz

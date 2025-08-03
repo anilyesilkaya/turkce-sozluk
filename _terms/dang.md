@@ -2,6 +2,7 @@
 layout: term
 title: dang
 slug: dang
+letter: D
 lisan: Fransızca dengue
 anlamlar:
 - Başta, kaslarda ve oynaklarda ağrılar yapan, vücutta kızıl lekeler gösteren, ateşli ve salgın bir hastalık

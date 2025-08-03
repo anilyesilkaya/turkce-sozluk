@@ -2,6 +2,7 @@
 layout: term
 title: yüğrük
 slug: yugruk
+letter: Y
 lisan: Türkçe
 anlamlar:
 - İyi yürüyen, iyi koşan

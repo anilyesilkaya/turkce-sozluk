@@ -2,6 +2,7 @@
 layout: term
 title: beraber
 slug: beraber
+letter: B
 lisan: Farsça berāber
 anlamlar:
 - Birlikte, bir arada; bir

@@ -2,6 +2,7 @@
 layout: term
 title: cerrahlık
 slug: cerrahlik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cerrah olma durumu

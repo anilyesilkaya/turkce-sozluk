@@ -2,6 +2,7 @@
 layout: term
 title: söküntü
 slug: sokuntu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sökülen şeyin parçası

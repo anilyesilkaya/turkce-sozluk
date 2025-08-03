@@ -2,6 +2,7 @@
 layout: term
 title: başköşe
 slug: baskose
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir yerde en saygın kişinin veya büyüklerin oturması için ayrılan yer; tör

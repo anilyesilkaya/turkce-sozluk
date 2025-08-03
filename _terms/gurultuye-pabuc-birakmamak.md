@@ -2,6 +2,7 @@
 layout: term
 title: gürültüye pabuç bırakmamak
 slug: gurultuye-pabuc-birakmamak
+letter: G
 lisan: Türkçe
 anlamlar:
 - patırtıya pabuç bırakmamak

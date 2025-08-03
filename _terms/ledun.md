@@ -2,6 +2,7 @@
 layout: term
 title: ledün
 slug: ledun
+letter: L
 lisan: Arapça ledunn
 anlamlar:
 - Tanrı katı

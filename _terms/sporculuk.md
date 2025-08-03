@@ -2,6 +2,7 @@
 layout: term
 title: sporculuk
 slug: sporculuk
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sporcu olma durumu

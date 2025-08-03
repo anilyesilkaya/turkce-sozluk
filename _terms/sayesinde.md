@@ -2,6 +2,7 @@
 layout: term
 title: sayesinde
 slug: sayesinde
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► aracılığıyla

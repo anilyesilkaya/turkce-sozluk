@@ -2,6 +2,7 @@
 layout: term
 title: sıkıntısı olmak
 slug: sikintisi-olmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - tedirgin, rahatsız eden bir durumda bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: amatörlük
 slug: amatorluk
+letter: A
 lisan: Türkçe
 anlamlar:
 - Amatör olma durumu; özengenlik

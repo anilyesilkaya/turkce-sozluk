@@ -2,6 +2,7 @@
 layout: term
 title: çıkar gözetmek
 slug: cikar-gozetmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - çıkarına bakmak

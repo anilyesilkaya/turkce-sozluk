@@ -2,6 +2,7 @@
 layout: term
 title: ucu bucağı yok (veya kayıp)
 slug: ucu-bucagi-yok-veya-kayip
+letter: U
 lisan: Türkçe
 anlamlar:
 - başı sonu olmayan, sınırsız, sonsuz

@@ -2,6 +2,7 @@
 layout: term
 title: sulbünden gelmek
 slug: sulbunden-gelmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - bir kimsenin öz evladı olmak

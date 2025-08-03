@@ -2,6 +2,7 @@
 layout: term
 title: ateşçi
 slug: atesci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Fabrika, vapur, lokomotif vb. ateşle işleyen yerlerde ocaklara kömür atıp ateşin sürekli yanmasını sağlayan kimse; kazancı, ocakçı

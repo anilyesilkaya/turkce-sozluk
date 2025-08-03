@@ -2,6 +2,7 @@
 layout: term
 title: usa vurma
 slug: usa-vurma
+letter: U
 lisan: Türkçe
 anlamlar:
 - Usa vurmak işi; uslamlama, muhakeme

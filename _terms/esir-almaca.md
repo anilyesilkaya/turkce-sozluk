@@ -2,6 +2,7 @@
 layout: term
 title: esir almaca
 slug: esir-almaca
+letter: E
 lisan: Türkçe
 anlamlar:
 - Karşı takım oyuncularını tutsak ederek kazanılan bir çocuk oyunu

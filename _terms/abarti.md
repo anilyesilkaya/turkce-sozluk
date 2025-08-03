@@ -2,6 +2,7 @@
 layout: term
 title: abartı
 slug: abarti
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir şeyi, bir olayı olduğundan büyük veya çok gösterme; mübalağa

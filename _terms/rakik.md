@@ -2,6 +2,7 @@
 layout: term
 title: rakik
 slug: rakik
+letter: R
 lisan: Arapça raḳīḳ
 anlamlar:
 - İnce, narin

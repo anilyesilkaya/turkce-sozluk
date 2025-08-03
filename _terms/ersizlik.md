@@ -2,6 +2,7 @@
 layout: term
 title: ersizlik
 slug: ersizlik
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► kocasızlık

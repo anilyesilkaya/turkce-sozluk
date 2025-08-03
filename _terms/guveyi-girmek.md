@@ -2,6 +2,7 @@
 layout: term
 title: güveyi girmek
 slug: guveyi-girmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - erkek, evlenmek

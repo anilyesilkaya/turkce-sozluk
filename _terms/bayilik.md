@@ -2,6 +2,7 @@
 layout: term
 title: bayilik
 slug: bayilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Ana firmanın bir malın veya hizmetin satışı için başka bir firma veya bireye verdiği yetki

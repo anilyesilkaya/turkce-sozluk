@@ -2,6 +2,7 @@
 layout: term
 title: hoppaca
 slug: hoppaca
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hoppa gibi

@@ -2,6 +2,7 @@
 layout: term
 title: efendi efendi
 slug: efendi-efendi
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► uslu uslu

@@ -2,6 +2,7 @@
 layout: term
 title: topraklı
 slug: toprakli
+letter: T
 lisan: Türkçe
 anlamlar:
 - İçine toprak karışmış

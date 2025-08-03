@@ -2,6 +2,7 @@
 layout: term
 title: meyvelenme
 slug: meyvelenme
+letter: M
 lisan: Türkçe
 anlamlar:
 - Meyvelenmek işi

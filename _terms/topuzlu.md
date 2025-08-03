@@ -2,6 +2,7 @@
 layout: term
 title: topuzlu
 slug: topuzlu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Topuzu olan

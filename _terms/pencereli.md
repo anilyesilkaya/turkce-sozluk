@@ -2,6 +2,7 @@
 layout: term
 title: pencereli
 slug: pencereli
+letter: P
 lisan: Türkçe
 anlamlar:
 - Penceresi olan

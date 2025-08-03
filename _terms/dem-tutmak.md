@@ -2,6 +2,7 @@
 layout: term
 title: dem tutmak
 slug: dem-tutmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - bir çalgıya başka bir çalgı veya sesle eşlik etmek

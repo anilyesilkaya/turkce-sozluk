@@ -2,6 +2,7 @@
 layout: term
 title: ağzına yüzüne bulaştırmak
 slug: agzina-yuzune-bulastirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir işi kötü yapmak, becerememek

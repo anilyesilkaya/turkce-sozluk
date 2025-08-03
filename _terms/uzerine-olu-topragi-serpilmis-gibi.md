@@ -2,6 +2,7 @@
 layout: term
 title: üzerine ölü toprağı serpilmiş gibi
 slug: uzerine-olu-topragi-serpilmis-gibi
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - üstüne ölü toprağı serpilmiş gibi

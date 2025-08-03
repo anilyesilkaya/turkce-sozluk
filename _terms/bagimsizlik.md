@@ -2,6 +2,7 @@
 layout: term
 title: bağımsızlık
 slug: bagimsizlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağımsız olma durumu; istiklal

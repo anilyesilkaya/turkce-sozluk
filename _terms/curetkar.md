@@ -2,6 +2,7 @@
 layout: term
 title: cüretkâr
 slug: curetkar
+letter: C
 lisan: Arapça curʾet + Farsça -kār
 anlamlar:
 - ► cüretli

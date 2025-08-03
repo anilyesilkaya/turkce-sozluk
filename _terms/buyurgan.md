@@ -2,6 +2,7 @@
 layout: term
 title: buyurgan
 slug: buyurgan
+letter: B
 lisan: Türkçe
 anlamlar:
 - Sık sık emir veren, rmir verir gibi konuşan

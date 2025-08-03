@@ -2,6 +2,7 @@
 layout: term
 title: demokrasi
 slug: demokrasi
+letter: D
 lisan: Fransızca démocratie
 anlamlar:
 - Halkın egemenliği temeline dayanan yönetim biçimi; el erki, demokratlık

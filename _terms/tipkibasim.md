@@ -2,6 +2,7 @@
 layout: term
 title: tıpkıbasım
 slug: tipkibasim
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir yazı, desen, tablo vb.nin fotoğrafından kalıp çıkarılarak yapılan aynı basımı; faksimile

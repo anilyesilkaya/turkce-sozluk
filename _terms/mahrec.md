@@ -2,6 +2,7 @@
 layout: term
 title: mahreç
 slug: mahrec
+letter: M
 lisan: Arapça maḫrec
 anlamlar:
 - ► çıkak

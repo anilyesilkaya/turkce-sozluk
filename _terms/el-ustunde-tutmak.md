@@ -2,6 +2,7 @@
 layout: term
 title: el üstünde tutmak
 slug: el-ustunde-tutmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - bir kimseye çok saygı ve sevgi göstermek

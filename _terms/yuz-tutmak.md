@@ -2,6 +2,7 @@
 layout: term
 title: yüz tutmak
 slug: yuz-tutmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - bir şey, olmak üzere bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: göresime
 slug: goresime
+letter: G
 lisan: Türkçe
 anlamlar:
 - Göresimek işi

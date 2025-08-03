@@ -2,6 +2,7 @@
 layout: term
 title: orlon
 slug: orlon
+letter: O
 lisan: Fransızca orlon
 anlamlar:
 - Yapay dokuma ipliği

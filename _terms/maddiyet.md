@@ -2,6 +2,7 @@
 layout: term
 title: maddiyet
 slug: maddiyet
+letter: M
 lisan: Arapça māddiyet
 anlamlar:
 - ► maddilik

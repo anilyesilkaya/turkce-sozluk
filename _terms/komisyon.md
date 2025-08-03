@@ -2,6 +2,7 @@
 layout: term
 title: komisyon
 slug: komisyon
+letter: K
 lisan: Fransızca commission
 anlamlar:
 - ► alt kurul

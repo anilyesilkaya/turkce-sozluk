@@ -2,6 +2,7 @@
 layout: term
 title: piyazlamak
 slug: piyazlamak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Eti pişirmeden birkaç saat önce soğan, karabiber, tarçın vb. baharatla ovup bir süre bırakmak

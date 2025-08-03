@@ -2,6 +2,7 @@
 layout: term
 title: sipariş
 slug: siparis
+letter: S
 lisan: Farsça sipāriş
 anlamlar:
 - ► ısmarlama

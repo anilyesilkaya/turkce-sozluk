@@ -2,6 +2,7 @@
 layout: term
 title: kalbini burmak
 slug: kalbini-burmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - üzmek, sıkıntı vermek

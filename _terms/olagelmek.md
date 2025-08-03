@@ -2,6 +2,7 @@
 layout: term
 title: olagelmek
 slug: olagelmek
+letter: O
 lisan: Türkçe
 anlamlar:
 - Öteden beri sürüp gelmek

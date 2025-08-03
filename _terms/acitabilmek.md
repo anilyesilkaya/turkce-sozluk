@@ -2,6 +2,7 @@
 layout: term
 title: acıtabilmek
 slug: acitabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Acıtma ihtimali veya imkânı bulunmak

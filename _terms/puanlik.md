@@ -2,6 +2,7 @@
 layout: term
 title: puanlık
 slug: puanlik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Puan değerinde olan

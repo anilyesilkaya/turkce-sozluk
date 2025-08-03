@@ -2,6 +2,7 @@
 layout: term
 title: sündürebilmek
 slug: sundurebilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sündürme ihtimali veya imkânı bulunmak

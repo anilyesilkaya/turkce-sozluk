@@ -2,6 +2,7 @@
 layout: term
 title: anam babam
 slug: anam-babam
+letter: A
 lisan: Türkçe
 anlamlar:
 - içtenlik bildiren bir söz

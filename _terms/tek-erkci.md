@@ -2,6 +2,7 @@
 layout: term
 title: tek erkçi
 slug: tek-erkci
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► monarşist

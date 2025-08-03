@@ -2,6 +2,7 @@
 layout: term
 title: göbekli
 slug: gobekli
+letter: G
 lisan: Türkçe
 anlamlar:
 - Karnı yağlanıp şişmanlamış

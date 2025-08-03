@@ -2,6 +2,7 @@
 layout: term
 title: zevk almak (veya duymak)
 slug: zevk-almak-veya-duymak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - hoşlanmak, beğenmek

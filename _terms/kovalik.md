@@ -2,6 +2,7 @@
 layout: term
 title: kovalık
 slug: kovalik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sazlık yer

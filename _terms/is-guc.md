@@ -2,6 +2,7 @@
 layout: term
 title: iş güç
 slug: is-guc
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► uğraş

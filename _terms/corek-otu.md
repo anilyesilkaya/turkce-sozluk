@@ -2,6 +2,7 @@
 layout: term
 title: çörek otu
 slug: corek-otu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Düğün çiçeğigiller familyasından, çiçekleri açık mavi, tohumları siyah renkli olan, tek yıllık otsu bitki; karacaot (Nigella damascena)

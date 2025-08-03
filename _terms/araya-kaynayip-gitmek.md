@@ -2,6 +2,7 @@
 layout: term
 title: araya kaynayıp gitmek
 slug: araya-kaynayip-gitmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - göz ardı edilmek

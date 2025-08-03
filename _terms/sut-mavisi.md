@@ -2,6 +2,7 @@
 layout: term
 title: süt mavisi
 slug: sut-mavisi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Çok açık mavi

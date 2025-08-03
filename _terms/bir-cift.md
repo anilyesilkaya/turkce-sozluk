@@ -2,6 +2,7 @@
 layout: term
 title: bir çift
 slug: bir-cift
+letter: B
 lisan: Türkçe
 anlamlar:
 - Aynı şeyden iki adet

@@ -2,6 +2,7 @@
 layout: term
 title: baltalayıcı
 slug: baltalayici
+letter: B
 lisan: Türkçe
 anlamlar:
 - Baltalama işini yapan (kimse); sabotajcı

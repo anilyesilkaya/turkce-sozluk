@@ -2,6 +2,7 @@
 layout: term
 title: hurra
 slug: hurra
+letter: H
 lisan: İngilizce hurray
 anlamlar:
 - Kalabalık ve gürültülü hareketlenmeyi ifade eden söz

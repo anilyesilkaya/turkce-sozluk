@@ -2,6 +2,7 @@
 layout: term
 title: ergin
 slug: ergin
+letter: E
 lisan: Türkçe
 anlamlar:
 - Olmuş, yetişmiş, kemale ermiş

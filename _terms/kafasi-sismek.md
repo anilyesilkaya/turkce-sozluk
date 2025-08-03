@@ -2,6 +2,7 @@
 layout: term
 title: kafası şişmek
 slug: kafasi-sismek
+letter: K
 lisan: Türkçe
 anlamlar:
 - zihni yorulmak

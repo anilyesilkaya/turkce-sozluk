@@ -2,6 +2,7 @@
 layout: term
 title: ortadan kaldırmak
 slug: ortadan-kaldirmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - saklamak

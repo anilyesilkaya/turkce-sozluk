@@ -2,6 +2,7 @@
 layout: term
 title: feci
 slug: feci
+letter: F
 lisan: Arapça fecīʿ
 anlamlar:
 - Çok acıklı

@@ -2,6 +2,7 @@
 layout: term
 title: izmihlal
 slug: izmihlal
+letter: I
 lisan: Arapça iżmiḥlāl
 anlamlar:
 - Yok olup bitme

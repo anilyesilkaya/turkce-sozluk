@@ -2,6 +2,7 @@
 layout: term
 title: ara
 slug: ara
+letter: A
 lisan: Türkçe
 anlamlar:
 - İki şeyi birbirinden ayıran uzaklık; çatlak, mesafe

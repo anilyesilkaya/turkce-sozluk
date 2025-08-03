@@ -2,6 +2,7 @@
 layout: term
 title: kendine mahsus
 slug: kendine-mahsus
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kendine özgü

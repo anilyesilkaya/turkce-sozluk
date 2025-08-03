@@ -2,6 +2,7 @@
 layout: term
 title: bencil
 slug: bencil
+letter: B
 lisan: Türkçe
 anlamlar:
 - Yalnız kendini düşünen, kendi çıkarlarını herkesinkinden üstün tutan; kendimci, hodbin, hodkâm, egoist

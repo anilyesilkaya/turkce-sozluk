@@ -2,6 +2,7 @@
 layout: term
 title: canevinden vurmak
 slug: canevinden-vurmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - en etkileyici yönünden saldırmak

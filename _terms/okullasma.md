@@ -2,6 +2,7 @@
 layout: term
 title: okullaşma
 slug: okullasma
+letter: O
 lisan: Türkçe
 anlamlar:
 - Okullaşmak durumu

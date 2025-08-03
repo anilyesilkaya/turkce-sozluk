@@ -2,6 +2,7 @@
 layout: term
 title: çocuklaşmak
 slug: cocuklasmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çocuk gibi davranışlarda bulunmak

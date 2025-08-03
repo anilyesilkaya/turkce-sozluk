@@ -2,6 +2,7 @@
 layout: term
 title: müdara etmek
 slug: mudara-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - dost gibi görünmek, yüze gülmek

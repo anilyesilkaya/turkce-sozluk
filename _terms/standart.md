@@ -2,6 +2,7 @@
 layout: term
 title: standart
 slug: standart
+letter: S
 lisan: Fransızca standard
 anlamlar:
 - Belli bir tipe göre yapılmış veya ayrılmış; ölçün, ölçünlü, tek biçim, tek tip

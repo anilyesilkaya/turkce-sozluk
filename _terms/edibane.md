@@ -2,6 +2,7 @@
 layout: term
 title: edibane
 slug: edibane
+letter: E
 lisan: Arapça edīb + Farsça -āne
 anlamlar:
 - Terbiyeli, nazik olan

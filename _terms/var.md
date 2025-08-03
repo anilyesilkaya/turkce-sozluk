@@ -2,6 +2,7 @@
 layout: term
 title: var
 slug: var
+letter: V
 lisan: Türkçe
 anlamlar:
 - Mevcut, evrende veya düşüncede yer alan, yok karşıtı

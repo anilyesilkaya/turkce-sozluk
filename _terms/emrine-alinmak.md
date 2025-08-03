@@ -2,6 +2,7 @@
 layout: term
 title: emrine alınmak
 slug: emrine-alinmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - hizmetine verilmek

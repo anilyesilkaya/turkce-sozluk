@@ -2,6 +2,7 @@
 layout: term
 title: karargâh
 slug: karargah
+letter: K
 lisan: Arapça ḳarār + Farsça -gāh
 anlamlar:
 - Bir birlik veya kurumun, kumandan ile yardımcı şube ve bölümlerinden oluşan kuruluş

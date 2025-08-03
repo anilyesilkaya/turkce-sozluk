@@ -2,6 +2,7 @@
 layout: term
 title: ciğercilik
 slug: cigercilik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Ciğercinin yaptığı iş

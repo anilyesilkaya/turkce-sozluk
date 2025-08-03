@@ -2,6 +2,7 @@
 layout: term
 title: neme lazımcı
 slug: neme-lazimci
+letter: N
 lisan: Türkçe
 anlamlar:
 - İlgilenilmesi gereken şeylerle ilgilenmekten kaçınan; neme gerekçi

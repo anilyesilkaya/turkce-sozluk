@@ -2,6 +2,7 @@
 layout: term
 title: kavil kesmek
 slug: kavil-kesmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - sözleşmek

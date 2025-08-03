@@ -2,6 +2,7 @@
 layout: term
 title: emirname
 slug: emirname
+letter: E
 lisan: Arapça emr + Farsça nāme
 anlamlar:
 - Yazılı olan buyruk

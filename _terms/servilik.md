@@ -2,6 +2,7 @@
 layout: term
 title: servilik
 slug: servilik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Servisi çok olan yer

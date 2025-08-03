@@ -2,6 +2,7 @@
 layout: term
 title: erik
 slug: erik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Gülgillerden, beyaz çiçekli bir ağaç (Prunus domestica)

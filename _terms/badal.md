@@ -2,6 +2,7 @@
 layout: term
 title: badal
 slug: badal
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► merdiven

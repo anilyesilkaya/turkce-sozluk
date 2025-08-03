@@ -2,6 +2,7 @@
 layout: term
 title: hare
 slug: hare
+letter: H
 lisan: Farsça ḫāre
 anlamlar:
 - Bazı nesne, canlı, göz vb.nde dalgalanır gibi görünen parlak çizgiler; meneviş, dalgır

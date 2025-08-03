@@ -2,6 +2,7 @@
 layout: term
 title: karsanbaç
 slug: karsanbac
+letter: K
 lisan: Türkçe
 anlamlar:
 - Üzerine vişne vb. şerbet dökülerek yenen rendelenmiş buz

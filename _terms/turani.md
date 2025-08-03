@@ -2,6 +2,7 @@
 layout: term
 title: Turani
 slug: turani
+letter: T
 lisan: Farsça tūrān + Arapça -ī
 anlamlar:
 - ► Turanlı

@@ -2,6 +2,7 @@
 layout: term
 title: acı yavşan
 slug: aci-yavsan
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► tüylü dalak otu

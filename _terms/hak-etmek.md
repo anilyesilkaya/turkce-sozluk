@@ -2,6 +2,7 @@
 layout: term
 title: hak etmek
 slug: hak-etmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - bir emek karşılığı hakkı olan şeyi elde etmek, hak kazanmak

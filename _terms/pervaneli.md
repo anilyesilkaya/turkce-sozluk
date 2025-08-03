@@ -2,6 +2,7 @@
 layout: term
 title: pervaneli
 slug: pervaneli
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pervanesi olan

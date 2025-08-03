@@ -2,6 +2,7 @@
 layout: term
 title: standartlaşma
 slug: standartlasma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Standartlaşmak durumu; standardizasyon

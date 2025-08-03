@@ -2,6 +2,7 @@
 layout: term
 title: mefkûre
 slug: mefkure
+letter: M
 lisan: Arapça mefkūre
 anlamlar:
 - ► ülkü

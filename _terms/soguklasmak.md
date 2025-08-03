@@ -2,6 +2,7 @@
 layout: term
 title: soğuklaşmak
 slug: soguklasmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► soğumak

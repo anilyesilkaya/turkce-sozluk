@@ -2,6 +2,7 @@
 layout: term
 title: tahlisiye sandalı
 slug: tahlisiye-sandali
+letter: T
 lisan: Türkçe
 anlamlar:
 - Kaza sırasında yolcuların kurtarılması için gemi güvertesinde bulundurulan sandal; tahlisiye

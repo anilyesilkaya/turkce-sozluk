@@ -2,6 +2,7 @@
 layout: term
 title: zor kullanmak
 slug: zor-kullanmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - bir işin yapılması için her türlü baskıya başvurmak

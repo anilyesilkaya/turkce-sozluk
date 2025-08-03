@@ -2,6 +2,7 @@
 layout: term
 title: erkek sel, kadın göl
 slug: erkek-sel-kadin-gol
+letter: E
 lisan: Türkçe
 anlamlar:
 - '"erkek, parayı bilinçsizce harcama eğiliminde olsa bile kadın buna meydan vermemeli, tutumlu olmalıdır" anlamında kullanılan bir söz'

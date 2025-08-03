@@ -2,6 +2,7 @@
 layout: term
 title: korkunç
 slug: korkunc
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çok korkulu, korku veren, dehşete düşüren; müthiş

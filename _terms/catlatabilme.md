@@ -2,6 +2,7 @@
 layout: term
 title: çatlatabilme
 slug: catlatabilme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çatlatabilmek işi

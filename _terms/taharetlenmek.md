@@ -2,6 +2,7 @@
 layout: term
 title: taharetlenmek
 slug: taharetlenmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Sidik ve dışkı yapıldıktan sonra suyla temizlenmek

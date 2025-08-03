@@ -2,6 +2,7 @@
 layout: term
 title: gönderme
 slug: gonderme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Göndermek işi; atıf, irsal

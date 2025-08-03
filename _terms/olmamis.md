@@ -2,6 +2,7 @@
 layout: term
 title: olmamış
 slug: olmamis
+letter: O
 lisan: Türkçe
 anlamlar:
 - Olgunlaşmamış, ham olan

@@ -2,6 +2,7 @@
 layout: term
 title: dağınıkça
 slug: daginikca
+letter: D
 lisan: Türkçe
 anlamlar:
 - Biraz dağılmış, dağınık gibi

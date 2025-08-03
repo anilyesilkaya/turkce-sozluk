@@ -2,6 +2,7 @@
 layout: term
 title: manalı
 slug: manali
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► anlamlı

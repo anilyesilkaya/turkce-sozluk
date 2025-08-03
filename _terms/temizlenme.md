@@ -2,6 +2,7 @@
 layout: term
 title: temizlenme
 slug: temizlenme
+letter: T
 lisan: Türkçe
 anlamlar:
 - Temizlenmek işi; arınma, paklanma

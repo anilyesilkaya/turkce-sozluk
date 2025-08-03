@@ -2,6 +2,7 @@
 layout: term
 title: çadır yıkmak
 slug: cadir-yikmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - kurulu çadırları bozmak, çözüp toplamak

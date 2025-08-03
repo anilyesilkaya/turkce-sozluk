@@ -2,6 +2,7 @@
 layout: term
 title: vasıfsızlık
 slug: vasifsizlik
+letter: V
 lisan: Türkçe
 anlamlar:
 - ► niteliksizlik

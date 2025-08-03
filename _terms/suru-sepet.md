@@ -2,6 +2,7 @@
 layout: term
 title: sürü sepet
 slug: suru-sepet
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► birçok

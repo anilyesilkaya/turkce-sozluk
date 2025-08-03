@@ -2,6 +2,7 @@
 layout: term
 title: gurup
 slug: gurup
+letter: G
 lisan: Arapça ġurūb
 anlamlar:
 - Ay, güneş, yıldız vb. gök cisimlerinin ufkun altına inmesi

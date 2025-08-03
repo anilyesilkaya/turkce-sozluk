@@ -2,6 +2,7 @@
 layout: term
 title: yakabilmek
 slug: yakabilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yakma ihtimali veya imkânı bulunmak

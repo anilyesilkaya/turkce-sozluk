@@ -2,6 +2,7 @@
 layout: term
 title: kalıplaşma
 slug: kaliplasma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalıplaşmak işi

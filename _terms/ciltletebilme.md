@@ -2,6 +2,7 @@
 layout: term
 title: ciltletebilme
 slug: ciltletebilme
+letter: C
 lisan: Türkçe
 anlamlar:
 - Ciltletebilmek işi

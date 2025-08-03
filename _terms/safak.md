@@ -2,6 +2,7 @@
 layout: term
 title: şafak
 slug: safak
+letter: Ş
 lisan: Arapça şefaḳ
 anlamlar:
 - Güneş doğmadan az önce beliren aydınlık

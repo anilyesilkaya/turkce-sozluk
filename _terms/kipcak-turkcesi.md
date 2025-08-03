@@ -2,6 +2,7 @@
 layout: term
 title: 'Kıpçak Türkçesi '
 slug: kipcak-turkcesi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kıpçak Türklerinin kullandığı konuşma ve yazı dili; Kıpçakça, Kumanca, Kuman Türkçesi

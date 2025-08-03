@@ -2,6 +2,7 @@
 layout: term
 title: zihnen
 slug: zihnen
+letter: Z
 lisan: Arapça ẕihnen
 anlamlar:
 - ► zihince

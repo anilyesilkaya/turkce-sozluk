@@ -2,6 +2,7 @@
 layout: term
 title: kırkar
 slug: kirkar
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kırk sayısının üleştirme sayı sıfatı

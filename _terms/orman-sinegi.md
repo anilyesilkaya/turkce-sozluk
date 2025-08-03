@@ -2,6 +2,7 @@
 layout: term
 title: 'orman sineği '
 slug: orman-sinegi
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► at sineği

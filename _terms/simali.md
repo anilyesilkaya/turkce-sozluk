@@ -2,6 +2,7 @@
 layout: term
 title: Şimalî
 slug: simali
+letter: Ş
 lisan: Arapça şimālį
 anlamlar:
 - ► Kuzey

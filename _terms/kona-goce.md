@@ -2,6 +2,7 @@
 layout: term
 title: kona göçe
 slug: kona-goce
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yolculukta konaklayarak, geziye zaman zaman ara vererek

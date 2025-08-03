@@ -2,6 +2,7 @@
 layout: term
 title: demir parmaklık
 slug: demir-parmaklik
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► demir korkuluk

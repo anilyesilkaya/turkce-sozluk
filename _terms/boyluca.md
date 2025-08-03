@@ -2,6 +2,7 @@
 layout: term
 title: boyluca
 slug: boyluca
+letter: B
 lisan: Türkçe
 anlamlar:
 - Uzun boylu

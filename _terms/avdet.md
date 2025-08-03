@@ -2,6 +2,7 @@
 layout: term
 title: avdet
 slug: avdet
+letter: A
 lisan: Arapça ʿavdet
 anlamlar:
 - Hareket edilen yere dönme

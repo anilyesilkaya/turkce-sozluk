@@ -2,6 +2,7 @@
 layout: term
 title: müstakbel
 slug: mustakbel
+letter: M
 lisan: Arapça mustaḳbel
 anlamlar:
 - İleri bir tarihte beklenen, ilerideki; gelecek

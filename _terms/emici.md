@@ -2,6 +2,7 @@
 layout: term
 title: emici
 slug: emici
+letter: E
 lisan: Türkçe
 anlamlar:
 - Emme özelliği olan

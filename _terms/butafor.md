@@ -2,6 +2,7 @@
 layout: term
 title: butafor
 slug: butafor
+letter: B
 lisan: Türkçe
 anlamlar:
 - Oyun için gerekli sahne eşyası

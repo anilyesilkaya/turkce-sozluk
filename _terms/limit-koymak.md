@@ -2,6 +2,7 @@
 layout: term
 title: 'limit koymak '
 slug: limit-koymak
+letter: L
 lisan: Türkçe
 anlamlar:
 - sınırlandırmak, kısıtlamak

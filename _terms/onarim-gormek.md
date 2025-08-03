@@ -2,6 +2,7 @@
 layout: term
 title: onarım görmek
 slug: onarim-gormek
+letter: O
 lisan: Türkçe
 anlamlar:
 - onarılmak

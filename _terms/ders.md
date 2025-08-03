@@ -2,6 +2,7 @@
 layout: term
 title: ders
 slug: ders
+letter: D
 lisan: Arapça ders
 anlamlar:
 - Öğretmenin öğrenciye belirli bir sürede verdiği bilgi

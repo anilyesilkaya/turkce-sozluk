@@ -2,6 +2,7 @@
 layout: term
 title: iptidai
 slug: iptidai
+letter: I
 lisan: Arapça ibtidāʾī
 anlamlar:
 - ► ilkel

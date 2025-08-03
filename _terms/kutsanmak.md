@@ -2,6 +2,7 @@
 layout: term
 title: kutsanmak
 slug: kutsanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kutsama işi yapılmak

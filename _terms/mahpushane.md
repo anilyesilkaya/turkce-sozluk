@@ -2,6 +2,7 @@
 layout: term
 title: mahpushane
 slug: mahpushane
+letter: M
 lisan: Arapça maḥbūs + Farsça ḫāne
 anlamlar:
 - ► cezaevi

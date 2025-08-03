@@ -2,6 +2,7 @@
 layout: term
 title: tiz
 slug: tiz
+letter: T
 lisan: Farsça tīz
 anlamlar:
 - İnce keskin (ses), pes karşıtı

@@ -2,6 +2,7 @@
 layout: term
 title: akıl öğretmek
 slug: akil-ogretmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - birine nasıl davranacağını göstermek, yol göstermek, akıl vermek

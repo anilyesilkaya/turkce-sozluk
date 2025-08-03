@@ -2,6 +2,7 @@
 layout: term
 title: yağlanmak
 slug: yaglanmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yağlama işi yapılmak, yağ sürülmek, yağ konulmak

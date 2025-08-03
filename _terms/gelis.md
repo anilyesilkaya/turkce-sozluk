@@ -2,6 +2,7 @@
 layout: term
 title: geliş
 slug: gelis
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gelmek işi; vürut

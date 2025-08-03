@@ -2,6 +2,7 @@
 layout: term
 title: kesme
 slug: kesme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kesmek işi; kat (II)

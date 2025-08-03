@@ -2,6 +2,7 @@
 layout: term
 title: çaplılık
 slug: caplilik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çaplı olma durumu

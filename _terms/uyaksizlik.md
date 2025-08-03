@@ -2,6 +2,7 @@
 layout: term
 title: uyaksızlık
 slug: uyaksizlik
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► kafiyesizlik

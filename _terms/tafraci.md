@@ -2,6 +2,7 @@
 layout: term
 title: tafracı
 slug: tafraci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Böbürlenen, yüksekten atan (kimse)

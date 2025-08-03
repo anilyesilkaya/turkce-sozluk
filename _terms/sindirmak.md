@@ -2,6 +2,7 @@
 layout: term
 title: sındırmak
 slug: sindirmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kırmak, parçalamak

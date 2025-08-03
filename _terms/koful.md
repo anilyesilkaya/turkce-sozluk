@@ -2,6 +2,7 @@
 layout: term
 title: koful
 slug: koful
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bitki hücreleri yaşlandıkça plazmalarında oluşan ve içi hücre suyu ile dolu olan boşluk

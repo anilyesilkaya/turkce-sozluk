@@ -2,6 +2,7 @@
 layout: term
 title: bir deri bir kemik (kalmak)
 slug: bir-deri-bir-kemik-kalmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - çok zayıf (olmak)

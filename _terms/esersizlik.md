@@ -2,6 +2,7 @@
 layout: term
 title: esersizlik
 slug: esersizlik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Esersiz olma durumu

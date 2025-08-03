@@ -2,6 +2,7 @@
 layout: term
 title: zift
 slug: zift
+letter: Z
 lisan: Arapça zift
 anlamlar:
 - Katran ve diğer organik maddelerin buharlaşmasından veya damıtılmasından elde edilen, kolay kırılan, az ısı ile eriyen, katı, siyah, parlak madde; karasakız

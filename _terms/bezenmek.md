@@ -2,6 +2,7 @@
 layout: term
 title: bezenmek
 slug: bezenmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► süslenmek

@@ -2,6 +2,7 @@
 layout: term
 title: vaktiyle
 slug: vaktiyle
+letter: V
 lisan: Türkçe
 anlamlar:
 - Zamanında, uygun zamanda

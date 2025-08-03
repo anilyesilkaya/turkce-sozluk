@@ -2,6 +2,7 @@
 layout: term
 title: kurtlu
 slug: kurtlu
+letter: K
 lisan: Türkçe
 anlamlar:
 - İçinde kurt bulunan, kurtlanmış

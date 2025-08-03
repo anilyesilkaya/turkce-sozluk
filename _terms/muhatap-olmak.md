@@ -2,6 +2,7 @@
 layout: term
 title: muhatap olmak
 slug: muhatap-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - kendisine söz söylenmek, hitap edilmek

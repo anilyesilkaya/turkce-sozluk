@@ -2,6 +2,7 @@
 layout: term
 title: korsaj
 slug: korsaj
+letter: K
 lisan: Fransızca corsage
 anlamlar:
 - Küçük, kısa korse

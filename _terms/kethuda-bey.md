@@ -2,6 +2,7 @@
 layout: term
 title: kethüda bey
 slug: kethuda-bey
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yeniçeri Ocağında, yeniçeri ağasından sonra gelen en yüksek makamdaki subay

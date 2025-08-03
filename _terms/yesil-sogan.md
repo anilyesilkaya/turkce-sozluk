@@ -2,6 +2,7 @@
 layout: term
 title: yeşil soğan
 slug: yesil-sogan
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► taze soğan

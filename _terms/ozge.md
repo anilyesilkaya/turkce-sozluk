@@ -2,6 +2,7 @@
 layout: term
 title: özge
 slug: ozge
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► başka

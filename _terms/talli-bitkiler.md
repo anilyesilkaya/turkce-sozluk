@@ -2,6 +2,7 @@
 layout: term
 title: tallı bitkiler
 slug: talli-bitkiler
+letter: T
 lisan: Türkçe
 anlamlar:
 - Kök, gövde, yaprak gibi ana organlardan yoksun bulunan ve çoğu asalak veya çürükçül olarak yaşayan ilkel bitkiler topluluğu

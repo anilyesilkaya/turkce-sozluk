@@ -2,6 +2,7 @@
 layout: term
 title: ilişki
 slug: iliski
+letter: I
 lisan: Türkçe
 anlamlar:
 - İki şey arasında karşılıklı ilgi; bağ (I), ilinti, ilişik, münasebet, rabıta, temas

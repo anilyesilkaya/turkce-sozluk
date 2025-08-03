@@ -2,6 +2,7 @@
 layout: term
 title: icabet
 slug: icabet
+letter: I
 lisan: Arapça icābet
 anlamlar:
 - Bir çağrıyı yerine getirme, bir çağrıya gitme

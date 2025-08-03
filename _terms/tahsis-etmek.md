@@ -2,6 +2,7 @@
 layout: term
 title: tahsis etmek
 slug: tahsis-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - ayırmak, özgülemek

@@ -2,6 +2,7 @@
 layout: term
 title: kül tablası
 slug: kul-tablasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► küllük

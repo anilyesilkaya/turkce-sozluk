@@ -2,6 +2,7 @@
 layout: term
 title: sitem etmek
 slug: sitem-etmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - bir kimseye üzüldüğünü, kırıldığını öfkelenmeden belirtmek

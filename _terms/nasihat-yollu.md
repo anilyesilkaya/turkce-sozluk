@@ -2,6 +2,7 @@
 layout: term
 title: nasihat yollu
 slug: nasihat-yollu
+letter: N
 lisan: Türkçe
 anlamlar:
 - Öğüde benzer bir biçimde

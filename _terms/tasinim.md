@@ -2,6 +2,7 @@
 layout: term
 title: taşınım
 slug: tasinim
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taşınma işi

@@ -2,6 +2,7 @@
 layout: term
 title: panteist
 slug: panteist
+letter: P
 lisan: Fransızca panthéiste
 anlamlar:
 - ► tüm tanrıcı

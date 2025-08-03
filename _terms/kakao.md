@@ -2,6 +2,7 @@
 layout: term
 title: kakao
 slug: kakao
+letter: K
 lisan: Fransızca cacao
 anlamlar:
 - İki çeneklilerden, Amerika'nın sıcak bölgelerinde yetişen bir ağaç; Hint bademi (Theobroma cacao)

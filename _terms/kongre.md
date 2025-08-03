@@ -2,6 +2,7 @@
 layout: term
 title: kongre
 slug: kongre
+letter: K
 lisan: Fransızca congrès
 anlamlar:
 - Çeşitli ülkelerden yöneticilerin, elçilerin, delegelerin katılmasıyla yapılan toplantı

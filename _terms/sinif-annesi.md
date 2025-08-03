@@ -2,6 +2,7 @@
 layout: term
 title: sınıf annesi
 slug: sinif-annesi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Genellikle okul öncesinde ve ilköğretimde sınıfın sosyal, kültürel vb. etkinlerinde öğretmene yardımcı olan gönüllü veli

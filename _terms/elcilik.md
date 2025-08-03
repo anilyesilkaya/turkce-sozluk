@@ -2,6 +2,7 @@
 layout: term
 title: elçilik
 slug: elcilik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Elçi olma durumu

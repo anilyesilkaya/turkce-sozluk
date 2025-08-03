@@ -2,6 +2,7 @@
 layout: term
 title: kıç
 slug: kic
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kuyruk sokumu bölgesi; dip, göt, kaba et, kaba but, popo, toto (I), makat, mabat, küfe

@@ -2,6 +2,7 @@
 layout: term
 title: kazıntı
 slug: kazinti
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kazıyarak çıkarılan parça

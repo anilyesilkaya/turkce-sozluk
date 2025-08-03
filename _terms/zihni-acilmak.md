@@ -2,6 +2,7 @@
 layout: term
 title: zihni açılmak
 slug: zihni-acilmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - kavrayışı, anlayışı çoğalmak

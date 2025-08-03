@@ -2,6 +2,7 @@
 layout: term
 title: in cin
 slug: in-cin
+letter: I
 lisan: Türkçe
 anlamlar:
 - hiç kimse

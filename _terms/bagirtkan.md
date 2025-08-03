@@ -2,6 +2,7 @@
 layout: term
 title: bağırtkan
 slug: bagirtkan
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çok bağırıp çağıran (kimse)

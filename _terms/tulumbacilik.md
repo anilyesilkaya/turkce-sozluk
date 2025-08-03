@@ -2,6 +2,7 @@
 layout: term
 title: tulumbacılık
 slug: tulumbacilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tulumbacı olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: kelimeleşmek
 slug: kelimelesmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kelime durumuna, söz varlığı hâline gelmek, söze dönüşmek

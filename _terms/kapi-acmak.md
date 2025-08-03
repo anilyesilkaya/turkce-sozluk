@@ -2,6 +2,7 @@
 layout: term
 title: kapı açmak
 slug: kapi-acmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir şeyin sözünü etmek veya bir işe başlamak

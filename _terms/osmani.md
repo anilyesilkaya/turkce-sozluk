@@ -2,6 +2,7 @@
 layout: term
 title: Osmani
 slug: osmani
+letter: O
 lisan: Arapça ‘Os̱mān + Farsça -į
 anlamlar:
 - ► Osmanlı

@@ -2,6 +2,7 @@
 layout: term
 title: hamal
 slug: hamal
+letter: H
 lisan: Arapça ḥammāl
 anlamlar:
 - Sırtında yük taşıyarak geçinen kimse; sırtçı, taşıyıcı, yükçü

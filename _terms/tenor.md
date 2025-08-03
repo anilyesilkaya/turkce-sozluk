@@ -2,6 +2,7 @@
 layout: term
 title: tenor
 slug: tenor
+letter: T
 lisan: İtalyanca tenore
 anlamlar:
 - En tiz erkek sesi

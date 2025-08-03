@@ -2,6 +2,7 @@
 layout: term
 title: şathiyat
 slug: sathiyat
+letter: Ş
 lisan: Arapça şaṭḥiyyāt
 anlamlar:
 - Ciddi bir düşünceyi, konuyu, şaka ve alay yollu anlatmak için yazılmış deyişler

@@ -2,6 +2,7 @@
 layout: term
 title: peçelemek
 slug: pecelemek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Bir şeyi örtmek

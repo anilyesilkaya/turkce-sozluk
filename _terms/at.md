@@ -2,6 +2,7 @@
 layout: term
 title: at
 slug: at
+letter: A
 lisan: Türkçe
 anlamlar:
 - Atgillerden, binme, yük çekme, taşıma vb. hizmetlerde kullanılan, tek tırnaklı hayvan; beygir, düldül (Equus caballus)

@@ -2,6 +2,7 @@
 layout: term
 title: forma girmek
 slug: forma-girmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - günlük hayatta veya sporda yapılacak iş için gerekli olan güç ve yeteneği geri kazanmak

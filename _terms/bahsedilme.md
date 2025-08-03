@@ -2,6 +2,7 @@
 layout: term
 title: bahşedilme
 slug: bahsedilme
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bağışlanma

@@ -2,6 +2,7 @@
 layout: term
 title: yağlı kapıya konmak
 slug: yagli-kapiya-konmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - rahat, sıkıntısız bir yere girmek, geçimini başkasının üstüne yıkmak

@@ -2,6 +2,7 @@
 layout: term
 title: sıygı
 slug: siygi
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► hacim

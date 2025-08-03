@@ -2,6 +2,7 @@
 layout: term
 title: altı üstü
 slug: alti-ustu
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► alt tarafı

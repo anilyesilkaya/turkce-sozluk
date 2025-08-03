@@ -2,6 +2,7 @@
 layout: term
 title: acımasızlaşabilmek
 slug: acimasizlasabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Acımasız duruma gelme ihtimali veya imkânı bulunmak

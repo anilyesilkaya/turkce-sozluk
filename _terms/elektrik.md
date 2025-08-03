@@ -2,6 +2,7 @@
 layout: term
 title: elektrik
 slug: elektrik
+letter: E
 lisan: Fransızca électrique
 anlamlar:
 - Maddenin elektron, pozitron, proton vb. parçacıklarının hareketleriyle ortaya çıkan enerji türü

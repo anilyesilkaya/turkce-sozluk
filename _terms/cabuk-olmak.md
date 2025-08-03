@@ -2,6 +2,7 @@
 layout: term
 title: çabuk olmak
 slug: cabuk-olmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - çabuk davranmak, oyalanmamak

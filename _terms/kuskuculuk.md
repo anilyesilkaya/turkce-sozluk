@@ -2,6 +2,7 @@
 layout: term
 title: kuşkuculuk
 slug: kuskuculuk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kuşkucu olma durumu; ikirciklik, ikirciklilik, ikircimlik, işkillilik, şüphecilik

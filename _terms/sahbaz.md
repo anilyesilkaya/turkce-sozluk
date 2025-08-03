@@ -2,6 +2,7 @@
 layout: term
 title: şahbaz
 slug: sahbaz
+letter: Ş
 lisan: Farsça şāhbāz
 anlamlar:
 - İri bir tür akdoğan

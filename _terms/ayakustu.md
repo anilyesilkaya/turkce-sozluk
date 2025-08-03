@@ -2,6 +2,7 @@
 layout: term
 title: ayaküstü
 slug: ayakustu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Oturmadan, ayakta durarak

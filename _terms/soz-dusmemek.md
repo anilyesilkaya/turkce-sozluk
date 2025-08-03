@@ -2,6 +2,7 @@
 layout: term
 title: söz düşmemek
 slug: soz-dusmemek
+letter: S
 lisan: Türkçe
 anlamlar:
 - başkalarının konuşmasından kendisine sıra gelmemek

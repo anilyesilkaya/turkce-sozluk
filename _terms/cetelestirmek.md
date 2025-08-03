@@ -2,6 +2,7 @@
 layout: term
 title: çeteleştirmek
 slug: cetelestirmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çete durumuna getirmek

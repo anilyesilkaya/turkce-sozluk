@@ -2,6 +2,7 @@
 layout: term
 title: horuldama
 slug: horuldama
+letter: H
 lisan: Türkçe
 anlamlar:
 - Horuldamak işi

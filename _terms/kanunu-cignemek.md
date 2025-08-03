@@ -2,6 +2,7 @@
 layout: term
 title: kanunu çiğnemek
 slug: kanunu-cignemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - yasal olmayan iş yapmak

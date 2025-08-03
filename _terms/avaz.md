@@ -2,6 +2,7 @@
 layout: term
 title: avaz
 slug: avaz
+letter: A
 lisan: Farsça āvāz
 anlamlar:
 - ► ses

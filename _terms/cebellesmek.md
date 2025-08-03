@@ -2,6 +2,7 @@
 layout: term
 title: cebelleşmek
 slug: cebellesmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► cedelleşmek

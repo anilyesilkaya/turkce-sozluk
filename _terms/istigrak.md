@@ -2,6 +2,7 @@
 layout: term
 title: istiğrak
 slug: istigrak
+letter: I
 lisan: Arapça istiġrāḳ
 anlamlar:
 - ► dalınç

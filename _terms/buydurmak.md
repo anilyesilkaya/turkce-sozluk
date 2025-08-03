@@ -2,6 +2,7 @@
 layout: term
 title: buydurmak
 slug: buydurmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► dondurmak

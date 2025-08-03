@@ -2,6 +2,7 @@
 layout: term
 title: dilini yutmak
 slug: dilini-yutmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - sevinç, korku, heyecan vb. sebeplerle konuşamaz olmak

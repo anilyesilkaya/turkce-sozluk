@@ -2,6 +2,7 @@
 layout: term
 title: ilahlaştırmak
 slug: ilahlastirmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - İlah durumuna veya biçimine getirmek

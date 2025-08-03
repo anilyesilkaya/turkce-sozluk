@@ -2,6 +2,7 @@
 layout: term
 title: üfletmek
 slug: ufletmek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üfleme işini yaptırmak

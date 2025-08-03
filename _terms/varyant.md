@@ -2,6 +2,7 @@
 layout: term
 title: varyant
 slug: varyant
+letter: V
 lisan: Fransızca variante
 anlamlar:
 - Bir yol şebekesi üzerinde, belli bir noktadan ayrılarak başka bir noktadan aynı yolla birleşen ikinci derecedeki yol

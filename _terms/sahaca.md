@@ -2,6 +2,7 @@
 layout: term
 title: Sahaca
 slug: sahaca
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► Yakut Türkçesi

@@ -2,6 +2,7 @@
 layout: term
 title: arsızlaşmak
 slug: arsizlasmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arsız duruma gelmek

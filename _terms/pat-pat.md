@@ -2,6 +2,7 @@
 layout: term
 title: pat pat
 slug: pat-pat
+letter: P
 lisan: Türkçe
 anlamlar:
 - '"Pat" sesi çıkararak'

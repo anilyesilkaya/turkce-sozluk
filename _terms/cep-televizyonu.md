@@ -2,6 +2,7 @@
 layout: term
 title: cep televizyonu
 slug: cep-televizyonu
+letter: C
 lisan: Türkçe
 anlamlar:
 - Çok küçük boyutta veya cebe sığabilecek küçüklükteki televizyon

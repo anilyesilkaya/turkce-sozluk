@@ -2,6 +2,7 @@
 layout: term
 title: otokritik
 slug: otokritik
+letter: O
 lisan: Fransızca autocritique
 anlamlar:
 - ► öz eleştiri

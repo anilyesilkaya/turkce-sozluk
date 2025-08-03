@@ -2,6 +2,7 @@
 layout: term
 title: yamuk yumuk
 slug: yamuk-yumuk
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yamru yumru

@@ -2,6 +2,7 @@
 layout: term
 title: naylon
 slug: naylon
+letter: N
 lisan: Fransızca nylon
 anlamlar:
 - Dayanıklı ve esnek döküm maddesi

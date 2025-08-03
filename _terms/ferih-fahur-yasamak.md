@@ -2,6 +2,7 @@
 layout: term
 title: ferih fahur yaşamak
 slug: ferih-fahur-yasamak
+letter: F
 lisan: Türkçe
 anlamlar:
 - bağımsız, bağlantısız bir biçimde yaşamak

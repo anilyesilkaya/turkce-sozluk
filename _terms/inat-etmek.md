@@ -2,6 +2,7 @@
 layout: term
 title: inat etmek
 slug: inat-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - direnmek, diretmek, ayak diremek

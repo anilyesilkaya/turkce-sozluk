@@ -2,6 +2,7 @@
 layout: term
 title: küffar
 slug: kuffar
+letter: K
 lisan: Arapça kuffār
 anlamlar:
 - Müslüman olmayanlar, kâfirler

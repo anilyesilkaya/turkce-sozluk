@@ -2,6 +2,7 @@
 layout: term
 title: çuval
 slug: cuval
+letter: Ç
 lisan: Farsça cuvāl
 anlamlar:
 - Pamuk, kenevir veya sentetik iplikten dokunmuş büyük torba

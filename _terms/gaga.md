@@ -2,6 +2,7 @@
 layout: term
 title: gaga
 slug: gaga
+letter: G
 lisan: Türkçe
 anlamlar:
 - Genellikle kuşlarda ağzın bir uzantısı durumunda olan, biçim ve büyüklüğü değişik, boynuz yapısında, katı ve çıkıntılı organ

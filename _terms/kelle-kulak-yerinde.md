@@ -2,6 +2,7 @@
 layout: term
 title: kelle kulak yerinde
 slug: kelle-kulak-yerinde
+letter: K
 lisan: Türkçe
 anlamlar:
 - kanlı canlı ve iri yapılı olan

@@ -2,6 +2,7 @@
 layout: term
 title: prens
 slug: prens
+letter: P
 lisan: Fransızca prince
 anlamlar:
 - Hükümdar ailesinden olan erkeklere verilen ünvan

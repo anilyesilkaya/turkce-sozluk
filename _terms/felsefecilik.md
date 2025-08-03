@@ -2,6 +2,7 @@
 layout: term
 title: felsefecilik
 slug: felsefecilik
+letter: F
 lisan: Türkçe
 anlamlar:
 - Felsefeci olma durumu

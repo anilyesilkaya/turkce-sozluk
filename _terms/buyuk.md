@@ -2,6 +2,7 @@
 layout: term
 title: büyük
 slug: buyuk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boyutları, benzerlerinden daha fazla olan (somut nesne); cesim, makro, küçük karşıtı

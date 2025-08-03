@@ -2,6 +2,7 @@
 layout: term
 title: kaytan bıyık
 slug: kaytan-biyik
+letter: K
 lisan: Türkçe
 anlamlar:
 - İnce ve uzun bir bıyık türü

@@ -2,6 +2,7 @@
 layout: term
 title: beygir gücü
 slug: beygir-gucu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Saniyede 75 kilogrammetrelik iş yapan bir motorun gücü

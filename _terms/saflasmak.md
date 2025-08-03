@@ -2,6 +2,7 @@
 layout: term
 title: saflaşmak
 slug: saflasmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Saf durumuna gelmek; saf tutmak

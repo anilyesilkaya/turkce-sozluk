@@ -2,6 +2,7 @@
 layout: term
 title: dinamit
 slug: dinamit
+letter: D
 lisan: Fransızca dynamite
 anlamlar:
 - Nitrogliserin ile yapılan patlayıcı bir madde

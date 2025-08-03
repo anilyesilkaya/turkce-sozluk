@@ -2,6 +2,7 @@
 layout: term
 title: hüküm
 slug: hukum
+letter: H
 lisan: Arapça ḥukm
 anlamlar:
 - ► yargı

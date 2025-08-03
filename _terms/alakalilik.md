@@ -2,6 +2,7 @@
 layout: term
 title: alakalılık
 slug: alakalilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► ilgililik

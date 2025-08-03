@@ -2,6 +2,7 @@
 layout: term
 title: güvenilir
 slug: guvenilir
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güven duygusu veren, güvenilen; itimatlı

@@ -2,6 +2,7 @@
 layout: term
 title: akran zorbalığı
 slug: akran-zorbaligi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir çocuğa veya ergene benzer yaştaki başka bir çocuk veya ergenin uyguladığı sözel, fiziksel veya psikolojik şiddet

@@ -2,6 +2,7 @@
 layout: term
 title: ay parçası
 slug: ay-parcasi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Çok güzel kadın veya kız

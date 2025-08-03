@@ -2,6 +2,7 @@
 layout: term
 title: fenalık geçirmek (veya gelmek veya çökmek)
 slug: fenalik-gecirmek-veya-gelmek-veya-cokmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - kendini bilmeyecek veya bayılacak bir duruma gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: hasbi
 slug: hasbi
+letter: H
 lisan: Arapça ḥasbī
 anlamlar:
 - Gönüllü ve karşılıksız yapılan

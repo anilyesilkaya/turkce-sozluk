@@ -2,6 +2,7 @@
 layout: term
 title: yeğen
 slug: yegen
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Birine göre kardeş çocuğu

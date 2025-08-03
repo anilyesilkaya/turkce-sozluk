@@ -2,6 +2,7 @@
 layout: term
 title: emeği geçmek
 slug: emegi-gecmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - bir şeyin ortaya çıkması için çalışmış olmak

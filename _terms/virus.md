@@ -2,6 +2,7 @@
 layout: term
 title: virüs
 slug: virus
+letter: V
 lisan: Fransızca virus
 anlamlar:
 - Hastalık yapıcı, bakterilerden daha küçük, yaşamak için bir başka hücrenin içine girmek zorunda olan ve ancak elektron mikroskobunda görülebilen parazit

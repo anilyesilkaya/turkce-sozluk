@@ -2,6 +2,7 @@
 layout: term
 title: bir boydan bir boya
 slug: bir-boydan-bir-boya
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir yerin bir ucundan öbür ucuna kadar, baştan başa

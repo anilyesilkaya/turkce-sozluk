@@ -2,6 +2,7 @@
 layout: term
 title: tedvir
 slug: tedvir
+letter: T
 lisan: Arapça tedvīr
 anlamlar:
 - ► çevirme

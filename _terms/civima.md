@@ -2,6 +2,7 @@
 layout: term
 title: cıvıma
 slug: civima
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cıvımak işi

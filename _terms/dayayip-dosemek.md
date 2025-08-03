@@ -2,6 +2,7 @@
 layout: term
 title: dayayıp döşemek
 slug: dayayip-dosemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - evi, odayı mobilya vb. ile döşemek

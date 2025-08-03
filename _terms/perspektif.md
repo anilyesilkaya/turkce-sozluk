@@ -2,6 +2,7 @@
 layout: term
 title: perspektif
 slug: perspektif
+letter: P
 lisan: Fransızca perspective
 anlamlar:
 - ► görünge

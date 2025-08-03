@@ -2,6 +2,7 @@
 layout: term
 title: titreme
 slug: titreme
+letter: T
 lisan: Türkçe
 anlamlar:
 - Titremek işi; lerze

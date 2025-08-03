@@ -2,6 +2,7 @@
 layout: term
 title: elden ele geçmek
 slug: elden-ele-gecmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - çok sahip değiştirmek

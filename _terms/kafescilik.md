@@ -2,6 +2,7 @@
 layout: term
 title: kafesçilik
 slug: kafescilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kafesçinin yaptığı iş

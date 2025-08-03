@@ -2,6 +2,7 @@
 layout: term
 title: sifon
 slug: sifon
+letter: S
 lisan: Fransızca siphon
 anlamlar:
 - Bir sıvıyı bir kaptan başka bir kaba aktarmaya yarayan, değişik uzunlukta iki kolu olan bükülmüş boru

@@ -2,6 +2,7 @@
 layout: term
 title: dermek
 slug: dermek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir araya getirmek, toplamak

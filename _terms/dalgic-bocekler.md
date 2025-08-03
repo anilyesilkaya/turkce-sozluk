@@ -2,6 +2,7 @@
 layout: term
 title: dalgıç böcekler
 slug: dalgic-bocekler
+letter: D
 lisan: Türkçe
 anlamlar:
 - Sivrisinek kurtçuklarına saldırarak yok eden, durgun sularda yaşayan kın kanatlılar familyası

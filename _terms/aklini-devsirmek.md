@@ -2,6 +2,7 @@
 layout: term
 title: aklını devşirmek
 slug: aklini-devsirmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - aklı başına gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: racon kesmek
 slug: racon-kesmek
+letter: R
 lisan: Türkçe
 anlamlar:
 - görünüşe göre hüküm vermek

@@ -2,6 +2,7 @@
 layout: term
 title: bak!
 slug: bak
+letter: B
 lisan: Türkçe
 anlamlar:
 - işte

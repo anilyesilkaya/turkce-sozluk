@@ -2,6 +2,7 @@
 layout: term
 title: oksiyür
 slug: oksiyur
+letter: O
 lisan: Fransızca oxyure
 anlamlar:
 - ► sivrikuyruk

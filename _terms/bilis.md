@@ -2,6 +2,7 @@
 layout: term
 title: biliş
 slug: bilis
+letter: B
 lisan: Türkçe
 anlamlar:
 - Canlının, bir nesne veya olayın varlığına ilişkin bilgili ve bilinçli duruma gelmesi; vukuf

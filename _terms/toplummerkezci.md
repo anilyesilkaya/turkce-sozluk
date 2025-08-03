@@ -2,6 +2,7 @@
 layout: term
 title: toplummerkezci
 slug: toplummerkezci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Toplummerkezcilik yanlısı; toplumiçinci

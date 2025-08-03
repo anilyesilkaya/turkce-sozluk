@@ -2,6 +2,7 @@
 layout: term
 title: ziyansız
 slug: ziyansiz
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► zararsız

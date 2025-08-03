@@ -2,6 +2,7 @@
 layout: term
 title: ceylan gözlü
 slug: ceylan-gozlu
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► ahu gözlü

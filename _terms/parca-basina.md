@@ -2,6 +2,7 @@
 layout: term
 title: parça başına
 slug: parca-basina
+letter: P
 lisan: Türkçe
 anlamlar:
 - Her parça için

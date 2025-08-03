@@ -2,6 +2,7 @@
 layout: term
 title: inmek
 slug: inmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Yüksekten veya yukarıdan aşağıya doğru gelmek

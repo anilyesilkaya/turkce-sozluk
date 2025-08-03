@@ -2,6 +2,7 @@
 layout: term
 title: sulu boya
 slug: sulu-boya
+letter: S
 lisan: Türkçe
 anlamlar:
 - Su ile karıştırılarak kullanılan bir boya

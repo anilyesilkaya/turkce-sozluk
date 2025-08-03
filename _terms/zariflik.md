@@ -2,6 +2,7 @@
 layout: term
 title: zariflik
 slug: zariflik
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zarif davranış veya zarif olma durumu; zarafet

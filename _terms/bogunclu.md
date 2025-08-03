@@ -2,6 +2,7 @@
 layout: term
 title: boğunçlu
 slug: bogunclu
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► boğucu

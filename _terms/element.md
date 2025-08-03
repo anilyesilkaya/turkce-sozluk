@@ -2,6 +2,7 @@
 layout: term
 title: element
 slug: element
+letter: E
 lisan: Almanca Element
 anlamlar:
 - Kimyasal yöntemlerle ayrıştırılamayan veya bileşim yoluyla elde edilemeyen madde

@@ -2,6 +2,7 @@
 layout: term
 title: bağan
 slug: bagan
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► düşük

@@ -2,6 +2,7 @@
 layout: term
 title: girivermek
 slug: girivermek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Ansızın veya çabucak girmek

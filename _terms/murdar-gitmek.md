@@ -2,6 +2,7 @@
 layout: term
 title: murdar gitmek
 slug: murdar-gitmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - murdar bir biçimde ölmek

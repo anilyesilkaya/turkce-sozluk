@@ -2,6 +2,7 @@
 layout: term
 title: aşağılanmak
 slug: asagilanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aşağılık duruma düşürülmek

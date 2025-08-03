@@ -2,6 +2,7 @@
 layout: term
 title: serlevha
 slug: serlevha
+letter: S
 lisan: Farsça ser + Arapça levḥa
 anlamlar:
 - ► başlık

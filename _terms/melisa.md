@@ -2,6 +2,7 @@
 layout: term
 title: melisa
 slug: melisa
+letter: M
 lisan: Rumca
 anlamlar:
 - ► oğul otu

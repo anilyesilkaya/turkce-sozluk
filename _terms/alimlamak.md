@@ -2,6 +2,7 @@
 layout: term
 title: alımlamak
 slug: alimlamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Herhangi bir şeyi kendi bilgi ve tecrübe birikimine göre anlamak

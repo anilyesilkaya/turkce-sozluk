@@ -2,6 +2,7 @@
 layout: term
 title: cep telefonu
 slug: cep-telefonu
+letter: C
 lisan: Türkçe
 anlamlar:
 - Kişinin yanında taşıyabildiği kablosuz telefon; cep, mobil telefon, el telefonu

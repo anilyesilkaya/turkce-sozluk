@@ -2,6 +2,7 @@
 layout: term
 title: zumlamak
 slug: zumlamak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Bir nesnenin görüntüsünü büyütmek için objektifin odak uzaklığını değiştirmek; zum yapmak

@@ -2,6 +2,7 @@
 layout: term
 title: acemkürdi
 slug: acemkurdi
+letter: A
 lisan: Arapça ʿacem + Farsça kurd + Arapça -ī
 anlamlar:
 - Klasik Türk müziğinde acem ile kürdi makamlarının birleşmesinden meydana gelen birleşik bir makam

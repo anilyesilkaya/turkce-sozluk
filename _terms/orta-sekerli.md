@@ -2,6 +2,7 @@
 layout: term
 title: orta şekerli
 slug: orta-sekerli
+letter: O
 lisan: Türkçe
 anlamlar:
 - Ne az ne de çok şekeri olan

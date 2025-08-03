@@ -2,6 +2,7 @@
 layout: term
 title: matiz olmak
 slug: matiz-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - sarhoşluktan sızacak duruma gelmek

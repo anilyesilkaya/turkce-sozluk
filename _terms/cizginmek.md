@@ -2,6 +2,7 @@
 layout: term
 title: çizginmek
 slug: cizginmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir şeyin etrafında dönüp durmak

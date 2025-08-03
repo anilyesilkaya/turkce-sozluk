@@ -2,6 +2,7 @@
 layout: term
 title: sauna
 slug: sauna
+letter: S
 lisan: Fransızca sauna
 anlamlar:
 - Kuru buhar banyosu

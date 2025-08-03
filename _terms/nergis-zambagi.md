@@ -2,6 +2,7 @@
 layout: term
 title: nergis zambağı
 slug: nergis-zambagi
+letter: N
 lisan: Türkçe
 anlamlar:
 - Soğanla üretilen, iri ve güzel çiçekli bir süs bitkisi; güzelhatun çiçeği (Amaryllis)

@@ -2,6 +2,7 @@
 layout: term
 title: elektronik bilet
 slug: elektronik-bilet
+letter: E
 lisan: Türkçe
 anlamlar:
 - Genel ağ üzerinden satın alınabilen seyahat veya tiyatro, sinema vb. etkinliklere ait bilet; e-bilet

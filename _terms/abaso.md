@@ -2,6 +2,7 @@
 layout: term
 title: abaşo
 slug: abaso
+letter: A
 lisan: Rumca
 anlamlar:
 - Gemiyi baştan veya kıçtan halatla karaya bağlama

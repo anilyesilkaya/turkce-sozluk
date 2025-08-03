@@ -2,6 +2,7 @@
 layout: term
 title: balina
 slug: balina
+letter: B
 lisan: İtalyanca balena
 anlamlar:
 - Balinalardan, yaklaşık uzunluğu 20 metre, ağırlığı 200 ton olan memeli hayvan (Balaena mistycetus)

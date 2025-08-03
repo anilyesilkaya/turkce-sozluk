@@ -2,6 +2,7 @@
 layout: term
 title: bulaşıklık
 slug: bulasiklik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bulaşık olma durumu

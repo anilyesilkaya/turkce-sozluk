@@ -2,6 +2,7 @@
 layout: term
 title: takbih etmek
 slug: takbih-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - kınamak

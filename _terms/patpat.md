@@ -2,6 +2,7 @@
 layout: term
 title: patpat
 slug: patpat
+letter: P
 lisan: Türkçe
 anlamlar:
 - Küçük yerleşim yerlerinde az miktarda yükleri taşımak amacıyla sulama motoru kullanılarak yapılan taşıt

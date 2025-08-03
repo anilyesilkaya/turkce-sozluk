@@ -2,6 +2,7 @@
 layout: term
 title: yüreğine inmek
 slug: yuregine-inmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - kötü bir olay dolayısıyla fazlaca etkilenmek

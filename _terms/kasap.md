@@ -2,6 +2,7 @@
 layout: term
 title: kasap
 slug: kasap
+letter: K
 lisan: Arapça ḳaṣṣāb
 anlamlar:
 - Sığır, koyun gibi eti yenecek hayvanları kesen veya dükkânında perakende olarak satan kimse; etçi

@@ -2,6 +2,7 @@
 layout: term
 title: bukağılı
 slug: bukagili
+letter: B
 lisan: Türkçe
 anlamlar:
 - Ayağında bukağı bulunan

@@ -2,6 +2,7 @@
 layout: term
 title: orijinalite
 slug: orijinalite
+letter: O
 lisan: Fransızca originalité
 anlamlar:
 - ► özgünlük

@@ -2,6 +2,7 @@
 layout: term
 title: otel
 slug: otel
+letter: O
 lisan: Fransızca hôtel
 anlamlar:
 - Yolcu ve turistlere geceleme, konaklama imkânı sağlamak amacıyla kurulmuş işletme

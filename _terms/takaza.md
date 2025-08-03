@@ -2,6 +2,7 @@
 layout: term
 title: takaza
 slug: takaza
+letter: T
 lisan: Arapça taḳāżā
 anlamlar:
 - ► azarlama

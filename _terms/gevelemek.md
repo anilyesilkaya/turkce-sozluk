@@ -2,6 +2,7 @@
 layout: term
 title: gevelemek
 slug: gevelemek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bir şeyi çiğnemeden ağız içinde evirip çevirmek

@@ -2,6 +2,7 @@
 layout: term
 title: sulh olmak
 slug: sulh-olmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - uzlaşmak

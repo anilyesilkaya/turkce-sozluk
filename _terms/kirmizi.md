@@ -2,6 +2,7 @@
 layout: term
 title: kırmızı
 slug: kirmizi
+letter: K
 lisan: Arapça ḳirmizī
 anlamlar:
 - Kanın rengi; al (I)

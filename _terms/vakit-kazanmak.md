@@ -2,6 +2,7 @@
 layout: term
 title: vakit kazanmak
 slug: vakit-kazanmak
+letter: V
 lisan: Türkçe
 anlamlar:
 - bir şeye ayrılan süreyi azaltmak

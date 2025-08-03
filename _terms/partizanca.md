@@ -2,6 +2,7 @@
 layout: term
 title: partizanca
 slug: partizanca
+letter: P
 lisan: Türkçe
 anlamlar:
 - Partizana yakışan

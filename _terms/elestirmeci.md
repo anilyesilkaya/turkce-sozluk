@@ -2,6 +2,7 @@
 layout: term
 title: eleştirmeci
 slug: elestirmeci
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► eleştirmen

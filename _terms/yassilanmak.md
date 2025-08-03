@@ -2,6 +2,7 @@
 layout: term
 title: yassılanmak
 slug: yassilanmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yassılaşmak

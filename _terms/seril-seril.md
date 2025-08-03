@@ -2,6 +2,7 @@
 layout: term
 title: 'seril seril '
 slug: seril-seril
+letter: S
 lisan: Türkçe
 anlamlar:
 - Öbek hâlinde

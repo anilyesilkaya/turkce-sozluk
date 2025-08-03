@@ -2,6 +2,7 @@
 layout: term
 title: zerresi (veya zerre kadar eseri) kalmamak (veya olmamak veya yok)
 slug: zerresi-veya-zerre-kadar-eseri-kalmamak-veya-olmamak-veya-yok
+letter: Z
 lisan: Türkçe
 anlamlar:
 - hiç bulunmamak, tükenmek, yok olmak

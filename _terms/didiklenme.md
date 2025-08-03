@@ -2,6 +2,7 @@
 layout: term
 title: didiklenme
 slug: didiklenme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Didiklenmek işi

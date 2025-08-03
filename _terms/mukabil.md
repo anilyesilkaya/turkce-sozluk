@@ -2,6 +2,7 @@
 layout: term
 title: mukabil
 slug: mukabil
+letter: M
 lisan: Arapça muḳābil
 anlamlar:
 - Bir şeye karşılık olarak yapılan, bir şeyin karşılığı olan

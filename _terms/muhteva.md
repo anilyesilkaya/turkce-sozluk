@@ -2,6 +2,7 @@
 layout: term
 title: muhteva
 slug: muhteva
+letter: M
 lisan: Arapça muḥtevā
 anlamlar:
 - ► içerik

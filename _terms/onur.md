@@ -2,6 +2,7 @@
 layout: term
 title: onur
 slug: onur
+letter: O
 lisan: Fransızca honneur
 anlamlar:
 - İnsanın kendine karşı duyduğu saygı; alicenaplık

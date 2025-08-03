@@ -2,6 +2,7 @@
 layout: term
 title: kapı
 slug: kapi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir yere girip çıkarken geçilen ve açılıp kapanma düzeni olan duvar veya bölme açıklığı; bap

@@ -2,6 +2,7 @@
 layout: term
 title: lakırtı yetiştirmek
 slug: lakirti-yetistirmek
+letter: L
 lisan: Türkçe
 anlamlar:
 - bir söze karşılık vermekte gecikmemek

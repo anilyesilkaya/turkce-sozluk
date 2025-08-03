@@ -2,6 +2,7 @@
 layout: term
 title: ölü gözü kadar
 slug: olu-gozu-kadar
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - çok az

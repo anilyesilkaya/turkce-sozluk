@@ -2,6 +2,7 @@
 layout: term
 title: gazinocu
 slug: gazinocu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gazino işleten kimse

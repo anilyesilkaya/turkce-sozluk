@@ -2,6 +2,7 @@
 layout: term
 title: taçsız
 slug: tacsiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tacı olmayan

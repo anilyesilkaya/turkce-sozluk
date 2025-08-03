@@ -2,6 +2,7 @@
 layout: term
 title: varit olmak
 slug: varit-olmak
+letter: V
 lisan: Türkçe
 anlamlar:
 - geçerli durumda bulunmak

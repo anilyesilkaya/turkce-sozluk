@@ -2,6 +2,7 @@
 layout: term
 title: mekân zarfı
 slug: mekan-zarfi
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► yer zarfı

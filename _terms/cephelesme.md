@@ -2,6 +2,7 @@
 layout: term
 title: cepheleşme
 slug: cephelesme
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cepheleşmek işi

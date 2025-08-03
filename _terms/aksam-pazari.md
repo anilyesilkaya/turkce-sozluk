@@ -2,6 +2,7 @@
 layout: term
 title: akşam pazarı
 slug: aksam-pazari
+letter: A
 lisan: Türkçe
 anlamlar:
 - Pazarlarda, işportalarda akşama doğru tezgâhta kalmış malların ucuz fiyatla satılışı

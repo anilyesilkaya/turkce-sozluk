@@ -2,6 +2,7 @@
 layout: term
 title: insafa gelmek
 slug: insafa-gelmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - acımasız ve haksız tutumdan vazgeçmek

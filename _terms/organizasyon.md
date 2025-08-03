@@ -2,6 +2,7 @@
 layout: term
 title: organizasyon
 slug: organizasyon
+letter: O
 lisan: Fransızca organisation
 anlamlar:
 - ► düzenleme

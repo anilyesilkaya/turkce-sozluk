@@ -2,6 +2,7 @@
 layout: term
 title: yükselme
 slug: yukselme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yükselmek işi; itila

@@ -2,6 +2,7 @@
 layout: term
 title: bold
 slug: bold
+letter: B
 lisan: İngilizce bold
 anlamlar:
 - 343 koyu

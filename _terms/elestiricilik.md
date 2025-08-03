@@ -2,6 +2,7 @@
 layout: term
 title: eleştiricilik
 slug: elestiricilik
+letter: E
 lisan: Türkçe
 anlamlar:
 - İnsan bilgisinin sınırı üzerine felsefe bilinci ve bu bilincin uyanık tutulması; eleştirimcilik, kritisizm

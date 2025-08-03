@@ -2,6 +2,7 @@
 layout: term
 title: garanti etmek
 slug: garanti-etmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - bir şeyle ilgili olarak güvence vermek

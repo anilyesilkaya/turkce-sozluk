@@ -2,6 +2,7 @@
 layout: term
 title: potpuri
 slug: potpuri
+letter: P
 lisan: Fransızca pot-pourri
 anlamlar:
 - ► karmaca

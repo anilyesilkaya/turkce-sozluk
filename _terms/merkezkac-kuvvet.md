@@ -2,6 +2,7 @@
 layout: term
 title: merkezkaç kuvvet
 slug: merkezkac-kuvvet
+letter: M
 lisan: Türkçe
 anlamlar:
 - Bir merkez çevresinde dönen bir cismi merkezden uzaklaştıran kuvvet, merkezcil kuvvetin tepkisi

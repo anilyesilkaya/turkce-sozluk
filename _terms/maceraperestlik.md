@@ -2,6 +2,7 @@
 layout: term
 title: maceraperestlik
 slug: maceraperestlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► maceracılık

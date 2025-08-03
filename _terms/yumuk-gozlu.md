@@ -2,6 +2,7 @@
 layout: term
 title: yumuk gözlü
 slug: yumuk-gozlu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Göz kapakları şişkin, gözü kısık olan

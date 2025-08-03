@@ -2,6 +2,7 @@
 layout: term
 title: akşam ahıra sabah çayıra
 slug: aksam-ahira-sabah-cayira
+letter: A
 lisan: Türkçe
 anlamlar:
 - hayatta yiyip içip yatmaktan başka kaygısı olmayanlar için söylenen bir söz

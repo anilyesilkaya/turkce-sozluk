@@ -2,6 +2,7 @@
 layout: term
 title: dramaturji
 slug: dramaturji
+letter: D
 lisan: Fransızca dramaturgie
 anlamlar:
 - Oyun yazma ve yönetme bilgisi

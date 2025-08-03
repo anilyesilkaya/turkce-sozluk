@@ -2,6 +2,7 @@
 layout: term
 title: gayrimuayyenlik
 slug: gayrimuayyenlik
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► belirsizlik

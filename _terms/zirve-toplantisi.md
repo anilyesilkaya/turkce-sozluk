@@ -2,6 +2,7 @@
 layout: term
 title: zirve toplantısı
 slug: zirve-toplantisi
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► doruk toplantısı

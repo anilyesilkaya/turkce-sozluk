@@ -2,6 +2,7 @@
 layout: term
 title: meyhaneli
 slug: meyhaneli
+letter: M
 lisan: Türkçe
 anlamlar:
 - Meyhanesi olan

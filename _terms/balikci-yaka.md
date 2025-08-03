@@ -2,6 +2,7 @@
 layout: term
 title: balıkçı yaka
 slug: balikci-yaka
+letter: B
 lisan: Türkçe
 anlamlar:
 - Giysilerde boynu saran ve katlanabilen yaka

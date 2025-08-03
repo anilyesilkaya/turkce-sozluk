@@ -2,6 +2,7 @@
 layout: term
 title: ikircim
 slug: ikircim
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► kuşku

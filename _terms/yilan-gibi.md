@@ -2,6 +2,7 @@
 layout: term
 title: yılan gibi
 slug: yilan-gibi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - hain, sevimsiz ve soğuk (kimse)

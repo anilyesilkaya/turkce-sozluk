@@ -2,6 +2,7 @@
 layout: term
 title: karavaş
 slug: karavas
+letter: K
 lisan: Türkçe
 anlamlar:
 - Savaşta tutsak edilen veya satın alınan kadın köle; kul

@@ -2,6 +2,7 @@
 layout: term
 title: bugün
 slug: bugun
+letter: B
 lisan: Türkçe
 anlamlar:
 - İçinde bulunulan gün

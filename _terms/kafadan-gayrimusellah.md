@@ -2,6 +2,7 @@
 layout: term
 title: kafadan gayrimüsellah
 slug: kafadan-gayrimusellah
+letter: K
 lisan: Türkçe
 anlamlar:
 - Akılsız, aklında bozukluk olan

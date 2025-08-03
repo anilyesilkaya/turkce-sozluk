@@ -2,6 +2,7 @@
 layout: term
 title: dolap
 slug: dolap
+letter: D
 lisan: Arapça dūlāb
 anlamlar:
 - Genellikle tahtadan yapılmış, bölme veya çekmelerine eşya konulan kapaklı mobilya

@@ -2,6 +2,7 @@
 layout: term
 title: çehre etmek
 slug: cehre-etmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - surat etmek

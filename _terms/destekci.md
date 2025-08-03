@@ -2,6 +2,7 @@
 layout: term
 title: destekçi
 slug: destekci
+letter: D
 lisan: Türkçe
 anlamlar:
 - Destek veren, destek olan kimse

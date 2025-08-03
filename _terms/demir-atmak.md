@@ -2,6 +2,7 @@
 layout: term
 title: demir atmak
 slug: demir-atmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - gemi çıpasını denize salmak

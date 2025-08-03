@@ -2,6 +2,7 @@
 layout: term
 title: kızmaca
 slug: kizmaca
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kızmaya, öfkelenmeye dayanan davranış

@@ -2,6 +2,7 @@
 layout: term
 title: tevhit etmek
 slug: tevhit-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Allah'ın bir olduğunu söylemek

@@ -2,6 +2,7 @@
 layout: term
 title: repocu
 slug: repocu
+letter: R
 lisan: Türkçe
 anlamlar:
 - Parasını repoyla değerlendiren kimse

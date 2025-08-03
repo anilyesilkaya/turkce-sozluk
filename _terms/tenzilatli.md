@@ -2,6 +2,7 @@
 layout: term
 title: tenzilatlı
 slug: tenzilatli
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► indirimli

@@ -2,6 +2,7 @@
 layout: term
 title: gaz yağı
 slug: gaz-yagi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Ham petrolün 150-250 °C'ler arasında işlenmesiyle elde edilen renksiz veya sarı renkte akaryakıt; taş yağı, gaz (II)

@@ -2,6 +2,7 @@
 layout: term
 title: taaccüp etmek
 slug: taaccup-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - hayrete düşmek, hayrette kalmak, şaşmak

@@ -2,6 +2,7 @@
 layout: term
 title: cevahir
 slug: cevahir
+letter: C
 lisan: Arapça cevāhir
 anlamlar:
 - Elmas, yakut vb. değerli taşlar; mücevher

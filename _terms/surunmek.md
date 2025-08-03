@@ -2,6 +2,7 @@
 layout: term
 title: sürünmek
 slug: surunmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Karnı üzerinde sürünerek gitmek

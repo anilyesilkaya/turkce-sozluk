@@ -2,6 +2,7 @@
 layout: term
 title: aç kurt gibi
 slug: ac-kurt-gibi
+letter: A
 lisan: Türkçe
 anlamlar:
 - büyük bir istekle

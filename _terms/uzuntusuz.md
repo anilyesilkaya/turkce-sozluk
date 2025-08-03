@@ -2,6 +2,7 @@
 layout: term
 title: üzüntüsüz
 slug: uzuntusuz
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üzüntüsü olmayan; acısız

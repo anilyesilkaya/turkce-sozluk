@@ -2,6 +2,7 @@
 layout: term
 title: düzen
 slug: duzen
+letter: D
 lisan: Türkçe
 anlamlar:
 - Belli yöntem, ilke veya yasalara göre kurulmuş olan durum; nizam, sistem

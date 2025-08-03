@@ -2,6 +2,7 @@
 layout: term
 title: el çektirmek
 slug: el-cektirmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - görevinden uzaklaştırmak

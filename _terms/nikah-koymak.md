@@ -2,6 +2,7 @@
 layout: term
 title: nikâh koymak
 slug: nikah-koymak
+letter: N
 lisan: Türkçe
 anlamlar:
 - nikâhlamak

@@ -2,6 +2,7 @@
 layout: term
 title: sayısal
 slug: sayisal
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sayı ile ilgili, sayı temeline dayanan; numerik, dijital

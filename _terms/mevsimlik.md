@@ -2,6 +2,7 @@
 layout: term
 title: mevsimlik
 slug: mevsimlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Bir mevsim için, bir mevsim süresince; mevsimsel, sezonluk

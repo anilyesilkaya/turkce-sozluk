@@ -2,6 +2,7 @@
 layout: term
 title: esvap dolabı
 slug: esvap-dolabi
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► giysi dolabı

@@ -2,6 +2,7 @@
 layout: term
 title: hayvanlık
 slug: hayvanlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hayvan olma durumu; hayvaniyet

@@ -2,6 +2,7 @@
 layout: term
 title: mürüvvetini görmek
 slug: muruvvetini-gormek
+letter: M
 lisan: Türkçe
 anlamlar:
 - anne ve baba çocuklarının sevinçli günlerini görerek mutluluk duymak

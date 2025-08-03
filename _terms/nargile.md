@@ -2,6 +2,7 @@
 layout: term
 title: nargile
 slug: nargile
+letter: N
 lisan: Farsça nārgile
 anlamlar:
 - Tömbeki denilen bir cins tütünün dumanının sudan geçirilerek içilmesini sağlayan araç

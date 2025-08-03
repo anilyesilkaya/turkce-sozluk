@@ -2,6 +2,7 @@
 layout: term
 title: gelgeç
 slug: gelgec
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► geçici

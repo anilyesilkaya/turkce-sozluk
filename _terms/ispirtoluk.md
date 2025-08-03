@@ -2,6 +2,7 @@
 layout: term
 title: ispirtoluk
 slug: ispirtoluk
+letter: I
 lisan: Türkçe
 anlamlar:
 - İspirto yakan küçük ocak; ispirto ocağı

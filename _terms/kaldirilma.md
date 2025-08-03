@@ -2,6 +2,7 @@
 layout: term
 title: kaldırılma
 slug: kaldirilma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaldırılmak işi

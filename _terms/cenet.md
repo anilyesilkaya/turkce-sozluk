@@ -2,6 +2,7 @@
 layout: term
 title: çenet
 slug: cenet
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Açıldığında tohumların ortaya çıktığı kabuk

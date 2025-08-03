@@ -2,6 +2,7 @@
 layout: term
 title: meşher
 slug: mesher
+letter: M
 lisan: Arapça meşher
 anlamlar:
 - Teşhir yeri

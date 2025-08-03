@@ -2,6 +2,7 @@
 layout: term
 title: yaklaşım
 slug: yaklasim
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaklaşmak işi

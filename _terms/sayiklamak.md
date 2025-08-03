@@ -2,6 +2,7 @@
 layout: term
 title: sayıklamak
 slug: sayiklamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Uykuda veya bir hastalığın verdiği dalgınlık sırasında anlamsız, tutarsız sözler söylemek

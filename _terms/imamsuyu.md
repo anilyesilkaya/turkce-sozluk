@@ -2,6 +2,7 @@
 layout: term
 title: imamsuyu
 slug: imamsuyu
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► rakı

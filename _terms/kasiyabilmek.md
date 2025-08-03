@@ -2,6 +2,7 @@
 layout: term
 title: kaşıyabilmek
 slug: kasiyabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaşıma ihtimali veya imkânı bulunmak

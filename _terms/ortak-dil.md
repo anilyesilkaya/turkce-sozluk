@@ -2,6 +2,7 @@
 layout: term
 title: ortak dil
 slug: ortak-dil
+letter: O
 lisan: Türkçe
 anlamlar:
 - Lehçeleri veya dilleri farklı olan topluluklar arasında iletişim aracı olarak kullanılan dil

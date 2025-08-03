@@ -2,6 +2,7 @@
 layout: term
 title: bileği taşı
 slug: bilegi-tasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bıçak, çakı, makas vb. kesici araçları bilemekte kullanılan ince taneli sarı şist; kayrak

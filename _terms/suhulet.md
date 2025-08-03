@@ -2,6 +2,7 @@
 layout: term
 title: suhulet
 slug: suhulet
+letter: S
 lisan: Arapça suhūlet
 anlamlar:
 - ► kolaylık

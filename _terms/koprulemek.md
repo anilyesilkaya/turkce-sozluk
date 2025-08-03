@@ -2,6 +2,7 @@
 layout: term
 title: 'köprülemek '
 slug: koprulemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Köprü kurmak

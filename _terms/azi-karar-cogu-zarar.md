@@ -2,6 +2,7 @@
 layout: term
 title: azı karar çoğu zarar
 slug: azi-karar-cogu-zarar
+letter: A
 lisan: Türkçe
 anlamlar:
 - “hiçbir zaman aşırıya kaçılmamalıdır” anlamında kullanılan bir söz

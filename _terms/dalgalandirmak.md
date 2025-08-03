@@ -2,6 +2,7 @@
 layout: term
 title: dalgalandırmak
 slug: dalgalandirmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dalgalı duruma getirmek, dalgalanmasını sağlamak; çalkandırmak

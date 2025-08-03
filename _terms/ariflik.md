@@ -2,6 +2,7 @@
 layout: term
 title: ariflik
 slug: ariflik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arif olma durumu

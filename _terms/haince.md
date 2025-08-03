@@ -2,6 +2,7 @@
 layout: term
 title: haince
 slug: haince
+letter: H
 lisan: Türkçe
 anlamlar:
 - Kötü niyetli

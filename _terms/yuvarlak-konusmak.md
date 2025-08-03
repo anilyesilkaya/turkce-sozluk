@@ -2,6 +2,7 @@
 layout: term
 title: yuvarlak konuşmak
 slug: yuvarlak-konusmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - bir şeyin ayrıntılarını gereği gibi belirtmeden genel konuşmak

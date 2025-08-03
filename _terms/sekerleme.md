@@ -2,6 +2,7 @@
 layout: term
 title: şekerleme
 slug: sekerleme
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şekerlemek işi

@@ -2,6 +2,7 @@
 layout: term
 title: tecrübesiz
 slug: tecrubesiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► deneyimsiz

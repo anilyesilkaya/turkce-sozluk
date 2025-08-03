@@ -2,6 +2,7 @@
 layout: term
 title: badi badi yürümek (veya gitmek veya koşmak)
 slug: badi-badi-yurumek-veya-gitmek-veya-kosmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - ördek gibi iki yana sallanarak yürümek (gitmek, koşmak)

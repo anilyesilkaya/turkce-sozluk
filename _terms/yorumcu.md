@@ -2,6 +2,7 @@
 layout: term
 title: yorumcu
 slug: yorumcu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yorum yapan kimse

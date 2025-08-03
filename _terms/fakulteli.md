@@ -2,6 +2,7 @@
 layout: term
 title: fakülteli
 slug: fakulteli
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fakülte öğrencisi olan (kimse)

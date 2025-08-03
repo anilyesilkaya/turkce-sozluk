@@ -2,6 +2,7 @@
 layout: term
 title: tahammülsüzlük etmek (veya duymak)
 slug: tahammulsuzluk-etmek-veya-duymak
+letter: T
 lisan: Türkçe
 anlamlar:
 - tahammülsüz olmak

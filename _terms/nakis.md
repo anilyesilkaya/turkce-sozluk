@@ -2,6 +2,7 @@
 layout: term
 title: nakış
 slug: nakis
+letter: N
 lisan: Arapça naḳş
 anlamlar:
 - Genellikle kumaş üzerine renkli iplikler veya sırma ve sim kullanarak elle, makineyle yapılan işleme; ince iş

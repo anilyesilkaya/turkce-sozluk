@@ -2,6 +2,7 @@
 layout: term
 title: kambiyo
 slug: kambiyo
+letter: K
 lisan: İtalyanca cambio
 anlamlar:
 - İki ayrı ülke parasının birbiriyle değiştirilmesi

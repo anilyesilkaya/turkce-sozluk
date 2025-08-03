@@ -2,6 +2,7 @@
 layout: term
 title: curacı
 slug: curaci
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cura yapan veya çalan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: hırpani
 slug: hirpani
+letter: H
 lisan: Farsça ḫar-bān + Arapça -į
 anlamlar:
 - Perişan, derbeder olan

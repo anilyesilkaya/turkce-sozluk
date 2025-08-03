@@ -2,6 +2,7 @@
 layout: term
 title: makber
 slug: makber
+letter: M
 lisan: Arapça maḳber
 anlamlar:
 - ► mezar

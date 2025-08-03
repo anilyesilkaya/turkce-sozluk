@@ -2,6 +2,7 @@
 layout: term
 title: orkestrasız
 slug: orkestrasiz
+letter: O
 lisan: Türkçe
 anlamlar:
 - Orkestrası olmayan

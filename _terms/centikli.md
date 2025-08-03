@@ -2,6 +2,7 @@
 layout: term
 title: çentikli
 slug: centikli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Üzerinde çentik bulunan; kertikli, tırtık tırtık

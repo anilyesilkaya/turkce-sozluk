@@ -2,6 +2,7 @@
 layout: term
 title: koyun
 slug: koyun
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kucak

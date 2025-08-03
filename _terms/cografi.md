@@ -2,6 +2,7 @@
 layout: term
 title: coğrafi
 slug: cografi
+letter: C
 lisan: Arapça cuġrāfī
 anlamlar:
 - Coğrafya ile ilgili

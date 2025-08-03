@@ -2,6 +2,7 @@
 layout: term
 title: hayatı kaymak
 slug: hayati-kaymak
+letter: H
 lisan: Türkçe
 anlamlar:
 - başına telafisi mümkün olmayan kötü işler gelmek, mahvolmak

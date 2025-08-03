@@ -2,6 +2,7 @@
 layout: term
 title: logo
 slug: logo
+letter: L
 lisan: İngilizce logo
 anlamlar:
 - ► imlek

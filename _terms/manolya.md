@@ -2,6 +2,7 @@
 layout: term
 title: manolya
 slug: manolya
+letter: M
 lisan: Fransızca magnolia
 anlamlar:
 - Manolyagillerden, yaprakları almaşık, iri ve parlak yeşil renkte bir süs ağacı (Magnolia grandiflora)

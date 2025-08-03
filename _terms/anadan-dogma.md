@@ -2,6 +2,7 @@
 layout: term
 title: anadan doğma
 slug: anadan-dogma
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► çırılçıplak

@@ -2,6 +2,7 @@
 layout: term
 title: çörek
 slug: corek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Az yağlı, bazen şekerli ve yumurtalı, gevrekçe bir hamur işi; gato

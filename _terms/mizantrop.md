@@ -2,6 +2,7 @@
 layout: term
 title: mizantrop
 slug: mizantrop
+letter: M
 lisan: Fransızca misanthrope
 anlamlar:
 - ► merdümgiriz

@@ -2,6 +2,7 @@
 layout: term
 title: takip etmek
 slug: takip-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - yetişmek, yakalamak veya bulmak amacıyla birinin arkasından gitmek, izlemek

@@ -2,6 +2,7 @@
 layout: term
 title: bora
 slug: bora
+letter: B
 lisan: İtalyanca borea
 anlamlar:
 - Genellikle arkasından yağmur getiren sert rüzgâr; boğanak

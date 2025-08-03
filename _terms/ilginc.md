@@ -2,6 +2,7 @@
 layout: term
 title: ilginç
 slug: ilginc
+letter: I
 lisan: Türkçe
 anlamlar:
 - İlgi uyandıran, ilgi ve dikkat çekici olan; enteresan

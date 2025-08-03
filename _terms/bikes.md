@@ -2,6 +2,7 @@
 layout: term
 title: bikes
 slug: bikes
+letter: B
 lisan: Farsça bīkes
 anlamlar:
 - ► kimsesiz

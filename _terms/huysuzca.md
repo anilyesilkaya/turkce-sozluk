@@ -2,6 +2,7 @@
 layout: term
 title: huysuzca
 slug: huysuzca
+letter: H
 lisan: Türkçe
 anlamlar:
 - Biraz huysuz

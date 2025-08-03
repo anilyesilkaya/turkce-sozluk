@@ -2,6 +2,7 @@
 layout: term
 title: mektupçu
 slug: mektupcu
+letter: M
 lisan: Türkçe
 anlamlar:
 - Osmanlılarda, bir resmî dairenin yazı işlerini yönetmekle yükümlü yüksek görevli kişi

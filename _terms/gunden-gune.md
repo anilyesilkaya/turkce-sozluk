@@ -2,6 +2,7 @@
 layout: term
 title: günden güne
 slug: gunden-gune
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gün geçtikçe, gittikçe; gün günden, günbegün

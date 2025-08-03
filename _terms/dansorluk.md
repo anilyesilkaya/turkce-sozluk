@@ -2,6 +2,7 @@
 layout: term
 title: dansörlük
 slug: dansorluk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dansörün işi veya mesleği

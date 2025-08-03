@@ -2,6 +2,7 @@
 layout: term
 title: Kıpçakça
 slug: kipcakca
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► Kıpçak Türkçesi

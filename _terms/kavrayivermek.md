@@ -2,6 +2,7 @@
 layout: term
 title: kavrayıvermek
 slug: kavrayivermek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çabucak kavramak

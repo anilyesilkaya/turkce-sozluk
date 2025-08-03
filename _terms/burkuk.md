@@ -2,6 +2,7 @@
 layout: term
 title: burkuk
 slug: burkuk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Burkulmuş olan

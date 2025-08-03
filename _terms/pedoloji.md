@@ -2,6 +2,7 @@
 layout: term
 title: pedoloji
 slug: pedoloji
+letter: P
 lisan: Fransızca pédologie, paidologie
 anlamlar:
 - ► çocuk bilimi

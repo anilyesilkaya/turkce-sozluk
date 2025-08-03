@@ -2,6 +2,7 @@
 layout: term
 title: koro hâlinde
 slug: koro-halinde
+letter: K
 lisan: Türkçe
 anlamlar:
 - Toplu bir durumda, hep birlikte

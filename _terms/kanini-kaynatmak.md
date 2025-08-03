@@ -2,6 +2,7 @@
 layout: term
 title: kanını kaynatmak
 slug: kanini-kaynatmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - heyecanlandırmak, coşturmak

@@ -2,6 +2,7 @@
 layout: term
 title: çıkar çatışması
 slug: cikar-catismasi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - İki veya daha çok kişinin bir çıkar etrafında sadece kendine avantaj sağlama amacıyla giriştiği çaba

@@ -2,6 +2,7 @@
 layout: term
 title: samimileşivermek
 slug: samimilesivermek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Çabucak samimileşmek

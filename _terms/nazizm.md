@@ -2,6 +2,7 @@
 layout: term
 title: Nazizm
 slug: nazizm
+letter: N
 lisan: Fransızca nazisme
 anlamlar:
 - Liberal demokrasi ve parlamenter sisteme karşı olarak lider merkezli totaliter bir yönetimi benimseyen, ırklar arası ayrımı savunan, antisemitist, antikomünist ve antikapitalist bir ideoloji; Hitlercilik

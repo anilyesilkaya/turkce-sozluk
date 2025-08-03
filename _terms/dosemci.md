@@ -2,6 +2,7 @@
 layout: term
 title: döşemci
 slug: dosemci
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► tesisatçı

@@ -2,6 +2,7 @@
 layout: term
 title: firar
 slug: firar
+letter: F
 lisan: Arapça firār
 anlamlar:
 - ► kaçma

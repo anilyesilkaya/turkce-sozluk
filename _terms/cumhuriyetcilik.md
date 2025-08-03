@@ -2,6 +2,7 @@
 layout: term
 title: cumhuriyetçilik
 slug: cumhuriyetcilik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cumhuriyetçi olma durumu, cumhuriyetperverlik

@@ -2,6 +2,7 @@
 layout: term
 title: ateşten gömlek
 slug: atesten-gomlek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Acı, üzüntü veren, dayanılmaz, sıkıntılı durum

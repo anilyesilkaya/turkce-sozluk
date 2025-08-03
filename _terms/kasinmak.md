@@ -2,6 +2,7 @@
 layout: term
 title: kaşınmak
 slug: kasinmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaşıntısı olmak, kaşıma isteği duymak

@@ -2,6 +2,7 @@
 layout: term
 title: mermerimsi
 slug: mermerimsi
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► mermersi

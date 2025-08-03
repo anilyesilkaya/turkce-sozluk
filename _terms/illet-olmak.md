@@ -2,6 +2,7 @@
 layout: term
 title: illet olmak
 slug: illet-olmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - çok sinirlenmek, çok kızmak

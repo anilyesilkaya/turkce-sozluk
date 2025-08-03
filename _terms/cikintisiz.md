@@ -2,6 +2,7 @@
 layout: term
 title: çıkıntısız
 slug: cikintisiz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıkıntısı olmayan

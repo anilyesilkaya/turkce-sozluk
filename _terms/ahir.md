@@ -2,6 +2,7 @@
 layout: term
 title: ahir
 slug: ahir
+letter: A
 lisan: Arapça āḫir
 anlamlar:
 - Sıralamada sonuncu olan

@@ -2,6 +2,7 @@
 layout: term
 title: fön
 slug: fon
+letter: F
 lisan: Almanca Föhn
 anlamlar:
 - Sıcak veya soğuk hava üfleyen bir aletle saçı kurutup biçim vererek tarama

@@ -2,6 +2,7 @@
 layout: term
 title: açıklatmak
 slug: aciklatmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Açıklamasını sağlamak

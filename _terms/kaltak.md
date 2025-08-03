@@ -2,6 +2,7 @@
 layout: term
 title: kaltak
 slug: kaltak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Üzeri meşin, halı vb. şeylerle kaplanmamış olan eyerin tahta bölümü

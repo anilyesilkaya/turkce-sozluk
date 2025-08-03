@@ -2,6 +2,7 @@
 layout: term
 title: güz dönemi
 slug: guz-donemi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güz ayları

@@ -2,6 +2,7 @@
 layout: term
 title: yetke
 slug: yetke
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► otorite

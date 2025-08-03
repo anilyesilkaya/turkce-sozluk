@@ -2,6 +2,7 @@
 layout: term
 title: Dargeçit
 slug: dargecit
+letter: D
 lisan: Türkçe
 anlamlar:
 - Mardin iline bağlı ilçelerden biri

@@ -2,6 +2,7 @@
 layout: term
 title: kalebentlik
 slug: kalebentlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalebent olma durumu

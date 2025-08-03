@@ -2,6 +2,7 @@
 layout: term
 title: meddahlık
 slug: meddahlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Meddahın yaptığı iş

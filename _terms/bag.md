@@ -2,6 +2,7 @@
 layout: term
 title: bağ
 slug: bag
+letter: B
 lisan: Farsça bāġ
 anlamlar:
 - Üzüm kütüklerinin dikili bulunduğu toprak parçası; çubukluk

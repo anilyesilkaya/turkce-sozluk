@@ -2,6 +2,7 @@
 layout: term
 title: hak (veya hakkını) yemek
 slug: hak-veya-hakkini-yemek
+letter: H
 lisan: Türkçe
 anlamlar:
 - başkalarının hakkını vermemek

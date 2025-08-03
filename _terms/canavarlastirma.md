@@ -2,6 +2,7 @@
 layout: term
 title: canavarlaştırma
 slug: canavarlastirma
+letter: C
 lisan: Türkçe
 anlamlar:
 - Canavarlaştırmak durumu

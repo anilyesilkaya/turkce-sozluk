@@ -2,6 +2,7 @@
 layout: term
 title: itikatsız
 slug: itikatsiz
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► inançsız

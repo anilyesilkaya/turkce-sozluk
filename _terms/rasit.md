@@ -2,6 +2,7 @@
 layout: term
 title: rasıt
 slug: rasit
+letter: R
 lisan: Arapça rāṣid
 anlamlar:
 - ► gözlemci

@@ -2,6 +2,7 @@
 layout: term
 title: gözleri yaşarmak
 slug: gozleri-yasarmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - gözleri sulanmak

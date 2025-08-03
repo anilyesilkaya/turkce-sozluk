@@ -2,6 +2,7 @@
 layout: term
 title: nida
 slug: nida
+letter: N
 lisan: Arapça nidāʾ
 anlamlar:
 - Çağırma, bağırma, seslenme

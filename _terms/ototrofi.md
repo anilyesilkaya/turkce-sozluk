@@ -2,6 +2,7 @@
 layout: term
 title: ototrofi
 slug: ototrofi
+letter: O
 lisan: Fransızca autotrophie
 anlamlar:
 - ► öz beslenme

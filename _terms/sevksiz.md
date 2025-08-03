@@ -2,6 +2,7 @@
 layout: term
 title: şevksiz
 slug: sevksiz
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şevki olmayan

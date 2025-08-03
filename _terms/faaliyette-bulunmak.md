@@ -2,6 +2,7 @@
 layout: term
 title: faaliyette bulunmak
 slug: faaliyette-bulunmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - çalışma içine girmek

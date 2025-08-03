@@ -2,6 +2,7 @@
 layout: term
 title: alımlama estetiği
 slug: alimlama-estetigi
+letter: A
 lisan: Türkçe
 anlamlar:
 - 1960'ların sonundan bu yana edebiyat eserlerinin anlamı ve yorumu ile ilgili olarak okurun işlevini inceleyen çeşitli kuramlara verilen genel ad; alımlama kuramı

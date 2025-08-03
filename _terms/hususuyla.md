@@ -2,6 +2,7 @@
 layout: term
 title: hususuyla
 slug: hususuyla
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► özellikle

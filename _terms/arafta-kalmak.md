@@ -2,6 +2,7 @@
 layout: term
 title: arafta kalmak
 slug: arafta-kalmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - (arafta kalmak) iki arada kalmak, iki şey arasında tercih yapamamak

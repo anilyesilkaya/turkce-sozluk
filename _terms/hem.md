@@ -2,6 +2,7 @@
 layout: term
 title: hem
 slug: hem
+letter: H
 lisan: Farsça hem
 anlamlar:
 - Bir kimseyi uyarmak, bir şeyi açıklamak veya anlamı güçlendirmek için "özellikle, zaten, bir de, şurası da var ki" anlamlarında kullanılan bir söz

@@ -2,6 +2,7 @@
 layout: term
 title: soğukkanlı olmak
 slug: sogukkanli-olmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - kolayca, öfke, telaş ve heyecana kapılmamak

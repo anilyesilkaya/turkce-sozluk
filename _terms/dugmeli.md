@@ -2,6 +2,7 @@
 layout: term
 title: düğmeli
 slug: dugmeli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düğmesi olan

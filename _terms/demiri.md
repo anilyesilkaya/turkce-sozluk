@@ -2,6 +2,7 @@
 layout: term
 title: demirî
 slug: demiri
+letter: D
 lisan: Türkçe demir + Arapça -ī
 anlamlar:
 - ► kül rengi

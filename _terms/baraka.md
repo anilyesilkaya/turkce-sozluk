@@ -2,6 +2,7 @@
 layout: term
 title: baraka
 slug: baraka
+letter: B
 lisan: İtalyanca baracca
 anlamlar:
 - Tahta, çinko vb. hafif şeylerden yapılmış, temelsiz, eğreti yapı

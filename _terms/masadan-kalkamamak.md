@@ -2,6 +2,7 @@
 layout: term
 title: masadan kalkamamak
 slug: masadan-kalkamamak
+letter: M
 lisan: Türkçe
 anlamlar:
 - konuşma veya görüşme yapılan masayı bu eylem sonlansa da terk edememek

@@ -2,6 +2,7 @@
 layout: term
 title: duyumsatmak
 slug: duyumsatmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Duyumsamasına sebep olmak

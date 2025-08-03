@@ -2,6 +2,7 @@
 layout: term
 title: tasalandırma
 slug: tasalandirma
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► kaygılandırma

@@ -2,6 +2,7 @@
 layout: term
 title: abajurcu
 slug: abajurcu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Abajur yapan veya satan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: rüzgârdan nem kapmak
 slug: ruzgardan-nem-kapmak
+letter: R
 lisan: Türkçe
 anlamlar:
 - en küçük bir şeyden alınmak, çok alıngan olmak

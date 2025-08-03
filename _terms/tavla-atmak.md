@@ -2,6 +2,7 @@
 layout: term
 title: tavla atmak
 slug: tavla-atmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - tavla oynamak

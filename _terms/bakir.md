@@ -2,6 +2,7 @@
 layout: term
 title: bakir
 slug: bakir
+letter: B
 lisan: Arapça bākir
 anlamlar:
 - Cinsel ilişkide bulunmamış (erkek)

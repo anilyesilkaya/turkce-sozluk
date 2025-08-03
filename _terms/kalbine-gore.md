@@ -2,6 +2,7 @@
 layout: term
 title: kalbine göre
 slug: kalbine-gore
+letter: K
 lisan: Türkçe
 anlamlar:
 - gönlüne göre

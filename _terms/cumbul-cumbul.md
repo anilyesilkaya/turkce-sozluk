@@ -2,6 +2,7 @@
 layout: term
 title: cumbul cumbul
 slug: cumbul-cumbul
+letter: C
 lisan: Türkçe
 anlamlar:
 - '"Cumbul" diye ses çıkararak'

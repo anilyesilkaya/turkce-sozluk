@@ -2,6 +2,7 @@
 layout: term
 title: filmcilik
 slug: filmcilik
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► sinemacılık

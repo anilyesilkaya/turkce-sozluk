@@ -2,6 +2,7 @@
 layout: term
 title: uğurlu
 slug: ugurlu
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uğuru olan, iyilik getirdiğine inanılan; kutlu, ongun (I), kademli, meymenetli, mübarek

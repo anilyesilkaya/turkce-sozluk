@@ -2,6 +2,7 @@
 layout: term
 title: varta
 slug: varta
+letter: V
 lisan: Arapça varṭa
 anlamlar:
 - Tehlikeli durum

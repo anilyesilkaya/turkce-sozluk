@@ -2,6 +2,7 @@
 layout: term
 title: dansçı
 slug: dansci
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dans eden kişi

@@ -2,6 +2,7 @@
 layout: term
 title: muattal
 slug: muattal
+letter: M
 lisan: Arapça muʿaṭṭal
 anlamlar:
 - İşlemez, kullanılmaz duruma gelmiş

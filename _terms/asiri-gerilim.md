@@ -2,6 +2,7 @@
 layout: term
 title: aşırı gerilim
 slug: asiri-gerilim
+letter: A
 lisan: Türkçe
 anlamlar:
 - Beyan edilen değerden büyük olan akım; aşırı akım

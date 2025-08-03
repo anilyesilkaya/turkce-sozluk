@@ -2,6 +2,7 @@
 layout: term
 title: postsuz
 slug: postsuz
+letter: P
 lisan: Türkçe
 anlamlar:
 - Postu olmayan

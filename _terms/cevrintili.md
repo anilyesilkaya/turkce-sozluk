@@ -2,6 +2,7 @@
 layout: term
 title: çevrintili
 slug: cevrintili
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çevrintisi olan

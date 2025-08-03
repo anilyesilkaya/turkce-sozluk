@@ -2,6 +2,7 @@
 layout: term
 title: kaltaklık
 slug: kaltaklik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Toplumca hoş karşılanmayan davranışlarda bulunan kadının durumu

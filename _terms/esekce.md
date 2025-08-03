@@ -2,6 +2,7 @@
 layout: term
 title: eşekçe
 slug: esekce
+letter: E
 lisan: Türkçe
 anlamlar:
 - Kaba bir biçimde olan

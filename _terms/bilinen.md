@@ -2,6 +2,7 @@
 layout: term
 title: bilinen
 slug: bilinen
+letter: B
 lisan: Türkçe
 anlamlar:
 - Değeri belli olan (nicelik); bilindik, malum

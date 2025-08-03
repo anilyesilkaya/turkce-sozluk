@@ -2,6 +2,7 @@
 layout: term
 title: yetiştirmek
 slug: yetistirmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Birini, bir şeyi gitmekte veya gitmek üzere olan bir kimse veya şeye ulaştırmak, ulaşmasını sağlamak

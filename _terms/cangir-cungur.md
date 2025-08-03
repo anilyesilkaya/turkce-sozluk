@@ -2,6 +2,7 @@
 layout: term
 title: çangır çungur
 slug: cangir-cungur
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Düşme veya birbirine çarpma sırasında kaba ve zevksiz ses çıkararak; çangıl çungul

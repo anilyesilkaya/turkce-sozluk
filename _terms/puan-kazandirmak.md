@@ -2,6 +2,7 @@
 layout: term
 title: puan kazandırmak
 slug: puan-kazandirmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - itibar kazandırmak

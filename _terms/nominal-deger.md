@@ -2,6 +2,7 @@
 layout: term
 title: nominal değer
 slug: nominal-deger
+letter: N
 lisan: Türkçe
 anlamlar:
 - Hisse senedi, tahvil vb. için üzerinde belirtilmiş değer

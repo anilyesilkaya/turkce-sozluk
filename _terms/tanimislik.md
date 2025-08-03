@@ -2,6 +2,7 @@
 layout: term
 title: tanımışlık
 slug: tanimislik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tanımış olma durumu

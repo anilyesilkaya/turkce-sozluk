@@ -2,6 +2,7 @@
 layout: term
 title: can cana, baş başa
 slug: can-cana-bas-basa
+letter: C
 lisan: Türkçe
 anlamlar:
 - bir tehlike anında herkesin kendi canının, kendi başının kaygısına düştüğünü anlatan bir söz

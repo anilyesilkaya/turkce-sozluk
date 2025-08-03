@@ -2,6 +2,7 @@
 layout: term
 title: iskandil etmek
 slug: iskandil-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - deniz derinliğini ölçmek

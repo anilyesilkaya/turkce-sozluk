@@ -2,6 +2,7 @@
 layout: term
 title: zindeleştirmek
 slug: zindelestirmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zindeleşme işini yaptırmak

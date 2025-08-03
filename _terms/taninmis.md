@@ -2,6 +2,7 @@
 layout: term
 title: tanınmış
 slug: taninmis
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► ünlü

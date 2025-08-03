@@ -2,6 +2,7 @@
 layout: term
 title: giriş ücreti
 slug: giris-ucreti
+letter: G
 lisan: Türkçe
 anlamlar:
 - Tiyatro, sinema, stadyum vb. yerlere girmek için ödenen ücret; girmelik, duhuliye

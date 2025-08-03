@@ -2,6 +2,7 @@
 layout: term
 title: şu şekilde
 slug: su-sekilde
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► şöyle

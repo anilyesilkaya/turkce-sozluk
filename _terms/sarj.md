@@ -2,6 +2,7 @@
 layout: term
 title: şarj
 slug: sarj
+letter: Ş
 lisan: Fransızca charge
 anlamlar:
 - ► yükleme

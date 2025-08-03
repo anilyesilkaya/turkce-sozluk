@@ -2,6 +2,7 @@
 layout: term
 title: güvenoyu almak
 slug: guvenoyu-almak
+letter: G
 lisan: Türkçe
 anlamlar:
 - hükûmetin tutumu milletvekilleri tarafından onaylanmak

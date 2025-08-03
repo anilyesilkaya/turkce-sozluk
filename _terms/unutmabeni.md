@@ -2,6 +2,7 @@
 layout: term
 title: unutmabeni
 slug: unutmabeni
+letter: U
 lisan: Türkçe
 anlamlar:
 - İki çeneklilerden, küçük mavi çiçekler açan bir süs bitkisi (Myosotis palustris)

@@ -2,6 +2,7 @@
 layout: term
 title: harita
 slug: harita
+letter: H
 lisan: Arapça ḫarīṭa
 anlamlar:
 - Coğrafya, tarih, dil, nüfus vb. konularda yeryüzünün bütününün veya bir bölümünün belirli bir oranda küçültülerek bir düzlem üzerine çizilmiş hâli

@@ -2,6 +2,7 @@
 layout: term
 title: münazaa
 slug: munazaa
+letter: M
 lisan: Arapça munāzaʿa
 anlamlar:
 - Ağız kavgası, çekişme, münakaşa

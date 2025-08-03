@@ -2,6 +2,7 @@
 layout: term
 title: giriftar olmak
 slug: giriftar-olmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - tutulmak, yakalanmak

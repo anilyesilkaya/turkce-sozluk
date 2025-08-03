@@ -2,6 +2,7 @@
 layout: term
 title: amca
 slug: amca
+letter: A
 lisan: Türkçe
 anlamlar:
 - Babanın erkek kardeşi; baba yarısı, emmi

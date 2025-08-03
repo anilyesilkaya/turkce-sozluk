@@ -2,6 +2,7 @@
 layout: term
 title: çadır
 slug: cadir
+letter: Ç
 lisan: Farsça çāder
 anlamlar:
 - Keçe, deri, kıl dokuma, sık dokunmuş kalın bez veya plastik maddelerden yapılarak direklerle tutturulan, taşınabilir barınak

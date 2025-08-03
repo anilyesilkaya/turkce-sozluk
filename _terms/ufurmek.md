@@ -2,6 +2,7 @@
 layout: term
 title: üfürmek
 slug: ufurmek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - ► üflemek

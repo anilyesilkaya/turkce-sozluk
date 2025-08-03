@@ -2,6 +2,7 @@
 layout: term
 title: faziletsizlik
 slug: faziletsizlik
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► erdemsizlik

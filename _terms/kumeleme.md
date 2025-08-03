@@ -2,6 +2,7 @@
 layout: term
 title: kümeleme
 slug: kumeleme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kümelemek işi

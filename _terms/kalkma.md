@@ -2,6 +2,7 @@
 layout: term
 title: kalkma
 slug: kalkma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalkmak işi

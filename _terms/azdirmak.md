@@ -2,6 +2,7 @@
 layout: term
 title: azdırmak
 slug: azdirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Azmasına sebep olmak

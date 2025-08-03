@@ -2,6 +2,7 @@
 layout: term
 title: sporlular
 slug: sporlular
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir hücrelilerin, omurgalı ve omurgasız hayvanlarda asalak olarak yaşayan, çok az hareket edebilen, sporla üreyen bir alt takımı

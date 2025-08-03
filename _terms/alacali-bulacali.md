@@ -2,6 +2,7 @@
 layout: term
 title: alacalı bulacalı
 slug: alacali-bulacali
+letter: A
 lisan: Türkçe
 anlamlar:
 - Karışık ve çiğ renkli; alaca bulaca

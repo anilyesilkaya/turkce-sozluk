@@ -2,6 +2,7 @@
 layout: term
 title: bunlar
 slug: bunlar
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bu zamirinin çokluk biçimi

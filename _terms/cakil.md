@@ -2,6 +2,7 @@
 layout: term
 title: çakıl
 slug: cakil
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çakıl taşı

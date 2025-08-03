@@ -2,6 +2,7 @@
 layout: term
 title: çalılık
 slug: calilik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çalısı çok olan yer

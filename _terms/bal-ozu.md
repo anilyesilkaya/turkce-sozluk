@@ -2,6 +2,7 @@
 layout: term
 title: bal özü
 slug: bal-ozu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bazı çiçeklerin içinde bulunan, arıların bal yapmak için emdikleri tatlı sıvı, nektar

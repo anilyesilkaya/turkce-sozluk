@@ -2,6 +2,7 @@
 layout: term
 title: kıraathanecilik
 slug: kiraathanecilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kıraathanecinin yaptığı iş

@@ -2,6 +2,7 @@
 layout: term
 title: caka
 slug: caka
+letter: C
 lisan: İtalyanca giacca
 anlamlar:
 - ► gösteriş

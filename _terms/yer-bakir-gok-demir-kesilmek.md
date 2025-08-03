@@ -2,6 +2,7 @@
 layout: term
 title: yer bakır gök demir kesilmek
 slug: yer-bakir-gok-demir-kesilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - tamamen tükenmek, bitmek, yoksul duruma düşmek

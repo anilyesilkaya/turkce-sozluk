@@ -2,6 +2,7 @@
 layout: term
 title: taalluk etmek
 slug: taalluk-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - ilgili bulunmak, ilgili olmak, ilgilendirmek

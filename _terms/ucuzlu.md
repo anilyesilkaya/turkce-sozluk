@@ -2,6 +2,7 @@
 layout: term
 title: üçüzlü
 slug: ucuzlu
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üçüzleri olan (ana)

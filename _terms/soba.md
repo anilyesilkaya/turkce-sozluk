@@ -2,6 +2,7 @@
 layout: term
 title: soba
 slug: soba
+letter: S
 lisan: Macarca szoba
 anlamlar:
 - İçinde kömür, odun veya gaz yakılan veya elektrikle de çalıştırılabilen ısınma aracı

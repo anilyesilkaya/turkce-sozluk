@@ -2,6 +2,7 @@
 layout: term
 title: kervansaray
 slug: kervansaray
+letter: K
 lisan: Farsça kārbān + serāy
 anlamlar:
 - Ana yollarda kervanların konaklaması için yapılan büyük han

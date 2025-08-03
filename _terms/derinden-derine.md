@@ -2,6 +2,7 @@
 layout: term
 title: derinden derine
 slug: derinden-derine
+letter: D
 lisan: Türkçe
 anlamlar:
 - Uzaklardan

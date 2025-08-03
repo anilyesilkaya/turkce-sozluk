@@ -2,6 +2,7 @@
 layout: term
 title: rast getirmek
 slug: rast-getirmek
+letter: R
 lisan: Türkçe
 anlamlar:
 - rast gelmesini sağlamak

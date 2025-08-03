@@ -2,6 +2,7 @@
 layout: term
 title: arı kızdıranı sokar
 slug: ari-kizdirani-sokar
+letter: A
 lisan: Türkçe
 anlamlar:
 - '"kişi, sonunda öleceğini de bilse kendisini sinirlendirene saldırır" anlamında kullanılan bir söz'

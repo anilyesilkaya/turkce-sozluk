@@ -2,6 +2,7 @@
 layout: term
 title: pusatlanmak
 slug: pusatlanmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Savaş araçlarıyla donanmak

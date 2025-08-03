@@ -2,6 +2,7 @@
 layout: term
 title: yola vurmak
 slug: yola-vurmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yolcu etmek, uğurlamak

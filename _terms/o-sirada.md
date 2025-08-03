@@ -2,6 +2,7 @@
 layout: term
 title: o sırada
 slug: o-sirada
+letter: O
 lisan: Türkçe
 anlamlar:
 - İçinde bulunulan zamanda; o aralık

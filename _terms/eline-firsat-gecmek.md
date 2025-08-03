@@ -2,6 +2,7 @@
 layout: term
 title: eline fırsat geçmek
 slug: eline-firsat-gecmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - imkân bulmak

@@ -2,6 +2,7 @@
 layout: term
 title: gümrük koymak
 slug: gumruk-koymak
+letter: G
 lisan: Türkçe
 anlamlar:
 - engel olmak, kısıtlamak

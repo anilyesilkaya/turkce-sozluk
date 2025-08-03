@@ -2,6 +2,7 @@
 layout: term
 title: arılaşmak
 slug: arilasmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yabancı şeylerden arınmış duruma gelmek; arılanmak

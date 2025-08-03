@@ -2,6 +2,7 @@
 layout: term
 title: çökelmek
 slug: cokelmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir sıvının içinde erimiş olan katı bir madde bir ayıracın yardımıyla sıvı dibine çökmek; teressüp etmek

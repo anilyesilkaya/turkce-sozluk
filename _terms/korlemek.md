@@ -2,6 +2,7 @@
 layout: term
 title: körlemek
 slug: korlemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► körletmek

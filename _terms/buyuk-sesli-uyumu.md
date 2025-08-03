@@ -2,6 +2,7 @@
 layout: term
 title: büyük sesli uyumu
 slug: buyuk-sesli-uyumu
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► büyük ünlü uyumu

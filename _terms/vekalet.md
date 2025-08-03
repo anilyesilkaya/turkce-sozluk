@@ -2,6 +2,7 @@
 layout: term
 title: vekâlet
 slug: vekalet
+letter: V
 lisan: Arapça vekālet
 anlamlar:
 - ► vekillik

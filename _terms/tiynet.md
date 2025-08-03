@@ -2,6 +2,7 @@
 layout: term
 title: tıynet
 slug: tiynet
+letter: T
 lisan: Arapça ṭīnet
 anlamlar:
 - ► yaradılış

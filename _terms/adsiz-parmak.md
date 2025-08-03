@@ -2,6 +2,7 @@
 layout: term
 title: adsız parmak
 slug: adsiz-parmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► yüzük parmağı

@@ -2,6 +2,7 @@
 layout: term
 title: ardın ardın
 slug: ardin-ardin
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► geri geri

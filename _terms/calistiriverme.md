@@ -2,6 +2,7 @@
 layout: term
 title: çalıştırıverme
 slug: calistiriverme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çalıştırıvermek işi

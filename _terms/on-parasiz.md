@@ -2,6 +2,7 @@
 layout: term
 title: on parasız
 slug: on-parasiz
+letter: O
 lisan: Türkçe
 anlamlar:
 - Parası olmayan

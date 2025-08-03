@@ -2,6 +2,7 @@
 layout: term
 title: kaçarcasına
 slug: kacarcasina
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaçar gibi

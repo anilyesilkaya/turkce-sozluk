@@ -2,6 +2,7 @@
 layout: term
 title: naklen
 slug: naklen
+letter: N
 lisan: Arapça naḳlen
 anlamlar:
 - Nakil yoluyla, aktarılarak

@@ -2,6 +2,7 @@
 layout: term
 title: aydınlatmak
 slug: aydinlatmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Karanlığı giderip görünür duruma getirmek; ışıklandırmak, ışıtmak, nurlandırmak

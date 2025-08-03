@@ -2,6 +2,7 @@
 layout: term
 title: dostane
 slug: dostane
+letter: D
 lisan: Farsça dūstāne
 anlamlar:
 - ► dostça

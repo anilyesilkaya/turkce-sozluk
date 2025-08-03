@@ -2,6 +2,7 @@
 layout: term
 title: okşayabilmek
 slug: oksayabilmek
+letter: O
 lisan: Türkçe
 anlamlar:
 - Okşama ihtimali veya imkânı bulunmak

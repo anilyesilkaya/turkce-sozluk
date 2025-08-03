@@ -2,6 +2,7 @@
 layout: term
 title: meşihat
 slug: mesihat
+letter: M
 lisan: Arapça meşīḫat
 anlamlar:
 - ► şeyhlik

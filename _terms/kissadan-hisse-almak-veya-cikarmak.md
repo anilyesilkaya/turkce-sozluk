@@ -2,6 +2,7 @@
 layout: term
 title: kıssadan hisse almak (veya çıkarmak)
 slug: kissadan-hisse-almak-veya-cikarmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - anlatılan bir hikâyeden, olaydan ders almak

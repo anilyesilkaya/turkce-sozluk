@@ -2,6 +2,7 @@
 layout: term
 title: kuvvetsizlik
 slug: kuvvetsizlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kuvvetsiz olma durumu

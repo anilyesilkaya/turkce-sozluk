@@ -2,6 +2,7 @@
 layout: term
 title: duygusallık
 slug: duygusallik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Duygusal olma durumu

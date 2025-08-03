@@ -2,6 +2,7 @@
 layout: term
 title: adı çıkmış dokuza, inmez sekize
 slug: adi-cikmis-dokuza-inmez-sekize
+letter: A
 lisan: Türkçe
 anlamlar:
 - '"birinin bir kere adı çıktıktan sonra onun hakkındaki yaygın inanç artık kolay kolay düzelemez" anlamında kullanılan bir söz'

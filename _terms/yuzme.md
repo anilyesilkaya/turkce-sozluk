@@ -2,6 +2,7 @@
 layout: term
 title: yüzme
 slug: yuzme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yüzmek işi

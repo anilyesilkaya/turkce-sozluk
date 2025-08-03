@@ -2,6 +2,7 @@
 layout: term
 title: bilinmeyenli
 slug: bilinmeyenli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilinmeyeni olan

@@ -2,6 +2,7 @@
 layout: term
 title: replik
 slug: replik
+letter: R
 lisan: Fransızca réplique
 anlamlar:
 - Oyuncunun sözü karşısındakine bırakırken söyleyeceği son söz

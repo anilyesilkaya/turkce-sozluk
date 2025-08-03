@@ -2,6 +2,7 @@
 layout: term
 title: hoygoygoya çıkmak
 slug: hoygoygoya-cikmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - goygoya çıkmak

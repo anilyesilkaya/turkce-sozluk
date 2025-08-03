@@ -2,6 +2,7 @@
 layout: term
 title: ağrı kesici
 slug: agri-kesici
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağrı duyusunu ortadan kaldıran veya azaltan (ilaç vb.); analjezik

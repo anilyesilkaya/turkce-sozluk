@@ -2,6 +2,7 @@
 layout: term
 title: ateş pahası
 slug: ates-pahasi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Çok pahalı

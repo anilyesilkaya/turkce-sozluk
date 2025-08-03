@@ -2,6 +2,7 @@
 layout: term
 title: '...-meye görsün (veya gör)'
 slug: meye-gorsun-veya-gor
+letter: .
 lisan: Türkçe
 anlamlar:
 - söz konusu eylemin doğuracağı sonuca kesinlik kazandırmak için kullanılan bir söz

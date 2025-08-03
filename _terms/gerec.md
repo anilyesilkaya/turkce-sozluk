@@ -2,6 +2,7 @@
 layout: term
 title: gereç
 slug: gerec
+letter: G
 lisan: Türkçe
 anlamlar:
 - Belirli bir işi yapmak için kullanılması gereken maddeler; materyal

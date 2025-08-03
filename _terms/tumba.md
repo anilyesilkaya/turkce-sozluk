@@ -2,6 +2,7 @@
 layout: term
 title: tumba
 slug: tumba
+letter: T
 lisan: İtalyanca tombo
 anlamlar:
 - Altüst etme

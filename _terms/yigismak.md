@@ -2,6 +2,7 @@
 layout: term
 title: yığışmak
 slug: yigismak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir araya gelip toplanmak, birikmek

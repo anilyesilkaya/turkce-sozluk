@@ -2,6 +2,7 @@
 layout: term
 title: sopanın altına yatırmak
 slug: sopanin-altina-yatirmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - dövmek

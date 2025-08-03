@@ -2,6 +2,7 @@
 layout: term
 title: kol emekçisi
 slug: kol-emekcisi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sadece beden gücünü kullanarak çalışan kimse

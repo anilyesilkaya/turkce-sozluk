@@ -2,6 +2,7 @@
 layout: term
 title: nadaslı
 slug: nadasli
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nadasa bırakılmış

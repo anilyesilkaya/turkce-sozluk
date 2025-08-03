@@ -2,6 +2,7 @@
 layout: term
 title: gürültülü
 slug: gurultulu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gürültüsü olan; tangırtılı

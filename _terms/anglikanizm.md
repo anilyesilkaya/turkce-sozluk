@@ -2,6 +2,7 @@
 layout: term
 title: Anglikanizm
 slug: anglikanizm
+letter: A
 lisan: Fransızca anglicanisme
 anlamlar:
 - ► Anglikanlık

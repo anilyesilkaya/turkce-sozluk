@@ -2,6 +2,7 @@
 layout: term
 title: irfan
 slug: irfan
+letter: I
 lisan: Arapça ʿirfān
 anlamlar:
 - Bilme, anlama, sezme

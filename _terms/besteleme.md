@@ -2,6 +2,7 @@
 layout: term
 title: besteleme
 slug: besteleme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bestelemek işi

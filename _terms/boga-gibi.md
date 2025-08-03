@@ -2,6 +2,7 @@
 layout: term
 title: boğa gibi
 slug: boga-gibi
+letter: B
 lisan: Türkçe
 anlamlar:
 - çok güçlü görünen, vücudu iyi gelişmiş (delikanlı)

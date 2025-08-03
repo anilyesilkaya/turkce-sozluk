@@ -2,6 +2,7 @@
 layout: term
 title: koltuk değneği
 slug: koltuk-degnegi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Ayak ve bacakları sakat olanların yürürken koltuklarıyla dayandıkları uzun değnek

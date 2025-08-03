@@ -2,6 +2,7 @@
 layout: term
 title: kamanço etmek
 slug: kamanco-etmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - yüklemek, aktarmak, elden ele geçirmek

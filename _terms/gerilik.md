@@ -2,6 +2,7 @@
 layout: term
 title: gerilik
 slug: gerilik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Geri olma durumu

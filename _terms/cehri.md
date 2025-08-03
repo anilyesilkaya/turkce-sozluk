@@ -2,6 +2,7 @@
 layout: term
 title: cehri
 slug: cehri
+letter: C
 lisan: Türkçe
 anlamlar:
 - Kök boyasıgillerden, meyve, kabuk veya odunundan güzel kırmızı renk elde edilen bir kök (Rhamnus infectorius)

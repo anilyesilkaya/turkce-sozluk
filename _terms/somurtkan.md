@@ -2,6 +2,7 @@
 layout: term
 title: somurtkan
 slug: somurtkan
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sürekli somurtan; asık suratlı, abus, sorutkan, suratsız, abusülvecih

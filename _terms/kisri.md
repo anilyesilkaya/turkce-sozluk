@@ -2,6 +2,7 @@
 layout: term
 title: kışri
 slug: kisri
+letter: K
 lisan: Arapça ḳişr + Farsça į
 anlamlar:
 - Kabukla ilgili

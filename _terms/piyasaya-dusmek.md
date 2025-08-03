@@ -2,6 +2,7 @@
 layout: term
 title: piyasaya düşmek
 slug: piyasaya-dusmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - çok bulunur olmak

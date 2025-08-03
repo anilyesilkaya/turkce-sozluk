@@ -2,6 +2,7 @@
 layout: term
 title: atlamalı
 slug: atlamali
+letter: A
 lisan: Türkçe
 anlamlar:
 - Atlayarak

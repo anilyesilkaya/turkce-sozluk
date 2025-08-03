@@ -2,6 +2,7 @@
 layout: term
 title: minnettarca
 slug: minnettarca
+letter: M
 lisan: Türkçe
 anlamlar:
 - Minnet duyarak; minnettarane

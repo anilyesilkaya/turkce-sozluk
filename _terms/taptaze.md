@@ -2,6 +2,7 @@
 layout: term
 title: taptaze
 slug: taptaze
+letter: T
 lisan: Türkçe
 anlamlar:
 - Çok taze

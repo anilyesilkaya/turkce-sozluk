@@ -2,6 +2,7 @@
 layout: term
 title: ikmale kalmak
 slug: ikmale-kalmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - bütünlemeye kalmak

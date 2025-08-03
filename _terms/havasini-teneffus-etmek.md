@@ -2,6 +2,7 @@
 layout: term
 title: havasını teneffüs etmek
 slug: havasini-teneffus-etmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - içinde hissetmek

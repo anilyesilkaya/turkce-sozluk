@@ -2,6 +2,7 @@
 layout: term
 title: köylü
 slug: koylu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Köyde yaşayan veya köyde doğmuş olan; rustai

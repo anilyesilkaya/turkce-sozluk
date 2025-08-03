@@ -2,6 +2,7 @@
 layout: term
 title: rende
 slug: rende
+letter: R
 lisan: Farsça rende
 anlamlar:
 - Tahta yüzeyleri pürüzsüz duruma getirmek, biçim vermek için marangozların kullandığı araç

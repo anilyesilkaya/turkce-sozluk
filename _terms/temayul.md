@@ -2,6 +2,7 @@
 layout: term
 title: temayül
 slug: temayul
+letter: T
 lisan: Arapça temāyul
 anlamlar:
 - ► meyletme

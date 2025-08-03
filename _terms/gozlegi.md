@@ -2,6 +2,7 @@
 layout: term
 title: gözleği
 slug: gozlegi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gözetleme yeri

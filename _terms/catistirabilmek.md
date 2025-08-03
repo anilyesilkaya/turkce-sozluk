@@ -2,6 +2,7 @@
 layout: term
 title: çatıştırabilmek
 slug: catistirabilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çatıştırma ihtimali veya imkânı bulunmak

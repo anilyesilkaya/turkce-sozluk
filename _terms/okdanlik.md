@@ -2,6 +2,7 @@
 layout: term
 title: okdanlık
 slug: okdanlik
+letter: O
 lisan: 'Türkçe '
 anlamlar:
 - ► okluk

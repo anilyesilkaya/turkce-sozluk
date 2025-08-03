@@ -2,6 +2,7 @@
 layout: term
 title: küfelik
 slug: kufelik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Küfeyi dolduracak miktarda olan

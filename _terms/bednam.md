@@ -2,6 +2,7 @@
 layout: term
 title: bednam
 slug: bednam
+letter: B
 lisan: Farsça bed + nām
 anlamlar:
 - Kötü ün kazanan, kötülüğü ile dillere düşen

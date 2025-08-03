@@ -2,6 +2,7 @@
 layout: term
 title: bankacı
 slug: bankaci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bankacılık işlemleri ile uğraşan veya bankada görevli kimse

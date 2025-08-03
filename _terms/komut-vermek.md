@@ -2,6 +2,7 @@
 layout: term
 title: komut vermek
 slug: komut-vermek
+letter: K
 lisan: Türkçe
 anlamlar:
 - herhangi bir davranış, hareket vb. için buyrukta bulunmak

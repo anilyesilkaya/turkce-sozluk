@@ -2,6 +2,7 @@
 layout: term
 title: baharlanmak
 slug: baharlanmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► baharatlanmak

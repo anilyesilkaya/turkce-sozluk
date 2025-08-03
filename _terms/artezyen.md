@@ -2,6 +2,7 @@
 layout: term
 title: artezyen
 slug: artezyen
+letter: A
 lisan: Fransızca artésien
 anlamlar:
 - Burgu ile delinerek açılan ve suyu yükseğe fışkırtan kuyu; artezyen kuyusu

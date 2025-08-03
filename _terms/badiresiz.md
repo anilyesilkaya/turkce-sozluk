@@ -2,6 +2,7 @@
 layout: term
 title: badiresiz
 slug: badiresiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Badiresi olmayan

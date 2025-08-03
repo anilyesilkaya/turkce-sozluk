@@ -2,6 +2,7 @@
 layout: term
 title: dolapçı
 slug: dolapci
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dolap yapan veya satan kimse

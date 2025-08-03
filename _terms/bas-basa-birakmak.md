@@ -2,6 +2,7 @@
 layout: term
 title: baş başa bırakmak
 slug: bas-basa-birakmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - birinin, bir şeyle veya bir kimseyle yalnız kalmasını sağlamak

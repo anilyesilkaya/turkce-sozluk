@@ -2,6 +2,7 @@
 layout: term
 title: evli barklı
 slug: evli-barkli
+letter: E
 lisan: Türkçe
 anlamlar:
 - Evlenmiş, çocukları olan (kimse)

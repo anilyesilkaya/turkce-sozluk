@@ -2,6 +2,7 @@
 layout: term
 title: Hindistan cevizi
 slug: hindistan-cevizi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Palmiyegillerden, tropikal bölgelerde yetişen bir ağaç; narcıl (Cocos nucifera)

@@ -2,6 +2,7 @@
 layout: term
 title: çırılçıplaklık
 slug: cirilciplaklik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çırılçıplak olma durumu; çırçıplaklık

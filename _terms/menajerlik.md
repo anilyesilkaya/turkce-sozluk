@@ -2,6 +2,7 @@
 layout: term
 title: menajerlik
 slug: menajerlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Menajer olma durumu

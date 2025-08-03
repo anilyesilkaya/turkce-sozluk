@@ -2,6 +2,7 @@
 layout: term
 title: tavırlı
 slug: tavirli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Mesafeli davranan, uzak duran

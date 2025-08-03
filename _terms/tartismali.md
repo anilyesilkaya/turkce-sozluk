@@ -2,6 +2,7 @@
 layout: term
 title: tartışmalı
 slug: tartismali
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tartışma yapılan

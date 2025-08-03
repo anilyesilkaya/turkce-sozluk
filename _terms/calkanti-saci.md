@@ -2,6 +2,7 @@
 layout: term
 title: çalkantı sacı
 slug: calkanti-saci
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Dip tankında bulunan sıvının hareketini yavaşlatan metal perde

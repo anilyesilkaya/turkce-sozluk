@@ -2,6 +2,7 @@
 layout: term
 title: çıfıtlık
 slug: cifitlik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Hile yapma

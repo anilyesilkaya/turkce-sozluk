@@ -2,6 +2,7 @@
 layout: term
 title: izdivaç etmek
 slug: izdivac-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - evlenmek

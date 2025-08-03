@@ -2,6 +2,7 @@
 layout: term
 title: düşleme
 slug: dusleme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düşlemek işi

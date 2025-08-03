@@ -2,6 +2,7 @@
 layout: term
 title: ayran
 slug: ayran
+letter: A
 lisan: Türkçe
 anlamlar:
 - Süt veya yoğurt yayıkta çalkalanarak yağı alındıktan sonra kalan sulu bölüm

@@ -2,6 +2,7 @@
 layout: term
 title: kanat germek
 slug: kanat-germek
+letter: K
 lisan: Türkçe
 anlamlar:
 - koruması altına almak, himaye etmek

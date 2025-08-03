@@ -2,6 +2,7 @@
 layout: term
 title: sırt sırta
 slug: sirt-sirta
+letter: S
 lisan: Türkçe
 anlamlar:
 - Arka arkaya, sırtları birbirine değecek bir biçimde

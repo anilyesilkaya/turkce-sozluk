@@ -2,6 +2,7 @@
 layout: term
 title: ilhanlık
 slug: ilhanlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İlhan olma durumu

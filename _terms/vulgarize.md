@@ -2,6 +2,7 @@
 layout: term
 title: vulgarize
 slug: vulgarize
+letter: V
 lisan: Fransızca vulgarisé
 anlamlar:
 - Herkesin anlayacağı düzeyde olan

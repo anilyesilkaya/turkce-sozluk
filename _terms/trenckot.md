@@ -2,6 +2,7 @@
 layout: term
 title: trençkot
 slug: trenckot
+letter: T
 lisan: İngilizce trench-coat
 anlamlar:
 - ► yağmurluk

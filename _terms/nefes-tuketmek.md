@@ -2,6 +2,7 @@
 layout: term
 title: nefes tüketmek
 slug: nefes-tuketmek
+letter: N
 lisan: Türkçe
 anlamlar:
 - uzun uzun ve boş konuşmak

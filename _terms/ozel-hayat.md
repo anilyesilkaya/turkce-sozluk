@@ -2,6 +2,7 @@
 layout: term
 title: özel hayat
 slug: ozel-hayat
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Kişinin kendine özgü yaşayışı, yaşama tarzı, kendisini ilgilendiren tutum ve davranışı; öz yaşam, özel yaşam

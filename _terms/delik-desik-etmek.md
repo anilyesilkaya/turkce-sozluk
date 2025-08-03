@@ -2,6 +2,7 @@
 layout: term
 title: delik deşik etmek
 slug: delik-desik-etmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - bir canlının vücudunda bir araçla birçok yara, kesik açmak

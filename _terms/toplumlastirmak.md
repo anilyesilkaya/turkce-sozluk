@@ -2,6 +2,7 @@
 layout: term
 title: toplumlaştırmak
 slug: toplumlastirmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Toplumculuk ilkeleri çerçevesinde topluma mal etmek

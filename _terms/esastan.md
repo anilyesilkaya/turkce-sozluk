@@ -2,6 +2,7 @@
 layout: term
 title: esastan
 slug: esastan
+letter: E
 lisan: Türkçe
 anlamlar:
 - Aslına dayalı olarak

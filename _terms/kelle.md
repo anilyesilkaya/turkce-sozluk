@@ -2,6 +2,7 @@
 layout: term
 title: kelle
 slug: kelle
+letter: K
 lisan: Farsça kelle
 anlamlar:
 - Koyun, kuzu ve keçinin pişirilmiş başı

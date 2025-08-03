@@ -2,6 +2,7 @@
 layout: term
 title: dağıntı
 slug: daginti
+letter: D
 lisan: Türkçe
 anlamlar:
 - Karışık, gelişigüzel atılmış öteberi

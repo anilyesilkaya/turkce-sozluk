@@ -2,6 +2,7 @@
 layout: term
 title: tetiğe basmak (veya dokunmak)
 slug: tetige-basmak-veya-dokunmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - ateş etmek

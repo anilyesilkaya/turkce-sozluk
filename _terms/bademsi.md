@@ -2,6 +2,7 @@
 layout: term
 title: bademsi
 slug: bademsi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bademi andıran, bademe benzeyen, badem gibi

@@ -2,6 +2,7 @@
 layout: term
 title: cinsiyetçilik
 slug: cinsiyetcilik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Bir cinsiyetin diğerinden üstün olduğunu savunan görüş ve ideoloji

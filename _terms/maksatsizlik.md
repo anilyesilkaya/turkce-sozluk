@@ -2,6 +2,7 @@
 layout: term
 title: maksatsızlık
 slug: maksatsizlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Maksatsız olma durumu

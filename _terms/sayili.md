@@ -2,6 +2,7 @@
 layout: term
 title: sayılı
 slug: sayili
+letter: S
 lisan: Türkçe
 anlamlar:
 - Herhangi bir sayı ile belirtilmiş olan

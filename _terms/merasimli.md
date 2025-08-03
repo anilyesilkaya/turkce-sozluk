@@ -2,6 +2,7 @@
 layout: term
 title: merasimli
 slug: merasimli
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► törenli

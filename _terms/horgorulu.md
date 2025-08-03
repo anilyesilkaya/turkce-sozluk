@@ -2,6 +2,7 @@
 layout: term
 title: horgörülü
 slug: horgorulu
+letter: H
 lisan: Türkçe
 anlamlar:
 - Horgörüsü olan, horgörüyle davranan, horgörü sahibi; horgörücü

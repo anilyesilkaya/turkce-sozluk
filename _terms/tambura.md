@@ -2,6 +2,7 @@
 layout: term
 title: tambura
 slug: tambura
+letter: T
 lisan: Arapça ṭanbūre
 anlamlar:
 - Türk halk müziğinde kullanılan, cura, bulgari, çöğür, bağlama gibi telli ve mızrapla çalınan çalgıların genel adı

@@ -2,6 +2,7 @@
 layout: term
 title: sonsuzluk
 slug: sonsuzluk
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sonsuz olma durumu; bengilik, bitimsizlik, sonrasızlık, ebedîlik, ebediyet, namütenahilik, payansızlık

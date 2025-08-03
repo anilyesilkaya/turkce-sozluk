@@ -2,6 +2,7 @@
 layout: term
 title: türbinli
 slug: turbinli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Türbini olan

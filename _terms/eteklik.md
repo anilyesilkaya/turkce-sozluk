@@ -2,6 +2,7 @@
 layout: term
 title: eteklik
 slug: eteklik
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► etek

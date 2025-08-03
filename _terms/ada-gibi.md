@@ -2,6 +2,7 @@
 layout: term
 title: ada gibi
 slug: ada-gibi
+letter: A
 lisan: Türkçe
 anlamlar:
 - pek büyük (gemi)

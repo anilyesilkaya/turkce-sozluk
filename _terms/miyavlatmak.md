@@ -2,6 +2,7 @@
 layout: term
 title: miyavlatmak
 slug: miyavlatmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - Kediyi bağırtmak

@@ -2,6 +2,7 @@
 layout: term
 title: ulaç
 slug: ulac
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► zarf-fiil

@@ -2,6 +2,7 @@
 layout: term
 title: desise
 slug: desise
+letter: D
 lisan: Arapça desīse
 anlamlar:
 - ► entrika

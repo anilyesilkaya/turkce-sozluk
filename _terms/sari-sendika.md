@@ -2,6 +2,7 @@
 layout: term
 title: sarı sendika
 slug: sari-sendika
+letter: S
 lisan: Türkçe
 anlamlar:
 - İşverenden yana olan sendikal örgüt

@@ -2,6 +2,7 @@
 layout: term
 title: bölüştürmek
 slug: bolusturmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► paylaştırmak

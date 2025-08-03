@@ -2,6 +2,7 @@
 layout: term
 title: nakışsız
 slug: nakissiz
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nakşı olmayan

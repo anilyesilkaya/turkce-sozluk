@@ -2,6 +2,7 @@
 layout: term
 title: hızlandırabilmek
 slug: hizlandirabilmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hızlandırma ihtimali veya imkânı bulunmak

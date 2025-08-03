@@ -2,6 +2,7 @@
 layout: term
 title: badem ezmesi
 slug: badem-ezmesi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Ezilmiş bademle yapılan şekerleme

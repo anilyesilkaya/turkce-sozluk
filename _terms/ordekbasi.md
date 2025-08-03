@@ -2,6 +2,7 @@
 layout: term
 title: ördekbaşı
 slug: ordekbasi
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Yeşille lacivert arası renk

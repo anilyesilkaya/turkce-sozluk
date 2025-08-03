@@ -2,6 +2,7 @@
 layout: term
 title: cezasını çekmek
 slug: cezasini-cekmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - yaptığı bir kusur veya tedbirsizliğin zararına uğramak

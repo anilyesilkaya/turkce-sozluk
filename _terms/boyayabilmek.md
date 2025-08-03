@@ -2,6 +2,7 @@
 layout: term
 title: boyayabilmek
 slug: boyayabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boyama ihtimali veya imkânı bulunmak

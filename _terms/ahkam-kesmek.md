@@ -2,6 +2,7 @@
 layout: term
 title: ahkâm kesmek
 slug: ahkam-kesmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - çekinmeden kesin yargılarda bulunmak

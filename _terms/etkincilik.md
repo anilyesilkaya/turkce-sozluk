@@ -2,6 +2,7 @@
 layout: term
 title: etkincilik
 slug: etkincilik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Toplumsal veya politik değişim meydana getirmek, belirli sorunlara dikkat çekmek için özel amaçlı etkinlik gerçekleştirme; aktivizm

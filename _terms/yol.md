@@ -2,6 +2,7 @@
 layout: term
 title: yol
 slug: yol
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Karada, havada, suda bir yerden bir yere gitmek için aşılan uzaklık; sırat, tarik

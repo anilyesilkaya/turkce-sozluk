@@ -2,6 +2,7 @@
 layout: term
 title: miat
 slug: miat
+letter: M
 lisan: Arapça mīʿād
 anlamlar:
 - Bir şeyin yapılması için tanınan süre

@@ -2,6 +2,7 @@
 layout: term
 title: sergerdelik
 slug: sergerdelik
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► elebaşılık

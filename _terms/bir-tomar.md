@@ -2,6 +2,7 @@
 layout: term
 title: bir tomar
 slug: bir-tomar
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► pek çok

@@ -2,6 +2,7 @@
 layout: term
 title: müsamaha
 slug: musamaha
+letter: M
 lisan: Arapça musāmaḥa
 anlamlar:
 - ► hoşgörü

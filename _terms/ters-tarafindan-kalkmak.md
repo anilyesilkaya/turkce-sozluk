@@ -2,6 +2,7 @@
 layout: term
 title: ters tarafından kalkmak
 slug: ters-tarafindan-kalkmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - sol tarafından kalkmak

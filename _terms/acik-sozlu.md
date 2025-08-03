@@ -2,6 +2,7 @@
 layout: term
 title: açık sözlü
 slug: acik-sozlu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Her şeyi olduğu gibi söyleyen, sözünü esirgemeyen; dobra

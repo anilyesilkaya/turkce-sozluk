@@ -2,6 +2,7 @@
 layout: term
 title: çiğnenmek
 slug: cignenmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çiğneme işi yapılmak

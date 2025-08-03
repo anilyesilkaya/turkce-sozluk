@@ -2,6 +2,7 @@
 layout: term
 title: guguk gibi kalmak
 slug: guguk-gibi-kalmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - tek başına kalmak

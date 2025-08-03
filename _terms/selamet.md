@@ -2,6 +2,7 @@
 layout: term
 title: selamet
 slug: selamet
+letter: S
 lisan: Arapça selāmet
 anlamlar:
 - ► esenlik

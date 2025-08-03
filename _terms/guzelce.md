@@ -2,6 +2,7 @@
 layout: term
 title: güzelce
 slug: guzelce
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güzele yakın, güzel gibi

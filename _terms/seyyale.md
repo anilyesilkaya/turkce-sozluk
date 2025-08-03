@@ -2,6 +2,7 @@
 layout: term
 title: seyyale
 slug: seyyale
+letter: S
 lisan: Arapça seyyāle
 anlamlar:
 - Hava, su gibi akıcı olan şey, akıcı madde

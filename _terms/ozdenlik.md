@@ -2,6 +2,7 @@
 layout: term
 title: özdenlik
 slug: ozdenlik
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Özden olma durumu

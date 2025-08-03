@@ -2,6 +2,7 @@
 layout: term
 title: tümör
 slug: tumor
+letter: T
 lisan: Fransızca tumeur
 anlamlar:
 - ► ur

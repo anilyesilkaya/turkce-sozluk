@@ -2,6 +2,7 @@
 layout: term
 title: Slovence
 slug: slovence
+letter: S
 lisan: Türkçe
 anlamlar:
 - Slovenlerin kullandığı dil

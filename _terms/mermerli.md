@@ -2,6 +2,7 @@
 layout: term
 title: mermerli
 slug: mermerli
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mermeri olan

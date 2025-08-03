@@ -2,6 +2,7 @@
 layout: term
 title: piyasaya çıkmak
 slug: piyasaya-cikmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - bir ürün satışa sunulmak

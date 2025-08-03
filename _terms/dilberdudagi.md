@@ -2,6 +2,7 @@
 layout: term
 title: dilberdudağı
 slug: dilberdudagi
+letter: D
 lisan: Türkçe
 anlamlar:
 - İçine bol miktarda ceviz parçaları konup dudağa benzer bir biçimde kapatılarak hazırlanan bir hamur tatlısı

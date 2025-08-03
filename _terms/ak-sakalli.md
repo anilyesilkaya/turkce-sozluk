@@ -2,6 +2,7 @@
 layout: term
 title: ak sakallı
 slug: ak-sakalli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Sakalı ak, beyaz olan

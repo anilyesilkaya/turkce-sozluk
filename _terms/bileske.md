@@ -2,6 +2,7 @@
 layout: term
 title: bileşke
 slug: bileske
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir araya gelme

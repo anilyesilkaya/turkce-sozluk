@@ -2,6 +2,7 @@
 layout: term
 title: istemseme
 slug: istemseme
+letter: I
 lisan: Türkçe
 anlamlar:
 - İradeyi etkileyebilecek güçte olmayan, gelip geçici isteme

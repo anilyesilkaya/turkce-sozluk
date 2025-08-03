@@ -2,6 +2,7 @@
 layout: term
 title: sınıf muallimliği
 slug: sinif-muallimligi
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► sınıf öğretmenliği

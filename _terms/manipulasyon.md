@@ -2,6 +2,7 @@
 layout: term
 title: manipülasyon
 slug: manipulasyon
+letter: M
 lisan: Fransızca manipulation
 anlamlar:
 - ► yönlendirme

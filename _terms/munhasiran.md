@@ -2,6 +2,7 @@
 layout: term
 title: münhasıran
 slug: munhasiran
+letter: M
 lisan: Arapça munḥaṣiran
 anlamlar:
 - ► özellikle

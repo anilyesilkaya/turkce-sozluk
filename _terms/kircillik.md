@@ -2,6 +2,7 @@
 layout: term
 title: kırçıllık
 slug: kircillik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kırçıl olma durumu

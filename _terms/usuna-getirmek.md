@@ -2,6 +2,7 @@
 layout: term
 title: usuna getirmek
 slug: usuna-getirmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - aklına getirmek

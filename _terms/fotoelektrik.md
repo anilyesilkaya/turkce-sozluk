@@ -2,6 +2,7 @@
 layout: term
 title: fotoelektrik
 slug: fotoelektrik
+letter: F
 lisan: Fransızca photoélectrique
 anlamlar:
 - Işığın etkisiyle elektrik üretme

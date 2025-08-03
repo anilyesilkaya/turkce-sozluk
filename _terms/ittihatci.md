@@ -2,6 +2,7 @@
 layout: term
 title: ittihatçı
 slug: ittihatci
+letter: I
 lisan: Türkçe
 anlamlar:
 - Aynı düşünce etrafında toplanma yanlısı olan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: karşılayabilmek
 slug: karsilayabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karşılama ihtimali veya imkânı bulunmak

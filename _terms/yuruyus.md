@@ -2,6 +2,7 @@
 layout: term
 title: yürüyüş
 slug: yuruyus
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yürümek işi

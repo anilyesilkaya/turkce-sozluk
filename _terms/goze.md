@@ -2,6 +2,7 @@
 layout: term
 title: göze
 slug: goze
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► hücre

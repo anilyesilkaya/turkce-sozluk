@@ -2,6 +2,7 @@
 layout: term
 title: ıssız kalmak
 slug: issiz-kalmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - ıssızlaşmak, tenhalaşmak

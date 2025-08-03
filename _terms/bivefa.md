@@ -2,6 +2,7 @@
 layout: term
 title: bivefa
 slug: bivefa
+letter: B
 lisan: Farsça bī + Arapça vefā
 anlamlar:
 - ► vefasız

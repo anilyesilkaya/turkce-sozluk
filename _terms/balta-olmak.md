@@ -2,6 +2,7 @@
 layout: term
 title: balta olmak
 slug: balta-olmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - asılmak, musallat olmak

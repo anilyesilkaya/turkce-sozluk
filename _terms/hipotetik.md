@@ -2,6 +2,7 @@
 layout: term
 title: hipotetik
 slug: hipotetik
+letter: H
 lisan: Fransızca hypothétique
 anlamlar:
 - ► varsayımsal

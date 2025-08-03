@@ -2,6 +2,7 @@
 layout: term
 title: odak
 slug: odak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Bir ışık veya ısı kaynağından yayılan ışınların bir mercekten geçtikten veya çukur bir aynadan yansıdıktan sonra toplandığı yer; mihrak, fokus

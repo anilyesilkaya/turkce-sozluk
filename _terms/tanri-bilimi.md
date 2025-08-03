@@ -2,6 +2,7 @@
 layout: term
 title: tanrı bilimi
 slug: tanri-bilimi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tanrı'nın varlığı ve nitelikleriyle ilgili konuları ele alan bir bilim kolu; ilahiyat, teoloji

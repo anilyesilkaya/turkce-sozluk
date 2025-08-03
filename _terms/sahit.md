@@ -2,6 +2,7 @@
 layout: term
 title: şahit
 slug: sahit
+letter: Ş
 lisan: Arapça şāhid
 anlamlar:
 - ► tanık

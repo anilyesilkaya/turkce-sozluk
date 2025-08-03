@@ -2,6 +2,7 @@
 layout: term
 title: solist
 slug: solist
+letter: S
 lisan: Fransızca soliste
 anlamlar:
 - Bir müzik eserini tek başına çalan, söyleyen sanatçı; solocu

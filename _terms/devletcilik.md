@@ -2,6 +2,7 @@
 layout: term
 title: devletçilik
 slug: devletcilik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir milletin yönetimle ve ekonomiyle ilgili işlevlerinin devletçe birleşik bir yönetim altında bütünleştirilmesi siyaseti ve öğretisi, liberalizm karşıtı

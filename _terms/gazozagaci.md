@@ -2,6 +2,7 @@
 layout: term
 title: gazozağacı
 slug: gazozagaci
+letter: G
 lisan: Türkçe
 anlamlar:
 - Çok saçma söz

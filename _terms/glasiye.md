@@ -2,6 +2,7 @@
 layout: term
 title: glasiye
 slug: glasiye
+letter: G
 lisan: Fransızca glacier
 anlamlar:
 - ► buzul

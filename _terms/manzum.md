@@ -2,6 +2,7 @@
 layout: term
 title: manzum
 slug: manzum
+letter: M
 lisan: Arapça manẓūm
 anlamlar:
 - Şiir biçiminde yazılmış

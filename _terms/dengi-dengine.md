@@ -2,6 +2,7 @@
 layout: term
 title: dengi dengine
 slug: dengi-dengine
+letter: D
 lisan: Türkçe
 anlamlar:
 - uygun olanıyla

@@ -2,6 +2,7 @@
 layout: term
 title: lateks
 slug: lateks
+letter: L
 lisan: Fransızca latex
 anlamlar:
 - Kauçuk ağacının özü

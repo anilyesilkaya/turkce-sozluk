@@ -2,6 +2,7 @@
 layout: term
 title: resmî elbise
 slug: resmi-elbise
+letter: R
 lisan: Türkçe
 anlamlar:
 - ► resmî giysi

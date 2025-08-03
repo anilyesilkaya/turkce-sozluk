@@ -2,6 +2,7 @@
 layout: term
 title: küfrettirmek
 slug: kufrettirmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Küfretme işini yaptırmak

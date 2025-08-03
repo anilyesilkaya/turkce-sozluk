@@ -2,6 +2,7 @@
 layout: term
 title: inandırıcılık
 slug: inandiricilik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İnandırıcı olma durumu

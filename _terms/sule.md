@@ -2,6 +2,7 @@
 layout: term
 title: şule
 slug: sule
+letter: Ş
 lisan: Arapça şuʿle
 anlamlar:
 - ► alev (I)

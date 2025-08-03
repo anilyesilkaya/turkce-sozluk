@@ -2,6 +2,7 @@
 layout: term
 title: cereyan etmek
 slug: cereyan-etmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - geçmek, olmak, yapılmak

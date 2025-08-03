@@ -2,6 +2,7 @@
 layout: term
 title: sözcüksüz
 slug: sozcuksuz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sözcüğü olmayan

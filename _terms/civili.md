@@ -2,6 +2,7 @@
 layout: term
 title: çivili
 slug: civili
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çivisi olan; mıhlı

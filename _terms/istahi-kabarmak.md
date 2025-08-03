@@ -2,6 +2,7 @@
 layout: term
 title: iştahı kabarmak
 slug: istahi-kabarmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - isteği çoğalmak, heveslenmek

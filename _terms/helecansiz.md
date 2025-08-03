@@ -2,6 +2,7 @@
 layout: term
 title: helecansız
 slug: helecansiz
+letter: H
 lisan: Türkçe
 anlamlar:
 - Helecanı olmayan

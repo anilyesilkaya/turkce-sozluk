@@ -2,6 +2,7 @@
 layout: term
 title: taşlaşmak
 slug: taslasmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taş durumuna gelmek

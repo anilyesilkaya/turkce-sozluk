@@ -2,6 +2,7 @@
 layout: term
 title: uysallaşmak
 slug: uysallasmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uysal duruma gelmek, uysal olmak

@@ -2,6 +2,7 @@
 layout: term
 title: aksaklık
 slug: aksaklik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aksak olma durumu; arıza

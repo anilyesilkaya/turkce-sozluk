@@ -2,6 +2,7 @@
 layout: term
 title: bardan bardan
 slug: bardan-bardan
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beyaz bir biçimde

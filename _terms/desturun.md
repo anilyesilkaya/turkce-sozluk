@@ -2,6 +2,7 @@
 layout: term
 title: desturun
 slug: desturun
+letter: D
 lisan: Türkçe
 anlamlar:
 - İğrenç veya ayıp bir söz söylemek zorunda kalındığında "affedersiniz" anlamında kullanılan bir söz

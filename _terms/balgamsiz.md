@@ -2,6 +2,7 @@
 layout: term
 title: balgamsız
 slug: balgamsiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Balgamı olmayan

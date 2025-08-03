@@ -2,6 +2,7 @@
 layout: term
 title: kökü kurumak
 slug: koku-kurumak
+letter: K
 lisan: Türkçe
 anlamlar:
 - yok olmak, ortadan kalkmak

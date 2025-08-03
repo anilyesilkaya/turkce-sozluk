@@ -2,6 +2,7 @@
 layout: term
 title: uşkun
 slug: uskun
+letter: U
 lisan: Türkçe
 anlamlar:
 - Karabuğdaygillerden, yaprakları yürek biçiminde, kökü dıştan sincabi ve içten sarı renkte olan bir tür ravent (Rheum rhaponticum)

@@ -2,6 +2,7 @@
 layout: term
 title: üstüne gitmek
 slug: ustune-gitmek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - bir işe el atmak, karışmak

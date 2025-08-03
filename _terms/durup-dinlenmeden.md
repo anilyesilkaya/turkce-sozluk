@@ -2,6 +2,7 @@
 layout: term
 title: durup dinlenmeden
 slug: durup-dinlenmeden
+letter: D
 lisan: Türkçe
 anlamlar:
 - Arası kesilmeksizin, arka arkaya, sürekli olarak

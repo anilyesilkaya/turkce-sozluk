@@ -2,6 +2,7 @@
 layout: term
 title: aşkın
 slug: askin
+letter: A
 lisan: Türkçe
 anlamlar:
 - Belli bir süreyi aşmış, ötesine geçmiş

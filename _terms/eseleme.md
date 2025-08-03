@@ -2,6 +2,7 @@
 layout: term
 title: eşeleme
 slug: eseleme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eşelemek işi

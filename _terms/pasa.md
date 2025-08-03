@@ -2,6 +2,7 @@
 layout: term
 title: paşa
 slug: pasa
+letter: P
 lisan: Türkçe
 anlamlar:
 - Osmanlı Devleti zamanında yüksek sivil memurlara ve albaydan üstün rütbede bulunan askerlere verilen ünvan

@@ -2,6 +2,7 @@
 layout: term
 title: başarılı
 slug: basarili
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başarı gösteren; muvaffakiyetli

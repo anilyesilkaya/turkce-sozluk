@@ -2,6 +2,7 @@
 layout: term
 title: çakmaksız
 slug: cakmaksiz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çakmağı olmayan

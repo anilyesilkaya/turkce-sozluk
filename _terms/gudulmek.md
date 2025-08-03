@@ -2,6 +2,7 @@
 layout: term
 title: güdülmek
 slug: gudulmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gütme işi yapılmak

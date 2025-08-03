@@ -2,6 +2,7 @@
 layout: term
 title: billur
 slug: billur
+letter: B
 lisan: Arapça billūr
 anlamlar:
 - Bazı cisimlerin bazı fiziksel etkiler altında aldıkları veya doğal olarak bulundukları geometrik biçim

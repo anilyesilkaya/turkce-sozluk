@@ -2,6 +2,7 @@
 layout: term
 title: engel
 slug: engel
+letter: E
 lisan: Türkçe
 anlamlar:
 - Bir şeyin gerçekleşmesini önleyen sebep; duvar, köstek, mâni (I), mahzur, pürüz, mânia, hail, handikap, kasis, ket

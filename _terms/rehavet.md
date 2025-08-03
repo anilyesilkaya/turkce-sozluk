@@ -2,6 +2,7 @@
 layout: term
 title: rehavet
 slug: rehavet
+letter: R
 lisan: Arapça reḥāvet
 anlamlar:
 - Vücutta görülen gevşeklik, ağırlık, tembellik

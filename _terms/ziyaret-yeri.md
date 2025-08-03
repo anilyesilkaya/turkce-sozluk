@@ -2,6 +2,7 @@
 layout: term
 title: ziyaret yeri
 slug: ziyaret-yeri
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Hayır işlemek veya saygı göstermek için gidilen yer; ziyaret, ziyaretgâh

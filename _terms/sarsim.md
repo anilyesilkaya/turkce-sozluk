@@ -2,6 +2,7 @@
 layout: term
 title: sarsım
 slug: sarsim
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sarsmak işi

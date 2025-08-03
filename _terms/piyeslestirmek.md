@@ -2,6 +2,7 @@
 layout: term
 title: piyesleştirmek
 slug: piyeslestirmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Piyes durumuna getirmek

@@ -2,6 +2,7 @@
 layout: term
 title: muğlak
 slug: muglak
+letter: M
 lisan: Arapça muġlaḳ
 anlamlar:
 - ► anlaşılmaz

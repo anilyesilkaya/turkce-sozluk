@@ -2,6 +2,7 @@
 layout: term
 title: gün atmak
 slug: gun-atmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - davayı ileri bir tarihe bırakmak

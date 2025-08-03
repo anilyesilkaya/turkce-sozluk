@@ -2,6 +2,7 @@
 layout: term
 title: tekaüt maaşı
 slug: tekaut-maasi
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► emekli aylığı

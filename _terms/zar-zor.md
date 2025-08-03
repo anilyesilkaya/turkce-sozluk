@@ -2,6 +2,7 @@
 layout: term
 title: zar zor
 slug: zar-zor
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Güçlükle, zoru zoruna

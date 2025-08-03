@@ -2,6 +2,7 @@
 layout: term
 title: kadınsı
 slug: kadinsi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kadına benzer, kadın gibi; kadınımsı

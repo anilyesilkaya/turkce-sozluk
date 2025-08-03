@@ -2,6 +2,7 @@
 layout: term
 title: çakırkeyif
 slug: cakirkeyif
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Yarı sarhoş

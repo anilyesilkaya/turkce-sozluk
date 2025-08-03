@@ -2,6 +2,7 @@
 layout: term
 title: vals yapmak
 slug: vals-yapmak
+letter: V
 lisan: Türkçe
 anlamlar:
 - vals müziği ile dans etmek

@@ -2,6 +2,7 @@
 layout: term
 title: fosil
 slug: fosil
+letter: F
 lisan: Fransızca fossile
 anlamlar:
 - Geçmiş yer bilimi zamanlarına ilişkin hayvanların ve bitkilerin, yer kabuğu kayaçları içindeki kalıntıları veya izleri; müstehase, taşıl

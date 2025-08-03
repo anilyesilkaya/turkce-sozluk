@@ -2,6 +2,7 @@
 layout: term
 title: alın yazısı değişmez
 slug: alin-yazisi-degismez
+letter: A
 lisan: Türkçe
 anlamlar:
 - '"kişi ne yaparsa yapsın kaderini değiştiremez" anlamında kullanılan bir söz'

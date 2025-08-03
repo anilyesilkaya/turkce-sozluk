@@ -2,6 +2,7 @@
 layout: term
 title: tabiri (veya tabir) caizse
 slug: tabiri-veya-tabir-caizse
+letter: T
 lisan: Türkçe
 anlamlar:
 - '"sözün özünü söylemek gerekirse" anlamında kullanılan bir söz'

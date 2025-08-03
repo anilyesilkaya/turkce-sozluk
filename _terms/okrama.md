@@ -2,6 +2,7 @@
 layout: term
 title: okrama
 slug: okrama
+letter: O
 lisan: Türkçe
 anlamlar:
 - Okramak işi

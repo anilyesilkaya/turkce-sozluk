@@ -2,6 +2,7 @@
 layout: term
 title: kolye
 slug: kolye
+letter: K
 lisan: Fransızca collier
 anlamlar:
 - Ucuna süs eşyaları konularak boyna takılan takı

@@ -2,6 +2,7 @@
 layout: term
 title: halk okulu
 slug: halk-okulu
+letter: H
 lisan: Türkçe
 anlamlar:
 - Halk için gerekli olan bilgilerin verildiği okul

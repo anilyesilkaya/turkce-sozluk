@@ -2,6 +2,7 @@
 layout: term
 title: kösteksiz
 slug: kosteksiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kösteği olmayan

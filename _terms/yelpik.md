@@ -2,6 +2,7 @@
 layout: term
 title: yelpik
 slug: yelpik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► nefes darlığı

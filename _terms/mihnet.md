@@ -2,6 +2,7 @@
 layout: term
 title: mihnet
 slug: mihnet
+letter: M
 lisan: Arapça miḥnet
 anlamlar:
 - ► sıkıntı

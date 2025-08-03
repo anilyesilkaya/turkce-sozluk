@@ -2,6 +2,7 @@
 layout: term
 title: oğullanmak
 slug: ogullanmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oğullu olmak, çocuklu duruma gelmek

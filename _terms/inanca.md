@@ -2,6 +2,7 @@
 layout: term
 title: inanca
 slug: inanca
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► güvence

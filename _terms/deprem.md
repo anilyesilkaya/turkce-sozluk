@@ -2,6 +2,7 @@
 layout: term
 title: deprem
 slug: deprem
+letter: D
 lisan: Türkçe
 anlamlar:
 - Yer kabuğundaki hareketlerin meydana getirdiği enerjinin boşalması sonucunda oluşan sarsıntı; yer sarsıntısı, hareket, zelzele

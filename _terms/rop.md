@@ -2,6 +2,7 @@
 layout: term
 title: rop
 slug: rop
+letter: R
 lisan: Fransızca robe
 anlamlar:
 - Çoğu tek parça kadın giysisi

@@ -2,6 +2,7 @@
 layout: term
 title: triko
 slug: triko
+letter: T
 lisan: Fransızca tricot
 anlamlar:
 - Örülerek dokunan bir cins yün kumaş

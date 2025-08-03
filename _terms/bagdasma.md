@@ -2,6 +2,7 @@
 layout: term
 title: bağdaşma
 slug: bagdasma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağdaşmak işi; imtizaç

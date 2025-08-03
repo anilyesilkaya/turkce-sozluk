@@ -2,6 +2,7 @@
 layout: term
 title: alınmak
 slug: alinmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alma işi yapılmak

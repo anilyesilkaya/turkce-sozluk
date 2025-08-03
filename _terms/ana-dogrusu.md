@@ -2,6 +2,7 @@
 layout: term
 title: ana doğrusu
 slug: ana-dogrusu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Dönen silindirin yan yüzünü oluşturan dikdörtgenin bir kenarı

@@ -2,6 +2,7 @@
 layout: term
 title: ruh ikizliği
 slug: ruh-ikizligi
+letter: R
 lisan: Türkçe
 anlamlar:
 - Düşündükleri, hissettikleri birbirinin aynı olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: kâğıdımsı
 slug: kagidimsi
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kâğıtsı

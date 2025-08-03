@@ -2,6 +2,7 @@
 layout: term
 title: aralarındaki buzları eritmek
 slug: aralarindaki-buzlari-eritmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - kırgınlığı, küslüğü ortadan kaldırmak

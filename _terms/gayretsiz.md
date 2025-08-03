@@ -2,6 +2,7 @@
 layout: term
 title: gayretsiz
 slug: gayretsiz
+letter: G
 lisan: Türkçe
 anlamlar:
 - Çalışmayan, çaba göstermeyen

@@ -2,6 +2,7 @@
 layout: term
 title: sürüp gitmek
 slug: surup-gitmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - eskiden olduğu gibi, eskiden nasılsa gene öyle olmak, öyle devam etmek

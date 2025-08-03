@@ -2,6 +2,7 @@
 layout: term
 title: ay başı
 slug: ay-basi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayın ilk günü; ay dönümü

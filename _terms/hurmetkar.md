@@ -2,6 +2,7 @@
 layout: term
 title: hürmetkâr
 slug: hurmetkar
+letter: H
 lisan: Arapça ḥurmet + Farsça -kār
 anlamlar:
 - ► saygılı

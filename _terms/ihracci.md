@@ -2,6 +2,7 @@
 layout: term
 title: ihraççı
 slug: ihracci
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► ihracatçı

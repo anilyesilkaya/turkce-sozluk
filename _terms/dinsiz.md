@@ -2,6 +2,7 @@
 layout: term
 title: dinsiz
 slug: dinsiz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dinî inancı olmayan

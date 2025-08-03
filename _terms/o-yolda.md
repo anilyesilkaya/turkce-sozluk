@@ -2,6 +2,7 @@
 layout: term
 title: o yolda
 slug: o-yolda
+letter: O
 lisan: Türkçe
 anlamlar:
 - Öyle, o gidiş ve düzenle

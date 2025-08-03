@@ -2,6 +2,7 @@
 layout: term
 title: mantosuz
 slug: mantosuz
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mantosu olmayan

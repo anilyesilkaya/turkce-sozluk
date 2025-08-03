@@ -2,6 +2,7 @@
 layout: term
 title: karaya vurmak
 slug: karaya-vurmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - karaya çarpmak

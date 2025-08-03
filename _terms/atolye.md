@@ -2,6 +2,7 @@
 layout: term
 title: atölye
 slug: atolye
+letter: A
 lisan: Fransızca atelier
 anlamlar:
 - Zanaatçıların veya resim, heykel sanatlarıyla uğraşanların çalıştığı yer; işlik (I)

@@ -2,6 +2,7 @@
 layout: term
 title: dalgıç
 slug: dalgic
+letter: D
 lisan: Türkçe
 anlamlar:
 - Deniz dibine inilebilecek özel donanımla su altında çalışmayı meslek edinen kimse; balık adam, kurbağa adam

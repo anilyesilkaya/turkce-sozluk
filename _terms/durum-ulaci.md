@@ -2,6 +2,7 @@
 layout: term
 title: durum ulacı
 slug: durum-ulaci
+letter: D
 lisan: Türkçe
 anlamlar:
 - Zarf-fiil

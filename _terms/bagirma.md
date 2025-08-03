@@ -2,6 +2,7 @@
 layout: term
 title: bağırma
 slug: bagirma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağırmak işi

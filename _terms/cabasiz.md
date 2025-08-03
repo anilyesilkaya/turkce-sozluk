@@ -2,6 +2,7 @@
 layout: term
 title: çabasız
 slug: cabasiz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çaba göstermeyen, çabalamayan

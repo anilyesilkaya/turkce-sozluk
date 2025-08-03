@@ -2,6 +2,7 @@
 layout: term
 title: al
 slug: al
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► kırmızı

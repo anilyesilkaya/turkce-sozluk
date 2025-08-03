@@ -2,6 +2,7 @@
 layout: term
 title: takılı kalmak
 slug: takili-kalmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - bir iş bitmemek

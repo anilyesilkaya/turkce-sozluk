@@ -2,6 +2,7 @@
 layout: term
 title: müştehi
 slug: mustehi
+letter: M
 lisan: Arapça muştehī
 anlamlar:
 - ► istekli

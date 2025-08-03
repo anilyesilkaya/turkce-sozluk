@@ -2,6 +2,7 @@
 layout: term
 title: itminan
 slug: itminan
+letter: I
 lisan: Arapça iṭmiʾnān
 anlamlar:
 - ► gönül rahatlığı

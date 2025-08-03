@@ -2,6 +2,7 @@
 layout: term
 title: selam yollamak (veya salmak)
 slug: selam-yollamak-veya-salmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - birine esenleme haberi göndermek

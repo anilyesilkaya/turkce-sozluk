@@ -2,6 +2,7 @@
 layout: term
 title: dalgacık
 slug: dalgacik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Küçük dalga

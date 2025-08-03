@@ -2,6 +2,7 @@
 layout: term
 title: muin
 slug: muin
+letter: M
 lisan: Arapça muʿīn
 anlamlar:
 - ► yardımcı

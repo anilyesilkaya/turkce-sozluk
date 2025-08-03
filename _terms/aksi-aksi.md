@@ -2,6 +2,7 @@
 layout: term
 title: aksi aksi
 slug: aksi-aksi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Olumsuz ve sert bir ifadeyle

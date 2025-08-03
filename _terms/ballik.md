@@ -2,6 +2,7 @@
 layout: term
 title: ballık
 slug: ballik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bal konulan kap

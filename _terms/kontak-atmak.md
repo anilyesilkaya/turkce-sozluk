@@ -2,6 +2,7 @@
 layout: term
 title: kontak atmak
 slug: kontak-atmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - elektrik donanımında karşı uçların birbirine dokunmasıyla elektrik akımı kesilmek

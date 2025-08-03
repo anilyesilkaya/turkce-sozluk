@@ -2,6 +2,7 @@
 layout: term
 title: kireçlik
 slug: kireclik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kireç konulan yer

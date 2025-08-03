@@ -2,6 +2,7 @@
 layout: term
 title: çifte
 slug: cifte
+letter: Ç
 lisan: Farsça cufte
 anlamlar:
 - İkisi bir arada bulunan veya ikili

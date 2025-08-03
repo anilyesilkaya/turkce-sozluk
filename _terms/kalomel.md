@@ -2,6 +2,7 @@
 layout: term
 title: kalomel
 slug: kalomel
+letter: K
 lisan: Fransızca calomel
 anlamlar:
 - ► tatlı sülümen

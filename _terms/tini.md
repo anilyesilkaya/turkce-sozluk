@@ -2,6 +2,7 @@
 layout: term
 title: tını
 slug: tini
+letter: T
 lisan: Türkçe
 anlamlar:
 - Türlü müzik araçlarının verdiği sesleri birbirinden ayırt etmeyi sağlayan ses özelliği

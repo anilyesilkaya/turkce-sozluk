@@ -2,6 +2,7 @@
 layout: term
 title: görüntü
 slug: goruntu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Görünen şey

@@ -2,6 +2,7 @@
 layout: term
 title: çomar
 slug: comar
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çoban köpeği

@@ -2,6 +2,7 @@
 layout: term
 title: düğümcük
 slug: dugumcuk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Ufak düğüm

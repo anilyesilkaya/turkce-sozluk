@@ -2,6 +2,7 @@
 layout: term
 title: reddetmek
 slug: reddetmek
+letter: R
 lisan: Arapça redd + Türkçe etmek
 anlamlar:
 - Verilen veya yapılması istenen bir şeyi kabul etmemek, geri çevirmek; reddeylemek

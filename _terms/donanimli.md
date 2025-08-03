@@ -2,6 +2,7 @@
 layout: term
 title: donanımlı
 slug: donanimli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Belli bir donanıma sahip olan (araç vb.)

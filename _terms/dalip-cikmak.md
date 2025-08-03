@@ -2,6 +2,7 @@
 layout: term
 title: dalıp çıkmak
 slug: dalip-cikmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - deniz, göl vb. yerlerde suyun içinde kaybolup yeniden görünmek

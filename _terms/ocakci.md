@@ -2,6 +2,7 @@
 layout: term
 title: ocakçı
 slug: ocakci
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► ateşçi

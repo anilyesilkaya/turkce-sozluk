@@ -2,6 +2,7 @@
 layout: term
 title: biçem bilimi
 slug: bicem-bilimi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Dilde söz dizimiyle deyiş, anlatım, üslup arasındaki ilişkileri inceleyen bilim dalı

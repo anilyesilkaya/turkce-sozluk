@@ -2,6 +2,7 @@
 layout: term
 title: ter dökmek
 slug: ter-dokmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - çok terlemek

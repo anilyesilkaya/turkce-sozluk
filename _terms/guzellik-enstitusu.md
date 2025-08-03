@@ -2,6 +2,7 @@
 layout: term
 title: güzellik enstitüsü
 slug: guzellik-enstitusu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Kadınların yüz ve vücut bakımlarının yapıldığı yer

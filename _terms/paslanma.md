@@ -2,6 +2,7 @@
 layout: term
 title: paslanma
 slug: paslanma
+letter: P
 lisan: Türkçe
 anlamlar:
 - Paslanmak işi; oksidasyon

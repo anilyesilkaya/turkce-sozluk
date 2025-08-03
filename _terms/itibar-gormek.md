@@ -2,6 +2,7 @@
 layout: term
 title: itibar görmek
 slug: itibar-gormek
+letter: I
 lisan: Türkçe
 anlamlar:
 - sayılmak, kendisine değer verilmek

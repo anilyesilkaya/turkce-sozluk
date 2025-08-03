@@ -2,6 +2,7 @@
 layout: term
 title: leş
 slug: les
+letter: L
 lisan: Farsça lāşe
 anlamlar:
 - Kokmuş hayvan ölüsü; laşe

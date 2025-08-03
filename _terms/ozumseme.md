@@ -2,6 +2,7 @@
 layout: term
 title: özümseme
 slug: ozumseme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Özümsemek işi; içselleştirme, özümleme

@@ -2,6 +2,7 @@
 layout: term
 title: zeytin yeşili
 slug: zeytin-yesili
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Mavi ve açık yeşilin karışımından ortaya çıkan renk

@@ -2,6 +2,7 @@
 layout: term
 title: bop
 slug: bop
+letter: B
 lisan: Sırpça
 anlamlar:
 - Poker oyununda, oyuna girmek için ortaya konması gereken en az miktar

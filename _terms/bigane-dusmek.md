@@ -2,6 +2,7 @@
 layout: term
 title: bigâne düşmek
 slug: bigane-dusmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - yabancılaşmak

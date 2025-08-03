@@ -2,6 +2,7 @@
 layout: term
 title: karı kız milleti
 slug: kari-kiz-milleti
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kadın milleti

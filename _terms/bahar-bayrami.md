@@ -2,6 +2,7 @@
 layout: term
 title: bahar bayramı
 slug: bahar-bayrami
+letter: B
 lisan: Türkçe
 anlamlar:
 - Genellikle mayıs ayının ilk günlerinde kutlanan bayram

@@ -2,6 +2,7 @@
 layout: term
 title: ganyan
 slug: ganyan
+letter: G
 lisan: Fransızca gagnant
 anlamlar:
 - At yarışlarında birinciliği kazanan (at)

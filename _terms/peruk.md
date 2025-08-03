@@ -2,6 +2,7 @@
 layout: term
 title: peruk
 slug: peruk
+letter: P
 lisan: Fransızca perruque
 anlamlar:
 - ► takma saç

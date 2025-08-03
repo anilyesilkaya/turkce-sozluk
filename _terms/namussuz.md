@@ -2,6 +2,7 @@
 layout: term
 title: namussuz
 slug: namussuz
+letter: N
 lisan: Türkçe
 anlamlar:
 - Ahlak kurallarına uygun davranmayan, ahlak kurallarını çiğneyen; kaltaban

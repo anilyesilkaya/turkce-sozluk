@@ -2,6 +2,7 @@
 layout: term
 title: buluş
 slug: bulus
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bulmak işi

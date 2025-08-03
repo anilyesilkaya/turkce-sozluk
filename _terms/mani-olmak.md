@@ -2,6 +2,7 @@
 layout: term
 title: mâni olmak
 slug: mani-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - önüne geçmek, engellemek, önlemek

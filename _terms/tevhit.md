@@ -2,6 +2,7 @@
 layout: term
 title: tevhit
 slug: tevhit
+letter: T
 lisan: Arapça tevḥīd
 anlamlar:
 - Allah'ın birliğine inanma, bir sayma, bir olarak bakma

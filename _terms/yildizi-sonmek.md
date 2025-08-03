@@ -2,6 +2,7 @@
 layout: term
 title: yıldızı sönmek
 slug: yildizi-sonmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ününü yitirmek

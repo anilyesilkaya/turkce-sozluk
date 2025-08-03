@@ -2,6 +2,7 @@
 layout: term
 title: kom
 slug: kom
+letter: K
 lisan: Türkçe
 anlamlar:
 - Ağıl, davar ağılı

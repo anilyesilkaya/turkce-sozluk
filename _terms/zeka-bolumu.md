@@ -2,6 +2,7 @@
 layout: term
 title: zekâ bölümü
 slug: zeka-bolumu
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Bir kimsenin zihin gücünün hangi düzeyde bulunduğunu gösteren değer

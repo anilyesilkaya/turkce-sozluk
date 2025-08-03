@@ -2,6 +2,7 @@
 layout: term
 title: istenç dışı
 slug: istenc-disi
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► irade dışı

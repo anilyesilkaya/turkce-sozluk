@@ -2,6 +2,7 @@
 layout: term
 title: dava (veya davayı) kaybetmek
 slug: dava-veya-davayi-kaybetmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - açılan davada haksız veya suçlu bulunmak

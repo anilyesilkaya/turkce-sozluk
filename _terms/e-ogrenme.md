@@ -2,6 +2,7 @@
 layout: term
 title: e-öğrenme
 slug: e-ogrenme
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► çevrim içi öğrenme

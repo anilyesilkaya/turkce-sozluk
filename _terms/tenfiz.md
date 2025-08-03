@@ -2,6 +2,7 @@
 layout: term
 title: tenfiz
 slug: tenfiz
+letter: T
 lisan: Arapça tenfįẕ
 anlamlar:
 - Hükmünü yürütme

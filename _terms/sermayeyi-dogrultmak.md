@@ -2,6 +2,7 @@
 layout: term
 title: sermayeyi doğrultmak
 slug: sermayeyi-dogrultmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - ticaret için ortaya konan anaparayı batırmadan işletmek ve para kazanmak

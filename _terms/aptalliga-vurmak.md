@@ -2,6 +2,7 @@
 layout: term
 title: aptallığa vurmak
 slug: aptalliga-vurmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir şeyi bilmez, anlamaz gibi görünmek

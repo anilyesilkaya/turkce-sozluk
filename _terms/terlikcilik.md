@@ -2,6 +2,7 @@
 layout: term
 title: terlikçilik
 slug: terlikcilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Terlik yapma veya satma işi

@@ -2,6 +2,7 @@
 layout: term
 title: lavabosuz
 slug: lavabosuz
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lavabosu olmayan

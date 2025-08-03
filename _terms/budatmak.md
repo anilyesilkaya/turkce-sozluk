@@ -2,6 +2,7 @@
 layout: term
 title: budatmak
 slug: budatmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Budama işini yaptırmak

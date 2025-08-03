@@ -2,6 +2,7 @@
 layout: term
 title: müziksel
 slug: muziksel
+letter: M
 lisan: Türkçe
 anlamlar:
 - Müzik özellikleri taşıyan

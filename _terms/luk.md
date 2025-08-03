@@ -2,6 +2,7 @@
 layout: term
 title: lük
 slug: luk
+letter: L
 lisan: Farsça luk
 anlamlar:
 - Boyacılıkta kullanılan Hint zamkı

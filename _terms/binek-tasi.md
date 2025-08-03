@@ -2,6 +2,7 @@
 layout: term
 title: binek taşı
 slug: binek-tasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - At veya arabaya binmek için üstüne çıkılan yüksekçe taş

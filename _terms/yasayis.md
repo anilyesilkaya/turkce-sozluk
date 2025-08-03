@@ -2,6 +2,7 @@
 layout: term
 title: yaşayış
 slug: yasayis
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaşamak işi

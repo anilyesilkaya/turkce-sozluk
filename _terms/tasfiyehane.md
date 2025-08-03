@@ -2,6 +2,7 @@
 layout: term
 title: tasfiyehane
 slug: tasfiyehane
+letter: T
 lisan: Arapça taṣfiye + Farsça ḫāne
 anlamlar:
 - ► arıtımevi

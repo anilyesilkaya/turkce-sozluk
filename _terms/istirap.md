@@ -2,6 +2,7 @@
 layout: term
 title: ıstırap
 slug: istirap
+letter: I
 lisan: Arapça iżṭirāb
 anlamlar:
 - 343 ızdırap

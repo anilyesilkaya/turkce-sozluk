@@ -2,6 +2,7 @@
 layout: term
 title: tuğamirallik
 slug: tugamirallik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tuğamiral olma durumu

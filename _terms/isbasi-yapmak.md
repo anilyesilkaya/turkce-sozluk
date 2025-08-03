@@ -2,6 +2,7 @@
 layout: term
 title: işbaşı yapmak
 slug: isbasi-yapmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - iş yerinde işe başlamak

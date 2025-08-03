@@ -2,6 +2,7 @@
 layout: term
 title: etenelenme
 slug: etenelenme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Oğulcuk veya eklentileriyle ana arasında kimyasal değiş tokuşu sağlamak amacıyla ilgi kurma

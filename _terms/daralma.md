@@ -2,6 +2,7 @@
 layout: term
 title: daralma
 slug: daralma
+letter: D
 lisan: Türkçe
 anlamlar:
 - Daralmak işi; darlaşma

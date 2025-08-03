@@ -2,6 +2,7 @@
 layout: term
 title: ün almak (veya kazanmak veya salmak veya yapmak)
 slug: un-almak-veya-kazanmak-veya-salmak-veya-yapmak
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - ünü herkesçe bilinmek ve her yerden duyulmak

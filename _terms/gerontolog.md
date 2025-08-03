@@ -2,6 +2,7 @@
 layout: term
 title: gerontolog
 slug: gerontolog
+letter: G
 lisan: Fransızca gerontologue
 anlamlar:
 - Yaşlılık bilimi uzmanı

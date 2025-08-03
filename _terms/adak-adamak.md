@@ -2,6 +2,7 @@
 layout: term
 title: adak adamak
 slug: adak-adamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir dileğin gerçekleşmesi amacıyla kurban kesip yoksullara dağıtmak veya kutsal olduğuna inanılan bir güce niyette bulunmak

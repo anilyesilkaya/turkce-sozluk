@@ -2,6 +2,7 @@
 layout: term
 title: yurt dışı
 slug: yurt-disi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yurt sınırları dışında olan

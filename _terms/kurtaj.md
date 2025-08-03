@@ -2,6 +2,7 @@
 layout: term
 title: kürtaj
 slug: kurtaj
+letter: K
 lisan: Fransızca curetage
 anlamlar:
 - Vücutta boşluklar içinde bulunan yabancı cisimleri, hasta veya zararlı sayılan dokuları kazıyarak alma; kazıma, küretaj

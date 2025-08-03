@@ -2,6 +2,7 @@
 layout: term
 title: ciddiyetsizlik
 slug: ciddiyetsizlik
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► laubalilik

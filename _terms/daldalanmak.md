@@ -2,6 +2,7 @@
 layout: term
 title: daldalanmak
 slug: daldalanmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Gölgeli yere saklanmak

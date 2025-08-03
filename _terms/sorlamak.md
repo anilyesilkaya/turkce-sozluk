@@ -2,6 +2,7 @@
 layout: term
 title: şorlamak
 slug: sorlamak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Su vb. "şor" diye ses çıkararak akmak

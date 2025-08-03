@@ -2,6 +2,7 @@
 layout: term
 title: umreci
 slug: umreci
+letter: U
 lisan: Türkçe
 anlamlar:
 - Hac dönemi dışında Kâbe’yi ve Mekke’nin diğer kutsal yerlerini ziyaret eden kimse

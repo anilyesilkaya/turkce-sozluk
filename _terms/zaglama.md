@@ -2,6 +2,7 @@
 layout: term
 title: zağlama
 slug: zaglama
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► kılağılama

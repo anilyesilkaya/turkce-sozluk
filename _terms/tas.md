@@ -2,6 +2,7 @@
 layout: term
 title: taş
 slug: tas
+letter: T
 lisan: Türkçe
 anlamlar:
 - Kimyasal veya fiziksel durumu değişiklikler gösteren, rengini içindeki maden, tuz ve oksitlerden alan sert ve katı madde

@@ -2,6 +2,7 @@
 layout: term
 title: aldatmak
 slug: aldatmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Beklenmedik bir davranışla yanıltmak

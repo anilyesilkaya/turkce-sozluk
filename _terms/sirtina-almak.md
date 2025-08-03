@@ -2,6 +2,7 @@
 layout: term
 title: sırtına almak
 slug: sirtina-almak
+letter: S
 lisan: Türkçe
 anlamlar:
 - yüklenmek

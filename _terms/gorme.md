@@ -2,6 +2,7 @@
 layout: term
 title: görme!
 slug: gorme
+letter: G
 lisan: Türkçe
 anlamlar:
 - aşırılık anlatan bir söz

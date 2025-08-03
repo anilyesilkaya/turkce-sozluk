@@ -2,6 +2,7 @@
 layout: term
 title: peştamallı
 slug: pestamalli
+letter: P
 lisan: Türkçe
 anlamlar:
 - Peştamalı olan

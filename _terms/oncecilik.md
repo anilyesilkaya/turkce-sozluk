@@ -2,6 +2,7 @@
 layout: term
 title: öncecilik
 slug: oncecilik
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Bir şeyi başkalarından önce yapma işi; inisiyatif

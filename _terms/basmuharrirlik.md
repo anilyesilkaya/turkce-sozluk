@@ -2,6 +2,7 @@
 layout: term
 title: başmuharrirlik
 slug: basmuharrirlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► başyazarlık

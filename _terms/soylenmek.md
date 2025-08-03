@@ -2,6 +2,7 @@
 layout: term
 title: söylenmek
 slug: soylenmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Söyleme işi yapılmak; söylenilmek

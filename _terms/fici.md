@@ -2,6 +2,7 @@
 layout: term
 title: fıçı
 slug: fici
+letter: F
 lisan: Rumca
 anlamlar:
 - Bir araya getirilerek çemberlerle tutturulmuş ensiz tahtalardan yapılan, yuvarlak, karnı şişkin ve altı üstü düz kap

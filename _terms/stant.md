@@ -2,6 +2,7 @@
 layout: term
 title: stant
 slug: stant
+letter: S
 lisan: İngilizce stand
 anlamlar:
 - ► sergilik

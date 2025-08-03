@@ -2,6 +2,7 @@
 layout: term
 title: yakayı (veya yakasını) kurtarmak (veya sıyırmak)
 slug: yakayi-veya-yakasini-kurtarmak-veya-siyirmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - bir işten kurtulmak

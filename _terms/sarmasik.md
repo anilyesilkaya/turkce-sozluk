@@ -2,6 +2,7 @@
 layout: term
 title: sarmaşık
 slug: sarmasik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sarmaşıkgillerden, koyu yeşil renkli, değişik biçimli yaprakları olan, sap ve dallarından çıkan küçük köklerle dik, düz yerlere yapışarak tırmanan bitki (Hedera helix)

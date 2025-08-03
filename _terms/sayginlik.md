@@ -2,6 +2,7 @@
 layout: term
 title: saygınlık
 slug: sayginlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Saygı görme, değerli, güvenilir olma durumu; haysiyet, itibar, izzetüikbal, prestij

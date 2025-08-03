@@ -2,6 +2,7 @@
 layout: term
 title: gözünde büyümek
 slug: gozunde-buyumek
+letter: G
 lisan: Türkçe
 anlamlar:
 - bir şey bir kimseye olduğundan güç veya önemli görünmek

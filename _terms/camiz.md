@@ -2,6 +2,7 @@
 layout: term
 title: camız
 slug: camiz
+letter: C
 lisan: Arapça cāmūs
 anlamlar:
 - ► manda (I)

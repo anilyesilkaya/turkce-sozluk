@@ -2,6 +2,7 @@
 layout: term
 title: aşikâre
 slug: asikare
+letter: A
 lisan: Farsça āşikāre
 anlamlar:
 - ► açıkça

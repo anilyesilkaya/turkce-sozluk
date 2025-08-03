@@ -2,6 +2,7 @@
 layout: term
 title: çöğüncek
 slug: coguncek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Dayanma noktası ortada olan kaldıraç

@@ -2,6 +2,7 @@
 layout: term
 title: gündeliğe gitmek
 slug: gundelige-gitmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - günlük işler yaparak gelir sağlamak

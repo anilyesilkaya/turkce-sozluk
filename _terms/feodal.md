@@ -2,6 +2,7 @@
 layout: term
 title: feodal
 slug: feodal
+letter: F
 lisan: Fransızca féodal
 anlamlar:
 - Derebeylikle ilgili

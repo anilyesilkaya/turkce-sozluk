@@ -2,6 +2,7 @@
 layout: term
 title: rölöve
 slug: rolove
+letter: R
 lisan: Fransızca relevé
 anlamlar:
 - Eski bir sanat eserinin, bir yapının çizilerek veya boyanarak hazırlanan kopyası

@@ -2,6 +2,7 @@
 layout: term
 title: kasketsiz
 slug: kasketsiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kasketi olmayan

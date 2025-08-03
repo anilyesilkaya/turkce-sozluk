@@ -2,6 +2,7 @@
 layout: term
 title: pislemek
 slug: pislemek
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► kirletmek

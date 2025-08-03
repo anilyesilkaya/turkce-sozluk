@@ -2,6 +2,7 @@
 layout: term
 title: vanklamak
 slug: vanklamak
+letter: V
 lisan: Türkçe
 anlamlar:
 - Horultulu yüksek ses çıkarmak

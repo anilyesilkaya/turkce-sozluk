@@ -2,6 +2,7 @@
 layout: term
 title: karlama
 slug: karlama
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karlamak işi

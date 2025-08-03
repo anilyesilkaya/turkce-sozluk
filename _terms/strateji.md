@@ -2,6 +2,7 @@
 layout: term
 title: strateji
 slug: strateji
+letter: S
 lisan: Fransızca stratégie
 anlamlar:
 - ► izlem

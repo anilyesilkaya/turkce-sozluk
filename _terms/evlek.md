@@ -2,6 +2,7 @@
 layout: term
 title: evlek
 slug: evlek
+letter: E
 lisan: Rumca
 anlamlar:
 - Tarlanın, tohum ekmek için saban iziyle bölünen bölümlerinden her biri

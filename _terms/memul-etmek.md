@@ -2,6 +2,7 @@
 layout: term
 title: memul etmek
 slug: memul-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - beklemek, ummak

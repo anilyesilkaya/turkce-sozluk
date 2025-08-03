@@ -2,6 +2,7 @@
 layout: term
 title: sürebilmek
 slug: surebilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sürme ihtimali veya imkânı bulunmak

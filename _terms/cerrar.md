@@ -2,6 +2,7 @@
 layout: term
 title: cerrar
 slug: cerrar
+letter: C
 lisan: Arapça cerrār
 anlamlar:
 - Çekici, sürükleyici olan

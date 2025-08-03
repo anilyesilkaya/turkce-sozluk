@@ -2,6 +2,7 @@
 layout: term
 title: icra etmek
 slug: icra-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - yapmak

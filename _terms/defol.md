@@ -2,6 +2,7 @@
 layout: term
 title: defol!
 slug: defol
+letter: D
 lisan: Türkçe
 anlamlar:
 - '"savuş git, uzaklaş" anlamında kullanılan bir söz'

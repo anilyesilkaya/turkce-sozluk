@@ -2,6 +2,7 @@
 layout: term
 title: haddikifaye
 slug: haddikifaye
+letter: H
 lisan: Arapça ḥadd + kifāye
 anlamlar:
 - Yeterli olma

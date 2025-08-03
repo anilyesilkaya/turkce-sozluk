@@ -2,6 +2,7 @@
 layout: term
 title: zamparalık
 slug: zamparalik
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zampara olma durumu; zendostluk

@@ -2,6 +2,7 @@
 layout: term
 title: elinden
 slug: elinden
+letter: E
 lisan: Türkçe
 anlamlar:
 - yüzünden, -den dolayı

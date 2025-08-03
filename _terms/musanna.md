@@ -2,6 +2,7 @@
 layout: term
 title: musanna
 slug: musanna
+letter: M
 lisan: Arapça muṣannaʿ
 anlamlar:
 - ► sanatlı

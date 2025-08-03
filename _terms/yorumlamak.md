@@ -2,6 +2,7 @@
 layout: term
 title: yorumlamak
 slug: yorumlamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir yazıyı veya bir sözü yorum yaparak açıklamak; tefsir etmek

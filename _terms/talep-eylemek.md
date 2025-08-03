@@ -2,6 +2,7 @@
 layout: term
 title: talep eylemek
 slug: talep-eylemek
+letter: T
 lisan: Türkçe
 anlamlar:
 - istemek

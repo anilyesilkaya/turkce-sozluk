@@ -2,6 +2,7 @@
 layout: term
 title: aheste aheste
 slug: aheste-aheste
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► yavaş yavaş

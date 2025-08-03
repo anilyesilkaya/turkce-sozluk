@@ -2,6 +2,7 @@
 layout: term
 title: düşürmek
 slug: dusurmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düşmesine yol açmak, düşmesine sebep olmak

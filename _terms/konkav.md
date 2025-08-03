@@ -2,6 +2,7 @@
 layout: term
 title: konkav
 slug: konkav
+letter: K
 lisan: Fransızca concave
 anlamlar:
 - ► içbükey

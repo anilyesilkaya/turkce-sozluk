@@ -2,6 +2,7 @@
 layout: term
 title: teneşir paklamak
 slug: tenesir-paklamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - yaşarken kirli işlere bulaşan kimseler için tek çıkar yol ölüm olmak

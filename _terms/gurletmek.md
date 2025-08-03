@@ -2,6 +2,7 @@
 layout: term
 title: gürletmek
 slug: gurletmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gürlemesine sebep olmak

@@ -2,6 +2,7 @@
 layout: term
 title: fal taşı gibi
 slug: fal-tasi-gibi
+letter: F
 lisan: Türkçe
 anlamlar:
 - iri, büyük

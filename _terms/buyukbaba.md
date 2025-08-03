@@ -2,6 +2,7 @@
 layout: term
 title: büyükbaba
 slug: buyukbaba
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► dede

@@ -2,6 +2,7 @@
 layout: term
 title: kâğıt
 slug: kagit
+letter: K
 lisan: Farsça kāġaẕ
 anlamlar:
 - Hamur durumuna getirilmiş türlü bitkisel maddelerden yapılan, yazı yazmaya, baskı yapmaya, bir şey sarmaya yarayan kuru, ince yaprak

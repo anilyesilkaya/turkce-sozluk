@@ -2,6 +2,7 @@
 layout: term
 title: 'meçhul çatı '
 slug: mechul-cati
+letter: M
 lisan: Türkçe
 anlamlar:
 - 'Geçişsiz fiillere -l- veya -n- eki getirilerek kurulan, kim tarafından yapıldığı söylenmeyen fiil çatısı: Gürültüden durulmuyor. Bu söze gülünür'

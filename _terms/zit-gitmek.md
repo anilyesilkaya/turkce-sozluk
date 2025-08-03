@@ -2,6 +2,7 @@
 layout: term
 title: zıt gitmek
 slug: zit-gitmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - birine karşı sürekli ters davranmak, istediklerinin tersini yapmak

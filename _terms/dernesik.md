@@ -2,6 +2,7 @@
 layout: term
 title: derneşik
 slug: dernesik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Derli toplu, düzenli olan

@@ -2,6 +2,7 @@
 layout: term
 title: heyecana düşürmek
 slug: heyecana-dusurmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - heyecanlandırmak

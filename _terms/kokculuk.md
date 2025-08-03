@@ -2,6 +2,7 @@
 layout: term
 title: kökçülük
 slug: kokculuk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kökçünün yaptığı iş

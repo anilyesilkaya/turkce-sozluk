@@ -2,6 +2,7 @@
 layout: term
 title: duygan
 slug: duygan
+letter: D
 lisan: Türkçe
 anlamlar:
 - Aşırı duygulu

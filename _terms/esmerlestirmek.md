@@ -2,6 +2,7 @@
 layout: term
 title: esmerleştirmek
 slug: esmerlestirmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Esmer duruma getirmek

@@ -2,6 +2,7 @@
 layout: term
 title: heveslendirme
 slug: heveslendirme
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► isteklendirme

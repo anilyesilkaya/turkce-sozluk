@@ -2,6 +2,7 @@
 layout: term
 title: ense yapmak
 slug: ense-yapmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - hiçbir iş yapmadan yan gelip yatmak

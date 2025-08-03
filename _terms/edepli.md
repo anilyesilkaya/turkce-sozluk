@@ -2,6 +2,7 @@
 layout: term
 title: edepli
 slug: edepli
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► uslu

@@ -2,6 +2,7 @@
 layout: term
 title: kızmemesi
 slug: kizmemesi
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► greyfurt

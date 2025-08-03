@@ -2,6 +2,7 @@
 layout: term
 title: sınamak
 slug: sinamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Değerini anlamak, gerekli niteliği taşıyıp taşımadığını bulmak için birini, bir nesneyi veya bir düşünceyi yoklamak; denemek, tecrübe etmek

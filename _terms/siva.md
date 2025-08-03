@@ -2,6 +2,7 @@
 layout: term
 title: sıva
 slug: siva
+letter: S
 lisan: Türkçe
 anlamlar:
 - Herhangi bir yapıdaki yüzeyleri düzgünleştirmek için kullanılan, yarı akışkan, kum, kireç, çimento karışımı veya çamur harç

@@ -2,6 +2,7 @@
 layout: term
 title: mandıracı
 slug: mandiraci
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mandıra işleten kimse

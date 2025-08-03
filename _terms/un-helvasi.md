@@ -2,6 +2,7 @@
 layout: term
 title: un helvası
 slug: un-helvasi
+letter: U
 lisan: Türkçe
 anlamlar:
 - Unun yağ içinde kavrulmasından sonra içine şeker şerbeti katılarak hazırlanan bir helva türü

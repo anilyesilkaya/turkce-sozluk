@@ -2,6 +2,7 @@
 layout: term
 title: sığır mantarı
 slug: sigir-mantari
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sığır türünde görülen bir tür mantar

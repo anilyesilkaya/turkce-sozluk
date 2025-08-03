@@ -2,6 +2,7 @@
 layout: term
 title: tüplemek
 slug: tuplemek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tüpe doldurmak

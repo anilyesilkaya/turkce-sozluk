@@ -2,6 +2,7 @@
 layout: term
 title: ar
 slug: ar
+letter: A
 lisan: Arapça ʿār
 anlamlar:
 - ► utanma duygusu

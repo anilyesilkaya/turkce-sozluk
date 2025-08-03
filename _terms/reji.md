@@ -2,6 +2,7 @@
 layout: term
 title: reji
 slug: reji
+letter: R
 lisan: Fransızca régie
 anlamlar:
 - Sinema, tiyatro, radyo ve televizyon oyunlarında oyunu yönetme

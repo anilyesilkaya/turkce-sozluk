@@ -2,6 +2,7 @@
 layout: term
 title: baklagiller
 slug: baklagiller
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bakla, fasulye, akasya, keçiboynuzu vb. badıçlı pek çok sebze ve ağacı içine alan, iki çenekli ayrı taç yapraklılardan büyük bir bitki familyası

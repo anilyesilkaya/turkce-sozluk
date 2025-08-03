@@ -2,6 +2,7 @@
 layout: term
 title: işin rengi değişmek
 slug: isin-rengi-degismek
+letter: I
 lisan: Türkçe
 anlamlar:
 - konu başka biçimde gelişmek

@@ -2,6 +2,7 @@
 layout: term
 title: pervasız
 slug: pervasiz
+letter: P
 lisan: Türkçe
 anlamlar:
 - Çekinmez, sakınmaz, korkusuz (kimse); biperva

@@ -2,6 +2,7 @@
 layout: term
 title: süt dökmüş kediye dönmek
 slug: sut-dokmus-kediye-donmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - suçunu bilerek bundan utanmak

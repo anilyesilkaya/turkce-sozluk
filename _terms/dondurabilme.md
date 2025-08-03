@@ -2,6 +2,7 @@
 layout: term
 title: dondurabilme
 slug: dondurabilme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dondurabilmek işi

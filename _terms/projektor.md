@@ -2,6 +2,7 @@
 layout: term
 title: projektör
 slug: projektor
+letter: P
 lisan: Fransızca projecteur
 anlamlar:
 - ► ışıldak

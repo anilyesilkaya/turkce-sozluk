@@ -2,6 +2,7 @@
 layout: term
 title: cife
 slug: cife
+letter: C
 lisan: Arapça cīfe
 anlamlar:
 - ► leş

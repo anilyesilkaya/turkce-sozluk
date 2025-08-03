@@ -2,6 +2,7 @@
 layout: term
 title: defolma
 slug: defolma
+letter: D
 lisan: Türkçe
 anlamlar:
 - Defolmak işi

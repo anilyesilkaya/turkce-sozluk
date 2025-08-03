@@ -2,6 +2,7 @@
 layout: term
 title: lakırtı etmek
 slug: lakirti-etmek
+letter: L
 lisan: Türkçe
 anlamlar:
 - konuşmak

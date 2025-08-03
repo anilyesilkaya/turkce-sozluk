@@ -2,6 +2,7 @@
 layout: term
 title: gürültücülük
 slug: gurultuculuk
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gürültücü olma durumu; velvelecilik, kavaracılık

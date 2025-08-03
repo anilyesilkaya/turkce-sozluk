@@ -2,6 +2,7 @@
 layout: term
 title: bulaşkan
 slug: bulaskan
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bulaştığı yerden kolay temizlenemeyen

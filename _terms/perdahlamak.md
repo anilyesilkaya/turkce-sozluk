@@ -2,6 +2,7 @@
 layout: term
 title: perdahlamak
 slug: perdahlamak
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► aprelemek

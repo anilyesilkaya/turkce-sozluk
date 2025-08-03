@@ -2,6 +2,7 @@
 layout: term
 title: poliklinik
 slug: poliklinik
+letter: P
 lisan: Fransızca polyclinique
 anlamlar:
 - Hastalıkların ön tanılarının ve hastaların ayakta tedavilerinin yapıldığı özel klinik

@@ -2,6 +2,7 @@
 layout: term
 title: alışkın olmak
 slug: aliskin-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - iyice alışmış olmak, yabancılık çekmemek

@@ -2,6 +2,7 @@
 layout: term
 title: bağlık bahçelik
 slug: baglik-bahcelik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağı, bahçesi çok olan

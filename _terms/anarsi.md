@@ -2,6 +2,7 @@
 layout: term
 title: anarşi
 slug: anarsi
+letter: A
 lisan: Fransızca anarchie
 anlamlar:
 - ► kargaşa

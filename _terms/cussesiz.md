@@ -2,6 +2,7 @@
 layout: term
 title: cüssesiz
 slug: cussesiz
+letter: C
 lisan: Türkçe
 anlamlar:
 - İnce yapılı, ufak tefek, güçsüz olan

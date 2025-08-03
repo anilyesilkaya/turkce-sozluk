@@ -2,6 +2,7 @@
 layout: term
 title: çöküvermek
 slug: cokuvermek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Ansızın çökmek

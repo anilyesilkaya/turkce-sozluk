@@ -2,6 +2,7 @@
 layout: term
 title: çekiç
 slug: cekic
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çivi çakma, madenleri dövme vb. işlerde kullanılan saplı bir el aleti

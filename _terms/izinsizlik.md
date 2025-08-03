@@ -2,6 +2,7 @@
 layout: term
 title: izinsizlik
 slug: izinsizlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İzinsiz olma durumu

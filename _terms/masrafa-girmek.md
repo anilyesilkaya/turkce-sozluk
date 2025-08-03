@@ -2,6 +2,7 @@
 layout: term
 title: masrafa girmek
 slug: masrafa-girmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - bir iş veya yapım için çok para harcamak

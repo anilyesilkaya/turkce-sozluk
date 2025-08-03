@@ -2,6 +2,7 @@
 layout: term
 title: tavcılık
 slug: tavcilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tavcı olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: rehbersizlik
 slug: rehbersizlik
+letter: R
 lisan: Türkçe
 anlamlar:
 - Rehbersiz olma durumu

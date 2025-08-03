@@ -2,6 +2,7 @@
 layout: term
 title: örülüş
 slug: orulus
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Örülmek işi

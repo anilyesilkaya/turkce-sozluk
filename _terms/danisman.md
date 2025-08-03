@@ -2,6 +2,7 @@
 layout: term
 title: danışman
 slug: danisman
+letter: D
 lisan: Türkçe
 anlamlar:
 - Kurum ve kuruluşlarda danışmanlık yapmak üzere görevlendirilen, alanında uzman kimse; müşavir

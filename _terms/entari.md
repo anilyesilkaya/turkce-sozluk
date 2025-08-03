@@ -2,6 +2,7 @@
 layout: term
 title: entari
 slug: entari
+letter: E
 lisan: Arapça ʿanterī
 anlamlar:
 - Genellikle tek parçalı kadın giyeceği

@@ -2,6 +2,7 @@
 layout: term
 title: etamin
 slug: etamin
+letter: E
 lisan: Fransızca étamine
 anlamlar:
 - Pamuk, keten veya ipekten, seyrek dokunmuş delikli bir kumaş türü

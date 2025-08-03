@@ -2,6 +2,7 @@
 layout: term
 title: fino
 slug: fino
+letter: F
 lisan: İtalyanca fino
 anlamlar:
 - Küçük boylu, çok tüylü, yuvarlak başlı, kısa burunlu bir ev köpeği türü

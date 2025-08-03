@@ -2,6 +2,7 @@
 layout: term
 title: promosyon
 slug: promosyon
+letter: P
 lisan: Fransızca promotion
 anlamlar:
 - ► özendirme

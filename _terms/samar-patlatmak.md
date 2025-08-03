@@ -2,6 +2,7 @@
 layout: term
 title: şamar patlatmak
 slug: samar-patlatmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - aniden güçlü bir tokat atmak

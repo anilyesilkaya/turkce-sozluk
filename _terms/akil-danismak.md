@@ -2,6 +2,7 @@
 layout: term
 title: akıl danışmak
 slug: akil-danismak
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir konuda birinin görüşünü sormak

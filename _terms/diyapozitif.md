@@ -2,6 +2,7 @@
 layout: term
 title: diyapozitif
 slug: diyapozitif
+letter: D
 lisan: Fransızca diapositive
 anlamlar:
 - ► slayt

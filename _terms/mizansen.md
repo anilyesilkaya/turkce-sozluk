@@ -2,6 +2,7 @@
 layout: term
 title: mizansen
 slug: mizansen
+letter: M
 lisan: Fransızca mise en scène
 anlamlar:
 - ► düzentileme

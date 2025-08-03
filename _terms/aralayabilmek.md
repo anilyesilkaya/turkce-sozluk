@@ -2,6 +2,7 @@
 layout: term
 title: aralayabilmek
 slug: aralayabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aralama ihtimali veya imkânı bulunmak

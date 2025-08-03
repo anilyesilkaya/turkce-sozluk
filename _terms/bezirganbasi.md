@@ -2,6 +2,7 @@
 layout: term
 title: bezirgânbaşı
 slug: bezirganbasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir çocuk oyunu

@@ -2,6 +2,7 @@
 layout: term
 title: hacamat
 slug: hacamat
+letter: H
 lisan: Arapça ḥacāmet
 anlamlar:
 - Vücudun herhangi bir yerini hafifçe çizip üzerine boynuz, bardak veya şişe oturtarak kan alma

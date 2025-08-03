@@ -2,6 +2,7 @@
 layout: term
 title: alaca karanlık
 slug: alaca-karanlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Güneş doğmadan önceki veya battıktan hemen sonraki aydınlık; yarı karanlık, akşam karanlığı

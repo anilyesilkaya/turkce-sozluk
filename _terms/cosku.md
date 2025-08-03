@@ -2,6 +2,7 @@
 layout: term
 title: coşku
 slug: cosku
+letter: C
 lisan: Türkçe
 anlamlar:
 - Genellikle büyük bir istekle ortaya çıkan geçici hayranlık veya heyecan durumu

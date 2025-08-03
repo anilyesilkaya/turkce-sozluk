@@ -2,6 +2,7 @@
 layout: term
 title: sin
 slug: sin
+letter: S
 lisan: Arapça sinn
 anlamlar:
 - ► yaş (I)

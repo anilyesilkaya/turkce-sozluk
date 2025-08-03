@@ -2,6 +2,7 @@
 layout: term
 title: solgunlaşmak
 slug: solgunlasmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Solgun duruma gelmek

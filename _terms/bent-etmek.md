@@ -2,6 +2,7 @@
 layout: term
 title: bent etmek
 slug: bent-etmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - kendisine bağlamak

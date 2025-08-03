@@ -2,6 +2,7 @@
 layout: term
 title: ağız burun birbirine karışmak
 slug: agiz-burun-birbirine-karismak
+letter: A
 lisan: Türkçe
 anlamlar:
 - dayak sonucunda yüz yara bere içinde kalmak

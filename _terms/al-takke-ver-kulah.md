@@ -2,6 +2,7 @@
 layout: term
 title: al takke ver külah
 slug: al-takke-ver-kulah
+letter: A
 lisan: Türkçe
 anlamlar:
 - uzun bir çekişmeden sonra, çekişe çekişe

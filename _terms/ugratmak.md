@@ -2,6 +2,7 @@
 layout: term
 title: uğratmak
 slug: ugratmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uğrama işini yaptırmak, uğramasına sebep olmak; salmak

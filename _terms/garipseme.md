@@ -2,6 +2,7 @@
 layout: term
 title: garipseme
 slug: garipseme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Garipsemek işi

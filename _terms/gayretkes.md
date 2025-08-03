@@ -2,6 +2,7 @@
 layout: term
 title: gayretkeş
 slug: gayretkes
+letter: G
 lisan: Arapça ġayret + Farsça -keş
 anlamlar:
 - ► çalışkan

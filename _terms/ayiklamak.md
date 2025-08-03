@@ -2,6 +2,7 @@
 layout: term
 title: ayıklamak
 slug: ayiklamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir şeyin içinden, işe yaramayan, gereksiz veya istenmeyen taneleri ayırıp çıkarmak, temizlemek

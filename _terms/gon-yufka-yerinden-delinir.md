@@ -2,6 +2,7 @@
 layout: term
 title: gön yufka yerinden delinir
 slug: gon-yufka-yerinden-delinir
+letter: G
 lisan: Türkçe
 anlamlar:
 - “her bir iş en zayıf noktasından, en güçsüz yerinden bozulur” anlamında kullanılan bir söz

@@ -2,6 +2,7 @@
 layout: term
 title: bıçak
 slug: bicak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kesme işlerinde kullanılan, bir sap ve çelik bölümden oluşan kesici araç

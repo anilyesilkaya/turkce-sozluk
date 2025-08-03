@@ -2,6 +2,7 @@
 layout: term
 title: sığınma cebi
 slug: siginma-cebi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kara yollarında araçların durmasına, beklemesine ayrılmış, yolun sağ tarafında yer alan bölüm, alan

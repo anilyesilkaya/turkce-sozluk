@@ -2,6 +2,7 @@
 layout: term
 title: kazaya bırakmak
 slug: kazaya-birakmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - namazı vaktinde kılmayarak daha sonra kılmak için ertelemek

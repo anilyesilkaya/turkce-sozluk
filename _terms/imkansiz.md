@@ -2,6 +2,7 @@
 layout: term
 title: imkânsız
 slug: imkansiz
+letter: I
 lisan: Türkçe
 anlamlar:
 - Olma ihtimali bulunmayan; gayrikabil, gayrimümkün

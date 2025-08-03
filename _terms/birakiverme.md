@@ -2,6 +2,7 @@
 layout: term
 title: bırakıverme
 slug: birakiverme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bırakıvermek işi

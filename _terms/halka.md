@@ -2,6 +2,7 @@
 layout: term
 title: halka
 slug: halka
+letter: H
 lisan: Arapça ḥalḳa
 anlamlar:
 - Çeşitli metallerden veya tahtadan yapılmış çember

@@ -2,6 +2,7 @@
 layout: term
 title: başyazar
 slug: basyazar
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir gazete veya derginin başyazılarını yazan kimse; başmuharrir, sermuharrir

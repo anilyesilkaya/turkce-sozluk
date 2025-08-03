@@ -2,6 +2,7 @@
 layout: term
 title: muzipliğine uğramak
 slug: muzipligine-ugramak
+letter: M
 lisan: Türkçe
 anlamlar:
 - aldatılmak, şakaya hedef olmak

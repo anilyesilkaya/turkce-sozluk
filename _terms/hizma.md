@@ -2,6 +2,7 @@
 layout: term
 title: hızma
 slug: hizma
+letter: H
 lisan: Türkçe
 anlamlar:
 - Ayı, boğa vb. hayvanların dudaklarına veya burnuna geçirilen demir halka

@@ -2,6 +2,7 @@
 layout: term
 title: buncadır
 slug: buncadir
+letter: B
 lisan: Türkçe
 anlamlar:
 - Epey zamandır, bir süreden beri

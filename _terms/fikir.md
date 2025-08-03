@@ -2,6 +2,7 @@
 layout: term
 title: fikir
 slug: fikir
+letter: F
 lisan: Arapça fikr
 anlamlar:
 - ► düşünce

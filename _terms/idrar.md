@@ -2,6 +2,7 @@
 layout: term
 title: idrar
 slug: idrar
+letter: I
 lisan: Arapça idrār
 anlamlar:
 - Böbreklerde kandan süzülerek idrar yolları aracılığıyla dışarıya atılan sıvı; sidik, küçük abdest, küçük

@@ -2,6 +2,7 @@
 layout: term
 title: zari zari
 slug: zari-zari
+letter: Z
 lisan: Farsça zārī + zārī
 anlamlar:
 - İnleyerek

@@ -2,6 +2,7 @@
 layout: term
 title: satvet
 slug: satvet
+letter: S
 lisan: Arapça saṭvet
 anlamlar:
 - Karşı konulmaz derecede zorlu, sindirici, boyun eğdirici güç

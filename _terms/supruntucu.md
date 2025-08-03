@@ -2,6 +2,7 @@
 layout: term
 title: süprüntücü
 slug: supruntucu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Herhangi bir yerin süprüntüsünü temizleyen kimse

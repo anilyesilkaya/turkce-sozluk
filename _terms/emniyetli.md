@@ -2,6 +2,7 @@
 layout: term
 title: emniyetli
 slug: emniyetli
+letter: E
 lisan: Türkçe
 anlamlar:
 - İnanılır, güvenilir olan

@@ -2,6 +2,7 @@
 layout: term
 title: ayağı karıncalı
 slug: ayagi-karincali
+letter: A
 lisan: Türkçe
 anlamlar:
 - İffetsiz bir biçimde yaşayan

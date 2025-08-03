@@ -2,6 +2,7 @@
 layout: term
 title: asimetrik
 slug: asimetrik
+letter: A
 lisan: Fransızca asymétrique
 anlamlar:
 - ► bakışımsız

@@ -2,6 +2,7 @@
 layout: term
 title: iddiasız
 slug: iddiasiz
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bir iddiası olmayan

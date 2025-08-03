@@ -2,6 +2,7 @@
 layout: term
 title: daha iyisi can sağlığı
 slug: daha-iyisi-can-sagligi
+letter: D
 lisan: Türkçe
 anlamlar:
 - '"bulunabileceklerin en iyisi oldu" anlamında kullanılan bir söz'

@@ -2,6 +2,7 @@
 layout: term
 title: örtüye sokmak (veya koymak)
 slug: ortuye-sokmak-veya-koymak
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - örtünmesini sağlamak

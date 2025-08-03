@@ -2,6 +2,7 @@
 layout: term
 title: yelpazeleme
 slug: yelpazeleme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yelpazelemek işi

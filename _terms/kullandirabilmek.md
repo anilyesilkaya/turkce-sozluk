@@ -2,6 +2,7 @@
 layout: term
 title: kullandırabilmek
 slug: kullandirabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kullanmasına izin vermek

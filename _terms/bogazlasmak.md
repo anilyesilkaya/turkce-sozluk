@@ -2,6 +2,7 @@
 layout: term
 title: boğazlaşmak
 slug: bogazlasmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Karşılıklı olarak birbirini boğazlamak

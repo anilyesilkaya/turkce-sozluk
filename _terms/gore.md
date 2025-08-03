@@ -2,6 +2,7 @@
 layout: term
 title: göre
 slug: gore
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bir şeye uygun olarak, bir şey uyarınca; gereğince

@@ -2,6 +2,7 @@
 layout: term
 title: kavlükarar etmek
 slug: kavlukarar-etmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - karar vermek

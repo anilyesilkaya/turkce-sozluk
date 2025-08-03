@@ -2,6 +2,7 @@
 layout: term
 title: mahdum
 slug: mahdum
+letter: M
 lisan: Arapça maḫdūm
 anlamlar:
 - ► oğul

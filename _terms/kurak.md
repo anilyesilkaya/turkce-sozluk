@@ -2,6 +2,7 @@
 layout: term
 title: kurak
 slug: kurak
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► yağışsız

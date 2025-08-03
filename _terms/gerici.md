@@ -2,6 +2,7 @@
 layout: term
 title: gerici
 slug: gerici
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bir organı germeye yarayan (kas)

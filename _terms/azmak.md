@@ -2,6 +2,7 @@
 layout: term
 title: azmak
 slug: azmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Taşkınlıkta ileri gitmek

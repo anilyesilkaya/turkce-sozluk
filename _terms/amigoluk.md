@@ -2,6 +2,7 @@
 layout: term
 title: amigoluk
 slug: amigoluk
+letter: A
 lisan: Türkçe
 anlamlar:
 - Amigonun yaptığı iş

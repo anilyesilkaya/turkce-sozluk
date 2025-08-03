@@ -2,6 +2,7 @@
 layout: term
 title: uzlet
 slug: uzlet
+letter: U
 lisan: Arapça ʿuzlet
 anlamlar:
 - Toplum yaşayışından kaçıp tek başına yaşama

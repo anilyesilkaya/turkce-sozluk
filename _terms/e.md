@@ -2,6 +2,7 @@
 layout: term
 title: e
 slug: e
+letter: E
 lisan: Türkçe
 anlamlar:
 - (e:) Başına getirildiği cümledeki kavrama göre çeşitli tonlar alarak birtakım duygular anlatan bir söz

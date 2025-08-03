@@ -2,6 +2,7 @@
 layout: term
 title: omuzluk
 slug: omuzluk
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► apolet

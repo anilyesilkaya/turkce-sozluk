@@ -2,6 +2,7 @@
 layout: term
 title: kazgıç
 slug: kazgic
+letter: K
 lisan: Türkçe
 anlamlar:
 - Tandırdan ekmeği çıkarmaya yarayan bir araç

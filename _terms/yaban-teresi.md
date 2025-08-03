@@ -2,6 +2,7 @@
 layout: term
 title: yaban teresi
 slug: yaban-teresi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► horozcuk otu

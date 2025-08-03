@@ -2,6 +2,7 @@
 layout: term
 title: nakşetmek
 slug: naksetmek
+letter: N
 lisan: Arapça naḳş + Türkçe etmek
 anlamlar:
 - Süslemek, bezemek, nakış yapmak

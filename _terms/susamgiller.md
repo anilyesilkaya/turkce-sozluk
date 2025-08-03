@@ -2,6 +2,7 @@
 layout: term
 title: susamgiller
 slug: susamgiller
+letter: S
 lisan: Türkçe
 anlamlar:
 - İki çeneklilerden, en önemli ve örnek bitkisi susam olan, küçük bir bitki familyası

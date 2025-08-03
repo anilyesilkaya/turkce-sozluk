@@ -2,6 +2,7 @@
 layout: term
 title: güvençli
 slug: guvencli
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güvenen, itimadı olan

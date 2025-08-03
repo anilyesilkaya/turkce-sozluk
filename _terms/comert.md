@@ -2,6 +2,7 @@
 layout: term
 title: cömert
 slug: comert
+letter: C
 lisan: Farsça cevān + merd
 anlamlar:
 - Para ve malını esirgemeden veren; açık elli, ahi (I), eli açık, selek, alicenap, kerem, kerim, semih, bonkör

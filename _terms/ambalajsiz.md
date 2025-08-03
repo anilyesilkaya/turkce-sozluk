@@ -2,6 +2,7 @@
 layout: term
 title: ambalajsız
 slug: ambalajsiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ambalajlanmamış

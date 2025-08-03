@@ -2,6 +2,7 @@
 layout: term
 title: kumluk
 slug: kumluk
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kumsal

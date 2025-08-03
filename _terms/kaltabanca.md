@@ -2,6 +2,7 @@
 layout: term
 title: kaltabanca
 slug: kaltabanca
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaltabana yakışır (davranış)

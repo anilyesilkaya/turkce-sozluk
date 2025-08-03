@@ -2,6 +2,7 @@
 layout: term
 title: karşıtçı
 slug: karsitci
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► aleyhtar

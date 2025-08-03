@@ -2,6 +2,7 @@
 layout: term
 title: kaybetmişlik
 slug: kaybetmislik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaybetmiş olma durumu

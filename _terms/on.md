@@ -2,6 +2,7 @@
 layout: term
 title: ön
 slug: 'on'
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Bir şeyin esas tutulan yüzü; uğur (III), arka karşıtı

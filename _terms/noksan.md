@@ -2,6 +2,7 @@
 layout: term
 title: noksan
 slug: noksan
+letter: N
 lisan: Arapça nuḳṣān
 anlamlar:
 - ► eksik

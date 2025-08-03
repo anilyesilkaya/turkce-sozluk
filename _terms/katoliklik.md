@@ -2,6 +2,7 @@
 layout: term
 title: Katoliklik
 slug: katoliklik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Katolik olma durumu

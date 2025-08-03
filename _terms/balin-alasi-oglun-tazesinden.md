@@ -2,6 +2,7 @@
 layout: term
 title: balın âlâsı oğlun tazesinden
 slug: balin-alasi-oglun-tazesinden
+letter: B
 lisan: Türkçe
 anlamlar:
 - '"ne varsa küçük çocukta vardır" anlamında kullanılan bir söz'

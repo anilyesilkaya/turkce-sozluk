@@ -2,6 +2,7 @@
 layout: term
 title: dillendirilme
 slug: dillendirilme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dillendirilmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: sükse yapmak
 slug: sukse-yapmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - başarı kazanmak

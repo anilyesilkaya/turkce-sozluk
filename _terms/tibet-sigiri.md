@@ -2,6 +2,7 @@
 layout: term
 title: Tibet sığırı
 slug: tibet-sigiri
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► yak

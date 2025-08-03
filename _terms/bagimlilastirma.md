@@ -2,6 +2,7 @@
 layout: term
 title: bağımlılaştırma
 slug: bagimlilastirma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağımlılaştırmak işi

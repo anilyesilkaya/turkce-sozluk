@@ -2,6 +2,7 @@
 layout: term
 title: tahribat
 slug: tahribat
+letter: T
 lisan: Arapça taḫrībāt
 anlamlar:
 - Yıkıp bozma, harap etme

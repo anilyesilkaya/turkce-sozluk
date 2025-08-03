@@ -2,6 +2,7 @@
 layout: term
 title: kamburu çıkmak
 slug: kamburu-cikmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - sırtı kambur olmak

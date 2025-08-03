@@ -2,6 +2,7 @@
 layout: term
 title: intelijansiya
 slug: intelijansiya
+letter: I
 lisan: Latince
 anlamlar:
 - Bir ülkenin aydınlar sınıfı

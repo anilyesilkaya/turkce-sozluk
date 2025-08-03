@@ -2,6 +2,7 @@
 layout: term
 title: fitne
 slug: fitne
+letter: F
 lisan: Arapça fitne
 anlamlar:
 - İnsanları birbirine düşürerek oluşturulan kargaşa

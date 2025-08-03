@@ -2,6 +2,7 @@
 layout: term
 title: güfte
 slug: gufte
+letter: G
 lisan: Farsça gofte
 anlamlar:
 - Müzik eserlerinin yazılı metni; söz

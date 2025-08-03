@@ -2,6 +2,7 @@
 layout: term
 title: trigonometrik
 slug: trigonometrik
+letter: T
 lisan: Fransızca trigonométrique
 anlamlar:
 - Trigonometri ile ilgili

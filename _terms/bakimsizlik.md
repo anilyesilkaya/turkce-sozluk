@@ -2,6 +2,7 @@
 layout: term
 title: bakımsızlık
 slug: bakimsizlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bakımsız olma, terk edilme, yüzüstü bırakılma durumu

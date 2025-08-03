@@ -2,6 +2,7 @@
 layout: term
 title: doruk
 slug: doruk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dağ, ağaç vb. yüksek şeylerin tepesi, en yüksek yeri; zirve, şahika

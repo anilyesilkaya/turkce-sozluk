@@ -2,6 +2,7 @@
 layout: term
 title: tekmeleme
 slug: tekmeleme
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tekmelemek işi

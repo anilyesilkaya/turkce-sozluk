@@ -2,6 +2,7 @@
 layout: term
 title: cisimleştirmek
 slug: cisimlestirmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cisimleşme işini yaptırmak

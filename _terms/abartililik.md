@@ -2,6 +2,7 @@
 layout: term
 title: abartılılık
 slug: abartililik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Abartılı olma durumu

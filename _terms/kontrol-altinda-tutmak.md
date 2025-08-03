@@ -2,6 +2,7 @@
 layout: term
 title: kontrol altında tutmak
 slug: kontrol-altinda-tutmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - denetlemek

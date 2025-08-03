@@ -2,6 +2,7 @@
 layout: term
 title: çiğlik
 slug: ciglik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çiğ olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: duvar saati
 slug: duvar-saati
+letter: D
 lisan: Türkçe
 anlamlar:
 - Duvara asılı saat

@@ -2,6 +2,7 @@
 layout: term
 title: mağdur
 slug: magdur
+letter: M
 lisan: Arapça maġdūr
 anlamlar:
 - Haksızlığa uğramış (kimse); kıygın

@@ -2,6 +2,7 @@
 layout: term
 title: gelip geçmek
 slug: gelip-gecmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - bir yerden geçmek

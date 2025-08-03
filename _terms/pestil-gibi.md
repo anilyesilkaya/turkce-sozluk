@@ -2,6 +2,7 @@
 layout: term
 title: pestil gibi
 slug: pestil-gibi
+letter: P
 lisan: Türkçe
 anlamlar:
 - kımıldayamayacak kadar güçsüz, bitkin bir biçimde

@@ -2,6 +2,7 @@
 layout: term
 title: aklevrek
 slug: aklevrek
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► tatlısu levreği

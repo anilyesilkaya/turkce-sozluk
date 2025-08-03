@@ -2,6 +2,7 @@
 layout: term
 title: senli benli
 slug: senli-benli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Aşırı derecede samimi

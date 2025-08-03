@@ -2,6 +2,7 @@
 layout: term
 title: geçmişi kandilli
 slug: gecmisi-kandilli
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► geçmişi kınalı

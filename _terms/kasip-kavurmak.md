@@ -2,6 +2,7 @@
 layout: term
 title: kasıp kavurmak
 slug: kasip-kavurmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - baskı yaparak veya kıyıcı davranışlarla bir topluluğu ezmek, zulmetmek

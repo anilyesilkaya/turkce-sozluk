@@ -2,6 +2,7 @@
 layout: term
 title: usantı
 slug: usanti
+letter: U
 lisan: Türkçe
 anlamlar:
 - Usanç durumu

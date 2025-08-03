@@ -2,6 +2,7 @@
 layout: term
 title: metelik etmez
 slug: metelik-etmez
+letter: M
 lisan: Türkçe
 anlamlar:
 - '"çok değersiz" anlamında kullanılan bir söz'

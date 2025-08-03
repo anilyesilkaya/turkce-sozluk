@@ -2,6 +2,7 @@
 layout: term
 title: yansıtım
 slug: yansitim
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yansıtmak işi

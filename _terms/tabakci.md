@@ -2,6 +2,7 @@
 layout: term
 title: tabakçı
 slug: tabakci
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► sepici

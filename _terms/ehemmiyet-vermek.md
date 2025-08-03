@@ -2,6 +2,7 @@
 layout: term
 title: ehemmiyet vermek
 slug: ehemmiyet-vermek
+letter: E
 lisan: Türkçe
 anlamlar:
 - önem vermek

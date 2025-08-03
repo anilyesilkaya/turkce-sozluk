@@ -2,6 +2,7 @@
 layout: term
 title: taş iliği
 slug: tas-iligi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taşların yapraklar durumunda ayrılmasını sağlayan ara katmanı

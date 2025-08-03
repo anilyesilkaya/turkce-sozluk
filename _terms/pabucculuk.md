@@ -2,6 +2,7 @@
 layout: term
 title: pabuççuluk
 slug: pabucculuk
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► ayakkabıcılık

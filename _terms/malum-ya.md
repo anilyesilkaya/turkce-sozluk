@@ -2,6 +2,7 @@
 layout: term
 title: malum ya!
 slug: malum-ya
+letter: M
 lisan: Türkçe
 anlamlar:
 - '"bilinen şey" anlamında kullanılan bir söz'

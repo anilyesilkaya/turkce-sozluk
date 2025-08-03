@@ -2,6 +2,7 @@
 layout: term
 title: viskozite
 slug: viskozite
+letter: V
 lisan: Fransızca viscosité
 anlamlar:
 - ► ağdalılık

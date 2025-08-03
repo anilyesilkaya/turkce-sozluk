@@ -2,6 +2,7 @@
 layout: term
 title: bulanabilmek
 slug: bulanabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bulanma ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: tazelenmek
 slug: tazelenmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tazeleme işi yapılmak

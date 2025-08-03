@@ -2,6 +2,7 @@
 layout: term
 title: Protestanlık
 slug: protestanlik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Protestan olma durumu

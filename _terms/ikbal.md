@@ -2,6 +2,7 @@
 layout: term
 title: ikbal
 slug: ikbal
+letter: I
 lisan: Arapça iḳbāl
 anlamlar:
 - Baht açıklığı veya yüksek bir makama, duruma erişmiş olma durumu

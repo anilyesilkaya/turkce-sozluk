@@ -2,6 +2,7 @@
 layout: term
 title: geberip gitmek
 slug: geberip-gitmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - istenmedik bir biçimde ve beklenmedik bir zamanda ölmek

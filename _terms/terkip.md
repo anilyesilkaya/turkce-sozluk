@@ -2,6 +2,7 @@
 layout: term
 title: terkip
 slug: terkip
+letter: T
 lisan: Arapça terkīb
 anlamlar:
 - Birleşim, birleştirme, bir araya getirme

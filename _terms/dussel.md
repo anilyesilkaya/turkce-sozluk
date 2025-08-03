@@ -2,6 +2,7 @@
 layout: term
 title: düşsel
 slug: dussel
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düş ile ilgili; hayalî

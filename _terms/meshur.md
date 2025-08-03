@@ -2,6 +2,7 @@
 layout: term
 title: meşhur
 slug: meshur
+letter: M
 lisan: Arapça meşhūr
 anlamlar:
 - ► ünlü

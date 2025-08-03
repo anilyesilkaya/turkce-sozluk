@@ -2,6 +2,7 @@
 layout: term
 title: yolunda gitmek (veya yürümek)
 slug: yolunda-gitmek-veya-yurumek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - olumlu gelişme göstermek

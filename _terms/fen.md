@@ -2,6 +2,7 @@
 layout: term
 title: fen
 slug: fen
+letter: F
 lisan: Arapça fenn
 anlamlar:
 - Fizik, kimya, matematik ve biyolojiye verilen ortak ad

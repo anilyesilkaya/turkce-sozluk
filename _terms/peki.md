@@ -2,6 +2,7 @@
 layout: term
 title: peki
 slug: peki
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► evet

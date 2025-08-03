@@ -2,6 +2,7 @@
 layout: term
 title: al sancak
 slug: al-sancak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Türk bayrağı

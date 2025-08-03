@@ -2,6 +2,7 @@
 layout: term
 title: bilasebep
 slug: bilasebep
+letter: B
 lisan: Arapça bilāsebeb
 anlamlar:
 - ► sebepsiz

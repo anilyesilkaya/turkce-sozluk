@@ -2,6 +2,7 @@
 layout: term
 title: kuruluş
 slug: kurulus
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kurulmak işi

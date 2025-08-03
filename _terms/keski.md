@@ -2,6 +2,7 @@
 layout: term
 title: keşki
 slug: keski
+letter: K
 lisan: Farsça kāşki
 anlamlar:
 - ► keşke

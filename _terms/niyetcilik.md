@@ -2,6 +2,7 @@
 layout: term
 title: niyetçilik
 slug: niyetcilik
+letter: N
 lisan: Türkçe
 anlamlar:
 - Niyetçinin işi

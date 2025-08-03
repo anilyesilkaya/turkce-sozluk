@@ -2,6 +2,7 @@
 layout: term
 title: deniz buzu
 slug: deniz-buzu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Kutuplara yakın yerlerde soğuk havanın etkisiyle denizlerin üstünde oluşan buz

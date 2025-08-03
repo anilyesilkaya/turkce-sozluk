@@ -2,6 +2,7 @@
 layout: term
 title: düşündürücü
 slug: dusundurucu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düşünmeye sebep olan, düşünmeye yol açan

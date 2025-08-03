@@ -2,6 +2,7 @@
 layout: term
 title: ihtimam etmek (veya göstermek)
 slug: ihtimam-etmek-veya-gostermek
+letter: I
 lisan: Türkçe
 anlamlar:
 - özen göstermek, dikkatle davranmak

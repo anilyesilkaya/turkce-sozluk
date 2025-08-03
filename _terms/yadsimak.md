@@ -2,6 +2,7 @@
 layout: term
 title: yadsımak
 slug: yadsimak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaptığı bir işi, söylediği sözü veya tanık olduğu bir şeyi yapmadığını, bilmediğini söylemek, yaptığını saklamak; inkâr etmek

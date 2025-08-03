@@ -2,6 +2,7 @@
 layout: term
 title: kavga etmek
 slug: kavga-etmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - birbiriyle atışmak, dövüşmek

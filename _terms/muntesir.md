@@ -2,6 +2,7 @@
 layout: term
 title: münteşir
 slug: muntesir
+letter: M
 lisan: Arapça munteşir
 anlamlar:
 - Yaygın, yayılmış

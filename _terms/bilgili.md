@@ -2,6 +2,7 @@
 layout: term
 title: bilgili
 slug: bilgili
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilgi sahibi olan; malumatlı, malumattar, malumat sahibi, agâh, danişment

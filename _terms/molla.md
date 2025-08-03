@@ -2,6 +2,7 @@
 layout: term
 title: molla
 slug: molla
+letter: M
 lisan: Arapça mevlā
 anlamlar:
 - Büyük kadı

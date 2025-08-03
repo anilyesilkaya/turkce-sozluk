@@ -2,6 +2,7 @@
 layout: term
 title: yaşmak
 slug: yasmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Başla birlikte yüzün veya ağzın bir kısmını kapatan örtü

@@ -2,6 +2,7 @@
 layout: term
 title: içine fenalık gelmek (veya basmak)
 slug: icine-fenalik-gelmek-veya-basmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - ruhu daralmak, sıkılıp bunalmak

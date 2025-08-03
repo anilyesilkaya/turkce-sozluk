@@ -2,6 +2,7 @@
 layout: term
 title: ya ... ya ...
 slug: ya-ya
+letter: Y
 lisan: Farsça yā ... yā ...
 anlamlar:
 - Birinden birinin olacağı sanılan iki iş için kullanılan bir söz

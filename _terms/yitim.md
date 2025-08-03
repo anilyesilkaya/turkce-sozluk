@@ -2,6 +2,7 @@
 layout: term
 title: yitim
 slug: yitim
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► kayıp

@@ -2,6 +2,7 @@
 layout: term
 title: yüzü kâğıt gibi olmak
 slug: yuzu-kagit-gibi-olmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - kanı çekilip benzi solmak

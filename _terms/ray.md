@@ -2,6 +2,7 @@
 layout: term
 title: ray
 slug: ray
+letter: R
 lisan: Fransızca rail
 anlamlar:
 - Tren, tramvay vb. taşıtlarda tekerleklerin üzerinde hareket ettiği demirden yol

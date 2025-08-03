@@ -2,6 +2,7 @@
 layout: term
 title: bütünleyen
 slug: butunleyen
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bütün durumuna getiren; bütünleyici, tümleyici

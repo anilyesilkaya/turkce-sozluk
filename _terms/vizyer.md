@@ -2,6 +2,7 @@
 layout: term
 title: vizyer
 slug: vizyer
+letter: V
 lisan: Fransızca visière
 anlamlar:
 - ► terek

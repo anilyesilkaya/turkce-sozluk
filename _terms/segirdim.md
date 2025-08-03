@@ -2,6 +2,7 @@
 layout: term
 title: seğirdim
 slug: segirdim
+letter: S
 lisan: Türkçe
 anlamlar:
 - Yaya olarak yapılan koşu

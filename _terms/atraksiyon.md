@@ -2,6 +2,7 @@
 layout: term
 title: atraksiyon
 slug: atraksiyon
+letter: A
 lisan: Fransızca attraction
 anlamlar:
 - ► eğlendiri

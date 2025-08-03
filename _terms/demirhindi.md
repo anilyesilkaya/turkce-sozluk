@@ -2,6 +2,7 @@
 layout: term
 title: demirhindi
 slug: demirhindi
+letter: D
 lisan: Arapça tamr + hindī
 anlamlar:
 - Baklagillerden, odunu oldukça sert olan, sıcak iklimlerde yetişen bir ağaç (Tamarindus indica)

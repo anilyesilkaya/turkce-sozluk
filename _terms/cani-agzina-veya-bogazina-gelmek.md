@@ -2,6 +2,7 @@
 layout: term
 title: canı ağzına (veya boğazına) gelmek
 slug: cani-agzina-veya-bogazina-gelmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - büyük bir tehlike karşısında ölecekmiş gibi bir korkuya kapılmak

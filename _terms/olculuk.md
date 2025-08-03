@@ -2,6 +2,7 @@
 layout: term
 title: ölçülük
 slug: olculuk
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ölçü olma durumu

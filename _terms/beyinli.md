@@ -2,6 +2,7 @@
 layout: term
 title: beyinli
 slug: beyinli
+letter: B
 lisan: Türkçe
 anlamlar:
 - İçinde beyin bulunan

@@ -2,6 +2,7 @@
 layout: term
 title: açıklı koyulu
 slug: acikli-koyulu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Üzerinde açık ve koyu tonları bulunan; dalgalı

@@ -2,6 +2,7 @@
 layout: term
 title: davudi
 slug: davudi
+letter: D
 lisan: Arapça dāvudī
 anlamlar:
 - Kalın, tok ve gür (ses)

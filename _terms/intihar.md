@@ -2,6 +2,7 @@
 layout: term
 title: intihar
 slug: intihar
+letter: I
 lisan: Arapça intiḥār
 anlamlar:
 - Bir kimsenin toplumsal ve ruhsal nedenlerin etkisi ile kendi hayatına son vermesi

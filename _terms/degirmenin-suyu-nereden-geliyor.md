@@ -2,6 +2,7 @@
 layout: term
 title: değirmenin suyu nereden geliyor?
 slug: degirmenin-suyu-nereden-geliyor
+letter: D
 lisan: Türkçe
 anlamlar:
 - '"bu işin masrafını karşılayacak para nasıl kazanılıyor?" anlamında kullanılan bir söz'

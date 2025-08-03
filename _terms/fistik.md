@@ -2,6 +2,7 @@
 layout: term
 title: fıstık
 slug: fistik
+letter: F
 lisan: Arapça fustuḳ
 anlamlar:
 - Antep fıstığı, çam fıstığı veya yer fıstığı denilen yemişlerin genel adı

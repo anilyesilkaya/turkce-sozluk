@@ -2,6 +2,7 @@
 layout: term
 title: baziçe
 slug: bazice
+letter: B
 lisan: Farsça bāzīçe
 anlamlar:
 - ► oyun

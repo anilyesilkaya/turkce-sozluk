@@ -2,6 +2,7 @@
 layout: term
 title: bayıltıcı
 slug: bayiltici
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bayıltma özelliği olan, bayıltan

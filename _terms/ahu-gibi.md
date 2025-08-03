@@ -2,6 +2,7 @@
 layout: term
 title: ahu gibi
 slug: ahu-gibi
+letter: A
 lisan: Türkçe
 anlamlar:
 - çok güzel, çekici

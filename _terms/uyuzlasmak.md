@@ -2,6 +2,7 @@
 layout: term
 title: uyuzlaşmak
 slug: uyuzlasmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Tüyleri döküldüğü için çirkin bir görünüş almak

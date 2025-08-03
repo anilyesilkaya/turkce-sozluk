@@ -2,6 +2,7 @@
 layout: term
 title: kavgalaşmak
 slug: kavgalasmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - İki veya daha çok kimse birbiriyle kavga etmek

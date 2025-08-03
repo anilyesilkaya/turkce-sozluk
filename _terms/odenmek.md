@@ -2,6 +2,7 @@
 layout: term
 title: ödenmek
 slug: odenmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ödeme işine konu olmak

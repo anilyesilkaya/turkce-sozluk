@@ -2,6 +2,7 @@
 layout: term
 title: menengiç
 slug: menengic
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► çitlembik

@@ -2,6 +2,7 @@
 layout: term
 title: pörtlek
 slug: portlek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Dışarıya doğru çıkık, patlak (göz)

@@ -2,6 +2,7 @@
 layout: term
 title: bu seferlik
 slug: bu-seferlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bu defalık, bu kezlik

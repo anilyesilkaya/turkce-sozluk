@@ -2,6 +2,7 @@
 layout: term
 title: oğul uşak
 slug: ogul-usak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Çocuklar ve torunlar

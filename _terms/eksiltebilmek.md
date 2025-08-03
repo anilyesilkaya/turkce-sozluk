@@ -2,6 +2,7 @@
 layout: term
 title: eksiltebilmek
 slug: eksiltebilmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eksiltme ihtimali veya imkânı bulunmak

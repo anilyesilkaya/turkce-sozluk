@@ -2,6 +2,7 @@
 layout: term
 title: başarma
 slug: basarma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başarmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: özlemek
 slug: ozlemek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Bir kimseyi, bir yeri veya bir şeyi görmeyi, ona  kavuşmayı istemek, göreceği gelmek

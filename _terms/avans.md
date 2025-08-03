@@ -2,6 +2,7 @@
 layout: term
 title: avans
 slug: avans
+letter: A
 lisan: Fransızca avance
 anlamlar:
 - ► öndelik

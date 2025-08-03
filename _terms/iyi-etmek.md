@@ -2,6 +2,7 @@
 layout: term
 title: iyi etmek
 slug: iyi-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - iyileştirmek, hastalıktan kurtarmak

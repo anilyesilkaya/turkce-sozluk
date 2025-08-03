@@ -2,6 +2,7 @@
 layout: term
 title: formülasyon
 slug: formulasyon
+letter: F
 lisan: Fransızca formulation
 anlamlar:
 - Herhangi bir ürünün oluşturulması sırasında karıştırılacak ham maddelerin oranlarının hesaplanması

@@ -2,6 +2,7 @@
 layout: term
 title: ölçütlü
 slug: olcutlu
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ölçütü olan

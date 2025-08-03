@@ -2,6 +2,7 @@
 layout: term
 title: tespih çekmek
 slug: tespih-cekmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - tespihin tanelerini birer birer iki parmak arasından geçirmek

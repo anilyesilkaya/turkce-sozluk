@@ -2,6 +2,7 @@
 layout: term
 title: arıtmacılık
 slug: aritmacilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir sanat eserini en az sayıda renk, teknik ve malzeme kullanarak oluşturma anlayışı; arıtıcılık, pürizm

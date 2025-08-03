@@ -2,6 +2,7 @@
 layout: term
 title: tefe koymak
 slug: tefe-koymak
+letter: T
 lisan: Türkçe
 anlamlar:
 - biri hakkında alaylı dedikodu yapmak

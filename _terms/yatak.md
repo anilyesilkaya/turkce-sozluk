@@ -2,6 +2,7 @@
 layout: term
 title: yatak
 slug: yatak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Uyuma, dinlenme vb. amaçlarla üzerine veya içine yatılan eşya; döşek

@@ -2,6 +2,7 @@
 layout: term
 title: şıklatmak
 slug: siklatmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Baş parmakla orta parmağı birbirine sürterek “şık” sesi çıkartmak

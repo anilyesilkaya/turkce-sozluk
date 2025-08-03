@@ -2,6 +2,7 @@
 layout: term
 title: payan
 slug: payan
+letter: P
 lisan: Farsça pāyān
 anlamlar:
 - Son, sonuç, nihayet

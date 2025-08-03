@@ -2,6 +2,7 @@
 layout: term
 title: esirgeyebilmek
 slug: esirgeyebilmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Esirgeme ihtimali veya imkânı bulunmak

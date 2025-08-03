@@ -2,6 +2,7 @@
 layout: term
 title: duyarlılaşmak
 slug: duyarlilasmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Duyarlı duruma gelmek

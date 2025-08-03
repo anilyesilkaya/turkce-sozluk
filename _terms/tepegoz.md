@@ -2,6 +2,7 @@
 layout: term
 title: tepegöz
 slug: tepegoz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Derslerde, konferanslarda asetat üzerine yazılan yazıyı veya grafiği kuvvetli bir ışık kaynağı aracılığıyla perdeye yansıtan optik araç

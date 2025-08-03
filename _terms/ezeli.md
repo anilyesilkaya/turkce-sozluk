@@ -2,6 +2,7 @@
 layout: term
 title: ezelî
 slug: ezeli
+letter: E
 lisan: Arapça ezelī
 anlamlar:
 - ► öncesiz

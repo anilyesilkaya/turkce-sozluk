@@ -2,6 +2,7 @@
 layout: term
 title: cızıldamak
 slug: cizildamak
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► cızırdamak

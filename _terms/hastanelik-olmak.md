@@ -2,6 +2,7 @@
 layout: term
 title: hastanelik olmak
 slug: hastanelik-olmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - hastanede tedavi görmeyi gerektirecek kadar hastalanmak

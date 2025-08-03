@@ -2,6 +2,7 @@
 layout: term
 title: boğuşabilmek
 slug: bogusabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boğuşma ihtimali veya imkânı bulunmak

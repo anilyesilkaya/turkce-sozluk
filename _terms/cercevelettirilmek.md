@@ -2,6 +2,7 @@
 layout: term
 title: çerçevelettirilmek
 slug: cercevelettirilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çerçevelettirme işine konu olmak

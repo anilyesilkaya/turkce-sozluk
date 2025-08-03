@@ -2,6 +2,7 @@
 layout: term
 title: alıkonulmak
 slug: alikonulmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alıkoyma işine konu olmak

@@ -2,6 +2,7 @@
 layout: term
 title: mide fesadına uğramak
 slug: mide-fesadina-ugramak
+letter: M
 lisan: Türkçe
 anlamlar:
 - çok ve çeşitli yiyecekler yemekten midesi bozulmak

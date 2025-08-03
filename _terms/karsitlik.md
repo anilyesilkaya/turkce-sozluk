@@ -2,6 +2,7 @@
 layout: term
 title: karşıtlık
 slug: karsitlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karşıt olma durumu; aksilik, zıddiyet, mübayenet, tezat, zıtlık, kontrast

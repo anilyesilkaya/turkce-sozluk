@@ -2,6 +2,7 @@
 layout: term
 title: uray
 slug: uray
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► belediye

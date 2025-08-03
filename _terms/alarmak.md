@@ -2,6 +2,7 @@
 layout: term
 title: alarmak
 slug: alarmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► kızarmak

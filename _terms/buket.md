@@ -2,6 +2,7 @@
 layout: term
 title: buket
 slug: buket
+letter: B
 lisan: Fransızca bouquete
 anlamlar:
 - Çiçek demeti

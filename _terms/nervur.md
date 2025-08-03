@@ -2,6 +2,7 @@
 layout: term
 title: nervür
 slug: nervur
+letter: N
 lisan: Fransızca nervure
 anlamlar:
 - Bir veya iki milimlik pile

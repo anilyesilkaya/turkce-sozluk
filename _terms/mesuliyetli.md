@@ -2,6 +2,7 @@
 layout: term
 title: mesuliyetli
 slug: mesuliyetli
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► sorumlu

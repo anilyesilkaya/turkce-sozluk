@@ -2,6 +2,7 @@
 layout: term
 title: alarga gitmek
 slug: alarga-gitmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - uzak durmak

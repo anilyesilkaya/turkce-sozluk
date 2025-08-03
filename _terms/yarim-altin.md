@@ -2,6 +2,7 @@
 layout: term
 title: yarım altın
 slug: yarim-altin
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Ön yüzünde ortada kûfi tarzda “Türkiye Cumhuriyeti” yazısı ve altında basıldığı tarih, arka yüzünde ortada Atatürk’ün profil rölyefi, her iki yüzünün kenar çevresinde otuz iki adet yıldız ve çiçek motifleri bulunan, 3,508 g ağırlığında, 22 ayar (916,6 milyem) altın; ellilik, yarımlık

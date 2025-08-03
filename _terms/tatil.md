@@ -2,6 +2,7 @@
 layout: term
 title: tatil
 slug: tatil
+letter: T
 lisan: Arapça taʿṭīl
 anlamlar:
 - Kanun gereğince çalışmaya ara verileceği belirtilen süre; dinlence

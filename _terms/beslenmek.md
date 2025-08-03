@@ -2,6 +2,7 @@
 layout: term
 title: beslenmek
 slug: beslenmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kendini beslemek

@@ -2,6 +2,7 @@
 layout: term
 title: battal boy
 slug: battal-boy
+letter: B
 lisan: Türkçe
 anlamlar:
 - Normalden daha büyük ölçüde olan boy

@@ -2,6 +2,7 @@
 layout: term
 title: kapaklanma
 slug: kapaklanma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kapaklanmak işi

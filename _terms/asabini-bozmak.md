@@ -2,6 +2,7 @@
 layout: term
 title: asabını bozmak
 slug: asabini-bozmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - sinirlerini bozmak

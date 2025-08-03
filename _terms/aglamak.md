@@ -2,6 +2,7 @@
 layout: term
 title: ağlamak
 slug: aglamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Üzüntü, acı, sevinç, pişmanlık vb.nin etkisiyle gözyaşı dökmek

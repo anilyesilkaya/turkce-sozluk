@@ -2,6 +2,7 @@
 layout: term
 title: eşek sıpası
 slug: esek-sipasi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Sövgü bildiren bir söz

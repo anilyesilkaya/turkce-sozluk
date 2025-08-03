@@ -2,6 +2,7 @@
 layout: term
 title: dünyaya yuf borusu öttürmek
 slug: dunyaya-yuf-borusu-otturmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - ölmek

@@ -2,6 +2,7 @@
 layout: term
 title: şaplamak
 slug: saplamak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Bir yapının tabanını ince kum ve çimentoyla hazırlanan karışımla sıvamak

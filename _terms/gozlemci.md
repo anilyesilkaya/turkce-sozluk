@@ -2,6 +2,7 @@
 layout: term
 title: gözlemci
 slug: gozlemci
+letter: G
 lisan: Türkçe
 anlamlar:
 - Dikkatle, eleştirici bir gözle gözlem yapan kimse; müşahit

@@ -2,6 +2,7 @@
 layout: term
 title: terslenmek
 slug: terslenmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tersleme işine konu olmak

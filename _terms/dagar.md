@@ -2,6 +2,7 @@
 layout: term
 title: dağar
 slug: dagar
+letter: D
 lisan: Farsça taġār
 anlamlar:
 - Ağzı yayvan, dibi dar toprak kap

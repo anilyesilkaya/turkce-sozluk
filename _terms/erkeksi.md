@@ -2,6 +2,7 @@
 layout: term
 title: erkeksi
 slug: erkeksi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Erkeği andıran, erkeğe benzeyen, erkek gibi; erkeğimsi, maskülen

@@ -2,6 +2,7 @@
 layout: term
 title: bal şarabı
 slug: bal-sarabi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Balın sulandırılarak mayalanmasıyla elde edilen bir tür içki

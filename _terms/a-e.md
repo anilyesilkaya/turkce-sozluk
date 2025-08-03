@@ -2,6 +2,7 @@
 layout: term
 title: a / e
 slug: a-e
+letter: A
 lisan: Türkçe
 anlamlar:
 - Dilek kipinin ikinci teklik ve çokluk şahıslarının çekiminden sonra gelerek anlamı pekiştiren ve güçlendiren bir söz

@@ -2,6 +2,7 @@
 layout: term
 title: ahunt
 slug: ahunt
+letter: A
 lisan: Farsça āḫūnd
 anlamlar:
 - İran ve Azerbaycan’da din adamlarına verilen ad

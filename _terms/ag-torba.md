@@ -2,6 +2,7 @@
 layout: term
 title: ağ torba
 slug: ag-torba
+letter: A
 lisan: Türkçe
 anlamlar:
 - Genişliği 25, uzunluğu 50 santimetre olan, ağdan yapılmış, kırmızı yosunları suya dalarak avlamada kullanılan, ip ve kayıktaki makara yardımı ile suyun yüzeyine çıkıp inebilen bir torba

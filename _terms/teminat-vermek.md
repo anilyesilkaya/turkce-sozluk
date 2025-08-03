@@ -2,6 +2,7 @@
 layout: term
 title: teminat vermek
 slug: teminat-vermek
+letter: T
 lisan: Türkçe
 anlamlar:
 - güvence vermek

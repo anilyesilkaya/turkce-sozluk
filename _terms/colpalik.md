@@ -2,6 +2,7 @@
 layout: term
 title: çolpalık
 slug: colpalik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çolpa olma durumu

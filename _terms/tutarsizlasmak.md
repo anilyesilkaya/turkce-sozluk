@@ -2,6 +2,7 @@
 layout: term
 title: tutarsızlaşmak
 slug: tutarsizlasmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tutarsız duruma gelmek

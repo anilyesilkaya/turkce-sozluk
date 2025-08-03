@@ -2,6 +2,7 @@
 layout: term
 title: malumattar etmek
 slug: malumattar-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - bilgi vermek

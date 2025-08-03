@@ -2,6 +2,7 @@
 layout: term
 title: velev ki
 slug: velev-ki
+letter: V
 lisan: Arapça velev
 anlamlar:
 - Öyle olsa bile, kaldı ki öyle

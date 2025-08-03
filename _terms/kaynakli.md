@@ -2,6 +2,7 @@
 layout: term
 title: kaynaklı
 slug: kaynakli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Belli bir kaynaktan gelen

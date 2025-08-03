@@ -2,6 +2,7 @@
 layout: term
 title: büyükleniş
 slug: buyuklenis
+letter: B
 lisan: Türkçe
 anlamlar:
 - Büyüklenmek işi

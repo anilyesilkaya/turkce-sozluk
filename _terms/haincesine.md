@@ -2,6 +2,7 @@
 layout: term
 title: haincesine
 slug: haincesine
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► haince

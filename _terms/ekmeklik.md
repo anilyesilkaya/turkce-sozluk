@@ -2,6 +2,7 @@
 layout: term
 title: ekmeklik
 slug: ekmeklik
+letter: E
 lisan: Türkçe
 anlamlar:
 - İçine ekmek konulan kap

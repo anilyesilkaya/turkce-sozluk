@@ -2,6 +2,7 @@
 layout: term
 title: köklemek
 slug: koklemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Minder, şilte vb.nin iki yüzünü yer yer dikişlerle tutturmak

@@ -2,6 +2,7 @@
 layout: term
 title: ünvanlı
 slug: unvanli
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Ünvanı olan

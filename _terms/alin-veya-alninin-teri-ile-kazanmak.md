@@ -2,6 +2,7 @@
 layout: term
 title: alın (veya alnının) teri ile kazanmak
 slug: alin-veya-alninin-teri-ile-kazanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - hak ederek, çalışarak, emek vererek kazanmak

@@ -2,6 +2,7 @@
 layout: term
 title: efendicik
 slug: efendicik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Efendi sözünün sevgiyle dolu söylenen biçimi

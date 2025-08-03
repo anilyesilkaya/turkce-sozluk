@@ -2,6 +2,7 @@
 layout: term
 title: mübalağasız
 slug: mubalagasiz
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► abartısız

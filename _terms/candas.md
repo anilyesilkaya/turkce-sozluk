@@ -2,6 +2,7 @@
 layout: term
 title: candaş
 slug: candas
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► can dostu

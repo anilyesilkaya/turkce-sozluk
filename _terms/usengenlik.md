@@ -2,6 +2,7 @@
 layout: term
 title: üşengenlik
 slug: usengenlik
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - ► üşengeçlik

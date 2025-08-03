@@ -2,6 +2,7 @@
 layout: term
 title: tebellür
 slug: tebellur
+letter: T
 lisan: Arapça tebellur
 anlamlar:
 - ► billurlaşma

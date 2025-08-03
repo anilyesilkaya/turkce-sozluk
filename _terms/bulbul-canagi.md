@@ -2,6 +2,7 @@
 layout: term
 title: bülbül çanağı
 slug: bulbul-canagi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çok küçük kâse, bardak vb

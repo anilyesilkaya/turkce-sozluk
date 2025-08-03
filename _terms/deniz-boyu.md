@@ -2,6 +2,7 @@
 layout: term
 title: deniz boyu
 slug: deniz-boyu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Deniz kıyısı

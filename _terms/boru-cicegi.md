@@ -2,6 +2,7 @@
 layout: term
 title: boru çiçeği
 slug: boru-cicegi
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► çan çiçeği

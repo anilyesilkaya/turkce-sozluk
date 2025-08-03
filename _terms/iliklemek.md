@@ -2,6 +2,7 @@
 layout: term
 title: iliklemek
 slug: iliklemek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bir şeyin düğmesini iliğine geçirmek; düğmelemek

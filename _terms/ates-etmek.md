@@ -2,6 +2,7 @@
 layout: term
 title: ateş etmek
 slug: ates-etmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - ateşli silahlarla mermi atmak

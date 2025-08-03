@@ -2,6 +2,7 @@
 layout: term
 title: nar şerbeti
 slug: nar-serbeti
+letter: N
 lisan: Türkçe
 anlamlar:
 - Taze nardan yapılan şerbet

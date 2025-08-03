@@ -2,6 +2,7 @@
 layout: term
 title: şebabet
 slug: sebabet
+letter: Ş
 lisan: Arapça şebābet
 anlamlar:
 - ► gençlik

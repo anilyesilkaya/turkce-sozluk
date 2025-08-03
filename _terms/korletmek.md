@@ -2,6 +2,7 @@
 layout: term
 title: körletmek
 slug: korletmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Keskinliğin azalmasına veya yitirilmesine sebep olmak

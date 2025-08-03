@@ -2,6 +2,7 @@
 layout: term
 title: klasını konuşturmak
 slug: klasini-konusturmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir işte ve herhangi bir durumda ustalık göstermek

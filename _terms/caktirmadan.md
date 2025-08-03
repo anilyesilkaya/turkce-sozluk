@@ -2,6 +2,7 @@
 layout: term
 title: çaktırmadan
 slug: caktirmadan
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Belli etmeden, gizlice, sezdirmeden

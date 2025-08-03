@@ -2,6 +2,7 @@
 layout: term
 title: bir iş olmak
 slug: bir-is-olmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - anlaşılmaz, bilinmeyen bir durum olmak

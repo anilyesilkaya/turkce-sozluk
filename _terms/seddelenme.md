@@ -2,6 +2,7 @@
 layout: term
 title: şeddelenme
 slug: seddelenme
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şeddelenmek işi

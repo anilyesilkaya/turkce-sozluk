@@ -2,6 +2,7 @@
 layout: term
 title: karşılaştırmacı
 slug: karsilastirmaci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karşılaştırmalı edebiyat veya dil bilimi uzmanı

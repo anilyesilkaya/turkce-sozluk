@@ -2,6 +2,7 @@
 layout: term
 title: dondurulmuş
 slug: dondurulmus
+letter: D
 lisan: Türkçe
 anlamlar:
 - Soğutucu aracılığıyla buzlu duruma getirilmiş

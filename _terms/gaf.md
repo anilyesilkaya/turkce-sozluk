@@ -2,6 +2,7 @@
 layout: term
 title: gaf
 slug: gaf
+letter: G
 lisan: Fransızca gaffe
 anlamlar:
 - Yersiz, beceriksiz, zamansız söz veya davranış; pot (I)

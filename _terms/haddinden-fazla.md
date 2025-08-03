@@ -2,6 +2,7 @@
 layout: term
 title: haddinden fazla
 slug: haddinden-fazla
+letter: H
 lisan: Türkçe
 anlamlar:
 - Gereğinden çok, aşırı

@@ -2,6 +2,7 @@
 layout: term
 title: banmak
 slug: banmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Katı bir şeyi sulu veya tuz, biber vb. toz durumundaki maddelerin içine batırıp çıkarmak; bandırmak

@@ -2,6 +2,7 @@
 layout: term
 title: karışılma
 slug: karisilma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karışılmak işi

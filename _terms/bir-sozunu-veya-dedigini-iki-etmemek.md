@@ -2,6 +2,7 @@
 layout: term
 title: bir sözünü (veya dediğini) iki etmemek
 slug: bir-sozunu-veya-dedigini-iki-etmemek
+letter: B
 lisan: Türkçe
 anlamlar:
 - birinin her istediğini hemen yerine getirmek

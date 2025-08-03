@@ -2,6 +2,7 @@
 layout: term
 title: zatıalileri
 slug: zatialileri
+letter: Z
 lisan: Türkçe
 anlamlar:
 - '"Saygın bir kişi olan siz" anlamında kullanılan bir söz'

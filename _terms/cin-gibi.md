@@ -2,6 +2,7 @@
 layout: term
 title: cin gibi
 slug: cin-gibi
+letter: C
 lisan: Türkçe
 anlamlar:
 - anlayışlı ve zeki

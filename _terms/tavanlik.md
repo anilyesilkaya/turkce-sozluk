@@ -2,6 +2,7 @@
 layout: term
 title: tavanlık
 slug: tavanlik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tavan döşemesine gerekli olan

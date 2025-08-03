@@ -2,6 +2,7 @@
 layout: term
 title: tumturaklı
 slug: tumturakli
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► gösterişli

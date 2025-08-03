@@ -2,6 +2,7 @@
 layout: term
 title: sıçabilmek
 slug: sicabilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıçma ihtimali veya imkânı bulunmak

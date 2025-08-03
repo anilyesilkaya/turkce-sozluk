@@ -2,6 +2,7 @@
 layout: term
 title: mihenk
 slug: mihenk
+letter: M
 lisan: Arapça miḥekk
 anlamlar:
 - ► mihenk taşı

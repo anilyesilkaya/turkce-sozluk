@@ -2,6 +2,7 @@
 layout: term
 title: iplemek
 slug: iplemek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Saygı göstermek, değer vermek

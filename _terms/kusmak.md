@@ -2,6 +2,7 @@
 layout: term
 title: kusmak
 slug: kusmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Midenin içindekini basınçla ağızdan dışarı atmak; boşaltmak, çıkarmak, kayetmek, istifra etmek

@@ -2,6 +2,7 @@
 layout: term
 title: kandırmaca
 slug: kandirmaca
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kandırmak amacıyla yapılan düzen

@@ -2,6 +2,7 @@
 layout: term
 title: diskotek
 slug: diskotek
+letter: D
 lisan: Fransızca discothèque
 anlamlar:
 - Plak, ses bandı koleksiyonu

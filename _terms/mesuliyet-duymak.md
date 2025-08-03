@@ -2,6 +2,7 @@
 layout: term
 title: 'mesuliyet duymak '
 slug: mesuliyet-duymak
+letter: M
 lisan: Türkçe
 anlamlar:
 - sorumlu hissetmek

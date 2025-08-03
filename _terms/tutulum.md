@@ -2,6 +2,7 @@
 layout: term
 title: tutulum
 slug: tutulum
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir yıl boyunca Güneş'in gök küre üzerinde çizdiği çemberin sınırladığı daire; ekliptik

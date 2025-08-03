@@ -2,6 +2,7 @@
 layout: term
 title: prostela
 slug: prostela
+letter: P
 lisan: Rumca
 anlamlar:
 - ► önlük

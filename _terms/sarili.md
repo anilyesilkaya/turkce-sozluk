@@ -2,6 +2,7 @@
 layout: term
 title: sarılı
 slug: sarili
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sarılmış olan

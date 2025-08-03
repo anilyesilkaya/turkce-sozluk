@@ -2,6 +2,7 @@
 layout: term
 title: peştahta
 slug: pestahta
+letter: P
 lisan: Farsça pīş + taḫte
 anlamlar:
 - İş masası gibi kullanılan çekmece

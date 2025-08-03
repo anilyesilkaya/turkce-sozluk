@@ -2,6 +2,7 @@
 layout: term
 title: insanlıktan çıkmak
 slug: insanliktan-cikmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - çok zayıflamış olmak

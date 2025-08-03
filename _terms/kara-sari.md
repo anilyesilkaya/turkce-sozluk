@@ -2,6 +2,7 @@
 layout: term
 title: kara sarı
 slug: kara-sari
+letter: K
 lisan: Türkçe
 anlamlar:
 - Siyaha çalan sarı

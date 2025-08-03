@@ -2,6 +2,7 @@
 layout: term
 title: canilik
 slug: canilik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cani olma durumu; kıyıcılık

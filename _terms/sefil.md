@@ -2,6 +2,7 @@
 layout: term
 title: sefil
 slug: sefil
+letter: S
 lisan: Arapça sefīl
 anlamlar:
 - Yoksulluk içinde olan

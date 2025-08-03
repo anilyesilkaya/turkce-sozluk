@@ -2,6 +2,7 @@
 layout: term
 title: kavgasız gürültüsüz yaşamak
 slug: kavgasiz-gurultusuz-yasamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - iyi geçinmek

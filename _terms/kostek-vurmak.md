@@ -2,6 +2,7 @@
 layout: term
 title: köstek vurmak
 slug: kostek-vurmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - hayvanın veya esirin ayağına köstek bağlamak

@@ -2,6 +2,7 @@
 layout: term
 title: kolancı
 slug: kolanci
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► yedekçi

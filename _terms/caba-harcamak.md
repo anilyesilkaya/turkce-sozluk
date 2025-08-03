@@ -2,6 +2,7 @@
 layout: term
 title: çaba harcamak
 slug: caba-harcamak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - bir işi yapabilmek için elinden geleni yapmak

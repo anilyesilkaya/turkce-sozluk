@@ -2,6 +2,7 @@
 layout: term
 title: halhal
 slug: halhal
+letter: H
 lisan: Arapça ḫalḫāl
 anlamlar:
 - Kadınların ayak bileklerine taktıkları bilezik

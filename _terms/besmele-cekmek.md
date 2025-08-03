@@ -2,6 +2,7 @@
 layout: term
 title: besmele çekmek
 slug: besmele-cekmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir işe başlarken "bismillahirrahmanirrahim" cümlesini söylemek

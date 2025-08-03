@@ -2,6 +2,7 @@
 layout: term
 title: yarı buçuk
 slug: yari-bucuk
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Baştan savma, üstünkörü olan

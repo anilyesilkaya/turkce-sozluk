@@ -2,6 +2,7 @@
 layout: term
 title: bir hizaya gelmek
 slug: bir-hizaya-gelmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - düzgün sıra olmak

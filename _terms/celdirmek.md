@@ -2,6 +2,7 @@
 layout: term
 title: çeldirmek
 slug: celdirmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çelme işini yaptırmak

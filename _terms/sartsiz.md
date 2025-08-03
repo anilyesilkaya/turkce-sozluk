@@ -2,6 +2,7 @@
 layout: term
 title: şartsız
 slug: sartsiz
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şarta bağlı olmayan; koşulsuz

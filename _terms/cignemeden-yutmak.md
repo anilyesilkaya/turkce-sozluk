@@ -2,6 +2,7 @@
 layout: term
 title: çiğnemeden yutmak
 slug: cignemeden-yutmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - kolayca inanmak, hemen kabul etmek

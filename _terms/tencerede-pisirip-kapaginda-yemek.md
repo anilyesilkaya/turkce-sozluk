@@ -2,6 +2,7 @@
 layout: term
 title: tencerede pişirip kapağında yemek
 slug: tencerede-pisirip-kapaginda-yemek
+letter: T
 lisan: Türkçe
 anlamlar:
 - geçinme konusunda var olanla yetinmek

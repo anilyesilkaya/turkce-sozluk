@@ -2,6 +2,7 @@
 layout: term
 title: domuzuna
 slug: domuzuna
+letter: D
 lisan: Türkçe
 anlamlar:
 - İnat olsun diye

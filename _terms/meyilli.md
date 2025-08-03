@@ -2,6 +2,7 @@
 layout: term
 title: meyilli
 slug: meyilli
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► eğimli

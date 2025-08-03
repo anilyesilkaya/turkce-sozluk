@@ -2,6 +2,7 @@
 layout: term
 title: hafifletici neden
 slug: hafifletici-neden
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► hafifletici sebep

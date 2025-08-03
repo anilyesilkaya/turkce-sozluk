@@ -2,6 +2,7 @@
 layout: term
 title: meselesiz
 slug: meselesiz
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► sorunsuz

@@ -2,6 +2,7 @@
 layout: term
 title: dondurmak
 slug: dondurmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Donmasını sağlamak; buydurmak

@@ -2,6 +2,7 @@
 layout: term
 title: damla damla
 slug: damla-damla
+letter: D
 lisan: Türkçe
 anlamlar:
 - Damlalar biçiminde

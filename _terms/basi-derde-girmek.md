@@ -2,6 +2,7 @@
 layout: term
 title: başı derde girmek
 slug: basi-derde-girmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - sıkıntılı bir duruma düşmek

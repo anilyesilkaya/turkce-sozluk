@@ -2,6 +2,7 @@
 layout: term
 title: uç beyliği
 slug: uc-beyligi
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uç beyi olma durumu

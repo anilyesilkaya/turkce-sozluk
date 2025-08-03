@@ -2,6 +2,7 @@
 layout: term
 title: hacimsiz
 slug: hacimsiz
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hacmi olmayan; oylumsuz

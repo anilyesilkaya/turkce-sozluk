@@ -2,6 +2,7 @@
 layout: term
 title: nod
 slug: nod
+letter: N
 lisan: İngilizce nod
 anlamlar:
 - 343 yumru

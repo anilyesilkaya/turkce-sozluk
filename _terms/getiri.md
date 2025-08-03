@@ -2,6 +2,7 @@
 layout: term
 title: getiri
 slug: getiri
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► yarar

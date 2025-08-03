@@ -2,6 +2,7 @@
 layout: term
 title: postmodern
 slug: postmodern
+letter: P
 lisan: Fransızca postmoderne
 anlamlar:
 - Postmodernizm yanlısı

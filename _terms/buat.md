@@ -2,6 +2,7 @@
 layout: term
 title: buat
 slug: buat
+letter: B
 lisan: Fransızca boite
 anlamlar:
 - Elektrik akımı devrelerinde birleştirme yapmak veya akımı bir veya daha fazla kola ayırmak için kullanılan kutu

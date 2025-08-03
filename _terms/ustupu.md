@@ -2,6 +2,7 @@
 layout: term
 title: üstüpü
 slug: ustupu
+letter: Ü
 lisan: Rumca
 anlamlar:
 - Gemi kalafatında, işliklerde, buharlı makinelerde, temizlik işlerinde, otomobilcilikte kullanılan genellikle yoluntu ve artık pamuk ipliği veya didilmiş kenevir

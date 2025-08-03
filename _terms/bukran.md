@@ -2,6 +2,7 @@
 layout: term
 title: bukran
 slug: bukran
+letter: B
 lisan: Arapça buḳrān
 anlamlar:
 - Saraçların kullandığı yün kırpıntısı

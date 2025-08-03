@@ -2,6 +2,7 @@
 layout: term
 title: ev sahibi
 slug: ev-sahibi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Evi veya konutu yasalara göre tasarrufu altında bulunduran, evin sahibi olan kimse

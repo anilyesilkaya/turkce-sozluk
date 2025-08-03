@@ -2,6 +2,7 @@
 layout: term
 title: uskundura
 slug: uskundura
+letter: U
 lisan: İtalyanca scontro
 anlamlar:
 - Küçük deniz taşıtlarının suyun çekilmesi sebebiyle yanlarına sokulmasını önlemek üzere çift pervaneli gemilerin pervaneleri hizasına yerleştirilen yarım daire biçimindeki mahfaza

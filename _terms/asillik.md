@@ -2,6 +2,7 @@
 layout: term
 title: asıllık
 slug: asillik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Asıl olma durumu

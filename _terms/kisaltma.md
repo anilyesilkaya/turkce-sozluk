@@ -2,6 +2,7 @@
 layout: term
 title: kısaltma
 slug: kisaltma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kısaltmak işi; taksir

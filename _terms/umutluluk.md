@@ -2,6 +2,7 @@
 layout: term
 title: umutluluk
 slug: umutluluk
+letter: U
 lisan: Türkçe
 anlamlar:
 - Umutlu olma durumu; ümitlilik

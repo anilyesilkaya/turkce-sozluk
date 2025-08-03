@@ -2,6 +2,7 @@
 layout: term
 title: gökyüzü mavisi
 slug: gokyuzu-mavisi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Açık mavi

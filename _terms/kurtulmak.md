@@ -2,6 +2,7 @@
 layout: term
 title: kurtulmak
 slug: kurtulmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Tehlikeli veya kötü bir durumu atlatmak

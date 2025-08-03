@@ -2,6 +2,7 @@
 layout: term
 title: solaryum
 slug: solaryum
+letter: S
 lisan: Fransızca solarium
 anlamlar:
 - ► güneşletici

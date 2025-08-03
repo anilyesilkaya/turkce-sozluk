@@ -2,6 +2,7 @@
 layout: term
 title: başına geçirmek
 slug: basina-gecirmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - başına giymek

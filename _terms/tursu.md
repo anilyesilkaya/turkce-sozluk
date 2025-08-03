@@ -2,6 +2,7 @@
 layout: term
 title: turşu
 slug: tursu
+letter: T
 lisan: Farsça turşī
 anlamlar:
 - Tuzlu suda, sirkede bırakılarak özel bir kıvama getirilmiş sebze veya meyve

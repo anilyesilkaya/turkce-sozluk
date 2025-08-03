@@ -2,6 +2,7 @@
 layout: term
 title: cıvıtabilmek
 slug: civitabilmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cıvıtma ihtimali veya imkânı bulunmak

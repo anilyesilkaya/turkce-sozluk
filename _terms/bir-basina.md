@@ -2,6 +2,7 @@
 layout: term
 title: bir başına
 slug: bir-basina
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► tek başına

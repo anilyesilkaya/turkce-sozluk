@@ -2,6 +2,7 @@
 layout: term
 title: sorumlu tutmak
 slug: sorumlu-tutmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - sorumlu saymak, mesul olarak görmek

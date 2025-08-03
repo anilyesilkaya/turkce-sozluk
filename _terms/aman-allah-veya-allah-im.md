@@ -2,6 +2,7 @@
 layout: term
 title: aman Allah (veya Allah'ım)
 slug: aman-allah-veya-allah-im
+letter: A
 lisan: Türkçe
 anlamlar:
 - şaşma, beğenme veya beğenmeme, korku vb. duyguları belirtmek için kullanılan bir söz

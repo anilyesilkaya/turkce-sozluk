@@ -2,6 +2,7 @@
 layout: term
 title: afallama
 slug: afallama
+letter: A
 lisan: Türkçe
 anlamlar:
 - Afallamak durumu

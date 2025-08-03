@@ -2,6 +2,7 @@
 layout: term
 title: okşanmak
 slug: oksanmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Okşama işine konu olmak

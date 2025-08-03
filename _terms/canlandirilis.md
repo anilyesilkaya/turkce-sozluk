@@ -2,6 +2,7 @@
 layout: term
 title: canlandırılış
 slug: canlandirilis
+letter: C
 lisan: Türkçe
 anlamlar:
 - Canlandırılmak işi

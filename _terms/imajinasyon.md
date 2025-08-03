@@ -2,6 +2,7 @@
 layout: term
 title: imajinasyon
 slug: imajinasyon
+letter: I
 lisan: Fransızca imagination
 anlamlar:
 - ► imgelem

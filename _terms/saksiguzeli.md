@@ -2,6 +2,7 @@
 layout: term
 title: saksıgüzeli
 slug: saksiguzeli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Dam koruğugillerden, yaprakları etli, çiçekleri başak biçiminde bir süs bitkisi (Cotyledon umbilicus)

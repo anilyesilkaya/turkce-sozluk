@@ -2,6 +2,7 @@
 layout: term
 title: menfaattar
 slug: menfaattar
+letter: M
 lisan: Arapça menfaʿat + Farsça -dār
 anlamlar:
 - ► çıkarcı

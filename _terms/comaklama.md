@@ -2,6 +2,7 @@
 layout: term
 title: çomaklama
 slug: comaklama
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çomaklamak işi

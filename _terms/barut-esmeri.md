@@ -2,6 +2,7 @@
 layout: term
 title: barut esmeri
 slug: barut-esmeri
+letter: B
 lisan: Türkçe
 anlamlar:
 - Koyu esmer renkte olan (kimse)

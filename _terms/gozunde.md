@@ -2,6 +2,7 @@
 layout: term
 title: gözünde
 slug: gozunde
+letter: G
 lisan: Türkçe
 anlamlar:
 - (o kimseye) göre

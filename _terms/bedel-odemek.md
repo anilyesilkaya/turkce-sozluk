@@ -2,6 +2,7 @@
 layout: term
 title: bedel ödemek
 slug: bedel-odemek
+letter: B
 lisan: Türkçe
 anlamlar:
 - yapılan bir iş veya alınan bir şey karşılığında para ödemek

@@ -2,6 +2,7 @@
 layout: term
 title: çuhçuh
 slug: cuhcuh
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çocuk dilinde tren

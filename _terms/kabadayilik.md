@@ -2,6 +2,7 @@
 layout: term
 title: kabadayılık
 slug: kabadayilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kabadayı olma durumu; dayılık, efelik

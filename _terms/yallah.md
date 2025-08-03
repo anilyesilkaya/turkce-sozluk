@@ -2,6 +2,7 @@
 layout: term
 title: yallah
 slug: yallah
+letter: Y
 lisan: Arapça yā + Allāh
 anlamlar:
 - '"Haydi, yürü, kalk, git" anlamlarında kullanılan bir söz'

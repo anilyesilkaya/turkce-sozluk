@@ -2,6 +2,7 @@
 layout: term
 title: yerli dolap
 slug: yerli-dolap
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► gömme dolap

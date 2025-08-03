@@ -2,6 +2,7 @@
 layout: term
 title: orantısızlık
 slug: orantisizlik
+letter: O
 lisan: Türkçe
 anlamlar:
 - Orantısız olma durumu

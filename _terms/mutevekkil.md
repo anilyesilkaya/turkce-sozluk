@@ -2,6 +2,7 @@
 layout: term
 title: mütevekkil
 slug: mutevekkil
+letter: M
 lisan: Arapça mutevekkil
 anlamlar:
 - Her işini Tanrı'ya veya oluruna bırakmış, kadere boyun eğmiş

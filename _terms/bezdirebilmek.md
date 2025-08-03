@@ -2,6 +2,7 @@
 layout: term
 title: bezdirebilmek
 slug: bezdirebilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bezdirme ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: levendane
 slug: levendane
+letter: L
 lisan: Farsça levendāne
 anlamlar:
 - Levende yakışır bir biçimde, yakışıklı ve gösterişli bir tarzda

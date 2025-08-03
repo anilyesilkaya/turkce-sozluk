@@ -2,6 +2,7 @@
 layout: term
 title: mor
 slug: mor
+letter: M
 lisan: Türkçe
 anlamlar:
 - Kırmızı ile mavinin karışımından ortaya çıkan renk, menekşe renginin kırmızıya çalanı

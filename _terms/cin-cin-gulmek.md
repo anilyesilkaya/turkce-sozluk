@@ -2,6 +2,7 @@
 layout: term
 title: cin cin gülmek
 slug: cin-cin-gulmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - kurnazca gülmek

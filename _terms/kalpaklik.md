@@ -2,6 +2,7 @@
 layout: term
 title: kalpaklık
 slug: kalpaklik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalpak yapmaya elverişli

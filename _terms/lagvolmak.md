@@ -2,6 +2,7 @@
 layout: term
 title: lağvolmak
 slug: lagvolmak
+letter: L
 lisan: Arapça laġv + Türkçe olmak
 anlamlar:
 - ► fesholmak

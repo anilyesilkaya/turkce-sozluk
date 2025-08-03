@@ -2,6 +2,7 @@
 layout: term
 title: celpname
 slug: celpname
+letter: C
 lisan: Arapça celb + Farsça nāme
 anlamlar:
 - ► çağrı belgesi

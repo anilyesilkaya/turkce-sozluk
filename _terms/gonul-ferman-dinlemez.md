@@ -2,6 +2,7 @@
 layout: term
 title: gönül ferman dinlemez
 slug: gonul-ferman-dinlemez
+letter: G
 lisan: Türkçe
 anlamlar:
 - '"gönül sevdiğinden asla vazgeçmez" anlamında kullanılan bir söz'

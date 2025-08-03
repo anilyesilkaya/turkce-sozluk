@@ -2,6 +2,7 @@
 layout: term
 title: okul sonrası
 slug: okul-sonrasi
+letter: O
 lisan: Türkçe
 anlamlar:
 - Okul çağından sonraki çağ

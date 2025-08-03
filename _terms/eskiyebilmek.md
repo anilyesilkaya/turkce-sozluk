@@ -2,6 +2,7 @@
 layout: term
 title: eskiyebilmek
 slug: eskiyebilmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eskime ihtimali bulunmak

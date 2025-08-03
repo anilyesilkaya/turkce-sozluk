@@ -2,6 +2,7 @@
 layout: term
 title: şeytan otu
 slug: seytan-otu
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Maydanozgiller familyasından nemli yerlerde yetişen mavi çiçekli çok yıllık bir bitki (Seabiosa ukranica)

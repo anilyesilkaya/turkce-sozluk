@@ -2,6 +2,7 @@
 layout: term
 title: hayali kırılmak
 slug: hayali-kirilmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - çok istenilen veya umulan bir şeyin gerçekleşmeyişinden üzüntü duymak

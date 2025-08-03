@@ -2,6 +2,7 @@
 layout: term
 title: magazinleştirme
 slug: magazinlestirme
+letter: M
 lisan: Türkçe
 anlamlar:
 - Magazinleştirmek işi

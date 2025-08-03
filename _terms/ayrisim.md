@@ -2,6 +2,7 @@
 layout: term
 title: ayrışım
 slug: ayrisim
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayrışmak işi

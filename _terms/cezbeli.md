@@ -2,6 +2,7 @@
 layout: term
 title: cezbeli
 slug: cezbeli
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cezbesi olan

@@ -2,6 +2,7 @@
 layout: term
 title: limon gibi
 slug: limon-gibi
+letter: L
 lisan: Türkçe
 anlamlar:
 - sarı, çok sarı

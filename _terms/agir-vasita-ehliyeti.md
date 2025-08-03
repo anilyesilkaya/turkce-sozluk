@@ -2,6 +2,7 @@
 layout: term
 title: ağır vasıta ehliyeti
 slug: agir-vasita-ehliyeti
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağır vasıta sürücülerine verilen aracı kullanma belgesi

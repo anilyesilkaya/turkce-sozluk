@@ -2,6 +2,7 @@
 layout: term
 title: apayrı
 slug: apayri
+letter: A
 lisan: Türkçe
 anlamlar:
 - Büsbütün ayrı; bambaşka

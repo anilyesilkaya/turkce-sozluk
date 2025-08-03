@@ -2,6 +2,7 @@
 layout: term
 title: kumuç
 slug: kumuc
+letter: K
 lisan: Türkçe
 anlamlar:
 - İçine et, peynir, yağ vb. konularak yapılan bir tür dürüm

@@ -2,6 +2,7 @@
 layout: term
 title: fırlatılmak
 slug: firlatilmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fırlatma işi yapılmak

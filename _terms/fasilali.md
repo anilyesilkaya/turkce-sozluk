@@ -2,6 +2,7 @@
 layout: term
 title: fasılalı
 slug: fasilali
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► aralıklı

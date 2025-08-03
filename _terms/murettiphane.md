@@ -2,6 +2,7 @@
 layout: term
 title: mürettiphane
 slug: murettiphane
+letter: M
 lisan: Arapça murettib + Farsça ḫāne
 anlamlar:
 - ► dizgi yeri

@@ -2,6 +2,7 @@
 layout: term
 title: saniye
 slug: saniye
+letter: S
 lisan: Arapça s̱āniye
 anlamlar:
 - Bir dakikanın altmışta biri olan zaman birimi

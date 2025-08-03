@@ -2,6 +2,7 @@
 layout: term
 title: fiske fiske kabarmak (veya olmak)
 slug: fiske-fiske-kabarmak-veya-olmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - kabarcıklar oluşmak

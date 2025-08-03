@@ -2,6 +2,7 @@
 layout: term
 title: çalpara
 slug: calpara
+letter: Ç
 lisan: Farsça çār + pāre
 anlamlar:
 - Parmaklara takılıp çalınan zil veya buna benzer ses çıkarıcı araç

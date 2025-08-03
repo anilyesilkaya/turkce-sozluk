@@ -2,6 +2,7 @@
 layout: term
 title: duygu durumu bozukluğu
 slug: duygu-durumu-bozuklugu
+letter: D
 lisan: Türkçe
 anlamlar:
 - İç veya dış etmenlere göre dalgalanma gösteren neşelilik, öfkelilik, konuşma, düşünme, harekette hızlanma, benlik kabarması, aşırı güçlülük, büyüklük duyguları ve sanrıları gibi ruhsal süreçlerin uzun süreli ve olağandışı şiddette yaşanıyor olması; benlik ikileşmesi, iki uçlu bozukluk, bipolar bozukluk, manik depresif bozukluk

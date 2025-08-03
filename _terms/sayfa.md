@@ -2,6 +2,7 @@
 layout: term
 title: sayfa
 slug: sayfa
+letter: S
 lisan: Arapça ṣaḥīfe
 anlamlar:
 - Üzerine yazı yazılan veya basılan bir kâğıt yaprağın iki yüzünden her biri; sahife

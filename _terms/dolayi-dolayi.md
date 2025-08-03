@@ -2,6 +2,7 @@
 layout: term
 title: dolayı dolayı
 slug: dolayi-dolayi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dönerek

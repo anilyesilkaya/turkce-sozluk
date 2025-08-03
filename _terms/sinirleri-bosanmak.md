@@ -2,6 +2,7 @@
 layout: term
 title: sinirleri boşanmak
 slug: sinirleri-bosanmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - sinirlenip kendini tutamayarak gülmek, ağlamak veya bağırmak

@@ -2,6 +2,7 @@
 layout: term
 title: kromozom
 slug: kromozom
+letter: K
 lisan: Fransızca chromosome
 anlamlar:
 - Karyokinez bölünme sırasında hücre çekirdeğinin içinde beliren ve kromatinin parçalara ayrılmasıyla oluşan, canlılarda bazı özelliklerin bireyden bireye aktarılmasında görevli olan, DNA içeren, kıvrık çubuk biçimindeki kalıtımsal yapı

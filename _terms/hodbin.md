@@ -2,6 +2,7 @@
 layout: term
 title: hodbin
 slug: hodbin
+letter: H
 lisan: Farsça ḫōdbīn
 anlamlar:
 - ► bencil

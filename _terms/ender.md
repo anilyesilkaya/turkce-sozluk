@@ -2,6 +2,7 @@
 layout: term
 title: ender
 slug: ender
+letter: E
 lisan: Arapça ender
 anlamlar:
 - Çok az, çok seyrek

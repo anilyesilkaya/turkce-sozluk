@@ -2,6 +2,7 @@
 layout: term
 title: brik
 slug: brik
+letter: B
 lisan: İngilizce break
 anlamlar:
 - Önde çok yüksek bir oturma yeri, arkada da boylamasına yerleştirilmiş oturacak yerleri bulunan dört tekerlekli, yaylı at arabası

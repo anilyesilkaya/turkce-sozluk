@@ -2,6 +2,7 @@
 layout: term
 title: şirazeli
 slug: sirazeli
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şirazesi olan

@@ -2,6 +2,7 @@
 layout: term
 title: inkıraz gelmek
 slug: inkiraz-gelmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - yok olmak

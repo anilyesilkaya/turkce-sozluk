@@ -2,6 +2,7 @@
 layout: term
 title: iç dünya
 slug: ic-dunya
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bireyin ruhsal yaşamının bütünü

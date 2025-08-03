@@ -2,6 +2,7 @@
 layout: term
 title: kirişleme
 slug: kirisleme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kirişlemek işi

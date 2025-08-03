@@ -2,6 +2,7 @@
 layout: term
 title: f, F
 slug: f-f
+letter: F
 lisan: Türkçe
 anlamlar:
 - Türk alfabesinin yedinci sırasında yer alan ve fe adı verilen bu harf, ses bilgisi bakımından sert, sürtünücü diş dudak ünsüzünü gösterir

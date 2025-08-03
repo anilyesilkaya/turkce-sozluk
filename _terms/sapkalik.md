@@ -2,6 +2,7 @@
 layout: term
 title: şapkalık
 slug: sapkalik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şapka koymaya yarayan şey veya yer

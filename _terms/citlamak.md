@@ -2,6 +2,7 @@
 layout: term
 title: çıtlamak
 slug: citlamak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - '"Çıt" sesi çıkarmak'

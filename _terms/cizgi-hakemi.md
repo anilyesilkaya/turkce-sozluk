@@ -2,6 +2,7 @@
 layout: term
 title: çizgi hakemi
 slug: cizgi-hakemi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Voleybolda ve teniste topun veya ayağın çizgiye temas durumunu belirlemekle görevli hakem

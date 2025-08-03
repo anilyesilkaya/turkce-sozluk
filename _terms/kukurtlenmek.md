@@ -2,6 +2,7 @@
 layout: term
 title: kükürtlenmek
 slug: kukurtlenmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kükürtleme işine konu olmak veya kükürtleme işi yapılmak

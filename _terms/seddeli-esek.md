@@ -2,6 +2,7 @@
 layout: term
 title: şeddeli eşek
 slug: seddeli-esek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - “Çok kaba, anlayışsız” anlamında bir hakaret sözü

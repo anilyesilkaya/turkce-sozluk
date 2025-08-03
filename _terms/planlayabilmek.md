@@ -2,6 +2,7 @@
 layout: term
 title: planlayabilmek
 slug: planlayabilmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Planlama ihtimali veya imkânı bulunmak

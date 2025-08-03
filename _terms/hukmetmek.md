@@ -2,6 +2,7 @@
 layout: term
 title: hükmetmek
 slug: hukmetmek
+letter: H
 lisan: Arapça ḥukm + Türkçe etmek
 anlamlar:
 - Egemenliği altında bulundurmak

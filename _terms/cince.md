@@ -2,6 +2,7 @@
 layout: term
 title: Çince
 slug: cince
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çinlilerin kullandığı dil

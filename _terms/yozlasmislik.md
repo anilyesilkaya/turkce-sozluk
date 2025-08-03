@@ -2,6 +2,7 @@
 layout: term
 title: yozlaşmışlık
 slug: yozlasmislik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yozlaşmış olma durumu

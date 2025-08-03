@@ -2,6 +2,7 @@
 layout: term
 title: helal
 slug: helal
+letter: H
 lisan: Arapça ḥalāl
 anlamlar:
 - Dinin kurallarına aykırı olmayan, dinî bakımdan yasaklanmamış olan, haram karşıtı

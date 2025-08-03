@@ -2,6 +2,7 @@
 layout: term
 title: didik didik aramak
 slug: didik-didik-aramak
+letter: D
 lisan: Türkçe
 anlamlar:
 - ayrıntılı bir biçimde aramak

@@ -2,6 +2,7 @@
 layout: term
 title: fule
 slug: fule
+letter: F
 lisan: Fransızca foulée
 anlamlar:
 - Adım aralığı

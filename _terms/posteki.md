@@ -2,6 +2,7 @@
 layout: term
 title: pösteki
 slug: posteki
+letter: P
 lisan: Farsça pūstekī
 anlamlar:
 - Koyun veya keçi postu

@@ -2,6 +2,7 @@
 layout: term
 title: çığlık atmak (veya koparmak veya basmak)
 slug: ciglik-atmak-veya-koparmak-veya-basmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - kulak tırmalayıcı korkunç sesler çıkararak acı acı bağırmak

@@ -2,6 +2,7 @@
 layout: term
 title: ığıl
 slug: igil
+letter: I
 lisan: Türkçe
 anlamlar:
 - Yavaş akan su

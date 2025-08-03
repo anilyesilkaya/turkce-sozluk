@@ -2,6 +2,7 @@
 layout: term
 title: mahsulat
 slug: mahsulat
+letter: M
 lisan: Arapça maḥṣūlāt
 anlamlar:
 - Ürünler

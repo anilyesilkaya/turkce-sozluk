@@ -2,6 +2,7 @@
 layout: term
 title: udi
 slug: udi
+letter: U
 lisan: Arapça ʿūdī
 anlamlar:
 - Ut çalan sanatkâr; utçu

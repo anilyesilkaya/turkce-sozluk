@@ -2,6 +2,7 @@
 layout: term
 title: tereddütsüz
 slug: tereddutsuz
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► duraksamasız

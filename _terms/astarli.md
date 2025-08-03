@@ -2,6 +2,7 @@
 layout: term
 title: astarlı
 slug: astarli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Astar geçirilmiş, astarlanmış

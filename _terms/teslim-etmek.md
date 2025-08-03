@@ -2,6 +2,7 @@
 layout: term
 title: teslim etmek
 slug: teslim-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - bir şeyi sahibine vermek

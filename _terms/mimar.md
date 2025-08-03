@@ -2,6 +2,7 @@
 layout: term
 title: mimar
 slug: mimar
+letter: M
 lisan: Arapça miʿmār
 anlamlar:
 - Yapıları belirli ölçü ve kurallara göre tasarlayan kimse

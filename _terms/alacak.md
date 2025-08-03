@@ -2,6 +2,7 @@
 layout: term
 title: alacak
 slug: alacak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir hesap gereğince daha alınmamış olan para, mal vb. şey; takanak, matlup, verecek karşıtı

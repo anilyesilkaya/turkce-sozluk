@@ -2,6 +2,7 @@
 layout: term
 title: camcılık
 slug: camcilik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Camcının yaptığı iş

@@ -2,6 +2,7 @@
 layout: term
 title: müjdelemek
 slug: mujdelemek
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► muştulamak

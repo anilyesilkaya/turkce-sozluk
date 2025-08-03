@@ -2,6 +2,7 @@
 layout: term
 title: faraziye
 slug: faraziye
+letter: F
 lisan: Arapça farżiyye
 anlamlar:
 - ► varsayım

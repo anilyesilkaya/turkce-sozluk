@@ -2,6 +2,7 @@
 layout: term
 title: ücretsiz
 slug: ucretsiz
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Bir karşılık ödemeden alınan

@@ -2,6 +2,7 @@
 layout: term
 title: tırmık
 slug: tirmik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tırnak beresi, tırnak çiziği

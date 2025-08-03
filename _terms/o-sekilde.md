@@ -2,6 +2,7 @@
 layout: term
 title: 'o şekilde '
 slug: o-sekilde
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► öyle

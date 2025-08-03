@@ -2,6 +2,7 @@
 layout: term
 title: basireti bağlanmak
 slug: basireti-baglanmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - iyi düşünemez, gerçeği göremez bir duruma düşmek

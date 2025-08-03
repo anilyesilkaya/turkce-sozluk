@@ -2,6 +2,7 @@
 layout: term
 title: göçürmek
 slug: gocurmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Göçmesine sebep olmak

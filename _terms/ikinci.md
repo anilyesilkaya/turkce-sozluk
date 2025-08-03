@@ -2,6 +2,7 @@
 layout: term
 title: ikinci
 slug: ikinci
+letter: I
 lisan: Türkçe
 anlamlar:
 - İki sayısının sıra sıfatı

@@ -2,6 +2,7 @@
 layout: term
 title: cesaretsizce
 slug: cesaretsizce
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cesaretsiz bir biçimde; cüretsizce

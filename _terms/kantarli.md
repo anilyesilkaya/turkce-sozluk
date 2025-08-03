@@ -2,6 +2,7 @@
 layout: term
 title: kantarlı
 slug: kantarli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çok ağır

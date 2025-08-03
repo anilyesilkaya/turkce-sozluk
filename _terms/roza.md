@@ -2,6 +2,7 @@
 layout: term
 title: roza
 slug: roza
+letter: R
 lisan: İtalyanca rosa
 anlamlar:
 - Bir tür pembe elmas

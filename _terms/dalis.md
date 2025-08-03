@@ -2,6 +2,7 @@
 layout: term
 title: dalış
 slug: dalis
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dalmak işi

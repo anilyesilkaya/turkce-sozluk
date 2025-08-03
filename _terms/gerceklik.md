@@ -2,6 +2,7 @@
 layout: term
 title: gerçeklik
 slug: gerceklik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gerçek olan, var olan şeylerin tümü; gerçek, asıl, hakikat, hakikilik, sahihlik, şeniyet, realite, reellik

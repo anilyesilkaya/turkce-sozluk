@@ -2,6 +2,7 @@
 layout: term
 title: lütfetme
 slug: lutfetme
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lütfetmek işi

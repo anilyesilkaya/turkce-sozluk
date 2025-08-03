@@ -2,6 +2,7 @@
 layout: term
 title: dirsek dirseğe
 slug: dirsek-dirsege
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çok sıkışık bir durumda, yan yana bir biçimde

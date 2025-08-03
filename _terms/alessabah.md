@@ -2,6 +2,7 @@
 layout: term
 title: alessabah
 slug: alessabah
+letter: A
 lisan: Arapça ʿale'ṣ-ṣabāḥ
 anlamlar:
 - Sabah erkenden

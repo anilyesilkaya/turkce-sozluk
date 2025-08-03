@@ -2,6 +2,7 @@
 layout: term
 title: yoluk
 slug: yoluk
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yolunmuş olan

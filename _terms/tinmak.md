@@ -2,6 +2,7 @@
 layout: term
 title: tınmak
 slug: tinmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Ses çıkarmak

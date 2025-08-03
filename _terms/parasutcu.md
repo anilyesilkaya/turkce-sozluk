@@ -2,6 +2,7 @@
 layout: term
 title: paraşütçü
 slug: parasutcu
+letter: P
 lisan: Türkçe
 anlamlar:
 - Paraşütle atlayarak yere inen kimse

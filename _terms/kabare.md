@@ -2,6 +2,7 @@
 layout: term
 title: kabare
 slug: kabare
+letter: K
 lisan: Fransızca cabaret
 anlamlar:
 - Çeşitli gösterilerin yapıldığı eğlence yeri

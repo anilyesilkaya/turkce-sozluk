@@ -2,6 +2,7 @@
 layout: term
 title: kuvvetli
 slug: kuvvetli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Gücü çok olan, zorlu, şiddetli

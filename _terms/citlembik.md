@@ -2,6 +2,7 @@
 layout: term
 title: çitlembik
 slug: citlembik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Kara ağaçgillerden, düz kabuklu, kerestesi sert ve dayanıklı bir ağaç; çıtlık, menengiç, bıttım (Celtis australis)

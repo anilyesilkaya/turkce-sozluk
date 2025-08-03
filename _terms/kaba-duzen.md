@@ -2,6 +2,7 @@
 layout: term
 title: kaba düzen
 slug: kaba-duzen
+letter: K
 lisan: Türkçe
 anlamlar:
 - Şöyle böyle, üstünkörü yapılan iş

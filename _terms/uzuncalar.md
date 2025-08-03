@@ -2,6 +2,7 @@
 layout: term
 title: uzunçalar
 slug: uzuncalar
+letter: U
 lisan: Türkçe
 anlamlar:
 - Üzerine seslerin düşük devirle kaydedildiği büyük boyutlu plak

@@ -2,6 +2,7 @@
 layout: term
 title: Acemleştirme
 slug: acemlestirme
+letter: A
 lisan: Türkçe
 anlamlar:
 - Acemleştirmek işi; Farslaştırma

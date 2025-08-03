@@ -2,6 +2,7 @@
 layout: term
 title: kafasına dank etmek
 slug: kafasina-dank-etmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir olay sebebiyle birden ayılmak, doğruyu anlamak

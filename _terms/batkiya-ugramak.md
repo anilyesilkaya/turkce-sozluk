@@ -2,6 +2,7 @@
 layout: term
 title: batkıya uğramak
 slug: batkiya-ugramak
+letter: B
 lisan: Türkçe
 anlamlar:
 - hüsranla karşılaşmak

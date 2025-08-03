@@ -2,6 +2,7 @@
 layout: term
 title: teraryum
 slug: teraryum
+letter: T
 lisan: Almanca Terrarium
 anlamlar:
 - Böcekler, sürüngenler ve bazı bitki türlerinin yaşadıkları doğal alanların taklidi olan, akvaryum benzeri yapay yaşam alanları

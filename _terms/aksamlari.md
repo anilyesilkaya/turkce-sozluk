@@ -2,6 +2,7 @@
 layout: term
 title: akşamları
 slug: aksamlari
+letter: A
 lisan: Türkçe
 anlamlar:
 - Akşam vaktinde

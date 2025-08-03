@@ -2,6 +2,7 @@
 layout: term
 title: tuğgenerallik
 slug: tuggenerallik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tuğgeneral olma durumu

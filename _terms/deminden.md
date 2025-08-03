@@ -2,6 +2,7 @@
 layout: term
 title: deminden
 slug: deminden
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► demin

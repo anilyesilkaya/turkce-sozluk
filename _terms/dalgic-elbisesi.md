@@ -2,6 +2,7 @@
 layout: term
 title: dalgıç elbisesi
 slug: dalgic-elbisesi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dalgıçların su altında hareketlerini engellemeden vücutlarını çeşitli etkenlerden korumak için özel olarak yapılmış elbise

@@ -2,6 +2,7 @@
 layout: term
 title: kâr etmek
 slug: kar-etmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - kazanç elde etmek, yarar sağlamak

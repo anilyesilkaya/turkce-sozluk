@@ -2,6 +2,7 @@
 layout: term
 title: hışırdamak
 slug: hisirdamak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Kâğıt, kumaş, kuru yaprak vb. nesneler birbirlerine sürtünürken, buruşturulurken "hışır" diye ses çıkarmak

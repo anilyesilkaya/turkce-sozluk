@@ -2,6 +2,7 @@
 layout: term
 title: ayrıcalıklı
 slug: ayricalikli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayrıcalığı olan, ayrıcalık tanınan; imtiyazlı

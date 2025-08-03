@@ -2,6 +2,7 @@
 layout: term
 title: avize ağacı
 slug: avize-agaci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Zambakgillerden, Amerika'dan dünyanın her yanına yayılmış olan, avize biçiminde sarkık, iri ve beyaz çiçekli bir süs ağacı (Yucca glosiosa)

@@ -2,6 +2,7 @@
 layout: term
 title: katranlamak
 slug: katranlamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir yere, bir şeye katran sürerek katranla kaplamak

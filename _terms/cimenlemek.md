@@ -2,6 +2,7 @@
 layout: term
 title: çimenlemek
 slug: cimenlemek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çimenli hâle getirmek, çimen ekmek

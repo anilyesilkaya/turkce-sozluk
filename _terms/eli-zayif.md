@@ -2,6 +2,7 @@
 layout: term
 title: eli zayıf
 slug: eli-zayif
+letter: E
 lisan: Türkçe
 anlamlar:
 - İmkânları az

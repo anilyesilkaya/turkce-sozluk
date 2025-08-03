@@ -2,6 +2,7 @@
 layout: term
 title: öge
 slug: oge
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Bir bütünü oluşturan, bütünden ayrıştırıldığında da kendi başına anlam taşıyan parça; unsur, uzuv, eleman

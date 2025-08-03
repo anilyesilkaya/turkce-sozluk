@@ -2,6 +2,7 @@
 layout: term
 title: boğa güreşi
 slug: boga-guresi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Genellikle İspanya ve Meksika'da, özel olarak yetiştirilmiş boğayı yenmek amacıyla yapılan gösteri; korida

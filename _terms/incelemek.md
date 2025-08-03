@@ -2,6 +2,7 @@
 layout: term
 title: incelemek
 slug: incelemek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bir işi veya bir şeyi ele alıp özelliklerini, ayrıntılarını inceden inceye, özenli bir biçimde anlamaya, öğrenmeye çalışmak; tetkik etmek

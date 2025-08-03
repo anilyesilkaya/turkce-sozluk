@@ -2,6 +2,7 @@
 layout: term
 title: püskürtülmek
 slug: puskurtulmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Püskürtme işi yapılmak

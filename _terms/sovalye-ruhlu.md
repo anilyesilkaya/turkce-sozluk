@@ -2,6 +2,7 @@
 layout: term
 title: şövalye ruhlu
 slug: sovalye-ruhlu
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şövalye geleneği çerçevesinde yetişen (kimse)

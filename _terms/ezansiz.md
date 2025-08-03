@@ -2,6 +2,7 @@
 layout: term
 title: ezansız
 slug: ezansiz
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ezan okunmayan (yer)

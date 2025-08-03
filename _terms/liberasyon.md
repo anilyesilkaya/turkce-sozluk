@@ -2,6 +2,7 @@
 layout: term
 title: liberasyon
 slug: liberasyon
+letter: L
 lisan: Fransızca libération
 anlamlar:
 - ► liberalizm

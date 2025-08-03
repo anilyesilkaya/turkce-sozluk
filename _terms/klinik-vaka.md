@@ -2,6 +2,7 @@
 layout: term
 title: klinik vaka
 slug: klinik-vaka
+letter: K
 lisan: Türkçe
 anlamlar:
 - Hastaneye yatırılarak tedavi edilmesi gereken hastalık

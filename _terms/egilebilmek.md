@@ -2,6 +2,7 @@
 layout: term
 title: eğilebilmek
 slug: egilebilmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eğilme ihtimali veya imkânı bulunmak

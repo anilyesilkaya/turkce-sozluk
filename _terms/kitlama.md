@@ -2,6 +2,7 @@
 layout: term
 title: kıtlama
 slug: kitlama
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kıtlamak işi

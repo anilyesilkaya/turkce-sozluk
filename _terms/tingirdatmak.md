@@ -2,6 +2,7 @@
 layout: term
 title: tıngırdatmak
 slug: tingirdatmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tıngırtı çıkarmak; tıngıldatmak

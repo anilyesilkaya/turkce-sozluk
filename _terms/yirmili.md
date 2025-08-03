@@ -2,6 +2,7 @@
 layout: term
 title: yirmili
 slug: yirmili
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yirmi parçası bulunan, yirmi parçadan oluşan

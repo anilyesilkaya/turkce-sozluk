@@ -2,6 +2,7 @@
 layout: term
 title: şıppadak
 slug: sippadak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Birdenbire ve beklenmeyen bir zamanda

@@ -2,6 +2,7 @@
 layout: term
 title: kütürdeme
 slug: kuturdeme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kütürdemek işi

@@ -2,6 +2,7 @@
 layout: term
 title: karmakarışık olmak
 slug: karmakarisik-olmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - çok karışık duruma gelmek

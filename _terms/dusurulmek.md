@@ -2,6 +2,7 @@
 layout: term
 title: düşürülmek
 slug: dusurulmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düşürme işine konu olmak veya düşürme işi yapılmak

@@ -2,6 +2,7 @@
 layout: term
 title: ayrım
 slug: ayrim
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayırmak işi; tefrik

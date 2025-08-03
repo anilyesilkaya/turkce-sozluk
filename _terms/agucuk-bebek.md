@@ -2,6 +2,7 @@
 layout: term
 title: agucuk bebek
 slug: agucuk-bebek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Büyüdükleri hâlde kimi zaman bebekliğe özenen kimseler için alay yollu söylenen söz; agu bebek

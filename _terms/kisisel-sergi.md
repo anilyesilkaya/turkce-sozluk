@@ -2,6 +2,7 @@
 layout: term
 title: kişisel sergi
 slug: kisisel-sergi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sadece bir sanatçının eserlerinin yer aldığı sergi

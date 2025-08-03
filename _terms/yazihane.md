@@ -2,6 +2,7 @@
 layout: term
 title: yazıhane
 slug: yazihane
+letter: Y
 lisan: Türkçe yazı + Farsça ḫāne
 anlamlar:
 - ► büro

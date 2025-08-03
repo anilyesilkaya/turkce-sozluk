@@ -2,6 +2,7 @@
 layout: term
 title: alafranga
 slug: alafranga
+letter: A
 lisan: İtalyanca alla franca
 anlamlar:
 - Frenklerin töre, âdet ve hayatına uygun, Frenklerle ilgili; Batılıca, alaturka karşıtı

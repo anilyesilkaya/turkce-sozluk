@@ -2,6 +2,7 @@
 layout: term
 title: bir zamanlar
 slug: bir-zamanlar
+letter: B
 lisan: Türkçe
 anlamlar:
 - Zamanında; vaktiyle, bir keresinde, bir vakitler, vaktizamanında

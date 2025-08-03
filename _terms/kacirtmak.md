@@ -2,6 +2,7 @@
 layout: term
 title: kaçırtmak
 slug: kacirtmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaçırmasını sağlamak

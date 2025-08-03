@@ -2,6 +2,7 @@
 layout: term
 title: kısa vadeli
 slug: kisa-vadeli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Süresi az olan

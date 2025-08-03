@@ -2,6 +2,7 @@
 layout: term
 title: asık surat
 slug: asik-surat
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kızgınlığını, öfkesini ve hoşnutsuzluğunu belli eden somurtkan yüz; asık yüz, çatık yüz, çatık çehre, çatık surat, eğri çehre, eğri yüz

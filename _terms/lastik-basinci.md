@@ -2,6 +2,7 @@
 layout: term
 title: 'lastik basıncı '
 slug: lastik-basinci
+letter: L
 lisan: Türkçe
 anlamlar:
 - Havanın otomobil lastiği içerisine uyguladığı kuvvet

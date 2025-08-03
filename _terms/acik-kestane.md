@@ -2,6 +2,7 @@
 layout: term
 title: açık kestane
 slug: acik-kestane
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kestane renginin bir veya birkaç ton açığı

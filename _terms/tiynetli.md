@@ -2,6 +2,7 @@
 layout: term
 title: tıynetli
 slug: tiynetli
+letter: T
 lisan: Türkçe
 anlamlar:
 - İyi huylu

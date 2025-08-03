@@ -2,6 +2,7 @@
 layout: term
 title: hakaretamiz
 slug: hakaretamiz
+letter: H
 lisan: Arapça ḥaḳāret + Farsça -āmīz
 anlamlar:
 - Hakaret içeren, hakaret dolu

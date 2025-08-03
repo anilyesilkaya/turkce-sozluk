@@ -2,6 +2,7 @@
 layout: term
 title: soyunma
 slug: soyunma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Soyunmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: sakinleşebilme
 slug: sakinlesebilme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sakinleşebilmek işi

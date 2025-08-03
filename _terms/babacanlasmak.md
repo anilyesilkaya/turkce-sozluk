@@ -2,6 +2,7 @@
 layout: term
 title: babacanlaşmak
 slug: babacanlasmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Babacan duruma gelmek

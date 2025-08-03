@@ -2,6 +2,7 @@
 layout: term
 title: iftarlık
 slug: iftarlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - Ramazanda iftar açmak için ilk ağızda yenilecek ve içileceklerin tümü; iftariye, iftariyelik

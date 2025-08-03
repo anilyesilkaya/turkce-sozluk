@@ -2,6 +2,7 @@
 layout: term
 title: hoşbeş etmek
 slug: hosbes-etmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - sohbet etmek

@@ -2,6 +2,7 @@
 layout: term
 title: armoniler
 slug: armoniler
+letter: A
 lisan: Türkçe
 anlamlar:
 - Frekansı, ana sesin frekansının tam katı olan sesler

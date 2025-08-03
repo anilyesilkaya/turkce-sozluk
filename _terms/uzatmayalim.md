@@ -2,6 +2,7 @@
 layout: term
 title: uzatmayalım
 slug: uzatmayalim
+letter: U
 lisan: Türkçe
 anlamlar:
 - kısacası

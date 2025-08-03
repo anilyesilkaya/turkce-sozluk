@@ -2,6 +2,7 @@
 layout: term
 title: yıldız haritası
 slug: yildiz-haritasi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Gece gökyüzünde görülen gök cisimlerinin yer aldığı harita

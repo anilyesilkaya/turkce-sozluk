@@ -2,6 +2,7 @@
 layout: term
 title: balsamlı
 slug: balsamli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Balsam içeren, antiseptik ve besleyici özelliği olan (ilaç, merhem vb.)

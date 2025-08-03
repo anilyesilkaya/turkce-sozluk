@@ -2,6 +2,7 @@
 layout: term
 title: açılıp saçılmak
 slug: acilip-sacilmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - kadın açık saçık giyinmeye başlamak

@@ -2,6 +2,7 @@
 layout: term
 title: katıkçı
 slug: katikci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Süt ürünleri satan kimse

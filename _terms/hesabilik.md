@@ -2,6 +2,7 @@
 layout: term
 title: hesabilik
 slug: hesabilik
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► hesapçılık

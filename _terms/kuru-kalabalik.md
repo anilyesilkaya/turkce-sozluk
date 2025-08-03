@@ -2,6 +2,7 @@
 layout: term
 title: kuru kalabalık
 slug: kuru-kalabalik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Hiçbir iş yapmayan insan topluluğu

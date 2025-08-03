@@ -2,6 +2,7 @@
 layout: term
 title: balcılık
 slug: balcilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Balcının yaptığı iş

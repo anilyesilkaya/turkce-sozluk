@@ -2,6 +2,7 @@
 layout: term
 title: baş tacı
 slug: bas-taci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çok sevilen kimse

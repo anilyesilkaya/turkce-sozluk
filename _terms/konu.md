@@ -2,6 +2,7 @@
 layout: term
 title: konu
 slug: konu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Konuşmada, yazıda, eserde ele alınan düşünce, olay veya durum; bap, mevzu, süje

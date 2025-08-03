@@ -2,6 +2,7 @@
 layout: term
 title: elektronik öğrenme
 slug: elektronik-ogrenme
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► çevrim içi öğrenme

@@ -2,6 +2,7 @@
 layout: term
 title: gönenç
 slug: gonenc
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bolluk, rahatlık ve varlık içinde iyi yaşama; refah

@@ -2,6 +2,7 @@
 layout: term
 title: ahlaken
 slug: ahlaken
+letter: A
 lisan: Arapça aḫlāḳen
 anlamlar:
 - ► ahlakça

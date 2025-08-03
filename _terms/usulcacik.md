@@ -2,6 +2,7 @@
 layout: term
 title: usulcacık
 slug: usulcacik
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► usul (III)

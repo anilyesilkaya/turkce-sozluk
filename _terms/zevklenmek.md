@@ -2,6 +2,7 @@
 layout: term
 title: zevklenmek
 slug: zevklenmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zevk duymak; hoşlanmak

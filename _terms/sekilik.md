@@ -2,6 +2,7 @@
 layout: term
 title: sekilik
 slug: sekilik
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► tribün

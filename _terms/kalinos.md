@@ -2,6 +2,7 @@
 layout: term
 title: kalinos
 slug: kalinos
+letter: K
 lisan: Rumca
 anlamlar:
 - Levreğe benzer bir balık

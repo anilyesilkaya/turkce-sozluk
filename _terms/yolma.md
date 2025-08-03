@@ -2,6 +2,7 @@
 layout: term
 title: yolma
 slug: yolma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yolmak işi

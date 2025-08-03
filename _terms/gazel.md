@@ -2,6 +2,7 @@
 layout: term
 title: gazel
 slug: gazel
+letter: G
 lisan: Türkçe
 anlamlar:
 - Sonbaharda kuruyup dökülen ağaç yaprağı

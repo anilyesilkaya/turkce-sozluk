@@ -2,6 +2,7 @@
 layout: term
 title: bando
 slug: bando
+letter: B
 lisan: İtalyanca bando
 anlamlar:
 - Türlü üflemeli ve vurmalı çalgılardan oluşan ve genellikle geçit törenlerinde yer alan mızıkacılar topluluğu veya takımı; mızıka

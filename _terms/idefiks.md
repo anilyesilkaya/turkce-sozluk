@@ -2,6 +2,7 @@
 layout: term
 title: idefiks
 slug: idefiks
+letter: I
 lisan: Fransızca idée fixe
 anlamlar:
 - ► saplantı

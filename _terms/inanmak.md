@@ -2,6 +2,7 @@
 layout: term
 title: inanmak
 slug: inanmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bir şeyi doğru olarak benimsemek

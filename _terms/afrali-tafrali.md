@@ -2,6 +2,7 @@
 layout: term
 title: afralı tafralı
 slug: afrali-tafrali
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kendini üstün gören, üstünlük taslayan; afurlu tafurlu

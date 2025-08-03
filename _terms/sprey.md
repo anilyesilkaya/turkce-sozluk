@@ -2,6 +2,7 @@
 layout: term
 title: sprey
 slug: sprey
+letter: S
 lisan: İngilizce spray
 anlamlar:
 - Çok ince damlacıklar durumunda püskürtülen sıvı

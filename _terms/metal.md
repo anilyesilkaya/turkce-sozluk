@@ -2,6 +2,7 @@
 layout: term
 title: metal
 slug: metal
+letter: M
 lisan: Fransızca métal
 anlamlar:
 - Çok yüksek elektrik ve ısı iletkenliği, kendine özgü parlaklığı olan, oksijenli birleşimiyle çoğunlukla bazik oksitler veren madde; maden

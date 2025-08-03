@@ -2,6 +2,7 @@
 layout: term
 title: uyuzlu
 slug: uyuzlu
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyuz hastalığı olan (kimse)

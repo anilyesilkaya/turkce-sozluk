@@ -2,6 +2,7 @@
 layout: term
 title: dişe dokunur (olmak)
 slug: dise-dokunur-olmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - işe yarar, belirtilmeye değer, önemli (olmak)

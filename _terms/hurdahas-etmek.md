@@ -2,6 +2,7 @@
 layout: term
 title: hurdahaş etmek
 slug: hurdahas-etmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - kırıp dökmek, parçalamak

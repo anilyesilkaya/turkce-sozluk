@@ -2,6 +2,7 @@
 layout: term
 title: yerdeş
 slug: yerdes
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► memleketli

@@ -2,6 +2,7 @@
 layout: term
 title: yaratıcı
 slug: yaratici
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaratma yeteneği olan; mucit, kreatif

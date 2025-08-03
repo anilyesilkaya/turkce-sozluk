@@ -2,6 +2,7 @@
 layout: term
 title: sağ salim
 slug: sag-salim
+letter: S
 lisan: Türkçe
 anlamlar:
 - Hiçbir zarar görmeden; sağ selamet

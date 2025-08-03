@@ -2,6 +2,7 @@
 layout: term
 title: trişin
 slug: trisin
+letter: T
 lisan: Fransızca trichine
 anlamlar:
 - Ergin durumda olan, domuzdan başka, insanlarla birçok memelinin ince bağırsağında yaşayan, ipsiler cinsinden bir solucan (Trichinella spiralis)

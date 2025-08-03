@@ -2,6 +2,7 @@
 layout: term
 title: kulak kesilmek
 slug: kulak-kesilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - büyük bir dikkatle dinlemek

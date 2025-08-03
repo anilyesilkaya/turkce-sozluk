@@ -2,6 +2,7 @@
 layout: term
 title: melunca
 slug: melunca
+letter: M
 lisan: Türkçe
 anlamlar:
 - Meluna yakışan, melun gibi

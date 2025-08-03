@@ -2,6 +2,7 @@
 layout: term
 title: bezzaz
 slug: bezzaz
+letter: B
 lisan: Arapça bezzāz
 anlamlar:
 - ► manifaturacı

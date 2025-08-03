@@ -2,6 +2,7 @@
 layout: term
 title: ülfet etmek
 slug: ulfet-etmek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - görüşüp konuşmak, sohbet etmek

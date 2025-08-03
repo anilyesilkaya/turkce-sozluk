@@ -2,6 +2,7 @@
 layout: term
 title: katlettirmek
 slug: katlettirmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Katletme işini yaptırmak

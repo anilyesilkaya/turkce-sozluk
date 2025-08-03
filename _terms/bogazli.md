@@ -2,6 +2,7 @@
 layout: term
 title: boğazlı
 slug: bogazli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boğazı olan

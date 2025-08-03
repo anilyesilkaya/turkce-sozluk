@@ -2,6 +2,7 @@
 layout: term
 title: kasap havası
 slug: kasap-havasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Marmara Bölgesi'nde özellikle Trakya'da düğünlerde oynanan bir tür halk oyunu

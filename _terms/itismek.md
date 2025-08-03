@@ -2,6 +2,7 @@
 layout: term
 title: itişmek
 slug: itismek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Birbirini itmek

@@ -2,6 +2,7 @@
 layout: term
 title: demir almak
 slug: demir-almak
+letter: D
 lisan: Türkçe
 anlamlar:
 - gemi yola çıkmak için çıpasını denizden çekmek, gitmeye hazırlanmak

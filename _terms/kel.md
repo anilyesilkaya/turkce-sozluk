@@ -2,6 +2,7 @@
 layout: term
 title: kel
 slug: kel
+letter: K
 lisan: Farsça kel
 anlamlar:
 - Saçı dökülmüş olan (kimse); keleş, yağır

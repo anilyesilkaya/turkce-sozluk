@@ -2,6 +2,7 @@
 layout: term
 title: zona
 slug: zona
+letter: Z
 lisan: Latince
 anlamlar:
 - Deride, sinirler boyunca, özellikle gövde, bacak ve yüzde birtakım ağrılı fiskelerle beliren, mikroplu bir hastalık

@@ -2,6 +2,7 @@
 layout: term
 title: ortaya çıkarmak
 slug: ortaya-cikarmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - delilleriyle göstermek, ispat etmek

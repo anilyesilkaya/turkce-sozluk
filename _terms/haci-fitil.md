@@ -2,6 +2,7 @@
 layout: term
 title: hacı fitil
 slug: haci-fitil
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► hacı fışfış

@@ -2,6 +2,7 @@
 layout: term
 title: ördürmek
 slug: ordurmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Örme işini yaptırmak, örmesini sağlamak

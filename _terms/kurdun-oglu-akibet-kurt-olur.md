@@ -2,6 +2,7 @@
 layout: term
 title: kurdun oğlu akıbet kurt olur
 slug: kurdun-oglu-akibet-kurt-olur
+letter: K
 lisan: Türkçe
 anlamlar:
 - '"kişi sonunda kendi karakterini, aslını, düşüncesini atalarına benzer biçimde ortaya koyar" anlamında kullanılan bir söz'

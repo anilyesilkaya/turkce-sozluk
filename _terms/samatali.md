@@ -2,6 +2,7 @@
 layout: term
 title: şamatalı
 slug: samatali
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► gürültülü patırtılı

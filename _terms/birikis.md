@@ -2,6 +2,7 @@
 layout: term
 title: birikiş
 slug: birikis
+letter: B
 lisan: Türkçe
 anlamlar:
 - Birikmek işi

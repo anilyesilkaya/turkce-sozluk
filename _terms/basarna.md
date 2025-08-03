@@ -2,6 +2,7 @@
 layout: term
 title: basarna
 slug: basarna
+letter: B
 lisan: Rumca
 anlamlar:
 - ► kaldıraç

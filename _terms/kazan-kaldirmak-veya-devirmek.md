@@ -2,6 +2,7 @@
 layout: term
 title: kazan kaldırmak (veya devirmek)
 slug: kazan-kaldirmak-veya-devirmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - yeniçeriler yemek pişirilen kazanı devirerek ayaklanmak, isyan etmek

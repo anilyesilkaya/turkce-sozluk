@@ -2,6 +2,7 @@
 layout: term
 title: arılar
 slug: arilar
+letter: A
 lisan: Türkçe
 anlamlar:
 - Tek tek veya bir topluluk düzeni içinde yaşayan, vücutları, özellikle karınları ve arka ayakları kıllarla örtülü zar kanatlılar familyası

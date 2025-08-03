@@ -2,6 +2,7 @@
 layout: term
 title: kasıtsızca
 slug: kasitsizca
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kasıtsız bir biçimde

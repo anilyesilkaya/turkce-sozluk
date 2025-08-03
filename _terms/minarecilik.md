@@ -2,6 +2,7 @@
 layout: term
 title: minarecilik
 slug: minarecilik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Minarecinin yaptığı iş

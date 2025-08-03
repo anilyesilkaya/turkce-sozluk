@@ -2,6 +2,7 @@
 layout: term
 title: sakar meke
 slug: sakar-meke
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► yaban kazı

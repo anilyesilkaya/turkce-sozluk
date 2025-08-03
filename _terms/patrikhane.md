@@ -2,6 +2,7 @@
 layout: term
 title: patrikhane
 slug: patrikhane
+letter: P
 lisan: Rumca + Farsça ḫāne
 anlamlar:
 - Patriğin makamı

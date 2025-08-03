@@ -2,6 +2,7 @@
 layout: term
 title: ezeliyet
 slug: ezeliyet
+letter: E
 lisan: Arapça ezeliyyet
 anlamlar:
 - ► ezelîlik, ebediyet karşıtı

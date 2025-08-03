@@ -2,6 +2,7 @@
 layout: term
 title: bağışlamasız
 slug: bagislamasiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağışlaması olmayan

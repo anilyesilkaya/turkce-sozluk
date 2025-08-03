@@ -2,6 +2,7 @@
 layout: term
 title: avurtlu
 slug: avurtlu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Avurdu olan

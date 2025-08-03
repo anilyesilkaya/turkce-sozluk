@@ -2,6 +2,7 @@
 layout: term
 title: tam sayı
 slug: tam-sayi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir bütünü oluşturan tekler için kararlaşmış bulunan sayı; adedimürettep

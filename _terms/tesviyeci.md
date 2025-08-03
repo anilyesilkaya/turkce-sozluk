@@ -2,6 +2,7 @@
 layout: term
 title: tesviyeci
 slug: tesviyeci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Metal, tahta vb. maddelerden yapılmış parçaları istenilen biçime sokmak için işleyerek düzelten usta

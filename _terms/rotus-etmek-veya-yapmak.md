@@ -2,6 +2,7 @@
 layout: term
 title: rötuş etmek (veya yapmak)
 slug: rotus-etmek-veya-yapmak
+letter: R
 lisan: Türkçe
 anlamlar:
 - kusurları gidermek amacıyla düzeltmek, değiştirmek

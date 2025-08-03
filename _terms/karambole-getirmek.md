@@ -2,6 +2,7 @@
 layout: term
 title: karambole getirmek
 slug: karambole-getirmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - karışıklıktan yararlanarak birini aldatmak

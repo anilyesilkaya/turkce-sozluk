@@ -2,6 +2,7 @@
 layout: term
 title: honda çeliği
 slug: honda-celigi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Karışımında nikel, kobalt ve alüminyum bulunan, mıknatıs gücü yüksek olan özel çelik

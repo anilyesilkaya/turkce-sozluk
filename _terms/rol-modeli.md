@@ -2,6 +2,7 @@
 layout: term
 title: rol modeli
 slug: rol-modeli
+letter: R
 lisan: Türkçe
 anlamlar:
 - Davranışları, karakter özellikleri veya özel nitelikleriyle  başkaları, özellikle gençler tarafından örnek alınan ve taklit edilen kişi

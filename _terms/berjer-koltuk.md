@@ -2,6 +2,7 @@
 layout: term
 title: berjer koltuk
 slug: berjer-koltuk
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► berjer

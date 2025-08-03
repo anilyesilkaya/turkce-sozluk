@@ -2,6 +2,7 @@
 layout: term
 title: yılbaşı
 slug: yilbasi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Ocak ayının birinci günü

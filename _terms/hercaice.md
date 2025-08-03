@@ -2,6 +2,7 @@
 layout: term
 title: hercaice
 slug: hercaice
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hercai gibi, hercaiye yakışan

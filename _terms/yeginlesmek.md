@@ -2,6 +2,7 @@
 layout: term
 title: yeğinleşmek
 slug: yeginlesmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Şiddetli duruma gelmek

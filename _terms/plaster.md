@@ -2,6 +2,7 @@
 layout: term
 title: plaster
 slug: plaster
+letter: P
 lisan: İngilizce plaster
 anlamlar:
 - Genellikle ciltteki yara vb. hasarların dış etkenlerden korunması veya tıbbi gereçlerin cilde sabitlenmesi için kullanılan yapışkan özellikte malzeme

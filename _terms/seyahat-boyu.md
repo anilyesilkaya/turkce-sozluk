@@ -2,6 +2,7 @@
 layout: term
 title: seyahat boyu
 slug: seyahat-boyu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Seyahatlerde şampuan, sabun vb. sık kullanılan malzeme için küçük boy üretilmiş olan

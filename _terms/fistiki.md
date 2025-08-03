@@ -2,6 +2,7 @@
 layout: term
 title: fıstıki
 slug: fistiki
+letter: F
 lisan: Arapça fustuḳī
 anlamlar:
 - ► fıstık rengi

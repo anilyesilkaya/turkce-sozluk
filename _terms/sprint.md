@@ -2,6 +2,7 @@
 layout: term
 title: sprint
 slug: sprint
+letter: S
 lisan: İngilizce sprint
 anlamlar:
 - Uzun mesafe koşularında son 100 veya 200 metrelerde yapılan atak

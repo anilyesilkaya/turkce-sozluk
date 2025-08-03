@@ -2,6 +2,7 @@
 layout: term
 title: yısa yısa
 slug: yisa-yisa
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Olsun olsun, en çok

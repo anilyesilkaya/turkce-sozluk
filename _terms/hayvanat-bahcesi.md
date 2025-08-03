@@ -2,6 +2,7 @@
 layout: term
 title: hayvanat bahçesi
 slug: hayvanat-bahcesi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Genellikle her tür hayvanın doğal şartlarda beslendiği, korunduğu, sergilendiği büyük bahçe

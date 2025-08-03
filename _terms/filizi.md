@@ -2,6 +2,7 @@
 layout: term
 title: filizî
 slug: filizi
+letter: F
 lisan: Rumca + Arapça -ī
 anlamlar:
 - ► filiz rengi

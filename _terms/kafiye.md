@@ -2,6 +2,7 @@
 layout: term
 title: kafiye
 slug: kafiye
+letter: K
 lisan: Arapça ḳāfiye
 anlamlar:
 - Şiirde dizelerin sonunda tekrarlanan ve aynı ahengi veren heceler veya aynı görevde olmayan ancak benzeşen sesler; uyak

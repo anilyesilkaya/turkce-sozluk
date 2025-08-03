@@ -2,6 +2,7 @@
 layout: term
 title: kaçabilmek
 slug: kacabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaçma ihtimali bulunmak

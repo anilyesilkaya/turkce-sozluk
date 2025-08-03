@@ -2,6 +2,7 @@
 layout: term
 title: imarethane
 slug: imarethane
+letter: I
 lisan: Arapça ʿimāret + Farsça ḫāne
 anlamlar:
 - Yoksullara ve öğrencilere yiyecek dağıtmak için kurulmuş hayır kurumu; imaret

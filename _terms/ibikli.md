@@ -2,6 +2,7 @@
 layout: term
 title: ibikli
 slug: ibikli
+letter: I
 lisan: Türkçe
 anlamlar:
 - İbiği olan

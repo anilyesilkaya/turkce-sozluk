@@ -2,6 +2,7 @@
 layout: term
 title: geriye almak
 slug: geriye-almak
+letter: G
 lisan: Türkçe
 anlamlar:
 - saat ayarını değiştirip ileri durumdan geri duruma getirmek

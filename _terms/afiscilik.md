@@ -2,6 +2,7 @@
 layout: term
 title: afişçilik
 slug: afiscilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Afişçinin yaptığı iş

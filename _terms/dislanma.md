@@ -2,6 +2,7 @@
 layout: term
 title: dışlanma
 slug: dislanma
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dışlanmak işi; ötekileşme, ötekileştirilme

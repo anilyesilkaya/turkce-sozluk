@@ -2,6 +2,7 @@
 layout: term
 title: oluklu
 slug: oluklu
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oluğu olan

@@ -2,6 +2,7 @@
 layout: term
 title: akıllı uslu
 slug: akilli-uslu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Dengeli olan

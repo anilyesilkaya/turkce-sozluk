@@ -2,6 +2,7 @@
 layout: term
 title: satranç takımı
 slug: satranc-takimi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Satranç oyununda gerekli olan altmış dört kareli tahta, siyah ve beyaz on altışardan otuz iki taşın oluşturduğu takım

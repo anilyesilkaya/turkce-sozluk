@@ -2,6 +2,7 @@
 layout: term
 title: alarga
 slug: alarga
+letter: A
 lisan: İtalyanca allarga
 anlamlar:
 - ► açık deniz

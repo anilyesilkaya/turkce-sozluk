@@ -2,6 +2,7 @@
 layout: term
 title: gönlü varmamak
 slug: gonlu-varmamak
+letter: G
 lisan: Türkçe
 anlamlar:
 - istek duymamak, istememek, çekinmek

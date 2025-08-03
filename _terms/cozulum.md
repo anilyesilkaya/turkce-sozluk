@@ -2,6 +2,7 @@
 layout: term
 title: çözülüm
 slug: cozulum
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çözülmek işi; dağılım, bozgun

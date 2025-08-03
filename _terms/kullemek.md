@@ -2,6 +2,7 @@
 layout: term
 title: küllemek
 slug: kullemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Genellikle ateşin üzerini külle örtmek

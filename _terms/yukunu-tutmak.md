@@ -2,6 +2,7 @@
 layout: term
 title: yükünü tutmak
 slug: yukunu-tutmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - çok zengin olmak, zenginleşmek

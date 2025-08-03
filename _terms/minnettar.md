@@ -2,6 +2,7 @@
 layout: term
 title: minnettar
 slug: minnettar
+letter: M
 lisan: Arapça minnet + Farsça -dār
 anlamlar:
 - Birinden gördüğü iyiliğe karşı kendini borçlu sayan, gönül borcu olan kimse; gönül borçlusu

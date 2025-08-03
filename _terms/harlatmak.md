@@ -2,6 +2,7 @@
 layout: term
 title: harlatmak
 slug: harlatmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Ateşi kuvvetlendirmek; harlandırmak

@@ -2,6 +2,7 @@
 layout: term
 title: doğma
 slug: dogma
+letter: D
 lisan: Türkçe
 anlamlar:
 - Doğmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: payidar
 slug: payidar
+letter: P
 lisan: Farsça pāydār
 anlamlar:
 - Sonsuza kadar yaşayacak ve kalıcı olan

@@ -2,6 +2,7 @@
 layout: term
 title: ceza sahası
 slug: ceza-sahasi
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► ceza alanı

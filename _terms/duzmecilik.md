@@ -2,6 +2,7 @@
 layout: term
 title: düzmecilik
 slug: duzmecilik
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► sahtekârlık

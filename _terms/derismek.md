@@ -2,6 +2,7 @@
 layout: term
 title: derişmek
 slug: derismek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir nokta dolayında toplanmak; temerküz etmek

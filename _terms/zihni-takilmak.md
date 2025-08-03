@@ -2,6 +2,7 @@
 layout: term
 title: zihni takılmak
 slug: zihni-takilmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - yanlış bir kanıya takılıp kalmak

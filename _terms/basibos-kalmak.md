@@ -2,6 +2,7 @@
 layout: term
 title: başıboş kalmak
 slug: basibos-kalmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - baskı altında bulunmamak, karışanı, görüşeni olmamak

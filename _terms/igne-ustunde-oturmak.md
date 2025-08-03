@@ -2,6 +2,7 @@
 layout: term
 title: iğne üstünde oturmak
 slug: igne-ustunde-oturmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - diken üstünde oturmak

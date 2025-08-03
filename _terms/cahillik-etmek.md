@@ -2,6 +2,7 @@
 layout: term
 title: cahillik etmek
 slug: cahillik-etmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - bilgisizliğini göstermek

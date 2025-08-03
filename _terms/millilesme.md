@@ -2,6 +2,7 @@
 layout: term
 title: millîleşme
 slug: millilesme
+letter: M
 lisan: Türkçe
 anlamlar:
 - Millîleşmek işi; ulusallaşma

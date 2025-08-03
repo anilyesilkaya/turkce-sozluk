@@ -2,6 +2,7 @@
 layout: term
 title: kadayıf
 slug: kadayif
+letter: K
 lisan: Arapça ḳaṭāʾif
 anlamlar:
 - Sulu ve az mayalı hamurun kızgın sac üzerinde tel tel, ufak yuvarlaklar veya büyük bir yuvarlak şeklinde kurutulmasıyla elde edilen tatlı malzemesi

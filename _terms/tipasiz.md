@@ -2,6 +2,7 @@
 layout: term
 title: tıpasız
 slug: tipasiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► tapasız

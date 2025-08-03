@@ -2,6 +2,7 @@
 layout: term
 title: levazımatçı
 slug: levazimatci
+letter: L
 lisan: Türkçe
 anlamlar:
 - Levazımat satan veya alan kimse

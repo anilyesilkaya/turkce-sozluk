@@ -2,6 +2,7 @@
 layout: term
 title: ey
 slug: ey
+letter: E
 lisan: Türkçe
 anlamlar:
 - Kendisine söz söylenilen kimse veya kimselerin dikkati çekilmek istendiğinde adın başına getirilen ve uzatılabilen bir seslenme sözü; hay

@@ -2,6 +2,7 @@
 layout: term
 title: hukuki
 slug: hukuki
+letter: H
 lisan: Arapça ḥuḳūḳī
 anlamlar:
 - Hukukla ilgili; hukuksal, tüzel

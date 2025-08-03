@@ -2,6 +2,7 @@
 layout: term
 title: çamur atmak (veya sıçratmak)
 slug: camur-atmak-veya-sicratmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - birini kötü bir işe karışmış göstermek, kara çalmak, iftira etmek

@@ -2,6 +2,7 @@
 layout: term
 title: gaip
 slug: gaip
+letter: G
 lisan: Arapça ġāʾib
 anlamlar:
 - Görünmez âlem

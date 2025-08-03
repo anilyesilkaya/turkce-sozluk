@@ -2,6 +2,7 @@
 layout: term
 title: kandil
 slug: kandil
+letter: K
 lisan: Arapça ḳindīl
 anlamlar:
 - İçinde sıvı bir yağ ve fitil bulunan kaptan oluşmuş aydınlatma aracı; yağ kandili

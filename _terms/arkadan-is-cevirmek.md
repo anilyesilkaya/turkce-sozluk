@@ -2,6 +2,7 @@
 layout: term
 title: arkadan iş çevirmek
 slug: arkadan-is-cevirmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - birisiyle ilgili gizli saklı işler yapmak

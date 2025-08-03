@@ -2,6 +2,7 @@
 layout: term
 title: pasiflik
 slug: pasiflik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pasif olma durumu

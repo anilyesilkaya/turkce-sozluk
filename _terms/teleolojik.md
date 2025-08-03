@@ -2,6 +2,7 @@
 layout: term
 title: teleolojik
 slug: teleolojik
+letter: T
 lisan: Fransızca téléologique
 anlamlar:
 - ► erek bilimsel

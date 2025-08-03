@@ -2,6 +2,7 @@
 layout: term
 title: sistemli
 slug: sistemli
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► düzenli

@@ -2,6 +2,7 @@
 layout: term
 title: partner
 slug: partner
+letter: P
 lisan: Fransızca partenaire
 anlamlar:
 - ► eş

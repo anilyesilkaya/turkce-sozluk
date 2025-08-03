@@ -2,6 +2,7 @@
 layout: term
 title: uydulaştırma
 slug: uydulastirma
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uydulaştırmak durumu

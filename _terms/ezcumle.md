@@ -2,6 +2,7 @@
 layout: term
 title: ezcümle
 slug: ezcumle
+letter: E
 lisan: Farsça ez + Arapça cumle
 anlamlar:
 - Özet olarak

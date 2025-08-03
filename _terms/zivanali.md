@@ -2,6 +2,7 @@
 layout: term
 title: zıvanalı
 slug: zivanali
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zıvanası olan

@@ -2,6 +2,7 @@
 layout: term
 title: manzara
 slug: manzara
+letter: M
 lisan: Arapça manẓara
 anlamlar:
 - Bakış, görüş alanına giren, dikkati çeken her yer; görüntü, dekor

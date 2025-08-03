@@ -2,6 +2,7 @@
 layout: term
 title: dengeyi sağlamak
 slug: dengeyi-saglamak
+letter: D
 lisan: Türkçe
 anlamlar:
 - iki kişi, durum veya olay arasında orta yolu bulmak, uyum sağlamak

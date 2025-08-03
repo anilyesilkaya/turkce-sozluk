@@ -2,6 +2,7 @@
 layout: term
 title: sızış
 slug: sizis
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sızmak işi

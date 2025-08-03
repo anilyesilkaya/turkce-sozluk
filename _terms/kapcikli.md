@@ -2,6 +2,7 @@
 layout: term
 title: kapçıklı
 slug: kapcikli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kapçığı olan

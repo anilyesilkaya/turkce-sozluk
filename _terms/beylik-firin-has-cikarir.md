@@ -2,6 +2,7 @@
 layout: term
 title: beylik fırın has çıkarır
 slug: beylik-firin-has-cikarir
+letter: B
 lisan: Türkçe
 anlamlar:
 - '"devlet görevlisi olmak insana birçok kazanç sağlar" anlamında kullanılan bir söz'

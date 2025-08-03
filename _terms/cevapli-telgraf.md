@@ -2,6 +2,7 @@
 layout: term
 title: cevaplı telgraf
 slug: cevapli-telgraf
+letter: C
 lisan: Türkçe
 anlamlar:
 - Ücreti bir şey sorup cevap almak için telgraf gönderen kimse tarafından önceden ödenmiş olan telgraf türü

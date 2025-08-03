@@ -2,6 +2,7 @@
 layout: term
 title: cümleten
 slug: cumleten
+letter: C
 lisan: Arapça cumleten
 anlamlar:
 - ► hep birden

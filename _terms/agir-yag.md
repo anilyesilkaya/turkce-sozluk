@@ -2,6 +2,7 @@
 layout: term
 title: ağır yağ
 slug: agir-yag
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► kalın yağ

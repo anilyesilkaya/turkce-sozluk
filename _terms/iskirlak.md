@@ -2,6 +2,7 @@
 layout: term
 title: ışkırlak
 slug: iskirlak
+letter: I
 lisan: Türkçe
 anlamlar:
 - Başlık, şapka

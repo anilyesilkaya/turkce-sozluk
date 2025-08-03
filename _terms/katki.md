@@ -2,6 +2,7 @@
 layout: term
 title: katkı
 slug: katki
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir işin yapılmasına, gerçekleşmesine emek, bilgi, para vb. ile katılma; yardım, pay

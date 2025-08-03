@@ -2,6 +2,7 @@
 layout: term
 title: malikiyet
 slug: malikiyet
+letter: M
 lisan: Arapça mālikiyyet
 anlamlar:
 - Malik olma durumu

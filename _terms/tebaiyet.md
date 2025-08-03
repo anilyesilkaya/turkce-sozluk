@@ -2,6 +2,7 @@
 layout: term
 title: tebaiyet
 slug: tebaiyet
+letter: T
 lisan: Arapça tebaʿiyyet
 anlamlar:
 - Kanun, buyruk vb.ne uyma

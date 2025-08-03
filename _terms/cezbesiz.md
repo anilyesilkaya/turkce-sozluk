@@ -2,6 +2,7 @@
 layout: term
 title: cezbesiz
 slug: cezbesiz
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cezbesi olmayan

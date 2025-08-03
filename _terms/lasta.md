@@ -2,6 +2,7 @@
 layout: term
 title: lasta
 slug: lasta
+letter: L
 lisan: Fransızca lasta
 anlamlar:
 - Kuzey Avrupa'da kullanılan, 2000 kilograma yakın gemi yüklerine ve büyük miktardaki ticaret mallarına değer biçmeye yarayan kütle ölçü birimi

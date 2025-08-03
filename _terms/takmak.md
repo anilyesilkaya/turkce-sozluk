@@ -2,6 +2,7 @@
 layout: term
 title: takmak
 slug: takmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir şeyi başka bir yere uygun bir biçimde tutturmak, iliştirmek, geçirmek

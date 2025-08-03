@@ -2,6 +2,7 @@
 layout: term
 title: aday
 slug: aday
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir görev, bir iş için kendini ileri süren veya başkaları tarafından ileri sürülen kimse

@@ -2,6 +2,7 @@
 layout: term
 title: başkişi
 slug: baskisi
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► başkahraman

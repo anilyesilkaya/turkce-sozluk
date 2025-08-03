@@ -2,6 +2,7 @@
 layout: term
 title: rabıtasız
 slug: rabitasiz
+letter: R
 lisan: Türkçe
 anlamlar:
 - Düzensiz, birbirini tutmaz

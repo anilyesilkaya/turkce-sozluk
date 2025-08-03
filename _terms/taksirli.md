@@ -2,6 +2,7 @@
 layout: term
 title: taksirli
 slug: taksirli
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► kusurlu

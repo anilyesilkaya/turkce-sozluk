@@ -2,6 +2,7 @@
 layout: term
 title: Muhammedî
 slug: muhammedi
+letter: M
 lisan: Arapça muḥammedī
 anlamlar:
 - ► Müslüman

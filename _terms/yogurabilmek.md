@@ -2,6 +2,7 @@
 layout: term
 title: yoğurabilmek
 slug: yogurabilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yoğurma ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: deşarj
 slug: desarj
+letter: D
 lisan: Fransızca décharge
 anlamlar:
 - ► boşalma

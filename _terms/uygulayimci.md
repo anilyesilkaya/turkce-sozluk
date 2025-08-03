@@ -2,6 +2,7 @@
 layout: term
 title: uygulayımcı
 slug: uygulayimci
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uygulayımla ilgili herhangi bir alanda bilgi ve becerisi olan kimse

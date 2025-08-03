@@ -2,6 +2,7 @@
 layout: term
 title: karı koca
 slug: kari-koca
+letter: K
 lisan: Türkçe
 anlamlar:
 - Birbirleriyle evlenmiş kadın ve erkek

@@ -2,6 +2,7 @@
 layout: term
 title: perişan olmak
 slug: perisan-olmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - dağılmak, düzeni bozulmak

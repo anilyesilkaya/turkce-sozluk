@@ -2,6 +2,7 @@
 layout: term
 title: dökebilmek
 slug: dokebilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dökme ihtimali veya imkânı bulunmak

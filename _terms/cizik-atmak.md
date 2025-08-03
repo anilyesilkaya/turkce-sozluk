@@ -2,6 +2,7 @@
 layout: term
 title: çizik atmak
 slug: cizik-atmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - çizmek

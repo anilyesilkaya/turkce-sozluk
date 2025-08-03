@@ -2,6 +2,7 @@
 layout: term
 title: kıpırdaşmak
 slug: kipirdasmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Birlikte kıpır kıpır hareket etmek

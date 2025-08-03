@@ -2,6 +2,7 @@
 layout: term
 title: pastra
 slug: pastra
+letter: P
 lisan: Rumca
 anlamlar:
 - ► pişti

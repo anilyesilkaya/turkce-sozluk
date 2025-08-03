@@ -2,6 +2,7 @@
 layout: term
 title: el adamı
 slug: el-adami
+letter: E
 lisan: Türkçe
 anlamlar:
 - Yabancı kimse; elin adamı

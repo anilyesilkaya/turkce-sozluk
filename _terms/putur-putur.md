@@ -2,6 +2,7 @@
 layout: term
 title: pütür pütür
 slug: putur-putur
+letter: P
 lisan: Türkçe
 anlamlar:
 - Üzerinde pek çok pütür bulunan

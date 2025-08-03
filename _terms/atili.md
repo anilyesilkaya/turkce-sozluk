@@ -2,6 +2,7 @@
 layout: term
 title: atılı
 slug: atili
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ertelenmiş olan

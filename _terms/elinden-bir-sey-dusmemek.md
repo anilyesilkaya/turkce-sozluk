@@ -2,6 +2,7 @@
 layout: term
 title: elinden (bir şey) düşmemek
 slug: elinden-bir-sey-dusmemek
+letter: E
 lisan: Türkçe
 anlamlar:
 - bir şeyle sürekli ilgilenmek

@@ -2,6 +2,7 @@
 layout: term
 title: vikont
 slug: vikont
+letter: V
 lisan: Fransızca vicomte
 anlamlar:
 - Batı ülkelerinde baron ile kont arasında bir soyluluk ünvanı

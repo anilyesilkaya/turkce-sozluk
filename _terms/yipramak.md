@@ -2,6 +2,7 @@
 layout: term
 title: yıpramak
 slug: yipramak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Aşınıp eskimek, incelmek

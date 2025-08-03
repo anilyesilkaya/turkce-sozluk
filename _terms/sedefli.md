@@ -2,6 +2,7 @@
 layout: term
 title: sedefli
 slug: sedefli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sedefle işlenmiş

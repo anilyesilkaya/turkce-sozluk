@@ -2,6 +2,7 @@
 layout: term
 title: çulaki
 slug: culaki
+letter: Ç
 lisan: Arapça cull + Yunanca -aki
 anlamlar:
 - Çula benzeyen, az tüylü, kalın, kaba kumaş

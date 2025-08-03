@@ -2,6 +2,7 @@
 layout: term
 title: sanem
 slug: sanem
+letter: S
 lisan: Arapça ṣanem
 anlamlar:
 - ► put (I)

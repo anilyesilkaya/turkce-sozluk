@@ -2,6 +2,7 @@
 layout: term
 title: muhaberat
 slug: muhaberat
+letter: M
 lisan: Arapça muḫāberāt
 anlamlar:
 - Haberleşmeler, haberleşme dolayısıyla yapılan yazışmalar

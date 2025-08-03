@@ -2,6 +2,7 @@
 layout: term
 title: dört başı mamur
 slug: dort-basi-mamur
+letter: D
 lisan: Türkçe
 anlamlar:
 - Her bakımdan istenildiği gibi olan

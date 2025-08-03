@@ -2,6 +2,7 @@
 layout: term
 title: karının saçlısı, tarlanın taşlısı
 slug: karinin-saclisi-tarlanin-taslisi
+letter: K
 lisan: Türkçe
 anlamlar:
 - '"kadının saçlı olanı ile tarlanın taşlı olanı makbuldür" anlamında kullanılan bir söz'

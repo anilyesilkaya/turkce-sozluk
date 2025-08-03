@@ -2,6 +2,7 @@
 layout: term
 title: şerefiye
 slug: serefiye
+letter: Ş
 lisan: Arapça şerefiyye
 anlamlar:
 - Bir yer bayındır duruma getirildiğinde çevrede bulunan mülklerin değeri arttığından, sahiplerinden belediyece alınan para

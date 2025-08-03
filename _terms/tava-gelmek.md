@@ -2,6 +2,7 @@
 layout: term
 title: tava gelmek
 slug: tava-gelmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - toprak sürülecek duruma gelmek

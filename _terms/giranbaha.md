@@ -2,6 +2,7 @@
 layout: term
 title: giranbaha
 slug: giranbaha
+letter: G
 lisan: Farsça girān + bahā
 anlamlar:
 - Pahada ağır, değerli

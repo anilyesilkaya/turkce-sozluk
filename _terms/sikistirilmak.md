@@ -2,6 +2,7 @@
 layout: term
 title: sıkıştırılmak
 slug: sikistirilmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıkıştırma işi yapılmak

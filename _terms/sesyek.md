@@ -2,6 +2,7 @@
 layout: term
 title: şeşyek
 slug: sesyek
+letter: Ş
 lisan: Farsça şeş + yek
 anlamlar:
 - Zarla oynanan oyunlarda, atılan zarlardan birinin altı, öbürünün bir benekli olan yüzünün üste gelmesi

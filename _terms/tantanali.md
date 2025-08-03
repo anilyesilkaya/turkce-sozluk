@@ -2,6 +2,7 @@
 layout: term
 title: tantanalı
 slug: tantanali
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► görkemli

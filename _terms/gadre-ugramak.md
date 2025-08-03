@@ -2,6 +2,7 @@
 layout: term
 title: gadre uğramak
 slug: gadre-ugramak
+letter: G
 lisan: Türkçe
 anlamlar:
 - haksız davranışlarla karşı karşıya gelmek, hakkı yenilmek

@@ -2,6 +2,7 @@
 layout: term
 title: bekinme
 slug: bekinme
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► direnme

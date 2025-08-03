@@ -2,6 +2,7 @@
 layout: term
 title: saadet zinciri
 slug: saadet-zinciri
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir dizi mutluluk

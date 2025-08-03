@@ -2,6 +2,7 @@
 layout: term
 title: hitabe
 slug: hitabe
+letter: H
 lisan: Arapça ḫiṭābe
 anlamlar:
 - ► söylev

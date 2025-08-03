@@ -2,6 +2,7 @@
 layout: term
 title: papazkarası
 slug: papazkarasi
+letter: P
 lisan: Türkçe
 anlamlar:
 - Kırmızı şarap yapımında kullanılan bir tür üzüm

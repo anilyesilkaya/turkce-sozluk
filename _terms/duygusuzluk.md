@@ -2,6 +2,7 @@
 layout: term
 title: duygusuzluk
 slug: duygusuzluk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Duygusuz olma durumu; hissizlik

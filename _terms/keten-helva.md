@@ -2,6 +2,7 @@
 layout: term
 title: keten helva
 slug: keten-helva
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kavrulmuş şekerden yapılan, pamuk görünüşünde bir helva türü

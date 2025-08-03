@@ -2,6 +2,7 @@
 layout: term
 title: yalıtkan
 slug: yalitkan
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Elektrik iletkenliği sıfır veya çok zayıf olan (cisim veya madde); yalıtıcı, izolatör, iletken karşıtı

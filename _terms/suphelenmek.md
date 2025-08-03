@@ -2,6 +2,7 @@
 layout: term
 title: şüphelenmek
 slug: suphelenmek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► kuşkulanmak

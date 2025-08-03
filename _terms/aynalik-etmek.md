@@ -2,6 +2,7 @@
 layout: term
 title: aynalık etmek
 slug: aynalik-etmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - başkasında olan bir duyguyu, bir düşünceyi ortaya çıkarmak

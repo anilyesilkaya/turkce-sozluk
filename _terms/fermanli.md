@@ -2,6 +2,7 @@
 layout: term
 title: fermanlı
 slug: fermanli
+letter: F
 lisan: Türkçe
 anlamlar:
 - Hükûmete karşı gelmek suçuyla aranan ve cezalandırılması için hakkında ferman çıkan (kimse)

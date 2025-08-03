@@ -2,6 +2,7 @@
 layout: term
 title: bin türlü
 slug: bin-turlu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Birbirinden çok farklı, çok değişik; bin çeşit

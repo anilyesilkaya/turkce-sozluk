@@ -2,6 +2,7 @@
 layout: term
 title: çipil
 slug: cipil
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Ağrılı ve kirpikleri dökülmüş (göz)

@@ -2,6 +2,7 @@
 layout: term
 title: kupa
 slug: kupa
+letter: K
 lisan: Fransızca coupé
 anlamlar:
 - Kapalı ve yalnız arkada oturulacak yeri olan, genellikle atların çektiği dört tekerlekli araba

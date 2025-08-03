@@ -2,6 +2,7 @@
 layout: term
 title: tanıyabilme
 slug: taniyabilme
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tanıyabilmek işi

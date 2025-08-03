@@ -2,6 +2,7 @@
 layout: term
 title: âlemşümul
 slug: alemsumul
+letter: Â
 lisan: Arapça ʿālem + şumūl
 anlamlar:
 - ► evrensel

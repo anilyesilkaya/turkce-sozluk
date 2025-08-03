@@ -2,6 +2,7 @@
 layout: term
 title: kalpsiz
 slug: kalpsiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► merhametsiz

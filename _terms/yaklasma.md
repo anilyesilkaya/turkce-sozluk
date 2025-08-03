@@ -2,6 +2,7 @@
 layout: term
 title: yaklaşma
 slug: yaklasma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaklaşmak işi; yakınlama, iktirani mukarenet

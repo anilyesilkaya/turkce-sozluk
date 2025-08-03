@@ -2,6 +2,7 @@
 layout: term
 title: aerobik
 slug: aerobik
+letter: A
 lisan: İngilizce aerobic
 anlamlar:
 - Sağlıklı bir vücuda sahip olmak için tempolu müzik eşliğinde yapılan bir jimnastik türü

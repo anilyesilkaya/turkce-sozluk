@@ -2,6 +2,7 @@
 layout: term
 title: dananın kuyruğu kopmak
 slug: dananin-kuyrugu-kopmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - beklenen veya korkulan sonuç gerçekleşmek

@@ -2,6 +2,7 @@
 layout: term
 title: iskele
 slug: iskele
+letter: I
 lisan: İtalyanca scala
 anlamlar:
 - Deniz taşıtlarının yanaştığı, çoğu tahta ve betondan yapılmış, denize doğru uzanan yer

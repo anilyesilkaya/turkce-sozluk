@@ -2,6 +2,7 @@
 layout: term
 title: patika
 slug: patika
+letter: P
 lisan: Bulgarca
 anlamlar:
 - Engebeli yerlerden gelip geçenlerin ayak izlerinden oluşan, tekerlekli araç işlemeyen dar yol; çığır, izlek, keçi yolu, yolak

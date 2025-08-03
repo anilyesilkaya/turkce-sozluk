@@ -2,6 +2,7 @@
 layout: term
 title: davadaş
 slug: davadas
+letter: D
 lisan: Türkçe
 anlamlar:
 - Aynı düşüncelere sahip, aynı davayı güdenlerden her biri

@@ -2,6 +2,7 @@
 layout: term
 title: hava değiştirmek
 slug: hava-degistirmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - iklimi değişik bir yere gidip bir süre oturmak

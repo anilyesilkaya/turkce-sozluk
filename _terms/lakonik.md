@@ -2,6 +2,7 @@
 layout: term
 title: lakonik
 slug: lakonik
+letter: L
 lisan: Fransızca laconique
 anlamlar:
 - ► veciz

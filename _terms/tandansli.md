@@ -2,6 +2,7 @@
 layout: term
 title: tandanslı
 slug: tandansli
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► eğilimli

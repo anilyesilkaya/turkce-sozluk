@@ -2,6 +2,7 @@
 layout: term
 title: elini kolunu bağlamak
 slug: elini-kolunu-baglamak
+letter: E
 lisan: Türkçe
 anlamlar:
 - bir şey yapamayacak duruma getirmek

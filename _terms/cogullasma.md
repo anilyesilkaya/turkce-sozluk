@@ -2,6 +2,7 @@
 layout: term
 title: çoğullaşma
 slug: cogullasma
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çoğullaşmak işi

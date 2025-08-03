@@ -2,6 +2,7 @@
 layout: term
 title: girişkin
 slug: giriskin
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► girişken

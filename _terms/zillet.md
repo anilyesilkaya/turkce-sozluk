@@ -2,6 +2,7 @@
 layout: term
 title: zillet
 slug: zillet
+letter: Z
 lisan: Arapça ẕillet
 anlamlar:
 - Hor görülme

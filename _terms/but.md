@@ -2,6 +2,7 @@
 layout: term
 title: but
 slug: but
+letter: B
 lisan: Türkçe
 anlamlar:
 - İnsan vücudunun kalça ile diz arasındaki bölümü

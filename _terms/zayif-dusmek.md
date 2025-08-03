@@ -2,6 +2,7 @@
 layout: term
 title: zayıf düşmek
 slug: zayif-dusmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - zayıflamak

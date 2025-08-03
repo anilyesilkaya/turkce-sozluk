@@ -2,6 +2,7 @@
 layout: term
 title: içi bulanmak
 slug: ici-bulanmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - kusacak gibi olmak

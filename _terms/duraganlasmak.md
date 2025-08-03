@@ -2,6 +2,7 @@
 layout: term
 title: durağanlaşmak
 slug: duraganlasmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Durağan duruma gelmek

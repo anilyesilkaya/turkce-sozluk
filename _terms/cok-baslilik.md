@@ -2,6 +2,7 @@
 layout: term
 title: çok başlılık
 slug: cok-baslilik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çok başlı olma durumu

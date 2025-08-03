@@ -2,6 +2,7 @@
 layout: term
 title: ayakçak
 slug: ayakcak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Merdiven basamağı

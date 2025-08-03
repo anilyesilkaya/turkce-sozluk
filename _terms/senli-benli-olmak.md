@@ -2,6 +2,7 @@
 layout: term
 title: senli benli olmak
 slug: senli-benli-olmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - iç içe olmak, bütünleşmek

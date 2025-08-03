@@ -2,6 +2,7 @@
 layout: term
 title: sımak
 slug: simak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kırmak, bozmak

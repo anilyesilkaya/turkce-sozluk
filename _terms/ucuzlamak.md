@@ -2,6 +2,7 @@
 layout: term
 title: ucuzlamak
 slug: ucuzlamak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Fiyatı inmek

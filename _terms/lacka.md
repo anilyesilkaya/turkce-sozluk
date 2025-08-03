@@ -2,6 +2,7 @@
 layout: term
 title: laçka
 slug: lacka
+letter: L
 lisan: İtalyanca lascia
 anlamlar:
 - Gemi halatının gevşetilip boşa bırakılması

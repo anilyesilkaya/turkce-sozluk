@@ -2,6 +2,7 @@
 layout: term
 title: canı cehenneme
 slug: cani-cehenneme
+letter: C
 lisan: Türkçe
 anlamlar:
 - sevilmeyen bir kimse için duyulan öfke ve nefreti bildiren bir söz

@@ -2,6 +2,7 @@
 layout: term
 title: aşağı
 slug: asagi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir şeyin alt bölümü; zir, yukarı karşıtı

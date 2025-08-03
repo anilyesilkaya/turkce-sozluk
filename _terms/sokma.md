@@ -2,6 +2,7 @@
 layout: term
 title: sokma
 slug: sokma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sokmak işi

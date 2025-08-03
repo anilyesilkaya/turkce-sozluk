@@ -2,6 +2,7 @@
 layout: term
 title: alaka
 slug: alaka
+letter: A
 lisan: Arapça ʿalāḳa
 anlamlar:
 - ► ilgi

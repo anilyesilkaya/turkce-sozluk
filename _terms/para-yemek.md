@@ -2,6 +2,7 @@
 layout: term
 title: para yemek
 slug: para-yemek
+letter: P
 lisan: Türkçe
 anlamlar:
 - gereksiz olarak çok para harcamak

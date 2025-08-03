@@ -2,6 +2,7 @@
 layout: term
 title: pençesine düşmek
 slug: pencesine-dusmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - yakalanmak

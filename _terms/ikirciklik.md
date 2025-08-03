@@ -2,6 +2,7 @@
 layout: term
 title: ikirciklik
 slug: ikirciklik
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► kuşkuculuk

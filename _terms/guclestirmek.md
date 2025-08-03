@@ -2,6 +2,7 @@
 layout: term
 title: güçleştirmek
 slug: guclestirmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güç duruma getirmek

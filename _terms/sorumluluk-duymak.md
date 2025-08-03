@@ -2,6 +2,7 @@
 layout: term
 title: sorumluluk duymak
 slug: sorumluluk-duymak
+letter: S
 lisan: Türkçe
 anlamlar:
 - kendisini sorumlu hissetmek

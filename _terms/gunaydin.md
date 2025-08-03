@@ -2,6 +2,7 @@
 layout: term
 title: günaydın
 slug: gunaydin
+letter: G
 lisan: Türkçe
 anlamlar:
 - Sabahları kullanılan selamlaşma sözü

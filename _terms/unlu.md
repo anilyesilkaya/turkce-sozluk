@@ -2,6 +2,7 @@
 layout: term
 title: ünlü
 slug: unlu
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Herkesçe bilinen, ün salmış olan; angın, adlı sanlı, anlı şanlı, şöhretli, tanınmış, meşhur, şanlı, namlı (I), namdar

@@ -2,6 +2,7 @@
 layout: term
 title: ilginçlik
 slug: ilginclik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İlginç olma durumu; enteresanlık

@@ -2,6 +2,7 @@
 layout: term
 title: sayfalamak
 slug: sayfalamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Ana belleği sayfalara ayırarak kullanmak

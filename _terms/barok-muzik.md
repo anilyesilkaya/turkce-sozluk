@@ -2,6 +2,7 @@
 layout: term
 title: barok müzik
 slug: barok-muzik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çalgılar arasında veya çalgılarla sesler arasında karşıtlıklar kuran XVI-XVIII. yüzyıllar arasındaki müzik reformunu oluşturan müzik

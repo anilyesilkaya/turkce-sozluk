@@ -2,6 +2,7 @@
 layout: term
 title: pembezar
 slug: pembezar
+letter: P
 lisan: Farsça penbezār
 anlamlar:
 - Genellikle gömlek yapımında kullanılan bir tür ince ve yumuşak bez

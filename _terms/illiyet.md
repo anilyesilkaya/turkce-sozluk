@@ -2,6 +2,7 @@
 layout: term
 title: illiyet
 slug: illiyet
+letter: I
 lisan: Arapça ʿilliyyet
 anlamlar:
 - ► nedensellik

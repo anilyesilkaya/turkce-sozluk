@@ -2,6 +2,7 @@
 layout: term
 title: yerinde bulmak
 slug: yerinde-bulmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - doğru olduğunu kabul etmek

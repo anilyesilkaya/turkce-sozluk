@@ -2,6 +2,7 @@
 layout: term
 title: kareleme
 slug: kareleme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karelemek işi

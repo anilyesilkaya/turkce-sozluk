@@ -2,6 +2,7 @@
 layout: term
 title: dalcık
 slug: dalcik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Ana dalın kollarından her biri, küçük dal

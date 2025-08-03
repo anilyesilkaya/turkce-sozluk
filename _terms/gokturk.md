@@ -2,6 +2,7 @@
 layout: term
 title: Göktürk
 slug: gokturk
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► Köktürk

@@ -2,6 +2,7 @@
 layout: term
 title: bundan böyle
 slug: bundan-boyle
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bundan sonra; artık, böyle, badema

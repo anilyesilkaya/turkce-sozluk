@@ -2,6 +2,7 @@
 layout: term
 title: siber
 slug: siber
+letter: S
 lisan: Fransızca cyber
 anlamlar:
 - Genel ağa ait olan

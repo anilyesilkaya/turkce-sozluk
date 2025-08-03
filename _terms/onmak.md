@@ -2,6 +2,7 @@
 layout: term
 title: onmak
 slug: onmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Daha iyi bir duruma girmek; salah bulmak

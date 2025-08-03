@@ -2,6 +2,7 @@
 layout: term
 title: cazcı
 slug: cazci
+letter: C
 lisan: Türkçe
 anlamlar:
 - Caz müziği çalan veya besteleyen kimse; cazbantçı

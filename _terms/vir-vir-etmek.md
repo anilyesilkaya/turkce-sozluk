@@ -2,6 +2,7 @@
 layout: term
 title: vır vır etmek
 slug: vir-vir-etmek
+letter: V
 lisan: Türkçe
 anlamlar:
 - usandırıcı, sinirlendirici bir biçimde durmadan konuşmak

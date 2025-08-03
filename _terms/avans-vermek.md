@@ -2,6 +2,7 @@
 layout: term
 title: avans vermek
 slug: avans-vermek
+letter: A
 lisan: Türkçe
 anlamlar:
 - öndelik vermek

@@ -2,6 +2,7 @@
 layout: term
 title: basın bildirisi
 slug: basin-bildirisi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Basın yayın organlarına bilgi vermek amacıyla yetkili kurum veya kişiler tarafından hazırlanmış yazılı açıklama

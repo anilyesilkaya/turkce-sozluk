@@ -2,6 +2,7 @@
 layout: term
 title: nâkil
 slug: nakil
+letter: N
 lisan: Arapça nāḳil
 anlamlar:
 - Taşıyan, aktaran, geçiren

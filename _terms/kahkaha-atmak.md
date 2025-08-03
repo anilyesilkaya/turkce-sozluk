@@ -2,6 +2,7 @@
 layout: term
 title: kahkaha atmak
 slug: kahkaha-atmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - yüksek sesle gülmek

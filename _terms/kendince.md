@@ -2,6 +2,7 @@
 layout: term
 title: kendince
 slug: kendince
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kendine göre, kendi bakımından; kendisince

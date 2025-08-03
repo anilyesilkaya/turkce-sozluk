@@ -2,6 +2,7 @@
 layout: term
 title: gölgesine sığınmak
 slug: golgesine-siginmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - birinin emri altına girmek

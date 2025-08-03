@@ -2,6 +2,7 @@
 layout: term
 title: gestapo
 slug: gestapo
+letter: G
 lisan: Almanca Gestapo
 anlamlar:
 - Almanya'da Hitler döneminde kurulan gizli, siyasi polis örgütü

@@ -2,6 +2,7 @@
 layout: term
 title: nazlandırma
 slug: nazlandirma
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nazlandırmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: hür teşebbüs
 slug: hur-tesebbus
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► özel sektör

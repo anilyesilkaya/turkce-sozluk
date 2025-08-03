@@ -2,6 +2,7 @@
 layout: term
 title: kırıtkanlık
 slug: kiritkanlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kırıtkan olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: logaritmik
 slug: logaritmik
+letter: L
 lisan: Fransızca logarithmique
 anlamlar:
 - Logaritmaya ilişkin

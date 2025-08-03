@@ -2,6 +2,7 @@
 layout: term
 title: sikkelemek
 slug: sikkelemek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Hayvanları sikkeye bağlamak

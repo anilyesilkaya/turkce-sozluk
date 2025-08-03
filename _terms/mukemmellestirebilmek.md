@@ -2,6 +2,7 @@
 layout: term
 title: mükemmelleştirebilmek
 slug: mukemmellestirebilmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mükemmelleştirme ihtimali veya imkânı bulunmak

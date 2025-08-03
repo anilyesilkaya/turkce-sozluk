@@ -2,6 +2,7 @@
 layout: term
 title: bağban
 slug: bagban
+letter: B
 lisan: Farsça bāġbān
 anlamlar:
 - Bağ veya bahçe bekçisi

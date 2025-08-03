@@ -2,6 +2,7 @@
 layout: term
 title: yüzyıllarca
 slug: yuzyillarca
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yüzlerce yıl; asırlarca

@@ -2,6 +2,7 @@
 layout: term
 title: düşüklük
 slug: dusukluk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düşük olma durumu

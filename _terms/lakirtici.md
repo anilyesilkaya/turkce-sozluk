@@ -2,6 +2,7 @@
 layout: term
 title: lakırtıcı
 slug: lakirtici
+letter: L
 lisan: Türkçe
 anlamlar:
 - ► konuşkan

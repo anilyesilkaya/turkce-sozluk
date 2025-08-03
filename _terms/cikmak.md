@@ -2,6 +2,7 @@
 layout: term
 title: çıkmak
 slug: cikmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - İçeriden dışarıya varmak, gitmek

@@ -2,6 +2,7 @@
 layout: term
 title: menus
 slug: menus
+letter: M
 lisan: Arapça meʾnūs
 anlamlar:
 - ► öğür

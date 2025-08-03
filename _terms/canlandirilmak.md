@@ -2,6 +2,7 @@
 layout: term
 title: canlandırılmak
 slug: canlandirilmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - Canlandırma işine konu olmak

@@ -2,6 +2,7 @@
 layout: term
 title: garabet
 slug: garabet
+letter: G
 lisan: Arapça ġarābet
 anlamlar:
 - ► tuhaflık

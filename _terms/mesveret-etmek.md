@@ -2,6 +2,7 @@
 layout: term
 title: meşveret etmek
 slug: mesveret-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - danışmak

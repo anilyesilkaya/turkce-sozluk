@@ -2,6 +2,7 @@
 layout: term
 title: kuş tüyü
 slug: kus-tuyu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yatak, yorgan, yastık doldurmaya yarayan bazı kuşların tüyü

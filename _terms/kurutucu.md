@@ -2,6 +2,7 @@
 layout: term
 title: kurutucu
 slug: kurutucu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Nemi, ısı veya hava akımıyla uzaklaştırıp içine konulan maddeleri kurutan alet

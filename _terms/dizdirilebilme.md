@@ -2,6 +2,7 @@
 layout: term
 title: dizdirilebilme
 slug: dizdirilebilme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dizdirilebilmek işi

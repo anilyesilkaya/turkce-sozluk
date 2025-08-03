@@ -2,6 +2,7 @@
 layout: term
 title: dört göz bir evlat için
 slug: dort-goz-bir-evlat-icin
+letter: D
 lisan: Türkçe
 anlamlar:
 - '"anne ve babanın bütün emek ve didinmesi evlat içindir" anlamında kullanılan bir söz'

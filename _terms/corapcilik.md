@@ -2,6 +2,7 @@
 layout: term
 title: çorapçılık
 slug: corapcilik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çorapçının yaptığı iş

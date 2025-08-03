@@ -2,6 +2,7 @@
 layout: term
 title: yansılayabilmek
 slug: yansilayabilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yansılama ihtimali veya imkânı bulunmak

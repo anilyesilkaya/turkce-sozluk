@@ -2,6 +2,7 @@
 layout: term
 title: gün dönümü
 slug: gun-donumu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gecelerin ve gündüzlerin uzamadan kısalmaya veya kısalmadan uzamaya döndükleri gün

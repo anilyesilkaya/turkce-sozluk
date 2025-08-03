@@ -2,6 +2,7 @@
 layout: term
 title: kendini adamak
 slug: kendini-adamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kendini vermek

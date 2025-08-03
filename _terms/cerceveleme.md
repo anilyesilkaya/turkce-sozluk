@@ -2,6 +2,7 @@
 layout: term
 title: çerçeveleme
 slug: cerceveleme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çerçevelemek işi

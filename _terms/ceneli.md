@@ -2,6 +2,7 @@
 layout: term
 title: çeneli
 slug: ceneli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çenesi olan

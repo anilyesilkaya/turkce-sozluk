@@ -2,6 +2,7 @@
 layout: term
 title: gözdağı vermek
 slug: gozdagi-vermek
+letter: G
 lisan: Türkçe
 anlamlar:
 - sonradan verilecek bir ceza ile korkutmak, yıldırmak, tehdit etmek, caydırmaya çalışmak

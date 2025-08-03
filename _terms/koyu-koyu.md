@@ -2,6 +2,7 @@
 layout: term
 title: koyu koyu
 slug: koyu-koyu
+letter: K
 lisan: Türkçe
 anlamlar:
 - İyice koyu (renk)

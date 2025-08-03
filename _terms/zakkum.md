@@ -2,6 +2,7 @@
 layout: term
 title: zakkum
 slug: zakkum
+letter: Z
 lisan: Arapça zaḳḳūm
 anlamlar:
 - Zakkumgillerden, Akdeniz ülkelerinde yetişen, çiçekleri beyaz veya pembe renkli, kışın yapraklarını dökmeyen zehirli bir ağaççık; ağı ağacı, ağı çiçeği (Nerium oleander)

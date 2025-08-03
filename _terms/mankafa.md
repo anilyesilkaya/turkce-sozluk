@@ -2,6 +2,7 @@
 layout: term
 title: mankafa
 slug: mankafa
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► kalın kafalı

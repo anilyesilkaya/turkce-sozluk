@@ -2,6 +2,7 @@
 layout: term
 title: müdüriyet
 slug: muduriyet
+letter: M
 lisan: Arapça mudīriyyet
 anlamlar:
 - ► müdürlük

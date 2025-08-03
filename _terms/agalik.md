@@ -2,6 +2,7 @@
 layout: term
 title: ağalık
 slug: agalik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağa olma durumu

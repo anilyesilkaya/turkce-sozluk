@@ -2,6 +2,7 @@
 layout: term
 title: esatirî
 slug: esatiri
+letter: E
 lisan: Arapça esāṭīrī
 anlamlar:
 - ► mitolojik

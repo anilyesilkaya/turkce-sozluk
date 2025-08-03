@@ -2,6 +2,7 @@
 layout: term
 title: namertlik
 slug: namertlik
+letter: N
 lisan: Türkçe
 anlamlar:
 - Alçaklık, korkaklık

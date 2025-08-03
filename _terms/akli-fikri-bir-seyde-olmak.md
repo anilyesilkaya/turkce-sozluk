@@ -2,6 +2,7 @@
 layout: term
 title: aklı fikri bir şeyde olmak
 slug: akli-fikri-bir-seyde-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - düşüncesini bir konuda yoğunlaştırmak

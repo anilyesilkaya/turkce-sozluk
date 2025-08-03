@@ -2,6 +2,7 @@
 layout: term
 title: soluma
 slug: soluma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Solumak işi

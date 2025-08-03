@@ -2,6 +2,7 @@
 layout: term
 title: lazer ışını
 slug: lazer-isini
+letter: L
 lisan: Türkçe
 anlamlar:
 - Tıpta, haberleşmede ve sanayide kullanılan çok kuvvetli ve toplu ışık

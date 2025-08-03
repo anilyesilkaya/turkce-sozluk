@@ -2,6 +2,7 @@
 layout: term
 title: dökülme
 slug: dokulme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dökülmek işi

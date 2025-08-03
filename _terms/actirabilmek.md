@@ -2,6 +2,7 @@
 layout: term
 title: açtırabilmek
 slug: actirabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Açmasını veya açılmasını sağlamak

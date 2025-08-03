@@ -2,6 +2,7 @@
 layout: term
 title: beraat
 slug: beraat
+letter: B
 lisan: Arapça berāʾat
 anlamlar:
 - ► aklanma

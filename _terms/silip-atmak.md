@@ -2,6 +2,7 @@
 layout: term
 title: silip atmak
 slug: silip-atmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - ilgi ve ilişkisini tamamen kesmek

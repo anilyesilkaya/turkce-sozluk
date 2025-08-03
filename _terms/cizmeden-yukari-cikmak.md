@@ -2,6 +2,7 @@
 layout: term
 title: çizmeden yukarı çıkmak
 slug: cizmeden-yukari-cikmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - çizmeyi aşmak

@@ -2,6 +2,7 @@
 layout: term
 title: 'özel eğitim '
 slug: ozel-egitim
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Bireysel ve gelişim özellikleri ile eğitim yeterlilikleri açısından akranlarından anlamlı düzeyde farklılık gösteren bireylerin eğitim ve sosyal ihtiyaçlarını karşılamak üzere geliştirilmiş eğitim programları ve özel olarak yetiştirilmiş personel ile uygun ortamlarda sürdürülen eğitim

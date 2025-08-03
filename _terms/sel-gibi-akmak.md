@@ -2,6 +2,7 @@
 layout: term
 title: sel gibi akmak
 slug: sel-gibi-akmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - sıvılar için bol ve gür akmak

@@ -2,6 +2,7 @@
 layout: term
 title: posalanmak
 slug: posalanmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► tortulanmak

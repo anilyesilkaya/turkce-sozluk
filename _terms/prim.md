@@ -2,6 +2,7 @@
 layout: term
 title: prim
 slug: prim
+letter: P
 lisan: Fransızca prime
 anlamlar:
 - İşveren tarafından iş yapanı isteklendirip verimini artırmak veya sonuca daha kolay ve çabuk ulaşmasını sağlamak amacıyla verilen para

@@ -2,6 +2,7 @@
 layout: term
 title: mukabele
 slug: mukabele
+letter: M
 lisan: Arapça muḳābele
 anlamlar:
 - Toplu yerlerde yüksek sesle hatim okunurken Kur'an okumasını bilenlerin gözleriyle Kur'an'ı takip etmesi, bilmeyenlerin dinlemesi

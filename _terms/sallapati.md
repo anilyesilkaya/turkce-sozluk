@@ -2,6 +2,7 @@
 layout: term
 title: sallapati
 slug: sallapati
+letter: S
 lisan: Türkçe
 anlamlar:
 - Düşünmeden ve saygısızca davranan

@@ -2,6 +2,7 @@
 layout: term
 title: namünasip
 slug: namunasip
+letter: N
 lisan: Farsça nā + Arapça munāsib
 anlamlar:
 - ► uygunsuz

@@ -2,6 +2,7 @@
 layout: term
 title: jübile
 slug: jubile
+letter: J
 lisan: Fransızca jubilé
 anlamlar:
 - Evliliğin ellinci yılında düzenlenen kutlama şenliği

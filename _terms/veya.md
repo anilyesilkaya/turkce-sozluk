@@ -2,6 +2,7 @@
 layout: term
 title: veya
 slug: veya
+letter: V
 lisan: Arapça ve + Farsça yā
 anlamlar:
 - Ayrı olmakla birlikte aynı değerde tutulan iki şeyi anlatan kelimelerden ikincisinin önüne getirilen söz; yahut, veyahut

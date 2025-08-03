@@ -2,6 +2,7 @@
 layout: term
 title: kutluluk
 slug: kutluluk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kutlu olma durumu

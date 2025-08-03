@@ -2,6 +2,7 @@
 layout: term
 title: beslemelik etmek
 slug: beslemelik-etmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - birinin yanında besleme olarak bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: geniş görüşlü
 slug: genis-goruslu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Konuları çok yönlü değerlendiren (kimse)

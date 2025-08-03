@@ -2,6 +2,7 @@
 layout: term
 title: eşantiyon
 slug: esantiyon
+letter: E
 lisan: Fransızca échantillon
 anlamlar:
 - Bir malın niteliğini belirtmek, özelliklerini göstermek amacıyla parasız verilen veya gönderilen mal

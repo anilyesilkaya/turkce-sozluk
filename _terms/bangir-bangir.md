@@ -2,6 +2,7 @@
 layout: term
 title: bangır bangır
 slug: bangir-bangir
+letter: B
 lisan: Türkçe
 anlamlar:
 - Yüksek sesle, gürültüyle

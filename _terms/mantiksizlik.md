@@ -2,6 +2,7 @@
 layout: term
 title: mantıksızlık
 slug: mantiksizlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mantıksız davranma durumu

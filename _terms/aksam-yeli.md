@@ -2,6 +2,7 @@
 layout: term
 title: akşam yeli
 slug: aksam-yeli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Akşamları esen serin rüzgâr

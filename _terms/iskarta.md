@@ -2,6 +2,7 @@
 layout: term
 title: ıskarta
 slug: iskarta
+letter: I
 lisan: İtalyanca scarto
 anlamlar:
 - Bazı iskambil oyunlarında kullanılması gerekmediğinden bir yana bırakılan kâğıt

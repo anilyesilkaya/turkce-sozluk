@@ -2,6 +2,7 @@
 layout: term
 title: pençe pençe
 slug: pence-pence
+letter: P
 lisan: Türkçe
 anlamlar:
 - Genişçe ve sık lekeler biçiminde, yer yer kırmızı bir biçimde

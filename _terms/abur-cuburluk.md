@@ -2,6 +2,7 @@
 layout: term
 title: abur cuburluk
 slug: abur-cuburluk
+letter: A
 lisan: Türkçe
 anlamlar:
 - Abur cubur olma durumu

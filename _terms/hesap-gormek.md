@@ -2,6 +2,7 @@
 layout: term
 title: hesap görmek
 slug: hesap-gormek
+letter: H
 lisan: Türkçe
 anlamlar:
 - alacakla vereceği karşılaştırıp ödeşmek

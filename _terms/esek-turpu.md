@@ -2,6 +2,7 @@
 layout: term
 title: eşek turpu
 slug: esek-turpu
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► yaban turpu

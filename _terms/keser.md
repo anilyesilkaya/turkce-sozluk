@@ -2,6 +2,7 @@
 layout: term
 title: keser
 slug: keser
+letter: K
 lisan: Türkçe
 anlamlar:
 - Tahta, ağaç yontmaya ve çivi çakmaya yarayan, kısa saplı, bir yanı keskin ağızlı çelik araç; kerki

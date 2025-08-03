@@ -2,6 +2,7 @@
 layout: term
 title: yorgunluk kahvesi
 slug: yorgunluk-kahvesi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Dinlenmek amacıyla çalışmaya ara verildiğinde içilen kahve

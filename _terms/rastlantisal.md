@@ -2,6 +2,7 @@
 layout: term
 title: rastlantısal
 slug: rastlantisal
+letter: R
 lisan: Türkçe
 anlamlar:
 - Rastlantı ile ilgili; tesadüfi

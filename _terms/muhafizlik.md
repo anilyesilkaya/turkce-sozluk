@@ -2,6 +2,7 @@
 layout: term
 title: muhafızlık
 slug: muhafizlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Muhafız olma durumu

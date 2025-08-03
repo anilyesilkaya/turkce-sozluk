@@ -2,6 +2,7 @@
 layout: term
 title: duyu
 slug: duyu
+letter: D
 lisan: Türkçe
 anlamlar:
 - İnsanların ve hayvanların, dış dünyanın uyaranlarını görme, işitme, koklama, dokunma ve tatma organlarıyla algılama yeteneği; his

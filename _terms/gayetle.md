@@ -2,6 +2,7 @@
 layout: term
 title: gayetle
 slug: gayetle
+letter: G
 lisan: Türkçe
 anlamlar:
 - Aşırı derecede

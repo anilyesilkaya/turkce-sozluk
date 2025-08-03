@@ -2,6 +2,7 @@
 layout: term
 title: düzenli
 slug: duzenli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Yerli yerinde, kararlı, tertipli olan; muntazam, ıttıratlı

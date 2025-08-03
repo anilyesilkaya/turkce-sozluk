@@ -2,6 +2,7 @@
 layout: term
 title: liberalist
 slug: liberalist
+letter: L
 lisan: Fransızca libéraliste
 anlamlar:
 - ► liberal

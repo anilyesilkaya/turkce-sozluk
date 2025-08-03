@@ -2,6 +2,7 @@
 layout: term
 title: sefer tası
 slug: sefer-tasi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Birbiri üzerine konulup sabitlenerek kolay bir biçimde yemeklerin taşınmasını sağlayan kaplar veya bunlardan her biri

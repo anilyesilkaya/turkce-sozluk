@@ -2,6 +2,7 @@
 layout: term
 title: örnekseme
 slug: ornekseme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Örneksemek işi

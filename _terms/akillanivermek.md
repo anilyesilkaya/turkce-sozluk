@@ -2,6 +2,7 @@
 layout: term
 title: akıllanıvermek
 slug: akillanivermek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Çabucak aklı başına gelmek

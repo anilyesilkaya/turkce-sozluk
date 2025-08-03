@@ -2,6 +2,7 @@
 layout: term
 title: geri kalmamak
 slug: geri-kalmamak
+letter: G
 lisan: Türkçe
 anlamlar:
 - yapmaktan kaçınmamak

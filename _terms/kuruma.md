@@ -2,6 +2,7 @@
 layout: term
 title: kuruma
 slug: kuruma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kurumak işi

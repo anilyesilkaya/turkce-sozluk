@@ -2,6 +2,7 @@
 layout: term
 title: zehirlenme
 slug: zehirlenme
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zehirlenmek durumu; ağılanma

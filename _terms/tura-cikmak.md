@@ -2,6 +2,7 @@
 layout: term
 title: tura çıkmak
 slug: tura-cikmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - gezinti yapmak

@@ -2,6 +2,7 @@
 layout: term
 title: bildirme eki
 slug: bildirme-eki
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çoğu sürerlik, kesinlik veya kuvvetli ihtimal kavramlarını vermek için yüklemin sonuna gelen durur kelimesinin ekleşmiş biçimi olan -dır, -dir eki; koşaç

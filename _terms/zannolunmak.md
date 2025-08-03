@@ -2,6 +2,7 @@
 layout: term
 title: zannolunmak
 slug: zannolunmak
+letter: Z
 lisan: Arapça ẓann + Türkçe olunmak
 anlamlar:
 - ► sanılmak

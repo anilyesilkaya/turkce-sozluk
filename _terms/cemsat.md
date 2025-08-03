@@ -2,6 +2,7 @@
 layout: term
 title: cemşat
 slug: cemsat
+letter: C
 lisan: İngilizce jump shoot
 anlamlar:
 - Basketbolda rakibe yüklenip aniden geri çekilerek ve dönerken zıplayarak atılan şut

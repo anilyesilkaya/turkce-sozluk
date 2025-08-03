@@ -2,6 +2,7 @@
 layout: term
 title: canlandırabilmek
 slug: canlandirabilmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - Canlandırma ihtimali veya imkânı bulunmak

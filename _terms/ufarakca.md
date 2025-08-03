@@ -2,6 +2,7 @@
 layout: term
 title: ufarakça
 slug: ufarakca
+letter: U
 lisan: Türkçe
 anlamlar:
 - Oldukça ufak veya küçük

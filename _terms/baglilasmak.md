@@ -2,6 +2,7 @@
 layout: term
 title: bağlılaşmak
 slug: baglilasmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - İki şey arasında karşılıklı bağıntı olmak veya bağlılık kurmak

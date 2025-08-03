@@ -2,6 +2,7 @@
 layout: term
 title: anayasacılık
 slug: anayasacilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anayasacı olma durumu

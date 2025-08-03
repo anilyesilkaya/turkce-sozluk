@@ -2,6 +2,7 @@
 layout: term
 title: taraklamak
 slug: taraklamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bağ, bahçe toprağının yüzünü tarakla düzeltmek

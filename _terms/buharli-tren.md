@@ -2,6 +2,7 @@
 layout: term
 title: buharlı tren
 slug: buharli-tren
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► buharlı lokomotif

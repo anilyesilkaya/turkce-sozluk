@@ -2,6 +2,7 @@
 layout: term
 title: SAT komandosu
 slug: sat-komandosu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Dalgıçlık, su altı taarruzu, istihbarat toplama, yabancı limanlarda kontrol sağlama, kaçırılma ve rehin alınma gibi durumlarda özel harekât icra eden Türk Deniz Kuvvetleri komandosu

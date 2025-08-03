@@ -2,6 +2,7 @@
 layout: term
 title: Cahiliye Dönemi
 slug: cahiliye-donemi
+letter: C
 lisan: Türkçe
 anlamlar:
 - Araplarda Müslümanlıktan önceki çağ

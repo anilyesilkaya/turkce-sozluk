@@ -2,6 +2,7 @@
 layout: term
 title: ağzı kulaklarına varmak
 slug: agzi-kulaklarina-varmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - çok sevinmek

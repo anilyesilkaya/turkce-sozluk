@@ -2,6 +2,7 @@
 layout: term
 title: sütbaşı
 slug: sutbasi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kaynatılmış sütün yüzeyinde oluşan kaymak tabakası

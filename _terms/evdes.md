@@ -2,6 +2,7 @@
 layout: term
 title: evdeş
 slug: evdes
+letter: E
 lisan: Türkçe
 anlamlar:
 - Aynı evde oturanlardan her biri

@@ -2,6 +2,7 @@
 layout: term
 title: kim kime dum duma
 slug: kim-kime-dum-duma
+letter: K
 lisan: Türkçe
 anlamlar:
 - kimsenin kimseyle ilgilenmediği, kimseye önem verilmediği, çok karışık bir durumu anlatan bir söz

@@ -2,6 +2,7 @@
 layout: term
 title: haddehane
 slug: haddehane
+letter: H
 lisan: Arapça ḥādde + Farsça ḫāne
 anlamlar:
 - Büyük yassı levhaların eritildiği, merdanelerden geçirildiği yer

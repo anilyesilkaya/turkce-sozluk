@@ -2,6 +2,7 @@
 layout: term
 title: cızıltı
 slug: cizilti
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► cızırtı

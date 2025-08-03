@@ -2,6 +2,7 @@
 layout: term
 title: kemik atmak
 slug: kemik-atmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - susturmak, oyalamak için birini küçük bir şeyle avutmak

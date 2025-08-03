@@ -2,6 +2,7 @@
 layout: term
 title: kadim
 slug: kadim
+letter: K
 lisan: Arapça ḳadīm
 anlamlar:
 - Çok eski zamanda var olmuş veya eskiden beri var olan; bayrı

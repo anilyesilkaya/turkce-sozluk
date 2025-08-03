@@ -2,6 +2,7 @@
 layout: term
 title: asmalık
 slug: asmalik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Asma için ayrılmış (yer veya toprak)

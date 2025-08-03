@@ -2,6 +2,7 @@
 layout: term
 title: revani tatlısı
 slug: revani-tatlisi
+letter: R
 lisan: Türkçe
 anlamlar:
 - ► revani

@@ -2,6 +2,7 @@
 layout: term
 title: konum
 slug: konum
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir kimsenin veya bir şeyin bir yerdeki durumu veya duruş biçimi; pozisyon

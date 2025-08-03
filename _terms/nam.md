@@ -2,6 +2,7 @@
 layout: term
 title: nam
 slug: nam
+letter: N
 lisan: Farsça nām
 anlamlar:
 - ► ad (I)

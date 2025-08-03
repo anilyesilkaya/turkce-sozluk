@@ -2,6 +2,7 @@
 layout: term
 title: tuğ
 slug: tug
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► sorguç

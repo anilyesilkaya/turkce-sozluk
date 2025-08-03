@@ -2,6 +2,7 @@
 layout: term
 title: sömürü
 slug: somuru
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sömürmek işi

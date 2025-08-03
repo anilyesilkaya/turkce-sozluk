@@ -2,6 +2,7 @@
 layout: term
 title: başarılış
 slug: basarilis
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başarılmak işi

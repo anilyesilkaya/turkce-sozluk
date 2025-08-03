@@ -2,6 +2,7 @@
 layout: term
 title: vacip olmak
 slug: vacip-olmak
+letter: V
 lisan: Türkçe
 anlamlar:
 - İslam dinine göre yapılması gerekli olmak

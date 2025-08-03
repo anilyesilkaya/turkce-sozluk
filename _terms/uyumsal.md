@@ -2,6 +2,7 @@
 layout: term
 title: uyumsal
 slug: uyumsal
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyuma yönelik, uyumla ilgili

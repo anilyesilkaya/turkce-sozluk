@@ -2,6 +2,7 @@
 layout: term
 title: yalamak
 slug: yalamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir şeyin üzerinden dilini sürüp geçirmek

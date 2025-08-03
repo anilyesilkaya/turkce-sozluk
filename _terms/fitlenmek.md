@@ -2,6 +2,7 @@
 layout: term
 title: fitlenmek
 slug: fitlenmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - Biri başkasına karşı kışkırtılmak

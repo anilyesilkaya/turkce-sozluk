@@ -2,6 +2,7 @@
 layout: term
 title: kavakçılık
 slug: kavakcilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kavakçının yaptığı iş

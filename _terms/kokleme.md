@@ -2,6 +2,7 @@
 layout: term
 title: kökleme
 slug: kokleme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Köklemek işi

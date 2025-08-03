@@ -2,6 +2,7 @@
 layout: term
 title: yok canım
 slug: yok-canim
+letter: Y
 lisan: Türkçe
 anlamlar:
 - '"öyle şey olmaz, hayır, inanmayın" anlamında kullanılan bir söz'

@@ -2,6 +2,7 @@
 layout: term
 title: çerçevesiz
 slug: cercevesiz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çerçeve içinde olmayan

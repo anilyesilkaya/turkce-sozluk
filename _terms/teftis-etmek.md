@@ -2,6 +2,7 @@
 layout: term
 title: teftiş etmek
 slug: teftis-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - denetlemek

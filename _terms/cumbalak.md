@@ -2,6 +2,7 @@
 layout: term
 title: cumbalak
 slug: cumbalak
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► takla

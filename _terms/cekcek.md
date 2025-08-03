@@ -2,6 +2,7 @@
 layout: term
 title: çekçek
 slug: cekcek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Kişileri taşımak için kullanılan, insan gücüyle işleyen iki tekerlekli araç

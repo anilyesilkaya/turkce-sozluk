@@ -2,6 +2,7 @@
 layout: term
 title: dürüşt
 slug: durust
+letter: D
 lisan: Farsça duruşt
 anlamlar:
 - Sert, gücendirici, kırıcı olan

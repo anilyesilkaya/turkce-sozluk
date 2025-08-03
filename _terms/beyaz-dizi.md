@@ -2,6 +2,7 @@
 layout: term
 title: beyaz dizi
 slug: beyaz-dizi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Genellikle aşk konularını basit bir biçimde işleyen romanlardan oluşan dizi

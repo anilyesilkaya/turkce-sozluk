@@ -2,6 +2,7 @@
 layout: term
 title: cehdetmek
 slug: cehdetmek
+letter: C
 lisan: Arapça cehd + Türkçe etmek
 anlamlar:
 - Israrlı biçimde çalışıp çabalamak

@@ -2,6 +2,7 @@
 layout: term
 title: yalıçapkınıgiller
 slug: yalicapkinigiller
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Örneği yalıçapkını olan omurgalı hayvanlardan kuşlar sınıfına giren bir familya

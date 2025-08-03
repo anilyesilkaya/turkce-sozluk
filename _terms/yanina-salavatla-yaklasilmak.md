@@ -2,6 +2,7 @@
 layout: term
 title: yanına salavatla yaklaşılmak
 slug: yanina-salavatla-yaklasilmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - birinin yanına korkarak, çekinerek gitmek

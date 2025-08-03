@@ -2,6 +2,7 @@
 layout: term
 title: hicvetmek
 slug: hicvetmek
+letter: H
 lisan: Arapça hecv + Türkçe etmek
 anlamlar:
 - Alay yoluyla yermek

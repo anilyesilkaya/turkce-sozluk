@@ -2,6 +2,7 @@
 layout: term
 title: resmen
 slug: resmen
+letter: R
 lisan: Arapça resmen
 anlamlar:
 - Devlet adına, resmî olarak; devletçe

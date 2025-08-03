@@ -2,6 +2,7 @@
 layout: term
 title: civan
 slug: civan
+letter: C
 lisan: Farsça cevān
 anlamlar:
 - Yakışıklı genç erkek veya güzel genç kadın

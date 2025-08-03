@@ -2,6 +2,7 @@
 layout: term
 title: ateşçilik
 slug: atescilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ateşçinin yaptığı iş

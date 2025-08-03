@@ -2,6 +2,7 @@
 layout: term
 title: içi dışı bir
 slug: ici-disi-bir
+letter: I
 lisan: Türkçe
 anlamlar:
 - Düşündüğünü açıkça söyleyen, gizli bir düşüncesi olmayan, ikiyüzlü olmayan, özü sözü bir (kimse)

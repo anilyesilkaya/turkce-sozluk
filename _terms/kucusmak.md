@@ -2,6 +2,7 @@
 layout: term
 title: kuçuşmak
 slug: kucusmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kucaklaşmak

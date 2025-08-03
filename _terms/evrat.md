@@ -2,6 +2,7 @@
 layout: term
 title: evrat
 slug: evrat
+letter: E
 lisan: Arapça evrād
 anlamlar:
 - Müslümanlarca belirli zamanlarda okunması âdet olan dualar ve Kur'an ayetleri

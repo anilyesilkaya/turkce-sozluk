@@ -2,6 +2,7 @@
 layout: term
 title: memleketli
 slug: memleketli
+letter: M
 lisan: Türkçe
 anlamlar:
 - Aynı memleketten olan kimse; toprak, yerdeş, hemşehri

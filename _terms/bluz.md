@@ -2,6 +2,7 @@
 layout: term
 title: bluz
 slug: bluz
+letter: B
 lisan: Fransızca blouse
 anlamlar:
 - Vücudun üst bölümüne giyilen, genellikle ince kumaştan yapılan veya iplikten örülen kadın giysisi

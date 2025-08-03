@@ -2,6 +2,7 @@
 layout: term
 title: burnundan solumak
 slug: burnundan-solumak
+letter: B
 lisan: Türkçe
 anlamlar:
 - çok öfkelenmiş olmak

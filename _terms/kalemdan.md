@@ -2,6 +2,7 @@
 layout: term
 title: 'kalemdan '
 slug: kalemdan
+letter: K
 lisan: Arapça ḳalem + Far.-dān
 anlamlar:
 - Hattatların kalem koymak için kullandıkları koruyucu kutucuk

@@ -2,6 +2,7 @@
 layout: term
 title: eklemlenmek
 slug: eklemlenmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eklemle birleşmek

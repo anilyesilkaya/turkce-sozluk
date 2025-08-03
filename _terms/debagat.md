@@ -2,6 +2,7 @@
 layout: term
 title: debagat
 slug: debagat
+letter: D
 lisan: Arapça debāġat
 anlamlar:
 - ► sepicilik

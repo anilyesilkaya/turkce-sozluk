@@ -2,6 +2,7 @@
 layout: term
 title: oylumlu
 slug: oylumlu
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► hacimli

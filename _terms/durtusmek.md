@@ -2,6 +2,7 @@
 layout: term
 title: dürtüşmek
 slug: durtusmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Birbirini dürtmek

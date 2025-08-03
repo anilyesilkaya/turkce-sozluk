@@ -2,6 +2,7 @@
 layout: term
 title: caydırıcı
 slug: caydirici
+letter: C
 lisan: Türkçe
 anlamlar:
 - Kararından, sözünden döndürücü (kimse veya şey)

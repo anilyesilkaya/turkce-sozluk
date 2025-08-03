@@ -2,6 +2,7 @@
 layout: term
 title: iddiacı
 slug: iddiaci
+letter: I
 lisan: Türkçe
 anlamlar:
 - Dediğinde, iddiasında haksız da olsa direnen, inatçı (kimse)

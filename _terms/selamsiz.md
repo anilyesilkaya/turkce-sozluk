@@ -2,6 +2,7 @@
 layout: term
 title: selamsız
 slug: selamsiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Selam olmadan, selam verilmeden

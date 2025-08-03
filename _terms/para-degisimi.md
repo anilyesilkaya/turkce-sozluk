@@ -2,6 +2,7 @@
 layout: term
 title: para değişimi
 slug: para-degisimi
+letter: P
 lisan: Türkçe
 anlamlar:
 - Para alımı ve satımı

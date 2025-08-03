@@ -2,6 +2,7 @@
 layout: term
 title: serivermek
 slug: serivermek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Çabucak veya kısa sürede sermek

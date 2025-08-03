@@ -2,6 +2,7 @@
 layout: term
 title: buji
 slug: buji
+letter: B
 lisan: Fransızca bougie
 anlamlar:
 - Patlamalı motorlarda yakıtı tutuşturmaya yarayan araç

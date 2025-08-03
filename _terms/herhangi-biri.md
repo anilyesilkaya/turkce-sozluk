@@ -2,6 +2,7 @@
 layout: term
 title: herhangi biri
 slug: herhangi-biri
+letter: H
 lisan: Türkçe
 anlamlar:
 - Özellikleri iyice bilinmeyen, iyice belli olmayan, rastgele biri

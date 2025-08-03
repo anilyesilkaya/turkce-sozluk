@@ -2,6 +2,7 @@
 layout: term
 title: okutmak
 slug: okutmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Okumasını, öğrenim görmesini sağlamak

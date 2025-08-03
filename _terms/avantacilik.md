@@ -2,6 +2,7 @@
 layout: term
 title: avantacılık
 slug: avantacilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Avantacı olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: edeben
 slug: edeben
+letter: E
 lisan: Arapça edeben
 anlamlar:
 - Edep gereği, edebe uyarak

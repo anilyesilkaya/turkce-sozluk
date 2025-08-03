@@ -2,6 +2,7 @@
 layout: term
 title: çipo
 slug: cipo
+letter: Ç
 lisan: İtalyanca cipo
 anlamlar:
 - ► çıpa

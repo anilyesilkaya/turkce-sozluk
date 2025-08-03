@@ -2,6 +2,7 @@
 layout: term
 title: göz boyamak
 slug: goz-boyamak
+letter: G
 lisan: Türkçe
 anlamlar:
 - kandırmak, yanıltmak, gösterişle aldatmak

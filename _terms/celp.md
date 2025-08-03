@@ -2,6 +2,7 @@
 layout: term
 title: celp
 slug: celp
+letter: C
 lisan: Arapça celb
 anlamlar:
 - Askerlik görevini yapmaya çağırma

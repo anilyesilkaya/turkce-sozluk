@@ -2,6 +2,7 @@
 layout: term
 title: utulmak
 slug: utulmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Yenme işi yapılmak veya yenme işine konu olmak

@@ -2,6 +2,7 @@
 layout: term
 title: dünyanın sonu
 slug: dunyanin-sonu
+letter: D
 lisan: Türkçe
 anlamlar:
 - bütün olanakların sona erdiği, her şeyin bittiği an

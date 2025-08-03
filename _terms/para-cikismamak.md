@@ -2,6 +2,7 @@
 layout: term
 title: para çıkışmamak
 slug: para-cikismamak
+letter: P
 lisan: Türkçe
 anlamlar:
 - para yetişmemek

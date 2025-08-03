@@ -2,6 +2,7 @@
 layout: term
 title: psikososyal
 slug: psikososyal
+letter: P
 lisan: Fransızca psychosocial
 anlamlar:
 - Zihin ve davranış üzerindeki soysal, kültürel ve çevresel etkilerin kesişimi ve etkileşimi olan

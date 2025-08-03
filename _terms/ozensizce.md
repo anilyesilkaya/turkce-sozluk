@@ -2,6 +2,7 @@
 layout: term
 title: özensizce
 slug: ozensizce
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Özensiz bir biçimde; itinasızca

@@ -2,6 +2,7 @@
 layout: term
 title: haje
 slug: haje
+letter: H
 lisan: Fransızca haje
 anlamlar:
 - Afrika'da yaygın olarak bulunan bir tür kobra (Naja haje)

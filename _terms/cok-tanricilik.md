@@ -2,6 +2,7 @@
 layout: term
 title: çok tanrıcılık
 slug: cok-tanricilik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Birçok tanrının varlığı düşüncesini benimseyen inanç; politeizm, paganizm

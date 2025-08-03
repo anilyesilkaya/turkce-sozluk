@@ -2,6 +2,7 @@
 layout: term
 title: çıkma olmak
 slug: cikma-olmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - sarayda görevli olanlar saray dışında bir yerde görevlendirilmek

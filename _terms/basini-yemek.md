@@ -2,6 +2,7 @@
 layout: term
 title: başını yemek
 slug: basini-yemek
+letter: B
 lisan: Türkçe
 anlamlar:
 - güç duruma düşmesine yol açmak

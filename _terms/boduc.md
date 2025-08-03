@@ -2,6 +2,7 @@
 layout: term
 title: boduç
 slug: boduc
+letter: B
 lisan: Türkçe
 anlamlar:
 - Ağaç veya topraktan yapılmış, testi biçiminde küçük su kabı

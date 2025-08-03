@@ -2,6 +2,7 @@
 layout: term
 title: evç
 slug: evc
+letter: E
 lisan: Arapça evc
 anlamlar:
 - En yüce yer

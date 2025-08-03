@@ -2,6 +2,7 @@
 layout: term
 title: atlatılmak
 slug: atlatilmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Atlatma işi yapılmak veya bu işe konu olmak

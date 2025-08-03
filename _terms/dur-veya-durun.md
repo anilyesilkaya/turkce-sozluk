@@ -2,6 +2,7 @@
 layout: term
 title: dur! (veya durun!)
 slug: dur-veya-durun
+letter: D
 lisan: Türkçe
 anlamlar:
 - '"biraz zaman geçsin" anlamıyla cümlelerin başına gelen bir söz'

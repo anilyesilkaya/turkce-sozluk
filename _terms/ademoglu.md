@@ -2,6 +2,7 @@
 layout: term
 title: âdemoğlu
 slug: ademoglu
+letter: Â
 lisan: Türkçe
 anlamlar:
 - ► insan

@@ -2,6 +2,7 @@
 layout: term
 title: palanka
 slug: palanka
+letter: P
 lisan: Sırpça
 anlamlar:
 - Ağaç ve toprakla yapılmış, hendekle çevrilmiş küçük hisar

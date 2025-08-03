@@ -2,6 +2,7 @@
 layout: term
 title: çilek
 slug: cilek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Gülgillerden, sapları sürüngen, çiçekleri beyaz bir bitki

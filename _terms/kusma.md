@@ -2,6 +2,7 @@
 layout: term
 title: kusma
 slug: kusma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kusmak işi; gaseyan, istifra, kay (II), kayetme

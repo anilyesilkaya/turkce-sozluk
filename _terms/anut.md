@@ -2,6 +2,7 @@
 layout: term
 title: anut
 slug: anut
+letter: A
 lisan: Arapça ʿanūd
 anlamlar:
 - ► inatçı

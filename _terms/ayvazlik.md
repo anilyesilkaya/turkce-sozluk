@@ -2,6 +2,7 @@
 layout: term
 title: ayvazlık
 slug: ayvazlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayvazın görevi

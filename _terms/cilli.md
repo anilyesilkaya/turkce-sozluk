@@ -2,6 +2,7 @@
 layout: term
 title: çilli
 slug: cilli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çili olan

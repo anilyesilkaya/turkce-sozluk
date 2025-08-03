@@ -2,6 +2,7 @@
 layout: term
 title: sayma
 slug: sayma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Saymak işi; ad (II), tadat, addetme

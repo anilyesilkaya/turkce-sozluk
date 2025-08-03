@@ -2,6 +2,7 @@
 layout: term
 title: boyalı
 slug: boyali
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boya sürülmüş, boyanmış veya boyaya batırılmış

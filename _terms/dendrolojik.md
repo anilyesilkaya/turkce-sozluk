@@ -2,6 +2,7 @@
 layout: term
 title: dendrolojik
 slug: dendrolojik
+letter: D
 lisan: Fransızca dendrologique
 anlamlar:
 - ► ağaç bilimsel

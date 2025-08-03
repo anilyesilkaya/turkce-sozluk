@@ -2,6 +2,7 @@
 layout: term
 title: intiba
 slug: intiba
+letter: I
 lisan: Arapça inṭibā
 anlamlar:
 - ► izlenim

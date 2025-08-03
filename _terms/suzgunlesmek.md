@@ -2,6 +2,7 @@
 layout: term
 title: süzgünleşmek
 slug: suzgunlesmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Süzgün duruma gelmek

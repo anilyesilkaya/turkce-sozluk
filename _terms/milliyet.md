@@ -2,6 +2,7 @@
 layout: term
 title: milliyet
 slug: milliyet
+letter: M
 lisan: Arapça milliyyet
 anlamlar:
 - ► millîlik

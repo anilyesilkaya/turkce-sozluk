@@ -2,6 +2,7 @@
 layout: term
 title: ucu kapalı
 slug: ucu-kapali
+letter: U
 lisan: Türkçe
 anlamlar:
 - Sonucu belli olan, seçenekleri bulunmayan

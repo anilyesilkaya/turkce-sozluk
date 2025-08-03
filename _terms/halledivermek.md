@@ -2,6 +2,7 @@
 layout: term
 title: halledivermek
 slug: halledivermek
+letter: H
 lisan: Türkçe
 anlamlar:
 - Çabucak halletmek

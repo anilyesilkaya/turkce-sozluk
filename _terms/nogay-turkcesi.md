@@ -2,6 +2,7 @@
 layout: term
 title: 'Nogay Türkçesi '
 slug: nogay-turkcesi
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nogay Türklerinin kullandığı konuşma ve yazı dili; Nogayca

@@ -2,6 +2,7 @@
 layout: term
 title: endişeli
 slug: endiseli
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► kaygılı

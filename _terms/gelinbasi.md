@@ -2,6 +2,7 @@
 layout: term
 title: gelinbaşı
 slug: gelinbasi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gelinliği tamamlayan parçalardan biri olan duvakla birlikte şekil verilmiş saç

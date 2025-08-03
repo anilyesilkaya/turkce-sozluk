@@ -2,6 +2,7 @@
 layout: term
 title: çenek
 slug: cenek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Tohumda embriyoyu kaplayan etli bölüm

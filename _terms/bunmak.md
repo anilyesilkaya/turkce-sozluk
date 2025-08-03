@@ -2,6 +2,7 @@
 layout: term
 title: bunmak
 slug: bunmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Azla yetinmemek

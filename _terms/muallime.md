@@ -2,6 +2,7 @@
 layout: term
 title: muallime
 slug: muallime
+letter: M
 lisan: Arapça muʿallime
 anlamlar:
 - ► (kadın) öğretmen

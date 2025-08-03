@@ -2,6 +2,7 @@
 layout: term
 title: dişten tırnaktan artırmak
 slug: disten-tirnaktan-artirmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - dişinden tırnağından artırmak

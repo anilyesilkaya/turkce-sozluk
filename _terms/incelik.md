@@ -2,6 +2,7 @@
 layout: term
 title: incelik
 slug: incelik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İnce olma durumu

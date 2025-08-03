@@ -2,6 +2,7 @@
 layout: term
 title: getirtmek
 slug: getirtmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Getirme işini yaptırmak; celbetmek

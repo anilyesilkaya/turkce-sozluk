@@ -2,6 +2,7 @@
 layout: term
 title: Gökyolu
 slug: gokyolu
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► Samanyolu

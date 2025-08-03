@@ -2,6 +2,7 @@
 layout: term
 title: katılık
 slug: katilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Katı (I) olma durumu

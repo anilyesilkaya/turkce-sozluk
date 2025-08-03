@@ -2,6 +2,7 @@
 layout: term
 title: emlakçı
 slug: emlakci
+letter: E
 lisan: Türkçe
 anlamlar:
 - Emlak alıp satma işini yapan kimse

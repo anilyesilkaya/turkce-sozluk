@@ -2,6 +2,7 @@
 layout: term
 title: iki gözü iki çeşme
 slug: iki-gozu-iki-cesme
+letter: I
 lisan: Türkçe
 anlamlar:
 - sürekli ağlar durumda

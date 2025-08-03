@@ -2,6 +2,7 @@
 layout: term
 title: bahşedilmek
 slug: bahsedilmek
+letter: B
 lisan: Farsça baḫş + Türkçe edilmek
 anlamlar:
 - ► bağışlanmak

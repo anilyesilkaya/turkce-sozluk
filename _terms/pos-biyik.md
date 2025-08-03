@@ -2,6 +2,7 @@
 layout: term
 title: pos bıyık
 slug: pos-biyik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Uzun ve gür bıyık

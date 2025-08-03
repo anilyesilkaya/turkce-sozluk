@@ -2,6 +2,7 @@
 layout: term
 title: köyleşme
 slug: koylesme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Köyleşmek işi

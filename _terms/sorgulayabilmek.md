@@ -2,6 +2,7 @@
 layout: term
 title: sorgulayabilmek
 slug: sorgulayabilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sorgulama ihtimali veya imkânı bulunmak

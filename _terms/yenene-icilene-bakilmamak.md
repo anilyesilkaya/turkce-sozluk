@@ -2,6 +2,7 @@
 layout: term
 title: yenene içilene bakılmamak
 slug: yenene-icilene-bakilmamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - bir şey gidere önem verilmeden bol bol harcanmak

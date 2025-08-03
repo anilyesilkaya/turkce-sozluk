@@ -2,6 +2,7 @@
 layout: term
 title: kıvrandırmak
 slug: kivrandirmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kıvranmasına neden olmak

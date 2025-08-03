@@ -2,6 +2,7 @@
 layout: term
 title: sevda
 slug: sevda
+letter: S
 lisan: Arapça sevdā
 anlamlar:
 - Güçlü sevgi, güçlü aşk

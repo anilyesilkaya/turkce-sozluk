@@ -2,6 +2,7 @@
 layout: term
 title: çikolatacı
 slug: cikolataci
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çikolata yapan veya satan kimse

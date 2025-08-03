@@ -2,6 +2,7 @@
 layout: term
 title: uğurlanmak
 slug: ugurlanmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uğurlama işi yapılmak

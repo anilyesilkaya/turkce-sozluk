@@ -2,6 +2,7 @@
 layout: term
 title: idealist
 slug: idealist
+letter: I
 lisan: Fransızca idéaliste
 anlamlar:
 - ► ülkücü

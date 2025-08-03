@@ -2,6 +2,7 @@
 layout: term
 title: uygarlaştırılmak
 slug: uygarlastirilmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uygar duruma getirilmek, uygarlaşması sağlanmak; medenileştirilmek

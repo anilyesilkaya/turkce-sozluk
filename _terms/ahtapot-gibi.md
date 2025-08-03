@@ -2,6 +2,7 @@
 layout: term
 title: ahtapot gibi
 slug: ahtapot-gibi
+letter: A
 lisan: Türkçe
 anlamlar:
 - sırnaşık, yapışkan (kimse)

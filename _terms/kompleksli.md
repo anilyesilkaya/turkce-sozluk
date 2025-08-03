@@ -2,6 +2,7 @@
 layout: term
 title: kompleksli
 slug: kompleksli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Duygu karmaşası içinde olan

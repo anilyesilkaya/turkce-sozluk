@@ -2,6 +2,7 @@
 layout: term
 title: fil elması
 slug: fil-elmasi
+letter: F
 lisan: Türkçe
 anlamlar:
 - Turunçgillerden, Hindistan'da yetişen bir ağaç (Feronia elephantum)

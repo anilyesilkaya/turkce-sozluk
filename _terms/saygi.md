@@ -2,6 +2,7 @@
 layout: term
 title: saygı
 slug: saygi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Değeri, üstünlüğü, yaşlılığı, yararlılığı, kutsallığı dolayısıyla bir kimseye, bir şeye karşı dikkatli, özenli, ölçülü davranmaya sebep olan sevgi duygusu; hürmet, ihtiram

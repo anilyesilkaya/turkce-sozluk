@@ -2,6 +2,7 @@
 layout: term
 title: çıkılanmak
 slug: cikilanmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıkılama işi yapılmak

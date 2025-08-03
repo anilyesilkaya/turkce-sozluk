@@ -2,6 +2,7 @@
 layout: term
 title: süt gibi
 slug: sut-gibi
+letter: S
 lisan: Türkçe
 anlamlar:
 - çok beyaz, çok temiz

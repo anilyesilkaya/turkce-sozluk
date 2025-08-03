@@ -2,6 +2,7 @@
 layout: term
 title: bir ayak üzerinde (veya üstünde)
 slug: bir-ayak-uzerinde-veya-ustunde
+letter: B
 lisan: Türkçe
 anlamlar:
 - çok kısa zamanda

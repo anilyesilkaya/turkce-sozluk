@@ -2,6 +2,7 @@
 layout: term
 title: kerpiç
 slug: kerpic
+letter: K
 lisan: Türkçe
 anlamlar:
 - Duvar örmekte kullanılmak için kalıplara dökülüp güneşte kurutulmuş saman ve balçık karışımı ilkel tuğla

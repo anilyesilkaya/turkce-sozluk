@@ -2,6 +2,7 @@
 layout: term
 title: çizgi roman
 slug: cizgi-roman
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Konuyu ve olaylar zincirini kesintisiz olarak resimleme yöntemiyle okuyucuya sunan roman

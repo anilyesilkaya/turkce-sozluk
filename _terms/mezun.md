@@ -2,6 +2,7 @@
 layout: term
 title: mezun
 slug: mezun
+letter: M
 lisan: Arapça meʾẕūn
 anlamlar:
 - Bir okulu bitirerek diploma almış (kimse)

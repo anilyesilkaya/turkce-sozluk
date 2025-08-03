@@ -2,6 +2,7 @@
 layout: term
 title: çatır çatır sökmek
 slug: catir-catir-sokmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - bir şeyi zorlayarak yerinden söküp çıkarmak

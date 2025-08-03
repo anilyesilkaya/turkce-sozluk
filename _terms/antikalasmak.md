@@ -2,6 +2,7 @@
 layout: term
 title: antikalaşmak
 slug: antikalasmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Antika duruma gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: şüpheye (veya şüphesine) kapılmak
 slug: supheye-veya-suphesine-kapilmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - kuşkulanmak

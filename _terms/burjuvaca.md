@@ -2,6 +2,7 @@
 layout: term
 title: burjuvaca
 slug: burjuvaca
+letter: B
 lisan: Türkçe
 anlamlar:
 - Burjuva gibi, burjuvaya yakışan

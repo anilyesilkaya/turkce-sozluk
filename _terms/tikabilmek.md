@@ -2,6 +2,7 @@
 layout: term
 title: tıkabilmek
 slug: tikabilmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tıkma ihtimali veya imkânı bulunmak

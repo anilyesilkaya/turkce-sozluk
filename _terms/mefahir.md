@@ -2,6 +2,7 @@
 layout: term
 title: mefahir
 slug: mefahir
+letter: M
 lisan: Arapça mefāḫir
 anlamlar:
 - Övünülecek şeyler, övünceler

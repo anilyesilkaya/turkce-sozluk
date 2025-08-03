@@ -2,6 +2,7 @@
 layout: term
 title: hocalık
 slug: hocalik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hoca olma durumu

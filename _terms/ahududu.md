@@ -2,6 +2,7 @@
 layout: term
 title: ahududu
 slug: ahududu
+letter: A
 lisan: Farsça āhū + Arapça tūt + Türkçe -i
 anlamlar:
 - Gülgillerden, böğürtleni andıran, çalı görünümünde, dikenli bir bitki (Rubus idaeus)

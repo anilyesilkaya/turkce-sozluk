@@ -2,6 +2,7 @@
 layout: term
 title: inkılap etmek
 slug: inkilap-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - bir durumdan başka bir duruma dönüşmek

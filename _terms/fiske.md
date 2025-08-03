@@ -2,6 +2,7 @@
 layout: term
 title: fiske
 slug: fiske
+letter: F
 lisan: Rumca
 anlamlar:
 - Parmak uçlarıyla yapılan hafif vuruş

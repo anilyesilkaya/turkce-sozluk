@@ -2,6 +2,7 @@
 layout: term
 title: geçersiz oy
 slug: gecersiz-oy
+letter: G
 lisan: Türkçe
 anlamlar:
 - Oylama kurallarına uygun olarak kullanılmadığı için geçersiz sayılmış oy

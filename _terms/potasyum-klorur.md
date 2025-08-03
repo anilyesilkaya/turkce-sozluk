@@ -2,6 +2,7 @@
 layout: term
 title: potasyum klorür
 slug: potasyum-klorur
+letter: P
 lisan: Türkçe
 anlamlar:
 - Öbür potasyum birleşiklerinin çoğunun hazırlanmasında kullanılan, susuz durumda 768 °C'de eriyen, renksiz küpler biçiminde billurlaşan madde (KCI)

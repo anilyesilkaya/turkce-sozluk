@@ -2,6 +2,7 @@
 layout: term
 title: alın
 slug: alin
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yüzün, kaşlarla saçlar arasındaki bölümü; cebin

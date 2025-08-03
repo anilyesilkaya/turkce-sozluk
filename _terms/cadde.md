@@ -2,6 +2,7 @@
 layout: term
 title: cadde
 slug: cadde
+letter: C
 lisan: Arapça cādde
 anlamlar:
 - ► ana yol

@@ -2,6 +2,7 @@
 layout: term
 title: tercüme
 slug: tercume
+letter: T
 lisan: Arapça terceme
 anlamlar:
 - ► çeviri

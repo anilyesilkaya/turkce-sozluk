@@ -2,6 +2,7 @@
 layout: term
 title: kalıtımsal
 slug: kalitimsal
+letter: K
 lisan: Türkçe
 anlamlar:
 - Soydan geçme, soydan kalma, kalıtımla ilgili; kalıtsal, irsî

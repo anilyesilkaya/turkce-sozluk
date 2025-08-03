@@ -2,6 +2,7 @@
 layout: term
 title: bildiri
 slug: bildiri
+letter: B
 lisan: Türkçe
 anlamlar:
 - Resmî bir makam, kurum veya resmî olmayan bir örgüt, topluluk tarafından herhangi bir durumu ilgililere duyurmak için yazılan yazı; tebliğ, manifesto

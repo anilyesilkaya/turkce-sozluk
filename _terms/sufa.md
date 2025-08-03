@@ -2,6 +2,7 @@
 layout: term
 title: şufa
 slug: sufa
+letter: Ş
 lisan: Arapça şufʿa
 anlamlar:
 - ► ön alım

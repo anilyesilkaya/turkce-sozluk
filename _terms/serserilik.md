@@ -2,6 +2,7 @@
 layout: term
 title: serserilik
 slug: serserilik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Serseri olma durumu

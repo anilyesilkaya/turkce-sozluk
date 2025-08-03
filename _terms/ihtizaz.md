@@ -2,6 +2,7 @@
 layout: term
 title: ihtizaz
 slug: ihtizaz
+letter: I
 lisan: Arapça ihtizāz
 anlamlar:
 - ► titreşme

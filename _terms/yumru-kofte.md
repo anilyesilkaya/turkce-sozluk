@@ -2,6 +2,7 @@
 layout: term
 title: yumru köfte
 slug: yumru-kofte
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yağsız kıyma, köftelik bulgur, soğan, maydanoz ve baharat kullanılarak hazırlanan bir tür sulu yemek

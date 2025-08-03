@@ -2,6 +2,7 @@
 layout: term
 title: çarpıtabilmek
 slug: carpitabilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çarpıtma ihtimali veya imkânı bulunmak

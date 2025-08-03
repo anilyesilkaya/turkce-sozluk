@@ -2,6 +2,7 @@
 layout: term
 title: saçma sapan
 slug: sacma-sapan
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► saçma

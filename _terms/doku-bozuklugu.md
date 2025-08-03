@@ -2,6 +2,7 @@
 layout: term
 title: doku bozukluğu
 slug: doku-bozuklugu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Yara, darbe, iltihap, ur vb. sebeplerle bir organda ortaya çıkan bozukluk; yıpranma, lezyon

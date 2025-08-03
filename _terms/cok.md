@@ -2,6 +2,7 @@
 layout: term
 title: çok
 slug: cok
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Sayı, nicelik, değer, güç, derece vb. bakımından büyük ve aşırı olan; hayli, az karşıtı

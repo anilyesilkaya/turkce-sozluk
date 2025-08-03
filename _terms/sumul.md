@@ -2,6 +2,7 @@
 layout: term
 title: şümul
 slug: sumul
+letter: Ş
 lisan: Arapça şumūl
 anlamlar:
 - ► kapsam

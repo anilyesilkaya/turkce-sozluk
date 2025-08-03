@@ -2,6 +2,7 @@
 layout: term
 title: ozansı
 slug: ozansi
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► şairimsi

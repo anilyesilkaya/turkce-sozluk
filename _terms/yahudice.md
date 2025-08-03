@@ -2,6 +2,7 @@
 layout: term
 title: Yahudice
 slug: yahudice
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yahudilerin kullandığı dil

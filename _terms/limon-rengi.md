@@ -2,6 +2,7 @@
 layout: term
 title: limon rengi
 slug: limon-rengi
+letter: L
 lisan: Türkçe
 anlamlar:
 - Yeşile çalan açık sarı; limoni

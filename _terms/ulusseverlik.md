@@ -2,6 +2,7 @@
 layout: term
 title: ulusseverlik
 slug: ulusseverlik
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► milletseverlik

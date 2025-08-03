@@ -2,6 +2,7 @@
 layout: term
 title: çağrı cihazı
 slug: cagri-cihazi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Telefon sistemi ve ağı düzeninde belli bir numara verilerek taşıyanına kolayca ulaşılmasını veya ona haber bırakılmasını sağlayan alet; çağrı

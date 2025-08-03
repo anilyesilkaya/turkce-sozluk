@@ -2,6 +2,7 @@
 layout: term
 title: mıhlamak
 slug: mihlamak
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► çivilemek

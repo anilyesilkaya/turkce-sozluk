@@ -2,6 +2,7 @@
 layout: term
 title: karınca duası
 slug: karinca-duasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bereket getirmesi, müşterinin bol olması için dükkân vb. yerlere asılan dua

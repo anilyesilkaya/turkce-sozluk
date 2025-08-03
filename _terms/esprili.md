@@ -2,6 +2,7 @@
 layout: term
 title: esprili
 slug: esprili
+letter: E
 lisan: Türkçe
 anlamlar:
 - Esprisi olan

@@ -2,6 +2,7 @@
 layout: term
 title: geriden geriye
 slug: geriden-geriye
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gizlice, sinsice

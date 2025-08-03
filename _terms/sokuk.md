@@ -2,6 +2,7 @@
 layout: term
 title: sökük
 slug: sokuk
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sökülmüş

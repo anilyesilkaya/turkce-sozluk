@@ -2,6 +2,7 @@
 layout: term
 title: bonfile
 slug: bonfile
+letter: B
 lisan: Fransızca bon filet
 anlamlar:
 - Kasaplık hayvanlarda bel kemiğinin iki yanında bulunan ve yumuşaklığı dolayısıyla beğenilen et bölümü

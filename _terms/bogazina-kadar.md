@@ -2,6 +2,7 @@
 layout: term
 title: boğazına kadar
 slug: bogazina-kadar
+letter: B
 lisan: Türkçe
 anlamlar:
 - pek çok, gereğinden fazla, aşırı ölçüde

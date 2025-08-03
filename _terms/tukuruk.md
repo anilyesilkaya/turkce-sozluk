@@ -2,6 +2,7 @@
 layout: term
 title: tükürük
 slug: tukuruk
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tükürük bezlerinin ağza akan salgısı

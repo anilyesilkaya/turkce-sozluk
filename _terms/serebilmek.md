@@ -2,6 +2,7 @@
 layout: term
 title: serebilmek
 slug: serebilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Serme ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: cesaretli
 slug: cesaretli
+letter: C
 lisan: Türkçe
 anlamlar:
 - Güç veya tehlikeli bir işe girişirken içinde güven duygusu olan; cesur, cüretli, cüretkâr

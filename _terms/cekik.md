@@ -2,6 +2,7 @@
 layout: term
 title: çekik
 slug: cekik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Yanlara doğru çekilerek gerilmiş gibi olan

@@ -2,6 +2,7 @@
 layout: term
 title: dörttek
 slug: dorttek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Kürek yarışlarında sancak ve iskelesinde ikişer tek küreği olan tekne

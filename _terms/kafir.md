@@ -2,6 +2,7 @@
 layout: term
 title: kâfir
 slug: kafir
+letter: K
 lisan: Arapça kāfir
 anlamlar:
 - Tanrı'nın varlığını ve birliğini inkâr eden kimse

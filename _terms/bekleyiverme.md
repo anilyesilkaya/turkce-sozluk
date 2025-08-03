@@ -2,6 +2,7 @@
 layout: term
 title: bekleyiverme
 slug: bekleyiverme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bekleyivermek işi

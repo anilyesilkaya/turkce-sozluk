@@ -2,6 +2,7 @@
 layout: term
 title: caymak
 slug: caymak
+letter: C
 lisan: Türkçe
 anlamlar:
 - Sözünden, kararından dönmek

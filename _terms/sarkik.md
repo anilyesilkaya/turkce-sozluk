@@ -2,6 +2,7 @@
 layout: term
 title: sarkık
 slug: sarkik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Aşağı doğru uzanmış veya sarkmış

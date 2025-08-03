@@ -2,6 +2,7 @@
 layout: term
 title: kov
 slug: kov
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sivrisinek vb. hayvanların ısırmasından korunmak için vücuda sürülen özel sıvı

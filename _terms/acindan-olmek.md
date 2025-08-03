@@ -2,6 +2,7 @@
 layout: term
 title: acından ölmek
 slug: acindan-olmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - çok acıkmak

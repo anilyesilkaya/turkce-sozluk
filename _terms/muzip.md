@@ -2,6 +2,7 @@
 layout: term
 title: muzip
 slug: muzip
+letter: M
 lisan: Arapça muʿẕib
 anlamlar:
 - İnsanı, şaka yollu üzecek veya uğraştıracak davranışlarda bulunmayı huy edinmiş olan; takılgan

@@ -2,6 +2,7 @@
 layout: term
 title: çekingenlik
 slug: cekingenlik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çekingen olma durumu

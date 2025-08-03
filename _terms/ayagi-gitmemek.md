@@ -2,6 +2,7 @@
 layout: term
 title: ayağı gitmemek
 slug: ayagi-gitmemek
+letter: A
 lisan: Türkçe
 anlamlar:
 - gitmek istememek

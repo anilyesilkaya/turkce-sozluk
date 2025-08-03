@@ -2,6 +2,7 @@
 layout: term
 title: tek renkli
 slug: tek-renkli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tek rengi olan

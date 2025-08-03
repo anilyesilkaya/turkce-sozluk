@@ -2,6 +2,7 @@
 layout: term
 title: lezzetlendirmek
 slug: lezzetlendirmek
+letter: L
 lisan: Türkçe
 anlamlar:
 - Yemek vb.ne tat vermek, lezzetlenmesini sağlamak

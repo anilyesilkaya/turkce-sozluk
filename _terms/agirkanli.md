@@ -2,6 +2,7 @@
 layout: term
 title: ağırkanlı
 slug: agirkanli
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► ağırcanlı

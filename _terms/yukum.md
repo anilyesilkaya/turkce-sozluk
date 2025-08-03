@@ -2,6 +2,7 @@
 layout: term
 title: yüküm
 slug: yukum
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yükümlülük

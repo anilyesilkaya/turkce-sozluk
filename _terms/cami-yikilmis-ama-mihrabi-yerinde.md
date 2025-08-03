@@ -2,6 +2,7 @@
 layout: term
 title: cami yıkılmış ama mihrabı yerinde
 slug: cami-yikilmis-ama-mihrabi-yerinde
+letter: C
 lisan: Türkçe
 anlamlar:
 - '"yaşlandığı hâlde güzelliği bozulmamış (kadın)" anlamında kullanılan bir söz'

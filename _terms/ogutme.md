@@ -2,6 +2,7 @@
 layout: term
 title: öğütme
 slug: ogutme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öğütmek işi

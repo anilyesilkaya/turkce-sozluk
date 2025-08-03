@@ -2,6 +2,7 @@
 layout: term
 title: şarkı söylemek
 slug: sarki-soylemek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - belirli bir besteye göre güfteyi uyumlu olarak okumak

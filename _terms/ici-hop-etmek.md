@@ -2,6 +2,7 @@
 layout: term
 title: içi hop etmek
 slug: ici-hop-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - birdenbire heyecanlanmak

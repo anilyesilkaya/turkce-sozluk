@@ -2,6 +2,7 @@
 layout: term
 title: deşik
 slug: desik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Deşilmiş olan

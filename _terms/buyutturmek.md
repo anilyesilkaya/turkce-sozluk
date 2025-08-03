@@ -2,6 +2,7 @@
 layout: term
 title: büyüttürmek
 slug: buyutturmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Büyütme işini yaptırmak

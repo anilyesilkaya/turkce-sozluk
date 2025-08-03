@@ -2,6 +2,7 @@
 layout: term
 title: ipe gitmek
 slug: ipe-gitmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - ölüme gitmek

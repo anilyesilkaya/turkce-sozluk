@@ -2,6 +2,7 @@
 layout: term
 title: zülüf
 slug: zuluf
+letter: Z
 lisan: Farsça zulf
 anlamlar:
 - Şakaklardan sarkan saç lülesi

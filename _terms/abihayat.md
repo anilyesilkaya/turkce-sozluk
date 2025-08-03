@@ -2,6 +2,7 @@
 layout: term
 title: abıhayat
 slug: abihayat
+letter: A
 lisan: Farsça āb + Arapça ḥayāt
 anlamlar:
 - Efsanelere göre içen kimseye ölümsüzlük sağladığına inanılan bir su; bengi su, dirim suyu

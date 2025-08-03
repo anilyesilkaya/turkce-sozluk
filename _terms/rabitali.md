@@ -2,6 +2,7 @@
 layout: term
 title: rabıtalı
 slug: rabitali
+letter: R
 lisan: Türkçe
 anlamlar:
 - ► düzgün

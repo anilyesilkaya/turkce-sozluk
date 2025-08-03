@@ -2,6 +2,7 @@
 layout: term
 title: reze
 slug: reze
+letter: R
 lisan: Arapça rezze
 anlamlar:
 - ► menteşe

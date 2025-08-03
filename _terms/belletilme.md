@@ -2,6 +2,7 @@
 layout: term
 title: belletilme
 slug: belletilme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belletilmek işi

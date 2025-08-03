@@ -2,6 +2,7 @@
 layout: term
 title: açılma
 slug: acilma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Açılmak işi; küşayiş

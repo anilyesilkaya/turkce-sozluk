@@ -2,6 +2,7 @@
 layout: term
 title: gönülsüzlük
 slug: gonulsuzluk
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bir işi istemeyerek yapma

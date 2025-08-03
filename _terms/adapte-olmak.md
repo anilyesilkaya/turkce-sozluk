@@ -2,6 +2,7 @@
 layout: term
 title: adapte olmak
 slug: adapte-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - uymak, uyum sağlamak

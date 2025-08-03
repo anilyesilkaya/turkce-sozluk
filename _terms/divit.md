@@ -2,6 +2,7 @@
 layout: term
 title: divit
 slug: divit
+letter: D
 lisan: Arapça devāt
 anlamlar:
 - Hokkadaki mürekkebe batırılarak yazı yazmaya yarayan ve değişik uçları olan bir tür kalem

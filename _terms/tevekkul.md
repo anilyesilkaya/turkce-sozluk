@@ -2,6 +2,7 @@
 layout: term
 title: tevekkül
 slug: tevekkul
+letter: T
 lisan: Arapça tevekkul
 anlamlar:
 - Herhangi bir işte elinden geleni yapıp daha sonrasını Allah'a bırakma, Allah’a güvenme

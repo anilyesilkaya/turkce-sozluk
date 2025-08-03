@@ -2,6 +2,7 @@
 layout: term
 title: medenileştirilmek
 slug: medenilestirilmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► uygarlaştırılmak

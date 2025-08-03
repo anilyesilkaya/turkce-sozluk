@@ -2,6 +2,7 @@
 layout: term
 title: infial duymak
 slug: infial-duymak
+letter: I
 lisan: Türkçe
 anlamlar:
 - kızgınlık duymak, öfkelenmek

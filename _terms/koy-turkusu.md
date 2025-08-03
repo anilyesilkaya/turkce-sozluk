@@ -2,6 +2,7 @@
 layout: term
 title: köy türküsü
 slug: koy-turkusu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Köyü veya köylüyü anlatan türkü

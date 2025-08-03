@@ -2,6 +2,7 @@
 layout: term
 title: bir aralık
 slug: bir-aralik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bir ara

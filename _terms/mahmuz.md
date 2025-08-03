@@ -2,6 +2,7 @@
 layout: term
 title: mahmuz
 slug: mahmuz
+letter: M
 lisan: Arapça mihmāz
 anlamlar:
 - Çizmenin, potinin arkasına takılan ve binek hayvanlarını dürtüp hızlandırmaya yarayan demir veya çelik parça

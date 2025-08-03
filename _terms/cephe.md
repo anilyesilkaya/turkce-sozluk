@@ -2,6 +2,7 @@
 layout: term
 title: cephe
 slug: cephe
+letter: C
 lisan: Arapça cebhe
 anlamlar:
 - Bir şeyin veya yapının ön tarafta bulunan bölümü; alnaç

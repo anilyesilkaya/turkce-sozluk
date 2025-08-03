@@ -2,6 +2,7 @@
 layout: term
 title: için için yanmak
 slug: icin-icin-yanmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - ateşin yanması sürmek, farkına varılmadan yanmak

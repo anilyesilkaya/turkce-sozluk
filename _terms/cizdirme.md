@@ -2,6 +2,7 @@
 layout: term
 title: çizdirme
 slug: cizdirme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çizdirmek işi

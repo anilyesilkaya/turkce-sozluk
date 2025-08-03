@@ -2,6 +2,7 @@
 layout: term
 title: eskimek
 slug: eskimek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eski duruma gelmek; eskileşmek, köhnemek

@@ -2,6 +2,7 @@
 layout: term
 title: dünyaya gelmek
 slug: dunyaya-gelmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - insan, doğmak

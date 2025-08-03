@@ -2,6 +2,7 @@
 layout: term
 title: ilgisini çekmek
 slug: ilgisini-cekmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - ilgisini, dikkatini ve merakını üzerinde toplamak, alaka duymak

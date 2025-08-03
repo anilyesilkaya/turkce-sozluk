@@ -2,6 +2,7 @@
 layout: term
 title: lahavle çekmek (veya okumak)
 slug: lahavle-cekmek-veya-okumak
+letter: L
 lisan: Türkçe
 anlamlar:
 - '"lahavle" sözünü söylemek'

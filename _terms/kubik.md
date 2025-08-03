@@ -2,6 +2,7 @@
 layout: term
 title: kübik
 slug: kubik
+letter: K
 lisan: Fransızca cubique
 anlamlar:
 - Küp ve kesme biçiminde olan

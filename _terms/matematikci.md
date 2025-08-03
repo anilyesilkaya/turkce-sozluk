@@ -2,6 +2,7 @@
 layout: term
 title: matematikçi
 slug: matematikci
+letter: M
 lisan: Türkçe
 anlamlar:
 - Matematikle uğraşan kimse; riyaziyeci, matematisyen

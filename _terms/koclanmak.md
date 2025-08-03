@@ -2,6 +2,7 @@
 layout: term
 title: koçlanmak
 slug: koclanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Gelişerek koç durumuna gelmek

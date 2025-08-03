@@ -2,6 +2,7 @@
 layout: term
 title: tükürük hokkası
 slug: tukuruk-hokkasi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Porselen, maden vb.nden yapılan, içine tükürülen kap

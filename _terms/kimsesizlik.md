@@ -2,6 +2,7 @@
 layout: term
 title: kimsesizlik
 slug: kimsesizlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kimsesiz olma durumu; öksüzlük, bikeslik

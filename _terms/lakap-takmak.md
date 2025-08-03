@@ -2,6 +2,7 @@
 layout: term
 title: lakap takmak
 slug: lakap-takmak
+letter: L
 lisan: Türkçe
 anlamlar:
 - bir kimseye onun bir özelliğini belirtecek bir ad vermek

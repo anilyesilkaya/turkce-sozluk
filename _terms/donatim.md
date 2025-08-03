@@ -2,6 +2,7 @@
 layout: term
 title: donatım
 slug: donatim
+letter: D
 lisan: Türkçe
 anlamlar:
 - Donatmak işi

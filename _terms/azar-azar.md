@@ -2,6 +2,7 @@
 layout: term
 title: azar azar
 slug: azar-azar
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► yavaş yavaş

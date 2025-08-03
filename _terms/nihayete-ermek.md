@@ -2,6 +2,7 @@
 layout: term
 title: nihayete ermek
 slug: nihayete-ermek
+letter: N
 lisan: Türkçe
 anlamlar:
 - sona varmak, sonuçlanmak, bitmek

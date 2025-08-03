@@ -2,6 +2,7 @@
 layout: term
 title: ihtarda bulunmak
 slug: ihtarda-bulunmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - ihtar etmek

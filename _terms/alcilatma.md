@@ -2,6 +2,7 @@
 layout: term
 title: alçılatma
 slug: alcilatma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alçılatmak işi

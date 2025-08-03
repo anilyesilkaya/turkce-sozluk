@@ -2,6 +2,7 @@
 layout: term
 title: çişi gelmek
 slug: cisi-gelmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - işeyeceği gelmek

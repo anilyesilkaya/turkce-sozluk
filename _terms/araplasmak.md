@@ -2,6 +2,7 @@
 layout: term
 title: Araplaşmak
 slug: araplasmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Araplara özgü yaşayış tarzını benimsemek

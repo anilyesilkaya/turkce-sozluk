@@ -2,6 +2,7 @@
 layout: term
 title: etli canlı
 slug: etli-canli
+letter: E
 lisan: Türkçe
 anlamlar:
 - Dolgun vücutlu, sağlıklı, güçlü

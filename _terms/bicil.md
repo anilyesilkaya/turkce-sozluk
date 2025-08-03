@@ -2,6 +2,7 @@
 layout: term
 title: bıcıl
 slug: bicil
+letter: B
 lisan: Türkçe
 anlamlar:
 - Aşık kemiğinin altında bulunan küçük bir kemik

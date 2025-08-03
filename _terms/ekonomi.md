@@ -2,6 +2,7 @@
 layout: term
 title: ekonomi
 slug: ekonomi
+letter: E
 lisan: Fransızca économie
 anlamlar:
 - İnsanların yaşayabilmek için üretme, ürettiklerini bölüşme biçimlerinin ve bu faaliyetlerden doğan ilişkilerin bütünü; iktisat

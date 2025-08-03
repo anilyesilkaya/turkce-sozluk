@@ -2,6 +2,7 @@
 layout: term
 title: arsenikli
 slug: arsenikli
+letter: A
 lisan: Türkçe
 anlamlar:
 - İçinde arsenik bulunan

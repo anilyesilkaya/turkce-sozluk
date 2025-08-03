@@ -2,6 +2,7 @@
 layout: term
 title: mareşal
 slug: maresal
+letter: M
 lisan: Fransızca maréchal
 anlamlar:
 - En yüksek askerî rütbe

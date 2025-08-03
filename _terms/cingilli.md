@@ -2,6 +2,7 @@
 layout: term
 title: çıngıllı
 slug: cingilli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çınlama sesi çıkaran

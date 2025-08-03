@@ -2,6 +2,7 @@
 layout: term
 title: adat
 slug: adat
+letter: A
 lisan: Arapça ‘ādād
 anlamlar:
 - Töreler, âdetler

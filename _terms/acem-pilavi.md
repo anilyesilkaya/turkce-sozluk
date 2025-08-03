@@ -2,6 +2,7 @@
 layout: term
 title: Acem pilavı
 slug: acem-pilavi
+letter: A
 lisan: Türkçe
 anlamlar:
 - İçine safran ve zencefil eklenerek yapılan, İran usulü bir pilav türü

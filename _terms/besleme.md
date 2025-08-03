@@ -2,6 +2,7 @@
 layout: term
 title: beşleme
 slug: besleme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beşlemek işi

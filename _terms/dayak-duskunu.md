@@ -2,6 +2,7 @@
 layout: term
 title: dayak düşkünü
 slug: dayak-duskunu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dayağa layık olan, dövülmeyi hak eden (kimse)

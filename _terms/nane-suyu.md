@@ -2,6 +2,7 @@
 layout: term
 title: nane suyu
 slug: nane-suyu
+letter: N
 lisan: Türkçe
 anlamlar:
 - İçinde nane ruhu eritilmiş su

@@ -2,6 +2,7 @@
 layout: term
 title: feodallik
 slug: feodallik
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► derebeylik

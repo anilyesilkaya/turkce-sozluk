@@ -2,6 +2,7 @@
 layout: term
 title: musammat
 slug: musammat
+letter: M
 lisan: Arapça musammaṭ
 anlamlar:
 - Divan şiirinde dörtlüklerden kurulu nazım şekillerinin genel adı

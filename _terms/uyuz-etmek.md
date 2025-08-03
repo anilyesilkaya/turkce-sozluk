@@ -2,6 +2,7 @@
 layout: term
 title: uyuz etmek
 slug: uyuz-etmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - sinirlendirmek

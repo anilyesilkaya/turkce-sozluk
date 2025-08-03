@@ -2,6 +2,7 @@
 layout: term
 title: paltosuz
 slug: paltosuz
+letter: P
 lisan: Türkçe
 anlamlar:
 - Palto giymemiş olan

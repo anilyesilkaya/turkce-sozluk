@@ -2,6 +2,7 @@
 layout: term
 title: ocak
 slug: ocak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Ateş yakmaya yarayan, pişirme, ısıtma, ısınma vb. amaçlarla kullanılan yer; ocaklık

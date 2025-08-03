@@ -2,6 +2,7 @@
 layout: term
 title: stabil
 slug: stabil
+letter: S
 lisan: Fransızca stable
 anlamlar:
 - ► dayanıklı

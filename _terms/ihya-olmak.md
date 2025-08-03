@@ -2,6 +2,7 @@
 layout: term
 title: ihya olmak
 slug: ihya-olmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - daha iyi bir duruma gelmek

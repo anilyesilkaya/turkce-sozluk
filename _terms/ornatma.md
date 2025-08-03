@@ -2,6 +2,7 @@
 layout: term
 title: ornatma
 slug: ornatma
+letter: O
 lisan: Türkçe
 anlamlar:
 - Ornatmak işi, ikame etme

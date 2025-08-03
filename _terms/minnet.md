@@ -2,6 +2,7 @@
 layout: term
 title: minnet
 slug: minnet
+letter: M
 lisan: Arapça minnet
 anlamlar:
 - Yapılan bir iyiliğe karşı kendini borçlu sayma; gönül borcu

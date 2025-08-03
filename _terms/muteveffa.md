@@ -2,6 +2,7 @@
 layout: term
 title: müteveffa
 slug: muteveffa
+letter: M
 lisan: Arapça muteveffā
 anlamlar:
 - Ölmüş, ölü kimse

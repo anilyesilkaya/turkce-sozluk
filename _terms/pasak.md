@@ -2,6 +2,7 @@
 layout: term
 title: pasak
 slug: pasak
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► kir

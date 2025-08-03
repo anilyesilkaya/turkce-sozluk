@@ -2,6 +2,7 @@
 layout: term
 title: gereksinme
 slug: gereksinme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gereksinmek durumu

@@ -2,6 +2,7 @@
 layout: term
 title: sektör
 slug: sektor
+letter: S
 lisan: Fransızca secteur
 anlamlar:
 - ► kesim

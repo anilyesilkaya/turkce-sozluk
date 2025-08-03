@@ -2,6 +2,7 @@
 layout: term
 title: zıt kutup
 slug: zit-kutup
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Farklı durum ve yapıda olan (kimse)

@@ -2,6 +2,7 @@
 layout: term
 title: başka biri
 slug: baska-biri
+letter: B
 lisan: Türkçe
 anlamlar:
 - Diğer bir kimse

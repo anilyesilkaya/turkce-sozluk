@@ -2,6 +2,7 @@
 layout: term
 title: tabiiye
 slug: tabiiye
+letter: T
 lisan: Arapça ṭabiʽiyye
 anlamlar:
 - Tabiat bilgisi dersi

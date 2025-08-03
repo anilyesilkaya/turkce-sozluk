@@ -2,6 +2,7 @@
 layout: term
 title: ticari
 slug: ticari
+letter: T
 lisan: Arapça ticārī
 anlamlar:
 - Ticaretle ilgili, ticarete ilişkin

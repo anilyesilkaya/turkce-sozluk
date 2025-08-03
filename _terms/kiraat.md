@@ -2,6 +2,7 @@
 layout: term
 title: kıraat
 slug: kiraat
+letter: K
 lisan: Arapça ḳirāʾat
 anlamlar:
 - ► okuma

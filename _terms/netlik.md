@@ -2,6 +2,7 @@
 layout: term
 title: netlik
 slug: netlik
+letter: N
 lisan: Türkçe
 anlamlar:
 - Net olma durumu

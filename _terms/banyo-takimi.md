@@ -2,6 +2,7 @@
 layout: term
 title: banyo takımı
 slug: banyo-takimi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Banyo odalarında ıslak zemine serilen altı plastik, üstü havlu vb. dokuma olan paspas

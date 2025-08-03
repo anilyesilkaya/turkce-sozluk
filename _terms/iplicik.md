@@ -2,6 +2,7 @@
 layout: term
 title: iplicik
 slug: iplicik
+letter: I
 lisan: Türkçe
 anlamlar:
 - Sığırların soluk borularına yerleşen ve ara konakçısız bulaşan, en çok 8 santimetre uzunluğunda akciğer kıl kurdu (Dictyocaulus viviparus)

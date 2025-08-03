@@ -2,6 +2,7 @@
 layout: term
 title: çivi gibi çakılı (olmak)
 slug: civi-gibi-cakili-olmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - hiç çıkmayacak gibi sağlam yerleşmiş (olmak)

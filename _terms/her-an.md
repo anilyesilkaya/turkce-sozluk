@@ -2,6 +2,7 @@
 layout: term
 title: her an
 slug: her-an
+letter: H
 lisan: Türkçe
 anlamlar:
 - Her zaman, her dakika

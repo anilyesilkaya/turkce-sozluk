@@ -2,6 +2,7 @@
 layout: term
 title: katıkçılık
 slug: katikcilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Katıkçının yaptığı iş

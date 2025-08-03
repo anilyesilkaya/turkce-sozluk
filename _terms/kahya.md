@@ -2,6 +2,7 @@
 layout: term
 title: kâhya
 slug: kahya
+letter: K
 lisan: Farsça ked + ḫudā
 anlamlar:
 - Konak, çiftlik vb. yerlerde türlü işleri yapmakla görevli kimse

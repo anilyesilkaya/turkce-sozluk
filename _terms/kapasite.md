@@ -2,6 +2,7 @@
 layout: term
 title: kapasite
 slug: kapasite
+letter: K
 lisan: Fransızca capacité
 anlamlar:
 - Bir şeyi içine alma, sığdırma sınırı, kapsama gücü; sığa

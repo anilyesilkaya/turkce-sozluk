@@ -2,6 +2,7 @@
 layout: term
 title: manalıca
 slug: manalica
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► manalı

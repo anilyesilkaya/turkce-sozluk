@@ -2,6 +2,7 @@
 layout: term
 title: fırt fırt
 slug: firt-firt
+letter: F
 lisan: Türkçe
 anlamlar:
 - Sürekli olarak

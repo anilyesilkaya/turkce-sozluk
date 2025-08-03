@@ -2,6 +2,7 @@
 layout: term
 title: tapulama
 slug: tapulama
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tapulamak işi

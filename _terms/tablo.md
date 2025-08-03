@@ -2,6 +2,7 @@
 layout: term
 title: tablo
 slug: tablo
+letter: T
 lisan: Fransızca tableau
 anlamlar:
 - Bez, tahta, kâğıt vb. maddeler üzerine yapılmış yağlı boya, sulu boya, pastel veya kara kalem resim; levha

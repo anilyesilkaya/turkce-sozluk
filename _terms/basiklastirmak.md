@@ -2,6 +2,7 @@
 layout: term
 title: basıklaştırmak
 slug: basiklastirmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Basık duruma getirmek

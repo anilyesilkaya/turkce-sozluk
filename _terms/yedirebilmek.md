@@ -2,6 +2,7 @@
 layout: term
 title: yedirebilmek
 slug: yedirebilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yedirme ihtimali veya imkânı bulunmak

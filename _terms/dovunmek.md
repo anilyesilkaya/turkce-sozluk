@@ -2,6 +2,7 @@
 layout: term
 title: dövünmek
 slug: dovunmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Aşırı üzüntü, çaresizlik, pişmanlık duyarak çırpınmak, kendi kendini dövmek; vurunmak

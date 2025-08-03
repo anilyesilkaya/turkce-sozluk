@@ -2,6 +2,7 @@
 layout: term
 title: bönlük
 slug: bonluk
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► saflık

@@ -2,6 +2,7 @@
 layout: term
 title: gelgit
 slug: gelgit
+letter: G
 lisan: Türkçe
 anlamlar:
 - Boşuna gidip gelme

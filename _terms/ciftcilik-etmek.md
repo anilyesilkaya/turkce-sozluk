@@ -2,6 +2,7 @@
 layout: term
 title: çiftçilik etmek
 slug: ciftcilik-etmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - tarımla uğraşmak, rençperlik yapmak

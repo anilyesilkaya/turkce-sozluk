@@ -2,6 +2,7 @@
 layout: term
 title: susku
 slug: susku
+letter: S
 lisan: Türkçe
 anlamlar:
 - Az konuşma, susma, sükût

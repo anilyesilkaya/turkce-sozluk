@@ -2,6 +2,7 @@
 layout: term
 title: şenlenmek
 slug: senlenmek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şen duruma gelmek, gönlü açılmak

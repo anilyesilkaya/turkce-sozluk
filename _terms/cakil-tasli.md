@@ -2,6 +2,7 @@
 layout: term
 title: çakıl taşlı
 slug: cakil-tasli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çakıl taşı bulunan

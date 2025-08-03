@@ -2,6 +2,7 @@
 layout: term
 title: salapurya
 slug: salapurya
+letter: S
 lisan: İtalyanca scialuppa
 anlamlar:
 - Ticaret eşyası taşımakta kullanılan, 10-15 tonluk, üçgen biçiminde yelkeni olan ticaret gemisi

@@ -2,6 +2,7 @@
 layout: term
 title: uyruk
 slug: uyruk
+letter: U
 lisan: Türkçe
 anlamlar:
 - Bir devlete vatandaşlık bağıyla bağlı olma durumu; tebaa

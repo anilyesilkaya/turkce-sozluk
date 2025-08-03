@@ -2,6 +2,7 @@
 layout: term
 title: müftülük
 slug: muftuluk
+letter: M
 lisan: Türkçe
 anlamlar:
 - Müftü olma durumu

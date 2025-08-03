@@ -2,6 +2,7 @@
 layout: term
 title: 'nazende çiçeği '
 slug: nazende-cicegi
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► ıtırşahi

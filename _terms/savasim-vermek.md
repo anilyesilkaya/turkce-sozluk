@@ -2,6 +2,7 @@
 layout: term
 title: savaşım vermek
 slug: savasim-vermek
+letter: S
 lisan: Türkçe
 anlamlar:
 - mücadele etmek

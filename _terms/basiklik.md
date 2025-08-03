@@ -2,6 +2,7 @@
 layout: term
 title: basıklık
 slug: basiklik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Basık olma durumu

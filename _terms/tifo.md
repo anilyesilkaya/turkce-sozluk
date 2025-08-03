@@ -2,6 +2,7 @@
 layout: term
 title: tifo
 slug: tifo
+letter: T
 lisan: Yunanca
 anlamlar:
 - Kirli sularda, bu sularla sulanmış sebzelerde bulunan, mikroplarla oluşan, ortalama üç hafta süren, ateşli ve tehlikeli bir bağırsak hastalığı; karahumma

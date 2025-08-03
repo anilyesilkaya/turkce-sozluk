@@ -2,6 +2,7 @@
 layout: term
 title: sambacılık
 slug: sambacilik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sambacı olma durumu

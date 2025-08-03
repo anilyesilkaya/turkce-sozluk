@@ -2,6 +2,7 @@
 layout: term
 title: asabı bozulmak
 slug: asabi-bozulmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - sinirleri bozulmak, sinirlenmek

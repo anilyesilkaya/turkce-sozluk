@@ -2,6 +2,7 @@
 layout: term
 title: sevgili
 slug: sevgili
+letter: S
 lisan: Türkçe
 anlamlar:
 - Gönülden sevilen, gönül verilmiş olan kimse; habip, manita, yavuklu, yâr

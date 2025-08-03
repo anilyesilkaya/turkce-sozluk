@@ -2,6 +2,7 @@
 layout: term
 title: sansasyon
 slug: sansasyon
+letter: S
 lisan: Fransızca sensation
 anlamlar:
 - ► dalgalanma

@@ -2,6 +2,7 @@
 layout: term
 title: ihtilaflı
 slug: ihtilafli
+letter: I
 lisan: Türkçe
 anlamlar:
 - Uyuşmazlığa sebep olan, anlaşmazlık konusu olan

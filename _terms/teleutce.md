@@ -2,6 +2,7 @@
 layout: term
 title: Teleütçe
 slug: teleutce
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► Teleüt Türkçesi

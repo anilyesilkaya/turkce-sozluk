@@ -2,6 +2,7 @@
 layout: term
 title: dilini kedi (veya fare) mi yedi?
 slug: dilini-kedi-veya-fare-mi-yedi
+letter: D
 lisan: Türkçe
 anlamlar:
 - '"neden konuşmuyorsun?" anlamında kullanılan bir söz'

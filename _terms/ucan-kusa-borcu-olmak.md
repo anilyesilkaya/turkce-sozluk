@@ -2,6 +2,7 @@
 layout: term
 title: uçan kuşa borcu olmak
 slug: ucan-kusa-borcu-olmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - pek çok kişiye borçlu olmak

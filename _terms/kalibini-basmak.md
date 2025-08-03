@@ -2,6 +2,7 @@
 layout: term
 title: kalıbını basmak
 slug: kalibini-basmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir şeyi güvenle doğrulamak

@@ -2,6 +2,7 @@
 layout: term
 title: ön kabul
 slug: on-kabul
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Başvurunun değerlendirilmesinden önce yapılan ilk kabul işlemi

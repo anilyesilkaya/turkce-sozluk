@@ -2,6 +2,7 @@
 layout: term
 title: oruç
 slug: oruc
+letter: O
 lisan: Farsça rūze
 anlamlar:
 - Tanrı'ya ibadet amacıyla yeme, içme vb. şeylerden belli bir süre kendini alıkoyma

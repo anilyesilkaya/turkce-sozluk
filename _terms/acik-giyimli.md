@@ -2,6 +2,7 @@
 layout: term
 title: açık giyimli
 slug: acik-giyimli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kolları, göğsü veya sırtı açıkta bırakan elbise giymiş olan (kadın); dekolte

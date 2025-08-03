@@ -2,6 +2,7 @@
 layout: term
 title: isimlenme
 slug: isimlenme
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► adlanma

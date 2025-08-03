@@ -2,6 +2,7 @@
 layout: term
 title: uyaklı
 slug: uyakli
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► kafiyeli

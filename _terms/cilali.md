@@ -2,6 +2,7 @@
 layout: term
 title: cilalı
 slug: cilali
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cilası olan, cila sürülmüş, cila ile parlatılmış; mücella

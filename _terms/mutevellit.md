@@ -2,6 +2,7 @@
 layout: term
 title: mütevellit
 slug: mutevellit
+letter: M
 lisan: Arapça mutevellid
 anlamlar:
 - Doğmuş, dünyaya gelmiş

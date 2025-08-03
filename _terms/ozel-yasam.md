@@ -2,6 +2,7 @@
 layout: term
 title: özel yaşam
 slug: ozel-yasam
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► özel hayat

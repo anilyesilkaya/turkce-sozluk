@@ -2,6 +2,7 @@
 layout: term
 title: üçkâğıtçı
 slug: uckagitci
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üçkâğıt oyunu oynatan kimse

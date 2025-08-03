@@ -2,6 +2,7 @@
 layout: term
 title: oyalı
 slug: oyali
+letter: O
 lisan: Türkçe
 anlamlar:
 - Kenarına oya yapılmış veya geçirilmiş

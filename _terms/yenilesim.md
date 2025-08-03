@@ -2,6 +2,7 @@
 layout: term
 title: yenileşim
 slug: yenilesim
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Değişen koşullara uyabilmek için toplumsal, kültürel ve yönetimsel ortamlarda yeni yöntemlerin kullanılmaya başlanması; yenilik, inovasyon

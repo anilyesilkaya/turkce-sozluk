@@ -2,6 +2,7 @@
 layout: term
 title: komprador
 slug: komprador
+letter: K
 lisan: Fransızca comprador
 anlamlar:
 - ► aracı

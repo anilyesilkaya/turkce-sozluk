@@ -2,6 +2,7 @@
 layout: term
 title: çizgi resim
 slug: cizgi-resim
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Yalnız çizgilerle yapılmış resim

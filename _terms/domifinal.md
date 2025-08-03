@@ -2,6 +2,7 @@
 layout: term
 title: dömifinal
 slug: domifinal
+letter: D
 lisan: Fransızca demi-finale
 anlamlar:
 - ► yarı final

@@ -2,6 +2,7 @@
 layout: term
 title: elektronik sözlük
 slug: elektronik-sozluk
+letter: E
 lisan: Türkçe
 anlamlar:
 - İçerdiği bilgiler elektronik ortamda sunulan sözlük; e-sözlük

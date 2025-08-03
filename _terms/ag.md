@@ -2,6 +2,7 @@
 layout: term
 title: ağ
 slug: ag
+letter: A
 lisan: Türkçe
 anlamlar:
 - Pantolon veya külotun apış arasına gelen yeri; apışlık

@@ -2,6 +2,7 @@
 layout: term
 title: kalem oynatmak
 slug: kalem-oynatmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - yazı yazmak

@@ -2,6 +2,7 @@
 layout: term
 title: göğsünü kabartmak
 slug: gogsunu-kabartmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - bir olay dolayısıyla kıvanç duygusunu ortaya koymak, övünmek

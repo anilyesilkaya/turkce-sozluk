@@ -2,6 +2,7 @@
 layout: term
 title: yer etmek
 slug: yer-etmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - iz bırakmak

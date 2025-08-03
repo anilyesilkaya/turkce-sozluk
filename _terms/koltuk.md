@@ -2,6 +2,7 @@
 layout: term
 title: koltuk
 slug: koltuk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Omuz başının altında, kolun gövde ile birleştiği yer

@@ -2,6 +2,7 @@
 layout: term
 title: kinlenmek
 slug: kinlenmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Öç almak istemek, kin tutmak

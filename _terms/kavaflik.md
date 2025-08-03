@@ -2,6 +2,7 @@
 layout: term
 title: kavaflık
 slug: kavaflik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kavaf olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: kilitli
 slug: kilitli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kilidi olan

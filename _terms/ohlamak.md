@@ -2,6 +2,7 @@
 layout: term
 title: ohlamak
 slug: ohlamak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oh sesini çıkarmak

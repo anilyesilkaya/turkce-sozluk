@@ -2,6 +2,7 @@
 layout: term
 title: kötülemek
 slug: kotulemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Biri veya bir şey için olumsuz, aşağılayıcı, hoş olmayan sözler söylemek; çamurlamak

@@ -2,6 +2,7 @@
 layout: term
 title: üstüne üstlük
 slug: ustune-ustluk
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Fazla olarak

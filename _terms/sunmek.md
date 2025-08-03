@@ -2,6 +2,7 @@
 layout: term
 title: sünmek
 slug: sunmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Esnekliğini yitirerek gevşemek

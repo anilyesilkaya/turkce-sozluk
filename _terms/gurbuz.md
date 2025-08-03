@@ -2,6 +2,7 @@
 layout: term
 title: gürbüz
 slug: gurbuz
+letter: G
 lisan: Türkçe
 anlamlar:
 - Sağlam, güçlü ve iyi gelişmiş

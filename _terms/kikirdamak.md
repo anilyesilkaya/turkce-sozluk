@@ -2,6 +2,7 @@
 layout: term
 title: kıkırdamak
 slug: kikirdamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - '"Kıkır kıkır" diye ses çıkararak gülmek'

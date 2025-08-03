@@ -2,6 +2,7 @@
 layout: term
 title: canavarlaştırmak
 slug: canavarlastirmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - Canavar durumuna getirmek

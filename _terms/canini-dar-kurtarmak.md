@@ -2,6 +2,7 @@
 layout: term
 title: canını dar kurtarmak
 slug: canini-dar-kurtarmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - ölümden kurtulmak

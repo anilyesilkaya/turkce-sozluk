@@ -2,6 +2,7 @@
 layout: term
 title: ferade ferade
 slug: ferade-ferade
+letter: F
 lisan: Arapça firāde'den
 anlamlar:
 - Teker teker, ayrı ayrı bir biçimde

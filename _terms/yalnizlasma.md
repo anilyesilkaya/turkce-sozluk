@@ -2,6 +2,7 @@
 layout: term
 title: yalnızlaşma
 slug: yalnizlasma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yalnızlaşmak işi

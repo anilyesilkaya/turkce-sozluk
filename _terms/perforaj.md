@@ -2,6 +2,7 @@
 layout: term
 title: perforaj
 slug: perforaj
+letter: P
 lisan: Fransızca perforage
 anlamlar:
 - Kâğıdın kolay yırtılmasını veya kopmasını sağlamak için kâğıdı aralıklı olarak deliklendirme

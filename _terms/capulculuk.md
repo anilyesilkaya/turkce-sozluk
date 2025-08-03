@@ -2,6 +2,7 @@
 layout: term
 title: çapulculuk
 slug: capulculuk
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çapulcunun yaptığı iş; plaçkacılık

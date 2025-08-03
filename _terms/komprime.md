@@ -2,6 +2,7 @@
 layout: term
 title: komprime
 slug: komprime
+letter: K
 lisan: Fransızca comprimé
 anlamlar:
 - Çoğu kez yassı veya silindir biçiminde katı ilaç, hap; sıkıt

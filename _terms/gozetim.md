@@ -2,6 +2,7 @@
 layout: term
 title: gözetim
 slug: gozetim
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gözetmek işi; nezaret

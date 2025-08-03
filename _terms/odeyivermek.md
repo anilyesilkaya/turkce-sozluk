@@ -2,6 +2,7 @@
 layout: term
 title: ödeyivermek
 slug: odeyivermek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Çabucak veya kısa sürede ödemek

@@ -2,6 +2,7 @@
 layout: term
 title: yapıntı
 slug: yapinti
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Gerçekle çeliştiğini, gerçekliğe uymadığını bile bile tasarlanan şey, hayal gücüyle yaratılmış olan şey; tasni

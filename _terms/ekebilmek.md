@@ -2,6 +2,7 @@
 layout: term
 title: ekebilmek
 slug: ekebilmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ekme ihtimali veya imkânı bulunmak

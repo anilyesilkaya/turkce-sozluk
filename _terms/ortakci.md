@@ -2,6 +2,7 @@
 layout: term
 title: ortakçı
 slug: ortakci
+letter: O
 lisan: Türkçe
 anlamlar:
 - Ortakçılık yapan kimse; yarıcı, maraba

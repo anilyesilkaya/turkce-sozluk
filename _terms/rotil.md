@@ -2,6 +2,7 @@
 layout: term
 title: rotil
 slug: rotil
+letter: R
 lisan: Fransızca rotule
 anlamlar:
 - Otomobilin ön düzeninde bulunan, her yöne dönebilen ve mafsal olarak kullanılan küre biçiminde bir parça

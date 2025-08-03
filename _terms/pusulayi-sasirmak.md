@@ -2,6 +2,7 @@
 layout: term
 title: pusulayı şaşırmak
 slug: pusulayi-sasirmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - güç bir duruma düşerek ne yapacağını bilememek

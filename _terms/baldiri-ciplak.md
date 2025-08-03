@@ -2,6 +2,7 @@
 layout: term
 title: baldırı çıplak
 slug: baldiri-ciplak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Ayaktakımından, işsiz, serseri (kimse)

@@ -2,6 +2,7 @@
 layout: term
 title: demir kırı
 slug: demir-kiri
+letter: D
 lisan: Türkçe
 anlamlar:
 - Siyah, beyaz karışık griye yakın renkte at donu

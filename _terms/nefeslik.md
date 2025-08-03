@@ -2,6 +2,7 @@
 layout: term
 title: nefeslik
 slug: nefeslik
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► hava deliği

@@ -2,6 +2,7 @@
 layout: term
 title: düşkün olmak
 slug: duskun-olmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - çok önem, değer vermek

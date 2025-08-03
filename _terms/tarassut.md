@@ -2,6 +2,7 @@
 layout: term
 title: tarassut
 slug: tarassut
+letter: T
 lisan: Arapça taraṣṣud
 anlamlar:
 - ► gözleme (I)

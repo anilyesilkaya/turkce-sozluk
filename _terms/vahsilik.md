@@ -2,6 +2,7 @@
 layout: term
 title: vahşilik
 slug: vahsilik
+letter: V
 lisan: Türkçe
 anlamlar:
 - ► yabanilik

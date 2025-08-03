@@ -2,6 +2,7 @@
 layout: term
 title: kancalamak
 slug: kancalamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kancayı bir şeye takmak

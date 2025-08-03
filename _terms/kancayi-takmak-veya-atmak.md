@@ -2,6 +2,7 @@
 layout: term
 title: kancayı takmak (veya atmak)
 slug: kancayi-takmak-veya-atmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir kimsenin kötülüğü için uğraşmak

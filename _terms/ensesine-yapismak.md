@@ -2,6 +2,7 @@
 layout: term
 title: ensesine yapışmak
 slug: ensesine-yapismak
+letter: E
 lisan: Türkçe
 anlamlar:
 - yakalayıp sıkıştırmak

@@ -2,6 +2,7 @@
 layout: term
 title: pezevenklik
 slug: pezevenklik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pezevenk olma durumu; dümbüklük, godoşluk, kavatlık, muhabbet tellallığı

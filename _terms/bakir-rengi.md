@@ -2,6 +2,7 @@
 layout: term
 title: bakır rengi
 slug: bakir-rengi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kızıla yakın kahverengi

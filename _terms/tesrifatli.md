@@ -2,6 +2,7 @@
 layout: term
 title: teşrifatlı
 slug: tesrifatli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Resmî veya geleneksel kurallara bağlı

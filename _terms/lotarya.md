@@ -2,6 +2,7 @@
 layout: term
 title: lotarya
 slug: lotarya
+letter: L
 lisan: İtalyanca lotteria
 anlamlar:
 - Ad veya numara çekilerek oynanan şans oyunlarının genel adı

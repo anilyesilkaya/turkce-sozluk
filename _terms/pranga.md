@@ -2,6 +2,7 @@
 layout: term
 title: pranga
 slug: pranga
+letter: P
 lisan: İtalyanca branca
 anlamlar:
 - Ağır ceza verilmiş tutukluların ayaklarına takılan kalın zincir

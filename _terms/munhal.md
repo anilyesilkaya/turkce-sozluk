@@ -2,6 +2,7 @@
 layout: term
 title: münhal
 slug: munhal
+letter: M
 lisan: Arapça munḥall
 anlamlar:
 - ► boş

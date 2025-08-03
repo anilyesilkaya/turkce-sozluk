@@ -2,6 +2,7 @@
 layout: term
 title: onbeşli
 slug: onbesli
+letter: O
 lisan: Türkçe
 anlamlar:
 - Rumi takvime göre 1899 veya 1900 yılında doğanlar arasından Birinci Dünya Savaşı'na çağrılan (kimse)

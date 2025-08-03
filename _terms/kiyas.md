@@ -2,6 +2,7 @@
 layout: term
 title: kıyas
 slug: kiyas
+letter: K
 lisan: Arapça ḳiyās
 anlamlar:
 - Bir şeyi başka bir şeye benzeterek değerlendirme, hakkında hüküm verme; oranlama

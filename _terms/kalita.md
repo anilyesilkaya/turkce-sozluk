@@ -2,6 +2,7 @@
 layout: term
 title: kalita
 slug: kalita
+letter: K
 lisan: Türkçe
 anlamlar:
 - Özellikle düşmanı takip için kullanılan, baş tarafında top bulunan, ağır donanma sınıfından bir kadırga

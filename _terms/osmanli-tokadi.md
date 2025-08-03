@@ -2,6 +2,7 @@
 layout: term
 title: Osmanlı tokadı
 slug: osmanli-tokadi
+letter: O
 lisan: Türkçe
 anlamlar:
 - Sert ve etkili tokat

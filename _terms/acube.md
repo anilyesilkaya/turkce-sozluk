@@ -2,6 +2,7 @@
 layout: term
 title: acube
 slug: acube
+letter: A
 lisan: Arapça uʿcūbe
 anlamlar:
 - Tuhaf kimse

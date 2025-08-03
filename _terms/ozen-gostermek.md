@@ -2,6 +2,7 @@
 layout: term
 title: özen göstermek
 slug: ozen-gostermek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - bir şeyi özenerek elden geldiğince iyi olmasına gayret ederek yapmak; itina etmek

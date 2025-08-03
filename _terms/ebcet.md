@@ -2,6 +2,7 @@
 layout: term
 title: ebcet
 slug: ebcet
+letter: E
 lisan: Arapça ebced
 anlamlar:
 - Arap alfabesinin her harfi bir rakamı karşılayan ve anlamsız sekiz kelimeden oluşan değişik bir düzeni

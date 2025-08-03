@@ -2,6 +2,7 @@
 layout: term
 title: şanlı
 slug: sanli
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► ünlü

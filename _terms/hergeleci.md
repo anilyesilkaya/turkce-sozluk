@@ -2,6 +2,7 @@
 layout: term
 title: hergeleci
 slug: hergeleci
+letter: H
 lisan: Türkçe
 anlamlar:
 - Yaban atlarına bakan kimse, yabani at çobanı

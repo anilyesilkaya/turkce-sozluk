@@ -2,6 +2,7 @@
 layout: term
 title: darbetmek
 slug: darbetmek
+letter: D
 lisan: Arapça ḍarb + Türkçe etmek
 anlamlar:
 - Vurmak, çarpmak

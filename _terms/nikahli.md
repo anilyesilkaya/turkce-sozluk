@@ -2,6 +2,7 @@
 layout: term
 title: nikâhlı
 slug: nikahli
+letter: N
 lisan: Türkçe
 anlamlar:
 - Aralarında nikâh işlemi yapılan

@@ -2,6 +2,7 @@
 layout: term
 title: 'kan revan içinde bırakmak '
 slug: kan-revan-icinde-birakmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - her yanını kana bulamak

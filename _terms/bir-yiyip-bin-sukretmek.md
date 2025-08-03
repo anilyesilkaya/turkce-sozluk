@@ -2,6 +2,7 @@
 layout: term
 title: bir yiyip bin şükretmek
 slug: bir-yiyip-bin-sukretmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - kötü durumda olanlara bakarak kendi durumunun değerini bilmek

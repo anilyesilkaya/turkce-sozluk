@@ -2,6 +2,7 @@
 layout: term
 title: mücahede
 slug: mucahede
+letter: M
 lisan: Arapça mucāhede
 anlamlar:
 - ► gayret

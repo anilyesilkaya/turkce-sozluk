@@ -2,6 +2,7 @@
 layout: term
 title: prizma
 slug: prizma
+letter: P
 lisan: Fransızca prisme
 anlamlar:
 - Işınları saptıran ve ayrıştıran, saydam maddeden yapılmış üçgen cisim

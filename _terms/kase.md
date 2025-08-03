@@ -2,6 +2,7 @@
 layout: term
 title: kaşe
 slug: kase
+letter: K
 lisan: Fransızca cachet
 anlamlar:
 - Damga; mühür

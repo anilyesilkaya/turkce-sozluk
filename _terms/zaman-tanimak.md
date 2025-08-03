@@ -2,6 +2,7 @@
 layout: term
 title: zaman tanımak
 slug: zaman-tanimak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - bir iş için yeterli süreyi vermek

@@ -2,6 +2,7 @@
 layout: term
 title: batmak
 slug: batmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir sıvının üstündeyken içine gömülmek

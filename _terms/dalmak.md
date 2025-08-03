@@ -2,6 +2,7 @@
 layout: term
 title: dalmak
 slug: dalmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Suyun içine bütün vücuduyla ve hızla girmek

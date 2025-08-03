@@ -2,6 +2,7 @@
 layout: term
 title: tafsilata girmek
 slug: tafsilata-girmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - ayrıntılar üzerinde durmak

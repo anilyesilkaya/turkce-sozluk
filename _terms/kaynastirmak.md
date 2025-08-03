@@ -2,6 +2,7 @@
 layout: term
 title: kaynaştırmak
 slug: kaynastirmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaynaşmasını sağlamak

@@ -2,6 +2,7 @@
 layout: term
 title: hüküm sürmek
 slug: hukum-surmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - işbaşında olmak

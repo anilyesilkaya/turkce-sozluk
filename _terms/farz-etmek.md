@@ -2,6 +2,7 @@
 layout: term
 title: farz etmek
 slug: farz-etmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - varsaymak

@@ -2,6 +2,7 @@
 layout: term
 title: cayış
 slug: cayis
+letter: C
 lisan: Türkçe
 anlamlar:
 - Caymak işi

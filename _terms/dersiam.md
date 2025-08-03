@@ -2,6 +2,7 @@
 layout: term
 title: dersiam
 slug: dersiam
+letter: D
 lisan: Arapça ders + ʿāmm
 anlamlar:
 - Osmanlılar döneminde müderrislerin camilerde verdikleri ders

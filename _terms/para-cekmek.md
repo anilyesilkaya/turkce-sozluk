@@ -2,6 +2,7 @@
 layout: term
 title: para çekmek
 slug: para-cekmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - bir yere yatırılmış paranın tamamını veya  bir bölümünü almak

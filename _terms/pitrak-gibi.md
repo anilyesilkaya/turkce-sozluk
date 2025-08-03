@@ -2,6 +2,7 @@
 layout: term
 title: pıtrak gibi
 slug: pitrak-gibi
+letter: P
 lisan: Türkçe
 anlamlar:
 - üzerinde çok sayıda meyve bulunan (ağaç ve dal)

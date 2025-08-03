@@ -2,6 +2,7 @@
 layout: term
 title: iş inada binmek
 slug: is-inada-binmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - bir işi yapmakta direnmek

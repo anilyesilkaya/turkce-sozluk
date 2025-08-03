@@ -2,6 +2,7 @@
 layout: term
 title: siren
 slug: siren
+letter: S
 lisan: Fransızca sirène
 anlamlar:
 - İtfaiye, cankurtaran ve polis araçlarında bulunan, tiz ses çıkaran uyarıcı alet

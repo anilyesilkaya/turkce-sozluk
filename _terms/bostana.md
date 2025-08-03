@@ -2,6 +2,7 @@
 layout: term
 title: bostana
 slug: bostana
+letter: B
 lisan: Arapça bustāne
 anlamlar:
 - Domates, soğan, yeşilbiber ve pul biberin nar ekşisi ve sirke ile karışımından yapılan sulu salata

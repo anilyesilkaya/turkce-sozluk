@@ -2,6 +2,7 @@
 layout: term
 title: ilkah
 slug: ilkah
+letter: I
 lisan: Arapça ilḳāḥ
 anlamlar:
 - ► dölleme

@@ -2,6 +2,7 @@
 layout: term
 title: dingin
 slug: dingin
+letter: D
 lisan: Türkçe
 anlamlar:
 - Sakin, durgun olan

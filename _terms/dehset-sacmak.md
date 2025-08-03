@@ -2,6 +2,7 @@
 layout: term
 title: dehşet saçmak
 slug: dehset-sacmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - ortalığa korku vermek

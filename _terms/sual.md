@@ -2,6 +2,7 @@
 layout: term
 title: sual
 slug: sual
+letter: S
 lisan: Arapça suʾāl
 anlamlar:
 - ► soru

@@ -2,6 +2,7 @@
 layout: term
 title: sezgisellik
 slug: sezgisellik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sezgisel olma durumu

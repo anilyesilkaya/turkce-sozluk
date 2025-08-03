@@ -2,6 +2,7 @@
 layout: term
 title: küstahça
 slug: kustahca
+letter: K
 lisan: Türkçe
 anlamlar:
 - Küstah, saygısız bir biçimde

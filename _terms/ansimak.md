@@ -2,6 +2,7 @@
 layout: term
 title: ansımak
 slug: ansimak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► anımsamak

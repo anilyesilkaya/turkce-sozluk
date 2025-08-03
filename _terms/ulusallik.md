@@ -2,6 +2,7 @@
 layout: term
 title: ulusallık
 slug: ulusallik
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► millîlik

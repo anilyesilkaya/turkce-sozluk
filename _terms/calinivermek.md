@@ -2,6 +2,7 @@
 layout: term
 title: çalınıvermek
 slug: calinivermek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Aniden çalınmak

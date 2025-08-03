@@ -2,6 +2,7 @@
 layout: term
 title: karmaşıklaşmak
 slug: karmasiklasmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karmaşık duruma gelmek

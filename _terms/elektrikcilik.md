@@ -2,6 +2,7 @@
 layout: term
 title: elektrikçilik
 slug: elektrikcilik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Elektrikçinin yaptığı iş

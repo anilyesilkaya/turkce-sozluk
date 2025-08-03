@@ -2,6 +2,7 @@
 layout: term
 title: elçek
 slug: elcek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Gelinin avuç içine kına yakıldıktan sonra kullanılan, kumaştan yapılmış bir eldiven türü

@@ -2,6 +2,7 @@
 layout: term
 title: anlamlı
 slug: anlamli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anlamı olan; manalı

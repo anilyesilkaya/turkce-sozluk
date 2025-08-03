@@ -2,6 +2,7 @@
 layout: term
 title: dişsizlik
 slug: dissizlik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dişsiz olma durumu

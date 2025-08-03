@@ -2,6 +2,7 @@
 layout: term
 title: cam göz
 slug: cam-goz
+letter: C
 lisan: Türkçe
 anlamlar:
 - Gözü takma olan

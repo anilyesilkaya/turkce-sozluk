@@ -2,6 +2,7 @@
 layout: term
 title: kaplamak
 slug: kaplamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Her yanını örtmek; istila etmek

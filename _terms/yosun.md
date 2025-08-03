@@ -2,6 +2,7 @@
 layout: term
 title: yosun
 slug: yosun
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Çoğu sularda, ağaç veya taşların üzerinde yetişen tallı bitkilerin ilkel yapıdaki örneklerine verilen genel ad

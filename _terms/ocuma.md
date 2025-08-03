@@ -2,6 +2,7 @@
 layout: term
 title: ocuma
 slug: ocuma
+letter: O
 lisan: Türkçe
 anlamlar:
 - Ocumak işi

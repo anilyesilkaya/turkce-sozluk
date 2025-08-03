@@ -2,6 +2,7 @@
 layout: term
 title: katmerci
 slug: katmerci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Katmer yapıp satan kimse

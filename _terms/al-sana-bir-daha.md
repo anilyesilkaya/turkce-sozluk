@@ -2,6 +2,7 @@
 layout: term
 title: al sana bir ... daha
 slug: al-sana-bir-daha
+letter: A
 lisan: Türkçe
 anlamlar:
 - yeni bir aksilik olduğunda bezginlik bildirmek için `işte` anlamında kullanılan bir söz

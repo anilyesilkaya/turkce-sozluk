@@ -2,6 +2,7 @@
 layout: term
 title: obsesif
 slug: obsesif
+letter: O
 lisan: İngilizce obsessive
 anlamlar:
 - ► takıntılı

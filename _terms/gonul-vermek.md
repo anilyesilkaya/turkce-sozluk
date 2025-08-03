@@ -2,6 +2,7 @@
 layout: term
 title: gönül vermek
 slug: gonul-vermek
+letter: G
 lisan: Türkçe
 anlamlar:
 - sevmek, âşık olmak

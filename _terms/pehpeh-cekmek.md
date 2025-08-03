@@ -2,6 +2,7 @@
 layout: term
 title: pehpeh çekmek
 slug: pehpeh-cekmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - “pehpeh” diyerek beğeni, şaşırma veya yergi ifade etmek

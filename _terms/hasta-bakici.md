@@ -2,6 +2,7 @@
 layout: term
 title: hasta bakıcı
 slug: hasta-bakici
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hekimin tedavi ile ilgili buyruklarını yerine getirip hastaya bakan, hemşirelere yardım eden kimse

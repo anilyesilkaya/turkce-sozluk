@@ -2,6 +2,7 @@
 layout: term
 title: termofor
 slug: termofor
+letter: T
 lisan: Fransızca thermophore
 anlamlar:
 - Kauçuk vb. maddelerden yapılan, içi su veya kimyasal bir madde ile doldurularak ısının aynı düzeyde kalmasını sağlayan kap

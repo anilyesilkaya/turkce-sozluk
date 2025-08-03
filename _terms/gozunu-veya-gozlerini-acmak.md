@@ -2,6 +2,7 @@
 layout: term
 title: gözünü (veya gözlerini) açmak
 slug: gozunu-veya-gozlerini-acmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - uyanmak

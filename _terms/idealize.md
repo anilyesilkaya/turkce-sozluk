@@ -2,6 +2,7 @@
 layout: term
 title: idealize
 slug: idealize
+letter: I
 lisan: Fransızca idéalisé
 anlamlar:
 - '"İdealleştirmek" anlamındaki idealize etmek birleşik fiilinde geçen bir söz'

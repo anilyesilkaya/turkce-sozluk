@@ -2,6 +2,7 @@
 layout: term
 title: evvel bahar
 slug: evvel-bahar
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► ilkbahar

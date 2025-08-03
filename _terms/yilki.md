@@ -2,6 +2,7 @@
 layout: term
 title: yılkı
 slug: yilki
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Tabiatta gruplar hâlinde serbest dolaşan yabani at sürüsü

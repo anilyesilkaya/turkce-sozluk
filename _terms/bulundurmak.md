@@ -2,6 +2,7 @@
 layout: term
 title: bulundurmak
 slug: bulundurmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir şeyin hazır durmasını, elde var olmasını sağlamak

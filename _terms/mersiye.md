@@ -2,6 +2,7 @@
 layout: term
 title: mersiye
 slug: mersiye
+letter: M
 lisan: Arapça mers̱iye
 anlamlar:
 - ► ağıt

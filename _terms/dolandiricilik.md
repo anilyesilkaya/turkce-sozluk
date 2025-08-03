@@ -2,6 +2,7 @@
 layout: term
 title: dolandırıcılık
 slug: dolandiricilik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dolandırıcı olma durumu; ayyarlık, tokatçılık

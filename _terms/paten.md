@@ -2,6 +2,7 @@
 layout: term
 title: paten
 slug: paten
+letter: P
 lisan: Fransızca patin
 anlamlar:
 - Buz üstünde kaymak için kullanılan, tabanına, dar uzun bir çelik takılı ayakkabı

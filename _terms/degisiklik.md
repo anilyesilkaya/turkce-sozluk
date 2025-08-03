@@ -2,6 +2,7 @@
 layout: term
 title: değişiklik
 slug: degisiklik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Değişik olma durumu; başkalık

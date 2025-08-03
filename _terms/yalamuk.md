@@ -2,6 +2,7 @@
 layout: term
 title: yalamuk
 slug: yalamuk
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► soymuk

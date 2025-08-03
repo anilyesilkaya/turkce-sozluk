@@ -2,6 +2,7 @@
 layout: term
 title: çarmıh
 slug: carmih
+letter: Ç
 lisan: Farsça çār + mīḫ
 anlamlar:
 - Suçlunun öldürülmek amacıyla çivilendiği haç biçimindeki darağacı

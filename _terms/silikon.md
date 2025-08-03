@@ -2,6 +2,7 @@
 layout: term
 title: silikon
 slug: silikon
+letter: S
 lisan: Fransızca silicone
 anlamlar:
 - Kapı, pencere vb.ndeki aralıkları örterek hava ve su geçmesini önlemek amacıyla kullanılan şeffaf ve yapışkan bir madde

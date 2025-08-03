@@ -2,6 +2,7 @@
 layout: term
 title: sanadurma
 slug: sanadurma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sanadurmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: canına kastetmek
 slug: canina-kastetmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - intihara kalkışmak

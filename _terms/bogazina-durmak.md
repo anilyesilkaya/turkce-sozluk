@@ -2,6 +2,7 @@
 layout: term
 title: boğazına durmak
 slug: bogazina-durmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - yediği şeyi yutamamak

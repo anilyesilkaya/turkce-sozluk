@@ -2,6 +2,7 @@
 layout: term
 title: mertek
 slug: mertek
+letter: M
 lisan: Türkçe
 anlamlar:
 - Yapıda kullanılan dört köşe veya yuvarlak, kalınca ağaç; düver

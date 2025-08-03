@@ -2,6 +2,7 @@
 layout: term
 title: ayakkabılık
 slug: ayakkabilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayakkabı konulan yer; pabuçluk

@@ -2,6 +2,7 @@
 layout: term
 title: görklü
 slug: gorklu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güzel, gösterişli

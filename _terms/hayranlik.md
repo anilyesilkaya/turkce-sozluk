@@ -2,6 +2,7 @@
 layout: term
 title: hayranlık
 slug: hayranlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hayran olma durumu

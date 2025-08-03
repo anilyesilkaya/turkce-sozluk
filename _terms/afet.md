@@ -2,6 +2,7 @@
 layout: term
 title: afet
 slug: afet
+letter: A
 lisan: Arapça āfet
 anlamlar:
 - Çeşitli doğa olaylarının sebep olduğu yıkım

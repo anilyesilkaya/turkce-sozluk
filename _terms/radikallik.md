@@ -2,6 +2,7 @@
 layout: term
 title: radikallik
 slug: radikallik
+letter: R
 lisan: Türkçe
 anlamlar:
 - Radikal olma durumu

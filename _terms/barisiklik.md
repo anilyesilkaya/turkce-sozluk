@@ -2,6 +2,7 @@
 layout: term
 title: barışıklık
 slug: barisiklik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Barışık olma durumu

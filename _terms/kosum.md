@@ -2,6 +2,7 @@
 layout: term
 title: koşum
 slug: kosum
+letter: K
 lisan: Türkçe
 anlamlar:
 - Araba hayvanının kayış takımı; koşum takımı

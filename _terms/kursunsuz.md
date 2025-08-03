@@ -2,6 +2,7 @@
 layout: term
 title: kurşunsuz
 slug: kursunsuz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kurşunu olmayan

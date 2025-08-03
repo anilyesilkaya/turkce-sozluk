@@ -2,6 +2,7 @@
 layout: term
 title: andırmak
 slug: andirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Benzer yanları bulunmak; çağrıştırmak

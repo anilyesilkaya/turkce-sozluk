@@ -2,6 +2,7 @@
 layout: term
 title: çürütüş
 slug: curutus
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çürütmek işi

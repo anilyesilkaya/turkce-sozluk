@@ -2,6 +2,7 @@
 layout: term
 title: çizilivermek
 slug: cizilivermek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çabucak veya ansızın çizilmek

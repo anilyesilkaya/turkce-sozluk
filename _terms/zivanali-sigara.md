@@ -2,6 +2,7 @@
 layout: term
 title: zıvanalı sigara
 slug: zivanali-sigara
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Bir ucunda kartondan zıvana bulunan sigara

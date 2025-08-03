@@ -2,6 +2,7 @@
 layout: term
 title: akdetme
 slug: akdetme
+letter: A
 lisan: Türkçe
 anlamlar:
 - Akdetmek işi

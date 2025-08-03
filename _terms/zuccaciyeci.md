@@ -2,6 +2,7 @@
 layout: term
 title: züccaciyeci
 slug: zuccaciyeci
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Züccaciye satan kimse

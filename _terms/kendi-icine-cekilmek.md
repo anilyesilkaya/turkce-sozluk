@@ -2,6 +2,7 @@
 layout: term
 title: kendi içine çekilmek
 slug: kendi-icine-cekilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - başkasıyla ilişki kurmamak, yalnız başına kalmak, inzivaya çekilmek

@@ -2,6 +2,7 @@
 layout: term
 title: kutnu
 slug: kutnu
+letter: K
 lisan: Arapça ḳuṭnī
 anlamlar:
 - Pamuk veya ipekle karışık pamuktan dokunmuş kalın, ensiz kumaş türü

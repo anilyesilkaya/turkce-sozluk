@@ -2,6 +2,7 @@
 layout: term
 title: kabalık etmek
 slug: kabalik-etmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - kaba, nezaketsiz davranışlarda bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: doğurgu
 slug: dogurgu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Ortaya çıkan sonuç

@@ -2,6 +2,7 @@
 layout: term
 title: mızmızca
 slug: mizmizca
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mızmıza yakışan, mızmız gibi

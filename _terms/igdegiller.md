@@ -2,6 +2,7 @@
 layout: term
 title: iğdegiller
 slug: igdegiller
+letter: I
 lisan: Türkçe
 anlamlar:
 - İki çeneklilerden, örneği iğde olan bitki familyası

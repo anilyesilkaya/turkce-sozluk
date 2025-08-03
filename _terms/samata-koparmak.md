@@ -2,6 +2,7 @@
 layout: term
 title: şamata koparmak
 slug: samata-koparmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - aniden gürültü patırtı çıkarmak

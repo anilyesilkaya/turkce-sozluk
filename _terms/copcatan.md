@@ -2,6 +2,7 @@
 layout: term
 title: çöpçatan
 slug: copcatan
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Evlenmelerde aracılık eden kimse

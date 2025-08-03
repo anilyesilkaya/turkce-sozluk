@@ -2,6 +2,7 @@
 layout: term
 title: cadılık
 slug: cadilik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cadıya yakışır davranış

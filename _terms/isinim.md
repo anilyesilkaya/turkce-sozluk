@@ -2,6 +2,7 @@
 layout: term
 title: ışınım
 slug: isinim
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► radyasyon

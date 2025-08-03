@@ -2,6 +2,7 @@
 layout: term
 title: çapul
 slug: capul
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Birçok kimsenin bir mala üşüşüp bulduklarına el koyması; plaçka

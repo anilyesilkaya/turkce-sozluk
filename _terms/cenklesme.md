@@ -2,6 +2,7 @@
 layout: term
 title: cenkleşme
 slug: cenklesme
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► savaşma

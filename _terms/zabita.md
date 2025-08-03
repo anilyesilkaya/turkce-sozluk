@@ -2,6 +2,7 @@
 layout: term
 title: zabıta
 slug: zabita
+letter: Z
 lisan: Arapça żābiṭa
 anlamlar:
 - Belediye hizmetlerinin güvenliğini sağlamakla görevli yönetim

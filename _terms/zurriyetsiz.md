@@ -2,6 +2,7 @@
 layout: term
 title: zürriyetsiz
 slug: zurriyetsiz
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Dölü olmayan, soyu olmayan

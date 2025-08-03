@@ -2,6 +2,7 @@
 layout: term
 title: lololo
 slug: lololo
+letter: L
 lisan: Türkçe
 anlamlar:
 - ► lolo

@@ -2,6 +2,7 @@
 layout: term
 title: eyleyebilmek
 slug: eyleyebilmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eyleme ihtimali veya imkânı bulunmak

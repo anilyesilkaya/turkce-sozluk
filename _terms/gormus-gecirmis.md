@@ -2,6 +2,7 @@
 layout: term
 title: görmüş geçirmiş
 slug: gormus-gecirmis
+letter: G
 lisan: Türkçe
 anlamlar:
 - Görgülü, geçmişte iyi günler yaşamış, güngörmüş, deneyimli

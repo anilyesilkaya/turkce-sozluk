@@ -2,6 +2,7 @@
 layout: term
 title: dağılıvermek
 slug: dagilivermek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çabucak veya ansızın dağılmak

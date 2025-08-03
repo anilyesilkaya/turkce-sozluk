@@ -2,6 +2,7 @@
 layout: term
 title: ifrit etmek
 slug: ifrit-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - çok kızmasına yol açmak, öfkelendirmek

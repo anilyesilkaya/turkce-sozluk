@@ -2,6 +2,7 @@
 layout: term
 title: bir küme
 slug: bir-kume
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► pek çok

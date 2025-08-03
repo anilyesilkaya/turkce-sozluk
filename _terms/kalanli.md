@@ -2,6 +2,7 @@
 layout: term
 title: kalanlı
 slug: kalanli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bölünenden artanı olmayan

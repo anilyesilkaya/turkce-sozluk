@@ -2,6 +2,7 @@
 layout: term
 title: burulmak
 slug: burulmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Ekseni çevresinde döndürülmek

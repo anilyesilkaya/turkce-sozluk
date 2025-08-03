@@ -2,6 +2,7 @@
 layout: term
 title: at oynatmak
 slug: at-oynatmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - atla hüner göstermek

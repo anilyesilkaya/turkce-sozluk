@@ -2,6 +2,7 @@
 layout: term
 title: vakvaklamak
 slug: vakvaklamak
+letter: V
 lisan: Türkçe
 anlamlar:
 - Ördek "vak vak" diye ses çıkararak bağırmak

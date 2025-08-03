@@ -2,6 +2,7 @@
 layout: term
 title: çete
 slug: cete
+letter: Ç
 lisan: Bulgarca
 anlamlar:
 - Yasa dışı işler yapmak veya etrafındakileri korkutmak amacıyla bir araya gelmiş topluluk

@@ -2,6 +2,7 @@
 layout: term
 title: vâris
 slug: varis
+letter: V
 lisan: Arapça vāris̱
 anlamlar:
 - ► mirasçı

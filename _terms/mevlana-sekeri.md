@@ -2,6 +2,7 @@
 layout: term
 title: 'Mevlâna şekeri '
 slug: mevlana-sekeri
+letter: M
 lisan: Türkçe
 anlamlar:
 - Konya’ya özgü, şeker, su ve limon tuzunun bakır kazanlarda 140 derecede kaynatılmasıyla çeşitli biçimlerde üretilen, beyaz renkli bir tür akide şekeri; peynir şekeri

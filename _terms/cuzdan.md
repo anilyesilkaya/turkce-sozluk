@@ -2,6 +2,7 @@
 layout: term
 title: cüzdan
 slug: cuzdan
+letter: C
 lisan: Arapça cuzʾ + Farsça -dān
 anlamlar:
 - Para, kâğıt vb. koymaya yarayan küçük çanta

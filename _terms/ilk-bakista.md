@@ -2,6 +2,7 @@
 layout: term
 title: ilk bakışta
 slug: ilk-bakista
+letter: I
 lisan: Türkçe
 anlamlar:
 - Görür görmez

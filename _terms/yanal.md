@@ -2,6 +2,7 @@
 layout: term
 title: yanal
 slug: yanal
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yanda olan, yana düşen

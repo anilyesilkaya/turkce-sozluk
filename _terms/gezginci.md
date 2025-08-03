@@ -2,6 +2,7 @@
 layout: term
 title: gezginci
 slug: gezginci
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► gezici

@@ -2,6 +2,7 @@
 layout: term
 title: ölçümlemek
 slug: olcumlemek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Muhakeme etmek

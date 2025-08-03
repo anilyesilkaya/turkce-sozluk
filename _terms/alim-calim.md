@@ -2,6 +2,7 @@
 layout: term
 title: alım çalım
 slug: alim-calim
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► çalım

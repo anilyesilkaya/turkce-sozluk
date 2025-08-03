@@ -2,6 +2,7 @@
 layout: term
 title: koruma
 slug: koruma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Korumak işi; muhafaza, sıyanet, vikaye

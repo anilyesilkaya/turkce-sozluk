@@ -2,6 +2,7 @@
 layout: term
 title: gözünü alamamak
 slug: gozunu-alamamak
+letter: G
 lisan: Türkçe
 anlamlar:
 - bir şeye, bir yere bakmaktayken hayranlık duyarak gözünü oradan başka bir yere çevirememek

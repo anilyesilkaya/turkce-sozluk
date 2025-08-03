@@ -2,6 +2,7 @@
 layout: term
 title: âşığı kesilmek
 slug: asigi-kesilmek
+letter: Â
 lisan: Türkçe
 anlamlar:
 - tutku durumuna getirmek

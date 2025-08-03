@@ -2,6 +2,7 @@
 layout: term
 title: kalleşçe
 slug: kallesce
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalleşe yaraşır

@@ -2,6 +2,7 @@
 layout: term
 title: ihmal
 slug: ihmal
+letter: I
 lisan: Arapça ihmāl
 anlamlar:
 - Gereken ilgiyi göstermeme, önem vermeme; boşlama, savsaklama, savsama

@@ -2,6 +2,7 @@
 layout: term
 title: baskılamak
 slug: baskilamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Baskı altına almak

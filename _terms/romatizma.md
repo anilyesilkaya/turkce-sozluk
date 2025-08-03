@@ -2,6 +2,7 @@
 layout: term
 title: romatizma
 slug: romatizma
+letter: R
 lisan: İtalyanca reumatismo
 anlamlar:
 - Kaslarda ve özellikle eklemlerde kendini gösteren ağrılı hastalıkların genel adı

@@ -2,6 +2,7 @@
 layout: term
 title: kalkabilmek
 slug: kalkabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalkma ihtimali veya imkânı bulunmak

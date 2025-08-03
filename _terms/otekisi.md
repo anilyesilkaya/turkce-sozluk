@@ -2,6 +2,7 @@
 layout: term
 title: ötekisi
 slug: otekisi
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Sözü edilenden başkası; diğeri, yekdiğeri

@@ -2,6 +2,7 @@
 layout: term
 title: yazık
 slug: yazik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► günah

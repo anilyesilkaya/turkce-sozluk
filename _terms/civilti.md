@@ -2,6 +2,7 @@
 layout: term
 title: cıvıltı
 slug: civilti
+letter: C
 lisan: Türkçe
 anlamlar:
 - Kuşların ötüşürken çıkardıkları sesin adı

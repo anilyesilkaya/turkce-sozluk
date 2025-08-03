@@ -2,6 +2,7 @@
 layout: term
 title: yağmur yemek
 slug: yagmur-yemek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yağmurda iyice ıslanmak, sırılsıklam olmak

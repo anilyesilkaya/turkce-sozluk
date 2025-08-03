@@ -2,6 +2,7 @@
 layout: term
 title: hececi
 slug: hececi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hece ölçüsüyle şiir yazan şair

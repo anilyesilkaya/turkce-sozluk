@@ -2,6 +2,7 @@
 layout: term
 title: açıklanma
 slug: aciklanma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Açıklanmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: edebiyatçılık
 slug: edebiyatcilik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Edebiyatçının yaptığı iş; yazıncılık

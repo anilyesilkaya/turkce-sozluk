@@ -2,6 +2,7 @@
 layout: term
 title: uygulama öğretmeni
 slug: uygulama-ogretmeni
+letter: U
 lisan: Türkçe
 anlamlar:
 - Öğretmen adaylarına okul deneyimlerinde kılavuzluk eden öğretmen; rehber öğretmen

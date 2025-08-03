@@ -2,6 +2,7 @@
 layout: term
 title: trafik lambası
 slug: trafik-lambasi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taşıtların ve yayaların kara yollarındaki geçişini düzenleyen ışık sistemi

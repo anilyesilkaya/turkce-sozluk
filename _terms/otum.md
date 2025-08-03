@@ -2,6 +2,7 @@
 layout: term
 title: 'ötüm '
 slug: otum
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Kuşlar vb. için ötmek işi

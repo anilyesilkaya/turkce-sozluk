@@ -2,6 +2,7 @@
 layout: term
 title: danışan
 slug: danisan
+letter: D
 lisan: Türkçe
 anlamlar:
 - Herhangi bir güçlük veya sorunun çözümü için alanın uzmanlarından yardım isteyen kimse

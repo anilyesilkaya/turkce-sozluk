@@ -2,6 +2,7 @@
 layout: term
 title: idare kandili
 slug: idare-kandili
+letter: I
 lisan: Türkçe
 anlamlar:
 - Az ışık veren küçük gaz lambası; idare lambası, şinanay

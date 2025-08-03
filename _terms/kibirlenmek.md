@@ -2,6 +2,7 @@
 layout: term
 title: kibirlenmek
 slug: kibirlenmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kendini üstün görmek

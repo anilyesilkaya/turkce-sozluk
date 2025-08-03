@@ -2,6 +2,7 @@
 layout: term
 title: zırıldanmak
 slug: zirildanmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► zırıldamak

@@ -2,6 +2,7 @@
 layout: term
 title: yüreği titremek
 slug: yuregi-titremek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - endişe, korku duymak

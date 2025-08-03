@@ -2,6 +2,7 @@
 layout: term
 title: sindirme
 slug: sindirme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sindirmek işi

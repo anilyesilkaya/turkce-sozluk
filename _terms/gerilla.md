@@ -2,6 +2,7 @@
 layout: term
 title: gerilla
 slug: gerilla
+letter: G
 lisan: Fransızca guérilla
 anlamlar:
 - Düzenli bir orduya karşı küçük birlikler hâlinde çatışan, hafif silahlarla donatılmış topluluk

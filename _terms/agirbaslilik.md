@@ -2,6 +2,7 @@
 layout: term
 title: ağırbaşlılık
 slug: agirbaslilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağırbaşlı olma durumu; ağırlık, vakar, vakarlılık, vakurluk

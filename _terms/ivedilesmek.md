@@ -2,6 +2,7 @@
 layout: term
 title: ivedileşmek
 slug: ivedilesmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İvedi duruma gelmek

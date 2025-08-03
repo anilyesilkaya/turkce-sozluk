@@ -2,6 +2,7 @@
 layout: term
 title: Altayca
 slug: altayca
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► Altay Türkçesi

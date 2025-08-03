@@ -2,6 +2,7 @@
 layout: term
 title: nasiplenme
 slug: nasiplenme
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nasiplenmek işi

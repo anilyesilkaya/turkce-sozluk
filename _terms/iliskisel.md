@@ -2,6 +2,7 @@
 layout: term
 title: ilişkisel
 slug: iliskisel
+letter: I
 lisan: Türkçe
 anlamlar:
 - İlişkiyle ilgili

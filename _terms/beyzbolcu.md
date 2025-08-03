@@ -2,6 +2,7 @@
 layout: term
 title: beyzbolcu
 slug: beyzbolcu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beyzbol oynayan ve oynatan kimse

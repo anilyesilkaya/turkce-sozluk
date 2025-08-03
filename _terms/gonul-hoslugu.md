@@ -2,6 +2,7 @@
 layout: term
 title: gönül hoşluğu
 slug: gonul-hoslugu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Rahat ve huzurlu olma

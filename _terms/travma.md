@@ -2,6 +2,7 @@
 layout: term
 title: travma
 slug: travma
+letter: T
 lisan: Fransızca trauma
 anlamlar:
 - ► sarsıntı

@@ -2,6 +2,7 @@
 layout: term
 title: müşkülatlı
 slug: muskulatli
+letter: M
 lisan: Türkçe
 anlamlar:
 - Güçlüğü olan, zorluk içinde olan

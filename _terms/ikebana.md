@@ -2,6 +2,7 @@
 layout: term
 title: ikebana
 slug: ikebana
+letter: I
 lisan: Japonca
 anlamlar:
 - Belli kuralları olan Japon çiçek düzenleme sanatı

@@ -2,6 +2,7 @@
 layout: term
 title: berraklaşmak
 slug: berraklasmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Berrak duruma gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: farksızlaşmak
 slug: farksizlasmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - Farksız duruma gelmek

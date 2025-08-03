@@ -2,6 +2,7 @@
 layout: term
 title: çökertiliş
 slug: cokertilis
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çökertilmek işi

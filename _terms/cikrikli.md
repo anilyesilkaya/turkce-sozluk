@@ -2,6 +2,7 @@
 layout: term
 title: çıkrıklı
 slug: cikrikli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıkrığı olan

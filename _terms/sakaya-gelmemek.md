@@ -2,6 +2,7 @@
 layout: term
 title: şakaya gelmemek
 slug: sakaya-gelmemek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - şakaya dayanamamak

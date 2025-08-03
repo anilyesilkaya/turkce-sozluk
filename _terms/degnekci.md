@@ -2,6 +2,7 @@
 layout: term
 title: değnekçi
 slug: degnekci
+letter: D
 lisan: Türkçe
 anlamlar:
 - Taksi, dolmuş vb.nin duraklarında yolcuların binişi ve taşıtların sıra düzenini sağlayan kimse; kâhya

@@ -2,6 +2,7 @@
 layout: term
 title: ihsas
 slug: ihsas
+letter: I
 lisan: Arapça iḥsās
 anlamlar:
 - Üstü kapalı anlatma; sezdirme, ima

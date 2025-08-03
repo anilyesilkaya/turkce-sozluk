@@ -2,6 +2,7 @@
 layout: term
 title: baş altı
 slug: bas-alti
+letter: B
 lisan: Türkçe
 anlamlar:
 - Karakucak ve yağlı güreşte pehlivanların ayrıldıkları beş dereceden ikincisi

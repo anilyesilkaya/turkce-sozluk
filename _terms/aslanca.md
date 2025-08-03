@@ -2,6 +2,7 @@
 layout: term
 title: aslanca
 slug: aslanca
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aslan gibi

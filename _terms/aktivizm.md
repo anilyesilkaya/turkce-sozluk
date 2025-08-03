@@ -2,6 +2,7 @@
 layout: term
 title: aktivizm
 slug: aktivizm
+letter: A
 lisan: Fransızca activisme
 anlamlar:
 - ► etkincilik

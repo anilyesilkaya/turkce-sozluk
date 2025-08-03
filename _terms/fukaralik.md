@@ -2,6 +2,7 @@
 layout: term
 title: fukaralık
 slug: fukaralik
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► yoksulluk

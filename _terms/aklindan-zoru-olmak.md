@@ -2,6 +2,7 @@
 layout: term
 title: aklından zoru olmak
 slug: aklindan-zoru-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - akla sığmayacak işler yapmak

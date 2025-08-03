@@ -2,6 +2,7 @@
 layout: term
 title: balerina
 slug: balerina
+letter: B
 lisan: Fransızca ballerine
 anlamlar:
 - ► balerin

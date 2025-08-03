@@ -2,6 +2,7 @@
 layout: term
 title: elinden gelmek
 slug: elinden-gelmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - yapabilmek

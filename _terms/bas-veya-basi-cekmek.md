@@ -2,6 +2,7 @@
 layout: term
 title: baş (veya başı) çekmek
 slug: bas-veya-basi-cekmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - herhangi bir konuda önde gitmek, önayak olmak

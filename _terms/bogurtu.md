@@ -2,6 +2,7 @@
 layout: term
 title: böğürtü
 slug: bogurtu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Böğürme sırasında çıkan sesin adı

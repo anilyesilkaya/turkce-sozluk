@@ -2,6 +2,7 @@
 layout: term
 title: sahicilik
 slug: sahicilik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sahici olma durumu

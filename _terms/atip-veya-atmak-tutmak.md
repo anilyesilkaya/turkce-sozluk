@@ -2,6 +2,7 @@
 layout: term
 title: atıp (veya atmak) tutmak
 slug: atip-veya-atmak-tutmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir kimse veya bir şey için kötü konuşmak

@@ -2,6 +2,7 @@
 layout: term
 title: nazlanma
 slug: nazlanma
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nazlanmak işi; mırın kırın

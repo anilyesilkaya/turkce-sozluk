@@ -2,6 +2,7 @@
 layout: term
 title: geççe
 slug: gecce
+letter: G
 lisan: Türkçe
 anlamlar:
 - Biraz geç olarak, geç saatlere yakın

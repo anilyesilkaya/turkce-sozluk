@@ -2,6 +2,7 @@
 layout: term
 title: keyfince
 slug: keyfince
+letter: K
 lisan: Türkçe
 anlamlar:
 - İsteğine göre, nasıl isterse, dilediğince, keyfine göre; gönlünce

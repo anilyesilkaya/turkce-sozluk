@@ -2,6 +2,7 @@
 layout: term
 title: su dökünmek
 slug: su-dokunmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - yıkanmak

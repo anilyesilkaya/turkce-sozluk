@@ -2,6 +2,7 @@
 layout: term
 title: ipekçilik
 slug: ipekcilik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İpekçinin yaptığı iş

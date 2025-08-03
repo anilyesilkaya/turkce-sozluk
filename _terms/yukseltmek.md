@@ -2,6 +2,7 @@
 layout: term
 title: yükseltmek
 slug: yukseltmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yükseğe çıkarmak, yukarıda bir noktaya taşımak; kaldırmak

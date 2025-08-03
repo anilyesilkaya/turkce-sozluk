@@ -2,6 +2,7 @@
 layout: term
 title: sandık balığı
 slug: sandik-baligi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sandık balığıgillerden, tropikal denizlerde yaşayan, vücudu çok kenarlı sert kemik plakalardan oluşan zırh ile kaplı bir balık (Lactophrys triqueter)

@@ -2,6 +2,7 @@
 layout: term
 title: paye vermek
 slug: paye-vermek
+letter: P
 lisan: Türkçe
 anlamlar:
 - değer, önem vermek

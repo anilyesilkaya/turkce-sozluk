@@ -2,6 +2,7 @@
 layout: term
 title: şekilselleştirmek
 slug: sekilsellestirmek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► biçimselleştirmek

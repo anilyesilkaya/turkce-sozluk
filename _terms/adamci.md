@@ -2,6 +2,7 @@
 layout: term
 title: adamcı
 slug: adamci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Adam kayıran, kendi adamlarını tutan

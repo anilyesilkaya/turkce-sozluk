@@ -2,6 +2,7 @@
 layout: term
 title: Yahudilik
 slug: yahudilik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yahudi olma durumu; Musevilik, Çıfıtlık

@@ -2,6 +2,7 @@
 layout: term
 title: yanak
 slug: yanak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yüzün göz, kulak ve burun arasındaki bölümü

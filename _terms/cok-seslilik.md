@@ -2,6 +2,7 @@
 layout: term
 title: çok seslilik
 slug: cok-seslilik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çok sesli olma durumu

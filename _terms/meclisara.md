@@ -2,6 +2,7 @@
 layout: term
 title: meclisara
 slug: meclisara
+letter: M
 lisan: Arapça meclis + Farsça -ārā
 anlamlar:
 - Güzel konuşan, kendini toplantılarda konuşmasıyla sevdiren (kimse)

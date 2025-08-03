@@ -2,6 +2,7 @@
 layout: term
 title: ne hikmetse (veya hikmettir)
 slug: ne-hikmetse-veya-hikmettir
+letter: N
 lisan: Türkçe
 anlamlar:
 - bilmezlikten gelinen durumlarda kullanılan bir söz

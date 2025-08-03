@@ -2,6 +2,7 @@
 layout: term
 title: reformculuk
 slug: reformculuk
+letter: R
 lisan: Türkçe
 anlamlar:
 - ► düzeltmecilik

@@ -2,6 +2,7 @@
 layout: term
 title: kalembek
 slug: kalembek
+letter: K
 lisan: (Hint Denizi'ndeki bir adanın adından)
 anlamlar:
 - Bir cins kokulu sandal ağacı; yalancı öd ağacı

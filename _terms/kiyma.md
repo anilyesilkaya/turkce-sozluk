@@ -2,6 +2,7 @@
 layout: term
 title: kıyma
 slug: kiyma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kıymak işi

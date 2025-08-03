@@ -2,6 +2,7 @@
 layout: term
 title: ültimatomsu
 slug: ultimatomsu
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Ültimatomu andıran, ültimatoma benzeyen, ültimatom gibi

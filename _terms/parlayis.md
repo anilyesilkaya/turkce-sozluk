@@ -2,6 +2,7 @@
 layout: term
 title: parlayış
 slug: parlayis
+letter: P
 lisan: Türkçe
 anlamlar:
 - Parlamak işi

@@ -2,6 +2,7 @@
 layout: term
 title: lort
 slug: lort
+letter: L
 lisan: İngilizce lord
 anlamlar:
 - İngiltere'de babadan oğula veya ailenin ilk erkek kişisine geçen veya kral tarafından bağışlanan soyluluk ünvanı

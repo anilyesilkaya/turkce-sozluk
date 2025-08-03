@@ -2,6 +2,7 @@
 layout: term
 title: sabote
 slug: sabote
+letter: S
 lisan: Fransızca saboté
 anlamlar:
 - ► baltalama

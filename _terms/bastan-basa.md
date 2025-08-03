@@ -2,6 +2,7 @@
 layout: term
 title: baştan başa
 slug: bastan-basa
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► tamamen

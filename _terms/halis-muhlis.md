@@ -2,6 +2,7 @@
 layout: term
 title: halis muhlis
 slug: halis-muhlis
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► tam anlamıyla

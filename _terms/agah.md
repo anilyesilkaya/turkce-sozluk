@@ -2,6 +2,7 @@
 layout: term
 title: agâh
 slug: agah
+letter: A
 lisan: Farsça āgāh
 anlamlar:
 - ► bilgili

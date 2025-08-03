@@ -2,6 +2,7 @@
 layout: term
 title: cumbasız
 slug: cumbasiz
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cumbası olmayan (yapı)

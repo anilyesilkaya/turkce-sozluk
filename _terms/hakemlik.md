@@ -2,6 +2,7 @@
 layout: term
 title: hakemlik
 slug: hakemlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hakemin görevi; yargıcılık

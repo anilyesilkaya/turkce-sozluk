@@ -2,6 +2,7 @@
 layout: term
 title: kaynana
 slug: kaynana
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karı kocaya göre birbirlerinin annesi; kayınvalide, hanımanne

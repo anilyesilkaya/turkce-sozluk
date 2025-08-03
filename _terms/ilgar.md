@@ -2,6 +2,7 @@
 layout: term
 title: ılgar
 slug: ilgar
+letter: I
 lisan: Türkçe
 anlamlar:
 - Dizginleri koyuverilmiş atın dörtnala koşması

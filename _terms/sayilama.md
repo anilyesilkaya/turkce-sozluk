@@ -2,6 +2,7 @@
 layout: term
 title: sayılama
 slug: sayilama
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sayılamak işi

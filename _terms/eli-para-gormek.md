@@ -2,6 +2,7 @@
 layout: term
 title: eli para görmek
 slug: eli-para-gormek
+letter: E
 lisan: Türkçe
 anlamlar:
 - eline para geçmek

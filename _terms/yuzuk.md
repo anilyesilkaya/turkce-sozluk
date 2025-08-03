@@ -2,6 +2,7 @@
 layout: term
 title: yüzük
 slug: yuzuk
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Parmağa geçirilen genellikle metal halka

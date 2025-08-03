@@ -2,6 +2,7 @@
 layout: term
 title: elifi mertek sanmak
 slug: elifi-mertek-sanmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - çok cahil olmak

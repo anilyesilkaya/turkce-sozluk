@@ -2,6 +2,7 @@
 layout: term
 title: alaturka saat
 slug: alaturka-saat
+letter: A
 lisan: Türkçe
 anlamlar:
 - Türkiye’de 1910 yılına kadar kullanılmış, gün başlangıcı olarak güneşin batışını esas alıp 12:00’yi gösterecek biçimde ayarlanmış saat sistemi; ezani saat, gurubi saat, alaturka alafranga saat, vasati saat karşıtı

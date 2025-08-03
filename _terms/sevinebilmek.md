@@ -2,6 +2,7 @@
 layout: term
 title: sevinebilmek
 slug: sevinebilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sevinme ihtimali veya imkânı bulunmak

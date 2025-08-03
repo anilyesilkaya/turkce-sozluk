@@ -2,6 +2,7 @@
 layout: term
 title: tevlit
 slug: tevlit
+letter: T
 lisan: Arapça tevlīd
 anlamlar:
 - ► doğurma

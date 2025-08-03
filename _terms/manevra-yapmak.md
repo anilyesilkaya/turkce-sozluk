@@ -2,6 +2,7 @@
 layout: term
 title: manevra yapmak
 slug: manevra-yapmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - bir araca istenilen hareketi yaptırmak

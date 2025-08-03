@@ -2,6 +2,7 @@
 layout: term
 title: iftihar etmek
 slug: iftihar-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - övünmek

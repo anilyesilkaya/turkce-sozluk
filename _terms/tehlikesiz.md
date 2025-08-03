@@ -2,6 +2,7 @@
 layout: term
 title: tehlikesiz
 slug: tehlikesiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tehlikesi olmayan; emin, muhatarasız

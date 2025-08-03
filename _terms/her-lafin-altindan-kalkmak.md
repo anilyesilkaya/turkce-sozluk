@@ -2,6 +2,7 @@
 layout: term
 title: her lafın altından kalkmak
 slug: her-lafin-altindan-kalkmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - genellikle yerme veya hakaret sözlerinin altında kalmayıp cevap verebilmek

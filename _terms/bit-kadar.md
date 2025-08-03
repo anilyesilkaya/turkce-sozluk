@@ -2,6 +2,7 @@
 layout: term
 title: bit kadar
 slug: bit-kadar
+letter: B
 lisan: Türkçe
 anlamlar:
 - çok küçük

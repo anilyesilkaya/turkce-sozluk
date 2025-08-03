@@ -2,6 +2,7 @@
 layout: term
 title: cedelleşmek
 slug: cedellesmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - Karşısındakini susturmak amacıyla tartışmak; becelleşmek, cebelleşmek

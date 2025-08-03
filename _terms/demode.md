@@ -2,6 +2,7 @@
 layout: term
 title: demode
 slug: demode
+letter: D
 lisan: Fransızca démodé
 anlamlar:
 - Modası geçmiş olan

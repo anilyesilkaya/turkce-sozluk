@@ -2,6 +2,7 @@
 layout: term
 title: ormancık
 slug: ormancik
+letter: O
 lisan: Türkçe
 anlamlar:
 - Küçük orman

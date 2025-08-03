@@ -2,6 +2,7 @@
 layout: term
 title: cefalı
 slug: cefali
+letter: C
 lisan: Türkçe
 anlamlar:
 - Sıkıntı, eziyet çekilen

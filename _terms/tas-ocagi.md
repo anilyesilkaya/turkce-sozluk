@@ -2,6 +2,7 @@
 layout: term
 title: taş ocağı
 slug: tas-ocagi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Yapı işlerinde kullanılacak taşların çıkarıldığı yer

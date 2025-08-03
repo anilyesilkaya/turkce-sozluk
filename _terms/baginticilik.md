@@ -2,6 +2,7 @@
 layout: term
 title: bağıntıcılık
 slug: baginticilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bağıntılılık

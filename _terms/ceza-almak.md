@@ -2,6 +2,7 @@
 layout: term
 title: ceza almak
 slug: ceza-almak
+letter: C
 lisan: Türkçe
 anlamlar:
 - cezalandırılmak

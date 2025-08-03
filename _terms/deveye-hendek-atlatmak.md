@@ -2,6 +2,7 @@
 layout: term
 title: deveye hendek atlatmak
 slug: deveye-hendek-atlatmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - birine yapılması çok zor, hemen hemen imkânsız olan işleri yaptırabilmek

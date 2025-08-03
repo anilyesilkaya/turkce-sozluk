@@ -2,6 +2,7 @@
 layout: term
 title: kalafatlanmak
 slug: kalafatlanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalafatlama işi yapılmak

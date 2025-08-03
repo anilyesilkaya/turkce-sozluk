@@ -2,6 +2,7 @@
 layout: term
 title: garantili
 slug: garantili
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► güvenceli

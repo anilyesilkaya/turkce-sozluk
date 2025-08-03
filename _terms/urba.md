@@ -2,6 +2,7 @@
 layout: term
 title: urba
 slug: urba
+letter: U
 lisan: İtalyanca roba
 anlamlar:
 - ► giysi

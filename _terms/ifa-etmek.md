@@ -2,6 +2,7 @@
 layout: term
 title: ifa etmek
 slug: ifa-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - yapmak, yerine getirmek

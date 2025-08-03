@@ -2,6 +2,7 @@
 layout: term
 title: larp
 slug: larp
+letter: L
 lisan: Türkçe
 anlamlar:
 - ► ansızın

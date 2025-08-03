@@ -2,6 +2,7 @@
 layout: term
 title: aşiyan
 slug: asiyan
+letter: A
 lisan: Farsça āşiyān
 anlamlar:
 - ► kuş yuvası

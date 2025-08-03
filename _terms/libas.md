@@ -2,6 +2,7 @@
 layout: term
 title: libas
 slug: libas
+letter: L
 lisan: Arapça libās
 anlamlar:
 - ► giysi

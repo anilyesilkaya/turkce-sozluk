@@ -2,6 +2,7 @@
 layout: term
 title: çok ulusluluk
 slug: cok-ulusluluk
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çok uluslu olma durumu; çok milletlilik

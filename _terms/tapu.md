@@ -2,6 +2,7 @@
 layout: term
 title: tapu
 slug: tapu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir taşınmazın üstündeki mülkiyet hakkını gösteren belge

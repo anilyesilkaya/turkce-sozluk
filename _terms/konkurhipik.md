@@ -2,6 +2,7 @@
 layout: term
 title: konkurhipik
 slug: konkurhipik
+letter: K
 lisan: Fransızca concours hippique
 anlamlar:
 - Erkek ve kadın binicilerin eşit koşullarda katıldıkları, parkura değişik aralıklarla yerleştirilmiş engellerin belirli bir süre içerisinde ve kurallara uygun biçimde aşılmasına dayalı atlı binicilik sporunun bir dalı

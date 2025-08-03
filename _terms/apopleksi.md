@@ -2,6 +2,7 @@
 layout: term
 title: apopleksi
 slug: apopleksi
+letter: A
 lisan: İngilizce apoplexy
 anlamlar:
 - ► inme

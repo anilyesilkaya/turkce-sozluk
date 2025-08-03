@@ -2,6 +2,7 @@
 layout: term
 title: dozaj
 slug: dozaj
+letter: D
 lisan: Fransızca dosage
 anlamlar:
 - ► doz

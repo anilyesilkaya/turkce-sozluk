@@ -2,6 +2,7 @@
 layout: term
 title: namzet
 slug: namzet
+letter: N
 lisan: Farsça nāmzed
 anlamlar:
 - ► aday

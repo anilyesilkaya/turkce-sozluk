@@ -2,6 +2,7 @@
 layout: term
 title: kuyrukçuluk
 slug: kuyrukculuk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kuyrukçu olma durumu

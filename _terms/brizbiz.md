@@ -2,6 +2,7 @@
 layout: term
 title: brizbiz
 slug: brizbiz
+letter: B
 lisan: Fransızca brise-bise
 anlamlar:
 - Pencerelerin çerçevesine, içeriden tutturulan bir tür ince perde

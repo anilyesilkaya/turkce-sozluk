@@ -2,6 +2,7 @@
 layout: term
 title: çürüklük
 slug: curukluk
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çürük olma durumu

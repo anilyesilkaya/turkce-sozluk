@@ -2,6 +2,7 @@
 layout: term
 title: zincirlemek
 slug: zincirlemek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zincirle bağlamak

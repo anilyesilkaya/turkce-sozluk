@@ -2,6 +2,7 @@
 layout: term
 title: geriye dönmek
 slug: geriye-donmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - yüzünü arkaya çevirip ters yöne gitmek

@@ -2,6 +2,7 @@
 layout: term
 title: başlayış
 slug: baslayis
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başlamak işi

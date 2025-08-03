@@ -2,6 +2,7 @@
 layout: term
 title: Güney Kutbu
 slug: guney-kutbu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Ekvator’un güney tarafında yer alan kutup bölgesi

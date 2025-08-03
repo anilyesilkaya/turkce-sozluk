@@ -2,6 +2,7 @@
 layout: term
 title: Kâbe
 slug: kabe
+letter: K
 lisan: Türkçe
 anlamlar:
 - Mekke'de bulunan, Müslümanlarca kıble olarak kabul edilen, hac ve umre ibadeti yapılırken tavaf edilen kutsal yer

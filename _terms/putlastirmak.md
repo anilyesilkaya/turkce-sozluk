@@ -2,6 +2,7 @@
 layout: term
 title: putlaştırmak
 slug: putlastirmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Bir şeyi olağanüstü görerek gereğinden çok değer vermek, put durumuna getirmek

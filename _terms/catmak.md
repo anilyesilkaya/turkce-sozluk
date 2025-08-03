@@ -2,6 +2,7 @@
 layout: term
 title: çatmak
 slug: catmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Odun, değnek, kılıç, tüfek vb. uzun şeylerden birkaç tanesini, tepelerinden birbirine çaprazlama dayayarak durdurmak

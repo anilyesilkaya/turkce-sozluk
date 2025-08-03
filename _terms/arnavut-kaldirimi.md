@@ -2,6 +2,7 @@
 layout: term
 title: Arnavut kaldırımı
 slug: arnavut-kaldirimi
+letter: A
 lisan: Türkçe
 anlamlar:
 - İrili ufaklı taşların döşenmesi ile meydana getirilmiş kaldırım veya yol

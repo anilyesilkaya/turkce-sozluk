@@ -2,6 +2,7 @@
 layout: term
 title: miadı gelmek
 slug: miadi-gelmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - zamanı gelmek

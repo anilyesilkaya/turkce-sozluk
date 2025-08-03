@@ -2,6 +2,7 @@
 layout: term
 title: işaretlemek
 slug: isaretlemek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bir şeye işaret koymak, bir şeyi işaretle belirtmek

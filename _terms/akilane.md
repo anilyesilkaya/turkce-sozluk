@@ -2,6 +2,7 @@
 layout: term
 title: akilane
 slug: akilane
+letter: A
 lisan: Arapça ʿāḳil + Farsça -āne
 anlamlar:
 - ► akıllıca

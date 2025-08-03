@@ -2,6 +2,7 @@
 layout: term
 title: açık sarı
 slug: acik-sari
+letter: A
 lisan: Türkçe
 anlamlar:
 - Sarının bir veya birkaç ton açığı

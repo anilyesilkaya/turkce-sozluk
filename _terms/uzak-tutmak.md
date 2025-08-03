@@ -2,6 +2,7 @@
 layout: term
 title: uzak tutmak
 slug: uzak-tutmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - uzakta kalmasını sağlamak

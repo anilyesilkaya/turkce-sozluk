@@ -2,6 +2,7 @@
 layout: term
 title: kurnazca
 slug: kurnazca
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kurnaza yakışır

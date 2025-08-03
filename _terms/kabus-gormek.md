@@ -2,6 +2,7 @@
 layout: term
 title: kâbus görmek
 slug: kabus-gormek
+letter: K
 lisan: Türkçe
 anlamlar:
 - korkulu rüya görmek

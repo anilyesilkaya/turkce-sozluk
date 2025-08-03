@@ -2,6 +2,7 @@
 layout: term
 title: teçhizat
 slug: techizat
+letter: T
 lisan: Arapça techīzāt
 anlamlar:
 - Silah dışındaki savaş gereçleri; donatı

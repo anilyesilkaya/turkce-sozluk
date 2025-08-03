@@ -2,6 +2,7 @@
 layout: term
 title: ahlaklılık
 slug: ahlaklilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir insanın veya bir insan grubunun iyi ve kötü açısından davranış biçimi ve ahlaki düşünüşü

@@ -2,6 +2,7 @@
 layout: term
 title: öteye beriye
 slug: oteye-beriye
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Çeşitli yerlere

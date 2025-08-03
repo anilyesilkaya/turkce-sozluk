@@ -2,6 +2,7 @@
 layout: term
 title: vicdani
 slug: vicdani
+letter: V
 lisan: Arapça vicdānī
 anlamlar:
 - Vicdanla ilgili olan, vicdana dayanan

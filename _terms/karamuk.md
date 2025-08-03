@@ -2,6 +2,7 @@
 layout: term
 title: karamuk
 slug: karamuk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karanfilgillerden, ekin tarlalarında biten, yaprakları karşılıklı, çiçeği pembe mor renkte, zararlı bir bitki (Agrostemma githago)

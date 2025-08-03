@@ -2,6 +2,7 @@
 layout: term
 title: nadan
 slug: nadan
+letter: N
 lisan: Farsça nādān
 anlamlar:
 - Bilgisiz, cahil

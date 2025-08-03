@@ -2,6 +2,7 @@
 layout: term
 title: emniyet
 slug: emniyet
+letter: E
 lisan: Arapça emniyyet
 anlamlar:
 - ► güvenlik

@@ -2,6 +2,7 @@
 layout: term
 title: yüzüne gözüne bulaştırmak
 slug: yuzune-gozune-bulastirmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - bir işi becerememek, bozmak

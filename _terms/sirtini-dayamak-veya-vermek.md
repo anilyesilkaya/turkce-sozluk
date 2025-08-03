@@ -2,6 +2,7 @@
 layout: term
 title: sırtını dayamak (veya vermek)
 slug: sirtini-dayamak-veya-vermek
+letter: S
 lisan: Türkçe
 anlamlar:
 - bir yere dayanmak, yaslanmak

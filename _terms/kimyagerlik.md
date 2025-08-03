@@ -2,6 +2,7 @@
 layout: term
 title: kimyagerlik
 slug: kimyagerlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kimyacılık

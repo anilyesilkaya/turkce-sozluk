@@ -2,6 +2,7 @@
 layout: term
 title: yiyecek
 slug: yiyecek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yenmeye elverişli olan her şey; kayıt (II)

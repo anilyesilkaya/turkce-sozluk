@@ -2,6 +2,7 @@
 layout: term
 title: çobanaldatan
 slug: cobanaldatan
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çobanaldatangillerden, kahverengimsi gri zemin üzerine benekli ve çizgili tüyleri olan, kanatları sivri, kuyruğu uzun, boynu kısa, başı iri ve enli, gagası ufak, kısa ve kancalı bir tür kuş; keçisağan (Caprimulgus europaeus)

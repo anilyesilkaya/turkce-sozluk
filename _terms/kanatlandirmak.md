@@ -2,6 +2,7 @@
 layout: term
 title: kanatlandırmak
 slug: kanatlandirmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kanatlanmasını, uçmasını sağlamak

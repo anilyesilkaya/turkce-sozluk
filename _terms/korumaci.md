@@ -2,6 +2,7 @@
 layout: term
 title: korumacı
 slug: korumaci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Koruma işini yapan kimse; himayeci

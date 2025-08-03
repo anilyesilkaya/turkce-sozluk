@@ -2,6 +2,7 @@
 layout: term
 title: engelsiz
 slug: engelsiz
+letter: E
 lisan: Türkçe
 anlamlar:
 - Engeli olmayan; mâniasız

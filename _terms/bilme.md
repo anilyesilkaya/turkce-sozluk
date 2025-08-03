@@ -2,6 +2,7 @@
 layout: term
 title: bilme
 slug: bilme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilmek işi

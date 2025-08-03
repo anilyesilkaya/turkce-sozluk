@@ -2,6 +2,7 @@
 layout: term
 title: mineralleştirmek
 slug: minerallestirmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - Bir metali mineral duruma getirmek

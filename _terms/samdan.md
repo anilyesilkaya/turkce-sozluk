@@ -2,6 +2,7 @@
 layout: term
 title: şamdan
 slug: samdan
+letter: Ş
 lisan: Arapça şemʿ + Farsça -dān
 anlamlar:
 - Üzerine kandil, mum veya herhangi bir ışık kaynağı konulan yüksek tabla; mumluk, çırakma

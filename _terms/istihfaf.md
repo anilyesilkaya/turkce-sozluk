@@ -2,6 +2,7 @@
 layout: term
 title: istihfaf
 slug: istihfaf
+letter: I
 lisan: Arapça istiḫfāf
 anlamlar:
 - Küçümseme, hor görme

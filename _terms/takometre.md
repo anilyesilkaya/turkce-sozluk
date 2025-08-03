@@ -2,6 +2,7 @@
 layout: term
 title: takometre
 slug: takometre
+letter: T
 lisan: Almanca Tachometer
 anlamlar:
 - ► hızölçer

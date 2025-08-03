@@ -2,6 +2,7 @@
 layout: term
 title: değişim
 slug: degisim
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir zaman dilimi içindeki değişikliklerin bütünü; değişme

@@ -2,6 +2,7 @@
 layout: term
 title: gıcır gıcır etmek
 slug: gicir-gicir-etmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - '"gıcırtı" sesi çıkarmak'

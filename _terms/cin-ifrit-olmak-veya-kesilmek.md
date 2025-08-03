@@ -2,6 +2,7 @@
 layout: term
 title: cin ifrit olmak (veya kesilmek)
 slug: cin-ifrit-olmak-veya-kesilmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - son derece kızmak, öfkelenmek

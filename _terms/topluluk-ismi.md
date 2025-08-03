@@ -2,6 +2,7 @@
 layout: term
 title: topluluk ismi
 slug: topluluk-ismi
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► topluluk adı

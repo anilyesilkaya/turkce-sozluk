@@ -2,6 +2,7 @@
 layout: term
 title: özgün
 slug: ozgun
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Yalnız kendine özgü bir nitelik taşıyan; orijinal, ibdai

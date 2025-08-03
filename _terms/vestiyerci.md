@@ -2,6 +2,7 @@
 layout: term
 title: vestiyerci
 slug: vestiyerci
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vestiyerde çalışan kimse

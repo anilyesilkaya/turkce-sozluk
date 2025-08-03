@@ -2,6 +2,7 @@
 layout: term
 title: çimlendirilme
 slug: cimlendirilme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çimlendirilmek işi

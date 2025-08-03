@@ -2,6 +2,7 @@
 layout: term
 title: vehleten
 slug: vehleten
+letter: V
 lisan: Arapça vehleten
 anlamlar:
 - İlk anda

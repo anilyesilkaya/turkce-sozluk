@@ -2,6 +2,7 @@
 layout: term
 title: program
 slug: program
+letter: P
 lisan: Fransızca programme
 anlamlar:
 - Belirli şartlara ve düzene göre yapılması öngörülen işlemlerin bütünü; izlence

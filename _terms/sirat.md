@@ -2,6 +2,7 @@
 layout: term
 title: sırat
 slug: sirat
+letter: S
 lisan: Arapça ṣirāṭ
 anlamlar:
 - ► sırat köprüsü

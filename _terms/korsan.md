@@ -2,6 +2,7 @@
 layout: term
 title: korsan
 slug: korsan
+letter: K
 lisan: İtalyanca corsaro
 anlamlar:
 - Gemilere saldıran deniz haydudu; deniz hırsızı

@@ -2,6 +2,7 @@
 layout: term
 title: işin kötüsü
 slug: isin-kotusu
+letter: I
 lisan: Türkçe
 anlamlar:
 - işin kötü yanı

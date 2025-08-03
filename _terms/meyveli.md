@@ -2,6 +2,7 @@
 layout: term
 title: meyveli
 slug: meyveli
+letter: M
 lisan: Türkçe
 anlamlar:
 - Meyvesi olan, meyve veren; yemişli, meyvedar

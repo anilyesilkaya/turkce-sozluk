@@ -2,6 +2,7 @@
 layout: term
 title: ışın tedavisi
 slug: isin-tedavisi
+letter: I
 lisan: Türkçe
 anlamlar:
 - X ışınlarının biyolojik etkisine dayanan tedavi yöntemi; şua tedavisi, radyoterapi

@@ -2,6 +2,7 @@
 layout: term
 title: göz bağıcılık
 slug: goz-bagicilik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Göz bağıcının yaptığı iş; bağıcılık, illüzyonizm

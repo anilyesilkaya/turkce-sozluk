@@ -2,6 +2,7 @@
 layout: term
 title: tahkik etmek
 slug: tahkik-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - soruşturmak

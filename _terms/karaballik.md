@@ -2,6 +2,7 @@
 layout: term
 title: karaballık
 slug: karaballik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Birtakım böceklerin çıkardıkları şekerli sıvıya yapışarak yaprak, filiz ve meyvelerin kurum karası bir renkte kaplanmasına yol açan ilkel mantar

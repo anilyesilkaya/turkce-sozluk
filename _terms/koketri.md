@@ -2,6 +2,7 @@
 layout: term
 title: koketri
 slug: koketri
+letter: K
 lisan: Fransızca coquetterie
 anlamlar:
 - Beğenilme merakı

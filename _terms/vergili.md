@@ -2,6 +2,7 @@
 layout: term
 title: vergili
 slug: vergili
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vergisi olan, vergi ödenen

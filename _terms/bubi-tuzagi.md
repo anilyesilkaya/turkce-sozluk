@@ -2,6 +2,7 @@
 layout: term
 title: bubi tuzağı
 slug: bubi-tuzagi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Küçük bir dokunma ile patlayan, kamufle edilmiş bomba

@@ -2,6 +2,7 @@
 layout: term
 title: bahis mevzusu olmak
 slug: bahis-mevzusu-olmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - söz konusu olmak

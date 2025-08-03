@@ -2,6 +2,7 @@
 layout: term
 title: özen
 slug: ozen
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Bir işin elden geldiğince iyi olması için gösterilen çaba; itina, ihtimam

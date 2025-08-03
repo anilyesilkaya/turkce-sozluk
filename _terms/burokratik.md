@@ -2,6 +2,7 @@
 layout: term
 title: bürokratik
 slug: burokratik
+letter: B
 lisan: Fransızca bureaucratique
 anlamlar:
 - Kamu yönetimi ile ilgili

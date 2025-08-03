@@ -2,6 +2,7 @@
 layout: term
 title: ummak
 slug: ummak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Bir şeyin olmasını istemek, ümitle beklemek

@@ -2,6 +2,7 @@
 layout: term
 title: çekimölçer
 slug: cekimolcer
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çekim kuvvetlerini ölçmeye yarayan araç

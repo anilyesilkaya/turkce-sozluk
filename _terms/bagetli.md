@@ -2,6 +2,7 @@
 layout: term
 title: bagetli
 slug: bagetli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bageti olan

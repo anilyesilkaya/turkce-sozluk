@@ -2,6 +2,7 @@
 layout: term
 title: kurulaşmak
 slug: kurulasmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kuru duruma gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: celadetli
 slug: celadetli
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► yiğit

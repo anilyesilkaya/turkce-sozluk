@@ -2,6 +2,7 @@
 layout: term
 title: taban tepmek (veya patlatmak)
 slug: taban-tepmek-veya-patlatmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - uzun yol yürümek

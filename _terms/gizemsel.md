@@ -2,6 +2,7 @@
 layout: term
 title: gizemsel
 slug: gizemsel
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gizemle ilgili, gizeme ilişkin; mistik

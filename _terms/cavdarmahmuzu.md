@@ -2,6 +2,7 @@
 layout: term
 title: çavdarmahmuzu
 slug: cavdarmahmuzu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çavdar ve benzeri bitkilerin başaklarında asalak olarak yetişen, gövdesi silindirik biçimli, hekimlikte kullanılan, doğrudan tüketildiğinde zehir etkisi gösteren asklı bir tür mantar (Claviceps purpurea)

@@ -2,6 +2,7 @@
 layout: term
 title: vukuf
 slug: vukuf
+letter: V
 lisan: Arapça vuḳūf
 anlamlar:
 - ► anlama

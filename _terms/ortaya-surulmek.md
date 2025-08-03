@@ -2,6 +2,7 @@
 layout: term
 title: ortaya sürülmek
 slug: ortaya-surulmek
+letter: O
 lisan: Türkçe
 anlamlar:
 - anlatılmak, belirtilmek, söylenmek

@@ -2,6 +2,7 @@
 layout: term
 title: kamp
 slug: kamp
+letter: K
 lisan: Fransızca camp
 anlamlar:
 - Çadır, baraka vb. eğreti araçlardan oluşturulan konak yeri

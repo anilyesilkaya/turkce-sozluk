@@ -2,6 +2,7 @@
 layout: term
 title: şehirdaş
 slug: sehirdas
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Aynı şehirde oturan kimse

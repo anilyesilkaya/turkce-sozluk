@@ -2,6 +2,7 @@
 layout: term
 title: anlaşılma
 slug: anlasilma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anlaşılmak işi

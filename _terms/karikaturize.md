@@ -2,6 +2,7 @@
 layout: term
 title: karikatürize
 slug: karikaturize
+letter: K
 lisan: Fransızca caricaturisé
 anlamlar:
 - Karikatür durumuna getirilmiş olan

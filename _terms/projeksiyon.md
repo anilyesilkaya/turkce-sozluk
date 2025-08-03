@@ -2,6 +2,7 @@
 layout: term
 title: projeksiyon
 slug: projeksiyon
+letter: P
 lisan: Fransızca projection
 anlamlar:
 - Bir film veya belgenin ışık kaynağından çıkan ışınlarla ekran veya perde üzerinde görüntüsünün oluşturulma işi; iz düşümü

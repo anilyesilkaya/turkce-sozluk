@@ -2,6 +2,7 @@
 layout: term
 title: muarefe
 slug: muarefe
+letter: M
 lisan: Arapça muʿārefe
 anlamlar:
 - Karşılıklı birbirini tanıma

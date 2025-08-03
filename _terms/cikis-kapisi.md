@@ -2,6 +2,7 @@
 layout: term
 title: çıkış kapısı
 slug: cikis-kapisi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Yapılarda dışarı çıkmayı sağlayan kapı

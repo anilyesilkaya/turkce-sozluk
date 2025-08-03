@@ -2,6 +2,7 @@
 layout: term
 title: kasavet
 slug: kasavet
+letter: K
 lisan: Arapça ḳasāvet
 anlamlar:
 - ► sıkıntı

@@ -2,6 +2,7 @@
 layout: term
 title: elverir ki
 slug: elverir-ki
+letter: E
 lisan: Türkçe
 anlamlar:
 - yeter ki

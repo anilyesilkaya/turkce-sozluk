@@ -2,6 +2,7 @@
 layout: term
 title: istenmeyen kişi
 slug: istenmeyen-kisi
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bulunduğu ülkenin yasa ve düzenlemelerine uymadığı durumda ilgili devletçe çalışması istenmeyen diplomat; istenmeyen adam

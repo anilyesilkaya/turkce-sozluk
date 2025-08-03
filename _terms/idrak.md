@@ -2,6 +2,7 @@
 layout: term
 title: idrak
 slug: idrak
+letter: I
 lisan: Arapça idrāk
 anlamlar:
 - ► anlayış

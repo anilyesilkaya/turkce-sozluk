@@ -2,6 +2,7 @@
 layout: term
 title: ışıklı
 slug: isikli
+letter: I
 lisan: Türkçe
 anlamlar:
 - Işığı olan, aydınlık, ışıklandırılmış; ışıl, nurlu, nurani, ziyalı, ziyadar

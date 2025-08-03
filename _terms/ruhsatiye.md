@@ -2,6 +2,7 @@
 layout: term
 title: ruhsatiye
 slug: ruhsatiye
+letter: R
 lisan: Arapça ruḫṣatiyye
 anlamlar:
 - Bir izin belgesi gerektiği durumlarda iznin verilmesi dolayısıyla alınan para

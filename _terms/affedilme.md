@@ -2,6 +2,7 @@
 layout: term
 title: affedilme
 slug: affedilme
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► bağışlanma

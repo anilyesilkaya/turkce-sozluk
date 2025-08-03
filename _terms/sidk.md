@@ -2,6 +2,7 @@
 layout: term
 title: sıdk
 slug: sidk
+letter: S
 lisan: Arapça ṣidḳ
 anlamlar:
 - Doğruluk, gerçeklik

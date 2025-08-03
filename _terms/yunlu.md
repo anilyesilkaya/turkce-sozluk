@@ -2,6 +2,7 @@
 layout: term
 title: yünlü
 slug: yunlu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yünü olan

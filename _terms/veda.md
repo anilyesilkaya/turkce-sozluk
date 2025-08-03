@@ -2,6 +2,7 @@
 layout: term
 title: veda
 slug: veda
+letter: V
 lisan: Arapça vidāʿ
 anlamlar:
 - Ayrılırken birbirine selam ve esenlik dileme

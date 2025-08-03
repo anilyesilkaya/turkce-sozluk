@@ -2,6 +2,7 @@
 layout: term
 title: kalbî
 slug: kalbi
+letter: K
 lisan: Arapça ḳalbī
 anlamlar:
 - ► içten

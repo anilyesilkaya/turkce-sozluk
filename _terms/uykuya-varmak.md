@@ -2,6 +2,7 @@
 layout: term
 title: uykuya varmak
 slug: uykuya-varmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - uyumak

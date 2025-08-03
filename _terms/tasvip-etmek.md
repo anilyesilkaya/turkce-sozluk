@@ -2,6 +2,7 @@
 layout: term
 title: tasvip etmek
 slug: tasvip-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - bir düşünce veya davranışın doğru ve isabetli olduğunu belirtmek, onamak, uygun bulmak

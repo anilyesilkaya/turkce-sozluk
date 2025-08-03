@@ -2,6 +2,7 @@
 layout: term
 title: örnek
 slug: ornek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - İncelemek veya denemek üzere insan ve hayvan vücudunun, bitkinin veya nesnenin herhangi bir yerinden alınan doku parçası; numune

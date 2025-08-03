@@ -2,6 +2,7 @@
 layout: term
 title: söyleyiş
 slug: soyleyis
+letter: S
 lisan: Türkçe
 anlamlar:
 - Söylemek işi

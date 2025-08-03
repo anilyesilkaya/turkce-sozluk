@@ -2,6 +2,7 @@
 layout: term
 title: cehalet
 slug: cehalet
+letter: C
 lisan: Arapça cehālet
 anlamlar:
 - ► bilgisizlik

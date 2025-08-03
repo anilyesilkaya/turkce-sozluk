@@ -2,6 +2,7 @@
 layout: term
 title: dalaşkan
 slug: dalaskan
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► kavgacı

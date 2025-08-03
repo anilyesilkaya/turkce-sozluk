@@ -2,6 +2,7 @@
 layout: term
 title: öncül
 slug: oncul
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Önde giden, önde olan, kendisinden sonra gelenlere temel olan, artçıl karşıtı

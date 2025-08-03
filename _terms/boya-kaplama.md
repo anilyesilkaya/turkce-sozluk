@@ -2,6 +2,7 @@
 layout: term
 title: boya kaplama
 slug: boya-kaplama
+letter: B
 lisan: Türkçe
 anlamlar:
 - Metal, plastik, ağaç vb.nden yapılmış nesne veya eşyanın yüzeyinde renk vermek veya korumak amacıyla boyadan tabaka oluşturma işlemi

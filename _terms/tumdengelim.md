@@ -2,6 +2,7 @@
 layout: term
 title: tümdengelim
 slug: tumdengelim
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tümel bir önermeden tikel bir önermeye, yasalardan olaylara, etkenden etkiye geçme yolu; talil, dedüksiyon

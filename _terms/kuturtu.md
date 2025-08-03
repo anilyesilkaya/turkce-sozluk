@@ -2,6 +2,7 @@
 layout: term
 title: kütürtü
 slug: kuturtu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kütürdeme sırasında çıkan sesin adı

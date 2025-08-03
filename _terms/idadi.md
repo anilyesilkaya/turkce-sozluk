@@ -2,6 +2,7 @@
 layout: term
 title: idadi
 slug: idadi
+letter: I
 lisan: Arapça iʿdādī
 anlamlar:
 - Lise derecesindeki okul

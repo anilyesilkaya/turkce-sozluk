@@ -2,6 +2,7 @@
 layout: term
 title: cereyana kapılmak
 slug: cereyana-kapilmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - elektrik akımıyla çarpılmak

@@ -2,6 +2,7 @@
 layout: term
 title: Acem işi
 slug: acem-isi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Farslara özgü olan

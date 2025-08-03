@@ -2,6 +2,7 @@
 layout: term
 title: haşır neşir
 slug: hasir-nesir
+letter: H
 lisan: Türkçe
 anlamlar:
 - Kaynaşma, bir arada olma

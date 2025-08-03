@@ -2,6 +2,7 @@
 layout: term
 title: bacasızlık
 slug: bacasizlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bacasız olma durumu

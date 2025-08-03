@@ -2,6 +2,7 @@
 layout: term
 title: yerini tutmak
 slug: yerini-tutmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - bulunmayan bir nesnenin yerini almak, onu aratmamak

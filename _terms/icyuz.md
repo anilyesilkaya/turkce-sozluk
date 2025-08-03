@@ -2,6 +2,7 @@
 layout: term
 title: içyüz
 slug: icyuz
+letter: I
 lisan: Türkçe
 anlamlar:
 - Herkesçe bilinmeyen, anlaşılmayan ve görünenden büsbütün başka olan neden veya nitelik; bâtın, mahiyet, zamir (II)

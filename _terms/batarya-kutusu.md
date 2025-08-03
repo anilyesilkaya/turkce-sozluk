@@ -2,6 +2,7 @@
 layout: term
 title: batarya kutusu
 slug: batarya-kutusu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bataryanın bütün olarak taşınmasını sağlayan sandık

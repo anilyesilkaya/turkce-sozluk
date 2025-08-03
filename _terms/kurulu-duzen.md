@@ -2,6 +2,7 @@
 layout: term
 title: kurulu düzen
 slug: kurulu-duzen
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yerleşmiş, içinde bulunulan toplumsal düzen

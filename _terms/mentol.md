@@ -2,6 +2,7 @@
 layout: term
 title: mentol
 slug: mentol
+letter: M
 lisan: Fransızca menthol
 anlamlar:
 - Nane kokusu

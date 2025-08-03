@@ -2,6 +2,7 @@
 layout: term
 title: zurnacı
 slug: zurnaci
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zurna çalan kimse; zurnazen

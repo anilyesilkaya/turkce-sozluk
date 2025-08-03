@@ -2,6 +2,7 @@
 layout: term
 title: tu
 slug: tu
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► tuh

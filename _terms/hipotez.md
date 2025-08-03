@@ -2,6 +2,7 @@
 layout: term
 title: hipotez
 slug: hipotez
+letter: H
 lisan: Fransızca hypothèse
 anlamlar:
 - ► varsayım

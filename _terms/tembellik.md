@@ -2,6 +2,7 @@
 layout: term
 title: tembellik
 slug: tembellik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tembel olma durumu; lapacılık, atalet, kesel

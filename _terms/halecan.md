@@ -2,6 +2,7 @@
 layout: term
 title: halecan
 slug: halecan
+letter: H
 lisan: Arapça ḫalecān
 anlamlar:
 - ► kalp çarpıntısı

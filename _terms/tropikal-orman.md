@@ -2,6 +2,7 @@
 layout: term
 title: tropikal orman
 slug: tropikal-orman
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tropikal kuşağın nemli havasında ve bölgelerinde oluşan orman

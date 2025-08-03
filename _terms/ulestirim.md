@@ -2,6 +2,7 @@
 layout: term
 title: üleştirim
 slug: ulestirim
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üleştirmek işi

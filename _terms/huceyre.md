@@ -2,6 +2,7 @@
 layout: term
 title: hüceyre
 slug: huceyre
+letter: H
 lisan: Arapça hüceyre
 anlamlar:
 - Çok küçük hücre

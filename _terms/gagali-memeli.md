@@ -2,6 +2,7 @@
 layout: term
 title: gagalı memeli
 slug: gagali-memeli
+letter: G
 lisan: Türkçe
 anlamlar:
 - Tek deliklilerin gagalı memeliler familyasından, vücudu yumuşak tüylerle kaplı, eti yenen, Avustralya ve Tasmanya ırmaklarında yaşayan bir tür memeli; ornitorenk (Ornithorhynchus anatinus)

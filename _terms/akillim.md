@@ -2,6 +2,7 @@
 layout: term
 title: akıllım
 slug: akillim
+letter: A
 lisan: Türkçe
 anlamlar:
 - (akı'llım) düşüncesiz birine düşüncesizliğini dolaylı bir biçimde anlatmak için kullanılan bir söz

@@ -2,6 +2,7 @@
 layout: term
 title: yüzüstü bırakmak
 slug: yuzustu-birakmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - birini yapayalnız, kimsesiz, kötü bir durumda bırakmak

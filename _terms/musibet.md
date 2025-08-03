@@ -2,6 +2,7 @@
 layout: term
 title: musibet
 slug: musibet
+letter: M
 lisan: Arapça muṣībet
 anlamlar:
 - Ansızın gelen felaket, sıkıntı veren şey

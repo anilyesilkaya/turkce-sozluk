@@ -2,6 +2,7 @@
 layout: term
 title: karamak
 slug: karamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Hor görmek

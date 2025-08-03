@@ -2,6 +2,7 @@
 layout: term
 title: dil içi çeviri
 slug: dil-ici-ceviri
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir dilin tarihî dönemlerindeki biçimleriyle yazılmış bir metnin günümüz diliyle ifade edilmesi

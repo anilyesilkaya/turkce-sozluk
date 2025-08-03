@@ -2,6 +2,7 @@
 layout: term
 title: temizleyici
 slug: temizleyici
+letter: T
 lisan: Türkçe
 anlamlar:
 - Buhar makineleri aracılığıyla temizleme işini yapan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: yardım görmek
 slug: yardim-gormek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - destek elde etmek, bağış almak

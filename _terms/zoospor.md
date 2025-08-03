@@ -2,6 +2,7 @@
 layout: term
 title: zoospor
 slug: zoospor
+letter: Z
 lisan: Fransızca zoospor
 anlamlar:
 - Suda yaşayan mantarlarda ve su yosunlarında bulunan, selüloz zardan yoksun, üzerindeki iki veya daha çok titrek tüyle hareket eden üreme hücresi

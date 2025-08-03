@@ -2,6 +2,7 @@
 layout: term
 title: kaba
 slug: kaba
+letter: K
 lisan: Türkçe
 anlamlar:
 - Özensiz, gelişigüzel yapılmış, zevksiz olan, ince karşıtı

@@ -2,6 +2,7 @@
 layout: term
 title: ponza taşı
 slug: ponza-tasi
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► sünger taşı

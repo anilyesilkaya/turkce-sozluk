@@ -2,6 +2,7 @@
 layout: term
 title: muamele
 slug: muamele
+letter: M
 lisan: Arapça muʿāmele
 anlamlar:
 - ► davranış

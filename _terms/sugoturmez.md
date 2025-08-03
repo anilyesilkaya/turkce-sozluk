@@ -2,6 +2,7 @@
 layout: term
 title: sugötürmez
 slug: sugoturmez
+letter: S
 lisan: Türkçe
 anlamlar:
 - Başka bir yoruma elverişli olmayan, kesin; sözgötürmez

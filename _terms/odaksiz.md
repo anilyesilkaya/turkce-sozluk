@@ -2,6 +2,7 @@
 layout: term
 title: odaksız
 slug: odaksiz
+letter: O
 lisan: Türkçe
 anlamlar:
 - Herhangi bir şeye odaklanmamış, odağı olmayan

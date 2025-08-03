@@ -2,6 +2,7 @@
 layout: term
 title: yaratı
 slug: yarati
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yaratım

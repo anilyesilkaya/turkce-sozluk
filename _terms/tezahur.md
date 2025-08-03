@@ -2,6 +2,7 @@
 layout: term
 title: tezahür
 slug: tezahur
+letter: T
 lisan: Arapça teẓāhur
 anlamlar:
 - Ortaya çıkma

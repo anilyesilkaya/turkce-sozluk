@@ -2,6 +2,7 @@
 layout: term
 title: mevzubahis
 slug: mevzubahis
+letter: M
 lisan: Arapça mevzūʿ + baḥs̱
 anlamlar:
 - ► söz konusu

@@ -2,6 +2,7 @@
 layout: term
 title: dolgu yapmak
 slug: dolgu-yapmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - doldurmak

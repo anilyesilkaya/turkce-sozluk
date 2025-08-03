@@ -2,6 +2,7 @@
 layout: term
 title: baharatlamak
 slug: baharatlamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - İçine baharat koymak, üzerine baharat sürmek

@@ -2,6 +2,7 @@
 layout: term
 title: bibaht
 slug: bibaht
+letter: B
 lisan: Farsça bībaḫt
 anlamlar:
 - ► bahtsız

@@ -2,6 +2,7 @@
 layout: term
 title: karşılaştırmalı dil bilimi
 slug: karsilastirmali-dil-bilimi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karşılaştırma yöntemiyle çeşitli diller arasındaki ilişkileri, benzerlikleri belirleyip dil ailelerini tespit etmeyi amaçlayan inceleme

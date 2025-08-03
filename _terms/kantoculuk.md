@@ -2,6 +2,7 @@
 layout: term
 title: kantoculuk
 slug: kantoculuk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kantocunun yaptığı iş

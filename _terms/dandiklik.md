@@ -2,6 +2,7 @@
 layout: term
 title: dandiklik
 slug: dandiklik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dandik olma durumu

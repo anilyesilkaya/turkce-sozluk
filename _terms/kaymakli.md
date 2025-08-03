@@ -2,6 +2,7 @@
 layout: term
 title: kaymaklı
 slug: kaymakli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaymağı olan

@@ -2,6 +2,7 @@
 layout: term
 title: tandırname
 slug: tandirname
+letter: T
 lisan: Arapça tennūr + Farsça nāme
 anlamlar:
 - Tandır başında oturulurken söylenen veya okunan masal

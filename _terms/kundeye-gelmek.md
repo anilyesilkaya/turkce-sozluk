@@ -2,6 +2,7 @@
 layout: term
 title: kündeye gelmek
 slug: kundeye-gelmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - aldanmak, tuzağa düşmek

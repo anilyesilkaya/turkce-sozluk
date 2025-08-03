@@ -2,6 +2,7 @@
 layout: term
 title: son model
 slug: son-model
+letter: S
 lisan: Türkçe
 anlamlar:
 - Yeni üretilmiş, piyasaya yeni çıkmış olan

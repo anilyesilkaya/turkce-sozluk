@@ -2,6 +2,7 @@
 layout: term
 title: Yay Burcu
 slug: yay-burcu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Zodyak üzerinde Akrep Burcu ile Oğlak Burcu arasında bulunan takımyıldızın adı; Yay

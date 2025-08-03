@@ -2,6 +2,7 @@
 layout: term
 title: celepçilik
 slug: celepcilik
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► celeplik

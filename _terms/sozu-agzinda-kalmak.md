@@ -2,6 +2,7 @@
 layout: term
 title: sözü ağzında kalmak
 slug: sozu-agzinda-kalmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - konuşmasını bitirememek

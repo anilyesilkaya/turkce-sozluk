@@ -2,6 +2,7 @@
 layout: term
 title: ya sabır
 slug: ya-sabir
+letter: Y
 lisan: Türkçe
 anlamlar:
 - katlanılması güç durumlarda insanın kendisini sakinleştirmek için söylediği bir söz

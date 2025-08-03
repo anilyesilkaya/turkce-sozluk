@@ -2,6 +2,7 @@
 layout: term
 title: acillik
 slug: acillik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Acil olma durumu

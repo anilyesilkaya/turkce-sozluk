@@ -2,6 +2,7 @@
 layout: term
 title: üvey ana
 slug: uvey-ana
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - ► üvey anne

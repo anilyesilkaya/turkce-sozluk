@@ -2,6 +2,7 @@
 layout: term
 title: tabaklama
 slug: tabaklama
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► sepileme

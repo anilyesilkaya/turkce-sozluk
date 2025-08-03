@@ -2,6 +2,7 @@
 layout: term
 title: karşıtlaşmak
 slug: karsitlasmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Birbirine karşıt olmak

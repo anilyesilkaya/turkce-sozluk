@@ -2,6 +2,7 @@
 layout: term
 title: Taoizm
 slug: taoizm
+letter: T
 lisan: Fransızca taoïsme
 anlamlar:
 - ► Taoculuk

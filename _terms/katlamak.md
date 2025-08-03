@@ -2,6 +2,7 @@
 layout: term
 title: katlamak
 slug: katlamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kâğıt, kumaş vb. nesneleri üst üste kat oluşturacak biçimde bükmek

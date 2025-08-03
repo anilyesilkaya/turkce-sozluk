@@ -2,6 +2,7 @@
 layout: term
 title: billurlu
 slug: billurlu
+letter: B
 lisan: Türkçe
 anlamlar:
 - İçinde billur bulunan; kristalli

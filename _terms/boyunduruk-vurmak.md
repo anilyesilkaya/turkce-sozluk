@@ -2,6 +2,7 @@
 layout: term
 title: boyunduruk vurmak
 slug: boyunduruk-vurmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - öküz, manda vb. hayvanlara boyunduruk takmak

@@ -2,6 +2,7 @@
 layout: term
 title: yalancıktan
 slug: yalanciktan
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yalandan

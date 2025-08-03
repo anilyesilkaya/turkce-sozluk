@@ -2,6 +2,7 @@
 layout: term
 title: deniz menekşesi
 slug: deniz-meneksesi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir tür çan çiçeği

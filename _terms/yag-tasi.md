@@ -2,6 +2,7 @@
 layout: term
 title: yağ taşı
 slug: yag-tasi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Kesici aletlerin ağızlarını bilemede gaz yağı, mazot veya zeytinyağı sürülerek kullanılan doğal taş

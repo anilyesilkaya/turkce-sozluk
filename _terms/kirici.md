@@ -2,6 +2,7 @@
 layout: term
 title: kırıcı
 slug: kirici
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kırma işini yapan

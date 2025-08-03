@@ -2,6 +2,7 @@
 layout: term
 title: işi pişirmek
 slug: isi-pisirmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - aralarında gizlice anlaşmak

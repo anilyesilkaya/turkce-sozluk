@@ -2,6 +2,7 @@
 layout: term
 title: milletvekilliği
 slug: milletvekilligi
+letter: M
 lisan: Türkçe
 anlamlar:
 - Milletvekilinin görevi; mebusluk, parlamenterlik

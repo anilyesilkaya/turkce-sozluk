@@ -2,6 +2,7 @@
 layout: term
 title: camsız
 slug: camsiz
+letter: C
 lisan: Türkçe
 anlamlar:
 - Camı olmayan

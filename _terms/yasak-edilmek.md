@@ -2,6 +2,7 @@
 layout: term
 title: yasak edilmek
 slug: yasak-edilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yasaklanmak

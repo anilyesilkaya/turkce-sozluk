@@ -2,6 +2,7 @@
 layout: term
 title: kâmilen
 slug: kamilen
+letter: K
 lisan: Arapça kāmilen
 anlamlar:
 - Büsbütün, toptan

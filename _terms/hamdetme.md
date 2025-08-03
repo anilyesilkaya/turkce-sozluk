@@ -2,6 +2,7 @@
 layout: term
 title: hamdetme
 slug: hamdetme
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hamdetmek işi

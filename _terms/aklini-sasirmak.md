@@ -2,6 +2,7 @@
 layout: term
 title: aklını şaşırmak
 slug: aklini-sasirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - yerinde olmayan bir iş yapmak, yersiz düşünmek

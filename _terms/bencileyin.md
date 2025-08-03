@@ -2,6 +2,7 @@
 layout: term
 title: bencileyin
 slug: bencileyin
+letter: B
 lisan: Türkçe
 anlamlar:
 - Benim gibi

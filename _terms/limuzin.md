@@ -2,6 +2,7 @@
 layout: term
 title: limuzin
 slug: limuzin
+letter: L
 lisan: Fransızca limousine
 anlamlar:
 - İçinde her türlü donanım bulunan lüks, uzun ve geniş otomobil türü

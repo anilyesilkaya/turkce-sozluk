@@ -2,6 +2,7 @@
 layout: term
 title: umu
 slug: umu
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► umut

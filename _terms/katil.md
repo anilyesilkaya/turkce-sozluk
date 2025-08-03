@@ -2,6 +2,7 @@
 layout: term
 title: katil
 slug: katil
+letter: K
 lisan: Arapça ḳatl
 anlamlar:
 - ► öldürme

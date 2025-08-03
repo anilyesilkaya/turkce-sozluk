@@ -2,6 +2,7 @@
 layout: term
 title: musap
 slug: musap
+letter: M
 lisan: Arapça muṣāb
 anlamlar:
 - Başına bir kötülük, felaket gelmiş olan

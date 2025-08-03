@@ -2,6 +2,7 @@
 layout: term
 title: lafazan
 slug: lafazan
+letter: L
 lisan: Farsça lāfzen
 anlamlar:
 - ► geveze

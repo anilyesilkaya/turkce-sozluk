@@ -2,6 +2,7 @@
 layout: term
 title: paralizi
 slug: paralizi
+letter: P
 lisan: Fransızca paralysie
 anlamlar:
 - ► inme

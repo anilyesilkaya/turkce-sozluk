@@ -2,6 +2,7 @@
 layout: term
 title: gala
 slug: gala
+letter: G
 lisan: İtalyanca gala
 anlamlar:
 - Resmî bir törenden sonra yapılan büyük ve gösterişli şölen

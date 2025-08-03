@@ -2,6 +2,7 @@
 layout: term
 title: gönderivermek
 slug: gonderivermek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Çabucak göndermek

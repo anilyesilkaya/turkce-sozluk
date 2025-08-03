@@ -2,6 +2,7 @@
 layout: term
 title: yadigâr olmak
 slug: yadigar-olmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - hatıra olarak kalmak

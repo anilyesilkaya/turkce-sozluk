@@ -2,6 +2,7 @@
 layout: term
 title: sagu
 slug: sagu
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► ağıt

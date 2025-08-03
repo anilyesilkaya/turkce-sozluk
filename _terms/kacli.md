@@ -2,6 +2,7 @@
 layout: term
 title: kaçlı
 slug: kacli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sayısı kaç, hangi sayıdan

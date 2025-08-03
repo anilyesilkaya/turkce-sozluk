@@ -2,6 +2,7 @@
 layout: term
 title: mihnetsiz
 slug: mihnetsiz
+letter: M
 lisan: Türkçe
 anlamlar:
 - Sıkıntısız, eziyetsiz olan

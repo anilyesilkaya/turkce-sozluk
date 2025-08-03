@@ -2,6 +2,7 @@
 layout: term
 title: mukayese
 slug: mukayese
+letter: M
 lisan: Arapça muḳāyese
 anlamlar:
 - ► karşılaştırma

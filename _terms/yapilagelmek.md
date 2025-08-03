@@ -2,6 +2,7 @@
 layout: term
 title: yapılagelmek
 slug: yapilagelmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Uzun süreden beri yapılıyor olmak

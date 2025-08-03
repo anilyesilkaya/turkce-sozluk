@@ -2,6 +2,7 @@
 layout: term
 title: papazkaçtı
 slug: papazkacti
+letter: P
 lisan: Türkçe
 anlamlar:
 - Bir tür iskambil oyunu

@@ -2,6 +2,7 @@
 layout: term
 title: esami
 slug: esami
+letter: E
 lisan: Arapça esāmį
 anlamlar:
 - ► esame

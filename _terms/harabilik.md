@@ -2,6 +2,7 @@
 layout: term
 title: harabilik
 slug: harabilik
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► haraplık

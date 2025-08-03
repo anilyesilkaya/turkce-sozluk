@@ -2,6 +2,7 @@
 layout: term
 title: kara kara düşünmek
 slug: kara-kara-dusunmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - çok üzüntülü olmak, düşünceye dalmak

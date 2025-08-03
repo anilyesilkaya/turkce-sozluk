@@ -2,6 +2,7 @@
 layout: term
 title: hikâye etmek
 slug: hikaye-etmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - ayrıntılarıyla anlatmak, söylemek

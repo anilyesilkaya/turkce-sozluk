@@ -2,6 +2,7 @@
 layout: term
 title: gıcıklamak
 slug: giciklamak
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gıcık oluşturmak, kaşındırmak

@@ -2,6 +2,7 @@
 layout: term
 title: cinaslı kafiye
 slug: cinasli-kafiye
+letter: C
 lisan: Türkçe
 anlamlar:
 - Sesleri aynı, anlamları farklı olan kelimelerle yapılan kafiye türü; cinaslı uyak, ündeşli uyak

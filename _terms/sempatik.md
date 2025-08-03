@@ -2,6 +2,7 @@
 layout: term
 title: sempatik
 slug: sempatik
+letter: S
 lisan: Fransızca sympathique
 anlamlar:
 - ► sıcakkanlı

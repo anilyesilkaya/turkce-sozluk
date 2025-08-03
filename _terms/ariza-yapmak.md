@@ -2,6 +2,7 @@
 layout: term
 title: arıza yapmak
 slug: ariza-yapmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - bozulmak, işlemez duruma gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: abra
 slug: abra
+letter: A
 lisan: Ermenice
 anlamlar:
 - ► dara

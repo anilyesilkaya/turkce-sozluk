@@ -2,6 +2,7 @@
 layout: term
 title: hikâye
 slug: hikaye
+letter: H
 lisan: Arapça ḥikāye
 anlamlar:
 - Bir olayın sözlü veya yazılı olarak anlatılması; boy (III)

@@ -2,6 +2,7 @@
 layout: term
 title: acıyabilme
 slug: aciyabilme
+letter: A
 lisan: Türkçe
 anlamlar:
 - Acıyabilmek durumu

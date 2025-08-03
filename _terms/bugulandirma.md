@@ -2,6 +2,7 @@
 layout: term
 title: buğulandırma
 slug: bugulandirma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Buğulandırmak işi

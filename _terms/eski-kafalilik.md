@@ -2,6 +2,7 @@
 layout: term
 title: eski kafalılık
 slug: eski-kafalilik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eski kafalı olma durumu

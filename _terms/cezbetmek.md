@@ -2,6 +2,7 @@
 layout: term
 title: cezbetmek
 slug: cezbetmek
+letter: C
 lisan: Arapça ceẕb + Türkçe etmek
 anlamlar:
 - Kendine çekmek

@@ -2,6 +2,7 @@
 layout: term
 title: sol iç
 slug: sol-ic
+letter: S
 lisan: Türkçe
 anlamlar:
 - Futbolda, sol açıkla santrfor arasında görev yapan hücum oyuncusu

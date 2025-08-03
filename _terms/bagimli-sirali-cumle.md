@@ -2,6 +2,7 @@
 layout: term
 title: bağımlı sıralı cümle
 slug: bagimli-sirali-cumle
+letter: B
 lisan: Türkçe
 anlamlar:
 - Anlam bakımından birbirine bağlı olan ve özneleri, tümleçleri veya yüklemleri ortak olan cümle

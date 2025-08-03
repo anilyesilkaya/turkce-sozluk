@@ -2,6 +2,7 @@
 layout: term
 title: mezaristan
 slug: mezaristan
+letter: M
 lisan: Arapça mezār + Farsça -istān
 anlamlar:
 - ► mezarlık

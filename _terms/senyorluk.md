@@ -2,6 +2,7 @@
 layout: term
 title: senyörlük
 slug: senyorluk
+letter: S
 lisan: Türkçe
 anlamlar:
 - Senyör olma durumu

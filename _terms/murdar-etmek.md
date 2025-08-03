@@ -2,6 +2,7 @@
 layout: term
 title: murdar etmek
 slug: murdar-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - kirletmek, kullanılamaz hâle getirmek

@@ -2,6 +2,7 @@
 layout: term
 title: agora
 slug: agora
+letter: A
 lisan: Yunanca
 anlamlar:
 - Yunan klasik devrinde, sitenin yönetim, politika ve ticaret işlerini konuşmak için halkın toplandığı alan; halk meydanı

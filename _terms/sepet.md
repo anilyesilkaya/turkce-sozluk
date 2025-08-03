@@ -2,6 +2,7 @@
 layout: term
 title: sepet
 slug: sepet
+letter: S
 lisan: Farsça seped
 anlamlar:
 - Saz, kamış, ince dal veya tellerden hasır biçiminde örülerek yapılan, genellikle sapı olan, yiyecek ve eşya taşımak için kullanılan kap

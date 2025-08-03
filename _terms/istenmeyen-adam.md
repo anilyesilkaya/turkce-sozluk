@@ -2,6 +2,7 @@
 layout: term
 title: istenmeyen adam
 slug: istenmeyen-adam
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► istenmeyen kişi

@@ -2,6 +2,7 @@
 layout: term
 title: titrekleşme
 slug: titreklesme
+letter: T
 lisan: Türkçe
 anlamlar:
 - Titrekleşmek işi

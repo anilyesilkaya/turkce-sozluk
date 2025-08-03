@@ -2,6 +2,7 @@
 layout: term
 title: takınaklı davranış
 slug: takinakli-davranis
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bilince takılan ve bütün kurtulma uğraşılarına karşı direnen bir düşüncenin yarattığı davranış

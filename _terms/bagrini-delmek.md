@@ -2,6 +2,7 @@
 layout: term
 title: bağrını delmek
 slug: bagrini-delmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - çok dokunmak, içine işlemek

@@ -2,6 +2,7 @@
 layout: term
 title: dalgıçlık
 slug: dalgiclik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dalgıcın mesleği; balık adamlık

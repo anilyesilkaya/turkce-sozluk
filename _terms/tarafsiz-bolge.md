@@ -2,6 +2,7 @@
 layout: term
 title: tarafsız bölge
 slug: tarafsiz-bolge
+letter: T
 lisan: Türkçe
 anlamlar:
 - Savaşta iki taraf yetkilileri veya kumandanları tarafından verilen kararla oluşturulan askerden arınmış bölge

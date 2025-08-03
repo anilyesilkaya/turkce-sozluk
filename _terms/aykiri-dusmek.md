@@ -2,6 +2,7 @@
 layout: term
 title: aykırı düşmek
 slug: aykiri-dusmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - uygun gelmemek

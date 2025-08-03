@@ -2,6 +2,7 @@
 layout: term
 title: akraba
 slug: akraba
+letter: A
 lisan: Arapça aḳribā
 anlamlar:
 - Kan bağıyla birbirine bağlı olan kimse

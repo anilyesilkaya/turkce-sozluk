@@ -2,6 +2,7 @@
 layout: term
 title: üst baş
 slug: ust-bas
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Giyecekler, giysiler; giyim kuşam

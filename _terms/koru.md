@@ -2,6 +2,7 @@
 layout: term
 title: koru
 slug: koru
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bakımlı küçük orman

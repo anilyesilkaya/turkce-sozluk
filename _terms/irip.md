@@ -2,6 +2,7 @@
 layout: term
 title: ırıp
 slug: irip
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► ığrıp

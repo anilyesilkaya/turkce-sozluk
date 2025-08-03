@@ -2,6 +2,7 @@
 layout: term
 title: anormal
 slug: anormal
+letter: A
 lisan: Fransızca anormal
 anlamlar:
 - Genele, alışılmışa ve kurala aykırı olan, normal olmayan; düzgüsüz

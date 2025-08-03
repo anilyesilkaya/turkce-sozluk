@@ -2,6 +2,7 @@
 layout: term
 title: hakkâklik
 slug: hakkaklik
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► kakmacılık

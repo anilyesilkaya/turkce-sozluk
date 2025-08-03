@@ -2,6 +2,7 @@
 layout: term
 title: kurutabilmek
 slug: kurutabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kurutma ihtimali veya imkânı bulunmak

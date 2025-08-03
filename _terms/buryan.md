@@ -2,6 +2,7 @@
 layout: term
 title: büryan
 slug: buryan
+letter: B
 lisan: Farsça biryān
 anlamlar:
 - Tandırda susuz pişirilen bir kebap türü; büryan kebabı

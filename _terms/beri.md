@@ -2,6 +2,7 @@
 layout: term
 title: beri
 slug: beri
+letter: B
 lisan: Türkçe
 anlamlar:
 - Konuşanın önündeki iki uzaklıktan kendisine daha yakın olanı belirten bir söz, öte karşıtı

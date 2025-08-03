@@ -2,6 +2,7 @@
 layout: term
 title: derleniş
 slug: derlenis
+letter: D
 lisan: Türkçe
 anlamlar:
 - Derlenmek işi

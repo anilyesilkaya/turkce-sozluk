@@ -2,6 +2,7 @@
 layout: term
 title: süpürtmek
 slug: supurtmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Süpürme işini yaptırmak

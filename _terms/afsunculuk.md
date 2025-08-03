@@ -2,6 +2,7 @@
 layout: term
 title: afsunculuk
 slug: afsunculuk
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► büyücülük

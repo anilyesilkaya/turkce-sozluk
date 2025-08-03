@@ -2,6 +2,7 @@
 layout: term
 title: eylemsiz
 slug: eylemsiz
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eylemi olmayan

@@ -2,6 +2,7 @@
 layout: term
 title: bilecen
 slug: bilecen
+letter: B
 lisan: Türkçe
 anlamlar:
 - Her şeyi bilen, her şeyden anlayan

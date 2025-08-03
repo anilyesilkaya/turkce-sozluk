@@ -2,6 +2,7 @@
 layout: term
 title: uğunmak
 slug: ugunmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Büyük bir üzüntü veya acıdan kıvranmak

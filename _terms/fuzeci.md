@@ -2,6 +2,7 @@
 layout: term
 title: füzeci
 slug: fuzeci
+letter: F
 lisan: Türkçe
 anlamlar:
 - Füze teknolojisiyle ilgilenen araştırmacı

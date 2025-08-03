@@ -2,6 +2,7 @@
 layout: term
 title: müsrif
 slug: musrif
+letter: M
 lisan: Arapça musrif
 anlamlar:
 - ► tutumsuz

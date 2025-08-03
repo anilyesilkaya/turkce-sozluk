@@ -2,6 +2,7 @@
 layout: term
 title: arpacı kumrusu gibi düşünmek
 slug: arpaci-kumrusu-gibi-dusunmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - içinde bulunduğu sorunu nasıl çözeceğini uzun uzun düşünmek

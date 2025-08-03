@@ -2,6 +2,7 @@
 layout: term
 title: faydacı
 slug: faydaci
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► yararcı

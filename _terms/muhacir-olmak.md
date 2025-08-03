@@ -2,6 +2,7 @@
 layout: term
 title: muhacir olmak
 slug: muhacir-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - göçmen durumuna girmek

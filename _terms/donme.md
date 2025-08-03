@@ -2,6 +2,7 @@
 layout: term
 title: dönme
 slug: donme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dönmek işi; deveran

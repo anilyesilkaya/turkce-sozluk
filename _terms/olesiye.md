@@ -2,6 +2,7 @@
 layout: term
 title: ölesiye
 slug: olesiye
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ölümü göze alacak kadar; ölürcesine

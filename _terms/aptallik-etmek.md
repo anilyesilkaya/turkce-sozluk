@@ -2,6 +2,7 @@
 layout: term
 title: aptallık etmek
 slug: aptallik-etmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - aptalca davranmak veya aptalca iş görmek

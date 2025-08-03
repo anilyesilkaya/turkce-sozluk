@@ -2,6 +2,7 @@
 layout: term
 title: uygulatma
 slug: uygulatma
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uygulatmak işi

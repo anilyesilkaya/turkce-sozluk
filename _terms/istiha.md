@@ -2,6 +2,7 @@
 layout: term
 title: iştiha
 slug: istiha
+letter: I
 lisan: Arapça iştihāʾ
 anlamlar:
 - ► iştah

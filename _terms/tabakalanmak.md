@@ -2,6 +2,7 @@
 layout: term
 title: tabakalanmak
 slug: tabakalanmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tabakalar birbiri üstüne veya birbirinin ardınca sıralı duruma gelmek

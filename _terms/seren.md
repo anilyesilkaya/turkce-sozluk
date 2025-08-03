@@ -2,6 +2,7 @@
 layout: term
 title: seren
 slug: seren
+letter: S
 lisan: Türkçe
 anlamlar:
 - Yelkenli gemilerde üzerine dört köşe yelken açmak ve işaret kaldırmak için direğe yatay olarak bağlanan gönder

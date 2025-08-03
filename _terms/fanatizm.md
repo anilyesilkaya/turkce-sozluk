@@ -2,6 +2,7 @@
 layout: term
 title: fanatizm
 slug: fanatizm
+letter: F
 lisan: Fransızca fanatisme
 anlamlar:
 - ► bağnazlık

@@ -2,6 +2,7 @@
 layout: term
 title: hiç mi hiç
 slug: hic-mi-hic
+letter: H
 lisan: Türkçe
 anlamlar:
 - kesinlikle

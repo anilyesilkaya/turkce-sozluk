@@ -2,6 +2,7 @@
 layout: term
 title: pragmatist
 slug: pragmatist
+letter: P
 lisan: Fransızca pragmatiste
 anlamlar:
 - ► pragmacı

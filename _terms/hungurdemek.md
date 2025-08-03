@@ -2,6 +2,7 @@
 layout: term
 title: hüngürdemek
 slug: hungurdemek
+letter: H
 lisan: Türkçe
 anlamlar:
 - Yüksek sesle ve hıçkırarak ağlamak

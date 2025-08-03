@@ -2,6 +2,7 @@
 layout: term
 title: fetişist
 slug: fetisist
+letter: F
 lisan: Fransızca fétichiste
 anlamlar:
 - Fetişizmi uygulayan kimse veya görüş

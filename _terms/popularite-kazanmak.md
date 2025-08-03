@@ -2,6 +2,7 @@
 layout: term
 title: popülarite kazanmak
 slug: popularite-kazanmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - halk tarafından sevilmek, ünlü olmak, tutulmak

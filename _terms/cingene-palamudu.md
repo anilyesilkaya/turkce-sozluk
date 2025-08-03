@@ -2,6 +2,7 @@
 layout: term
 title: Çingene palamudu
 slug: cingene-palamudu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Palamut balığının eti lezzetli olan küçüğü

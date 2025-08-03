@@ -2,6 +2,7 @@
 layout: term
 title: tombul
 slug: tombul
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► yuvarlak

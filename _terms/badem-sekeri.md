@@ -2,6 +2,7 @@
 layout: term
 title: badem şekeri
 slug: badem-sekeri
+letter: B
 lisan: Türkçe
 anlamlar:
 - İnce bir şeker tabakasıyla kaplanmış iç badem

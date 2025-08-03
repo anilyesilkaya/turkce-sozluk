@@ -2,6 +2,7 @@
 layout: term
 title: salimlik
 slug: salimlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Salim olma durumu

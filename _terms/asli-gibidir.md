@@ -2,6 +2,7 @@
 layout: term
 title: aslı gibidir
 slug: asli-gibidir
+letter: A
 lisan: Türkçe
 anlamlar:
 - resmî evrakın kopyası üzerine yazılan ve aslına uygun olduğunu ifade eden onay sözü

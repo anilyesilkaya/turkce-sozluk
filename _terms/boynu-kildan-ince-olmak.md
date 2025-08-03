@@ -2,6 +2,7 @@
 layout: term
 title: boynu kıldan ince olmak
 slug: boynu-kildan-ince-olmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - haksız olduğu anlaşıldığında verilecek her türlü cezaya razı olmak

@@ -2,6 +2,7 @@
 layout: term
 title: vurma
 slug: vurma
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vurmak işi; darp

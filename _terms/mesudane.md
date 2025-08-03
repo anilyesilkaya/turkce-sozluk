@@ -2,6 +2,7 @@
 layout: term
 title: mesudane
 slug: mesudane
+letter: M
 lisan: Arapça mesʿūd + Farsça -āne
 anlamlar:
 - ► mesutça

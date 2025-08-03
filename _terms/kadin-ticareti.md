@@ -2,6 +2,7 @@
 layout: term
 title: kadın ticareti
 slug: kadin-ticareti
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kız çocukları ile kadınların gizlice kaçırılarak veya doğrudan para karşılığında satılması

@@ -2,6 +2,7 @@
 layout: term
 title: gammazlamak
 slug: gammazlamak
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► ispiyonlamak

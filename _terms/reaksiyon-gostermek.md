@@ -2,6 +2,7 @@
 layout: term
 title: reaksiyon göstermek
 slug: reaksiyon-gostermek
+letter: R
 lisan: Türkçe
 anlamlar:
 - tepkimek

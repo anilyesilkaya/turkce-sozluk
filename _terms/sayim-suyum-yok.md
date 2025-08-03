@@ -2,6 +2,7 @@
 layout: term
 title: sayım suyum yok
 slug: sayim-suyum-yok
+letter: S
 lisan: Türkçe
 anlamlar:
 - çocuk oyunlarında "kısa bir süre için oyun dışıyım" anlamında kullanılan bir söz

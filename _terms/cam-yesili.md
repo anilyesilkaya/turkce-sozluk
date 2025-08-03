@@ -2,6 +2,7 @@
 layout: term
 title: çam yeşili
 slug: cam-yesili
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Yeşilin çam yapraklarına benzer bir tonu

@@ -2,6 +2,7 @@
 layout: term
 title: nitekim
 slug: nitekim
+letter: N
 lisan: Türkçe
 anlamlar:
 - Gerçekten, hakikaten

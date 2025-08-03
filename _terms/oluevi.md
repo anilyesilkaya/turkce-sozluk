@@ -2,6 +2,7 @@
 layout: term
 title: ölüevi
 slug: oluevi
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Cenaze sahibinin evi

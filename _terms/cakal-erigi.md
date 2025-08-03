@@ -2,6 +2,7 @@
 layout: term
 title: çakal eriği
 slug: cakal-erigi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çok ekşi, sert, iri çekirdekli bir tür erik; yaban eriği, dağ eriği (Prunus spinosa)

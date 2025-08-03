@@ -2,6 +2,7 @@
 layout: term
 title: çeper
 slug: ceper
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çit (I)

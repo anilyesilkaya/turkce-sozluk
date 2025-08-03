@@ -2,6 +2,7 @@
 layout: term
 title: üzerinde kalmak
 slug: uzerinde-kalmak
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - mal veya iş, artırma sırasında bir kimsenin olmak

@@ -2,6 +2,7 @@
 layout: term
 title: bişek
 slug: bisek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Yayık dövmede kullanılan araç

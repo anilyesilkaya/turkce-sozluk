@@ -2,6 +2,7 @@
 layout: term
 title: bir tek
 slug: bir-tek
+letter: B
 lisan: Türkçe
 anlamlar:
 - olumlu cümlelerde yalnız bir

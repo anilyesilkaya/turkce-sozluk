@@ -2,6 +2,7 @@
 layout: term
 title: sarılmak
 slug: sarilmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sarma işi yapılmak

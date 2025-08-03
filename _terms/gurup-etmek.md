@@ -2,6 +2,7 @@
 layout: term
 title: gurup etmek
 slug: gurup-etmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - güneş, batmak

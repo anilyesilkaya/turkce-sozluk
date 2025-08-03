@@ -2,6 +2,7 @@
 layout: term
 title: doğruluvermek
 slug: dogruluvermek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Aniden doğrulmak

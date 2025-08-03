@@ -2,6 +2,7 @@
 layout: term
 title: tirat
 slug: tirat
+letter: T
 lisan: Fransızca tirade
 anlamlar:
 - Bir tiyatro oyununda oyuncuların bir defada söylediği parça

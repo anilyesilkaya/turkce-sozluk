@@ -2,6 +2,7 @@
 layout: term
 title: seyahat etmek
 slug: seyahat-etmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - uzak yerleri gezerek görmek, yolculuk etmek

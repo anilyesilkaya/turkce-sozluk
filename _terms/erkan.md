@@ -2,6 +2,7 @@
 layout: term
 title: erkân
 slug: erkan
+letter: E
 lisan: Arapça erkān
 anlamlar:
 - Bir topluluğun ileri gelenleri, büyükler, üstler

@@ -2,6 +2,7 @@
 layout: term
 title: anten
 slug: anten
+letter: A
 lisan: Fransızca antenne.
 anlamlar:
 - Vericiden boşluğa gönderilen elektromanyetik dalgaları toplayarak alıcıya ileten veya elektromanyetik dalgalar gönderen, çeşitli biçimlerdeki iletken veya iletkenler bütünü aygıt

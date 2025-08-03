@@ -2,6 +2,7 @@
 layout: term
 title: gönül avcısı
 slug: gonul-avcisi
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► çapkın

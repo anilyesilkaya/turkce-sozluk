@@ -2,6 +2,7 @@
 layout: term
 title: onsekiz
 slug: onsekiz
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► ceza alanı

@@ -2,6 +2,7 @@
 layout: term
 title: kırsal nüfus
 slug: kirsal-nufus
+letter: K
 lisan: Türkçe
 anlamlar:
 - Tarımla uğraşan, genellikle şehir sınırları dışında, köy ve kasabalarda yaşayan nüfus

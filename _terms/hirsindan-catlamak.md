@@ -2,6 +2,7 @@
 layout: term
 title: hırsından çatlamak
 slug: hirsindan-catlamak
+letter: H
 lisan: Türkçe
 anlamlar:
 - öfkeyle birlikte aşırı derecede kıskanmak

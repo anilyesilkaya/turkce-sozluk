@@ -2,6 +2,7 @@
 layout: term
 title: heykeltıraş
 slug: heykeltiras
+letter: H
 lisan: Arapça heykel + Farsça -terāş
 anlamlar:
 - ► heykelci

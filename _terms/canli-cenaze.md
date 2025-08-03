@@ -2,6 +2,7 @@
 layout: term
 title: canlı cenaze
 slug: canli-cenaze
+letter: C
 lisan: Türkçe
 anlamlar:
 - Çok zayıf, bir deri bir kemik kalmış kimse

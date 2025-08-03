@@ -2,6 +2,7 @@
 layout: term
 title: sürü
 slug: suru
+letter: S
 lisan: Türkçe
 anlamlar:
 - Birlikte yaşayan hayvan topluluğu

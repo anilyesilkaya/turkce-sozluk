@@ -2,6 +2,7 @@
 layout: term
 title: yakalanma
 slug: yakalanma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yakalanmak işi

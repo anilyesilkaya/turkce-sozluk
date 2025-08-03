@@ -2,6 +2,7 @@
 layout: term
 title: kıyamet günü
 slug: kiyamet-gunu
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kıyamet

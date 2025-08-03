@@ -2,6 +2,7 @@
 layout: term
 title: mışıl mışıl
 slug: misil-misil
+letter: M
 lisan: Türkçe
 anlamlar:
 - '"Rahat, sessiz ve derin soluk alarak uyumak" anlamındaki mışıl mışıl uyumak deyiminde geçen bir söz'

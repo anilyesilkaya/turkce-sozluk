@@ -2,6 +2,7 @@
 layout: term
 title: sözün kısası
 slug: sozun-kisasi
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► kısacası

@@ -2,6 +2,7 @@
 layout: term
 title: mükâfat
 slug: mukafat
+letter: M
 lisan: Arapça mukāfāt
 anlamlar:
 - ► ödül

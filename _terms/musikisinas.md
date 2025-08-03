@@ -2,6 +2,7 @@
 layout: term
 title: musikişinas
 slug: musikisinas
+letter: M
 lisan: Arapça mūsīḳī + Farsça -şinās
 anlamlar:
 - Müzikle uğraşan

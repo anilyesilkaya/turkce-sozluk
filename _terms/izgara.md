@@ -2,6 +2,7 @@
 layout: term
 title: ızgara
 slug: izgara
+letter: I
 lisan: Rumca
 anlamlar:
 - Metal çubukların, ağaç dallarının aralıklı sıralanmasıyla yapılan parmaklık veya kafes biçiminde araç

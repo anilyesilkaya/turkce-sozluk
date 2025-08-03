@@ -2,6 +2,7 @@
 layout: term
 title: absürt
 slug: absurt
+letter: A
 lisan: Fransızca absurde
 anlamlar:
 - ► saçma

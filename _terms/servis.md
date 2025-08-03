@@ -2,6 +2,7 @@
 layout: term
 title: servis
 slug: servis
+letter: S
 lisan: Fransızca service
 anlamlar:
 - Sofrada hizmet etmekle görevli kimsenin yaptığı iş ve bu işin yapılma biçimi, sofra hizmeti

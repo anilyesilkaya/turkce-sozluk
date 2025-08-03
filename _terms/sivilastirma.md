@@ -2,6 +2,7 @@
 layout: term
 title: sıvılaştırma
 slug: sivilastirma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıvılaştırmak işi

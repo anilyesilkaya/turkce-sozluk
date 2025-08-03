@@ -2,6 +2,7 @@
 layout: term
 title: delicesine
 slug: delicesine
+letter: D
 lisan: Türkçe
 anlamlar:
 - Aşırı bir biçimde; delice

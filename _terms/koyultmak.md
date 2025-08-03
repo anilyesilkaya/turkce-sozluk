@@ -2,6 +2,7 @@
 layout: term
 title: koyultmak
 slug: koyultmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Koyu duruma getirmek

@@ -2,6 +2,7 @@
 layout: term
 title: ivmelenme
 slug: ivmelenme
+letter: I
 lisan: Türkçe
 anlamlar:
 - İvmelenmek işi

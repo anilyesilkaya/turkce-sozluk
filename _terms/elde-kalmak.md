@@ -2,6 +2,7 @@
 layout: term
 title: elde kalmak
 slug: elde-kalmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - geride kalmak

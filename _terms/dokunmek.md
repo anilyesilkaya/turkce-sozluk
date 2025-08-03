@@ -2,6 +2,7 @@
 layout: term
 title: dökünmek
 slug: dokunmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Kendi üstüne dökmek

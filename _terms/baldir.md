@@ -2,6 +2,7 @@
 layout: term
 title: baldır
 slug: baldir
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bacağın dizden ayak bileğine kadar olan bölümü; incik

@@ -2,6 +2,7 @@
 layout: term
 title: pabuç pahalı
 slug: pabuc-pahali
+letter: P
 lisan: Türkçe
 anlamlar:
 - birinin uğraşmaya kalktığı kimsenin, kendinden güçlü çıkması durumunda söylenen bir söz

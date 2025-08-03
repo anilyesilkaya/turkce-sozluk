@@ -2,6 +2,7 @@
 layout: term
 title: fırıldak çevirmek (veya döndürmek)
 slug: firildak-cevirmek-veya-dondurmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - isteğini elde etmek için hileli yollara başvurmak

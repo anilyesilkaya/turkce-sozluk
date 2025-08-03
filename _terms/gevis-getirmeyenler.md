@@ -2,6 +2,7 @@
 layout: term
 title: geviş getirmeyenler
 slug: gevis-getirmeyenler
+letter: G
 lisan: Türkçe
 anlamlar:
 - Çift parmaklılar takımına giren, mide yapıları basit olan bir alt takım

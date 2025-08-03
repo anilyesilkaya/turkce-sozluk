@@ -2,6 +2,7 @@
 layout: term
 title: cesaretsizlik
 slug: cesaretsizlik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cesaretsiz olma durumu; cüretsizlik

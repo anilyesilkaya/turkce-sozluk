@@ -2,6 +2,7 @@
 layout: term
 title: çekiştirmek
 slug: cekistirmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Uçlarından tutarak ayrı yönlere doğru çekmek

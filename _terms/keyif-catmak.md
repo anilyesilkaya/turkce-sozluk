@@ -2,6 +2,7 @@
 layout: term
 title: keyif çatmak
 slug: keyif-catmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - keyfetmek

@@ -2,6 +2,7 @@
 layout: term
 title: neon lambası
 slug: neon-lambasi
+letter: N
 lisan: Türkçe
 anlamlar:
 - Neon tüpü kullanılarak yapılan aydınlatma aracı; neon

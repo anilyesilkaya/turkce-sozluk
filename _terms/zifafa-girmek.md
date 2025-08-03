@@ -2,6 +2,7 @@
 layout: term
 title: zifafa girmek
 slug: zifafa-girmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - gerdeğe girmek

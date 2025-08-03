@@ -2,6 +2,7 @@
 layout: term
 title: deve kuşuluk etmek
 slug: deve-kusuluk-etmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - deve kuşu gibi başını kuma sokup gerçeklerden uzak duracağını sanmak

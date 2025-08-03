@@ -2,6 +2,7 @@
 layout: term
 title: yasını tutmak
 slug: yasini-tutmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - kötü bir olay sonunda acı ve üzüntü duymak

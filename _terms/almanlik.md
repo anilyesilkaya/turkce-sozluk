@@ -2,6 +2,7 @@
 layout: term
 title: Almanlık
 slug: almanlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alman olma durumu

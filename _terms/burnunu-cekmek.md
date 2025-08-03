@@ -2,6 +2,7 @@
 layout: term
 title: burnunu çekmek
 slug: burnunu-cekmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - sümüğünü çekmek

@@ -2,6 +2,7 @@
 layout: term
 title: itin götüne (veya kıçına) sokmak
 slug: itin-gotune-veya-kicina-sokmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - rezil etmek

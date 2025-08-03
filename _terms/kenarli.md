@@ -2,6 +2,7 @@
 layout: term
 title: kenarlı
 slug: kenarli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Herhangi bir biçimde kenarı olan

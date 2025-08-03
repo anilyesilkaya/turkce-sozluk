@@ -2,6 +2,7 @@
 layout: term
 title: ihtiyar etmek
 slug: ihtiyar-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - seçmek, ortaya koymak

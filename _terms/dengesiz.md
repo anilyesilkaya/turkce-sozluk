@@ -2,6 +2,7 @@
 layout: term
 title: dengesiz
 slug: dengesiz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dengesi olmayan; kararsız, muvazenesiz

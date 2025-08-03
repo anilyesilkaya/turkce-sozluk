@@ -2,6 +2,7 @@
 layout: term
 title: gecikmek
 slug: gecikmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Geç kalmak, herhangi bir işi kararlaştırılan zamandan sonra yapmak

@@ -2,6 +2,7 @@
 layout: term
 title: naaş
 slug: naas
+letter: N
 lisan: Arapça naʿş
 anlamlar:
 - ► ceset

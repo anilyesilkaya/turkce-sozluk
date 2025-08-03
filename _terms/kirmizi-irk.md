@@ -2,6 +2,7 @@
 layout: term
 title: 'kırmızı ırk '
 slug: kirmizi-irk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kızılderili ırkı

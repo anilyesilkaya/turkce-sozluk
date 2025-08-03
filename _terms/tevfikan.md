@@ -2,6 +2,7 @@
 layout: term
 title: tevfikan
 slug: tevfikan
+letter: T
 lisan: Arapça tevfīḳan
 anlamlar:
 - Uyarak, uygun olarak, -e göre

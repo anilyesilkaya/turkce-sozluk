@@ -2,6 +2,7 @@
 layout: term
 title: çözülüş
 slug: cozulus
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çözülmek işi

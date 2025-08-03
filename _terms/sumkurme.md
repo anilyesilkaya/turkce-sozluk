@@ -2,6 +2,7 @@
 layout: term
 title: sümkürme
 slug: sumkurme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sümkürmek işi

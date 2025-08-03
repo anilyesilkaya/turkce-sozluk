@@ -2,6 +2,7 @@
 layout: term
 title: İsloven
 slug: isloven
+letter: İ
 lisan: Türkçe
 anlamlar:
 - ► Sloven

@@ -2,6 +2,7 @@
 layout: term
 title: yerlileşmek
 slug: yerlilesmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yerli duruma getirmek

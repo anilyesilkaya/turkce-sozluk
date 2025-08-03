@@ -2,6 +2,7 @@
 layout: term
 title: kıvırmak
 slug: kivirmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Herhangi bir şeyi bükmek

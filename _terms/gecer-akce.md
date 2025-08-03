@@ -2,6 +2,7 @@
 layout: term
 title: geçer akçe
 slug: gecer-akce
+letter: G
 lisan: Türkçe
 anlamlar:
 - Herkesçe aranan, beğenilen

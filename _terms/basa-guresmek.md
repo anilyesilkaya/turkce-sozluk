@@ -2,6 +2,7 @@
 layout: term
 title: başa güreşmek
 slug: basa-guresmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - karakucak ve yağlı güreşte pehlivanlar başpehlivanlık için yarışmak

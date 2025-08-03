@@ -2,6 +2,7 @@
 layout: term
 title: inşirah
 slug: insirah
+letter: I
 lisan: Arapça inşirāḥ
 anlamlar:
 - İç açılması, gönül açılması, ferahlık

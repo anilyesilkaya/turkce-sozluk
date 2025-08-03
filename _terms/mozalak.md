@@ -2,6 +2,7 @@
 layout: term
 title: mozalak
 slug: mozalak
+letter: M
 lisan: Türkçe
 anlamlar:
 - Olgunlaşmamış, eğri büğrü meyve

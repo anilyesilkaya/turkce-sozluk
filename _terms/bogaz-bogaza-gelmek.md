@@ -2,6 +2,7 @@
 layout: term
 title: boğaz boğaza gelmek
 slug: bogaz-bogaza-gelmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - zorlu kavga etmek

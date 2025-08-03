@@ -2,6 +2,7 @@
 layout: term
 title: pabuçtan aşağı
 slug: pabuctan-asagi
+letter: P
 lisan: Türkçe
 anlamlar:
 - Aşağılık olan (kimse)

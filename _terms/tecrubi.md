@@ -2,6 +2,7 @@
 layout: term
 title: tecrübi
 slug: tecrubi
+letter: T
 lisan: Arapça tecribī
 anlamlar:
 - ► deneysel

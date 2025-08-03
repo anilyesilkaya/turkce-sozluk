@@ -2,6 +2,7 @@
 layout: term
 title: limanlık
 slug: limanlik
+letter: L
 lisan: Türkçe
 anlamlar:
 - Liman gibi kullanılan, liman kurmaya elverişli (yer)

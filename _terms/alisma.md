@@ -2,6 +2,7 @@
 layout: term
 title: alışma
 slug: alisma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alışmak işi; istinas, ülfet

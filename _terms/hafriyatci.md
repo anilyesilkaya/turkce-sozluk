@@ -2,6 +2,7 @@
 layout: term
 title: hafriyatçı
 slug: hafriyatci
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hafriyat işi ile uğraşan kimse

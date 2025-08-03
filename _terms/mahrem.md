@@ -2,6 +2,7 @@
 layout: term
 title: mahrem
 slug: mahrem
+letter: M
 lisan: Arapça maḥrem
 anlamlar:
 - Yakın akrabadan olduğu için nikâh düşmeyen (kimse)

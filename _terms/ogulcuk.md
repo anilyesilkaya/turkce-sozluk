@@ -2,6 +2,7 @@
 layout: term
 title: oğulcuk
 slug: ogulcuk
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oğlanlara sevgiyle yaklaşıldığını belirten bir söz

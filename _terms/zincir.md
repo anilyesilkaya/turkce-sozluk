@@ -2,6 +2,7 @@
 layout: term
 title: zincir
 slug: zincir
+letter: Z
 lisan: Farsça zencīr
 anlamlar:
 - Birbirine geçmiş bir sıra metal halkadan oluşan bağ

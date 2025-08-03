@@ -2,6 +2,7 @@
 layout: term
 title: belgeli
 slug: belgeli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belgesi olan (kimse)

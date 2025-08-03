@@ -2,6 +2,7 @@
 layout: term
 title: danışmak
 slug: danismak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir iş için bilgi veya yol sormak, görüş almak; istişare etmek, müracaat etmek, meşveret etmek

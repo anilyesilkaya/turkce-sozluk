@@ -2,6 +2,7 @@
 layout: term
 title: okul
 slug: okul
+letter: O
 lisan: Türkçe
 anlamlar:
 - Her türlü eğitim ve öğretimin toplu olarak yapıldığı yer; mektep

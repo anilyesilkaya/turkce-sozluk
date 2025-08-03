@@ -2,6 +2,7 @@
 layout: term
 title: bungalov
 slug: bungalov
+letter: B
 lisan: Fransızca bungalow
 anlamlar:
 - Hindistan'da tek katlı, genellikle tahtadan yapılmış, veranda ile çevrili ev

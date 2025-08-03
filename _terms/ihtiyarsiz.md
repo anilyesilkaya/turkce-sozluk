@@ -2,6 +2,7 @@
 layout: term
 title: ihtiyarsız
 slug: ihtiyarsiz
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► irade dışı

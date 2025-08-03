@@ -2,6 +2,7 @@
 layout: term
 title: baş kesmek
 slug: bas-kesmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - selam vermek için baş eğmek

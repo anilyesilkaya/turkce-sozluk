@@ -2,6 +2,7 @@
 layout: term
 title: istralya
 slug: istralya
+letter: I
 lisan: İtalyanca straglio
 anlamlar:
 - Gemide direk ve çubukları baş tarafından yani burundan tutan halat

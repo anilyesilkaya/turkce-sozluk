@@ -2,6 +2,7 @@
 layout: term
 title: tenzihî
 slug: tenzihi
+letter: T
 lisan: Arapça tenzįhį
 anlamlar:
 - Tenzihle ilgili

@@ -2,6 +2,7 @@
 layout: term
 title: örneklem
 slug: orneklem
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Bir araştırmada bütünü anlamak için bütünden seçilen araştırma tekniklerinin uygulanacağı grup

@@ -2,6 +2,7 @@
 layout: term
 title: öbür gün
 slug: obur-gun
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Yarından sonraki gün

@@ -2,6 +2,7 @@
 layout: term
 title: ateş düşürücü
 slug: ates-dusurucu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yükselen vücut sıcaklığını düşürülmesini sağlayan ilaç veya madde

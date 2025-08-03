@@ -2,6 +2,7 @@
 layout: term
 title: başyemek
 slug: basyemek
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► ana yemek

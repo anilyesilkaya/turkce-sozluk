@@ -2,6 +2,7 @@
 layout: term
 title: geriletebilmek
 slug: geriletebilmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Geriletme ihtimali veya imkânı bulunmak

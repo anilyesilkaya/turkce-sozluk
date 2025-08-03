@@ -2,6 +2,7 @@
 layout: term
 title: randımanlı
 slug: randimanli
+letter: R
 lisan: Türkçe
 anlamlar:
 - ► verimli

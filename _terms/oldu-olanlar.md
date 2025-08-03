@@ -2,6 +2,7 @@
 layout: term
 title: oldu olanlar
 slug: oldu-olanlar
+letter: O
 lisan: Türkçe
 anlamlar:
 - '"hoş olmayan, kötü birtakım olaylar oldu" anlamında kullanılan bir söz'

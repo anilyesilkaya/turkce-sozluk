@@ -2,6 +2,7 @@
 layout: term
 title: koreograf
 slug: koreograf
+letter: K
 lisan: Fransızca chorégraphe
 anlamlar:
 - Baleyi oluşturan adım ve figürleri düzenleyen sanatçı

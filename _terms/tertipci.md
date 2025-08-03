@@ -2,6 +2,7 @@
 layout: term
 title: tertipçi
 slug: tertipci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tertip eden, düzenleyen kimse

@@ -2,6 +2,7 @@
 layout: term
 title: lüle
 slug: lule
+letter: L
 lisan: Farsça lūle
 anlamlar:
 - Tütün çubuğu, pipo, nargile vb.nin ucuna takılan, tütün konulan yuva

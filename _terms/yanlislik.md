@@ -2,6 +2,7 @@
 layout: term
 title: yanlışlık
 slug: yanlislik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yanlış davranış, yanlış iş, yanlış sanı; hata, sakamet, falso

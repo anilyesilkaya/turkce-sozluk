@@ -2,6 +2,7 @@
 layout: term
 title: kırk hamamı
 slug: kirk-hamami
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kadının lohusalıkta ilk kırk günü doldurmasından sonra temizlenmesi için hamamda yapılan özel toplantı

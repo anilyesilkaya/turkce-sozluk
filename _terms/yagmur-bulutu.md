@@ -2,6 +2,7 @@
 layout: term
 title: yağmur bulutu
 slug: yagmur-bulutu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Atmosferde nem yüklü bulutlar

@@ -2,6 +2,7 @@
 layout: term
 title: eşleşmek
 slug: eslesmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Birbiriyle eş olmak, eş tutmak

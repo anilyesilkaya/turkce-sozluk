@@ -2,6 +2,7 @@
 layout: term
 title: iyelik eki
 slug: iyelik-eki
+letter: I
 lisan: Türkçe
 anlamlar:
 - Kelimenin belirttiği nesnenin, kavramın kime veya neye ait olduğunu bildiren ek

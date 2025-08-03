@@ -2,6 +2,7 @@
 layout: term
 title: zirve konferansı
 slug: zirve-konferansi
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Doruk toplantısının oluşturduğu konferans

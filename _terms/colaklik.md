@@ -2,6 +2,7 @@
 layout: term
 title: çolaklık
 slug: colaklik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çolak olma durumu

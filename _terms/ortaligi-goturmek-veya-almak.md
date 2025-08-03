@@ -2,6 +2,7 @@
 layout: term
 title: ortalığı ... götürmek (veya almak)
 slug: ortaligi-goturmek-veya-almak
+letter: O
 lisan: Türkçe
 anlamlar:
 - kaplamak

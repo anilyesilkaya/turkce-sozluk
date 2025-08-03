@@ -2,6 +2,7 @@
 layout: term
 title: damlatmak
 slug: damlatmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Damla damla akıtmak

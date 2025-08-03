@@ -2,6 +2,7 @@
 layout: term
 title: kayıtsız kalmak
 slug: kayitsiz-kalmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - önem vermemek, umursamamak

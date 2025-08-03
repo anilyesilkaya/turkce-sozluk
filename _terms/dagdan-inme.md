@@ -2,6 +2,7 @@
 layout: term
 title: dağdan inme
 slug: dagdan-inme
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► dağ adamı

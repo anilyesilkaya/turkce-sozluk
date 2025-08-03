@@ -2,6 +2,7 @@
 layout: term
 title: koşu koparmak
 slug: kosu-koparmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - hızla koşuvermek, çabucak atılıp gitmek

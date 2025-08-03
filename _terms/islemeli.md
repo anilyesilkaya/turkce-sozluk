@@ -2,6 +2,7 @@
 layout: term
 title: işlemeli
 slug: islemeli
+letter: I
 lisan: Türkçe
 anlamlar:
 - Üstünde işlemeler bulunan

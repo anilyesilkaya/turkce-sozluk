@@ -2,6 +2,7 @@
 layout: term
 title: arbede
 slug: arbede
+letter: A
 lisan: Arapça ʿarbede
 anlamlar:
 - Birçok kişinin karıştığı gürültülü, patırtılı kavga; patırtı

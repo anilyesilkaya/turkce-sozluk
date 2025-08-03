@@ -2,6 +2,7 @@
 layout: term
 title: bankocu
 slug: bankocu
+letter: B
 lisan: Türkçe
 anlamlar:
 - İplik fabrikasında pamuk ipliği yapan (kimse)

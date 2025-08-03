@@ -2,6 +2,7 @@
 layout: term
 title: kazık kadar
 slug: kazik-kadar
+letter: K
 lisan: Türkçe
 anlamlar:
 - kocaman (kimse)

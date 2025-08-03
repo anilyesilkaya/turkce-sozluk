@@ -2,6 +2,7 @@
 layout: term
 title: yeltenmek
 slug: yeltenmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yapamayacağı bir işe girişmek, özenmek, heves etmek, meyletmek

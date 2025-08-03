@@ -2,6 +2,7 @@
 layout: term
 title: pederşahi
 slug: pedersahi
+letter: P
 lisan: Farsça peder + şāh + Arapça -ī
 anlamlar:
 - ► ataerkil

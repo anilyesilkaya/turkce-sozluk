@@ -2,6 +2,7 @@
 layout: term
 title: şekerlenmek
 slug: sekerlenmek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şekerli eriyiklerin içindeki şeker, billur durumuna gelip ayrılmak

@@ -2,6 +2,7 @@
 layout: term
 title: ağız dolusu
 slug: agiz-dolusu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağzın alabileceği miktarda

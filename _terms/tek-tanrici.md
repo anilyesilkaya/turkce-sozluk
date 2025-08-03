@@ -2,6 +2,7 @@
 layout: term
 title: tek tanrıcı
 slug: tek-tanrici
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tek tanrıcılığa inanan; monoteist

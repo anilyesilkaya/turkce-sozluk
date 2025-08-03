@@ -2,6 +2,7 @@
 layout: term
 title: devlet baba
 slug: devlet-baba
+letter: D
 lisan: Türkçe
 anlamlar:
 - '"Koruyucu, kollayıcı" anlamında devleti anlatan bir söz'

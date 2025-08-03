@@ -2,6 +2,7 @@
 layout: term
 title: mükemmel
 slug: mukemmel
+letter: M
 lisan: Arapça mukemmel
 anlamlar:
 - ► kusursuz

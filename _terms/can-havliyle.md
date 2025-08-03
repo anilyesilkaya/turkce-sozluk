@@ -2,6 +2,7 @@
 layout: term
 title: can havliyle
 slug: can-havliyle
+letter: C
 lisan: Türkçe
 anlamlar:
 - Ölüm korkusundan doğan güçlü bir tepki ile

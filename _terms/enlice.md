@@ -2,6 +2,7 @@
 layout: term
 title: enlice
 slug: enlice
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eni biraz geniş

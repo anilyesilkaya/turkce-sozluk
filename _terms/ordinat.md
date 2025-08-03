@@ -2,6 +2,7 @@
 layout: term
 title: ordinat
 slug: ordinat
+letter: O
 lisan: İngilizce ordinate
 anlamlar:
 - Bir noktanın uzaydaki yerini belirten sıralının ikinci bileşeni

@@ -2,6 +2,7 @@
 layout: term
 title: yâren
 slug: yaren
+letter: Y
 lisan: Farsça yārān
 anlamlar:
 - ► arkadaş

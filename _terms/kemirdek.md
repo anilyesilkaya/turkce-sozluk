@@ -2,6 +2,7 @@
 layout: term
 title: kemirdek
 slug: kemirdek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kuyruğun iskeleti

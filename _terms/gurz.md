@@ -2,6 +2,7 @@
 layout: term
 title: gürz
 slug: gurz
+letter: G
 lisan: Farsça gurz
 anlamlar:
 - Silah olarak kullanılan ağır topuz

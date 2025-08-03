@@ -2,6 +2,7 @@
 layout: term
 title: yelkovan
 slug: yelkovan
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Saatin, dakikaları gösteren ve akrepten daha uzun olan ibresi

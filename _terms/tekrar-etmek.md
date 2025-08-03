@@ -2,6 +2,7 @@
 layout: term
 title: tekrar etmek
 slug: tekrar-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - yeni baştan söylemek veya yapmak

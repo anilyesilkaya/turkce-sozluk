@@ -2,6 +2,7 @@
 layout: term
 title: sakinlik
 slug: sakinlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sakin olma durumu; durgunluk, sessizlik, dinginlik, sükûnet

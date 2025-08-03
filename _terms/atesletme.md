@@ -2,6 +2,7 @@
 layout: term
 title: ateşletme
 slug: atesletme
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ateşletmek işi

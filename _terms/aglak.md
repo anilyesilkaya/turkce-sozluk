@@ -2,6 +2,7 @@
 layout: term
 title: ağlak
 slug: aglak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Sık sık ağlayan, ağlamayı huy edinmiş olan

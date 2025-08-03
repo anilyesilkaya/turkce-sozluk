@@ -2,6 +2,7 @@
 layout: term
 title: ataklık
 slug: ataklik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Atak olanın durumu veya atak bir biçimde yapılan iş, davranış

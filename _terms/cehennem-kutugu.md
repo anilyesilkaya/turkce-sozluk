@@ -2,6 +2,7 @@
 layout: term
 title: cehennem kütüğü
 slug: cehennem-kutugu
+letter: C
 lisan: Türkçe
 anlamlar:
 - Yaptığı kötülükler sebebiyle cehennemde yanmaya yaraşır kimse

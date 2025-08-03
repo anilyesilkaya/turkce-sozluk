@@ -2,6 +2,7 @@
 layout: term
 title: düğünsüz
 slug: dugunsuz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düğün olmadan, düğün yapmadan

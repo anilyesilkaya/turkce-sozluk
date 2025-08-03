@@ -2,6 +2,7 @@
 layout: term
 title: cinayet işlemek
 slug: cinayet-islemek
+letter: C
 lisan: Türkçe
 anlamlar:
 - adam öldürmek

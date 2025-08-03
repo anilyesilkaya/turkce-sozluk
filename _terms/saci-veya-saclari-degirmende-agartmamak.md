@@ -2,6 +2,7 @@
 layout: term
 title: saçı (veya saçları) değirmende ağartmamak
 slug: saci-veya-saclari-degirmende-agartmamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - deneyimli olmak

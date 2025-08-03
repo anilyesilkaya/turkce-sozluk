@@ -2,6 +2,7 @@
 layout: term
 title: tedariksiz
 slug: tedariksiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► hazırlıksız

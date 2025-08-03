@@ -2,6 +2,7 @@
 layout: term
 title: ikilem
 slug: ikilem
+letter: I
 lisan: Türkçe
 anlamlar:
 - İki önermesi bulunan ve her iki önermenin vargısı olan tasım; kıyasımukassem, dilemma

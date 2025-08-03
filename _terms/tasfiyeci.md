@@ -2,6 +2,7 @@
 layout: term
 title: tasfiyeci
 slug: tasfiyeci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Herhangi bir toplumsal olgudan yabancı ögelerin ayıklanması taraftarı olan kimse

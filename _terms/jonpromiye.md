@@ -2,6 +2,7 @@
 layout: term
 title: jönprömiye
 slug: jonpromiye
+letter: J
 lisan: Fransızca jeune premier
 anlamlar:
 - ► jön

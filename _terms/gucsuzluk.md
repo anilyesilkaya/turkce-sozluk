@@ -2,6 +2,7 @@
 layout: term
 title: güçsüzlük
 slug: gucsuzluk
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güçsüz olma durumu, güçsüze yakışacak davranış; aciz, âcizlik

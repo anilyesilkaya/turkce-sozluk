@@ -2,6 +2,7 @@
 layout: term
 title: şevke gelmek
 slug: sevke-gelmek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - şevklenmek

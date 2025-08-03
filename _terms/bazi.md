@@ -2,6 +2,7 @@
 layout: term
 title: bazı
 slug: bazi
+letter: B
 lisan: Arapça baʿż
 anlamlar:
 - (nesne için) Bir kısım, bir miktar

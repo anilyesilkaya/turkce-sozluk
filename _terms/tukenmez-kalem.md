@@ -2,6 +2,7 @@
 layout: term
 title: tükenmez kalem
 slug: tukenmez-kalem
+letter: T
 lisan: Türkçe
 anlamlar:
 - Ucunda küçük bir bilyesi bulunan ve içi özel bir mürekkeple dolu ince bir borucuktan oluşan kalem türü; tükenmez

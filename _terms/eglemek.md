@@ -2,6 +2,7 @@
 layout: term
 title: eğlemek
 slug: eglemek
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► durdurmak

@@ -2,6 +2,7 @@
 layout: term
 title: müleyyin
 slug: muleyyin
+letter: M
 lisan: Arapça muleyyin
 anlamlar:
 - Yumuşaklık veren

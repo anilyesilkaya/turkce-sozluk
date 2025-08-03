@@ -2,6 +2,7 @@
 layout: term
 title: yabani incir
 slug: yabani-incir
+letter: Y
 lisan: Türkçe
 anlamlar:
 - İncir ağacının yabani türü

@@ -2,6 +2,7 @@
 layout: term
 title: kavgacı
 slug: kavgaci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kavga etmeyi seven, kavga çıkaran kimse; dalaşkan

@@ -2,6 +2,7 @@
 layout: term
 title: cerrahi müdahale
 slug: cerrahi-mudahale
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► ameliyat

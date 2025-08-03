@@ -2,6 +2,7 @@
 layout: term
 title: denizlik
 slug: denizlik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Kayıklarda bordayı aşan dalgaların içeriye girmesine engel olan eğik tahta

@@ -2,6 +2,7 @@
 layout: term
 title: ufunetlenmek
 slug: ufunetlenmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - Yara irinlenmek

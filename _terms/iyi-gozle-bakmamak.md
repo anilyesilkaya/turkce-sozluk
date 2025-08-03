@@ -2,6 +2,7 @@
 layout: term
 title: iyi gözle bakmamak
 slug: iyi-gozle-bakmamak
+letter: I
 lisan: Türkçe
 anlamlar:
 - hakkında iyi düşünmemek

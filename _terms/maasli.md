@@ -2,6 +2,7 @@
 layout: term
 title: maaşlı
 slug: maasli
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► aylıklı

@@ -2,6 +2,7 @@
 layout: term
 title: eşitleşmek
 slug: esitlesmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eşit duruma gelmek

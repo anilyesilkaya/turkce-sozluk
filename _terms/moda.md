@@ -2,6 +2,7 @@
 layout: term
 title: moda
 slug: moda
+letter: M
 lisan: İtalyanca moda
 anlamlar:
 - Değişiklik gereksinimi veya süslenme özentisiyle toplum yaşamına giren geçici yenilik; nevzuhur

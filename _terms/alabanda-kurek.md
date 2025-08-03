@@ -2,6 +2,7 @@
 layout: term
 title: alabanda kürek
 slug: alabanda-kurek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kürek topacının karşı alabandaya konulması için kürekçilere verilen komut

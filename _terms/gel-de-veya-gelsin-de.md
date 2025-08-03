@@ -2,6 +2,7 @@
 layout: term
 title: gel de (veya gelsin de)
 slug: gel-de-veya-gelsin-de
+letter: G
 lisan: Türkçe
 anlamlar:
 - '"elinde ise" anlamında kullanılan bir söz'

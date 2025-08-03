@@ -2,6 +2,7 @@
 layout: term
 title: süper
 slug: super
+letter: S
 lisan: Fransızca super
 anlamlar:
 - Nitelik, nicelik ve derece bakımından üstün olan

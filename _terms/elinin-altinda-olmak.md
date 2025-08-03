@@ -2,6 +2,7 @@
 layout: term
 title: elinin altında (olmak)
 slug: elinin-altinda-olmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - her zaman kolayca alınıp yararlanılabilecek yerde ve yakınlıkta (olmak)

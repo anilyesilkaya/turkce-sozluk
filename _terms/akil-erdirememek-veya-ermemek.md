@@ -2,6 +2,7 @@
 layout: term
 title: akıl erdirememek (veya ermemek)
 slug: akil-erdirememek-veya-ermemek
+letter: A
 lisan: Türkçe
 anlamlar:
 - ne olduğunu anlayamamak, sırrını çözememek

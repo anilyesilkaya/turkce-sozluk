@@ -2,6 +2,7 @@
 layout: term
 title: bütünleniş
 slug: butunlenis
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bütünlenmek işi; tümleniş

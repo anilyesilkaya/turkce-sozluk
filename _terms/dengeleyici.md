@@ -2,6 +2,7 @@
 layout: term
 title: dengeleyici
 slug: dengeleyici
+letter: D
 lisan: Türkçe
 anlamlar:
 - Denge sağlayan, dengeleme özelliği olan kimse veya şey

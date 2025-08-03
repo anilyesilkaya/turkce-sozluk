@@ -2,6 +2,7 @@
 layout: term
 title: gerçekte
 slug: gercekte
+letter: G
 lisan: Türkçe
 anlamlar:
 - Aslında, tam anlamıyla, hakikatte

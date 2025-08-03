@@ -2,6 +2,7 @@
 layout: term
 title: resepsiyon
 slug: resepsiyon
+letter: R
 lisan: Fransızca réception
 anlamlar:
 - Kabul, kabul etme

@@ -2,6 +2,7 @@
 layout: term
 title: papaz uçurmak
 slug: papaz-ucurmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - içkili eğlence düzenlemek

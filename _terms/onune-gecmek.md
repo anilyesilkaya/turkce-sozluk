@@ -2,6 +2,7 @@
 layout: term
 title: önüne geçmek
 slug: onune-gecmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - yolunu kesmek

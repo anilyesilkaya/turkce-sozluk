@@ -2,6 +2,7 @@
 layout: term
 title: hasislik
 slug: hasislik
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► cimrilik

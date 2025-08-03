@@ -2,6 +2,7 @@
 layout: term
 title: avunma
 slug: avunma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Avunmak işi; teselli

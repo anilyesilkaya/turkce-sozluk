@@ -2,6 +2,7 @@
 layout: term
 title: erken kalkan yol alır, er evlenen döl alır
 slug: erken-kalkan-yol-alir-er-evlenen-dol-alir
+letter: E
 lisan: Türkçe
 anlamlar:
 - '"yapacakları işlere erken başlayanlar kazançlı çıkarlar" anlamında kullanılan bir söz'

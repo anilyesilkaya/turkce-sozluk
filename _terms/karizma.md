@@ -2,6 +2,7 @@
 layout: term
 title: karizma
 slug: karizma
+letter: K
 lisan: Fransızca charisme
 anlamlar:
 - ► etkileyicilik

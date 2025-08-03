@@ -2,6 +2,7 @@
 layout: term
 title: buruşukluk
 slug: burusukluk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Buruşuk olma durumu

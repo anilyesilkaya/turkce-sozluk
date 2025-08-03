@@ -2,6 +2,7 @@
 layout: term
 title: ikaz
 slug: ikaz
+letter: I
 lisan: Arapça īḳāẓ
 anlamlar:
 - ► uyarı

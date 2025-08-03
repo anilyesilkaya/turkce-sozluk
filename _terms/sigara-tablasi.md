@@ -2,6 +2,7 @@
 layout: term
 title: sigara tablası
 slug: sigara-tablasi
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► küllük

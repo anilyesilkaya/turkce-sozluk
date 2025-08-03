@@ -2,6 +2,7 @@
 layout: term
 title: bizzat
 slug: bizzat
+letter: B
 lisan: Arapça bi'ẕ-ẕāt
 anlamlar:
 - ► şahsen

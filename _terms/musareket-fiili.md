@@ -2,6 +2,7 @@
 layout: term
 title: müşareket fiili
 slug: musareket-fiili
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► işteş fiil

@@ -2,6 +2,7 @@
 layout: term
 title: akıllılık
 slug: akillilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Akıllı olma durumu

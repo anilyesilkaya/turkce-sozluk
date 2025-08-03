@@ -2,6 +2,7 @@
 layout: term
 title: erketecilik
 slug: erketecilik
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► gözetleyicilik

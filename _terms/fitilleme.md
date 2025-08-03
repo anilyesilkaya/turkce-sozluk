@@ -2,6 +2,7 @@
 layout: term
 title: fitilleme
 slug: fitilleme
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fitillemek işi

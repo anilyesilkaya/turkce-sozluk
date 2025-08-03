@@ -2,6 +2,7 @@
 layout: term
 title: sonuç
 slug: sonuc
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir olayın doğurduğu başka bir olay veya durum; netice

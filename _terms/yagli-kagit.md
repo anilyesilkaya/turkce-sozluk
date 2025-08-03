@@ -2,6 +2,7 @@
 layout: term
 title: yağlı kâğıt
 slug: yagli-kagit
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► pişirme kâğıdı

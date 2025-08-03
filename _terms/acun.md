@@ -2,6 +2,7 @@
 layout: term
 title: acun
 slug: acun
+letter: A
 lisan: Soğdca
 anlamlar:
 - ► dünya

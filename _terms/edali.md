@@ -2,6 +2,7 @@
 layout: term
 title: edalı
 slug: edali
+letter: E
 lisan: Türkçe
 anlamlar:
 - Herhangi bir biçim ve görünüşlü olan

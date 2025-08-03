@@ -2,6 +2,7 @@
 layout: term
 title: karbüratör
 slug: karburator
+letter: K
 lisan: Fransızca carburateur
 anlamlar:
 - Patlamalı motorlarda akaryakıtı buharlaştırıp hava ile karışmasını sağlayan cihaz

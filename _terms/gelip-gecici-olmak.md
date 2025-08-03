@@ -2,6 +2,7 @@
 layout: term
 title: gelip geçici olmak
 slug: gelip-gecici-olmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - kısa süreli, önemsiz olmak

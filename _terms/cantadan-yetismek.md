@@ -2,6 +2,7 @@
 layout: term
 title: çantadan yetişmek
 slug: cantadan-yetismek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - bir mesleği eğitim görmeden deneyimlerle kazanmak

@@ -2,6 +2,7 @@
 layout: term
 title: bela getirmek
 slug: bela-getirmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - kötülüğe, felakete uğratmak

@@ -2,6 +2,7 @@
 layout: term
 title: olanaksızlık
 slug: olanaksizlik
+letter: O
 lisan: Türkçe
 anlamlar:
 - Olanaksız olma durumu

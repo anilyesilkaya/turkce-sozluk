@@ -2,6 +2,7 @@
 layout: term
 title: çok şükür
 slug: cok-sukur
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Tanrı'nın verdiği nimetlerden hoşnutluğu anlatan bir söz

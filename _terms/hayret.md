@@ -2,6 +2,7 @@
 layout: term
 title: hayret
 slug: hayret
+letter: H
 lisan: Arapça ḥayret
 anlamlar:
 - Beklenmedik, garip bir şeyin sebep olduğu şaşkınlık, şaşırma

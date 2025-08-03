@@ -2,6 +2,7 @@
 layout: term
 title: fotoğrafçı
 slug: fotografci
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fotoğraf çeken veya basan kimse

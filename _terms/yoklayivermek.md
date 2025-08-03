@@ -2,6 +2,7 @@
 layout: term
 title: yoklayıvermek
 slug: yoklayivermek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Ansızın veya çabucak yoklamak

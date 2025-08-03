@@ -2,6 +2,7 @@
 layout: term
 title: çekicilik
 slug: cekicilik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çekici olma durumu; alım, albeni, alımlılık, caziplik, cazibe, cazibelilik, cazibedarlık, hava, gelgel

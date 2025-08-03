@@ -2,6 +2,7 @@
 layout: term
 title: solumak
 slug: solumak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Nefes alıp vermek

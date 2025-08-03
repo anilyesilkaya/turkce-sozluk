@@ -2,6 +2,7 @@
 layout: term
 title: referans
 slug: referans
+letter: R
 lisan: Fransızca référence
 anlamlar:
 - ► tavsiye mektubu

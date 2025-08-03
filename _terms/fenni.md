@@ -2,6 +2,7 @@
 layout: term
 title: fennî
 slug: fenni
+letter: F
 lisan: Arapça fennī
 anlamlar:
 - Fenle ilgili

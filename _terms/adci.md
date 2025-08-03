@@ -2,6 +2,7 @@
 layout: term
 title: adcı
 slug: adci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Adcılık öğretisine bağlı (kimse); isimci

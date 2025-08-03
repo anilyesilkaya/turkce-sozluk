@@ -2,6 +2,7 @@
 layout: term
 title: bağdaştırmacı
 slug: bagdastirmaci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağdaştırmacılık yanlısı olan

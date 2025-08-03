@@ -2,6 +2,7 @@
 layout: term
 title: dökülüvermek
 slug: dokuluvermek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çabucak veya kısa sürede dökülmek

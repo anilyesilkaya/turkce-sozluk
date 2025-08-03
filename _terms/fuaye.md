@@ -2,6 +2,7 @@
 layout: term
 title: fuaye
 slug: fuaye
+letter: F
 lisan: Fransızca foyer
 anlamlar:
 - ► dinlenmelik

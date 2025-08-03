@@ -2,6 +2,7 @@
 layout: term
 title: lostracı
 slug: lostraci
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lostra salonunda çalışan ayakkabı boyacısı

@@ -2,6 +2,7 @@
 layout: term
 title: şirazesiz
 slug: sirazesiz
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şirazesi olmayan

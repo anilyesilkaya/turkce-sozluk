@@ -2,6 +2,7 @@
 layout: term
 title: mutaf
 slug: mutaf
+letter: M
 lisan: Farsça mūytāb
 anlamlar:
 - Keçi kılından hayvan çulu, yem torbası vb. dokuyan kimse

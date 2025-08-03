@@ -2,6 +2,7 @@
 layout: term
 title: demlenmek
 slug: demlenmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Demleme işi yapılmak

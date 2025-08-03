@@ -2,6 +2,7 @@
 layout: term
 title: meyusiyet
 slug: meyusiyet
+letter: M
 lisan: Arapça meʾyūsiyyet
 anlamlar:
 - ► üzüntü

@@ -2,6 +2,7 @@
 layout: term
 title: bir vakitler
 slug: bir-vakitler
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bir zamanlar

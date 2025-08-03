@@ -2,6 +2,7 @@
 layout: term
 title: sarı yağız
 slug: sari-yagiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sarı benizli (erkek)

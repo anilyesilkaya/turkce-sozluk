@@ -2,6 +2,7 @@
 layout: term
 title: işaretleyebilme
 slug: isaretleyebilme
+letter: I
 lisan: Türkçe
 anlamlar:
 - İşaretleyebilmek işi

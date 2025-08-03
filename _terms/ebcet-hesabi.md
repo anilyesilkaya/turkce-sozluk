@@ -2,6 +2,7 @@
 layout: term
 title: ebcet hesabı
 slug: ebcet-hesabi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ebcet düzeninden yararlanarak bir kelimeyi rakama çevirme

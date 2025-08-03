@@ -2,6 +2,7 @@
 layout: term
 title: öğüt vermek
 slug: ogut-vermek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - bir kimseye yapması veya yapmaması gereken şeyler için yol göstermek, nasihat etmek

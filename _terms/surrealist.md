@@ -2,6 +2,7 @@
 layout: term
 title: sürrealist
 slug: surrealist
+letter: S
 lisan: Fransızca surréaliste
 anlamlar:
 - ► gerçeküstücü

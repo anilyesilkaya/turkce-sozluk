@@ -2,6 +2,7 @@
 layout: term
 title: acemilik etmek
 slug: acemilik-etmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - deneyimli olmasına karşın acemice davranmak

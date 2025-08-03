@@ -2,6 +2,7 @@
 layout: term
 title: müteallik
 slug: muteallik
+letter: M
 lisan: Arapça muteʿalliḳ
 anlamlar:
 - ► ilişkin

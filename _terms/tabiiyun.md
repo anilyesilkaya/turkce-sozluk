@@ -2,6 +2,7 @@
 layout: term
 title: tabiiyun
 slug: tabiiyun
+letter: T
 lisan: Arapça ṭabiʽiyyūn
 anlamlar:
 - Tabiat bilimiyle uğraşan bilginler

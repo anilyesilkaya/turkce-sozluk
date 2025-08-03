@@ -2,6 +2,7 @@
 layout: term
 title: fasla fasla
 slug: fasla-fasla
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► yer yer

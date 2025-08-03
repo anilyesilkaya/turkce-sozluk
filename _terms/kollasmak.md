@@ -2,6 +2,7 @@
 layout: term
 title: kollaşmak
 slug: kollasmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - İki kişi bir yükü kaldırabilmek için birbirlerinin kollarını tutmak

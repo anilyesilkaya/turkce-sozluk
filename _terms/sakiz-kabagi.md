@@ -2,6 +2,7 @@
 layout: term
 title: sakız kabağı
 slug: sakiz-kabagi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sebze olarak kullanılan kabak (Cucurbita pepo)

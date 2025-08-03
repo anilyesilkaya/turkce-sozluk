@@ -2,6 +2,7 @@
 layout: term
 title: ön yargılı
 slug: on-yargili
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ön yargıları olan, ön yargı ile karar veren

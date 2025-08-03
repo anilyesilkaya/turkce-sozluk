@@ -2,6 +2,7 @@
 layout: term
 title: ayaklı gazete
 slug: ayakli-gazete
+letter: A
 lisan: Türkçe
 anlamlar:
 - Olaylardan herkesten önce haberi olup yayan kimse

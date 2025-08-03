@@ -2,6 +2,7 @@
 layout: term
 title: performans
 slug: performans
+letter: P
 lisan: Fransızca performance
 anlamlar:
 - Herhangi bir eseri, oyunu, işi vb.ni gerçekleştirme

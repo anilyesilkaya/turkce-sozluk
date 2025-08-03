@@ -2,6 +2,7 @@
 layout: term
 title: dinelmek
 slug: dinelmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Ayakta durmak

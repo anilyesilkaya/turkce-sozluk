@@ -2,6 +2,7 @@
 layout: term
 title: kırlent
 slug: kirlent
+letter: K
 lisan: Fransızca guirlande
 anlamlar:
 - Çiçek veya yaprak işlemeli süs

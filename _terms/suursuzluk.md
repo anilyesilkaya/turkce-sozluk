@@ -2,6 +2,7 @@
 layout: term
 title: şuursuzluk
 slug: suursuzluk
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► bilinçsizlik

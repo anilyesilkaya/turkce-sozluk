@@ -2,6 +2,7 @@
 layout: term
 title: kandilci
 slug: kandilci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kandil yapan veya satan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: nispet
 slug: nispet
+letter: N
 lisan: Arapça nisbet
 anlamlar:
 - ► oran

@@ -2,6 +2,7 @@
 layout: term
 title: mırmırık
 slug: mirmirik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mırıldanan

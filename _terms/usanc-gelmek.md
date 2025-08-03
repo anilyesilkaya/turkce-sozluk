@@ -2,6 +2,7 @@
 layout: term
 title: usanç gelmek
 slug: usanc-gelmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - usanmak

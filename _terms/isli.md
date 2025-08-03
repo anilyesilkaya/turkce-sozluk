@@ -2,6 +2,7 @@
 layout: term
 title: işli
 slug: isli
+letter: I
 lisan: Türkçe
 anlamlar:
 - Üzeri nakışlı

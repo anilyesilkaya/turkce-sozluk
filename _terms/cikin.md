@@ -2,6 +2,7 @@
 layout: term
 title: çıkın
 slug: cikin
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir beze sarılarak düğümlenmiş küçük bohça; çıkı

@@ -2,6 +2,7 @@
 layout: term
 title: tevazulu
 slug: tevazulu
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► alçak gönüllü

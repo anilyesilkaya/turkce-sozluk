@@ -2,6 +2,7 @@
 layout: term
 title: konuşmak
 slug: konusmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir dilin kelimeleriyle düşüncesini sözlü olarak anlatmak

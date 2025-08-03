@@ -2,6 +2,7 @@
 layout: term
 title: zarflamak
 slug: zarflamak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zarf içine koymak

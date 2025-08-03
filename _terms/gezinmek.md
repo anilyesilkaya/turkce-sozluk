@@ -2,6 +2,7 @@
 layout: term
 title: gezinmek
 slug: gezinmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Eğlenmek, vakit geçirmek için gezmek; dolaşmak

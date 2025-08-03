@@ -2,6 +2,7 @@
 layout: term
 title: boy otu
 slug: boy-otu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Baklagillerden, 20-40 cm yüksekliğinde, yaprakları saplı ve üç yaprakçıklı, çiçekleri mavi, sarı veya beyaz renkli, bir bitki; çemen otu, poy (Trigonella foenum-graecum)

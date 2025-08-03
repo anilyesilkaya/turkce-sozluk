@@ -2,6 +2,7 @@
 layout: term
 title: ökse
 slug: okse
+letter: Ö
 lisan: Rumca
 anlamlar:
 - Ökse otu saplarından veya çobanpüskülü kabuklarından çıkarılan yapışkan macun

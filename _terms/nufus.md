@@ -2,6 +2,7 @@
 layout: term
 title: nüfus
 slug: nufus
+letter: N
 lisan: Arapça nufūs
 anlamlar:
 - ► kişi

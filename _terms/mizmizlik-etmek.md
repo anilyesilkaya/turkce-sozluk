@@ -2,6 +2,7 @@
 layout: term
 title: mızmızlık etmek
 slug: mizmizlik-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - mızmızlanmak

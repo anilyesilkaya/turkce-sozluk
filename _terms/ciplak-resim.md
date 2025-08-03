@@ -2,6 +2,7 @@
 layout: term
 title: çıplak resim
 slug: ciplak-resim
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Resim sanatında çıplak insanı konu alan bir resim türü; nü

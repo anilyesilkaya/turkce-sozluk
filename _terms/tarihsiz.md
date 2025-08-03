@@ -2,6 +2,7 @@
 layout: term
 title: tarihsiz
 slug: tarihsiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tarihi yazılmamış, yazıldığı gün, ay veya yıl belirtilmemiş

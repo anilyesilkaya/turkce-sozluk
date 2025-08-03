@@ -2,6 +2,7 @@
 layout: term
 title: çarşaflı
 slug: carsafli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Üzerinde çarşaf olan

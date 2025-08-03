@@ -2,6 +2,7 @@
 layout: term
 title: soyutlama
 slug: soyutlama
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir nesnenin özelliklerinden veya özellikleri arasındaki ilişkilerden herhangi birini tek başına ele alan zihinsel işlem, gerçeklikte ayrılamaz olanı düşüncede ayırma; tecrit, abstraksiyon

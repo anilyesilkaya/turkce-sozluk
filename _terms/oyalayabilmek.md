@@ -2,6 +2,7 @@
 layout: term
 title: oyalayabilmek
 slug: oyalayabilmek
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oyalama ihtimali veya imkânı bulunmak

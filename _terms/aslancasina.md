@@ -2,6 +2,7 @@
 layout: term
 title: aslancasına
 slug: aslancasina
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► aslanca

@@ -2,6 +2,7 @@
 layout: term
 title: bekleyiş
 slug: bekleyis
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beklemek işi

@@ -2,6 +2,7 @@
 layout: term
 title: dalaştırmak
 slug: dalastirmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dalaşmasına yol açmak

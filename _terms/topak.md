@@ -2,6 +2,7 @@
 layout: term
 title: topak
 slug: topak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Yuvarlak biçimde olan nesne; toparlak

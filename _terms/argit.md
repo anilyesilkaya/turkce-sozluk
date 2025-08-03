@@ -2,6 +2,7 @@
 layout: term
 title: argıt
 slug: argit
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► geçit

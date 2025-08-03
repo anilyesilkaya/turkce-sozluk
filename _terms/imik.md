@@ -2,6 +2,7 @@
 layout: term
 title: imik
 slug: imik
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► gırtlak

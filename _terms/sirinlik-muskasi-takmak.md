@@ -2,6 +2,7 @@
 layout: term
 title: şirinlik muskası takmak
 slug: sirinlik-muskasi-takmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - üstünde şirinlik muskası taşımak

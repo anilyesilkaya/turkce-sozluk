@@ -2,6 +2,7 @@
 layout: term
 title: kanunlaşma
 slug: kanunlasma
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► yasalaşma

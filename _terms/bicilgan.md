@@ -2,6 +2,7 @@
 layout: term
 title: bıçılgan
 slug: bicilgan
+letter: B
 lisan: Türkçe
 anlamlar:
 - Azmış, yayılmış yara

@@ -2,6 +2,7 @@
 layout: term
 title: takatsiz
 slug: takatsiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Takati kalmamış; dermansız, hâlsiz, mecalsiz

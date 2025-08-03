@@ -2,6 +2,7 @@
 layout: term
 title: hediye etmek
 slug: hediye-etmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - armağan etmek

@@ -2,6 +2,7 @@
 layout: term
 title: menopoza girmek
 slug: menopoza-girmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - âdetten kesilmek, doğurma özelliğini yitirmek, hayızdan nifastan kesilmek

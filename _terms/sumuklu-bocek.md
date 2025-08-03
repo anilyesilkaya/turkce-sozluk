@@ -2,6 +2,7 @@
 layout: term
 title: sümüklü böcek
 slug: sumuklu-bocek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Karından bacaklılardan, akciğerli, otçul ve kabuksuz yer yumuşakçası (Limax)

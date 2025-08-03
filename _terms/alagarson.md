@@ -2,6 +2,7 @@
 layout: term
 title: alagarson
 slug: alagarson
+letter: A
 lisan: Fransızca à la garçon
 anlamlar:
 - Kısa kesilmiş saç

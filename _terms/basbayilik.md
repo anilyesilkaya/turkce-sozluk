@@ -2,6 +2,7 @@
 layout: term
 title: başbayilik
 slug: basbayilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başbayi olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: denk düşmek
 slug: denk-dusmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - uygun vakit ve fırsat olmak

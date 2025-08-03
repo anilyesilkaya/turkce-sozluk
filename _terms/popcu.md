@@ -2,6 +2,7 @@
 layout: term
 title: popçu
 slug: popcu
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pop müzikle uğraşan kimse

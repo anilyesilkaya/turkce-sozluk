@@ -2,6 +2,7 @@
 layout: term
 title: hatip
 slug: hatip
+letter: H
 lisan: Arapça ḫaṭīb
 anlamlar:
 - ► konuşmacı

@@ -2,6 +2,7 @@
 layout: term
 title: zihin açıklığı
 slug: zihin-acikligi
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Doğru düşünme gücü; zihin berraklığı

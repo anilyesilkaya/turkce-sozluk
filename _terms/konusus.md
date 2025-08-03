@@ -2,6 +2,7 @@
 layout: term
 title: konuşuş
 slug: konusus
+letter: K
 lisan: Türkçe
 anlamlar:
 - Konuşmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: nektar
 slug: nektar
+letter: N
 lisan: Fransızca nectar
 anlamlar:
 - Meyvenin özü

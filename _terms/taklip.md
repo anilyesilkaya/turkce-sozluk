@@ -2,6 +2,7 @@
 layout: term
 title: taklip
 slug: taklip
+letter: T
 lisan: Arapça taḳlīb
 anlamlar:
 - ► döndürme

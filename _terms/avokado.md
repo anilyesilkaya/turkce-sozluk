@@ -2,6 +2,7 @@
 layout: term
 title: avokado
 slug: avokado
+letter: A
 lisan: İngilizce avocado
 anlamlar:
 - Defnegillerden, tropik iklime sahip bölgeler yanında, subtropikal iklime veya Akdeniz iklimine sahip çeşitli bölgelerde yetiştirilen, sıralı yapraklı, çiçekleri yeşilimsi sarı renkte olan bir ağaç; Amerikan armudu (Persea americana)

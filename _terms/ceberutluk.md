@@ -2,6 +2,7 @@
 layout: term
 title: ceberutluk
 slug: ceberutluk
+letter: C
 lisan: Türkçe
 anlamlar:
 - Ceberut olma durumu

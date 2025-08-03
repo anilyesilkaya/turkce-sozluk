@@ -2,6 +2,7 @@
 layout: term
 title: karsız
 slug: karsiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karı olmayan

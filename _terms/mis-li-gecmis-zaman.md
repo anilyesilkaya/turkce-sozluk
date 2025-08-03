@@ -2,6 +2,7 @@
 layout: term
 title: -miş'li geçmiş zaman
 slug: mis-li-gecmis-zaman
+letter: '-'
 lisan: Türkçe
 anlamlar:
 - ► duyulan geçmiş zaman

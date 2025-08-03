@@ -2,6 +2,7 @@
 layout: term
 title: bütünleştirebilme
 slug: butunlestirebilme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bütünleştirebilmek işi

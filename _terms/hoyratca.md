@@ -2,6 +2,7 @@
 layout: term
 title: hoyratça
 slug: hoyratca
+letter: H
 lisan: Türkçe
 anlamlar:
 - Kaba, kırıcı ve hırpalayıcı olan

@@ -2,6 +2,7 @@
 layout: term
 title: çimdik çimdik doğramak (veya yolmak veya koparmak)
 slug: cimdik-cimdik-dogramak-veya-yolmak-veya-koparmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - eziyet etmek

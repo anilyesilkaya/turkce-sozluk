@@ -2,6 +2,7 @@
 layout: term
 title: gözemek
 slug: gozemek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Kumaştaki deliği örerek kapatmak

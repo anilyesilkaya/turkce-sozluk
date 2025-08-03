@@ -2,6 +2,7 @@
 layout: term
 title: bayram havası esmek
 slug: bayram-havasi-esmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - ortam neşeli, sevinçli bir duruma gelmek

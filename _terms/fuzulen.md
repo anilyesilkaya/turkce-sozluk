@@ -2,6 +2,7 @@
 layout: term
 title: fuzulen
 slug: fuzulen
+letter: F
 lisan: Arapça fużūlen
 anlamlar:
 - Yersiz, haksız olarak

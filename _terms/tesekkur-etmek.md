@@ -2,6 +2,7 @@
 layout: term
 title: teşekkür etmek
 slug: tesekkur-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - hoşnutluğunu anlatmak

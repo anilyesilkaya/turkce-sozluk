@@ -2,6 +2,7 @@
 layout: term
 title: usullacık
 slug: usullacik
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► usulcacık

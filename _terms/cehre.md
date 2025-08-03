@@ -2,6 +2,7 @@
 layout: term
 title: çehre
 slug: cehre
+letter: Ç
 lisan: Farsça çihre, çehre
 anlamlar:
 - ► yüz (II)

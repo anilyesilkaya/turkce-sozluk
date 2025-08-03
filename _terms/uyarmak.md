@@ -2,6 +2,7 @@
 layout: term
 title: uyarmak
 slug: uyarmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Bir kimseye bir davranışta bulunmasını veya bulunmamasını söylemek; ikaz etmek

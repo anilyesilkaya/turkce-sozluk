@@ -2,6 +2,7 @@
 layout: term
 title: sıkışmak
 slug: sikismak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kalabalıktan dolayı birbirine çok yaklaşmak

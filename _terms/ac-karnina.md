@@ -2,6 +2,7 @@
 layout: term
 title: aç karnına
 slug: ac-karnina
+letter: A
 lisan: Türkçe
 anlamlar:
 - Mide boşken, henüz bir şey yiyip içmemişken

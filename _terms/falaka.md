@@ -2,6 +2,7 @@
 layout: term
 title: falaka
 slug: falaka
+letter: F
 lisan: Arapça falaḳa
 anlamlar:
 - Sopa vurmak için ayak tabanlarını uygun bir biçimde sıkıştırıp tutmak üzeren iki ucuna bağlı bir ipi olan cezalandırma aracı

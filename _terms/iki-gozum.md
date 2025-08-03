@@ -2,6 +2,7 @@
 layout: term
 title: iki gözüm
 slug: iki-gozum
+letter: I
 lisan: Türkçe
 anlamlar:
 - Okşayıcı bir seslenme sözü

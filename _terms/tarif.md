@@ -2,6 +2,7 @@
 layout: term
 title: tarif
 slug: tarif
+letter: T
 lisan: Arapça taʿrīf
 anlamlar:
 - ► tanım

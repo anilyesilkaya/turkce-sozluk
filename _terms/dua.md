@@ -2,6 +2,7 @@
 layout: term
 title: dua
 slug: dua
+letter: D
 lisan: Arapça duʿāʾ
 anlamlar:
 - Allah'a yalvarma, bir şeyin olmasını veya olmamasını isteme; alkış

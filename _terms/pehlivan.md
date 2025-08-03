@@ -2,6 +2,7 @@
 layout: term
 title: pehlivan
 slug: pehlivan
+letter: P
 lisan: Farsça pehlevān
 anlamlar:
 - ► güreşçi

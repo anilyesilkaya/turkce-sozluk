@@ -2,6 +2,7 @@
 layout: term
 title: incelenme
 slug: incelenme
+letter: I
 lisan: Türkçe
 anlamlar:
 - İncelenmek işi

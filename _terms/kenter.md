@@ -2,6 +2,7 @@
 layout: term
 title: kenter
 slug: kenter
+letter: K
 lisan: İngilizce canter
 anlamlar:
 - Atın hızlı ve düzenli gidişi

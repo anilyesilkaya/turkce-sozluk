@@ -2,6 +2,7 @@
 layout: term
 title: örs
 slug: ors
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Biçimleri yapılacak işe göre değişen, üzerinde maden dövülen, çelik yüzeyli, demir araç

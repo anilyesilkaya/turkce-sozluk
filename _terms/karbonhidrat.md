@@ -2,6 +2,7 @@
 layout: term
 title: karbonhidrat
 slug: karbonhidrat
+letter: K
 lisan: Fransızca hydrate de carbon
 anlamlar:
 - Karbon, hidrojen ve oksijen atomlarından oluşan organik bileşiklerin genel adı; karbohidrat

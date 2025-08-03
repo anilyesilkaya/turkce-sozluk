@@ -2,6 +2,7 @@
 layout: term
 title: 'kırık beyaz '
 slug: kirik-beyaz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Beyazın hafif beje çalan tonu

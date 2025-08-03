@@ -2,6 +2,7 @@
 layout: term
 title: işin alayında olmak
 slug: isin-alayinda-olmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - bir işe gereken önemi vermemek

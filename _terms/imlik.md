@@ -2,6 +2,7 @@
 layout: term
 title: imlik
 slug: imlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - Kitap sayfaları arasına konulan ve okunan yeri belirlemekte kullanılan ince, uzun karton parçası

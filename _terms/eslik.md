@@ -2,6 +2,7 @@
 layout: term
 title: eşlik
 slug: eslik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eş olma durumu

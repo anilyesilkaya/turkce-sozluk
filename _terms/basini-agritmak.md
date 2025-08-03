@@ -2,6 +2,7 @@
 layout: term
 title: başını ağrıtmak
 slug: basini-agritmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - gereksiz sözlerle birini bunaltmak

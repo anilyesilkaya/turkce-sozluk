@@ -2,6 +2,7 @@
 layout: term
 title: biçare
 slug: bicare
+letter: B
 lisan: Farsça bīçāre
 anlamlar:
 - ► çaresiz

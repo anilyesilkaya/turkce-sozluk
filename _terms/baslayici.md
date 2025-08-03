@@ -2,6 +2,7 @@
 layout: term
 title: başlayıcı
 slug: baslayici
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir şey öğrenmeye yeni başlayan (kimse); müptedi

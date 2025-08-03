@@ -2,6 +2,7 @@
 layout: term
 title: bekleşmek
 slug: beklesmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Birlikte veya karşılıklı olarak beklemek

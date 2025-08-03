@@ -2,6 +2,7 @@
 layout: term
 title: cazibeli
 slug: cazibeli
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► çekici

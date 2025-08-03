@@ -2,6 +2,7 @@
 layout: term
 title: eşkıya
 slug: eskiya
+letter: E
 lisan: Arapça eşḳiyā
 anlamlar:
 - Dağda, kırda yol kesen hırsızlar, haydutlar

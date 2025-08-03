@@ -2,6 +2,7 @@
 layout: term
 title: sürgün
 slug: surgun
+letter: S
 lisan: Türkçe
 anlamlar:
 - Ceza olarak belli bir yerin dışında veya belli bir yerde oturtulan kimse; menfa

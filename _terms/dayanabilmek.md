@@ -2,6 +2,7 @@
 layout: term
 title: dayanabilmek
 slug: dayanabilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dayanma ihtimali veya imkânı bulunmak

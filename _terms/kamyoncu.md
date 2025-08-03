@@ -2,6 +2,7 @@
 layout: term
 title: kamyoncu
 slug: kamyoncu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kamyonla taşıyıcılık yapan kimse

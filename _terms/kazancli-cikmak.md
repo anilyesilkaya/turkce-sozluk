@@ -2,6 +2,7 @@
 layout: term
 title: kazançlı çıkmak
 slug: kazancli-cikmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kazanmak

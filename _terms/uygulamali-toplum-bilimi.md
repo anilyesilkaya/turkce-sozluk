@@ -2,6 +2,7 @@
 layout: term
 title: uygulamalı toplum bilimi
 slug: uygulamali-toplum-bilimi
+letter: U
 lisan: Türkçe
 anlamlar:
 - Toplum biliminin uygulamaya yönelik araştırma dalı

@@ -2,6 +2,7 @@
 layout: term
 title: Kürtçe
 slug: kurtce
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kürtlerin kullandığı dil

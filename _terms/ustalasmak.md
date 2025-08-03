@@ -2,6 +2,7 @@
 layout: term
 title: ustalaşmak
 slug: ustalasmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Bir işi yapmakta usta durumuna gelmek

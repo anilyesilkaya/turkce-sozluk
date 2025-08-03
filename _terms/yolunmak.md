@@ -2,6 +2,7 @@
 layout: term
 title: yolunmak
 slug: yolunmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yolma işi yapılmak, çekilip koparılmak

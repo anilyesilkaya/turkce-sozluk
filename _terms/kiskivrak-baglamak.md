@@ -2,6 +2,7 @@
 layout: term
 title: kıskıvrak bağlamak
 slug: kiskivrak-baglamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - çözülemeyecek biçimde, sıkıca bağlamak

@@ -2,6 +2,7 @@
 layout: term
 title: bedhah
 slug: bedhah
+letter: B
 lisan: Farsça bed + ḫāh
 anlamlar:
 - Başkasının kötülüğünü isteyen, kötü yürekli

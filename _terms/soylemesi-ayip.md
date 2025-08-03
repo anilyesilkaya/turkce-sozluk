@@ -2,6 +2,7 @@
 layout: term
 title: söylemesi ayıp
 slug: soylemesi-ayip
+letter: S
 lisan: Türkçe
 anlamlar:
 - utanılacak bir durumun açıklanması sırasında kullanılan bir söz

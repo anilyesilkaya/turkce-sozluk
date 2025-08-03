@@ -2,6 +2,7 @@
 layout: term
 title: cıllığı çıkmak
 slug: cilligi-cikmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - darmadağın olmak, her tarafı sökülmek

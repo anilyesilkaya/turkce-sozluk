@@ -2,6 +2,7 @@
 layout: term
 title: sigaralık
 slug: sigaralik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sigara konulan kap

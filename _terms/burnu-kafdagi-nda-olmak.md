@@ -2,6 +2,7 @@
 layout: term
 title: burnu Kafdağı'nda (olmak)
 slug: burnu-kafdagi-nda-olmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - çok kibirli (olmak)

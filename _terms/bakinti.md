@@ -2,6 +2,7 @@
 layout: term
 title: bakıntı
 slug: bakinti
+letter: B
 lisan: Türkçe
 anlamlar:
 - Temel gereksinimleri karşılama

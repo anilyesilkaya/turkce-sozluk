@@ -2,6 +2,7 @@
 layout: term
 title: art zamanlı
 slug: art-zamanli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Gelişme süreci bakımından ele alınan süre içinde birbirini izleyen; art süremli, diyakronik

@@ -2,6 +2,7 @@
 layout: term
 title: çektirmek
 slug: cektirmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çekme işini yaptırmak

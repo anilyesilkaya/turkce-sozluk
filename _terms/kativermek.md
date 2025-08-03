@@ -2,6 +2,7 @@
 layout: term
 title: katıvermek
 slug: kativermek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çabucak katmak

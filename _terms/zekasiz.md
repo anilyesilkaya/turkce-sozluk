@@ -2,6 +2,7 @@
 layout: term
 title: zekâsız
 slug: zekasiz
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zeki olmayan

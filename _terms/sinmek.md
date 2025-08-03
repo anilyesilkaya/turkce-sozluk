@@ -2,6 +2,7 @@
 layout: term
 title: sinmek
 slug: sinmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kendini göstermemek için büzülerek saklanmak; pısmak, pusmak

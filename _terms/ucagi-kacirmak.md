@@ -2,6 +2,7 @@
 layout: term
 title: uçağı kaçırmak
 slug: ucagi-kacirmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - uçağa yetişememek, uçağa saatinde ulaşamamak

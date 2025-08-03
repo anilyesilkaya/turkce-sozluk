@@ -2,6 +2,7 @@
 layout: term
 title: mücevherat
 slug: mucevherat
+letter: M
 lisan: Arapça mucevherāt
 anlamlar:
 - Mücevherler

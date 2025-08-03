@@ -2,6 +2,7 @@
 layout: term
 title: bizarlık
 slug: bizarlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bizar olma durumu

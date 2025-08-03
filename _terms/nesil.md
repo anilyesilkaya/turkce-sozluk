@@ -2,6 +2,7 @@
 layout: term
 title: nesil
 slug: nesil
+letter: N
 lisan: Arapça nesl
 anlamlar:
 - ► kuşak

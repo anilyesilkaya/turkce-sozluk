@@ -2,6 +2,7 @@
 layout: term
 title: bahadır
 slug: bahadir
+letter: B
 lisan: Farsça bahādur
 anlamlar:
 - Savaşlarda gücü ve yılmazlığıyla üstünlük kazanan veya yiğitlik gösteren kimse; batur

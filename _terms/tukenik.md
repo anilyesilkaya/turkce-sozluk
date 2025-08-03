@@ -2,6 +2,7 @@
 layout: term
 title: tükenik
 slug: tukenik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bitmiş, tükenmiş

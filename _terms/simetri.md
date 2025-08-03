@@ -2,6 +2,7 @@
 layout: term
 title: simetri
 slug: simetri
+letter: S
 lisan: Fransızca symétrie
 anlamlar:
 - ► bakışım

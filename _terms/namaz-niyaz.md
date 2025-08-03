@@ -2,6 +2,7 @@
 layout: term
 title: namaz niyaz
 slug: namaz-niyaz
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► ibadet

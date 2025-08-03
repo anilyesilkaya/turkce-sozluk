@@ -2,6 +2,7 @@
 layout: term
 title: tekâsül
 slug: tekasul
+letter: T
 lisan: Arapça tekāsul
 anlamlar:
 - ► üşengeçlik

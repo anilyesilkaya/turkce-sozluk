@@ -2,6 +2,7 @@
 layout: term
 title: yağ fıçısı
 slug: yag-ficisi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - İçine katı yağ konulan fıçı

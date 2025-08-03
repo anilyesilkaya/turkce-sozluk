@@ -2,6 +2,7 @@
 layout: term
 title: hisli
 slug: hisli
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► duygulu

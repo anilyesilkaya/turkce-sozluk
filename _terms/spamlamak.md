@@ -2,6 +2,7 @@
 layout: term
 title: spamlamak
 slug: spamlamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Elektronik ortamda kullanıcıları rahatsız eden gereksiz ve uygunsuz iletileri ağ yönetimine bildirmek

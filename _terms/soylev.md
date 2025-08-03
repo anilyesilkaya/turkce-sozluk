@@ -2,6 +2,7 @@
 layout: term
 title: söylev
 slug: soylev
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir topluluğa düşünceler, duygular aşılamak amacıyla söylenen, uzunca, coşkulu ve güzel söz; nutuk, hitabe

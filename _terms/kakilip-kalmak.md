@@ -2,6 +2,7 @@
 layout: term
 title: kakılıp kalmak
 slug: kakilip-kalmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir yerde beklemek zorunda kalmak, hiçbir yere gidememek

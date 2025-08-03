@@ -2,6 +2,7 @@
 layout: term
 title: birleştirilmek
 slug: birlestirilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Birleştirme işi yapılmak

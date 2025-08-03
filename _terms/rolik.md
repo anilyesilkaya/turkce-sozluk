@@ -2,6 +2,7 @@
 layout: term
 title: rölik
 slug: rolik
+letter: R
 lisan: Fransızca relique
 anlamlar:
 - Hristiyanlıkta Hz. İsa, aziz ve azizelerle ilişkili veya onlardan geriye kalan giysi, eşya veya kemik parçası

@@ -2,6 +2,7 @@
 layout: term
 title: yontmak
 slug: yontmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir şeye istenilen biçimi vermek için dış bölümünü keskin bir araçla biçmek, kesmek; yonmak

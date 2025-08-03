@@ -2,6 +2,7 @@
 layout: term
 title: ataraksiya
 slug: ataraksiya
+letter: A
 lisan: Fransızca ataraxie
 anlamlar:
 - Hiçbir heyecan veya zihin etkisiyle uyarılmayan ruh dinginliği, acıya olduğu kadar kıvanca karşı da ilgisizlik

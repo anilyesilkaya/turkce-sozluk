@@ -2,6 +2,7 @@
 layout: term
 title: doldurabilmek
 slug: doldurabilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Doldurma ihtimali veya imkânı bulunmak

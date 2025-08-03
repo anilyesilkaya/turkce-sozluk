@@ -2,6 +2,7 @@
 layout: term
 title: vurdumduymazlık
 slug: vurdumduymazlik
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vurdumduymaz olma durumu

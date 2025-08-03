@@ -2,6 +2,7 @@
 layout: term
 title: vâkıf
 slug: vakif
+letter: V
 lisan: Arapça vāḳif
 anlamlar:
 - Bilen, farkında olan

@@ -2,6 +2,7 @@
 layout: term
 title: aksatabilmek
 slug: aksatabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aksatma ihtimali veya imkânı bulunmak

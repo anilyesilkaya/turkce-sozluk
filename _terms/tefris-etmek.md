@@ -2,6 +2,7 @@
 layout: term
 title: tefriş etmek
 slug: tefris-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - döşemek

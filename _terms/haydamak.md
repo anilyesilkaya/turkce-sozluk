@@ -2,6 +2,7 @@
 layout: term
 title: haydamak
 slug: haydamak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hayvanı sürmek; dehlemek

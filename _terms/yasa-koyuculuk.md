@@ -2,6 +2,7 @@
 layout: term
 title: yasa koyuculuk
 slug: yasa-koyuculuk
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yasa koyucunun yaptığı iş; kanun koyuculuk

@@ -2,6 +2,7 @@
 layout: term
 title: algılanmak
 slug: algilanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Algılama işine konu olmak; idrak edilmek

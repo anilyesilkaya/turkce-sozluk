@@ -2,6 +2,7 @@
 layout: term
 title: yutkunmak
 slug: yutkunmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Tükürüğü yutmak veya bir şey yutuyormuş gibi gırtlağı hareket ettirmek

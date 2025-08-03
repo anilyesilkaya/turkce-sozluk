@@ -2,6 +2,7 @@
 layout: term
 title: Başkurt Türkçesi
 slug: baskurt-turkcesi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başkurt Türklerinin kullandığı konuşma ve yazı dili; Başkurtça

@@ -2,6 +2,7 @@
 layout: term
 title: bağıntı
 slug: baginti
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir nesne veya olayı bir başkası ile ilgili kılan bağ; bağlılaşım

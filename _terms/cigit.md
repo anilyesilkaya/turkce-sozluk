@@ -2,6 +2,7 @@
 layout: term
 title: çiğit
 slug: cigit
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Pamuk çekirdeği

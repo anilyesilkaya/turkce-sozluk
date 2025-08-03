@@ -2,6 +2,7 @@
 layout: term
 title: koparma
 slug: koparma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Koparmak işi

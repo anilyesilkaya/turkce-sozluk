@@ -2,6 +2,7 @@
 layout: term
 title: gıdıklanmak
 slug: gidiklanmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gıdıklama işi yapılmak

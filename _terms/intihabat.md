@@ -2,6 +2,7 @@
 layout: term
 title: intihabat
 slug: intihabat
+letter: I
 lisan: Arapça intiḫābāt
 anlamlar:
 - Seçimler

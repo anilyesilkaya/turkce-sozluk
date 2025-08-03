@@ -2,6 +2,7 @@
 layout: term
 title: kurtulma
 slug: kurtulma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kurtulmak işi

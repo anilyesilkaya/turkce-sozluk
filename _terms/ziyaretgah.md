@@ -2,6 +2,7 @@
 layout: term
 title: ziyaretgâh
 slug: ziyaretgah
+letter: Z
 lisan: Arapça ziyāret + Farsça -gâh
 anlamlar:
 - ► ziyaret yeri

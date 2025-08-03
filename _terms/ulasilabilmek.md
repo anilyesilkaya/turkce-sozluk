@@ -2,6 +2,7 @@
 layout: term
 title: ulaşılabilmek
 slug: ulasilabilmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ulaşılma ihtimali veya imkânı bulunmak

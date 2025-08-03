@@ -2,6 +2,7 @@
 layout: term
 title: görücü
 slug: gorucu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Evlenmek isteyen erkek için kız görmeye giden kimse

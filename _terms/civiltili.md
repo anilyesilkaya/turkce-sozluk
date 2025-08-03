@@ -2,6 +2,7 @@
 layout: term
 title: cıvıltılı
 slug: civiltili
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cıvıltısı olan

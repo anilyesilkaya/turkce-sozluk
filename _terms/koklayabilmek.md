@@ -2,6 +2,7 @@
 layout: term
 title: koklayabilmek
 slug: koklayabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Koklama ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: kaptan
 slug: kaptan
+letter: K
 lisan: İtalyanca capitan
 anlamlar:
 - Gemi yönetimiyle ilgili en yüksek görevli

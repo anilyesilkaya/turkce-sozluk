@@ -2,6 +2,7 @@
 layout: term
 title: demevi
 slug: demevi
+letter: D
 lisan: Arapça demevī
 anlamlar:
 - ► kanlı

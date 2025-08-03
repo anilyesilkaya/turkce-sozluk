@@ -2,6 +2,7 @@
 layout: term
 title: gazel okumak
 slug: gazel-okumak
+letter: G
 lisan: Türkçe
 anlamlar:
 - gazel söylemek

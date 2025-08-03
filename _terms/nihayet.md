@@ -2,6 +2,7 @@
 layout: term
 title: nihayet
 slug: nihayet
+letter: N
 lisan: Arapça nihāyet
 anlamlar:
 - ► son

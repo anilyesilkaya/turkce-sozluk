@@ -2,6 +2,7 @@
 layout: term
 title: angut
 slug: angut
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ördekgillerden, tüyleri kiremit renginde, evcilleştirilebilen bir yaban kuşu (Casarca ferruginea)

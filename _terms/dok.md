@@ -2,6 +2,7 @@
 layout: term
 title: dok
 slug: dok
+letter: D
 lisan: İngilizce dock
 anlamlar:
 - Gemilerin yükünün boşaltıldığı veya onarıldığı, üstü örtülü havuz

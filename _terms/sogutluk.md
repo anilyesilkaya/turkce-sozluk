@@ -2,6 +2,7 @@
 layout: term
 title: söğütlük
 slug: sogutluk
+letter: S
 lisan: Türkçe
 anlamlar:
 - Söğüt ağacı bol olan yer

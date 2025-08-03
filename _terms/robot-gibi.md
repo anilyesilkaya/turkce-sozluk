@@ -2,6 +2,7 @@
 layout: term
 title: robot gibi
 slug: robot-gibi
+letter: R
 lisan: Türkçe
 anlamlar:
 - durmaksızın çalışan (kimse)

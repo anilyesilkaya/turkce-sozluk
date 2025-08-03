@@ -2,6 +2,7 @@
 layout: term
 title: pres
 slug: pres
+letter: P
 lisan: Fransızca presse
 anlamlar:
 - İşletme, onarma, düzletme vb. işlemlerin uygulanması için bir nesneyi, iki ağırlık arasında mekanik olarak sıkıştırmaya yarayan alet; mengene, cendere

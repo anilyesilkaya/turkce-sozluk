@@ -2,6 +2,7 @@
 layout: term
 title: tıraş
 slug: tiras
+letter: T
 lisan: Farsça terāş
 anlamlar:
 - Saç veya sakalı kesme işi; yülüme

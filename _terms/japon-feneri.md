@@ -2,6 +2,7 @@
 layout: term
 title: 'Japon feneri '
 slug: japon-feneri
+letter: J
 lisan: Türkçe
 anlamlar:
 - Süsleme ve aydınlatma amacıyla kullanılan, kâğıttan yapılmış, renkli yuvarlak fener

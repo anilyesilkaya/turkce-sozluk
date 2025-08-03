@@ -2,6 +2,7 @@
 layout: term
 title: köşeleme
 slug: koseleme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Köşelemek işi

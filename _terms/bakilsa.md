@@ -2,6 +2,7 @@
 layout: term
 title: bakılsa
 slug: bakilsa
+letter: B
 lisan: Türkçe
 anlamlar:
 - işin gerçeği, aslında

@@ -2,6 +2,7 @@
 layout: term
 title: ütülenmek
 slug: utulenmek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Ütüleme işine konu olmak

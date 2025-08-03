@@ -2,6 +2,7 @@
 layout: term
 title: deterjancılık
 slug: deterjancilik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Deterjancının yaptığı iş

@@ -2,6 +2,7 @@
 layout: term
 title: isteşmek
 slug: istesmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Karşılıklı sevgi belirtileri göstermek; flört etmek

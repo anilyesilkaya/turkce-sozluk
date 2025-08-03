@@ -2,6 +2,7 @@
 layout: term
 title: yeşillenme
 slug: yesillenme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yeşillenmek işi

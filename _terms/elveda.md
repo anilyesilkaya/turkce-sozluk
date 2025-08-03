@@ -2,6 +2,7 @@
 layout: term
 title: elveda
 slug: elveda
+letter: E
 lisan: Arapça elvidāʿ
 anlamlar:
 - Bir daha kavuşulmayacağı düşünülen bir şeyden ayrılırken kullanılan bir söz

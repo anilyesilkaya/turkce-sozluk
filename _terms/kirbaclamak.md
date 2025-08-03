@@ -2,6 +2,7 @@
 layout: term
 title: kırbaçlamak
 slug: kirbaclamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kırbaçla vurmak

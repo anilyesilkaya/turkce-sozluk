@@ -2,6 +2,7 @@
 layout: term
 title: triton
 slug: triton
+letter: T
 lisan: Fransızca triton
 anlamlar:
 - Trityumun, bir protondan ve iki nötrondan oluşan atom çekirdeği

@@ -2,6 +2,7 @@
 layout: term
 title: konformist
 slug: konformist
+letter: K
 lisan: Fransızca conformiste
 anlamlar:
 - ► uymacı

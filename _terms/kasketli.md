@@ -2,6 +2,7 @@
 layout: term
 title: kasketli
 slug: kasketli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kasketi olan

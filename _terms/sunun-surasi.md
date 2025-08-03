@@ -2,6 +2,7 @@
 layout: term
 title: şunun şurası
 slug: sunun-surasi
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - küçümseme, azımsama anlatan bir söz

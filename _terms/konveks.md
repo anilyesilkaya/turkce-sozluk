@@ -2,6 +2,7 @@
 layout: term
 title: konveks
 slug: konveks
+letter: K
 lisan: Fransızca convexe
 anlamlar:
 - ► dışbükey

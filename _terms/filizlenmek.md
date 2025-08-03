@@ -2,6 +2,7 @@
 layout: term
 title: filizlenmek
 slug: filizlenmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - Bitki filiz vermek

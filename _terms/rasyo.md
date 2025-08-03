@@ -2,6 +2,7 @@
 layout: term
 title: rasyo
 slug: rasyo
+letter: R
 lisan: Fransızca ratio
 anlamlar:
 - ► oran

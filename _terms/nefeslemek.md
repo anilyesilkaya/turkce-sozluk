@@ -2,6 +2,7 @@
 layout: term
 title: nefeslemek
 slug: nefeslemek
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nefesini bir şeye yöneltmek, üflemek

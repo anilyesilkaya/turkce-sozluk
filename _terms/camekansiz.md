@@ -2,6 +2,7 @@
 layout: term
 title: camekânsız
 slug: camekansiz
+letter: C
 lisan: Türkçe
 anlamlar:
 - Camekânı olmayan

@@ -2,6 +2,7 @@
 layout: term
 title: korsesiz
 slug: korsesiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Korsesi olmayan

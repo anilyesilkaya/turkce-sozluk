@@ -2,6 +2,7 @@
 layout: term
 title: tanıdık çıkmak
 slug: tanidik-cikmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - önceden birbirlerini tanımış olmak, tanış olmak

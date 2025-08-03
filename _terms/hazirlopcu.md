@@ -2,6 +2,7 @@
 layout: term
 title: hazırlopçu
 slug: hazirlopcu
+letter: H
 lisan: Türkçe
 anlamlar:
 - Emek çekmeden başkası tarafından hazırlanmış şeylerin üzerine konan, hazırlopa alışmış olan (kimse)

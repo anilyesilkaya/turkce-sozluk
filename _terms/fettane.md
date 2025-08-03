@@ -2,6 +2,7 @@
 layout: term
 title: fettane
 slug: fettane
+letter: F
 lisan: Arapça fettāne
 anlamlar:
 - Cilveli, gönül alıcı (kadın)

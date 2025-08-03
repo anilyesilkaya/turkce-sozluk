@@ -2,6 +2,7 @@
 layout: term
 title: hırıl hırıl
 slug: hiril-hiril
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hırıltılı bir ses çıkararak

@@ -2,6 +2,7 @@
 layout: term
 title: mukavim
 slug: mukavim
+letter: M
 lisan: Arapça muḳāvim
 anlamlar:
 - ► dayanıklı

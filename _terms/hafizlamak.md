@@ -2,6 +2,7 @@
 layout: term
 title: hafızlamak
 slug: hafizlamak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Durmadan çalışmak, ezberlercesine okumak

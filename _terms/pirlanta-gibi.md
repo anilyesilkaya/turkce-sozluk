@@ -2,6 +2,7 @@
 layout: term
 title: pırlanta gibi
 slug: pirlanta-gibi
+letter: P
 lisan: Türkçe
 anlamlar:
 - çok iyi nitelikleri olan, değerli, saf, temiz

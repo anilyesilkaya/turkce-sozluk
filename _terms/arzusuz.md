@@ -2,6 +2,7 @@
 layout: term
 title: arzusuz
 slug: arzusuz
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► isteksiz

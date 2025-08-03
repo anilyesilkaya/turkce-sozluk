@@ -2,6 +2,7 @@
 layout: term
 title: baca şapkası
 slug: baca-sapkasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bacaya yağmur, kar veya rüzgâr girmemesi için baca külahının üzerine yerleştirilen kapak

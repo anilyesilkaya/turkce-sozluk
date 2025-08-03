@@ -2,6 +2,7 @@
 layout: term
 title: şen
 slug: sen
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Yaşamaktan mutlu olduğunu davranışlarıyla belli eden; sevinçli

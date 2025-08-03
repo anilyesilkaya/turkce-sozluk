@@ -2,6 +2,7 @@
 layout: term
 title: serseri serseri
 slug: serseri-serseri
+letter: S
 lisan: Türkçe
 anlamlar:
 - Serseri bir biçimde

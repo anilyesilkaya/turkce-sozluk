@@ -2,6 +2,7 @@
 layout: term
 title: kaşıkçı
 slug: kasikci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaşık yapan veya satan kimse

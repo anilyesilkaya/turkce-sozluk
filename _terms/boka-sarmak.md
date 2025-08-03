@@ -2,6 +2,7 @@
 layout: term
 title: boka sarmak
 slug: boka-sarmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - işler, olaylar ve durumlar içinden çıkılamayacak kadar kötü bir hâl almak

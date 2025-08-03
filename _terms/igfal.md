@@ -2,6 +2,7 @@
 layout: term
 title: iğfal
 slug: igfal
+letter: I
 lisan: Arapça iġfāl
 anlamlar:
 - Bir kadını aldatma, baştan çıkarma

@@ -2,6 +2,7 @@
 layout: term
 title: karakol kurmak
 slug: karakol-kurmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - herhangi bir yerde güvenliği sağlamak amacıyla karakol oluşturmak

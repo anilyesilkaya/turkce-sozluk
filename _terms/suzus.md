@@ -2,6 +2,7 @@
 layout: term
 title: süzüş
 slug: suzus
+letter: S
 lisan: Türkçe
 anlamlar:
 - Süzmek işi

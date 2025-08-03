@@ -2,6 +2,7 @@
 layout: term
 title: şaşula
 slug: sasula
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Soğanlı ve çiçekli bitkileri dikmeye yarayan mala biçiminde küçük kürek

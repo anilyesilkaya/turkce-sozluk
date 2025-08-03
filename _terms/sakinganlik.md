@@ -2,6 +2,7 @@
 layout: term
 title: sakınganlık
 slug: sakinganlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► ihtiyatlılık

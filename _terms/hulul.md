@@ -2,6 +2,7 @@
 layout: term
 title: hulul
 slug: hulul
+letter: H
 lisan: Arapça ḥulūl
 anlamlar:
 - Gelme, gelip çatma

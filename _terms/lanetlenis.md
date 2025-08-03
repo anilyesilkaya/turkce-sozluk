@@ -2,6 +2,7 @@
 layout: term
 title: lanetleniş
 slug: lanetlenis
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lanetlenmek işi

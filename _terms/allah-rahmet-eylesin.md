@@ -2,6 +2,7 @@
 layout: term
 title: Allah rahmet eylesin
 slug: allah-rahmet-eylesin
+letter: A
 lisan: Türkçe
 anlamlar:
 - ölüleri hayırla anmak için söylenen bir söz

@@ -2,6 +2,7 @@
 layout: term
 title: kavatlık
 slug: kavatlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► pezevenklik

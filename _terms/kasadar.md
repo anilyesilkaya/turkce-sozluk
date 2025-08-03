@@ -2,6 +2,7 @@
 layout: term
 title: kasadar
 slug: kasadar
+letter: K
 lisan: İtalyanca cassa + Farsça -dār
 anlamlar:
 - ► kasiyer

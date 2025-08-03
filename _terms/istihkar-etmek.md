@@ -2,6 +2,7 @@
 layout: term
 title: istihkar etmek
 slug: istihkar-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - hakeret etmek, aşağılamak

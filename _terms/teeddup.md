@@ -2,6 +2,7 @@
 layout: term
 title: teeddüp
 slug: teeddup
+letter: T
 lisan: Arapça teʾeddub
 anlamlar:
 - ► utanma

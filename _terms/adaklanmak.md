@@ -2,6 +2,7 @@
 layout: term
 title: adaklanmak
 slug: adaklanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Adına adak adanmak

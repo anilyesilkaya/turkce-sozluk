@@ -2,6 +2,7 @@
 layout: term
 title: ciğeri dağlanmak
 slug: cigeri-daglanmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - çok acı çekmek, çok üzülmek

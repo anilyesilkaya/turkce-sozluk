@@ -2,6 +2,7 @@
 layout: term
 title: yüzünden
 slug: yuzunden
+letter: Y
 lisan: Türkçe
 anlamlar:
 - -den ötürü

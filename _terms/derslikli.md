@@ -2,6 +2,7 @@
 layout: term
 title: derslikli
 slug: derslikli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dersliği olan

@@ -2,6 +2,7 @@
 layout: term
 title: boru gibi ötmek
 slug: boru-gibi-otmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - ses çok güçlü ve kalın çıkmak

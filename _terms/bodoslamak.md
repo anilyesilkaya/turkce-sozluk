@@ -2,6 +2,7 @@
 layout: term
 title: bodoslamak
 slug: bodoslamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - İleri sürmek, dayatmak

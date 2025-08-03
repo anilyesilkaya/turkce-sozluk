@@ -2,6 +2,7 @@
 layout: term
 title: tamam
 slug: tamam
+letter: T
 lisan: Arapça tamām
 anlamlar:
 - ► bütün

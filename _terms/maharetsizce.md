@@ -2,6 +2,7 @@
 layout: term
 title: maharetsizce
 slug: maharetsizce
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► beceriksizce

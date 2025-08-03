@@ -2,6 +2,7 @@
 layout: term
 title: iane
 slug: iane
+letter: I
 lisan: Arapça iʿāne
 anlamlar:
 - ► yardım

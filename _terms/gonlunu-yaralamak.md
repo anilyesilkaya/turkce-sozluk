@@ -2,6 +2,7 @@
 layout: term
 title: gönlünü yaralamak
 slug: gonlunu-yaralamak
+letter: G
 lisan: Türkçe
 anlamlar:
 - incitmek, kırmak, üzmek

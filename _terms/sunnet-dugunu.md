@@ -2,6 +2,7 @@
 layout: term
 title: sünnet düğünü
 slug: sunnet-dugunu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Erkek çocukların sünneti sırasında yapılan eğlence; sünnet

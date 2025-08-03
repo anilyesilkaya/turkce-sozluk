@@ -2,6 +2,7 @@
 layout: term
 title: dükkân
 slug: dukkan
+letter: D
 lisan: Arapça dukkān
 anlamlar:
 - Esnafın perakende satış yaptığı, küçük zanaat sahiplerinin çalıştıkları yer; işletme, iş yeri

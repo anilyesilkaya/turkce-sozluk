@@ -2,6 +2,7 @@
 layout: term
 title: kostümlük
 slug: kostumluk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kostüm yapmaya elverişli

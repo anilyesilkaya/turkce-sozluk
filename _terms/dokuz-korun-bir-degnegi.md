@@ -2,6 +2,7 @@
 layout: term
 title: dokuz körün bir değneği
 slug: dokuz-korun-bir-degnegi
+letter: D
 lisan: Türkçe
 anlamlar:
 - birçok kimsenin tek yardımcısı, tek dayanağı

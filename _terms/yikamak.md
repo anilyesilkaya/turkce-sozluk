@@ -2,6 +2,7 @@
 layout: term
 title: yıkamak
 slug: yikamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Su veya başka bir sıvı kullanarak bir şeyi temizlemek; yumak (II)

@@ -2,6 +2,7 @@
 layout: term
 title: güdük
 slug: guduk
+letter: G
 lisan: Türkçe
 anlamlar:
 - Eksik yanı olan, tamamlanmamış, kısa

@@ -2,6 +2,7 @@
 layout: term
 title: kıyasen
 slug: kiyasen
+letter: K
 lisan: Arapça ḳiyāsen
 anlamlar:
 - Kıyas edilerek, kıyas yoluyla

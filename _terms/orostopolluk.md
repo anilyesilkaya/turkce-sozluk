@@ -2,6 +2,7 @@
 layout: term
 title: orostopolluk
 slug: orostopolluk
+letter: O
 lisan: Türkçe
 anlamlar:
 - Kurnazca iş, dalavere, dolap

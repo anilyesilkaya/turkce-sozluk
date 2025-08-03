@@ -2,6 +2,7 @@
 layout: term
 title: artmak
 slug: artmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► çoğalmak

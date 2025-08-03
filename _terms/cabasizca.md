@@ -2,6 +2,7 @@
 layout: term
 title: çabasızca
 slug: cabasizca
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çabasız bir biçimde; çabasızcasına

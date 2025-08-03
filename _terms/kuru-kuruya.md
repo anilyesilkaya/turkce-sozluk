@@ -2,6 +2,7 @@
 layout: term
 title: kuru kuruya
 slug: kuru-kuruya
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kuru olarak, yanında başka bir içecek veya yiyecek olmaksızın

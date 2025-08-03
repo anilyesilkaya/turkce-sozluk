@@ -2,6 +2,7 @@
 layout: term
 title: talik
 slug: talik
+letter: T
 lisan: Arapça taʿlīḳ
 anlamlar:
 - Arap alfabesinde geliştirilen, yatık olarak yazılan yazı türlerinden biri

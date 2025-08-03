@@ -2,6 +2,7 @@
 layout: term
 title: nizam
 slug: nizam
+letter: N
 lisan: Arapça niẓām
 anlamlar:
 - ► düzen

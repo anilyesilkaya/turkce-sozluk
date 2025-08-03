@@ -2,6 +2,7 @@
 layout: term
 title: ağzı kilitli
 slug: agzi-kilitli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Sır saklayan

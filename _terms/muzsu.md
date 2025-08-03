@@ -2,6 +2,7 @@
 layout: term
 title: muzsu
 slug: muzsu
+letter: M
 lisan: Türkçe
 anlamlar:
 - Muzu andıran, muza benzeyen, muz gibi; muzumsu

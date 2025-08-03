@@ -2,6 +2,7 @@
 layout: term
 title: samba
 slug: samba
+letter: S
 lisan: Fransızca samba
 anlamlar:
 - Zikzak ve ani yapılan figürleri olan, iki dörtlük ölçü üstüne kurulmuş bir tür Brezilya dansı

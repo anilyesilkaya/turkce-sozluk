@@ -2,6 +2,7 @@
 layout: term
 title: başpapazlık
 slug: baspapazlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başpapaz olma durumu

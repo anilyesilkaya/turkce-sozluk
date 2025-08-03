@@ -2,6 +2,7 @@
 layout: term
 title: karabet
 slug: karabet
+letter: K
 lisan: Arapça ḳarābet
 anlamlar:
 - ► yakınlık

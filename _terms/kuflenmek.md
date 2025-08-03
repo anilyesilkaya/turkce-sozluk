@@ -2,6 +2,7 @@
 layout: term
 title: küflenmek
 slug: kuflenmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Küf oluşmak, küflü duruma gelmek, küf bağlamak

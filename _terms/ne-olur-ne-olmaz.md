@@ -2,6 +2,7 @@
 layout: term
 title: ne olur ne olmaz
 slug: ne-olur-ne-olmaz
+letter: N
 lisan: Türkçe
 anlamlar:
 - '"her ihtimali düşünmek gerekir" anlamında kullanılan bir söz'

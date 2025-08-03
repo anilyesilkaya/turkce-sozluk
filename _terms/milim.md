@@ -2,6 +2,7 @@
 layout: term
 title: milim
 slug: milim
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► milimetre

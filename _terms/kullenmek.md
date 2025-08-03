@@ -2,6 +2,7 @@
 layout: term
 title: küllenmek
 slug: kullenmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Genellikle ateşin üzerinde kül oluşmak

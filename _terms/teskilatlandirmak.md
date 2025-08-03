@@ -2,6 +2,7 @@
 layout: term
 title: teşkilatlandırmak
 slug: teskilatlandirmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► örgütlendirmek

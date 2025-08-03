@@ -2,6 +2,7 @@
 layout: term
 title: geçmiş
 slug: gecmis
+letter: G
 lisan: Türkçe
 anlamlar:
 - Geçme işini yapmış

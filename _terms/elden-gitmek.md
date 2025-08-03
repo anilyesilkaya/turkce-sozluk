@@ -2,6 +2,7 @@
 layout: term
 title: elden gitmek
 slug: elden-gitmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - bir şeyi yitirmek, o şeyden yoksun kalmak

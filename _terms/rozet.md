@@ -2,6 +2,7 @@
 layout: term
 title: rozet
 slug: rozet
+letter: R
 lisan: Fransızca rosette
 anlamlar:
 - Yakaya takılmak için çeşitli biçimlerde yapılan, bir kuruluşun sembolü sayılacak genellikle küçük metal nesne

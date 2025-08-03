@@ -2,6 +2,7 @@
 layout: term
 title: dolaştırılma
 slug: dolastirilma
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dolaştırılmak işi

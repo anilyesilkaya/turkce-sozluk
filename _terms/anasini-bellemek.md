@@ -2,6 +2,7 @@
 layout: term
 title: anasını bellemek
 slug: anasini-bellemek
+letter: A
 lisan: Türkçe
 anlamlar:
 - “annesinin ırzına geçmek” anlamında küfür sözü

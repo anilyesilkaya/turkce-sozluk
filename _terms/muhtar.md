@@ -2,6 +2,7 @@
 layout: term
 title: muhtar
 slug: muhtar
+letter: M
 lisan: Arapça muḫtār
 anlamlar:
 - Köy ve mahallenin yasalarla belirtilmiş işlerini yürütmek için o köy veya mahallede oturanların seçtikleri kimse; köy muhtarı, mahalle muhtarı

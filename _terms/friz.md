@@ -2,6 +2,7 @@
 layout: term
 title: friz
 slug: friz
+letter: F
 lisan: Fransızca frise
 anlamlar:
 - Tavandan inerek sahnenin üst kısmını, sahne boyunca kaplayan kısa, dar perde

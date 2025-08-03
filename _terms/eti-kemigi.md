@@ -2,6 +2,7 @@
 layout: term
 title: eti kemiği
 slug: eti-kemigi
+letter: E
 lisan: Türkçe
 anlamlar:
 - esası, ana özelliği, asıl ağırlığı

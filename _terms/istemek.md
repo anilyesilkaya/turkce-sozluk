@@ -2,6 +2,7 @@
 layout: term
 title: istemek
 slug: istemek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İstek duymak; arzulamak

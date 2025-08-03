@@ -2,6 +2,7 @@
 layout: term
 title: kimyon
 slug: kimyon
+letter: K
 lisan: Arapça kemmūn
 anlamlar:
 - Maydanozgillerden, 50 santimetre yüksekliğinde, beyaz veya pembe çiçekli, bir yıllık, güzel kokulu ve otsu bir bitki (Cuminum cyminum)

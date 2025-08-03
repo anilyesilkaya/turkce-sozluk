@@ -2,6 +2,7 @@
 layout: term
 title: bağlamsal anlam
 slug: baglamsal-anlam
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir sözün kullanılan veya amaçlanan bağlama göre kazandığı anlam

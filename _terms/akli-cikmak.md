@@ -2,6 +2,7 @@
 layout: term
 title: aklı çıkmak
 slug: akli-cikmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - sonucun kötü olacağını düşünerek korkuya kapılmak

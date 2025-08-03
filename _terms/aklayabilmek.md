@@ -2,6 +2,7 @@
 layout: term
 title: aklayabilmek
 slug: aklayabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aklama ihtimali veya imkânı bulunmak

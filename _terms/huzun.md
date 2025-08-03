@@ -2,6 +2,7 @@
 layout: term
 title: hüzün
 slug: huzun
+letter: H
 lisan: Arapça ḥuzn
 anlamlar:
 - Gönül üzgünlüğü; melankoli

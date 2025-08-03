@@ -2,6 +2,7 @@
 layout: term
 title: bayram haftasını mangal tahtası anlamak
 slug: bayram-haftasini-mangal-tahtasi-anlamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - sözü, konu ile hiçbir ilgisi olmayacak bir biçimde ters anlamak

@@ -2,6 +2,7 @@
 layout: term
 title: alış
 slug: alis
+letter: A
 lisan: Türkçe
 anlamlar:
 - Almak işi

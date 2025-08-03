@@ -2,6 +2,7 @@
 layout: term
 title: dilimleniş
 slug: dilimlenis
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dilimlenmek işi

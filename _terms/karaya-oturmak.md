@@ -2,6 +2,7 @@
 layout: term
 title: karaya oturmak
 slug: karaya-oturmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - gemi denizin sığ bölümüne saplanıp kalmak

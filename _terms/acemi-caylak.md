@@ -2,6 +2,7 @@
 layout: term
 title: acemi çaylak
 slug: acemi-caylak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Deneyimsiz, toy, beceriksiz kimse

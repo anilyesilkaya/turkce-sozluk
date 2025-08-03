@@ -2,6 +2,7 @@
 layout: term
 title: nötrleşmek
 slug: notrlesmek
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nötr duruma gelmek

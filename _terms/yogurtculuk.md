@@ -2,6 +2,7 @@
 layout: term
 title: yoğurtçuluk
 slug: yogurtculuk
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yoğurt yapma veya satma işi

@@ -2,6 +2,7 @@
 layout: term
 title: dokuma tezgâhı
 slug: dokuma-tezgahi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dokuma işinin yapıldığı makine veya araç

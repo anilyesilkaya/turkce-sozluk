@@ -2,6 +2,7 @@
 layout: term
 title: nasfet
 slug: nasfet
+letter: N
 lisan: Arapça naṣfet
 anlamlar:
 - ► hakkaniyet

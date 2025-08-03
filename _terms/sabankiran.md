@@ -2,6 +2,7 @@
 layout: term
 title: sabankıran
 slug: sabankiran
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► kayışkıran

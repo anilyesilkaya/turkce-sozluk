@@ -2,6 +2,7 @@
 layout: term
 title: müzik köşesi
 slug: muzik-kosesi
+letter: M
 lisan: Türkçe
 anlamlar:
 - Değişik müzik türlerinin bir mağazanın belli bir bölümünde veya köşesinde, plak, kaset, uzunçalar vb. olarak satışa sunulduğu yer

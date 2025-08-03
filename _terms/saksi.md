@@ -2,6 +2,7 @@
 layout: term
 title: saksı
 slug: saksi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Pişmiş toprak, plastik vb.nden yapılan, çiçek yetiştirmekte kullanılan kap

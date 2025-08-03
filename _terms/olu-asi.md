@@ -2,6 +2,7 @@
 layout: term
 title: 'ölü aşı '
 slug: olu-asi
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► ölü yemeği

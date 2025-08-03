@@ -2,6 +2,7 @@
 layout: term
 title: çıra
 slug: cira
+letter: Ç
 lisan: Farsça çerāġ
 anlamlar:
 - Çam vb. reçineli ağaçların yağlı ve çabuk yanmaya elverişli bölümü

@@ -2,6 +2,7 @@
 layout: term
 title: sosyal yaşam
 slug: sosyal-yasam
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► sosyal hayat

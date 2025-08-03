@@ -2,6 +2,7 @@
 layout: term
 title: kıta sahanlığı
 slug: kita-sahanligi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kıyılarda denizlerin 200 metre derinliğe kadar olan kısımları; şelf

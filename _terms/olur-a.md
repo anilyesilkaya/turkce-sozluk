@@ -2,6 +2,7 @@
 layout: term
 title: olur a!
 slug: olur-a
+letter: O
 lisan: Türkçe
 anlamlar:
 - belirsizlik, olasılık anlamı katan bir söz

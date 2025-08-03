@@ -2,6 +2,7 @@
 layout: term
 title: çekirdek
 slug: cekirdek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Etli meyvelerin içinde bir veya birden çok bulunan, çoğu sert bir kabukla kaplı tohum; çiğit

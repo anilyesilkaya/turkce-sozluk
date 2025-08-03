@@ -2,6 +2,7 @@
 layout: term
 title: vitesli
 slug: vitesli
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vitesi olan

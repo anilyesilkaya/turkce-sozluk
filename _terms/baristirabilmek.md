@@ -2,6 +2,7 @@
 layout: term
 title: barıştırabilmek
 slug: baristirabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Barıştırma ihtimali veya imkânı bulunmak

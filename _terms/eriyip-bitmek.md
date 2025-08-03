@@ -2,6 +2,7 @@
 layout: term
 title: eriyip bitmek
 slug: eriyip-bitmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - üzüntü ve sıkıntıdan çok zayıflamak

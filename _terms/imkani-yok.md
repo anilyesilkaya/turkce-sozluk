@@ -2,6 +2,7 @@
 layout: term
 title: imkânı yok
 slug: imkani-yok
+letter: I
 lisan: Türkçe
 anlamlar:
 - olma ihtimali bulunmayan

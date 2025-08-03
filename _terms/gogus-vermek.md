@@ -2,6 +2,7 @@
 layout: term
 title: göğüs vermek
 slug: gogus-vermek
+letter: G
 lisan: Türkçe
 anlamlar:
 - eziyete, sıkıntıya katlanmak, tahammül etmek

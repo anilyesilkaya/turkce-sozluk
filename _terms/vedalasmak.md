@@ -2,6 +2,7 @@
 layout: term
 title: vedalaşmak
 slug: vedalasmak
+letter: V
 lisan: Türkçe
 anlamlar:
 - Ayrılırken birbirine esenlik dilemek; esenleşmek

@@ -2,6 +2,7 @@
 layout: term
 title: püsür
 slug: pusur
+letter: P
 lisan: Rumca
 anlamlar:
 - Bir şeyin can sıkıcı, karışık ayrıntısı veya pürüzü

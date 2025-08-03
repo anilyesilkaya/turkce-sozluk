@@ -2,6 +2,7 @@
 layout: term
 title: iç çekmek
 slug: ic-cekmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - üzüntüyle derinden soluk almak

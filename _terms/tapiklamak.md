@@ -2,6 +2,7 @@
 layout: term
 title: tapıklamak
 slug: tapiklamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Birini beğenerek arkasını okşamak; tapışlamak

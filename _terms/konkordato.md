@@ -2,6 +2,7 @@
 layout: term
 title: konkordato
 slug: konkordato
+letter: K
 lisan: İtalyanca concordato
 anlamlar:
 - ► anlaşmalı iflas

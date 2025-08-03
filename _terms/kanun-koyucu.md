@@ -2,6 +2,7 @@
 layout: term
 title: kanun koyucu
 slug: kanun-koyucu
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► yasa koyucu

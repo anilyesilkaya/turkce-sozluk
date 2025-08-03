@@ -2,6 +2,7 @@
 layout: term
 title: saatinde
 slug: saatinde
+letter: S
 lisan: Türkçe
 anlamlar:
 - Önceden belirlenen, düşünülen vakitte

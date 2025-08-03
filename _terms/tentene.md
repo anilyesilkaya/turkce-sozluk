@@ -2,6 +2,7 @@
 layout: term
 title: tentene
 slug: tentene
+letter: T
 lisan: Fransızca dentelle
 anlamlar:
 - ► dantel

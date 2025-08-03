@@ -2,6 +2,7 @@
 layout: term
 title: yorulabilme
 slug: yorulabilme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yorulabilmek işi

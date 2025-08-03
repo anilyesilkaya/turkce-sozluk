@@ -2,6 +2,7 @@
 layout: term
 title: dış
 slug: dis
+letter: D
 lisan: Türkçe
 anlamlar:
 - Herhangi bir cisim veya alanın sınırları içinde bulunmayan yer; öte, hariç, iç karşıtı

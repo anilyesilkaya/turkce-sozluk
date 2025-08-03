@@ -2,6 +2,7 @@
 layout: term
 title: masum
 slug: masum
+letter: M
 lisan: Arapça maʿṣūm
 anlamlar:
 - Suçsuz, günahsız (kimse)

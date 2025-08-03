@@ -2,6 +2,7 @@
 layout: term
 title: dadandırmak
 slug: dadandirmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dadanmasına yol açmak

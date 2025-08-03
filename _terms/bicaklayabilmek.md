@@ -2,6 +2,7 @@
 layout: term
 title: bıçaklayabilmek
 slug: bicaklayabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bıçaklama ihtimali veya imkânı bulunmak

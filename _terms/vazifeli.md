@@ -2,6 +2,7 @@
 layout: term
 title: vazifeli
 slug: vazifeli
+letter: V
 lisan: Türkçe
 anlamlar:
 - ► görevli

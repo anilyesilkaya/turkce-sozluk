@@ -2,6 +2,7 @@
 layout: term
 title: minik
 slug: minik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Küçük ve sevimli

@@ -2,6 +2,7 @@
 layout: term
 title: manidar
 slug: manidar
+letter: M
 lisan: Arapça maʿnī + Farsça -dār
 anlamlar:
 - ► anlamlı

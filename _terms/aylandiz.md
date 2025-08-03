@@ -2,6 +2,7 @@
 layout: term
 title: aylandız
 slug: aylandiz
+letter: A
 lisan: Çince Ailanto'dan
 anlamlar:
 - ► kokar ağaç

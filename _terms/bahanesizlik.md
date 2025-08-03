@@ -2,6 +2,7 @@
 layout: term
 title: bahanesizlik
 slug: bahanesizlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bahanesiz olma durumu

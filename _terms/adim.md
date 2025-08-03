@@ -2,6 +2,7 @@
 layout: term
 title: adım
 slug: adim
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yürümek için yapılan ayak atışlarının her biri

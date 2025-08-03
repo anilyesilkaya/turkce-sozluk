@@ -2,6 +2,7 @@
 layout: term
 title: alıklaşma
 slug: aliklasma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alıklaşmak durumu

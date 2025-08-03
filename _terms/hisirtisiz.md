@@ -2,6 +2,7 @@
 layout: term
 title: hışırtısız
 slug: hisirtisiz
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hışırtısı olmayan

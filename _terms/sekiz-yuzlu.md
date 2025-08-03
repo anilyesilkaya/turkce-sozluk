@@ -2,6 +2,7 @@
 layout: term
 title: sekiz yüzlü
 slug: sekiz-yuzlu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sekiz düzlem parçasıyla çevrelenmiş cisim

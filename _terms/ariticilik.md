@@ -2,6 +2,7 @@
 layout: term
 title: arıtıcılık
 slug: ariticilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arıtıcı olma durumu

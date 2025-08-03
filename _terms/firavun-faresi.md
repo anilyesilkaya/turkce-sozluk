@@ -2,6 +2,7 @@
 layout: term
 title: firavun faresi
 slug: firavun-faresi
+letter: F
 lisan: Türkçe
 anlamlar:
 - Etçillerden, Afrika'da, özellikle Mısır'da yaygın, kedi büyüklüğünde bir hayvan; kuyruksüren (Herpestes ichneumon)

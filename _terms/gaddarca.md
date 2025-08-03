@@ -2,6 +2,7 @@
 layout: term
 title: gaddarca
 slug: gaddarca
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gaddara yakışır, gaddara uygun

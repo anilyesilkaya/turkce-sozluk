@@ -2,6 +2,7 @@
 layout: term
 title: bıçaklama
 slug: bicaklama
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bıçaklamak işi

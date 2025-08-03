@@ -2,6 +2,7 @@
 layout: term
 title: dinginleştirme
 slug: dinginlestirme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dinginleştirmek işi

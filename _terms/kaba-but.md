@@ -2,6 +2,7 @@
 layout: term
 title: kaba but
 slug: kaba-but
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kıç

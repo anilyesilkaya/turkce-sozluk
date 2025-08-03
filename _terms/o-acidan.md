@@ -2,6 +2,7 @@
 layout: term
 title: o açıdan
 slug: o-acidan
+letter: O
 lisan: Türkçe
 anlamlar:
 - Bilinen görüşten, anlayıştan

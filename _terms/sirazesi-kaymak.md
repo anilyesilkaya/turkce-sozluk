@@ -2,6 +2,7 @@
 layout: term
 title: şirazesi kaymak
 slug: sirazesi-kaymak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - akli dengesi yerinde olmamak

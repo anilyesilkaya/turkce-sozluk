@@ -2,6 +2,7 @@
 layout: term
 title: boğazsız
 slug: bogazsiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boğazı olmayan

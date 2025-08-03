@@ -2,6 +2,7 @@
 layout: term
 title: iskorpit
 slug: iskorpit
+letter: I
 lisan: Rumca
 anlamlar:
 - İskorpitgillerden, iri başlı, yüzgeçlerinde yakıcı dikenleri bulunan, eti beğenilen bir balık (Scorpaena scrofa)

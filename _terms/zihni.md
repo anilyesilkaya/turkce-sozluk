@@ -2,6 +2,7 @@
 layout: term
 title: zihnî
 slug: zihni
+letter: Z
 lisan: Arapça ẕihnī
 anlamlar:
 - ► zihinsel

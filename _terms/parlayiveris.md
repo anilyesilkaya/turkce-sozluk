@@ -2,6 +2,7 @@
 layout: term
 title: parlayıveriş
 slug: parlayiveris
+letter: P
 lisan: Türkçe
 anlamlar:
 - Parlayıvermek işi

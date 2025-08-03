@@ -2,6 +2,7 @@
 layout: term
 title: arış
 slug: aris
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► çözgü

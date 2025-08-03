@@ -2,6 +2,7 @@
 layout: term
 title: ötede beride
 slug: otede-beride
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Çeşitli yerlerde, şurada burada

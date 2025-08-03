@@ -2,6 +2,7 @@
 layout: term
 title: sıkıntılı
 slug: sikintili
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıkıntısı olan; bungun, bunlu, kasavetli

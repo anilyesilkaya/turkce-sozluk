@@ -2,6 +2,7 @@
 layout: term
 title: sevdirebilmek
 slug: sevdirebilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sevdirme ihtimali veya imkânı bulunmak

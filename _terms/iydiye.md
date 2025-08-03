@@ -2,6 +2,7 @@
 layout: term
 title: ıydiye
 slug: iydiye
+letter: I
 lisan: Arapça ʿiydiyye
 anlamlar:
 - Bayram kutlaması

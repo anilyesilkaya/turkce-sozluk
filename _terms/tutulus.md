@@ -2,6 +2,7 @@
 layout: term
 title: tutuluş
 slug: tutulus
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tutulmak işi

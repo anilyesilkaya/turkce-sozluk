@@ -2,6 +2,7 @@
 layout: term
 title: adına
 slug: adina
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir şeyin veya bir kimsenin namına; hesabına

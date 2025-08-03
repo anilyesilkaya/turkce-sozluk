@@ -2,6 +2,7 @@
 layout: term
 title: devir
 slug: devir
+letter: D
 lisan: Arapça devr
 anlamlar:
 - Dönme, dönüş

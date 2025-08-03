@@ -2,6 +2,7 @@
 layout: term
 title: bücürlük
 slug: bucurluk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bücür olma durumu

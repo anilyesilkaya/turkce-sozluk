@@ -2,6 +2,7 @@
 layout: term
 title: belletici
 slug: belletici
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► belletmen

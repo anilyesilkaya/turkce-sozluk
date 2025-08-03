@@ -2,6 +2,7 @@
 layout: term
 title: ülkücü
 slug: ulkucu
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Bir ülküye çıkar gütmeden bağlı olan; idealist

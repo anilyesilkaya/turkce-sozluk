@@ -2,6 +2,7 @@
 layout: term
 title: tıpa
 slug: tipa
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► tapa

@@ -2,6 +2,7 @@
 layout: term
 title: boşandırmak
 slug: bosandirmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boşanmasına yol açmak

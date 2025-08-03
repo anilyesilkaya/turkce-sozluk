@@ -2,6 +2,7 @@
 layout: term
 title: trolcü
 slug: trolcu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Trol ile balık avlayan kimse

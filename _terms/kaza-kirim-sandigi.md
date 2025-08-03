@@ -2,6 +2,7 @@
 layout: term
 title: 'kaza kırım sandığı '
 slug: kaza-kirim-sandigi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaza kırım ekibinin ihtiyaç duyduğu araç gereçlerin bulunduğu sandık

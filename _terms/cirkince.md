@@ -2,6 +2,7 @@
 layout: term
 title: çirkince
 slug: cirkince
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çirkine yakın

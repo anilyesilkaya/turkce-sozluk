@@ -2,6 +2,7 @@
 layout: term
 title: ufku daralmak
 slug: ufku-daralmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - ileriyi görememek, bakış açısı geniş olmamak

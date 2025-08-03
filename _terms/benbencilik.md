@@ -2,6 +2,7 @@
 layout: term
 title: benbencilik
 slug: benbencilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Benbenci olma durumu

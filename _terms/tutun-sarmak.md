@@ -2,6 +2,7 @@
 layout: term
 title: tütün sarmak
 slug: tutun-sarmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - sigara kâğıdına tütün koyup sigara yapmak

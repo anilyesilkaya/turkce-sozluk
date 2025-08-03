@@ -2,6 +2,7 @@
 layout: term
 title: cevretme
 slug: cevretme
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cevretmek işi

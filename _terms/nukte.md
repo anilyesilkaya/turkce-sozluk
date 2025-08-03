@@ -2,6 +2,7 @@
 layout: term
 title: nükte
 slug: nukte
+letter: N
 lisan: Arapça nukte
 anlamlar:
 - İnce anlamlı, düşündürücü ve şakalı söz; espri

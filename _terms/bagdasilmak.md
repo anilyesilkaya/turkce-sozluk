@@ -2,6 +2,7 @@
 layout: term
 title: bağdaşılmak
 slug: bagdasilmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağdaşma işine konu olmak

@@ -2,6 +2,7 @@
 layout: term
 title: uful etmek
 slug: uful-etmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - batmak, gözden kaybolmak, sönmek

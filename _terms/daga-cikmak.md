@@ -2,6 +2,7 @@
 layout: term
 title: dağa çıkmak
 slug: daga-cikmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - eşkıyalık etmek

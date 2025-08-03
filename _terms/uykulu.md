@@ -2,6 +2,7 @@
 layout: term
 title: uykulu
 slug: uykulu
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyku gereksinimi olan

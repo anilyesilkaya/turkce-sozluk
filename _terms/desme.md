@@ -2,6 +2,7 @@
 layout: term
 title: deşme
 slug: desme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Deşmek işi

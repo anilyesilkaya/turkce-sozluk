@@ -2,6 +2,7 @@
 layout: term
 title: demleyivermek
 slug: demleyivermek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çabucak demlemek

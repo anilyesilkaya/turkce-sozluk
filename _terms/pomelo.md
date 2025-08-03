@@ -2,6 +2,7 @@
 layout: term
 title: pomelo
 slug: pomelo
+letter: P
 lisan: Türkçe
 anlamlar:
 - Turunçgillerden, genellikle Akdeniz’de yetişen, sarı meyvesinin üzeri yeşil kalın kabukla kaplı bir tür ağaç (Citrus maxima)

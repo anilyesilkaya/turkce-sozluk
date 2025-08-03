@@ -2,6 +2,7 @@
 layout: term
 title: oyuna getirmek
 slug: oyuna-getirmek
+letter: O
 lisan: Türkçe
 anlamlar:
 - birini tuzağa düşürmek, aldatmak

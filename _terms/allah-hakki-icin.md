@@ -2,6 +2,7 @@
 layout: term
 title: Allah hakkı için
 slug: allah-hakki-icin
+letter: A
 lisan: Türkçe
 anlamlar:
 - ant içmek veya ant vermek için kullanılan bir söz

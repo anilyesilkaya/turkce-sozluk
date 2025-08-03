@@ -2,6 +2,7 @@
 layout: term
 title: tanıtma
 slug: tanitma
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tanıtmak işi; takdim, prezantasyon

@@ -2,6 +2,7 @@
 layout: term
 title: haberlere çıkmak
 slug: haberlere-cikmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - haber bülteninde yer almak, haberlere konu olmak

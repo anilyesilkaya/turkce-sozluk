@@ -2,6 +2,7 @@
 layout: term
 title: koymak
 slug: koymak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir şeyi bir yere bırakmak, belli bir yere yerleştirmek

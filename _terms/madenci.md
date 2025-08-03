@@ -2,6 +2,7 @@
 layout: term
 title: madenci
 slug: madenci
+letter: M
 lisan: Türkçe
 anlamlar:
 - Maden işleten kimse

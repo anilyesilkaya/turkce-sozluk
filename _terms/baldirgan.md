@@ -2,6 +2,7 @@
 layout: term
 title: baldırgan
 slug: baldirgan
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► baldıran

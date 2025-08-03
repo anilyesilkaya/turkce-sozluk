@@ -2,6 +2,7 @@
 layout: term
 title: sanabilme
 slug: sanabilme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sanabilmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: yeterince
 slug: yeterince
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Gerektiği kadar, istenildiği kadar, yeter sayıda; kararında, olabildiğince

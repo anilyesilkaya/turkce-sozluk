@@ -2,6 +2,7 @@
 layout: term
 title: karaktersizlik
 slug: karaktersizlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karaktersiz olma durumu

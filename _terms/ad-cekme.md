@@ -2,6 +2,7 @@
 layout: term
 title: ad çekme
 slug: ad-cekme
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► kura

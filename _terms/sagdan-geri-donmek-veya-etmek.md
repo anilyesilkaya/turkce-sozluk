@@ -2,6 +2,7 @@
 layout: term
 title: sağdan geri dönmek (veya etmek)
 slug: sagdan-geri-donmek-veya-etmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - geri dönmek, geri dönüp gitmek

@@ -2,6 +2,7 @@
 layout: term
 title: sallama
 slug: sallama
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sallamak işi

@@ -2,6 +2,7 @@
 layout: term
 title: merhametsizleşme
 slug: merhametsizlesme
+letter: M
 lisan: Türkçe
 anlamlar:
 - Merhametsizleşmek durumu

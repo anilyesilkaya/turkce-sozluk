@@ -2,6 +2,7 @@
 layout: term
 title: 'mikroteknoloji '
 slug: mikroteknoloji
+letter: M
 lisan: İngilizce microtechnology
 anlamlar:
 - 1-100 mikron boyutundaki yapıların farklı alanlarda belirli bir amaca hizmet etmesi için tasarlanarak kullanıldığı bilim dalı

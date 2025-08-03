@@ -2,6 +2,7 @@
 layout: term
 title: lap diye
 slug: lap-diye
+letter: L
 lisan: Türkçe
 anlamlar:
 - beklenmedik biçimde, birdenbire

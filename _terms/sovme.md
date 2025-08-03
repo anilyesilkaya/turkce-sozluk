@@ -2,6 +2,7 @@
 layout: term
 title: sövme
 slug: sovme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sövmek işi; küfretme, küfrediş, küfür, şetim

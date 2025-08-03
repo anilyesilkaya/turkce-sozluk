@@ -2,6 +2,7 @@
 layout: term
 title: tanık olmak
 slug: tanik-olmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - bir olayı görmek ve duymak, şahit olmak

@@ -2,6 +2,7 @@
 layout: term
 title: töhmet
 slug: tohmet
+letter: T
 lisan: Arapça tuhmet
 anlamlar:
 - ► suçlama

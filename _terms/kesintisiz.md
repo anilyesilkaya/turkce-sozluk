@@ -2,6 +2,7 @@
 layout: term
 title: kesintisiz
 slug: kesintisiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kesintiye uğramayan, ara vermeyen, sürekli olan; fasılasız, layenkati

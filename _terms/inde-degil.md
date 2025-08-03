@@ -2,6 +2,7 @@
 layout: term
 title: '...-inde değil'
 slug: inde-degil
+letter: .
 lisan: Türkçe
 anlamlar:
 - bir şeyin söylenen niteliğine önem vermemeyi anlatan bir söz

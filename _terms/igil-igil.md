@@ -2,6 +2,7 @@
 layout: term
 title: ığıl ığıl
 slug: igil-igil
+letter: I
 lisan: Türkçe
 anlamlar:
 - Ağır ağır, yavaş yavaş

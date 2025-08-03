@@ -2,6 +2,7 @@
 layout: term
 title: başkalaştırmak
 slug: baskalastirmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başka bir duruma getirmek

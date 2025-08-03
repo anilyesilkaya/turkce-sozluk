@@ -2,6 +2,7 @@
 layout: term
 title: zilli maşa
 slug: zilli-masa
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Uçlarına zil takılmış maşa biçiminde bir çalgı

@@ -2,6 +2,7 @@
 layout: term
 title: şebboy
 slug: sebboy
+letter: Ş
 lisan: Farsça şebbūy
 anlamlar:
 - Turpgillerden, güzel kokulu, dar yapraklı, değişik renkli çiçekleri olan, çok yıllık ve otsu bir süs bitkisi (Cheiranthus cheiri)

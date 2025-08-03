@@ -2,6 +2,7 @@
 layout: term
 title: içi içine sığmamak
 slug: ici-icine-sigmamak
+letter: I
 lisan: Türkçe
 anlamlar:
 - telaş, sabırsızlık, coşkunluk göstermekten kendini alamamak

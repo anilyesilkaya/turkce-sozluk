@@ -2,6 +2,7 @@
 layout: term
 title: üç birlik kuralı
 slug: uc-birlik-kurali
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Klasik tiyatroda yer, zaman ve konu birliğini esas alan kural

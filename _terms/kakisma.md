@@ -2,6 +2,7 @@
 layout: term
 title: kakışma
 slug: kakisma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kakışmak işi

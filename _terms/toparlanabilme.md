@@ -2,6 +2,7 @@
 layout: term
 title: toparlanabilme
 slug: toparlanabilme
+letter: T
 lisan: Türkçe
 anlamlar:
 - Toparlanabilmek işi

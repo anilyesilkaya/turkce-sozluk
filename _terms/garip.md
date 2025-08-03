@@ -2,6 +2,7 @@
 layout: term
 title: garip
 slug: garip
+letter: G
 lisan: Arapça ġarīb
 anlamlar:
 - Kimsesiz, zavallı olan

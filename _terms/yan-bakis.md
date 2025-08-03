@@ -2,6 +2,7 @@
 layout: term
 title: yan bakış
 slug: yan-bakis
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yan gözle bakma

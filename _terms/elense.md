@@ -2,6 +2,7 @@
 layout: term
 title: elense
 slug: elense
+letter: E
 lisan: Türkçe
 anlamlar:
 - Güreşte, kolunu hasmın boynuna getirip başparmağı gırtlağa, dört parmağı da enseye geçirerek hasmı yıkmaya dayalı bir oyun

@@ -2,6 +2,7 @@
 layout: term
 title: sağlanma
 slug: saglanma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sağlanmak işi

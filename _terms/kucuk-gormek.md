@@ -2,6 +2,7 @@
 layout: term
 title: küçük görmek
 slug: kucuk-gormek
+letter: K
 lisan: Türkçe
 anlamlar:
 - küçümsemek

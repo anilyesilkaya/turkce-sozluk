@@ -2,6 +2,7 @@
 layout: term
 title: halkacık
 slug: halkacik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Küçük boyutlardaki halka

@@ -2,6 +2,7 @@
 layout: term
 title: poetik
 slug: poetik
+letter: P
 lisan: Fransızca poétique
 anlamlar:
 - Bir şairin sanat anlayışının açıklandığı metin

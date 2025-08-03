@@ -2,6 +2,7 @@
 layout: term
 title: matbuat
 slug: matbuat
+letter: M
 lisan: Arapça maṭbūʿāt
 anlamlar:
 - ► basın

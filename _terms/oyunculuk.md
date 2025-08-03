@@ -2,6 +2,7 @@
 layout: term
 title: oyunculuk
 slug: oyunculuk
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oyun oynama işi

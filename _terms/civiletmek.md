@@ -2,6 +2,7 @@
 layout: term
 title: çiviletmek
 slug: civiletmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çivi çaktırmak

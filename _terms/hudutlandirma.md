@@ -2,6 +2,7 @@
 layout: term
 title: hudutlandırma
 slug: hudutlandirma
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► sınırlama

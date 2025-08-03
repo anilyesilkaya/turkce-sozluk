@@ -2,6 +2,7 @@
 layout: term
 title: canavar
 slug: canavar
+letter: C
 lisan: Farsça cānāver
 anlamlar:
 - Masallarda sözü geçen yabani, yırtıcı hayvan

@@ -2,6 +2,7 @@
 layout: term
 title: içi ısınmak
 slug: ici-isinmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - hoşlanmak, sevmek

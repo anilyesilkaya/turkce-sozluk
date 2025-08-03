@@ -2,6 +2,7 @@
 layout: term
 title: merak etmek
 slug: merak-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - anlamak veya öğrenmek istemek

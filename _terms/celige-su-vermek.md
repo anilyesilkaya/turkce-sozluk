@@ -2,6 +2,7 @@
 layout: term
 title: çeliğe su vermek
 slug: celige-su-vermek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - çeliği özel bir biçimde hızla soğutarak daha çok sertleşmesini sağlamak

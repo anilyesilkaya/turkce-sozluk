@@ -2,6 +2,7 @@
 layout: term
 title: müessesat
 slug: muessesat
+letter: M
 lisan: Arapça müessesāt
 anlamlar:
 - Kurumlar, müesseseler

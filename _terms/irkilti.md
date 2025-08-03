@@ -2,6 +2,7 @@
 layout: term
 title: irkilti
 slug: irkilti
+letter: I
 lisan: Türkçe
 anlamlar:
 - Ürkerek geri çekilme; irkinti (II)

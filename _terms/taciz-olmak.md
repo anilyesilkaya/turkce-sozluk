@@ -2,6 +2,7 @@
 layout: term
 title: taciz olmak
 slug: taciz-olmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - sıkıntı duymak, rahatsız olmak

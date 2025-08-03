@@ -2,6 +2,7 @@
 layout: term
 title: kumsal
 slug: kumsal
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kumu olan yer

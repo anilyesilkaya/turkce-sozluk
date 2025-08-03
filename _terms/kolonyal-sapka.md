@@ -2,6 +2,7 @@
 layout: term
 title: kolonyal şapka
 slug: kolonyal-sapka
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sıcağı geçirmeyen, içi mantarlı bir şapka türü

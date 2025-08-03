@@ -2,6 +2,7 @@
 layout: term
 title: tırsık
 slug: tirsik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tırsmış olan

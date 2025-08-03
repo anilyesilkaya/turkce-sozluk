@@ -2,6 +2,7 @@
 layout: term
 title: hırtapoz
 slug: hirtapoz
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► zıpır

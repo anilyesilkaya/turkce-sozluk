@@ -2,6 +2,7 @@
 layout: term
 title: tafrafuruş
 slug: tafrafurus
+letter: T
 lisan: Arapça ṭafre + Farsça -furūş
 anlamlar:
 - Böbürlenen, yüksekten atan

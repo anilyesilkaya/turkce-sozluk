@@ -2,6 +2,7 @@
 layout: term
 title: izdiham
 slug: izdiham
+letter: I
 lisan: Arapça izdiḥām
 anlamlar:
 - Aşırı kalabalık

@@ -2,6 +2,7 @@
 layout: term
 title: öyle gelmek
 slug: oyle-gelmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - sanmak, zannetmek

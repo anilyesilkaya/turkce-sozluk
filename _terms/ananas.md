@@ -2,6 +2,7 @@
 layout: term
 title: ananas
 slug: ananas
+letter: A
 lisan: Fransızca ananas
 anlamlar:
 - Ananasgillerden, sıcak ülkelerde yetişen bir ağaç (Ananas sativus)

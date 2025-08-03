@@ -2,6 +2,7 @@
 layout: term
 title: karınca sabrı
 slug: karinca-sabri
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yoğun biçimde gösterilen sabır

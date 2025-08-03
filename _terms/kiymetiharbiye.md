@@ -2,6 +2,7 @@
 layout: term
 title: kıymetiharbiye
 slug: kiymetiharbiye
+letter: K
 lisan: Arapça ḳiymet + ḥarbiyye
 anlamlar:
 - Geçerli olan değer

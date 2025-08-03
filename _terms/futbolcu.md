@@ -2,6 +2,7 @@
 layout: term
 title: futbolcu
 slug: futbolcu
+letter: F
 lisan: Türkçe
 anlamlar:
 - Futbol oynayan kimse; topçu

@@ -2,6 +2,7 @@
 layout: term
 title: yafta
 slug: yafta
+letter: Y
 lisan: Farsça yāfte
 anlamlar:
 - Üzerine asıldığı veya yapıştırıldığı şeylerle ilgili bilgi veren yazılı kâğıt parçası

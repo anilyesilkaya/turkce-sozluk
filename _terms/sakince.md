@@ -2,6 +2,7 @@
 layout: term
 title: sakince
 slug: sakince
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sakin

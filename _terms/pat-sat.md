@@ -2,6 +2,7 @@
 layout: term
 title: pat sat
 slug: pat-sat
+letter: P
 lisan: Türkçe
 anlamlar:
 - Zaman zaman, ara sıra, tek tük

@@ -2,6 +2,7 @@
 layout: term
 title: yedilik
 slug: yedilik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yedisi bir arada, yedi taneden oluşmuş, yedi tane alabilen

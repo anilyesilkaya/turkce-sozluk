@@ -2,6 +2,7 @@
 layout: term
 title: geri tepme
 slug: geri-tepme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Atılan mermi sebebiyle namlu içinde oluşan gazların etkisiyle silahın geriye doğru ani hareketi

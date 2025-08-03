@@ -2,6 +2,7 @@
 layout: term
 title: pislik
 slug: pislik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pis olma durumu; çepel

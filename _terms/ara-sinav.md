@@ -2,6 +2,7 @@
 layout: term
 title: ara sınav
 slug: ara-sinav
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yükseköğretim kurumlarında yarıyıl içinde yapılan sınav; vize, vize sınavı

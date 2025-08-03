@@ -2,6 +2,7 @@
 layout: term
 title: gün günden
 slug: gun-gunden
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► günden güne

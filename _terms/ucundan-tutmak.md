@@ -2,6 +2,7 @@
 layout: term
 title: ucundan tutmak
 slug: ucundan-tutmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - bir şeyle meşgul olmak, katkı sağlamak, yardımcı olmak

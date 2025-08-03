@@ -2,6 +2,7 @@
 layout: term
 title: ızgaralı
 slug: izgarali
+letter: I
 lisan: Türkçe
 anlamlar:
 - Izgarası olan

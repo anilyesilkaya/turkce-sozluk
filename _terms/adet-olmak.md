@@ -2,6 +2,7 @@
 layout: term
 title: âdet olmak
 slug: adet-olmak
+letter: Â
 lisan: Türkçe
 anlamlar:
 - öteden beri yapılır olmak

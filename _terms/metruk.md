@@ -2,6 +2,7 @@
 layout: term
 title: metruk
 slug: metruk
+letter: M
 lisan: Arapça metrūk
 anlamlar:
 - Bırakılmış, terk edilmiş

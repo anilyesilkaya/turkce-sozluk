@@ -2,6 +2,7 @@
 layout: term
 title: avuçlayış
 slug: avuclayis
+letter: A
 lisan: Türkçe
 anlamlar:
 - Avuçlamak işi

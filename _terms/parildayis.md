@@ -2,6 +2,7 @@
 layout: term
 title: parıldayış
 slug: parildayis
+letter: P
 lisan: Türkçe
 anlamlar:
 - Parıldamak işi

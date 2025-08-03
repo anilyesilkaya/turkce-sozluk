@@ -2,6 +2,7 @@
 layout: term
 title: yuvarlanıp gitmek
 slug: yuvarlanip-gitmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - eldeki imkânlarla geçinmek

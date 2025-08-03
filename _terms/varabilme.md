@@ -2,6 +2,7 @@
 layout: term
 title: varabilme
 slug: varabilme
+letter: V
 lisan: Türkçe
 anlamlar:
 - Varabilmek işi

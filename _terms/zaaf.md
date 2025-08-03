@@ -2,6 +2,7 @@
 layout: term
 title: zaaf
 slug: zaaf
+letter: Z
 lisan: Arapça żaʿf
 anlamlar:
 - ► düşkünlük

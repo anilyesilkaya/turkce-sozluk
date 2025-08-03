@@ -2,6 +2,7 @@
 layout: term
 title: yüreği rahatlamak
 slug: yuregi-rahatlamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - üzüntü ve kaygısı azalmak, kalmamak

@@ -2,6 +2,7 @@
 layout: term
 title: badema
 slug: badema
+letter: B
 lisan: Arapça baʿdemā
 anlamlar:
 - ► bundan böyle

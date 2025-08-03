@@ -2,6 +2,7 @@
 layout: term
 title: bilmişlik
 slug: bilmislik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilmiş olma durumu

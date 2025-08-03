@@ -2,6 +2,7 @@
 layout: term
 title: inha
 slug: inha
+letter: I
 lisan: Arapça inhāʾ
 anlamlar:
 - Resmî bir göreve atama veya bir üst aşama için yazılan yazı

@@ -2,6 +2,7 @@
 layout: term
 title: açılış konuşması
 slug: acilis-konusmasi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Herhangi bir kurum, kuruluş, mağaza vb.nin açılması sırasında yapılan konuşma

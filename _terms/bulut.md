@@ -2,6 +2,7 @@
 layout: term
 title: bulut
 slug: bulut
+letter: B
 lisan: Türkçe
 anlamlar:
 - Atmosferdeki su damlacıkları ve buz taneciklerinin görülebilir yoğunluk kazanmasıyla oluşan, biçimleri, yükseklikleri ve yol açtıkları hava olaylarıyla birbirinden ayrılan yığın

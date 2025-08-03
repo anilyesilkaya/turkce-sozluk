@@ -2,6 +2,7 @@
 layout: term
 title: zor bela
 slug: zor-bela
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► güçlükle

@@ -2,6 +2,7 @@
 layout: term
 title: mecruh
 slug: mecruh
+letter: M
 lisan: Arapça mecrūḥ
 anlamlar:
 - ► yaralı

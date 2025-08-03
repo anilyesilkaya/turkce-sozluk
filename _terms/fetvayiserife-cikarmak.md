@@ -2,6 +2,7 @@
 layout: term
 title: fetvayişerife çıkarmak
 slug: fetvayiserife-cikarmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - şeyhülislam fetvası ilan etmek

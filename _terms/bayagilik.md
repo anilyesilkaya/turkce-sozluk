@@ -2,6 +2,7 @@
 layout: term
 title: bayağılık
 slug: bayagilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bayağı olma durumu; sıradanlık, aleladelik

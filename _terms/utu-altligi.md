@@ -2,6 +2,7 @@
 layout: term
 title: ütü altlığı
 slug: utu-altligi
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Ütü yapılırken ütünün altına konulan ateşe dayanıklı veya yanmaz madde

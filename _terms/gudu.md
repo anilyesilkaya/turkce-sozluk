@@ -2,6 +2,7 @@
 layout: term
 title: güdü
 slug: gudu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bilinçli veya bilinçsiz olarak davranışı doğuran, sürekliliğini sağlayan ve ona yön veren herhangi bir güç; saik

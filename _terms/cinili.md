@@ -2,6 +2,7 @@
 layout: term
 title: çinili
 slug: cinili
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çinisi olan, çinilerle bezenmiş olan

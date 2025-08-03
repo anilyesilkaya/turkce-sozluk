@@ -2,6 +2,7 @@
 layout: term
 title: rutin
 slug: rutin
+letter: R
 lisan: Fransızca routine
 anlamlar:
 - Sıradanlık, çeşitlilik göstermeyen, alışılagelmiş düzen içinde yapılan

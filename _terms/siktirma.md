@@ -2,6 +2,7 @@
 layout: term
 title: sıktırma
 slug: siktirma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıktırmak işi

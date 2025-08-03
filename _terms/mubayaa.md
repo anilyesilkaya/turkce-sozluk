@@ -2,6 +2,7 @@
 layout: term
 title: mübayaa
 slug: mubayaa
+letter: M
 lisan: Arapça mubāyaʿa
 anlamlar:
 - ► satın alma

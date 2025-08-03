@@ -2,6 +2,7 @@
 layout: term
 title: eskülabi
 slug: eskulabi
+letter: E
 lisan: Farsça ez + Arapça kullābī
 anlamlar:
 - ► üstü kapalı

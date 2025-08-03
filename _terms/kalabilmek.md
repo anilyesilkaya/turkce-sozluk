@@ -2,6 +2,7 @@
 layout: term
 title: kalabilmek
 slug: kalabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalma ihtimali bulunmak

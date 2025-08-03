@@ -2,6 +2,7 @@
 layout: term
 title: patlayıvermek
 slug: patlayivermek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Aniden patlamak

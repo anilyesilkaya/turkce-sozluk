@@ -2,6 +2,7 @@
 layout: term
 title: kötülenmek
 slug: kotulenmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kötüleme işi yapılmak veya kötüleme işine konu olmak

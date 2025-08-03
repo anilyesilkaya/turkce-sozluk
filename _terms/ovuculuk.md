@@ -2,6 +2,7 @@
 layout: term
 title: övücülük
 slug: ovuculuk
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► övgücülük

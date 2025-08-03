@@ -2,6 +2,7 @@
 layout: term
 title: başı havada
 slug: basi-havada
+letter: B
 lisan: Türkçe
 anlamlar:
 - Sevinçli (kimse)

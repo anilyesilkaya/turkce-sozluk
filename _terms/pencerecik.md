@@ -2,6 +2,7 @@
 layout: term
 title: pencerecik
 slug: pencerecik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Küçük pencere

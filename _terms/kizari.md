@@ -2,6 +2,7 @@
 layout: term
 title: kızarı
 slug: kizari
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kızıllık

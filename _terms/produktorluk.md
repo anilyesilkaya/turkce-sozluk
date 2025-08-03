@@ -2,6 +2,7 @@
 layout: term
 title: prodüktörlük
 slug: produktorluk
+letter: P
 lisan: Türkçe
 anlamlar:
 - Prodüktör olma durumu

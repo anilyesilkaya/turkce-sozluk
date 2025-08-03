@@ -2,6 +2,7 @@
 layout: term
 title: tezkere
 slug: tezkere
+letter: T
 lisan: Arapça teẕkire
 anlamlar:
 - ► pusula (II)

@@ -2,6 +2,7 @@
 layout: term
 title: pompalı tüfek
 slug: pompali-tufek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Havanın sıkıştırılması ve basıncının artmasıyla patlayıcı madde atan silah; pompalı

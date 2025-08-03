@@ -2,6 +2,7 @@
 layout: term
 title: pazarlıksız
 slug: pazarliksiz
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pazarlık yapılmadan

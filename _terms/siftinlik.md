@@ -2,6 +2,7 @@
 layout: term
 title: siftinlik
 slug: siftinlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Adi, bayağı, berbat

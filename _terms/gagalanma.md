@@ -2,6 +2,7 @@
 layout: term
 title: gagalanma
 slug: gagalanma
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gagalanmak işi

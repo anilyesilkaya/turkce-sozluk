@@ -2,6 +2,7 @@
 layout: term
 title: nedense
 slug: nedense
+letter: N
 lisan: Türkçe
 anlamlar:
 - Bilinmeyen, belli olmayan bir sebep dolayısıyla; her nasılsa, her ne hikmetse, her nedense

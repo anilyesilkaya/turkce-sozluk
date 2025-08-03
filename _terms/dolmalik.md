@@ -2,6 +2,7 @@
 layout: term
 title: dolmalık
 slug: dolmalik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dolma yapmaya yarar

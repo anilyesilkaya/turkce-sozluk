@@ -2,6 +2,7 @@
 layout: term
 title: içleniş
 slug: iclenis
+letter: I
 lisan: Türkçe
 anlamlar:
 - İçlenmek işi

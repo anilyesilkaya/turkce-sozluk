@@ -2,6 +2,7 @@
 layout: term
 title: yaprakçıl
 slug: yaprakcil
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaprakla beslenen hayvan

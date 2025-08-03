@@ -2,6 +2,7 @@
 layout: term
 title: solucan gibi
 slug: solucan-gibi
+letter: S
 lisan: Türkçe
 anlamlar:
 - solgun ve zayıf (kimse)

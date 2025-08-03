@@ -2,6 +2,7 @@
 layout: term
 title: iz düşümsel
 slug: iz-dusumsel
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bir düzlem üzerine iz düşürülen biçimlerin bozulmasından kalan (özellikler)

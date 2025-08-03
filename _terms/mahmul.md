@@ -2,6 +2,7 @@
 layout: term
 title: mahmul
 slug: mahmul
+letter: M
 lisan: Arapça maḥmūl
 anlamlar:
 - Yükletilmiş

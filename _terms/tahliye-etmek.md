@@ -2,6 +2,7 @@
 layout: term
 title: tahliye etmek
 slug: tahliye-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - boşaltmak

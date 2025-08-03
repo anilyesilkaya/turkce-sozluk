@@ -2,6 +2,7 @@
 layout: term
 title: avans almak
 slug: avans-almak
+letter: A
 lisan: Türkçe
 anlamlar:
 - öndelik almak

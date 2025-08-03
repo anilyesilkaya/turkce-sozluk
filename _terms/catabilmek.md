@@ -2,6 +2,7 @@
 layout: term
 title: çatabilmek
 slug: catabilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çatma ihtimali veya imkânı bulunmak

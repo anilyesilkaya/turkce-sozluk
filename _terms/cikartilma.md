@@ -2,6 +2,7 @@
 layout: term
 title: çıkartılma
 slug: cikartilma
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıkartılmak işi

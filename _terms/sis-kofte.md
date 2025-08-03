@@ -2,6 +2,7 @@
 layout: term
 title: şiş köfte
 slug: sis-kofte
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şişe geçirilerek hazırlanmış ve pişirilmiş köfte

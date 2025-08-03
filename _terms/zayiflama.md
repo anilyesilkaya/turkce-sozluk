@@ -2,6 +2,7 @@
 layout: term
 title: zayıflama
 slug: zayiflama
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zayıflamak işi

@@ -2,6 +2,7 @@
 layout: term
 title: mikser
 slug: mikser
+letter: M
 lisan: İngilizce mixer
 anlamlar:
 - ► çırpıcı

@@ -2,6 +2,7 @@
 layout: term
 title: yassılama
 slug: yassilama
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yassılamak işi

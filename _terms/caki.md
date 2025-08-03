@@ -2,6 +2,7 @@
 layout: term
 title: çakı
 slug: caki
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Açılıp kapanan bir veya birkaç ağızlı küçük cep bıçağı

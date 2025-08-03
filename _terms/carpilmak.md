@@ -2,6 +2,7 @@
 layout: term
 title: çarpılmak
 slug: carpilmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çarpma işine konu olmak

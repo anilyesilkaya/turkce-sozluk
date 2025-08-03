@@ -2,6 +2,7 @@
 layout: term
 title: taltif etmek
 slug: taltif-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - gönül almak, gönül okşamak

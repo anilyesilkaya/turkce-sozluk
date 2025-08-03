@@ -2,6 +2,7 @@
 layout: term
 title: azamet
 slug: azamet
+letter: A
 lisan: Arapça ʿaẓamet
 anlamlar:
 - ► ululuk

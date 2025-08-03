@@ -2,6 +2,7 @@
 layout: term
 title: saldırış
 slug: saldiris
+letter: S
 lisan: Türkçe
 anlamlar:
 - Saldırmak işi

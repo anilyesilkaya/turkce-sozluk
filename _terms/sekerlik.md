@@ -2,6 +2,7 @@
 layout: term
 title: şekerlik
 slug: sekerlik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şeker konulan kap

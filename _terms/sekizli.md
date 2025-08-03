@@ -2,6 +2,7 @@
 layout: term
 title: sekizli
 slug: sekizli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kendinde sekiz sayısı bulunan

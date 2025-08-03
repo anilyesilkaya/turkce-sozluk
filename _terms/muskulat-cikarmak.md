@@ -2,6 +2,7 @@
 layout: term
 title: müşkülat çıkarmak
 slug: muskulat-cikarmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - yapmakta bulunduğu işi güçleştirecek durumlar yaratmak

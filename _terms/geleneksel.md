@@ -2,6 +2,7 @@
 layout: term
 title: geleneksel
 slug: geleneksel
+letter: G
 lisan: Türkçe
 anlamlar:
 - Geleneğe dayanan, gelenekle ilgili olan; anadan görme, gelenekli, ananevi, tradisyonel

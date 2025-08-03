@@ -2,6 +2,7 @@
 layout: term
 title: taşlık
 slug: taslik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taşı bol, taşlı (yer)

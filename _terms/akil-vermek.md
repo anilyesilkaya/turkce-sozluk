@@ -2,6 +2,7 @@
 layout: term
 title: akıl vermek
 slug: akil-vermek
+letter: A
 lisan: Türkçe
 anlamlar:
 - akıl öğretmek

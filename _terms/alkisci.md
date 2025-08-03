@@ -2,6 +2,7 @@
 layout: term
 title: alkışçı
 slug: alkisci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alkışlayan kimse

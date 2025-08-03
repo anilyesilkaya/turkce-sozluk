@@ -2,6 +2,7 @@
 layout: term
 title: yürekler acısı
 slug: yurekler-acisi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Çok acıklı

@@ -2,6 +2,7 @@
 layout: term
 title: böcekçiller
 slug: bocekciller
+letter: B
 lisan: Türkçe
 anlamlar:
 - Omurgalı hayvanlardan memeliler sınıfına giren, böcek yiyen, karada yaşayan hayvanlar takımı

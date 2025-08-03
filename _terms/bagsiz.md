@@ -2,6 +2,7 @@
 layout: term
 title: bağsız
 slug: bagsiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağı bulunmayan

@@ -2,6 +2,7 @@
 layout: term
 title: peşin hüküm
 slug: pesin-hukum
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► ön yargı

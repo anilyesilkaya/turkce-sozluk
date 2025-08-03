@@ -2,6 +2,7 @@
 layout: term
 title: tasarlama
 slug: tasarlama
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tasarlamak işi

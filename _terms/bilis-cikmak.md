@@ -2,6 +2,7 @@
 layout: term
 title: biliş çıkmak
 slug: bilis-cikmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - tanımak, önceden tanış olmak

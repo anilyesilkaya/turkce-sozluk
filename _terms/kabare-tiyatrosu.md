@@ -2,6 +2,7 @@
 layout: term
 title: kabare tiyatrosu
 slug: kabare-tiyatrosu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Genellikle güncel konuları iğneleyici, yerici, taşlayıcı biçimde ele alan skeçlerin oynandığı, monologların, şarkıların ve şiirlerin söylendiği küçük tiyatro

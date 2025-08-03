@@ -2,6 +2,7 @@
 layout: term
 title: taksim
 slug: taksim
+letter: T
 lisan: Arapça taḳsīm
 anlamlar:
 - ► paylaştırma

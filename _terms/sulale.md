@@ -2,6 +2,7 @@
 layout: term
 title: sülale
 slug: sulale
+letter: S
 lisan: Arapça sulāle
 anlamlar:
 - Soy, hısım akraba

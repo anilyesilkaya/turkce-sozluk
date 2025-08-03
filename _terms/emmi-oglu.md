@@ -2,6 +2,7 @@
 layout: term
 title: emmi oğlu
 slug: emmi-oglu
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► amca oğlu

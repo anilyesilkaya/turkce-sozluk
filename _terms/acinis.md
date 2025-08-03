@@ -2,6 +2,7 @@
 layout: term
 title: acınış
 slug: acinis
+letter: A
 lisan: Türkçe
 anlamlar:
 - Acınmak işi

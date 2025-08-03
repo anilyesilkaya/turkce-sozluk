@@ -2,6 +2,7 @@
 layout: term
 title: infaz
 slug: infaz
+letter: I
 lisan: Arapça infāẕ
 anlamlar:
 - Bir kararı, bir yargıyı yerine getirme; uygulama, yürütüm

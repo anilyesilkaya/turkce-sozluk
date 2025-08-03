@@ -2,6 +2,7 @@
 layout: term
 title: tekmillemek
 slug: tekmillemek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tamamlamak, bütünlemek, bitirmek

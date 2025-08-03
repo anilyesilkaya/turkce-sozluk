@@ -2,6 +2,7 @@
 layout: term
 title: belediye encümeni
 slug: belediye-encumeni
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belediye kanununda belirtilmiş görevleri yerine getiren, özel kanunlarla belediye meclisi tarafından verilen görevleri, belediye meclisi toplu bulunmadığı zaman tetkik eden ve karara bağlayan organ

@@ -2,6 +2,7 @@
 layout: term
 title: hidrostatik
 slug: hidrostatik
+letter: H
 lisan: Fransızca hydrostatique
 anlamlar:
 - Sıvıların dengesiyle ilgili olan

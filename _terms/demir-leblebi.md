@@ -2,6 +2,7 @@
 layout: term
 title: demir leblebi
 slug: demir-leblebi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Başa çıkılması güç kimse

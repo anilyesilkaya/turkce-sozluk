@@ -2,6 +2,7 @@
 layout: term
 title: tekelci
 slug: tekelci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tekel kuran ve bu tekeli kabul ettiren kimse; inhisarcı

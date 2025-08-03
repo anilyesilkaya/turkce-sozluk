@@ -2,6 +2,7 @@
 layout: term
 title: sıyrıntı
 slug: siyrinti
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kapta kalan yemek, yemek artığı

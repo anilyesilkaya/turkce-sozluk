@@ -2,6 +2,7 @@
 layout: term
 title: abazanlaşma
 slug: abazanlasma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Abazanlaşmak durumu

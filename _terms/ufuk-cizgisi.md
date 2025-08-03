@@ -2,6 +2,7 @@
 layout: term
 title: ufuk çizgisi
 slug: ufuk-cizgisi
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ufkun geçen yatay düzlemle kesiştiği çizgi; ufuk hattı

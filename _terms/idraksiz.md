@@ -2,6 +2,7 @@
 layout: term
 title: idraksiz
 slug: idraksiz
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► anlayışsız

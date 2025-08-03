@@ -2,6 +2,7 @@
 layout: term
 title: kartopu
 slug: kartopu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Hanımeligillerden, birçok türü süs bitkisi olarak yetiştirilen, zeytinimsi, meyvemsi, kırmızı renkte bir ağaççık (Viburnum)

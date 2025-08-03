@@ -2,6 +2,7 @@
 layout: term
 title: içecek
 slug: icecek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Soğuk ve sıcak olarak içilebilen, su, çay, meşrubat vb. içeceklerin tümü

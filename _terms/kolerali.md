@@ -2,6 +2,7 @@
 layout: term
 title: koleralı
 slug: kolerali
+letter: K
 lisan: Türkçe
 anlamlar:
 - Koleraya tutulmuş

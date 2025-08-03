@@ -2,6 +2,7 @@
 layout: term
 title: katıltmak
 slug: katiltmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Katılacak kadar güldürmek veya ağlatmak

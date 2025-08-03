@@ -2,6 +2,7 @@
 layout: term
 title: atışabilmek
 slug: atisabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Atışma ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: şahinci
 slug: sahinci
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Avcı şahin yetiştiren ve avda kullanan kimse

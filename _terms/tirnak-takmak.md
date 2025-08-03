@@ -2,6 +2,7 @@
 layout: term
 title: tırnak takmak
 slug: tirnak-takmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - kötülük yapmak için bahane aramak

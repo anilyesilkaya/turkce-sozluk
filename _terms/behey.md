@@ -2,6 +2,7 @@
 layout: term
 title: behey
 slug: behey
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çıkışma bildirmek için kullanılan bir söz

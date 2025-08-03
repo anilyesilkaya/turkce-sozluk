@@ -2,6 +2,7 @@
 layout: term
 title: şarlamak
 slug: sarlamak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► şarıldamak

@@ -2,6 +2,7 @@
 layout: term
 title: zeminli
 slug: zeminli
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zemini olan

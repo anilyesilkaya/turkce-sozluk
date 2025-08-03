@@ -2,6 +2,7 @@
 layout: term
 title: endamlı
 slug: endamli
+letter: E
 lisan: Türkçe
 anlamlar:
 - Boyu uzun olan

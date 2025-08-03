@@ -2,6 +2,7 @@
 layout: term
 title: gün doğusu
 slug: gun-dogusu
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► doğu

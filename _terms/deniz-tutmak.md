@@ -2,6 +2,7 @@
 layout: term
 title: deniz tutmak
 slug: deniz-tutmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - deniz taşıtlarında sallantıdan etkilenmek

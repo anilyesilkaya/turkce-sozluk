@@ -2,6 +2,7 @@
 layout: term
 title: cezasızlık
 slug: cezasizlik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cezasız olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: aysız
 slug: aysiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ay ışığı olmayan (gökyüzü, gece); kamersiz

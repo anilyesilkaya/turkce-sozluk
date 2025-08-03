@@ -2,6 +2,7 @@
 layout: term
 title: abartısız
 slug: abartisiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Olduğu gibi gösterilen; abartmasız, mübalağasız

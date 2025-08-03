@@ -2,6 +2,7 @@
 layout: term
 title: cırboğa
 slug: cirboga
+letter: C
 lisan: Türkçe
 anlamlar:
 - Asya ve Kuzey Afrika'da yaşayan, fareye benzeyen, ön ayakları kısa, arka ayakları uzun ve ince, tüyleri uzun, yumuşak ve ipeksi olan kemirgen (Dipus Caegyptius)

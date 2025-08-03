@@ -2,6 +2,7 @@
 layout: term
 title: tıbbiyeli
 slug: tibbiyeli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Doktor yetiştiren fakültede okuyan öğrenci

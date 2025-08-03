@@ -2,6 +2,7 @@
 layout: term
 title: giyim kuşam
 slug: giyim-kusam
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► üst baş

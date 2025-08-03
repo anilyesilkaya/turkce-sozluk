@@ -2,6 +2,7 @@
 layout: term
 title: damatlık
 slug: damatlik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Damat olma durumu; güveyilik

@@ -2,6 +2,7 @@
 layout: term
 title: termoelektrik maşa
 slug: termoelektrik-masa
+letter: T
 lisan: Türkçe
 anlamlar:
 - Çok küçük nesnelerin sıcaklığını ölçmekte kullanılan, seri olarak bağlı iki elemandan oluşan maşa

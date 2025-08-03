@@ -2,6 +2,7 @@
 layout: term
 title: sapsarı kesilmek (veya olmak)
 slug: sapsari-kesilmek-veya-olmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - çok sararmak

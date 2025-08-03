@@ -2,6 +2,7 @@
 layout: term
 title: oymacılık
 slug: oymacilik
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oyma yapma sanatı

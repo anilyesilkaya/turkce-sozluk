@@ -2,6 +2,7 @@
 layout: term
 title: entrikacılık
 slug: entrikacilik
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► düzenbazlık

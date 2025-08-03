@@ -2,6 +2,7 @@
 layout: term
 title: çıtlık
 slug: citlik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çitlembik

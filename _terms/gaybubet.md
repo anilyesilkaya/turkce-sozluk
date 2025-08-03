@@ -2,6 +2,7 @@
 layout: term
 title: gaybubet
 slug: gaybubet
+letter: G
 lisan: Arapça ġaybūbet
 anlamlar:
 - ► yokluk

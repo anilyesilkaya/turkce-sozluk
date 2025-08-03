@@ -2,6 +2,7 @@
 layout: term
 title: hıltar
 slug: hiltar
+letter: H
 lisan: Türkçe
 anlamlar:
 - Davar ve sığırların boyunlarına takılan ip veya kayış

@@ -2,6 +2,7 @@
 layout: term
 title: canıgönülden
 slug: canigonulden
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► içtenlikle

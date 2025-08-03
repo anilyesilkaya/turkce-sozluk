@@ -2,6 +2,7 @@
 layout: term
 title: matla
 slug: matla
+letter: M
 lisan: Arapça maṭlaʿ
 anlamlar:
 - Gök cisimlerinin doğması

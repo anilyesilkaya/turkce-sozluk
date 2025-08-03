@@ -2,6 +2,7 @@
 layout: term
 title: salik olmak
 slug: salik-olmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - bir yola girmek

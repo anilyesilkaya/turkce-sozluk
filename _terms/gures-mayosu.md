@@ -2,6 +2,7 @@
 layout: term
 title: güreş mayosu
 slug: gures-mayosu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güreşçilerin güreşirken giydiği özel mayo

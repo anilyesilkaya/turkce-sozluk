@@ -2,6 +2,7 @@
 layout: term
 title: plaza
 slug: plaza
+letter: P
 lisan: İspanyolca plaza
 anlamlar:
 - ► iş merkezi

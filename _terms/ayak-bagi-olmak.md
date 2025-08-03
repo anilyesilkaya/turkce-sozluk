@@ -2,6 +2,7 @@
 layout: term
 title: ayak bağı olmak
 slug: ayak-bagi-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir yere gidilmesine veya bir işin yapılmasına engel olmak

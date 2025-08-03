@@ -2,6 +2,7 @@
 layout: term
 title: mesail
 slug: mesail
+letter: M
 lisan: Arapça mesāʾil
 anlamlar:
 - Sorunlar

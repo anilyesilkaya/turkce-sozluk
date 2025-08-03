@@ -2,6 +2,7 @@
 layout: term
 title: psikolojik danışmanlık
 slug: psikolojik-danismanlik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Psikolojik danışmanın yaptığı iş

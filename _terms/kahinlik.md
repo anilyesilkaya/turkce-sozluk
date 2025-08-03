@@ -2,6 +2,7 @@
 layout: term
 title: kâhinlik
 slug: kahinlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kehanet

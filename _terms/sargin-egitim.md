@@ -2,6 +2,7 @@
 layout: term
 title: sargın eğitim
 slug: sargin-egitim
+letter: S
 lisan: Türkçe
 anlamlar:
 - Örgün ve yaygın eğitim dışında, bireyin hayat boyu süren bilgi, beceri ve yetkinlik kazanımı; informel eğitim

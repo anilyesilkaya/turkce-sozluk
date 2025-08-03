@@ -2,6 +2,7 @@
 layout: term
 title: ayna
 slug: ayna
+letter: A
 lisan: Farsça āyīne
 anlamlar:
 - Işığı yansıtan, varlıkların görüntüsünü veren, cilalı ve sırlı cam; gözgü, mirat

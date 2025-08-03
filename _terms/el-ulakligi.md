@@ -2,6 +2,7 @@
 layout: term
 title: el ulaklığı
 slug: el-ulakligi
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► yamaklık

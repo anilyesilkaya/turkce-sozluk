@@ -2,6 +2,7 @@
 layout: term
 title: baş ucu
 slug: bas-ucu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Yatılan bir yerin baş konulan yönü veya yakını

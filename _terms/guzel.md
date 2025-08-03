@@ -2,6 +2,7 @@
 layout: term
 title: güzel
 slug: guzel
+letter: G
 lisan: Türkçe
 anlamlar:
 - Göze ve kulağa hoş gelen, hayranlık uyandıran, çirkin karşıtı

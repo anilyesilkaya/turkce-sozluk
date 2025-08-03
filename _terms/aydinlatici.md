@@ -2,6 +2,7 @@
 layout: term
 title: aydınlatıcı
 slug: aydinlatici
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aydınlatma işini yapan

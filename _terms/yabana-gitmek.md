@@ -2,6 +2,7 @@
 layout: term
 title: yabana gitmek
 slug: yabana-gitmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - tanınmayan, bilinmeyen biriyle, bir yabancıyla evlendirilmek

@@ -2,6 +2,7 @@
 layout: term
 title: saçyıldızı
 slug: sacyildizi
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► denizlalesi

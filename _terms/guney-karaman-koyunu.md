@@ -2,6 +2,7 @@
 layout: term
 title: güney karaman koyunu
 slug: guney-karaman-koyunu
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► güney karamanı

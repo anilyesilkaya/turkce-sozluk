@@ -2,6 +2,7 @@
 layout: term
 title: sütreleme
 slug: sutreleme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sütrelemek işi

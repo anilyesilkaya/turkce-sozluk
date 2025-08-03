@@ -2,6 +2,7 @@
 layout: term
 title: adayavrusu
 slug: adayavrusu
+letter: A
 lisan: Türkçe
 anlamlar:
 - İki veya üç çifte kürekli küçük balıkçı teknesi

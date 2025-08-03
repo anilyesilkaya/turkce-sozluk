@@ -2,6 +2,7 @@
 layout: term
 title: oyunbazlık
 slug: oyunbazlik
+letter: O
 lisan: Türkçe
 anlamlar:
 - Düzencilik, hilecilik

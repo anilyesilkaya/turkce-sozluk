@@ -2,6 +2,7 @@
 layout: term
 title: merhale
 slug: merhale
+letter: M
 lisan: Arapça merḥale
 anlamlar:
 - ► evre

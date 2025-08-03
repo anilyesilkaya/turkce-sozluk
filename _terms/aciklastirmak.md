@@ -2,6 +2,7 @@
 layout: term
 title: açıklaştırmak
 slug: aciklastirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Açık duruma getirmek

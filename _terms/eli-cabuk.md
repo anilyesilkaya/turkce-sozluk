@@ -2,6 +2,7 @@
 layout: term
 title: eli çabuk
 slug: eli-cabuk
+letter: E
 lisan: Türkçe
 anlamlar:
 - Çabuk iş gören, hamarat olan (kimse)

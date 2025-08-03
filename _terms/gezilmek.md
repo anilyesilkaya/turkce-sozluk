@@ -2,6 +2,7 @@
 layout: term
 title: gezilmek
 slug: gezilmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gezme işi yapılmak, dolaşılmak

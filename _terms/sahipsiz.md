@@ -2,6 +2,7 @@
 layout: term
 title: sahipsiz
 slug: sahipsiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kimsenin malı olmayan; iyesiz

@@ -2,6 +2,7 @@
 layout: term
 title: gözaltına almak
 slug: gozaltina-almak
+letter: G
 lisan: Türkçe
 anlamlar:
 - güvenlik kuvvetleri birini belli bir süre, belli bir yerde tutmak, nezarete almak

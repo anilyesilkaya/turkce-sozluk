@@ -2,6 +2,7 @@
 layout: term
 title: çatır çatır söylemek
 slug: catir-catir-soylemek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - hiç çekinmeden konuşmak

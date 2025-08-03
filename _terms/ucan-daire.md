@@ -2,6 +2,7 @@
 layout: term
 title: uçan daire
 slug: ucan-daire
+letter: U
 lisan: Türkçe
 anlamlar:
 - Bilimsel bir açıklaması olmadığı ve genellikle dünya dışı yaşam taşıdığı iddia edilen, uçan nesne; ufo

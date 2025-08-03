@@ -2,6 +2,7 @@
 layout: term
 title: getirmek
 slug: getirmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gelmesini sağlamak

@@ -2,6 +2,7 @@
 layout: term
 title: ezilmiş
 slug: ezilmis
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ezik duruma gelmiş

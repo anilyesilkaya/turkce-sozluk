@@ -2,6 +2,7 @@
 layout: term
 title: dazlak
 slug: dazlak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Başında saçı olmayan (kimse, baş); daz

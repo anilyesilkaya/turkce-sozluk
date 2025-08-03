@@ -2,6 +2,7 @@
 layout: term
 title: ceket
 slug: ceket
+letter: C
 lisan: Fransızca jaquette
 anlamlar:
 - Erkeklerin ve kadınların giydiği, genellikle önden düğmeli, kalçayı örten, kollu üst giysisi

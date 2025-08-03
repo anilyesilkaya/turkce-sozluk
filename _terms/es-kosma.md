@@ -2,6 +2,7 @@
 layout: term
 title: eş koşma
 slug: es-kosma
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► şirk

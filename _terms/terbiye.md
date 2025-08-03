@@ -2,6 +2,7 @@
 layout: term
 title: terbiye
 slug: terbiye
+letter: T
 lisan: Türkçe
 anlamlar:
 - Araba hayvanlarının dizginleri

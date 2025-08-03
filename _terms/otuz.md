@@ -2,6 +2,7 @@
 layout: term
 title: otuz
 slug: otuz
+letter: O
 lisan: Türkçe
 anlamlar:
 - Yirmi dokuzdan sonra gelen sayının adı

@@ -2,6 +2,7 @@
 layout: term
 title: ağlatma
 slug: aglatma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağlatmak işi

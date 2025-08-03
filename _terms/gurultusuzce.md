@@ -2,6 +2,7 @@
 layout: term
 title: gürültüsüzce
 slug: gurultusuzce
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gürültüsüz bir biçimde

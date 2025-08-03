@@ -2,6 +2,7 @@
 layout: term
 title: sağ
 slug: sag
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sağlam, esen

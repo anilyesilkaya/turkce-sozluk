@@ -2,6 +2,7 @@
 layout: term
 title: başarabilme
 slug: basarabilme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başarabilmek işi

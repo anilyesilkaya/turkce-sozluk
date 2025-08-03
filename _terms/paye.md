@@ -2,6 +2,7 @@
 layout: term
 title: paye
 slug: paye
+letter: P
 lisan: Farsça pāye
 anlamlar:
 - ► rütbe

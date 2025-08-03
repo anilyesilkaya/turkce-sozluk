@@ -2,6 +2,7 @@
 layout: term
 title: kesici
 slug: kesici
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kesme işini yapan kimse

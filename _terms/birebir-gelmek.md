@@ -2,6 +2,7 @@
 layout: term
 title: birebir gelmek
 slug: birebir-gelmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - etkisini hemen ve kesin olarak göstermek

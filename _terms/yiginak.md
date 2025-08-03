@@ -2,6 +2,7 @@
 layout: term
 title: yığınak
 slug: yiginak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir şeyin biriktiği yer

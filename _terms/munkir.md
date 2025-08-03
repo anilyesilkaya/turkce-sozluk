@@ -2,6 +2,7 @@
 layout: term
 title: münkir
 slug: munkir
+letter: M
 lisan: Arapça munkir
 anlamlar:
 - İnkâr eden, kabul etmeyen

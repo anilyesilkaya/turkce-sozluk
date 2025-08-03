@@ -2,6 +2,7 @@
 layout: term
 title: ikametgâh senedi
 slug: ikametgah-senedi
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► yerleşim belgesi

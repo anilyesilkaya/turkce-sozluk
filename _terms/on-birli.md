@@ -2,6 +2,7 @@
 layout: term
 title: on birli
 slug: on-birli
+letter: O
 lisan: Türkçe
 anlamlar:
 - Dizeleri on bir heceli şiir

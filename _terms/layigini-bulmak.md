@@ -2,6 +2,7 @@
 layout: term
 title: layığını bulmak
 slug: layigini-bulmak
+letter: L
 lisan: Türkçe
 anlamlar:
 - dengini, yaraşır eşini bulmak

@@ -2,6 +2,7 @@
 layout: term
 title: vefa
 slug: vefa
+letter: V
 lisan: Arapça vefāʾ
 anlamlar:
 - Sevgiyi sürdürme, sevgi, dostluk bağlılığı

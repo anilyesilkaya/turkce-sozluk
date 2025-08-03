@@ -2,6 +2,7 @@
 layout: term
 title: limoni
 slug: limoni
+letter: L
 lisan: Farsça līmūn + -î
 anlamlar:
 - ► limon rengi

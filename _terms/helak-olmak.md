@@ -2,6 +2,7 @@
 layout: term
 title: helak olmak
 slug: helak-olmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - yok olmak

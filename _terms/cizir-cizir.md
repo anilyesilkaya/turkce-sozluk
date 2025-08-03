@@ -2,6 +2,7 @@
 layout: term
 title: cızır cızır
 slug: cizir-cizir
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cızır sesi çıkararak (pişmek, kızarmak vb.)

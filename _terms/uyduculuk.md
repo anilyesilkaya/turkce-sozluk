@@ -2,6 +2,7 @@
 layout: term
 title: uyduculuk
 slug: uyduculuk
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ülkesinin bir başka ülkenin uydusu olmasını destekleme durumu

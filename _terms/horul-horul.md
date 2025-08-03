@@ -2,6 +2,7 @@
 layout: term
 title: horul horul
 slug: horul-horul
+letter: H
 lisan: Türkçe
 anlamlar:
 - '"Horlama" sesi çıkararak'

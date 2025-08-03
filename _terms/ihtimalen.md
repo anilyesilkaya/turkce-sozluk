@@ -2,6 +2,7 @@
 layout: term
 title: ihtimalen
 slug: ihtimalen
+letter: I
 lisan: Arapça iḫtimālen
 anlamlar:
 - ► muhtemelen

@@ -2,6 +2,7 @@
 layout: term
 title: çoktan seçmeli
 slug: coktan-secmeli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Doğru cevabın aralarından bulunması için birden fazla cevap seçeneği bulunan

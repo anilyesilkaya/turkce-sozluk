@@ -2,6 +2,7 @@
 layout: term
 title: çiviyukarı
 slug: civiyukari
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Yağlı güreşte hasmı ayaklarından yakalayıp tepesi üstü diktikten sonra sırtını yere getirerek yenme biçimi

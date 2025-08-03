@@ -2,6 +2,7 @@
 layout: term
 title: beğeniş
 slug: begenis
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beğenmek işi veya durumu

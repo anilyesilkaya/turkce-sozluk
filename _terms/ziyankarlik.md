@@ -2,6 +2,7 @@
 layout: term
 title: ziyankârlık
 slug: ziyankarlik
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Ziyankâr olma durumu

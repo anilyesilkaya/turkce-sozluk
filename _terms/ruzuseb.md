@@ -2,6 +2,7 @@
 layout: term
 title: ruzuşeb
 slug: ruzuseb
+letter: R
 lisan: Farsça rūz + şeb
 anlamlar:
 - Gece gündüz

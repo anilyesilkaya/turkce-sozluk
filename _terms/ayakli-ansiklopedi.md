@@ -2,6 +2,7 @@
 layout: term
 title: ayaklı ansiklopedi
 slug: ayakli-ansiklopedi
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► ayaklı kütüphane

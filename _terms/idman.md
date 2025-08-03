@@ -2,6 +2,7 @@
 layout: term
 title: idman
 slug: idman
+letter: I
 lisan: Arapça idmān
 anlamlar:
 - Vücudun gücünü ve dayanıklılığını artırmak, taktik çalışmaları yapmak, maçlara hazırlanmak için yapılan uygulama; çalışım, hazırlık çalışması, antrenman

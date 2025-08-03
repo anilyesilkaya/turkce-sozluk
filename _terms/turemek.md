@@ -2,6 +2,7 @@
 layout: term
 title: türemek
 slug: turemek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Oluşmak, ortaya çıkmak, meydana çıkmak; gelmek

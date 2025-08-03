@@ -2,6 +2,7 @@
 layout: term
 title: çoluk çocuğun maskarası olmak
 slug: coluk-cocugun-maskarasi-olmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - çocuklara bile gücü yetmemek, sözü geçmemek

@@ -2,6 +2,7 @@
 layout: term
 title: ben
 slug: ben
+letter: B
 lisan: Türkçe
 anlamlar:
 - Teklik birinci kişiyi gösteren söz

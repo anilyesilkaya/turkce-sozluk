@@ -2,6 +2,7 @@
 layout: term
 title: şakasız
 slug: sakasiz
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şaka yapmaksızın, ciddi olarak

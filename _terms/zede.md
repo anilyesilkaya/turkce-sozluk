@@ -2,6 +2,7 @@
 layout: term
 title: zede
 slug: zede
+letter: Z
 lisan: Farsça zede
 anlamlar:
 - Vurma, çarpma, düşme sonunda oluşan yara veya ezilme

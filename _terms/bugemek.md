@@ -2,6 +2,7 @@
 layout: term
 title: büğemek
 slug: bugemek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Önüne bent yaparak suyu toplamak

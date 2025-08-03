@@ -2,6 +2,7 @@
 layout: term
 title: görmezlikten gelmek
 slug: gormezlikten-gelmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - görmemiş gibi davranmak

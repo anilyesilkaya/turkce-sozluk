@@ -2,6 +2,7 @@
 layout: term
 title: '... kisvesi altında'
 slug: kisvesi-altinda
+letter: .
 lisan: Türkçe
 anlamlar:
 - '"herhangi bir nitelikte veya biçimde" anlamında kullanılan bir söz'

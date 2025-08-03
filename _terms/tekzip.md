@@ -2,6 +2,7 @@
 layout: term
 title: tekzip
 slug: tekzip
+letter: T
 lisan: Arapça tekẕīb
 anlamlar:
 - ► yalanlama

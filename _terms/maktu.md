@@ -2,6 +2,7 @@
 layout: term
 title: maktu
 slug: maktu
+letter: M
 lisan: Arapça maḳṭūʿ
 anlamlar:
 - Kesilmiş

@@ -2,6 +2,7 @@
 layout: term
 title: tutuşturmak
 slug: tutusturmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tutuşmalarını veya tutuşmasını sağlamak

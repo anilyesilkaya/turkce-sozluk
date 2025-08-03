@@ -2,6 +2,7 @@
 layout: term
 title: evliya
 slug: evliya
+letter: E
 lisan: Arapça evliyā
 anlamlar:
 - ► ermiş

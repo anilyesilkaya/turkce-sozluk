@@ -2,6 +2,7 @@
 layout: term
 title: serin
 slug: serin
+letter: S
 lisan: Türkçe
 anlamlar:
 - Az soğuk, ılık ile soğuk arası

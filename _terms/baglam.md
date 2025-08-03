@@ -2,6 +2,7 @@
 layout: term
 title: bağlam
 slug: baglam
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► demet

@@ -2,6 +2,7 @@
 layout: term
 title: manyetize olmak
 slug: manyetize-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - manyetizma ile etkilenmek

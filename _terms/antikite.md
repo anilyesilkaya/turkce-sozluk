@@ -2,6 +2,7 @@
 layout: term
 title: antikite
 slug: antikite
+letter: A
 lisan: Fransızca antiquité
 anlamlar:
 - ► eskilik

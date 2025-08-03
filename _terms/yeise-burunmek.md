@@ -2,6 +2,7 @@
 layout: term
 title: yeise bürünmek
 slug: yeise-burunmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - umutsuz, üzüntülü olmak

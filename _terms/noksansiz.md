@@ -2,6 +2,7 @@
 layout: term
 title: noksansız
 slug: noksansiz
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► eksiksiz

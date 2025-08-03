@@ -2,6 +2,7 @@
 layout: term
 title: merkez üs
 slug: merkez-us
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► deprem ortası

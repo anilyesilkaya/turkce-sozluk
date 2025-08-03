@@ -2,6 +2,7 @@
 layout: term
 title: ablak
 slug: ablak
+letter: A
 lisan: Arapça eblaḳ
 anlamlar:
 - Yayvan ve dolgun (yüz)

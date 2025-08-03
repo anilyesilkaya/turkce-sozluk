@@ -2,6 +2,7 @@
 layout: term
 title: hışıltılı
 slug: hisiltili
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hışıltısı olan (ses)

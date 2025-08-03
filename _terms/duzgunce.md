@@ -2,6 +2,7 @@
 layout: term
 title: düzgünce
 slug: duzgunce
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düzgün bir biçimde

@@ -2,6 +2,7 @@
 layout: term
 title: Hint cevizi
 slug: hint-cevizi
+letter: H
 lisan: Türkçe
 anlamlar:
 - İki çeneklilerden, sıcak iklimlerde yetişen, portakal ağacına benzeyen bir tür tropik ağaç; küçük Hindistan cevizi, muskat (Myristica fragrans)

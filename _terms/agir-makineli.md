@@ -2,6 +2,7 @@
 layout: term
 title: ağır makineli
 slug: agir-makineli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kundak üzerine oturtulmuş, mermisi özel boyutlarda olan, etkili ateş gücüne sahip tüfek veya top

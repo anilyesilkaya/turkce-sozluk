@@ -2,6 +2,7 @@
 layout: term
 title: liste dışı
 slug: liste-disi
+letter: L
 lisan: Türkçe
 anlamlar:
 - Herhangi bir seçimde listeye girememiş olan kimse veya şey

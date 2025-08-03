@@ -2,6 +2,7 @@
 layout: term
 title: otuzarlı
 slug: otuzarli
+letter: O
 lisan: Türkçe
 anlamlar:
 - Otuzar otuzar sıralanmış

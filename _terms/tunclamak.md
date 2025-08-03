@@ -2,6 +2,7 @@
 layout: term
 title: tunçlamak
 slug: tunclamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tunç durumuna getirmek

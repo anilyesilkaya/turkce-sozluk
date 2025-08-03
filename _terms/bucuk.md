@@ -2,6 +2,7 @@
 layout: term
 title: buçuk
 slug: bucuk
+letter: B
 lisan: Türkçe
 anlamlar:
 - '... ve yarım'

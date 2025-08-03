@@ -2,6 +2,7 @@
 layout: term
 title: yakalık
 slug: yakalik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaka yapılmaya uygun olan şey

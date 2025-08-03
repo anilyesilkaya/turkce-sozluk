@@ -2,6 +2,7 @@
 layout: term
 title: Kırgızca
 slug: kirgizca
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► Kırgız Türkçesi

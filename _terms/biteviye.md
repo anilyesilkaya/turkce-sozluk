@@ -2,6 +2,7 @@
 layout: term
 title: biteviye
 slug: biteviye
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► tekdüze

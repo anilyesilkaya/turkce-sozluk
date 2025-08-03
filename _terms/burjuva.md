@@ -2,6 +2,7 @@
 layout: term
 title: burjuva
 slug: burjuva
+letter: B
 lisan: Fransızca bourgeois
 anlamlar:
 - Orta sınıftan olan; kent soylu

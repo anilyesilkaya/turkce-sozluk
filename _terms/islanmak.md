@@ -2,6 +2,7 @@
 layout: term
 title: ıslanmak
 slug: islanmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - Islak duruma gelmek

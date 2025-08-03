@@ -2,6 +2,7 @@
 layout: term
 title: merkeze alınmak
 slug: merkeze-alinmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - önem kazanmak, diğerlerine göre öncelikli duruma gelmek

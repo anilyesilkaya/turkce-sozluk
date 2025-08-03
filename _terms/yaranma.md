@@ -2,6 +2,7 @@
 layout: term
 title: yaranma
 slug: yaranma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaranmak işi

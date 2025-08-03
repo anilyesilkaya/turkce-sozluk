@@ -2,6 +2,7 @@
 layout: term
 title: kabir suali
 slug: kabir-suali
+letter: K
 lisan: Türkçe
 anlamlar:
 - İslam inancına göre öldükten sonra mezarda sorulan soru

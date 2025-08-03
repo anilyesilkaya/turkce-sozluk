@@ -2,6 +2,7 @@
 layout: term
 title: habaset
 slug: habaset
+letter: H
 lisan: Arapça ḫabās̱et
 anlamlar:
 - ► kötülük

@@ -2,6 +2,7 @@
 layout: term
 title: zikretme
 slug: zikretme
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zikretmek işi

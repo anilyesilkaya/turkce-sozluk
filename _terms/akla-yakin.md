@@ -2,6 +2,7 @@
 layout: term
 title: akla yakın
 slug: akla-yakin
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aklın benimseyebileceği, aklın kabul edebileceği nitelikte olan

@@ -2,6 +2,7 @@
 layout: term
 title: başından savmak
 slug: basindan-savmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir istekte bulunanı sözde bir sebeple uzaklaştırmak

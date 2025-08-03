@@ -2,6 +2,7 @@
 layout: term
 title: aramızdan ayrılmak
 slug: aramizdan-ayrilmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - vefat etmek

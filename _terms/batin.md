@@ -2,6 +2,7 @@
 layout: term
 title: bâtın
 slug: batin
+letter: B
 lisan: Arapça bāṭin
 anlamlar:
 - ► içyüz

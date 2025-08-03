@@ -2,6 +2,7 @@
 layout: term
 title: manen
 slug: manen
+letter: M
 lisan: Arapça maʿnen
 anlamlar:
 - Kişinin iç dünyası yönünden, manevi bakımdan, maddeten karşıtı

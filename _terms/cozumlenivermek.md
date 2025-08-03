@@ -2,6 +2,7 @@
 layout: term
 title: çözümlenivermek
 slug: cozumlenivermek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çabucak çözümlenmek

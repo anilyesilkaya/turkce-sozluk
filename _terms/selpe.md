@@ -2,6 +2,7 @@
 layout: term
 title: şelpe
 slug: selpe
+letter: Ş
 lisan: Farsça şelpe
 anlamlar:
 - Mızrap kullanmadan parmak uçlarıyla perdelere vurarak bağlama çalma tekniği

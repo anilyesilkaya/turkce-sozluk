@@ -2,6 +2,7 @@
 layout: term
 title: teklifli
 slug: teklifli
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► resmî

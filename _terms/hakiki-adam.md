@@ -2,6 +2,7 @@
 layout: term
 title: hakiki adam
 slug: hakiki-adam
+letter: H
 lisan: Türkçe
 anlamlar:
 - Ahlaklı, erdemli insan

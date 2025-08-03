@@ -2,6 +2,7 @@
 layout: term
 title: izletebilmek
 slug: izletebilmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İzletme ihtimali veya imkânı bulunmak

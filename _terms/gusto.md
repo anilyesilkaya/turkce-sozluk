@@ -2,6 +2,7 @@
 layout: term
 title: gusto
 slug: gusto
+letter: G
 lisan: İtalyanca gusto
 anlamlar:
 - ► beğeni

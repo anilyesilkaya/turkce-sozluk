@@ -2,6 +2,7 @@
 layout: term
 title: pişim
 slug: pisim
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pişmek işi

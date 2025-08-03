@@ -2,6 +2,7 @@
 layout: term
 title: galeyan etmek
 slug: galeyan-etmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - kaynamak

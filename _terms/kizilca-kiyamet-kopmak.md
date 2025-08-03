@@ -2,6 +2,7 @@
 layout: term
 title: kızılca kıyamet kopmak
 slug: kizilca-kiyamet-kopmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kavga, gürültü olmak

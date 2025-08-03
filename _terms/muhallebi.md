@@ -2,6 +2,7 @@
 layout: term
 title: muhallebi
 slug: muhallebi
+letter: M
 lisan: Türkçe
 anlamlar:
 - Süt, şeker ve pirinç ununun kaynatılmasıyla yapılan bir tatlı

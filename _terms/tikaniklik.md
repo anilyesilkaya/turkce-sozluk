@@ -2,6 +2,7 @@
 layout: term
 title: tıkanıklık
 slug: tikaniklik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tıkanık olma, iyi işleyememe durumu

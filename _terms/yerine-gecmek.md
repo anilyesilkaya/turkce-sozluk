@@ -2,6 +2,7 @@
 layout: term
 title: yerine geçmek
 slug: yerine-gecmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - görevden ayrılan birinin yerini almak

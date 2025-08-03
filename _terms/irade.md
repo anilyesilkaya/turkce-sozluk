@@ -2,6 +2,7 @@
 layout: term
 title: irade
 slug: irade
+letter: I
 lisan: Arapça irāde
 anlamlar:
 - Bir şeyi yapıp yapmama konusunda kişinin kendi kendine karar verebilme ve bunu uygulama gücü

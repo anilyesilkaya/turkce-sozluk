@@ -2,6 +2,7 @@
 layout: term
 title: kesinlikle
 slug: kesinlikle
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kesin bir biçimde, kesin olarak, şüphe götürmeyecek derecede; yüzde yüz, elbet, elbette, evelallah, her hâlde, her hâlükârda, katiyetle, behemehâl, illa, katiyen, kesin, kesinkes, muhakkak, mutlak, mutlaka, banko

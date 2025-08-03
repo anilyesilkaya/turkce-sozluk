@@ -2,6 +2,7 @@
 layout: term
 title: Maruni
 slug: maruni
+letter: M
 lisan: Arapça mārūnī
 anlamlar:
 - Lübnan ve Suriye'de oturan Katolik Süryani topluluğu

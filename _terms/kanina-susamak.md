@@ -2,6 +2,7 @@
 layout: term
 title: kanına susamak
 slug: kanina-susamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - belasını aramak

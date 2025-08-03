@@ -2,6 +2,7 @@
 layout: term
 title: desteleyici
 slug: desteleyici
+letter: D
 lisan: Türkçe
 anlamlar:
 - Biçilmiş ekini deste yapan işçi; desteci

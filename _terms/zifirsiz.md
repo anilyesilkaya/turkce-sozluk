@@ -2,6 +2,7 @@
 layout: term
 title: zifirsiz
 slug: zifirsiz
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Karanlık olmayan

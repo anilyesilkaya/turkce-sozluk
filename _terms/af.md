@@ -2,6 +2,7 @@
 layout: term
 title: af
 slug: af
+letter: A
 lisan: Arapça ʿafv
 anlamlar:
 - Bir suç işleyeni, kusur veya hata yapanı bağışlama

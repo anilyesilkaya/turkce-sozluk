@@ -2,6 +2,7 @@
 layout: term
 title: bin kere
 slug: bin-kere
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bin kez

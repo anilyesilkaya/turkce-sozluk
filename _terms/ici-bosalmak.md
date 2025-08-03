@@ -2,6 +2,7 @@
 layout: term
 title: içi boşalmak
 slug: ici-bosalmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - önemi ve anlamı kalmamak

@@ -2,6 +2,7 @@
 layout: term
 title: canavarlaşmak
 slug: canavarlasmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - Canavar gibi, vahşi, acımasız biçimde davranmak

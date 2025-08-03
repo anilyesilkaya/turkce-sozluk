@@ -2,6 +2,7 @@
 layout: term
 title: tahtalıköyü boylamak
 slug: tahtalikoyu-boylamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - ölmek

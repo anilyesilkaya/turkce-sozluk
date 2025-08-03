@@ -2,6 +2,7 @@
 layout: term
 title: soluyuş
 slug: soluyus
+letter: S
 lisan: Türkçe
 anlamlar:
 - Solumak işi

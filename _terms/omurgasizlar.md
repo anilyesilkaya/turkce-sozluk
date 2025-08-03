@@ -2,6 +2,7 @@
 layout: term
 title: omurgasızlar
 slug: omurgasizlar
+letter: O
 lisan: Türkçe
 anlamlar:
 - Omurgasız, çok hücreli hayvanlar âlemi (Protostomia)

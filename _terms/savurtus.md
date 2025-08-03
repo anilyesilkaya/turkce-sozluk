@@ -2,6 +2,7 @@
 layout: term
 title: savurtuş
 slug: savurtus
+letter: S
 lisan: Türkçe
 anlamlar:
 - Savurtmak işi

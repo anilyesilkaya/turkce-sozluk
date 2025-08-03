@@ -2,6 +2,7 @@
 layout: term
 title: ortaklaşa
 slug: ortaklasa
+letter: O
 lisan: Türkçe
 anlamlar:
 - Ortak olarak, el birliğiyle; ortakça, müştereken, kolektif

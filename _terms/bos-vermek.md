@@ -2,6 +2,7 @@
 layout: term
 title: boş vermek
 slug: bos-vermek
+letter: B
 lisan: Türkçe
 anlamlar:
 - ciddiye almamak, önemsememek

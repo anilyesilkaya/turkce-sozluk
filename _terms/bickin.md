@@ -2,6 +2,7 @@
 layout: term
 title: bıçkın
 slug: bickin
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► kabadayı

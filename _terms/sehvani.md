@@ -2,6 +2,7 @@
 layout: term
 title: şehvani
 slug: sehvani
+letter: Ş
 lisan: Arapça şehvānī
 anlamlar:
 - ► erotik

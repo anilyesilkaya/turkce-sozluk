@@ -2,6 +2,7 @@
 layout: term
 title: canı acımak
 slug: cani-acimak
+letter: C
 lisan: Türkçe
 anlamlar:
 - çarpma, vurma vb. sonucu acı duymak

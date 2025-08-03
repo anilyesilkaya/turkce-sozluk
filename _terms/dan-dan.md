@@ -2,6 +2,7 @@
 layout: term
 title: dan dan
 slug: dan-dan
+letter: D
 lisan: Türkçe
 anlamlar:
 - Kaba, kırıcı bir biçimde

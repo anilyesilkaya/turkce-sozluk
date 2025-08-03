@@ -2,6 +2,7 @@
 layout: term
 title: cızırdamak
 slug: cizirdamak
+letter: C
 lisan: Türkçe
 anlamlar:
 - '"Cızır" diye ses çıkarmak; cızıldamak'

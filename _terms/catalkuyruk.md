@@ -2,6 +2,7 @@
 layout: term
 title: çatalkuyruk
 slug: catalkuyruk
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Uzun ve ince gövdeli, ılık denizlerde yaşayan bir tür balık (Lepidopus caudatus)

@@ -2,6 +2,7 @@
 layout: term
 title: alenileşmek
 slug: alenilesmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Herkesçe bilinir duruma gelmek

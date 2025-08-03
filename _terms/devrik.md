@@ -2,6 +2,7 @@
 layout: term
 title: devrik
 slug: devrik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Katlanıp kendi üzerine bükülmüş

@@ -2,6 +2,7 @@
 layout: term
 title: nakışçılık
 slug: nakiscilik
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nakış yapma işi

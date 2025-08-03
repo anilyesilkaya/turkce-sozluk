@@ -2,6 +2,7 @@
 layout: term
 title: tepelemek
 slug: tepelemek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Ayakları altında ezmek

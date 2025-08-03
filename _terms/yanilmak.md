@@ -2,6 +2,7 @@
 layout: term
 title: yanılmak
 slug: yanilmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Tanımayarak, niteliğini iyi anlamayarak aldanmak

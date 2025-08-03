@@ -2,6 +2,7 @@
 layout: term
 title: yol göstermek
 slug: yol-gostermek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - kılavuzluk etmek, yolu bilmeyene anlatmak, tarif etmek

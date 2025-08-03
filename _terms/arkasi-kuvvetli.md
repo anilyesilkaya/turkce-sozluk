@@ -2,6 +2,7 @@
 layout: term
 title: arkası kuvvetli
 slug: arkasi-kuvvetli
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► arkası sağlam

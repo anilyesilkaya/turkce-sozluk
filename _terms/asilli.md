@@ -2,6 +2,7 @@
 layout: term
 title: asıllı
 slug: asilli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir kökene dayanan; kökenli

@@ -2,6 +2,7 @@
 layout: term
 title: içkili
 slug: ickili
+letter: I
 lisan: Türkçe
 anlamlar:
 - İçki içmiş olan

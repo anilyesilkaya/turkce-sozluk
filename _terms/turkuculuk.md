@@ -2,6 +2,7 @@
 layout: term
 title: türkücülük
 slug: turkuculuk
+letter: T
 lisan: Türkçe
 anlamlar:
 - Türkücü olma durumu

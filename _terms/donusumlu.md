@@ -2,6 +2,7 @@
 layout: term
 title: dönüşümlü
 slug: donusumlu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Değişen, sıra ile olan

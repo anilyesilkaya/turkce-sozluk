@@ -2,6 +2,7 @@
 layout: term
 title: dörtgen
 slug: dortgen
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dört kenarlı çokgen; dörtkenar

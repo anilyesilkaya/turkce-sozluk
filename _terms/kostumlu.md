@@ -2,6 +2,7 @@
 layout: term
 title: kostümlü
 slug: kostumlu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kostüm giymiş olan

@@ -2,6 +2,7 @@
 layout: term
 title: düşük tutmak
 slug: dusuk-tutmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - az olarak belirlemek

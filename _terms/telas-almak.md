@@ -2,6 +2,7 @@
 layout: term
 title: telaş almak
 slug: telas-almak
+letter: T
 lisan: Türkçe
 anlamlar:
 - herhangi bir sebeple heyecanlanmak, endişelenmek, acele etmek

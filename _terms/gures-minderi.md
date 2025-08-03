@@ -2,6 +2,7 @@
 layout: term
 title: güreş minderi
 slug: gures-minderi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Kapalı spor salonlarında güreşçilerin üzerinde güreştikleri, üstü yekpare kaplı olan kauçuk minder

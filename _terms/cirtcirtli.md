@@ -2,6 +2,7 @@
 layout: term
 title: cırtcırtlı
 slug: cirtcirtli
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cırtcırtı olan

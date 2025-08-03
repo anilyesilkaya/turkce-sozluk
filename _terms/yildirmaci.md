@@ -2,6 +2,7 @@
 layout: term
 title: yıldırmacı
 slug: yildirmaci
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► terörist

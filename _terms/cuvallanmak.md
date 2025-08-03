@@ -2,6 +2,7 @@
 layout: term
 title: çuvallanmak
 slug: cuvallanmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çuvallama işine konu olmak

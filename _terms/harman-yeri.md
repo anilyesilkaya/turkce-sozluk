@@ -2,6 +2,7 @@
 layout: term
 title: harman yeri
 slug: harman-yeri
+letter: H
 lisan: Türkçe
 anlamlar:
 - Üzerinde harman dövülen, sıkıştırılmış sert toprak alan; harmanlık

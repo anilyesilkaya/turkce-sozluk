@@ -2,6 +2,7 @@
 layout: term
 title: mukaddime
 slug: mukaddime
+letter: M
 lisan: Arapça muḳaddime
 anlamlar:
 - ► ön söz

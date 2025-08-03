@@ -2,6 +2,7 @@
 layout: term
 title: muhabere
 slug: muhabere
+letter: M
 lisan: Arapça muḫābere
 anlamlar:
 - ► haberleşme

@@ -2,6 +2,7 @@
 layout: term
 title: aşındırmak
 slug: asindirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aşınmasına yol açmak

@@ -2,6 +2,7 @@
 layout: term
 title: bahname
 slug: bahname
+letter: B
 lisan: Arapça bāh + Farsça nāme
 anlamlar:
 - İçinde cinsel konularla ilgili açık saçık yazıların, resimlerin bulunduğu eser

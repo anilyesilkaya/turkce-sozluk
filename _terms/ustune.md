@@ -2,6 +2,7 @@
 layout: term
 title: üstüne
 slug: ustune
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Bir konu hakkında, ... konusunda, ... ile ilgili; üzerine, dair

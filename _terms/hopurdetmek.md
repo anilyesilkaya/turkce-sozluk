@@ -2,6 +2,7 @@
 layout: term
 title: höpürdetmek
 slug: hopurdetmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - Bir şey içerken "höpür" diye ses çıkarmak; hopurdatmak

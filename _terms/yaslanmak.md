@@ -2,6 +2,7 @@
 layout: term
 title: yaşlanmak
 slug: yaslanmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaşı ilerlemek; eskimek, farımak, ihtiyarlamak, kağşamak, karımak, kocamak, kocalmak, moruklamak, moruklaşmak

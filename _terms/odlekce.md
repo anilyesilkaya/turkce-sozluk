@@ -2,6 +2,7 @@
 layout: term
 title: ödlekçe
 slug: odlekce
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ödleğe yaraşır, ödlek gibi

@@ -2,6 +2,7 @@
 layout: term
 title: züppeleştirmek
 slug: zuppelestirmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Züppe durumuna getirmek

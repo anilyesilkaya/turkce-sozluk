@@ -2,6 +2,7 @@
 layout: term
 title: gaz
 slug: gaz
+letter: G
 lisan: Fransızca gaz
 anlamlar:
 - Normal basınç ve sıcaklıkta olduğu gibi kalan, içinde bulunduğu kabın her yanına yayılma ve bu kabın iç yüzeyinin her noktasına basınç yapma özelliğine sahip olan akışkan madde

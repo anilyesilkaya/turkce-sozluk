@@ -2,6 +2,7 @@
 layout: term
 title: aşabilmek
 slug: asabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aşma ihtimali veya imkânı bulunmak

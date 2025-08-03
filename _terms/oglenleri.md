@@ -2,6 +2,7 @@
 layout: term
 title: öğlenleri
 slug: oglenleri
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öğle vaktinde

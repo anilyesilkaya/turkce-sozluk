@@ -2,6 +2,7 @@
 layout: term
 title: sildirmek
 slug: sildirmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Silme işini yaptırmak

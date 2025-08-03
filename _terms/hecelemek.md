@@ -2,6 +2,7 @@
 layout: term
 title: hecelemek
 slug: hecelemek
+letter: H
 lisan: Türkçe
 anlamlar:
 - Bir kelimenin hecelerini teker teker söylemek

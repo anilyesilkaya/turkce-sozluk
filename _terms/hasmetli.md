@@ -2,6 +2,7 @@
 layout: term
 title: haşmetli
 slug: hasmetli
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► görkemli

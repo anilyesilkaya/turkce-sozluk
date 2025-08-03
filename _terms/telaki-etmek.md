@@ -2,6 +2,7 @@
 layout: term
 title: telaki etmek
 slug: telaki-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - buluşmak

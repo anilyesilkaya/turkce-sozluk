@@ -2,6 +2,7 @@
 layout: term
 title: blok
 slug: blok
+letter: B
 lisan: Fransızca bloc
 anlamlar:
 - Kocaman ve ağır kitle

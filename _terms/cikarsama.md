@@ -2,6 +2,7 @@
 layout: term
 title: çıkarsama
 slug: cikarsama
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir önermeden, düşünce yoluyla bir başka önermeye geçme işi; istihraç

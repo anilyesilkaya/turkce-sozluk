@@ -2,6 +2,7 @@
 layout: term
 title: rastlanabilmek
 slug: rastlanabilmek
+letter: R
 lisan: Türkçe
 anlamlar:
 - Rastlanma ihtimali veya imkânı bulunmak

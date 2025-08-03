@@ -2,6 +2,7 @@
 layout: term
 title: müvellidülhumuza
 slug: muvellidulhumuza
+letter: M
 lisan: Arapça muvellid + ḥumūża
 anlamlar:
 - ► oksijen

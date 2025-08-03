@@ -2,6 +2,7 @@
 layout: term
 title: bölüşmek
 slug: bolusmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► paylaşmak

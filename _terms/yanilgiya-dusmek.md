@@ -2,6 +2,7 @@
 layout: term
 title: yanılgıya düşmek
 slug: yanilgiya-dusmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - bilmeden bir yanlışlık yapmak

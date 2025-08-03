@@ -2,6 +2,7 @@
 layout: term
 title: kümes
 slug: kumes
+letter: K
 lisan: Rumca
 anlamlar:
 - Tavuk, hindi vb. evcil hayvanların barınmasına yarayan kapalı yer

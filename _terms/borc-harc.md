@@ -2,6 +2,7 @@
 layout: term
 title: borç harç
 slug: borc-harc
+letter: B
 lisan: Türkçe
 anlamlar:
 - Borçlanarak

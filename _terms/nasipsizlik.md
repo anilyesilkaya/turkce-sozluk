@@ -2,6 +2,7 @@
 layout: term
 title: nasipsizlik
 slug: nasipsizlik
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► kısmetsizlik

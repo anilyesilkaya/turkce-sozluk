@@ -2,6 +2,7 @@
 layout: term
 title: ana baba günü
 slug: ana-baba-gunu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kargaşa içindeki kalabalık

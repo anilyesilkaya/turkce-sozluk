@@ -2,6 +2,7 @@
 layout: term
 title: kilit taşı
 slug: kilit-tasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► anahtar taşı

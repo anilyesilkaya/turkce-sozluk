@@ -2,6 +2,7 @@
 layout: term
 title: hesapçı
 slug: hesapci
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hesabını iyi bilen; hesabi

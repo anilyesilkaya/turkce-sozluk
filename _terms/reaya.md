@@ -2,6 +2,7 @@
 layout: term
 title: reaya
 slug: reaya
+letter: R
 lisan: Arapça reʿāyā
 anlamlar:
 - Bir hükümdarın yönetimi altındaki halk

@@ -2,6 +2,7 @@
 layout: term
 title: efsaneli
 slug: efsaneli
+letter: E
 lisan: Türkçe
 anlamlar:
 - Efsanesi olan

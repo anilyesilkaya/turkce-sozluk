@@ -2,6 +2,7 @@
 layout: term
 title: kuvarslı
 slug: kuvarsli
+letter: K
 lisan: Türkçe
 anlamlar:
 - İçinde kuvars bulunan

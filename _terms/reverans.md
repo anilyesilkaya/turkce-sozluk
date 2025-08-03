@@ -2,6 +2,7 @@
 layout: term
 title: reverans
 slug: reverans
+letter: R
 lisan: Fransızca révérence
 anlamlar:
 - Selam veya teşekkür için eğilerek veya dizleri kırarak yapılan hareket

@@ -2,6 +2,7 @@
 layout: term
 title: eşitleyebilmek
 slug: esitleyebilmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eşitleme ihtimali veya imkânı bulunmak

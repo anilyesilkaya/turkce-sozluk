@@ -2,6 +2,7 @@
 layout: term
 title: yayık
 slug: yayik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yayılmış, yayvan olan

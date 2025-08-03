@@ -2,6 +2,7 @@
 layout: term
 title: zümrütsü
 slug: zumrutsu
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zümrüdü andıran, zümrüde benzeyen, zümrüt gibi

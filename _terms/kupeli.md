@@ -2,6 +2,7 @@
 layout: term
 title: küpeli
 slug: kupeli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Küpe takmış olan

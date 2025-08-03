@@ -2,6 +2,7 @@
 layout: term
 title: aile hekimi
 slug: aile-hekimi
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► aile doktoru

@@ -2,6 +2,7 @@
 layout: term
 title: ipilti
 slug: ipilti
+letter: I
 lisan: Türkçe
 anlamlar:
 - Hafif esinti

@@ -2,6 +2,7 @@
 layout: term
 title: bir hâl olmak
 slug: bir-hal-olmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir şeyin çok tekrarlanması yüzünden bitkin duruma gelmek, usanmak, bezmek, fenalık gelmek

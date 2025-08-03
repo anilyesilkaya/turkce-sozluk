@@ -2,6 +2,7 @@
 layout: term
 title: hacamatlamak
 slug: hacamatlamak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hafifçe yaralamak

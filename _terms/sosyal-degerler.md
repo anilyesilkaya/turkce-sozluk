@@ -2,6 +2,7 @@
 layout: term
 title: sosyal değerler
 slug: sosyal-degerler
+letter: S
 lisan: Türkçe
 anlamlar:
 - Toplumun fertlerini birbirine yaklaştıran, bir arada tutan, toplumun devamını sağlayan temel yargılar, değerler

@@ -2,6 +2,7 @@
 layout: term
 title: kesirli sayı
 slug: kesirli-sayi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kesri olan sayı

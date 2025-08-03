@@ -2,6 +2,7 @@
 layout: term
 title: çedik
 slug: cedik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Mesh üzerine giyilen sarı pabuç

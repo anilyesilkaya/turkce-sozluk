@@ -2,6 +2,7 @@
 layout: term
 title: uşaklık etmek
 slug: usaklik-etmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - bir kimseye hizmet veya kulluk etmek

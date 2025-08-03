@@ -2,6 +2,7 @@
 layout: term
 title: gök tırmalayıcı
 slug: gok-tirmalayici
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► gökdelen

@@ -2,6 +2,7 @@
 layout: term
 title: vakit öldürmek
 slug: vakit-oldurmek
+letter: V
 lisan: Türkçe
 anlamlar:
 - zamanı yararsız, gereksiz işlerle veya iş yapmadan geçirmek

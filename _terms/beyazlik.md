@@ -2,6 +2,7 @@
 layout: term
 title: beyazlık
 slug: beyazlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beyaz olma durumu; aklık

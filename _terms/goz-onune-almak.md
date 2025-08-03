@@ -2,6 +2,7 @@
 layout: term
 title: göz önüne almak
 slug: goz-onune-almak
+letter: G
 lisan: Türkçe
 anlamlar:
 - önceden düşünmek, hesaplamak, dikkate almak

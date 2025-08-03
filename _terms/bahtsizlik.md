@@ -2,6 +2,7 @@
 layout: term
 title: bahtsızlık
 slug: bahtsizlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bahtsız olma durumu;  talihsizlik

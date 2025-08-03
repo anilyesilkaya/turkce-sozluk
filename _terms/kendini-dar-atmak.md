@@ -2,6 +2,7 @@
 layout: term
 title: kendini dar atmak
 slug: kendini-dar-atmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - güçlükle ve ivedi olarak bir yere sığınmak, kaçmak

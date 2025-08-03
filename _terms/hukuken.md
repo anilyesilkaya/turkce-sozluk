@@ -2,6 +2,7 @@
 layout: term
 title: hukuken
 slug: hukuken
+letter: H
 lisan: Arapça ḥuḳūḳen
 anlamlar:
 - Hukuksal olarak, hukuk bakımından

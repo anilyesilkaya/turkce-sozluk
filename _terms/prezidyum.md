@@ -2,6 +2,7 @@
 layout: term
 title: prezidyum
 slug: prezidyum
+letter: P
 lisan: Latince
 anlamlar:
 - Bütün yetkilerini eski SSCB Anayasası'na özgü bir tarzda kullanan örgüt

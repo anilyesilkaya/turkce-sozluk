@@ -2,6 +2,7 @@
 layout: term
 title: alat edevat
 slug: alat-edevat
+letter: A
 lisan: Arapça ālāt + edevāt
 anlamlar:
 - ► alet edevat

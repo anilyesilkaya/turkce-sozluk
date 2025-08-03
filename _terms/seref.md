@@ -2,6 +2,7 @@
 layout: term
 title: şeref
 slug: seref
+letter: Ş
 lisan: Arapça şeref
 anlamlar:
 - Başkasının, birine gösterdiği saygının dayandığı manevi değer; onur

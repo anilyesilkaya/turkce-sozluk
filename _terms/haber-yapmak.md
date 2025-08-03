@@ -2,6 +2,7 @@
 layout: term
 title: haber yapmak
 slug: haber-yapmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - haber hazırlamak

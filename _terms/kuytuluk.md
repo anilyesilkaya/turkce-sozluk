@@ -2,6 +2,7 @@
 layout: term
 title: kuytuluk
 slug: kuytuluk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kuytu olma durumu

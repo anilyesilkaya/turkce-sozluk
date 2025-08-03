@@ -2,6 +2,7 @@
 layout: term
 title: uçarıca
 slug: ucarica
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uçarıya yakışır bir biçimde

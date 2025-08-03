@@ -2,6 +2,7 @@
 layout: term
 title: çığalı
 slug: cigali
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Başında çığası bulunan

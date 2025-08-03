@@ -2,6 +2,7 @@
 layout: term
 title: düğümlemek
 slug: dugumlemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düğüm yapmak

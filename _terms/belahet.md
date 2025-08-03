@@ -2,6 +2,7 @@
 layout: term
 title: belahet
 slug: belahet
+letter: B
 lisan: Arapça belāhet
 anlamlar:
 - ► alıklık

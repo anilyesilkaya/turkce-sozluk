@@ -2,6 +2,7 @@
 layout: term
 title: hademe
 slug: hademe
+letter: H
 lisan: Arapça ḫademe
 anlamlar:
 - ► hizmetli

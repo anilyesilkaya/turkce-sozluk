@@ -2,6 +2,7 @@
 layout: term
 title: mevhibe
 slug: mevhibe
+letter: M
 lisan: Arapça mevhibe
 anlamlar:
 - Bağış, vergi, ihsan

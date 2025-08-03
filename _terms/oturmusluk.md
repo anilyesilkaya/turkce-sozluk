@@ -2,6 +2,7 @@
 layout: term
 title: oturmuşluk
 slug: oturmusluk
+letter: O
 lisan: Türkçe
 anlamlar:
 - Benimsenmiş, yerleşmiş olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: işitmek
 slug: isitmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Kulakla algılamak; duymak

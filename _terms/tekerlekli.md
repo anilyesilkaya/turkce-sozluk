@@ -2,6 +2,7 @@
 layout: term
 title: tekerlekli
 slug: tekerlekli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tekerleği olan; tekerli

@@ -2,6 +2,7 @@
 layout: term
 title: kulaktan dolma
 slug: kulaktan-dolma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Başkalarından işitilerek edinilen (bilgi)

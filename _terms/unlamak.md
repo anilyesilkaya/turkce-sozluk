@@ -2,6 +2,7 @@
 layout: term
 title: unlamak
 slug: unlamak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Una bulamak

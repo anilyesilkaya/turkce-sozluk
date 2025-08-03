@@ -2,6 +2,7 @@
 layout: term
 title: otogaz
 slug: otogaz
+letter: O
 lisan: İngilizce autogas
 anlamlar:
 - Taşıtlarda yakıt olarak kullanılan sıvılaştırılmış petrol gazı

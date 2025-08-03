@@ -2,6 +2,7 @@
 layout: term
 title: barbarizm
 slug: barbarizm
+letter: B
 lisan: Fransızca barbarisme
 anlamlar:
 - ► barbarlık

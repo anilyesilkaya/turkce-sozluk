@@ -2,6 +2,7 @@
 layout: term
 title: çivi sokmak (veya sürmek)
 slug: civi-sokmak-veya-surmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - bir işin olmasında engel, güçlük çıkarmak

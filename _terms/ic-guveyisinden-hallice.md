@@ -2,6 +2,7 @@
 layout: term
 title: iç güveyisinden hâllice
 slug: ic-guveyisinden-hallice
+letter: I
 lisan: Türkçe
 anlamlar:
 - '"nasılsın" sorusuna "eh işte, fena değil" anlamında verilen karşılık'

@@ -2,6 +2,7 @@
 layout: term
 title: bohçacılık
 slug: bohcacilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bohçacının yaptığı iş; basmacılık

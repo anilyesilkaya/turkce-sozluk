@@ -2,6 +2,7 @@
 layout: term
 title: edilme
 slug: edilme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Edilmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: hüsrana uğramak
 slug: husrana-ugramak
+letter: H
 lisan: Türkçe
 anlamlar:
 - beklenilen sonucun elde edilememesi sebebiyle çok üzülmek, acı çekmek

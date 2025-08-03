@@ -2,6 +2,7 @@
 layout: term
 title: büyük orta
 slug: buyuk-orta
+letter: B
 lisan: Türkçe
 anlamlar:
 - Karakucak ve yağlı güreşte pehlivanların ayrıldıkları beş dereceden üçüncüsü

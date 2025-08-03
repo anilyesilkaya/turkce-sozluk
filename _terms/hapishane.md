@@ -2,6 +2,7 @@
 layout: term
 title: hapishane
 slug: hapishane
+letter: H
 lisan: Arapça ḥabs + Farsça ḫāne
 anlamlar:
 - ► cezaevi

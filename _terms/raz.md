@@ -2,6 +2,7 @@
 layout: term
 title: raz
 slug: raz
+letter: R
 lisan: Farsça rāz
 anlamlar:
 - ► sır (II)

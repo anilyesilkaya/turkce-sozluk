@@ -2,6 +2,7 @@
 layout: term
 title: benci
 slug: benci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kendini beğenen, kendini her konuda üstün gören; hodpesent, megaloman

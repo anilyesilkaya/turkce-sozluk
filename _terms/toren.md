@@ -2,6 +2,7 @@
 layout: term
 title: tören
 slug: toren
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir toplulukta, üyelerin belli bir olayı, kişiyi veya değeri ayırt edip sembolleştirmesi, bunların anlam ve öneminin güçlendirilmesi amaçlarıyla düzenlenen hareket dizisi; merasim

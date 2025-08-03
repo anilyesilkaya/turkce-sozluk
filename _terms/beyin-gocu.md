@@ -2,6 +2,7 @@
 layout: term
 title: beyin göçü
 slug: beyin-gocu
+letter: B
 lisan: Türkçe
 anlamlar:
 - İleri düzeydeki meslek ve bilim adamları ile uzmanların bir başka gelişmiş ülkede yerleşip çalışmak amacı ile kendi ülkelerinden ayrılması

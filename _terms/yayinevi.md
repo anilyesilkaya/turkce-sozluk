@@ -2,6 +2,7 @@
 layout: term
 title: yayınevi
 slug: yayinevi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Dergi, kitap vb.ni yayımlayan veya satan kuruluş

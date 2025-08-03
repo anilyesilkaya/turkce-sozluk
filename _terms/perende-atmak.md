@@ -2,6 +2,7 @@
 layout: term
 title: perende atmak
 slug: perende-atmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - havada çark gibi dönerek takla atmak

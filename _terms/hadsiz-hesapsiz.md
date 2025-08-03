@@ -2,6 +2,7 @@
 layout: term
 title: hadsiz hesapsız
 slug: hadsiz-hesapsiz
+letter: H
 lisan: Türkçe
 anlamlar:
 - Sayılamayacak derecede çok

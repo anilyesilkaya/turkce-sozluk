@@ -2,6 +2,7 @@
 layout: term
 title: tiksindirici
 slug: tiksindirici
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tiksinilecek durumda olan; tiksinç, menfur

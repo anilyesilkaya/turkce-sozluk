@@ -2,6 +2,7 @@
 layout: term
 title: asma kabağı
 slug: asma-kabagi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kabakgillerden, sürüngen veya sarılgan, mevsimlik bir tür kabak (Lageneria vulgaris)

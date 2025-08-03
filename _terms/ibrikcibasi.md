@@ -2,6 +2,7 @@
 layout: term
 title: ibrikçibaşı
 slug: ibrikcibasi
+letter: I
 lisan: Türkçe
 anlamlar:
 - Saraylarda leğen, ibrik vb. abdest aletlerine bakmakla görevli kimselerin başı

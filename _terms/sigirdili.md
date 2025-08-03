@@ -2,6 +2,7 @@
 layout: term
 title: sığırdili
 slug: sigirdili
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sığırdiligillerden, 30-60 santimetre yüksekliğinde, tüylü, çok yıllık ve otsu bir bitki; öküzdili (Anchusa officinalis)

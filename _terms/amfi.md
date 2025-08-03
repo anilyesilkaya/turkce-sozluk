@@ -2,6 +2,7 @@
 layout: term
 title: amfi
 slug: amfi
+letter: A
 lisan: Fransızca amphi
 anlamlar:
 - ► amfiteatr

@@ -2,6 +2,7 @@
 layout: term
 title: ehlidil
 slug: ehlidil
+letter: E
 lisan: Arapça ehl + Farsça dil
 anlamlar:
 - ► gönül eri

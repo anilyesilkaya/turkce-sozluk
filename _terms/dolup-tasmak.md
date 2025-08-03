@@ -2,6 +2,7 @@
 layout: term
 title: dolup taşmak
 slug: dolup-tasmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - gereğinden çok olmak, gereğinden çok kaplamak

@@ -2,6 +2,7 @@
 layout: term
 title: hadisesiz
 slug: hadisesiz
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► olaysız

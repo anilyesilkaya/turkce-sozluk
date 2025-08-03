@@ -2,6 +2,7 @@
 layout: term
 title: şifasız
 slug: sifasiz
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şifası olmayan

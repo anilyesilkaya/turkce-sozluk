@@ -2,6 +2,7 @@
 layout: term
 title: hacamat şişesi
 slug: hacamat-sisesi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hacamat yapmak için kullanılan, ağzı dibinden dar şişe

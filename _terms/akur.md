@@ -2,6 +2,7 @@
 layout: term
 title: akur
 slug: akur
+letter: A
 lisan: Arapça ʿaḳūr
 anlamlar:
 - Azgın, şiddetli olan

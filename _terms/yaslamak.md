@@ -2,6 +2,7 @@
 layout: term
 title: yaslamak
 slug: yaslamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir şeyi bir yere dokunur duruma getirmek ve bu durumda bırakmak veya tutmak; dayamak, yastamak

@@ -2,6 +2,7 @@
 layout: term
 title: taraf gözetmek
 slug: taraf-gozetmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - birinden yana olmak

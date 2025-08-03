@@ -2,6 +2,7 @@
 layout: term
 title: adaklık
 slug: adaklik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Adak adanan yer

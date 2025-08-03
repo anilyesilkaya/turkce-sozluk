@@ -2,6 +2,7 @@
 layout: term
 title: ebrulama
 slug: ebrulama
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ebrulamak işi

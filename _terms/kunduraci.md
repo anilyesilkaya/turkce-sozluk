@@ -2,6 +2,7 @@
 layout: term
 title: kunduracı
 slug: kunduraci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kundura yapan veya satan kimse

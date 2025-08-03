@@ -2,6 +2,7 @@
 layout: term
 title: bangır bangır bağırmak
 slug: bangir-bangir-bagirmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - yüksek sesle, avazı çıktığı kadar bağırmak

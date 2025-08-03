@@ -2,6 +2,7 @@
 layout: term
 title: kalenderî
 slug: kalenderi
+letter: K
 lisan: Farsça ḳalender + Arapça -ī
 anlamlar:
 - Bir halk şiiri türü

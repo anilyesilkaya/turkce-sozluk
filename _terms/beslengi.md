@@ -2,6 +2,7 @@
 layout: term
 title: beslengi
 slug: beslengi
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► besleme

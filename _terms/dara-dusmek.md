@@ -2,6 +2,7 @@
 layout: term
 title: dara düşmek
 slug: dara-dusmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - para sıkıntısına düşmek

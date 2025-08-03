@@ -2,6 +2,7 @@
 layout: term
 title: gördürmek
 slug: gordurmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Görme işini yaptırmak

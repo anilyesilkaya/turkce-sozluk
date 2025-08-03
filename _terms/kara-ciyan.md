@@ -2,6 +2,7 @@
 layout: term
 title: kara çıyan
 slug: kara-ciyan
+letter: K
 lisan: Türkçe
 anlamlar:
 - Siyah renkli, zehirli, rutubetli ortamlarda yaşayan, etçil bir böcek

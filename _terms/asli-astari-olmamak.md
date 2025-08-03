@@ -2,6 +2,7 @@
 layout: term
 title: aslı astarı olmamak
 slug: asli-astari-olmamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - gerçekliği, doğruluğu bulunmamak

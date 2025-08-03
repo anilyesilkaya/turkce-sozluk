@@ -2,6 +2,7 @@
 layout: term
 title: sunma
 slug: sunma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sunmak işi; arz (I), takdim

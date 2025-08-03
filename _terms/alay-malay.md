@@ -2,6 +2,7 @@
 layout: term
 title: alay malay
 slug: alay-malay
+letter: A
 lisan: Türkçe
 anlamlar:
 - Hep birden, birlikte

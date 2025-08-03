@@ -2,6 +2,7 @@
 layout: term
 title: soydaş
 slug: soydas
+letter: S
 lisan: Türkçe
 anlamlar:
 - Soyları bir olan bireylerden her biri

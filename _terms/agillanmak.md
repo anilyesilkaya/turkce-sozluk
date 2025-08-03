@@ -2,6 +2,7 @@
 layout: term
 title: ağıllanmak
 slug: agillanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Toplanıp bir arada durmak

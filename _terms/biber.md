@@ -2,6 +2,7 @@
 layout: term
 title: biber
 slug: biber
+letter: B
 lisan: Rumca
 anlamlar:
 - Patlıcangillerden, ana vatanı Meksika, Orta ve Güney Amerika olan, bir yıllık, otsu bir bitki (Capsicum annuum)

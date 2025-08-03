@@ -2,6 +2,7 @@
 layout: term
 title: tren
 slug: tren
+letter: T
 lisan: Fransızca train
 anlamlar:
 - Demir yolunda yolcu ve yük taşımakta kullanılan, bir veya birkaç lokomotif tarafından çekilen vagonlar dizisi; katar, şimendifer

@@ -2,6 +2,7 @@
 layout: term
 title: gıcıklanmak
 slug: giciklanmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gıcık oluşmak

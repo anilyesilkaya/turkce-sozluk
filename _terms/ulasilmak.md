@@ -2,6 +2,7 @@
 layout: term
 title: ulaşılmak
 slug: ulasilmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ulaşma işi yapılmak

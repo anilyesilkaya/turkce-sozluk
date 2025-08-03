@@ -2,6 +2,7 @@
 layout: term
 title: 'karı kılıklı '
 slug: kari-kilikli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Hâl ve hareketleri kadın özellikleri taşıyan (erkek)

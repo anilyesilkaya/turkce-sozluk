@@ -2,6 +2,7 @@
 layout: term
 title: toplantı
 slug: toplanti
+letter: T
 lisan: Türkçe
 anlamlar:
 - Birden çok kimsenin belirli amaçlarla bir araya gelmesi; derinti, içtima

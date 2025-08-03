@@ -2,6 +2,7 @@
 layout: term
 title: bükme
 slug: bukme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bükmek işi

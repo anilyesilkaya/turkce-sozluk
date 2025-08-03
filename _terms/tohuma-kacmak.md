@@ -2,6 +2,7 @@
 layout: term
 title: tohuma kaçmak
 slug: tohuma-kacmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - üreme veya üretme gücü kalmamak

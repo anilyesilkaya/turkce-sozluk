@@ -2,6 +2,7 @@
 layout: term
 title: trampa etmek
 slug: trampa-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - değiştirmek

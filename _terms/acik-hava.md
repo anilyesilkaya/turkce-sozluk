@@ -2,6 +2,7 @@
 layout: term
 title: açık hava
 slug: acik-hava
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bahçe, park gibi yapı dışı olan yer

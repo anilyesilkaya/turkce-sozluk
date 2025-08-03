@@ -2,6 +2,7 @@
 layout: term
 title: uzama
 slug: uzama
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uzamak işi

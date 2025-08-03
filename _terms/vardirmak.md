@@ -2,6 +2,7 @@
 layout: term
 title: vardırmak
 slug: vardirmak
+letter: V
 lisan: Türkçe
 anlamlar:
 - Varmasına yol açmak; götürmek

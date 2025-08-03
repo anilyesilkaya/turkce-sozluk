@@ -2,6 +2,7 @@
 layout: term
 title: kabak çiçeği gibi açılmak
 slug: kabak-cicegi-gibi-acilmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - utangaçlıktan çabucak sıyrılarak aşırı ölçüde serbest davranmak

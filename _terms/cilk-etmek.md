@@ -2,6 +2,7 @@
 layout: term
 title: cılk etmek
 slug: cilk-etmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - bir şeyle gereksiz şekilde uğraşarak daha da kötüleşmesine, bozulmasına yol açmak

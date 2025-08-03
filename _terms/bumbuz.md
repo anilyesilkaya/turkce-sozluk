@@ -2,6 +2,7 @@
 layout: term
 title: bumbuz
 slug: bumbuz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çok soğuk, buz gibi

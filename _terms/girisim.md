@@ -2,6 +2,7 @@
 layout: term
 title: girişim
 slug: girisim
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bir işe girişme; teşebbüs

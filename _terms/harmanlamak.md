@@ -2,6 +2,7 @@
 layout: term
 title: harmanlamak
 slug: harmanlamak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Harman etmek

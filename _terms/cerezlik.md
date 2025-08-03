@@ -2,6 +2,7 @@
 layout: term
 title: çerezlik
 slug: cerezlik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çerez olabilecek şeyler

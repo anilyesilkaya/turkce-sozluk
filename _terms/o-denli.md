@@ -2,6 +2,7 @@
 layout: term
 title: o denli
 slug: o-denli
+letter: O
 lisan: Türkçe
 anlamlar:
 - çok

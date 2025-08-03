@@ -2,6 +2,7 @@
 layout: term
 title: tez canlı
 slug: tez-canli
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► aceleci

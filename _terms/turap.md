@@ -2,6 +2,7 @@
 layout: term
 title: türap
 slug: turap
+letter: T
 lisan: Arapça turāb
 anlamlar:
 - ► toprak

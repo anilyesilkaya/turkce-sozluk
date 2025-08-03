@@ -2,6 +2,7 @@
 layout: term
 title: Müselman
 slug: muselman
+letter: M
 lisan: Arapça muslim + Farsça -ān
 anlamlar:
 - ► Müslüman

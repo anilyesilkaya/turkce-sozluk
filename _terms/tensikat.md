@@ -2,6 +2,7 @@
 layout: term
 title: tensikat
 slug: tensikat
+letter: T
 lisan: Arapça tensīḳāt
 anlamlar:
 - Düzen vermeler, düzenlemeler

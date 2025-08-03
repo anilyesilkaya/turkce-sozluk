@@ -2,6 +2,7 @@
 layout: term
 title: dansözlük
 slug: dansozluk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dansözün işi veya mesleği

@@ -2,6 +2,7 @@
 layout: term
 title: göğüsleşmek
 slug: goguslesmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Kavgada göğüs göğüse gelmek

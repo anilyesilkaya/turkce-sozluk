@@ -2,6 +2,7 @@
 layout: term
 title: pohpoh
 slug: pohpoh
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pohpohlama işi

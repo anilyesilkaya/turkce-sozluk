@@ -2,6 +2,7 @@
 layout: term
 title: tehzil
 slug: tehzil
+letter: T
 lisan: Arapça tehzīl
 anlamlar:
 - Alaya alma

@@ -2,6 +2,7 @@
 layout: term
 title: ağzını aramak (veya yoklamak)
 slug: agzini-aramak-veya-yoklamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - konuşturarak düşüncesini öğrenmeye çalışmak

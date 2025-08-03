@@ -2,6 +2,7 @@
 layout: term
 title: tertibe düşürmek
 slug: tertibe-dusurmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - zarar verici bir eyleme, komploya uğratmak

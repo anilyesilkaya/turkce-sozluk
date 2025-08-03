@@ -2,6 +2,7 @@
 layout: term
 title: azletmek
 slug: azletmek
+letter: A
 lisan: Arapça ʿazl + Türkçe etmek
 anlamlar:
 - Bir kişiyi görevinden almak, uzaklaştırmak

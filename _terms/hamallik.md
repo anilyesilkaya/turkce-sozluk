@@ -2,6 +2,7 @@
 layout: term
 title: hamallık
 slug: hamallik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hamal olma durumu; sırtçılık, taşıyıcılık, yükçülük, hamaliye

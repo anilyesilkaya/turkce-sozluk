@@ -2,6 +2,7 @@
 layout: term
 title: camgüzeli
 slug: camguzeli
+letter: C
 lisan: Türkçe
 anlamlar:
 - Evlerde süs olarak yetiştirilen, pembe, kırmızı çiçekler açan bir tür kına çiçeği (Impatiens sultanı)

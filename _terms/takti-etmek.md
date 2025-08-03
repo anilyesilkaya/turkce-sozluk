@@ -2,6 +2,7 @@
 layout: term
 title: takti etmek
 slug: takti-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - parçalara ayırmak

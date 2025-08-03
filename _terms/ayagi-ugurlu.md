@@ -2,6 +2,7 @@
 layout: term
 title: ayağı uğurlu
 slug: ayagi-ugurlu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Geldiği yere uğur getirdiğine inanılan (kimse)

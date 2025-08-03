@@ -2,6 +2,7 @@
 layout: term
 title: amirce
 slug: amirce
+letter: A
 lisan: Türkçe
 anlamlar:
 - Amire yakışır bir biçimde, amir gibi; amirane

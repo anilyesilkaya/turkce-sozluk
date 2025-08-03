@@ -2,6 +2,7 @@
 layout: term
 title: iftira etmek
 slug: iftira-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - bir suçu birinin üzerine atmak, kara çalmak, kara sürmek, bühtan etmek

@@ -2,6 +2,7 @@
 layout: term
 title: çoluksuz çomaksız
 slug: coluksuz-comaksiz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Ailesi, çoluğu çocuğu olmayan

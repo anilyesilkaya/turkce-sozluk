@@ -2,6 +2,7 @@
 layout: term
 title: banyolu
 slug: banyolu
+letter: B
 lisan: Türkçe
 anlamlar:
 - İçinde banyo bölümü olan

@@ -2,6 +2,7 @@
 layout: term
 title: savuşup gitmek
 slug: savusup-gitmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - ilgi çekmeden gizlice, aceleyle ayrılmak

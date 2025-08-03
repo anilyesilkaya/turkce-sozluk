@@ -2,6 +2,7 @@
 layout: term
 title: öyle veya böyle
 slug: oyle-veya-boyle
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ne olursa olsun, her hâlde, bu durumda

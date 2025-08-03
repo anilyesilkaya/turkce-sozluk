@@ -2,6 +2,7 @@
 layout: term
 title: tam pansiyon
 slug: tam-pansiyon
+letter: T
 lisan: Türkçe
 anlamlar:
 - Konaklama tesislerinde önceden veya girişte ödenen ücret karşılığında oda, kahvaltı, öğle ve akşam yemekleri gibi hizmetlerin tamamının verilmesine dayanan sistem

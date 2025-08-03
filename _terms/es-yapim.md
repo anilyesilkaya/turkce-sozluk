@@ -2,6 +2,7 @@
 layout: term
 title: eş yapım
 slug: es-yapim
+letter: E
 lisan: Türkçe
 anlamlar:
 - İki tarafın ortak olarak oluşturduğu yapım

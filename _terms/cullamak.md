@@ -2,6 +2,7 @@
 layout: term
 title: çullamak
 slug: cullamak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Hayvana çul örtmek

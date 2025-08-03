@@ -2,6 +2,7 @@
 layout: term
 title: döşem
 slug: dosem
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► tesisat

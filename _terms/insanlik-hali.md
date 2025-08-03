@@ -2,6 +2,7 @@
 layout: term
 title: insanlık hâli
 slug: insanlik-hali
+letter: I
 lisan: Türkçe
 anlamlar:
 - Her insanda görülebilen, olağan karşılanması gereken durum; insan hâli

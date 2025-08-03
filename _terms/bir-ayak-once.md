@@ -2,6 +2,7 @@
 layout: term
 title: bir ayak önce
 slug: bir-ayak-once
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bir an önce

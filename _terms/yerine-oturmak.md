@@ -2,6 +2,7 @@
 layout: term
 title: yerine oturmak
 slug: yerine-oturmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - iyi yerleşmek

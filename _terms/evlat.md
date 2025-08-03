@@ -2,6 +2,7 @@
 layout: term
 title: evlat
 slug: evlat
+letter: E
 lisan: Arapça evlād
 anlamlar:
 - ► çocuk

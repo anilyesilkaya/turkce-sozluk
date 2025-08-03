@@ -2,6 +2,7 @@
 layout: term
 title: kılıçlaşmak
 slug: kiliclasmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kılıçla dövüşmek

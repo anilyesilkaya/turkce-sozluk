@@ -2,6 +2,7 @@
 layout: term
 title: cambultu
 slug: cambultu
+letter: C
 lisan: Türkçe
 anlamlar:
 - Bol suda hareket eden bir cismin çıkardığı ses

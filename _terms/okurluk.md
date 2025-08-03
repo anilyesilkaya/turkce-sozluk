@@ -2,6 +2,7 @@
 layout: term
 title: okurluk
 slug: okurluk
+letter: O
 lisan: Türkçe
 anlamlar:
 - Okur olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: kurmak
 slug: kurmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Makine, cihaz, mobilya vb.ni oluşturan parçaları birleştirerek bütün durumuna getirmek; monte etmek

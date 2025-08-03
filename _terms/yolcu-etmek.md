@@ -2,6 +2,7 @@
 layout: term
 title: yolcu etmek
 slug: yolcu-etmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yola çıkanı uğurlamak

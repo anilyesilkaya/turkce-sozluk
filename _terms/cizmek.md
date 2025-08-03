@@ -2,6 +2,7 @@
 layout: term
 title: çizmek
 slug: cizmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çizgi çekmek

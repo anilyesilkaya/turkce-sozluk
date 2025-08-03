@@ -2,6 +2,7 @@
 layout: term
 title: tenhalık
 slug: tenhalik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tenha olma durumu

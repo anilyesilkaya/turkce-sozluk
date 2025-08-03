@@ -2,6 +2,7 @@
 layout: term
 title: yaralanma
 slug: yaralanma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaralanmak işi

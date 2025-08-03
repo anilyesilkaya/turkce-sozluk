@@ -2,6 +2,7 @@
 layout: term
 title: plase
 slug: plase
+letter: P
 lisan: Fransızca placé
 anlamlar:
 - At yarışlarındaki müşterek bahislerde, sekiz atın katıldığı yarışlarda ilk üç, dört atın katıldığı yarışlarda ise ilk iki dereceyi kazanacak atın bilinmesi biçiminde oynanan oyun

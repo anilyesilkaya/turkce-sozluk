@@ -2,6 +2,7 @@
 layout: term
 title: alacalandırmak
 slug: alacalandirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alaca duruma getirmek

@@ -2,6 +2,7 @@
 layout: term
 title: etyaran
 slug: etyaran
+letter: E
 lisan: Türkçe
 anlamlar:
 - Genellikle parmaklarda olan, derinlere kadar işleyen dolama; kurlağan

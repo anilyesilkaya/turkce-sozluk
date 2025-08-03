@@ -2,6 +2,7 @@
 layout: term
 title: vurgulu
 slug: vurgulu
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vurgu ile söylenen

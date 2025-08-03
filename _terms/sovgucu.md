@@ -2,6 +2,7 @@
 layout: term
 title: sövgücü
 slug: sovgucu
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► küfürbaz

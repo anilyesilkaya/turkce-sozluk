@@ -2,6 +2,7 @@
 layout: term
 title: kar beyaz
 slug: kar-beyaz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bembeyaz, çok beyaz; kar beyazı

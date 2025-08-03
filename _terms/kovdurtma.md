@@ -2,6 +2,7 @@
 layout: term
 title: kovdurtma
 slug: kovdurtma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kovdurtmak işi

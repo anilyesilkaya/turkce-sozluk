@@ -2,6 +2,7 @@
 layout: term
 title: çıt (veya çıtını) çıkarmamak
 slug: cit-veya-citini-cikarmamak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ses çıkarmamak

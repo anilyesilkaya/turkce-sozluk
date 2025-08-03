@@ -2,6 +2,7 @@
 layout: term
 title: sahaya çıkmak
 slug: sahaya-cikmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - takım oyunlarında karşılaşmaya başlamak için sahada yerini almak

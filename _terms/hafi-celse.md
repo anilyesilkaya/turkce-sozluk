@@ -2,6 +2,7 @@
 layout: term
 title: hafi celse
 slug: hafi-celse
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► kapalı oturum

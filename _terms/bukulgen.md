@@ -2,6 +2,7 @@
 layout: term
 title: bükülgen
 slug: bukulgen
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kolay eğilip bükülen

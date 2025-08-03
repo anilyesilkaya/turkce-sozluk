@@ -2,6 +2,7 @@
 layout: term
 title: aratılma
 slug: aratilma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aratılmak işi

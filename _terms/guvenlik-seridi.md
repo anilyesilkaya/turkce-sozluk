@@ -2,6 +2,7 @@
 layout: term
 title: güvenlik şeridi
 slug: guvenlik-seridi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Otoyollarda kesiksiz çizgiyle belirlenen ve en sağ şeritte bulunan, acil durumlarda cankurtaran, itfaiye, polis vb. araçların gidebilmesi için ayrılmış yol bölümü; emniyet şeridi

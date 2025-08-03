@@ -2,6 +2,7 @@
 layout: term
 title: meridyen
 slug: meridyen
+letter: M
 lisan: Fransızca méridien
 anlamlar:
 - ► boylam

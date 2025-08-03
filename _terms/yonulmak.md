@@ -2,6 +2,7 @@
 layout: term
 title: yonulmak
 slug: yonulmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yontulmak

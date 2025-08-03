@@ -2,6 +2,7 @@
 layout: term
 title: vesvese
 slug: vesvese
+letter: V
 lisan: Arapça vesvese
 anlamlar:
 - ► kuruntu

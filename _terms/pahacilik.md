@@ -2,6 +2,7 @@
 layout: term
 title: pahacılık
 slug: pahacilik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pahacı olma durumu

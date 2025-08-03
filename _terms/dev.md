@@ -2,6 +2,7 @@
 layout: term
 title: dev
 slug: dev
+letter: D
 lisan: Farsça dīv
 anlamlar:
 - Korkunç, çok iri ve olağanüstü güçlü masal yaratığı

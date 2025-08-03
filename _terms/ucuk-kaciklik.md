@@ -2,6 +2,7 @@
 layout: term
 title: uçuk kaçıklık
 slug: ucuk-kaciklik
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► deli doluluk

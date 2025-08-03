@@ -2,6 +2,7 @@
 layout: term
 title: oyunbaz
 slug: oyunbaz
+letter: O
 lisan: Türkçe oyun + Farsça -bāz
 anlamlar:
 - Oynamayı seven

@@ -2,6 +2,7 @@
 layout: term
 title: fersizleşmek
 slug: fersizlesmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fersiz duruma gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: baltalamak
 slug: baltalamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Balta ile kesmek

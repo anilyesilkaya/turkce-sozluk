@@ -2,6 +2,7 @@
 layout: term
 title: salpa
 slug: salpa
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► sarkık

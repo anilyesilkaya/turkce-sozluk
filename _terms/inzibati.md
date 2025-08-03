@@ -2,6 +2,7 @@
 layout: term
 title: inzibati
 slug: inzibati
+letter: I
 lisan: Arapça inżibāṭī
 anlamlar:
 - Sıkı düzeni sağlayıcı, düzene bağlayıcı, insan davranışlarını sınırlayıcı, düzenleyici, baskı altına alıcı

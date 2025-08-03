@@ -2,6 +2,7 @@
 layout: term
 title: rezilce
 slug: rezilce
+letter: R
 lisan: Türkçe
 anlamlar:
 - Rezil bir nitelikte olan

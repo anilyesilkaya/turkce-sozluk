@@ -2,6 +2,7 @@
 layout: term
 title: imameci
 slug: imameci
+letter: I
 lisan: Türkçe
 anlamlar:
 - İmame yapan ve satan kimse

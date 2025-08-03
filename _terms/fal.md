@@ -2,6 +2,7 @@
 layout: term
 title: fal
 slug: fal
+letter: F
 lisan: Arapça fāl
 anlamlar:
 - Geleceği öğrenmek, şans ve kısmeti anlamak amacıyla oyun kâğıdı, kahve telvesi, el ayası vb.ne bakarak anlam çıkarma; bakı

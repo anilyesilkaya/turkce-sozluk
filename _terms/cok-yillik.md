@@ -2,6 +2,7 @@
 layout: term
 title: çok yıllık
 slug: cok-yillik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Yıllarca toprak üstünde ve toprak altında canlılığını sürdürebilen bitki

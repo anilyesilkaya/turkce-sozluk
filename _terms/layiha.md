@@ -2,6 +2,7 @@
 layout: term
 title: layiha
 slug: layiha
+letter: L
 lisan: Arapça lāyiḥa
 anlamlar:
 - Herhangi bir konuda bir görüş ve düşünceyi bildiren yazı

@@ -2,6 +2,7 @@
 layout: term
 title: karşısına dikilmek
 slug: karsisina-dikilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - birinin karşısında durmak

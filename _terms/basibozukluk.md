@@ -2,6 +2,7 @@
 layout: term
 title: başıbozukluk
 slug: basibozukluk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başıbozuk olma durumu

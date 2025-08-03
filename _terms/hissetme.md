@@ -2,6 +2,7 @@
 layout: term
 title: hissetme
 slug: hissetme
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hissetmek işi

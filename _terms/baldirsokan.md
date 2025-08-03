@@ -2,6 +2,7 @@
 layout: term
 title: baldırsokan
 slug: baldirsokan
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çift kanatlıların sinekgiller familyasından, karasineğe çok benzeyen, kan emen, hastalık bulaştıran, hayvan sağlığı yönünden zararlı bir tür sinek (Stomaxys calcitrans)

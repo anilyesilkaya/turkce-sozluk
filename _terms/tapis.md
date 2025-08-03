@@ -2,6 +2,7 @@
 layout: term
 title: tapış
 slug: tapis
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tapmak işi

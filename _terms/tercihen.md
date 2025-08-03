@@ -2,6 +2,7 @@
 layout: term
 title: tercihen
 slug: tercihen
+letter: T
 lisan: Arapça tercīḥen
 anlamlar:
 - Yeğleyerek, yeğleme yolu ile

@@ -2,6 +2,7 @@
 layout: term
 title: ilzam
 slug: ilzam
+letter: I
 lisan: Arapça ilzām
 anlamlar:
 - Tartışma veya yargılamada delillerle karşı tarafı cevap veremez duruma getirme; susturma

@@ -2,6 +2,7 @@
 layout: term
 title: meslek
 slug: meslek
+letter: M
 lisan: Arapça meslek
 anlamlar:
 - Belli bir eğitim ile kazanılan, sistemli bilgi ve becerilere dayalı, insanlara yararlı mal üretmek, hizmet vermek ve karşılığında para kazanmak için yapılan, kuralları belirlenmiş iş

@@ -2,6 +2,7 @@
 layout: term
 title: şarj etmek
 slug: sarj-etmek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - yüklemek

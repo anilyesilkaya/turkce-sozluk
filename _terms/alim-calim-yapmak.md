@@ -2,6 +2,7 @@
 layout: term
 title: alım çalım yapmak
 slug: alim-calim-yapmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - çalımlanmak

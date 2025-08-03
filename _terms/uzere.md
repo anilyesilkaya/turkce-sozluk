@@ -2,6 +2,7 @@
 layout: term
 title: üzere
 slug: uzere
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - '... amacıyla'

@@ -2,6 +2,7 @@
 layout: term
 title: lügatçe
 slug: lugatce
+letter: L
 lisan: Arapça luġat + Farsça -çe
 anlamlar:
 - Küçük sözlük

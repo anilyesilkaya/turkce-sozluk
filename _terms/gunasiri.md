@@ -2,6 +2,7 @@
 layout: term
 title: günaşırı
 slug: gunasiri
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bir gün ara ile, iki günde bir

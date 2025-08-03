@@ -2,6 +2,7 @@
 layout: term
 title: şakımak
 slug: sakimak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Ötücü kuşlar ezgili ses çıkarmak, ötmek; şakramak, terennüm etmek

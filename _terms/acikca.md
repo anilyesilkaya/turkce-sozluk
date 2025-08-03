@@ -2,6 +2,7 @@
 layout: term
 title: açıkça
 slug: acikca
+letter: A
 lisan: Türkçe
 anlamlar:
 - Gizli bir yönü kalmaksızın, kolay anlaşılır bir biçimde; alenen

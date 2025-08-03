@@ -2,6 +2,7 @@
 layout: term
 title: adli tabip
 slug: adli-tabip
+letter: A
 lisan: Türkçe
 anlamlar:
 - Adli tıpta görevli doktor

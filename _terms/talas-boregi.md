@@ -2,6 +2,7 @@
 layout: term
 title: talaş böreği
 slug: talas-boregi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Mayalı hamurdan ince ve kâse büyüklüğünde açılan yufkanın içine pişirilmiş kuşbaşı et ve sebze konarak yapılan bir börek türü; talaş kebabı

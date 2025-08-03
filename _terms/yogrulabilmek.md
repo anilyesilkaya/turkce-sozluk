@@ -2,6 +2,7 @@
 layout: term
 title: yoğrulabilmek
 slug: yogrulabilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yoğrulma ihtimali veya imkânı bulunmak

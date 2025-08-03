@@ -2,6 +2,7 @@
 layout: term
 title: emirberlik
 slug: emirberlik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Emirber olma durumu

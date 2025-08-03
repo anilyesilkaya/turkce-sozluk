@@ -2,6 +2,7 @@
 layout: term
 title: yüz binlerce
 slug: yuz-binlerce
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Pek çok, çok sayıda

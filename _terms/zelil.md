@@ -2,6 +2,7 @@
 layout: term
 title: zelil
 slug: zelil
+letter: Z
 lisan: Arapça ẕelīl
 anlamlar:
 - Hor görülen, aşağı tutulan, aşağılanan

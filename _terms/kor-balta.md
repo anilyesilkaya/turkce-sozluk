@@ -2,6 +2,7 @@
 layout: term
 title: 'kör balta '
 slug: kor-balta
+letter: K
 lisan: Türkçe
 anlamlar:
 - Keskin olmayan balta

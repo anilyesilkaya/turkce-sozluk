@@ -2,6 +2,7 @@
 layout: term
 title: salepçi
 slug: salepci
+letter: S
 lisan: Türkçe
 anlamlar:
 - Salep yapıp satan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: katılma
 slug: katilma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Katılmak işi; katışma, iltihak, inzimam

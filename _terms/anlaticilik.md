@@ -2,6 +2,7 @@
 layout: term
 title: anlatıcılık
 slug: anlaticilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anlatıcı olma durumu

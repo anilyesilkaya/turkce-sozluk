@@ -2,6 +2,7 @@
 layout: term
 title: dizi
 slug: dizi
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► sıra

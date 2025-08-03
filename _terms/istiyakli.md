@@ -2,6 +2,7 @@
 layout: term
 title: iştiyaklı
 slug: istiyakli
+letter: I
 lisan: Türkçe
 anlamlar:
 - İştiyakı olan

@@ -2,6 +2,7 @@
 layout: term
 title: azap vermek
 slug: azap-vermek
+letter: A
 lisan: Türkçe
 anlamlar:
 - acı çektirmek, üzmek

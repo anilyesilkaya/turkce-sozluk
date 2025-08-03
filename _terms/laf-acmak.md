@@ -2,6 +2,7 @@
 layout: term
 title: laf açmak
 slug: laf-acmak
+letter: L
 lisan: Türkçe
 anlamlar:
 - söz açmak

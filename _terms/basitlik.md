@@ -2,6 +2,7 @@
 layout: term
 title: basitlik
 slug: basitlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Basit olma durumu

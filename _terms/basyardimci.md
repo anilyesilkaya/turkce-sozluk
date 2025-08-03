@@ -2,6 +2,7 @@
 layout: term
 title: başyardımcı
 slug: basyardimci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir kurum veya kuruluşta görevli amirin yardımcılarından en üst düzeyde olanı

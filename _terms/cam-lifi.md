@@ -2,6 +2,7 @@
 layout: term
 title: cam lifi
 slug: cam-lifi
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► cam elyafı

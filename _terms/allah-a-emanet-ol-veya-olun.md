@@ -2,6 +2,7 @@
 layout: term
 title: Allah'a emanet ol (veya olun)
 slug: allah-a-emanet-ol-veya-olun
+letter: A
 lisan: Türkçe
 anlamlar:
 - ayrılanın kalana söylediği bir esenleme sözü

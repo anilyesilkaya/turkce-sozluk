@@ -2,6 +2,7 @@
 layout: term
 title: kazımak
 slug: kazimak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir aleti sürterek bir şeyin yüzündeki tabakayı kaldırmak

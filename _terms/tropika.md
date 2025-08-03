@@ -2,6 +2,7 @@
 layout: term
 title: tropika
 slug: tropika
+letter: T
 lisan: İtalyanca tropico
 anlamlar:
 - ► dönence

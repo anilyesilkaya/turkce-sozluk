@@ -2,6 +2,7 @@
 layout: term
 title: odalık
 slug: odalik
+letter: O
 lisan: Türkçe
 anlamlar:
 - Bir erkeğin nikâhsız olarak aldığı kadın

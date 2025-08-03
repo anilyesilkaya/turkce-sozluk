@@ -2,6 +2,7 @@
 layout: term
 title: altüst etmek
 slug: altust-etmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - alt yüzünü üst yüzüne getirmek

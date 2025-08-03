@@ -2,6 +2,7 @@
 layout: term
 title: tümevarımsal
 slug: tumevarimsal
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tümevarımla ilgili

@@ -2,6 +2,7 @@
 layout: term
 title: şevk
 slug: sevk
+letter: Ş
 lisan: Arapça şevḳ
 anlamlar:
 - Aşırı heves, aşırı istek

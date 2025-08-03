@@ -2,6 +2,7 @@
 layout: term
 title: ayakkabı vurmak
 slug: ayakkabi-vurmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ayakkabı ayağı zedelemek, ayağı rahatsız etmek

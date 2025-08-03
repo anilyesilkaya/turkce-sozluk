@@ -2,6 +2,7 @@
 layout: term
 title: zait
 slug: zait
+letter: Z
 lisan: Arapça zāʾid
 anlamlar:
 - Çoğaltan, artıran

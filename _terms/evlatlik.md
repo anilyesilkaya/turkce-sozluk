@@ -2,6 +2,7 @@
 layout: term
 title: evlatlık
 slug: evlatlik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Evlat olma durumu

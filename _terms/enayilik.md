@@ -2,6 +2,7 @@
 layout: term
 title: enayilik
 slug: enayilik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Enayi olma durumu

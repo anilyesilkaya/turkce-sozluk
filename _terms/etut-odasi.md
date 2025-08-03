@@ -2,6 +2,7 @@
 layout: term
 title: etüt odası
 slug: etut-odasi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Okullarda etüt için ayrılmış bölüm

@@ -2,6 +2,7 @@
 layout: term
 title: hayır kalmamak
 slug: hayir-kalmamak
+letter: H
 lisan: Türkçe
 anlamlar:
 - işe yarar durumu kalmamak, artık işe yaramaz olmak

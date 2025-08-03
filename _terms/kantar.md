@@ -2,6 +2,7 @@
 layout: term
 title: kantar
 slug: kantar
+letter: K
 lisan: Arapça ḳinṭār
 anlamlar:
 - Ağırlık sıfırken yatay duran bir kaldıraç koluna dik olarak tutturulmuş bir ibrenin sapmasıyla kütleleri tartan araç

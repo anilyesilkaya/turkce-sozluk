@@ -2,6 +2,7 @@
 layout: term
 title: cihetiyle
 slug: cihetiyle
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► yönüyle

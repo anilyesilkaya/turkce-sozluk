@@ -2,6 +2,7 @@
 layout: term
 title: löpür löpür oynamak
 slug: lopur-lopur-oynamak
+letter: L
 lisan: Türkçe
 anlamlar:
 - bedenin sarkık et kitlesi sağa sola, aşağı yukarı hareket etmek

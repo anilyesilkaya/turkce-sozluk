@@ -2,6 +2,7 @@
 layout: term
 title: ana menü
 slug: ana-menu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir lokantada müşterilere sunmak üzere her gün yapılan yemeklerden oluşan menü

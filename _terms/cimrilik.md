@@ -2,6 +2,7 @@
 layout: term
 title: cimrilik
 slug: cimrilik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cimri olma durumu; eli sıkılık, hasislik, hisset, imsak, mıhsıçtılık, nekeslik, pintilik, varyemezlik

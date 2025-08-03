@@ -2,6 +2,7 @@
 layout: term
 title: enginar
 slug: enginar
+letter: E
 lisan: Rumca
 anlamlar:
 - Birleşikgillerden çok yıllık, dikenli bitki (Cynara scolymus)

@@ -2,6 +2,7 @@
 layout: term
 title: banyosuz
 slug: banyosuz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Banyosu olmayan

@@ -2,6 +2,7 @@
 layout: term
 title: samur
 slug: samur
+letter: S
 lisan: Arapça semmūr
 anlamlar:
 - Sansargillerden, Kuzey Avrupa'da yaşayan, çok yumuşak ve ince tüyleri olan, postu için avlanan küçük hayvan (Martes zibellina)

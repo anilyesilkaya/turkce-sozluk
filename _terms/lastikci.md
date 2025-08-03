@@ -2,6 +2,7 @@
 layout: term
 title: lastikçi
 slug: lastikci
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lastik ürünlerini yapan veya satan kimse

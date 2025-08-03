@@ -2,6 +2,7 @@
 layout: term
 title: sırtına geçirmek
 slug: sirtina-gecirmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - bir şeyi giymek

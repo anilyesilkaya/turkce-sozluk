@@ -2,6 +2,7 @@
 layout: term
 title: kapı bir komşu
 slug: kapi-bir-komsu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bitişikte oturan komşu

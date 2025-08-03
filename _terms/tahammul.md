@@ -2,6 +2,7 @@
 layout: term
 title: tahammül
 slug: tahammul
+letter: T
 lisan: Arapça taḥammul
 anlamlar:
 - Nesnenin, güçlü, zorlayıcı dış etkenlere karşı koyabilmesi, dayanması

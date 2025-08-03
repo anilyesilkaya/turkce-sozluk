@@ -2,6 +2,7 @@
 layout: term
 title: şekersiz
 slug: sekersiz
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şekeri olmayan

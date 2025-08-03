@@ -2,6 +2,7 @@
 layout: term
 title: karaya düşürmek
 slug: karaya-dusurmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - gemi vb.ni kıyıya yanaştırmak

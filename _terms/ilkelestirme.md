@@ -2,6 +2,7 @@
 layout: term
 title: ilkeleştirme
 slug: ilkelestirme
+letter: I
 lisan: Türkçe
 anlamlar:
 - İlkeleştirmek işi

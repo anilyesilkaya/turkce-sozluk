@@ -2,6 +2,7 @@
 layout: term
 title: topaç
 slug: topac
+letter: T
 lisan: Türkçe
 anlamlar:
 - Çevresine ip sarılıp birden bırakılarak veya kamçı ile vurularak döndürülen koni biçiminde ucu sivri oyuncak

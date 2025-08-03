@@ -2,6 +2,7 @@
 layout: term
 title: kanat
 slug: kanat
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kuşlarda ve böceklerde uçmayı sağlayan organ

@@ -2,6 +2,7 @@
 layout: term
 title: balkonumsu
 slug: balkonumsu
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► balkonsu

@@ -2,6 +2,7 @@
 layout: term
 title: kılına halel gelmemek
 slug: kilina-halel-gelmemek
+letter: K
 lisan: Türkçe
 anlamlar:
 - hiçbir zarara uğramamak

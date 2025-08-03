@@ -2,6 +2,7 @@
 layout: term
 title: ekici
 slug: ekici
+letter: E
 lisan: Türkçe
 anlamlar:
 - Herhangi bir tarım ürününü üreten, tarımla uğraşan çiftçi

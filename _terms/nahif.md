@@ -2,6 +2,7 @@
 layout: term
 title: nahif
 slug: nahif
+letter: N
 lisan: Arapça naḥīf
 anlamlar:
 - İnce, duygulu, hassas olan

@@ -2,6 +2,7 @@
 layout: term
 title: fraklı
 slug: frakli
+letter: F
 lisan: Türkçe
 anlamlar:
 - Frak giymiş olan

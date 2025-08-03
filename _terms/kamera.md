@@ -2,6 +2,7 @@
 layout: term
 title: kamera
 slug: kamera
+letter: K
 lisan: Fransızca caméra
 anlamlar:
 - Görüntülerin filme alınmasını sağlayan alet; alıcı

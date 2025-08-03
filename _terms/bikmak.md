@@ -2,6 +2,7 @@
 layout: term
 title: bıkmak
 slug: bikmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Tekrarlanması, sürüp gitmesi yüzünden bir şeyden doygunluk veya yorgunluk duyarak onu istemez duruma gelmek

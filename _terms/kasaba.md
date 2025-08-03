@@ -2,6 +2,7 @@
 layout: term
 title: kasaba
 slug: kasaba
+letter: K
 lisan: Arapça ḳaṣaba
 anlamlar:
 - İlçeden küçük, köyden büyük, nüfusu iki bin ile yirmi bin arasında olan, belediye ile yönetilen, henüz kırsal özelliklerini yitirmemiş yerleşim merkezi; belde

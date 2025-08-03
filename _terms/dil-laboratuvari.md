@@ -2,6 +2,7 @@
 layout: term
 title: dil laboratuvarı
 slug: dil-laboratuvari
+letter: D
 lisan: Türkçe
 anlamlar:
 - Yabancı dil öğretiminde, kayıtlı dil malzemesiyle ders yapılan yer; laboratuvar

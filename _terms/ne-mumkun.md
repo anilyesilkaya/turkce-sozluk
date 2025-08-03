@@ -2,6 +2,7 @@
 layout: term
 title: ne mümkün
 slug: ne-mumkun
+letter: N
 lisan: Türkçe
 anlamlar:
 - olacak şey değil, imkânsız

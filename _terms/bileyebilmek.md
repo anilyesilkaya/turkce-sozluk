@@ -2,6 +2,7 @@
 layout: term
 title: bileyebilmek
 slug: bileyebilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bileme ihtimali veya imkânı bulunmak

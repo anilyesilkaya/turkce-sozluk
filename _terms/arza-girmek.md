@@ -2,6 +2,7 @@
 layout: term
 title: arza girmek
 slug: arza-girmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Sadrazam divanda görüşülerek kararlaştırılan hususları arz etmek üzere padişahın huzuruna girmek

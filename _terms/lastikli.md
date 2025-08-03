@@ -2,6 +2,7 @@
 layout: term
 title: lastikli
 slug: lastikli
+letter: L
 lisan: Türkçe
 anlamlar:
 - İçinde veya üzerinde lastik bulunan

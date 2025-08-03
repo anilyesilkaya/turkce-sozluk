@@ -2,6 +2,7 @@
 layout: term
 title: talip
 slug: talip
+letter: T
 lisan: Arapça ṭālib
 anlamlar:
 - İsteyen, talep eden, istekli olan kimse

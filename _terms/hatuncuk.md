@@ -2,6 +2,7 @@
 layout: term
 title: hatuncuk
 slug: hatuncuk
+letter: H
 lisan: Türkçe
 anlamlar:
 - Küçük hatun

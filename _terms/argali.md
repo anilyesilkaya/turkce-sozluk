@@ -2,6 +2,7 @@
 layout: term
 title: argali
 slug: argali
+letter: A
 lisan: Fransızca argali
 anlamlar:
 - ► yaban koyunu

@@ -2,6 +2,7 @@
 layout: term
 title: Kemalizm
 slug: kemalizm
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► Atatürkçülük

@@ -2,6 +2,7 @@
 layout: term
 title: öğretmenlik
 slug: ogretmenlik
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öğretmen olma durumu; muallimlik

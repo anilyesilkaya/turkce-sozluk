@@ -2,6 +2,7 @@
 layout: term
 title: torpilli
 slug: torpilli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Torpili bulunan

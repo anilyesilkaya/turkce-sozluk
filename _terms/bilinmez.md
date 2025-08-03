@@ -2,6 +2,7 @@
 layout: term
 title: bilinmez
 slug: bilinmez
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bilinmeyen

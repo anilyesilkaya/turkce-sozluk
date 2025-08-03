@@ -2,6 +2,7 @@
 layout: term
 title: bozdurtmak
 slug: bozdurtmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bozdurmak

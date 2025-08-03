@@ -2,6 +2,7 @@
 layout: term
 title: ferden ferda
 slug: ferden-ferda
+letter: F
 lisan: Arapça ferden ferden
 anlamlar:
 - Tek tek

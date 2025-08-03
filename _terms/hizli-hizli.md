@@ -2,6 +2,7 @@
 layout: term
 title: hızlı hızlı
 slug: hizli-hizli
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► çabucak

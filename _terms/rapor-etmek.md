@@ -2,6 +2,7 @@
 layout: term
 title: rapor etmek
 slug: rapor-etmek
+letter: R
 lisan: Türkçe
 anlamlar:
 - rapor vermek

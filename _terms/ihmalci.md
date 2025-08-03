@@ -2,6 +2,7 @@
 layout: term
 title: ihmalci
 slug: ihmalci
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► ihmalkâr

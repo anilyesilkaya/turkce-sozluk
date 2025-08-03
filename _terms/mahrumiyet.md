@@ -2,6 +2,7 @@
 layout: term
 title: mahrumiyet
 slug: mahrumiyet
+letter: M
 lisan: Arapça maḥrūmiyyet
 anlamlar:
 - ► yoksunluk

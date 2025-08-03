@@ -2,6 +2,7 @@
 layout: term
 title: tedai
 slug: tedai
+letter: T
 lisan: Arapça tedāʿī
 anlamlar:
 - ► çağrışım

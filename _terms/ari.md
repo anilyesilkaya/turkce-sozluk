@@ -2,6 +2,7 @@
 layout: term
 title: ari
 slug: ari
+letter: A
 lisan: Arapça ʿārī
 anlamlar:
 - Arınmış, soyutlanmış olan

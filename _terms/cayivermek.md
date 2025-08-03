@@ -2,6 +2,7 @@
 layout: term
 title: cayıvermek
 slug: cayivermek
+letter: C
 lisan: Türkçe
 anlamlar:
 - Çabucak caymak

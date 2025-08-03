@@ -2,6 +2,7 @@
 layout: term
 title: hatırına getirmek
 slug: hatirina-getirmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - hatırlamasına yol açmak

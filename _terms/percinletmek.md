@@ -2,6 +2,7 @@
 layout: term
 title: perçinletmek
 slug: percinletmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Perçinleme işini yaptırmak

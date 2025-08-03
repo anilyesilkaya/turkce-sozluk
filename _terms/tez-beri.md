@@ -2,6 +2,7 @@
 layout: term
 title: tez beri
 slug: tez-beri
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► kolaylıkla

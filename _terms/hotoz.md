@@ -2,6 +2,7 @@
 layout: term
 title: hotoz
 slug: hotoz
+letter: H
 lisan: Türkçe
 anlamlar:
 - Kadınların süs için saçlarının üstüne taktıkları, çeşitli renk ve biçimde yapılmış küçük başlık

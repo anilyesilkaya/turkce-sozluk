@@ -2,6 +2,7 @@
 layout: term
 title: eli harama uzanmak
 slug: eli-harama-uzanmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - dinî bakımdan yasaklanmış bir işe yönelmek

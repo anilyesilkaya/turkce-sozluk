@@ -2,6 +2,7 @@
 layout: term
 title: ahenktar
 slug: ahenktar
+letter: A
 lisan: Farsça āheng-dār
 anlamlar:
 - ► ahenkli

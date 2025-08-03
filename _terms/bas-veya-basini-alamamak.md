@@ -2,6 +2,7 @@
 layout: term
 title: baş (veya başını) alamamak
 slug: bas-veya-basini-alamamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - çok uğraştıran bir konu yüzünden vakit ve fırsat bulamamak

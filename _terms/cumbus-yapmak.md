@@ -2,6 +2,7 @@
 layout: term
 title: cümbüş yapmak
 slug: cumbus-yapmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - toplu olarak eğlenmek

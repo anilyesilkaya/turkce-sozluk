@@ -2,6 +2,7 @@
 layout: term
 title: mümkün görünmek
 slug: mumkun-gorunmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - olabilmek

@@ -2,6 +2,7 @@
 layout: term
 title: öykünmek
 slug: oykunmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Taklit etmek

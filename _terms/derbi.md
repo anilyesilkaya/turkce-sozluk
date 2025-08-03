@@ -2,6 +2,7 @@
 layout: term
 title: derbi
 slug: derbi
+letter: D
 lisan: İngilizce derby
 anlamlar:
 - Aynı şehrin takımları arasında oynanan oyun

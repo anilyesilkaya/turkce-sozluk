@@ -2,6 +2,7 @@
 layout: term
 title: omuzdaş
 slug: omuzdas
+letter: O
 lisan: Türkçe
 anlamlar:
 - Aynı amaçla ve birlikte hareket eden kimse; ayaktaş, hempa

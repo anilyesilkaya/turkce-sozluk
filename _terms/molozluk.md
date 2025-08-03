@@ -2,6 +2,7 @@
 layout: term
 title: molozluk
 slug: molozluk
+letter: M
 lisan: Türkçe
 anlamlar:
 - Molozla dolu toprak yığını

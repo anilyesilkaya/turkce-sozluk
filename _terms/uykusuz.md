@@ -2,6 +2,7 @@
 layout: term
 title: uykusuz
 slug: uykusuz
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyumamış veya uykusunu alamamış

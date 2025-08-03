@@ -2,6 +2,7 @@
 layout: term
 title: esatir
 slug: esatir
+letter: E
 lisan: Arapça esāṭīr
 anlamlar:
 - ► mitoloji

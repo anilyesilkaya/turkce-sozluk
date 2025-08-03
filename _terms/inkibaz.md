@@ -2,6 +2,7 @@
 layout: term
 title: inkıbaz
 slug: inkibaz
+letter: I
 lisan: Arapça inḳibāż
 anlamlar:
 - Büzülüp toplanma

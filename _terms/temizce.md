@@ -2,6 +2,7 @@
 layout: term
 title: temizce
 slug: temizce
+letter: T
 lisan: Türkçe
 anlamlar:
 - Temiz bir biçimde

@@ -2,6 +2,7 @@
 layout: term
 title: banka defteri
 slug: banka-defteri
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► banka cüzdanı

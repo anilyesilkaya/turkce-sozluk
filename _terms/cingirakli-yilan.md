@@ -2,6 +2,7 @@
 layout: term
 title: çıngıraklı yılan
 slug: cingirakli-yilan
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıngıraklı yılangillerden, kuyruk ucundaki sert pulları kımıldatarak kuru yaprak hışırtısına benzer bir ses çıkartan tehlikeli bir yılan (Crotalus)

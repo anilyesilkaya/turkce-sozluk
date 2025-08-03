@@ -2,6 +2,7 @@
 layout: term
 title: yedili
 slug: yedili
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yedi parçadan oluşan, kendinde herhangi bir şeyden yedi tane bulunan

@@ -2,6 +2,7 @@
 layout: term
 title: akılsızca
 slug: akilsizca
+letter: A
 lisan: Türkçe
 anlamlar:
 - Akılsıza yakışan

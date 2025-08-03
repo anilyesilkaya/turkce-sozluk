@@ -2,6 +2,7 @@
 layout: term
 title: kılık kıyafet
 slug: kilik-kiyafet
+letter: K
 lisan: Türkçe
 anlamlar:
 - Üst baş ve dış görünüş; kalıp kıyafet, kisve

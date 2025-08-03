@@ -2,6 +2,7 @@
 layout: term
 title: soru eki
 slug: soru-eki
+letter: S
 lisan: Türkçe
 anlamlar:
 - Soru anlamı veren ek

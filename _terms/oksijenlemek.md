@@ -2,6 +2,7 @@
 layout: term
 title: oksijenlemek
 slug: oksijenlemek
+letter: O
 lisan: Türkçe
 anlamlar:
 - Bir maddenin birleşimine oksijen katmak

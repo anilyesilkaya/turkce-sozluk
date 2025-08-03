@@ -2,6 +2,7 @@
 layout: term
 title: tozlaşma
 slug: tozlasma
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tozlaşmak işi

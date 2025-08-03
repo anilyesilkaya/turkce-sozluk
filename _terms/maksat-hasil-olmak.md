@@ -2,6 +2,7 @@
 layout: term
 title: maksat hasıl olmak
 slug: maksat-hasil-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - amaca ulaşılmak, amaç gerçekleşmek

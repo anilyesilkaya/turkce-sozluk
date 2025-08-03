@@ -2,6 +2,7 @@
 layout: term
 title: çökertiverme
 slug: cokertiverme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çökertivermek işi

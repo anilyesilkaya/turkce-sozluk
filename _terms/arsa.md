@@ -2,6 +2,7 @@
 layout: term
 title: arsa
 slug: arsa
+letter: A
 lisan: Arapça ʿarṣa
 anlamlar:
 - Üzerine yapı yapılmak için ayrılmış yer

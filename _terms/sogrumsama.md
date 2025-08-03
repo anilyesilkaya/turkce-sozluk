@@ -2,6 +2,7 @@
 layout: term
 title: soğrumsama
 slug: sogrumsama
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► yüze soğurma

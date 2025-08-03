@@ -2,6 +2,7 @@
 layout: term
 title: ruhani
 slug: ruhani
+letter: R
 lisan: Arapça rūḥānī
 anlamlar:
 - Ruhla ilgili

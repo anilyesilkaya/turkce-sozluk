@@ -2,6 +2,7 @@
 layout: term
 title: çekişmesiz
 slug: cekismesiz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çekişmeye yol açmayan

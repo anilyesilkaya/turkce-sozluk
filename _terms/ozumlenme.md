@@ -2,6 +2,7 @@
 layout: term
 title: özümlenme
 slug: ozumlenme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Besini özümlemek işi

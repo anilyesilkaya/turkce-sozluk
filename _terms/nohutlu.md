@@ -2,6 +2,7 @@
 layout: term
 title: nohutlu
 slug: nohutlu
+letter: N
 lisan: Türkçe
 anlamlar:
 - İçine nohut katılmış (yiyecek)

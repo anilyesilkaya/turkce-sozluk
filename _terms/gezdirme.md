@@ -2,6 +2,7 @@
 layout: term
 title: gezdirme
 slug: gezdirme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gezdirmek işi

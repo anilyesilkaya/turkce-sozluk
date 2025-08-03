@@ -2,6 +2,7 @@
 layout: term
 title: yağmurlu
 slug: yagmurlu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yağmuru olan, yağmur yağan

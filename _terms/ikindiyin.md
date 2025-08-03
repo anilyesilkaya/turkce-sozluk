@@ -2,6 +2,7 @@
 layout: term
 title: ikindiyin
 slug: ikindiyin
+letter: I
 lisan: Türkçe
 anlamlar:
 - Günün ikindi saatlerinde

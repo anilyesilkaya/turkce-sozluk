@@ -2,6 +2,7 @@
 layout: term
 title: polisiye olay
 slug: polisiye-olay
+letter: P
 lisan: Türkçe
 anlamlar:
 - Polisin görev alanına giren olay

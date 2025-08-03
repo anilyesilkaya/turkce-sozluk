@@ -2,6 +2,7 @@
 layout: term
 title: matem
 slug: matem
+letter: M
 lisan: Arapça mātem
 anlamlar:
 - ► yas

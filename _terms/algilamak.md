@@ -2,6 +2,7 @@
 layout: term
 title: algılamak
 slug: algilamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir olayı veya bir nesnenin varlığını duyu organlarıyla kavramak; idrak etmek

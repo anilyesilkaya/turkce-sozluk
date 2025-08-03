@@ -2,6 +2,7 @@
 layout: term
 title: sallantılı
 slug: sallantili
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sallantısı olan

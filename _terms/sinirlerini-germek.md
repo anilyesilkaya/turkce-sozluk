@@ -2,6 +2,7 @@
 layout: term
 title: sinirlerini germek
 slug: sinirlerini-germek
+letter: S
 lisan: Türkçe
 anlamlar:
 - birini sinirlenmeye hazır bir duruma getirmek

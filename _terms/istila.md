@@ -2,6 +2,7 @@
 layout: term
 title: istila
 slug: istila
+letter: I
 lisan: Arapça istīlāʾ
 anlamlar:
 - Bir ülkeyi silah gücüyle ele geçirme

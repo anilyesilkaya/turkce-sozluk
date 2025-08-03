@@ -2,6 +2,7 @@
 layout: term
 title: külah kapmak
 slug: kulah-kapmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - düzen, dalavere ile bir işin başına geçmek

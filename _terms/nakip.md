@@ -2,6 +2,7 @@
 layout: term
 title: nakip
 slug: nakip
+letter: N
 lisan: Arapça naḳīb
 anlamlar:
 - Bir kavmin, kabilenin başkanı veya onun vekili

@@ -2,6 +2,7 @@
 layout: term
 title: başmuallimlik
 slug: basmuallimlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► başöğretmenlik

@@ -2,6 +2,7 @@
 layout: term
 title: güzeşte
 slug: guzeste
+letter: G
 lisan: Farsça guẕeşte
 anlamlar:
 - Geçmiş, geçen

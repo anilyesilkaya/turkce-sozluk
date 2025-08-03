@@ -2,6 +2,7 @@
 layout: term
 title: yerini doldurmak
 slug: yerini-doldurmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - görevini başarı ile yapar olmak

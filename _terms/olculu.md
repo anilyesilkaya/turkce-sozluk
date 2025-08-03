@@ -2,6 +2,7 @@
 layout: term
 title: ölçülü
 slug: olculu
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ölçüsü alınmış, ölçülmüş

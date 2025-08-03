@@ -2,6 +2,7 @@
 layout: term
 title: türetme eki
 slug: turetme-eki
+letter: T
 lisan: Türkçe
 anlamlar:
 - Ad veya fiillere getirilerek yeni kelime yapan ek

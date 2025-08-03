@@ -2,6 +2,7 @@
 layout: term
 title: geçindirebilmek
 slug: gecindirebilmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Geçindirme ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: yalvarma
 slug: yalvarma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yalvarmak işi

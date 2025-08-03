@@ -2,6 +2,7 @@
 layout: term
 title: not etmek
 slug: not-etmek
+letter: N
 lisan: Türkçe
 anlamlar:
 - not olarak yazmak, kaydetmek

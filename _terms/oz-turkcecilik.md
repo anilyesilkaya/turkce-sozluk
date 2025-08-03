@@ -2,6 +2,7 @@
 layout: term
 title: öz Türkçecilik
 slug: oz-turkcecilik
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Türkçeyi tüm yabancı kelime ve kurallardan arındırmaya çalışan yaklaşım

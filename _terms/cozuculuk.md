@@ -2,6 +2,7 @@
 layout: term
 title: çözücülük
 slug: cozuculuk
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çözücü olma durumu

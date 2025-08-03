@@ -2,6 +2,7 @@
 layout: term
 title: her nasılsa
 slug: her-nasilsa
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► nedense

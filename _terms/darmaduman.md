@@ -2,6 +2,7 @@
 layout: term
 title: darmaduman
 slug: darmaduman
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► karmakarışık

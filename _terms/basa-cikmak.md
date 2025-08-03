@@ -2,6 +2,7 @@
 layout: term
 title: başa çıkmak
 slug: basa-cikmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir şeye gücü yetmek

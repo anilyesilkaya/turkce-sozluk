@@ -2,6 +2,7 @@
 layout: term
 title: doktrin
 slug: doktrin
+letter: D
 lisan: Fransızca doctrine
 anlamlar:
 - ► öğreti

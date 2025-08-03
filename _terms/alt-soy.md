@@ -2,6 +2,7 @@
 layout: term
 title: alt soy
 slug: alt-soy
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kişinin kendi çocukları ve çocuklarının çocukları; füru

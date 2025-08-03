@@ -2,6 +2,7 @@
 layout: term
 title: bakırlaşmak
 slug: bakirlasmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bakır rengini almak, rengi bakırın rengine benzemek

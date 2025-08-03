@@ -2,6 +2,7 @@
 layout: term
 title: canı gelmek
 slug: cani-gelmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - yeniden canlanmak, canı yerine gelmek

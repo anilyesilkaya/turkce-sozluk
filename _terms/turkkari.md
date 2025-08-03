@@ -2,6 +2,7 @@
 layout: term
 title: Türkkâri
 slug: turkkari
+letter: T
 lisan: Türkçe
 anlamlar:
 - Türk yapımı

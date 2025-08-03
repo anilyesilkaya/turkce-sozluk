@@ -2,6 +2,7 @@
 layout: term
 title: apoşi
 slug: aposi
+letter: A
 lisan: Rumca
 anlamlar:
 - Çember biçiminde, telden yapılma, torbaya benzeyen büyük gözlü ağ

@@ -2,6 +2,7 @@
 layout: term
 title: baba hindi
 slug: baba-hindi
+letter: B
 lisan: Türkçe
 anlamlar:
 - İri ve iyi beslenmiş erkek hindi

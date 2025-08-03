@@ -2,6 +2,7 @@
 layout: term
 title: kollama
 slug: kollama
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kollamak işi

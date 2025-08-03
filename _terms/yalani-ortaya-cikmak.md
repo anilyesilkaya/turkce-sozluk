@@ -2,6 +2,7 @@
 layout: term
 title: yalanı ortaya çıkmak
 slug: yalani-ortaya-cikmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - bir kimsenin yalan söylediği anlaşılmak

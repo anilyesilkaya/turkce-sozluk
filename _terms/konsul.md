@@ -2,6 +2,7 @@
 layout: term
 title: konsül
 slug: konsul
+letter: K
 lisan: Fransızca consul
 anlamlar:
 - Roma'da her yıl seçilen iki devlet başkanından her biri

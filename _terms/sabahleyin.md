@@ -2,6 +2,7 @@
 layout: term
 title: sabahleyin
 slug: sabahleyin
+letter: S
 lisan: Türkçe
 anlamlar:
 - Günün başlangıcında, günün ilk saatlerinde; sabahtan

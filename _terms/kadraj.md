@@ -2,6 +2,7 @@
 layout: term
 title: kadraj
 slug: kadraj
+letter: K
 lisan: Fransızca cadrage
 anlamlar:
 - Sinema ve fotoğrafçılıkta görüntüyü çerçeve içine alma

@@ -2,6 +2,7 @@
 layout: term
 title: yol yakınken
 slug: yol-yakinken
+letter: Y
 lisan: Türkçe
 anlamlar:
 - sezilen veya beliren kötü duruma düşmeden

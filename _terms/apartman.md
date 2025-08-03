@@ -2,6 +2,7 @@
 layout: term
 title: apartman
 slug: apartman
+letter: A
 lisan: Fransızca appartement
 anlamlar:
 - Birkaç katlı ve her katında bir veya birkaç daire bulunan yapı

@@ -2,6 +2,7 @@
 layout: term
 title: bölgeleme
 slug: bolgeleme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bölgelemek işi

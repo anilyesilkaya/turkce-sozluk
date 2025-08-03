@@ -2,6 +2,7 @@
 layout: term
 title: falso vermek
 slug: falso-vermek
+letter: F
 lisan: Türkçe
 anlamlar:
 - bozulmaya yüz tutmak

@@ -2,6 +2,7 @@
 layout: term
 title: ucu ucuna
 slug: ucu-ucuna
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ancak, en son kertede; kılı kılına, ucun ucun, zoru zoruna

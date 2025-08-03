@@ -2,6 +2,7 @@
 layout: term
 title: asker ocağına vermek
 slug: asker-ocagina-vermek
+letter: A
 lisan: Türkçe
 anlamlar:
 - askere göndermek

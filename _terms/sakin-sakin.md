@@ -2,6 +2,7 @@
 layout: term
 title: sakin sakin
 slug: sakin-sakin
+letter: S
 lisan: Türkçe
 anlamlar:
 - Durgun, dingin olarak

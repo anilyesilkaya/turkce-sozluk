@@ -2,6 +2,7 @@
 layout: term
 title: şahlanma
 slug: sahlanma
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şahlanmak işi

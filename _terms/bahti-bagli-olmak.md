@@ -2,6 +2,7 @@
 layout: term
 title: bahtı bağlı olmak
 slug: bahti-bagli-olmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - yazgısı kapalı olmak

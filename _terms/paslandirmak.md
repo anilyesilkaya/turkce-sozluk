@@ -2,6 +2,7 @@
 layout: term
 title: paslandırmak
 slug: paslandirmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Paslanmasına sebep olmak, yol açmak; paslatmak

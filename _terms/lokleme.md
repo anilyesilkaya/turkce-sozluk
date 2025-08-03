@@ -2,6 +2,7 @@
 layout: term
 title: lökleme
 slug: lokleme
+letter: L
 lisan: Türkçe
 anlamlar:
 - Löklemek işi

@@ -2,6 +2,7 @@
 layout: term
 title: duman vermek
 slug: duman-vermek
+letter: D
 lisan: Türkçe
 anlamlar:
 - çok duman çıkarmak

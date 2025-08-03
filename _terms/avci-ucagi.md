@@ -2,6 +2,7 @@
 layout: term
 title: avcı uçağı
 slug: avci-ucagi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Düşman uçakları ile havada savaşmak üzere üretilmiş, hafif silahlarla donatılmış, hareket yeteneği yüksek bir tür savaş uçağı

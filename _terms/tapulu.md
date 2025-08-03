@@ -2,6 +2,7 @@
 layout: term
 title: tapulu
 slug: tapulu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tapusu olan

@@ -2,6 +2,7 @@
 layout: term
 title: resif
 slug: resif
+letter: R
 lisan: Fransızca récif
 anlamlar:
 - Su düzeyindeki sıra kayalar

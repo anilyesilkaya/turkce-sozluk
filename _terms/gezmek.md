@@ -2,6 +2,7 @@
 layout: term
 title: gezmek
 slug: gezmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Hava alma, hoş vakit geçirme vb. amaçlarla bir yere gitmek

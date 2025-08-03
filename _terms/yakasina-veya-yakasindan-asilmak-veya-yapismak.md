@@ -2,6 +2,7 @@
 layout: term
 title: yakasına (veya yakasından) asılmak (veya yapışmak)
 slug: yakasina-veya-yakasindan-asilmak-veya-yapismak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - hesap sormak veya bir şey istemek için tutup bırakmamak

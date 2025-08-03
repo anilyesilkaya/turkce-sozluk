@@ -2,6 +2,7 @@
 layout: term
 title: aptalca
 slug: aptalca
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aptala yakışan, aptaldan beklenen

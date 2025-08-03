@@ -2,6 +2,7 @@
 layout: term
 title: malulen emekliye ayrılmak
 slug: malulen-emekliye-ayrilmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - sigortalı olarak çalışırken hastalığı veya sakatlığı dolayısıyla erken emekli olmak

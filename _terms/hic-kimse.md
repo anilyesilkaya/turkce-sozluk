@@ -2,6 +2,7 @@
 layout: term
 title: hiç kimse
 slug: hic-kimse
+letter: H
 lisan: Türkçe
 anlamlar:
 - Bir kişi bile, kimsecik

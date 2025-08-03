@@ -2,6 +2,7 @@
 layout: term
 title: hüzün çökmek
 slug: huzun-cokmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - hüzünlenmek

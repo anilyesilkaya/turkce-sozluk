@@ -2,6 +2,7 @@
 layout: term
 title: alıklaşıverme
 slug: aliklasiverme
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alıklaşıvermek işi

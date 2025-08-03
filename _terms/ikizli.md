@@ -2,6 +2,7 @@
 layout: term
 title: ikizli
 slug: ikizli
+letter: I
 lisan: Türkçe
 anlamlar:
 - İkizleri olan (ana)

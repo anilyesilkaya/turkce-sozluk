@@ -2,6 +2,7 @@
 layout: term
 title: ehlivukuf
 slug: ehlivukuf
+letter: E
 lisan: Arapça ehl + vuḳūf
 anlamlar:
 - ► bilirkişi

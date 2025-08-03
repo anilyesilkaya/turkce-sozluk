@@ -2,6 +2,7 @@
 layout: term
 title: sırma saçlı
 slug: sirma-sacli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Saçları altın sarısı renginde olan

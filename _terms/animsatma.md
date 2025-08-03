@@ -2,6 +2,7 @@
 layout: term
 title: anımsatma
 slug: animsatma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anımsatmak işi; ansıtma, hatırlatma

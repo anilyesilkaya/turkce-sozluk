@@ -2,6 +2,7 @@
 layout: term
 title: fasile
 slug: fasile
+letter: F
 lisan: Arapça faṣīle
 anlamlar:
 - ► familya

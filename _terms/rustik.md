@@ -2,6 +2,7 @@
 layout: term
 title: rustik
 slug: rustik
+letter: R
 lisan: Fransızca rustique
 anlamlar:
 - Duvara sabitlenerek üzerine perde takılan, ahşap, metal ve benzeri malzemeden yapılmış korniş

@@ -2,6 +2,7 @@
 layout: term
 title: çımkırmak
 slug: cimkirmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Kuş pislemek

@@ -2,6 +2,7 @@
 layout: term
 title: sakatlanmak
 slug: sakatlanmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sakat duruma gelmek

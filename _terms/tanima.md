@@ -2,6 +2,7 @@
 layout: term
 title: tanıma
 slug: tanima
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tanımak işi

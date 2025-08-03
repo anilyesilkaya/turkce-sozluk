@@ -2,6 +2,7 @@
 layout: term
 title: hekim
 slug: hekim
+letter: H
 lisan: Arapça ḥakīm
 anlamlar:
 - İnsanlardaki hastalıkları teşhis ve onları ilaçlarla veya bazı araçlarla tedavi eden kimse; doktor, tabip

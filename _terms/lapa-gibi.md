@@ -2,6 +2,7 @@
 layout: term
 title: lapa gibi
 slug: lapa-gibi
+letter: L
 lisan: Türkçe
 anlamlar:
 - yumuşak, gevşek bir biçimde

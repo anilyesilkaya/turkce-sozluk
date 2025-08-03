@@ -2,6 +2,7 @@
 layout: term
 title: zona olmak
 slug: zona-olmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - zona hastalığına yakalanmak

@@ -2,6 +2,7 @@
 layout: term
 title: çakıvermek
 slug: cakivermek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çabucak veya ansızın çakmak

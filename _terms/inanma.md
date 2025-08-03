@@ -2,6 +2,7 @@
 layout: term
 title: inanma
 slug: inanma
+letter: I
 lisan: Türkçe
 anlamlar:
 - İnanmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: avane
 slug: avane
+letter: A
 lisan: Arapça ʿavene
 anlamlar:
 - ► yardakçı

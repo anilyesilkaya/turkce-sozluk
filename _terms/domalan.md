@@ -2,6 +2,7 @@
 layout: term
 title: domalan
 slug: domalan
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bozkır ve benzeri arazilerde ilkbahar aylarında yetişen, gelişimini toprak altında tamamlayan, gövdesi yumru biçiminde, asklı bir tür mantar; yer mantarı, keme (Terfezia arenaria)

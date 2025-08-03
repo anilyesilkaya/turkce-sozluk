@@ -2,6 +2,7 @@
 layout: term
 title: adaletsiz
 slug: adaletsiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Adalete aykırı düşen (şey)

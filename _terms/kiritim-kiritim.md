@@ -2,6 +2,7 @@
 layout: term
 title: kırıtım kırıtım
 slug: kiritim-kiritim
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kırıtarak

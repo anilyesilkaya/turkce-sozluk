@@ -2,6 +2,7 @@
 layout: term
 title: merasimsiz
 slug: merasimsiz
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► törensiz

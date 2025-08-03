@@ -2,6 +2,7 @@
 layout: term
 title: ardıç
 slug: ardic
+letter: A
 lisan: Türkçe
 anlamlar:
 - Servigillerden, güzel kokulu, yapraklarını kışın da dökmeyen, yuvarlak kara yemişleri ilaç olarak kullanılan bir ağaç (Juniperus)

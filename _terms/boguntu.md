@@ -2,6 +2,7 @@
 layout: term
 title: boğuntu
 slug: boguntu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Zor soluk alma

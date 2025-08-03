@@ -2,6 +2,7 @@
 layout: term
 title: günün adamı
 slug: gunun-adami
+letter: G
 lisan: Türkçe
 anlamlar:
 - O günlerde çok sözü edilen kişi

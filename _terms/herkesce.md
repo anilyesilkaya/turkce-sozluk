@@ -2,6 +2,7 @@
 layout: term
 title: herkesçe
 slug: herkesce
+letter: H
 lisan: Türkçe
 anlamlar:
 - Herkes tarafından

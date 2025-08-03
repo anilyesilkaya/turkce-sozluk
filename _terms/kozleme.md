@@ -2,6 +2,7 @@
 layout: term
 title: közleme
 slug: kozleme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Közlemek işi

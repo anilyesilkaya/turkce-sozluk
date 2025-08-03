@@ -2,6 +2,7 @@
 layout: term
 title: sibernasyon
 slug: sibernasyon
+letter: S
 lisan: Fransızca cybernation
 anlamlar:
 - Sibernetikten yararlanarak özellikle fabrikalardaki üretimin bilgisayarlar yardımıyla denetimi

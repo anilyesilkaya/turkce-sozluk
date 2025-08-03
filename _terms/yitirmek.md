@@ -2,6 +2,7 @@
 layout: term
 title: yitirmek
 slug: yitirmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Ne olduğunu, nerede bulunduğunu bilememek; kaybetmek

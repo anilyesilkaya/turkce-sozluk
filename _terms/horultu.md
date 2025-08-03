@@ -2,6 +2,7 @@
 layout: term
 title: horultu
 slug: horultu
+letter: H
 lisan: Türkçe
 anlamlar:
 - Horlama sırasında çıkan sesin adı

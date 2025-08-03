@@ -2,6 +2,7 @@
 layout: term
 title: gebe
 slug: gebe
+letter: G
 lisan: Türkçe
 anlamlar:
 - Karnında yavru bulunan (kadın veya hayvan); yüklü, hamile, iki canlı, aylı

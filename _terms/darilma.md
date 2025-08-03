@@ -2,6 +2,7 @@
 layout: term
 title: darılma
 slug: darilma
+letter: D
 lisan: Türkçe
 anlamlar:
 - Darılmak işi

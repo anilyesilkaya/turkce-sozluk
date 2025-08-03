@@ -2,6 +2,7 @@
 layout: term
 title: yürek Selânik olmak
 slug: yurek-selanik-olmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - çok korkmak ve çok heyecanlanmak

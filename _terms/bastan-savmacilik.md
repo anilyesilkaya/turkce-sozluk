@@ -2,6 +2,7 @@
 layout: term
 title: baştan savmacılık
 slug: bastan-savmacilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Baştan savmacı olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: Makedonyalı
 slug: makedonyali
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► Makedon

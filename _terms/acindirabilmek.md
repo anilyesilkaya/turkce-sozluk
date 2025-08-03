@@ -2,6 +2,7 @@
 layout: term
 title: acındırabilmek
 slug: acindirabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Acındırma ihtimali veya imkânı bulunmak

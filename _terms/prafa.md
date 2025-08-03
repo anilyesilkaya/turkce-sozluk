@@ -2,6 +2,7 @@
 layout: term
 title: prafa
 slug: prafa
+letter: P
 lisan: Fransızca préférence
 anlamlar:
 - İskambil kâğıtlarıyla oynanan bir oyun türü

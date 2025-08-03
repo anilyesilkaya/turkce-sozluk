@@ -2,6 +2,7 @@
 layout: term
 title: muammer olmak
 slug: muammer-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - yaşamak

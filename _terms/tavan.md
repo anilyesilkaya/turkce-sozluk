@@ -2,6 +2,7 @@
 layout: term
 title: tavan
 slug: tavan
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir yapının, kapalı bir yerin üst bölümünü oluşturan düz ve yatay yüzey, taban karşıtı

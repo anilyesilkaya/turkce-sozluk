@@ -2,6 +2,7 @@
 layout: term
 title: tazeleyebilme
 slug: tazeleyebilme
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tazeleyebilmek işi

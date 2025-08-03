@@ -2,6 +2,7 @@
 layout: term
 title: cicozlamak
 slug: cicozlamak
+letter: C
 lisan: Türkçe
 anlamlar:
 - Savuşup gitmek

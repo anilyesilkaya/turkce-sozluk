@@ -2,6 +2,7 @@
 layout: term
 title: yakınlamak
 slug: yakinlamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yakınlaşmak

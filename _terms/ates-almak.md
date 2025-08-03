@@ -2,6 +2,7 @@
 layout: term
 title: ateş almak
 slug: ates-almak
+letter: A
 lisan: Türkçe
 anlamlar:
 - yanmak, tutuşmak

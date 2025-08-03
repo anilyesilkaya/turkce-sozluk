@@ -2,6 +2,7 @@
 layout: term
 title: yazı takımı
 slug: yazi-takimi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yazı yazmakta kullanılan bütün araç gereç

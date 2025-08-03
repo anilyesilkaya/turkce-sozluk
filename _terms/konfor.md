@@ -2,6 +2,7 @@
 layout: term
 title: konfor
 slug: konfor
+letter: K
 lisan: Fransızca confort
 anlamlar:
 - Günlük hayatı kolaylaştıran maddi rahatlık

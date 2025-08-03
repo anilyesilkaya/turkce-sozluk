@@ -2,6 +2,7 @@
 layout: term
 title: çöp şiş
 slug: cop-sis
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Kuşbaşı et parçalarının ince çubuklara dizilerek hazırlanmasıyla yapılan şiş kebabı

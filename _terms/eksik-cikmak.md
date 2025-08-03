@@ -2,6 +2,7 @@
 layout: term
 title: eksik çıkmak
 slug: eksik-cikmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - tartı veya ölçü tam olmamak

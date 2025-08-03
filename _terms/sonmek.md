@@ -2,6 +2,7 @@
 layout: term
 title: sönmek
 slug: sonmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Yanmaz, aydınlatmaz, parlamaz olmak

@@ -2,6 +2,7 @@
 layout: term
 title: ponpon
 slug: ponpon
+letter: P
 lisan: Fransızca pompon
 anlamlar:
 - Süs olarak kullanılan yuvarlak püskül

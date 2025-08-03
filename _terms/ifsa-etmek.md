@@ -2,6 +2,7 @@
 layout: term
 title: ifşa etmek
 slug: ifsa-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - gizli bir şeyi ortaya dökmek, açığa vurmak, yaymak, ilan etmek, afişe etmek, reklam etmek

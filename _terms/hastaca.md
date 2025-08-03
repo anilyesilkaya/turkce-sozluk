@@ -2,6 +2,7 @@
 layout: term
 title: hastaca
 slug: hastaca
+letter: H
 lisan: Türkçe
 anlamlar:
 - Biraz hasta

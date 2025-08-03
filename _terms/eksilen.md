@@ -2,6 +2,7 @@
 layout: term
 title: eksilen
 slug: eksilen
+letter: E
 lisan: Türkçe
 anlamlar:
 - Çıkarma işleminde kendisinden çıkarma yapılan sayı

@@ -2,6 +2,7 @@
 layout: term
 title: montaj
 slug: montaj
+letter: M
 lisan: Fransızca montage
 anlamlar:
 - ► kurgu

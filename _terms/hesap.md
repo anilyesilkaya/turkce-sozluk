@@ -2,6 +2,7 @@
 layout: term
 title: hesap
 slug: hesap
+letter: H
 lisan: Arapça ḥisāb
 anlamlar:
 - ► aritmetik

@@ -2,6 +2,7 @@
 layout: term
 title: ambalaj
 slug: ambalaj
+letter: A
 lisan: Fransızca emballage
 anlamlar:
 - Ürünü dış etkenlerden koruyan, içine konan ürünleri bir arada tutarak taşıma, depolama, dağıtım, tanıtma, reklam gibi işlemleri kolaylaştıran, kâğıt, mukavva, tahta, plastik vb.nden yapılan malzeme

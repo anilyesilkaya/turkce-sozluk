@@ -2,6 +2,7 @@
 layout: term
 title: lento
 slug: lento
+letter: L
 lisan: İtalyanca lento
 anlamlar:
 - Ağır bir biçimde (çalınmak)

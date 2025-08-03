@@ -2,6 +2,7 @@
 layout: term
 title: enselenmek
 slug: enselenmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Yakalanmak, ele geçirilmek

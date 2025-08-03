@@ -2,6 +2,7 @@
 layout: term
 title: oylum oylum
 slug: oylum-oylum
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oymalı, girintili çıkıntılı bir biçimde

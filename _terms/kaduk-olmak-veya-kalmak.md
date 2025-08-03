@@ -2,6 +2,7 @@
 layout: term
 title: kadük olmak (veya kalmak)
 slug: kaduk-olmak-veya-kalmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - değerini yitirmek

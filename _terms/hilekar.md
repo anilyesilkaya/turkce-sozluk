@@ -2,6 +2,7 @@
 layout: term
 title: hilekâr
 slug: hilekar
+letter: H
 lisan: Arapça ḥīle + Farsça -kâr
 anlamlar:
 - ► hileci

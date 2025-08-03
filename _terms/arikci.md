@@ -2,6 +2,7 @@
 layout: term
 title: arıkçı
 slug: arikci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Su yolu yapan kimse

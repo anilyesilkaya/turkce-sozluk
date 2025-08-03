@@ -2,6 +2,7 @@
 layout: term
 title: havale geçirmek
 slug: havale-gecirmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - ateşli veya ateşsiz çırpınma nöbetine tutulmak

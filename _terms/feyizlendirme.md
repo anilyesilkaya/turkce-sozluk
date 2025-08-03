@@ -2,6 +2,7 @@
 layout: term
 title: feyizlendirme
 slug: feyizlendirme
+letter: F
 lisan: Türkçe
 anlamlar:
 - Feyizlendirmek işi

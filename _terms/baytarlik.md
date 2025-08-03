@@ -2,6 +2,7 @@
 layout: term
 title: baytarlık
 slug: baytarlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► veterinerlik

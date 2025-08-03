@@ -2,6 +2,7 @@
 layout: term
 title: karşılaştırmak
 slug: karsilastirmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karşılaştırma işini yaptırmak

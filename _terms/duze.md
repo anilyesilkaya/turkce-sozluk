@@ -2,6 +2,7 @@
 layout: term
 title: düze
 slug: duze
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► doz

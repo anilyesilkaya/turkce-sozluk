@@ -2,6 +2,7 @@
 layout: term
 title: eğrice
 slug: egrice
+letter: E
 lisan: Türkçe
 anlamlar:
 - Buttan yapılan pastırma

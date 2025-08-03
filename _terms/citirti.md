@@ -2,6 +2,7 @@
 layout: term
 title: çıtırtı
 slug: citirti
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıtırdama sırasında çıkan sesin adı

@@ -2,6 +2,7 @@
 layout: term
 title: sıvazlamak
 slug: sivazlamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir şeyin üstünde yavaş yavaş, hafifçe el gezdirmek

@@ -2,6 +2,7 @@
 layout: term
 title: maden kömürü
 slug: maden-komuru
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► taş kömürü

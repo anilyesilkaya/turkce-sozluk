@@ -2,6 +2,7 @@
 layout: term
 title: açık görüş
 slug: acik-gorus
+letter: A
 lisan: Türkçe
 anlamlar:
 - Cezaevlerinde yatanlarla yakınlarının belirli günlerde, aralarında herhangi bir fiziksel engel olmaksızın yaptıkları görüşme biçimi

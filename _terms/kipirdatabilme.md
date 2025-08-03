@@ -2,6 +2,7 @@
 layout: term
 title: kıpırdatabilme
 slug: kipirdatabilme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kıpırdatabilmek işi

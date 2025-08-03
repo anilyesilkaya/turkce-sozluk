@@ -2,6 +2,7 @@
 layout: term
 title: mütalaa
 slug: mutalaa
+letter: M
 lisan: Arapça muṭālaʿa
 anlamlar:
 - Herhangi bir konu üzerinde ayrıntılı bir biçimde düşünme

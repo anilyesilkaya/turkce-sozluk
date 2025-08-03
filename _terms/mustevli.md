@@ -2,6 +2,7 @@
 layout: term
 title: müstevli
 slug: mustevli
+letter: M
 lisan: Arapça mustevlī
 anlamlar:
 - Bir yeri istila eden, yönetimi altına alan (kimse, devlet, ordu vb.)

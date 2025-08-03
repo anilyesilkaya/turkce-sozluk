@@ -2,6 +2,7 @@
 layout: term
 title: forvet
 slug: forvet
+letter: F
 lisan: İngilizce forward
 anlamlar:
 - ► ileri uç oyuncusu

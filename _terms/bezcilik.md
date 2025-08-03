@@ -2,6 +2,7 @@
 layout: term
 title: bezcilik
 slug: bezcilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bezcinin yaptığı iş

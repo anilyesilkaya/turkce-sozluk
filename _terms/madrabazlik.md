@@ -2,6 +2,7 @@
 layout: term
 title: madrabazlık
 slug: madrabazlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Madrabaz olma durumu

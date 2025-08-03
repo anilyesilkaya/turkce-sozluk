@@ -2,6 +2,7 @@
 layout: term
 title: ıskalamak
 slug: iskalamak
+letter: I
 lisan: Türkçe
 anlamlar:
 - Hedefe denk getirememek

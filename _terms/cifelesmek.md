@@ -2,6 +2,7 @@
 layout: term
 title: cifeleşmek
 slug: cifelesmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cife durumuna gelmek

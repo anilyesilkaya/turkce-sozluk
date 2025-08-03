@@ -2,6 +2,7 @@
 layout: term
 title: gücendirmek
 slug: gucendirmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gücenmesine yol açmak, gönlünü kırmak, incitmek

@@ -2,6 +2,7 @@
 layout: term
 title: telaşlanma
 slug: telaslanma
+letter: T
 lisan: Türkçe
 anlamlar:
 - Telaşlanmak işi

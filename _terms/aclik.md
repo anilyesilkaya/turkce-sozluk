@@ -2,6 +2,7 @@
 layout: term
 title: açlık
 slug: aclik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aç olma durumu

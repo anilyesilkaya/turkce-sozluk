@@ -2,6 +2,7 @@
 layout: term
 title: lümpenlik
 slug: lumpenlik
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lümpen olma durumu

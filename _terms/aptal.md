@@ -2,6 +2,7 @@
 layout: term
 title: aptal
 slug: aptal
+letter: A
 lisan: Arapça ebdāl
 anlamlar:
 - Zekâsının azlığından dolayı yeterince düşünemeyip akıllıca hareket edemeyen (kimse); budala

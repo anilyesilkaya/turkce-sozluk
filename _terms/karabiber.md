@@ -2,6 +2,7 @@
 layout: term
 title: karabiber
 slug: karabiber
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karabibergillerin örnek bitkisi olan, zeytinsi, meyvelerinin taneleri yuvarlak, yaprakları kalp biçiminde, tırmanıcı bir bitki (Piper nigrum)

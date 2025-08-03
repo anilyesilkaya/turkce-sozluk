@@ -2,6 +2,7 @@
 layout: term
 title: şirretlik
 slug: sirretlik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şirret olma durumu; yaygaracılık

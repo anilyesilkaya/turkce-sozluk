@@ -2,6 +2,7 @@
 layout: term
 title: demircik
 slug: demircik
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► dişbudak

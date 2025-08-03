@@ -2,6 +2,7 @@
 layout: term
 title: okur
 slug: okur
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► okuyucu

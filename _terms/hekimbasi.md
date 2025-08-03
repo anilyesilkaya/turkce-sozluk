@@ -2,6 +2,7 @@
 layout: term
 title: hekimbaşı
 slug: hekimbasi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Osmanlı Devleti'nde sarayda hekimlik görevini yürüten en kıdemli, yetkili ve padişahın özel doktoru olan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: sanki
 slug: sanki
+letter: S
 lisan: Türkçe san + Farsça ki
 anlamlar:
 - Soru cümlelerinde belirtilen konuya ilgiyi çekmek veya uyarıda bulunmak için kullanılan bir söz

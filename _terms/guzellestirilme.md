@@ -2,6 +2,7 @@
 layout: term
 title: güzelleştirilme
 slug: guzellestirilme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güzelleştirilmek işi

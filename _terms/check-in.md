@@ -2,6 +2,7 @@
 layout: term
 title: check-in
 slug: check-in
+letter: C
 lisan: İngilizce check-in
 anlamlar:
 - 343 giriş işlemi

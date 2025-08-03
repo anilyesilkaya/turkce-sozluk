@@ -2,6 +2,7 @@
 layout: term
 title: narkozcu
 slug: narkozcu
+letter: N
 lisan: Türkçe
 anlamlar:
 - Ameliyat sırasında hastaya narkoz veren uzman; narkozitör

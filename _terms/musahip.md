@@ -2,6 +2,7 @@
 layout: term
 title: musahip
 slug: musahip
+letter: M
 lisan: Arapça muṣāḥib
 anlamlar:
 - Sohbet, arkadaşlık eden kimse

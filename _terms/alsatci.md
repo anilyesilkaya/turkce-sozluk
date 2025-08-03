@@ -2,6 +2,7 @@
 layout: term
 title: alsatçı
 slug: alsatci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir malı alıp kısa zamanda satan kimse

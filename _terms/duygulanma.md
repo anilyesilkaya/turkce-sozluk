@@ -2,6 +2,7 @@
 layout: term
 title: duygulanma
 slug: duygulanma
+letter: D
 lisan: Türkçe
 anlamlar:
 - Duygulanmak durumu; hislenme, ihtisas (I), tahassüs

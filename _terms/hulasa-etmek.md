@@ -2,6 +2,7 @@
 layout: term
 title: hülasa etmek
 slug: hulasa-etmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - özetlemek

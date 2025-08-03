@@ -2,6 +2,7 @@
 layout: term
 title: imzalamak
 slug: imzalamak
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bir yazı veya belgeye imzasını yazmak, imza atmak; akdetmek

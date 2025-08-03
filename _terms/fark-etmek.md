@@ -2,6 +2,7 @@
 layout: term
 title: fark etmek
 slug: fark-etmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - görmek, seçmek, ayrımsamak

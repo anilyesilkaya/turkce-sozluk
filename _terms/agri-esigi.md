@@ -2,6 +2,7 @@
 layout: term
 title: ağrı eşiği
 slug: agri-esigi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağrıya veya acıya dayanıklılık düzeyi

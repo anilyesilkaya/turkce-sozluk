@@ -2,6 +2,7 @@
 layout: term
 title: gürlük
 slug: gurluk
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gür olma durumu

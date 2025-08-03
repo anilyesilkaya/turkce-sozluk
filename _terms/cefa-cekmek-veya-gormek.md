@@ -2,6 +2,7 @@
 layout: term
 title: cefa çekmek (veya görmek)
 slug: cefa-cekmek-veya-gormek
+letter: C
 lisan: Türkçe
 anlamlar:
 - aşırı eziyet veya sıkıntı görmek

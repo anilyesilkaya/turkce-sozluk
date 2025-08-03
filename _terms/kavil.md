@@ -2,6 +2,7 @@
 layout: term
 title: kavil
 slug: kavil
+letter: K
 lisan: Arapça ḳavl
 anlamlar:
 - ► söz

@@ -2,6 +2,7 @@
 layout: term
 title: konserve
 slug: konserve
+letter: K
 lisan: Fransızca conserve
 anlamlar:
 - Isı ile sterilize edilerek uzun zaman saklanabilecek biçimde kutulanmış (yiyecek)

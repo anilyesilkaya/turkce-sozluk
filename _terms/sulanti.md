@@ -2,6 +2,7 @@
 layout: term
 title: sulantı
 slug: sulanti
+letter: S
 lisan: Türkçe
 anlamlar:
 - Birine karşı hissedilen duygusal ilgi

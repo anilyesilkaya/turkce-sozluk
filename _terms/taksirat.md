@@ -2,6 +2,7 @@
 layout: term
 title: taksirat
 slug: taksirat
+letter: T
 lisan: Arapça taḳṣīrāt
 anlamlar:
 - Kusurlar, suçlar

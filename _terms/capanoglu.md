@@ -2,6 +2,7 @@
 layout: term
 title: çapanoğlu
 slug: capanoglu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir işte gizli kalmış kötü ve aksak yan, kuşkulu durum

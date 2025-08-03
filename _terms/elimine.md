@@ -2,6 +2,7 @@
 layout: term
 title: elimine
 slug: elimine
+letter: E
 lisan: Fransızca éliminé
 anlamlar:
 - '"Elemek" anlamındaki elimine etmek, "elenmek" anlamındaki elimine olmak (veya edilmek) birleşik fiillerinde geçen bir söz'

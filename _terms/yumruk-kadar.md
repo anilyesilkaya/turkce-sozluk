@@ -2,6 +2,7 @@
 layout: term
 title: yumruk kadar
 slug: yumruk-kadar
+letter: Y
 lisan: Türkçe
 anlamlar:
 - çok iri, büyük

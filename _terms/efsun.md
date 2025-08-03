@@ -2,6 +2,7 @@
 layout: term
 title: efsun
 slug: efsun
+letter: E
 lisan: Farsça efsūn
 anlamlar:
 - ► büyü

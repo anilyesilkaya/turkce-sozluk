@@ -2,6 +2,7 @@
 layout: term
 title: koz kırmak
 slug: koz-kirmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - oyunda elindeki kozlardan birini kullanmak

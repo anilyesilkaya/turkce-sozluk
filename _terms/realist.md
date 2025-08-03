@@ -2,6 +2,7 @@
 layout: term
 title: realist
 slug: realist
+letter: R
 lisan: Fransızca réaliste
 anlamlar:
 - ► gerçekçi

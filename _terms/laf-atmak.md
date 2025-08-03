@@ -2,6 +2,7 @@
 layout: term
 title: laf atmak
 slug: laf-atmak
+letter: L
 lisan: Türkçe
 anlamlar:
 - biriyle kısa süreli söyleşmek, konuşmak

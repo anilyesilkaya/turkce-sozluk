@@ -2,6 +2,7 @@
 layout: term
 title: affınıza mağruren
 slug: affiniza-magruren
+letter: A
 lisan: Türkçe
 anlamlar:
 - affınıza sığınarak

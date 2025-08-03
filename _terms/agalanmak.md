@@ -2,6 +2,7 @@
 layout: term
 title: ağalanmak
 slug: agalanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağa tavrı takınarak çalım yapmak

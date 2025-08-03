@@ -2,6 +2,7 @@
 layout: term
 title: çıkrıksız
 slug: cikriksiz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıkrığı olmayan

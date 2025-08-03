@@ -2,6 +2,7 @@
 layout: term
 title: 'manyaluka '
 slug: manyaluka
+letter: M
 lisan: (Banaluka yer adından)
 anlamlar:
 - Küçük parça kumaşların bir kadife veya keçe zemin üzerine dikilip her parçanın etrafının ince, ipek sırmalarla işlenmesiyle meydana getirilen seccade

@@ -2,6 +2,7 @@
 layout: term
 title: limonatacı
 slug: limonataci
+letter: L
 lisan: Türkçe
 anlamlar:
 - Limonata yapan veya satan kimse

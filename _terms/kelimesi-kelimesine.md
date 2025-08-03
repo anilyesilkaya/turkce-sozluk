@@ -2,6 +2,7 @@
 layout: term
 title: kelimesi kelimesine
 slug: kelimesi-kelimesine
+letter: K
 lisan: Türkçe
 anlamlar:
 - Hiçbir kelimesini atlamadan, olduğu gibi; motamot

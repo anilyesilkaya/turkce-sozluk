@@ -2,6 +2,7 @@
 layout: term
 title: tomahavk
 slug: tomahavk
+letter: T
 lisan: İngilizce tomahawk
 anlamlar:
 - Amerikan yapısı güdümlü füzelerin bir türü

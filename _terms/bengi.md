@@ -2,6 +2,7 @@
 layout: term
 title: bengi
 slug: bengi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Ege ve Marmara Bölgesi’nin güneyinde oynanan halk oyunlarından biri

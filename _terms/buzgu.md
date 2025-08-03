@@ -2,6 +2,7 @@
 layout: term
 title: büzgü
 slug: buzgu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Dikişte kumaşın bir ucundan istenilen yere kadar geçirilen bir ipliğin çekilmesi ile oluşan, kumaşın bolluğunu azaltan sık, küçük kıvrım

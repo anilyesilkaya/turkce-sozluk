@@ -2,6 +2,7 @@
 layout: term
 title: hapçılık
 slug: hapcilik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hapçı olma durumu

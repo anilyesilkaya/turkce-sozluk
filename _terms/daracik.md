@@ -2,6 +2,7 @@
 layout: term
 title: daracık
 slug: daracik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çok dar

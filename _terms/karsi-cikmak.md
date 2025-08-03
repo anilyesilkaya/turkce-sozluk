@@ -2,6 +2,7 @@
 layout: term
 title: karşı çıkmak
 slug: karsi-cikmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - dışarıdan gelenleri karşılamaya gitmek

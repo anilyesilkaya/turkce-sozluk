@@ -2,6 +2,7 @@
 layout: term
 title: meyhane
 slug: meyhane
+letter: M
 lisan: Farsça mey + ḫāne
 anlamlar:
 - İçki satılan ve içilen eğlence yeri; harabat

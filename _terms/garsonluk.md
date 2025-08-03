@@ -2,6 +2,7 @@
 layout: term
 title: garsonluk
 slug: garsonluk
+letter: G
 lisan: Türkçe
 anlamlar:
 - Garson olma durumu

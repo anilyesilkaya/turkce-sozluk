@@ -2,6 +2,7 @@
 layout: term
 title: ana kara
 slug: ana-kara
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► kıta

@@ -2,6 +2,7 @@
 layout: term
 title: denilebilmek
 slug: denilebilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Denilme ihtimali veya imkânı bulunmak

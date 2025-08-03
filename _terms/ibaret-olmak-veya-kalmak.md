@@ -2,6 +2,7 @@
 layout: term
 title: ibaret olmak (veya kalmak)
 slug: ibaret-olmak-veya-kalmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - -den oluşmak, meydana gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: telepatik
 slug: telepatik
+letter: T
 lisan: Fransızca télépathique
 anlamlar:
 - Telepati ile ilgili

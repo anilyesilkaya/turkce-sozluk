@@ -2,6 +2,7 @@
 layout: term
 title: dayak
 slug: dayak
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► destek

@@ -2,6 +2,7 @@
 layout: term
 title: manifaturacı
 slug: manifaturaci
+letter: M
 lisan: Türkçe
 anlamlar:
 - Manifatura eşyası satan kimse; yırtımcı, bezzaz

@@ -2,6 +2,7 @@
 layout: term
 title: amorti çıkmak (veya vurmak)
 slug: amorti-cikmak-veya-vurmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - piyangoda bilet değeri kadar ikramiye kazanmak

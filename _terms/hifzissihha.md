@@ -2,6 +2,7 @@
 layout: term
 title: hıfzıssıhha
 slug: hifzissihha
+letter: H
 lisan: Arapça ḥifẓ + ṣiḥḥa
 anlamlar:
 - Sağlıklı yaşamak için alınması gerekli önlemlerin bütünü

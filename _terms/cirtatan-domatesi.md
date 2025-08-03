@@ -2,6 +2,7 @@
 layout: term
 title: cırtatan domatesi
 slug: cirtatan-domatesi
+letter: C
 lisan: Türkçe
 anlamlar:
 - Bir tür küçük domates

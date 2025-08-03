@@ -2,6 +2,7 @@
 layout: term
 title: flamanlar
 slug: flamanlar
+letter: F
 lisan: Türkçe
 anlamlar:
 - Kuşlar sınıfının, leyleksiler takımının bir alt takımı

@@ -2,6 +2,7 @@
 layout: term
 title: okar
 slug: okar
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► telli balıkçıl

@@ -2,6 +2,7 @@
 layout: term
 title: tekaüt
 slug: tekaut
+letter: T
 lisan: Arapça teḳāʿud
 anlamlar:
 - Emekliye ayrılma

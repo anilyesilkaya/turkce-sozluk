@@ -2,6 +2,7 @@
 layout: term
 title: seğirdim yolu
 slug: segirdim-yolu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kale bedenlerinde askerlerin dolaşması için yapılmış bir tarafı siperli yol; seğirdim yeri

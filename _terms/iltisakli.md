@@ -2,6 +2,7 @@
 layout: term
 title: iltisaklı
 slug: iltisakli
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bağlantılı olan

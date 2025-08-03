@@ -2,6 +2,7 @@
 layout: term
 title: vurgun (veya vurgunu) vurmak
 slug: vurgun-veya-vurgunu-vurmak
+letter: V
 lisan: Türkçe
 anlamlar:
 - yolsuzluk yaparak kısa sürede büyük kazanç elde etmek

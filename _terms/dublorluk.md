@@ -2,6 +2,7 @@
 layout: term
 title: dublörlük
 slug: dublorluk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dublör olma durumu

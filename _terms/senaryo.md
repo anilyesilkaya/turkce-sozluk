@@ -2,6 +2,7 @@
 layout: term
 title: senaryo
 slug: senaryo
+letter: S
 lisan: Fransızca scénario
 anlamlar:
 - Tiyatro oyunu, piyes, film, dizi film vb. eserlerin sahnelerini ve akışını gösteren yazılı metin

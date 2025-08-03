@@ -2,6 +2,7 @@
 layout: term
 title: başkaca
 slug: baskaca
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► ayrıca

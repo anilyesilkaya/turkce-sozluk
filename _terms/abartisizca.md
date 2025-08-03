@@ -2,6 +2,7 @@
 layout: term
 title: abartısızca
 slug: abartisizca
+letter: A
 lisan: Türkçe
 anlamlar:
 - Abartısız bir biçimde; abartmasızca

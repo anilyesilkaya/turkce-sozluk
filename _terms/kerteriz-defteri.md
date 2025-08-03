@@ -2,6 +2,7 @@
 layout: term
 title: kerteriz defteri
 slug: kerteriz-defteri
+letter: K
 lisan: Türkçe
 anlamlar:
 - Balıkların göç yollarını veya toplanma yerlerini gösteren, alınan kerterizlerin yazıldığı defter

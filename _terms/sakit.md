@@ -2,6 +2,7 @@
 layout: term
 title: şakıt
 slug: sakit
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► murana

@@ -2,6 +2,7 @@
 layout: term
 title: kokusunu (veya koku) almak (veya duymak)
 slug: kokusunu-veya-koku-almak-veya-duymak
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir nesnenin kokusunu algılamak

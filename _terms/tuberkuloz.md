@@ -2,6 +2,7 @@
 layout: term
 title: tüberküloz
 slug: tuberkuloz
+letter: T
 lisan: Fransızca tuberculose
 anlamlar:
 - ► verem

@@ -2,6 +2,7 @@
 layout: term
 title: beliye
 slug: beliye
+letter: B
 lisan: Arapça beliyye
 anlamlar:
 - ► bela

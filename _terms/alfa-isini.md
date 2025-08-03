@@ -2,6 +2,7 @@
 layout: term
 title: alfa ışını
 slug: alfa-isini
+letter: A
 lisan: Türkçe
 anlamlar:
 - Radyoaktif atom çekirdeğinden parçalanma sonucu yayılan, iki proton ve iki nötrondan oluşmuş artı yüklü parçacık; alfa parçacığı

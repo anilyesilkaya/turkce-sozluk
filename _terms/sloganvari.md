@@ -2,6 +2,7 @@
 layout: term
 title: sloganvari
 slug: sloganvari
+letter: S
 lisan: Fransızca slogan + Farsça vārī
 anlamlar:
 - Slogana benzer

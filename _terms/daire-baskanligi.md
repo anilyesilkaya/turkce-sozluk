@@ -2,6 +2,7 @@
 layout: term
 title: daire başkanlığı
 slug: daire-baskanligi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Daire başkanı olma durumu

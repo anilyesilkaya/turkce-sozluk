@@ -2,6 +2,7 @@
 layout: term
 title: kol kanat olmak (veya germek)
 slug: kol-kanat-olmak-veya-germek
+letter: K
 lisan: Türkçe
 anlamlar:
 - yardım etmek, korumak, himaye etmek

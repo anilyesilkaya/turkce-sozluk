@@ -2,6 +2,7 @@
 layout: term
 title: ahbap çavuşlar
 slug: ahbap-cavuslar
+letter: A
 lisan: Türkçe
 anlamlar:
 - Sürekli birlikte görülen ve birbirine çok bağlı olan arkadaşlar

@@ -2,6 +2,7 @@
 layout: term
 title: sulak
 slug: sulak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Suyu olan, suyu bol (yer)

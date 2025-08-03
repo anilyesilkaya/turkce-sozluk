@@ -2,6 +2,7 @@
 layout: term
 title: evrak dolabı
 slug: evrak-dolabi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Dosyaları, diğer yazı ve belgeleri saklamakta kullanılan dolap

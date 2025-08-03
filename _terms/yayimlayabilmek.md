@@ -2,6 +2,7 @@
 layout: term
 title: yayımlayabilmek
 slug: yayimlayabilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yayımlama ihtimali veya imkânı bulunmak

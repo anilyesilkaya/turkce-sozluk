@@ -2,6 +2,7 @@
 layout: term
 title: dalavereci
 slug: dalavereci
+letter: D
 lisan: Türkçe
 anlamlar:
 - Yalan dolanla iş gören, çıkarı için hileye başvuran kimse; taklacı, kolpocu, aferist

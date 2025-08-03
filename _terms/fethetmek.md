@@ -2,6 +2,7 @@
 layout: term
 title: fethetmek
 slug: fethetmek
+letter: F
 lisan: Arapça fetḥ + Türkçe etmek
 anlamlar:
 - Bir yeri veya ülkeyi savaşarak almak, ülke açmak

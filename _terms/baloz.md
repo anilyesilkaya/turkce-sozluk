@@ -2,6 +2,7 @@
 layout: term
 title: baloz
 slug: baloz
+letter: B
 lisan: Rumca
 anlamlar:
 - Gemici, işçi vb. kimselerin eğlenmek için gittikleri içkili, danslı yer

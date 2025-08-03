@@ -2,6 +2,7 @@
 layout: term
 title: kütikül
 slug: kutikul
+letter: K
 lisan: Fransızca cuticule
 anlamlar:
 - Yaprakların her iki yüzünde bulunan ve suyu sızdırmadığı için bitkinin kurumasına engel olan ince zar

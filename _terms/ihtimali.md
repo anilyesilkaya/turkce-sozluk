@@ -2,6 +2,7 @@
 layout: term
 title: ihtimalî
 slug: ihtimali
+letter: I
 lisan: Arapça iḥtimālī
 anlamlar:
 - ► muhtemel

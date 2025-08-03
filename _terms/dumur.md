@@ -2,6 +2,7 @@
 layout: term
 title: dumur
 slug: dumur
+letter: D
 lisan: Arapça żumūr
 anlamlar:
 - ► körelme

@@ -2,6 +2,7 @@
 layout: term
 title: sustalı çakı
 slug: sustali-caki
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sustasına basılarak açılan, açıldıktan sonra sustasına basılmadıkça kapanmayan bir tür büyük çakı

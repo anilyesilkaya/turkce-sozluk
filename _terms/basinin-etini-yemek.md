@@ -2,6 +2,7 @@
 layout: term
 title: başının etini yemek
 slug: basinin-etini-yemek
+letter: B
 lisan: Türkçe
 anlamlar:
 - karşısındakini bezdirinceye, bıktırıncaya kadar sürekli konuşmak veya söylenmek

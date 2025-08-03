@@ -2,6 +2,7 @@
 layout: term
 title: ağızlı
 slug: agizli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağzı herhangi bir biçimde olan

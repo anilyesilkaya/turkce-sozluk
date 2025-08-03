@@ -2,6 +2,7 @@
 layout: term
 title: görüntüsel
 slug: goruntusel
+letter: G
 lisan: Türkçe
 anlamlar:
 - Görüntüye dayanan

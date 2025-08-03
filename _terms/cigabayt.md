@@ -2,6 +2,7 @@
 layout: term
 title: cigabayt
 slug: cigabayt
+letter: C
 lisan: İngilizce gigabyte
 anlamlar:
 - 1024 megabayttan oluşan bir belleğin veya verinin boyutunu ifade eden ölçü birimi

@@ -2,6 +2,7 @@
 layout: term
 title: izlenimci
 slug: izlenimci
+letter: I
 lisan: Türkçe
 anlamlar:
 - İzlenimcilik yanlısı olan (sanat veya sanatçı); empresyonist

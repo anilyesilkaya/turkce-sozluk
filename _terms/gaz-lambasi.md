@@ -2,6 +2,7 @@
 layout: term
 title: gaz lambası
 slug: gaz-lambasi
+letter: G
 lisan: Türkçe
 anlamlar:
 - İçine konan gaz yağını bir fitil yardımıyla yakan, şişeli, türlü biçimlerde lamba; gaz (II)

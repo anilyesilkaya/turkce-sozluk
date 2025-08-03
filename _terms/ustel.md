@@ -2,6 +2,7 @@
 layout: term
 title: üstel
 slug: ustel
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üstü olan

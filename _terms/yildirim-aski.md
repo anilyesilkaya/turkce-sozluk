@@ -2,6 +2,7 @@
 layout: term
 title: yıldırım aşkı
 slug: yildirim-aski
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Birdenbire oluşan aşk

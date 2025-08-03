@@ -2,6 +2,7 @@
 layout: term
 title: çeribaşı
 slug: ceribasi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Alay beyi

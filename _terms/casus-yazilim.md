@@ -2,6 +2,7 @@
 layout: term
 title: casus yazılım
 slug: casus-yazilim
+letter: C
 lisan: Türkçe
 anlamlar:
 - Genellikle kullanıcının onayı ve bilgisi olmadan bir bilgisayardan veri toplayarak bu verileri üçüncü şahıslara iletmek için tasarlanan yazılım; siber silah

@@ -2,6 +2,7 @@
 layout: term
 title: bacak bacak üstüne atmak
 slug: bacak-bacak-ustune-atmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir bacağını ötekinin üstüne koyarak oturmak

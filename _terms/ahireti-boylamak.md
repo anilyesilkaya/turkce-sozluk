@@ -2,6 +2,7 @@
 layout: term
 title: ahireti boylamak
 slug: ahireti-boylamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ölmek

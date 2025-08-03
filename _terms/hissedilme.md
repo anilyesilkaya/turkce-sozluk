@@ -2,6 +2,7 @@
 layout: term
 title: hissedilme
 slug: hissedilme
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hissedilmek işi

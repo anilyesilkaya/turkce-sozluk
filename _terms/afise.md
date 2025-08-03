@@ -2,6 +2,7 @@
 layout: term
 title: afişe
 slug: afise
+letter: A
 lisan: Fransızca afficher
 anlamlar:
 - '"Açığa vurmak, belirtmek; duyurmak, dile düşürmek, reklam etmek; açıklamak" anlamlarındaki afişe etmek, "bir kimse bilinmeyen bir yönüyle tanınmak" anlamındaki afişe olmak birleşik fiillerinde geçen bir söz'

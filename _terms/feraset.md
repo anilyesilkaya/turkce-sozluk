@@ -2,6 +2,7 @@
 layout: term
 title: feraset
 slug: feraset
+letter: F
 lisan: Arapça ferāset
 anlamlar:
 - ► anlayış

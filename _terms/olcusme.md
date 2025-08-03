@@ -2,6 +2,7 @@
 layout: term
 title: ölçüşme
 slug: olcusme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ölçüşmek işi

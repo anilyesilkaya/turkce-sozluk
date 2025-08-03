@@ -2,6 +2,7 @@
 layout: term
 title: basamak basamak
 slug: basamak-basamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► yavaş yavaş

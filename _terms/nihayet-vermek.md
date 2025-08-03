@@ -2,6 +2,7 @@
 layout: term
 title: nihayet vermek
 slug: nihayet-vermek
+letter: N
 lisan: Türkçe
 anlamlar:
 - ilişkiyi kesmek, bir işi, alışkanlığı yapmaktan vazgeçmek

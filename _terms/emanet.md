@@ -2,6 +2,7 @@
 layout: term
 title: emanet
 slug: emanet
+letter: E
 lisan: Arapça emānet
 anlamlar:
 - Birine geçici olarak bırakılan ve teslim alınan kişice korunması gereken eşya, kimse vb.; inam, vedia

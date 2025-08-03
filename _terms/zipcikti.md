@@ -2,6 +2,7 @@
 layout: term
 title: zıpçıktı
 slug: zipcikti
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Görgüsüz, fırsatçı kimse

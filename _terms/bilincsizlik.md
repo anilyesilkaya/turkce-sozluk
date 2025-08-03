@@ -2,6 +2,7 @@
 layout: term
 title: bilinçsizlik
 slug: bilincsizlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilinçsiz olma durumu; şuursuzluk

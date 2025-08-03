@@ -2,6 +2,7 @@
 layout: term
 title: alabildiğine
 slug: alabildigine
+letter: A
 lisan: Türkçe
 anlamlar:
 - Sınırsız, uçsuz bucaksız bir biçimde

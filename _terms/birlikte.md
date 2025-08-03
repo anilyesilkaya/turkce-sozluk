@@ -2,6 +2,7 @@
 layout: term
 title: birlikte
 slug: birlikte
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir arada, beraberce; hep beraber

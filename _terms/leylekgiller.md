@@ -2,6 +2,7 @@
 layout: term
 title: leylekgiller
 slug: leylekgiller
+letter: L
 lisan: Türkçe
 anlamlar:
 - Leyleksilerden bir familya (Ciconiidae)

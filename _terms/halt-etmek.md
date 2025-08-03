@@ -2,6 +2,7 @@
 layout: term
 title: halt etmek
 slug: halt-etmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - uygunsuz bir söz söylemek, uygunsuz davranmak, uygunsuz bir iş yapmak

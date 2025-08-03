@@ -2,6 +2,7 @@
 layout: term
 title: işi iş, kaşığı gümüş
 slug: isi-is-kasigi-gumus
+letter: I
 lisan: Türkçe
 anlamlar:
 - '"işi tam istediği yolda" anlamında kullanılan bir söz'

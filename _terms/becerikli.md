@@ -2,6 +2,7 @@
 layout: term
 title: becerikli
 slug: becerikli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Becerisi olan, elinden iş gelen; becerili, maharetli, mahir, mahirane

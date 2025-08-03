@@ -2,6 +2,7 @@
 layout: term
 title: uçkurlu
 slug: uckurlu
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uçkuru olan

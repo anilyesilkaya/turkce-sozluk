@@ -2,6 +2,7 @@
 layout: term
 title: enlem dairesi
 slug: enlem-dairesi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Aynı enlemdeki noktaların oluşturduğu Ekvator'a paralel daire; arz dairesi

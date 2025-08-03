@@ -2,6 +2,7 @@
 layout: term
 title: nostalji
 slug: nostalji
+letter: N
 lisan: Fransızca nostalgie
 anlamlar:
 - Geçmişte kalan güzelliklere olan özlem duygusu ve bu duygunun baskın bir duruma gelmesi; geçmişseverlik, gündedün

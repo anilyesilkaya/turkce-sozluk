@@ -2,6 +2,7 @@
 layout: term
 title: isnat etmek
 slug: isnat-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - dayandırmak

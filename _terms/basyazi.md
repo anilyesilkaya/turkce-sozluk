@@ -2,6 +2,7 @@
 layout: term
 title: başyazı
 slug: basyazi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Gazete ve dergilerde ilk sütuna veya birinci sayfaya konulan önemli yazı; başmakale

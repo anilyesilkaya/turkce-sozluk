@@ -2,6 +2,7 @@
 layout: term
 title: tırtıl
 slug: tirtil
+letter: T
 lisan: Türkçe
 anlamlar:
 - Çevresinde kertikler bulunan ve işlenecek parça üzerine bastırılarak bu kertiklerin izini parçaya basmaya yarayan çelik disk

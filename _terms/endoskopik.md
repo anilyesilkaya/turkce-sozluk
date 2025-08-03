@@ -2,6 +2,7 @@
 layout: term
 title: endoskopik
 slug: endoskopik
+letter: E
 lisan: İngilizce endoscopic
 anlamlar:
 - Endoskopi yöntemi kullanılan; iç görümlü

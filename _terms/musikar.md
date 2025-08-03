@@ -2,6 +2,7 @@
 layout: term
 title: musikar
 slug: musikar
+letter: M
 lisan: Farsça mūsīḳār
 anlamlar:
 - Gagasındaki deliklerden rüzgâr estikçe türlü sesler çıktığına inanılan bir masal kuşu

@@ -2,6 +2,7 @@
 layout: term
 title: birleşim
 slug: birlesim
+letter: B
 lisan: Türkçe
 anlamlar:
 - Birleşmek işi

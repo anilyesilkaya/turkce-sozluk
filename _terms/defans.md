@@ -2,6 +2,7 @@
 layout: term
 title: defans
 slug: defans
+letter: D
 lisan: Fransızca défense
 anlamlar:
 - ► savunma

@@ -2,6 +2,7 @@
 layout: term
 title: kolay kolay
 slug: kolay-kolay
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kolayca

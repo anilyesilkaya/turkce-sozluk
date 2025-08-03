@@ -2,6 +2,7 @@
 layout: term
 title: gemlemek
 slug: gemlemek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Hayvanın ağzına gem takmak

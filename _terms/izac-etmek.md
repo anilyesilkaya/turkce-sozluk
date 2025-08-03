@@ -2,6 +2,7 @@
 layout: term
 title: izaç etmek
 slug: izac-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - bunaltmak, tedirgin etmek, baş ağrıtmak

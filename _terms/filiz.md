@@ -2,6 +2,7 @@
 layout: term
 title: filiz
 slug: filiz
+letter: F
 lisan: Arapça filizz
 anlamlar:
 - Ocaktan çıkarılan işlenmemiş, başka maddelerle karışık hâlde bulunan, ham maden birleşiği

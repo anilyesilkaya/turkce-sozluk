@@ -2,6 +2,7 @@
 layout: term
 title: soğuyuş
 slug: soguyus
+letter: S
 lisan: Türkçe
 anlamlar:
 - Soğumak işi

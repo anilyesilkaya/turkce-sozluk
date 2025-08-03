@@ -2,6 +2,7 @@
 layout: term
 title: ütopyacı
 slug: utopyaci
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Ütopyalara inanan

@@ -2,6 +2,7 @@
 layout: term
 title: üçlü
 slug: uclu
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üç parçadan oluşan, kendinde herhangi bir şeyden üç tane bulunan; müselles, troyka

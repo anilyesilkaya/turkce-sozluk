@@ -2,6 +2,7 @@
 layout: term
 title: nitratlı
 slug: nitratli
+letter: N
 lisan: Türkçe
 anlamlar:
 - Temel maddesi nitrat olan

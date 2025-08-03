@@ -2,6 +2,7 @@
 layout: term
 title: sunturlu
 slug: sunturlu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Aşırı derecede olan

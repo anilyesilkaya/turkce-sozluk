@@ -2,6 +2,7 @@
 layout: term
 title: rahmet
 slug: rahmet
+letter: R
 lisan: Arapça raḥmet
 anlamlar:
 - Birinin suçunu bağışlama, yarlıgama, merhamet etme

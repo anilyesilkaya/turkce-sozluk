@@ -2,6 +2,7 @@
 layout: term
 title: cıvadra
 slug: civadra
+letter: C
 lisan: İtalyanca givadera
 anlamlar:
 - Geminin baş tarafından havaya doğru biraz kalkık olarak uzatılmış bulunan direk

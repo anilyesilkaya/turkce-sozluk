@@ -2,6 +2,7 @@
 layout: term
 title: fertik
 slug: fertik
+letter: F
 lisan: Almanca fertig
 anlamlar:
 - '"Kaç, uzaklaş; tamam, bitti" anlamlarında kullanılan bir seslenme sözü'

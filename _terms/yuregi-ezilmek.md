@@ -2,6 +2,7 @@
 layout: term
 title: yüreği ezilmek
 slug: yuregi-ezilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - üzülmek, acı duymak

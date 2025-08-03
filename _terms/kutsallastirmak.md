@@ -2,6 +2,7 @@
 layout: term
 title: kutsallaştırmak
 slug: kutsallastirmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kutsal duruma getirmek; kutsamak, kutsileştirmek

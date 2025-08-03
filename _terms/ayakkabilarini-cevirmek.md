@@ -2,6 +2,7 @@
 layout: term
 title: ayakkabılarını çevirmek
 slug: ayakkabilarini-cevirmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - konuk ayakkabılarını gidiş yönüne doğru düzgün bir biçimde sıralamak

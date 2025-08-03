@@ -2,6 +2,7 @@
 layout: term
 title: sükûnetle
 slug: sukunetle
+letter: S
 lisan: Türkçe
 anlamlar:
 - Metîn bir biçimde

@@ -2,6 +2,7 @@
 layout: term
 title: aydınlanış
 slug: aydinlanis
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aydınlanmak işi veya durumu

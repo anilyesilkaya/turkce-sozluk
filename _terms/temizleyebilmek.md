@@ -2,6 +2,7 @@
 layout: term
 title: temizleyebilmek
 slug: temizleyebilmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Temizleme ihtimali veya imkânı bulunmak

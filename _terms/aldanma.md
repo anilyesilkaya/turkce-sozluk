@@ -2,6 +2,7 @@
 layout: term
 title: aldanma
 slug: aldanma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aldanmak işi

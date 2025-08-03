@@ -2,6 +2,7 @@
 layout: term
 title: eğri büğrü
 slug: egri-bugru
+letter: E
 lisan: Türkçe
 anlamlar:
 - Yer yer eğrilmiş ve bükülmüş olan; çarpık çurpuk, çarpuk çurpuk

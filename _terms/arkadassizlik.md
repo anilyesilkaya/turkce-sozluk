@@ -2,6 +2,7 @@
 layout: term
 title: arkadaşsızlık
 slug: arkadassizlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arkadaşsız olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: bastonlu
 slug: bastonlu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bastonu olan

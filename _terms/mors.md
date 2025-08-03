@@ -2,6 +2,7 @@
 layout: term
 title: Mors
 slug: mors
+letter: M
 lisan: Fransızca morse
 anlamlar:
 - ► Mors alfabesi

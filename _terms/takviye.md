@@ -2,6 +2,7 @@
 layout: term
 title: takviye
 slug: takviye
+letter: T
 lisan: Arapça taḳviye
 anlamlar:
 - ► sağlamlaştırma

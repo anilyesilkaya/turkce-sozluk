@@ -2,6 +2,7 @@
 layout: term
 title: darmadağın olmak
 slug: darmadagin-olmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - dağınık ve karışık duruma gelmek

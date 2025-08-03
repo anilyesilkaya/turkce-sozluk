@@ -2,6 +2,7 @@
 layout: term
 title: mavracı
 slug: mavraci
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► geveze

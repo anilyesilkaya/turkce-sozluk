@@ -2,6 +2,7 @@
 layout: term
 title: kandilli temenna
 slug: kandilli-temenna
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kandilli selam

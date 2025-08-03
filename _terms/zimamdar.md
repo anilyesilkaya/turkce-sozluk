@@ -2,6 +2,7 @@
 layout: term
 title: zimamdar
 slug: zimamdar
+letter: Z
 lisan: Arapça zimām + Farsça -dār
 anlamlar:
 - Yönetici, işbaşında bulunan kimse

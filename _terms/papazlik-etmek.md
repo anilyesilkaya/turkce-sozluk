@@ -2,6 +2,7 @@
 layout: term
 title: papazlık etmek
 slug: papazlik-etmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - ders vermek, ikna edici sözlerle kandırmak

@@ -2,6 +2,7 @@
 layout: term
 title: mantolama
 slug: mantolama
+letter: M
 lisan: Türkçe
 anlamlar:
 - Binaları soğuğa veya sıcağa karşı koruma amacıyla dış yüzeyini özel malzemeyle kaplama

@@ -2,6 +2,7 @@
 layout: term
 title: şeneltmek
 slug: seneltmek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şenelmiş duruma getirmek, meskûn kılmak

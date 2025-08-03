@@ -2,6 +2,7 @@
 layout: term
 title: şaplak
 slug: saplak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - '"Şap" diye ses çıkaran tokat'

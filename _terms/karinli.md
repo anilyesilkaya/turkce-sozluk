@@ -2,6 +2,7 @@
 layout: term
 title: karınlı
 slug: karinli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karnı olan

@@ -2,6 +2,7 @@
 layout: term
 title: kaygısızca
 slug: kaygisizca
+letter: K
 lisan: Türkçe
 anlamlar:
 - Etrafında olan hiçbir şeyi umursamayan

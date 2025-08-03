@@ -2,6 +2,7 @@
 layout: term
 title: cuşiş
 slug: cusis
+letter: C
 lisan: Farsça cūşiş
 anlamlar:
 - ► coşkunluk

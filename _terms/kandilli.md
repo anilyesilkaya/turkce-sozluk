@@ -2,6 +2,7 @@
 layout: term
 title: kandilli
 slug: kandilli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kandili olan

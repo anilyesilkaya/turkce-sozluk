@@ -2,6 +2,7 @@
 layout: term
 title: hikâyecik
 slug: hikayecik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Kısa veya özlü anlatımı olan hikâye, fıkra; anekdot

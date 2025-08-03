@@ -2,6 +2,7 @@
 layout: term
 title: üstün yapım
 slug: ustun-yapim
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Çok büyük giderlerle çevrilen, kalabalık oyuncu kadrosuna sahip, göz kamaştırıcı süs ve giysili, büyük reklamlarla piyasaya sürülen ancak sanat yönünden genellikle büyük bir değer taşımayan film

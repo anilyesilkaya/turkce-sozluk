@@ -2,6 +2,7 @@
 layout: term
 title: seçkincilik
 slug: seckincilik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Seçkinci olma durumu

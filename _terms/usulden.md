@@ -2,6 +2,7 @@
 layout: term
 title: usulden
 slug: usulden
+letter: U
 lisan: Türkçe
 anlamlar:
 - Usule dayalı olarak

@@ -2,6 +2,7 @@
 layout: term
 title: benzeşim
 slug: benzesim
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bazı ortak yönleri olan iki şey arasındaki benzeşme; analoji

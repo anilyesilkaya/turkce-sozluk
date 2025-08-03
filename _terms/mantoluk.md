@@ -2,6 +2,7 @@
 layout: term
 title: mantoluk
 slug: mantoluk
+letter: M
 lisan: Türkçe
 anlamlar:
 - Manto yapmaya elverişli (kumaş)

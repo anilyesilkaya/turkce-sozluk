@@ -2,6 +2,7 @@
 layout: term
 title: duygusuz
 slug: duygusuz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Duygusu, duyarlığı olmayan; hissiz

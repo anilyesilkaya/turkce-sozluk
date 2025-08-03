@@ -2,6 +2,7 @@
 layout: term
 title: cepten vermek
 slug: cepten-vermek
+letter: C
 lisan: Türkçe
 anlamlar:
 - kendi kesesinden, kendi malından ödemek

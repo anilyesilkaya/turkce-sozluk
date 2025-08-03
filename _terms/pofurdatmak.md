@@ -2,6 +2,7 @@
 layout: term
 title: pofurdatmak
 slug: pofurdatmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pofurdamasına sebep olmak

@@ -2,6 +2,7 @@
 layout: term
 title: yorgun düşmek
 slug: yorgun-dusmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - çok yorulmak, bitkin duruma gelmek

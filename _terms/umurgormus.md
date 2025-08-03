@@ -2,6 +2,7 @@
 layout: term
 title: umurgörmüş
 slug: umurgormus
+letter: U
 lisan: Türkçe
 anlamlar:
 - Önemli görevlerde bulunmuş (kimse)

@@ -2,6 +2,7 @@
 layout: term
 title: kömürlük
 slug: komurluk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kömür saklanan veya konulan yer

@@ -2,6 +2,7 @@
 layout: term
 title: kuru köfte
 slug: kuru-kofte
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kıyma ve ekmek içi ile yapılıp tavada kızartılan köfte

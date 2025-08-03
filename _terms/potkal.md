@@ -2,6 +2,7 @@
 layout: term
 title: potkal
 slug: potkal
+letter: P
 lisan: İtalyanca bocal
 anlamlar:
 - Cam, pişmiş toprak veya seramikten yapılmış, kulplu, ağzı gövdesine göre dar ve oluklu, genelde su, şarap ve bira konan kap

@@ -2,6 +2,7 @@
 layout: term
 title: latife götürmek
 slug: latife-goturmek
+letter: L
 lisan: Türkçe
 anlamlar:
 - şaka kaldırmak

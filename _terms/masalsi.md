@@ -2,6 +2,7 @@
 layout: term
 title: masalsı
 slug: masalsi
+letter: M
 lisan: Türkçe
 anlamlar:
 - Masalı andıran, masala benzeyen, masal gibi; masalımsı

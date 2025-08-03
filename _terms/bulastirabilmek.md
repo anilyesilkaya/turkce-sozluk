@@ -2,6 +2,7 @@
 layout: term
 title: bulaştırabilmek
 slug: bulastirabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bulaştırma ihtimali veya imkânı bulunmak

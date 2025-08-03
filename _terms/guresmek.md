@@ -2,6 +2,7 @@
 layout: term
 title: güreşmek
 slug: guresmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - İki kişi türlü oyunlarla birbirinin sırtını yere getirmeye çalışmak; yıkışmak

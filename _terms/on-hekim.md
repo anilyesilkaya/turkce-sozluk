@@ -2,6 +2,7 @@
 layout: term
 title: ön hekim
 slug: on-hekim
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Staj yapmak üzere hastanelerde çalışan tıp fakültelerinin altıncı sınıf öğrencileri

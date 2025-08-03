@@ -2,6 +2,7 @@
 layout: term
 title: şaibeli
 slug: saibeli
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şaibesi olan

@@ -2,6 +2,7 @@
 layout: term
 title: yıldırımlı
 slug: yildirimli
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yıldırım oluşan, yıldırım düşen (hava)

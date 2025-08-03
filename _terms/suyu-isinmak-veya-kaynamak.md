@@ -2,6 +2,7 @@
 layout: term
 title: suyu ısınmak (veya kaynamak)
 slug: suyu-isinmak-veya-kaynamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - işbaşından uzaklaştırılması yakın olmak

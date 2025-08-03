@@ -2,6 +2,7 @@
 layout: term
 title: kartela
 slug: kartela
+letter: K
 lisan: İtalyanca cartella
 anlamlar:
 - Tombala vb. oyunlarda sayıların yazılı olduğu kart

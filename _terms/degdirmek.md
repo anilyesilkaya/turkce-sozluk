@@ -2,6 +2,7 @@
 layout: term
 title: değdirmek
 slug: degdirmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Değmesini sağlamak, değmesine yol açmak

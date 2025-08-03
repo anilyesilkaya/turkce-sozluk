@@ -2,6 +2,7 @@
 layout: term
 title: canavarlık
 slug: canavarlik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Canavar gibi davranma

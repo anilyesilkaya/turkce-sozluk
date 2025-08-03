@@ -2,6 +2,7 @@
 layout: term
 title: marş marş
 slug: mars-mars
+letter: M
 lisan: Türkçe
 anlamlar:
 - '"Yürü" anlamında kullanılan bir seslenme sözü'

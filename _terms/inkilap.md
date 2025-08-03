@@ -2,6 +2,7 @@
 layout: term
 title: inkılap
 slug: inkilap
+letter: I
 lisan: Arapça inḳilāb
 anlamlar:
 - Toplum düzenini ve yapısını daha iyi duruma getirmek için yapılan köklü değişiklik, iyileştirme; devrim

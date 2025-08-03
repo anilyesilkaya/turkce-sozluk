@@ -2,6 +2,7 @@
 layout: term
 title: ağırlık olmak
 slug: agirlik-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - sıkıntı vermek

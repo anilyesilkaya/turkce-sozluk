@@ -2,6 +2,7 @@
 layout: term
 title: görevlendirilmek
 slug: gorevlendirilmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Görev verilmek; vazifelendirilmek, tavzif edilmek

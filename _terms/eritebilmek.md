@@ -2,6 +2,7 @@
 layout: term
 title: eritebilmek
 slug: eritebilmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eritme ihtimali veya imkânı bulunmak

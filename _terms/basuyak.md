@@ -2,6 +2,7 @@
 layout: term
 title: başuyak
 slug: basuyak
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► başkafiye

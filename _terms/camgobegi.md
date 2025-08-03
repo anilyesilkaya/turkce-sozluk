@@ -2,6 +2,7 @@
 layout: term
 title: camgöbeği
 slug: camgobegi
+letter: C
 lisan: Türkçe
 anlamlar:
 - Yeşile çalan mavi renk

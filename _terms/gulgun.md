@@ -2,6 +2,7 @@
 layout: term
 title: gülgûn
 slug: gulgun
+letter: G
 lisan: Farsça gul-gūn
 anlamlar:
 - Gül renkli, pembe

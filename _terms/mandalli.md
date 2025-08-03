@@ -2,6 +2,7 @@
 layout: term
 title: mandallı
 slug: mandalli
+letter: M
 lisan: Türkçe
 anlamlar:
 - Üzerinde mandal bulunan

@@ -2,6 +2,7 @@
 layout: term
 title: maviş maviş bakmak
 slug: mavis-mavis-bakmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - mavi gözlerle bakmak

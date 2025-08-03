@@ -2,6 +2,7 @@
 layout: term
 title: utanma
 slug: utanma
+letter: U
 lisan: Türkçe
 anlamlar:
 - Utanma durumu; arlanma, utanç, yüz (II), hayâ, hicap, teeddüp

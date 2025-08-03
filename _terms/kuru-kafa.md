@@ -2,6 +2,7 @@
 layout: term
 title: kuru kafa
 slug: kuru-kafa
+letter: K
 lisan: Türkçe
 anlamlar:
 - Baş iskeleti

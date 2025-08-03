@@ -2,6 +2,7 @@
 layout: term
 title: söz vermek
 slug: soz-vermek
+letter: S
 lisan: Türkçe
 anlamlar:
 - bir işi yapacağını kesinlikle bildirmek

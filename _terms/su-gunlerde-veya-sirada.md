@@ -2,6 +2,7 @@
 layout: term
 title: şu günlerde (veya sırada)
 slug: su-gunlerde-veya-sirada
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - çok uzak olmayan bir zamanda

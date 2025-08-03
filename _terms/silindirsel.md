@@ -2,6 +2,7 @@
 layout: term
 title: silindirsel
 slug: silindirsel
+letter: S
 lisan: Türkçe
 anlamlar:
 - Silindirle ilgili; silindirik

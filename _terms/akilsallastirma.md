@@ -2,6 +2,7 @@
 layout: term
 title: akılsallaştırma
 slug: akilsallastirma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Akılsallaştırmak işi

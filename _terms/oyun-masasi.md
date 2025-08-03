@@ -2,6 +2,7 @@
 layout: term
 title: oyun masası
 slug: oyun-masasi
+letter: O
 lisan: Türkçe
 anlamlar:
 - Üzerinde çeşitli oyunlar oynanan, genellikle kumaşla kaplanmış masa

@@ -2,6 +2,7 @@
 layout: term
 title: tennure
 slug: tennure
+letter: T
 lisan: Arapça tennūre
 anlamlar:
 - Mevlevi dervişlerinin giydiği kolsuz, yakasız, yırtmaçlı, beli kırmalı, uzun ve geniş giysi

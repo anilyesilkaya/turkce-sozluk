@@ -2,6 +2,7 @@
 layout: term
 title: adımlama
 slug: adimlama
+letter: A
 lisan: Türkçe
 anlamlar:
 - Adımlamak işi

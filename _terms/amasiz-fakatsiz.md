@@ -2,6 +2,7 @@
 layout: term
 title: amasız fakatsız
 slug: amasiz-fakatsiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Herhangi bir bahane, şart ileri sürmeyen

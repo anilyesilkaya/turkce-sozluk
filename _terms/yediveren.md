@@ -2,6 +2,7 @@
 layout: term
 title: yediveren
 slug: yediveren
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yılda birkaç kez meyve veren veya çiçek açan (asma, gül vb.)

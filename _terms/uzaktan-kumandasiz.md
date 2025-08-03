@@ -2,6 +2,7 @@
 layout: term
 title: uzaktan kumandasız
 slug: uzaktan-kumandasiz
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uzaktan kumandası olmayan

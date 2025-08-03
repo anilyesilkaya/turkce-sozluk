@@ -2,6 +2,7 @@
 layout: term
 title: körletme
 slug: korletme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Körletmek işi

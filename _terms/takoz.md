@@ -2,6 +2,7 @@
 layout: term
 title: takoz
 slug: takoz
+letter: T
 lisan: Rumca
 anlamlar:
 - Bir eşyanın altına yerinden oynamadan dik durması için yerleştirilen ağaç kama

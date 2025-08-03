@@ -2,6 +2,7 @@
 layout: term
 title: ilkel
 slug: ilkel
+letter: I
 lisan: Türkçe
 anlamlar:
 - İlk durumunda kalmış olan, gelişmesinin başında bulunan; ilkelce, iptidai, primitif

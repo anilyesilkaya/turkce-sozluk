@@ -2,6 +2,7 @@
 layout: term
 title: bıçak gibi kesmek
 slug: bicak-gibi-kesmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - çok keskin olmak

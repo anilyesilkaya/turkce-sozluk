@@ -2,6 +2,7 @@
 layout: term
 title: tasımlama
 slug: tasimlama
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tasımlamak işi

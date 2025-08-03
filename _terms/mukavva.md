@@ -2,6 +2,7 @@
 layout: term
 title: mukavva
 slug: mukavva
+letter: M
 lisan: Arapça muḳavvā
 anlamlar:
 - Kalın karton

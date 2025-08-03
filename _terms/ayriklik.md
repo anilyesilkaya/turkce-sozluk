@@ -2,6 +2,7 @@
 layout: term
 title: ayrıklık
 slug: ayriklik
+letter: A
 lisan: Türkçe
 anlamlar:
 - İstisnai olma durumu, ayrı tutma, ayrı tutulma

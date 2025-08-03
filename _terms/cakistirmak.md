@@ -2,6 +2,7 @@
 layout: term
 title: çakıştırmak
 slug: cakistirmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çakışma işini yaptırmak

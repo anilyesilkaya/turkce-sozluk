@@ -2,6 +2,7 @@
 layout: term
 title: kötü huylu
 slug: kotu-huylu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Huyu kötü olan (kimse)

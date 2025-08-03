@@ -2,6 +2,7 @@
 layout: term
 title: uy
 slug: uy
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ay, vay, aman

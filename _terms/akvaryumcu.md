@@ -2,6 +2,7 @@
 layout: term
 title: akvaryumcu
 slug: akvaryumcu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Akvaryum işiyle uğraşan kimse; akvarist

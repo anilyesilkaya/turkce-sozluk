@@ -2,6 +2,7 @@
 layout: term
 title: aşinalık
 slug: asinalik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Birbirini bilme, tanıma, tanışık olma

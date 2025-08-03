@@ -2,6 +2,7 @@
 layout: term
 title: sabotaj yapmak
 slug: sabotaj-yapmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - yıkmak, tahrip etmek, kullanılır durumdan çıkarmak

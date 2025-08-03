@@ -2,6 +2,7 @@
 layout: term
 title: sıkmaç
 slug: sikmac
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► kompresör

@@ -2,6 +2,7 @@
 layout: term
 title: dessaslık
 slug: dessaslik
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► düzenbazlık

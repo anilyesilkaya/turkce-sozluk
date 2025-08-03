@@ -2,6 +2,7 @@
 layout: term
 title: demir tavında dövülür
 slug: demir-tavinda-dovulur
+letter: D
 lisan: Türkçe
 anlamlar:
 - '"her iş zamanında ve uygun durumda yapılır" anlamında kullanılan bir söz'

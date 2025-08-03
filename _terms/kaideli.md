@@ -2,6 +2,7 @@
 layout: term
 title: kaideli
 slug: kaideli
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kurallı

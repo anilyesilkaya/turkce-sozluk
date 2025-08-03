@@ -2,6 +2,7 @@
 layout: term
 title: inandırmak
 slug: inandirmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - İnanmasını sağlamak

@@ -2,6 +2,7 @@
 layout: term
 title: potur
 slug: potur
+letter: P
 lisan: Türkçe
 anlamlar:
 - Arka tarafında kırmaları çok, bacakları dar bir pantolon türü

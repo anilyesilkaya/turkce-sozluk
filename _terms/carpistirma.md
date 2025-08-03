@@ -2,6 +2,7 @@
 layout: term
 title: çarpıştırma
 slug: carpistirma
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çarpıştırmak işi

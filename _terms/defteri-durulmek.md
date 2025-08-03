@@ -2,6 +2,7 @@
 layout: term
 title: defteri dürülmek
 slug: defteri-durulmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - ölmek

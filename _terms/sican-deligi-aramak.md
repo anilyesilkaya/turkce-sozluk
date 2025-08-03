@@ -2,6 +2,7 @@
 layout: term
 title: sıçan deliği aramak
 slug: sican-deligi-aramak
+letter: S
 lisan: Türkçe
 anlamlar:
 - saklanacak bir yer aramak

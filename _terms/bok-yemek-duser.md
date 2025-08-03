@@ -2,6 +2,7 @@
 layout: term
 title: bok yemek düşer
 slug: bok-yemek-duser
+letter: B
 lisan: Türkçe
 anlamlar:
 - '"birinin bir işe karışmaması, burnunu sokmaması gerekir" anlamında kullanılan bir söz'

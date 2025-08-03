@@ -2,6 +2,7 @@
 layout: term
 title: savlamak
 slug: savlamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - İddia etmek

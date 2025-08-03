@@ -2,6 +2,7 @@
 layout: term
 title: anime
 slug: anime
+letter: A
 lisan: Fransızca animé
 anlamlar:
 - Japon çizgi romanı mangaların televizyon, sinema vb. için filmleştirilmiş biçimi

@@ -2,6 +2,7 @@
 layout: term
 title: çamaşır makinesi
 slug: camasir-makinesi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çamaşır yıkamaya yarayan araç

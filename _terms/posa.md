@@ -2,6 +2,7 @@
 layout: term
 title: posa
 slug: posa
+letter: P
 lisan: Türkçe
 anlamlar:
 - Suyu alınmış her tür yiyecek maddesinin artığı

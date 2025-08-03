@@ -2,6 +2,7 @@
 layout: term
 title: bulgulama
 slug: bulgulama
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bulgulamak işi

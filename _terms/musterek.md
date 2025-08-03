@@ -2,6 +2,7 @@
 layout: term
 title: müşterek
 slug: musterek
+letter: M
 lisan: Arapça muşterek
 anlamlar:
 - ► ortak

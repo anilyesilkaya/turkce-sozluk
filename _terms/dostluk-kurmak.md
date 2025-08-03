@@ -2,6 +2,7 @@
 layout: term
 title: dostluk kurmak
 slug: dostluk-kurmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - yakınlık, ahbaplık kurmak

@@ -2,6 +2,7 @@
 layout: term
 title: boğumlu
 slug: bogumlu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boğumu olan

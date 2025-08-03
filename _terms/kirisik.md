@@ -2,6 +2,7 @@
 layout: term
 title: kırışık
 slug: kirisik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kırışmış olan

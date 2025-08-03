@@ -2,6 +2,7 @@
 layout: term
 title: kırılganlık
 slug: kirilganlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kırılgan olma durumu

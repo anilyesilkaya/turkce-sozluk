@@ -2,6 +2,7 @@
 layout: term
 title: delk
 slug: delk
+letter: D
 lisan: Arapça delk
 anlamlar:
 - ► ovuşturma

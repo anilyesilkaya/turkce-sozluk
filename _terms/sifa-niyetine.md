@@ -2,6 +2,7 @@
 layout: term
 title: şifa niyetine
 slug: sifa-niyetine
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - bir kimseye ilaç verilirken "iyi olması, fayda sağlaması dileğiyle" anlamında kullanılan bir söz

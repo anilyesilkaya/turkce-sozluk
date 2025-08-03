@@ -2,6 +2,7 @@
 layout: term
 title: hoşlaştırmak
 slug: hoslastirmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hoşlaşmasını sağlamak

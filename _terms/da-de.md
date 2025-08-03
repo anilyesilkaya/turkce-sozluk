@@ -2,6 +2,7 @@
 layout: term
 title: da / de
 slug: da-de
+letter: D
 lisan: Türkçe
 anlamlar:
 - Daha önce geçmiş bir cümle veya eş görevli öge ile sonraki arasında `-den başka` anlamıyla ilişki kuran bir söz

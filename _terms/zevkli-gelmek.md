@@ -2,6 +2,7 @@
 layout: term
 title: zevkli gelmek
 slug: zevkli-gelmek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - eğlenceli olduğunu düşünmek

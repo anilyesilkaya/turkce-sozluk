@@ -2,6 +2,7 @@
 layout: term
 title: tarumar etmek
 slug: tarumar-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - dağıtmak, karıştırmak, darmadağın etmek

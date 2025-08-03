@@ -2,6 +2,7 @@
 layout: term
 title: hars
 slug: hars
+letter: H
 lisan: Arapça ḥars̱
 anlamlar:
 - Tarla sürme

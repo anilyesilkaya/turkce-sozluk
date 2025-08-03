@@ -2,6 +2,7 @@
 layout: term
 title: daylak
 slug: daylak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dişi deve

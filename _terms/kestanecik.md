@@ -2,6 +2,7 @@
 layout: term
 title: kestanecik
 slug: kestanecik
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► prostat

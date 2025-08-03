@@ -2,6 +2,7 @@
 layout: term
 title: telgraf
 slug: telgraf
+letter: T
 lisan: Fransızca télégraphe
 anlamlar:
 - İki merkez arasında, kararlaştırılmış işaretlerin yardımıyla yazılı haberlerin veya belgelerin iletimini sağlayan bir telekomünikasyon düzeni; tel (II)

@@ -2,6 +2,7 @@
 layout: term
 title: panzer
 slug: panzer
+letter: P
 lisan: Almanca Panzer
 anlamlar:
 - İkinci Dünya Savaşı'nda Alman ordusunun kullandığı, günümüzde polisin kanunsuz sokak gösterileri gibi hareketleri bastırmak için yararlandığı, yüksek tekerlekli, zırhlı, hafif silahlarla donatılmış araç

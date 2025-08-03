@@ -2,6 +2,7 @@
 layout: term
 title: ayna gibi
 slug: ayna-gibi
+letter: A
 lisan: Türkçe
 anlamlar:
 - dümdüz ve parlak

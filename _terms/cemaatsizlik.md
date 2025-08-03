@@ -2,6 +2,7 @@
 layout: term
 title: cemaatsizlik
 slug: cemaatsizlik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cemaatsiz olma durumu

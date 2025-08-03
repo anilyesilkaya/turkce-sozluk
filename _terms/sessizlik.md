@@ -2,6 +2,7 @@
 layout: term
 title: sessizlik
 slug: sessizlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Ortalıkta gürültü olmama durumu; sükût, tıs

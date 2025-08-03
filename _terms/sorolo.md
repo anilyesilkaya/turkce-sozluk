@@ -2,6 +2,7 @@
 layout: term
 title: şorolo
 slug: sorolo
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Kadınlaşmış, kadın kılığına girmiş olan ve ahlak dışı ilişkiler için kullanılan erkek

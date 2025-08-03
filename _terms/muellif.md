@@ -2,6 +2,7 @@
 layout: term
 title: müellif
 slug: muellif
+letter: M
 lisan: Arapça muʾellif
 anlamlar:
 - ► yazar

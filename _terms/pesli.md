@@ -2,6 +2,7 @@
 layout: term
 title: peşli
 slug: pesli
+letter: P
 lisan: Türkçe
 anlamlar:
 - Peş (II) eklenerek genişletilmiş (giysi)

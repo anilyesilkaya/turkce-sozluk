@@ -2,6 +2,7 @@
 layout: term
 title: harabat
 slug: harabat
+letter: H
 lisan: Arapça ḫarābāt
 anlamlar:
 - Harabeler

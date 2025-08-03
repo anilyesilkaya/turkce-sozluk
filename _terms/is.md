@@ -2,6 +2,7 @@
 layout: term
 title: iş
 slug: is
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bir sonuç elde etmek, herhangi bir şey ortaya koymak için güç harcayarak yapılan etkinlik, çalışma

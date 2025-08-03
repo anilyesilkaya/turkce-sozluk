@@ -2,6 +2,7 @@
 layout: term
 title: edebiyatsever
 slug: edebiyatsever
+letter: E
 lisan: Arapça edebiyyāt + Türkçe sever
 anlamlar:
 - Edebiyata tutkun

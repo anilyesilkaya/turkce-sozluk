@@ -2,6 +2,7 @@
 layout: term
 title: hortumlu böcekler
 slug: hortumlu-bocekler
+letter: H
 lisan: Türkçe
 anlamlar:
 - Eş kanatlıları, yarım kanatlıları, tahtakurularını içine alan, kan veya öz su emici birçok asalak türü bulunan böcekler topluluğu (Rhynchota)

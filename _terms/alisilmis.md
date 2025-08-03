@@ -2,6 +2,7 @@
 layout: term
 title: alışılmış
 slug: alisilmis
+letter: A
 lisan: Türkçe
 anlamlar:
 - Her zamanki; mutat

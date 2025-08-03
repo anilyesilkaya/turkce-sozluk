@@ -2,6 +2,7 @@
 layout: term
 title: hovardaca
 slug: hovardaca
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hovarda gibi, hovardaya yaraşır bir biçimde

@@ -2,6 +2,7 @@
 layout: term
 title: tuğla
 slug: tugla
+letter: T
 lisan: Rumca
 anlamlar:
 - Balçığın kalıplara dökülüp güneşte kurutulduktan sonra özel ocaklarda pişirilmesiyle yapılan ve duvar örmekte kullanılan yapı malzemesi

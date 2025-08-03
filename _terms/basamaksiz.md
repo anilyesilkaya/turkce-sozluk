@@ -2,6 +2,7 @@
 layout: term
 title: basamaksız
 slug: basamaksiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Basamağı olmayan

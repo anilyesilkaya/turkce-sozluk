@@ -2,6 +2,7 @@
 layout: term
 title: aklın süzgecinden geçirmek
 slug: aklin-suzgecinden-gecirmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - etraflıca düşünmek, çok iyi muhakeme etmek

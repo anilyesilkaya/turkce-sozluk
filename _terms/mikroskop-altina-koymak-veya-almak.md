@@ -2,6 +2,7 @@
 layout: term
 title: mikroskop altına koymak (veya almak)
 slug: mikroskop-altina-koymak-veya-almak
+letter: M
 lisan: Türkçe
 anlamlar:
 - en ince noktasına kadar araştırmak, didik didik edip incelemek

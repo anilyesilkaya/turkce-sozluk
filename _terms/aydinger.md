@@ -2,6 +2,7 @@
 layout: term
 title: aydınger
 slug: aydinger
+letter: A
 lisan: (Eidinger özel adından)
 anlamlar:
 - Parlak yüzeyli, saydam, mimarlıkta çizim için kullanılan özel bir kâğıt

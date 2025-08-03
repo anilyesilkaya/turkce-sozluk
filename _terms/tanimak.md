@@ -2,6 +2,7 @@
 layout: term
 title: tanımak
 slug: tanimak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Daha önce görülen, bilinen bir kimse veya şeyle karşılaşıldığında bunun kim veya ne olduğunu hatırlamak

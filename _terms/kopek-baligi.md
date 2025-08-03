@@ -2,6 +2,7 @@
 layout: term
 title: köpek balığı
 slug: kopek-baligi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Köpek balıklarından, gövdesi mekik biçiminde, burun kısmı sivri, solungaç yarıkları boynun iki yanında bulunan, kıkırdaklı, yırtıcı balıkların genel adı; canavar (Mustelus mustelus)

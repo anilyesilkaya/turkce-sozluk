@@ -2,6 +2,7 @@
 layout: term
 title: özürlü
 slug: ozurlu
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Özrü olan

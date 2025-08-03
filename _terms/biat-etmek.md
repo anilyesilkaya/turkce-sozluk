@@ -2,6 +2,7 @@
 layout: term
 title: biat etmek
 slug: biat-etmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir hükümdarın veya ileri gelen birinin egemenliğini tanımak, kabul etmek

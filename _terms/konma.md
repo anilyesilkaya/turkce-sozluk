@@ -2,6 +2,7 @@
 layout: term
 title: konma
 slug: konma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Konmak işi; vaz

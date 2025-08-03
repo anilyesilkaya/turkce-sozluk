@@ -2,6 +2,7 @@
 layout: term
 title: mübadil
 slug: mubadil
+letter: M
 lisan: Arapça mubādil
 anlamlar:
 - Başkasının yerine getirilmiş, mübadele edilmiş

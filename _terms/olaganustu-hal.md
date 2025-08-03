@@ -2,6 +2,7 @@
 layout: term
 title: olağanüstü hâl
 slug: olaganustu-hal
+letter: O
 lisan: Türkçe
 anlamlar:
 - Doğal afet veya salgın hastalıklar karşısında felakete uğrayanların kurtarılması, meydana gelen hasar ve zararın karşılanması; ağır ekonomik bunalım karşısında ekonominin iyileştirilmesi; kamu düzenini bozan şiddet hareketlerinin karşısında güvenliğin ve asayişin sağlanması amacıyla kanunla belirlenmiş belli bir süre için devlet tarafından özel tedbirlerin alınması durumu; fevkalade hâl

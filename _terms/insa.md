@@ -2,6 +2,7 @@
 layout: term
 title: inşa
 slug: insa
+letter: I
 lisan: Arapça inşāʾ
 anlamlar:
 - Yapı kurma, yapı yapma, kurma

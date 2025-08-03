@@ -2,6 +2,7 @@
 layout: term
 title: bekârhane
 slug: bekarhane
+letter: B
 lisan: Arapça bekār + Farsça ḫāne
 anlamlar:
 - ► bekâr odası

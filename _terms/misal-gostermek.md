@@ -2,6 +2,7 @@
 layout: term
 title: misal göstermek
 slug: misal-gostermek
+letter: M
 lisan: Türkçe
 anlamlar:
 - örnek vermek

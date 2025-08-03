@@ -2,6 +2,7 @@
 layout: term
 title: öğleüstü
 slug: ogleustu
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► öğleye doğru

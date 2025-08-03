@@ -2,6 +2,7 @@
 layout: term
 title: satın almak
 slug: satin-almak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir nesneyi belirlenen fiyatını ödeyerek kendine mal etmek; almak, iştira etmek, mübayaa etmek

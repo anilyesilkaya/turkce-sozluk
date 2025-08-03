@@ -2,6 +2,7 @@
 layout: term
 title: bekletmek
 slug: bekletmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bekleme işini birine yaptırmak

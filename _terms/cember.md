@@ -2,6 +2,7 @@
 layout: term
 title: çember
 slug: cember
+letter: Ç
 lisan: Farsça çenber
 anlamlar:
 - Merkez denilen sabit bir noktadan aynı uzaklık ve düzlemdeki noktalar kümesinin oluşturduğu kapalı eğri

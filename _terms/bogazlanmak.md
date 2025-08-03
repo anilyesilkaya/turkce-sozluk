@@ -2,6 +2,7 @@
 layout: term
 title: boğazlanmak
 slug: bogazlanmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boğazlama işine konu olmak veya boğazlama işi yapılmak

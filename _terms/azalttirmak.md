@@ -2,6 +2,7 @@
 layout: term
 title: azalttırmak
 slug: azalttirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Azaltma işini yaptırmak

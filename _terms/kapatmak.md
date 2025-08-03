@@ -2,6 +2,7 @@
 layout: term
 title: kapatmak
 slug: kapatmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kapama işini yapmak

@@ -2,6 +2,7 @@
 layout: term
 title: ruhunu teslim etmek
 slug: ruhunu-teslim-etmek
+letter: R
 lisan: Türkçe
 anlamlar:
 - ölmek

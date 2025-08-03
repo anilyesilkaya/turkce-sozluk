@@ -2,6 +2,7 @@
 layout: term
 title: yave
 slug: yave
+letter: Y
 lisan: Farsça yāve
 anlamlar:
 - Saçma, saçma sapan söz

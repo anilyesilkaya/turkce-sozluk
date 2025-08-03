@@ -2,6 +2,7 @@
 layout: term
 title: erdemlilik
 slug: erdemlilik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Erdemli olma durumu; faziletlilik

@@ -2,6 +2,7 @@
 layout: term
 title: dumura uğramak
 slug: dumura-ugramak
+letter: D
 lisan: Türkçe
 anlamlar:
 - bir organ beslenemeyerek zayıflamak

@@ -2,6 +2,7 @@
 layout: term
 title: ayak atmak
 slug: ayak-atmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - girmek

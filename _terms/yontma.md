@@ -2,6 +2,7 @@
 layout: term
 title: yontma
 slug: yontma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yontmak işi; yonma

@@ -2,6 +2,7 @@
 layout: term
 title: kadrajlanmak
 slug: kadrajlanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kadrajlama işi yapılmak

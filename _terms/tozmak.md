@@ -2,6 +2,7 @@
 layout: term
 title: tozmak
 slug: tozmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Toz havalanarak çevreye yayılmak; tozumak

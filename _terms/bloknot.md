@@ -2,6 +2,7 @@
 layout: term
 title: bloknot
 slug: bloknot
+letter: B
 lisan: Fransızca bloc-notes
 anlamlar:
 - Yaprakları kolayca çıkartılabilecek bir biçimde yapılmış not defteri

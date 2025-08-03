@@ -2,6 +2,7 @@
 layout: term
 title: poşu
 slug: posu
+letter: P
 lisan: Farsça pūşī
 anlamlar:
 - Kenarları saçaklı ipek, pamuk, yün vb.nden yapılmış bir başörtüsü türü; dolama

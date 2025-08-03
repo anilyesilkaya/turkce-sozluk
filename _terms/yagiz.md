@@ -2,6 +2,7 @@
 layout: term
 title: yağız
 slug: yagiz
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► esmer

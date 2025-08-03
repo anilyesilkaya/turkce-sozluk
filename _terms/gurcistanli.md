@@ -2,6 +2,7 @@
 layout: term
 title: Gürcistanlı
 slug: gurcistanli
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gürcistan’da yaşayan halk veya bu halkın soyundan olan kimse

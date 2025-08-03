@@ -2,6 +2,7 @@
 layout: term
 title: kırkı
 slug: kirki
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kırkma işi

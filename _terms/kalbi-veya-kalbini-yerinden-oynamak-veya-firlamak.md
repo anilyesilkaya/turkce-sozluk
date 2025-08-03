@@ -2,6 +2,7 @@
 layout: term
 title: kalbi (veya kalbini) yerinden oynamak (veya fırlamak)
 slug: kalbi-veya-kalbini-yerinden-oynamak-veya-firlamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - yüreği yerinden oynamak

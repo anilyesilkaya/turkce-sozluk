@@ -2,6 +2,7 @@
 layout: term
 title: övünek
 slug: ovunek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Övünülecek şey, övünç kaynağı veya sebebi

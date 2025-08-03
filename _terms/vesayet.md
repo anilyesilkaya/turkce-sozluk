@@ -2,6 +2,7 @@
 layout: term
 title: vesayet
 slug: vesayet
+letter: V
 lisan: Arapça veṣāyet
 anlamlar:
 - ► vasilik

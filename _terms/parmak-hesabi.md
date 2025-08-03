@@ -2,6 +2,7 @@
 layout: term
 title: parmak hesabı
 slug: parmak-hesabi
+letter: P
 lisan: Türkçe
 anlamlar:
 - Parmaklar kullanılarak yapılan hesap

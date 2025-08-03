@@ -2,6 +2,7 @@
 layout: term
 title: tek tipçi
 slug: tek-tipci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Aynı biçim veya nitelikte olma yanlısı

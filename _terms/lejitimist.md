@@ -2,6 +2,7 @@
 layout: term
 title: lejitimist
 slug: lejitimist
+letter: L
 lisan: Fransızca légitimiste
 anlamlar:
 - ► meşruiyetçi

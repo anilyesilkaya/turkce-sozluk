@@ -2,6 +2,7 @@
 layout: term
 title: katır boncuğu
 slug: katir-boncugu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çoğu binek hayvanlarının boynuna süs olarak takılan, mavi camdan iri boncuk

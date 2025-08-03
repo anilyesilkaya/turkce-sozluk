@@ -2,6 +2,7 @@
 layout: term
 title: aslanpençesi
 slug: aslanpencesi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Gülgillerden, sarı, beyaz çiçekli bir yabani bitki (Alchemilla)

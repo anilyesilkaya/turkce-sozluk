@@ -2,6 +2,7 @@
 layout: term
 title: okumuşluk
 slug: okumusluk
+letter: O
 lisan: Türkçe
 anlamlar:
 - Okuryazar, öğrenim görmüş olma durumu

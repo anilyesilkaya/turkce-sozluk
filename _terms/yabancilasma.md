@@ -2,6 +2,7 @@
 layout: term
 title: yabancılaşma
 slug: yabancilasma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yabancılaşmak işi

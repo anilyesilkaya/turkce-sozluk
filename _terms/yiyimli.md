@@ -2,6 +2,7 @@
 layout: term
 title: yiyimli
 slug: yiyimli
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Zevkle yenen

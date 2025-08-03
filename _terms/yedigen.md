@@ -2,6 +2,7 @@
 layout: term
 title: yedigen
 slug: yedigen
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yedi kenarlı çokgen

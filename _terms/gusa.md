@@ -2,6 +2,7 @@
 layout: term
 title: guşa
 slug: gusa
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► guatr

@@ -2,6 +2,7 @@
 layout: term
 title: ısı tedavisi
 slug: isi-tedavisi
+letter: I
 lisan: Türkçe
 anlamlar:
 - Hastalığın iyileştirilmesi için herhangi bir biçimde ısı uygulamasıyla yapılan tedavi; termoterapi

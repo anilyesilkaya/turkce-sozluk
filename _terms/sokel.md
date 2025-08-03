@@ -2,6 +2,7 @@
 layout: term
 title: sökel
 slug: sokel
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► malul

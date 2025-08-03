@@ -2,6 +2,7 @@
 layout: term
 title: türkü çağırmak (veya çığırmak)
 slug: turku-cagirmak-veya-cigirmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - türkü söylemek

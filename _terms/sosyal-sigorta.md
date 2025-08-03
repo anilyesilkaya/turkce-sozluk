@@ -2,6 +2,7 @@
 layout: term
 title: sosyal sigorta
 slug: sosyal-sigorta
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir işte ücret karşılığı çalışanların sağlığını, geleceğini güvence altına almak amacıyla kazançlarından bir bölümü kesilerek yapılan sigorta

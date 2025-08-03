@@ -2,6 +2,7 @@
 layout: term
 title: art süremlilik
 slug: art-suremlilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► art zamanlılık

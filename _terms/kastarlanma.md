@@ -2,6 +2,7 @@
 layout: term
 title: kastarlanma
 slug: kastarlanma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kastarlanmak işi

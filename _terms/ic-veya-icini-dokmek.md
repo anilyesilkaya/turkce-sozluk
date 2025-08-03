@@ -2,6 +2,7 @@
 layout: term
 title: iç (veya içini) dökmek
 slug: ic-veya-icini-dokmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - derdini anlatmak, iç dünyasındaki duygu ve düşüncelerini bir bir anlatmak

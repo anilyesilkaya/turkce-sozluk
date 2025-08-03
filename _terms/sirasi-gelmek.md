@@ -2,6 +2,7 @@
 layout: term
 title: sırası gelmek
 slug: sirasi-gelmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - bir başkasından sonra sıra birinin veya bir şeyin olmak

@@ -2,6 +2,7 @@
 layout: term
 title: tadı kaçmak (veya gitmek)
 slug: tadi-kacmak-veya-gitmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - tatsız bir duruma gelmek, tadını yitirmek

@@ -2,6 +2,7 @@
 layout: term
 title: arayabilme
 slug: arayabilme
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arayabilmek işi

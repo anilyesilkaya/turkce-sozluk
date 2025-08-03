@@ -2,6 +2,7 @@
 layout: term
 title: öksüzsevindiren
 slug: oksuzsevindiren
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Değeri az, cicili bicili şey

@@ -2,6 +2,7 @@
 layout: term
 title: domur
 slug: domur
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► kabarcık

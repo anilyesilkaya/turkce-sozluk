@@ -2,6 +2,7 @@
 layout: term
 title: karşılık
 slug: karsilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir davranışın karşı tarafta uyandırdığı, gerektirdiği başka davranış; mukabele, ivaz

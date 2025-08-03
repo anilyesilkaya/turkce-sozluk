@@ -2,6 +2,7 @@
 layout: term
 title: tatlı tatlı
 slug: tatli-tatli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Güzel, hoşa gidecek bir biçimde; güzel güzel

@@ -2,6 +2,7 @@
 layout: term
 title: postalamak
 slug: postalamak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Postaya vermek

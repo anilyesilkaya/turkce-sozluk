@@ -2,6 +2,7 @@
 layout: term
 title: çivitleme
 slug: civitleme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çivitlemek işi

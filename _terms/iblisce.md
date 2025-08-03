@@ -2,6 +2,7 @@
 layout: term
 title: iblisçe
 slug: iblisce
+letter: I
 lisan: Türkçe
 anlamlar:
 - Şeytana yakışır

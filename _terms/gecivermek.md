@@ -2,6 +2,7 @@
 layout: term
 title: geçivermek
 slug: gecivermek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Çabucak veya kısa sürede geçmek

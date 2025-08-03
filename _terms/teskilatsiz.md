@@ -2,6 +2,7 @@
 layout: term
 title: teşkilatsız
 slug: teskilatsiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► örgütsüz

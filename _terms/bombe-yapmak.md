@@ -2,6 +2,7 @@
 layout: term
 title: bombe yapmak
 slug: bombe-yapmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - bombelenmek

@@ -2,6 +2,7 @@
 layout: term
 title: önünde sonunda
 slug: onunde-sonunda
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - En sonunda; eninde sonunda, evvel ahir

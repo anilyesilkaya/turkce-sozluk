@@ -2,6 +2,7 @@
 layout: term
 title: hayat hikâyesi
 slug: hayat-hikayesi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Bir kişinin hayatı boyunca geçirdiği önemli olaylar ve evrelerin bütünü; hayat öyküsü

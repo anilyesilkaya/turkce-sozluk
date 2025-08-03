@@ -2,6 +2,7 @@
 layout: term
 title: aksırıklı
 slug: aksirikli
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► hapşırıklı

@@ -2,6 +2,7 @@
 layout: term
 title: bozkırlaştırma
 slug: bozkirlastirma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bozkırlaştırmak işi

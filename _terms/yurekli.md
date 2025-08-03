@@ -2,6 +2,7 @@
 layout: term
 title: yürekli
 slug: yurekli
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Tehlikeyi korkusuzca karşılayan, hiçbir şeyden korkusu olmayan; koçak

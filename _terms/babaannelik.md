@@ -2,6 +2,7 @@
 layout: term
 title: babaannelik
 slug: babaannelik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Babaanne olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: tutuk
 slug: tutuk
+letter: T
 lisan: Türkçe
 anlamlar:
 - Akıcı, rahat konuşamayan

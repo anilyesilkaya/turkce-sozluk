@@ -2,6 +2,7 @@
 layout: term
 title: şişirmek
 slug: sisirmek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Üfleyerek veya araç kullanarak şişkin bir duruma getirmek

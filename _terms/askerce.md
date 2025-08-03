@@ -2,6 +2,7 @@
 layout: term
 title: askerce
 slug: askerce
+letter: A
 lisan: Türkçe
 anlamlar:
 - Asker gibi

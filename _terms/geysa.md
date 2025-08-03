@@ -2,6 +2,7 @@
 layout: term
 title: geyşa
 slug: geysa
+letter: G
 lisan: İngilizce geisha
 anlamlar:
 - Dansçı ve şarkıcı Japon kadını

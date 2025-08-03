@@ -2,6 +2,7 @@
 layout: term
 title: öğretmek
 slug: ogretmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Bir kimseye bir konuda bilgi kazandırmak

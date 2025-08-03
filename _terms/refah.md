@@ -2,6 +2,7 @@
 layout: term
 title: refah
 slug: refah
+letter: R
 lisan: Arapça refāh
 anlamlar:
 - ► gönenç

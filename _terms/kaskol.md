@@ -2,6 +2,7 @@
 layout: term
 title: kaşkol
 slug: kaskol
+letter: K
 lisan: Fransızca cache-col
 anlamlar:
 - Boyun atkısı; atkı

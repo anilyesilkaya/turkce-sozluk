@@ -2,6 +2,7 @@
 layout: term
 title: avantadan
 slug: avantadan
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir kazancı emek vermeden elde ederek

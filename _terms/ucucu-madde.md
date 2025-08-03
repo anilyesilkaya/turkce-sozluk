@@ -2,6 +2,7 @@
 layout: term
 title: uçucu madde
 slug: ucucu-madde
+letter: U
 lisan: Türkçe
 anlamlar:
 - Üretici tarafından tasarlanmayan bir şekilde, sarhoşluk üretmek üzere burun veya ağız yoluyla solunabilen çeşitli ev ve endüstriyel kimyasallar

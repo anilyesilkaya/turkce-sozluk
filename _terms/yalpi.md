@@ -2,6 +2,7 @@
 layout: term
 title: yalpı
 slug: yalpi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yamaç

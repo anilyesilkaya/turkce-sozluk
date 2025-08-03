@@ -2,6 +2,7 @@
 layout: term
 title: ağaçlaşma
 slug: agaclasma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ağaçlaşmak durumu

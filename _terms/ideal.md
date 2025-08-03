@@ -2,6 +2,7 @@
 layout: term
 title: ideal
 slug: ideal
+letter: I
 lisan: Fransızca idéal
 anlamlar:
 - ► ülkü

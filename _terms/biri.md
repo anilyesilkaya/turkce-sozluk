@@ -2,6 +2,7 @@
 layout: term
 title: biri
 slug: biri
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir tanesi

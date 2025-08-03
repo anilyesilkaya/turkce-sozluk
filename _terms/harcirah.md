@@ -2,6 +2,7 @@
 layout: term
 title: harcırah
 slug: harcirah
+letter: H
 lisan: Arapça ḫarc + Farsça rāh
 anlamlar:
 - ► yolluk

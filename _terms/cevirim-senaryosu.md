@@ -2,6 +2,7 @@
 layout: term
 title: çevirim senaryosu
 slug: cevirim-senaryosu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çekim senaryosu

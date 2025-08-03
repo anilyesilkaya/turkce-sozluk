@@ -2,6 +2,7 @@
 layout: term
 title: krampon
 slug: krampon
+letter: K
 lisan: Fransızca crampon
 anlamlar:
 - Futbol ayakkabılarının altındaki, çimende rahat hareket etmeyi sağlayan, deri veya sentetik kabara; tutmalık

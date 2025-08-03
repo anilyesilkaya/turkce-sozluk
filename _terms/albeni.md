@@ -2,6 +2,7 @@
 layout: term
 title: albeni
 slug: albeni
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► çekicilik

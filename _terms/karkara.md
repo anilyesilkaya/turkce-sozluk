@@ -2,6 +2,7 @@
 layout: term
 title: karkara
 slug: karkara
+letter: K
 lisan: Arapça ḳarḳara
 anlamlar:
 - Uzun bacaklılardan, bataklık bölgelerde yaşayan, kışı sıcak ülkelerde geçiren, başı sorguçlu turna

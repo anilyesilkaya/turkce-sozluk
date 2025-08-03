@@ -2,6 +2,7 @@
 layout: term
 title: darbeci
 slug: darbeci
+letter: D
 lisan: Türkçe
 anlamlar:
 - Vuran, çarpan kimse

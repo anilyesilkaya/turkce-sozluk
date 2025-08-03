@@ -2,6 +2,7 @@
 layout: term
 title: hitap etmek
 slug: hitap-etmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - seslenmek, ... -e karşı söylemek, söz yöneltmek

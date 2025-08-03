@@ -2,6 +2,7 @@
 layout: term
 title: ilkin
 slug: ilkin
+letter: I
 lisan: Türkçe
 anlamlar:
 - Başta, başlangıçta

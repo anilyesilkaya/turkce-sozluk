@@ -2,6 +2,7 @@
 layout: term
 title: parsellemek
 slug: parsellemek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Parsellere ayırmak

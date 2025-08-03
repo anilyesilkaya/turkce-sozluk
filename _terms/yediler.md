@@ -2,6 +2,7 @@
 layout: term
 title: yediler
 slug: yediler
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yedi kişilik evliya topluluğu

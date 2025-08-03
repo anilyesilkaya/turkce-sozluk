@@ -2,6 +2,7 @@
 layout: term
 title: çamçak çamçak
 slug: camcak-camcak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bolca, bol miktarda

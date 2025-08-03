@@ -2,6 +2,7 @@
 layout: term
 title: cinsî
 slug: cinsi
+letter: C
 lisan: Arapça cinsī
 anlamlar:
 - ► cinsel

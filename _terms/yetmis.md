@@ -2,6 +2,7 @@
 layout: term
 title: yetmiş
 slug: yetmis
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Altmış dokuzdan sonra gelen sayının adı

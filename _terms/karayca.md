@@ -2,6 +2,7 @@
 layout: term
 title: Karayca
 slug: karayca
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► Karay Türkçesi

@@ -2,6 +2,7 @@
 layout: term
 title: moloz
 slug: moloz
+letter: M
 lisan: Rumca
 anlamlar:
 - Toprak ve kireçle karışık taş kırıntıları, yapı döküntüsü; inşaat atığı

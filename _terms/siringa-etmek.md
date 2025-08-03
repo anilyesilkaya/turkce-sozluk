@@ -2,6 +2,7 @@
 layout: term
 title: şırınga etmek
 slug: siringa-etmek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - gaz veya sıvı bir maddeyi gözenekli başka bir maddenin içine şırınga ile doldurmak

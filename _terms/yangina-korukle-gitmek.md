@@ -2,6 +2,7 @@
 layout: term
 title: yangına körükle gitmek
 slug: yangina-korukle-gitmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - gerginliği, uzlaşmazlığı artıracak biçimde davranmak

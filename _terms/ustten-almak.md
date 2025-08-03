@@ -2,6 +2,7 @@
 layout: term
 title: üstten almak
 slug: ustten-almak
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - kendini üstün görerek üst perdeden konuşmak

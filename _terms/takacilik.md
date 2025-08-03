@@ -2,6 +2,7 @@
 layout: term
 title: takacılık
 slug: takacilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Takacının işi

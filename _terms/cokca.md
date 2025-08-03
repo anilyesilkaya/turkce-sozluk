@@ -2,6 +2,7 @@
 layout: term
 title: çokça
 slug: cokca
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Oldukça fazla, aşırı miktarda; fazlaca

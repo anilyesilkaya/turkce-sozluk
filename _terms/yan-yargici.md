@@ -2,6 +2,7 @@
 layout: term
 title: yan yargıcı
 slug: yan-yargici
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yardımcı hakem

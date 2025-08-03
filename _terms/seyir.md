@@ -2,6 +2,7 @@
 layout: term
 title: seyir
 slug: seyir
+letter: S
 lisan: Arapça seyr
 anlamlar:
 - Gidiş, yürüyüş, ilerleyiş

@@ -2,6 +2,7 @@
 layout: term
 title: saydırabilmek
 slug: saydirabilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Saydırma ihtimali veya imkânı bulunmak

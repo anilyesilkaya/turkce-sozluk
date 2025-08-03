@@ -2,6 +2,7 @@
 layout: term
 title: ismini cismini almak
 slug: ismini-cismini-almak
+letter: I
 lisan: Türkçe
 anlamlar:
 - adını, kimliğini belirleyip kaydetmek

@@ -2,6 +2,7 @@
 layout: term
 title: tanecikli
 slug: tanecikli
+letter: T
 lisan: Türkçe
 anlamlar:
 - Küçücük tanelerden oluşmuş

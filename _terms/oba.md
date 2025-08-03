@@ -2,6 +2,7 @@
 layout: term
 title: oba
 slug: oba
+letter: O
 lisan: Türkçe
 anlamlar:
 - Göçebelerin konak yeri

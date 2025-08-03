@@ -2,6 +2,7 @@
 layout: term
 title: dünyaya getirmek
 slug: dunyaya-getirmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - doğurmak

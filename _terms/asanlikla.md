@@ -2,6 +2,7 @@
 layout: term
 title: asanlıkla
 slug: asanlikla
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► kolaylıkla

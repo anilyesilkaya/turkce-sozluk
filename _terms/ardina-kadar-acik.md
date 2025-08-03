@@ -2,6 +2,7 @@
 layout: term
 title: ardına kadar açık
 slug: ardina-kadar-acik
+letter: A
 lisan: Türkçe
 anlamlar:
 - sonuna kadar açık (kapı, pencere)

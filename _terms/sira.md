@@ -2,6 +2,7 @@
 layout: term
 title: sıra
 slug: sira
+letter: S
 lisan: Türkçe
 anlamlar:
 - Yan yana, art arda olan şey, olay veya canlıların tümü; dizi, kol (I), saf (I)

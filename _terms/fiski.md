@@ -2,6 +2,7 @@
 layout: term
 title: fışkı
 slug: fiski
+letter: F
 lisan: Rumca
 anlamlar:
 - Atgillerin taze dışkısı

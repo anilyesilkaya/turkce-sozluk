@@ -2,6 +2,7 @@
 layout: term
 title: pansiyonculuk
 slug: pansiyonculuk
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pansiyon sahibi olma durumu

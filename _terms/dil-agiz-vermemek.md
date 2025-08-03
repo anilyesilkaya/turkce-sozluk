@@ -2,6 +2,7 @@
 layout: term
 title: dil ağız vermemek
 slug: dil-agiz-vermemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - ağız dil vermemek

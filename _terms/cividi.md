@@ -2,6 +2,7 @@
 layout: term
 title: çividî
 slug: cividi
+letter: Ç
 lisan: Türkçe çivit + Arapça -ī
 anlamlar:
 - ► çivit rengi

@@ -2,6 +2,7 @@
 layout: term
 title: mesaj
 slug: mesaj
+letter: M
 lisan: Fransızca message
 anlamlar:
 - Bir devlet büyüğünün, bir sorumlunun belirli bir olay veya durum dolayısıyla ilgililere gönderdiği bildiri

@@ -2,6 +2,7 @@
 layout: term
 title: fırlamak
 slug: firlamak
+letter: F
 lisan: Türkçe
 anlamlar:
 - Hızla, birdenbire bulunduğu yerden çıkmak, ayrılmak

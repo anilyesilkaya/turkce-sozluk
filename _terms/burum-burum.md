@@ -2,6 +2,7 @@
 layout: term
 title: bürüm bürüm
 slug: burum-burum
+letter: B
 lisan: Türkçe
 anlamlar:
 - Katlanarak

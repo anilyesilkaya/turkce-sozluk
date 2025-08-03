@@ -2,6 +2,7 @@
 layout: term
 title: bir tahtada
 slug: bir-tahtada
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bir defada

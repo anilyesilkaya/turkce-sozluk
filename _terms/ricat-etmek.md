@@ -2,6 +2,7 @@
 layout: term
 title: ricat etmek
 slug: ricat-etmek
+letter: R
 lisan: Türkçe
 anlamlar:
 - gerilemek, geri çekilmek

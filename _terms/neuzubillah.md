@@ -2,6 +2,7 @@
 layout: term
 title: neuzübillah
 slug: neuzubillah
+letter: N
 lisan: Arapça neʿūẕubillah
 anlamlar:
 - '"Tanrı''ya sığındık, Tanrı korusun" anlamlarında, tehlikeli bir durumla karşılaşıldığında kullanılan bir söz'

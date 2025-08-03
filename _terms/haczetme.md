@@ -2,6 +2,7 @@
 layout: term
 title: haczetme
 slug: haczetme
+letter: H
 lisan: Türkçe
 anlamlar:
 - Haczetmek işi

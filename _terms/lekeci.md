@@ -2,6 +2,7 @@
 layout: term
 title: lekeci
 slug: lekeci
+letter: L
 lisan: Türkçe
 anlamlar:
 - ► kuru temizleyici

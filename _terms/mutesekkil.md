@@ -2,6 +2,7 @@
 layout: term
 title: müteşekkil
 slug: mutesekkil
+letter: M
 lisan: Arapça muteşekkil
 anlamlar:
 - Oluşmuş, meydana gelmiş

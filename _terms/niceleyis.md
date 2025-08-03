@@ -2,6 +2,7 @@
 layout: term
 title: niceleyiş
 slug: niceleyis
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nicelemek işi

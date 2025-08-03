@@ -2,6 +2,7 @@
 layout: term
 title: mezozoik
 slug: mezozoik
+letter: M
 lisan: Fransızca mésozoïque
 anlamlar:
 - ► İkinci Çağ

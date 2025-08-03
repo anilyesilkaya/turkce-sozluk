@@ -2,6 +2,7 @@
 layout: term
 title: tenevvür
 slug: tenevvur
+letter: T
 lisan: Arapça tenevvur
 anlamlar:
 - ► aydınlanma

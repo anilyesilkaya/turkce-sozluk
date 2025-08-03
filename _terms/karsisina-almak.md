@@ -2,6 +2,7 @@
 layout: term
 title: karşısına almak
 slug: karsisina-almak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kendisine karşı düşüncede olmasını sağlamak

@@ -2,6 +2,7 @@
 layout: term
 title: vefalılık
 slug: vefalilik
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vefalı olma durumu

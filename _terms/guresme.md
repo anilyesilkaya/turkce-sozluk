@@ -2,6 +2,7 @@
 layout: term
 title: güreşme
 slug: guresme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güreşmek işi; yıkışma

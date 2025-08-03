@@ -2,6 +2,7 @@
 layout: term
 title: dudak ucuyla söylemek
 slug: dudak-ucuyla-soylemek
+letter: D
 lisan: Türkçe
 anlamlar:
 - belli belirsiz anlatmak, isteksizce söylemek

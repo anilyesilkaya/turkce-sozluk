@@ -2,6 +2,7 @@
 layout: term
 title: belirtili tamlama
 slug: belirtili-tamlama
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► belirtili ad tamlaması

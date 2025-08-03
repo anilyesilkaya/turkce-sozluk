@@ -2,6 +2,7 @@
 layout: term
 title: görev kurbanı
 slug: gorev-kurbani
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► görev şehidi

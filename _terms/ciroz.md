@@ -2,6 +2,7 @@
 layout: term
 title: çiroz
 slug: ciroz
+letter: Ç
 lisan: Rumca
 anlamlar:
 - Yumurtasını atarak zayıflamış uskumru balığı

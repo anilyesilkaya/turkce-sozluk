@@ -2,6 +2,7 @@
 layout: term
 title: dolambaç
 slug: dolambac
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dolanarak giden, dönerek uzanan yolun kıvrıntısı

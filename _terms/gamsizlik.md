@@ -2,6 +2,7 @@
 layout: term
 title: gamsızlık
 slug: gamsizlik
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► kaygısızlık

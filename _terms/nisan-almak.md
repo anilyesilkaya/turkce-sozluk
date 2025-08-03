@@ -2,6 +2,7 @@
 layout: term
 title: nişan almak
 slug: nisan-almak
+letter: N
 lisan: Türkçe
 anlamlar:
 - bir hedefi vurmak için ateşli silahlara gerekli doğrultuyu vermek, gezlemek (I)

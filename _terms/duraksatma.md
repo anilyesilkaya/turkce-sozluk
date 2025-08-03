@@ -2,6 +2,7 @@
 layout: term
 title: duraksatma
 slug: duraksatma
+letter: D
 lisan: Türkçe
 anlamlar:
 - Duraksatmak işi

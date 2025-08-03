@@ -2,6 +2,7 @@
 layout: term
 title: iştahsızlık
 slug: istahsizlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İştahsız olma durumu

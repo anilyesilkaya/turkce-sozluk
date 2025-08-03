@@ -2,6 +2,7 @@
 layout: term
 title: tüfeksiz
 slug: tufeksiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tüfeği olmayan

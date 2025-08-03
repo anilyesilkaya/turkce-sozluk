@@ -2,6 +2,7 @@
 layout: term
 title: altın çağ
 slug: altin-cag
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir şey veya bir kimse için en verimli, en başarılı dönem

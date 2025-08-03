@@ -2,6 +2,7 @@
 layout: term
 title: 'münebbihli '
 slug: munebbihli
+letter: M
 lisan: Türkçe
 anlamlar:
 - Uyarı sistemi olan

@@ -2,6 +2,7 @@
 layout: term
 title: kolayına gelmek
 slug: kolayina-gelmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir işin herhangi bir biçimde yapılmasını daha kolay bulmak

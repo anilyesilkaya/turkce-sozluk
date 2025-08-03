@@ -2,6 +2,7 @@
 layout: term
 title: doksanlı
 slug: doksanli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Doksan parçası bulunan, doksan parçadan oluşan

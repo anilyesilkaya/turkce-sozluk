@@ -2,6 +2,7 @@
 layout: term
 title: hafızasız
 slug: hafizasiz
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hafızası olmayan

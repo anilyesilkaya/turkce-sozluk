@@ -2,6 +2,7 @@
 layout: term
 title: içi bayılmak
 slug: ici-bayilmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - çok acıkmak

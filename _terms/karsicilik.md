@@ -2,6 +2,7 @@
 layout: term
 title: karşıcılık
 slug: karsicilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karşıcı olma durumu

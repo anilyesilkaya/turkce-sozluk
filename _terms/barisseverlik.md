@@ -2,6 +2,7 @@
 layout: term
 title: barışseverlik
 slug: barisseverlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Barışsever olma durumu; barışçılık, barışçıllık, sulhçuluk, sulhseverlik, sulhperverlik

@@ -2,6 +2,7 @@
 layout: term
 title: şayet
 slug: sayet
+letter: Ş
 lisan: Farsça şāyed
 anlamlar:
 - ► eğer

@@ -2,6 +2,7 @@
 layout: term
 title: edilmek
 slug: edilmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Etme işine konu olmak; yapılmak

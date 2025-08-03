@@ -2,6 +2,7 @@
 layout: term
 title: cesamet
 slug: cesamet
+letter: C
 lisan: Arapça cesāmet
 anlamlar:
 - ► büyüklük

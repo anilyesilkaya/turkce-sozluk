@@ -2,6 +2,7 @@
 layout: term
 title: bildirilmek
 slug: bildirilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bildirme işine konu olmak

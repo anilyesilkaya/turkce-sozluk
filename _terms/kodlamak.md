@@ -2,6 +2,7 @@
 layout: term
 title: kodlamak
 slug: kodlamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir kelimeyi önceden belirlenmiş simgeler dizisine göre ifade etmek

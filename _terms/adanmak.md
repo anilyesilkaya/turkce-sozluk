@@ -2,6 +2,7 @@
 layout: term
 title: adanmak
 slug: adanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Adama işine konu olmak

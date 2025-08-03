@@ -2,6 +2,7 @@
 layout: term
 title: sesli okuma
 slug: sesli-okuma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Yüksek sesle okuma

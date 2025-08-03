@@ -2,6 +2,7 @@
 layout: term
 title: ciddilik
 slug: ciddilik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Ciddi olma durumu; ciddiyet

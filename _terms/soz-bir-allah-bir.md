@@ -2,6 +2,7 @@
 layout: term
 title: söz bir, Allah bir
 slug: soz-bir-allah-bir
+letter: S
 lisan: Türkçe
 anlamlar:
 - verilen sözden dönülmeyeceğini anlatan bir söz

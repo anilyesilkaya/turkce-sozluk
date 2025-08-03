@@ -2,6 +2,7 @@
 layout: term
 title: babam!
 slug: babam
+letter: B
 lisan: Türkçe
 anlamlar:
 - sese verilen tona göre şaşma, beğenme, acı, üzüntü vb. duygular anlatan söz

@@ -2,6 +2,7 @@
 layout: term
 title: düşüncellik
 slug: dusuncellik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düşüncel olma niteliği

@@ -2,6 +2,7 @@
 layout: term
 title: fettanlaşmak
 slug: fettanlasmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fettan bir duruma gelmek

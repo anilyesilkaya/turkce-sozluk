@@ -2,6 +2,7 @@
 layout: term
 title: çok sesli
 slug: cok-sesli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çok seslilikle ilgili; polifonik

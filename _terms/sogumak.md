@@ -2,6 +2,7 @@
 layout: term
 title: soğumak
 slug: sogumak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Isısını hızla veya yavaş yavaş yitirerek soğuk duruma gelmek; soğuklaşmak

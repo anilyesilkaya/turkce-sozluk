@@ -2,6 +2,7 @@
 layout: term
 title: uskumrugiller
 slug: uskumrugiller
+letter: U
 lisan: Türkçe
 anlamlar:
 - Açık denizlerde yaşayan, mekik biçiminde uzun gövdeli, örnek hayvanı uskumru olan bir balık familyası

@@ -2,6 +2,7 @@
 layout: term
 title: bombaj
 slug: bombaj
+letter: B
 lisan: Fransızca bombage
 anlamlar:
 - Gaz yapan mikroorganizmalar sonucu konserve kutularının altında veya üstünde oluşan şişkinlik

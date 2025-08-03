@@ -2,6 +2,7 @@
 layout: term
 title: gerek
 slug: gerek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Varlığına ihtiyaç duyulan, yapılması, edinilmesi icap eden şey; lüzum

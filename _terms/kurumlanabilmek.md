@@ -2,6 +2,7 @@
 layout: term
 title: kurumlanabilmek
 slug: kurumlanabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kurumlanma ihtimali veya imkânı bulunmak

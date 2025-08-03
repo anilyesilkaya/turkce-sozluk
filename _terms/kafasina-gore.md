@@ -2,6 +2,7 @@
 layout: term
 title: kafasına göre
 slug: kafasina-gore
+letter: K
 lisan: Türkçe
 anlamlar:
 - istediği gibi

@@ -2,6 +2,7 @@
 layout: term
 title: tuz (veya tuzla) buz etmek
 slug: tuz-veya-tuzla-buz-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - cam türünden şeyleri onarılmayacak biçimde kırmak, paramparça etmek

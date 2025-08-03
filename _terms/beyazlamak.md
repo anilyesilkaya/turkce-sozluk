@@ -2,6 +2,7 @@
 layout: term
 title: beyazlamak
 slug: beyazlamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beyaz duruma gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: müstakar
 slug: mustakar
+letter: M
 lisan: Arapça mustaḳarr
 anlamlar:
 - İstikrar bulmuş, durulmuş

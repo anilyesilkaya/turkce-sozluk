@@ -2,6 +2,7 @@
 layout: term
 title: baştan aşağı
 slug: bastan-asagi
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► tamamen

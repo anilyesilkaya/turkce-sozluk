@@ -2,6 +2,7 @@
 layout: term
 title: gücü gücüne
 slug: gucu-gucune
+letter: G
 lisan: Türkçe
 anlamlar:
 - Zorlayarak, zorlukla, güç bela

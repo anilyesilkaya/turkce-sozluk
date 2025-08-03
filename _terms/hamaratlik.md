@@ -2,6 +2,7 @@
 layout: term
 title: hamaratlık
 slug: hamaratlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hamarat olma durumu

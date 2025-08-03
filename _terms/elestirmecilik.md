@@ -2,6 +2,7 @@
 layout: term
 title: eleştirmecilik
 slug: elestirmecilik
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► eleştirmenlik

@@ -2,6 +2,7 @@
 layout: term
 title: aza
 slug: aza
+letter: A
 lisan: Arapça aʿżā
 anlamlar:
 - ► üye

@@ -2,6 +2,7 @@
 layout: term
 title: adet
 slug: adet
+letter: A
 lisan: Arapça ʿaded
 anlamlar:
 - ► sayı

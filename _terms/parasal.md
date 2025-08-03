@@ -2,6 +2,7 @@
 layout: term
 title: parasal
 slug: parasal
+letter: P
 lisan: Türkçe
 anlamlar:
 - Para ile ilgili, para bakımından; mali, nakdî, akçasal

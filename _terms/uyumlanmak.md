@@ -2,6 +2,7 @@
 layout: term
 title: uyumlanmak
 slug: uyumlanmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyumlu hâle gelmek

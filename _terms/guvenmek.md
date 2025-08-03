@@ -2,6 +2,7 @@
 layout: term
 title: güvenmek
 slug: guvenmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güven duymak, güveni olmak; itimat etmek, yaslanmak (I)

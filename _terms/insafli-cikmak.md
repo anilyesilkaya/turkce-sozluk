@@ -2,6 +2,7 @@
 layout: term
 title: insaflı çıkmak
 slug: insafli-cikmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - anlayışlı, hoşgörülü olduğu belli olmak

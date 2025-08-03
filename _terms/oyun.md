@@ -2,6 +2,7 @@
 layout: term
 title: oyun
 slug: oyun
+letter: O
 lisan: Türkçe
 anlamlar:
 - Yetenek ve zekâ geliştirici, belli kuralları olan, iyi vakit geçirmeye yarayan eğlence; baziçe

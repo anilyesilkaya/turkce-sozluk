@@ -2,6 +2,7 @@
 layout: term
 title: sermayecilik
 slug: sermayecilik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sermayeye dayanan ve kâr amacı güden üretim düzeni; anamalcılık, kapitalizm

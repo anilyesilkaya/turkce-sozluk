@@ -2,6 +2,7 @@
 layout: term
 title: bitaraflık
 slug: bitaraflik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► tarafsızlık

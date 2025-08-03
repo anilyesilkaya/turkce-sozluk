@@ -2,6 +2,7 @@
 layout: term
 title: kasavetlenmek
 slug: kasavetlenmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sıkıntı içine düşmek

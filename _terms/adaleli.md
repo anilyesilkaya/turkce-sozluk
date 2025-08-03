@@ -2,6 +2,7 @@
 layout: term
 title: adaleli
 slug: adaleli
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► kaslı

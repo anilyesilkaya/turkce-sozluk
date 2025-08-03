@@ -2,6 +2,7 @@
 layout: term
 title: büklük
 slug: bukluk
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bük (II)

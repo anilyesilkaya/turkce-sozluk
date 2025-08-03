@@ -2,6 +2,7 @@
 layout: term
 title: cidalci
 slug: cidalci
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► savaşçı

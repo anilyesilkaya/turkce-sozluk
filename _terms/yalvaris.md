@@ -2,6 +2,7 @@
 layout: term
 title: yalvarış
 slug: yalvaris
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yalvarmak işi

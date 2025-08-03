@@ -2,6 +2,7 @@
 layout: term
 title: kanını yerde koymak
 slug: kanini-yerde-koymak
+letter: K
 lisan: Türkçe
 anlamlar:
 - birini öldüreni ölümle cezalandırmamak

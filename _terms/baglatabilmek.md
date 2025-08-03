@@ -2,6 +2,7 @@
 layout: term
 title: bağlatabilmek
 slug: baglatabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağlatma ihtimali veya imkânı bulunmak

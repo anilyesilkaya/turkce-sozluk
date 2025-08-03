@@ -2,6 +2,7 @@
 layout: term
 title: nevaziş
 slug: nevazis
+letter: N
 lisan: Farsça nevāziş
 anlamlar:
 - İltifat, gönül alma, okşama; nüvaziş

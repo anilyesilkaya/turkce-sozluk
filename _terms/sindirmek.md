@@ -2,6 +2,7 @@
 layout: term
 title: sindirmek
 slug: sindirmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sinmesini sağlamak veya sinmesine sebep olmak; pıstırmak, sındırmak

@@ -2,6 +2,7 @@
 layout: term
 title: kararlaşmak
 slug: kararlasmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir konuyla veya işle ilgili yapılacakları belirlemek, karar altına almak

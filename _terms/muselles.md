@@ -2,6 +2,7 @@
 layout: term
 title: müselles
 slug: muselles
+letter: M
 lisan: Arapça mus̱elles̱
 anlamlar:
 - ► üçgen

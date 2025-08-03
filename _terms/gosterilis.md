@@ -2,6 +2,7 @@
 layout: term
 title: gösteriliş
 slug: gosterilis
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gösterilmek işi

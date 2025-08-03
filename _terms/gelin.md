@@ -2,6 +2,7 @@
 layout: term
 title: gelin
 slug: gelin
+letter: G
 lisan: Türkçe
 anlamlar:
 - Evlenmek için hazırlanmış, süslenmiş kız veya yeni evlenmiş kadın; elkızı

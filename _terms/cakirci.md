@@ -2,6 +2,7 @@
 layout: term
 title: çakırcı
 slug: cakirci
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Avcı çakırdoğan yetiştiren ve avda kullanan kimse

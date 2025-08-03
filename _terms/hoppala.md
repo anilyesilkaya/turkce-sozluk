@@ -2,6 +2,7 @@
 layout: term
 title: hoppala
 slug: hoppala
+letter: H
 lisan: Türkçe
 anlamlar:
 - Bebeklerin içine konup zıplayarak eğlenmelerini sağlayan yaylı araç

@@ -2,6 +2,7 @@
 layout: term
 title: sancılanmak
 slug: sancilanmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sancıya tutulmak

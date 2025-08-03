@@ -2,6 +2,7 @@
 layout: term
 title: ayrımlı
 slug: ayrimli
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► farklı

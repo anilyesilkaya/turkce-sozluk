@@ -2,6 +2,7 @@
 layout: term
 title: difraksiyon
 slug: difraksiyon
+letter: D
 lisan: Fransızca diffraction
 anlamlar:
 - ► kırınım

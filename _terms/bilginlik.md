@@ -2,6 +2,7 @@
 layout: term
 title: bilginlik
 slug: bilginlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bilgin olma durumu; âlimlik

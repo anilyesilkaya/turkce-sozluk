@@ -2,6 +2,7 @@
 layout: term
 title: gizlemek
 slug: gizlemek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Saklamak, görünmeyecek, belli olmayacak bir yere veya bir duruma koymak

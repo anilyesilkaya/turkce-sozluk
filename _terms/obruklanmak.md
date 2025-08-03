@@ -2,6 +2,7 @@
 layout: term
 title: 'obruklanmak '
 slug: obruklanmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Kuyu çökmek

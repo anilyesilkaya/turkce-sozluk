@@ -2,6 +2,7 @@
 layout: term
 title: Özbek
 slug: ozbek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Özbekistan Cumhuriyeti’nde yaşayan Türk halkı ve bu halkın soyundan olan kimse

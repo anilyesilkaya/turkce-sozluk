@@ -2,6 +2,7 @@
 layout: term
 title: yemleniş
 slug: yemlenis
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yemlenmek işi

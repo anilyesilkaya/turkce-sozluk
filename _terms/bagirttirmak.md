@@ -2,6 +2,7 @@
 layout: term
 title: bağırttırmak
 slug: bagirttirmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağırtma işini yaptırmak

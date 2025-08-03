@@ -2,6 +2,7 @@
 layout: term
 title: lüle taşı
 slug: lule-tasi
+letter: L
 lisan: Türkçe
 anlamlar:
 - Doğal magnezyum silikat; Eskişehir taşı, aktaş, denizköpüğü, patal, magnezit, manyezit

@@ -2,6 +2,7 @@
 layout: term
 title: ama
 slug: ama
+letter: A
 lisan: Arapça ammā
 anlamlar:
 - Çelişkili ve tutarsız iki cümleyi birbirine bağlamaya yarayan bir söz; amma, lakin, velakin

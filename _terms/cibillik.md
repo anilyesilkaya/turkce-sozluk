@@ -2,6 +2,7 @@
 layout: term
 title: cıbıllık
 slug: cibillik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cıbıl olma durumu

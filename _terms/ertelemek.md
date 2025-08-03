@@ -2,6 +2,7 @@
 layout: term
 title: ertelemek
 slug: ertelemek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Sonraya bırakmak; tehir etmek, tecil etmek, talik etmek

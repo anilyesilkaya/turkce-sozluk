@@ -2,6 +2,7 @@
 layout: term
 title: pederşahilik
 slug: pedersahilik
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► ataerkillik

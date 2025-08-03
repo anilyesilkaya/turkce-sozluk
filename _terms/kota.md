@@ -2,6 +2,7 @@
 layout: term
 title: kota
 slug: kota
+letter: K
 lisan: Fransızca quota
 anlamlar:
 - Bir ülkede ithal edilecek malların çeşitlerini, oranlarını veya miktarlarını gösteren liste

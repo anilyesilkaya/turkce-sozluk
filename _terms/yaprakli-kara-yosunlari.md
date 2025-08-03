@@ -2,6 +2,7 @@
 layout: term
 title: yapraklı kara yosunları
 slug: yaprakli-kara-yosunlari
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Kayaların, ağaç kabuklarının yüzünde halı tüyleri gibi sık biten kara yosunları

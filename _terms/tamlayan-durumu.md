@@ -2,6 +2,7 @@
 layout: term
 title: tamlayan durumu
 slug: tamlayan-durumu
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► ilgi durumu

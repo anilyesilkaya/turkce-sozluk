@@ -2,6 +2,7 @@
 layout: term
 title: bir araba
 slug: bir-araba
+letter: B
 lisan: Türkçe
 anlamlar:
 - Pek çok

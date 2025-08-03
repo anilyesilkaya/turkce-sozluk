@@ -2,6 +2,7 @@
 layout: term
 title: hık mık etmek
 slug: hik-mik-etmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - bir işten kaçınmak için bahaneler ileri sürmeye çalışmak

@@ -2,6 +2,7 @@
 layout: term
 title: direnmek
 slug: direnmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Kendisine zor kullanılarak kabul ettirilmek istenen durumu, düşünceyi reddetmek, bu duruma karşı koymak; bekinmek, inat etmek, mukavemet etmek, taannüt etmek

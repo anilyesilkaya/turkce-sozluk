@@ -2,6 +2,7 @@
 layout: term
 title: tasvir gibi
 slug: tasvir-gibi
+letter: T
 lisan: Türkçe
 anlamlar:
 - çok güzel (kimse)

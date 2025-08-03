@@ -2,6 +2,7 @@
 layout: term
 title: ortopedist
 slug: ortopedist
+letter: O
 lisan: Fransızca orthopédiste
 anlamlar:
 - Ortopedi uzmanı

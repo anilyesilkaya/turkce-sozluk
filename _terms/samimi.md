@@ -2,6 +2,7 @@
 layout: term
 title: samimi
 slug: samimi
+letter: S
 lisan: Arapça ṣamīmī
 anlamlar:
 - ► içten

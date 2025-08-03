@@ -2,6 +2,7 @@
 layout: term
 title: L koltuk
 slug: l-koltuk
+letter: L
 lisan: Türkçe
 anlamlar:
 - Oda, salon vb.nin köşesine L harfi biçiminde yerleştirilebilen koltuk

@@ -2,6 +2,7 @@
 layout: term
 title: su baldıranı
 slug: su-baldirani
+letter: S
 lisan: Türkçe
 anlamlar:
 - Maydanozgillerden, su kıyılarında ve bataklıklarda yetişen, zehirli, otsu bir bitki; su rezenesi (Cicuta virosa)

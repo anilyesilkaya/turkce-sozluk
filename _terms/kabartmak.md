@@ -2,6 +2,7 @@
 layout: term
 title: kabartmak
 slug: kabartmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kabarmasını sağlamak, kabarmasına yol açmak

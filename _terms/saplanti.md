@@ -2,6 +2,7 @@
 layout: term
 title: saplantı
 slug: saplanti
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kişinin etkisinden kendini kurtaramadığı, yersiz saçma düşünce; sabit fikir, fikrisabit, idefiks

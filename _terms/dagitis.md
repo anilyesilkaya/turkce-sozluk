@@ -2,6 +2,7 @@
 layout: term
 title: dağıtış
 slug: dagitis
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dağıtmak işi

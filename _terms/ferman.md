@@ -2,6 +2,7 @@
 layout: term
 title: ferman
 slug: ferman
+letter: F
 lisan: Farsça fermān
 anlamlar:
 - ► emir

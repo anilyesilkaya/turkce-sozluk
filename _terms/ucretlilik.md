@@ -2,6 +2,7 @@
 layout: term
 title: ücretlilik
 slug: ucretlilik
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Ücretlinin yaşama biçimi

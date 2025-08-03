@@ -2,6 +2,7 @@
 layout: term
 title: aba güreşi
 slug: aba-guresi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aba giyilerek ve bele kuşak bağlanarak yapılan bir güreş türü

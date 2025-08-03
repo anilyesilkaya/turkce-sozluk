@@ -2,6 +2,7 @@
 layout: term
 title: beyaz perde
 slug: beyaz-perde
+letter: B
 lisan: Türkçe
 anlamlar:
 - Göstericiden çıkan görüntünün, üzerinde yansıdığı, sinema filminin oynatıldığı yüzey

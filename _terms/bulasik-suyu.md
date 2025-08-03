@@ -2,6 +2,7 @@
 layout: term
 title: bulaşık suyu
 slug: bulasik-suyu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bulaşıkları yıkamak için kullanılan su

@@ -2,6 +2,7 @@
 layout: term
 title: 'alabora etmek '
 slug: alabora-etmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - rüzgâr, dalga vb. gemi, tekne, sandal vb. deniz araçlarını devirip ters döndürmek

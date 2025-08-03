@@ -2,6 +2,7 @@
 layout: term
 title: prostelalı
 slug: prostelali
+letter: P
 lisan: Türkçe
 anlamlar:
 - Önlüğü olan

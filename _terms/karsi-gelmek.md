@@ -2,6 +2,7 @@
 layout: term
 title: karşı gelmek
 slug: karsi-gelmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - başkaldırmak

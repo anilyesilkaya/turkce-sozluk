@@ -2,6 +2,7 @@
 layout: term
 title: liflenmek
 slug: liflenmek
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lif oluşmak

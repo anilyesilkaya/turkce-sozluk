@@ -2,6 +2,7 @@
 layout: term
 title: kiraya vermek
 slug: kiraya-vermek
+letter: K
 lisan: Türkçe
 anlamlar:
 - kira karşılığında vermek, icara vermek

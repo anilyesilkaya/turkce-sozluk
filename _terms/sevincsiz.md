@@ -2,6 +2,7 @@
 layout: term
 title: sevinçsiz
 slug: sevincsiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sevinci olmayan, sevinç vermeyen

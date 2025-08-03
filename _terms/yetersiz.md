@@ -2,6 +2,7 @@
 layout: term
 title: yetersiz
 slug: yetersiz
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Gerekli bilgi ve yeteneği olmayan, yeterliği olmayan; kifayetsiz, ehliyetsiz

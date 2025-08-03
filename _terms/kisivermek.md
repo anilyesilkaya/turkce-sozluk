@@ -2,6 +2,7 @@
 layout: term
 title: kısıvermek
 slug: kisivermek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çabucak kısmak

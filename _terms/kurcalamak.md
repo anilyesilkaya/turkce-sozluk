@@ -2,6 +2,7 @@
 layout: term
 title: kurcalamak
 slug: kurcalamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Nasıl bir şey olduğunu anlamak için her yerine bakmak; karıştırmak

@@ -2,6 +2,7 @@
 layout: term
 title: lanse etmek
 slug: lanse-etmek
+letter: L
 lisan: Türkçe
 anlamlar:
 - öncelemek

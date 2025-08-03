@@ -2,6 +2,7 @@
 layout: term
 title: ev çizgileri
 slug: ev-cizgileri
+letter: E
 lisan: Türkçe
 anlamlar:
 - Yıldız haritasını otuzar derecelik on iki eşit bölüme ayıran çizgilerin her biri

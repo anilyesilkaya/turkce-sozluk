@@ -2,6 +2,7 @@
 layout: term
 title: banallik
 slug: banallik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Banal olma durumu

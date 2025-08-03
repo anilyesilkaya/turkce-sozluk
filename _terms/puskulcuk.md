@@ -2,6 +2,7 @@
 layout: term
 title: püskülcük
 slug: puskulcuk
+letter: P
 lisan: Türkçe
 anlamlar:
 - Güneş kursunun bazı tek renkli resimlerinde görülen parlak bulut

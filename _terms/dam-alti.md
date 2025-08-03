@@ -2,6 +2,7 @@
 layout: term
 title: dam altı
 slug: dam-alti
+letter: D
 lisan: Türkçe
 anlamlar:
 - Barınılacak, sığınılacak yer

@@ -2,6 +2,7 @@
 layout: term
 title: teleskop
 slug: teleskop
+letter: T
 lisan: Fransızca téléscope
 anlamlar:
 - Sonsuzdaki bir nesnenin gerçek görüntüsünü, içbükey bir aynadan yapılmış merceğinin odak düzleminde veren ve gök bilimiyle ilgili gözlemlerde kullanılan optik aygıt; gözlemci, ırakgörür

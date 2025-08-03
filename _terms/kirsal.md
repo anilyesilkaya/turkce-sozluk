@@ -2,6 +2,7 @@
 layout: term
 title: kırsal
 slug: kirsal
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kır ile ilgili

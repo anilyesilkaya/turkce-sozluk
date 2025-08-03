@@ -2,6 +2,7 @@
 layout: term
 title: dağbaşı
 slug: dagbasi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Yasaların veya toplum kurallarının uygulanamadığı yer

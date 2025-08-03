@@ -2,6 +2,7 @@
 layout: term
 title: bizlengiç
 slug: bizlengic
+letter: B
 lisan: Türkçe
 anlamlar:
 - Ucu çivili değnek

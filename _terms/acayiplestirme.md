@@ -2,6 +2,7 @@
 layout: term
 title: acayipleştirme
 slug: acayiplestirme
+letter: A
 lisan: Türkçe
 anlamlar:
 - Acayipleştirmek işi

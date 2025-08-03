@@ -2,6 +2,7 @@
 layout: term
 title: binivermek
 slug: binivermek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Ansızın veya çabucak binmek

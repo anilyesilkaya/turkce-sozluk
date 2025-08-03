@@ -2,6 +2,7 @@
 layout: term
 title: cezaya çarptırmak
 slug: cezaya-carptirmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - cezalandırmak

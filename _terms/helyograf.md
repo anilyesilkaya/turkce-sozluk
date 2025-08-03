@@ -2,6 +2,7 @@
 layout: term
 title: helyograf
 slug: helyograf
+letter: H
 lisan: Fransızca héliographe
 anlamlar:
 - Güneş ışınlarından yararlanan optik telgraf aleti

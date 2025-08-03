@@ -2,6 +2,7 @@
 layout: term
 title: deniz hamamı
 slug: deniz-hamami
+letter: D
 lisan: Türkçe
 anlamlar:
 - Sahilden biraz açığa suya dayanıklı keresteden kazıklar çakılarak oluşturulan, ortası havuz şeklinde, etrafı tahtayla çevrili, içerisinin görülmemesi için üzeri brandayla örtülü, sahile iskeleyle bağlı özel denize girme alanı; deniz banyosu

@@ -2,6 +2,7 @@
 layout: term
 title: karakeçi
 slug: karakeci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sazana benzer bir tatlı su balığı (Barbus fluviatilis)

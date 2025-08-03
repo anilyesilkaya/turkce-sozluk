@@ -2,6 +2,7 @@
 layout: term
 title: hödük
 slug: hoduk
+letter: H
 lisan: Türkçe
 anlamlar:
 - Görgüsüz, kaba, anlayışı kıt (kimse)

@@ -2,6 +2,7 @@
 layout: term
 title: Baltık
 slug: baltik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Baltık Denizi

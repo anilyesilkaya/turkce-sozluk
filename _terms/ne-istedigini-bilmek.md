@@ -2,6 +2,7 @@
 layout: term
 title: ne istediğini bilmek
 slug: ne-istedigini-bilmek
+letter: N
 lisan: Türkçe
 anlamlar:
 - amacını kesin ve kararlı bir biçimde belirlemek

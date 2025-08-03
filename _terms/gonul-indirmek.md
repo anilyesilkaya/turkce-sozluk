@@ -2,6 +2,7 @@
 layout: term
 title: gönül indirmek
 slug: gonul-indirmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - kendisine yakıştıramadığı bir şeye razı olmak

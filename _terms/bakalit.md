@@ -2,6 +2,7 @@
 layout: term
 title: bakalit
 slug: bakalit
+letter: B
 lisan: Bakélite tescilli marka adından
 anlamlar:
 - Formaldehit ile bir fenolün yoğunlaşması sonucu elde edilen yapay reçine

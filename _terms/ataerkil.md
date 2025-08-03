@@ -2,6 +2,7 @@
 layout: term
 title: ataerkil
 slug: ataerkil
+letter: A
 lisan: Türkçe
 anlamlar:
 - Soyda, temel olarak babayı alan ve ailede çocukları baba soyuna mal eden (topluluk); pederşahi, patriarkal

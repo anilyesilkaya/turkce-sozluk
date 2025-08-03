@@ -2,6 +2,7 @@
 layout: term
 title: tarife
 slug: tarife
+letter: T
 lisan: Arapça taʿrife
 anlamlar:
 - Fiyat gösteren çizelge

@@ -2,6 +2,7 @@
 layout: term
 title: ters yüz
 slug: ters-yuz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir şeyin arka yüzü

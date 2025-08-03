@@ -2,6 +2,7 @@
 layout: term
 title: ata yurdu
 slug: ata-yurdu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ataların yaşayıp öldüğü yer

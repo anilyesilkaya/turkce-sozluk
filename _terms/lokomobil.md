@@ -2,6 +2,7 @@
 layout: term
 title: lokomobil
 slug: lokomobil
+letter: L
 lisan: Fransızca locomobile
 anlamlar:
 - Sanayi ve tarımda kullanılan, tekerlekler üzerine kurulmuş, istenilen yere çekilebilen patlamalı motor veya buhar makinesi

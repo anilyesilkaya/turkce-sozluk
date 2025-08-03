@@ -2,6 +2,7 @@
 layout: term
 title: koparıvermek
 slug: koparivermek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Ansızın veya çabucak koparmak

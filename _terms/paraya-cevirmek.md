@@ -2,6 +2,7 @@
 layout: term
 title: paraya çevirmek
 slug: paraya-cevirmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - herhangi bir şeyi para ile değiştirmek

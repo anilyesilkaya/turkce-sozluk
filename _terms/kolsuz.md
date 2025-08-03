@@ -2,6 +2,7 @@
 layout: term
 title: kolsuz
 slug: kolsuz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kolu olmayan

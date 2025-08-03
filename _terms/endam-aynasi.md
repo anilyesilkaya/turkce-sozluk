@@ -2,6 +2,7 @@
 layout: term
 title: endam aynası
 slug: endam-aynasi
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► boy aynası

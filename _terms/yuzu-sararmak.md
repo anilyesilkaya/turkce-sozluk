@@ -2,6 +2,7 @@
 layout: term
 title: yüzü sararmak
 slug: yuzu-sararmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - korku, üzüntü, coşku vb. sebeplerle yüzün rengi solmak

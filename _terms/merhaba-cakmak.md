@@ -2,6 +2,7 @@
 layout: term
 title: merhaba çakmak
 slug: merhaba-cakmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - selamlamak

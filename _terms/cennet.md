@@ -2,6 +2,7 @@
 layout: term
 title: cennet
 slug: cennet
+letter: C
 lisan: Arapça cennet
 anlamlar:
 - Dinî inanışlara göre imanlı ve iyi kimselerin ölümden sonra Allah tarafından mükâfat olarak konulacakları ve içinde ebediyen yaşayacakları, her türlü tasavvurun üstünde güzellik ve nimetlerle dolu yer; uçmak (II), behişt

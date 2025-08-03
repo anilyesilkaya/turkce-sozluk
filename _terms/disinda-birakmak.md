@@ -2,6 +2,7 @@
 layout: term
 title: dışında bırakmak
 slug: disinda-birakmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - hariç tutmak

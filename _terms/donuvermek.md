@@ -2,6 +2,7 @@
 layout: term
 title: dönüvermek
 slug: donuvermek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Ansızın veya kısa sürede dönmek

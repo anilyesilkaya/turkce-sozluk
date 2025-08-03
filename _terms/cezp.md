@@ -2,6 +2,7 @@
 layout: term
 title: cezp
 slug: cezp
+letter: C
 lisan: Arapça ceẕb
 anlamlar:
 - Kendine çekme

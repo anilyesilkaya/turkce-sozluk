@@ -2,6 +2,7 @@
 layout: term
 title: dalkavuk
 slug: dalkavuk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Kendisine çıkar sağlayacak olanlara aşırı bir saygı ve hayranlık göstererek yaranmak isteyen kimse; kaytak, yağcı, yalaka, yağdanlık, yalpak, yaltak, yaltakçı, kemik yalayıcı, çanak yalayıcı, kılbaz, huluskâr, mütebasbıs

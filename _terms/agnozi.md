@@ -2,6 +2,7 @@
 layout: term
 title: agnozi
 slug: agnozi
+letter: A
 lisan: Fransızca agnosie
 anlamlar:
 - Tanısızlık

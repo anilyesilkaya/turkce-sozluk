@@ -2,6 +2,7 @@
 layout: term
 title: kordonlu
 slug: kordonlu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kordonu bulunan

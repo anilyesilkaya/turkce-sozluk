@@ -2,6 +2,7 @@
 layout: term
 title: titreşim önleyici
 slug: titresim-onleyici
+letter: T
 lisan: Türkçe
 anlamlar:
 - Yapılarda hidrofor, elektrik motoru, boyler üniteleri, kalorifer kazanı vb. araçların titreşimleriyle etrafa zarar vermemeleri için yapılan yalıtım; vibrasyon tecridi

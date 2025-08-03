@@ -2,6 +2,7 @@
 layout: term
 title: şamarlamak
 slug: samarlamak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Yüze açık elle vurmak; şamar atmak

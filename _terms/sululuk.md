@@ -2,6 +2,7 @@
 layout: term
 title: sululuk
 slug: sululuk
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sulu olma durumu

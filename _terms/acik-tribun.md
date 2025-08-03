@@ -2,6 +2,7 @@
 layout: term
 title: açık tribün
 slug: acik-tribun
+letter: A
 lisan: Türkçe
 anlamlar:
 - Açık havadaki spor karşılaşmalarında seyircilerin oturduğu ve üstü kapalı olmayan bölüm

@@ -2,6 +2,7 @@
 layout: term
 title: hezel
 slug: hezel
+letter: H
 lisan: Arapça hezl
 anlamlar:
 - Karşısındakini neşelendirmek amacıyla yazılan veya söylenen söz

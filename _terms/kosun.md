@@ -2,6 +2,7 @@
 layout: term
 title: koşun
 slug: kosun
+letter: K
 lisan: Moğolca
 anlamlar:
 - Yan yana durmuş asker dizisi

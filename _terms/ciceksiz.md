@@ -2,6 +2,7 @@
 layout: term
 title: çiçeksiz
 slug: ciceksiz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çiçeği olmayan

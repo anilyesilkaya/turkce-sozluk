@@ -2,6 +2,7 @@
 layout: term
 title: bire bir
 slug: bire-bir
+letter: B
 lisan: Türkçe
 anlamlar:
 - Ölçü, miktar vb. özellikleri eşit olan

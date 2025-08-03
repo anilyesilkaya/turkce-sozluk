@@ -2,6 +2,7 @@
 layout: term
 title: hemcins
 slug: hemcins
+letter: H
 lisan: Farsça hem + Arapça cins
 anlamlar:
 - Aynı cinsten olan

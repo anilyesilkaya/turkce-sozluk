@@ -2,6 +2,7 @@
 layout: term
 title: adliye mahkemesi
 slug: adliye-mahkemesi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anayasa Mahkemesi, genel mahkemeler, idari mahkemeler dışında kalan ve denetim mahkemesi olan Yargıtay ile hüküm mahkemeleri; adalet mahkemesi

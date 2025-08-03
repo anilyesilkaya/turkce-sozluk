@@ -2,6 +2,7 @@
 layout: term
 title: çipilleşmek
 slug: cipillesmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Gözleri çipil duruma gelmek

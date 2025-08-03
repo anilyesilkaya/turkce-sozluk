@@ -2,6 +2,7 @@
 layout: term
 title: maksi
 slug: maksi
+letter: M
 lisan: Fransızca maxi
 anlamlar:
 - ► uzun

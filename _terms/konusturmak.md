@@ -2,6 +2,7 @@
 layout: term
 title: konuşturmak
 slug: konusturmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Konuşmasını sağlamak, konuşmasına yol açmak

@@ -2,6 +2,7 @@
 layout: term
 title: felfelek
 slug: felfelek
+letter: F
 lisan: Türkçe
 anlamlar:
 - Bir tür küçük kelebek

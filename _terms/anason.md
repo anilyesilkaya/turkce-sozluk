@@ -2,6 +2,7 @@
 layout: term
 title: anason
 slug: anason
+letter: A
 lisan: Arapça anįsūn
 anlamlar:
 - Maydanozgillerden, kokulu tohumu hamur işlerinde ve rakı yapımında kullanılan bir bitki (Pimpinella anisum)

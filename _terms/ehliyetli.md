@@ -2,6 +2,7 @@
 layout: term
 title: ehliyetli
 slug: ehliyetli
+letter: E
 lisan: Türkçe
 anlamlar:
 - Sürücü belgesi olan

@@ -2,6 +2,7 @@
 layout: term
 title: dekoratör
 slug: dekorator
+letter: D
 lisan: Fransızca décorateur
 anlamlar:
 - Tiyatro, opera vb. dekorlarını tasarlayan sanatçı

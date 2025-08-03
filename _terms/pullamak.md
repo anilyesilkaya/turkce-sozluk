@@ -2,6 +2,7 @@
 layout: term
 title: pullamak
 slug: pullamak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Üzerine pul yapıştırmak

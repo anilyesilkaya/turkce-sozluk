@@ -2,6 +2,7 @@
 layout: term
 title: koyungöbeği
 slug: koyungobegi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Koyun mantarı

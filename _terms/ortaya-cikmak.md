@@ -2,6 +2,7 @@
 layout: term
 title: ortaya çıkmak
 slug: ortaya-cikmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - yokken var olmak, meydana çıkmak, türemek

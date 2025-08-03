@@ -2,6 +2,7 @@
 layout: term
 title: tefekkür
 slug: tefekkur
+letter: T
 lisan: Arapça tefekkur
 anlamlar:
 - ► düşünme

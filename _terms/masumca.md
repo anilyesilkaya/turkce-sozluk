@@ -2,6 +2,7 @@
 layout: term
 title: masumca
 slug: masumca
+letter: M
 lisan: Türkçe
 anlamlar:
 - Suçsuz, temiz, masum bir biçimde; masumane, masumcasına

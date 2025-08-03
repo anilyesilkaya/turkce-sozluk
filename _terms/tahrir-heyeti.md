@@ -2,6 +2,7 @@
 layout: term
 title: tahrir heyeti
 slug: tahrir-heyeti
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► yazı kurulu

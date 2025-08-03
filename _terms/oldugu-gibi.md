@@ -2,6 +2,7 @@
 layout: term
 title: olduğu gibi
 slug: oldugu-gibi
+letter: O
 lisan: Türkçe
 anlamlar:
 - nasıl ise öyle; aynen

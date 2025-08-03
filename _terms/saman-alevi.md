@@ -2,6 +2,7 @@
 layout: term
 title: saman alevi
 slug: saman-alevi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Gelip geçici, çabuk yatışan, çabuk sona eren

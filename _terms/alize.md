@@ -2,6 +2,7 @@
 layout: term
 title: alize
 slug: alize
+letter: A
 lisan: Fransızca alizé
 anlamlar:
 - Tropikal bölgelerde yıl boyu düzenli esen rüzgâr

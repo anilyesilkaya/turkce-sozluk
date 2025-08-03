@@ -2,6 +2,7 @@
 layout: term
 title: vicdanen
 slug: vicdanen
+letter: V
 lisan: Arapça vicdānen
 anlamlar:
 - Vicdan bakımından

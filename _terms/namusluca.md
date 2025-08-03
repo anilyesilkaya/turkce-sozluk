@@ -2,6 +2,7 @@
 layout: term
 title: namusluca
 slug: namusluca
+letter: N
 lisan: Türkçe
 anlamlar:
 - Namuslu bir biçimde

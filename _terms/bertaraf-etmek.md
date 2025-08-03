@@ -2,6 +2,7 @@
 layout: term
 title: bertaraf etmek
 slug: bertaraf-etmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - ortadan kaldırmak

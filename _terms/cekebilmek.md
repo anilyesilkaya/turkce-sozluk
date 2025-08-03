@@ -2,6 +2,7 @@
 layout: term
 title: çekebilmek
 slug: cekebilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çekme ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: kapana düşürmek (veya kıstırmak)
 slug: kapana-dusurmek-veya-kistirmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - hile ile yakalamak

@@ -2,6 +2,7 @@
 layout: term
 title: yaşta kalmış kavat pabucu gibi
 slug: yasta-kalmis-kavat-pabucu-gibi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - çaresiz, kırgın, üzgün

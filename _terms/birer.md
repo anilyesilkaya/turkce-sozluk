@@ -2,6 +2,7 @@
 layout: term
 title: birer
 slug: birer
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir sayısının üleştirme sayı sıfatı

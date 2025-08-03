@@ -2,6 +2,7 @@
 layout: term
 title: acemi
 slug: acemi
+letter: A
 lisan: Arapça ʿacemī
 anlamlar:
 - Bir işin yabancısı olan, eli işe alışmamış, bir işi beceremeyen

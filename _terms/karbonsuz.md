@@ -2,6 +2,7 @@
 layout: term
 title: karbonsuz
 slug: karbonsuz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karbon içermeyen

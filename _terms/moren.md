@@ -2,6 +2,7 @@
 layout: term
 title: moren
 slug: moren
+letter: M
 lisan: Fransızca moraine
 anlamlar:
 - ► buzul taş

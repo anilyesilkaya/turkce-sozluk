@@ -2,6 +2,7 @@
 layout: term
 title: taşınabilmek
 slug: tasinabilmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taşınma ihtimali veya imkânı bulunmak

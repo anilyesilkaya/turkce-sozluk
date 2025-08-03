@@ -2,6 +2,7 @@
 layout: term
 title: tırabzan babası
 slug: tirabzan-babasi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Merdiven başlarında bulunan, parmaklığı desteklemeye yarayan, kalın, yuvarlak başlı dayanak

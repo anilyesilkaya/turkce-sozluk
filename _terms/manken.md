@@ -2,6 +2,7 @@
 layout: term
 title: manken
 slug: manken
+letter: M
 lisan: Fransızca mannequin
 anlamlar:
 - Genellikle defilelerde giysileri tanıtma, sunma, gösterme amacıyla giyip podyumda yürüyen kimse; model

@@ -2,6 +2,7 @@
 layout: term
 title: meraktan çatlatmak
 slug: meraktan-catlatmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - çokça merak ettirmek

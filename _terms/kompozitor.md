@@ -2,6 +2,7 @@
 layout: term
 title: kompozitör
 slug: kompozitor
+letter: K
 lisan: Fransızca compositeur
 anlamlar:
 - ► besteci

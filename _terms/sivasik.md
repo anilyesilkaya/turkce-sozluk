@@ -2,6 +2,7 @@
 layout: term
 title: sıvaşık
 slug: sivasik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıvaşmış, bulaşmış olan

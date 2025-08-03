@@ -2,6 +2,7 @@
 layout: term
 title: pişkince
 slug: piskince
+letter: P
 lisan: Türkçe
 anlamlar:
 - Biraz pişkin

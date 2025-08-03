@@ -2,6 +2,7 @@
 layout: term
 title: enemek
 slug: enemek
+letter: E
 lisan: Türkçe
 anlamlar:
 - İğdiş etmek

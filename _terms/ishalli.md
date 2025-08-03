@@ -2,6 +2,7 @@
 layout: term
 title: ishalli
 slug: ishalli
+letter: I
 lisan: Türkçe
 anlamlar:
 - İshali olan

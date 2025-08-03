@@ -2,6 +2,7 @@
 layout: term
 title: aydınca
 slug: aydinca
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aydına yaraşır bir biçimde

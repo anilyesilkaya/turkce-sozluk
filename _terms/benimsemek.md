@@ -2,6 +2,7 @@
 layout: term
 title: benimsemek
 slug: benimsemek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir şeyi kendine mal etmek, sahip çıkmak, kabullenmek, tesahup etmek

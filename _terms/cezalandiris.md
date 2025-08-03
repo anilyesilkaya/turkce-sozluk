@@ -2,6 +2,7 @@
 layout: term
 title: cezalandırış
 slug: cezalandiris
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cezalandırmak işi

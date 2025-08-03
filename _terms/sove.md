@@ -2,6 +2,7 @@
 layout: term
 title: söve
 slug: sove
+letter: S
 lisan: Fransızca seuil
 anlamlar:
 - Pencere ve kapı kenarlarındaki süs kalıpları

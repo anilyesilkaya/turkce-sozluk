@@ -2,6 +2,7 @@
 layout: term
 title: 'kafile başkanı '
 slug: kafile-baskani
+letter: K
 lisan: Türkçe
 anlamlar:
 - Herhangi bir kafileye başkanlık eden kimse

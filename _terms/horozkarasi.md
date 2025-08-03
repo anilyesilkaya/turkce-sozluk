@@ -2,6 +2,7 @@
 layout: term
 title: horozkarası
 slug: horozkarasi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Bir tür üzüm

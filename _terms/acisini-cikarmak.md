@@ -2,6 +2,7 @@
 layout: term
 title: acısını çıkarmak
 slug: acisini-cikarmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - acılığını yok etmek

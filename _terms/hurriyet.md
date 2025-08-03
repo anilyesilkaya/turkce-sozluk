@@ -2,6 +2,7 @@
 layout: term
 title: hürriyet
 slug: hurriyet
+letter: H
 lisan: Arapça ḥurriyyet
 anlamlar:
 - ► özgürlük

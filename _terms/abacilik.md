@@ -2,6 +2,7 @@
 layout: term
 title: abacılık
 slug: abacilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Abacının yaptığı iş

@@ -2,6 +2,7 @@
 layout: term
 title: ilk önce
 slug: ilk-once
+letter: I
 lisan: Türkçe
 anlamlar:
 - En başta; ilkten

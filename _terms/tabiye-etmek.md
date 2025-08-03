@@ -2,6 +2,7 @@
 layout: term
 title: tabiye etmek
 slug: tabiye-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - yerleştirmek

@@ -2,6 +2,7 @@
 layout: term
 title: dalkılıç
 slug: dalkilic
+letter: D
 lisan: Türkçe
 anlamlar:
 - Kılıcını çekmiş olarak; yalın kılıç

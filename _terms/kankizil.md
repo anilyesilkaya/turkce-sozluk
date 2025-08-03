@@ -2,6 +2,7 @@
 layout: term
 title: kankızıl
 slug: kankizil
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kankırmızı

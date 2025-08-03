@@ -2,6 +2,7 @@
 layout: term
 title: dinozor
 slug: dinozor
+letter: D
 lisan: Fransızca dinosaure
 anlamlar:
 - Dinozorlar takımından, boyu 20 metre kadar olabilen, ilk çağlarda yaşamış, günümüze fosilleri kalmış bir sürüngen

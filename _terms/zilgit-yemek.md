@@ -2,6 +2,7 @@
 layout: term
 title: zılgıt yemek
 slug: zilgit-yemek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - azar işitmek

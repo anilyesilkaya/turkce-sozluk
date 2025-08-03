@@ -2,6 +2,7 @@
 layout: term
 title: idam sehpası
 slug: idam-sehpasi
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► darağacı

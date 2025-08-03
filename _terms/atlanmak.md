@@ -2,6 +2,7 @@
 layout: term
 title: atlanmak
 slug: atlanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Atlama işi yapılmak

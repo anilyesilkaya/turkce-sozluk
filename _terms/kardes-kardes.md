@@ -2,6 +2,7 @@
 layout: term
 title: kardeş kardeş
 slug: kardes-kardes
+letter: K
 lisan: Türkçe
 anlamlar:
 - Dostlukla, dostça, sevgiyle

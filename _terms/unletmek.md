@@ -2,6 +2,7 @@
 layout: term
 title: ünletmek
 slug: unletmek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Bağırtmak, çağırtmak

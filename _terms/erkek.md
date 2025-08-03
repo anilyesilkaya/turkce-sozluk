@@ -2,6 +2,7 @@
 layout: term
 title: erkek
 slug: erkek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Yetişkin adam; bay (II), er (I), er kişi, kişi

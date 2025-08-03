@@ -2,6 +2,7 @@
 layout: term
 title: kolaj
 slug: kolaj
+letter: K
 lisan: Fransızca collage
 anlamlar:
 - ► kesyap

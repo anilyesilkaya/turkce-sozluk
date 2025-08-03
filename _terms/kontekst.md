@@ -2,6 +2,7 @@
 layout: term
 title: kontekst
 slug: kontekst
+letter: K
 lisan: Fransızca contexte
 anlamlar:
 - ► bağlam

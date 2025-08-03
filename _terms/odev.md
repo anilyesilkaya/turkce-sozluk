@@ -2,6 +2,7 @@
 layout: term
 title: ödev
 slug: odev
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Yapılması, yerine getirilmesi, insanlık duygusu, töre ve yasa bakımından gerekli olan iş veya davranış; vazife

@@ -2,6 +2,7 @@
 layout: term
 title: çantada keklik
 slug: cantada-keklik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Ele geçirilmesi, elde edilmesi kolay olan; torbada keklik

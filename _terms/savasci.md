@@ -2,6 +2,7 @@
 layout: term
 title: savaşçı
 slug: savasci
+letter: S
 lisan: Türkçe
 anlamlar:
 - Savaşan, savaş durumunda bulunan; cenkçi, muharip

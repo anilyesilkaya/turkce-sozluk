@@ -2,6 +2,7 @@
 layout: term
 title: stenograf
 slug: stenograf
+letter: S
 lisan: Fransızca sténographe
 anlamlar:
 - ► steno

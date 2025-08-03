@@ -2,6 +2,7 @@
 layout: term
 title: hazırlıksız
 slug: hazirliksiz
+letter: H
 lisan: Türkçe
 anlamlar:
 - Bir şey için önceden hazırlanmamış olan; tedariksiz

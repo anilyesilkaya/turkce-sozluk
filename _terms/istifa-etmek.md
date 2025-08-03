@@ -2,6 +2,7 @@
 layout: term
 title: istifa etmek
 slug: istifa-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - işinden çekilmek

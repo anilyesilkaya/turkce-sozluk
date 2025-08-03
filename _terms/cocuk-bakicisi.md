@@ -2,6 +2,7 @@
 layout: term
 title: çocuk bakıcısı
 slug: cocuk-bakicisi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çocuk bakımı ile görevlendirilmiş kız veya kadın

@@ -2,6 +2,7 @@
 layout: term
 title: dembedem
 slug: dembedem
+letter: D
 lisan: Farsça dembedem
 anlamlar:
 - ► ara sıra

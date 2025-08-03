@@ -2,6 +2,7 @@
 layout: term
 title: Göktürkçe
 slug: gokturkce
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► Köktürk Türkçesi

@@ -2,6 +2,7 @@
 layout: term
 title: avantaj
 slug: avantaj
+letter: A
 lisan: Fransızca avantage
 anlamlar:
 - ► üstünlük

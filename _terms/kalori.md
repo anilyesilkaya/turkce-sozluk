@@ -2,6 +2,7 @@
 layout: term
 title: kalori
 slug: kalori
+letter: K
 lisan: Fransızca calorie
 anlamlar:
 - Normal atmosfer basıncında, ısınma ısısı 15 °C'lik suyunkine eşit olan bir cismin, bir gramının sıcaklığını 10 °C yükseltmek için gerekli ısı miktarına eşit olan ısı birimi; ısın

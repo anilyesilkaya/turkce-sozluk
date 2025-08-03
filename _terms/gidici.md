@@ -2,6 +2,7 @@
 layout: term
 title: gidici
 slug: gidici
+letter: G
 lisan: Türkçe
 anlamlar:
 - Kısa süre için var olan, kalıcı karşıtı

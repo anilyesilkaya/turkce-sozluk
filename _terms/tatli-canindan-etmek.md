@@ -2,6 +2,7 @@
 layout: term
 title: tatlı canından etmek
 slug: tatli-canindan-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - öldürmek

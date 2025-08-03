@@ -2,6 +2,7 @@
 layout: term
 title: serdar
 slug: serdar
+letter: S
 lisan: Farsça serdār
 anlamlar:
 - ► başkomutan

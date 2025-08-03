@@ -2,6 +2,7 @@
 layout: term
 title: takırdamak
 slug: takirdamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - '"Takırtı" sesi çıkarmak'

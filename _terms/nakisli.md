@@ -2,6 +2,7 @@
 layout: term
 title: nakışlı
 slug: nakisli
+letter: N
 lisan: Türkçe
 anlamlar:
 - Nakşı olan

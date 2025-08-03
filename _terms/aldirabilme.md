@@ -2,6 +2,7 @@
 layout: term
 title: aldırabilme
 slug: aldirabilme
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aldırabilmek işi

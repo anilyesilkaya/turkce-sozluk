@@ -2,6 +2,7 @@
 layout: term
 title: yâd
 slug: yad
+letter: Y
 lisan: Farsça yād
 anlamlar:
 - ► anma

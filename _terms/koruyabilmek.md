@@ -2,6 +2,7 @@
 layout: term
 title: koruyabilmek
 slug: koruyabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Koruma ihtimali veya imkânı bulunmak

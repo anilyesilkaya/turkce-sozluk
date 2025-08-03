@@ -2,6 +2,7 @@
 layout: term
 title: eski göz ağrısı
 slug: eski-goz-agrisi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eski sevgili

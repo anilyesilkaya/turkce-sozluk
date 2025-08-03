@@ -2,6 +2,7 @@
 layout: term
 title: pabuç dilli
 slug: pabuc-dilli
+letter: P
 lisan: Türkçe
 anlamlar:
 - Çok konuşan

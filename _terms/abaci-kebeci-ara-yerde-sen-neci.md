@@ -2,6 +2,7 @@
 layout: term
 title: abacı kebeci (ara yerde) sen neci?
 slug: abaci-kebeci-ara-yerde-sen-neci
+letter: A
 lisan: Türkçe
 anlamlar:
 - '`seni ilgilendirmeyen işe niçin karışıyorsun?` anlamında kullanılan bir söz'

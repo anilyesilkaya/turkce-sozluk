@@ -2,6 +2,7 @@
 layout: term
 title: uyanılmak
 slug: uyanilmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyanmak işi yapılmak

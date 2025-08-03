@@ -2,6 +2,7 @@
 layout: term
 title: benzetebilmek
 slug: benzetebilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Benzetme ihtimali veya imkânı bulunmak

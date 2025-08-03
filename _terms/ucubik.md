@@ -2,6 +2,7 @@
 layout: term
 title: ucubik
 slug: ucubik
+letter: U
 lisan: Arapça uʿcūbe'den
 anlamlar:
 - Çok acayip, çok garip olan

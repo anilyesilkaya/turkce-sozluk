@@ -2,6 +2,7 @@
 layout: term
 title: kapı almak (veya yapmak)
 slug: kapi-almak-veya-yapmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - tavla oyununda bir haneye üst üste iki pul getirmek ve o hanenin karşı oyuncu tarafından kullanılmasını engellemek

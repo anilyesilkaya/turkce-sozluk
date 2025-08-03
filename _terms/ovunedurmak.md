@@ -2,6 +2,7 @@
 layout: term
 title: övünedurmak
 slug: ovunedurmak
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Sürekli övünmek

@@ -2,6 +2,7 @@
 layout: term
 title: tütünlük
 slug: tutunluk
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tütün ekilen yer, tütün tarlası

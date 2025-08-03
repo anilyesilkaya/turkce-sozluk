@@ -2,6 +2,7 @@
 layout: term
 title: bozulmak
 slug: bozulmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bozma işine konu olmak

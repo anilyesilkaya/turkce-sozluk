@@ -2,6 +2,7 @@
 layout: term
 title: eşyalı
 slug: esyali
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eşyası olan

@@ -2,6 +2,7 @@
 layout: term
 title: saydırmak
 slug: saydirmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sayma işini yaptırmak, sayısını buldurmak, sayı belirterek sonuç almak

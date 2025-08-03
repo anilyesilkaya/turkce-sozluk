@@ -2,6 +2,7 @@
 layout: term
 title: alışkanlık
 slug: aliskanlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir şeye alışmış olma durumu; alışkı, alışkınlık, alışmışlık, yordam, itiyat, huy

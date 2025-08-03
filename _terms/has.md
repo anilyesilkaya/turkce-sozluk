@@ -2,6 +2,7 @@
 layout: term
 title: has
 slug: has
+letter: H
 lisan: Arapça ḫāṣṣ
 anlamlar:
 - ► özgü

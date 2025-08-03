@@ -2,6 +2,7 @@
 layout: term
 title: memnun etmek
 slug: memnun-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - bir kimseyi sevindirmek, ona kıvanç vermek

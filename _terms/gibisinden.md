@@ -2,6 +2,7 @@
 layout: term
 title: gibisinden
 slug: gibisinden
+letter: G
 lisan: Türkçe
 anlamlar:
 - '... benzerinden'

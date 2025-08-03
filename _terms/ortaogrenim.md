@@ -2,6 +2,7 @@
 layout: term
 title: ortaöğrenim
 slug: ortaogrenim
+letter: O
 lisan: Türkçe
 anlamlar:
 - İlköğrenim ile yükseköğrenim arasında görülen öğrenim dönemi

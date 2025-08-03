@@ -2,6 +2,7 @@
 layout: term
 title: rükû
 slug: ruku
+letter: R
 lisan: Arapça rukūʿ
 anlamlar:
 - Öne doğru eğilme

@@ -2,6 +2,7 @@
 layout: term
 title: hatime
 slug: hatime
+letter: H
 lisan: Arapça ḫātime
 anlamlar:
 - ► son

@@ -2,6 +2,7 @@
 layout: term
 title: şorolop
 slug: sorolop
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Birdenbire ve hırsla (yutmak)

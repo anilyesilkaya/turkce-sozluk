@@ -2,6 +2,7 @@
 layout: term
 title: atışmak
 slug: atismak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Birbirine karşılıklı söz söyleyerek tartışmak

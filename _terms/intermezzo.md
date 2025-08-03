@@ -2,6 +2,7 @@
 layout: term
 title: intermezzo
 slug: intermezzo
+letter: I
 lisan: İtalyanca intermezzo
 anlamlar:
 - Serbest bir biçimde yazılmış olan ve kendi kendine bir bütün oluşturan müzik eseri

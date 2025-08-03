@@ -2,6 +2,7 @@
 layout: term
 title: sene
 slug: sene
+letter: S
 lisan: Arapça sene
 anlamlar:
 - ► yıl

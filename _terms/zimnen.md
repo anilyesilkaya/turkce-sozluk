@@ -2,6 +2,7 @@
 layout: term
 title: zımnen
 slug: zimnen
+letter: Z
 lisan: Arapça żimnen
 anlamlar:
 - Üstü kapalı bir biçimde, dolaylı olarak

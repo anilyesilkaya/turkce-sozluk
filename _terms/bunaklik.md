@@ -2,6 +2,7 @@
 layout: term
 title: bunaklık
 slug: bunaklik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bunak olma durumu

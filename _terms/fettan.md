@@ -2,6 +2,7 @@
 layout: term
 title: fettan
 slug: fettan
+letter: F
 lisan: Arapça fettān
 anlamlar:
 - ► fitneci

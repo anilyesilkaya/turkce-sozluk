@@ -2,6 +2,7 @@
 layout: term
 title: 'karşı çıkıcı '
 slug: karsi-cikici
+letter: K
 lisan: Türkçe
 anlamlar:
 - Olumsuz tutum içinde olan, beğenmediği veya istemediği bir şeye karşı çıkan

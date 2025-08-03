@@ -2,6 +2,7 @@
 layout: term
 title: hissini vermek
 slug: hissini-vermek
+letter: H
 lisan: Türkçe
 anlamlar:
 - gibi gelmek, ... izlenimini uyandırmak

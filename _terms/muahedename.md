@@ -2,6 +2,7 @@
 layout: term
 title: muahedename
 slug: muahedename
+letter: M
 lisan: Arapça muʿāhede + Farsça nāme
 anlamlar:
 - Antlaşma metni

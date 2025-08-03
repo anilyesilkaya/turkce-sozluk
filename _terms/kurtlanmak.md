@@ -2,6 +2,7 @@
 layout: term
 title: kurtlanmak
 slug: kurtlanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - İçinde veya üzerinde kurt üremek

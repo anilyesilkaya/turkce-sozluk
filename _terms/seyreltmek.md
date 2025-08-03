@@ -2,6 +2,7 @@
 layout: term
 title: seyreltmek
 slug: seyreltmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Seyrek duruma getirmek

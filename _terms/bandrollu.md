@@ -2,6 +2,7 @@
 layout: term
 title: bandrollü
 slug: bandrollu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bandrolü bulunan

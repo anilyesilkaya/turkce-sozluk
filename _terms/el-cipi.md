@@ -2,6 +2,7 @@
 layout: term
 title: el çıpı
 slug: el-cipi
+letter: E
 lisan: Türkçe
 anlamlar:
 - İki eli birbirine vurma

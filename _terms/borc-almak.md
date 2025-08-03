@@ -2,6 +2,7 @@
 layout: term
 title: borç almak
 slug: borc-almak
+letter: B
 lisan: Türkçe
 anlamlar:
 - daha sonra ödemek üzere birinden para veya bir şey almak

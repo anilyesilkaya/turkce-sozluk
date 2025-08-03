@@ -2,6 +2,7 @@
 layout: term
 title: gelinbaşı yapmak
 slug: gelinbasi-yapmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - gelinliği tamamlayan parçalardan biri olan duvakla birlikte saça şekil vermek

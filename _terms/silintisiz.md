@@ -2,6 +2,7 @@
 layout: term
 title: silintisiz
 slug: silintisiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Silintisi olmayan

@@ -2,6 +2,7 @@
 layout: term
 title: estetik cerrah
 slug: estetik-cerrah
+letter: E
 lisan: Türkçe
 anlamlar:
 - Estetik ameliyat konusunda uzmanlaşmış cerrah

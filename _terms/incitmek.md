@@ -2,6 +2,7 @@
 layout: term
 title: incitmek
 slug: incitmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İncinmesine yol açmak

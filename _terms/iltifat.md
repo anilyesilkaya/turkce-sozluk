@@ -2,6 +2,7 @@
 layout: term
 title: iltifat
 slug: iltifat
+letter: I
 lisan: Arapça iltifāt
 anlamlar:
 - Birine güler yüz gösterme, hatırını sorma, tatlı davranma

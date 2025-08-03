@@ -2,6 +2,7 @@
 layout: term
 title: örtmek
 slug: ortmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Korumak, görünmez duruma getirmek veya gizlemek için üstüne bir şey koymak

@@ -2,6 +2,7 @@
 layout: term
 title: makaslanma
 slug: makaslanma
+letter: M
 lisan: Türkçe
 anlamlar:
 - Makaslanmak işi

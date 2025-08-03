@@ -2,6 +2,7 @@
 layout: term
 title: muaşeret
 slug: muaseret
+letter: M
 lisan: Arapça muʿāşeret
 anlamlar:
 - Birbiriyle toplumsal ilişkiler içinde bulunma

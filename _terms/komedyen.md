@@ -2,6 +2,7 @@
 layout: term
 title: komedyen
 slug: komedyen
+letter: K
 lisan: Fransızca comédien
 anlamlar:
 - Güldürü oyuncusu; komedyacı

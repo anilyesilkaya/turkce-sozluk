@@ -2,6 +2,7 @@
 layout: term
 title: pürüz
 slug: puruz
+letter: P
 lisan: Türkçe
 anlamlar:
 - Bir şeyin düzgünlüğünü bozacak çıkıntı, gedik veya kusur

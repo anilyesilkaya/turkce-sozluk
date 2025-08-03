@@ -2,6 +2,7 @@
 layout: term
 title: yakıcılık
 slug: yakicilik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yakıcı olma durumu

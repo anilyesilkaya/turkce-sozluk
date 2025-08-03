@@ -2,6 +2,7 @@
 layout: term
 title: sefire
 slug: sefire
+letter: S
 lisan: Arapça sefīre
 anlamlar:
 - Kadın elçi

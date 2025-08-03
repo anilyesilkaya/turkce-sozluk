@@ -2,6 +2,7 @@
 layout: term
 title: paçavra gibi
 slug: pacavra-gibi
+letter: P
 lisan: Türkçe
 anlamlar:
 - değersiz (kimse veya şey)

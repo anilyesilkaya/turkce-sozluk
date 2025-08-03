@@ -2,6 +2,7 @@
 layout: term
 title: kör topal
 slug: kor-topal
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yarım yamalak, iyi kötü idare edecek biçimde

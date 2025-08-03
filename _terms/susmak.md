@@ -2,6 +2,7 @@
 layout: term
 title: susmak
 slug: susmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Konuşmasını bitirmek; kesmek

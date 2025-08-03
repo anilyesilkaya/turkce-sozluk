@@ -2,6 +2,7 @@
 layout: term
 title: periyodik
 slug: periyodik
+letter: P
 lisan: Fransızca périodique
 anlamlar:
 - ► süreli

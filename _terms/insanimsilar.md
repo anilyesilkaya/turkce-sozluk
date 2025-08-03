@@ -2,6 +2,7 @@
 layout: term
 title: insanımsılar
 slug: insanimsilar
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► insansılar

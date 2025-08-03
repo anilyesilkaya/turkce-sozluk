@@ -2,6 +2,7 @@
 layout: term
 title: saltanat
 slug: saltanat
+letter: S
 lisan: Arapça salṭanat
 anlamlar:
 - Bir ülkede hükümdarın, padişahın, sultanın egemen olması; sultanlık

@@ -2,6 +2,7 @@
 layout: term
 title: tariz
 slug: tariz
+letter: T
 lisan: Arapça taʿrīż
 anlamlar:
 - ► taşlama

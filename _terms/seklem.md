@@ -2,6 +2,7 @@
 layout: term
 title: seklem
 slug: seklem
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kıldan, yünden dokunmuş çuval

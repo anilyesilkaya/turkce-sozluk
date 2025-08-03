@@ -2,6 +2,7 @@
 layout: term
 title: çevirebilmek
 slug: cevirebilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çevirme ihtimali veya imkânı bulunmak

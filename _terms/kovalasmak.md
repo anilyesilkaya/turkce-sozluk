@@ -2,6 +2,7 @@
 layout: term
 title: kovalaşmak
 slug: kovalasmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Birbirini kovalamak

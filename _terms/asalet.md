@@ -2,6 +2,7 @@
 layout: term
 title: asalet
 slug: asalet
+letter: A
 lisan: Arapça aṣālet
 anlamlar:
 - ► soyluluk

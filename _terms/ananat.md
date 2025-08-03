@@ -2,6 +2,7 @@
 layout: term
 title: ananat
 slug: ananat
+letter: A
 lisan: Arapça ʿanʿanāt
 anlamlar:
 - Gelenekler, ananeler

@@ -2,6 +2,7 @@
 layout: term
 title: kasıtlıca
 slug: kasitlica
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kasıtlı bir biçimde

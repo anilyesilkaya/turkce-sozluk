@@ -2,6 +2,7 @@
 layout: term
 title: abraşlık
 slug: abraslik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Abraş olma durumu

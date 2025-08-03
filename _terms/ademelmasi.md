@@ -2,6 +2,7 @@
 layout: term
 title: âdemelması
 slug: ademelmasi
+letter: Â
 lisan: Türkçe
 anlamlar:
 - Erkeklerde boynun ön tarafındaki gırtlak çıkıntısı

@@ -2,6 +2,7 @@
 layout: term
 title: eleştirme
 slug: elestirme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eleştirmek işi; tenkit

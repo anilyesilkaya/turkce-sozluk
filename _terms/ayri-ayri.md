@@ -2,6 +2,7 @@
 layout: term
 title: ayrı ayrı
 slug: ayri-ayri
+letter: A
 lisan: Türkçe
 anlamlar:
 - Birbirinden ayrı olan, değişik olan

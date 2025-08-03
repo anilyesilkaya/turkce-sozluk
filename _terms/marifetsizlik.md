@@ -2,6 +2,7 @@
 layout: term
 title: marifetsizlik
 slug: marifetsizlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Marifetsiz olma durumu

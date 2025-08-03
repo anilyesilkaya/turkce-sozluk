@@ -2,6 +2,7 @@
 layout: term
 title: doğrusal
 slug: dogrusal
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çizgiyle ilgili olan; çizgisel

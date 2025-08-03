@@ -2,6 +2,7 @@
 layout: term
 title: küçücük
 slug: kucucuk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çok küçük; küçümencik, minicik, minimini, ufacıcık, ufacık

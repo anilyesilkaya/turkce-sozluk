@@ -2,6 +2,7 @@
 layout: term
 title: mücehhez olmak
 slug: mucehhez-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - taşımak, kendinde bulundurmak

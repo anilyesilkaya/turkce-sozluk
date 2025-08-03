@@ -2,6 +2,7 @@
 layout: term
 title: cüz
 slug: cuz
+letter: C
 lisan: Arapça cuzʾ
 anlamlar:
 - Bir bütünü oluşturan bölümlerden her biri

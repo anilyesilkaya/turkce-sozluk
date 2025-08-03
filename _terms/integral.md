@@ -2,6 +2,7 @@
 layout: term
 title: integral
 slug: integral
+letter: I
 lisan: Fransızca intégral
 anlamlar:
 - Parçalardan oluşmuş bütün

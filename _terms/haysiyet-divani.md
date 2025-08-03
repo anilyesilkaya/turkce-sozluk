@@ -2,6 +2,7 @@
 layout: term
 title: haysiyet divanı
 slug: haysiyet-divani
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► onur kurulu

@@ -2,6 +2,7 @@
 layout: term
 title: cebrî yürüyüş
 slug: cebri-yuruyus
+letter: C
 lisan: Türkçe
 anlamlar:
 - Bir yere kuvvet yetiştirmek veya düşmandan önce varmak için yapılan hızlı yürüyüş

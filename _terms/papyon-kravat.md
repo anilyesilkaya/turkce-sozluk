@@ -2,6 +2,7 @@
 layout: term
 title: papyon kravat
 slug: papyon-kravat
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► papyon

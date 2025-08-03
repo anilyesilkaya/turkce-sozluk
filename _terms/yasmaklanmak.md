@@ -2,6 +2,7 @@
 layout: term
 title: yaşmaklanmak
 slug: yasmaklanmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaşmakla örtünmek

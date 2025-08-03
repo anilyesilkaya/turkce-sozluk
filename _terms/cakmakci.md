@@ -2,6 +2,7 @@
 layout: term
 title: çakmakçı
 slug: cakmakci
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çakmak yapan veya satan kimse

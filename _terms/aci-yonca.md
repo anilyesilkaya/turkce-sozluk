@@ -2,6 +2,7 @@
 layout: term
 title: acı yonca
 slug: aci-yonca
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kızılkantarongillerden, bataklık yerlerde yetişen, kötü kokulu ve çok acı olan yaprakları hekimlikte kullanılan bir bitki (Menyanthes trifoliata)

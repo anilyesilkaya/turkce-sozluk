@@ -2,6 +2,7 @@
 layout: term
 title: dal gibi
 slug: dal-gibi
+letter: D
 lisan: Türkçe
 anlamlar:
 - ince uzun yapılı

@@ -2,6 +2,7 @@
 layout: term
 title: etnisite
 slug: etnisite
+letter: E
 lisan: Fransızca ethnicité
 anlamlar:
 - ► etniklik

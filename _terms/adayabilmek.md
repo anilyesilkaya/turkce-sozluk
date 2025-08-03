@@ -2,6 +2,7 @@
 layout: term
 title: adayabilmek
 slug: adayabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Adama ihtimali veya imkânı bulunmak

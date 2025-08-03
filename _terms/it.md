@@ -2,6 +2,7 @@
 layout: term
 title: it
 slug: it
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► köpek

@@ -2,6 +2,7 @@
 layout: term
 title: neoklasisizm
 slug: neoklasisizm
+letter: N
 lisan: Fransızca néoclassicisme
 anlamlar:
 - Sembolizme karşı XX. yüzyılın başında ortaya çıkan, klasik üslubu canlandırmaya yönelik edebî akım

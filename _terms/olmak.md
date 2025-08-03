@@ -2,6 +2,7 @@
 layout: term
 title: olmak
 slug: olmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Meydana gelmek, vuku bulmak

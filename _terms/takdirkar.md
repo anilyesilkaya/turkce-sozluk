@@ -2,6 +2,7 @@
 layout: term
 title: takdirkâr
 slug: takdirkar
+letter: T
 lisan: Arapça taḳdīr + Farsça -kār
 anlamlar:
 - Takdir eden, beğenen

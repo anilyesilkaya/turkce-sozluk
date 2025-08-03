@@ -2,6 +2,7 @@
 layout: term
 title: çoğulcu
 slug: cogulcu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çoğulculukla ilgili olan (kimse veya görüş); plüralist

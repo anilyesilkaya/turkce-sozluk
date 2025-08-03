@@ -2,6 +2,7 @@
 layout: term
 title: denek
 slug: denek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Üzerinde deney yapılan canlı veya şey

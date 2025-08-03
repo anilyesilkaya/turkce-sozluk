@@ -2,6 +2,7 @@
 layout: term
 title: savatlı
 slug: savatli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Savatı olan, savatlanmış

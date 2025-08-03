@@ -2,6 +2,7 @@
 layout: term
 title: leylaki
 slug: leylaki
+letter: L
 lisan: Arapça leylāḳī
 anlamlar:
 - ► leylak rengi

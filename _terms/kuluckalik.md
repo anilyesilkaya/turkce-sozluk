@@ -2,6 +2,7 @@
 layout: term
 title: kuluçkalık
 slug: kuluckalik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kuluçka olma durumu

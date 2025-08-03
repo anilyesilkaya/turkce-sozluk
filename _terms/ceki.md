@@ -2,6 +2,7 @@
 layout: term
 title: çeki
 slug: ceki
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► tartı

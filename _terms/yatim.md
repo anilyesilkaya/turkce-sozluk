@@ -2,6 +2,7 @@
 layout: term
 title: yatım
 slug: yatim
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Gemi direklerinin başa veya kıça doğru olan eğimi

@@ -2,6 +2,7 @@
 layout: term
 title: ateh getirmek
 slug: ateh-getirmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - bunamak

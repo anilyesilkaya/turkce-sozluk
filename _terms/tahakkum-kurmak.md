@@ -2,6 +2,7 @@
 layout: term
 title: tahakküm kurmak
 slug: tahakkum-kurmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - hükmetmek

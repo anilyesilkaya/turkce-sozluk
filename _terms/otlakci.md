@@ -2,6 +2,7 @@
 layout: term
 title: otlakçı
 slug: otlakci
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► asalak

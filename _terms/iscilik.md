@@ -2,6 +2,7 @@
 layout: term
 title: işçilik
 slug: iscilik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İşçi olma durumu

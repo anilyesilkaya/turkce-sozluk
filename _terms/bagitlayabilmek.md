@@ -2,6 +2,7 @@
 layout: term
 title: bağıtlayabilmek
 slug: bagitlayabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağıtlama ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: amel
 slug: amel
+letter: A
 lisan: Arapça ʿamel
 anlamlar:
 - ► edim

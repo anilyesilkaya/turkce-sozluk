@@ -2,6 +2,7 @@
 layout: term
 title: peşkeş
 slug: peskes
+letter: P
 lisan: Farsça pīşkeş
 anlamlar:
 - Yaranmak amacıyla uygunsuz olarak verilen şey

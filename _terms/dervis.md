@@ -2,6 +2,7 @@
 layout: term
 title: derviş
 slug: dervis
+letter: D
 lisan: Farsça dervīş
 anlamlar:
 - Bir tarikata girmiş, onun kurallarına ve törelerine bağlı kimse; torlak

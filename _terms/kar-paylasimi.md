@@ -2,6 +2,7 @@
 layout: term
 title: kâr paylaşımı
 slug: kar-paylasimi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir işletmenin ve şirketin yıl sonu kârlarından çalışanlarına, bir teşvik yöntemi olarak pay verilmesi

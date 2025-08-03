@@ -2,6 +2,7 @@
 layout: term
 title: istinaf mahkemesi
 slug: istinaf-mahkemesi
+letter: I
 lisan: Türkçe
 anlamlar:
 - Sulh ve asliye mahkemeleri vb. ilk derece mahkemeler ile temyiz mahkemeleri arasında yer alan ikinci derecede yüksek mahkeme

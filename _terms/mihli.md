@@ -2,6 +2,7 @@
 layout: term
 title: mıhlı
 slug: mihli
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► çivili

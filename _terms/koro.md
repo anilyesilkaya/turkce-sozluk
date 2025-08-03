@@ -2,6 +2,7 @@
 layout: term
 title: koro
 slug: koro
+letter: K
 lisan: İtalyanca coro
 anlamlar:
 - Tek veya çok sesli olarak yazılmış bir müzik eserini seslendirmek için bir araya gelen topluluk

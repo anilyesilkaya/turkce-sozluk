@@ -2,6 +2,7 @@
 layout: term
 title: mayalanma
 slug: mayalanma
+letter: M
 lisan: Türkçe
 anlamlar:
 - Sıvı veya hamur durumda bulunan organik maddelerin kendiliğinden kabarıp köpürerek gaz çıkarması olayı

@@ -2,6 +2,7 @@
 layout: term
 title: musavver
 slug: musavver
+letter: M
 lisan: Arapça muṣavver
 anlamlar:
 - ► resimli

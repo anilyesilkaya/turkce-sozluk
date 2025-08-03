@@ -2,6 +2,7 @@
 layout: term
 title: alaim
 slug: alaim
+letter: A
 lisan: Arapça ʿalā'im
 anlamlar:
 - Belirtiler, alametler

@@ -2,6 +2,7 @@
 layout: term
 title: yaşanak
 slug: yasanak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► kuvöz

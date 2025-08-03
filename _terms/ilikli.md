@@ -2,6 +2,7 @@
 layout: term
 title: ilikli
 slug: ilikli
+letter: I
 lisan: Türkçe
 anlamlar:
 - İliği olan

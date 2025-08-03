@@ -2,6 +2,7 @@
 layout: term
 title: başı önünde
 slug: basi-onunde
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başını öne doğru eğmiş bir biçimde

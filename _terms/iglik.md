@@ -2,6 +2,7 @@
 layout: term
 title: iğlik
 slug: iglik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İçinde herhangi bir sayıda iğ bulunan

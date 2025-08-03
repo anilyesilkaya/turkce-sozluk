@@ -2,6 +2,7 @@
 layout: term
 title: çiğ köftecilik
 slug: cig-koftecilik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çiğ köftecinin yaptığı iş

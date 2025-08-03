@@ -2,6 +2,7 @@
 layout: term
 title: harcama
 slug: harcama
+letter: H
 lisan: Türkçe
 anlamlar:
 - Harcamak işi; sarf

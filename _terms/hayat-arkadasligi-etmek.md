@@ -2,6 +2,7 @@
 layout: term
 title: hayat arkadaşlığı etmek
 slug: hayat-arkadasligi-etmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - evlilik dolayısıyla birlikte yaşamak

@@ -2,6 +2,7 @@
 layout: term
 title: tümdengelimsel
 slug: tumdengelimsel
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tümdengelimle ilgili

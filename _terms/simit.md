@@ -2,6 +2,7 @@
 layout: term
 title: simit
 slug: simit
+letter: S
 lisan: Arapça semīd
 anlamlar:
 - Halka biçiminde, genellikle üzerine susam serpilmiş çörek

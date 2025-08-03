@@ -2,6 +2,7 @@
 layout: term
 title: terzi
 slug: terzi
+letter: T
 lisan: Farsça derzī
 anlamlar:
 - Giysi biçip diken kimse; dikici, dikişçi

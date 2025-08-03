@@ -2,6 +2,7 @@
 layout: term
 title: ıh pıh etmek
 slug: ih-pih-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - ıh pıh sesleri çıkarmak

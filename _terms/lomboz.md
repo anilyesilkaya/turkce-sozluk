@@ -2,6 +2,7 @@
 layout: term
 title: lomboz
 slug: lomboz
+letter: L
 lisan: Rumca
 anlamlar:
 - Kamaralarla alt güverteleri aydınlatmak için bordalardan ve güvertelerden açılan yuvarlak pencere

@@ -2,6 +2,7 @@
 layout: term
 title: distribütörlük
 slug: distributorluk
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► dağıtıcılık

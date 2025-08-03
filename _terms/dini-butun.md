@@ -2,6 +2,7 @@
 layout: term
 title: dini bütün
 slug: dini-butun
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dinine çok bağlı, inancı sağlam olan, dinin buyruklarını eksiksiz yerine getiren

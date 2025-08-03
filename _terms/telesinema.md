@@ -2,6 +2,7 @@
 layout: term
 title: telesinema
 slug: telesinema
+letter: T
 lisan: Fransızca télécinéma
 anlamlar:
 - Bir sinema filmini televizyonda göstermeye yarayan cihaz

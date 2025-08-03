@@ -2,6 +2,7 @@
 layout: term
 title: imişçesine
 slug: imiscesine
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► gibi

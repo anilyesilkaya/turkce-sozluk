@@ -2,6 +2,7 @@
 layout: term
 title: dâhilî deniz
 slug: dahili-deniz
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► iç deniz

@@ -2,6 +2,7 @@
 layout: term
 title: sığırlık
 slug: sigirlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sığır olma durumu

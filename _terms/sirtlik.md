@@ -2,6 +2,7 @@
 layout: term
 title: sırtlık
 slug: sirtlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sırt dayayacak yer

@@ -2,6 +2,7 @@
 layout: term
 title: ıskatçı
 slug: iskatci
+letter: I
 lisan: Türkçe
 anlamlar:
 - Iskat verilen kimse

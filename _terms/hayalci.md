@@ -2,6 +2,7 @@
 layout: term
 title: hayalci
 slug: hayalci
+letter: H
 lisan: Türkçe
 anlamlar:
 - Bir şeyi gerçekleşmiş gibi kabul edip zihninde tasarlayan kimse; ütopist

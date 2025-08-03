@@ -2,6 +2,7 @@
 layout: term
 title: aktüalite
 slug: aktualite
+letter: A
 lisan: Fransızca actualité
 anlamlar:
 - ► güncellik

@@ -2,6 +2,7 @@
 layout: term
 title: optometri
 slug: optometri
+letter: O
 lisan: Fransızca optométrie
 anlamlar:
 - Görmeyi inceleyen optik veya fizik dalı

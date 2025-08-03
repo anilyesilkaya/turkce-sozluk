@@ -2,6 +2,7 @@
 layout: term
 title: dolap çevirmek (veya döndürmek)
 slug: dolap-cevirmek-veya-dondurmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - hile ve dalavere ile iş yapmak

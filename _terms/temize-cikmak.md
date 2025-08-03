@@ -2,6 +2,7 @@
 layout: term
 title: temize çıkmak
 slug: temize-cikmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - aklanmak

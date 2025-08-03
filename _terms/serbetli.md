@@ -2,6 +2,7 @@
 layout: term
 title: şerbetli
 slug: serbetli
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şerbet katılmış olan; şuruplu, şireli

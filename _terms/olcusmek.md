@@ -2,6 +2,7 @@
 layout: term
 title: ölçüşmek
 slug: olcusmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Biriyle yan yana gelerek boy bakımından ölçülmek

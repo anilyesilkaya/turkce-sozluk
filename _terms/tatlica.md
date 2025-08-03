@@ -2,6 +2,7 @@
 layout: term
 title: tatlıca
 slug: tatlica
+letter: T
 lisan: Türkçe
 anlamlar:
 - Biraz tatlı, az tatlı

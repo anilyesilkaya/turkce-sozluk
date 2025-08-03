@@ -2,6 +2,7 @@
 layout: term
 title: kıymetlenme
 slug: kiymetlenme
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► değerlenme

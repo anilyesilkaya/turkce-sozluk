@@ -2,6 +2,7 @@
 layout: term
 title: fikirci
 slug: fikirci
+letter: F
 lisan: Türkçe
 anlamlar:
 - Sürekli düşünce üreten kimse

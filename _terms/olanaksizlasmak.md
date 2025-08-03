@@ -2,6 +2,7 @@
 layout: term
 title: olanaksızlaşmak
 slug: olanaksizlasmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Olanaksız duruma gelmek

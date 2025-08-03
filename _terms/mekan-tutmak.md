@@ -2,6 +2,7 @@
 layout: term
 title: mekân tutmak
 slug: mekan-tutmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - bir yere yerleşmek

@@ -2,6 +2,7 @@
 layout: term
 title: santrfor
 slug: santrfor
+letter: S
 lisan: İngilizce centre-forward
 anlamlar:
 - ► orta uç oyuncusu

@@ -2,6 +2,7 @@
 layout: term
 title: elmas
 slug: elmas
+letter: E
 lisan: Arapça elmās
 anlamlar:
 - Yerin derinliklerinde bulunan, billurlaşmış arı karbon

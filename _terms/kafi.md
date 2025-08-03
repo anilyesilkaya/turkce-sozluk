@@ -2,6 +2,7 @@
 layout: term
 title: kâfi
 slug: kafi
+letter: K
 lisan: Arapça kāfī
 anlamlar:
 - ► yeter

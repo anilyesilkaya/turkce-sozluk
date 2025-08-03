@@ -2,6 +2,7 @@
 layout: term
 title: endüstri
 slug: endustri
+letter: E
 lisan: Fransızca industrie
 anlamlar:
 - ► sanayi

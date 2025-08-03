@@ -2,6 +2,7 @@
 layout: term
 title: ifraz etmek
 slug: ifraz-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - bir araziyi bölmek, parsellere ayırmak

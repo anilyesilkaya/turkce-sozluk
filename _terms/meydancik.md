@@ -2,6 +2,7 @@
 layout: term
 title: meydancık
 slug: meydancik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Küçük meydan

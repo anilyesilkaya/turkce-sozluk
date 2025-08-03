@@ -2,6 +2,7 @@
 layout: term
 title: güme götürmek
 slug: gume-goturmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - anlaşılmasını engellemek

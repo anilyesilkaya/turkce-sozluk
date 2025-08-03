@@ -2,6 +2,7 @@
 layout: term
 title: güğüm
 slug: gugum
+letter: G
 lisan: Rumca
 anlamlar:
 - Yandan kulplu, boynu uzun, genellikle bakırdan su kabı; debbe

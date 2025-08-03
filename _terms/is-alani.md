@@ -2,6 +2,7 @@
 layout: term
 title: iş alanı
 slug: is-alani
+letter: I
 lisan: Türkçe
 anlamlar:
 - Çalışılacak, kazanç sağlanacak dal

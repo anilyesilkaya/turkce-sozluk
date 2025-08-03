@@ -2,6 +2,7 @@
 layout: term
 title: iyisinden
 slug: iyisinden
+letter: I
 lisan: Türkçe
 anlamlar:
 - En iyi biçimde

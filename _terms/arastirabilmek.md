@@ -2,6 +2,7 @@
 layout: term
 title: araştırabilmek
 slug: arastirabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Araştırma ihtimali veya imkânı bulunmak

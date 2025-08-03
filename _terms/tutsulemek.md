@@ -2,6 +2,7 @@
 layout: term
 title: tütsülemek
 slug: tutsulemek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Türlü amaçlarla bir yeri tütsü dumanıyla doldurmak; tütsü yapmak

@@ -2,6 +2,7 @@
 layout: term
 title: zannetme
 slug: zannetme
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► sanma

@@ -2,6 +2,7 @@
 layout: term
 title: çizicilik
 slug: cizicilik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çizicinin yaptığı iş

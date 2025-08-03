@@ -2,6 +2,7 @@
 layout: term
 title: gözlü
 slug: gozlu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gözü olan

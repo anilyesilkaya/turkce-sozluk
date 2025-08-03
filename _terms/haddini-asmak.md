@@ -2,6 +2,7 @@
 layout: term
 title: haddini aşmak
 slug: haddini-asmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - ölçüyü kaçırmak, aşırı gitmek

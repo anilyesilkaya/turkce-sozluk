@@ -2,6 +2,7 @@
 layout: term
 title: ağzının tadını kaçırmak
 slug: agzinin-tadini-kacirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - neşesini, keyfini bozmak

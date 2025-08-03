@@ -2,6 +2,7 @@
 layout: term
 title: deruni
 slug: deruni
+letter: D
 lisan: Farsça derūn + Arapça -ī
 anlamlar:
 - İçle ilgili

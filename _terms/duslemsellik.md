@@ -2,6 +2,7 @@
 layout: term
 title: düşlemsellik
 slug: duslemsellik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düşlemsel özellik taşıma, düşlemsel olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: pare pare
 slug: pare-pare
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► parça parça

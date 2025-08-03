@@ -2,6 +2,7 @@
 layout: term
 title: kızılca
 slug: kizilca
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kızıla çalan, az kızıl

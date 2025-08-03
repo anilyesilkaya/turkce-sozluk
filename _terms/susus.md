@@ -2,6 +2,7 @@
 layout: term
 title: susuş
 slug: susus
+letter: S
 lisan: Türkçe
 anlamlar:
 - Susmak işi

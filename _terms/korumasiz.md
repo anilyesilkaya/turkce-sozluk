@@ -2,6 +2,7 @@
 layout: term
 title: korumasız
 slug: korumasiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Korunmayan; himayesiz

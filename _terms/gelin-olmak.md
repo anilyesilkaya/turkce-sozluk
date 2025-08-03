@@ -2,6 +2,7 @@
 layout: term
 title: gelin olmak
 slug: gelin-olmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - kız, evlenmek

@@ -2,6 +2,7 @@
 layout: term
 title: zararlı çıkmak
 slug: zararli-cikmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - bir işin sonunda değerli sayılan bazı şeyleri yitirmek

@@ -2,6 +2,7 @@
 layout: term
 title: yumuk
 slug: yumuk
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yumulmuş olan, yumulmuş gibi duran; yumulu

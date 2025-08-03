@@ -2,6 +2,7 @@
 layout: term
 title: Hakk'a sığınmak
 slug: hakk-a-siginmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - kötülüklerden, fenalıklardan Allah’ın koruması altına girmek

@@ -2,6 +2,7 @@
 layout: term
 title: unutabilmek
 slug: unutabilmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - Unutma ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: düzeysizce
 slug: duzeysizce
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düzeysiz bir biçimde; seviyesizce

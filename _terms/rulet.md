@@ -2,6 +2,7 @@
 layout: term
 title: rulet
 slug: rulet
+letter: R
 lisan: Fransızca roulette
 anlamlar:
 - Bir bilyenin, dönmekte bulunan derin tepside yazılı numaralarından ve siyah ile kırmızı renklerden birinin üzerinde durmasıyla kazananı belirten kumar aracı ve bununla oynanan kumar

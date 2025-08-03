@@ -2,6 +2,7 @@
 layout: term
 title: köfter
 slug: kofter
+letter: K
 lisan: Farsça kofter
 anlamlar:
 - Üzüm şırasıyla nişasta karışımının kaynatılıp dökülerek kesildikten sonra kurutulmasıyla hazırlanan bir tür pestil

@@ -2,6 +2,7 @@
 layout: term
 title: basmahane
 slug: basmahane
+letter: B
 lisan: Türkçe basma + Farsça ḫāne
 anlamlar:
 - Basma adı verilen pamuklu dokumanın üzerine desen basılan yer

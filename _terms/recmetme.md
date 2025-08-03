@@ -2,6 +2,7 @@
 layout: term
 title: recmetme
 slug: recmetme
+letter: R
 lisan: Türkçe
 anlamlar:
 - Recmetmek işi

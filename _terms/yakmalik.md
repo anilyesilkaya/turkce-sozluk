@@ -2,6 +2,7 @@
 layout: term
 title: yakmalık
 slug: yakmalik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yakmaya ayrılmış yakacak

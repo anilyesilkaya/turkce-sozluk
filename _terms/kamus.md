@@ -2,6 +2,7 @@
 layout: term
 title: kamus
 slug: kamus
+letter: K
 lisan: Arapça ḳāmūs
 anlamlar:
 - ► sözlük

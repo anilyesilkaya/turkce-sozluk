@@ -2,6 +2,7 @@
 layout: term
 title: dövüşmek
 slug: dovusmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Karşılıklı birbirini dövmek

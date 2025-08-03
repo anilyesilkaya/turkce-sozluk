@@ -2,6 +2,7 @@
 layout: term
 title: ideolog
 slug: ideolog
+letter: I
 lisan: Fransızca idéologue
 anlamlar:
 - Bir felsefi veya toplumsal öğretiye sistemli biçimde bağlanan kimse

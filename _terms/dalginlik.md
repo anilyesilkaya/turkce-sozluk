@@ -2,6 +2,7 @@
 layout: term
 title: dalgınlık
 slug: dalginlik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dalgın olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: uzaktan güdümlü
 slug: uzaktan-gudumlu
+letter: U
 lisan: Türkçe
 anlamlar:
 - Hareketleri telsiz veya radyo dalgaları aracılığıyla uzaktan ayarlanabilen

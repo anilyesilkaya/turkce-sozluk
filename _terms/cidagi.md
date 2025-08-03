@@ -2,6 +2,7 @@
 layout: term
 title: cıdağı
 slug: cidagi
+letter: C
 lisan: Türkçe
 anlamlar:
 - Atın iki omzunun arası

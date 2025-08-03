@@ -2,6 +2,7 @@
 layout: term
 title: ısırıvermek
 slug: isirivermek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Ansızın ısırmak

@@ -2,6 +2,7 @@
 layout: term
 title: doyumsuz
 slug: doyumsuz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Tatmin olmayan

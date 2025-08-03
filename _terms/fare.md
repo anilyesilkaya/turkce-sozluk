@@ -2,6 +2,7 @@
 layout: term
 title: fare
 slug: fare
+letter: F
 lisan: Arapça fāre
 anlamlar:
 - Sıçangillerden, küçük vücutlu, kemirgen, memeli hayvan (Mus)

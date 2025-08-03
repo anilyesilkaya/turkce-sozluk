@@ -2,6 +2,7 @@
 layout: term
 title: hasut
 slug: hasut
+letter: H
 lisan: Arapça ḥasūd
 anlamlar:
 - ► kıskanç

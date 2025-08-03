@@ -2,6 +2,7 @@
 layout: term
 title: lağvedilmek
 slug: lagvedilmek
+letter: L
 lisan: Türkçe
 anlamlar:
 - ► feshedilmek

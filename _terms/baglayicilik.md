@@ -2,6 +2,7 @@
 layout: term
 title: bağlayıcılık
 slug: baglayicilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağlayıcı olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: haşiye
 slug: hasiye
+letter: H
 lisan: Arapça ḥāşiye
 anlamlar:
 - ► dipnot

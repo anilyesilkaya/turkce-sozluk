@@ -2,6 +2,7 @@
 layout: term
 title: Çingeneleşmek
 slug: cingenelesmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çingenelere özgü yaşayış tarzını benimsemek

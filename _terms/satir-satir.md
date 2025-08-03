@@ -2,6 +2,7 @@
 layout: term
 title: satır satır
 slug: satir-satir
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bütün satırların hepsini okuyarak, her satırla ilgilenerek

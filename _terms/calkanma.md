@@ -2,6 +2,7 @@
 layout: term
 title: çalkanma
 slug: calkanma
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çalkanmak işi

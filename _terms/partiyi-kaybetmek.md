@@ -2,6 +2,7 @@
 layout: term
 title: partiyi kaybetmek
 slug: partiyi-kaybetmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - elde etmeye çalıştığı bir kazancı karşısındakine kaptırmak

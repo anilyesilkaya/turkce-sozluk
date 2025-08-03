@@ -2,6 +2,7 @@
 layout: term
 title: berduşluk
 slug: berdusluk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Berduş olma durumu

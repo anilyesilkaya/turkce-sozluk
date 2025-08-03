@@ -2,6 +2,7 @@
 layout: term
 title: çözümsüz kalmak
 slug: cozumsuz-kalmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - çözümü olmamak, çözüm bulunamamak

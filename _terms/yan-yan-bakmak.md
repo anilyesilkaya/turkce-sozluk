@@ -2,6 +2,7 @@
 layout: term
 title: yan yan bakmak
 slug: yan-yan-bakmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - göz ucuyla bakmak

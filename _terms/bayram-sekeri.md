@@ -2,6 +2,7 @@
 layout: term
 title: bayram şekeri
 slug: bayram-sekeri
+letter: B
 lisan: Türkçe
 anlamlar:
 - Özellikle dinî bayramlarda konuklara ikram edilen şeker veya çikolata

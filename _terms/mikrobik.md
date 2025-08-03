@@ -2,6 +2,7 @@
 layout: term
 title: mikrobik
 slug: mikrobik
+letter: M
 lisan: Fransızca microbique
 anlamlar:
 - ► mikroplu

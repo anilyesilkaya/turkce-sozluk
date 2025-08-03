@@ -2,6 +2,7 @@
 layout: term
 title: köstek
 slug: kostek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Saat, kılıç, anahtar vb.nin ucuna takılan zincir

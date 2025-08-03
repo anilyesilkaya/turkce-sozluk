@@ -2,6 +2,7 @@
 layout: term
 title: hatırına gelmek
 slug: hatirina-gelmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - hatırlamak, aklına gelmek

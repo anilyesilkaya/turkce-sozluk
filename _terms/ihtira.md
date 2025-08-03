@@ -2,6 +2,7 @@
 layout: term
 title: ihtira
 slug: ihtira
+letter: I
 lisan: Arapça iḫtirāʿ
 anlamlar:
 - Daha önce benzeri olmayan bir şey icat etme; türetme

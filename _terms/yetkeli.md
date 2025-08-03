@@ -2,6 +2,7 @@
 layout: term
 title: yetkeli
 slug: yetkeli
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► otoriteli

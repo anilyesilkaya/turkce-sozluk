@@ -2,6 +2,7 @@
 layout: term
 title: çöp torbası
 slug: cop-torbasi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Evlerde içine çöplerin konduğu kâğıt veya plastik torba

@@ -2,6 +2,7 @@
 layout: term
 title: saraciye
 slug: saraciye
+letter: S
 lisan: Arapça serrāciyye
 anlamlar:
 - Deri, muşamba vb.nden yapılan bavul, çanta, cüzdan, kemer vb. ürün

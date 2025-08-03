@@ -2,6 +2,7 @@
 layout: term
 title: bulaşık makinesi
 slug: bulasik-makinesi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bulaşıklar içine dizilip, deterjan konularak çalıştırılan, yıkama, durulama ve kurutma işlerini yapan makine

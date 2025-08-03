@@ -2,6 +2,7 @@
 layout: term
 title: karalamak
 slug: karalamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Boya veya kalemle birtakım şekiller çizerek bir yeri kirletmek

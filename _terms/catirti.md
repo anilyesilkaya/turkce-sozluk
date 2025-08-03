@@ -2,6 +2,7 @@
 layout: term
 title: çatırtı
 slug: catirti
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çatırdama sesi

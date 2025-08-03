@@ -2,6 +2,7 @@
 layout: term
 title: iç denge
 slug: ic-denge
+letter: I
 lisan: Türkçe
 anlamlar:
 - Ruhsal durum, psikolojik yapı

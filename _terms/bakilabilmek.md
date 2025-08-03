@@ -2,6 +2,7 @@
 layout: term
 title: bakılabilmek
 slug: bakilabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bakılma ihtimali veya imkânı bulunmak

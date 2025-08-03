@@ -2,6 +2,7 @@
 layout: term
 title: iki lakırtı etmek
 slug: iki-lakirti-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - iki çift laf etmek

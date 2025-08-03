@@ -2,6 +2,7 @@
 layout: term
 title: idamlık
 slug: idamlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - Ölüm cezası ile cezalandırılmış olan (kimse)

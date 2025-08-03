@@ -2,6 +2,7 @@
 layout: term
 title: sintigrafi
 slug: sintigrafi
+letter: S
 lisan: Fransızca scintigraphie
 anlamlar:
 - Gama ışını yayan radyoaktif bir izotopun organizma içindeki yolunu izlemek temeline dayanan tanı yöntemi

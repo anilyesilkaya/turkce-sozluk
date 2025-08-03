@@ -2,6 +2,7 @@
 layout: term
 title: horlamak
 slug: horlamak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Birinin gönlünü incitircesine davranmak; hor görmek

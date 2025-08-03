@@ -2,6 +2,7 @@
 layout: term
 title: adaptör
 slug: adaptor
+letter: A
 lisan: Fransızca adapteur
 anlamlar:
 - Bir aletin çapları birbirinden farklı olan parçalarından birini ötekine geçirebilmek için yararlanılan bağlayıcı

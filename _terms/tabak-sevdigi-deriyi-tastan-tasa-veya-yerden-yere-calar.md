@@ -2,6 +2,7 @@
 layout: term
 title: tabak sevdiği deriyi taştan taşa (veya yerden yere) çalar
 slug: tabak-sevdigi-deriyi-tastan-tasa-veya-yerden-yere-calar
+letter: T
 lisan: Türkçe
 anlamlar:
 - '"birinin yakınlarına gösterdiği sert davranış onun iyiliği içindir" anlamında kullanılan bir söz'

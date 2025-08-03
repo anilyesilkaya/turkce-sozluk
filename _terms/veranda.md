@@ -2,6 +2,7 @@
 layout: term
 title: veranda
 slug: veranda
+letter: V
 lisan: Fransızca véranda
 anlamlar:
 - Daha çok müstakil yapıların zemin katında yer ile aynı seviyede veya biraz yükseltilmiş, ön cepheyi kaplayan, üzeri bir çatıyla örtülü, yanları açık veya camlı büyükçe sundurma

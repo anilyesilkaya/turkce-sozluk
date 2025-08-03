@@ -2,6 +2,7 @@
 layout: term
 title: domuzlan
 slug: domuzlan
+letter: D
 lisan: Türkçe
 anlamlar:
 - Kın kanatlılardan bir böcek (Brachynus crepitans)

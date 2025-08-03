@@ -2,6 +2,7 @@
 layout: term
 title: tecrit
 slug: tecrit
+letter: T
 lisan: Arapça tecrīd
 anlamlar:
 - ► ayırma

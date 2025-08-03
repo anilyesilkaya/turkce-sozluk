@@ -2,6 +2,7 @@
 layout: term
 title: higrometre
 slug: higrometre
+letter: H
 lisan: Fransızca hygromètre
 anlamlar:
 - ► nemölçer

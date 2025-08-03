@@ -2,6 +2,7 @@
 layout: term
 title: çekim
 slug: cekim
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çekmek işi

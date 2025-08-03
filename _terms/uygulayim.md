@@ -2,6 +2,7 @@
 layout: term
 title: uygulayım
 slug: uygulayim
+letter: U
 lisan: Türkçe
 anlamlar:
 - Fizik, kimya, matematik vb. bilimlerden elde edilen verileri iş ve yapım alanında uygulama; teknik

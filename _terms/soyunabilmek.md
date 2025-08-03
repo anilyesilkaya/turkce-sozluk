@@ -2,6 +2,7 @@
 layout: term
 title: soyunabilmek
 slug: soyunabilmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Soyunma ihtimali veya imkânı bulunmak

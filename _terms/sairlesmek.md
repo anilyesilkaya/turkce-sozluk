@@ -2,6 +2,7 @@
 layout: term
 title: şairleşmek
 slug: sairlesmek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şair durumuna gelmek; ozanlaşmak

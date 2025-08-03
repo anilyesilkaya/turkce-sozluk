@@ -2,6 +2,7 @@
 layout: term
 title: öylelikle
 slug: oylelikle
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Bu biçimde, en sonunda; öylece

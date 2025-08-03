@@ -2,6 +2,7 @@
 layout: term
 title: ürün
 slug: urun
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Doğadan elde edilen, üretilen yararlı şey; hasılat, mahsul

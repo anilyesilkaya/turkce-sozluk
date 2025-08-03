@@ -2,6 +2,7 @@
 layout: term
 title: yaldızlanmak
 slug: yaldizlanmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaldızlama işi yapılmak veya yaldızlama işine konu olmak

@@ -2,6 +2,7 @@
 layout: term
 title: başakçılık
 slug: basakcilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başakçının yaptığı iş

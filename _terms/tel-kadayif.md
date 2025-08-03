@@ -2,6 +2,7 @@
 layout: term
 title: tel kadayıf
 slug: tel-kadayif
+letter: T
 lisan: Türkçe
 anlamlar:
 - Özel kalıplardan ince tel biçiminde dökülerek sıcak sac üzerinde kurutulan hamur

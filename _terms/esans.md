@@ -2,6 +2,7 @@
 layout: term
 title: esans
 slug: esans
+letter: E
 lisan: Fransızca essence
 anlamlar:
 - Bitkilerden türlü yollarla çıkarılan veya kimyasal yöntemlerle yapılan, kokulu ve uçucu sıvı; ruh

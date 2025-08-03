@@ -2,6 +2,7 @@
 layout: term
 title: boşboğaz
 slug: bosbogaz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Saklanması gereken şeyleri söyleyiveren, sır saklayamayan

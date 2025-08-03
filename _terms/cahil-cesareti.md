@@ -2,6 +2,7 @@
 layout: term
 title: cahil cesareti
 slug: cahil-cesareti
+letter: C
 lisan: Türkçe
 anlamlar:
 - Kişinin tecrübesi veya bilgisinin olmadığı herhangi bir konuda sonuçlarını düşünmeksizin eyleme geçmek için kendinde bulduğu güven

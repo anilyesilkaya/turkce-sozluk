@@ -2,6 +2,7 @@
 layout: term
 title: hamle etmek (veya yapmak)
 slug: hamle-etmek-veya-yapmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - atılmak, saldırmak

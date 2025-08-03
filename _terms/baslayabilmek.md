@@ -2,6 +2,7 @@
 layout: term
 title: başlayabilmek
 slug: baslayabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başlama ihtimali veya imkânı bulunmak

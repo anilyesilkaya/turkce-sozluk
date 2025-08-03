@@ -2,6 +2,7 @@
 layout: term
 title: çakır çukur
 slug: cakir-cukur
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Girintili çıkıntılı, pürüzlü olan

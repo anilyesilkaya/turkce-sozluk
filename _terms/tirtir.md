@@ -2,6 +2,7 @@
 layout: term
 title: tırtır
 slug: tirtir
+letter: T
 lisan: Türkçe
 anlamlar:
 - Zar kanatlılardan, uzun gövdeli, uzun duyargalı, kurtçuk evresini tarım bitkilerine zarar veren böcekler üzerinde geçiren bir tür böcek (Ichneumon)

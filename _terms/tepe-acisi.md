@@ -2,6 +2,7 @@
 layout: term
 title: tepe açısı
 slug: tepe-acisi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Eksenden dikey kesitte yumuşakça çenetlerinin uç kısmında oluşan açı

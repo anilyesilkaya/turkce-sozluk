@@ -2,6 +2,7 @@
 layout: term
 title: belediye polisi
 slug: belediye-polisi
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► belediye zabıtası

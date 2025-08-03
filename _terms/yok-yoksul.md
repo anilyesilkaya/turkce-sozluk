@@ -2,6 +2,7 @@
 layout: term
 title: yok yoksul
 slug: yok-yoksul
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Zengin olmayan; yoksul

@@ -2,6 +2,7 @@
 layout: term
 title: acıklı
 slug: acikli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Acındıracak, acı verecek nitelikte olan; elim, koygun, dramatik

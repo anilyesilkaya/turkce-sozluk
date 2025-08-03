@@ -2,6 +2,7 @@
 layout: term
 title: başfiyat
 slug: basfiyat
+letter: B
 lisan: Türkçe baş + Arapça fīʾāt
 anlamlar:
 - En iyi ürün için belirlenen fiyat

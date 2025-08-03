@@ -2,6 +2,7 @@
 layout: term
 title: dünya ahret kardeşim (veya bacım) (olsun)
 slug: dunya-ahret-kardesim-veya-bacim-olsun
+letter: D
 lisan: Türkçe
 anlamlar:
 - bir kişiye kardeşlik duygusundan başka bir gözle bakılmadığını anlatan bir söz

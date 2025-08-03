@@ -2,6 +2,7 @@
 layout: term
 title: şifreci
 slug: sifreci
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Metinleri şifreleyen kimse

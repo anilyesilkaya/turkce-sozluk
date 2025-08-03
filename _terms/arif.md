@@ -2,6 +2,7 @@
 layout: term
 title: arif
 slug: arif
+letter: A
 lisan: Arapça ʿārif
 anlamlar:
 - Çok anlayışlı ve sezgili (kimse)

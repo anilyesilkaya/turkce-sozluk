@@ -2,6 +2,7 @@
 layout: term
 title: patlatılmak
 slug: patlatilmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Patlatma işi yapılmak

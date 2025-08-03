@@ -2,6 +2,7 @@
 layout: term
 title: calip olmak
 slug: calip-olmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - üzerine çekmek

@@ -2,6 +2,7 @@
 layout: term
 title: buharlı ütü
 slug: buharli-utu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çıkardığı buharla çamaşırları kolayca ütüleyen araç

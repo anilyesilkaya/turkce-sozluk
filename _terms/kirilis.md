@@ -2,6 +2,7 @@
 layout: term
 title: kırılış
 slug: kirilis
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kırılmak işi

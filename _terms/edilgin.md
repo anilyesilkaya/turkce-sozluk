@@ -2,6 +2,7 @@
 layout: term
 title: edilgin
 slug: edilgin
+letter: E
 lisan: Türkçe
 anlamlar:
 - Hareketi ve etkisi olmayan; pasif

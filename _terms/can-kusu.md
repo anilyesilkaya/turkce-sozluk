@@ -2,6 +2,7 @@
 layout: term
 title: can kuşu
 slug: can-kusu
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► can

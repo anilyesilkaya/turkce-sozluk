@@ -2,6 +2,7 @@
 layout: term
 title: mesken tutmak
 slug: mesken-tutmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - yerleşmek

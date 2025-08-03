@@ -2,6 +2,7 @@
 layout: term
 title: uslu
 slug: uslu
+letter: U
 lisan: Türkçe
 anlamlar:
 - Toplumu, çevresini rahatsız etmeyen; edepli, terbiyeli, müeddep, yaramaz karşıtı

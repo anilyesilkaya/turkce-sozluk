@@ -2,6 +2,7 @@
 layout: term
 title: içine ateş düşmek
 slug: icine-ates-dusmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - büyük bir acı ve üzüntünün etkisi altına girmek

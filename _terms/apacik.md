@@ -2,6 +2,7 @@
 layout: term
 title: apaçık
 slug: apacik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Çok açık, çok belirgin

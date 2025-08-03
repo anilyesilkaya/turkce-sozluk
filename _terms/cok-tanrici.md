@@ -2,6 +2,7 @@
 layout: term
 title: çok tanrıcı
 slug: cok-tanrici
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çok tanrıcılık yanlısı (kimse); pagan, payen, politeist

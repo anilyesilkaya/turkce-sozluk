@@ -2,6 +2,7 @@
 layout: term
 title: lapa
 slug: lapa
+letter: L
 lisan: Rumca
 anlamlar:
 - Nişastalı tanelerin, su ile kaynatılarak bulamaç kıvamına getirilmiş durumu

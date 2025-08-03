@@ -2,6 +2,7 @@
 layout: term
 title: alüminli
 slug: aluminli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alümin içeren

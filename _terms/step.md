@@ -2,6 +2,7 @@
 layout: term
 title: step
 slug: step
+letter: S
 lisan: İngilizce step
 anlamlar:
 - Genelde müzik eşliğinde ritmik adımlarla yapılan bir egzersiz türü

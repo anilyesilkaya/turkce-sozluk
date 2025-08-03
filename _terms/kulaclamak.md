@@ -2,6 +2,7 @@
 layout: term
 title: kulaçlamak
 slug: kulaclamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaç kulaç olduğunu ölçmek

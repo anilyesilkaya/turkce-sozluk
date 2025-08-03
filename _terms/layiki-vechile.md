@@ -2,6 +2,7 @@
 layout: term
 title: 'layıkı veçhile '
 slug: layiki-vechile
+letter: L
 lisan: Türkçe
 anlamlar:
 - Gerektiği gibi, uygun biçimde

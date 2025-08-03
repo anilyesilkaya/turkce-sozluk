@@ -2,6 +2,7 @@
 layout: term
 title: buyur etmek
 slug: buyur-etmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - buyurun diyerek konuğu saygı ile içeri almak

@@ -2,6 +2,7 @@
 layout: term
 title: bezi herkesin arşınına göre vermezler
 slug: bezi-herkesin-arsinina-gore-vermezler
+letter: B
 lisan: Türkçe
 anlamlar:
 - '"genel kurallar kişilerin isteklerine göre değişmez" anlamında kullanılan bir söz'

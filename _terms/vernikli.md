@@ -2,6 +2,7 @@
 layout: term
 title: vernikli
 slug: vernikli
+letter: V
 lisan: Türkçe
 anlamlar:
 - Verniği olan

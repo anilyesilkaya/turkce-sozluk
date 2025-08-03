@@ -2,6 +2,7 @@
 layout: term
 title: cinnet getirmek
 slug: cinnet-getirmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - bir an için delilik belirtisi göstermek

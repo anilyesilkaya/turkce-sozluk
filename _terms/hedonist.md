@@ -2,6 +2,7 @@
 layout: term
 title: hedonist
 slug: hedonist
+letter: H
 lisan: Fransızca hédoniste
 anlamlar:
 - ► hazcı

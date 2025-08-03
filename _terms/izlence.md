@@ -2,6 +2,7 @@
 layout: term
 title: izlence
 slug: izlence
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► program

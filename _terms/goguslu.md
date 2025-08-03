@@ -2,6 +2,7 @@
 layout: term
 title: göğüslü
 slug: goguslu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Göğsü olan

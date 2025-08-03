@@ -2,6 +2,7 @@
 layout: term
 title: sıkı denetimci
 slug: siki-denetimci
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► sansürcü

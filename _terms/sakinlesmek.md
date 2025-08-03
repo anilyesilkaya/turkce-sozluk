@@ -2,6 +2,7 @@
 layout: term
 title: sakinleşmek
 slug: sakinlesmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Yatışmak, durgun duruma gelmek; durulmak (I)

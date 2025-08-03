@@ -2,6 +2,7 @@
 layout: term
 title: otopsi
 slug: otopsi
+letter: O
 lisan: Fransızca autopsie
 anlamlar:
 - Ölüm sebebini belirlemek amacıyla bir cesedi inceleme işi; ölü açımı

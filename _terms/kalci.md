@@ -2,6 +2,7 @@
 layout: term
 title: kalcı
 slug: kalci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kal işi yapan kimse

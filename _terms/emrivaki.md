@@ -2,6 +2,7 @@
 layout: term
 title: emrivaki
 slug: emrivaki
+letter: E
 lisan: Arapça emr + vāḳiʿ
 anlamlar:
 - ► oldubitti

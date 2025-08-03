@@ -2,6 +2,7 @@
 layout: term
 title: kolan
 slug: kolan
+letter: K
 lisan: Türkçe
 anlamlar:
 - At, eşek vb. hayvanların semerini veya eyerini bağlamak için göğsünden aşırılarak sıkılan yassı kemer

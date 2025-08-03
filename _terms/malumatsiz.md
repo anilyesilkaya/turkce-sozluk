@@ -2,6 +2,7 @@
 layout: term
 title: malumatsız
 slug: malumatsiz
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► bilgisiz

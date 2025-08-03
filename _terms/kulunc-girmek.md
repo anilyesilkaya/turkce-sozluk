@@ -2,6 +2,7 @@
 layout: term
 title: kulunç girmek
 slug: kulunc-girmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir organda veya vücut bölgesinde birdenbire veya şiddetli sancı oluşmak, tutulmak

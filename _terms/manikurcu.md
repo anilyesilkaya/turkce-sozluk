@@ -2,6 +2,7 @@
 layout: term
 title: manikürcü
 slug: manikurcu
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mesleği manikür yapmak olan kimse

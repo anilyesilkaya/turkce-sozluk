@@ -2,6 +2,7 @@
 layout: term
 title: boyutlandırış
 slug: boyutlandiris
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boyutlandırmak işi

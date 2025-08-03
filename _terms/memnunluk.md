@@ -2,6 +2,7 @@
 layout: term
 title: memnunluk
 slug: memnunluk
+letter: M
 lisan: Türkçe
 anlamlar:
 - Kıvanma, kıvanç

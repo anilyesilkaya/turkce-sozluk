@@ -2,6 +2,7 @@
 layout: term
 title: blokaj
 slug: blokaj
+letter: B
 lisan: Fransızca blocage
 anlamlar:
 - Bloke etme işi

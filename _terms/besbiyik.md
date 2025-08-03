@@ -2,6 +2,7 @@
 layout: term
 title: beşbıyık
 slug: besbiyik
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► muşmula

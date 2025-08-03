@@ -2,6 +2,7 @@
 layout: term
 title: nihayetinde
 slug: nihayetinde
+letter: N
 lisan: Türkçe
 anlamlar:
 - ► sonunda

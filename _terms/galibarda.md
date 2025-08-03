@@ -2,6 +2,7 @@
 layout: term
 title: galibarda
 slug: galibarda
+letter: G
 lisan: (Garibald özel adından)
 anlamlar:
 - Mora çalan kırmızı

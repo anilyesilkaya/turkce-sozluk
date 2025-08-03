@@ -2,6 +2,7 @@
 layout: term
 title: özendirilme
 slug: ozendirilme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Özendirilmek işi

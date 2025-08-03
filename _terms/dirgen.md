@@ -2,6 +2,7 @@
 layout: term
 title: dirgen
 slug: dirgen
+letter: D
 lisan: Rumca
 anlamlar:
 - Genellikle harmanda sapları yaymaya yarayan demirden, çatallı bir tarım aracı; çatal, diren

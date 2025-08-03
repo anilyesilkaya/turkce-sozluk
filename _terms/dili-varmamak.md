@@ -2,6 +2,7 @@
 layout: term
 title: dili varmamak
 slug: dili-varmamak
+letter: D
 lisan: Türkçe
 anlamlar:
 - bir sözü söylemeye gönlü razı olmamak

@@ -2,6 +2,7 @@
 layout: term
 title: yaya kalmak
 slug: yaya-kalmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - istediği şeyi yapamaz duruma gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: mizahçı
 slug: mizahci
+letter: M
 lisan: Türkçe
 anlamlar:
 - Gülmece sanatçısı

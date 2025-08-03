@@ -2,6 +2,7 @@
 layout: term
 title: bölümlemek
 slug: bolumlemek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Birçok şey arasında, birbirine eşit veya benzer olanları kümelere ayırmak; sınıflamak, tasnif etmek, tasniflemek

@@ -2,6 +2,7 @@
 layout: term
 title: iki kat olmak
 slug: iki-kat-olmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - iki büklüm olmak

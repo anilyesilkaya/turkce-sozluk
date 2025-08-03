@@ -2,6 +2,7 @@
 layout: term
 title: çekiştirilmek
 slug: cekistirilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çekiştirme işine konu olmak

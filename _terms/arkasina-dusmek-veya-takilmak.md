@@ -2,6 +2,7 @@
 layout: term
 title: arkasına düşmek (veya takılmak)
 slug: arkasina-dusmek-veya-takilmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir işi sona erdirmek için sıkı çalışmak

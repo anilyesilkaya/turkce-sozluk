@@ -2,6 +2,7 @@
 layout: term
 title: özendirmek
 slug: ozendirmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Özenmesini sağlamak; teşvik etmek

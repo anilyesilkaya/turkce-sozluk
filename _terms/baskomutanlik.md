@@ -2,6 +2,7 @@
 layout: term
 title: başkomutanlık
 slug: baskomutanlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başkomutan olma durumu; başkumandanlık, serdarlık

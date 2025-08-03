@@ -2,6 +2,7 @@
 layout: term
 title: dili sürçmek
 slug: dili-surcmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - konuşma sırasında kelimeleri yanlış söylemek

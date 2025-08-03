@@ -2,6 +2,7 @@
 layout: term
 title: say
 slug: say
+letter: S
 lisan: Türkçe
 anlamlar:
 - Düz, ince, yassı taş

@@ -2,6 +2,7 @@
 layout: term
 title: bestekâr
 slug: bestekar
+letter: B
 lisan: Farsça bestekâr
 anlamlar:
 - ► besteci

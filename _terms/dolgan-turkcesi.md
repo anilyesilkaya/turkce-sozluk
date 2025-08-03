@@ -2,6 +2,7 @@
 layout: term
 title: Dolgan Türkçesi
 slug: dolgan-turkcesi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dolgan Türklerinin kullandığı dil; Dolganca

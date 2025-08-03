@@ -2,6 +2,7 @@
 layout: term
 title: yek
 slug: yek
+letter: Y
 lisan: Farsça yek
 anlamlar:
 - ► bir

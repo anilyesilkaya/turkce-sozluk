@@ -2,6 +2,7 @@
 layout: term
 title: anlattırma
 slug: anlattirma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anlattırmak işi

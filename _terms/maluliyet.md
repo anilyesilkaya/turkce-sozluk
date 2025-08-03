@@ -2,6 +2,7 @@
 layout: term
 title: maluliyet
 slug: maluliyet
+letter: M
 lisan: Arapça maʿlūliyyet
 anlamlar:
 - ► sakatlık

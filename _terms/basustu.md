@@ -2,6 +2,7 @@
 layout: term
 title: başüstü
 slug: basustu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Geminin ön bölümünde çıpanın bulunduğu yer

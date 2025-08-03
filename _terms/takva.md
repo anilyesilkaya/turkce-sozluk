@@ -2,6 +2,7 @@
 layout: term
 title: takva
 slug: takva
+letter: T
 lisan: Arapça taḳvā
 anlamlar:
 - Allah korkusu ile onun yasakladığı şeylerden, günah ve haram olması ihtimali bulunan şüpheli durumlardan, gereksiz şeylerden korunma; züht

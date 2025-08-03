@@ -2,6 +2,7 @@
 layout: term
 title: dayılık
 slug: dayilik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dayı olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: ayol
 slug: ayol
+letter: A
 lisan: Türkçe
 anlamlar:
 - Genellikle kadınların kullandığı bir seslenme sözü

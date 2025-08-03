@@ -2,6 +2,7 @@
 layout: term
 title: yapağı
 slug: yapagi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - İlkbaharda kırkılan koyun tüyü; yapak

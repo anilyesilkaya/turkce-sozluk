@@ -2,6 +2,7 @@
 layout: term
 title: Tuva Türkçesi
 slug: tuva-turkcesi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tuva Türklerinin kullandığı konuşma ve yazı dili; Tuvaca

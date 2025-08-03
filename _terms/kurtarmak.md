@@ -2,6 +2,7 @@
 layout: term
 title: kurtarmak
 slug: kurtarmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir canlıyı bir felaketten, tehlikeden veya zor durumdan uzaklaştırmak

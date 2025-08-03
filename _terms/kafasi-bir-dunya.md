@@ -2,6 +2,7 @@
 layout: term
 title: kafası bir dünya
 slug: kafasi-bir-dunya
+letter: K
 lisan: Türkçe
 anlamlar:
 - çok sarhoş

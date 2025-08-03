@@ -2,6 +2,7 @@
 layout: term
 title: ardını kesmek
 slug: ardini-kesmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - arkasını getirmemek, son vermek

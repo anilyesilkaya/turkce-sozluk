@@ -2,6 +2,7 @@
 layout: term
 title: öğürtmek
 slug: ogurtmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öğürmesine yol açmak

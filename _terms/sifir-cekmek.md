@@ -2,6 +2,7 @@
 layout: term
 title: sıfır çekmek
 slug: sifir-cekmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - halter yarışmalarındaki silkme ve koparma dallarında belirlenen ağırlığı kaldıramayıp elenmek

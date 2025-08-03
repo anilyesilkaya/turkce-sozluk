@@ -2,6 +2,7 @@
 layout: term
 title: engizisyon
 slug: engizisyon
+letter: E
 lisan: Fransızca inquisition
 anlamlar:
 - Orta Çağ'da, Katoliklerde katı din inançlarına karşı gelenleri cezalandırma

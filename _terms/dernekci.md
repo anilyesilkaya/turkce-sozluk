@@ -2,6 +2,7 @@
 layout: term
 title: dernekçi
 slug: dernekci
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dernek üyesi olan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: sırık hamalı
 slug: sirik-hamali
+letter: S
 lisan: Türkçe
 anlamlar:
 - Taşınacak yükleri sırığa geçirerek omuzlarında taşıyan hamal

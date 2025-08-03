@@ -2,6 +2,7 @@
 layout: term
 title: hukuk
 slug: hukuk
+letter: H
 lisan: Arapça ḥuḳūḳ
 anlamlar:
 - Toplumu düzenleyen ve devletin yaptırım gücünü belirleyen yasaların bütünü; tüze

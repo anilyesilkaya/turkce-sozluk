@@ -2,6 +2,7 @@
 layout: term
 title: ciğeri sökülmek
 slug: cigeri-sokulmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - durmaksızın öğürmek

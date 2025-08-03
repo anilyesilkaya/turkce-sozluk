@@ -2,6 +2,7 @@
 layout: term
 title: kesik kesik
 slug: kesik-kesik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kısa olan

@@ -2,6 +2,7 @@
 layout: term
 title: fonlamak
 slug: fonlamak
+letter: F
 lisan: Türkçe
 anlamlar:
 - Bir yere fon oluşturmak

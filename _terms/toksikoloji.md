@@ -2,6 +2,7 @@
 layout: term
 title: toksikoloji
 slug: toksikoloji
+letter: T
 lisan: Fransızca toxicologie
 anlamlar:
 - Zehirle, onların organizmaya olan etkileriyle ve zehirlerin belirlenmesiyle uğraşan bilim dalı

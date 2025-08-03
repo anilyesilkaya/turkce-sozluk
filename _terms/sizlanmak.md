@@ -2,6 +2,7 @@
 layout: term
 title: sızlanmak
 slug: sizlanmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kendine yapılan bir haksızlığı, kendisini tedirgin eden bir durumu, çare bulması veya sadece sıkıntısına ortak olması için karşısındakine anlatmak; yakınmak (II), şikâyet etmek, şekva etmek, tazallüm etmek

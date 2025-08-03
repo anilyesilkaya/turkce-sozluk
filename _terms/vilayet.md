@@ -2,6 +2,7 @@
 layout: term
 title: vilayet
 slug: vilayet
+letter: V
 lisan: Arapça vilāyet
 anlamlar:
 - ► il

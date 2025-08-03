@@ -2,6 +2,7 @@
 layout: term
 title: yok olmak
 slug: yok-olmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ortadan kalkmak, kaybolmak

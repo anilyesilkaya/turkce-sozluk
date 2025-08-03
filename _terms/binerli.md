@@ -2,6 +2,7 @@
 layout: term
 title: binerli
 slug: binerli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Biner biner sıralanmış

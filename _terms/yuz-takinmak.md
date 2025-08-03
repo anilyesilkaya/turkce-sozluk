@@ -2,6 +2,7 @@
 layout: term
 title: yüz takınmak
 slug: yuz-takinmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yüze verilen biçimle bir duyguyu belirtmek

@@ -2,6 +2,7 @@
 layout: term
 title: çizgilenmek
 slug: cizgilenmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çizgi meydana gelmek

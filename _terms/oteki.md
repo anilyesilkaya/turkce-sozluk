@@ -2,6 +2,7 @@
 layout: term
 title: öteki
 slug: oteki
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Bilinenin, sözü edilenin dışında olan şey; öbürü, öbürkü

@@ -2,6 +2,7 @@
 layout: term
 title: nakavt olmak
 slug: nakavt-olmak
+letter: N
 lisan: Türkçe
 anlamlar:
 - nakavtla yenilmek

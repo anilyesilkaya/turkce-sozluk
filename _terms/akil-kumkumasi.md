@@ -2,6 +2,7 @@
 layout: term
 title: akıl kumkuması
 slug: akil-kumkumasi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Çokbilmiş kimse

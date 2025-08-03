@@ -2,6 +2,7 @@
 layout: term
 title: koruk
 slug: koruk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Henüz olgunlaşmamış ekşi üzüm

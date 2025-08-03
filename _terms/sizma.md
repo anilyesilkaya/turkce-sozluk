@@ -2,6 +2,7 @@
 layout: term
 title: sızma
 slug: sizma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sızmak işi

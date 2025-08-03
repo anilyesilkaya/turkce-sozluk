@@ -2,6 +2,7 @@
 layout: term
 title: deşilmek
 slug: desilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Deşme işi yapılmak

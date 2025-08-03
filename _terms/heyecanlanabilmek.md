@@ -2,6 +2,7 @@
 layout: term
 title: heyecanlanabilmek
 slug: heyecanlanabilmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - Heyecanlanma ihtimali veya imkânı bulunmak

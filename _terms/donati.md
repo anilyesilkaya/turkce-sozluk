@@ -2,6 +2,7 @@
 layout: term
 title: donatı
 slug: donati
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► teçhizat

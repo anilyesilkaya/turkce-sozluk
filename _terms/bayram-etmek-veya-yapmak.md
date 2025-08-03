@@ -2,6 +2,7 @@
 layout: term
 title: bayram etmek (veya yapmak)
 slug: bayram-etmek-veya-yapmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - çok sevinmek

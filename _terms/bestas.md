@@ -2,6 +2,7 @@
 layout: term
 title: beştaş
 slug: bestas
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beş adet taşla oynanan, havaya atılan bir adet taşın yere düşmeden yerdekilerin tek avuçla toplanmasına dayanan bir tür çocuk oyunu

@@ -2,6 +2,7 @@
 layout: term
 title: terbi
 slug: terbi
+letter: T
 lisan: Arapça terbīʿ
 anlamlar:
 - ► dördün

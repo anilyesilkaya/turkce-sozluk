@@ -2,6 +2,7 @@
 layout: term
 title: siftah
 slug: siftah
+letter: S
 lisan: Arapça istiftāḥ
 anlamlar:
 - İlk alışveriş

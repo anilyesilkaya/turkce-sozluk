@@ -2,6 +2,7 @@
 layout: term
 title: eder
 slug: eder
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► fiyat

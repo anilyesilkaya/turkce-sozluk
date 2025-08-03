@@ -2,6 +2,7 @@
 layout: term
 title: takke
 slug: takke
+letter: T
 lisan: Arapça ṭāḳiye
 anlamlar:
 - İnce kumaştan dikilmiş veya ipten örülmüş, çoğunlukla yarım küre biçiminde başlık

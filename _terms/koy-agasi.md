@@ -2,6 +2,7 @@
 layout: term
 title: köy ağası
 slug: koy-agasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Köyde malı, toprağı çok olan, sözü dinlenen kimse

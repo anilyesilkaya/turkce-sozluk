@@ -2,6 +2,7 @@
 layout: term
 title: ziraatçılık
 slug: ziraatcilik
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► tarımcılık

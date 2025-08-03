@@ -2,6 +2,7 @@
 layout: term
 title: müsademe
 slug: musademe
+letter: M
 lisan: Arapça muṣādeme
 anlamlar:
 - Silahlı iki grup arasındaki kısa çatışma, çarpışma

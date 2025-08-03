@@ -2,6 +2,7 @@
 layout: term
 title: formatsız
 slug: formatsiz
+letter: F
 lisan: Türkçe
 anlamlar:
 - Bilgisayarda kullanılabilir duruma getirilmemiş

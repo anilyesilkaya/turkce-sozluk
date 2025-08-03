@@ -2,6 +2,7 @@
 layout: term
 title: kasem
 slug: kasem
+letter: K
 lisan: Arapça ḳasem
 anlamlar:
 - ► ant

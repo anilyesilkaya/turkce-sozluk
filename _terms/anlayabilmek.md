@@ -2,6 +2,7 @@
 layout: term
 title: anlayabilmek
 slug: anlayabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anlama ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: hükümdarlık
 slug: hukumdarlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hükümdar olma durumu

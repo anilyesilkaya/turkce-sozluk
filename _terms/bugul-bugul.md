@@ -2,6 +2,7 @@
 layout: term
 title: buğul buğul
 slug: bugul-bugul
+letter: B
 lisan: Türkçe
 anlamlar:
 - Buğu oluşturan

@@ -2,6 +2,7 @@
 layout: term
 title: altıparmak
 slug: altiparmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayrı renkte altı yolu olan kumaş

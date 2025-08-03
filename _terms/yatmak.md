@@ -2,6 +2,7 @@
 layout: term
 title: yatmak
 slug: yatmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir yere veya bir şeyin üzerine boylu boyunca uzanmak

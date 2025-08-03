@@ -2,6 +2,7 @@
 layout: term
 title: çatır çatır
 slug: catir-catir
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Sert bir şey kırılırken, yanarken, yerinden sökülürken veya sıkıştırılırken çıkan ses; çatır çutur

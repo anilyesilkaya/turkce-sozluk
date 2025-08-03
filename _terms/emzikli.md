@@ -2,6 +2,7 @@
 layout: term
 title: emzikli
 slug: emzikli
+letter: E
 lisan: Türkçe
 anlamlar:
 - Emziği olan

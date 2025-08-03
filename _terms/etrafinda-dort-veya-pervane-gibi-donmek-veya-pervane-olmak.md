@@ -2,6 +2,7 @@
 layout: term
 title: etrafında dört (veya pervane gibi) dönmek (veya pervane olmak)
 slug: etrafinda-dort-veya-pervane-gibi-donmek-veya-pervane-olmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - isteğini elde etmek için birinin yanından ayrılmayıp gönlünü etmeye çalışmak

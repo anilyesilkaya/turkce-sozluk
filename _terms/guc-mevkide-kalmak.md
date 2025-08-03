@@ -2,6 +2,7 @@
 layout: term
 title: güç mevkide kalmak
 slug: guc-mevkide-kalmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - içinden çıkılması zor bir durumda bulunmak

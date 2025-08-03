@@ -2,6 +2,7 @@
 layout: term
 title: geyik muhabbeti
 slug: geyik-muhabbeti
+letter: G
 lisan: Türkçe
 anlamlar:
 - Yararsız, uzun uzadıya konuşma

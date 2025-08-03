@@ -2,6 +2,7 @@
 layout: term
 title: ensefal
 slug: ensefal
+letter: E
 lisan: Fransızca encéphale
 anlamlar:
 - ► beyin

@@ -2,6 +2,7 @@
 layout: term
 title: zaptiye
 slug: zaptiye
+letter: Z
 lisan: Arapça żabṭiyye
 anlamlar:
 - Osmanlı Devleti'nde toplum güvenliğini sağlamakla görevli askerî polis kuruluşu

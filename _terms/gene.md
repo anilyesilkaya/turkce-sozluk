@@ -2,6 +2,7 @@
 layout: term
 title: gene
 slug: gene
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► yine

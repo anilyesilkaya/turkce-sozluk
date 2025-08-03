@@ -2,6 +2,7 @@
 layout: term
 title: alem olmak
 slug: alem-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - simge olmak

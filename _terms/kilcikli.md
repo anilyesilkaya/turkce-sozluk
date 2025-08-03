@@ -2,6 +2,7 @@
 layout: term
 title: kılçıklı
 slug: kilcikli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kılçığı olan

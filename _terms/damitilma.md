@@ -2,6 +2,7 @@
 layout: term
 title: damıtılma
 slug: damitilma
+letter: D
 lisan: Türkçe
 anlamlar:
 - Damıtılmak işi

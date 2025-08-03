@@ -2,6 +2,7 @@
 layout: term
 title: dili dolaşmak
 slug: dili-dolasmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - korku, heyecan, hastalık, utangaçlık, sarhoşluk gibi sebeplerle şaşırarak söyleyeceğini karıştırmak

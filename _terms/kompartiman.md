@@ -2,6 +2,7 @@
 layout: term
 title: kompartıman
 slug: kompartiman
+letter: K
 lisan: Fransızca compartiment
 anlamlar:
 - Yolcu trenlerinde vagonların bölmelerle ayrılmış bölümlerinden her biri

@@ -2,6 +2,7 @@
 layout: term
 title: konmak
 slug: konmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Koyma işi yapılmak

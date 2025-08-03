@@ -2,6 +2,7 @@
 layout: term
 title: palyoş
 slug: palyos
+letter: P
 lisan: Macarca pallos
 anlamlar:
 - Kısa ve iki yanı keskin, düz kılıç

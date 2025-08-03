@@ -2,6 +2,7 @@
 layout: term
 title: göz gezdirmek
 slug: goz-gezdirmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - derinlemesine incelemeden okumak

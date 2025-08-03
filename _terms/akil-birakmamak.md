@@ -2,6 +2,7 @@
 layout: term
 title: akıl bırakmamak
 slug: akil-birakmamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - kafa karıştırmak

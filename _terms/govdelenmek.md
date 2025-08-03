@@ -2,6 +2,7 @@
 layout: term
 title: gövdelenmek
 slug: govdelenmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gövde oluşmak

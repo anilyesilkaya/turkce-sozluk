@@ -2,6 +2,7 @@
 layout: term
 title: sürrealite
 slug: surrealite
+letter: S
 lisan: Fransızca surréalité
 anlamlar:
 - ► gerçeküstü

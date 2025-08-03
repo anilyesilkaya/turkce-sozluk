@@ -2,6 +2,7 @@
 layout: term
 title: ucuz etin yahnisi yenmez
 slug: ucuz-etin-yahnisi-yenmez
+letter: U
 lisan: Türkçe
 anlamlar:
 - “ucuza alınan şeyler niteliksizdir” anlamında kullanılan bir söz

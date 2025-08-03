@@ -2,6 +2,7 @@
 layout: term
 title: fincan fincan
 slug: fincan-fincan
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fincanı andırarak, fincan biçiminde

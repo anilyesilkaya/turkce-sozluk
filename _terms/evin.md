@@ -2,6 +2,7 @@
 layout: term
 title: evin
 slug: evin
+letter: E
 lisan: Türkçe
 anlamlar:
 - Bir şeyin içindeki öz; lüp

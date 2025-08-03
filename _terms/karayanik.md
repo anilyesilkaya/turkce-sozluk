@@ -2,6 +2,7 @@
 layout: term
 title: karayanık
 slug: karayanik
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► şarbon

@@ -2,6 +2,7 @@
 layout: term
 title: ırz düşmanı
 slug: irz-dusmani
+letter: I
 lisan: Türkçe
 anlamlar:
 - Cinsel zevki için her türlü yasa ve töreyi çiğnemekten çekinmeyen kimse

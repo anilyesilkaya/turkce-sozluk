@@ -2,6 +2,7 @@
 layout: term
 title: bandajlamak
 slug: bandajlamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Sargı ile sarmak

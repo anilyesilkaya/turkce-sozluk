@@ -2,6 +2,7 @@
 layout: term
 title: kardeş değil kara taş
 slug: kardes-degil-kara-tas
+letter: K
 lisan: Türkçe
 anlamlar:
 - “kardeşliğin gereğini yerine getirmeyerek kötülükte bulunan kimse” anlamında kullanılan bir söz

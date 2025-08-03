@@ -2,6 +2,7 @@
 layout: term
 title: akıcı
 slug: akici
+letter: A
 lisan: Türkçe
 anlamlar:
 - Akma özelliği olan

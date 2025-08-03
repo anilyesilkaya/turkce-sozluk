@@ -2,6 +2,7 @@
 layout: term
 title: teke
 slug: teke
+letter: T
 lisan: Türkçe
 anlamlar:
 - Erkek keçi

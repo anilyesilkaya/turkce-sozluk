@@ -2,6 +2,7 @@
 layout: term
 title: tapışlamak
 slug: tapislamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► tapıklamak

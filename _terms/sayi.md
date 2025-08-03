@@ -2,6 +2,7 @@
 layout: term
 title: şayi
 slug: sayi
+letter: Ş
 lisan: Arapça şāyiʿ
 anlamlar:
 - Yaygın, yayılmış (söz veya haber)

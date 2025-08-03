@@ -2,6 +2,7 @@
 layout: term
 title: bal arısı
 slug: bal-arisi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Zar kanatlılardan, bal yapan bir tür eklem bacaklı (Apis mellifica)

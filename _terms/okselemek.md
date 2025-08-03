@@ -2,6 +2,7 @@
 layout: term
 title: ökselemek
 slug: okselemek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ökse ile yakalamak

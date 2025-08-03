@@ -2,6 +2,7 @@
 layout: term
 title: ciğersiz
 slug: cigersiz
+letter: C
 lisan: Türkçe
 anlamlar:
 - İçerisinde ciğer bulunmayan

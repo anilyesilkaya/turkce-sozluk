@@ -2,6 +2,7 @@
 layout: term
 title: tamu
 slug: tamu
+letter: T
 lisan: Soğdca
 anlamlar:
 - ► cehennem

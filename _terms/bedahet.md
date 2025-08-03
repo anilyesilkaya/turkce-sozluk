@@ -2,6 +2,7 @@
 layout: term
 title: bedahet
 slug: bedahet
+letter: B
 lisan: Arapça bedāhet
 anlamlar:
 - ► muayyenlik

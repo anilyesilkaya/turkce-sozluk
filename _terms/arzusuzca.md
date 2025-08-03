@@ -2,6 +2,7 @@
 layout: term
 title: arzusuzca
 slug: arzusuzca
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► isteksizce

@@ -2,6 +2,7 @@
 layout: term
 title: tezek
 slug: tezek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Yakıt olarak kullanılan kurutulmuş sığır dışkısı

@@ -2,6 +2,7 @@
 layout: term
 title: uçurum
 slug: ucurum
+letter: U
 lisan: Türkçe
 anlamlar:
 - Deniz, göl, ırmak vb. su kıyılarında veya karada dik yer; yar

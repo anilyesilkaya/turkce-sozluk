@@ -2,6 +2,7 @@
 layout: term
 title: paldım
 slug: paldim
+letter: P
 lisan: Farsça pāldum
 anlamlar:
 - Yük ve binek hayvanının, semer veya eyerinin ileri kaymasını önlemek için arka ayaklarının kaba etleri üzerinden geçirilen kayış

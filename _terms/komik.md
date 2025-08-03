@@ -2,6 +2,7 @@
 layout: term
 title: komik
 slug: komik
+letter: K
 lisan: Fransızca comique
 anlamlar:
 - Gülme duygusu uyandıran; güldürücü, gülünç

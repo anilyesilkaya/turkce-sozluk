@@ -2,6 +2,7 @@
 layout: term
 title: yalvarabilmek
 slug: yalvarabilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yalvarma ihtimali veya imkânı bulunmak

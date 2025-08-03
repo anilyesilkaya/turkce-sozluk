@@ -2,6 +2,7 @@
 layout: term
 title: kalınmak
 slug: kalinmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalma işi yapılmak

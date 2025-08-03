@@ -2,6 +2,7 @@
 layout: term
 title: uçkuruna sağlam olmak
 slug: uckuruna-saglam-olmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - cinsel isteklerin tutkunu olmamak, namuslu olmak

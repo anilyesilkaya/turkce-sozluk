@@ -2,6 +2,7 @@
 layout: term
 title: bezlemek
 slug: bezlemek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bez, kumaş vb. ile örtmek veya kaplamak

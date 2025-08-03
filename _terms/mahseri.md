@@ -2,6 +2,7 @@
 layout: term
 title: mahşerî
 slug: mahseri
+letter: M
 lisan: Arapça maḥşerī
 anlamlar:
 - Mahşeri andıran

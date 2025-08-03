@@ -2,6 +2,7 @@
 layout: term
 title: onlarca
 slug: onlarca
+letter: O
 lisan: Türkçe
 anlamlar:
 - Onlara göre, onların düşüncesince

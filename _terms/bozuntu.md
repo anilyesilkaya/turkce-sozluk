@@ -2,6 +2,7 @@
 layout: term
 title: bozuntu
 slug: bozuntu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bozulmuş bir şeyin kalan bölümleri; döküntü

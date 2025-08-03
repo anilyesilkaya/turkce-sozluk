@@ -2,6 +2,7 @@
 layout: term
 title: neşe
 slug: nese
+letter: N
 lisan: Arapça neşʾe
 anlamlar:
 - Mutlu olmaktan doğan ve dışa vurulan sevinç; şetaret

@@ -2,6 +2,7 @@
 layout: term
 title: aygın baygın
 slug: aygin-baygin
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► bitkin

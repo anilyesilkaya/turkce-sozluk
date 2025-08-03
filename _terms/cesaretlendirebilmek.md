@@ -2,6 +2,7 @@
 layout: term
 title: cesaretlendirebilmek
 slug: cesaretlendirebilmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cesaretlendirme ihtimali veya imkânı bulunmak

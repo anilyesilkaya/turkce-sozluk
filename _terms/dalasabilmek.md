@@ -2,6 +2,7 @@
 layout: term
 title: dalaşabilmek
 slug: dalasabilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dalaşma ihtimali veya imkânı bulunmak

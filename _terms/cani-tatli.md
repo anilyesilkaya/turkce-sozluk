@@ -2,6 +2,7 @@
 layout: term
 title: canı tatlı
 slug: cani-tatli
+letter: C
 lisan: Türkçe
 anlamlar:
 - Sıkıntıya ve acıya katlanmak istemeyen (kimse)

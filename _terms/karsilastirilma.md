@@ -2,6 +2,7 @@
 layout: term
 title: karşılaştırılma
 slug: karsilastirilma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karşılaştırılmak işi

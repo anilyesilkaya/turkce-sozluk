@@ -2,6 +2,7 @@
 layout: term
 title: sağ şerit
 slug: sag-serit
+letter: S
 lisan: Türkçe
 anlamlar:
 - Gidiş yönüne doğru yolun sağ tarafında yer alan, çizgilerle ayrılmış bölüm

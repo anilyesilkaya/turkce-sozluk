@@ -2,6 +2,7 @@
 layout: term
 title: mecra
 slug: mecra
+letter: M
 lisan: Arapça mecrā
 anlamlar:
 - ► yatak

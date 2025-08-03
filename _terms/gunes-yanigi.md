@@ -2,6 +2,7 @@
 layout: term
 title: güneş yanığı
 slug: gunes-yanigi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güneşte uzun süre ve korumasız olarak kalma sonucunda deride oluşan rahatsızlık

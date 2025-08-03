@@ -2,6 +2,7 @@
 layout: term
 title: üstüne kuma gelmek
 slug: ustune-kuma-gelmek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - kocası, başka bir kadın almak

@@ -2,6 +2,7 @@
 layout: term
 title: zangırdatmak
 slug: zangirdatmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zangırdamasına yol açmak; zıngırdatmak

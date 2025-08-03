@@ -2,6 +2,7 @@
 layout: term
 title: pis su
 slug: pis-su
+letter: P
 lisan: Türkçe
 anlamlar:
 - Kirlenmiş su

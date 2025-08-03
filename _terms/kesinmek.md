@@ -2,6 +2,7 @@
 layout: term
 title: kesinmek
 slug: kesinmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kesme işi yapılmak

@@ -2,6 +2,7 @@
 layout: term
 title: oyuncaklı
 slug: oyuncakli
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oyuncağı olan

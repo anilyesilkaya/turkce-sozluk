@@ -2,6 +2,7 @@
 layout: term
 title: tatsızlık
 slug: tatsizlik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tatsız olma durumu

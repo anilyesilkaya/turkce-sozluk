@@ -2,6 +2,7 @@
 layout: term
 title: cinlik yapmak (veya etmek)
 slug: cinlik-yapmak-veya-etmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - uyanıklık yapmak

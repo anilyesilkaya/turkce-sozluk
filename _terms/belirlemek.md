@@ -2,6 +2,7 @@
 layout: term
 title: belirlemek
 slug: belirlemek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belirli duruma getirmek, belirli kılmak; tayin etmek, tespit etmek, vermek

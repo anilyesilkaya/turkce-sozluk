@@ -2,6 +2,7 @@
 layout: term
 title: zoru olmak
 slug: zoru-olmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - kendisini zorlayan bir durumu, bir sıkıntısı olmak, sorunu bulunmak, güçlüğü olmak

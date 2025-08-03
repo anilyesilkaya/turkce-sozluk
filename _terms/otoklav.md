@@ -2,6 +2,7 @@
 layout: term
 title: otoklav
 slug: otoklav
+letter: O
 lisan: Fransızca autoclave
 anlamlar:
 - Vida ve cıvatalarla tutturulmuş basit bir kapağı olan, iç basınca dayanıklı kap

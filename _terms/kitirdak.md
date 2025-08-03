@@ -2,6 +2,7 @@
 layout: term
 title: kıtırdak
 slug: kitirdak
+letter: K
 lisan: Türkçe
 anlamlar:
 - '"Kıtır" diye ses çıkaran'

@@ -2,6 +2,7 @@
 layout: term
 title: koparılmak
 slug: koparilmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Koparma işi yapılmak

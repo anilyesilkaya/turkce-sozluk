@@ -2,6 +2,7 @@
 layout: term
 title: siber suçluluk
 slug: siber-sucluluk
+letter: S
 lisan: Türkçe
 anlamlar:
 - Siber suçlu olma durumu

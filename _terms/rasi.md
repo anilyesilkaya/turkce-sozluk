@@ -2,6 +2,7 @@
 layout: term
 title: raşi
 slug: rasi
+letter: R
 lisan: Arapça rāşī
 anlamlar:
 - Rüşvet veren kimse

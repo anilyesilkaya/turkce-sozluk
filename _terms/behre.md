@@ -2,6 +2,7 @@
 layout: term
 title: behre
 slug: behre
+letter: B
 lisan: Farsça behre
 anlamlar:
 - ► kısmet

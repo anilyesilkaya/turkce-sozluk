@@ -2,6 +2,7 @@
 layout: term
 title: çağrışma
 slug: cagrisma
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çağrışmak işi; çığrışma

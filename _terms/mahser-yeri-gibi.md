@@ -2,6 +2,7 @@
 layout: term
 title: mahşer yeri gibi
 slug: mahser-yeri-gibi
+letter: M
 lisan: Türkçe
 anlamlar:
 - çok kalabalık

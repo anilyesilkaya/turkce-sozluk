@@ -2,6 +2,7 @@
 layout: term
 title: sabahları
 slug: sabahlari
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sabah vaktinde

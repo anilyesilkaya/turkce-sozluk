@@ -2,6 +2,7 @@
 layout: term
 title: ne idiği belirsiz
 slug: ne-idigi-belirsiz
+letter: N
 lisan: Türkçe
 anlamlar:
 - ne olduğu, soyu sopu belirsiz

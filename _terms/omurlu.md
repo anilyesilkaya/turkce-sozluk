@@ -2,6 +2,7 @@
 layout: term
 title: ömürlü
 slug: omurlu
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ömrü uzun olan

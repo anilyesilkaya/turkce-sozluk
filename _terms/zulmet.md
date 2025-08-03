@@ -2,6 +2,7 @@
 layout: term
 title: zulmet
 slug: zulmet
+letter: Z
 lisan: Arapça ẓulmet
 anlamlar:
 - ► karanlık

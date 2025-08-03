@@ -2,6 +2,7 @@
 layout: term
 title: tüyü bitmedik yetim hakkı
 slug: tuyu-bitmedik-yetim-hakki
+letter: T
 lisan: Türkçe
 anlamlar:
 - bir yetimin dokunulması caiz olmayan varlığı

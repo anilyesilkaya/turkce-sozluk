@@ -2,6 +2,7 @@
 layout: term
 title: karaborsa
 slug: karaborsa
+letter: K
 lisan: Türkçe kara + İtalyanca borsa
 anlamlar:
 - Piyasada olmayan bir malın gizlice yüksek fiyatla alınıp satılması işi

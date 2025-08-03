@@ -2,6 +2,7 @@
 layout: term
 title: darağacına çekmek
 slug: daragacina-cekmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - idam cezası alan bir kimseyi asmak

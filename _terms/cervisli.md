@@ -2,6 +2,7 @@
 layout: term
 title: çervişli
 slug: cervisli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çervişi olan

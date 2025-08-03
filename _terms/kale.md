@@ -2,6 +2,7 @@
 layout: term
 title: Kale
 slug: kale
+letter: K
 lisan: Türkçe
 anlamlar:
 - Denizli iline bağlı ilçelerden biri

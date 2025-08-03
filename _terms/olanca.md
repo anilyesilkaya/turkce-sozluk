@@ -2,6 +2,7 @@
 layout: term
 title: olanca
 slug: olanca
+letter: O
 lisan: Türkçe
 anlamlar:
 - Bütün, elde bulunanın hepsi; son

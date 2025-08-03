@@ -2,6 +2,7 @@
 layout: term
 title: saçlı
 slug: sacli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Saçı olan

@@ -2,6 +2,7 @@
 layout: term
 title: buyrultu
 slug: buyrultu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Sadrazam, vezir, beylerbeyi vb. yüksek devlet görevlileri tarafından yazılan emir

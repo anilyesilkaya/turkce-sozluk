@@ -2,6 +2,7 @@
 layout: term
 title: himayecilik
 slug: himayecilik
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► korumacılık

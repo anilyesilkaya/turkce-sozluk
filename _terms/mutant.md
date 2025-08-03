@@ -2,6 +2,7 @@
 layout: term
 title: 'mutant '
 slug: mutant
+letter: M
 lisan: Fransızca mutante
 anlamlar:
 - Mutasyona uğramış birey veya hücre

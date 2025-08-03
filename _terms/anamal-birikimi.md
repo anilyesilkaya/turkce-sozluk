@@ -2,6 +2,7 @@
 layout: term
 title: anamal birikimi
 slug: anamal-birikimi
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► sermaye birikimi

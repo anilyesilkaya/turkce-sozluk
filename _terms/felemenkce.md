@@ -2,6 +2,7 @@
 layout: term
 title: Felemenkçe
 slug: felemenkce
+letter: F
 lisan: Türkçe
 anlamlar:
 - Felemenklerin kullandığı dil

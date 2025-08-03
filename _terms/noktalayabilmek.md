@@ -2,6 +2,7 @@
 layout: term
 title: noktalayabilmek
 slug: noktalayabilmek
+letter: N
 lisan: Türkçe
 anlamlar:
 - Noktalama ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: rasatçılık
 slug: rasatcilik
+letter: R
 lisan: Türkçe
 anlamlar:
 - ► gözlemcilik

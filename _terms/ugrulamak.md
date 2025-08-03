@@ -2,6 +2,7 @@
 layout: term
 title: uğrulamak
 slug: ugrulamak
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► çalmak

@@ -2,6 +2,7 @@
 layout: term
 title: başat
 slug: basat
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► baskın

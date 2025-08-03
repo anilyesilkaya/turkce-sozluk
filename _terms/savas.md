@@ -2,6 +2,7 @@
 layout: term
 title: savaş
 slug: savas
+letter: S
 lisan: Türkçe
 anlamlar:
 - Devletlerin diplomatik ilişkilerini keserek giriştikleri silahlı mücadele; harp (I), cenk, cidal, kıtal

@@ -2,6 +2,7 @@
 layout: term
 title: götürmek
 slug: goturmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Taşımak, ulaştırmak veya koymak

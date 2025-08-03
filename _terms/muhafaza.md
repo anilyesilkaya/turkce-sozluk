@@ -2,6 +2,7 @@
 layout: term
 title: muhafaza
 slug: muhafaza
+letter: M
 lisan: Arapça muḥāfaẓa
 anlamlar:
 - ► koruma

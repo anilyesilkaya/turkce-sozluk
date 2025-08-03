@@ -2,6 +2,7 @@
 layout: term
 title: addetme
 slug: addetme
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► sayma

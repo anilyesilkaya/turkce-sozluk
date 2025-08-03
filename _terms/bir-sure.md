@@ -2,6 +2,7 @@
 layout: term
 title: bir süre
 slug: bir-sure
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kısa bir müddet, bir müddet

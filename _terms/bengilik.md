@@ -2,6 +2,7 @@
 layout: term
 title: bengilik
 slug: bengilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Zamanla ilgisi, başlangıcı ve sonu olmayan varlık

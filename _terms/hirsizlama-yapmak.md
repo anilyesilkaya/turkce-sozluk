@@ -2,6 +2,7 @@
 layout: term
 title: hırsızlama yapmak
 slug: hirsizlama-yapmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - çalmak

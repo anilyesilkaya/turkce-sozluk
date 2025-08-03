@@ -2,6 +2,7 @@
 layout: term
 title: hidrolik
 slug: hidrolik
+letter: H
 lisan: Fransızca hydraulique
 anlamlar:
 - Su ile ilgili

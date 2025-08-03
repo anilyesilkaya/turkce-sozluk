@@ -2,6 +2,7 @@
 layout: term
 title: reji kolcusu
 slug: reji-kolcusu
+letter: R
 lisan: Türkçe
 anlamlar:
 - ► tütün kolcusu

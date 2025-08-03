@@ -2,6 +2,7 @@
 layout: term
 title: beş parasız kalmak
 slug: bes-parasiz-kalmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - harcayacak parası olmamak

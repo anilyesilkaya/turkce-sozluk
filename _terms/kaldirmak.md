@@ -2,6 +2,7 @@
 layout: term
 title: kaldırmak
 slug: kaldirmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bulunduğu yerden almak

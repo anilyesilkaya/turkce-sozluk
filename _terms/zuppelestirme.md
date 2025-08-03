@@ -2,6 +2,7 @@
 layout: term
 title: züppeleştirme
 slug: zuppelestirme
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Züppeleştirmek işi

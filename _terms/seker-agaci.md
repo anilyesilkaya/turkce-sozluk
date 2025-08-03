@@ -2,6 +2,7 @@
 layout: term
 title: şeker ağacı
 slug: seker-agaci
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Vatanı Doğu Asya olup Güneydoğu Anadolu'da da yetişen, yeşilimsi, beyaz çiçekli bir ağaç (Hovenia dulcis)

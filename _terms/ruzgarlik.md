@@ -2,6 +2,7 @@
 layout: term
 title: rüzgârlık
 slug: ruzgarlik
+letter: R
 lisan: Türkçe
 anlamlar:
 - Kapı üstlerine konulan eğik saçak biçimindeki örtme

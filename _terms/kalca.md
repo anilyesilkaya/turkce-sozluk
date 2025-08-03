@@ -2,6 +2,7 @@
 layout: term
 title: kalça
 slug: kalca
+letter: K
 lisan: Türkçe
 anlamlar:
 - Gövdenin arka bölümünde, bacakların birleştiği yerle bel arasındaki şişkin bölge; kaide

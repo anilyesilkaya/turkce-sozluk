@@ -2,6 +2,7 @@
 layout: term
 title: sekte
 slug: sekte
+letter: S
 lisan: Arapça sekte
 anlamlar:
 - Olmakta olan bir şeyin birdenbire durarak kesilmesi; durgu

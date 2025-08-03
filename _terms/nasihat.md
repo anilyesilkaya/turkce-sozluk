@@ -2,6 +2,7 @@
 layout: term
 title: nasihat
 slug: nasihat
+letter: N
 lisan: Arapça naṣīḥat
 anlamlar:
 - ► öğüt

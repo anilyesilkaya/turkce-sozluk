@@ -2,6 +2,7 @@
 layout: term
 title: nazar
 slug: nazar
+letter: N
 lisan: Arapça naẓar
 anlamlar:
 - Belli kimselerde bulunduğuna inanılan, kıskançlık veya hayranlıkla bakıldığında insanlara, eve, mala mülke hatta cansız nesnelere kötülük verdiğine inanılan uğursuzluk; göz

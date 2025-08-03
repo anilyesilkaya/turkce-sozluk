@@ -2,6 +2,7 @@
 layout: term
 title: amfibi
 slug: amfibi
+letter: A
 lisan: Fransızca amphibie
 anlamlar:
 - Karada olduğu gibi suda da kullanılabilen (araba, tank, uçak vb.); yüzergezer

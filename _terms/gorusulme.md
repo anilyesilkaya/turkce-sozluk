@@ -2,6 +2,7 @@
 layout: term
 title: görüşülme
 slug: gorusulme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Görüşülmek işi

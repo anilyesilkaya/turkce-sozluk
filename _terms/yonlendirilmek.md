@@ -2,6 +2,7 @@
 layout: term
 title: yönlendirilmek
 slug: yonlendirilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yönlendirme işi yapılmak

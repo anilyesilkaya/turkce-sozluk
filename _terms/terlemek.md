@@ -2,6 +2,7 @@
 layout: term
 title: terlemek
 slug: terlemek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Ter çıkarmak, ter dökmek

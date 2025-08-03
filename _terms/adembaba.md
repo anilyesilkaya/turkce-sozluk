@@ -2,6 +2,7 @@
 layout: term
 title: âdembaba
 slug: adembaba
+letter: Â
 lisan: Arapça ādem + Türkçe baba
 anlamlar:
 - Parasız, aç, en kötü durumdaki mahkûm

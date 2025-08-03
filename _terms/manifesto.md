@@ -2,6 +2,7 @@
 layout: term
 title: manifesto
 slug: manifesto
+letter: M
 lisan: İtalyanca manifesto
 anlamlar:
 - Bir gemideki malları göstermek için kaptan tarafından boşaltma işlemlerinin yapılacağı gümrük idaresine verilen liste

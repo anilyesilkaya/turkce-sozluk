@@ -2,6 +2,7 @@
 layout: term
 title: yolunda görünmek
 slug: yolunda-gorunmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - sorunsuz olduğu anlaşılmak

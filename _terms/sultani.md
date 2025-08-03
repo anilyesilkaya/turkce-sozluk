@@ -2,6 +2,7 @@
 layout: term
 title: sultani
 slug: sultani
+letter: S
 lisan: Arapça sulṭānī
 anlamlar:
 - Sultanlara yaraşan veya sultanlarla ilgili

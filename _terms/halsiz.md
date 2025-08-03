@@ -2,6 +2,7 @@
 layout: term
 title: hâlsiz
 slug: halsiz
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► takatsiz

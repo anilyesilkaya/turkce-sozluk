@@ -2,6 +2,7 @@
 layout: term
 title: yokluk
 slug: yokluk
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yok olma, bulunmama durumu; adem, ademiyet, fıkdan

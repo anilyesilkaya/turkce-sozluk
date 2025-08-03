@@ -2,6 +2,7 @@
 layout: term
 title: yığıntı
 slug: yiginti
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir araya yığılmış şeyler kümesi

@@ -2,6 +2,7 @@
 layout: term
 title: ayrıksılık
 slug: ayriksilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayrıksı olma durumu

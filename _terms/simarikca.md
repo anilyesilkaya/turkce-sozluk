@@ -2,6 +2,7 @@
 layout: term
 title: şımarıkça
 slug: simarikca
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şımarık bir biçimde

@@ -2,6 +2,7 @@
 layout: term
 title: teşhir
 slug: teshir
+letter: T
 lisan: Arapça teşhīr
 anlamlar:
 - ► gösterme

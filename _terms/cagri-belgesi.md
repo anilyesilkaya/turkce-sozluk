@@ -2,6 +2,7 @@
 layout: term
 title: çağrı belgesi
 slug: cagri-belgesi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Mahkeme tarafından dava edene, edilene veya tanıklara gönderilen belge; çağrı kâğıdı, celp, celp kâğıdı, celpname

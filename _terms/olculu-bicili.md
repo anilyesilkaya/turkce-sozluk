@@ -2,6 +2,7 @@
 layout: term
 title: ölçülü biçili
 slug: olculu-bicili
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Özenli bir biçimde hazırlanmış, iyice hesaplanmış

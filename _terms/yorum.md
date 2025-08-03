@@ -2,6 +2,7 @@
 layout: term
 title: yorum
 slug: yorum
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir yazının veya bir sözün, anlaşılması güç yönlerini açıklayarak aydınlığa kavuşturma; tefsir

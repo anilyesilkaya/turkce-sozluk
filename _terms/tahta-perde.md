@@ -2,6 +2,7 @@
 layout: term
 title: tahta perde
 slug: tahta-perde
+letter: T
 lisan: Türkçe
 anlamlar:
 - İki yeri birbirinden ayıran tahta duvar; tahta havale, taraba

@@ -2,6 +2,7 @@
 layout: term
 title: ayağına (veya ayaklarına) kapanmak
 slug: ayagina-veya-ayaklarina-kapanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - alçalırcasına yalvarmak

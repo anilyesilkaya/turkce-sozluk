@@ -2,6 +2,7 @@
 layout: term
 title: harap olmak
 slug: harap-olmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - harap duruma gelmek, haraplaşmak, perişan olmak

@@ -2,6 +2,7 @@
 layout: term
 title: babalanmak
 slug: babalanmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Babaları tutmak, çok öfkelenmek

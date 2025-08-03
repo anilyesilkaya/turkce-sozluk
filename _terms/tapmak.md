@@ -2,6 +2,7 @@
 layout: term
 title: tapmak
 slug: tapmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - İlah olarak tanınan varlığa karşı inancını ve bağlılığını belirli kurallar çerçevesinde göstermek

@@ -2,6 +2,7 @@
 layout: term
 title: hacet
 slug: hacet
+letter: H
 lisan: Arapça ḥācet
 anlamlar:
 - Herhangi bir şey için gerekli olma; ihtiyaç, gereklilik, lüzum

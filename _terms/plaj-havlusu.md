@@ -2,6 +2,7 @@
 layout: term
 title: plaj havlusu
 slug: plaj-havlusu
+letter: P
 lisan: Türkçe
 anlamlar:
 - Plaj, havuz vb. yerlerde yüzüldükten sonra kurulanmak için kullanılan havlu

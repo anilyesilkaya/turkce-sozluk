@@ -2,6 +2,7 @@
 layout: term
 title: araç durumu
 slug: arac-durumu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Adın belirttiği nesnenin vasıta olarak kullanıldığını gösteren, ile edatı veya ekleşmiş biçimiyle kurulan durum; vasıta hâli, enstrümantal

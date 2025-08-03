@@ -2,6 +2,7 @@
 layout: term
 title: ödemeli
 slug: odemeli
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Değeri ödendikten sonra alıcıya verilecek olan

@@ -2,6 +2,7 @@
 layout: term
 title: gök ekseni
 slug: gok-ekseni
+letter: G
 lisan: Türkçe
 anlamlar:
 - İki ucu sonsuza uzatılmış olarak düşünülen Dünya'nın dönme ekseni

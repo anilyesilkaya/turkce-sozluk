@@ -2,6 +2,7 @@
 layout: term
 title: pantoloncu
 slug: pantoloncu
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pantolon diken terzi

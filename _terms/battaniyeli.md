@@ -2,6 +2,7 @@
 layout: term
 title: battaniyeli
 slug: battaniyeli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Battaniyesi olan

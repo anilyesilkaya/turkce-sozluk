@@ -2,6 +2,7 @@
 layout: term
 title: portakallık
 slug: portakallik
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► portakal bahçesi

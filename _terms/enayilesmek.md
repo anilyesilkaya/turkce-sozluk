@@ -2,6 +2,7 @@
 layout: term
 title: enayileşmek
 slug: enayilesmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Enayi durumuna düşmek

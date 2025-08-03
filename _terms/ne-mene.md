@@ -2,6 +2,7 @@
 layout: term
 title: ne mene
 slug: ne-mene
+letter: N
 lisan: Türkçe
 anlamlar:
 - ne çeşit, ne türlü

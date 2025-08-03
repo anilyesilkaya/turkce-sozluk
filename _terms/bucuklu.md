@@ -2,6 +2,7 @@
 layout: term
 title: buçuklu
 slug: bucuklu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Tam olmayıp kesri bulunan

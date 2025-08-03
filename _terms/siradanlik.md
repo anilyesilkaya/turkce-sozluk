@@ -2,6 +2,7 @@
 layout: term
 title: sıradanlık
 slug: siradanlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► bayağılık

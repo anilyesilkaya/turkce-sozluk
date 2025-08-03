@@ -2,6 +2,7 @@
 layout: term
 title: marka
 slug: marka
+letter: M
 lisan: İtalyanca marca
 anlamlar:
 - Bir ticari malı, herhangi bir nesneyi tanıtmaya, benzerinden ayırmaya yarayan özel ad veya işaret; alametifarika

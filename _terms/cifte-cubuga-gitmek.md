@@ -2,6 +2,7 @@
 layout: term
 title: çifte çubuğa gitmek
 slug: cifte-cubuga-gitmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ekim ve biçim işleriyle uğraşmak

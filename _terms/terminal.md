@@ -2,6 +2,7 @@
 layout: term
 title: terminal
 slug: terminal
+letter: T
 lisan: Fransızca terminal
 anlamlar:
 - Otobüs, uçak vb. taşıtların yolcularını ilk aldığı veya son bıraktığı yer

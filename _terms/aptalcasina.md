@@ -2,6 +2,7 @@
 layout: term
 title: aptalcasına
 slug: aptalcasina
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► aptalca

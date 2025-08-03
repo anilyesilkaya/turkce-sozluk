@@ -2,6 +2,7 @@
 layout: term
 title: hayhuy
 slug: hayhuy
+letter: H
 lisan: Farsça hāy + hūy
 anlamlar:
 - Boş ve sonuçsuz iş veya çaba

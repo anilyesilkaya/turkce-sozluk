@@ -2,6 +2,7 @@
 layout: term
 title: mahzun
 slug: mahzun
+letter: M
 lisan: Arapça maḥzūn
 anlamlar:
 - ► üzgün

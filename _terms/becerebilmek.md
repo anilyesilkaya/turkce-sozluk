@@ -2,6 +2,7 @@
 layout: term
 title: becerebilmek
 slug: becerebilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Becerme ihtimali veya imkânı bulunmak

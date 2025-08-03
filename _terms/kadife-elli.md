@@ -2,6 +2,7 @@
 layout: term
 title: kadife elli
 slug: kadife-elli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sporda elini becerikli bir biçimde kullanabilen (kimse)

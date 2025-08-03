@@ -2,6 +2,7 @@
 layout: term
 title: ısınmak
 slug: isinmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - Sıcak duruma gelmek

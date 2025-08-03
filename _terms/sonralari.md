@@ -2,6 +2,7 @@
 layout: term
 title: sonraları
 slug: sonralari
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sonraki zamanlarda

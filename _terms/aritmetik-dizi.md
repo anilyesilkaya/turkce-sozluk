@@ -2,6 +2,7 @@
 layout: term
 title: aritmetik dizi
 slug: aritmetik-dizi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ardışık terimleri arasındaki fark değişmeyen dizi

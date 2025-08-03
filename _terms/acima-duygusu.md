@@ -2,6 +2,7 @@
 layout: term
 title: acıma duygusu
 slug: acima-duygusu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kişinin karşılaştığı üzücü herhangi bir durum üzerine acıma duyması; acıma hissi

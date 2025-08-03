@@ -2,6 +2,7 @@
 layout: term
 title: koltuklamak
 slug: koltuklamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Koltuğu altına almak

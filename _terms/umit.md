@@ -2,6 +2,7 @@
 layout: term
 title: ümit
 slug: umit
+letter: Ü
 lisan: Farsça umīd
 anlamlar:
 - ► umut

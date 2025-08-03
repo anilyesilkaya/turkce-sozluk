@@ -2,6 +2,7 @@
 layout: term
 title: yüce gönüllü
 slug: yuce-gonullu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Soylu, asil olan (kimse)

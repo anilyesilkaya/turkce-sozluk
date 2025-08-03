@@ -2,6 +2,7 @@
 layout: term
 title: davetçi
 slug: davetci
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çağrıda bulunan kimse; çağrıcı

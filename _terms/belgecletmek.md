@@ -2,6 +2,7 @@
 layout: term
 title: belgeçletmek
 slug: belgecletmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► belgegeçerletmek

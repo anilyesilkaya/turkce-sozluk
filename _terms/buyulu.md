@@ -2,6 +2,7 @@
 layout: term
 title: büyülü
 slug: buyulu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kendisine büyü yapılmış (kimse)

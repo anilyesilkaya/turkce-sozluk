@@ -2,6 +2,7 @@
 layout: term
 title: postiş
 slug: postis
+letter: P
 lisan: Fransızca postiche
 anlamlar:
 - Kadınların genellikle başlarının arkasına taktıkları ek saç

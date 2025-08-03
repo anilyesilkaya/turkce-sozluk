@@ -2,6 +2,7 @@
 layout: term
 title: iki cambaz bir ipte oynamaz
 slug: iki-cambaz-bir-ipte-oynamaz
+letter: I
 lisan: Türkçe
 anlamlar:
 - '"kurnazlıkta eşit olan iki kimse birbirlerini aldatamaz" anlamında kullanılan bir söz'

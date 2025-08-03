@@ -2,6 +2,7 @@
 layout: term
 title: sinematik
 slug: sinematik
+letter: S
 lisan: Fransızca cinématique
 anlamlar:
 - ► kinematik

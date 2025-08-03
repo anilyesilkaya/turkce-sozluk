@@ -2,6 +2,7 @@
 layout: term
 title: şeytan kulağına kurşun
 slug: seytan-kulagina-kursun
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - aksama ihtimali bulunan durum veya işler düzenli gittiğinde "nazar değmesin" anlamında söylenen bir söz

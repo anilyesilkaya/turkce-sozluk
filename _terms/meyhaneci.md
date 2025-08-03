@@ -2,6 +2,7 @@
 layout: term
 title: meyhaneci
 slug: meyhaneci
+letter: M
 lisan: Türkçe
 anlamlar:
 - Meyhane işleten kimse

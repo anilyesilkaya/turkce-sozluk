@@ -2,6 +2,7 @@
 layout: term
 title: seferber etmek
 slug: seferber-etmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - bir iş, bir amaç için bütün olanakları kullanmak

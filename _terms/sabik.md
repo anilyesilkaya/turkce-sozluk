@@ -2,6 +2,7 @@
 layout: term
 title: sabık
 slug: sabik
+letter: S
 lisan: Arapça sābiḳ
 anlamlar:
 - ► önceki

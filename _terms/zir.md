@@ -2,6 +2,7 @@
 layout: term
 title: zir
 slug: zir
+letter: Z
 lisan: Farsça
 anlamlar:
 - ► alt

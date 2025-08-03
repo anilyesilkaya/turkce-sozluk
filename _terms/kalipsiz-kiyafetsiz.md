@@ -2,6 +2,7 @@
 layout: term
 title: kalıpsız kıyafetsiz
 slug: kalipsiz-kiyafetsiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Gösterişsiz, bakımsız olan

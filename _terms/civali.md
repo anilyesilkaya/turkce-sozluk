@@ -2,6 +2,7 @@
 layout: term
 title: cıvalı
 slug: civali
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cıvası olan

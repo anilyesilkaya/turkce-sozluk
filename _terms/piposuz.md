@@ -2,6 +2,7 @@
 layout: term
 title: piposuz
 slug: piposuz
+letter: P
 lisan: Türkçe
 anlamlar:
 - Piposu olmayan

@@ -2,6 +2,7 @@
 layout: term
 title: piyazcı
 slug: piyazci
+letter: P
 lisan: Türkçe
 anlamlar:
 - Piyaz yapıp satan kimse

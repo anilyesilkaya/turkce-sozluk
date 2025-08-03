@@ -2,6 +2,7 @@
 layout: term
 title: Pınarbaşı
 slug: pinarbasi
+letter: P
 lisan: Türkçe
 anlamlar:
 - Kastamonu iline bağlı ilçelerden biri

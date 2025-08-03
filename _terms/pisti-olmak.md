@@ -2,6 +2,7 @@
 layout: term
 title: pişti olmak
 slug: pisti-olmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - bir ortamda birbirinden habersiz olarak aynı giyim kuşam içinde karşılaşmak

@@ -2,6 +2,7 @@
 layout: term
 title: mayalı
 slug: mayali
+letter: M
 lisan: Türkçe
 anlamlar:
 - İçine maya karıştırılmış

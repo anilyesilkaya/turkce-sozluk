@@ -2,6 +2,7 @@
 layout: term
 title: yapışkanlık
 slug: yapiskanlik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yapışkan olma durumu; lüzucet

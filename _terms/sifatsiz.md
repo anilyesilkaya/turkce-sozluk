@@ -2,6 +2,7 @@
 layout: term
 title: sıfatsız
 slug: sifatsiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Ünvanı, sıfatı olmayan

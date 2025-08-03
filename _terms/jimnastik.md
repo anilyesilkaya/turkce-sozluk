@@ -2,6 +2,7 @@
 layout: term
 title: jimnastik
 slug: jimnastik
+letter: J
 lisan: Fransızca gymnastique
 anlamlar:
 - Vücudu çevikleştirmek ve güçlendirmek için yapılan alıştırmaların tümü; kültürfizik

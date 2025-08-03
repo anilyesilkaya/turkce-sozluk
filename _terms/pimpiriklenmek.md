@@ -2,6 +2,7 @@
 layout: term
 title: pimpiriklenmek
 slug: pimpiriklenmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Bir şeyden kuşkulanmak

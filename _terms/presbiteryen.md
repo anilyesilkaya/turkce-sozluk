@@ -2,6 +2,7 @@
 layout: term
 title: presbiteryen
 slug: presbiteryen
+letter: P
 lisan: Fransızca presbytérien
 anlamlar:
 - Presbiteryenlikle ilgili

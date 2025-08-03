@@ -2,6 +2,7 @@
 layout: term
 title: atasözü
 slug: atasozu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Uzun deneme ve gözlemlere dayanılarak söylenmiş ve halka mal olmuş, öğüt verici nitelikte söz; deme, mesel, sav, darbımesel

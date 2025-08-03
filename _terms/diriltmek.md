@@ -2,6 +2,7 @@
 layout: term
 title: diriltmek
 slug: diriltmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dirilmesini sağlamak

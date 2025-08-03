@@ -2,6 +2,7 @@
 layout: term
 title: küşat
 slug: kusat
+letter: K
 lisan: Farsça guşād
 anlamlar:
 - ► açılış

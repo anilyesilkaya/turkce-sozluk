@@ -2,6 +2,7 @@
 layout: term
 title: emarecik
 slug: emarecik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ufak belirti

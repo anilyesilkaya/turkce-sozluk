@@ -2,6 +2,7 @@
 layout: term
 title: suçiçeği
 slug: sucicegi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Genellikle çocuklarda görülen döküntülü, bulaşıcı, salgın hastalık

@@ -2,6 +2,7 @@
 layout: term
 title: istifade etmek
 slug: istifade-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - yararlanmak

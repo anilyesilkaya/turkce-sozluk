@@ -2,6 +2,7 @@
 layout: term
 title: bir gülmedir almak (veya tutmak)
 slug: bir-gulmedir-almak-veya-tutmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - birdenbire gülmeye başlamak

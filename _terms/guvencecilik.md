@@ -2,6 +2,7 @@
 layout: term
 title: güvencecilik
 slug: guvencecilik
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► garantörlük

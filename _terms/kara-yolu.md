@@ -2,6 +2,7 @@
 layout: term
 title: kara yolu
 slug: kara-yolu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yerleşim merkezlerini birbirine karadan bağlayan yol

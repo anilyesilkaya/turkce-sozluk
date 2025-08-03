@@ -2,6 +2,7 @@
 layout: term
 title: kalay
 slug: kalay
+letter: K
 lisan: Türkçe
 anlamlar:
 - Atom numarası 50, atom ağırlığı 118,7, yoğunluğu 7,29 olan, 232 °C'de eriyen, gümüş beyazlığında, kolay işlenebilen, yumuşak bir element (simgesi Sn)

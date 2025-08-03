@@ -2,6 +2,7 @@
 layout: term
 title: ayrı düşmek
 slug: ayri-dusmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - birbirinden uzakta kalmak

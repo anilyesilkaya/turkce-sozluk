@@ -2,6 +2,7 @@
 layout: term
 title: çanaklık
 slug: canaklik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► vigla

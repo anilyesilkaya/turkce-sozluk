@@ -2,6 +2,7 @@
 layout: term
 title: İkizler
 slug: ikizler
+letter: İ
 lisan: Türkçe
 anlamlar:
 - ► İkizler Burcu

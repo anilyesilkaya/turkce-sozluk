@@ -2,6 +2,7 @@
 layout: term
 title: ihya etmek
 slug: ihya-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - canlandırmak

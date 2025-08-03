@@ -2,6 +2,7 @@
 layout: term
 title: sunu
 slug: sunu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sunulan şey

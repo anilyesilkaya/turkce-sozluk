@@ -2,6 +2,7 @@
 layout: term
 title: tıkımlanmak
 slug: tikimlanmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Eline geçeni çok çabuk yemek

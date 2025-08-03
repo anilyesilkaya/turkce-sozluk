@@ -2,6 +2,7 @@
 layout: term
 title: davaya bakmak
 slug: davaya-bakmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - açılan davayı incelemek, araştırmak ve sonuçlandırmak

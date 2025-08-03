@@ -2,6 +2,7 @@
 layout: term
 title: katar
 slug: katar
+letter: K
 lisan: Arapça ḳiṭār
 anlamlar:
 - ► tren

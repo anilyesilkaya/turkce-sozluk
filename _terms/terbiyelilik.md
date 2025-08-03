@@ -2,6 +2,7 @@
 layout: term
 title: terbiyelilik
 slug: terbiyelilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Terbiyeli olma durumu

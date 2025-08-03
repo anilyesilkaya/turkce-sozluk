@@ -2,6 +2,7 @@
 layout: term
 title: teleme
 slug: teleme
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► teleme peyniri

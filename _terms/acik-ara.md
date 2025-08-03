@@ -2,6 +2,7 @@
 layout: term
 title: açık ara
 slug: acik-ara
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aradaki farkı çok açarak

@@ -2,6 +2,7 @@
 layout: term
 title: lütfetmek
 slug: lutfetmek
+letter: L
 lisan: Arapça luṭf + Türkçe etmek
 anlamlar:
 - ► vermek

@@ -2,6 +2,7 @@
 layout: term
 title: külhanilik
 slug: kulhanilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Külhani olma durumu

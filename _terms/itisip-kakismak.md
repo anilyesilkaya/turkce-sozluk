@@ -2,6 +2,7 @@
 layout: term
 title: itişip kakışmak
 slug: itisip-kakismak
+letter: I
 lisan: Türkçe
 anlamlar:
 - birbirini itmek

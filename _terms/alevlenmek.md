@@ -2,6 +2,7 @@
 layout: term
 title: alevlenmek
 slug: alevlenmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yanmaya başlamak

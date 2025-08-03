@@ -2,6 +2,7 @@
 layout: term
 title: istihkâm
 slug: istihkam
+letter: I
 lisan: Arapça istiḥkām
 anlamlar:
 - Düşman saldırısını durdurmak, düşmana karşı savunma yapmak amacıyla düzenlenmiş yer

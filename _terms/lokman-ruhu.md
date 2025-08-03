@@ -2,6 +2,7 @@
 layout: term
 title: lokman ruhu
 slug: lokman-ruhu
+letter: L
 lisan: Türkçe
 anlamlar:
 - ► eter

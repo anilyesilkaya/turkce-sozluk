@@ -2,6 +2,7 @@
 layout: term
 title: konuşulmak
 slug: konusulmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Konuşma işine konu olmak

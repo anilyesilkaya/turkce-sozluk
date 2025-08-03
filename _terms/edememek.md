@@ -2,6 +2,7 @@
 layout: term
 title: edememek
 slug: edememek
+letter: E
 lisan: Türkçe
 anlamlar:
 - yapamamak, yapmadan duramamak

@@ -2,6 +2,7 @@
 layout: term
 title: kipkirli
 slug: kipkirli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çok kirli, çamura ve pisliğe bulaşmış

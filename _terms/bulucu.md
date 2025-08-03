@@ -2,6 +2,7 @@
 layout: term
 title: bulucu
 slug: bulucu
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► kâşif

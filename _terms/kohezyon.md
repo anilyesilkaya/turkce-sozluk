@@ -2,6 +2,7 @@
 layout: term
 title: kohezyon
 slug: kohezyon
+letter: K
 lisan: Fransızca cohésion
 anlamlar:
 - Moleküller arasındaki çekim kuvveti

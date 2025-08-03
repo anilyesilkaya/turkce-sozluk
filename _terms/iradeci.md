@@ -2,6 +2,7 @@
 layout: term
 title: iradeci
 slug: iradeci
+letter: I
 lisan: Türkçe
 anlamlar:
 - İradecilik yanlısı; istenççi, iradi, volontarist

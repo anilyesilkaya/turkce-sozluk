@@ -2,6 +2,7 @@
 layout: term
 title: regülasyon
 slug: regulasyon
+letter: R
 lisan: Fransızca régulation
 anlamlar:
 - ► ayarlama

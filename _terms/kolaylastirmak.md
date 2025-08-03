@@ -2,6 +2,7 @@
 layout: term
 title: kolaylaştırmak
 slug: kolaylastirmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kolay bir duruma getirmek, güçlükleri ortadan kaldırmak

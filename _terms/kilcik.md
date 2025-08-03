@@ -2,6 +2,7 @@
 layout: term
 title: kılçık
 slug: kilcik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Balıkların eti arasında bulunan diken gibi ince ve küçük kemik

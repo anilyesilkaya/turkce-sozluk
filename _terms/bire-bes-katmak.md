@@ -2,6 +2,7 @@
 layout: term
 title: bire beş katmak
 slug: bire-bes-katmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - çok abartmak

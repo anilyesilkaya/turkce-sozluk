@@ -2,6 +2,7 @@
 layout: term
 title: perdelenmek
 slug: perdelenmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Perdeleme işine konu olmak

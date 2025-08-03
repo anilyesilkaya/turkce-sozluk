@@ -2,6 +2,7 @@
 layout: term
 title: naklî
 slug: nakli
+letter: N
 lisan: Arapça naḳlī
 anlamlar:
 - Taşıma ile ilgili olan

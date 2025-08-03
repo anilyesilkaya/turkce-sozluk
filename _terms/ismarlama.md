@@ -2,6 +2,7 @@
 layout: term
 title: ısmarlama
 slug: ismarlama
+letter: I
 lisan: Türkçe
 anlamlar:
 - Ismarlamak işi; sipariş

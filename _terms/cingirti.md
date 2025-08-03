@@ -2,6 +2,7 @@
 layout: term
 title: çıngırtı
 slug: cingirti
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıngırağın sesine benzer keskin ve kesik sesin adı

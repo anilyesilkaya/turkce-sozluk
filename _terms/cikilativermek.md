@@ -2,6 +2,7 @@
 layout: term
 title: çıkılatıvermek
 slug: cikilativermek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çabucak çıkılatmak

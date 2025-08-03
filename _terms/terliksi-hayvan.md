@@ -2,6 +2,7 @@
 layout: term
 title: terliksi hayvan
 slug: terliksi-hayvan
+letter: T
 lisan: Türkçe
 anlamlar:
 - Durgun ve kirli sularda yaşayan, yassı gövdeli, kendinden küçük bakterileri yiyen tek hücreli hayvan (Paramaecium)

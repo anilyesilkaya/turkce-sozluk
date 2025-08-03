@@ -2,6 +2,7 @@
 layout: term
 title: sinemacı
 slug: sinemaci
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sinemanın çeşitli kollarından birinde çalışan kimse; filmci

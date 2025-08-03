@@ -2,6 +2,7 @@
 layout: term
 title: kuintet
 slug: kuintet
+letter: K
 lisan: Fransızca quintette
 anlamlar:
 - ► beşli

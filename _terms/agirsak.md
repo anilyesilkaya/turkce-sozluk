@@ -2,6 +2,7 @@
 layout: term
 title: ağırşak
 slug: agirsak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yün veya iplik eğrilen iği ağırlaştırmak için alt ucuna geçirilen yarım küre biçiminde, ortası delik ağaç veya kemik parça

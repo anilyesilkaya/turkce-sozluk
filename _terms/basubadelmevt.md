@@ -2,6 +2,7 @@
 layout: term
 title: basübadelmevt
 slug: basubadelmevt
+letter: B
 lisan: Arapça baʿs̱ + baʿde'l-mevt
 anlamlar:
 - ► diriliş

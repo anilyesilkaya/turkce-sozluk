@@ -2,6 +2,7 @@
 layout: term
 title: destar
 slug: destar
+letter: D
 lisan: Farsça destār
 anlamlar:
 - ► sarık

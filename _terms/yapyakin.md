@@ -2,6 +2,7 @@
 layout: term
 title: yapyakın
 slug: yapyakin
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Çok yakın

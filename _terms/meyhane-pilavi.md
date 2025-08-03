@@ -2,6 +2,7 @@
 layout: term
 title: meyhane pilavı
 slug: meyhane-pilavi
+letter: M
 lisan: Türkçe
 anlamlar:
 - Kıyma, soğan, biber ve domates kullanılarak bulgurdan yapılan bir pilav türü

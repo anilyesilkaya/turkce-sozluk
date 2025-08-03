@@ -2,6 +2,7 @@
 layout: term
 title: hatıl
 slug: hatil
+letter: H
 lisan: Arapça ḫaṭīl
 anlamlar:
 - Ağırlığı yatay olarak dağıtmak ve duvarların düşey doğrultudaki çatlamalarını önlemek için yatay olarak boydan boya yerleştirilen ahşap, tuğla veya beton bağlama ögesi

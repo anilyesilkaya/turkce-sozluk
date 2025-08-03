@@ -2,6 +2,7 @@
 layout: term
 title: cakalanmak
 slug: cakalanmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - Caka satmak

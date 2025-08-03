@@ -2,6 +2,7 @@
 layout: term
 title: olgunluk
 slug: olgunluk
+letter: O
 lisan: Türkçe
 anlamlar:
 - Meyvelerin olgun, yenilebilir olma durumu

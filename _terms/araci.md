@@ -2,6 +2,7 @@
 layout: term
 title: aracı
 slug: araci
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► uzlaştırıcı

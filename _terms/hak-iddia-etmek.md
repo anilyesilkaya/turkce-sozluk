@@ -2,6 +2,7 @@
 layout: term
 title: hak iddia etmek
 slug: hak-iddia-etmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - kendi hakkı olduğunu ileri sürmek

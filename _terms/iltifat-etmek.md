@@ -2,6 +2,7 @@
 layout: term
 title: iltifat etmek
 slug: iltifat-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - ilgilenmek, saygı göstermek

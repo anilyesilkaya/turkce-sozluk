@@ -2,6 +2,7 @@
 layout: term
 title: kuşkulu
 slug: kuskulu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kuşku duyan, kuşku içinde bulunan; huylu, şüpheli

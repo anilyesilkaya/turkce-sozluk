@@ -2,6 +2,7 @@
 layout: term
 title: malum
 slug: malum
+letter: M
 lisan: Arapça maʿlūm
 anlamlar:
 - Herkes tarafından bilinen, gizli olmayan, öğrenilmiş şey

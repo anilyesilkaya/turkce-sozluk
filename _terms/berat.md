@@ -2,6 +2,7 @@
 layout: term
 title: berat
 slug: berat
+letter: B
 lisan: Arapça berāt
 anlamlar:
 - ► buluş belgesi

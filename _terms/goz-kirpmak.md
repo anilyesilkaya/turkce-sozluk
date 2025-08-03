@@ -2,6 +2,7 @@
 layout: term
 title: göz kırpmak
 slug: goz-kirpmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - göz kapağını kapayıp açmak

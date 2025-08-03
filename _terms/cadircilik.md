@@ -2,6 +2,7 @@
 layout: term
 title: çadırcılık
 slug: cadircilik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çadırcının yaptığı iş

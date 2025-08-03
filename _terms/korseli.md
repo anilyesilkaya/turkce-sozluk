@@ -2,6 +2,7 @@
 layout: term
 title: korseli
 slug: korseli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Korsesi olan

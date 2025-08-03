@@ -2,6 +2,7 @@
 layout: term
 title: liva
 slug: liva
+letter: L
 lisan: Arapça livā
 anlamlar:
 - ► sancak

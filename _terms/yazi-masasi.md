@@ -2,6 +2,7 @@
 layout: term
 title: yazı masası
 slug: yazi-masasi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Üzerinde yazı yazılan, genellikle çekmeceli masa; yazıhane, büro

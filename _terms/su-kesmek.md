@@ -2,6 +2,7 @@
 layout: term
 title: su kesmek
 slug: su-kesmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - sulanmak

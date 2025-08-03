@@ -2,6 +2,7 @@
 layout: term
 title: yakalamak
 slug: yakalamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir kimseyi veya bir şeyi elle tutmak

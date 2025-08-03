@@ -2,6 +2,7 @@
 layout: term
 title: can gelmek
 slug: can-gelmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - canlanmak, güçlenmek

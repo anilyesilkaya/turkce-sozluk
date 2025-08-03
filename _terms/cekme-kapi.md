@@ -2,6 +2,7 @@
 layout: term
 title: çekme kapı
 slug: cekme-kapi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - İp veya başka malzemelerle çekilerek açılıp kapanan bir kapı türü

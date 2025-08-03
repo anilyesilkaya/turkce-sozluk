@@ -2,6 +2,7 @@
 layout: term
 title: Türkleşmek
 slug: turklesmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Türk olmak, Türk dilini ve Türklüğü benimsemek

@@ -2,6 +2,7 @@
 layout: term
 title: rom
 slug: rom
+letter: R
 lisan: İngilizce rum
 anlamlar:
 - Şeker kamışından şeker yapılırken elde edilen öz suyun, melasla mayalandırılarak kurutulmasıyla oluşturulan alkollü sert içki

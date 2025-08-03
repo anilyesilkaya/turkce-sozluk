@@ -2,6 +2,7 @@
 layout: term
 title: yengeçvari
 slug: yengecvari
+letter: Y
 lisan: Türkçe yengeç + Farsça -vārī
 anlamlar:
 - Yengeç yürüyüşüne benzer bir biçimde

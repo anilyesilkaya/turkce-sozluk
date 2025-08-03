@@ -2,6 +2,7 @@
 layout: term
 title: seher
 slug: seher
+letter: S
 lisan: Arapça seḥer
 anlamlar:
 - Sabahın güneş doğmadan önceki zamanı veya şafak sökmek üzere olan zaman; seher vakti

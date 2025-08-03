@@ -2,6 +2,7 @@
 layout: term
 title: zevahiri kurtarmak
 slug: zevahiri-kurtarmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - görünüşü kurtarmak, durumu toparlamak

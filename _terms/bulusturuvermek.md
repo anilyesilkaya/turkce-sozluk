@@ -2,6 +2,7 @@
 layout: term
 title: buluşturuvermek
 slug: bulusturuvermek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çabucak buluşturmak

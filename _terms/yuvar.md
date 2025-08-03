@@ -2,6 +2,7 @@
 layout: term
 title: yuvar
 slug: yuvar
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Organizmadaki kan, lenf, süt vb. sıvılarda bulunan, genellikle yuvarlak veya oval küçük cisim

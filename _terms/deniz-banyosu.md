@@ -2,6 +2,7 @@
 layout: term
 title: deniz banyosu
 slug: deniz-banyosu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Denize girip yüzme, yıkanma

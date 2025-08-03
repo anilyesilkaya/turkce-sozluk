@@ -2,6 +2,7 @@
 layout: term
 title: zehirsiz
 slug: zehirsiz
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zehri olmayan

@@ -2,6 +2,7 @@
 layout: term
 title: şömine
 slug: somine
+letter: Ş
 lisan: Fransızca cheminée
 anlamlar:
 - Odalarda, genellikle duvar kenarlarında tuğla veya taştan yapılmış, bacası olan yer; ocak

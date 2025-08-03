@@ -2,6 +2,7 @@
 layout: term
 title: kargaşasız
 slug: kargasasiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kargaşası olmayan

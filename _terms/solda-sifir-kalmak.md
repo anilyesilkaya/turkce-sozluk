@@ -2,6 +2,7 @@
 layout: term
 title: solda sıfır kalmak
 slug: solda-sifir-kalmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - anlamı olmamak, değersiz olmak

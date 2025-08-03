@@ -2,6 +2,7 @@
 layout: term
 title: anaç
 slug: anac
+letter: A
 lisan: Türkçe
 anlamlar:
 - Şefkatli, anne gibi davranan

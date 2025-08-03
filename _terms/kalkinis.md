@@ -2,6 +2,7 @@
 layout: term
 title: kalkınış
 slug: kalkinis
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalkınmak işi

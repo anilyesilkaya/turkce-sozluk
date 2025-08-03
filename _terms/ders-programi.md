@@ -2,6 +2,7 @@
 layout: term
 title: ders programı
 slug: ders-programi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Okullarda eğitim ve öğretim etkinliklerinin bir hafta içinde hangi gün ve saatlerde yapılacağını gösteren çizelge; program

@@ -2,6 +2,7 @@
 layout: term
 title: video
 slug: video
+letter: V
 lisan: İngilizce video
 anlamlar:
 - Manyetik bantlar üzerinde yer alan veya sayısal olarak derlenmiş hareketli resimler dizisi

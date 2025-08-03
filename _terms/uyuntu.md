@@ -2,6 +2,7 @@
 layout: term
 title: uyuntu
 slug: uyuntu
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► uyuşuk

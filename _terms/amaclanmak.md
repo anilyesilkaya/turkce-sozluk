@@ -2,6 +2,7 @@
 layout: term
 title: amaçlanmak
 slug: amaclanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Amaçlama işine konu olmak

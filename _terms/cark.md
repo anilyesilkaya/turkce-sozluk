@@ -2,6 +2,7 @@
 layout: term
 title: çark
 slug: cark
+letter: Ç
 lisan: Farsça çarḫ
 anlamlar:
 - Bir eksenin döndürdüğü tekerlek biçimindeki makine parçası

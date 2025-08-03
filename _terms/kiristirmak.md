@@ -2,6 +2,7 @@
 layout: term
 title: kırıştırmak
 slug: kiristirmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kırışmasına sebep olmak

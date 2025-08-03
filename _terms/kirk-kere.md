@@ -2,6 +2,7 @@
 layout: term
 title: kırk kere
 slug: kirk-kere
+letter: K
 lisan: Türkçe
 anlamlar:
 - Pek çok kez

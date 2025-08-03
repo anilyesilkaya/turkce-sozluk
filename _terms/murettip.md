@@ -2,6 +2,7 @@
 layout: term
 title: mürettip
 slug: murettip
+letter: M
 lisan: Arapça murettib
 anlamlar:
 - ► dizgici

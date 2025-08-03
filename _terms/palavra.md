@@ -2,6 +2,7 @@
 layout: term
 title: palavra
 slug: palavra
+letter: P
 lisan: İspanyolca palabra
 anlamlar:
 - Herhangi bir konuda gerçeğe aykırı, uydurma söz veya haber; balon, mavra

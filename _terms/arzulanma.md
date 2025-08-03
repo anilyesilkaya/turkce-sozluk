@@ -2,6 +2,7 @@
 layout: term
 title: arzulanma
 slug: arzulanma
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► istenme

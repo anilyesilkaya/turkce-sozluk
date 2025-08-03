@@ -2,6 +2,7 @@
 layout: term
 title: cilbent
 slug: cilbent
+letter: C
 lisan: Arapça cild + Farsça bend
 anlamlar:
 - Kâğıt, evrak, nota, plan vb.ni korumak ve saklamak için kullanılan, kapağın iç tarafında gözler bulunan, deriden yapılmış büyük dosya

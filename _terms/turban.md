@@ -2,6 +2,7 @@
 layout: term
 title: türban
 slug: turban
+letter: T
 lisan: Fransızca turban
 anlamlar:
 - İnce kumaştan yapılmış, başı sıkıca kavrayan bir tür başörtüsü

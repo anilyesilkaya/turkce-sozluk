@@ -2,6 +2,7 @@
 layout: term
 title: eğiticilik
 slug: egiticilik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eğitici olma durumu

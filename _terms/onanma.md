@@ -2,6 +2,7 @@
 layout: term
 title: onanma
 slug: onanma
+letter: O
 lisan: Türkçe
 anlamlar:
 - Onanmak işi

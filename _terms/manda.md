@@ -2,6 +2,7 @@
 layout: term
 title: manda
 slug: manda
+letter: M
 lisan: Fransızca mandat
 anlamlar:
 - Bir görevi emanet etme, vekâlet verme

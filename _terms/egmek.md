@@ -2,6 +2,7 @@
 layout: term
 title: eğmek
 slug: egmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Düz olan bir şeyi eğik duruma getirmek

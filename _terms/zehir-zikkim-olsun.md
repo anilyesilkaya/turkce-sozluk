@@ -2,6 +2,7 @@
 layout: term
 title: zehir zıkkım olsun
 slug: zehir-zikkim-olsun
+letter: Z
 lisan: Türkçe
 anlamlar:
 - nankörler için kullanılan bir ilenme sözü

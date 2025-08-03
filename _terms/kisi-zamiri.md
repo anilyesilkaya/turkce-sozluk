@@ -2,6 +2,7 @@
 layout: term
 title: kişi zamiri
 slug: kisi-zamiri
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kişi adlarının yerini tutan zamir; şahıs zamiri

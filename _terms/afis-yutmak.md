@@ -2,6 +2,7 @@
 layout: term
 title: afiş yutmak
 slug: afis-yutmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - yalana dolana kanmak

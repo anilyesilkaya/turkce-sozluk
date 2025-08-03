@@ -2,6 +2,7 @@
 layout: term
 title: jeotermi
 slug: jeotermi
+letter: J
 lisan: Fransızca géothermie
 anlamlar:
 - Yerkürede oluşan ısı olaylarının incelenmesi

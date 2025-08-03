@@ -2,6 +2,7 @@
 layout: term
 title: mambo
 slug: mambo
+letter: M
 lisan: Fransızca mambo
 anlamlar:
 - Haiti kökenli, hızlı ve hareketli, rumba ve çaçaçaya benzeyen bir dans

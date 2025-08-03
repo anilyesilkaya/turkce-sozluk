@@ -2,6 +2,7 @@
 layout: term
 title: züht
 slug: zuht
+letter: Z
 lisan: Arapça zuhd
 anlamlar:
 - ► takva

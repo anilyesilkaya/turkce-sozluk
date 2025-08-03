@@ -2,6 +2,7 @@
 layout: term
 title: çinekop
 slug: cinekop
+letter: Ç
 lisan: Türkçe çene + Rumca
 anlamlar:
 - Lüferin küçüğü (Temnodon altator)

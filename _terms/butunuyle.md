@@ -2,6 +2,7 @@
 layout: term
 title: bütünüyle
 slug: butunuyle
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► tamamen

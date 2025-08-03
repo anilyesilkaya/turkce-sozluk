@@ -2,6 +2,7 @@
 layout: term
 title: baretlik
 slug: baretlik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Baret konulan yer

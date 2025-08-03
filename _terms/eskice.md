@@ -2,6 +2,7 @@
 layout: term
 title: eskice
 slug: eskice
+letter: E
 lisan: Türkçe
 anlamlar:
 - Biraz eski, çok yeni olmayan

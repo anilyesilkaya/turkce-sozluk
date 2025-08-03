@@ -2,6 +2,7 @@
 layout: term
 title: sılacı
 slug: silaci
+letter: S
 lisan: Türkçe
 anlamlar:
 - Memleketine, doğup büyüdüğü yere dönerek yakınlarına kavuşan kimse

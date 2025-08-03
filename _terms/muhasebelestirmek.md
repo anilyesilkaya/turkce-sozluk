@@ -2,6 +2,7 @@
 layout: term
 title: muhasebeleştirmek
 slug: muhasebelestirmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - Hesapla ilgili verileri belli kurallar çerçevesinde kayıtlara almak işi

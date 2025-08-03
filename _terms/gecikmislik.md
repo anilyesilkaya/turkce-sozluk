@@ -2,6 +2,7 @@
 layout: term
 title: gecikmişlik
 slug: gecikmislik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gecikmiş olma durumu

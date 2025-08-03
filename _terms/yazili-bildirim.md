@@ -2,6 +2,7 @@
 layout: term
 title: yazılı bildirim
 slug: yazili-bildirim
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Herhangi resmî bir işlemin, ilgili kişiye yazılı olarak bildirilmesi

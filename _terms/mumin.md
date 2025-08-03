@@ -2,6 +2,7 @@
 layout: term
 title: mümin
 slug: mumin
+letter: M
 lisan: Arapça muʾmin
 anlamlar:
 - ► imanlı

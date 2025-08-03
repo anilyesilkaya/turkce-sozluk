@@ -2,6 +2,7 @@
 layout: term
 title: bürokrat
 slug: burokrat
+letter: B
 lisan: Fransızca bureaucrate
 anlamlar:
 - Devlet kurumlarında çalışan üst düzey yönetici

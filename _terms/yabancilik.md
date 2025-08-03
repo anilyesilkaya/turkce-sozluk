@@ -2,6 +2,7 @@
 layout: term
 title: yabancılık
 slug: yabancilik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yabancı olma durumu; bigânelik, ecnebilik

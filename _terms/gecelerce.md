@@ -2,6 +2,7 @@
 layout: term
 title: gecelerce
 slug: gecelerce
+letter: G
 lisan: Türkçe
 anlamlar:
 - Birçok gece, geceler boyu

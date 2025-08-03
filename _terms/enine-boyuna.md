@@ -2,6 +2,7 @@
 layout: term
 title: enine boyuna
 slug: enine-boyuna
+letter: E
 lisan: Türkçe
 anlamlar:
 - Gösterişli, iri yarı olan

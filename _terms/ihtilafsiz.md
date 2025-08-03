@@ -2,6 +2,7 @@
 layout: term
 title: ihtilafsız
 slug: ihtilafsiz
+letter: I
 lisan: Türkçe
 anlamlar:
 - Uyuşmazlığa sebep olmayan, anlaşmazlık konusu olmayan

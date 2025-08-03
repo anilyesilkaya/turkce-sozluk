@@ -2,6 +2,7 @@
 layout: term
 title: kırlangıç
 slug: kirlangic
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kırlangıçgillerden, geniş gagalı, çatal kuyruklu, ince uzun kanatlı, küçük göçebe kuş (Hirundo)

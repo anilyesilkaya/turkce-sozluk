@@ -2,6 +2,7 @@
 layout: term
 title: 'kapalı otopark '
 slug: kapali-otopark
+letter: K
 lisan: Türkçe
 anlamlar:
 - Apartman, alışveriş merkezi vb.nin bodrum katlarında, müstakil evlerin bahçelerinde otomobil vb. taşıtların konulduğu kapalı alan; kapalı garaj

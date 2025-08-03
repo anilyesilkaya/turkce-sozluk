@@ -2,6 +2,7 @@
 layout: term
 title: görülmek
 slug: gorulmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Göz yardımıyla bir şey, bir varlık algılanmak, seçilmek

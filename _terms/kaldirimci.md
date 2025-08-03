@@ -2,6 +2,7 @@
 layout: term
 title: kaldırımcı
 slug: kaldirimci
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kaldırım işçisi

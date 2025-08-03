@@ -2,6 +2,7 @@
 layout: term
 title: sürtük
 slug: surtuk
+letter: S
 lisan: Türkçe
 anlamlar:
 - Vaktini çok gezerek geçiren, evinde oturmayan kadın

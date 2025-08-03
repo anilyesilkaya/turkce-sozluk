@@ -2,6 +2,7 @@
 layout: term
 title: iş adamı
 slug: is-adami
+letter: I
 lisan: Türkçe
 anlamlar:
 - Kazanç sağlamak amacıyla ticaret veya sanayiye yatırım yapan kişi

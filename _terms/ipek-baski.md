@@ -2,6 +2,7 @@
 layout: term
 title: ipek baskı
 slug: ipek-baski
+letter: I
 lisan: Türkçe
 anlamlar:
 - Fotoğrafın ipek kumaş üzerine yansıtılması ve mürekkeple kâğıda bastırılması yöntemi

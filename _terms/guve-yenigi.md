@@ -2,6 +2,7 @@
 layout: term
 title: güve yeniği
 slug: guve-yenigi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Yünlü dokumada güvenin oluşturduğu delik

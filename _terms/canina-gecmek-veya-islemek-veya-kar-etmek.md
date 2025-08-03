@@ -2,6 +2,7 @@
 layout: term
 title: canına geçmek (veya işlemek veya kâr etmek)
 slug: canina-gecmek-veya-islemek-veya-kar-etmek
+letter: C
 lisan: Türkçe
 anlamlar:
 - çok etkilemek

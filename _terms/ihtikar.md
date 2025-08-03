@@ -2,6 +2,7 @@
 layout: term
 title: ihtikâr
 slug: ihtikar
+letter: I
 lisan: Arapça iḥtikār
 anlamlar:
 - ► vurgunculuk

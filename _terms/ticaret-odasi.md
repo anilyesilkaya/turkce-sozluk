@@ -2,6 +2,7 @@
 layout: term
 title: ticaret odası
 slug: ticaret-odasi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tüccarlar arasında dayanışmayı sağlamak, ortak sorunlarla uğraşmak, yabancı tüccarlarla ilişki kurmak, ortak çıkarları korumak için kanun ile kurulan tüzel kişiliğe sahip kurum

@@ -2,6 +2,7 @@
 layout: term
 title: kasacılık
 slug: kasacilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kasacının yaptığı iş

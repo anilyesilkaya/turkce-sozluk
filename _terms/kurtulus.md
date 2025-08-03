@@ -2,6 +2,7 @@
 layout: term
 title: kurtuluş
 slug: kurtulus
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir şeyden, bir yerden kurtulma; felah, halas, necat, reha

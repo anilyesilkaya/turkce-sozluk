@@ -2,6 +2,7 @@
 layout: term
 title: al gülüm ver gülüm
 slug: al-gulum-ver-gulum
+letter: A
 lisan: Türkçe
 anlamlar:
 - çıkar ilişkilerinde bazı sıkıntıları karşılıklı olarak görmezden gelme

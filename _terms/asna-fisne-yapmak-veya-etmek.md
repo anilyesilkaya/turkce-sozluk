@@ -2,6 +2,7 @@
 layout: term
 title: aşna fişne yapmak (veya etmek)
 slug: asna-fisne-yapmak-veya-etmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - oynaşlık etmek

@@ -2,6 +2,7 @@
 layout: term
 title: köle
 slug: kole
+letter: K
 lisan: Türkçe
 anlamlar:
 - Savaşta tutsak alınan, yabancı ülkelerden zorla kaçırılıp özgürlükten yoksun bırakılan veya başkasından satın alınan kimse; kul, bende, esir (I), memluk

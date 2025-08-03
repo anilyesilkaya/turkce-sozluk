@@ -2,6 +2,7 @@
 layout: term
 title: öteyi beriyi
 slug: oteyi-beriyi
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Çeşitli yerleri

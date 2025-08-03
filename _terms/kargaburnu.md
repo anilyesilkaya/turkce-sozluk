@@ -2,6 +2,7 @@
 layout: term
 title: kargaburnu
 slug: kargaburnu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Uçları karga gagası gibi kıvrık olan araçların ortak adı

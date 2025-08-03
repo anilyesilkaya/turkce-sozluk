@@ -2,6 +2,7 @@
 layout: term
 title: yalım yalım
 slug: yalim-yalim
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Alev alev, ateşten çıkan alevler biçiminde

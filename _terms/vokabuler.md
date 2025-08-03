@@ -2,6 +2,7 @@
 layout: term
 title: vokabüler
 slug: vokabuler
+letter: V
 lisan: Fransızca vocabulaire
 anlamlar:
 - ► söz varlığı

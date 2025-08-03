@@ -2,6 +2,7 @@
 layout: term
 title: kasılgan
 slug: kasilgan
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kasılma özelliği olan, kasılabilen (kas ve organik doku)

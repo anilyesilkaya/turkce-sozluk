@@ -2,6 +2,7 @@
 layout: term
 title: aklına takmak
 slug: aklina-takmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - sürekli olarak bir şeyi düşünmek, bir düşünceye saplanıp kalmak

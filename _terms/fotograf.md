@@ -2,6 +2,7 @@
 layout: term
 title: fotoğraf
 slug: fotograf
+letter: F
 lisan: Fransızca photographe
 anlamlar:
 - Çeşitli araç ve malzeme kullanarak görüntüyü özel bir yüzey üzerinde sabitleme

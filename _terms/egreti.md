@@ -2,6 +2,7 @@
 layout: term
 title: eğreti
 slug: egreti
+letter: E
 lisan: Türkçe
 anlamlar:
 - Belirli bir süre sonra kaldırılacak olan, bir şeyin yerine geçici olarak kullanılan

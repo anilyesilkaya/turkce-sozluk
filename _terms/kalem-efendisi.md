@@ -2,6 +2,7 @@
 layout: term
 title: kalem efendisi
 slug: kalem-efendisi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kalemde çalışan görevli yazman

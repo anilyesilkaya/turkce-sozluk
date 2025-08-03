@@ -2,6 +2,7 @@
 layout: term
 title: zıtlanmak
 slug: zitlanmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► zıtlaşmak

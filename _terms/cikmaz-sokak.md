@@ -2,6 +2,7 @@
 layout: term
 title: çıkmaz sokak
 slug: cikmaz-sokak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Girişi ve çıkışı aynı olan sokak

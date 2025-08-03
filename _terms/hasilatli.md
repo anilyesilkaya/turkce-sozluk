@@ -2,6 +2,7 @@
 layout: term
 title: hasılatlı
 slug: hasilatli
+letter: H
 lisan: Türkçe
 anlamlar:
 - Gelir getiren

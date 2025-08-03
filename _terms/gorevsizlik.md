@@ -2,6 +2,7 @@
 layout: term
 title: görevsizlik
 slug: gorevsizlik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Görevsiz olma durumu

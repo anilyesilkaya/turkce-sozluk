@@ -2,6 +2,7 @@
 layout: term
 title: uslamlama
 slug: uslamlama
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► usa vurma

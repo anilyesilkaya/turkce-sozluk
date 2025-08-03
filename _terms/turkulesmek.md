@@ -2,6 +2,7 @@
 layout: term
 title: türküleşmek
 slug: turkulesmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Türkü durumuna gelmek

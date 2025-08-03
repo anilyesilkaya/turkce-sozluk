@@ -2,6 +2,7 @@
 layout: term
 title: hükümlü
 slug: hukumlu
+letter: H
 lisan: Türkçe
 anlamlar:
 - Ceza hükmü verilmiş, hüküm giymiş; mahkûm

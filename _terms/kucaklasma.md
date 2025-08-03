@@ -2,6 +2,7 @@
 layout: term
 title: kucaklaşma
 slug: kucaklasma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kucaklaşmak işi; kuçuşma

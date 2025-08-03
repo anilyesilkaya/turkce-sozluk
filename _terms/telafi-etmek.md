@@ -2,6 +2,7 @@
 layout: term
 title: telafi etmek
 slug: telafi-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - ziyan olan veya elden çıkan bir şeyin yerini doldurmak, karşılamak

@@ -2,6 +2,7 @@
 layout: term
 title: cüce
 slug: cuce
+letter: C
 lisan: Türkçe
 anlamlar:
 - Boyu, normalden çok daha kısa olan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: sinerji
 slug: sinerji
+letter: S
 lisan: Fransızca synergie
 anlamlar:
 - ► artı güç

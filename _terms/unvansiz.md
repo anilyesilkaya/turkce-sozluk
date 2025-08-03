@@ -2,6 +2,7 @@
 layout: term
 title: ünvansız
 slug: unvansiz
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Ünvanı olmayan

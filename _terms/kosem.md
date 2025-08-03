@@ -2,6 +2,7 @@
 layout: term
 title: kösem
 slug: kosem
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kösemen

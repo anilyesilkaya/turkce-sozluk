@@ -2,6 +2,7 @@
 layout: term
 title: tutuşuvermek
 slug: tutusuvermek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Çabucak tutuşmak

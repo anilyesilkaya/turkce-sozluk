@@ -2,6 +2,7 @@
 layout: term
 title: yeri başka
 slug: yeri-baska
+letter: Y
 lisan: Türkçe
 anlamlar:
 - '"daha başka bir değeri olan, önemi olan" anlamında kullanılan bir söz'

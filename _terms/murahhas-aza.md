@@ -2,6 +2,7 @@
 layout: term
 title: murahhas aza
 slug: murahhas-aza
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► murahhas üye

@@ -2,6 +2,7 @@
 layout: term
 title: kör duman
 slug: kor-duman
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çok yoğun sis

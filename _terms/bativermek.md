@@ -2,6 +2,7 @@
 layout: term
 title: batıvermek
 slug: bativermek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Ansızın batmak

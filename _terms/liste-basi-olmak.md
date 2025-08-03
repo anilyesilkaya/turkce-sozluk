@@ -2,6 +2,7 @@
 layout: term
 title: liste başı olmak
 slug: liste-basi-olmak
+letter: L
 lisan: Türkçe
 anlamlar:
 - listenin ilk sırasında olmak

@@ -2,6 +2,7 @@
 layout: term
 title: kanamalı
 slug: kanamali
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kanaması olan

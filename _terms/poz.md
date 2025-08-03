@@ -2,6 +2,7 @@
 layout: term
 title: poz
 slug: poz
+letter: P
 lisan: Fransızca pose
 anlamlar:
 - Resim ve fotoğrafta duruş

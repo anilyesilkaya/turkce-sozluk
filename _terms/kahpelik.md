@@ -2,6 +2,7 @@
 layout: term
 title: kahpelik
 slug: kahpelik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kahpe olma durumu

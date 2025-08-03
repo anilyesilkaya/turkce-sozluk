@@ -2,6 +2,7 @@
 layout: term
 title: taht
 slug: taht
+letter: T
 lisan: Farsça taḫt
 anlamlar:
 - Hükümdarların oturduğu büyük, süslü koltuk

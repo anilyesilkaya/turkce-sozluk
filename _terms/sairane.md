@@ -2,6 +2,7 @@
 layout: term
 title: şairane
 slug: sairane
+letter: Ş
 lisan: Arapça şā ʿir + Farsça -āne
 anlamlar:
 - Şaire yakışır biçimde; ozanca

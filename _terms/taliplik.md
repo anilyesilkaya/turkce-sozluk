@@ -2,6 +2,7 @@
 layout: term
 title: taliplik
 slug: taliplik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Talip olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: elbise dolabı
 slug: elbise-dolabi
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► giysi dolabı

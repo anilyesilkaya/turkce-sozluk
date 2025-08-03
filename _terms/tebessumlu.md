@@ -2,6 +2,7 @@
 layout: term
 title: tebessümlü
 slug: tebessumlu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tebessüm eden, tebessümü olan

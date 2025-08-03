@@ -2,6 +2,7 @@
 layout: term
 title: beygir
 slug: beygir
+letter: B
 lisan: Farsça bārgīr
 anlamlar:
 - ► at

@@ -2,6 +2,7 @@
 layout: term
 title: levazımat
 slug: levazimat
+letter: L
 lisan: Arapça levāzimāt
 anlamlar:
 - Gerekenler, lazım olan şeyler

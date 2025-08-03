@@ -2,6 +2,7 @@
 layout: term
 title: dren
 slug: dren
+letter: D
 lisan: Fransızca drain
 anlamlar:
 - ► ark

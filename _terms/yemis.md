@@ -2,6 +2,7 @@
 layout: term
 title: yemiş
 slug: yemis
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► meyve

@@ -2,6 +2,7 @@
 layout: term
 title: Cenabıallah
 slug: cenabiallah
+letter: C
 lisan: Arapça cenāb + allah
 anlamlar:
 - ► Allah

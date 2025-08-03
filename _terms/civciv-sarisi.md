@@ -2,6 +2,7 @@
 layout: term
 title: civciv sarısı
 slug: civciv-sarisi
+letter: C
 lisan: Türkçe
 anlamlar:
 - Çok açık sarı

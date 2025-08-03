@@ -2,6 +2,7 @@
 layout: term
 title: humbarahane
 slug: humbarahane
+letter: H
 lisan: Farsça ḫumbere + ḫāne
 anlamlar:
 - Humbara yapılan fabrika; kumbarahane

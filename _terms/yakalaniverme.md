@@ -2,6 +2,7 @@
 layout: term
 title: yakalanıverme
 slug: yakalaniverme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yakalanıvermek işi

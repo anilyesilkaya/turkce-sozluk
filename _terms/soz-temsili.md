@@ -2,6 +2,7 @@
 layout: term
 title: söz temsili
 slug: soz-temsili
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► söz gelişi

@@ -2,6 +2,7 @@
 layout: term
 title: cücük
 slug: cucuk
+letter: C
 lisan: Türkçe
 anlamlar:
 - Soğan, patates, buğday vb.nin filizlenmesiyle ortaya çıkan küçük tomurcuk

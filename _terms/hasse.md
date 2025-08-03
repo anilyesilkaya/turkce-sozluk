@@ -2,6 +2,7 @@
 layout: term
 title: hasse
 slug: hasse
+letter: H
 lisan: Arapça ḫāṣṣa
 anlamlar:
 - Patiska cinsinden, patiskaya göre daha sık dokunmuş, kalın beyaz bez

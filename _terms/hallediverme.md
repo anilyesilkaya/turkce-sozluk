@@ -2,6 +2,7 @@
 layout: term
 title: hallediverme
 slug: hallediverme
+letter: H
 lisan: Türkçe
 anlamlar:
 - Halledivermek işi

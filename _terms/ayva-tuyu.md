@@ -2,6 +2,7 @@
 layout: term
 title: ayva tüyü
 slug: ayva-tuyu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Vücuttaki ince, sarı tüyler

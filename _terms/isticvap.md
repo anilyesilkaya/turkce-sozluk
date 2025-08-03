@@ -2,6 +2,7 @@
 layout: term
 title: isticvap
 slug: isticvap
+letter: I
 lisan: Arapça isticvāb
 anlamlar:
 - ► sorgulama

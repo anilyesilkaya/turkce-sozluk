@@ -2,6 +2,7 @@
 layout: term
 title: berbat
 slug: berbat
+letter: B
 lisan: Farsça berbād
 anlamlar:
 - ► kötü

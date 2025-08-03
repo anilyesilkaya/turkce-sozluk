@@ -2,6 +2,7 @@
 layout: term
 title: çalışma barışı
 slug: calisma-barisi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - İş huzuru

@@ -2,6 +2,7 @@
 layout: term
 title: bademcilik
 slug: bademcilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bademcinin yaptığı iş

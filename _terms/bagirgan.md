@@ -2,6 +2,7 @@
 layout: term
 title: bağırgan
 slug: bagirgan
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağırıp çağıran, tepkisini hemen ve sert bir biçimde dışa vuran

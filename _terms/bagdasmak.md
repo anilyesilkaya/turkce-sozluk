@@ -2,6 +2,7 @@
 layout: term
 title: bağdaşmak
 slug: bagdasmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► uymak

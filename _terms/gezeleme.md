@@ -2,6 +2,7 @@
 layout: term
 title: gezeleme
 slug: gezeleme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gezelemek işi

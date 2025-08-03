@@ -2,6 +2,7 @@
 layout: term
 title: kuvve
 slug: kuvve
+letter: K
 lisan: Arapça ḳuvve
 anlamlar:
 - Düşünce, niyet

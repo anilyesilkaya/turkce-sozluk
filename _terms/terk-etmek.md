@@ -2,6 +2,7 @@
 layout: term
 title: terk etmek
 slug: terk-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - ayrılmak

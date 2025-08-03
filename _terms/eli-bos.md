@@ -2,6 +2,7 @@
 layout: term
 title: eli boş
 slug: eli-bos
+letter: E
 lisan: Türkçe
 anlamlar:
 - İşi olmayan, boş gezen (kimse)

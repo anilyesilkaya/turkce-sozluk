@@ -2,6 +2,7 @@
 layout: term
 title: ezinti
 slug: ezinti
+letter: E
 lisan: Türkçe
 anlamlar:
 - Açlık etkisiyle midede duyulan tedirginlik

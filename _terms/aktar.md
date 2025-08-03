@@ -2,6 +2,7 @@
 layout: term
 title: aktar
 slug: aktar
+letter: A
 lisan: Arapça ʿaṭṭār
 anlamlar:
 - Baharat veya güzel kokular satan kimse veya dükkân

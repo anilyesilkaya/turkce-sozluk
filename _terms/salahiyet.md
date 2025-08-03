@@ -2,6 +2,7 @@
 layout: term
 title: salahiyet
 slug: salahiyet
+letter: S
 lisan: Arapça ṣalāḥiyyet
 anlamlar:
 - ► yetki

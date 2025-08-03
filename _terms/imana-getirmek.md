@@ -2,6 +2,7 @@
 layout: term
 title: imana getirmek
 slug: imana-getirmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Müslümanlığı kabul ettirmek

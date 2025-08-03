@@ -2,6 +2,7 @@
 layout: term
 title: zedesiz
 slug: zedesiz
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zedelenmemiş olan

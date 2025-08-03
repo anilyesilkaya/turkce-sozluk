@@ -2,6 +2,7 @@
 layout: term
 title: Acem gömleği
 slug: acem-gomlegi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Belden büzgülü, dizlere kadar inen, kalın kumaştan, düz koyu renkli bir tür gömlek

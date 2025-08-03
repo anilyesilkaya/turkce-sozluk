@@ -2,6 +2,7 @@
 layout: term
 title: hüzmeli
 slug: huzmeli
+letter: H
 lisan: Türkçe
 anlamlar:
 - Işık saçan

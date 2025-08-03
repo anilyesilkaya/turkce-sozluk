@@ -2,6 +2,7 @@
 layout: term
 title: gözde
 slug: gozde
+letter: G
 lisan: Türkçe
 anlamlar:
 - Benzerleri arasında nitelikleri sebebiyle üstün tutulan, beğenilen, önem verilen (kimse veya şey); favori

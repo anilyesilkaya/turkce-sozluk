@@ -2,6 +2,7 @@
 layout: term
 title: derhâl
 slug: derhal
+letter: D
 lisan: Farsça der + Arapça ḥāl
 anlamlar:
 - ► çabucak

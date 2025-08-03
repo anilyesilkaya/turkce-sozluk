@@ -2,6 +2,7 @@
 layout: term
 title: Cumhuriyet Bayramı
 slug: cumhuriyet-bayrami
+letter: C
 lisan: Türkçe
 anlamlar:
 - 29 Ekim 1923'te kurulan cumhuriyeti kutlamak üzere yasayla kabul edilmiş olan bayram; ulusal bayram, millî bayram

@@ -2,6 +2,7 @@
 layout: term
 title: şahsiyat
 slug: sahsiyat
+letter: Ş
 lisan: Arapça şaḫṣiyyāt
 anlamlar:
 - Kişiye ait işler

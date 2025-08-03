@@ -2,6 +2,7 @@
 layout: term
 title: altından girip üstünden çıkmak
 slug: altindan-girip-ustunden-cikmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - malı, parayı düşüncesizce harcayıp tüketmek

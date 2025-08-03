@@ -2,6 +2,7 @@
 layout: term
 title: melun
 slug: melun
+letter: M
 lisan: Arapça melʿūn
 anlamlar:
 - ► lanetli

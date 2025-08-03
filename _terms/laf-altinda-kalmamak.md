@@ -2,6 +2,7 @@
 layout: term
 title: laf altında kalmamak
 slug: laf-altinda-kalmamak
+letter: L
 lisan: Türkçe
 anlamlar:
 - söz altında kalmamak

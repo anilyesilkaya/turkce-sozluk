@@ -2,6 +2,7 @@
 layout: term
 title: paytaklaşmak
 slug: paytaklasmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - İki yana salınarak yürümek

@@ -2,6 +2,7 @@
 layout: term
 title: hayal gücü
 slug: hayal-gucu
+letter: H
 lisan: Türkçe
 anlamlar:
 - Zihnin hayal yaratma yetisi; muhayyile

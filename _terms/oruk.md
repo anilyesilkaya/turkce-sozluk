@@ -2,6 +2,7 @@
 layout: term
 title: örük
 slug: oruk
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Kendi ipiyle onarılmış kısım

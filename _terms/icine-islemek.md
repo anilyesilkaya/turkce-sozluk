@@ -2,6 +2,7 @@
 layout: term
 title: içine işlemek
 slug: icine-islemek
+letter: I
 lisan: Türkçe
 anlamlar:
 - duygulanmak, etkilenmek, dokunmak

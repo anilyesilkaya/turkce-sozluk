@@ -2,6 +2,7 @@
 layout: term
 title: şahit olmak
 slug: sahit-olmak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - tanık olmak

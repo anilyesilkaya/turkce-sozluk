@@ -2,6 +2,7 @@
 layout: term
 title: çözümleme
 slug: cozumleme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çözümlemek işi; analizleme, tahlil

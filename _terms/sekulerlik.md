@@ -2,6 +2,7 @@
 layout: term
 title: sekülerlik
 slug: sekulerlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Seküler olma durumu

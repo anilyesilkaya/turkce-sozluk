@@ -2,6 +2,7 @@
 layout: term
 title: 'öfke yumağı '
 slug: ofke-yumagi
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Aşırı öfke birikimi

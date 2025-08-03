@@ -2,6 +2,7 @@
 layout: term
 title: burukluk
 slug: burukluk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Buruk olma durumu

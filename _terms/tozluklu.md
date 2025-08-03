@@ -2,6 +2,7 @@
 layout: term
 title: tozluklu
 slug: tozluklu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Üzerinde tozluk bulunan

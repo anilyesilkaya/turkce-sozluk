@@ -2,6 +2,7 @@
 layout: term
 title: kaldırımlı
 slug: kaldirimli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaldırımı olan

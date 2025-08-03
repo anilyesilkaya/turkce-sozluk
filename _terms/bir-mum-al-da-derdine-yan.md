@@ -2,6 +2,7 @@
 layout: term
 title: bir mum al da derdine yan
 slug: bir-mum-al-da-derdine-yan
+letter: B
 lisan: Türkçe
 anlamlar:
 - '"başkalarıyla uğraşacağına kendi durumunu düşün" anlamında kullanılan bir söz'

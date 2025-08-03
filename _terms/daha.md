@@ -2,6 +2,7 @@
 layout: term
 title: daha
 slug: daha
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► henüz

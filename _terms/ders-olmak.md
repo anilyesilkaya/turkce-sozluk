@@ -2,6 +2,7 @@
 layout: term
 title: ders olmak
 slug: ders-olmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - kötü bir olay bir daha yapmamak üzere örnek olmak, ibret olmak

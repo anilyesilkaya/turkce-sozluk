@@ -2,6 +2,7 @@
 layout: term
 title: remil atmak (veya dökmek)
 slug: remil-atmak-veya-dokmek
+letter: R
 lisan: Türkçe
 anlamlar:
 - kumda birtakım çizgiler çizerek fala bakmak

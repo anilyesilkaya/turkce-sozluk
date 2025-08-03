@@ -2,6 +2,7 @@
 layout: term
 title: bağıt
 slug: bagit
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► sözleşme

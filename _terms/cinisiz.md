@@ -2,6 +2,7 @@
 layout: term
 title: çinisiz
 slug: cinisiz
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çinisi olmayan

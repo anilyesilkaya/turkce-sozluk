@@ -2,6 +2,7 @@
 layout: term
 title: cücüklenme
 slug: cucuklenme
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cücüklenmek işi

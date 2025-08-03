@@ -2,6 +2,7 @@
 layout: term
 title: zorluk
 slug: zorluk
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Sıkıntı veya güçlükle yapılma durumu, zor olma; güçlük, müşkül

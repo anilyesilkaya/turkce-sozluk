@@ -2,6 +2,7 @@
 layout: term
 title: laf
 slug: laf
+letter: L
 lisan: Farsça lāf
 anlamlar:
 - ► söz

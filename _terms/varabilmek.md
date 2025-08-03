@@ -2,6 +2,7 @@
 layout: term
 title: varabilmek
 slug: varabilmek
+letter: V
 lisan: Türkçe
 anlamlar:
 - Varma ihtimali veya imkânı bulunmak

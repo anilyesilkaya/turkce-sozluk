@@ -2,6 +2,7 @@
 layout: term
 title: öngörmek
 slug: ongormek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Bir işin ilerisini kestirmek veya bir işin nasıl bir yol alacağını önceden anlayabilmek ve ona göre davranmak

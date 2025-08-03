@@ -2,6 +2,7 @@
 layout: term
 title: etkinlik
 slug: etkinlik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Etkin olma durumu; aktiflik, faallik

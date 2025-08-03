@@ -2,6 +2,7 @@
 layout: term
 title: elektronik posta
 slug: elektronik-posta
+letter: E
 lisan: Türkçe
 anlamlar:
 - Her türlü bilgisayar, tablet ve cep telefonunda okunup yazılabilmesi için özel olarak elektronik ortamda üretilmiş posta; elektronik ileti, elmek, e-posta

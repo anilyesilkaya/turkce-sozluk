@@ -2,6 +2,7 @@
 layout: term
 title: azimsizlik
 slug: azimsizlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Azimsiz olma durumu

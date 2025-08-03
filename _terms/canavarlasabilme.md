@@ -2,6 +2,7 @@
 layout: term
 title: canavarlaşabilme
 slug: canavarlasabilme
+letter: C
 lisan: Türkçe
 anlamlar:
 - Canavarlaşabilmek işi

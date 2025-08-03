@@ -2,6 +2,7 @@
 layout: term
 title: alık salık
 slug: alik-salik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► alıkça

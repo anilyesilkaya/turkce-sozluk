@@ -2,6 +2,7 @@
 layout: term
 title: kalantor
 slug: kalantor
+letter: K
 lisan: İtalyanca galantuomo
 anlamlar:
 - Gösterişi seven, varlıklı kimse

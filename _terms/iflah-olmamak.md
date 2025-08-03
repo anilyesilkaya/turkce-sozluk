@@ -2,6 +2,7 @@
 layout: term
 title: iflah olmamak
 slug: iflah-olmamak
+letter: I
 lisan: Türkçe
 anlamlar:
 - onmamak, düzelmemek

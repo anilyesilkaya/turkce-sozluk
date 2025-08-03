@@ -2,6 +2,7 @@
 layout: term
 title: tekke
 slug: tekke
+letter: T
 lisan: Arapça tekye
 anlamlar:
 - Tarikattan olanların barındıkları, ibadet ve tören yaptıkları yer; dergâh

@@ -2,6 +2,7 @@
 layout: term
 title: aleyhtarlık
 slug: aleyhtarlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aleyhtar olma durumu; karşıtçılık

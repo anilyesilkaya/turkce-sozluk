@@ -2,6 +2,7 @@
 layout: term
 title: reform
 slug: reform
+letter: R
 lisan: Fransızca réforme
 anlamlar:
 - ► düzeltme

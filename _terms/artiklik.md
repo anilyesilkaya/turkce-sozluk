@@ -2,6 +2,7 @@
 layout: term
 title: artıklık
 slug: artiklik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Artık olma durumu

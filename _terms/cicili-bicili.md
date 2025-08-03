@@ -2,6 +2,7 @@
 layout: term
 title: cicili bicili
 slug: cicili-bicili
+letter: C
 lisan: Türkçe
 anlamlar:
 - Göze çarpan süslerle bezenmiş; şinanay

@@ -2,6 +2,7 @@
 layout: term
 title: münakaşa etmek
 slug: munakasa-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - tartışmak

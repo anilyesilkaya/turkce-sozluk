@@ -2,6 +2,7 @@
 layout: term
 title: günü dolmak
 slug: gunu-dolmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - önceden belirlenmiş bir süreyi tamamlamak

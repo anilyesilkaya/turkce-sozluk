@@ -2,6 +2,7 @@
 layout: term
 title: anatomi
 slug: anatomi
+letter: A
 lisan: Fransızca anatomie
 anlamlar:
 - İnsan, hayvan ve bitkilerin yapısını ve organlarının birbiriyle olan ilgilerini inceleyen bilim; teşrih

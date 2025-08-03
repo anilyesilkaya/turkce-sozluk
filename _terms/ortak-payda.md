@@ -2,6 +2,7 @@
 layout: term
 title: ortak payda
 slug: ortak-payda
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► asgari müşterek

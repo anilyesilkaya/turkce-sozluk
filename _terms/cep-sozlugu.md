@@ -2,6 +2,7 @@
 layout: term
 title: cep sözlüğü
 slug: cep-sozlugu
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cepte taşınabilecek ve günlük gereksinime cevap verebilecek nitelikte küçük sözlük

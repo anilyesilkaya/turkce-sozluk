@@ -2,6 +2,7 @@
 layout: term
 title: aslına çekmek
 slug: aslina-cekmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - soyunun özelliklerini taşımak

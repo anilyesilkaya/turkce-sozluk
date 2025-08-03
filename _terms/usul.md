@@ -2,6 +2,7 @@
 layout: term
 title: usul
 slug: usul
+letter: U
 lisan: Türkçe
 anlamlar:
 - Alçak sesle; usulca, usulcacık, usuldan

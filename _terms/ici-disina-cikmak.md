@@ -2,6 +2,7 @@
 layout: term
 title: içi dışına çıkmak
 slug: ici-disina-cikmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - kusmak

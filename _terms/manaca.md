@@ -2,6 +2,7 @@
 layout: term
 title: manaca
 slug: manaca
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► anlamca

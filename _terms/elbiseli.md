@@ -2,6 +2,7 @@
 layout: term
 title: elbiseli
 slug: elbiseli
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► giysili

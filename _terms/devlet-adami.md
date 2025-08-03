@@ -2,6 +2,7 @@
 layout: term
 title: devlet adamı
 slug: devlet-adami
+letter: D
 lisan: Türkçe
 anlamlar:
 - Devlet yönetiminde söz sahibi kişi

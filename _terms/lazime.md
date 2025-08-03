@@ -2,6 +2,7 @@
 layout: term
 title: lazıme
 slug: lazime
+letter: L
 lisan: Arapça lāzime
 anlamlar:
 - Yapılması gerekli olan şey

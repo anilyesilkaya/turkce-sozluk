@@ -2,6 +2,7 @@
 layout: term
 title: planlı
 slug: planli
+letter: P
 lisan: Türkçe
 anlamlar:
 - Belirli bir plana göre yapılan, yürütülen, düzenlenen

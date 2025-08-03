@@ -2,6 +2,7 @@
 layout: term
 title: durumunu açmak
 slug: durumunu-acmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - içinde bulunulan durumu açıklamak

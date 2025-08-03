@@ -2,6 +2,7 @@
 layout: term
 title: niyet çekmek
 slug: niyet-cekmek
+letter: N
 lisan: Türkçe
 anlamlar:
 - niyetçiden niyet adı verilen fal kâğıdı almak

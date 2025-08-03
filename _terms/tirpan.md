@@ -2,6 +2,7 @@
 layout: term
 title: tırpan
 slug: tirpan
+letter: T
 lisan: Rumca
 anlamlar:
 - Uzun bir sapın ucuna tutturulan, ot, ekin vb.ni biçmeye yarayan, hafifçe kıvrık, uzun çelik bıçak; çalgı orağı, çalkı

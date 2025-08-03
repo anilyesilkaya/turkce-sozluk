@@ -2,6 +2,7 @@
 layout: term
 title: pili
 slug: pili
+letter: P
 lisan: Fransızca pli
 anlamlar:
 - Kumaş, kâğıt vb.nde bir bölümün öbürünün üzerine getirilmesiyle oluşturulan kıvrım, kırma

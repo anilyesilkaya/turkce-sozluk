@@ -2,6 +2,7 @@
 layout: term
 title: başkaldırabilmek
 slug: baskaldirabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başkaldırma ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: buğday rengi
 slug: bugday-rengi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Açık esmer renk

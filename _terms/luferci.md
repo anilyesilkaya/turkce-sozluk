@@ -2,6 +2,7 @@
 layout: term
 title: lüferci
 slug: luferci
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lüfer avlayan veya lüfer yemesini seven kimse

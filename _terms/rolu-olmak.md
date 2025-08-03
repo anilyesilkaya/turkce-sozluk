@@ -2,6 +2,7 @@
 layout: term
 title: rolü olmak
 slug: rolu-olmak
+letter: R
 lisan: Türkçe
 anlamlar:
 - piyes, film vb.de rolü bulunmak

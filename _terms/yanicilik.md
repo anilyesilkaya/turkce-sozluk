@@ -2,6 +2,7 @@
 layout: term
 title: yanıcılık
 slug: yanicilik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yanıcı olma durumu

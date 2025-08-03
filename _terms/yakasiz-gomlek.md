@@ -2,6 +2,7 @@
 layout: term
 title: yakasız gömlek
 slug: yakasiz-gomlek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yakası olmayan gömlek

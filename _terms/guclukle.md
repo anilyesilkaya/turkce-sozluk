@@ -2,6 +2,7 @@
 layout: term
 title: güçlükle
 slug: guclukle
+letter: G
 lisan: Türkçe
 anlamlar:
 - Kolay olmayan bir biçimde; bin bela, ite kaka, öle dirile, zor, zorlukla, zar zor, zor bela, zoru zoruna

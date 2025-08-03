@@ -2,6 +2,7 @@
 layout: term
 title: antipersonel
 slug: antipersonel
+letter: A
 lisan: Fransızca antipersonnel
 anlamlar:
 - Hedefi insanlara zarar vermek veya öldürmek olan

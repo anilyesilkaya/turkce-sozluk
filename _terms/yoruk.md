@@ -2,6 +2,7 @@
 layout: term
 title: Yörük
 slug: yoruk
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Hayvancılıkla geçinen, genellikle Toroslarda yaşayan göçebe Türk oymağı; Türkmen, Yürük

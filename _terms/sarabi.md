@@ -2,6 +2,7 @@
 layout: term
 title: şarabi
 slug: sarabi
+letter: Ş
 lisan: Arapça şerābī
 anlamlar:
 - Kırmızı şarap rengi

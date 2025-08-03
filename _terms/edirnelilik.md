@@ -2,6 +2,7 @@
 layout: term
 title: Edirnelilik
 slug: edirnelilik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Edirneli olma durumu

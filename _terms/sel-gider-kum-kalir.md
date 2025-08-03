@@ -2,6 +2,7 @@
 layout: term
 title: sel gider, kum kalır
 slug: sel-gider-kum-kalir
+letter: S
 lisan: Türkçe
 anlamlar:
 - '"geçici durumlara güvenmek doğru değildir" anlamında kullanılan bir söz'

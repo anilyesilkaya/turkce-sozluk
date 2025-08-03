@@ -2,6 +2,7 @@
 layout: term
 title: belirteç
 slug: belirtec
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► zarf

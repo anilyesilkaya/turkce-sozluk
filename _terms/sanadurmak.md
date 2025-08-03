@@ -2,6 +2,7 @@
 layout: term
 title: sanadurmak
 slug: sanadurmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sanma işini sürdürmek

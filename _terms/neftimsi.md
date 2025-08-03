@@ -2,6 +2,7 @@
 layout: term
 title: neftîmsi
 slug: neftimsi
+letter: N
 lisan: Türkçe
 anlamlar:
 - Rengi neftîyi andıran, neftîye benzeyen

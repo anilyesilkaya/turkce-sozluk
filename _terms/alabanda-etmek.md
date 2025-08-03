@@ -2,6 +2,7 @@
 layout: term
 title: alabanda etmek
 slug: alabanda-etmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - dümeni sağa veya sola, sonuna kadar çevirmek

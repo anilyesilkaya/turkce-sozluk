@@ -2,6 +2,7 @@
 layout: term
 title: proforma fatura
 slug: proforma-fatura
+letter: P
 lisan: Türkçe
 anlamlar:
 - Bir malın satın alınmasını sağlayabilmek amacıyla ödemenin önceden yapılması için kesilen fatura

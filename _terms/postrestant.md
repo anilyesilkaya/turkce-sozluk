@@ -2,6 +2,7 @@
 layout: term
 title: postrestant
 slug: postrestant
+letter: P
 lisan: Fransızca poste restante
 anlamlar:
 - Alıcısı tarafından postaneden alınmak üzere gönderilen mektup veya paket

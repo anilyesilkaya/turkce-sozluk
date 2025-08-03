@@ -2,6 +2,7 @@
 layout: term
 title: mimli
 slug: mimli
+letter: M
 lisan: Türkçe
 anlamlar:
 - Genellikle davranışlarından kuşku duyulan, kötü olarak bilinen, mimlenmiş

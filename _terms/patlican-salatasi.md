@@ -2,6 +2,7 @@
 layout: term
 title: patlıcan salatası
 slug: patlican-salatasi
+letter: P
 lisan: Türkçe
 anlamlar:
 - Közlenip soyulmuş ve ince kıyılmış patlıcanlara soğan, sarımsak, domates, yeşilbiber, maydanoz karışımının eklenmesiyle hazırlanan bir salata türü

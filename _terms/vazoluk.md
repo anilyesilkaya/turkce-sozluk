@@ -2,6 +2,7 @@
 layout: term
 title: vazoluk
 slug: vazoluk
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vazo yapmaya elverişli malzeme

@@ -2,6 +2,7 @@
 layout: term
 title: oturaklı
 slug: oturakli
+letter: O
 lisan: Türkçe
 anlamlar:
 - Sağlam, gösterişli

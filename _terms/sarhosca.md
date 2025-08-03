@@ -2,6 +2,7 @@
 layout: term
 title: sarhoşça
 slug: sarhosca
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sarhoş bir biçimde, sarhoş olarak; sermestane

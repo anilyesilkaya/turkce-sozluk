@@ -2,6 +2,7 @@
 layout: term
 title: bir nefes
 slug: bir-nefes
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir an, kısa bir süre

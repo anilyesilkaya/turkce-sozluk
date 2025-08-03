@@ -2,6 +2,7 @@
 layout: term
 title: titizlik
 slug: titizlik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Titiz olma, titizce davranma durumu

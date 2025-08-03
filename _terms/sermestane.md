@@ -2,6 +2,7 @@
 layout: term
 title: sermestane
 slug: sermestane
+letter: S
 lisan: Farsça ser + mestāne
 anlamlar:
 - ► sarhoşça

@@ -2,6 +2,7 @@
 layout: term
 title: tersane
 slug: tersane
+letter: T
 lisan: İtalyanca tersana
 anlamlar:
 - Gemi yapılan yer; gemilik

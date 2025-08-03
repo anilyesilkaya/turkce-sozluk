@@ -2,6 +2,7 @@
 layout: term
 title: aşılama
 slug: asilama
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aşılamak işi; ilkah, telkih

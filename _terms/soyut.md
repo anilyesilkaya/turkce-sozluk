@@ -2,6 +2,7 @@
 layout: term
 title: soyut
 slug: soyut
+letter: S
 lisan: Türkçe
 anlamlar:
 - Varlığı duyularla algılanamayan; mücerret, abstre; somut karşıtı

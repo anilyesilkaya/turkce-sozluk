@@ -2,6 +2,7 @@
 layout: term
 title: ön koşul
 slug: on-kosul
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - ► ön şart

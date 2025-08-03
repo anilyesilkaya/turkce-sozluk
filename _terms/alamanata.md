@@ -2,6 +2,7 @@
 layout: term
 title: alamanata
 slug: alamanata
+letter: A
 lisan: Rumca
 anlamlar:
 - ► alamana

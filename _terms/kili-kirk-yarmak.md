@@ -2,6 +2,7 @@
 layout: term
 title: kılı kırk yarmak
 slug: kili-kirk-yarmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - titiz ve ayrıntılı bir biçimde incelemek, önemle üstünde durmak

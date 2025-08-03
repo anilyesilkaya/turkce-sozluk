@@ -2,6 +2,7 @@
 layout: term
 title: çıvmak
 slug: civmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Atlamak, sıçramak, zıplamak

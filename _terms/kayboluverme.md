@@ -2,6 +2,7 @@
 layout: term
 title: kayboluverme
 slug: kayboluverme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kayboluvermek işi

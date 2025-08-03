@@ -2,6 +2,7 @@
 layout: term
 title: sorumluluk
 slug: sorumluluk
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kişinin kendi davranışlarını veya kendi yetki alanına giren herhangi bir olayın sonuçlarını üstlenmesi; sorum, mesuliyet, uhde

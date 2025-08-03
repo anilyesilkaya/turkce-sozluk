@@ -2,6 +2,7 @@
 layout: term
 title: surat kalmamak
 slug: surat-kalmamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - utanmaz duruma gelmek

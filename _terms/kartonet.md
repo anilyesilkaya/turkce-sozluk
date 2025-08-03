@@ -2,6 +2,7 @@
 layout: term
 title: 'kartonet '
 slug: kartonet
+letter: K
 lisan: Fransızca cartonet
 anlamlar:
 - Albüm kutularının içinde yer alan, albümün tanıtıldığı ve şarkı sözlerinin yer aldığı kâğıt

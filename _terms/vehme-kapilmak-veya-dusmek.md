@@ -2,6 +2,7 @@
 layout: term
 title: vehme kapılmak (veya düşmek)
 slug: vehme-kapilmak-veya-dusmek
+letter: V
 lisan: Türkçe
 anlamlar:
 - yersiz korkuya, yanlış düşünceye kapılmak

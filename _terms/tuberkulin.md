@@ -2,6 +2,7 @@
 layout: term
 title: tüberkülin
 slug: tuberkulin
+letter: T
 lisan: Fransızca tuberculine
 anlamlar:
 - Veremin tanı ve tedavisinde yararlanılan, verem mikrobu kültüründen elde edilen bir sıvı

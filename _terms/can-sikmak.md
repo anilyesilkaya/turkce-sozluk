@@ -2,6 +2,7 @@
 layout: term
 title: can sıkmak
 slug: can-sikmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - bıkkınlık vermek

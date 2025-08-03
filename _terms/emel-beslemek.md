@@ -2,6 +2,7 @@
 layout: term
 title: emel beslemek
 slug: emel-beslemek
+letter: E
 lisan: Türkçe
 anlamlar:
 - isteği, arzuyu sürekli düşünmek veya güçlendirmek

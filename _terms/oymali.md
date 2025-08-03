@@ -2,6 +2,7 @@
 layout: term
 title: oymalı
 slug: oymali
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oymaları bulunan, oymalarla süslenmiş olan

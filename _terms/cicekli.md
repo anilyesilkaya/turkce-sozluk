@@ -2,6 +2,7 @@
 layout: term
 title: çiçekli
 slug: cicekli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çiçeği veya çiçek resimleri olan

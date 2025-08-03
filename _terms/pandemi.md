@@ -2,6 +2,7 @@
 layout: term
 title: pandemi
 slug: pandemi
+letter: P
 lisan: İngilizce pandemy
 anlamlar:
 - ► küresel salgın

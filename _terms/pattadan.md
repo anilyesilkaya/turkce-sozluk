@@ -2,6 +2,7 @@
 layout: term
 title: pattadan
 slug: pattadan
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► pattadak

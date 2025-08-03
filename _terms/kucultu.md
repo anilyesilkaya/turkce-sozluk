@@ -2,6 +2,7 @@
 layout: term
 title: küçültü
 slug: kucultu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Küçük gibi görünme veya olma

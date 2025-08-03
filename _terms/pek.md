@@ -2,6 +2,7 @@
 layout: term
 title: pek
 slug: pek
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► sert

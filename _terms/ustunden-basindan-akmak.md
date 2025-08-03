@@ -2,6 +2,7 @@
 layout: term
 title: üstünden başından akmak
 slug: ustunden-basindan-akmak
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - durumu belirgin bir biçimde anlaşılmak

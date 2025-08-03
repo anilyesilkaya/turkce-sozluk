@@ -2,6 +2,7 @@
 layout: term
 title: Elbasan tava
 slug: elbasan-tava
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► Elbasan tavası

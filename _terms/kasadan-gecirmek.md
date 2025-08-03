@@ -2,6 +2,7 @@
 layout: term
 title: kasadan geçirmek
 slug: kasadan-gecirmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - ürünün üzerindeki fiyatı kasaya okutmak

@@ -2,6 +2,7 @@
 layout: term
 title: keramet
 slug: keramet
+letter: K
 lisan: Arapça kerāmet
 anlamlar:
 - Ermiş kimselerin gösterdiklerine inanılan, doğaüstü, şaşkınlık uyandırıcı davranış veya durum

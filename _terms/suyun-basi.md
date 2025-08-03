@@ -2,6 +2,7 @@
 layout: term
 title: suyun başı
 slug: suyun-basi
+letter: S
 lisan: Türkçe
 anlamlar:
 - suyun çıktığı yer, kaynak

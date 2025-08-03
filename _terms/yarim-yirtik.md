@@ -2,6 +2,7 @@
 layout: term
 title: yarım yırtık
 slug: yarim-yirtik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► önemsiz

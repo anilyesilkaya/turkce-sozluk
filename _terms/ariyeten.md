@@ -2,6 +2,7 @@
 layout: term
 title: ariyeten
 slug: ariyeten
+letter: A
 lisan: Arapça ʿāriyeten
 anlamlar:
 - Eğreti olarak, ödünç olarak, geçici olarak

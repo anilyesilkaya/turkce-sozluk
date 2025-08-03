@@ -2,6 +2,7 @@
 layout: term
 title: jelatinsiz
 slug: jelatinsiz
+letter: J
 lisan: Türkçe
 anlamlar:
 - Jelatinle kaplanmamış

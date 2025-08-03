@@ -2,6 +2,7 @@
 layout: term
 title: küllük
 slug: kulluk
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► çöplük

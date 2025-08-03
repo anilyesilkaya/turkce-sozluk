@@ -2,6 +2,7 @@
 layout: term
 title: kirli
 slug: kirli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Leke, toz vb. ile kaplı; bulaşık, pis, murdar, mülevves

@@ -2,6 +2,7 @@
 layout: term
 title: franklık
 slug: franklik
+letter: F
 lisan: Türkçe
 anlamlar:
 - Frank değerinde olan

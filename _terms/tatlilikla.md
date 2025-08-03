@@ -2,6 +2,7 @@
 layout: term
 title: tatlılıkla
 slug: tatlilikla
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tatlı dille, anlayışla, hoşgörü göstererek

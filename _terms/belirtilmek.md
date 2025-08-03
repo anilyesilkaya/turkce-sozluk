@@ -2,6 +2,7 @@
 layout: term
 title: belirtilmek
 slug: belirtilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belirtme işine konu olmak

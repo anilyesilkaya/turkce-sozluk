@@ -2,6 +2,7 @@
 layout: term
 title: hasırlı
 slug: hasirli
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hasırı olan, hasırla kaplanmış olan

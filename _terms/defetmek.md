@@ -2,6 +2,7 @@
 layout: term
 title: defetmek
 slug: defetmek
+letter: D
 lisan: Arapça defʿ + Türkçe etmek
 anlamlar:
 - ► kovmak

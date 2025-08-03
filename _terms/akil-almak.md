@@ -2,6 +2,7 @@
 layout: term
 title: akıl almak
 slug: akil-almak
+letter: A
 lisan: Türkçe
 anlamlar:
 - danışmak, görüş almak

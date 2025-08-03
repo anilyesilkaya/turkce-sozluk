@@ -2,6 +2,7 @@
 layout: term
 title: yönelteç
 slug: yoneltec
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► direksiyon

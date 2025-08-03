@@ -2,6 +2,7 @@
 layout: term
 title: taraz taraz
 slug: taraz-taraz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Üzeri tel tel ipliklenmiş (kumaş)

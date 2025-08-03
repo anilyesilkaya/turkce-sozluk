@@ -2,6 +2,7 @@
 layout: term
 title: meçhulat
 slug: mechulat
+letter: M
 lisan: Arapça mechūlāt
 anlamlar:
 - Bilinmeyen, anlaşılmayan şeyler, meçhuller

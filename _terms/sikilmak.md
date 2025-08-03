@@ -2,6 +2,7 @@
 layout: term
 title: sıkılmak
 slug: sikilmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıkma işi yapılmak

@@ -2,6 +2,7 @@
 layout: term
 title: coşmak
 slug: cosmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - Duygu ve düşünceleri güçlü bir tepki ile dışarı vurmak; çağlamak, galeyan etmek

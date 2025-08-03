@@ -2,6 +2,7 @@
 layout: term
 title: güzel güzel
 slug: guzel-guzel
+letter: G
 lisan: Türkçe
 anlamlar:
 - Olağan bir durumda, herhangi bir sıkıntıya uğramadan

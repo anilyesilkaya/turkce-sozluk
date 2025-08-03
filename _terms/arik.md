@@ -2,6 +2,7 @@
 layout: term
 title: arık
 slug: arik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► zayıf

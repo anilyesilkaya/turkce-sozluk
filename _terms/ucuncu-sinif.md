@@ -2,6 +2,7 @@
 layout: term
 title: üçüncü sınıf
 slug: ucuncu-sinif
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - ► üçüncü mevki

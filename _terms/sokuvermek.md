@@ -2,6 +2,7 @@
 layout: term
 title: sokuvermek
 slug: sokuvermek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Ansızın veya çabucak sokmak

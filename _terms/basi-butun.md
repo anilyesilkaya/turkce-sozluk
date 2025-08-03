@@ -2,6 +2,7 @@
 layout: term
 title: başı bütün
 slug: basi-butun
+letter: B
 lisan: Türkçe
 anlamlar:
 - Hâli vakti yerinde olan

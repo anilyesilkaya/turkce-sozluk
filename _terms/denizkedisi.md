@@ -2,6 +2,7 @@
 layout: term
 title: denizkedisi
 slug: denizkedisi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Tüm başlılar takımından, vücudu ince uzun, büyük başlı, derin ve büyük denizlerde yaşayan bir balık; denizmaymunu (Chimaera monstrosa)

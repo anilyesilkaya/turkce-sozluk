@@ -2,6 +2,7 @@
 layout: term
 title: şike
 slug: sike
+letter: Ş
 lisan: Fransızca chiqué
 anlamlar:
 - Bir spor karşılaşmasının sonucunu değiştirmek için maddi veya manevi bir çıkar karşılığı varılan anlaşma

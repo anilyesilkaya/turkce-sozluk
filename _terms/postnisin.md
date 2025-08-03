@@ -2,6 +2,7 @@
 layout: term
 title: postnişin
 slug: postnisin
+letter: P
 lisan: Farsça pūstnişīn
 anlamlar:
 - Postta oturan, tekkenin şeyhi olan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: sıçan deliğe sığmamış, bir de kuyruğuna kabak bağlamış
 slug: sican-delige-sigmamis-bir-de-kuyruguna-kabak-baglamis
+letter: S
 lisan: Türkçe
 anlamlar:
 - '"kendisi sığıntı durumundayken yanına bir kişi daha almış" anlamında kullanılan bir söz'

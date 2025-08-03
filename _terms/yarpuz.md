@@ -2,6 +2,7 @@
 layout: term
 title: yarpuz
 slug: yarpuz
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Ballıbabagillerden, çiçekleri birbirinden ayrı halka durumunda, nane türünden, kısa saplı, az veya çok tüylü, güzel kokulu bir bitki (Mentha pulegium)

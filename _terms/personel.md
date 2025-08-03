@@ -2,6 +2,7 @@
 layout: term
 title: personel
 slug: personel
+letter: P
 lisan: Fransızca personnel
 anlamlar:
 - Bir hizmet veya kuruluşun görevlileri, bir iş yerinde çalışanların tümü

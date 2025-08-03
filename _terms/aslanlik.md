@@ -2,6 +2,7 @@
 layout: term
 title: aslanlık
 slug: aslanlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aslan gibi güçlü ve korkusuz olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: fikir edinmek
 slug: fikir-edinmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - kanaat sahibi olmak

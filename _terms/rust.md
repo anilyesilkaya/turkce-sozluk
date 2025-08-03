@@ -2,6 +2,7 @@
 layout: term
 title: rüşt
 slug: rust
+letter: R
 lisan: Arapça ruşd
 anlamlar:
 - ► erginlik

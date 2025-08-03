@@ -2,6 +2,7 @@
 layout: term
 title: oturulabilmek
 slug: oturulabilmek
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oturma ihtimali veya imkânı bulunmak

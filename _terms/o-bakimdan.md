@@ -2,6 +2,7 @@
 layout: term
 title: o bakımdan
 slug: o-bakimdan
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► bundan dolayı

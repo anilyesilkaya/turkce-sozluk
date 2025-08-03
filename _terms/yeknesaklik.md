@@ -2,6 +2,7 @@
 layout: term
 title: yeknesaklık
 slug: yeknesaklik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► tekdüzelik

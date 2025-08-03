@@ -2,6 +2,7 @@
 layout: term
 title: birbiri
 slug: birbiri
+letter: B
 lisan: Türkçe
 anlamlar:
 - Karşılıklı olarak bir diğeri

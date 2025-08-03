@@ -2,6 +2,7 @@
 layout: term
 title: o, O
 slug: o-o
+letter: O
 lisan: Türkçe
 anlamlar:
 - Türk alfabesinin on sekizinci sırasında yer alan ve o adı verilen bu harf, ses bilgisi bakımından kalın, yuvarlak ve geniş ünlüyü gösterir

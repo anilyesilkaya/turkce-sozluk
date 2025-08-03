@@ -2,6 +2,7 @@
 layout: term
 title: balistik füze
 slug: balistik-fuze
+letter: B
 lisan: Türkçe
 anlamlar:
 - Nükleer, kimyasal veya biyolojik başlık taşıyabilen, uzun menzilli, güdümlü veya güdümsüz füze

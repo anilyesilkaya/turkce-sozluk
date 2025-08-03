@@ -2,6 +2,7 @@
 layout: term
 title: güçlenebilme
 slug: guclenebilme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güçlenebilmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: çıldırtmak
 slug: cildirtmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çıldırmasına sebep olmak

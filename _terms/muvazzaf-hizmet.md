@@ -2,6 +2,7 @@
 layout: term
 title: muvazzaf hizmet
 slug: muvazzaf-hizmet
+letter: M
 lisan: Türkçe
 anlamlar:
 - Askerlik çağına giren erkeklerin yapmakla yükümlü bulundukları askerlik görevi

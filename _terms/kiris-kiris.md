@@ -2,6 +2,7 @@
 layout: term
 title: kırış kırış
 slug: kiris-kiris
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kırışıkları olan, çok kırışık

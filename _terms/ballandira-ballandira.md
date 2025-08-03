@@ -2,6 +2,7 @@
 layout: term
 title: ballandıra ballandıra
 slug: ballandira-ballandira
+letter: B
 lisan: Türkçe
 anlamlar:
 - İmrendirecek bir biçimde abartarak

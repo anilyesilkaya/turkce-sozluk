@@ -2,6 +2,7 @@
 layout: term
 title: nekropol
 slug: nekropol
+letter: N
 lisan: Fransızca nécropole
 anlamlar:
 - Antik bir şehrin dışında yer alan mezarlık alanı

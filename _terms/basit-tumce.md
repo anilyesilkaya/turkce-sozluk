@@ -2,6 +2,7 @@
 layout: term
 title: basit tümce
 slug: basit-tumce
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► basit cümle

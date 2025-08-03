@@ -2,6 +2,7 @@
 layout: term
 title: küpe dönmek
 slug: kupe-donmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - çok şişmanlamak

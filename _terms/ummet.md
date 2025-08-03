@@ -2,6 +2,7 @@
 layout: term
 title: ümmet
 slug: ummet
+letter: Ü
 lisan: Arapça ummet
 anlamlar:
 - Bir peygamberin getirdiklerine inanıp ona tabi olanların oluşturduğu topluluk

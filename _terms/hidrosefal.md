@@ -2,6 +2,7 @@
 layout: term
 title: hidrosefal
 slug: hidrosefal
+letter: H
 lisan: Fransızca hydrocéphale
 anlamlar:
 - Hidrosefalisi olan

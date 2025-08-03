@@ -2,6 +2,7 @@
 layout: term
 title: cimri
 slug: cimri
+letter: C
 lisan: Türkçe
 anlamlar:
 - Elindeki parayı harcamaya kıyamayan; demirhindi, eli sıkı, ekti, hasis, kısmık, kibritçi, mıhsıçtı, nekes, pinti, varyemez

@@ -2,6 +2,7 @@
 layout: term
 title: havale göndermek (veya yollamak)
 slug: havale-gondermek-veya-yollamak
+letter: H
 lisan: Türkçe
 anlamlar:
 - postane, banka vb. aracılığıyla birine para ödenmesini sağlamak

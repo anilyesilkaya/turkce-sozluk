@@ -2,6 +2,7 @@
 layout: term
 title: münhasır
 slug: munhasir
+letter: M
 lisan: Arapça munḥaṣir
 anlamlar:
 - ► mahsus (I)

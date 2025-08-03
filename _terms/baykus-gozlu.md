@@ -2,6 +2,7 @@
 layout: term
 title: baykuş gözlü
 slug: baykus-gozlu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Karanlıkta çok iyi gören

@@ -2,6 +2,7 @@
 layout: term
 title: ehlîleştirilmek
 slug: ehlilestirilmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► evcilleştirilmek

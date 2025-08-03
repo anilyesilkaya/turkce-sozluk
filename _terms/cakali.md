@@ -2,6 +2,7 @@
 layout: term
 title: cakalı
 slug: cakali
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► gösterişli

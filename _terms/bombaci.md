@@ -2,6 +2,7 @@
 layout: term
 title: bombacı
 slug: bombaci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bomba yapan kimse

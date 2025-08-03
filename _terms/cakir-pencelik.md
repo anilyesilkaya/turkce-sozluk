@@ -2,6 +2,7 @@
 layout: term
 title: çakır pençelik
 slug: cakir-pencelik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Tuttuğunu koparma, becerikli olma durumu

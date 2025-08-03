@@ -2,6 +2,7 @@
 layout: term
 title: barkarol
 slug: barkarol
+letter: B
 lisan: Fransızca barcarolle
 anlamlar:
 - Venedik gondolcularının söz ve müziği önceden yazılmadan içlerinden geldiği gibi söyledikleri şarkı

@@ -2,6 +2,7 @@
 layout: term
 title: boylama
 slug: boylama
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boylamak işi

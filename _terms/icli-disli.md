@@ -2,6 +2,7 @@
 layout: term
 title: içli dışlı
 slug: icli-disli
+letter: I
 lisan: Türkçe
 anlamlar:
 - Senli benli, aşırı teklifsiz; sıkı fıkı, yağlı ballı

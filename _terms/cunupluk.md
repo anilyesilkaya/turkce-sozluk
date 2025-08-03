@@ -2,6 +2,7 @@
 layout: term
 title: cünüplük
 slug: cunupluk
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cünüp olma durumu; cenabet

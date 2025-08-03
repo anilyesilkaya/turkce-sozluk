@@ -2,6 +2,7 @@
 layout: term
 title: kalabalık ağızlı
 slug: kalabalik-agizli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Geveze, bilir bilmez konuşan

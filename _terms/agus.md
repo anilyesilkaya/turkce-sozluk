@@ -2,6 +2,7 @@
 layout: term
 title: aguş
 slug: agus
+letter: A
 lisan: Farsça āġūş
 anlamlar:
 - ► kucak

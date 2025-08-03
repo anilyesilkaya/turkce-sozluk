@@ -2,6 +2,7 @@
 layout: term
 title: yayan yapıldak
 slug: yayan-yapildak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yalın ayak bir biçimde

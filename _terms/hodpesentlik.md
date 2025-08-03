@@ -2,6 +2,7 @@
 layout: term
 title: hodpesentlik
 slug: hodpesentlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► bencilik

@@ -2,6 +2,7 @@
 layout: term
 title: yüksek adrenalin
 slug: yuksek-adrenalin
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yüksek heyecan ve korkusuzluk hissi

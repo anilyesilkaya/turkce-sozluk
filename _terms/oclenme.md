@@ -2,6 +2,7 @@
 layout: term
 title: öçlenme
 slug: oclenme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öçlenmek durumu

@@ -2,6 +2,7 @@
 layout: term
 title: tinerci
 slug: tinerci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Uçucu madde bağımlısı olan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: çöküklük
 slug: cokukluk
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çökük olma durumu

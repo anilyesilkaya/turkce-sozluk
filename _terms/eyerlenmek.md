@@ -2,6 +2,7 @@
 layout: term
 title: eyerlenmek
 slug: eyerlenmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Eyer vurulmak

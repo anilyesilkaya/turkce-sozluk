@@ -2,6 +2,7 @@
 layout: term
 title: fazlasıyla
 slug: fazlasiyla
+letter: F
 lisan: Türkçe
 anlamlar:
 - Olağandan, gerekenden çok; ziyadesiyle

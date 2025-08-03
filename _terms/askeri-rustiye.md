@@ -2,6 +2,7 @@
 layout: term
 title: askerî rüştiye
 slug: askeri-rustiye
+letter: A
 lisan: Türkçe
 anlamlar:
 - Asker olacakların gittiği ortaokul

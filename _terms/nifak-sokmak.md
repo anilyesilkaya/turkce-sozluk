@@ -2,6 +2,7 @@
 layout: term
 title: nifak sokmak
 slug: nifak-sokmak
+letter: N
 lisan: Türkçe
 anlamlar:
 - ara açmak, bozgunculuk yapmak

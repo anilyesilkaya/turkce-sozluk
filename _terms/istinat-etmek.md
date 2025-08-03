@@ -2,6 +2,7 @@
 layout: term
 title: istinat etmek
 slug: istinat-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - dayanmak

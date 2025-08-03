@@ -2,6 +2,7 @@
 layout: term
 title: greçka
 slug: grecka
+letter: G
 lisan: Rusça
 anlamlar:
 - ► karabuğday

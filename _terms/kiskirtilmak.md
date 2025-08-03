@@ -2,6 +2,7 @@
 layout: term
 title: kışkırtılmak
 slug: kiskirtilmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kışkırtma işi yapılmak

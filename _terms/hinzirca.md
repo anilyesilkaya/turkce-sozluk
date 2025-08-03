@@ -2,6 +2,7 @@
 layout: term
 title: hınzırca
 slug: hinzirca
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hınzır bir biçimde; hınzırcasına

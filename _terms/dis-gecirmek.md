@@ -2,6 +2,7 @@
 layout: term
 title: diş geçirmek
 slug: dis-gecirmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - zorla veya inatla istediğini yaptırmak

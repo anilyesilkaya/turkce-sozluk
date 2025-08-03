@@ -2,6 +2,7 @@
 layout: term
 title: tembel
 slug: tembel
+letter: T
 lisan: Farsça tenbel
 anlamlar:
 - İş görmeyi, çalışmayı sevmeyen, çaba göstermekten, sıkıntıdan kaçan (kimse); ağırcanlı, haymana

@@ -2,6 +2,7 @@
 layout: term
 title: Süryanice
 slug: suryanice
+letter: S
 lisan: Türkçe
 anlamlar:
 - Süryanilerin kullandığı dil

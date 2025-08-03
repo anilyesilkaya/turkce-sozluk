@@ -2,6 +2,7 @@
 layout: term
 title: çalçene
 slug: calcene
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Durup dinlenmeden konuşan, çenesi düşük (kimse); geveze

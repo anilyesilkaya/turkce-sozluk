@@ -2,6 +2,7 @@
 layout: term
 title: akındırık
 slug: akindirik
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► reçine

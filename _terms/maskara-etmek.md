@@ -2,6 +2,7 @@
 layout: term
 title: maskara etmek
 slug: maskara-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - bir kimseyi veya şeyi gülünç ve şerefsiz duruma düşürmek

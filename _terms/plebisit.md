@@ -2,6 +2,7 @@
 layout: term
 title: plebisit
 slug: plebisit
+letter: P
 lisan: Fransızca plébiscite
 anlamlar:
 - Devletler hukukunda bir ulusun hangi devlete bağlanacağıyla ilgili oylama

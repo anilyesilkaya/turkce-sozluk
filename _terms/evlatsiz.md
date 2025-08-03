@@ -2,6 +2,7 @@
 layout: term
 title: evlatsız
 slug: evlatsiz
+letter: E
 lisan: Türkçe
 anlamlar:
 - Evladı olmayan

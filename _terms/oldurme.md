@@ -2,6 +2,7 @@
 layout: term
 title: öldürme
 slug: oldurme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öldürmek işi; gebertme, katil (II)

@@ -2,6 +2,7 @@
 layout: term
 title: lümpen
 slug: lumpen
+letter: L
 lisan: Almanca lumpen
 anlamlar:
 - ► sınıfsız

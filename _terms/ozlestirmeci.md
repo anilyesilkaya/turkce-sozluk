@@ -2,6 +2,7 @@
 layout: term
 title: özleştirmeci
 slug: ozlestirmeci
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Özleştirmecilik yanlısı olan kimse; tasfiyeci

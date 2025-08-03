@@ -2,6 +2,7 @@
 layout: term
 title: hıyarlık
 slug: hiyarlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Kaba saba, budalaca davranma durumu

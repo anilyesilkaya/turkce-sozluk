@@ -2,6 +2,7 @@
 layout: term
 title: foyasını belli etmek
 slug: foyasini-belli-etmek
+letter: F
 lisan: Türkçe
 anlamlar:
 - göz boyacılığı, suçu, kötü niteliği veya gizli niyeti ortaya çıkmak

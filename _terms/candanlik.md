@@ -2,6 +2,7 @@
 layout: term
 title: candanlık
 slug: candanlik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Candan olma durumu

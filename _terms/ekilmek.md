@@ -2,6 +2,7 @@
 layout: term
 title: ekilmek
 slug: ekilmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ekme işi yapılmak

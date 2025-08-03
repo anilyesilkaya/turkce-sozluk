@@ -2,6 +2,7 @@
 layout: term
 title: mühimsemezlik
 slug: muhimsemezlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► önemsemezlik

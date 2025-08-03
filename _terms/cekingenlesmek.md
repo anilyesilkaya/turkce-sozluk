@@ -2,6 +2,7 @@
 layout: term
 title: çekingenleşmek
 slug: cekingenlesmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çekingen duruma gelmek

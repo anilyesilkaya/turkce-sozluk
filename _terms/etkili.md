@@ -2,6 +2,7 @@
 layout: term
 title: etkili
 slug: etkili
+letter: E
 lisan: Türkçe
 anlamlar:
 - Etkisi olan; tesirli, müessir, patetik

@@ -2,6 +2,7 @@
 layout: term
 title: aktif fiil
 slug: aktif-fiil
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► etken fiil

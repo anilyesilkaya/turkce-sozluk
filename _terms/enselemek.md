@@ -2,6 +2,7 @@
 layout: term
 title: enselemek
 slug: enselemek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Kaçan veya saklanan birini yakalamak

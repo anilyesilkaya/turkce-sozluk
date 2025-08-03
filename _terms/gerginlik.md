@@ -2,6 +2,7 @@
 layout: term
 title: gerginlik
 slug: gerginlik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gergin olma durumu; yüklülük

@@ -2,6 +2,7 @@
 layout: term
 title: sarıkız
 slug: sarikiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► horoz mantarı

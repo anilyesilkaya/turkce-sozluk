@@ -2,6 +2,7 @@
 layout: term
 title: kovboy
 slug: kovboy
+letter: K
 lisan: Fransızca cow-boy
 anlamlar:
 - Amerika'da sığır çobanı

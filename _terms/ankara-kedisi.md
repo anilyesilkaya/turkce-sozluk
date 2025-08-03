@@ -2,6 +2,7 @@
 layout: term
 title: Ankara kedisi
 slug: ankara-kedisi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ankara yöresinde yetişen uzun tüylü kedi ırkı

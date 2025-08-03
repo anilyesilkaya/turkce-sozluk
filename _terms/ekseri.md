@@ -2,6 +2,7 @@
 layout: term
 title: ekseri
 slug: ekseri
+letter: E
 lisan: Arapça eks̱erī
 anlamlar:
 - ► genellikle

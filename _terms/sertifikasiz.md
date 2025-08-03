@@ -2,6 +2,7 @@
 layout: term
 title: sertifikasız
 slug: sertifikasiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sertifikası olmayan

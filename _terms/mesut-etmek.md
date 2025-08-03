@@ -2,6 +2,7 @@
 layout: term
 title: mesut etmek
 slug: mesut-etmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - mutlu kılmak

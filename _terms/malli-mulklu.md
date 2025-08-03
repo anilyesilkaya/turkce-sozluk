@@ -2,6 +2,7 @@
 layout: term
 title: 'mallı mülklü '
 slug: malli-mulklu
+letter: M
 lisan: Türkçe
 anlamlar:
 - Malı mülkü olan

@@ -2,6 +2,7 @@
 layout: term
 title: pes etmek
 slug: pes-etmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - yenilgiyi kabul etmek, pes demek

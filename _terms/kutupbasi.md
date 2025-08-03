@@ -2,6 +2,7 @@
 layout: term
 title: kutupbaşı
 slug: kutupbasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Araç akülerindeki artı ve eksi kutupların baş kısmı

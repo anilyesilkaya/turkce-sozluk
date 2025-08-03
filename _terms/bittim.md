@@ -2,6 +2,7 @@
 layout: term
 title: bıttım
 slug: bittim
+letter: B
 lisan: Arapça buṭm
 anlamlar:
 - ► çitlembik

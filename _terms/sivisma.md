@@ -2,6 +2,7 @@
 layout: term
 title: sıvışma
 slug: sivisma
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► bulaşma

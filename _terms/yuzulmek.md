@@ -2,6 +2,7 @@
 layout: term
 title: yüzülmek
 slug: yuzulmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yüzme işi yapılmak

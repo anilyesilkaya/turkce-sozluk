@@ -2,6 +2,7 @@
 layout: term
 title: kararlama
 slug: kararlama
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kararlamak işi

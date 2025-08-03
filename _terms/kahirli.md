@@ -2,6 +2,7 @@
 layout: term
 title: kahırlı
 slug: kahirli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Üzüntü veya acısı çok olan

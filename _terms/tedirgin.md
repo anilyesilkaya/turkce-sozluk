@@ -2,6 +2,7 @@
 layout: term
 title: tedirgin
 slug: tedirgin
+letter: T
 lisan: Türkçe
 anlamlar:
 - Rahatı, huzuru kaçmış

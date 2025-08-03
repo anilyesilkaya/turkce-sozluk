@@ -2,6 +2,7 @@
 layout: term
 title: lengüist
 slug: lenguist
+letter: L
 lisan: Fransızca linguist
 anlamlar:
 - ► dil bilimci

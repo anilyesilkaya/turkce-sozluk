@@ -2,6 +2,7 @@
 layout: term
 title: dibine kadar
 slug: dibine-kadar
+letter: D
 lisan: Türkçe
 anlamlar:
 - en ince ve gizli noktasına kadar

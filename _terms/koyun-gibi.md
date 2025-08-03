@@ -2,6 +2,7 @@
 layout: term
 title: koyun gibi
 slug: koyun-gibi
+letter: K
 lisan: Türkçe
 anlamlar:
 - budala, şaşkın

@@ -2,6 +2,7 @@
 layout: term
 title: mumlu
 slug: mumlu
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mumu olan, mum konulmuş olan

@@ -2,6 +2,7 @@
 layout: term
 title: düş
 slug: dus
+letter: D
 lisan: Türkçe
 anlamlar:
 - Uyurken zihinde beliren olayların, düşüncelerin bütünü; rüya

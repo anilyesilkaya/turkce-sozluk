@@ -2,6 +2,7 @@
 layout: term
 title: ebe olmak
 slug: ebe-olmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - oyun içinde ebelik yapmak

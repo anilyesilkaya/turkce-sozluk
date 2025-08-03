@@ -2,6 +2,7 @@
 layout: term
 title: panjurlu
 slug: panjurlu
+letter: P
 lisan: Türkçe
 anlamlar:
 - Panjuru olan

@@ -2,6 +2,7 @@
 layout: term
 title: müdür
 slug: mudur
+letter: M
 lisan: Arapça mudīr
 anlamlar:
 - Bir kurum veya kuruluşu yöneten kimse

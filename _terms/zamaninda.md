@@ -2,6 +2,7 @@
 layout: term
 title: zamanında
 slug: zamaninda
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► eskiden

@@ -2,6 +2,7 @@
 layout: term
 title: peşine takmak
 slug: pesine-takmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - yanında götürmek

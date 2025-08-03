@@ -2,6 +2,7 @@
 layout: term
 title: boyun kesmek
 slug: boyun-kesmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - selam vermek için başını eğmek

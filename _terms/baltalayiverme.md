@@ -2,6 +2,7 @@
 layout: term
 title: baltalayıverme
 slug: baltalayiverme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Baltalayıvermek işi

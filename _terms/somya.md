@@ -2,6 +2,7 @@
 layout: term
 title: somya
 slug: somya
+letter: S
 lisan: Fransızca sommier
 anlamlar:
 - Üzerine yatak ve minder konularak hem oturmaya hem yatmaya yarayan, genellikle yaylı olan, demir vb. malzemeden yapılmış yatak altlığı

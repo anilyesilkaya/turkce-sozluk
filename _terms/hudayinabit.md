@@ -2,6 +2,7 @@
 layout: term
 title: hüdayinabit
 slug: hudayinabit
+letter: H
 lisan: Farsça ḫudā + Arapça -į + nābit
 anlamlar:
 - Kendiliğinden yetişen (bitki)

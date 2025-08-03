@@ -2,6 +2,7 @@
 layout: term
 title: avantacı
 slug: avantaci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir kazancı emek vermeden elde etmek isteyen, fırsat düşkünü kimse

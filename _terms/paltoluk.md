@@ -2,6 +2,7 @@
 layout: term
 title: paltoluk
 slug: paltoluk
+letter: P
 lisan: Türkçe
 anlamlar:
 - Palto yapmaya elverişli

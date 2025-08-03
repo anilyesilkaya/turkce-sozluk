@@ -2,6 +2,7 @@
 layout: term
 title: cafcaflı
 slug: cafcafli
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► gösterişli

@@ -2,6 +2,7 @@
 layout: term
 title: apaş
 slug: apas
+letter: A
 lisan: Fransızca apache
 anlamlar:
 - ► külhanbeyi

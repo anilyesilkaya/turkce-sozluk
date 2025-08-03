@@ -2,6 +2,7 @@
 layout: term
 title: etüv
 slug: etuv
+letter: E
 lisan: Fransızca étuve
 anlamlar:
 - Yiyecekleri, nesneleri yüksek ısıyla sterilize ve dezenfekte etmekte kullanılan kapalı araç

@@ -2,6 +2,7 @@
 layout: term
 title: atıcı
 slug: atici
+letter: A
 lisan: Türkçe
 anlamlar:
 - İyi nişan alan, attığını vuran (kimse)

@@ -2,6 +2,7 @@
 layout: term
 title: lezbiyenlik
 slug: lezbiyenlik
+letter: L
 lisan: Türkçe
 anlamlar:
 - ► sevicilik

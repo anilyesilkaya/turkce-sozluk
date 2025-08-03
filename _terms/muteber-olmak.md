@@ -2,6 +2,7 @@
 layout: term
 title: muteber olmak
 slug: muteber-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - yürürlükte olmak, geçerli olmak

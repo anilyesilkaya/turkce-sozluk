@@ -2,6 +2,7 @@
 layout: term
 title: tacizlik getirmek
 slug: tacizlik-getirmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - tedirgin olmak

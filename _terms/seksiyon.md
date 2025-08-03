@@ -2,6 +2,7 @@
 layout: term
 title: seksiyon
 slug: seksiyon
+letter: S
 lisan: Fransızca section
 anlamlar:
 - ► bölüm

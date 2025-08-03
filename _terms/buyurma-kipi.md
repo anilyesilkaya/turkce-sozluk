@@ -2,6 +2,7 @@
 layout: term
 title: buyurma kipi
 slug: buyurma-kipi
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► emir kipi

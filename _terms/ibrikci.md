@@ -2,6 +2,7 @@
 layout: term
 title: ibrikçi
 slug: ibrikci
+letter: I
 lisan: Türkçe
 anlamlar:
 - İbrikle su taşıyan kimse

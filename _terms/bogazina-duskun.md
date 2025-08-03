@@ -2,6 +2,7 @@
 layout: term
 title: boğazına düşkün
 slug: bogazina-duskun
+letter: B
 lisan: Türkçe
 anlamlar:
 - Yiyip içmeyi çok seven (kimse); şikemperver

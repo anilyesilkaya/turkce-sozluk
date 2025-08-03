@@ -2,6 +2,7 @@
 layout: term
 title: helal olsun
 slug: helal-olsun
+letter: H
 lisan: Türkçe
 anlamlar:
 - bir hizmet veya özverinin istenilerek yapıldığını ve takdir edildiğini göstermek için kullanılan bir söz

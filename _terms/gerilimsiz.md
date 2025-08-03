@@ -2,6 +2,7 @@
 layout: term
 title: gerilimsiz
 slug: gerilimsiz
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gerilimi olmayan

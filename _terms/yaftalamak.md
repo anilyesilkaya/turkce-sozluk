@@ -2,6 +2,7 @@
 layout: term
 title: yaftalamak
 slug: yaftalamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yafta asmak

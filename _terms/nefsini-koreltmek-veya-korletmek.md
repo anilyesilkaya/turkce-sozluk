@@ -2,6 +2,7 @@
 layout: term
 title: nefsini köreltmek (veya körletmek)
 slug: nefsini-koreltmek-veya-korletmek
+letter: N
 lisan: Türkçe
 anlamlar:
 - beden isteklerinden herhangi birini üstünkörü gidermek, nefsini yatıştırmak

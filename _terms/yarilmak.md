@@ -2,6 +2,7 @@
 layout: term
 title: yarılmak
 slug: yarilmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yarma işi yapılmak

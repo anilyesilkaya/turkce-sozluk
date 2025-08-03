@@ -2,6 +2,7 @@
 layout: term
 title: can bunaltısı
 slug: can-bunaltisi
+letter: C
 lisan: Türkçe
 anlamlar:
 - Aşırı üzüntü sebebiyle canın sıkılma, bunalma durumu

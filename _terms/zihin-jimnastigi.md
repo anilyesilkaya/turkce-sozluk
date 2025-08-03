@@ -2,6 +2,7 @@
 layout: term
 title: zihin jimnastiği
 slug: zihin-jimnastigi
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Bazı zihinsel yetileri çevikleştirmek için yapılan alıştırmaların tümü; beyin jimnastiği

@@ -2,6 +2,7 @@
 layout: term
 title: birim
 slug: birim
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir kümenin her elemanı

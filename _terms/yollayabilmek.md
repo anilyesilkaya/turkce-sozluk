@@ -2,6 +2,7 @@
 layout: term
 title: yollayabilmek
 slug: yollayabilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yollama ihtimali veya imkânı bulunmak

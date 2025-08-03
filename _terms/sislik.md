@@ -2,6 +2,7 @@
 layout: term
 title: şişlik
 slug: sislik
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► şiş (I)

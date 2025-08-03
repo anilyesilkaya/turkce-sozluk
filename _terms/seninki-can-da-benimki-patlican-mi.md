@@ -2,6 +2,7 @@
 layout: term
 title: seninki can da benimki patlıcan mı?
 slug: seninki-can-da-benimki-patlican-mi
+letter: S
 lisan: Türkçe
 anlamlar:
 - '"senin canının değeri var da benimkinin değeri yok mu" anlamında kullanılan bir söz'

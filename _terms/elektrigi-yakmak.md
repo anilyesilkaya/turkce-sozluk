@@ -2,6 +2,7 @@
 layout: term
 title: elektriği yakmak
 slug: elektrigi-yakmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - bir yeri aydınlatmak için elektrik enerjisini açıp kullanmak

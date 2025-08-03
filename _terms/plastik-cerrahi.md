@@ -2,6 +2,7 @@
 layout: term
 title: plastik cerrahi
 slug: plastik-cerrahi
+letter: P
 lisan: Türkçe
 anlamlar:
 - Doğuştan veya sonradan oluşan vücut ve yüz bozukluklarını gidermek amacıyla yapılan cerrahi müdahale; plastik ameliyat

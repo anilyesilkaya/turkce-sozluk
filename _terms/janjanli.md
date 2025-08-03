@@ -2,6 +2,7 @@
 layout: term
 title: janjanlı
 slug: janjanli
+letter: J
 lisan: Türkçe
 anlamlar:
 - Yanardöner olan

@@ -2,6 +2,7 @@
 layout: term
 title: tangır tangır
 slug: tangir-tangir
+letter: T
 lisan: Türkçe
 anlamlar:
 - Boş nesnelere vurulduğunda çıkan kaba ve çınlayıcı ses

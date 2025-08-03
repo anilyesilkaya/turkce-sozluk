@@ -2,6 +2,7 @@
 layout: term
 title: ağıtçı
 slug: agitci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ölüye ağıt söylemek için tutulan kimse; ağlayıcı, sagucu, mersiyehan

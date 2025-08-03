@@ -2,6 +2,7 @@
 layout: term
 title: yarım kulak dinlemek
 slug: yarim-kulak-dinlemek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - umursamadan, önem vermeden dinlemek

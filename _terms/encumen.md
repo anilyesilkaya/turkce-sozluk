@@ -2,6 +2,7 @@
 layout: term
 title: encümen
 slug: encumen
+letter: E
 lisan: Farsça encumen
 anlamlar:
 - ► alt kurul

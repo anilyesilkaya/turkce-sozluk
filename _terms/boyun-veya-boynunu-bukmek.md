@@ -2,6 +2,7 @@
 layout: term
 title: boyun (veya boynunu) bükmek
 slug: boyun-veya-boynunu-bukmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - acındıran bir tavır takınmak

@@ -2,6 +2,7 @@
 layout: term
 title: don çekmek
 slug: don-cekmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - donmak

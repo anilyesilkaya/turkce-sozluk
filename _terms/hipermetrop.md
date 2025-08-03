@@ -2,6 +2,7 @@
 layout: term
 title: hipermetrop
 slug: hipermetrop
+letter: H
 lisan: Fransızca hypermétrope
 anlamlar:
 - Cisimlerin görüntüleri ağ tabakanın gerisinde kaldığı için yakını iyi göremeyen (göz)

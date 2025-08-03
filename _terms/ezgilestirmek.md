@@ -2,6 +2,7 @@
 layout: term
 title: ezgileştirmek
 slug: ezgilestirmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ezgi durumuna getirmek

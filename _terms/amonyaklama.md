@@ -2,6 +2,7 @@
 layout: term
 title: amonyaklama
 slug: amonyaklama
+letter: A
 lisan: Türkçe
 anlamlar:
 - Amonyaklamak işi

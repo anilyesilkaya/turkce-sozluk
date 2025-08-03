@@ -2,6 +2,7 @@
 layout: term
 title: Amerikanvari
 slug: amerikanvari
+letter: A
 lisan: Fransızca américain + Farsça -vārī
 anlamlar:
 - Amerikalıya yakışan bir biçimde, Amerikalı gibi

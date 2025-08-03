@@ -2,6 +2,7 @@
 layout: term
 title: gözü doymaz
 slug: gozu-doymaz
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► açgözlü

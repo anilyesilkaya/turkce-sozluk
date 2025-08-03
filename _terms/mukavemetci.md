@@ -2,6 +2,7 @@
 layout: term
 title: mukavemetçi
 slug: mukavemetci
+letter: M
 lisan: Türkçe
 anlamlar:
 - Düşman saldırısına boyun eğmeyip her çeşit araçla karşı gelen yurtsever kimse

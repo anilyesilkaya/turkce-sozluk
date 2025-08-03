@@ -2,6 +2,7 @@
 layout: term
 title: üst çene
 slug: ust-cene
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Çenenin üst bölümü, üst dudağın bulunduğu yöndeki çene

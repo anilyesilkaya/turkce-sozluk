@@ -2,6 +2,7 @@
 layout: term
 title: müddei
 slug: muddei
+letter: M
 lisan: Arapça muddeʿī
 anlamlar:
 - ► davacı

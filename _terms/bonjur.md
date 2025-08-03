@@ -2,6 +2,7 @@
 layout: term
 title: bonjur
 slug: bonjur
+letter: B
 lisan: Fransızca bonjour
 anlamlar:
 - “Günaydın, merhaba, iyi günler” anlamında kullanılan bir selamlaşma sözü

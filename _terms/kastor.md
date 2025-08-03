@@ -2,6 +2,7 @@
 layout: term
 title: kastor
 slug: kastor
+letter: K
 lisan: Fransızca castor
 anlamlar:
 - ► kunduz

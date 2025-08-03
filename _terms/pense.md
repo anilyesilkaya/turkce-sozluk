@@ -2,6 +2,7 @@
 layout: term
 title: pense
 slug: pense
+letter: P
 lisan: Fransızca pince
 anlamlar:
 - Çeşitli biçim ve büyüklükte maşa veya kıskaç

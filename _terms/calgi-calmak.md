@@ -2,6 +2,7 @@
 layout: term
 title: çalgı çalmak
 slug: calgi-calmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - bir müzik aletini kullanmak

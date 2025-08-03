@@ -2,6 +2,7 @@
 layout: term
 title: zuhuri
 slug: zuhuri
+letter: Z
 lisan: Arapça ẓuhūrī
 anlamlar:
 - Orta oyununda taklitçi

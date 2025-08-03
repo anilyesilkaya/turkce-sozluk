@@ -2,6 +2,7 @@
 layout: term
 title: doksanar
 slug: doksanar
+letter: D
 lisan: Türkçe
 anlamlar:
 - Doksan sıfatının üleştirme sayı sıfatı

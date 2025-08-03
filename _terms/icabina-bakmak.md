@@ -2,6 +2,7 @@
 layout: term
 title: icabına bakmak
 slug: icabina-bakmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - gereğini yerine getirmek

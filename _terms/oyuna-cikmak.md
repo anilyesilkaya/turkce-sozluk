@@ -2,6 +2,7 @@
 layout: term
 title: oyuna çıkmak
 slug: oyuna-cikmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - oyun için sahneye çıkmak

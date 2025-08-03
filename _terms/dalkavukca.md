@@ -2,6 +2,7 @@
 layout: term
 title: dalkavukça
 slug: dalkavukca
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dalkavuk gibi; yaltakça, huluskârane

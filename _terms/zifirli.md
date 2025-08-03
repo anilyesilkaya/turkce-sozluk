@@ -2,6 +2,7 @@
 layout: term
 title: zifirli
 slug: zifirli
+letter: Z
 lisan: Türkçe
 anlamlar:
 - İs, duman vb. sebeplerle siyah renge dönmüş olan

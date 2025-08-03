@@ -2,6 +2,7 @@
 layout: term
 title: elini ayağını (veya eteğini) kesmek (veya çekmek)
 slug: elini-ayagini-veya-etegini-kesmek-veya-cekmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - uğramaz olmak

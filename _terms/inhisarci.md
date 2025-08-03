@@ -2,6 +2,7 @@
 layout: term
 title: inhisarcı
 slug: inhisarci
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► tekelci

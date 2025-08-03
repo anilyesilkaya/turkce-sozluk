@@ -2,6 +2,7 @@
 layout: term
 title: onartmak
 slug: onartmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Onarma işini birine yaptırmak, tamir ettirmek

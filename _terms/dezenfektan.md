@@ -2,6 +2,7 @@
 layout: term
 title: dezenfektan
 slug: dezenfektan
+letter: D
 lisan: Fransızca désinfectant
 anlamlar:
 - Canlı ve cansız yüzeylerde hastalık yapma özelliği olan bakteri, virüs vb. mikroorganizmaları kırma özelliği olan (madde)

@@ -2,6 +2,7 @@
 layout: term
 title: şafaklamak
 slug: safaklamak
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► sabahlamak

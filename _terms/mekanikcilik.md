@@ -2,6 +2,7 @@
 layout: term
 title: mekanikçilik
 slug: mekanikcilik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Bütün fiziksel olayları, uzay ve uzayda yer değiştirmelerle açıklayan görüş; mekanizm, devimselcilik karşıtı

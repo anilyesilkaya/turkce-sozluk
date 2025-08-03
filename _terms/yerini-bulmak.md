@@ -2,6 +2,7 @@
 layout: term
 title: yerini bulmak
 slug: yerini-bulmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - uygun, ihtiyaç olan yerde olmak

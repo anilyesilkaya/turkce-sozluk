@@ -2,6 +2,7 @@
 layout: term
 title: mukteza
 slug: mukteza
+letter: M
 lisan: Arapça muḳteżā
 anlamlar:
 - ► gerekli

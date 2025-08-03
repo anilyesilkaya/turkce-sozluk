@@ -2,6 +2,7 @@
 layout: term
 title: basınçyazar
 slug: basincyazar
+letter: B
 lisan: Türkçe
 anlamlar:
 - Basıncı sürekli kaydeden ve yazıcı ucu bulunan bir tür madeni barometre; barograf

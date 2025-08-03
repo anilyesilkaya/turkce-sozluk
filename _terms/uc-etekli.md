@@ -2,6 +2,7 @@
 layout: term
 title: üç etekli
 slug: uc-etekli
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üç etek giymiş olan

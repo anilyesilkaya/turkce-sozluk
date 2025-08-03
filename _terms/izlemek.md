@@ -2,6 +2,7 @@
 layout: term
 title: izlemek
 slug: izlemek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Birinin veya bir şeyin arkasından gitmek; takip etmek

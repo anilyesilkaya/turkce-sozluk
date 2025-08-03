@@ -2,6 +2,7 @@
 layout: term
 title: ödetilme
 slug: odetilme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ödetilmek işi

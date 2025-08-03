@@ -2,6 +2,7 @@
 layout: term
 title: döke saça
 slug: doke-saca
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir şeyi yararsız biçimde harcayarak

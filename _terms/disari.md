@@ -2,6 +2,7 @@
 layout: term
 title: dışarı
 slug: disari
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dış çevre, dış yer, içeri karşıtı

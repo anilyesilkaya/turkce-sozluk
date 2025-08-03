@@ -2,6 +2,7 @@
 layout: term
 title: intikam
 slug: intikam
+letter: I
 lisan: Arapça intiḳām
 anlamlar:
 - ► öç

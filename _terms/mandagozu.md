@@ -2,6 +2,7 @@
 layout: term
 title: mandagözü
 slug: mandagozu
+letter: M
 lisan: Türkçe
 anlamlar:
 - Nikel yirmi kuruş

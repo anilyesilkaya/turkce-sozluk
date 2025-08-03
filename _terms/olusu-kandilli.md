@@ -2,6 +2,7 @@
 layout: term
 title: ölüsü kandilli
 slug: olusu-kandilli
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Kızılan kişiyi aşağılamak amacıyla söylenen bir sövgü sözü; ölüsü kınalı

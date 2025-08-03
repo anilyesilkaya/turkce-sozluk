@@ -2,6 +2,7 @@
 layout: term
 title: büzük
 slug: buzuk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Toplanarak büzülmüş

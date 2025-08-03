@@ -2,6 +2,7 @@
 layout: term
 title: bağırtı
 slug: bagirti
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağırırken çıkarılan sesin adı

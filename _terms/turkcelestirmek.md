@@ -2,6 +2,7 @@
 layout: term
 title: Türkçeleştirmek
 slug: turkcelestirmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Türkçeleşmesini sağlamak

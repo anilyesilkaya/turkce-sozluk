@@ -2,6 +2,7 @@
 layout: term
 title: önceden
 slug: onceden
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Başlarken, başlangıçta, daha önce; evvelce, evvelden, peşinen

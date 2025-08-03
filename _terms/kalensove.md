@@ -2,6 +2,7 @@
 layout: term
 title: kalensöve
 slug: kalensove
+letter: K
 lisan: Arapça ḳalensuve
 anlamlar:
 - Sivri tepeli külah

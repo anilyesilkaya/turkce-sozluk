@@ -2,6 +2,7 @@
 layout: term
 title: aklı başka yerde olmak
 slug: akli-baska-yerde-olmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - başka şeyler düşünmek

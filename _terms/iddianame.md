@@ -2,6 +2,7 @@
 layout: term
 title: iddianame
 slug: iddianame
+letter: I
 lisan: Arapça iddiʿā + Farsça nāme
 anlamlar:
 - Savcılığın soruşturma sonunda elde ettiği kanıtları ve iddialarını içinde topladığı, mahkemede okunan yazı; savca

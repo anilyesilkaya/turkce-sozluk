@@ -2,6 +2,7 @@
 layout: term
 title: kaynama
 slug: kaynama
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kaynamak işi; galeyan

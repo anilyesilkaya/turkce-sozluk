@@ -2,6 +2,7 @@
 layout: term
 title: akva
 slug: akva
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir tür sırmalı ve köstekli bıçak

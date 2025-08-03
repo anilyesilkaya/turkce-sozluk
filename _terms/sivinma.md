@@ -2,6 +2,7 @@
 layout: term
 title: sıvınma
 slug: sivinma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıvınmak işi

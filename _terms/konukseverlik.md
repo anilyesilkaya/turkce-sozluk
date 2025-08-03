@@ -2,6 +2,7 @@
 layout: term
 title: konukseverlik
 slug: konukseverlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Konuksever olma durumu; misafirperverlik

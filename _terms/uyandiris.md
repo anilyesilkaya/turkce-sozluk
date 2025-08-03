@@ -2,6 +2,7 @@
 layout: term
 title: uyandırış
 slug: uyandiris
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyandırmak işi

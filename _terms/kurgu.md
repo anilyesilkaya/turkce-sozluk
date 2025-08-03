@@ -2,6 +2,7 @@
 layout: term
 title: kurgu
 slug: kurgu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir şeyin zembereğini kurmak için kullanılan araç; anahtar

@@ -2,6 +2,7 @@
 layout: term
 title: birinci
 slug: birinci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir sayısının sıra sıfatı

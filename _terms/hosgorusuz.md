@@ -2,6 +2,7 @@
 layout: term
 title: hoşgörüsüz
 slug: hosgorusuz
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hoşgörüsü olmayan, hoşgörü ile davranmayan; anlayışsız, müsamahasız, toleranssız

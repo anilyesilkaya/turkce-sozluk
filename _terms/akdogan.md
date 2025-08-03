@@ -2,6 +2,7 @@
 layout: term
 title: akdoğan
 slug: akdogan
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kartalgillerden bir tür doğan; aksungur

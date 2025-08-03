@@ -2,6 +2,7 @@
 layout: term
 title: formatlı
 slug: formatli
+letter: F
 lisan: Türkçe
 anlamlar:
 - Bilgisayarda kullanılabilir duruma getirilmiş

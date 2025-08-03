@@ -2,6 +2,7 @@
 layout: term
 title: çapkın
 slug: capkin
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Geçici aşklar ve ilişkiler peşinde koşan (kimse); gönül avcısı, hovarda

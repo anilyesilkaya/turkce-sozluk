@@ -2,6 +2,7 @@
 layout: term
 title: uzatma
 slug: uzatma
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uzatmak işi; temdit

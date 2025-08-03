@@ -2,6 +2,7 @@
 layout: term
 title: yabani kimyongiller
 slug: yabani-kimyongiller
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Ayrı taç yapraklı iki çeneklilerden, yabani kimyon, peygamber ağacı vb. bitkileri içine alan bir familya

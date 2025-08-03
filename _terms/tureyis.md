@@ -2,6 +2,7 @@
 layout: term
 title: türeyiş
 slug: tureyis
+letter: T
 lisan: Türkçe
 anlamlar:
 - Türemek işi

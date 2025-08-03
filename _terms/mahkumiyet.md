@@ -2,6 +2,7 @@
 layout: term
 title: mahkûmiyet
 slug: mahkumiyet
+letter: M
 lisan: Arapça maḥkūmiyyet
 anlamlar:
 - ► hükümlülük

@@ -2,6 +2,7 @@
 layout: term
 title: langır lungur
 slug: langir-lungur
+letter: L
 lisan: Türkçe
 anlamlar:
 - Metalsi bir ses çıkararak; langur lungur

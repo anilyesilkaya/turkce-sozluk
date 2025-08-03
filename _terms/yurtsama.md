@@ -2,6 +2,7 @@
 layout: term
 title: yurtsama
 slug: yurtsama
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yurtsamak işi

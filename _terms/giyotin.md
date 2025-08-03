@@ -2,6 +2,7 @@
 layout: term
 title: giyotin
 slug: giyotin
+letter: G
 lisan: Fransızca guillotine
 anlamlar:
 - Fransa'da ölüm cezasına çarptırılanların başını kesmek için kullanılan araç

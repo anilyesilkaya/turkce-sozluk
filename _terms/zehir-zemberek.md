@@ -2,6 +2,7 @@
 layout: term
 title: zehir zemberek
 slug: zehir-zemberek
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Son derece sert, hakaret dolu

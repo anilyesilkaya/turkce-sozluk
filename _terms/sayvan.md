@@ -2,6 +2,7 @@
 layout: term
 title: sayvan
 slug: sayvan
+letter: S
 lisan: Farsça sāyebān
 anlamlar:
 - Güneşten, yağmurdan korunmak için veya süs olarak bir şeyin üzerine çekilen dam saçağı gibi düz veya eğimli örtü

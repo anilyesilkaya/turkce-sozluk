@@ -2,6 +2,7 @@
 layout: term
 title: küt
 slug: kut
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► smaç

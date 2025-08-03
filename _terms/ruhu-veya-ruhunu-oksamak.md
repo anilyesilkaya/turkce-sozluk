@@ -2,6 +2,7 @@
 layout: term
 title: ruhu (veya ruhunu) okşamak
 slug: ruhu-veya-ruhunu-oksamak
+letter: R
 lisan: Türkçe
 anlamlar:
 - duygulara hoş gelecek biçimde konuşmak veya davranmak

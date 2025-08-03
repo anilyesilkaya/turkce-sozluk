@@ -2,6 +2,7 @@
 layout: term
 title: bakkal kâğıdı
 slug: bakkal-kagidi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kalın ve kaba kâğıt

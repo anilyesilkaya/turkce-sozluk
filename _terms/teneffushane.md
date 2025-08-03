@@ -2,6 +2,7 @@
 layout: term
 title: teneffüshane
 slug: teneffushane
+letter: T
 lisan: Arapça teneffus + Farsça ḫāne
 anlamlar:
 - Genellikle okullarda, ders aralarında dinlenmek için öğrencilerin çıktığı salon veya bahçe

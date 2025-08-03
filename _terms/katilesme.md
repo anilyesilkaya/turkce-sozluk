@@ -2,6 +2,7 @@
 layout: term
 title: katileşme
 slug: katilesme
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kesinleşme

@@ -2,6 +2,7 @@
 layout: term
 title: millet
 slug: millet
+letter: M
 lisan: Arapça millet
 anlamlar:
 - Çoğunlukla aynı topraklar üzerinde yaşayan, aralarında dil, tarih, duygu, ülkü, gelenek ve görenek birliği olan insan topluluğu; ulus, budun

@@ -2,6 +2,7 @@
 layout: term
 title: rastık çekmek
 slug: rastik-cekmek
+letter: R
 lisan: Türkçe
 anlamlar:
 - rastık sürmek

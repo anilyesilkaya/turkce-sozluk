@@ -2,6 +2,7 @@
 layout: term
 title: züğürtlük
 slug: zugurtluk
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Parasızlık, parasız kalma durumu; meteliksizlik

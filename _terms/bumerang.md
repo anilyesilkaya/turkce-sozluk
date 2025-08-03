@@ -2,6 +2,7 @@
 layout: term
 title: bumerang
 slug: bumerang
+letter: B
 lisan: İngilizce boomerang
 anlamlar:
 - Kıvrık bir sopaya benzeyen ve fırlatıldığında geri dönen, ağaçtan yapılan bir av ve spor aracı

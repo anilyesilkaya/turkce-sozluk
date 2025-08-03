@@ -2,6 +2,7 @@
 layout: term
 title: yadırgı
 slug: yadirgi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yabancı

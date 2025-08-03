@@ -2,6 +2,7 @@
 layout: term
 title: yalancı dolma
 slug: yalanci-dolma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Biber, patlıcan, asma yaprağı gibi sebzelerle yapılan, kıymasız dolma; zeytinyağlı dolma

@@ -2,6 +2,7 @@
 layout: term
 title: kasabalı
 slug: kasabali
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kasaba halkından olan

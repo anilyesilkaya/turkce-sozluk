@@ -2,6 +2,7 @@
 layout: term
 title: farkında olmak
 slug: farkinda-olmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - görülmesi veya bilinmesi gereken şeylerden haberi bulunmak, kavranması gereken bir şeye dikkat etmek

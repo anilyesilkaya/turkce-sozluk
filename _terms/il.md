@@ -2,6 +2,7 @@
 layout: term
 title: il
 slug: il
+letter: I
 lisan: Türkçe
 anlamlar:
 - Ülkenin vali yönetimindeki bölümü; vilayet

@@ -2,6 +2,7 @@
 layout: term
 title: itikat
 slug: itikat
+letter: I
 lisan: Arapça iʿtiḳād
 anlamlar:
 - ► inanç

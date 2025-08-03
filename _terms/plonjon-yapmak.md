@@ -2,6 +2,7 @@
 layout: term
 title: plonjon yapmak
 slug: plonjon-yapmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - kaleci rakipten gelen şutu uçarak gösterişli bir biçimde yakalamak

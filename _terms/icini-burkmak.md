@@ -2,6 +2,7 @@
 layout: term
 title: içini burkmak
 slug: icini-burkmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - üzülmek

@@ -2,6 +2,7 @@
 layout: term
 title: diz üstü
 slug: diz-ustu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Boyu dizlerin üst kısmına gelen (etek, pantolon, çorap vb.)

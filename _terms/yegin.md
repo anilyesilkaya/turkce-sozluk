@@ -2,6 +2,7 @@
 layout: term
 title: yeğin
 slug: yegin
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► şiddetli

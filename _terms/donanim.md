@@ -2,6 +2,7 @@
 layout: term
 title: donanım
 slug: donanim
+letter: D
 lisan: Türkçe
 anlamlar:
 - Bir gemi direğine, bir yelkene veya başka bir parçaya bağlı bulunan halat ve makara vb. manevra araçları

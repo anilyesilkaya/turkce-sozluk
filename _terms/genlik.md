@@ -2,6 +2,7 @@
 layout: term
 title: genlik
 slug: genlik
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► genişlik

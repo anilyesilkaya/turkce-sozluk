@@ -2,6 +2,7 @@
 layout: term
 title: bakımdan
 slug: bakimdan
+letter: B
 lisan: Türkçe
 anlamlar:
 - '... yönden, açıdan'

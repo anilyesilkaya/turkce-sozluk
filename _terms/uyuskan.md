@@ -2,6 +2,7 @@
 layout: term
 title: uyuşkan
 slug: uyuskan
+letter: U
 lisan: Türkçe
 anlamlar:
 - Herkesle veya her şeyle kolayca uyuşabilen

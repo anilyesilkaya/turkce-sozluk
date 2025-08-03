@@ -2,6 +2,7 @@
 layout: term
 title: getirilme
 slug: getirilme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Getirilmek işi

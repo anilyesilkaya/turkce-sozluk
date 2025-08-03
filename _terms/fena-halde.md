@@ -2,6 +2,7 @@
 layout: term
 title: fena hâlde
 slug: fena-halde
+letter: F
 lisan: Türkçe
 anlamlar:
 - Aşırı ölçüde, son derece, pek çok, adamakıllı bir biçimde

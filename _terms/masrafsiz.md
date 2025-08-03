@@ -2,6 +2,7 @@
 layout: term
 title: masrafsız
 slug: masrafsiz
+letter: M
 lisan: Türkçe
 anlamlar:
 - Masraf gerektirmeyen veya az masrafı olan, ucuza mal olan

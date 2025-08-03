@@ -2,6 +2,7 @@
 layout: term
 title: ödenekli
 slug: odenekli
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ödeneği olan

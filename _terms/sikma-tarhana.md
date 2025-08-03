@@ -2,6 +2,7 @@
 layout: term
 title: sıkma tarhana
 slug: sikma-tarhana
+letter: S
 lisan: Türkçe
 anlamlar:
 - Ana malzemesi pişmiş yarma veya dövme buğday ile  yoğurt olan, kekikle tatlandırılan bir çeşit tarhana

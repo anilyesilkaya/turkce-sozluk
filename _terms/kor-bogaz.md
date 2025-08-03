@@ -2,6 +2,7 @@
 layout: term
 title: kör boğaz
 slug: kor-bogaz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Doymak bilmez mide

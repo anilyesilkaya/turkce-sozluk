@@ -2,6 +2,7 @@
 layout: term
 title: kırıtış
 slug: kiritis
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kırıtmak işi

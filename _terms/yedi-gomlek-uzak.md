@@ -2,6 +2,7 @@
 layout: term
 title: yedi gömlek uzak
 slug: yedi-gomlek-uzak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Soyca veya yakınlık bakımından bir hayli uzak

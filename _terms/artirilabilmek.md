@@ -2,6 +2,7 @@
 layout: term
 title: artırılabilmek
 slug: artirilabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Artırılma ihtimali veya imkânı bulunmak

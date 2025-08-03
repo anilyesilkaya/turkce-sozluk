@@ -2,6 +2,7 @@
 layout: term
 title: dolgunca
 slug: dolgunca
+letter: D
 lisan: Türkçe
 anlamlar:
 - Biraz şişman

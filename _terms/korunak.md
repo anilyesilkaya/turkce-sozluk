@@ -2,6 +2,7 @@
 layout: term
 title: korunak
 slug: korunak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Tehlikeden kurtulmak, korunmak için yapılmış yer

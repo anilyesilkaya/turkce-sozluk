@@ -2,6 +2,7 @@
 layout: term
 title: yerindelik
 slug: yerindelik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yerinde olma durumu

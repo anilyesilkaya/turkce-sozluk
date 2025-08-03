@@ -2,6 +2,7 @@
 layout: term
 title: sinerama
 slug: sinerama
+letter: S
 lisan: Fransızca cinérama
 anlamlar:
 - Mercekleri 27 milimetre aralıklı üç ayrı alıcının yan yana birleştirilip eşlemeli olarak çalıştırılmasıyla ortaya çıkan bir geniş perde ve üç boyutlu sinema tekniği

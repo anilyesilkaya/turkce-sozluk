@@ -2,6 +2,7 @@
 layout: term
 title: avdet etmek
 slug: avdet-etmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - dönmek, geri gelmek

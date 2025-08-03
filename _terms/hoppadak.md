@@ -2,6 +2,7 @@
 layout: term
 title: hoppadak
 slug: hoppadak
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► çabucak

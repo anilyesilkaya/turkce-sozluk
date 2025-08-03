@@ -2,6 +2,7 @@
 layout: term
 title: branda
 slug: branda
+letter: B
 lisan: İtalyanca branda
 anlamlar:
 - Gemilerde ambar kapaklarının veya filikaların üzerine örtülen, kamyon vb.de kasalarının üzerine gerilen muşamba benzeri, su geçirmez, kalın bez; branda bezi

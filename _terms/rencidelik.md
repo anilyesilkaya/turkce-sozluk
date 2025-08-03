@@ -2,6 +2,7 @@
 layout: term
 title: rencidelik
 slug: rencidelik
+letter: R
 lisan: Türkçe
 anlamlar:
 - Rencide olma durumu

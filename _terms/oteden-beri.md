@@ -2,6 +2,7 @@
 layout: term
 title: öteden beri
 slug: oteden-beri
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Geçmişten bugüne kadar, başlangıçtan beri

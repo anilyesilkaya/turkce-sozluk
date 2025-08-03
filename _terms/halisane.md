@@ -2,6 +2,7 @@
 layout: term
 title: halisane
 slug: halisane
+letter: H
 lisan: Arapça ḫāliṣ + Farsça -āne
 anlamlar:
 - ► içtenlikle

@@ -2,6 +2,7 @@
 layout: term
 title: elinden kan çıkmak
 slug: elinden-kan-cikmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - cinayet işlemek

@@ -2,6 +2,7 @@
 layout: term
 title: didişmek
 slug: didismek
+letter: D
 lisan: Türkçe
 anlamlar:
 - El veya sözle birbirini hırpalamak

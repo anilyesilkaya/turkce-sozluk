@@ -2,6 +2,7 @@
 layout: term
 title: ihlal etmek
 slug: ihlal-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - bozmak, zarara uğratmak

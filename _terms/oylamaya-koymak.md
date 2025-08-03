@@ -2,6 +2,7 @@
 layout: term
 title: oylamaya koymak
 slug: oylamaya-koymak
+letter: O
 lisan: Türkçe
 anlamlar:
 - bir toplantıdaki oy sayısını belirlemek, oy verilmesini istemek, oya sunmak

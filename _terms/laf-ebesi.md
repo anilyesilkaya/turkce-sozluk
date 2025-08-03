@@ -2,6 +2,7 @@
 layout: term
 title: laf ebesi
 slug: laf-ebesi
+letter: L
 lisan: Türkçe
 anlamlar:
 - Çok konuşan, herkese laf yetiştiren kimse; dil ebesi, söz ebesi

@@ -2,6 +2,7 @@
 layout: term
 title: tınlamalı
 slug: tinlamali
+letter: T
 lisan: Türkçe
 anlamlar:
 - '"Tın" sesi çıkaran'

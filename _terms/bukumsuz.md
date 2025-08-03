@@ -2,6 +2,7 @@
 layout: term
 title: bükümsüz
 slug: bukumsuz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bükülmemiş olan

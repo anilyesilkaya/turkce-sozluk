@@ -2,6 +2,7 @@
 layout: term
 title: yürüyebilmek
 slug: yuruyebilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yürüme ihtimali veya imkânı bulunmak

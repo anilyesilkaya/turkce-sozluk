@@ -2,6 +2,7 @@
 layout: term
 title: casus
 slug: casus
+letter: C
 lisan: Arapça cāsūs
 anlamlar:
 - Bir devlet veya kuruluşun gizli amaçları için çalışan kimse; dil avcısı, çaşıt, ajan

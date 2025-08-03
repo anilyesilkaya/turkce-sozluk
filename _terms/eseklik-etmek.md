@@ -2,6 +2,7 @@
 layout: term
 title: eşeklik etmek
 slug: eseklik-etmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - anlayışsızlık etmek, kaba davranmak

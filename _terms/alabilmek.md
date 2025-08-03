@@ -2,6 +2,7 @@
 layout: term
 title: alabilmek
 slug: alabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alma ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: eşekbaşı
 slug: esekbasi
+letter: E
 lisan: Türkçe
 anlamlar:
 - Yetkisi önemsenmeyen, gücünü gerektiği gibi göstermeyen kimse

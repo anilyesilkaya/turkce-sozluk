@@ -2,6 +2,7 @@
 layout: term
 title: mızmızlanmak
 slug: mizmizlanmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mızmızca davranışlarda bulunmak; mızmızlık etmek

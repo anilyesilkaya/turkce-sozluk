@@ -2,6 +2,7 @@
 layout: term
 title: biçimlendirilebilmek
 slug: bicimlendirilebilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Biçimlendirilme ihtimali veya imkânı bulunmak; şekillendirilebilmek

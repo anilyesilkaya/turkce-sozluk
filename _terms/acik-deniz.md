@@ -2,6 +2,7 @@
 layout: term
 title: açık deniz
 slug: acik-deniz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Denizin, kara sularının dışında kalan bölümü

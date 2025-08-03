@@ -2,6 +2,7 @@
 layout: term
 title: kapanca
 slug: kapanca
+letter: K
 lisan: Türkçe
 anlamlar:
 - Tütün fidelerini örtmek için kullanılan hasır veya ottan örtü

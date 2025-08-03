@@ -2,6 +2,7 @@
 layout: term
 title: yatırabilme
 slug: yatirabilme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yatırabilmek işi

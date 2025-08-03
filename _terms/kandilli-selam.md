@@ -2,6 +2,7 @@
 layout: term
 title: kandilli selam
 slug: kandilli-selam
+letter: K
 lisan: Türkçe
 anlamlar:
 - El etek öperek, yerlere kadar eğilerek verilen selam; kandilli temenna

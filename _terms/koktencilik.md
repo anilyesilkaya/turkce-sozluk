@@ -2,6 +2,7 @@
 layout: term
 title: köktencilik
 slug: koktencilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bilimde, dinde, siyasette kökten yenilikler yapma eğilimi; kökçülük, radikalizm

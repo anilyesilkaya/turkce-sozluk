@@ -2,6 +2,7 @@
 layout: term
 title: yöneltme
 slug: yoneltme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yöneltmek işi; tevcih

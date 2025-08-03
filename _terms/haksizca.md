@@ -2,6 +2,7 @@
 layout: term
 title: haksızca
 slug: haksizca
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hakka, adalete uymayan

@@ -2,6 +2,7 @@
 layout: term
 title: hayalli
 slug: hayalli
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hayali olan

@@ -2,6 +2,7 @@
 layout: term
 title: işlev
 slug: islev
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bir şey veya kimsenin yapısı veya konumu gereği yaptığı iş, kendine özgü olan iş görme yetisi; görev, fonksiyon

@@ -2,6 +2,7 @@
 layout: term
 title: sömestir
 slug: somestir
+letter: S
 lisan: Fransızca semestre
 anlamlar:
 - ► yarıyıl

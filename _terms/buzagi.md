@@ -2,6 +2,7 @@
 layout: term
 title: buzağı
 slug: buzagi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Yeni doğmuş, ana sütüyle beslenen sığır yavrusu

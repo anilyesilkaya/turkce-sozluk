@@ -2,6 +2,7 @@
 layout: term
 title: arıtış
 slug: aritis
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arıtmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: düelloculuk
 slug: duelloculuk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düellocu olma durumu

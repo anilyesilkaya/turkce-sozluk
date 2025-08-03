@@ -2,6 +2,7 @@
 layout: term
 title: masatlamak
 slug: masatlamak
+letter: M
 lisan: Türkçe
 anlamlar:
 - Masat veya benzeri bir şeyle bıçak, orak, tırpan gibi aletleri bilemek

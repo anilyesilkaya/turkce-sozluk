@@ -2,6 +2,7 @@
 layout: term
 title: dondurabilmek
 slug: dondurabilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dondurma ihtimali veya imkânı bulunmak

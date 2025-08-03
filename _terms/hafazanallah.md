@@ -2,6 +2,7 @@
 layout: term
 title: hafazanallah
 slug: hafazanallah
+letter: H
 lisan: Arapça ḥafaẓana'l-lah
 anlamlar:
 - Kötü bir durumdan uzak bulunmayı dilemek için "Allah bizi korusun" anlamında kullanılan bir söz

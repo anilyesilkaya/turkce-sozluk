@@ -2,6 +2,7 @@
 layout: term
 title: örgülemek
 slug: orgulemek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Örgü durumuna getirmek

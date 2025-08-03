@@ -2,6 +2,7 @@
 layout: term
 title: balkan
 slug: balkan
+letter: B
 lisan: Türkçe
 anlamlar:
 - Sarp ve ormanlık sıradağ

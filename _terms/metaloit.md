@@ -2,6 +2,7 @@
 layout: term
 title: metaloit
 slug: metaloit
+letter: M
 lisan: Fransızca métalloïde
 anlamlar:
 - ► metalsi

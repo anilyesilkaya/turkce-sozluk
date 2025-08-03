@@ -2,6 +2,7 @@
 layout: term
 title: çiğ toprak
 slug: cig-toprak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Uzun zaman işlenmemiş, güç sürülür toprak

@@ -2,6 +2,7 @@
 layout: term
 title: tavuk
 slug: tavuk
+letter: T
 lisan: Türkçe
 anlamlar:
 - Sülüngillerden, eti ve yumurtası için üretilen kümes hayvanı (Gallus)

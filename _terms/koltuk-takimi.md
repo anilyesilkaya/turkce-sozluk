@@ -2,6 +2,7 @@
 layout: term
 title: koltuk takımı
 slug: koltuk-takimi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Üçlü, ikili ve tekli oturma birimleri olan mobilya takımı

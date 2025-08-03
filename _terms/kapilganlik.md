@@ -2,6 +2,7 @@
 layout: term
 title: kapılganlık
 slug: kapilganlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kapılgan olma durumu

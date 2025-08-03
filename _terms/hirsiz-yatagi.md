@@ -2,6 +2,7 @@
 layout: term
 title: hırsız yatağı
 slug: hirsiz-yatagi
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hırsızların gizlendiği yer

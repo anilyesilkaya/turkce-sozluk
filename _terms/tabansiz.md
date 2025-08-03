@@ -2,6 +2,7 @@
 layout: term
 title: tabansız
 slug: tabansiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tabanı olmayan

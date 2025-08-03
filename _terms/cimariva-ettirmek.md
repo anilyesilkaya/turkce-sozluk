@@ -2,6 +2,7 @@
 layout: term
 title: çımariva ettirmek
 slug: cimariva-ettirmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - savaş gemilerinde selamlama merasimi için askerî personelin küpeşte boyunca belirli aralıklarla dizilmesini sağlamak

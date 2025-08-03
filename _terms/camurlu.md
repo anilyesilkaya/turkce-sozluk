@@ -2,6 +2,7 @@
 layout: term
 title: çamurlu
 slug: camurlu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çamur bulaşmış, üstünde veya içinde çamur bulunan

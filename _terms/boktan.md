@@ -2,6 +2,7 @@
 layout: term
 title: boktan
 slug: boktan
+letter: B
 lisan: Türkçe
 anlamlar:
 - Değersiz, yararsız olan

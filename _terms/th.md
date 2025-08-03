@@ -2,6 +2,7 @@
 layout: term
 title: Th
 slug: th
+letter: T
 lisan: Türkçe
 anlamlar:
 - Toryum elementinin simgesi

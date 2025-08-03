@@ -2,6 +2,7 @@
 layout: term
 title: benzeş
 slug: benzes
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► benzer

@@ -2,6 +2,7 @@
 layout: term
 title: avuç dolusu
 slug: avuc-dolusu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Pek çok

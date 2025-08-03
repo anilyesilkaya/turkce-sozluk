@@ -2,6 +2,7 @@
 layout: term
 title: bölgecilik
 slug: bolgecilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bölgeci olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: nazariye
 slug: nazariye
+letter: N
 lisan: Arapça naẓariyye
 anlamlar:
 - ► kuram

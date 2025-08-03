@@ -2,6 +2,7 @@
 layout: term
 title: devlet kapısı
 slug: devlet-kapisi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Devletin kurum ve kuruluşları; hükûmet kapısı

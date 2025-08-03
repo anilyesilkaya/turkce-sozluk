@@ -2,6 +2,7 @@
 layout: term
 title: çağdaşlık
 slug: cagdaslik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çağdaş olma durumu; çağcıllık, modernlik, asrilik, muasırlık, modernizm

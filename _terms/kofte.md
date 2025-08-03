@@ -2,6 +2,7 @@
 layout: term
 title: köfte
 slug: kofte
+letter: K
 lisan: Farsça kūfte
 anlamlar:
 - Genellikle çekilmiş etten, bazen de tavuk, balık veya patatesten yapılan, türlü biçimlerde pişirilen yemek

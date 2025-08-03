@@ -2,6 +2,7 @@
 layout: term
 title: korsanlık
 slug: korsanlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Korsan olma durumu

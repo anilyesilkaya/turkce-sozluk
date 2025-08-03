@@ -2,6 +2,7 @@
 layout: term
 title: Berberice
 slug: berberice
+letter: B
 lisan: Türkçe
 anlamlar:
 - Berberilerin kullandığı dil

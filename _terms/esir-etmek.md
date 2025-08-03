@@ -2,6 +2,7 @@
 layout: term
 title: esir etmek
 slug: esir-etmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - tutsak durumuna getirmek

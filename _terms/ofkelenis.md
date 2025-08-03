@@ -2,6 +2,7 @@
 layout: term
 title: öfkeleniş
 slug: ofkelenis
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öfkelenmek işi; hiddetleniş

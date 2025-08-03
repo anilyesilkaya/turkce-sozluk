@@ -2,6 +2,7 @@
 layout: term
 title: birader
 slug: birader
+letter: B
 lisan: Farsça birāder
 anlamlar:
 - Erkek kardeş

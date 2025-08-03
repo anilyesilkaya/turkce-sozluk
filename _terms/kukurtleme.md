@@ -2,6 +2,7 @@
 layout: term
 title: kükürtleme
 slug: kukurtleme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kükürtlemek işi, sülfürleme

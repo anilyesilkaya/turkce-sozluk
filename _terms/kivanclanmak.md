@@ -2,6 +2,7 @@
 layout: term
 title: kıvançlanmak
 slug: kivanclanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► övünmek

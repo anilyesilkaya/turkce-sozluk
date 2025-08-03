@@ -2,6 +2,7 @@
 layout: term
 title: muttali
 slug: muttali
+letter: M
 lisan: Arapça muṭṭaliʿ
 anlamlar:
 - Öğrenmiş, haber almış, bilgi edinmiş

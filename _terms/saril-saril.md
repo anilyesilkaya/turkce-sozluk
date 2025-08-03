@@ -2,6 +2,7 @@
 layout: term
 title: şarıl şarıl
 slug: saril-saril
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Su veya yağmur, bol ve sesli bir biçimde (akmak, yağmak); şar şar

@@ -2,6 +2,7 @@
 layout: term
 title: pohpohlama
 slug: pohpohlama
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pohpohlamak işi; pehpehleme

@@ -2,6 +2,7 @@
 layout: term
 title: perçinlemek
 slug: percinlemek
+letter: P
 lisan: Türkçe
 anlamlar:
 - İki veya daha çok parçayı perçinle birbirine tutturmak

@@ -2,6 +2,7 @@
 layout: term
 title: illet
 slug: illet
+letter: I
 lisan: Arapça ʿillet
 anlamlar:
 - ► hastalık

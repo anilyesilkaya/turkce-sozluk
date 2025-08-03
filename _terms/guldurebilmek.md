@@ -2,6 +2,7 @@
 layout: term
 title: güldürebilmek
 slug: guldurebilmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güldürme ihtimali veya imkânı bulunmak

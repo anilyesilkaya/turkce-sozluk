@@ -2,6 +2,7 @@
 layout: term
 title: başı kapalı
 slug: basi-kapali
+letter: B
 lisan: Türkçe
 anlamlar:
 - Başı örtülü olan (kadın); başı bağlı, başı örtük, başı örtülü

@@ -2,6 +2,7 @@
 layout: term
 title: buluşturmak
 slug: bulusturmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir araya gelmelerini sağlamak, bir araya getirmek

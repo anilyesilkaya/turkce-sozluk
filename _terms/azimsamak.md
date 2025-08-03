@@ -2,6 +2,7 @@
 layout: term
 title: azımsamak
 slug: azimsamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir şeyin umulduğundan az olduğu yargısına varmak, az görmek, az bulmak

@@ -2,6 +2,7 @@
 layout: term
 title: soluk benizli
 slug: soluk-benizli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Doğuştan veya herhangi bir hastalık sebebiyle yüzünün rengi solmuş olan

@@ -2,6 +2,7 @@
 layout: term
 title: suntıraç
 slug: suntirac
+letter: S
 lisan: Farsça sumterāş
 anlamlar:
 - Nalbantların, nallanacak hayvanın tırnağını keserken kullandıkları keskin araç

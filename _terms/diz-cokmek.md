@@ -2,6 +2,7 @@
 layout: term
 title: diz çökmek
 slug: diz-cokmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - dizlerini yere koyarak oturmak

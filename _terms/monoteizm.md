@@ -2,6 +2,7 @@
 layout: term
 title: monoteizm
 slug: monoteizm
+letter: M
 lisan: Fransızca monothéisme
 anlamlar:
 - ► tek tanrıcılık

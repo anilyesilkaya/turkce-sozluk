@@ -2,6 +2,7 @@
 layout: term
 title: büyükseme
 slug: buyukseme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Büyüksemek işi; büyümseme

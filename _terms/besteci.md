@@ -2,6 +2,7 @@
 layout: term
 title: besteci
 slug: besteci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beste yapan kimse; bestekâr, kompozitör, maestro

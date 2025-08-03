@@ -2,6 +2,7 @@
 layout: term
 title: alerjik
 slug: alerjik
+letter: A
 lisan: Fransızca allergique
 anlamlar:
 - Alerji ile ilgili olan

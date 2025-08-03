@@ -2,6 +2,7 @@
 layout: term
 title: çokçu
 slug: cokcu
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çokçuluk öğretisini benimseyen; plüralist

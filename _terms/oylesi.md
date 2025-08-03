@@ -2,6 +2,7 @@
 layout: term
 title: öylesi
 slug: oylesi
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ona benzer, onun gibi

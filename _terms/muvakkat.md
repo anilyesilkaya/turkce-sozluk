@@ -2,6 +2,7 @@
 layout: term
 title: muvakkat
 slug: muvakkat
+letter: M
 lisan: Arapça muvaḳḳat
 anlamlar:
 - ► geçici

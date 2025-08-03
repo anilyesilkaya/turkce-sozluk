@@ -2,6 +2,7 @@
 layout: term
 title: mukabeleci
 slug: mukabeleci
+letter: M
 lisan: Türkçe
 anlamlar:
 - Camilerde Kur'an okuyan kimse

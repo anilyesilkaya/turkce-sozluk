@@ -2,6 +2,7 @@
 layout: term
 title: adamsızlık
 slug: adamsizlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Adamsız olma durumu

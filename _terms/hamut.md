@@ -2,6 +2,7 @@
 layout: term
 title: hamut
 slug: hamut
+letter: H
 lisan: Türkçe
 anlamlar:
 - Araba koşumunda atların boyunlarına geçirilen ağaç veya üstüne meşin geçirilmiş çember

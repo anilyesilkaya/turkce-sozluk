@@ -2,6 +2,7 @@
 layout: term
 title: püf noktası
 slug: puf-noktasi
+letter: P
 lisan: Türkçe
 anlamlar:
 - Bir işin en ince, hassas ve önemli noktası

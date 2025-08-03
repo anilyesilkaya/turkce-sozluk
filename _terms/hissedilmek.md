@@ -2,6 +2,7 @@
 layout: term
 title: hissedilmek
 slug: hissedilmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hissetme işine konu olmak; hissolunmak

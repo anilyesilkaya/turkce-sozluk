@@ -2,6 +2,7 @@
 layout: term
 title: kemiksiz
 slug: kemiksiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kemiği olmayan, kemiği ayrılmış

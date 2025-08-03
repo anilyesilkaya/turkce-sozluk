@@ -2,6 +2,7 @@
 layout: term
 title: tıynetsiz
 slug: tiynetsiz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Kötü huylu

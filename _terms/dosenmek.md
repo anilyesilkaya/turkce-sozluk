@@ -2,6 +2,7 @@
 layout: term
 title: döşenmek
 slug: dosenmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Döşeme işi yapılmak

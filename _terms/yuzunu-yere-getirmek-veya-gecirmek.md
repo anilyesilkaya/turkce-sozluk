@@ -2,6 +2,7 @@
 layout: term
 title: yüzünü yere getirmek (veya geçirmek)
 slug: yuzunu-yere-getirmek-veya-gecirmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - utandırmak, mahcup duruma düşürmek

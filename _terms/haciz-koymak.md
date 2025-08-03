@@ -2,6 +2,7 @@
 layout: term
 title: haciz koymak
 slug: haciz-koymak
+letter: H
 lisan: Türkçe
 anlamlar:
 - borçlunun malına el koymak

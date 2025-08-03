@@ -2,6 +2,7 @@
 layout: term
 title: yakasını bırakmamak
 slug: yakasini-birakmamak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - bezdirecek kadar üstüne düşmek, rahat vermemek, ısrar etmek

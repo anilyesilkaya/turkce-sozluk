@@ -2,6 +2,7 @@
 layout: term
 title: yetimlik
 slug: yetimlik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yetim olma durumu; babasızlık

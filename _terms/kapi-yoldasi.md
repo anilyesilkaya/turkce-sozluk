@@ -2,6 +2,7 @@
 layout: term
 title: kapı yoldaşı
 slug: kapi-yoldasi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Aynı yerde ve görevde çalışanlardan her biri

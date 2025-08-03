@@ -2,6 +2,7 @@
 layout: term
 title: damaksız
 slug: damaksiz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Damağı olmayan

@@ -2,6 +2,7 @@
 layout: term
 title: üstüne kalmak
 slug: ustune-kalmak
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - güçlükler birinin omuzlarına yüklenmek

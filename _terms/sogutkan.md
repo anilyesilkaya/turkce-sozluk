@@ -2,6 +2,7 @@
 layout: term
 title: soğutkan
 slug: sogutkan
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıcaklığı azaltan, soğutma özelliği olan

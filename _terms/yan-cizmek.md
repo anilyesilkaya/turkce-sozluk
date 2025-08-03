@@ -2,6 +2,7 @@
 layout: term
 title: yan çizmek
 slug: yan-cizmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - bir işten kaçmak

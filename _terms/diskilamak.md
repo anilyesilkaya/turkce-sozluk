@@ -2,6 +2,7 @@
 layout: term
 title: dışkılamak
 slug: diskilamak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dışkıyı dışarı atmak

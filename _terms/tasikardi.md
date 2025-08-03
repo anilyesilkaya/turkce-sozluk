@@ -2,6 +2,7 @@
 layout: term
 title: taşikardi
 slug: tasikardi
+letter: T
 lisan: Fransızca tachycardie
 anlamlar:
 - Kalp atım sayısının dakikada 100 atımın üstüne çıkması

@@ -2,6 +2,7 @@
 layout: term
 title: tarihî eser
 slug: tarihi-eser
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tarihsel bir konuyu işleyen eser

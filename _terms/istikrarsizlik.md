@@ -2,6 +2,7 @@
 layout: term
 title: istikrarsızlık
 slug: istikrarsizlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İstikrarsız olma durumu

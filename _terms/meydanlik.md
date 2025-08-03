@@ -2,6 +2,7 @@
 layout: term
 title: meydanlık
 slug: meydanlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► açıklık

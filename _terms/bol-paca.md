@@ -2,6 +2,7 @@
 layout: term
 title: bol paça
 slug: bol-paca
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► geniş paça

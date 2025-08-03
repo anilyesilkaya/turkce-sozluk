@@ -2,6 +2,7 @@
 layout: term
 title: gözünde (veya gözlerinde) şimşek (veya şimşekler) çakmak
 slug: gozunde-veya-gozlerinde-simsek-veya-simsekler-cakmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - sert ve şiddetli darbe yüzünden kişinin gözü önünde yıldızlar oluşmak

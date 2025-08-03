@@ -2,6 +2,7 @@
 layout: term
 title: servis merdiveni
 slug: servis-merdiveni
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir kurum veya kuruluşta yalnızca hizmet için kullanılan merdiven

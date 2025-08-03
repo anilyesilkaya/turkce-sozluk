@@ -2,6 +2,7 @@
 layout: term
 title: sarımsı
 slug: sarimsi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Rengi sarıyı andıran, sarıya benzeyen; sarımtırak

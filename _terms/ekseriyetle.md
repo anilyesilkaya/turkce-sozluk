@@ -2,6 +2,7 @@
 layout: term
 title: ekseriyetle
 slug: ekseriyetle
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► genellikle

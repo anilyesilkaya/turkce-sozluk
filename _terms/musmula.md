@@ -2,6 +2,7 @@
 layout: term
 title: muşmula
 slug: musmula
+letter: M
 lisan: Rumca
 anlamlar:
 - Gülgillerden, dikenli küçük bir ağaç (Mespilus germanica)

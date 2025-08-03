@@ -2,6 +2,7 @@
 layout: term
 title: kuzum!
 slug: kuzum
+letter: K
 lisan: Türkçe
 anlamlar:
 - yalvarma veya dikkat çekme anlamları taşıyan bir seslenme sözü

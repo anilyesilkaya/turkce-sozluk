@@ -2,6 +2,7 @@
 layout: term
 title: işaret zamiri
 slug: isaret-zamiri
+letter: I
 lisan: Türkçe
 anlamlar:
 - Adları gösterme yoluyla belirten zamir; gösterme zamiri

@@ -2,6 +2,7 @@
 layout: term
 title: kimyoni
 slug: kimyoni
+letter: K
 lisan: Arapça kemmūnī
 anlamlar:
 - ► kimyon rengi

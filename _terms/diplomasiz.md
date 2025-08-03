@@ -2,6 +2,7 @@
 layout: term
 title: diplomasız
 slug: diplomasiz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Diploması olmayan

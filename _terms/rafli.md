@@ -2,6 +2,7 @@
 layout: term
 title: raflı
 slug: rafli
+letter: R
 lisan: Türkçe
 anlamlar:
 - Rafı olan

@@ -2,6 +2,7 @@
 layout: term
 title: ovmak
 slug: ovmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Bir şeyin üzerine bastırarak el gezdirmek

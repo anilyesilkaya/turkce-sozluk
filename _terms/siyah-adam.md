@@ -2,6 +2,7 @@
 layout: term
 title: siyah adam
 slug: siyah-adam
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► zenci

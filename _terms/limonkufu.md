@@ -2,6 +2,7 @@
 layout: term
 title: limonküfü
 slug: limonkufu
+letter: L
 lisan: Türkçe
 anlamlar:
 - Yeşile çalan mavi renk

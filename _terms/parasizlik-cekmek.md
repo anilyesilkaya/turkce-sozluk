@@ -2,6 +2,7 @@
 layout: term
 title: parasızlık çekmek
 slug: parasizlik-cekmek
+letter: P
 lisan: Türkçe
 anlamlar:
 - para yönünden sürekli sıkıntı içinde olmak

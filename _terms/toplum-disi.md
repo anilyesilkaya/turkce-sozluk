@@ -2,6 +2,7 @@
 layout: term
 title: toplum dışı
 slug: toplum-disi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Toplumun dışında kalan

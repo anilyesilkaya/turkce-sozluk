@@ -2,6 +2,7 @@
 layout: term
 title: memeli
 slug: memeli
+letter: M
 lisan: Türkçe
 anlamlar:
 - Memesi olan

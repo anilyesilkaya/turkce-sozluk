@@ -2,6 +2,7 @@
 layout: term
 title: sinemacılık
 slug: sinemacilik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sinema filmlerinin gerçekleştirilmesi için gerekli araç ve gereçleri yapmak, film çevirmek, bunların sürüm ve dağıtımını sağlamak amacıyla yapılan çalışmaların tümü; filmcilik, sinematografi

@@ -2,6 +2,7 @@
 layout: term
 title: depara geçmek
 slug: depara-gecmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - koşuya veya yarışa hızla başlamak

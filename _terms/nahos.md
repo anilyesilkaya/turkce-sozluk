@@ -2,6 +2,7 @@
 layout: term
 title: nahoş
 slug: nahos
+letter: N
 lisan: Farsça nāḫoş
 anlamlar:
 - Hoş olmayan, hoşa gitmeyen, kötü, çirkin

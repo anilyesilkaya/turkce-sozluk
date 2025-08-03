@@ -2,6 +2,7 @@
 layout: term
 title: vınıltı
 slug: vinilti
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vınlayan bir şeyin çıkardığı sesin adı

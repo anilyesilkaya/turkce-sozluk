@@ -2,6 +2,7 @@
 layout: term
 title: toplum bilimi
 slug: toplum-bilimi
+letter: T
 lisan: Türkçe
 anlamlar:
 - Toplumun oluşum, işleyiş ve gelişim yasalarını inceleyen bilim dalı; toplumsal bilim, içtimaiyat, sosyoloji

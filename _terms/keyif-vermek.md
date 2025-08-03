@@ -2,6 +2,7 @@
 layout: term
 title: keyif vermek
 slug: keyif-vermek
+letter: K
 lisan: Türkçe
 anlamlar:
 - neşe vermek, sarhoş etmek

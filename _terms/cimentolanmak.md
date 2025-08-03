@@ -2,6 +2,7 @@
 layout: term
 title: çimentolanmak
 slug: cimentolanmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çimento sürülmek, çimento ile kaplanmak

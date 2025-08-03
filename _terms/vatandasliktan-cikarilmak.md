@@ -2,6 +2,7 @@
 layout: term
 title: vatandaşlıktan çıkarılmak
 slug: vatandasliktan-cikarilmak
+letter: V
 lisan: Türkçe
 anlamlar:
 - yurttaşlık hakları elinden alınmak

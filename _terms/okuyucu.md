@@ -2,6 +2,7 @@
 layout: term
 title: okuyucu
 slug: okuyucu
+letter: O
 lisan: Türkçe
 anlamlar:
 - Sürekli olarak gazete, dergi vb. okuyan; okur, kari

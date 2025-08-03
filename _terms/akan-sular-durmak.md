@@ -2,6 +2,7 @@
 layout: term
 title: akan sular durmak
 slug: akan-sular-durmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - itiraz edememek, söyleyecek sözü kalmamak

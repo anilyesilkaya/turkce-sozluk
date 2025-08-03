@@ -2,6 +2,7 @@
 layout: term
 title: sarsmak
 slug: sarsmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Birdenbire ve güçle kımıldatmak; oynatmak, sallamak, silkelemek, titretmek

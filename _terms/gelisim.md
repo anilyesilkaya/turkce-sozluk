@@ -2,6 +2,7 @@
 layout: term
 title: gelişim
 slug: gelisim
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gelişmek işi

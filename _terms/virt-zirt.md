@@ -2,6 +2,7 @@
 layout: term
 title: vırt zırt
 slug: virt-zirt
+letter: V
 lisan: Türkçe
 anlamlar:
 - ► ikide bir

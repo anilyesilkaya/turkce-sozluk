@@ -2,6 +2,7 @@
 layout: term
 title: nazil olmak
 slug: nazil-olmak
+letter: N
 lisan: Türkçe
 anlamlar:
 - inmek

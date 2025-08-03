@@ -2,6 +2,7 @@
 layout: term
 title: okuma
 slug: okuma
+letter: O
 lisan: Türkçe
 anlamlar:
 - Okumak işi; kıraat

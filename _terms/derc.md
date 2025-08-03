@@ -2,6 +2,7 @@
 layout: term
 title: derç
 slug: derc
+letter: D
 lisan: Arapça derc
 anlamlar:
 - Bir araya getirme

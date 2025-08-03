@@ -2,6 +2,7 @@
 layout: term
 title: açılış
 slug: acilis
+letter: A
 lisan: Türkçe
 anlamlar:
 - Açılmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: karamsar olmak
 slug: karamsar-olmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kötümserliğe kapılmak, bedbin olmak

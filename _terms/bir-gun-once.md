@@ -2,6 +2,7 @@
 layout: term
 title: bir gün önce
 slug: bir-gun-once
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bir an önce

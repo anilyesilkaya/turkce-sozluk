@@ -2,6 +2,7 @@
 layout: term
 title: açık ağızlı
 slug: acik-agizli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yerli yersiz, çok konuşan (kimse)

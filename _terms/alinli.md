@@ -2,6 +2,7 @@
 layout: term
 title: alınlı
 slug: alinli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alnı olan

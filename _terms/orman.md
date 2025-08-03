@@ -2,6 +2,7 @@
 layout: term
 title: orman
 slug: orman
+letter: O
 lisan: Türkçe
 anlamlar:
 - Ağaçlarla örtülü geniş alan

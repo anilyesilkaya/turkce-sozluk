@@ -2,6 +2,7 @@
 layout: term
 title: ipsiz
 slug: ipsiz
+letter: I
 lisan: Türkçe
 anlamlar:
 - İpi olmayan

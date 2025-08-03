@@ -2,6 +2,7 @@
 layout: term
 title: münezzeh
 slug: munezzeh
+letter: M
 lisan: Arapça munezzeh
 anlamlar:
 - Eksiklik, kötülük vb.nden uzak olan

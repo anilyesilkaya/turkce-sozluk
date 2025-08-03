@@ -2,6 +2,7 @@
 layout: term
 title: Atatürkçü
 slug: ataturkcu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Atatürkçülük yanlısı; Kemalist

@@ -2,6 +2,7 @@
 layout: term
 title: demeç
 slug: demec
+letter: D
 lisan: Türkçe
 anlamlar:
 - Yetkili bir kimsenin bir konuda yayın organlarına yaptığı açıklama; beyanat

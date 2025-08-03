@@ -2,6 +2,7 @@
 layout: term
 title: arapsaçı
 slug: arapsaci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Küçük, yuvarlak ve çok sık yeşil yaprakları olan, uzadıkça aşağı doğru sarkan bir süs bitkisi

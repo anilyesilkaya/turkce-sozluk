@@ -2,6 +2,7 @@
 layout: term
 title: evcillik
 slug: evcillik
+letter: E
 lisan: Türkçe
 anlamlar:
 - Evcil olma durumu

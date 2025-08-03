@@ -2,6 +2,7 @@
 layout: term
 title: örgü
 slug: orgu
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Örme işi veya biçimi

@@ -2,6 +2,7 @@
 layout: term
 title: hayat arkadaşı
 slug: hayat-arkadasi
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► eş

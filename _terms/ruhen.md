@@ -2,6 +2,7 @@
 layout: term
 title: ruhen
 slug: ruhen
+letter: R
 lisan: Arapça rūḥen
 anlamlar:
 - Ruh bakımından; ruhça

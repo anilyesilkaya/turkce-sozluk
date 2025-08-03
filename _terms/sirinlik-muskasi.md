@@ -2,6 +2,7 @@
 layout: term
 title: şirinlik muskası
 slug: sirinlik-muskasi
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Bir kimsenin bir başkasına çekici veya hoş görünmesi için yazdırılan muska

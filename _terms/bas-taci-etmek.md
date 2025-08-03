@@ -2,6 +2,7 @@
 layout: term
 title: baş tacı etmek
 slug: bas-taci-etmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - çok sevmek ve saymak, el üstünde tutmak

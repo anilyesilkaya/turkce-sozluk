@@ -2,6 +2,7 @@
 layout: term
 title: yampiri
 slug: yampiri
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Eğri büğrü, yan yan ve çarpık giden

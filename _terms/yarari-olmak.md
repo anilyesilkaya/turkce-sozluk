@@ -2,6 +2,7 @@
 layout: term
 title: yararı olmak
 slug: yarari-olmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yararlı olmak, olumlu etki yapmak

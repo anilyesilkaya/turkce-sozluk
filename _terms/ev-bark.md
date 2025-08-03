@@ -2,6 +2,7 @@
 layout: term
 title: ev bark
 slug: ev-bark
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► ev

@@ -2,6 +2,7 @@
 layout: term
 title: törpüsüz
 slug: torpusuz
+letter: T
 lisan: Türkçe
 anlamlar:
 - Törpülenmemiş

@@ -2,6 +2,7 @@
 layout: term
 title: oklava
 slug: oklava
+letter: O
 lisan: Türkçe
 anlamlar:
 - Hamur açmakta kullanılan, silindir biçiminde, uzunca, ince değnek

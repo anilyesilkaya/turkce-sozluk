@@ -2,6 +2,7 @@
 layout: term
 title: asortik
 slug: asortik
+letter: A
 lisan: Fransızca assortique
 anlamlar:
 - Giysilerini birbirine uygun giyen

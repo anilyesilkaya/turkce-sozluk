@@ -2,6 +2,7 @@
 layout: term
 title: oya çiçeği
 slug: oya-cicegi
+letter: O
 lisan: Türkçe
 anlamlar:
 - Koyu menekşe veya pembe renkte çiçekler açan süs bitkisi (Lagerstroemia indica)

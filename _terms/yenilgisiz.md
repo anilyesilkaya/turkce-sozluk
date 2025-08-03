@@ -2,6 +2,7 @@
 layout: term
 title: yenilgisiz
 slug: yenilgisiz
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Hiç yenilmemiş; namağlup

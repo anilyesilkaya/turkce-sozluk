@@ -2,6 +2,7 @@
 layout: term
 title: ana akım medya
 slug: ana-akim-medya
+letter: A
 lisan: Türkçe
 anlamlar:
 - Toplumun geneline hitap eden, gündemi belirleyen, yerleşik ve yaygın olan yazılı veya görsel basın

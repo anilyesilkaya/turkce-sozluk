@@ -2,6 +2,7 @@
 layout: term
 title: riyaziye
 slug: riyaziye
+letter: R
 lisan: Arapça riyāżiyye
 anlamlar:
 - ► matematik

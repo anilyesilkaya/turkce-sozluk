@@ -2,6 +2,7 @@
 layout: term
 title: boğumlanma noktası
 slug: bogumlanma-noktasi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Ağız boşluğunda seslerin oluştuğu noktaların her biri; çıkak, mahreç

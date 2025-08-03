@@ -2,6 +2,7 @@
 layout: term
 title: hışımlanmak
 slug: hisimlanmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Öfkelenmek, kızgın duruma gelmek

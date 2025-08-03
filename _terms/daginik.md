@@ -2,6 +2,7 @@
 layout: term
 title: dağınık
 slug: daginik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Geniş bir alana yayılmış olan

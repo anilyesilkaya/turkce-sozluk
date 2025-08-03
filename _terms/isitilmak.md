@@ -2,6 +2,7 @@
 layout: term
 title: ısıtılmak
 slug: isitilmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - Isıtma işi yapılmak

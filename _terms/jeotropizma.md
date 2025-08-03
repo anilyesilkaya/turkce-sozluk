@@ -2,6 +2,7 @@
 layout: term
 title: jeotropizma
 slug: jeotropizma
+letter: J
 lisan: Fransızca géotropisme
 anlamlar:
 - ► yere yönelim

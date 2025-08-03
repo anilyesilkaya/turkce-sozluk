@@ -2,6 +2,7 @@
 layout: term
 title: kovalayabilmek
 slug: kovalayabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kovalama ihtimali veya imkânı bulunmak

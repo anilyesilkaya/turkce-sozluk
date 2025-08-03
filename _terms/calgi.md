@@ -2,6 +2,7 @@
 layout: term
 title: çalgı
 slug: calgi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Müzik yapmak amacıyla kullanılan her türlü ses verebilen alet; çalgı aleti, saz (II), enstrüman

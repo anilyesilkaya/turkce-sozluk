@@ -2,6 +2,7 @@
 layout: term
 title: cılız
 slug: ciliz
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► sıska

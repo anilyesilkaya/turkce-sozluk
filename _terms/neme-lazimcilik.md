@@ -2,6 +2,7 @@
 layout: term
 title: neme lazımcılık
 slug: neme-lazimcilik
+letter: N
 lisan: Türkçe
 anlamlar:
 - Gerekli şeylerle ilgilenmekten kaçınma durumu, bir şeyi umursamama durumu; neme gerekçilik

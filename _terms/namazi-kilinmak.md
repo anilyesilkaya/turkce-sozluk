@@ -2,6 +2,7 @@
 layout: term
 title: namazı kılınmak
 slug: namazi-kilinmak
+letter: N
 lisan: Türkçe
 anlamlar:
 - Müslüman birinin cenaze namazı kılınmak

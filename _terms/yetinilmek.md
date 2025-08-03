@@ -2,6 +2,7 @@
 layout: term
 title: yetinilmek
 slug: yetinilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yetinme işi yapılmak

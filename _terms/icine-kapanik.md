@@ -2,6 +2,7 @@
 layout: term
 title: içine kapanık
 slug: icine-kapanik
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► içe kapanık

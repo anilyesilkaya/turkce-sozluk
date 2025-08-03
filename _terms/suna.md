@@ -2,6 +2,7 @@
 layout: term
 title: suna
 slug: suna
+letter: S
 lisan: Türkçe
 anlamlar:
 - Erkek ördek

@@ -2,6 +2,7 @@
 layout: term
 title: akıl dışıcı
 slug: akil-disici
+letter: A
 lisan: Türkçe
 anlamlar:
 - Akıl dışıcılık yanlısı olan (kimse); us dışıcı, irrasyonalist

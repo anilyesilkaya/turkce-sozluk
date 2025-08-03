@@ -2,6 +2,7 @@
 layout: term
 title: muhacim
 slug: muhacim
+letter: M
 lisan: Arapça muhācim
 anlamlar:
 - Hücum eden, saldıran kimse

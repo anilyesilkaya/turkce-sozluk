@@ -2,6 +2,7 @@
 layout: term
 title: lavanta
 slug: lavanta
+letter: L
 lisan: İtalyanca lavanda
 anlamlar:
 - Lavanta çiçeğinden yapılan ispirtolu esans

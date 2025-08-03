@@ -2,6 +2,7 @@
 layout: term
 title: metfun
 slug: metfun
+letter: M
 lisan: Arapça medfūn
 anlamlar:
 - ► gömülü

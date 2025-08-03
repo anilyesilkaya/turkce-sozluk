@@ -2,6 +2,7 @@
 layout: term
 title: mecaz
 slug: mecaz
+letter: M
 lisan: Arapça mecāz
 anlamlar:
 - Bir ilgi veya benzetme sonucu gerçek anlamından başka anlamda kullanılan söz

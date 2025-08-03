@@ -2,6 +2,7 @@
 layout: term
 title: kırmızı bülten
 slug: kirmizi-bulten
+letter: K
 lisan: Türkçe
 anlamlar:
 - Uluslararası polis örgütünün dünya çapında aradığı suçlular için yayımladığı arama ve yakalama emri

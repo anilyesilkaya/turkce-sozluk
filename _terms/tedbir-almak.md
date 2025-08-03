@@ -2,6 +2,7 @@
 layout: term
 title: tedbir almak
 slug: tedbir-almak
+letter: T
 lisan: Türkçe
 anlamlar:
 - önlem almak

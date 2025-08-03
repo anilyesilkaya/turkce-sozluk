@@ -2,6 +2,7 @@
 layout: term
 title: bardo
 slug: bardo
+letter: B
 lisan: Fransızca bardot
 anlamlar:
 - Aygır ile dişi eşek çiftleşmesinden üretilen hayvan

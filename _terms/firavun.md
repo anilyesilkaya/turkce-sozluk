@@ -2,6 +2,7 @@
 layout: term
 title: firavun
 slug: firavun
+letter: F
 lisan: Arapça firʿavn
 anlamlar:
 - Eski Mısır hükümdarlarına verilen ünvan

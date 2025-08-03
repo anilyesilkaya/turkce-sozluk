@@ -2,6 +2,7 @@
 layout: term
 title: tuvalet
 slug: tuvalet
+letter: T
 lisan: Fransızca toilette
 anlamlar:
 - İnsanın dışkısıyla idrarını boşalttığı yer; abdesthane, aralık, ayakyolu, yüznumara, hacet yeri, hela, kabine, kenef, memişhane, kademhane, lavabo

@@ -2,6 +2,7 @@
 layout: term
 title: dövüş çekiş
 slug: dovus-cekis
+letter: D
 lisan: Türkçe
 anlamlar:
 - Kavga edip çekiştirerek, itişip kakışarak

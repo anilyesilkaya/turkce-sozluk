@@ -2,6 +2,7 @@
 layout: term
 title: yanaşabilmek
 slug: yanasabilmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yanaşma ihtimali veya imkânı bulunmak

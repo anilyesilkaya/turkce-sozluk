@@ -2,6 +2,7 @@
 layout: term
 title: doktor
 slug: doktor
+letter: D
 lisan: Fransızca docteur
 anlamlar:
 - ► hekim

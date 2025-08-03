@@ -2,6 +2,7 @@
 layout: term
 title: istifa
 slug: istifa
+letter: I
 lisan: Arapça istiʿfā
 anlamlar:
 - Kendi isteğiyle işten veya bir hizmetten ayrılma; çekilme

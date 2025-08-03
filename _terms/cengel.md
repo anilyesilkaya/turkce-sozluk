@@ -2,6 +2,7 @@
 layout: term
 title: çengel
 slug: cengel
+letter: Ç
 lisan: Farsça çengāl
 anlamlar:
 - Bir yere takılmaya, geçirilmeye yarayan eğri ve ucu sivri demir

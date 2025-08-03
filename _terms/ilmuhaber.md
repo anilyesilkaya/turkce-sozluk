@@ -2,6 +2,7 @@
 layout: term
 title: ilmühaber
 slug: ilmuhaber
+letter: I
 lisan: Arapça ʿilm + ḫaber
 anlamlar:
 - Birinin yer, hâl, medeni durum vb.ni gösteren resmî belge

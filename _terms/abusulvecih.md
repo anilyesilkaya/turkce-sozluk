@@ -2,6 +2,7 @@
 layout: term
 title: abusülvecih
 slug: abusulvecih
+letter: A
 lisan: Arapça ʽabūs + vech
 anlamlar:
 - ► somurtkan

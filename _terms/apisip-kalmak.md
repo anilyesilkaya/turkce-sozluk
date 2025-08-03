@@ -2,6 +2,7 @@
 layout: term
 title: apışıp kalmak
 slug: apisip-kalmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - ne yapacağını bilemez duruma gelmek

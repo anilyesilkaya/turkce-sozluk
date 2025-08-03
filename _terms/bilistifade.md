@@ -2,6 +2,7 @@
 layout: term
 title: bilistifade
 slug: bilistifade
+letter: B
 lisan: Arapça bi'l-istifāde
 anlamlar:
 - İstifade ederek, istifadeyle, yararlanarak

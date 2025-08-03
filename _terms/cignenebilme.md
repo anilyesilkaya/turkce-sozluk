@@ -2,6 +2,7 @@
 layout: term
 title: çiğnenebilme
 slug: cignenebilme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çiğnenebilmek işi

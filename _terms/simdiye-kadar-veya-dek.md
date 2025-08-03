@@ -2,6 +2,7 @@
 layout: term
 title: şimdiye kadar (veya dek)
 slug: simdiye-kadar-veya-dek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - şu ana kadar, bugüne gelinceye kadar

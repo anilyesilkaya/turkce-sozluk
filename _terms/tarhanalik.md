@@ -2,6 +2,7 @@
 layout: term
 title: tarhanalık
 slug: tarhanalik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tarhana yapmak için ayrılmış

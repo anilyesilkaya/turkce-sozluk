@@ -2,6 +2,7 @@
 layout: term
 title: uğur ola! (veya uğurlar olsun!)
 slug: ugur-ola-veya-ugurlar-olsun
+letter: U
 lisan: Türkçe
 anlamlar:
 - yolun açık olsun! anlamında söylenen bir iyi dilek sözü

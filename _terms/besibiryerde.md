@@ -2,6 +2,7 @@
 layout: term
 title: beşibiryerde
 slug: besibiryerde
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► beşibirlik

@@ -2,6 +2,7 @@
 layout: term
 title: cins
 slug: cins
+letter: C
 lisan: Arapça cins
 anlamlar:
 - ► tür

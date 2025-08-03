@@ -2,6 +2,7 @@
 layout: term
 title: haylamak
 slug: haylamak
+letter: H
 lisan: Türkçe
 anlamlar:
 - At gibi hayvanları sürmek için seslenmek

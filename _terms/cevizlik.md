@@ -2,6 +2,7 @@
 layout: term
 title: cevizlik
 slug: cevizlik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Ceviz ağacının çok olduğu yer

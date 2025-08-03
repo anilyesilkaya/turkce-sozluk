@@ -2,6 +2,7 @@
 layout: term
 title: örtülmek
 slug: ortulmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Örtme işine konu olmak

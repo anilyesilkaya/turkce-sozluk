@@ -2,6 +2,7 @@
 layout: term
 title: greyfurt
 slug: greyfurt
+letter: G
 lisan: İngilizce grapefruit
 anlamlar:
 - Turunçgillerden, sıcak bölgelerde yetişen bir meyve ağacı; altıntop, kızmemesi (Citrus decumana)

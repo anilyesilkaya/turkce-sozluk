@@ -2,6 +2,7 @@
 layout: term
 title: dışkı
 slug: diski
+letter: D
 lisan: Türkçe
 anlamlar:
 - Sindirim sonunda anüs yoluyla dışarıya atılan besin artığı; bok, büyük, büyük abdest, kaka, pislik, kazurat, necaset

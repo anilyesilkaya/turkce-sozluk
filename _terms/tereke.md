@@ -2,6 +2,7 @@
 layout: term
 title: tereke
 slug: tereke
+letter: T
 lisan: Arapça tereke
 anlamlar:
 - ► miras

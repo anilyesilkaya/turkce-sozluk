@@ -2,6 +2,7 @@
 layout: term
 title: karar almak
 slug: karar-almak
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir davayı, bir sorunu sonuca bağlamak

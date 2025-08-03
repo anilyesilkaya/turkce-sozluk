@@ -2,6 +2,7 @@
 layout: term
 title: çürük çarık
 slug: curuk-carik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Sağlam olmayan, işe yaramaz

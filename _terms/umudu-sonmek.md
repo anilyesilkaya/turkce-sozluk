@@ -2,6 +2,7 @@
 layout: term
 title: umudu sönmek
 slug: umudu-sonmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - umudu kalmamak

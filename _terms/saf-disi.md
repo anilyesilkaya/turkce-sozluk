@@ -2,6 +2,7 @@
 layout: term
 title: saf dışı
 slug: saf-disi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Dizi dışı olarak

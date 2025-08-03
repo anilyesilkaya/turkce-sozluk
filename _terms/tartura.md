@@ -2,6 +2,7 @@
 layout: term
 title: tartura
 slug: tartura
+letter: T
 lisan: Türkçe
 anlamlar:
 - Çıkrıkçı çarkı

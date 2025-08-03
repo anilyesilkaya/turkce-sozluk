@@ -2,6 +2,7 @@
 layout: term
 title: lodos
 slug: lodos
+letter: L
 lisan: Rumca
 anlamlar:
 - Güneyden veya güneybatıdan esen ve bazen de yağış getiren yerel rüzgâr; kaba yel, boz yel, ak yel

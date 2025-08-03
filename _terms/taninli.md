@@ -2,6 +2,7 @@
 layout: term
 title: taninli
 slug: taninli
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► tınlamalı

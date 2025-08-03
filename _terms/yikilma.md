@@ -2,6 +2,7 @@
 layout: term
 title: yıkılma
 slug: yikilma
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yıkılmak işi; çöküş, yıkıntı, inhidam

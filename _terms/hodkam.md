@@ -2,6 +2,7 @@
 layout: term
 title: hodkâm
 slug: hodkam
+letter: H
 lisan: Farsça ḫōdkām
 anlamlar:
 - ► bencil

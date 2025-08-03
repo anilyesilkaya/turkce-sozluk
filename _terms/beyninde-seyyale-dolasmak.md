@@ -2,6 +2,7 @@
 layout: term
 title: beyninde seyyale dolaşmak
 slug: beyninde-seyyale-dolasmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - aynı anda birden fazla şey düşünmek

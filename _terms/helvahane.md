@@ -2,6 +2,7 @@
 layout: term
 title: helvahane
 slug: helvahane
+letter: H
 lisan: Arapça ḥalvā + Farsça ḫāne
 anlamlar:
 - Genellikle helva pişirmekte kullanılan geniş ve az derin tencere

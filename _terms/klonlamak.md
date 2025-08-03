@@ -2,6 +2,7 @@
 layout: term
 title: klonlamak
 slug: klonlamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kopyalamak

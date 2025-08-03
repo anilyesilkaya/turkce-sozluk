@@ -2,6 +2,7 @@
 layout: term
 title: teleferik
 slug: teleferik
+letter: T
 lisan: Fransızca téléférique
 anlamlar:
 - Birbirinden uzak iki yüksek yer arasında, havada gerilmiş bir veya birkaç çelik halat üzerinde kayarak hareket eden asılı taşıt

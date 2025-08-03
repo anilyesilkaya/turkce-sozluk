@@ -2,6 +2,7 @@
 layout: term
 title: akromegali
 slug: akromegali
+letter: A
 lisan: Fransızca acromégalie
 anlamlar:
 - Erişkinlerde hipofiz bezinin ön bölümünde büyüme hormonunun aşırı salgılanması sonucu ortaya çıkan özellikle yüz, çene, eller ve ayaklarda büyüme ile belirginleşen hastalık

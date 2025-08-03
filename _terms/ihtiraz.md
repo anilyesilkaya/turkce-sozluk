@@ -2,6 +2,7 @@
 layout: term
 title: ihtiraz
 slug: ihtiraz
+letter: I
 lisan: Arapça iḥtirāz
 anlamlar:
 - ► çekinme

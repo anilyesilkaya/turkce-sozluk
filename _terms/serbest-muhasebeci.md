@@ -2,6 +2,7 @@
 layout: term
 title: serbest muhasebeci
 slug: serbest-muhasebeci
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► serbest muhasebeci mali müşavir

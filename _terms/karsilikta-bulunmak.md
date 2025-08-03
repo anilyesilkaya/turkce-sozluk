@@ -2,6 +2,7 @@
 layout: term
 title: karşılıkta bulunmak
 slug: karsilikta-bulunmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - cevap vermek

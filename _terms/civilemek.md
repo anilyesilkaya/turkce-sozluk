@@ -2,6 +2,7 @@
 layout: term
 title: çivilemek
 slug: civilemek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir şeyi bir yere çivi ile tutturmak; mıhlamak

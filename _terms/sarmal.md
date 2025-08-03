@@ -2,6 +2,7 @@
 layout: term
 title: sarmal
 slug: sarmal
+letter: S
 lisan: Türkçe
 anlamlar:
 - Dolana dolana oluşmuş, birbirini izleyen; helisel, helezonlu, helezoni, helezonik

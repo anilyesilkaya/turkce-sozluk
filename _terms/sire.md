@@ -2,6 +2,7 @@
 layout: term
 title: şire
 slug: sire
+letter: Ş
 lisan: Farsça şįre
 anlamlar:
 - ► şıra

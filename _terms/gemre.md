@@ -2,6 +2,7 @@
 layout: term
 title: gemre
 slug: gemre
+letter: G
 lisan: Türkçe
 anlamlar:
 - Son turfanda yetişen, sert kabuklu bir tür siyah üzüm

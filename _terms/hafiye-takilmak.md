@@ -2,6 +2,7 @@
 layout: term
 title: hafiye takılmak
 slug: hafiye-takilmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - polis izlemeye almak

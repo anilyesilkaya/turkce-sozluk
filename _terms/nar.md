@@ -2,6 +2,7 @@
 layout: term
 title: nâr
 slug: nar
+letter: N
 lisan: Arapça nār
 anlamlar:
 - ► ateş

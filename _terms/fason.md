@@ -2,6 +2,7 @@
 layout: term
 title: fason
 slug: fason
+letter: F
 lisan: Fransızca façon
 anlamlar:
 - ► kesim

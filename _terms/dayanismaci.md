@@ -2,6 +2,7 @@
 layout: term
 title: dayanışmacı
 slug: dayanismaci
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dayanışmacılıktan yana olan; solidarist

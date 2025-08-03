@@ -2,6 +2,7 @@
 layout: term
 title: bir papel (veya pul) etmemek
 slug: bir-papel-veya-pul-etmemek
+letter: B
 lisan: Türkçe
 anlamlar:
 - değeri olmamak

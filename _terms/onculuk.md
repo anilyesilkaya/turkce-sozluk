@@ -2,6 +2,7 @@
 layout: term
 title: öncülük
 slug: onculuk
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öncü olma durumu

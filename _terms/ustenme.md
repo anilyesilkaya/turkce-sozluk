@@ -2,6 +2,7 @@
 layout: term
 title: üstenme
 slug: ustenme
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Üstenmek işi; taahhüt

@@ -2,6 +2,7 @@
 layout: term
 title: mufassal
 slug: mufassal
+letter: M
 lisan: Arapça mufaṣṣal
 anlamlar:
 - ► ayrıntılı

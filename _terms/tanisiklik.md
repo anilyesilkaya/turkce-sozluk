@@ -2,6 +2,7 @@
 layout: term
 title: tanışıklık
 slug: tanisiklik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Birbiriyle tanışmış bulunma, birbirini tanımış olma durumu

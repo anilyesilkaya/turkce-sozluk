@@ -2,6 +2,7 @@
 layout: term
 title: tımarhane
 slug: timarhane
+letter: T
 lisan: Farsça tīmār + ḫāne
 anlamlar:
 - ► akıl hastanesi

@@ -2,6 +2,7 @@
 layout: term
 title: utangan
 slug: utangan
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► utangaç

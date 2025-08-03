@@ -2,6 +2,7 @@
 layout: term
 title: bayram namazı
 slug: bayram-namazi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Dinî bayramların ilk gününde güneş ufkun üzerinde yükseldiğinde kılınan iki rekâtlık namaz

@@ -2,6 +2,7 @@
 layout: term
 title: mutlulanmak
 slug: mutlulanmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mutlu olmak

@@ -2,6 +2,7 @@
 layout: term
 title: korkalamak
 slug: korkalamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Korkar gibi olmak, biraz korkmak

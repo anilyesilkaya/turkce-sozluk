@@ -2,6 +2,7 @@
 layout: term
 title: fiyonksuz
 slug: fiyonksuz
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fiyongu olmayan

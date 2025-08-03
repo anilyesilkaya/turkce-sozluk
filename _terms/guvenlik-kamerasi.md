@@ -2,6 +2,7 @@
 layout: term
 title: güvenlik kamerası
 slug: guvenlik-kamerasi
+letter: G
 lisan: Türkçe
 anlamlar:
 - Açık ve kapalı alanlarda güvenliğin sağlanması için kullanılan, görüntü ve ses kaydı alabilen kamera

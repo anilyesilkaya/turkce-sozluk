@@ -2,6 +2,7 @@
 layout: term
 title: içinde duymak
 slug: icinde-duymak
+letter: I
 lisan: Türkçe
 anlamlar:
 - hissetmek, varlığını algılamak

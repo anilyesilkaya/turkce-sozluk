@@ -2,6 +2,7 @@
 layout: term
 title: ciddiye almak
 slug: ciddiye-almak
+letter: C
 lisan: Türkçe
 anlamlar:
 - inanmak, gerçek sanmak, önem vermek

@@ -2,6 +2,7 @@
 layout: term
 title: hümayun
 slug: humayun
+letter: H
 lisan: Farsça humāyūn
 anlamlar:
 - ► mutlu

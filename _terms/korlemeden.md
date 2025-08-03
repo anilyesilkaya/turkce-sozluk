@@ -2,6 +2,7 @@
 layout: term
 title: körlemeden
 slug: korlemeden
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bilmeden, anlamadan, bilmeksizin

@@ -2,6 +2,7 @@
 layout: term
 title: zembil
 slug: zembil
+letter: Z
 lisan: Arapça zinbīl
 anlamlar:
 - Hasırdan örülmüş saplı torba

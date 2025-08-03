@@ -2,6 +2,7 @@
 layout: term
 title: üşürme
 slug: usurme
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - ► saldırtma

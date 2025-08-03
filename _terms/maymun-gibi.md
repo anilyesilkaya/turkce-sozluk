@@ -2,6 +2,7 @@
 layout: term
 title: maymun gibi
 slug: maymun-gibi
+letter: M
 lisan: Türkçe
 anlamlar:
 - maymuna benzer bir biçimde

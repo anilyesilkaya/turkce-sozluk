@@ -2,6 +2,7 @@
 layout: term
 title: satıh
 slug: satih
+letter: S
 lisan: Arapça saṭḥ
 anlamlar:
 - ► yüzey

@@ -2,6 +2,7 @@
 layout: term
 title: parya
 slug: parya
+letter: P
 lisan: Fransızca paria
 anlamlar:
 - Hindistan'da toplumsal sınıfların dışında kalanlar

@@ -2,6 +2,7 @@
 layout: term
 title: kımıltısızlık
 slug: kimiltisizlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kıpırtısızlık

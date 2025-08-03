@@ -2,6 +2,7 @@
 layout: term
 title: eli ekmek tutmak
 slug: eli-ekmek-tutmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - geçimini kendi emeğiyle sağlayacak duruma gelmek

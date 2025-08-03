@@ -2,6 +2,7 @@
 layout: term
 title: çimdik
 slug: cimdik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir kimsenin etini başparmak ve işaret parmağının ucu arasına kıstırarak can yakacak şekilde burma, sıkma

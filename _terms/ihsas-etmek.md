@@ -2,6 +2,7 @@
 layout: term
 title: ihsas etmek
 slug: ihsas-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - sezdirmek, ima etmek

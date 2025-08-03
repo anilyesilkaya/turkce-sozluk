@@ -2,6 +2,7 @@
 layout: term
 title: zurnazen
 slug: zurnazen
+letter: Z
 lisan: Farsça surnāyzen
 anlamlar:
 - ► zurnacı

@@ -2,6 +2,7 @@
 layout: term
 title: vatansever
 slug: vatansever
+letter: V
 lisan: Arapça vaṭan + Türkçe sever
 anlamlar:
 - ► yurtsever

@@ -2,6 +2,7 @@
 layout: term
 title: biçim
 slug: bicim
+letter: B
 lisan: Türkçe
 anlamlar:
 - Biçmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: açık bilet
 slug: acik-bilet
+letter: A
 lisan: Türkçe
 anlamlar:
 - Tarihi kararlaştırılmamış yolculuklarda kullanılmak üzere belirli bir dönem için geçerli olan bilet

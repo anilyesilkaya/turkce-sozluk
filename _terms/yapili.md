@@ -2,6 +2,7 @@
 layout: term
 title: yapılı
 slug: yapili
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yapısı herhangi bir nitelikte olan

@@ -2,6 +2,7 @@
 layout: term
 title: kahpe
 slug: kahpe
+letter: K
 lisan: Arapça ḳaḥbe
 anlamlar:
 - Namussuz kadın

@@ -2,6 +2,7 @@
 layout: term
 title: cılkı çıkmak
 slug: cilki-cikmak
+letter: C
 lisan: Türkçe
 anlamlar:
 - bir iş bozulmak, doğru ve olması gereken biçimden uzaklaşmak

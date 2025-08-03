@@ -2,6 +2,7 @@
 layout: term
 title: mevki
 slug: mevki
+letter: M
 lisan: Arapça mevḳiʿ
 anlamlar:
 - ► yer

@@ -2,6 +2,7 @@
 layout: term
 title: seremoni
 slug: seremoni
+letter: S
 lisan: Fransızca cérémonie
 anlamlar:
 - ► tören

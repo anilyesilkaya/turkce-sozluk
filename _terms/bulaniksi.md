@@ -2,6 +2,7 @@
 layout: term
 title: bulanıksı
 slug: bulaniksi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bulanık gibi, biraz bulanık

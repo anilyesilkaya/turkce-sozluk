@@ -2,6 +2,7 @@
 layout: term
 title: defterdarlık
 slug: defterdarlik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Defterdar olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: yüzyıllık
 slug: yuzyillik
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaklaşık olarak sürerliği yüzyıl olan; asırlık

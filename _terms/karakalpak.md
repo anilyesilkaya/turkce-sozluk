@@ -2,6 +2,7 @@
 layout: term
 title: Karakalpak
 slug: karakalpak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Özbekistan Cumhuriyeti’ne bağlı Karakalpakistan Özerk Cumhuriyeti’nde yaşayan Türk halkı ve bu halkın soyundan olan kimse

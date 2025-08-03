@@ -2,6 +2,7 @@
 layout: term
 title: ağdacı
 slug: agdaci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Şeker, tatlı ve helva yapımında ağda hazırlayan işçi

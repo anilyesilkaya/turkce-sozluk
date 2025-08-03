@@ -2,6 +2,7 @@
 layout: term
 title: saylamak
 slug: saylamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► seçmek

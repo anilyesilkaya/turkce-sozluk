@@ -2,6 +2,7 @@
 layout: term
 title: Sırpça
 slug: sirpca
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sırpların kullandığı dil

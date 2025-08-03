@@ -2,6 +2,7 @@
 layout: term
 title: bir iki
 slug: bir-iki
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çok az sayıda olan

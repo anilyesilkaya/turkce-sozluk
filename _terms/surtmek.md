@@ -2,6 +2,7 @@
 layout: term
 title: sürtmek
 slug: surtmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bir şeyi bastırarak diğer bir şeyin üzerinden geçirmek

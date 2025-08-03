@@ -2,6 +2,7 @@
 layout: term
 title: yabancı saymak (veya tutmak)
 slug: yabanci-saymak-veya-tutmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yabancı gibi görmek, yabancı olarak benimsemek

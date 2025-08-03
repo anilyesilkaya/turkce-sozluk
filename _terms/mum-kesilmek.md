@@ -2,6 +2,7 @@
 layout: term
 title: mum kesilmek
 slug: mum-kesilmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - sessiz, uslu, doğru düzgün durmak

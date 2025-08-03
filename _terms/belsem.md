@@ -2,6 +2,7 @@
 layout: term
 title: belsem
 slug: belsem
+letter: B
 lisan: İngilizce balsam
 anlamlar:
 - ► balsam

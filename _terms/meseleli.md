@@ -2,6 +2,7 @@
 layout: term
 title: meseleli
 slug: meseleli
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► sorunlu

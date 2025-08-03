@@ -2,6 +2,7 @@
 layout: term
 title: bağcı
 slug: bagci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağında ürün yetiştirip satan kimse

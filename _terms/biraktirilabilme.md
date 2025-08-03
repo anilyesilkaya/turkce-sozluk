@@ -2,6 +2,7 @@
 layout: term
 title: bıraktırılabilme
 slug: biraktirilabilme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bıraktırılabilmek işi

@@ -2,6 +2,7 @@
 layout: term
 title: martaval
 slug: martaval
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► palavra

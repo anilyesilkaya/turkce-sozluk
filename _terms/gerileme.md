@@ -2,6 +2,7 @@
 layout: term
 title: gerileme
 slug: gerileme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gerilemek işi

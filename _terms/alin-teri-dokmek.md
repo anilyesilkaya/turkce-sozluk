@@ -2,6 +2,7 @@
 layout: term
 title: alın teri dökmek
 slug: alin-teri-dokmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - çok emek vermek, zahmetli bir iş görmek

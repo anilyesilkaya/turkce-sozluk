@@ -2,6 +2,7 @@
 layout: term
 title: çakıl taşı
 slug: cakil-tasi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Deniz kıyılarında veya derelerde suyun aşındırması ile sivrilikleri kaybolmuş, toparlak veya badem biçiminde ufak bir taş türü; çakıl, çakıl kayaç

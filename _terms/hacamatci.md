@@ -2,6 +2,7 @@
 layout: term
 title: hacamatçı
 slug: hacamatci
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hacamat yapan kimse

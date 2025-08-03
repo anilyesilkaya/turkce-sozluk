@@ -2,6 +2,7 @@
 layout: term
 title: fetih
 slug: fetih
+letter: F
 lisan: Arapça fetḥ
 anlamlar:
 - Bir şehir veya ülkeyi savaşarak alma

@@ -2,6 +2,7 @@
 layout: term
 title: heyhey
 slug: heyhey
+letter: H
 lisan: Türkçe
 anlamlar:
 - Aşırı sinirlilik

@@ -2,6 +2,7 @@
 layout: term
 title: haiz
 slug: haiz
+letter: H
 lisan: Arapça ḥāʾiz
 anlamlar:
 - Bir şeyi olan, elinde bulunduran, taşıyan

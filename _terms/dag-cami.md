@@ -2,6 +2,7 @@
 layout: term
 title: dağ çamı
 slug: dag-cami
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dağda yetişen bir tür çam

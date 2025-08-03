@@ -2,6 +2,7 @@
 layout: term
 title: çek! (veya çek arabanı!)
 slug: cek-veya-cek-arabani
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - '"git buradan!" anlamında kullanılan bir söz'

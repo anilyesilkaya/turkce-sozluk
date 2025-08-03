@@ -2,6 +2,7 @@
 layout: term
 title: bolero
 slug: bolero
+letter: B
 lisan: Fransızca boléro
 anlamlar:
 - Kısa kadın ceketi

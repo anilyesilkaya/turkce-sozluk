@@ -2,6 +2,7 @@
 layout: term
 title: Afrikalı
 slug: afrikali
+letter: A
 lisan: Türkçe
 anlamlar:
 - Afrika kökenli olan veya Afrika'da yaşayan kimse

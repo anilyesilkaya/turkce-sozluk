@@ -2,6 +2,7 @@
 layout: term
 title: meşime
 slug: mesime
+letter: M
 lisan: Arapça meşīme
 anlamlar:
 - ► döl yatağı

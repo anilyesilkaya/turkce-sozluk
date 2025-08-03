@@ -2,6 +2,7 @@
 layout: term
 title: kan ter içinde
 slug: kan-ter-icinde
+letter: K
 lisan: Türkçe
 anlamlar:
 - çok terli, yorgun ve perişan bir durumda

@@ -2,6 +2,7 @@
 layout: term
 title: morg
 slug: morg
+letter: M
 lisan: Fransızca morgue
 anlamlar:
 - Hastanelerde veya mezarlıklarda ölülerin belirli süre için saklandıkları soğuk ortam

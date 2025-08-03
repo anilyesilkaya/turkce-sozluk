@@ -2,6 +2,7 @@
 layout: term
 title: beklenilmek
 slug: beklenilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► beklenmek

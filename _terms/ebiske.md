@@ -2,6 +2,7 @@
 layout: term
 title: ebişke
 slug: ebiske
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► balkadın

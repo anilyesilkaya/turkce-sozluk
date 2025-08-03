@@ -2,6 +2,7 @@
 layout: term
 title: rendelemek
 slug: rendelemek
+letter: R
 lisan: Türkçe
 anlamlar:
 - Rende ile pürüzlerini gidermek, istenilen biçimi vermek

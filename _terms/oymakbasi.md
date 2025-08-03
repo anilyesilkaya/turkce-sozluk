@@ -2,6 +2,7 @@
 layout: term
 title: oymakbaşı
 slug: oymakbasi
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oymakların lideri, önde geleni

@@ -2,6 +2,7 @@
 layout: term
 title: yemekçi
 slug: yemekci
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Çalışanları, üyeleri, öğrencileri, işçileri çok olan kuruluşlara yemek yapıp satan kimse

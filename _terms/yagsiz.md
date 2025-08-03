@@ -2,6 +2,7 @@
 layout: term
 title: yağsız
 slug: yagsiz
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yağı olmayan

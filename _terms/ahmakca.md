@@ -2,6 +2,7 @@
 layout: term
 title: ahmakça
 slug: ahmakca
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ahmağa yakışır, uygun (iş, hareket, tavır vb.)

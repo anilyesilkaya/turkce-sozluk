@@ -2,6 +2,7 @@
 layout: term
 title: yan flüt
 slug: yan-flut
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Baş bölümü hafif konik, gövde ve kuyruk bölümündeki parçalar boru şeklinde olan bir tür üflemeli çalgı

@@ -2,6 +2,7 @@
 layout: term
 title: gondol
 slug: gondol
+letter: G
 lisan: Fransızca gondole
 anlamlar:
 - Genellikle Venedik'te kullanılan, ayakta, kıç tarafta tek kürekle yürütülen, 10 metre uzunluğunda, yassı ve iki başı yukarıya kıvrık kayık

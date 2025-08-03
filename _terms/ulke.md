@@ -2,6 +2,7 @@
 layout: term
 title: ülke
 slug: ulke
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Bir devletin egemenliği altında bulunan toprakların tümü; diyar, arz (III), iklim, memleket, mülk

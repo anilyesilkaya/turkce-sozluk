@@ -2,6 +2,7 @@
 layout: term
 title: atılma
 slug: atilma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Atılmak işi

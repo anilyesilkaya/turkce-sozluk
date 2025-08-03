@@ -2,6 +2,7 @@
 layout: term
 title: umudu boşa çıkmak
 slug: umudu-bosa-cikmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - beklentisi, umudu gerçekleşmemek, hayal kırıklığına uğramak

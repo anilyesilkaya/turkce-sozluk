@@ -2,6 +2,7 @@
 layout: term
 title: izzetinefsine dokunmak
 slug: izzetinefsine-dokunmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - onuruna dokunmak

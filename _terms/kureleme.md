@@ -2,6 +2,7 @@
 layout: term
 title: küreleme
 slug: kureleme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kürelemek işi

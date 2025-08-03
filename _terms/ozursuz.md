@@ -2,6 +2,7 @@
 layout: term
 title: özürsüz
 slug: ozursuz
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Özrü olmayan

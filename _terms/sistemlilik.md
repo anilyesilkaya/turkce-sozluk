@@ -2,6 +2,7 @@
 layout: term
 title: sistemlilik
 slug: sistemlilik
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► düzenlilik

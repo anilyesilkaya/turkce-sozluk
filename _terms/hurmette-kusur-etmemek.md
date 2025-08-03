@@ -2,6 +2,7 @@
 layout: term
 title: hürmette kusur etmemek
 slug: hurmette-kusur-etmemek
+letter: H
 lisan: Türkçe
 anlamlar:
 - karşısındaki kişiyi iyi ağırlamak, isteklerini yerine getirmek, saygısızlık etmemek

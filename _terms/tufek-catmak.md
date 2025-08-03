@@ -2,6 +2,7 @@
 layout: term
 title: tüfek çatmak
 slug: tufek-catmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - askerlerin dinlenme sırasında tüfeklerini, dipçikleri üzerinde üçerli olarak birbirine dayamak

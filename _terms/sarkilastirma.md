@@ -2,6 +2,7 @@
 layout: term
 title: şarkılaştırma
 slug: sarkilastirma
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şarkılaştırmak durumu

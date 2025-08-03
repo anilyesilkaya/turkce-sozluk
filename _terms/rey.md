@@ -2,6 +2,7 @@
 layout: term
 title: rey
 slug: rey
+letter: R
 lisan: Arapça reʾy
 anlamlar:
 - ► oy (I)

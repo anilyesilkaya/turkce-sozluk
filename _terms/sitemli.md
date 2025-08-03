@@ -2,6 +2,7 @@
 layout: term
 title: sitemli
 slug: sitemli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sitem taşıyan

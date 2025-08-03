@@ -2,6 +2,7 @@
 layout: term
 title: siperlik
 slug: siperlik
+letter: S
 lisan: Türkçe
 anlamlar:
 - Güneş ve yağmurun etkisinden korumak amacıyla şapka, kapı, lamba vb.nin önüne yapılan çıkıntı; güneşlik, siper

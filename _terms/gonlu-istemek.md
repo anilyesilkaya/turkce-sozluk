@@ -2,6 +2,7 @@
 layout: term
 title: gönlü istemek
 slug: gonlu-istemek
+letter: G
 lisan: Türkçe
 anlamlar:
 - dilemek, kuvvetle içten arzulamak

@@ -2,6 +2,7 @@
 layout: term
 title: bozulaşmak
 slug: bozulasmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Develer karşılıklı olarak bağırmak

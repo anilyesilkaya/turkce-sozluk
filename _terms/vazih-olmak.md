@@ -2,6 +2,7 @@
 layout: term
 title: vazıh olmak
 slug: vazih-olmak
+letter: V
 lisan: Türkçe
 anlamlar:
 - açık durumda bulunmak, anlaşılır biçimde görünmek

@@ -2,6 +2,7 @@
 layout: term
 title: kızışma
 slug: kizisma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kızışmak işi; kösnülme

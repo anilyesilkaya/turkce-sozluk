@@ -2,6 +2,7 @@
 layout: term
 title: tezgâhlamak
 slug: tezgahlamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Dokunacak bezi tezgâha yerleştirmek

@@ -2,6 +2,7 @@
 layout: term
 title: imamet
 slug: imamet
+letter: I
 lisan: Arapça imāmet
 anlamlar:
 - ► imamlık

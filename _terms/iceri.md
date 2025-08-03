@@ -2,6 +2,7 @@
 layout: term
 title: içeri
 slug: iceri
+letter: I
 lisan: Türkçe
 anlamlar:
 - İç taraf, içteki bölüm, dışarı karşıtı

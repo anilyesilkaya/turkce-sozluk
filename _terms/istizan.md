@@ -2,6 +2,7 @@
 layout: term
 title: istizan
 slug: istizan
+letter: I
 lisan: Arapça istīẕān
 anlamlar:
 - Yetki isteme

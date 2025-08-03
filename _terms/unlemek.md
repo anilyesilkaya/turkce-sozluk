@@ -2,6 +2,7 @@
 layout: term
 title: ünlemek
 slug: unlemek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - ► seslenmek

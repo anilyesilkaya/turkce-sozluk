@@ -2,6 +2,7 @@
 layout: term
 title: dağıtılabilmek
 slug: dagitilabilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dağıtılma ihtimali veya imkânı bulunmak

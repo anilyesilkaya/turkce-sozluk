@@ -2,6 +2,7 @@
 layout: term
 title: karşı sav
 slug: karsi-sav
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir çatışkının ikinci terimini oluşturan düşünce veya önerme; antitez

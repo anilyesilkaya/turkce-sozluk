@@ -2,6 +2,7 @@
 layout: term
 title: maltalık
 slug: maltalik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Malta taşı ile kaplı sofa, avlu

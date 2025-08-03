@@ -2,6 +2,7 @@
 layout: term
 title: kamu kurumu
 slug: kamu-kurumu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Belirli kamu hizmetlerini yerine getirmek amacıyla oluşturulan kamu tüzel kişisi

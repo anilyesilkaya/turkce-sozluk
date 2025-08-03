@@ -2,6 +2,7 @@
 layout: term
 title: terzihane
 slug: terzihane
+letter: T
 lisan: Farsça derzī + ḫāne
 anlamlar:
 - ► terzi

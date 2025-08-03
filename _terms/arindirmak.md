@@ -2,6 +2,7 @@
 layout: term
 title: arındırmak
 slug: arindirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arınmasını sağlamak

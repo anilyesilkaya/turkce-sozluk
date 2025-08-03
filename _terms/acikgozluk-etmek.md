@@ -2,6 +2,7 @@
 layout: term
 title: 'açıkgözlük etmek '
 slug: acikgozluk-etmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - kurnazlık ederek amacına ulaşmaya çalışmak

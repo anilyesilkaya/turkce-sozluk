@@ -2,6 +2,7 @@
 layout: term
 title: kendini göstermek
 slug: kendini-gostermek
+letter: K
 lisan: Türkçe
 anlamlar:
 - beğenilecek niteliklerini ortaya koymak

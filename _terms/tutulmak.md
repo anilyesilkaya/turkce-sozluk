@@ -2,6 +2,7 @@
 layout: term
 title: tutulmak
 slug: tutulmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tutma işi yapılmak veya tutma işine konu olmak

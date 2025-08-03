@@ -2,6 +2,7 @@
 layout: term
 title: itki
 slug: itki
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► tepi

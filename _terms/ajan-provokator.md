@@ -2,6 +2,7 @@
 layout: term
 title: ajan provokatör
 slug: ajan-provokator
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► kışkırtıcı ajan

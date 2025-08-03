@@ -2,6 +2,7 @@
 layout: term
 title: mazeret
 slug: mazeret
+letter: M
 lisan: Arapça maʿẕeret
 anlamlar:
 - ► özür

@@ -2,6 +2,7 @@
 layout: term
 title: kani
 slug: kani
+letter: K
 lisan: Arapça ḳāniʿ
 anlamlar:
 - Kanaat getirmiş, inanmış

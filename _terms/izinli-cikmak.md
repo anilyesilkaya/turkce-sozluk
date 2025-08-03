@@ -2,6 +2,7 @@
 layout: term
 title: izinli çıkmak
 slug: izinli-cikmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - izin alarak belli bir süre için bir yerden ayrılmak

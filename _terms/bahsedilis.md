@@ -2,6 +2,7 @@
 layout: term
 title: bahsediliş
 slug: bahsedilis
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bahsedilme işi

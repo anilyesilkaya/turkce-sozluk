@@ -2,6 +2,7 @@
 layout: term
 title: şölen çekmek
 slug: solen-cekmek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - şölen düzenlemek, ziyafet vermek

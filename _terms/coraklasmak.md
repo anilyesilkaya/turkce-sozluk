@@ -2,6 +2,7 @@
 layout: term
 title: çoraklaşmak
 slug: coraklasmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çorak duruma gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: çıkarcı
 slug: cikarci
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Yalnız kendi çıkarını düşünen, çıkarını kollayan (kimse); çıkarsever, menfaatçi, menfaat düşkünü, menfaatperest, menfaatperver, menfaattar

@@ -2,6 +2,7 @@
 layout: term
 title: kamp yapmak
 slug: kamp-yapmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - kampa girmek

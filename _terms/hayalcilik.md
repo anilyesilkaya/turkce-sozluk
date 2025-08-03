@@ -2,6 +2,7 @@
 layout: term
 title: hayalcilik
 slug: hayalcilik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hayalci olma durumu; hayalperestlik, hayalperverlik

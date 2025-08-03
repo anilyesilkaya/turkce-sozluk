@@ -2,6 +2,7 @@
 layout: term
 title: belirlenme
 slug: belirlenme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belirlenmek işi

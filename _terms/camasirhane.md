@@ -2,6 +2,7 @@
 layout: term
 title: çamaşırhane
 slug: camasirhane
+letter: Ç
 lisan: Farsça cāmeşūr + ḫāne
 anlamlar:
 - ► çamaşırlık

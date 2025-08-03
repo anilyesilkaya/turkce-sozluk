@@ -2,6 +2,7 @@
 layout: term
 title: etkimek
 slug: etkimek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Etkide bulunmak; tesir etmek

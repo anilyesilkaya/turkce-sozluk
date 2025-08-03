@@ -2,6 +2,7 @@
 layout: term
 title: adam kullanmak
 slug: adam-kullanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - birini çalıştırmasını bilmek

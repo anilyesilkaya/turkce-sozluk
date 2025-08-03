@@ -2,6 +2,7 @@
 layout: term
 title: özeniş
 slug: ozenis
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Özenmek işi

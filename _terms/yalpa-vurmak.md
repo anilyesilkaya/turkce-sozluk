@@ -2,6 +2,7 @@
 layout: term
 title: yalpa vurmak
 slug: yalpa-vurmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - rüzgâr, deniz ve yolun durumu dolayısıyla deniz taşıtları iki yana sallanmak

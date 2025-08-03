@@ -2,6 +2,7 @@
 layout: term
 title: döndürme
 slug: dondurme
+letter: D
 lisan: Türkçe
 anlamlar:
 - Döndürmek işi; irca, tahvil, taklip

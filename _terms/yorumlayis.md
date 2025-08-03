@@ -2,6 +2,7 @@
 layout: term
 title: yorumlayış
 slug: yorumlayis
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yorumlamak işi

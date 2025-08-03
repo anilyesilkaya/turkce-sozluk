@@ -2,6 +2,7 @@
 layout: term
 title: değerbilmez
 slug: degerbilmez
+letter: D
 lisan: Türkçe
 anlamlar:
 - Değeri olan şeyleri, kimseleri korumayan veya saymayan, iyilikbilmez (kimse); kadirbilmez

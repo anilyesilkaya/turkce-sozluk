@@ -2,6 +2,7 @@
 layout: term
 title: baharatçı
 slug: baharatci
+letter: B
 lisan: Türkçe
 anlamlar:
 - Baharat alım satımıyla uğraşan kimse; baharcı

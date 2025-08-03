@@ -2,6 +2,7 @@
 layout: term
 title: anıtlaşmak
 slug: anitlasmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anıt durumuna gelmek, anıt değeri kazanmak; abideleşmek

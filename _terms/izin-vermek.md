@@ -2,6 +2,7 @@
 layout: term
 title: izin vermek
 slug: izin-vermek
+letter: I
 lisan: Türkçe
 anlamlar:
 - birini bir şey yapmada serbest bırakmak

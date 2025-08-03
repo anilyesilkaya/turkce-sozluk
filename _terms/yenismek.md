@@ -2,6 +2,7 @@
 layout: term
 title: yenişmek
 slug: yenismek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Birbirini yenmeye çalışmak

@@ -2,6 +2,7 @@
 layout: term
 title: mesafe katetmek
 slug: mesafe-katetmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - yol almak, ilerlemek

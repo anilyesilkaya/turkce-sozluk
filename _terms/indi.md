@@ -2,6 +2,7 @@
 layout: term
 title: indi
 slug: indi
+letter: I
 lisan: Arapça ʿindī
 anlamlar:
 - Herkesçe kabul edilebilecek bir temele bağlanamayıp yalnız bir kişinin kendi kanısına dayanan

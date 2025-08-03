@@ -2,6 +2,7 @@
 layout: term
 title: bilişmek
 slug: bilismek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Birbirini tanımak; muarefesi olmak

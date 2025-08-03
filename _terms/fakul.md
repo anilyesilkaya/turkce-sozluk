@@ -2,6 +2,7 @@
 layout: term
 title: fakül
 slug: fakul
+letter: F
 lisan: Fransızca facule
 anlamlar:
 - ► benek

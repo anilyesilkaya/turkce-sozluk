@@ -2,6 +2,7 @@
 layout: term
 title: gıygıylamak
 slug: giygiylamak
+letter: G
 lisan: Türkçe
 anlamlar:
 - Keman vb. çalgılardan tekdüze usandırıcı ses çıkarmak

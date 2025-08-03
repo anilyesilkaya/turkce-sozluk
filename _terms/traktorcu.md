@@ -2,6 +2,7 @@
 layout: term
 title: traktörcü
 slug: traktorcu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Traktörle taşıma işi yapan kimse

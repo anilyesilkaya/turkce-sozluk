@@ -2,6 +2,7 @@
 layout: term
 title: şimdiden
 slug: simdiden
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - İçinde bulunduğumuz zamandan başlayarak

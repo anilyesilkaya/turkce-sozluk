@@ -2,6 +2,7 @@
 layout: term
 title: tornistan
 slug: tornistan
+letter: T
 lisan: İtalyanca torno stante
 anlamlar:
 - Geminin pervanesini ters yönde çevirme

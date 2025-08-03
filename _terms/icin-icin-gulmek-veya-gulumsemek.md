@@ -2,6 +2,7 @@
 layout: term
 title: için için gülmek (veya gülümsemek)
 slug: icin-icin-gulmek-veya-gulumsemek
+letter: I
 lisan: Türkçe
 anlamlar:
 - belli etmeden, gizli gizli gülmek

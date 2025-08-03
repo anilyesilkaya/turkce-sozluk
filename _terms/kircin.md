@@ -2,6 +2,7 @@
 layout: term
 title: kırcın
 slug: kircin
+letter: K
 lisan: Türkçe
 anlamlar:
 - Hayvan kıranı

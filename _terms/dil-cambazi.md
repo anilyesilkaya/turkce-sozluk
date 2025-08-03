@@ -2,6 +2,7 @@
 layout: term
 title: dil cambazı
 slug: dil-cambazi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düşüncelerini çok iyi anlatan, güzel konuşan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: tutukluk
 slug: tutukluk
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tutuk olma durumu

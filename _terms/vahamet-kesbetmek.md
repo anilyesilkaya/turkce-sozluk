@@ -2,6 +2,7 @@
 layout: term
 title: vahamet kesbetmek
 slug: vahamet-kesbetmek
+letter: V
 lisan: Türkçe
 anlamlar:
 - gittikçe zorlaşmak, tehlikeli ve korkulacak bir durum almak

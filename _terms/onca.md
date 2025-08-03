@@ -2,6 +2,7 @@
 layout: term
 title: onca
 slug: onca
+letter: O
 lisan: Türkçe
 anlamlar:
 - O kadar, o denli

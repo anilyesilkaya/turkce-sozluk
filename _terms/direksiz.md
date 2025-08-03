@@ -2,6 +2,7 @@
 layout: term
 title: direksiz
 slug: direksiz
+letter: D
 lisan: Türkçe
 anlamlar:
 - Direği olmayan

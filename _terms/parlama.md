@@ -2,6 +2,7 @@
 layout: term
 title: parlama
 slug: parlama
+letter: P
 lisan: Türkçe
 anlamlar:
 - Parlamak işi; delepme

@@ -2,6 +2,7 @@
 layout: term
 title: yenirce
 slug: yenirce
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Kemik ve diş dokusunun harap olması durumu

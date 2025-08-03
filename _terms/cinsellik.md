@@ -2,6 +2,7 @@
 layout: term
 title: cinsellik
 slug: cinsellik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cinsel özelliklerin bütünü; eşeysellik

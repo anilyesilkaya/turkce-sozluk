@@ -2,6 +2,7 @@
 layout: term
 title: vurguncu
 slug: vurguncu
+letter: V
 lisan: Türkçe
 anlamlar:
 - Para dalgalanmalarından yararlanarak kolay yoldan kazanç elde eden; muhtekir, ihtikârcı, spekülatör

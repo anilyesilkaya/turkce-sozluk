@@ -2,6 +2,7 @@
 layout: term
 title: belleğini yitirmek
 slug: bellegini-yitirmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - bellek kaybına uğramak

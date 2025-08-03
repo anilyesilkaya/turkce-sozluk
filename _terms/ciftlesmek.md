@@ -2,6 +2,7 @@
 layout: term
 title: çiftleşmek
 slug: ciftlesmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir şey tekken bir tanesinin daha katılmasıyla iki olmak; eşleşmek

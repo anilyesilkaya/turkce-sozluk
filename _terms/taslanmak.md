@@ -2,6 +2,7 @@
 layout: term
 title: taşlanmak
 slug: taslanmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taşlama işi yapılmak

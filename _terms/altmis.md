@@ -2,6 +2,7 @@
 layout: term
 title: altmış
 slug: altmis
+letter: A
 lisan: Türkçe
 anlamlar:
 - Elli dokuzdan sonra gelen sayının adı

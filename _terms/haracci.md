@@ -2,6 +2,7 @@
 layout: term
 title: haraççı
 slug: haracci
+letter: H
 lisan: Türkçe
 anlamlar:
 - Haraç alan kimse

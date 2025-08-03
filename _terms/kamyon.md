@@ -2,6 +2,7 @@
 layout: term
 title: kamyon
 slug: kamyon
+letter: K
 lisan: Fransızca camion
 anlamlar:
 - Motorlu büyük yük taşıtı

@@ -2,6 +2,7 @@
 layout: term
 title: davalaştırmak
 slug: davalastirmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dava hâline getirmek

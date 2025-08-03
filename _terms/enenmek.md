@@ -2,6 +2,7 @@
 layout: term
 title: enenmek
 slug: enenmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - İğdiş edilmek

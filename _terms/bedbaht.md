@@ -2,6 +2,7 @@
 layout: term
 title: bedbaht
 slug: bedbaht
+letter: B
 lisan: Farsça bed + baḫt
 anlamlar:
 - ► bahtsız

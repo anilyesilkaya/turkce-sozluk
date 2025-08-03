@@ -2,6 +2,7 @@
 layout: term
 title: teminat
 slug: teminat
+letter: T
 lisan: Arapça teʾmīnāt
 anlamlar:
 - ► güvence

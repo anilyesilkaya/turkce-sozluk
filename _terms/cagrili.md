@@ -2,6 +2,7 @@
 layout: term
 title: çağrılı
 slug: cagrili
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Bir toplantıya, bir yere veya birinin yanına çağrılmış kimse; davetli

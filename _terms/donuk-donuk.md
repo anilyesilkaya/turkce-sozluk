@@ -2,6 +2,7 @@
 layout: term
 title: donuk donuk
 slug: donuk-donuk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Canlılığı olmayarak

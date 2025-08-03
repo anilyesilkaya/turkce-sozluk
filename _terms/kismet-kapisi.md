@@ -2,6 +2,7 @@
 layout: term
 title: kısmet kapısı
 slug: kismet-kapisi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Gelir sağlayan yer

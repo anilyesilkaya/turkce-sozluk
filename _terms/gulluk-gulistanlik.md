@@ -2,6 +2,7 @@
 layout: term
 title: güllük gülistanlık
 slug: gulluk-gulistanlik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bolluk ve rahatlık

@@ -2,6 +2,7 @@
 layout: term
 title: ases
 slug: ases
+letter: A
 lisan: Arapça ʿases
 anlamlar:
 - Osmanlı Devleti'nde Yeniçeri Ocağı'nın kaldırılmasından önceki güvenlik görevlisi

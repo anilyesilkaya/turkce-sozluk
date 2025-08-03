@@ -2,6 +2,7 @@
 layout: term
 title: karavanacı
 slug: karavanaci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karavanayı taşıyan asker

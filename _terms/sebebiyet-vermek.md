@@ -2,6 +2,7 @@
 layout: term
 title: sebebiyet vermek
 slug: sebebiyet-vermek
+letter: S
 lisan: Türkçe
 anlamlar:
 - bir şeye, bir olaya sebep olmak, yol açmak

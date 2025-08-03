@@ -2,6 +2,7 @@
 layout: term
 title: birincil ileti
 slug: birincil-ileti
+letter: B
 lisan: Türkçe
 anlamlar:
 - Metinde kastedilen ve öne çıkan ilk anlam

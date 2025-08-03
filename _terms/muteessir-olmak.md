@@ -2,6 +2,7 @@
 layout: term
 title: müteessir olmak
 slug: muteessir-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - üzülmek

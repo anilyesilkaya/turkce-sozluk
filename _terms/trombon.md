@@ -2,6 +2,7 @@
 layout: term
 title: trombon
 slug: trombon
+letter: T
 lisan: Fransızca trombone
 anlamlar:
 - Sürgü kolunun hareketiyle değişik yükseklikte seslerin elde edildiği nefesli çalgı

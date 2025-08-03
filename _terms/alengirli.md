@@ -2,6 +2,7 @@
 layout: term
 title: alengirli
 slug: alengirli
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► gösterişli

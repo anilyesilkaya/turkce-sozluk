@@ -2,6 +2,7 @@
 layout: term
 title: kıyılmak
 slug: kiyilmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kıyma işi yapılmak

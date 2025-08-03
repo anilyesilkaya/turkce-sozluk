@@ -2,6 +2,7 @@
 layout: term
 title: eldecilik
 slug: eldecilik
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► zilyetlik

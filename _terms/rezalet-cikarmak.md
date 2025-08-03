@@ -2,6 +2,7 @@
 layout: term
 title: rezalet çıkarmak
 slug: rezalet-cikarmak
+letter: R
 lisan: Türkçe
 anlamlar:
 - rezalet sayılacak bir durumun ortaya çıkmasına yol açmak

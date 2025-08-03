@@ -2,6 +2,7 @@
 layout: term
 title: anlayış göstermek
 slug: anlayis-gostermek
+letter: A
 lisan: Türkçe
 anlamlar:
 - yapılan, istenilen veya söylenilen bir şeyi hoşgörüyle karşılamak

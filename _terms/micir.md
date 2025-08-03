@@ -2,6 +2,7 @@
 layout: term
 title: mıcır
 slug: micir
+letter: M
 lisan: Ermenice
 anlamlar:
 - Yol yapımında kullanılan taş kırıntısı; mucur

@@ -2,6 +2,7 @@
 layout: term
 title: kuşak bağlama
 slug: kusak-baglama
+letter: K
 lisan: Türkçe
 anlamlar:
 - Düğün sırasında baba veya başka bir aile büyüğü tarafından gelinin beline kırmızı kurdele dolama; kemer bağlama

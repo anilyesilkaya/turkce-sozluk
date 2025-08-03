@@ -2,6 +2,7 @@
 layout: term
 title: bidayet
 slug: bidayet
+letter: B
 lisan: Arapça bidāyet
 anlamlar:
 - ► başlangıç

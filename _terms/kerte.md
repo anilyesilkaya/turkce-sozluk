@@ -2,6 +2,7 @@
 layout: term
 title: kerte
 slug: kerte
+letter: K
 lisan: Türkçe
 anlamlar:
 - İşaret için yapılmış çentik veya iz; kerti

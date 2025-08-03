@@ -2,6 +2,7 @@
 layout: term
 title: büyüsel
 slug: buyusel
+letter: B
 lisan: Türkçe
 anlamlar:
 - Büyü ile ilgili olan

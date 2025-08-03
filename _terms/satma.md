@@ -2,6 +2,7 @@
 layout: term
 title: satma
 slug: satma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Satmak işi

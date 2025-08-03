@@ -2,6 +2,7 @@
 layout: term
 title: eczalı
 slug: eczali
+letter: E
 lisan: Türkçe
 anlamlar:
 - Kimyasal madde ile kaplanmış, karıştırılmış, işlem görmüş

@@ -2,6 +2,7 @@
 layout: term
 title: cemile
 slug: cemile
+letter: C
 lisan: Arapça cemīle
 anlamlar:
 - Gönül alıcı davranış

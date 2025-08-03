@@ -2,6 +2,7 @@
 layout: term
 title: karınca duası gibi
 slug: karinca-duasi-gibi
+letter: K
 lisan: Türkçe
 anlamlar:
 - çok küçük, sık ve okunaksız (yazı)

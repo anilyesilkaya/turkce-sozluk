@@ -2,6 +2,7 @@
 layout: term
 title: bulanmak
 slug: bulanmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bulama işine konu olmak, her yanı bir şeyle kaplanmak; belenmek

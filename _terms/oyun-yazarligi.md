@@ -2,6 +2,7 @@
 layout: term
 title: oyun yazarlığı
 slug: oyun-yazarligi
+letter: O
 lisan: Türkçe
 anlamlar:
 - Oyun yazma işi

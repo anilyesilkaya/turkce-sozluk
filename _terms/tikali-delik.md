@@ -2,6 +2,7 @@
 layout: term
 title: tıkalı delik
 slug: tikali-delik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tıkanmış delik

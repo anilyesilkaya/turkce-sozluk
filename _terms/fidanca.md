@@ -2,6 +2,7 @@
 layout: term
 title: fidanca
 slug: fidanca
+letter: F
 lisan: Türkçe
 anlamlar:
 - Fidana benzeyen, fidanı andıran

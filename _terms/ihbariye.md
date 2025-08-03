@@ -2,6 +2,7 @@
 layout: term
 title: ihbariye
 slug: ihbariye
+letter: I
 lisan: Arapça iḫbāriyye
 anlamlar:
 - ► bildirim

@@ -2,6 +2,7 @@
 layout: term
 title: hayrette (veya hayretler içinde) kalmak
 slug: hayrette-veya-hayretler-icinde-kalmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - şaşakalmak, şaşırmak

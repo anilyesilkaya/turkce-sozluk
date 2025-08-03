@@ -2,6 +2,7 @@
 layout: term
 title: ölü yatırım
 slug: olu-yatirim
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Ticarette ve sanayide kâr getirmeyen, geleceği veya pazar imkânı bulunmayan yatırım

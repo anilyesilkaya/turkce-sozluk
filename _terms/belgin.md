@@ -2,6 +2,7 @@
 layout: term
 title: belgin
 slug: belgin
+letter: B
 lisan: Türkçe
 anlamlar:
 - Tam ve kesin olarak belirlenmiş olan; sarih

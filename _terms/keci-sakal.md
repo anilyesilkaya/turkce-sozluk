@@ -2,6 +2,7 @@
 layout: term
 title: keçi sakal
 slug: keci-sakal
+letter: K
 lisan: Türkçe
 anlamlar:
 - Sadece çenede bırakılmış sivri ve seyrek sakal

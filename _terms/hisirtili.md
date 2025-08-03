@@ -2,6 +2,7 @@
 layout: term
 title: hışırtılı
 slug: hisirtili
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hışırtısı olan

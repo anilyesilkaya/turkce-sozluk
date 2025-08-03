@@ -2,6 +2,7 @@
 layout: term
 title: onomastik
 slug: onomastik
+letter: O
 lisan: Fransızca onomastique
 anlamlar:
 - Her türlü özel adın ortaya çıkışı, yapısı ve anlam değişmelerini inceleyerek özel adların ortaya çıkış geleneğini belirlemeyi amaçlayan dil bilimi kolu

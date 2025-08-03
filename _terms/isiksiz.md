@@ -2,6 +2,7 @@
 layout: term
 title: ışıksız
 slug: isiksiz
+letter: I
 lisan: Türkçe
 anlamlar:
 - Işığı olmayan; ziyasız

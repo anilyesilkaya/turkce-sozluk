@@ -2,6 +2,7 @@
 layout: term
 title: ölü nokta
 slug: olu-nokta
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Gözden uzak yer

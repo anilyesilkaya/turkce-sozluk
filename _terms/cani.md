@@ -2,6 +2,7 @@
 layout: term
 title: cani
 slug: cani
+letter: C
 lisan: Arapça cānī
 anlamlar:
 - Cinayet işlemiş olan kimse; kıyacı, kıyıcı (III)

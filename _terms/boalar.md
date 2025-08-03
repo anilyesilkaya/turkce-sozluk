@@ -2,6 +2,7 @@
 layout: term
 title: boalar
 slug: boalar
+letter: B
 lisan: Türkçe
 anlamlar:
 - Sürüngenler sınıfının, yılanlar takımının bir bölümü

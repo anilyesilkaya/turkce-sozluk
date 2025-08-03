@@ -2,6 +2,7 @@
 layout: term
 title: baskül
 slug: baskul
+letter: B
 lisan: Fransızca bascule
 anlamlar:
 - Ağırlıkları tartmaya yarayan alet; kantar

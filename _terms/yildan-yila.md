@@ -2,6 +2,7 @@
 layout: term
 title: yıldan yıla
 slug: yildan-yila
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Her yıl

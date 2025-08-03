@@ -2,6 +2,7 @@
 layout: term
 title: sohbet ustası
 slug: sohbet-ustasi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Konuşması zevkle dinlenen ve doyurucu olan, dinleyicileri etkileyen kimse

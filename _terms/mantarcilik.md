@@ -2,6 +2,7 @@
 layout: term
 title: mantarcılık
 slug: mantarcilik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mantar yetiştirme veya satma işi

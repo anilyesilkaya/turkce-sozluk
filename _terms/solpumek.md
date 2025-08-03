@@ -2,6 +2,7 @@
 layout: term
 title: sölpümek
 slug: solpumek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Şişmanken zayıflamak

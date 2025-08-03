@@ -2,6 +2,7 @@
 layout: term
 title: ızdırap
 slug: izdirap
+letter: I
 lisan: Arapça iżṭirāb
 anlamlar:
 - ► keder

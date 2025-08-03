@@ -2,6 +2,7 @@
 layout: term
 title: sigorta olmak
 slug: sigorta-olmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - bir kimse veya bir şey ileride olabileceği düşünülen kazanın zararını gidermek için sigortaya bağlanmak

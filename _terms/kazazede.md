@@ -2,6 +2,7 @@
 layout: term
 title: kazazede
 slug: kazazede
+letter: K
 lisan: Arapça ḳażāʾ + Farsça -zede
 anlamlar:
 - Kazaya uğramış, kaza geçirmiş olan kimse

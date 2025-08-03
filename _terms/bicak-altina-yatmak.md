@@ -2,6 +2,7 @@
 layout: term
 title: bıçak altına yatmak
 slug: bicak-altina-yatmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - ameliyat olmak

@@ -2,6 +2,7 @@
 layout: term
 title: salıncakçı
 slug: salincakci
+letter: S
 lisan: Türkçe
 anlamlar:
 - Eğlence yerlerinde salıncak çalıştıran kimse

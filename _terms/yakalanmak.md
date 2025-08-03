@@ -2,6 +2,7 @@
 layout: term
 title: yakalanmak
 slug: yakalanmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yakalama işi yapılmak, ele geçirilmek; tutulmak

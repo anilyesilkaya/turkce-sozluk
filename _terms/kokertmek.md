@@ -2,6 +2,7 @@
 layout: term
 title: kökertmek
 slug: kokertmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► köklemek (I)

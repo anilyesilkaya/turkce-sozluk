@@ -2,6 +2,7 @@
 layout: term
 title: patriklik
 slug: patriklik
+letter: P
 lisan: Türkçe
 anlamlar:
 - Patrik olma durumu

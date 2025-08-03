@@ -2,6 +2,7 @@
 layout: term
 title: benzemez
 slug: benzemez
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bazı özellikleriyle başkasına benzemeyen

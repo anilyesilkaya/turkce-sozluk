@@ -2,6 +2,7 @@
 layout: term
 title: ballanmak
 slug: ballanmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bal bulaşmak, bal sürülmek

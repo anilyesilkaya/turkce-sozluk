@@ -2,6 +2,7 @@
 layout: term
 title: şiir düzmek
 slug: siir-duzmek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - şiir yazmak veya söylemek

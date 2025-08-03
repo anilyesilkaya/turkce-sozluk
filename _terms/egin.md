@@ -2,6 +2,7 @@
 layout: term
 title: eğin
 slug: egin
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► vücut

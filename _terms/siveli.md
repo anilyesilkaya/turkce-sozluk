@@ -2,6 +2,7 @@
 layout: term
 title: şiveli
 slug: siveli
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Konuşması şive özelliği taşıyan

@@ -2,6 +2,7 @@
 layout: term
 title: bütünlemek
 slug: butunlemek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Eksiksiz duruma getirmek; tamamlamak, tümlemek, ikmal etmek

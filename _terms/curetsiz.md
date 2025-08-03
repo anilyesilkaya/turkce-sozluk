@@ -2,6 +2,7 @@
 layout: term
 title: cüretsiz
 slug: curetsiz
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► cesaretsiz

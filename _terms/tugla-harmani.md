@@ -2,6 +2,7 @@
 layout: term
 title: tuğla harmanı
 slug: tugla-harmani
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tuğla yapılan yer

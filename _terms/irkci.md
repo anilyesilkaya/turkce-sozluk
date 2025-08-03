@@ -2,6 +2,7 @@
 layout: term
 title: ırkçı
 slug: irkci
+letter: I
 lisan: Türkçe
 anlamlar:
 - Irkçılık yanlısı olan; rasist

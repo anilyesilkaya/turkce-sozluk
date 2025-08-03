@@ -2,6 +2,7 @@
 layout: term
 title: tuhafçı
 slug: tuhafci
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► tuhafiyeci

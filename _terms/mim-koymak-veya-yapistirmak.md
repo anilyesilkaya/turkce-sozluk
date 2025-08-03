@@ -2,6 +2,7 @@
 layout: term
 title: mim koymak (veya yapıştırmak)
 slug: mim-koymak-veya-yapistirmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - unutulmaması için işaret koymak

@@ -2,6 +2,7 @@
 layout: term
 title: peyda olmak
 slug: peyda-olmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - çıkmak, ortaya çıkmak, oluşmak

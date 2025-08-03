@@ -2,6 +2,7 @@
 layout: term
 title: destur
 slug: destur
+letter: D
 lisan: Farsça destūr
 anlamlar:
 - ► izin

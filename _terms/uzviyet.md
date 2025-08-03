@@ -2,6 +2,7 @@
 layout: term
 title: uzviyet
 slug: uzviyet
+letter: U
 lisan: Arapça ʿużviyyet
 anlamlar:
 - ► organizma

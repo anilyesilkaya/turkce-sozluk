@@ -2,6 +2,7 @@
 layout: term
 title: hava cıva
 slug: hava-civa
+letter: H
 lisan: Türkçe
 anlamlar:
 - Değer ve önemi olmayan, boş şey

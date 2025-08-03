@@ -2,6 +2,7 @@
 layout: term
 title: kapış kapış yapmak
 slug: kapis-kapis-yapmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - telaşlı bir biçimde, aceleyle almak

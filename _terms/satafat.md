@@ -2,6 +2,7 @@
 layout: term
 title: şatafat
 slug: satafat
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► görkem

@@ -2,6 +2,7 @@
 layout: term
 title: baltalık hakkı
 slug: baltalik-hakki
+letter: B
 lisan: Türkçe
 anlamlar:
 - Köylülere verilen koruluk veya ormandan belli ölçüde faydalanma hakkı

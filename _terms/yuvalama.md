@@ -2,6 +2,7 @@
 layout: term
 title: yuvalama
 slug: yuvalama
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yuvalamak işi

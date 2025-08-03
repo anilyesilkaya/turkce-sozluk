@@ -2,6 +2,7 @@
 layout: term
 title: gökçe
 slug: gokce
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gök rengi, mavi

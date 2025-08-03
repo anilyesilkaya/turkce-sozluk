@@ -2,6 +2,7 @@
 layout: term
 title: yarışa kalkmak
 slug: yarisa-kalkmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yarışmaya başlamak

@@ -2,6 +2,7 @@
 layout: term
 title: karşılıksızlık
 slug: karsiliksizlik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karşılıksız olma durumu

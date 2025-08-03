@@ -2,6 +2,7 @@
 layout: term
 title: sömürülmek
 slug: somurulmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sömürme işine konu olmak; yüzülmek

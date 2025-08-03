@@ -2,6 +2,7 @@
 layout: term
 title: elinde ... var
 slug: elinde-var
+letter: E
 lisan: Türkçe
 anlamlar:
 - yapar, bilir, bulundurur

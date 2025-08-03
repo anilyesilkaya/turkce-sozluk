@@ -2,6 +2,7 @@
 layout: term
 title: promil
 slug: promil
+letter: P
 lisan: Fransızca promille
 anlamlar:
 - Kandaki alkol miktarını gösteren birim

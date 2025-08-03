@@ -2,6 +2,7 @@
 layout: term
 title: şekilli
 slug: sekilli
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► biçimli

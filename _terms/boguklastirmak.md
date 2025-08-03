@@ -2,6 +2,7 @@
 layout: term
 title: boğuklaştırmak
 slug: boguklastirmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boğuklaşmasına sebep olmak

@@ -2,6 +2,7 @@
 layout: term
 title: ömrübillah
 slug: omrubillah
+letter: Ö
 lisan: Arapça ʿumr + billah
 anlamlar:
 - Şimdiye değin, hiçbir vakit

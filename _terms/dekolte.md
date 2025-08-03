@@ -2,6 +2,7 @@
 layout: term
 title: dekolte
 slug: dekolte
+letter: D
 lisan: Fransızca décolleté
 anlamlar:
 - ► açık giyim

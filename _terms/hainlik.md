@@ -2,6 +2,7 @@
 layout: term
 title: hainlik
 slug: hainlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hain olma durumu; çıyanlık

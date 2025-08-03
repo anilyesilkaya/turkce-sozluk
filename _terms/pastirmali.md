@@ -2,6 +2,7 @@
 layout: term
 title: pastırmalı
 slug: pastirmali
+letter: P
 lisan: Türkçe
 anlamlar:
 - İçinde pastırma bulunan (yemek)

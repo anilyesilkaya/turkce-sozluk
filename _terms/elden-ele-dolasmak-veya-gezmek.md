@@ -2,6 +2,7 @@
 layout: term
 title: elden ele dolaşmak (veya gezmek)
 slug: elden-ele-dolasmak-veya-gezmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - iyi nitelikleri dolayısıyla çok ilgi görmek, çok beğenilmek

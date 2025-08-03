@@ -2,6 +2,7 @@
 layout: term
 title: hallaç
 slug: hallac
+letter: H
 lisan: Arapça ḥallāc
 anlamlar:
 - Yünü, pamuğu yay veya tokmak gibi bir araçla kabartma, ditme işini yapan kimse; atımcı

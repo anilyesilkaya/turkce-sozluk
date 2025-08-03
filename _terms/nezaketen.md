@@ -2,6 +2,7 @@
 layout: term
 title: nezaketen
 slug: nezaketen
+letter: N
 lisan: Arapça nezāketen
 anlamlar:
 - Nezaket olarak, nazik davranarak

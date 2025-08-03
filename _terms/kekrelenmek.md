@@ -2,6 +2,7 @@
 layout: term
 title: kekrelenmek
 slug: kekrelenmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Acımtırak, ekşimsi ve buruk bir tat almak

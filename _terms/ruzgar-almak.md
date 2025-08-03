@@ -2,6 +2,7 @@
 layout: term
 title: rüzgâr almak
 slug: ruzgar-almak
+letter: R
 lisan: Türkçe
 anlamlar:
 - yel esen bir yerde bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: ulusçuluk
 slug: ulusculuk
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► milliyetçilik

@@ -2,6 +2,7 @@
 layout: term
 title: ısı ölçümü
 slug: isi-olcumu
+letter: I
 lisan: Türkçe
 anlamlar:
 - Çeşitli olaylar sırasında açığa çıkan, ısı miktarının ölçülmesini konu alan fizik dalı; kalorimetri

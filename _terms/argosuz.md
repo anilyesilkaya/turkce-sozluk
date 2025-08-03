@@ -2,6 +2,7 @@
 layout: term
 title: argosuz
 slug: argosuz
+letter: A
 lisan: Türkçe
 anlamlar:
 - İçinde argo söz bulunmayan

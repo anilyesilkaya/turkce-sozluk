@@ -2,6 +2,7 @@
 layout: term
 title: hapis yatmak
 slug: hapis-yatmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - hükümlü olduğu süreyi hapishanede geçirmek

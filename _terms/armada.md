@@ -2,6 +2,7 @@
 layout: term
 title: armada
 slug: armada
+letter: A
 lisan: İtalyanca armata
 anlamlar:
 - ► donanma

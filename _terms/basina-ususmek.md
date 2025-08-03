@@ -2,6 +2,7 @@
 layout: term
 title: başına üşüşmek
 slug: basina-ususmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir araya gelmek, toplaşmak

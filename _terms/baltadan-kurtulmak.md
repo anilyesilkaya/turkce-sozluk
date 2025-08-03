@@ -2,6 +2,7 @@
 layout: term
 title: baltadan kurtulmak
 slug: baltadan-kurtulmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - kesilmemek

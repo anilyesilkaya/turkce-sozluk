@@ -2,6 +2,7 @@
 layout: term
 title: melal duymak
 slug: melal-duymak
+letter: M
 lisan: Türkçe
 anlamlar:
 - üzüntülü olmak, dertlenmek

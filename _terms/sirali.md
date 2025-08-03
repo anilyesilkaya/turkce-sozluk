@@ -2,6 +2,7 @@
 layout: term
 title: sıralı
 slug: sirali
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sıralanmış, düzenlenmiş

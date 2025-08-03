@@ -2,6 +2,7 @@
 layout: term
 title: yem borusu
 slug: yem-borusu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Askerlikte hayvanlara yem verme saatinin geldiğini bildirmek için çalınan boru

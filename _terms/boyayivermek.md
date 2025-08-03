@@ -2,6 +2,7 @@
 layout: term
 title: boyayıvermek
 slug: boyayivermek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Çabucak boyamak

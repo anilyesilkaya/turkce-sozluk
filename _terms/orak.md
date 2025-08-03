@@ -2,6 +2,7 @@
 layout: term
 title: orak
 slug: orak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Yarım çember biçiminde yassı, ensiz ve keskin metal bir bıçakla, buna bağlı bir saptan oluşan ekin, ot vb. biçme aracı; kalıç

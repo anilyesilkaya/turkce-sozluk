@@ -2,6 +2,7 @@
 layout: term
 title: betimlemecilik
 slug: betimlemecilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Betimlemeci olma durumu; tasvircilik

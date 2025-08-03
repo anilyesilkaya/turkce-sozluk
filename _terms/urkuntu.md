@@ -2,6 +2,7 @@
 layout: term
 title: ürküntü
 slug: urkuntu
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Ürkme duygusu

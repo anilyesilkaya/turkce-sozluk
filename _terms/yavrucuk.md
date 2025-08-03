@@ -2,6 +2,7 @@
 layout: term
 title: yavrucuk
 slug: yavrucuk
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yavrucak

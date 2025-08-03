@@ -2,6 +2,7 @@
 layout: term
 title: soğuk espri yapmak
 slug: soguk-espri-yapmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - güldürmeyen, niteliksiz, yersiz espri yapmak

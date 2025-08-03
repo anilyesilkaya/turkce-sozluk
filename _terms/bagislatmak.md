@@ -2,6 +2,7 @@
 layout: term
 title: bağışlatmak
 slug: bagislatmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağışlama işini yaptırmak; affettirmek

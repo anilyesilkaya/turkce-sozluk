@@ -2,6 +2,7 @@
 layout: term
 title: sökükçü
 slug: sokukcu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sökük dikip yama yapan kimse

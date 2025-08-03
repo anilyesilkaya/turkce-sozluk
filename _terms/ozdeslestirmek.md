@@ -2,6 +2,7 @@
 layout: term
 title: özdeşleştirmek
 slug: ozdeslestirmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Özdeş duruma getirmek

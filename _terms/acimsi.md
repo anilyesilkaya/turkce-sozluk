@@ -2,6 +2,7 @@
 layout: term
 title: acımsı
 slug: acimsi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Acıyı andıran, acıya benzeyen, acı gibi; acımtırak

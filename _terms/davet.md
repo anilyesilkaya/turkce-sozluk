@@ -2,6 +2,7 @@
 layout: term
 title: davet
 slug: davet
+letter: D
 lisan: Arapça daʿvet
 anlamlar:
 - ► çağrı

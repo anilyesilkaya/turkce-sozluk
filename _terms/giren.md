@@ -2,6 +2,7 @@
 layout: term
 title: giren
 slug: giren
+letter: G
 lisan: Türkçe
 anlamlar:
 - Hafif bulutlu, sisli hava

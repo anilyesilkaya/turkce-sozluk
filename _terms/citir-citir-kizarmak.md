@@ -2,6 +2,7 @@
 layout: term
 title: çıtır çıtır kızarmak
 slug: citir-citir-kizarmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - çok güzel kızarmak

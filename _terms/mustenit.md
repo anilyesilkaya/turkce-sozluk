@@ -2,6 +2,7 @@
 layout: term
 title: müstenit
 slug: mustenit
+letter: M
 lisan: Arapça mustenid
 anlamlar:
 - Dayanan

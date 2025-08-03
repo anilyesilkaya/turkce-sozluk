@@ -2,6 +2,7 @@
 layout: term
 title: ağır çekim
 slug: agir-cekim
+letter: A
 lisan: Türkçe
 anlamlar:
 - Hızı düşürülerek çekilmiş

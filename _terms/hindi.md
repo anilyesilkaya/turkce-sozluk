@@ -2,6 +2,7 @@
 layout: term
 title: hindi
 slug: hindi
+letter: H
 lisan: Arapça hindī
 anlamlar:
 - Tavukgillerden, XV. yüzyılda evcilleştirilerek Amerika'dan bütün dünyaya yayılan, boyun ve başı çıplak, parlak, yeşil ve esmer tüylü, kümes hayvanlarının en büyüğü; gülük, keloğlan (II), mısırtavuğu (Meleagris gallopavo)

@@ -2,6 +2,7 @@
 layout: term
 title: Uzay Çağı
 slug: uzay-cagi
+letter: U
 lisan: Türkçe
 anlamlar:
 - İnsanın uzayda çalışma yapmaya başladığı çağ

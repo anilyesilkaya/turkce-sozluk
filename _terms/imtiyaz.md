@@ -2,6 +2,7 @@
 layout: term
 title: imtiyaz
 slug: imtiyaz
+letter: I
 lisan: Arapça imtiyāz
 anlamlar:
 - ► ayrıcalık

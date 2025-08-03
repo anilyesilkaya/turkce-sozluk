@@ -2,6 +2,7 @@
 layout: term
 title: yorgan
 slug: yorgan
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yatakta örtünmeye yarayan, içi pamuk, yün vb. şeylerle doldurularak dikilmiş geniş örtü

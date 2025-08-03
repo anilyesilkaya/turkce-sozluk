@@ -2,6 +2,7 @@
 layout: term
 title: çatık
 slug: catik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çatılmış olan; çatkın

@@ -2,6 +2,7 @@
 layout: term
 title: çatırdama
 slug: catirdama
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çatırdamak işi

@@ -2,6 +2,7 @@
 layout: term
 title: yük odası
 slug: yuk-odasi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yüklük

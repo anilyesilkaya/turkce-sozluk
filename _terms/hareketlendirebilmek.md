@@ -2,6 +2,7 @@
 layout: term
 title: hareketlendirebilmek
 slug: hareketlendirebilmek
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hareketlendirme ihtimali veya imkânı bulunmak

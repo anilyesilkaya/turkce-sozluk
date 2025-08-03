@@ -2,6 +2,7 @@
 layout: term
 title: çevrim
 slug: cevrim
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► devir

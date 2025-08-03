@@ -2,6 +2,7 @@
 layout: term
 title: çark çevirmek
 slug: cark-cevirmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - aynı yol üzerinde dönerek gitmek

@@ -2,6 +2,7 @@
 layout: term
 title: beyitli
 slug: beyitli
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beyti bulunan, içinde beyit olan

@@ -2,6 +2,7 @@
 layout: term
 title: çeten
 slug: ceten
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Saman taşımak için kağnılara ve arabalara konulan ince dallardan örülmüş büyük sepet veya çit; çiten

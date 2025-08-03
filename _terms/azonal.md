@@ -2,6 +2,7 @@
 layout: term
 title: azonal
 slug: azonal
+letter: A
 lisan: İngilizce azonal
 anlamlar:
 - Yeryüzünün herhangi bir noktasında enleme bağlı olmaksızın meydana gelen olay

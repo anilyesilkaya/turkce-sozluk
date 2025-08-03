@@ -2,6 +2,7 @@
 layout: term
 title: ağız kullanmak
 slug: agiz-kullanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - duruma, ortama göre söz söylemek

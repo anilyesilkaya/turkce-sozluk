@@ -2,6 +2,7 @@
 layout: term
 title: epikerem
 slug: epikerem
+letter: E
 lisan: Fransızca épichérème
 anlamlar:
 - Önertilerinin biri veya her ikisi kanıtıyla birlikte ileri sürülen tasım

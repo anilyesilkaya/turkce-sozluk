@@ -2,6 +2,7 @@
 layout: term
 title: burjuvacasına
 slug: burjuvacasina
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► burjuvaca

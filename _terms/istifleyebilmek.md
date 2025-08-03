@@ -2,6 +2,7 @@
 layout: term
 title: istifleyebilmek
 slug: istifleyebilmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İstifleme ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: rica
 slug: rica
+letter: R
 lisan: Arapça recā
 anlamlar:
 - ► dileme

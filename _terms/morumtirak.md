@@ -2,6 +2,7 @@
 layout: term
 title: morumtırak
 slug: morumtirak
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► morumsu

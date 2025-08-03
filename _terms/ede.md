@@ -2,6 +2,7 @@
 layout: term
 title: ede
 slug: ede
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► ağabey

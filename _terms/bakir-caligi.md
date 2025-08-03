@@ -2,6 +2,7 @@
 layout: term
 title: bakır çalığı
 slug: bakir-caligi
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► bakır yeşili

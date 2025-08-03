@@ -2,6 +2,7 @@
 layout: term
 title: incizap
 slug: incizap
+letter: I
 lisan: Arapça inciẕāb
 anlamlar:
 - Bir şeyin cazibesine tutulup ona ilgi duyma

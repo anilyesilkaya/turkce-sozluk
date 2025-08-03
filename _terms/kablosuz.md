@@ -2,6 +2,7 @@
 layout: term
 title: kablosuz
 slug: kablosuz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kablosu olmayan

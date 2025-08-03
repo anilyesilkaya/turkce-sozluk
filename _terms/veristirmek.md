@@ -2,6 +2,7 @@
 layout: term
 title: veriştirmek
 slug: veristirmek
+letter: V
 lisan: Türkçe
 anlamlar:
 - Çok fazla söylemek

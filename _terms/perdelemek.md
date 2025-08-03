@@ -2,6 +2,7 @@
 layout: term
 title: perdelemek
 slug: perdelemek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Bir şeyin önüne perde çekmek, perde ile örtmek

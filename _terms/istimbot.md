@@ -2,6 +2,7 @@
 layout: term
 title: istimbot
 slug: istimbot
+letter: I
 lisan: İngilizce steamboat
 anlamlar:
 - ► çatana

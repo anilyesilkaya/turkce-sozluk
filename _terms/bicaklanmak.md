@@ -2,6 +2,7 @@
 layout: term
 title: bıçaklanmak
 slug: bicaklanmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bıçaklama işine konu olmak

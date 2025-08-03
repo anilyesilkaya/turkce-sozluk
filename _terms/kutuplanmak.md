@@ -2,6 +2,7 @@
 layout: term
 title: kutuplanmak
 slug: kutuplanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - İki kutupta toplanmak

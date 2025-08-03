@@ -2,6 +2,7 @@
 layout: term
 title: bitap
 slug: bitap
+letter: B
 lisan: Farsça bītāb
 anlamlar:
 - ► bitkin

@@ -2,6 +2,7 @@
 layout: term
 title: sökü otu
 slug: soku-otu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Baklagillerden, kumlu topraklarda yetişen bir bitki (Ornithopus)

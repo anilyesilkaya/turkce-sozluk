@@ -2,6 +2,7 @@
 layout: term
 title: tıngırtı
 slug: tingirti
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tıngırdayan bir şeyin çıkardığı sesin adı

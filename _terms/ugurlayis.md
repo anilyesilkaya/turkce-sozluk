@@ -2,6 +2,7 @@
 layout: term
 title: uğurlayış
 slug: ugurlayis
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uğurlamak işi

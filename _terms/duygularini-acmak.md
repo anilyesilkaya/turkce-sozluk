@@ -2,6 +2,7 @@
 layout: term
 title: duygularını açmak
 slug: duygularini-acmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - hissettiklerini anlatmak

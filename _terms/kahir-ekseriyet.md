@@ -2,6 +2,7 @@
 layout: term
 title: kahir ekseriyet
 slug: kahir-ekseriyet
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► ezici çoğunluk

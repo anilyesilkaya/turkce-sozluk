@@ -2,6 +2,7 @@
 layout: term
 title: topçu
 slug: topcu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Topların kullanılışı, bakımı üzerine yetiştirilen asker sınıfı

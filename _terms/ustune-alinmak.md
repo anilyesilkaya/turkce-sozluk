@@ -2,6 +2,7 @@
 layout: term
 title: üstüne alınmak
 slug: ustune-alinmak
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - bir davranışın kendisine karşı olduğunu sanarak tedirgin olmak, alınmak

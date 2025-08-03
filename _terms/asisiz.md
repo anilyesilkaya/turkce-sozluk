@@ -2,6 +2,7 @@
 layout: term
 title: aşısız
 slug: asisiz
+letter: A
 lisan: Türkçe
 anlamlar:
 - Herhangi bir hastalığa karşı aşılanmamış olan (kimse)

@@ -2,6 +2,7 @@
 layout: term
 title: kirli çıkı
 slug: kirli-ciki
+letter: K
 lisan: Türkçe
 anlamlar:
 - Züğürt görünmesine karşın birikmiş çok parası bulunan kimse

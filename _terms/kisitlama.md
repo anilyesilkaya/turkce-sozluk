@@ -2,6 +2,7 @@
 layout: term
 title: kısıtlama
 slug: kisitlama
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kısıtlamak işi

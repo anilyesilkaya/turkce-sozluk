@@ -2,6 +2,7 @@
 layout: term
 title: aile fotoğrafı
 slug: aile-fotografi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aile bireylerinin bir arada bulunduğu fotoğraf

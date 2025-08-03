@@ -2,6 +2,7 @@
 layout: term
 title: mısır koçanı gibi
 slug: misir-kocani-gibi
+letter: M
 lisan: Türkçe
 anlamlar:
 - boru gibi dümdüz

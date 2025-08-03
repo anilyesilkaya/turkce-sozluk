@@ -2,6 +2,7 @@
 layout: term
 title: preparat
 slug: preparat
+letter: P
 lisan: Almanca Preparat
 anlamlar:
 - ► müstahzar

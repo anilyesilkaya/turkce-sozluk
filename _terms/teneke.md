@@ -2,6 +2,7 @@
 layout: term
 title: teneke
 slug: teneke
+letter: T
 lisan: Türkçe
 anlamlar:
 - Yumuşak çelikten yapılmış üzeri kalay kaplı ince sac

@@ -2,6 +2,7 @@
 layout: term
 title: tanıtabilmek
 slug: tanitabilmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tanıtma ihtimali veya imkânı bulunmak

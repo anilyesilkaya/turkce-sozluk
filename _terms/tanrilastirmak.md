@@ -2,6 +2,7 @@
 layout: term
 title: tanrılaştırmak
 slug: tanrilastirmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Birini veya bir şeyi tanrı diye tanımak, tanrı yerine koymak

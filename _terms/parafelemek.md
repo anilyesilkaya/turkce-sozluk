@@ -2,6 +2,7 @@
 layout: term
 title: parafelemek
 slug: parafelemek
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► paraflamak

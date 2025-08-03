@@ -2,6 +2,7 @@
 layout: term
 title: bandıralı
 slug: bandirali
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bandırası olan

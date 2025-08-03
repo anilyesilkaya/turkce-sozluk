@@ -2,6 +2,7 @@
 layout: term
 title: yem torbası
 slug: yem-torbasi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Hayvanların yem yemesi için başlarına takılan torba

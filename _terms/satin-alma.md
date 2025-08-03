@@ -2,6 +2,7 @@
 layout: term
 title: satın alma
 slug: satin-alma
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kurum ve kuruluşlarda gereksinim duyulan malları almaya yetkili birim

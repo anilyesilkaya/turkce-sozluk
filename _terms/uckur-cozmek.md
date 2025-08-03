@@ -2,6 +2,7 @@
 layout: term
 title: uçkur çözmek
 slug: uckur-cozmek
+letter: U
 lisan: Türkçe
 anlamlar:
 - cinsel ilişkide bulunmak

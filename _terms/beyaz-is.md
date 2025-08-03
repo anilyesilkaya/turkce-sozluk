@@ -2,6 +2,7 @@
 layout: term
 title: beyaz iş
 slug: beyaz-is
+letter: B
 lisan: Türkçe
 anlamlar:
 - Beyaz pamuklu veya keten kumaşlar üzerine beyaz veya renkli ipliklerle yapılan sarma iş

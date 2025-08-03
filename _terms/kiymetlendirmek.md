@@ -2,6 +2,7 @@
 layout: term
 title: kıymetlendirmek
 slug: kiymetlendirmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► değerlendirmek

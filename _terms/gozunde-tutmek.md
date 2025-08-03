@@ -2,6 +2,7 @@
 layout: term
 title: gözünde tütmek
 slug: gozunde-tutmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - çok özlemek

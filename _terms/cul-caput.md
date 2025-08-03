@@ -2,6 +2,7 @@
 layout: term
 title: çul çaput
 slug: cul-caput
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Dokunmuş eski eşya veya eski giysi

@@ -2,6 +2,7 @@
 layout: term
 title: çizebilme
 slug: cizebilme
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çizebilmek işi

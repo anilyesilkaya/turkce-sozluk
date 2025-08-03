@@ -2,6 +2,7 @@
 layout: term
 title: ilikleyiş
 slug: ilikleyis
+letter: I
 lisan: Türkçe
 anlamlar:
 - İliklemek işi

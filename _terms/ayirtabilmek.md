@@ -2,6 +2,7 @@
 layout: term
 title: ayırtabilmek
 slug: ayirtabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayırtma ihtimali veya imkânı bulunmak

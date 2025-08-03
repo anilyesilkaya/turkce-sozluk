@@ -2,6 +2,7 @@
 layout: term
 title: vücut yapmak
 slug: vucut-yapmak
+letter: V
 lisan: Türkçe
 anlamlar:
 - kas geliştirici hareket ve spor yaparak bedeni güçlü duruma getirmek

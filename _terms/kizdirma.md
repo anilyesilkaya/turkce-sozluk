@@ -2,6 +2,7 @@
 layout: term
 title: kızdırma
 slug: kizdirma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kızdırmak işi

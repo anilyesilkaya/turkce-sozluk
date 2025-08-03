@@ -2,6 +2,7 @@
 layout: term
 title: koyu kırmızı
 slug: koyu-kirmizi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kırmızının bir veya birkaç ton koyusu

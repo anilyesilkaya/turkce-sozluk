@@ -2,6 +2,7 @@
 layout: term
 title: felsefe yapmak
 slug: felsefe-yapmak
+letter: F
 lisan: Türkçe
 anlamlar:
 - felsefe ile uğraşmak

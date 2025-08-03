@@ -2,6 +2,7 @@
 layout: term
 title: doğallıkla
 slug: dogallikla
+letter: D
 lisan: Türkçe
 anlamlar:
 - Doğal olarak

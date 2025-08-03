@@ -2,6 +2,7 @@
 layout: term
 title: okşayış
 slug: oksayis
+letter: O
 lisan: Türkçe
 anlamlar:
 - Okşama işi

@@ -2,6 +2,7 @@
 layout: term
 title: kalemkâr
 slug: kalemkar
+letter: K
 lisan: Arapça ḳalem + Farsça -kār
 anlamlar:
 - Tavan ve duvarlara kabartma gibi görünen resimler yapan sanatçı

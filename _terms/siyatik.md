@@ -2,6 +2,7 @@
 layout: term
 title: siyatik
 slug: siyatik
+letter: S
 lisan: Fransızca sciatique
 anlamlar:
 - Kalça siniri

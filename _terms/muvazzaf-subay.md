@@ -2,6 +2,7 @@
 layout: term
 title: muvazzaf subay
 slug: muvazzaf-subay
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mesleği askerlik olan subay

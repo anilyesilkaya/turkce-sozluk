@@ -2,6 +2,7 @@
 layout: term
 title: paketlemek
 slug: paketlemek
+letter: P
 lisan: Türkçe
 anlamlar:
 - Bir veya birkaç şeyi kâğıda sararak, kutuya koyarak bağlamak

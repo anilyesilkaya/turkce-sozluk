@@ -2,6 +2,7 @@
 layout: term
 title: allak bullak
 slug: allak-bullak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Altüst, karmakarışık olan

@@ -2,6 +2,7 @@
 layout: term
 title: müvesvis
 slug: muvesvis
+letter: M
 lisan: Arapça muvesvis
 anlamlar:
 - ► kuruntulu

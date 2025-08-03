@@ -2,6 +2,7 @@
 layout: term
 title: zıngıldamak
 slug: zingildamak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► zangırdamak

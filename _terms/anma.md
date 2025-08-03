@@ -2,6 +2,7 @@
 layout: term
 title: anma
 slug: anma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anmak işi; yâd

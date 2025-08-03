@@ -2,6 +2,7 @@
 layout: term
 title: çalgılı
 slug: calgili
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - İçinde çalgı çalınan

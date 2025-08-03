@@ -2,6 +2,7 @@
 layout: term
 title: iflas etmek
 slug: iflas-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - bir kimse veya kuruluş için mahkeme kararıyla anaparasını yitirdiği açıklanmak; batmak

@@ -2,6 +2,7 @@
 layout: term
 title: dikebilmek
 slug: dikebilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dikme ihtimali veya imkânı bulunmak

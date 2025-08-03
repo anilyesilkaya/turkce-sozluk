@@ -2,6 +2,7 @@
 layout: term
 title: uyumak
 slug: uyumak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyku durumunda olmak; dalmak, zıbarmak

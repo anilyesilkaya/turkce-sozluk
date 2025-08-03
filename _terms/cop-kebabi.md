@@ -2,6 +2,7 @@
 layout: term
 title: çöp kebabı
 slug: cop-kebabi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Kısa ve ince ağaç şişlere geçirilerek pişirilen et kebabı

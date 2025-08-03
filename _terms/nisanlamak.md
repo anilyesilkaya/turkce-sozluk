@@ -2,6 +2,7 @@
 layout: term
 title: nişanlamak
 slug: nisanlamak
+letter: N
 lisan: Türkçe
 anlamlar:
 - Bir çiftin evlenme işinin kararlaştığına belirti olarak parmaklarına yüzük takmak; yavuklamak

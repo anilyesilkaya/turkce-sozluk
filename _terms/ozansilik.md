@@ -2,6 +2,7 @@
 layout: term
 title: ozansılık
 slug: ozansilik
+letter: O
 lisan: Türkçe
 anlamlar:
 - ► şairimsilik

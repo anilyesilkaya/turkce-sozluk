@@ -2,6 +2,7 @@
 layout: term
 title: mudhike
 slug: mudhike
+letter: M
 lisan: Arapça mużḥike
 anlamlar:
 - Gülünecek şey

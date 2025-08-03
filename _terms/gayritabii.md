@@ -2,6 +2,7 @@
 layout: term
 title: gayritabii
 slug: gayritabii
+letter: G
 lisan: Arapça ġayr + ṭabīʿī
 anlamlar:
 - ► sıra dışı

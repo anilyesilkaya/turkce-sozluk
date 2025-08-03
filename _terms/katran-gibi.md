@@ -2,6 +2,7 @@
 layout: term
 title: katran gibi
 slug: katran-gibi
+letter: K
 lisan: Türkçe
 anlamlar:
 - karaya yakın koyu renkte

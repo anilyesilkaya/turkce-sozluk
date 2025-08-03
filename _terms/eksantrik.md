@@ -2,6 +2,7 @@
 layout: term
 title: eksantrik
 slug: eksantrik
+letter: E
 lisan: Fransızca excentrique
 anlamlar:
 - ► dış merkezli

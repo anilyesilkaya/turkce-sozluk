@@ -2,6 +2,7 @@
 layout: term
 title: baltalayıcılık
 slug: baltalayicilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Baltalayıcı olma durumu; sabotajcılık

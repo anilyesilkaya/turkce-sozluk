@@ -2,6 +2,7 @@
 layout: term
 title: filizcik
 slug: filizcik
+letter: F
 lisan: Türkçe
 anlamlar:
 - Küçük sürgün

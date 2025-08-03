@@ -2,6 +2,7 @@
 layout: term
 title: ifade etmek
 slug: ifade-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - anlatmak

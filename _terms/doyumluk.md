@@ -2,6 +2,7 @@
 layout: term
 title: doyumluk
 slug: doyumluk
+letter: D
 lisan: Türkçe
 anlamlar:
 - Doyulacak miktarda olan

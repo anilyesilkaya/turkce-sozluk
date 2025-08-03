@@ -2,6 +2,7 @@
 layout: term
 title: parlamak
 slug: parlamak
+letter: P
 lisan: Türkçe
 anlamlar:
 - ► parıldamak

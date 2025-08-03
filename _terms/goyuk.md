@@ -2,6 +2,7 @@
 layout: term
 title: göyük
 slug: goyuk
+letter: G
 lisan: Türkçe
 anlamlar:
 - Yanık, yanmış olan

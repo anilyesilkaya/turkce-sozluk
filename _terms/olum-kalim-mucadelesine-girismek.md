@@ -2,6 +2,7 @@
 layout: term
 title: ölüm kalım mücadelesine girişmek
 slug: olum-kalim-mucadelesine-girismek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - yok olmamak için savaşmaya başlamak

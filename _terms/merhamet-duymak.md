@@ -2,6 +2,7 @@
 layout: term
 title: merhamet duymak
 slug: merhamet-duymak
+letter: M
 lisan: Türkçe
 anlamlar:
 - acıma veya şefkat duygusu uyanmak veya kabarmak

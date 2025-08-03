@@ -2,6 +2,7 @@
 layout: term
 title: abdalımsı
 slug: abdalimsi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Abdalı andıran, abdala benzer, abdal gibi

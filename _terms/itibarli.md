@@ -2,6 +2,7 @@
 layout: term
 title: itibarlı
 slug: itibarli
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► saygın

@@ -2,6 +2,7 @@
 layout: term
 title: yerme
 slug: yerme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yermek işi; zem, zemmetme

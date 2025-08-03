@@ -2,6 +2,7 @@
 layout: term
 title: vaziyeti kurtarmak
 slug: vaziyeti-kurtarmak
+letter: V
 lisan: Türkçe
 anlamlar:
 - herhangi bir güç durumdan sıyrılmak

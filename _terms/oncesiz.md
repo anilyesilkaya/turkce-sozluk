@@ -2,6 +2,7 @@
 layout: term
 title: öncesiz
 slug: oncesiz
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Zamanda başlangıcı olmayan; ezelî

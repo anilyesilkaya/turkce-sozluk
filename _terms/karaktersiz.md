@@ -2,6 +2,7 @@
 layout: term
 title: karaktersiz
 slug: karaktersiz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Karakteri kötü olan

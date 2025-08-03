@@ -2,6 +2,7 @@
 layout: term
 title: hücre
 slug: hucre
+letter: H
 lisan: Arapça ḥucre
 anlamlar:
 - Organizmanın canlılığını kendi başına sürdürebilen, bölünüp çoğalabilen ve dışarıdan aldığı maddeleri özümleyebilen en küçük birimi; göze

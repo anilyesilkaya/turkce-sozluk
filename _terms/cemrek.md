@@ -2,6 +2,7 @@
 layout: term
 title: çemrek
 slug: cemrek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Kolları ve bacakları sıvanmış (kimse)

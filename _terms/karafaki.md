@@ -2,6 +2,7 @@
 layout: term
 title: karafaki
 slug: karafaki
+letter: K
 lisan: Yunanca
 anlamlar:
 - ► karafa

@@ -2,6 +2,7 @@
 layout: term
 title: bıçaksız
 slug: bicaksiz
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bıçağı olmayan

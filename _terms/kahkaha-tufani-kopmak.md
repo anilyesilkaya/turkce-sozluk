@@ -2,6 +2,7 @@
 layout: term
 title: kahkaha tufanı kopmak
 slug: kahkaha-tufani-kopmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - birdenbire toplu olarak kahkaha atmak

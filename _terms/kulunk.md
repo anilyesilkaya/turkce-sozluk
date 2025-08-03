@@ -2,6 +2,7 @@
 layout: term
 title: külünk
 slug: kulunk
+letter: K
 lisan: Farsça kulunk
 anlamlar:
 - Taşları, kayaları parçalamakta kullanılan sivri kazma

@@ -2,6 +2,7 @@
 layout: term
 title: yüzüstü
 slug: yuzustu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yüzü yere gelecek biçimde; yüzükoyun

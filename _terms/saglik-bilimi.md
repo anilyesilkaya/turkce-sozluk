@@ -2,6 +2,7 @@
 layout: term
 title: sağlık bilimi
 slug: saglik-bilimi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sağlık konularını inceleyen ve araştıran bilim dalı

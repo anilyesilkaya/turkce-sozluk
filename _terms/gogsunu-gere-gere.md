@@ -2,6 +2,7 @@
 layout: term
 title: göğsünü gere gere
 slug: gogsunu-gere-gere
+letter: G
 lisan: Türkçe
 anlamlar:
 - kendine güvenerek

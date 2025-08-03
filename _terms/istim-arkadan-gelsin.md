@@ -2,6 +2,7 @@
 layout: term
 title: istim arkadan gelsin
 slug: istim-arkadan-gelsin
+letter: I
 lisan: Türkçe
 anlamlar:
 - '"önce istenilen iş yapılsın, gereken şartlar sonradan yerine getirilsin" anlamında kullanılan bir söz'

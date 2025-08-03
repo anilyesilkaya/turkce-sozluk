@@ -2,6 +2,7 @@
 layout: term
 title: üç buçuk
 slug: uc-bucuk
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Yarım yamalak, üstünkörü olan

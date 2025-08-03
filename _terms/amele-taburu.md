@@ -2,6 +2,7 @@
 layout: term
 title: amele taburu
 slug: amele-taburu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Amelelerden oluşan topluluk

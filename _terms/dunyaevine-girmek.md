@@ -2,6 +2,7 @@
 layout: term
 title: dünyaevine girmek
 slug: dunyaevine-girmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - evlenmek

@@ -2,6 +2,7 @@
 layout: term
 title: dangırdamak
 slug: dangirdamak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Yüksek sesle, bağıra bağıra konuşmak

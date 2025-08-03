@@ -2,6 +2,7 @@
 layout: term
 title: mealen
 slug: mealen
+letter: M
 lisan: Arapça meʾālen
 anlamlar:
 - ► anlamca

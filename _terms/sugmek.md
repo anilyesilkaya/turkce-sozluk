@@ -2,6 +2,7 @@
 layout: term
 title: süğmek
 slug: sugmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bitki, ot yetişip ortaya çıkmak, bitmek, yeşermek; süvmek

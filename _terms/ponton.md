@@ -2,6 +2,7 @@
 layout: term
 title: ponton
 slug: ponton
+letter: P
 lisan: Fransızca ponton
 anlamlar:
 - Batmış gemileri askıya alma işinde kullanılan büyük duba

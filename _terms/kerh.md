@@ -2,6 +2,7 @@
 layout: term
 title: kerh
 slug: kerh
+letter: K
 lisan: Arapça kerh
 anlamlar:
 - Tiksinme, iğrenme

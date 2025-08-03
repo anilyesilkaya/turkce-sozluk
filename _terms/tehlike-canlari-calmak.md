@@ -2,6 +2,7 @@
 layout: term
 title: tehlike çanları çalmak
 slug: tehlike-canlari-calmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - kötü bir durumun ortaya çıkacağı belli olmaya başlamak

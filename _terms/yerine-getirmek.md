@@ -2,6 +2,7 @@
 layout: term
 title: yerine getirmek
 slug: yerine-getirmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - istenileni, gerekeni yapmak

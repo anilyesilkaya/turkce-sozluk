@@ -2,6 +2,7 @@
 layout: term
 title: ululamak
 slug: ululamak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ağırlamak, saygı gösterip ikramda bulunmak

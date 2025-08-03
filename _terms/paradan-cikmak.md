@@ -2,6 +2,7 @@
 layout: term
 title: paradan çıkmak
 slug: paradan-cikmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - para harcamak zorunda kalmak

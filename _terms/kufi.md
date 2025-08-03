@@ -2,6 +2,7 @@
 layout: term
 title: kûfi
 slug: kufi
+letter: K
 lisan: Arapça kūfī
 anlamlar:
 - Arap yazısının düz ve köşeli çizgilerle yazılan eski bir biçimi

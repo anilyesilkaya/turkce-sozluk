@@ -2,6 +2,7 @@
 layout: term
 title: kazık
 slug: kazik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Toprağa çakılmak için hazırlanmış, ucu sivri demir veya ağaç

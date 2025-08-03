@@ -2,6 +2,7 @@
 layout: term
 title: bizcileyin
 slug: bizcileyin
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bizim gibi

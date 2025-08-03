@@ -2,6 +2,7 @@
 layout: term
 title: koyabilmek
 slug: koyabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Koyma ihtimali veya imkânı bulunmak

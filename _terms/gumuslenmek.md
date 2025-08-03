@@ -2,6 +2,7 @@
 layout: term
 title: gümüşlenmek
 slug: gumuslenmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gümüşle kaplanmak

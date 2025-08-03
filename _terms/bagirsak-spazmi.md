@@ -2,6 +2,7 @@
 layout: term
 title: bağırsak spazmı
 slug: bagirsak-spazmi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağırsak duvarındaki düz kasların çeşitli sebeplerle kasılı kalması durumu

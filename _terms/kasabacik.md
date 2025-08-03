@@ -2,6 +2,7 @@
 layout: term
 title: kasabacık
 slug: kasabacik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Küçük kasaba

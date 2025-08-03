@@ -2,6 +2,7 @@
 layout: term
 title: konuşkan
 slug: konuskan
+letter: K
 lisan: Türkçe
 anlamlar:
 - Konuşmayı, lakırtıyı seven, çok konuşan; lakırtıcı

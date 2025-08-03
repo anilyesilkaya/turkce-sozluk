@@ -2,6 +2,7 @@
 layout: term
 title: pazar yeri
 slug: pazar-yeri
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pazar kurulan yer

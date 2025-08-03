@@ -2,6 +2,7 @@
 layout: term
 title: temeddün
 slug: temeddun
+letter: T
 lisan: Arapça temeddun
 anlamlar:
 - ► uygarlaşma

@@ -2,6 +2,7 @@
 layout: term
 title: breş
 slug: bres
+letter: B
 lisan: Fransızca brèche
 anlamlar:
 - Doğal çimento ile lavlı, kavkılı, kabuklu, kemikli kırıntıların kaynaşmasıyla oluşmuş kütle

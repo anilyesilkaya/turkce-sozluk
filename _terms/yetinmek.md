@@ -2,6 +2,7 @@
 layout: term
 title: yetinmek
 slug: yetinmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Edindiği bir şeyi kendisi için yeter bularak daha çoğuna gerek görmemek, daha çoğunu istememek; kanıklanmak, kanaat etmek, iktifa etmek

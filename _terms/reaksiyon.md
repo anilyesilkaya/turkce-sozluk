@@ -2,6 +2,7 @@
 layout: term
 title: reaksiyon
 slug: reaksiyon
+letter: R
 lisan: Fransızca réaction
 anlamlar:
 - ► tepki

@@ -2,6 +2,7 @@
 layout: term
 title: yağma
 slug: yagma
+letter: Y
 lisan: Farsça yaġmā
 anlamlar:
 - Birçok kişinin zor kullanarak ele geçirdikleri malı alıp kaçması; talan

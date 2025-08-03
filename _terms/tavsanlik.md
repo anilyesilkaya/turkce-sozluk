@@ -2,6 +2,7 @@
 layout: term
 title: tavşanlık
 slug: tavsanlik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tavşan üretmeye elverişli yer

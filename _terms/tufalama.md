@@ -2,6 +2,7 @@
 layout: term
 title: tufalama
 slug: tufalama
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tufalamak işi

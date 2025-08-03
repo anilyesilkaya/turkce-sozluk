@@ -2,6 +2,7 @@
 layout: term
 title: çenesi atmak
 slug: cenesi-atmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - can çekişirken çenesi titremek

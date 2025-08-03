@@ -2,6 +2,7 @@
 layout: term
 title: teklif
 slug: teklif
+letter: T
 lisan: Arapça teklīf
 anlamlar:
 - Yapması için birinden bir iş isteme

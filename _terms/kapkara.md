@@ -2,6 +2,7 @@
 layout: term
 title: kapkara
 slug: kapkara
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çok kara, her yanı kara; simsiyah

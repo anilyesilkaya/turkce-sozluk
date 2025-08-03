@@ -2,6 +2,7 @@
 layout: term
 title: utku
 slug: utku
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► zafer

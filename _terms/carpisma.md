@@ -2,6 +2,7 @@
 layout: term
 title: çarpışma
 slug: carpisma
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çarpışmak işi; müsademe, sadme

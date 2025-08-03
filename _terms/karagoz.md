@@ -2,6 +2,7 @@
 layout: term
 title: karagöz
 slug: karagoz
+letter: K
 lisan: Türkçe
 anlamlar:
 - İzmaritgillerden, 25-30 santimetre uzunluğunda, enli, boz renkli, beyaz etli bir balık (Sargus sargus)

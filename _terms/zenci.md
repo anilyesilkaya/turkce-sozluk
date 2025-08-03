@@ -2,6 +2,7 @@
 layout: term
 title: zenci
 slug: zenci
+letter: Z
 lisan: Arapça zencī
 anlamlar:
 - Siyah ırktan olan kimse; siyahi, siyah adam, Arap

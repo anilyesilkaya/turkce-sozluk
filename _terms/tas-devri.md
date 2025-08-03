@@ -2,6 +2,7 @@
 layout: term
 title: Taş Devri
 slug: tas-devri
+letter: T
 lisan: Türkçe
 anlamlar:
 - İnsanın ortaya çıkışı ve taştan araçlar yapmasından başlayarak kalkolitiğin sonuna kadar geçen tarih öncesi dönem; Taş Çağı

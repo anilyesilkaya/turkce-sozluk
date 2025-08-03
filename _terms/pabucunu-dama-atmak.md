@@ -2,6 +2,7 @@
 layout: term
 title: pabucunu dama atmak
 slug: pabucunu-dama-atmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Ahilikte hileli ayakkabı üretenleri ifşa etmek üzere özürlü malı dama atmak

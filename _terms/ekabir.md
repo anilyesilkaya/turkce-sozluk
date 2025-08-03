@@ -2,6 +2,7 @@
 layout: term
 title: ekâbir
 slug: ekabir
+letter: E
 lisan: Arapça ekābir
 anlamlar:
 - Büyükler, devlet büyükleri, ileri gelenler

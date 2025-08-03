@@ -2,6 +2,7 @@
 layout: term
 title: gelecek
 slug: gelecek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Daha gelmemiş, yaşanacak zaman; istikbal, ati

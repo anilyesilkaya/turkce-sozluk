@@ -2,6 +2,7 @@
 layout: term
 title: kıranta
 slug: kiranta
+letter: K
 lisan: İtalyanca quaranta
 anlamlar:
 - Saçları ağarmaya başlamış (erkek)

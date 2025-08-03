@@ -2,6 +2,7 @@
 layout: term
 title: amfora
 slug: amfora
+letter: A
 lisan: Almanca Amphora
 anlamlar:
 - İki kulplu, dibi sivri, dar boyunlu, karnı geniş testi

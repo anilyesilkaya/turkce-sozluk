@@ -2,6 +2,7 @@
 layout: term
 title: mazotlama
 slug: mazotlama
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mazotlamak işi

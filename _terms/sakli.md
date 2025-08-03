@@ -2,6 +2,7 @@
 layout: term
 title: saklı
 slug: sakli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Saklanmış olan

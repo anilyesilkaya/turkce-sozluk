@@ -2,6 +2,7 @@
 layout: term
 title: münfail
 slug: munfail
+letter: M
 lisan: Arapça munfaʿil
 anlamlar:
 - Gücenmiş, alınmış, kırgın

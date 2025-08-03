@@ -2,6 +2,7 @@
 layout: term
 title: tezlik fiili
 slug: tezlik-fiili
+letter: T
 lisan: Türkçe
 anlamlar:
 - 'Çabukluk, kolaylık vb. kavramları kazandırmak üzere bir fiile -i zarf-fiil eki ve vermek fiili getirilerek oluşturulan tasvir fiili; tezlik eylemi: açıvermek, yapıvermek vb'

@@ -2,6 +2,7 @@
 layout: term
 title: 'kıyıcı '
 slug: kiyici
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► cani

@@ -2,6 +2,7 @@
 layout: term
 title: fetret
 slug: fetret
+letter: F
 lisan: Arapça fetret
 anlamlar:
 - İki peygamber arasında peygambersiz geçen süre

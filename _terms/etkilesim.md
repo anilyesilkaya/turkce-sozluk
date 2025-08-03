@@ -2,6 +2,7 @@
 layout: term
 title: etkileşim
 slug: etkilesim
+letter: E
 lisan: Türkçe
 anlamlar:
 - Birbirini karşılıklı olarak etkileme işi

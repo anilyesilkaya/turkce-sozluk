@@ -2,6 +2,7 @@
 layout: term
 title: profesyonelce
 slug: profesyonelce
+letter: P
 lisan: Türkçe
 anlamlar:
 - Profesyonel bir biçimde

@@ -2,6 +2,7 @@
 layout: term
 title: pişirme kâğıdı
 slug: pisirme-kagidi
+letter: P
 lisan: Türkçe
 anlamlar:
 - Fırında pişirilen yiyeceğin yapışmasını engellemek için kullanılan, ısıya dayanıklı ince kâğıt; yağlı kâğıt

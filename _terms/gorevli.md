@@ -2,6 +2,7 @@
 layout: term
 title: görevli
 slug: gorevli
+letter: G
 lisan: Türkçe
 anlamlar:
 - Görevi olan; vazifeli, işyar

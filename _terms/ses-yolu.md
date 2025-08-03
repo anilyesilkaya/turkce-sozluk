@@ -2,6 +2,7 @@
 layout: term
 title: ses yolu
 slug: ses-yolu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sesin oluşması için akciğerlerden gelen havanın gırtlak, burun veya ağızda izlediği yol

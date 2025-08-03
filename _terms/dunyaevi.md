@@ -2,6 +2,7 @@
 layout: term
 title: dünyaevi
 slug: dunyaevi
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► evlilik

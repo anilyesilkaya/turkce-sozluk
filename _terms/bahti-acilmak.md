@@ -2,6 +2,7 @@
 layout: term
 title: bahtı açılmak
 slug: bahti-acilmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - yazgısı dönüp uygun duruma veya arzulanan sonuca gelmek

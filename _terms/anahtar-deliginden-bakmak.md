@@ -2,6 +2,7 @@
 layout: term
 title: anahtar deliğinden bakmak
 slug: anahtar-deliginden-bakmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - gizlice gözetlemek

@@ -2,6 +2,7 @@
 layout: term
 title: paşa paşa
 slug: pasa-pasa
+letter: P
 lisan: Türkçe
 anlamlar:
 - Uslu uslu, güzel güzel

@@ -2,6 +2,7 @@
 layout: term
 title: günü
 slug: gunu
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► kıskançlık

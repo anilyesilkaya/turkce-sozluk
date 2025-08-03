@@ -2,6 +2,7 @@
 layout: term
 title: observatuvar
 slug: observatuvar
+letter: O
 lisan: Fransızca obsérvatoire
 anlamlar:
 - ► gözlemevi

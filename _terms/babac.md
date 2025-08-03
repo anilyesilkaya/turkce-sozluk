@@ -2,6 +2,7 @@
 layout: term
 title: babaç
 slug: babac
+letter: B
 lisan: Türkçe
 anlamlar:
 - Erkek kümes hayvanlarının en iri ve yaşlı olanı

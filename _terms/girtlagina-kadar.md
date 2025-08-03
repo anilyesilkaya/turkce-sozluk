@@ -2,6 +2,7 @@
 layout: term
 title: gırtlağına kadar
 slug: girtlagina-kadar
+letter: G
 lisan: Türkçe
 anlamlar:
 - çok fazla

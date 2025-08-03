@@ -2,6 +2,7 @@
 layout: term
 title: arama
 slug: arama
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aramak işi; taharri

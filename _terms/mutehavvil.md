@@ -2,6 +2,7 @@
 layout: term
 title: mütehavvil
 slug: mutehavvil
+letter: M
 lisan: Arapça muteḥavvil
 anlamlar:
 - ► değişken

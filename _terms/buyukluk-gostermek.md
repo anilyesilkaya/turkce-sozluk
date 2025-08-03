@@ -2,6 +2,7 @@
 layout: term
 title: büyüklük göstermek
 slug: buyukluk-gostermek
+letter: B
 lisan: Türkçe
 anlamlar:
 - bağışlayıcı ve hoşgörülü davranmak

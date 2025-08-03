@@ -2,6 +2,7 @@
 layout: term
 title: kutup
 slug: kutup
+letter: K
 lisan: Arapça ḳuṭb
 anlamlar:
 - Yer yuvarlağının, Ekvator'dan en uzak olan yer ekseninin geçtiği varsayılan iki noktasından her biri

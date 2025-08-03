@@ -2,6 +2,7 @@
 layout: term
 title: potlanmak
 slug: potlanmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Pot yapmak, potu olmak, kıvrımı olmak

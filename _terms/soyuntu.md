@@ -2,6 +2,7 @@
 layout: term
 title: soyuntu
 slug: soyuntu
+letter: S
 lisan: Türkçe
 anlamlar:
 - Soyulup atılan şey

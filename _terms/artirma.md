@@ -2,6 +2,7 @@
 layout: term
 title: artırma
 slug: artirma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Artırmak işi; tezyit

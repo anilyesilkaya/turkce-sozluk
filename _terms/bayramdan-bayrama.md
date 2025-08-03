@@ -2,6 +2,7 @@
 layout: term
 title: bayramdan bayrama
 slug: bayramdan-bayrama
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► seyrek

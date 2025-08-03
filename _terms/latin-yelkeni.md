@@ -2,6 +2,7 @@
 layout: term
 title: Latin yelkeni
 slug: latin-yelkeni
+letter: L
 lisan: Türkçe
 anlamlar:
 - Bir serene bağlanarak direğe eğik bir durumda kaldırılan üçgen yelken

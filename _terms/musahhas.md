@@ -2,6 +2,7 @@
 layout: term
 title: müşahhas
 slug: musahhas
+letter: M
 lisan: Arapça muşaḫḫaṣ
 anlamlar:
 - ► somut

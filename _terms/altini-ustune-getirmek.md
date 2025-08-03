@@ -2,6 +2,7 @@
 layout: term
 title: altını üstüne getirmek
 slug: altini-ustune-getirmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir şey bulmak için aramadık yer bırakmamak

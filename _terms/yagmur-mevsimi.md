@@ -2,6 +2,7 @@
 layout: term
 title: yağmur mevsimi
 slug: yagmur-mevsimi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yağmurun bol yağdığı mevsim

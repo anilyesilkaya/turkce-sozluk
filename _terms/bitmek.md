@@ -2,6 +2,7 @@
 layout: term
 title: bitmek
 slug: bitmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Tohum filizlenerek topraktan çıkmak

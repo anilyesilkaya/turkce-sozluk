@@ -2,6 +2,7 @@
 layout: term
 title: adını taşımak
 slug: adini-tasimak
+letter: A
 lisan: Türkçe
 anlamlar:
 - birinin adıyla anılmak

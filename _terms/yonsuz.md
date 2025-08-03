@@ -2,6 +2,7 @@
 layout: term
 title: yönsüz
 slug: yonsuz
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yönü olmayan

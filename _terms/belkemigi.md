@@ -2,6 +2,7 @@
 layout: term
 title: belkemiği
 slug: belkemigi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir şeyin varlığı ile ilgili en önemli bölüm; omurga

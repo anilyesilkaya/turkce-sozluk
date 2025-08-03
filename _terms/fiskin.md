@@ -2,6 +2,7 @@
 layout: term
 title: fışkın
 slug: fiskin
+letter: F
 lisan: Türkçe
 anlamlar:
 - Bir ağacın dibinden süren ince dal

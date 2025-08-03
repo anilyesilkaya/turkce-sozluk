@@ -2,6 +2,7 @@
 layout: term
 title: mübahase
 slug: mubahase
+letter: M
 lisan: Arapça mubāḥas̱e
 anlamlar:
 - Bir konu hakkında iki veya daha çok kişinin karşılıklı konuşması

@@ -2,6 +2,7 @@
 layout: term
 title: ömür geçirmek
 slug: omur-gecirmek
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - yaşamak

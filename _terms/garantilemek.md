@@ -2,6 +2,7 @@
 layout: term
 title: garantilemek
 slug: garantilemek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bir işin gerçekleşmesi için gereken önlemleri almak, sağlama bağlamak

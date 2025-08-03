@@ -2,6 +2,7 @@
 layout: term
 title: atama
 slug: atama
+letter: A
 lisan: Türkçe
 anlamlar:
 - Atamak işi; tayin, nasıp, nasbetme

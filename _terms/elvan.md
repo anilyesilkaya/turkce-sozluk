@@ -2,6 +2,7 @@
 layout: term
 title: elvan
 slug: elvan
+letter: E
 lisan: Arapça elvān
 anlamlar:
 - Renkler

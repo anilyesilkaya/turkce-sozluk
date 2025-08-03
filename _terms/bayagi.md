@@ -2,6 +2,7 @@
 layout: term
 title: bayağı
 slug: bayagi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Aşağılık bir durumda olan

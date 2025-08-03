@@ -2,6 +2,7 @@
 layout: term
 title: güne göre kürk giyinmek gerek
 slug: gune-gore-kurk-giyinmek-gerek
+letter: G
 lisan: Türkçe
 anlamlar:
 - '"kılık kıyafetimizi zamanın koşullarına uydurmalıyız" anlamında kullanılan bir söz'

@@ -2,6 +2,7 @@
 layout: term
 title: çakşırlı
 slug: caksirli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çakşır giymiş

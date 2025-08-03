@@ -2,6 +2,7 @@
 layout: term
 title: alimallah
 slug: alimallah
+letter: A
 lisan: Arapça ʿalįma’l-lah
 anlamlar:
 - Söylenen bir sözün doğruluğuna inandırmak için "en iyisini Allah bilir" anlamında kullanılan bir söz

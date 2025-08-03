@@ -2,6 +2,7 @@
 layout: term
 title: üst üste
 slug: ust-uste
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Çok kalabalık, sıkışık

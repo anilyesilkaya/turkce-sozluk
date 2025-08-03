@@ -2,6 +2,7 @@
 layout: term
 title: hatırı kalmak
 slug: hatiri-kalmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - gücenmek, kırılmak

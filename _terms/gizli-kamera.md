@@ -2,6 +2,7 @@
 layout: term
 title: gizli kamera
 slug: gizli-kamera
+letter: G
 lisan: Türkçe
 anlamlar:
 - Değişik eşyalar üzerine yerleştirilebilen, gizli çekim yapmak amacıyla özel olarak üretilmiş, değişik boyutlarda ve biçimlerde kamera; böcek, böcek kamera, casus kamera

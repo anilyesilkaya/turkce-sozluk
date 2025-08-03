@@ -2,6 +2,7 @@
 layout: term
 title: resimlik
 slug: resimlik
+letter: R
 lisan: Türkçe
 anlamlar:
 - Resim takmaya yarayan çerçeve

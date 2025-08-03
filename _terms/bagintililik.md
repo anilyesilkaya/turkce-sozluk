@@ -2,6 +2,7 @@
 layout: term
 title: bağıntılılık
 slug: bagintililik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bağıntılı olma durumu

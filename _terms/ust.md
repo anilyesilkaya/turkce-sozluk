@@ -2,6 +2,7 @@
 layout: term
 title: üst
 slug: ust
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Bir şeyin yukarı, göğe doğru olan yanı; üzeri, fevk, alt karşıtı

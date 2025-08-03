@@ -2,6 +2,7 @@
 layout: term
 title: ad vermek
 slug: ad-vermek
+letter: A
 lisan: Türkçe
 anlamlar:
 - adlandırmak

@@ -2,6 +2,7 @@
 layout: term
 title: sessiz
 slug: sessiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sesi olmayan, ses çıkarmayan

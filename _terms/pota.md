@@ -2,6 +2,7 @@
 layout: term
 title: pota
 slug: pota
+letter: P
 lisan: Fransızca poteau
 anlamlar:
 - Basketbol sahasında sayı elde etmek için topun içine geçirilmesi gereken, düşey bir levhaya monte edilmiş yatay çember ile ağdan meydana gelen düzenek

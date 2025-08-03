@@ -2,6 +2,7 @@
 layout: term
 title: keçi yolu
 slug: keci-yolu
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► patika

@@ -2,6 +2,7 @@
 layout: term
 title: kitabet
 slug: kitabet
+letter: K
 lisan: Arapça kitābet
 anlamlar:
 - ► sekreterlik

@@ -2,6 +2,7 @@
 layout: term
 title: arınmış
 slug: arinmis
+letter: A
 lisan: Türkçe
 anlamlar:
 - Arı (I) duruma gelmiş olan

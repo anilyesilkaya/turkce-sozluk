@@ -2,6 +2,7 @@
 layout: term
 title: dümen kırmak
 slug: dumen-kirmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - yön değiştirmek

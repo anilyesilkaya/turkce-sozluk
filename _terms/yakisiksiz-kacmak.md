@@ -2,6 +2,7 @@
 layout: term
 title: yakışıksız kaçmak
 slug: yakisiksiz-kacmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - uygun düşmemek, çirkin olmak, münasebetsiz görünmek

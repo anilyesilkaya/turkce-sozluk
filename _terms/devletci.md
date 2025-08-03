@@ -2,6 +2,7 @@
 layout: term
 title: devletçi
 slug: devletci
+letter: D
 lisan: Türkçe
 anlamlar:
 - Devletçilik yanlısı

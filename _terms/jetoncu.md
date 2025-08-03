@@ -2,6 +2,7 @@
 layout: term
 title: jetoncu
 slug: jetoncu
+letter: J
 lisan: Türkçe
 anlamlar:
 - Jeton satan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: telgrafçı
 slug: telgrafci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Telgraf gönderen görevli; muhabere memuru

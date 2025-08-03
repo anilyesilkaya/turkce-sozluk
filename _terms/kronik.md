@@ -2,6 +2,7 @@
 layout: term
 title: kronik
 slug: kronik
+letter: K
 lisan: Fransızca chronique
 anlamlar:
 - ► süreğen

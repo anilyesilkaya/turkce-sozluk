@@ -2,6 +2,7 @@
 layout: term
 title: yer sofrası
 slug: yer-sofrasi
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yerde kurulan sofra

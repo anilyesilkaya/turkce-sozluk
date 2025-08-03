@@ -2,6 +2,7 @@
 layout: term
 title: muntazaman
 slug: muntazaman
+letter: M
 lisan: Arapça muntaẓaman
 anlamlar:
 - Düzenli olarak, düzgün biçimde

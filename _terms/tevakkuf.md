@@ -2,6 +2,7 @@
 layout: term
 title: tevakkuf
 slug: tevakkuf
+letter: T
 lisan: Arapça tevaḳḳuf
 anlamlar:
 - ► eğleşme

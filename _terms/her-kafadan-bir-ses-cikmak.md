@@ -2,6 +2,7 @@
 layout: term
 title: her kafadan bir ses çıkmak
 slug: her-kafadan-bir-ses-cikmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - bir konu üzerinde herkes rastgele konuşmak

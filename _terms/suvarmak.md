@@ -2,6 +2,7 @@
 layout: term
 title: suvarmak
 slug: suvarmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Hayvana su vermek, su içirmek

@@ -2,6 +2,7 @@
 layout: term
 title: skolastik
 slug: skolastik
+letter: S
 lisan: Fransızca scolastique
 anlamlar:
 - İnanç ve bilgiyi kiliseyle, özellikle Aristoteles'in bilimsel sistemini uyumlu bir biçimde birleştirmeye çalışan Orta Çağ felsefesi

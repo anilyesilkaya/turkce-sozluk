@@ -2,6 +2,7 @@
 layout: term
 title: inkılapçı
 slug: inkilapci
+letter: I
 lisan: Türkçe
 anlamlar:
 - İnkılap yanlısı kimse; devrimci

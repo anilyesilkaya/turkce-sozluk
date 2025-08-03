@@ -2,6 +2,7 @@
 layout: term
 title: acarlaşmak
 slug: acarlasmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Acar duruma gelmek

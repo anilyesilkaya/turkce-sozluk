@@ -2,6 +2,7 @@
 layout: term
 title: bunalma
 slug: bunalma
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bunalmak işi; darlanma, boğuntu

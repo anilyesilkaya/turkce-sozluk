@@ -2,6 +2,7 @@
 layout: term
 title: gerdanlık
 slug: gerdanlik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Çoğu değerli taş ve madenlerden veya altın paradan yapılmış, boyna takılan takı; kılade

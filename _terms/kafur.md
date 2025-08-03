@@ -2,6 +2,7 @@
 layout: term
 title: kâfur
 slug: kafur
+letter: K
 lisan: Arapça kāfūr
 anlamlar:
 - Kâfur ağacından elde edilen, hekimlikte kullanılan, beyaz ve yarı saydam, kolaylıkla parçalanan, güzel kokulu bir madde; kâfuru

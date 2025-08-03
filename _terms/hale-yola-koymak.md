@@ -2,6 +2,7 @@
 layout: term
 title: hâle yola koymak
 slug: hale-yola-koymak
+letter: H
 lisan: Türkçe
 anlamlar:
 - iyi bir düzen vermek, tertiplemek

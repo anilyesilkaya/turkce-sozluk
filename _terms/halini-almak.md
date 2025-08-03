@@ -2,6 +2,7 @@
 layout: term
 title: hâlini almak
 slug: halini-almak
+letter: H
 lisan: Türkçe
 anlamlar:
 - herhangi bir duruma gelmek

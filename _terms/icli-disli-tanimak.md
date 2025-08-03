@@ -2,6 +2,7 @@
 layout: term
 title: içli dışlı tanımak
 slug: icli-disli-tanimak
+letter: I
 lisan: Türkçe
 anlamlar:
 - yakından, bütün özellikleriyle bilmek

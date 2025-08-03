@@ -2,6 +2,7 @@
 layout: term
 title: kolları sıvamak
 slug: kollari-sivamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir iş yapmaya güçlü bir biçimde, istekle hazırlanmak

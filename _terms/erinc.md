@@ -2,6 +2,7 @@
 layout: term
 title: erinç
 slug: erinc
+letter: E
 lisan: Türkçe
 anlamlar:
 - Hiçbir eksiği, üzüntüsü ve acısı olmama durumu

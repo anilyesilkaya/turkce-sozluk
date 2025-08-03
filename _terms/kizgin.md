@@ -2,6 +2,7 @@
 layout: term
 title: kızgın
 slug: kizgin
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çok ısınmış, ısıtılmış veya kızdırılmış

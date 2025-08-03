@@ -2,6 +2,7 @@
 layout: term
 title: nispeten
 slug: nispeten
+letter: N
 lisan: Arapça nisbeten
 anlamlar:
 - Bir dereceye kadar, oldukça

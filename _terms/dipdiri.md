@@ -2,6 +2,7 @@
 layout: term
 title: dipdiri
 slug: dipdiri
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çok diri, çok canlı

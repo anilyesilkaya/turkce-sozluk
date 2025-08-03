@@ -2,6 +2,7 @@
 layout: term
 title: ihtisas yapmak
 slug: ihtisas-yapmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - belli bir konuda özel eğitim görmek, uzmanlaşmak, ihtisaslaşmak

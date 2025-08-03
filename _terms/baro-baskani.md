@@ -2,6 +2,7 @@
 layout: term
 title: baro başkanı
 slug: baro-baskani
+letter: B
 lisan: Türkçe
 anlamlar:
 - Baro genel kurulu tarafından kıdemli avukatlar arasından seçilen ve baroyu temsil eden baro üyesi

@@ -2,6 +2,7 @@
 layout: term
 title: teknik
 slug: teknik
+letter: T
 lisan: Fransızca technique
 anlamlar:
 - Bir sanat, bir bilim, bir meslek dalında kullanılan yöntemlerin hepsi

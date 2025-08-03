@@ -2,6 +2,7 @@
 layout: term
 title: kulaklı
 slug: kulakli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kulağı herhangi bir biçimde olan

@@ -2,6 +2,7 @@
 layout: term
 title: ezberletmek
 slug: ezberletmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ezberlemesini sağlamak

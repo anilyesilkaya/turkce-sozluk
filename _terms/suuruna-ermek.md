@@ -2,6 +2,7 @@
 layout: term
 title: şuuruna ermek
 slug: suuruna-ermek
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - şuuruna varmak

@@ -2,6 +2,7 @@
 layout: term
 title: berelemek
 slug: berelemek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bereli duruma getirmek

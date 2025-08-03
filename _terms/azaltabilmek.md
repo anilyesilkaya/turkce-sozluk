@@ -2,6 +2,7 @@
 layout: term
 title: azaltabilmek
 slug: azaltabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Azaltma ihtimali veya imkânı bulunmak

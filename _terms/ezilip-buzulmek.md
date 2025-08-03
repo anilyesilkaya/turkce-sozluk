@@ -2,6 +2,7 @@
 layout: term
 title: ezilip büzülmek
 slug: ezilip-buzulmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - güç bir duruma düşüp davranışlarıyla utandığını belli etmek

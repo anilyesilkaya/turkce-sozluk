@@ -2,6 +2,7 @@
 layout: term
 title: gönüldaş
 slug: gonuldas
+letter: G
 lisan: Türkçe
 anlamlar:
 - Duyguları aynı olanlardan her biri, candan dost

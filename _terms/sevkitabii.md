@@ -2,6 +2,7 @@
 layout: term
 title: sevkitabii
 slug: sevkitabii
+letter: S
 lisan: Arapça sevḳ + ṭabīʿī
 anlamlar:
 - ► içgüdü

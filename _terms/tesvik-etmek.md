@@ -2,6 +2,7 @@
 layout: term
 title: teşvik etmek
 slug: tesvik-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - isteklendirmek, özendirmek

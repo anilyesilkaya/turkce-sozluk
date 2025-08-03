@@ -2,6 +2,7 @@
 layout: term
 title: şem
 slug: sem
+letter: Ş
 lisan: Arapça şemʿ
 anlamlar:
 - ► mum

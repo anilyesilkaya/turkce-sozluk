@@ -2,6 +2,7 @@
 layout: term
 title: mağlup olmak
 slug: maglup-olmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - yenilmek (II)

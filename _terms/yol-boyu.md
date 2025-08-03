@@ -2,6 +2,7 @@
 layout: term
 title: yol boyu
 slug: yol-boyu
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Kara yolunda kenar

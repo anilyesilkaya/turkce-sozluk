@@ -2,6 +2,7 @@
 layout: term
 title: bira
 slug: bira
+letter: B
 lisan: İtalyanca birra
 anlamlar:
 - Arpa ile şerbetçi otunun mayalandırılmasıyla yapılan bir içki; arpa suyu

@@ -2,6 +2,7 @@
 layout: term
 title: espri yapmak
 slug: espri-yapmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - nükteli, şakalı söz söylemek

@@ -2,6 +2,7 @@
 layout: term
 title: eğer
 slug: eger
+letter: E
 lisan: Farsça eger
 anlamlar:
 - Şart anlamını güçlendirmek için şartlı cümlelerin başına getirilen bir söz; şayet

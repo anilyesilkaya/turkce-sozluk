@@ -2,6 +2,7 @@
 layout: term
 title: ayağı ile gelmek
 slug: ayagi-ile-gelmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - kendi isteğiyle gelmek

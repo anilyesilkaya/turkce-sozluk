@@ -2,6 +2,7 @@
 layout: term
 title: göçerme
 slug: gocerme
+letter: G
 lisan: Türkçe
 anlamlar:
 - Göçermek işi

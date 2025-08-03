@@ -2,6 +2,7 @@
 layout: term
 title: endemik
 slug: endemik
+letter: E
 lisan: Fransızca endémique
 anlamlar:
 - Sadece bir bölgede yetişen veya yaşayan (bitki, hayvan)

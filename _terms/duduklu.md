@@ -2,6 +2,7 @@
 layout: term
 title: düdüklü
 slug: duduklu
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düdüğü olan

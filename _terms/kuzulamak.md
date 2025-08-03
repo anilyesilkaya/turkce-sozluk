@@ -2,6 +2,7 @@
 layout: term
 title: kuzulamak
 slug: kuzulamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Koyun yavrulamak

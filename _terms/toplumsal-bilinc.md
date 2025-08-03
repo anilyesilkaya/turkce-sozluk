@@ -2,6 +2,7 @@
 layout: term
 title: toplumsal bilinç
 slug: toplumsal-bilinc
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir toplumdaki ruhsal etkinliklerin veya ruhsal durumların bütünü

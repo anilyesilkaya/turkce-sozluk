@@ -2,6 +2,7 @@
 layout: term
 title: bulandırılabilmek
 slug: bulandirilabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bulandırılma ihtimali veya imkânı bulunmak

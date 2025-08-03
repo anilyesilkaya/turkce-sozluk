@@ -2,6 +2,7 @@
 layout: term
 title: işlememezlik
 slug: islememezlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - bk. işlemezlik

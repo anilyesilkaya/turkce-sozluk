@@ -2,6 +2,7 @@
 layout: term
 title: masiko
 slug: masiko
+letter: M
 lisan: Fransızca massicot
 anlamlar:
 - Rengi kırmızı ile sarı arasında değişen, boya olarak kullanılan, doğal kurşun oksit (PbO)

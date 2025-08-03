@@ -2,6 +2,7 @@
 layout: term
 title: kayakçı
 slug: kayakci
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kayak yapan sporcu

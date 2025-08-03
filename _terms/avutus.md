@@ -2,6 +2,7 @@
 layout: term
 title: avutuş
 slug: avutus
+letter: A
 lisan: Türkçe
 anlamlar:
 - Avutmak işi

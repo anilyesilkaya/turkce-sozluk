@@ -2,6 +2,7 @@
 layout: term
 title: kuyruğunu tava sapına çevirmek
 slug: kuyrugunu-tava-sapina-cevirmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - haddini bildirmek, gereken dersi vermek

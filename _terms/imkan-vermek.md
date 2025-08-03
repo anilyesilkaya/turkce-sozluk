@@ -2,6 +2,7 @@
 layout: term
 title: imkân vermek
 slug: imkan-vermek
+letter: I
 lisan: Türkçe
 anlamlar:
 - bir işin olmasına elverişli ortamı hazırlamak

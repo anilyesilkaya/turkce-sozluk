@@ -2,6 +2,7 @@
 layout: term
 title: pisin
 slug: pisin
+letter: P
 lisan: Fransızca piscine
 anlamlar:
 - ► yüzme havuzu

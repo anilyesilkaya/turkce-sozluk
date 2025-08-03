@@ -2,6 +2,7 @@
 layout: term
 title: proton
 slug: proton
+letter: P
 lisan: Fransızca proton
 anlamlar:
 - Atom çekirdeğinde her biri (+1) pozitif elektrik yükü taşıyan tanecik

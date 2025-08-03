@@ -2,6 +2,7 @@
 layout: term
 title: ekmeksiz
 slug: ekmeksiz
+letter: E
 lisan: Türkçe
 anlamlar:
 - Ekmeği olmayan

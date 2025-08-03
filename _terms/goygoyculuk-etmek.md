@@ -2,6 +2,7 @@
 layout: term
 title: goygoyculuk etmek
 slug: goygoyculuk-etmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - bilgisizce ve gereksiz yere konuşmak

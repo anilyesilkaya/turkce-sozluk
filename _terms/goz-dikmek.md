@@ -2,6 +2,7 @@
 layout: term
 title: göz dikmek
 slug: goz-dikmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - bir şeyi ele geçirmek isteğine kapılmak

@@ -2,6 +2,7 @@
 layout: term
 title: içini yakmak
 slug: icini-yakmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - çok üzülmek

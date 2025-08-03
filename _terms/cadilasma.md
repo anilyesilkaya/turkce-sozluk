@@ -2,6 +2,7 @@
 layout: term
 title: cadılaşma
 slug: cadilasma
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cadılaşmak işi

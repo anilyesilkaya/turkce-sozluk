@@ -2,6 +2,7 @@
 layout: term
 title: bindirme
 slug: bindirme
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bindirmek işi

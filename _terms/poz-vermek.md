@@ -2,6 +2,7 @@
 layout: term
 title: poz vermek
 slug: poz-vermek
+letter: P
 lisan: Türkçe
 anlamlar:
 - resim yaptırmak veya fotoğraf çektirmek için durum almak

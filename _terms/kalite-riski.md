@@ -2,6 +2,7 @@
 layout: term
 title: kalite riski
 slug: kalite-riski
+letter: K
 lisan: Türkçe
 anlamlar:
 - Alıcının, varış yerine gelen malının kalitesi için yüklendiği riziko

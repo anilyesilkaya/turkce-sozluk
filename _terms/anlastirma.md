@@ -2,6 +2,7 @@
 layout: term
 title: anlaştırma
 slug: anlastirma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anlaştırmak işi

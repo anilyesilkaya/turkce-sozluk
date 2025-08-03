@@ -2,6 +2,7 @@
 layout: term
 title: buhar makinesi
 slug: buhar-makinesi
+letter: B
 lisan: Türkçe
 anlamlar:
 - Buhar basıncıyla işleyen makine

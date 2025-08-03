@@ -2,6 +2,7 @@
 layout: term
 title: motorlu
 slug: motorlu
+letter: M
 lisan: Türkçe
 anlamlar:
 - Motorla çalışan

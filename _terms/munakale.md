@@ -2,6 +2,7 @@
 layout: term
 title: münakale
 slug: munakale
+letter: M
 lisan: Arapça munāḳale
 anlamlar:
 - ► ulaşım

@@ -2,6 +2,7 @@
 layout: term
 title: hatırlatıverme
 slug: hatirlativerme
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► anımsatıverme

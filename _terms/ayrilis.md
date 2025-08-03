@@ -2,6 +2,7 @@
 layout: term
 title: ayrılış
 slug: ayrilis
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayrılmak işi

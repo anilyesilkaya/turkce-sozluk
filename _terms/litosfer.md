@@ -2,6 +2,7 @@
 layout: term
 title: litosfer
 slug: litosfer
+letter: L
 lisan: Fransızca lithosphère
 anlamlar:
 - ► taş yuvarı

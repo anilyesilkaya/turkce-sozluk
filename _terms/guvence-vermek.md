@@ -2,6 +2,7 @@
 layout: term
 title: güvence vermek
 slug: guvence-vermek
+letter: G
 lisan: Türkçe
 anlamlar:
 - bir anlaşmada taraflardan biriyle ilgili olarak sorumluluğu yüklenmek, inanca vermek, teminat vermek, garanti vermek

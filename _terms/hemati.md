@@ -2,6 +2,7 @@
 layout: term
 title: hemati
 slug: hemati
+letter: H
 lisan: Fransızca hématie
 anlamlar:
 - Kanın hemoglobin ile renklenmiş alyuvarı

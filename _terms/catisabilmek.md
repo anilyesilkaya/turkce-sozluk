@@ -2,6 +2,7 @@
 layout: term
 title: çatışabilmek
 slug: catisabilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çatışma ihtimali veya imkânı bulunmak

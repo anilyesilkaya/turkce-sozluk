@@ -2,6 +2,7 @@
 layout: term
 title: abacı
 slug: abaci
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aba yapan veya satan kimse

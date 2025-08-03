@@ -2,6 +2,7 @@
 layout: term
 title: 'ocak erkânı '
 slug: ocak-erkani
+letter: O
 lisan: Türkçe
 anlamlar:
 - Yeniçeri ağası başkanlığında toplanan divana katılanlara verilen ad

@@ -2,6 +2,7 @@
 layout: term
 title: niyet
 slug: niyet
+letter: N
 lisan: Arapça niyyet
 anlamlar:
 - Bir şeyi yapmaya önceden karar verme; düşünce, endişe

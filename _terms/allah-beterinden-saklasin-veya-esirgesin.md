@@ -2,6 +2,7 @@
 layout: term
 title: Allah beterinden saklasın (veya esirgesin)
 slug: allah-beterinden-saklasin-veya-esirgesin
+letter: A
 lisan: Türkçe
 anlamlar:
 - '"Tanrı daha kötü duruma düşürmesin" anlamında kullanılan bir söz'

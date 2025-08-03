@@ -2,6 +2,7 @@
 layout: term
 title: yarışmak
 slug: yarismak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Üstünlük kazanmak amacıyla bir yarışmaya katılmak

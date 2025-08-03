@@ -2,6 +2,7 @@
 layout: term
 title: inorganik
 slug: inorganik
+letter: I
 lisan: Fransızca inorganique
 anlamlar:
 - Cansız olan

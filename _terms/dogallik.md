@@ -2,6 +2,7 @@
 layout: term
 title: doğallık
 slug: dogallik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Doğal olma durumu; tabiilik, tabiiyet (I), natürellik

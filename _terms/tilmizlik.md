@@ -2,6 +2,7 @@
 layout: term
 title: tilmizlik
 slug: tilmizlik
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► öğrencilik

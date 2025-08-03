@@ -2,6 +2,7 @@
 layout: term
 title: inanırlık
 slug: inanirlik
+letter: I
 lisan: Türkçe
 anlamlar:
 - İnanılabilir bir şeyin niteliği

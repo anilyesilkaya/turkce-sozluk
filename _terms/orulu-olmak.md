@@ -2,6 +2,7 @@
 layout: term
 title: örülü olmak
 slug: orulu-olmak
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - her şeyiyle mükemmel, eksiksiz ve estetik bütünlüğe sahip bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: ses soluk
 slug: ses-soluk
+letter: S
 lisan: Türkçe
 anlamlar:
 - Patırtı, gürültü

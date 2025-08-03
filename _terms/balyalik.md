@@ -2,6 +2,7 @@
 layout: term
 title: balyalık
 slug: balyalik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Herhangi bir balya miktarında olan

@@ -2,6 +2,7 @@
 layout: term
 title: baş sallamak
 slug: bas-sallamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - karşısındakinin her sözünü uygun bulur görünmek

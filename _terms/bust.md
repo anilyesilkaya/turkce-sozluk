@@ -2,6 +2,7 @@
 layout: term
 title: büst
 slug: bust
+letter: B
 lisan: Fransızca buste
 anlamlar:
 - Vücudun, omuzlarla birlikte göğüsten yukarı bölümü

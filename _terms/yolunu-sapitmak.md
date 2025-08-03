@@ -2,6 +2,7 @@
 layout: term
 title: yolunu sapıtmak
 slug: yolunu-sapitmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - doğru yoldan ayrılmak, kötü yola sapmak

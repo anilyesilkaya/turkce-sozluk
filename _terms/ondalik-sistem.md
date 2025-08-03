@@ -2,6 +2,7 @@
 layout: term
 title: ondalık sistem
 slug: ondalik-sistem
+letter: O
 lisan: Türkçe
 anlamlar:
 - Temel birimlerin katları ve askatları, bu birimlerin ondalık kuvvetleri olan uzunluk ve ağırlık ölçümlerinde kullanılan sistem; desimal

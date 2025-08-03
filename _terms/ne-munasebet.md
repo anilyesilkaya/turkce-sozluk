@@ -2,6 +2,7 @@
 layout: term
 title: ne münasebet!
 slug: ne-munasebet
+letter: N
 lisan: Türkçe
 anlamlar:
 - öyle şey mi olur, ilgisi yok

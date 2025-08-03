@@ -2,6 +2,7 @@
 layout: term
 title: bireycilik
 slug: bireycilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bireylerin yararlarını toplumsal yararlardan daha üstün veya daha önemli sayan öğreti, tutum veya politikaların genel adı; ferdiyetçilik, individüalizm

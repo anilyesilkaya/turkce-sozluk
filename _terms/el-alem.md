@@ -2,6 +2,7 @@
 layout: term
 title: el âlem
 slug: el-alem
+letter: E
 lisan: Türkçe
 anlamlar:
 - Yabancılar

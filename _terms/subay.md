@@ -2,6 +2,7 @@
 layout: term
 title: subay
 slug: subay
+letter: S
 lisan: Türkçe
 anlamlar:
 - Silahlı kuvvetlerde asteğmenden orgeneral veya oramirale kadar rütbedeki asker

@@ -2,6 +2,7 @@
 layout: term
 title: kararlaştırılma
 slug: kararlastirilma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kararlaştırılmak işi

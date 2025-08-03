@@ -2,6 +2,7 @@
 layout: term
 title: yaşlıca başlıca
 slug: yaslica-baslica
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yaşı biraz geçkin durumda olan, deneyimli (kimse)

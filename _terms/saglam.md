@@ -2,6 +2,7 @@
 layout: term
 title: sağlam
 slug: saglam
+letter: S
 lisan: Türkçe
 anlamlar:
 - Bozulmadan, değişmeden uzun süre varlığını koruyabilen, dayanıklı olan; bek (I), berk, muhkem

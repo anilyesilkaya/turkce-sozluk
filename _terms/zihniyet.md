@@ -2,6 +2,7 @@
 layout: term
 title: zihniyet
 slug: zihniyet
+letter: Z
 lisan: Arapça ẕihniyyet
 anlamlar:
 - ► anlayış

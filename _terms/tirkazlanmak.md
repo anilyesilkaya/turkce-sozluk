@@ -2,6 +2,7 @@
 layout: term
 title: tırkazlanmak
 slug: tirkazlanmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tırkazlama işi yapılmak

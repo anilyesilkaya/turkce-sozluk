@@ -2,6 +2,7 @@
 layout: term
 title: yer vermek
 slug: yer-vermek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - önemli saymak, saygı göstermek

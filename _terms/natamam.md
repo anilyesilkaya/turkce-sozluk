@@ -2,6 +2,7 @@
 layout: term
 title: natamam
 slug: natamam
+letter: N
 lisan: Farsça nā + Arapça tamām
 anlamlar:
 - ► eksik

@@ -2,6 +2,7 @@
 layout: term
 title: taya
 slug: taya
+letter: T
 lisan: Farsça dāye
 anlamlar:
 - ► dadı

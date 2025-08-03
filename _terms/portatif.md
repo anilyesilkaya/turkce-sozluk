@@ -2,6 +2,7 @@
 layout: term
 title: portatif
 slug: portatif
+letter: P
 lisan: Fransızca portatif
 anlamlar:
 - Kolay taşınabilen, katlanarak taşınabilir duruma getirilebilen; seyyar

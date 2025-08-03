@@ -2,6 +2,7 @@
 layout: term
 title: vatan borcu
 slug: vatan-borcu
+letter: V
 lisan: Türkçe
 anlamlar:
 - ► askerlik

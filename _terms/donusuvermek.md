@@ -2,6 +2,7 @@
 layout: term
 title: dönüşüvermek
 slug: donusuvermek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Aniden dönüşmek

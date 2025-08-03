@@ -2,6 +2,7 @@
 layout: term
 title: ilaç için yok
 slug: ilac-icin-yok
+letter: I
 lisan: Türkçe
 anlamlar:
 - hiç yok

@@ -2,6 +2,7 @@
 layout: term
 title: tüylü
 slug: tuylu
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tüyü olan

@@ -2,6 +2,7 @@
 layout: term
 title: sağlıklı
 slug: saglikli
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sağlık durumu iyi olan; sıhhatli

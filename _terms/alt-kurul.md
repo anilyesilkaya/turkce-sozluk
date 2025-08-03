@@ -2,6 +2,7 @@
 layout: term
 title: alt kurul
 slug: alt-kurul
+letter: A
 lisan: Türkçe
 anlamlar:
 - Belli bir konuyu ele almak amacıyla bir kurul içinden birkaç kişi seçilerek oluşturulan kurul; encümen, komisyon, komite

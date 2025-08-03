@@ -2,6 +2,7 @@
 layout: term
 title: karşı oy
 slug: karsi-oy
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kırmızı oy

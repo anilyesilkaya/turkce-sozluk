@@ -2,6 +2,7 @@
 layout: term
 title: viskonsül
 slug: viskonsul
+letter: V
 lisan: Fransızca vice-consul
 anlamlar:
 - Yardımcı konsolos

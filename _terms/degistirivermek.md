@@ -2,6 +2,7 @@
 layout: term
 title: değiştirivermek
 slug: degistirivermek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çabucak veya ansızın değiştirmek

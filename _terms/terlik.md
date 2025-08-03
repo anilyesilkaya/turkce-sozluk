@@ -2,6 +2,7 @@
 layout: term
 title: terlik
 slug: terlik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Genellikle ev içinde giyilen, deri, naylon vb. şeylerden yapılan, arkası açık, hafif ve türlü biçimlerde ayak giysisi; çedik

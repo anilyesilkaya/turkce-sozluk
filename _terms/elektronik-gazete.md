@@ -2,6 +2,7 @@
 layout: term
 title: elektronik gazete
 slug: elektronik-gazete
+letter: E
 lisan: Türkçe
 anlamlar:
 - Genel ağda çevrim içi yayımlanan gazete; e-gazete

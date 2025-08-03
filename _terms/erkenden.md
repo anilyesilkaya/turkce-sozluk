@@ -2,6 +2,7 @@
 layout: term
 title: erkenden
 slug: erkenden
+letter: E
 lisan: Türkçe
 anlamlar:
 - Erken olarak, çok erken; ercecik

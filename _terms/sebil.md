@@ -2,6 +2,7 @@
 layout: term
 title: sebil
 slug: sebil
+letter: S
 lisan: Arapça sebīl
 anlamlar:
 - Kutsal günlerde karşılık beklemeden hayır için dağıtılan içme suyu

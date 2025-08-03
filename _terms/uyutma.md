@@ -2,6 +2,7 @@
 layout: term
 title: uyutma
 slug: uyutma
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyutmak işi

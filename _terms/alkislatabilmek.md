@@ -2,6 +2,7 @@
 layout: term
 title: alkışlatabilmek
 slug: alkislatabilmek
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alkışlatma ihtimali veya imkânı bulunmak

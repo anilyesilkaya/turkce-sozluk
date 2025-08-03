@@ -2,6 +2,7 @@
 layout: term
 title: vedia
 slug: vedia
+letter: V
 lisan: Arapça vedīʿa
 anlamlar:
 - ► emanet

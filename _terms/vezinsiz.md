@@ -2,6 +2,7 @@
 layout: term
 title: vezinsiz
 slug: vezinsiz
+letter: V
 lisan: Türkçe
 anlamlar:
 - ► ölçüsüz

@@ -2,6 +2,7 @@
 layout: term
 title: zonklatmak
 slug: zonklatmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - Zonklamasına yol açmak, zonklamasına sebep olmak

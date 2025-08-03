@@ -2,6 +2,7 @@
 layout: term
 title: yaylı
 slug: yayli
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yayı olan

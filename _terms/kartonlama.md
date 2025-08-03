@@ -2,6 +2,7 @@
 layout: term
 title: kartonlama
 slug: kartonlama
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kartonlamak işi

@@ -2,6 +2,7 @@
 layout: term
 title: cevaz
 slug: cevaz
+letter: C
 lisan: Arapça cevāz
 anlamlar:
 - ► izin

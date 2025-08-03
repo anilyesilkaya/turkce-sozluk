@@ -2,6 +2,7 @@
 layout: term
 title: hiddetten kudurmak
 slug: hiddetten-kudurmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - çok öfkelenmek, aşırı derecede kızmak

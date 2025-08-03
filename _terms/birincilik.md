@@ -2,6 +2,7 @@
 layout: term
 title: birincilik
 slug: birincilik
+letter: B
 lisan: Türkçe
 anlamlar:
 - Birinci olma durumu

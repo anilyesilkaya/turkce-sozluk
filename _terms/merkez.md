@@ -2,6 +2,7 @@
 layout: term
 title: merkez
 slug: merkez
+letter: M
 lisan: Arapça merkez
 anlamlar:
 - Bir bölgenin veya kuruluşun yönetim yeri

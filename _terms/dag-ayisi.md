@@ -2,6 +2,7 @@
 layout: term
 title: dağ ayısı
 slug: dag-ayisi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dağlarda yaşayan yabani ve tehlikeli ayı cinsi

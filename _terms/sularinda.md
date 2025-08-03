@@ -2,6 +2,7 @@
 layout: term
 title: sularında
 slug: sularinda
+letter: S
 lisan: Türkçe
 anlamlar:
 - Saat gibi kelimelerle birlikte yaklaşık zaman bildiren bir söz; raddelerinde

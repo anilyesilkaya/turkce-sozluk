@@ -2,6 +2,7 @@
 layout: term
 title: aşağılanma
 slug: asagilanma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aşağılanmak durumu; tezellül

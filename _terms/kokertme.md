@@ -2,6 +2,7 @@
 layout: term
 title: kökertme
 slug: kokertme
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kökertmek işi

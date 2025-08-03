@@ -2,6 +2,7 @@
 layout: term
 title: daha daha
 slug: daha-daha
+letter: D
 lisan: Türkçe
 anlamlar:
 - Başka başka olarak

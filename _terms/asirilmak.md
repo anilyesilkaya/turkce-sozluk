@@ -2,6 +2,7 @@
 layout: term
 title: aşırılmak
 slug: asirilmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Aşırma işine konu olmak

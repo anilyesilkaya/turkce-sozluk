@@ -2,6 +2,7 @@
 layout: term
 title: amirallik
 slug: amirallik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Amiral olma durumu

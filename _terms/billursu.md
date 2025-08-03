@@ -2,6 +2,7 @@
 layout: term
 title: billursu
 slug: billursu
+letter: B
 lisan: Türkçe
 anlamlar:
 - Billuru andıran, billura benzeyen, billur gibi; billurumsu, kristaloit

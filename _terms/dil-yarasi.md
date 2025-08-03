@@ -2,6 +2,7 @@
 layout: term
 title: dil yarası
 slug: dil-yarasi
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► gönül yarası

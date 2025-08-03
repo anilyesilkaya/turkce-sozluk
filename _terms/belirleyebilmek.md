@@ -2,6 +2,7 @@
 layout: term
 title: belirleyebilmek
 slug: belirleyebilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Belirleme ihtimali veya imkânı bulunmak

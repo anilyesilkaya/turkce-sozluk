@@ -2,6 +2,7 @@
 layout: term
 title: haramzade
 slug: haramzade
+letter: H
 lisan: Arapça ḥarām + Farsça zāde
 anlamlar:
 - ► piç

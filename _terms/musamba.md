@@ -2,6 +2,7 @@
 layout: term
 title: muşamba
 slug: musamba
+letter: M
 lisan: Arapça muşammaʿ
 anlamlar:
 - Bir tarafına kauçuk veya yağlı boya sürülerek su geçirmeyecek duruma getirilen kalın bez

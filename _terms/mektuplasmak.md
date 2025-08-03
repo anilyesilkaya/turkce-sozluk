@@ -2,6 +2,7 @@
 layout: term
 title: mektuplaşmak
 slug: mektuplasmak
+letter: M
 lisan: Türkçe
 anlamlar:
 - Karşılıklı mektup yazmak ve göndermek

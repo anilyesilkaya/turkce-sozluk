@@ -2,6 +2,7 @@
 layout: term
 title: dem
 slug: dem
+letter: D
 lisan: Arapça dem
 anlamlar:
 - ► kan

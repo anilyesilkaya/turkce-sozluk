@@ -2,6 +2,7 @@
 layout: term
 title: keyfini çıkarmak
 slug: keyfini-cikarmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir şeyden iyice tat almak

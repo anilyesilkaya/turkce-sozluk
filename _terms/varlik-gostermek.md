@@ -2,6 +2,7 @@
 layout: term
 title: varlık göstermek
 slug: varlik-gostermek
+letter: V
 lisan: Türkçe
 anlamlar:
 - kendinden beklenilen görevi yerine getirmek, beğenilir bir iş yapmak

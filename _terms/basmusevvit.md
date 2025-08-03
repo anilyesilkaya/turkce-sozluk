@@ -2,6 +2,7 @@
 layout: term
 title: başmüsevvit
 slug: basmusevvit
+letter: B
 lisan: Türkçe baş + Arapça musevvid
 anlamlar:
 - Yazı müsveddeleri hazırlayan ve adına müsevvit denen memurların başkanı

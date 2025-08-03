@@ -2,6 +2,7 @@
 layout: term
 title: laf salatası
 slug: laf-salatasi
+letter: L
 lisan: Türkçe
 anlamlar:
 - Çeşitli konularla ilgili anlamsız, boş sözler

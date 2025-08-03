@@ -2,6 +2,7 @@
 layout: term
 title: ayazlanmak
 slug: ayazlanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayazda bırakılıp soğumak

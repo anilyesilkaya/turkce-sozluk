@@ -2,6 +2,7 @@
 layout: term
 title: tuğlacı
 slug: tuglaci
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tuğla yapan veya satan kimse

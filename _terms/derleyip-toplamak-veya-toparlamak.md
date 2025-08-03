@@ -2,6 +2,7 @@
 layout: term
 title: derleyip toplamak (veya toparlamak)
 slug: derleyip-toplamak-veya-toparlamak
+letter: D
 lisan: Türkçe
 anlamlar:
 - dağınık olan şeyleri bir araya getirip düzenlemek, düzene sokmak

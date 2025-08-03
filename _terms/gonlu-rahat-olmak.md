@@ -2,6 +2,7 @@
 layout: term
 title: gönlü rahat olmak
 slug: gonlu-rahat-olmak
+letter: G
 lisan: Türkçe
 anlamlar:
 - sıkıntısı, tasası olmamak

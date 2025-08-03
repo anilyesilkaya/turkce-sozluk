@@ -2,6 +2,7 @@
 layout: term
 title: patlamak
 slug: patlamak
+letter: P
 lisan: Türkçe
 anlamlar:
 - Nesneler, iç basıncın etkisiyle ve çoğunlukla büyük ses çıkararak dağılmak, infilak etmek

@@ -2,6 +2,7 @@
 layout: term
 title: gıy gıy
 slug: giy-giy
+letter: G
 lisan: Türkçe
 anlamlar:
 - Keman vb. çalgıların çıkardığı ses

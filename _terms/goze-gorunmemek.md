@@ -2,6 +2,7 @@
 layout: term
 title: göze görünmemek
 slug: goze-gorunmemek
+letter: G
 lisan: Türkçe
 anlamlar:
 - ortaya çıkmamak, ortalıkta dolaşmamak, saklanmak

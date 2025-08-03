@@ -2,6 +2,7 @@
 layout: term
 title: mesen
 slug: mesen
+letter: M
 lisan: Fransızca mécène
 anlamlar:
 - Sanat ve bilim adamlarını koruyan kimse

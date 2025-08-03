@@ -2,6 +2,7 @@
 layout: term
 title: ajitasyon
 slug: ajitasyon
+letter: A
 lisan: Fransızca agitation
 anlamlar:
 - ► körükleme

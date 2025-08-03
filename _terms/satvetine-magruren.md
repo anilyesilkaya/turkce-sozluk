@@ -2,6 +2,7 @@
 layout: term
 title: satvetine mağruren
 slug: satvetine-magruren
+letter: S
 lisan: Türkçe
 anlamlar:
 - gücüne güvenerek

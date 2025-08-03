@@ -2,6 +2,7 @@
 layout: term
 title: uyuzluk
 slug: uyuzluk
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uyuz olma durumu

@@ -2,6 +2,7 @@
 layout: term
 title: önceci
 slug: onceci
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Bir şeyi ilk olarak ve başkalarından önce yapma veya ortaya atma; inisiyatif

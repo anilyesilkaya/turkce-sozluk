@@ -2,6 +2,7 @@
 layout: term
 title: melez
 slug: melez
+letter: M
 lisan: Arapça meles
 anlamlar:
 - Değişik türden hayvan veya bitkiden üremiş (hayvan veya bitki); kırık (I), kırma, azma, hibrit, metis

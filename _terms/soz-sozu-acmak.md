@@ -2,6 +2,7 @@
 layout: term
 title: söz sözü açmak
 slug: soz-sozu-acmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - bir konudan konuşurken hemen arkasından türlü konulara geçmek

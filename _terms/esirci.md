@@ -2,6 +2,7 @@
 layout: term
 title: esirci
 slug: esirci
+letter: E
 lisan: Türkçe
 anlamlar:
 - Köle ve cariye alan ve satan kimse

@@ -2,6 +2,7 @@
 layout: term
 title: vandöz
 slug: vandoz
+letter: V
 lisan: Fransızca vendeuse
 anlamlar:
 - ► satıcı

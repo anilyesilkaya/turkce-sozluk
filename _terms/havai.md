@@ -2,6 +2,7 @@
 layout: term
 title: havai
 slug: havai
+letter: H
 lisan: Arapça hevāʾī
 anlamlar:
 - Hava ile ilgili, havada bulunan

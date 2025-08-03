@@ -2,6 +2,7 @@
 layout: term
 title: tenezzül
 slug: tenezzul
+letter: T
 lisan: Arapça tenezzul
 anlamlar:
 - Kendi durumundan daha aşağıdaki bir işi, bir durumu kabul etme

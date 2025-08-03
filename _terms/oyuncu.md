@@ -2,6 +2,7 @@
 layout: term
 title: oyuncu
 slug: oyuncu
+letter: O
 lisan: Türkçe
 anlamlar:
 - Herhangi bir takımda oynayan sporcu

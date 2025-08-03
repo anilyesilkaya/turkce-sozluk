@@ -2,6 +2,7 @@
 layout: term
 title: ayrancılık
 slug: ayrancilik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ayrancının yaptığı iş

@@ -2,6 +2,7 @@
 layout: term
 title: uydumcu
 slug: uydumcu
+letter: U
 lisan: Türkçe
 anlamlar:
 - Kolayca uyum sağlayan, buyruğa kolayca uyan

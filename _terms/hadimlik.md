@@ -2,6 +2,7 @@
 layout: term
 title: hadımlık
 slug: hadimlik
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hadım olma durumu

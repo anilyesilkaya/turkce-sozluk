@@ -2,6 +2,7 @@
 layout: term
 title: bu denli
 slug: bu-denli
+letter: B
 lisan: Türkçe
 anlamlar:
 - bu kadar

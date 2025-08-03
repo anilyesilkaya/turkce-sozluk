@@ -2,6 +2,7 @@
 layout: term
 title: heveslenme
 slug: heveslenme
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► isteklenme

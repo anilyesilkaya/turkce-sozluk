@@ -2,6 +2,7 @@
 layout: term
 title: çaresizleşmek
 slug: caresizlesmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çaresiz duruma gelmek; umarsızlaşmak

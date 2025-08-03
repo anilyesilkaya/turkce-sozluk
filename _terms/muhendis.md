@@ -2,6 +2,7 @@
 layout: term
 title: mühendis
 slug: muhendis
+letter: M
 lisan: Arapça muhendis
 anlamlar:
 - İnsanlığın ihtiyaçlarını karşılamak için iyi bir estetik tasarım ile temel bilimler çerçevesinde en az maliyette en yüksek verimlilik ve güvenlikte teknoloji veya sistem geliştiren kimse

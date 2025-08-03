@@ -2,6 +2,7 @@
 layout: term
 title: minnet duymak
 slug: minnet-duymak
+letter: M
 lisan: Türkçe
 anlamlar:
 - birinin iyiliğine karşı kendini ona borçlu saymak

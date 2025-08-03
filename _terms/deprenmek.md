@@ -2,6 +2,7 @@
 layout: term
 title: deprenmek
 slug: deprenmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Kımıldamak, hareket etmek, sarsılmak

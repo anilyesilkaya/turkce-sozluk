@@ -2,6 +2,7 @@
 layout: term
 title: kayarto
 slug: kayarto
+letter: K
 lisan: Türkçe
 anlamlar:
 - Ahlaksız kimse

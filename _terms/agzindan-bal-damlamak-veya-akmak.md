@@ -2,6 +2,7 @@
 layout: term
 title: ağzından bal damlamak (veya akmak)
 slug: agzindan-bal-damlamak-veya-akmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - çok tatlı konuşmak

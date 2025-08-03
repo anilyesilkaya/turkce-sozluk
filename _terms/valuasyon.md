@@ -2,6 +2,7 @@
 layout: term
 title: valüasyon
 slug: valuasyon
+letter: V
 lisan: Fransızca valuation
 anlamlar:
 - ► değerleme

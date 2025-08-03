@@ -2,6 +2,7 @@
 layout: term
 title: mantıki
 slug: mantiki
+letter: M
 lisan: Arapça manṭiḳī
 anlamlar:
 - ► mantıklı

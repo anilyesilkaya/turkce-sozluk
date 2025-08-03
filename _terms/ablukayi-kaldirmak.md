@@ -2,6 +2,7 @@
 layout: term
 title: ablukayı kaldırmak
 slug: ablukayi-kaldirmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - kuşatma uygulamasından vazgeçmek

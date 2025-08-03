@@ -2,6 +2,7 @@
 layout: term
 title: liste başı
 slug: liste-basi
+letter: L
 lisan: Türkçe
 anlamlar:
 - Herhangi bir seçimde, listenin ilk sırasında olan ad

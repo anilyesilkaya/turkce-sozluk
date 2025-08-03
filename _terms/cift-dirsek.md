@@ -2,6 +2,7 @@
 layout: term
 title: çift dirsek
 slug: cift-dirsek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Boruya 180 derecelik dönüş veren dirsek

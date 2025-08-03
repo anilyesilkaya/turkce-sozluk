@@ -2,6 +2,7 @@
 layout: term
 title: avukatlık
 slug: avukatlik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Avukatın yaptığı iş

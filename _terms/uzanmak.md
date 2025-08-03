@@ -2,6 +2,7 @@
 layout: term
 title: uzanmak
 slug: uzanmak
+letter: U
 lisan: Türkçe
 anlamlar:
 - Boylu boyunca yatmak

@@ -2,6 +2,7 @@
 layout: term
 title: boa
 slug: boa
+letter: B
 lisan: Fransızca boa
 anlamlar:
 - ► boa yılanı

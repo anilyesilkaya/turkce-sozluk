@@ -2,6 +2,7 @@
 layout: term
 title: gevezelenmek
 slug: gevezelenmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gevezelik etmek; zevzeklenmek

@@ -2,6 +2,7 @@
 layout: term
 title: eti ne budu ne?
 slug: eti-ne-budu-ne
+letter: E
 lisan: Türkçe
 anlamlar:
 - '`yaşı küçük` anlamında kullanılan bir söz'

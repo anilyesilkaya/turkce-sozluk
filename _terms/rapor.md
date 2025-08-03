@@ -2,6 +2,7 @@
 layout: term
 title: rapor
 slug: rapor
+letter: R
 lisan: Fransızca rapport
 anlamlar:
 - Herhangi bir işte, bir konuda yapılan inceleme, araştırma sonucunu, düşünceleri veya tespit edilenleri bildiren yazı; yazanak

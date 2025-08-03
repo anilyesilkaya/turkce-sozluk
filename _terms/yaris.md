@@ -2,6 +2,7 @@
 layout: term
 title: yarış
 slug: yaris
+letter: Y
 lisan: Türkçe
 anlamlar:
 - ► yarışma

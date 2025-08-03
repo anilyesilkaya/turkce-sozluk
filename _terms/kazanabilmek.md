@@ -2,6 +2,7 @@
 layout: term
 title: kazanabilmek
 slug: kazanabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kazanma ihtimali veya imkânı bulunmak

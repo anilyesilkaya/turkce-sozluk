@@ -2,6 +2,7 @@
 layout: term
 title: sucul
 slug: sucul
+letter: S
 lisan: Türkçe
 anlamlar:
 - Suyu seven, suya düşkün

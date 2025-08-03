@@ -2,6 +2,7 @@
 layout: term
 title: sıpsıcak
 slug: sipsicak
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► sımsıcak

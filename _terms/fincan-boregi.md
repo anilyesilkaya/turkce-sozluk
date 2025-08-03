@@ -2,6 +2,7 @@
 layout: term
 title: fincan böreği
 slug: fincan-boregi
+letter: F
 lisan: Türkçe
 anlamlar:
 - Tepsiye serilen yufkayı fincan ağzı biçiminde yuvarlak parçalara ayırıp içine kıyma, peynir, patates, ıspanak vb. konularak yapılan bir börek türü

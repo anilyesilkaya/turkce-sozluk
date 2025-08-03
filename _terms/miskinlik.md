@@ -2,6 +2,7 @@
 layout: term
 title: miskinlik
 slug: miskinlik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Miskin olma durumu; meskenet

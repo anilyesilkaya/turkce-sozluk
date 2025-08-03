@@ -2,6 +2,7 @@
 layout: term
 title: yayılı
 slug: yayili
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yayılmış, serilmiş

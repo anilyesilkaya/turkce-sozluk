@@ -2,6 +2,7 @@
 layout: term
 title: özleştirmecilik
 slug: ozlestirmecilik
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Dili yabancı ögelerden arındırarak kendi imkânlarıyla geliştirmeyi amaçlayan anlayış; tasfiyecilik

@@ -2,6 +2,7 @@
 layout: term
 title: ırgalamak
 slug: irgalamak
+letter: I
 lisan: Türkçe
 anlamlar:
 - Yerinden oynatıp sallamak

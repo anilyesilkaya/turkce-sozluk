@@ -2,6 +2,7 @@
 layout: term
 title: tahtalıköy
 slug: tahtalikoy
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► mezarlık

@@ -2,6 +2,7 @@
 layout: term
 title: intikal
 slug: intikal
+letter: I
 lisan: Arapça intiḳāl
 anlamlar:
 - Bir yerden başka bir yere geçme; geçiş

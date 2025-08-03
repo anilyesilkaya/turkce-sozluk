@@ -2,6 +2,7 @@
 layout: term
 title: kılık
 slug: kilik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir kimsenin giyinişi, dış görünüşü; eşkâl

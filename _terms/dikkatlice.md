@@ -2,6 +2,7 @@
 layout: term
 title: dikkatlice
 slug: dikkatlice
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dikkatli bir biçimde

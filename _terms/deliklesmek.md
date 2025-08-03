@@ -2,6 +2,7 @@
 layout: term
 title: delikleşmek
 slug: deliklesmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Delikler, girintiler oluşmak

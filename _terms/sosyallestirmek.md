@@ -2,6 +2,7 @@
 layout: term
 title: sosyalleştirmek
 slug: sosyallestirmek
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► toplumsallaştırmak

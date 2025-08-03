@@ -2,6 +2,7 @@
 layout: term
 title: özlü
 slug: ozlu
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Özü olan, öz bölümü çokça olan

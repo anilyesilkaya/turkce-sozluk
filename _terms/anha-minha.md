@@ -2,6 +2,7 @@
 layout: term
 title: anha minha
 slug: anha-minha
+letter: A
 lisan: Arapça ʿanhā minhā
 anlamlar:
 - Aşağı yukarı, yaklaşık olarak

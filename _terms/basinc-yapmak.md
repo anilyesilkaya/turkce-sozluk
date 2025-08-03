@@ -2,6 +2,7 @@
 layout: term
 title: basınç yapmak
 slug: basinc-yapmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - bir yüzey üzerine güç kullanarak baskı yapmak

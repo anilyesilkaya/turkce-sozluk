@@ -2,6 +2,7 @@
 layout: term
 title: mehabet
 slug: mehabet
+letter: M
 lisan: Arapça mehābet
 anlamlar:
 - Büyük ve saygıdeğer kimselere duyulan saygı

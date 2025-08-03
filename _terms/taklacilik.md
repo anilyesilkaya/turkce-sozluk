@@ -2,6 +2,7 @@
 layout: term
 title: taklacılık
 slug: taklacilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► dalaverecilik

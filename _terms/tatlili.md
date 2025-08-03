@@ -2,6 +2,7 @@
 layout: term
 title: tatlılı
 slug: tatlili
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tatlısı olan, içinde tatlı bulunan

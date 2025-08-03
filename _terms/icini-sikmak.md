@@ -2,6 +2,7 @@
 layout: term
 title: içini sıkmak
 slug: icini-sikmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - sıkıntı vermek

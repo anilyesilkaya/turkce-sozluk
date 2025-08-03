@@ -2,6 +2,7 @@
 layout: term
 title: gang
 slug: gang
+letter: G
 lisan: Fransızca gangue
 anlamlar:
 - Bir maden cevherini, bir değerli taşı saran değersiz madde

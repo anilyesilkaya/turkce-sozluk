@@ -2,6 +2,7 @@
 layout: term
 title: kuyruksüren
 slug: kuyruksuren
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► firavun faresi

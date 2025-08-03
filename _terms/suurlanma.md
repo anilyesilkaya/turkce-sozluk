@@ -2,6 +2,7 @@
 layout: term
 title: şuurlanma
 slug: suurlanma
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - ► bilinçlenme

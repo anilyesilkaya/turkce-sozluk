@@ -2,6 +2,7 @@
 layout: term
 title: odaşık
 slug: odasik
+letter: O
 lisan: Türkçe
 anlamlar:
 - Aynı odada oturan veya çalışanlardan her biri

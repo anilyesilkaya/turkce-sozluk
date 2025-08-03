@@ -2,6 +2,7 @@
 layout: term
 title: sakil
 slug: sakil
+letter: S
 lisan: Arapça s̱aḳīl
 anlamlar:
 - ► ağır

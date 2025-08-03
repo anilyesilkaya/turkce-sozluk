@@ -2,6 +2,7 @@
 layout: term
 title: emilebilme
 slug: emilebilme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Emilebilmek işi

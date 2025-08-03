@@ -2,6 +2,7 @@
 layout: term
 title: sosyal morfoloji
 slug: sosyal-morfoloji
+letter: S
 lisan: Türkçe
 anlamlar:
 - Toplumların, insan topluluklarının coğrafi olarak yerleşme düzenini ve nüfusunu inceleyen bilim dalı

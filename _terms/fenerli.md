@@ -2,6 +2,7 @@
 layout: term
 title: fenerli
 slug: fenerli
+letter: F
 lisan: Türkçe
 anlamlar:
 - Feneri olan

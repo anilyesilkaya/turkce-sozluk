@@ -2,6 +2,7 @@
 layout: term
 title: gönlünden geçirmek (veya geçmek)
 slug: gonlunden-gecirmek-veya-gecmek
+letter: G
 lisan: Türkçe
 anlamlar:
 - bir şeyin olmasını veya bir şey yapmayı istemek

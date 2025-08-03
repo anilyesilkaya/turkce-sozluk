@@ -2,6 +2,7 @@
 layout: term
 title: taraftarlık etmek
 slug: taraftarlik-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - bir tarafı tutmak, bir yanı desteklemek

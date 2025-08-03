@@ -2,6 +2,7 @@
 layout: term
 title: yetim
 slug: yetim
+letter: Y
 lisan: Arapça yetīm
 anlamlar:
 - Babası ölmüş olan (çocuk); babasız

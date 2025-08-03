@@ -2,6 +2,7 @@
 layout: term
 title: efkâr basmak
 slug: efkar-basmak
+letter: E
 lisan: Türkçe
 anlamlar:
 - hüzünlenmek

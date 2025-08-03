@@ -2,6 +2,7 @@
 layout: term
 title: tellallık
 slug: tellallik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tellalın yaptığı iş

@@ -2,6 +2,7 @@
 layout: term
 title: göndermek
 slug: gondermek
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bir yere doğru yola çıkarmak, ulaşmasını, gitmesini sağlamak; yollamak, irsal etmek

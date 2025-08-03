@@ -2,6 +2,7 @@
 layout: term
 title: görüm
 slug: gorum
+letter: G
 lisan: Türkçe
 anlamlar:
 - Görme yetisi

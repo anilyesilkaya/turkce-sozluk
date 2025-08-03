@@ -2,6 +2,7 @@
 layout: term
 title: muazzez
 slug: muazzez
+letter: M
 lisan: Arapça muʿazzez
 anlamlar:
 - Sayılan, saygı duyulan; aziz

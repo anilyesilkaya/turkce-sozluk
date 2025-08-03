@@ -2,6 +2,7 @@
 layout: term
 title: lanetlemek
 slug: lanetlemek
+letter: L
 lisan: Türkçe
 anlamlar:
 - Kargımak, beddua etmek, lanet etmek

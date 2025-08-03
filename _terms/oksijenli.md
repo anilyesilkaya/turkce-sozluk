@@ -2,6 +2,7 @@
 layout: term
 title: oksijenli
 slug: oksijenli
+letter: O
 lisan: Türkçe
 anlamlar:
 - Birleşiminde oksijen bulunan

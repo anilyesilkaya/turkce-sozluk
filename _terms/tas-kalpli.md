@@ -2,6 +2,7 @@
 layout: term
 title: taş kalpli
 slug: tas-kalpli
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► merhametsiz

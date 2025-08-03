@@ -2,6 +2,7 @@
 layout: term
 title: barışabilmek
 slug: barisabilmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Barışma ihtimali veya imkânı bulunmak

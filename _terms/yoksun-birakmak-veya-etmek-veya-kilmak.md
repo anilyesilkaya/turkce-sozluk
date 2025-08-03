@@ -2,6 +2,7 @@
 layout: term
 title: yoksun bırakmak (veya etmek veya kılmak)
 slug: yoksun-birakmak-veya-etmek-veya-kilmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yoksun duruma getirmek, bir şeyin yokluğunu çektirmek

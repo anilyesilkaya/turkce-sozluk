@@ -2,6 +2,7 @@
 layout: term
 title: geçkin
 slug: geckin
+letter: G
 lisan: Türkçe
 anlamlar:
 - İhtiyarlamaya yüz tutmuş, yaşlanmış

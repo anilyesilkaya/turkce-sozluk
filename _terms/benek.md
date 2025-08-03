@@ -2,6 +2,7 @@
 layout: term
 title: benek
 slug: benek
+letter: B
 lisan: Türkçe
 anlamlar:
 - Herhangi bir şey üzerindeki ben gibi ufak şekil

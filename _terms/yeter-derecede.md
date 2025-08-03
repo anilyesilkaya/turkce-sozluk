@@ -2,6 +2,7 @@
 layout: term
 title: yeter derecede
 slug: yeter-derecede
+letter: Y
 lisan: Türkçe
 anlamlar:
 - yeterli ölçüde

@@ -2,6 +2,7 @@
 layout: term
 title: dirimsel
 slug: dirimsel
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► hayati

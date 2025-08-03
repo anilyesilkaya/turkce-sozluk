@@ -2,6 +2,7 @@
 layout: term
 title: kültür şoku
 slug: kultur-soku
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kültür bakımından büyük değişmeler karşısında şaşırma, olaylara akıl erdirememe

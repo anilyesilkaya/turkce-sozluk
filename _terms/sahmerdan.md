@@ -2,6 +2,7 @@
 layout: term
 title: şahmerdan
 slug: sahmerdan
+letter: Ş
 lisan: Farsça şāh + merdān
 anlamlar:
 - Vurucu ağırlığın, mekanik olarak yükselmesi ve düşmesi sonucu dövme işlemi yapan makine

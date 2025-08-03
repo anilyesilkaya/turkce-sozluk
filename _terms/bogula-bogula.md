@@ -2,6 +2,7 @@
 layout: term
 title: boğula boğula
 slug: bogula-bogula
+letter: B
 lisan: Türkçe
 anlamlar:
 - Boğulacakmış gibi, boğuk bir biçimde

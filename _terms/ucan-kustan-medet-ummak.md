@@ -2,6 +2,7 @@
 layout: term
 title: uçan kuştan medet ummak
 slug: ucan-kustan-medet-ummak
+letter: U
 lisan: Türkçe
 anlamlar:
 - çok sıkıntıda kalıp herhangi bir yerden en ufak bir yardımın gelmesini beklemek, sıkıntılı bir durumdan kurtulmak için her türlü çareye başvurmak

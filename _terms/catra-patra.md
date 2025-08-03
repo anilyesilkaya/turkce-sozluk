@@ -2,6 +2,7 @@
 layout: term
 title: çatra patra
 slug: catra-patra
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çat pat

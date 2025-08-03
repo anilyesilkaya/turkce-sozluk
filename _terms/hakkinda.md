@@ -2,6 +2,7 @@
 layout: term
 title: hakkında
 slug: hakkinda
+letter: H
 lisan: Türkçe
 anlamlar:
 - İlgili olarak; üzerine, için

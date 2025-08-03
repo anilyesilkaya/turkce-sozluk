@@ -2,6 +2,7 @@
 layout: term
 title: erek
 slug: erek
+letter: E
 lisan: Türkçe
 anlamlar:
 - ► amaç

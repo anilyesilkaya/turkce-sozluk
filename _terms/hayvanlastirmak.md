@@ -2,6 +2,7 @@
 layout: term
 title: hayvanlaştırmak
 slug: hayvanlastirmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hayvan durumuna getirmek

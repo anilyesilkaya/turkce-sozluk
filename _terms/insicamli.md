@@ -2,6 +2,7 @@
 layout: term
 title: insicamlı
 slug: insicamli
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► tutarlı

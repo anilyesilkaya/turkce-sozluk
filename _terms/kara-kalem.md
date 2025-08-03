@@ -2,6 +2,7 @@
 layout: term
 title: kara kalem
 slug: kara-kalem
+letter: K
 lisan: Türkçe
 anlamlar:
 - Resim yapmada kullanılan kömür kalem

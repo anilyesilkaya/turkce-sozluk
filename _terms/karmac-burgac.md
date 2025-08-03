@@ -2,6 +2,7 @@
 layout: term
 title: 'karmaç burgaç '
 slug: karmac-burgac
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► karmakarışık

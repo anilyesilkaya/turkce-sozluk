@@ -2,6 +2,7 @@
 layout: term
 title: boğazına bir yumruk tıkanmak (veya gelip oturmak)
 slug: bogazina-bir-yumruk-tikanmak-veya-gelip-oturmak
+letter: B
 lisan: Türkçe
 anlamlar:
 - konuşamaz olmak, sesi çıkmamak

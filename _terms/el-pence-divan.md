@@ -2,6 +2,7 @@
 layout: term
 title: el pençe divan
 slug: el-pence-divan
+letter: E
 lisan: Türkçe
 anlamlar:
 - aşırı saygı göstererek

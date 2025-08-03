@@ -2,6 +2,7 @@
 layout: term
 title: Akrep Burcu
 slug: akrep-burcu
+letter: A
 lisan: Türkçe
 anlamlar:
 - Zodyak üzerinde Terazi Burcu ile Yay Burcu arasında yer alan takımyıldızın adı; Akrep

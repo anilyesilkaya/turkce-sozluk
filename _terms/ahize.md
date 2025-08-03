@@ -2,6 +2,7 @@
 layout: term
 title: ahize
 slug: ahize
+letter: A
 lisan: Arapça āḫiẕe
 anlamlar:
 - Sabit telefonların sesleri duymaya ve karşı tarafa iletmeye yarayan parçası

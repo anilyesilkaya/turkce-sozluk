@@ -2,6 +2,7 @@
 layout: term
 title: mürebbiyelik
 slug: murebbiyelik
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mürebbiye olma durumu

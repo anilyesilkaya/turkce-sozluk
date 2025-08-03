@@ -2,6 +2,7 @@
 layout: term
 title: vurulmak
 slug: vurulmak
+letter: V
 lisan: Türkçe
 anlamlar:
 - Vurma işine konu olmak

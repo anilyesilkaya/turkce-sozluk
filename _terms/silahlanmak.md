@@ -2,6 +2,7 @@
 layout: term
 title: silahlanmak
 slug: silahlanmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Silahlı duruma gelmek

@@ -2,6 +2,7 @@
 layout: term
 title: şiş kebabı
 slug: sis-kebabi
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şişe takılarak pişirilmiş kebap

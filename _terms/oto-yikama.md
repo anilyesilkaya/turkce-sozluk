@@ -2,6 +2,7 @@
 layout: term
 title: 'oto yıkama '
 slug: oto-yikama
+letter: O
 lisan: Türkçe
 anlamlar:
 - Taşıtların içinin, dışının veya her ikisinin birden temizlenmesi, yıkanması işlemi

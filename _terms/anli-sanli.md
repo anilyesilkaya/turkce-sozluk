@@ -2,6 +2,7 @@
 layout: term
 title: anlı şanlı
 slug: anli-sanli
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► ünlü

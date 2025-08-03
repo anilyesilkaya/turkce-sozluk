@@ -2,6 +2,7 @@
 layout: term
 title: şecereli
 slug: secereli
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Şeceresi olan, oldukça uzak bir ataya kadar dedeleri belli olan

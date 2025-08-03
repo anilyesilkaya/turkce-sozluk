@@ -2,6 +2,7 @@
 layout: term
 title: çıngar
 slug: cingar
+letter: Ç
 lisan: Rumca
 anlamlar:
 - ► kavga

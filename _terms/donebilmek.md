@@ -2,6 +2,7 @@
 layout: term
 title: dönebilmek
 slug: donebilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dönme ihtimali veya imkânı bulunmak

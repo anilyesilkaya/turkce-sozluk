@@ -2,6 +2,7 @@
 layout: term
 title: çitari
 slug: citari
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - İzmaritgillerden, üzerinde sarı çizgiler bulunan, en büyüğü yarım kiloyu aşmayan, kılçıklı bir balık (Boxsalpa)

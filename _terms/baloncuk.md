@@ -2,6 +2,7 @@
 layout: term
 title: baloncuk
 slug: baloncuk
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► kabarcık

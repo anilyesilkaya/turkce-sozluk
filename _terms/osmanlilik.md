@@ -2,6 +2,7 @@
 layout: term
 title: Osmanlılık
 slug: osmanlilik
+letter: O
 lisan: Türkçe
 anlamlar:
 - Osmanlı olma durumu

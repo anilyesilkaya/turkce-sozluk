@@ -2,6 +2,7 @@
 layout: term
 title: dimdik
 slug: dimdik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Çok dik; mum direk

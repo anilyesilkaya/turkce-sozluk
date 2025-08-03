@@ -2,6 +2,7 @@
 layout: term
 title: volta atmak
 slug: volta-atmak
+letter: V
 lisan: Türkçe
 anlamlar:
 - bir aşağı bir yukarı dolaşmak

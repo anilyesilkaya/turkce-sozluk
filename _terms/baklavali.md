@@ -2,6 +2,7 @@
 layout: term
 title: baklavalı
 slug: baklavali
+letter: B
 lisan: Türkçe
 anlamlar:
 - İçinde baklava biçiminde desen bulunan

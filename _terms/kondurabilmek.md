@@ -2,6 +2,7 @@
 layout: term
 title: kondurabilmek
 slug: kondurabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kondurma ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: sav
 slug: sav
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► iddia

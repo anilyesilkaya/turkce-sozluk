@@ -2,6 +2,7 @@
 layout: term
 title: el sürmemek
 slug: el-surmemek
+letter: E
 lisan: Türkçe
 anlamlar:
 - dokunmamak, değmemek

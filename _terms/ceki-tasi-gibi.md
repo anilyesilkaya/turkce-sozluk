@@ -2,6 +2,7 @@
 layout: term
 title: çeki taşı gibi
 slug: ceki-tasi-gibi
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ağır ve kımıldamaz

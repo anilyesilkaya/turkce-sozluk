@@ -2,6 +2,7 @@
 layout: term
 title: cümlelik
 slug: cumlelik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cümleden oluşan

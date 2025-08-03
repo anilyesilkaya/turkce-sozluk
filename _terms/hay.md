@@ -2,6 +2,7 @@
 layout: term
 title: hay
 slug: hay
+letter: H
 lisan: Türkçe
 anlamlar:
 - İyi dilek, azarlama, şaşma, sevinç vb. duyguları bildirmede kullanılan bir söz

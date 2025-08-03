@@ -2,6 +2,7 @@
 layout: term
 title: kahverengi
 slug: kahverengi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kavrulmuş kahvenin rengi

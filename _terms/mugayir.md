@@ -2,6 +2,7 @@
 layout: term
 title: mugayir
 slug: mugayir
+letter: M
 lisan: Arapça muġāyir
 anlamlar:
 - ► aykırı

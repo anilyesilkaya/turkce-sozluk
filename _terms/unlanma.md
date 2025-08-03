@@ -2,6 +2,7 @@
 layout: term
 title: unlanma
 slug: unlanma
+letter: U
 lisan: Türkçe
 anlamlar:
 - Unlanmak durumu

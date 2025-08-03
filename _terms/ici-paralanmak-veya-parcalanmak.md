@@ -2,6 +2,7 @@
 layout: term
 title: içi paralanmak (veya parçalanmak)
 slug: ici-paralanmak-veya-parcalanmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - birine acıyarak çok üzülmek

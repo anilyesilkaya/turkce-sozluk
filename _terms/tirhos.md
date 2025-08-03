@@ -2,6 +2,7 @@
 layout: term
 title: tirhos
 slug: tirhos
+letter: T
 lisan: Rumca
 anlamlar:
 - Taze sardalya balığı

@@ -2,6 +2,7 @@
 layout: term
 title: omurgasız
 slug: omurgasiz
+letter: O
 lisan: Türkçe
 anlamlar:
 - Omurgası bulunmayan

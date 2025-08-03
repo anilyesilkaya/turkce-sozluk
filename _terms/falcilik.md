@@ -2,6 +2,7 @@
 layout: term
 title: falcılık
 slug: falcilik
+letter: F
 lisan: Türkçe
 anlamlar:
 - Falcının yaptığı iş; bakıcılık, bakımcılık, Taoizm

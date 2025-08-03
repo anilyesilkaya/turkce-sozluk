@@ -2,6 +2,7 @@
 layout: term
 title: çocukla çocuk, büyükle büyük olmak
 slug: cocukla-cocuk-buyukle-buyuk-olmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - içinde bulunulan yere veya çevredeki insanlara uymak

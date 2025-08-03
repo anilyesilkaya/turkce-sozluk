@@ -2,6 +2,7 @@
 layout: term
 title: sinirli
 slug: sinirli
+letter: S
 lisan: Türkçe
 anlamlar:
 - İçinde sinir bulunan

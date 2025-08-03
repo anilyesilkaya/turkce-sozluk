@@ -2,6 +2,7 @@
 layout: term
 title: yağma etmek
 slug: yagma-etmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - birçok kimse, zor kullanarak bir malı alıp kaçmak

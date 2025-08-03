@@ -2,6 +2,7 @@
 layout: term
 title: iğrençleşmek
 slug: igrenclesmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İğrenç duruma gelmek

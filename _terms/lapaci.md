@@ -2,6 +2,7 @@
 layout: term
 title: lapacı
 slug: lapaci
+letter: L
 lisan: Türkçe
 anlamlar:
 - Vücutça toplu ve iri olmasına rağmen direnci az olan

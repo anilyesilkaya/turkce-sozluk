@@ -2,6 +2,7 @@
 layout: term
 title: gürültülü patırtılı
 slug: gurultulu-patirtili
+letter: G
 lisan: Türkçe
 anlamlar:
 - Çok gürültülü ve karışık; dağdağalı, şamatalı

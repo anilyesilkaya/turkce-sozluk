@@ -2,6 +2,7 @@
 layout: term
 title: taklitçilik
 slug: taklitcilik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Taklitçi olma durumu; öykünmecilik

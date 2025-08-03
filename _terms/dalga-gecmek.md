@@ -2,6 +2,7 @@
 layout: term
 title: dalga geçmek
 slug: dalga-gecmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - üzerinde durulması gereken işle ilgilenmeyerek başka şeyler düşünmek veya yapmak

@@ -2,6 +2,7 @@
 layout: term
 title: modüler
 slug: moduler
+letter: M
 lisan: Fransızca modulaire
 anlamlar:
 - ► parçalı

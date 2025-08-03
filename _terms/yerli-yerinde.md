@@ -2,6 +2,7 @@
 layout: term
 title: yerli yerinde
 slug: yerli-yerinde
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Eskiden olduğu yerde

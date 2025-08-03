@@ -2,6 +2,7 @@
 layout: term
 title: dik âlâsı
 slug: dik-alasi
+letter: D
 lisan: Türkçe
 anlamlar:
 - Genellikle hoş karşılanmayan bir durumun aşırılığını anlatan bir söz

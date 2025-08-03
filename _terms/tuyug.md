@@ -2,6 +2,7 @@
 layout: term
 title: tuyuğ
 slug: tuyug
+letter: T
 lisan: Türkçe
 anlamlar:
 - Mâni biçiminde, aruzun "failatün failatün failün" kalıbıyla yazılmış, dört mısralı bir nazım türü

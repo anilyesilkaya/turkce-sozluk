@@ -2,6 +2,7 @@
 layout: term
 title: kopuz
 slug: kopuz
+letter: K
 lisan: Türkçe
 anlamlar:
 - Ozanların çaldığı telli Türk sazı

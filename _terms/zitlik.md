@@ -2,6 +2,7 @@
 layout: term
 title: zıtlık
 slug: zitlik
+letter: Z
 lisan: Türkçe
 anlamlar:
 - ► karşıtlık

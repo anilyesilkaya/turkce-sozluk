@@ -2,6 +2,7 @@
 layout: term
 title: öfkeye kapılmak
 slug: ofkeye-kapilmak
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - çok sinirlenmek, kızmak, hiddetlenmek

@@ -2,6 +2,7 @@
 layout: term
 title: selamlama
 slug: selamlama
+letter: S
 lisan: Türkçe
 anlamlar:
 - Selamlamak işi

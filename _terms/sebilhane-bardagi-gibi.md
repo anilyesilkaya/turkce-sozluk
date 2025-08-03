@@ -2,6 +2,7 @@
 layout: term
 title: sebilhane bardağı gibi
 slug: sebilhane-bardagi-gibi
+letter: S
 lisan: Türkçe
 anlamlar:
 - hoşa gitmeyen kalabalık (insan topluluğu)

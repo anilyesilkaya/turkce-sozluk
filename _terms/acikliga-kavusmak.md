@@ -2,6 +2,7 @@
 layout: term
 title: açıklığa kavuşmak
 slug: acikliga-kavusmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - bir konu veya sorun aydınlanmak, kapalılıktan kurtarılmak, anlaşılır duruma getirilmek

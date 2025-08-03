@@ -2,6 +2,7 @@
 layout: term
 title: beynelmilelci
 slug: beynelmilelci
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► uluslararasıcı

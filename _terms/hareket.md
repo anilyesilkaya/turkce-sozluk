@@ -2,6 +2,7 @@
 layout: term
 title: hareket
 slug: hareket
+letter: H
 lisan: Arapça ḥareket
 anlamlar:
 - Vücudu oynatma, kıpırdatma veya kımıldanma

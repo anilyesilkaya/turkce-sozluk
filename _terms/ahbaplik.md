@@ -2,6 +2,7 @@
 layout: term
 title: ahbaplık
 slug: ahbaplik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ahbap olma durumu

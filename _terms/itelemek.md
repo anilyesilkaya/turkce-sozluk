@@ -2,6 +2,7 @@
 layout: term
 title: itelemek
 slug: itelemek
+letter: I
 lisan: Türkçe
 anlamlar:
 - Sürekli itmek, arka arkaya itmek; iteklemek

@@ -2,6 +2,7 @@
 layout: term
 title: demirleyebilmek
 slug: demirleyebilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Demirleme ihtimali veya imkânı bulunmak

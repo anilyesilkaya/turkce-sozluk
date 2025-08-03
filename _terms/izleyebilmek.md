@@ -2,6 +2,7 @@
 layout: term
 title: izleyebilmek
 slug: izleyebilmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - İzleme ihtimali veya imkânı bulunmak

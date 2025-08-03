@@ -2,6 +2,7 @@
 layout: term
 title: I
 slug: i
+letter: I
 lisan: Türkçe
 anlamlar:
 - İyot elementinin simgesi

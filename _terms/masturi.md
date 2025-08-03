@@ -2,6 +2,7 @@
 layout: term
 title: masturi
 slug: masturi
+letter: M
 lisan: Rumca
 anlamlar:
 - ► mastori

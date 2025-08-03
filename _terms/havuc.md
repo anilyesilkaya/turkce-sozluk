@@ -2,6 +2,7 @@
 layout: term
 title: havuç
 slug: havuc
+letter: H
 lisan: Farsça hevīc
 anlamlar:
 - Maydanozgillerden, koni biçimindeki etli kökü için sebze olarak yetiştirilen, iki yıllık otsu bir kültür bitkisi; pürçekli, yeregeçen (Daucus carota)

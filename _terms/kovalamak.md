@@ -2,6 +2,7 @@
 layout: term
 title: kovalamak
 slug: kovalamak
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► kovmak

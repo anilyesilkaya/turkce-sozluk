@@ -2,6 +2,7 @@
 layout: term
 title: elektriklendirmek
 slug: elektriklendirmek
+letter: E
 lisan: Türkçe
 anlamlar:
 - Bir yere elektrik sağlamak

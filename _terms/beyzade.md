@@ -2,6 +2,7 @@
 layout: term
 title: beyzade
 slug: beyzade
+letter: B
 lisan: Türkçe bey + Farsça zāde
 anlamlar:
 - Beyin oğlu

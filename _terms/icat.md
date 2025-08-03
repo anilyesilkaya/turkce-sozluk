@@ -2,6 +2,7 @@
 layout: term
 title: icat
 slug: icat
+letter: I
 lisan: Arapça īcād
 anlamlar:
 - ► buluş

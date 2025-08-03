@@ -2,6 +2,7 @@
 layout: term
 title: sözü bağlamak
 slug: sozu-baglamak
+letter: S
 lisan: Türkçe
 anlamlar:
 - lafı bağlamak

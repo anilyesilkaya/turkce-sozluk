@@ -2,6 +2,7 @@
 layout: term
 title: yitirtmek
 slug: yitirtmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yitirmesine neden olmak

@@ -2,6 +2,7 @@
 layout: term
 title: rehin
 slug: rehin
+letter: R
 lisan: Arapça rehn
 anlamlar:
 - Bir borcun ödeneceğine teminat olarak ödenince geri alınmak şartıyla borçlunun alacaklıya verdiği değerli şey

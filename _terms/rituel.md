@@ -2,6 +2,7 @@
 layout: term
 title: ritüel
 slug: rituel
+letter: R
 lisan: Fransızca rituel
 anlamlar:
 - Bir din veya inanç sistemine ait ibadet, ayin, merasim ve bu sırada uyulması gereken kurallar

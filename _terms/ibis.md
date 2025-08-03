@@ -2,6 +2,7 @@
 layout: term
 title: ibiş
 slug: ibis
+letter: I
 lisan: Türkçe
 anlamlar:
 - Orta oyununda çoğu kez aptal uşak rolünü oynayan komedyen

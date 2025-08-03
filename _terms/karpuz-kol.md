@@ -2,6 +2,7 @@
 layout: term
 title: karpuz kol
 slug: karpuz-kol
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bol büzgülü, kabarık, kısa giysi kolu

@@ -2,6 +2,7 @@
 layout: term
 title: korkabilmek
 slug: korkabilmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Korkma ihtimali bulunmak

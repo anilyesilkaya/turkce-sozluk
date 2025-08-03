@@ -2,6 +2,7 @@
 layout: term
 title: hüzünsüzlük
 slug: huzunsuzluk
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hüzünsüz olma durumu

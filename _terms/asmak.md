@@ -2,6 +2,7 @@
 layout: term
 title: aşmak
 slug: asmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Yüksek, uzak veya geçilmesi güç bir yerin öte yanına geçmek

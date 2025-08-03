@@ -2,6 +2,7 @@
 layout: term
 title: ufalış
 slug: ufalis
+letter: U
 lisan: Türkçe
 anlamlar:
 - Ufalmak durumu

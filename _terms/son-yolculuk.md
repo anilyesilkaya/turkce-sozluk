@@ -2,6 +2,7 @@
 layout: term
 title: son yolculuk
 slug: son-yolculuk
+letter: S
 lisan: Türkçe
 anlamlar:
 - Yapılan yolculukların sonuncusu

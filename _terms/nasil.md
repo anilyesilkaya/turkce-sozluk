@@ -2,6 +2,7 @@
 layout: term
 title: nasıl
 slug: nasil
+letter: N
 lisan: Türkçe ne + Arapça aṣl
 anlamlar:
 - Bir işin ne biçimde, hangi yolla olduğunu belirtmek için kullanılan bir söz; ne (II), nice, nite

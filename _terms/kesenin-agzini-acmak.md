@@ -2,6 +2,7 @@
 layout: term
 title: kesenin ağzını açmak
 slug: kesenin-agzini-acmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - bol para harcamaya başlamak

@@ -2,6 +2,7 @@
 layout: term
 title: ziyan zebil olmak
 slug: ziyan-zebil-olmak
+letter: Z
 lisan: Türkçe
 anlamlar:
 - boşuna, boş yere harcanmak

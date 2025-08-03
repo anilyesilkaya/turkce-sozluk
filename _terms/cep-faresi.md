@@ -2,6 +2,7 @@
 layout: term
 title: cep faresi
 slug: cep-faresi
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► yankesici

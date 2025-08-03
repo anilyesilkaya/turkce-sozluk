@@ -2,6 +2,7 @@
 layout: term
 title: kamulaştırma
 slug: kamulastirma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kamulaştırmak işi; devletleştirme, istimlak

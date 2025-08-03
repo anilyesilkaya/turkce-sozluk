@@ -2,6 +2,7 @@
 layout: term
 title: cariyelik
 slug: cariyelik
+letter: C
 lisan: Türkçe
 anlamlar:
 - Cariye olma durumu

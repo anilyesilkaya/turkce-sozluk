@@ -2,6 +2,7 @@
 layout: term
 title: tatminsizlik
 slug: tatminsizlik
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tatmin olmama durumu

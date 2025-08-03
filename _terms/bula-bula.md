@@ -2,6 +2,7 @@
 layout: term
 title: bula bula
 slug: bula-bula
+letter: B
 lisan: Türkçe
 anlamlar:
 - '"Var olanlar içinden bu en değersizini mi seçtin?” anlamındaki bula bula bunu mu buldun? deyiminde kullanılan bir söz'

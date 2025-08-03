@@ -2,6 +2,7 @@
 layout: term
 title: halat çekme
 slug: halat-cekme
+letter: H
 lisan: Türkçe
 anlamlar:
 - Bir halatı birer ucundan tutan iki tarafın birbirini çekmesiyle yapılan yarışma

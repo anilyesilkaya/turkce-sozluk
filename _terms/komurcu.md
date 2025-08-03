@@ -2,6 +2,7 @@
 layout: term
 title: kömürcü
 slug: komurcu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kömür alıp satan veya odun kömürü yapan kimse

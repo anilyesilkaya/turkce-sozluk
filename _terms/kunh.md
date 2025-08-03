@@ -2,6 +2,7 @@
 layout: term
 title: künh
 slug: kunh
+letter: K
 lisan: Arapça kunh
 anlamlar:
 - ► öz (I)

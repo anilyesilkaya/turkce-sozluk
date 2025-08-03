@@ -2,6 +2,7 @@
 layout: term
 title: dingildeklik
 slug: dingildeklik
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dingildek olma durumu

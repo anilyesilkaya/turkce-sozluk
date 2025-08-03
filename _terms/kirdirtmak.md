@@ -2,6 +2,7 @@
 layout: term
 title: kırdırtmak
 slug: kirdirtmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kırdırma işini yaptırmak

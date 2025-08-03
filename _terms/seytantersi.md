@@ -2,6 +2,7 @@
 layout: term
 title: şeytantersi
 slug: seytantersi
+letter: Ş
 lisan: Türkçe
 anlamlar:
 - Maydanozgillerden, Orta Asya'da ve Akdeniz ülkelerinde yetişen, kalın köklü, sarı çiçekli, pis kokulu bitki; baldırgan (Ferula assa-foetida)

@@ -2,6 +2,7 @@
 layout: term
 title: asmagiller
 slug: asmagiller
+letter: A
 lisan: Türkçe
 anlamlar:
 - İki çeneklilerden, belli başlı türü asma olan bitki familyası

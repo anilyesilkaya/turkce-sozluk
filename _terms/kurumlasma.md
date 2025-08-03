@@ -2,6 +2,7 @@
 layout: term
 title: kurumlaşma
 slug: kurumlasma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kurum niteliği kazandırma, kurum niteliği verme

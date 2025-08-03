@@ -2,6 +2,7 @@
 layout: term
 title: ispenç
 slug: ispenc
+letter: I
 lisan: Türkçe
 anlamlar:
 - Bodur bir cins horoz veya tavuk

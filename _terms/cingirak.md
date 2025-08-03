@@ -2,6 +2,7 @@
 layout: term
 title: çıngırak
 slug: cingirak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Küçük çan

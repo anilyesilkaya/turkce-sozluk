@@ -2,6 +2,7 @@
 layout: term
 title: askılı
 slug: askili
+letter: A
 lisan: Türkçe
 anlamlar:
 - Askısı olan

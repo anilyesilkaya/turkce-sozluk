@@ -2,6 +2,7 @@
 layout: term
 title: çise
 slug: cise
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çisenti

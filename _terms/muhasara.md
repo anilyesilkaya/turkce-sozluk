@@ -2,6 +2,7 @@
 layout: term
 title: muhasara
 slug: muhasara
+letter: M
 lisan: Arapça muḥāṣara
 anlamlar:
 - ► kuşatma

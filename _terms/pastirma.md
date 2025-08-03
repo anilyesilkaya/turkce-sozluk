@@ -2,6 +2,7 @@
 layout: term
 title: pastırma
 slug: pastirma
+letter: P
 lisan: Türkçe
 anlamlar:
 - Üzerine tuz, çemen, kırmızıbiber karışımı sürülmüş etin güneşte veya iste kurutulması yoluyla yapılan yiyecek

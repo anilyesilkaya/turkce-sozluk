@@ -2,6 +2,7 @@
 layout: term
 title: muacciz
 slug: muacciz
+letter: M
 lisan: Arapça muʿacciz
 anlamlar:
 - Sıkıntı veren, taciz eden, bıktıran, usandıran

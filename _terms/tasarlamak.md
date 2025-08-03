@@ -2,6 +2,7 @@
 layout: term
 title: tasarlamak
 slug: tasarlamak
+letter: T
 lisan: Türkçe
 anlamlar:
 - Bir şeyin nasıl gerçekleşebileceğini zihinde hazırlamak, zihinde kurmak; düşünmek

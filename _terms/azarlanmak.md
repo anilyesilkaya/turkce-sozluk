@@ -2,6 +2,7 @@
 layout: term
 title: azarlanmak
 slug: azarlanmak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Kırıcı ve sert sözle karşılaşmak; paylanmak

@@ -2,6 +2,7 @@
 layout: term
 title: gönüllü
 slug: gonullu
+letter: G
 lisan: Türkçe
 anlamlar:
 - Bir işi yapmayı hiçbir yükümlülüğü yokken isteyerek üstlenen; fahri

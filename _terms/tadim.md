@@ -2,6 +2,7 @@
 layout: term
 title: tadım
 slug: tadim
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tatmak için ağza alınan miktar

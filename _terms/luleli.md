@@ -2,6 +2,7 @@
 layout: term
 title: lüleli
 slug: luleli
+letter: L
 lisan: Türkçe
 anlamlar:
 - Kıvrık kıvrık (saç)

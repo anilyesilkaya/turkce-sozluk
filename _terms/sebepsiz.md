@@ -2,6 +2,7 @@
 layout: term
 title: sebepsiz
 slug: sebepsiz
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sebebi olmayan; nedensiz, bilasebep

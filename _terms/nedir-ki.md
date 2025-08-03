@@ -2,6 +2,7 @@
 layout: term
 title: nedir ki
 slug: nedir-ki
+letter: N
 lisan: Türkçe
 anlamlar:
 - şu var ki

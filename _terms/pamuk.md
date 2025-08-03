@@ -2,6 +2,7 @@
 layout: term
 title: pamuk
 slug: pamuk
+letter: P
 lisan: Farsça panbuḳ
 anlamlar:
 - Ebegümecigillerden, koza biçimindeki meyvesi üç, dört, beş dilimli olan, sıcak bölgelerde yetişen tarım bitkisi (Gossypium)

@@ -2,6 +2,7 @@
 layout: term
 title: gece gündüz dememek
 slug: gece-gunduz-dememek
+letter: G
 lisan: Türkçe
 anlamlar:
 - vaktin uygun olup olmadığına bakmamak, vakit seçmemek

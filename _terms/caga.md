@@ -2,6 +2,7 @@
 layout: term
 title: çağa
 slug: caga
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Küçük çocuk

@@ -2,6 +2,7 @@
 layout: term
 title: elle tutulur gözle görülür (veya dille anlatılır)
 slug: elle-tutulur-gozle-gorulur-veya-dille-anlatilir
+letter: E
 lisan: Türkçe
 anlamlar:
 - çok belirgin, çok açık

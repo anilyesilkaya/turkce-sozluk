@@ -2,6 +2,7 @@
 layout: term
 title: şerir
 slug: serir
+letter: Ş
 lisan: Arapça şerīr
 anlamlar:
 - ► kötülükçü

@@ -2,6 +2,7 @@
 layout: term
 title: aruz ölçüsü
 slug: aruz-olcusu
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► aruz vezni

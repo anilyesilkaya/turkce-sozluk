@@ -2,6 +2,7 @@
 layout: term
 title: ferasetli
 slug: ferasetli
+letter: F
 lisan: Türkçe
 anlamlar:
 - ► anlayışlı

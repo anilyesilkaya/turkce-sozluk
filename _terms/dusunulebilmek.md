@@ -2,6 +2,7 @@
 layout: term
 title: düşünülebilmek
 slug: dusunulebilmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Düşünülme ihtimali veya imkânı bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: savunmacı
 slug: savunmaci
+letter: S
 lisan: Türkçe
 anlamlar:
 - Savunma yapan

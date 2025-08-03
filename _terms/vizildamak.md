@@ -2,6 +2,7 @@
 layout: term
 title: vızıldamak
 slug: vizildamak
+letter: V
 lisan: Türkçe
 anlamlar:
 - '"Vız" diye ses çıkarmak; vızlamak'

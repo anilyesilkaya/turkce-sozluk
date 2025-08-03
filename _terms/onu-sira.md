@@ -2,6 +2,7 @@
 layout: term
 title: önü sıra
 slug: onu-sira
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Hemen önünden, çok uzak olmayan bir ara ile

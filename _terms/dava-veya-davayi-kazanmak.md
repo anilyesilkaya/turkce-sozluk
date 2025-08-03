@@ -2,6 +2,7 @@
 layout: term
 title: dava (veya davayı) kazanmak
 slug: dava-veya-davayi-kazanmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - açılan davada haklı veya suçsuz bulunmak

@@ -2,6 +2,7 @@
 layout: term
 title: sançmak
 slug: sancmak
+letter: S
 lisan: Türkçe
 anlamlar:
 - Saplamak, batırmak

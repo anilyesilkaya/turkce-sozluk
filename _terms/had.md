@@ -2,6 +2,7 @@
 layout: term
 title: had
 slug: had
+letter: H
 lisan: Arapça ḥadd
 anlamlar:
 - İnsanın yetki ve değeri

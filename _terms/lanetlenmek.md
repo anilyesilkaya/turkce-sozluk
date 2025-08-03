@@ -2,6 +2,7 @@
 layout: term
 title: lanetlenmek
 slug: lanetlenmek
+letter: L
 lisan: Türkçe
 anlamlar:
 - Lanet edilmek, lanete uğramak

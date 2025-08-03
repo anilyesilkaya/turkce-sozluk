@@ -2,6 +2,7 @@
 layout: term
 title: perukar
 slug: perukar
+letter: P
 lisan: İtalyanca parrucchiere
 anlamlar:
 - ► berber

@@ -2,6 +2,7 @@
 layout: term
 title: harabe
 slug: harabe
+letter: H
 lisan: Arapça ḫarābe
 anlamlar:
 - Yıkılmış veya yıkılmaya yüz tutmuş yapı; yıkı

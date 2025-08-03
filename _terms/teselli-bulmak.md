@@ -2,6 +2,7 @@
 layout: term
 title: teselli bulmak
 slug: teselli-bulmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - avunmak

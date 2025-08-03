@@ -2,6 +2,7 @@
 layout: term
 title: türkü tutturmak
 slug: turku-tutturmak
+letter: T
 lisan: Türkçe
 anlamlar:
 - bir türküyü tekrarlayıp durmak

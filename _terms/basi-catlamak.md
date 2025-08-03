@@ -2,6 +2,7 @@
 layout: term
 title: başı çatlamak
 slug: basi-catlamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - başı çok ağrımak

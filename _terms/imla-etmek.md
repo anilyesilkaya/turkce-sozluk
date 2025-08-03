@@ -2,6 +2,7 @@
 layout: term
 title: imla etmek
 slug: imla-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - birine söyleyip yazdırmak

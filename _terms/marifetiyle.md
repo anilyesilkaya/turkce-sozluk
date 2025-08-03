@@ -2,6 +2,7 @@
 layout: term
 title: marifetiyle
 slug: marifetiyle
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► aracılığıyla

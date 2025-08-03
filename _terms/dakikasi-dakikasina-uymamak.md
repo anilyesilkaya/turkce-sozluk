@@ -2,6 +2,7 @@
 layout: term
 title: dakikası dakikasına uymamak
 slug: dakikasi-dakikasina-uymamak
+letter: D
 lisan: Türkçe
 anlamlar:
 - her an başka bir ruh durumu göstermek

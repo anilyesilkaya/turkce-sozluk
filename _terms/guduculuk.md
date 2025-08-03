@@ -2,6 +2,7 @@
 layout: term
 title: güdücülük
 slug: guduculuk
+letter: G
 lisan: Türkçe
 anlamlar:
 - Güdücü olma durumu

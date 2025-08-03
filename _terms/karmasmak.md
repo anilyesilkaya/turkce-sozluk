@@ -2,6 +2,7 @@
 layout: term
 title: karmaşmak
 slug: karmasmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Bir şey başka bir şeyle birleşerek karışık durum almak

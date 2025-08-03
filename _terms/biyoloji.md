@@ -2,6 +2,7 @@
 layout: term
 title: biyoloji
 slug: biyoloji
+letter: B
 lisan: Fransızca biologie
 anlamlar:
 - Bitki ve hayvanların köken, dağılım, yapı, gelişim, büyüme ve üremelerini inceleyen bilim dalı; dirim bilimi

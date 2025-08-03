@@ -2,6 +2,7 @@
 layout: term
 title: koşulmak
 slug: kosulmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Koşmak (II) işi yapılmak

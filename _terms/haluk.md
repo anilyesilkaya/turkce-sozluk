@@ -2,6 +2,7 @@
 layout: term
 title: haluk
 slug: haluk
+letter: H
 lisan: Arapça ḫalūḳ
 anlamlar:
 - Temiz huylu, iyi ahlaklı

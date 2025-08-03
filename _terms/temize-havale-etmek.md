@@ -2,6 +2,7 @@
 layout: term
 title: temize havale etmek
 slug: temize-havale-etmek
+letter: T
 lisan: Türkçe
 anlamlar:
 - uzayıp giden bir işi bitirivermek

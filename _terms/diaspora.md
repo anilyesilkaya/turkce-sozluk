@@ -2,6 +2,7 @@
 layout: term
 title: diaspora
 slug: diaspora
+letter: D
 lisan: Fransızca diaspora
 anlamlar:
 - Herhangi bir ulusun veya inanç mensuplarının ana yurtları dışında azınlık olarak yaşadıkları yer

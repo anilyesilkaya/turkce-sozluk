@@ -2,6 +2,7 @@
 layout: term
 title: kurtluk
 slug: kurtluk
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kurt olma durumu

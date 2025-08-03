@@ -2,6 +2,7 @@
 layout: term
 title: becelleşmek
 slug: becellesmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► cedelleşmek

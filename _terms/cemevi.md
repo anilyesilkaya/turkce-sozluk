@@ -2,6 +2,7 @@
 layout: term
 title: cemevi
 slug: cemevi
+letter: C
 lisan: Türkçe
 anlamlar:
 - Bektaşi ve Alevilerin toplu olarak dinî tören yaptıkları yer

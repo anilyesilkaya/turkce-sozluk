@@ -2,6 +2,7 @@
 layout: term
 title: mitleşmek
 slug: mitlesmek
+letter: M
 lisan: Türkçe
 anlamlar:
 - Mit durumuna gelmek

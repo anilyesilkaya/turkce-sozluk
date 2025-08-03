@@ -2,6 +2,7 @@
 layout: term
 title: Azerbaycanlı
 slug: azerbaycanli
+letter: A
 lisan: Türkçe
 anlamlar:
 - Azerbaycan halkından veya bu halkın soyundan olan kimse

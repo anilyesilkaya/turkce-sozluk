@@ -2,6 +2,7 @@
 layout: term
 title: tahriren
 slug: tahriren
+letter: T
 lisan: Arapça taḥrīren
 anlamlar:
 - Yazıyla, yazılı olarak

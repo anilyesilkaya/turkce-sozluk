@@ -2,6 +2,7 @@
 layout: term
 title: azalma
 slug: azalma
+letter: A
 lisan: Türkçe
 anlamlar:
 - Azalmak işi

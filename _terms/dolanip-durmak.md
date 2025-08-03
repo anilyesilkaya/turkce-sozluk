@@ -2,6 +2,7 @@
 layout: term
 title: dolanıp durmak
 slug: dolanip-durmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - sürekli olarak aynı yerde gezinmek

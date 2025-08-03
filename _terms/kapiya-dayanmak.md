@@ -2,6 +2,7 @@
 layout: term
 title: kapıya dayanmak
 slug: kapiya-dayanmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - gelip çatmak

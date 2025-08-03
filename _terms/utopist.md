@@ -2,6 +2,7 @@
 layout: term
 title: ütopist
 slug: utopist
+letter: Ü
 lisan: Fransızca utopiste
 anlamlar:
 - ► hayalci

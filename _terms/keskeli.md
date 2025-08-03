@@ -2,6 +2,7 @@
 layout: term
 title: keşkeli
 slug: keskeli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Herhangi bir pişmanlık, bahane ileri süren

@@ -2,6 +2,7 @@
 layout: term
 title: dallamak
 slug: dallamak
+letter: D
 lisan: Türkçe
 anlamlar:
 - ► budamak

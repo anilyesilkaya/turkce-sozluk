@@ -2,6 +2,7 @@
 layout: term
 title: makyajlı
 slug: makyajli
+letter: M
 lisan: Türkçe
 anlamlar:
 - Makyajı olan, makyaj yapmış; boyalı

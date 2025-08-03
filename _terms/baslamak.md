@@ -2,6 +2,7 @@
 layout: term
 title: başlamak
 slug: baslamak
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bir işe girişmek, harekete geçmek

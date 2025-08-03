@@ -2,6 +2,7 @@
 layout: term
 title: alaturka
 slug: alaturka
+letter: A
 lisan: İtalyanca alla turca
 anlamlar:
 - Eski Türk gelenek, görenek, töre ve hayatına uygun; Doğuluca, alafranga karşıtı

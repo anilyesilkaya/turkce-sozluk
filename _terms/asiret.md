@@ -2,6 +2,7 @@
 layout: term
 title: aşiret
 slug: asiret
+letter: A
 lisan: Arapça ʿaşīret
 anlamlar:
 - Dil ve kültür yönünden büyük bir türdeşlik gösteren, birçok boydan oluşan, yapısındaki aileler arasında toplum, ekonomi, din, kan veya evlilik bağları bulunan göçebe veya yerleşik nitelikteki topluluk; oymak (II)

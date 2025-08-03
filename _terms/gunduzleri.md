@@ -2,6 +2,7 @@
 layout: term
 title: gündüzleri
 slug: gunduzleri
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gündüz vakitlerinde

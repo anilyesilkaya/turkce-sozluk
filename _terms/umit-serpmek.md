@@ -2,6 +2,7 @@
 layout: term
 title: ümit serpmek
 slug: umit-serpmek
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - umut serpmek

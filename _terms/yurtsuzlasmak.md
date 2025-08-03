@@ -2,6 +2,7 @@
 layout: term
 title: yurtsuzlaşmak
 slug: yurtsuzlasmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yersiz yurtsuz kalmak, yurdunu kaybetmek

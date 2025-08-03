@@ -2,6 +2,7 @@
 layout: term
 title: uygarca
 slug: uygarca
+letter: U
 lisan: Türkçe
 anlamlar:
 - Uygar bir biçimde; medenice

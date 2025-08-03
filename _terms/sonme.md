@@ -2,6 +2,7 @@
 layout: term
 title: sönme
 slug: sonme
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sönmek işi

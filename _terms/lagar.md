@@ -2,6 +2,7 @@
 layout: term
 title: lagar
 slug: lagar
+letter: L
 lisan: Farsça lāġar
 anlamlar:
 - Zayıf, çelimsiz

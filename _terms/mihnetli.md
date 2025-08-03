@@ -2,6 +2,7 @@
 layout: term
 title: mihnetli
 slug: mihnetli
+letter: M
 lisan: Türkçe
 anlamlar:
 - Sıkıntılı, eziyetli olan

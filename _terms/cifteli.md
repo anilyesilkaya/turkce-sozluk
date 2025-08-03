@@ -2,6 +2,7 @@
 layout: term
 title: çifteli
 slug: cifteli
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çiftesi bulunan

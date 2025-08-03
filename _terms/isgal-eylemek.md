@@ -2,6 +2,7 @@
 layout: term
 title: işgal eylemek
 slug: isgal-eylemek
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► işgal etmek

@@ -2,6 +2,7 @@
 layout: term
 title: yelken kulaklı
 slug: yelken-kulakli
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Dış kulağı iri ve geniş olan; yelken kulak

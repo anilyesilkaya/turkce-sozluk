@@ -2,6 +2,7 @@
 layout: term
 title: günücü
 slug: gunucu
+letter: G
 lisan: Türkçe
 anlamlar:
 - ► kıskanç

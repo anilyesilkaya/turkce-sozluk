@@ -2,6 +2,7 @@
 layout: term
 title: annelik
 slug: annelik
+letter: A
 lisan: Türkçe
 anlamlar:
 - Anne olma durumu veya niteliği; analık, validelik

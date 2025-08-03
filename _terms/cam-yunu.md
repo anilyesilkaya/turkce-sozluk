@@ -2,6 +2,7 @@
 layout: term
 title: cam yünü
 slug: cam-yunu
+letter: C
 lisan: Türkçe
 anlamlar:
 - ► cam elyafı

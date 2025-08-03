@@ -2,6 +2,7 @@
 layout: term
 title: diferansiyel hesap
 slug: diferansiyel-hesap
+letter: D
 lisan: Türkçe
 anlamlar:
 - Değişkenlerin sonsuz küçük dizi farklarındaki artma değerlerini bulmaya yarayan hesap

@@ -2,6 +2,7 @@
 layout: term
 title: bükülüş
 slug: bukulus
+letter: B
 lisan: Türkçe
 anlamlar:
 - Bükülmek işi

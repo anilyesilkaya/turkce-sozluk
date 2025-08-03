@@ -2,6 +2,7 @@
 layout: term
 title: batakhane
 slug: batakhane
+letter: B
 lisan: Türkçe batak + Farsça ḫāne
 anlamlar:
 - Gidenlerin dolandırıldığı veya kötü bir durumda bırakıldığı yer

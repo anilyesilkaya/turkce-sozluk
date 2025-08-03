@@ -2,6 +2,7 @@
 layout: term
 title: kulampara
 slug: kulampara
+letter: K
 lisan: Arapça ġulām + Farsça bāre
 anlamlar:
 - ► oğlancı

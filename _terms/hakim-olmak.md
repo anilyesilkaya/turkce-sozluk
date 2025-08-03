@@ -2,6 +2,7 @@
 layout: term
 title: hâkim olmak
 slug: hakim-olmak
+letter: H
 lisan: Türkçe
 anlamlar:
 - buyruğunu yürütmek, egemenliğini sürdürmek

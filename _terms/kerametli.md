@@ -2,6 +2,7 @@
 layout: term
 title: kerametli
 slug: kerametli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Doğaüstü güce sahip

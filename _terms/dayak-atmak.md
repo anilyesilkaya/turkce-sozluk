@@ -2,6 +2,7 @@
 layout: term
 title: dayak atmak
 slug: dayak-atmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - dövmek, sopa ile dövmek

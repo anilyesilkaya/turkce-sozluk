@@ -2,6 +2,7 @@
 layout: term
 title: bokluk
 slug: bokluk
+letter: B
 lisan: Türkçe
 anlamlar:
 - Kötü durum

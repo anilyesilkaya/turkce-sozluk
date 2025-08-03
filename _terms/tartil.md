@@ -2,6 +2,7 @@
 layout: term
 title: tartıl
 slug: tartil
+letter: T
 lisan: Türkçe
 anlamlar:
 - Tartıya dayanan

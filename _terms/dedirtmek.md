@@ -2,6 +2,7 @@
 layout: term
 title: dedirtmek
 slug: dedirtmek
+letter: D
 lisan: Türkçe
 anlamlar:
 - Demek zorunda bıraktırmak

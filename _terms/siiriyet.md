@@ -2,6 +2,7 @@
 layout: term
 title: şiiriyet
 slug: siiriyet
+letter: Ş
 lisan: Arapça şiʿriyyet
 anlamlar:
 - Şiir olma özelliği

@@ -2,6 +2,7 @@
 layout: term
 title: tökezlemek
 slug: tokezlemek
+letter: T
 lisan: Türkçe
 anlamlar:
 - Yürürken ayağı bir yere çarpıp sendelemek; tökezmek

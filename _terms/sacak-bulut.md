@@ -2,6 +2,7 @@
 layout: term
 title: saçak bulut
 slug: sacak-bulut
+letter: S
 lisan: Türkçe
 anlamlar:
 - İnce, tüy gibi saçaklı görünüşü olan buz parçalarından oluşmuş, kötü hava habercisi beyaz bulut; tüy bulut, sirrus

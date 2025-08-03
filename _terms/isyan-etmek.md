@@ -2,6 +2,7 @@
 layout: term
 title: isyan etmek
 slug: isyan-etmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - başkaldırmak

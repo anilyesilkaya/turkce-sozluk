@@ -2,6 +2,7 @@
 layout: term
 title: yalayış
 slug: yalayis
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yalamak işi

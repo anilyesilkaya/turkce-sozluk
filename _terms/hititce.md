@@ -2,6 +2,7 @@
 layout: term
 title: Hititçe
 slug: hititce
+letter: H
 lisan: Türkçe
 anlamlar:
 - Hititlerin kullandığı dil

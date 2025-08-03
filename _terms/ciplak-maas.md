@@ -2,6 +2,7 @@
 layout: term
 title: çıplak maaş
 slug: ciplak-maas
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - ► çıplak ücret

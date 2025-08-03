@@ -2,6 +2,7 @@
 layout: term
 title: öğürme
 slug: ogurme
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öğürmek işi

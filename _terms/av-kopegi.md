@@ -2,6 +2,7 @@
 layout: term
 title: av köpeği
 slug: av-kopegi
+letter: A
 lisan: Türkçe
 anlamlar:
 - Tazı, kopoy, zağar vb. ava yardımcılık etmeye alıştırılmış köpek

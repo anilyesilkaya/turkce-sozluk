@@ -2,6 +2,7 @@
 layout: term
 title: çanak tutmak (veya açmak)
 slug: canak-tutmak-veya-acmak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - davranışları veya sözleriyle kötü bir sonuca yol açmak

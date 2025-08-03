@@ -2,6 +2,7 @@
 layout: term
 title: yüreği bozulmak
 slug: yuregi-bozulmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - bunalmak, sıkılmak

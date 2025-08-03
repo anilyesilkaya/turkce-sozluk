@@ -2,6 +2,7 @@
 layout: term
 title: ambar
 slug: ambar
+letter: A
 lisan: Farsça anbār
 anlamlar:
 - Genellikle tahıl saklanan yer

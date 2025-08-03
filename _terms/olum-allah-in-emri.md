@@ -2,6 +2,7 @@
 layout: term
 title: ölüm Allah'ın emri
 slug: olum-allah-in-emri
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - '"herkes ölecek, ölmek kaçınılmazdır" anlamında kullanılan bir söz'

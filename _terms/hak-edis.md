@@ -2,6 +2,7 @@
 layout: term
 title: hak ediş
 slug: hak-edis
+letter: H
 lisan: Türkçe
 anlamlar:
 - Bir üretim veya yapım sırasında hak edilmiş durum veya para; istihkak

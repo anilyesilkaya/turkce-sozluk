@@ -2,6 +2,7 @@
 layout: term
 title: olağan
 slug: olagan
+letter: O
 lisan: Türkçe
 anlamlar:
 - Sık sık olan, olagelen, doğal biçimde olan, olmadık karşıtı

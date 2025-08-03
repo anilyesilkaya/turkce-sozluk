@@ -2,6 +2,7 @@
 layout: term
 title: aharlamak
 slug: aharlamak
+letter: A
 lisan: Türkçe
 anlamlar:
 - Ahar sürmek

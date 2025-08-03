@@ -2,6 +2,7 @@
 layout: term
 title: avunuş
 slug: avunus
+letter: A
 lisan: Türkçe
 anlamlar:
 - Avunmak işi

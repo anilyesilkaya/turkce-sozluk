@@ -2,6 +2,7 @@
 layout: term
 title: aval
 slug: aval
+letter: A
 lisan: Türkçe
 anlamlar:
 - Saflığı sersemlik derecesine varan (kimse)

@@ -2,6 +2,7 @@
 layout: term
 title: mecalsiz
 slug: mecalsiz
+letter: M
 lisan: Türkçe
 anlamlar:
 - ► takatsiz

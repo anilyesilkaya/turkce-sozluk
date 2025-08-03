@@ -2,6 +2,7 @@
 layout: term
 title: gıllıgışlı
 slug: gilligisli
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gizli amaçlı

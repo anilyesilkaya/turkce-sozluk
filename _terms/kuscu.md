@@ -2,6 +2,7 @@
 layout: term
 title: kuşçu
 slug: kuscu
+letter: K
 lisan: Türkçe
 anlamlar:
 - Süs kuşları yetiştirip satan kimse

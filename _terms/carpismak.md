@@ -2,6 +2,7 @@
 layout: term
 title: çarpışmak
 slug: carpismak
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Birbirine çarpmak, tokuşmak

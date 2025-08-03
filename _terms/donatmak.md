@@ -2,6 +2,7 @@
 layout: term
 title: donatmak
 slug: donatmak
+letter: D
 lisan: Türkçe
 anlamlar:
 - Birinin giyimini sağlamak

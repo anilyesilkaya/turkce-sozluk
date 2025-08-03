@@ -2,6 +2,7 @@
 layout: term
 title: badire
 slug: badire
+letter: B
 lisan: Arapça bādire
 anlamlar:
 - Birdenbire ortaya çıkan tehlikeli durum

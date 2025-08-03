@@ -2,6 +2,7 @@
 layout: term
 title: rahatsız etmek
 slug: rahatsiz-etmek
+letter: R
 lisan: Türkçe
 anlamlar:
 - rahatını bozmak, rahatını, keyfini kaçırmak

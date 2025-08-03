@@ -2,6 +2,7 @@
 layout: term
 title: safari
 slug: safari
+letter: S
 lisan: Fransızca safari
 anlamlar:
 - Afrika'nın doğusunda toplu olarak yapılan vahşi hayvan avı

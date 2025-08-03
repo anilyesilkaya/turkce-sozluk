@@ -2,6 +2,7 @@
 layout: term
 title: külfet
 slug: kulfet
+letter: K
 lisan: Arapça kulfet
 anlamlar:
 - Herhangi bir iş yaparken yaşanan sıkıntı, zorluk

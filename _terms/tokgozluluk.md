@@ -2,6 +2,7 @@
 layout: term
 title: tokgözlülük
 slug: tokgozluluk
+letter: T
 lisan: Türkçe
 anlamlar:
 - ► gözü tokluk

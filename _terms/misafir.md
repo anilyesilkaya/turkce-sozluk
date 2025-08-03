@@ -2,6 +2,7 @@
 layout: term
 title: misafir
 slug: misafir
+letter: M
 lisan: Arapça musāfir
 anlamlar:
 - ► konuk

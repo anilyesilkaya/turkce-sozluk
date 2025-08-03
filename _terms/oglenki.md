@@ -2,6 +2,7 @@
 layout: term
 title: 'öğlenki '
 slug: oglenki
+letter: Ö
 lisan: Türkçe
 anlamlar:
 - Öğlene özgü, öğlen olan, öğlen yapılan

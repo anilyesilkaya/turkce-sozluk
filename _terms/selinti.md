@@ -2,6 +2,7 @@
 layout: term
 title: selinti
 slug: selinti
+letter: S
 lisan: Türkçe
 anlamlar:
 - Yağış sebebiyle oluşan ufak sel

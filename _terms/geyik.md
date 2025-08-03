@@ -2,6 +2,7 @@
 layout: term
 title: geyik
 slug: geyik
+letter: G
 lisan: Türkçe
 anlamlar:
 - Geyikgillerden, erkeklerinin başında uzun ve çatallı boynuzları olan memeli hayvan (Cervus elaphus)

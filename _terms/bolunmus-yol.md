@@ -2,6 +2,7 @@
 layout: term
 title: bölünmüş yol
 slug: bolunmus-yol
+letter: B
 lisan: Türkçe
 anlamlar:
 - Gidiş ve geliş yönü bariyerlerle ayrılmış yol; duble yol

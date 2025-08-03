@@ -2,6 +2,7 @@
 layout: term
 title: yığmak
 slug: yigmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Bir tepe oluşturacak biçimde üst üste koymak

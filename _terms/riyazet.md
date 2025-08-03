@@ -2,6 +2,7 @@
 layout: term
 title: riyazet
 slug: riyazet
+letter: R
 lisan: Arapça riyāżet
 anlamlar:
 - Nefsin isteklerini kırma

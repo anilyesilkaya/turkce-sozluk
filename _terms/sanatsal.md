@@ -2,6 +2,7 @@
 layout: term
 title: sanatsal
 slug: sanatsal
+letter: S
 lisan: Türkçe
 anlamlar:
 - Sanata ilişkin, sanatla ilgili; sanatlık

@@ -2,6 +2,7 @@
 layout: term
 title: pireyi gözünden vurmak
 slug: pireyi-gozunden-vurmak
+letter: P
 lisan: Türkçe
 anlamlar:
 - keskin nişancı olmak

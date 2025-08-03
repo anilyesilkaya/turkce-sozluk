@@ -2,6 +2,7 @@
 layout: term
 title: okunmak
 slug: okunmak
+letter: O
 lisan: Türkçe
 anlamlar:
 - Okuma işine konu olmak

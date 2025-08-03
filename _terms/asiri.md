@@ -2,6 +2,7 @@
 layout: term
 title: aşırı
 slug: asiri
+letter: A
 lisan: Türkçe
 anlamlar:
 - Alışılan veya dayanılabilen dereceden çok daha fazla; şiddetli, taşkın

@@ -2,6 +2,7 @@
 layout: term
 title: korna
 slug: korna
+letter: K
 lisan: İtalyanca corna
 anlamlar:
 - Motorlu taşıtlarda, bisikletlerde sesle işaret vermek için kullanılan ve içinden hava geçirilerek çalınan boru; klakson

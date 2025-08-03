@@ -2,6 +2,7 @@
 layout: term
 title: tezkiye
 slug: tezkiye
+letter: T
 lisan: Arapça tezkiye
 anlamlar:
 - ► aklama

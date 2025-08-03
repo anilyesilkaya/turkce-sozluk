@@ -2,6 +2,7 @@
 layout: term
 title: alt
 slug: alt
+letter: A
 lisan: Türkçe
 anlamlar:
 - Bir şeyin yere bakan yanı; zir, üst karşıtı

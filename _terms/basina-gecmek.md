@@ -2,6 +2,7 @@
 layout: term
 title: başına geçmek
 slug: basina-gecmek
+letter: B
 lisan: Türkçe
 anlamlar:
 - görevi altında bulundurmak

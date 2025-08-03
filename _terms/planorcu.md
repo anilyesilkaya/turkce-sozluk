@@ -2,6 +2,7 @@
 layout: term
 title: planörcü
 slug: planorcu
+letter: P
 lisan: Türkçe
 anlamlar:
 - Planör kullanan kimse

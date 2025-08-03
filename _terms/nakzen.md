@@ -2,6 +2,7 @@
 layout: term
 title: nakzen
 slug: nakzen
+letter: N
 lisan: Arapça naḳżen
 anlamlar:
 - Bozarak

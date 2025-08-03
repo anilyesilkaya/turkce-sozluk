@@ -2,6 +2,7 @@
 layout: term
 title: helikoit
 slug: helikoit
+letter: H
 lisan: Fransızca hélicoïde
 anlamlar:
 - Helis biçiminde eğri yüzey

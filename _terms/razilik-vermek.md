@@ -2,6 +2,7 @@
 layout: term
 title: razılık vermek
 slug: razilik-vermek
+letter: R
 lisan: Türkçe
 anlamlar:
 - razı olmak

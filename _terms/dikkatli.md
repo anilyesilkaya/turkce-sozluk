@@ -2,6 +2,7 @@
 layout: term
 title: dikkatli
 slug: dikkatli
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dikkat eden, özen gösteren (kimse)

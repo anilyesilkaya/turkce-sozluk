@@ -2,6 +2,7 @@
 layout: term
 title: jimnastikhane
 slug: jimnastikhane
+letter: J
 lisan: Fransızca gymnastique + Farsça ḫāne
 anlamlar:
 - Jimnastik yapılan salon

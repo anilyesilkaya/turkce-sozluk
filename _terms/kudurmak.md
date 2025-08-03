@@ -2,6 +2,7 @@
 layout: term
 title: kudurmak
 slug: kudurmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kuduz hastalığına yakalanmak, kuduz olmak

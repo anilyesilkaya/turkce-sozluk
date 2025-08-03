@@ -2,6 +2,7 @@
 layout: term
 title: çalgıcılık
 slug: calgicilik
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çalgıcının yaptığı iş

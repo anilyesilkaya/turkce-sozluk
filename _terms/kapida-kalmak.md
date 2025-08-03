@@ -2,6 +2,7 @@
 layout: term
 title: kapıda kalmak
 slug: kapida-kalmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - içeri girememek

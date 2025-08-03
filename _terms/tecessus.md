@@ -2,6 +2,7 @@
 layout: term
 title: tecessüs
 slug: tecessus
+letter: T
 lisan: Arapça tecessus
 anlamlar:
 - Kendini ilgilendirmeyen şeyleri belli etmeden öğrenmeye çalışma

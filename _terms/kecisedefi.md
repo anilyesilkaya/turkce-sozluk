@@ -2,6 +2,7 @@
 layout: term
 title: keçisedefi
 slug: kecisedefi
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► keçisakalı

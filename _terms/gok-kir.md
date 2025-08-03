@@ -2,6 +2,7 @@
 layout: term
 title: gök kır
 slug: gok-kir
+letter: G
 lisan: Türkçe
 anlamlar:
 - Gri, kurşuni renkli at donu

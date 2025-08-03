@@ -2,6 +2,7 @@
 layout: term
 title: seferî
 slug: seferi
+letter: S
 lisan: Arapça seferī
 anlamlar:
 - Yolculukla ilgili olan

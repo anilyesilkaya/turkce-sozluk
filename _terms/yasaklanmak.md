@@ -2,6 +2,7 @@
 layout: term
 title: yasaklanmak
 slug: yasaklanmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yasak edilmek, yapılmaması buyrulmak veya istenmek, yapılması engellenmek, önlenmek; menedilmek, alıkonulmak, menolunmak

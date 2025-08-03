@@ -2,6 +2,7 @@
 layout: term
 title: irtibat kurmak
 slug: irtibat-kurmak
+letter: I
 lisan: Türkçe
 anlamlar:
 - bağlantı sağlamak

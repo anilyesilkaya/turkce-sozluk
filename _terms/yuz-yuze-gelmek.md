@@ -2,6 +2,7 @@
 layout: term
 title: yüz yüze gelmek
 slug: yuz-yuze-gelmek
+letter: Y
 lisan: Türkçe
 anlamlar:
 - birden karşılaşmak

@@ -2,6 +2,7 @@
 layout: term
 title: çatlayabilmek
 slug: catlayabilmek
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çatlama ihtimali veya imkânı bulunmak

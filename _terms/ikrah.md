@@ -2,6 +2,7 @@
 layout: term
 title: ikrah
 slug: ikrah
+letter: I
 lisan: Arapça ikrāh
 anlamlar:
 - ► tiksinme

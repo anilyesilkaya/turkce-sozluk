@@ -2,6 +2,7 @@
 layout: term
 title: zayi
 slug: zayi
+letter: Z
 lisan: Arapça żāyiʿ
 anlamlar:
 - Kaybolma, yitme

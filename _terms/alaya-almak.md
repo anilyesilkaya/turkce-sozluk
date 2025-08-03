@@ -2,6 +2,7 @@
 layout: term
 title: alaya almak
 slug: alaya-almak
+letter: A
 lisan: Türkçe
 anlamlar:
 - alay etmek

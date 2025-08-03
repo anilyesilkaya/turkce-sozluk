@@ -2,6 +2,7 @@
 layout: term
 title: diyafram
 slug: diyafram
+letter: D
 lisan: Fransızca diaphragme
 anlamlar:
 - Göğüs ve karın boşluklarını birbirinden ayıran ince ve geniş kas

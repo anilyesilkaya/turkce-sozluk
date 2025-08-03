@@ -2,6 +2,7 @@
 layout: term
 title: son nefes
 slug: son-nefes
+letter: S
 lisan: Türkçe
 anlamlar:
 - Ölümden önce alınıp verilen soluk

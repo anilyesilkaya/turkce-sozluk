@@ -2,6 +2,7 @@
 layout: term
 title: katkı maddesi
 slug: katki-maddesi
+letter: K
 lisan: Türkçe
 anlamlar:
 - Petrol ürünlerine katıldığı zaman bunlara istenilen özellikleri sağlayan veya doğal özelliklerini kuvvetlendiren uygun bir madde

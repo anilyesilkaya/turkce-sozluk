@@ -2,6 +2,7 @@
 layout: term
 title: aklıselim
 slug: akliselim
+letter: A
 lisan: Arapça ʿaḳl + selīm
 anlamlar:
 - ► sağduyu

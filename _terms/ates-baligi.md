@@ -2,6 +2,7 @@
 layout: term
 title: ateş balığı
 slug: ates-baligi
+letter: A
 lisan: Türkçe
 anlamlar:
 - ► sardalya

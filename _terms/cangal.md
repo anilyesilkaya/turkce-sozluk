@@ -2,6 +2,7 @@
 layout: term
 title: çangal
 slug: cangal
+letter: Ç
 lisan: Farsça çengāl
 anlamlar:
 - Dallı budaklı ağaç

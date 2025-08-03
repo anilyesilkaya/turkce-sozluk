@@ -2,6 +2,7 @@
 layout: term
 title: su bardağı
 slug: su-bardagi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Su içmeye yarayan bardak

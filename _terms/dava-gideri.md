@@ -2,6 +2,7 @@
 layout: term
 title: dava gideri
 slug: dava-gideri
+letter: D
 lisan: Türkçe
 anlamlar:
 - Dava açılırken ödenen ücret ile avukatlık giderleri; yargılama gideri, mahkeme masrafı

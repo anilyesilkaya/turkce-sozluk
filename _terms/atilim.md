@@ -2,6 +2,7 @@
 layout: term
 title: atılım
 slug: atilim
+letter: A
 lisan: Türkçe
 anlamlar:
 - Atılmak işi

@@ -2,6 +2,7 @@
 layout: term
 title: yemyeşil
 slug: yemyesil
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Her yanı yeşil, çok yeşil

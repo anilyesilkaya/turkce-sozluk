@@ -2,6 +2,7 @@
 layout: term
 title: ekspres yol
 slug: ekspres-yol
+letter: E
 lisan: Türkçe
 anlamlar:
 - Taşıtların hızlarını kesmeden gidebileceği genişlikte, gidiş ve geliş yönleri bölünmüş yol

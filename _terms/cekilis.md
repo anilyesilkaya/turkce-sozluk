@@ -2,6 +2,7 @@
 layout: term
 title: çekiliş
 slug: cekilis
+letter: Ç
 lisan: Türkçe
 anlamlar:
 - Çekilmek işi

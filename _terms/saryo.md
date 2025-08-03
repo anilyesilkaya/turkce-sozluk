@@ -2,6 +2,7 @@
 layout: term
 title: şaryo
 slug: saryo
+letter: Ş
 lisan: Fransızca chariot
 anlamlar:
 - Bir aletin veya aracın hareketli parçası

@@ -2,6 +2,7 @@
 layout: term
 title: pırnakıl
 slug: pirnakil
+letter: P
 lisan: Ermenice
 anlamlar:
 - Herhangi bir yerde yoğun olarak, çok fazla bulunan

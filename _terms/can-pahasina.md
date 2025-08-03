@@ -2,6 +2,7 @@
 layout: term
 title: can pahasına
 slug: can-pahasina
+letter: C
 lisan: Türkçe
 anlamlar:
 - Canını vererek veya tehlikeye koyarak

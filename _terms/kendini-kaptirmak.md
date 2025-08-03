@@ -2,6 +2,7 @@
 layout: term
 title: kendini kaptırmak
 slug: kendini-kaptirmak
+letter: K
 lisan: Türkçe
 anlamlar:
 - bir şeyin etkisinden kurtulamayacak duruma düşmek

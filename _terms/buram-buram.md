@@ -2,6 +2,7 @@
 layout: term
 title: buram buram
 slug: buram-buram
+letter: B
 lisan: Türkçe
 anlamlar:
 - Duman, koku vb. çok etkili bir biçimde yayılarak

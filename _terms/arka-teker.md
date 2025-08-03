@@ -2,6 +2,7 @@
 layout: term
 title: arka teker
 slug: arka-teker
+letter: A
 lisan: Türkçe
 anlamlar:
 - Araçların arka düzeninde yer alan tekerlek; art teker

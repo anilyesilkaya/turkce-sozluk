@@ -2,6 +2,7 @@
 layout: term
 title: iki eli yanına düşmek
 slug: iki-eli-yanina-dusmek
+letter: I
 lisan: Türkçe
 anlamlar:
 - büyük bir şaşkınlıkla olduğu yerde donakalmak

@@ -2,6 +2,7 @@
 layout: term
 title: kolcu
 slug: kolcu
+letter: K
 lisan: Türkçe
 anlamlar:
 - ► muhafız

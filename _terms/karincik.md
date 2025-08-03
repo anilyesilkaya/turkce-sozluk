@@ -2,6 +2,7 @@
 layout: term
 title: karıncık
 slug: karincik
+letter: K
 lisan: Türkçe
 anlamlar:
 - Vücudun çeşitli organları içinde bulunan boşluk

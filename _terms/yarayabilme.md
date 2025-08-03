@@ -2,6 +2,7 @@
 layout: term
 title: yarayabilme
 slug: yarayabilme
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yarayabilmek işi

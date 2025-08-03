@@ -2,6 +2,7 @@
 layout: term
 title: kokmuş
 slug: kokmus
+letter: K
 lisan: Türkçe
 anlamlar:
 - Çürüyüp bozularak kötü kokan; kokuşuk, müteaffin

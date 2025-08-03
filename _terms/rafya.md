@@ -2,6 +2,7 @@
 layout: term
 title: rafya
 slug: rafya
+letter: R
 lisan: Fransızca raphia
 anlamlar:
 - Afrika ve Amerika'da yetişen, iri gövdeli, uzun yapraklı palmiye (Raphie)

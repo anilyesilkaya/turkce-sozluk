@@ -2,6 +2,7 @@
 layout: term
 title: baba yurdu
 slug: baba-yurdu
+letter: B
 lisan: Türkçe
 anlamlar:
 - ► baba ocağı

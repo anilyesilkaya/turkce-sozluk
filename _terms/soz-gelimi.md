@@ -2,6 +2,7 @@
 layout: term
 title: söz gelimi
 slug: soz-gelimi
+letter: S
 lisan: Türkçe
 anlamlar:
 - ► söz gelişi

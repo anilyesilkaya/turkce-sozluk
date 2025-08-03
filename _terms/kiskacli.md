@@ -2,6 +2,7 @@
 layout: term
 title: kıskaçlı
 slug: kiskacli
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kıskacı olan

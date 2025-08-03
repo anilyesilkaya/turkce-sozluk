@@ -2,6 +2,7 @@
 layout: term
 title: döşemeci
 slug: dosemeci
+letter: D
 lisan: Türkçe
 anlamlar:
 - Koltuk, kanepe, divan vb. ev eşyalara kumaş kaplayan kimse

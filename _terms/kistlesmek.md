@@ -2,6 +2,7 @@
 layout: term
 title: kistleşmek
 slug: kistlesmek
+letter: K
 lisan: Türkçe
 anlamlar:
 - Yabancı bir cisim veya patolojik bir urun çevresinde katılgan doku sertleşmek

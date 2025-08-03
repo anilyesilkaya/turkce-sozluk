@@ -2,6 +2,7 @@
 layout: term
 title: balıklama
 slug: baliklama
+letter: B
 lisan: Türkçe
 anlamlar:
 - Suya dalmada, atlamada balık gibi gergin, düz ve baş aşağı bir biçimde

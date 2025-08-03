@@ -2,6 +2,7 @@
 layout: term
 title: latife etmek
 slug: latife-etmek
+letter: L
 lisan: Türkçe
 anlamlar:
 - şaka etmek

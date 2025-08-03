@@ -2,6 +2,7 @@
 layout: term
 title: mindersiz
 slug: mindersiz
+letter: M
 lisan: Türkçe
 anlamlar:
 - Minderi olmayan

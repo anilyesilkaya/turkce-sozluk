@@ -2,6 +2,7 @@
 layout: term
 title: su nanesi
 slug: su-nanesi
+letter: S
 lisan: Türkçe
 anlamlar:
 - Kırmızımtırak renkli, az veya çok tüylü, yaprakları saplı ve kuvvetli kokulu, çok yıllık ve otsu bir bitki (Mentha aquatica)

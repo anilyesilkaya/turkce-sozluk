@@ -2,6 +2,7 @@
 layout: term
 title: pansiyon
 slug: pansiyon
+letter: P
 lisan: Fransızca pension
 anlamlar:
 - Bütünü veya bir bölümü sürekli veya belli bir zaman için kiraya verilen, isteğe göre yemek de veren ev

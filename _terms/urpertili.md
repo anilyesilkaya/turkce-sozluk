@@ -2,6 +2,7 @@
 layout: term
 title: ürpertili
 slug: urpertili
+letter: Ü
 lisan: Türkçe
 anlamlar:
 - Titreşimi olan

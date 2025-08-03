@@ -2,6 +2,7 @@
 layout: term
 title: yağmalanmak
 slug: yagmalanmak
+letter: Y
 lisan: Türkçe
 anlamlar:
 - Yağma edilmek; talanlanmak

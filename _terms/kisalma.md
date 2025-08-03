@@ -2,6 +2,7 @@
 layout: term
 title: kısalma
 slug: kisalma
+letter: K
 lisan: Türkçe
 anlamlar:
 - Kısalmak işi

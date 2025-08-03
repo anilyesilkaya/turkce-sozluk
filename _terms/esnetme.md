@@ -2,6 +2,7 @@
 layout: term
 title: esnetme
 slug: esnetme
+letter: E
 lisan: Türkçe
 anlamlar:
 - Esnetmek işi

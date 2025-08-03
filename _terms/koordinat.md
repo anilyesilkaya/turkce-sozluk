@@ -2,6 +2,7 @@
 layout: term
 title: koordinat
 slug: koordinat
+letter: K
 lisan: Fransızca coordinat
 anlamlar:
 - Belirli bir molekül içinde özel bir konuma sahip bir atoma bağlı olan atom veya atom grubu

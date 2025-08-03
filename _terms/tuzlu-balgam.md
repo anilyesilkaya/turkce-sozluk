@@ -2,6 +2,7 @@
 layout: term
 title: tuzlu balgam
 slug: tuzlu-balgam
+letter: T
 lisan: Türkçe
 anlamlar:
 - Birtakım deri hastalıklarının ortak adı

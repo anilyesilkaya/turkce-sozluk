@@ -2,6 +2,7 @@
 layout: term
 title: anonim
 slug: anonim
+letter: A
 lisan: Fransızca anonyme
 anlamlar:
 - Adı sanı bilinmeyen

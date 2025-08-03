@@ -2,6 +2,7 @@
 layout: term
 title: uzun öykü
 slug: uzun-oyku
+letter: U
 lisan: Türkçe
 anlamlar:
 - ► uzun hikâye

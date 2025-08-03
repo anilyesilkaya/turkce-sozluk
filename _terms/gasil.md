@@ -2,6 +2,7 @@
 layout: term
 title: gasil
 slug: gasil
+letter: G
 lisan: Arapça ġasl
 anlamlar:
 - ► ölü yıkama

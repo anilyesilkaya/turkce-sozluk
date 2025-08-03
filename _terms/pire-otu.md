@@ -2,6 +2,7 @@
 layout: term
 title: pire otu
 slug: pire-otu
+letter: P
 lisan: Türkçe
 anlamlar:
 - Yüksekliği 25-50 santimetre olan, parçalı yapraklı, soluk veya koyu pembe çiçekli, böcekleri özellikle pireleri öldürmek amacıyla kullanılan otsu bir bitki; Oltu otu, pirekapan (Tanacetum coccineum)

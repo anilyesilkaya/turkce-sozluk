@@ -2,6 +2,7 @@
 layout: term
 title: ilinti
 slug: ilinti
+letter: I
 lisan: Türkçe
 anlamlar:
 - ► ilişki

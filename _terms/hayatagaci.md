@@ -2,6 +2,7 @@
 layout: term
 title: hayatağacı
 slug: hayatagaci
+letter: H
 lisan: Türkçe
 anlamlar:
 - ► soyağacı
